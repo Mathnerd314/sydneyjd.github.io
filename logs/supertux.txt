@@ -13690,3 +13690,4 @@
 [2015/11/05 19:15:25] @ Karkus left channel #supertux ("Leaving")
 [2015/11/05 19:20:53] <head8debian> Tobbi: Im getting somewhere. :D
 [2015/11/05 19:24:34] <head8debian> Tobbi: Almost there...
+[2015/11/05 19:30:12] @ Quit: Wuzzy: Remote host closed the connection
