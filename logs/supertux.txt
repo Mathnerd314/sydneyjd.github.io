@@ -765,3 +765,46 @@
 [2015/11/06 18:28:10] <Tobbi> Hmm, that's a thing I don't know. I don't normally follow that many open source projects.
 [2015/11/06 18:28:18] <Karkus> Tobbi: Okay
 [2015/11/06 18:28:26] <Karkus> I doubt it though
+[2015/11/06 18:30:19] <Tobbi> Karkus: on the other hand, levels based on music will likely be hard for the hearing impaired.
+[2015/11/06 18:30:26] <Tobbi> So maybe we shouldn't develop that idea further...
+[2015/11/06 18:31:28] <Karkus> Tobbi: We should have a braile version of the wiki
+[2015/11/06 18:31:32] <Karkus> jk :D
+[2015/11/06 18:31:39] <Karkus> Tobbi: We could have subtitles
+[2015/11/06 18:31:49] <Karkus> If you *really* want
+[2015/11/06 18:32:04] <Tobbi> :D
+[2015/11/06 18:32:08] <Tobbi> Hmm...
+[2015/11/06 18:32:23] <Tobbi> How would a music level actually look like anyway?
+[2015/11/06 18:32:24] <Tobbi> :D
+[2015/11/06 18:33:00] <Tobbi> But, yeah, braille...
+[2015/11/06 18:33:01] <Tobbi> :D
+[2015/11/06 18:33:37] <Karkus> Tobbi: But, yeah, braille, no :P
+[2015/11/06 18:33:47] <datahead8888> A music based level would probably have differet notes or snippets of music play at different points that cue the player in to actions.  For visual look you could have staffs and/or notes.
+[2015/11/06 18:34:01] <Tobbi> Karkus: What program did you use to compose the music?
+[2015/11/06 18:34:13] <datahead8888> For the hearing impaired you would have to have text that allows them to get the hints without auditory cues.
+[2015/11/06 18:34:21] <Karkus> Tobbi: Musescore
+[2015/11/06 18:34:24] <Tobbi> Sounds interesting.
+[2015/11/06 18:34:49] <datahead8888> Now, programming levels for the blind would be interesting.  You would need auditory cues that allow them to play in a "dark level" so as to speak
+[2015/11/06 18:34:53] <Karkus> You can probably already script sounds in anyway
+[2015/11/06 18:35:13] <Karkus> Echo location supertux, anyone?
+[2015/11/06 18:35:21] <datahead8888> Oh, that's a good idea
+[2015/11/06 18:35:32] <datahead8888> It would make an interesting challenge for people who see, too
+[2015/11/06 18:35:47] <datahead8888> It would probably have to be a slow moving level
+[2015/11/06 18:36:04] <datahead8888> You wouldn't want enemies that move fast and dive bomb the player in something like that :)
+[2015/11/06 18:36:16] <Tobbi> Create issues, guys.
+[2015/11/06 18:36:17] <Tobbi> :D
+[2015/11/06 18:36:19] <Karkus> datahead8888: A pit would be hard enough
+[2015/11/06 18:36:29] <Tobbi> Interesting thing for post 0.4.0
+[2015/11/06 18:36:45] <Karkus> Everything is interesting when it's post 0.4.0 :D
+[2015/11/06 18:36:57] <Tobbi> :D
+[2015/11/06 18:37:19] <datahead8888> I've suggested some of this kind of stuff for Secret Chronicles before - it's all a matter of priorities
+[2015/11/06 18:37:24] <datahead8888> But if you want, I could file some issues
+[2015/11/06 18:38:27] <datahead8888> While you're at it, it's good to think about disability accessibility for the whole game
+[2015/11/06 18:38:32] <datahead8888> What if you have a color blind player?
+[2015/11/06 18:38:54] <datahead8888> Or have tones in other parts of the game
+[2015/11/06 18:39:22] <Tobbi> But it's hard for colour blind people, anyway.
+[2015/11/06 18:39:28] <Tobbi> Unless we filter everything in specific colours/
+[2015/11/06 18:39:46] <datahead8888> Well, you'd probably focus on critical items they have to differentiate.
+[2015/11/06 18:40:12] <datahead8888> It might be a bit challenging to do unless you can find a color blind volunteer to check out the game
+[2015/11/06 18:42:45] <Karkus> datahead8debian: Colour blindness does not affect people that much
+[2015/11/06 18:43:09] <Karkus> It's not like black and white, and supertux doesn't need colours to fucntion
+[2015/11/06 18:44:00] <datahead8888> If you had text without good contrast it could become an issue
