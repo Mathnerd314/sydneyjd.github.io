@@ -643,3 +643,37 @@
 [2015/11/06 17:29:37] <Karkus> ./ban head8debian
 [2015/11/06 17:29:39] <Tobbi> Karkus: I remember watching a video years ago with "I got a bad case of diarrhea" (for whatever reason you need that in everyday English) :D
 [2015/11/06 17:29:51] <head8debian> Tobbi: You mean a couple moths ago...
+[2015/11/06 17:30:01] <head8debian> months*
+[2015/11/06 17:30:04] <Tobbi> head8debian: Really? I showed you this before?
+[2015/11/06 17:30:11] <Karkus> hahaha
+[2015/11/06 17:30:41] <Tobbi> Karkus: https://www.youtube.com/watch?v=CKjaFG4YN6g
+[2015/11/06 17:30:43] <brmbrmcar> It is diarrhoea!
+[2015/11/06 17:30:52] <brmbrmcar> Not diarrea!
+[2015/11/06 17:31:28] <Tobbi> http://www.dict.cc/?s=diarrhea
+[2015/11/06 17:31:31] <Karkus> ./ban brmbrmcar
+[2015/11/06 17:31:50] <brmbrmcar> Rubbish.
+[2015/11/06 17:31:59] <brmbrmcar> I am the king of English.
+[2015/11/06 17:32:35] <Karkus> I am the king of England
+[2015/11/06 17:33:12] <brmbrmcar> It is the United Kingdom!
+[2015/11/06 17:33:44] <Karkus> brmbrmcar: I don't want Northern Ireland or Wales
+[2015/11/06 17:33:55] <Karkus> Maybe King of Britain
+[2015/11/06 17:33:57] <brmbrmcar> Scotland?
+[2015/11/06 17:34:07] <Karkus> brmbrmcar: Nice view
+[2015/11/06 17:34:27] <brmbrmcar> It is all the same place.
+[2015/11/06 17:34:54] <Karkus> brmbrmcar: ik, but I don't want NI or wales so I said England
+[2015/11/06 17:35:08] <brmbrmcar> Why?
+[2015/11/06 17:35:43] <Karkus> Why what?
+[2015/11/06 17:36:07] <brmbrmcar> Do you not want NI or Wales?
+[2015/11/06 17:36:43] <Karkus> brmbrmcar: Where do you live?
+[2015/11/06 17:36:51] <Karkus> Country wise
+[2015/11/06 17:36:51] <brmbrmcar> England.
+[2015/11/06 17:37:08] <Karkus> brmbrmcar: You know NI is a mess atm right?
+[2015/11/06 17:37:21] <brmbrmcar> Yes.
+[2015/11/06 17:37:26] <Karkus> and Wales, well idk I can't understand them
+[2015/11/06 17:37:31] <brmbrmcar> I was born in Scotland.
+[2015/11/06 17:37:38] <brmbrmcar> Wales is fine.
+[2015/11/06 17:37:53] <brmbrmcar> NI is a bit problematic...
+[2015/11/06 17:38:02] <Tobbi> You are a bit problematic.
+[2015/11/06 17:38:13] * Karkus heckles
+[2015/11/06 17:38:16] <Karkus> :D
+[2015/11/06 17:43:04] @ Quit: brmbrmcar: Quit: brmbrmquit
