@@ -432,3 +432,143 @@
 [2015/11/06 16:59:47] <red_bot>   / /   ____ __ _   / /   ____ __ _  ____ ___ _ ____
 [2015/11/06 16:59:47] <red_bot>  / _ \ / __//  ' \ / _ \ / __//  ' \/ __// _ `// __/
 [2015/11/06 16:59:47] <red_bot> /_.__//_/  /_/_/_//_.__//_/  /_/_/_/\__/ \_,_//_/
+[2015/11/06 17:00:15] <Karkus> ~toilet test
+[2015/11/06 17:00:15] <red_bot> Karkus: toilet couldn't be found. if it's installed, you should set the toilet.path config key to its path
+[2015/11/06 17:00:22] <head8debian> hehe.
+[2015/11/06 17:00:22] <leyyin> ~figlet STOP
+[2015/11/06 17:00:22] <red_bot>    ____ ______ ____   ___ 
+[2015/11/06 17:00:22] <red_bot>   / __//_  __// __ \ / _ \
+[2015/11/06 17:00:22] <red_bot>  _\ \   / /  / /_/ // ___/
+[2015/11/06 17:00:22] <red_bot> /___/  /_/   \____//_/
+[2015/11/06 17:00:33] <Karkus> ~figlet Okay
+[2015/11/06 17:00:33] <red_bot>   ____   __              
+[2015/11/06 17:00:33] <red_bot>  / __ \ / /__ ___ _ __ __
+[2015/11/06 17:00:33] <red_bot> / /_/ //  '_// _ `// // /
+[2015/11/06 17:00:33] <red_bot> \____//_/\_\ \_,_/ \_, / 
+[2015/11/06 17:00:33] <red_bot>                   /___/
+[2015/11/06 17:00:49] <brmbrmcar> ~figlet pneumonoultramicroscopicsilicovolcanoconiosis
+[2015/11/06 17:00:49] <red_bot>                                                       __ __      
+[2015/11/06 17:00:49] <red_bot>    ___   ___  ___  __ __ __ _  ___   ___  ___  __ __ / // /_ ____
+[2015/11/06 17:00:49] <red_bot>   / _ \ / _ \/ -_)/ // //  ' \/ _ \ / _ \/ _ \/ // // // __// __/
+[2015/11/06 17:00:49] <red_bot>  / .__//_//_/\__/ \_,_//_/_/_/\___//_//_/\___/\_,_//_/ \__//_/   
+[2015/11/06 17:00:49] <red_bot> /_/                                                              
+[2015/11/06 17:00:49] <red_bot>                _                                       _         
+[2015/11/06 17:00:49] <red_bot>  ___ _ __ _   (_)____ ____ ___   ___ ____ ___   ___   (_)____ ___
+[2015/11/06 17:00:49] <red_bot> / _ `//  ' \ / // __// __// _ \ (_-</ __// _ \ / _ \ / // __/(_-<
+[2015/11/06 17:00:49] <red_bot> \_,_//_/_/_//_/ \__//_/   \___//___/\__/ \___// .__//_/ \__//___/
+[2015/11/06 17:00:49] <red_bot>                                              /_/                 
+[2015/11/06 17:00:49] <red_bot>    _  __ _                        __                              
+[2015/11/06 17:00:49] <red_bot>   (_)/ /(_)____ ___  _  __ ___   / /____ ___ _ ___  ___  ____ ___ 
+[2015/11/06 17:00:49] <red_bot>  / // // // __// _ \| |/ // _ \ / // __// _ `// _ \/ _ \/ __// _ \
+[2015/11/06 17:00:49] <red_bot> /_//_//_/ \__/ \___/|___/ \___//_/ \__/ \_,_//_//_/\___/\__/ \___/
+[2015/11/06 17:00:49] <red_bot>                                                                   
+[2015/11/06 17:00:49] <red_bot>          _             _    
+[2015/11/06 17:00:49] <red_bot>   ___   (_)___   ___  (_)___
+[2015/11/06 17:00:49] <red_bot>  / _ \ / // _ \ (_-< / /(_-<
+[2015/11/06 17:00:49] <red_bot> /_//_//_/ \___//___//_//___/
+[2015/11/06 17:00:53] <Tobbi> STOP!
+[2015/11/06 17:00:56] <head8debian> Enough! Or i will uninstall that plugin.
+[2015/11/06 17:01:07] <brmbrmcar> OK.
+[2015/11/06 17:01:11] <head8debian> IRC throttling...
+[2015/11/06 17:01:13] @ You have been kicked from #supertux by Tobbi (stop)
+[2015/11/06 17:01:15] <red_bot> Tobbi: :(
+[2015/11/06 17:01:20] @ Joined channel #supertux
+[2015/11/06 17:01:20] @ Topic is "Welcome to the SuperTux chat | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | Channèl log http://brlcad.org/~maths22/"
+[2015/11/06 17:01:20] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-11-06 12:38:24 -0500
+[2015/11/06 17:01:20] <brmbrmcar> Aww.
+[2015/11/06 17:01:21] <head8debian> Tobbi: Thanks.
+[2015/11/06 17:01:23] @ Mode +nt by verne.freenode.net
+[2015/11/06 17:01:27] <leyyin> bah, grumpy Tobbi
+[2015/11/06 17:01:31] <brmbrmcar> Poor red_bot.
+[2015/11/06 17:01:33] <head8debian> Do it in a private window please.
+[2015/11/06 17:01:35] * leyyin takes a sip from the tea
+[2015/11/06 17:01:41] <Tobbi> leyyin: flood-aware tobbi
+[2015/11/06 17:02:04] <Tobbi> I should've kicked brmbrmcar as well.
+[2015/11/06 17:02:05] <leyyin> btw, I used the travis file from supertux for the stk-editor ;)
+[2015/11/06 17:02:12] <leyyin> without proper reference
+[2015/11/06 17:02:18] <leyyin> you could say I stole it :P
+[2015/11/06 17:02:33] <Tobbi> leyyin: You know...GPL, right?
+[2015/11/06 17:03:01] <leyyin> well I used it as inspiration ;)
+[2015/11/06 17:03:03] <leyyin> sue me Tobbi
+[2015/11/06 17:03:07] @ Quit: Karkus: Quit: Leaving
+[2015/11/06 17:03:17] <Tobbi> leyyin: I am not sure I can.
+[2015/11/06 17:03:22] <Tobbi> :D
+[2015/11/06 17:03:25] <Tobbi> Even if I wanted to.
+[2015/11/06 17:03:28] @ Karkus joined channel #supertux
+[2015/11/06 17:03:37] <leyyin> because it's a travis file anyway ;), the same commands are on the official doc
+[2015/11/06 17:03:39] <brmbrmcar> Ifyou are mean to red_bot, I'll sy
+[2015/11/06 17:03:53] <head8debian> Go listen to some TSC music.
+[2015/11/06 17:03:53] <brmbrmcar> start a gang of bots.
+[2015/11/06 17:03:58] <head8debian> Tobbi. :p
+[2015/11/06 17:04:09] <Karkus> Ddos #supertux
+[2015/11/06 17:04:12] <Tobbi> brmbrmcar: If you do that again, I will ban you from here.
+[2015/11/06 17:04:14] <head8debian> brmbrmcar: If you want that just go play freedroidrpg.
+[2015/11/06 17:05:16] <Karkus> Tobbi: Aw, don't be mean, we didn't mean any harm. It just got a bit out of hand :/
+[2015/11/06 17:05:30] <Karkus> Sorry
+[2015/11/06 17:05:34] <Tobbi> Karkus: It's alright. I am not mean.
+[2015/11/06 17:05:36] <Tobbi> I am evil.
+[2015/11/06 17:06:00] <leyyin> Tobbi, if you are evil then I am Stalin
+[2015/11/06 17:06:12] <Karkus> Tobbi: I think you should stick to torturing babies
+[2015/11/06 17:06:24] <Tobbi> Karkus: Oh, yeah, we need to devise a new method...
+[2015/11/06 17:06:26] <Karkus> Okay that has no context
+[2015/11/06 17:06:28] <Tobbi> What about those wind turbines...
+[2015/11/06 17:06:35] * leyyin abandons ship
+[2015/11/06 17:06:35] <Tobbi> We could couple them with cherry cake.
+[2015/11/06 17:06:46] <Tobbi> leyyin: C'mon, we're only virtually torturing babies.
+[2015/11/06 17:06:52] <leyyin> O_O
+[2015/11/06 17:06:55] <head8debian> ~asci cake
+[2015/11/06 17:06:58] <head8debian> :D
+[2015/11/06 17:07:00] <Karkus> leyyin: And you can join in too!
+[2015/11/06 17:07:03] <head8debian> ~help aci
+[2015/11/06 17:07:03] <red_bot> head8debian: no help for topic aci
+[2015/11/06 17:07:08] <head8debian> ~help asci
+[2015/11/06 17:07:08] <red_bot> head8debian: no help for topic asci
+[2015/11/06 17:07:08] <leyyin> this conversation will come up once you are arrested
+[2015/11/06 17:07:11] <leyyin> good luck people
+[2015/11/06 17:07:23] <Tobbi> leyyin: We never talked about literally torturing babies.
+[2015/11/06 17:07:34] <leyyin> you live in Germany man
+[2015/11/06 17:07:40] <Tobbi> And, for the most part, no one of us has ever tortured a baby.
+[2015/11/06 17:07:49] <leyyin> they arrest you just for wearing an indian sign ;)
+[2015/11/06 17:07:57] <red_bot> Tobbi: sure... your talking about putting 1 baby in 3 trach cans...
+[2015/11/06 17:07:57] <Karkus> Tobbi: Speak for yourself :D
+[2015/11/06 17:07:58] <Tobbi> leyyin: *cough*
+[2015/11/06 17:08:06] <Tobbi> haha
+[2015/11/06 17:08:14] <red_bot> Tobbi: According to my perfect logs...
+[2015/11/06 17:08:24] <Tobbi> That's the exception. If you believe in Buddhism, it's not actually killing if the baby gets reborn.
+[2015/11/06 17:08:38] <Karkus> There are advantages to not having logs too, I guess
+[2015/11/06 17:08:42] <Tobbi> Wait, Buddhism, Hinduism, right?
+[2015/11/06 17:08:53] <head8debian> Karkus: Haha, true.
+[2015/11/06 17:09:06] <head8debian> I actually have to go now... time to get ready to go.
+[2015/11/06 17:09:21] <leyyin> head8debian, have a drink, live a little ;)
+[2015/11/06 17:09:30] <Karkus> head8debian: If the police ask, change baby to something innocent like leyyin
+[2015/11/06 17:09:33] <head8debian> leyyin: Sure, some water. :D
+[2015/11/06 17:09:47] <head8debian> Oh, One last thing...
+[2015/11/06 17:09:52] <head8debian> ~figlet TOBBI!
+[2015/11/06 17:09:52] <red_bot>  ______ ____   ___   ___   ____ __
+[2015/11/06 17:09:52] <red_bot> /_  __// __ \ / _ ) / _ ) /  _// /
+[2015/11/06 17:09:52] <red_bot>  / /  / /_/ // _  |/ _  |_/ / /_/ 
+[2015/11/06 17:09:52] <red_bot> /_/   \____//____//____//___/(_)
+[2015/11/06 17:09:56] <head8debian> :p
+[2015/11/06 17:10:02] <Tobbi> leyyin: Isn't masturbating also killing (potential) babies, unless you impregnate someone during it? :P
+[2015/11/06 17:10:09] <brmbrmcar> Babies prefer crashes in rearward facing seats; they don't have to see Tobbi or Karkus.
+[2015/11/06 17:10:12] <Karkus> ./ban head8debian
+[2015/11/06 17:10:21] <leyyin> Tobbi, go learn some chemistry and biology please
+[2015/11/06 17:10:24] <Tobbi> :D
+[2015/11/06 17:10:27] <Tobbi> leyyin: Well...
+[2015/11/06 17:10:31] <brmbrmcar> Prefered cruelty method.
+[2015/11/06 17:10:32] <Karkus> Tobbi: Oh God, this is complex now
+[2015/11/06 17:10:45] <Tobbi> Karkus: Actually, killing someone is also killing potential babies.
+[2015/11/06 17:10:59] <Tobbi> I mean: causality chain.
+[2015/11/06 17:11:00] <Karkus> Tobbi: Yeah, killing babies is recursive
+[2015/11/06 17:11:03] <leyyin> if a clump of molecules is alive, then we are all Stalin every day any day
+[2015/11/06 17:11:11] <Tobbi> Killing people is recursive.
+[2015/11/06 17:11:19] <Karkus> true
+[2015/11/06 17:12:02] <Karkus> Tobbi: But everyone can't just operate as baby machines :D
+[2015/11/06 17:12:10] <Tobbi> Karkus: Some people shouldn't.
+[2015/11/06 17:12:23] <Karkus> Tobbi: Absolutely
+[2015/11/06 17:12:30] * head8debian bans everyone...
+[2015/11/06 17:12:55] <Karkus> head8debian: Did you stop red_bot's spamming me?
+[2015/11/06 17:13:33] <brmbrmcar> Grammar...
+[2015/11/06 17:13:47] <Karkus> head8debian: Did you stop red_bot's spamming of me?
+[2015/11/06 17:14:05] <leyyin> brmbrmcar, are you, ahem, a grammar nazi :D
+[2015/11/06 17:14:38] <brmbrmcar> No.
