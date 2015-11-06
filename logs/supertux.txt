@@ -13957,3 +13957,67 @@
 [2015/11/06 00:15:54] @ Quit: maths22_log: Remote host closed the connection
 [2015/11/06 00:16:28] @ maths22_log joined channel #supertux
 [2015/11/06 00:23:29] @ Quit: Mathnerd314: Ping timeout: 240 seconds
+[2015/11/06 01:55:42] @ mteufel is now known as mt
+[2015/11/06 02:16:20] @ grumbel joined channel #supertux
+[2015/11/06 02:16:20] @ Mode +o grumbel by ChanServ
+[2015/11/06 02:19:54] @ leyyin joined channel #supertux
+[2015/11/06 02:21:55] @ darkbasic_ joined channel #supertux
+[2015/11/06 02:22:36] @ Quit: darkbasic: Ping timeout: 250 seconds
+[2015/11/06 02:33:31] <Not-6fa5> [02supertux] 07Grumbel opened issue 03#216: Image recompression is overly agressive - 13http://git.io/v8txh
+[2015/11/06 02:36:22] @ darkbasic joined channel #supertux
+[2015/11/06 02:36:54] @ Quit: darkbasic_: Ping timeout: 250 seconds
+[2015/11/06 02:52:11] @ brmbrmcar joined channel #supertux
+[2015/11/06 02:55:19] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#216: Image recompression is overly agressive - 13http://git.io/v8qUb
+[2015/11/06 03:03:10] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/06 04:59:11] <Not-6fa5> [02supertux] 07Grumbel commented on issue 03#216: Image recompression is overly agressive - 13http://git.io/v8q9C
+[2015/11/06 05:02:49] @ Quit: darkbasic: Ping timeout: 240 seconds
+[2015/11/06 05:09:17] @ darkbasic joined channel #supertux
+[2015/11/06 05:30:49] @ Quit: darkbasic: Ping timeout: 240 seconds
+[2015/11/06 05:30:55] @ darkbasic_ joined channel #supertux
+[2015/11/06 05:41:36] <head8debian> maths22_log: Uh, what are you?
+[2015/11/06 05:41:42] <head8debian> Morning leyyin.
+[2015/11/06 05:41:58] <leyyin> g'day murica
+[2015/11/06 05:43:03] <head8debian> leyyin: Im going to bed now...
+[2015/11/06 05:43:18] <head8debian> A little early for me. ;)
+[2015/11/06 05:43:25] <head8debian> Storm went through.
+[2015/11/06 05:44:29] @ Quit: FranX: Ping timeout: 240 seconds
+[2015/11/06 05:59:59] @ Quit: darkbasic_: Read error: Connection reset by peer
+[2015/11/06 06:00:17] @ darkbasic joined channel #supertux
+[2015/11/06 06:32:41] @ Quit: darkbasic: Quit: No Ping reply in 180 seconds.
+[2015/11/06 06:33:08] @ darkbasic joined channel #supertux
+[2015/11/06 06:49:36] @ Quit: grumbel: Quit: Ex-Chat
+[2015/11/06 06:59:03] @ Tobbi joined channel #supertux
+[2015/11/06 06:59:03] @ Mode +o Tobbi by ChanServ
+[2015/11/06 07:02:02] <Tobbi> head8debian, I can still spy on you if I want to.
+[2015/11/06 07:08:41] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#216: Image recompression is overly agressive - 13http://git.io/v8mVp
+[2015/11/06 07:17:24] <Tobbi> head8debian, Can you remember whether the storm cloud addition worked?
+[2015/11/06 07:18:07] <Tobbi> I guess I will just merge it.
+[2015/11/06 07:19:51] <Not-6fa5> [02supertux] 07tobbi closed pull request 03#206: try to add new cloud tile - 13http://git.io/vWPyT
+[2015/11/06 07:19:52] <Not-6fa5> [02supertux] 07tobbi pushed 032 commits to 03master [+0/-0/±4] 13http://git.io/v8m6T
+[2015/11/06 07:19:54] <Not-6fa5> [02supertux] 07Sydney Dykstra 0332627b0 - try to add new cloud tile
+[2015/11/06 07:19:55] <Not-6fa5> [02supertux] 07tobbi 03763c8a8 - Merge pull request #206 from sydneyjd/master
+[2015/11/06 07:19:57] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/89630604
+[2015/11/06 07:19:59] <Tobbi> Damn.
+[2015/11/06 07:20:00] <Tobbi> Okay.
+[2015/11/06 07:20:48] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/89630604
+[2015/11/06 07:23:04] <Not-6fa5> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/89630604
+[2015/11/06 07:25:11] <head8debian> Tobbi: o_O
+[2015/11/06 07:25:32] <head8debian> Tobbi: The logs should update 3 times a day now...
+[2015/11/06 07:26:03] <Tobbi> Didn't I specify --no-check-certificate.
+[2015/11/06 07:26:05] <Tobbi> damn this...
+[2015/11/06 07:26:20] <head8debian> Tobbi: And i wouldnt have merged...
+[2015/11/06 07:26:29] <Tobbi> head8debian, I thought this was done?
+[2015/11/06 07:28:19] <head8debian> Tobbi: It almost was, but one of the tile IDs must me missmatched.
+[2015/11/06 07:28:37] <Tobbi> head8debian, Okay, fix it in a followup PR please.
+[2015/11/06 07:29:24] * head8debian yawns...
+[2015/11/06 07:29:40] <Tobbi> head8debian, It's 1:27pm
+[2015/11/06 07:32:30] @ Tobbi_ joined channel #supertux
+[2015/11/06 07:32:30] @ Mode +o Tobbi_ by ChanServ
+[2015/11/06 08:37:55] @ Quit: Tobbi_: Remote host closed the connection
+[2015/11/06 09:23:40] @ irungentoo joined channel #supertux
+[2015/11/06 09:31:50] @ Tobbi_ joined channel #supertux
+[2015/11/06 09:31:50] @ Mode +o Tobbi_ by ChanServ
+[2015/11/06 09:37:09] <Tobbi_> head8debian: Okay, let's continue with religious talk... :P
+[2015/11/06 09:40:10] <Tobbi_> head8debian: Would you give muslims (or refugees) shelter at your home?
+[2015/11/06 09:47:02] @ Quit: darkbasic: Quit: No Ping reply in 180 seconds.
+[2015/11/06 09:47:25] @ darkbasic joined channel #supertux
