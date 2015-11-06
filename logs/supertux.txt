@@ -572,3 +572,74 @@
 [2015/11/06 17:13:47] <Karkus> head8debian: Did you stop red_bot's spamming of me?
 [2015/11/06 17:14:05] <leyyin> brmbrmcar, are you, ahem, a grammar nazi :D
 [2015/11/06 17:14:38] <brmbrmcar> No.
+[2015/11/06 17:15:03] <Karkus> leyyin: I couldn't if I tried
+[2015/11/06 17:19:23] <head8debian> Karkus: I didn't touch him.
+[2015/11/06 17:19:24] <Tobbi> Karkus: https://youtu.be/EQmRgFzg0jI?t=12s
+[2015/11/06 17:19:26] <head8debian> red_bot: ping
+[2015/11/06 17:19:26] <red_bot> head8debian: pong
+[2015/11/06 17:20:27] <Tobbi> unrelated references, anyway.
+[2015/11/06 17:20:48] <giby> ~figlet cool
+[2015/11/06 17:20:48] <red_bot>                   __
+[2015/11/06 17:20:48] <red_bot>  ____ ___  ___   / /
+[2015/11/06 17:20:48] <red_bot> / __// _ \/ _ \ / / 
+[2015/11/06 17:20:48] <red_bot> \__/ \___/\___//_/
+[2015/11/06 17:20:48] <Karkus> Tobbi: http://listenonrepeat.com/watch/?v=EQmRgFzg0jI&s=12&e=14#Don_t_Go_Breaking_My_Heart_-_Elton_John_%26_Kiki_Dee
+[2015/11/06 17:20:55] <Karkus> ./ban giby
+[2015/11/06 17:21:01] <giby> ~cowsay cool
+[2015/11/06 17:21:09] <Tobbi> :D
+[2015/11/06 17:21:17] <Tobbi> Not you as well, giby.
+[2015/11/06 17:22:19] <head8debian> He doesn't have cowsay...
+[2015/11/06 17:22:22] <head8debian> Sadly.
+[2015/11/06 17:22:28] <head8debian> ~help cowsay
+[2015/11/06 17:22:28] <red_bot> head8debian: no help for topic cowsay
+[2015/11/06 17:22:31] <giby> head8debian, can you add it?
+[2015/11/06 17:22:35] <Karkus> giby: What's cowsay
+[2015/11/06 17:22:40] <head8debian> Maybe... probably not.
+[2015/11/06 17:23:59] <head8debian> Karkus: A cool classic linux program. :)
+[2015/11/06 17:24:10] <Tobbi> https://www.youtube.com/watch?v=7wCmMrRX3UM
+[2015/11/06 17:24:11] <Tobbi> :D
+[2015/11/06 17:25:04] <brmbrmcar> A cool linux program would be a game with brm brm cars!
+[2015/11/06 17:25:05] <Karkus> Tobbi: Now we know how come you're so good at english
+[2015/11/06 17:25:06] <head8debian> !figlet NO YOUTUBE VIDEOS!
+[2015/11/06 17:25:10] <head8debian> Lo
+[2015/11/06 17:25:12] <head8debian> l
+[2015/11/06 17:25:13] <Tobbi> Karkus: yup.
+[2015/11/06 17:25:14] <Tobbi> :D
+[2015/11/06 17:25:23] <brmbrmcar> head8debian: I agree.
+[2015/11/06 17:25:53] <head8debian> I do like youtube to an extent... but the videos Tobbi shares are a little too much...
+[2015/11/06 17:26:01] <Tobbi> head8debian: Oh c'mon...
+[2015/11/06 17:26:10] <Tobbi> head8debian: I thought you didn't watch anything I share?
+[2015/11/06 17:26:11] <Karkus> head8debian: You look sensational in that dress
+[2015/11/06 17:26:23] <head8debian> Tobbi: I don't anymore. :)
+[2015/11/06 17:26:28] <head8debian> I did up till a month ago...
+[2015/11/06 17:26:33] <Tobbi> haha
+[2015/11/06 17:26:39] <head8debian> Karkus: What do you think i am?
+[2015/11/06 17:26:59] <Tobbi> haha https://www.youtube.com/watch?v=6ol4QQuIqS0
+[2015/11/06 17:27:01] <head8debian> If you want to look at some videos you can start here. :D https://www.youtube.com/channel/UCGQK3o33IkbyRk4QYNI23Zw
+[2015/11/06 17:27:08] <Tobbi> Where do you think you're going?
+[2015/11/06 17:27:23] <head8debian> Huh?
+[2015/11/06 17:27:34] <Karkus> head8debian: Sensational in that dress
+[2015/11/06 17:27:39] <Tobbi> Yup.
+[2015/11/06 17:27:43] <head8debian> Karkus: Im not a woman...
+[2015/11/06 17:27:46] <head8debian> or girl...
+[2015/11/06 17:27:59] <Karkus> or transvestite?
+[2015/11/06 17:28:04] <Tobbi> https://www.youtube.com/watch?v=6ol4QQuIqS0
+[2015/11/06 17:28:13] <head8debian> No.
+[2015/11/06 17:28:19] <head8debian> Im a guy and just a guy. :D
+[2015/11/06 17:28:34] <Tobbi> https://www.youtube.com/watch?v=hyGytj1Tirc
+[2015/11/06 17:28:45] <swift110> eww
+[2015/11/06 17:28:48] <brmbrmcar> Do any of these videos have brm brm cars?
+[2015/11/06 17:28:50] * head8debian is heading out... ttyl tommorow.
+[2015/11/06 17:28:58] <Karkus> Tobbi: Where do you get these from?
+[2015/11/06 17:29:00] <head8debian> brmbrmcar: I have a brm brm car for sale. :D
+[2015/11/06 17:29:18] <head8debian> brmbrmcar: And im not joking...
+[2015/11/06 17:29:21] <Karkus> head8debian: Bye
+[2015/11/06 17:29:30] <head8debian> ~figlet GOODBYE!!
+[2015/11/06 17:29:30] <red_bot>   _____ ____   ____   ___   ___ __  __ ____ __ __
+[2015/11/06 17:29:30] <red_bot>  / ___// __ \ / __ \ / _ \ / _ )\ \/ // __// // /
+[2015/11/06 17:29:30] <red_bot> / (_ // /_/ // /_/ // // // _  | \  // _/ /_//_/ 
+[2015/11/06 17:29:30] <red_bot> \___/ \____/ \____//____//____/  /_//___/(_)(_)
+[2015/11/06 17:29:32] <brmbrmcar> With bad crash protection.
+[2015/11/06 17:29:37] <Karkus> ./ban head8debian
+[2015/11/06 17:29:39] <Tobbi> Karkus: I remember watching a video years ago with "I got a bad case of diarrhea" (for whatever reason you need that in everyday English) :D
+[2015/11/06 17:29:51] <head8debian> Tobbi: You mean a couple moths ago...
