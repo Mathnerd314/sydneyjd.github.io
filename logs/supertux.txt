@@ -314,3 +314,15 @@
 [2015/11/06 16:41:06] <Tobbi> yes, yes.
 [2015/11/06 16:42:22] @ giby joined channel #supertux
 [2015/11/06 16:42:22] @ Mode +o giby by ChanServ
+[2015/11/06 16:42:41] <Karkus> ~restart
+[2015/11/06 16:42:41] <red_bot> Karkus, you don't have 'basics::quit::restart' permissions here
+[2015/11/06 16:42:54] <Karkus> red_bot: Shut up
+[2015/11/06 16:43:02] <brmbrmcar> ~basics
+[2015/11/06 16:43:24] <giby> Hi
+[2015/11/06 16:43:28] <head8debian> Hey giby !!
+[2015/11/06 16:43:41] <head8debian> Karkus: Heh. He isj ust saying that only i can do that... :)
+[2015/11/06 16:43:45] <head8debian> is just*
+[2015/11/06 16:44:16] <brmbrmcar> s/ij ust/is just/
+[2015/11/06 16:44:16] <red_bot> brmbrmcar: You did something wrong... Try s/you/me/ or tell me "help sed"
+[2015/11/06 16:44:20] <Tobbi> Hey, giby.
+[2015/11/06 16:44:31] <Tobbi> giby: Do you have time?
