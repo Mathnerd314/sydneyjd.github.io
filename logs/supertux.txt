@@ -716,3 +716,52 @@
 [2015/11/06 18:14:08] <Karkus> Tobbi: Flippers would be a kinda funny one
 [2015/11/06 18:14:32] <Karkus> Tobbi: Penguins are pretty epic at swimming anyway :P
 [2015/11/06 18:14:34] <Tobbi> Right.
+[2015/11/06 18:15:13] <Tobbi> oh, wait. Water has never really been solid.
+[2015/11/06 18:15:26] <Tobbi> So, we don't need a special item for tht
+[2015/11/06 18:15:27] <Tobbi> that
+[2015/11/06 18:15:49] <Karkus> Tobbi: How about this for music: https://soundcloud.com/karkus476/water-theme? Please be honest if it's bad. it's a proof of concept unfinished thing
+[2015/11/06 18:16:21] <Karkus> Tobbi: we do, as many levels have water that, if you could swim in it, would make the level easy
+[2015/11/06 18:16:29] <Tobbi> Oh, yes.
+[2015/11/06 18:16:33] <Tobbi> hah, confusion.
+[2015/11/06 18:16:41] <Tobbi> Karkus: So, that theme plays when Tux swims?
+[2015/11/06 18:16:55] <Karkus> Tobbi: No, in underwater levels
+[2015/11/06 18:16:59] <Tobbi> Ah...
+[2015/11/06 18:17:03] <Tobbi> Hmm, interesting.
+[2015/11/06 18:17:31] <Tobbi> Karkus: In my opinion, it needs a more mysterious touch.
+[2015/11/06 18:17:37] <Tobbi> Or?
+[2015/11/06 18:17:39] <Tobbi> Let me check something.
+[2015/11/06 18:17:42] <Karkus> Tobbi: Ah, I see.
+[2015/11/06 18:20:04] <Karkus> Tobbi: Check what?
+[2015/11/06 18:20:21] <Tobbi> Karkus: https://www.youtube.com/watch?v=MJNfaEstXrQ&list=PLjsY3BR0tRFUe3dw30UvBCn6ucV2AF7C0&index=2
+[2015/11/06 18:20:23] <Tobbi> :P
+[2015/11/06 18:20:30] <Tobbi> Do you know Fish Fillets - Next Generation.
+[2015/11/06 18:20:33] <Tobbi> ?
+[2015/11/06 18:20:42] <Tobbi> The music doesn't fit well, either.
+[2015/11/06 18:21:24] <Karkus> Tobbi: I don't know it
+[2015/11/06 18:21:27] <Tobbi> okay.
+[2015/11/06 18:21:41] <Karkus> And which music doesn't fit well?
+[2015/11/06 18:21:50] <Tobbi> Karkus: The one I linked to, above.
+[2015/11/06 18:21:59] <Karkus> Oh, okay
+[2015/11/06 18:22:18] <Tobbi> We need something funky, but something that is mysterious at the same time, and "underwater". :P
+[2015/11/06 18:22:50] <Tobbi> On the other hand.
+[2015/11/06 18:22:56] <Karkus> https://www.youtube.com/watch?v=Xelag0YVrcs
+[2015/11/06 18:22:59] <Tobbi> I just checked mario's underwater theme...
+[2015/11/06 18:23:05] <Karkus> Ah
+[2015/11/06 18:23:43] <Tobbi> Okay, so maybe I was too strict there :D
+[2015/11/06 18:24:23] <Karkus> I get what you mean.
+[2015/11/06 18:24:47] <Tobbi> Karkus: We could have music blocks... Things that play a certain note when you hit them :D
+[2015/11/06 18:24:55] <Tobbi> And people could play around with that then :D
+[2015/11/06 18:25:11] <Karkus> Tobbi: But we need a good editor :P
+[2015/11/06 18:25:20] <Tobbi> *sigh* yeah, you're right :D
+[2015/11/06 18:25:21] <Tobbi> damn.
+[2015/11/06 18:25:27] <Tobbi> That prerequisite...
+[2015/11/06 18:25:28] <Karkus> Tobbi: Add it to the list
+[2015/11/06 18:25:42] <Tobbi> Not sure if I should or how much fun that would be :D
+[2015/11/06 18:26:48] <Karkus> Tobbi: Once I've done this controls thing I'll see what I can do for the editor.
+[2015/11/06 18:26:56] <Tobbi> Alright, thanks
+[2015/11/06 18:26:57] <Tobbi> !
+[2015/11/06 18:27:14] <Karkus> I wish Grumbel had just commented his code in the first place
+[2015/11/06 18:27:51] <Karkus> Tobbi: Do many OS projects have documentation?
+[2015/11/06 18:28:10] <Tobbi> Hmm, that's a thing I don't know. I don't normally follow that many open source projects.
+[2015/11/06 18:28:18] <Karkus> Tobbi: Okay
+[2015/11/06 18:28:26] <Karkus> I doubt it though
