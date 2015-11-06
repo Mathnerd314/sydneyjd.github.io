@@ -690,3 +690,29 @@
 [2015/11/06 17:52:03] <red_bot> Karkus: sissy: http://www.oxforddictionaries.com/definition/english/sissy
 [2015/11/06 17:52:03] <red_bot> Karkus: sissy: A person regarded as effeminate or cowardly:
 [2015/11/06 17:52:16] @ Quit: claymore2: Quit: Leaving
+[2015/11/06 18:01:07] <Karkus> Tobbi: It was speculated a while ago that swimming could be implemented in supertux. Could that be a 0.5.0 thing or is it not possible due the amount of levels that rely on you being unable to swim?
+[2015/11/06 18:01:32] <Tobbi> Karkus: We could certainly put it in the 0.5.0 release list.
+[2015/11/06 18:01:39] <Tobbi> eeh, todo list.
+[2015/11/06 18:01:51] <Karkus> Tobbi: Which is where?
+[2015/11/06 18:01:56] <Tobbi> Karkus: not yet created.
+[2015/11/06 18:02:05] <Tobbi> Karkus: file a bug report.
+[2015/11/06 18:02:11] <Tobbi> on github.
+[2015/11/06 18:02:12] <Karkus> s/Which is/Which will be/
+[2015/11/06 18:02:12] <red_bot> Karkus meant: "Tobbi: Which will be where?"
+[2015/11/06 18:02:15] <Karkus> okay
+[2015/11/06 18:02:29] <Tobbi> We'd have to go through the list of levels to see which of these use water...
+[2015/11/06 18:03:11] <Not-6fa5> [02supertux] 07Karkus476 opened issue 03#217: Swimming - 13http://git.io/v8ZYO
+[2015/11/06 18:03:28] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#217: Swimming - 13http://git.io/v8ZYO
+[2015/11/06 18:03:29] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#217: Swimming - 13http://git.io/v8ZYO
+[2015/11/06 18:03:31] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#217: Swimming - 13http://git.io/v8ZYO
+[2015/11/06 18:03:33] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#217: Swimming - 13http://git.io/v8ZYO
+[2015/11/06 18:03:34] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#217: Swimming - 13http://git.io/v8ZYO
+[2015/11/06 18:04:38] <Tobbi> Karkus: I believe a lot of levels require you to be unable to swim... But maybe we could add a special bonus item.
+[2015/11/06 18:07:54] @ tux|dude joined channel #supertux
+[2015/11/06 18:10:14] @ Quit: swift110: Ping timeout: 240 seconds
+[2015/11/06 18:13:15] <Karkus> Tobbi: We could have water based levels like in the Mario games :)
+[2015/11/06 18:13:43] <Tobbi> Karkus: that would be cool. :D What kind of item do you think should give tux the ability to swim?
+[2015/11/06 18:13:52] <Tobbi> Because otherwise, we'd have to rework a lot of levels.
+[2015/11/06 18:14:08] <Karkus> Tobbi: Flippers would be a kinda funny one
+[2015/11/06 18:14:32] <Karkus> Tobbi: Penguins are pretty epic at swimming anyway :P
+[2015/11/06 18:14:34] <Tobbi> Right.
