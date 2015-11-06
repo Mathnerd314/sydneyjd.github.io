@@ -13691,3 +13691,269 @@
 [2015/11/05 19:20:53] <head8debian> Tobbi: Im getting somewhere. :D
 [2015/11/05 19:24:34] <head8debian> Tobbi: Almost there...
 [2015/11/05 19:30:12] @ Quit: Wuzzy: Remote host closed the connection
+[2015/11/05 19:35:54] <head8debian> Tobbi: The log is up! It should be updated at 2PM EST automatically. http://sydneyjd.github.io/
+[2015/11/05 19:36:01] <head8debian> 2AM*
+[2015/11/05 19:36:25] <Tobbi> head8debian: Give me sane timezones.
+[2015/11/05 19:36:47] <Tobbi> head8debian: Besides, can you add pagination to the log or move older logs to a backup location? Aka, one txt file for each day?
+[2015/11/05 19:37:17] <head8debian> Tobbi: Maybe tommorow... :)
+[2015/11/05 19:37:24] <Tobbi> Okay, thanks.
+[2015/11/05 19:37:28] <head8debian> Tobbi: Im not sure how to do it automatically.
+[2015/11/05 19:37:37] <Tobbi> head8debian: Neither do I.
+[2015/11/05 19:37:59] <head8debian> Tobbi: maybe i will dump it to a diferent folder once a month like jeezy did.
+[2015/11/05 19:38:17] <Tobbi> head8debian: Hmm, maybe once a week or so? Just prevent it from growing too large.
+[2015/11/05 19:56:34] <Tobbi> head8debian: ?
+[2015/11/05 20:00:59] <head8debian> Tobbi: maybe...
+[2015/11/05 20:01:10] <Tobbi> Alright.
+[2015/11/05 20:01:25] <head8debian> Tobbi: what a pain logs are. ;p
+[2015/11/05 20:01:45] <head8debian> What a joy IRC is. :D
+[2015/11/05 20:02:42] <Tobbi> :D
+[2015/11/05 20:16:17] @ tux|dude joined channel #supertux
+[2015/11/05 20:17:12] <head8debian> Tobbi: I gusss you can add the logs to the topic... it *should* work.
+[2015/11/05 20:17:46] @ Tobbi set topic "Welcome to the SuperTux chat | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | Though hast thy logs http://sydneyjd.github.io/"
+[2015/11/05 20:17:55] <Tobbi> eeh, wait.
+[2015/11/05 20:17:56] <Tobbi> no.
+[2015/11/05 20:17:57] <Tobbi> Yes.
+[2015/11/05 20:18:09] <head8debian> Tobbi: uhm, no...
+[2015/11/05 20:18:15] <Tobbi> Okay, okay.
+[2015/11/05 20:18:24] <head8debian> Tobbi: Did you even look at the link!/
+[2015/11/05 20:19:00] <head8debian> Tobbi: If you keep it that way i may as well advertise to make money. ;p
+[2015/11/05 20:19:08] @ Tobbi set topic "Welcome to the SuperTux chat | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | Channèl log http://sydneyjd.github.io/"
+[2015/11/05 20:19:27] <Tobbi> head8debian: You can do that. As long as you donate it to proper causes, like us.
+[2015/11/05 20:19:38] <Tobbi> head8debian: Actually, you know, the church is rich...
+[2015/11/05 20:20:13] <head8debian> Actuslly not... ;)
+[2015/11/05 20:20:49] <Tobbi> head8debian: You're catholic, right?
+[2015/11/05 20:21:16] <head8debian> Tobbi: I will spend some time fixing my website eventually and get a new log link.
+[2015/11/05 20:21:21] <head8debian> Tobbi: nope.
+[2015/11/05 20:21:32] <Tobbi> head8debian: Oh, okay, what religion are you a member of, then?
+[2015/11/05 20:22:05] <head8debian> uhm.
+[2015/11/05 20:22:26] <head8debian> There is a technical name, but i dont remember it...
+[2015/11/05 20:22:39] <Tobbi> head8debian: So, it's a small local church?
+[2015/11/05 20:22:41] <Tobbi> Or a sect?
+[2015/11/05 20:23:02] <head8debian> www.reslife.org
+[2015/11/05 20:23:44] <head8debian> I consider all Christians no matter what type of church they go to a Christian.
+[2015/11/05 20:24:10] <Tobbi> hmm...
+[2015/11/05 20:24:25] <Tobbi> head8debian: So, you're Christian, alright.
+[2015/11/05 20:25:34] <head8debian> The Bible never called any of the diferent churches it mentioned diferent religions...
+[2015/11/05 20:26:22] <head8debian> But there are diferent views on christianity atm, which is where you are coming from...
+[2015/11/05 20:26:28] <Tobbi> I see...
+[2015/11/05 20:26:50] <Tobbi> head8debian: Assuming there were Muslims in your area, how would you approach them? WOuld you approach them at all?
+[2015/11/05 20:27:17] <head8debian> Tobbi: what do you mean by approach them?
+[2015/11/05 20:27:35] <Tobbi> head8debian: Uhm, would you talk to them?
+[2015/11/05 20:27:45] <Tobbi> Or try to keep a safe distance from them?
+[2015/11/05 20:28:43] <head8debian> Tobbi: Thats a rather delacate topic... I don't believe it right to ignore them, but we don't agree with their view if we do talk to them.
+[2015/11/05 20:29:13] <Tobbi> head8debian: So, what would you do? ;)
+[2015/11/05 20:29:23] <head8debian> Tobbi: But on that note Christianity is considered on religion, budism another , etc...
+[2015/11/05 20:30:09] <Tobbi> How would you behave?
+[2015/11/05 20:30:11] <Tobbi> :P
+[2015/11/05 20:30:18] <head8debian> Tobbi: I would talk to them, but as i said, even if we don't agree with them.
+[2015/11/05 20:30:32] <Tobbi> head8debian: Okay. Would you touch the topic "religion"?
+[2015/11/05 20:30:42] <Tobbi> head8debian: Would you greet them on the streets?
+[2015/11/05 20:31:28] <head8debian> Tobbi: My cousin mrried a Muslim. :)
+[2015/11/05 20:31:28] <head8debian> married*
+[2015/11/05 20:31:31] <head8debian> Uhm, go up to then and try to convice them of our views?
+[2015/11/05 20:31:44] <Tobbi> head8debian: No, that's not what I mean.
+[2015/11/05 20:31:52] <head8debian> Then what do you mean!
+[2015/11/05 20:31:54] <head8debian> ?
+[2015/11/05 20:32:05] <Tobbi> head8debian: I mean: You can even touch the subject from a meta layer...
+[2015/11/05 20:32:24] <Tobbi> I mean: Even when you strongly believe in something you can still ask them about their views, think about them, inquire further information, etc.
+[2015/11/05 20:32:35] <Tobbi> Religions are an incredibly interesting topic.
+[2015/11/05 20:32:45] <Tobbi> Studying the different philosophies...
+[2015/11/05 20:33:27] <head8debian> maybe, even though im not one that studies religions much... never found it interesting.
+[2015/11/05 20:33:53] <Tobbi> head8debian: I mean: Assuming they have as much of a strong belief as you do, nothing is lost, because everyone keeps to his/her own religion.
+[2015/11/05 20:34:03] <head8debian> I guess it would matter on the person, and what he feels like talking about and what he believes.
+[2015/11/05 20:34:12] <Tobbi> head8debian: But you're Christian, Have you never had the desire to study Christianity?
+[2015/11/05 20:34:24] <Tobbi> on your own, I mean?
+[2015/11/05 20:34:32] <head8debian> Yes,  i was refering to other religions...
+[2015/11/05 20:34:37] <Tobbi> Ah, okay.
+[2015/11/05 20:34:47] <Tobbi> head8debian: So, are you studying the bible?
+[2015/11/05 20:34:51] <Tobbi> or have you studied it
+[2015/11/05 20:34:52] <Tobbi> ?
+[2015/11/05 20:34:59] <head8debian> Yes, i do every day. :)
+[2015/11/05 20:35:11] <Tobbi> head8debian: And you make up your own mind?
+[2015/11/05 20:35:27] <head8debian> Its part of being a Christian. The Bible is supposed to be a "map" for our lives.
+[2015/11/05 20:35:39] <Tobbi> head8debian: Basically, what I mean is: As far as I know, there are incredibly gruesome parts in the bible...
+[2015/11/05 20:35:47] <Tobbi> Same for other religions, I believe.
+[2015/11/05 20:36:07] <Tobbi> head8debian: It's all open to interpretation, really.
+[2015/11/05 20:36:18] <head8debian> Well, if you take a verse out of the bible, then try to understand it with your own understanding the Bible gets twisted. You have to take it literally.
+[2015/11/05 20:36:52] <head8debian> Tobbi: Yes there are, but it is real life. :-)
+[2015/11/05 20:37:16] <Tobbi> head8debian:  “I do not permit a woman to teach or to have authority over a man; she must be silent.” (1 Timothy 2:12)
+[2015/11/05 20:37:42] <Tobbi> Okay, I'll stop now.
+[2015/11/05 20:38:03] <head8debian> Wow, you chose a random one. Another issue with chosing random verses is that other verses around it help you understand it.
+[2015/11/05 20:38:19] <head8debian> But yes, Timothy didn't like a woman preaching.
+[2015/11/05 20:38:35] <Tobbi> head8debian: So, I have found that the best way to approach religious people is to get on a meta layer... and to extract what might be interesting view points.
+[2015/11/05 20:38:59] <head8debian> Tobbi: I don't ever talk to that many people...
+[2015/11/05 20:39:05] <Tobbi> I sometimes disobey that when the person is overly annoying or his first name is Gervase.
+[2015/11/05 20:39:13] <Tobbi> But that's only me.
+[2015/11/05 20:39:50] @ FranX joined channel #supertux
+[2015/11/05 20:39:57] <Tobbi> head8debian: But wait a second: I thought the bible is inspired by God. So that would mean that it's not Timothy who thinks that, but it's god?
+[2015/11/05 20:40:48] <head8debian> When it was inspired by God it means that God inspired someone to write something down.
+[2015/11/05 20:41:05] <head8debian> Ok, i didn't phrase that correctly...
+[2015/11/05 20:41:16] <Tobbi> head8debian: gruesome things like “Happy is he who repays you for what you have done to us – he who seizes your infants and dashes them against the rocks.” (Psalm 137:9)  ?
+[2015/11/05 20:41:30] <Tobbi> I'm sorry. I can't remain neutral.
+[2015/11/05 20:41:38] <head8debian> Heh. :-)
+[2015/11/05 20:41:48] <head8debian> makes me think. :)
+[2015/11/05 20:43:44] <Tobbi> head8debian: So, basically, religion should be open to revisions. I can understand the need for guidance...
+[2015/11/05 20:43:47] <Tobbi> I really can.
+[2015/11/05 20:44:00] <Tobbi> But revisions are necessary in order to reflect on the things happening...
+[2015/11/05 20:44:43] <Tobbi> head8debian: Or, actually, I could be bad and ask you: Assuming god tells whoever wrote that down to write it down, how can you assume he's acting in good will"
+[2015/11/05 20:44:44] <Tobbi> ?
+[2015/11/05 20:44:48] <head8debian> Revisions? The Bible is what we go off, and we don't make revisions of it. It hasn't changed for thousands of years. The is why we have so many denominations of churches now... revisions.
+[2015/11/05 20:45:17] <Tobbi> head8debian: Some parts of the bible are possibly lost in translation.
+[2015/11/05 20:45:24] <Tobbi> You'd have to know Hebrew to get the original meaning of it.
+[2015/11/05 20:45:36] <Tobbi> Maybe there were translation mistakes, no one could know.
+[2015/11/05 20:45:49] <head8debian> Tobbi: If you want some greusome stories read 1 Samuel and 1-2 Kings...
+[2015/11/05 20:45:57] <head8debian> Tobbi: It covers alot of topics.
+[2015/11/05 20:46:00] <Tobbi> like?
+[2015/11/05 20:46:32] <head8debian> Tobbi: Yes, there have been translation mistakes. Thats why alot of people like to go back and look up the Hebrew meaning of certian words.
+[2015/11/05 20:46:48] <Tobbi> head8debian: What if a word has more than one meaning?
+[2015/11/05 20:46:54] <head8debian> Tobbi: Everything from Whichcraft to Sex to war...
+[2015/11/05 20:47:24] <Tobbi> head8debian: people in the middle ages believed that herbology was witchcraft.
+[2015/11/05 20:47:44] <Tobbi> Oh, wait.
+[2015/11/05 20:47:46] * head8debian feels like he cannot get anything across...
+[2015/11/05 20:48:17] <Tobbi> head8debian: Maybe I'm just a pain in the...
+[2015/11/05 20:49:06] <head8debian> I would go a little more in depth, but this is #supertux... ;)
+[2015/11/05 20:49:33] <Tobbi> head8debian: Who created god? ;)
+[2015/11/05 20:51:50] <head8debian> Tobbi: Well... In the beginning was the Word, and the Word was with God, and the Word was God. 2 He was with God in the beginning. 3 Through him all things were made; without him nothing was made that has been made. 4 In him was life, and that life was the light of all mankind. 5 The light shines in the darkness, and the darkness has not overcome it.
+[2015/11/05 20:52:01] <head8debian> John 1:1-5
+[2015/11/05 20:52:16] <head8debian> Tobbi: I need to go now...
+[2015/11/05 20:52:19] <Tobbi> head8debian: You haven't answered my question ;)
+[2015/11/05 20:52:23] <head8debian> Tobbi: And you need to get some sleep.
+[2015/11/05 20:52:26] <Tobbi> We can continue tomorrow.
+[2015/11/05 20:52:28] <Tobbi> It's barely 3am.
+[2015/11/05 20:52:34] <head8debian> Tobbi: my point. :p
+[2015/11/05 20:52:40] <Tobbi> Hrm, maybe.
+[2015/11/05 20:54:29] <head8debian> Tobbi: Well, acording to the Bible God has always been there. I don't know how to say that any better.
+[2015/11/05 20:54:42] <Tobbi> okay...
+[2015/11/05 20:54:50] <Tobbi> I really don't have anything else to say to that.
+[2015/11/05 20:54:57] <head8debian> Tobbi: As verse 3 says up there.
+[2015/11/05 20:55:41] <head8debian> Tobbi: Anything else you want to disscuss? My eyes are getting blurry... :p
+[2015/11/05 20:55:51] <Tobbi> head8debian: Okay, one last thing: If god was almighty (and apparently that's god we're talking about), why didn't he give us his own powers and insight?
+[2015/11/05 20:56:19] <Tobbi> I mean: God knows how to do good, why didn't he grant us the same insight and powers and the world would be a better place?
+[2015/11/05 20:56:47] <head8debian> Tobbi: Thats a good question... but have you ever considered that maybe he did? :-)
+[2015/11/05 20:57:14] <Tobbi> head8debian: Nope, because otherwise we would've been aware of them, like he was.
+[2015/11/05 20:57:16] <head8debian> Yes, that sounds a little mysterious, but i honestly cannot explain better, since you wouldn't understand...
+[2015/11/05 20:57:18] @ bb010g joined channel #supertux
+[2015/11/05 20:57:34] <Tobbi> After all, he created the world in 6 days, so he must've known how to do it...
+[2015/11/05 20:57:53] <head8debian> Tobbi: Have you ever read the beginning of Genesis, before the Fall?
+[2015/11/05 20:58:03] <Tobbi> head8debian: I didn't study the bible closely...
+[2015/11/05 20:58:15] <Tobbi> I know that I read certain passages out of it.
+[2015/11/05 20:58:22] <Tobbi> *of it
+[2015/11/05 20:59:48] @ Quit: FranX: Quit: WeeChat 1.3
+[2015/11/05 21:00:07] <head8debian> Tobbi: In the begining we did have the power to do anything and everything, even to speak to God directly, but then sin came into this world, and we lost most of that and we can only gain it back through reading his word and praying and using his Holy Spirit.
+[2015/11/05 21:00:12] @ FranX joined channel #supertux
+[2015/11/05 21:00:55] <Tobbi> head8debian: But, if we were en par with god, why was he able to take that away?
+[2015/11/05 21:01:29] <head8debian> Tobbi: He said if we have the faith of a mustard seed, and if we did and then spoke to a mountian and told it to move, and we had faith that it would move, it would move.
+[2015/11/05 21:01:38] <head8debian> Personal quote of a verse.
+[2015/11/05 21:01:43] @ Quit: irungentoo: Remote host closed the connection
+[2015/11/05 21:01:46] <Tobbi> Glaube kann Berge versetzen.
+[2015/11/05 21:01:50] <Tobbi> German saying.
+[2015/11/05 21:01:53] <Tobbi> Faith can move mountains.
+[2015/11/05 21:02:13] <head8debian> Tobbi: He didn't take it away from us, we became distraced by sin and have lost most of it.
+[2015/11/05 21:02:21] <head8debian> And it true.
+[2015/11/05 21:02:28] <Tobbi> head8debian: Why did god allow sin to come to this world?
+[2015/11/05 21:02:44] <Tobbi> If he's a loving and almighty god, he could've prevented that from happening.
+[2015/11/05 21:02:45] <head8debian> Tobbi: If you sincerely believe you won't get married ever, you won't. etc. ;)
+[2015/11/05 21:03:07] <Tobbi> I believe what I want to believe. I believe in me.
+[2015/11/05 21:03:17] <Tobbi> Everything is so in a state of flux...
+[2015/11/05 21:03:30] <Tobbi> Who is to say what really happened or how the world really is. Who knows :P
+[2015/11/05 21:04:40] <head8debian> He tried to tell us not to allow it, but he set it up so we had the final choice. We have the choice between good or bad. Eve thought the fruit was better than trusting Gods word, and that is what brought sin it.
+[2015/11/05 21:04:44] <head8debian> in*
+[2015/11/05 21:05:10] <head8debian> Tobbi: But honestly, faith and your words do affect you, even when you are not a Christian.
+[2015/11/05 21:05:47] <Tobbi> Of course.
+[2015/11/05 21:05:50] <head8debian> Tobbi: Try telling yourself that no one likes you and that your fat every day for the next year, and before you know it you will believe it.
+[2015/11/05 21:05:52] <Tobbi> I never said anything to the contrary..
+[2015/11/05 21:06:26] <head8debian> Tobbi: I think ive said enough for you to think on for one night though...
+[2015/11/05 21:06:36] <Tobbi> head8debian: Is it "good" to declare homosexually as sinful, even though it's love?
+[2015/11/05 21:06:42] <Tobbi> Okay, I'll stop.
+[2015/11/05 21:06:48] <head8debian> yes... stop.
+[2015/11/05 21:06:54] <head8debian> And no its not.
+[2015/11/05 21:06:59] <head8debian> Its also disgusting...
+[2015/11/05 21:07:18] <head8debian> Since thats not the way our bodies were designed to work...
+[2015/11/05 21:07:19] <Tobbi> These people love each other.
+[2015/11/05 21:07:33] <Tobbi> Where does it say in the bible how our bodies are designed to work?
+[2015/11/05 21:07:49] <head8debian> But how long will their sexual love last?
+[2015/11/05 21:07:59] <head8debian> All over. :-)
+[2015/11/05 21:08:00] <Tobbi> head8debian: Love and sexuality are different things.
+[2015/11/05 21:08:11] <Tobbi> What about only love without the sexual part?
+[2015/11/05 21:08:15] <Tobbi> Is that good or bad?
+[2015/11/05 21:08:20] <head8debian> Not in this culture...
+[2015/11/05 21:08:29] <Tobbi> Why not? It's love.
+[2015/11/05 21:08:38] <Tobbi> Ah.
+[2015/11/05 21:08:45] <Tobbi> Love and sex are different.
+[2015/11/05 21:08:48] <Tobbi> Believe me.
+[2015/11/05 21:08:48] <head8debian> The Bible says that man shall leave his father and mother and cleave to his wife.
+[2015/11/05 21:09:03] <Tobbi> You know, there's a thing called Platonic love.
+[2015/11/05 21:09:05] <head8debian> Yes, i do belive you, but in this culture its hard to tell the diference.
+[2015/11/05 21:09:11] <Tobbi> It depends.
+[2015/11/05 21:09:22] <Tobbi> head8debian: A mother loves her children.
+[2015/11/05 21:09:27] <Tobbi> That's platonic.
+[2015/11/05 21:09:33] <head8debian> Yes.
+[2015/11/05 21:09:41] <head8debian> Thats *real* love...
+[2015/11/05 21:09:52] <Tobbi> And love with sex is not real love?
+[2015/11/05 21:10:17] <head8debian> It is, but its not lasting...
+[2015/11/05 21:10:40] <Tobbi> head8debian: But your parents certainly love each other, and they had sex at least once. :-)
+[2015/11/05 21:10:42] <Tobbi> Not lasting?
+[2015/11/05 21:10:46] <head8debian> Tobbi: just like when you turn 40 you won't care to look at another porn picture.
+[2015/11/05 21:11:05] <Tobbi> That's too far away for me to care.
+[2015/11/05 21:11:18] <head8debian> Yes, but they care about eachother in a non-sexual way. ;)
+[2015/11/05 21:11:25] <head8debian> Its not that far away. ;)
+[2015/11/05 21:12:18] <Tobbi> Okay, I'll stop now.
+[2015/11/05 21:12:30] <head8debian> God designed it so that sexual love will drive you together and to start a family, and after the feelings wear off your care and affection "love" for each other takes over.
+[2015/11/05 21:12:30] <Tobbi> good night.
+[2015/11/05 21:12:43] <head8debian> Tobbi: But its only 3AM. :D
+[2015/11/05 21:12:52] <Tobbi> Oh, you're right.
+[2015/11/05 21:12:55] <Tobbi> In that case...
+[2015/11/05 21:13:28] <head8debian> Tobbi: Anyways... enough jibber jabber.
+[2015/11/05 21:13:36] <Tobbi> No, really, I can only take small doses of religious talk a day.
+[2015/11/05 21:13:41] <head8debian> Tobbi: On a scale of 1 - 10 how was my typing tonight? :p
+[2015/11/05 21:13:47] <head8debian> Tobbi: This was small? o_O
+[2015/11/05 21:13:50] <Tobbi> -1
+[2015/11/05 21:14:09] <head8debian> lol.
+[2015/11/05 21:14:23] <Tobbi> Next time, use your fingers for typing.
+[2015/11/05 21:14:34] <Tobbi> And not, you know, a squirrel you accidentally misused...
+[2015/11/05 21:14:40] <Tobbi> :P
+[2015/11/05 21:14:42] <head8debian> Tobbi: Anyways, goodnight. Go get some sleep. Maybe if you went to bed at 11PM and got up at 8AM you would feel better.
+[2015/11/05 21:14:45] <head8debian> Tobbi: lol. :p
+[2015/11/05 21:14:59] <Tobbi> hmm...
+[2015/11/05 21:15:00] <head8debian> Tobbi: I was only dictating through Cortana. :p
+[2015/11/05 21:15:10] <Tobbi> Ah, okay.
+[2015/11/05 21:15:16] @ Quit: Tobbi: 
+[2015/11/05 21:16:00] <head8debian> o_O
+[2015/11/05 21:16:11] <head8debian> Hehe. Tobbi cannot spy on me through the logs. :D
+[2015/11/05 21:16:19] <head8debian> Hey jeezy.
+[2015/11/05 21:16:31] <head8debian> Hello tux|dude.
+[2015/11/05 21:16:40] <head8debian> tux|dude: When do you get out of school?
+[2015/11/05 21:17:03] <tux|dude> I'm on study leave
+[2015/11/05 21:17:11] <head8debian> tux|dude: Ah. Is that fun?
+[2015/11/05 21:17:25] <tux|dude> It's study. Of course it isn't fun :P
+[2015/11/05 21:17:36] <head8debian> tux|dude: Im going to get finger cramps if i keep up talking liek that with Tobbi. :p
+[2015/11/05 21:17:42] <head8debian> Or really buff fingers... :p
+[2015/11/05 21:17:48] <head8debian> tux|dude: LOL. :D
+[2015/11/05 21:21:51] <head8debian> tux|dude: Im studying on a huge book about electronics... ;)
+[2015/11/05 21:22:01] <head8debian> Well, curcuits.
+[2015/11/05 21:22:27] @ Quit: darkbasic: Read error: Connection reset by peer
+[2015/11/05 21:22:43] @ darkbasic joined channel #supertux
+[2015/11/05 21:27:12] @ Quit: darkbasic: Remote host closed the connection
+[2015/11/05 21:28:04] @ darkbasic joined channel #supertux
+[2015/11/05 21:40:53] @ Quit: paroneayea: Ping timeout: 240 seconds
+[2015/11/05 21:46:19] @ Quit: tux|dude: Quit: Leaving
+[2015/11/05 22:25:30] <datahead8888> head8debian, he could spy on you through the logs if he wanted to
+[2015/11/05 22:42:47] <head8debian> datahead8888: The logs are set up to update only 3 times a day... Im still getting them to work properly.
+[2015/11/05 22:42:56] <head8debian> datahead8888: The old logs went down.
+[2015/11/05 22:57:16] @ tux|dude joined channel #supertux
+[2015/11/05 23:00:25] <datahead8888> Oh, I see
+[2015/11/05 23:00:40] @ Quit: FranX: Ping timeout: 250 seconds
+[2015/11/05 23:00:54] <datahead8888> Have you thought about having them log to a different file each day?
+[2015/11/05 23:01:39] <datahead8888> Well, I guess one file is easier to search through, unless you add a search feature.  One file can get pretty large, though.
+[2015/11/05 23:13:56] <head8debian> datahead8888: Yes, we would liek to have diferent logs for each day, but it will take some effort on my part to do.
+[2015/11/05 23:15:19] @ paroneayea joined channel #supertux
+[2015/11/05 23:28:42] @ FranX joined channel #supertux
+[2015/11/05 23:53:28] @ Quit: tux|dude: Quit: Leaving
+[2015/11/06 00:08:19] @ maths22_log joined channel #supertux
+[2015/11/06 00:11:37] <maths22> lastlog
+[2015/11/06 00:11:40] <maths22> Sorry
+[2015/11/06 00:15:17] @ Quit: maths22_log: Remote host closed the connection
+[2015/11/06 00:15:45] @ maths22_log joined channel #supertux
+[2015/11/06 00:15:54] @ Quit: maths22_log: Remote host closed the connection
+[2015/11/06 00:16:28] @ maths22_log joined channel #supertux
+[2015/11/06 00:23:29] @ Quit: Mathnerd314: Ping timeout: 240 seconds
