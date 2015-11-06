@@ -326,3 +326,109 @@
 [2015/11/06 16:44:16] <red_bot> brmbrmcar: You did something wrong... Try s/you/me/ or tell me "help sed"
 [2015/11/06 16:44:20] <Tobbi> Hey, giby.
 [2015/11/06 16:44:31] <Tobbi> giby: Do you have time?
+[2015/11/06 16:45:03] <Karkus> head8debian: I was joking :)
+[2015/11/06 16:45:39] <red_bot> Karkus:Im sorry, but im only doing my job.
+[2015/11/06 16:45:41] <giby> Tobbi, I can make some
+[2015/11/06 16:46:03] <brmbrmcar> Poor red_bot.
+[2015/11/06 16:46:12] <Tobbi> giby: So, I kind of implemented language packs add-ons. It would be cool if you could create additional language packs...You can find a template in the addons repository.
+[2015/11/06 16:46:39] <giby> additional language pack?
+[2015/11/06 16:46:58] <head8debian> lol.
+[2015/11/06 16:47:41] <Tobbi> giby: Currently, I only packaged czech and german.
+[2015/11/06 16:47:58] <Karkus> red_bot: stop
+[2015/11/06 16:48:03] <Karkus> red_bot: end own life
+[2015/11/06 16:48:08] <giby> Don't we put the po in the archive?
+[2015/11/06 16:48:26] <Karkus> red_bot: halp
+[2015/11/06 16:48:45] <brmbrmcar> Karkus: red_bot has feelings!
+[2015/11/06 16:48:53] <Tobbi> giby: That works as well, but people would then assume that the add-on itself changed, which it didn't.
+[2015/11/06 16:49:05] <red_bot> Karkus:You cannot kill me... Only Tobbi and giby can. :p
+[2015/11/06 16:49:21] <Tobbi> So, I devised a way to create langpacks.
+[2015/11/06 16:49:28] <red_bot> But if they did you'd have no more logs. :D
+[2015/11/06 16:49:33] <Karkus> red_bot: They can?
+[2015/11/06 16:49:44] <red_bot> OPs are amazing...
+[2015/11/06 16:50:01] <Tobbi> I can?
+[2015/11/06 16:50:11] <Karkus> ~stop
+[2015/11/06 16:50:16] <Karkus> idk
+[2015/11/06 16:50:20] <Tobbi> nvm
+[2015/11/06 16:50:35] <Karkus> ~irclog
+[2015/11/06 16:50:45] <head8debian> Karkus: If you want to play with him do it in a private windows. ;)
+[2015/11/06 16:50:45] <head8debian> window*
+[2015/11/06 16:50:46] <head8debian> o_O
+[2015/11/06 16:50:49] <Karkus> head8debian: Yeah, I am
+[2015/11/06 16:50:51] <head8debian> He can easily spam...
+[2015/11/06 16:50:56] <head8debian> ~help
+[2015/11/06 16:50:56] <red_bot> head8debian: help topics: 10 core modules: auth, basics, config, filters, httputil, irclog, unicode, userdata, webservice, wordlist; 71 plugins: alias, autoop, autorejoin, azgame, bans, bash, botsnack, cal, chanserv, chucknorris, deepthoughts, dice, dns, eightball, excuse, factoids, figlet, fortune, geoip, googlefight, greed, greet, hangman, hl2, host, imdb, insult, karma, keywords, lart, linkbot, markov, math, modes, nickrecover, nickserv, note,
+[2015/11/06 16:50:56] <red_bot> oxford, poll, q, quiz, quote, reaction, remind, ri, roshambo, rot, roulette, rss, salut, script, search, sed, seen, shiritori, shortenurls, slashdot, spell, theyfightcrime, time, topic, translator, tumblr, uno, urban, url, usermodes, weather, wheeloffortune, wserver, youtube (help <topic> for more info)
+[2015/11/06 16:51:07] <Karkus> head8debian: I did that in pm
+[2015/11/06 16:51:16] <Karkus> but irclog didn't work..
+[2015/11/06 16:51:32] <head8debian> Some plugins don't work for varius reasons...
+[2015/11/06 16:51:43] <head8debian> Rbot's dev team is not quick on fixing stuff. :)
+[2015/11/06 16:51:49] <head8debian> ~help irclog
+[2015/11/06 16:51:49] <red_bot> head8debian: no help
+[2015/11/06 16:51:52] <Karkus> head8debian: Do you know Bash, out of interedt
+[2015/11/06 16:51:54] <head8debian> ~irclog on
+[2015/11/06 16:52:04] <head8debian> Karkus: Hmm?
+[2015/11/06 16:52:18] <Karkus> head8debian: bash the scripting language
+[2015/11/06 16:52:22] <brmbrmcar> red_bot: D o you have bot friends?
+[2015/11/06 16:52:40] @ swift110 joined channel #supertux
+[2015/11/06 16:52:44] <Karkus> Yes, purple_bot of course
+[2015/11/06 16:52:50] <head8debian> Karkus: Not much...
+[2015/11/06 16:53:22] <brmbrmcar> yellow_bot
+[2015/11/06 16:53:22] <Karkus> head8debian: If there was any language worth learning for a linux enthusiast, it's that. I know less than I should
+[2015/11/06 16:53:56] <head8debian> Karkus: I know. I do know a little about it. But this is probably the most advanced script ive ever needed. http://paste.debian.net/326335/
+[2015/11/06 16:53:59] <head8debian> hehe.
+[2015/11/06 16:54:20] @ Quit: swift110: Changing host
+[2015/11/06 16:54:20] @ swift110 joined channel #supertux
+[2015/11/06 16:54:21] <brmbrmcar> I want a bot...
+[2015/11/06 16:54:27] <head8debian> Well, the logs get pushed through a bash script, which i found online and went through and tweaked.
+[2015/11/06 16:55:08] <head8debian> ~help bash
+[2015/11/06 16:55:08] <red_bot> head8debian: bash => print a random quote from bash.org, bash quote_id => print that quote id from bash.org, bash search <terms> => print the first bash.org quote matching <terms>, bash latest => print the latest quote from bash.org
+[2015/11/06 16:55:12] <Karkus> head8debian: I made .bashrc ask me a maths question when I try to use the terminal one time, for some reason. And of course I export things to the path in bashrc too
+[2015/11/06 16:55:24] <head8debian> Hmm.
+[2015/11/06 16:55:33] <Karkus> ~deepthought
+[2015/11/06 16:55:33] <red_bot> Karkus: Many people never stop to realize that a tree is a living thing, not that different from a tall, leafy dog that has roots and is very quiet.
+[2015/11/06 16:56:16] <head8debian> Karkus: https://github.com/ruby-rbot/rbot/blob/43ebe3abdcb86e0edebb2d581e07064df7fdf467/lib/rbot/ircbot.rb
+[2015/11/06 16:56:33] <head8debian> ~bash.org
+[2015/11/06 16:56:47] <head8debian> ~bash
+[2015/11/06 16:56:48] <red_bot> head8debian: no quotes found
+[2015/11/06 16:56:54] <head8debian> Heh,
+[2015/11/06 16:57:23] <head8debian> ~help figlet
+[2015/11/06 16:57:23] <red_bot> head8debian: figlet|toilet <message> => print using figlet or toilet
+[2015/11/06 16:57:32] <head8debian> o_o
+[2015/11/06 16:58:00] <head8debian> ~figlet hi
+[2015/11/06 16:58:00] <red_bot> head8debian: figlet couldn't be found. if it's installed, you should set the figlet.path config key to its path
+[2015/11/06 16:58:19] <brmbrmcar> ~supertux
+[2015/11/06 16:58:46] <head8debian> ~reload
+[2015/11/06 16:58:46] <red_bot> head8debian: saving... rescanning...
+[2015/11/06 16:58:47] @ Log closed by red_bot (rescan or shutdown)
+[2015/11/06 16:58:52] @ Log started by red_bot
+[2015/11/06 16:58:52] <red_bot> head8debian: done. 10 core modules loaded; 71 plugins loaded; 2 plugins failed to load
+[2015/11/06 16:58:56] <head8debian> ~figlet
+[2015/11/06 16:58:56] <red_bot> head8debian: incorrect usage, ask for help using 'red_bot: help figlet'
+[2015/11/06 16:59:00] <head8debian> ~figlet hi
+[2015/11/06 16:59:00] <red_bot>    __    _ 
+[2015/11/06 16:59:00] <red_bot>   / /   (_)
+[2015/11/06 16:59:00] <red_bot>  / _ \ / / 
+[2015/11/06 16:59:00] <red_bot> /_//_//_/
+[2015/11/06 16:59:12] <Karkus> head8debian: What happened to pm red_bot to stop spam :D
+[2015/11/06 16:59:25] <head8debian> Karkus: :D
+[2015/11/06 16:59:35] <head8debian> ~figlet Supertux
+[2015/11/06 16:59:35] <red_bot>    ____                      __            
+[2015/11/06 16:59:35] <red_bot>   / __/__ __ ___  ___  ____ / /_ __ ____ __
+[2015/11/06 16:59:35] <red_bot>  _\ \ / // // _ \/ -_)/ __// __// // /\ \ /
+[2015/11/06 16:59:35] <red_bot> /___/ \_,_// .__/\__//_/   \__/ \_,_//_\_\ 
+[2015/11/06 16:59:35] <red_bot>           /_/
+[2015/11/06 16:59:46] <Karkus> ~figlet LOLOLOLOLOLOLOL
+[2015/11/06 16:59:46] <red_bot>    __   ____   __   ____   __   ____   __   ____   __   ____   __ 
+[2015/11/06 16:59:46] <red_bot>   / /  / __ \ / /  / __ \ / /  / __ \ / /  / __ \ / /  / __ \ / / 
+[2015/11/06 16:59:46] <red_bot>  / /__/ /_/ // /__/ /_/ // /__/ /_/ // /__/ /_/ // /__/ /_/ // /__
+[2015/11/06 16:59:46] <red_bot> /____/\____//____/\____//____/\____//____/\____//____/\____//____/
+[2015/11/06 16:59:46] <red_bot>                                                                   
+[2015/11/06 16:59:46] <red_bot>   ____   __   ____   __ 
+[2015/11/06 16:59:46] <red_bot>  / __ \ / /  / __ \ / / 
+[2015/11/06 16:59:46] <red_bot> / /_/ // /__/ /_/ // /__
+[2015/11/06 16:59:46] <red_bot> \____//____/\____//____/
+[2015/11/06 16:59:47] <brmbrmcar> ~figlet brmbrmcar
+[2015/11/06 16:59:47] <red_bot>    __                __                             
+[2015/11/06 16:59:47] <red_bot>   / /   ____ __ _   / /   ____ __ _  ____ ___ _ ____
+[2015/11/06 16:59:47] <red_bot>  / _ \ / __//  ' \ / _ \ / __//  ' \/ __// _ `// __/
+[2015/11/06 16:59:47] <red_bot> /_.__//_/  /_/_/_//_.__//_/  /_/_/_/\__/ \_,_//_/
