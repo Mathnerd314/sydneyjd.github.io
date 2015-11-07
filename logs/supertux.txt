@@ -850,3 +850,4 @@
 [2015/11/07 01:27:34] @ tuxdev_ joined channel #supertux
 [2015/11/07 02:36:04] @ Quit: darkbasic: Quit: No Ping reply in 180 seconds.
 [2015/11/07 02:36:31] @ darkbasic joined channel #supertux
+[2015/11/07 02:57:44] @ Quit: tuxdev_: Ping timeout: 272 seconds
