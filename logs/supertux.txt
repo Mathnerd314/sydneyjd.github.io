@@ -1326,3 +1326,4 @@
 [2015/11/07 16:04:16] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/11/07 16:05:30] @ brmbrmcar joined channel #supertux
 [2015/11/07 16:09:05] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#218: Add high resolution icon - 13http://git.io/v8W1N
+[2015/11/07 16:38:52] <Tobbi> Argh, we're compiling with Werror
