@@ -1066,3 +1066,9 @@
 [2015/11/07 10:51:43] @ Tobbi joined channel #supertux
 [2015/11/07 10:51:44] @ Mode +o Tobbi by ChanServ
 [2015/11/07 10:53:45] @ Wuzzy joined channel #supertux
+[2015/11/07 11:24:42] @ swift110 joined channel #supertux
+[2015/11/07 11:26:51] <swift110> hey all
+[2015/11/07 11:28:36] @ Quit: swift110: Changing host
+[2015/11/07 11:28:36] @ swift110 joined channel #supertux
+[2015/11/07 11:29:21] <Hume2> Hello.
+[2015/11/07 11:29:58] @ Quit: Tobbi: Remote host closed the connection
