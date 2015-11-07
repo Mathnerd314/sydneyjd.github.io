@@ -891,3 +891,6 @@
 [2015/11/07 06:39:55] <Not-6fa5> [02supertux] 07maxteufel labeled issue 03#217: Swimming - 13http://git.io/v8ZYO
 [2015/11/07 06:39:57] <Not-6fa5> [02supertux] 07maxteufel unlabeled issue 03#217: Swimming - 13http://git.io/v8ZYO
 [2015/11/07 06:40:31] <mt> # priority: low -> medium
+[2015/11/07 06:46:48] @ Tobbi_ joined channel #supertux
+[2015/11/07 06:46:48] @ Mode +o Tobbi_ by ChanServ
+[2015/11/07 06:49:10] @ Quit: Tobbi: Ping timeout: 240 seconds
