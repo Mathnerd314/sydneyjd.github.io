@@ -860,3 +860,7 @@
 [2015/11/07 03:27:13] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#218: Add high resolution icon - 13http://git.io/v8nMA
 [2015/11/07 03:29:24] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#217: Swimming - 13http://git.io/v8nDc
 [2015/11/07 03:33:12] @ brmbrmcar joined channel #supertux
+[2015/11/07 04:02:05] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/07 04:03:30] @ Quit: darkbasic: Ping timeout: 240 seconds
+[2015/11/07 04:04:52] @ darkbasic joined channel #supertux
+[2015/11/07 04:14:30] <Not-6fa5> [02supertux] 07maxteufel commented on issue 03#217: Swimming - 13http://git.io/v8n56
