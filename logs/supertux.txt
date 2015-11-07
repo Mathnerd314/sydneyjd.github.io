@@ -967,3 +967,62 @@
 [2015/11/07 10:13:35] <head8debian> ...and Hume2. :D
 [2015/11/07 10:13:53] <Hume2> Hello.
 [2015/11/07 10:14:40] <Hume2> May I implement someting to tint tilemaps?
+[2015/11/07 10:16:04] <head8debian> Tobbi: My icon is strange. :(
+[2015/11/07 10:16:06] <head8debian> Tobbi: :p
+[2015/11/07 10:16:18] <Tobbi> head8debian: You are strange.
+[2015/11/07 10:16:19] <Tobbi> bbl
+[2015/11/07 10:17:45] <head8debian> Tobbi: o_O
+[2015/11/07 10:18:24] <Hume2> I think that the people who need HD icons are strange.
+[2015/11/07 10:18:37] <Hume2> No offense.
+[2015/11/07 10:19:52] <head8debian> I think they use android too much...
+[2015/11/07 10:20:01] <head8debian> Or any smartphone.
+[2015/11/07 10:20:09] <leyyin> welcome to 2015
+[2015/11/07 10:20:23] <leyyin> the year of the 4k is here ;)
+[2015/11/07 10:20:29] <leyyin> all that glorious pixels
+[2015/11/07 10:20:43] <head8debian> Well, it won't be "here" for me for at least 10 years. :D
+[2015/11/07 10:21:00] <leyyin> peasant :P
+[2015/11/07 10:21:06] <leyyin> 4k master race
+[2015/11/07 10:21:28] <head8debian> I don't have my nose up to my screen, so why do i need a better screen?
+[2015/11/07 10:21:38] <leyyin> higher dpi
+[2015/11/07 10:22:31] <Hume2> What do they expect? I don't want to see what's on my computer via a microscope.
+[2015/11/07 10:22:45] <head8debian> What i have works fine.
+[2015/11/07 10:22:48] <leyyin> you can see the diference man ;)
+[2015/11/07 10:22:54] <leyyin> higher quality
+[2015/11/07 10:22:58] <leyyin> more sharp
+[2015/11/07 10:23:00] <head8debian> Yes i can, ive seen a 4k screen.
+[2015/11/07 10:23:05] <leyyin> it's like looking out of a window
+[2015/11/07 10:23:09] <head8debian> But my wallet cringes. :D
+[2015/11/07 10:23:18] <head8debian> And i only get new when my old breaks.
+[2015/11/07 10:23:34] <leyyin> or get new, and keep both :P
+[2015/11/07 10:23:38] <leyyin> hoarder :P
+[2015/11/07 10:23:52] <head8debian> :-)
+[2015/11/07 10:24:11] <head8debian> Hey, im still using a 15in 1024x768px screen. :)
+[2015/11/07 10:24:29] <leyyin> that is a weird resolution
+[2015/11/07 10:24:36] <Hume2> I'm using 1536×768 screen.
+[2015/11/07 10:24:48] <leyyin> are you sure it is not 1366? Hume2
+[2015/11/07 10:25:03] <head8debian> My main screen is 1600x900.
+[2015/11/07 10:25:22] <Hume2> leyyin: Yes, that's right.
+[2015/11/07 10:25:28] <Hume2> leyyin: 1366
+[2015/11/07 10:25:35] <Hume2> it is.
+[2015/11/07 10:25:42] <head8debian> Only 11954 hours on it. :D
+[2015/11/07 10:25:56] <leyyin> how can you tell? head8debian
+[2015/11/07 10:26:14] <head8debian> My screen has a menu which tells me...
+[2015/11/07 10:26:18] <leyyin> 498 days
+[2015/11/07 10:26:25] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/07 10:26:32] <head8debian> Our tractor don't even have that much time. o_O
+[2015/11/07 10:26:42] <leyyin> what?
+[2015/11/07 10:26:50] <leyyin> what crappy tractors do you have?
+[2015/11/07 10:26:57] <leyyin> I have seen tractors old as 40 years
+[2015/11/07 10:26:59] <leyyin> still running
+[2015/11/07 10:27:07] <head8debian> Only 40? :)
+[2015/11/07 10:27:40] <head8debian> My grandpa has one from when he was 12 thats still running. :) And he is 80.
+[2015/11/07 10:27:42] <leyyin> how can a tractor not run for 498 days?
+[2015/11/07 10:28:08] <head8debian> Tractors don't go by the amount of miles on them, they go by hours on them.
+[2015/11/07 10:28:27] <leyyin> what?
+[2015/11/07 10:28:27] <head8debian> 6,000 hours on a Combine is alot.
+[2015/11/07 10:28:41] <leyyin> how do they measure that?
+[2015/11/07 10:29:02] <head8debian> We have a Skytrak with 12,000 hours and its its startign to show its age.
+[2015/11/07 10:29:11] <head8debian> leyyin: Every tractor has a time meter...
+[2015/11/07 10:29:19] <head8debian> Well, newer ones...
+[2015/11/07 10:29:24] <leyyin> I do not think I saw that kind of thing here tbh
+[2015/11/07 10:29:27] <head8debian> after 1980. ;)
