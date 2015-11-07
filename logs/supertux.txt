@@ -1083,3 +1083,10 @@
 [2015/11/07 11:43:30] <Karkus> ???
 [2015/11/07 11:43:52] <Hume2> http://a062.apm.etc.tu-bs.de/pmlvls.php
 [2015/11/07 11:44:06] <Hume2> They are milestone 1.
+[2015/11/07 12:00:42] <swift110> ok cool
+[2015/11/07 12:12:28] <head8debian> Hume2: That will be cool.
+[2015/11/07 12:13:23] <Hume2> head8debian: Some levels are already restaured. It's the restaured Island I.
+[2015/11/07 12:13:41] <mt> s/au/o/g
+[2015/11/07 12:13:41] <red_bot> mt: You did something wrong... Try s/you/me/ or tell me "help sed"
+[2015/11/07 12:13:53] <mt> shut up red_bot
+[2015/11/07 12:14:29] <Hume2> head8debian: However, this addon won't display unless you have 0.4.0 or newer.
