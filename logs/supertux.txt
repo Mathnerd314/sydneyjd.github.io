@@ -1332,3 +1332,31 @@
 [2015/11/07 16:46:03] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/89863279
 [2015/11/07 16:47:01] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/89863279
 [2015/11/07 16:58:24] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/89863279
+[2015/11/07 17:03:21] <Tobbi> finally!
+[2015/11/07 17:04:02] @ jesusalva joined channel #supertux
+[2015/11/07 17:04:16] <brmbrmcar> What's Werror?
+[2015/11/07 17:04:22] @ Quit: tux|dude: Quit: Leaving
+[2015/11/07 17:04:53] <Tobbi> brmbrmcar: Werror means warnings are treated as errors.
+[2015/11/07 17:06:24] <brmbrmcar> OK.
+[2015/11/07 17:08:56] <leyyin> Tobbi, error, 'Werror' is not a recognized identifier
+[2015/11/07 17:09:05] <Tobbi> leyyin: shut up.
+[2015/11/07 17:09:17] <Tobbi> leyyin: You know very well that I meant -Werror
+[2015/11/07 17:09:22] <leyyin> my mouth is shut, but my fingers ;)
+[2015/11/07 17:09:30] <Tobbi> leyyin: Glue your fingers together.
+[2015/11/07 17:09:39] <Tobbi> And don't use speech recognition.
+[2015/11/07 17:09:53] <leyyin> sign language with my feet it is then ;)
+[2015/11/07 17:10:06] <Tobbi> leyyin: That's not IRC-compatible.
+[2015/11/07 17:10:33] * leyyin glues Tobbi mouth
+[2015/11/07 17:10:40] <Tobbi> leyyin: https://archive.org/details/AxelF_754
+[2015/11/07 17:11:27] <leyyin> wow, archive.org just got a lot sexier
+[2015/11/07 17:11:37] <Tobbi> leyyin: Because of Axel F?
+[2015/11/07 17:11:44] <leyyin> the new design
+[2015/11/07 17:11:46] <leyyin> well new to me :P
+[2015/11/07 17:12:07] <Tobbi> leyyin: Is Axel F or archive.org new to you?
+[2015/11/07 17:12:14] <leyyin> sigh
+[2015/11/07 17:12:15] <leyyin> gn
+[2015/11/07 17:12:29] <Tobbi> Ah.
+[2015/11/07 17:12:32] <Tobbi> Never mind.
+[2015/11/07 17:14:41] <Tobbi> leyyin: good night-ding-ding-ding.
+[2015/11/07 17:14:43] <Tobbi> :P
+[2015/11/07 17:14:46] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
