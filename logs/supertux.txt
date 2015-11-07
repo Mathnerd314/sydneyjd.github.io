@@ -1090,3 +1090,4 @@
 [2015/11/07 12:13:41] <red_bot> mt: You did something wrong... Try s/you/me/ or tell me "help sed"
 [2015/11/07 12:13:53] <mt> shut up red_bot
 [2015/11/07 12:14:29] <Hume2> head8debian: However, this addon won't display unless you have 0.4.0 or newer.
+[2015/11/07 12:20:33] <head8debian> Hume2: Ok.
