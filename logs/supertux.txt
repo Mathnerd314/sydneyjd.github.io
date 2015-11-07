@@ -896,3 +896,6 @@
 [2015/11/07 06:49:10] @ Quit: Tobbi: Ping timeout: 240 seconds
 [2015/11/07 07:27:11] @ Quit: Tobbi_: Remote host closed the connection
 [2015/11/07 07:28:40] @ Quit: alket: Ping timeout: 244 seconds
+[2015/11/07 07:36:03] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#217: Swimming - 13http://git.io/v8cuz
+[2015/11/07 07:40:47] <Not-6fa5> [02supertux] 07maxteufel commented on issue 03#217: Swimming - 13http://git.io/v8czQ
+[2015/11/07 07:42:09] @ alket joined channel #supertux
