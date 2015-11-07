@@ -1323,3 +1323,6 @@
 [2015/11/07 15:49:41] @ Tobbi joined channel #supertux
 [2015/11/07 15:49:42] @ Mode +o Tobbi by ChanServ
 [2015/11/07 15:53:23] @ tux|dude joined channel #supertux
+[2015/11/07 16:04:16] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/07 16:05:30] @ brmbrmcar joined channel #supertux
+[2015/11/07 16:09:05] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#218: Add high resolution icon - 13http://git.io/v8W1N
