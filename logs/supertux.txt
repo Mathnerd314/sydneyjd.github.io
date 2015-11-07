@@ -1230,3 +1230,87 @@
 [2015/11/07 14:44:54] <Karkus> cloaks
 [2015/11/07 14:44:58] <Tobbi> Karkus: yup.
 [2015/11/07 14:45:01] <Karkus> not quotes
+[2015/11/07 14:45:03] <mt> Karkus: if you're talking about cloaks, they will always be set when you identify
+[2015/11/07 14:45:10] <mt> regardless of the nicknames
+[2015/11/07 14:45:37] <head8debian> Tobbi: I have no clue how i'd set up my server to build packages like that though... the upload wouldn't be so hard. My server runs debian btw.
+[2015/11/07 14:45:38] <Karkus> mt: But you need to get a cloak for each one, and an account for each one
+[2015/11/07 14:45:42] <mt> Tobbi: I guess not just every big open source project, every bigger software project
+[2015/11/07 14:45:51] <Tobbi> Yup.
+[2015/11/07 14:45:52] <head8debian> Karkus: No, you group the nicks to your account.
+[2015/11/07 14:45:57] <mt> Karkus: nope, you can sign in to the same account multiple times
+[2015/11/07 14:46:03] <Tobbi> head8debian: Cronjob?
+[2015/11/07 14:46:06] <mt> You don't even need to group nicks
+[2015/11/07 14:46:32] <head8debian> Tobbi: Of course cronjob, but like to make a .deb file. ive heard they are a PITB.
+[2015/11/07 14:46:53] <Tobbi> head8debian: You mean PITA? Yummy.
+[2015/11/07 14:47:11] <Tobbi> http://cdn-image.myrecipes.com/sites/default/files/styles/300x300/public/image/recipes/ay/05/turkey-pita-ay-1875242-x.jpg?itok=9cgAPCoW
+[2015/11/07 14:47:11] <head8debian> No, a pian in the bott... :p
+[2015/11/07 14:47:40] <head8debian> Tobbi: What OSes would i have to build for?
+[2015/11/07 14:47:52] <Tobbi> head8debian: Linux and maybe Windows. I believe, OS X is too hard to do.
+[2015/11/07 14:47:53] <Karkus> head8debian: Solaris only
+[2015/11/07 14:47:58] <Karkus> :D
+[2015/11/07 14:48:01] <Tobbi> Solaris? urgh
+[2015/11/07 14:48:10] <Karkus> I'm just kidding
+[2015/11/07 14:48:19] <head8debian> mt: *should* a debian .deb work with ubuntu if its made properly?
+[2015/11/07 14:48:23] <head8debian> Karkus: o_O
+[2015/11/07 14:48:23] <Tobbi> head8debian: You'd have to transpile supertux into Java and create one JAR
+[2015/11/07 14:48:33] <head8debian> I hate java...
+[2015/11/07 14:48:37] <Karkus> head8debian: They do
+[2015/11/07 14:48:42] <Tobbi> Java hates you as well.
+[2015/11/07 14:48:50] <mt> Solaris, killall python :D
+[2015/11/07 14:48:56] <head8debian> I use it as little as possible...
+[2015/11/07 14:49:10] <Karkus> I used to like the language Java
+[2015/11/07 14:49:22] <Karkus> But it's incredibly frustrating
+[2015/11/07 14:49:24] <Tobbi> Karkus: careful...my bachelor thesis program is written in Java.
+[2015/11/07 14:49:36] <head8debian> Tobbi: How in the world do you make a windows executable? o_O
+[2015/11/07 14:49:45] <Karkus> Correction - I love Java it's the best
+[2015/11/07 14:49:49] <mt> head8debian: it might work, but even a proper deb package might not work as ubuntu is not binary compatible to debian
+[2015/11/07 14:50:02] <head8debian> I don't even know how to compile 32 bit on 64 bit...
+[2015/11/07 14:50:05] <Karkus> head8debian: It's a mystery to everyone
+[2015/11/07 14:50:13] <head8debian> lol. :-)
+[2015/11/07 14:50:49] <Tobbi> :D
+[2015/11/07 14:50:54] <mt> same applies to debian releases, e.g. squeeze, wheezy, jessie and sid, as they use different library versions, which will just break (and yes, I'm adding squeeze to the list because it's still supported)
+[2015/11/07 14:51:19] <head8debian> mt: Dont forget stretch... ;)
+[2015/11/07 14:51:33] <mt> I don't like testing
+[2015/11/07 14:51:50] <head8debian> o_O
+[2015/11/07 14:51:51] <leyyin> Tobbi, I write my bachelor thesis in ocaml ;)
+[2015/11/07 14:51:56] <head8debian> I do when it works.
+[2015/11/07 14:52:02] @ darkbasic_ joined channel #supertux
+[2015/11/07 14:52:04] <Tobbi> leyyin: What's your topic?
+[2015/11/07 14:52:14] * head8debian cries...
+[2015/11/07 14:52:29] <leyyin> secret :P
+[2015/11/07 14:52:42] @ Quit: darkbasic: Ping timeout: 250 seconds
+[2015/11/07 14:52:52] <leyyin> conversion from some diagrams to a session logic format, so that it easy to generate code
+[2015/11/07 14:53:06] <mt> head8debian: Because it doesn't really get security updates - (old(old))stable gets fast security updates as patches; sid/unstable gets fast security updates from the latest release but testing will have to wait for the package to be in sid for some time and therefore won't get fast security updates
+[2015/11/07 14:53:20] <Tobbi> leyyin: Sounds complicated.
+[2015/11/07 14:53:27] <leyyin> sounds ;)
+[2015/11/07 14:53:34] <Tobbi> hmm okay...
+[2015/11/07 14:53:40] <leyyin> everything is simple once you know it :D
+[2015/11/07 14:53:54] <Tobbi> leyyin: Believe me, writing a rudimentary transpiler was easy... :P
+[2015/11/07 14:54:09] <leyyin> :D
+[2015/11/07 14:54:10] <Tobbi> Still, it was torn apart by one of the profs.
+[2015/11/07 14:54:11] <Tobbi> :D
+[2015/11/07 14:54:12] <Karkus> Tobbi: Do you get to choose your language?
+[2015/11/07 14:54:45] <Tobbi> Karkus: My prof wanted me to use...uh...yacc for that...
+[2015/11/07 14:55:00] <leyyin> haha, yacc
+[2015/11/07 14:55:02] <Tobbi> Karkus: But he told me something about "Compiler compiler" and I was freaked out.
+[2015/11/07 14:55:09] <leyyin> or lex :P
+[2015/11/07 14:55:17] <Tobbi> Karkus: So, I was like: No way on earth am I gonna use a compiler compiler. I'm gonna write my own thing.
+[2015/11/07 14:55:30] <Karkus> Tobbi: O_o
+[2015/11/07 14:55:31] <Tobbi> It would've been easier using yacc, I believe.
+[2015/11/07 14:55:46] <Tobbi> But, who cares :D
+[2015/11/07 14:56:03] <Karkus> Tobbi: What did you use in the end though?
+[2015/11/07 14:56:23] <Tobbi> Karkus: I wrote a transpiler in Java.
+[2015/11/07 14:56:32] <Karkus> Oh, yeah
+[2015/11/07 14:56:34] <Tobbi> That uses a stack and a map.
+[2015/11/07 14:56:49] <leyyin> Tobbi, http://i44.servimg.com/u/f44/11/84/03/95/yak_0210.jpg
+[2015/11/07 14:56:54] <Tobbi> :D
+[2015/11/07 14:56:56] <Tobbi> I know.
+[2015/11/07 14:56:58] <leyyin> you should have used that ^
+[2015/11/07 14:57:04] <Tobbi> leyyin: Uses too much memory.
+[2015/11/07 14:57:11] <Tobbi> Also, it's too hairy.
+[2015/11/07 14:57:12] <Tobbi> :D
+[2015/11/07 14:57:17] <leyyin> I have my last homework for my compilers course to use lex or yacc
+[2015/11/07 14:57:22] <Tobbi> I am not a yacc-ophile.
+[2015/11/07 14:57:22] <Tobbi> :D
+[2015/11/07 14:57:38] <Tobbi> yak-ophile.
+[2015/11/07 14:57:38] <Tobbi> :D
