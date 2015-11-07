@@ -894,3 +894,5 @@
 [2015/11/07 06:46:48] @ Tobbi_ joined channel #supertux
 [2015/11/07 06:46:48] @ Mode +o Tobbi_ by ChanServ
 [2015/11/07 06:49:10] @ Quit: Tobbi: Ping timeout: 240 seconds
+[2015/11/07 07:27:11] @ Quit: Tobbi_: Remote host closed the connection
+[2015/11/07 07:28:40] @ Quit: alket: Ping timeout: 244 seconds
