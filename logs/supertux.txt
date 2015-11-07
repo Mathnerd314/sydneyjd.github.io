@@ -819,3 +819,6 @@
 [2015/11/06 19:04:41] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#218: Add high resolution icon - 13http://git.io/v8Zzd
 [2015/11/06 19:07:13] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#215: Add sprite for butt-jumped Iceblock and frozen spiked enemies - 13http://git.io/v8ZgW
 [2015/11/06 19:26:12] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#218: Add high resolution icon - 13http://git.io/v8Zws
+[2015/11/06 20:06:56] @ Quit: Karkus: Remote host closed the connection
+[2015/11/06 20:09:01] @ Karkus joined channel #supertux
+[2015/11/06 20:09:19] @ Quit: alket: Quit: Leaving
