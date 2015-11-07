@@ -865,3 +865,6 @@
 [2015/11/07 04:04:52] @ darkbasic joined channel #supertux
 [2015/11/07 04:14:30] <Not-6fa5> [02supertux] 07maxteufel commented on issue 03#217: Swimming - 13http://git.io/v8n56
 [2015/11/07 04:28:35] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#217: Swimming - 13http://git.io/v8nFN
+[2015/11/07 04:33:12] <Not-6fa5> [02supertux] 07maxteufel commented on issue 03#217: Swimming - 13http://git.io/v8nNR
+[2015/11/07 04:36:55] @ Quit: tux|dude: Read error: Connection reset by peer
+[2015/11/07 04:36:55] @ alket joined channel #supertux
