@@ -1114,3 +1114,5 @@
 [2015/11/07 12:58:02] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#219: Weekly/Fortnightly Releases - 13http://git.io/v8C72
 [2015/11/07 12:58:08] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#219: Weekly/Fortnightly Releases - 13http://git.io/v8C7V
 [2015/11/07 12:58:35] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#219: Weekly/Fortnightly Releases - 13http://git.io/v8C71
+[2015/11/07 13:02:27] <Not-6fa5> [02supertux] 07maxteufel commented on issue 03#219: Weekly/Fortnightly Releases - 13http://git.io/v8C5N
+[2015/11/07 13:04:58] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#219: Weekly/Fortnightly Releases - 13http://git.io/v8Cdw
