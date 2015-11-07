@@ -1320,3 +1320,6 @@
 [2015/11/07 15:18:05] @ brmbrmcar joined channel #supertux
 [2015/11/07 15:20:14] <brmbrmcar> head8debian: How do you get seconds on your clock?
 [2015/11/07 15:22:28] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/07 15:49:41] @ Tobbi joined channel #supertux
+[2015/11/07 15:49:42] @ Mode +o Tobbi by ChanServ
+[2015/11/07 15:53:23] @ tux|dude joined channel #supertux
