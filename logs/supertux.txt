@@ -1159,3 +1159,74 @@
 [2015/11/07 14:29:40] @ Tobbi set topic "Welcome to the SuperTux chat | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | Channèl log http://sydneyjd.github.io/logs/"
 [2015/11/07 14:29:53] <head8debian> Why do we need to build on ARM>
 [2015/11/07 14:29:54] <head8debian> ?
+[2015/11/07 14:30:16] @ paroneayea joined channel #supertux
+[2015/11/07 14:30:37] <head8debian> It does have 2gb ram.
+[2015/11/07 14:30:47] <mt> Because that server's cheaper; you can cross-compile
+[2015/11/07 14:31:28] <head8debian> Im not sure if it has ECC ram or non ECC ram.
+[2015/11/07 14:31:28] <mt> You know that cross-compiling is for compiling code on an architecture different from the target architecture.
+[2015/11/07 14:31:38] <head8debian> Yes i do...
+[2015/11/07 14:32:08] <head8debian> But why do we need to cross compile?
+[2015/11/07 14:32:20] <Tobbi> So that people from other OSes can get nightly builds as well?
+[2015/11/07 14:32:26] <Tobbi> *using other OSes
+[2015/11/07 14:32:38] <head8debian> Well, i could see 32 bit and 64 bit, but say x64-86 to ARM?
+[2015/11/07 14:32:49] <mt> Nah, because if we'd build natively for ARM no-one could run the builds
+[2015/11/07 14:33:22] <mt> If we cross-compile on ARM for x86_64 and i686, then you could run the binaries on "normal" computers
+[2015/11/07 14:33:27] <head8debian> I could handle a couple uploads, but not more than 500mb a night.
+[2015/11/07 14:34:11] <mt> Also, head8debian, why do you care about ECC? Even most x86_64 basic-level dedicated servers don't have ECC RAM.
+[2015/11/07 14:34:31] <Tobbi> head8debian, The binaries shouldn't exceed 500 MB
+[2015/11/07 14:34:37] <Tobbi> Maybe 250 in total or something.
+[2015/11/07 14:34:39] <head8debian> Because, i could upgrade the ram if its non ECC. ;)
+[2015/11/07 14:34:52] <head8debian> I haven't done any looking into the ram it has atm...
+[2015/11/07 14:35:07] <head8debian> I got a mobo-cpu-ram combo and just instaleld it and started using it.
+[2015/11/07 14:35:18] <mt> That server I linked to is using an ARM SoC, you can't replace RAM on SoCs.
+[2015/11/07 14:35:19] <head8debian> Tobbi: But do we really *need* nightly builds?
+[2015/11/07 14:35:32] <head8debian> mt: I do know what a SOC is. :)
+[2015/11/07 14:35:45] <Tobbi> head8debian, No, we don't. But weekly builds could be neat.
+[2015/11/07 14:36:03] <mt> head8debian: Yet you can't send them your RAM to add it.
+[2015/11/07 14:36:17] <head8debian> Tobbi: But what if our development goes dead after M2 is released? :)
+[2015/11/07 14:36:24] <head8debian> mt: True...
+[2015/11/07 14:36:32] <head8debian> But 2gb ram can do quite a bit.
+[2015/11/07 14:36:38] <head8debian> Not alot, but quite a bit.
+[2015/11/07 14:36:57] <mt> As I said, I can build packaged x86_64 Arch Linux binaries manually once every week.
+[2015/11/07 14:36:59] <Tobbi> head8debian, It certainly will.
+[2015/11/07 14:37:21] <Tobbi> mt, Can't you cross-compile?
+[2015/11/07 14:37:37] <head8debian> mt: I can to. :)
+[2015/11/07 14:37:41] <mt> Cross-compile for what
+[2015/11/07 14:37:47] <head8debian> mt: Arch packages are easy.
+[2015/11/07 14:37:51] <Tobbi> mt, Cross-compile for win32 at least?
+[2015/11/07 14:38:08] <Tobbi> Mac might be a problem.
+[2015/11/07 14:38:09] <mt> Do we even support building using MinGW?
+[2015/11/07 14:38:17] <head8debian> mt: I flagged the Supertux AUR package out of date, but haven't heard back. I even linked them to a updated version of it.
+[2015/11/07 14:38:18] <Tobbi> afaik, we do.
+[2015/11/07 14:38:55] <head8debian> Well, i would have more ram free if red_bot wasn't taking 250mb. o_O
+[2015/11/07 14:38:58] <Tobbi> http://supertux.lethargik.org/wiki/Building_on_Windows says we do with MSYS and MinGW
+[2015/11/07 14:39:01] * head8debian stares at red_bot...
+[2015/11/07 14:39:11] <Tobbi> red_bot stares back and wonders...
+[2015/11/07 14:39:16] <Tobbi> Okay, guys, see you later.
+[2015/11/07 14:39:21] <Tobbi> or rather in a minute.
+[2015/11/07 14:39:24] <Tobbi> Switching PCs
+[2015/11/07 14:39:29] <head8debian> Tobbi: The only thing with building is that my CPU fan is noisy. :D
+[2015/11/07 14:40:22] <mt> I know that, I have so many computers I could use as homeservers, but they're too noisy
+[2015/11/07 14:40:39] @ Tobbi_ joined channel #supertux
+[2015/11/07 14:40:40] @ Mode +o Tobbi_ by ChanServ
+[2015/11/07 14:40:42] <Not-6fa5> [02supertux] 07sydneyjd commented on issue 03#218: Add high resolution icon - 13http://git.io/v8WnG
+[2015/11/07 14:41:51] <Tobbi_> This project's activity has gone up quite a bit.
+[2015/11/07 14:42:43] <head8debian> mt: my server is the last computer i use currently thats noisy, thankfully. ;)
+[2015/11/07 14:43:08] <mt> but: more activity -> more bugs -> more activity -> even more bugs -> /* repeat */ :(
+[2015/11/07 14:43:28] <head8debian> Tobbi: Well, i do have another computer that we could use for this... but i don't want to. Then my room would be super really noisy. :p
+[2015/11/07 14:43:40] <head8debian> mt: True... but you cannot just live with bugs.
+[2015/11/07 14:43:46] <Karkus> mt: But more people to fix bugs
+[2015/11/07 14:43:50] @ Quit: Tobbi: Ping timeout: 240 seconds
+[2015/11/07 14:44:00] @ Tobbi_ is now known as Tobbi
+[2015/11/07 14:44:07] <mt> ... resulting in more people to find bugs
+[2015/11/07 14:44:21] <head8debian> Its a loop...
+[2015/11/07 14:44:24] <Tobbi> but also resulting in the project being sustainable.
+[2015/11/07 14:44:25] <Karkus> Tobbi: How've you got two unaffiliated quotes
+[2015/11/07 14:44:26] <mt> and to introduce as well
+[2015/11/07 14:44:36] <Tobbi> Karkus: Uh?
+[2015/11/07 14:44:46] <Karkus> Tobbi: Tobbi_ is unaffiliated
+[2015/11/07 14:44:52] <Karkus> OOps
+[2015/11/07 14:44:53] <Tobbi> mt: Doesn't every big open source project have that problem?
+[2015/11/07 14:44:54] <Karkus> cloaks
+[2015/11/07 14:44:58] <Tobbi> Karkus: yup.
+[2015/11/07 14:45:01] <Karkus> not quotes
