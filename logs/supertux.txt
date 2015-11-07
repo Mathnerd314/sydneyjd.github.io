@@ -907,3 +907,34 @@
 [2015/11/07 08:10:45] @ Quit: darkbasic: Read error: Connection reset by peer
 [2015/11/07 08:11:01] @ darkbasic joined channel #supertux
 [2015/11/07 08:14:53] @ darkbasic_ joined channel #supertux
+[2015/11/07 08:15:19] @ Quit: darkbasic: Ping timeout: 250 seconds
+[2015/11/07 08:18:42] @ darkbasic joined channel #supertux
+[2015/11/07 08:18:50] @ Quit: darkbasic_: Read error: Connection reset by peer
+[2015/11/07 08:19:52] @ Karkus joined channel #supertux
+[2015/11/07 08:25:08] @ Log closed by red_bot (rescan or shutdown)
+[2015/11/07 08:26:00] @ Log started by red_bot
+[2015/11/07 08:26:00] <head8debian> ~toilet Karkus
+[2015/11/07 08:26:00] <red_bot>    __ __            __            
+[2015/11/07 08:26:00] <red_bot>   / //_/___ _ ____ / /__ __ __ ___
+[2015/11/07 08:26:00] <red_bot>  / ,<  / _ `// __//  '_// // /(_-<
+[2015/11/07 08:26:00] <red_bot> /_/|_| \_,_//_/  /_/\_\ \_,_//___/
+[2015/11/07 08:26:03] <head8debian> :D
+[2015/11/07 08:26:19] <Karkus> ~figlet Karkus
+[2015/11/07 08:26:19] <red_bot>    __ __            __            
+[2015/11/07 08:26:19] <red_bot>   / //_/___ _ ____ / /__ __ __ ___
+[2015/11/07 08:26:19] <red_bot>  / ,<  / _ `// __//  '_// // /(_-<
+[2015/11/07 08:26:19] <red_bot> /_/|_| \_,_//_/  /_/\_\ \_,_//___/
+[2015/11/07 08:26:24] <Karkus> ...
+[2015/11/07 08:26:27] <head8debian> ...
+[2015/11/07 08:26:55] @ claymore2 joined channel #supertux
+[2015/11/07 08:26:59] <Karkus> No difference
+[2015/11/07 08:27:09] <head8debian> ~help toilet
+[2015/11/07 08:27:09] <red_bot> head8debian: figlet|toilet <message> => print using figlet or toilet
+[2015/11/07 08:27:29] <head8debian> Karkus: Odd, because it is calling up the toilet program
+[2015/11/07 08:28:20] <head8debian> ~toilet hi --metal
+[2015/11/07 08:28:21] <red_bot>    __    _                        __         __
+[2015/11/07 08:28:21] <red_bot>   / /   (_) ____ ____ __ _  ___  / /_ ___ _ / /
+[2015/11/07 08:28:21] <red_bot>  / _ \ / / /___//___//  ' \/ -_)/ __// _ `// / 
+[2015/11/07 08:28:21] <red_bot> /_//_//_/           /_/_/_/\__/ \__/ \_,_//_/
+[2015/11/07 08:28:32] <head8debian> o_O
+[2015/11/07 08:28:50] <head8debian> Karkus: I don't know... ;)
