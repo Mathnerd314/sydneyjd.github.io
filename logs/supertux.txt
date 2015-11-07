@@ -1360,3 +1360,8 @@
 [2015/11/07 17:14:41] <Tobbi> leyyin: good night-ding-ding-ding.
 [2015/11/07 17:14:43] <Tobbi> :P
 [2015/11/07 17:14:46] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/11/07 17:24:30] @ Tobbi_ joined channel #supertux
+[2015/11/07 17:24:30] @ Mode +o Tobbi_ by ChanServ
+[2015/11/07 17:28:27] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/07 17:28:57] @ Quit: darkbasic_: Quit: No Ping reply in 180 seconds.
+[2015/11/07 17:29:24] @ darkbasic joined channel #supertux
