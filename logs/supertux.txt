@@ -835,3 +835,6 @@
 [2015/11/06 21:15:50] @ Wuzzy joined channel #supertux
 [2015/11/06 21:16:42] @ Quit: tux|dude: Quit: Leaving
 [2015/11/06 21:28:08] @ Quit: Wuzzy: Remote host closed the connection
+[2015/11/06 21:30:14] @ Quit: darkbasic: Read error: Connection reset by peer
+[2015/11/06 21:30:58] @ darkbasic joined channel #supertux
+[2015/11/06 21:33:00] @ tux|dude joined channel #supertux
