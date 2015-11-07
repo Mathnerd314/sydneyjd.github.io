@@ -828,3 +828,4 @@
 [2015/11/06 20:20:15] @ paroneayea joined channel #supertux
 [2015/11/06 20:23:46] <Not-6fa5> [02supertux] 07deveee starred 03supertux - 13http://git.io/v8ZDY
 [2015/11/06 20:25:16] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#190: Improved ghosttree sprite - 13http://git.io/v8ZD4
+[2015/11/06 20:32:57] @ Quit: Karkus: Ping timeout: 252 seconds
