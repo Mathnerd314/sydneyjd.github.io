@@ -822,3 +822,9 @@
 [2015/11/06 20:06:56] @ Quit: Karkus: Remote host closed the connection
 [2015/11/06 20:09:01] @ Karkus joined channel #supertux
 [2015/11/06 20:09:19] @ Quit: alket: Quit: Leaving
+[2015/11/06 20:17:27] @ paroneay` joined channel #supertux
+[2015/11/06 20:18:55] @ Quit: paroneayea: Ping timeout: 260 seconds
+[2015/11/06 20:19:14] @ Quit: paroneay`: Remote host closed the connection
+[2015/11/06 20:20:15] @ paroneayea joined channel #supertux
+[2015/11/06 20:23:46] <Not-6fa5> [02supertux] 07deveee starred 03supertux - 13http://git.io/v8ZDY
+[2015/11/06 20:25:16] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#190: Improved ghosttree sprite - 13http://git.io/v8ZD4
