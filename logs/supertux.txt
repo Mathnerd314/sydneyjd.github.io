@@ -880,3 +880,7 @@
 [2015/11/07 05:59:20] @ Quit: darkbasic_: Read error: Connection reset by peer
 [2015/11/07 05:59:30] @ darkbasic joined channel #supertux
 [2015/11/07 06:03:06] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/07 06:16:58] @ Quit: giby: Quit: This computer has gone to sleep
+[2015/11/07 06:22:22] @ darkbasic_ joined channel #supertux
+[2015/11/07 06:23:05] @ Quit: darkbasic: Ping timeout: 250 seconds
+[2015/11/07 06:27:58] <Not-6fa5> [02supertux] 07Hume2 commented on issue 03#217: Swimming - 13http://git.io/v8cG3
