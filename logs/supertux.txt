@@ -829,3 +829,6 @@
 [2015/11/06 20:23:46] <Not-6fa5> [02supertux] 07deveee starred 03supertux - 13http://git.io/v8ZDY
 [2015/11/06 20:25:16] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#190: Improved ghosttree sprite - 13http://git.io/v8ZD4
 [2015/11/06 20:32:57] @ Quit: Karkus: Ping timeout: 252 seconds
+[2015/11/06 21:08:44] @ Quit: Wuzzy: Ping timeout: 250 seconds
+[2015/11/06 21:10:05] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/06 21:12:12] @ Quit: bb010g: Quit: Connection closed for inactivity
