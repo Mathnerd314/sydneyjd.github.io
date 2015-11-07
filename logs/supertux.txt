@@ -838,3 +838,4 @@
 [2015/11/06 21:30:14] @ Quit: darkbasic: Read error: Connection reset by peer
 [2015/11/06 21:30:58] @ darkbasic joined channel #supertux
 [2015/11/06 21:33:00] @ tux|dude joined channel #supertux
+[2015/11/06 21:59:51] <maths22> datahead8888: actually, some of the light-block colors are a bit of an issue for me as a red-green colorbind person
