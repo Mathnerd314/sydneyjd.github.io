@@ -938,3 +938,18 @@
 [2015/11/07 08:28:21] <red_bot> /_//_//_/           /_/_/_/\__/ \__/ \_,_//_/
 [2015/11/07 08:28:32] <head8debian> o_O
 [2015/11/07 08:28:50] <head8debian> Karkus: I don't know... ;)
+[2015/11/07 08:32:56] <head8debian> ~reload
+[2015/11/07 08:32:56] <red_bot> head8debian: saving... rescanning...
+[2015/11/07 08:32:57] @ Log closed by red_bot (rescan or shutdown)
+[2015/11/07 08:33:02] @ Log started by red_bot
+[2015/11/07 08:33:02] <red_bot> head8debian: done. 10 core modules loaded; 71 plugins loaded; 2 plugins failed to load
+[2015/11/07 08:33:06] <head8debian> red_bot: hangman
+[2015/11/07 08:33:18] <head8debian> good grief.
+[2015/11/07 08:34:00] <head8debian> ~reload
+[2015/11/07 08:34:00] <red_bot> head8debian: saving... rescanning...
+[2015/11/07 08:34:00] @ Log closed by red_bot (rescan or shutdown)
+[2015/11/07 08:34:06] @ Log started by red_bot
+[2015/11/07 08:34:06] <red_bot> head8debian: done. 10 core modules loaded; 71 plugins loaded; 2 plugins failed to load
+[2015/11/07 08:34:16] <head8debian> red_bot: hangman
+[2015/11/07 08:35:38] <head8debian> red_bot: hangman
+[2015/11/07 08:40:14] * head8debian headbangs his keyboard...
