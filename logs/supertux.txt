@@ -869,3 +869,8 @@
 [2015/11/07 04:36:55] @ Quit: tux|dude: Read error: Connection reset by peer
 [2015/11/07 04:36:55] @ alket joined channel #supertux
 [2015/11/07 05:15:15] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#217: Swimming - 13http://git.io/v8cvE
+[2015/11/07 05:33:01] @ Tobbi joined channel #supertux
+[2015/11/07 05:33:01] @ Mode +o Tobbi by ChanServ
+[2015/11/07 05:41:31] <Not-6fa5> [02supertux] 07maxteufel commented on issue 03#217: Swimming - 13http://git.io/v8cku
+[2015/11/07 05:42:43] @ darkbasic_ joined channel #supertux
+[2015/11/07 05:43:30] @ Quit: darkbasic: Ping timeout: 240 seconds
