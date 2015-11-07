@@ -1072,3 +1072,14 @@
 [2015/11/07 11:28:36] @ swift110 joined channel #supertux
 [2015/11/07 11:29:21] <Hume2> Hello.
 [2015/11/07 11:29:58] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/07 11:32:01] <swift110> how are you hume2
+[2015/11/07 11:38:11] <Hume2> I'm fine.
+[2015/11/07 11:38:57] <swift110> good to hear what ya up too?
+[2015/11/07 11:40:04] <Hume2> I'm now restauring the old fan site levels.
+[2015/11/07 11:40:42] <Hume2> I do it together with brmbrmcar, but his work is more like symbolic.
+[2015/11/07 11:42:37] <Karkus> Hume2: Where are the old fan site levels and why do they need restoring?
+[2015/11/07 11:43:16] <Hume2> Karkus: The originals are still on the old fan site. Just play them and you can figure it yourself.
+[2015/11/07 11:43:29] <Karkus> Hume2: Old fan site
+[2015/11/07 11:43:30] <Karkus> ???
+[2015/11/07 11:43:52] <Hume2> http://a062.apm.etc.tu-bs.de/pmlvls.php
+[2015/11/07 11:44:06] <Hume2> They are milestone 1.
