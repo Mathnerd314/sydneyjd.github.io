@@ -1116,3 +1116,4 @@
 [2015/11/07 12:58:35] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#219: Weekly/Fortnightly Releases - 13http://git.io/v8C71
 [2015/11/07 13:02:27] <Not-6fa5> [02supertux] 07maxteufel commented on issue 03#219: Weekly/Fortnightly Releases - 13http://git.io/v8C5N
 [2015/11/07 13:04:58] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#219: Weekly/Fortnightly Releases - 13http://git.io/v8Cdw
+[2015/11/07 13:24:22] <Hume2> I've just put two gradients into one sector. And both can be seen.
