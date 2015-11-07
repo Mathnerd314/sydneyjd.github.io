@@ -879,3 +879,4 @@
 [2015/11/07 05:57:30] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#217: Swimming - 13http://git.io/v8ctz
 [2015/11/07 05:59:20] @ Quit: darkbasic_: Read error: Connection reset by peer
 [2015/11/07 05:59:30] @ darkbasic joined channel #supertux
+[2015/11/07 06:03:06] @ Quit: brmbrmcar: Quit: brmbrmquit
