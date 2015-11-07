@@ -839,3 +839,7 @@
 [2015/11/06 21:30:58] @ darkbasic joined channel #supertux
 [2015/11/06 21:33:00] @ tux|dude joined channel #supertux
 [2015/11/06 21:59:51] <maths22> datahead8888: actually, some of the light-block colors are a bit of an issue for me as a red-green colorbind person
+[2015/11/06 22:00:03] <maths22> Mostly the yellow/orange/green
+[2015/11/06 22:00:09] <maths22> And blue/purple
+[2015/11/06 22:07:34] <Not-6fa5> [02supertux] 07sydneyjd commented on issue 03#218: Add high resolution icon - 13http://git.io/v8ZjC
+[2015/11/06 22:10:17] <Not-6fa5> [02supertux] 07sydneyjd commented on issue 03#218: Add high resolution icon - 13http://git.io/v8Zji
