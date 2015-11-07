@@ -899,3 +899,6 @@
 [2015/11/07 07:36:03] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#217: Swimming - 13http://git.io/v8cuz
 [2015/11/07 07:40:47] <Not-6fa5> [02supertux] 07maxteufel commented on issue 03#217: Swimming - 13http://git.io/v8czQ
 [2015/11/07 07:42:09] @ alket joined channel #supertux
+[2015/11/07 07:48:21] @ Quit: xet7: Quit: Leaving
+[2015/11/07 07:49:10] @ Quit: darkbasic: Quit: No Ping reply in 180 seconds.
+[2015/11/07 07:49:37] @ darkbasic joined channel #supertux
