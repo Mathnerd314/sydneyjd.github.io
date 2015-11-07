@@ -808,3 +808,8 @@
 [2015/11/06 18:42:45] <Karkus> datahead8debian: Colour blindness does not affect people that much
 [2015/11/06 18:43:09] <Karkus> It's not like black and white, and supertux doesn't need colours to fucntion
 [2015/11/06 18:44:00] <datahead8888> If you had text without good contrast it could become an issue
+[2015/11/06 18:45:13] <Karkus> datahead8888: I guess. Maybe.
+[2015/11/06 18:45:29] <datahead8888> It might not be an issue at all now, though
+[2015/11/06 18:52:19] <Not-6fa5> [02supertux] 07deveee opened issue 03#218: Add high resolution icon - 13http://git.io/v8Z0A
+[2015/11/06 18:54:13] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#218: Add high resolution icon - 13http://git.io/v8ZEg
+[2015/11/06 18:58:23] @ Quit: alket: Ping timeout: 240 seconds
