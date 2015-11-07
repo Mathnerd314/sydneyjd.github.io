@@ -962,3 +962,8 @@
 [2015/11/07 09:39:10] @ Hume2 joined channel #supertux
 [2015/11/07 09:52:57] @ Tobbi joined channel #supertux
 [2015/11/07 09:52:58] @ Mode +o Tobbi by ChanServ
+[2015/11/07 10:13:21] <head8debian> Hello Tobbi...
+[2015/11/07 10:13:26] <Tobbi> good morning.
+[2015/11/07 10:13:35] <head8debian> ...and Hume2. :D
+[2015/11/07 10:13:53] <Hume2> Hello.
+[2015/11/07 10:14:40] <Hume2> May I implement someting to tint tilemaps?
