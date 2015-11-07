@@ -1117,3 +1117,7 @@
 [2015/11/07 13:02:27] <Not-6fa5> [02supertux] 07maxteufel commented on issue 03#219: Weekly/Fortnightly Releases - 13http://git.io/v8C5N
 [2015/11/07 13:04:58] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#219: Weekly/Fortnightly Releases - 13http://git.io/v8Cdw
 [2015/11/07 13:24:22] <Hume2> I've just put two gradients into one sector. And both can be seen.
+[2015/11/07 13:31:24] <head8debian> How many lumens does a 5050 led diode throw if it is pushed to its safe max?
+[2015/11/07 13:31:27] <head8debian> Oops.
+[2015/11/07 13:31:34] <head8debian> Keyboard...
+[2015/11/07 13:37:15] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#219: Weekly/Fortnightly Releases - 13http://git.io/v8Wes
