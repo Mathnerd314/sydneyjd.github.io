@@ -960,3 +960,5 @@
 [2015/11/07 09:32:12] <head8debian> lol.
 [2015/11/07 09:36:21] <gynter> dat spam...
 [2015/11/07 09:39:10] @ Hume2 joined channel #supertux
+[2015/11/07 09:52:57] @ Tobbi joined channel #supertux
+[2015/11/07 09:52:58] @ Mode +o Tobbi by ChanServ
