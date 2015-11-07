@@ -902,3 +902,8 @@
 [2015/11/07 07:48:21] @ Quit: xet7: Quit: Leaving
 [2015/11/07 07:49:10] @ Quit: darkbasic: Quit: No Ping reply in 180 seconds.
 [2015/11/07 07:49:37] @ darkbasic joined channel #supertux
+[2015/11/07 08:02:33] @ brmbrmcar joined channel #supertux
+[2015/11/07 08:10:33] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/07 08:10:45] @ Quit: darkbasic: Read error: Connection reset by peer
+[2015/11/07 08:11:01] @ darkbasic joined channel #supertux
+[2015/11/07 08:14:53] @ darkbasic_ joined channel #supertux
