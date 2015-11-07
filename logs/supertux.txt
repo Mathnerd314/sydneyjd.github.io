@@ -843,3 +843,4 @@
 [2015/11/06 22:00:09] <maths22> And blue/purple
 [2015/11/06 22:07:34] <Not-6fa5> [02supertux] 07sydneyjd commented on issue 03#218: Add high resolution icon - 13http://git.io/v8ZjC
 [2015/11/06 22:10:17] <Not-6fa5> [02supertux] 07sydneyjd commented on issue 03#218: Add high resolution icon - 13http://git.io/v8Zji
+[2015/11/06 22:54:40] @ Quit: tux|dude: Quit: Leaving
