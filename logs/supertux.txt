@@ -1314,3 +1314,5 @@
 [2015/11/07 14:57:22] <Tobbi> :D
 [2015/11/07 14:57:38] <Tobbi> yak-ophile.
 [2015/11/07 14:57:38] <Tobbi> :D
+[2015/11/07 15:00:21] <mt> why don't you use bison if you don't like yacc?
+[2015/11/07 15:08:42] <Tobbi> *sigh* Enough.
