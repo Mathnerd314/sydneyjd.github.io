@@ -1091,3 +1091,14 @@
 [2015/11/07 12:13:53] <mt> shut up red_bot
 [2015/11/07 12:14:29] <Hume2> head8debian: However, this addon won't display unless you have 0.4.0 or newer.
 [2015/11/07 12:20:33] <head8debian> Hume2: Ok.
+[2015/11/07 12:34:41] @ Karkus_ joined channel #supertux
+[2015/11/07 12:34:42] @ Quit: Karkus_: Client Quit
+[2015/11/07 12:35:16] @ Quit: Karkus: Remote host closed the connection
+[2015/11/07 12:35:18] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#218: Add high resolution icon - 13http://git.io/v8CMb
+[2015/11/07 12:36:33] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#218: Add high resolution icon - 13http://git.io/v8CD4
+[2015/11/07 12:36:38] @ Karkus joined channel #supertux
+[2015/11/07 12:38:49] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#217: Swimming - 13http://git.io/v8CyJ
+[2015/11/07 12:41:36] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#218: Add high resolution icon - 13http://git.io/v8CyA
+[2015/11/07 12:42:24] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#217: Swimming - 13http://git.io/v8CST
+[2015/11/07 12:43:56] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#217: Swimming - 13http://git.io/v8CSE
+[2015/11/07 12:44:57] <Not-6fa5> [02supertux] 07Karkus476 opened issue 03#219: Weekly/Fortnightly Releases - 13http://git.io/v8CS5
