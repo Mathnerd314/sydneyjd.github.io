@@ -1121,3 +1121,5 @@
 [2015/11/07 13:31:27] <head8debian> Oops.
 [2015/11/07 13:31:34] <head8debian> Keyboard...
 [2015/11/07 13:37:15] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#219: Weekly/Fortnightly Releases - 13http://git.io/v8Wes
+[2015/11/07 13:53:03] @ Quit: claymore2: Read error: Connection reset by peer
+[2015/11/07 13:53:41] @ claymore2 joined channel #supertux
