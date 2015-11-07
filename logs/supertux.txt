@@ -1327,3 +1327,8 @@
 [2015/11/07 16:05:30] @ brmbrmcar joined channel #supertux
 [2015/11/07 16:09:05] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#218: Add high resolution icon - 13http://git.io/v8W1N
 [2015/11/07 16:38:52] <Tobbi> Argh, we're compiling with Werror
+[2015/11/07 16:45:59] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v8W74
+[2015/11/07 16:46:01] <Not-6fa5> [02supertux] 07Tobias Markus 031638bfb - Update tinygettext (compilation with -Werror)
+[2015/11/07 16:46:03] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/89863279
+[2015/11/07 16:47:01] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/89863279
+[2015/11/07 16:58:24] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/89863279
