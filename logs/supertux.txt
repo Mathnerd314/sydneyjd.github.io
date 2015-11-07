@@ -1026,3 +1026,32 @@
 [2015/11/07 10:29:19] <head8debian> Well, newer ones...
 [2015/11/07 10:29:24] <leyyin> I do not think I saw that kind of thing here tbh
 [2015/11/07 10:29:27] <head8debian> after 1980. ;)
+[2015/11/07 10:30:02] <head8debian> We run relatively modern equipment because of reliabilty reasons and size.
+[2015/11/07 10:30:21] <head8debian> Mdern as within the last 20 years.
+[2015/11/07 10:30:46] <head8debian> You cannot cover hundreds of acres with a old "put put". :)
+[2015/11/07 10:31:04] <head8debian> Wait, your not in the USA, so you wouldn't understand that reference...
+[2015/11/07 10:31:16] <head8debian> leyyin: Whats the most popular tractor over ther?
+[2015/11/07 10:31:20] <head8debian> there*
+[2015/11/07 10:32:17] <mt> The average european is probably not interested in the popularity of tractors...
+[2015/11/07 10:32:32] <leyyin> head8debian, http://tractors.wikia.com/wiki/Universal_%28UTB%29
+[2015/11/07 10:33:28] <Not-6fa5> [02supertux] 07Hume2 labeled pull request 03#190: Improved ghosttree sprite - 13http://git.io/vCFAI
+[2015/11/07 10:33:31] <head8debian> leyyin: Universal tractor?
+[2015/11/07 10:33:42] <head8debian> What is that/
+[2015/11/07 10:33:43] <head8debian> ?
+[2015/11/07 10:33:48] <leyyin> the name of the company
+[2015/11/07 10:33:50] <leyyin> UTB
+[2015/11/07 10:34:14] <head8debian> leyyin: Ever heard of Massey Ferguson?
+[2015/11/07 10:34:17] <leyyin> nope
+[2015/11/07 10:34:35] <head8debian> You mustl ive in a odd spot...
+[2015/11/07 10:34:45] <leyyin> what?
+[2015/11/07 10:34:52] <head8debian> Ive never known New holand to be popular out of the US.
+[2015/11/07 10:35:01] <head8debian> Its not even that popular here. ;p
+[2015/11/07 10:35:07] <head8debian> But its better than John Deer.
+[2015/11/07 10:35:17] <Not-6fa5> [02supertux] 07Hume2 labeled pull request 03#103: WIP Level Editor - 13http://git.io/vYbm7
+[2015/11/07 10:35:17] <leyyin> never heard
+[2015/11/07 10:35:27] <head8debian> nm...
+[2015/11/07 10:36:25] <leyyin> I am city dweller after all ;)
+[2015/11/07 10:38:20] @ Karkus joined channel #supertux
+[2015/11/07 10:39:16] <head8debian> leyyin: Figures... ;)
+[2015/11/07 10:39:43] <head8debian> Karkus: Hello unaffiliated carcass. :p
+[2015/11/07 10:39:49] <head8debian> Sorry, couldn't resist. :)
