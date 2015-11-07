@@ -956,3 +956,7 @@
 [2015/11/07 08:48:52] @ Quit: Karkus: Ping timeout: 252 seconds
 [2015/11/07 08:56:13] <Not-6fa5> [02supertux] 07sydneyjd commented on issue 03#218: Add high resolution icon - 13http://git.io/v8c9R
 [2015/11/07 09:08:05] <Not-6fa5> [02supertux] 07deveee commented on issue 03#218: Add high resolution icon - 13http://git.io/v8cQh
+[2015/11/07 09:31:40] @ tuxdev_ joined channel #supertux
+[2015/11/07 09:32:12] <head8debian> lol.
+[2015/11/07 09:36:21] <gynter> dat spam...
+[2015/11/07 09:39:10] @ Hume2 joined channel #supertux
