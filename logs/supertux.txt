@@ -1393,3 +1393,5 @@
 [2015/11/07 20:52:20] @ tux|dude joined channel #supertux
 [2015/11/07 20:52:58] @ Quit: Karkus: Quit: Leaving
 [2015/11/07 21:07:41] @ Quit: tux|dude: Quit: Leaving
+[2015/11/07 21:28:01] @ Quit: darkbasic_: Read error: Connection reset by peer
+[2015/11/07 21:28:40] @ darkbasic joined channel #supertux
