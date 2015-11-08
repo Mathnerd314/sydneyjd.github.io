@@ -1432,3 +1432,9 @@
 [2015/11/08 06:28:29] <brmbrmcar> level4?
 [2015/11/08 06:28:45] <brmbrmcar> What's wrong with it?
 [2015/11/08 06:29:40] <brmbrmcar> Got it.
+[2015/11/08 06:32:01] @ Quit: Hume: Quit: Page closed
+[2015/11/08 06:33:31] @ Hume2 joined channel #supertux
+[2015/11/08 06:42:36] <Not-6fa5> [02supertux] 07brmbrmcar forked the repository - 13http://git.io/vn4Vk
+[2015/11/08 06:43:05] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/08 06:43:45] @ Quit: claymore2: Ping timeout: 265 seconds
+[2015/11/08 06:45:00] <Not-6fa5> [02supertux] 07brmbrmcar closed pull request 03#211: Add invincibleone() function to Console. - 13http://git.io/vW5HM
