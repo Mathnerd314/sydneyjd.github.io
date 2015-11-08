@@ -1616,3 +1616,5 @@
 [2015/11/08 17:53:49] @ Quit: tuxdev_: Ping timeout: 250 seconds
 [2015/11/08 17:56:18] @ Quit: ced117: Quit: Quitte
 [2015/11/08 17:58:22] @ mhall119 joined channel #supertux
+[2015/11/08 18:11:24] @ Quit: darkbasic_: Quit: No Ping reply in 180 seconds.
+[2015/11/08 18:11:49] @ darkbasic joined channel #supertux
