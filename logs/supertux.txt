@@ -1453,3 +1453,5 @@
 [2015/11/08 07:03:13] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/11/08 07:25:20] @ JonasOSDever left channel #supertux ("Leaving")
 [2015/11/08 07:36:33] @ Quit: Karkus: Ping timeout: 252 seconds
+[2015/11/08 07:53:56] @ Tobbi joined channel #supertux
+[2015/11/08 07:53:56] @ Mode +o Tobbi by ChanServ
