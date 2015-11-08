@@ -1418,3 +1418,5 @@
 [2015/11/08 03:20:33] @ Quit: tux|dude: Quit: Leaving
 [2015/11/08 03:32:14] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/11/08 03:53:50] @ brmbrmcar joined channel #supertux
+[2015/11/08 04:01:03] @ claymore2 joined channel #supertux
+[2015/11/08 04:03:51] @ Quit: brmbrmcar: Quit: brmbrmquit
