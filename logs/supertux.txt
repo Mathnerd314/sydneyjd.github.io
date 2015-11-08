@@ -1511,3 +1511,9 @@
 [2015/11/08 11:52:59] <Not-6fa5> [02supertux] 07tobbi closed issue 03#156: Frozen sleepy spiky = Frozen normal spkiy - 13http://git.io/vn6YD
 [2015/11/08 11:53:25] <Tobbi> Thanks for the fix, Hume2
 [2015/11/08 11:59:57] <head8debian> Tobbi: Tux is fat...:p
+[2015/11/08 12:00:05] <Tobbi> head8debian: huh?
+[2015/11/08 12:00:55] <head8debian> Tobbi: Im working on making a large image of him.
+[2015/11/08 12:00:59] <head8debian> 512x512...
+[2015/11/08 12:01:12] <head8debian> He is a fat penguin. :p
+[2015/11/08 12:06:28] <Tobbi> head8debian: indeed, he is.
+[2015/11/08 12:12:58] <brmbrmcar> FatTux
