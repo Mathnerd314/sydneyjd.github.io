@@ -1589,3 +1589,7 @@
 [2015/11/08 14:18:56] <Tobbi> PedroCosta: It's a github repository that gets queried.
 [2015/11/08 14:19:08] <PedroCosta> Ah, I see!
 [2015/11/08 14:19:17] <Tobbi> https://github.com/SuperTux/addons
+[2015/11/08 15:04:06] @ Quit: JoniG59: Ping timeout: 246 seconds
+[2015/11/08 15:04:38] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/08 15:06:01] @ Quit: darkbasic: Read error: Connection reset by peer
+[2015/11/08 15:06:19] @ darkbasic joined channel #supertux
