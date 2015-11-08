@@ -1601,3 +1601,5 @@
 [2015/11/08 15:54:03] @ bb010g joined channel #supertux
 [2015/11/08 16:10:11] @ darkbasic_ joined channel #supertux
 [2015/11/08 16:10:51] @ Quit: darkbasic: Ping timeout: 240 seconds
+[2015/11/08 16:26:12] @ Quit: darkbasic_: Ping timeout: 240 seconds
+[2015/11/08 16:28:36] @ darkbasic joined channel #supertux
