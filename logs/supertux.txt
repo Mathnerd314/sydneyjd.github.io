@@ -1373,3 +1373,6 @@
 [2015/11/07 18:41:54] @ Quit: alket: Quit: Leaving
 [2015/11/07 18:55:29] @ Tobbi joined channel #supertux
 [2015/11/07 18:55:29] @ Mode +o Tobbi by ChanServ
+[2015/11/07 19:02:06] @ darkbasic_ joined channel #supertux
+[2015/11/07 19:02:31] @ Quit: darkbasic: Ping timeout: 240 seconds
+[2015/11/07 19:14:05] <Karkus> Who is darkbasic and why do they always quit and join?
