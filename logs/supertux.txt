@@ -1494,3 +1494,11 @@
 [2015/11/08 10:47:52] <brmbrmcar> Goodbye Tobbi...
 [2015/11/08 10:55:26] @ Tobbi_ joined channel #supertux
 [2015/11/08 10:55:26] @ Mode +o Tobbi_ by ChanServ
+[2015/11/08 11:00:25] @ tuxdev_ joined channel #supertux
+[2015/11/08 11:05:21] @ brmbrmca1 joined channel #supertux
+[2015/11/08 11:05:33] @ Quit: brmbrmca1: Client Quit
+[2015/11/08 11:05:59] @ Quit: brmbrmcar: Ping timeout: 246 seconds
+[2015/11/08 11:07:37] @ brmbrmcar joined channel #supertux
+[2015/11/08 11:13:16] @ Quit: nerdopolis: Ping timeout: 240 seconds
+[2015/11/08 11:13:29] @ nerdopolis joined channel #supertux
+[2015/11/08 11:13:30] @ Mathnerd314 joined channel #supertux
