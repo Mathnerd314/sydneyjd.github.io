@@ -1504,3 +1504,10 @@
 [2015/11/08 11:13:30] @ Mathnerd314 joined channel #supertux
 [2015/11/08 11:19:53] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#156: Frozen sleepy spiky = Frozen normal spkiy - 13http://git.io/v8ByY
 [2015/11/08 11:19:55] <Not-6fa5> [02supertux] 07brmbrmcar reopened issue 03#156: Frozen sleepy spiky = Frozen normal spkiy - 13http://git.io/vn6YD
+[2015/11/08 11:52:07] @ Tobbi joined channel #supertux
+[2015/11/08 11:52:07] @ Mode +o Tobbi by ChanServ
+[2015/11/08 11:52:12] <Tobbi> hello head8debian
+[2015/11/08 11:52:57] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#156: Frozen sleepy spiky = Frozen normal spkiy - 13http://git.io/v8Bbn
+[2015/11/08 11:52:59] <Not-6fa5> [02supertux] 07tobbi closed issue 03#156: Frozen sleepy spiky = Frozen normal spkiy - 13http://git.io/vn6YD
+[2015/11/08 11:53:25] <Tobbi> Thanks for the fix, Hume2
+[2015/11/08 11:59:57] <head8debian> Tobbi: Tux is fat...:p
