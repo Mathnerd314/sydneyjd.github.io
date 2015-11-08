@@ -1502,3 +1502,5 @@
 [2015/11/08 11:13:16] @ Quit: nerdopolis: Ping timeout: 240 seconds
 [2015/11/08 11:13:29] @ nerdopolis joined channel #supertux
 [2015/11/08 11:13:30] @ Mathnerd314 joined channel #supertux
+[2015/11/08 11:19:53] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#156: Frozen sleepy spiky = Frozen normal spkiy - 13http://git.io/v8ByY
+[2015/11/08 11:19:55] <Not-6fa5> [02supertux] 07brmbrmcar reopened issue 03#156: Frozen sleepy spiky = Frozen normal spkiy - 13http://git.io/vn6YD
