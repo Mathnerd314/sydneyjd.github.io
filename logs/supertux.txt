@@ -1371,3 +1371,5 @@
 [2015/11/07 18:34:46] @ Quit: claymore2: Quit: Leaving
 [2015/11/07 18:41:17] @ bb010g joined channel #supertux
 [2015/11/07 18:41:54] @ Quit: alket: Quit: Leaving
+[2015/11/07 18:55:29] @ Tobbi joined channel #supertux
+[2015/11/07 18:55:29] @ Mode +o Tobbi by ChanServ
