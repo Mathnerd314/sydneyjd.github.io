@@ -1420,3 +1420,5 @@
 [2015/11/08 03:53:50] @ brmbrmcar joined channel #supertux
 [2015/11/08 04:01:03] @ claymore2 joined channel #supertux
 [2015/11/08 04:03:51] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/08 04:22:27] @ Tobbi_ joined channel #supertux
+[2015/11/08 04:22:27] @ Mode +o Tobbi_ by ChanServ
