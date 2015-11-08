@@ -1395,3 +1395,18 @@
 [2015/11/07 21:07:41] @ Quit: tux|dude: Quit: Leaving
 [2015/11/07 21:28:01] @ Quit: darkbasic_: Read error: Connection reset by peer
 [2015/11/07 21:28:40] @ darkbasic joined channel #supertux
+[2015/11/07 22:15:49] <datahead8888> Tobbi, did you want tickets for the music level or dark level with sound cues ideas?
+[2015/11/07 22:16:08] <Tobbi> datahead8888: Yes, please. Whether we implement those is a different thing.
+[2015/11/07 22:16:14] <Tobbi> Currently, I am busy with college..
+[2015/11/07 22:16:16] <Tobbi> And it's 4am
+[2015/11/07 22:16:43] <datahead8888> Okay, I thought you had suggested tickets earlier
+[2015/11/07 22:17:10] <datahead8888> I just know that these may stay open for a while, and you guys usually seem to try to get tickets closed quickly, though maybe ‎I overperceived that
+[2015/11/07 22:18:20] <Tobbi> No, it's exactly what we try to do.
+[2015/11/07 22:18:32] <head8debian> Hey Tobbi.
+[2015/11/07 22:18:39] <Tobbi> head8debian: 4am...
+[2015/11/07 22:18:42] <Tobbi> for me, at least.
+[2015/11/07 22:19:10] <head8debian> Tobbi: Im going to bed now. ;)
+[2015/11/07 22:19:14] <Tobbi> me, too.
+[2015/11/07 22:19:18] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/07 22:19:51] <head8debian> datahead8888: thats tobbi. :)
+[2015/11/07 22:23:31] @ Quit: Tobbi_: Ping timeout: 240 seconds
