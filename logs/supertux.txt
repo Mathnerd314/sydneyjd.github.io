@@ -1517,3 +1517,26 @@
 [2015/11/08 12:01:12] <head8debian> He is a fat penguin. :p
 [2015/11/08 12:06:28] <Tobbi> head8debian: indeed, he is.
 [2015/11/08 12:12:58] <brmbrmcar> FatTux
+[2015/11/08 12:18:45] <mt> 512x512...
+[2015/11/08 12:18:51] <mt> please noo
+[2015/11/08 12:19:07] <mt> try to make vector images
+[2015/11/08 12:19:47] <mt> OS X, for example, uses 1024x1024 for HiDPI when 512x512 would be used
+[2015/11/08 12:20:04] <brmbrmcar> But vector is bad...
+[2015/11/08 12:20:57] <mt> Why is vector bad?
+[2015/11/08 12:21:49] <brmbrmcar> Because it will only really be good within a certain size range.
+[2015/11/08 12:21:52] <mt> It's smaller and can be scaled up without limit
+[2015/11/08 12:22:05] <head8debian> mt: I do love vectors, but i would need to redo tux from scratch, which i wasnt planning on doing. the bitmap trace tool is still not very good.
+[2015/11/08 12:22:25] <head8debian> Cannot .png do something similar?
+[2015/11/08 12:22:37] <brmbrmcar> It is useful in enlarging, but should be modified heavily.
+[2015/11/08 12:23:07] <mt> brmbrmcar: that's because vector graphics show exactly what you told them. If you don't include details it may look ugly when big.
+[2015/11/08 12:23:40] <brmbrmcar> I k-now.
+[2015/11/08 12:24:02] <brmbrmcar> I think we should just use the on in the repository.
+[2015/11/08 12:24:14] <brmbrmcar> It's way better than any others.
+[2015/11/08 12:25:39] @ swift110 joined channel #supertux
+[2015/11/08 12:27:14] <head8debian> Inkscape is good for shapes, not so good for actual drawing.
+[2015/11/08 12:27:26] <Hume2> brmbrmcar: It's nice. Could you check 12 and 31?
+[2015/11/08 12:28:30] <mt> head8debian: you can also try writing the svg in a text editor
+[2015/11/08 12:28:37] <head8debian> But i have done quite alot with inkscape...
+[2015/11/08 12:28:47] <head8debian> o_O
+[2015/11/08 12:29:16] <mt> svg is just xml
+[2015/11/08 12:29:48] <head8debian> You do it then if its *that* simple.
