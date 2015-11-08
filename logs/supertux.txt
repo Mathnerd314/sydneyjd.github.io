@@ -1550,3 +1550,5 @@
 [2015/11/08 12:32:23] @ Quit: Hume2: Quit: Page closed
 [2015/11/08 12:37:36] @ Quit: swift110: Changing host
 [2015/11/08 12:37:36] @ swift110 joined channel #supertux
+[2015/11/08 12:54:59] <Not-6fa5> [02supertux] 07sydneyjd commented on issue 03#218: Add high resolution icon - 13http://git.io/v8R3Y
+[2015/11/08 12:56:14] @ Quit: swift110: Ping timeout: 246 seconds
