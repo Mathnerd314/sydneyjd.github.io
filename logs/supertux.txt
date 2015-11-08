@@ -1618,3 +1618,6 @@
 [2015/11/08 17:58:22] @ mhall119 joined channel #supertux
 [2015/11/08 18:11:24] @ Quit: darkbasic_: Quit: No Ping reply in 180 seconds.
 [2015/11/08 18:11:49] @ darkbasic joined channel #supertux
+[2015/11/08 18:15:42] @ Quit: darkbasic: Excess Flood
+[2015/11/08 18:17:02] @ darkbasic joined channel #supertux
+[2015/11/08 18:18:08] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
