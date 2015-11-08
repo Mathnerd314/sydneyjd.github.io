@@ -1388,3 +1388,4 @@
 [2015/11/07 19:28:08] <Tobbi> https://www.youtube.com/watch?v=WtAJj5gKcL4 :P
 [2015/11/07 19:31:18] @ Quit: jesusalva: Quit: Good bye, God bless you.
 [2015/11/07 20:15:00] @ tux|dude joined channel #supertux
+[2015/11/07 20:24:38] @ Quit: Wuzzy: Remote host closed the connection
