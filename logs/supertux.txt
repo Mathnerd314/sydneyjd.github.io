@@ -1427,3 +1427,8 @@
 [2015/11/08 05:36:59] @ brmbrmcar joined channel #supertux
 [2015/11/08 05:42:24] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#219: Weekly/Fortnightly Releases - 13http://git.io/v84TZ
 [2015/11/08 05:58:28] @ Hume joined channel #supertux
+[2015/11/08 06:19:03] <Hume> brmbrmcar *sigh*
+[2015/11/08 06:19:20] <Hume> brmbrmcar: You haven't even finished level4, did you?
+[2015/11/08 06:28:29] <brmbrmcar> level4?
+[2015/11/08 06:28:45] <brmbrmcar> What's wrong with it?
+[2015/11/08 06:29:40] <brmbrmcar> Got it.
