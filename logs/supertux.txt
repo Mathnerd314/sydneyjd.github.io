@@ -1610,3 +1610,5 @@
 [2015/11/08 16:51:11] @ Quit: Tobbi_: Ping timeout: 240 seconds
 [2015/11/08 17:01:00] @ darkbasic_ joined channel #supertux
 [2015/11/08 17:01:25] @ Quit: darkbasic: Ping timeout: 240 seconds
+[2015/11/08 17:25:30] @ Tobbi_ joined channel #supertux
+[2015/11/08 17:25:30] @ Mode +o Tobbi_ by ChanServ
