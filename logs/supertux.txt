@@ -1470,3 +1470,6 @@
 [2015/11/08 09:32:56] @ JoniG59 joined channel #supertux
 [2015/11/08 09:37:53] <Tobbi> Hello JoniG59
 [2015/11/08 09:37:59] <JoniG59> Hello
+[2015/11/08 10:01:18] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/08 10:12:13] <Hume2> brmbrmcar: It was a cave level.
+[2015/11/08 10:13:23] <Hume2> brmbrmcar: notes 5, 31, 35
