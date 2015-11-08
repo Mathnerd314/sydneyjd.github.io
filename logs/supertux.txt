@@ -1593,3 +1593,7 @@
 [2015/11/08 15:04:38] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/11/08 15:06:01] @ Quit: darkbasic: Read error: Connection reset by peer
 [2015/11/08 15:06:19] @ darkbasic joined channel #supertux
+[2015/11/08 15:15:49] @ tux|dude joined channel #supertux
+[2015/11/08 15:25:01] @ Quit: tux|dude: Quit: Leaving
+[2015/11/08 15:25:11] @ Quit: claymore2: Quit: Leaving
+[2015/11/08 15:25:11] @ tux|dude joined channel #supertux
