@@ -1488,3 +1488,5 @@
 [2015/11/08 10:23:45] @ Mode +o Tobbi by ChanServ
 [2015/11/08 10:28:52] @ Quit: darkbasic: Read error: Connection reset by peer
 [2015/11/08 10:29:07] @ darkbasic joined channel #supertux
+[2015/11/08 10:40:18] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/89947683
+[2015/11/08 10:44:38] <head8debian> Hello Tobbi...
