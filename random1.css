@@ -2,23 +2,35 @@ body {
   background-color: #F2F2F2;
   font-family: sans-serif;
   color: black;
+  margin: 0px;
 }
 #header a {
-  display: block;
   width: 100%;
   text-align: center;
-  list-style-type: none;
   text-decoration: none;
-
 }
+#header ul {
+    list-style-type: none;
+    text-align: center;
+    width: 100%;
+    background-color: black;
+    padding:10px;
+    margin: 0px;
+}
+
 #header ul li {
-padding: 10px;
-border-radius: 3px;
+display: inline;
 color: white;
 background-color: black;
-margin:2px;
-float: left;
+margin: 5px;
 }
+#header a:hover {
+  color: white;
+  background-color: purple;
+  padding: 10px;
+}
+
+
 a:link {
   color:purple;
 }
