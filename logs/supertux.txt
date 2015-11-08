@@ -1415,3 +1415,4 @@
 [2015/11/08 02:19:02] @ leyyin joined channel #supertux
 [2015/11/08 02:22:56] @ Quit: Hume2: Quit: Page closed
 [2015/11/08 02:29:04] @ tux|dude joined channel #supertux
+[2015/11/08 03:20:33] @ Quit: tux|dude: Quit: Leaving
