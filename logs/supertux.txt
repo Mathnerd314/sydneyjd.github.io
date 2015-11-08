@@ -1540,3 +1540,13 @@
 [2015/11/08 12:28:47] <head8debian> o_O
 [2015/11/08 12:29:16] <mt> svg is just xml
 [2015/11/08 12:29:48] <head8debian> You do it then if its *that* simple.
+[2015/11/08 12:30:13] <brmbrmcar> Hume2: I don't uderstand 31.
+[2015/11/08 12:30:32] <brmbrmcar> s/uderstand/understand/
+[2015/11/08 12:30:32] <red_bot> brmbrmcar meant: "Hume2: I don't understand 31."
+[2015/11/08 12:30:43] <head8debian> I prefer a GUI for stuff like that.
+[2015/11/08 12:31:08] <Hume2> brmbrmcar: That means there should be no sharp edges between the tiles.
+[2015/11/08 12:32:03] <brmbrmcar> Hume2: Got it.
+[2015/11/08 12:32:19] <Hume2> I must go, bye!
+[2015/11/08 12:32:23] @ Quit: Hume2: Quit: Page closed
+[2015/11/08 12:37:36] @ Quit: swift110: Changing host
+[2015/11/08 12:37:36] @ swift110 joined channel #supertux
