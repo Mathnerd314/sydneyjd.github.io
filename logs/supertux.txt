@@ -1598,3 +1598,4 @@
 [2015/11/08 15:25:11] @ Quit: claymore2: Quit: Leaving
 [2015/11/08 15:25:11] @ tux|dude joined channel #supertux
 [2015/11/08 15:39:06] @ Quit: PedroCosta: Ping timeout: 246 seconds
+[2015/11/08 15:54:03] @ bb010g joined channel #supertux
