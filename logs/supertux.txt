@@ -1603,3 +1603,8 @@
 [2015/11/08 16:10:51] @ Quit: darkbasic: Ping timeout: 240 seconds
 [2015/11/08 16:26:12] @ Quit: darkbasic_: Ping timeout: 240 seconds
 [2015/11/08 16:28:36] @ darkbasic joined channel #supertux
+[2015/11/08 16:47:31] @ Quit: nerdopolis: Ping timeout: 240 seconds
+[2015/11/08 16:48:04] @ Quit: mhall119: Ping timeout: 240 seconds
+[2015/11/08 16:49:09] @ nerdopolis joined channel #supertux
+[2015/11/08 16:51:04] @ irungentoo joined channel #supertux
+[2015/11/08 16:51:11] @ Quit: Tobbi_: Ping timeout: 240 seconds
