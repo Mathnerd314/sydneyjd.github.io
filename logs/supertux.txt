@@ -1452,3 +1452,4 @@
 [2015/11/08 06:58:55] @ Quit: darkbasic: Read error: Connection reset by peer
 [2015/11/08 07:03:13] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/11/08 07:25:20] @ JonasOSDever left channel #supertux ("Leaving")
+[2015/11/08 07:36:33] @ Quit: Karkus: Ping timeout: 252 seconds
