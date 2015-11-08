@@ -1473,3 +1473,18 @@
 [2015/11/08 10:01:18] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/08 10:12:13] <Hume2> brmbrmcar: It was a cave level.
 [2015/11/08 10:13:23] <Hume2> brmbrmcar: notes 5, 31, 35
+[2015/11/08 10:17:05] <brmbrmcar> 5?
+[2015/11/08 10:17:51] @ Quit: Tobbi_: Ping timeout: 240 seconds
+[2015/11/08 10:17:55] <brmbrmcar> I didn't do them because how didn't understand how they applied to the level.
+[2015/11/08 10:18:45] <Hume2> brmbrmcar: Use darksnow instead of the logs.
+[2015/11/08 10:18:50] <brmbrmcar> OK.
+[2015/11/08 10:19:18] <Hume2> brmbrmcar: And when you are at it, make it a ceiling.
+[2015/11/08 10:19:46] <brmbrmcar> OK.
+[2015/11/08 10:22:19] <Not-6fa5> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v8Bg7
+[2015/11/08 10:22:21] <Not-6fa5> [02supertux] 07Hume2 038e6d18d - Fixed escaping menu on back item by esc
+[2015/11/08 10:22:22] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/89947683
+[2015/11/08 10:23:15] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/89947683
+[2015/11/08 10:23:45] @ Tobbi joined channel #supertux
+[2015/11/08 10:23:45] @ Mode +o Tobbi by ChanServ
+[2015/11/08 10:28:52] @ Quit: darkbasic: Read error: Connection reset by peer
+[2015/11/08 10:29:07] @ darkbasic joined channel #supertux
