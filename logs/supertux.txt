@@ -1579,3 +1579,13 @@
 [2015/11/08 14:14:05] <brmbrmcar> CTCP PING reply from Tobbi: 0.531 seconds
 [2015/11/08 14:14:12] <Tobbi> Stop it.
 [2015/11/08 14:14:33] <brmbrmcar> Only did it once!
+[2015/11/08 14:15:37] <PedroCosta> Will do!
+[2015/11/08 14:15:40] <head8debian> Tobbi: He is talking to me in PM...
+[2015/11/08 14:16:08] <head8debian> Tobbi: And he is going to try to talk to you now...
+[2015/11/08 14:16:14] <Tobbi> gosh
+[2015/11/08 14:17:00] <brmbrmcar> We all know how scary Tobbi is!
+[2015/11/08 14:18:35] <PedroCosta> Trying to do a SuperTux deployment diagram, and wanted to know the kind of connection the PC establishes to get those. And what it connects to (is it a webserver) ?
+[2015/11/08 14:18:42] <PedroCosta> the addons and maps
+[2015/11/08 14:18:56] <Tobbi> PedroCosta: It's a github repository that gets queried.
+[2015/11/08 14:19:08] <PedroCosta> Ah, I see!
+[2015/11/08 14:19:17] <Tobbi> https://github.com/SuperTux/addons
