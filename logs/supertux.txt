@@ -1392,3 +1392,4 @@
 [2015/11/07 20:32:24] @ Quit: tux|dude: Quit: Leaving
 [2015/11/07 20:52:20] @ tux|dude joined channel #supertux
 [2015/11/07 20:52:58] @ Quit: Karkus: Quit: Leaving
+[2015/11/07 21:07:41] @ Quit: tux|dude: Quit: Leaving
