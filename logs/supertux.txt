@@ -1599,3 +1599,5 @@
 [2015/11/08 15:25:11] @ tux|dude joined channel #supertux
 [2015/11/08 15:39:06] @ Quit: PedroCosta: Ping timeout: 246 seconds
 [2015/11/08 15:54:03] @ bb010g joined channel #supertux
+[2015/11/08 16:10:11] @ darkbasic_ joined channel #supertux
+[2015/11/08 16:10:51] @ Quit: darkbasic: Ping timeout: 240 seconds
