@@ -1572,3 +1572,10 @@
 [2015/11/08 13:42:42] <brmbrmcar> Use that.
 [2015/11/08 13:42:50] <brmbrmcar> Trial it now.
 [2015/11/08 13:43:04] <brmbrmcar> I can test it after.
+[2015/11/08 14:13:27] <head8debian> Tobbi: Ping!!!!! PING@!
+[2015/11/08 14:13:32] <Tobbi> calm down.
+[2015/11/08 14:13:36] <Tobbi> head8debian: what?
+[2015/11/08 14:13:55] <head8debian> PedroCosta: Feel free to ask Tobbi What you need answers to. :)
+[2015/11/08 14:14:05] <brmbrmcar> CTCP PING reply from Tobbi: 0.531 seconds
+[2015/11/08 14:14:12] <Tobbi> Stop it.
+[2015/11/08 14:14:33] <brmbrmcar> Only did it once!
