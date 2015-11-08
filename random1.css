@@ -1,5 +1,29 @@
 body {
-  background-color: lightgrey;
+  background-color: #F2F2F2;
   font-family: sans-serif;
-  
+  color: black;
+}
+#header {
+  text-align: center;
+}
+#header ul li {
+text-decoration: none;
+display: inline;
+padding: 10px;
+border-radius: 3px;
+color: white;
+background-color: brown;
+margin:2px;
+}
+a:visited {
+color: orange;
+}
+a:active {
+  color: orange;
+}
+a:link {
+  color:white;
+}
+a:hover {
+  color:orange;
 }

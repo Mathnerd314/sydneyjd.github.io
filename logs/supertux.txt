@@ -1560,3 +1560,12 @@
 [2015/11/08 13:07:31] <head8debian> Tobbi: heh...
 [2015/11/08 13:07:40] <head8debian> Is it even worth doing?
 [2015/11/08 13:08:25] <head8debian> mt:  Do you think its worth us doing?
+[2015/11/08 13:22:12] @ Quit: darkbasic: Read error: Connection reset by peer
+[2015/11/08 13:22:28] @ darkbasic joined channel #supertux
+[2015/11/08 13:23:53] <mt> Well, if someone can find a sponsor - great
+[2015/11/08 13:24:04] <mt> But manual builds wouldn't be that hard
+[2015/11/08 13:24:55] <mt> We could at least do manual monthly builds
+[2015/11/08 13:26:01] <mt> Also - what about https://en.wikipedia.org/wiki/Open_Build_Service
+[2015/11/08 13:26:28] @ Quit: darkbasic: Excess Flood
+[2015/11/08 13:26:47] @ PedroCosta joined channel #supertux
+[2015/11/08 13:27:55] @ darkbasic joined channel #supertux
