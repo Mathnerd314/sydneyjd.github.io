@@ -1376,3 +1376,13 @@
 [2015/11/07 19:02:06] @ darkbasic_ joined channel #supertux
 [2015/11/07 19:02:31] @ Quit: darkbasic: Ping timeout: 240 seconds
 [2015/11/07 19:14:05] <Karkus> Who is darkbasic and why do they always quit and join?
+[2015/11/07 19:22:34] <head8debian> Karkus: Ask him...
+[2015/11/07 19:22:36] <head8debian> ;)
+[2015/11/07 19:23:05] <Tobbi> Karkus: one of them quits, the other joins, it's so easy.
+[2015/11/07 19:23:37] <Karkus> Tobbi: But why
+[2015/11/07 19:23:51] <Karkus> hehe
+[2015/11/07 19:24:23] <Tobbi> Karkus: You know those moments when you don't know whether you want to enter a room or leave it and are stuck in the doorframe? This is no different.
+[2015/11/07 19:25:29] <Karkus> Tobbi: Silently jumping back and forth through the doorframe...
+[2015/11/07 19:25:40] <Tobbi> Yup.
+[2015/11/07 19:26:33] <Karkus> Tobbi: That's the problem on the big channels like #freenode, so many join/part messages you have no option but to silence them
+[2015/11/07 19:28:08] <Tobbi> https://www.youtube.com/watch?v=WtAJj5gKcL4 :P
