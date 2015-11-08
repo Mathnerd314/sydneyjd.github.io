@@ -1438,3 +1438,15 @@
 [2015/11/08 06:43:05] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/08 06:43:45] @ Quit: claymore2: Ping timeout: 265 seconds
 [2015/11/08 06:45:00] <Not-6fa5> [02supertux] 07brmbrmcar closed pull request 03#211: Add invincibleone() function to Console. - 13http://git.io/vW5HM
+[2015/11/08 06:45:07] @ Karkus joined channel #supertux
+[2015/11/08 06:45:15] <Not-6fa5> [02supertux] 07brmbrmcar opened pull request 03#220: Add invicibleone() function to Console. - 13http://git.io/v84Gc
+[2015/11/08 06:45:17] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/89924368
+[2015/11/08 06:46:13] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/89924368
+[2015/11/08 06:46:36] <Not-6fa5> [02supertux] 07maxteufel commented on issue 03#220: Add invicibleone() function to Console. - 13http://git.io/v84Gw
+[2015/11/08 06:47:19] <Not-6fa5> [02supertux] 07maxteufel commented on issue 03#211: Add invincibleone() function to Console. - 13http://git.io/v84GD
+[2015/11/08 06:48:44] @ Quit: brmbrmcar: Quit: Lost terminal
+[2015/11/08 06:49:34] @ brmbrmcar joined channel #supertux
+[2015/11/08 06:53:53] @ claymore2 joined channel #supertux
+[2015/11/08 06:57:13] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/89924368
+[2015/11/08 06:58:55] @ darkbasic_ joined channel #supertux
+[2015/11/08 06:58:55] @ Quit: darkbasic: Read error: Connection reset by peer
