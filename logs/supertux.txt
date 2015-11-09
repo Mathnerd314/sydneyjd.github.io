@@ -2078,3 +2078,5 @@
 [2015/11/09 17:55:46] @ darkbasic joined channel #supertux
 [2015/11/09 17:59:17] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/09 18:07:24] @ tux|dude joined channel #supertux
+[2015/11/09 18:19:03] @ Tobbi joined channel #supertux
+[2015/11/09 18:19:03] @ Mode +o Tobbi by ChanServ
