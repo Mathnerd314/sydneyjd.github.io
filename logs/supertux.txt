@@ -2048,3 +2048,5 @@
 [2015/11/09 15:55:06] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#221: Can not compiled actual supertux - 13http://git.io/v8wQa
 [2015/11/09 15:59:35] @ Quit: claymore2: Ping timeout: 244 seconds
 [2015/11/09 15:59:53] @ claymore2 joined channel #supertux
+[2015/11/09 16:00:28] @ xet7 joined channel #supertux
+[2015/11/09 16:03:53] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#187: Fixed windows build and deleted duplicate file - 13http://git.io/v8wd7
