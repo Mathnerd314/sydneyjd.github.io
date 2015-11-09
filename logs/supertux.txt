@@ -1720,3 +1720,8 @@
 [2015/11/09 10:47:38] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#221: Can not compiled actual supertux - 13http://git.io/v8afy
 [2015/11/09 10:49:29] @ leyyin joined channel #supertux
 [2015/11/09 10:51:53] <Not-6fa5> [02supertux] 07DevynCJohnson commented on issue 03#190: Improved ghosttree sprite - 13http://git.io/v8akl
+[2015/11/09 11:10:21] <Not-6fa5> [02supertux] 07Mathnerd314 commented on issue 03#190: Improved ghosttree sprite - 13http://git.io/v8anW
+[2015/11/09 11:11:06] @ Quit: swift110: Ping timeout: 250 seconds
+[2015/11/09 11:14:22] @ darkbasic_ joined channel #supertux
+[2015/11/09 11:14:23] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#190: Improved ghosttree sprite - 13http://git.io/v8aC8
+[2015/11/09 11:14:33] @ Quit: darkbasic: Read error: Connection reset by peer
