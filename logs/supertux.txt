@@ -1622,3 +1622,4 @@
 [2015/11/08 18:17:02] @ darkbasic joined channel #supertux
 [2015/11/08 18:18:08] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2015/11/08 18:35:25] @ Quit: alket: Quit: Leaving
+[2015/11/08 18:50:53] @ Quit: tux|dude: Quit: Leaving
