@@ -1666,3 +1666,5 @@
 [2015/11/09 03:37:31] @ Quit: Karkus: Ping timeout: 250 seconds
 [2015/11/09 03:49:06] @ Karkus joined channel #supertux
 [2015/11/09 04:03:56] @ MMlosh joined channel #supertux
+[2015/11/09 04:53:05] @ Tobbi_ joined channel #supertux
+[2015/11/09 04:53:05] @ Mode +o Tobbi_ by ChanServ
