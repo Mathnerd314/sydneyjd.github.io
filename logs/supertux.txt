@@ -1918,3 +1918,12 @@
 [2015/11/09 12:59:42] @ Quit: alket: Quit: Leaving
 [2015/11/09 12:59:55] <Tobbi> Nice.
 [2015/11/09 12:59:58] <Tobbi> It hangs my Firefox.
+[2015/11/09 13:00:30] <brmbrmcar> Works fine for me.
+[2015/11/09 13:00:38] <brmbrmcar> Awesome.
+[2015/11/09 13:00:58] <Tobbi> not really.
+[2015/11/09 13:01:01] <Tobbi> !Awesome, rather.
+[2015/11/09 13:01:34] <brmbrmcar> <awesome>
+[2015/11/09 13:02:24] <brmbrmcar> HTML6 requirement.
+[2015/11/09 13:06:00] <brmbrmcar> https://github.com/brmbrmcar/brmbrmcar.github.io/commit/f20e02c5e5a9315fbdb0a0d65800519a9cfeab1d
+[2015/11/09 13:11:37] <Tobbi> Karkus: Is there any way you could confirm https://github.com/SuperTux/supertux/issues/209 ?
+[2015/11/09 13:11:50] <Tobbi> I mean check if reverting that changeset does anything?
