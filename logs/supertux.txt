@@ -1863,3 +1863,24 @@
 [2015/11/09 12:28:11] <Tobbi> SuperPterodactyl.
 [2015/11/09 12:28:11] <Tobbi> Or something.
 [2015/11/09 12:30:01] <head8debian> Supertux is fine...
+[2015/11/09 12:30:05] <Karkus> Tobbi: The changes I'm making in https://github.com/SuperTux/supertux/issues/184 are quickly becoming quite incompatible with the previous version. It's backwards compatible, but not foreward compatible
+[2015/11/09 12:30:27] <Karkus> by which I mean it could screw people's configs
+[2015/11/09 12:30:29] <mt> https://urandom.eu.org/i/4328348-ATmfDQTI.jpg
+[2015/11/09 12:30:39] <Karkus> If they try to use an older version
+[2015/11/09 12:30:40] <Tobbi> Karkus: You could always copy the file over if it exists in the old location?
+[2015/11/09 12:30:51] <Tobbi> Or rather move it, don't kno.
+[2015/11/09 12:30:52] <Tobbi> w
+[2015/11/09 12:31:15] <Karkus> Tobbi: yeah that's what I've done.
+[2015/11/09 12:31:20] <Tobbi> Okay, good!
+[2015/11/09 12:31:50] <Karkus> Tobbi: but if someone decides they prefer 0.3.6 and go back, they'll lose their settings.
+[2015/11/09 12:32:12] <Tobbi> Oh!
+[2015/11/09 12:32:27] <Tobbi> Karkus: Well, copying is not the same as moving, right?
+[2015/11/09 12:32:34] <Tobbi> So, if you keep the old file...?
+[2015/11/09 12:33:35] <Karkus> Tobbi: Good idea. I'll use a 'profile' file to store the current profile.
+[2015/11/09 12:33:45] <Tobbi> :-) alright
+[2015/11/09 12:33:57] <Karkus> Then old 'config' can stick around
+[2015/11/09 12:34:09] <Tobbi> Karkus: We just need to make sure that people don't mistakenly try to alter their old config.
+[2015/11/09 12:36:11] <Karkus> Tobbi: I'll get it to add a comment warning that this is a 0.3.6 config file and is ignored by 0.4.0
+[2015/11/09 12:36:37] <Tobbi> Sure! That sounds good. Hopefully it's not too complicated.
+[2015/11/09 12:36:54] <Karkus> hopefully
+[2015/11/09 12:42:07] @ brmbrmcar joined channel #supertux
