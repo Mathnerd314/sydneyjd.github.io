@@ -2072,3 +2072,8 @@
 [2015/11/09 17:40:05] @ Quit: alket: Ping timeout: 260 seconds
 [2015/11/09 17:42:15] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/11/09 17:42:31] @ darkbasic joined channel #supertux
+[2015/11/09 17:52:04] @ Quit: darkbasic: Ping timeout: 250 seconds
+[2015/11/09 17:53:32] @ alket joined channel #supertux
+[2015/11/09 17:55:28] <Not-6fa5> [02supertux] 07maths22 commented on issue 03#187: Fixed windows build and deleted duplicate file - 13http://git.io/v8r2y
+[2015/11/09 17:55:46] @ darkbasic joined channel #supertux
+[2015/11/09 17:59:17] @ Quit: Tobbi: Remote host closed the connection
