@@ -1786,3 +1786,17 @@
 [2015/11/09 11:59:00] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#221: Can not compiled actual supertux - 13http://git.io/v8a9l
 [2015/11/09 11:59:08] <Not-6fa5> [02supertux] 07maxteufel commented on issue 03#221: Can not compiled actual supertux - 13http://git.io/v8a90
 [2015/11/09 11:59:19] @ Quit: darkbasic_: Ping timeout: 250 seconds
+[2015/11/09 12:00:04] <mt> Karkus: read that ^^^
+[2015/11/09 12:00:49] @ darkbasic joined channel #supertux
+[2015/11/09 12:01:15] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#221: Can not compiled actual supertux - 13http://git.io/v8aHr
+[2015/11/09 12:01:17] <Karkus> mt: So what's he actually done wrong?
+[2015/11/09 12:02:21] <mt> not having the path to the libtinygettext.so library in the dynamic linker's path
+[2015/11/09 12:03:11] <mt> or in the other issue, having a wrong version of the library in the path
+[2015/11/09 12:03:22] <mt> I already described that in the issues tho
+[2015/11/09 12:04:11] <mt> That library-version issue is also what can happen when you upgrade systems partially
+[2015/11/09 12:04:32] <Karkus> mt: Okay, we'll leave it closed.
+[2015/11/09 12:05:24] <Karkus> mt: I didn't realise you'd already addressed this in another issue. I though it a bit odd that you were closing the issue without confirmation
+[2015/11/09 12:06:11] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#214: Installing SuperTux From Source on Linux Does Not Work - 13http://git.io/vlYN0
+[2015/11/09 12:06:32] @ Quit: MMlosh: Quit: Bye...
+[2015/11/09 12:07:26] @ alket joined channel #supertux
+[2015/11/09 12:09:04] @ Quit: Hume2: Quit: Page closed
