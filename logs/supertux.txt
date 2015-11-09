@@ -2028,3 +2028,5 @@
 [2015/11/09 14:15:08] @ Quit: Karkus: Quit: Leaving
 [2015/11/09 14:15:52] <brmbrmcar> Just as the Police arrive.
 [2015/11/09 14:26:53] @ Quit: maths22_log: Ping timeout: 260 seconds
+[2015/11/09 14:31:24] @ leyyin joined channel #supertux
+[2015/11/09 14:35:07] @ maths22_log joined channel #supertux
