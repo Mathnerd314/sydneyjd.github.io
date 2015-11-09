@@ -1684,3 +1684,5 @@
 [2015/11/09 08:24:53] @ Quit: darkbasic_: Quit: No Ping reply in 180 seconds.
 [2015/11/09 08:25:21] @ darkbasic joined channel #supertux
 [2015/11/09 08:27:30] @ Quit: FranX: Ping timeout: 244 seconds
+[2015/11/09 08:49:04] <head8debian> Tobbi_: Well, ive torrented 6gb over the last couple days... and i havent been pushing my internet either.
+[2015/11/09 08:50:21] <head8debian> So i think i could handle daily builds. :)
