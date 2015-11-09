@@ -1649,3 +1649,5 @@
 [2015/11/08 23:23:39] @ Quit: tuxdev_: Ping timeout: 255 seconds
 [2015/11/08 23:43:11] @ paroneayea joined channel #supertux
 [2015/11/08 23:52:03] @ Quit: tux|dude: Quit: Leaving
+[2015/11/09 00:00:15] @ tux|dude joined channel #supertux
+[2015/11/09 00:00:27] @ Quit: tux|dude: Read error: Connection reset by peer
