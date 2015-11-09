@@ -1745,3 +1745,44 @@
 [2015/11/09 11:43:27] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#221: Can not compiled actual supertux - 13http://git.io/v8aK0
 [2015/11/09 11:44:15] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#221: Can not compiled actual supertux - 13http://git.io/v8aKd
 [2015/11/09 11:44:53] <Not-6fa5> [02supertux] 07DevynCJohnson commented on issue 03#190: Improved ghosttree sprite - 13http://git.io/v8a6I
+[2015/11/09 11:48:09] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#190: Improved ghosttree sprite - 13http://git.io/v8aPD
+[2015/11/09 11:49:06] <Not-6fa5> [02supertux] 07Karkus476 closed issue 03#72: Tux Is at the Wrong Level on the World Map - 13http://git.io/vUSK0
+[2015/11/09 11:49:08] <Not-6fa5> [02supertux] 07spider2016 commented on issue 03#221: Can not compiled actual supertux - 13http://git.io/v8aXW
+[2015/11/09 11:49:09] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#72: Tux Is at the Wrong Level on the World Map - 13http://git.io/v8aX8
+[2015/11/09 11:49:15] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#190: Improved ghosttree sprite - 13http://git.io/v8aXz
+[2015/11/09 11:49:55] <Tobbi> Karkus: Hrm, it would be best if this was tested.
+[2015/11/09 11:50:00] <Tobbi> But maybe we can get someone to test it.
+[2015/11/09 11:50:06] <Karkus> Tobbi: Idk how to test it
+[2015/11/09 11:50:07] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#190: Improved ghosttree sprite - 13http://git.io/v8a1J
+[2015/11/09 11:50:11] <Tobbi> Neither do I.
+[2015/11/09 11:50:24] <Tobbi> Hmm, alright.
+[2015/11/09 11:50:37] <Tobbi> Karkus: Actually, someone else can reopen it if the issue occurs again.
+[2015/11/09 11:50:46] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#72: Tux Is at the Wrong Level on the World Map - 13http://git.io/v8a10
+[2015/11/09 11:51:13] <Tobbi> *sigh*.
+[2015/11/09 11:51:22] <Karkus> I managed (by accident) to get a profile with a map messed up like this. But your commit doesn't fix it, it just stops it from occurring
+[2015/11/09 11:51:26] <Karkus> Which is better
+[2015/11/09 11:52:02] <Tobbi> :-)
+[2015/11/09 11:52:03] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#72: Tux Is at the Wrong Level on the World Map - 13http://git.io/v8aMB
+[2015/11/09 11:52:39] <Karkus> Tobbi: Although, it's difficult to prove something has stopped happening.
+[2015/11/09 11:53:00] <Tobbi> Yes, but maybe someone else will tell us when it reoccurs.
+[2015/11/09 11:53:20] <Karkus> Tobbi: Precisely
+[2015/11/09 11:53:22] <Tobbi> Karkus: Actually, testing all paths leading to the current position might be the correct way, though that would be much more difficult.
+[2015/11/09 11:53:23] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#72: Tux Is at the Wrong Level on the World Map - 13http://git.io/v8aDR
+[2015/11/09 11:53:29] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#72: Tux Is at the Wrong Level on the World Map - 13http://git.io/v8aDE
+[2015/11/09 11:53:44] <Karkus> Tobbi: And not worth the loading time, even if it was minute
+[2015/11/09 11:53:57] <Tobbi> Yeah, indeed.
+[2015/11/09 11:54:03] <Not-6fa5> [02supertux] 07DevynCJohnson commented on issue 03#190: Improved ghosttree sprite - 13http://git.io/v8aDH
+[2015/11/09 11:54:28] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#221: Can not compiled actual supertux - 13http://git.io/v8ayO
+[2015/11/09 11:54:46] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#190: Improved ghosttree sprite - 13http://git.io/v8ayC
+[2015/11/09 11:55:06] <Not-6fa5> [02supertux] 07maxteufel commented on issue 03#221: Can not compiled actual supertux - 13http://git.io/v8ayg
+[2015/11/09 11:55:24] <Tobbi> Karkus: Do you know how to manage the supertux website? If so, could you add the link DevynCJohnson was pointing to?
+[2015/11/09 11:55:34] <Tobbi> Otherwise, I'll do it later.
+[2015/11/09 11:55:36] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#221: Can not compiled actual supertux - 13http://git.io/v8ayS
+[2015/11/09 11:56:01] <Karkus> Tobbi: It's a github pages repo, right?
+[2015/11/09 11:56:15] <Tobbi> Karkus: Yes, but the source needs to be compiled using a makefile.
+[2015/11/09 11:56:42] <Karkus> Tobbi: I'm not familiar with that. Sorry!
+[2015/11/09 11:56:46] <Tobbi> No problem.
+[2015/11/09 11:57:11] <Tobbi> I'll do it later, then.
+[2015/11/09 11:59:00] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#221: Can not compiled actual supertux - 13http://git.io/v8a9l
+[2015/11/09 11:59:08] <Not-6fa5> [02supertux] 07maxteufel commented on issue 03#221: Can not compiled actual supertux - 13http://git.io/v8a90
+[2015/11/09 11:59:19] @ Quit: darkbasic_: Ping timeout: 250 seconds
