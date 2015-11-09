@@ -1958,3 +1958,21 @@
 [2015/11/09 13:25:20] <Karkus> mt: I'll take a look, thanks
 [2015/11/09 13:27:48] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/09 13:29:52] <Karkus> Tobbi_: Problem is, I've conflicts but no idea how to fix them...
+[2015/11/09 13:30:48] <Tobbi_> Why would anyone want to kill me? :D
+[2015/11/09 13:31:17] <brmbrmcar> Tobbi_: You are mean!
+[2015/11/09 13:31:18] <Karkus> Tobbi_: Not you, Tobbi
+[2015/11/09 13:31:27] <Tobbi_> Ah :D
+[2015/11/09 13:31:48] <Karkus> He quit when I blew his cover
+[2015/11/09 13:32:00] <brmbrmcar> What cover?
+[2015/11/09 13:32:43] <Karkus> His disguise as Tobbi__
+[2015/11/09 13:32:49] <brmbrmcar> Ooh.
+[2015/11/09 13:33:17] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#209: Music Stops During Gameplay - 13http://git.io/v8VPT
+[2015/11/09 13:33:28] <Tobbi_> :D
+[2015/11/09 13:33:58] <Not-6fa5> [02supertux] 07spider2016 commented on issue 03#221: Can not compiled actual supertux - 13http://git.io/v8VPB
+[2015/11/09 13:34:01] <brmbrmcar> Which one of you hated <center>?
+[2015/11/09 13:36:41] <Not-6fa5> [02supertux] 07maxteufel commented on issue 03#221: Can not compiled actual supertux - 13http://git.io/v8VXS
+[2015/11/09 13:38:16] <brmbrmcar> @sOwn up!
+[2015/11/09 13:38:30] <brmbrmcar> s/'sOwn/Own/
+[2015/11/09 13:38:30] <red_bot> brmbrmcar: You did something wrong... Try s/you/me/ or tell me "help sed"
+[2015/11/09 13:38:44] <brmbrmcar> Own up!
+[2015/11/09 13:40:18] @ claymore2 joined channel #supertux
