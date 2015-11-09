@@ -1654,3 +1654,6 @@
 [2015/11/09 00:26:04] <maths22> 
 [2015/11/09 00:35:52] <Not-6fa5> [02supertux] 07spider2016 commented on issue 03#200: Problem with tinytext library - 13http://git.io/v8uet
 [2015/11/09 00:53:52] @ tuxdev_ joined channel #supertux
+[2015/11/09 01:33:33] <Not-6fa5> [02supertux] 07Hume2 labeled issue 03#207: Bug with switches. - 13http://git.io/vW1WC
+[2015/11/09 01:33:49] <Not-6fa5> [02supertux] 07Hume2 commented on issue 03#207: Bug with switches. - 13http://git.io/v8uYG
+[2015/11/09 01:44:42] @ Quit: Mathnerd314: Ping timeout: 272 seconds
