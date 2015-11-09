@@ -1986,3 +1986,40 @@
 [2015/11/09 13:56:24] @ darkbasic joined channel #supertux
 [2015/11/09 13:57:43] <swift110> hey all
 [2015/11/09 13:58:46] <brmbrmcar> hey swift110
+[2015/11/09 14:00:07] <swift110> how are you brmbrmcar
+[2015/11/09 14:00:44] <brmbrmcar> Fine.
+[2015/11/09 14:00:54] <brmbrmcar> how are you swift110
+[2015/11/09 14:01:51] <Tobbi_> Karkus, hey?
+[2015/11/09 14:01:56] <Tobbi_> It doesn't ping me when you say Tobias
+[2015/11/09 14:02:06] <Tobbi_> though I should probably add it.
+[2015/11/09 14:02:08] <Karkus> Tobbi_: I didn't want to ping you :)
+[2015/11/09 14:02:18] <Tobbi_> Ah, good
+[2015/11/09 14:02:25] <Karkus> Tobbi_: Pointless conversation.
+[2015/11/09 14:02:37] <Tobbi_> Yeah, indeed.
+[2015/11/09 14:03:52] <swift110> good brmbrmcar what ya up too
+[2015/11/09 14:04:47] <Tobbi_> Karkus, while you're at it, make language packs have an effect without a restart :P
+[2015/11/09 14:05:03] <Karkus> Tobbi_: I wouldn't know how...
+[2015/11/09 14:05:14] <Tobbi_> Karkus, It's alright... :P
+[2015/11/09 14:05:27] <Tobbi_> Karkus, You know, sometimes I overload people with work, for the sake of doing it.
+[2015/11/09 14:05:29] <Karkus> Tobbi_: Oh, haha
+[2015/11/09 14:05:35] <Karkus> Tobbi_: I don't mind
+[2015/11/09 14:05:51] <Tobbi_> Karkus, I do. Because I am rather worried about people getting overworked.
+[2015/11/09 14:06:04] <Karkus> Tobbi_: I'm not overworked
+[2015/11/09 14:06:17] <Karkus> We have a deadline, and it needs meeting
+[2015/11/09 14:06:22] <Tobbi_> Karkus, I know, but it can get that way too fast when you're getting overinvolved. :-)
+[2015/11/09 14:06:34] <Tobbi_> I know that from my Mozilla contributor days.
+[2015/11/09 14:06:43] <Karkus> I can add it to my new todo list http://swapoff.org/devtodo.html
+[2015/11/09 14:06:46] <Tobbi_> But it's good that you'll take a break when you feel like it ;)
+[2015/11/09 14:07:29] <Tobbi_> Okay, back to my assignments.
+[2015/11/09 14:07:58] <brmbrmcar> swit110: Restoring a level.
+[2015/11/09 14:11:18] <Karkus> Tobbi_: I don't program very fast.
+[2015/11/09 14:11:41] <Tobbi_> Alright then :-)
+[2015/11/09 14:11:56] <brmbrmcar> Karkus: Quick! Program!
+[2015/11/09 14:12:19] <brmbrmcar> Make a new Operating System!
+[2015/11/09 14:12:22] <brmbrmcar> Quick!
+[2015/11/09 14:12:25] <Karkus> brmbrmcar: Done.
+[2015/11/09 14:12:37] <brmbrmcar> Where is it?
+[2015/11/09 14:12:44] <Karkus> It's called windows.
+[2015/11/09 14:13:43] <Karkus> brmbrmcar: You have to pay me for it
+[2015/11/09 14:13:48] <brmbrmcar> Naughty!
+[2015/11/09 14:13:59] <brmbrmcar> Copyright!
