@@ -1659,3 +1659,5 @@
 [2015/11/09 01:44:42] @ Quit: Mathnerd314: Ping timeout: 272 seconds
 [2015/11/09 02:28:54] @ Quit: tuxdev_: Ping timeout: 265 seconds
 [2015/11/09 02:32:06] @ Quit: FranX: Ping timeout: 246 seconds
+[2015/11/09 03:04:22] @ Quit: darkbasic: Read error: Connection reset by peer
+[2015/11/09 03:04:42] @ darkbasic joined channel #supertux
