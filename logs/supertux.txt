@@ -1669,3 +1669,5 @@
 [2015/11/09 04:53:05] @ Tobbi_ joined channel #supertux
 [2015/11/09 04:53:05] @ Mode +o Tobbi_ by ChanServ
 [2015/11/09 05:24:29] @ Quit: FranX: Ping timeout: 264 seconds
+[2015/11/09 05:40:41] @ Quit: MMlosh: Quit: Bye...
+[2015/11/09 05:42:46] @ leyyin joined channel #supertux
