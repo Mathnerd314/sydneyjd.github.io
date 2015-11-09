@@ -1636,3 +1636,5 @@
 [2015/11/08 21:12:29] @ head8debian joined channel #supertux
 [2015/11/08 21:12:29] @ Quit: head8debian: Changing host
 [2015/11/08 21:12:29] @ head8debian joined channel #supertux
+[2015/11/08 21:28:28] @ Quit: darkbasic: Read error: Connection reset by peer
+[2015/11/08 21:29:06] @ darkbasic joined channel #supertux
