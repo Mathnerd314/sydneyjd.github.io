@@ -2037,3 +2037,6 @@
 [2015/11/09 15:03:08] @ Quit: Tobbi_: Ping timeout: 276 seconds
 [2015/11/09 15:18:07] <Not-6fa5> [02supertux] 07spider2016 commented on issue 03#221: Can not compiled actual supertux - 13http://git.io/v8w2g
 [2015/11/09 15:24:11] @ swift110 left channel #supertux ("Leaving")
+[2015/11/09 15:35:09] @ darkbasic_ joined channel #supertux
+[2015/11/09 15:35:32] @ Quit: darkbasic: Ping timeout: 240 seconds
+[2015/11/09 15:38:55] @ Quit: brmbrmcar: Quit: brmbrmquit
