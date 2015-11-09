@@ -2030,3 +2030,7 @@
 [2015/11/09 14:26:53] @ Quit: maths22_log: Ping timeout: 260 seconds
 [2015/11/09 14:31:24] @ leyyin joined channel #supertux
 [2015/11/09 14:35:07] @ maths22_log joined channel #supertux
+[2015/11/09 14:54:19] @ Quit: darkbasic: Quit: No Ping reply in 180 seconds.
+[2015/11/09 14:54:45] @ darkbasic joined channel #supertux
+[2015/11/09 14:59:59] @ Tobbi joined channel #supertux
+[2015/11/09 15:00:00] @ Mode +o Tobbi by ChanServ
