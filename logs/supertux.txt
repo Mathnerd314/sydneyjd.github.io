@@ -2057,3 +2057,10 @@
 [2015/11/09 16:35:48] @ Quit: FranX: Ping timeout: 272 seconds
 [2015/11/09 16:41:25] @ Quit: darkbasic: Ping timeout: 250 seconds
 [2015/11/09 16:43:14] @ darkbasic joined channel #supertux
+[2015/11/09 16:46:51] @ Quit: darkbasic: Client Quit
+[2015/11/09 16:47:07] @ darkbasic joined channel #supertux
+[2015/11/09 16:51:12] @ Quit: darkbasic: Ping timeout: 240 seconds
+[2015/11/09 16:53:48] @ darkbasic joined channel #supertux
+[2015/11/09 16:57:33] @ Quit: darkbasic: Excess Flood
+[2015/11/09 16:58:06] @ Karkus joined channel #supertux
+[2015/11/09 16:59:00] @ darkbasic joined channel #supertux
