@@ -1638,3 +1638,6 @@
 [2015/11/08 21:12:29] @ head8debian joined channel #supertux
 [2015/11/08 21:28:28] @ Quit: darkbasic: Read error: Connection reset by peer
 [2015/11/08 21:29:06] @ darkbasic joined channel #supertux
+[2015/11/08 22:15:42] @ Quit: irungentoo: Remote host closed the connection
+[2015/11/08 22:28:29] @ Quit: head8debian: Quit: leaving
+[2015/11/08 22:28:44] @ head8debian joined channel #supertux
