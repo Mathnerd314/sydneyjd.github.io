@@ -1712,3 +1712,6 @@
 [2015/11/09 10:16:03] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/09 10:17:20] @ Quit: darkbasic: Excess Flood
 [2015/11/09 10:18:55] @ darkbasic joined channel #supertux
+[2015/11/09 10:31:42] @ Mathnerd314 joined channel #supertux
+[2015/11/09 10:34:57] @ Quit: leyyin: Ping timeout: 260 seconds
+[2015/11/09 10:44:32] @ Quit: Tobbi_: Ping timeout: 240 seconds
