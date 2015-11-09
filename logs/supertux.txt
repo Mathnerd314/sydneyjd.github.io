@@ -2052,3 +2052,8 @@
 [2015/11/09 16:03:53] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#187: Fixed windows build and deleted duplicate file - 13http://git.io/v8wd7
 [2015/11/09 16:19:45] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2015/11/09 16:28:15] @ Quit: claymore2: Quit: Leaving
+[2015/11/09 16:30:43] @ FranX joined channel #supertux
+[2015/11/09 16:32:29] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/09 16:35:48] @ Quit: FranX: Ping timeout: 272 seconds
+[2015/11/09 16:41:25] @ Quit: darkbasic: Ping timeout: 250 seconds
+[2015/11/09 16:43:14] @ darkbasic joined channel #supertux
