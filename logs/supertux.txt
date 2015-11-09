@@ -2066,3 +2066,9 @@
 [2015/11/09 16:59:00] @ darkbasic joined channel #supertux
 [2015/11/09 17:15:58] @ Quit: darkbasic: Quit: No Ping reply in 180 seconds.
 [2015/11/09 17:16:22] @ darkbasic joined channel #supertux
+[2015/11/09 17:37:42] @ Tobbi joined channel #supertux
+[2015/11/09 17:37:42] @ Mode +o Tobbi by ChanServ
+[2015/11/09 17:38:59] @ Quit: darkbasic: Quit: No Ping reply in 180 seconds.
+[2015/11/09 17:40:05] @ Quit: alket: Ping timeout: 260 seconds
+[2015/11/09 17:42:15] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2015/11/09 17:42:31] @ darkbasic joined channel #supertux
