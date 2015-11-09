@@ -1694,3 +1694,16 @@
 [2015/11/09 09:45:01] @ Joined channel #supertux
 [2015/11/09 09:45:01] @ Topic is "Welcome to the SuperTux chat | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | Channèl log http://sydneyjd.github.io/logs/"
 [2015/11/09 09:45:01] @ Topic set by Tobbi!~Tobbi@unaffiliated/tobbi on 2015-11-07 14:27:35 -0500
+[2015/11/09 09:45:01] @ head8deb1an joined channel #supertux
+[2015/11/09 09:45:05] @ Mode +nt by hobana.freenode.net
+[2015/11/09 09:45:12] @ Quit: head8debian: Read error: Connection reset by peer
+[2015/11/09 09:46:18] @ head8deb1an is now known as head8debian
+[2015/11/09 09:52:00] @ swift110 joined channel #supertux
+[2015/11/09 09:52:13] @ Tobbi joined channel #supertux
+[2015/11/09 09:52:14] @ Mode +o Tobbi by ChanServ
+[2015/11/09 09:52:44] @ Quit: swift110: Changing host
+[2015/11/09 09:52:45] @ swift110 joined channel #supertux
+[2015/11/09 09:53:32] @ Quit: darkbasic: Ping timeout: 240 seconds
+[2015/11/09 09:54:55] @ darkbasic joined channel #supertux
+[2015/11/09 09:58:49] @ darkbasic_ joined channel #supertux
+[2015/11/09 09:59:05] @ Quit: darkbasic: Read error: Connection reset by peer
