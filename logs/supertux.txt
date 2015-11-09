@@ -1927,3 +1927,34 @@
 [2015/11/09 13:06:00] <brmbrmcar> https://github.com/brmbrmcar/brmbrmcar.github.io/commit/f20e02c5e5a9315fbdb0a0d65800519a9cfeab1d
 [2015/11/09 13:11:37] <Tobbi> Karkus: Is there any way you could confirm https://github.com/SuperTux/supertux/issues/209 ?
 [2015/11/09 13:11:50] <Tobbi> I mean check if reverting that changeset does anything?
+[2015/11/09 13:15:25] <Not-6fa5> [02supertux] 07spider2016 commented on issue 03#221: Can not compiled actual supertux - 13http://git.io/v8V2Z
+[2015/11/09 13:16:20] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#219: Weekly/Fortnightly Releases - 13http://git.io/v8V2Q
+[2015/11/09 13:17:13] <brmbrmcar> You can't unsubscribe from this.
+[2015/11/09 13:17:18] <Tobbi> I don't get this.
+[2015/11/09 13:17:24] <Karkus> Tobbi: I couldn't confirm it for sure, but I will try that next time I play the game and comment if I notice that happen
+[2015/11/09 13:17:25] <Tobbi> What did and didn't work?
+[2015/11/09 13:17:29] <Tobbi> Sure.
+[2015/11/09 13:17:31] <Tobbi> Thanks.
+[2015/11/09 13:18:31] @ Tobbi_ joined channel #supertux
+[2015/11/09 13:18:31] @ Mode +o Tobbi_ by ChanServ
+[2015/11/09 13:19:22] <brmbrmcar> Double Tobbi.
+[2015/11/09 13:19:38] <Karkus> Kill Tobbi, he's an imposter!
+[2015/11/09 13:19:43] <Not-6fa5> [02supertux] 07maxteufel commented on issue 03#221: Can not compiled actual supertux - 13http://git.io/v8VV8
+[2015/11/09 13:20:18] <brmbrmcar> OK.
+[2015/11/09 13:20:24] <brmbrmcar>  /kill Tobbi
+[2015/11/09 13:20:46] <mt> You need to /oper first
+[2015/11/09 13:21:03] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#221: Can not compiled actual supertux - 13http://git.io/v8VVb
+[2015/11/09 13:21:18] <Karkus> When I've got conflicts, how do I find where they are?
+[2015/11/09 13:21:35] <Karkus> In git
+[2015/11/09 13:21:36] <mt> git status
+[2015/11/09 13:21:50] <brmbrmcar>  /oper kill Tobbi
+[2015/11/09 13:22:05] <Karkus> mt: Thanks
+[2015/11/09 13:22:06] <mt> also: use a merge tool for resolving conflicts if they're complex
+[2015/11/09 13:22:20] <Karkus> mt: An example of which is ...
+[2015/11/09 13:22:32] <Karkus> What merge tools are there?
+[2015/11/09 13:22:48] <mt> brmbrmcar: nah, /oper needs a user name and a password; if you have oper privs and kill privs you can then /kill people
+[2015/11/09 13:23:12] <brmbrmcar>  /oper brmbrmcar *****************************
+[2015/11/09 13:24:14] <mt> Karkus: meld for GTK; kdiff3 for kde; vimdiff for vim; ediff for emacs
+[2015/11/09 13:25:20] <Karkus> mt: I'll take a look, thanks
+[2015/11/09 13:27:48] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/09 13:29:52] <Karkus> Tobbi_: Problem is, I've conflicts but no idea how to fix them...
