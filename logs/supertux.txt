@@ -1623,3 +1623,6 @@
 [2015/11/08 18:18:08] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2015/11/08 18:35:25] @ Quit: alket: Quit: Leaving
 [2015/11/08 18:50:53] @ Quit: tux|dude: Quit: Leaving
+[2015/11/08 19:07:38] @ swift110 joined channel #supertux
+[2015/11/08 19:08:24] @ Quit: swift110: Changing host
+[2015/11/08 19:08:25] @ swift110 joined channel #supertux
