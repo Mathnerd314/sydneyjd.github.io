@@ -1732,3 +1732,16 @@
 [2015/11/09 11:27:32] @ Quit: darkbasic_: Ping timeout: 240 seconds
 [2015/11/09 11:29:53] @ Tobbi joined channel #supertux
 [2015/11/09 11:29:53] @ Mode +o Tobbi by ChanServ
+[2015/11/09 11:30:31] <Tobbi> head8debian: What fancy porn have you been torrenting? :P
+[2015/11/09 11:30:41] @ Quit: darkbasic: Excess Flood
+[2015/11/09 11:31:39] <Not-6fa5> [02supertux] 07maxteufel commented on issue 03#221: Can not compiled actual supertux - 13http://git.io/v8agh
+[2015/11/09 11:31:41] <Not-6fa5> [02supertux] 07maxteufel closed issue 03#221: Can not compiled actual supertux - 13http://git.io/v8ui1
+[2015/11/09 11:32:04] @ darkbasic joined channel #supertux
+[2015/11/09 11:37:14] <Not-6fa5> [02supertux] 07maxteufel commented on issue 03#200: Problem with tinytext library - 13http://git.io/v8awV
+[2015/11/09 11:41:29] @ darkbasic_ joined channel #supertux
+[2015/11/09 11:41:38] @ Hume2 joined channel #supertux
+[2015/11/09 11:41:59] @ Quit: darkbasic: Ping timeout: 250 seconds
+[2015/11/09 11:42:39] @ Karkus joined channel #supertux
+[2015/11/09 11:43:27] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#221: Can not compiled actual supertux - 13http://git.io/v8aK0
+[2015/11/09 11:44:15] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#221: Can not compiled actual supertux - 13http://git.io/v8aKd
+[2015/11/09 11:44:53] <Not-6fa5> [02supertux] 07DevynCJohnson commented on issue 03#190: Improved ghosttree sprite - 13http://git.io/v8a6I
