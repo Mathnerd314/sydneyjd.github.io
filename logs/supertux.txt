@@ -2080,3 +2080,6 @@
 [2015/11/09 18:07:24] @ tux|dude joined channel #supertux
 [2015/11/09 18:19:03] @ Tobbi joined channel #supertux
 [2015/11/09 18:19:03] @ Mode +o Tobbi by ChanServ
+[2015/11/09 18:31:49] @ Quit: tux|dude: Quit: Leaving
+[2015/11/09 18:33:24] @ Quit: nerdopolis: Quit: No Ping reply in 180 seconds.
+[2015/11/09 18:34:20] @ nerdopolis joined channel #supertux
