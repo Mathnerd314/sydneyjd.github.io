@@ -1725,3 +1725,10 @@
 [2015/11/09 11:14:22] @ darkbasic_ joined channel #supertux
 [2015/11/09 11:14:23] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#190: Improved ghosttree sprite - 13http://git.io/v8aC8
 [2015/11/09 11:14:33] @ Quit: darkbasic: Read error: Connection reset by peer
+[2015/11/09 11:17:34] @ Quit: mhall119: Changing host
+[2015/11/09 11:17:34] @ mhall119 joined channel #supertux
+[2015/11/09 11:20:32] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/09 11:27:21] @ darkbasic joined channel #supertux
+[2015/11/09 11:27:32] @ Quit: darkbasic_: Ping timeout: 240 seconds
+[2015/11/09 11:29:53] @ Tobbi joined channel #supertux
+[2015/11/09 11:29:53] @ Mode +o Tobbi by ChanServ
