@@ -1800,3 +1800,66 @@
 [2015/11/09 12:06:32] @ Quit: MMlosh: Quit: Bye...
 [2015/11/09 12:07:26] @ alket joined channel #supertux
 [2015/11/09 12:09:04] @ Quit: Hume2: Quit: Page closed
+[2015/11/09 12:15:14] <Tobbi> mt: So, there's nothing we can do about the issue, right? Or should we check the linker path in the makefile and install to one of the directories found there?
+[2015/11/09 12:15:39] <mt> Nothing we can do.
+[2015/11/09 12:15:49] <Tobbi> good
+[2015/11/09 12:16:16] <mt> What you described would be possible, but it's not really ok to install the library in a path where the user doesn't want it installed, without confirmation
+[2015/11/09 12:17:43] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#214: Installing SuperTux From Source on Linux Does Not Work - 13http://git.io/v8apr
+[2015/11/09 12:17:44] <Not-6fa5> [02supertux] 07Karkus476 closed issue 03#214: Installing SuperTux From Source on Linux Does Not Work - 13http://git.io/vlYN0
+[2015/11/09 12:18:48] * head8debian blinks
+[2015/11/09 12:18:52] <mt> what can be done to fix the version-related issue is versioning the library in the filename
+[2015/11/09 12:18:55] <mt> like:
+[2015/11/09 12:18:58] <mt> lrwxrwxrwx 1    24 Nov  2 23:28 /usr/lib/libavformat.so -> libavformat.so.56.40.101*
+[2015/11/09 12:18:59] <Karkus> mt: But isn't there a better place that is more universal among the linux distros
+[2015/11/09 12:19:00] <mt> lrwxrwxrwx 1    24 Nov  2 23:28 /usr/lib/libavformat.so.56 -> libavformat.so.56.40.101*
+[2015/11/09 12:19:02] <mt> -rwxr-xr-x 1  2.1M Nov  2 23:28 /usr/lib/libavformat.so.56.40.101*
+[2015/11/09 12:19:32] <Karkus> mt: Right... you've lost me :D
+[2015/11/09 12:19:47] <mt> the right place would be /lib, but if the user says "install to prefix /a/b/c" then we shouldn't install something somewhere else
+[2015/11/09 12:19:52] <Tobbi> I was already lost :P
+[2015/11/09 12:20:05] @ Quit: leyyin: Ping timeout: 260 seconds
+[2015/11/09 12:20:13] <Tobbi> And leyyin is lost as well, now.
+[2015/11/09 12:20:36] <Karkus> clearly :P
+[2015/11/09 12:20:37] <Not-6fa5> [02supertux] 07sydneyjd commented on issue 03#219: Weekly/Fortnightly Releases - 13http://git.io/v8ajp
+[2015/11/09 12:20:43] <mt> uh what's so hard with realizing how the linker works on linux?
+[2015/11/09 12:20:59] @ Quit: darkbasic: Ping timeout: 250 seconds
+[2015/11/09 12:21:06] <mt> it's basically just like any shell's $PATH
+[2015/11/09 12:21:09] <Tobbi> mt: It's alright, I know how it works. C'mon, give us a break.
+[2015/11/09 12:21:23] <mt> sure, have a break
+[2015/11/09 12:21:26] <Tobbi> thanks.
+[2015/11/09 12:21:48] <Tobbi> Wait a second, that was the first time I saw you making a joke, kind of :D
+[2015/11/09 12:22:04] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#219: Weekly/Fortnightly Releases - 13http://git.io/v8VeP
+[2015/11/09 12:22:23] @ darkbasic joined channel #supertux
+[2015/11/09 12:22:52] <Karkus> Tobbi: There's now 2 issue pages
+[2015/11/09 12:23:00] <Tobbi> Karkus: I noticed.
+[2015/11/09 12:23:06] <Tobbi> Not sure if this is good or bad
+[2015/11/09 12:23:41] <Karkus> Tobbi: It shows that the popularity is increasing
+[2015/11/09 12:23:59] <Tobbi> Karkus: Well, kind of...slowly but steadily.
+[2015/11/09 12:24:00] <Karkus> s/popularity/activity
+[2015/11/09 12:24:01] <Tobbi> :-)
+[2015/11/09 12:24:22] <Karkus> One person is enough to make 2 pages of issues
+[2015/11/09 12:24:34] <head8debian> Karkus: Uhm, i thought you commented on that issue? ^^
+[2015/11/09 12:24:54] <Karkus> head8debian: I did, but I changed my mind
+[2015/11/09 12:25:04] <head8debian> Oh. ;)
+[2015/11/09 12:25:23] <Tobbi> So, we don't call them snapshots, alright.
+[2015/11/09 12:25:32] <Karkus> hehe
+[2015/11/09 12:25:42] <Tobbi> Let's call them "Ultra-awesome magic SuperTux weekly builds" .D
+[2015/11/09 12:25:43] <Tobbi> :D
+[2015/11/09 12:25:53] <Tobbi> Magic because: Unicorn.
+[2015/11/09 12:25:54] <Tobbi> SuperUnicorn.
+[2015/11/09 12:25:56] <Tobbi> :D
+[2015/11/09 12:26:06] <head8debian> ...
+[2015/11/09 12:26:09] <Tobbi> Did we ever have a vote whether our mascot should be a penguin or not? :D
+[2015/11/09 12:26:16] <Tobbi> We never actually agreed on that.
+[2015/11/09 12:26:29] * head8debian is annoyed...
+[2015/11/09 12:26:32] <Karkus> Tobbi: I don't think the project existed before its mascot was a penguin
+[2015/11/09 12:26:36] <Tobbi> Let's change it to a mole.
+[2015/11/09 12:26:41] <Tobbi> Right.
+[2015/11/09 12:26:47] <Tobbi> But SuperMole would be great as well.
+[2015/11/09 12:26:49] <Karkus> Tobbi: Or that fish that's stuck in the ice
+[2015/11/09 12:26:58] <Tobbi> SuperFish? :D
+[2015/11/09 12:27:24] <Karkus> I'm thinking SuperTree
+[2015/11/09 12:27:27] <Tobbi> :D
+[2015/11/09 12:27:58] <Tobbi> SuperVelociraptor.
+[2015/11/09 12:28:11] <Tobbi> SuperPterodactyl.
+[2015/11/09 12:28:11] <Tobbi> Or something.
+[2015/11/09 12:30:01] <head8debian> Supertux is fine...
