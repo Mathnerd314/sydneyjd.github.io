@@ -1976,3 +1976,13 @@
 [2015/11/09 13:38:30] <red_bot> brmbrmcar: You did something wrong... Try s/you/me/ or tell me "help sed"
 [2015/11/09 13:38:44] <brmbrmcar> Own up!
 [2015/11/09 13:40:18] @ claymore2 joined channel #supertux
+[2015/11/09 13:50:37] <Karkus> Not me
+[2015/11/09 13:51:02] <Karkus> ping ping ping Tobias
+[2015/11/09 13:52:18] @ swift110 joined channel #supertux
+[2015/11/09 13:54:03] @ Quit: swift110: Changing host
+[2015/11/09 13:54:04] @ swift110 joined channel #supertux
+[2015/11/09 13:55:01] @ Quit: darkbasic: Ping timeout: 250 seconds
+[2015/11/09 13:55:05] <brmbrmcar> pong pong pong Tobias
+[2015/11/09 13:56:24] @ darkbasic joined channel #supertux
+[2015/11/09 13:57:43] <swift110> hey all
+[2015/11/09 13:58:46] <brmbrmcar> hey swift110
