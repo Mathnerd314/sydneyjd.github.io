@@ -1653,3 +1653,4 @@
 [2015/11/09 00:00:27] @ Quit: tux|dude: Read error: Connection reset by peer
 [2015/11/09 00:26:04] <maths22> 
 [2015/11/09 00:35:52] <Not-6fa5> [02supertux] 07spider2016 commented on issue 03#200: Problem with tinytext library - 13http://git.io/v8uet
+[2015/11/09 00:53:52] @ tuxdev_ joined channel #supertux
