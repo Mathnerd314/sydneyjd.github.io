@@ -1884,3 +1884,37 @@
 [2015/11/09 12:36:37] <Tobbi> Sure! That sounds good. Hopefully it's not too complicated.
 [2015/11/09 12:36:54] <Karkus> hopefully
 [2015/11/09 12:42:07] @ brmbrmcar joined channel #supertux
+[2015/11/09 12:50:41] <Karkus> brmbrmcar: Sup?
+[2015/11/09 12:51:32] <brmbrmcar> No thing.
+[2015/11/09 12:51:36] <Tobbi> <sup>brmbrmcar</sup>
+[2015/11/09 12:52:12] <Karkus> Tobbi: Should I have debug messages about the fact that an outdated config file has been found?
+[2015/11/09 12:52:22] <Tobbi> Karkus: would make sense, so yeah.
+[2015/11/09 12:52:32] <Tobbi> Problem is, only people who run with --debug will see that, I believe.
+[2015/11/09 12:52:57] <Karkus> Tobbi: But it's not worthy of WARNING is it?
+[2015/11/09 12:53:04] <Tobbi> Karkus: Don't think so.
+[2015/11/09 12:53:10] <brmbrmcar> <html><head><title>Sup?</title></head><body><center><font size="7">Sup?</font></center></body></html>
+[2015/11/09 12:53:28] <Karkus> <sup/>
+[2015/11/09 12:53:41] <Tobbi> urgh, so 2000.
+[2015/11/09 12:53:46] <Tobbi> <center>
+[2015/11/09 12:53:51] <Tobbi> Why not <blink>
+[2015/11/09 12:53:56] <Tobbi> or <marquee>
+[2015/11/09 12:53:58] * Tobbi shudders
+[2015/11/09 12:54:01] <Karkus> Tobbi: haha
+[2015/11/09 12:54:19] <brmbrmcar> <sup> WARNING: The sup tag is not supported in any of the major browsers.
+[2015/11/09 12:54:29] <Karkus> I haven't seen a marquee for ages.
+[2015/11/09 12:54:46] <Tobbi> I believe it's no longer supported, even.
+[2015/11/09 12:55:09] <Tobbi> Oh, it is.
+[2015/11/09 12:55:12] <brmbrmcar> brmbrmcar.github.io uses <center>.
+[2015/11/09 12:55:21] <brmbrmcar> I like <center>.
+[2015/11/09 12:56:21] <Tobbi> blink is not supported any longer.
+[2015/11/09 12:56:26] <Tobbi> brmbrmcar: use css ffs.
+[2015/11/09 12:57:07] <brmbrmcar> I can't be bothered.
+[2015/11/09 12:57:17] <brmbrmcar> Which us why i use <center>.
+[2015/11/09 12:57:32] <Tobbi> Actually, <blink> could really improve tobbi.bplaced.net :D
+[2015/11/09 12:57:41] <Tobbi> Or marquee
+[2015/11/09 12:57:45] <Tobbi> Or something.
+[2015/11/09 12:58:25] <brmbrmcar> <center> does the job.Otherwise I align it carefully.
+[2015/11/09 12:59:33] <mt> http://www.textfiles.com/underconstruction/
+[2015/11/09 12:59:42] @ Quit: alket: Quit: Leaving
+[2015/11/09 12:59:55] <Tobbi> Nice.
+[2015/11/09 12:59:58] <Tobbi> It hangs my Firefox.
