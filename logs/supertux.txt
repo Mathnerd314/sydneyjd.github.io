@@ -1709,3 +1709,6 @@
 [2015/11/09 09:59:05] @ Quit: darkbasic: Read error: Connection reset by peer
 [2015/11/09 10:11:51] @ Quit: darkbasic_: Ping timeout: 250 seconds
 [2015/11/09 10:13:58] @ darkbasic joined channel #supertux
+[2015/11/09 10:16:03] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/09 10:17:20] @ Quit: darkbasic: Excess Flood
+[2015/11/09 10:18:55] @ darkbasic joined channel #supertux
