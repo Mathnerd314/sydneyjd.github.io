@@ -1662,3 +1662,5 @@
 [2015/11/09 03:04:22] @ Quit: darkbasic: Read error: Connection reset by peer
 [2015/11/09 03:04:42] @ darkbasic joined channel #supertux
 [2015/11/09 03:18:43] @ FranX joined channel #supertux
+[2015/11/09 03:32:27] <Not-6fa5> [02supertux] 07spider2016 opened issue 03#221: Can not complilled actual supertux - 13http://git.io/v8ui1
+[2015/11/09 03:37:31] @ Quit: Karkus: Ping timeout: 250 seconds
