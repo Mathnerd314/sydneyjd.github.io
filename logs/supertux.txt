@@ -2206,3 +2206,13 @@
 [2015/11/10 12:29:07] <Hume2> :D
 [2015/11/10 12:29:36] <Hume2> Well, let's start milions virtual machines with windows 10.
 [2015/11/10 12:29:54] @ Quit: Karkus: Ping timeout: 264 seconds
+[2015/11/10 12:30:04] <Hume2> Well, that's not a good idea.
+[2015/11/10 12:30:14] <head8debian> It would take more like billions...
+[2015/11/10 12:31:01] <Hume2> Do you think that they have any backups of that spy-data?
+[2015/11/10 12:32:35] <Hume2> I read that a new type of viruses have been invited. They install your OS as a virtual machine, so you can't get that they are even on your computer. Any way.
+[2015/11/10 12:34:37] <Hume2> They could then send fake data to the camera and keyboard.
+[2015/11/10 12:35:31] <Hume2> ...but no idea how to make those viruses...
+[2015/11/10 12:36:38] <brmbrmcar> Awesome hacks!
+[2015/11/10 12:40:05] <brmbrmcar> On a Microsoft e-mail account, I think that you can change your name to a script, possibly accessing more scripts that could destroy the servers.
+[2015/11/10 12:40:54] <Hume2> I guess that special characters are blocked, so that wouldn't work. However, it could be good if that worked.
+[2015/11/10 12:43:17] <brmbrmcar> It allows all xharacters.
