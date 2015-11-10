@@ -2088,3 +2088,4 @@
 [2015/11/09 18:46:11] <Tobbi> you can just write a:visited, a:hover, a:active {color: orange}
 [2015/11/09 19:08:38] @ darkbasic_ joined channel #supertux
 [2015/11/09 19:09:28] @ Quit: darkbasic: Ping timeout: 252 seconds
+[2015/11/09 19:28:48] @ Quit: alket: Quit: Leaving
