@@ -2112,3 +2112,7 @@
 [2015/11/09 20:12:29] @ Quit: Tobbi: 
 [2015/11/09 20:12:44] <head8debian> :-)
 [2015/11/09 21:24:16] @ Quit: darkbasic_: Remote host closed the connection
+[2015/11/09 21:36:19] @ FranX joined channel #supertux
+[2015/11/09 21:39:25] @ Tobbi_ joined channel #supertux
+[2015/11/09 21:39:25] @ Mode +o Tobbi_ by ChanServ
+[2015/11/09 21:41:35] @ Quit: FranX: Ping timeout: 276 seconds
