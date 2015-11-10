@@ -2363,3 +2363,4 @@
 [2015/11/10 17:42:57] @ bb010g joined channel #supertux
 [2015/11/10 18:01:16] @ Quit: alket: Quit: Leaving
 [2015/11/10 18:14:10] @ Quit: Karkus: Ping timeout: 265 seconds
+[2015/11/10 18:36:09] @ Quit: Wuzzy: Quit: Wuzzy
