@@ -2086,3 +2086,5 @@
 [2015/11/09 18:45:31] <Tobbi> head8debian: You know that you can put css rules together, right?
 [2015/11/09 18:45:44] <Tobbi> talking about https://github.com/sydneyjd/sydneyjd.github.io/blob/master/random1.css#L35 onwards.
 [2015/11/09 18:46:11] <Tobbi> you can just write a:visited, a:hover, a:active {color: orange}
+[2015/11/09 19:08:38] @ darkbasic_ joined channel #supertux
+[2015/11/09 19:09:28] @ Quit: darkbasic: Ping timeout: 252 seconds
