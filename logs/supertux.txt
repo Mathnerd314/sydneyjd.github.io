@@ -2155,3 +2155,4 @@
 [2015/11/10 10:20:05] @ Quit: gynter: Remote host closed the connection
 [2015/11/10 10:25:03] @ gynter joined channel #supertux
 [2015/11/10 11:03:03] @ Mathnerd314 joined channel #supertux
+[2015/11/10 11:34:06] @ brmbrmcar joined channel #supertux
