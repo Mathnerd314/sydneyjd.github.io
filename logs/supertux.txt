@@ -2140,3 +2140,4 @@
 [2015/11/10 03:34:17] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#187: Fixed windows build and deleted duplicate file - 13http://git.io/v860T
 [2015/11/10 03:45:43] @ FranX joined channel #supertux
 [2015/11/10 03:50:08] @ Quit: FranX: Ping timeout: 252 seconds
+[2015/11/10 04:30:42] @ Quit: Karkus: Ping timeout: 240 seconds
