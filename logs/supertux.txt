@@ -2092,3 +2092,22 @@
 [2015/11/09 19:44:55] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/09 19:50:29] @ Tobbi joined channel #supertux
 [2015/11/09 19:50:40] @ Mode +o Tobbi by ChanServ
+[2015/11/09 20:00:40] <head8debian> Tobbi: Yes, but i didn't think of it at that moment. I also didn't have all the colors that color at first...
+[2015/11/09 20:00:49] <Tobbi> Oh, alright.
+[2015/11/09 20:03:47] <head8debian> Tobbi: Is my code clean otherwise? :p
+[2015/11/09 20:04:00] <Tobbi> head8debian: Do you really want me to check it?
+[2015/11/09 20:04:04] <Tobbi> Alright, challenge accepted.
+[2015/11/09 20:04:39] <head8debian> i should fix my indenting.
+[2015/11/09 20:04:51] <head8debian> Atom makes that easy...
+[2015/11/09 20:08:40] <Tobbi> I couldn't find anything.
+[2015/11/09 20:08:42] @ bb010g joined channel #supertux
+[2015/11/09 20:08:47] <Tobbi> Add more content to get more issues.
+[2015/11/09 20:09:54] <head8debian> Tobbi: Hehe.
+[2015/11/09 20:10:02] <head8debian> Tobbi: I ran it through a validator btw. :p
+[2015/11/09 20:10:08] <Tobbi> head8debian:  me, too.
+[2015/11/09 20:10:37] <head8debian> I hate it when website have a tun of broken stuff...
+[2015/11/09 20:10:41] <head8debian> ton*
+[2015/11/09 20:11:56] <Tobbi> head8debian: if you want, http://www.1stwebdesigner.com/online-tools-website-validation-testing/
+[2015/11/09 20:12:26] <Tobbi> Anyway, enough for today.
+[2015/11/09 20:12:29] @ Quit: Tobbi: 
+[2015/11/09 20:12:44] <head8debian> :-)
