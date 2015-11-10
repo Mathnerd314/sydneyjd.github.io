@@ -2141,3 +2141,4 @@
 [2015/11/10 03:45:43] @ FranX joined channel #supertux
 [2015/11/10 03:50:08] @ Quit: FranX: Ping timeout: 252 seconds
 [2015/11/10 04:30:42] @ Quit: Karkus: Ping timeout: 240 seconds
+[2015/11/10 05:53:28] @ leyyin joined channel #supertux
