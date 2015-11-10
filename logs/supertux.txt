@@ -2111,3 +2111,4 @@
 [2015/11/09 20:12:26] <Tobbi> Anyway, enough for today.
 [2015/11/09 20:12:29] @ Quit: Tobbi: 
 [2015/11/09 20:12:44] <head8debian> :-)
+[2015/11/09 21:24:16] @ Quit: darkbasic_: Remote host closed the connection
