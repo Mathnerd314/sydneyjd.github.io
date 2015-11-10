@@ -2152,3 +2152,5 @@
 [2015/11/10 09:28:19] <head8debian> red_bot: ping
 [2015/11/10 09:28:19] <red_bot> head8debian: pong
 [2015/11/10 09:44:59] @ tuxdev_ joined channel #supertux
+[2015/11/10 10:20:05] @ Quit: gynter: Remote host closed the connection
+[2015/11/10 10:25:03] @ gynter joined channel #supertux
