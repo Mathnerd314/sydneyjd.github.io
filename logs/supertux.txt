@@ -2121,3 +2121,4 @@
 [2015/11/09 22:28:12] <Tobbi_> head8debian, heh, right, good night.
 [2015/11/09 22:28:16] @ Quit: Tobbi_: Quit: Leaving
 [2015/11/09 22:28:43] <swift110> im here
+[2015/11/09 22:33:09] @ Quit: irungentoo: Ping timeout: 260 seconds
