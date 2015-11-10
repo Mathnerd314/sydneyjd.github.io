@@ -2151,3 +2151,4 @@
 [2015/11/10 08:54:33] @ Quit: FranX: Ping timeout: 240 seconds
 [2015/11/10 09:28:19] <head8debian> red_bot: ping
 [2015/11/10 09:28:19] <red_bot> head8debian: pong
+[2015/11/10 09:44:59] @ tuxdev_ joined channel #supertux
