@@ -2129,3 +2129,5 @@
 [2015/11/10 01:18:18] @ swift110 is now known as netscape
 [2015/11/10 01:49:37] @ netscape is now known as prodigy
 [2015/11/10 01:58:48] @ prodigy is now known as swift110
+[2015/11/10 02:02:12] @ Quit: swift110: Remote host closed the connection
+[2015/11/10 02:14:41] @ tuxdev_ joined channel #supertux
