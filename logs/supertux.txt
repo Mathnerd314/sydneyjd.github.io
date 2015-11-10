@@ -2090,3 +2090,5 @@
 [2015/11/09 19:09:28] @ Quit: darkbasic: Ping timeout: 252 seconds
 [2015/11/09 19:28:48] @ Quit: alket: Quit: Leaving
 [2015/11/09 19:44:55] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/09 19:50:29] @ Tobbi joined channel #supertux
+[2015/11/09 19:50:40] @ Mode +o Tobbi by ChanServ
