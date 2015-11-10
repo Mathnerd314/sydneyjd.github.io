@@ -2168,3 +2168,41 @@
 [2015/11/10 12:12:07] <head8debian> Karkus: Well, i wouldnt mind doing nightly builds for .deb, .rpm, windows and OSX, but it would be a tad tedius...
 [2015/11/10 12:12:16] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/11/10 12:14:37] <head8debian> firefox is freezing. o_O
+[2015/11/10 12:15:30] @ Quit: Karkus: Ping timeout: 264 seconds
+[2015/11/10 12:16:20] <Not-6fa5> [02supertux] 07tobbi opened issue 03#222: Remove tinygettext command line outputs - 13http://git.io/v81I5
+[2015/11/10 12:16:42] @ alket joined channel #supertux
+[2015/11/10 12:17:36] @ Hume2 joined channel #supertux
+[2015/11/10 12:18:25] <head8debian> Hey Hume2. ;)
+[2015/11/10 12:18:33] <head8debian> Now we jsut hide and wait for Tobbi.
+[2015/11/10 12:18:35] @ Quit: jeezy: Quit: ZNC - http://znc.in
+[2015/11/10 12:18:37] <Hume2> Hello, head8debian!
+[2015/11/10 12:19:07] <Hume2> Someone should exterminate Microsoft.
+[2015/11/10 12:19:48] <head8debian> Hume2: Nah, just windows.
+[2015/11/10 12:20:08] <head8debian> Microsoft hasdone some cool things.
+[2015/11/10 12:21:09] <Hume2> Just wait 70 years until the copyright laws will run out.
+[2015/11/10 12:21:48] <Hume2> I read what Windows 10 everything does. I just feel a big rage.
+[2015/11/10 12:21:48] @ Karkus joined channel #supertux
+[2015/11/10 12:21:53] <head8debian> heh.
+[2015/11/10 12:22:03] <head8debian> Karkus: o_O
+[2015/11/10 12:22:18] <Karkus> head8debian: What?
+[2015/11/10 12:22:42] @ Quit: alket: Ping timeout: 250 seconds
+[2015/11/10 12:23:00] <Hume2> When Windows10 spies all the computers, it should work vice-versa too.
+[2015/11/10 12:23:34] <Karkus> head8debian:idk how we do the windows builds.
+[2015/11/10 12:24:51] <head8debian> Karkus: Good question.
+[2015/11/10 12:24:53] <head8debian> Hume2: :D
+[2015/11/10 12:25:03] <Hume2> Karkus: Please don't. Windows is a spyware.
+[2015/11/10 12:25:28] <head8debian> Windows is a pile of crud, but people use it, so we have to also.
+[2015/11/10 12:25:41] <Hume2> No, we don't have to.
+[2015/11/10 12:26:10] <Hume2> Yes, people are monkeys, even I am a monkey. Monkeys must do the same as the others.
+[2015/11/10 12:26:40] <head8debian> We can support it, but it doesn't mean we have to use it ourselves. :)
+[2015/11/10 12:27:00] <Hume2> Yes.
+[2015/11/10 12:27:19] <Hume2> It needs to hack the camera to send some random faces.
+[2015/11/10 12:27:29] <head8debian> I do use it, and what little i don't like...
+[2015/11/10 12:27:34] <Hume2> Don't you know how to make a random face generator?
+[2015/11/10 12:27:55] <head8debian> Ehm, no?
+[2015/11/10 12:28:26] <Hume2> I think, messing up Microsoft's server with junk data could work.
+[2015/11/10 12:28:34] <head8debian> heh.
+[2015/11/10 12:28:57] <head8debian> How are you going to mess up their servers when they use linux? :p
+[2015/11/10 12:29:07] <Hume2> :D
+[2015/11/10 12:29:36] <Hume2> Well, let's start milions virtual machines with windows 10.
+[2015/11/10 12:29:54] @ Quit: Karkus: Ping timeout: 264 seconds
