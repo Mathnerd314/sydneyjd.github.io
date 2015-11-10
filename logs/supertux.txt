@@ -2117,3 +2117,7 @@
 [2015/11/09 21:39:25] @ Mode +o Tobbi_ by ChanServ
 [2015/11/09 21:41:35] @ Quit: FranX: Ping timeout: 276 seconds
 [2015/11/09 22:00:24] @ swift110 joined channel #supertux
+[2015/11/09 22:27:53] <head8debian> Tobbi_: o_O
+[2015/11/09 22:28:12] <Tobbi_> head8debian, heh, right, good night.
+[2015/11/09 22:28:16] @ Quit: Tobbi_: Quit: Leaving
+[2015/11/09 22:28:43] <swift110> im here
