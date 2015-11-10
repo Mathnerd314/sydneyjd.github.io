@@ -2339,3 +2339,9 @@
 [2015/11/10 14:58:29] <Not-6fa5> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/90381869
 [2015/11/10 15:00:31] @ Quit: FranX: Ping timeout: 264 seconds
 [2015/11/10 15:04:01] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/10 16:04:53] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#223: Configs now per profile - 13http://git.io/v8MHR
+[2015/11/10 16:08:31] <maths22_log> Database connection lost! 5 retries until I give up entirely!
+[2015/11/10 16:10:38] <maths22_log> Database connection lost! 4 retries until I give up entirely!
+[2015/11/10 16:12:48] <maths22_log> Database connection lost! 3 retries until I give up entirely!
+[2015/11/10 16:13:08] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/11/10 16:14:58] <maths22_log> Database connection lost! 2 retries until I give up entirely!
