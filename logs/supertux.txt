@@ -2337,3 +2337,5 @@
 [2015/11/10 14:55:29] @ FranX joined channel #supertux
 [2015/11/10 14:57:58] @ claymore2 joined channel #supertux
 [2015/11/10 14:58:29] <Not-6fa5> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/90381869
+[2015/11/10 15:00:31] @ Quit: FranX: Ping timeout: 264 seconds
+[2015/11/10 15:04:01] @ Quit: brmbrmcar: Quit: brmbrmquit
