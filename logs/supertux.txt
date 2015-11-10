@@ -2327,3 +2327,13 @@
 [2015/11/10 14:40:20] <brmbrmcar> I am not fooled!
 [2015/11/10 14:40:49] <Hume2> I think that I start to be.
 [2015/11/10 14:41:13] <Hume2> But I can still say that I'm not too.
+[2015/11/10 14:45:31] <Hume2> Bye!
+[2015/11/10 14:45:34] @ Quit: Hume2: Quit: Page closed
+[2015/11/10 14:45:51] <Not-6fa5> [02supertux] 07Karkus476 opened pull request 03#223: Configs now per profile - 13http://git.io/v8MG4
+[2015/11/10 14:45:55] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/90381869
+[2015/11/10 14:46:21] <Not-6fa5> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/90379651
+[2015/11/10 14:46:58] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/90381869
+[2015/11/10 14:51:13] @ Quit: Karkus: Ping timeout: 240 seconds
+[2015/11/10 14:55:29] @ FranX joined channel #supertux
+[2015/11/10 14:57:58] @ claymore2 joined channel #supertux
+[2015/11/10 14:58:29] <Not-6fa5> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/90381869
