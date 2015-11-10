@@ -2137,3 +2137,4 @@
 [2015/11/10 02:43:25] @ Quit: tuxdev_: Ping timeout: 260 seconds
 [2015/11/10 02:59:01] @ Quit: tux|dude: Quit: Leaving
 [2015/11/10 03:27:55] @ Quit: Narre: Quit: Page closed
+[2015/11/10 03:34:17] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#187: Fixed windows build and deleted duplicate file - 13http://git.io/v860T
