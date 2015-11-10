@@ -2357,3 +2357,4 @@
 [2015/11/10 16:49:23] @ Karkus joined channel #supertux
 [2015/11/10 16:52:16] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/11/10 16:59:32] @ maths22_log joined channel #supertux
+[2015/11/10 17:06:09] @ tux|dude joined channel #supertux
