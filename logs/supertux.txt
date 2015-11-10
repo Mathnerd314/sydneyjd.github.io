@@ -2157,3 +2157,14 @@
 [2015/11/10 11:03:03] @ Mathnerd314 joined channel #supertux
 [2015/11/10 11:34:06] @ brmbrmcar joined channel #supertux
 [2015/11/10 11:46:02] @ alket joined channel #supertux
+[2015/11/10 12:05:24] @ Karkus joined channel #supertux
+[2015/11/10 12:07:54] <head8debian> Hello Karkus. :D
+[2015/11/10 12:08:14] <Karkus> Hello head8debian. :P
+[2015/11/10 12:10:09] <head8debian> Karkus: Well, the logs are working...
+[2015/11/10 12:10:42] <head8debian> Karkus: Want to make a script for me to nightly build supertux for windows? :p
+[2015/11/10 12:11:00] <Karkus> head8debian: Windows?
+[2015/11/10 12:11:18] @ Quit: alket: Ping timeout: 276 seconds
+[2015/11/10 12:11:57] @ Quit: tuxdev_: Ping timeout: 276 seconds
+[2015/11/10 12:12:07] <head8debian> Karkus: Well, i wouldnt mind doing nightly builds for .deb, .rpm, windows and OSX, but it would be a tad tedius...
+[2015/11/10 12:12:16] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2015/11/10 12:14:37] <head8debian> firefox is freezing. o_O
