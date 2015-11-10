@@ -2116,3 +2116,4 @@
 [2015/11/09 21:39:25] @ Tobbi_ joined channel #supertux
 [2015/11/09 21:39:25] @ Mode +o Tobbi_ by ChanServ
 [2015/11/09 21:41:35] @ Quit: FranX: Ping timeout: 276 seconds
+[2015/11/09 22:00:24] @ swift110 joined channel #supertux
