@@ -2345,3 +2345,9 @@
 [2015/11/10 16:12:48] <maths22_log> Database connection lost! 3 retries until I give up entirely!
 [2015/11/10 16:13:08] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2015/11/10 16:14:58] <maths22_log> Database connection lost! 2 retries until I give up entirely!
+[2015/11/10 16:16:43] @ Karkus joined channel #supertux
+[2015/11/10 16:17:08] <maths22_log> Database connection lost! 1 retries until I give up entirely!
+[2015/11/10 16:21:23] @ Quit: maths22_log: Remote host closed the connection
+[2015/11/10 16:21:52] <Not-6fa5> [02supertux] 07Karkus476 synchronize pull request 03#223: Configs now per profile - 13http://git.io/v8MG4
+[2015/11/10 16:21:55] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/90399674
+[2015/11/10 16:27:25] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/90399674
