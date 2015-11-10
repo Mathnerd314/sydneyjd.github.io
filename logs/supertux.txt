@@ -2135,3 +2135,4 @@
 [2015/11/10 02:36:07] @ Narre joined channel #supertux
 [2015/11/10 02:36:42] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#221: Can not compiled actual supertux - 13http://git.io/v8Khy
 [2015/11/10 02:43:25] @ Quit: tuxdev_: Ping timeout: 260 seconds
+[2015/11/10 02:59:01] @ Quit: tux|dude: Quit: Leaving
