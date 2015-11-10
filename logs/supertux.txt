@@ -2123,3 +2123,4 @@
 [2015/11/09 22:28:43] <swift110> im here
 [2015/11/09 22:33:09] @ Quit: irungentoo: Ping timeout: 260 seconds
 [2015/11/09 23:05:50] @ Quit: swift110: Ping timeout: 244 seconds
+[2015/11/09 23:24:36] @ swift110 joined channel #supertux
