@@ -2358,3 +2358,6 @@
 [2015/11/10 16:52:16] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/11/10 16:59:32] @ maths22_log joined channel #supertux
 [2015/11/10 17:06:09] @ tux|dude joined channel #supertux
+[2015/11/10 17:41:36] <Karkus> ~note Tobbi Check it out -> https://github.com/SuperTux/supertux/pull/223
+[2015/11/10 17:41:36] <red_bot> okay then :), Karkus
+[2015/11/10 17:42:57] @ bb010g joined channel #supertux
