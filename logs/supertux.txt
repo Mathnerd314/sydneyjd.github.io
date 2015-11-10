@@ -2300,3 +2300,30 @@
 [2015/11/10 14:25:35] <Hume2> Why not?
 [2015/11/10 14:26:52] <brmbrmcar> Indeed.
 [2015/11/10 14:28:57] <Hume2> Well, is there something that it could contain in addition?
+[2015/11/10 14:30:54] <Hume2> I think that the people should notice it, so I wouldn't add much detail.
+[2015/11/10 14:32:26] <Hume2> Is there a possibility that it would be in TV?
+[2015/11/10 14:32:41] <brmbrmcar> How much does it cost?
+[2015/11/10 14:34:09] <Hume2> Well, it costs one piece of paper and some glue. Not much.
+[2015/11/10 14:34:17] <Not-6fa5> [02supertux] 07Karkus476 created branch 03config - 13http://git.io/vvf63
+[2015/11/10 14:34:19] <Not-6fa5> [02supertux] 07Karkus476 pushed 034 commits to 03config [+0/-0/±6] 13http://git.io/v8Mmy
+[2015/11/10 14:34:20] <Not-6fa5> [02supertux] 07Karkus 0305b73c4 - Adds paste command to lisp/writer
+[2015/11/10 14:34:22] <Not-6fa5> [02supertux] 07Karkus 03717cf9c - Addons detailed in seperate file (addons-list)
+[2015/11/10 14:34:23] <Not-6fa5> [02supertux] 07Karkus 035e7a891 - Save config whenever profile changed (so I don't forget)
+[2015/11/10 14:34:25] <Not-6fa5> [02supertux] 07Karkus 03d74a740 - Configs now saved by profile
+[2015/11/10 14:34:26] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/90379651
+[2015/11/10 14:34:30] <Karkus> damn
+[2015/11/10 14:34:42] <Karkus> wrong repo -.-
+[2015/11/10 14:35:18] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/90379651
+[2015/11/10 14:35:23] <brmbrmcar> For TV
+[2015/11/10 14:35:57] <Hume2> I think that someone could report it to TV.
+[2015/11/10 14:36:16] <Karkus> I need to delete that branch now, then pull request from mine
+[2015/11/10 14:37:01] <Hume2> Not me, but someone could notice it and report it to TV news.
+[2015/11/10 14:37:23] <Hume2> Is there that possibility?
+[2015/11/10 14:37:46] <Hume2> I really don't want to be famous because of this.
+[2015/11/10 14:38:15] <brmbrmcar> Neither do I.
+[2015/11/10 14:38:19] <Not-6fa5> [02supertux] 07Karkus476 deleted branch 03config - 13http://git.io/vvf63
+[2015/11/10 14:38:20] <Not-6fa5> [02supertux] 07Karkus476 deleted branch 03config
+[2015/11/10 14:39:01] <Hume2> <Not-6fa5> [supertux] Error. The Travis CI build has errored.
+[2015/11/10 14:40:20] <brmbrmcar> I am not fooled!
+[2015/11/10 14:40:49] <Hume2> I think that I start to be.
+[2015/11/10 14:41:13] <Hume2> But I can still say that I'm not too.
