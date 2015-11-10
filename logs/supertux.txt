@@ -2216,3 +2216,18 @@
 [2015/11/10 12:40:05] <brmbrmcar> On a Microsoft e-mail account, I think that you can change your name to a script, possibly accessing more scripts that could destroy the servers.
 [2015/11/10 12:40:54] <Hume2> I guess that special characters are blocked, so that wouldn't work. However, it could be good if that worked.
 [2015/11/10 12:43:17] <brmbrmcar> It allows all xharacters.
+[2015/11/10 12:45:58] <Hume2> brmbrmcar: I think that it just displays those characters, but they are saved another way.
+[2015/11/10 12:47:10] <Hume2> Anyway, it would have to run that script somehow. And I don't think that their software is equiped to run the scripts from usernames.
+[2015/11/10 12:48:31] @ bb010g joined channel #supertux
+[2015/11/10 12:48:59] <head8debian> Just drop a bomb on one of their server rooms...
+[2015/11/10 12:49:45] <Hume2> That works too, but it's quite too simple.
+[2015/11/10 12:51:11] <Hume2> Anyway, when it sends the users' photos, it can measure the dimensions of their skull.
+[2015/11/10 12:51:40] <brmbrmcar> I know it works to run scripts to make you an admin.
+[2015/11/10 12:51:55] <Hume2> So they know, what race you are and where you live. Doesn't it resemble you anything?
+[2015/11/10 12:52:39] <Hume2> brmbrmcar: Yes, but some kind of boss must make you an admin. And there are tons of passwords.
+[2015/11/10 12:53:48] <brmbrmcar> I mean, the develpors surely use some sort of GUI.
+[2015/11/10 12:54:28] @ Karkus joined channel #supertux
+[2015/11/10 12:54:41] <Hume2> Yes, that's it. You'd have to force a developer to make you an admin.
+[2015/11/10 12:55:02] <brmbrmcar> I'll try and find a video of the hack.
+[2015/11/10 12:56:32] <brmbrmcar> I cannot find it. Probably taken down.
+[2015/11/10 13:00:00] <Hume2> Do you think that they could misuse the data to make a genocide?
