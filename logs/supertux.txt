@@ -2971,3 +2971,16 @@
 [2015/11/11 15:59:42] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v85SG
 [2015/11/11 15:59:44] <Not-6fa5> [02supertux] 07Tobias Markus 03ac5618c - Make tinygettext debug output depend on build type, fixes #222
 [2015/11/11 15:59:45] <Not-6fa5> [02supertux] 07tobbi closed issue 03#222: Remove tinygettext command line outputs - 13http://git.io/v81I5
+[2015/11/11 16:00:30] <Tobbi> head8debian: Do you have that worldmap ready, again?
+[2015/11/11 16:01:10] <Tobbi> I am talking about the rubberducks worldmap.
+[2015/11/11 16:02:07] <head8debian> quack quack...
+[2015/11/11 16:02:26] <Tobbi> head8debian: what?
+[2015/11/11 16:02:28] <brmbrmcar> Very funny.
+[2015/11/11 16:02:55] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/90603612
+[2015/11/11 16:03:07] <head8debian> Tobbi: Uhm... i don't have a .zip of it.
+[2015/11/11 16:03:20] <Tobbi> head8debian: But you do have the actual files, don't you?
+[2015/11/11 16:03:53] <head8debian> Yes.
+[2015/11/11 16:04:31] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/90603612
+[2015/11/11 16:05:02] <head8debian> Tobbi: https://cloud.openmailbox.org/index.php/s/gE3LoMHtpPYhV8U
+[2015/11/11 16:07:05] <brmbrmcar> rubber ducks
+[2015/11/11 16:12:49] <brmbrmcar> I like it.
