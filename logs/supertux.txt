@@ -2384,3 +2384,5 @@
 [2015/11/10 23:41:43] <maths22> The OSX one needs work so all the dependencies get included, but I think the others work
 [2015/11/10 23:43:34] <maths22> If these builds seem good, I can re-work the scripts to integrate better in the offical repos
 [2015/11/10 23:54:42] @ tux|dude joined channel #supertux
+[2015/11/11 00:03:14] @ Quit: tux|dude: Quit: Leaving
+[2015/11/11 00:04:06] @ tux|dude joined channel #supertux
