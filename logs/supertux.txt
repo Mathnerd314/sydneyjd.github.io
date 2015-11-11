@@ -2400,3 +2400,6 @@
 [2015/11/11 08:56:58] @ Mode +o Tobbi by ChanServ
 [2015/11/11 08:57:17] <Tobbi> maths22: Your nightly build didn't work on my Mac.
 [2015/11/11 08:57:17] <red_bot> Tobbi, you have notes! [Nov-10 17:41] <Karkus> Check it out -> https://github.com/SuperTux/supertux/pull/223
+[2015/11/11 09:02:03] @ Quit: VargaD: Ping timeout: 260 seconds
+[2015/11/11 09:03:11] @ VargaD joined channel #supertux
+[2015/11/11 09:10:31] @ Quit: ced117: Ping timeout: 246 seconds
