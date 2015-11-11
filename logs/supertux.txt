@@ -2391,3 +2391,4 @@
 [2015/11/11 01:54:33] @ tux|dude joined channel #supertux
 [2015/11/11 02:44:03] @ Quit: tuxdev_: Ping timeout: 252 seconds
 [2015/11/11 03:09:58] @ Fmttm joined channel #supertux
+[2015/11/11 03:15:13] @ Quit: Fmttm: Ping timeout: 240 seconds
