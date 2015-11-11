@@ -3143,3 +3143,8 @@
 [2015/11/11 17:48:56] @ Quit: Karkus: Quit: Leaving
 [2015/11/11 17:49:13] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2015/11/11 17:53:02] <Tobbi> Sure, I will.
+[2015/11/11 18:36:56] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±5] 13http://git.io/v8d1C
+[2015/11/11 18:36:58] <Not-6fa5> [02supertux] 07Tobias Markus 0364f20ae - Move language packs to their own menu
+[2015/11/11 18:37:00] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/90631474
+[2015/11/11 18:37:56] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/90631474
+[2015/11/11 18:39:20] <Tobbi> damn, what have I done :D
