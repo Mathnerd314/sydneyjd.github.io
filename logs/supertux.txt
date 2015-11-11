@@ -2905,3 +2905,13 @@
 [2015/11/11 14:59:24] <Tobbi> sounds good!
 [2015/11/11 14:59:40] <maths22> Actually, github does that for us
 [2015/11/11 14:59:42] <maths22> never mind that
+[2015/11/11 15:02:33] <Tobbi> hmm.
+[2015/11/11 15:05:03] <brmbrmcar> I looked through all the projects,
+[2015/11/11 15:05:20] <brmbrmcar> How long has it been up for?
+[2015/11/11 15:05:54] <maths22> Tobbi: is the notification not in the github repo settings?
+[2015/11/11 15:06:00] <maths22> s/notification/notifier/
+[2015/11/11 15:06:00] <red_bot> maths22 meant: "Tobbi: is the notifier not in the github repo settings?"
+[2015/11/11 15:06:23] <Tobbi> maths22: No, it's a webhook (called Notifico)
+[2015/11/11 15:06:56] <maths22> OK.  I know GitHub has a decent one built in
+[2015/11/11 15:07:06] <maths22> You could probably kill Notifico and enable it if you wanted to
+[2015/11/11 15:07:17] <Tobbi> Yeah, or create my own Notifico account.
