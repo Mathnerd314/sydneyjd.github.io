@@ -2403,3 +2403,12 @@
 [2015/11/11 09:02:03] @ Quit: VargaD: Ping timeout: 260 seconds
 [2015/11/11 09:03:11] @ VargaD joined channel #supertux
 [2015/11/11 09:10:31] @ Quit: ced117: Ping timeout: 246 seconds
+[2015/11/11 09:16:08] @ Fmttm joined channel #supertux
+[2015/11/11 09:20:14] <head8debian> Tobbi: o_O Stop breaking you Mac. :D
+[2015/11/11 09:20:31] <Tobbi> head8debian: It's not my mac which is broken.
+[2015/11/11 09:22:06] @ Quit: Fmttm: Ping timeout: 240 seconds
+[2015/11/11 09:23:22] @ ced117_ joined channel #supertux
+[2015/11/11 09:24:54] <head8debian> Tobbi: Oh, its his? :)
+[2015/11/11 09:25:05] <Tobbi> head8debian: He cross-compiled afaik.
+[2015/11/11 09:25:08] <Tobbi> And did it wrong.
+[2015/11/11 09:26:39] <head8debian> Oh.
