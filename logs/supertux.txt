@@ -2500,3 +2500,17 @@
 [2015/11/11 12:06:01] <Not-6fa5> [02supertux] 07Karkus476 closed pull request 03#223: Configs now per profile - 13http://git.io/v8MG4
 [2015/11/11 12:08:06] <Not-6fa5> [02supertux] 07Karkus476 unlabeled issue 03#184: Keyboard Layout Settings Per Profile - 13http://git.io/vCG2z
 [2015/11/11 12:08:07] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#184: Keyboard Layout Settings Per Profile - 13http://git.io/vCG2z
+[2015/11/11 12:21:18] <Tobbi> maths22: Can you try editing the Info.plist so that CFBundleExecutable is SuperTux and not supertux2?  <-- fixed it!
+[2015/11/11 12:22:09] <maths22> Great!
+[2015/11/11 12:22:39] <maths22> I'll push a new build now, so it should be ready within about 10 minutes
+[2015/11/11 12:22:51] <Tobbi> Thanks!
+[2015/11/11 12:25:46] @ Quit: tuxdev_: Ping timeout: 240 seconds
+[2015/11/11 12:25:52] <Tobbi> maths22: Why are the builds named 0.3.4-GIT, anyway? Shouldn't they say 0.3.5-GIT?
+[2015/11/11 12:26:05] <Tobbi> Is this a string we missed to change somewhere?
+[2015/11/11 12:26:09] <maths22> Probably...
+[2015/11/11 12:26:23] <Tobbi> maths22: Where is this generated from?
+[2015/11/11 12:26:50] <Tobbi> Ah, CPackConfig
+[2015/11/11 12:26:53] <Tobbi> I'll change it.
+[2015/11/11 12:28:39] <maths22> Ideally, more of our version numbers would be in the same place (so we don't have to go tracking each of them down to update the version)
+[2015/11/11 12:28:53] <Tobbi> Yeah, I wonder how that could be done.
+[2015/11/11 12:29:11] <maths22> I'll think about it...
