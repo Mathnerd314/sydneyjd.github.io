@@ -2574,3 +2574,33 @@
 [2015/11/11 12:58:53] <Karkus> Tobbi: Yeah
 [2015/11/11 12:59:13] <Karkus> Probably
 [2015/11/11 12:59:48] <Karkus> Not a very interesting experiment really though is it Tobbi?
+[2015/11/11 13:00:09] <Karkus> Outcomes 1) Cat ded 2) Cat live
+[2015/11/11 13:00:13] <Tobbi> Karkus: Not as interesting as the Babies-in-the-dishwasher experiment. Exactly!
+[2015/11/11 13:00:42] <Tobbi> While the babies-in-the-dishwasher experiment has a multitude of different outcomes, fractures, amount of blood etc.
+[2015/11/11 13:01:03] <Karkus> And all of them are super exciting!
+[2015/11/11 13:01:26] <Tobbi> For sure!
+[2015/11/11 13:01:37] <brmbrmcar> Poor babies.
+[2015/11/11 13:03:34] <Tobbi> brmbrmcar: No, wrong. Poor dishwasher, rather.
+[2015/11/11 13:03:36] <Karkus> Well, older rich people don't submit themse as willing volunteers
+[2015/11/11 13:03:43] <Karkus> themselves*
+[2015/11/11 13:06:29] <brmbrmcar> How about my method of harming babies?
+[2015/11/11 13:06:36] <brmbrmcar> No restraint.
+[2015/11/11 13:06:39] <brmbrmcar> Crash!
+[2015/11/11 13:08:54] <Karkus> Tobbi: You, know what's best about nightly builds?
+[2015/11/11 13:09:03] <Tobbi> Karkus: what?
+[2015/11/11 13:09:06] <Karkus> s/,//
+[2015/11/11 13:09:06] <red_bot> Karkus meant: "Tobbi: You know what's best about nightly builds?"
+[2015/11/11 13:09:22] <Karkus> Tobbi: More people can add to our issues page
+[2015/11/11 13:09:39] <Tobbi> Karkus: good? I think that's a bad thing :D
+[2015/11/11 13:09:44] <Tobbi> Meaning more bugs for all of us.
+[2015/11/11 13:09:50] <Tobbi> But wait, we had that topic, already.
+[2015/11/11 13:10:16] <brmbrmcar> Bugs are good.
+[2015/11/11 13:13:11] @ quit (seeya)
+[2015/11/11 13:13:13] @ Log closed by * (rescan or shutdown)
+[2015/11/11 13:14:31] @ Log started by red_bot
+[2015/11/11 13:14:31] @ Joined channel #supertux
+[2015/11/11 13:14:31] @ Topic is "Welcome to the SuperTux chat | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | ©häññèł łôǥ http://sydneyjd.github.io/logs/ | nightly builds http://brlcad.org/~maths22/supertux-nightly/"
+[2015/11/11 13:14:31] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-11-11 12:43:07 -0500
+[2015/11/11 13:14:32] <Karkus> Tobbi: Clearly it should be a word
+[2015/11/11 13:14:35] @ Mode +nt by adams.freenode.net
+[2015/11/11 13:15:00] <Karkus> Tobbi: Shall I close it?
