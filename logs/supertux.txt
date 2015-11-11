@@ -2372,3 +2372,4 @@
 [2015/11/10 20:04:53] @ Quit: jeezy: Changing host
 [2015/11/10 20:04:53] @ jeezy joined channel #supertux
 [2015/11/10 20:22:16] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2015/11/10 21:05:43] @ Quit: irungentoo: Remote host closed the connection
