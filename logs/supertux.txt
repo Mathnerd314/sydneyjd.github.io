@@ -3106,3 +3106,35 @@
 [2015/11/11 17:29:22] <Tobbi> Karkus: I don't think there's any reason. So, you can go ahead.
 [2015/11/11 17:29:31] <Tobbi> Plus we can always revert that commit.
 [2015/11/11 17:29:45] <Karkus> Tobbi: Okay. I will do so.
+[2015/11/11 17:30:36] <head8debian> Tobbi: Radio stations start way too early arould here.
+[2015/11/11 17:31:04] <Tobbi> head8debian: haha, I thought you meant SuperTux :D
+[2015/11/11 17:31:10] <head8debian> Tobbi: One started last week...
+[2015/11/11 17:31:16] <Tobbi> That's why I was worried a bit.
+[2015/11/11 17:31:55] <Tobbi> head8debian: I listened to christmas music a week ago or so.
+[2015/11/11 17:33:44] <Tobbi> Some of the German translations are so...bad...
+[2015/11/11 17:34:07] <Tobbi> "Take your pick" -> <translates as if someone would take an actual "pick">
+[2015/11/11 17:34:15] <Tobbi> You know...ice pick for example.
+[2015/11/11 17:36:15] <Karkus> Tobbi: tooth pick
+[2015/11/11 17:36:18] <Karkus> ?
+[2015/11/11 17:36:20] <Tobbi> Yeah, that too.
+[2015/11/11 17:36:30] <Tobbi> Karkus: Take your pick => Nimm deine Hacke :D
+[2015/11/11 17:36:40] <Tobbi> When in fact "Take a choice" was meant.
+[2015/11/11 17:36:41] <Tobbi> :D
+[2015/11/11 17:37:14] <Karkus> *sigh*
+[2015/11/11 17:37:56] @ GitHub146 joined channel #supertux
+[2015/11/11 17:37:58] -GitHub146- [13flexlay] 15Karkus476 opened pull request #37: Destroy Ruby/C++ Files (06develop...06clean) 02http://git.io/v8d06
+[2015/11/11 17:37:58] @ GitHub146 left channel #supertux ()
+[2015/11/11 17:38:29] <Karkus> Tobbi: I made this commit a while ago. Should our commits be showing up?
+[2015/11/11 17:39:21] <Tobbi> Karkus: no, they shouldn't. Please try to rebase.
+[2015/11/11 17:39:56] <Karkus> Ah, I made a mistake. I see now
+[2015/11/11 17:41:01] @ GitHub74 joined channel #supertux
+[2015/11/11 17:41:01] -GitHub74- [13flexlay] 15Karkus476 closed pull request #37: Destroy Ruby/C++ Files (06develop...06clean) 02http://git.io/v8d06
+[2015/11/11 17:41:01] @ GitHub74 left channel #supertux ()
+[2015/11/11 17:42:51] <Tobbi> You could've just rebased in the branch, then force-pushed ;(
+[2015/11/11 17:42:53] <Tobbi> ;)
+[2015/11/11 17:44:36] @ GitHub129 joined channel #supertux
+[2015/11/11 17:44:36] -GitHub129- [13flexlay] 15Karkus476 opened pull request #38: Deleted all ruby/c++ files (06develop...06clean) 02http://git.io/v8dui
+[2015/11/11 17:44:36] @ GitHub129 left channel #supertux ()
+[2015/11/11 17:44:39] <Karkus> Tobbi: I tried and something went horribly wrong
+[2015/11/11 17:44:44] <Tobbi> Okay.
+[2015/11/11 17:44:55] <Karkus> Tobbi: But now everything should be good.
