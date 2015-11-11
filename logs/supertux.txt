@@ -2377,3 +2377,5 @@
 [2015/11/10 21:41:17] @ Quit: tux|dude: Client Quit
 [2015/11/10 22:02:21] @ tux|dude joined channel #supertux
 [2015/11/10 22:33:53] @ Quit: tux|dude: Quit: Leaving
+[2015/11/10 23:22:30] @ Quit: head8debian: Ping timeout: 250 seconds
+[2015/11/10 23:23:35] @ head8debian joined channel #supertux
