@@ -2604,3 +2604,63 @@
 [2015/11/11 13:14:32] <Karkus> Tobbi: Clearly it should be a word
 [2015/11/11 13:14:35] @ Mode +nt by adams.freenode.net
 [2015/11/11 13:15:00] <Karkus> Tobbi: Shall I close it?
+[2015/11/11 13:15:17] <mt> maths22: please - try to link the linux binaries statically, else it will break on distros that don't use the same library versions as the build system's distro
+[2015/11/11 13:15:39] <Tobbi> Karkus: You could. I wonder how often maths22 is willing to build these, but, yeah, go ahead.
+[2015/11/11 13:16:09] <Karkus> Tobbi: Manually built?
+[2015/11/11 13:16:10] <mt> maths22: like "games/supertux2: error while loading shared libraries: libGLEW.so.1.10: cannot open shared object file: No such file or directory", I'm already using glew-1.13.0
+[2015/11/11 13:16:27] <Tobbi> Karkus: Oh, I mean "trigger a build", afaik he still has to do it.
+[2015/11/11 13:16:41] <brmbrmcar> ./supertux2: error while loading shared libraries: libtinygettext.so: cannot open shared object file: No such file or directory
+[2015/11/11 13:17:00] <mt> brmbrmcar: yeah that's because it's not statically linked
+[2015/11/11 13:17:04] <Karkus> Tobbi: Well, it can't be considered a nightly release then...
+[2015/11/11 13:17:26] <Tobbi> Karkus: hmm, right....but maybe he is willing to build them every day.
+[2015/11/11 13:17:35] <mt> Karkus: well, you can write a cronjob triggering it every night
+[2015/11/11 13:17:55] <Tobbi> I could've labeled them developer releases, but that would be confusing.
+[2015/11/11 13:18:00] <brmbrmcar> mt:So what do I have to do?
+[2015/11/11 13:18:25] <mt> brmbrmcar: wait until the builds are statically linked
+[2015/11/11 13:18:54] <brmbrmcar> What can I do in the meantime? Do i have to build tinygettext?
+[2015/11/11 13:19:02] <Karkus> mt: But does he want to? (or rather will he?)
+[2015/11/11 13:19:14] <Karkus> Tobbi: Yeah, not that
+[2015/11/11 13:19:50] <Tobbi> brmbrmcar: Why do you depend on developer releases. You know how to build supertux, don't you?
+[2015/11/11 13:20:20] <brmbrmcar> Not really.
+[2015/11/11 13:20:37] <Tobbi> brmbrmcar: You never built supertux yourself?
+[2015/11/11 13:20:39] <brmbrmcar> I don't know how to build sdl 2.03.
+[2015/11/11 13:20:48] <brmbrmcar> I used the ppa.
+[2015/11/11 13:20:48] <Tobbi> Do you need to build it?
+[2015/11/11 13:20:54] <Tobbi> So, where's the problem?
+[2015/11/11 13:20:55] <brmbrmcar> On Ubuntu.
+[2015/11/11 13:21:07] <brmbrmcar> All sorts of bugs.
+[2015/11/11 13:21:20] <brmbrmcar> And this was on my previous Ubuntu install.
+[2015/11/11 13:21:22] <mt> Building on Ubuntu works just fine
+[2015/11/11 13:21:35] <mt> Travis builds are running on ubuntu
+[2015/11/11 13:21:35] <Tobbi> Karkus: I believe we should assemble a WIP release notes document.
+[2015/11/11 13:21:53] <Tobbi> And make it organization-visible only for now.
+[2015/11/11 13:22:08] <Karkus> Tobbi: On Google docs for example?
+[2015/11/11 13:22:21] <Karkus> Or what and how?
+[2015/11/11 13:22:26] <Tobbi> Karkus: I wonder if Github allows you to do secret wiki pages?
+[2015/11/11 13:22:28] <Tobbi> let me check.
+[2015/11/11 13:22:37] <Karkus> Tobbi: Secret gist?
+[2015/11/11 13:22:49] <Karkus> Tobbi: I like this idea very much.
+[2015/11/11 13:22:54] <Tobbi> That might work!
+[2015/11/11 13:23:08] <Karkus> Tobbi: It doesn't have to be secret...
+[2015/11/11 13:23:24] <Tobbi> Sure, I just don't want people to assume this is an actual release right now.
+[2015/11/11 13:23:30] <Tobbi> So, yeah, indeed, there's nothing secret about it.
+[2015/11/11 13:24:22] <brmbrmcar> So I can't see it!
+[2015/11/11 13:25:06] <Tobbi> brmbrmcar: What?
+[2015/11/11 13:25:24] <Tobbi> Karkus: Are you drafting the gist or shall I?
+[2015/11/11 13:25:27] <Karkus> Tobbi: How do I create a gist as SuperTux?
+[2015/11/11 13:25:32] <Tobbi> Ah, one moment.
+[2015/11/11 13:25:34] <brmbrmcar> I won't be able to see it!
+[2015/11/11 13:25:44] <brmbrmcar> It is a secret.
+[2015/11/11 13:25:58] <Karkus> brmbrmcar: We'll see.
+[2015/11/11 13:26:15] <Karkus> Tobbi: Having a secret gist would be a little complex
+[2015/11/11 13:26:27] <Karkus> Tobbi: As in, anyone with the url could see it
+[2015/11/11 13:26:38] <Karkus> but the URL wouldn't have to be publiv
+[2015/11/11 13:26:45] <Tobbi> Karkus: There doesn't seem to be any way to create a gist as an organization.
+[2015/11/11 13:27:13] <Tobbi> https://gist.github.com/tobbi/c9fd5380aed73ce4bb82
+[2015/11/11 13:27:18] <Tobbi> Wonder if you can access it and edit it.
+[2015/11/11 13:28:22] <brmbrmcar> I can see it.
+[2015/11/11 13:28:28] <Tobbi> Yes, but editing...
+[2015/11/11 13:28:41] <Tobbi> actually, one moment.
+[2015/11/11 13:28:46] <mt> I wonder if forking as organization would work
+[2015/11/11 13:28:49] <brmbrmcar> Not editing.
+[2015/11/11 13:28:58] <Karkus> Nope.
