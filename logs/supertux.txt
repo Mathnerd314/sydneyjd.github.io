@@ -2365,3 +2365,4 @@
 [2015/11/10 18:14:10] @ Quit: Karkus: Ping timeout: 265 seconds
 [2015/11/10 18:36:09] @ Quit: Wuzzy: Quit: Wuzzy
 [2015/11/10 19:43:41] @ joniG59 joined channel #supertux
+[2015/11/10 19:53:44] @ Quit: joniG59: Quit: Page closed
