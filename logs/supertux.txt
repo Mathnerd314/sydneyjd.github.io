@@ -2418,3 +2418,33 @@
 [2015/11/11 10:09:28] @ tuxdev_ joined channel #supertux
 [2015/11/11 11:24:54] @ Quit: ced117_: Quit: Quitte
 [2015/11/11 11:27:37] @ brmbrmcar joined channel #supertux
+[2015/11/11 11:30:05] @ Hume2 joined channel #supertux
+[2015/11/11 11:31:46] <brmbrmcar> hello
+[2015/11/11 11:32:02] <Hume2> Hi, brmbrmcar.
+[2015/11/11 11:35:23] @ Karkus joined channel #supertux
+[2015/11/11 11:38:13] <Hume2> brmbrmcar: Do you know what coal mine is?
+[2015/11/11 11:38:37] <brmbrmcar> Hume2: Yes...
+[2015/11/11 11:38:57] <Hume2> bembemcar: Have you ever been in a coal mine?
+[2015/11/11 11:39:08] <Hume2> s/bembemcar/brmbrmcar/
+[2015/11/11 11:39:08] <red_bot> Hume2 meant: "brmbrmcar: Have you ever been in a coal mine?"
+[2015/11/11 11:40:05] <Karkus> ~seen Tobbi
+[2015/11/11 11:40:05] <red_bot> Karkus: Tobbi was last seen 47 seconds ago, joining #secretchronicles
+[2015/11/11 11:40:44] <brmbrmcar> Hume2: No.
+[2015/11/11 11:41:00] <head8debian> Tobbi will appear soon, maybe... :p
+[2015/11/11 11:41:08] <Hume2> brmbrmcar: I was. Can you at least imagine it?
+[2015/11/11 11:41:31] @ Tobbi joined channel #supertux
+[2015/11/11 11:41:32] @ Mode +o Tobbi by ChanServ
+[2015/11/11 11:41:39] <head8debian> Karkus: See. :D
+[2015/11/11 11:41:52] <Karkus> head8debian: :D
+[2015/11/11 11:42:04] <brmbrmcar> Hume2: Yes, I can.
+[2015/11/11 11:42:30] <Hume2> brmbrmcar: So why the level andrews_island_level6.stl has a castle background?
+[2015/11/11 11:42:40] <brmbrmcar> Will fix.
+[2015/11/11 11:42:57] <brmbrmcar> I also noticed a couple of things I forgot.
+[2015/11/11 11:43:00] <head8debian> Tobbi: ;( My neighbor down the road has 10mb/s internet. And im stuck on 3 with a unreliable ISP. :( :p
+[2015/11/11 11:43:01] <maths22> Also, I have discovered my RPM build does nto work
+[2015/11/11 11:43:08] <Tobbi> :D
+[2015/11/11 11:43:16] <Tobbi> head8debian: Ask them to upgrade you.
+[2015/11/11 11:43:25] <maths22> Tobbi: what version of OSX are you on?
+[2015/11/11 11:43:47] <Tobbi> maths22: 10.11.1
+[2015/11/11 11:44:13] <maths22> OK.  That actually may be why it doesn't work
+[2015/11/11 11:44:27] <maths22> I'll see if I can test/debug on a machine with El Capitan
