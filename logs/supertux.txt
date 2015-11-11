@@ -2376,3 +2376,4 @@
 [2015/11/10 21:38:25] @ tux|dude joined channel #supertux
 [2015/11/10 21:41:17] @ Quit: tux|dude: Client Quit
 [2015/11/10 22:02:21] @ tux|dude joined channel #supertux
+[2015/11/10 22:33:53] @ Quit: tux|dude: Quit: Leaving
