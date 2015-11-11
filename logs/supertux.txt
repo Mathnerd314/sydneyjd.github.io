@@ -3022,3 +3022,52 @@
 [2015/11/11 16:56:20] <Tobbi> :D
 [2015/11/11 16:56:30] <brmbrmcar> What sound effects?
 [2015/11/11 16:58:10] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/11 17:02:32] <Tobbi> Okay, so this should be a caching issue.
+[2015/11/11 17:03:02] <Tobbi> yes.
+[2015/11/11 17:05:30] <Karkus> Tobbi: Can we have multiplayer (on a single keyboard) as part of supertux 3?
+[2015/11/11 17:05:38] <Tobbi> Sounds good. File an issue.
+[2015/11/11 17:05:43] <Tobbi> We'd also need sprites...
+[2015/11/11 17:05:51] <Tobbi> I mean: We need a different player sprite.
+[2015/11/11 17:05:55] <Tobbi> and animations and everything.
+[2015/11/11 17:05:56] <Karkus> ik
+[2015/11/11 17:06:11] <Karkus> But I guess for now we could recolor tux in gimp
+[2015/11/11 17:06:19] <Karkus> takes a couple seconds
+[2015/11/11 17:06:50] <Tobbi> Possibly, sure.
+[2015/11/11 17:07:04] <Tobbi> but since this is for SuperTux 3 anyway...
+[2015/11/11 17:07:14] <Tobbi> Karkus: It'd mean split screen, right?
+[2015/11/11 17:07:22] <Karkus> Tobbi: TBC
+[2015/11/11 17:07:26] <Karkus> To Be Considered
+[2015/11/11 17:07:31] <Karkus> In this sense
+[2015/11/11 17:07:33] <Tobbi> sounds fun.
+[2015/11/11 17:07:34] <Tobbi> :D
+[2015/11/11 17:08:06] <Karkus> In the Mario games (I know I talk about these a lot) it's not split screen.
+[2015/11/11 17:08:25] <Tobbi> I finally (!!) managed to update the add-on index.
+[2015/11/11 17:08:27] <Karkus> Split screen would be infinity times harder to implement
+[2015/11/11 17:08:38] <Karkus> Tobbi: Index?
+[2015/11/11 17:08:42] <Tobbi> Karkus: But if one player is faster than the other?
+[2015/11/11 17:08:50] <Tobbi> Karkus: I added head8debian's worldmap changes for rubberduck
+[2015/11/11 17:09:02] <Karkus> Tobbi: Then the slower gets crushed on the screen
+[2015/11/11 17:09:12] <Tobbi> uhm...okay?
+[2015/11/11 17:09:13] <Tobbi> :D
+[2015/11/11 17:09:13] <Karkus> Tobbi: Great! Can you now close the issue?
+[2015/11/11 17:09:18] <Tobbi> Oh, of course.
+[2015/11/11 17:09:28] <Karkus> Tobbi: Have you really never played those games
+[2015/11/11 17:09:35] <Tobbi> Karkus: To be honest, no! :D
+[2015/11/11 17:09:40] <Karkus> New Super Mario Wii etc.
+[2015/11/11 17:09:50] <Karkus> Tobbi: Let me find a decent video
+[2015/11/11 17:10:02] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#185: Rework worldmap for "Rubberducks levels" - 13http://git.io/v8dGC
+[2015/11/11 17:10:03] <Not-6fa5> [02supertux] 07tobbi closed issue 03#185: Rework worldmap for "Rubberducks levels" - 13http://git.io/vCGHI
+[2015/11/11 17:10:45] <Karkus> Tobbi: We could actually have many players if we used the game controllers
+[2015/11/11 17:10:57] <Tobbi> Karkus: Do you own a game controller? :D
+[2015/11/11 17:11:04] <Tobbi> Because I don't and thus can't test support for that.
+[2015/11/11 17:11:07] <Karkus> Tobbi: I... don't know...
+[2015/11/11 17:11:27] <Karkus> Tobbi: What *is* a game controller which is compatible?
+[2015/11/11 17:11:38] <Tobbi> let me check.
+[2015/11/11 17:12:10] <Karkus> Tobbi: That's an SDL thing isn't it?
+[2015/11/11 17:12:26] <Tobbi> Karkus: indeed.
+[2015/11/11 17:13:50] <Tobbi> Karkus: I have also been thinking about a website where people can submit their add-ons. We review them and we can auto-push them to the game.
+[2015/11/11 17:13:53] <Tobbi> That would be fun.
+[2015/11/11 17:13:56] <Tobbi> No more editing nfo files.
+[2015/11/11 17:14:03] <Karkus> Tobbi: Definately
+[2015/11/11 17:14:05] <Karkus> https://youtu.be/pipMu0HXiU0?t=50s
+[2015/11/11 17:14:09] <Karkus> That one maybe
