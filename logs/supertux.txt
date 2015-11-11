@@ -2984,3 +2984,12 @@
 [2015/11/11 16:05:02] <head8debian> Tobbi: https://cloud.openmailbox.org/index.php/s/gE3LoMHtpPYhV8U
 [2015/11/11 16:07:05] <brmbrmcar> rubber ducks
 [2015/11/11 16:12:49] <brmbrmcar> I like it.
+[2015/11/11 16:16:02] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/90603612
+[2015/11/11 16:16:45] <Tobbi> head8debian: Can you install that add-on, because I can't.
+[2015/11/11 16:17:55] <brmbrmcar> I can't.
+[2015/11/11 16:19:16] <Tobbi> hrm.
+[2015/11/11 16:21:27] <brmbrmcar> How do you lie about yourv version number?
+[2015/11/11 16:22:26] <Tobbi> Okay, actually, I got it.
+[2015/11/11 16:25:14] <brmbrmcar> Update it.
+[2015/11/11 16:25:51] @ tuxdev_ joined channel #supertux
+[2015/11/11 16:26:27] @ Fmttm joined channel #supertux
