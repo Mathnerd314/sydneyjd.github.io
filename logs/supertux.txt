@@ -3071,3 +3071,38 @@
 [2015/11/11 17:14:03] <Karkus> Tobbi: Definately
 [2015/11/11 17:14:05] <Karkus> https://youtu.be/pipMu0HXiU0?t=50s
 [2015/11/11 17:14:09] <Karkus> That one maybe
+[2015/11/11 17:15:37] <Tobbi> Interesting.
+[2015/11/11 17:15:44] <Tobbi> So, maybe not that hard to implement.
+[2015/11/11 17:19:43] <Tobbi> Karkus: Playing with other people over the internet could be fun :D
+[2015/11/11 17:19:55] <Karkus> Tobbi: It would, yes
+[2015/11/11 17:20:34] <Karkus> I think we could have a huge leader board with top levels created by people all over the place
+[2015/11/11 17:20:50] <Karkus> And then you can play them. Multiplayer, too
+[2015/11/11 17:21:03] <Karkus> Compete for time or secrets etc.
+[2015/11/11 17:21:04] <Tobbi> That would be great.
+[2015/11/11 17:21:08] <Tobbi> But also alot of work.
+[2015/11/11 17:21:14] <Tobbi> But maybe we'll get people to contribute after 0.4.0
+[2015/11/11 17:21:19] <Karkus> Tobbi: No kidding
+[2015/11/11 17:21:29] <Tobbi> Karkus: But that's a good thing for a roadmap.
+[2015/11/11 17:22:40] <Karkus> Well, top priority after 0.4.0, for me at least, is flexlay. The problem is I think the code is too annoying. I'm not saying I could do better, but I think I could.
+[2015/11/11 17:23:15] <Karkus> It's all a bit disorganised
+[2015/11/11 17:24:21] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#224: Local 2 Player Multiplayer - 13http://git.io/v8d8T
+[2015/11/11 17:24:22] <Not-6fa5> [02supertux] 07Karkus476 opened issue 03#224: Local 2 Player Multiplayer - 13http://git.io/v8d8T
+[2015/11/11 17:24:24] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#224: Local 2 Player Multiplayer - 13http://git.io/v8d8T
+[2015/11/11 17:24:25] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#224: Local 2 Player Multiplayer - 13http://git.io/v8d8T
+[2015/11/11 17:24:27] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#224: Local 2 Player Multiplayer - 13http://git.io/v8d8T
+[2015/11/11 17:24:29] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#224: Local 2 Player Multiplayer - 13http://git.io/v8d8T
+[2015/11/11 17:26:09] <Tobbi> Karkus: Great thing! Flexlay definitely needs work/
+[2015/11/11 17:26:12] <Tobbi> In all areas.
+[2015/11/11 17:27:09] <head8debian> Tobbi: Ugg, christmas music... already.
+[2015/11/11 17:27:15] <Tobbi> head8debian: What?
+[2015/11/11 17:27:19] <Tobbi> head8debian: not for me...
+[2015/11/11 17:27:43] <Karkus> Tobbi: https://github.com/Karkus476/flexlay/tree/clean Have I shown you this? See the difference?
+[2015/11/11 17:27:45] <Tobbi> head8debian: What's your date set to?
+[2015/11/11 17:28:17] <Tobbi> Karkus: do we not need the makefile?
+[2015/11/11 17:28:37] <Karkus> Tobbi: It's written in Python...
+[2015/11/11 17:28:41] <Tobbi> Ah, right!
+[2015/11/11 17:29:01] <Karkus> Tobbi: Is there a reason why I can't do this?
+[2015/11/11 17:29:19] <Karkus> I worry about getting rid of so much code, but it's always on branch master if we need it
+[2015/11/11 17:29:22] <Tobbi> Karkus: I don't think there's any reason. So, you can go ahead.
+[2015/11/11 17:29:31] <Tobbi> Plus we can always revert that commit.
+[2015/11/11 17:29:45] <Karkus> Tobbi: Okay. I will do so.
