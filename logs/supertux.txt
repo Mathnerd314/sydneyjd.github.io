@@ -2811,3 +2811,27 @@
 [2015/11/11 14:13:33] <maths22> Tobbi: it also only packages the release one
 [2015/11/11 14:13:58] <maths22> Also, can we assemble a list of everywhere we use the version number (or development state, like the main logo)
 [2015/11/11 14:14:23] <Tobbi> yeah, we should do that.
+[2015/11/11 14:15:54] <Tobbi> By the way, guys: http://supertux.lethargik.org/wiki/Changelog_0.4.0_%28WIP%29
+[2015/11/11 14:16:21] <Tobbi> Karkus, mt, head8debian, maths22, brmbrmcar ^^ if you want to contribute
+[2015/11/11 14:17:00] <Tobbi> We would need to pick the most important changes and create releases notes from them.
+[2015/11/11 14:17:16] <maths22> Do we know of anywhere besides CMakeLists.txt and data/images/objects/logo/logo.sprite
+[2015/11/11 14:17:17] <Tobbi> I suggest we keep out the xmas stuff though, in order to keep them a surprise.
+[2015/11/11 14:17:46] <Tobbi> CMakeLists.txt
+[2015/11/11 14:17:53] <Tobbi> it uses patch levels etc.
+[2015/11/11 14:17:55] <Karkus> Tobbi: So this isn't the actual file, just a draft of things which have been added?
+[2015/11/11 14:18:05] <Karkus> To be developed into that.
+[2015/11/11 14:18:11] <Tobbi> Karkus: Yes, exactly.
+[2015/11/11 14:18:26] <Tobbi> Karkus: However, I intend to just move the file once it's ready and supertux is about to be released.
+[2015/11/11 14:20:09] <maths22> Tobbi: for releases, we can actually use http://docs.travis-ci.com/user/deployment/releases/
+[2015/11/11 14:20:24] <maths22> Tobbi: they will then go straight into github
+[2015/11/11 14:20:38] <maths22> I will mess with that feature later
+[2015/11/11 14:21:20] <Tobbi> maths22: How would those be triggered? We just add tags?
+[2015/11/11 14:21:46] <maths22> I believe so
+[2015/11/11 14:22:04] <maths22> I'll investigate tonight
+[2015/11/11 14:22:12] <Tobbi> ok
+[2015/11/11 14:23:08] <leyyin> maths22, only the new containers are 14.04? not the old infrastructure
+[2015/11/11 14:27:30] <leyyin> actually we can do windows cross compiling on linux, who needs windows anyways :P
+[2015/11/11 14:27:41] <Tobbi> :P
+[2015/11/11 14:27:47] <Tobbi> leyyin: well, I use it regularly...
+[2015/11/11 14:29:18] <maths22> leyyin: i actually was going to cross-comple, but then I discovered appveyor
+[2015/11/11 14:29:51] <leyyin> one problem I think it is, how you can upload the bundles securely to your file server
