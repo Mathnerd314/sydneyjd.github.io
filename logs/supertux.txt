@@ -2448,3 +2448,44 @@
 [2015/11/11 11:43:47] <Tobbi> maths22: 10.11.1
 [2015/11/11 11:44:13] <maths22> OK.  That actually may be why it doesn't work
 [2015/11/11 11:44:27] <maths22> I'll see if I can test/debug on a machine with El Capitan
+[2015/11/11 11:45:30] <head8debian> Tobbi: Uhm, they wouldn't because the person with the tower chose their most expensive plan. :D
+[2015/11/11 11:45:42] <Tobbi> head8debian: huh? :D
+[2015/11/11 11:45:44] <Tobbi> I see.
+[2015/11/11 11:45:56] <head8debian> $120/month...
+[2015/11/11 11:46:49] <head8debian> I have better upload speeds then them yet though. :D
+[2015/11/11 11:47:37] <maths22> Tobbi: What kind of error do you get?
+[2015/11/11 11:49:02] <Hume2> brmbrmcar: the level 5 was unlaunchable, so I corrected it.
+[2015/11/11 11:49:17] <head8debian> Tobbi: And i suposably have a bandwidth cap which ive never seen implemented when ive gone 5 times over it...
+[2015/11/11 11:49:20] <Tobbi> maths22: you can't open the application because it may be damaged or incomplete
+[2015/11/11 11:49:28] <Tobbi> :D
+[2015/11/11 11:49:40] <Hume2> brmbrmcar: You can edit the infoblock's message by editor. It's called "edit script", but it's the message in fact.
+[2015/11/11 11:49:48] <head8debian> Tobbi: roughtly 100gb. :p
+[2015/11/11 11:49:53] <Tobbi> :D
+[2015/11/11 11:50:00] <Tobbi> head8debian: I don't have a bandwidth cap, fortunately.
+[2015/11/11 11:50:06] <brmbrmcar> Hume2: I k-now.
+[2015/11/11 11:50:08] <head8debian> :)
+[2015/11/11 11:50:16] <maths22> Tobbi: see http://apple.stackexchange.com/a/58086
+[2015/11/11 11:50:19] <brmbrmcar> How do you change the font though?
+[2015/11/11 11:50:33] <maths22> Do you have that set to Anywhere, or something else?
+[2015/11/11 11:50:41] <head8debian> Tobbi: Your a city slicker... i live in the middle of knowwhere, 10 miles from decent internet. Ok, more like 3. :p
+[2015/11/11 11:50:42] <Hume2> brmbrmcar: You put the formating char to the begining.
+[2015/11/11 11:50:52] <Hume2> brmbrmcar: # stands for normal text.
+[2015/11/11 11:50:58] <brmbrmcar> OK.
+[2015/11/11 11:51:07] <brmbrmcar> Didn't know that.
+[2015/11/11 11:51:15] * head8debian should just start running fiber from house to house out here... then set up a cache server...
+[2015/11/11 11:51:20] <Hume2> brmbrmcar: - stands for big text, space is small text and tab is blue text.
+[2015/11/11 11:51:51] <Hume2> brmbrmcar: ! stands for image and any other char is black text.
+[2015/11/11 11:53:22] <Tobbi> maths22: Hmm, supertux opens just fine when I double-click on the contained executable.
+[2015/11/11 11:53:37] <maths22> That is what I expected
+[2015/11/11 11:53:48] <maths22> It is a silly OS X security issue type of thing
+[2015/11/11 11:53:57] <Hume2> brmbrmcar: For the level 5, it's nice. Just take a look at note 5 or 4. You can just add some poles so the wood won't levitate.
+[2015/11/11 11:54:08] <Tobbi> maths22: No, the issue is still there, even if I disable that thingy from above.
+[2015/11/11 11:54:22] <maths22> Tobbi: I figured
+[2015/11/11 11:55:18] <maths22> I'll try to fix that this afternoon
+[2015/11/11 11:56:00] <maths22> I also need to change linux so it includes the libraries in the package
+[2015/11/11 11:56:39] <Tobbi> maths22: So, do you know what's wrong then?
+[2015/11/11 11:57:20] <Hume2> brmbrmcar: level6, We have a cave background, even a cave music, so you can use it.
+[2015/11/11 11:57:32] <maths22> Not sure, but since it is not an El Capitan specifc issue, I should be able to debug it
+[2015/11/11 11:57:56] <Tobbi> ok
+[2015/11/11 11:59:04] <maths22> Can you try editing the Info.plist so that CFBundleExecutable is SuperTux and not supertux2?
+[2015/11/11 12:00:00] <Hume2> brmbrmcar: For level6, take a look at notes 4, 5, 6, 14 and 31.
