@@ -2890,3 +2890,18 @@
 [2015/11/11 14:42:10] <brmbrmcar>  /kick Not-6fa5
 [2015/11/11 14:43:46] <brmbrmcar> yellow_bot
 [2015/11/11 14:44:24] <Karkus> Bye everyone going away :D
+[2015/11/11 14:46:05] <brmbrmcar> ???
+[2015/11/11 14:48:36] @ Quit: mhall119: Ping timeout: 250 seconds
+[2015/11/11 14:49:51] <Tobbi> mt: You wouldn't know, by any chance, who set up Notifico, would you?
+[2015/11/11 14:50:49] @ mhall119 joined channel #supertux
+[2015/11/11 14:52:50] @ Quit: mhall119: Changing host
+[2015/11/11 14:52:51] @ mhall119 joined channel #supertux
+[2015/11/11 14:53:18] <Tobbi> Currently, I wouldn't know what to do.
+[2015/11/11 14:54:22] <brmbrmcar> What if you kick Not-6fa5?
+[2015/11/11 14:54:51] <Tobbi> brmbrmcar: I want to know who set it up, nothing else.
+[2015/11/11 14:55:00] <Tobbi> And we want to get the other commits messages...
+[2015/11/11 14:56:18] <brmbrmcar> OK then.
+[2015/11/11 14:59:15] <maths22> Tobbi: I also should add source tarballs (at least for tags)
+[2015/11/11 14:59:24] <Tobbi> sounds good!
+[2015/11/11 14:59:40] <maths22> Actually, github does that for us
+[2015/11/11 14:59:42] <maths22> never mind that
