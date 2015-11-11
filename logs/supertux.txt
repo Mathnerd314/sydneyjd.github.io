@@ -3008,3 +3008,17 @@
 [2015/11/11 16:36:58] @ Quit: claymore2: Quit: Leaving
 [2015/11/11 16:41:02] <brmbrmcar> Which problem?
 [2015/11/11 16:42:12] <Tobbi> I believe I will have it fixed soon.
+[2015/11/11 16:45:31] <brmbrmcar> Good.
+[2015/11/11 16:47:56] <Tobbi> argh
+[2015/11/11 16:48:48] * Karkus hands Tobbi another band-aid
+[2015/11/11 16:50:24] <brmbrmcar> Any injuries?
+[2015/11/11 16:50:52] <Tobbi> not yet.
+[2015/11/11 16:51:25] <head8debian> lol!
+[2015/11/11 16:52:38] <brmbrmcar> Like that cheap dummy.
+[2015/11/11 16:53:42] <Tobbi> Let's wait a few more minutes.
+[2015/11/11 16:54:40] <Tobbi> oh!
+[2015/11/11 16:56:13] <Karkus> Tobbi: It's very odd how you provide... sound effects
+[2015/11/11 16:56:18] <Karkus> :)
+[2015/11/11 16:56:20] <Tobbi> :D
+[2015/11/11 16:56:30] <brmbrmcar> What sound effects?
+[2015/11/11 16:58:10] @ Quit: brmbrmcar: Quit: brmbrmquit
