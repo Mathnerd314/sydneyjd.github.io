@@ -2551,3 +2551,26 @@
 [2015/11/11 12:44:08] <mt> Let's make a translation with English but randomly added accents etc...
 [2015/11/11 12:44:27] @ Tobbi set topic "Welcome to the SuperTux chat | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | ©häññèł łôǥ http://sydneyjd.github.io/logs/ | nightly http://brlcad.org/~maths22/supertux-nightly/"
 [2015/11/11 12:44:28] <mt> Similar to Twitter's LOLCATZ language option
+[2015/11/11 12:45:15] @ Tobbi set topic "Welcome to the SuperTux chat | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | ©häññèł łôǥ http://sydneyjd.github.io/logs/ | nightly builds http://brlcad.org/~maths22/supertux-nightly/"
+[2015/11/11 12:45:18] <Tobbi> woo
+[2015/11/11 12:45:28] * head8debian feels like pulling his hair out...
+[2015/11/11 12:45:43] <Tobbi> Apparently I didn't exceed the character count.
+[2015/11/11 12:45:45] <Tobbi> head8debian: what_
+[2015/11/11 12:45:46] <Tobbi> ?
+[2015/11/11 12:46:31] <head8debian> Im tryign to set up squid with 2 ethernet cards and nano... :p
+[2015/11/11 12:46:33] <mt> no https (or at least hashes) for the nightly builds?
+[2015/11/11 12:46:56] <Tobbi> ask maths22
+[2015/11/11 12:47:18] <mt> next week you'll have no execuse for not supporting TLS (https://letsencrypt.org/) :P
+[2015/11/11 12:47:55] <Tobbi> great!
+[2015/11/11 12:51:35] <brmbrmcar> maths22: How do I install the linux tar.gz file?
+[2015/11/11 12:53:50] <Tobbi> maths22, head8debian, Karkus, mt: What do you guys think? http://forum.freegamedev.net/viewtopic.php?f=67&t=6630
+[2015/11/11 12:55:53] <Karkus> Tobbi: Great!
+[2015/11/11 12:55:59] <Tobbi> Good!
+[2015/11/11 12:56:04] <Tobbi> So there's that.
+[2015/11/11 12:56:33] <Karkus> Tobbi: The only thing on that list which has remained unaffected by this project is my cat
+[2015/11/11 12:56:50] <Tobbi> :D
+[2015/11/11 12:58:39] <Tobbi> Karkus: If I had a cat, I believe, I'd try Schroedinger's experiment with it.
+[2015/11/11 12:58:47] <Tobbi> So, it's good that I don't have one.
+[2015/11/11 12:58:53] <Karkus> Tobbi: Yeah
+[2015/11/11 12:59:13] <Karkus> Probably
+[2015/11/11 12:59:48] <Karkus> Not a very interesting experiment really though is it Tobbi?
