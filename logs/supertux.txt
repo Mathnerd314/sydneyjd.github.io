@@ -2720,3 +2720,31 @@
 [2015/11/11 13:44:08] <Tobbi> Karkus: yup.
 [2015/11/11 13:44:49] <Karkus> Tobbi: Nothing, not even in my spam folder
 [2015/11/11 13:44:58] <Tobbi> Okay, in that case, let me check.
+[2015/11/11 13:45:19] * leyyin sends spam to Karkus 
+[2015/11/11 13:45:48] <brmbrmcar> 0y leyyin!
+[2015/11/11 13:46:00] @ Quit: Hume2: Quit: Page closed
+[2015/11/11 13:46:03] <maths22> mt: On my todo list
+[2015/11/11 13:46:13] <maths22> about static linking
+[2015/11/11 13:46:44] <mt> ok
+[2015/11/11 13:47:23] <maths22> Also, once it is integrated into the offical repos, it should be triggered by a push
+[2015/11/11 13:47:46] <Tobbi> maths22: How often will you trigger builds?
+[2015/11/11 13:48:40] <maths22> Tobbi: once everything is working, there will be a set of pull requests (to tinygettext, squirrel, and supertux)
+[2015/11/11 13:48:47] <maths22> After that, it will run on every commit
+[2015/11/11 13:49:05] <maths22> it uses travis to handle the OS X and Linux builds
+[2015/11/11 13:49:10] <Tobbi> Good!
+[2015/11/11 13:49:16] <maths22> AppVeyor is used to handle Windows
+[2015/11/11 13:49:34] <Tobbi> Karkus: Mediawiki is great! It doesn't allow me to change a password for a user without access to a database.
+[2015/11/11 13:49:42] <Tobbi> It only allows me to send a password reset email :D
+[2015/11/11 13:50:10] <maths22> Also, I think I may change the upload name to include the commit hash (and only keep tags and the 10 most recent or something like that)
+[2015/11/11 13:50:18] <maths22> I also need to fix the OSX icon
+[2015/11/11 13:51:23] <brmbrmcar> Tobbi: What's wrong with that?
+[2015/11/11 13:51:29] <Tobbi> one moment.
+[2015/11/11 13:52:35] <Tobbi> Karkus: PM
+[2015/11/11 13:55:31] <leyyin> maths22, any documentation on how you did the builds on travis? :D
+[2015/11/11 13:57:40] <Tobbi> Oh! AppVeyor is free for opensource apps...
+[2015/11/11 13:57:41] <Tobbi> Great!
+[2015/11/11 13:58:43] <brmbrmcar> Free!
+[2015/11/11 13:59:03] <head8debian> Yay! Polipo! :p
+[2015/11/11 13:59:26] <brmbrmcar> Celebrate!
+[2015/11/11 13:59:32] <brmbrmcar> :)
+[2015/11/11 13:59:47] <Tobbi> We could actually assemble a list of people who contributed and update the credits.
