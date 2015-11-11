@@ -2393,3 +2393,4 @@
 [2015/11/11 03:09:58] @ Fmttm joined channel #supertux
 [2015/11/11 03:15:13] @ Quit: Fmttm: Ping timeout: 240 seconds
 [2015/11/11 03:39:58] <maths22> OSX should be working now as well
+[2015/11/11 04:40:40] @ Quit: tux|dude: Quit: Leaving
