@@ -2993,3 +2993,18 @@
 [2015/11/11 16:25:14] <brmbrmcar> Update it.
 [2015/11/11 16:25:51] @ tuxdev_ joined channel #supertux
 [2015/11/11 16:26:27] @ Fmttm joined channel #supertux
+[2015/11/11 16:30:47] @ Quit: Fmttm: Ping timeout: 240 seconds
+[2015/11/11 16:31:57] <Not-6fa5> [02supertux-editor] 07brmbrmcar starred 03supertux-editor - 13http://git.io/vn4Vk
+[2015/11/11 16:32:44] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#222: Remove tinygettext command line outputs - 13http://git.io/v81I5
+[2015/11/11 16:34:32] <head8debian> Tobbi: Did it work>
+[2015/11/11 16:34:32] <head8debian> ?
+[2015/11/11 16:34:57] <Tobbi> Let's see...
+[2015/11/11 16:35:16] <head8debian> I didn't get anywhere with it.
+[2015/11/11 16:36:00] <Tobbi> ouch!
+[2015/11/11 16:36:10] <head8debian> Tobbi: o_O
+[2015/11/11 16:36:19] * head8debian hands Tobbi a band-aid...
+[2015/11/11 16:36:22] <Tobbi> no.
+[2015/11/11 16:36:27] <Tobbi> I made a problem worse.
+[2015/11/11 16:36:58] @ Quit: claymore2: Quit: Leaving
+[2015/11/11 16:41:02] <brmbrmcar> Which problem?
+[2015/11/11 16:42:12] <Tobbi> I believe I will have it fixed soon.
