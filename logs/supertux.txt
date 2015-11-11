@@ -2415,3 +2415,4 @@
 [2015/11/11 09:36:11] @ Quit: Tobbi: Ping timeout: 252 seconds
 [2015/11/11 09:38:34] <maths22> No cross-compiling; it is native
 [2015/11/11 09:38:50] <maths22> What version of OS X?
+[2015/11/11 10:09:28] @ tuxdev_ joined channel #supertux
