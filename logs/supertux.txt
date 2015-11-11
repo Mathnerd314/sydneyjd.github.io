@@ -2664,3 +2664,59 @@
 [2015/11/11 13:28:46] <mt> I wonder if forking as organization would work
 [2015/11/11 13:28:49] <brmbrmcar> Not editing.
 [2015/11/11 13:28:58] <Karkus> Nope.
+[2015/11/11 13:30:22] <Karkus> Tobbi: Damn.
+[2015/11/11 13:30:31] <Tobbi> one moment, I'll find a way...
+[2015/11/11 13:30:32] <brmbrmcar> I forked it.
+[2015/11/11 13:30:33] <Tobbi> an etherpad, or something.
+[2015/11/11 13:30:39] <brmbrmcar> And could edit.
+[2015/11/11 13:30:48] <Karkus> brmbrmcar: Won't help.
+[2015/11/11 13:31:21] <brmbrmcar> I k-now.
+[2015/11/11 13:31:22] <Tobbi> https://oasis.sandstorm.io/grain/JFihnpgdnEQByhtYwgTpiy/
+[2015/11/11 13:31:28] <Tobbi> Or we could use the wiki :D
+[2015/11/11 13:31:43] <brmbrmcar> Unauthorized [403]
+[2015/11/11 13:31:55] @ claymore2 joined channel #supertux
+[2015/11/11 13:32:01] <Tobbi> Right!
+[2015/11/11 13:32:16] <Tobbi> This one: https://oasis.sandstorm.io/shared/kIvwloyP32rBIhx7unZqnYlh0vjBAVSmEcMLiG0UQQl
+[2015/11/11 13:32:44] <brmbrmcar> I can see it.
+[2015/11/11 13:32:59] <Karkus> Tobbi: What exactly have you put in there?
+[2015/11/11 13:33:41] <leyyin> Tobbi, your document is getting vandalized
+[2015/11/11 13:33:52] <Tobbi> leyyin: By you?
+[2015/11/11 13:34:03] <leyyin> I only added "Woohooo"
+[2015/11/11 13:34:07] <Tobbi> gargh
+[2015/11/11 13:34:11] <Tobbi> Let's try the wiki.
+[2015/11/11 13:34:26] <Tobbi> Karkus: I added git shortlog v0.3.5..HEAD
+[2015/11/11 13:34:28] <Karkus> Tobbi: I just wondered if it worked
+[2015/11/11 13:34:35] <Tobbi> Aka, all commits since v0.3.5a
+[2015/11/11 13:34:39] <Karkus> Tobbi: Oh, all the git commits
+[2015/11/11 13:34:41] <Tobbi> oh!
+[2015/11/11 13:34:41] <Karkus> Okay
+[2015/11/11 13:34:43] <Tobbi> one moment.
+[2015/11/11 13:34:47] <Tobbi> Wrong version.
+[2015/11/11 13:35:04] <mt> can '^Merge pull request #.*' be excluded
+[2015/11/11 13:35:20] <brmbrmcar> I think so.
+[2015/11/11 13:35:22] <Karkus> Tobbi: You can stop it getting vandalised by just anyone can you not?
+[2015/11/11 13:35:30] <Tobbi> I could
+[2015/11/11 13:35:36] <Tobbi> Karkus: I believe we should use the wiki, though.
+[2015/11/11 13:35:40] <Tobbi> Now that I think about it.
+[2015/11/11 13:35:47] <Karkus> I typed the newlines. But they're gone now
+[2015/11/11 13:35:51] <Tobbi> Anyone here who does not have a wiki account?
+[2015/11/11 13:36:03] <Karkus> Err... Me I think.
+[2015/11/11 13:36:06] <Karkus> Let me check
+[2015/11/11 13:36:27] <brmbrmcar> Done.
+[2015/11/11 13:36:38] <Tobbi> brmbrmcar: done what?
+[2015/11/11 13:37:59] <brmbrmcar> Removed merge pull requests.
+[2015/11/11 13:38:05] <Tobbi> ok
+[2015/11/11 13:39:18] <Karkus> http://supertux.lethargik.org/wiki/Special:UserLogin/signup I cannot create an account
+[2015/11/11 13:39:37] <Tobbi> Alright!
+[2015/11/11 13:39:42] <Tobbi> Karkus: I will create an account for you.
+[2015/11/11 13:39:57] <Karkus> Tobbi: Is that how it works?
+[2015/11/11 13:39:58] <Tobbi> Karkus: desired username? Karkus?
+[2015/11/11 13:40:00] <Tobbi> Karkus: Yes.
+[2015/11/11 13:40:08] <Karkus> Tobbi: Yup
+[2015/11/11 13:40:16] <brmbrmcar> mailto:supertux-team@lists.lethargik.org?subject=New%20Wiki%20Account&amp;body=Hi,%0A%0Aplease%20create%20an%20account%20for%20Supertux%20Wiki.%0AUser%20Name:%20...%0A
+[2015/11/11 13:42:56] <Tobbi> Karkus: You should've gotten an e-mail.
+[2015/11/11 13:43:57] <brmbrmcar> http://supertux.lethargik.org/wiki/index.php?title=Special:RecentChanges&hidebots=0
+[2015/11/11 13:44:00] <Karkus> Tobbi: karkus476@yahoo.com ?
+[2015/11/11 13:44:08] <Tobbi> Karkus: yup.
+[2015/11/11 13:44:49] <Karkus> Tobbi: Nothing, not even in my spam folder
+[2015/11/11 13:44:58] <Tobbi> Okay, in that case, let me check.
