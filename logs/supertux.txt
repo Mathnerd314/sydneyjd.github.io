@@ -2916,3 +2916,28 @@
 [2015/11/11 15:07:06] <maths22> You could probably kill Notifico and enable it if you wanted to
 [2015/11/11 15:07:17] <Tobbi> Yeah, or create my own Notifico account.
 [2015/11/11 15:29:40] <brmbrmcar> Any advances?
+[2015/11/11 15:31:13] <Tobbi> brmbrmcar: What do you mean by advances?
+[2015/11/11 15:31:23] <Not-6fa5> [02supertux] 07sydneyjd commented on issue 03#218: Add high resolution icon - 13http://git.io/v85rp
+[2015/11/11 15:32:35] @ tux|dude joined channel #supertux
+[2015/11/11 15:33:00] <Tobbi> actually!
+[2015/11/11 15:33:06] <Tobbi> One moment, I got a good idea.
+[2015/11/11 15:33:44] <Tobbi> As opposed to having a bad idea which happens in 99% of the other cases.
+[2015/11/11 15:34:35] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#218: Add high resolution icon - 13http://git.io/v85K0
+[2015/11/11 15:34:53] <brmbrmcar> Ooh, 1 in 100 situation!
+[2015/11/11 15:35:21] <Tobbi> brmbrmcar: I am opposed to having a vote for simple changes like these.
+[2015/11/11 15:37:25] <brmbrmcar> Oh dear.
+[2015/11/11 15:37:37] <brmbrmcar> 100 in 100 situation!
+[2015/11/11 15:37:43] <Tobbi> what?
+[2015/11/11 15:37:58] <brmbrmcar> 4913 in 4913!
+[2015/11/11 15:38:06] <Tobbi> stop.
+[2015/11/11 15:38:06] <brmbrmcar> Always.
+[2015/11/11 15:38:08] <brmbrmcar> OK
+[2015/11/11 15:39:47] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±2] 13http://git.io/v856N
+[2015/11/11 15:39:49] <Not-6fa5> [02supertux] 07Tobias Markus 034e99130 - Make intro logo depend on CMAKE_BUILD_TYPE setting, fixes #178
+[2015/11/11 15:39:50] <Not-6fa5> [02supertux] 07tobbi closed issue 03#178: Change SuperTux logo from development one to default one - 13http://git.io/vCqcA
+[2015/11/11 15:40:25] <Tobbi> I didn't mean to add those two extra lines :D
+[2015/11/11 15:41:10] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v85ic
+[2015/11/11 15:41:11] <Not-6fa5> [02supertux] 07Tobias Markus 03ea09b39 - Remove extra lines [ci skip]
+[2015/11/11 15:41:38] <brmbrmcar> Awesome https://youtu.be/FTKxCE5qmQM?t=2m4s
+[2015/11/11 15:41:53] <brmbrmcar> Second one.
+[2015/11/11 15:44:46] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/90600214
