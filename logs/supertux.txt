@@ -2835,3 +2835,58 @@
 [2015/11/11 14:27:47] <Tobbi> leyyin: well, I use it regularly...
 [2015/11/11 14:29:18] <maths22> leyyin: i actually was going to cross-comple, but then I discovered appveyor
 [2015/11/11 14:29:51] <leyyin> one problem I think it is, how you can upload the bundles securely to your file server
+[2015/11/11 14:30:04] <leyyin> so that no one can hijack the upload, and upload something malicious
+[2015/11/11 14:30:37] <maths22> the key will be changed and moved on an encrypted envvar
+[2015/11/11 14:31:22] <Not-6fa5> [02supertux] 07Karkus476 closed issue 03#219: Weekly/Fortnightly Releases - 13http://git.io/v8CS5
+[2015/11/11 14:31:26] <leyyin> right http://docs.travis-ci.com/user/encryption-keys/
+[2015/11/11 14:31:46] <maths22> appveyor has the same feature
+[2015/11/11 14:32:40] <Tobbi> I'd like to check how to invalidate tinygettext's caches on installing a language add-on.
+[2015/11/11 14:32:45] <maths22> it also doesnt populate them for pull requests, so a nalicious pull request cant hurt
+[2015/11/11 14:32:51] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#216: Image recompression is overly agressive - 13http://git.io/v85tX
+[2015/11/11 14:33:35] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#216: Image recompression is overly agressive - 13http://git.io/v85tN
+[2015/11/11 14:33:48] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+4/-0/±1231] 13http://git.io/v85tj
+[2015/11/11 14:33:49] <Not-6fa5> [02supertux] 07Tobias Markus 0318079cd - Revert image compression, fixes #216
+[2015/11/11 14:33:51] <Not-6fa5> [02supertux] 07tobbi closed issue 03#216: Image recompression is overly agressive - 13http://git.io/v8txh
+[2015/11/11 14:33:55] <Tobbi> see!
+[2015/11/11 14:34:08] <maths22> what?
+[2015/11/11 14:34:14] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#184: Keyboard Layout Settings Per Profile - 13http://git.io/v85qt
+[2015/11/11 14:34:26] <leyyin> Tobbi, http://docs.travis-ci.com/user/caching/ ?
+[2015/11/11 14:34:36] <leyyin> private repos :D
+[2015/11/11 14:34:40] <maths22> also, are all of you in Europe?
+[2015/11/11 14:34:44] <leyyin> make supertux private, profit :P
+[2015/11/11 14:34:48] <Tobbi> Ah, right.
+[2015/11/11 14:34:51] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#216: Image recompression is overly agressive - 13http://git.io/v85qW
+[2015/11/11 14:35:02] <leyyin> yes, east Europe master race ;)
+[2015/11/11 14:35:03] <Tobbi> maths22: head8debian isn't. Not sure about the others.
+[2015/11/11 14:35:26] <brmbrmcar> Why did you revert everything?
+[2015/11/11 14:35:38] <Tobbi> data head8888 isn't in Europe, either afaik.
+[2015/11/11 14:35:44] <Tobbi> brmbrmcar: It tells you why in the commit msg.
+[2015/11/11 14:35:54] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#218: Add high resolution icon - 13http://git.io/v85qQ
+[2015/11/11 14:36:13] <brmbrmcar> I k-now that.
+[2015/11/11 14:36:17] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#218: Add high resolution icon - 13http://git.io/v8Z0A
+[2015/11/11 14:36:27] <brmbrmcar> I mean why "all".
+[2015/11/11 14:36:39] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#215: Add sprite for butt-jumped Iceblock and frozen spiked enemies - 13http://git.io/vl413
+[2015/11/11 14:36:47] <Tobbi> brmbrmcar: Because I was too lazy to go through all the images and pick...
+[2015/11/11 14:37:02] <brmbrmcar> OK.
+[2015/11/11 14:37:03] <Karkus> Tobbi: I don't think GitHub should tell us here when something is labelled...
+[2015/11/11 14:37:12] <Tobbi> Hmm, I'll check.
+[2015/11/11 14:37:18] <Tobbi> whether that's something I can change.
+[2015/11/11 14:37:36] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#208: Poll: Which Wiki? - 13http://git.io/vWDTs
+[2015/11/11 14:37:38] <brmbrmcar> Notifico!
+[2015/11/11 14:38:54] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#207: Bug with switches. - 13http://git.io/vW1WC
+[2015/11/11 14:39:00] <Tobbi> Karkus: I don't have any fine-grained control... only [x] issues or [ ] issues
+[2015/11/11 14:39:34] <Tobbi> So, I guess we should live with it.
+[2015/11/11 14:39:44] <Karkus> Tobbi: But it's spammy
+[2015/11/11 14:40:01] <Tobbi> Karkus: Okay, so no messages about issues at all?
+[2015/11/11 14:40:05] <Karkus> Tobbi: It doesn't do that when you change the milestone
+[2015/11/11 14:40:17] <Karkus> Tobbi: I want to see comments >:(
+[2015/11/11 14:40:24] <Karkus> This is frustrating
+[2015/11/11 14:40:40] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#172: Investigate travis build issue of glbinding on clang - 13http://git.io/vcKqj
+[2015/11/11 14:41:01] <Tobbi> Ah
+[2015/11/11 14:41:18] <Tobbi> Who registered notifico?
+[2015/11/11 14:41:33] <brmbrmcar> No idea.
+[2015/11/11 14:41:37] <brmbrmcar> Replace!
+[2015/11/11 14:41:45] <Karkus> ^^ Not that I would
+[2015/11/11 14:42:10] <brmbrmcar>  /kick Not-6fa5
+[2015/11/11 14:43:46] <brmbrmcar> yellow_bot
+[2015/11/11 14:44:24] <Karkus> Bye everyone going away :D
