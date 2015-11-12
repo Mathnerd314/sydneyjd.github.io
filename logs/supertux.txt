@@ -3808,3 +3808,48 @@
 [2015/11/12 13:58:58] <brmbrmcar> I dare not say the full chemical name of Titin.
 [2015/11/12 13:59:11] <brmbrmcar> But I would if talking about it.
 [2015/11/12 13:59:37] <brmbrmcar> I know nothing about Titin.
+[2015/11/12 14:00:06] <head8debian> brmbrmcar: its a protein, thats all i know.
+[2015/11/12 14:00:11] <Karkus> Tobbi: What are the German views on the Second World War? Is it rude to talk about or make fun of it?
+[2015/11/12 14:00:46] <Karkus> Specifically Germany
+[2015/11/12 14:00:57] <Tobbi> Karkus: That's a really good question...I believe it's kind of a taboo subject here, still...
+[2015/11/12 14:01:19] <Tobbi> We don't make fun of it.
+[2015/11/12 14:01:34] <head8debian> We don't either.
+[2015/11/12 14:01:35] <Karkus> Tobbi: I don't mean in a disrespectful way.
+[2015/11/12 14:01:37] <Tobbi> Karkus: Problem is: Because of the refugee crisis, the right-wing parties get more attration.
+[2015/11/12 14:01:38] <head8debian> I don't think.
+[2015/11/12 14:01:43] <Tobbi> Karkus: It's perfectly alright.
+[2015/11/12 14:02:05] <Karkus> Tobbi: Well, what about this? https://www.youtube.com/watch?v=CDeG4S-mJts
+[2015/11/12 14:02:13] <Tobbi> Karkus: hah, damn.
+[2015/11/12 14:02:18] <Tobbi> Karkus: Okay, you got me. I find that funny.
+[2015/11/12 14:02:21] <brmbrmcar> Only because of a few idiots who started a war.
+[2015/11/12 14:02:24] <Tobbi> Karkus: Hitler parodies are something different.
+[2015/11/12 14:02:44] <Karkus> Tobbi: You've seen it already then? :P
+[2015/11/12 14:02:52] <Tobbi> Karkus:  yeah ! :D
+[2015/11/12 14:02:57] <Karkus> Of course :P
+[2015/11/12 14:03:07] <Tobbi> Karkus: https://www.youtube.com/watch?v=ISz9w8pTZZE
+[2015/11/12 14:05:27] <Karkus> Tobbi: I guess the Git video must be odd for you because you can hear the normal speech
+[2015/11/12 14:05:34] <brmbrmcar> git clone Hitler
+[2015/11/12 14:05:34] <Karkus> Understand
+[2015/11/12 14:05:37] <Tobbi> Karkus: Yes, I have to concentrate a lot.
+[2015/11/12 14:06:36] <Tobbi> Karkus: https://www.youtube.com/watch?v=-GVeDziJqjM :P
+[2015/11/12 14:06:58] <brmbrmcar> git commit -am"New encryption of stuff. I do hope this is not available onGitHub."
+[2015/11/12 14:08:16] <Karkus> Tobbi: Right. haha.
+[2015/11/12 14:09:42] <Tobbi> Karkus: It's from a really funny movie which unfortunately isn't available in English, I believe.
+[2015/11/12 14:09:49] <Karkus> fatal: Not a git repository (or any of the parent directories): .git
+[2015/11/12 14:10:46] <brmbrmcar> (From my computer) git commit -am "You idiots! You gave me write access! I have deleted your entire database!"
+[2015/11/12 14:10:52] <brmbrmcar> git bush Hitler
+[2015/11/12 14:11:03] <brmbrmcar> s/bush/push/
+[2015/11/12 14:11:03] <red_bot> brmbrmcar meant: "git push Hitler"
+[2015/11/12 14:11:43] <Karkus> Tobbi: Changing the subject have you ever heard of "Esperantor"
+[2015/11/12 14:11:46] <Karkus> Tobbi: Changing the subject have you ever heard of "Esperanto"
+[2015/11/12 14:12:03] <Tobbi> Karkus: yeah, of course. Plansprache (= Plan language)?
+[2015/11/12 14:12:18] <Karkus> yeah
+[2015/11/12 14:12:19] @ xet7 joined channel #supertux
+[2015/11/12 14:12:35] <Karkus> It would actually be really good.
+[2015/11/12 14:12:53] <brmbrmcar> I don't understand!
+[2015/11/12 14:13:23] <Karkus> It's super easy to learn, takes a couple months to become fluent in it. (I've heard)
+[2015/11/12 14:13:32] <Karkus> Very similar to Latin
+[2015/11/12 14:13:46] <Tobbi> Karkus: https://www.youtube.com/watch?v=5aTu-TX3img
+[2015/11/12 14:13:52] <Tobbi> English trailer for the movie.
+[2015/11/12 14:14:16] <brmbrmcar> Fluent at what?
+[2015/11/12 14:14:44] <Karkus> brmbrmcar: Esperanto
