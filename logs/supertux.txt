@@ -3352,3 +3352,49 @@
 [2015/11/12 11:53:29] <brmbrmcar> I listen to all the bumps and creaks!
 [2015/11/12 11:53:34] <head8debian> lol.
 [2015/11/12 11:53:56] <brmbrmcar> Way better. :D
+[2015/11/12 12:01:56] <brmbrmcar> head8debian: Which motor do you drive in?
+[2015/11/12 12:02:37] <head8debian> brmbrmcar: Vehicle? Or motor?
+[2015/11/12 12:02:44] <brmbrmcar> Vehichle.
+[2015/11/12 12:02:44] <head8debian> brmbrmcar: A V10.
+[2015/11/12 12:02:51] <head8debian> brmbrmcar: Ford Excursion.
+[2015/11/12 12:03:05] <brmbrmcar> How old?
+[2015/11/12 12:03:12] <head8debian> brmbrmcar: 13 years.
+[2015/11/12 12:03:17] <head8debian> brmbrmcar: quack it. :p
+[2015/11/12 12:03:59] <head8debian> brmbrmcar: The other vehicle is a 2001 Dodge Ram. 24 valve. 6 cylinder Diesel.
+[2015/11/12 12:04:21] <head8debian> Actually, its an 8 cylinder.
+[2015/11/12 12:04:25] <head8debian> Cummins. :D
+[2015/11/12 12:04:59] <brmbrmcar> OK.
+[2015/11/12 12:05:02] <head8debian> brmbrmcar: quack it = look it up on duckduckgo...
+[2015/11/12 12:05:08] <brmbrmcar> Both bad for cras tests.
+[2015/11/12 12:05:22] <brmbrmcar> That's what I wanted to know.
+[2015/11/12 12:05:22] <head8debian> nope, its a 6 valve.
+[2015/11/12 12:05:28] <head8debian> brmbrmcar: FOr what?
+[2015/11/12 12:05:36] <brmbrmcar> Crashing.
+[2015/11/12 12:05:39] <brmbrmcar> Safety.
+[2015/11/12 12:05:50] <head8debian> We don't have emissions test and other junk up here... thankfully.
+[2015/11/12 12:06:10] <brmbrmcar> Where are you?
+[2015/11/12 12:06:13] <head8debian> brmbrmcar: Uhm, these vehicles are much safer in a crash than any car.
+[2015/11/12 12:06:22] <head8debian> Northern USA?
+[2015/11/12 12:06:36] <brmbrmcar> Not into something like a tree.
+[2015/11/12 12:06:56] <mt> sadly you don't have emissions tests
+[2015/11/12 12:07:01] <brmbrmcar> And also Safe small is better than Dangerous big.
+[2015/11/12 12:07:40] <head8debian> brmbrmcar:I dissagree. Do you want to meet a semi with a car or with a truck? Do you want to meet a truck with a car or another truck?
+[2015/11/12 12:07:52] <head8debian> Without all the emissions crud Diesels could get 20mpg.
+[2015/11/12 12:08:02] <head8debian> Currently they get about 11mpg.
+[2015/11/12 12:08:04] <head8debian> mt: o_O
+[2015/11/12 12:08:08] <brmbrmcar> Watch the
+[2015/11/12 12:08:54] <head8debian> mt: If you show me some sort of emissions stuff that actually works on a diesel engine, then maybei  will change my mind.
+[2015/11/12 12:09:01] <head8debian> I understand the CAT converter on a car.
+[2015/11/12 12:09:07] <brmbrmcar> https://youtu.be/emtLLvXrrFs?t=5m3s
+[2015/11/12 12:10:12] <head8debian> brmbrmcar: And up here where we get so much snow you don't want to have a car. You will get stuck before you can blink on half these roads.
+[2015/11/12 12:10:51] <head8debian> Also, explain to my why its considered better for the enviroment to have the engine burn twice as much fuel for the same result vs half the fuel for the same result.
+[2015/11/12 12:11:40] <brmbrmcar> Anything can go through snow if you are brave.
+[2015/11/12 12:12:01] <head8debian> brmbrmcar: LOL. ;)
+[2015/11/12 12:12:13] <head8debian> Now thats funny///
+[2015/11/12 12:12:15] <head8debian> ...
+[2015/11/12 12:12:15] <head8debian> *
+[2015/11/12 12:12:22] <brmbrmcar> https://youtu.be/MzZakGhkxkI?t=1m19s
+[2015/11/12 12:12:39] <mt> head8debian: fwiw, here in Germany you can get an "Environment badge" for your car and cities can restrict certain roads for cars with only environment badges of level X
+[2015/11/12 12:12:43] <head8debian> 2ft snow vs car vs truck with 4wd.
+[2015/11/12 12:13:03] <head8debian> mt: Well good. Im glad we are not that way.
+[2015/11/12 12:14:23] <head8debian> I hate all the electronics in these new cars. Sure they are great while they work, but they are so expensive when they break.
