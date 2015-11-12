@@ -3316,3 +3316,39 @@
 [2015/11/12 11:43:13] <Tobbi> head8debian: What it means.
 [2015/11/12 11:43:17] <brmbrmcar> I hate paying for music.
 [2015/11/12 11:44:01] <head8debian> I figured i'd better support support the bands i listen to. Keeps them in buisiness. :)
+[2015/11/12 11:45:27] <brmbrmcar> I never buy music.
+[2015/11/12 11:45:47] <brmbrmcar> Why would I :P
+[2015/11/12 11:46:56] <mt> In Germany, torrenting music is like paying 500 € for a CD
+[2015/11/12 11:47:11] <head8debian> mt: Why?
+[2015/11/12 11:47:14] <mt> heck, even more
+[2015/11/12 11:47:19] <head8debian> Bandwidth that expensive? :p
+[2015/11/12 11:47:33] <head8debian> I don't torrent it. Or use any odd websites...
+[2015/11/12 11:47:38] <mt> because you'll get an Abmahnung (https://en.wikipedia.org/wiki/Abmahnung)
+[2015/11/12 11:48:07] <head8debian> Ouch.
+[2015/11/12 11:48:16] <brmbrmcar> If I want music, I download a high quality version from Youtube.
+[2015/11/12 11:48:26] <brmbrmcar> Completely illegal, but who cares.
+[2015/11/12 11:48:37] <head8debian> brmbrmcar: Same here... ;)
+[2015/11/12 11:48:46] @ leyyin joined channel #supertux
+[2015/11/12 11:48:55] <mt> Sadly, high quality music from youtube or even bought from itunes/google play/amazon isn't really high quality
+[2015/11/12 11:48:55] <head8debian> Our church half hinges on youtube...
+[2015/11/12 11:49:12] <head8debian> mt: I know what you mean.
+[2015/11/12 11:49:22] <mt> <3 CD-ripped FLAC
+[2015/11/12 11:49:29] <head8debian> mt: If i buy music from amazon does the band even get a percent of it?
+[2015/11/12 11:49:44] <head8debian> percent of the profit*
+[2015/11/12 11:49:52] <mt> dunno
+[2015/11/12 11:49:56] <leyyin> I buy music from my local dealer :D
+[2015/11/12 11:49:57] <leyyin> it's free
+[2015/11/12 11:50:15] <head8debian> I usually listen to the radio...
+[2015/11/12 11:50:24] <leyyin> head8debian, you drive a lot?
+[2015/11/12 11:50:25] <brmbrmcar> But these days, quality of CDs is actually getting worse, as most people write to MP3 when making it.
+[2015/11/12 11:51:03] <mt> I still know of studios using magnet tape for recording and mastering
+[2015/11/12 11:51:09] <head8debian> leyyin: A decent amount. Not much though.
+[2015/11/12 11:51:31] <leyyin> radio listening is only when driving :P
+[2015/11/12 11:51:41] <head8debian> mt: Alof of studios i know keep it digital as much as possible.
+[2015/11/12 11:51:57] <head8debian> Record high quality as digital.
+[2015/11/12 11:52:00] <leyyin> if it's lossless, then it's fine
+[2015/11/12 11:52:51] <head8debian> As long as it doesn't sound awfull im fine with it. :p
+[2015/11/12 11:53:09] <brmbrmcar> Why do people listen to the radio when driving?
+[2015/11/12 11:53:29] <brmbrmcar> I listen to all the bumps and creaks!
+[2015/11/12 11:53:34] <head8debian> lol.
+[2015/11/12 11:53:56] <brmbrmcar> Way better. :D
