@@ -3926,3 +3926,14 @@
 [2015/11/12 16:54:11] @ Tobbi joined channel #supertux
 [2015/11/12 16:54:11] @ Mode +o Tobbi by ChanServ
 [2015/11/12 16:59:19] @ Quit: swift110: Ping timeout: 240 seconds
+[2015/11/12 17:17:42] @ Quit: claymore2_: Quit: Leaving
+[2015/11/12 17:18:15] @ Quit: alket: Ping timeout: 240 seconds
+[2015/11/12 17:23:25] <Tobbi> head8debian: Is this more according to your taste? https://www.youtube.com/watch?v=OaEH1e_DLm0
+[2015/11/12 17:25:24] <head8debian> Tobbi: Not really...
+[2015/11/12 17:25:37] <Tobbi> head8debian: But it's a religious song?
+[2015/11/12 17:25:40] <Tobbi> or not?
+[2015/11/12 17:26:14] <Tobbi> head8debian: It's one of the few songs I really like.
+[2015/11/12 17:27:15] <head8debian> Tobbi: Not really my style... but part of our christmas playlist this year. https://www.youtube.com/watch?v=QeaHAQklVVc&list=PLzGCPH8UWJzInF-XeNlDUZGvFjr0SWobt&index=3
+[2015/11/12 17:27:32] <head8debian> I don't agree with all the lyrics in all of those songs, but meh. :p
+[2015/11/12 17:27:46] <Tobbi> head8debian: "This video is not available".
+[2015/11/12 17:28:07] <head8debian> o_O
