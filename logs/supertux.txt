@@ -3238,3 +3238,4 @@
 [2015/11/12 02:23:02] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-11-11 12:43:30 -0500
 [2015/11/12 02:23:06] @ Mode +nt by leguin.freenode.net
 [2015/11/12 02:45:58] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/v8bwt
+[2015/11/12 03:05:42] @ Quit: tuxdev_: Ping timeout: 265 seconds
