@@ -3250,3 +3250,30 @@
 [2015/11/12 09:54:25] <head8debian> Power outage...
 [2015/11/12 10:04:13] @ Tobbi joined channel #supertux
 [2015/11/12 10:04:13] @ Mode +o Tobbi by ChanServ
+[2015/11/12 10:22:31] <head8debian> Tobbi: Hello...
+[2015/11/12 10:22:40] <Tobbi> head8debian: Good morning.
+[2015/11/12 10:22:44] <head8debian> Tobbi: We had a power outage all morning...
+[2015/11/12 10:22:55] <Tobbi> head8debian: Including yourself?
+[2015/11/12 10:23:52] <head8debian> Tobbi: Yes?
+[2015/11/12 10:24:04] <head8debian> Tobbi: No electric = cannot milk cows...
+[2015/11/12 10:24:44] <Tobbi> head8debian: I know, cows don't work... Cows are a direct result of electricity...
+[2015/11/12 10:24:51] <Tobbi> Actually, first the electricity, then the cow.
+[2015/11/12 10:24:59] <Tobbi> Perfect symbioses.
+[2015/11/12 10:25:03] <Tobbi> *symbiosis
+[2015/11/12 10:25:19] <head8debian> Tobbi: :p
+[2015/11/12 10:25:39] <head8debian> Tobbi: We could milk them by hand, but its hard to do 100 cows by hand. :)
+[2015/11/12 10:25:41] <Tobbi> head8debian: Have you ever sold forged harddisks and cholesterol?
+[2015/11/12 10:25:50] <head8debian> Tobbi: Uhm, no?
+[2015/11/12 10:26:05] <Tobbi> alright.
+[2015/11/12 10:26:21] <head8debian> Tobbi: And we have roughly 100,000 turkeys being fed around us also, which cannot be fed without electricity.
+[2015/11/12 10:26:34] <Tobbi> head8debian: ever tried?
+[2015/11/12 10:26:56] <Tobbi> head8debian: I notice that when you put a turkey in a hot stove (= electricity) it tasts better afterwards.
+[2015/11/12 10:27:10] <head8debian> Tobbi: I'd rather cook it over a gas stove. :D
+[2015/11/12 10:27:17] <head8debian> Much more eficient.
+[2015/11/12 10:27:28] <Tobbi> head8debian: Gas hasn't been invented yet around here.
+[2015/11/12 10:28:18] <head8debian> o_O
+[2015/11/12 10:29:26] <Tobbi> head8debian: So, basically, whenever we want to cook something, we have people who rotate sticks in order for hay to catch fire.
+[2015/11/12 10:29:29] <Tobbi> or something.
+[2015/11/12 10:29:41] <Tobbi> Because, we don't know how to deal with electricity.
+[2015/11/12 10:29:46] <Tobbi> Sometimes it's there, sometimes it isn't.
+[2015/11/12 10:29:55] <Tobbi> Sometimes it's too strong, sometimes it's too low.
