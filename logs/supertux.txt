@@ -3218,3 +3218,5 @@
 [2015/11/11 21:37:40] <Tobbi> head8debian: programming supertux?
 [2015/11/11 21:39:17] <head8debian> Oh, didnt know if you fell asleep.
 [2015/11/11 21:42:02] <Tobbi> I never fall asleep.
+[2015/11/11 22:14:23] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#179: Replace development logo with final logo - 13http://git.io/v8FKn
+[2015/11/11 22:14:25] <Not-6fa5> [02supertux] 07tobbi closed pull request 03#179: Replace development logo with final logo - 13http://git.io/vCq8I
