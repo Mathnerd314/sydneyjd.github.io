@@ -3959,3 +3959,14 @@
 [2015/11/12 17:40:58] <head8debian> maths22: Please excuse me.
 [2015/11/12 17:42:33] <Karkus> maths22: Do you actually like maths?
 [2015/11/12 17:43:37] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/12 17:52:50] <head8debian> Karkus: haha.
+[2015/11/12 17:54:25] <Karkus> head8debian: Hey, I'm being serious :P
+[2015/11/12 17:54:37] <head8debian> Karkus: Yes, yes. ;)
+[2015/11/12 17:55:35] <Karkus> head8debian: What about you?
+[2015/11/12 17:55:50] <head8debian> Karkus: No, i don't like math.
+[2015/11/12 17:56:16] <Karkus> head8debian: Awww
+[2015/11/12 17:57:14] <head8debian> Karkus: I do like debian. :D
+[2015/11/12 17:57:38] <Karkus> head8debian: They used maths to make that.
+[2015/11/12 17:58:22] <head8debian> :D
+[2015/11/12 17:59:21] <Karkus> head8debian: What DE do you have?
+[2015/11/12 17:59:58] @ alket joined channel #supertux
