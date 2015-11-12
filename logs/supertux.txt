@@ -3911,3 +3911,4 @@
 [2015/11/12 15:12:44] <Karkus> brmbrmcar: I thought a bug I'd found had fixed itself, turns out not...
 [2015/11/12 15:13:15] <brmbrmcar> That's a shame.
 [2015/11/12 15:14:08] <brmbrmcar> What bug was it?
+[2015/11/12 15:29:13] @ swift110 joined channel #supertux
