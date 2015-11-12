@@ -3175,3 +3175,17 @@
 [2015/11/11 20:39:26] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/90646103
 [2015/11/11 20:39:26] <Tobbi> Gosh!
 [2015/11/11 20:45:00] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/90646103
+[2015/11/11 20:49:16] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/90646008
+[2015/11/11 20:54:06] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v8FZm
+[2015/11/11 20:54:07] <head8debian> Tobbi: o_O
+[2015/11/11 20:54:08] <Not-6fa5> [02supertux] 07Tobias Markus 033e8f99b - Fix installing new language packs
+[2015/11/11 20:54:10] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/90647419
+[2015/11/11 20:54:21] <Tobbi> head8debian: I am really sorry for the spam.
+[2015/11/11 20:54:30] <Tobbi> But at least language packs have their own menu now.
+[2015/11/11 20:55:08] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/90647419
+[2015/11/11 20:55:29] <head8debian> Tobbi: Its fine. ;)
+[2015/11/11 20:55:52] <head8debian> Tobbi: Im just shocked your still up working.
+[2015/11/11 20:56:05] <Tobbi> :D
+[2015/11/11 20:56:10] <Tobbi> head8debian: It's barely 3am
+[2015/11/11 20:56:16] <Tobbi> And I don't have college tomorrow.
+[2015/11/11 20:58:37] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/90646103
