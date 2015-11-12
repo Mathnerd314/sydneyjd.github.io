@@ -3922,3 +3922,4 @@
 [2015/11/12 16:14:59] @ claymore2_ joined channel #supertux
 [2015/11/12 16:18:05] @ Quit: claymore2: Ping timeout: 244 seconds
 [2015/11/12 16:23:25] <head8debian> Karkus: What?
+[2015/11/12 16:32:19] @ Quit: bb010g: Quit: Connection closed for inactivity
