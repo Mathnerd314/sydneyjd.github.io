@@ -3214,3 +3214,7 @@
 [2015/11/11 21:20:30] <head8debian> :-)
 [2015/11/11 21:20:53] <head8debian> CSS is quite simple, just start typing what you think its called. ;p
 [2015/11/11 21:25:34] @ tux|dude joined channel #supertux
+[2015/11/11 21:37:30] <head8debian> Tobbi: So... what are you doing?
+[2015/11/11 21:37:40] <Tobbi> head8debian: programming supertux?
+[2015/11/11 21:39:17] <head8debian> Oh, didnt know if you fell asleep.
+[2015/11/11 21:42:02] <Tobbi> I never fall asleep.
