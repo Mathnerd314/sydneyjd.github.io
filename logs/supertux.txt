@@ -3674,3 +3674,81 @@
 [2015/11/12 13:29:40] <head8debian> Wow. implemented web caching on my desktop yesterday and it has collected over 70mb!
 [2015/11/12 13:29:47] <head8debian> In less than a day.
 [2015/11/12 13:29:50] <head8debian> o_O
+[2015/11/12 13:30:33] <brmbrmcar> Ich bin nul Jahre alt.
+[2015/11/12 13:30:49] <Karkus> Tobbi: I'm currently learning German. I'm not very good.
+[2015/11/12 13:30:59] <Tobbi> Karkus: first year?
+[2015/11/12 13:31:13] <Karkus> Tobbi: Of learning German?
+[2015/11/12 13:31:20] <Tobbi> Karkus: yeah?
+[2015/11/12 13:31:42] <brmbrmcar> Wie heisst du?
+[2015/11/12 13:32:00] <brmbrmcar> brmbrmcar ist genial.
+[2015/11/12 13:32:05] <Tobbi> Nein.
+[2015/11/12 13:32:08] <Karkus> Tobbi: Not really. Properly, maybe
+[2015/11/12 13:32:24] <Tobbi> Karkus: Most Germans know English to some extent anyway...
+[2015/11/12 13:32:50] <Karkus> Tobbi: Most English people don't know German
+[2015/11/12 13:32:53] <brmbrmcar> ;(
+[2015/11/12 13:33:12] <Tobbi> Karkus: But, why would they, anyway?
+[2015/11/12 13:33:28] <Karkus> weil es Spass macht?
+[2015/11/12 13:33:40] <brmbrmcar> What does that mean?
+[2015/11/12 13:33:47] @ Quit: head8debian: Quit: testing sasl...
+[2015/11/12 13:34:02] @ head8debian joined channel #supertux
+[2015/11/12 13:34:53] <Tobbi> Karkus: Is German really fun?
+[2015/11/12 13:35:01] <Tobbi> I could imagine it being a pain to learn...
+[2015/11/12 13:35:19] <Karkus> Tobbi: Not really. It's very logical
+[2015/11/12 13:35:19] <brmbrmcar> It isn't.
+[2015/11/12 13:35:33] <Tobbi> Cool!
+[2015/11/12 13:35:49] <Karkus> What's cool?
+[2015/11/12 13:36:06] <brmbrmcar> This IRC is in US.
+[2015/11/12 13:36:12] <red_bot> ICE!
+[2015/11/12 13:36:34] <Karkus> No, it's English.
+[2015/11/12 13:36:43] <Karkus> Oh, wait
+[2015/11/12 13:37:00] <Tobbi> Karkus: I think it's cool that you like it.
+[2015/11/12 13:37:00] <brmbrmcar> Which is why diarrhoea has to be spelt diarrhea.
+[2015/11/12 13:37:14] <Karkus> Tobbi: Do you like English?
+[2015/11/12 13:37:18] <brmbrmcar> Which I hate.
+[2015/11/12 13:37:30] <Tobbi> Karkus: I have grown to like it. It's really elegant.
+[2015/11/12 13:37:35] <Tobbi> In a way.
+[2015/11/12 13:37:37] <Karkus> Elegant?
+[2015/11/12 13:37:45] <Tobbi> Karkus: The language flow is different...
+[2015/11/12 13:37:51] <Karkus> It breaks all the rules all the time!?
+[2015/11/12 13:38:00] <Tobbi> Karkus: But it sounds so...flowy...
+[2015/11/12 13:38:01] <Karkus> German follows rules
+[2015/11/12 13:38:31] <Karkus> Tobbi: In Britain everyone thinks german people sound angry
+[2015/11/12 13:38:41] <brmbrmcar> I hate when they teach spelling rules for English that aren't ever right.
+[2015/11/12 13:38:56] <Tobbi> Karkus: We don't only sound angry, we are angry. When we're not angry, we're not in any way conscious.
+[2015/11/12 13:39:00] <brmbrmcar> I don't think German people sound amgry.
+[2015/11/12 13:39:08] <Karkus> "'I' before 'E' except after 'C'"
+[2015/11/12 13:39:10] <brmbrmcar> s/amgry/angry/
+[2015/11/12 13:39:10] <red_bot> brmbrmcar meant: "I don't think German people sound angry."
+[2015/11/12 13:39:34] <brmbrmcar> I before E except after blank is better.
+[2015/11/12 13:39:51] * head8debian rolls his eyes...
+[2015/11/12 13:40:06] <head8debian> School in IRC on top of normal school. ugg.
+[2015/11/12 13:40:54] <brmbrmcar> Schoolis horrible.IRC school is not.
+[2015/11/12 13:42:05] <Tobbi> Karkus: "I before E except after C? Is that an official rule? What about "riechen" then?
+[2015/11/12 13:42:17] <Karkus> Tobbi: That's an english rule
+[2015/11/12 13:42:25] <Tobbi> ah!
+[2015/11/12 13:42:25] <Karkus> Reich?
+[2015/11/12 13:42:35] <Tobbi> No, not rich.... riechen = to smell.
+[2015/11/12 13:42:39] <head8debian> Yes, its a actual english rule. Helps with writing.
+[2015/11/12 13:42:51] <Karkus> Weight? Height?
+[2015/11/12 13:42:58] <head8debian> :D
+[2015/11/12 13:42:58] <Karkus> Sleight
+[2015/11/12 13:43:00] <Tobbi> Karkus: Oh, also what you might need in your everyday life: Nutritional supplement = Nahrungsergänzungsmittel.
+[2015/11/12 13:43:11] <head8debian> No, wieght. :p
+[2015/11/12 13:43:22] <Karkus> Food Poisoning = Lebensmittelvergiftung
+[2015/11/12 13:43:25] <head8debian> How can you remember how to spell that?
+[2015/11/12 13:43:32] <Tobbi> Karkus: Very good!
+[2015/11/12 13:43:33] <Tobbi> :D
+[2015/11/12 13:43:39] <Karkus> Transport links = Vehrkersverbindungen
+[2015/11/12 13:43:45] <Karkus> If I spelled that right?
+[2015/11/12 13:43:50] <Tobbi> Karkus: the "h" is at the wrong place.
+[2015/11/12 13:43:53] <Karkus> Verkehr?
+[2015/11/12 13:43:57] <Tobbi> Yes!
+[2015/11/12 13:44:16] <Karkus> I haven't used either of those, ever
+[2015/11/12 13:44:27] <Karkus> Hmmm, 'use'
+[2015/11/12 13:44:29] <Tobbi> What a shame.
+[2015/11/12 13:44:31] <Tobbi> :D
+[2015/11/12 13:44:48] <Tobbi> Karkus: So, I play Scrabble with my English lecturer at college every 2 weeks.
+[2015/11/12 13:44:51] <brmbrmcar> brmbrmauto
+[2015/11/12 13:44:52] <Tobbi> It's nice.
+[2015/11/12 13:44:59] <Karkus> head8debian: If you can say it, you can spell it.
+[2015/11/12 13:45:00] <head8debian> o-O
