@@ -3156,3 +3156,4 @@
 [2015/11/11 19:06:26] @ onpon4 joined channel #supertux
 [2015/11/11 19:09:31] @ Quit: onpon4: Client Quit
 [2015/11/11 19:14:06] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/90634608
+[2015/11/11 19:28:41] @ Quit: irungentoo: Remote host closed the connection
