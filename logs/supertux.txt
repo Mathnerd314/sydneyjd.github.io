@@ -3158,3 +3158,10 @@
 [2015/11/11 19:14:06] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/90634608
 [2015/11/11 19:28:41] @ Quit: irungentoo: Remote host closed the connection
 [2015/11/11 20:07:38] @ Quit: tux|dude: Quit: Leaving
+[2015/11/11 20:21:04] <Not-6fa5> [02supertux] 07tobbi pushed 032 commits to 03master [+0/-0/±6] 13http://git.io/v8Fqe
+[2015/11/11 20:21:05] <Not-6fa5> [02supertux] 07Tobias Markus 03ac5a3ca - Move language packs to their own menu
+[2015/11/11 20:21:06] <Not-6fa5> [02supertux] 07Tobias Markus 036488217 - Fix language pack menu
+[2015/11/11 20:21:08] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/90643790
+[2015/11/11 20:21:48] @ Quit: nerdopolis: Quit: No Ping reply in 210 seconds.
+[2015/11/11 20:21:57] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/90643790
+[2015/11/11 20:22:33] @ nerdopolis_ joined channel #supertux
