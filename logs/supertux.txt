@@ -3248,3 +3248,5 @@
 [2015/11/12 09:52:53] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-11-11 12:43:07 -0500
 [2015/11/12 09:52:58] @ Mode +nt by verne.freenode.net
 [2015/11/12 09:54:25] <head8debian> Power outage...
+[2015/11/12 10:04:13] @ Tobbi joined channel #supertux
+[2015/11/12 10:04:13] @ Mode +o Tobbi by ChanServ
