@@ -3970,3 +3970,8 @@
 [2015/11/12 17:58:22] <head8debian> :D
 [2015/11/12 17:59:21] <Karkus> head8debian: What DE do you have?
 [2015/11/12 17:59:58] @ alket joined channel #supertux
+[2015/11/12 18:05:51] @ Tobbi joined channel #supertux
+[2015/11/12 18:05:51] @ Mode +o Tobbi by ChanServ
+[2015/11/12 18:06:28] <Tobbi> head8debian: I normally listen to a mixture between chainsaw noise and Antarctic gospel, with a touch of trumpet.
+[2015/11/12 18:06:37] <Tobbi> It's good!
+[2015/11/12 18:09:21] @ Quit: alket: Quit: Leaving
