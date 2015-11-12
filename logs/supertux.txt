@@ -3277,3 +3277,16 @@
 [2015/11/12 10:29:41] <Tobbi> Because, we don't know how to deal with electricity.
 [2015/11/12 10:29:46] <Tobbi> Sometimes it's there, sometimes it isn't.
 [2015/11/12 10:29:55] <Tobbi> Sometimes it's too strong, sometimes it's too low.
+[2015/11/12 10:30:10] <Tobbi> Sometimes it's an amoeba.
+[2015/11/12 10:31:08] <head8debian> Tobbi: Uhm.
+[2015/11/12 10:31:31] <head8debian> Tobbi: Us americans find it quite reliable. :D
+[2015/11/12 10:32:04] <Tobbi> head8debian: says the one with a power outage.
+[2015/11/12 10:32:42] <head8debian> Tobbi: Its back on now...
+[2015/11/12 10:32:56] <head8debian> Tobbi: So twice a year it goes out for a couple hours.
+[2015/11/12 10:33:12] <head8debian> It seems to be just with our electricity line.
+[2015/11/12 10:33:25] <head8debian> the neighbors never lose electricity.
+[2015/11/12 10:33:44] <Tobbi> head8debian: Have you ever tried to stack cows on top of each other? In theory that should give you more energy, since there's more potential energy.
+[2015/11/12 10:37:44] @ tuxdev_ joined channel #supertux
+[2015/11/12 10:40:59] <head8debian> Tobbi: And why would we need to do that?
+[2015/11/12 10:41:10] <Tobbi> head8debian: More potential energy.
+[2015/11/12 10:41:11] <Tobbi> :D
