@@ -3975,3 +3975,12 @@
 [2015/11/12 18:06:28] <Tobbi> head8debian: I normally listen to a mixture between chainsaw noise and Antarctic gospel, with a touch of trumpet.
 [2015/11/12 18:06:37] <Tobbi> It's good!
 [2015/11/12 18:09:21] @ Quit: alket: Quit: Leaving
+[2015/11/12 18:21:24] <Karkus> head8debian: This is my favourite music https://gist.github.com/Karkus476/2779d22de7a78201a64a
+[2015/11/12 18:21:34] <Karkus> oh wait :D
+[2015/11/12 18:21:45] @ Quit: Karkus: Quit: Leaving
+[2015/11/12 18:22:09] @ Karkus joined channel #supertux
+[2015/11/12 18:22:25] @ Quit: tux|dude: Quit: Leaving
+[2015/11/12 18:22:45] @ tux|dude joined channel #supertux
+[2015/11/12 18:25:17] <Tobbi> Karkus: I don't know anything about math.
+[2015/11/12 18:25:28] @ Quit: Karkus: Client Quit
+[2015/11/12 18:26:02] <Tobbi> hrm
