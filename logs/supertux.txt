@@ -3206,3 +3206,11 @@
 [2015/11/11 21:14:04] <head8debian> Tobbi: And if i ever did learn alot, why would anyone want to chose me to host their website, compared to other more experienced websites?
 [2015/11/11 21:14:21] <head8debian> companies*
 [2015/11/11 21:15:01] <Tobbi> head8debian: You can learn even more, and then get employed by google.
+[2015/11/11 21:16:32] <head8debian> Tobbi: A company i try to support as little as possible? :p
+[2015/11/11 21:16:39] <Tobbi> head8debian: Who knows.
+[2015/11/11 21:17:57] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/90647966
+[2015/11/11 21:20:03] <head8debian> Tobbi: Enough feelings for one day... now for real life. :p
+[2015/11/11 21:20:16] <Tobbi> head8debian: not happening. It's 3am.
+[2015/11/11 21:20:30] <head8debian> :-)
+[2015/11/11 21:20:53] <head8debian> CSS is quite simple, just start typing what you think its called. ;p
+[2015/11/11 21:25:34] @ tux|dude joined channel #supertux
