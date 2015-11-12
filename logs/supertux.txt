@@ -3300,3 +3300,19 @@
 [2015/11/12 11:03:00] <mt> what wouldn't be asking too much of github would be include all label changes in, say the last minute, in one event
 [2015/11/12 11:03:15] <mt> but that would - in the end - also require updating notifico's code
 [2015/11/12 11:12:20] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/12 11:33:50] @ Tobbi joined channel #supertux
+[2015/11/12 11:33:50] @ Mode +o Tobbi by ChanServ
+[2015/11/12 11:35:05] <head8debian> Tobbi: Can you give me $100 so i can go buy the 2014 NEC? :D
+[2015/11/12 11:35:13] <Tobbi> head8debian: No?
+[2015/11/12 11:35:14] <Tobbi> :D
+[2015/11/12 11:35:19] <Tobbi> I don't have that much myself.
+[2015/11/12 11:36:49] <head8debian> Tobbi: hehe.
+[2015/11/12 11:41:16] @ brmbrmcar joined channel #supertux
+[2015/11/12 11:42:15] <head8debian> Tobbi: I actually bought music instead of pirating it. :D
+[2015/11/12 11:42:35] <head8debian> Its expensive...
+[2015/11/12 11:42:36] <Tobbi> head8debian: Wow, you're growing up to be an ordinary person.
+[2015/11/12 11:42:37] <head8debian> :p
+[2015/11/12 11:43:07] <head8debian> Tobbi: Uhm, whats that mean?
+[2015/11/12 11:43:13] <Tobbi> head8debian: What it means.
+[2015/11/12 11:43:17] <brmbrmcar> I hate paying for music.
+[2015/11/12 11:44:01] <head8debian> I figured i'd better support support the bands i listen to. Keeps them in buisiness. :)
