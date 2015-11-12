@@ -3231,3 +3231,5 @@
 [2015/11/12 00:15:40] @ Topic is "Welcome to the SuperTux chat | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | ©häññèł łôǥ http://sydneyjd.github.io/logs/ | nightly builds http://brlcad.org/~maths22/supertux-nightly/"
 [2015/11/12 00:15:40] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-11-11 12:43:07 -0500
 [2015/11/12 00:15:45] @ Mode +nt by cameron.freenode.net
+[2015/11/12 00:36:18] @ Fmttm joined channel #supertux
+[2015/11/12 00:41:55] @ Quit: Fmttm: Ping timeout: 264 seconds
