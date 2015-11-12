@@ -3917,3 +3917,6 @@
 [2015/11/12 15:32:35] @ Quit: swift110: Changing host
 [2015/11/12 15:32:36] @ swift110 joined channel #supertux
 [2015/11/12 15:58:10] @ tux|dude joined channel #supertux
+[2015/11/12 16:03:58] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/11/12 16:13:30] @ Quit: brmbrmcar: Quit: brmbrmgoat
+[2015/11/12 16:14:59] @ claymore2_ joined channel #supertux
