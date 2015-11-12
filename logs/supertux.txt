@@ -3617,3 +3617,60 @@
 [2015/11/12 13:14:30] <Tobbi> And people who are really religious don't get that it's all open to interpretation and can be seen more or less strict.
 [2015/11/12 13:14:35] <Tobbi> red_bot: Stop!
 [2015/11/12 13:14:55] <red_bot> Tobbi: What? :p
+[2015/11/12 13:15:16] <Tobbi> red_bot: If you want to be like brm brm car and pretend to ragequit only to read the logs...
+[2015/11/12 13:15:20] <Tobbi> then go right ahead.
+[2015/11/12 13:15:40] @ head8debian joined channel #supertux
+[2015/11/12 13:15:48] * head8debian steps out of the fog effect...
+[2015/11/12 13:16:03] <Tobbi> head8debian: You are NOT Darth Vader.
+[2015/11/12 13:16:13] <head8debian> Tobbi: Its called backlighting...
+[2015/11/12 13:16:19] <red_bot> Tobbi: :D
+[2015/11/12 13:16:34] <red_bot> Tobbi: Smile :D
+[2015/11/12 13:16:39] <Tobbi> head8debian, red_bot: Both of you: Stop.
+[2015/11/12 13:16:47] <red_bot> lol...
+[2015/11/12 13:17:14] <leyyin> head8debian, so, why did you leave?
+[2015/11/12 13:17:16] <head8debian> Tobbi: You've never seen a fog machine though? :-)
+[2015/11/12 13:17:21] <head8debian> I wanted to. :D
+[2015/11/12 13:17:33] <leyyin> and why no youtube videos?
+[2015/11/12 13:17:35] <Tobbi> head8debian: Why on earth would I want to see a fog machine.
+[2015/11/12 13:17:47] <head8debian> Tobbi: Because they are expensive. and cool.
+[2015/11/12 13:18:06] <head8debian> Tobbi has "youtube'd me out".
+[2015/11/12 13:18:14] <Tobbi> What did I show you anyway.
+[2015/11/12 13:18:15] <Tobbi> ?
+[2015/11/12 13:18:53] <head8debian> nm...
+[2015/11/12 13:19:11] <head8debian> Seems the logs are workign good.
+[2015/11/12 13:19:22] <head8debian> Reliable ol crontab. :)
+[2015/11/12 13:20:47] <head8debian> Tobbi has changed alot since i first met him. :) My first impression was that he was a young grouch with no spare time. Now i see the opposite. :D
+[2015/11/12 13:21:05] <head8debian> And take it as a compliment...
+[2015/11/12 13:21:42] <Tobbi> head8debian: I am smart enough to have the ability to finish all my assignments in no time. Unfortunately, I rarely make use of that ability.
+[2015/11/12 13:22:24] @ Karkus joined channel #supertux
+[2015/11/12 13:22:35] <Karkus> Hey everyone!
+[2015/11/12 13:22:56] <head8debian> Karkus: Hey!
+[2015/11/12 13:23:07] <head8debian> Karkus: Finally someone to add life to the convo. ;-)
+[2015/11/12 13:23:14] <Tobbi> hallo Karkus, was geht?
+[2015/11/12 13:23:45] <head8debian> Tobbi: ThIs Is A eNgLiSh ChAnNeL!1!
+[2015/11/12 13:23:50] <Karkus> Hello Tobbi :P
+[2015/11/12 13:24:25] <Karkus> nichts?
+[2015/11/12 13:24:25] <Tobbi> head8debian: Aufgrund eines mir zugrundeliegenden Sprachdefizits ist mir der Gebrauch der englischen Sprache derzeit verwehrt. Ich bitte vielmals um Verständnis.
+[2015/11/12 13:24:52] <brmbrmcar> What about me?
+[2015/11/12 13:25:41] <Tobbi> brmbrmcar: never mind.
+[2015/11/12 13:26:37] <brmbrmcar> Mean!
+[2015/11/12 13:27:12] <Tobbi> brmbrmcar: No, not mean value...
+[2015/11/12 13:28:02] <head8debian> Tobbi: underlying language deficit
+[2015/11/12 13:28:04] <head8debian> ?
+[2015/11/12 13:28:09] <Tobbi> head8debian: Ja.
+[2015/11/12 13:28:11] <brmbrmcar> What do you mean?
+[2015/11/12 13:28:18] <head8debian> Tobbi: Whats that mean? :p
+[2015/11/12 13:28:19] <brmbrmcar> Yes.
+[2015/11/12 13:28:28] <Tobbi> head8debian: Why do you ask me that?
+[2015/11/12 13:28:33] <brmbrmcar> It means yes.
+[2015/11/12 13:28:39] <head8debian> ...
+[2015/11/12 13:28:49] <Karkus> I knew you wanted our understanding. I didn't understand, though.
+[2015/11/12 13:29:03] <brmbrmcar> Iche heisse brmbrmcar.
+[2015/11/12 13:29:11] <brmbrmcar> /Iche/Ich
+[2015/11/12 13:29:25] <Karkus> you mean s/Iche/Ich/
+[2015/11/12 13:29:34] <Karkus> s/you/You/
+[2015/11/12 13:29:34] <red_bot> Karkus meant: "You mean s/Iche/Ich/"
+[2015/11/12 13:29:39] <Tobbi> Karkus: How much German did you have in school?
+[2015/11/12 13:29:40] <head8debian> Wow. implemented web caching on my desktop yesterday and it has collected over 70mb!
+[2015/11/12 13:29:47] <head8debian> In less than a day.
+[2015/11/12 13:29:50] <head8debian> o_O
