@@ -3189,3 +3189,20 @@
 [2015/11/11 20:56:10] <Tobbi> head8debian: It's barely 3am
 [2015/11/11 20:56:16] <Tobbi> And I don't have college tomorrow.
 [2015/11/11 20:58:37] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/90646103
+[2015/11/11 21:00:12] <head8debian> Tobbi: Hmm... I don't know what i want to do now...
+[2015/11/11 21:00:16] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v8Fny
+[2015/11/11 21:00:18] <Not-6fa5> [02supertux] 07Tobias Markus 03f69dc07 - Update tinygettext module (again)
+[2015/11/11 21:00:19] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/90647966
+[2015/11/11 21:00:35] <Tobbi> head8debian: Help me fix the language add-ons? You still need to restart SuperTux in order for changes to take effect.
+[2015/11/11 21:01:10] <head8debian> I wasn't quite refering to supertux only. :)
+[2015/11/11 21:01:46] <head8debian> Tobbi: I jsut feel "bleh" currently. :p
+[2015/11/11 21:02:01] <head8debian> I will be back in a half hour or so.
+[2015/11/11 21:02:18] <Tobbi> head8debian: Yeah, I guess I'll be in bed then.
+[2015/11/11 21:03:45] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/90647966
+[2015/11/11 21:08:15] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/90647419
+[2015/11/11 21:11:52] <head8debian> Tobbi: I would love to develop/maintain websites, i just don't feel much of a want to learn how atm... sadly...
+[2015/11/11 21:12:05] <Tobbi> I see...
+[2015/11/11 21:12:13] <Tobbi> I know that feeling as well, I believe.
+[2015/11/11 21:14:04] <head8debian> Tobbi: And if i ever did learn alot, why would anyone want to chose me to host their website, compared to other more experienced websites?
+[2015/11/11 21:14:21] <head8debian> companies*
+[2015/11/11 21:15:01] <Tobbi> head8debian: You can learn even more, and then get employed by google.
