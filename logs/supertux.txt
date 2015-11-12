@@ -3897,3 +3897,9 @@
 [2015/11/12 14:43:43] <brmbrmcar> Come on!
 [2015/11/12 14:43:57] <brmbrmcar> He wanted torace the chickens!
 [2015/11/12 14:44:37] <Karkus> brmbrmno.
+[2015/11/12 14:45:26] <brmbrmcar> :(
+[2015/11/12 14:47:33] <brmbrmcar> Anyway, can you doany better?
+[2015/11/12 14:51:09] @ Fmttm joined channel #supertux
+[2015/11/12 14:55:35] @ Quit: Fmttm: Ping timeout: 240 seconds
+[2015/11/12 14:57:24] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/12 14:59:16] @ alket_ joined channel #supertux
