@@ -3903,3 +3903,11 @@
 [2015/11/12 14:55:35] @ Quit: Fmttm: Ping timeout: 240 seconds
 [2015/11/12 14:57:24] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/12 14:59:16] @ alket_ joined channel #supertux
+[2015/11/12 15:00:33] @ Quit: alket: Disconnected by services
+[2015/11/12 15:00:35] @ alket_ is now known as alket
+[2015/11/12 15:09:00] <Karkus> head8debian: The very oddest thing just happened...
+[2015/11/12 15:10:41] <Karkus> nevermind...
+[2015/11/12 15:11:45] <brmbrmcar> What?
+[2015/11/12 15:12:44] <Karkus> brmbrmcar: I thought a bug I'd found had fixed itself, turns out not...
+[2015/11/12 15:13:15] <brmbrmcar> That's a shame.
+[2015/11/12 15:14:08] <brmbrmcar> What bug was it?
