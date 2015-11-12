@@ -3912,3 +3912,7 @@
 [2015/11/12 15:13:15] <brmbrmcar> That's a shame.
 [2015/11/12 15:14:08] <brmbrmcar> What bug was it?
 [2015/11/12 15:29:13] @ swift110 joined channel #supertux
+[2015/11/12 15:30:45] @ Quit: swift110: Read error: Connection reset by peer
+[2015/11/12 15:32:11] @ swift110 joined channel #supertux
+[2015/11/12 15:32:35] @ Quit: swift110: Changing host
+[2015/11/12 15:32:36] @ swift110 joined channel #supertux
