@@ -3290,3 +3290,4 @@
 [2015/11/12 10:40:59] <head8debian> Tobbi: And why would we need to do that?
 [2015/11/12 10:41:10] <Tobbi> head8debian: More potential energy.
 [2015/11/12 10:41:11] <Tobbi> :D
+[2015/11/12 10:48:34] <head8debian> ...
