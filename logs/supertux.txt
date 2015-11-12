@@ -3920,3 +3920,5 @@
 [2015/11/12 16:03:58] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2015/11/12 16:13:30] @ Quit: brmbrmcar: Quit: brmbrmgoat
 [2015/11/12 16:14:59] @ claymore2_ joined channel #supertux
+[2015/11/12 16:18:05] @ Quit: claymore2: Ping timeout: 244 seconds
+[2015/11/12 16:23:25] <head8debian> Karkus: What?
