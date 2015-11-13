@@ -4136,3 +4136,19 @@
 [2015/11/13 07:45:01] @ Wuzzy joined channel #supertux
 [2015/11/13 08:09:44] @ Tobbi joined channel #supertux
 [2015/11/13 08:09:45] @ Mode +o Tobbi by ChanServ
+[2015/11/13 08:37:31] @ leyyin joined channel #supertux
+[2015/11/13 08:39:34] <head8debian> Tobbi: Your IRC client did some smamming yesterday...
+[2015/11/13 08:39:39] <head8debian> spamming*
+[2015/11/13 08:39:44] <Tobbi> head8debian: Really?
+[2015/11/13 08:39:46] <Tobbi> let me check.
+[2015/11/13 08:39:55] <leyyin> Tobbi, you should kick yourself
+[2015/11/13 08:40:07] <Tobbi> head8debian: I don't see it in the logs...
+[2015/11/13 08:40:19] <head8debian> Tobbi: You left here thankfully.
+[2015/11/13 08:40:26] <head8debian> Tobbi: try the #stk logs.
+[2015/11/13 08:40:32] <Tobbi> Okay...
+[2015/11/13 08:41:00] <head8debian> Tobbi: It was even more excessive in #secretchronicles... so i put a temporary ban on you in there.
+[2015/11/13 08:41:07] <head8debian> Must have had internet issues.
+[2015/11/13 08:41:16] <Tobbi> head8debian: Yeah, I should probably use a bouncer...
+[2015/11/13 08:41:38] <head8debian> Tobbi: Why?
+[2015/11/13 08:42:24] <Tobbi> I thought I had shutdown my computer.
+[2015/11/13 08:42:47] <Tobbi> Well..
