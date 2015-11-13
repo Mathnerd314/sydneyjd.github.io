@@ -3984,3 +3984,7 @@
 [2015/11/12 18:25:17] <Tobbi> Karkus: I don't know anything about math.
 [2015/11/12 18:25:28] @ Quit: Karkus: Client Quit
 [2015/11/12 18:26:02] <Tobbi> hrm
+[2015/11/12 18:57:21] <head8debian> ~note Karkus I3 with Dmenu.
+[2015/11/12 18:57:21] <red_bot> okay then :), head8debian
+[2015/11/12 18:59:35] <head8debian> Tobbi: Going to work late again tonight?
+[2015/11/12 18:59:48] <Tobbi> head8debian: I am not sure.
