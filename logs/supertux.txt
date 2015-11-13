@@ -4530,3 +4530,15 @@
 [2015/11/13 14:23:54] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91008778
 [2015/11/13 14:24:11] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#223: Configs now per profile - 13http://git.io/v4kB9
 [2015/11/13 14:25:03] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91008778
+[2015/11/13 14:33:01] <brmbrmcar> Don't merge! Don't merge!
+[2015/11/13 14:34:33] <Not-6fa5> [02supertux] 07maxteufel labeled pull request 03#223: Configs now per profile - 13http://git.io/v8MG4
+[2015/11/13 14:34:34] <Not-6fa5> [02supertux] 07maxteufel labeled pull request 03#223: Configs now per profile - 13http://git.io/v8MG4
+[2015/11/13 14:34:36] <Not-6fa5> [02supertux] 07maxteufel labeled pull request 03#223: Configs now per profile - 13http://git.io/v8MG4
+[2015/11/13 14:34:37] <Not-6fa5> [02supertux] 07maxteufel labeled pull request 03#223: Configs now per profile - 13http://git.io/v8MG4
+[2015/11/13 14:34:39] <Not-6fa5> [02supertux] 07maxteufel labeled pull request 03#223: Configs now per profile - 13http://git.io/v8MG4
+[2015/11/13 14:35:56] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91008778
+[2015/11/13 14:37:06] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#223: Configs now per profile - 13http://git.io/v4k2G
+[2015/11/13 14:37:34] <mt> why not?
+[2015/11/13 14:38:30] <brmbrmcar> Because it would be chaos.
+[2015/11/13 14:39:09] <brmbrmcar> It is a game-wide thing.
+[2015/11/13 14:40:26] <datahead8888> Does Super Tux only use one collision box/circle to detect both enemy hits and if Tux is standing on the ground, or does it use a second collision detection and/or line casting?  If it only uses one collision, how does it tell if he collided on top of an object?
