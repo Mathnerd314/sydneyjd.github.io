@@ -4564,3 +4564,46 @@
 [2015/11/13 14:59:08] <datahead8888> Some people have suggested I add line casting to a collision box in my game; is this what you mean?
 [2015/11/13 14:59:30] <brmbrmcar> Idon't know.
 [2015/11/13 14:59:40] <brmbrmcar> What is your game?
+[2015/11/13 15:01:09] <datahead8888> It is a Unity 2D platformer/shooter
+[2015/11/13 15:01:21] <datahead8888> I was just curious how Super Tux handled things for reference
+[2015/11/13 15:02:05] <brmbrmcar> OK.
+[2015/11/13 15:02:21] <brmbrmcar> Ino nothing about collision based stuff.
+[2015/11/13 15:02:38] <leyyin> maths22, `sudo: required` is the opposite of `sudo: false` ?
+[2015/11/13 15:03:57] <maths22> leyyin: nope
+[2015/11/13 15:04:07] <maths22> The opposite is just not including `sudo: false`
+[2015/11/13 15:04:27] <leyyin> the opposite as sudo:falses always run on containters
+[2015/11/13 15:04:35] <leyyin> sudo:required never run on containers
+[2015/11/13 15:04:53] <leyyin> so they seem to be ;)
+[2015/11/13 15:05:07] <maths22> What is wrong wtih containers if you don't need sudo?
+[2015/11/13 15:05:29] <leyyin> I do not know
+[2015/11/13 15:05:53] <maths22> Were you just asking for your curiosity?
+[2015/11/13 15:06:17] <brmbrmcar> Run this command but allow it to do anything it wants to this computer!
+[2015/11/13 15:06:17] <leyyin> well yes
+[2015/11/13 15:06:26] <leyyin> I am testing something out for the stk-editor
+[2015/11/13 15:06:43] <brmbrmcar> The stk-editor doesn't work!
+[2015/11/13 15:06:59] <leyyin> brmbrmcar, how so?
+[2015/11/13 15:07:05] <leyyin> open issue
+[2015/11/13 15:07:41] <brmbrmcar> I selected the directory with the files in and nothing happened!
+[2015/11/13 15:08:03] <leyyin> did you read the manual :D
+[2015/11/13 15:08:03] <leyyin> ?
+[2015/11/13 15:08:16] <brmbrmcar> Yes.
+[2015/11/13 15:08:28] <brmbrmcar> And the first step failed!
+[2015/11/13 15:08:46] <brmbrmcar> Does it neeed to be 0.9.x?
+[2015/11/13 15:08:54] <Karkus> datahead8888: A Unity game is a bit difficult to compare to SuperTux
+[2015/11/13 15:09:01] <leyyin> I will have to check it out later
+[2015/11/13 15:09:12] <brmbrmcar> OK.
+[2015/11/13 15:09:53] <datahead8888> Karkus, yes, but some principles do not change
+[2015/11/13 15:10:56] <brmbrmcar> sudo apt-get install unity
+[2015/11/13 15:11:55] <maths22> brmbrmcar: glad to know you appreciate the Ubuntu desktop interface
+[2015/11/13 15:12:14] <maths22> (That is what that command would actually install on an Ubuntu machine)
+[2015/11/13 15:12:54] <brmbrmcar> I don't like the tracking.
+[2015/11/13 15:13:23] <brmbrmcar> And all the social media stuff.
+[2015/11/13 15:13:44] <leyyin> maths22, also, is there no cleaner way to install mac packages? checking with an if "$TRAVIS_OS_NAME" = "osx" is ugly :D
+[2015/11/13 15:13:51] <leyyin> in before_install
+[2015/11/13 15:14:13] <maths22> leyyin: at this point in time, no
+[2015/11/13 15:14:26] <maths22> Hopefully, travis adds support like they have for apt as a plugin
+[2015/11/13 15:14:31] <leyyin> yes :D
+[2015/11/13 15:14:33] <leyyin> brew:
+[2015/11/13 15:14:34] <leyyin> like apt
+[2015/11/13 15:14:43] <maths22> That would be nice
+[2015/11/13 15:14:57] <maths22> That said, SuperTux previously had it as a manual apt-get command
