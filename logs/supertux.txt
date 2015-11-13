@@ -4691,3 +4691,24 @@
 [2015/11/13 15:58:42] @ tux|dude joined channel #supertux
 [2015/11/13 15:58:46] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#72: Tux Is at the Wrong Level on the World Map - 13http://git.io/v4IJV
 [2015/11/13 15:59:08] @ Quit: tux|dude: Client Quit
+[2015/11/13 16:00:34] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#72: Tux Is at the Wrong Level on the World Map - 13http://git.io/v4IUX
+[2015/11/13 16:00:54] @ Quit: alket: Ping timeout: 255 seconds
+[2015/11/13 16:02:01] <Tobbi> guys.
+[2015/11/13 16:02:49] <brmbrmcar> yes.
+[2015/11/13 16:03:01] <Tobbi> never mind.
+[2015/11/13 16:04:59] @ Karkus joined channel #supertux
+[2015/11/13 16:06:55] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#72: Tux Is at the Wrong Level on the World Map - 13http://git.io/v4IIs
+[2015/11/13 16:08:02] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#72: Tux Is at the Wrong Level on the World Map - 13http://git.io/v4IIK
+[2015/11/13 16:08:12] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#72: Tux Is at the Wrong Level on the World Map - 13http://git.io/v4II1
+[2015/11/13 16:08:44] <brmbrmcar> !ocifitoN
+[2015/11/13 16:09:48] <Tobbi> Wow, congratulations. You can spell things backwards.
+[2015/11/13 16:11:01] <brmbrmcar> .sdraw sgniht lleps nac uoY .snoitalutargnoc ,woW
+[2015/11/13 16:11:51] <brmbrmcar> s/.sdraw/.drawkcab
+[2015/11/13 16:12:02] <Tobbi> brmbrmcar: Why do you feel the need to get on my nerves?  Do something useful.
+[2015/11/13 16:12:46] <brmbrmcar> Like what?
+[2015/11/13 16:12:57] <brmbrmcar> Create Supertux OS?
+[2015/11/13 16:13:06] <Tobbi> brmbrmcar: No. Try to reproduce that issue.
+[2015/11/13 16:13:20] <brmbrmcar> Ooh. Er...
+[2015/11/13 16:13:30] @ alket joined channel #supertux
+[2015/11/13 16:14:34] <brmbrmcar> I reset .supertux2 and everything was fine.
+[2015/11/13 16:14:58] <brmbrmcar> But it was the same version that was buggy before.
