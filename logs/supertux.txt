@@ -4753,3 +4753,6 @@
 [2015/11/13 18:05:14] <Karkus> the strings I mean
 [2015/11/13 18:05:17] <Karkus> Tobbi: Okay
 [2015/11/13 18:10:23] @ Quit: Karkus: Ping timeout: 272 seconds
+[2015/11/13 18:15:06] @ Karkus joined channel #supertux
+[2015/11/13 18:20:51] @ Quit: claymore2: Quit: Leaving
+[2015/11/13 18:28:07] @ Quit: Tobbi: 
