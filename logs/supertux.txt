@@ -4113,3 +4113,4 @@
 [2015/11/13 01:41:58] @ Quit: swift110: Remote host closed the connection
 [2015/11/13 01:43:28] @ Quit: tux|dude: Quit: Leaving
 [2015/11/13 01:51:28] @ Quit: tuxdev_: Ping timeout: 240 seconds
+[2015/11/13 02:14:08] @ leyyin joined channel #supertux
