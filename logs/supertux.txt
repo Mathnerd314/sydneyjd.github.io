@@ -4004,3 +4004,6 @@
 [2015/11/12 19:13:23] <head8debian> Tobbi: Does this computer even look worth $45? http://www.asus.com/Notebooks/Eee_PC_1001PX_Seashell/
 [2015/11/12 19:13:30] <head8debian> Used. 2gb ram.
 [2015/11/12 19:14:40] <Tobbi> head8debian: I have no idea.
+[2015/11/12 19:15:25] <head8debian> Hmm... A local school is gettign rid of a bunch of them.
+[2015/11/12 19:29:07] <head8debian> Tobbi: But Windows 10 is such a hog that i don't think they would fare well on them.
+[2015/11/12 19:29:39] <Tobbi> heh
