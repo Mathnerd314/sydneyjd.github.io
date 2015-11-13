@@ -4083,3 +4083,10 @@
 [2015/11/12 19:57:11] <Tobbi> head8debian: Kids are easier to integrate into a dishwasher than grownups. So there's that.
 [2015/11/12 19:57:43] <head8debian> heh.
 [2015/11/12 19:58:46] <Tobbi> head8debian: Have you ever tried to integrate kids into a dishwasher?
+[2015/11/12 20:00:15] <head8debian> Tobbi: No.
+[2015/11/12 20:00:31] <head8debian> Tobbi: Do you have some Cat5 that i can have?
+[2015/11/12 20:00:43] <Tobbi> head8debian: No, I wouldn't be able to care about a cat.
+[2015/11/12 20:00:44] <head8debian> I need a short piece.
+[2015/11/12 20:00:49] <Tobbi> * care for
+[2015/11/12 20:00:59] <Tobbi> Ask Schroedinger.
+[2015/11/12 20:01:00] <head8debian> :-)
