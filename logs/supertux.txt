@@ -4039,3 +4039,47 @@
 [2015/11/12 19:43:27] <head8debian> nm...
 [2015/11/12 19:43:38] <head8debian> Tobbi: Maybe he will send you pretty spam emails. :D
 [2015/11/12 19:43:48] <Tobbi> head8debian: I don't think he would.
+[2015/11/12 19:46:10] <head8debian> Tobbi: I don't think i will buy any of those computers...
+[2015/11/12 19:46:27] <head8debian> I honestly don't feel right trying to resell anything with less than 4gb of ram.
+[2015/11/12 19:46:28] <Tobbi> head8debian: Good thinking. I would suggest a Rechenschiebevorrichtung.
+[2015/11/12 19:47:08] <head8debian> Tobbi: Huh?
+[2015/11/12 19:47:28] <Tobbi> head8debian: calculation shifting appliance.
+[2015/11/12 19:47:34] <head8debian> _O
+[2015/11/12 19:47:45] <head8debian> Ouch Ouch!
+[2015/11/12 19:47:51] <head8debian> my eye got cut off!
+[2015/11/12 19:47:53] <head8debian> O
+[2015/11/12 19:47:59] <head8debian> Oh, there it is. :p
+[2015/11/12 19:48:56] <Tobbi> head8debian: You're becoming more like brmbrmcar every day.
+[2015/11/12 19:48:58] <Tobbi> Stop that.
+[2015/11/12 19:49:35] <head8debian> Tobbi: LOL. Sorry. :-) Or is he becoming like me? :)
+[2015/11/12 19:49:50] <Tobbi> head8debian: Or you two are the same person?
+[2015/11/12 19:49:58] <Tobbi> Besides http://www.stupidedia.org/stupi/Stoiber-Rhetorik
+[2015/11/12 19:51:07] <head8debian> Tobbi: Definately not.
+[2015/11/12 19:51:15] <Tobbi> head8debian: good.
+[2015/11/12 19:51:51] <head8debian> Tobbi: I should work on our wiki...
+[2015/11/12 19:52:06] <Tobbi> head8debian: No, you should work on language add-on support.
+[2015/11/12 19:52:19] <Tobbi> For some reason it won't work properly unless you restart...
+[2015/11/12 19:52:19] <head8debian> Tobbi: I cannot code. We have been over this.
+[2015/11/12 19:52:29] <head8debian> Uhm, at least it work?
+[2015/11/12 19:52:31] <head8debian> works*
+[2015/11/12 19:52:39] <Tobbi> head8debian: Yeah, it works...
+[2015/11/12 19:52:46] <Tobbi> head8debian: You should really learn how to code.
+[2015/11/12 19:54:02] <head8debian> Tobbi: I will learn a little when my Arduino gets here.
+[2015/11/12 19:54:19] <Tobbi> head8debian: Okay, at least that's Python. Is it on its way?
+[2015/11/12 19:54:23] <head8debian> Tobbi: I cannot even motivate myself to learn to program, how can i motivate myself to learn to code?
+[2015/11/12 19:54:24] <Tobbi> Wait, is it python?
+[2015/11/12 19:54:34] <Tobbi> head8debian: Aren't those two things the same thing?
+[2015/11/12 19:54:36] <head8debian> Tobbi: No. Its a hack up of C and C++
+[2015/11/12 19:54:43] <Tobbi> Even better!
+[2015/11/12 19:54:46] <head8debian> program a website**
+[2015/11/12 19:55:02] <head8debian> Except my arduino was supposed to be here last week...
+[2015/11/12 19:55:08] <head8debian> And still hasn't appeared.
+[2015/11/12 19:55:10] <Tobbi> head8debian: Do you hate giving presentations as much as I do?
+[2015/11/12 19:55:33] <head8debian> When i give one i will let you know. :-)
+[2015/11/12 19:55:54] <Tobbi> heh...
+[2015/11/12 19:56:23] <head8debian> Tobbi: Im getting more comfortable with speaking in front of people...
+[2015/11/12 19:56:40] <Tobbi> head8debian: Well, actually it was worse when I was younger.
+[2015/11/12 19:56:50] <head8debian> Tobbi: I speek in front of kids at church all the time, so how much harder can can grown ups be? :D
+[2015/11/12 19:57:11] <Tobbi> head8debian: Kids are easier to integrate into a dishwasher than grownups. So there's that.
+[2015/11/12 19:57:43] <head8debian> heh.
+[2015/11/12 19:58:46] <Tobbi> head8debian: Have you ever tried to integrate kids into a dishwasher?
