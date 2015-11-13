@@ -4223,3 +4223,23 @@
 [2015/11/13 10:27:07] @ ced117 joined channel #supertux
 [2015/11/13 10:36:29] @ brmbrmcar joined channel #supertux
 [2015/11/13 10:37:40] <maths22> I'm now going to try to get my changes polished up so I can then submit pull requests
+[2015/11/13 10:48:31] <head8debian> Tobbi: I think Chrome is hacked...
+[2015/11/13 10:48:48] <head8debian> Tobbi: Its giving me random history results, which i never looked up.
+[2015/11/13 10:49:17] <head8debian> And dirty results, if you know what i mean.
+[2015/11/13 10:50:16] <brmbrmcar> It is fine for me.
+[2015/11/13 10:50:27] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/13 10:50:33] <brmbrmcar> I don't haveit
+[2015/11/13 10:52:09] <head8debian> o_O
+[2015/11/13 10:53:14] <brmbrmcar> I am on a Chromebook.
+[2015/11/13 10:53:21] <leyyin> head8debian, that is just you ;)
+[2015/11/13 10:53:23] <leyyin> bad boy
+[2015/11/13 10:53:27] <brmbrmcar> So I have Chrome!
+[2015/11/13 10:54:55] <head8debian> leyyin: No its not!
+[2015/11/13 10:55:03] <head8debian> I don't look up stuff like that!
+[2015/11/13 10:55:07] <brmbrmcar> Snot!
+[2015/11/13 10:55:27] <leyyin> head8debian, then where does it come from ;) ?
+[2015/11/13 10:55:45] <leyyin> maybe someone else is using your computer
+[2015/11/13 10:56:03] <brmbrmcar> Like your goats.
+[2015/11/13 10:57:44] <head8debian> Time to do some investigative work...
+[2015/11/13 10:58:04] <head8debian> brmbrmcar: I don't think my goats have wifi way over there, or can type so well.
+[2015/11/13 10:59:56] <brmbrmcar> They use superfast Goat internet.
