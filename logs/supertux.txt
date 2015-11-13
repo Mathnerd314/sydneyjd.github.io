@@ -4542,3 +4542,25 @@
 [2015/11/13 14:38:30] <brmbrmcar> Because it would be chaos.
 [2015/11/13 14:39:09] <brmbrmcar> It is a game-wide thing.
 [2015/11/13 14:40:26] <datahead8888> Does Super Tux only use one collision box/circle to detect both enemy hits and if Tux is standing on the ground, or does it use a second collision detection and/or line casting?  If it only uses one collision, how does it tell if he collided on top of an object?
+[2015/11/13 14:45:09] <datahead8888> I needed to clean up my collision detection in another game and was curious about this in Super Tux, since Math Nerd referenced it when I asked him.
+[2015/11/13 14:49:58] <Karkus> datahead8888: I don't understand your question, what's wrong with one collision box?
+[2015/11/13 14:54:05] <datahead8888> I never said anything was wrong with it :)
+[2015/11/13 14:54:11] <datahead8888> I just asked how Super Tux does it.
+[2015/11/13 14:54:59] <datahead8888> In my own game, I have one circle collider plus, essentially, four smaller circle colliders on top, bottom, left, and right.  It is a mess, I think.
+[2015/11/13 14:55:02] <Karkus> datahead8888: Then I don't understand your question :P
+[2015/11/13 14:55:35] <brmbrmcar> Collision!
+[2015/11/13 14:55:55] <datahead8888> Does Super Tux detect both Super Tux running into enemies and standing on the ground using only one collision box?  Is more than one collision box used?  Does it also use line casting for part of this?
+[2015/11/13 14:56:20] <brmbrmcar> I have no idea.
+[2015/11/13 14:56:28] <brmbrmcar> I think just the one.
+[2015/11/13 14:56:41] <datahead8888> Okay, I got that impression from what Math Nerd said
+[2015/11/13 14:57:09] <datahead8888> I'd be curious to know how it tells if Tux is standing on top of a collided object or is to the side, though
+[2015/11/13 14:57:37] <Karkus> datahead8888: All I know is, we use collision boxes, and we have problems sometimes
+[2015/11/13 14:57:52] <datahead8888> Yes, especially with slopes I've heard
+[2015/11/13 14:57:53] <Karkus> datahead8888: Boxes are different
+[2015/11/13 14:58:04] <Karkus> datahead8888: Correct
+[2015/11/13 14:58:24] <brmbrmcar> I don't know, maybe with decimals and gradient stuff to tell it which side of box.
+[2015/11/13 14:58:42] <datahead8888> Gradients?
+[2015/11/13 14:58:50] <brmbrmcar> Yeah
+[2015/11/13 14:59:08] <datahead8888> Some people have suggested I add line casting to a collision box in my game; is this what you mean?
+[2015/11/13 14:59:30] <brmbrmcar> Idon't know.
+[2015/11/13 14:59:40] <brmbrmcar> What is your game?
