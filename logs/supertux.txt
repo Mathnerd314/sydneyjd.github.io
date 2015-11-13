@@ -4516,3 +4516,11 @@
 [2015/11/13 13:14:37] <Tobbi> Ah, yes, I could.
 [2015/11/13 13:14:55] <Tobbi> Not sure if it even is a tinygettext problem.
 [2015/11/13 13:14:59] <Tobbi> I'll try to investigate.
+[2015/11/13 13:17:40] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/13 13:17:56] <Karkus> ~note Tobbi I'd love to help, but idk where to start when it comes to this problem
+[2015/11/13 13:17:56] <red_bot> okay then :), Karkus
+[2015/11/13 13:18:44] <brmbrmcar> Whydid Tobbi come to the wierdo conclusion about my glitch?
+[2015/11/13 13:18:46] <mt> what problem?
+[2015/11/13 13:18:53] <mt> (don't want to read the backlog)
+[2015/11/13 13:20:17] @ Quit: Karkus: Remote host closed the connection
+[2015/11/13 13:21:44] @ Karkus joined channel #supertux
