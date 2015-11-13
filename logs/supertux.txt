@@ -4405,3 +4405,75 @@
 [2015/11/13 12:44:52] <Karkus> Tobbi: http://retux.nongnu.org/index.html this uses SuperTux images
 [2015/11/13 12:44:52] <head8debian> Tobbi: I wonder if brmbrmcar is spying on us through the logs... they will refresh in 3 mins...
 [2015/11/13 12:44:54] @ brmbrmcar joined channel #supertux
+[2015/11/13 12:45:01] <Karkus> Speak of the devil
+[2015/11/13 12:45:05] <Tobbi> head8debian: He PMed me and asked me why I kicked him.
+[2015/11/13 12:45:07] <head8debian> :p
+[2015/11/13 12:45:13] <Tobbi> He told me his message wasn't coming through.
+[2015/11/13 12:45:29] <head8debian> brmbrmcar: Don't Ping people repeadedly.
+[2015/11/13 12:45:30] <Tobbi> Not sure if his client was acting up or whether he was just getting on our nerves.
+[2015/11/13 12:45:48] <head8debian> Tobbi: I think latter... my client never acts up...
+[2015/11/13 12:45:50] <Tobbi> I still assume it's the latter but we can never know.
+[2015/11/13 12:45:52] <Tobbi> hah
+[2015/11/13 12:46:02] <Karkus> brmbrmcar: If there appears to be a problem, try reconnecting rather than resending the message
+[2015/11/13 12:46:06] <head8debian> Ive never have had one act up either.
+[2015/11/13 12:46:17] <brmbrmcar> I didn't know I sent it.
+[2015/11/13 12:46:32] <brmbrmcar> After a while I just restarted.
+[2015/11/13 12:46:35] <Tobbi> brmbrmcar: mt told you to stop, what else could he have been referring to?
+[2015/11/13 12:46:45] <brmbrmcar> I didn't see it.
+[2015/11/13 12:46:53] <Karkus> head8debian: My experience with bad internet tells me that sometimes I send a message and see it in the client but it hasn't sent.
+[2015/11/13 12:47:00] <Karkus> This could be the other way rounf
+[2015/11/13 12:47:24] <maths22> I'm guessing the client stopped showing new messages
+[2015/11/13 12:47:34] <maths22> Including those he sent
+[2015/11/13 12:47:37] <Karkus> maths22: I'm guessing that too
+[2015/11/13 12:48:00] <head8debian> Karkus: irssi tells me if its having trouble connecting to the server.
+[2015/11/13 12:48:17] <Karkus> head8debian: After how long?
+[2015/11/13 12:48:40] <Karkus> Hexchat takes a while to notice
+[2015/11/13 12:49:15] <head8debian> Karkus: Usually a few seconds. Then it tells you when the last time it was able to contact the server.
+[2015/11/13 12:49:24] <maths22> It sounds like a bug, not a network error
+[2015/11/13 12:49:34] <brmbrmcar> The [#supertux] disappeared.
+[2015/11/13 12:49:41] <Karkus> It doesn't matter what caused it.
+[2015/11/13 12:49:44] <maths22> Given that he had to restart to fix it
+[2015/11/13 12:49:54] <head8debian> brmbrmcar: What IRC client do you use now?
+[2015/11/13 12:50:37] <brmbrmcar> irssi
+[2015/11/13 12:51:19] <head8debian> o_O
+[2015/11/13 12:51:41] <Karkus> HexChat is better :P
+[2015/11/13 12:51:56] <head8debian> Karkus: :-)
+[2015/11/13 12:52:03] <head8debian> User glitch... :p
+[2015/11/13 12:52:17] <Karkus> head8debian: ?
+[2015/11/13 12:52:42] <maths22> Irssi is certainly better-you can leave it running on a server 24/7
+[2015/11/13 12:53:02] <maths22> I can't do that with hexchat
+[2015/11/13 12:53:08] <Karkus> maths22: Why would you?
+[2015/11/13 12:53:11] <Karkus> It's a gui
+[2015/11/13 12:53:11] <brmbrmcar> And anyway, when I say the word "test", surely you must mean something has happened?
+[2015/11/13 12:53:36] <maths22> I wouldn't
+[2015/11/13 12:53:42] <Tobbi> Karkus: Not sure if you can help it, but: Would you know/be able to find out how to make tinygettext effectively re-read the dictionaries (currently, language add-ons still don't work properly until you restart)
+[2015/11/13 12:54:15] <maths22> My point was that irssi is clearly superior because it is cli- based /s
+[2015/11/13 12:54:20] <Karkus> Tobbi: I'll have a look. Doubt I'll be of any help D:
+[2015/11/13 12:54:38] <Tobbi> No problem.
+[2015/11/13 12:55:14] <Karkus> maths22: Superior for some things, but sometimes you just want a pretty GUI
+[2015/11/13 12:55:16] <head8debian> Karkus: Irssi is running on a headless server for me.
+[2015/11/13 12:55:29] <head8debian> The last couple days the server hasn't had the best uptime. :p
+[2015/11/13 12:55:30] <Karkus> head8debian: Which is a good way to use it
+[2015/11/13 12:55:42] <mt> weechat <3
+[2015/11/13 12:55:43] <head8debian> Yes, thats why im "always" in IRC.
+[2015/11/13 12:55:51] <mt> also command line + support for IRCv3
+[2015/11/13 12:55:53] <Karkus> head8debian: I figured
+[2015/11/13 12:56:29] <Karkus> head8debian: I did try irssi but I didn't like it, just my opinion :) Not the kind of thing I needed
+[2015/11/13 12:56:30] <brmbrmcar> irssijust looks awesome
+[2015/11/13 12:56:55] <maths22> I actually have irssi set up as a proxy too, so I can use native irc clients (on my phone) in the same session
+[2015/11/13 12:56:58] <Karkus> brmbrmcar: No, it looks like it's cli based
+[2015/11/13 12:57:32] <head8debian> maths22: I don't really care. Irssi does the job well, and according to you is not "broken".
+[2015/11/13 12:57:53] <brmbrmcar> Karkus: What?
+[2015/11/13 12:57:56] <head8debian> maths22: I just ssh into my server.
+[2015/11/13 12:58:03] <head8debian> From my phone. :)
+[2015/11/13 12:58:11] <mt> http://urandom.eu.org/i/qVWvCIav.png
+[2015/11/13 12:58:16] <maths22> Some days I do
+[2015/11/13 12:58:16] <Karkus> Command Line... Interface?
+[2015/11/13 12:58:19] <head8debian> I don't like phone IRC though.
+[2015/11/13 12:58:29] * head8debian laughs...
+[2015/11/13 12:58:55] <maths22> I mostly got tired of losing spell check and swype
+[2015/11/13 12:58:56] <head8debian> Now we are sharing screenshots? :p
+[2015/11/13 12:59:06] <head8debian> maths22: Ah.
+[2015/11/13 12:59:39] <head8debian> Irssi + guake = awesome. :D
+[2015/11/13 12:59:52] <maths22> mt: which os?
+[2015/11/13 12:59:56] <head8debian> I have my irc client at the cue of a couple hotkeys.
