@@ -4712,3 +4712,7 @@
 [2015/11/13 16:13:30] @ alket joined channel #supertux
 [2015/11/13 16:14:34] <brmbrmcar> I reset .supertux2 and everything was fine.
 [2015/11/13 16:14:58] <brmbrmcar> But it was the same version that was buggy before.
+[2015/11/13 16:15:18] <Tobbi> ok
+[2015/11/13 16:15:22] <swift110> lol
+[2015/11/13 16:20:30] <brmbrmcar> You know that frozen sleepy spkiy issue?
+[2015/11/13 16:20:50] <brmbrmcar> The spiky should have both legs together when frozen.
