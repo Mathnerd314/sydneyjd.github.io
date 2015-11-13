@@ -4192,3 +4192,15 @@
 [2015/11/13 09:14:39] <Tobbi> :D
 [2015/11/13 09:14:42] <Tobbi> maths22: Thanks.
 [2015/11/13 09:14:47] <maths22> Also, I haven't yet integrated your recent changes into my branch, hence the wrong version number
+[2015/11/13 09:15:02] <maths22> (It hasn't been rebuilt recently)
+[2015/11/13 09:15:11] <Tobbi> Right!
+[2015/11/13 09:15:14] <Tobbi> No problem.
+[2015/11/13 09:15:46] <Tobbi> leyyin: I got a task for you: Find out why language packs only work properly after a restart...
+[2015/11/13 09:16:02] <Tobbi> for SuperTux that is.
+[2015/11/13 09:16:39] <leyyin> busy for STK :P
+[2015/11/13 09:16:44] <leyyin> hiker is gonna kill me
+[2015/11/13 09:16:56] <leyyin> Tobbi, what is your threat?
+[2015/11/13 09:17:13] <Tobbi> leyyin: I can kill you as well? As you know, I got a chainsaw.
+[2015/11/13 09:17:20] <Tobbi> Actually, make that two.
+[2015/11/13 09:17:24] <leyyin> hiker has connections ;)
+[2015/11/13 09:18:00] <Tobbi> damn.
