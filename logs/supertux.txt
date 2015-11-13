@@ -4152,3 +4152,22 @@
 [2015/11/13 08:41:38] <head8debian> Tobbi: Why?
 [2015/11/13 08:42:24] <Tobbi> I thought I had shutdown my computer.
 [2015/11/13 08:42:47] <Tobbi> Well..
+[2015/11/13 08:47:27] <Tobbi> head8debian: SuperTux 0.3.5a is now in homebrew-games
+[2015/11/13 08:48:18] <leyyin> who uses mac anyways :P
+[2015/11/13 08:48:34] <Tobbi> leyyin: Who uses Chromebooks, anyways? :P
+[2015/11/13 08:48:42] <leyyin> not me ;)
+[2015/11/13 08:48:57] <leyyin> I did not use one for almost 2 months
+[2015/11/13 08:48:57] <Tobbi> leyyin: Maybe if I knew anything about computers, I would probably buy a different one.
+[2015/11/13 08:53:57] <Tobbi> Okay, that is getting old, I have to admit.
+[2015/11/13 08:55:09] * head8debian nods...
+[2015/11/13 08:55:32] <head8debian> Tobbi: You don't need to buy a diferent one, you need to install Arch on your current one. :D
+[2015/11/13 08:55:40] <Tobbi> head8debian: I'd rather not.
+[2015/11/13 08:57:52] <leyyin> head8debian, everyone knows that arch is for peasants and gentoo is for gods ;)
+[2015/11/13 08:58:42] <head8debian> Ok, debian? :D
+[2015/11/13 08:58:53] <leyyin> debian is for plebs :P
+[2015/11/13 08:59:04] <head8debian> Tobbi + ubuntu. Fits perfect. :p
+[2015/11/13 08:59:11] <Tobbi> I tried ubuntu.
+[2015/11/13 08:59:18] <head8debian> leyyin + gentoo, fits perfect.
+[2015/11/13 08:59:18] <Tobbi> Didn't like it.
+[2015/11/13 08:59:30] <head8debian> head8debian + gentoo. Pushing it too far.
+[2015/11/13 08:59:36] <head8debian> Tobbi: I don't blame you.
