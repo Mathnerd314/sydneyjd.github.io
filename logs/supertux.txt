@@ -4125,3 +4125,8 @@
 [2015/11/13 03:53:44] <leyyin> http://brlcad.org/usr/web/brlcad.org/builds/SUPERTUX-0.3.4-GIT-win32.exe
 [2015/11/13 03:53:49] <leyyin> http://brlcad.org/usr/web/brlcad.org/builds/SUPERTUX-0.3.4-GIT-Darwin.dmg
 [2015/11/13 03:53:52] <leyyin> not found
+[2015/11/13 06:33:29] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/11/13 06:37:39] @ Tobbi joined channel #supertux
+[2015/11/13 06:37:40] @ Mode +o Tobbi by ChanServ
+[2015/11/13 06:38:00] <Tobbi> maths22, Why are the binaries still called 0.3.4-Git? I thought I'd fixed this.
+[2015/11/13 06:42:50] <Tobbi> maths22, Also, the windows builds are missing SSLEAY32.dll and LIBEAY32.dll
