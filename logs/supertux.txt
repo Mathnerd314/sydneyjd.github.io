@@ -4220,3 +4220,4 @@
 [2015/11/13 09:54:33] <Tobbi> maths22: So, target those that work. The other ones, well, if you can, compile the missing deps yourself on those distros and use that.
 [2015/11/13 10:06:16] @ irungentoo joined channel #supertux
 [2015/11/13 10:14:48] <maths22> that is what i have been doing
+[2015/11/13 10:27:07] @ ced117 joined channel #supertux
