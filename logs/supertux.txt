@@ -4320,3 +4320,31 @@
 [2015/11/13 12:13:03] <Tobbi> I don't know.
 [2015/11/13 12:13:45] <mt> well as seen in the picture it uses our images
 [2015/11/13 12:14:21] <mt> so, ask a lawyer and then submit a DMCA takedown notice?
+[2015/11/13 12:16:33] @ bb010g joined channel #supertux
+[2015/11/13 12:16:38] <head8debian> sue, sue!
+[2015/11/13 12:16:39] <head8debian> :p
+[2015/11/13 12:16:42] <maths22> Since these are art assets, and not code, the application of the GPL to them is less than obvious
+[2015/11/13 12:16:48] <maths22> Thus, a good question for a lawyer
+[2015/11/13 12:16:58] <head8debian> Sew Sew... :p
+[2015/11/13 12:17:08] <head8debian> Tobbi: Sorry...
+[2015/11/13 12:17:18] <Tobbi> head8debian: Sorry for what?
+[2015/11/13 12:18:10] <Tobbi> mt: The image are share-alike. So if he shares only those (allows them to be downloaded)...
+[2015/11/13 12:18:32] <Tobbi> right?
+[2015/11/13 12:18:50] <Tobbi> I don't really want to pay for a lawyer :D not for this project.
+[2015/11/13 12:19:15] <mt> I think EFF or some other open source organization provides lawyers for projects
+[2015/11/13 12:19:26] <maths22> Due to the fact that images are not code, not linked in code, etc, sharing the assets probably is enough for him
+[2015/11/13 12:20:49] <Tobbi> I hope he attributes us...
+[2015/11/13 12:20:53] <Tobbi> He has to...
+[2015/11/13 12:21:43] <mt> "Although ReTux re-uses the art assets of SuperTux, no code from SuperTux is used in ReTux."
+[2015/11/13 12:22:04] <Tobbi> Yes.
+[2015/11/13 12:22:21] <Tobbi> Okay, I rather meant in-game as well.
+[2015/11/13 12:22:42] <maths22> I believe it owuld simply need to be in the game distribution
+[2015/11/13 12:22:58] <maths22> That is, in some LICENCE/LEGAL/CREDITS file distributed with the game
+[2015/11/13 12:23:12] <Tobbi> Unfortunately we cannot check.
+[2015/11/13 12:23:23] <Tobbi> Since there are no binary distributions available,
+[2015/11/13 12:24:20] <maths22> If there is no binary distribution, then it is hard to violate the terms associated with a binary distrubtion
+[2015/11/13 12:24:23] <Tobbi> Are any of the items under a CC-NC license?
+[2015/11/13 12:25:06] <maths22> (That is, he can't be doing something wrong with a thing that he is has not created/shared)
+[2015/11/13 12:25:43] <maths22> everything appears to be GPL or CC-BY-SA
+[2015/11/13 12:26:06] <mt> Well, the art *has* to be attributed in any case, be it in the code or in a binary distribution
+[2015/11/13 12:26:24] <mt> even if it'd just be CC-BY
