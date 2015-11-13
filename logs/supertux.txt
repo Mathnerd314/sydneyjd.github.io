@@ -4122,3 +4122,6 @@
 [2015/11/13 03:25:04] <maths22> Please test the linux ones
 [2015/11/13 03:25:17] <maths22> Also, let me know what distros/versions I should add
 [2015/11/13 03:25:37] <maths22> (Ubuntu 15.04 and 15.10 aren't there now, but they should be added by tomorrow)
+[2015/11/13 03:53:44] <leyyin> http://brlcad.org/usr/web/brlcad.org/builds/SUPERTUX-0.3.4-GIT-win32.exe
+[2015/11/13 03:53:49] <leyyin> http://brlcad.org/usr/web/brlcad.org/builds/SUPERTUX-0.3.4-GIT-Darwin.dmg
+[2015/11/13 03:53:52] <leyyin> not found
