@@ -4740,3 +4740,5 @@
 [2015/11/13 17:38:54] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/13 17:42:21] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2015/11/13 17:43:56] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91037437
+[2015/11/13 17:46:05] @ Tobbi joined channel #supertux
+[2015/11/13 17:46:05] @ Mode +o Tobbi by ChanServ
