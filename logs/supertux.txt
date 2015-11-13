@@ -4221,3 +4221,5 @@
 [2015/11/13 10:06:16] @ irungentoo joined channel #supertux
 [2015/11/13 10:14:48] <maths22> that is what i have been doing
 [2015/11/13 10:27:07] @ ced117 joined channel #supertux
+[2015/11/13 10:36:29] @ brmbrmcar joined channel #supertux
+[2015/11/13 10:37:40] <maths22> I'm now going to try to get my changes polished up so I can then submit pull requests
