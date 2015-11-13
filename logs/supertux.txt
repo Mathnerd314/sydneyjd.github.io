@@ -4007,3 +4007,35 @@
 [2015/11/12 19:15:25] <head8debian> Hmm... A local school is gettign rid of a bunch of them.
 [2015/11/12 19:29:07] <head8debian> Tobbi: But Windows 10 is such a hog that i don't think they would fare well on them.
 [2015/11/12 19:29:39] <Tobbi> heh
+[2015/11/12 19:30:43] <head8debian> Tobbi: Google chrome is a hog as of recently also...
+[2015/11/12 19:31:16] <Tobbi> head8debian: I see.
+[2015/11/12 19:33:39] <head8debian> Tobbi: You haven't noticed? :)
+[2015/11/12 19:33:47] <Tobbi> head8debian: I don't use google chrome as much.
+[2015/11/12 19:34:05] <head8debian> Tobbi: I cannot open more than 10 tabs now in chrome without filling up my ram and causing swap to kick in.
+[2015/11/12 19:36:07] <head8debian> Tobbi: Am i boring you?
+[2015/11/12 19:36:17] <Tobbi> head8debian: Do you want me to be honest?
+[2015/11/12 19:38:21] <head8debian> Tobbi: Yes!
+[2015/11/12 19:38:28] <Tobbi> head8debian: Actually, as much as you write, you could become a wikipedia editor.
+[2015/11/12 19:39:25] <head8debian> Tobbi: I've considered it. :-) If i got paid i might consider it.
+[2015/11/12 19:39:33] <head8debian> further*
+[2015/11/12 19:39:44] <Tobbi> head8debian: Why would you want to get paid?
+[2015/11/12 19:40:00] <Tobbi> head8debian: Wikipedia is a voluntary site. No one earns anything.
+[2015/11/12 19:40:07] <Tobbi> Except Jimmy Wales.
+[2015/11/12 19:40:10] <head8debian> I know. :-) It was a joke.
+[2015/11/12 19:40:33] <head8debian> But for as much as we both type we could have huge websites with tons of info...
+[2015/11/12 19:40:43] <head8debian> And this is the best ive gotten... :p
+[2015/11/12 19:40:51] * head8debian looks at sydneyjd.github.io
+[2015/11/12 19:41:33] * Tobbi looks at http://www.stupidedia.org/stupi/Eichh%C3%B6rnchenwerfen
+[2015/11/12 19:42:02] <head8debian> Tobbi: o_O
+[2015/11/12 19:42:13] <Tobbi> :D
+[2015/11/12 19:42:20] <Tobbi> head8debian: I wrote that article.
+[2015/11/12 19:42:35] <head8debian> Tobbi: Yay... i won a 5$ visa gift card. it will appear in my email in about 2 weeks. o_O
+[2015/11/12 19:42:50] <Tobbi> head8debian: I never received that chocolate package from Switzerland...
+[2015/11/12 19:42:53] <Tobbi> :-(
+[2015/11/12 19:42:57] <head8debian> :-(
+[2015/11/12 19:43:03] <head8debian> Tobbi: You wrote that?
+[2015/11/12 19:43:11] <Tobbi> I gave this guy my home address, damn it.
+[2015/11/12 19:43:20] <Tobbi> head8debian: Who wrote what?
+[2015/11/12 19:43:27] <head8debian> nm...
+[2015/11/12 19:43:38] <head8debian> Tobbi: Maybe he will send you pretty spam emails. :D
+[2015/11/12 19:43:48] <Tobbi> head8debian: I don't think he would.
