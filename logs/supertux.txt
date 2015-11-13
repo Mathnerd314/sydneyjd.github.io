@@ -4133,3 +4133,4 @@
 [2015/11/13 07:01:11] @ Quit: Tobbi: Read error: Connection reset by peer
 [2015/11/13 07:08:27] @ Fmttm joined channel #supertux
 [2015/11/13 07:14:50] @ Quit: Fmttm: Ping timeout: 276 seconds
+[2015/11/13 07:45:01] @ Wuzzy joined channel #supertux
