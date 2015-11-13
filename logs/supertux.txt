@@ -4204,3 +4204,9 @@
 [2015/11/13 09:17:20] <Tobbi> Actually, make that two.
 [2015/11/13 09:17:24] <leyyin> hiker has connections ;)
 [2015/11/13 09:18:00] <Tobbi> damn.
+[2015/11/13 09:35:43] <maths22> By the way, what Linux distros should we be building for?
+[2015/11/13 09:35:50] @ tuxdev_ joined channel #supertux
+[2015/11/13 09:39:45] <Tobbi> hmm. let me check.
+[2015/11/13 09:43:21] <head8debian> Uhm, every OS we can? :D
+[2015/11/13 09:43:35] <head8debian> distro*
+[2015/11/13 09:44:40] <maths22> Setting up each one takes a non-zero amount of effort
