@@ -4104,3 +4104,5 @@
 [2015/11/12 22:16:26] @ mhall119_ joined channel #supertux
 [2015/11/12 22:16:29] @ mhall119_ is now known as mhall119
 [2015/11/12 22:41:18] @ Quit: irungentoo: Remote host closed the connection
+[2015/11/12 22:56:05] @ tux|dude joined channel #supertux
+[2015/11/12 22:56:20] @ Quit: tux|dude: Read error: Connection reset by peer
