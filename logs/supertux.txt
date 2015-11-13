@@ -4477,3 +4477,42 @@
 [2015/11/13 12:59:39] <head8debian> Irssi + guake = awesome. :D
 [2015/11/13 12:59:52] <maths22> mt: which os?
 [2015/11/13 12:59:56] <head8debian> I have my irc client at the cue of a couple hotkeys.
+[2015/11/13 13:00:11] <brmbrmcar> How did you get it lokoing like that?
+[2015/11/13 13:00:17] <head8debian> That reminds me, i should change my desktop background.
+[2015/11/13 13:00:28] <head8debian> Look like he has a 4k screen or something...
+[2015/11/13 13:00:31] <mt> Arch Linux, bspwm, GTK and QT with the Arc theme + breeze icons
+[2015/11/13 13:00:50] <mt> Terminal is gnome-terminal but I'm also using xfce4-terminal
+[2015/11/13 13:01:17] <mt> tmux for as terminal multiplexer, weechat for IRC
+[2015/11/13 13:01:57] <mt> and no 4K, it's a full HD 27" display
+[2015/11/13 13:02:11] <head8debian> Oh, 2k then. :)
+[2015/11/13 13:02:25] <head8debian> Yeah... thats huge.
+[2015/11/13 13:02:29] <brmbrmcar> 32K
+[2015/11/13 13:02:42] <brmbrmcar> 4K is horrible!
+[2015/11/13 13:03:05] <brmbrmcar> 4K is just giant blocks of colour!
+[2015/11/13 13:03:14] <head8debian> maths22: Why bspwm?
+[2015/11/13 13:03:27] <head8debian> maths22: Arg. Sorry.
+[2015/11/13 13:03:33] <head8debian> mt: Why bspwm?
+[2015/11/13 13:03:53] <mt> because it like its configuration; it supports gaps etc.
+[2015/11/13 13:04:05] <head8debian> Ah.
+[2015/11/13 13:04:10] <mt> oh and I'm using conky for the bar at the top
+[2015/11/13 13:04:12] <head8debian> Well, use what you like...
+[2015/11/13 13:04:46] <head8debian> When this video finishes rendering i will show you my desktop...
+[2015/11/13 13:04:52] <leyyin> mt, https://www.reddit.com/r/unixporn
+[2015/11/13 13:05:10] <head8debian> I have lxpanel up top for my siblings. :D
+[2015/11/13 13:08:40] @ Quit: brmbrmcar: Ping timeout: 240 seconds
+[2015/11/13 13:09:09] @ brmbrmcar joined channel #supertux
+[2015/11/13 13:09:25] <brmbrmcar> Why?
+[2015/11/13 13:11:07] <mt> why what
+[2015/11/13 13:11:41] <head8debian> http://www.zimagez.com/zimage/screenshot2015-11-1313-08-59.php
+[2015/11/13 13:11:52] <head8debian> A whopping 1600x900 pixels there too. :D
+[2015/11/13 13:11:56] <head8debian> lol.
+[2015/11/13 13:12:10] <brmbrmcar> Do I keep getting the same glitch?
+[2015/11/13 13:12:34] <leyyin> head8debian, not r/unixporn worthy :/
+[2015/11/13 13:13:05] <head8debian> leyyin: So what. :D
+[2015/11/13 13:13:10] <head8debian> It looks good to me.
+[2015/11/13 13:13:59] <Karkus> Tobbi: you could contact Grumbel?
+[2015/11/13 13:14:11] <Tobbi> Karkus: For what?
+[2015/11/13 13:14:18] <Karkus> tinygettext
+[2015/11/13 13:14:37] <Tobbi> Ah, yes, I could.
+[2015/11/13 13:14:55] <Tobbi> Not sure if it even is a tinygettext problem.
+[2015/11/13 13:14:59] <Tobbi> I'll try to investigate.
