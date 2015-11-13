@@ -4218,3 +4218,5 @@
 [2015/11/13 09:50:09] <Tobbi> I mean: Target most popular distros and be good with it.
 [2015/11/13 09:50:45] <maths22> You can see which ones are currently working here: https://build.opensuse.org/package/show/home:maths22:SuperTux/supertux2
 [2015/11/13 09:54:33] <Tobbi> maths22: So, target those that work. The other ones, well, if you can, compile the missing deps yourself on those distros and use that.
+[2015/11/13 10:06:16] @ irungentoo joined channel #supertux
+[2015/11/13 10:14:48] <maths22> that is what i have been doing
