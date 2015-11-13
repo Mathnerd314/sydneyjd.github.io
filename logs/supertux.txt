@@ -3988,3 +3988,19 @@
 [2015/11/12 18:57:21] <red_bot> okay then :), head8debian
 [2015/11/12 18:59:35] <head8debian> Tobbi: Going to work late again tonight?
 [2015/11/12 18:59:48] <Tobbi> head8debian: I am not sure.
+[2015/11/12 19:01:58] <Tobbi> head8debian: What about you take over... :P Make language add-ons work after I tried unsuccessfully.
+[2015/11/12 19:03:54] <Tobbi> head8debian: Did we actually ever decide on a proper release date?
+[2015/11/12 19:09:09] <head8debian> Tobbi: Im thinking the day before christmas...
+[2015/11/12 19:09:15] <head8debian> If thats possible.
+[2015/11/12 19:09:26] <Tobbi> head8debian: But then people won't have that much time to see the new x-mas stuff.
+[2015/11/12 19:09:31] <Tobbi> Actually, let me have a look.
+[2015/11/12 19:10:42] <head8debian> Tobbi: True...
+[2015/11/12 19:10:49] <head8debian> Tobbi: How about the 20th?
+[2015/11/12 19:10:56] <Tobbi> head8debian: That could work.
+[2015/11/12 19:11:00] <Tobbi> But, let's see...
+[2015/11/12 19:11:37] <head8debian> Im afk. :)
+[2015/11/12 19:12:21] <Tobbi> head8debian: SuperTux 0.3.1 was released on the 20th.
+[2015/11/12 19:12:25] <Tobbi> So, maybe we should do that.
+[2015/11/12 19:13:23] <head8debian> Tobbi: Does this computer even look worth $45? http://www.asus.com/Notebooks/Eee_PC_1001PX_Seashell/
+[2015/11/12 19:13:30] <head8debian> Used. 2gb ram.
+[2015/11/12 19:14:40] <Tobbi> head8debian: I have no idea.
