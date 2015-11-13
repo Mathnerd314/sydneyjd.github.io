@@ -4261,3 +4261,33 @@
 [2015/11/13 11:11:16] @ nerdopolis joined channel #supertux
 [2015/11/13 11:11:21] <head8debian> mt: Opensuse Leap.
 [2015/11/13 11:14:45] <mt> oh so they basically just made a jump with the version number for the stable release
+[2015/11/13 11:34:42] @ Quit: nerdopolis: Read error: Connection reset by peer
+[2015/11/13 11:35:24] @ nerdopolis joined channel #supertux
+[2015/11/13 11:38:07] <maths22> mt: open build service does not include Universe
+[2015/11/13 11:38:25] <maths22> And building SDL2 from source on ubuntu 15.10 is currently broken
+[2015/11/13 11:39:28] <maths22> see https://bugs.launchpad.net/ubuntu/+source/libsdl2/+bug/1502745
+[2015/11/13 11:40:26] <maths22> I don't know why opensuse 13.2 gives me weird compile errors, but I will debug those tonight
+[2015/11/13 11:41:14] <maths22> mt: Also, if you could send me that PKGBUILD, that would be great
+[2015/11/13 11:41:19] <maths22> It would give me a nice starting point
+[2015/11/13 11:45:51] @ Log started by red_bot
+[2015/11/13 11:45:51] @ Joined channel #supertux
+[2015/11/13 11:45:51] @ Topic is "Welcome to the SuperTux chat | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | ©häññèł łôǥ http://sydneyjd.github.io/logs/ | nightly builds http://brlcad.org/~maths22/supertux-nightly/"
+[2015/11/13 11:45:51] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-11-11 12:43:08 -0500
+[2015/11/13 11:45:54] @ Mode +nt by tepper.freenode.net
+[2015/11/13 11:47:52] @ quit (restarting, back in 5...)
+[2015/11/13 11:47:53] @ Log closed by * (rescan or shutdown)
+[2015/11/13 11:49:01] @ Log started by red_bot
+[2015/11/13 11:49:01] @ Joined channel #supertux
+[2015/11/13 11:49:01] @ Topic is "Welcome to the SuperTux chat | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | ©häññèł łôǥ http://sydneyjd.github.io/logs/ | nightly builds http://brlcad.org/~maths22/supertux-nightly/"
+[2015/11/13 11:49:01] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-11-11 12:43:08 -0500
+[2015/11/13 11:49:06] @ Mode +nt by weber.freenode.net
+[2015/11/13 11:49:26] <brmbrmcar> red_bot: Where is your cloak?
+[2015/11/13 11:50:12] <brmbrmcar> Ah, you found it.
+[2015/11/13 11:55:09] <mt> maths22: https://gist.github.com/maxteufel/a4b8562022ae08e6939e
+[2015/11/13 11:55:22] @ alket joined channel #supertux
+[2015/11/13 11:56:07] <mt> Also, I'd sugggest you to use such a dynamic versioning using git commit number since first commit and git commit hash for the other packages
+[2015/11/13 11:56:25] <mt> Since OBS provides a usable repository for package manager
+[2015/11/13 11:56:27] <mt> s
+[2015/11/13 11:57:34] <maths22> mt: I will fix the version numbers
+[2015/11/13 11:57:42] <maths22> They will end up like git describe ones
+[2015/11/13 11:57:57] <maths22> (latest tag + hash)
