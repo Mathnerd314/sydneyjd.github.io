@@ -4348,3 +4348,60 @@
 [2015/11/13 12:25:43] <maths22> everything appears to be GPL or CC-BY-SA
 [2015/11/13 12:26:06] <mt> Well, the art *has* to be attributed in any case, be it in the code or in a binary distribution
 [2015/11/13 12:26:24] <mt> even if it'd just be CC-BY
+[2015/11/13 12:33:17] @ Joined channel #supertux
+[2015/11/13 12:33:17] @ Topic is "Welcome to the SuperTux chat | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | ©häññèł łôǥ http://sydneyjd.github.io/logs/ | nightly builds http://brlcad.org/~maths22/supertux-nightly/"
+[2015/11/13 12:33:17] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-11-11 12:43:30 -0500
+[2015/11/13 12:33:21] @ Mode +nt by leguin.freenode.net
+[2015/11/13 12:33:22] <brmbrmcar> maths22: It says that it wasn't going to work on its own.
+[2015/11/13 12:33:26] <Tobbi> mt: If SuperTux accepted donations, this would be a great case for it.
+[2015/11/13 12:33:27] <Tobbi> :D
+[2015/11/13 12:33:27] <brmbrmcar> maths22: It says that it wasn't going to work on its own.
+[2015/11/13 12:33:28] <brmbrmcar> maths22: It says that it wasn't going to work on its own.
+[2015/11/13 12:33:29] <Karkus> red_bot: Ola
+[2015/11/13 12:33:29] <red_bot> Karkus, you have notes! [Nov-12 18:57] <head8debian> I3 with Dmenu.
+[2015/11/13 12:33:36] <mt> brmbrmcar: can you stop?
+[2015/11/13 12:33:41] <Tobbi> sydney's gonna follow.
+[2015/11/13 12:33:44] <brmbrmcar> maths22: It says that it wasn't going to work on its own.
+[2015/11/13 12:33:51] <brmbrmcar> maths22: It says that it wasn't going to work on its own.
+[2015/11/13 12:33:55] <Karkus> brmbmrcar: ???
+[2015/11/13 12:33:56] @ brmbrmcar has been kicked from #supertux by Tobbi (Stop!)
+[2015/11/13 12:34:25] <Tobbi> This guy's odd sometimes.
+[2015/11/13 12:34:34] <Karkus> Tobbi: Yup...
+[2015/11/13 12:34:59] <Tobbi> :D
+[2015/11/13 12:35:56] <head8debian> :D
+[2015/11/13 12:35:57] <Karkus> Tobbi: Looking in the logs, what's the problem with DMCA?
+[2015/11/13 12:35:59] @ brmbrmcar joined channel #supertux
+[2015/11/13 12:36:01] <brmbrmcar> maths22: It says that it wasn't going to work on its own.
+[2015/11/13 12:36:12] <mt> wtf
+[2015/11/13 12:36:25] @ brmbrmcar has been kicked from #supertux by Tobbi (it's a ban next time!)
+[2015/11/13 12:36:45] <Karkus> Tobbi: nvm found it
+[2015/11/13 12:36:51] <Tobbi> ok
+[2015/11/13 12:37:43] <Tobbi> Does this guy indulge in getting on other people's nerves?
+[2015/11/13 12:37:55] <maths22> who?
+[2015/11/13 12:38:23] <Tobbi> maths22: brmbrmcar, the guy who pinged you repeatedly?
+[2015/11/13 12:39:03] <maths22> ok.  i assumed somtging gliched in his client
+[2015/11/13 12:39:15] <Karkus> Tobbi: Kick me, I want to see what happens
+[2015/11/13 12:39:20] <Tobbi> Karkus: Sure?
+[2015/11/13 12:39:21] <Tobbi> Okay.
+[2015/11/13 12:39:25] @ Karkus has been kicked from #supertux by Tobbi (test)
+[2015/11/13 12:40:24] @ Karkus joined channel #supertux
+[2015/11/13 12:40:36] <Karkus> Tobbi: Okay, cool.
+[2015/11/13 12:40:46] <Tobbi> Karkus: "cool"
+[2015/11/13 12:40:59] <head8debian> :p
+[2015/11/13 12:41:09] <Karkus> yeah why not?
+[2015/11/13 12:41:09] @ Quit: nerdopolis: Remote host closed the connection
+[2015/11/13 12:41:22] <Tobbi> Not sure.
+[2015/11/13 12:42:12] <head8debian> Tobbi: I can give you a bouncer if you would really like.
+[2015/11/13 12:42:23] <Tobbi> head8debian: I'd rather go for a proper one...
+[2015/11/13 12:42:29] <Tobbi> Or I host it on my raspberry pi.
+[2015/11/13 12:42:40] <head8debian> Tobbi: :D
+[2015/11/13 12:42:44] <head8debian> It is propper.
+[2015/11/13 12:43:34] <Karkus> Regarding that freegamedev post, what if he's using the code from supertux too?
+[2015/11/13 12:43:40] <Karkus> How could we ever know?
+[2015/11/13 12:43:55] <Tobbi> We can't.
+[2015/11/13 12:44:23] <Tobbi> That's actually a problem.
+[2015/11/13 12:44:38] <Karkus> With the GPL in general
+[2015/11/13 12:44:50] <Tobbi> Yes.
+[2015/11/13 12:44:52] <Karkus> Tobbi: http://retux.nongnu.org/index.html this uses SuperTux images
+[2015/11/13 12:44:52] <head8debian> Tobbi: I wonder if brmbrmcar is spying on us through the logs... they will refresh in 3 mins...
+[2015/11/13 12:44:54] @ brmbrmcar joined channel #supertux
