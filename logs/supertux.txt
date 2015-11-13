@@ -4090,3 +4090,4 @@
 [2015/11/12 20:00:49] <Tobbi> * care for
 [2015/11/12 20:00:59] <Tobbi> Ask Schroedinger.
 [2015/11/12 20:01:00] <head8debian> :-)
+[2015/11/12 20:56:23] @ Quit: Tobbi: Remote host closed the connection
