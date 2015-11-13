@@ -4728,3 +4728,12 @@
 [2015/11/13 17:14:05] <Karkus> Tobbi: https://github.com/Karkus476/spritesheet-creator
 [2015/11/13 17:14:12] <Karkus> It works, at least
 [2015/11/13 17:14:15] <Karkus> not very fast
+[2015/11/13 17:15:41] <Tobbi> Karkus: Still fine with me. We still have time to improve this before 0.4.*
+[2015/11/13 17:17:43] <Tobbi> Let's trigger another coverity scan build.
+[2015/11/13 17:22:36] <Not-6fa5> [02supertux] 07tobbi pushed 0323 commits to 03coverity_scan [+4/-0/±1271] 13http://git.io/v4IV0
+[2015/11/13 17:22:38] <Not-6fa5> [02supertux] 07Sydney Dykstra 03e4dca50 - try to add new cloud tile
+[2015/11/13 17:22:39] <Not-6fa5> [02supertux] 07Tobias Markus 03d9ea4a0 - Update tinygettext
+[2015/11/13 17:22:41] <Not-6fa5> [02supertux] 07Tobias Markus 03ac6b784 - Fix invalid tile ID
+[2015/11/13 17:22:42] <Not-6fa5> [02supertux] ... and 20 more commits.
+[2015/11/13 17:22:44] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91037437
+[2015/11/13 17:23:38] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91037437
