@@ -4291,3 +4291,32 @@
 [2015/11/13 11:57:34] <maths22> mt: I will fix the version numbers
 [2015/11/13 11:57:42] <maths22> They will end up like git describe ones
 [2015/11/13 11:57:57] <maths22> (latest tag + hash)
+[2015/11/13 12:00:24] <mt> Yeah but be careful with the PKGBUILD because that won't really work (0.4.0.ae4ab9b will be considered a lower version than 0.4.0.bb0e3e1 in pacman)
+[2015/11/13 12:00:50] <mt> I don't know how other systems will handle that
+[2015/11/13 12:01:38] <maths22> this is why it is actually latest tag + num commits + hash
+[2015/11/13 12:01:55] <maths22> i.e 1.0.4-14-g2414721
+[2015/11/13 12:02:00] <mt> why do you write tag + hash then
+[2015/11/13 12:02:11] <maths22> Because I wasn't thinking
+[2015/11/13 12:02:47] <mt> and if you're already saying 1.0.4-14-g24...: pacman doesn't allow dashes in pkgver
+[2015/11/13 12:04:31] <brmbrmcar> Nome of the buil;ds work for me.
+[2015/11/13 12:05:09] @ Tobbi joined channel #supertux
+[2015/11/13 12:05:09] @ Mode +o Tobbi by ChanServ
+[2015/11/13 12:05:29] <maths22> mt: I can uses dots instead
+[2015/11/13 12:05:38] <maths22> brmbrmcar: which platform?
+[2015/11/13 12:05:54] <maths22> mt: s/uses/use/
+[2015/11/13 12:06:38] <mt> yeah
+[2015/11/13 12:06:50] <mt> just wanted to make sure you know that
+[2015/11/13 12:07:26] <brmbrmcar> Ubuntu 14.04 AMD64
+[2015/11/13 12:07:46] <Tobbi> What do we do about this? http://forum.freegamedev.net/viewtopic.php?f=68&t=6631&sid=f78925d1a72cc04c79b37af274455b4d
+[2015/11/13 12:08:27] <brmbrmcar> Implement it later.
+[2015/11/13 12:08:32] <maths22> brmbrmcar: what error do you get?
+[2015/11/13 12:09:35] <brmbrmcar> Hang on....
+[2015/11/13 12:11:54] <mt> Tobbi: is that even allowed under GPL/CC-BY-SA? Aren't you only allowed to charge the cost of distribution (which I'd say for savannah is none)?
+[2015/11/13 12:12:19] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2015/11/13 12:12:25] <Tobbi> That's a good question. I thought it was...
+[2015/11/13 12:12:31] <Tobbi> Wait!
+[2015/11/13 12:12:37] <Tobbi> SA...share alike.
+[2015/11/13 12:12:50] <Tobbi> Question is GPL
+[2015/11/13 12:13:03] <Tobbi> I don't know.
+[2015/11/13 12:13:45] <mt> well as seen in the picture it uses our images
+[2015/11/13 12:14:21] <mt> so, ask a lawyer and then submit a DMCA takedown notice?
