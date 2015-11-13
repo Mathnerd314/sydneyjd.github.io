@@ -4093,3 +4093,6 @@
 [2015/11/12 20:56:23] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/12 21:24:33] @ Quit: octo: Ping timeout: 264 seconds
 [2015/11/12 21:24:43] @ octo joined channel #supertux
+[2015/11/12 21:39:09] @ Quit: mhall119: *.net *.split
+[2015/11/12 21:44:17] @ mhall119 joined channel #supertux
+[2015/11/12 21:44:46] @ mhall119_ joined channel #supertux
