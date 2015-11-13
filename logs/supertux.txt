@@ -4100,3 +4100,6 @@
 [2015/11/12 21:52:28] @ Quit: nerdopolis_: Read error: Connection reset by peer
 [2015/11/12 21:53:02] @ nerdopolis joined channel #supertux
 [2015/11/12 22:14:34] @ Quit: tux|dude: Quit: Leaving
+[2015/11/12 22:16:26] @ Quit: mhall119_: Changing host
+[2015/11/12 22:16:26] @ mhall119_ joined channel #supertux
+[2015/11/12 22:16:29] @ mhall119_ is now known as mhall119
