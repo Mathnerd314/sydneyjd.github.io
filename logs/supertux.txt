@@ -4109,3 +4109,4 @@
 [2015/11/12 23:04:02] @ tuxdev_ joined channel #supertux
 [2015/11/12 23:12:04] @ tux|dude joined channel #supertux
 [2015/11/12 23:26:18] @ swift110 joined channel #supertux
+[2015/11/13 00:20:06] @ bb010g joined channel #supertux
