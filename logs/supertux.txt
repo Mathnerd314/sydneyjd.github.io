@@ -4243,3 +4243,21 @@
 [2015/11/13 10:57:44] <head8debian> Time to do some investigative work...
 [2015/11/13 10:58:04] <head8debian> brmbrmcar: I don't think my goats have wifi way over there, or can type so well.
 [2015/11/13 10:59:56] <brmbrmcar> They use superfast Goat internet.
+[2015/11/13 11:00:03] <brmbrmcar> Faster than 5g.
+[2015/11/13 11:00:24] <brmbrmcar> And can type at over 400 WPM.
+[2015/11/13 11:00:41] <head8debian> :p
+[2015/11/13 11:02:29] <mt> maths22: well I'd suggest to get the build working on opensuse 13.2 and ubuntu 15.10 (what's the problem with the latter - libsdl2-*dev exists in the official package archives for wily and even xenial)
+[2015/11/13 11:03:10] <mt> possibly also centos 7, but I'm not sure anybody's using that on a desktop system
+[2015/11/13 11:03:16] <brmbrmcar> Goat internet costs 9999000$ a month.
+[2015/11/13 11:05:08] <head8debian> Nobody i know is using centOS as a desktop OS.
+[2015/11/13 11:05:20] <mt> if you need an Arch Linux PKGBUILD I can provide you one
+[2015/11/13 11:05:25] <brmbrmcar> What is centOS?
+[2015/11/13 11:05:32] <head8debian> maths22: Not opensuse 43 or whatever the latest release is?
+[2015/11/13 11:05:37] <head8debian> mt: ^^
+[2015/11/13 11:05:51] <head8debian> I can also provide one.
+[2015/11/13 11:07:04] <mt> brmbrmcar: it's CentOS and it's a binary-compatible rebuild of the RedHat Enterprise Linux sources without proprietary RedHat logos etc.
+[2015/11/13 11:08:52] <mt> head8debian: openSUSE Tumbleweed is the latest release for the build service, I'm unsure what this OS 42/43/whatever is supposed to be
+[2015/11/13 11:11:02] @ Quit: nerdopolis: Ping timeout: 250 seconds
+[2015/11/13 11:11:16] @ nerdopolis joined channel #supertux
+[2015/11/13 11:11:21] <head8debian> mt: Opensuse Leap.
+[2015/11/13 11:14:45] <mt> oh so they basically just made a jump with the version number for the stable release
