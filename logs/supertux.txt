@@ -4524,3 +4524,4 @@
 [2015/11/13 13:18:53] <mt> (don't want to read the backlog)
 [2015/11/13 13:20:17] @ Quit: Karkus: Remote host closed the connection
 [2015/11/13 13:21:44] @ Karkus joined channel #supertux
+[2015/11/13 13:53:23] @ claymore2 joined channel #supertux
