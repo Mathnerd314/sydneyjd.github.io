@@ -4114,3 +4114,11 @@
 [2015/11/13 01:43:28] @ Quit: tux|dude: Quit: Leaving
 [2015/11/13 01:51:28] @ Quit: tuxdev_: Ping timeout: 240 seconds
 [2015/11/13 02:14:08] @ leyyin joined channel #supertux
+[2015/11/13 03:24:18] <maths22> New nightly build system/plan:
+[2015/11/13 03:24:33] <maths22> Linux on OpenBuildService (run by openSUSE)
+[2015/11/13 03:24:37] <maths22> OS X through travis
+[2015/11/13 03:24:45] <maths22> Windows through AppVeyor
+[2015/11/13 03:24:52] <maths22> Current binaries: http://brlcad.org/~maths22/supertux-download.php
+[2015/11/13 03:25:04] <maths22> Please test the linux ones
+[2015/11/13 03:25:17] <maths22> Also, let me know what distros/versions I should add
+[2015/11/13 03:25:37] <maths22> (Ubuntu 15.04 and 15.10 aren't there now, but they should be added by tomorrow)
