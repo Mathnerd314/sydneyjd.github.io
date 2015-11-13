@@ -4171,3 +4171,24 @@
 [2015/11/13 08:59:18] <Tobbi> Didn't like it.
 [2015/11/13 08:59:30] <head8debian> head8debian + gentoo. Pushing it too far.
 [2015/11/13 08:59:36] <head8debian> Tobbi: I don't blame you.
+[2015/11/13 09:00:11] <head8debian> Tobbi: Its a broken OS IMHO.
+[2015/11/13 09:09:32] <leyyin> os means bone in Romanian :P
+[2015/11/13 09:09:41] <leyyin> get another os Tobbi
+[2015/11/13 09:09:43] <leyyin> good boy
+[2015/11/13 09:09:53] <Tobbi> leyyin: os is bone in Latin as well.
+[2015/11/13 09:10:05] <leyyin> well yeah, we are latin people ;)
+[2015/11/13 09:10:11] <leyyin> among a sea of slavs
+[2015/11/13 09:10:34] <leyyin> and fino-ugric people to the west :P
+[2015/11/13 09:10:54] <Tobbi> leyyin: I don't know anything about languags :D
+[2015/11/13 09:11:04] <Tobbi> *languages
+[2015/11/13 09:11:17] <Tobbi> haha.
+[2015/11/13 09:11:18] <Tobbi> Sorry.
+[2015/11/13 09:11:54] <leyyin> well at least you know your language group, right?
+[2015/11/13 09:12:41] <Tobbi> leyyin: Germanic? :P
+[2015/11/13 09:13:09] * leyyin claps
+[2015/11/13 09:14:22] <maths22> Tobbi: I'll try to fix the windows thing tonight
+[2015/11/13 09:14:29] <Tobbi> leyyin: See! I am not as stupid as people think I am.
+[2015/11/13 09:14:35] <Tobbi> Despite me not knowing anything.
+[2015/11/13 09:14:39] <Tobbi> :D
+[2015/11/13 09:14:42] <Tobbi> maths22: Thanks.
+[2015/11/13 09:14:47] <maths22> Also, I haven't yet integrated your recent changes into my branch, hence the wrong version number
