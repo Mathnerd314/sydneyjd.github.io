@@ -4099,3 +4099,4 @@
 [2015/11/12 21:46:33] @ Quit: mhall119: Ping timeout: 264 seconds
 [2015/11/12 21:52:28] @ Quit: nerdopolis_: Read error: Connection reset by peer
 [2015/11/12 21:53:02] @ nerdopolis joined channel #supertux
+[2015/11/12 22:14:34] @ Quit: tux|dude: Quit: Leaving
