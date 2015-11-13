@@ -4525,3 +4525,8 @@
 [2015/11/13 13:20:17] @ Quit: Karkus: Remote host closed the connection
 [2015/11/13 13:21:44] @ Karkus joined channel #supertux
 [2015/11/13 13:53:23] @ claymore2 joined channel #supertux
+[2015/11/13 14:23:48] <Not-6fa5> [02supertux] 07Karkus476 reopened pull request 03#223: Configs now per profile - 13http://git.io/v8MG4
+[2015/11/13 14:23:50] <Not-6fa5> [02supertux] 07Karkus476 synchronize pull request 03#223: Configs now per profile - 13http://git.io/v8MG4
+[2015/11/13 14:23:54] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91008778
+[2015/11/13 14:24:11] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#223: Configs now per profile - 13http://git.io/v4kB9
+[2015/11/13 14:25:03] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91008778
