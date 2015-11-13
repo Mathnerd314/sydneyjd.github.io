@@ -4742,3 +4742,14 @@
 [2015/11/13 17:43:56] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91037437
 [2015/11/13 17:46:05] @ Tobbi joined channel #supertux
 [2015/11/13 17:46:05] @ Mode +o Tobbi by ChanServ
+[2015/11/13 18:04:03] <Karkus> Tobbi: How does SuperTux get its text to be translated on to the translation website?
+[2015/11/13 18:04:22] <Tobbi> Karkus: I believe we're uploading po files to Transifex.
+[2015/11/13 18:04:27] <Tobbi> Unfortunately I don't know the details.
+[2015/11/13 18:04:31] <Tobbi> Ask giby when he gets back.
+[2015/11/13 18:04:38] <Tobbi> or rather when he magically appears.
+[2015/11/13 18:04:56] <Karkus> Tobbi: Okay, but are they all just added manually
+[2015/11/13 18:05:06] <Tobbi> Karkus: I believe currently they are.
+[2015/11/13 18:05:12] <Tobbi> I was never really interested in that stuff.
+[2015/11/13 18:05:14] <Karkus> the strings I mean
+[2015/11/13 18:05:17] <Karkus> Tobbi: Okay
+[2015/11/13 18:10:23] @ Quit: Karkus: Ping timeout: 272 seconds
