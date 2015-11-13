@@ -4607,3 +4607,50 @@
 [2015/11/13 15:14:34] <leyyin> like apt
 [2015/11/13 15:14:43] <maths22> That would be nice
 [2015/11/13 15:14:57] <maths22> That said, SuperTux previously had it as a manual apt-get command
+[2015/11/13 15:15:03] <maths22> because the apt plugin is pretty new
+[2015/11/13 15:15:17] <brmbrmcar> sudo apt-get install supertux
+[2015/11/13 15:15:27] <brmbrmcar> apt-cache search supertux
+[2015/11/13 15:16:24] <Karkus> datahead8888: Yeah, of course. If you do line collision for each line in the rect, then you'll get the side. Or there are other fun ways.
+[2015/11/13 15:17:02] <brmbrmcar> Crash!
+[2015/11/13 15:19:13] <datahead8888> brmbrmcar, crash?
+[2015/11/13 15:19:39] <brmbrmcar> datahead888: CRASH!
+[2015/11/13 15:19:43] <leyyin> the containers suck :D, only 2 threads, really
+[2015/11/13 15:19:51] <brmbrmcar> FRontal! Side! Rear!
+[2015/11/13 15:19:54] <maths22> By the way, with these automated builds, I'm thinking that we need to change the way we label dev builds
+[2015/11/13 15:19:56] <brmbrmcar> Rollover!
+[2015/11/13 15:20:29] <maths22> Basically, tools tend to mark dev builds as coming x amount after the previous release, not coming before the next one
+[2015/11/13 15:20:30] <Karkus> brmbrmcar: What are you on about?
+[2015/11/13 15:20:54] <brmbrmcar> Crashes!
+[2015/11/13 15:21:03] <brmbrmcar> brm brm car crashes!
+[2015/11/13 15:21:27] <maths22> Therefore, we are currently on v0.3.5-385-gf69dc07 (by Git's numbering)
+[2015/11/13 15:22:34] <maths22> This also makes package numbering work
+[2015/11/13 15:22:59] <maths22> Currently, using our labeling scheme, we are on 0.4.0-git-3ecf...
+[2015/11/13 15:23:17] <maths22> That either is not well ordered or comes after 0.4.0, which is actually the final release
+[2015/11/13 15:23:50] <datahead8888> I think someone likes cars
+[2015/11/13 15:24:32] <maths22> datahead8888: I'm with you on that one
+[2015/11/13 15:24:43] <brmbrmcar> brm brm cars!
+[2015/11/13 15:25:36] <leyyin> the trusty machines are even slower :D
+[2015/11/13 15:25:43] <datahead8888> brmbrmcar, you ought to make a car crashing gmae
+[2015/11/13 15:25:44] <datahead8888> ***game
+[2015/11/13 15:25:52] <brmbrmcar> OK.
+[2015/11/13 15:25:58] <datahead8888> Seriously
+[2015/11/13 15:26:00] <datahead8888> :)
+[2015/11/13 15:26:02] <brmbrmcar> With airbags.
+[2015/11/13 15:26:11] <brmbrmcar> I will try...
+[2015/11/13 15:26:18] <maths22> leyyin: building supertuxkart?
+[2015/11/13 15:26:18] <datahead8888> You could get points for better crashes and set up safety devices in the car
+[2015/11/13 15:26:30] <leyyin> maths22, no, the stk-editor
+[2015/11/13 15:26:33] <datahead8888> Be sure to use a good physics engine
+[2015/11/13 15:26:54] <brmbrmcar> It would have to be realistic.
+[2015/11/13 15:27:04] <datahead8888> Yeah
+[2015/11/13 15:27:05] <maths22> leyyin: how long is it taking?
+[2015/11/13 15:27:15] <datahead8888> You could also send cars into compressors in your game
+[2015/11/13 15:27:34] <datahead8888> Or drop them from airplanes
+[2015/11/13 15:27:35] <leyyin> about 2 minutes on 12.04
+[2015/11/13 15:27:40] <leyyin> about 4 on 14.04
+[2015/11/13 15:28:48] <brmbrmcar> Front end damage cm = speed in kmh divided by overlap
+[2015/11/13 15:29:27] <maths22> leyyin: still less long than I had to wait when setting up the supertux builds
+[2015/11/13 15:29:44] <brmbrmcar> After 40cm half damage amounts per 40cm
+[2015/11/13 15:29:49] <leyyin> on the old machines with 32 threads, under 1 minute
+[2015/11/13 15:29:49] <maths22> And I think I made about 50 commits (and waited through at least 30 of them)
+[2015/11/13 15:29:59] <maths22> leyyin: what machines?
