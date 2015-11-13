@@ -4716,3 +4716,7 @@
 [2015/11/13 16:15:22] <swift110> lol
 [2015/11/13 16:20:30] <brmbrmcar> You know that frozen sleepy spkiy issue?
 [2015/11/13 16:20:50] <brmbrmcar> The spiky should have both legs together when frozen.
+[2015/11/13 16:31:45] <Tobbi> Karkus: We could actually have something in the config which creates spritesheets from the files, couldn't we?
+[2015/11/13 16:31:54] <Tobbi> eeh, I mean the makefile.
+[2015/11/13 16:31:57] <Tobbi> or CMakeLists.txt
+[2015/11/13 16:32:19] @ Quit: bb010g: Quit: Connection closed for inactivity
