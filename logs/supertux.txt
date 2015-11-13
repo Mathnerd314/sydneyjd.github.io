@@ -4680,3 +4680,14 @@
 [2015/11/13 15:43:10] @ swift110 joined channel #supertux
 [2015/11/13 15:43:55] @ Quit: swift110: Changing host
 [2015/11/13 15:43:55] @ swift110 joined channel #supertux
+[2015/11/13 15:47:15] @ Quit: Karkus: Quit: Leaving
+[2015/11/13 15:47:29] @ Tobbi joined channel #supertux
+[2015/11/13 15:47:30] @ Mode +o Tobbi by ChanServ
+[2015/11/13 15:47:34] <Tobbi> so much scrollback.
+[2015/11/13 15:47:34] <red_bot> Tobbi, you have notes! [Nov-13 13:17] <Karkus> I'd love to help, but idk where to start when it comes to this problem
+[2015/11/13 15:47:46] <Tobbi> no problem.
+[2015/11/13 15:49:34] <brmbrmcar> ~seen red_bot
+[2015/11/13 15:49:34] <red_bot> brmbrmcar: red_bot was last seen 9 days, 1 hour, 36 minutes and 4 seconds ago, quitting IRC (Disconnected by services)
+[2015/11/13 15:58:42] @ tux|dude joined channel #supertux
+[2015/11/13 15:58:46] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#72: Tux Is at the Wrong Level on the World Map - 13http://git.io/v4IJV
+[2015/11/13 15:59:08] @ Quit: tux|dude: Client Quit
