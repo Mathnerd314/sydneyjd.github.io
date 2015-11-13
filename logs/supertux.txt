@@ -4130,3 +4130,6 @@
 [2015/11/13 06:37:40] @ Mode +o Tobbi by ChanServ
 [2015/11/13 06:38:00] <Tobbi> maths22, Why are the binaries still called 0.3.4-Git? I thought I'd fixed this.
 [2015/11/13 06:42:50] <Tobbi> maths22, Also, the windows builds are missing SSLEAY32.dll and LIBEAY32.dll
+[2015/11/13 07:01:11] @ Quit: Tobbi: Read error: Connection reset by peer
+[2015/11/13 07:08:27] @ Fmttm joined channel #supertux
+[2015/11/13 07:14:50] @ Quit: Fmttm: Ping timeout: 276 seconds
