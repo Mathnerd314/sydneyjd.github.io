@@ -4721,3 +4721,10 @@
 [2015/11/13 16:31:57] <Tobbi> or CMakeLists.txt
 [2015/11/13 16:32:19] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/11/13 16:59:38] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/13 17:04:21] @ Quit: swift110: Ping timeout: 255 seconds
+[2015/11/13 17:10:34] <Karkus> Tobbi: It would have to be optional
+[2015/11/13 17:10:48] <Tobbi> yes, that's for sure.
+[2015/11/13 17:10:52] <Karkus> Tobbi: Even the most speedy algorithms aren't that fast
+[2015/11/13 17:14:05] <Karkus> Tobbi: https://github.com/Karkus476/spritesheet-creator
+[2015/11/13 17:14:12] <Karkus> It works, at least
+[2015/11/13 17:14:15] <Karkus> not very fast
