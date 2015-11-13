@@ -4210,3 +4210,11 @@
 [2015/11/13 09:43:21] <head8debian> Uhm, every OS we can? :D
 [2015/11/13 09:43:35] <head8debian> distro*
 [2015/11/13 09:44:40] <maths22> Setting up each one takes a non-zero amount of effort
+[2015/11/13 09:45:18] <maths22> Therefore, I want to figure out which ones we want so I can focus that effort on the more important distros/versions first
+[2015/11/13 09:46:31] <head8debian> maths22: Good idea.
+[2015/11/13 09:49:42] <head8debian> Tobbi: What do you think?
+[2015/11/13 09:49:47] <Tobbi> think?
+[2015/11/13 09:49:52] <Tobbi> Sure.
+[2015/11/13 09:50:09] <Tobbi> I mean: Target most popular distros and be good with it.
+[2015/11/13 09:50:45] <maths22> You can see which ones are currently working here: https://build.opensuse.org/package/show/home:maths22:SuperTux/supertux2
+[2015/11/13 09:54:33] <Tobbi> maths22: So, target those that work. The other ones, well, if you can, compile the missing deps yourself on those distros and use that.
