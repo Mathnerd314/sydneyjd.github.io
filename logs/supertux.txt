@@ -4654,3 +4654,29 @@
 [2015/11/13 15:29:49] <leyyin> on the old machines with 32 threads, under 1 minute
 [2015/11/13 15:29:49] <maths22> And I think I made about 50 commits (and waited through at least 30 of them)
 [2015/11/13 15:29:59] <maths22> leyyin: what machines?
+[2015/11/13 15:30:10] <leyyin> the old infrastructure of travis
+[2015/11/13 15:30:34] <leyyin> well I will squash the commits to be only one ;)
+[2015/11/13 15:30:36] <maths22> leyyin: infrastructure they don't have anymore, or the non-container one?
+[2015/11/13 15:30:43] <maths22> leyyin: I will do the same
+[2015/11/13 15:30:50] <leyyin> the non-container one
+[2015/11/13 15:30:51] <maths22> If git doesn't hate me too much
+[2015/11/13 15:31:06] <maths22> leyyin: That's odd.  Those are supposed to have 1.5 cores each (I believe)
+[2015/11/13 15:31:13] <maths22> 32 threads should not have run that well
+[2015/11/13 15:31:31] <leyyin> well it does not run well for STK but for the editor :D
+[2015/11/13 15:31:40] <leyyin> for STK it crashes gcc
+[2015/11/13 15:31:43] <leyyin> out of memory
+[2015/11/13 15:31:54] <maths22> on the old one or the new one?
+[2015/11/13 15:31:56] <leyyin> with make -j 32
+[2015/11/13 15:31:59] <leyyin> the old one
+[2015/11/13 15:32:49] <maths22> leyyin: did it do that with a lower number of parallel jobs, or did it actually build
+[2015/11/13 15:33:05] <maths22> Also, seee the table here: http://docs.travis-ci.com/user/ci-environment/
+[2015/11/13 15:33:17] <leyyin> nproc tells me there are 32
+[2015/11/13 15:34:06] <leyyin> for the editor it did build
+[2015/11/13 15:34:33] <maths22> See http://docs.travis-ci.com/user/speeding-up-the-build/#Parallelizing-your-build-on-one-VM
+[2015/11/13 15:34:39] <maths22> That is where I got the 1.5 number
+[2015/11/13 15:34:46] <maths22> Maybe that is only the new infrastructure
+[2015/11/13 15:39:37] <brmbrmcar> Side impact is harder!
+[2015/11/13 15:42:26] <brmbrmcar> Weight to size ratio percent will change figures, but speed in kmh divided by 4.
+[2015/11/13 15:43:10] @ swift110 joined channel #supertux
+[2015/11/13 15:43:55] @ Quit: swift110: Changing host
+[2015/11/13 15:43:55] @ swift110 joined channel #supertux
