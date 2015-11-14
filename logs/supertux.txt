@@ -5251,3 +5251,5 @@
 [2015/11/14 17:39:30] @ Quit: Karkus: Remote host closed the connection
 [2015/11/14 17:39:52] @ Karkus joined channel #supertux
 [2015/11/14 18:03:30] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/14 18:28:31] @ Quit: datahead8888_: Quit: Leaving
+[2015/11/14 18:28:52] @ datahead8888 joined channel #supertux
