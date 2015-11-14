@@ -5008,3 +5008,45 @@
 [2015/11/14 15:44:23] <brmbrmcar> I installed it through ppa and this isn't working.
 [2015/11/14 15:44:41] <Karkus> brmbrmcar: Installed what?
 [2015/11/14 15:44:50] <head8debian> Tobbi: Its propper for the arduino to specify pins.
+[2015/11/14 15:45:25] <brmbrmcar> Karkus: Flexlay
+[2015/11/14 15:45:38] <head8debian> o_O
+[2015/11/14 15:46:01] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#175: Forest World Levels are Badly Named - 13http://git.io/v4YfO
+[2015/11/14 15:46:06] <Tobbi> Karkus: Java uses "new" for ctor...
+[2015/11/14 15:46:12] <Karkus> brmbrmcar: Don't install it straight from ppa
+[2015/11/14 15:46:17] <Karkus> Tobbi: Ah, yes
+[2015/11/14 15:46:31] <Karkus> Tobbi: Too much pointer stuff for me recently
+[2015/11/14 15:46:38] <Tobbi> Karkus: C++?
+[2015/11/14 15:46:42] <Karkus> YEs
+[2015/11/14 15:46:48] <brmbrmcar> Karkus: So remove it?
+[2015/11/14 15:46:50] <Tobbi> Karkus: Are we talking about SuperTux or school?
+[2015/11/14 15:47:05] <Karkus> Tobbi: We use Python only at school
+[2015/11/14 15:47:11] <Tobbi> Lucky you.
+[2015/11/14 15:47:53] <Karkus> Tobbi: I've told you before that I don't like the way Python has no type in declarations.
+[2015/11/14 15:48:04] <Karkus> But it's a great languag
+[2015/11/14 15:48:13] * Karkus is bad at typing
+[2015/11/14 15:48:14] <Tobbi> Karkus: Probably... Yeah, I don't really have any preference.
+[2015/11/14 15:48:33] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#175: Forest World Levels are Badly Named - 13http://git.io/v4Yfp
+[2015/11/14 15:48:59] <Karkus> Tobbi: I guess it depends what you're trying to do.
+[2015/11/14 15:49:16] @ Quit: mhall119: Ping timeout: 260 seconds
+[2015/11/14 15:49:37] <Tobbi> Karkus: attain world domination.
+[2015/11/14 15:50:04] <brmbrmcar> I cannot select the binaries.
+[2015/11/14 15:50:14] <Tobbi> Neither can I.
+[2015/11/14 15:50:24] <Karkus> brmbrmcar: Follow my tutorial
+[2015/11/14 15:50:33] <Karkus> Tobbi: wut?
+[2015/11/14 15:50:38] <Tobbi> never mind.
+[2015/11/14 15:50:58] @ mhall119 joined channel #supertux
+[2015/11/14 15:51:07] <Karkus> Tobbi: Can you move to a different country first?
+[2015/11/14 15:51:15] <brmbrmcar> Got it working!
+[2015/11/14 15:51:19] <Tobbi> Karkus: Hmm, sure.
+[2015/11/14 15:51:37] <Karkus> brmbrmcar: Test it out, make some issues,
+[2015/11/14 15:51:50] <Karkus> brmbrmcar: Do you know Python by any chance?
+[2015/11/14 15:53:20] <Karkus> Tobbi: I note you've gone back from "Karkus," to "Karkus:". I prefer "brmbrmcar:" because if you use "Karkus," I read the word as part of the sentence.
+[2015/11/14 15:54:00] <Tobbi> Karkus: IRC client differences.
+[2015/11/14 15:54:15] <Karkus> Tobbi: You changed client?
+[2015/11/14 15:54:16] <Tobbi> I have LimeChat on my mac and HexChat on my Windows machine.
+[2015/11/14 15:54:19] <Tobbi> No, machines.
+[2015/11/14 15:54:53] <brmbrmcar> Is it automatic then?
+[2015/11/14 15:55:01] <Tobbi> Yes, if I press tab it is.
+[2015/11/14 15:55:33] <brmbrmcar> Ooh. Posh.
+[2015/11/14 15:58:30] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#175: Forest World Levels are Badly Named - 13http://git.io/v4YT4
+[2015/11/14 15:58:57] @ swift110 joined channel #supertux
