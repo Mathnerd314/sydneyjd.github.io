@@ -5250,3 +5250,4 @@
 [2015/11/14 17:33:42] <red_bot> brmbrmcar meant: "I am playing 0.0.4."
 [2015/11/14 17:39:30] @ Quit: Karkus: Remote host closed the connection
 [2015/11/14 17:39:52] @ Karkus joined channel #supertux
+[2015/11/14 18:03:30] @ Quit: brmbrmcar: Quit: brmbrmquit
