@@ -4827,3 +4827,4 @@
 [2015/11/14 10:14:15] @ NNemesis joined channel #supertux
 [2015/11/14 10:19:25] @ brmbrmcar joined channel #supertux
 [2015/11/14 10:19:35] @ Quit: Hume2: Quit: Page closed
+[2015/11/14 11:01:07] @ Quit: NNemesis: Quit: Lost terminal
