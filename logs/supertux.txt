@@ -4903,3 +4903,48 @@
 [2015/11/14 14:44:27] <mt> I'd suggest
 [2015/11/14 14:44:49] <mt> then `git rebase -i HEAD~2`
 [2015/11/14 14:44:50] <brmbrmcar> I did it.
+[2015/11/14 14:45:02] <brmbrmcar> And the commits have gone again!
+[2015/11/14 14:45:17] <mt> well, so you didn't rebase -i ... yet?
+[2015/11/14 14:45:26] <mt> then git reset --hard ... again
+[2015/11/14 14:45:34] <mt> then git rebase -i ...
+[2015/11/14 14:46:05] <mt> and in the editor coming up, change the 'pick' in front of 'ce83bfc' to 'squash'
+[2015/11/14 14:46:09] <mt> then save + close
+[2015/11/14 14:46:42] <mt> in the new editor window, set a commit message for the squashed commit
+[2015/11/14 14:46:46] <mt> save+close again
+[2015/11/14 14:46:53] <mt> -> you're done
+[2015/11/14 14:48:01] <mt> if you didn't understand something, **ASK** **BEFORE** you do it
+[2015/11/14 14:48:17] <brmbrmcar> I did all that, but it still says everything is up to date.
+[2015/11/14 14:48:37] <mt> paste `git log --oneline | head -n 10`
+[2015/11/14 14:49:14] <mt> also `git remote -v`
+[2015/11/14 14:49:53] <mt> and `git branch -v`
+[2015/11/14 14:50:35] <brmbrmcar> cc5b559 Merge branch 'master' of https://github.com/brmbrmcar/supertux into HEAD
+[2015/11/14 14:50:39] <brmbrmcar> bfa69c8 Add make_invicible() function to Console.
+[2015/11/14 14:50:43] <brmbrmcar> ce83bfc Changed command to make_invincible()
+[2015/11/14 14:50:46] <brmbrmcar> 1ef81c9 Add invicibleone() function to Console.
+[2015/11/14 14:50:48] <brmbrmcar> 1638bfb Update tinygettext (compilation with -Werror)
+[2015/11/14 14:50:51] <brmbrmcar> a3c3f1f Pole ends are no longer solid [ci skip]
+[2015/11/14 14:50:53] <brmbrmcar> e3bfa00 Removed dupe storm-cloud tiles [ci skip] They weren't used so far, so it's OK.
+[2015/11/14 14:50:56] <brmbrmcar> 851c89c Fix invalid tile ID again [ci skip]
+[2015/11/14 14:50:57] <mt> I meant to a pastebin, but well
+[2015/11/14 14:50:59] <brmbrmcar> b0c5571 Fix invalid tile ID [ci skip]
+[2015/11/14 14:51:01] <brmbrmcar> d834780 Update tinygettext
+[2015/11/14 14:51:04] <brmbrmcar> origin  https://github.com/brmbrmcar/supertux.git (fetch)
+[2015/11/14 14:51:08] <brmbrmcar> origin  https://github.com/brmbrmcar/supertux.git (push)
+[2015/11/14 14:51:37] <brmbrmcar> I think this is the problem...
+[2015/11/14 14:51:39] <brmbrmcar> * (no branch) cc5b559 Merge branch 'master' of https://github.com/brmbrmcar/supertux into HEAD                                                                                          master      ce83bfc [origin/master] Changed command to make_invincible()
+[2015/11/14 14:51:44] @ tux|dude joined channel #supertux
+[2015/11/14 14:52:16] <mt> git merge --abort; git branch -v
+[2015/11/14 14:52:57] <brmbrmcar> fatal: There is no merge to abort (MERGE_HEAD missing).
+[2015/11/14 14:53:07] <mt> git rebase --abort; git branch -v
+[2015/11/14 14:53:53] <brmbrmcar> No rebase in progress?
+[2015/11/14 14:54:01] <mt> git checkout master; git branch -v
+[2015/11/14 14:54:39] <brmbrmcar> Git branch -v: * master ce83bfc Changed command to make_invincible()
+[2015/11/14 14:54:57] <mt> git reset --hard origin/master; git branch -v
+[2015/11/14 14:55:25] <brmbrmcar> Made no difference.
+[2015/11/14 14:56:08] <mt> ok, `git rebase -i HEAD~3`, paste the content of the editor window to a pastebin, don't change anything, save it or close it
+[2015/11/14 14:57:26] <brmbrmcar> http://paste.ubuntu.com/13267076/
+[2015/11/14 14:58:06] @ Tobbi joined channel #supertux
+[2015/11/14 14:58:07] @ Mode +o Tobbi by ChanServ
+[2015/11/14 14:58:36] <mt> brmbrmcar: ok, now clear the content of the file and replace it with http://0bin.net/paste/gC7-JOBy4Mo6E9zk#XfAq+6r6alO+yWKt6V6zseU6En5J3EtXhDDQsW-gz90
+[2015/11/14 14:58:47] <mt> then save and close the editor
+[2015/11/14 14:59:26] <mt> then another editor window should come up, paste that as well and don't change anything etc
