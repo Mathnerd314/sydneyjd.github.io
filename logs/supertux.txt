@@ -4834,3 +4834,7 @@
 [2015/11/14 11:39:59] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#175: Forest World Levels are Badly Named - 13http://git.io/v4qpG
 [2015/11/14 11:40:40] @ Quit: claymore2: Quit: Leaving
 [2015/11/14 12:00:18] <Not-6fa5> [02supertux] 07Hume2 commented on issue 03#175: Forest World Levels are Badly Named - 13http://git.io/v4mfK
+[2015/11/14 12:23:26] <Not-6fa5> [02supertux] 07brmbrmcar synchronize pull request 03#220: Add invicibleone() function to Console. - 13http://git.io/v84Gc
+[2015/11/14 12:23:29] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91130129
+[2015/11/14 12:24:22] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91130129
+[2015/11/14 12:24:48] <brmbrmcar> I ALWAYS forget the ci skip.
