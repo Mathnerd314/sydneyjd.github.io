@@ -4778,3 +4778,4 @@
 [2015/11/13 19:55:41] <suptux2> please give me link, how can download the super tux 0.3.3
 [2015/11/13 20:00:07] @ Quit: suptux2: Ping timeout: 246 seconds
 [2015/11/13 20:05:17] @ Quit: alket: Quit: Leaving
+[2015/11/13 21:14:54] @ Quit: irungentoo: Remote host closed the connection
