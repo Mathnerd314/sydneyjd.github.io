@@ -4771,3 +4771,8 @@
 [2015/11/13 19:11:28] <Karkus> head8debian: https://twitter.com/hashtag/Parisattacks?src=hash
 [2015/11/13 19:11:56] <Karkus> People being taken hostage, suicide bombings, shootings in Paris
 [2015/11/13 19:12:11] <Karkus> dozens killed or injured
+[2015/11/13 19:45:35] @ Quit: Karkus: Ping timeout: 276 seconds
+[2015/11/13 19:46:34] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#223: Configs now per profile - 13http://git.io/v4Lq2
+[2015/11/13 19:54:40] @ suptux2 joined channel #supertux
+[2015/11/13 19:54:49] <suptux2> hello
+[2015/11/13 19:55:41] <suptux2> please give me link, how can download the super tux 0.3.3
