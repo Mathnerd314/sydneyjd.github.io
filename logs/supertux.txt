@@ -4948,3 +4948,15 @@
 [2015/11/14 14:58:36] <mt> brmbrmcar: ok, now clear the content of the file and replace it with http://0bin.net/paste/gC7-JOBy4Mo6E9zk#XfAq+6r6alO+yWKt6V6zseU6En5J3EtXhDDQsW-gz90
 [2015/11/14 14:58:47] <mt> then save and close the editor
 [2015/11/14 14:59:26] <mt> then another editor window should come up, paste that as well and don't change anything etc
+[2015/11/14 15:03:33] <brmbrmcar> http://paste.ubuntu.com/13267238/
+[2015/11/14 15:08:33] <mt> brmbrmcar: now clear the file out again, replace the content with http://0bin.net/paste/IlBhKuwhHgQiUISl#MLV-/TXAbyMyKZA9NhAnCkd7/p8263pB0iBo4DsWUxc and save+close
+[2015/11/14 15:10:46] <mt> It should say 'Created commit ...: ...' [some more short diffs] 'Successfully rebased and updated refs/heads/master.' oslt
+[2015/11/14 15:11:02] <mt> you can then `git push -f` that
+[2015/11/14 15:13:53] <Not-6fa5> [02supertux] 07brmbrmcar synchronize pull request 03#220: Add make_invincible() function to Console. - 13http://git.io/v84Gc
+[2015/11/14 15:14:01] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91146494
+[2015/11/14 15:14:10] <brmbrmcar> Success!
+[2015/11/14 15:14:26] <brmbrmcar> brmbrmcar commited with brmbrmcar
+[2015/11/14 15:14:35] <mt> yeah
+[2015/11/14 15:14:45] <mt> that's because commit and author date differ
+[2015/11/14 15:14:52] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91146494
+[2015/11/14 15:14:59] <brmbrmcar> OK
