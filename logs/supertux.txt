@@ -4856,3 +4856,13 @@
 [2015/11/14 14:09:20] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/14 14:10:51] <mt> "sorry my system crashed. can you please tell me why?"
 [2015/11/14 14:11:42] <mt> (in other words: we can't help you if you don't provide as much information as possible)
+[2015/11/14 14:18:13] <brmbrmcar> Failed to connect to github port 443: Connection timed out
+[2015/11/14 14:23:43] <mt> https://status.github.com/; are you sure 'github' refers to github.com?
+[2015/11/14 14:24:54] <brmbrmcar> Yes.
+[2015/11/14 14:25:08] <brmbrmcar> I checked status.github.com
+[2015/11/14 14:26:28] <mt> do connections to port 443 fail for other hosts as well?
+[2015/11/14 14:27:27] <mt> github.com:443 is responding to my requests (tried from DE, UK and US-LAX)
+[2015/11/14 14:28:01] <brmbrmcar> I have not idea.
+[2015/11/14 14:28:32] <mt> can you, in general, connect to HTTPS websites?
+[2015/11/14 14:29:25] <brmbrmcar> Yes.
+[2015/11/14 14:29:48] <mt> can you post a traceroute for github.com?
