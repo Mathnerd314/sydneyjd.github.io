@@ -4841,3 +4841,7 @@
 [2015/11/14 12:35:14] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91130129
 [2015/11/14 13:05:08] @ Quit: ced117: Read error: Connection reset by peer
 [2015/11/14 13:10:59] @ ced117 joined channel #supertux
+[2015/11/14 13:15:09] <mt> brmbrmcar: can you squash the commits?
+[2015/11/14 13:16:27] <Not-6fa5> [02supertux] 07maxteufel labeled pull request 03#220: Add make_invincible() function to Console. - 13http://git.io/v84Gc
+[2015/11/14 13:16:28] <Not-6fa5> [02supertux] 07maxteufel labeled pull request 03#220: Add make_invincible() function to Console. - 13http://git.io/v84Gc
+[2015/11/14 13:16:30] <Not-6fa5> [02supertux] 07maxteufel labeled pull request 03#220: Add make_invincible() function to Console. - 13http://git.io/v84Gc
