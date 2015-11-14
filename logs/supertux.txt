@@ -5245,3 +5245,8 @@
 [2015/11/14 17:22:17] <Karkus> brmbrmcar: Don't bother trying to get it
 [2015/11/14 17:22:30] <brmbrmcar> I don't care about chemistry.
 [2015/11/14 17:22:45] <brmbrmcar> Didn't say anything about base.
+[2015/11/14 17:33:28] <brmbrmcar> I am playing 0.4.0.
+[2015/11/14 17:33:42] <brmbrmcar> s/0.4.0/0.0.4/
+[2015/11/14 17:33:42] <red_bot> brmbrmcar meant: "I am playing 0.0.4."
+[2015/11/14 17:39:30] @ Quit: Karkus: Remote host closed the connection
+[2015/11/14 17:39:52] @ Karkus joined channel #supertux
