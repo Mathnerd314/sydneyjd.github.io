@@ -4813,3 +4813,11 @@
 [2015/11/14 08:21:47] @ GitHub122 left channel #supertux ()
 [2015/11/14 08:28:00] @ Tobbi joined channel #supertux
 [2015/11/14 08:28:00] @ Mode +o Tobbi by ChanServ
+[2015/11/14 08:51:14] <head8debian> Hello Tobbi.
+[2015/11/14 08:51:20] <Tobbi> Hello me.
+[2015/11/14 08:52:14] <head8debian> Tobbi: I got my arduino yesterday...
+[2015/11/14 08:52:27] <Tobbi> great.
+[2015/11/14 08:52:59] <head8debian> Tobbi: All these lines of code. :P
+[2015/11/14 08:54:04] <Tobbi> know the feeling.
+[2015/11/14 08:54:24] <head8debian> Its actually not that many. Its just trying to graps how it works...
+[2015/11/14 08:54:33] <Tobbi> that won't take long.
