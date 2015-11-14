@@ -4780,3 +4780,7 @@
 [2015/11/13 20:05:17] @ Quit: alket: Quit: Leaving
 [2015/11/13 21:14:54] @ Quit: irungentoo: Remote host closed the connection
 [2015/11/13 21:23:18] <head8debian> o_O
+[2015/11/14 00:50:30] @ mteufel joined channel #supertux
+[2015/11/14 00:53:14] @ Quit: xnrand: Ping timeout: 250 seconds
+[2015/11/14 00:53:20] @ Quit: mt: Ping timeout: 250 seconds
+[2015/11/14 00:54:01] @ xnrand joined channel #supertux
