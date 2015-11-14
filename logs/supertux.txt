@@ -4784,3 +4784,8 @@
 [2015/11/14 00:53:14] @ Quit: xnrand: Ping timeout: 250 seconds
 [2015/11/14 00:53:20] @ Quit: mt: Ping timeout: 250 seconds
 [2015/11/14 00:54:01] @ xnrand joined channel #supertux
+[2015/11/14 02:00:34] @ datahead8888_ joined channel #supertux
+[2015/11/14 02:01:52] @ maths22_ joined channel #supertux
+[2015/11/14 02:03:51] @ leyyin joined channel #supertux
+[2015/11/14 02:06:01] @ Quit: maths22: Read error: Connection reset by peer
+[2015/11/14 02:06:03] @ Quit: datahead8888: Ping timeout: 255 seconds
