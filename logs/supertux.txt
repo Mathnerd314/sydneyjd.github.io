@@ -4794,3 +4794,6 @@
 [2015/11/14 05:21:27] @ mt joined channel #supertux
 [2015/11/14 05:22:47] @ Quit: mteufel: Ping timeout: 252 seconds
 [2015/11/14 06:16:43] @ alket joined channel #supertux
+[2015/11/14 06:32:48] @ Fmttm joined channel #supertux
+[2015/11/14 06:33:45] @ Quit: brmbrmcar: Ping timeout: 265 seconds
+[2015/11/14 06:37:00] @ Quit: Fmttm: Ping timeout: 240 seconds
