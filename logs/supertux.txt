@@ -4866,3 +4866,40 @@
 [2015/11/14 14:28:32] <mt> can you, in general, connect to HTTPS websites?
 [2015/11/14 14:29:25] <brmbrmcar> Yes.
 [2015/11/14 14:29:48] <mt> can you post a traceroute for github.com?
+[2015/11/14 14:30:09] <brmbrmcar> What is a traceroute?
+[2015/11/14 14:30:21] <mt> first, does https://github.com work for you?
+[2015/11/14 14:31:16] <brmbrmcar> http://paste.ubuntu.com/13266452/
+[2015/11/14 14:31:22] <brmbrmcar> mt: yes
+[2015/11/14 14:31:56] <mt> so if https://github.com works something is wrong in your config
+[2015/11/14 14:32:31] <brmbrmcar> git clone https://github.com/brmbrmcar/supertux.git
+[2015/11/14 14:32:50] <mt> yeah
+[2015/11/14 14:33:03] <brmbrmcar> So, what is the fix?
+[2015/11/14 14:33:18] <mt> ^Cceiving objects:   9% (7334/78006), 2.36 MiB | 791.00 KiB/s
+[2015/11/14 14:33:20] <mt> (returned 130/SIGINT)
+[2015/11/14 14:33:26] <mt> works fine
+[2015/11/14 14:33:53] <brmbrmcar> It's working now.
+[2015/11/14 14:34:03] <brmbrmcar> JUst had a bad few minutes.
+[2015/11/14 14:34:50] <brmbrmcar> Why is the file much bigger than the repository?
+[2015/11/14 14:34:58] <mt> which file?
+[2015/11/14 14:36:16] <mt> if you mean that: the size of a git repository is so much bigger than the actual content/source code because it keeps all history
+[2015/11/14 14:36:41] <mt> it also downloads all history unless you specify a --depth
+[2015/11/14 14:38:19] <brmbrmcar> It said everything was up to date when I pushed the changes.
+[2015/11/14 14:38:38] @ bb010g joined channel #supertux
+[2015/11/14 14:39:47] <mt> well obviously if you didn't push the squashed commit it won't know about that anymore after you deleted your local copy
+[2015/11/14 14:40:15] <mt> now squash the commit, git push -f, and wait for the PR to get merged
+[2015/11/14 14:40:48] <brmbrmcar> Oh no.
+[2015/11/14 14:41:05] <mt> what oh no?
+[2015/11/14 14:41:09] <brmbrmcar> I accidentally removed bothed commit locally.
+[2015/11/14 14:41:23] <mt> git reset?
+[2015/11/14 14:42:01] <mt> git reset --hard <remote for brmbrmcar/supertux>/master
+[2015/11/14 14:42:45] <mt> if you `git clone https://github.com/brmbrmcar/supertux.git`d then it should be `git reset --hard origin/master`
+[2015/11/14 14:43:10] <brmbrmcar> Thaks.
+[2015/11/14 14:43:35] <brmbrmcar> Didn't work, actually.
+[2015/11/14 14:43:59] <brmbrmcar> case, please try git rebase (--continue | --abort | --skip)
+[2015/11/14 14:43:59] <brmbrmcar> If that is not the case, please rm -fr "/home/brmbrmcar/supertux/.git/rebase-merge"
+[2015/11/14 14:44:02] <brmbrmcar> and run me again.  I am stopping in case you still have something
+[2015/11/14 14:44:04] <brmbrmcar> valuable there.
+[2015/11/14 14:44:23] <mt> well, git rebase --abort
+[2015/11/14 14:44:27] <mt> I'd suggest
+[2015/11/14 14:44:49] <mt> then `git rebase -i HEAD~2`
+[2015/11/14 14:44:50] <brmbrmcar> I did it.
