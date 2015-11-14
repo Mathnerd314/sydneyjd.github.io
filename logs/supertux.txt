@@ -4974,3 +4974,37 @@
 [2015/11/14 15:23:36] <brmbrmcar> OK, hang on...
 [2015/11/14 15:25:33] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91146494
 [2015/11/14 15:27:46] <brmbrmcar> http://www.fileconvoy.com/dfl.php?id=gd15e4c7c29903ef29997481919ba2d7fbafe61dac
+[2015/11/14 15:31:21] <mt> (I'd rather use pastebins for sharing levels, imgur for pictures - I don't really trust these unknown file hosters)
+[2015/11/14 15:32:52] <brmbrmcar> imgur sucks.
+[2015/11/14 15:34:41] @ Karkus joined channel #supertux
+[2015/11/14 15:37:49] <Karkus> Tobbi: I am going to email Grumbel to see if he's continuing with Flexlay
+[2015/11/14 15:37:54] <Tobbi> Sure!
+[2015/11/14 15:38:00] <Tobbi> Karkus: Doubtful, though.
+[2015/11/14 15:38:06] <Tobbi> I believe he has a lot of stuff going on.
+[2015/11/14 15:38:17] <Karkus> Tobbi: Well I'd be happy either way
+[2015/11/14 15:38:21] <Tobbi> Sure.
+[2015/11/14 15:38:35] <brmbrmcar> How do you even start up Flexlay?
+[2015/11/14 15:38:42] <Karkus> I can do what I like if he isn't, and can ask for guidance if he is
+[2015/11/14 15:38:50] <Karkus> brmbrmcar: See its wiki
+[2015/11/14 15:38:54] <Karkus> I made a post
+[2015/11/14 15:39:15] <Karkus> If you're on ubuntu (maybe Debian too) it's nice and easy
+[2015/11/14 15:39:16] <brmbrmcar> Where?
+[2015/11/14 15:39:27] <brmbrmcar> I'm onn Ubuntu
+[2015/11/14 15:39:38] <Karkus> https://github.com/SuperTux/flexlay/wiki/Downloading-and-Running-the-Flexlay-Editor
+[2015/11/14 15:40:08] <Karkus> brmbrmcar: Please note that it's pretty bad atm
+[2015/11/14 15:41:07] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#175: Forest World Levels are Badly Named - 13http://git.io/v4YvI
+[2015/11/14 15:42:35] <head8debian> Tobbi: int Tobbi = tobbi;
+[2015/11/14 15:42:37] <head8debian> :p
+[2015/11/14 15:42:46] <Tobbi> head8debian: Since when am I an integer?
+[2015/11/14 15:42:51] <Tobbi> Also, tobbi is not defined.
+[2015/11/14 15:43:06] <Karkus> Tobbi tobbi = Tobbi()
+[2015/11/14 15:43:18] <Tobbi> Karkus: What language is that supposed to be?
+[2015/11/14 15:43:25] <Karkus> Tobbi: Pseudocode
+[2015/11/14 15:43:28] <Karkus> :P
+[2015/11/14 15:43:40] <Tobbi> Karkus: default answer for anything that looks remotely like code :D
+[2015/11/14 15:43:47] <Karkus> Tobbi: Yup.
+[2015/11/14 15:44:07] <Karkus> It could be Java right?
+[2015/11/14 15:44:14] <Karkus> with semicolom
+[2015/11/14 15:44:23] <brmbrmcar> I installed it through ppa and this isn't working.
+[2015/11/14 15:44:41] <Karkus> brmbrmcar: Installed what?
+[2015/11/14 15:44:50] <head8debian> Tobbi: Its propper for the arduino to specify pins.
