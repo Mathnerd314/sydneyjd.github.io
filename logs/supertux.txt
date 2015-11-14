@@ -4756,3 +4756,18 @@
 [2015/11/13 18:15:06] @ Karkus joined channel #supertux
 [2015/11/13 18:20:51] @ Quit: claymore2: Quit: Leaving
 [2015/11/13 18:28:07] @ Quit: Tobbi: 
+[2015/11/13 19:03:13] <Karkus> French bombings O_o
+[2015/11/13 19:04:15] @ Quit: Wuzzy: Quit: Wuzzy
+[2015/11/13 19:06:53] <head8debian> Karkus: Arduino programming O_o
+[2015/11/13 19:07:14] <Karkus> head8debian: What about it?
+[2015/11/13 19:08:36] <head8debian> Im trying to understand how to program it not that i have an Arduino.
+[2015/11/13 19:09:33] <Karkus> head8debian: Wut?
+[2015/11/13 19:09:36] <head8debian> now*
+[2015/11/13 19:09:47] <Karkus> Oh okay
+[2015/11/13 19:09:51] <head8debian> :-)
+[2015/11/13 19:10:13] <Karkus> I'm watching the news have you heard?
+[2015/11/13 19:10:31] <head8debian> No.
+[2015/11/13 19:10:34] <head8debian> What happened?
+[2015/11/13 19:11:28] <Karkus> head8debian: https://twitter.com/hashtag/Parisattacks?src=hash
+[2015/11/13 19:11:56] <Karkus> People being taken hostage, suicide bombings, shootings in Paris
+[2015/11/13 19:12:11] <Karkus> dozens killed or injured
