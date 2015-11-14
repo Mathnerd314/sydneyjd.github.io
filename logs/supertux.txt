@@ -4852,3 +4852,7 @@
 [2015/11/14 13:56:04] <mt> http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
 [2015/11/14 13:56:11] @ Tobbi joined channel #supertux
 [2015/11/14 13:56:12] @ Mode +o Tobbi by ChanServ
+[2015/11/14 14:03:58] <brmbrmcar> I had to remove my local git clone, and now I can't clone it back.
+[2015/11/14 14:09:20] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/14 14:10:51] <mt> "sorry my system crashed. can you please tell me why?"
+[2015/11/14 14:11:42] <mt> (in other words: we can't help you if you don't provide as much information as possible)
