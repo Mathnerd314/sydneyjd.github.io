@@ -4779,3 +4779,4 @@
 [2015/11/13 20:00:07] @ Quit: suptux2: Ping timeout: 246 seconds
 [2015/11/13 20:05:17] @ Quit: alket: Quit: Leaving
 [2015/11/13 21:14:54] @ Quit: irungentoo: Remote host closed the connection
+[2015/11/13 21:23:18] <head8debian> o_O
