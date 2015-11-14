@@ -5050,3 +5050,46 @@
 [2015/11/14 15:55:33] <brmbrmcar> Ooh. Posh.
 [2015/11/14 15:58:30] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#175: Forest World Levels are Badly Named - 13http://git.io/v4YT4
 [2015/11/14 15:58:57] @ swift110 joined channel #supertux
+[2015/11/14 16:00:05] @ Quit: swift110: Changing host
+[2015/11/14 16:00:06] @ swift110 joined channel #supertux
+[2015/11/14 16:01:21] <brmbrmcar> I do not know Python.
+[2015/11/14 16:02:47] <Tobbi> brmbrmcar: I know the feeling. I don't know anything about computers.
+[2015/11/14 16:03:24] <brmbrmcar> You know how to use a lot of stuff.
+[2015/11/14 16:05:54] <Karkus> Tobbi: What is it you don't know about computers?
+[2015/11/14 16:06:06] <Tobbi> Karkus: Everything :P
+[2015/11/14 16:06:13] <Karkus> You know a lot about softwarre
+[2015/11/14 16:06:16] <Karkus> and programming
+[2015/11/14 16:06:32] <Tobbi> Karkus: Okay, you know... just let me keep saying it... It's a spleen of mine :P
+[2015/11/14 16:06:49] <Tobbi> *quirk
+[2015/11/14 16:06:54] <Karkus> Tobbi: A spleen? How many spleens do you have?
+[2015/11/14 16:06:58] <Karkus> :D
+[2015/11/14 16:06:59] <brmbrmcar> I know everything about computers.
+[2015/11/14 16:07:07] <Tobbi> Karkus: In German we say "spleen" to quirk.
+[2015/11/14 16:07:29] <Karkus> Spleen is a word in German?
+[2015/11/14 16:07:38] <Tobbi> Karkus: Yes.
+[2015/11/14 16:08:10] <Karkus> Tobbi: What does 'Ich werde gekauft' mean?
+[2015/11/14 16:08:16] <Tobbi> I will be bought.
+[2015/11/14 16:08:19] <brmbrmcar> I know every single programming language used on GitHub.
+[2015/11/14 16:08:20] <Tobbi> Wait, no.
+[2015/11/14 16:08:33] <Tobbi> I am being bought.
+[2015/11/14 16:08:36] <Tobbi> SOmething like that.
+[2015/11/14 16:08:45] <Karkus> Tobbi: Oh, so it's passive
+[2015/11/14 16:08:50] <Karkus> Hmm
+[2015/11/14 16:08:54] <Tobbi> yup.
+[2015/11/14 16:08:57] <Karkus> That confuses me a lot
+[2015/11/14 16:09:02] <Karkus> I will bought!
+[2015/11/14 16:10:09] <Tobbi> Karkus: "Wirst du morgen MSN sein?" = "Will you be MSN tomorrow?"
+[2015/11/14 16:10:12] @ brmbrmcar is now known as brmbrmauto
+[2015/11/14 16:10:51] <brmbrmauto> Hallo.
+[2015/11/14 16:11:33] <brmbrmauto> THat's not ecen right!
+[2015/11/14 16:11:40] <Karkus> Tobbi: I don't get it. What would it actually mean?
+[2015/11/14 16:11:55] <Tobbi> Karkus: You don't get what_
+[2015/11/14 16:11:56] <Tobbi> ?
+[2015/11/14 16:12:28] <Karkus> Wirst du morgen MSN sein?
+[2015/11/14 16:13:04] <Karkus> nvm then
+[2015/11/14 16:13:09] <brmbrmauto> Nein.
+[2015/11/14 16:13:23] <Karkus> Tobbi: morgen and Morgen confuse me too.
+[2015/11/14 16:13:26] <Tobbi> Karkus: I am just repeating something a German comedian used to say.
+[2015/11/14 16:13:37] <Tobbi> Karkus: you mean tomorrow / the morning?
+[2015/11/14 16:13:44] <Karkus> Yeah
+[2015/11/14 16:14:45] <Tobbi> Well...
