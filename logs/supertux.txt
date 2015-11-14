@@ -4960,3 +4960,17 @@
 [2015/11/14 15:14:45] <mt> that's because commit and author date differ
 [2015/11/14 15:14:52] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91146494
 [2015/11/14 15:14:59] <brmbrmcar> OK
+[2015/11/14 15:16:00] <mt> oh btw: don't keep it up-to-date with SuperTux/supertux for now, ok?
+[2015/11/14 15:16:24] <brmbrmcar> OK.
+[2015/11/14 15:16:26] <brmbrmcar> Why?
+[2015/11/14 15:17:28] <mt> because it's pretty unneccessary unless there's a merge conflict
+[2015/11/14 15:17:33] <brmbrmcar> OK.
+[2015/11/14 15:18:01] <mt> and even then it's probably better to ask someone from the team for help unless you're absolutely sure about what you're changing
+[2015/11/14 15:21:44] <Tobbi> brmbrmcar: I can't reproduce that Level.edit(false) / Level.edit(true) issue?
+[2015/11/14 15:21:46] <Tobbi> Can you?
+[2015/11/14 15:22:45] <brmbrmcar> Yes.
+[2015/11/14 15:22:53] <brmbrmcar> Do you want the level?
+[2015/11/14 15:23:25] <Tobbi> brmbrmcar: yes, please.
+[2015/11/14 15:23:36] <brmbrmcar> OK, hang on...
+[2015/11/14 15:25:33] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91146494
+[2015/11/14 15:27:46] <brmbrmcar> http://www.fileconvoy.com/dfl.php?id=gd15e4c7c29903ef29997481919ba2d7fbafe61dac
