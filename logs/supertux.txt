@@ -4802,3 +4802,14 @@
 [2015/11/14 07:38:56] @ Quit: Karkus: Ping timeout: 260 seconds
 [2015/11/14 07:47:46] @ Karkus joined channel #supertux
 [2015/11/14 08:10:00] @ claymore2 joined channel #supertux
+[2015/11/14 08:17:47] @ Hume2 joined channel #supertux
+[2015/11/14 08:21:41] @ GitHub56 joined channel #supertux
+[2015/11/14 08:21:42] -GitHub56- [13flexlay] 15Karkus476 closed pull request #38: Deleted all ruby/c++ files (06develop...06clean) 02http://git.io/v8dui
+[2015/11/14 08:21:42] @ GitHub56 left channel #supertux ()
+[2015/11/14 08:21:46] @ GitHub122 joined channel #supertux
+[2015/11/14 08:21:47] -GitHub122- [13flexlay] 15Karkus476 pushed 2 new commits to 06develop: 02http://git.io/v4qvc
+[2015/11/14 08:21:47] -GitHub122- 13flexlay/06develop 140bf3df8 15Karkus: Deleted all ruby/c++ files
+[2015/11/14 08:21:47] -GitHub122- 13flexlay/06develop 14cbc18e5 15Karkus476: Merge pull request #38 from Karkus476/clean...
+[2015/11/14 08:21:47] @ GitHub122 left channel #supertux ()
+[2015/11/14 08:28:00] @ Tobbi joined channel #supertux
+[2015/11/14 08:28:00] @ Mode +o Tobbi by ChanServ
