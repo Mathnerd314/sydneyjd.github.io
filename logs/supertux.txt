@@ -4821,3 +4821,4 @@
 [2015/11/14 08:54:04] <Tobbi> know the feeling.
 [2015/11/14 08:54:24] <head8debian> Its actually not that many. Its just trying to graps how it works...
 [2015/11/14 08:54:33] <Tobbi> that won't take long.
+[2015/11/14 09:04:37] @ Quit: Tobbi: Remote host closed the connection
