@@ -4838,3 +4838,4 @@
 [2015/11/14 12:23:29] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91130129
 [2015/11/14 12:24:22] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91130129
 [2015/11/14 12:24:48] <brmbrmcar> I ALWAYS forget the ci skip.
+[2015/11/14 12:35:14] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91130129
