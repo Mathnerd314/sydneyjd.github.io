@@ -5557,3 +5557,12 @@
 [2015/11/15 11:04:10] <Tobbi> brmbrmcar: Do you have that level, anyway?
 [2015/11/15 11:04:16] <Tobbi> The level that caused the issue?
 [2015/11/15 11:04:46] <Tobbi> the level_edit(true), Level_edit(false) issue?
+[2015/11/15 11:16:59] <brmbrmcar> Yes.
+[2015/11/15 11:17:30] <brmbrmcar> http://www.fileconvoy.com/dfl.php?id=gd15e4c7c29903ef29997481919ba2d7fbafe61dac
+[2015/11/15 11:18:30] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/15 11:23:19] @ Tobbi joined channel #supertux
+[2015/11/15 11:23:19] @ Mode +o Tobbi by ChanServ
+[2015/11/15 11:23:52] <Tobbi> brmbrmcar: uh? Once you press that one switch, SuperTux goes to edit mode.
+[2015/11/15 11:23:57] <Tobbi> *into
+[2015/11/15 11:24:04] <Tobbi> Thus, the second switch can't be pressed.
+[2015/11/15 11:28:41] <brmbrmcar> You press action.
