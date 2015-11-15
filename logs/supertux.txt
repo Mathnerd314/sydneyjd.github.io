@@ -5257,3 +5257,5 @@
 [2015/11/14 18:36:17] @ Quit: alket: Quit: Leaving
 [2015/11/14 18:55:05] @ nerdopolis_ joined channel #supertux
 [2015/11/14 19:16:05] @ Quit: Karkus: Quit: Leaving
+[2015/11/14 19:34:19] @ Quit: Wuzzy: Quit: Wuzzy
+[2015/11/14 19:41:25] @ Quit: Tobbi: 
