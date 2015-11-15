@@ -5349,3 +5349,37 @@
 [2015/11/15 08:11:42] <Karkus> :)
 [2015/11/15 08:12:22] <Not-6fa5> [02supertux] 07brmbrmcar opened issue 03#225: All my wanted Console commands - 13http://git.io/v431B
 [2015/11/15 08:14:23] <Karkus> brmbrmcar: I changed it to checkboxes, so you can tick them off when your changes are merged, that way you don't have to use the same pull request for all of them if you don't want to
+[2015/11/15 08:15:29] <brmbrmcar> OK.
+[2015/11/15 08:19:53] <Not-6fa5> [02supertux] 07Karkus476 opened issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43DO
+[2015/11/15 08:22:44] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43yT
+[2015/11/15 08:23:55] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43yW
+[2015/11/15 08:24:15] @ Tobbi joined channel #supertux
+[2015/11/15 08:24:15] @ Mode +o Tobbi by ChanServ
+[2015/11/15 08:24:49] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43yP
+[2015/11/15 08:25:29] <brmbrmcar> Tobbi: The wiki Downloads page should be edited to mention the nightlybuilds
+[2015/11/15 08:25:42] <Tobbi> brmbrmcar: Good morning to you, too.
+[2015/11/15 08:26:00] <brmbrmcar> It is afternoon for me.
+[2015/11/15 08:26:08] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43y5
+[2015/11/15 08:26:40] <Tobbi> brmbrmcar: That was a sarcastic comment indicating the promptness of your pings.
+[2015/11/15 08:26:41] <Tobbi> but never mind.
+[2015/11/15 08:26:49] <Karkus> Tobbi: Good morning :D
+[2015/11/15 08:26:53] <Tobbi> :P
+[2015/11/15 08:27:03] <Karkus> It's not morning for you either though
+[2015/11/15 08:27:08] <Tobbi> Karkus: IPC with SuperTux might be difficult, though.
+[2015/11/15 08:27:20] <Tobbi> IPC = Inter Process Communication.
+[2015/11/15 08:27:24] <Karkus> Tobbi: I didn't say it would be easy, or possible
+[2015/11/15 08:27:31] <Karkus> Tobbi: ik
+[2015/11/15 08:27:33] <Tobbi> It'd need a server that could run and get the commands.
+[2015/11/15 08:27:42] <Tobbi> You know, run in the background.
+[2015/11/15 08:27:54] <Tobbi> We could make that dependent on the developer switch.
+[2015/11/15 08:28:00] <Karkus> Tobbi: So we would use sockets?
+[2015/11/15 08:28:15] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43S3
+[2015/11/15 08:28:40] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43SW
+[2015/11/15 08:28:54] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43S0
+[2015/11/15 08:29:14] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43SV
+[2015/11/15 08:29:21] <Tobbi> Karkus: We could. I am not that versed with socket programming, though.
+[2015/11/15 08:29:39] <Karkus> Tobbi: What IPC are you versed with?
+[2015/11/15 08:29:45] <Tobbi> Karkus: None :P
+[2015/11/15 08:29:50] <Tobbi> I don't know everything.
+[2015/11/15 08:29:52] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/v439v
+[2015/11/15 08:29:59] <Karkus> Tobbi: Learning experience LD
