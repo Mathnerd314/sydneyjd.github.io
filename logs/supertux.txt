@@ -5778,3 +5778,7 @@
 [2015/11/15 16:21:24] <brmbrmcar> It's essentaially editmode.
 [2015/11/15 16:26:48] @ Quit: brmbrmcar: Quit: brmbrmcot
 [2015/11/15 16:28:37] @ Quit: Karkus: Ping timeout: 250 seconds
+[2015/11/15 16:34:08] <head8debian> Tobbi: You should buy an arduino and make a christmas lights display outside your house with it. :D
+[2015/11/15 16:34:19] <Tobbi> head8debian: I'd rather not.
+[2015/11/15 16:34:36] <Tobbi> or maybe some scary "ho ho ho" when anyone walks past.
+[2015/11/15 16:36:56] <head8debian> :D
