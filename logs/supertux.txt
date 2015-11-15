@@ -5260,3 +5260,4 @@
 [2015/11/14 19:34:19] @ Quit: Wuzzy: Quit: Wuzzy
 [2015/11/14 19:41:25] @ Quit: Tobbi: 
 [2015/11/14 19:52:20] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2015/11/14 20:29:01] @ quit (okay bye)
