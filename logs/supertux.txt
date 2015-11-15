@@ -5651,3 +5651,13 @@
 [2015/11/15 13:53:41] @ Quit: swift110: Ping timeout: 272 seconds
 [2015/11/15 13:55:17] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91255388
 [2015/11/15 13:59:45] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91254850
+[2015/11/15 14:03:03] <datahead7777> Well, Super Tux is pretty busy today :)
+[2015/11/15 14:04:21] <Tobbi> datahead7777: Indeed.
+[2015/11/15 14:04:22] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v4GnP
+[2015/11/15 14:04:23] <Not-6fa5> [02supertux] 07Tobias Markus 03f1581b4 - Demote tinygettext warnings to debug and warning respectively. Let's not care about collision etc. too much
+[2015/11/15 14:04:28] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91256682
+[2015/11/15 14:04:36] <Tobbi> datahead7777: I should be working on college stuff, but can|t get myself to do it.
+[2015/11/15 14:04:50] @ alket joined channel #supertux
+[2015/11/15 14:05:21] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91256682
+[2015/11/15 14:09:02] <Karkus> datahead7777: In what way is it busy?
+[2015/11/15 14:09:04] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91255388
