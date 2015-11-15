@@ -5789,3 +5789,9 @@
 [2015/11/15 17:11:57] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/15 17:14:28] @ LMH joined channel #supertux
 [2015/11/15 17:14:28] @ Mode +v LMH by ChanServ
+[2015/11/15 17:16:18] <head8debian> Hey LMH. :-)
+[2015/11/15 17:16:26] <head8debian> Nice to see you again.
+[2015/11/15 17:19:28] <LMH> and you too head8debian
+[2015/11/15 17:24:12] @ Tobbi joined channel #supertux
+[2015/11/15 17:24:12] @ Mode +o Tobbi by ChanServ
+[2015/11/15 17:26:56] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
