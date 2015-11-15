@@ -5687,3 +5687,37 @@
 [2015/11/15 14:58:53] <Karkus> or however idc
 [2015/11/15 14:58:58] <brmbrmcar> OK then.
 [2015/11/15 14:59:14] <brmbrmcar> You want a high commit count!
+[2015/11/15 15:00:09] @ Quit: claymore2: Quit: Leaving
+[2015/11/15 15:00:09] <Karkus> brmbrmcar: This has nothing to do with anything. This adds 1 line which isn't even code.
+[2015/11/15 15:00:19] <brmbrmcar> And you forgot ci skip!
+[2015/11/15 15:00:26] <Karkus> I did :(
+[2015/11/15 15:00:38] <brmbrmcar> I do exactly the same.
+[2015/11/15 15:00:50] <brmbrmcar> All my commits were useless.
+[2015/11/15 15:01:30] <Karkus> brmbrmcar: Talking about useless commits, what exactly does https://github.com/SuperTux/supertux/pull/220 do?
+[2015/11/15 15:02:39] <brmbrmcar> Make Tux invincible (like when he gets a star).
+[2015/11/15 15:03:45] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/15 15:04:41] <datahead7777> Karkus, grumbel was in, several people were talking, I saw Travis messages, etc.  head 8 debian had already said it was busy, and I agreed
+[2015/11/15 15:04:53] <Karkus> brmbrmcar: But sector.Tux.make_invincible(true) does that
+[2015/11/15 15:05:03] <maths22> Karkus: it will actually work on every push
+[2015/11/15 15:05:12] <Karkus> datahead7777: I suppose it's more active than usual
+[2015/11/15 15:05:25] <brmbrmcar> Karkus: But we need shortcuts.
+[2015/11/15 15:05:26] <Karkus> maths22: To your repo?
+[2015/11/15 15:05:37] <maths22> Right now
+[2015/11/15 15:05:41] <Karkus> brmbrmcar: I don't know about that
+[2015/11/15 15:05:53] <maths22> The idea is that it will be switched to run off of the offical
+[2015/11/15 15:06:04] * maths22 hit enter too soon
+[2015/11/15 15:06:08] <Karkus> maths22: Why can't we do that now?
+[2015/11/15 15:06:12] <brmbrmcar> Like fire(), ice(), air() earth(), growup()
+[2015/11/15 15:06:27] <Karkus> brmbrmcar: Okay
+[2015/11/15 15:06:31] <Karkus> Let me see
+[2015/11/15 15:06:53] <maths22> Karkus: because certain aspects don't work quite right yet, and (mostly for windows) several things need to be changed besides .travis.yml
+[2015/11/15 15:07:00] <brmbrmcar> invincible() was actually a full script,but it is so short...
+[2015/11/15 15:07:06] <Karkus> maths22: Oh, I see
+[2015/11/15 15:07:10] <maths22> I want to make sure everything works right before we merge
+[2015/11/15 15:07:43] <brmbrmcar> Will tinygettext be in there?
+[2015/11/15 15:08:29] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91262736
+[2015/11/15 15:10:04] <Karkus> brmbrmcar: I don't understand... what's wrong with invincible()
+[2015/11/15 15:10:20] <brmbrmcar> It runs in a loop.
+[2015/11/15 15:10:31] <Karkus> which one?
+[2015/11/15 15:10:46] <brmbrmcar> invincible()
+[2015/11/15 15:12:43] <brmbrmcar> The coin limit needs to be increased.
