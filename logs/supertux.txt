@@ -5626,3 +5626,11 @@
 [2015/11/15 12:48:59] <grumbel> Log::log_warning_callback = nullptr should do
 [2015/11/15 12:49:20] <Tobbi> I see...
 [2015/11/15 12:53:27] @ Quit: MMlosh: Quit: Bye...
+[2015/11/15 13:00:38] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/15 13:05:28] @ swift110 joined channel #supertux
+[2015/11/15 13:09:08] @ Tobbi joined channel #supertux
+[2015/11/15 13:09:08] @ Mode +o Tobbi by ChanServ
+[2015/11/15 13:13:33] <brmbrmcar> No, pressing action DOES NOT set edit mode to false.
+[2015/11/15 13:13:53] <Karkus> brmbrmcar: Yeah, we figured that out
+[2015/11/15 13:13:59] <brmbrmcar> You won't be able to finish the level, or die.
+[2015/11/15 13:14:38] <brmbrmcar> Do you know the cause?
