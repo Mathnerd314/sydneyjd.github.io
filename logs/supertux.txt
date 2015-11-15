@@ -5634,3 +5634,7 @@
 [2015/11/15 13:13:53] <Karkus> brmbrmcar: Yeah, we figured that out
 [2015/11/15 13:13:59] <brmbrmcar> You won't be able to finish the level, or die.
 [2015/11/15 13:14:38] <brmbrmcar> Do you know the cause?
+[2015/11/15 13:15:03] <Karkus> I haven't really looked, I'm not familiar with squirrel
+[2015/11/15 13:15:41] <brmbrmcar> Neither am I.
+[2015/11/15 13:21:52] @ Quit: swift110: Changing host
+[2015/11/15 13:21:52] @ swift110 joined channel #supertux
