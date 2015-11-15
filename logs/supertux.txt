@@ -5280,3 +5280,9 @@
 [2015/11/15 02:56:56] @ Quit: Fmttm: Ping timeout: 240 seconds
 [2015/11/15 04:12:21] @ Quit: swift110: Remote host closed the connection
 [2015/11/15 04:17:56] @ brmbrmcar joined channel #supertux
+[2015/11/15 04:35:50] @ Quit: xet7: Quit: Leaving
+[2015/11/15 04:37:53] @ Quit: datahead9999: Quit: Leaving
+[2015/11/15 04:38:07] @ datahead8888 joined channel #supertux
+[2015/11/15 04:38:56] @ datahead8888 is now known as datahead9999
+[2015/11/15 04:39:06] @ datahead9999 is now known as datahead7777
+[2015/11/15 04:42:42] @ datahead7777 is now known as datahead8888
