@@ -5315,3 +5315,17 @@
 [2015/11/15 07:35:56] <Karkus> brmbrmcar: Never heard of it, which addon is that?
 [2015/11/15 07:36:46] <brmbrmcar> The Valley of Chaos
 [2015/11/15 07:36:48] <brmbrmcar> https://supertux.googlecode.com/files/supertux-0.0.4.tar.gz
+[2015/11/15 07:48:33] <mt> let's build that for recent distros and put it up as 0.4.0 ^^
+[2015/11/15 07:48:37] <mt> :>
+[2015/11/15 07:49:17] <brmbrmcar> I want 0.0.0!
+[2015/11/15 07:50:03] <mt> 0.0.5 is the oldest release in git (de11b13419f0f5ab58bbdbbfe7d4d1769696ab9a)
+[2015/11/15 07:51:39] <brmbrmcar> Well That is too new!
+[2015/11/15 07:53:22] @ Quit: Karkus: Ping timeout: 250 seconds
+[2015/11/15 07:55:11] @ Karkus joined channel #supertux
+[2015/11/15 07:55:59] <brmbrmcar> Any idea how to fight conflicting poackages without removing anythging?
+[2015/11/15 07:56:13] <Karkus> conflicting packages???
+[2015/11/15 07:56:33] <brmbrmcar> Yes.
+[2015/11/15 07:56:42] <brmbrmcar> I can't build 0.0.6.
+[2015/11/15 07:56:52] <Karkus> What's conflicting?
+[2015/11/15 07:56:53] <brmbrmcar> So I am using a .deb file.
+[2015/11/15 07:57:08] <brmbrmcar> Supertux 0.0.6 and supertux-stable
