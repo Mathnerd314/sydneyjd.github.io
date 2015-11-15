@@ -5614,3 +5614,11 @@
 [2015/11/15 12:29:00] <Karkus> Tobbi: Is Level.edit already set to false by pressing the action key?
 [2015/11/15 12:29:08] <Tobbi> Probably?
 [2015/11/15 12:29:26] <Tobbi> Actually, we could circumvent this, probably.
+[2015/11/15 12:30:27] <Karkus> http://squirrel-lang.org/ works for me now
+[2015/11/15 12:35:29] <Tobbi> I don't understand the issue at all.
+[2015/11/15 12:36:15] <Karkus> Tobbi: Also, try restarting the level after pressing the action key while in edit mode.
+[2015/11/15 12:36:23] <Tobbi> ok.
+[2015/11/15 12:36:57] <Karkus> Actually, that's probably intended behaviour
+[2015/11/15 12:37:21] <Karkus> Well, probably not.
+[2015/11/15 12:37:34] <Tobbi> So, apparently we are still in edit mode.
+[2015/11/15 12:38:33] <Karkus> Yup.
