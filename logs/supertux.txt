@@ -5255,3 +5255,4 @@
 [2015/11/14 18:28:52] @ datahead8888 joined channel #supertux
 [2015/11/14 18:32:52] @ Quit: claymore2: Quit: Leaving
 [2015/11/14 18:36:17] @ Quit: alket: Quit: Leaving
+[2015/11/14 18:55:05] @ nerdopolis_ joined channel #supertux
