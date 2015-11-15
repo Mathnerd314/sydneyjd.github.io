@@ -5309,3 +5309,9 @@
 [2015/11/15 07:28:21] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91216302
 [2015/11/15 07:29:38] <brmbrmcar> Stuck!
 [2015/11/15 07:29:40] <brmbrmcar> http://i.cubeupload.com/7vjRKx.png
+[2015/11/15 07:31:12] <Karkus> brmbrmcar: What level is this/
+[2015/11/15 07:31:13] <Karkus> ?
+[2015/11/15 07:31:35] <brmbrmcar> The Yeti's cave
+[2015/11/15 07:35:56] <Karkus> brmbrmcar: Never heard of it, which addon is that?
+[2015/11/15 07:36:46] <brmbrmcar> The Valley of Chaos
+[2015/11/15 07:36:48] <brmbrmcar> https://supertux.googlecode.com/files/supertux-0.0.4.tar.gz
