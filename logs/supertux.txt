@@ -5444,3 +5444,28 @@
 [2015/11/15 09:28:53] <Karkus> grumbel: Why? I want a tux object for the player to move and then he spawns there
 [2015/11/15 09:29:07] <Karkus> I want a lot of things :P
 [2015/11/15 09:29:15] <grumbel> ./supertux levelname.stl --start-pos x,y
+[2015/11/15 09:30:08] <grumbel> I'd prefer something simple that actually works, then some pie-in-the-sky thing that never gets finished and makes portability harder
+[2015/11/15 09:30:33] <Karkus> grumbel: Yeah, I see what you mean
+[2015/11/15 09:31:18] <grumbel> I would focus on basic stuff, i.e. add auto-smoothing to the tile painting
+[2015/11/15 09:31:29] <Karkus> auto smoothing?
+[2015/11/15 09:31:54] <grumbel> automatically painting the edge tiles so you don't have to do that manually
+[2015/11/15 09:32:08] <grumbel> the C# has a function for that, but it's not that great there either
+[2015/11/15 09:32:12] <Karkus> Oh, yeah I thought about that too :)
+[2015/11/15 09:32:19] <Tobbi> I wonder how we'd go about doing that... It needs to be simple.
+[2015/11/15 09:32:33] <Karkus> What about slopes?
+[2015/11/15 09:33:17] <grumbel> Has anybody played with the SuperMarioMaker thing on WiiU?
+[2015/11/15 09:33:27] <Karkus> grumbel: Yup :)
+[2015/11/15 09:33:47] <Karkus> grumbel: https://github.com/SuperTux/supertux/pull/103
+[2015/11/15 09:34:28] <Karkus> That kind of gameplay could exist like the old 0.1.x editor
+[2015/11/15 09:34:54] <Tobbi> I still think that supertux's UI isn't the best choice for this kind of advanced editor.
+[2015/11/15 09:37:01] <Karkus> Tobbi: That's why I want to continue with Flexlay
+[2015/11/15 09:37:14] <Tobbi> Right.
+[2015/11/15 09:37:28] <grumbel> Tobbi: it wouldn't need to be advanced, just something that lets people build levels easily
+[2015/11/15 09:37:37] <Tobbi> Sure.
+[2015/11/15 09:39:18] <Karkus> grumbel: Also, there are a few files (including everything in flexlay/wip, flexlay/[canvas, brush, brushmask].py etc.) which I don't understand the intended purpose of, and cannot find any information on what needs doing
+[2015/11/15 09:39:21] <Tobbi> grumbel: By the way: After removing directories from tinygettext and rebuilding the cache, how would I go about refreshing the UI?
+[2015/11/15 09:41:28] <grumbel> Karkus: Those are classes from the C++ code that haven't been ported over yet
+[2015/11/15 09:41:45] <grumbel> Karkus: the Python editor is basically a 1:1 translation of the C++ code
+[2015/11/15 09:44:38] <grumbel> Karkus: http://pingus.seul.org/~grumbel/tmp/flexlaypaint8.png
+[2015/11/15 09:44:45] <Karkus> grumbel: Okay, I will look into that
+[2015/11/15 09:44:52] <grumbel> flexlay used to have some drawing functionality
