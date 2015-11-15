@@ -5746,3 +5746,17 @@
 [2015/11/15 15:51:19] <maths22> (No checkpoints for me)
 [2015/11/15 15:51:27] <brmbrmcar> Where ist this set?
 [2015/11/15 15:56:40] <brmbrmcar> I have changed in brmbrmcar:coins
+[2015/11/15 16:11:58] <head8debian> Tobbi: http://paste.debian.net/hidden/1105f486/
+[2015/11/15 16:12:14] <maths22> brmbrmcar: I think the better question to ask is: why do we have a coin limit?
+[2015/11/15 16:12:36] <maths22> Is there a reason to keep it and increase it, or should it be eliminated?
+[2015/11/15 16:12:36] <Tobbi> head8debian: does it work?
+[2015/11/15 16:12:56] <maths22> head8debian: what is that for?
+[2015/11/15 16:13:14] <brmbrmcar> To stop cheats.
+[2015/11/15 16:13:32] <maths22> What kind of cheats does it stop?
+[2015/11/15 16:14:05] <brmbrmcar> I don't know, someone who wants a load of checkpoints.
+[2015/11/15 16:14:12] <head8debian> Tobbi: I don't have the resistors for my photocells, so i don't know... :-/
+[2015/11/15 16:14:19] <head8debian> maths22: An arduino.
+[2015/11/15 16:14:22] <brmbrmcar> But we should let that happen anyway.
+[2015/11/15 16:14:33] <head8debian> I honestly hope it will work.
+[2015/11/15 16:14:36] <Tobbi> *sigh*
+[2015/11/15 16:14:50] <head8debian> Tobbi: I want to *sigh* also...
