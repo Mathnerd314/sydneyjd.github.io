@@ -5424,3 +5424,14 @@
 [2015/11/15 08:54:32] <brmbrmcar> The maximum amount of coins needs to be changed.
 [2015/11/15 08:55:43] @ alket joined channel #supertux
 [2015/11/15 08:58:37] <grumbel> Karkus: so, what are your plans with Flexlay?
+[2015/11/15 09:04:29] <Karkus> grumbel: Hi
+[2015/11/15 09:05:01] <Karkus> grumbel: My plans are to make it better than the current editor, and more portable
+[2015/11/15 09:05:42] <Karkus> grumbel: https://github.com/SuperTux/flexlay/issues
+[2015/11/15 09:07:45] <Karkus> grumbel: Tobbi had issues getting the current editor to work on Mac OSX, and we need an editor which will stay updated as the game does
+[2015/11/15 09:07:50] @ Tobbi joined channel #supertux
+[2015/11/15 09:07:50] @ Mode +o Tobbi by ChanServ
+[2015/11/15 09:08:13] <Karkus> Tobbi: Hey
+[2015/11/15 09:08:17] <Tobbi> hey
+[2015/11/15 09:08:58] <Karkus> grumbel: What do you think?
+[2015/11/15 09:10:57] @ Quit: Karkus: Quit: Leaving
+[2015/11/15 09:11:11] @ Karkus joined channel #supertux
