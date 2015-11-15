@@ -5579,3 +5579,29 @@
 [2015/11/15 11:52:34] <Tobbi> Karkus: As in: textfield? I don't think so, but you may create a gui class...
 [2015/11/15 11:52:50] <Karkus> Tobbi: Yes, okay
 [2015/11/15 11:55:40] <Tobbi> head8debian: pastebin the code?
+[2015/11/15 12:00:51] <Tobbi> The squirrel code is so damn hard to read.
+[2015/11/15 12:03:19] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#207: Bug with switches. - 13http://git.io/v4sMg
+[2015/11/15 12:04:42] <head8debian> Tobbi: nm... :-)
+[2015/11/15 12:04:46] <Tobbi> ok
+[2015/11/15 12:06:38] <Karkus> Tobbi: I don't understand brmbrmcar's problem
+[2015/11/15 12:06:57] <Tobbi> Karkus: Let me check whether it can be moved into one switch.
+[2015/11/15 12:06:58] <head8debian> I wish there was someone i knew who knows how to code an arduino...
+[2015/11/15 12:07:39] <Karkus> Tobbi: You can't activate the switch in edit mode
+[2015/11/15 12:07:51] <mt> head8debian: there's the official docs and #arduino
+[2015/11/15 12:07:53] <Tobbi> Karkus: If you press Action, it returns...
+[2015/11/15 12:07:55] <brmbrmcar> Press action.
+[2015/11/15 12:08:00] <Tobbi> And then press the switch.
+[2015/11/15 12:08:01] <Karkus> head8debian: I've got one, but I don't know a thing of how to use it :P
+[2015/11/15 12:08:26] <brmbrmcar> Can you not read the infoblock?
+[2015/11/15 12:08:42] <Tobbi> Karkus: I updated the testcase.
+[2015/11/15 12:08:51] <Tobbi> Just activate the switch and it should crash.
+[2015/11/15 12:11:41] <Tobbi> Actually...
+[2015/11/15 12:12:24] <Karkus> Tobbi: How do I press the switch in edit mode?
+[2015/11/15 12:12:37] <Tobbi> Karkus: Press action key (left ctrl key for me)
+[2015/11/15 12:13:38] <Karkus> Tobbi: Ah, okay
+[2015/11/15 12:13:50] <Karkus> Tobbi: Well, let me try in the console
+[2015/11/15 12:13:57] <Tobbi> I believe that works.
+[2015/11/15 12:14:15] <Karkus> Tobbi: As in, it doesn't crash?
+[2015/11/15 12:14:20] <Tobbi> I believe so.
+[2015/11/15 12:14:31] <brmbrmcar> The console does not crash it.
+[2015/11/15 12:14:59] <Karkus> What does the action key actually do while in edit mode?
