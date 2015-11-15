@@ -5786,3 +5786,6 @@
 [2015/11/15 16:56:11] <Tobbi> And, as a consequence, I'd assume I can built on this hatred. Aka, do anything I want, as long as it's lega.
 [2015/11/15 16:56:12] <Tobbi> l
 [2015/11/15 16:59:52] @ Quit: Wuzzy: Quit: Wuzzy
+[2015/11/15 17:11:57] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/15 17:14:28] @ LMH joined channel #supertux
+[2015/11/15 17:14:28] @ Mode +v LMH by ChanServ
