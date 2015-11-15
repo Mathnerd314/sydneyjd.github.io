@@ -5729,3 +5729,11 @@
 [2015/11/15 15:24:55] @ Tobbi joined channel #supertux
 [2015/11/15 15:24:55] @ Mode +o Tobbi by ChanServ
 [2015/11/15 15:29:16] <Tobbi> Actually, guys, there have been quite a few levels that were removed from bonus island 3 but never added somewhere else ;)
+[2015/11/15 15:30:05] <brmbrmcar> Which ones?
+[2015/11/15 15:31:26] <Tobbi> brmbrmcar: A lot of them.
+[2015/11/15 15:31:27] <Tobbi> let me check.
+[2015/11/15 15:32:21] <Tobbi> Take a look at https://github.com/SuperTux/supertux/blob/master/data/levels/bonus3/changelog.txt
+[2015/11/15 15:32:28] <brmbrmcar> There needs to be more target times.
+[2015/11/15 15:33:25] <brmbrmcar> For Icy Island.
+[2015/11/15 15:34:35] <brmbrmcar> And in Two Tiny Towers, dispensers need to be changed from auto to left.
+[2015/11/15 15:42:22] @ tux|dude joined channel #supertux
