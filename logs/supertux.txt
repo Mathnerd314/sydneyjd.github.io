@@ -5661,3 +5661,6 @@
 [2015/11/15 14:05:21] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91256682
 [2015/11/15 14:09:02] <Karkus> datahead7777: In what way is it busy?
 [2015/11/15 14:09:04] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91255388
+[2015/11/15 14:19:45] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91256682
+[2015/11/15 14:22:22] <brmbrmcar> I have no idea how it is busy.
+[2015/11/15 14:22:33] <brmbrmcar> I thought it was quite quiet myself.
