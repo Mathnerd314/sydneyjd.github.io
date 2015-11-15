@@ -5295,3 +5295,17 @@
 [2015/11/15 06:16:45] @ Karkus joined channel #supertux
 [2015/11/15 06:17:07] @ Quit: Karkus: Client Quit
 [2015/11/15 06:17:20] @ Karkus joined channel #supertux
+[2015/11/15 07:18:06] <Not-6fa5> [02supertux] 07Karkus476 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v430p
+[2015/11/15 07:18:08] <Not-6fa5> [02supertux] 07Karkus476 03c1d7421 - INSTALL.md Mentions Nightly Builds by maths22
+[2015/11/15 07:18:10] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91216302
+[2015/11/15 07:18:45] <Karkus> Ah, forgot [ci-skip]
+[2015/11/15 07:18:57] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91216302
+[2015/11/15 07:20:40] <brmbrmcar> I always forget it to.
+[2015/11/15 07:20:50] <brmbrmcar> s/to./too./
+[2015/11/15 07:20:50] <red_bot> brmbrmcar meant: "I always forget it too."
+[2015/11/15 07:21:56] <Karkus> brmbrmcar: Of course, you only need it if it changes the code
+[2015/11/15 07:22:33] <brmbrmcar> The Downloads page should be changed on the wiki, but it's locked.
+[2015/11/15 07:27:06] <Karkus> Speak to Tobbi about it, I cannot edit locked pages either, brmbrmcar
+[2015/11/15 07:28:21] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91216302
+[2015/11/15 07:29:38] <brmbrmcar> Stuck!
+[2015/11/15 07:29:40] <brmbrmcar> http://i.cubeupload.com/7vjRKx.png
