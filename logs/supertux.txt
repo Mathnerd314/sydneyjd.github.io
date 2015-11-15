@@ -5469,3 +5469,18 @@
 [2015/11/15 09:44:38] <grumbel> Karkus: http://pingus.seul.org/~grumbel/tmp/flexlaypaint8.png
 [2015/11/15 09:44:45] <Karkus> grumbel: Okay, I will look into that
 [2015/11/15 09:44:52] <grumbel> flexlay used to have some drawing functionality
+[2015/11/15 09:45:25] <grumbel> Canvas was the pixel buffer, brush and brushmask where the brushes you could draw into that pixel buffer
+[2015/11/15 09:45:33] <Tobbi> I guess I will just display a message to please restart the game after installing language packs.
+[2015/11/15 09:45:42] <grumbel> can be ignored for the moment, it's not really needed for supertux
+[2015/11/15 09:46:50] <grumbel> something different: I cleaned up the lisp parser code and optimized it a bit: https://github.com/lispparser/sexp-cpp
+[2015/11/15 09:47:21] <Tobbi> grumbel: Can you do a pull request against the SuperTux repo?
+[2015/11/15 09:47:55] <Karkus> grumbel: Can I move the canvas files etc. into wip/ so they're out of the way?
+[2015/11/15 09:48:06] <Karkus> Or onto a different branch?
+[2015/11/15 09:48:54] <grumbel> Karkus: put them in wip/
+[2015/11/15 09:49:31] <grumbel> Tobbi: will need some further work to integrate, I'll send a push request one day
+[2015/11/15 09:49:39] <Tobbi> Thanks.
+[2015/11/15 09:55:58] <grumbel> Tobbi: about refreshing the GUI with new translation, easiest would be to restart the main loop, i.e. the part in Main::launch_game()
+[2015/11/15 09:56:12] <Tobbi> grumbel: But doing so from the UI?
+[2015/11/15 09:56:40] <grumbel> Tobbi: maybe throw a TranslationUpdated exception or something like that?
+[2015/11/15 09:56:53] <Tobbi> I could do that, actually.
+[2015/11/15 09:56:55] <Tobbi> one moment.
