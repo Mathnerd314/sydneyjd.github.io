@@ -5639,3 +5639,15 @@
 [2015/11/15 13:21:52] @ Quit: swift110: Changing host
 [2015/11/15 13:21:52] @ swift110 joined channel #supertux
 [2015/11/15 13:37:14] @ Quit: grumbel: Quit: Ex-Chat
+[2015/11/15 13:46:33] <brmbrmcar> Who ticked that last one off? Be honest...
+[2015/11/15 13:48:21] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±3] 13http://git.io/v4G3G
+[2015/11/15 13:48:22] <Not-6fa5> [02supertux] 07Tobias Markus 030d345af - Add respective callbacks for tinygettext
+[2015/11/15 13:48:24] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91254850
+[2015/11/15 13:49:09] @ Quit: alket: Ping timeout: 260 seconds
+[2015/11/15 13:49:18] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91254850
+[2015/11/15 13:53:26] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v4Gs7
+[2015/11/15 13:53:28] <Not-6fa5> [02supertux] 07Tobias Markus 03ffdee42 - Restore log debug stuff
+[2015/11/15 13:53:30] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91255388
+[2015/11/15 13:53:41] @ Quit: swift110: Ping timeout: 272 seconds
+[2015/11/15 13:55:17] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91255388
+[2015/11/15 13:59:45] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91254850
