@@ -5500,3 +5500,19 @@
 [2015/11/15 10:12:56] <grumbel> that might work with slopes as well
 [2015/11/15 10:13:39] <grumbel> are there any editors out there that deal with slopes well?
 [2015/11/15 10:14:43] <grumbel> MarioMaker doesn't have slopes as far as I understand
+[2015/11/15 10:15:12] <Not-6fa5> [02supertux] 07brmbrmcar opened issue 03#227: Screen going blank on startup, game then freezes - 13http://git.io/v4s3o
+[2015/11/15 10:20:28] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#227: Screen going blank on startup, game then freezes - 13http://git.io/v4sGe
+[2015/11/15 10:22:34] <Tobbi> hrm, restarting the main loop doesn't want to work.
+[2015/11/15 10:22:52] <Tobbi> I mean: Clearly it works, but it doesn't fix the problem.
+[2015/11/15 10:23:10] <Tobbi> I tried clearing the menu stack which won't work either.
+[2015/11/15 10:25:17] <grumbel> Tobbi: MenuManager needs to be recreated
+[2015/11/15 10:25:30] <Tobbi> Alright...
+[2015/11/15 10:25:43] <Tobbi> grumbel: Can't I do that without restarting the main loop?
+[2015/11/15 10:26:23] <grumbel> MenuManager is part of ScreenManager
+[2015/11/15 10:27:01] <grumbel> Maybe, but I don't now where all the strings are hiding
+[2015/11/15 10:27:14] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/v4snL
+[2015/11/15 10:27:23] <Tobbi> Let's see...
+[2015/11/15 10:27:37] @ Karkus joined channel #supertux
+[2015/11/15 10:28:07] <grumbel> Recreating the ScreenManager should take care of the menu
+[2015/11/15 10:28:23] <grumbel> not sure if there is any more hiding in AddonManager, Resources and all the rest
+[2015/11/15 10:28:53] <grumbel> If in doubt, restart everything that isn't SDL init code
