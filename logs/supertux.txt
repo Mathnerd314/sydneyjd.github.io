@@ -5760,3 +5760,21 @@
 [2015/11/15 16:14:33] <head8debian> I honestly hope it will work.
 [2015/11/15 16:14:36] <Tobbi> *sigh*
 [2015/11/15 16:14:50] <head8debian> Tobbi: I want to *sigh* also...
+[2015/11/15 16:15:09] <maths22> brmbrmcar: with the console, you can already cheat in whatever way you want
+[2015/11/15 16:15:11] <brmbrmcar> *bold*
+[2015/11/15 16:15:17] <head8debian> Its taken alot of my energy trying to come up with that...
+[2015/11/15 16:15:28] <brmbrmcar> maths22: I know, so the limit is useless.
+[2015/11/15 16:15:45] <maths22> (I actually decided to not enable the console last time I wiped my config because I kept using fire() and ghost mode
+[2015/11/15 16:15:49] <maths22> Ghost mode is so much fun ...
+[2015/11/15 16:16:10] <brmbrmcar> But I don't want to remove it entirely, as doing so may cause bugs.
+[2015/11/15 16:16:19] <brmbrmcar> How do you enable ghost mode?
+[2015/11/15 16:16:39] <maths22> brmbrmcar: It should be set to INT_MAX
+[2015/11/15 16:16:50] <brmbrmcar> OK.
+[2015/11/15 16:17:38] <maths22> I believe it is 'sector.Tux.ghost_mode(true)', but I may remember wrong
+[2015/11/15 16:19:06] <brmbrmcar> The sector ghost_mode does not exist.
+[2015/11/15 16:19:29] @ irungentoo joined channel #supertux
+[2015/11/15 16:20:43] <maths22> brmbrmcar: I don't remember then
+[2015/11/15 16:20:56] <maths22> probaby sector.Tux.setGhostMode or something like that
+[2015/11/15 16:21:24] <brmbrmcar> It's essentaially editmode.
+[2015/11/15 16:26:48] @ Quit: brmbrmcar: Quit: brmbrmcot
+[2015/11/15 16:28:37] @ Quit: Karkus: Ping timeout: 250 seconds
