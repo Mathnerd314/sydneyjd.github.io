@@ -5418,3 +5418,9 @@
 [2015/11/15 08:42:58] <mt> not really
 [2015/11/15 08:43:23] <brmbrmcar> Does anyone?
 [2015/11/15 08:44:32] <Karkus> brmbrmcar: Someone in the world will
+[2015/11/15 08:45:58] <brmbrmcar> Who is that someone?
+[2015/11/15 08:51:39] @ grumbel joined channel #supertux
+[2015/11/15 08:51:39] @ Mode +o grumbel by ChanServ
+[2015/11/15 08:54:32] <brmbrmcar> The maximum amount of coins needs to be changed.
+[2015/11/15 08:55:43] @ alket joined channel #supertux
+[2015/11/15 08:58:37] <grumbel> Karkus: so, what are your plans with Flexlay?
