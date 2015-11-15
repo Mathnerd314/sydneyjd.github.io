@@ -5287,3 +5287,4 @@
 [2015/11/15 04:39:06] @ datahead9999 is now known as datahead7777
 [2015/11/15 04:42:42] @ datahead7777 is now known as datahead8888
 [2015/11/15 04:46:09] @ leyyin joined channel #supertux
+[2015/11/15 05:19:36] @ Quit: brmbrmcar: Ping timeout: 240 seconds
