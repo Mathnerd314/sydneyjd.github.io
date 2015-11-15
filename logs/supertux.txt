@@ -5518,3 +5518,39 @@
 [2015/11/15 10:28:53] <grumbel> If in doubt, restart everything that isn't SDL init code
 [2015/11/15 10:30:28] <Karkus> grumbel: Idk many editors. Most are completely tile-based though
 [2015/11/15 10:35:19] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#227: Screen going blank on startup, game then freezes - 13http://git.io/v4sCn
+[2015/11/15 10:46:18] <Karkus> Tobbi: Can you build on windows using Mingw or Cygwin?
+[2015/11/15 10:46:27] <Tobbi> Karkus: Should be possible, afaik.
+[2015/11/15 10:48:15] <Tobbi> damn it, I fail.
+[2015/11/15 10:48:45] <Karkus> Tobbi: ?
+[2015/11/15 10:48:52] <Tobbi> Karkus: I fail reloading the menu items.
+[2015/11/15 10:50:02] <Karkus> Oh
+[2015/11/15 10:50:25] <Karkus> This for the language support for addons
+[2015/11/15 10:50:28] <Karkus> ?
+[2015/11/15 10:51:06] <Tobbi> Karkus: yes.
+[2015/11/15 10:51:17] <Tobbi> Actually...
+[2015/11/15 10:51:55] <Tobbi> damn. I don't know...
+[2015/11/15 10:52:43] <Karkus> Tobbi: What happened to popping and pushing again?
+[2015/11/15 10:52:57] <Tobbi> Karkus: What do you mean=
+[2015/11/15 10:52:57] <Tobbi> ?
+[2015/11/15 10:53:03] <Tobbi> Oh, I tried that. It didn't work.
+[2015/11/15 10:53:11] <Tobbi> Not that I expected it to work.
+[2015/11/15 10:53:11] <Tobbi> :P
+[2015/11/15 10:53:24] <Karkus> Tobbi: Why wouldn't it work though?
+[2015/11/15 10:53:36] <Tobbi> Karkus: It crashed for some reason...
+[2015/11/15 10:55:24] <Tobbi> I give up for now.
+[2015/11/15 10:56:07] <Tobbi> I even tried to restart the main loop which didn't work either.
+[2015/11/15 10:57:40] <Karkus> Why do you need to refresh the menu?
+[2015/11/15 10:58:01] <Tobbi> Karkus: Because otherwise it won't pick up new translations...
+[2015/11/15 10:58:11] <Karkus> When you change language normally it works though...
+[2015/11/15 10:58:19] <Tobbi> hmm...
+[2015/11/15 10:58:22] <Tobbi> that's true...
+[2015/11/15 10:58:26] <Tobbi> Let me check something.
+[2015/11/15 10:58:53] <Karkus> Tobbi: It puts you back to the first (main) menu
+[2015/11/15 10:59:01] <Tobbi> Yeah.
+[2015/11/15 10:59:05] <Karkus> And everything's translated
+[2015/11/15 10:59:48] <Tobbi> hm.
+[2015/11/15 10:59:49] <Karkus> MenuManager::instance().clear_menu_stack()?
+[2015/11/15 10:59:50] <Karkus> idk
+[2015/11/15 10:59:53] <Karkus> gtg now though
+[2015/11/15 10:59:57] <Tobbi> Sure.
+[2015/11/15 10:59:58] @ Quit: Karkus: Quit: Leaving
