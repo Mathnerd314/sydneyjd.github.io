@@ -5605,3 +5605,12 @@
 [2015/11/15 12:14:20] <Tobbi> I believe so.
 [2015/11/15 12:14:31] <brmbrmcar> The console does not crash it.
 [2015/11/15 12:14:59] <Karkus> What does the action key actually do while in edit mode?
+[2015/11/15 12:15:15] <brmbrmcar> Let Tux move again.
+[2015/11/15 12:17:49] <Karkus> brmbrmcar: Turn edit mode off?
+[2015/11/15 12:22:14] <Karkus> Okay, I believe I understand the issue now
+[2015/11/15 12:24:09] <Tobbi> I am having trouble finding the cause of this.
+[2015/11/15 12:28:30] <Karkus> Tobbi: I have no idea where to look :/
+[2015/11/15 12:28:55] <Tobbi> Karkus: I believe this might be some issue inside Squirrel...
+[2015/11/15 12:29:00] <Karkus> Tobbi: Is Level.edit already set to false by pressing the action key?
+[2015/11/15 12:29:08] <Tobbi> Probably?
+[2015/11/15 12:29:26] <Tobbi> Actually, we could circumvent this, probably.
