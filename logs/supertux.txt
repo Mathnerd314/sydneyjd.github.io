@@ -5667,3 +5667,23 @@
 [2015/11/15 14:41:59] @ Quit: alket: Quit: I've decided to call him Norbert. He really knows me now, watch. Norbert! Where's Mummy?
 [2015/11/15 14:42:33] @ claymore2 joined channel #supertux
 [2015/11/15 14:42:41] @ alket joined channel #supertux
+[2015/11/15 14:50:48] <maths22_> Karkus: The nightly builds aren't yet nightly
+[2015/11/15 14:51:08] <maths22_> I would wait until they are actually merged into the offical repo to put them in INSTALL
+[2015/11/15 14:51:11] @ maths22_ is now known as maths22
+[2015/11/15 14:51:15] <Karkus> maths22_: How often are they?
+[2015/11/15 14:52:47] <Karkus> maths22:^
+[2015/11/15 14:53:31] <maths22> Right now, whenever I update my fork
+[2015/11/15 14:53:45] <maths22> They build on my fork, not the offical repo right now
+[2015/11/15 14:55:21] <Karkus> maths22: Okay, I will revert it then.
+[2015/11/15 14:55:46] <maths22> Karkus: thanks!
+[2015/11/15 14:57:01] <Not-6fa5> [02supertux] 07Karkus476 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v4Gwn
+[2015/11/15 14:57:03] <Not-6fa5> [02supertux] 07Karkus 0382591e1 - Revert "INSTALL.md Mentions Nightly Builds by maths22"
+[2015/11/15 14:57:04] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91262736
+[2015/11/15 14:57:29] @ Quit: ced117: Quit: Quitte
+[2015/11/15 14:57:49] <brmbrmcar> Why revert it when it will work later?
+[2015/11/15 14:57:54] <Karkus> maths22: Do you think you will set it up to be nightly using crontab?
+[2015/11/15 14:57:57] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91262736
+[2015/11/15 14:58:19] <Karkus> brmbrmcar: I don't want something which is not true to be in the INSTALL file
+[2015/11/15 14:58:53] <Karkus> or however idc
+[2015/11/15 14:58:58] <brmbrmcar> OK then.
+[2015/11/15 14:59:14] <brmbrmcar> You want a high commit count!
