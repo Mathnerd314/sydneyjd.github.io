@@ -5516,3 +5516,5 @@
 [2015/11/15 10:28:07] <grumbel> Recreating the ScreenManager should take care of the menu
 [2015/11/15 10:28:23] <grumbel> not sure if there is any more hiding in AddonManager, Resources and all the rest
 [2015/11/15 10:28:53] <grumbel> If in doubt, restart everything that isn't SDL init code
+[2015/11/15 10:30:28] <Karkus> grumbel: Idk many editors. Most are completely tile-based though
+[2015/11/15 10:35:19] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#227: Screen going blank on startup, game then freezes - 13http://git.io/v4sCn
