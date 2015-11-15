@@ -5664,3 +5664,6 @@
 [2015/11/15 14:19:45] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91256682
 [2015/11/15 14:22:22] <brmbrmcar> I have no idea how it is busy.
 [2015/11/15 14:22:33] <brmbrmcar> I thought it was quite quiet myself.
+[2015/11/15 14:41:59] @ Quit: alket: Quit: I've decided to call him Norbert. He really knows me now, watch. Norbert! Where's Mummy?
+[2015/11/15 14:42:33] @ claymore2 joined channel #supertux
+[2015/11/15 14:42:41] @ alket joined channel #supertux
