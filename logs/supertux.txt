@@ -5622,3 +5622,7 @@
 [2015/11/15 12:37:21] <Karkus> Well, probably not.
 [2015/11/15 12:37:34] <Tobbi> So, apparently we are still in edit mode.
 [2015/11/15 12:38:33] <Karkus> Yup.
+[2015/11/15 12:48:50] <grumbel> Tobbi: https://github.com/SuperTux/tinygettext/commit/d0155106c9b770f7ff28070c60f39337f12e8f47 there is no need to #ifdef that stuff out, all log callbacks are configurable
+[2015/11/15 12:48:59] <grumbel> Log::log_warning_callback = nullptr should do
+[2015/11/15 12:49:20] <Tobbi> I see...
+[2015/11/15 12:53:27] @ Quit: MMlosh: Quit: Bye...
