@@ -5721,3 +5721,11 @@
 [2015/11/15 15:10:31] <Karkus> which one?
 [2015/11/15 15:10:46] <brmbrmcar> invincible()
 [2015/11/15 15:12:43] <brmbrmcar> The coin limit needs to be increased.
+[2015/11/15 15:18:37] <maths22> brmbrmcar: what about tinygettext
+[2015/11/15 15:18:46] <maths22> brmbrmcar: Also, what coin limit
+[2015/11/15 15:19:04] * maths22 forgets that question marks are a thing
+[2015/11/15 15:21:29] <brmbrmcar> Will sudo dpkg -i work straight away.
+[2015/11/15 15:22:12] <brmbrmcar> THe coin limit is too low; I reached it without cheating.
+[2015/11/15 15:24:55] @ Tobbi joined channel #supertux
+[2015/11/15 15:24:55] @ Mode +o Tobbi by ChanServ
+[2015/11/15 15:29:16] <Tobbi> Actually, guys, there have been quite a few levels that were removed from bonus island 3 but never added somewhere else ;)
