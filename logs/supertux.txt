@@ -5292,3 +5292,6 @@
 [2015/11/15 05:30:32] <brmbrmcar> That was 30 seconds!
 [2015/11/15 05:35:59] @ MMlosh joined channel #supertux
 [2015/11/15 05:44:31] @ datahead8888 is now known as datahead7777
+[2015/11/15 06:16:45] @ Karkus joined channel #supertux
+[2015/11/15 06:17:07] @ Quit: Karkus: Client Quit
+[2015/11/15 06:17:20] @ Karkus joined channel #supertux
