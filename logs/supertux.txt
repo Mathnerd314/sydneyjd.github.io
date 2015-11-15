@@ -5566,3 +5566,7 @@
 [2015/11/15 11:23:57] <Tobbi> *into
 [2015/11/15 11:24:04] <Tobbi> Thus, the second switch can't be pressed.
 [2015/11/15 11:28:41] <brmbrmcar> You press action.
+[2015/11/15 11:31:55] <Tobbi> ok
+[2015/11/15 11:32:57] <Tobbi> Okay, got it now.
+[2015/11/15 11:34:38] <brmbrmcar> Good.
+[2015/11/15 11:45:01] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#207: Bug with switches. - 13http://git.io/v4s6U
