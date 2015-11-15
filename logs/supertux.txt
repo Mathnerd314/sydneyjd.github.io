@@ -5435,3 +5435,12 @@
 [2015/11/15 09:08:58] <Karkus> grumbel: What do you think?
 [2015/11/15 09:10:57] @ Quit: Karkus: Quit: Leaving
 [2015/11/15 09:11:11] @ Karkus joined channel #supertux
+[2015/11/15 09:21:37] <Karkus> Or not :'(
+[2015/11/15 09:21:55] <grumbel> Karkus: looks fine so far
+[2015/11/15 09:23:11] <Tobbi> I really wonder whether the latest glbinding would work with SuperTux.
+[2015/11/15 09:23:55] <Karkus> grumbel: I've also thought about a plugin API
+[2015/11/15 09:26:28] <Karkus> grumbel: And IPC so the editor can affect what happens more than just by passing arguments
+[2015/11/15 09:27:22] <grumbel> sounds like overkill
+[2015/11/15 09:28:53] <Karkus> grumbel: Why? I want a tux object for the player to move and then he spawns there
+[2015/11/15 09:29:07] <Karkus> I want a lot of things :P
+[2015/11/15 09:29:15] <grumbel> ./supertux levelname.stl --start-pos x,y
