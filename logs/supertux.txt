@@ -5383,3 +5383,38 @@
 [2015/11/15 08:29:50] <Tobbi> I don't know everything.
 [2015/11/15 08:29:52] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/v439v
 [2015/11/15 08:29:59] <Karkus> Tobbi: Learning experience LD
+[2015/11/15 08:30:02] <Karkus> :D
+[2015/11/15 08:30:09] <Tobbi> Learning experience LSD, rather.
+[2015/11/15 08:30:18] <Tobbi> I should really be doing stuff for college.
+[2015/11/15 08:30:46] <Tobbi> Actually, let me try to get some food, first.
+[2015/11/15 08:30:48] <Karkus> Do stuff for college, then
+[2015/11/15 08:30:51] <brmbrmcar> Naughty naughty.
+[2015/11/15 08:31:24] <Tobbi> I'll go to the bakery...
+[2015/11/15 08:31:25] <Tobbi> bbl
+[2015/11/15 08:31:33] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/v439R
+[2015/11/15 08:32:09] <Karkus> You're making me hungry
+[2015/11/15 08:32:11] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/v439P
+[2015/11/15 08:32:26] <brmbrmcar> I am full.
+[2015/11/15 08:32:50] <Not-6fa5> [02supertux] 07maxteufel commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/v4397
+[2015/11/15 08:33:14] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/v439N
+[2015/11/15 08:33:32] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/v439p
+[2015/11/15 08:33:53] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43Hf
+[2015/11/15 08:34:23] @ Wuzzy joined channel #supertux
+[2015/11/15 08:34:28] @ Wuzzy2 joined channel #supertux
+[2015/11/15 08:34:29] @ Quit: Wuzzy2: Read error: Connection reset by peer
+[2015/11/15 08:34:39] <Not-6fa5> [02supertux] 07maxteufel commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43HZ
+[2015/11/15 08:35:37] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43H6
+[2015/11/15 08:36:20] <Not-6fa5> [02supertux] 07maxteufel commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43HH
+[2015/11/15 08:38:40] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43QE
+[2015/11/15 08:40:18] <brmbrmcar> This is very confusing...
+[2015/11/15 08:40:20] <Karkus> mt: The server needs to send back to the client too
+[2015/11/15 08:40:40] <mt> well, you can read it and write to it
+[2015/11/15 08:40:47] <mt> it's just like a file
+[2015/11/15 08:41:02] <Karkus> mt: But, it's not a file right?
+[2015/11/15 08:41:09] <Karkus> Like sockets read and write
+[2015/11/15 08:41:31] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/15 08:42:18] <Karkus> mt: Do you have much experience with this? IPC I mean?
+[2015/11/15 08:42:27] <brmbrmcar> I am trying to play Supertux with my foot.
+[2015/11/15 08:42:58] <mt> not really
+[2015/11/15 08:43:23] <brmbrmcar> Does anyone?
+[2015/11/15 08:44:32] <Karkus> brmbrmcar: Someone in the world will
