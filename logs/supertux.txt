@@ -5267,3 +5267,5 @@
 [2015/11/15 00:58:59] @ Mode +nt by card.freenode.net
 [2015/11/15 00:59:15] @ swift110 joined channel #supertux
 [2015/11/15 00:59:44] @ head8debian joined channel #supertux
+[2015/11/15 01:19:24] @ Quit: swift110: Remote host closed the connection
+[2015/11/15 01:20:17] @ swift110 joined channel #supertux
