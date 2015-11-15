@@ -5811,3 +5811,5 @@
 [2015/11/15 17:52:42] <Somelauw> there it was
 [2015/11/15 17:53:58] <LMH> yay
 [2015/11/15 18:01:49] @ Quit: alket: Ping timeout: 240 seconds
+[2015/11/15 18:15:12] @ alket joined channel #supertux
+[2015/11/15 18:26:04] @ Karkus joined channel #supertux
