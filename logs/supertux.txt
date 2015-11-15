@@ -5554,3 +5554,6 @@
 [2015/11/15 10:59:53] <Karkus> gtg now though
 [2015/11/15 10:59:57] <Tobbi> Sure.
 [2015/11/15 10:59:58] @ Quit: Karkus: Quit: Leaving
+[2015/11/15 11:04:10] <Tobbi> brmbrmcar: Do you have that level, anyway?
+[2015/11/15 11:04:16] <Tobbi> The level that caused the issue?
+[2015/11/15 11:04:46] <Tobbi> the level_edit(true), Level_edit(false) issue?
