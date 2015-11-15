@@ -5795,3 +5795,6 @@
 [2015/11/15 17:24:12] @ Tobbi joined channel #supertux
 [2015/11/15 17:24:12] @ Mode +o Tobbi by ChanServ
 [2015/11/15 17:26:56] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/11/15 17:32:53] <head8debian> Tobbi: I doubt they hate you.
+[2015/11/15 17:33:06] <head8debian> Tobbi: Maybe don't break their windows by accedent. :p
+[2015/11/15 17:33:11] <Tobbi> :D
