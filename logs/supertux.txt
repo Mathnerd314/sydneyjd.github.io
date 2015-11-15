@@ -5570,3 +5570,12 @@
 [2015/11/15 11:32:57] <Tobbi> Okay, got it now.
 [2015/11/15 11:34:38] <brmbrmcar> Good.
 [2015/11/15 11:45:01] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#207: Bug with switches. - 13http://git.io/v4s6U
+[2015/11/15 11:45:51] <Tobbi> Maybe I should get some frames.
+[2015/11/15 11:48:34] @ Karkus joined channel #supertux
+[2015/11/15 11:50:57] <head8debian> Tobbi: This code makes me want to pull my hair out. :p And im sure its not even that complicated.
+[2015/11/15 11:51:07] <Tobbi> head8debian: Which code?
+[2015/11/15 11:51:23] <head8debian> Im tryign to learn how to code my arduino...
+[2015/11/15 11:52:09] <Karkus> Tobbi: Is there a way to get user input in the SuperTux UI?
+[2015/11/15 11:52:34] <Tobbi> Karkus: As in: textfield? I don't think so, but you may create a gui class...
+[2015/11/15 11:52:50] <Karkus> Tobbi: Yes, okay
+[2015/11/15 11:55:40] <Tobbi> head8debian: pastebin the code?
