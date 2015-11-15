@@ -5484,3 +5484,19 @@
 [2015/11/15 09:56:40] <grumbel> Tobbi: maybe throw a TranslationUpdated exception or something like that?
 [2015/11/15 09:56:53] <Tobbi> I could do that, actually.
 [2015/11/15 09:56:55] <Tobbi> one moment.
+[2015/11/15 10:00:32] <Tobbi> Actually, if I pop the screen, then push a new TitleScreen, this could work.
+[2015/11/15 10:05:39] <Karkus> grumbel: Was the auto-smoothing a different tool?
+[2015/11/15 10:06:25] <grumbel> Karkus: flexlay never really had auto-smoothing (other then some experimental script that never worked well)
+[2015/11/15 10:06:40] <Karkus> grumbel: Well, what do you want then?
+[2015/11/15 10:07:58] <grumbel> A tile tool that lets me select "snow" tiles and then paint them around while auto-smoothing the edges
+[2015/11/15 10:08:58] <grumbel> The C# smoothing tool is a separate tool that you use to smooth out the tiles after you have painted them
+[2015/11/15 10:09:27] <grumbel> It sort of works and could be ported over to Flexlay, but it's not quite as easy to use as I would like
+[2015/11/15 10:09:54] <grumbel> The tricky part is that a lot of tilemaps in SuperTux aren't conceptually clean
+[2015/11/15 10:10:00] <Tobbi> I was also thinking of a scenery creation tool that allows you to select different slopes and place them, and it'll automatically create a smooth scenery.
+[2015/11/15 10:10:51] <grumbel> i.e. you might have tiles spread over different layers and such or special tiles that still look like other tiles
+[2015/11/15 10:12:25] <grumbel> not sure how to deal with slopes, in flexlay/netpanzer-editor I had the ability to flatten/unflatten groups of tiles into objects
+[2015/11/15 10:12:38] <grumbel> http://www.seul.org/~grumbel/tmp/flexlay/images/netpanzer-1.jpg
+[2015/11/15 10:12:39] @ Quit: Karkus: Ping timeout: 272 seconds
+[2015/11/15 10:12:56] <grumbel> that might work with slopes as well
+[2015/11/15 10:13:39] <grumbel> are there any editors out there that deal with slopes well?
+[2015/11/15 10:14:43] <grumbel> MarioMaker doesn't have slopes as far as I understand
