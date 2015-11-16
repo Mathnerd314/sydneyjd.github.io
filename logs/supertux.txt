@@ -6303,3 +6303,7 @@
 [2015/11/16 17:41:02] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91483379
 [2015/11/16 17:43:29] @ alket joined channel #supertux
 [2015/11/16 17:44:56] <maths22> Fun fact: I remember first playing SuperTux (milestone 1) around 2007/2008 ish at a summer computer camp when I was about 10
+[2015/11/16 17:45:11] <maths22> I then had completely forgotten about it until last yearish
+[2015/11/16 17:46:16] @ Quit: alket: Client Quit
+[2015/11/16 17:56:57] @ Quit: binki: Ping timeout: 265 seconds
+[2015/11/16 17:58:12] @ binki joined channel #supertux
