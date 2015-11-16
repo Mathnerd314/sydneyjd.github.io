@@ -6069,3 +6069,22 @@
 [2015/11/16 12:43:49] <Not-6fa5> [02supertux] 07Hume2 commented on issue 03#229: Stop doors fom blacking out the screen when they aren't being used - 13http://git.io/v48LC
 [2015/11/16 12:44:28] <head8debian> binki: Been* missing a shift key lately? :p
 [2015/11/16 12:45:00] <head8debian> binki: Haha. Yes, i probably have. :-)
+[2015/11/16 12:45:53] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#229: Stop doors fom blacking out the screen when they aren't being used - 13http://git.io/v48Lj
+[2015/11/16 12:51:44] <Not-6fa5> [02supertux] 07Hume2 commented on issue 03#229: Stop doors fom blacking out the screen when they aren't being used - 13http://git.io/v48YJ
+[2015/11/16 12:54:29] <racmrbmrb> On the rubberduck worldmap, all the easy levels are at the end, and all the hard ones at the beginning.
+[2015/11/16 12:55:12] <Hume2> racmrbmrb: Are you banned?
+[2015/11/16 12:55:30] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#229: Stop doors fom blacking out the screen when they aren't being used - 13http://git.io/v48O7
+[2015/11/16 12:55:38] <racmrbmrb> Hume2: No.
+[2015/11/16 12:55:51] @ racmrbmrb is now known as brmbrmcar
+[2015/11/16 12:55:58] <Hume2> :D
+[2015/11/16 12:56:19] <Hume2> I thought that you are banned and you are just bypassing it :D
+[2015/11/16 12:56:42] <brmbrmcar> If I was, I could quite easily.
+[2015/11/16 12:56:53] <Hume2> brmbrmcar: Was there any discussion about Restaured Island I removal?
+[2015/11/16 12:57:10] <brmbrmcar> Hume2: Not that I'm aware of.
+[2015/11/16 12:58:06] <Hume2> brmbrmcar: Someone has to explain LMH what the Restaurator Island I is. He is often not there unfortunately.
+[2015/11/16 12:58:39] <brmbrmcar> Hume2: Yes.
+[2015/11/16 12:58:47] <Hume2> We should reformulate the red part to make it clear to LMH.
+[2015/11/16 12:59:13] <Hume2> Could you help me? Just write me a text file and I'll put it into the infoblocks.
+[2015/11/16 12:59:27] <brmbrmcar> OK...
+[2015/11/16 12:59:39] <brmbrmcar> So about the copyright stuff?
+[2015/11/16 12:59:47] <Hume2> Yes, exactly.
