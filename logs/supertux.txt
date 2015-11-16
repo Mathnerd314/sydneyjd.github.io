@@ -5972,3 +5972,4 @@
 [2015/11/15 20:39:02] @ Natureshadow joined channel #supertux
 [2015/11/15 20:42:22] <maths22> LMH: I was actually refering to an addon one, but I also think the other one could use some help
 [2015/11/15 20:43:26] @ Xjs|moonshine joined channel #supertux
+[2015/11/15 20:55:15] @ Fmttm joined channel #supertux
