@@ -5998,3 +5998,8 @@
 [2015/11/16 00:42:11] <datahead7777> Yeah, the old one before Sydney revamped it definitely needed overhaul
 [2015/11/16 00:43:19] <datahead7777> When you get a chance, see what you think and if you can make any suggestions for it
 [2015/11/16 00:43:57] <datahead7777> I was curious, though - what kind of site is www.lethargik.org supposed to be in general anyways
+[2015/11/16 02:17:58] @ Quit: bb010g: Ping timeout: 448 seconds
+[2015/11/16 02:18:00] @ Quit: octo: Write error: Connection reset by peer
+[2015/11/16 02:19:00] @ octo joined channel #supertux
+[2015/11/16 02:19:45] @ xet7 joined channel #supertux
+[2015/11/16 02:21:54] @ bb010g joined channel #supertux
