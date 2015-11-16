@@ -6227,3 +6227,4 @@
 [2015/11/16 15:33:41] <maths22> LMH, Tobbi, and I discussed it last night, and collectively determined that, at least without consulting a lawyer, it would not be a good idea to keep the addon as part of the project
 [2015/11/16 15:35:45] <brmbrmcar> :(
 [2015/11/16 15:36:39] <brmbrmcar> Silly laws!
+[2015/11/16 15:50:49] @ Quit: brmbrmcar: Quit: brmbrmquit
