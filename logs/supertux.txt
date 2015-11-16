@@ -5901,3 +5901,53 @@
 [2015/11/15 19:29:16] <maths22> Especially given the work put into transforming them
 [2015/11/15 19:29:18] <LMH> bah- wish I had thought of that first instead of cleaning up that intro
 [2015/11/15 19:29:33] <maths22> LMH: actually, if possible, it should be removed from the git history and force pushed
+[2015/11/15 19:30:23] <LMH> I can do that, might be messy for those who use the repo, but that should only be a few
+[2015/11/15 19:31:06] <maths22> I agree, but that way we are defintely safe
+[2015/11/15 19:31:08] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91295562
+[2015/11/15 19:31:31] <maths22> LMH: By the way, I really like Fiona's world
+[2015/11/15 19:31:43] <maths22> It's fun for if I want a worldmap that is easy to play through
+[2015/11/15 19:31:55] <maths22> (Hume has some nice ones for the other end of the spectrum...)
+[2015/11/15 19:32:07] <Tobbi> :D
+[2015/11/15 19:34:39] <maths22> Also, if there is an updated fan site ever, any submissions should be required to be CC licensed
+[2015/11/15 19:34:40] <LMH> maths22: thanks! that was the idea
+[2015/11/15 19:34:49] <LMH> agreed
+[2015/11/15 19:35:02] <maths22> (I think the CC license is more appropriate for levels than the GPL)
+[2015/11/15 19:35:17] <LMH> of course the fan site was never an official piece of the project
+[2015/11/15 19:35:17] <maths22> Since levels aren't source code, the GPL doesn't apply very well
+[2015/11/15 19:35:28] <Tobbi> Couldn't we have our own site where people are allowed to upload their creations?
+[2015/11/15 19:35:30] <maths22> LMH: I know
+[2015/11/15 19:35:42] <maths22> Tobbi: yes
+[2015/11/15 19:35:42] <LMH> Tobbi: that would be great
+[2015/11/15 19:35:50] <Tobbi> I have been thinking about this, and it could integrate as well with the flexlay editor.
+[2015/11/15 19:36:03] <Tobbi> Aka, allow people to upload levels directly from flexlay.
+[2015/11/15 19:36:22] <maths22> Tobbi: if we have a clear vision, I am happy to work on the web-half implementation (and could probably provide the hosting)
+[2015/11/15 19:36:24] <LMH> that would be cool
+[2015/11/15 19:36:44] <Tobbi> maths22: Actually, file an issue against flexlay...
+[2015/11/15 19:36:58] <Tobbi> maths22: How would the upload part look? POST?
+[2015/11/15 19:37:12] <Tobbi> Sending a POST request from Python might be good.
+[2015/11/15 19:37:18] <maths22> Tobbi: probably
+[2015/11/15 19:37:18] <Tobbi> Or whatever there is.
+[2015/11/15 19:37:37] <maths22> We would probably want to require authentication
+[2015/11/15 19:37:43] <Tobbi> http://docs.python-requests.org/en/latest/ :P
+[2015/11/15 19:37:47] <Tobbi> So, that's covered.
+[2015/11/15 19:38:13] <maths22> Well, I'm off to dinner now
+[2015/11/15 19:38:19] <Tobbi> sure.
+[2015/11/15 19:38:20] <maths22> Good night to those of you in Europe
+[2015/11/15 19:38:25] <Tobbi> good night.
+[2015/11/15 19:38:30] <maths22> What time is it where you are?
+[2015/11/15 19:39:18] <Tobbi> 1:37am
+[2015/11/15 19:39:30] <maths22> 6:37 pm here
+[2015/11/15 19:39:46] <LMH> 2:37 pm  here
+[2015/11/15 19:40:40] <Tobbi> We're distributed all over the world, alright.
+[2015/11/15 19:41:01] <maths22> I think it's kind of fun
+[2015/11/15 19:41:10] <LMH> indeed
+[2015/11/15 19:41:58] <Tobbi> So, I suggest a review queue where people from the team can review them before pushing them to the add-on repository...
+[2015/11/15 19:42:00] <Tobbi> and stuff like that.
+[2015/11/15 19:42:06] <Tobbi> But this is a huge undertaking anyway.
+[2015/11/15 19:43:31] <maths22> A project for when I finish nightly builds
+[2015/11/15 19:43:37] <maths22> :)
+[2015/11/15 19:44:05] <Tobbi> yup.
+[2015/11/15 19:44:07] <Tobbi> :P
+[2015/11/15 19:44:09] <Tobbi> Anyway, good night.
+[2015/11/15 19:44:32] <LMH> we could tap into the community, let them rate levels and when they are seen as popular/stable enough we snag them for the repo
+[2015/11/15 19:44:40] <LMH> oh, sorry good night
