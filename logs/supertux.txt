@@ -6156,3 +6156,15 @@
 [2015/11/16 14:43:58] <brmbrmcar> unify spelling of commit
 [2015/11/16 14:44:09] <Tobbi> :D
 [2015/11/16 14:44:37] <brmbrmcar> Yay!
+[2015/11/16 14:48:19] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91449840
+[2015/11/16 14:49:03] <brmbrmcar> Tobbi: What should be done about #229?
+[2015/11/16 14:49:18] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91449840
+[2015/11/16 14:49:54] <Tobbi> brmbrmcar: There's no way one can figure out whether a door is being used or not.
+[2015/11/16 14:52:05] <brmbrmcar> Wait?
+[2015/11/16 14:52:30] <Tobbi> brmbrmcar: what?
+[2015/11/16 14:54:17] <brmbrmcar> Do youremember how it was resolved inearlier releases?
+[2015/11/16 14:54:57] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91449840
+[2015/11/16 14:55:19] <Tobbi> brmbrmcar: You're not making any sense, what was resolved?
+[2015/11/16 14:58:04] <brmbrmcar> The door issue.
+[2015/11/16 14:58:18] <Tobbi> brmbrmcar: The fading out for doors was just added in this release.
+[2015/11/16 14:58:19] <brmbrmcar> My spacebar is partly broken.
