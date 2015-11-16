@@ -6235,3 +6235,8 @@
 [2015/11/16 16:25:09] <Tobbi> *sigh*
 [2015/11/16 16:25:11] <Tobbi> So, finally...
 [2015/11/16 16:26:05] <Tobbi> ...no one who gets on my nerves any longer.
+[2015/11/16 16:47:07] @ Quit: Tobbi: Ping timeout: 240 seconds
+[2015/11/16 16:48:12] @ Karkus joined channel #supertux
+[2015/11/16 16:56:19] @ Quit: Karkus: Ping timeout: 250 seconds
+[2015/11/16 16:57:43] @ Karkus joined channel #supertux
+[2015/11/16 16:58:25] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
