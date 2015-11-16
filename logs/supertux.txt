@@ -6115,3 +6115,23 @@
 [2015/11/16 13:38:54] @ Karkus joined channel #supertux
 [2015/11/16 13:44:19] <Hume2> brmbrmcar: Thanks, but I still had some notes for levels 6 and 7.
 [2015/11/16 13:44:51] <brmbrmcar> I thought I'd have to finish 7.
+[2015/11/16 13:45:03] <brmbrmcar> The empty bonus blocks...
+[2015/11/16 13:45:50] <Hume2> Well...
+[2015/11/16 13:46:03] <brmbrmcar> I shall fix now.
+[2015/11/16 13:46:36] <brmbrmcar> What shall I replace them with?
+[2015/11/16 13:47:14] <Hume2> brmbrmcar: It's hard to explain when you can't see me while working on it.
+[2015/11/16 13:47:34] <brmbrmcar> Snow?
+[2015/11/16 13:47:48] <Hume2> brmbrmcar: Yes. You know me :D
+[2015/11/16 13:48:23] <Hume2> I'll give you some examples of proper terrain: snow, darksow, forest ground, stone brick walls ...
+[2015/11/16 13:49:16] <Hume2> brmbrmcar: You can't get bellow those blocks, so the empty space bellow them is useless.
+[2015/11/16 13:50:10] <Hume2> brmbrmcar: Do you know Narreland? There's one strange thing that is in most of the Narreland levels. Do you know what is it?
+[2015/11/16 13:50:38] <brmbrmcar> Is it the snow covering the feet?
+[2015/11/16 13:51:05] <Hume2> brmbrmcar: That's hard to say.
+[2015/11/16 13:51:39] <brmbrmcar> What is it then?
+[2015/11/16 13:51:52] <Hume2> I make it usually not-covering the feet, because of the flames.
+[2015/11/16 13:52:19] <Hume2> When you set the z-pos of interactive layer to 51, it covers the feet...
+[2015/11/16 13:53:02] <Hume2> ...but it covers also all the flames, so they hide in the terrain and it's tricky to pass them.
+[2015/11/16 13:53:09] @ Quit: Karkus: Ping timeout: 252 seconds
+[2015/11/16 13:57:38] <Hume2> I shouldn
+[2015/11/16 13:57:55] <Hume2> I shouldn't be rude to prevent rage discussion.
+[2015/11/16 13:58:18] <Hume2> It's contraproductive. So I'll remove the red part.
