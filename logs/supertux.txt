@@ -6106,3 +6106,6 @@
 [2015/11/16 13:09:40] <Hume2> That's exactly what I needed.
 [2015/11/16 13:10:14] <brmbrmcar> Really? I am surprised...
 [2015/11/16 13:11:43] @ Quit: Karkus: Ping timeout: 252 seconds
+[2015/11/16 13:17:56] <Hume2> brmbrmcar: Could this impress LMH? https://github.com/Hume2/addons/commit/1e9c8eea4bf37a5a9c7254b83b1dad41df118148
+[2015/11/16 13:20:37] <brmbrmcar> Hume2: Possibly, but I wouldn't bet on it.
+[2015/11/16 13:24:42] <Hume2> brmbrmcar: Then I guess that I'll repeat something like this until he will agree.
