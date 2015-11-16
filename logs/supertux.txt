@@ -6088,3 +6088,21 @@
 [2015/11/16 12:59:27] <brmbrmcar> OK...
 [2015/11/16 12:59:39] <brmbrmcar> So about the copyright stuff?
 [2015/11/16 12:59:47] <Hume2> Yes, exactly.
+[2015/11/16 13:00:23] <Hume2> I don't know the law terms in the other languages, so that's why I ask you to do it.
+[2015/11/16 13:00:51] @ Tobbi joined channel #supertux
+[2015/11/16 13:00:51] @ Mode +o Tobbi by ChanServ
+[2015/11/16 13:01:38] <Hume2> Thanks, brmbrmcar.
+[2015/11/16 13:02:08] <Tobbi> Hume2: Your restaurator add-on has been removed due to licensing issues.
+[2015/11/16 13:02:29] <Hume2> Tobbi: Well, I have an excuse :D
+[2015/11/16 13:02:40] <Tobbi> Hume2: An excuse? Which is?
+[2015/11/16 13:02:52] <Hume2> Art proccessing is allowed, isn't it?
+[2015/11/16 13:03:15] <Tobbi> I really don't know.
+[2015/11/16 13:03:17] <Tobbi> It doesn't matter.
+[2015/11/16 13:04:05] @ Quit: Tobbi: Client Quit
+[2015/11/16 13:06:35] <brmbrmcar> It is derived work...
+[2015/11/16 13:09:02] <brmbrmcar> http://paste.ubuntu.com/13300559/
+[2015/11/16 13:09:09] <brmbrmcar> It is terrible....
+[2015/11/16 13:09:32] <Hume2> Thanks!
+[2015/11/16 13:09:40] <Hume2> That's exactly what I needed.
+[2015/11/16 13:10:14] <brmbrmcar> Really? I am surprised...
+[2015/11/16 13:11:43] @ Quit: Karkus: Ping timeout: 252 seconds
