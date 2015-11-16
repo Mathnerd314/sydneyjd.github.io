@@ -6063,3 +6063,9 @@
 [2015/11/16 12:12:22] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/11/16 12:17:50] @ Hume2 joined channel #supertux
 [2015/11/16 12:23:38] <binki> head8debian: been missing an apostrophe lately? :-p
+[2015/11/16 12:42:30] <Not-6fa5> [02supertux] 07Hume2 commented on issue 03#229: Stop doors fom blacking out the screen when they aren't being used - 13http://git.io/v48I7
+[2015/11/16 12:42:51] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#229: Stop doors fom blacking out the screen when they aren't being used - 13http://git.io/v48Ij
+[2015/11/16 12:43:25] @ Wuzzy joined channel #supertux
+[2015/11/16 12:43:49] <Not-6fa5> [02supertux] 07Hume2 commented on issue 03#229: Stop doors fom blacking out the screen when they aren't being used - 13http://git.io/v48LC
+[2015/11/16 12:44:28] <head8debian> binki: Been* missing a shift key lately? :p
+[2015/11/16 12:45:00] <head8debian> binki: Haha. Yes, i probably have. :-)
