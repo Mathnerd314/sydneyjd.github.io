@@ -6050,3 +6050,4 @@
 [2015/11/16 11:06:21] <head8debian> brmbrmcar: hi.
 [2015/11/16 11:06:58] <brmbrmcar> I amwatching supertuxkart go out of control.
 [2015/11/16 11:22:12] @ brmbrmcar is now known as racmrbmrb
+[2015/11/16 11:32:07] @ alket joined channel #supertux
