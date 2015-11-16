@@ -5846,3 +5846,16 @@
 [2015/11/15 18:54:44] <LMH> already on it- recompiling from scratch
 [2015/11/15 18:55:09] <Tobbi> ok
 [2015/11/15 18:56:15] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91292572
+[2015/11/15 19:00:08] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91291976
+[2015/11/15 19:06:43] <Tobbi> LMH: So?
+[2015/11/15 19:07:36] <LMH> same
+[2015/11/15 19:07:48] <Tobbi> that is weird.
+[2015/11/15 19:07:53] <LMH> indeed
+[2015/11/15 19:08:17] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91292572
+[2015/11/15 19:08:56] <Tobbi> I don't get it...
+[2015/11/15 19:09:37] <Tobbi> if((m_language_pack_mode && (addon.get_type() == Addon::LANGUAGEPACK)) ||
+[2015/11/15 19:09:38] <Tobbi>          (!m_language_pack_mode && (addon.get_type() != Addon::LANGUAGEPACK)))
+[2015/11/15 19:09:42] <Tobbi> The above is an XOR situation.
+[2015/11/15 19:09:54] <Tobbi> That both things are true is not possible.
+[2015/11/15 19:10:49] <LMH> and it works correctly for you?
+[2015/11/15 19:11:43] <Tobbi> Yes, it does.
