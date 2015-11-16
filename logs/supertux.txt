@@ -6031,3 +6031,6 @@
 [2015/11/16 06:02:34] <leyyin> we are not in a public space
 [2015/11/16 06:03:17] <Tobbi> ok right
 [2015/11/16 08:43:16] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/16 08:55:17] @ Quit: bb010g: Ping timeout: 240 seconds
+[2015/11/16 08:57:48] @ bb010g joined channel #supertux
+[2015/11/16 08:58:45] <head8debian> We can easily give them a minuite of silence in here. :D
