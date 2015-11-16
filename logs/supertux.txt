@@ -5822,3 +5822,27 @@
 [2015/11/15 18:42:36] <Somelauw> A krampus would be a cool enemy
 [2015/11/15 18:44:29] <LMH> hah, would make a good end-boss for a Christmas-themed worldmap
 [2015/11/15 18:44:56] @ Quit: Karkus: Ping timeout: 240 seconds
+[2015/11/15 18:46:39] <LMH> Hey Tobbi, is the Language Packs submenu suppose to have all the regular addons in it as well?
+[2015/11/15 18:47:18] <Tobbi> LMH: Actually not.
+[2015/11/15 18:47:27] <Tobbi> LMH: You have to click that menu item...
+[2015/11/15 18:48:07] @ Quit: alket: Quit: I've decided to call him Norbert. He really knows me now, watch. Norbert! Where's Mummy?
+[2015/11/15 18:48:39] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v4Z8B
+[2015/11/15 18:48:41] <Not-6fa5> [02supertux] 07Tobias Markus 03588e307 - Fix badguy display for level dispensers
+[2015/11/15 18:48:43] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91291976
+[2015/11/15 18:49:25] @ Quit: Somelauw: Quit: WeeChat 0.4.2
+[2015/11/15 18:49:39] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91291976
+[2015/11/15 18:49:46] <LMH> Tobbi: I went: Options -> Language Packs and got a list of all addons
+[2015/11/15 18:49:58] <Tobbi> That's weird.
+[2015/11/15 18:50:14] <LMH> Same thing in the addon menu
+[2015/11/15 18:50:29] <LMH> (once I select Language packs)
+[2015/11/15 18:51:16] <Tobbi> LMH: What operating system?
+[2015/11/15 18:51:43] <LMH> Fedora Linux
+[2015/11/15 18:52:39] <Tobbi> Maybe that's a compiler issue. Let me check.
+[2015/11/15 18:54:10] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v4Z4O
+[2015/11/15 18:54:11] <Not-6fa5> [02supertux] 07Tobias Markus 033690852 - Add extra set of brackets around if statements
+[2015/11/15 18:54:13] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91292572
+[2015/11/15 18:54:19] <Tobbi> LMH: Pull the latest changes and recompile.
+[2015/11/15 18:54:23] <Tobbi> See if it fixes things.
+[2015/11/15 18:54:44] <LMH> already on it- recompiling from scratch
+[2015/11/15 18:55:09] <Tobbi> ok
+[2015/11/15 18:56:15] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91292572
