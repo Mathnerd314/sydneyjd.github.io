@@ -6003,3 +6003,6 @@
 [2015/11/16 02:19:00] @ octo joined channel #supertux
 [2015/11/16 02:19:45] @ xet7 joined channel #supertux
 [2015/11/16 02:21:54] @ bb010g joined channel #supertux
+[2015/11/16 02:33:01] @ Quit: tuxdev_: Ping timeout: 240 seconds
+[2015/11/16 02:42:30] @ grumbel joined channel #supertux
+[2015/11/16 02:42:30] @ Mode +o grumbel by ChanServ
