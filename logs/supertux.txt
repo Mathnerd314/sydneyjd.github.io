@@ -5859,3 +5859,45 @@
 [2015/11/15 19:09:54] <Tobbi> That both things are true is not possible.
 [2015/11/15 19:10:49] <LMH> and it works correctly for you?
 [2015/11/15 19:11:43] <Tobbi> Yes, it does.
+[2015/11/15 19:15:12] <LMH> your code looks solid, not sure what could be going wrong
+[2015/11/15 19:15:46] <Tobbi> LMH: Maybe print stuff to the console for add-on loading...
+[2015/11/15 19:15:54] <Tobbi> And maybe you can figure out why it won't work.
+[2015/11/15 19:19:27] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v4Zgp
+[2015/11/15 19:19:29] <Not-6fa5> [02supertux] 07Tobias Markus 03e29c11e - Maybe fix showing of all add-ons?
+[2015/11/15 19:19:30] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91295562
+[2015/11/15 19:19:34] <Tobbi> Maybe that? ^^
+[2015/11/15 19:20:24] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91295562
+[2015/11/15 19:20:45] <LMH> no luck...
+[2015/11/15 19:22:16] <maths22> I'm a little bit concerned with regards to the licensing on the new worldmap Restaurated island
+[2015/11/15 19:22:27] <Tobbi> *sigh*
+[2015/11/15 19:22:58] <Tobbi> LMH: Try to print the value of that boolean flag m_langpack_mode or something to the console and then see what might be wrong.
+[2015/11/15 19:23:13] <maths22> The fan site does not appear to have required uploaders to grant any rights to SuperTux/have given any license at all
+[2015/11/15 19:23:57] <Tobbi> maths22: ...and it might be fairly difficult to get the original authors to grant the licenses in retrospective.
+[2015/11/15 19:24:14] <Tobbi> maths22: Can't we make the whole worldmap "all rights reserved"?
+[2015/11/15 19:24:27] <maths22> Tobbi: I don't disagree
+[2015/11/15 19:24:43] <maths22> My concern is mostly with the "credit-taking" done in the intial level
+[2015/11/15 19:24:57] <Tobbi> That will be fixed. LMH is working on it.
+[2015/11/15 19:25:02] <maths22> Tobbi: great
+[2015/11/15 19:25:04] <Tobbi> Or rather, has agreed to work on that.
+[2015/11/15 19:25:09] <Tobbi> maths22: hume overshot a little.
+[2015/11/15 19:25:42] <LMH> yeah, I didn't even think about the licensing
+[2015/11/15 19:25:44] <maths22> Tobbi: we actually probably need to put something on that worldmap which explicitly "un-GPLs" it
+[2015/11/15 19:25:56] <Tobbi> Yeah...
+[2015/11/15 19:26:34] <Tobbi> maths22: On the other hand: If it's not under the GPL that means that hume had no rights to modify the contents of the levels in the first place.
+[2015/11/15 19:26:43] <maths22> Tobbi: that is also probably true
+[2015/11/15 19:27:04] <Tobbi> So, the legally right way would be to remove the worldmap altogether.
+[2015/11/15 19:27:11] <maths22> Tobbi: that is actually correct
+[2015/11/15 19:27:21] <maths22> We could distribute them unmodified, but then they would be unplayable
+[2015/11/15 19:27:24] <LMH> anyone have access to the originals?  I'd like to know if any licensing was with the originals
+[2015/11/15 19:27:43] <Tobbi> Many of them are on http://a062.apm.etc.tu-bs.de/pmlvls.php
+[2015/11/15 19:27:58] <maths22> LMH: most of them don't seem to have licensing attached
+[2015/11/15 19:27:59] <Tobbi> I even believe all of them.
+[2015/11/15 19:28:21] <maths22> Tobbi: what do you mean?
+[2015/11/15 19:28:32] <Tobbi> maths22: I believe all of them are from the fan site above.
+[2015/11/15 19:28:46] <LMH> well, then the safe thing is to simply remove the addon
+[2015/11/15 19:28:47] <maths22> Tobbi: given the intro, I think that is correct
+[2015/11/15 19:28:55] <maths22> LMH: I sadly agree
+[2015/11/15 19:29:00] <Tobbi> It's a shame, really...
+[2015/11/15 19:29:16] <maths22> Especially given the work put into transforming them
+[2015/11/15 19:29:18] <LMH> bah- wish I had thought of that first instead of cleaning up that intro
+[2015/11/15 19:29:33] <maths22> LMH: actually, if possible, it should be removed from the git history and force pushed
