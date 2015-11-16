@@ -5973,3 +5973,10 @@
 [2015/11/15 20:42:22] <maths22> LMH: I was actually refering to an addon one, but I also think the other one could use some help
 [2015/11/15 20:43:26] @ Xjs|moonshine joined channel #supertux
 [2015/11/15 20:55:15] @ Fmttm joined channel #supertux
+[2015/11/15 21:16:05] <Not-6fa5> [02supertux] 07LMH0013 pushed 032 commits to 03master [+0/-0/±2] 13http://git.io/v4Zhd
+[2015/11/15 21:16:07] <Not-6fa5> [02supertux] 07Phaethon 03cf4c612 - Added condition to check type of uninstalled addons to work properly with the Language Pack submenu.
+[2015/11/15 21:16:08] <Not-6fa5> [02supertux] 07Phaethon 030a103a5 - Navigation from Language Packs submenu back to Addons menu.
+[2015/11/15 21:16:10] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91305215
+[2015/11/15 21:17:01] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91305215
+[2015/11/15 21:26:59] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91305215
+[2015/11/15 21:28:52] @ bb010g joined channel #supertux
