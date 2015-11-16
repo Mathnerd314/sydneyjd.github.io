@@ -6011,3 +6011,14 @@
 [2015/11/16 04:53:05] <Not-6fa5> [02supertux] 07Tobias Markus 03adeb181 - Set dialog to tell the user to restart SuperTux
 [2015/11/16 04:53:07] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91346633
 [2015/11/16 04:53:56] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91346633
+[2015/11/16 05:01:52] @ Tobbi joined channel #supertux
+[2015/11/16 05:01:52] @ Mode +o Tobbi by ChanServ
+[2015/11/16 05:02:28] <Not-6fa5> [02supertux] 07tobbi opened issue 03#228: Make language add-ons work without a restart - 13http://git.io/v4cdt
+[2015/11/16 05:04:51] <Not-6fa5> [02supertux] 07tobbi labeled issue 03#228: Make language add-ons work without a restart - 13http://git.io/v4cdt
+[2015/11/16 05:04:53] <Not-6fa5> [02supertux] 07tobbi labeled issue 03#228: Make language add-ons work without a restart - 13http://git.io/v4cdt
+[2015/11/16 05:04:54] <Not-6fa5> [02supertux] 07tobbi labeled issue 03#228: Make language add-ons work without a restart - 13http://git.io/v4cdt
+[2015/11/16 05:04:56] <Not-6fa5> [02supertux] 07tobbi labeled issue 03#228: Make language add-ons work without a restart - 13http://git.io/v4cdt
+[2015/11/16 05:04:57] <Not-6fa5> [02supertux] 07tobbi labeled issue 03#228: Make language add-ons work without a restart - 13http://git.io/v4cdt
+[2015/11/16 05:04:59] <Not-6fa5> [02supertux] 07tobbi labeled issue 03#228: Make language add-ons work without a restart - 13http://git.io/v4cdt
+[2015/11/16 05:05:01] <Not-6fa5> [02supertux] 07tobbi labeled issue 03#228: Make language add-ons work without a restart - 13http://git.io/v4cdt
+[2015/11/16 05:05:06] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91346633
