@@ -6061,3 +6061,5 @@
 [2015/11/16 12:01:51] <leyyin> 4 year old in me is happy ;)
 [2015/11/16 12:02:02] <racmrbmrb> If I  click off the window, evenif I click back, until I input it goes by itself.
 [2015/11/16 12:12:22] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2015/11/16 12:17:50] @ Hume2 joined channel #supertux
+[2015/11/16 12:23:38] <binki> head8debian: been missing an apostrophe lately? :-p
