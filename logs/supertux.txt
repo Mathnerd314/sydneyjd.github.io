@@ -5963,3 +5963,4 @@
 [2015/11/15 19:56:51] <LMH> I know, it is not trivial to work with- took me some time after it was remade to work properly
 [2015/11/15 19:58:18] <Tobbi> LMH: But if we had a proper website with a backend, that would make things easier. We could create all the values automatically.
 [2015/11/15 19:58:50] <LMH> that's true, would save me a lot of time when changing addons
+[2015/11/15 20:09:09] @ Quit: Tobbi: 
