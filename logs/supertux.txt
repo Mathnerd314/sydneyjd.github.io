@@ -6051,3 +6051,5 @@
 [2015/11/16 11:06:58] <brmbrmcar> I amwatching supertuxkart go out of control.
 [2015/11/16 11:22:12] @ brmbrmcar is now known as racmrbmrb
 [2015/11/16 11:32:07] @ alket joined channel #supertux
+[2015/11/16 11:48:27] <Not-6fa5> [02supertux] 07brmbrmcar opened issue 03#229: Stop doors fom blacking out the screen when they aren't being used - 13http://git.io/v4l1T
+[2015/11/16 11:55:26] @ Karkus joined channel #supertux
