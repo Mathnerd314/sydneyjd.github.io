@@ -6044,3 +6044,8 @@
 [2015/11/16 10:27:16] @ tuxdev_ joined channel #supertux
 [2015/11/16 10:39:43] @ brmbrmcar joined channel #supertux
 [2015/11/16 10:43:04] @ apostrophe is now known as binki
+[2015/11/16 11:03:17] <head8debian> brmbrmcar: :-)
+[2015/11/16 11:04:16] <head8debian> binki: ^^ :-)
+[2015/11/16 11:05:25] <brmbrmcar> head8debian: hello
+[2015/11/16 11:06:21] <head8debian> brmbrmcar: hi.
+[2015/11/16 11:06:58] <brmbrmcar> I amwatching supertuxkart go out of control.
