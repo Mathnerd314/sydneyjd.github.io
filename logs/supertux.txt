@@ -6135,3 +6135,13 @@
 [2015/11/16 13:57:38] <Hume2> I shouldn
 [2015/11/16 13:57:55] <Hume2> I shouldn't be rude to prevent rage discussion.
 [2015/11/16 13:58:18] <Hume2> It's contraproductive. So I'll remove the red part.
+[2015/11/16 14:00:27] <Hume2> I'll reconect shortly so wait please.
+[2015/11/16 14:00:32] @ Quit: Hume2: Quit: Page closed
+[2015/11/16 14:05:53] @ Hume2 joined channel #supertux
+[2015/11/16 14:08:10] <Hume2> brmbrmcar: I think that it has no sense to wait on me. We'll look together on it later.
+[2015/11/16 14:10:40] <brmbrmcar> Look for what?
+[2015/11/16 14:11:13] <Hume2> brmbrmcar: I mean that we'll correct what we did wrong.
+[2015/11/16 14:11:17] <brmbrmcar> OK.
+[2015/11/16 14:11:31] <Hume2> However, that doesn't mean that you can hesitate. And if you figure yourself what you did wrong, don't worry to correct it.
+[2015/11/16 14:12:03] <Hume2> I must go now, bye!
+[2015/11/16 14:12:06] @ Quit: Hume2: Quit: Page closed
