@@ -6257,3 +6257,40 @@
 [2015/11/16 17:12:59] <Tobbi> head8debian: sorry. I hate people who I don't know what to think about...
 [2015/11/16 17:13:12] <head8debian> :-)
 [2015/11/16 17:13:27] <Tobbi> brmbrmcar is a strange guy. And he annoys the heck out of me.
+[2015/11/16 17:17:34] <Tobbi> head8debian: Actually, we could really need icy dispenser graphics.
+[2015/11/16 17:18:29] <Tobbi> I mean: the other dispensers don't really look icy.
+[2015/11/16 17:19:00] <maths22> Tobbi: the "metal" ones don't really look out of place in an icy world
+[2015/11/16 17:19:09] <maths22> I can't say the same about the wooden ones
+[2015/11/16 17:19:13] <Tobbi> yup.
+[2015/11/16 17:19:24] <Tobbi> I think the wooden ones look rather ugly...
+[2015/11/16 17:19:41] <maths22> To me, the cannons work, but if someone wanted, they could add some icicles or something like that
+[2015/11/16 17:19:48] <maths22> Tobbi: I must agree on the wooden ones
+[2015/11/16 17:20:04] <maths22> It does not help that half of the levels that use them just have them floating in the air
+[2015/11/16 17:20:09] <Tobbi> Sometimes we don't want to show any dispenser...
+[2015/11/16 17:20:19] <maths22> In my opinion, they should be ceiling mounted, in a cloud, or invisible
+[2015/11/16 17:20:25] <Tobbi> Yes.
+[2015/11/16 17:20:34] <Tobbi> But in a cloud, we sometimes don't want the dispenser to be visible.
+[2015/11/16 17:20:36] <maths22> Also, why does fireflower no longer destroy dispensers?
+[2015/11/16 17:20:44] <Tobbi> Change made by hume someday.
+[2015/11/16 17:20:47] <maths22> Tobbi: In theory, the cloud should cover up the dispenser
+[2015/11/16 17:21:05] <Tobbi> maths22: It does, but I'd rather have a flag on the dispenser that sets it to hidden.
+[2015/11/16 17:21:06] <maths22> Tobbi: Same with why it doesn't destroy crystallo?
+[2015/11/16 17:21:15] <Tobbi> Because fire shouldn
+[2015/11/16 17:21:19] <Tobbi> 't melt a crystal.
+[2015/11/16 17:21:23] <maths22> Tobbi: this is true
+[2015/11/16 17:21:26] <Tobbi> But that's also a change hume introduced.
+[2015/11/16 17:21:51] <maths22> Then again, fire also shouldn't melt the spiky shells, but we kind of have to ignore that
+[2015/11/16 17:22:17] <maths22> Also, in my opinion, the new forest jumpy graphics are not the most attractive
+[2015/11/16 17:22:25] <Tobbi> True...
+[2015/11/16 17:22:30] <Tobbi> Maybe we should reset them?
+[2015/11/16 17:22:41] <maths22> Tobbi: the metal ones didn't look out of place
+[2015/11/16 17:22:57] <Tobbi> maths22: Yes, I agree... can you undo the changes?
+[2015/11/16 17:23:11] <maths22> Tobbi: not right now, but I will try to remember for later
+[2015/11/16 17:23:17] <Tobbi> Or I could.
+[2015/11/16 17:23:20] <Tobbi> I'll have to see..
+[2015/11/16 17:27:12] <Tobbi> maths22: Do I keep the sprites themselves for reference or do I revert that commit as well?
+[2015/11/16 17:27:58] @ Quit: alket: Ping timeout: 272 seconds
+[2015/11/16 17:28:14] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±17] 13http://git.io/v4Bf6
+[2015/11/16 17:28:15] <Not-6fa5> [02supertux] 07Tobias Markus 0356f8c0a - Revert "Changed the sprite of jumpy in forest levels"
+[2015/11/16 17:28:19] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91483379
+[2015/11/16 17:29:15] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91483379
