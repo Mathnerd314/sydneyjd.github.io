@@ -6007,3 +6007,7 @@
 [2015/11/16 02:42:30] @ grumbel joined channel #supertux
 [2015/11/16 02:42:30] @ Mode +o grumbel by ChanServ
 [2015/11/16 03:19:35] @ Quit: tux|dude: Read error: Connection reset by peer
+[2015/11/16 04:53:04] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v4c9x
+[2015/11/16 04:53:05] <Not-6fa5> [02supertux] 07Tobias Markus 03adeb181 - Set dialog to tell the user to restart SuperTux
+[2015/11/16 04:53:07] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91346633
+[2015/11/16 04:53:56] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91346633
