@@ -6186,3 +6186,31 @@
 [2015/11/16 15:09:32] @ Quit: Tobbi: 
 [2015/11/16 15:10:07] <brmbrmcar> phew1
 [2015/11/16 15:10:58] @ bb010g joined channel #supertux
+[2015/11/16 15:18:11] @ Quit: grumbel: Quit: Ex-Chat
+[2015/11/16 15:20:47] <maths22> brmbrmcar: what is the source of http://paste.ubuntu.com/13300559/ ?
+[2015/11/16 15:20:52] <maths22> You posted it above
+[2015/11/16 15:23:14] <brmbrmcar> I made it myself.
+[2015/11/16 15:23:38] <brmbrmcar> Noone owns any rights tyo it.
+[2015/11/16 15:24:05] <maths22> brmbrmcar: My quesiton is because, at least under US copyright law, it is not really correct
+[2015/11/16 15:24:33] <maths22> For something to qualify as "fair use" in the US, it must satisfy 4 conditions in some combination
+[2015/11/16 15:24:47] <maths22> (US copyright law is confusing, but here is the basic idea)
+[2015/11/16 15:24:55] <maths22> the purpose and character of your use
+[2015/11/16 15:24:55] <maths22> the nature of the copyrighted work
+[2015/11/16 15:24:55] <maths22> the amount and substantiality of the portion taken, and
+[2015/11/16 15:24:55] <maths22> the effect of the use upon the potential market.
+[2015/11/16 15:25:07] <brmbrmcar> Yeah, but think of it this way: if we were that strict on copyright, everything would be banned.
+[2015/11/16 15:25:12] <maths22> brmbrmcar: Nope
+[2015/11/16 15:25:19] <maths22> Most of our stuff has a CC license
+[2015/11/16 15:25:22] <maths22> that lets us use it
+[2015/11/16 15:25:49] <maths22> By default, we cannot use anything-permission must be explicitly granted (except for the specific carve-outs for "fair use")
+[2015/11/16 15:25:54] <brmbrmcar> And also, how does this apply internationally?
+[2015/11/16 15:26:15] <maths22> brmbrmcar: I can look into that, that said, I assume we want to be allowed to distribute the game in the US
+[2015/11/16 15:26:38] <brmbrmcar> Exactly.
+[2015/11/16 15:26:47] <brmbrmcar> It needs to be legal everywhere.
+[2015/11/16 15:27:31] <maths22> CC licenses are "certified" as internationally valid
+[2015/11/16 15:27:59] <brmbrmcar> THink of it this way: if Hukme
+[2015/11/16 15:28:00] <maths22> (The GPL, while also internationally valid, does not apply to levels, which are really data not source code)
+[2015/11/16 15:28:20] <brmbrmcar> randomally created those levels, would that be illegel?
+[2015/11/16 15:28:34] <maths22> brmbrmcar: no, but that is irrelevant
+[2015/11/16 15:28:50] <maths22> It is a known fact that they were created from the fan site levels
+[2015/11/16 15:29:11] <maths22> His ability to create them independently does not make them any less tied to the originals
