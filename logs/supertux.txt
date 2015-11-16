@@ -6229,3 +6229,9 @@
 [2015/11/16 15:36:39] <brmbrmcar> Silly laws!
 [2015/11/16 15:50:49] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/11/16 16:11:12] <binki> head8debian: ^^
+[2015/11/16 16:19:53] @ Quit: claymore2: Quit: Leaving
+[2015/11/16 16:24:57] @ Tobbi joined channel #supertux
+[2015/11/16 16:24:57] @ Mode +o Tobbi by ChanServ
+[2015/11/16 16:25:09] <Tobbi> *sigh*
+[2015/11/16 16:25:11] <Tobbi> So, finally...
+[2015/11/16 16:26:05] <Tobbi> ...no one who gets on my nerves any longer.
