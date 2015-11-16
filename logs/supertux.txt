@@ -6240,3 +6240,20 @@
 [2015/11/16 16:56:19] @ Quit: Karkus: Ping timeout: 250 seconds
 [2015/11/16 16:57:43] @ Karkus joined channel #supertux
 [2015/11/16 16:58:25] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/11/16 17:03:33] @ Tobbi joined channel #supertux
+[2015/11/16 17:03:34] @ Mode +o Tobbi by ChanServ
+[2015/11/16 17:04:01] @ Quit: Wuzzy: Quit: Wuzzy
+[2015/11/16 17:07:55] <maths22> Tobbi: I had a conversation with brmbrmcar, and seem to have convinced him that the "Restorated" levels indeed are probably not legal
+[2015/11/16 17:08:10] @ Quit: Karkus: Quit: Leaving
+[2015/11/16 17:08:12] <Tobbi> maths22: I can see that. It took him a while to realize that.
+[2015/11/16 17:09:27] <Tobbi> maths22: How can someone like brmbrmcar switch from annoying to serious this easily? Why does he get on our nerves?
+[2015/11/16 17:10:35] <Tobbi> or rather: *my nerves
+[2015/11/16 17:11:55] <head8debian> Tobbi: O_O
+[2015/11/16 17:12:01] <Tobbi> head8debian: what?
+[2015/11/16 17:12:09] <head8debian> O_O
+[2015/11/16 17:12:18] <Tobbi> WHAT?
+[2015/11/16 17:12:25] <head8debian> Since brmbrm is serious i have to be on your nerves now. :p
+[2015/11/16 17:12:46] <head8debian> Tobbi: Settle down...
+[2015/11/16 17:12:59] <Tobbi> head8debian: sorry. I hate people who I don't know what to think about...
+[2015/11/16 17:13:12] <head8debian> :-)
+[2015/11/16 17:13:27] <Tobbi> brmbrmcar is a strange guy. And he annoys the heck out of me.
