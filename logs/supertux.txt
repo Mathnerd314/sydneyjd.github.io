@@ -6214,3 +6214,16 @@
 [2015/11/16 15:28:34] <maths22> brmbrmcar: no, but that is irrelevant
 [2015/11/16 15:28:50] <maths22> It is a known fact that they were created from the fan site levels
 [2015/11/16 15:29:11] <maths22> His ability to create them independently does not make them any less tied to the originals
+[2015/11/16 15:30:11] <brmbrmcar> But it is relevant, nbecause it is exactly the same.
+[2015/11/16 15:30:29] <brmbrmcar> The proccess is not important.
+[2015/11/16 15:30:35] <maths22> brmbrmcar: That is not true
+[2015/11/16 15:30:50] <maths22> If I looked at the fan site levels, and Hume's levels, they would clearly be related
+[2015/11/16 15:31:02] <maths22> Further, we have documentation, in several forms, that they are related
+[2015/11/16 15:31:18] <maths22> Therefore, legally, Hume's levels are a derivative work of the original
+[2015/11/16 15:32:20] <brmbrmcar> OK then. You win.
+[2015/11/16 15:32:36] <maths22> brmbrmcar: I feel sorry for Hume, because I can tell he put a lot of work into the levels
+[2015/11/16 15:32:43] <brmbrmcar> I know.
+[2015/11/16 15:33:12] <brmbrmcar> And I tried restoring some levels, and it isn't as easy as it sounds.
+[2015/11/16 15:33:41] <maths22> LMH, Tobbi, and I discussed it last night, and collectively determined that, at least without consulting a lawyer, it would not be a good idea to keep the addon as part of the project
+[2015/11/16 15:35:45] <brmbrmcar> :(
+[2015/11/16 15:36:39] <brmbrmcar> Silly laws!
