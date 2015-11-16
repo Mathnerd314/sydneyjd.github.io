@@ -5986,3 +5986,7 @@
 [2015/11/15 21:46:06] <head8debian> Our TODO list and wiki are not in very good shape, frsnkly.
 [2015/11/15 21:46:14] <head8debian> frankly*
 [2015/11/15 21:59:53] <datahead7777> LMH, have you taken a good look at the newer website?
+[2015/11/15 22:00:19] <datahead7777> Err. maths22
+[2015/11/15 22:00:38] <datahead7777> It definitely was an improvement over the old one
+[2015/11/15 22:00:50] <datahead7777> Though I'm sure there's always room for more improvement
+[2015/11/15 22:12:26] @ Quit: irungentoo: Remote host closed the connection
