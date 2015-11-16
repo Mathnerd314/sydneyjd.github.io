@@ -6030,3 +6030,4 @@
 [2015/11/16 06:02:21] <leyyin> what? why?
 [2015/11/16 06:02:34] <leyyin> we are not in a public space
 [2015/11/16 06:03:17] <Tobbi> ok right
+[2015/11/16 08:43:16] @ Quit: Tobbi: Remote host closed the connection
