@@ -6145,3 +6145,4 @@
 [2015/11/16 14:11:31] <Hume2> However, that doesn't mean that you can hesitate. And if you figure yourself what you did wrong, don't worry to correct it.
 [2015/11/16 14:12:03] <Hume2> I must go now, bye!
 [2015/11/16 14:12:06] @ Quit: Hume2: Quit: Page closed
+[2015/11/16 14:16:45] @ claymore2 joined channel #supertux
