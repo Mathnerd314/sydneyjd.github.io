@@ -5964,3 +5964,11 @@
 [2015/11/15 19:58:18] <Tobbi> LMH: But if we had a proper website with a backend, that would make things easier. We could create all the values automatically.
 [2015/11/15 19:58:50] <LMH> that's true, would save me a lot of time when changing addons
 [2015/11/15 20:09:09] @ Quit: Tobbi: 
+[2015/11/15 20:30:42] <maths22> A proper website would be a very nice thing, and a nice future project
+[2015/11/15 20:33:26] <maths22> Also, do we have a proper 0.4.0 todo list?
+[2015/11/15 20:35:28] <LMH> maths22: I have not checked the todos for some time so honestly I'm not sure what state they are in.  I do agree that the website could use a bit of an overhaul.
+[2015/11/15 20:35:32] @ Quit: Xjs|moonshine: Ping timeout: 246 seconds
+[2015/11/15 20:35:54] @ Quit: Natureshadow: Remote host closed the connection
+[2015/11/15 20:39:02] @ Natureshadow joined channel #supertux
+[2015/11/15 20:42:22] <maths22> LMH: I was actually refering to an addon one, but I also think the other one could use some help
+[2015/11/15 20:43:26] @ Xjs|moonshine joined channel #supertux
