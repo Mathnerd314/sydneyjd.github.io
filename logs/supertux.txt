@@ -6109,3 +6109,9 @@
 [2015/11/16 13:17:56] <Hume2> brmbrmcar: Could this impress LMH? https://github.com/Hume2/addons/commit/1e9c8eea4bf37a5a9c7254b83b1dad41df118148
 [2015/11/16 13:20:37] <brmbrmcar> Hume2: Possibly, but I wouldn't bet on it.
 [2015/11/16 13:24:42] <Hume2> brmbrmcar: Then I guess that I'll repeat something like this until he will agree.
+[2015/11/16 13:32:57] <Hume2> brmbrmcar: I think, it goes well. Thank you again.
+[2015/11/16 13:37:59] <brmbrmcar> Ok.
+[2015/11/16 13:38:10] <brmbrmcar> I am restauring the next level.
+[2015/11/16 13:38:54] @ Karkus joined channel #supertux
+[2015/11/16 13:44:19] <Hume2> brmbrmcar: Thanks, but I still had some notes for levels 6 and 7.
+[2015/11/16 13:44:51] <brmbrmcar> I thought I'd have to finish 7.
