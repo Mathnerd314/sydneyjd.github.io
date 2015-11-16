@@ -5951,3 +5951,15 @@
 [2015/11/15 19:44:09] <Tobbi> Anyway, good night.
 [2015/11/15 19:44:32] <LMH> we could tap into the community, let them rate levels and when they are seen as popular/stable enough we snag them for the repo
 [2015/11/15 19:44:40] <LMH> oh, sorry good night
+[2015/11/15 19:46:37] <Tobbi> LMH: That could work as well. But that's for post-0.4.0
+[2015/11/15 19:47:06] <LMH> agreed
+[2015/11/15 19:47:52] <Tobbi> LMH: So, can you file issues against the add-ons repository re. website etc.?
+[2015/11/15 19:49:23] <LMH> Tobbi, I'm working on a full removal from the history, think we should tighten up access to that repo?
+[2015/11/15 19:49:44] <Tobbi> LMH: We could. I believe HUme would complain, though.
+[2015/11/15 19:49:53] <Tobbi> We just need to make sure that he sticks to the rules.
+[2015/11/15 19:53:44] <LMH> he didn't follow the format either- we'll have to ask that he has anything reviewed first
+[2015/11/15 19:54:18] <LMH> the addon repo is a little harder to deal with, requires some advanced knowledge
+[2015/11/15 19:55:44] <Tobbi> I had trouble with it as well...
+[2015/11/15 19:56:51] <LMH> I know, it is not trivial to work with- took me some time after it was remade to work properly
+[2015/11/15 19:58:18] <Tobbi> LMH: But if we had a proper website with a backend, that would make things easier. We could create all the values automatically.
+[2015/11/15 19:58:50] <LMH> that's true, would save me a lot of time when changing addons
