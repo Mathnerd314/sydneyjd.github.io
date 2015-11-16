@@ -6034,3 +6034,6 @@
 [2015/11/16 08:55:17] @ Quit: bb010g: Ping timeout: 240 seconds
 [2015/11/16 08:57:48] @ bb010g joined channel #supertux
 [2015/11/16 08:58:45] <head8debian> We can easily give them a minuite of silence in here. :D
+[2015/11/16 09:04:43] <head8debian> datahead7777: Not sure on lethargic.org, but its the we were given a subdomain of it free...
+[2015/11/16 09:08:34] @ Quit: mhall119: Changing host
+[2015/11/16 09:08:35] @ mhall119 joined channel #supertux
