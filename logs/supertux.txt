@@ -6026,3 +6026,7 @@
 [2015/11/16 05:57:26] @ Tobbi joined channel #supertux
 [2015/11/16 05:57:26] @ Mode +o Tobbi by ChanServ
 [2015/11/16 05:59:56] @ leyyin joined channel #supertux
+[2015/11/16 06:02:05] <Tobbi> leyyin: Minute of silence for the victims of the Paris attacks.
+[2015/11/16 06:02:21] <leyyin> what? why?
+[2015/11/16 06:02:34] <leyyin> we are not in a public space
+[2015/11/16 06:03:17] <Tobbi> ok right
