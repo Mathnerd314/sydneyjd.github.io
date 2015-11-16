@@ -6022,3 +6022,4 @@
 [2015/11/16 05:04:59] <Not-6fa5> [02supertux] 07tobbi labeled issue 03#228: Make language add-ons work without a restart - 13http://git.io/v4cdt
 [2015/11/16 05:05:01] <Not-6fa5> [02supertux] 07tobbi labeled issue 03#228: Make language add-ons work without a restart - 13http://git.io/v4cdt
 [2015/11/16 05:05:06] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91346633
+[2015/11/16 05:22:56] @ Quit: Tobbi: Remote host closed the connection
