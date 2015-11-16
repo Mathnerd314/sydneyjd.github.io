@@ -6146,3 +6146,13 @@
 [2015/11/16 14:12:03] <Hume2> I must go now, bye!
 [2015/11/16 14:12:06] @ Quit: Hume2: Quit: Page closed
 [2015/11/16 14:16:45] @ claymore2 joined channel #supertux
+[2015/11/16 14:35:03] @ Tobbi joined channel #supertux
+[2015/11/16 14:35:03] @ Mode +o Tobbi by ChanServ
+[2015/11/16 14:39:45] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v48pa
+[2015/11/16 14:39:47] <Not-6fa5> [02supertux] 07Tobias Markus 038f937aa - unify spelling of add-on throughout addon menu
+[2015/11/16 14:39:49] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91449840
+[2015/11/16 14:40:55] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91449840
+[2015/11/16 14:43:39] <brmbrmcar> add-on throughout addon
+[2015/11/16 14:43:58] <brmbrmcar> unify spelling of commit
+[2015/11/16 14:44:09] <Tobbi> :D
+[2015/11/16 14:44:37] <brmbrmcar> Yay!
