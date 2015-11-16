@@ -5995,3 +5995,6 @@
 [2015/11/15 23:58:16] <maths22> Sorry for the all caps
 [2015/11/15 23:58:26] <maths22> I haven't paid much attention to it lately
 [2015/11/15 23:58:32] <maths22> My mental image was still the old one
+[2015/11/16 00:42:11] <datahead7777> Yeah, the old one before Sydney revamped it definitely needed overhaul
+[2015/11/16 00:43:19] <datahead7777> When you get a chance, see what you think and if you can make any suggestions for it
+[2015/11/16 00:43:57] <datahead7777> I was curious, though - what kind of site is www.lethargik.org supposed to be in general anyways
