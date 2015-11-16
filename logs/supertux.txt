@@ -6168,3 +6168,21 @@
 [2015/11/16 14:58:04] <brmbrmcar> The door issue.
 [2015/11/16 14:58:18] <Tobbi> brmbrmcar: The fading out for doors was just added in this release.
 [2015/11/16 14:58:19] <brmbrmcar> My spacebar is partly broken.
+[2015/11/16 15:01:01] <brmbrmcar> Well it is causing problems.
+[2015/11/16 15:01:15] <brmbrmcar> WAs it in 0.3.5?
+[2015/11/16 15:05:08] <brmbrmcar> Line 42 https://github.com/SuperTux/supertux/blob/master/docs/worldmapformat.txt typo
+[2015/11/16 15:07:14] <Tobbi> *sigh*
+[2015/11/16 15:07:16] <Tobbi> stop it.
+[2015/11/16 15:07:51] <brmbrmcar> Why?
+[2015/11/16 15:08:09] <Tobbi> Because.
+[2015/11/16 15:08:14] <Tobbi> I am busy with other stuff.
+[2015/11/16 15:08:17] <Tobbi> How old are you?
+[2015/11/16 15:08:25] <brmbrmcar> Zero!
+[2015/11/16 15:08:25] <Tobbi> Do you really need to get on other people's nerves?
+[2015/11/16 15:08:28] <Tobbi> Shut up!
+[2015/11/16 15:08:50] <brmbrmcar> No. But you justv hate all the bugs.
+[2015/11/16 15:08:58] <Tobbi> And that's why I never wanted to lead this project. People getting on my nerves.
+[2015/11/16 15:09:21] <brmbrmcar> you don'thave to.
+[2015/11/16 15:09:32] @ Quit: Tobbi: 
+[2015/11/16 15:10:07] <brmbrmcar> phew1
+[2015/11/16 15:10:58] @ bb010g joined channel #supertux
