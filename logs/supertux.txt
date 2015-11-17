@@ -6693,3 +6693,26 @@
 [2015/11/17 17:58:00] <Karkus> I suck at remembering the words :D
 [2015/11/17 17:58:05] <Tobbi> Karkus: Correct.
 [2015/11/17 17:58:37] <Karkus> I have a feeling I've heard a similar English joke
+[2015/11/17 18:00:23] <Tobbi> Geht ein Vergewaltiger mit einem kleinen Jungen in den Wald. Sagt der Junge "Ganz schön gruselig hier", sagt der Vergewaltiger "Was soll ich denn sagen, ich muss nachher alleine nach Hause".
+[2015/11/17 18:03:51] <Karkus> Vergewaltiger?
+[2015/11/17 18:04:29] <Tobbi> Karkus: rapist.
+[2015/11/17 18:04:48] <Karkus> Tobbi: I wonder why I don't know that word?
+[2015/11/17 18:05:25] @ Quit: nerdopolis_: Quit: No Ping reply in 180 seconds.
+[2015/11/17 18:05:51] <Tobbi> Karkus: A rapist goes into the woods with a little boy. The boy says "It's rather scary in here", the rapist says "What am I supposed to say, I have to walk home alone later"
+[2015/11/17 18:06:05] <Karkus> Ah.
+[2015/11/17 18:06:07] @ nerdopolis_ joined channel #supertux
+[2015/11/17 18:06:16] <Karkus> I was going to provide my incorrect translation
+[2015/11/17 18:06:17] <Tobbi> Never mind, it's rather morbid.
+[2015/11/17 18:06:40] <Karkus> I get it, but 'haha' isn't appropriate here :P
+[2015/11/17 18:07:05] <Tobbi> I know.
+[2015/11/17 18:07:21] @ Quit: alket: Read error: Connection reset by peer
+[2015/11/17 18:07:42] @ alket joined channel #supertux
+[2015/11/17 18:13:53] <head8debian> maths22: No, long school day. :-)
+[2015/11/17 18:13:58] <head8debian> Hey Tobbi.
+[2015/11/17 18:14:05] <Tobbi> hey me
+[2015/11/17 18:14:11] <head8debian> Tobbi: I was going to tell you something but i forgot what it was...
+[2015/11/17 18:14:17] <head8debian> Good evening Karkus.
+[2015/11/17 18:14:17] <Tobbi> head8debian: Great.
+[2015/11/17 18:14:28] <head8debian> Tobbi: So im sure that helps you alot.
+[2015/11/17 18:14:35] <Tobbi> Yes, definitely.
+[2015/11/17 18:14:37] <Karkus> head8debian: Evening
