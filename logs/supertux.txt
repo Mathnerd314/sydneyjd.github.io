@@ -6335,3 +6335,4 @@
 [2015/11/16 19:25:34] <maths22> Tobbi_: Yep
 [2015/11/16 20:15:48] @ Quit: tux|dude: Quit: Leaving
 [2015/11/16 20:16:06] @ tux|dude joined channel #supertux
+[2015/11/16 20:38:28] @ Quit: Tobbi_: 
