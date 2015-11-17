@@ -6395,3 +6395,24 @@
 [2015/11/17 10:09:36] @ grumbel joined channel #supertux
 [2015/11/17 10:09:36] @ Mode +o grumbel by ChanServ
 [2015/11/17 10:10:15] <maths22> Hume2: will do
+[2015/11/17 10:35:08] @ brmbrmcar joined channel #supertux
+[2015/11/17 10:38:14] <Not-6fa5> [02supertux] 07Hume2 opened pull request 03#230: Added unordered path mode - 13http://git.io/v4upa
+[2015/11/17 10:38:17] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91618984
+[2015/11/17 10:38:26] <Hume2> Hello, brmbrmcar!
+[2015/11/17 10:39:22] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91618984
+[2015/11/17 10:39:26] <brmbrmcar> Hello Hume2!
+[2015/11/17 10:40:00] <brmbrmcar> Any news on that retaured island 1?
+[2015/11/17 10:40:33] <Hume2> brmbrmcar: I changed everything needed, but didn't posted anything so far.
+[2015/11/17 10:41:10] <brmbrmcar> Hume2: OK, then.
+[2015/11/17 10:41:44] <Hume2> brmbrmcar: I thought a new path mode, unordered.
+[2015/11/17 10:41:51] <brmbrmcar> Apparently there was a discussion about it, but it was in the middle of the night.
+[2015/11/17 10:41:57] <brmbrmcar> The path mode?
+[2015/11/17 10:42:15] <Hume2> You know, we have circular, pingpong and oneshot.
+[2015/11/17 10:42:27] <Hume2> Circular is default.
+[2015/11/17 10:42:51] <brmbrmcar> Ah. Sothat.
+[2015/11/17 10:43:09] <brmbrmcar> I always found it hard using paths.
+[2015/11/17 10:43:29] <Hume2> Let'
+[2015/11/17 10:43:54] <Hume2> Let's say that you have a platform and several places where it should go.
+[2015/11/17 10:44:03] <brmbrmcar> Does it need testing before it can be merged?
+[2015/11/17 10:44:16] <Hume2> brmbrmcar: No, but Tobbi could rage :D
+[2015/11/17 10:44:49] <Hume2> I know that he doesn't rage, but he says "*sigh*".
