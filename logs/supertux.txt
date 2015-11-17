@@ -6341,3 +6341,4 @@
 [2015/11/16 21:43:02] @ jeexy is now known as jeezy
 [2015/11/16 21:43:03] @ Quit: jeezy: Changing host
 [2015/11/16 21:43:03] @ jeezy joined channel #supertux
+[2015/11/16 22:24:01] @ Quit: irungentoo: Remote host closed the connection
