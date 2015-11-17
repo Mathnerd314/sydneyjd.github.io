@@ -6355,3 +6355,4 @@
 [2015/11/17 04:33:49] <Not-6fa5> [02supertux] 07Tobias Markus 0356bdcb3 - Fix stats for total coins
 [2015/11/17 04:33:50] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91557733
 [2015/11/17 04:34:41] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91557733
+[2015/11/17 04:46:15] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91557733
