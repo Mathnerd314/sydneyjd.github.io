@@ -6666,3 +6666,5 @@
 [2015/11/17 16:32:11] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/11/17 16:55:49] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2015/11/17 16:57:43] @ Karkus joined channel #supertux
+[2015/11/17 17:09:14] * head8debian blinks...
+[2015/11/17 17:09:32] <maths22> head8debian: tired?
