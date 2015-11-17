@@ -6650,3 +6650,5 @@
 [2015/11/17 13:27:42] <Hume2> brmbrmcar: It means: "Hello, here's Hume2, what do you say to this?"
 [2015/11/17 13:28:38] <brmbrmcar> Nice.
 [2015/11/17 13:31:46] @ Quit: Hume2: Quit: Page closed
+[2015/11/17 15:00:55] @ Quit: grumbel: Quit: Ex-Chat
+[2015/11/17 15:10:07] @ bb010g joined channel #supertux
