@@ -6531,3 +6531,9 @@
 [2015/11/17 12:07:31] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#230: Added unordered path mode - 13http://git.io/v4z9c
 [2015/11/17 12:08:53] <Not-6fa5> [02supertux] 07Karkus476 assigned pull request 03#230: Added unordered path mode - 13http://git.io/v4upa
 [2015/11/17 12:09:09] <Not-6fa5> [02supertux] 07Karkus476 unassigned pull request 03#230: Added unordered path mode - 13http://git.io/v4upa
+[2015/11/17 12:18:16] <Hume2> Karkus: The test level for bistable switches is "Magic Block Test".
+[2015/11/17 12:19:09] @ Tobbi joined channel #supertux
+[2015/11/17 12:19:09] @ Mode +o Tobbi by ChanServ
+[2015/11/17 12:29:00] <Tobbi> I will rage no matter what.
+[2015/11/17 12:29:49] <maths22> Tobbi: reading the backlogs?
+[2015/11/17 12:29:55] <Tobbi> maths22: Of course.
