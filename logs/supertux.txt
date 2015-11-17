@@ -6664,3 +6664,5 @@
 [2015/11/17 16:16:33] @ tux|dude joined channel #supertux
 [2015/11/17 16:18:02] @ Quit: Karkus: Quit: Leaving
 [2015/11/17 16:32:11] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/17 16:55:49] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/11/17 16:57:43] @ Karkus joined channel #supertux
