@@ -6661,3 +6661,5 @@
 [2015/11/17 16:04:10] @ Quit: nerdopolis: Read error: Connection reset by peer
 [2015/11/17 16:04:52] @ nerdopolis joined channel #supertux
 [2015/11/17 16:10:05] @ Quit: Tobbi: 
+[2015/11/17 16:16:33] @ tux|dude joined channel #supertux
+[2015/11/17 16:18:02] @ Quit: Karkus: Quit: Leaving
