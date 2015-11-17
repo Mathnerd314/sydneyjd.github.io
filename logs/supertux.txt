@@ -6375,3 +6375,10 @@
 [2015/11/17 08:26:16] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91591966
 [2015/11/17 08:27:51] <swift110-phone> Hey all
 [2015/11/17 08:29:25] <Hume2> Hello.
+[2015/11/17 08:34:52] <swift110-phone> How r u
+[2015/11/17 08:40:35] <Hume2> I'm fine.
+[2015/11/17 08:42:29] <head8debian> Hume2: Hey!
+[2015/11/17 08:42:39] <Hume2> Hello, head8debian!
+[2015/11/17 08:42:56] @ mhall119 left channel #supertux ()
+[2015/11/17 08:43:11] <Hume2> I've just made a tweak with switches.
+[2015/11/17 08:43:46] <Hume2> You can set an off-script and the switch is bistable then. When you don't set it, it acts as before.
