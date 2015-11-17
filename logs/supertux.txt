@@ -6345,3 +6345,4 @@
 [2015/11/16 22:56:04] @ Quit: tux|dude: Quit: Leaving
 [2015/11/17 00:17:13] @ swift110 joined channel #supertux
 [2015/11/17 01:57:00] @ Quit: swift110: Remote host closed the connection
+[2015/11/17 02:59:35] @ swift110-phone joined channel #supertux
