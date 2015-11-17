@@ -6479,3 +6479,39 @@
 [2015/11/17 11:42:28] <Hume2> Karkus: Yes, I made some tweaks.
 [2015/11/17 11:43:34] @ alket joined channel #supertux
 [2015/11/17 11:43:36] <Karkus> Hume2: What were they?
+[2015/11/17 11:45:15] <Hume2> Karkus: Do you know what bistability is?
+[2015/11/17 11:46:10] <Hume2> You can set an off-script and the switch is bistable then. When you don't set it, it acts as before.
+[2015/11/17 11:46:27] <Hume2> And I opened a pull request.
+[2015/11/17 11:50:02] <brmbrmcar> It can't be merged yet.
+[2015/11/17 11:50:47] <Hume2> brmbrmcar: Well, if someone tests it, I can.
+[2015/11/17 11:51:14] <Karkus> Hume2: Okay, I get it
+[2015/11/17 11:51:43] <Hume2> Karkus: Did you get what that means or you tested it?
+[2015/11/17 11:51:55] <Karkus> Hume2: I understand the meaning
+[2015/11/17 11:52:01] <Hume2> OK
+[2015/11/17 11:52:01] <Karkus> Do you want me to test it?
+[2015/11/17 11:52:15] <Hume2> That would be good.
+[2015/11/17 11:52:38] <brmbrmcar> Hume2: You don't want to make Tobbi angery...
+[2015/11/17 11:53:13] <Hume2> brmbrmcar: He decides faster when more people test it.
+[2015/11/17 11:53:39] <Karkus> Hume2: https://github.com/SuperTux/supertux/pull/230
+[2015/11/17 11:53:56] <Karkus> brmbrmcar: Testing it won't make Tobbi angry :D
+[2015/11/17 11:54:06] <Karkus> Hume2: Is this it?
+[2015/11/17 11:54:08] <brmbrmcar> Karkus: I k-now.
+[2015/11/17 11:54:16] <Hume2> Karkus, yes, it is.
+[2015/11/17 11:54:39] <Hume2> We are talking about merging, that can make Tobbi angry :D
+[2015/11/17 11:54:54] <brmbrmcar> Why though?
+[2015/11/17 11:55:19] <Karkus> brmbrmcar: He likes to be in control of the merging
+[2015/11/17 11:55:32] <Hume2> ^ This
+[2015/11/17 11:55:39] <brmbrmcar> He thinks he's in control of all Supertux.
+[2015/11/17 11:55:56] <Karkus> Hume2: This does not appear to be related to Bistable switches
+[2015/11/17 11:56:06] <Hume2> I know.
+[2015/11/17 11:56:17] <Hume2> Bistable switches are in master.
+[2015/11/17 11:56:23] <Karkus> brmbrmcar: And at the moment, he might as well be. He has worked to keep this project going
+[2015/11/17 11:56:34] <Karkus> Hume2: You pushed straight to master???
+[2015/11/17 11:56:50] <brmbrmcar> Karkus: Hume2:master
+[2015/11/17 11:57:23] <Hume2> For bistable switches: They don't affect gameplay at all, because they are never used.
+[2015/11/17 11:57:54] <brmbrmcar> Oh yeah.THose.
+[2015/11/17 11:57:57] <Hume2> ...but test it please anyway. It's in Magic Block Test.
+[2015/11/17 11:58:03] <brmbrmcar> This is confusing...
+[2015/11/17 11:58:53] <brmbrmcar> Karkus: Any progress?
+[2015/11/17 11:59:02] <Karkus> brmbrmcar: With...?
+[2015/11/17 11:59:42] <Hume2> There are three switches in Magic Block Test. Just press them.
