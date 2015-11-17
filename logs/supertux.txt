@@ -6336,3 +6336,4 @@
 [2015/11/16 20:15:48] @ Quit: tux|dude: Quit: Leaving
 [2015/11/16 20:16:06] @ tux|dude joined channel #supertux
 [2015/11/16 20:38:28] @ Quit: Tobbi_: 
+[2015/11/16 21:28:52] @ Quit: nerdopolis_: Ping timeout: 276 seconds
