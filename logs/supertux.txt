@@ -6537,3 +6537,37 @@
 [2015/11/17 12:29:00] <Tobbi> I will rage no matter what.
 [2015/11/17 12:29:49] <maths22> Tobbi: reading the backlogs?
 [2015/11/17 12:29:55] <Tobbi> maths22: Of course.
+[2015/11/17 12:30:04] <Tobbi> What else do you expect me to do? :P
+[2015/11/17 12:30:21] <maths22> Seems reasonable to me.  I was just amused.
+[2015/11/17 12:31:18] <Tobbi> "He likes to be in control of the merging"...
+[2015/11/17 12:31:19] <Tobbi> gah
+[2015/11/17 12:34:16] <brmbrmcar> Well you do!
+[2015/11/17 12:35:09] <Tobbi> brmbrmcar: No, I like to have sane commits, that's all.
+[2015/11/17 12:35:27] <brmbrmcar> TRy telling that to Hume2.
+[2015/11/17 12:35:43] <Tobbi> *sighÜ
+[2015/11/17 12:35:44] <Tobbi> *
+[2015/11/17 12:35:46] <Tobbi> Ü!
+[2015/11/17 12:35:51] <Tobbi> ü for president!
+[2015/11/17 12:35:57] <Hume2> Kř!
+[2015/11/17 12:36:16] <maths22> Tobbi: What defines a "sane commit" for you?
+[2015/11/17 12:36:25] <Hume2> What are you talking about?
+[2015/11/17 12:36:25] <Tobbi> maths22: Sanity! :P
+[2015/11/17 12:36:42] <Tobbi> maths22: Actually, I am overly strict, I realize that now.
+[2015/11/17 12:37:52] <Hume2> "Switches are now bistable" - What's insane here?
+[2015/11/17 12:38:54] @ Quit: tuxdev_: Ping timeout: 250 seconds
+[2015/11/17 12:39:10] <Tobbi> Hume2: Nothing. I meant in general.
+[2015/11/17 12:39:21] <Hume2> Oh, well.
+[2015/11/17 12:39:37] <brmbrmcar> So make_invincible() is insane?
+[2015/11/17 12:39:44] <Tobbi> Oh c'mon...
+[2015/11/17 12:39:55] <Tobbi> brmbrmcar: I told you I'd rather have this as a parameter to the invincible function...
+[2015/11/17 12:40:00] <Tobbi> but, fine.
+[2015/11/17 12:40:13] <Tobbi> Am I really your guiding person in terms of commits?
+[2015/11/17 12:40:39] <brmbrmcar> invincible() is a script, not a function.
+[2015/11/17 12:40:43] <maths22> Tobbi: I'm actually curious.  Could you give an example of what to you is a sane commit and an insane commit?
+[2015/11/17 12:40:55] <maths22> (I have my own definitions I would use, but I want to hear yours)
+[2015/11/17 12:41:34] <Tobbi> maths22: It's really hard...I decide that based on feeling alone...
+[2015/11/17 12:42:05] @ Wuzzy joined channel #supertux
+[2015/11/17 12:42:27] <maths22> Tobbi: To be fair, I probably couldn't articulate my definition
+[2015/11/17 12:42:31] <maths22> Sorry
+[2015/11/17 12:42:34] <Tobbi> maths22: Exactly.
+[2015/11/17 12:43:23] <brmbrmcar> An insane one is kill Tux when the level is finished.
