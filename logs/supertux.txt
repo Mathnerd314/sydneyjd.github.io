@@ -6386,3 +6386,12 @@
 [2015/11/17 09:51:54] <Not-6fa5> [02supertux] 07Hume2 labeled issue 03#229: Stop doors fom blacking out the screen when they aren't being used - 13http://git.io/v4l1T
 [2015/11/17 09:51:56] <Not-6fa5> [02supertux] 07Hume2 labeled issue 03#229: Stop doors fom blacking out the screen when they aren't being used - 13http://git.io/v4l1T
 [2015/11/17 09:51:58] <Not-6fa5> [02supertux] 07Hume2 labeled issue 03#229: Stop doors fom blacking out the screen when they aren't being used - 13http://git.io/v4l1T
+[2015/11/17 10:02:06] @ irungentoo joined channel #supertux
+[2015/11/17 10:06:48] <maths22> Hume2: is there any graphics used to show that a swtich is on/off
+[2015/11/17 10:07:12] <Hume2> maths22: Yes, there is. Don't you see?
+[2015/11/17 10:08:57] <maths22> Hume2: I haven't looked.  I was just curious
+[2015/11/17 10:09:08] <maths22> (Asking is the easier, lazy option)
+[2015/11/17 10:09:21] <Hume2> maths22: Look at Magic Block Test.
+[2015/11/17 10:09:36] @ grumbel joined channel #supertux
+[2015/11/17 10:09:36] @ Mode +o grumbel by ChanServ
+[2015/11/17 10:10:15] <maths22> Hume2: will do
