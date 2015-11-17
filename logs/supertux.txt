@@ -6465,3 +6465,8 @@
 [2015/11/17 11:11:37] <Hume2> sector.Tux.set_bonus(<bonus>) should work.
 [2015/11/17 11:13:03] <brmbrmcar> The index no longer exists...
 [2015/11/17 11:14:31] <Hume2> I have no idea.
+[2015/11/17 11:15:33] <brmbrmcar> I saw it in default.nut kill.
+[2015/11/17 11:17:33] <brmbrmcar> Well not there, but somewhere...
+[2015/11/17 11:22:16] <Not-6fa5> [02supertux] 07Hume2 synchronize pull request 03#230: Added unordered path mode - 13http://git.io/v4upa
+[2015/11/17 11:22:25] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91627574
+[2015/11/17 11:23:51] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91627574
