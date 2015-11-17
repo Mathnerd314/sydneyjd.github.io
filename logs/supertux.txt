@@ -6444,3 +6444,24 @@
 [2015/11/17 10:58:46] <brmbrmcar> OK.
 [2015/11/17 10:58:55] <brmbrmcar> When all the bugs are fixed.
 [2015/11/17 10:59:28] <Hume2> That would take much longer time.
+[2015/11/17 11:00:29] <brmbrmcar> Yes, completely.
+[2015/11/17 11:01:16] <Hume2> Do you know, what I did with the switches recently?
+[2015/11/17 11:01:26] <Hume2> It was today.
+[2015/11/17 11:01:38] <brmbrmcar> Made them bi something
+[2015/11/17 11:02:02] <brmbrmcar> bistable
+[2015/11/17 11:02:35] <Hume2> Yes. Thay can be now used to turn something on and off.
+[2015/11/17 11:02:52] <brmbrmcar> Nice!
+[2015/11/17 11:03:07] <Hume2> This could be done before, but now the lever is down when it's turned on.
+[2015/11/17 11:03:26] <brmbrmcar> THat is more clear.
+[2015/11/17 11:03:35] <Hume2> It's in Magic Block Test.
+[2015/11/17 11:04:31] <brmbrmcar> I know.
+[2015/11/17 11:04:40] <brmbrmcar> Will people useit?
+[2015/11/17 11:05:12] <Not-6fa5> [02supertux] 07Mathnerd314 reviewed pull request 03#230 commit - 13http://git.io/v4zOv
+[2015/11/17 11:05:58] <brmbrmcar> gameRandom?
+[2015/11/17 11:06:15] <Hume2> I don't know where's the difference, but I'll do it.
+[2015/11/17 11:07:13] @ Quit: nerdopolis: Quit: No Ping reply in 180 seconds.
+[2015/11/17 11:08:03] @ nerdopolis joined channel #supertux
+[2015/11/17 11:08:16] <brmbrmcar> Do you know how to run the set_bonus script in a level?
+[2015/11/17 11:11:37] <Hume2> sector.Tux.set_bonus(<bonus>) should work.
+[2015/11/17 11:13:03] <brmbrmcar> The index no longer exists...
+[2015/11/17 11:14:31] <Hume2> I have no idea.
