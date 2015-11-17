@@ -6416,3 +6416,31 @@
 [2015/11/17 10:44:03] <brmbrmcar> Does it need testing before it can be merged?
 [2015/11/17 10:44:16] <Hume2> brmbrmcar: No, but Tobbi could rage :D
 [2015/11/17 10:44:49] <Hume2> I know that he doesn't rage, but he says "*sigh*".
+[2015/11/17 10:45:02] <brmbrmcar> Hume2: ok, lets keep him calm.
+[2015/11/17 10:46:56] <Hume2> I think that this mode could be useful for scripting.
+[2015/11/17 10:49:10] <brmbrmcar> Yes, I agree.
+[2015/11/17 10:50:04] <brmbrmcar> And also, it isn't as much hassle because the level editor is no longer maintained.
+[2015/11/17 10:50:39] <Hume2> Oh, the editor.
+[2015/11/17 10:51:19] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91618984
+[2015/11/17 10:51:23] <brmbrmcar> How are you doing with yours?
+[2015/11/17 10:51:58] <Not-6fa5> [02supertux] 07Hume2 labeled pull request 03#230: Added unordered path mode - 13http://git.io/v4upa
+[2015/11/17 10:52:00] <Not-6fa5> [02supertux] 07Hume2 labeled pull request 03#230: Added unordered path mode - 13http://git.io/v4upa
+[2015/11/17 10:52:01] <Not-6fa5> [02supertux] 07Hume2 labeled pull request 03#230: Added unordered path mode - 13http://git.io/v4upa
+[2015/11/17 10:52:17] <Hume2> brmbrmcar: I have no time.
+[2015/11/17 10:52:45] <Hume2> I haven't finished even the color menu.
+[2015/11/17 10:52:47] <brmbrmcar> Hume2: OK.
+[2015/11/17 10:53:02] <brmbrmcar> So someone else needs to step in...
+[2015/11/17 10:53:58] <Hume2> It's now kind of harder work... I have to add many classes...
+[2015/11/17 10:54:18] <Hume2> That's why I have time for level design but not for editor.
+[2015/11/17 10:54:58] <brmbrmcar> Level editors must be hard to make!
+[2015/11/17 10:55:00] <Hume2> The worst is that it's not hard at all, but it's much writing.
+[2015/11/17 10:55:33] <brmbrmcar> Yes. You have to get it to input everything.
+[2015/11/17 10:55:46] <Hume2> Exactly.
+[2015/11/17 10:56:05] <Hume2> Well, my plan:
+[2015/11/17 10:56:48] <Hume2> After 0.4.0 will be released, I'll move the editor branch to origin, so everyone could contribute.
+[2015/11/17 10:57:13] <brmbrmcar> Yay!
+[2015/11/17 10:58:03] <brmbrmcar> Is there any talk of a release date for 0.4.0? Because some people will be dying to know....
+[2015/11/17 10:58:36] <Hume2> I don't know anything else except that it'll be on X-mas 2015.
+[2015/11/17 10:58:46] <brmbrmcar> OK.
+[2015/11/17 10:58:55] <brmbrmcar> When all the bugs are fixed.
+[2015/11/17 10:59:28] <Hume2> That would take much longer time.
