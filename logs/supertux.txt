@@ -6383,3 +6383,6 @@
 [2015/11/17 08:43:11] <Hume2> I've just made a tweak with switches.
 [2015/11/17 08:43:46] <Hume2> You can set an off-script and the switch is bistable then. When you don't set it, it acts as before.
 [2015/11/17 08:51:45] <head8debian> Hume2: Hmm, ok.
+[2015/11/17 09:51:54] <Not-6fa5> [02supertux] 07Hume2 labeled issue 03#229: Stop doors fom blacking out the screen when they aren't being used - 13http://git.io/v4l1T
+[2015/11/17 09:51:56] <Not-6fa5> [02supertux] 07Hume2 labeled issue 03#229: Stop doors fom blacking out the screen when they aren't being used - 13http://git.io/v4l1T
+[2015/11/17 09:51:58] <Not-6fa5> [02supertux] 07Hume2 labeled issue 03#229: Stop doors fom blacking out the screen when they aren't being used - 13http://git.io/v4l1T
