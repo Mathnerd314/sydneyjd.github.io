@@ -6351,3 +6351,7 @@
 [2015/11/17 03:07:20] @ tux|dude joined channel #supertux
 [2015/11/17 03:08:07] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/11/17 04:08:57] @ Quit: tux|dude: Quit: Leaving
+[2015/11/17 04:33:47] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v40S3
+[2015/11/17 04:33:49] <Not-6fa5> [02supertux] 07Tobias Markus 0356bdcb3 - Fix stats for total coins
+[2015/11/17 04:33:50] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91557733
+[2015/11/17 04:34:41] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91557733
