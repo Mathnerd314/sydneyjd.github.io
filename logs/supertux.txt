@@ -6670,3 +6670,26 @@
 [2015/11/17 17:09:32] <maths22> head8debian: tired?
 [2015/11/17 17:42:06] @ Quit: nerdopolis: Ping timeout: 272 seconds
 [2015/11/17 17:44:27] @ nerdopolis_ joined channel #supertux
+[2015/11/17 17:49:48] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#229: Stop doors fom blacking out the screen when they aren't being used - 13http://git.io/v4asZ
+[2015/11/17 17:51:08] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#228: Make language add-ons work without a restart - 13http://git.io/v4as9
+[2015/11/17 17:52:18] @ Tobbi joined channel #supertux
+[2015/11/17 17:52:18] @ Mode +o Tobbi by ChanServ
+[2015/11/17 17:52:24] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2015/11/17 17:52:31] <Tobbi> Karkus: It is weird seeing German comments from you :D
+[2015/11/17 17:53:37] <Karkus> Why?
+[2015/11/17 17:54:29] <Tobbi> Karkus: Just saying. :P I am not expecting German comments at all :D
+[2015/11/17 17:55:00] <Karkus> Tobbi: I misinterpreted the "from you"
+[2015/11/17 17:55:08] <Tobbi> Ah, right.
+[2015/11/17 17:55:20] <Tobbi> Karkus: Was sind drei Nazis in der Ecke?
+[2015/11/17 17:55:36] <Karkus> I weiss nicht
+[2015/11/17 17:55:38] <Karkus> Ich
+[2015/11/17 17:55:51] <Tobbi> Karkus: Ein rechter Winkel.
+[2015/11/17 17:56:57] <Tobbi> Okay, it only makes proper sense in German.
+[2015/11/17 17:56:59] * Karkus thinks, and then looks up "Winkel"
+[2015/11/17 17:57:16] <Tobbi> angle.
+[2015/11/17 17:57:24] <Karkus> Oh
+[2015/11/17 17:57:25] <Karkus> I get it
+[2015/11/17 17:57:46] <Karkus> Ecke is corner?
+[2015/11/17 17:58:00] <Karkus> I suck at remembering the words :D
+[2015/11/17 17:58:05] <Tobbi> Karkus: Correct.
+[2015/11/17 17:58:37] <Karkus> I have a feeling I've heard a similar English joke
