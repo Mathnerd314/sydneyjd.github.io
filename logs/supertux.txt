@@ -6716,3 +6716,38 @@
 [2015/11/17 18:14:28] <head8debian> Tobbi: So im sure that helps you alot.
 [2015/11/17 18:14:35] <Tobbi> Yes, definitely.
 [2015/11/17 18:14:37] <Karkus> head8debian: Evening
+[2015/11/17 18:15:08] <head8debian> So, are we ready for the next month release? :-)
+[2015/11/17 18:15:32] * head8debian has heard too much Christmas music...
+[2015/11/17 18:15:44] <Tobbi> head8debian: Ü!
+[2015/11/17 18:16:02] <swift110> hey guys
+[2015/11/17 18:16:02] <Tobbi> head8debian: I don't know. I'd rather have the translations updated, but don't know how to do it.
+[2015/11/17 18:16:04] <head8debian> Tobbi: Whats that stand for? Emitting steam out of a smoke stack?
+[2015/11/17 18:16:07] <Karkus> Tobbi: Should we notify the user of https://github.com/SuperTux/supertux/issues/228 util we fix it?
+[2015/11/17 18:16:40] <Tobbi> Karkus: I did that already.... https://github.com/SuperTux/supertux/commit/adeb18125f971f681d5d8e9d0c6cab87d42db5e8
+[2015/11/17 18:17:12] <Tobbi> "Please restart SuperTux for these changes to take effect." is proper English, isn't it?
+[2015/11/17 18:17:47] <Karkus> Tobbi: Perfect English
+[2015/11/17 18:17:50] <Tobbi> Good
+[2015/11/17 18:18:02] <Karkus> Tobbi: When does this appear?
+[2015/11/17 18:18:11] <Karkus> When you change language?
+[2015/11/17 18:18:12] <Tobbi> Karkus: upon enabling / disabling a language pack.
+[2015/11/17 18:18:24] <Tobbi> Actually...I wonder what happens if you install language packs for the first time.
+[2015/11/17 18:18:53] <Karkus> What is a language pack? Is this a new thing?
+[2015/11/17 18:19:09] <Tobbi> Karkus: An add-on that contains new strings.
+[2015/11/17 18:19:28] <Karkus> Tobbi: Seperate to the actual addons?
+[2015/11/17 18:19:28] <Tobbi> Aka, new .po files.
+[2015/11/17 18:19:30] @ Quit: xet7: Quit: Leaving
+[2015/11/17 18:19:34] <Tobbi> Karkus: Well, yes.
+[2015/11/17 18:20:03] <Karkus> Tobbi: K
+[2015/11/17 18:20:13] <Tobbi> Take a look at https://github.com/SuperTux/addons/tree/master/src/langpack-de
+[2015/11/17 18:21:39] <Karkus> Tobbi: Ah, I see. Is this one installed automatically then? (Seeing halloween 2014 there)
+[2015/11/17 18:21:48] <Tobbi> Karkus: No, you need to check for them.
+[2015/11/17 18:21:58] <Karkus> Tobbi: Okay
+[2015/11/17 18:21:58] <Tobbi> Installing automatically can get difficult.
+[2015/11/17 18:22:03] @ Quit: alket: Quit: I've decided to call him Norbert. He really knows me now, watch. Norbert! Where's Mummy?
+[2015/11/17 18:26:18] <Karkus> Tobbi: Here's a question: Why are the language names on the language list all in English?
+[2015/11/17 18:26:31] <Tobbi> Karkus: Actually, that can be changed easily.
+[2015/11/17 18:26:40] <Tobbi> It was / is merely a test.
+[2015/11/17 18:27:05] <Karkus> I think we should put a small globe button on the main menu to change language, rather than navigating through in a foreign one
+[2015/11/17 18:27:18] <Tobbi> Sure, go ahead.
+[2015/11/17 18:27:33] <Karkus> Okay
+[2015/11/17 18:28:30] <leper`> but that takes all the fun away, you'll never have to remember which item in the menu was the correct one when you set the game to a language where you can't even read the letters
