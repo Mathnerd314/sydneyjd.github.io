@@ -6317,3 +6317,4 @@
 [2015/11/16 18:22:51] @ Mode +o Tobbi_ by ChanServ
 [2015/11/16 18:23:19] <Tobbi_> maths22: So, you're around 17 now?
 [2015/11/16 18:23:38] <Tobbi_> Wait, net split?
+[2015/11/16 18:49:13] @ tux|dude joined channel #supertux
