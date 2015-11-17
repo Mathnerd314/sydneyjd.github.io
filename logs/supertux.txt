@@ -6656,3 +6656,5 @@
 [2015/11/17 15:43:50] @ swift110 joined channel #supertux
 [2015/11/17 15:44:27] @ Quit: swift110: Changing host
 [2015/11/17 15:44:28] @ swift110 joined channel #supertux
+[2015/11/17 15:55:49] @ Tobbi joined channel #supertux
+[2015/11/17 15:55:49] @ Mode +o Tobbi by ChanServ
