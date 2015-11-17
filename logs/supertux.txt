@@ -6370,3 +6370,8 @@
 [2015/11/17 08:14:09] <Not-6fa5> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±3] 13http://git.io/v4Eje
 [2015/11/17 08:14:10] <Not-6fa5> [02supertux] 07Hume2 035f57e62 - Switches can be now bistable.
 [2015/11/17 08:14:11] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91591966
+[2015/11/17 08:15:01] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91591966
+[2015/11/17 08:24:21] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/17 08:26:16] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91591966
+[2015/11/17 08:27:51] <swift110-phone> Hey all
+[2015/11/17 08:29:25] <Hume2> Hello.
