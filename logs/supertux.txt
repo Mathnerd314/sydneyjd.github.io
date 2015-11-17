@@ -6318,3 +6318,18 @@
 [2015/11/16 18:23:19] <Tobbi_> maths22: So, you're around 17 now?
 [2015/11/16 18:23:38] <Tobbi_> Wait, net split?
 [2015/11/16 18:49:13] @ tux|dude joined channel #supertux
+[2015/11/16 19:22:48] @ Quit: nerdopolis_: Ping timeout: 250 seconds
+[2015/11/16 19:23:45] <maths22> Tobbi_: yep on the net split
+[2015/11/16 19:23:49] <maths22> I'm 18
+[2015/11/16 19:23:50] <Tobbi_> ok
+[2015/11/16 19:23:55] <Tobbi_> Okay...
+[2015/11/16 19:24:01] <Tobbi_> I'm 8 years older than you.
+[2015/11/16 19:24:04] <Tobbi_> aka, 26.
+[2015/11/16 19:24:08] <Tobbi_> I feel old.
+[2015/11/16 19:24:27] <maths22> Sorry :(
+[2015/11/16 19:24:31] <Tobbi_> maths22: So, you're in high school / college?
+[2015/11/16 19:24:51] <maths22> College
+[2015/11/16 19:24:55] <Tobbi_> Nice.
+[2015/11/16 19:24:59] <Tobbi_> Studying computer science, I suppose?
+[2015/11/16 19:25:29] @ nerdopolis_ joined channel #supertux
+[2015/11/16 19:25:34] <maths22> Tobbi_: Yep
