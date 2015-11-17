@@ -6515,3 +6515,19 @@
 [2015/11/17 11:58:53] <brmbrmcar> Karkus: Any progress?
 [2015/11/17 11:59:02] <Karkus> brmbrmcar: With...?
 [2015/11/17 11:59:42] <Hume2> There are three switches in Magic Block Test. Just press them.
+[2015/11/17 12:00:17] <Karkus> Hume2: Are you talking about hume2:master?
+[2015/11/17 12:00:17] <Hume2> This may have higher priority than the unordered path.
+[2015/11/17 12:00:28] <brmbrmcar> Karkus: building the ltest version/testing it.
+[2015/11/17 12:00:41] <Hume2> Karkus: Bistable switches are in origin:master.
+[2015/11/17 12:01:01] <Karkus> Hume2: Okay, I will test that after
+[2015/11/17 12:01:13] <Karkus> Just need to build unordered path
+[2015/11/17 12:01:33] <brmbrmcar> Karkus the builder!
+[2015/11/17 12:01:51] <Hume2> Karkus: You can test the bistable switches in the same build.
+[2015/11/17 12:02:37] <brmbrmcar> Hume2: So the scripts are independent?
+[2015/11/17 12:02:39] <Karkus> Hume2: Are they in unordered_path branch?
+[2015/11/17 12:04:31] <Hume2> Karkus: Unordered path is in hume2:unordered_path and bistable switches are in both.
+[2015/11/17 12:04:40] <Hume2> brmbrmcar: Yes.
+[2015/11/17 12:05:28] <Karkus> Hume2: Is there a test level for bistable switches?
+[2015/11/17 12:07:31] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#230: Added unordered path mode - 13http://git.io/v4z9c
+[2015/11/17 12:08:53] <Not-6fa5> [02supertux] 07Karkus476 assigned pull request 03#230: Added unordered path mode - 13http://git.io/v4upa
+[2015/11/17 12:09:09] <Not-6fa5> [02supertux] 07Karkus476 unassigned pull request 03#230: Added unordered path mode - 13http://git.io/v4upa
