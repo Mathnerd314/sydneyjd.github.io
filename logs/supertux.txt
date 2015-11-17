@@ -6633,3 +6633,19 @@
 [2015/11/17 13:07:54] <leper`> excuses :P
 [2015/11/17 13:09:07] <Tobbi> I know.
 [2015/11/17 13:13:44] @ leyyin joined channel #supertux
+[2015/11/17 13:20:54] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/17 13:21:09] <brmbrmcar> Remote host...
+[2015/11/17 13:23:18] <Hume2> brmbrmcar: Do you know some easter eggs in SuperTux?
+[2015/11/17 13:23:24] <brmbrmcar> No.
+[2015/11/17 13:23:32] <brmbrmcar> What ard they?
+[2015/11/17 13:23:42] <Hume2> brmbrmcar: In fact, I've implemented one.
+[2015/11/17 13:24:02] <Hume2> bonus1/wansti-level1.stl
+[2015/11/17 13:24:13] <brmbrmcar> What's in it?
+[2015/11/17 13:24:32] <Hume2> Open it in editor and you'll see.
+[2015/11/17 13:24:53] <Hume2> And I got that there are easter eggs in some forest levels.
+[2015/11/17 13:26:26] <brmbrmcar> Ahoj, tady Hume2, co tomu ?k??
+[2015/11/17 13:26:36] <Hume2> Yes.
+[2015/11/17 13:27:04] <Hume2> In the WolfgangB's levels, there are texts made of invisible blocks saying "W.B.6/2006"
+[2015/11/17 13:27:11] <brmbrmcar> What does it mean?
+[2015/11/17 13:27:42] <Hume2> brmbrmcar: It means: "Hello, here's Hume2, what do you say to this?"
+[2015/11/17 13:28:38] <brmbrmcar> Nice.
