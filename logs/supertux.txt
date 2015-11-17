@@ -6337,3 +6337,7 @@
 [2015/11/16 20:16:06] @ tux|dude joined channel #supertux
 [2015/11/16 20:38:28] @ Quit: Tobbi_: 
 [2015/11/16 21:28:52] @ Quit: nerdopolis_: Ping timeout: 276 seconds
+[2015/11/16 21:34:00] @ nerdopolis joined channel #supertux
+[2015/11/16 21:43:02] @ jeexy is now known as jeezy
+[2015/11/16 21:43:03] @ Quit: jeezy: Changing host
+[2015/11/16 21:43:03] @ jeezy joined channel #supertux
