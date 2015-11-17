@@ -6663,3 +6663,4 @@
 [2015/11/17 16:10:05] @ Quit: Tobbi: 
 [2015/11/17 16:16:33] @ tux|dude joined channel #supertux
 [2015/11/17 16:18:02] @ Quit: Karkus: Quit: Leaving
+[2015/11/17 16:32:11] @ Quit: brmbrmcar: Quit: brmbrmquit
