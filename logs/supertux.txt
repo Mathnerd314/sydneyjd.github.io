@@ -6470,3 +6470,12 @@
 [2015/11/17 11:22:16] <Not-6fa5> [02supertux] 07Hume2 synchronize pull request 03#230: Added unordered path mode - 13http://git.io/v4upa
 [2015/11/17 11:22:25] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91627574
 [2015/11/17 11:23:51] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91627574
+[2015/11/17 11:35:08] @ Karkus joined channel #supertux
+[2015/11/17 11:36:21] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91627574
+[2015/11/17 11:37:47] <Hume2> Hello, Karkus.
+[2015/11/17 11:38:27] <Karkus> Hume2: Hello, Hume
+[2015/11/17 11:38:48] <Karkus> Working on anything to do with SuperTux?
+[2015/11/17 11:41:38] <Not-6fa5> [02supertux] 07brmbrmcar opened issue 03#231: Make set_bonus work again - 13http://git.io/v4zaG
+[2015/11/17 11:42:28] <Hume2> Karkus: Yes, I made some tweaks.
+[2015/11/17 11:43:34] @ alket joined channel #supertux
+[2015/11/17 11:43:36] <Karkus> Hume2: What were they?
