@@ -6346,3 +6346,7 @@
 [2015/11/17 00:17:13] @ swift110 joined channel #supertux
 [2015/11/17 01:57:00] @ Quit: swift110: Remote host closed the connection
 [2015/11/17 02:59:35] @ swift110-phone joined channel #supertux
+[2015/11/17 03:00:41] <swift110-phone> Hey
+[2015/11/17 03:02:09] @ brmbrmcar joined channel #supertux
+[2015/11/17 03:07:20] @ tux|dude joined channel #supertux
+[2015/11/17 03:08:07] @ Quit: brmbrmcar: Quit: brmbrmquit
