@@ -6571,3 +6571,52 @@
 [2015/11/17 12:42:31] <maths22> Sorry
 [2015/11/17 12:42:34] <Tobbi> maths22: Exactly.
 [2015/11/17 12:43:23] <brmbrmcar> An insane one is kill Tux when the level is finished.
+[2015/11/17 12:46:10] <maths22> brmbrmcar: this is true.  However,  I think we should kill Tux when the level starts; then all levels are perfect since no one can play any of them :)
+[2015/11/17 12:47:14] <Tobbi> SuicideTux...
+[2015/11/17 12:47:15] <Tobbi> :D
+[2015/11/17 12:47:26] <Tobbi> Try to suicide as quickly as possible...
+[2015/11/17 12:47:27] <Tobbi> :D
+[2015/11/17 12:47:43] <maths22> Sometimes, when I lose my fireflower and really need it, I do that
+[2015/11/17 12:47:59] <Hume2> Tobbi: A game like this really exists.
+[2015/11/17 12:48:04] <Tobbi> :D
+[2015/11/17 12:49:57] <Karkus> Tobbi: :D
+[2015/11/17 12:50:14] <brmbrmcar> Sometimes if I'm on a very hard level, and get hurt and can't doa jump,I will add a powerup and remove it again, to hide the cheat.
+[2015/11/17 12:50:29] <Tobbi> :D
+[2015/11/17 12:50:58] <Tobbi> https://www.youtube.com/watch?v=Gdgrby_14XM
+[2015/11/17 12:50:59] <brmbrmcar> Airflower rocks.
+[2015/11/17 12:51:18] <maths22> brmbrmcar: Except that it always breaks my expectations
+[2015/11/17 12:51:34] <Karkus> Tobbi: I don't blame you for wanting to be in charge of merging. If I was in charge, there would be problems...
+[2015/11/17 12:51:34] <maths22> I have gotten very good at knowing where I will land, and that doesn't work with airflower
+[2015/11/17 12:51:52] <Karkus> maths22: I don't like the airflower either
+[2015/11/17 12:52:28] <Tobbi> Karkus: I have a certain vision for this project and a certain quality standard, and I'm rather strict about setting this into action... :P
+[2015/11/17 12:52:34] <brmbrmcar> When I made a worldmap,I included airflowers,and it meantI had to make some huge considerations.
+[2015/11/17 12:52:43] <Karkus> Tobbi: I wasn't complaining :D
+[2015/11/17 12:52:48] <Tobbi> okay :P
+[2015/11/17 12:54:17] <Tobbi> :P https://www.youtube.com/watch?v=LQo0fBzMO8Y
+[2015/11/17 12:54:22] <brmbrmcar> I am not a very good player.
+[2015/11/17 12:54:52] <Tobbi> vamos ala player...
+[2015/11/17 12:55:02] <Tobbi> *a la
+[2015/11/17 12:55:11] <Tobbi> vamos a la player...wo wohooo
+[2015/11/17 12:55:20] <brmbrmcar> What language?
+[2015/11/17 12:55:37] <Tobbi> spanish (?)
+[2015/11/17 12:56:19] <brmbrmcar> I know no spanish.
+[2015/11/17 12:56:40] <Tobbi> brmbrmcar: I know that feeling. I don't know anything about computers.
+[2015/11/17 12:56:58] <brmbrmcar> brmbrmauto
+[2015/11/17 12:57:04] <leyyin> Tobbi, you are getting annoying with that saying tbh :/
+[2015/11/17 12:57:05] <brmbrmcar> That is Spanish.
+[2015/11/17 12:57:17] <Tobbi> leyyin: I am annoying nevertheless, so where's the difference.
+[2015/11/17 12:57:25] <maths22> brmbrmcar: that is a bad imitation of Spanish
+[2015/11/17 12:58:06] <brmbrmcar> So?
+[2015/11/17 12:58:07] <Tobbi> leyyin: Okay, I will stop.
+[2015/11/17 12:58:26] <brmbrmcar> Idon't know anything about computers.
+[2015/11/17 12:58:30] <maths22> "Let's go to the [english word]"
+[2015/11/17 12:58:41] <maths22> brmbrmcar: then what are you doing with SuperTux
+[2015/11/17 12:58:45] <Tobbi> beach
+[2015/11/17 12:58:49] <maths22> It must involve fake computers
+[2015/11/17 12:58:55] <brmbrmcar> maths22: brmbrm is the sameinall languages.
+[2015/11/17 12:58:55] <maths22> Tobbi: playa is beach
+[2015/11/17 12:59:05] <maths22> brmbrmcar: this is true
+[2015/11/17 12:59:12] <Tobbi> right
+[2015/11/17 12:59:13] <maths22> Tobbi: player is not spanish
+[2015/11/17 12:59:28] <Tobbi> yes, never mind.
+[2015/11/17 12:59:34] <maths22> Also, it is much too cold to go to the beach
