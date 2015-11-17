@@ -6652,3 +6652,7 @@
 [2015/11/17 13:31:46] @ Quit: Hume2: Quit: Page closed
 [2015/11/17 15:00:55] @ Quit: grumbel: Quit: Ex-Chat
 [2015/11/17 15:10:07] @ bb010g joined channel #supertux
+[2015/11/17 15:35:41] @ Quit: swift110-phone: Read error: Connection reset by peer
+[2015/11/17 15:43:50] @ swift110 joined channel #supertux
+[2015/11/17 15:44:27] @ Quit: swift110: Changing host
+[2015/11/17 15:44:28] @ swift110 joined channel #supertux
