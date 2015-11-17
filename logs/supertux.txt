@@ -6364,3 +6364,4 @@
 [2015/11/17 06:53:41] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/91579681
 [2015/11/17 06:58:17] <Not-6fa5> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v4EVc
 [2015/11/17 06:58:19] <Not-6fa5> [02supertux] 07Hume2 0354c247b - Deleted 2 out-of-bounds tiles.
+[2015/11/17 07:07:50] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/91579681
