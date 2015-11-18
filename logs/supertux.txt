@@ -7095,3 +7095,7 @@
 [2015/11/18 15:12:30] <Tobbi> With Issues, Pull requests etc.
 [2015/11/18 15:13:31] <maths22> I see.  I just got the option to change it for my own view, so it is clearly individual
 [2015/11/18 15:13:43] <maths22> I haven't decided if I like it
+[2015/11/18 15:15:02] <Tobbi> Me, neither.
+[2015/11/18 15:15:06] <Tobbi> But at the moment, I just don't care
+[2015/11/18 15:28:23] @ Quit: leyyin_: Ping timeout: 240 seconds
+[2015/11/18 15:28:49] @ Quit: leyyin: Ping timeout: 264 seconds
