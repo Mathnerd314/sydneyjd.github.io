@@ -6760,3 +6760,4 @@
 [2015/11/17 19:34:44] @ Karkus joined channel #supertux
 [2015/11/17 19:34:52] @ Quit: Karkus: Remote host closed the connection
 [2015/11/17 19:54:04] @ tux|dude joined channel #supertux
+[2015/11/17 20:57:48] @ Quit: swift110: Ping timeout: 240 seconds
