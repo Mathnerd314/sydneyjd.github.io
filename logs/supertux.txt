@@ -6826,3 +6826,13 @@
 [2015/11/18 11:09:09] <brmbrmcar> OK.
 [2015/11/18 11:09:18] <brmbrmcar> Where new one?
 [2015/11/18 11:09:30] <Hume2> brmbrmcar: I'll add it now.
+[2015/11/18 11:15:30] <Hume2> brmbrmcar, leyyin_: https://github.com/Hume2/addons/blob/6461cbcd31e7dafd6e255540bbb2dbbf9a2fc91b/Worldmaps-0_4_0/restaurator1.zip
+[2015/11/18 11:16:21] <brmbrmcar> 2 minutes ago!
+[2015/11/18 11:24:02] <brmbrmcar> leyyin_: Tried it yet?
+[2015/11/18 11:25:15] <leyyin_> no....
+[2015/11/18 11:26:08] <brmbrmcar> ok....
+[2015/11/18 11:29:02] @ Karkus joined channel #supertux
+[2015/11/18 11:29:07] <maths22> Do I really need to have a copyright argumet again?
+[2015/11/18 11:29:22] <maths22> We have no right to do anything with the fan site levels
+[2015/11/18 11:29:44] <maths22> They did not grant us a license, and heavy modification simply makes them a derivative work
+[2015/11/18 11:29:52] <maths22> The original copyright holds on derivative works
