@@ -6809,3 +6809,20 @@
 [2015/11/18 10:58:42] <brmbrmcar> I tested it, of course.
 [2015/11/18 10:59:31] <Hume2> That's what I expected. It looks like Max Teufel has tested it too.
 [2015/11/18 10:59:51] <Hume2> ...beacuse he had some notes to it.
+[2015/11/18 11:00:39] <brmbrmcar> I just cheated the whole thing, so I could test every level without spending time getting past tricky parts.
+[2015/11/18 11:01:09] <brmbrmcar> And I stand with what I have said; the levels are heavily modified.
+[2015/11/18 11:01:11] <Hume2> That's what I did with Dark world.
+[2015/11/18 11:01:43] <Hume2> So the licencing is OK.
+[2015/11/18 11:02:06] <Hume2> You will be in special thanks after it will be added again.
+[2015/11/18 11:02:28] <brmbrmcar> It will be added. I am determind.
+[2015/11/18 11:02:32] @ leyyin_ joined channel #supertux
+[2015/11/18 11:03:49] <Hume2> I think that Karkus looks like he wouldn't pass it untested. I'll ask him.
+[2015/11/18 11:04:29] <Hume2> leyyin_: Did you tested Restaured Island I until LMH deleted it?
+[2015/11/18 11:04:35] <brmbrmcar> Karkus will probably be here soon.
+[2015/11/18 11:04:51] <leyyin_> Hume2, no, sorry
+[2015/11/18 11:05:27] <brmbrmcar> Aw.
+[2015/11/18 11:06:29] <brmbrmcar> https://github.com/Hume2/addons/blob/restaurator/Worldmaps-0_4_0/restaurator1.zip
+[2015/11/18 11:07:11] <Hume2> It's the old version. The new vesion differs only by the intro and extro.
+[2015/11/18 11:09:09] <brmbrmcar> OK.
+[2015/11/18 11:09:18] <brmbrmcar> Where new one?
+[2015/11/18 11:09:30] <Hume2> brmbrmcar: I'll add it now.
