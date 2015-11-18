@@ -6781,3 +6781,6 @@
 [2015/11/18 06:29:12] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-11-11 12:43:07 -0500
 [2015/11/18 06:29:16] @ Mode +nt by card.freenode.net
 [2015/11/18 06:29:24] @ head8debian joined channel #supertux
+[2015/11/18 09:04:10] @ VargaD| joined channel #supertux
+[2015/11/18 09:04:47] @ Quit: VargaD: Ping timeout: 260 seconds
+[2015/11/18 09:04:48] @ VargaD| is now known as VargaD
