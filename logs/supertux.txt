@@ -6974,3 +6974,9 @@
 [2015/11/18 12:15:52] <brmbrmcar> http://i.cubeupload.com/maorNF.png
 [2015/11/18 12:25:13] <mt> maths22: looking at the failed Arch build on OBS, how does one access the source tree?
 [2015/11/18 12:25:45] <mt> because that PKGBUILD tries to clone https://github.com/SuperTux/supertux.git, which it isn't supposed to do on OBS I guess?
+[2015/11/18 12:35:45] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/18 12:37:29] <head8debian> Ah, i miss WIndows XP... Well, if i have to use newer versions of windows i do...
+[2015/11/18 12:39:15] <head8debian> A fresh install of XP would boot in 10 seconds...
+[2015/11/18 12:39:42] <head8debian> And it wouldn't be doing random things in the background without me knowing.
+[2015/11/18 12:43:02] @ alket joined channel #supertux
+[2015/11/18 12:43:25] <brmbrmcar> Ubuntu boots in 3 seconds.
