@@ -7063,3 +7063,14 @@
 [2015/11/18 13:59:46] <Tobbi> However, we could have that blackout effect just before the sector switch.
 [2015/11/18 13:59:50] <Tobbi> But that adds a few seconds...
 [2015/11/18 13:59:59] <Tobbi> Aka, people might be complaining about them not getting best stats.
+[2015/11/18 14:01:35] @ claymore2 joined channel #supertux
+[2015/11/18 14:02:25] <Karkus> Tobbi: As in, you go up to a door, press up, then walk off?
+[2015/11/18 14:02:53] <Tobbi> Karkus: Well, basically, the screen fadeout starts once the door opens...we could make it so it starts later.
+[2015/11/18 14:02:56] <Tobbi> And is shorter.
+[2015/11/18 14:03:14] <brmbrmcar> That is good.
+[2015/11/18 14:04:04] <Tobbi> but a lot of work, I believe.
+[2015/11/18 14:04:04] <Karkus> You shouldn't be able to walk around once you've pressed up. You should freeze in place and a door entering animation should show
+[2015/11/18 14:04:18] <Tobbi> Well, currently it just fades.
+[2015/11/18 14:04:46] <brmbrmcar> Yes, but that is even worse.
+[2015/11/18 14:08:36] @ Quit: Karkus: Ping timeout: 260 seconds
+[2015/11/18 14:09:09] @ Quit: Hume2: Quit: Page closed
