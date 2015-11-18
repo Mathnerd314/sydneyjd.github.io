@@ -7114,3 +7114,5 @@
 [2015/11/18 16:20:40] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/18 16:26:15] @ Quit: swift110: Ping timeout: 252 seconds
 [2015/11/18 16:32:25] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2015/11/18 17:05:49] @ Tobbi joined channel #supertux
+[2015/11/18 17:05:49] @ Mode +o Tobbi by ChanServ
