@@ -7026,3 +7026,22 @@
 [2015/11/18 13:14:48] <Tobbi> hello mw.
 [2015/11/18 13:14:49] <Tobbi> me
 [2015/11/18 13:14:52] <brmbrmcar> That is right.
+[2015/11/18 13:15:02] <head8debian> Tobbi: Hehe, i thought something wasn't right with that link... ;)
+[2015/11/18 13:15:07] <head8debian> oops.
+[2015/11/18 13:15:08] <Tobbi> :D
+[2015/11/18 13:17:12] <brmbrmcar> ?:
+[2015/11/18 13:18:42] <head8debian> Hahahahaha. I can hack this old GPS and turn it into a windows desktop. :D
+[2015/11/18 13:19:17] <Tobbi> Congratulations.
+[2015/11/18 13:20:02] @ Wuzzy joined channel #supertux
+[2015/11/18 13:20:45] @ Quit: tuxdev_: Ping timeout: 272 seconds
+[2015/11/18 13:20:52] <brmbrmcar> Put Supertux OS on there.
+[2015/11/18 13:21:47] <head8debian> o_O
+[2015/11/18 13:21:56] <head8debian> Well, i could if i knew how...
+[2015/11/18 13:22:46] <brmbrmcar> Iwant to make Supertux OS.
+[2015/11/18 13:23:19] <mt> didn't we already have "SuperTux LiveCD"
+[2015/11/18 13:23:21] <mt> oslt
+[2015/11/18 13:26:04] <Tobbi> :D
+[2015/11/18 13:27:01] <brmbrmcar> Can it boot?
+[2015/11/18 13:28:09] <mt> meh just pass init=/usr/bin/supertux2 to the kernel lol
+[2015/11/18 13:29:14] <mt> that sadly doesn't work because we need X to actually display something
+[2015/11/18 13:29:48] <Karkus> mt: Aw :(
