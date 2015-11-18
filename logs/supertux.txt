@@ -7045,3 +7045,8 @@
 [2015/11/18 13:28:09] <mt> meh just pass init=/usr/bin/supertux2 to the kernel lol
 [2015/11/18 13:29:14] <mt> that sadly doesn't work because we need X to actually display something
 [2015/11/18 13:29:48] <Karkus> mt: Aw :(
+[2015/11/18 13:30:45] <brmbrmcar> Supertux OS should be made.
+[2015/11/18 13:31:07] <mt> ship a minimal WM without a lot of configuration, call /usr/bin/supertux2 in xinitrc
+[2015/11/18 13:31:26] <Tobbi> :D
+[2015/11/18 13:32:13] <brmbrmcar> Supertux OS 0.4.0
+[2015/11/18 13:42:53] <head8debian> Great, i "bricked" my GPS... :p
