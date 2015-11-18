@@ -6764,3 +6764,4 @@
 [2015/11/17 21:39:34] @ Quit: tux|dude: Quit: Leaving
 [2015/11/17 21:52:45] @ tuxdev_ joined channel #supertux
 [2015/11/17 22:47:33] @ Quit: irungentoo: Remote host closed the connection
+[2015/11/17 23:44:40] @ tux|dude joined channel #supertux
