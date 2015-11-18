@@ -7107,3 +7107,6 @@
 [2015/11/18 15:53:53] <Tobbi> Just a shame that Karkus isn't here.
 [2015/11/18 15:54:29] <brmbrmcar> Ping timed out.
 [2015/11/18 15:58:17] @ leyyin joined channel #supertux
+[2015/11/18 16:01:15] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/18 16:12:37] <head8debian> Tobbi: So, where can i get some Windows CE programs for the arm4 archetecture? :D
+[2015/11/18 16:13:02] <Tobbi> head8debian: Why do you think I would know such a thing?
