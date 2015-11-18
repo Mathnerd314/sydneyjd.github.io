@@ -7088,3 +7088,10 @@
 [2015/11/18 14:54:14] <Tobbi> ok
 [2015/11/18 14:55:31] <brmbrmcar> What do you mean?I noticenothing.
 [2015/11/18 14:58:34] <swift110> hey all
+[2015/11/18 15:00:34] <Tobbi> brmbrmcar: thanks. That's what I asked.
+[2015/11/18 15:03:20] <brmbrmcar> OK.
+[2015/11/18 15:12:07] <maths22> Tobbi: what sort of thing did you think you might have done?
+[2015/11/18 15:12:17] <Tobbi> maths22: Moved the header to the top.
+[2015/11/18 15:12:30] <Tobbi> With Issues, Pull requests etc.
+[2015/11/18 15:13:31] <maths22> I see.  I just got the option to change it for my own view, so it is clearly individual
+[2015/11/18 15:13:43] <maths22> I haven't decided if I like it
