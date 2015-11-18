@@ -7125,3 +7125,13 @@
 [2015/11/18 18:10:26] @ swift110 joined channel #supertux
 [2015/11/18 18:10:52] @ Quit: swift110: Remote host closed the connection
 [2015/11/18 18:11:12] @ swift110 joined channel #supertux
+[2015/11/18 18:27:17] @ Quit: Karkus: Quit: Leaving
+[2015/11/18 18:28:06] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#228: Make language add-ons work without a restart - 13http://git.io/v4Xfa
+[2015/11/18 18:28:21] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#227: Screen going blank on startup, game then freezes - 13http://git.io/v4s3o
+[2015/11/18 18:28:57] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43DO
+[2015/11/18 18:28:59] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43DO
+[2015/11/18 18:29:05] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43DO
+[2015/11/18 18:29:05] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43DO
+[2015/11/18 18:29:06] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43DO
+[2015/11/18 18:29:34] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#225: All my wanted Console commands - 13http://git.io/v431B
+[2015/11/18 18:29:35] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#225: All my wanted Console commands - 13http://git.io/v431B
