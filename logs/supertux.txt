@@ -7083,3 +7083,8 @@
 [2015/11/18 14:29:26] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/18 14:33:47] @ Tobbi joined channel #supertux
 [2015/11/18 14:33:47] @ Mode +o Tobbi by ChanServ
+[2015/11/18 14:47:18] <Tobbi> Did I just switch the repository design for everyone or just for me?
+[2015/11/18 14:51:23] <brmbrmcar> Not a clue.
+[2015/11/18 14:54:14] <Tobbi> ok
+[2015/11/18 14:55:31] <brmbrmcar> What do you mean?I noticenothing.
+[2015/11/18 14:58:34] <swift110> hey all
