@@ -7050,3 +7050,16 @@
 [2015/11/18 13:31:26] <Tobbi> :D
 [2015/11/18 13:32:13] <brmbrmcar> Supertux OS 0.4.0
 [2015/11/18 13:42:53] <head8debian> Great, i "bricked" my GPS... :p
+[2015/11/18 13:48:59] <brmbrmcar> Bad!
+[2015/11/18 13:54:38] <Hume2> brmbrmcar: Yes, you can delete that level.
+[2015/11/18 13:56:06] <brmbrmcar> Hume2: OK...
+[2015/11/18 13:57:22] <Hume2> brmbrmcar: Could we have a private talk?
+[2015/11/18 13:57:27] <brmbrmcar> Aw flip...
+[2015/11/18 13:57:49] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#229: Stop doors fom blacking out the screen when they aren't being used - 13http://git.io/v4icO
+[2015/11/18 13:57:52] <Tobbi> That either means something good or something very bad..
+[2015/11/18 13:58:35] <Tobbi> Karkus: Doors black out the screen in case you enter them... However, you can simply not go through them, yet the screen will be blacked out for some time.
+[2015/11/18 13:58:47] <Tobbi> And i believe this is what he is complaining about in that issue.
+[2015/11/18 13:59:24] <Tobbi> I don't know a solution to that anyway.
+[2015/11/18 13:59:46] <Tobbi> However, we could have that blackout effect just before the sector switch.
+[2015/11/18 13:59:50] <Tobbi> But that adds a few seconds...
+[2015/11/18 13:59:59] <Tobbi> Aka, people might be complaining about them not getting best stats.
