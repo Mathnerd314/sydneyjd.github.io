@@ -7099,3 +7099,5 @@
 [2015/11/18 15:15:06] <Tobbi> But at the moment, I just don't care
 [2015/11/18 15:28:23] @ Quit: leyyin_: Ping timeout: 240 seconds
 [2015/11/18 15:28:49] @ Quit: leyyin: Ping timeout: 264 seconds
+[2015/11/18 15:34:07] @ ced117 joined channel #supertux
+[2015/11/18 15:41:10] @ tux|dude joined channel #supertux
