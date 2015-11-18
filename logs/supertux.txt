@@ -7101,3 +7101,9 @@
 [2015/11/18 15:28:49] @ Quit: leyyin: Ping timeout: 264 seconds
 [2015/11/18 15:34:07] @ ced117 joined channel #supertux
 [2015/11/18 15:41:10] @ tux|dude joined channel #supertux
+[2015/11/18 15:49:17] <Tobbi> damn.
+[2015/11/18 15:49:38] <brmbrmcar> What did you do?
+[2015/11/18 15:53:46] <Tobbi> NOthing.
+[2015/11/18 15:53:53] <Tobbi> Just a shame that Karkus isn't here.
+[2015/11/18 15:54:29] <brmbrmcar> Ping timed out.
+[2015/11/18 15:58:17] @ leyyin joined channel #supertux
