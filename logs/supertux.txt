@@ -7118,3 +7118,5 @@
 [2015/11/18 17:05:49] @ Mode +o Tobbi by ChanServ
 [2015/11/18 17:19:38] @ Karkus joined channel #supertux
 [2015/11/18 17:26:31] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/11/18 17:32:19] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/18 17:37:37] @ Quit: claymore2: Quit: Leaving
