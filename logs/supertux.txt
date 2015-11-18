@@ -7120,3 +7120,8 @@
 [2015/11/18 17:26:31] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2015/11/18 17:32:19] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/18 17:37:37] @ Quit: claymore2: Quit: Leaving
+[2015/11/18 18:10:26] @ swift110 joined channel #supertux
+[2015/11/18 18:10:26] @ Quit: swift110: Changing host
+[2015/11/18 18:10:26] @ swift110 joined channel #supertux
+[2015/11/18 18:10:52] @ Quit: swift110: Remote host closed the connection
+[2015/11/18 18:11:12] @ swift110 joined channel #supertux
