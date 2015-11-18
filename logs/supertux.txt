@@ -7016,3 +7016,13 @@
 [2015/11/18 12:58:27] <Hume2> Yes, each iShit is apple.
 [2015/11/18 12:58:59] <mt> it's an iMac from the time when apple actually still built rather sane computers
 [2015/11/18 12:59:09] <brmbrmcar> https://www.youtube.com/watch?v=dHZvrY2iVmc
+[2015/11/18 13:04:08] <brmbrmcar> Hume2: Can level10 be deleted? It is purely a powerup farm, and hasno place on the island.
+[2015/11/18 13:08:52] <head8debian> mt: Not many computer now-a-days are very sane. :-)
+[2015/11/18 13:13:11] @ Tobbi joined channel #supertux
+[2015/11/18 13:13:11] @ Mode +o Tobbi by ChanServ
+[2015/11/18 13:14:37] <Tobbi> head8debian: lethargic.org is for sale, not lethargik.org which we run on.
+[2015/11/18 13:14:43] <head8debian> Hello Tobbi.
+[2015/11/18 13:14:43] <brmbrmcar> Yes!
+[2015/11/18 13:14:48] <Tobbi> hello mw.
+[2015/11/18 13:14:49] <Tobbi> me
+[2015/11/18 13:14:52] <brmbrmcar> That is right.
