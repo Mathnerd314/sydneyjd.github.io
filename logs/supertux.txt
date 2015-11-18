@@ -6836,3 +6836,61 @@
 [2015/11/18 11:29:22] <maths22> We have no right to do anything with the fan site levels
 [2015/11/18 11:29:44] <maths22> They did not grant us a license, and heavy modification simply makes them a derivative work
 [2015/11/18 11:29:52] <maths22> The original copyright holds on derivative works
+[2015/11/18 11:30:30] <maths22> We may not like that, and I really appreciate the effort that was put into the worldmap, but that doesn't make it legal
+[2015/11/18 11:31:23] <brmbrmcar> What the hell?
+[2015/11/18 11:31:32] <maths22> We can go over this again when Tobbi is online later today
+[2015/11/18 11:31:41] <brmbrmcar> Ohgod.
+[2015/11/18 11:31:50] <maths22> brmbrmcar: I went over this with you yesterday
+[2015/11/18 11:31:59] <brmbrmcar> Yes.
+[2015/11/18 11:32:13] <maths22> What did not make sense about that argument?
+[2015/11/18 11:32:13] <brmbrmcar> But we still disagree.
+[2015/11/18 11:32:22] <Karkus> brmbrmcar: Was any license specifies
+[2015/11/18 11:32:23] <maths22> brmbrmcar: I thought we had ended in agreement.
+[2015/11/18 11:32:28] <Karkus> specified?
+[2015/11/18 11:32:36] <brmbrmcar> maths22: Yes, that one.
+[2015/11/18 11:32:50] <maths22> brmbrmcar: then how do we disagree
+[2015/11/18 11:32:53] <maths22> ?
+[2015/11/18 11:33:25] <brmbrmcar> Arguing and disagreeing are different.
+[2015/11/18 11:33:41] <maths22> By argument, I meant claim
+[2015/11/18 11:33:45] <maths22> not debate
+[2015/11/18 11:34:17] <brmbrmcar> You are very confusing.
+[2015/11/18 11:34:20] <maths22> Karkus: the fan site has no grant of license, and the levels I checked do not have licenses attached
+[2015/11/18 11:34:41] <maths22> brmbrmcar: I'm sorry.  I was trying to be clear, but evidently I failed
+[2015/11/18 11:34:45] <Karkus> maths22: Can I have a link to the fan site?
+[2015/11/18 11:34:58] <Karkus> maths22: Made sense to me...
+[2015/11/18 11:35:04] <maths22> Karkus: http://a062.apm.etc.tu-bs.de/pmlvls.php?frn=0&snr=30&ord=odif
+[2015/11/18 11:35:44] <Hume2> mats22: What country are you from?
+[2015/11/18 11:35:59] <maths22> Hume2: United States
+[2015/11/18 11:36:19] <maths22> That said, this aspect of copyright is fairly similar in the EU to the best of my knowledge
+[2015/11/18 11:36:37] <Hume2> It is similar but not the same.
+[2015/11/18 11:37:00] <maths22> Hume2: I know.  Hence why I defered to LMH and Tobbi for a european perspective
+[2015/11/18 11:37:30] <brmbrmcar> And you can't copyright everything.
+[2015/11/18 11:37:42] <mt> (in Germany) If there's no license specified it is to assume that the original creator has all the rights until 70 years after their death
+[2015/11/18 11:38:04] <brmbrmcar> If copyright was this bad, nothing would belegal.
+[2015/11/18 11:38:10] <maths22> brmbrmcar: that is not true
+[2015/11/18 11:38:39] <maths22> You can use things without violating copyright
+[2015/11/18 11:38:49] <maths22> You can even often modify them for personal use
+[2015/11/18 11:39:15] <maths22> But you can't modify and distribute them without some kind of permission from the original copyright holder
+[2015/11/18 11:39:28] <maths22> Hence why in the open source world, we use licenses
+[2015/11/18 11:39:29] <head8debian> maths22: Exactly.
+[2015/11/18 11:39:40] <Hume2> maths22: Read the new intro.
+[2015/11/18 11:39:45] <brmbrmcar> Yes, but if things were like this and you copyrighted maths22, you would never be allowed to say the word maths.
+[2015/11/18 11:40:01] <head8debian> oh brother...
+[2015/11/18 11:40:21] <maths22> brmbrmcar: I cannot copyright maths22 even if I wanted to
+[2015/11/18 11:40:26] <Karkus> brmbrmcar: Trade names are trade marks.
+[2015/11/18 11:40:43] <Karkus> brmbrmcar: Copyright protects intellectual property
+[2015/11/18 11:40:46] <maths22> I might be able to trademark it, so someone else couldn't claim to be me and do buisness as me
+[2015/11/18 11:40:54] <brmbrmcar> It is purely an  example.
+[2015/11/18 11:41:15] <maths22> The principle is that copyright protects the specific execution of an idea, and not the idea itself
+[2015/11/18 11:41:28] <Hume2> Please stop this empty discussion and read the new intro. https://github.com/Hume2/addons/blob/6461cbcd31e7dafd6e255540bbb2dbbf9a2fc91b/src/restaurator1/levels/restaurator1/intro.txt
+[2015/11/18 11:41:50] <maths22> Hume2: that is an unfounded claim
+[2015/11/18 11:41:57] <maths22> It is clearly a derivative work
+[2015/11/18 11:41:58] <mt> derivations of works are *not* legal
+[2015/11/18 11:42:11] <mt> (without the permission of the copyright holder)
+[2015/11/18 11:42:13] <maths22> You even say that yourself by saying that there *is* an original author
+[2015/11/18 11:42:29] <maths22> As a derivative work, it does not somehow lose the original copyright
+[2015/11/18 11:42:45] <maths22> It actually can only exist if the original copyright holder has granted permission for it
+[2015/11/18 11:43:18] <head8debian> o_O
+[2015/11/18 11:43:29] <brmbrmcar> Well, it is in plan English.
+[2015/11/18 11:44:12] <maths22> head8debian: you can see why I am tired of this conversation///
+[2015/11/18 11:44:21] <maths22> (That was supposed to be an elipsis)
