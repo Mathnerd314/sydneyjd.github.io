@@ -7110,3 +7110,6 @@
 [2015/11/18 16:01:15] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/11/18 16:12:37] <head8debian> Tobbi: So, where can i get some Windows CE programs for the arm4 archetecture? :D
 [2015/11/18 16:13:02] <Tobbi> head8debian: Why do you think I would know such a thing?
+[2015/11/18 16:20:01] @ Quit: tux|dude: Quit: Leaving
+[2015/11/18 16:20:40] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/18 16:26:15] @ Quit: swift110: Ping timeout: 252 seconds
