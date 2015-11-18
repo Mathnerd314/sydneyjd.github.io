@@ -6771,3 +6771,4 @@
 [2015/11/18 03:12:11] @ grumbel joined channel #supertux
 [2015/11/18 03:12:11] @ Mode +o grumbel by ChanServ
 [2015/11/18 04:13:22] @ Quit: tux|dude: Read error: Connection reset by peer
+[2015/11/18 04:48:34] @ leyyin joined channel #supertux
