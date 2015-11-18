@@ -6787,3 +6787,10 @@
 [2015/11/18 09:53:49] <head8debian> red_bot: ping
 [2015/11/18 09:53:49] <red_bot> head8debian: pong
 [2015/11/18 10:19:43] @ quit (seeya)
+[2015/11/18 10:37:16] @ Joined channel #supertux
+[2015/11/18 10:37:16] @ Topic is "Welcome to the SuperTux chat | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | ©häññèł łôǥ http://sydneyjd.github.io/logs/ | nightly builds http://brlcad.org/~maths22/supertux-nightly/"
+[2015/11/18 10:37:16] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-11-11 12:43:07 -0500
+[2015/11/18 10:37:20] @ Mode +nt by wilhelm.freenode.net
+[2015/11/18 10:37:37] <brmbrmcar> red_bot:Where's your cloak?
+[2015/11/18 10:38:19] <brmbrmcar> Ah, you found it.
+[2015/11/18 10:39:27] @ head8debian joined channel #supertux
