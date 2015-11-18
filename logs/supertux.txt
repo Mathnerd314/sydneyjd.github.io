@@ -6794,3 +6794,18 @@
 [2015/11/18 10:37:37] <brmbrmcar> red_bot:Where's your cloak?
 [2015/11/18 10:38:19] <brmbrmcar> Ah, you found it.
 [2015/11/18 10:39:27] @ head8debian joined channel #supertux
+[2015/11/18 10:45:13] @ irungentoo joined channel #supertux
+[2015/11/18 10:48:03] @ Hume2 joined channel #supertux
+[2015/11/18 10:48:21] <Hume2> Hi all!
+[2015/11/18 10:52:01] <brmbrmcar> Hi!
+[2015/11/18 10:55:37] <Hume2> brmbrmcar: Any idea what LMH means by "check with others first"?
+[2015/11/18 10:55:51] @ tuxdev_ joined channel #supertux
+[2015/11/18 10:55:57] <Hume2> ...for Restaured Island I.
+[2015/11/18 10:56:55] <brmbrmcar> Hume2: Nooo.#
+[2015/11/18 10:57:33] <brmbrmcar> He already discussed it himself.
+[2015/11/18 10:58:03] <Hume2> Let's do it this way. Do you know anyone who hasn't tested it so far?
+[2015/11/18 10:58:16] <Hume2> Well, I tested it.
+[2015/11/18 10:58:31] <Hume2> It looks like Tobbi has tested it as well.
+[2015/11/18 10:58:42] <brmbrmcar> I tested it, of course.
+[2015/11/18 10:59:31] <Hume2> That's what I expected. It looks like Max Teufel has tested it too.
+[2015/11/18 10:59:51] <Hume2> ...beacuse he had some notes to it.
