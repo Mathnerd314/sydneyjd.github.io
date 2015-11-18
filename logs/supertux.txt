@@ -6980,3 +6980,39 @@
 [2015/11/18 12:39:42] <head8debian> And it wouldn't be doing random things in the background without me knowing.
 [2015/11/18 12:43:02] @ alket joined channel #supertux
 [2015/11/18 12:43:25] <brmbrmcar> Ubuntu boots in 3 seconds.
+[2015/11/18 12:46:43] <Karkus> head8debian: I don't miss windows XP. I don't miss Linux either.
+[2015/11/18 12:46:53] <mt> $ systemd-analyze
+[2015/11/18 12:46:54] <Karkus> because I have it
+[2015/11/18 12:46:56] <mt> Startup finished in 1.170s (userspace) = 1.170s
+[2015/11/18 12:46:58] <mt> :P
+[2015/11/18 12:47:41] <head8debian> :-)
+[2015/11/18 12:47:58] <head8debian> Will Microsoft ever get WIndows right?
+[2015/11/18 12:48:03] <mt> And if you really want winxp, why don't you buy it? It's like 9€ or so.
+[2015/11/18 12:48:13] <brmbrmcar> I hate Microsoft!
+[2015/11/18 12:48:18] <Karkus> ^
+[2015/11/18 12:48:26] <brmbrmcar> If I needed Windows, I would pirate it.
+[2015/11/18 12:48:30] <head8debian> mt: :p Startup finished in 3.632s (kernel) + 24.371s (userspace) = 28.004s
+[2015/11/18 12:49:07] <head8debian> Miscrosoft's webiste doesn't even support IE6. Dumb. :p
+[2015/11/18 12:49:34] <head8debian> mt: You run a SSD?
+[2015/11/18 12:49:44] <head8debian> brmbrmcar: Ubuntu is a resource hog. :D
+[2015/11/18 12:49:48] <brmbrmcar> Google' pages don't even suppert Chrome.
+[2015/11/18 12:50:03] <brmbrmcar> head8debian:Nothing compared to Windows.
+[2015/11/18 12:50:09] <mt> head8debian: well that 1.17s was an OpenVZ box, so the kernel is already loaded; my actual desktop is Startup finished in 8.481s (firmware) + 3.183s (loader) + 1.985s (kernel) + 29.604s (userspace) = 43.255s (boots from HDD), my SSD KVM VPS is Startup finished in 1.598s (kernel) + 2.590s (userspace) = 4.188s
+[2015/11/18 12:52:08] <head8debian> lethargic.org is up for sale.
+[2015/11/18 12:52:14] <mt> for some reason this is taking so long:          19.624s man-db.service
+[2015/11/18 12:52:21] <brmbrmcar> lethargik?
+[2015/11/18 12:52:24] <head8debian> mt: lol... sly. :p
+[2015/11/18 12:52:43] <head8debian> I thought i was overloading my startup. :p
+[2015/11/18 12:53:10] <head8debian> HDDs rock... :-)
+[2015/11/18 12:53:15] <brmbrmcar> Oh, you did mean lethargic.
+[2015/11/18 12:53:44] <brmbrmcar> SSD is better than HHD.
+[2015/11/18 12:54:04] <brmbrmcar> s/HHD/HDD
+[2015/11/18 12:55:13] <mt> I wonder if it's worth risking to break my iMac to replace its HDD with an SSD.
+[2015/11/18 12:55:30] <brmbrmcar> iMacs are rubbish.
+[2015/11/18 12:55:41] <brmbrmcar> If I had one I would destroy it.
+[2015/11/18 12:55:49] <mt> And for my Linux desktop, it's not really worth to replace it yet
+[2015/11/18 12:57:39] <brmbrmcar> iMacs are apple?
+[2015/11/18 12:58:25] @ Quit: grumbel: Quit: Ex-Chat
+[2015/11/18 12:58:27] <Hume2> Yes, each iShit is apple.
+[2015/11/18 12:58:59] <mt> it's an iMac from the time when apple actually still built rather sane computers
+[2015/11/18 12:59:09] <brmbrmcar> https://www.youtube.com/watch?v=dHZvrY2iVmc
