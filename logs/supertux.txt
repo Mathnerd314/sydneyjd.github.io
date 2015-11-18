@@ -6768,3 +6768,5 @@
 [2015/11/18 00:01:02] <Not-6fa5> [02supertux] 07Developer626 forked the repository - 13http://git.io/v4Vi9
 [2015/11/18 01:17:47] <Not-6fa5> [02supertux] 07Hume2 commented on issue 03#230: Added unordered path mode - 13http://git.io/v4VFV
 [2015/11/18 01:59:23] @ Quit: tuxdev_: Ping timeout: 240 seconds
+[2015/11/18 03:12:11] @ grumbel joined channel #supertux
+[2015/11/18 03:12:11] @ Mode +o grumbel by ChanServ
