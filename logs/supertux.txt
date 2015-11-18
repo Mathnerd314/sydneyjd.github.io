@@ -6894,3 +6894,78 @@
 [2015/11/18 11:43:29] <brmbrmcar> Well, it is in plan English.
 [2015/11/18 11:44:12] <maths22> head8debian: you can see why I am tired of this conversation///
 [2015/11/18 11:44:21] <maths22> (That was supposed to be an elipsis)
+[2015/11/18 11:45:10] <Hume2> Taking the idea of the level is legal. Have you ever compared those levels with the my ones?
+[2015/11/18 11:45:18] <brmbrmcar> Well, no one complained before the subject was brought up.
+[2015/11/18 11:46:12] <brmbrmcar> ume2: Exactly.
+[2015/11/18 11:46:39] <Hume2> Well, let's make some rules for complaining.
+[2015/11/18 11:46:53] <brmbrmcar> Yes.
+[2015/11/18 11:46:54] <mt> If you say you took the idea of a level you're saying you took intellectual property from the original author.
+[2015/11/18 11:47:01] @ Tobbi joined channel #supertux
+[2015/11/18 11:47:01] @ Mode +o Tobbi by ChanServ
+[2015/11/18 11:47:06] <brmbrmcar> mt: Nooo.
+[2015/11/18 11:47:42] <Hume2> Inspiration is legal, because noone can ever get where I was really inspired.
+[2015/11/18 11:48:14] <Hume2> If taking the idea was illegal, then there would be no legal art work since 1900.
+[2015/11/18 11:48:22] <Tobbi> *sigh*
+[2015/11/18 11:48:29] <maths22> Tobbi: Welcome!
+[2015/11/18 11:48:29] <Tobbi> It's more than an inspiration...
+[2015/11/18 11:48:34] <Tobbi> Yes, thank you.
+[2015/11/18 11:48:50] <maths22> Tobbi: This is true.  We are literally citing the original author and using the original title
+[2015/11/18 11:49:05] <brmbrmcar> Hume2 is right.
+[2015/11/18 11:49:32] <Hume2> 80% of tiles are changed.
+[2015/11/18 11:49:45] <Tobbi> The overall look isn't.
+[2015/11/18 11:50:07] <Hume2> Have you compared it?
+[2015/11/18 11:50:17] <maths22> Hume2: A numeric percent of tiles changed doesn't tell me anything
+[2015/11/18 11:50:34] <maths22> I could get 100% tiles changed converting a level from the forest world to the ice world
+[2015/11/18 11:50:45] <maths22> That wouldn't make it any less of a derivative work
+[2015/11/18 11:50:56] <brmbrmcar> maths22:Yes, it does.
+[2015/11/18 11:51:04] <Tobbi> ffs, no it doesn't.
+[2015/11/18 11:51:11] <Tobbi> The arrangement of the tiles is significant.
+[2015/11/18 11:51:15] <Tobbi> Aka, the overall look
+[2015/11/18 11:51:38] <Tobbi> We have been over this...
+[2015/11/18 11:51:56] <maths22> Tobbi: this is our 3rd time
+[2015/11/18 11:51:56] <mt> brmbrmcar: Go ask your lawyer if you don't believe us. If you can't afford one, there's probably some subreddit where you can ask as well
+[2015/11/18 11:52:01] <Hume2> Well, LMH stole me the rotating coins :D
+[2015/11/18 11:52:07] <maths22> brmbrmcar's 2nd
+[2015/11/18 11:52:18] <Tobbi> So.
+[2015/11/18 11:52:35] <Tobbi> Guys if you want, ask for permission with every original author...
+[2015/11/18 11:52:40] <brmbrmcar> Why did you lot even start this argument?
+[2015/11/18 11:52:44] <Tobbi> Though some of them will likely not be available any longer.
+[2015/11/18 11:53:11] <maths22> brmbrmcar: because when I first played the worldmap, I thought to check on the licencing
+[2015/11/18 11:53:19] <maths22> And noticed that it did not work
+[2015/11/18 11:53:35] <maths22> Since it is a bad idea to violate copyright, I asked other peoples' opinions
+[2015/11/18 11:53:54] <brmbrmcar> I can't be bothered with licenses.I would let someone modify my work.
+[2015/11/18 11:54:07] <Tobbi> So that would make it PD...
+[2015/11/18 11:54:19] <Tobbi> And that needs to be specified.
+[2015/11/18 11:54:36] <maths22> brmbrmcar: Although it is nice to know that you would not pursue someone for copyright violation, that would not make other people any less in violation
+[2015/11/18 11:54:45] <maths22> Hence why we use licences
+[2015/11/18 11:55:04] <maths22> If I saw your work, and there wasn't a licence, I wouldn't take the risk of using it
+[2015/11/18 11:55:05] <Tobbi> brmbrmcar: I would guess your original age is around 13-16 from what you wrote...
+[2015/11/18 11:55:16] <Tobbi> no license = all rights reserved.
+[2015/11/18 11:55:27] <maths22> How do I know that you won't come after me for copyright infringement sometime later
+[2015/11/18 11:55:46] <Tobbi> yup.
+[2015/11/18 11:55:52] <brmbrmcar> So if I even think of something,you say that is copyright?
+[2015/11/18 11:55:59] <Karkus> What Tobbi just said is just how it works, brmbrmcar. Don't argue with us about it
+[2015/11/18 11:56:23] <maths22> brmbrmcar: No, but if you write it down, that writing is copyrighted
+[2015/11/18 11:56:25] <Karkus> brmbrmcar: You need proof too
+[2015/11/18 11:56:26] <Tobbi> brmbrmcar: Thinking of something doesn't make it art. Putting it into action does make it art.
+[2015/11/18 11:56:29] <brmbrmcar> Well, then don't make a silly argument.
+[2015/11/18 11:56:48] <brmbrmcar> Personal use.
+[2015/11/18 11:56:51] <Karkus> *sigh*
+[2015/11/18 11:57:07] <brmbrmcar> You say personal use is copyright now?
+[2015/11/18 11:57:37] <Karkus> No. You can do that
+[2015/11/18 11:57:54] <mt> What we do is a) not personal use and b) even copyright can apply for personal use under some jurisdictions
+[2015/11/18 11:57:55] <Karkus> You cannot distribute it though, I think
+[2015/11/18 11:58:04] <maths22> Karkus: this would be correct
+[2015/11/18 11:58:13] <maths22> For the most part, copyright actually applies to personal use
+[2015/11/18 11:58:49] <maths22> Its just that there is no way for anyone to find out
+[2015/11/18 11:58:54] <brmbrmcar> And, anyway, why is the addons repository so strict?
+[2015/11/18 11:59:15] <Tobbi> Okay this is enough for now.
+[2015/11/18 11:59:19] <brmbrmcar> Why does it need thorough checking before adding?
+[2015/11/18 11:59:23] <Karkus> This is the world, not the addons repo.
+[2015/11/18 11:59:29] <maths22> Tobbi: I agree
+[2015/11/18 11:59:29] <brmbrmcar> OK, this is enough.
+[2015/11/18 11:59:33] <Tobbi> Good.
+[2015/11/18 11:59:35] <Karkus> Tobbi: Okay
+[2015/11/18 11:59:39] <brmbrmcar> End!
+[2015/11/18 11:59:43] <brmbrmcar> For now...
+[2015/11/18 11:59:45] <Tobbi> Thanks guys...
