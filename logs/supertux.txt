@@ -6786,3 +6786,4 @@
 [2015/11/18 09:04:48] @ VargaD| is now known as VargaD
 [2015/11/18 09:53:49] <head8debian> red_bot: ping
 [2015/11/18 09:53:49] <red_bot> head8debian: pong
+[2015/11/18 10:19:43] @ quit (seeya)
