@@ -7116,3 +7116,5 @@
 [2015/11/18 16:32:25] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/11/18 17:05:49] @ Tobbi joined channel #supertux
 [2015/11/18 17:05:49] @ Mode +o Tobbi by ChanServ
+[2015/11/18 17:19:38] @ Karkus joined channel #supertux
+[2015/11/18 17:26:31] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
