@@ -7592,3 +7592,36 @@
 [2015/11/19 14:43:57] <Tobbi> Karkus: Only thing I can find is https://github.com/SuperTux/supertux/blob/master/data/AUTHORS
 [2015/11/19 14:44:48] <maths22> onpon4: They are some combination of GPL and CC-BY-SA
 [2015/11/19 14:45:00] <maths22> grumbel: what do you believe your images are licensed as?
+[2015/11/19 14:45:11] <Not-6fa5> [02supertux] 07Karkus476 edited page 03About - 13http://git.io/v49iZ
+[2015/11/19 14:45:20] @ Quit: Karkus: Quit: Leaving
+[2015/11/19 14:48:34] @ Karkus joined channel #supertux
+[2015/11/19 14:49:32] <grumbel> maths22: dual licensed GPL and/or CC-BY-SA
+[2015/11/19 14:51:20] <maths22> grumbel: That is what I thought
+[2015/11/19 14:51:31] <maths22> Unfourtniately, nothing actually says that for the graphics assets
+[2015/11/19 14:51:50] <maths22> Therefore, they are technically only GPL (unless I find an old LICENSE file)
+[2015/11/19 14:52:46] <brmbrmcar> So...
+[2015/11/19 14:53:08] <Karkus> onpon4: What license is ReTux under?
+[2015/11/19 14:53:17] <maths22> The real issue is just that the GPL applies rather poorly to assets
+[2015/11/19 14:53:22] <onpon4> Karkus: The code is under the GNU GPL.
+[2015/11/19 14:53:48] <onpon4> As are all the rest of the things I made from scratch (like levels).
+[2015/11/19 14:53:52] <brmbrmcar> How does that work?
+[2015/11/19 14:53:59] <Karkus> onpon4: So if a person bought the game, you'd show them the code?
+[2015/11/19 14:54:19] <onpon4> Karkus: Of course. The backers already have the source code. One of them has even published it.
+[2015/11/19 14:54:48] <Tobbi> onpon4: But that means the code can actually live on github, for example, can't it?
+[2015/11/19 14:54:58] <onpon4> Tobbi: If someone else puts it there, sure.
+[2015/11/19 14:55:13] <Tobbi> onpon4: Why not put it there yourself?
+[2015/11/19 14:55:16] <Karkus> onpon4: You should come help us out here :P
+[2015/11/19 14:55:19] <Tobbi> Yes.
+[2015/11/19 14:55:22] <Tobbi> :P
+[2015/11/19 14:55:40] <Tobbi> After all, you use our assets, so we could expect that small favour from you in return :P
+[2015/11/19 14:55:59] <Karkus> :D
+[2015/11/19 14:56:13] <onpon4> Tobbi: You are more than welcome to use ReTux's engine if you want. :)
+[2015/11/19 14:56:36] <Tobbi> I just want to take a look at the code, that's all.
+[2015/11/19 14:56:38] <Tobbi> Not use it.
+[2015/11/19 14:56:47] <Karkus> Me too
+[2015/11/19 14:57:29] <onpon4> Eh, I guess I could give you a gratis copy, too.
+[2015/11/19 14:58:05] <onpon4> Actually, on that note, I gave a gratis copy of ReTux to the woman who did the run animation. Probably will do the same for anyone who does any of those improvements.
+[2015/11/19 14:58:36] <Tobbi> Actually, that run animation should get integrated.
+[2015/11/19 14:58:43] <Tobbi> Not sure if we can make it before the release, probably not.
+[2015/11/19 14:58:50] <Tobbi> But for after 0.4, this might be great.
+[2015/11/19 14:58:58] <Karkus> onpon4: We have our own project, if you haven't noticed -_-
