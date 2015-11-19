@@ -7251,3 +7251,43 @@
 [2015/11/19 10:44:38] <Tobbi> Or rather freezer
 [2015/11/19 10:44:44] <head8debian> ...
 [2015/11/19 10:44:55] <Tobbi> head8debian: String freeze is when the strings = all text is frozen.
+[2015/11/19 10:45:05] <Tobbi> So that translators don't have to incorporate changes...
+[2015/11/19 10:45:19] <head8debian> Ah.
+[2015/11/19 10:45:20] <Tobbi> But since we don't know where giby is...we shouldn't really be doing anything.
+[2015/11/19 10:45:43] <Tobbi> head8debian: does makepot.sh work for you?
+[2015/11/19 10:45:52] <Tobbi> From a non-Mac / non-Windows computer..
+[2015/11/19 10:49:50] <maths22> Tobbi: I think my build changes should probably get integrated before release
+[2015/11/19 10:49:52] <Not-6fa5> [02supertux] 07sydneyjd commented on issue 03#218: Add high resolution icon - 13http://git.io/v4y7w
+[2015/11/19 10:49:53] <Not-6fa5> [02supertux] 07sydneyjd closed issue 03#218: Add high resolution icon - 13http://git.io/v8Z0A
+[2015/11/19 10:49:59] <maths22> I'll try to clean them up tonight
+[2015/11/19 10:50:03] <Tobbi> maths22: sure, thanks.
+[2015/11/19 10:50:49] <Tobbi> head8debian: couldn't you postpone the logo issue? I am not sure whether we should change our logo at all, but who knows...
+[2015/11/19 10:51:01] <Tobbi> maths22: Please do a pull request when you're ready.
+[2015/11/19 10:51:07] <Tobbi> maths22: Also, what about the changes to the squirrel lib?
+[2015/11/19 10:51:09] <head8debian> Tobbi: Anyone can re-open it if they want...
+[2015/11/19 10:51:14] <Tobbi> Right!
+[2015/11/19 10:51:20] <head8debian> Tobbi: I don't like having stuff floating in my hair.
+[2015/11/19 10:51:24] <maths22> Tobbi: What am I doing with squirrel?
+[2015/11/19 10:51:25] <head8debian> ;)
+[2015/11/19 10:51:41] <Tobbi> maths22: https://github.com/SuperTux/squirrel/pull/1 ?
+[2015/11/19 10:51:46] <head8debian> Tobbi: makepot.sh?
+[2015/11/19 10:52:06] <Tobbi> maths22: Also https://github.com/SuperTux/tinygettext/pull/1
+[2015/11/19 10:52:17] <Tobbi> To be honest, I don't know anything about this...
+[2015/11/19 10:52:26] <Tobbi> head8debian: makepot.sh should create localizations...
+[2015/11/19 10:52:36] <maths22> Tobbi: I see what you are talking about
+[2015/11/19 10:52:44] <maths22> I'm going to close those and open a new set
+[2015/11/19 10:52:52] <Tobbi> okay, sounds good.
+[2015/11/19 10:53:00] <maths22> It's just little changes mostly to make Windows happy
+[2015/11/19 10:53:03] <Tobbi> As I said, I am not too familiar with CMake...
+[2015/11/19 10:53:28] <head8debian> Tobbi: Well, it doesn't have any rm -rf commands... and it finished properly... :-)
+[2015/11/19 10:53:41] <head8debian> Not sure what it did...
+[2015/11/19 10:53:52] <Tobbi> head8debian: Okay, so, because it didn't work on my mac.
+[2015/11/19 10:53:58] <Tobbi> head8debian: Does git diff show you anything?
+[2015/11/19 10:54:41] @ irungentoo joined channel #supertux
+[2015/11/19 10:55:17] <head8debian> Tobbi: http://paste.debian.net/333897/
+[2015/11/19 10:55:33] <Tobbi> Okay....
+[2015/11/19 10:55:49] <Tobbi> not what I expected, anyway.
+[2015/11/19 10:56:12] <head8debian> Does anything ever come out the way we expect? :p
+[2015/11/19 10:56:35] <Tobbi> head8debian: Not with this project, no.
+[2015/11/19 10:57:17] <head8debian> Tobbi: I don't think its just us...
+[2015/11/19 10:58:54] <Tobbi> head8debian: Now, if you copy one of the add-on levelsets (the actual directory, not the zip) to data/levels, then run that command again?
