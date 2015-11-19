@@ -7642,3 +7642,38 @@
 [2015/11/19 15:06:07] <Tobbi> Karkus: I see...so maybe not such a good idea...But doesn't hurt to try.
 [2015/11/19 15:06:21] <Karkus> Tobbi: It's not hard to change.
 [2015/11/19 15:06:24] <Tobbi> Right
+[2015/11/19 15:19:06] @ Quit: grumbel: Quit: Ex-Chat
+[2015/11/19 15:20:04] <Tobbi> Karkus: I
+[2015/11/19 15:20:09] <Tobbi> ve been thinking.
+[2015/11/19 15:20:12] <Tobbi> Sorry.
+[2015/11/19 15:20:13] <Tobbi> :D
+[2015/11/19 15:20:16] <Karkus> :P
+[2015/11/19 15:20:29] <Karkus> Tobbi: That's a first then
+[2015/11/19 15:20:39] <Tobbi> Karkus: So, I believe if we pass a directory to ./supertux2 instead of a level or worldmap file, it should create a level set out of the levels in that directory.
+[2015/11/19 15:20:41] <Tobbi> At least IMO
+[2015/11/19 15:20:54] <Tobbi> And display a listing, I mean.
+[2015/11/19 15:21:04] <Karkus> Oh, okay
+[2015/11/19 15:21:12] <Tobbi> Not sure how hard that would be.
+[2015/11/19 15:21:23] <Karkus> Shouldn't be toooooo hard
+[2015/11/19 15:21:28] <Karkus> Tobbi: I
+[2015/11/19 15:21:31] <Karkus> ve been thinking
+[2015/11/19 15:21:31] <Tobbi> :D
+[2015/11/19 15:21:36] <Karkus> :D
+[2015/11/19 15:21:39] <Karkus> too
+[2015/11/19 15:21:40] <Tobbi> damn. stop.
+[2015/11/19 15:22:25] <Karkus> I've been thinking about Tinygettext thing
+[2015/11/19 15:22:32] <Tobbi> Ah.
+[2015/11/19 15:22:35] <Tobbi> And?
+[2015/11/19 15:22:49] <Karkus> Just a moment
+[2015/11/19 15:26:23] <Karkus> When disabled, we just need to set it to disabled and then stop Tinygettext checking there. So we don't necessarily need to unload it. Does that make sense or am I wrong?
+[2015/11/19 15:26:39] <Tobbi> Karkus: The thing is: The strings get added to a global dictionary...
+[2015/11/19 15:26:39] <Karkus> Tobbi: I know
+[2015/11/19 15:26:54] <Tobbi> Karkus: Problem is letting the GUI reload the strings...aka calling _("my string") on the strings again.
+[2015/11/19 15:28:07] <Karkus> Tobbi: But, unlike the language menu, we don't want to reset to Main Menu
+[2015/11/19 15:28:09] <Karkus> I see.
+[2015/11/19 15:28:31] <Tobbi> Karkus: Even if we reset to MainMenu, it still doesn't work properly. I tried that, I believe.
+[2015/11/19 15:28:56] <Karkus> Tobbi: Did you work out why?
+[2015/11/19 15:29:03] <Karkus> I would expect it to work
+[2015/11/19 15:29:05] <Tobbi> Karkus: Nope, sorry.
+[2015/11/19 15:29:12] <Tobbi> Karkus: You can try it, if you want.
+[2015/11/19 15:29:23] <Karkus> Okay, I will try
