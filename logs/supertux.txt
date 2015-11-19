@@ -7527,3 +7527,16 @@
 [2015/11/19 13:29:20] <Not-6fa5> [02supertux] 07Tobias Markus 0377e0d84 - [const correctness] Change 2 methods to const
 [2015/11/19 13:29:22] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92104888
 [2015/11/19 13:29:33] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92101857
+[2015/11/19 13:30:16] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92104888
+[2015/11/19 13:33:57] <Tobbi> huh? Ah
+[2015/11/19 13:41:14] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92104888
+[2015/11/19 13:42:43] <Not-6fa5> [02supertux] 07tobbi created branch 03coverity_scan 13http://git.io/v49Oi
+[2015/11/19 13:42:46] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92107199
+[2015/11/19 13:42:50] <Tobbi> I have to force push coverity_scan because something didn't work right.
+[2015/11/19 13:42:59] <Tobbi> It told me it was behind, though it certainly wasn't.
+[2015/11/19 13:43:07] <Tobbi> So it's now = master
+[2015/11/19 13:43:40] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92107199
+[2015/11/19 13:43:55] <Tobbi> Oh! scan.coverity.com isn't there.
+[2015/11/19 13:43:59] <Tobbi> server not found.
+[2015/11/19 13:44:27] <Tobbi> well then.
+[2015/11/19 13:44:55] @ claymore2 joined channel #supertux
