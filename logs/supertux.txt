@@ -7216,3 +7216,10 @@
 [2015/11/19 10:14:28] <maths22> Tobbi: I'll try to do that this afternoon
 [2015/11/19 10:14:33] <Tobbi> Good!
 [2015/11/19 10:14:47] <maths22> The issue is that I have to merge the main repo into my fork
+[2015/11/19 10:17:51] <grumbel> What are the near term plans for SuperTux? Is there a new release soon?
+[2015/11/19 10:24:45] <Tobbi> grumbel: We plan on releasing milestone 2 next month. Probably on the 20th.
+[2015/11/19 10:25:06] <Tobbi> MS 2 works stable enough so that a final release should be justified.
+[2015/11/19 10:25:45] <grumbel> ok, then I'll wait with my lisp->sexp replacement till after that, as that might break a bit of stuff
+[2015/11/19 10:25:58] <Tobbi> Okay, unless you can unbreak this easily. :P
+[2015/11/19 10:26:20] <Tobbi> maths22: I suppose we should use Squirrel 3.0 stable instead of 3.1 release candidate? Or what do you think?
+[2015/11/19 10:26:38] <Tobbi> I mean: Both is in the repository...
