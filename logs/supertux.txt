@@ -7175,3 +7175,4 @@
 [2015/11/18 22:05:21] @ nerdopolis_ joined channel #supertux
 [2015/11/18 22:11:38] @ datahead8888 joined channel #supertux
 [2015/11/18 22:13:09] @ Quit: datahead7777: Ping timeout: 240 seconds
+[2015/11/18 23:28:12] @ Quit: irungentoo: Ping timeout: 265 seconds
