@@ -7206,3 +7206,6 @@
 [2015/11/19 08:22:13] @ zcoune left channel #supertux ()
 [2015/11/19 09:03:48] <Tobbi> I added squirrel 3.1 RC 1 to the tree (in a different branch).
 [2015/11/19 09:03:50] <Tobbi> It works fine.
+[2015/11/19 09:16:23] <Tobbi> But since it's a release candidate, I am not sure if we should use it in the final release.
+[2015/11/19 09:16:26] <Tobbi> I'd rather not.
+[2015/11/19 09:28:49] @ Quit: Tobbi: Remote host closed the connection
