@@ -7343,3 +7343,47 @@
 [2015/11/19 11:44:26] <head8debian> Tobbi: What day does the christmas code kick in again?
 [2015/11/19 11:44:33] <brmbrmcar> 6th
 [2015/11/19 11:44:36] <Tobbi> head8debian: Gosh, I don't know. Calculate it. :D
+[2015/11/19 11:45:08] <Tobbi> Yes, the 6th
+[2015/11/19 11:45:16] <brmbrmcar> Yay!
+[2015/11/19 11:45:21] <Tobbi> https://github.com/SuperTux/supertux/blob/68bdf113c9cf702f206d3ce078a4c09340bb8ce1/src/supertux/gameconfig.hpp
+[2015/11/19 11:46:39] <Tobbi> brmbrmcar: Were you able to get a screenshot for https://github.com/SuperTux/supertux/issues/227 ?
+[2015/11/19 11:47:05] <brmbrmcar> Hang on...
+[2015/11/19 11:48:02] <head8debian> Tobbi: Could we release on maybe the 10th?
+[2015/11/19 11:48:14] <head8debian> Tobbi: I guess whenever we feel like it. :-)
+[2015/11/19 11:48:45] <brmbrmcar> Tobbi: It is very hard to capture, as it is only there for a very small amount of time.
+[2015/11/19 11:50:34] <Tobbi> head8debian: No, this should be set in advance.
+[2015/11/19 11:51:03] <Tobbi> brmbrmcar: So you're saying that the game freezes loading the game assets etc.?
+[2015/11/19 11:51:07] <Tobbi> But works afterwards?
+[2015/11/19 11:51:29] <brmbrmcar> Ah, for that.
+[2015/11/19 11:52:13] <brmbrmcar> It shows afterwards, but the screen updates around every 5 seconds
+[2015/11/19 11:52:21] <head8debian> o_O
+[2015/11/19 11:52:34] <head8debian> Tobbi: Good idea... Sometime in december...
+[2015/11/19 11:52:47] <Tobbi> head8debian: That was irony, wasn't it?
+[2015/11/19 11:53:01] <Tobbi> head8debian: I believe the 10th is a bit too early...didn't we set for the 20th?
+[2015/11/19 11:53:24] <head8debian> Tobbi: I belive we did.
+[2015/11/19 11:53:30] <Tobbi> That's a sunday, so should work fine.
+[2015/11/19 11:53:40] <head8debian> Tobbi: Its a decent time. ;) Right before Christmas. :-)
+[2015/11/19 11:53:48] <Tobbi> head8debian: Definitely.
+[2015/11/19 11:53:55] <brmbrmcar> Why does the day of the week matter?
+[2015/11/19 11:54:06] <Tobbi> Also 0.3.0 or something was released on the 20th as well.
+[2015/11/19 11:54:12] <head8debian> Deck the website with boughs of holly, lalalalala lalalala. :p
+[2015/11/19 11:54:14] <Tobbi> brmbrmcar: Because release dates tend to be tressful.
+[2015/11/19 11:54:24] <head8debian> haha.
+[2015/11/19 11:54:26] <head8debian> True.
+[2015/11/19 11:54:27] <Tobbi> *stressful
+[2015/11/19 11:54:44] <brmbrmcar> You like Sunday stress!
+[2015/11/19 11:54:52] <Tobbi> brmbrmcar: I have college during the weekdays...
+[2015/11/19 11:55:18] <head8debian> I have school.
+[2015/11/19 11:55:40] <Tobbi> We should *actually* see if we can fetch available langpacks for people on startup.
+[2015/11/19 11:55:54] <Tobbi> and / or when switching languages.
+[2015/11/19 11:56:05] <Tobbi> That should be done before the release.
+[2015/11/19 11:56:08] <Tobbi> LMH told me about it.
+[2015/11/19 11:57:51] <head8debian> Tobbi: Ok. Well, just so long as everything is "still" stable.
+[2015/11/19 11:58:03] <head8debian> Im shocked that we are so close to release...
+[2015/11/19 11:58:08] <Tobbi> head8debian: Maybe I won't do it.
+[2015/11/19 11:58:18] <Tobbi> head8debian: Sure, but the release date was planned way in advance, right?
+[2015/11/19 11:58:28] <Tobbi> didn't we?
+[2015/11/19 11:58:59] <head8debian> Tobbi: Yes.
+[2015/11/19 11:59:14] <head8debian> Tobbi: Its just coming up so fast.
+[2015/11/19 11:59:18] <Tobbi> Right...
+[2015/11/19 11:59:33] <Tobbi> head8debian: But this release is great... Lots of stuff added and finished etc.
