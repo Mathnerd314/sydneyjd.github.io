@@ -7318,3 +7318,28 @@
 [2015/11/19 11:16:36] <Tobbi> maths22: I don't. Actually you can submit a PR for credits.txt and I will merge that :)
 [2015/11/19 11:16:42] <maths22> Tobbi: OK
 [2015/11/19 11:28:04] @ brmbrmcar joined channel #supertux
+[2015/11/19 11:30:40] <brmbrmcar> Er... W: GPG error: http://download.opensuse.org  Release: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 1951C4BAC3842CC7
+[2015/11/19 11:32:36] <head8debian> maths22: Cool! Nightly builds!
+[2015/11/19 11:33:19] <brmbrmcar> Why is it 'nightly'?
+[2015/11/19 11:33:52] <head8debian> brmbrmcar: It builds supertux every night or pretty close to that.
+[2015/11/19 11:34:18] <brmbrmcar> So, what about my error when trying to install a nightly build?
+[2015/11/19 11:36:42] <Tobbi> maths22: There's something weird going on: The nightly build for Mac crashes (for some reason). Also the executable is only 276 bytes in size.
+[2015/11/19 11:36:51] <Tobbi> So, there might have been a problem with loading the file
+[2015/11/19 11:37:24] <brmbrmcar> All the nightly builds are throwing up errors.
+[2015/11/19 11:38:05] <Tobbi> Maybe not all of them.
+[2015/11/19 11:38:23] <brmbrmcar> Well, everything I've tried.
+[2015/11/19 11:38:40] <brmbrmcar> Wine, maybe? I'll test it.
+[2015/11/19 11:39:44] <head8debian> I will give the windows one a try later.
+[2015/11/19 11:41:25] <brmbrmcar> In the Windows build, not executable file is generated.
+[2015/11/19 11:41:41] <brmbrmcar> Youjust get the uninstall.exe
+[2015/11/19 11:42:18] <brmbrmcar> The package is so crazy!
+[2015/11/19 11:42:57] <maths22> Clearly something failed.
+[2015/11/19 11:42:59] <maths22> I will fix that
+[2015/11/19 11:43:37] <Tobbi> But this release will be great.
+[2015/11/19 11:43:39] <Tobbi> :)
+[2015/11/19 11:43:46] <head8debian> Yes it will. :-)
+[2015/11/19 11:43:47] <brmbrmcar> December 20?
+[2015/11/19 11:44:02] <head8debian> brmbrmcar: We have no dates set currently...
+[2015/11/19 11:44:26] <head8debian> Tobbi: What day does the christmas code kick in again?
+[2015/11/19 11:44:33] <brmbrmcar> 6th
+[2015/11/19 11:44:36] <Tobbi> head8debian: Gosh, I don't know. Calculate it. :D
