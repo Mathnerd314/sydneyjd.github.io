@@ -7439,3 +7439,38 @@
 [2015/11/19 12:28:16] <Hume2> It's in Bonus Island 3, isn't it?
 [2015/11/19 12:28:48] <Tobbi> Hume2: Not that I know of, I believe it's in CT. dabomb's level sets.
 [2015/11/19 12:29:36] <brmbrmcar> Console isn't giving any clues to the filename.
+[2015/11/19 12:30:05] <brmbrmcar> for-haul.st;
+[2015/11/19 12:30:12] <Tobbi> yes.
+[2015/11/19 12:30:14] <Tobbi> Exactly.
+[2015/11/19 12:30:15] <Tobbi> for-haul.stl
+[2015/11/19 12:31:10] <brmbrmcar> Have the deliberately covered the level with white?
+[2015/11/19 12:32:39] <Tobbi> covered the level with white?
+[2015/11/19 12:32:48] <brmbrmcar> Yes.
+[2015/11/19 12:33:01] <brmbrmcar> You can't erase the stuff onthe second sector.
+[2015/11/19 12:33:24] <Tobbi> Aha.
+[2015/11/19 12:33:25] <Tobbi> Not sure.
+[2015/11/19 12:33:55] <brmbrmcar> Why would they do it though?
+[2015/11/19 12:33:59] <Hume2> Well, in my opinion, the icecrusher are wrongly placed, because one of them is in a wall.
+[2015/11/19 12:34:25] <Hume2> s/icecrusher/icecrushers/
+[2015/11/19 12:34:25] <red_bot> Hume2 meant: "Well, in my opinion, the icecrushers are wrongly placed, because one of them is in a wall."
+[2015/11/19 12:36:26] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92091918
+[2015/11/19 12:37:09] @ Karkus joined channel #supertux
+[2015/11/19 12:37:42] <Tobbi> Hume2: Yes, that's true.
+[2015/11/19 12:37:50] <Tobbi> Not sure if it's worth fixing, then.
+[2015/11/19 12:38:28] <Hume2> I've once fixed one icecrusher related bug, related to the same level.
+[2015/11/19 12:38:42] <brmbrmcar> Oh yes.
+[2015/11/19 12:38:44] <Hume2> So choose which bug do you like more.
+[2015/11/19 12:38:58] <Tobbi> Yes, it's fine the way it is.
+[2015/11/19 12:39:05] @ Quit: Karkus: Client Quit
+[2015/11/19 12:39:45] <brmbrmcar> If you get an icecrusher to crush you upwards, you can jump up the wall.
+[2015/11/19 12:41:06] <Hume2> It worked before, but I fixed that bug I hope.
+[2015/11/19 12:41:13] <brmbrmcar> OK.
+[2015/11/19 12:41:23] <brmbrmcar> Have you tried it?
+[2015/11/19 12:42:10] <Hume2> Previously it worked with any platform moving up and a wall that is 32px high.
+[2015/11/19 12:42:17] <maths22> Tobbi: By the way, the linux builds appear to work correctly, so the issue is limited to the OS X and Windows builds
+[2015/11/19 12:42:27] <Tobbi> Okay?
+[2015/11/19 12:42:39] <Tobbi> That's weird.
+[2015/11/19 12:42:46] <brmbrmcar> Ihad a bug with the Ubuntu one earlier today.
+[2015/11/19 12:42:58] <brmbrmcar> It couldn't get the public key.
+[2015/11/19 12:44:16] <brmbrmcar> And all the Windows build does is unpackage itself.
+[2015/11/19 12:44:25] <brmbrmcar> And create uninstall.exe!
