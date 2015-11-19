@@ -7190,3 +7190,5 @@
 [2015/11/19 04:40:35] <Tobbi> maths22: Can you trigger a new nightly build, please?
 [2015/11/19 04:52:25] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/11/19 05:20:41] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/19 05:58:13] @ Tobbi joined channel #supertux
+[2015/11/19 05:58:13] @ Mode +o Tobbi by ChanServ
