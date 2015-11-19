@@ -7387,3 +7387,37 @@
 [2015/11/19 11:59:14] <head8debian> Tobbi: Its just coming up so fast.
 [2015/11/19 11:59:18] <Tobbi> Right...
 [2015/11/19 11:59:33] <Tobbi> head8debian: But this release is great... Lots of stuff added and finished etc.
+[2015/11/19 12:00:20] <brmbrmcar> Nice and stable. No Windows or OSX computers will blow up because of us.
+[2015/11/19 12:00:29] <Tobbi> Yes, and that.
+[2015/11/19 12:00:33] <head8debian> :-)
+[2015/11/19 12:03:07] <brmbrmcar> Supertux will be released in 31 days.
+[2015/11/19 12:03:17] <head8debian> Tobbi: http://lwn.net/Articles/250967/ :D
+[2015/11/19 12:03:22] <head8debian> Perfect article for you. :D
+[2015/11/19 12:03:35] <Tobbi> head8debian: Not right now.
+[2015/11/19 12:03:58] <Tobbi> head8debian: I am a little concerned whether giby will show up...Because he hasn't...
+[2015/11/19 12:04:05] <Tobbi> We need up-to-date localizations.
+[2015/11/19 12:04:23] <brmbrmcar> head8debian:Why is Tux wearing glasses?
+[2015/11/19 12:04:41] <brmbrmcar> They are blue!
+[2015/11/19 12:05:32] <head8debian> ~seen giby
+[2015/11/19 12:05:32] <red_bot> head8debian: giby was last seen 12 days, 5 hours, 48 minutes and 33 seconds ago, quitting IRC (Quit: This computer has gone to sleep)
+[2015/11/19 12:05:38] <head8debian> Tobbi: :-/
+[2015/11/19 12:05:51] <Tobbi> Yes, precisely...
+[2015/11/19 12:06:55] <brmbrmcar> \-:
+[2015/11/19 12:07:00] <head8debian> Tobbi: Well, he has one month to appear... If not... :-/
+[2015/11/19 12:07:14] <brmbrmcar> And what are the odds?
+[2015/11/19 12:07:17] <Tobbi> head8debian: He needs to update translations, and the translators need to translate those.
+[2015/11/19 12:07:21] <Tobbi> There are strings...
+[2015/11/19 12:07:32] <Tobbi> That are not on transifex yet, I mean.
+[2015/11/19 12:08:35] <Tobbi> And I don't have the know-how...
+[2015/11/19 12:09:06] <head8debian> brmbrmcar: Uhm, 10:1 that he *will* show up.
+[2015/11/19 12:09:15] <head8debian> he will show up...
+[2015/11/19 12:09:21] <brmbrmcar> I don't gamble.
+[2015/11/19 12:09:34] <head8debian> Tobbi: But what if he doesn't appear before the release?
+[2015/11/19 12:09:40] <head8debian> brmbrmcar: neither do i.
+[2015/11/19 12:09:45] <Tobbi> head8debian: Then we will ship with untranslated strings.
+[2015/11/19 12:09:51] <Tobbi> head8debian: It's not a big deal...
+[2015/11/19 12:10:25] <head8debian> Tobbi: Oh. Well you made it sound like a big deal. :-)
+[2015/11/19 12:10:37] <Tobbi> head8debian: Hmm, it would just be great, if...
+[2015/11/19 12:10:39] <Tobbi> well, never mind.
+[2015/11/19 12:10:56] <brmbrmcar> So an incomplete 0.4.0.
+[2015/11/19 12:11:46] <head8debian> Tobbi: Yes... i understand.
