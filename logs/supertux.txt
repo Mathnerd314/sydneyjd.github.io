@@ -7213,3 +7213,6 @@
 [2015/11/19 09:47:57] @ Mode +o grumbel by ChanServ
 [2015/11/19 09:54:58] @ Tobbi joined channel #supertux
 [2015/11/19 09:54:59] @ Mode +o Tobbi by ChanServ
+[2015/11/19 10:14:28] <maths22> Tobbi: I'll try to do that this afternoon
+[2015/11/19 10:14:33] <Tobbi> Good!
+[2015/11/19 10:14:47] <maths22> The issue is that I have to merge the main repo into my fork
