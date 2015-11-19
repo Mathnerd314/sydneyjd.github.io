@@ -7209,3 +7209,7 @@
 [2015/11/19 09:16:23] <Tobbi> But since it's a release candidate, I am not sure if we should use it in the final release.
 [2015/11/19 09:16:26] <Tobbi> I'd rather not.
 [2015/11/19 09:28:49] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/19 09:47:57] @ grumbel joined channel #supertux
+[2015/11/19 09:47:57] @ Mode +o grumbel by ChanServ
+[2015/11/19 09:54:58] @ Tobbi joined channel #supertux
+[2015/11/19 09:54:59] @ Mode +o Tobbi by ChanServ
