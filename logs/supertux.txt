@@ -7196,3 +7196,5 @@
 [2015/11/19 06:03:38] @ Quit: mt: Quit: ZNC 1.7.x-git-483-69b031c - http://znc.in
 [2015/11/19 06:37:05] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/19 06:55:54] @ leyyin joined channel #supertux
+[2015/11/19 07:09:37] @ Tobbi joined channel #supertux
+[2015/11/19 07:09:38] @ Mode +o Tobbi by ChanServ
