@@ -7677,3 +7677,35 @@
 [2015/11/19 15:29:05] <Tobbi> Karkus: Nope, sorry.
 [2015/11/19 15:29:12] <Tobbi> Karkus: You can try it, if you want.
 [2015/11/19 15:29:23] <Karkus> Okay, I will try
+[2015/11/19 15:31:47] <Karkus> Tobbi: I see you squished the language pack menu in with the addon menu :)
+[2015/11/19 15:32:00] <Tobbi> Karkus: yup, LMH also provided something...
+[2015/11/19 15:32:22] <Tobbi> Karkus: Problem is that langpacks have to be installed separately, so if people don't get that they have to install them, they'll get untranslated strings.
+[2015/11/19 15:32:32] <Tobbi> But I can live with that for now.
+[2015/11/19 15:33:43] <Karkus> Tobbi: Was there a reason they had to be separate rather than downloaded with the addons?
+[2015/11/19 15:34:15] <Tobbi> Karkus: Behind the scenes, they are add-ons. What I mean is: When switching languages, they are not installed automatically.
+[2015/11/19 15:34:35] <Karkus> Tobbi: All languages are addons?
+[2015/11/19 15:34:55] <Tobbi> Karkus: Only strings for contrib levels are in add-ons.
+[2015/11/19 15:35:00] <Tobbi> Does that make sense?
+[2015/11/19 15:35:04] <Karkus> Yes
+[2015/11/19 15:35:39] <Karkus> So, why not look within the addon .zip file for other (language pack) addons, and install them alongside?
+[2015/11/19 15:35:50] <Karkus> Therefore, no disabling at all
+[2015/11/19 15:36:42] <Karkus> Tobbi: ?^
+[2015/11/19 15:37:08] <Tobbi> Uhm?
+[2015/11/19 15:37:25] <Karkus> You don't understand?
+[2015/11/19 15:37:27] <Tobbi> Nope.
+[2015/11/19 15:38:49] <Karkus> Okay, let's say I made a world map, and package it into a .zip called kark.zip. I upload it to the supertux addons repo. Then, I add some German translations to the kark.zip. The game would automatically load this when people installed the addons
+[2015/11/19 15:39:14] <Karkus> s/the addons/the kark.zip addon/
+[2015/11/19 15:39:14] <red_bot> Karkus meant: "Okay, let's say I made a world map, and package it into a .zip called kark.zip. I upload it to the supertux addons repo. Then, I add some German translations to the kark.zip. The game would automatically load this when people installed the kark.zip addon"
+[2015/11/19 15:40:39] <Karkus> The game would fetch translations, if possible, from kark.zip *during install of that addon*
+[2015/11/19 15:41:23] <Karkus> Tobbi: Understand now?
+[2015/11/19 15:41:24] <Tobbi> Karkus: That's true.
+[2015/11/19 15:41:29] <Tobbi> Karkus: And it's possible as well...
+[2015/11/19 15:41:36] <Tobbi> But updating is a pain...
+[2015/11/19 15:41:47] <Tobbi> Basically you'd update the zip file whenever translations change.
+[2015/11/19 15:42:03] <Karkus> Tobbi: You'd update the lang pack anyway
+[2015/11/19 15:42:09] <Tobbi> I know...
+[2015/11/19 15:42:17] <Tobbi> Karkus: But, LMH requested it that way...
+[2015/11/19 15:42:22] <Tobbi> To have langpacks...
+[2015/11/19 15:42:25] <Karkus> Tobbi: Hmm.
+[2015/11/19 15:44:17] <Karkus> Tobbi: Since there's a disagreement, for 0.4.0 we'll leave it how it is. Now let me try resetting to main menu...
+[2015/11/19 15:44:23] <Tobbi> Sure.
