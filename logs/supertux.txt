@@ -7223,3 +7223,31 @@
 [2015/11/19 10:25:58] <Tobbi> Okay, unless you can unbreak this easily. :P
 [2015/11/19 10:26:20] <Tobbi> maths22: I suppose we should use Squirrel 3.0 stable instead of 3.1 release candidate? Or what do you think?
 [2015/11/19 10:26:38] <Tobbi> I mean: Both is in the repository...
+[2015/11/19 10:30:26] <maths22> Tobbi: I would say to stick with the stable release
+[2015/11/19 10:30:31] <Tobbi> Alright.
+[2015/11/19 10:30:54] <maths22> grumbel: What is this 'lisp->sexp replacement'?
+[2015/11/19 10:31:15] @ brmbrmcar joined channel #supertux
+[2015/11/19 10:31:55] <Tobbi> Maybe squirrel guys will release 3.1 as stable...
+[2015/11/19 10:31:56] <grumbel> maths22: cleanup up file reading a little and replacing the lisp/ code with https://travis-ci.org/lispparser/sexp-cpp (which is a cleaned up version of code in lisp/)
+[2015/11/19 10:32:35] <grumbel> better link: https://github.com/lispparser/sexp-cpp
+[2015/11/19 10:33:13] <Tobbi> Did I do pull requests against those repos or did you just pull in my commits from supertux?
+[2015/11/19 10:34:17] <Tobbi> never mind.
+[2015/11/19 10:38:33] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/19 10:38:35] <Tobbi> grumbel: If you find the time, you can try to find a way to make language packs work without a restart? All I tried has failed, including resetting the menu stack etc.
+[2015/11/19 10:38:49] <Tobbi> If not, doesn't matter, we display a message to the user...
+[2015/11/19 10:39:27] <maths22> grumbel: Thanks
+[2015/11/19 10:40:19] <Tobbi> I could probably add a submodule in another branch for that lisp parser, couldn't I?
+[2015/11/19 10:40:50] <Tobbi> Oh, wait, it might not be ready yet.
+[2015/11/19 10:41:39] <grumbel> that can wait
+[2015/11/19 10:41:44] <Tobbi> okay...
+[2015/11/19 10:42:28] <head8debian> Tobbi: What are you guys doing?
+[2015/11/19 10:42:58] <Tobbi> head8debian: Uhm, grumbel has reworked the lisp parser quite a bit...but we likely won't make it until the release of 0.4.0...with testing and stuff...
+[2015/11/19 10:43:08] <Tobbi> head8debian: By the way: Feature freeze already passed, right?
+[2015/11/19 10:43:18] <Tobbi> When is string freeze?
+[2015/11/19 10:44:07] <head8debian> Tobbi: String freeze?
+[2015/11/19 10:44:25] <Tobbi> head8debian: You know, when you snatch a girl's underpants and put it in the fridge.
+[2015/11/19 10:44:30] <head8debian> Tobbi: We are only a month from release... so we should not be incorperating really anything...
+[2015/11/19 10:44:38] <head8debian> except bug fixes.
+[2015/11/19 10:44:38] <Tobbi> Or rather freezer
+[2015/11/19 10:44:44] <head8debian> ...
+[2015/11/19 10:44:55] <Tobbi> head8debian: String freeze is when the strings = all text is frozen.
