@@ -7192,3 +7192,5 @@
 [2015/11/19 05:20:41] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/19 05:58:13] @ Tobbi joined channel #supertux
 [2015/11/19 05:58:13] @ Mode +o Tobbi by ChanServ
+[2015/11/19 06:02:55] @ mteufel joined channel #supertux
+[2015/11/19 06:03:38] @ Quit: mt: Quit: ZNC 1.7.x-git-483-69b031c - http://znc.in
