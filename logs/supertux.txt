@@ -7138,3 +7138,7 @@
 [2015/11/18 18:37:39] <swift110> hey all
 [2015/11/18 18:46:50] @ bb010g joined channel #supertux
 [2015/11/18 18:54:06] @ Quit: Wuzzy: Quit: Wuzzy
+[2015/11/18 19:05:05] @ Quit: alket: Quit: I've decided to call him Norbert. He really knows me now, watch. Norbert! Where's Mummy?
+[2015/11/18 19:14:08] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#231: Make set_bonus work again - 13http://git.io/v4zaG
+[2015/11/18 19:14:09] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#231: Make set_bonus work again - 13http://git.io/v4zaG
+[2015/11/18 19:14:58] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#225: All my wanted Console commands - 13http://git.io/v431B
