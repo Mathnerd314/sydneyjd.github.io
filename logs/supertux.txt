@@ -7540,3 +7540,6 @@
 [2015/11/19 13:43:59] <Tobbi> server not found.
 [2015/11/19 13:44:27] <Tobbi> well then.
 [2015/11/19 13:44:55] @ claymore2 joined channel #supertux
+[2015/11/19 13:49:04] @ Quit: xet7: Quit: Leaving
+[2015/11/19 13:52:38] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92107199
+[2015/11/19 13:59:25] <Tobbi> head8debian: I found a great task for you: Increase our unit test coverage from 0 to 100%
