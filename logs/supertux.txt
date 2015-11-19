@@ -7474,3 +7474,40 @@
 [2015/11/19 12:42:58] <brmbrmcar> It couldn't get the public key.
 [2015/11/19 12:44:16] <brmbrmcar> And all the Windows build does is unpackage itself.
 [2015/11/19 12:44:25] <brmbrmcar> And create uninstall.exe!
+[2015/11/19 12:45:05] <Tobbi> We should assemble a list of things to do for the release.
+[2015/11/19 12:45:16] <Tobbi> I mean: Update website, update wiki etc.
+[2015/11/19 12:45:27] <brmbrmcar> Create working builds
+[2015/11/19 12:46:37] @ Karkus joined channel #supertux
+[2015/11/19 12:47:28] <Tobbi> *sigh*
+[2015/11/19 12:47:30] <Tobbi> :P
+[2015/11/19 12:48:52] <brmbrmcar> How long will it take for the packages to be in the repos then?
+[2015/11/19 12:49:09] <maths22> brmbrmcar: Actually, the windows build mostly works, but it may not do working shortcuts
+[2015/11/19 12:49:16] <maths22> It also is missing 2 dlls
+[2015/11/19 12:49:37] <brmbrmcar> maths22: I see no supertux.exe or anything similar in there.
+[2015/11/19 12:49:39] <maths22> brmbrmcar: I will test Ubuntu later today
+[2015/11/19 12:49:43] <maths22> brmbrmcar: It is in the bin directory
+[2015/11/19 12:50:24] <brmbrmcar> It won't start up.
+[2015/11/19 12:50:26] <maths22> Also, what issue did you have with the key
+[2015/11/19 12:50:27] <Hume2> Should be Tux able to unduck in tiny passages and then get hurt?
+[2015/11/19 12:50:31] <maths22> brmbrmcar: I know it won't start
+[2015/11/19 12:50:35] <maths22> I'm fixing that later today
+[2015/11/19 12:50:41] <brmbrmcar> To be fair,I am using Wine.
+[2015/11/19 12:50:50] <maths22> brmbrmcar: So am I, actually
+[2015/11/19 12:50:54] <maths22> I should test on real windows
+[2015/11/19 12:51:12] <Hume2> Windows is a virus.
+[2015/11/19 12:51:14] <maths22> (I have real windows, but that means I have to restart my computer)
+[2015/11/19 12:52:21] <maths22> brmbrmcar: It is missing LIBEAY32.dll and SSLEAY32.dll
+[2015/11/19 12:52:29] <maths22> I will take care of them
+[2015/11/19 12:52:33] <brmbrmcar> maths22: OK, thanks.
+[2015/11/19 12:52:56] <maths22> Tobbi: what is specifically broken in the OS X build?
+[2015/11/19 12:53:52] <Tobbi> maths22: The executable isn't built correctly, afaict.
+[2015/11/19 12:54:15] <Tobbi> Hume2: Unducking and getting hurt is intended behaviour.
+[2015/11/19 12:55:08] <Hume2> It's not much real, but well then.
+[2015/11/19 12:55:50] <Tobbi> maths22: So, on my system, supertux2 has a size of 6.8 MB
+[2015/11/19 12:55:58] <brmbrmcar> Tux should be sent back out the way bhe came!
+[2015/11/19 12:56:27] <Hume2> brmbrmcar: This was removed because of the glitch it caused.
+[2015/11/19 12:56:28] <maths22> Tobbi: I'll take a look this afternoon (when I get access to a Mac)
+[2015/11/19 12:57:06] <Hume2> brmbrmcar: I'd like to see a way of walking when ducked, but that's for Milestone 3.
+[2015/11/19 12:57:14] <Tobbi> Sure, thanks.
+[2015/11/19 12:57:41] <brmbrmcar> Hume2: It was like that in 0.1.3
+[2015/11/19 12:58:01] <Hume2> brmbrmcar: Yes. Do you know that glitch?
