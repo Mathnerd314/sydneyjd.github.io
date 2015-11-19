@@ -7421,3 +7421,21 @@
 [2015/11/19 12:10:39] <Tobbi> well, never mind.
 [2015/11/19 12:10:56] <brmbrmcar> So an incomplete 0.4.0.
 [2015/11/19 12:11:46] <head8debian> Tobbi: Yes... i understand.
+[2015/11/19 12:22:53] @ Hume2 joined channel #supertux
+[2015/11/19 12:22:58] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±2] 13http://git.io/v4S6J
+[2015/11/19 12:23:00] <Not-6fa5> [02supertux] 07Tobias Markus 0303afae2 - Move visibility check into new const function
+[2015/11/19 12:23:04] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92091918
+[2015/11/19 12:25:45] <Tobbi> hmm...
+[2015/11/19 12:25:54] <Hume2> Hi all!
+[2015/11/19 12:26:02] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92091918
+[2015/11/19 12:26:09] <Tobbi> head8debian: Can you check "the long haul" (Ct dabomb's levelset)?
+[2015/11/19 12:26:18] <Tobbi> Looks like the krush is not going down.
+[2015/11/19 12:26:21] <Tobbi> but stuck in the wall...
+[2015/11/19 12:26:23] <Tobbi> hey Hume2
+[2015/11/19 12:27:06] <Hume2> Hi Tobbi. In which level does it happen?
+[2015/11/19 12:27:40] <Tobbi> Hume2: one moment.
+[2015/11/19 12:27:44] <brmbrmcar> Long Haul
+[2015/11/19 12:27:52] <Tobbi> yes, don't know the filename, though.
+[2015/11/19 12:28:16] <Hume2> It's in Bonus Island 3, isn't it?
+[2015/11/19 12:28:48] <Tobbi> Hume2: Not that I know of, I believe it's in CT. dabomb's level sets.
+[2015/11/19 12:29:36] <brmbrmcar> Console isn't giving any clues to the filename.
