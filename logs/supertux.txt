@@ -7625,3 +7625,20 @@
 [2015/11/19 14:58:43] <Tobbi> Not sure if we can make it before the release, probably not.
 [2015/11/19 14:58:50] <Tobbi> But for after 0.4, this might be great.
 [2015/11/19 14:58:58] <Karkus> onpon4: We have our own project, if you haven't noticed -_-
+[2015/11/19 15:00:59] <Tobbi> Karkus: I have been thinking: Maybe we can get this guy here https://www.youtube.com/watch?v=xOeP9tztDl0 to update his level set for MS 2.
+[2015/11/19 15:01:39] <Tobbi> Plus, he's available an replies to requests, see the top comment.
+[2015/11/19 15:03:34] <Karkus> Tobbi: So we could maybe convince him to join us on GitHub?
+[2015/11/19 15:04:04] <Tobbi> Karkus: Yup. I believe, he'd need to adjust the license of the add-on as well, and let's hope he doesn't have any non-free assets in there.
+[2015/11/19 15:04:10] <Tobbi> Otherwise, same problem we already had.
+[2015/11/19 15:04:16] <Karkus> Tobbi: As in music???
+[2015/11/19 15:04:25] <Tobbi> Karkus: Precisely...or background images...
+[2015/11/19 15:04:31] <Karkus> Lots of non-free assets where that's concerned
+[2015/11/19 15:04:32] <Tobbi> He's using custom background images.
+[2015/11/19 15:04:57] <grumbel> shouldn't be to hard to repaint them if needed
+[2015/11/19 15:05:33] <Karkus> Tobbi: The worldmap music is non-free, maybe others
+[2015/11/19 15:05:40] <Tobbi> Karkus: How do you know?
+[2015/11/19 15:05:51] <Karkus> Tobbi: I recognise it
+[2015/11/19 15:05:55] <Tobbi> grumbel: For example that picture of the beach with palm tree?
+[2015/11/19 15:06:07] <Tobbi> Karkus: I see...so maybe not such a good idea...But doesn't hurt to try.
+[2015/11/19 15:06:21] <Karkus> Tobbi: It's not hard to change.
+[2015/11/19 15:06:24] <Tobbi> Right
