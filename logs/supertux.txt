@@ -7136,3 +7136,5 @@
 [2015/11/18 18:29:34] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#225: All my wanted Console commands - 13http://git.io/v431B
 [2015/11/18 18:29:35] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#225: All my wanted Console commands - 13http://git.io/v431B
 [2015/11/18 18:37:39] <swift110> hey all
+[2015/11/18 18:46:50] @ bb010g joined channel #supertux
+[2015/11/18 18:54:06] @ Quit: Wuzzy: Quit: Wuzzy
