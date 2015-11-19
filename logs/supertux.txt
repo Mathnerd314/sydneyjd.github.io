@@ -7308,3 +7308,13 @@
 [2015/11/19 11:13:59] <Tobbi> Thanks, looks good.
 [2015/11/19 11:14:26] <Tobbi> maths22: Would it be possible for you to display the commit hash of the file and the build date on that site?
 [2015/11/19 11:14:40] <Tobbi> eeh, by commit hash I mean the HEAD commit SHA...
+[2015/11/19 11:15:23] <maths22> Tobbi: That will be added
+[2015/11/19 11:15:34] <Tobbi> Great.
+[2015/11/19 11:15:48] <maths22> Tobbi: Is it OK if I change cmake version numbers to use git describe?
+[2015/11/19 11:15:49] <Tobbi> maths22: By the way: Shall I add you to the credits before the release?
+[2015/11/19 11:15:54] <Tobbi> maths22: Yes, sure.
+[2015/11/19 11:16:10] <maths22> Tobbi: Sure on the credits
+[2015/11/19 11:16:20] <maths22> Do you have my real name?
+[2015/11/19 11:16:36] <Tobbi> maths22: I don't. Actually you can submit a PR for credits.txt and I will merge that :)
+[2015/11/19 11:16:42] <maths22> Tobbi: OK
+[2015/11/19 11:28:04] @ brmbrmcar joined channel #supertux
