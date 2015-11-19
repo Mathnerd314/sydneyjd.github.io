@@ -7200,3 +7200,7 @@
 [2015/11/19 07:09:38] @ Mode +o Tobbi by ChanServ
 [2015/11/19 07:20:29] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/19 07:55:24] @ xet7 joined channel #supertux
+[2015/11/19 08:17:24] @ Tobbi joined channel #supertux
+[2015/11/19 08:17:25] @ Mode +o Tobbi by ChanServ
+[2015/11/19 08:21:51] @ zcoune joined channel #supertux
+[2015/11/19 08:22:13] @ zcoune left channel #supertux ()
