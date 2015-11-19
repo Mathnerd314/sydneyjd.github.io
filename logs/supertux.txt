@@ -7183,3 +7183,8 @@
 [2015/11/19 03:37:49] @ Quit: maths22_log: Ping timeout: 276 seconds
 [2015/11/19 03:55:52] @ maths22_log joined channel #supertux
 [2015/11/19 03:56:29] @ Quit: tux|dude: Quit: Leaving
+[2015/11/19 04:36:19] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#228: Make language add-ons work without a restart - 13http://git.io/v4Mu7
+[2015/11/19 04:36:37] @ Tobbi joined channel #supertux
+[2015/11/19 04:36:37] @ Mode +o Tobbi by ChanServ
+[2015/11/19 04:40:08] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#228: Make language add-ons work without a restart - 13http://git.io/v4M2f
+[2015/11/19 04:40:35] <Tobbi> maths22: Can you trigger a new nightly build, please?
