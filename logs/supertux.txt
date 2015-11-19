@@ -7189,3 +7189,4 @@
 [2015/11/19 04:40:08] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#228: Make language add-ons work without a restart - 13http://git.io/v4M2f
 [2015/11/19 04:40:35] <Tobbi> maths22: Can you trigger a new nightly build, please?
 [2015/11/19 04:52:25] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2015/11/19 05:20:41] @ Quit: Tobbi: Remote host closed the connection
