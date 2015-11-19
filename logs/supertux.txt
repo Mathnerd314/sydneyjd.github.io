@@ -7543,3 +7543,52 @@
 [2015/11/19 13:49:04] @ Quit: xet7: Quit: Leaving
 [2015/11/19 13:52:38] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92107199
 [2015/11/19 13:59:25] <Tobbi> head8debian: I found a great task for you: Increase our unit test coverage from 0 to 100%
+[2015/11/19 14:30:17] <Tobbi> head8debian: Or, optionally, change the file names for that forest world.
+[2015/11/19 14:31:51] @ onpon4 joined channel #supertux
+[2015/11/19 14:33:21] <onpon4> Just want to point this out, in case anyone working on SuperTux's graphics is interested: http://opengameart.org/forumtopic/retux-graphical-improvements
+[2015/11/19 14:34:04] <Karkus> onpon4: Did you use any code from SuperTux?
+[2015/11/19 14:34:14] <onpon4> Karkus: No.
+[2015/11/19 14:34:34] <Karkus> onpon4: What about graphics?
+[2015/11/19 14:34:43] <onpon4> I've mentioned ReTux before; it's a different game, but using SuperTux's graphics, sounds, and music.
+[2015/11/19 14:35:14] <onpon4> Actually, there are a couple graphics and a couple sounds added from other sources too, but it's basically using SuperTux's art assets.
+[2015/11/19 14:35:45] <onpon4> Anyway, those improvements I'm looking for would benefit SuperTux just as much as ReTux. :)
+[2015/11/19 14:36:08] <onpon4> Or, at least, some of them would. Not sure about the last three.
+[2015/11/19 14:36:14] <brmbrmcar> Is reTux even legal? It could be classed as commercial,as it in theory costs money.
+[2015/11/19 14:36:17] <Karkus> Oh, okay. Have you checked all the licenses and that out to make sure you aren't doing anything wrong? In the end, those assets aren't yours.
+[2015/11/19 14:36:35] <onpon4> brmbrmcar: Yes, it's commercial. The GNU GPL allows commercial use.
+[2015/11/19 14:36:38] <Karkus> brmrbrmcar: It depends on the assets
+[2015/11/19 14:37:11] <brmbrmcar> OK.
+[2015/11/19 14:37:18] <Karkus> onpon4: I don't think the graphics are under GPL. I might be wrong
+[2015/11/19 14:37:26] <maths22> I have tried to work this through before, but basically the GPL is not very relevant to graphics/data assets
+[2015/11/19 14:37:39] <maths22> This is why we use a CC-BY-SA license
+[2015/11/19 14:37:48] <onpon4> That they're under the GNU GPL is the consensus I got when I asked previously.
+[2015/11/19 14:37:50] <Karkus> maths22: Thought so
+[2015/11/19 14:37:53] <head8debian> Tobbi: Whats that mean? o_O
+[2015/11/19 14:38:07] <Tobbi> head8debian: Unit test = tests for a couple of functions.
+[2015/11/19 14:38:09] <head8debian> Tobbi: Well, i *could* work on the filenames for the forest world if i knew how.
+[2015/11/19 14:38:19] <Tobbi> head8debian: Just rename the files and update worldmap.stwm
+[2015/11/19 14:38:34] <head8debian> Tobbi: Oh. So they match in-game?
+[2015/11/19 14:38:51] <Karkus> onpon4: Well it seems they aren't
+[2015/11/19 14:38:53] <head8debian> in-game filenames*
+[2015/11/19 14:38:55] <Tobbi> head8debian: huh? We are only talking about the filenames...
+[2015/11/19 14:39:02] <Tobbi> head8debian: What do you mean by that_
+[2015/11/19 14:39:08] <onpon4> Also here: http://forum.freegamedev.net/viewtopic.php?f=68&t=6631&sid=d4a94fecbf89f594e6e4128d8fd11227#p66510
+[2015/11/19 14:39:08] <Tobbi> By "in game filenames"?
+[2015/11/19 14:39:47] <head8debian> Tobbi: Do i need to rename the actual physical filename of the game file, or what the name of the level appears to be in the game?
+[2015/11/19 14:39:56] <Karkus> Tobbi: What license are the assets under?
+[2015/11/19 14:40:00] <head8debian> I don't know how to put it simpler than that.
+[2015/11/19 14:40:18] <Tobbi> head8debian: Rename the .stl file and change the reference in the stwm file.
+[2015/11/19 14:40:25] <Tobbi> makes sense?
+[2015/11/19 14:40:34] <onpon4> But if it's true that SuperTux's graphics are not under the GNU GPL, then they are *proprietary*, because no file indicates any other license. And that would make SuperTux unfit for inclusion in Debian, meaning you have to replace *all* the graphics.
+[2015/11/19 14:40:49] <Tobbi> Karkus: That's a good question... I'd say they are under the GPL...
+[2015/11/19 14:40:50] <onpon4> I don't think that's the case.
+[2015/11/19 14:41:02] <Tobbi> I don't have other information, but let me look.
+[2015/11/19 14:41:08] <head8debian> Tobbi: Yes.
+[2015/11/19 14:41:51] <Karkus> onpon4: Proprietary != not GPL though
+[2015/11/19 14:42:47] <Karkus> onpon4: I thought proprietary was a code term anyway
+[2015/11/19 14:42:56] <onpon4> Karkus: If no license is specified, proprietary is the default. The only possible license I see that can apply to SuperTux's graphics is the GNU GPL, and it looks to me like that was the intention of the artists.
+[2015/11/19 14:43:14] <onpon4> Karkus: Culture can be libre or proprietary, too.
+[2015/11/19 14:43:46] <Karkus> Hmm I guess it can
+[2015/11/19 14:43:57] <Tobbi> Karkus: Only thing I can find is https://github.com/SuperTux/supertux/blob/master/data/AUTHORS
+[2015/11/19 14:44:48] <maths22> onpon4: They are some combination of GPL and CC-BY-SA
+[2015/11/19 14:45:00] <maths22> grumbel: what do you believe your images are licensed as?
