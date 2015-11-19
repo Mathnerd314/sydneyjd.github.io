@@ -7877,3 +7877,15 @@
 [2015/11/19 16:59:15] <head8debian> Tobbi: It seems there are some more levels in /world2 than we are using...
 [2015/11/19 16:59:23] <Tobbi> Yup...
 [2015/11/19 16:59:29] <head8debian> Tobbi: Should we?
+[2015/11/19 17:00:06] <Tobbi> head8debian: huh? What?
+[2015/11/19 17:00:52] <head8debian> Tobbi: Should we add these odd levels to the worldmap?
+[2015/11/19 17:01:02] <Tobbi> head8debian: Which ones are they?
+[2015/11/19 17:03:18] <head8debian> castle, christophD,forest1-grumbel,Mtn Pass, village.
+[2015/11/19 17:03:28] <head8debian> I think there is one more, but anyways.
+[2015/11/19 17:04:34] <head8debian> Tobbi: There must be a reason they are left out though.
+[2015/11/19 17:04:50] <head8debian> Im done renaming.
+[2015/11/19 17:04:54] <Tobbi> Okay...
+[2015/11/19 17:05:00] <Tobbi> head8debian: Good, pull request please.
+[2015/11/19 17:05:00] <head8debian> Now if someone would be willing to test.
+[2015/11/19 17:10:01] <head8debian> Tobbi: Ok, so i have one additional file that i accedentally "git add"ed. How do i un-git-add it?
+[2015/11/19 17:10:38] <Tobbi> head8debian: one moment, please.
