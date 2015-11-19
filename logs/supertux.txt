@@ -7171,3 +7171,7 @@
 [2015/11/18 21:27:05] @ irungentoo joined channel #supertux
 [2015/11/18 21:30:20] @ gynter joined channel #supertux
 [2015/11/18 21:38:52] <head8debian> Odd internet today...
+[2015/11/18 22:04:36] @ Quit: nerdopolis: Read error: Connection reset by peer
+[2015/11/18 22:05:21] @ nerdopolis_ joined channel #supertux
+[2015/11/18 22:11:38] @ datahead8888 joined channel #supertux
+[2015/11/18 22:13:09] @ Quit: datahead7777: Ping timeout: 240 seconds
