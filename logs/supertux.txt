@@ -7155,3 +7155,17 @@
 [2015/11/18 20:37:02] @ swift110 joined channel #supertux
 [2015/11/18 20:42:52] @ leper` joined channel #supertux
 [2015/11/18 21:01:30] @ Quit: swift110: Ping timeout: 244 seconds
+[2015/11/18 21:15:06] @ Joined channel #supertux
+[2015/11/18 21:15:06] @ Topic is "Welcome to the SuperTux chat | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | ©häññèł łôǥ http://sydneyjd.github.io/logs/ | nightly builds http://brlcad.org/~maths22/supertux-nightly/"
+[2015/11/18 21:15:06] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-11-11 12:43:07 -0500
+[2015/11/18 21:15:11] @ Mode +nt by wilhelm.freenode.net
+[2015/11/18 21:20:44] @ Joined channel #supertux
+[2015/11/18 21:20:44] @ Topic is "Welcome to the SuperTux chat | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | ©häññèł łôǥ http://sydneyjd.github.io/logs/ | nightly builds http://brlcad.org/~maths22/supertux-nightly/"
+[2015/11/18 21:20:44] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-11-11 12:43:07 -0500
+[2015/11/18 21:20:49] @ Mode +nt by hitchcock.freenode.net
+[2015/11/18 21:26:01] @ Quit: head8debian: Ping timeout: 250 seconds
+[2015/11/18 21:26:04] @ Quit: irungentoo: Ping timeout: 250 seconds
+[2015/11/18 21:26:04] @ Quit: gynter: Ping timeout: 250 seconds
+[2015/11/18 21:26:55] @ tuxdev_ joined channel #supertux
+[2015/11/18 21:27:01] @ head8debian joined channel #supertux
+[2015/11/18 21:27:05] @ irungentoo joined channel #supertux
