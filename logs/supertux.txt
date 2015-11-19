@@ -7515,3 +7515,15 @@
 [2015/11/19 13:14:26] <Not-6fa5> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±2] 13http://git.io/v4ShY
 [2015/11/19 13:14:27] <Not-6fa5> [02supertux] 07Hume2 039a7366a - Weak block now uses ignite instead of kill_fall for chain reaction.
 [2015/11/19 13:14:30] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92101857
+[2015/11/19 13:15:11] <brmbrmcar> Hume2: It was a glitch?
+[2015/11/19 13:15:30] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92101857
+[2015/11/19 13:15:38] <Hume2> brmbrmcar: The glitch that caused Tux to pass trough the wall.
+[2015/11/19 13:16:41] <brmbrmcar> Ah.
+[2015/11/19 13:17:02] <brmbrmcar> I didn't realise4 it was a glitch.
+[2015/11/19 13:18:04] @ Quit: Karkus: Quit: Leaving
+[2015/11/19 13:20:55] @ alket joined channel #supertux
+[2015/11/19 13:22:47] @ Karkus joined channel #supertux
+[2015/11/19 13:29:18] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±4] 13http://git.io/v49Tk
+[2015/11/19 13:29:20] <Not-6fa5> [02supertux] 07Tobias Markus 0377e0d84 - [const correctness] Change 2 methods to const
+[2015/11/19 13:29:22] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92104888
+[2015/11/19 13:29:33] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92101857
