@@ -7889,3 +7889,17 @@
 [2015/11/19 17:05:00] <head8debian> Now if someone would be willing to test.
 [2015/11/19 17:10:01] <head8debian> Tobbi: Ok, so i have one additional file that i accedentally "git add"ed. How do i un-git-add it?
 [2015/11/19 17:10:38] <Tobbi> head8debian: one moment, please.
+[2015/11/19 17:15:01] <head8debian> Tobbi: o_O
+[2015/11/19 17:15:38] <head8debian> I should have picked these files one by one if i knew it was going to take this long.
+[2015/11/19 17:16:16] <head8debian> Tobbi: Ah! Got it.
+[2015/11/19 17:18:19] <head8debian> Uh oh... where is my worldmap!?
+[2015/11/19 17:19:43] <head8debian> NO!! NOOOOOOOOOOO!O!O!O!!!
+[2015/11/19 17:19:53] <head8debian> Where is my updated worldmap!!?!!?!?!!???
+[2015/11/19 17:20:05] <head8debian> You stupid editor! I hit the save button!
+[2015/11/19 17:20:12] <head8debian> Arg... :-/
+[2015/11/19 17:20:24] * head8debian cries...
+[2015/11/19 17:21:58] <Tobbi> :D
+[2015/11/19 17:22:05] <Tobbi> head8debian: But you have it, don't you?
+[2015/11/19 17:22:10] <Tobbi> In your repo somewhere?
+[2015/11/19 17:24:21] @ Quit: tux|dude: Read error: Connection reset by peer
+[2015/11/19 17:29:19] @ Quit: swift110: Ping timeout: 246 seconds
