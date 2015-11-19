@@ -7903,3 +7903,9 @@
 [2015/11/19 17:22:10] <Tobbi> In your repo somewhere?
 [2015/11/19 17:24:21] @ Quit: tux|dude: Read error: Connection reset by peer
 [2015/11/19 17:29:19] @ Quit: swift110: Ping timeout: 246 seconds
+[2015/11/19 17:31:17] <Tobbi> head8debian: So, I made some changes to the po files... someone needs to debrief giby about them once he gets back.
+[2015/11/19 17:38:11] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+1/-0/±3] 13http://git.io/v4HXc
+[2015/11/19 17:38:16] <Tobbi> So, let's see if this works.
+[2015/11/19 17:38:16] <Not-6fa5> [02supertux] 07Tobias Markus 031a2e019 - generate .pot files in the translations/ directory which is a submodule to the actual translation repository
+[2015/11/19 17:38:16] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92155038
+[2015/11/19 17:39:05] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92155038
