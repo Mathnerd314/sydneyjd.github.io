@@ -7845,3 +7845,23 @@
 [2015/11/19 16:29:42] <Karkus> idk
 [2015/11/19 16:29:47] <Karkus> some are about physics
 [2015/11/19 16:29:50] <Tobbi> oh...ok
+[2015/11/19 16:30:15] <Karkus> P = NP for example, was probably explained on Computerphile
+[2015/11/19 16:30:33] <head8debian> Tobbi: rubberduck...
+[2015/11/19 16:30:44] <Tobbi> head8debian: Oh, no, I didn't take a look at them...
+[2015/11/19 16:31:13] <Tobbi> Wait, I did...
+[2015/11/19 16:31:14] <Tobbi> long ago.
+[2015/11/19 16:31:19] <Tobbi> head8debian: Screenshot, please?
+[2015/11/19 16:31:55] <head8debian> Im busy...
+[2015/11/19 16:32:36] <Tobbi> ok
+[2015/11/19 16:34:05] <head8debian> Tobbi: Where are the visable names for the levels in game chosen?
+[2015/11/19 16:34:18] <Tobbi> head8debian: In the worldmap.stwm file, I believe.
+[2015/11/19 16:34:43] <Tobbi> No, wait.
+[2015/11/19 16:34:58] <Tobbi> head8debian: They are defined in the levels themselves.
+[2015/11/19 16:35:00] <Tobbi> so in the stl file.
+[2015/11/19 16:37:04] <head8debian> I see.
+[2015/11/19 16:37:23] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/19 16:41:04] @ Quit: alket: Quit: I've decided to call him Norbert. He really knows me now, watch. Norbert! Where's Mummy?
+[2015/11/19 16:41:22] <head8debian> Tobbi: I have .pot files everywhere. :p
+[2015/11/19 16:41:30] <Tobbi> head8debian: Exactly! same here.
+[2015/11/19 16:41:35] <Tobbi> I don't know what to do with those, though.
+[2015/11/19 16:42:19] <Tobbi> oh, wait...
