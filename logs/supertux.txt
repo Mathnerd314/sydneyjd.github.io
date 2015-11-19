@@ -7927,3 +7927,8 @@
 [2015/11/19 18:27:28] <head8debian> Tobbi: I cannot understand why my worldmap didn't get saved... I clicked the save butten multiple times.
 [2015/11/19 18:27:41] <head8debian> button*
 [2015/11/19 18:29:03] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/11/19 18:30:58] <Tobbi> head8debian: I got more pressing problems right now.
+[2015/11/19 18:31:04] <Tobbi> git submodule isn't being added.
+[2015/11/19 18:31:04] <head8debian> Tobbi: :D
+[2015/11/19 18:31:13] <head8debian> Ouch.
+[2015/11/19 18:31:56] <head8debian> Well, i will let you work on that. I have other things to do atm. Have a good evening and hopefully you can get it fixed. :-)
