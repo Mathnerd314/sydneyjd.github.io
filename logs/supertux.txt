@@ -7791,3 +7791,57 @@
 [2015/11/19 16:14:20] <brmbrmcar> Who the hell are the NSA?
 [2015/11/19 16:14:43] <Tobbi> brmbrmcar: We don't really know them, but they know all of you
 [2015/11/19 16:14:44] <Tobbi> :P
+[2015/11/19 16:15:19] <Tobbi> Wait, didn't he want to give us a free copy?
+[2015/11/19 16:15:29] <brmbrmcar> Er...
+[2015/11/19 16:17:00] <Tobbi> Doesn't matter...
+[2015/11/19 16:17:55] <Karkus> Tobbi: He will give you a free copy if you give him a free $20
+[2015/11/19 16:18:01] <Tobbi> git repository http://techno-outlet.eu/index.php?q=aHR0cDovL3d3dy50ZWNobm8tb3V0bGV0LmV1L2luZGV4LnBocD9xPWFIUjBjSE02THk5cWVITmxiR1l1YjNKbkwyZHBkQzhfY0QxeVpYUjFlQzVuYVhRN1lUMXpkVzF0WVhKNQ
+[2015/11/19 16:18:04] <brmbrmcar> http://downloads.sourceforge.net/project/sevenzcracker/V0.01/7zcracker_src.zip?r=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fsevenzcracker%2F&ts=1447967716&use_mirror=freefr only works for windows
+[2015/11/19 16:18:16] <Tobbi> brmbrmcar: There's a nice tool called wine.
+[2015/11/19 16:18:30] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92134753
+[2015/11/19 16:19:16] <brmbrmcar> Tobbi: I know, but the file are just C
+[2015/11/19 16:19:21] <brmbrmcar> Or C++
+[2015/11/19 16:19:31] <Tobbi> hmm...
+[2015/11/19 16:19:57] <Karkus> Where did you find this brmbrmcar?
+[2015/11/19 16:20:38] <brmbrmcar> The power of the internet search engines.
+[2015/11/19 16:21:30] <brmbrmcar> #include <windows.h>
+[2015/11/19 16:22:05] <Karkus> Tobbi: I reckon the NSA have figured that NP = P
+[2015/11/19 16:22:11] <Tobbi> Karkus: Certainly :D
+[2015/11/19 16:22:19] <Tobbi> P = NP problem..gosh.
+[2015/11/19 16:22:29] <Karkus> Tobbi: So, we're doomed, right?
+[2015/11/19 16:22:32] <Tobbi> Karkus: NSA also found out non-trivial zeroes of the riemann zeta function...
+[2015/11/19 16:22:37] <Tobbi> Karkus: yup, we are.
+[2015/11/19 16:22:56] <Tobbi> I'm downloading the retux source right now...
+[2015/11/19 16:23:01] <Karkus> Tobbi: I've heard of that :D
+[2015/11/19 16:23:03] <Tobbi> And I'm gonna try it.
+[2015/11/19 16:23:23] <Tobbi> Karkus: https://www.youtube.com/watch?v=d6c6uIyieoo
+[2015/11/19 16:23:44] <Tobbi> Karkus: I am not sure whether it's just a coincidence, but I e-mailed numberphile and suggested they do Million Dollar Problems :P
+[2015/11/19 16:23:50] <Tobbi> some 3 weeks before they released it.
+[2015/11/19 16:23:54] <Karkus> Tobbi: And that's the video that taught me. Now to learn it again
+[2015/11/19 16:23:58] <Tobbi> :P
+[2015/11/19 16:25:04] <Karkus> Tobbi: Did you know the two people who've managed to win the million pounds both turned it down?
+[2015/11/19 16:25:28] <Tobbi> Karkus: I know one of them...The guy who went to live in the rainforest(?)
+[2015/11/19 16:25:33] <Tobbi> Let me check.
+[2015/11/19 16:25:39] <Karkus> 'know'?
+[2015/11/19 16:25:50] <Tobbi> Grigori Perelman
+[2015/11/19 16:25:59] <Tobbi> Karkus: I mean: I knew the name.
+[2015/11/19 16:26:03] <Tobbi> Or heard of that guy.
+[2015/11/19 16:26:17] <Karkus> Tobbi: Okay
+[2015/11/19 16:26:55] <Karkus> Tobbi: maybe it's only one that's been completed...
+[2015/11/19 16:26:57] <Karkus> Let me check
+[2015/11/19 16:26:59] <head8debian> Tobbi: Did you get anywhere with ducky levels?
+[2015/11/19 16:27:03] <head8debian> ;p
+[2015/11/19 16:27:06] <Tobbi> head8debian: ducky levels?
+[2015/11/19 16:27:44] <Karkus> Tobbi: I was wrong. Only one has been done.
+[2015/11/19 16:27:51] <Tobbi> Ah, okay...
+[2015/11/19 16:29:01] <Tobbi> Karkus: I wished numberphile would explain more of the millennium problems...
+[2015/11/19 16:29:13] <Tobbi> Maybe I should write them again.
+[2015/11/19 16:29:19] <Karkus> Tobbi: Just in case the answer pops into your head?
+[2015/11/19 16:29:23] <Tobbi> Actually, maybe the others are not that easily explainable...
+[2015/11/19 16:29:28] <Karkus> Probably
+[2015/11/19 16:29:29] <Tobbi> Karkus: It's interesting to think about that stuff.
+[2015/11/19 16:29:34] <Karkus> and not maths related
+[2015/11/19 16:29:40] <Karkus> very
+[2015/11/19 16:29:42] <Karkus> idk
+[2015/11/19 16:29:47] <Karkus> some are about physics
+[2015/11/19 16:29:50] <Tobbi> oh...ok
