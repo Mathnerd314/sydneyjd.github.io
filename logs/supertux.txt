@@ -7149,3 +7149,8 @@
 [2015/11/18 20:26:05] @ swift110 joined channel #supertux
 [2015/11/18 20:26:05] @ Quit: swift110: Changing host
 [2015/11/18 20:26:05] @ swift110 joined channel #supertux
+[2015/11/18 20:35:23] @ Quit: swift110: Remote host closed the connection
+[2015/11/18 20:36:27] @ swift110 joined channel #supertux
+[2015/11/18 20:37:02] @ Quit: swift110: Changing host
+[2015/11/18 20:37:02] @ swift110 joined channel #supertux
+[2015/11/18 20:42:52] @ leper` joined channel #supertux
