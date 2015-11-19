@@ -7709,3 +7709,24 @@
 [2015/11/19 15:42:25] <Karkus> Tobbi: Hmm.
 [2015/11/19 15:44:17] <Karkus> Tobbi: Since there's a disagreement, for 0.4.0 we'll leave it how it is. Now let me try resetting to main menu...
 [2015/11/19 15:44:23] <Tobbi> Sure.
+[2015/11/19 15:45:05] <Tobbi> Karkus: I mean: Both is possible. Localizations can be included in the addon's zip file or in a specific langpack add-on...
+[2015/11/19 15:45:12] <Tobbi> Just a matter of what we actually do.
+[2015/11/19 15:45:49] <Karkus> Tobbi: Oh. I didn't know that already worked...
+[2015/11/19 15:46:02] <Tobbi> I think I fixed that a while ago.
+[2015/11/19 15:46:04] <Tobbi> let me check
+[2015/11/19 15:46:48] <Tobbi> https://github.com/SuperTux/supertux/commit/04a3411b238608ac8deeaf32310e81c185b3fdc4
+[2015/11/19 15:46:50] <Tobbi> :P
+[2015/11/19 15:46:52] <Tobbi> Small commit.
+[2015/11/19 15:47:27] @ Quit: Hume2: Quit: Page closed
+[2015/11/19 15:48:09] <Karkus> Tobbi: Right, now I understand. Sorry ):
+[2015/11/19 15:48:14] <Tobbi> Karkus: No problem.
+[2015/11/19 15:54:55] @ tux|dude joined channel #supertux
+[2015/11/19 15:55:22] <Karkus> Tobbi: Currently, are the translations being removed when the addon is disabled? Or just not loaded on startup?
+[2015/11/19 15:56:04] <Tobbi> Karkus: If an add-on is disabled, the cache gets invalidated which triggers tinygettext to fetch the latest translation upon calling _("some string")
+[2015/11/19 15:56:41] <Tobbi> I *believe* the problem is that this never happens, though...that _() is called again.
+[2015/11/19 15:57:02] <Karkus> Tobbi: So, something to do with Tinygettext?
+[2015/11/19 15:57:02] <Tobbi> "_" is the name of the translation function.
+[2015/11/19 15:57:20] <Tobbi> Karkus: I am not sure...possibly something to do with how we load strings.
+[2015/11/19 15:57:21] <Karkus> Tobbi: Yeah, I've seen this before
+[2015/11/19 15:58:51] <Karkus> Tobbi: How does invalidating the cache work?
+[2015/11/19 15:59:57] <Tobbi> one moment
