@@ -8162,3 +8162,12 @@
 [2015/11/20 07:26:03] <Tobbi> relieve
 [2015/11/20 07:28:57] <Tobbi> giby: You update the credits for translators manually, don't you?
 [2015/11/20 07:29:36] <giby> yes
+[2015/11/20 07:30:16] <Tobbi> Okay...
+[2015/11/20 07:30:59] <giby> sort by alphabetical of last name ;)
+[2015/11/20 07:32:39] <Tobbi> giby: Sounds good. Since there's no script, I'll let you do it ;)
+[2015/11/20 07:32:51] <Tobbi> I might develop a script to create language add-ons.
+[2015/11/20 07:32:55] <Tobbi> Should best happen before the release
+[2015/11/20 07:36:02] <giby> ;)
+[2015/11/20 07:37:15] <Tobbi> giby: So, what's your workflow in updating translations? You use the transifex client to fetch translations from there...and then?
+[2015/11/20 07:37:55] <giby> use tx to download in the repo.. then commit and push
+[2015/11/20 07:38:15] <Tobbi> giby: So, you download the .po files from there...then move them in the right place?
