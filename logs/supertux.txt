@@ -8447,3 +8447,6 @@
 [2015/11/20 15:00:44] <Hume2> Bye!
 [2015/11/20 15:00:46] @ Quit: Hume2: Quit: Page closed
 [2015/11/20 15:07:07] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/20 15:16:01] @ Quit: alket: Quit: I've decided to call him Norbert. He really knows me now, watch. Norbert! Where's Mummy?
+[2015/11/20 15:16:43] @ alket joined channel #supertux
+[2015/11/20 15:29:31] @ brmbrmcar joined channel #supertux
