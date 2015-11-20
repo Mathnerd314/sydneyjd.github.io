@@ -8107,3 +8107,58 @@
 [2015/11/20 06:55:15] @ Mode +o Tobbi by ChanServ
 [2015/11/20 07:14:07] @ giby joined channel #supertux
 [2015/11/20 07:14:07] @ Mode +o giby by ChanServ
+[2015/11/20 07:15:39] <Tobbi> Hello giby
+[2015/11/20 07:15:53] <giby> Hi Tobbi
+[2015/11/20 07:16:02] <giby> how long B4 M2?
+[2015/11/20 07:16:10] <Tobbi> giby: approximately 1 month.
+[2015/11/20 07:16:12] <giby> I should update the translations
+[2015/11/20 07:16:16] <Tobbi> giby: I just did.
+[2015/11/20 07:16:22] <giby> thanks
+[2015/11/20 07:16:28] <Tobbi> giby: So, I changed the translations to update automatically from a repository...
+[2015/11/20 07:16:39] <Tobbi> which is this one: https://github.com/SuperTux/translations
+[2015/11/20 07:16:55] <Tobbi> giby: In order to change the translations, you run makepot.sh which I modified yesterday...
+[2015/11/20 07:17:05] <Tobbi> And then commit and push the changed translations.
+[2015/11/20 07:17:10] <Tobbi> I hope this works for you.
+[2015/11/20 07:17:17] <giby> that is just the pot...
+[2015/11/20 07:17:24] <Tobbi> giby: It can import these automatically...
+[2015/11/20 07:17:27] <Tobbi> Transifex I mean.
+[2015/11/20 07:17:38] <Tobbi> Ah, yes, not the translations, but the template files.
+[2015/11/20 07:17:41] <Tobbi> I am talking about those.
+[2015/11/20 07:17:50] <giby> I know with the transfix client
+[2015/11/20 07:18:00] <giby> have you updated the po files?
+[2015/11/20 07:18:14] <Tobbi> giby: Which ones?
+[2015/11/20 07:18:22] <giby> all...
+[2015/11/20 07:18:33] <Tobbi> giby: No, I haven't. How do you update those?
+[2015/11/20 07:18:50] <giby> Ok, I'll do it then ;)
+[2015/11/20 07:19:00] <Tobbi> giby: So, I assume you have that transifex python client?
+[2015/11/20 07:19:17] <giby> it just need the transfix client, tx pull then commit and push
+[2015/11/20 07:19:28] <Tobbi> giby: Shouldn't we wait until just before the milestone to update them?
+[2015/11/20 07:19:50] <Tobbi> or what's the catch?
+[2015/11/20 07:20:08] <giby> We should do it just before, but some push before are also welcome
+[2015/11/20 07:20:23] <Tobbi> giby: Of course. :)
+[2015/11/20 07:20:37] <Tobbi> giby: And how do you normally update the translations on transifex? Before I did that change?
+[2015/11/20 07:20:55] <giby> for the pot files?
+[2015/11/20 07:21:00] <Tobbi> giby: Yes.
+[2015/11/20 07:21:12] <giby> I add them manually, there are just few of them
+[2015/11/20 07:21:32] <Tobbi> giby: If we add new worlds, no. :P So, please just push the changes to the translations repository.
+[2015/11/20 07:21:52] <Tobbi> It's a submodule in the addons repository as well as the normal game repositoy.
+[2015/11/20 07:21:55] <Tobbi> *repository
+[2015/11/20 07:22:00] <Tobbi> hope you know how that works...
+[2015/11/20 07:22:06] <Tobbi> If not, just ask me.
+[2015/11/20 07:22:46] <giby> If I need I'll do
+[2015/11/20 07:23:12] <giby> Have you already update on the transfix website?
+[2015/11/20 07:23:21] <Tobbi> giby: It updates them automatically now.
+[2015/11/20 07:23:27] <giby> ok
+[2015/11/20 07:23:29] <Tobbi> From the repository here: https://github.com/SuperTux/translations
+[2015/11/20 07:23:37] <Tobbi> Those are the pot files.
+[2015/11/20 07:24:01] <Tobbi> giby: Plus, I made an announcement yesterday on transifex that the release is in 1 month.
+[2015/11/20 07:24:19] <giby> :)
+[2015/11/20 07:24:35] <Tobbi> Aka https://www.transifex.com/arctic-games/supertux/announcements/4818/
+[2015/11/20 07:25:19] <Tobbi> giby: So, once again, remember not to update translations on transifex using the web interface, but using the repository. Otherwise, it MIGHT corrupt translations.
+[2015/11/20 07:25:40] <giby> Ok
+[2015/11/20 07:25:43] <Tobbi> Sorry for being extra paranoid about this.
+[2015/11/20 07:25:56] <Tobbi> I was afraid something might break yesterday by auto-updating from pot files,
+[2015/11/20 07:26:02] <Tobbi> but it worked just fine, what a realive.
+[2015/11/20 07:26:03] <Tobbi> relieve
+[2015/11/20 07:28:57] <Tobbi> giby: You update the credits for translators manually, don't you?
+[2015/11/20 07:29:36] <giby> yes
