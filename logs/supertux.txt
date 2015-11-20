@@ -8450,3 +8450,4 @@
 [2015/11/20 15:16:01] @ Quit: alket: Quit: I've decided to call him Norbert. He really knows me now, watch. Norbert! Where's Mummy?
 [2015/11/20 15:16:43] @ alket joined channel #supertux
 [2015/11/20 15:29:31] @ brmbrmcar joined channel #supertux
+[2015/11/20 15:46:05] @ Quit: alket: Quit: I've decided to call him Norbert. He really knows me now, watch. Norbert! Where's Mummy?
