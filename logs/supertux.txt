@@ -8203,3 +8203,6 @@
 [2015/11/20 08:12:07] <Tobbi> huh?
 [2015/11/20 08:12:09] <Tobbi> :P
 [2015/11/20 08:12:50] <Tobbi> never mind...
+[2015/11/20 08:34:42] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/20 08:36:48] <head8debian> Odd, Every morning at 7:23 github emails me telling me that my page failed to build.
+[2015/11/20 08:39:51] <head8debian> o_O
