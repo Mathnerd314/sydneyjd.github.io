@@ -8285,3 +8285,19 @@
 [2015/11/20 11:43:49] <brmbrmcar> Is it done?
 [2015/11/20 11:43:59] <head8debian> brmbrmcar: /me my test.
 [2015/11/20 11:44:29] * brmbrmcar my test
+[2015/11/20 11:45:05] <head8debian> Tobbi: :p
+[2015/11/20 11:45:10] <head8debian> Tobbi: Thats brm. :)
+[2015/11/20 11:45:28] <Tobbi> typical.
+[2015/11/20 11:46:39] <brmbrmcar>  /describe does nothing.
+[2015/11/20 11:46:48] <Tobbi> why would it?
+[2015/11/20 11:48:33] @ Quit: brmbrmcar: Quit: Lost terminal
+[2015/11/20 11:48:49] <Tobbi> oh no! I lost my terminal, how am I gonna find it?
+[2015/11/20 11:48:56] <head8debian> Fun... :p
+[2015/11/20 11:49:12] <head8debian> He must have closed his terminal.
+[2015/11/20 11:49:27] @ brmbrmcar joined channel #supertux
+[2015/11/20 11:49:54] <Tobbi> Yes.
+[2015/11/20 11:49:58] * brmbrmcar head8debian has been learning brm.
+[2015/11/20 11:50:37] <Tobbi> head8debian: You shouldn't show him advanced IRC features like these... It just increases his playfulness (which results in useless spamming)
+[2015/11/20 11:52:19] * brmbrmcar Tobbi wants me to stop, so I shall.
+[2015/11/20 11:52:32] <brmbrmcar> OK.
+[2015/11/20 11:56:00] <brmbrmcar> I hate the new Github design.
