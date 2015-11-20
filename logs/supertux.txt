@@ -8082,3 +8082,4 @@
 [2015/11/19 21:03:30] <Tobbi> Anyway, good night
 [2015/11/19 21:03:35] <head8debian> :-)
 [2015/11/19 21:05:14] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/19 22:21:33] @ Mathnerd314 joined channel #supertux
