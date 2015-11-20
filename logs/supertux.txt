@@ -8301,3 +8301,39 @@
 [2015/11/20 11:52:19] * brmbrmcar Tobbi wants me to stop, so I shall.
 [2015/11/20 11:52:32] <brmbrmcar> OK.
 [2015/11/20 11:56:00] <brmbrmcar> I hate the new Github design.
+[2015/11/20 12:01:08] <Tobbi> I like it...
+[2015/11/20 12:01:10] <Tobbi> more or less..
+[2015/11/20 12:01:37] <brmbrmcar> I will get used to it.
+[2015/11/20 12:02:57] <head8debian> I like it also. :)
+[2015/11/20 12:03:07] <brmbrmcar> Why does it say the fish was first introduced in Milestone 2?
+[2015/11/20 12:03:12] <head8debian> If only it wasn't so javascripty...
+[2015/11/20 12:03:27] <head8debian> brmbrmcar: M1 didn't have fishys.
+[2015/11/20 12:03:36] <brmbrmcar> Yes, it does.
+[2015/11/20 12:04:38] <brmbrmcar> What's wrong with javascript?#
+[2015/11/20 12:05:20] @ giby_the_kid joined channel #supertux
+[2015/11/20 12:05:25] @ Mode +o giby_the_kid by ChanServ
+[2015/11/20 12:05:30] <brmbrmcar> I didn't close my terminal; crouton crashed.
+[2015/11/20 12:05:34] <head8debian> Nothing, except when website are made totally with it.
+[2015/11/20 12:05:50] <head8debian> Tobbi: Wow, we ask for giby and he shows up. :-)
+[2015/11/20 12:06:00] <Tobbi> Did we?
+[2015/11/20 12:06:10] <head8debian> Good afternoon giby_the_kid.
+[2015/11/20 12:07:36] <Tobbi> head8debian: Did we ask for gi.by
+[2015/11/20 12:07:38] <Tobbi> ?
+[2015/11/20 12:07:49] <Tobbi> Is there something I've forgotten.
+[2015/11/20 12:09:04] <head8debian> Tobbi: Yesterday...
+[2015/11/20 12:09:09] <Tobbi> Right...
+[2015/11/20 12:09:32] <Tobbi> head8debian: But it's all okay now :P Translations are updated etc...
+[2015/11/20 12:09:47] <head8debian> Tobbi: :D
+[2015/11/20 12:10:52] <Tobbi> head8debian: So, our release date is the 20th now, right?
+[2015/11/20 12:10:55] <Tobbi> Fixed release date.
+[2015/11/20 12:11:37] <head8debian> Tobbi: Sure.
+[2015/11/20 12:11:41] <Tobbi> Good!
+[2015/11/20 12:11:44] <Tobbi> So that's settled.
+[2015/11/20 12:12:58] <head8debian> Tobbi: So pretty much everything is done then?
+[2015/11/20 12:13:19] <head8debian> Unless we need to change our config to support the latest OpenAL. :D
+[2015/11/20 12:13:47] <Tobbi> head8debian: I don't know, yet. I'd love to have langpacks automatically download when people select a language...but not sure if that's possible.
+[2015/11/20 12:14:03] <Tobbi> And not sure whether that wouldn't cause problems.
+[2015/11/20 12:14:09] <head8debian> That would be nice. How do we do it currently?
+[2015/11/20 12:14:21] <Tobbi> head8debian: You download langpacks manually through the add-on manager.
+[2015/11/20 12:14:36] <head8debian> Ah.
+[2015/11/20 12:14:45] <head8debian> Well, that isn't extremely hard then.
