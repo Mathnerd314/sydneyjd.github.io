@@ -8043,3 +8043,27 @@
 [2015/11/19 20:39:20] <Tobbi> head8debian: check git help bisect
 [2015/11/19 20:42:47] <head8debian> hmm.
 [2015/11/19 20:44:21] * head8debian is confused...
+[2015/11/19 20:45:09] <Tobbi> What's the problem?
+[2015/11/19 20:45:15] <head8debian> Nothing now.
+[2015/11/19 20:46:12] <Tobbi> ok
+[2015/11/19 20:48:03] <Tobbi> head8debian: So, let's just hope that the source files will update tomorrow. If they don't...well...
+[2015/11/19 20:49:29] <head8debian> Tobbi: Undo commit time. :D :p
+[2015/11/19 20:49:36] <Tobbi> :D
+[2015/11/19 20:49:44] <head8debian> Everyone panic and call Tobbi! :p
+[2015/11/19 20:49:55] <Tobbi> nope, please don't.
+[2015/11/19 20:51:33] <head8debian> Tobbi: :-0
+[2015/11/19 20:51:34] <head8debian> )*
+[2015/11/19 20:53:20] <Tobbi> head8debian: Can you also update the website to include the supertux editor tutorials written by that guy?
+[2015/11/19 20:53:23] <head8debian> Tobbi: Must be local. I went back 80 commits and still had the issue.
+[2015/11/19 20:53:30] <Tobbi> ok
+[2015/11/19 20:53:37] <head8debian> If i get around to it
+[2015/11/19 20:54:26] <Tobbi> head8debian: "By the way, you may want to add this link to your wiki for the Level Editor - http://dcjtech.info/topic/gaming/#supertux"
+[2015/11/19 20:55:21] <head8debian> Tobbi: Yes, i know. :-)
+[2015/11/19 20:55:40] <head8debian> Tobbi: I was hoping to make a supetux video but havent gotten that far, and now i have no audio... o_O
+[2015/11/19 20:55:52] <head8debian> Tobbi: Anyways, i bid you goodnight.
+[2015/11/19 20:55:54] <Tobbi> head8debian: Ask on the openal mailing list...
+[2015/11/19 20:57:05] <head8debian> Tobbi: Another mailing list? :p
+[2015/11/19 20:57:11] <head8debian> yahoo...
+[2015/11/19 20:57:39] <Tobbi> head8debian: https://openal.org/mailman/listinfo/openal
+[2015/11/19 20:58:05] <head8debian> Tobbi: I guess that is why i use email filters.
+[2015/11/19 20:58:10] <Tobbi> head8debian: What openal version do you use anyway?
