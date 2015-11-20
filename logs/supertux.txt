@@ -8442,3 +8442,5 @@
 [2015/11/20 14:23:33] <Hume2> :)
 [2015/11/20 14:23:52] <Hume2> Never mind.
 [2015/11/20 14:26:40] @ Quit: claymore2: Quit: Leaving
+[2015/11/20 14:41:02] <Hume2> Want to see Hume2 grumbles? https://github.com/Hume2/supertux/wiki/Hume2-home#random-ideas
+[2015/11/20 14:42:36] <brmbrmcar> Hmm...
