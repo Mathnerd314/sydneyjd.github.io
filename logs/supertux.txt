@@ -8206,3 +8206,6 @@
 [2015/11/20 08:34:42] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/20 08:36:48] <head8debian> Odd, Every morning at 7:23 github emails me telling me that my page failed to build.
 [2015/11/20 08:39:51] <head8debian> o_O
+[2015/11/20 09:06:02] @ Tobbi joined channel #supertux
+[2015/11/20 09:06:02] @ Mode +o Tobbi by ChanServ
+[2015/11/20 09:06:45] <Tobbi> head8debian: I'd not say that this is odd...It's more of an even kind of thing.
