@@ -8103,3 +8103,5 @@
 [2015/11/20 05:27:17] <Tobbi> yes! Updating resources using Transifex worked like a charm.
 [2015/11/20 05:32:08] <Tobbi> Unfortunately, many strings appear changed.
 [2015/11/20 06:21:16] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/20 06:55:15] @ Tobbi joined channel #supertux
+[2015/11/20 06:55:15] @ Mode +o Tobbi by ChanServ
