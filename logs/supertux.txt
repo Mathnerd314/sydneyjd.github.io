@@ -8756,3 +8756,50 @@
 [2015/11/20 17:42:39] <Tobbi> Elaborate on that, please.
 [2015/11/20 17:44:04] <brmbrmcar> I am confused.
 [2015/11/20 17:44:06] <brmbrmcar> Yes.
+[2015/11/20 17:45:20] <Tobbi> brmbrmcar: What is control? Assuming you refused to eat and drink...are you in control of staying alive?
+[2015/11/20 17:46:45] <brmbrmcar> Yes.
+[2015/11/20 17:46:57] <Tobbi> brmbrmcar: How, if you refused to eat and drink?
+[2015/11/20 17:47:23] <brmbrmcar> Don't refuse?
+[2015/11/20 17:47:33] <brmbrmcar> If you couldn't then no.
+[2015/11/20 17:48:13] <red_bot> Delay note from 'head8debian' written on 11-20-15 at 17:22PM "I will be back around 10PM tonight, sorry to have to run so fast".
+[2015/11/20 17:48:30] <Tobbi> brmbrmcar: But, wait, you said that you are in total control...
+[2015/11/20 17:48:44] <brmbrmcar> Not of death.
+[2015/11/20 17:48:58] <brmbrmcar> I am not thinking religously.
+[2015/11/20 17:49:49] <Tobbi> brmbrmcar: Total control would mean being objective regarding everything right? Because otherwise, your control would be biased...
+[2015/11/20 17:49:57] <Tobbi> And thus you wouldn't have total unbiased control...
+[2015/11/20 17:50:11] <Tobbi> However, humans are never unbiased.
+[2015/11/20 17:50:20] <Tobbi> Our bias is what separates us from machines.
+[2015/11/20 17:50:32] <brmbrmcar> Control generally.
+[2015/11/20 17:50:48] <brmbrmcar> A machine has no soul.
+[2015/11/20 17:51:01] <brmbrmcar> Apart from robots.
+[2015/11/20 17:51:16] <Tobbi> brmbrmcar: Control is only control when you're equally likely to do certain things.
+[2015/11/20 17:51:30] <Tobbi> In my opinion.
+[2015/11/20 17:51:59] <Tobbi> Control is when you have equal, unbiased choices that you can take.
+[2015/11/20 17:52:02] <Tobbi> But life isn't like that.
+[2015/11/20 17:52:10] <brmbrmcar> But you are choosing to type now!
+[2015/11/20 17:52:16] <brmbrmcar> That is control.
+[2015/11/20 17:52:35] <Tobbi> brmbrmcar: hmm...
+[2015/11/20 17:53:13] <Tobbi> brmbrmcar: assuming I decided to kill a person earlier, and I am now in jail... And I chose to go home...
+[2015/11/20 17:53:24] <Tobbi> I would have no way...
+[2015/11/20 17:53:38] <Tobbi> Thus, I am not in total control.
+[2015/11/20 17:53:42] <brmbrmcar> Yes, that is more physical.
+[2015/11/20 17:53:50] <Tobbi> brmbrmcar: Physical?
+[2015/11/20 17:53:53] <brmbrmcar> Your body cannot do it.
+[2015/11/20 17:54:06] <brmbrmcar> Your hardware.
+[2015/11/20 17:54:17] <Tobbi> brmbrmcar: Where do you draw the line? Isn't control dependent on other factors as well?
+[2015/11/20 17:54:29] <Tobbi> On external factors, like society and the world around you?
+[2015/11/20 17:54:53] <brmbrmcar> External factors can be choice.
+[2015/11/20 17:55:13] <Tobbi> brmbrmcar: Even if choose to, I wouldn't be able to leave the prison...
+[2015/11/20 17:55:18] <Tobbi> Or get any girlfriend I wanted for that matter.
+[2015/11/20 17:55:23] <Tobbi> So choice is limited.
+[2015/11/20 17:55:42] <Tobbi> You don't become almighty only because you have a choice.
+[2015/11/20 17:56:05] <brmbrmcar> You can't write an operating system to make your computer waterproof.
+[2015/11/20 17:56:25] <Tobbi> brmbrmcar: So you're not in total control...
+[2015/11/20 17:56:30] <brmbrmcar> But you can make it play SuperTux.
+[2015/11/20 17:56:38] <Tobbi> Your choice is severely limited by external factors...
+[2015/11/20 17:56:44] <brmbrmcar> But it can't always hack.
+[2015/11/20 17:57:42] <brmbrmcar> That is my best explanation.
+[2015/11/20 17:58:08] <Tobbi> brmbrmcar: My point is: If your choice is limited by external factors, that means you're not in total control...
+[2015/11/20 17:59:10] <brmbrmcar> Exactly.
+[2015/11/20 17:59:32] <Tobbi> brmbrmcar: But that means you're not alive.
+[2015/11/20 18:00:01] <brmbrmcar> How?
