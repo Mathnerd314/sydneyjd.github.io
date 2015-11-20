@@ -7938,3 +7938,6 @@
 [2015/11/19 18:46:50] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92167769
 [2015/11/19 18:57:54] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92167769
 [2015/11/19 19:14:25] <Tobbi> Okay, so that's fixed.
+[2015/11/19 19:16:45] @ Quit: nerdopolis_: Quit: No Ping reply in 180 seconds.
+[2015/11/19 19:17:30] @ nerdopolis joined channel #supertux
+[2015/11/19 19:24:56] <Tobbi> head8debian: In any case: I notified the transifex contributors that we'll be releasing MS 2 very soon and that they please update their translations...
