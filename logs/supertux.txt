@@ -7932,3 +7932,8 @@
 [2015/11/19 18:31:04] <head8debian> Tobbi: :D
 [2015/11/19 18:31:13] <head8debian> Ouch.
 [2015/11/19 18:31:56] <head8debian> Well, i will let you work on that. I have other things to do atm. Have a good evening and hopefully you can get it fixed. :-)
+[2015/11/19 18:45:54] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±2] 13http://git.io/v4QT8
+[2015/11/19 18:45:55] <Not-6fa5> [02supertux] 07Tobias Markus 034d0fa3d - Change makepot.sh to point to submodule path
+[2015/11/19 18:45:57] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92167769
+[2015/11/19 18:46:50] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92167769
+[2015/11/19 18:57:54] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92167769
