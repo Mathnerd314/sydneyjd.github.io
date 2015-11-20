@@ -8192,3 +8192,14 @@
 [2015/11/20 07:58:50] <Tobbi> :P
 [2015/11/20 07:58:56] <Tobbi> Yeah, same here.
 [2015/11/20 07:59:18] <Tobbi> leyyin: But XUL based add-ons won't work any longer in Firefox. At least according to an announcement made by Mozilla a few months back.
+[2015/11/20 08:00:32] <leyyin> yes I know
+[2015/11/20 08:00:46] <leyyin> I hope they won't suck as much as the chrome extensions
+[2015/11/20 08:00:50] <leyyin> memory wise....
+[2015/11/20 08:01:16] <Tobbi> No idea.
+[2015/11/20 08:10:05] <Tobbi> leyyin: I once met a nice Romanian girl / woman during a Mozilla event. She had something quite beautiful about her... :P
+[2015/11/20 08:10:20] <Tobbi> Well, actually, we worked together in the same project...though she was an employee...
+[2015/11/20 08:11:17] <Tobbi> her: https://twitter.com/MadalinaAna
+[2015/11/20 08:11:31] <leyyin> cool story
+[2015/11/20 08:12:07] <Tobbi> huh?
+[2015/11/20 08:12:09] <Tobbi> :P
+[2015/11/20 08:12:50] <Tobbi> never mind...
