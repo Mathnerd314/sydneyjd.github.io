@@ -8018,3 +8018,28 @@
 [2015/11/19 20:29:09] <Tobbi> head8debian: https://github.com/SuperTux/supertux/labels/category%3Alevels https://github.com/SuperTux/supertux/labels/category%3Adesign
 [2015/11/19 20:29:21] <Tobbi> Most of it is post-0.4.0, though.
 [2015/11/19 20:29:53] <head8debian> Tobbi: Uhm, why is sound disabled for me?
+[2015/11/19 20:30:03] <Tobbi> I don't know...
+[2015/11/19 20:30:09] <Tobbi> head8debian: Only in SuperTux or in general?
+[2015/11/19 20:30:11] <head8debian> Thats odd...
+[2015/11/19 20:30:15] <head8debian> Supertux.
+[2015/11/19 20:31:17] <Tobbi> head8debian: Uhm, you did check the settings, did you?
+[2015/11/19 20:31:29] <head8debian> Tobbi: Sound is greyed out. :-/
+[2015/11/19 20:31:35] <Tobbi> ah
+[2015/11/19 20:31:55] <head8debian> Tobbi: Did we change something recently?
+[2015/11/19 20:32:00] <Tobbi> no.
+[2015/11/19 20:32:06] <head8debian> Eww.
+[2015/11/19 20:32:32] <Tobbi> SoundManager::current()->is_audio_enabled()
+[2015/11/19 20:32:47] <head8debian> Tobbi: [WARNING] /home/sydney/Sources/supertux/src/audio/sound_manager.cpp:65 Couldn't initialize audio device: Couldn't create audio context: Invalid Device
+[2015/11/19 20:32:57] <Tobbi> ah, there we go.
+[2015/11/19 20:33:23] <head8debian> But why? Every other program of mine can play fine./
+[2015/11/19 20:33:45] <Tobbi> head8debian: since when?
+[2015/11/19 20:33:52] <Tobbi> I mean: Since when do you have this issue?
+[2015/11/19 20:34:12] <head8debian> Tobbi: The last couple weeks.
+[2015/11/19 20:35:59] <Tobbi> head8debian: Did we change something in the code / can you bisect?
+[2015/11/19 20:36:30] <head8debian> Tobbi: I think its local.
+[2015/11/19 20:38:28] <Tobbi> head8debian: ask on the openal mailing list...
+[2015/11/19 20:38:40] <Tobbi> or in #openal but it might not be very...you know...frequented...
+[2015/11/19 20:39:01] <head8debian> Tobbi: How do i git bisect again?
+[2015/11/19 20:39:20] <Tobbi> head8debian: check git help bisect
+[2015/11/19 20:42:47] <head8debian> hmm.
+[2015/11/19 20:44:21] * head8debian is confused...
