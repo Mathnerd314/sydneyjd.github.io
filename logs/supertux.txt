@@ -8803,3 +8803,42 @@
 [2015/11/20 17:59:10] <brmbrmcar> Exactly.
 [2015/11/20 17:59:32] <Tobbi> brmbrmcar: But that means you're not alive.
 [2015/11/20 18:00:01] <brmbrmcar> How?
+[2015/11/20 18:00:07] <brmbrmcar> I have a soul.
+[2015/11/20 18:00:19] <Tobbi> brmbrmcar: Since your definition of "being alive" is "being in control"...
+[2015/11/20 18:00:21] <Tobbi> But you're not in control...
+[2015/11/20 18:00:30] <Tobbi> there are things beyond your control.
+[2015/11/20 18:01:13] <brmbrmcar> Being alive is having a soul.
+[2015/11/20 18:01:20] <brmbrmcar> And the control.
+[2015/11/20 18:01:38] <Tobbi> brmbrmcar: How do you define having a soul?
+[2015/11/20 18:01:54] <brmbrmcar> Soemthing you xan think with.
+[2015/11/20 18:02:01] <brmbrmcar> Choose tothink with.
+[2015/11/20 18:02:14] <Tobbi> brmbrmcar: So anything which can think is alive?
+[2015/11/20 18:02:23] <Tobbi> brmbrmcar: What about plants...do plants "think"?
+[2015/11/20 18:02:26] <Tobbi> How do you define thinking?
+[2015/11/20 18:02:49] <Tobbi> Plants adapt to the environment around them, I believe without thinking...Thus they're not alive?
+[2015/11/20 18:03:39] <brmbrmcar> No.
+[2015/11/20 18:04:05] <Tobbi> brmbrmcar: Okay, but bacteria don't think either. Not alive?
+[2015/11/20 18:04:10] <Tobbi> Or cancer cells...
+[2015/11/20 18:04:14] <Tobbi> Or fertilized ovae.
+[2015/11/20 18:04:23] <Tobbi> So, all of these things are not alive?
+[2015/11/20 18:06:29] <brmbrmcar> No.
+[2015/11/20 18:06:41] <brmbrmcar> No.
+[2015/11/20 18:06:55] <brmbrmcar> Who said they wre?
+[2015/11/20 18:06:58] @ alket joined channel #supertux
+[2015/11/20 18:07:06] <Tobbi> brmbrmcar: But you are a collection of cells... So if these are not alive because themselves they don't think...how can the resulting human be alive?
+[2015/11/20 18:07:29] <brmbrmcar> I am not a scientist.
+[2015/11/20 18:07:38] <Tobbi> brmbrmcar: You don't need to be one...
+[2015/11/20 18:07:47] <Tobbi> Just think logically...
+[2015/11/20 18:08:02] <brmbrmcar> The one cell is: you.
+[2015/11/20 18:08:28] <brmbrmcar> Maybe
+[2015/11/20 18:08:30] <Tobbi> brmbrmcar: You're not one cell...
+[2015/11/20 18:08:41] <Tobbi> but billions of them, I assume.
+[2015/11/20 18:08:45] <brmbrmcar> I know, but it is like the boss cell.
+[2015/11/20 18:09:49] <Tobbi> uhm...
+[2015/11/20 18:10:15] <brmbrmcar> Oly explaination.
+[2015/11/20 18:11:12] <brmbrmcar> Bye!
+[2015/11/20 18:11:15] <Tobbi> brmbrmcar: How can the sum of something be alive when the different parts are not.
+[2015/11/20 18:11:18] <Tobbi> hrm, okay...
+[2015/11/20 18:11:21] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/20 18:11:54] <Tobbi> head8debian: I assume we should continue tomorrow or something...
+[2015/11/20 18:11:57] <Tobbi> It's interesting.
