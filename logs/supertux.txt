@@ -7955,3 +7955,14 @@
 [2015/11/19 19:40:12] <Tobbi> head8debian: You can check the repository, if you want.
 [2015/11/19 19:40:22] <Tobbi> It should contain the old filenames together with the old levels...
 [2015/11/19 19:40:24] <head8debian> Ah! That may help!
+[2015/11/19 19:49:47] <head8debian> Tobbi: Uh oh... github is coming out with a new design they say.
+[2015/11/19 19:50:07] <Tobbi> head8debian: Wasn't that what I just applied? The thing moved to the header?
+[2015/11/19 19:50:33] <head8debian> Tobbi: I haven't applied it yet...
+[2015/11/19 19:50:36] <Tobbi> ok
+[2015/11/19 19:51:01] <Tobbi> head8debian: I believe we should add a script that allows us to package language add-on
+[2015/11/19 19:51:01] <Tobbi> s
+[2015/11/19 19:51:52] <head8debian> Tobbi: Then do it. :-)
+[2015/11/19 19:53:56] <Tobbi> head8debian: Not right now.
+[2015/11/19 19:54:05] <Tobbi> I don't know how giby normally updates langpacks...
+[2015/11/19 19:54:09] <Tobbi> or rather languages.
+[2015/11/19 19:59:36] @ Quit: alket: Quit: I've decided to call him Norbert. He really knows me now, watch. Norbert! Where's Mummy?
