@@ -7980,3 +7980,41 @@
 [2015/11/19 20:13:29] <head8debian> Done.
 [2015/11/19 20:13:41] <head8debian> Tobbi: I hope all the levels work now. :D
 [2015/11/19 20:14:11] <Tobbi> let's see...
+[2015/11/19 20:15:28] <head8debian> Tobbi: Maybe we can put brm to work playing the whole forest world. :-)
+[2015/11/19 20:15:38] <Tobbi> :D
+[2015/11/19 20:15:45] <Tobbi> I'll quickly go through them, don't worry.
+[2015/11/19 20:17:15] <Tobbi> head8debian: Looks good, except that it resets your stats now.
+[2015/11/19 20:18:09] <head8debian> Tobbi: o_O
+[2015/11/19 20:18:15] <head8debian> I go through them a sec also.
+[2015/11/19 20:18:53] <Tobbi> head8debian: So, it's kind of expected that it resets your stats, since those stats depend on the level filename.
+[2015/11/19 20:19:38] <head8debian> Tobbi: Ok, i won't go through them... ;)
+[2015/11/19 20:19:40] <head8debian> Tobbi: Yes.
+[2015/11/19 20:19:45] <head8debian> Tobbi: Cannot really be helped.
+[2015/11/19 20:19:54] <Tobbi> head8debian: Nope, unless we keep the levels...
+[2015/11/19 20:19:59] <Tobbi> the level filenames, I mean...
+[2015/11/19 20:20:03] <head8debian> Meh.
+[2015/11/19 20:20:09] <head8debian> :)
+[2015/11/19 20:21:39] <Tobbi> But, we really achieved something...
+[2015/11/19 20:21:44] <Tobbi> updating add-ons on transifex etc.
+[2015/11/19 20:23:08] <head8debian> Tobbi: Is there anything else i can help with that is not graphics related atm?
+[2015/11/19 20:23:19] <head8debian> Well, related to drawing graphiocs. ;-)
+[2015/11/19 20:23:28] <Tobbi> :D
+[2015/11/19 20:23:39] <Tobbi> head8debian: Yes, program a shell file that packages language packs.
+[2015/11/19 20:23:42] <Tobbi> :D
+[2015/11/19 20:23:49] <head8debian> o_O
+[2015/11/19 20:24:05] <head8debian> I could try. Not sure i'd get anywhere.
+[2015/11/19 20:24:18] <head8debian> Especially since i don't have a clue how our language packs work.
+[2015/11/19 20:24:37] <Tobbi> head8debian: There are templates in the add-ons repository.
+[2015/11/19 20:24:43] <Tobbi> check langpack-de
+[2015/11/19 20:24:49] <Tobbi> or langpack-cz
+[2015/11/19 20:25:25] <head8debian> Tobbi: But i don't speak de. :D
+[2015/11/19 20:25:40] <Tobbi> head8debian: Doesn't matter. Just take a look at the file structure.
+[2015/11/19 20:25:44] <head8debian> Tobbi: Ah.
+[2015/11/19 20:26:07] <head8debian> I don't like the feel of a chicklet keyboard. Feels like i am going to break it by pushing the keys so hard. :p
+[2015/11/19 20:27:43] <head8debian> Tobbi: Anything else that needs to be done visually?
+[2015/11/19 20:27:52] <Tobbi> head8debian: Hmm...let me think.
+[2015/11/19 20:27:55] <head8debian> That is not redoing a whole level set? :p
+[2015/11/19 20:28:00] <Tobbi> :D
+[2015/11/19 20:29:09] <Tobbi> head8debian: https://github.com/SuperTux/supertux/labels/category%3Alevels https://github.com/SuperTux/supertux/labels/category%3Adesign
+[2015/11/19 20:29:21] <Tobbi> Most of it is post-0.4.0, though.
+[2015/11/19 20:29:53] <head8debian> Tobbi: Uhm, why is sound disabled for me?
