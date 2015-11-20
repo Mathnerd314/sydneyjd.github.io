@@ -8533,3 +8533,57 @@
 [2015/11/20 16:28:23] <Tobbi> brmbrmcar: I can see his answers...
 [2015/11/20 16:28:41] <brmbrmcar> Oh, yeah, I forgot.
 [2015/11/20 16:29:34] <Tobbi> *sigh*
+[2015/11/20 16:30:06] <Tobbi> head8debian: What about other books, like lord of the rings?
+[2015/11/20 16:30:39] <brmbrmcar> head8debian: What about otherbooks, like Lord of the rings? (by Tobbi)
+[2015/11/20 16:30:58] <Tobbi> Can you un-ignore me, please? I didn't say anything offensive
+[2015/11/20 16:31:00] <Tobbi> Not remotely.
+[2015/11/20 16:31:22] <head8debian> Ive never read it, but have never had any intrest in reading it either.
+[2015/11/20 16:31:46] <brmbrmcar> head8debian: Can you un-ignore Tobbi, please? Tobbi didn't say anything offensiv
+[2015/11/20 16:32:16] <head8debian> Tobbi: Im not big into very popular books...
+[2015/11/20 16:32:26] <Tobbi> head8debian: OKay...that I can understand.
+[2015/11/20 16:32:55] <brmbrmcar> head8debian: Did you un-ignore?
+[2015/11/20 16:33:03] <head8debian> I actually have not read much lately. :-)
+[2015/11/20 16:33:17] <head8debian> brmbrmcar: Uhm, how would i answer his questions otherwise?
+[2015/11/20 16:33:36] <brmbrmcar> OK.
+[2015/11/20 16:33:44] <Tobbi> head8debian: So, basically... Everything has to be taken with a grain of salt... And the "magic" in Harry Potter is just not the central topic there... It's the relationships between the characters...
+[2015/11/20 16:34:05] <brmbrmcar> Most popular books are rubbish.
+[2015/11/20 16:34:06] <head8debian> Tobbi: I still have no interest in it...
+[2015/11/20 16:34:13] <Tobbi> I am just saying.
+[2015/11/20 16:34:22] <Tobbi> brmbrmcar: What popular books have you read?
+[2015/11/20 16:34:43] <brmbrmcar> Er...
+[2015/11/20 16:34:48] <Tobbi> yes?
+[2015/11/20 16:35:05] <brmbrmcar> I havre only heard about them...
+[2015/11/20 16:35:23] <Tobbi> brmbrmcar: So, wait a second: Your opinion is based on something you have never actually read?
+[2015/11/20 16:35:26] <head8debian> Tobbi: I prefer books i can relate to more also.
+[2015/11/20 16:35:34] <Tobbi> head8debian: Relate to in what way?
+[2015/11/20 16:36:05] <Tobbi> head8debian: Harry Potter is someone who goes to wizarding school (just like normal school except the subjects are different), his parents are dead, killed by a very bad man...
+[2015/11/20 16:36:12] <brmbrmcar> I only like young childrens' books.
+[2015/11/20 16:36:25] <head8debian> Tobbi: Like its more of real life!
+[2015/11/20 16:37:25] <head8debian> Tobbi: Im reading this book currently. :D http://www.amazon.com/Teach-Yourself-Electricity-Electronics-Edition/dp/0071741356
+[2015/11/20 16:37:51] <head8debian> Actually the 3rd edition, but still...
+[2015/11/20 16:37:54] <Tobbi> Okay, that might be interesting...
+[2015/11/20 16:38:27] <Tobbi> head8debian: I like this book very much: https://en.wikipedia.org/wiki/The_Royal_Game
+[2015/11/20 16:38:29] <head8debian> Tobbi: Only 720 pages. :D
+[2015/11/20 16:39:13] <brmbrmcar> https://en.wikipedia.org/wiki/Old_Bear_and_Friends
+[2015/11/20 16:40:27] <head8debian> o_O
+[2015/11/20 16:40:40] <Tobbi> brmbrmcar: Do you *really* enjoy this? After all, you're as old as head8debian
+[2015/11/20 16:40:43] <Tobbi> or something...
+[2015/11/20 16:41:06] <brmbrmcar> Yes... it is actually interesting!
+[2015/11/20 16:41:18] <Tobbi> I wouldn't say so...
+[2015/11/20 16:41:34] @ alket joined channel #supertux
+[2015/11/20 16:42:20] <Tobbi> alket: Your quit message: "Excerpt from Harry Potter and the Philosopher's stone. Said by Hagrid"
+[2015/11/20 16:42:23] <Tobbi> :P
+[2015/11/20 16:42:40] <Tobbi> jus' sayin'
+[2015/11/20 16:43:08] <alket> :p
+[2015/11/20 16:43:12] <alket> yeah
+[2015/11/20 16:43:16] <alket> btw hows Norbert leyyin :p
+[2015/11/20 16:43:27] <Tobbi> huh? leyyin = Hagrid?
+[2015/11/20 16:43:39] <head8debian> Tobbi: https://archive.org/stream/canterburychime00turngoog#page/n56/mode/2up :D
+[2015/11/20 16:43:41] <Tobbi> Or rather Charlie?
+[2015/11/20 16:43:41] <leyyin> what?
+[2015/11/20 16:44:08] <head8debian> Tobbi: Don't hurt yourself with the old English. :p
+[2015/11/20 16:44:17] @ Quit: alket: Client Quit
+[2015/11/20 16:44:18] <Tobbi> leyyin: Have you ever read Harry Potter?
+[2015/11/20 16:44:38] <head8debian> ~note alket much better quit message. :D
+[2015/11/20 16:44:38] <red_bot> lemme take care of that for you, head8debian
+[2015/11/20 16:44:43] @ alket joined channel #supertux
