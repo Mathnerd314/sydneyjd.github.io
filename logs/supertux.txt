@@ -8451,3 +8451,32 @@
 [2015/11/20 15:16:43] @ alket joined channel #supertux
 [2015/11/20 15:29:31] @ brmbrmcar joined channel #supertux
 [2015/11/20 15:46:05] @ Quit: alket: Quit: I've decided to call him Norbert. He really knows me now, watch. Norbert! Where's Mummy?
+[2015/11/20 16:02:27] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2015/11/20 16:03:59] @ Tobbi joined channel #supertux
+[2015/11/20 16:03:59] @ Mode +o Tobbi by ChanServ
+[2015/11/20 16:04:55] <head8debian> Hey Tobbi.
+[2015/11/20 16:05:00] <Tobbi> hey, head8debian
+[2015/11/20 16:05:14] <head8debian> Tobbi: Whats up? :D
+[2015/11/20 16:05:19] <Tobbi> head8debian: The ceiling.
+[2015/11/20 16:05:54] <head8debian> Tobbi: :D
+[2015/11/20 16:06:05] <head8debian> Tobbi: Only nerds respond that way... :p
+[2015/11/20 16:06:17] <Tobbi> head8debian: No, people who are tired of that question as well.
+[2015/11/20 16:06:45] <brmbrmcar> What's down?
+[2015/11/20 16:06:55] <head8debian> Tobbi: True.
+[2015/11/20 16:07:00] <head8debian> Tobbi: I usually respond that way.
+[2015/11/20 16:07:05] <head8debian> brmbrmcar: The floor.
+[2015/11/20 16:07:42] <brmbrmcar> How id the floor?
+[2015/11/20 16:07:49] <brmbrmcar> My floor is lava.
+[2015/11/20 16:08:09] <Tobbi> head8debian: But, a lot of people have at least translated the menu principale on supertux...
+[2015/11/20 16:08:17] <Tobbi> eeh transifex, I mean.
+[2015/11/20 16:08:34] <head8debian> Ah.
+[2015/11/20 16:09:04] <head8debian> Tobbi: Mixxx is awesome. :D
+[2015/11/20 16:09:12] <Tobbi> head8debian: What is it?
+[2015/11/20 16:10:08] <head8debian> Tobbi: A program... :-)
+[2015/11/20 16:10:26] <brmbrmcar> http://www.mixxx.org/
+[2015/11/20 16:10:39] <Tobbi> open source, wow.
+[2015/11/20 16:11:11] <brmbrmcar> I like looking at code for closed code stuff.
+[2015/11/20 16:11:23] <brmbrmcar> Well, I would like to.
+[2015/11/20 16:13:38] <Tobbi> brmbrmcar: Open Source code is supposed to be better...
+[2015/11/20 16:13:49] <Tobbi> as in: Better maintained etc.
+[2015/11/20 16:14:54] <brmbrmcar> Yeah,but it isn't as fun to see the source of it, because anyone can.
