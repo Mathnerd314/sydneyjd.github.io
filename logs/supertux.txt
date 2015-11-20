@@ -8171,3 +8171,24 @@
 [2015/11/20 07:37:15] <Tobbi> giby: So, what's your workflow in updating translations? You use the transifex client to fetch translations from there...and then?
 [2015/11/20 07:37:55] <giby> use tx to download in the repo.. then commit and push
 [2015/11/20 07:38:15] <Tobbi> giby: So, you download the .po files from there...then move them in the right place?
+[2015/11/20 07:50:06] @ leyyin joined channel #supertux
+[2015/11/20 07:51:15] <Tobbi> leyyin: I got a great task for you: Translate SuperTux to romanian... :P
+[2015/11/20 07:51:16] <Tobbi> https://www.transifex.com/arctic-games/supertux/language/ro/
+[2015/11/20 07:52:40] <leyyin> ugh
+[2015/11/20 07:52:44] * leyyin runs away
+[2015/11/20 07:52:50] <Tobbi> :D
+[2015/11/20 07:53:11] <leyyin> I hate translations, and Romanian should not be used on computers stuff anyway
+[2015/11/20 07:53:16] <leyyin> it sounds and looks so bad :/
+[2015/11/20 07:53:40] <leyyin> Tobbi, https://redd.it/3tgiaj
+[2015/11/20 07:54:19] <Tobbi> leyyin: if you continue this, google won't employ you again... :P
+[2015/11/20 07:54:28] <Tobbi> leyyin: I don't use google chrome that often.
+[2015/11/20 07:55:01] <leyyin> firefox is affected too....
+[2015/11/20 07:55:24] <Tobbi> really?
+[2015/11/20 07:55:26] <Tobbi> wow.
+[2015/11/20 07:56:15] <leyyin> it's worse in firefox, no permission systems
+[2015/11/20 07:57:21] <Tobbi> hmm...
+[2015/11/20 07:58:33] <leyyin> I use firefox btw :P
+[2015/11/20 07:58:38] <leyyin> chromium is my second browser
+[2015/11/20 07:58:50] <Tobbi> :P
+[2015/11/20 07:58:56] <Tobbi> Yeah, same here.
+[2015/11/20 07:59:18] <Tobbi> leyyin: But XUL based add-ons won't work any longer in Firefox. At least according to an announcement made by Mozilla a few months back.
