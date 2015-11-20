@@ -8424,3 +8424,5 @@
 [2015/11/20 13:09:09] <Tobbi> coverity is still down for maintenance.
 [2015/11/20 13:14:39] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/20 13:20:50] @ bb010g joined channel #supertux
+[2015/11/20 13:36:20] @ alket joined channel #supertux
+[2015/11/20 13:42:31] @ Quit: claymore2: Ping timeout: 276 seconds
