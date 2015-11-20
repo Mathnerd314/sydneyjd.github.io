@@ -7941,3 +7941,17 @@
 [2015/11/19 19:16:45] @ Quit: nerdopolis_: Quit: No Ping reply in 180 seconds.
 [2015/11/19 19:17:30] @ nerdopolis joined channel #supertux
 [2015/11/19 19:24:56] <Tobbi> head8debian: In any case: I notified the transifex contributors that we'll be releasing MS 2 very soon and that they please update their translations...
+[2015/11/19 19:33:14] @ Quit: tux|dude: Quit: Leaving
+[2015/11/19 19:37:25] <head8debian> Tobbi: Ok. I guess i will see if i can work on the worldmap.
+[2015/11/19 19:37:44] <Tobbi> maths22: Added you to the Spanish translation team.
+[2015/11/19 19:37:51] <Tobbi> Didn't know you also know spanish.
+[2015/11/19 19:38:08] <Tobbi> head8debian: I added a bunch of people to the translation teams. Let's hope they don't abuse their privilege.
+[2015/11/19 19:38:09] <head8debian> Tobbi: I just don't know where to pick up. I don't remember all the old filenames.
+[2015/11/19 19:38:28] <Tobbi> head8debian: huh? open the file with a text editor, so you know which level it is?
+[2015/11/19 19:38:41] <Tobbi> It has it in the lisp file somewhere.
+[2015/11/19 19:39:44] <head8debian> Tobbi: I renamed the .stl level files... and the worldmap didn't get updated. So i have the worldmap with the old file names and the files with new names...
+[2015/11/19 19:39:56] <Tobbi> head8debian: I see!
+[2015/11/19 19:40:03] <Tobbi> head8debian: Why did you do that? :D
+[2015/11/19 19:40:12] <Tobbi> head8debian: You can check the repository, if you want.
+[2015/11/19 19:40:22] <Tobbi> It should contain the old filenames together with the old levels...
+[2015/11/19 19:40:24] <head8debian> Ah! That may help!
