@@ -8411,3 +8411,11 @@
 [2015/11/20 12:34:39] <head8debian> Tobbi: Otherwise none of these OSes would have new packages, and they would be rolling release kindof.
 [2015/11/20 12:34:46] <Tobbi> yes, right.
 [2015/11/20 12:35:03] <brmbrmcar> head8debian: https://support.google.com/chrome/a/answer/6220366?hl=en
+[2015/11/20 12:49:07] <Tobbi> head8debian: What about this? http://supertux.lethargik.org/bugs/view.php?id=1068
+[2015/11/20 12:52:31] <brmbrmcar> It doesn't sound like soemthing for Supertux.
+[2015/11/20 12:52:59] <Tobbi> hmm...
+[2015/11/20 12:53:18] <Tobbi> I kind of like it, but wouldn't know where to put it in the halloween worldmap...
+[2015/11/20 12:53:45] <brmbrmcar> Sounds more like something for SupertuxKart.
+[2015/11/20 12:54:39] <brmbrmcar>  CPU with about 10 GHz?
+[2015/11/20 12:59:05] <Not-6fa5> [02supertux] 07tobbi pushed 035 commits to 03coverity_scan [+2/-0/±11] 13http://git.io/v4b6J
+[2015/11/20 12:59:09] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92311207
