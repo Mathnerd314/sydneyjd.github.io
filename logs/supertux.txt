@@ -8083,3 +8083,4 @@
 [2015/11/19 21:03:35] <head8debian> :-)
 [2015/11/19 21:05:14] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/19 22:21:33] @ Mathnerd314 joined channel #supertux
+[2015/11/19 22:48:38] @ Quit: irungentoo: Ping timeout: 264 seconds
