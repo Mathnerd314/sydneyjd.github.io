@@ -8247,3 +8247,41 @@
 [2015/11/20 11:01:39] <head8debian> Tobbi: Whats on todays agenda?
 [2015/11/20 11:07:54] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/20 11:08:17] <brmbrmcar> Quiting.
+[2015/11/20 11:32:45] @ Tobbi joined channel #supertux
+[2015/11/20 11:32:45] @ Mode +o Tobbi by ChanServ
+[2015/11/20 11:32:59] <Tobbi> head8debian: I really don't know what's left...
+[2015/11/20 11:33:19] <Tobbi> head8debian: Actually, what you can do is: Assemble a list of things we need to do for 0.4.0
+[2015/11/20 11:34:31] <Tobbi> Apart from that, I can't really think of anything...
+[2015/11/20 11:36:14] <brmbrmcar> Fish aren't squishable any more.
+[2015/11/20 11:37:03] <Tobbi> They never were squishable.
+[2015/11/20 11:37:27] <brmbrmcar> In 0.1.3 they were.
+[2015/11/20 11:37:29] <Not-6fa5> [02supertux] 07Savsish forked the repository - 13http://git.io/vk0tK
+[2015/11/20 11:37:49] <Tobbi> oh no!
+[2015/11/20 11:37:57] <head8debian> Tobbi: :-)
+[2015/11/20 11:38:04] <Tobbi> If Savsish forked the repository, that means...
+[2015/11/20 11:38:06] <head8debian> Tobbi: Huh?
+[2015/11/20 11:38:08] <Tobbi> things going wrong.
+[2015/11/20 11:38:17] <head8debian> WHAT?
+[2015/11/20 11:38:24] <Tobbi> head8debian: I mean: Savsish...
+[2015/11/20 11:38:33] <Tobbi> He will create more or less useful issues and PRs
+[2015/11/20 11:38:42] <brmbrmcar> What happens when I fork the repository?
+[2015/11/20 11:38:51] <Tobbi> head8debian: Do you know other things we might have not considered yet?
+[2015/11/20 11:38:57] <Tobbi> For the release I mean=
+[2015/11/20 11:40:24] <head8debian> Tobbi: lava tiles? :D
+[2015/11/20 11:40:37] <Tobbi> head8debian: Those were assigned to you, weren't they? :D
+[2015/11/20 11:40:40] <head8debian> Tobbi: Yay... pull requests. :-?
+[2015/11/20 11:40:43] <head8debian>  /
+[2015/11/20 11:40:46] <head8debian> Tobbi: :D
+[2015/11/20 11:40:54] * head8debian assigns them to Tobbi.
+[2015/11/20 11:41:03] <Tobbi> They're closed already.
+[2015/11/20 11:41:11] <head8debian> Tobbi: Fix my audio? :D
+[2015/11/20 11:41:17] <brmbrmcar> I will ask for the 50th time: Who is *?
+[2015/11/20 11:41:33] @ Quit: giby: Ping timeout: 260 seconds
+[2015/11/20 11:41:45] <Tobbi> head8debian: Did you ask on the openal mailing list?
+[2015/11/20 11:42:34] <head8debian> Tobbi: Not yet. Im busy. :D
+[2015/11/20 11:42:37] <Tobbi> ok
+[2015/11/20 11:42:52] <head8debian> brmbrmcar: Its anyone!
+[2015/11/20 11:43:18] <brmbrmcar> How?
+[2015/11/20 11:43:49] <brmbrmcar> Is it done?
+[2015/11/20 11:43:59] <head8debian> brmbrmcar: /me my test.
+[2015/11/20 11:44:29] * brmbrmcar my test
