@@ -8587,3 +8587,70 @@
 [2015/11/20 16:44:38] <head8debian> ~note alket much better quit message. :D
 [2015/11/20 16:44:38] <red_bot> lemme take care of that for you, head8debian
 [2015/11/20 16:44:43] @ alket joined channel #supertux
+[2015/11/20 16:45:04] @ Quit: alket: Remote host closed the connection
+[2015/11/20 16:45:08] <head8debian> Tobbi: red_bot's english is not great either...
+[2015/11/20 16:45:18] <Tobbi> fix it.
+[2015/11/20 16:45:34] <head8debian> Tobbi: :-)
+[2015/11/20 16:45:39] <head8debian> Tobbi: What fun would that be?
+[2015/11/20 16:45:51] <brmbrmcar> I like good English.
+[2015/11/20 16:45:53] <Tobbi> *sigh* I really can't think of why anyone wouldn't like Harry Potter...
+[2015/11/20 16:46:11] <Tobbi> brmbrmcar: Sometimes I think you're someone in your 20s just messing with us.
+[2015/11/20 16:46:18] <Tobbi> But, no, you act too immature for that.
+[2015/11/20 16:46:28] <Tobbi> But I'd say you're as old as head8debian at least...
+[2015/11/20 16:46:35] <head8debian> Tobbi: Thats like me saying i cannot see why no one wouldn't like the Bible or doing what it says.
+[2015/11/20 16:46:44] <leyyin> Tobbi, no
+[2015/11/20 16:46:48] @ alket joined channel #supertux
+[2015/11/20 16:46:55] <head8debian> leyyin: :D
+[2015/11/20 16:47:00] <Tobbi> head8debian: An eye for an eye...?
+[2015/11/20 16:47:05] <Tobbi> For example?
+[2015/11/20 16:47:32] <head8debian> Tobbi: That is an example...
+[2015/11/20 16:47:35] <Tobbi> leyyin: Okay al_ket's quit message was just an excerpt from that...
+[2015/11/20 16:47:45] <Tobbi> head8debian: Exactly: Do you act accordingly?
+[2015/11/20 16:48:14] <head8debian> Tobbi: I refer it to more if i kill someone i deserve to be killed myself...
+[2015/11/20 16:48:32] <head8debian> Its harsh, but its what i believe...
+[2015/11/20 16:48:46] <brmbrmcar> Is that why you drive a truck?
+[2015/11/20 16:48:58] <head8debian> brmbrmcar: :-) Not really.
+[2015/11/20 16:49:08] <head8debian> brmbrmcar: Trucks are personal opinion.
+[2015/11/20 16:49:08] <alket> leyyin: did you watch Harry Potter ?
+[2015/11/20 16:49:08] <red_bot> alket, you have notes! [Nov-20 16:44] <head8debian> much better quit message. :D
+[2015/11/20 16:49:11] <Tobbi> head8debian: Okay, so if you're insane and kill someone while having an episode, you deserve to be killed?
+[2015/11/20 16:49:13] <alket> they send the Hagrids dragon to Romania :p
+[2015/11/20 16:49:22] <head8debian> Tobbi: Yep.
+[2015/11/20 16:49:35] <Tobbi> head8debian: What if you're borderline intelligent?
+[2015/11/20 16:49:42] <leyyin> alket, yup
+[2015/11/20 16:49:53] <Tobbi> head8debian: Or someone told you to kill a person and because of your borderline intelligence you do it without thinking about the consequences...
+[2015/11/20 16:49:54] <head8debian> Tobbi: And whats that mean? I only understand English. :D
+[2015/11/20 16:49:59] <Tobbi> You still deserve to be killed?
+[2015/11/20 16:50:13] <head8debian> Tobbi: Pretty much, yes.
+[2015/11/20 16:50:19] <Tobbi> head8debian: That. is. cruel.
+[2015/11/20 16:50:39] <Not-6fa5> [02supertux] 07marc280492 opened issue 03#233: Idea for new version - 13http://git.io/v4ABg
+[2015/11/20 16:50:53] <head8debian> If you don't have the brains to keep from doing what someone tells you... something is not right.
+[2015/11/20 16:51:38] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#233: Idea for new version - 13http://git.io/v4ABd
+[2015/11/20 16:52:13] <Not-6fa5> [02supertux] 07sydneyjd commented on issue 03#233: Idea for new version - 13http://git.io/v4ART
+[2015/11/20 16:52:16] <brmbrmcar> You think you should be killed?
+[2015/11/20 16:52:42] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#233: Idea for new version - 13http://git.io/v4ARZ
+[2015/11/20 16:52:51] <brmbrmcar> Why?
+[2015/11/20 16:52:55] <Not-6fa5> [02supertux] 07marc280492 commented on issue 03#233: Idea for new version - 13http://git.io/v4ARl
+[2015/11/20 16:53:19] <Not-6fa5> [02supertux] 07sydneyjd commented on issue 03#233: Idea for new version - 13http://git.io/v4ARa
+[2015/11/20 16:55:14] <Not-6fa5> [02supertux] 07sydneyjd commented on issue 03#233: Idea for new version - 13http://git.io/v4A0Z
+[2015/11/20 16:55:23] <Tobbi> head8debian: okay, so my brother has got down's syndrome...If someone put a gun in his hands and told him to pull the trigger, my brother would deserve to die for doing it?
+[2015/11/20 16:55:59] <head8debian> Tobbi: Sadly, yes. Hopefully no one does that though...
+[2015/11/20 16:56:04] * head8debian looks at Tobbi.
+[2015/11/20 16:56:26] <Tobbi> head8debian: There is no way on earth that he can be considered responsible for what he did...You never make exceptions, do you?
+[2015/11/20 16:57:00] <Tobbi> This is cruel.
+[2015/11/20 16:57:09] * brmbrmcar is confused...
+[2015/11/20 16:57:18] <head8debian> It is cruel, but its what i belive to be correct.
+[2015/11/20 16:57:30] <head8debian> I do belive in a couple exceptions though.
+[2015/11/20 16:57:50] <brmbrmcar> You believe an exact set of things?
+[2015/11/20 16:58:07] <head8debian> If you shoot out of self defence and kill someone i belive that as an exception.
+[2015/11/20 16:58:12] <Tobbi> head8debian: Okay, assume the following: Two patients were fatally hurt and a doctor doesn't have time to treat both of them, so he has to make a choice whom to treat and the other one dies. Does the doctor deserve to be killed for making a choice?
+[2015/11/20 16:58:32] <head8debian> Tobbi: No, he did not willingly kill the person.
+[2015/11/20 16:58:47] <Tobbi> head8debian: Neither did my brother whom I give the gun.
+[2015/11/20 16:58:48] <brmbrmcar> Get another doctor?
+[2015/11/20 16:58:51] <Tobbi> Where do you draw the line.
+[2015/11/20 16:58:53] <head8debian> I would probably consider your brother an exception also...
+[2015/11/20 16:58:55] <Tobbi> brmbrmcar: I am very serious.
+[2015/11/20 16:58:57] <head8debian> Im thinking. :-)
+[2015/11/20 16:59:08] <head8debian> Ive never had to draw this line so deep before...
+[2015/11/20 16:59:23] @ Quit: alket: Remote host closed the connection
+[2015/11/20 17:00:01] <head8debian> Tobbi: I'd consider you the one to have to die if you gave your brother the gun *and* told your brother to go kill someone...
