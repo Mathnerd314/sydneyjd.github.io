@@ -8214,3 +8214,32 @@
 [2015/11/20 10:14:35] @ Mathnerd314 joined channel #supertux
 [2015/11/20 10:29:33] <head8debian> huh?
 [2015/11/20 10:33:39] @ brmbrmcar joined channel #supertux
+[2015/11/20 10:45:34] <Not-6fa5> [02supertux] 07sydneyjd opened pull request 03#232: Change forest world file names - 13http://git.io/v4FVm
+[2015/11/20 10:45:37] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92282686
+[2015/11/20 10:46:32] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92282686
+[2015/11/20 10:47:46] <brmbrmcar> Why not ci skip?
+[2015/11/20 10:48:05] <Not-6fa5> [02supertux] 07sydneyjd commented on issue 03#175: Forest World Levels are Badly Named - 13http://git.io/v4Fwa
+[2015/11/20 10:52:14] @ Tobbi joined channel #supertux
+[2015/11/20 10:52:14] @ Mode +o Tobbi by ChanServ
+[2015/11/20 10:52:18] <head8debian> brmbrmcar: Because i forgot to include it in the commit message.
+[2015/11/20 10:52:41] <head8debian> Welcome to #supertux Tobbi. Are you new here? :D
+[2015/11/20 10:52:47] <Tobbi> head8debian: What?
+[2015/11/20 10:52:50] <Tobbi> :D
+[2015/11/20 10:53:57] <Tobbi> head8debian: Do you know a foreign language other than American?
+[2015/11/20 10:54:00] <brmbrmcar> Mybe Tobbi added a @ to the beginning of his nick, to pretend he was someone else.
+[2015/11/20 10:54:30] <head8debian> Tobbi: Nada.
+[2015/11/20 10:54:48] <head8debian> brmbrmcar: It was a joke. The @ means he is an OP.
+[2015/11/20 10:54:50] <Tobbi> head8debian: That was spanish.
+[2015/11/20 10:55:03] <head8debian> Tobbi: Thats all i know of spanish. :-)
+[2015/11/20 10:55:10] <Tobbi> hmm, alright.
+[2015/11/20 10:55:14] <head8debian> Tobbi: Why?
+[2015/11/20 10:55:15] <Tobbi> what about you, brmbrmcar?
+[2015/11/20 10:55:25] <Tobbi> head8debian: We urgently need translators on Transifex.
+[2015/11/20 10:55:39] <brmbrmcar> Tobbi: Nein!
+[2015/11/20 10:55:40] <head8debian> Tobbi: I can help translate to English. :D
+[2015/11/20 10:55:53] <head8debian> lol.
+[2015/11/20 10:55:54] <brmbrmcar> Non!
+[2015/11/20 10:56:58] <Tobbi> head8debian: Okay, I'll add you as a translator for English.
+[2015/11/20 10:57:14] <Tobbi> :P
+[2015/11/20 10:57:48] <brmbrmcar> There are English variants.
+[2015/11/20 10:59:33] <brmbrmcar> And Development Version doesn't change.
