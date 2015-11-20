@@ -8337,3 +8337,54 @@
 [2015/11/20 12:14:21] <Tobbi> head8debian: You download langpacks manually through the add-on manager.
 [2015/11/20 12:14:36] <head8debian> Ah.
 [2015/11/20 12:14:45] <head8debian> Well, that isn't extremely hard then.
+[2015/11/20 12:15:03] <Tobbi> I am not sure what can go wrong there...
+[2015/11/20 12:15:20] <head8debian> My grandma might find it hard though. :D
+[2015/11/20 12:15:24] <head8debian> Sorry grandma. :)
+[2015/11/20 12:17:19] <Tobbi> head8debian: Your grandma doesn't play SuperTux, I assume.
+[2015/11/20 12:19:31] <head8debian> Tobbi: Nope. :-)
+[2015/11/20 12:19:39] <Tobbi> head8debian: Would've been weird.
+[2015/11/20 12:19:47] <head8debian> Tobbi: Her computer broke the other day and she was wondering if we had internet. :p
+[2015/11/20 12:19:54] <Tobbi> Ah okay
+[2015/11/20 12:19:54] <head8debian> We both have the same ISP.
+[2015/11/20 12:20:34] <head8debian> Tobbi: It was kinda funny. Her computer wouldnt turn on and she wondered if our internet was down. :D
+[2015/11/20 12:20:55] <Tobbi> head8debian: I have a father who is not very versed with these things, etiher.
+[2015/11/20 12:20:56] <Tobbi> either
+[2015/11/20 12:21:20] <head8debian> Tobbi: Oh well, thats why i am here to help her. :-)
+[2015/11/20 12:21:35] <head8debian> Tobbi: She has had quite a few random issues with Windows 10.
+[2015/11/20 12:21:44] <Tobbi> Sounds fun.
+[2015/11/20 12:21:45] @ Wuzzy joined channel #supertux
+[2015/11/20 12:21:50] <head8debian> She would be using Debian if i had my way. :D
+[2015/11/20 12:22:27] <head8debian> But they still consider my other cousin the know-it-all about computers. :-)
+[2015/11/20 12:22:43] <head8debian> Nm... :p
+[2015/11/20 12:22:45] <brmbrmcar> My granparents use a Chromebook.
+[2015/11/20 12:23:14] <brmbrmcar> They think I am the master of all computers when I tell themtheir password!
+[2015/11/20 12:23:57] <head8debian> brmbrmcar: :-)
+[2015/11/20 12:24:25] <brmbrmcar> They also say the Chromebook is the best laptopon the market.
+[2015/11/20 12:24:29] <head8debian> Tobbi: Do you have to remember you parents passwords for them?
+[2015/11/20 12:24:39] <Tobbi> head8debian: No.
+[2015/11/20 12:24:50] <head8debian> Sure... i don't want a chromebook. Id take windows over it, sadly. :D
+[2015/11/20 12:25:04] <brmbrmcar> My grandparents forget how to do it, let alone type it in.
+[2015/11/20 12:25:06] <head8debian> Tobbi: Good for you. Im the oposite. o_O
+[2015/11/20 12:25:23] <Tobbi> head8debian: Get my synesthesia and it might be easier.
+[2015/11/20 12:25:26] <Tobbi> :P
+[2015/11/20 12:25:32] <head8debian> Tobbi: Wat?
+[2015/11/20 12:25:38] <head8debian> :p
+[2015/11/20 12:25:47] <Tobbi> head8debian: https://en.wikipedia.org/wiki/Synesthesia
+[2015/11/20 12:25:57] <head8debian> ...
+[2015/11/20 12:26:25] <head8debian> My grandparents on my moms side are always worried that i will break their computer...
+[2015/11/20 12:26:40] <head8debian> Their one computer needs a fresh install.
+[2015/11/20 12:26:42] <Tobbi> head8debian: I have number-color-synesthesia. That means my numbers have colours when i think about them.
+[2015/11/20 12:26:49] <head8debian> Tobbi: o_O
+[2015/11/20 12:26:56] <head8debian> Tobbi: Your weird.
+[2015/11/20 12:27:00] <head8debian> Tobbi: Or your screen is.
+[2015/11/20 12:27:07] <Tobbi> head8debian: I don't "see" colours.
+[2015/11/20 12:27:22] <head8debian> :-)
+[2015/11/20 12:27:28] <head8debian> Colorblind? :D
+[2015/11/20 12:27:38] <brmbrmcar> head8debian: I told them to get a Chromebook so I didn't have to use Windows or spend hours teaching them.
+[2015/11/20 12:27:42] <head8debian> Hehe. I get what you mean.
+[2015/11/20 12:27:49] <Tobbi> head8debian: https://www.youtube.com/watch?v=dNy23tJMTzQ
+[2015/11/20 12:27:56] @ claymore2 joined channel #supertux
+[2015/11/20 12:28:02] <Tobbi> head8debian: I don't "see" numbers in colours.
+[2015/11/20 12:28:30] <head8debian> I don't care what OS you use as long as you enjoy it and it works for your needs.
+[2015/11/20 12:28:52] <head8debian> And its not unsupported.
+[2015/11/20 12:29:24] <brmbrmcar> This thing ends its life in2019.
