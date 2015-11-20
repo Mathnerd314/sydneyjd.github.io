@@ -8096,3 +8096,4 @@
 [2015/11/20 01:40:59] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92206164
 [2015/11/20 01:56:21] @ Quit: Mathnerd314: Ping timeout: 260 seconds
 [2015/11/20 02:40:57] @ Quit: Karkus: Quit: Leaving
+[2015/11/20 03:02:26] @ Quit: bb010g: Quit: Connection closed for inactivity
