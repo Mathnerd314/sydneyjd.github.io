@@ -8388,3 +8388,26 @@
 [2015/11/20 12:28:30] <head8debian> I don't care what OS you use as long as you enjoy it and it works for your needs.
 [2015/11/20 12:28:52] <head8debian> And its not unsupported.
 [2015/11/20 12:29:24] <brmbrmcar> This thing ends its life in2019.
+[2015/11/20 12:30:50] <head8debian> brmbrmcar: What? Isnt Chrome OS rolling release?
+[2015/11/20 12:30:59] <head8debian> brmbrmcar: Or are you using ubuntu?
+[2015/11/20 12:31:24] <head8debian> brmbrmcar: Ubuntu LTS gets pittifull updates after the first 3 years are up.
+[2015/11/20 12:31:40] <head8debian> And the packages are *old*.
+[2015/11/20 12:32:15] <brmbrmcar> I mean Chrome Os.
+[2015/11/20 12:32:34] <brmbrmcar> I will get LTS 16.04
+[2015/11/20 12:32:48] <Tobbi> head8debian: Package maintainers will update automatically, won't they? I mean: once we release it?
+[2015/11/20 12:32:52] <head8debian> brmbrmcar: Isn't Chrome OS rolling release though? WOn't it get updated forever?
+[2015/11/20 12:33:18] <head8debian> Tobbi: Not in any already relesed versions of OSes.
+[2015/11/20 12:33:21] <head8debian> released*
+[2015/11/20 12:33:34] <head8debian> Ubuntu 14.04 wont, debian 8 wont, Fedora 23 wont, etc.
+[2015/11/20 12:33:35] <Tobbi> head8debian: Not? So, if people run apt-get update it won't update?
+[2015/11/20 12:33:47] <brmbrmcar> head8debian: Yeah, but this device in particular won't be "supported".
+[2015/11/20 12:33:51] <head8debian> Tobbi: They won't push a newer version to their repos.
+[2015/11/20 12:33:54] <head8debian> brmbrmcar: Ah,
+[2015/11/20 12:33:57] <Tobbi> I see...
+[2015/11/20 12:34:00] <Tobbi> Well, what a shame.
+[2015/11/20 12:34:06] <head8debian> Tobbi: They fix bugs, but wont push newer versions.
+[2015/11/20 12:34:07] <head8debian> Yes it is.
+[2015/11/20 12:34:11] <Tobbi> right.
+[2015/11/20 12:34:39] <head8debian> Tobbi: Otherwise none of these OSes would have new packages, and they would be rolling release kindof.
+[2015/11/20 12:34:46] <Tobbi> yes, right.
+[2015/11/20 12:35:03] <brmbrmcar> head8debian: https://support.google.com/chrome/a/answer/6220366?hl=en
