@@ -8067,3 +8067,18 @@
 [2015/11/19 20:57:39] <Tobbi> head8debian: https://openal.org/mailman/listinfo/openal
 [2015/11/19 20:58:05] <head8debian> Tobbi: I guess that is why i use email filters.
 [2015/11/19 20:58:10] <Tobbi> head8debian: What openal version do you use anyway?
+[2015/11/19 21:00:03] <head8debian> Tobbi: 1.17
+[2015/11/19 21:00:37] <head8debian> Tobbi: I do run Arch now, ya know. :-)
+[2015/11/19 21:00:56] <Tobbi> Okay, that seems to be the most recent one.
+[2015/11/19 21:01:09] <Tobbi> head8debian: Actually, that was updated 2 days ago.
+[2015/11/19 21:01:16] <Tobbi> head8debian: Can you switch to an older version?
+[2015/11/19 21:02:18] <head8debian> Tobbi: Not without risking breaking my package manager.
+[2015/11/19 21:02:29] <head8debian> Tobbi: This is rolling release. Stuff breaks going backwards.
+[2015/11/19 21:02:37] <Tobbi> head8debian: Okay, then I guess you should really tell the openal guys. This could be the cause of the issue.
+[2015/11/19 21:03:00] <head8debian> It didn't happen before hand so its possible.
+[2015/11/19 21:03:07] <head8debian> Maybe a reboot will fix it. :p
+[2015/11/19 21:03:18] <Tobbi> ok
+[2015/11/19 21:03:20] <Tobbi> try
+[2015/11/19 21:03:30] <Tobbi> Anyway, good night
+[2015/11/19 21:03:35] <head8debian> :-)
+[2015/11/19 21:05:14] @ Quit: Tobbi: Remote host closed the connection
