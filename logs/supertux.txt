@@ -8480,3 +8480,56 @@
 [2015/11/20 16:13:38] <Tobbi> brmbrmcar: Open Source code is supposed to be better...
 [2015/11/20 16:13:49] <Tobbi> as in: Better maintained etc.
 [2015/11/20 16:14:54] <brmbrmcar> Yeah,but it isn't as fun to see the source of it, because anyone can.
+[2015/11/20 16:15:19] <head8debian> :D
+[2015/11/20 16:15:31] <Tobbi> Also, alket's quit message is an excerpt from Harry Potter I.
+[2015/11/20 16:15:34] <Tobbi> :D
+[2015/11/20 16:15:39] <head8debian> Tobbi: Google should be shot. Have you seen their new youtube and google plus layout?
+[2015/11/20 16:15:55] <head8debian> Tobbi: I wondered where it was from... i don't like it.
+[2015/11/20 16:15:59] <Tobbi> giby_the_kid: Up to which percentage of translated items do you include the lang file...
+[2015/11/20 16:16:11] <Tobbi> head8debian: You don't like Harry Potter? Have you ever read it?
+[2015/11/20 16:16:50] <brmbrmcar> I've never read Harry Potter.
+[2015/11/20 16:16:57] <head8debian> Tobbi: No, and i don't like it from its reviews.
+[2015/11/20 16:17:06] <Tobbi> head8debian: Why not? What's wrong with it?
+[2015/11/20 16:17:47] <brmbrmcar> head8debian: I agree there.
+[2015/11/20 16:19:25] <head8debian> Tobbi: Witchcraft, magic and other dark things...
+[2015/11/20 16:19:32] <Tobbi> head8debian: *sigh*
+[2015/11/20 16:19:37] <head8debian> Tobbi: That we don't need to infilterate our brains with.
+[2015/11/20 16:19:46] <Tobbi> head8debian: Did you decide it or did your parents decide that you don't like it? ;)
+[2015/11/20 16:20:02] <head8debian> Tobbi: Whats wrong with Google plus? Too much javascript. :D
+[2015/11/20 16:20:05] <head8debian> Tobbi: Both. :D
+[2015/11/20 16:20:07] <Tobbi> ok.
+[2015/11/20 16:20:18] <head8debian> brmbrmcar: Wow. We agree on something. :-)
+[2015/11/20 16:20:30] <brmbrmcar> I hate the term "magic".
+[2015/11/20 16:20:53] <head8debian> I'm not fond of it either.
+[2015/11/20 16:21:28] <head8debian> Tobbi: And what good does it profit you to read stuff like that? Read something that has at least some educational value. Like the Chronicles of Narnia. :D
+[2015/11/20 16:21:31] <brmbrmcar> People say I ama magicain because I can use inertia.
+[2015/11/20 16:21:57] <brmbrmcar> Read How to hackWindows and Mac by brmbrmcar.
+[2015/11/20 16:22:08] <head8debian> Tobbi: What does the fox say has no bass.
+[2015/11/20 16:22:26] <Tobbi> head8debian: You don't want to tell me that Harry Potter doesn't have educational value, do you? Because the bible doesn't have that, either... :P
+[2015/11/20 16:22:42] <brmbrmcar> Uh oh...
+[2015/11/20 16:22:48] <Tobbi> I know...
+[2015/11/20 16:22:54] * head8debian /ignore 's Tobbi...
+[2015/11/20 16:23:01] <head8debian> :D
+[2015/11/20 16:23:04] <Tobbi> head8debian: I am serious...
+[2015/11/20 16:23:05] * brmbrmcar hides
+[2015/11/20 16:23:24] <Tobbi> Tell me about the educational value of the bible?
+[2015/11/20 16:24:04] <brmbrmcar> It does mention some things about how to be good.
+[2015/11/20 16:24:34] <Tobbi> brmbrmcar: So does Harry Potter. We have the good side ("White wizards") and the bad side "death eaters"...
+[2015/11/20 16:25:00] <brmbrmcar> I like books about brm brm cars.
+[2015/11/20 16:25:09] <Tobbi> brmbrmcar: ...and that's where you get annoying.
+[2015/11/20 16:25:10] <brmbrmcar> And hacking.
+[2015/11/20 16:25:12] <Tobbi> Can't you stop that?
+[2015/11/20 16:26:04] <head8debian> brmbrmcar: Have fun hacking my SSH connection...
+[2015/11/20 16:26:27] <brmbrmcar> No fun.
+[2015/11/20 16:26:32] <Tobbi> head8debian: So, I was quite serious about that question: Where is the educational value in the bible?
+[2015/11/20 16:26:35] <head8debian> 'ssh -p 3322 sydney@sam.ohnopub.net
+[2015/11/20 16:26:37] <head8debian> '
+[2015/11/20 16:26:38] <head8debian> :D
+[2015/11/20 16:26:52] <brmbrmcar> I like teddy bear books for toddlers.
+[2015/11/20 16:27:14] <Tobbi> head8debian: Did you really ignore me?
+[2015/11/20 16:27:38] <brmbrmcar> head8debian: Did you really ignore Tobbi?
+[2015/11/20 16:28:03] <head8debian> Yep. :D
+[2015/11/20 16:28:13] <brmbrmcar> Tobbi: Yep. :D
+[2015/11/20 16:28:23] <Tobbi> brmbrmcar: I can see his answers...
+[2015/11/20 16:28:41] <brmbrmcar> Oh, yeah, I forgot.
+[2015/11/20 16:29:34] <Tobbi> *sigh*
