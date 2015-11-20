@@ -7966,3 +7966,17 @@
 [2015/11/19 19:54:05] <Tobbi> I don't know how giby normally updates langpacks...
 [2015/11/19 19:54:09] <Tobbi> or rather languages.
 [2015/11/19 19:59:36] @ Quit: alket: Quit: I've decided to call him Norbert. He really knows me now, watch. Norbert! Where's Mummy?
+[2015/11/19 20:00:29] <head8debian> Tobbi: Almost done...
+[2015/11/19 20:00:32] <Tobbi> Good.
+[2015/11/19 20:10:30] <head8debian> Tobbi: Uhm, how do i fix this? :D https://github.com/SuperTux/supertux/compare/master...sydneyjd:master
+[2015/11/19 20:11:12] <Tobbi> head8debian: Which of these commits do you need?
+[2015/11/19 20:11:37] <Tobbi> I guess both of yours?
+[2015/11/19 20:12:05] <Tobbi> head8debian: git reset --hard origin/master
+[2015/11/19 20:12:05] <head8debian> Tobbi: Yes...
+[2015/11/19 20:12:19] <Tobbi> head8debian: then git cherry-pick 0517c3f
+[2015/11/19 20:12:28] <Tobbi> and git cherry-pick 8fd7e6f
+[2015/11/19 20:13:00] <head8debian> Tobbi: Then git push?
+[2015/11/19 20:13:12] <Tobbi> head8debian: Yup, you might need to force-push, though.
+[2015/11/19 20:13:29] <head8debian> Done.
+[2015/11/19 20:13:41] <head8debian> Tobbi: I hope all the levels work now. :D
+[2015/11/19 20:14:11] <Tobbi> let's see...
