@@ -8086,3 +8086,11 @@
 [2015/11/19 22:48:38] @ Quit: irungentoo: Ping timeout: 264 seconds
 [2015/11/19 23:04:25] @ tuxdev_ joined channel #supertux
 [2015/11/20 00:26:34] @ bb010g joined channel #supertux
+[2015/11/20 01:30:06] <Not-6fa5> [02supertux] 07Hume2 pushed 032 commits to 03master [+1/-0/±5] 13http://git.io/v47zL
+[2015/11/20 01:30:07] <Not-6fa5> [02supertux] 07Hume2 03be3db0a - Cut the snowcastle background to the periodic size
+[2015/11/20 01:30:09] <Not-6fa5> [02supertux] 07Hume2 03374df00 - Merge branch 'master' of https://github.com/SuperTux/supertux
+[2015/11/20 01:30:11] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92206164
+[2015/11/20 01:30:55] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92206164
+[2015/11/20 01:31:22] <Not-6fa5> [02supertux] 07Hume2 assigned issue 03#175: Forest World Levels are Badly Named - 13http://git.io/vCIV5
+[2015/11/20 01:31:24] <Not-6fa5> [02supertux] 07Hume2 unassigned issue 03#175: Forest World Levels are Badly Named - 13http://git.io/vCIV5
+[2015/11/20 01:40:59] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92206164
