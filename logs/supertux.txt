@@ -8243,3 +8243,7 @@
 [2015/11/20 10:57:14] <Tobbi> :P
 [2015/11/20 10:57:48] <brmbrmcar> There are English variants.
 [2015/11/20 10:59:33] <brmbrmcar> And Development Version doesn't change.
+[2015/11/20 11:01:35] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92282686
+[2015/11/20 11:01:39] <head8debian> Tobbi: Whats on todays agenda?
+[2015/11/20 11:07:54] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/20 11:08:17] <brmbrmcar> Quiting.
