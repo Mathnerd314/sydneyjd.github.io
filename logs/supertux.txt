@@ -8427,3 +8427,9 @@
 [2015/11/20 13:36:20] @ alket joined channel #supertux
 [2015/11/20 13:42:31] @ Quit: claymore2: Ping timeout: 276 seconds
 [2015/11/20 13:59:17] @ claymore2 joined channel #supertux
+[2015/11/20 14:04:55] <head8debian> tuxdev: This new keyboard is odd.
+[2015/11/20 14:05:02] <head8debian> Tobbi*^^ :D
+[2015/11/20 14:08:50] <brmbrmcar> Dvorak?
+[2015/11/20 14:11:53] @ Hume2 joined channel #supertux
+[2015/11/20 14:12:22] <Hume2> Hi all!
+[2015/11/20 14:12:45] <brmbrmcar> hello
