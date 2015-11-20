@@ -8426,3 +8426,4 @@
 [2015/11/20 13:20:50] @ bb010g joined channel #supertux
 [2015/11/20 13:36:20] @ alket joined channel #supertux
 [2015/11/20 13:42:31] @ Quit: claymore2: Ping timeout: 276 seconds
+[2015/11/20 13:59:17] @ claymore2 joined channel #supertux
