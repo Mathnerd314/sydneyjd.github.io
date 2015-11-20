@@ -8842,3 +8842,4 @@
 [2015/11/20 18:11:21] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/11/20 18:11:54] <Tobbi> head8debian: I assume we should continue tomorrow or something...
 [2015/11/20 18:11:57] <Tobbi> It's interesting.
+[2015/11/20 18:20:16] @ Quit: Tobbi: Remote host closed the connection
