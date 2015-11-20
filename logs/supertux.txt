@@ -8423,3 +8423,4 @@
 [2015/11/20 13:08:18] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92311207
 [2015/11/20 13:09:09] <Tobbi> coverity is still down for maintenance.
 [2015/11/20 13:14:39] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/20 13:20:50] @ bb010g joined channel #supertux
