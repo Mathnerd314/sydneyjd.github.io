@@ -9093,3 +9093,26 @@
 [2015/11/21 08:57:57] <Tobbi> due to recursion.
 [2015/11/21 08:58:56] <Tobbi> [DEBUG] /Users/tobiasmarkus/workspace/supertux/src/util/reader.cpp:63 ReaderDocument::parse: fonts/andale12.stf
 [2015/11/21 08:59:00] <Tobbi> There we go!
+[2015/11/21 09:00:25] <Tobbi> grumbel: ^^
+[2015/11/21 09:01:06] <grumbel> you could try compiling sexp-cpp with: cmake .. -DCMAKE_BUILD_TYPE=Debug -DWARNINGS=ON -DWERROR=OFF -DBUILD_TESTS=ON
+[2015/11/21 09:01:14] <Tobbi> okay...
+[2015/11/21 09:01:22] <grumbel> then run 'build/test_sexp'
+[2015/11/21 09:01:32] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92434127
+[2015/11/21 09:02:11] <head8debian> Sounds like you are having fun. :D Ok, maybe not.
+[2015/11/21 09:02:59] <grumbel> compiling supertux with 'cmake .. -DBUILD_TESTS=ON' and then running 'build/test_supertux2' is also worth a try
+[2015/11/21 09:03:00] <Tobbi> grumbel: All tests passed.
+[2015/11/21 09:03:24] <Tobbi> ok
+[2015/11/21 09:04:42] <Tobbi> grumbel: Both tests passed.
+[2015/11/21 09:04:58] <Tobbi> Still, it crashes.
+[2015/11/21 09:06:02] <head8debian> o_O
+[2015/11/21 09:08:31] <Tobbi> grumbel: Just try parsing the file yourself?
+[2015/11/21 09:08:49] <Tobbi> andale12.stf, I mean?
+[2015/11/21 09:09:21] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92434186
+[2015/11/21 09:09:28] <grumbel> That works for me
+[2015/11/21 09:09:34] <Tobbi> weird...
+[2015/11/21 09:09:54] <Tobbi> Maybe it's a charset issue?
+[2015/11/21 09:10:12] <grumbel> or a line-ending issue
+[2015/11/21 09:10:17] <Tobbi> That might be...
+[2015/11/21 09:12:34] <brmbrmcar> I might just give up uncracking this thing...
+[2015/11/21 09:13:54] <Tobbi> Oh, after 20k frames it finally reached the end :D
+[2015/11/21 09:14:38] <Tobbi> *200k frames.
