@@ -9224,3 +9224,9 @@
 [2015/11/21 10:38:33] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/21 10:42:07] <brmbrmcar> When you gain it after.
 [2015/11/21 10:42:26] <brmbrmcar> It is irregular,and may cause other problems.
+[2015/11/21 10:54:00] @ Tobbi joined channel #supertux
+[2015/11/21 10:54:00] @ Mode +o Tobbi by ChanServ
+[2015/11/21 10:59:34] <Not-6fa5> [02supertux] 07Grumbel pushed 032 commits to 03feature/sexp [+0/-0/±6] 13http://git.io/v4h07
+[2015/11/21 10:59:35] <Not-6fa5> [02supertux] 07Ingo Ruhnke 039307011 - Removed a few unused functions from the Reader API
+[2015/11/21 10:59:37] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03491a5bf - Updated external/sexp-cpp
+[2015/11/21 10:59:38] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92447481
