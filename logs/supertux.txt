@@ -9233,3 +9233,5 @@
 [2015/11/21 11:00:36] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92447481
 [2015/11/21 11:12:32] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92447481
 [2015/11/21 11:19:39] <Not-6fa5> [02supertux] 07maths22 assigned issue 03#233: Idea for new version - 13http://git.io/v4ABg
+[2015/11/21 11:41:16] @ Mathnerd314 joined channel #supertux
+[2015/11/21 11:43:41] @ Quit: Karkus: Ping timeout: 272 seconds
