@@ -8897,3 +8897,8 @@
 [2015/11/20 20:37:51] @ Quit: Karkus: Quit: Leaving
 [2015/11/20 20:42:42] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/20 20:42:58] @ paroneayea joined channel #supertux
+[2015/11/20 22:04:10] <head8debian> Potion?
+[2015/11/20 22:12:06] @ swift110 joined channel #supertux
+[2015/11/20 22:13:05] @ Quit: nerdopolis: Ping timeout: 246 seconds
+[2015/11/20 22:14:03] @ nerdopolis joined channel #supertux
+[2015/11/20 22:14:08] @ bb010g joined channel #supertux
