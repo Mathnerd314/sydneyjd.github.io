@@ -9513,3 +9513,7 @@
 [2015/11/21 16:15:29] @ alket joined channel #supertux
 [2015/11/21 16:25:27] @ tux|dude joined channel #supertux
 [2015/11/21 16:59:58] @ Quit: alket: Ping timeout: 255 seconds
+[2015/11/21 17:05:36] @ alket joined channel #supertux
+[2015/11/21 17:07:38] @ alket_ joined channel #supertux
+[2015/11/21 17:09:56] @ Quit: alket: Ping timeout: 246 seconds
+[2015/11/21 17:10:35] @ alket_ is now known as alket
