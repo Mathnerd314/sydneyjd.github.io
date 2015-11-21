@@ -9466,3 +9466,26 @@
 [2015/11/21 14:47:55] @ Quit: Fire_: Ping timeout: 246 seconds
 [2015/11/21 14:48:22] @ Quit: grumbel: Quit: Ex-Chat
 [2015/11/21 15:03:18] @ Quit: claymore2: Quit: Leaving
+[2015/11/21 15:16:44] @ Quit: alket: Ping timeout: 265 seconds
+[2015/11/21 15:18:22] <brmbrmcar> Tha is 5 quits in a frow!
+[2015/11/21 15:18:47] * brmbrmcar is bad at typing...
+[2015/11/21 15:22:16] <head8debian> brmbrmcar: :D
+[2015/11/21 15:22:24] <head8debian> ~restart
+[2015/11/21 15:22:25] @ quit (restarting, back in 5...)
+[2015/11/21 15:22:25] @ Log closed by * (rescan or shutdown)
+[2015/11/21 15:22:46] @ Log started by red_bot
+[2015/11/21 15:22:46] @ Joined channel #supertux
+[2015/11/21 15:22:46] @ Topic is "Welcome to the SuperTux chat | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | ©häññèł łôǥ http://sydneyjd.github.io/logs/ | nightly builds http://brlcad.org/~maths22/supertux-download.php"
+[2015/11/21 15:22:46] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-11-19 11:10:15 -0500
+[2015/11/21 15:22:51] @ Mode +nt by kornbluth.freenode.net
+[2015/11/21 15:25:05] <brmbrmcar> :D
+[2015/11/21 15:25:27] <brmbrmcar> How does /describe work?
+[2015/11/21 15:26:10] @ Tobbi joined channel #supertux
+[2015/11/21 15:26:10] @ Mode +o Tobbi by ChanServ
+[2015/11/21 15:26:28] <head8debian> brmbrmcar: It doesnt.
+[2015/11/21 15:26:31] <head8debian> Tobbi: Hello Tobbi.
+[2015/11/21 15:26:37] <brmbrmcar> Ah, OK.
+[2015/11/21 15:26:43] <head8debian> Tobbi: Goodbye Tobbi. Time for me to leave. :-)
+[2015/11/21 15:27:37] <Tobbi> head8debian: why_
+[2015/11/21 15:27:38] <Tobbi> ?
+[2015/11/21 15:27:42] @ alket joined channel #supertux
