@@ -8996,3 +8996,44 @@
 [2015/11/21 07:59:36] <Tobbi> Hume2: Sorry for being a smart ass, but, you just need "[ci skip]", not "Travis[ci skip]" in your commit message.
 [2015/11/21 07:59:40] <brmbrmcar> Tobbi: OK. I get it.
 [2015/11/21 07:59:53] <Hume2> Tobbi: I'm just a joker :D
+[2015/11/21 08:00:04] <brmbrmcar> Does the same thing.
+[2015/11/21 08:00:05] <Tobbi> I see...
+[2015/11/21 08:00:11] <Tobbi> Yes, it does.
+[2015/11/21 08:00:57] <brmbrmcar> Why not write the gull chemical name of titin in there?
+[2015/11/21 08:01:07] <brmbrmcar> s/gull/full/
+[2015/11/21 08:01:07] <red_bot> brmbrmcar meant: "Why not write the full chemical name of titin in there?"
+[2015/11/21 08:01:11] <Tobbi> brmbrmcar: That jokes is old.
+[2015/11/21 08:01:16] <Tobbi> *joke
+[2015/11/21 08:01:28] <Tobbi> brmbrmcar: If you do that, I will ban you from here.
+[2015/11/21 08:01:47] <brmbrmcar> I won't.
+[2015/11/21 08:01:51] <Tobbi> good
+[2015/11/21 08:02:41] <brmbrmcar> But seriously, what if the travis build starts before it reads ci skip?
+[2015/11/21 08:03:09] <brmbrmcar> I mean, even at the start.
+[2015/11/21 08:05:34] <Not-6fa5> [02supertux] 07Grumbel pushed 032 commits to 03feature/sexp [+1/-11/±49] 13http://git.io/v4p7A
+[2015/11/21 08:05:36] <Not-6fa5> [02supertux] 07Ingo Ruhnke 0356f1828 - Moved src/lisp/writer.?pp to src/util/writer.?pp
+[2015/11/21 08:05:37] <Not-6fa5> [02supertux] 07Ingo Ruhnke 0329a0ad1 - Removed src/lisp/ directory along with all references to it
+[2015/11/21 08:05:39] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92430216
+[2015/11/21 08:06:27] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92430216
+[2015/11/21 08:07:19] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92428513
+[2015/11/21 08:08:49] <Hume2> brmbrmcar: When you change the commit while the Travis CI is running, the Travis CI builds it anyway.
+[2015/11/21 08:09:00] <brmbrmcar> OK.
+[2015/11/21 08:09:31] <brmbrmcar> But git would probably read it before publishing it.
+[2015/11/21 08:10:28] <Hume2> Yes. It does.
+[2015/11/21 08:10:37] @ Quit: Hume2: Quit: Page closed
+[2015/11/21 08:11:53] <brmbrmcar> Uh oh. https://scan.coverity.com/
+[2015/11/21 08:12:03] <head8debian> brmbrmcar: WHat?
+[2015/11/21 08:12:09] <Tobbi> brmbrmcar: It's been down for some time now.
+[2015/11/21 08:12:13] <head8debian> Tobbi: o_O
+[2015/11/21 08:12:17] <Tobbi> what?
+[2015/11/21 08:12:24] <head8debian> Tobbi: Will they be up soon?
+[2015/11/21 08:12:30] <brmbrmcar> When will it be in the sky again?
+[2015/11/21 08:12:33] <head8debian> Or did they go out of buisiness?
+[2015/11/21 08:12:36] <Tobbi> head8debian: I doubt there'll be any issues with the code...
+[2015/11/21 08:12:39] <Tobbi> I don't think so.
+[2015/11/21 08:12:51] <head8debian> Whewph.
+[2015/11/21 08:14:02] <brmbrmcar> and https://oasis.sandstorm.io/grain/JFihnpgdnEQByhtYwgTpiy
+[2015/11/21 08:14:09] <Tobbi> head8debian: So, last time I checked we were at 0 (plus that ignored issue for tinygettext)....
+[2015/11/21 08:14:13] <brmbrmcar> Unauthorised.
+[2015/11/21 08:14:21] <Tobbi> plus squirrel issues which the author of squirrel is unable to fix.
+[2015/11/21 08:14:43] <Tobbi> or unwilling.
+[2015/11/21 08:14:52] <Not-6fa5> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/92430216
