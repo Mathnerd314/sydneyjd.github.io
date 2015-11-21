@@ -8966,3 +8966,33 @@
 [2015/11/21 07:15:46] <Not-6fa5> [02supertux] 07Hume2 0350d9770 - Used the new jungle tiles in the level Tree Fortress where apporpriate
 [2015/11/21 07:26:19] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/21 07:41:22] @ Quit: alket: Ping timeout: 260 seconds
+[2015/11/21 07:46:57] @ Karkus joined channel #supertux
+[2015/11/21 07:47:07] <Not-6fa5> [02supertux] 07Grumbel created branch 03feature/sexp - 13http://git.io/vvf63
+[2015/11/21 07:47:09] <Not-6fa5> [02supertux] 07Grumbel pushed 0314 commits to 03feature/sexp [+7/-5/±277] 13http://git.io/v4p9G
+[2015/11/21 07:47:10] <Not-6fa5> [02supertux] 07Ingo Ruhnke 032933bc3 - Added googletest submodule
+[2015/11/21 07:47:12] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03823d194 - Added -DBUILD_TEST=ON flag to cmake to build test cases
+[2015/11/21 07:47:13] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03ce033e7 - Converted test cases to googletest
+[2015/11/21 07:47:15] <Not-6fa5> [02supertux] ... and 11 more commits.
+[2015/11/21 07:47:16] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92428504
+[2015/11/21 07:47:18] <Not-6fa5> [02supertux] 07Grumbel created branch 03feature/gtest - 13http://git.io/vvf63
+[2015/11/21 07:47:19] <Not-6fa5> [02supertux] 07Grumbel pushed 033 commits to 03feature/gtest [+5/-5/±2] 13http://git.io/v4p9Z
+[2015/11/21 07:47:21] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03bf6f0fc - Added googletest submodule
+[2015/11/21 07:47:22] <Not-6fa5> [02supertux] 07Ingo Ruhnke 035c3f01e - Added -DBUILD_TEST=ON flag to cmake to build test cases
+[2015/11/21 07:47:24] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03469f1b6 - Converted test cases to googletest
+[2015/11/21 07:47:25] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92428513
+[2015/11/21 07:47:51] * brmbrmcar finally ignores notifico...
+[2015/11/21 07:48:04] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92428504
+[2015/11/21 07:49:25] <grumbel> Added two new branches, feature/gtest and feature/sexp
+[2015/11/21 07:50:23] @ Quit: MMlosh: Quit: Bye...
+[2015/11/21 07:50:58] <grumbel> The gtest branch adds googletest support to Supertux and builds a static lib instead of just an executable of supertux, so that the test code can link against libsupertux
+[2015/11/21 07:51:29] <grumbel> sexp contains the lisp cleanup, it works, but needs more testing and some better error messages
+[2015/11/21 07:52:22] <grumbel> the feature/gtest branch can be merged into master unless it broke something on the Win32 side of things
+[2015/11/21 07:53:08] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92428513
+[2015/11/21 07:53:28] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#233: Idea for new version - 13http://git.io/v4pHR
+[2015/11/21 07:56:18] <Not-6fa5> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/92428504
+[2015/11/21 07:57:52] @ Tobbi joined channel #supertux
+[2015/11/21 07:57:53] @ Mode +o Tobbi by ChanServ
+[2015/11/21 07:58:38] <Tobbi> brmbrmcar: Transifex checks for updates of the source language files once a day.
+[2015/11/21 07:59:36] <Tobbi> Hume2: Sorry for being a smart ass, but, you just need "[ci skip]", not "Travis[ci skip]" in your commit message.
+[2015/11/21 07:59:40] <brmbrmcar> Tobbi: OK. I get it.
+[2015/11/21 07:59:53] <Hume2> Tobbi: I'm just a joker :D
