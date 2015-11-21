@@ -8927,3 +8927,5 @@
 [2015/11/21 03:29:01] @ datahead8888_ joined channel #supertux
 [2015/11/21 03:32:10] @ Quit: datahead7777: Ping timeout: 240 seconds
 [2015/11/21 03:41:20] @ brmbrmcar joined channel #supertux
+[2015/11/21 03:52:28] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2015/11/21 03:58:56] @ claymore2 joined channel #supertux
