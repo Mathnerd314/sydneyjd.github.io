@@ -8929,3 +8929,9 @@
 [2015/11/21 03:41:20] @ brmbrmcar joined channel #supertux
 [2015/11/21 03:52:28] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/11/21 03:58:56] @ claymore2 joined channel #supertux
+[2015/11/21 04:34:44] @ leyyin joined channel #supertux
+[2015/11/21 04:35:10] <Not-6fa5> [02supertux] 07Grumbel pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v4p3B
+[2015/11/21 04:35:11] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03132da24 - Make sure that g_config is valid before accessing it
+[2015/11/21 04:35:13] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92414523
+[2015/11/21 04:36:05] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92414523
+[2015/11/21 04:42:44] @ MMlosh joined channel #supertux
