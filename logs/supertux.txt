@@ -8892,3 +8892,8 @@
 [2015/11/20 20:14:34] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92383226
 [2015/11/20 20:15:27] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92383226
 [2015/11/20 20:27:36] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92383226
+[2015/11/20 20:32:05] @ paroneayea joined channel #supertux
+[2015/11/20 20:34:19] @ Quit: paroneayea: Remote host closed the connection
+[2015/11/20 20:37:51] @ Quit: Karkus: Quit: Leaving
+[2015/11/20 20:42:42] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/20 20:42:58] @ paroneayea joined channel #supertux
