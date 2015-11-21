@@ -9249,3 +9249,20 @@
 [2015/11/21 12:23:07] @ xet7 joined channel #supertux
 [2015/11/21 12:26:34] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#201: Backflipping to a bonus block hides Tux behind it - 13http://git.io/v4hHM
 [2015/11/21 12:29:42] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#201: Backflipping to a bonus block hides Tux behind it - 13http://git.io/vWuJh
+[2015/11/21 12:30:27] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#201: Backflipping to a bonus block hides Tux behind it - 13http://git.io/v4hQ6
+[2015/11/21 12:31:32] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43DO
+[2015/11/21 12:31:49] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#201: Backflipping to a bonus block hides Tux behind it - 13http://git.io/v4h7k
+[2015/11/21 12:32:58] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#201: Backflipping to a bonus block hides Tux behind it - 13http://git.io/v4h7Z
+[2015/11/21 12:34:18] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#201: Backflipping to a bonus block hides Tux behind it - 13http://git.io/v4h7o
+[2015/11/21 12:36:07] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#201: Backflipping to a bonus block hides Tux behind it - 13http://git.io/v4h5k
+[2015/11/21 12:36:20] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#201: Backflipping to a bonus block hides Tux behind it - 13http://git.io/vWuJh
+[2015/11/21 12:36:22] <Not-6fa5> [02supertux] 07Karkus476 unlabeled issue 03#201: Backflipping to a bonus block hides Tux behind it - 13http://git.io/vWuJh
+[2015/11/21 12:36:31] @ Hume2 joined channel #supertux
+[2015/11/21 12:37:16] <Karkus> Hey Hume2!
+[2015/11/21 12:37:58] <Not-6fa5> [02supertux] 07Hume2 commented on issue 03#230: Added unordered path mode - 13http://git.io/v4h5d
+[2015/11/21 12:39:36] <Hume2> Hi Karkus! I'll now go afk.
+[2015/11/21 12:39:52] <Karkus> Hume2: Okay
+[2015/11/21 12:40:54] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#230: Added unordered path mode - 13http://git.io/v4hd5
+[2015/11/21 12:44:15] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#201: Backflipping to a bonus block hides Tux behind it - 13http://git.io/v4hFE
+[2015/11/21 12:44:53] @ Wuzzy joined channel #supertux
+[2015/11/21 12:44:56] <Karkus> Tobbi: Didn't you implement Earth and Air Tux?
