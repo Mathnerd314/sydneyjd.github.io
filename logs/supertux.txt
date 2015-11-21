@@ -9364,3 +9364,36 @@
 [2015/11/21 13:28:20] <Tobbi> hmm...
 [2015/11/21 13:28:26] <Tobbi> let me have a last look at it...
 [2015/11/21 13:28:48] <Hume2> OK. Tell me after you're done.
+[2015/11/21 13:30:40] <Tobbi> Hume2: is there a reason why you can't move https://github.com/Hume2/supertux/blob/unordered_path/src/object/path_walker.cpp#L116 inside the switch?
+[2015/11/21 13:31:49] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92461224
+[2015/11/21 13:32:57] <Hume2> Tobbi: because of line 123.
+[2015/11/21 13:33:44] @ bb010g joined channel #supertux
+[2015/11/21 13:34:03] <Tobbi> Hume2: You can't combine these, can you?
+[2015/11/21 13:34:06] <Tobbi> I mean...
+[2015/11/21 13:34:08] <Tobbi> one moment.
+[2015/11/21 13:35:24] <Tobbi> Hume2: So, you couldn't make it so that it works inside the switch?
+[2015/11/21 13:35:39] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92463145
+[2015/11/21 13:36:10] <Tobbi> oh, wait@
+[2015/11/21 13:36:33] <Tobbi> Hume2: You're right!
+[2015/11/21 13:37:36] <Not-6fa5> [02supertux] 07tobbi closed pull request 03#230: Added unordered path mode - 13http://git.io/v4upa
+[2015/11/21 13:37:37] <Not-6fa5> [02supertux] 07tobbi pushed 032 commits to 03master [+2/-0/±6] 13http://git.io/v4jTf
+[2015/11/21 13:37:39] <Not-6fa5> [02supertux] 07Hume2 0373052b9 - Added unordered path mode
+[2015/11/21 13:37:40] <Not-6fa5> [02supertux] 07tobbi 03c6aaee8 - Merge pull request #230 from Hume2/unordered_path
+[2015/11/21 13:37:42] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92464317
+[2015/11/21 13:37:48] <Tobbi> Okay, so merged.
+[2015/11/21 13:37:58] <Hume2> Thanks, Tobbi.
+[2015/11/21 13:38:20] <brmbrmcar> 6 down to 5.
+[2015/11/21 13:38:44] <Tobbi> Only one of them will be merged before the release.
+[2015/11/21 13:38:48] <Tobbi> Which is the forest level thing.
+[2015/11/21 13:39:12] <Hume2> I'll go, bye!
+[2015/11/21 13:39:15] @ Quit: Hume2: Quit: Page closed
+[2015/11/21 13:39:19] <brmbrmcar> 5 down to 4.
+[2015/11/21 13:39:45] <grumbel> Tobbi: feature/sexp branch might now throw more useful error messages
+[2015/11/21 13:39:50] <brmbrmcar> And why do merge pull requests count as commits?
+[2015/11/21 13:39:54] <Tobbi> grumbel: I'll try,
+[2015/11/21 13:40:02] <Tobbi> brmbrmcar: They are not included in the stats.
+[2015/11/21 13:40:41] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92462756
+[2015/11/21 13:40:44] <brmbrmcar> i know that.
+[2015/11/21 13:40:52] <brmbrmcar> But OK.
+[2015/11/21 13:41:37] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92464317
+[2015/11/21 13:43:57] <Not-6fa5> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/92463145
