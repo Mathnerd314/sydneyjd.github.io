@@ -9214,3 +9214,13 @@
 [2015/11/21 10:28:06] <Tobbi> be back in a couple of minutes...
 [2015/11/21 10:28:30] <brmbrmcar> It it hard to capture, but I'll try...
 [2015/11/21 10:28:52] <Karkus> brmbrmcar: Thank you
+[2015/11/21 10:30:48] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#234: Making Tux air or earth on death displays hat - 13http://git.io/v4hWY
+[2015/11/21 10:30:52] <brmbrmcar> Done.
+[2015/11/21 10:32:11] <brmbrmcar> Note: I told it to go to earth, an issue itself.
+[2015/11/21 10:32:44] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#234: Making Tux air or earth on death displays hat - 13http://git.io/v4hWV
+[2015/11/21 10:32:51] <Not-6fa5> [02supertux] 07Karkus476 unlabeled issue 03#175: Forest World Levels are Badly Named - 13http://git.io/vCIV5
+[2015/11/21 10:33:59] <Karkus> brmbrmcar: Surely this isn't a problem, because Tux loses his hat on death.
+[2015/11/21 10:34:27] <Karkus> Or does it follow him off screen?
+[2015/11/21 10:38:33] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/21 10:42:07] <brmbrmcar> When you gain it after.
+[2015/11/21 10:42:26] <brmbrmcar> It is irregular,and may cause other problems.
