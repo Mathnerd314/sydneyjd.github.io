@@ -8937,3 +8937,7 @@
 [2015/11/21 04:42:44] @ MMlosh joined channel #supertux
 [2015/11/21 04:47:15] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92414523
 [2015/11/21 05:27:29] <Not-6fa5> [02supertux] 07MarvinCZ starred 03supertux - 13http://git.io/v4pWd
+[2015/11/21 06:23:41] <Not-6fa5> [02supertux] 07Grumbel pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v4pga
+[2015/11/21 06:23:43] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03f37540a - Removed trailing garbage in data/fonts/zh-white.stf
+[2015/11/21 06:23:44] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92422220
+[2015/11/21 06:24:37] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92422220
