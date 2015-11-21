@@ -8947,3 +8947,5 @@
 [2015/11/21 06:36:00] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92422220
 [2015/11/21 06:44:43] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v4pwY
 [2015/11/21 06:44:45] <Not-6fa5> [02supertux] 07Tobias Markus 03975ce53 - [ci skip] Bonus Level: String change
+[2015/11/21 06:47:46] @ alket joined channel #supertux
+[2015/11/21 06:53:35] <Not-6fa5> [02supertux] 07brmbrmcar opened issue 03#234: Making Tux air or earth on death displays hat - 13http://git.io/v4pra
