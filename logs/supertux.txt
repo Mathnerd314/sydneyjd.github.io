@@ -8908,3 +8908,9 @@
 [2015/11/20 22:43:18] @ Topic is "Welcome to the SuperTux chat | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | ©häññèł łôǥ http://sydneyjd.github.io/logs/ | nightly builds http://brlcad.org/~maths22/supertux-download.php"
 [2015/11/20 22:43:18] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-11-19 11:10:15 -0500
 [2015/11/20 22:43:23] @ Mode +nt by wilhelm.freenode.net
+[2015/11/20 23:16:21] @ Quit: nerdopolis: Quit: No Ping reply in 180 seconds.
+[2015/11/20 23:18:57] @ nerdopolis joined channel #supertux
+[2015/11/20 23:20:36] @ Quit: swift110: Quit: Leaving
+[2015/11/20 23:21:22] @ swift110 joined channel #supertux
+[2015/11/20 23:22:48] @ Quit: swift110: Remote host closed the connection
+[2015/11/20 23:23:47] @ swift110 joined channel #supertux
