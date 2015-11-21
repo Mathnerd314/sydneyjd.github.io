@@ -9200,3 +9200,17 @@
 [2015/11/21 10:05:27] <brmbrmcar> I can take screenshots.
 [2015/11/21 10:05:36] <Tobbi> I guess he has to accept the invitation...
 [2015/11/21 10:12:26] @ tuxdev_ joined channel #supertux
+[2015/11/21 10:18:02] <Karkus> brmbrmcar: Well, do it then
+[2015/11/21 10:18:18] <Karkus> Take some screenshots so I can understand your issues.
+[2015/11/21 10:22:29] <Tobbi> Karkus: Do you know "Wise Guys"?
+[2015/11/21 10:22:36] <Karkus> Tobbi: When did the worldmap format change? Flexlay is expecting the old one.
+[2015/11/21 10:22:41] <Karkus> Tobbi: No.
+[2015/11/21 10:22:48] <Tobbi> Karkus: I really don't know when it changed.
+[2015/11/21 10:22:53] <Tobbi> But maybe I can look it up.
+[2015/11/21 10:23:01] <Karkus> Tobbi: No, you don't need to
+[2015/11/21 10:23:08] <Karkus> I will just have to work it out...
+[2015/11/21 10:23:15] <Tobbi> Karkus: https://www.youtube.com/watch?v=jVkN2WNOnuc (turn on English captions) :P
+[2015/11/21 10:26:11] <Karkus> :D
+[2015/11/21 10:28:06] <Tobbi> be back in a couple of minutes...
+[2015/11/21 10:28:30] <brmbrmcar> It it hard to capture, but I'll try...
+[2015/11/21 10:28:52] <Karkus> brmbrmcar: Thank you
