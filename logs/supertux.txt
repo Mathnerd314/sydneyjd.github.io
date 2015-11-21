@@ -9242,3 +9242,7 @@
 [2015/11/21 11:55:03] <Not-6fa5> [02supertux] 07Ingo Ruhnke 033e0678a - Fixed &&/|| mixup that prevented the Worldmap from loading
 [2015/11/21 11:55:04] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92453276
 [2015/11/21 11:55:56] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92453276
+[2015/11/21 12:02:04] @ Karkus joined channel #supertux
+[2015/11/21 12:06:45] @ giby_the_kid joined channel #supertux
+[2015/11/21 12:06:45] @ Mode +o giby_the_kid by ChanServ
+[2015/11/21 12:08:57] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92453276
