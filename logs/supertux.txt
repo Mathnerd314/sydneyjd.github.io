@@ -9192,3 +9192,11 @@
 [2015/11/21 09:56:09] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#233: Idea for new version - 13http://git.io/v4ABg
 [2015/11/21 09:56:13] <Not-6fa5> [02supertux] 07maxteufel commented on issue 03#233: Idea for new version - 13http://git.io/v4h3J
 [2015/11/21 09:56:59] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#233: Idea for new version - 13http://git.io/v4h3n
+[2015/11/21 10:00:09] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#233: Idea for new version - 13http://git.io/v4h3Q
+[2015/11/21 10:01:09] <Karkus> Tobbi: Yeah, you should
+[2015/11/21 10:01:15] <Tobbi> I just did.
+[2015/11/21 10:01:48] <Tobbi> I added him to Core and Developers teams...
+[2015/11/21 10:01:53] <Tobbi> He's proven himself worthwhile.
+[2015/11/21 10:05:27] <brmbrmcar> I can take screenshots.
+[2015/11/21 10:05:36] <Tobbi> I guess he has to accept the invitation...
+[2015/11/21 10:12:26] @ tuxdev_ joined channel #supertux
