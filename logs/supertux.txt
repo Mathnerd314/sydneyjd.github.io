@@ -9397,3 +9397,11 @@
 [2015/11/21 13:40:52] <brmbrmcar> But OK.
 [2015/11/21 13:41:37] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92464317
 [2015/11/21 13:43:57] <Not-6fa5> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/92463145
+[2015/11/21 13:45:24] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92464317
+[2015/11/21 13:46:19] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92464317
+[2015/11/21 13:53:42] <Tobbi> grumbel: Better now, it crashes somewhere later in the game :P I'll try to get the stacktrace again.
+[2015/11/21 13:54:07] <Tobbi> Actually, it looks like the same stack...
+[2015/11/21 13:54:20] <Tobbi> But it loaded further than last time, from what I can see from the console output.
+[2015/11/21 13:55:23] <Tobbi> grumbel: http://pastebin.com/246pcstj
+[2015/11/21 13:55:31] <Tobbi> From that it looks like maybe I should recompile.
+[2015/11/21 13:56:15] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92464317
