@@ -9453,3 +9453,13 @@
 [2015/11/21 14:28:55] <Tobbi> Or not...I don't know.
 [2015/11/21 14:29:18] <brmbrmcar> Fire_: All I could see about the error was 32 and 64 bit stuff getting muddled.
 [2015/11/21 14:29:28] <brmbrmcar> Might be to do with Supertux...
+[2015/11/21 14:30:03] <Fire_> I'm using the dependencies from INSTALL.md, the only dll i had to copy manually was ssleay32.dll
+[2015/11/21 14:30:23] <brmbrmcar> And were the others 64?
+[2015/11/21 14:30:36] <brmbrmcar> sslway seems like 32 bit.
+[2015/11/21 14:30:51] <head8debian> Tobbi: O_O
+[2015/11/21 14:31:06] <Fire_> Others seem to be 32 too
+[2015/11/21 14:31:17] <brmbrmcar> OK, then.
+[2015/11/21 14:31:25] <Tobbi> head8debian: What?
+[2015/11/21 14:31:41] <brmbrmcar> I know nothing about the Supertux build process, so...
+[2015/11/21 14:35:49] <brmbrmcar> I want everything able to be made from a lisp definition file.
+[2015/11/21 14:44:00] @ Quit: Tobbi: Remote host closed the connection
