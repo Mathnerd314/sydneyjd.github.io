@@ -9521,3 +9521,4 @@
 [2015/11/21 17:17:50] @ alket joined channel #supertux
 [2015/11/21 17:48:07] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/11/21 17:54:25] @ Quit: tuxdev_: Ping timeout: 250 seconds
+[2015/11/21 18:11:12] @ tuxdev_ joined channel #supertux
