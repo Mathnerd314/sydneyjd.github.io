@@ -9166,3 +9166,29 @@
 [2015/11/21 09:43:24] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#232: Change forest world file names - 13http://git.io/v4hqF
 [2015/11/21 09:43:48] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#232: Change forest world file names - 13http://git.io/v4hmf
 [2015/11/21 09:44:55] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#232: Change forest world file names - 13http://git.io/v4hm4
+[2015/11/21 09:46:03] <Not-6fa5> [02supertux] 07symvizan commented on issue 03#208: Poll: Which Wiki? - 13http://git.io/v4hmo
+[2015/11/21 09:47:10] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#232: Change forest world file names - 13http://git.io/v4hm5
+[2015/11/21 09:47:52] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#208: Poll: Which Wiki? - 13http://git.io/v4hYt
+[2015/11/21 09:48:52] <Karkus> Tobbi: As in, an issue regarding the way stats are saved.
+[2015/11/21 09:49:13] <Tobbi> Karkus: Yes...Something like "Rework stats"
+[2015/11/21 09:49:15] <Tobbi> Or something.
+[2015/11/21 09:49:19] <Tobbi> I don't know.
+[2015/11/21 09:49:38] <Tobbi> We could save an arbitrary ID in the stl file...
+[2015/11/21 09:49:42] <Tobbi> and then set that...
+[2015/11/21 09:49:51] <Karkus> Tobbi: But then again, the forest world isn't exactly supposed to be stable anyway, so we could merge this now...
+[2015/11/21 09:49:59] <Tobbi> Yes, that's true.
+[2015/11/21 09:50:09] <Tobbi> It's not supposed to be stable until about now :P
+[2015/11/21 09:50:13] <Karkus> Tobbi: I reckon we do both
+[2015/11/21 09:50:19] <Karkus> Tobbi: Well, it just isn't
+[2015/11/21 09:52:41] <Karkus> Tobbi: Do you understand this: https://github.com/SuperTux/supertux/issues/234
+[2015/11/21 09:53:03] <Tobbi> Actually not.
+[2015/11/21 09:53:05] <Tobbi> brmbrmcar: ^^
+[2015/11/21 09:54:12] <brmbrmcar> You give Tux the powerupwhen dying, and the hat shows.
+[2015/11/21 09:54:39] <Karkus> brmbrmcar: Are you still unable to take screenshots?
+[2015/11/21 09:55:03] <Karkus> Because for the sake of anyone looking to fix this issue, they need to understand it first
+[2015/11/21 09:55:31] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#233: Idea for new version - 13http://git.io/v4hOA
+[2015/11/21 09:56:06] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#233: Idea for new version - 13http://git.io/v4ABg
+[2015/11/21 09:56:08] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#233: Idea for new version - 13http://git.io/v4ABg
+[2015/11/21 09:56:09] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#233: Idea for new version - 13http://git.io/v4ABg
+[2015/11/21 09:56:13] <Not-6fa5> [02supertux] 07maxteufel commented on issue 03#233: Idea for new version - 13http://git.io/v4h3J
+[2015/11/21 09:56:59] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#233: Idea for new version - 13http://git.io/v4h3n
