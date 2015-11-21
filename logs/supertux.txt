@@ -8864,3 +8864,23 @@
 [2015/11/20 19:38:40] @ datahead8888 is now known as datahead7777
 [2015/11/20 19:42:38] @ Quit: paroneayea: Read error: Connection reset by peer
 [2015/11/20 19:43:17] @ paroneayea joined channel #supertux
+[2015/11/20 19:47:32] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92378967
+[2015/11/20 19:50:51] <Tobbi> Karkus: Are you there, real quick?
+[2015/11/20 19:51:07] <Karkus> Tobbi: Hello!
+[2015/11/20 19:51:12] <Tobbi> Karkus: What would you think about this: http://freesound.org/people/Reitanna/sounds/252255/ for drinking a magic potion?
+[2015/11/20 19:51:25] <Tobbi> As in: We could play that sound when tux drinks a magic potion...
+[2015/11/20 19:52:14] <Tobbi> This was http://supertux.lethargik.org/bugs/view.php?id=71
+[2015/11/20 19:52:16] <Karkus> Hmm, it's okay
+[2015/11/20 19:52:53] <Karkus> Actually, I think it could work well. Do we have anything currently?
+[2015/11/20 19:52:59] <Tobbi> Karkus: Nope, we don't.
+[2015/11/20 19:53:11] <Tobbi> Karkus: However, my OCD dictates me to clean the old buglist :D And I found that
+[2015/11/20 19:53:47] <Tobbi> Karkus: by the way: Updating the localizations worked fine.
+[2015/11/20 19:53:51] <Karkus> Tobbi: Go ahead, it's a very easy thing to change
+[2015/11/20 19:53:55] <Tobbi> Alright.
+[2015/11/20 19:54:06] <Karkus> Tobbi: What do you mean?
+[2015/11/20 19:54:19] <Tobbi> Karkus: I updated localizations on transifex, using makepot.sh to create the files.
+[2015/11/20 19:54:30] <Tobbi> I set it to update automatically from a git submodule, and even that worked.
+[2015/11/20 19:54:33] <Tobbi> I was quite surprised.
+[2015/11/20 19:54:41] <Tobbi> I expected localizations to be lost.
+[2015/11/20 19:54:44] <Tobbi> But they weren't.
+[2015/11/20 19:54:47] <Karkus> Tobbi: Oh, that's great
