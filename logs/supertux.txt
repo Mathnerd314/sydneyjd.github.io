@@ -8941,3 +8941,9 @@
 [2015/11/21 06:23:43] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03f37540a - Removed trailing garbage in data/fonts/zh-white.stf
 [2015/11/21 06:23:44] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92422220
 [2015/11/21 06:24:37] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92422220
+[2015/11/21 06:33:10] @ Tobbi joined channel #supertux
+[2015/11/21 06:33:10] @ Mode +o Tobbi by ChanServ
+[2015/11/21 06:35:16] <Tobbi> I wish I knew how to show all issues in transifex.
+[2015/11/21 06:36:00] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92422220
+[2015/11/21 06:44:43] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v4pwY
+[2015/11/21 06:44:45] <Not-6fa5> [02supertux] 07Tobias Markus 03975ce53 - [ci skip] Bonus Level: String change
