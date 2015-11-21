@@ -9246,3 +9246,6 @@
 [2015/11/21 12:06:45] @ giby_the_kid joined channel #supertux
 [2015/11/21 12:06:45] @ Mode +o giby_the_kid by ChanServ
 [2015/11/21 12:08:57] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92453276
+[2015/11/21 12:23:07] @ xet7 joined channel #supertux
+[2015/11/21 12:26:34] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#201: Backflipping to a bonus block hides Tux behind it - 13http://git.io/v4hHM
+[2015/11/21 12:29:42] <Not-6fa5> [02supertux] 07Karkus476 labeled issue 03#201: Backflipping to a bonus block hides Tux behind it - 13http://git.io/vWuJh
