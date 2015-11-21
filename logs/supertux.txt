@@ -8890,3 +8890,5 @@
 [2015/11/20 20:14:31] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+1/-0/±2] 13http://git.io/v4xOw
 [2015/11/20 20:14:32] <Not-6fa5> [02supertux] 07Tobias Markus 038873950 - Add gulp sound when potion is being drunk
 [2015/11/20 20:14:34] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92383226
+[2015/11/20 20:15:27] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92383226
+[2015/11/20 20:27:36] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92383226
