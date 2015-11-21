@@ -9512,3 +9512,4 @@
 [2015/11/21 16:06:46] @ Quit: alket: Ping timeout: 240 seconds
 [2015/11/21 16:15:29] @ alket joined channel #supertux
 [2015/11/21 16:25:27] @ tux|dude joined channel #supertux
+[2015/11/21 16:59:58] @ Quit: alket: Ping timeout: 255 seconds
