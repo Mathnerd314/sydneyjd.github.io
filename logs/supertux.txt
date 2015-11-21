@@ -9299,3 +9299,36 @@
 [2015/11/21 12:52:31] @ Quit: leyyin: Ping timeout: 240 seconds
 [2015/11/21 12:54:20] @ Quit: ced117: Ping timeout: 246 seconds
 [2015/11/21 12:55:56] @ ced117 joined channel #supertux
+[2015/11/21 13:00:39] <Tobbi> I should be doing college stuff but instead am watching a video where some guy updates from windows 1.0 to Windows 8...
+[2015/11/21 13:04:29] <leper`> ah, that's a great one
+[2015/11/21 13:04:41] <leper`> though I do think it didn't went up to 8 last time I checked
+[2015/11/21 13:04:55] <leper`> (beware of theme issues when going to xp (or 2000))
+[2015/11/21 13:05:16] <head8debian> Good afternoon all.
+[2015/11/21 13:06:05] <Tobbi> https://www.youtube.com/watch?v=8WP7AkJo3OE
+[2015/11/21 13:06:09] <Tobbi> Hello head8debian
+[2015/11/21 13:06:51] <head8debian> Tobbi: So what are we doing about the levels i renamed?
+[2015/11/21 13:07:00] <Tobbi> head8debian: I am not sure...
+[2015/11/21 13:07:02] <Tobbi> head8debian: Oh, wait...
+[2015/11/21 13:07:05] <Tobbi> head8debian: Please rebase.
+[2015/11/21 13:07:07] <Tobbi> I will merge it.
+[2015/11/21 13:07:19] <head8debian> Tobbi: How do i do that?
+[2015/11/21 13:07:34] <head8debian> Ive never had to rebase before IIRC>
+[2015/11/21 13:07:45] <Tobbi> head8debian: You know git fetch origin && git rebase origin/master
+[2015/11/21 13:08:56] <Not-6fa5> [02supertux] 07sydneyjd synchronize pull request 03#232: Change forest world file names - 13http://git.io/v4FVm
+[2015/11/21 13:08:59] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92460942
+[2015/11/21 13:09:08] <brmbrmcar> Ah! ci skip!
+[2015/11/21 13:09:24] <Tobbi> head8debian: Okay, and now squash the commits.
+[2015/11/21 13:09:53] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92460942
+[2015/11/21 13:10:08] <Tobbi> head8debian: And add "closes #175" to the commit message.
+[2015/11/21 13:11:08] <Not-6fa5> [02supertux] 07sydneyjd synchronize pull request 03#232: Change forest world file names - 13http://git.io/v4FVm
+[2015/11/21 13:11:10] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92461224
+[2015/11/21 13:11:22] <leper`> you can also do git rebase -i (given that you have EDITOR set or vi installed), which allows you to do both at once
+[2015/11/21 13:11:27] <head8debian> Tobbi: I wish you had told me either.
+[2015/11/21 13:11:31] <head8debian> earlier*
+[2015/11/21 13:11:49] <head8debian> Tobbi: How do i add ci skip again?
+[2015/11/21 13:11:50] <Tobbi> head8debian: Told you what earlier?
+[2015/11/21 13:11:55] <Tobbi> git commit --amend
+[2015/11/21 13:12:05] <brmbrmcar> [ci skip]
+[2015/11/21 13:13:26] <Not-6fa5> [02supertux] 07sydneyjd synchronize pull request 03#232: Change forest world file names - 13http://git.io/v4FVm
+[2015/11/21 13:14:01] <brmbrmcar> Tothe commit message...
+[2015/11/21 13:14:41] <head8debian> Tobbi: Did i do something wrong?
