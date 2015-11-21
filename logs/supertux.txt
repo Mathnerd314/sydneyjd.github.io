@@ -8935,3 +8935,4 @@
 [2015/11/21 04:35:13] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92414523
 [2015/11/21 04:36:05] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92414523
 [2015/11/21 04:42:44] @ MMlosh joined channel #supertux
+[2015/11/21 04:47:15] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92414523
