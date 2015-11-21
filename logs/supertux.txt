@@ -9405,3 +9405,14 @@
 [2015/11/21 13:55:23] <Tobbi> grumbel: http://pastebin.com/246pcstj
 [2015/11/21 13:55:31] <Tobbi> From that it looks like maybe I should recompile.
 [2015/11/21 13:56:15] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92464317
+[2015/11/21 14:03:23] @ Quit: Karkus: Remote host closed the connection
+[2015/11/21 14:09:59] <head8debian> Tobbi: Why is the branch named sexp?
+[2015/11/21 14:10:18] <grumbel> https://en.wikipedia.org/wiki/S-expression
+[2015/11/21 14:10:32] <Tobbi> head8debian: Issues are easier to reproduce that way...
+[2015/11/21 14:10:57] <head8debian> Ah.
+[2015/11/21 14:11:25] <grumbel> Tobbi: 'git submodule update' in case you haven't already done so
+[2015/11/21 14:11:32] <Tobbi> oen moment.
+[2015/11/21 14:11:44] <Tobbi> oh, right!
+[2015/11/21 14:12:48] <Tobbi> head8debian: You know: Sometimes your neighbours don't greet you any longer and you don't know whether it is because of your garden or because they generally don't like you... :P
+[2015/11/21 14:13:20] @ WantToCompile joined channel #supertux
+[2015/11/21 14:13:25] @ Quit: WantToCompile: Client Quit
