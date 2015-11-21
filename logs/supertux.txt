@@ -8922,3 +8922,5 @@
 [2015/11/21 01:14:04] @ tuxdev_ joined channel #supertux
 [2015/11/21 02:34:59] @ Quit: tuxdev_: Ping timeout: 265 seconds
 [2015/11/21 02:41:46] @ mteufel is now known as mt
+[2015/11/21 03:08:06] @ grumbel joined channel #supertux
+[2015/11/21 03:08:06] @ Mode +o grumbel by ChanServ
