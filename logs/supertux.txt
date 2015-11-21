@@ -9266,3 +9266,36 @@
 [2015/11/21 12:44:15] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#201: Backflipping to a bonus block hides Tux behind it - 13http://git.io/v4hFE
 [2015/11/21 12:44:53] @ Wuzzy joined channel #supertux
 [2015/11/21 12:44:56] <Karkus> Tobbi: Didn't you implement Earth and Air Tux?
+[2015/11/21 12:45:04] <Tobbi> Karkus: No, that was LMH
+[2015/11/21 12:45:10] <Karkus> Tobbi: Ah.
+[2015/11/21 12:45:14] <Karkus> Okay
+[2015/11/21 12:46:23] <brmbrmcar> Earth Tux's light should only be an aid, and not react with blocks.
+[2015/11/21 12:46:40] <brmbrmcar> Otherwise it makes the game actually harder.
+[2015/11/21 12:47:13] <Karkus> brmbrmcar: This is a feature for levels which I have considered basing a whole level around.
+[2015/11/21 12:47:25] <Karkus> All light should do this.
+[2015/11/21 12:47:47] <brmbrmcar> Yes, but then the light should be 360.
+[2015/11/21 12:48:17] <Karkus> Err, well, no.
+[2015/11/21 12:48:22] <Tobbi> It is a lamp...
+[2015/11/21 12:48:32] <Tobbi> The earth tux thing anyway...
+[2015/11/21 12:48:41] <brmbrmcar> How does it react with Mr Candle?
+[2015/11/21 12:48:47] <Karkus> I think http://soundbible.com/1791-Torture.html to fix https://github.com/SuperTux/supertux/issues/43
+[2015/11/21 12:49:15] <Karkus> Or maybe not :D
+[2015/11/21 12:49:25] <Karkus> I'm joking by the way
+[2015/11/21 12:49:49] <Tobbi> hahaha
+[2015/11/21 12:49:51] <brmbrmcar> Definitely not.
+[2015/11/21 12:49:54] <Karkus> brmbrmcar: Does what react with mr candle
+[2015/11/21 12:49:55] <Karkus> ?
+[2015/11/21 12:50:03] <brmbrmcar> Earth flower.
+[2015/11/21 12:50:08] <brmbrmcar> The light.
+[2015/11/21 12:50:23] <Tobbi> Karkus: https://www.youtube.com/watch?v=xn6hhrX34Pw
+[2015/11/21 12:50:28] <Karkus> brmbrmcar: I don't think it does anything, light doesn't affect Mr Candle
+[2015/11/21 12:50:46] <Karkus> Tobbi: Perfect.
+[2015/11/21 12:50:50] <Tobbi> :D
+[2015/11/21 12:51:01] <brmbrmcar> But the light affects magic blocks.
+[2015/11/21 12:51:12] <brmbrmcar> Someone needs to test.
+[2015/11/21 12:51:21] <Karkus> Mr Candle isn't a magic block
+[2015/11/21 12:51:36] <brmbrmcar> I have a feeling it will throw up a bug.
+[2015/11/21 12:51:50] <brmbrmcar> It works in a similar way.
+[2015/11/21 12:52:31] @ Quit: leyyin: Ping timeout: 240 seconds
+[2015/11/21 12:54:20] @ Quit: ced117: Ping timeout: 246 seconds
+[2015/11/21 12:55:56] @ ced117 joined channel #supertux
