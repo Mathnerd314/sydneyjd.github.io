@@ -8949,3 +8949,16 @@
 [2015/11/21 06:44:45] <Not-6fa5> [02supertux] 07Tobias Markus 03975ce53 - [ci skip] Bonus Level: String change
 [2015/11/21 06:47:46] @ alket joined channel #supertux
 [2015/11/21 06:53:35] <Not-6fa5> [02supertux] 07brmbrmcar opened issue 03#234: Making Tux air or earth on death displays hat - 13http://git.io/v4pra
+[2015/11/21 07:00:29] <Tobbi> Okay!
+[2015/11/21 07:01:59] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v4pK3
+[2015/11/21 07:02:00] <Not-6fa5> [02supertux] 07Tobias Markus 0375c8a23 - pot files submodule update
+[2015/11/21 07:02:02] <brmbrmcar> Wha has occured!
+[2015/11/21 07:02:53] <brmbrmcar> s/Wha has occured!/What has occured?!/
+[2015/11/21 07:02:53] <red_bot> brmbrmcar meant: "What has occured?!"
+[2015/11/21 07:03:20] <Tobbi> Source strings on transifex should update within the next day...
+[2015/11/21 07:03:59] <brmbrmcar> Automatically?
+[2015/11/21 07:04:55] <Not-6fa5> [02supertux] 07Hume2 commented on issue 03#233: Idea for new version - 13http://git.io/v4pKp
+[2015/11/21 07:05:13] @ Hume2 joined channel #supertux
+[2015/11/21 07:07:43] <Tobbi> brmbrmcar: Yes.
+[2015/11/21 07:09:35] <brmbrmcar> It takes a day?
+[2015/11/21 07:09:45] <brmbrmcar> What is doing it?
