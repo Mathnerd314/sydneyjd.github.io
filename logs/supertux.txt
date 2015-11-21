@@ -8916,3 +8916,6 @@
 [2015/11/20 23:23:47] @ swift110 joined channel #supertux
 [2015/11/20 23:32:08] @ Quit: irungentoo: Remote host closed the connection
 [2015/11/21 00:32:40] @ Quit: swift110: Remote host closed the connection
+[2015/11/21 00:47:43] @ Quit: Mathnerd314: Ping timeout: 272 seconds
+[2015/11/21 00:56:36] @ giby joined channel #supertux
+[2015/11/21 00:56:36] @ Mode +o giby by ChanServ
