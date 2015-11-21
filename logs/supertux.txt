@@ -8855,3 +8855,12 @@
 [2015/11/20 19:27:09] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-11-19 11:10:15 -0500
 [2015/11/20 19:27:13] @ Mode +nt by hobana.freenode.net
 [2015/11/20 19:29:31] @ head8debian joined channel #supertux
+[2015/11/20 19:34:06] @ datahead8888 is now known as datahead7777
+[2015/11/20 19:35:58] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±2] 13http://git.io/v4xkV
+[2015/11/20 19:35:59] <Not-6fa5> [02supertux] 07Tobias Markus 0397c174f - Only move around badguys that can be considered active
+[2015/11/20 19:36:01] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92378967
+[2015/11/20 19:36:13] @ datahead7777 is now known as datahead8888
+[2015/11/20 19:36:53] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92378967
+[2015/11/20 19:38:40] @ datahead8888 is now known as datahead7777
+[2015/11/20 19:42:38] @ Quit: paroneayea: Read error: Connection reset by peer
+[2015/11/20 19:43:17] @ paroneayea joined channel #supertux
