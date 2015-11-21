@@ -8848,3 +8848,4 @@
 [2015/11/20 18:44:31] @ Tobbi joined channel #supertux
 [2015/11/20 18:44:31] @ Mode +o Tobbi by ChanServ
 [2015/11/20 18:45:15] @ Quit: alket: Remote host closed the connection
+[2015/11/20 19:11:45] @ Karkus joined channel #supertux
