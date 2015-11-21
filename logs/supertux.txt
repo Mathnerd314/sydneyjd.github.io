@@ -9489,3 +9489,22 @@
 [2015/11/21 15:27:37] <Tobbi> head8debian: why_
 [2015/11/21 15:27:38] <Tobbi> ?
 [2015/11/21 15:27:42] @ alket joined channel #supertux
+[2015/11/21 15:30:32] <head8debian> Tobbi: Church
+[2015/11/21 15:30:38] <Tobbi> ah ok
+[2015/11/21 15:30:59] <head8debian> Tobbi: Fun fun. :D I get to reprogram our DMX light controller.
+[2015/11/21 15:31:00] <brmbrmcar> 8colour test
+[2015/11/21 15:31:00] <Tobbi> at 9:30pm? :P
+[2015/11/21 15:31:09] <Tobbi> !8ball
+[2015/11/21 15:31:17] <Tobbi> ~8ball
+[2015/11/21 15:31:17] <red_bot> Tobbi: incorrect usage, ask for help using 'red_bot: help 8ball'
+[2015/11/21 15:31:23] <head8debian> 8color test :D
+[2015/11/21 15:31:26] <Tobbi> ~8ball Shall head8debian go to church now?
+[2015/11/21 15:31:26] * red_bot shakes the magic 8-ball for Tobbi ... yes
+[2015/11/21 15:31:33] <Tobbi> damn, okay.
+[2015/11/21 15:31:33] <head8debian> LOL!
+[2015/11/21 15:31:40] <brmbrmcar> colour test 2
+[2015/11/21 15:31:48] <brmbrmcar> head8debian: How?
+[2015/11/21 15:31:58] <head8debian> brmbrmcar: Me no tell. :-)
+[2015/11/21 15:32:04] <brmbrmcar> :(
+[2015/11/21 15:32:25] <Tobbi> okay, enough of this. I gotta work on college stuff.
+[2015/11/21 15:42:27] @ Quit: Tobbi: Remote host closed the connection
