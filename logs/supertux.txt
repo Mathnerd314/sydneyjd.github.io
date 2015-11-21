@@ -8884,3 +8884,9 @@
 [2015/11/20 19:54:41] <Tobbi> I expected localizations to be lost.
 [2015/11/20 19:54:44] <Tobbi> But they weren't.
 [2015/11/20 19:54:47] <Karkus> Tobbi: Oh, that's great
+[2015/11/20 20:02:09] @ Quit: paroneayea: Ping timeout: 260 seconds
+[2015/11/20 20:05:49] @ Quit: Wuzzy: Quit: Wuzzy
+[2015/11/20 20:10:15] <Tobbi> Found a better sound, I believe.
+[2015/11/20 20:14:31] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+1/-0/±2] 13http://git.io/v4xOw
+[2015/11/20 20:14:32] <Not-6fa5> [02supertux] 07Tobias Markus 038873950 - Add gulp sound when potion is being drunk
+[2015/11/20 20:14:34] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92383226
