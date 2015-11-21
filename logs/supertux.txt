@@ -8962,3 +8962,6 @@
 [2015/11/21 07:07:43] <Tobbi> brmbrmcar: Yes.
 [2015/11/21 07:09:35] <brmbrmcar> It takes a day?
 [2015/11/21 07:09:45] <brmbrmcar> What is doing it?
+[2015/11/21 07:15:44] <Not-6fa5> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v4pPe
+[2015/11/21 07:15:46] <Not-6fa5> [02supertux] 07Hume2 0350d9770 - Used the new jungle tiles in the level Tree Fortress where apporpriate
+[2015/11/21 07:26:19] @ Quit: Tobbi: Remote host closed the connection
