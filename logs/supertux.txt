@@ -9416,3 +9416,40 @@
 [2015/11/21 14:12:48] <Tobbi> head8debian: You know: Sometimes your neighbours don't greet you any longer and you don't know whether it is because of your garden or because they generally don't like you... :P
 [2015/11/21 14:13:20] @ WantToCompile joined channel #supertux
 [2015/11/21 14:13:25] @ Quit: WantToCompile: Client Quit
+[2015/11/21 14:15:18] @ Fire_ joined channel #supertux
+[2015/11/21 14:15:48] <Tobbi> Hello WantToCompile / Fire_ which happen to be the same person.
+[2015/11/21 14:15:57] <Fire_> Hey
+[2015/11/21 14:16:15] <Fire_> Yeah, my first name would be more adequate to what I'm trying to do!
+[2015/11/21 14:16:18] <brmbrmcar> Doyou want to compile Supertux?
+[2015/11/21 14:16:34] <Fire_> Trying to compile it on WIndows with VS 2013
+[2015/11/21 14:16:40] <Tobbi> oh...
+[2015/11/21 14:16:47] <Fire_> xD
+[2015/11/21 14:16:52] <brmbrmcar> Haven't a clue how.
+[2015/11/21 14:17:00] <brmbrmcar> I am the idiot around here.
+[2015/11/21 14:17:13] <Tobbi> brmbrmcar: Stop it!
+[2015/11/21 14:17:13] <Fire_> I compile it, but when I try to run it, gives the error: 0xc00007b
+[2015/11/21 14:17:25] <Tobbi> That's not very verboe.
+[2015/11/21 14:17:27] <Tobbi> verbose
+[2015/11/21 14:19:07] <Fire_> I followed the steps here: https://github.com/SuperTux/supertux/blob/master/INSTALL.md
+[2015/11/21 14:19:20] <Fire_> But I had to copy some .dll manually
+[2015/11/21 14:22:54] <Tobbi> Fire_: Do you have WinDBG installed? Or some other debugger?
+[2015/11/21 14:23:24] <Fire_> Going to check with that
+[2015/11/21 14:23:30] <brmbrmcar> Are you mixing 32 bit and 64 bit dlls?
+[2015/11/21 14:23:51] <Tobbi> Fire_: Would you know how to get a backtrace? If so, go ahead.
+[2015/11/21 14:23:52] <Fire_> Think not.
+[2015/11/21 14:24:29] <Fire_> (about the DLL I mean)
+[2015/11/21 14:24:29] <head8debian> Tobbi: Maybe they are just busy.
+[2015/11/21 14:25:07] <Tobbi> head8debian: No. one person walked past me and I said "Good day" or something and she pretended that she didn't hear me.
+[2015/11/21 14:25:08] <Tobbi> :P
+[2015/11/21 14:26:12] <head8debian> Tobbi: As i said, she was preoccupied. Just because they may seem rude doesn't mean that you have to seem rude back. :D
+[2015/11/21 14:26:24] <Tobbi> head8debian: I am never explicitly rude.
+[2015/11/21 14:26:31] <Tobbi> implicitly, maybe.
+[2015/11/21 14:26:35] <head8debian> Tobbi: Well good...
+[2015/11/21 14:27:15] <brmbrmcar> Fire_: OK. Er...
+[2015/11/21 14:27:24] <Tobbi> head8debian: by the way: Wouldn't it be cool if you could create your own badguys from a lisp definition file?
+[2015/11/21 14:27:25] <Fire_> I'm trying some stuff out, meanwhile
+[2015/11/21 14:27:57] <Tobbi> ok
+[2015/11/21 14:28:21] <head8debian> Tobbi: Uhm, maybe?
+[2015/11/21 14:28:55] <Tobbi> Or not...I don't know.
+[2015/11/21 14:29:18] <brmbrmcar> Fire_: All I could see about the error was 32 and 64 bit stuff getting muddled.
+[2015/11/21 14:29:28] <brmbrmcar> Might be to do with Supertux...
