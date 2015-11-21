@@ -9463,3 +9463,5 @@
 [2015/11/21 14:31:41] <brmbrmcar> I know nothing about the Supertux build process, so...
 [2015/11/21 14:35:49] <brmbrmcar> I want everything able to be made from a lisp definition file.
 [2015/11/21 14:44:00] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/21 14:47:55] @ Quit: Fire_: Ping timeout: 246 seconds
+[2015/11/21 14:48:22] @ Quit: grumbel: Quit: Ex-Chat
