@@ -9230,3 +9230,5 @@
 [2015/11/21 10:59:35] <Not-6fa5> [02supertux] 07Ingo Ruhnke 039307011 - Removed a few unused functions from the Reader API
 [2015/11/21 10:59:37] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03491a5bf - Updated external/sexp-cpp
 [2015/11/21 10:59:38] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92447481
+[2015/11/21 11:00:36] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92447481
+[2015/11/21 11:12:32] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92447481
