@@ -9332,3 +9332,35 @@
 [2015/11/21 13:13:26] <Not-6fa5> [02supertux] 07sydneyjd synchronize pull request 03#232: Change forest world file names - 13http://git.io/v4FVm
 [2015/11/21 13:14:01] <brmbrmcar> Tothe commit message...
 [2015/11/21 13:14:41] <head8debian> Tobbi: Did i do something wrong?
+[2015/11/21 13:15:44] <Tobbi> head8debian: No, perfectly fine.
+[2015/11/21 13:15:49] <head8debian> :-)
+[2015/11/21 13:16:16] <Tobbi> head8debian: Why is that (target-time 0) added, though?
+[2015/11/21 13:16:51] <brmbrmcar> New level editor does that.
+[2015/11/21 13:17:06] <brmbrmcar> It doesn't make any difference.
+[2015/11/21 13:17:23] <head8debian> Tobbi: I have no clue.
+[2015/11/21 13:17:35] <Tobbi> The new level editor should be changed in that aspect.
+[2015/11/21 13:17:45] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92461224
+[2015/11/21 13:18:10] <brmbrmcar> Why?
+[2015/11/21 13:18:22] <brmbrmcar> It is only time wasting.
+[2015/11/21 13:18:24] <Tobbi> brmbrmcar: worldmaps don't have a target time at all.
+[2015/11/21 13:19:39] <brmbrmcar> Yes, but it makes no difference to anything.
+[2015/11/21 13:19:53] <head8debian> Tobbi: I don't know why that line showed up. I was puzzled myself.
+[2015/11/21 13:20:16] <Tobbi> head8debian: You can edit it out with a text editor, commit, squash...
+[2015/11/21 13:21:04] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92460942
+[2015/11/21 13:21:42] <brmbrmcar> Maybe target times can be automatically deleted if set to zero, but it still shouldn't bother worldmaps.
+[2015/11/21 13:22:25] <Tobbi> brmbrmcar: Removing it can be done quickly...
+[2015/11/21 13:23:01] <brmbrmcar> And anyway, it's a nice way to see if something's been updated.
+[2015/11/21 13:23:59] <Not-6fa5> [02supertux] 07Grumbel pushed 033 commits to 03feature/sexp [+0/-0/±6] 13http://git.io/v4jv0
+[2015/11/21 13:24:01] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03ef00b69 - Some lisp -> sx/sexp renaming
+[2015/11/21 13:24:02] <Not-6fa5> [02supertux] 07Ingo Ruhnke 0379b1cc8 - Throw exception when type mismatch occurs in Reader instead of silently ignoring it
+[2015/11/21 13:24:04] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03bc481a4 - Marked TileSetParser::parse_tile_images() as const
+[2015/11/21 13:24:05] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92462756
+[2015/11/21 13:26:21] <Not-6fa5> [02supertux] 07Hume2 synchronize pull request 03#230: Added unordered path mode - 13http://git.io/v4upa
+[2015/11/21 13:26:29] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92463145
+[2015/11/21 13:27:05] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92462756
+[2015/11/21 13:27:37] <Hume2> I'm merging the pull request, any complaints?
+[2015/11/21 13:28:05] <Tobbi> Hume2: Which one?
+[2015/11/21 13:28:16] <Hume2> #230 Unordered path mode
+[2015/11/21 13:28:20] <Tobbi> hmm...
+[2015/11/21 13:28:26] <Tobbi> let me have a last look at it...
+[2015/11/21 13:28:48] <Hume2> OK. Tell me after you're done.
