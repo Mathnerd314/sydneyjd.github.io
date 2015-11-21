@@ -9132,3 +9132,37 @@
 [2015/11/21 09:25:34] <grumbel> don't worry about it, I am going to add some more test cases and errors checks later
 [2015/11/21 09:25:39] <Tobbi> sure.
 [2015/11/21 09:29:06] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#230: Added unordered path mode - 13http://git.io/v4hLt
+[2015/11/21 09:32:14] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#232: Change forest world file names - 13http://git.io/v4hLy
+[2015/11/21 09:32:36] <Tobbi> Karkus: Do we target unordered path node for 0.4.0 or for after?
+[2015/11/21 09:32:51] <Karkus> Tobbi: That very much depends.
+[2015/11/21 09:33:02] <Karkus> See my comment, which option do you want?
+[2015/11/21 09:33:39] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#232: Change forest world file names - 13http://git.io/v4htU
+[2015/11/21 09:33:42] <Karkus> If 1), we can just merge after Hume makes the change he had in mind. If 2, which I think is better, then that needs thought and testing
+[2015/11/21 09:33:58] <Tobbi> Karkus: Let's target for post-0.4.0
+[2015/11/21 09:34:12] <Tobbi> No need to stress ourselves needlessly over it.
+[2015/11/21 09:34:20] <Karkus> Tobbi: Okay :D
+[2015/11/21 09:34:36] <Karkus> Tobbi: I really disagree with that comment though.
+[2015/11/21 09:34:46] <Tobbi> Karkus: With what comment?
+[2015/11/21 09:36:04] <Tobbi> The forest world file name comment?
+[2015/11/21 09:36:10] <Tobbi> Or one of hume's?
+[2015/11/21 09:39:04] <Karkus> It's impossible trying to find a level when you don't know which of christoph1, christoph2 and christoph3 it is
+[2015/11/21 09:39:47] <Karkus> Particularly when the levels have no specified order.
+[2015/11/21 09:40:01] <Karkus> Tobbi: So I think they need changing
+[2015/11/21 09:40:12] <Tobbi> Karkus: And lose stats in turn?
+[2015/11/21 09:40:16] <Tobbi> hmm...
+[2015/11/21 09:40:26] <Tobbi> It's not that *I* care that much, but I believe people might.
+[2015/11/21 09:40:33] <Karkus> Tobbi: Change the way stats work then
+[2015/11/21 09:40:39] <Tobbi> hmm...
+[2015/11/21 09:40:55] <Tobbi> Okay, let's merge head8debian's Pull request...
+[2015/11/21 09:41:11] <Tobbi> Yes, we should add an issue regarding changing stats.
+[2015/11/21 09:41:25] <Karkus> Tobbi: I guess I could work on it
+[2015/11/21 09:41:35] <Tobbi> If you want, sure.
+[2015/11/21 09:41:49] <Karkus> Tobbi: He's got conflicts though
+[2015/11/21 09:41:56] <Tobbi> oh, yeah.
+[2015/11/21 09:42:01] <Tobbi> head8debian: Resolve your conflicts please.
+[2015/11/21 09:42:11] <Karkus> Tobbi: I could just fix them
+[2015/11/21 09:42:25] <Karkus> Actually, no
+[2015/11/21 09:42:28] <Karkus> that makes no sense
+[2015/11/21 09:43:24] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#232: Change forest world file names - 13http://git.io/v4hqF
+[2015/11/21 09:43:48] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#232: Change forest world file names - 13http://git.io/v4hmf
+[2015/11/21 09:44:55] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#232: Change forest world file names - 13http://git.io/v4hm4
