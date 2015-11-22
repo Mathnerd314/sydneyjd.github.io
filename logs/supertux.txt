@@ -9823,3 +9823,63 @@
 [2015/11/22 10:13:50] <Tobbi> Why the hell didn't that trigger a coverity analysis? grr
 [2015/11/22 10:13:54] <leyyin> Tobbi, you should put your university code on github ;)
 [2015/11/22 10:14:01] <Tobbi> leyyin: Part of it is.
+[2015/11/22 10:15:16] <Tobbi> leyyin: My bachelor project https://github.com/tobbi/projectgenerator
+[2015/11/22 10:15:51] <leyyin> ahem Tobbi, .gitignore .DS_STORE
+[2015/11/22 10:15:59] <leyyin> *perfectionism intensifies*
+[2015/11/22 10:16:01] <Tobbi> leyyin: No. :P
+[2015/11/22 10:16:12] <Tobbi> leyyin: Having this on github was just not that important to me.
+[2015/11/22 10:16:23] <Tobbi> I mean: I didn't really care about perfectionism anyway.
+[2015/11/22 10:16:35] <Tobbi> My thesis was 119 pages. I had no way to change that.
+[2015/11/22 10:16:39] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92560175
+[2015/11/22 10:16:40] <Tobbi> rather, no time.
+[2015/11/22 10:16:55] <leyyin> Tobbi, https://en.wikipedia.org/wiki/Perfectionism_%28psychology%29#Positive_aspects
+[2015/11/22 10:17:12] <Tobbi> leyyin: https://en.wikipedia.org/wiki/Perfectionism_%28psychology%29#Negative_aspects
+[2015/11/22 10:17:17] <leyyin> rofl
+[2015/11/22 10:17:56] <Tobbi> leyyin: The paragraph about negative aspects is even longer...
+[2015/11/22 10:19:59] <leyyin> Tobbi, when you have great power you also have great responsibility :P
+[2015/11/22 10:19:59] <Tobbi> leyyin: I have achieved a new low in relationships with society. People in my neighborhood ignore me even when I greet them :D
+[2015/11/22 10:21:07] <leyyin> Tobbi, did that happen multiple times?
+[2015/11/22 10:21:26] <Tobbi> leyyin: Oh, I told you already, didn't I? :D
+[2015/11/22 10:21:30] <Tobbi> But it happens sometimes...
+[2015/11/22 10:21:45] <leyyin> sometimes they do not hear...
+[2015/11/22 10:21:55] <leyyin> just saying, I do not think they do it on purpose
+[2015/11/22 10:22:11] <Tobbi> leyyin: Believe me, they do.
+[2015/11/22 10:22:36] <Tobbi> leyyin: I'm really unpopular with the neighbours...
+[2015/11/22 10:22:45] <leyyin> Tobbi, ask why, then fix it
+[2015/11/22 10:22:54] <Tobbi> Mainly for not caring about my garden, keeping the christmas lights out even when its not christmas...
+[2015/11/22 10:22:55] <Tobbi> >D
+[2015/11/22 10:22:56] <Tobbi> :D
+[2015/11/22 10:23:01] <Tobbi> And staying isolated.
+[2015/11/22 10:23:10] <leyyin> Tobbi, you suck as a neighour then :P
+[2015/11/22 10:23:20] @ Hume2 joined channel #supertux
+[2015/11/22 10:23:24] <Tobbi> leyyin: I know. But I don't want to be dictated what to do by society...
+[2015/11/22 10:23:27] <Tobbi> Thus, I do these things.
+[2015/11/22 10:23:32] <leyyin> get your shit together
+[2015/11/22 10:23:34] <leyyin> Tobbi, edgy
+[2015/11/22 10:24:09] <Tobbi> leyyin: Not really... I believe people look down on me. i'm not willing to contribute to that by complying with society...
+[2015/11/22 10:24:27] <leyyin> does not make any sense :D
+[2015/11/22 10:24:42] <Karkus> I don't think either of you have OCD, by the way
+[2015/11/22 10:25:02] <leyyin> not sure if compliment or insult, hmm.....
+[2015/11/22 10:25:16] <Tobbi> leyyin: Yes it does. If I comply with society, that means that people think I comply... If they accept me the way I am, I might even get to do the garden.
+[2015/11/22 10:25:31] <Tobbi> But since they don't accept me as an equal, even though I don't do my garden, I don't do my garden.
+[2015/11/22 10:25:40] <leyyin> does not make any sense
+[2015/11/22 10:25:43] <Tobbi> Karkus: I am not so sure about the OCD part...I had OCD issues in the past.
+[2015/11/22 10:25:45] <Tobbi> leyyin: Yes it does.
+[2015/11/22 10:25:48] <Mathnerd314> Tobbi: https://www.youtube.com/watch?v=VNkDJk5_9eU
+[2015/11/22 10:25:51] <leyyin> for me it does not
+[2015/11/22 10:25:58] <Tobbi> hahaha
+[2015/11/22 10:26:35] <Karkus> Tobbi: I'm just trying to point out perfectionism != OCD
+[2015/11/22 10:26:43] <Tobbi> Karkus: right...
+[2015/11/22 10:27:24] <Tobbi> leyyin: What I want is for people to see me as an individual and not as "just this anonymous member of society", and once they do that they realize that my garden is my business.
+[2015/11/22 10:27:27] <Karkus> Tobbi: Because OCD is a far wider problem, it can include automatic thoughts, and other pretty horrible symptoms.
+[2015/11/22 10:27:40] <Tobbi> Karkus: I have had OCD automatic thoughts before.
+[2015/11/22 10:27:46] <Tobbi> So, I know how it feels like.
+[2015/11/22 10:27:49] <Karkus> Tobbi: I see..
+[2015/11/22 10:27:54] <leyyin> Tobbi, you should be more like me, not give a shit what other people think :P
+[2015/11/22 10:28:04] <Tobbi> leyyin: It's harder than you think.
+[2015/11/22 10:28:15] <Tobbi> Karkus: Did / doyou? have OCD I mean?
+[2015/11/22 10:28:45] <leyyin> Tobbi, you know in murica it's illegal to not mow your lawn
+[2015/11/22 10:28:54] <Tobbi> leyyin: what? :D
+[2015/11/22 10:29:02] <Tobbi> leyyin: everywhere in america?
+[2015/11/22 10:29:07] <leyyin> almost everwhere
+[2015/11/22 10:29:55] <leyyin> Tobbi, the neibhourhood can fine you ;)
