@@ -9616,3 +9616,19 @@
 [2015/11/22 06:13:58] <Tobbi> First snow of the year...
 [2015/11/22 06:14:37] <brmbrmcar> Not here. :(
 [2015/11/22 06:15:01] <Karkus> Tobbi: They said it might snow yesterday here, but it didn't
+[2015/11/22 06:15:07] <Tobbi> Okay...
+[2015/11/22 06:15:25] <Tobbi> I need to clear the snow...
+[2015/11/22 06:15:25] <Karkus> :(
+[2015/11/22 06:15:28] <Tobbi> will do so in a minute.
+[2015/11/22 06:15:38] <Tobbi> You're required to do so.
+[2015/11/22 06:15:42] <Tobbi> according to law.
+[2015/11/22 06:16:03] <brmbrmcar> Naughty law!
+[2015/11/22 06:17:34] <Tobbi> Not really...
+[2015/11/22 06:17:42] <Tobbi> *sigh*
+[2015/11/22 06:17:52] <brmbrmcar> It is a pain though.
+[2015/11/22 06:18:12] <brmbrmcar> And I like snow because its cold.
+[2015/11/22 06:18:35] <Hume2> I like snow because of SuperTux :D
+[2015/11/22 06:19:01] <brmbrmcar> :D
+[2015/11/22 06:23:02] <Tobbi> Hume2: Can you please update the Czech translation on transifex? I fixed some source string typos.
+[2015/11/22 06:23:26] <Tobbi> Basically, all issues that were reported in the last year and which giby didn't address...
+[2015/11/22 06:26:32] <Tobbi> You shouldn't need to re-translate stuff...You can just click the appropriate thing from the translation memory.
