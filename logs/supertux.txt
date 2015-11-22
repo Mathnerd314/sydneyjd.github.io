@@ -9780,3 +9780,9 @@
 [2015/11/22 09:14:06] <brmbrmcar> What's wow?
 [2015/11/22 09:14:08] @ Mode +nt by sinisalo.freenode.net
 [2015/11/22 09:14:21] <brmbrmcar> red_bot: Where's your cloak?
+[2015/11/22 09:15:20] <brmbrmcar> Ah, you found it.
+[2015/11/22 09:15:21] <head8debian> Mother bumped the wrong circuit  breaker. :p
+[2015/11/22 09:15:35] <brmbrmcar> Ooh.
+[2015/11/22 09:15:42] <brmbrmcar> Naughty mother.
+[2015/11/22 09:16:01] @ Quit: giby_the_kid: Ping timeout: 265 seconds
+[2015/11/22 09:24:45] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#232: Change forest world file names - 13http://git.io/vBfIH
