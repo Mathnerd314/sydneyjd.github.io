@@ -10292,3 +10292,25 @@
 [2015/11/22 13:27:35] <Tobbi> We should get a verified handle on twitter.
 [2015/11/22 13:27:42] <head8debian> Now we have a youtube page with no videos.
 [2015/11/22 13:27:55] <brmbrmcar> Link for youtube page?
+[2015/11/22 13:34:52] * brmbrmcar thinks everyone has died...
+[2015/11/22 13:36:20] <Tobbi> wow, gimp was first released when I was just 6 years old.
+[2015/11/22 13:39:01] <Hume2> brmbrmcar: How do you do the thing with the star at the begining?
+[2015/11/22 13:39:35] <brmbrmcar> What star?
+[2015/11/22 13:39:54] <brmbrmcar> Oh, /me.
+[2015/11/22 13:40:04] * Hume2 test
+[2015/11/22 13:40:08] <Hume2> Thanks.
+[2015/11/22 13:40:12] <brmbrmcar> Or /describe, but I haven't a clue how it works.
+[2015/11/22 13:40:52] <mt> /me is actually an ACTION CTCP
+[2015/11/22 13:40:58] * Hume2 didn't got too how /describe works.
+[2015/11/22 13:41:10] <brmbrmcar> Try /describe brmbrmcar test. It might work online.
+[2015/11/22 13:41:58] <Hume2> That doesn't work too: Unknown command DESCRIBE
+[2015/11/22 13:42:26] <mt> /describe and /me are client specific
+[2015/11/22 13:42:30] <mt> as is /ctcp
+[2015/11/22 13:42:46] <mt> this is basically just a PRIVMSG
+[2015/11/22 13:43:34] <Hume2> That seems to work
+[2015/11/22 13:43:38] <Tobbi> grumbel: It still crashes on startup for me...
+[2015/11/22 13:43:58] <brmbrmcar> How is describe done on irssi?
+[2015/11/22 13:44:19] <grumbel> Tobbi: git submodule is up to date?
+[2015/11/22 13:44:26] <Tobbi> grumbel: Yes, just checked.
+[2015/11/22 13:44:33] <Tobbi> Same stacktrace as well.
+[2015/11/22 13:44:43] <Tobbi> I will try a very fresh checkout, just to be sure.
