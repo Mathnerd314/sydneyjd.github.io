@@ -10575,3 +10575,14 @@
 [2015/11/22 15:11:18] <leyyin> and man refers to manual
 [2015/11/22 15:11:20] <Tobbi> oh, right.
 [2015/11/22 15:11:39] <leyyin> human, man, mankind
+[2015/11/22 15:15:06] @ nerdopolis joined channel #supertux
+[2015/11/22 15:15:39] <brmbrmcar> Are they trying to trick us? http://web.cvs.savannah.gnu.org/viewvc/retux/?root=retux
+[2015/11/22 15:17:52] <Karkus> http://supertux.lethargik.org/bugs/view.php?id=590 does a man page already exist, Tobbi
+[2015/11/22 15:17:59] <Mathnerd314> brmbrmcar: yes, the whole world is a giant conspiracy to convince you that you are insane
+[2015/11/22 15:20:05] <Tobbi> Karkus: Yes, it just doesn't get installed.
+[2015/11/22 15:20:06] <brmbrmcar> So, ReTux isn't really open source?
+[2015/11/22 15:20:53] <Karkus> Tobbi: So I'd have to fiddle with CMake
+[2015/11/22 15:20:58] <Tobbi> Karkus: possibly.
+[2015/11/22 15:21:11] <Karkus> Well, there's no other way...
+[2015/11/22 15:21:18] @ Quit: nerdopolis: Ping timeout: 272 seconds
+[2015/11/22 15:22:25] @ nerdopolis joined channel #supertux
