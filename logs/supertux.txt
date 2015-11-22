@@ -9727,3 +9727,14 @@
 [2015/11/22 07:30:37] @ Quit: alket: Remote host closed the connection
 [2015/11/22 07:32:22] @ alket joined channel #supertux
 [2015/11/22 07:32:38] <grumbel> All our glTexImage2D() upload to mipmap level=0, so that should be ok
+[2015/11/22 07:50:27] <Karkus> Tobbi: Are you able to close bugs in the old bugtracker?
+[2015/11/22 07:51:03] <Tobbi> Karkus: yes.
+[2015/11/22 07:51:14] <Karkus> Tobbi: Okay, great
+[2015/11/22 07:51:51] <Tobbi> I kind of fixed http://supertux.lethargik.org/bugs/view.php?id=895
+[2015/11/22 07:52:00] <Tobbi> kind of, because it looks weird.
+[2015/11/22 07:52:02] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#235: Game is extremely slow at startup in --debug mode, but normalizes after 30sec - 13http://git.io/vBvy9
+[2015/11/22 07:53:24] <Not-6fa5> [02supertux] 07Hume2 commented on issue 03#232: Change forest world file names - 13http://git.io/vBvSv
+[2015/11/22 07:54:08] <grumbel> Karkus: what graphics card do you have?
+[2015/11/22 07:59:28] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBv9P
+[2015/11/22 07:59:30] <Not-6fa5> [02supertux] 07Tobias Markus 033dfe998 - Fix #895: Falling badguys can push other badguys through uni-solid tiles
+[2015/11/22 07:59:31] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92548424
