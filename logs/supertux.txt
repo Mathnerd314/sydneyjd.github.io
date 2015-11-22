@@ -10066,3 +10066,62 @@
 [2015/11/22 12:10:32] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBfS5
 [2015/11/22 12:11:42] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBf9L
 [2015/11/22 12:14:57] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBfHL
+[2015/11/22 12:15:34] <Tobbi> Why the heck won't coverity work again?
+[2015/11/22 12:16:30] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92574812
+[2015/11/22 12:16:55] <Tobbi> I believe we should create a twitter account to get some social media coverage ;) Suggested twitter handles?
+[2015/11/22 12:17:19] <Karkus> @supertux
+[2015/11/22 12:17:29] <Karkus> Tobbi: This is very important, actually
+[2015/11/22 12:17:41] <Tobbi> Karkus: @supertux is already taken.
+[2015/11/22 12:17:55] <Karkus> @supertux-official
+[2015/11/22 12:18:07] <Karkus> -devs
+[2015/11/22 12:18:10] <Tobbi> That might works.
+[2015/11/22 12:18:19] <Tobbi> *work
+[2015/11/22 12:18:40] <Karkus> Tobbi: Is there a way to allow us to work as an organisation on twitter>]
+[2015/11/22 12:18:47] <Tobbi> I will see...
+[2015/11/22 12:18:50] <Karkus> s/>]/?
+[2015/11/22 12:19:03] <Tobbi> What about supertuxteam?
+[2015/11/22 12:19:09] <Tobbi> or...nah...
+[2015/11/22 12:19:14] <Karkus> Tobbi: Yeah
+[2015/11/22 12:19:16] <Tobbi> I wish we could get @supertux
+[2015/11/22 12:19:22] <Karkus> Can't you have '-'
+[2015/11/22 12:19:32] <Karkus> supertux-team
+[2015/11/22 12:19:36] <Tobbi> Ah, yeah.
+[2015/11/22 12:19:53] <Karkus> I don't want it to merge into one word like that
+[2015/11/22 12:20:11] <Tobbi> Hmm... We need a proper email address...
+[2015/11/22 12:20:22] <Tobbi> Something which is not the mailing list.
+[2015/11/22 12:20:43] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBf7Z
+[2015/11/22 12:21:13] <Karkus> Tobbi: What's wrong with the mailing list?
+[2015/11/22 12:21:25] <Tobbi> Karkus: Arbitrary people can reset the password, I believe.
+[2015/11/22 12:21:40] <Karkus> Oh, yeah...
+[2015/11/22 12:22:29] <Tobbi> Karkus: I will register it for my email address and see if I can add you....
+[2015/11/22 12:23:06] <Karkus> Tobbi: I will probably need to be on Twitter, which I am not.
+[2015/11/22 12:23:12] <Karkus> I will setup an account
+[2015/11/22 12:23:13] <Tobbi> We can see...
+[2015/11/22 12:23:27] <Tobbi> I could also PM you the password.
+[2015/11/22 12:25:27] <Karkus> Tobbi: PMing passwords is never a good idea though, is it?
+[2015/11/22 12:25:33] <Tobbi> Karkus: Probably not.
+[2015/11/22 12:25:57] <Tobbi> Karkus: I could create a site that is only visible to mods on the wiki?
+[2015/11/22 12:26:09] <Karkus> Tobbi: But I'm sure you can setup organisations on twitter
+[2015/11/22 12:26:17] <Karkus> Tobbi: With what on?
+[2015/11/22 12:26:28] <Tobbi> Karkus: The password?
+[2015/11/22 12:26:30] <Tobbi> hmm, not sure.
+[2015/11/22 12:26:53] <Karkus> Tobbi: All these things scream security problems to me.
+[2015/11/22 12:26:58] <Tobbi> right.
+[2015/11/22 12:27:05] <Karkus> Tobbi: But as I say, try to setup an organisation
+[2015/11/22 12:27:06] <mt> you can use tweetdeck to work in a team
+[2015/11/22 12:27:22] <mt> (https://tweetdeck.twitter.com/)
+[2015/11/22 12:28:32] <Not-6fa5> [02supertux] 07Grumbel closed issue 03#235: Game is extremely slow at startup in --debug mode, but normalizes after 30sec - 13http://git.io/vBvmE
+[2015/11/22 12:28:33] <Not-6fa5> [02supertux] 07Grumbel pushed 031 commit to 03master [+0/-0/±2] 13http://git.io/vBfdR
+[2015/11/22 12:28:35] <Not-6fa5> [02supertux] 07Ingo Ruhnke 033713ae4 - Manually set Console pointer in ConsoleBuffer, so it is guranteed to be fully initialised
+[2015/11/22 12:28:36] <Tobbi> Karkus: when I try to set supertux-team as the username, it tells me "Your username must at least include one letter" :D
+[2015/11/22 12:28:37] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92577339
+[2015/11/22 12:28:59] <Karkus> Tobbi: :o
+[2015/11/22 12:29:28] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92577339
+[2015/11/22 12:29:33] <Tobbi> Karkus: Underscore works...shall I use that?
+[2015/11/22 12:29:43] <Karkus> Tobbi: Yeah, that works
+[2015/11/22 12:29:44] <Not-6fa5> [02supertux] 07Grumbel pushed 0327 commits to 03feature/sexp [+3/-11/±356] 13http://git.io/vBfFn
+[2015/11/22 12:29:45] <Not-6fa5> [02supertux] 07Ingo Ruhnke 0386cbd9e - Added external/sexp-cpp
+[2015/11/22 12:29:47] <Not-6fa5> [02supertux] 07Ingo Ruhnke 038968c94 - Added sexp build to CMakeLists.txt
+[2015/11/22 12:29:48] <Not-6fa5> [02supertux] 07Ingo Ruhnke 034bcadb3 - Trying to remove raw lisp handling from the code and replace it with ReaderMapping
+[2015/11/22 12:29:50] <Not-6fa5> [02supertux] ... and 24 more commits.
+[2015/11/22 12:29:52] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92577498
