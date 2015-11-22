@@ -9684,3 +9684,28 @@
 [2015/11/22 06:55:38] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92541850
 [2015/11/22 06:58:42] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92541683
 [2015/11/22 06:58:48] <Not-6fa5> [02supertux] 07Grumbel commented on issue 03#236: Menu text could use some cleanup - 13http://git.io/vBvVm
+[2015/11/22 07:00:08] <Not-6fa5> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/92541883
+[2015/11/22 07:00:09] <Not-6fa5> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/92541883
+[2015/11/22 07:00:11] <Not-6fa5> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/92541883
+[2015/11/22 07:00:13] <Not-6fa5> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/92541883
+[2015/11/22 07:00:14] <Not-6fa5> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/92541883
+[2015/11/22 07:00:16] <Not-6fa5> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/92541883
+[2015/11/22 07:00:17] <Not-6fa5> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/92541883
+[2015/11/22 07:00:24] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#236: Menu text could use some cleanup - 13http://git.io/vBvVi
+[2015/11/22 07:00:45] <Tobbi> grumbel: So, if we do change texts prior to 0.4.0, it's better to do it now than later...
+[2015/11/22 07:00:57] <Tobbi> Because all the transifex contributors have to go through them one by one.
+[2015/11/22 07:01:08] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#236: Menu text could use some cleanup - 13http://git.io/vBvVX
+[2015/11/22 07:01:22] <Tobbi> Also, I thought I'd already set a string freeze, but my OCD keeps kicking in and finding issues.
+[2015/11/22 07:02:57] <grumbel> The "Restart level" -> "Restart Level" should be caught by fuzzy matching, the other can wait
+[2015/11/22 07:03:04] <Tobbi> ok.
+[2015/11/22 07:03:18] <Tobbi> Then, let's do that.
+[2015/11/22 07:06:00] <Not-6fa5> [02supertux] 07Grumbel closed pull request 03#237: Feature/gtest - 13http://git.io/vBvgV
+[2015/11/22 07:06:02] <Not-6fa5> [02supertux] 07Grumbel pushed 034 commits to 03master [+10/-10/±4] 13http://git.io/vBvwA
+[2015/11/22 07:06:04] <Not-6fa5> [02supertux] 07Ingo Ruhnke 0389bec43 - Merge pull request #237 from SuperTux/feature/gtest
+[2015/11/22 07:06:06] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92542983
+[2015/11/22 07:07:02] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92542983
+[2015/11/22 07:08:22] <Not-6fa5> [02supertux] 07Grumbel deleted branch 03feature/gtest - 13http://git.io/vvf63
+[2015/11/22 07:08:24] <Not-6fa5> [02supertux] 07Grumbel deleted branch 03feature/gtest
+[2015/11/22 07:09:18] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92541850
+[2015/11/22 07:10:04] <grumbel> do we have any timing/benchmark code in SuperTux?
+[2015/11/22 07:10:26] <Tobbi> grumbel: Don't think so, other than the timelog() stuff at the start.
