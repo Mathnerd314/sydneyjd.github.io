@@ -10375,3 +10375,16 @@
 [2015/11/22 14:11:52] <head8debian> Tobbi: Why does my github page build keep timing out? This iis getting annoying,.
 [2015/11/22 14:11:58] <head8debian> o_O
 [2015/11/22 14:12:04] <Tobbi> head8debian: I don't know. Ask github.
+[2015/11/22 14:15:16] @ Quit: datahead8888_: Ping timeout: 272 seconds
+[2015/11/22 14:18:03] @ Quit: Hume2: Quit: Page closed
+[2015/11/22 14:26:42] @ Quit: grumbel: Quit: Ex-Chat
+[2015/11/22 14:26:51] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/22 14:27:40] <Karkus> leyyin: Will you be able to return to Google?
+[2015/11/22 14:28:52] @ grumbel joined channel #supertux
+[2015/11/22 14:28:52] @ Mode +o grumbel by ChanServ
+[2015/11/22 14:29:07] <leyyin> Karkus, I am able :P but not sure I will
+[2015/11/22 14:29:18] @ Quit: grumbel: Remote host closed the connection
+[2015/11/22 14:29:29] <leyyin> most likely not
+[2015/11/22 14:29:32] <Karkus> leyyin: Why not?
+[2015/11/22 14:29:49] <leyyin> you mean return as an intern or full time?
+[2015/11/22 14:29:56] <Karkus> At all
