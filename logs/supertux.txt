@@ -9543,3 +9543,6 @@
 [2015/11/21 20:55:17] @ Tobbi joined channel #supertux
 [2015/11/21 20:55:17] @ Mode +o Tobbi by ChanServ
 [2015/11/21 20:57:27] @ datahead8888__ is now known as datahead7777
+[2015/11/21 21:00:54] @ Quit: alket: Remote host closed the connection
+[2015/11/21 21:07:51] @ Quit: irungentoo: Remote host closed the connection
+[2015/11/21 21:08:52] @ Quit: Tobbi: Remote host closed the connection
