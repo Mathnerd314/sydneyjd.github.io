@@ -10015,3 +10015,21 @@
 [2015/11/22 11:14:09] <head8debian> Tobbi: :p
 [2015/11/22 11:14:24] <head8debian> Tobbi: I think minetest is a bigger program. :)
 [2015/11/22 11:14:41] <Tobbi> head8debian: Exactly! SuperTux stayed slim throughout the years.
+[2015/11/22 11:15:05] @ giby joined channel #supertux
+[2015/11/22 11:15:05] @ Mode +o giby by ChanServ
+[2015/11/22 11:16:05] <head8debian> Tobbi: True.
+[2015/11/22 11:17:40] <head8debian> mt: Ok, now i have no audio from supertux again, even though pulseaudio is still installed.
+[2015/11/22 11:17:54] <head8debian> It says it faield to connect to server.
+[2015/11/22 11:17:54] @ Quit: alket: Ping timeout: 252 seconds
+[2015/11/22 11:19:23] <head8debian> :(
+[2015/11/22 11:20:24] <Not-6fa5> [02supertux] 07Grumbel pushed 031 commit to 03master [+0/-0/±8] 13http://git.io/vBfVZ
+[2015/11/22 11:20:26] <Not-6fa5> [02supertux] 07Ingo Ruhnke 0358f3d82 - Removed `console_enabled` flag along with --console/--noconsole, use --developer (Ctrl-F2) instead
+[2015/11/22 11:20:27] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92569341
+[2015/11/22 11:21:14] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92569341
+[2015/11/22 11:25:29] <Karkus> Shall I change the title of this issue -> https://github.com/SuperTux/supertux/issues/233
+[2015/11/22 11:25:34] <Karkus> ?
+[2015/11/22 11:26:43] <Hume2> Yes, change it.
+[2015/11/22 11:27:12] <Hume2> We should have a topic for ideas on the Game Dev forum.
+[2015/11/22 11:28:49] <Karkus> We do need a place for M3 ideas, yes
+[2015/11/22 11:29:11] <leyyin> Tobbi, https://youtu.be/0JQ0xnJyb0A greatest song ever :D
+[2015/11/22 11:29:58] <Tobbi> eeh?
