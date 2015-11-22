@@ -10336,3 +10336,42 @@
 [2015/11/22 13:57:20] <Not-6fa5> [02supertux] 07Ingo Ruhnke 038c58db3 - Removed left over debugging output
 [2015/11/22 13:58:50] <Hume2> Thanks grumbel.
 [2015/11/22 13:59:26] <head8debian> brmbrmcar: They are the .tar.gz ... That is linux.
+[2015/11/22 14:00:37] <grumbel> Tobbi: what does feature/sexp actually crash with? Segfault or something like stack overflow?
+[2015/11/22 14:00:52] <Tobbi> grumbel: Let's see...
+[2015/11/22 14:00:56] @ Karkus joined channel #supertux
+[2015/11/22 14:01:49] <grumbel> stack overflow would make sense, since Parser::read() is recursive and has to crunch through all those tilemaps
+[2015/11/22 14:01:56] <brmbrmcar> head8debian: Link?
+[2015/11/22 14:02:28] <Tobbi> grumbel: http://pastebin.com/RRqY5NU1
+[2015/11/22 14:04:05] <head8debian> Tobbi: Good greif.
+[2015/11/22 14:04:43] <head8debian> brmbrmcar: http://brlcad.org/~maths22/supertux-download.php It tells you.
+[2015/11/22 14:05:08] <Karkus> brmbrmcar: Can we have a screenshot for this https://github.com/SuperTux/supertux/issues/227
+[2015/11/22 14:05:33] <brmbrmcar> head8debian: It doesn't for me.
+[2015/11/22 14:05:44] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92587423
+[2015/11/22 14:06:07] <brmbrmcar> I no longer have the issue.
+[2015/11/22 14:06:18] <Karkus> Cool fact: 1/5th of all supertux GitHub bugs are still open
+[2015/11/22 14:06:40] <Karkus> brmbrmcar: So, do we close this, or what?
+[2015/11/22 14:06:55] <Tobbi> that's not a lot.
+[2015/11/22 14:06:57] <grumbel> Tobbi: supertux2 --debug, what file is it crashing on?
+[2015/11/22 14:07:07] <brmbrmcar> You can, as it probably a glich with my crouton startup.
+[2015/11/22 14:07:41] <head8debian> brmbrmcar: You are running ubuntu, correct?
+[2015/11/22 14:08:01] <brmbrmcar> Yes.
+[2015/11/22 14:08:15] <brmbrmcar> But I don't want the .deb or whatever.
+[2015/11/22 14:08:17] <Tobbi> grumbel: Last line that says something about parser is this: [DEBUG] /Users/tobiasmarkus/workspace/supertux_new/supertux/src/util/reader.cpp:97 ReaderDocument::parse: images/objects/bonus_block/brickIce.sprite
+[2015/11/22 14:08:23] <Not-6fa5> [02supertux] 07brmbrmcar closed issue 03#227: Screen going blank on startup, game then freezes - 13http://git.io/v4s3o
+[2015/11/22 14:08:31] <head8debian> brmbrmcar: Ok, in that link i gave you click on ubuntu then type the commands for your version in your terminal.
+[2015/11/22 14:08:40] <brmbrmcar> Yes, I tried.
+[2015/11/22 14:09:06] <brmbrmcar> But 1. It doesn't work and 2. I don't actually want to install it.
+[2015/11/22 14:09:26] <head8debian> brmbrmcar: Then why are you asking to?
+[2015/11/22 14:09:31] <head8debian> Its very easy.
+[2015/11/22 14:09:56] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#218: Add high resolution icon - 13http://git.io/vBJZ7
+[2015/11/22 14:10:08] <brmbrmcar> I just want the tar.gz that was onthe old build page.
+[2015/11/22 14:10:18] <brmbrmcar> But a working, up to date one.
+[2015/11/22 14:10:25] <head8debian> brmbrmcar: We don't have one.
+[2015/11/22 14:10:44] <Not-6fa5> [02supertux] 07sydneyjd commented on issue 03#218: Add high resolution icon - 13http://git.io/vBJnT
+[2015/11/22 14:10:51] <brmbrmcar> :(
+[2015/11/22 14:10:58] * brmbrmcar cries
+[2015/11/22 14:11:03] <head8debian> brmbrmcar: Thats called our git version.
+[2015/11/22 14:11:36] <brmbrmcar> Yes, but I cannot build that thing.
+[2015/11/22 14:11:52] <head8debian> Tobbi: Why does my github page build keep timing out? This iis getting annoying,.
+[2015/11/22 14:11:58] <head8debian> o_O
+[2015/11/22 14:12:04] <Tobbi> head8debian: I don't know. Ask github.
