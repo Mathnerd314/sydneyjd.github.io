@@ -9749,3 +9749,16 @@
 [2015/11/22 08:09:19] <Tobbi> Or whatever that level is called.
 [2015/11/22 08:11:29] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92548424
 [2015/11/22 08:11:40] <Hume2> Tobbi: Yes, I'll do.
+[2015/11/22 08:21:34] <brmbrmcar> In Two Tiny Towers, the dispensers are auto.
+[2015/11/22 08:21:53] <brmbrmcar> Changing ythe direction will fix a lot of bugs.
+[2015/11/22 08:22:10] <Not-6fa5> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBvFz
+[2015/11/22 08:22:11] <Not-6fa5> [02supertux] 07Hume2 032b0f489 - Extended height in level Ghostly World
+[2015/11/22 08:23:46] <Hume2> What about the level Mountain Pass in Forest Island? It's in LMH's addon as well.
+[2015/11/22 08:24:07] <brmbrmcar> mountain Pass? Never heard of it.
+[2015/11/22 08:25:12] <Tobbi> Oh, that one...
+[2015/11/22 08:25:14] <Hume2> brmbrmcar: levels/world2/Mtn_pass.stl
+[2015/11/22 08:25:16] <Tobbi> I'll check.
+[2015/11/22 08:26:54] <brmbrmcar> Oh.
+[2015/11/22 08:27:59] <brmbrmcar> I have a fixed copy of  that Two Tiny Towers bug.
+[2015/11/22 08:28:27] <Tobbi> Hume2: The height of that level is sufficient...
+[2015/11/22 08:29:25] <Hume2> Thanks. I use 36.
