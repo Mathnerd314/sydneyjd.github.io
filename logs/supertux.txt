@@ -10628,3 +10628,5 @@
 [2015/11/22 17:07:25] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2015/11/22 17:12:38] @ Wuzzy joined channel #supertux
 [2015/11/22 17:14:15] @ datahead8888 joined channel #supertux
+[2015/11/22 17:19:31] @ Quit: irungentoo: Remote host closed the connection
+[2015/11/22 17:27:50] @ brmbrmcar joined channel #supertux
