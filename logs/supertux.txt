@@ -10125,3 +10125,33 @@
 [2015/11/22 12:29:48] <Not-6fa5> [02supertux] 07Ingo Ruhnke 034bcadb3 - Trying to remove raw lisp handling from the code and replace it with ReaderMapping
 [2015/11/22 12:29:50] <Not-6fa5> [02supertux] ... and 24 more commits.
 [2015/11/22 12:29:52] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92577498
+[2015/11/22 12:30:25] <Tobbi> Shit, it knows some of my previous Mozilla contacts from that email address :D
+[2015/11/22 12:30:35] <Karkus> :D
+[2015/11/22 12:33:56] <Not-6fa5> [02supertux] 07Grumbel pushed 031 commit to 03feature/sexp [+0/-0/±1] 13http://git.io/vBfbu
+[2015/11/22 12:33:57] <Not-6fa5> [02supertux] 07Ingo Ruhnke 032d0ab6e - Removed left over debug output
+[2015/11/22 12:35:37] <grumbel> Tobbi: have you tried the feature/sexp branch recently?
+[2015/11/22 12:35:47] <Tobbi> grumbel: not yet. Will do soon.
+[2015/11/22 12:36:05] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92577498
+[2015/11/22 12:37:32] <Tobbi> Karkus: PM me your username once (if) you created a twitter account.
+[2015/11/22 12:37:48] <Not-6fa5> [02supertux] 07Grumbel pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBfNa
+[2015/11/22 12:37:49] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03a954b2b - Throw exception on invalid VideoSystem::Enum instead of silently changing it to something else
+[2015/11/22 12:37:51] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92578348
+[2015/11/22 12:39:59] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92577339
+[2015/11/22 12:40:22] <head8debian> Tobbi: We are making a twitter page?
+[2015/11/22 12:40:36] <head8debian> Tobbi: I considered making a supertux google+ page...
+[2015/11/22 12:40:36] <Tobbi> head8debian: Yes, for social media coverage once we release 0.4.0
+[2015/11/22 12:40:46] <Tobbi> head8debian: Go right ahead ;)
+[2015/11/22 12:40:47] <head8debian> Cool.
+[2015/11/22 12:41:16] <head8debian> Tobbi: I wonder why i am having so many github page build failures.
+[2015/11/22 12:41:41] <Karkus> head8debian: Youtube, etc.
+[2015/11/22 12:41:46] <Tobbi> Can't I delete this damn "Who to follow" area?
+[2015/11/22 12:41:51] <Karkus> Along with Google+
+[2015/11/22 12:42:02] <Karkus> Tobbi: I'm in tweet deck
+[2015/11/22 12:42:06] <Tobbi> I know.
+[2015/11/22 12:43:24] <head8debian> Karkus: Uhm, a google account for supertux? I was jsut thinking a page linked to my account.
+[2015/11/22 12:44:01] <Karkus> head8debian: Whatever works. Youtube is useful for, well, posting videos. I think we need a trailer.
+[2015/11/22 12:44:04] <head8debian> I don't use tweeter. :D
+[2015/11/22 12:44:16] <Karkus> head8debian: Nor did I, until now
+[2015/11/22 12:44:41] <Tobbi> I used it in the past, deactivated my account, then recently created a new handle.
+[2015/11/22 12:44:53] <head8debian> Karkus: Yes we do, but my GPU still cannot handle recording and playign the game at the same time.
+[2015/11/22 12:45:00] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBfxC
