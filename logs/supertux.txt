@@ -10611,3 +10611,7 @@
 [2015/11/22 16:05:32] @ Quit: Karkus: Ping timeout: 240 seconds
 [2015/11/22 16:11:10] @ Quit: datahead8888: Ping timeout: 272 seconds
 [2015/11/22 16:13:05] @ datahead8888 joined channel #supertux
+[2015/11/22 16:32:15] @ Quit: brmbrmcar: Ping timeout: 272 seconds
+[2015/11/22 16:44:56] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBJ9p
+[2015/11/22 16:44:58] <Not-6fa5> [02supertux] 07Tobias Markus 0368f5403 - Update CMake to version 3.4.0 in travis.yml
+[2015/11/22 16:44:59] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92609937
