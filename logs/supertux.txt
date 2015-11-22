@@ -9528,3 +9528,7 @@
 [2015/11/21 18:24:55] @ swift110 joined channel #supertux
 [2015/11/21 18:53:47] @ Karkus joined channel #supertux
 [2015/11/21 19:13:59] @ Quit: swift110: Ping timeout: 272 seconds
+[2015/11/21 19:30:57] @ swift110 joined channel #supertux
+[2015/11/21 19:39:41] @ Quit: swift110: Changing host
+[2015/11/21 19:39:41] @ swift110 joined channel #supertux
+[2015/11/21 19:41:00] @ Quit: tux|dude: Quit: Leaving
