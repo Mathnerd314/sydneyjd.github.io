@@ -9632,3 +9632,21 @@
 [2015/11/22 06:23:02] <Tobbi> Hume2: Can you please update the Czech translation on transifex? I fixed some source string typos.
 [2015/11/22 06:23:26] <Tobbi> Basically, all issues that were reported in the last year and which giby didn't address...
 [2015/11/22 06:26:32] <Tobbi> You shouldn't need to re-translate stuff...You can just click the appropriate thing from the translation memory.
+[2015/11/22 06:34:49] @ Quit: brmbrmcar: Quit: back in 25
+[2015/11/22 06:35:10] @ brmbrmcar joined channel #supertux
+[2015/11/22 06:36:28] <Karkus> I wonder why most of the developers around SuperTux and other F/OSS are male
+[2015/11/22 06:36:40] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/22 06:36:43] <Not-6fa5> [02supertux] 07Grumbel opened issue 03#236: Menu text could use some cleanup - 13http://git.io/vBvEd
+[2015/11/22 06:36:45] <brmbrmcar> I haven't a clue.
+[2015/11/22 06:37:53] <grumbel> Can anybody reproduce the issue of supertux getting really really slow in --debug mode?
+[2015/11/22 06:38:03] <Karkus> grumbel: Let me try
+[2015/11/22 06:38:04] <grumbel> Doesn't happen always, but like every second or third restart of the game
+[2015/11/22 06:38:30] <grumbel> It's only slow for 30sec or so, then it goes back to normal
+[2015/11/22 06:38:50] <grumbel> might be an AMD graphics driver issue, but could also be something completely different
+[2015/11/22 06:39:06] <Karkus> It's fairly slow anyway, because of these -> https://github.com/SuperTux/supertux/labels/involves%3Aperformance
+[2015/11/22 06:39:13] <brmbrmcar> No, but I do get the same issue sometimes starting normally.
+[2015/11/22 06:42:07] <grumbel> any objections against merging feature/gtest into master?
+[2015/11/22 06:42:57] <Karkus> grumbel: I've tried it quite a few times, and I haven't noticed any difference whatsoever
+[2015/11/22 06:43:16] <Karkus> grumbel: I don't actually know what gtest does...
+[2015/11/22 06:43:39] <brmbrmcar> Neither do I.
+[2015/11/22 06:44:30] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#236: Menu text could use some cleanup - 13http://git.io/vBvzy
