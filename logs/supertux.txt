@@ -9532,3 +9532,8 @@
 [2015/11/21 19:39:41] @ Quit: swift110: Changing host
 [2015/11/21 19:39:41] @ swift110 joined channel #supertux
 [2015/11/21 19:41:00] @ Quit: tux|dude: Quit: Leaving
+[2015/11/21 19:46:43] @ datahead8888__ joined channel #supertux
+[2015/11/21 19:49:31] @ Quit: datahead8888_: Ping timeout: 240 seconds
+[2015/11/21 19:53:30] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#191: Autoscrolling doesn't crush Tux against walls anymore - 13http://git.io/vBemT
+[2015/11/21 19:55:49] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#165: Animations loop if you pause and then unpause game - 13http://git.io/vBemB
+[2015/11/21 19:56:16] @ Quit: Karkus: Remote host closed the connection
