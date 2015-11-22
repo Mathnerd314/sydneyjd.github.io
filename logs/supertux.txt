@@ -10314,3 +10314,25 @@
 [2015/11/22 13:44:26] <Tobbi> grumbel: Yes, just checked.
 [2015/11/22 13:44:33] <Tobbi> Same stacktrace as well.
 [2015/11/22 13:44:43] <Tobbi> I will try a very fresh checkout, just to be sure.
+[2015/11/22 13:45:18] * Hume2 is building SuperTux.
+[2015/11/22 13:45:51] * brmbrmcar cannot build Supertux, so won't be.
+[2015/11/22 13:48:03] * Hume2 can launch SuperTux.
+[2015/11/22 13:48:17] <brmbrmcar> From the supertux2 binary.
+[2015/11/22 13:48:31] <Hume2> No, from the build :D
+[2015/11/22 13:48:34] <Hume2> What is the googletest by the way?
+[2015/11/22 13:48:45] <brmbrmcar> You built the binary.
+[2015/11/22 13:49:50] <Hume2> Well, I launched the binary :D
+[2015/11/22 13:50:08] <brmbrmcar> Where are the linux tar whatever nightly builds?
+[2015/11/22 13:50:34] <Hume2> I don't care because I make my own, but I should know that.
+[2015/11/22 13:50:45] <Tobbi> brmbrmcar: check topic?
+[2015/11/22 13:51:04] <brmbrmcar> There is no all-Linux download.
+[2015/11/22 13:53:20] <Not-6fa5> [02supertux] 07Grumbel pushed 031 commit to 03master [+0/-0/±4] 13http://git.io/vBJOE
+[2015/11/22 13:53:21] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03d175aee - Cleaned up some clang++ warnings
+[2015/11/22 13:53:23] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92587423
+[2015/11/22 13:54:16] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92587423
+[2015/11/22 13:55:33] @ Quit: Karkus: Remote host closed the connection
+[2015/11/22 13:55:41] <grumbel> Hume2: googletest is for automatically testing code
+[2015/11/22 13:57:18] <Not-6fa5> [02supertux] 07Grumbel pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBJ31
+[2015/11/22 13:57:20] <Not-6fa5> [02supertux] 07Ingo Ruhnke 038c58db3 - Removed left over debugging output
+[2015/11/22 13:58:50] <Hume2> Thanks grumbel.
+[2015/11/22 13:59:26] <head8debian> brmbrmcar: They are the .tar.gz ... That is linux.
