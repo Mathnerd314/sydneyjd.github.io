@@ -10268,3 +10268,27 @@
 [2015/11/22 13:13:38] <head8debian> :) You might now.
 [2015/11/22 13:14:15] <Karkus> Tobbi: Sorry
 [2015/11/22 13:14:29] <Karkus> I get one too
+[2015/11/22 13:15:04] <brmbrmcar> Why don't yu disable?
+[2015/11/22 13:15:05] <Tobbi> I tweeted something, worked rather fine.
+[2015/11/22 13:16:38] @ maths22_ is now known as maths22
+[2015/11/22 13:16:42] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92581532
+[2015/11/22 13:18:50] <Karkus> Tobbi: I liked it :D
+[2015/11/22 13:19:27] <brmbrmcar> Ah, *sigh*. Twitter.
+[2015/11/22 13:19:34] <Hume2> I think that the ideas should go to the forum.
+[2015/11/22 13:19:35] <Tobbi> Karkus: I can see that :D
+[2015/11/22 13:19:59] <Karkus> Maybe I should comment saying "First"
+[2015/11/22 13:20:07] <brmbrmcar> Hume2: I agree.
+[2015/11/22 13:20:50] <head8debian> We don't need a google+ page if we have a twitter page...
+[2015/11/22 13:20:51] <Karkus> Hume2: It's difficult to know
+[2015/11/22 13:21:01] <Karkus> head8debian: No, we don't.
+[2015/11/22 13:21:38] <Hume2> Karkus: What's difficult on it?
+[2015/11/22 13:21:49] <Karkus> Hume2: Where to put things.
+[2015/11/22 13:22:02] <Karkus> The forum is less active than GitHub, for example
+[2015/11/22 13:22:10] <Karkus> But I agree
+[2015/11/22 13:22:31] <Hume2> At least the forum will be more active.
+[2015/11/22 13:22:41] <Karkus> Hume2: Hopefully
+[2015/11/22 13:23:15] <Karkus> Once we have a list of things there, it should be moved manually onto the wiki, and then slowly issues should be created for each thing.
+[2015/11/22 13:25:20] <Hume2> That could work.
+[2015/11/22 13:27:35] <Tobbi> We should get a verified handle on twitter.
+[2015/11/22 13:27:42] <head8debian> Now we have a youtube page with no videos.
+[2015/11/22 13:27:55] <brmbrmcar> Link for youtube page?
