@@ -9724,3 +9724,6 @@
 [2015/11/22 07:28:34] <grumbel> there was some gluBuild2DMipmaps() code, but now it's just "if (false) { glGenerateMipmaps() };"
 [2015/11/22 07:28:52] <Tobbi> Ah, okay...
 [2015/11/22 07:28:57] <Tobbi> So, this is likely fixed.
+[2015/11/22 07:30:37] @ Quit: alket: Remote host closed the connection
+[2015/11/22 07:32:22] @ alket joined channel #supertux
+[2015/11/22 07:32:38] <grumbel> All our glTexImage2D() upload to mipmap level=0, so that should be ok
