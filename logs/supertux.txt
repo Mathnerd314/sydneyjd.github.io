@@ -9570,3 +9570,4 @@
 [2015/11/21 22:58:06] @ jeezy joined channel #supertux
 [2015/11/21 23:19:11] @ Quit: nerdopolis: Quit: No Ping reply in 180 seconds.
 [2015/11/21 23:21:07] @ nerdopolis joined channel #supertux
+[2015/11/21 23:39:23] @ tux|dude joined channel #supertux
