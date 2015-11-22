@@ -9599,3 +9599,6 @@
 [2015/11/22 05:05:13] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#191: Autoscrolling doesn't crush Tux against walls anymore - 13http://git.io/vBvq7
 [2015/11/22 05:08:56] <Not-6fa5> [02supertux] 07Grumbel opened issue 03#235: Game is extremely slow at startup in --debug mode, but normalizes after 30sec - 13http://git.io/vBvmE
 [2015/11/22 05:14:09] @ Quit: grumbel: Ping timeout: 252 seconds
+[2015/11/22 05:17:31] @ grumbel joined channel #supertux
+[2015/11/22 05:17:57] @ Mode +o grumbel by ChanServ
+[2015/11/22 05:25:55] @ Wuzzy joined channel #supertux
