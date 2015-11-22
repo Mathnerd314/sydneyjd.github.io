@@ -10155,3 +10155,76 @@
 [2015/11/22 12:44:41] <Tobbi> I used it in the past, deactivated my account, then recently created a new handle.
 [2015/11/22 12:44:53] <head8debian> Karkus: Yes we do, but my GPU still cannot handle recording and playign the game at the same time.
 [2015/11/22 12:45:00] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBfxC
+[2015/11/22 12:45:21] <head8debian> Should i make a openmailbox.org account for supertux and link a supertux google account to it? :D
+[2015/11/22 12:45:34] <Tobbi> head8debian: Wait, you got an e-mail address?
+[2015/11/22 12:45:45] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92578348
+[2015/11/22 12:45:46] <head8debian> Yes.
+[2015/11/22 12:45:50] <Tobbi> head8debian: Yes, if you can create an email address all of us have access to, that would be great.
+[2015/11/22 12:45:57] <Tobbi> head8debian: PM me the mail address once you created it.
+[2015/11/22 12:46:02] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBfx6
+[2015/11/22 12:46:10] <head8debian> Are you ok if its not a @gmail.com address?
+[2015/11/22 12:46:23] <Tobbi> head8debian: Yes, of course.
+[2015/11/22 12:46:24] <head8debian> I figure it will probably be safer for us if its not.
+[2015/11/22 12:46:34] <head8debian> Ok.
+[2015/11/22 12:46:57] <head8debian> supertuxteam@emailprovider.org?
+[2015/11/22 12:47:11] <Tobbi> head8debian: sure, if that works.
+[2015/11/22 12:47:14] <Tobbi> tell me when it's created.
+[2015/11/22 12:47:52] <Karkus> head8debian: Mine struggles too.
+[2015/11/22 12:47:59] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBfpJ
+[2015/11/22 12:48:30] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBfpt
+[2015/11/22 12:48:57] @ alket joined channel #supertux
+[2015/11/22 12:49:04] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBfp8
+[2015/11/22 12:49:08] <Tobbi> head8debian: did you create supertuxteam@ that email provider?
+[2015/11/22 12:49:24] <head8debian> Tobbi: Yes. :) Somebody took supertux@...
+[2015/11/22 12:49:30] <Tobbi> ok
+[2015/11/22 12:49:53] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBfpr
+[2015/11/22 12:50:12] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92577498
+[2015/11/22 12:50:41] <Tobbi> head8debian: A confirmation should've been sent.
+[2015/11/22 12:50:54] <Tobbi> You need to click it.
+[2015/11/22 12:51:03] <Tobbi> *click a link.
+[2015/11/22 12:51:05] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBfpb
+[2015/11/22 12:51:53] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBfhT
+[2015/11/22 12:51:58] <head8debian> Tobbi: What?
+[2015/11/22 12:52:05] <Tobbi> head8debian: I changed the email address...
+[2015/11/22 12:52:16] <Tobbi> head8debian: You should've gotten a confirmation to that email address.
+[2015/11/22 12:52:19] <head8debian> Ah,
+[2015/11/22 12:52:20] <head8debian> .
+[2015/11/22 12:52:51] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBfhC
+[2015/11/22 12:53:34] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBfh0
+[2015/11/22 12:53:44] <Tobbi> I just followed supertuxkart
+[2015/11/22 12:53:49] <head8debian> I see.
+[2015/11/22 12:53:59] <head8debian> Tobbi: Do we want all the passwords to be the same also?
+[2015/11/22 12:54:11] <Tobbi> head8debian: I set a new password for the twitter handle.
+[2015/11/22 12:54:18] <Tobbi> One that I'll have difficulties to remember.
+[2015/11/22 12:54:20] <head8debian> I have set up 100 key passwords for our google account and email.
+[2015/11/22 12:54:27] <head8debian> :D
+[2015/11/22 12:54:37] <head8debian> Thanks Keepassx.
+[2015/11/22 12:55:12] <head8debian> Tobbi: Ok, who should i msg the info to. It *should* be safe to PM the info. Otherwise i can try to encrypt with GPG.
+[2015/11/22 12:55:15] <brmbrmcar> 100 different ones or a 100 character long one?
+[2015/11/22 12:55:23] <Tobbi> head8debian: uhm...one moment.
+[2015/11/22 12:55:25] <head8debian> brmbrmcar: 100 character long.
+[2015/11/22 12:55:39] <brmbrmcar> Why that secure?
+[2015/11/22 12:56:23] <Tobbi> Unfortunately, I don't have any working GPG keys...
+[2015/11/22 12:56:32] <Karkus> head8debian: Now that's too far. Most of my passwords are at least 15 chars, but thats enough
+[2015/11/22 12:56:33] <brmbrmcar> There is no point. If someone really wanted to know the password they could hack into the sending of it.
+[2015/11/22 12:56:46] <Tobbi> head8debian: Can you set up forwarding?
+[2015/11/22 12:56:56] <brmbrmcar> I like long passwords though. :D
+[2015/11/22 12:56:59] <Tobbi> As in: Forward all emails to that email address to my email?
+[2015/11/22 12:57:00] <head8debian> Tobbi: Uhm, what do you mean?
+[2015/11/22 12:57:05] <Tobbi> I just explained.
+[2015/11/22 12:57:06] <head8debian> I doubt it.
+[2015/11/22 12:57:12] <Tobbi> really? Can't you try?
+[2015/11/22 12:57:13] <head8debian> I can try though.
+[2015/11/22 12:57:15] <Not-6fa5> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/92578348
+[2015/11/22 12:57:16] <Tobbi> :D
+[2015/11/22 12:57:34] <Tobbi> I believe, missing include on that one ^^
+[2015/11/22 12:57:39] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBfjV
+[2015/11/22 12:58:18] <head8debian> Tobbi: It doesn't appear so.
+[2015/11/22 12:58:22] <Tobbi> hrm...
+[2015/11/22 12:58:31] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBfj5
+[2015/11/22 12:58:40] <head8debian> Karkus: Yes, its excessive, but using a password manager its relatively easy.
+[2015/11/22 12:59:02] <head8debian> Karkus: And, since we are now social we are goign to be a sitting duck for attacks.
+[2015/11/22 12:59:14] <head8debian> A duck with bullet proof sheilding that is. :D
+[2015/11/22 12:59:50] <head8debian> Tobbi: I will PM you and Karkus the info. Anyone else that should be notified?
+[2015/11/22 12:59:56] <Tobbi> OK, fine.
+[2015/11/22 12:59:57] <brmbrmcar> But you realise hat those social people only know as much about security as I do, right?
