@@ -9709,3 +9709,18 @@
 [2015/11/22 07:09:18] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92541850
 [2015/11/22 07:10:04] <grumbel> do we have any timing/benchmark code in SuperTux?
 [2015/11/22 07:10:26] <Tobbi> grumbel: Don't think so, other than the timelog() stuff at the start.
+[2015/11/22 07:16:52] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±2] 13http://git.io/vBvKl
+[2015/11/22 07:16:54] <Not-6fa5> [02supertux] 07Tobias Markus 031dd8ac7 - Change Restart level -> Restart Level
+[2015/11/22 07:16:55] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92543740
+[2015/11/22 07:17:10] <Tobbi> Oh, I forgot to [ci skip]
+[2015/11/22 07:17:25] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92542983
+[2015/11/22 07:17:48] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92543740
+[2015/11/22 07:19:51] <Tobbi> We should've had a string freeze long ago.
+[2015/11/22 07:19:54] <Tobbi> :P
+[2015/11/22 07:21:50] <Tobbi> grumbel: Is this fixed, by the way? http://supertux.lethargik.org/bugs/view.php?id=443
+[2015/11/22 07:24:32] <grumbel> doesn't look like we are using mipmaps in the code right now
+[2015/11/22 07:27:52] <Tobbi> grumbel: We did in 0.3.1?
+[2015/11/22 07:28:21] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92543740
+[2015/11/22 07:28:34] <grumbel> there was some gluBuild2DMipmaps() code, but now it's just "if (false) { glGenerateMipmaps() };"
+[2015/11/22 07:28:52] <Tobbi> Ah, okay...
+[2015/11/22 07:28:57] <Tobbi> So, this is likely fixed.
