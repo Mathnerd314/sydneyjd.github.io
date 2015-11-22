@@ -10472,3 +10472,74 @@
 [2015/11/22 14:44:46] <leyyin> well my dream would be to work on an open source product and be paid for it :P
 [2015/11/22 14:44:55] <Karkus> Tobbi: I reckon I'm aware of that
 [2015/11/22 14:44:59] <Tobbi> leyyin: Aka Mozilla.
+[2015/11/22 14:45:07] <Karkus> leyyin: This exists
+[2015/11/22 14:45:15] <Karkus> Android?
+[2015/11/22 14:45:21] <leyyin> Tobbi, mozilla is going down the shit drain
+[2015/11/22 14:45:41] <brmbrmcar> Android is not open source! But it is free!
+[2015/11/22 14:45:43] <leyyin> I still read the new glassdoor reviews :P
+[2015/11/22 14:45:54] <leyyin> brmbrmcar, check your facts mate ;)
+[2015/11/22 14:46:00] <Tobbi> leyyin: there are new?
+[2015/11/22 14:46:21] <leyyin> Karkus, well, they develop their new android version closed at first, but they release a new version down and there
+[2015/11/22 14:46:26] <leyyin> under an open source license
+[2015/11/22 14:46:27] <brmbrmcar> Well, show me the source for Android.
+[2015/11/22 14:46:49] <Karkus> leyyin: But if you've got it on your phone, you can get the code.
+[2015/11/22 14:46:49] <leyyin> brmbrmcar, heard of custom roms?
+[2015/11/22 14:46:50] <brmbrmcar> And, if people pay for it, they get a nasty bonus.
+[2015/11/22 14:46:57] <brmbrmcar> Yeah
+[2015/11/22 14:47:09] * Tobbi opens up glassdoor.com
+[2015/11/22 14:47:11] <leyyin> brmbrmcar, how do they do it, the custom roms, without the source code?
+[2015/11/22 14:47:20] <brmbrmcar> Er...
+[2015/11/22 14:47:28] <brmbrmcar> But then there is no cost!
+[2015/11/22 14:47:35] <brmbrmcar> That is a different thing!
+[2015/11/22 14:47:38] <leyyin> what?
+[2015/11/22 14:47:57] <Karkus> brmbrmcar: Stop! Using! Exclamation! Marks!
+[2015/11/22 14:48:02] <leyyin> https://source.android.com/
+[2015/11/22 14:48:56] <Karkus> brmbrmcar: Android must be open source, as it is based off Linux
+[2015/11/22 14:49:12] <leyyin> Karkus, *the kernel must be open source
+[2015/11/22 14:49:17] <Karkus> The question is, does that mean that it is by definition less secure than iOS
+[2015/11/22 14:49:27] <brmbrmcar> Where does the thing actually show the code?
+[2015/11/22 14:49:27] <leyyin> any other part is not mandatory to be open source
+[2015/11/22 14:49:30] <Tobbi> leyyin: The reviews are not *that* bad.
+[2015/11/22 14:49:40] <Karkus> leyyin: It gets too complex for me.
+[2015/11/22 14:49:50] <Karkus> All I know- GPL is infective
+[2015/11/22 14:49:51] <Tobbi> I mean. There are 3 and 4 star reviews among them.
+[2015/11/22 14:50:01] <leyyin> brmbrmcar, https://android.googlesource.com/
+[2015/11/22 14:50:26] <head8debian> Tobbi: They told me to email github support...
+[2015/11/22 14:50:27] <Karkus> I have no idea how people work with code bases as huge as that...
+[2015/11/22 14:50:28] <brmbrmcar> Ah. OK.
+[2015/11/22 14:50:36] <brmbrmcar> Where do they charge then?
+[2015/11/22 14:50:38] <Tobbi> head8debian: who told you?
+[2015/11/22 14:50:46] <leyyin> brmbrmcar, charge what?
+[2015/11/22 14:50:56] <leyyin> brmbrmcar, are you as student?
+[2015/11/22 14:51:43] <brmbrmcar> Like, what is the point of charging for it if someone can just git clone it?
+[2015/11/22 14:51:51] <leyyin> ahem
+[2015/11/22 14:51:59] <leyyin> brmbrmcar, who charges for android?
+[2015/11/22 14:52:06] <Karkus> ...
+[2015/11/22 14:52:07] <leyyin> android does not cost money....
+[2015/11/22 14:52:27] <leyyin> I know a piece of software that is GPL (open source) and costs money
+[2015/11/22 14:52:29] <leyyin> synergy
+[2015/11/22 14:52:39] <leyyin> http://synergy-project.org/
+[2015/11/22 14:52:39] <brmbrmcar> You said it cost money.
+[2015/11/22 14:52:45] <leyyin> brmbrmcar, I did?
+[2015/11/22 14:52:48] <Karkus> leyyin: ReTux :P
+[2015/11/22 14:53:39] <brmbrmcar> Oh, Retux. I tried cracking it, but after about 200 minutes realised that it was going to take days, not minutes.
+[2015/11/22 14:54:06] <Karkus> brmbrmcar: Or years...
+[2015/11/22 14:54:13] <brmbrmcar> Yes.
+[2015/11/22 14:54:30] <leyyin> this http://retux.nongnu.org/download.html ?
+[2015/11/22 14:54:31] <Tobbi> Or millennia...
+[2015/11/22 14:54:42] <brmbrmcar> I thought that it would dive in to the archive and just extract the thing.
+[2015/11/22 14:54:44] <Tobbi> leyyin: Yes. Uses our assets, new code base.
+[2015/11/22 14:55:15] <head8debian> Tobbi: #github
+[2015/11/22 14:55:22] <Tobbi> head8debian: /join #github
+[2015/11/22 14:55:25] <Tobbi> oops
+[2015/11/22 14:55:39] <head8debian> their irc channel is pitifull
+[2015/11/22 14:55:59] <Tobbi> head8debian: Ah, your site not parsing was the thing, right?
+[2015/11/22 14:56:00] <leyyin> what happened?
+[2015/11/22 14:56:21] <head8debian> Tobbi: I think.
+[2015/11/22 14:56:25] <head8debian> so.
+[2015/11/22 14:56:29] <head8debian> *
+[2015/11/22 14:56:52] <head8debian> Tobbi: But it makes no sense as to why not.
+[2015/11/22 14:57:39] <brmbrmcar> Anyone know a quicker way to crack a 7z encryption?
+[2015/11/22 14:58:42] <Karkus> Faster computer
+[2015/11/22 14:59:27] <brmbrmcar> I mean, easy.
+[2015/11/22 14:59:43] <brmbrmcar> And 10000000000000000% quicker, not 50%.
