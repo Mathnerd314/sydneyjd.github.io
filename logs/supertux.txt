@@ -9540,3 +9540,6 @@
 [2015/11/21 20:15:02] @ Quit: swift110: Ping timeout: 260 seconds
 [2015/11/21 20:32:22] <Not-6fa5> [02supertux] 07sydneyjd commented on issue 03#191: Autoscrolling doesn't crush Tux against walls anymore - 13http://git.io/vBe3l
 [2015/11/21 20:33:13] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#191: Autoscrolling doesn't crush Tux against walls anymore - 13http://git.io/vBe3R
+[2015/11/21 20:55:17] @ Tobbi joined channel #supertux
+[2015/11/21 20:55:17] @ Mode +o Tobbi by ChanServ
+[2015/11/21 20:57:27] @ datahead8888__ is now known as datahead7777
