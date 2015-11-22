@@ -9608,3 +9608,11 @@
 [2015/11/22 05:55:12] @ brmbrmca1 joined channel #supertux
 [2015/11/22 05:55:37] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/11/22 05:55:45] @ brmbrmca1 is now known as brmbrmcar
+[2015/11/22 06:11:51] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/22 06:12:19] @ Hume2 joined channel #supertux
+[2015/11/22 06:12:35] @ brmbrmcar joined channel #supertux
+[2015/11/22 06:13:53] @ Tobbi joined channel #supertux
+[2015/11/22 06:13:53] @ Mode +o Tobbi by ChanServ
+[2015/11/22 06:13:58] <Tobbi> First snow of the year...
+[2015/11/22 06:14:37] <brmbrmcar> Not here. :(
+[2015/11/22 06:15:01] <Karkus> Tobbi: They said it might snow yesterday here, but it didn't
