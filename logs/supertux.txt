@@ -9588,3 +9588,5 @@
 [2015/11/22 03:51:18] <grumbel> "Abandon Level"?
 [2015/11/22 03:53:27] @ claymore2 joined channel #supertux
 [2015/11/22 03:56:26] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92527688
+[2015/11/22 04:08:15] @ leyyin joined channel #supertux
+[2015/11/22 04:13:29] @ brmbrmcar joined channel #supertux
