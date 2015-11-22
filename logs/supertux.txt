@@ -10623,3 +10623,8 @@
 [2015/11/22 16:53:04] <Not-6fa5> [02supertux] 07Tobias Markus 039ca3345 - Fix travis
 [2015/11/22 16:53:06] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92611078
 [2015/11/22 16:54:00] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92611078
+[2015/11/22 17:04:54] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92611078
+[2015/11/22 17:07:07] @ Quit: datahead8888: Ping timeout: 260 seconds
+[2015/11/22 17:07:25] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/11/22 17:12:38] @ Wuzzy joined channel #supertux
+[2015/11/22 17:14:15] @ datahead8888 joined channel #supertux
