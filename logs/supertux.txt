@@ -9650,3 +9650,37 @@
 [2015/11/22 06:43:16] <Karkus> grumbel: I don't actually know what gtest does...
 [2015/11/22 06:43:39] <brmbrmcar> Neither do I.
 [2015/11/22 06:44:30] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#236: Menu text could use some cleanup - 13http://git.io/vBvzy
+[2015/11/22 06:45:13] <Karkus> grumbel: Either go ahead and merge it, or make a pull request
+[2015/11/22 06:46:21] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#236: Menu text could use some cleanup - 13http://git.io/vBvgL
+[2015/11/22 06:47:22] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#236: Menu text could use some cleanup - 13http://git.io/vBvgl
+[2015/11/22 06:48:06] <Not-6fa5> [02supertux] 07Grumbel opened pull request 03#237: Feature/gtest - 13http://git.io/vBvgV
+[2015/11/22 06:48:08] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92541683
+[2015/11/22 06:48:35] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#236: Menu text could use some cleanup - 13http://git.io/vBvgi
+[2015/11/22 06:49:04] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92541683
+[2015/11/22 06:49:10] @ Tobbi joined channel #supertux
+[2015/11/22 06:49:10] @ Mode +o Tobbi by ChanServ
+[2015/11/22 06:49:23] <Tobbi> Karkus: There are also a few women contributing in open source.
+[2015/11/22 06:49:32] <Tobbi> but maybe males are more the type of things who'd do such a thing.
+[2015/11/22 06:50:15] <Not-6fa5> [02supertux] 07Grumbel pushed 033 commits to 03feature/gtest [+5/-5/±2] 13http://git.io/vBv2U
+[2015/11/22 06:50:17] <Not-6fa5> [02supertux] 07Ingo Ruhnke 036be06dd - Added googletest submodule
+[2015/11/22 06:50:18] <Not-6fa5> [02supertux] 07Ingo Ruhnke 038d91104 - Added -DBUILD_TEST=ON flag to cmake to build test cases
+[2015/11/22 06:50:20] <Not-6fa5> [02supertux] 07Ingo Ruhnke 031491743 - Converted test cases to googletest
+[2015/11/22 06:50:21] <Not-6fa5> [02supertux] 07Grumbel synchronize pull request 03#237: Feature/gtest - 13http://git.io/vBvgV
+[2015/11/22 06:50:23] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92541850
+[2015/11/22 06:50:32] <Tobbi> grumbel: gtest is just unit tests, isn't it>
+[2015/11/22 06:50:36] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92541883
+[2015/11/22 06:50:38] <grumbel> yes
+[2015/11/22 06:50:42] <Tobbi> So it shouldn't have any impact on the final game at all.
+[2015/11/22 06:50:44] <Tobbi> Thus can be merged.
+[2015/11/22 06:51:28] <Tobbi> Okay, now really, clearing the snow.
+[2015/11/22 06:51:58] <brmbrmcar> How much snow?
+[2015/11/22 06:53:25] <Tobbi> Not enough to be clearing...
+[2015/11/22 06:53:29] <Tobbi> apparently.
+[2015/11/22 06:54:00] <brmbrmcar> So I'm not missing out.
+[2015/11/22 06:54:35] <Tobbi> grumbel: Couldn't you only build a static library in case people actively choose to configure with -DTest?
+[2015/11/22 06:54:51] <Tobbi> *-D_BUILD_TEST=ON
+[2015/11/22 06:55:24] <grumbel> not really worth the effort, static library doesn't add much extra time, it's just scooping up all the .o files into an lib*.a
+[2015/11/22 06:55:38] <Tobbi> hrm, alright.
+[2015/11/22 06:55:38] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92541850
+[2015/11/22 06:58:42] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92541683
+[2015/11/22 06:58:48] <Not-6fa5> [02supertux] 07Grumbel commented on issue 03#236: Menu text could use some cleanup - 13http://git.io/vBvVm
