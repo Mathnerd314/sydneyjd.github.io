@@ -10228,3 +10228,43 @@
 [2015/11/22 12:59:50] <head8debian> Tobbi: I will PM you and Karkus the info. Anyone else that should be notified?
 [2015/11/22 12:59:56] <Tobbi> OK, fine.
 [2015/11/22 12:59:57] <brmbrmcar> But you realise hat those social people only know as much about security as I do, right?
+[2015/11/22 13:00:18] <brmbrmcar> AKA the passwords are not secure.
+[2015/11/22 13:02:27] <Karkus> head8debian: Social Engineering is our worst threat.
+[2015/11/22 13:02:39] <Karkus> wait
+[2015/11/22 13:02:58] <Karkus> yes. social engineering
+[2015/11/22 13:04:08] <brmbrmcar> Just be careful.
+[2015/11/22 13:04:17] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBJvE
+[2015/11/22 13:04:27] <brmbrmcar> And also, who the hell would want to know the password?
+[2015/11/22 13:04:45] <Karkus> brmbrmcar: Anyone who wanted to mess with us.
+[2015/11/22 13:04:54] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBJvP
+[2015/11/22 13:05:04] <head8debian> brmbrmcar: Alot of people and bots.
+[2015/11/22 13:05:06] <Not-6fa5> [02supertux] 07Grumbel pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBJvS
+[2015/11/22 13:05:07] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03f13a804 - Added missing #include <stdexcept>
+[2015/11/22 13:05:09] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92581532
+[2015/11/22 13:05:40] <head8debian> Now, can someone do some recording of supertux gameplay?
+[2015/11/22 13:05:45] <brmbrmcar> Like a 5 year old angry that he could pass Picnic with Penny?
+[2015/11/22 13:05:52] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBJvh
+[2015/11/22 13:05:53] <brmbrmcar> I cannot.
+[2015/11/22 13:06:06] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92581532
+[2015/11/22 13:06:23] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBJfL
+[2015/11/22 13:06:26] <head8debian> brmbrmcar: picknic with penny is not a actual level. You watch the animation in it then it ends.
+[2015/11/22 13:06:46] <brmbrmcar> Yes, but I was actually dumb enough to be stuck there.
+[2015/11/22 13:06:57] <brmbrmcar> The first time I played.
+[2015/11/22 13:07:02] <head8debian> ...
+[2015/11/22 13:07:15] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBJfl
+[2015/11/22 13:07:41] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBJfg
+[2015/11/22 13:07:51] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBJfw
+[2015/11/22 13:08:18] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBJf6
+[2015/11/22 13:08:40] <Karkus> *sigh*
+[2015/11/22 13:08:44] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBJf5
+[2015/11/22 13:08:56] <Tobbi> Karkus, brmbrmcar: You guys are aware of the fact that I keep getting an e-mail for every single of these changes, aren't you?
+[2015/11/22 13:09:10] <brmbrmcar> You can disable thet.
+[2015/11/22 13:09:35] <head8debian> Tobbi: Haha, i am. :)
+[2015/11/22 13:09:46] <Tobbi> Great.
+[2015/11/22 13:10:42] <head8debian> Im going to verify the google account. PLEASE don't use my phone number if it asks you to.
+[2015/11/22 13:11:11] <brmbrmcar> How would we even know it?
+[2015/11/22 13:11:34] <Tobbi> head8debian: Do we even have your phone number?
+[2015/11/22 13:12:09] <brmbrmcar> Exactly.
+[2015/11/22 13:13:38] <head8debian> :) You might now.
+[2015/11/22 13:14:15] <Karkus> Tobbi: Sorry
+[2015/11/22 13:14:29] <Karkus> I get one too
