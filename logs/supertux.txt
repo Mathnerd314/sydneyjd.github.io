@@ -9590,3 +9590,4 @@
 [2015/11/22 03:56:26] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92527688
 [2015/11/22 04:08:15] @ leyyin joined channel #supertux
 [2015/11/22 04:13:29] @ brmbrmcar joined channel #supertux
+[2015/11/22 04:17:51] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#165: Animations loop if you pause and then unpause game - 13http://git.io/vBveQ
