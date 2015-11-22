@@ -9993,3 +9993,25 @@
 [2015/11/22 10:54:15] <Tobbi> I googled it.
 [2015/11/22 10:54:31] <Tobbi> Also, it was just opened yesterday.
 [2015/11/22 10:56:23] <head8debian> I see that.
+[2015/11/22 11:01:02] <mt> head8debian: are you using plain ALSA or PulseAudio?
+[2015/11/22 11:06:04] <Hume2> Tobbi: So I'm deleting it...
+[2015/11/22 11:06:07] <head8debian> mt: Alsa IIRC>
+[2015/11/22 11:06:17] <head8debian> Yes, just ALSA.
+[2015/11/22 11:06:46] <Tobbi> Hume2: okay, fine. It's not used in the world map?
+[2015/11/22 11:06:48] <mt> well, install pulseaudio; reboot or reload systemd's socket activation defaults
+[2015/11/22 11:07:11] <head8debian> mt: It should work through either method.
+[2015/11/22 11:07:35] <mt> yeah, it *should* work, but
+[2015/11/22 11:07:35] <head8debian> mt: But i will try it.
+[2015/11/22 11:07:43] <mt> if you want to fix it now
+[2015/11/22 11:09:03] <Not-6fa5> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-1/±0] 13http://git.io/vBfgx
+[2015/11/22 11:09:04] <Not-6fa5> [02supertux] 07Hume2 039a67b7f - Deleted level Mountain Pass since it's in LMH's addon.
+[2015/11/22 11:09:51] <Hume2> Tobbi: It's not used in the worldmap. Seriously, it's an icy level in world 2.
+[2015/11/22 11:10:00] <Tobbi> Hume2: Okay...
+[2015/11/22 11:10:03] <head8debian> mt: Yep, fixed it.
+[2015/11/22 11:11:14] <grumbel> Any objections against removing the (console #t) flag in config along with --noconsole/--console options? It's all pretty redundant given that there is a developer mode which does much the same
+[2015/11/22 11:11:30] <Tobbi> Okay, fine...
+[2015/11/22 11:12:00] <head8debian> mt: Well, it fixes the issue for Supertux, but not other programs that were affected.
+[2015/11/22 11:13:42] <Tobbi> But SuperTux is the most important...
+[2015/11/22 11:14:09] <head8debian> Tobbi: :p
+[2015/11/22 11:14:24] <head8debian> Tobbi: I think minetest is a bigger program. :)
+[2015/11/22 11:14:41] <Tobbi> head8debian: Exactly! SuperTux stayed slim throughout the years.
