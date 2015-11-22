@@ -9804,3 +9804,22 @@
 [2015/11/22 09:53:09] <Not-6fa5> [02supertux] ... and 24 more commits.
 [2015/11/22 09:53:10] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92560175
 [2015/11/22 09:56:38] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92559998
+[2015/11/22 10:02:35] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92559583
+[2015/11/22 10:03:55] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92560175
+[2015/11/22 10:05:41] <Not-6fa5> [02supertux] 07Grumbel commented on issue 03#235: Game is extremely slow at startup in --debug mode, but normalizes after 30sec - 13http://git.io/vBfZe
+[2015/11/22 10:06:59] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92559998
+[2015/11/22 10:09:01] <Not-6fa5> [02supertux] 07Grumbel commented on issue 03#235: Game is extremely slow at startup in --debug mode, but normalizes after 30sec - 13http://git.io/vBfZr
+[2015/11/22 10:10:26] <leyyin> Tobbi, coverity is just your OCD poking you? :P
+[2015/11/22 10:10:47] <Tobbi> leyyin: yes.
+[2015/11/22 10:10:50] <Tobbi> Just like everything.
+[2015/11/22 10:11:02] <leyyin> well I am a perfectionist too
+[2015/11/22 10:11:06] <leyyin> so I guess I have OCD :/
+[2015/11/22 10:11:23] <leyyin> not sure if a bad thing or good
+[2015/11/22 10:11:35] <Tobbi> leyyin: I am not sure, either...
+[2015/11/22 10:12:03] <leyyin> but people always want to see my code at school because it is so clean and "perfect" :D
+[2015/11/22 10:12:15] <Tobbi> leyyin: So, I even had to exclude squirrel library from coverity because that part is just a mess.
+[2015/11/22 10:12:29] <Tobbi> leyyin: People never want to see my code. They don't understand it anyway :D
+[2015/11/22 10:13:43] @ Mathnerd314 joined channel #supertux
+[2015/11/22 10:13:50] <Tobbi> Why the hell didn't that trigger a coverity analysis? grr
+[2015/11/22 10:13:54] <leyyin> Tobbi, you should put your university code on github ;)
+[2015/11/22 10:14:01] <Tobbi> leyyin: Part of it is.
