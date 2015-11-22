@@ -9573,3 +9573,6 @@
 [2015/11/21 23:39:23] @ tux|dude joined channel #supertux
 [2015/11/22 00:02:52] @ Quit: tux|dude: Quit: Leaving
 [2015/11/22 00:55:05] @ Quit: swift110: Remote host closed the connection
+[2015/11/22 02:03:33] @ grumbel joined channel #supertux
+[2015/11/22 02:03:33] @ Mode +o grumbel by ChanServ
+[2015/11/22 02:10:23] <Not-6fa5> [02supertux] 07Hume2 commented on issue 03#191: Autoscrolling doesn't crush Tux against walls anymore - 13http://git.io/vBe1h
