@@ -9602,3 +9602,4 @@
 [2015/11/22 05:17:31] @ grumbel joined channel #supertux
 [2015/11/22 05:17:57] @ Mode +o grumbel by ChanServ
 [2015/11/22 05:25:55] @ Wuzzy joined channel #supertux
+[2015/11/22 05:44:42] @ Quit: claymore2: Quit: Leaving
