@@ -10615,3 +10615,11 @@
 [2015/11/22 16:44:56] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBJ9p
 [2015/11/22 16:44:58] <Not-6fa5> [02supertux] 07Tobias Markus 0368f5403 - Update CMake to version 3.4.0 in travis.yml
 [2015/11/22 16:44:59] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92609937
+[2015/11/22 16:45:49] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92609937
+[2015/11/22 16:48:29] <Not-6fa5> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/92609937
+[2015/11/22 16:50:54] <Tobbi> error???
+[2015/11/22 16:52:24] <Tobbi> oh, yes, of course.
+[2015/11/22 16:53:03] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBJQn
+[2015/11/22 16:53:04] <Not-6fa5> [02supertux] 07Tobias Markus 039ca3345 - Fix travis
+[2015/11/22 16:53:06] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92611078
+[2015/11/22 16:54:00] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92611078
