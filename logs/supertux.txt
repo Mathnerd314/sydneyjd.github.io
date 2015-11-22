@@ -10033,3 +10033,21 @@
 [2015/11/22 11:28:49] <Karkus> We do need a place for M3 ideas, yes
 [2015/11/22 11:29:11] <leyyin> Tobbi, https://youtu.be/0JQ0xnJyb0A greatest song ever :D
 [2015/11/22 11:29:58] <Tobbi> eeh?
+[2015/11/22 11:30:10] <leyyin> that guy dances with a log :D
+[2015/11/22 11:30:25] <leyyin> such russian
+[2015/11/22 11:30:32] <Tobbi> :D
+[2015/11/22 11:30:40] <Tobbi> leyyin: No, such arborphile...
+[2015/11/22 11:30:58] <Tobbi> http://de.urbandictionary.com/define.php?term=arborphile
+[2015/11/22 11:31:22] <Tobbi> *Dendrophile
+[2015/11/22 11:31:30] <Tobbi> https://en.wikipedia.org/wiki/Dendrophilia_%28paraphilia%29
+[2015/11/22 11:32:10] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92569341
+[2015/11/22 11:33:39] <Not-6fa5> [02supertux] 07Grumbel commented on issue 03#235: Game is extremely slow at startup in --debug mode, but normalizes after 30sec - 13http://git.io/vBfKO
+[2015/11/22 11:33:58] <leyyin> 10 minutes to build supertux?
+[2015/11/22 11:33:59] <leyyin> really
+[2015/11/22 11:34:09] <Tobbi> leyyin: make -j10 works better.
+[2015/11/22 11:35:01] <leyyin> "Current gcc that supports C++ 11 features"
+[2015/11/22 11:35:08] <leyyin> gcc 4.6 supports some :P
+[2015/11/22 11:37:16] <mt> -j10? how boring
+[2015/11/22 11:37:26] <mt> `-j` <3
+[2015/11/22 11:37:40] <mt> (don't)
+[2015/11/22 11:38:30] <mt> unless you have a sane limits.conf(5)
