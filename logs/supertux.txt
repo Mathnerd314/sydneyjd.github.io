@@ -9546,3 +9546,4 @@
 [2015/11/21 21:00:54] @ Quit: alket: Remote host closed the connection
 [2015/11/21 21:07:51] @ Quit: irungentoo: Remote host closed the connection
 [2015/11/21 21:08:52] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/21 21:20:05] @ Quit: Wuzzy: Remote host closed the connection
