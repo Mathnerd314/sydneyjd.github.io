@@ -10602,3 +10602,12 @@
 [2015/11/22 15:59:33] @ brmbrmca1 joined channel #supertux
 [2015/11/22 15:59:52] @ Quit: brmbrmca1: Changing host
 [2015/11/22 15:59:53] @ brmbrmca1 joined channel #supertux
+[2015/11/22 16:00:06] <Karkus> Tobbi: Welp, they responded, but I have no idea what on earth they are on about.
+[2015/11/22 16:00:18] @ Quit: brmbrmca1: Client Quit
+[2015/11/22 16:00:18] <Tobbi> :D
+[2015/11/22 16:00:41] <brmbrmcar> Oh, yes, I saw.
+[2015/11/22 16:03:01] <Tobbi> Karkus: What did they respond?
+[2015/11/22 16:05:06] <brmbrmcar> A question.
+[2015/11/22 16:05:32] @ Quit: Karkus: Ping timeout: 240 seconds
+[2015/11/22 16:11:10] @ Quit: datahead8888: Ping timeout: 272 seconds
+[2015/11/22 16:13:05] @ datahead8888 joined channel #supertux
