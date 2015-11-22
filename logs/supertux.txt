@@ -9764,3 +9764,8 @@
 [2015/11/22 08:29:25] <Hume2> Thanks. I use 36.
 [2015/11/22 08:31:45] @ Quit: Wuzzy: Remote host closed the connection
 [2015/11/22 08:35:39] @ Quit: Hume2: Quit: Page closed
+[2015/11/22 08:52:24] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#235: Game is extremely slow at startup in --debug mode, but normalizes after 30sec - 13http://git.io/vBfeG
+[2015/11/22 08:55:33] <Not-6fa5> [02supertux] 07Grumbel pushed 031 commit to 03feature/sexp [+0/-0/±1] 13http://git.io/vBfvn
+[2015/11/22 08:55:35] <Not-6fa5> [02supertux] 07Ingo Ruhnke 0341c48d3 - Fixed crash when trying to open non-existing file, i.e. PHYSFS_getRealDir() would return nullptr
+[2015/11/22 08:55:36] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92553545
+[2015/11/22 08:56:30] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92553545
