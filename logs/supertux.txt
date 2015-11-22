@@ -9603,3 +9603,8 @@
 [2015/11/22 05:17:57] @ Mode +o grumbel by ChanServ
 [2015/11/22 05:25:55] @ Wuzzy joined channel #supertux
 [2015/11/22 05:44:42] @ Quit: claymore2: Quit: Leaving
+[2015/11/22 05:47:14] @ alket joined channel #supertux
+[2015/11/22 05:53:57] @ Karkus joined channel #supertux
+[2015/11/22 05:55:12] @ brmbrmca1 joined channel #supertux
+[2015/11/22 05:55:37] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/22 05:55:45] @ brmbrmca1 is now known as brmbrmcar
