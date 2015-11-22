@@ -9571,3 +9571,4 @@
 [2015/11/21 23:19:11] @ Quit: nerdopolis: Quit: No Ping reply in 180 seconds.
 [2015/11/21 23:21:07] @ nerdopolis joined channel #supertux
 [2015/11/21 23:39:23] @ tux|dude joined channel #supertux
+[2015/11/22 00:02:52] @ Quit: tux|dude: Quit: Leaving
