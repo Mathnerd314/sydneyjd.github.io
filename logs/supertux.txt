@@ -10053,3 +10053,16 @@
 [2015/11/22 11:38:30] <mt> unless you have a sane limits.conf(5)
 [2015/11/22 11:48:19] <Not-6fa5> [02supertux] 07Grumbel commented on issue 03#235: Game is extremely slow at startup in --debug mode, but normalizes after 30sec - 13http://git.io/vBfP2
 [2015/11/22 11:52:43] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBfXM
+[2015/11/22 12:01:17] <Not-6fa5> [02supertux] 07Grumbel commented on issue 03#235: Game is extremely slow at startup in --debug mode, but normalizes after 30sec - 13http://git.io/vBfDe
+[2015/11/22 12:03:36] <Not-6fa5> [02supertux] 07Bananikus starred 03supertux - 13http://git.io/vBfDi
+[2015/11/22 12:04:10] <Tobbi> 81 stars :)
+[2015/11/22 12:07:31] @ giby_the_kid joined channel #supertux
+[2015/11/22 12:07:31] @ Mode +o giby_the_kid by ChanServ
+[2015/11/22 12:08:00] <Not-6fa5> [02supertux] 07tobbi pushed 035 commits to 03coverity_scan [+42/-43/±11] 13http://git.io/vBfyd
+[2015/11/22 12:08:02] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92574812
+[2015/11/22 12:08:05] <Tobbi> Let's see if this works!
+[2015/11/22 12:08:54] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92574812
+[2015/11/22 12:09:11] @ Quit: giby: Ping timeout: 244 seconds
+[2015/11/22 12:10:32] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBfS5
+[2015/11/22 12:11:42] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBf9L
+[2015/11/22 12:14:57] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBfHL
