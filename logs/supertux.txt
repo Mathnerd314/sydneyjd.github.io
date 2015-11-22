@@ -9786,3 +9786,5 @@
 [2015/11/22 09:15:42] <brmbrmcar> Naughty mother.
 [2015/11/22 09:16:01] @ Quit: giby_the_kid: Ping timeout: 265 seconds
 [2015/11/22 09:24:45] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#232: Change forest world file names - 13http://git.io/vBfIH
+[2015/11/22 09:41:23] @ Tobbi joined channel #supertux
+[2015/11/22 09:41:23] @ Mode +o Tobbi by ChanServ
