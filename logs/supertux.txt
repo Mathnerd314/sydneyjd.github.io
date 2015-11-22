@@ -10586,3 +10586,5 @@
 [2015/11/22 15:21:11] <Karkus> Well, there's no other way...
 [2015/11/22 15:21:18] @ Quit: nerdopolis: Ping timeout: 272 seconds
 [2015/11/22 15:22:25] @ nerdopolis joined channel #supertux
+[2015/11/22 15:39:06] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/22 15:42:45] @ datahead8888 joined channel #supertux
