@@ -9591,3 +9591,7 @@
 [2015/11/22 04:08:15] @ leyyin joined channel #supertux
 [2015/11/22 04:13:29] @ brmbrmcar joined channel #supertux
 [2015/11/22 04:17:51] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#165: Animations loop if you pause and then unpause game - 13http://git.io/vBveQ
+[2015/11/22 04:53:25] <Not-6fa5> [02supertux] 07Grumbel pushed 031 commit to 03feature/sexp [+0/-0/±2] 13http://git.io/vBvL2
+[2015/11/22 04:53:26] <Not-6fa5> [02supertux] 07Ingo Ruhnke 0339563cd - Added support for (region "filename" x y w h) to (tiles (images ...))
+[2015/11/22 04:53:28] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92532461
+[2015/11/22 04:54:21] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92532461
