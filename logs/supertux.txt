@@ -10588,3 +10588,17 @@
 [2015/11/22 15:22:25] @ nerdopolis joined channel #supertux
 [2015/11/22 15:39:06] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/11/22 15:42:45] @ datahead8888 joined channel #supertux
+[2015/11/22 15:45:55] @ brmbrmcar joined channel #supertux
+[2015/11/22 15:48:24] <Tobbi> Karkus: in any case, man page is here: https://github.com/SuperTux/supertux/blob/master/man/man6/supertux2.6
+[2015/11/22 15:48:51] <Karkus> Tobbi: I managed to find it, yes, but I've no idea how CMake works...
+[2015/11/22 15:48:58] <Tobbi> Ah, right.
+[2015/11/22 15:49:09] <Tobbi> Karkus: there's #cmake
+[2015/11/22 15:49:24] <Tobbi> on freenode, I mean.
+[2015/11/22 15:49:55] <Karkus> I've asked.
+[2015/11/22 15:50:07] <Karkus> Just now, I mean
+[2015/11/22 15:50:56] <Tobbi> ok
+[2015/11/22 15:52:35] <brmbrmcar> Oh, you really have.
+[2015/11/22 15:52:55] @ tux|dude joined channel #supertux
+[2015/11/22 15:59:33] @ brmbrmca1 joined channel #supertux
+[2015/11/22 15:59:52] @ Quit: brmbrmca1: Changing host
+[2015/11/22 15:59:53] @ brmbrmca1 joined channel #supertux
