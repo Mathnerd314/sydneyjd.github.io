@@ -9738,3 +9738,14 @@
 [2015/11/22 07:59:28] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBv9P
 [2015/11/22 07:59:30] <Not-6fa5> [02supertux] 07Tobias Markus 033dfe998 - Fix #895: Falling badguys can push other badguys through uni-solid tiles
 [2015/11/22 07:59:31] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92548424
+[2015/11/22 08:00:28] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92548424
+[2015/11/22 08:01:52] <Tobbi> I assume this is much better now.
+[2015/11/22 08:04:16] <Not-6fa5> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBvHM
+[2015/11/22 08:04:17] <Not-6fa5> [02supertux] 07Hume2 03f9f60c9 - Extended height in the level Dan Morial
+[2015/11/22 08:04:29] <Tobbi> Karkus: Could you do me a favour and test http://supertux.lethargik.org/bugs/view.php?id=895? both before and after my recent commit? There's a test level there.
+[2015/11/22 08:05:49] <Hume2> Delete the question mark at the end. It things that is belongs to the URL.
+[2015/11/22 08:07:22] <Tobbi> Mine displays it just fine.
+[2015/11/22 08:09:14] <Tobbi> Hume2: You could extend "A ghostly world" as well...
+[2015/11/22 08:09:19] <Tobbi> Or whatever that level is called.
+[2015/11/22 08:11:29] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92548424
+[2015/11/22 08:11:40] <Hume2> Tobbi: Yes, I'll do.
