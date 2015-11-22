@@ -10051,3 +10051,5 @@
 [2015/11/22 11:37:26] <mt> `-j` <3
 [2015/11/22 11:37:40] <mt> (don't)
 [2015/11/22 11:38:30] <mt> unless you have a sane limits.conf(5)
+[2015/11/22 11:48:19] <Not-6fa5> [02supertux] 07Grumbel commented on issue 03#235: Game is extremely slow at startup in --debug mode, but normalizes after 30sec - 13http://git.io/vBfP2
+[2015/11/22 11:52:43] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#224: Local 2 Player Multiplayer - 13http://git.io/vBfXM
