@@ -9548,3 +9548,8 @@
 [2015/11/21 21:08:52] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/21 21:20:05] @ Quit: Wuzzy: Remote host closed the connection
 [2015/11/21 21:46:52] <Not-6fa5> [02supertux] 07complaining-user-engine starred 03supertux - 13http://git.io/vBeC7
+[2015/11/21 22:37:46] @ datahead8888_ joined channel #supertux
+[2015/11/21 22:39:23] @ kyberkits joined channel #supertux
+[2015/11/21 22:40:05] @ maths22_ joined channel #supertux
+[2015/11/21 22:41:09] @ bb010g joined channel #supertux
+[2015/11/21 22:41:17] @ swift110 joined channel #supertux
