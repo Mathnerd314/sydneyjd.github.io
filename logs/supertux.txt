@@ -9788,3 +9788,19 @@
 [2015/11/22 09:24:45] <Not-6fa5> [02supertux] 07Karkus476 commented on issue 03#232: Change forest world file names - 13http://git.io/vBfIH
 [2015/11/22 09:41:23] @ Tobbi joined channel #supertux
 [2015/11/22 09:41:23] @ Mode +o Tobbi by ChanServ
+[2015/11/22 09:49:24] <Not-6fa5> [02supertux] 07Grumbel pushed 031 commit to 03master [+1/-0/±1] 13http://git.io/vBfOg
+[2015/11/22 09:49:25] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03b187183 - Replaced broken invisible_path with a proper image
+[2015/11/22 09:49:27] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92559583
+[2015/11/22 09:49:59] <Tobbi> [ci skip] anyone? :P
+[2015/11/22 09:50:18] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92559583
+[2015/11/22 09:50:36] @ kyberkits is now known as gynter
+[2015/11/22 09:51:17] <Tobbi> Okay, now that coverity is back up...
+[2015/11/22 09:52:14] <Not-6fa5> [02supertux] 07tobbi pushed 0318 commits to 03coverity_scan [+14/-10/±25] 13http://git.io/vBf3q
+[2015/11/22 09:52:16] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92559998
+[2015/11/22 09:53:03] <Not-6fa5> [02supertux] 07Grumbel pushed 0327 commits to 03feature/sexp [+3/-11/±356] 13http://git.io/vBf3l
+[2015/11/22 09:53:04] <Not-6fa5> [02supertux] 07Ingo Ruhnke 032366555 - Added external/sexp-cpp
+[2015/11/22 09:53:06] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03d990c31 - Added sexp build to CMakeLists.txt
+[2015/11/22 09:53:07] <Not-6fa5> [02supertux] 07Ingo Ruhnke 0300947b6 - Trying to remove raw lisp handling from the code and replace it with ReaderMapping
+[2015/11/22 09:53:09] <Not-6fa5> [02supertux] ... and 24 more commits.
+[2015/11/22 09:53:10] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92560175
+[2015/11/22 09:56:38] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92559998
