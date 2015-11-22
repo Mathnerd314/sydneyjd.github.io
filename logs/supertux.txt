@@ -9959,3 +9959,37 @@
 [2015/11/22 10:44:36] <head8debian> Not using a PKGBUILD.
 [2015/11/22 10:44:43] <mt> well, the pkgbuild takes the git repo and uses it
 [2015/11/22 10:44:55] <mt> because the Arch way
+[2015/11/22 10:45:32] <mt> better write a pkgbuild than install something to some place and not knowing what it installs to what place
+[2015/11/22 10:45:36] <Not-6fa5> [02supertux] 07Grumbel pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBfRr
+[2015/11/22 10:45:38] <Not-6fa5> [02supertux] 07Ingo Ruhnke 037215ba9 - Fixed supertux2 binary not getting installed on 'make install'
+[2015/11/22 10:46:19] <head8debian> ...
+[2015/11/22 10:47:45] <grumbel> No luck with the console, it shows up in --debug mode, but then just disappears. Rebinding keys doesn't help
+[2015/11/22 10:48:00] <mt> head8debian: music works, but it says `connect(2) call to /dev/shm/jack-1000/default/jack_0 failed (err=No such file or directory)` on startup
+[2015/11/22 10:48:29] <Tobbi> grumbel: The console showing up and disappearing is intended behaviour.
+[2015/11/22 10:48:36] <Tobbi> That's just for showing messages.
+[2015/11/22 10:48:58] <Tobbi> grumbel: Did you try setting the console key to one of the F1..F12 keys?
+[2015/11/22 10:49:02] <Tobbi> If not, try it.
+[2015/11/22 10:49:05] <Tobbi> It worked for me.
+[2015/11/22 10:49:21] <head8debian> mt: Same here.
+[2015/11/22 10:49:30] <head8debian> mt: Well, i get that error.
+[2015/11/22 10:49:44] <Hume2> I'll delete the level levels/worldmap/Mtn_Pass.stl. Any complaints before I delete it?
+[2015/11/22 10:49:54] <Tobbi> Hume2: Why??? It's a great level!
+[2015/11/22 10:50:07] <Hume2> Tobbi: It's already in LMH's addon.
+[2015/11/22 10:50:09] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92564960
+[2015/11/22 10:50:17] <Tobbi> Hume2: Really? let me check.
+[2015/11/22 10:50:41] <Hume2> *levels/world2/Mtn_Pass.stl
+[2015/11/22 10:50:58] <head8debian> mt: Im getting this error on top of that one. https://paste.debian.net/334963/
+[2015/11/22 10:52:12] <head8debian> Yay, a Xorg update. :D
+[2015/11/22 10:52:23] <Tobbi> head8debian: https://bugs.archlinux.org/task/47136 ?
+[2015/11/22 10:52:34] <Tobbi> there you go!!!
+[2015/11/22 10:53:07] <head8debian> It will be a great day when Wayland is out. :D
+[2015/11/22 10:53:14] <head8debian> Tobbi: o_O I did quack it.
+[2015/11/22 10:53:31] <head8debian> Tobbi: Yep, no minetest sound either. :D
+[2015/11/22 10:53:34] <Tobbi> head8debian: You did what?
+[2015/11/22 10:53:57] <head8debian> Tobbi: I didn't look it up on duckduckgo...
+[2015/11/22 10:54:01] <head8debian> quack it. Get it?
+[2015/11/22 10:54:06] <Tobbi> okay...
+[2015/11/22 10:54:08] <Tobbi> Yes.
+[2015/11/22 10:54:15] <Tobbi> I googled it.
+[2015/11/22 10:54:31] <Tobbi> Also, it was just opened yesterday.
+[2015/11/22 10:56:23] <head8debian> I see that.
