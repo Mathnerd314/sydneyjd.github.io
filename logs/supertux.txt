@@ -9883,3 +9883,79 @@
 [2015/11/22 10:29:02] <Tobbi> leyyin: everywhere in america?
 [2015/11/22 10:29:07] <leyyin> almost everwhere
 [2015/11/22 10:29:55] <leyyin> Tobbi, the neibhourhood can fine you ;)
+[2015/11/22 10:30:07] <Tobbi> leyyin: haha, I'd get fined constantly...
+[2015/11/22 10:30:09] <leyyin> because you are lowering the house pricing in that area
+[2015/11/22 10:30:21] <leyyin> Tobbi, then they will drive you out with police....
+[2015/11/22 10:30:28] <Tobbi> leyyin: With that many students in my hometown, everyone should be glad.
+[2015/11/22 10:32:55] <Tobbi> leyyin: By the way: The scammers claiming to be microsoft don't call me anymore... :-( I fucked with them too extensively...
+[2015/11/22 10:33:35] <Tobbi> Unless they call next month...but I doubt they'll do it.
+[2015/11/22 10:33:36] <leyyin> cool scammers :D
+[2015/11/22 10:33:47] <head8debian> mt: Do you have audio issues in supertux with the latest OpenAL installed?
+[2015/11/22 10:33:58] <head8debian> mt: You do run Arch?
+[2015/11/22 10:34:30] <leyyin> I run arch on my small laptop :P
+[2015/11/22 10:34:46] <leyyin> I did not get audio to work yet thought
+[2015/11/22 10:35:08] <Tobbi> leyyin: Well, I didn't understand that indian random person (indians all sound the same, no matter whether guy or girl or horse) and they forwarded me to their manager...And once I couldn't understand that person either, after some time of pretending to understand, I was like "Okay, this time I wanted to scam you for a change"...
+[2015/11/22 10:35:15] <head8debian> leyyin: *most* people wont get fined for not mowing their lawns. Its mainly in more expensive areas that you can.
+[2015/11/22 10:35:16] <Tobbi> And I believe that made them stop.
+[2015/11/22 10:35:28] <Tobbi> head8debian: Faith in humanity restored.
+[2015/11/22 10:35:49] <head8debian> Tobbi: I got a spam email from a suposable patreon hack. :-)
+[2015/11/22 10:35:55] <Tobbi> :D
+[2015/11/22 10:36:02] <Tobbi> I get all kinds of spam mail...
+[2015/11/22 10:36:33] <head8debian> Tobbi: I don't. Maybe one every week.
+[2015/11/22 10:36:58] <Tobbi> Mathnerd314: It would be cool if all these girls in the video were smart programmer chicks...
+[2015/11/22 10:36:59] <Tobbi> :P
+[2015/11/22 10:37:03] <Tobbi> not sure if they are...
+[2015/11/22 10:37:07] <Tobbi> maybe they're.
+[2015/11/22 10:37:10] <head8debian> Tobbi: I won't email the OpenAL team until i hear back from someone else with the same issue.
+[2015/11/22 10:37:29] <leyyin> head8debian, it's your driver :P
+[2015/11/22 10:37:29] <Tobbi> head8debian: You can use a different email address...a temporary forwarding address.
+[2015/11/22 10:37:36] <Mathnerd314> Tobbi: well, you'd have to attend the SUSEcon to find out...
+[2015/11/22 10:37:43] <Tobbi> ;)
+[2015/11/22 10:37:47] <head8debian> Tobbi: openaliasbox.org :D
+[2015/11/22 10:37:58] <Tobbi> Sounds fine.
+[2015/11/22 10:38:08] <head8debian> leyyin: Supertux works fine on your laptop?
+[2015/11/22 10:38:13] @ claymore2 joined channel #supertux
+[2015/11/22 10:38:21] <head8debian> leyyin: It *just* started not working.
+[2015/11/22 10:38:33] <Tobbi> "Your connection is not secure"
+[2015/11/22 10:38:34] <leyyin> head8debian, I do not know, never tried on the arch one
+[2015/11/22 10:38:52] <leyyin> Tobbi, "This Connection is Untrusted"
+[2015/11/22 10:38:54] <head8debian> Tobbi: Are we going to merge those forest world changes? I rebased it so we could...
+[2015/11/22 10:39:00] <Tobbi> head8debian: Sure, one moment.
+[2015/11/22 10:39:09] <head8debian> This connection is uptrusted?
+[2015/11/22 10:39:13] <head8debian> On what website?
+[2015/11/22 10:39:14] <Not-6fa5> [02supertux] 07tobbi closed pull request 03#232: Change forest world file names - 13http://git.io/v4FVm
+[2015/11/22 10:39:16] <Not-6fa5> [02supertux] 07tobbi closed issue 03#175: Forest World Levels are Badly Named - 13http://git.io/vCIV5
+[2015/11/22 10:39:17] <Not-6fa5> [02supertux] 07tobbi pushed 032 commits to 03master [+42/-42/±2] 13http://git.io/vBfBm
+[2015/11/22 10:39:19] <Not-6fa5> [02supertux] 07Sydney Dykstra 031830f4e - Rename some Forest world levels closes #175 [ci skip]
+[2015/11/22 10:39:20] <Not-6fa5> [02supertux] 07tobbi 03c0b8a48 - Merge pull request #232 from sydneyjd/master
+[2015/11/22 10:39:22] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92564960
+[2015/11/22 10:39:22] <Tobbi> halp!
+[2015/11/22 10:39:28] <leyyin> head8debian, [17:35:30] <head8debian> Tobbi: openaliasbox.org :D
+[2015/11/22 10:39:34] <head8debian> Thats odd.
+[2015/11/22 10:39:38] <Tobbi> no, it's even.
+[2015/11/22 10:39:41] <mt> interesting
+[2015/11/22 10:40:07] <head8debian> Give openmailbox.org a try. :D
+[2015/11/22 10:40:07] <mt> with the latest git revision, the built arch package doesn't contain a supertux2 binary
+[2015/11/22 10:40:09] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92564960
+[2015/11/22 10:40:19] <mt> it just installs /usr/bin/libsupertux2.a
+[2015/11/22 10:40:21] <head8debian> mt: Uh?
+[2015/11/22 10:40:25] <head8debian> Hmm.
+[2015/11/22 10:41:08] <grumbel> Is the console in SuperTux working for anybody?
+[2015/11/22 10:41:18] <Tobbi> grumbel: It has always been working for me.
+[2015/11/22 10:41:24] <Tobbi> grumbel: Please check what mt said above.
+[2015/11/22 10:41:27] <head8debian> mt: Does the git version of supertux have audio with the latest version of OpenAL on your system?
+[2015/11/22 10:41:38] <head8debian> Console in supertux...?
+[2015/11/22 10:41:57] <mt> what the packaging scripts are basically doing is `cmake . -DCMAKE_INSTALL_PREFIX=/usr -DINSTALL_SUBDIR_BIN=bin; make; make DESTDIR="${pkgdir}/" install`, then tar up $pkgdir and use it as package
+[2015/11/22 10:42:10] <mt> that package then doesn't include the binary
+[2015/11/22 10:42:11] <Tobbi> Mathnerd314: I like the parody more than the original.
+[2015/11/22 10:42:15] <Tobbi> :D
+[2015/11/22 10:42:30] <mt> head8debian: I can't check since the binary doesn't exist, duh
+[2015/11/22 10:43:21] <head8debian> mt: Your building from a PKGBUILD?
+[2015/11/22 10:43:30] <mt> yes
+[2015/11/22 10:43:49] <Tobbi> grumbel: Check the shortcut for the console.
+[2015/11/22 10:43:52] <Tobbi> And change it..
+[2015/11/22 10:44:02] <Tobbi> I had to change the shortcut as well.
+[2015/11/22 10:44:23] <head8debian> mt: Im building directly from git.
+[2015/11/22 10:44:36] <head8debian> Not using a PKGBUILD.
+[2015/11/22 10:44:43] <mt> well, the pkgbuild takes the git repo and uses it
+[2015/11/22 10:44:55] <mt> because the Arch way
