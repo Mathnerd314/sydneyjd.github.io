@@ -11172,3 +11172,62 @@
 [2015/11/23 12:57:38] <brmbrmcar> head8debian: Is that good?
 [2015/11/23 12:58:05] <mt> head8debian: but don't you have to write tests or so that proof that you actually get enough education?
 [2015/11/23 12:59:48] <leyyin> I have no idea what you are talking about mt, all this network stuff :P, too low level
+[2015/11/23 13:00:21] <leyyin> I never heard of BGP before, TIL
+[2015/11/23 13:00:49] <head8debian> mt: In a way, yes.
+[2015/11/23 13:01:00] <head8debian> leper`: Me neither...
+[2015/11/23 13:01:04] <head8debian> leyyin: ^.
+[2015/11/23 13:01:10] <head8debian> leper`: Sorry!
+[2015/11/23 13:01:21] <head8debian> leper`: Your names are too close. :)
+[2015/11/23 13:01:23] <mt> imagine manually entering all the 500000 IPv4 routes using `ip route add ...` :>
+[2015/11/23 13:01:34] <brmbrmcar> I feel like I want to blow up my school.
+[2015/11/23 13:01:58] <head8debian> mt: SOunds fun....
+[2015/11/23 13:02:10] <leyyin> head8debian, you live in https://en.wikipedia.org/wiki/Carrier-grade_NAT area?
+[2015/11/23 13:02:35] @ Tobbi joined channel #supertux
+[2015/11/23 13:02:36] @ Mode +o Tobbi by ChanServ
+[2015/11/23 13:02:37] <leper`> leyyin: sounds more like a rural area
+[2015/11/23 13:02:47] <Tobbi> Romania is a rural area.
+[2015/11/23 13:02:47] <Not-6fa5> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBLpq
+[2015/11/23 13:02:49] <Not-6fa5> [02supertux] 07Hume2 030859bb3 - Extended height of level Light and Magic
+[2015/11/23 13:03:04] <leper`> with possibly non-wired connection to some place that has a wire
+[2015/11/23 13:03:04] <leyyin> Tobbi, it is :D, only 50% of people live in cities
+[2015/11/23 13:03:06] <mt> I actually understand ISPs doing CGNAT here in Germany, but those who do provide static IPv6 /64 (or was it /56)
+[2015/11/23 13:03:12] <head8debian> leper`: Maybe. I do appear to have an IP address, but no controll over it.
+[2015/11/23 13:03:19] <leper`> Tobbi: but one with sane prices for internet
+[2015/11/23 13:03:22] <leper`> (or beer)
+[2015/11/23 13:03:25] <leper`> (or food)
+[2015/11/23 13:03:32] <leyyin> leper`, one word, Romania ;)
+[2015/11/23 13:03:41] <brmbrmcar> Do you only drink beer?
+[2015/11/23 13:03:50] <head8debian> This is rural. :D
+[2015/11/23 13:03:50] <leper`> they prefer blood
+[2015/11/23 13:03:59] <leper`> but they do have beer to lure tourists there
+[2015/11/23 13:04:06] <leyyin> true, true
+[2015/11/23 13:04:16] <brmbrmcar> Blood?
+[2015/11/23 13:04:20] <head8debian> I cannot get a wired internet conection here except for dialup. :D
+[2015/11/23 13:04:28] <leper`> mt: /56, else you should complain
+[2015/11/23 13:04:46] <head8debian> Im having trouble understanding subnets...
+[2015/11/23 13:05:26] <leper`> leyyin: you should really read about bgp (mostly about the fun things one can do with that, or why your packets to the country next door are going via some other 2 continents)
+[2015/11/23 13:06:12] <head8debian> Sounds interesting.
+[2015/11/23 13:07:06] <leyyin> well I am reading now on wikipedia
+[2015/11/23 13:07:23] <mt> btw, @German-speaking people: http://www.daserste.de/information/reportage-dokumentation/citizenfour/index.html
+[2015/11/23 13:07:41] <leyyin> seems weird that such a fundamental protocol is in the application layer ;)
+[2015/11/23 13:09:01] <head8debian> The more studying i do on networking the less i realize i know...
+[2015/11/23 13:09:27] <leyyin> oh boy, On August 12, outages resulting from full tables hit Ebay, Lastpass and the Microsoft Cloud among others,[24] which TheRegister dubbed 512KDay.
+[2015/11/23 13:09:58] <leyyin> it seems to me this is routing tables protocol for large networks :P
+[2015/11/23 13:10:03] <head8debian> And we never noticed. :D
+[2015/11/23 13:10:55] <Tobbi> mt: Ja, nee, das muss jetzt nicht sein. Hast du nicht irgendwas über Meerschweinchen, die sich durch Aufnahme von Smarties in eine Discokugel verwandelt haben oder so?
+[2015/11/23 13:11:13] * leyyin needs to learn german on duolingo
+[2015/11/23 13:11:16] <Tobbi> (Ich weiß, die armen Smarties)
+[2015/11/23 13:11:48] <leyyin> Tobbi, "Yes, no, that does not have to be. Have not you anything about guinea pigs who have turned to oral administration of Smarties in a disco ball or something?"
+[2015/11/23 13:11:49] <leyyin> wtf?
+[2015/11/23 13:11:57] <Tobbi> leyyin: Yes!
+[2015/11/23 13:11:57] <Tobbi> :D
+[2015/11/23 13:12:38] <Tobbi> leyyin: Von oben betrachtet sehen Smarties und Discokugeln ja sowieso quasi identisch aus.
+[2015/11/23 13:13:15] <leyyin> Tobbi, das Rauchen Unkraut Mann
+[2015/11/23 13:13:24] <Tobbi> leyyin: hahah...
+[2015/11/23 13:13:31] <Tobbi> leyyin: Fail!
+[2015/11/23 13:14:00] <Tobbi> Unkraut != Cannabis.
+[2015/11/23 13:14:23] <leyyin> I listen to google
+[2015/11/23 13:14:35] <Tobbi> leyyin: And Google listens to you?
+[2015/11/23 13:14:50] <leyyin> of course not
+[2015/11/23 13:14:53] <Tobbi> :D
+[2015/11/23 13:14:59] <Tobbi> leyyin: But google listens to your telephone calls...
