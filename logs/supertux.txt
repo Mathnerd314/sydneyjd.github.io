@@ -10944,3 +10944,53 @@
 [2015/11/23 11:44:28] <Tobbi> head8debian: Still intended behaviour
 [2015/11/23 11:44:35] <head8debian> Tobbi: I know, i know. :)
 [2015/11/23 11:44:52] <head8debian> Sorry Microsoft, im giving you a hard time.
+[2015/11/23 11:45:02] <head8debian> Its hard to please everyone these days.
+[2015/11/23 11:45:17] <Hume2> ᑎ	̲
+[2015/11/23 11:45:29] <head8debian> You either have people who hate it or love it...
+[2015/11/23 11:45:33] <brmbrmcar> Highlighter!
+[2015/11/23 11:46:05] <Tobbi> Hume2: ?
+[2015/11/23 11:46:17] <Karkus> head8debian: You're mixing up Marmite with Microsoft. Everyone hates Microsoft.
+[2015/11/23 11:46:18] <Hume2> It was just an unicode test.
+[2015/11/23 11:47:01] <head8debian> I don't hate Microsoft, i hate Windows. :)
+[2015/11/23 11:47:12] <brmbrmcar> Everyone hates Microsoft! Apart from peple who don't!
+[2015/11/23 11:47:20] <Hume2> Agreed.
+[2015/11/23 11:47:21] <head8debian> I don't *hate* windows, just prefer not to use it.
+[2015/11/23 11:47:25] <brmbrmcar> I hate Microsoft.
+[2015/11/23 11:47:52] <brmbrmcar> All of Microsoft's money is fromindows.
+[2015/11/23 11:47:52] <Hume2> Do never do any banking stuff on Windows 10.
+[2015/11/23 11:48:10] <brmbrmcar> Never do any banking stuff onWindows.
+[2015/11/23 11:48:34] <brmbrmcar> Any Windows.
+[2015/11/23 11:48:37] <head8debian> And why not? Its still encrypted with HTTPS.
+[2015/11/23 11:48:45] <Karkus> Key logger.
+[2015/11/23 11:48:57] <Hume2> They send the keybord input.
+[2015/11/23 11:49:17] <head8debian> Well try disabling Cortana...
+[2015/11/23 11:49:22] <Karkus> Then again, Google does it too.
+[2015/11/23 11:49:29] <Hume2> So you have to make a macro that changes the nubres, i.e. you press 1 and it writes 3.
+[2015/11/23 11:49:31] <Karkus> With all of its products
+[2015/11/23 11:50:37] <Tobbi> head8debian: https://www.youtube.com/watch?v=PQI5LtRtrb0
+[2015/11/23 11:50:38] <Tobbi> :P
+[2015/11/23 11:50:52] <brmbrmcar> Actually, I think I have an idea for a fake terminal.
+[2015/11/23 11:51:21] <brmbrmcar> Especially easy onWindows, although I did make my computer vunerable.
+[2015/11/23 11:51:24] <head8debian> I prefer real terminals.
+[2015/11/23 11:52:00] <brmbrmcar> No, you change the input, and display what you actually typed.
+[2015/11/23 11:54:45] <brmbrmcar> Nice?
+[2015/11/23 11:55:01] <head8debian> ...
+[2015/11/23 11:55:13] <Hume2> Hmmm...
+[2015/11/23 11:55:54] <leper`> head8debian: got you followed
+[2015/11/23 11:56:00] <head8debian> leper`: What?
+[2015/11/23 11:56:10] <leper`> meaning I told someone to follow you
+[2015/11/23 11:56:50] <leper`> (that doesn't really answer your question, does it?)
+[2015/11/23 11:56:53] <head8debian> leper`: Follow me on what?
+[2015/11/23 11:57:12] <head8debian> leper`: I don't have a twitter account.
+[2015/11/23 11:57:35] <head8debian> Good luck finding me on other social media sites.
+[2015/11/23 11:57:44] <leper`> might have been a plural you ;-)
+[2015/11/23 11:57:57] <leper`> (and you posted a twitter thingy above)
+[2015/11/23 11:58:02] <Tobbi> head8debian: OUR TEAM twitter, ffs.
+[2015/11/23 11:58:17] <head8debian> leper`: oh, OUR team? Its not *me*!
+[2015/11/23 11:58:21] <brmbrmcar> Was there a Supertux Youtube account?
+[2015/11/23 11:58:44] <head8debian> There is, but its empty.
+[2015/11/23 11:59:28] <leper`> head8debian: yes, but some things also work for the plural case, and pinging roughly a third of the channel is rude
+[2015/11/23 11:59:33] <brmbrmcar> Link for it?
+[2015/11/23 11:59:38] <head8debian> leper`: :)
+[2015/11/23 11:59:55] <leyyin> hmm leper` is here too
+[2015/11/23 11:59:58] <leper`> but I guess I can try
