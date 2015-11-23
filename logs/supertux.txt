@@ -10639,3 +10639,8 @@
 [2015/11/22 18:18:23] @ Quit: swift110: Changing host
 [2015/11/22 18:18:23] @ swift110 joined channel #supertux
 [2015/11/22 18:33:06] @ tux|dude joined channel #supertux
+[2015/11/22 18:54:15] <head8debian> Tobbi: So, whats going on in here?
+[2015/11/22 18:54:24] <Tobbi> head8debian: Not much.
+[2015/11/22 18:54:26] <Tobbi> I am busy.
+[2015/11/22 18:54:27] <head8debian> Or what was achieved today? :)
+[2015/11/22 18:55:30] <Not-6fa5> [02supertux] 07sydneyjd commented on issue 03#218: Add high resolution icon - 13http://git.io/vBUq0
