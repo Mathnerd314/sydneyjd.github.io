@@ -11295,3 +11295,7 @@
 [2015/11/23 15:59:32] @ tux|dude joined channel #supertux
 [2015/11/23 16:16:36] @ Quit: tux|dude: Quit: Leaving
 [2015/11/23 16:20:19] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/11/23 16:36:13] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/23 16:42:00] @ brmbrmcar joined channel #supertux
+[2015/11/23 16:43:01] @ Quit: nerdopolis: Quit: No Ping reply in 180 seconds.
+[2015/11/23 16:44:12] @ nerdopolis joined channel #supertux
