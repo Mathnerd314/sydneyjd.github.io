@@ -10806,3 +10806,62 @@
 [2015/11/23 11:13:03] <head8debian> brmbrmcar: https://twitter.com/supertux_team
 [2015/11/23 11:13:51] <brmbrmcar> And...
 [2015/11/23 11:14:56] <head8debian> brmbrmcar: And what? Thats it ATM.
+[2015/11/23 11:15:18] <head8debian> brmbrmcar: If you get us some live footage of you playing supertux i will make a video.
+[2015/11/23 11:15:35] <head8debian> I dont have enough GPU power to record and play.
+[2015/11/23 11:15:48] @ Quit: brmbrmcar: Quit: Lost terminal
+[2015/11/23 11:15:50] <leper`> head8debian: guess I'll get someone to make out twitter account follow yours or something
+[2015/11/23 11:15:52] <head8debian> lol.
+[2015/11/23 11:16:22] <Tobbi> head8debian: Why did you call brmbrmcar an ATM?
+[2015/11/23 11:16:27] <Tobbi> He doesn't look like an ATM.
+[2015/11/23 11:16:29] <Tobbi> Not by far.
+[2015/11/23 11:16:36] <Tobbi> Actually, guess I cannot know that.
+[2015/11/23 11:17:11] <leper`> Tobbi: but if he looks like an ATM that might help with getting money
+[2015/11/23 11:17:19] <Tobbi> leper`: Or losing it again...
+[2015/11/23 11:17:21] <Tobbi> :D
+[2015/11/23 11:17:41] <head8debian> o_O
+[2015/11/23 11:17:52] <leper`> you do use the ATM wrong in that case
+[2015/11/23 11:18:02] <Tobbi> :D
+[2015/11/23 11:18:38] @ brmbrmcar joined channel #supertux
+[2015/11/23 11:19:00] <brmbrmcar> EVEN A CACHED COPY OF TWITTER MANAGED TO CRASH MY COMPUTER!
+[2015/11/23 11:19:15] <brmbrmcar> IMAGINE IF IT WAS WINDIWS!
+[2015/11/23 11:19:32] <leper`> WHAT?
+[2015/11/23 11:19:50] <brmbrmcar> Twitter is evil.
+[2015/11/23 11:20:11] <leper`> and?
+[2015/11/23 11:20:30] <brmbrmcar> It overloaded crouton.
+[2015/11/23 11:20:55] <leper`> whatever that is
+[2015/11/23 11:20:56] <brmbrmcar> That page was more than id
+[2015/11/23 11:21:04] <brmbrmcar> is left in my SSD.
+[2015/11/23 11:21:08] <head8debian> leper`: Its a tasty treat for a salad.
+[2015/11/23 11:21:22] <Tobbi> Indeed.
+[2015/11/23 11:21:28] <Tobbi> I like Croutons  as well.
+[2015/11/23 11:21:30] <head8debian> :D
+[2015/11/23 11:21:55] <leper`> head8debian: so bacon?
+[2015/11/23 11:22:01] <brmbrmcar> I mean the thing for Chromebooks.
+[2015/11/23 11:22:17] <head8debian> Tobbi: We have gotten about 6 inches of snow. o_O And its makign a huge mess since its not freezing out.
+[2015/11/23 11:22:19] <brmbrmcar> I want an external HDD.
+[2015/11/23 11:22:27] <head8debian> leper`: On salad? Meh.
+[2015/11/23 11:22:34] <brmbrmcar> head8debian: You are so lucky!
+[2015/11/23 11:22:37] <Tobbi> head8debian: Really? We haven't gotten any more snow.
+[2015/11/23 11:22:42] <leper`> you don't have to have the salad
+[2015/11/23 11:22:49] <head8debian> leper`: On brocolli salad, yum! :D
+[2015/11/23 11:22:51] <Tobbi> brmbrmcar: Could it be that you're slightly autistic?
+[2015/11/23 11:23:06] <head8debian> I hate snow. I have to work in it. :D
+[2015/11/23 11:23:07] <brmbrmcar> What?
+[2015/11/23 11:23:17] <Tobbi> brmbrmcar: Know what autism is?
+[2015/11/23 11:23:32] <Tobbi> if not, never mind.
+[2015/11/23 11:23:39] <leper`> (there is some car - auto pun hidden in there)
+[2015/11/23 11:23:44] <brmbrmcar> yeah.
+[2015/11/23 11:24:04] <Tobbi> leper`: hah. I didn't even think about that.
+[2015/11/23 11:24:18] <leper`> I know, that's why I'm here
+[2015/11/23 11:28:15] <head8debian> Tobbi: [Ar] 4d9. :D
+[2015/11/23 11:28:28] <Tobbi> head8debian: What? Argon?
+[2015/11/23 11:28:34] <Tobbi> Chess?
+[2015/11/23 11:28:48] <head8debian> Tobbi: If you give me you address i may give you a pack of resistors for christmas. :D
+[2015/11/23 11:28:57] <head8debian> Tobbi: Isnt that Copper?
+[2015/11/23 11:29:09] <Tobbi> head8debian: Why would I want resistors?
+[2015/11/23 11:29:21] <leper`> to join the resistance
+[2015/11/23 11:29:31] <Tobbi> leper`: Bad pun...
+[2015/11/23 11:29:39] <leper`> I've got worse
+[2015/11/23 11:29:42] <head8debian> Tobbi: How about a dog collar? :D
+[2015/11/23 11:29:59] <Tobbi> head8debian: I am not into SM
+[2015/11/23 11:30:00] <head8debian> Tobbi: How about some old SD RAM? :D I think i have a whopping 512mb lying around...
