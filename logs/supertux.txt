@@ -10690,3 +10690,7 @@
 [2015/11/23 07:55:43] <Not-6fa5> [02supertux] ... and 26 more commits.
 [2015/11/23 07:55:45] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92705934
 [2015/11/23 07:56:37] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92705934
+[2015/11/23 08:05:06] <Tobbi> grumbel: Works...resets all my levels, but works.
+[2015/11/23 08:07:48] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92705934
+[2015/11/23 08:09:11] <Tobbi> grumbel: Wait, it doesn't save states at all.
+[2015/11/23 08:09:28] <grumbel> Tobbi: yep, state-table loading seems broken
