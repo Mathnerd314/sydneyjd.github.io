@@ -11045,3 +11045,20 @@
 [2015/11/23 12:14:13] <head8debian> brmbrmcar: YES!
 [2015/11/23 12:14:31] <brmbrmcar> OK.
 [2015/11/23 12:14:42] <head8debian> usually head8debian and head8deb1an are the same person also!
+[2015/11/23 12:15:38] <head8debian> One could be my goat, you never know. :D
+[2015/11/23 12:15:52] <head8debian> s/goat/goats
+[2015/11/23 12:15:56] <head8debian> s/goat/goats/
+[2015/11/23 12:15:56] <red_bot> head8debian meant: "s/goats/goats"
+[2015/11/23 12:15:58] <head8debian> :p
+[2015/11/23 12:18:52] <head8debian> brmbrmcar: Are you connecting from your home?
+[2015/11/23 12:19:28] <head8debian> brmbrmcar: Oops.
+[2015/11/23 12:19:34] <head8debian> benjamin__: Are you connecting from your home?
+[2015/11/23 12:20:12] <head8debian> Tobbi: giby has alot of open ports on his network. o_O
+[2015/11/23 12:20:19] <Tobbi> ...
+[2015/11/23 12:20:44] <head8debian> Tobbi: Whats your IP address so i can scan your network? :D
+[2015/11/23 12:20:54] <Tobbi> head8debian: Do I want that?
+[2015/11/23 12:20:56] <head8debian> Just keeping us safe. :D
+[2015/11/23 12:21:06] <head8debian> You can scan mine all you want.
+[2015/11/23 12:21:20] <Tobbi> head8debian: PM
+[2015/11/23 12:21:21] <head8debian> Unless my ISP hacked in and set up port forwarding...
+[2015/11/23 12:29:34] <brmbrmcar> I am conecting from home.
