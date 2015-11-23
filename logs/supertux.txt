@@ -10694,3 +10694,4 @@
 [2015/11/23 08:07:48] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92705934
 [2015/11/23 08:09:11] <Tobbi> grumbel: Wait, it doesn't save states at all.
 [2015/11/23 08:09:28] <grumbel> Tobbi: yep, state-table loading seems broken
+[2015/11/23 08:19:47] @ Quit: Tobbi: Remote host closed the connection
