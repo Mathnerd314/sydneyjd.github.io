@@ -11282,3 +11282,5 @@
 [2015/11/23 14:00:25] @ Quit: Karkus: Remote host closed the connection
 [2015/11/23 14:02:02] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92773941
 [2015/11/23 14:02:03] @ Quit: Hume2: Quit: Page closed
+[2015/11/23 14:48:43] @ Quit: alket: Ping timeout: 240 seconds
+[2015/11/23 14:49:20] @ alket joined channel #supertux
