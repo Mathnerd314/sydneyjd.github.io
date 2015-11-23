@@ -10651,3 +10651,5 @@
 [2015/11/22 19:37:27] @ datahead8888 joined channel #supertux
 [2015/11/22 20:13:56] @ Quit: datahead8888: Ping timeout: 250 seconds
 [2015/11/22 20:46:02] @ datahead8888 joined channel #supertux
+[2015/11/22 21:11:11] <head8debian> datahead8888: We now have a twitter page. :D
+[2015/11/22 21:13:45] @ Quit: Mathnerd314: Ping timeout: 244 seconds
