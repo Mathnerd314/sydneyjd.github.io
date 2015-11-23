@@ -11062,3 +11062,69 @@
 [2015/11/23 12:21:20] <Tobbi> head8debian: PM
 [2015/11/23 12:21:21] <head8debian> Unless my ISP hacked in and set up port forwarding...
 [2015/11/23 12:29:34] <brmbrmcar> I am conecting from home.
+[2015/11/23 12:30:51] <head8debian> I wish i had my own IP address.
+[2015/11/23 12:30:54] * head8debian cries...
+[2015/11/23 12:31:01] <brmbrmcar> I want my own IP.
+[2015/11/23 12:31:24] <head8debian> brmbrmcar: You probably can. I cannot.
+[2015/11/23 12:31:31] <brmbrmcar> 4913.4913.4913.4913, but they would never allow one that long. :(
+[2015/11/23 12:31:37] <brmbrmcar> How?
+[2015/11/23 12:32:18] <head8debian> brmbrmcar: Look it up.
+[2015/11/23 12:32:30] <head8debian> brmbrmcar: 999.999.999 is the biggest IPV4 can handle.
+[2015/11/23 12:32:34] <head8debian> Wait.
+[2015/11/23 12:32:40] <head8debian> 999.999.999.999.
+[2015/11/23 12:32:41] <head8debian> There.
+[2015/11/23 12:32:53] <brmbrmcar> I just tried.
+[2015/11/23 12:33:10] <brmbrmcar> But I cannot find anything part from my public IP.
+[2015/11/23 12:33:40] <head8debian> brmbrmcar: Don't worry about it. If you don't know what exactly you are doing you can open gateways for hackers to walk right in and hack your computer.
+[2015/11/23 12:34:02] <head8debian> brmbrmcar: And you have no need for it.
+[2015/11/23 12:34:17] <leper`> head8debian: Did you mean 255?
+[2015/11/23 12:34:20] <Hume2> head8debian: No, biggest is 255.255.255.255.
+[2015/11/23 12:34:29] <leper`> or are you working for CSI?
+[2015/11/23 12:34:36] <brmbrmcar> And I can only change my settings through Chrome OS.
+[2015/11/23 12:34:51] <Hume2> You can use IP changer.
+[2015/11/23 12:35:30] <brmbrmcar> Yes, but that won't work for me.
+[2015/11/23 12:35:42] <head8debian> I figured it was 255, but i thought 999 sounded cool. I was referencing to it being 3x4 digits long...
+[2015/11/23 12:35:51] <leyyin> lemme write a visual basic program to trace your IP
+[2015/11/23 12:35:53] <head8debian> 4x3. whatever.
+[2015/11/23 12:36:06] <leyyin> *visual basic GUI
+[2015/11/23 12:36:06] <leper`> wasn't that s/program/gui/?
+[2015/11/23 12:36:07] <head8debian> Why not traceroute? :)
+[2015/11/23 12:36:29] <leper`> head8debian: You're no real hacker if you do that
+[2015/11/23 12:36:38] <head8debian> Im not a real hacker!
+[2015/11/23 12:36:49] <leyyin> yes, head8debian you are on a list now, FBI most likely ;)
+[2015/11/23 12:36:50] <head8debian> I just want to keep people out of *my* hair.
+[2015/11/23 12:37:02] <head8debian> Huh?
+[2015/11/23 12:37:04] <leper`> then go bald
+[2015/11/23 12:37:06] <leper`> er bold!
+[2015/11/23 12:37:36] <head8debian> lol.
+[2015/11/23 12:37:48] <head8debian> I am, i have no IP address, and cannot get one. :D
+[2015/11/23 12:37:56] <head8debian> I cannot even get a IPV6 tunnel...
+[2015/11/23 12:38:12] <brmbrmcar> You have anIP address.
+[2015/11/23 12:38:17] <brmbrmcar> Everyone does.
+[2015/11/23 12:38:50] <leyyin> brmbrmcar, I don't
+[2015/11/23 12:38:55] <leyyin> I live in the ether of the internet
+[2015/11/23 12:38:59] <head8debian> brmbrmcar: No, not everyone.
+[2015/11/23 12:39:03] <head8debian> leper`: ether?
+[2015/11/23 12:39:05] <leper`> get some cheap vps? (then forward)
+[2015/11/23 12:39:07] <head8debian> leyyin: ^
+[2015/11/23 12:39:09] <leper`> lol
+[2015/11/23 12:39:16] <head8debian> To much money. :D
+[2015/11/23 12:39:17] <leper`> head8debian: something you can sniff
+[2015/11/23 12:39:19] <brmbrmcar> So if you were to takeyour cloak off, what would it say?
+[2015/11/23 12:39:19] <head8debian> :p
+[2015/11/23 12:39:28] <mt> >Too much money
+[2015/11/23 12:39:32] <head8debian> brmbrmcar: My ISPs IP address.
+[2015/11/23 12:39:37] <mt> You can get VPSes for $15/year
+[2015/11/23 12:39:41] <brmbrmcar> Like for me.
+[2015/11/23 12:39:44] <head8debian> Its not too much money, but my parents won't let me.
+[2015/11/23 12:40:04] <head8debian> My ISP feeds a couple hundred people on 2 IP addresses.
+[2015/11/23 12:40:13] <brmbrmcar> Poor head8debian.
+[2015/11/23 12:40:19] <leper`> mt: possibly less if you have some .edu email
+[2015/11/23 12:40:21] <Hume2> I tried some on-line IP tracking stuff and any of them could trace me correctly.
+[2015/11/23 12:41:18] <brmbrmcar> Not for me.
+[2015/11/23 12:42:08] <head8debian> There are people who want a IP address and cannot have one and there are people who have one and dont have a clue that theyt have one.
+[2015/11/23 12:42:24] @ Wuzzy joined channel #supertux
+[2015/11/23 12:43:46] <brmbrmcar> Then steal one from the people who do not know. :D
+[2015/11/23 12:44:17] <mt> but seriously - CGNAT and no IPv6
+[2015/11/23 12:44:31] <head8debian> brmbrmcar: Thats kinda hard.
+[2015/11/23 12:44:57] <brmbrmcar> I was joking.
