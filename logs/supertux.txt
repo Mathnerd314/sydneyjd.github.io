@@ -10668,3 +10668,4 @@
 [2015/11/23 03:12:30] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/11/23 03:23:36] @ brmbrmcar joined channel #supertux
 [2015/11/23 03:25:00] @ Quit: brmbrmcar: Client Quit
+[2015/11/23 04:02:41] @ Quit: tuxdev_: Ping timeout: 265 seconds
