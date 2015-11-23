@@ -10673,3 +10673,4 @@
 [2015/11/23 05:54:45] @ Mode +o Tobbi by ChanServ
 [2015/11/23 06:12:42] @ leyyin joined channel #supertux
 [2015/11/23 06:13:27] <Tobbi> hello.
+[2015/11/23 06:58:44] @ Quit: Tobbi: Remote host closed the connection
