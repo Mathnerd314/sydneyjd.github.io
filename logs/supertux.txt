@@ -10705,3 +10705,4 @@
 [2015/11/23 08:39:38] <Tobbi> but on the other hand, I can at least play the game from the beginning again :P
 [2015/11/23 08:40:10] <Tobbi> Well, over and over again, that is.
 [2015/11/23 08:41:23] <head8debian> o_O
+[2015/11/23 08:59:34] <head8debian> Tobbi: Yikes, i downgraded openAL, and everything works, but i hope i don't mess up my repos with this...
