@@ -11279,3 +11279,6 @@
 [2015/11/23 13:55:46] <Hume2> ☻
 [2015/11/23 13:56:28] <mt> Super🐧
 [2015/11/23 13:56:57] <Hume2> VOLUME ▁▂▃▄▅▆▇█
+[2015/11/23 14:00:25] @ Quit: Karkus: Remote host closed the connection
+[2015/11/23 14:02:02] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92773941
+[2015/11/23 14:02:03] @ Quit: Hume2: Quit: Page closed
