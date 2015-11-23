@@ -10666,3 +10666,5 @@
 [2015/11/23 02:35:39] @ grumbel joined channel #supertux
 [2015/11/23 02:35:51] @ Mode +o grumbel by ChanServ
 [2015/11/23 03:12:30] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2015/11/23 03:23:36] @ brmbrmcar joined channel #supertux
+[2015/11/23 03:25:00] @ Quit: brmbrmcar: Client Quit
