@@ -10679,3 +10679,14 @@
 [2015/11/23 07:19:56] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92700408
 [2015/11/23 07:20:51] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92700408
 [2015/11/23 07:33:36] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92700408
+[2015/11/23 07:53:37] @ Tobbi joined channel #supertux
+[2015/11/23 07:53:37] @ Mode +o Tobbi by ChanServ
+[2015/11/23 07:54:53] <grumbel> Tobbi: I rewrote feature/sexp to use vectors instead of lists, that should take care of stack overflows
+[2015/11/23 07:55:05] <Tobbi> grumbel: I'll check it out in a second.
+[2015/11/23 07:55:37] <Not-6fa5> [02supertux] 07Grumbel pushed 0329 commits to 03feature/sexp [+3/-11/±362] 13http://git.io/vBkSt
+[2015/11/23 07:55:38] <Not-6fa5> [02supertux] 07Ingo Ruhnke 034af93ed - Added external/sexp-cpp
+[2015/11/23 07:55:40] <Not-6fa5> [02supertux] 07Ingo Ruhnke 034df90bc - Added sexp build to CMakeLists.txt
+[2015/11/23 07:55:41] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03c847d7a - Trying to remove raw lisp handling from the code and replace it with ReaderMapping
+[2015/11/23 07:55:43] <Not-6fa5> [02supertux] ... and 26 more commits.
+[2015/11/23 07:55:45] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92705934
+[2015/11/23 07:56:37] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92705934
