@@ -11128,3 +11128,47 @@
 [2015/11/23 12:44:17] <mt> but seriously - CGNAT and no IPv6
 [2015/11/23 12:44:31] <head8debian> brmbrmcar: Thats kinda hard.
 [2015/11/23 12:44:57] <brmbrmcar> I was joking.
+[2015/11/23 12:45:32] <mt> >kinda hard - get some bgp peering w/o prefix filtering and announce a route
+[2015/11/23 12:46:07] <head8debian> mt: What?
+[2015/11/23 12:46:08] <brmbrmcar> How do you get whatever IP you eant for free?
+[2015/11/23 12:46:17] <head8debian> brmbrmcar: You don't.
+[2015/11/23 12:46:18] <brmbrmcar> Without any software?
+[2015/11/23 12:46:28] * brmbrmcar cries
+[2015/11/23 12:47:12] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/23 12:47:57] <mt> well
+[2015/11/23 12:48:03] <mt> you can leak a BGP route
+[2015/11/23 12:48:58] <head8debian> mt: I think i can survive with it the way it is. :)
+[2015/11/23 12:49:07] <head8debian> I have no one's IP address to use anyways.
+[2015/11/23 12:49:20] <head8debian> All my relatives use the same ISP.
+[2015/11/23 12:50:10] <mt> when you leak a route you usually do that without the owner's permission
+[2015/11/23 12:50:11] <brmbrmcar> That is annoying.
+[2015/11/23 12:50:36] <head8debian> mt: Ok, then im *NOT* doing it.
+[2015/11/23 12:50:38] <head8debian> :)
+[2015/11/23 12:51:05] <mt> you can't anyway without a BGP session
+[2015/11/23 12:51:53] <mt> and there's ROA to prevent bad announcements as well
+[2015/11/23 12:52:11] <mt> however, it can happen that ISPs leak routes they're not supposed to announce
+[2015/11/23 12:52:30] <mt> and even if that's a one-person ISP it can actually take down entire Google
+[2015/11/23 12:52:45] <brmbrmcar> Awesome!
+[2015/11/23 12:52:52] <brmbrmcar> Can you do that?
+[2015/11/23 12:53:03] <leper`> head8debian: in case you have an .edu email https://education.github.com/pack and the digitalocean thing might help you for some time
+[2015/11/23 12:53:12] <mt> I don't have any BGP sessions in the real internet
+[2015/11/23 12:53:22] <head8debian> leper`: .edu email?
+[2015/11/23 12:53:25] <brmbrmcar> :(
+[2015/11/23 12:53:33] <leper`> as in school
+[2015/11/23 12:53:43] <head8debian> No i don't have one.
+[2015/11/23 12:53:44] <mt> leper`: you don't even need an .edu address if you can send them a copy of your student ID iirc
+[2015/11/23 12:53:54] <leper`> never got that far
+[2015/11/23 12:54:04] <head8debian> Whats a student id?
+[2015/11/23 12:54:11] <brmbrmcar> What is a Student ID?
+[2015/11/23 12:54:25] <brmbrmcar> oops
+[2015/11/23 12:54:42] <mt> "Please upload an image of your school ID, academic transcript, or other proof of affiliation. Please make sure dates are visible, verifying your status as a current student."
+[2015/11/23 12:55:08] <brmbrmcar> I have none of that.
+[2015/11/23 12:55:24] <head8debian> nm...
+[2015/11/23 12:55:25] <mt> that shows up if you select "I don't have a school-issued email"
+[2015/11/23 12:56:21] <mt> and - any high school, university, college, etc should actually be able to provide you a 'proof of affiliation', as in a proof that you visit a state-recognized school
+[2015/11/23 12:56:36] <head8debian> mt: Im Homeschooled.
+[2015/11/23 12:57:21] <mt> americans...
+[2015/11/23 12:57:24] <leyyin> :D
+[2015/11/23 12:57:38] <brmbrmcar> head8debian: Is that good?
+[2015/11/23 12:58:05] <mt> head8debian: but don't you have to write tests or so that proof that you actually get enough education?
+[2015/11/23 12:59:48] <leyyin> I have no idea what you are talking about mt, all this network stuff :P, too low level
