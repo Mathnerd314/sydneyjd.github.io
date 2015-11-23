@@ -10730,3 +10730,6 @@
 [2015/11/23 09:09:57] <Tobbi> Ah, right!
 [2015/11/23 09:10:53] <Tobbi> grumbel: Could we potentially have the parsing on a different thread?
 [2015/11/23 09:12:21] <grumbel> Tobbi: not easily, Level loading right now triggers Tilemap loading that triggers OpenGL and OpenGL isn't happy when two threads access it
+[2015/11/23 09:16:39] <grumbel> The initial worldmap loading could be spread across threads, as that isn't even using the regular Level loading
+[2015/11/23 09:18:54] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92717519
+[2015/11/23 09:21:16] @ Quit: Tobbi: Remote host closed the connection
