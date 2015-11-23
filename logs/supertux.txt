@@ -11305,3 +11305,4 @@
 [2015/11/23 17:02:35] @ alket_ joined channel #supertux
 [2015/11/23 17:03:57] @ Quit: alket: Ping timeout: 252 seconds
 [2015/11/23 17:08:41] @ alket_ is now known as alket
+[2015/11/23 17:20:21] @ Quit: claymore2: Quit: Leaving
