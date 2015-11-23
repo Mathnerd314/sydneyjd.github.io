@@ -11309,3 +11309,4 @@
 [2015/11/23 17:36:27] @ Quit: alket: Remote host closed the connection
 [2015/11/23 17:45:15] @ Quit: Wuzzy: Quit: Wuzzy
 [2015/11/23 17:57:12] @ bb010g joined channel #supertux
+[2015/11/23 18:33:07] @ Quit: Tobbi: Remote host closed the connection
