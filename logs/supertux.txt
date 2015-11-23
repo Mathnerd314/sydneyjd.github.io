@@ -10648,3 +10648,4 @@
 [2015/11/22 19:11:13] <Tobbi> Anyway, good night.
 [2015/11/22 19:11:14] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/22 19:16:44] @ Quit: Wuzzy: Quit: Wuzzy
+[2015/11/22 19:37:27] @ datahead8888 joined channel #supertux
