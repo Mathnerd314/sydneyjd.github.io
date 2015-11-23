@@ -11290,3 +11290,6 @@
 [2015/11/23 15:40:23] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/11/23 15:41:42] @ alket joined channel #supertux
 [2015/11/23 15:43:32] @ Quit: grumbel: Quit: Ex-Chat
+[2015/11/23 15:50:17] @ brmbrmcar joined channel #supertux
+[2015/11/23 15:58:31] <brmbrmcar> Putting an invisible wall over a dispenser crashes the game...
+[2015/11/23 15:59:32] @ tux|dude joined channel #supertux
