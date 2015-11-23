@@ -10656,3 +10656,4 @@
 [2015/11/22 21:37:13] @ Quit: swift110: Ping timeout: 246 seconds
 [2015/11/22 22:21:13] @ Mathnerd314 joined channel #supertux
 [2015/11/22 22:24:52] @ swift110 joined channel #supertux
+[2015/11/22 23:08:01] @ Quit: tuxdev_: Ping timeout: 250 seconds
