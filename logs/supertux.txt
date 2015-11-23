@@ -10994,3 +10994,54 @@
 [2015/11/23 11:59:38] <head8debian> leper`: :)
 [2015/11/23 11:59:55] <leyyin> hmm leper` is here too
 [2015/11/23 11:59:58] <leper`> but I guess I can try
+[2015/11/23 12:00:03] <leyyin> can't go on freenode without this guy around :P
+[2015/11/23 12:00:21] <leper`> Tobbi: Tobbi: Tobbi: Tobbi: Tobbi: Tobbi: Tobbi: head8debian told me to ping everyone
+[2015/11/23 12:00:29] <head8debian> leper`: I wish some people knew that its rude to ping half the channel...
+[2015/11/23 12:00:34] <Tobbi> leper`: I don't suffer from MPD
+[2015/11/23 12:00:41] <Hume2> Does anyone have an access to the SuperTux Youtube account?
+[2015/11/23 12:00:48] <leper`> music player daemon?
+[2015/11/23 12:00:52] <head8debian> Tobbi: Should we give hum access?
+[2015/11/23 12:00:55] <brmbrmcar> Come on, a link for the YouTube page? Are you guys torturing me?
+[2015/11/23 12:00:58] <head8debian> Hume2*
+[2015/11/23 12:01:08] <Tobbi> head8debian: If he doesn't wreck it...
+[2015/11/23 12:01:14] <head8debian> brmbrmcar: There isn o channel currently!
+[2015/11/23 12:01:15] <leper`> leyyin: any channels you're on and I'm not?
+[2015/11/23 12:01:18] <Tobbi> brmbrmcar: You're torturing yourself enough.
+[2015/11/23 12:01:20] <head8debian> Tobbi: Yes or no?
+[2015/11/23 12:01:30] <Tobbi> head8debian: If he doesn't wreck it.
+[2015/11/23 12:01:30] <brmbrmcar> Thank you, head8debian.
+[2015/11/23 12:01:37] <head8debian> Tobbi: lOL. :)
+[2015/11/23 12:01:39] <leper`> (also we do need Arthur_* in here)
+[2015/11/23 12:01:52] <Tobbi> Hume2: Will you wreck the youtube channel?
+[2015/11/23 12:02:08] <head8debian> Hume2: Do you promise to not wreck our accounts if i give you the info to log into them? :) And promise to not change the password?
+[2015/11/23 12:02:14] <leyyin> leper`, #unknown-horizons ;)
+[2015/11/23 12:02:39] <Hume2> Do I look like I wreck channels on purpose?
+[2015/11/23 12:02:41] <Tobbi> head8debian: Plus, promise not to upload any videos of you dancing naked in the shower?
+[2015/11/23 12:02:42] <brmbrmcar> What's evil about Hume2?
+[2015/11/23 12:02:56] <Tobbi> Not even with a geo 3corners...
+[2015/11/23 12:03:10] <leper`> leyyin: I take it that is the full list :P
+[2015/11/23 12:03:12] <head8debian> Tobbi: That is the worst joke i have ever heard out of you.
+[2015/11/23 12:03:22] <leper`> (haven't played that in ages, not really my kind of game)
+[2015/11/23 12:03:24] <head8debian> Hume2: We are joking. :)
+[2015/11/23 12:03:54] <Tobbi> head8debian: This is a geo three corner: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Set_square_Geodreieck.svg/2000px-Set_square_Geodreieck.svg.png
+[2015/11/23 12:05:51] <head8debian> Tobbi: Yep.
+[2015/11/23 12:07:08] <Tobbi> https://www.youtube.com/watch?v=3d0Mpu6AxGM
+[2015/11/23 12:08:40] @ benjamin__ joined channel #supertux
+[2015/11/23 12:08:52] <Tobbi> Hello Mr. Leduc.
+[2015/11/23 12:09:51] * head8debian smacks Tobbi for using giby's last name.
+[2015/11/23 12:09:54] <head8debian> :p
+[2015/11/23 12:10:11] @ Quit: giby_the_kid: Ping timeout: 255 seconds
+[2015/11/23 12:11:03] <Tobbi> head8debian: Why?
+[2015/11/23 12:12:02] <head8debian> Tobbi: \o/ :)
+[2015/11/23 12:13:04] <head8debian> Tobbi: Hume2 Now has access.
+[2015/11/23 12:13:12] <Tobbi> excess...
+[2015/11/23 12:13:29] <brmbrmcar> What is the difference between giby and giby_the_kid?
+[2015/11/23 12:13:29] <head8debian> Tobbi: No, Access.
+[2015/11/23 12:13:41] <Tobbi> brmbrmcar: "_the_kid"
+[2015/11/23 12:13:52] <Tobbi> head8debian: brmbrmcar has excess...
+[2015/11/23 12:13:53] <Tobbi> :P
+[2015/11/23 12:13:57] <head8debian> Tobbi: :D
+[2015/11/23 12:14:00] <brmbrmcar> Are they the same person?
+[2015/11/23 12:14:13] <head8debian> brmbrmcar: YES!
+[2015/11/23 12:14:31] <brmbrmcar> OK.
+[2015/11/23 12:14:42] <head8debian> usually head8debian and head8deb1an are the same person also!
