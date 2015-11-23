@@ -10706,3 +10706,27 @@
 [2015/11/23 08:40:10] <Tobbi> Well, over and over again, that is.
 [2015/11/23 08:41:23] <head8debian> o_O
 [2015/11/23 08:59:34] <head8debian> Tobbi: Yikes, i downgraded openAL, and everything works, but i hope i don't mess up my repos with this...
+[2015/11/23 09:00:02] <Tobbi> head8debian: But it said so in the bug report as well, didn't it?
+[2015/11/23 09:00:24] <head8debian> Tobbi: Yes. I just hope i don't ruin my repos, as i said. :D
+[2015/11/23 09:00:30] <Tobbi> head8debian: which repos?
+[2015/11/23 09:00:41] <head8debian> Tobbi: The Arch repos...
+[2015/11/23 09:00:57] <Tobbi> ah
+[2015/11/23 09:00:59] <head8debian> Diferent versions of programs that are not known to work together can break.
+[2015/11/23 09:01:03] <Tobbi> head8debian: How did you downgrade?
+[2015/11/23 09:01:50] <head8debian> Tobbi: Quite simple, just found openal-16 from a repo mirror and installed it. pacman did the rest.
+[2015/11/23 09:02:00] <Tobbi> Ah okay....
+[2015/11/23 09:02:13] <head8debian> Tobbi: Pacman is awesome. :D
+[2015/11/23 09:04:45] <Tobbi> head8debian: it is. You can play it on google.
+[2015/11/23 09:05:15] <Not-6fa5> [02supertux] 07Grumbel pushed 031 commit to 03feature/sexp [+0/-0/±2] 13http://git.io/vBIta
+[2015/11/23 09:05:16] <head8debian> Tobbi: ...
+[2015/11/23 09:05:17] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03a4aa0bb - Fixed savegame loading
+[2015/11/23 09:05:20] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92717519
+[2015/11/23 09:06:18] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92717519
+[2015/11/23 09:07:37] <Tobbi> grumbel: Just a quick question: Why do you start at 1 instead of 0 here: https://github.com/SuperTux/supertux/compare/80e72c66729a...a4aa0bb1c8ac#diff-19d29d715f2f363273d7fb91a60512e3R35 ?
+[2015/11/23 09:08:52] <grumbel> The general syntax is '(section (name value) (name value) ...)'
+[2015/11/23 09:08:57] <grumbel> "section" is array[0]
+[2015/11/23 09:09:05] <grumbel> "(name value)" is array[1]
+[2015/11/23 09:09:29] @ irungentoo joined channel #supertux
+[2015/11/23 09:09:57] <Tobbi> Ah, right!
+[2015/11/23 09:10:53] <Tobbi> grumbel: Could we potentially have the parsing on a different thread?
+[2015/11/23 09:12:21] <grumbel> Tobbi: not easily, Level loading right now triggers Tilemap loading that triggers OpenGL and OpenGL isn't happy when two threads access it
