@@ -10654,3 +10654,5 @@
 [2015/11/22 21:11:11] <head8debian> datahead8888: We now have a twitter page. :D
 [2015/11/22 21:13:45] @ Quit: Mathnerd314: Ping timeout: 244 seconds
 [2015/11/22 21:37:13] @ Quit: swift110: Ping timeout: 246 seconds
+[2015/11/22 22:21:13] @ Mathnerd314 joined channel #supertux
+[2015/11/22 22:24:52] @ swift110 joined channel #supertux
