@@ -10647,3 +10647,4 @@
 [2015/11/22 19:10:33] <Tobbi> head8debian: Quite some things...check the git log for today...
 [2015/11/22 19:11:13] <Tobbi> Anyway, good night.
 [2015/11/22 19:11:14] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/22 19:16:44] @ Quit: Wuzzy: Quit: Wuzzy
