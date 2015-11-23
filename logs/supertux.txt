@@ -10750,3 +10750,11 @@
 [2015/11/23 10:38:16] <head8debian> Tobbi: They did give us a solution to try though.
 [2015/11/23 10:38:39] <Tobbi> ok
 [2015/11/23 10:40:40] <brmbrmcar> But what was the solution?
+[2015/11/23 10:52:38] <leper`> possible workaround is the better description
+[2015/11/23 10:52:57] <leper`> (but yes, sounds (hehe) more like an upstream issue than a packaging issue)
+[2015/11/23 10:55:57] <Tobbi> badum tss.
+[2015/11/23 10:58:40] <leper`> Tobbi: Are you for hire? I might need sfx in a few other chans in case you are and you don't want to be paid in real money.
+[2015/11/23 10:59:05] <Tobbi> :D
+[2015/11/23 10:59:40] <head8debian> Tobbi: What does he want? I don't understand his english. :)
+[2015/11/23 10:59:54] <head8debian> Tobbi: You may have gotten youself a job. :F
+[2015/11/23 10:59:57] <head8debian> :D*
