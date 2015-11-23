@@ -10733,3 +10733,20 @@
 [2015/11/23 09:16:39] <grumbel> The initial worldmap loading could be spread across threads, as that isn't even using the regular Level loading
 [2015/11/23 09:18:54] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92717519
 [2015/11/23 09:21:16] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/23 10:30:46] <leper`> head8debian: thought that was your comment on that ticket
+[2015/11/23 10:33:06] <head8debian> leper`: Hmm?
+[2015/11/23 10:33:17] <leper`> openal issue
+[2015/11/23 10:33:45] <head8debian> leper`: It is.
+[2015/11/23 10:34:00] <leper`> figured as much after reading the backlog here :-)
+[2015/11/23 10:34:44] <head8debian> :)
+[2015/11/23 10:35:12] @ brmbrmcar joined channel #supertux
+[2015/11/23 10:36:57] @ Tobbi joined channel #supertux
+[2015/11/23 10:36:57] @ Mode +o Tobbi by ChanServ
+[2015/11/23 10:37:30] <head8debian> Tobbi: Yay... We got a response on the openAL bug.
+[2015/11/23 10:37:39] <Tobbi> head8debian: Which is?
+[2015/11/23 10:37:56] <head8debian> Tobbi: Ask on the openal github page. :p
+[2015/11/23 10:38:03] <Tobbi> *sigh*
+[2015/11/23 10:38:15] <brmbrmcar> Always happens.
+[2015/11/23 10:38:16] <head8debian> Tobbi: They did give us a solution to try though.
+[2015/11/23 10:38:39] <Tobbi> ok
+[2015/11/23 10:40:40] <brmbrmcar> But what was the solution?
