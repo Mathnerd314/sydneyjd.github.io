@@ -11262,3 +11262,20 @@
 [2015/11/23 13:43:00] <brmbrmcar> 1,0yes
 [2015/11/23 13:43:25] @ claymore2 joined channel #supertux
 [2015/11/23 13:44:32] <Hume2> ☺☺☺☺☺
+[2015/11/23 13:45:37] <brmbrmcar> Yes...
+[2015/11/23 13:46:34] <Hume2> brmbrmcar: Can you write something like ¦, but with three segments?
+[2015/11/23 13:47:01] <brmbrmcar> 8,7???
+[2015/11/23 13:47:08] <Hume2> ┆
+[2015/11/23 13:47:53] <brmbrmcar> I am confused.
+[2015/11/23 13:49:00] <Hume2> I copy it from Unicode table. ↽	↾	↿	⇀	⇁	⇂	⇃	⇄	⇅	⇆	⇇	⇈	⇉	⇊
+[2015/11/23 13:50:25] <Not-6fa5> [02supertux] 07Grumbel pushed 031 commit to 03feature/sexp [+0/-0/±4] 13http://git.io/vBts9
+[2015/11/23 13:50:27] <Not-6fa5> [02supertux] 07Ingo Ruhnke 036ae599e - Pass parent ReaderDocument to all the iterator classes to allow better error messages
+[2015/11/23 13:50:28] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92773941
+[2015/11/23 13:50:48] <head8debian> 4 oh brother...
+[2015/11/23 13:50:58] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/23 13:51:30] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92773941
+[2015/11/23 13:53:44] <mt> Ɨ'₥ üsîñg Compose(5) føŗ ÚnĬ¢odè ಠ_ಠ
+[2015/11/23 13:54:58] <Hume2> Ⴝᑌᑭᗕᖇ 	Ⲧᑌㄨ
+[2015/11/23 13:55:46] <Hume2> ☻
+[2015/11/23 13:56:28] <mt> Super🐧
+[2015/11/23 13:56:57] <Hume2> VOLUME ▁▂▃▄▅▆▇█
