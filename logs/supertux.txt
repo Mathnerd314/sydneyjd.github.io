@@ -10669,3 +10669,5 @@
 [2015/11/23 03:23:36] @ brmbrmcar joined channel #supertux
 [2015/11/23 03:25:00] @ Quit: brmbrmcar: Client Quit
 [2015/11/23 04:02:41] @ Quit: tuxdev_: Ping timeout: 265 seconds
+[2015/11/23 05:54:45] @ Tobbi joined channel #supertux
+[2015/11/23 05:54:45] @ Mode +o Tobbi by ChanServ
