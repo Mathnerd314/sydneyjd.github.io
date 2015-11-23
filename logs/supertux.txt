@@ -10674,3 +10674,7 @@
 [2015/11/23 06:12:42] @ leyyin joined channel #supertux
 [2015/11/23 06:13:27] <Tobbi> hello.
 [2015/11/23 06:58:44] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/23 07:19:52] <Not-6fa5> [02supertux] 07Grumbel pushed 031 commit to 03feature/sexp [+0/-0/±5] 13http://git.io/vBkr2
+[2015/11/23 07:19:54] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03b861786 - Switch Reader from using cons/list to using array
+[2015/11/23 07:19:56] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92700408
+[2015/11/23 07:20:51] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92700408
