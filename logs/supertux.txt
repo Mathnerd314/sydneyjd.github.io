@@ -11394,3 +11394,39 @@
 [2015/11/24 10:48:17] <brmbrmcar> OK...
 [2015/11/24 10:49:47] <brmbrmcar> http://paste.ubuntu.com/13493290/
 [2015/11/24 11:08:00] <grumbel> Missing boost headers?
+[2015/11/24 11:21:15] <brmbrmcar> Solution?
+[2015/11/24 11:21:25] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+1/-0/±0] 13http://git.io/vBsyd
+[2015/11/24 11:21:27] <Not-6fa5> [02supertux] 07Tobias Markus 03ea9c448 - Added forgotten level file menu_final
+[2015/11/24 11:21:29] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92968727
+[2015/11/24 11:21:32] @ Tobbi joined channel #supertux
+[2015/11/24 11:21:32] @ Mode +o Tobbi by ChanServ
+[2015/11/24 11:21:44] <Tobbi> I should've [ci skip]ped...
+[2015/11/24 11:21:44] <Tobbi> but...
+[2015/11/24 11:22:12] <maths22> Tobbi: By the way, what does that level file do differently from menu?
+[2015/11/24 11:22:20] <Tobbi> maths22: Change the icon...
+[2015/11/24 11:22:26] <Tobbi> from the dev one to the final one.
+[2015/11/24 11:22:36] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92968727
+[2015/11/24 11:22:43] <Tobbi> sorry, lgoo
+[2015/11/24 11:22:44] <Tobbi> logo
+[2015/11/24 11:23:29] <maths22> Tobbi:  I'm going to make a pull request soon so we can just have 1 file...
+[2015/11/24 11:23:56] @ alket joined channel #supertux
+[2015/11/24 11:24:03] <Tobbi> maths22: How would you do that? The menu file in which the logo is defined doesn't support #if since it's not c++
+[2015/11/24 11:24:03] <brmbrmcar> Is that a good idea?
+[2015/11/24 11:24:32] <maths22> Tobbi: We use a CMake .in file
+[2015/11/24 11:24:46] <maths22> brmbrmcar: It is a very good idea
+[2015/11/24 11:25:01] <maths22> Duplicating code (or levels) is a bad idea because then only 1 will get changed
+[2015/11/24 11:25:11] <grumbel> Tobbi: data/levels/misc/menu_final.stl is missing from Git
+[2015/11/24 11:25:15] <maths22> When you actually wnated to change both
+[2015/11/24 11:25:19] <maths22> grumbel: He just added it
+[2015/11/24 11:25:20] <brmbrmcar> But wht about the Christmas one?
+[2015/11/24 11:25:20] <Tobbi> grumbel: See my commit above.
+[2015/11/24 11:25:34] <maths22> brmbrmcar: I will think about that...
+[2015/11/24 11:25:42] <maths22> Where is the logic for that?
+[2015/11/24 11:25:42] <grumbel> ok
+[2015/11/24 11:26:41] <maths22> brmbrmcar: I found the logic.  I'll think about it...
+[2015/11/24 11:27:40] <brmbrmcar> maths22: OK.
+[2015/11/24 11:27:54] <brmbrmcar> But we don't want it to bug up.
+[2015/11/24 11:28:00] <maths22> brmbrmcar: of course
+[2015/11/24 11:28:51] <brmbrmcar> So I probably wouldn't want to implement anything until after 0.4.0.
+[2015/11/24 11:29:31] <Tobbi> ...unless those are really minor changes that won't break.
+[2015/11/24 11:29:54] <brmbrmcar> But best be on the safe side.
