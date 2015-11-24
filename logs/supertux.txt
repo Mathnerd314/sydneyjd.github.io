@@ -11813,3 +11813,11 @@
 [2015/11/24 17:12:49] <head8debian> nm...
 [2015/11/24 17:13:07] <Tobbi> head8debian: I'll read it again.
 [2015/11/24 17:14:36] <Tobbi> head8debian: Reads fine.
+[2015/11/24 17:15:39] @ Quit: claymore2: Quit: Leaving
+[2015/11/24 17:16:12] <head8debian> :D
+[2015/11/24 17:17:11] <Tobbi> head8debian: I believe you should rap it in church.
+[2015/11/24 17:17:18] <Tobbi> And add things like "Yo dawg".
+[2015/11/24 17:17:25] <Tobbi> And "hail cheese-us"
+[2015/11/24 17:17:31] <Tobbi> Or "may the cheese be with you"
+[2015/11/24 17:22:43] @ Quit: alket: Remote host closed the connection
+[2015/11/24 17:28:54] @ Quit: Tobbi: 
