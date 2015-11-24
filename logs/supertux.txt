@@ -11438,3 +11438,9 @@
 [2015/11/24 11:34:12] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92968727
 [2015/11/24 11:34:37] <brmbrmcar> Canging the dispenser direction from auto to left.
 [2015/11/24 11:35:01] <brmbrmcar> Preventing them going crazy rotating around and being useless.
+[2015/11/24 11:54:06] @ Hume2 joined channel #supertux
+[2015/11/24 11:54:31] <Tobbi> Hume2: Hey. Can you please check the spelling on your own worldmaps?
+[2015/11/24 11:54:39] <Tobbi> (In case you didn't see that)
+[2015/11/24 11:54:50] <Hume2> Tobbi: Yes, but not now.
+[2015/11/24 11:54:58] <Tobbi> No problem.
+[2015/11/24 11:59:36] <brmbrmcar> Should Two Tiny Towers stay put from mychanges?
