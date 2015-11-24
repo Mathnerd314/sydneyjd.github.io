@@ -11347,3 +11347,4 @@
 [2015/11/24 05:36:03] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92904990
 [2015/11/24 05:36:57] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92904990
 [2015/11/24 05:47:48] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92904990
+[2015/11/24 06:12:30] @ datahead8888 joined channel #supertux
