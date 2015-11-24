@@ -11349,3 +11349,12 @@
 [2015/11/24 05:47:48] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92904990
 [2015/11/24 06:12:30] @ datahead8888 joined channel #supertux
 [2015/11/24 06:38:44] @ leyyin joined channel #supertux
+[2015/11/24 07:11:15] <Not-6fa5> [02supertux] 07Grumbel pushed 0336 commits to 03feature/sexp [+13/-11/±486] 13http://git.io/vBOpA
+[2015/11/24 07:11:16] <Not-6fa5> [02supertux] 07Ingo Ruhnke 032b89fb6 - Added external/sexp-cpp
+[2015/11/24 07:11:17] <Not-6fa5> [02supertux] 07Ingo Ruhnke 031c78fad - Added sexp build to CMakeLists.txt
+[2015/11/24 07:11:19] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03e7df75c - Trying to remove raw lisp handling from the code and replace it with ReaderMapping
+[2015/11/24 07:11:20] <Not-6fa5> [02supertux] ... and 33 more commits.
+[2015/11/24 07:11:22] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92919790
+[2015/11/24 07:12:10] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92919790
+[2015/11/24 07:12:40] @ grumbel joined channel #supertux
+[2015/11/24 07:12:40] @ Mode +o grumbel by ChanServ
