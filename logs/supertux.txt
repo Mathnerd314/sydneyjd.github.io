@@ -11545,3 +11545,30 @@
 [2015/11/24 14:29:33] <mt> https://github.com/freenode/gms will replace it
 [2015/11/24 14:29:36] <mt> at some point
 [2015/11/24 14:29:42] <mt> probably before 2016-12
+[2015/11/24 14:30:06] <brmbrmcar> Best commit ever: That doesn't work, so let's change it for now
+[2015/11/24 14:31:47] <brmbrmcar> I just want to try something out, so don't hout at me for this.
+[2015/11/24 14:32:10] <brmbrmcar> OK, didn't work.
+[2015/11/24 14:32:17] <maths22> By the way, can any of you tell me if what I did here: https://github.com/SuperTux/supertux/pull/238 looks reasonable?
+[2015/11/24 14:33:08] <Not-6fa5> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/93005255
+[2015/11/24 14:33:27] <brmbrmcar> Where's the .stlstuff?
+[2015/11/24 14:33:51] <maths22> brmbrmcar: What do you mean?
+[2015/11/24 14:33:52] <mt> I think that's ok
+[2015/11/24 14:33:59] <maths22> mt: Great
+[2015/11/24 14:34:12] <maths22> I just figured having 3 copies of the main level is not a good idea
+[2015/11/24 14:34:25] <maths22> It also meant that, during christmas time, the development logo would not be used
+[2015/11/24 14:34:29] <brmbrmcar> the backgroundchange for the Christmas one?
+[2015/11/24 14:34:37] <mt> Does the christmas hat also appear correctly if you're in development 'mode'?
+[2015/11/24 14:34:56] <maths22> mt: Yes.  I tested it by changing my computer's date
+[2015/11/24 14:35:11] <maths22> brmbrmcar: It is handled through an if clause in the menu.stl file
+[2015/11/24 14:35:26] <Karkus> developer mode or debug build?
+[2015/11/24 14:35:26] <brmbrmcar> Ah, it changes it all. :D
+[2015/11/24 14:35:33] <mt> protip: rather make the code return true even if it's not christmas
+[2015/11/24 14:35:51] <maths22> mt: I also did that
+[2015/11/24 14:35:55] <mt> maybe we should even add an #ifdef for that for development purposes
+[2015/11/24 14:36:06] <maths22> mt: why?
+[2015/11/24 14:36:14] <maths22> Karkus: Sorry.  Debug build
+[2015/11/24 14:36:21] <mt> if someone wants to debug it w/o changing much code
+[2015/11/24 14:36:25] <maths22> Why would developmer mode affect it at all
+[2015/11/24 14:36:41] <maths22> mt: I get what you are saying.  I can add a CMake define for that
+[2015/11/24 14:40:12] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93006293
+[2015/11/24 14:40:33] @ Quit: Karkus: Ping timeout: 265 seconds
