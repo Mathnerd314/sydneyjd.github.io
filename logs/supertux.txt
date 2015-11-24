@@ -11360,3 +11360,17 @@
 [2015/11/24 07:12:40] @ Mode +o grumbel by ChanServ
 [2015/11/24 07:15:58] <grumbel> data/levels/misc/menu_final.stl is missing
 [2015/11/24 07:27:28] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92919790
+[2015/11/24 07:46:08] @ Quit: benjamin__: Read error: Connection reset by peer
+[2015/11/24 07:46:15] @ giby_the_kid joined channel #supertux
+[2015/11/24 07:46:15] @ Mode +o giby_the_kid by ChanServ
+[2015/11/24 07:49:45] <Not-6fa5> [02supertux] 07Grumbel pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vB3LK
+[2015/11/24 07:49:46] <Not-6fa5> [02supertux] 07Ingo Ruhnke 032d02bcb - Updated external/tinygettext
+[2015/11/24 07:49:48] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92925704
+[2015/11/24 07:50:38] <Not-6fa5> [02supertux] 07Grumbel pushed 0336 commits to 03feature/sexp [+13/-11/±486] 13http://git.io/vB3tv
+[2015/11/24 07:50:39] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03130299c - Added external/sexp-cpp
+[2015/11/24 07:50:41] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03e8407b9 - Added sexp build to CMakeLists.txt
+[2015/11/24 07:50:43] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03395ba91 - Trying to remove raw lisp handling from the code and replace it with ReaderMapping
+[2015/11/24 07:50:44] <Not-6fa5> [02supertux] ... and 33 more commits.
+[2015/11/24 07:50:45] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92925818
+[2015/11/24 07:50:47] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92925704
+[2015/11/24 07:58:03] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92925818
