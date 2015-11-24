@@ -11430,3 +11430,11 @@
 [2015/11/24 11:28:51] <brmbrmcar> So I probably wouldn't want to implement anything until after 0.4.0.
 [2015/11/24 11:29:31] <Tobbi> ...unless those are really minor changes that won't break.
 [2015/11/24 11:29:54] <brmbrmcar> But best be on the safe side.
+[2015/11/24 11:31:51] <maths22> Tobbi: I can wait on it
+[2015/11/24 11:32:24] <brmbrmcar> How about  that Two Tiny Towers fix I did but haven't shown you?
+[2015/11/24 11:32:33] <brmbrmcar> s/How/What/
+[2015/11/24 11:32:33] <red_bot> brmbrmcar meant: "What about  that Two Tiny Towers fix I did but haven't shown you?"
+[2015/11/24 11:33:42] <Tobbi> What does the fix consist of?
+[2015/11/24 11:34:12] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92968727
+[2015/11/24 11:34:37] <brmbrmcar> Canging the dispenser direction from auto to left.
+[2015/11/24 11:35:01] <brmbrmcar> Preventing them going crazy rotating around and being useless.
