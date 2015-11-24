@@ -11465,3 +11465,5 @@
 [2015/11/24 12:45:41] <Tobbi> Hello benjamin__ with the underscores...
 [2015/11/24 12:46:34] @ Quit: Karkus: Ping timeout: 250 seconds
 [2015/11/24 12:56:50] @ Karkus joined channel #supertux
+[2015/11/24 13:11:11] <Hume2> brmbrmcar: Thanks.
+[2015/11/24 13:14:05] <brmbrmcar> Hume2: OK.
