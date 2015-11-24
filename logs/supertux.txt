@@ -11374,3 +11374,9 @@
 [2015/11/24 07:50:45] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92925818
 [2015/11/24 07:50:47] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92925704
 [2015/11/24 07:58:03] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92925818
+[2015/11/24 08:02:05] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92925704
+[2015/11/24 08:09:43] <Not-6fa5> [02supertux] 07Grumbel pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vB3Ox
+[2015/11/24 08:09:44] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03abd5516 - Added 'make install' to travis
+[2015/11/24 08:09:46] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92928818
+[2015/11/24 08:10:46] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92928818
+[2015/11/24 08:13:13] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92925818
