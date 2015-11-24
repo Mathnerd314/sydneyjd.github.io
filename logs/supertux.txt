@@ -11386,3 +11386,5 @@
 [2015/11/24 10:16:02] @ irungentoo joined channel #supertux
 [2015/11/24 10:18:38] <head8debian> Now i really want a server...
 [2015/11/24 10:28:41] @ tuxdev_ joined channel #supertux
+[2015/11/24 10:31:09] @ brmbrmcar joined channel #supertux
+[2015/11/24 10:33:30] <brmbrmcar> head8debian: Why you want a server?
