@@ -11393,3 +11393,4 @@
 [2015/11/24 10:47:09] <head8debian> brmbrmcar: Well, we cannot help if you don't tell us. :)
 [2015/11/24 10:48:17] <brmbrmcar> OK...
 [2015/11/24 10:49:47] <brmbrmcar> http://paste.ubuntu.com/13493290/
+[2015/11/24 11:08:00] <grumbel> Missing boost headers?
