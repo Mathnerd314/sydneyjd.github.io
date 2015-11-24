@@ -11587,3 +11587,24 @@
 [2015/11/24 14:56:14] <brmbrmcar> Ah.
 [2015/11/24 14:57:41] <maths22> mt: I also checked that both do work
 [2015/11/24 14:59:37] <maths22> By the way, I think I will rename them to FORCE_CHRISTMAS and FORCE_NOT_CHRISTMAS if that seems reasonable
+[2015/11/24 15:00:03] <brmbrmcar> OK, fine be me...
+[2015/11/24 15:00:52] <maths22> FAKE just sounded really bad
+[2015/11/24 15:01:33] <brmbrmcar> yeah
+[2015/11/24 15:01:51] <brmbrmcar> It has to be good.
+[2015/11/24 15:03:05] <Not-6fa5> [02supertux] 07maths22 pushed 031 commit to 03christmas [+0/-0/±3] 13http://git.io/vBZZC
+[2015/11/24 15:03:07] <Not-6fa5> [02supertux] 07Jacob Burroughs 032a5685f - Added flags to force Christmas mode on or off
+[2015/11/24 15:03:08] <Not-6fa5> [02supertux] 07maths22 synchronize pull request 03#238: Improved main menu logo handling - 13http://git.io/vBGPg
+[2015/11/24 15:03:10] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93016896
+[2015/11/24 15:03:11] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93016905
+[2015/11/24 15:03:49] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93013958
+[2015/11/24 15:05:33] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93013948
+[2015/11/24 15:07:28] <Not-6fa5> [02supertux] 07maths22 assigned pull request 03#238: Improved main menu logo handling - 13http://git.io/vBGPg
+[2015/11/24 15:12:16] <head8debian> maths22: Uhm, you can force christmas on with --christmas.
+[2015/11/24 15:12:56] <maths22> head8debian: I will reverse that commit then
+[2015/11/24 15:13:00] <maths22> Sorry
+[2015/11/24 15:13:26] <head8debian> maths22: :)
+[2015/11/24 15:13:50] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93016896
+[2015/11/24 15:14:31] <Not-6fa5> [02supertux] 07maths22 created branch 03christmas 13http://git.io/vBZWz
+[2015/11/24 15:14:33] <Not-6fa5> [02supertux] 07maths22 synchronize pull request 03#238: Improved main menu logo handling - 13http://git.io/vBGPg
+[2015/11/24 15:14:38] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93019204
+[2015/11/24 15:14:48] <maths22> head8debian: removed
