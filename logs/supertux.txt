@@ -11388,3 +11388,8 @@
 [2015/11/24 10:28:41] @ tuxdev_ joined channel #supertux
 [2015/11/24 10:31:09] @ brmbrmcar joined channel #supertux
 [2015/11/24 10:33:30] <brmbrmcar> head8debian: Why you want a server?
+[2015/11/24 10:45:11] <head8debian> brmbrmcar: To do some personal hosting.
+[2015/11/24 10:45:58] <brmbrmcar> I am trying to compile Supertux but get an unusual error.
+[2015/11/24 10:47:09] <head8debian> brmbrmcar: Well, we cannot help if you don't tell us. :)
+[2015/11/24 10:48:17] <brmbrmcar> OK...
+[2015/11/24 10:49:47] <brmbrmcar> http://paste.ubuntu.com/13493290/
