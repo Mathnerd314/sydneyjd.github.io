@@ -11339,3 +11339,10 @@
 [2015/11/24 03:24:09] @ tux|dude joined channel #supertux
 [2015/11/24 04:02:50] @ Quit: tux|dude: Quit: Leaving
 [2015/11/24 04:14:44] @ Quit: datahead8888: Quit: Leaving
+[2015/11/24 05:35:55] <Not-6fa5> [02supertux] 07Grumbel pushed 035 commits to 03feature/sexp [+10/-0/±118] 13http://git.io/vBOgf
+[2015/11/24 05:35:57] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03ff45a32 - Removed unneeded bool return value from ReaderIterator::get(), exceptions are thrown in case of error
+[2015/11/24 05:35:58] <Not-6fa5> [02supertux] 07Ingo Ruhnke 038a7c91c - Removed ReaderIterator::get(ReaderMapping& value), use ReaderIterator::as_mapping() instead
+[2015/11/24 05:36:00] <Not-6fa5> [02supertux] 07Ingo Ruhnke 0314c6c82 - Removed unneeded ReaderIterator use
+[2015/11/24 05:36:01] <Not-6fa5> [02supertux] ... and 2 more commits.
+[2015/11/24 05:36:03] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92904990
+[2015/11/24 05:36:57] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92904990
