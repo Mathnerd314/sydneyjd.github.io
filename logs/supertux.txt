@@ -11467,3 +11467,17 @@
 [2015/11/24 12:56:50] @ Karkus joined channel #supertux
 [2015/11/24 13:11:11] <Hume2> brmbrmcar: Thanks.
 [2015/11/24 13:14:05] <brmbrmcar> Hume2: OK.
+[2015/11/24 13:15:14] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/24 13:18:41] @ Quit: Karkus: Ping timeout: 272 seconds
+[2015/11/24 13:23:14] @ Karkus joined channel #supertux
+[2015/11/24 13:23:56] <Not-6fa5> [02supertux] 07maths22 created branch 03christmas - 13http://git.io/vvf63
+[2015/11/24 13:23:57] <Not-6fa5> [02supertux] 07maths22 pushed 031 commit to 03christmas [+1/-3/±5] 13http://git.io/vBGiG
+[2015/11/24 13:23:59] <Not-6fa5> [02supertux] 07Jacob Burroughs 0385d3f6f - Improved main menu logo handling
+[2015/11/24 13:24:00] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92994670
+[2015/11/24 13:25:01] <maths22> I won't merge it with master right now, but I have fixed the handling of the main menu to only require one stl file
+[2015/11/24 13:25:16] <maths22> (I added is_christmas() as a scripting function)
+[2015/11/24 13:26:16] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92994670
+[2015/11/24 13:26:34] <Not-6fa5> [02supertux] 07maths22 opened pull request 03#238: Improved main menu logo handling - 13http://git.io/vBGPg
+[2015/11/24 13:26:38] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92995207
+[2015/11/24 13:26:56] <maths22> (I did make it a pull request so we can easily merge when we are ready)
+[2015/11/24 13:27:55] <brmbrmcar> OK.
