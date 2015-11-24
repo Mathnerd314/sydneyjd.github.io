@@ -11708,3 +11708,9 @@
 [2015/11/24 16:20:55] <Tobbi> Anyway, bbl, showering...
 [2015/11/24 16:22:36] @ Quit: ced117: Quit: Quitte
 [2015/11/24 16:24:47] <head8debian> Tobbi: Schroedingers?
+[2015/11/24 16:31:10] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/24 16:32:32] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2015/11/24 16:34:19] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/24 16:37:20] @ Karkus joined channel #supertux
+[2015/11/24 16:40:20] <maths22> We don't currently have a way to change the background from a script, do we?
+[2015/11/24 16:42:07] @ alket joined channel #supertux
