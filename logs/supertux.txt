@@ -11329,3 +11329,4 @@
 [2015/11/23 21:15:19] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-11-19 11:10:15 -0500
 [2015/11/23 21:15:23] @ Mode +nt by orwell.freenode.net
 [2015/11/23 22:10:35] <Not-6fa5> [02supertux] 07caiotava starred 03supertux - 13http://git.io/vBm7V
+[2015/11/23 22:18:41] @ Quit: irungentoo: Remote host closed the connection
