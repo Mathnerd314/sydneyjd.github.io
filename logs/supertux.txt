@@ -11334,3 +11334,4 @@
 [2015/11/24 00:02:31] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/11/24 00:04:04] @ bb010g joined channel #supertux
 [2015/11/24 01:33:29] @ Quit: swift110: Remote host closed the connection
+[2015/11/24 02:57:52] @ brmbrmcar joined channel #supertux
