@@ -11714,3 +11714,48 @@
 [2015/11/24 16:37:20] @ Karkus joined channel #supertux
 [2015/11/24 16:40:20] <maths22> We don't currently have a way to change the background from a script, do we?
 [2015/11/24 16:42:07] @ alket joined channel #supertux
+[2015/11/24 16:47:04] @ Tobbi joined channel #supertux
+[2015/11/24 16:47:05] @ Mode +o Tobbi by ChanServ
+[2015/11/24 16:47:34] <Tobbi> maths22: We don't, no. I always wanted to have that, though.
+[2015/11/24 16:47:41] <Tobbi> Especially, changing gradients from a script.
+[2015/11/24 16:48:28] <maths22> Tobbi: Something I think I'll add for after milestone 4
+[2015/11/24 16:48:43] <Tobbi> maths22: That's a long time...
+[2015/11/24 16:48:53] <Tobbi> We're just at milestone 2. :P
+[2015/11/24 16:49:04] <maths22> Tobbi: Sorry.  Post 0.4.0
+[2015/11/24 16:49:08] <Tobbi> :P
+[2015/11/24 16:49:11] <Tobbi> It's fine.
+[2015/11/24 16:49:20] <head8debian> LOL
+[2015/11/24 16:49:39] <head8debian> :-)
+[2015/11/24 16:50:04] <Not-6fa5> [02supertux] 07maths22 labeled issue 03#239: Background and Particles should be scriptable - 13http://git.io/vBZNf
+[2015/11/24 16:50:06] <Not-6fa5> [02supertux] 07maths22 opened issue 03#239: Background and Particles should be scriptable - 13http://git.io/vBZNf
+[2015/11/24 16:50:07] <Not-6fa5> [02supertux] 07maths22 labeled issue 03#239: Background and Particles should be scriptable - 13http://git.io/vBZNf
+[2015/11/24 16:50:09] <Not-6fa5> [02supertux] 07maths22 assigned issue 03#239: Background and Particles should be scriptable - 13http://git.io/vBZNf
+[2015/11/24 16:50:20] <maths22> That notification is lovely
+[2015/11/24 16:50:32] <maths22> 4 notifications for 1 action on the web interface
+[2015/11/24 16:50:43] <maths22> And I managed to label it before I opened it :P
+[2015/11/24 16:50:51] <Tobbi> maths22: https://github.com/SuperTux/supertux/issues/233 <-- What about this?
+[2015/11/24 16:52:03] <Not-6fa5> [02supertux] 07maths22 commented on issue 03#238: Improved main menu logo handling - 13http://git.io/vBZNi
+[2015/11/24 16:52:27] <maths22> Tobbi: I'll work on that tonight
+[2015/11/24 16:52:36] <Tobbi> thank you...
+[2015/11/24 16:52:47] <maths22> I just created these issues so I don't forget in the future that I have this to work on
+[2015/11/24 16:53:01] <Tobbi> :) Fine with me.
+[2015/11/24 16:53:10] <Tobbi> And post-0.4.0 is a loooong way from today...
+[2015/11/24 16:53:47] <maths22> Tobbi: I know, but 0.4.0 is a month from today (at least in theory)
+[2015/11/24 16:53:52] <Tobbi> Yes.
+[2015/11/24 16:54:04] <Tobbi> maths22: We'll make it. 20th of December...
+[2015/11/24 16:54:26] <maths22> Tobbi: Also, once 0.4.0 releases, we should rename post-0.4.0 to future
+[2015/11/24 16:54:33] <maths22> And we should create 0.4.1
+[2015/11/24 16:55:10] <maths22> (future would be for things that don't yet have a specific target, like post-0.4.0 is now)
+[2015/11/24 16:56:14] <Tobbi> yes.
+[2015/11/24 16:56:21] <Tobbi> Sounds good.
+[2015/11/24 16:57:21] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/11/24 16:57:39] <Tobbi> You're welcome, leyyin.
+[2015/11/24 16:58:29] <maths22> Tobbi: you may know this, but that is a Hitchhiker's guide to the galaxy reference
+[2015/11/24 16:58:40] <Tobbi> maths22: I know ;)
+[2015/11/24 16:58:48] <Tobbi> I only read it once, though.
+[2015/11/24 16:58:54] <maths22> Tobbi: I've only read it once too
+[2015/11/24 16:59:04] <maths22> I really should read it again.  It was a lot of fun
+[2015/11/24 16:59:13] <Tobbi> Yeah, same here.
+[2015/11/24 16:59:21] <Tobbi> Maybe this time in English instead of German..
+[2015/11/24 16:59:52] <head8debian> Ive heard things about it... good things...
+[2015/11/24 16:59:58] <Tobbi> head8debian: Really?
