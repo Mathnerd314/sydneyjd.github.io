@@ -11337,3 +11337,5 @@
 [2015/11/24 02:57:52] @ brmbrmcar joined channel #supertux
 [2015/11/24 03:19:18] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/11/24 03:24:09] @ tux|dude joined channel #supertux
+[2015/11/24 04:02:50] @ Quit: tux|dude: Quit: Leaving
+[2015/11/24 04:14:44] @ Quit: datahead8888: Quit: Leaving
