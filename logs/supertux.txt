@@ -11383,3 +11383,6 @@
 [2015/11/24 08:24:10] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92928818
 [2015/11/24 09:16:59] <head8debian> grumbel: Wow, you are doing alot. :)
 [2015/11/24 10:13:57] <head8debian> Hmm, i thought Shoutcast wouldnt have so many restrictions...
+[2015/11/24 10:16:02] @ irungentoo joined channel #supertux
+[2015/11/24 10:18:38] <head8debian> Now i really want a server...
+[2015/11/24 10:28:41] @ tuxdev_ joined channel #supertux
