@@ -11608,3 +11608,18 @@
 [2015/11/24 15:14:33] <Not-6fa5> [02supertux] 07maths22 synchronize pull request 03#238: Improved main menu logo handling - 13http://git.io/vBGPg
 [2015/11/24 15:14:38] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93019204
 [2015/11/24 15:14:48] <maths22> head8debian: removed
+[2015/11/24 15:15:43] <head8debian> maths22: There is not way to disable christmas though after the date has changed it.
+[2015/11/24 15:16:06] <maths22> head8debian: Then we should add a flag for that (--no-christmas ?)
+[2015/11/24 15:16:52] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93016905
+[2015/11/24 15:17:34] <head8debian> maths22: Sure. Unless tobbi did it, but i doubt it.
+[2015/11/24 15:18:01] <maths22> Testing now
+[2015/11/24 15:18:02] <brmbrmcar> --no-christmas should be added straight into master.
+[2015/11/24 15:18:34] <maths22> brmbrmcar: Once I have carefully tested it, sure
+[2015/11/24 15:18:57] <brmbrmcar> OK, thanks.
+[2015/11/24 15:20:07] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93013958
+[2015/11/24 15:22:07] <Not-6fa5> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/93016896
+[2015/11/24 15:23:24] <Not-6fa5> [02supertux] 07maths22 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBZ4K
+[2015/11/24 15:23:26] <Not-6fa5> [02supertux] 07Jacob Burroughs 0358285e5 - Added --no-christmas flag
+[2015/11/24 15:23:27] <maths22> brmbrmcar: done
+[2015/11/24 15:23:29] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93021239
+[2015/11/24 15:23:38] <brmbrmcar> Thanks.
