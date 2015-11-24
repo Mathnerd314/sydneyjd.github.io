@@ -11641,3 +11641,35 @@
 [2015/11/24 15:41:19] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93021239
 [2015/11/24 15:42:22] <brmbrmcar> Will the commits be squashed?
 [2015/11/24 15:43:43] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93019204
+[2015/11/24 15:51:00] @ Tobbi joined channel #supertux
+[2015/11/24 15:51:01] @ Mode +o Tobbi by ChanServ
+[2015/11/24 15:51:19] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93023295
+[2015/11/24 15:53:13] <grumbel> It's just rebase noise
+[2015/11/24 15:53:35] <grumbel> So it's the same 37+ commits each time
+[2015/11/24 15:53:58] <brmbrmcar> OK.
+[2015/11/24 15:54:16] <Tobbi> maths22: There is a check in the options, though.
+[2015/11/24 15:54:37] <maths22> Tobbi: A check for what?
+[2015/11/24 15:54:45] <Tobbi> maths22: christmas...
+[2015/11/24 15:54:57] <maths22> Tobbi: did you finish looking through the backlog?
+[2015/11/24 15:55:04] <Tobbi> maths22: no.
+[2015/11/24 15:55:05] <Tobbi> :D
+[2015/11/24 15:55:05] <maths22> I removed the CMake options
+[2015/11/24 15:55:12] <maths22> And added --no-christmas
+[2015/11/24 15:55:22] <Tobbi> Ah...I didn't know there were cmake options for xmas...
+[2015/11/24 15:55:25] <Tobbi> but doesn't matter.
+[2015/11/24 15:55:33] <maths22> Tobbi: I temporarily added them
+[2015/11/24 15:55:37] <Tobbi> Ah okay
+[2015/11/24 15:55:37] <maths22> And then got rid of them
+[2015/11/24 15:55:51] <maths22> Did you see how I made it only one menu.stl ?
+[2015/11/24 15:57:16] <Tobbi> maths22: Yes. That code is beyond my ability to understand.
+[2015/11/24 15:58:00] <maths22> Tobbi: It adds a squirrel function is_christmas
+[2015/11/24 15:58:08] <Tobbi> Okay...sounds good
+[2015/11/24 15:58:16] <Tobbi> That way, scripts can adapt their levels as well.
+[2015/11/24 15:58:23] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93021239
+[2015/11/24 15:58:25] <maths22> Tobbi: exatly
+[2015/11/24 15:58:44] <maths22> I actually still need to script the background of the unified menu.stl
+[2015/11/24 15:58:52] <maths22> I hadn't realized it was different
+[2015/11/24 15:58:57] <maths22> (for christmas)
+[2015/11/24 15:58:58] <brmbrmcar> I thought so.
+[2015/11/24 15:59:07] <brmbrmcar> Thats what I asked.
+[2015/11/24 15:59:49] @ Quit: alket: Ping timeout: 265 seconds
