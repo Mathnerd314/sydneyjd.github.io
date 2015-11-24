@@ -11673,3 +11673,25 @@
 [2015/11/24 15:58:58] <brmbrmcar> I thought so.
 [2015/11/24 15:59:07] <brmbrmcar> Thats what I asked.
 [2015/11/24 15:59:49] @ Quit: alket: Ping timeout: 265 seconds
+[2015/11/24 16:00:04] @ alket joined channel #supertux
+[2015/11/24 16:00:18] @ Quit: claymore2: Ping timeout: 265 seconds
+[2015/11/24 16:05:03] * brmbrmcar ignores Tobbi
+[2015/11/24 16:06:41] @ Quit: alket: Remote host closed the connection
+[2015/11/24 16:06:54] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93023295
+[2015/11/24 16:07:25] <Tobbi> [supertux] Sucks ass. The Travis CI build passed.
+[2015/11/24 16:08:15] <head8debian> Tobbi: eh...
+[2015/11/24 16:08:30] <Tobbi> head8debian: Sorry, I should've asterisk*ed that out.
+[2015/11/24 16:08:53] <Tobbi> [supertux] Sucks ass. The ****** ** ***** passed.
+[2015/11/24 16:09:18] <head8debian> Tobbi: ...
+[2015/11/24 16:09:22] <Tobbi> me...
+[2015/11/24 16:09:24] @ claymore2 joined channel #supertux
+[2015/11/24 16:09:39] <Tobbi> head8debian: You know that if you'll provoke me, I'll reply in an unexpected manner...
+[2015/11/24 16:10:03] <head8debian> Tobbi: I know...
+[2015/11/24 16:13:19] <head8debian> Tobbi: i somehow gained voice... but not ops. ;)
+[2015/11/24 16:13:37] <Tobbi> head8debian: Maybe you cleared your throat?
+[2015/11/24 16:13:47] <head8debian> Tobbi: lololol... not.
+[2015/11/24 16:13:50] <head8debian> :p
+[2015/11/24 16:14:04] <Tobbi> I know...
+[2015/11/24 16:14:07] <brmbrmcar> Voice is useless.
+[2015/11/24 16:14:16] <brmbrmcar> Apart from the +.
+[2015/11/24 16:14:57] @ xet7 joined channel #supertux
