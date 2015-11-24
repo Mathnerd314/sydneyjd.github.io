@@ -11456,3 +11456,5 @@
 [2015/11/24 12:09:39] @ benjamin__ joined channel #supertux
 [2015/11/24 12:13:17] <Hume2> brmbrmcar: Really? I've never noticed that. And do you know something in Narreland?
 [2015/11/24 12:13:58] <brmbrmcar> I'll check now.
+[2015/11/24 12:23:29] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/24 12:28:21] @ Karkus joined channel #supertux
