@@ -11499,3 +11499,24 @@
 [2015/11/24 13:54:57] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92995207
 [2015/11/24 13:55:26] <giby> you're welcome
 [2015/11/24 13:59:20] <Not-6fa5> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/92998100
+[2015/11/24 14:05:27] <mt> I don't know if the content of the memo is so relevant anymore, but anyway it's a good idea
+[2015/11/24 14:05:53] <mt> However, I hope you know that that voice won't stay
+[2015/11/24 14:06:49] <Not-6fa5> [02supertux] 07Grumbel pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBGpU
+[2015/11/24 14:06:51] <Not-6fa5> [02supertux] 07Ingo Ruhnke 033ca778c - Check that Console::current() is valid before accessing it
+[2015/11/24 14:06:57] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93005202
+[2015/11/24 14:07:05] <Not-6fa5> [02supertux] 07Grumbel pushed 033 commits to 03feature/sexp [+0/-0/±4] 13http://git.io/vBGpn
+[2015/11/24 14:07:06] <Not-6fa5> [02supertux] 07Ingo Ruhnke 0355e42eb - Check that Console::current() is valid before accessing it
+[2015/11/24 14:07:08] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03106cf5d - Fixes issue with (particles-snow) causing the parser to error out
+[2015/11/24 14:07:09] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03dcf546d - Include origin of the exception in the error message
+[2015/11/24 14:07:11] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93005255
+[2015/11/24 14:07:26] @ Quit: Hume2: Quit: Page closed
+[2015/11/24 14:11:09] @ Karkus joined channel #supertux
+[2015/11/24 14:11:28] <Not-6fa5> [02supertux] 07Grumbel pushed 031 commit to 03feature/sexp [+0/-0/±1] 13http://git.io/vBGjJ
+[2015/11/24 14:11:29] <Not-6fa5> [02supertux] 07Ingo Ruhnke 0323cc365 - Fixed incorrect assert in ReaderIterator
+[2015/11/24 14:11:37] <Karkus> head8debian: You are an op?
+[2015/11/24 14:11:43] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93006084
+[2015/11/24 14:12:44] <Not-6fa5> [02supertux] 07Grumbel pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBGj8
+[2015/11/24 14:12:45] <Not-6fa5> [02supertux] 07Ingo Ruhnke 0312f1962 - Build and run test cases on travis
+[2015/11/24 14:12:47] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93006293
+[2015/11/24 14:13:53] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93005202
+[2015/11/24 14:14:11] <brmbrmcar> head8debian is now a voice.
