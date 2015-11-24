@@ -11481,3 +11481,10 @@
 [2015/11/24 13:26:38] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92995207
 [2015/11/24 13:26:56] <maths22> (I did make it a pull request so we can easily merge when we are ready)
 [2015/11/24 13:27:55] <brmbrmcar> OK.
+[2015/11/24 13:33:26] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92995207
+[2015/11/24 13:37:43] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92994670
+[2015/11/24 13:38:24] <Not-6fa5> [02supertux] 07Grumbel pushed 031 commit to 03feature/sexp [+1/-0/±5] 13http://git.io/vBGyE
+[2015/11/24 13:38:26] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03e5e5769 - Improved Reader error messages
+[2015/11/24 13:38:28] @ Quit: Karkus: Quit: Leaving
+[2015/11/24 13:38:32] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92998100
+[2015/11/24 13:44:53] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92998100
