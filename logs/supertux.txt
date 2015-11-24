@@ -11824,3 +11824,4 @@
 [2015/11/24 17:38:25] @ tux|dude joined channel #supertux
 [2015/11/24 18:25:57] @ Quit: VargaD: Ping timeout: 240 seconds
 [2015/11/24 18:28:43] @ VargaD joined channel #supertux
+[2015/11/24 18:42:56] <head8debian> Tobbi... Thats pitifull
