@@ -11695,3 +11695,16 @@
 [2015/11/24 16:14:07] <brmbrmcar> Voice is useless.
 [2015/11/24 16:14:16] <brmbrmcar> Apart from the +.
 [2015/11/24 16:14:57] @ xet7 joined channel #supertux
+[2015/11/24 16:15:32] <Tobbi> giby: Can you give head8debian +o ?
+[2015/11/24 16:15:47] <giby> I can all
+[2015/11/24 16:16:01] <giby> I get ownership of the chanel
+[2015/11/24 16:16:13] <brmbrmcar> So you are super op?
+[2015/11/24 16:16:33] <Tobbi> giby: Great...so, actually, you can give me your privilege level, couldn't you? :P
+[2015/11/24 16:17:09] <giby> :p
+[2015/11/24 16:19:54] <head8debian> We don't know what Tobbi would do with that much privelages... Might turn this room into a disco dance hall...
+[2015/11/24 16:20:14] <Tobbi> head8debian: No. Not that. Into Schroedinger's IRC channel.
+[2015/11/24 16:20:39] <brmbrmcar> Are you talking about a ghost?
+[2015/11/24 16:20:49] <Tobbi> what?
+[2015/11/24 16:20:55] <Tobbi> Anyway, bbl, showering...
+[2015/11/24 16:22:36] @ Quit: ced117: Quit: Quitte
+[2015/11/24 16:24:47] <head8debian> Tobbi: Schroedingers?
