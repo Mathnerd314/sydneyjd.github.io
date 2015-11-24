@@ -11520,3 +11520,28 @@
 [2015/11/24 14:12:47] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93006293
 [2015/11/24 14:13:53] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93005202
 [2015/11/24 14:14:11] <brmbrmcar> head8debian is now a voice.
+[2015/11/24 14:21:32] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93005255
+[2015/11/24 14:21:51] <head8debian> What?
+[2015/11/24 14:22:29] <head8debian> Karkus: Well, i now have voice, not sure what it does though.
+[2015/11/24 14:22:38] <brmbrmcar> Nothing, really.
+[2015/11/24 14:23:00] <brmbrmcar> Just means that in the rare event the channel is muted you can still speak.
+[2015/11/24 14:23:06] <head8debian> Heh.
+[2015/11/24 14:23:29] @ claymore2 joined channel #supertux
+[2015/11/24 14:23:30] <mt> you can send messages if you're banned (and still in the channel)/quited/affected by +m; and voice actually raises some server-side send limit
+[2015/11/24 14:23:33] <brmbrmcar> And tyou get the wierd plus symbol at the beginning of your name.#
+[2015/11/24 14:23:59] <mt> that depends on the client
+[2015/11/24 14:24:20] <brmbrmcar> Yeah.
+[2015/11/24 14:24:51] <brmbrmcar> But there is virtually no point on this channel.
+[2015/11/24 14:24:59] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93005202
+[2015/11/24 14:25:31] <mt> there is: to show someone's affiliation with the supertux project/team
+[2015/11/24 14:25:50] <brmbrmcar> Only that though.
+[2015/11/24 14:26:04] <brmbrmcar> supertux/member
+[2015/11/24 14:27:02] <brmbrmcar> That should be a cloak. :D
+[2015/11/24 14:27:21] <mt> we need gms for that
+[2015/11/24 14:28:23] <brmbrmcar> https://blog.freenode.net/2012/06/group-registration-closure/ :(
+[2015/11/24 14:29:21] <mt> yeah that's the old thing
+[2015/11/24 14:29:30] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93006084
+[2015/11/24 14:29:31] <brmbrmcar> And what is the new?
+[2015/11/24 14:29:33] <mt> https://github.com/freenode/gms will replace it
+[2015/11/24 14:29:36] <mt> at some point
+[2015/11/24 14:29:42] <mt> probably before 2016-12
