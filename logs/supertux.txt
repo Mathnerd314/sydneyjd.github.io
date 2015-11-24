@@ -11358,3 +11358,5 @@
 [2015/11/24 07:12:10] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/92919790
 [2015/11/24 07:12:40] @ grumbel joined channel #supertux
 [2015/11/24 07:12:40] @ Mode +o grumbel by ChanServ
+[2015/11/24 07:15:58] <grumbel> data/levels/misc/menu_final.stl is missing
+[2015/11/24 07:27:28] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/92919790
