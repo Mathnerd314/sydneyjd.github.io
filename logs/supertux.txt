@@ -11444,3 +11444,15 @@
 [2015/11/24 11:54:50] <Hume2> Tobbi: Yes, but not now.
 [2015/11/24 11:54:58] <Tobbi> No problem.
 [2015/11/24 11:59:36] <brmbrmcar> Should Two Tiny Towers stay put from mychanges?
+[2015/11/24 12:00:11] <Tobbi> Hume2: Also, narre's worldmap. Will you check those strings, too?
+[2015/11/24 12:00:15] <Tobbi> Don't worry, take your time...
+[2015/11/24 12:01:05] <Hume2> Tobbi: There are no mistakes AFAIK.
+[2015/11/24 12:02:09] <Tobbi> Hume2: Yes, there are. Check them.
+[2015/11/24 12:03:10] <brmbrmcar> Why not say what they are?
+[2015/11/24 12:03:18] <brmbrmcar> I know of a few.
+[2015/11/24 12:03:49] <Hume2> brmbrmcar: Could you tell me which of them you know?
+[2015/11/24 12:05:17] <brmbrmcar> On your rainbow cave seve secret area level, remember is spelt remembre.
+[2015/11/24 12:09:28] @ Quit: giby_the_kid: Ping timeout: 240 seconds
+[2015/11/24 12:09:39] @ benjamin__ joined channel #supertux
+[2015/11/24 12:13:17] <Hume2> brmbrmcar: Really? I've never noticed that. And do you know something in Narreland?
+[2015/11/24 12:13:58] <brmbrmcar> I'll check now.
