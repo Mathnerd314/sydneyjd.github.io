@@ -11821,3 +11821,4 @@
 [2015/11/24 17:17:31] <Tobbi> Or "may the cheese be with you"
 [2015/11/24 17:22:43] @ Quit: alket: Remote host closed the connection
 [2015/11/24 17:28:54] @ Quit: Tobbi: 
+[2015/11/24 17:38:25] @ tux|dude joined channel #supertux
