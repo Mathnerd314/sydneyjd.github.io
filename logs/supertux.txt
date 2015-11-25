@@ -11827,3 +11827,5 @@
 [2015/11/24 18:42:56] <head8debian> Tobbi... Thats pitifull
 [2015/11/24 19:01:10] @ Quit: Wuzzy: Quit: Wuzzy
 [2015/11/24 19:59:46] @ swift110 joined channel #supertux
+[2015/11/24 20:00:31] @ Quit: swift110: Changing host
+[2015/11/24 20:00:31] @ swift110 joined channel #supertux
