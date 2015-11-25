@@ -11952,3 +11952,13 @@
 [2015/11/25 10:59:19] <grumbel> and the editor doesn't support it either of course
 [2015/11/25 11:03:21] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/11/25 11:10:04] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/25 11:19:41] @ brmbrmcar joined channel #supertux
+[2015/11/25 11:28:04] <Not-6fa5> [02supertux] 07Grumbel created branch 03feature/memorycleanup - 13http://git.io/vvf63
+[2015/11/25 11:28:05] <Not-6fa5> [02supertux] 07Grumbel pushed 033 commits to 03feature/memorycleanup [+0/-0/±6] 13http://git.io/vB8nr
+[2015/11/25 11:28:07] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03e2e2f9f - Removed unused member LevelTile::picture
+[2015/11/25 11:28:08] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03db0a65f - Removed `continue` and added explicit `else` block
+[2015/11/25 11:28:10] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03657edd9 - Removed unneeded typedef
+[2015/11/25 11:28:17] <Not-6fa5> [02supertux] 07Grumbel created branch 03feature/sexp 13http://git.io/vB8nS
+[2015/11/25 11:28:27] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93190577
+[2015/11/25 11:28:55] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93190684
+[2015/11/25 11:29:42] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93190577
