@@ -12082,3 +12082,7 @@
 [2015/11/25 16:28:50] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2015/11/25 16:33:42] @ Quit: alket: Quit: Konversation terminated!
 [2015/11/25 16:34:08] @ alket joined channel #supertux
+[2015/11/25 17:12:03] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±4] 13http://git.io/vBBVV
+[2015/11/25 17:12:04] <Not-6fa5> [02supertux] 07Tobias Markus 037a9abba - cppcheck performance fixes
+[2015/11/25 17:12:05] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93255238
+[2015/11/25 17:13:10] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93255238
