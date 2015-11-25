@@ -11935,3 +11935,6 @@
 [2015/11/25 10:15:32] <Not-6fa5> [02supertux] 07Tobias Markus 03c65d270 - Move content from string into new method
 [2015/11/25 10:15:34] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93175449
 [2015/11/25 10:19:51] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93175449
+[2015/11/25 10:34:16] @ brmbrmcar joined channel #supertux
+[2015/11/25 10:37:38] <brmbrmcar> The  lethargik.org server is fine from here...
+[2015/11/25 10:39:26] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93175449
