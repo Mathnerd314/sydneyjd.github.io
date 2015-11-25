@@ -12054,3 +12054,12 @@
 [2015/11/25 14:15:48] <head8debian> "I am concerned about poultry and animals being given growth hormones". Arg... We don't give them growth hormones! We would be put out of buisiness if we did, but people don't realize that.
 [2015/11/25 14:22:21] <head8debian> Also, the only reason we would(if ever) give them antibiotics is if they are not feeling well. Its illegal for us to sell animals with these antibiotics in their systems for up to 60 days after the last dose was given.
 [2015/11/25 14:22:44] <head8debian> If any antibiotics are found in the meat the meat gets dumped and we get put out of buisiness, pretty much.
+[2015/11/25 14:45:21] @ Karkus joined channel #supertux
+[2015/11/25 14:47:21] @ brmbrmcar joined channel #supertux
+[2015/11/25 14:47:45] <head8debian> Karkus: I think mrb is following us... if you know what i mean. :)
+[2015/11/25 14:48:28] <brmbrmcar> ??????????????????????????
+[2015/11/25 14:52:08] <Karkus> brmbrmcar: Any progress with https://github.com/SuperTux/supertux/issues/225 ?
+[2015/11/25 14:54:50] <brmbrmcar> Karkus: No. I haven't got myself to do it...
+[2015/11/25 14:54:59] <brmbrmcar> But it will be done!
+[2015/11/25 14:55:07] <Karkus> That's okay
+[2015/11/25 14:55:53] <brmbrmcar> Good.
