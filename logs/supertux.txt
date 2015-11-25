@@ -12130,3 +12130,5 @@
 [2015/11/25 17:32:21] <Tobbi> (for products)
 [2015/11/25 17:33:23] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/25 17:33:58] <head8debian> Yes, CE is everywhere, but most chinese lights pass CE...
+[2015/11/25 17:51:04] @ brmbrmcar joined channel #supertux
+[2015/11/25 17:59:56] @ Quit: claymore2: Quit: Leaving
