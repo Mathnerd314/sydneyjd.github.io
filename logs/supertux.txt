@@ -11926,3 +11926,6 @@
 [2015/11/25 09:42:51] <Tobbi> anyway, I gotta go to college.
 [2015/11/25 09:44:18] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/25 09:53:10] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93163742
+[2015/11/25 10:06:19] <head8debian> Thats*
+[2015/11/25 10:06:23] * head8debian headbangs...
+[2015/11/25 10:06:38] @ tuxdev_ joined channel #supertux
