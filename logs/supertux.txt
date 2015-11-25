@@ -11916,3 +11916,6 @@
 [2015/11/25 09:12:04] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03f75a6f1 - Use std::unique_ptr<> for CameraConfig
 [2015/11/25 09:12:06] <Not-6fa5> [02supertux] ... and 3 more commits.
 [2015/11/25 09:12:07] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93163742
+[2015/11/25 09:19:28] @ Tobbi joined channel #supertux
+[2015/11/25 09:19:29] @ Mode +o Tobbi by ChanServ
+[2015/11/25 09:24:42] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93163742
