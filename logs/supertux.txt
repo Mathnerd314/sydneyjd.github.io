@@ -11910,3 +11910,9 @@
 [2015/11/25 08:35:45] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93154507
 [2015/11/25 08:51:34] @ grumbel joined channel #supertux
 [2015/11/25 08:51:34] @ Mode +o grumbel by ChanServ
+[2015/11/25 09:12:00] <Not-6fa5> [02supertux] 07Grumbel pushed 036 commits to 03feature/sexp [+0/-0/±13] 13http://git.io/vBlLg
+[2015/11/25 09:12:01] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03ea74d62 - Removed unneeded Writer::write() function
+[2015/11/25 09:12:03] <Not-6fa5> [02supertux] 07Ingo Ruhnke 036b7b634 - Use std::unique_ptr<> for IFileStream/OFileStream
+[2015/11/25 09:12:04] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03f75a6f1 - Use std::unique_ptr<> for CameraConfig
+[2015/11/25 09:12:06] <Not-6fa5> [02supertux] ... and 3 more commits.
+[2015/11/25 09:12:07] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93163742
