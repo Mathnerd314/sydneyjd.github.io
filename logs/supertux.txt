@@ -12017,3 +12017,9 @@
 [2015/11/25 12:59:31] <Hume2> ...or on objects?
 [2015/11/25 12:59:34] <Tobbi> Hume2: Yeah, not sure...
 [2015/11/25 12:59:39] <Tobbi> Not sure how I managed it last time.
+[2015/11/25 13:01:33] <Hume2> Tobbi: I don't know any object with a "coin" boolean.
+[2015/11/25 13:01:58] <Hume2> Tobbi: And when you apply it on a tile, it becomes the normal yellow coin.
+[2015/11/25 13:02:22] <Hume2> That's the previous behaviour.
+[2015/11/25 13:07:58] <Hume2> Tobbi: Blue coins work by the way.
+[2015/11/25 13:10:59] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/25 13:13:26] <Not-6fa5> [02supertux] 07Hume2 commented on commit 031f616741767b08e5c2db876f9484b327fcfd4cd9 - 13http://git.io/vB4LT
