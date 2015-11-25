@@ -12050,3 +12050,7 @@
 [2015/11/25 13:53:53] @ Quit: Hume2: Quit: Page closed
 [2015/11/25 13:54:29] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/25 14:10:26] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93214065
+[2015/11/25 14:15:29] @ Quit: tuxdev_: Ping timeout: 240 seconds
+[2015/11/25 14:15:48] <head8debian> "I am concerned about poultry and animals being given growth hormones". Arg... We don't give them growth hormones! We would be put out of buisiness if we did, but people don't realize that.
+[2015/11/25 14:22:21] <head8debian> Also, the only reason we would(if ever) give them antibiotics is if they are not feeling well. Its illegal for us to sell animals with these antibiotics in their systems for up to 60 days after the last dose was given.
+[2015/11/25 14:22:44] <head8debian> If any antibiotics are found in the meat the meat gets dumped and we get put out of buisiness, pretty much.
