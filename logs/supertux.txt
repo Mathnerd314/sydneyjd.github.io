@@ -12074,3 +12074,9 @@
 [2015/11/25 15:38:29] @ Quit: grumbel: Quit: Ex-Chat
 [2015/11/25 15:57:40] @ Quit: Karkus: Quit: Leaving
 [2015/11/25 16:04:11] @ tux|dude joined channel #supertux
+[2015/11/25 16:22:25] @ Tobbi joined channel #supertux
+[2015/11/25 16:22:26] @ Mode +o Tobbi by ChanServ
+[2015/11/25 16:23:40] @ Quit: alket: Remote host closed the connection
+[2015/11/25 16:24:05] @ alket joined channel #supertux
+[2015/11/25 16:27:01] @ Quit: tux|dude: Quit: Leaving
+[2015/11/25 16:28:50] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
