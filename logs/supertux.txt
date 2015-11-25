@@ -12086,3 +12086,43 @@
 [2015/11/25 17:12:04] <Not-6fa5> [02supertux] 07Tobias Markus 037a9abba - cppcheck performance fixes
 [2015/11/25 17:12:05] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93255238
 [2015/11/25 17:13:10] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93255238
+[2015/11/25 17:17:41] @ tuxdev_ joined channel #supertux
+[2015/11/25 17:19:16] <head8debian> Tobbi: Im shoched as to how china can manage to ship a 10w decently built led light for the US at a grand total of $5.
+[2015/11/25 17:19:34] <Tobbi> :D
+[2015/11/25 17:19:37] <Tobbi> I don't know...
+[2015/11/25 17:19:42] <head8debian> If only i knew they would last and not burn anything down.
+[2015/11/25 17:19:49] <head8debian> in the proccess.
+[2015/11/25 17:20:40] <Tobbi> hmm...
+[2015/11/25 17:20:47] <head8debian> :)
+[2015/11/25 17:20:58] <head8debian> Tobbi: Thats why i prefer UL Listed stuff...
+[2015/11/25 17:21:10] <head8debian> I do have one chinese light in our barn that seems to be doing OK.
+[2015/11/25 17:21:15] <Tobbi> head8debian: I have no idea what the hell you're trying to tell me.
+[2015/11/25 17:21:45] <head8debian> Tobbi: For a electrical fixture to be legally put up over here they have to meet some pretty strict quality standards.
+[2015/11/25 17:22:00] <Tobbi> really?
+[2015/11/25 17:22:27] <Tobbi> You guys are weird, over there.
+[2015/11/25 17:22:36] <head8debian> Tobbi: If not, well, the fixture has a bad reputation in our eyes.
+[2015/11/25 17:22:45] <head8debian> Tobbi: Its mainly saftey.
+[2015/11/25 17:22:51] <Tobbi> head8debian: Why do you put it in your eyes in the first place?
+[2015/11/25 17:23:06] <head8debian> Plus we know that it will live up to certian standards.
+[2015/11/25 17:23:09] <head8debian> Tobbi: :p
+[2015/11/25 17:24:17] <Tobbi> head8debian: Anyway, if you want, you can fix the rest of the cppcheck issues.
+[2015/11/25 17:24:20] <Tobbi> ;)
+[2015/11/25 17:24:31] <head8debian> Tobbi: And as a hope to be future electrician i have to stick up to the standards, which i sometimes with i don't always, making me feel guilty. :p
+[2015/11/25 17:24:38] <head8debian> Tobbi: I don't want. :D
+[2015/11/25 17:25:06] <Tobbi> head8debian: But as a future electrician, it doesn't hurt to know the Computer science stuff...
+[2015/11/25 17:25:19] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93255238
+[2015/11/25 17:25:38] <Tobbi> head8debian: See, I know them, Thus "[supertux] Success."
+[2015/11/25 17:26:13] <head8debian> Tobbi: ...
+[2015/11/25 17:26:17] <Tobbi> :D
+[2015/11/25 17:26:27] <head8debian> Tobbi: Do you guys have electrical quality standards over ther?
+[2015/11/25 17:26:43] <Tobbi> head8debian: Yes. Basically, you're not allowed to run your own power plant in your backyard.
+[2015/11/25 17:26:44] <head8debian> Tobbi: Or do you buy the cheapest chinese wall wart you can find? :)
+[2015/11/25 17:27:11] <Tobbi> I tried running my own fusion generator in my backyard once, but my neighbors found out.
+[2015/11/25 17:27:22] <head8debian> Tobbi: ...
+[2015/11/25 17:27:22] <Tobbi> :P
+[2015/11/25 17:27:24] <Tobbi> :D
+[2015/11/25 17:27:30] <head8debian> Its no fun talking electrical with you! :p
+[2015/11/25 17:27:36] <Tobbi> head8debian: We have standards and rules for all kinds of things...
+[2015/11/25 17:28:00] <Tobbi> head8debian: If you disturb frequencies of other wifis, the Bundesnetzagentur will come knock at your door.
+[2015/11/25 17:28:09] <head8debian> Tobbi: :D
+[2015/11/25 17:29:06] <Tobbi> Former "Regulierungsbehoerde fuer Telekommunikation und Post:
