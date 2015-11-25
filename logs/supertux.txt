@@ -11966,3 +11966,10 @@
 [2015/11/25 11:37:18] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93190684
 [2015/11/25 11:43:18] @ alket joined channel #supertux
 [2015/11/25 11:43:19] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93190577
+[2015/11/25 11:53:55] <Not-6fa5> [02supertux] 07Grumbel created branch 03feature/stts-removal - 13http://git.io/vvf63
+[2015/11/25 11:53:56] <Not-6fa5> [02supertux] 07Grumbel pushed 031 commit to 03feature/stts-removal [+0/-0/±8] 13http://git.io/vB8gA
+[2015/11/25 11:53:58] <Not-6fa5> [02supertux] 07Ingo Ruhnke 031c6b8a0 - Removed support for multiple Tilesets inside a level file, i.e. the (tilesets ...) tag
+[2015/11/25 11:54:00] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93195919
+[2015/11/25 11:54:59] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93195919
+[2015/11/25 11:55:49] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/25 11:56:03] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93190684
