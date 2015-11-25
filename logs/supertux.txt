@@ -12126,3 +12126,7 @@
 [2015/11/25 17:28:00] <Tobbi> head8debian: If you disturb frequencies of other wifis, the Bundesnetzagentur will come knock at your door.
 [2015/11/25 17:28:09] <head8debian> Tobbi: :D
 [2015/11/25 17:29:06] <Tobbi> Former "Regulierungsbehoerde fuer Telekommunikation und Post:
+[2015/11/25 17:32:17] <Tobbi> head8debian: We have this: https://en.wikipedia.org/wiki/CE_marking
+[2015/11/25 17:32:21] <Tobbi> (for products)
+[2015/11/25 17:33:23] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/25 17:33:58] <head8debian> Yes, CE is everywhere, but most chinese lights pass CE...
