@@ -12080,3 +12080,5 @@
 [2015/11/25 16:24:05] @ alket joined channel #supertux
 [2015/11/25 16:27:01] @ Quit: tux|dude: Quit: Leaving
 [2015/11/25 16:28:50] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/11/25 16:33:42] @ Quit: alket: Quit: Konversation terminated!
+[2015/11/25 16:34:08] @ alket joined channel #supertux
