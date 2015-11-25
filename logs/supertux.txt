@@ -11838,3 +11838,10 @@
 [2015/11/24 22:28:44] @ Quit: maths22_log: Ping timeout: 276 seconds
 [2015/11/24 22:38:39] @ maths22_log joined channel #supertux
 [2015/11/24 23:24:59] @ Quit: tuxdev_: Ping timeout: 265 seconds
+[2015/11/25 01:28:05] <Not-6fa5> [02supertux] 07Hume2 pushed 036 commits to 03master [+0/-0/±21] 13http://git.io/vBcSw
+[2015/11/25 01:28:07] <Not-6fa5> [02supertux] 07Hume2 03ed2853d - Spawning objects via Object factory with own data
+[2015/11/25 01:28:08] <Not-6fa5> [02supertux] 07Hume2 034bf8ada - Added Object factories for all kinds of blocks.
+[2015/11/25 01:28:10] <Not-6fa5> [02supertux] 07Hume2 0348a5960 - Added special-tiles' objects to tiles.strf
+[2015/11/25 01:28:11] <Not-6fa5> [02supertux] ... and 3 more commits.
+[2015/11/25 01:28:13] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93099187
+[2015/11/25 01:28:58] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93099187
