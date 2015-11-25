@@ -11891,3 +11891,4 @@
 [2015/11/25 06:35:39] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93138101
 [2015/11/25 06:36:22] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93139836
 [2015/11/25 06:47:53] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93139836
+[2015/11/25 07:07:01] @ datahead8888 is now known as datahead7777
