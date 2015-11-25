@@ -11925,3 +11925,4 @@
 [2015/11/25 09:42:45] <head8debian> Tobbi: Thanks why we are moving away from lethargik.org ;)
 [2015/11/25 09:42:51] <Tobbi> anyway, I gotta go to college.
 [2015/11/25 09:44:18] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/25 09:53:10] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93163742
