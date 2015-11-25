@@ -11919,3 +11919,9 @@
 [2015/11/25 09:19:28] @ Tobbi joined channel #supertux
 [2015/11/25 09:19:29] @ Mode +o Tobbi by ChanServ
 [2015/11/25 09:24:42] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93163742
+[2015/11/25 09:41:52] <head8debian> Tobbi: What did you do to the bug tracker?
+[2015/11/25 09:42:00] <Tobbi> head8debian: Apparently, it's back now.
+[2015/11/25 09:42:27] <head8debian> Tobbi: Aparently...
+[2015/11/25 09:42:45] <head8debian> Tobbi: Thanks why we are moving away from lethargik.org ;)
+[2015/11/25 09:42:51] <Tobbi> anyway, I gotta go to college.
+[2015/11/25 09:44:18] @ Quit: Tobbi: Remote host closed the connection
