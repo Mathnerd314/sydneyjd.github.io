@@ -11938,3 +11938,15 @@
 [2015/11/25 10:34:16] @ brmbrmcar joined channel #supertux
 [2015/11/25 10:37:38] <brmbrmcar> The  lethargik.org server is fine from here...
 [2015/11/25 10:39:26] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93175449
+[2015/11/25 10:45:35] <grumbel> Has anybody ever used the support for multiple tilesets inside a level (i.e. the (tilesets ...) tag in .stl files)?
+[2015/11/25 10:46:42] <grumbel> I feel tempted to remove it, as it turns the code into a bit of a mess
+[2015/11/25 10:47:06] <grumbel> Could also be cleaner implemented inside the tileset instead of inside the level files
+[2015/11/25 10:47:25] <brmbrmcar> It seems useful although I have nevr used it.
+[2015/11/25 10:49:20] <grumbel> The only level that uses them is ./data/levels/test_old/tilesets.stl and that one doesn't even work
+[2015/11/25 10:49:51] <brmbrmcar> I would use it, but I nothing about tilesets myself.
+[2015/11/25 10:50:00] <brmbrmcar> Is it a major change?
+[2015/11/25 10:50:12] <grumbel> no, just removal of dead code
+[2015/11/25 10:50:36] <brmbrmcar> OK, then. Fine.
+[2015/11/25 10:50:53] <brmbrmcar> Probably won't be needed now.
+[2015/11/25 10:58:40] <grumbel> All the addons that use custom tilesets just define a new one right now instead of mixing them inside the .stl
+[2015/11/25 10:59:19] <grumbel> and the editor doesn't support it either of course
