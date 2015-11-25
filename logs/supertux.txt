@@ -12072,3 +12072,4 @@
 [2015/11/25 15:05:58] @ Mode +nt by adams.freenode.net
 [2015/11/25 15:06:27] @ head8debian joined channel #supertux
 [2015/11/25 15:38:29] @ Quit: grumbel: Quit: Ex-Chat
+[2015/11/25 15:57:40] @ Quit: Karkus: Quit: Leaving
