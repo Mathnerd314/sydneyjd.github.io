@@ -11846,3 +11846,5 @@
 [2015/11/25 01:28:13] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93099187
 [2015/11/25 01:28:58] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93099187
 [2015/11/25 01:40:47] <Not-6fa5> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/93099187
+[2015/11/25 03:27:10] @ brmbrmcar joined channel #supertux
+[2015/11/25 03:28:19] @ Quit: brmbrmcar: Client Quit
