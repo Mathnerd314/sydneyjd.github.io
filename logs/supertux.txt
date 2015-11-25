@@ -11875,3 +11875,4 @@
 [2015/11/25 05:27:23] <Not-6fa5> [02supertux] 07Tobias Markus 037e2533f - Less code duplication (create new method for raise_growup_bonus)
 [2015/11/25 05:27:25] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93127750
 [2015/11/25 05:28:23] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93127750
+[2015/11/25 05:40:09] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93127750
