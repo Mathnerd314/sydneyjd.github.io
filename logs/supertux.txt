@@ -11962,3 +11962,7 @@
 [2015/11/25 11:28:27] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93190577
 [2015/11/25 11:28:55] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93190684
 [2015/11/25 11:29:42] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93190577
+[2015/11/25 11:35:57] @ Quit: Karkus: Quit: Leaving
+[2015/11/25 11:37:18] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93190684
+[2015/11/25 11:43:18] @ alket joined channel #supertux
+[2015/11/25 11:43:19] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93190577
