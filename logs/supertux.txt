@@ -11853,3 +11853,10 @@
 [2015/11/25 04:07:07] @ Quit: tux|dude: Quit: Leaving
 [2015/11/25 04:11:27] @ Fire_ joined channel #supertux
 [2015/11/25 04:15:49] @ Quit: Fire_: Ping timeout: 246 seconds
+[2015/11/25 04:34:41] <Not-6fa5> [02supertux] 07tobbi commented on commit 03ef85f6351f821985f4d746e7da5d71a1940ab6d1 - 13http://git.io/vBCaN
+[2015/11/25 04:36:07] <Not-6fa5> [02supertux] 07tobbi commented on commit 031f616741767b08e5c2db876f9484b327fcfd4cd9 - 13http://git.io/vBCVO
+[2015/11/25 04:39:15] <Not-6fa5> [02supertux] 07tobbi commented on commit 034bf8ada4446ad5f6ef07c4d3a3d02bfed32e3227 - 13http://git.io/vBCwI
+[2015/11/25 04:41:17] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBCwP
+[2015/11/25 04:41:18] <Not-6fa5> [02supertux] 07Tobias Markus 03e8e7cd0 - Initialize d to 0. Should fix travis build
+[2015/11/25 04:41:20] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93120988
+[2015/11/25 04:42:21] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93120988
