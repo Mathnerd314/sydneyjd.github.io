@@ -11850,3 +11850,5 @@
 [2015/11/25 03:28:19] @ Quit: brmbrmcar: Client Quit
 [2015/11/25 03:36:07] @ leyyin joined channel #supertux
 [2015/11/25 03:53:58] @ Quit: giby: Quit: This computer has gone to sleep
+[2015/11/25 04:07:07] @ Quit: tux|dude: Quit: Leaving
+[2015/11/25 04:11:27] @ Fire_ joined channel #supertux
