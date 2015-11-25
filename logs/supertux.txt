@@ -11884,3 +11884,9 @@
 [2015/11/25 06:26:17] @ Tobbi joined channel #supertux
 [2015/11/25 06:26:17] @ Mode +o Tobbi by ChanServ
 [2015/11/25 06:26:24] <Tobbi> Let's hope I didn't wreck it.
+[2015/11/25 06:35:20] <Not-6fa5> [02supertux] 07Grumbel pushed 032 commits to 03feature/sexp [+0/-0/±2] 13http://git.io/vBWWw
+[2015/11/25 06:35:21] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03b918b88 - Added some test cases for syntax errors
+[2015/11/25 06:35:23] <Not-6fa5> [02supertux] 07Ingo Ruhnke 030855641 - Assert on m_arr in ReaderMapping
+[2015/11/25 06:35:24] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93139836
+[2015/11/25 06:35:39] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93138101
+[2015/11/25 06:36:22] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93139836
