@@ -12041,3 +12041,8 @@
 [2015/11/25 13:24:40] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93213611
 [2015/11/25 13:25:43] <Not-6fa5> [02supertux] 07tobbi pushed 0325 commits to 03coverity_scan [+1/-0/±47] 13http://git.io/vB4YR
 [2015/11/25 13:25:49] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93214065
+[2015/11/25 13:32:43] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93214065
+[2015/11/25 13:35:57] <Not-6fa5> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vB4Gx
+[2015/11/25 13:35:59] <Not-6fa5> [02supertux] 07Hume2 0308fae00 - Moved the Grumbel's signature to the background in world2/worldmap.stwm
+[2015/11/25 13:37:50] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93213611
+[2015/11/25 13:43:39] @ claymore2 joined channel #supertux
