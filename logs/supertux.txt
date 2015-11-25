@@ -11860,3 +11860,9 @@
 [2015/11/25 04:41:18] <Not-6fa5> [02supertux] 07Tobias Markus 03e8e7cd0 - Initialize d to 0. Should fix travis build
 [2015/11/25 04:41:20] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93120988
 [2015/11/25 04:42:21] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93120988
+[2015/11/25 04:45:48] <Not-6fa5> [02supertux] 07tobbi commented on commit 034bf8ada4446ad5f6ef07c4d3a3d02bfed32e3227 - 13http://git.io/vBCrM
+[2015/11/25 04:47:18] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±2] 13http://git.io/vBCoE
+[2015/11/25 04:47:20] <Not-6fa5> [02supertux] 07Tobias Markus 036af09ea - Change string initialization to be implicit
+[2015/11/25 04:47:21] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93121951
+[2015/11/25 04:49:58] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93121951
+[2015/11/25 04:55:12] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93120988
