@@ -11877,3 +11877,10 @@
 [2015/11/25 05:28:23] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93127750
 [2015/11/25 05:40:09] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93127750
 [2015/11/25 05:45:04] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/25 06:23:37] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±2] 13http://git.io/vBWIU
+[2015/11/25 06:23:38] <Not-6fa5> [02supertux] 07Tobias Markus 03791fd2e - Phase out drop growup bonus into own method
+[2015/11/25 06:23:40] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93138101
+[2015/11/25 06:24:35] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93138101
+[2015/11/25 06:26:17] @ Tobbi joined channel #supertux
+[2015/11/25 06:26:17] @ Mode +o Tobbi by ChanServ
+[2015/11/25 06:26:24] <Tobbi> Let's hope I didn't wreck it.
