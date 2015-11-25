@@ -11981,3 +11981,4 @@
 [2015/11/25 12:09:09] @ Quit: giby: Ping timeout: 240 seconds
 [2015/11/25 12:10:07] <grumbel> What is the state of moving the Wiki over to github?
 [2015/11/25 12:10:26] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93195919
+[2015/11/25 12:16:13] @ Wuzzy joined channel #supertux
