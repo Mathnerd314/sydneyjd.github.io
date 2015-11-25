@@ -11892,3 +11892,9 @@
 [2015/11/25 06:36:22] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93139836
 [2015/11/25 06:47:53] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93139836
 [2015/11/25 07:07:01] @ datahead8888 is now known as datahead7777
+[2015/11/25 07:24:43] <Tobbi> What is wrong with the lethargik.org server.
+[2015/11/25 07:24:55] @ Quit: giby: Quit: This computer has gone to sleep
+[2015/11/25 07:25:48] <Tobbi> I triggered a bug, apparently...
+[2015/11/25 07:25:52] <Tobbi> the bug tracker is wrecked now.
+[2015/11/25 07:25:53] <Tobbi> great!
+[2015/11/25 07:26:28] <Tobbi> the old one on lethargik.org I mean.
