@@ -11973,3 +11973,11 @@
 [2015/11/25 11:54:59] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93195919
 [2015/11/25 11:55:49] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/11/25 11:56:03] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93190684
+[2015/11/25 12:00:04] @ giby joined channel #supertux
+[2015/11/25 12:00:05] @ Mode +o giby by ChanServ
+[2015/11/25 12:02:32] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2015/11/25 12:07:27] @ giby_the_kid joined channel #supertux
+[2015/11/25 12:07:27] @ Mode +o giby_the_kid by ChanServ
+[2015/11/25 12:09:09] @ Quit: giby: Ping timeout: 240 seconds
+[2015/11/25 12:10:07] <grumbel> What is the state of moving the Wiki over to github?
+[2015/11/25 12:10:26] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93195919
