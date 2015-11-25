@@ -11982,3 +11982,38 @@
 [2015/11/25 12:10:07] <grumbel> What is the state of moving the Wiki over to github?
 [2015/11/25 12:10:26] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93195919
 [2015/11/25 12:16:13] @ Wuzzy joined channel #supertux
+[2015/11/25 12:45:46] <Not-6fa5> [02supertux] 07Hume2 commented on commit 03ef85f6351f821985f4d746e7da5d71a1940ab6d1 - 13http://git.io/vB8Ar
+[2015/11/25 12:46:10] @ Hume2 joined channel #supertux
+[2015/11/25 12:47:17] @ Tobbi joined channel #supertux
+[2015/11/25 12:47:17] @ Mode +o Tobbi by ChanServ
+[2015/11/25 12:47:49] <Hume2> Hello Tobbi. Could you describe me what you think I've done recently?
+[2015/11/25 12:48:05] <Tobbi> Hume2: I don't know. I believe it was a mistake on my part.
+[2015/11/25 12:48:29] <Hume2> Tobbi: see https://github.com/SuperTux/supertux/commit/1f616741767b08e5c2db876f9484b327fcfd4cd9#diff-900335f1aa051f8b032208aa4a763c18L432
+[2015/11/25 12:48:55] <Hume2> Tobbi: This is the code I've replaced with some more effective stuff.
+[2015/11/25 12:48:57] <Tobbi> Hume2: Some tiles might need to have the COIN setting or something.
+[2015/11/25 12:49:18] <Tobbi> I|m talking about // Marked for removal. Don't use
+[2015/11/25 12:50:27] <Hume2> Tobbi: The COIN attribute is done another way.
+[2015/11/25 12:50:34] <Tobbi> Sure?
+[2015/11/25 12:50:37] <Tobbi> What about the others?
+[2015/11/25 12:50:44] <Hume2> The same.
+[2015/11/25 12:51:29] @ Quit: Hume2: Quit: Page closed
+[2015/11/25 12:51:29] <Tobbi> Hume2: Where?
+[2015/11/25 12:51:56] @ Hume2 joined channel #supertux
+[2015/11/25 12:54:15] <Hume2> Tobbi: Previously, the images of the tiles were taken from the default blocks' presets.
+[2015/11/25 12:54:32] <Tobbi> I see?
+[2015/11/25 12:55:07] <Hume2> Tobbi: In the case ob Brick, there was just a list of IDs which sprite is for which tiles.
+[2015/11/25 12:55:14] <Tobbi> Okay...
+[2015/11/25 12:55:41] <Hume2> Tobbi: All blocks with coin #t had the default con sprite.
+[2015/11/25 12:55:55] <Tobbi> Hume2: Yes. but I am willing to change that.
+[2015/11/25 12:56:02] <Tobbi> Aka, have the blue coin sprite for other levels...
+[2015/11/25 12:56:12] <Tobbi> For the Yeti's Revenge levels.
+[2015/11/25 12:56:23] <Hume2> Tobbi: Was this even possible?
+[2015/11/25 12:56:31] <Tobbi> Hume2: Yes it worked the one time I tried.
+[2015/11/25 12:56:41] <Hume2> I'll take a look on it's tileset.
+[2015/11/25 12:57:09] <Hume2> I think it must be a powerup, but I'll take a look anyway.
+[2015/11/25 12:58:19] <Hume2> Tobbi: Yet's Revenge doesn't use any custom tileset.
+[2015/11/25 12:58:45] <Tobbi> Hume2: As long as I can still set (coin #t) on some object, I am fine.
+[2015/11/25 12:59:24] <Hume2> Tobbi: What are you speaking about? (coin #t) on tiles?
+[2015/11/25 12:59:31] <Hume2> ...or on objects?
+[2015/11/25 12:59:34] <Tobbi> Hume2: Yeah, not sure...
+[2015/11/25 12:59:39] <Tobbi> Not sure how I managed it last time.
