@@ -11898,3 +11898,4 @@
 [2015/11/25 07:25:52] <Tobbi> the bug tracker is wrecked now.
 [2015/11/25 07:25:53] <Tobbi> great!
 [2015/11/25 07:26:28] <Tobbi> the old one on lethargik.org I mean.
+[2015/11/25 07:41:04] @ Quit: Tobbi: Ping timeout: 250 seconds
