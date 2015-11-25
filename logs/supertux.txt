@@ -11929,3 +11929,9 @@
 [2015/11/25 10:06:19] <head8debian> Thats*
 [2015/11/25 10:06:23] * head8debian headbangs...
 [2015/11/25 10:06:38] @ tuxdev_ joined channel #supertux
+[2015/11/25 10:15:25] @ Tobbi joined channel #supertux
+[2015/11/25 10:15:25] @ Mode +o Tobbi by ChanServ
+[2015/11/25 10:15:31] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±2] 13http://git.io/vBl9N
+[2015/11/25 10:15:32] <Not-6fa5> [02supertux] 07Tobias Markus 03c65d270 - Move content from string into new method
+[2015/11/25 10:15:34] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93175449
+[2015/11/25 10:19:51] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93175449
