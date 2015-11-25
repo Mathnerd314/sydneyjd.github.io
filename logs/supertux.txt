@@ -11899,3 +11899,10 @@
 [2015/11/25 07:25:53] <Tobbi> great!
 [2015/11/25 07:26:28] <Tobbi> the old one on lethargik.org I mean.
 [2015/11/25 07:41:04] @ Quit: Tobbi: Ping timeout: 250 seconds
+[2015/11/25 08:18:24] <Not-6fa5> [02supertux] 07Grumbel pushed 037 commits to 03feature/sexp [+0/-0/±26] 13http://git.io/vBW7W
+[2015/11/25 08:18:26] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03907fd58 - Added Level::from_file() factory method
+[2015/11/25 08:18:27] <Not-6fa5> [02supertux] 07Ingo Ruhnke 032a744f0 - Use std::unique_ptr<> for Sector handling in Level
+[2015/11/25 08:18:29] <Not-6fa5> [02supertux] 07Ingo Ruhnke 036245d0d - Use std::unique_ptr<> for SpawnPoints in Worldmap
+[2015/11/25 08:18:30] <Not-6fa5> [02supertux] ... and 4 more commits.
+[2015/11/25 08:23:25] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93154507
+[2015/11/25 08:24:22] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93154507
