@@ -11832,3 +11832,4 @@
 [2015/11/24 20:31:23] @ VargaD_ joined channel #supertux
 [2015/11/24 20:33:42] @ Quit: VargaD: Ping timeout: 276 seconds
 [2015/11/24 20:33:43] @ VargaD_ is now known as VargaD
+[2015/11/24 20:59:49] @ Quit: swift110: Ping timeout: 250 seconds
