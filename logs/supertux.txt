@@ -12272,3 +12272,7 @@
 [2015/11/26 11:44:13] <Not-6fa5> [02supertux] 07Ingo Ruhnke 0387cd34f - Trying to remove raw lisp handling from the code and replace it with ReaderMapping
 [2015/11/26 11:44:15] <Not-6fa5> [02supertux] ... and 67 more commits.
 [2015/11/26 11:44:16] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93393097
+[2015/11/26 11:45:12] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93393097
+[2015/11/26 11:48:25] @ alket joined channel #supertux
+[2015/11/26 11:53:28] @ Quit: irungentoo: Remote host closed the connection
+[2015/11/26 11:56:43] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93393097
