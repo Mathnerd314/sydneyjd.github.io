@@ -12184,3 +12184,4 @@
 [2015/11/26 03:57:32] <Not-6fa5> [02supertux] ... and 2 more commits.
 [2015/11/26 03:57:34] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93317832
 [2015/11/26 03:58:27] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93317832
+[2015/11/26 04:09:12] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93317832
