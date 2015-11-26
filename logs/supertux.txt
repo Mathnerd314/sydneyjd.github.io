@@ -12669,3 +12669,58 @@
 [2015/11/26 15:04:57] <Tobbi> And it would even be true...
 [2015/11/26 15:05:02] <Tobbi> Zombie -> alive
 [2015/11/26 15:06:47] @ Karkus joined channel #supertux
+[2015/11/26 15:16:19] @ irungentoo joined channel #supertux
+[2015/11/26 15:18:10] <Tobbi> Karkus: When I brush my teeth, I am never bored...
+[2015/11/26 15:18:12] <Tobbi> :P
+[2015/11/26 15:18:32] <Karkus> Erm... what?
+[2015/11/26 15:18:40] <Tobbi> :D
+[2015/11/26 15:18:43] <Tobbi> Karkus: never mind.
+[2015/11/26 15:18:46] <Tobbi> Just translating...
+[2015/11/26 15:18:56] <Karkus> Did I miss something?
+[2015/11/26 15:19:11] <Tobbi> Karkus: In the literal sense? Nothing much.
+[2015/11/26 15:19:40] <Karkus> So what are you translating from?
+[2015/11/26 15:19:47] <Tobbi> Karkus: A video...
+[2015/11/26 15:20:30] <Karkus> Oh, okay :D Google translate captions are great, too
+[2015/11/26 15:21:00] <Tobbi> Oh, yes.
+[2015/11/26 15:21:03] <Tobbi> let me see...
+[2015/11/26 15:21:03] @ brmbrmcar joined channel #supertux
+[2015/11/26 15:21:07] <brmbrmcar> You calling me insane?
+[2015/11/26 15:21:50] <Tobbi> brmbrmcar: No, I am calling your quit message insane...
+[2015/11/26 15:21:53] <Tobbi> That's a difference.
+[2015/11/26 15:21:54] <brmbrmcar> How do you even set a quit message? I have to do it manually!
+[2015/11/26 15:22:39] <Karkus> If you think really hard about it for long enough, it will change. Other than that, yes, you must do it manually
+[2015/11/26 15:22:58] <brmbrmcar>  /set quitMessage quit?
+[2015/11/26 15:23:07] <brmbrmcar> Absolutely crazy.
+[2015/11/26 15:24:29] <Tobbi> Karkus: tele-quit-nesis?
+[2015/11/26 15:24:43] <Karkus> Yep
+[2015/11/26 15:24:56] <brmbrmcar> I set it!
+[2015/11/26 15:25:11] <Karkus> Well done
+[2015/11/26 15:25:19] <Tobbi> brmbrmcar: Okay, now. Try it out.
+[2015/11/26 15:25:22] <Tobbi> :D
+[2015/11/26 15:26:19] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/26 15:26:24] <Karkus> Wow
+[2015/11/26 15:26:35] <Tobbi> damn.
+[2015/11/26 15:26:35] @ brmbrmcar joined channel #supertux
+[2015/11/26 15:26:38] <brmbrmcar> Did it work?
+[2015/11/26 15:26:41] <Tobbi> brmbrmcar: You didn't quit hard enough.
+[2015/11/26 15:26:51] <Karkus> It worked great!
+[2015/11/26 15:26:53] <brmbrmcar> Well, I set it.
+[2015/11/26 15:26:53] <Tobbi> Break your router, maybe it'll work the.
+[2015/11/26 15:26:55] <Tobbi> damn.
+[2015/11/26 15:26:57] <Hume2> The quit message was "brmbrmquit".
+[2015/11/26 15:27:01] <Karkus> What did you change it to again?
+[2015/11/26 15:27:05] <brmbrmcar> Inyellow?
+[2015/11/26 15:27:32] <Hume2> I saw "brmbrmquit".
+[2015/11/26 15:27:37] <brmbrmcar> OK.
+[2015/11/26 15:28:03] <Karkus> sudo rm -rf / #<quit message>
+[2015/11/26 15:28:10] <brmbrmcar> No!
+[2015/11/26 15:28:30] <brmbrmcar> I removed the password requirement!
+[2015/11/26 15:28:38] <Karkus> Wow
+[2015/11/26 15:28:51] <brmbrmcar> sudo visudo
+[2015/11/26 15:28:57] <Karkus> brmbrmcar: Why would you do that?
+[2015/11/26 15:28:58] <Tobbi> Karkus: I can tell that this worked.
+[2015/11/26 15:29:09] <Tobbi> I mean: brmbrmcar: I can tell that Karkus' advice worked.
+[2015/11/26 15:29:17] <brmbrmcar> Because I'm very lazy.
+[2015/11/26 15:29:39] <brmbrmcar> sudo rm -rf won't actually delete everything.
+[2015/11/26 15:29:56] <Tobbi> Oh, maybe format...something.
+[2015/11/26 15:30:01] <brmbrmcar> Only if you get to root.
