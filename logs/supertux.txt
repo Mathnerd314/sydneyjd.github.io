@@ -12276,3 +12276,6 @@
 [2015/11/26 11:48:25] @ alket joined channel #supertux
 [2015/11/26 11:53:28] @ Quit: irungentoo: Remote host closed the connection
 [2015/11/26 11:56:43] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93393097
+[2015/11/26 12:08:37] @ giby_the_kid joined channel #supertux
+[2015/11/26 12:08:37] @ Mode +o giby_the_kid by ChanServ
+[2015/11/26 12:11:24] @ Quit: giby: Ping timeout: 276 seconds
