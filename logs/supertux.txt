@@ -12835,3 +12835,4 @@
 [2015/11/26 17:09:22] <Not-6fa5> [02supertux] 07clrg starred 03supertux - 13http://git.io/vB2US
 [2015/11/26 17:17:19] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/11/26 17:22:56] @ Quit: alket: Quit: Good Night :)
+[2015/11/26 17:41:16] @ Quit: claymore2: Quit: Leaving
