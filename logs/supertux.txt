@@ -12176,3 +12176,11 @@
 [2015/11/26 03:33:50] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/11/26 03:38:49] @ grumbel joined channel #supertux
 [2015/11/26 03:38:49] @ Mode +o grumbel by ChanServ
+[2015/11/26 03:50:42] @ Quit: tux|dude: Quit: Leaving
+[2015/11/26 03:57:26] <Not-6fa5> [02supertux] 07Grumbel pushed 035 commits to 03feature/stts-removal [+0/-0/±18] 13http://git.io/vB0if
+[2015/11/26 03:57:28] <Not-6fa5> [02supertux] 07Ingo Ruhnke 038468202 - Use std::unique_ptr<> for Tile handling
+[2015/11/26 03:57:29] <Not-6fa5> [02supertux] 07Ingo Ruhnke 033229616 - Removed manual memory Tileset delete'ing from Worldmap
+[2015/11/26 03:57:31] <Not-6fa5> [02supertux] 07Ingo Ruhnke 0377a468d - Cleaned up TileSet class and removed superfluous friend declarations
+[2015/11/26 03:57:32] <Not-6fa5> [02supertux] ... and 2 more commits.
+[2015/11/26 03:57:34] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93317832
+[2015/11/26 03:58:27] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93317832
