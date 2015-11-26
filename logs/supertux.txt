@@ -12827,3 +12827,4 @@
 [2015/11/26 16:22:51] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/11/26 16:34:49] @ Quit: grumbel: Quit: Ex-Chat
 [2015/11/26 16:44:55] @ brmbrmcar joined channel #supertux
+[2015/11/26 16:45:41] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
