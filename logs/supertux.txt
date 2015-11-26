@@ -12198,3 +12198,5 @@
 [2015/11/26 05:47:01] @ Tobbi joined channel #supertux
 [2015/11/26 05:47:01] @ Mode +o Tobbi by ChanServ
 [2015/11/26 05:59:52] @ claymore2 joined channel #supertux
+[2015/11/26 06:08:17] @ grumbel joined channel #supertux
+[2015/11/26 06:08:17] @ Mode +o grumbel by ChanServ
