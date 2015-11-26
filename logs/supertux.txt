@@ -12144,3 +12144,23 @@
 [2015/11/26 01:36:09] @ Quit: tuxdev_: Ping timeout: 250 seconds
 [2015/11/26 02:29:55] @ tuxdude143 joined channel #supertux
 [2015/11/26 02:29:59] @ datahead8888_ joined channel #supertux
+[2015/11/26 02:30:22] @ kyberkits joined channel #supertux
+[2015/11/26 02:30:56] @ Quit: tux|dude: Ping timeout: 265 seconds
+[2015/11/26 02:30:58] @ Quit: paroneayea: Ping timeout: 265 seconds
+[2015/11/26 02:32:13] @ octo_ joined channel #supertux
+[2015/11/26 02:32:27] @ apostrophe joined channel #supertux
+[2015/11/26 02:33:19] @ head8deb1an joined channel #supertux
+[2015/11/26 02:34:54] @ nerdopolis___ joined channel #supertux
+[2015/11/26 02:36:21] @ Natureshadow_ joined channel #supertux
+[2015/11/26 02:36:41] @ paroneayea joined channel #supertux
+[2015/11/26 02:37:18] @ Quit: head8debian: *.net *.split
+[2015/11/26 02:37:19] @ Quit: binki: *.net *.split
+[2015/11/26 02:38:17] @ Quit: leper`: *.net *.split
+[2015/11/26 02:38:47] @ Quit: octo: *.net *.split
+[2015/11/26 02:38:47] @ Quit: gynter: *.net *.split
+[2015/11/26 02:39:15] @ Quit: datahead7777: *.net *.split
+[2015/11/26 02:42:36] @ Quit: nerdopolis: *.net *.split
+[2015/11/26 02:42:38] @ Quit: jeezy: *.net *.split
+[2015/11/26 02:43:04] @ Quit: maths22_log: *.net *.split
+[2015/11/26 02:43:08] @ Quit: Natureshadow: *.net *.split
+[2015/11/26 02:43:27] @ leper` joined channel #supertux
