@@ -12579,3 +12579,74 @@
 [2015/11/26 14:44:41] <Hume2> I can say that I'm immune to everything on Facebug.
 [2015/11/26 14:44:44] @ Quit: octo: Ping timeout: 260 seconds
 [2015/11/26 14:44:57] <brmbrmcar> So where is the netsplit vaccine?
+[2015/11/26 14:45:24] <Tobbi> brmbrmcar: I told you: If you don't join IRC, you can't get netsplit.
+[2015/11/26 14:46:12] <brmbrmcar> This is a good hospital!
+[2015/11/26 14:46:54] <leper`> Hume2: now that does sound more awesome as it might remind one of a facehugger
+[2015/11/26 14:47:20] * leper` adds "to facehug" to his vocabulary
+[2015/11/26 14:47:23] <Hume2> :D
+[2015/11/26 14:49:39] <Tobbi> guys...you know how we germans feel about chit-chat, right?
+[2015/11/26 14:49:50] <Tobbi> Law and order...now!
+[2015/11/26 14:49:56] @ brmbrmcar is now known as brmbrmauto
+[2015/11/26 14:49:59] <brmbrmauto> Nein.
+[2015/11/26 14:50:12] <leper`> as the dutch say: jawohl mein f...
+[2015/11/26 14:50:26] <Tobbi> leper`: *said...
+[2015/11/26 14:50:27] <Tobbi> :D
+[2015/11/26 14:50:28] <Hume2> :D
+[2015/11/26 14:50:33] <leper`> they still do :P
+[2015/11/26 14:50:51] @ brmbrmauto is now known as brmbrmcar
+[2015/11/26 14:50:53] <leper`> just try to tell them to follow your orders :P
+[2015/11/26 14:51:08] <Hume2> ~figlet WARNING! Tobbi is tired!
+[2015/11/26 14:51:08] <red_bot>  _      __ ___    ___   _  __ ____ _  __ _____ __
+[2015/11/26 14:51:08] <red_bot> | | /| / // _ |  / _ \ / |/ //  _// |/ // ___// /
+[2015/11/26 14:51:08] <red_bot> | |/ |/ // __ | / , _//    /_/ / /    // (_ //_/ 
+[2015/11/26 14:51:08] <red_bot> |__/|__//_/ |_|/_/|_|/_/|_//___//_/|_/ \___/(_)  
+[2015/11/26 14:51:08] <red_bot>                                                  
+[2015/11/26 14:51:08] <red_bot>  ______       __    __    _   _        __   _               __ __
+[2015/11/26 14:51:08] <red_bot> /_  __/___   / /   / /   (_) (_)___   / /_ (_)____ ___  ___/ // /
+[2015/11/26 14:51:08] <red_bot>  / /  / _ \ / _ \ / _ \ / / / /(_-<  / __// // __// -_)/ _  //_/ 
+[2015/11/26 14:51:08] <red_bot> /_/   \___//_.__//_.__//_/ /_//___/  \__//_//_/   \__/ \_,_/(_)
+[2015/11/26 14:51:17] <brmbrmcar> :D
+[2015/11/26 14:51:25] <Tobbi> Let's see if I can break it.
+[2015/11/26 14:51:56] <brmbrmcar> I queried red_bot once and tried to figlet the full chemical name of titin.
+[2015/11/26 14:52:08] @ leyyin joined channel #supertux
+[2015/11/26 14:52:09] <brmbrmcar> It just threw up an error.
+[2015/11/26 14:52:12] <Karkus> I did the same except with lorum ipsum
+[2015/11/26 14:52:21] <Tobbi> *lorem
+[2015/11/26 14:52:33] <leper`> et si dolor
+[2015/11/26 14:52:38] <brmbrmcar> I don't get lorem ipsum.
+[2015/11/26 14:52:38] <Karkus> Meant that :D
+[2015/11/26 14:52:45] <Tobbi> brmbrmcar: And you never will.
+[2015/11/26 14:52:47] <Karkus> https://duckduckgo.com/?t=lm&q=lorum+ipsum
+[2015/11/26 14:52:53] <Tobbi> It's latin. Naturally you don't get it.
+[2015/11/26 14:53:06] <Karkus> It's not proper Latin though
+[2015/11/26 14:53:07] <brmbrmcar> I don't see the point.
+[2015/11/26 14:53:22] <Tobbi> brmbrmcar: Visual deficiency as well, now?
+[2015/11/26 14:53:27] <Tobbi> Karkus: I thought it was...
+[2015/11/26 14:53:31] <brmbrmcar> You could just type in anything you want.
+[2015/11/26 14:53:43] <Hume2> I don't understand latin.
+[2015/11/26 14:53:56] <Tobbi> Oh, no, it is not...
+[2015/11/26 14:54:07] <Karkus> Tobbi: "The lorem ipsum text is typically a scrambled section of De finibus bonorum et malorum, a 1st-century BC Latin text by Cicero, with words altered, added, and removed to make it nonsensical, improper Latin."
+[2015/11/26 14:54:36] <Tobbi> Karkus: Yup, the German wikipedia told me kind of the same, anyway.
+[2015/11/26 14:54:43] @ Drangue joined channel #supertux
+[2015/11/26 14:54:44] <brmbrmcar> I have never used lorem isum.
+[2015/11/26 14:54:55] <Tobbi> brmbrmcar: No wonder, it's called lorem ipsum.
+[2015/11/26 14:55:04] @ Quit: alket: Ping timeout: 240 seconds
+[2015/11/26 14:55:43] <brmbrmcar> Tobbi: That was a typo!
+[2015/11/26 14:55:54] <Tobbi> brmbrmcar: No, that was a reply to your typo.
+[2015/11/26 14:56:02] <Tobbi> And that was some person quitting due to ping timeout.
+[2015/11/26 14:56:02] <Tobbi> :D
+[2015/11/26 14:56:22] <brmbrmcar> Any way of hanging Tux's sprite in a level?
+[2015/11/26 14:56:32] <Tobbi> I should write my ph.D. on how to properly annoy immature-acting individuals.
+[2015/11/26 14:56:37] <Karkus> brmbrmcar: It's filler text. Its purpose is to mean nothing while still displaying the features of the thing...
+[2015/11/26 14:56:44] <Karkus> brmbrmcar: Decals
+[2015/11/26 14:57:01] <brmbrmcar> So why not write in This is a filler text!
+[2015/11/26 14:57:22] <Karkus> Because that would be far too easy for simple people to understand/
+[2015/11/26 14:57:24] <Tobbi> brmbrmcar: Because people who have OCD get so drawn to reading this, than a non-sensical text.
+[2015/11/26 14:57:25] <Tobbi> :D
+[2015/11/26 14:57:26] <leper`> Tobbi: just so you can write phallus Dickus next to your name when signing things
+[2015/11/26 14:57:36] <Tobbi> leper`: *Biggus dickus.
+[2015/11/26 14:57:49] <leper`> but that doesn't fit the abbreviation
+[2015/11/26 14:57:53] <Tobbi> Oh, right.
+[2015/11/26 14:58:25] <leper`> (and yes there's a pun hidden there)
+[2015/11/26 14:58:59] <Tobbi> whatever...
+[2015/11/26 14:59:30] <leper`> well you wanted to write about being a dick on the internet
