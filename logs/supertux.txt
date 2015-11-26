@@ -12279,3 +12279,17 @@
 [2015/11/26 12:08:37] @ giby_the_kid joined channel #supertux
 [2015/11/26 12:08:37] @ Mode +o giby_the_kid by ChanServ
 [2015/11/26 12:11:24] @ Quit: giby: Ping timeout: 276 seconds
+[2015/11/26 12:20:49] <Tobbi> head8arch: Are you seriously head8arch now?
+[2015/11/26 12:23:41] <brmbrmcar> Arch linux!
+[2015/11/26 12:23:53] <mt> s/l/L/
+[2015/11/26 12:23:53] <red_bot> mt meant: "https://android.stackexchange.com/questions/46214/why-are-some-usb-chargers-sLower-than-others"
+[2015/11/26 12:24:00] <mt> shut up
+[2015/11/26 12:24:59] <leper`> lol
+[2015/11/26 12:25:21] <leper`> also since I broke my silence already: http://play0ad.com/new-release-0-a-d-alpha-19-syllepsis/
+[2015/11/26 12:25:42] <brmbrmcar> If I named myself over my OS, I'd be changing it every minute.
+[2015/11/26 12:27:43] <Tobbi> mt: You shut up, too ;)
+[2015/11/26 12:27:50] <Tobbi> mt: Come on, why are you nitpicking?
+[2015/11/26 12:28:02] <Tobbi> You're almost as bad as that other nitpicker I kind of remember.
+[2015/11/26 12:28:10] <Tobbi> very very vaguely...
+[2015/11/26 12:29:15] <mt> ok, I'll stop *hides*
+[2015/11/26 12:29:37] * brmbrmcar is getting confused...
