@@ -12325,3 +12325,27 @@
 [2015/11/26 12:58:41] <brmbrmcar> I mean, what is stuff written in before translation?
 [2015/11/26 12:58:51] <brmbrmcar> Which English?
 [2015/11/26 12:59:36] @ Karkus joined channel #supertux
+[2015/11/26 13:00:58] <Tobbi> brmbrmcar: English. Who cares about the difference between British, American and Pidgeon English, anyway?
+[2015/11/26 13:01:14] <mt> usually british or american english; depends on the person writing the code/level
+[2015/11/26 13:01:57] <brmbrmcar> I don't know.
+[2015/11/26 13:02:01] <Tobbi> People shouldn't be dicks about their language anyway. I even tolerate reading Bavarian, unless it's bad Bavarian.
+[2015/11/26 13:02:08] <brmbrmcar> I didn't mention it.
+[2015/11/26 13:02:56] <Tobbi> ...but I did.
+[2015/11/26 13:03:09] <Tobbi> You always need to have the last word, don't you?
+[2015/11/26 13:03:42] <leper`> Tobbi: Wos is?
+[2015/11/26 13:03:49] <Tobbi> leper`: brmbrmcar
+[2015/11/26 13:03:50] @ leyyin joined channel #supertux
+[2015/11/26 13:03:52] <Tobbi> :P
+[2015/11/26 13:03:58] <Tobbi> leyyin as well, sometimes.
+[2015/11/26 13:04:01] <Tobbi> Since he just joined.
+[2015/11/26 13:04:02] <Tobbi> :D
+[2015/11/26 13:04:02] <leper`> :D
+[2015/11/26 13:05:09] <leyyin> hmm, yes
+[2015/11/26 13:05:28] <Tobbi> c-c-combo breaker.
+[2015/11/26 13:07:19] @ Quit: brmbrmcar: Quit: leaving
+[2015/11/26 13:09:21] <Not-6fa5> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBgqk
+[2015/11/26 13:09:22] <Not-6fa5> [02supertux] 07Hume2 03a00aa2d - Replaced bunch of if's by a switch in angrystone.cpp
+[2015/11/26 13:09:23] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93405812
+[2015/11/26 13:09:35] @ Hume2 joined channel #supertux
+[2015/11/26 13:10:25] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93405812
+[2015/11/26 13:10:58] <Tobbi> May the switch be with you...
