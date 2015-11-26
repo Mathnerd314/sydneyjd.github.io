@@ -12195,3 +12195,6 @@
 [2015/11/26 04:41:03] @ leper` joined channel #supertux
 [2015/11/26 04:48:17] @ xet7 joined channel #supertux
 [2015/11/26 05:36:26] <mt> 23:31:39 <head8debian> Yes, CE is everywhere, but most chinese lights pass CE... <-- rather, most chinese companies just print a CE logo on their products, regardless of passing any tests
+[2015/11/26 05:47:01] @ Tobbi joined channel #supertux
+[2015/11/26 05:47:01] @ Mode +o Tobbi by ChanServ
+[2015/11/26 05:59:52] @ claymore2 joined channel #supertux
