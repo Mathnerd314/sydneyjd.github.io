@@ -12226,3 +12226,4 @@
 [2015/11/26 09:21:13] <Tobbi> grumbel: Will the stts-branch affect performance in a positive way?
 [2015/11/26 09:22:18] <grumbel> no, it just cleanups the Tileset memory management a bit
 [2015/11/26 09:25:39] <Tobbi> ok
+[2015/11/26 09:46:19] @ Quit: Tobbi: Remote host closed the connection
