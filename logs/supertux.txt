@@ -12173,3 +12173,6 @@
 [2015/11/26 03:02:20] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-11-19 11:10:15 -0500
 [2015/11/26 03:02:23] @ Mode +nt by adams.freenode.net
 [2015/11/26 03:13:20] @ tux|dude joined channel #supertux
+[2015/11/26 03:33:50] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/26 03:38:49] @ grumbel joined channel #supertux
+[2015/11/26 03:38:49] @ Mode +o grumbel by ChanServ
