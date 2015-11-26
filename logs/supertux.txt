@@ -12650,3 +12650,22 @@
 [2015/11/26 14:58:25] <leper`> (and yes there's a pun hidden there)
 [2015/11/26 14:58:59] <Tobbi> whatever...
 [2015/11/26 14:59:30] <leper`> well you wanted to write about being a dick on the internet
+[2015/11/26 15:00:16] <Tobbi> ah
+[2015/11/26 15:00:17] <Tobbi> hah.
+[2015/11/26 15:02:19] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/26 15:03:04] <Hume2> It's cool.
+[2015/11/26 15:03:16] <Tobbi> finally!
+[2015/11/26 15:03:21] <Tobbi> If he reads this, he will rejoin.
+[2015/11/26 15:03:28] @ octo_ is now known as octo
+[2015/11/26 15:03:30] <Tobbi> Why can't he change his quit message to something sane?
+[2015/11/26 15:03:48] <leper`> /quite something sane
+[2015/11/26 15:03:54] <leper`> /quit something sane
+[2015/11/26 15:03:56] <leper`> dang
+[2015/11/26 15:03:59] @ Quit: Karkus: Quit: Leaving
+[2015/11/26 15:04:07] <Tobbi> Yeah, for example that ^
+[2015/11/26 15:04:10] <Tobbi> Leaving!
+[2015/11/26 15:04:13] <Tobbi> That sounds sane.
+[2015/11/26 15:04:35] <leper`> "Living" would be another one
+[2015/11/26 15:04:57] <Tobbi> And it would even be true...
+[2015/11/26 15:05:02] <Tobbi> Zombie -> alive
+[2015/11/26 15:06:47] @ Karkus joined channel #supertux
