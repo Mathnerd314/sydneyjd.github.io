@@ -12302,3 +12302,26 @@
 [2015/11/26 12:39:07] <Tobbi> By the way: Do we follow people back that follow us? Might seem nice.
 [2015/11/26 12:42:20] <mt> you might also want to follow the fsf/gnu accounts, github, transifex (if they have twitter)
 [2015/11/26 12:43:05] <Tobbi> Sure.
+[2015/11/26 12:48:13] <mt> So how can I review translations in transifex
+[2015/11/26 12:49:30] <leper`> you need to be reviewer or coordinator or project owner (or something like that)
+[2015/11/26 12:49:40] <leper`> then you have a review button in the webinterface
+[2015/11/26 12:49:54] <mt> also, regarding the requestion languages: what's your opinion on adding en_AU and de_AT? seems pretty useless
+[2015/11/26 12:50:03] <Tobbi> mt: I don't know if I've been given you the necessary rights, yet. But if you ask one of the admins nicely, then I am sure something can be arranged :P
+[2015/11/26 12:50:50] @ ced117 joined channel #supertux
+[2015/11/26 12:50:54] @ Quit: ced117: Changing host
+[2015/11/26 12:50:54] @ ced117 joined channel #supertux
+[2015/11/26 12:51:00] <Tobbi> mt: What about adding bar, then?
+[2015/11/26 12:51:12] <Tobbi> or nds
+[2015/11/26 12:51:21] <Tobbi> or petuh
+[2015/11/26 12:51:31] <leper`> (to add to the country specific thing: We (0ad in case nobody saw the above link) don't add those for the most part (unless the languages actually differ enough), and we also do not add lang_FOO but lang normally)
+[2015/11/26 12:51:48] <Tobbi> ok
+[2015/11/26 12:53:39] <leper`> (which helps since we have some code for falling back to eg en in case en_AU is the system/user locale and en_AU does not exist)
+[2015/11/26 12:55:26] <brmbrmcar> Different country variants?
+[2015/11/26 12:55:45] <brmbrmcar> That is way too confusing. What is defaul?
+[2015/11/26 12:57:56] <Tobbi> brmbrmcar: Default is " "
+[2015/11/26 12:58:00] <Tobbi> Default is klingon.
+[2015/11/26 12:58:01] <Tobbi> Whatever.
+[2015/11/26 12:58:04] <Tobbi> I don't know.
+[2015/11/26 12:58:41] <brmbrmcar> I mean, what is stuff written in before translation?
+[2015/11/26 12:58:51] <brmbrmcar> Which English?
+[2015/11/26 12:59:36] @ Karkus joined channel #supertux
