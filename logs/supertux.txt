@@ -12230,3 +12230,4 @@
 [2015/11/26 10:24:14] @ Tobbi joined channel #supertux
 [2015/11/26 10:24:15] @ Mode +o Tobbi by ChanServ
 [2015/11/26 10:34:06] @ brmbrmcar joined channel #supertux
+[2015/11/26 10:47:44] @ Quit: MMlosh: Quit: Bye...
