@@ -12420,3 +12420,87 @@
 [2015/11/26 14:12:49] @ Quit: xnrand: *.net *.split
 [2015/11/26 14:12:55] @ Quit: ced117: *.net *.split
 [2015/11/26 14:12:56] @ Quit: VargaD: *.net *.split
+[2015/11/26 14:15:07] @ VargaD joined channel #supertux
+[2015/11/26 14:15:07] @ ced117 joined channel #supertux
+[2015/11/26 14:15:07] @ paroneayea joined channel #supertux
+[2015/11/26 14:15:07] @ jeezy joined channel #supertux
+[2015/11/26 14:15:07] @ xet7 joined channel #supertux
+[2015/11/26 14:15:07] @ Wuzzy joined channel #supertux
+[2015/11/26 14:15:07] @ brmbrmcar joined channel #supertux
+[2015/11/26 14:15:07] @ octo_ joined channel #supertux
+[2015/11/26 14:15:07] @ Hume2 joined channel #supertux
+[2015/11/26 14:15:07] @ leyyin joined channel #supertux
+[2015/11/26 14:15:07] @ giby_the_kid joined channel #supertux
+[2015/11/26 14:15:07] @ alket joined channel #supertux
+[2015/11/26 14:15:07] @ Tobbi joined channel #supertux
+[2015/11/26 14:15:07] @ tuxdev_ joined channel #supertux
+[2015/11/26 14:15:07] @ claymore2 joined channel #supertux
+[2015/11/26 14:15:07] @ nerdopolis joined channel #supertux
+[2015/11/26 14:15:07] @ Natureshadow_ joined channel #supertux
+[2015/11/26 14:15:07] @ datahead8888_ joined channel #supertux
+[2015/11/26 14:15:07] @ mt joined channel #supertux
+[2015/11/26 14:15:07] @ Xjs|moonshine joined channel #supertux
+[2015/11/26 14:15:07] @ ChanServ joined channel #supertux
+[2015/11/26 14:15:07] @ Mode +ooo giby_the_kid Tobbi ChanServ by verne.freenode.net
+[2015/11/26 14:15:09] <brmbrmcar> When did this last happen?
+[2015/11/26 14:15:09] <Hume2> I've never heard about that.
+[2015/11/26 14:15:09] <brmbrmcar> Of this scale?
+[2015/11/26 14:15:10] <Hume2> brmbrmcar: I don't remember any.
+[2015/11/26 14:15:10] <Tobbi> brmbrmcar: it can sometimes happen.
+[2015/11/26 14:15:10] <Tobbi> But seriouly, who cares.
+[2015/11/26 14:15:10] <brmbrmcar> Not-6fa5 was off... That is some sort of Netsplit.
+[2015/11/26 14:15:12] <Tobbi> ...
+[2015/11/26 14:15:21] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93411257
+[2015/11/26 14:15:23] <Hume2> It must be. It's the thing that posts there the changes on Github.
+[2015/11/26 14:15:29] @ tuxdev joined channel #supertux
+[2015/11/26 14:15:29] @ Quit: tuxdev: Changing host
+[2015/11/26 14:15:29] @ tuxdev joined channel #supertux
+[2015/11/26 14:15:37] <Hume2> ???
+[2015/11/26 14:15:37] <brmbrmcar> Notifico!
+[2015/11/26 14:15:44] <Tobbi> Some people are still missing.
+[2015/11/26 14:15:50] <brmbrmcar> Yep.
+[2015/11/26 14:16:09] <Hume2> join, left and join again in less than one secound
+[2015/11/26 14:16:22] <Tobbi> relax!
+[2015/11/26 14:16:28] <brmbrmcar> No, the magic of changing host. :D
+[2015/11/26 14:16:37] <brmbrmcar> Watch this...
+[2015/11/26 14:17:04] @ grumbel joined channel #supertux
+[2015/11/26 14:17:04] @ leper` joined channel #supertux
+[2015/11/26 14:17:04] @ binki joined channel #supertux
+[2015/11/26 14:17:04] @ gynter joined channel #supertux
+[2015/11/26 14:17:04] @ xnrand joined channel #supertux
+[2015/11/26 14:17:04] @ Mode +o grumbel by verne.freenode.net
+[2015/11/26 14:17:06] <Tobbi> Other side of the tunnel: http://sydneyjd.github.io/logs/supertux.txt
+[2015/11/26 14:17:24] <Tobbi> oh god...tepper...
+[2015/11/26 14:17:32] @ brmbrmca1 joined channel #supertux
+[2015/11/26 14:17:32] @ Quit: brmbrmca1: Changing host
+[2015/11/26 14:17:32] @ brmbrmca1 joined channel #supertux
+[2015/11/26 14:17:58] <brmbrmcar> See?
+[2015/11/26 14:18:17] @ Quit: brmbrmca1: Client Quit
+[2015/11/26 14:18:22] @ Quit: nerdopolis: Quit: No Ping reply in 210 seconds.
+[2015/11/26 14:19:01] <Hume2> Is it all or there all still some not-reconected?
+[2015/11/26 14:19:42] <Tobbi> I'd say we're good now.
+[2015/11/26 14:19:47] <brmbrmcar> I think there are still a few more...
+[2015/11/26 14:19:59] <brmbrmcar> And the logscan only read the .NetSplit.
+[2015/11/26 14:20:25] @ nerdopolis_ joined channel #supertux
+[2015/11/26 14:21:02] <Tobbi> brmbrmcar: Yes, the logscan read us netsplit.
+[2015/11/26 14:22:22] <Hume2> Tobbi: Can we talk about the "bug" I caused?
+[2015/11/26 14:22:34] <Tobbi> Hume2: Can't you just revert those two things?
+[2015/11/26 14:22:38] <Tobbi> commits anyway...
+[2015/11/26 14:22:55] <Hume2> Tobbi: Could we just analize it together?
+[2015/11/26 14:23:01] <Hume2> ...before I do it?
+[2015/11/26 14:23:03] <Tobbi> Hume2: I am not in the mood.
+[2015/11/26 14:23:58] <Hume2> Tobbi: Are you tired now or you think I complain because of a crap?
+[2015/11/26 14:24:08] <Tobbi> Hume2: I am not in the mood.
+[2015/11/26 14:24:10] @ benjamin__ joined channel #supertux
+[2015/11/26 14:24:49] <Hume2> brmbrmcar: Do you think that this could be option a?
+[2015/11/26 14:25:25] @ Wuzzy2 joined channel #supertux
+[2015/11/26 14:27:15] <Hume2> ~figlet a
+[2015/11/26 14:27:15] <red_bot>  ___ _
+[2015/11/26 14:27:15] <red_bot> / _ `/
+[2015/11/26 14:27:15] <red_bot> \_,_/
+[2015/11/26 14:29:14] @ Quit: nerdopolis_: Ping timeout: 240 seconds
+[2015/11/26 14:29:18] @ Quit: brmbrmcar: Ping timeout: 240 seconds
+[2015/11/26 14:29:34] @ nerdopolis__ joined channel #supertux
+[2015/11/26 14:29:36] @ brmbrmca1 joined channel #supertux
+[2015/11/26 14:29:46] @ Quit: Wuzzy: *.net *.split
+[2015/11/26 14:29:53] @ Quit: giby_the_kid: *.net *.split
