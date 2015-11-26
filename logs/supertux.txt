@@ -12836,3 +12836,5 @@
 [2015/11/26 17:17:19] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/11/26 17:22:56] @ Quit: alket: Quit: Good Night :)
 [2015/11/26 17:41:16] @ Quit: claymore2: Quit: Leaving
+[2015/11/26 18:11:34] @ head8debian joined channel #supertux
+[2015/11/26 18:13:34] @ Quit: Tobbi: 
