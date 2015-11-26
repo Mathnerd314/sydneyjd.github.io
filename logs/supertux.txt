@@ -12825,3 +12825,5 @@
 [2015/11/26 16:07:17] <Karkus> brmbrmcar: Ah
 [2015/11/26 16:09:35] <brmbrmcar> Hume2 is never on a this time.
 [2015/11/26 16:22:51] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/26 16:34:49] @ Quit: grumbel: Quit: Ex-Chat
+[2015/11/26 16:44:55] @ brmbrmcar joined channel #supertux
