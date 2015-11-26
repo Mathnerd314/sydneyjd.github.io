@@ -12210,3 +12210,8 @@
 [2015/11/26 08:38:18] <mt> if you'd continue the lines of the C and E both should finish up in a circle, some companies with unauthorized CE marks make the mistake to forget that ;)
 [2015/11/26 08:39:17] <mt> https://android.stackexchange.com/questions/46214/why-are-some-usb-chargers-slower-than-others
 [2015/11/26 08:42:35] @ tuxdev_ joined channel #supertux
+[2015/11/26 08:49:26] <head8deb1an> mt: Ok, now you have me confused...
+[2015/11/26 08:51:18] <head8deb1an> mt: Ah, i see now.
+[2015/11/26 08:55:18] <grumbel>   add_object(std::make_shared<DisplayEffect>("Effect"));
+[2015/11/26 08:55:18] <grumbel>   add_object(std::make_shared<TextObject>("Text"));
+[2015/11/26 08:55:37] <grumbel> Does anybody know what those things do? They are added to each Sector?
