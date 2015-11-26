@@ -12810,3 +12810,17 @@
 [2015/11/26 15:59:42] @ Quit: ced117: Ping timeout: 246 seconds
 [2015/11/26 15:59:52] @ Quit: Karkus: Ping timeout: 246 seconds
 [2015/11/26 15:59:52] @ Quit: Wuzzy2: Ping timeout: 246 seconds
+[2015/11/26 16:00:01] @ VargaD_ is now known as VargaD
+[2015/11/26 16:00:04] @ Karkus joined channel #supertux
+[2015/11/26 16:00:04] @ Wuzzy2 joined channel #supertux
+[2015/11/26 16:01:10] <Karkus> Tobbi: Do we use curly braces for cases in switch blocks or not?
+[2015/11/26 16:02:57] <Not-6fa5> [02supertux] 07Karkus476 commented on commit 03a00aa2dd4998316c6ec0e1d50ee39a369d89a541 - 13http://git.io/vBgF3
+[2015/11/26 16:03:08] <Tobbi> Karkus: not sur
+[2015/11/26 16:03:10] <Tobbi> e.
+[2015/11/26 16:03:41] <grumbel> http://pingus.seul.org/~grumbel/tmp/md5/48732498c0fecec35a8e79baae8acb6a-supertux-level-errors-master.txt
+[2015/11/26 16:06:19] <Karkus> Hume2: As far as I can tell, those break statements exit the switch, so no other cases are considered.
+[2015/11/26 16:06:24] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93425066
+[2015/11/26 16:07:04] <brmbrmcar> Karkus: You do realise Hume2 left?
+[2015/11/26 16:07:08] @ tux|dude joined channel #supertux
+[2015/11/26 16:07:17] <Karkus> brmbrmcar: Ah
+[2015/11/26 16:09:35] <brmbrmcar> Hume2 is never on a this time.
