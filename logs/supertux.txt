@@ -12504,3 +12504,78 @@
 [2015/11/26 14:29:36] @ brmbrmca1 joined channel #supertux
 [2015/11/26 14:29:46] @ Quit: Wuzzy: *.net *.split
 [2015/11/26 14:29:53] @ Quit: giby_the_kid: *.net *.split
+[2015/11/26 14:30:05] <brmbrmca1> Still going...
+[2015/11/26 14:30:17] @ brmbrmca1 is now known as brmbrmcar
+[2015/11/26 14:30:23] <Hume2> brmbrmcar: I see.
+[2015/11/26 14:30:42] <brmbrmcar> Did you see me saying my lag of 300?
+[2015/11/26 14:30:50] <brmbrmcar> Just wondering, like.
+[2015/11/26 14:30:53] <Hume2> No, I didn't.
+[2015/11/26 14:30:56] <brmbrmcar> OK.
+[2015/11/26 14:31:13] <brmbrmcar> So my conection broke before it said so.
+[2015/11/26 14:31:14] <Tobbi> ~figlet ∆˙¨¨©©ƒ
+[2015/11/26 14:31:14] <red_bot>  _   _  _   _  ____    ____  
+[2015/11/26 14:31:14] <red_bot> (_) (_)(_) (_)/ ___\  / ___\ 
+[2015/11/26 14:31:14] <red_bot>              / / _/ |/ / _/ |
+[2015/11/26 14:31:14] <red_bot>             | |__/ /| |__/ / 
+[2015/11/26 14:31:14] <red_bot>              \____/  \____/
+[2015/11/26 14:31:20] <Tobbi> not quite.
+[2015/11/26 14:31:29] <brmbrmcar> Stop it!
+[2015/11/26 14:31:41] <Tobbi> hah.
+[2015/11/26 14:31:42] <Tobbi> okay.
+[2015/11/26 14:31:59] <brmbrmcar> That is what you'd say to me...
+[2015/11/26 14:32:11] <Hume2> ~figlet ü
+[2015/11/26 14:32:11] <red_bot>   _  _ 
+[2015/11/26 14:32:11] <red_bot>  (_)(_)
+[2015/11/26 14:32:11] <red_bot> / // / 
+[2015/11/26 14:32:11] <red_bot> \_,_/
+[2015/11/26 14:32:34] @ Quit: alket: Ping timeout: 264 seconds
+[2015/11/26 14:32:41] <Tobbi> brmbrmcar: Yes.
+[2015/11/26 14:32:43] @ alket joined channel #supertux
+[2015/11/26 14:32:43] <Hume2> I'm just wonder what chars does it know...
+[2015/11/26 14:32:45] <Tobbi> With good reason.
+[2015/11/26 14:34:01] <brmbrmcar> Hume2: The other night your characters showed up as highlighting...
+[2015/11/26 14:34:02] @ brmbrmca1 joined channel #supertux
+[2015/11/26 14:34:11] @ brmbrmca1 left channel #supertux ()
+[2015/11/26 14:34:32] <Hume2> brmbrmcar: Really?
+[2015/11/26 14:34:41] <brmbrmcar> On irssi, yes.
+[2015/11/26 14:34:50] <brmbrmcar> I looked through the logs.
+[2015/11/26 14:34:57] <brmbrmcar> And found it was not
+[2015/11/26 14:35:15] <brmbrmcar> And how the hell do I have to connections at once?
+[2015/11/26 14:36:12] <Tobbi> I don't know...
+[2015/11/26 14:36:55] <brmbrmcar> I tried to quit it to stop these problems.
+[2015/11/26 14:37:24] <Tobbi> Good idea. Quit both of them.
+[2015/11/26 14:38:03] <brmbrmcar> I'll restart...
+[2015/11/26 14:38:16] @ octo joined channel #supertux
+[2015/11/26 14:38:17] <Tobbi> brmbrmcar: Why not quit?
+[2015/11/26 14:38:18] @ Quit: brmbrmcar: Quit: restarting, back in 20...
+[2015/11/26 14:38:28] <Tobbi> *sigh*
+[2015/11/26 14:38:31] <leper`> that was evil
+[2015/11/26 14:39:18] @ brmbrmcar joined channel #supertux
+[2015/11/26 14:39:27] <Tobbi> leper`: brmbrmcar is evil in himself...
+[2015/11/26 14:39:32] <brmbrmcar> Now, the entire server is cloged...
+[2015/11/26 14:39:36] <Tobbi> For his 0 years he has accumulated quite some evil...
+[2015/11/26 14:39:43] <Karkus> Tobbi: :D
+[2015/11/26 14:39:44] <brmbrmcar> s/cloged/clogged/
+[2015/11/26 14:39:44] <red_bot> brmbrmcar meant: "Now, the entire server is clogged..."
+[2015/11/26 14:41:23] @ Quit: octo_: *.net *.split
+[2015/11/26 14:41:26] @ Quit: leyyin: *.net *.split
+[2015/11/26 14:41:36] <Tobbi> There we go.
+[2015/11/26 14:41:43] <leper`> ah, indeed
+[2015/11/26 14:41:43] <brmbrmcar> More trouble.
+[2015/11/26 14:41:50] <leper`> he comes back, forces leyyin out
+[2015/11/26 14:41:53] <leper`> that's not nice
+[2015/11/26 14:41:57] <brmbrmcar> How to be immune?
+[2015/11/26 14:42:12] @ octo_ joined channel #supertux
+[2015/11/26 14:42:45] <Tobbi> brmbrmcar: It's called a virtual contraception. As in: Staying absent from IRC
+[2015/11/26 14:43:04] <brmbrmcar> That is not immunity.
+[2015/11/26 14:43:06] <Tobbi> or *birth control
+[2015/11/26 14:43:20] <Tobbi> brmbrmcar: Yes it is: If you're not on IRC you can't get kicked or disconnected.
+[2015/11/26 14:43:24] <Tobbi> or on our nerves.
+[2015/11/26 14:43:44] <brmbrmcar> Thats like saying you are immune to a certain illness by keeping away from it.
+[2015/11/26 14:43:51] <Tobbi> brmbrmcar: Well, it turns out: You are.
+[2015/11/26 14:44:11] <Hume2> That's a special kind of immunity.
+[2015/11/26 14:44:16] <brmbrmcar> Ah...
+[2015/11/26 14:44:19] <Tobbi> But it works just like taking vaccines.
+[2015/11/26 14:44:41] <Hume2> I can say that I'm immune to everything on Facebug.
+[2015/11/26 14:44:44] @ Quit: octo: Ping timeout: 260 seconds
+[2015/11/26 14:44:57] <brmbrmcar> So where is the netsplit vaccine?
