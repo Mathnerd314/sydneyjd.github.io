@@ -12828,3 +12828,8 @@
 [2015/11/26 16:34:49] @ Quit: grumbel: Quit: Ex-Chat
 [2015/11/26 16:44:55] @ brmbrmcar joined channel #supertux
 [2015/11/26 16:45:41] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/11/26 17:04:12] @ Jeff_ joined channel #supertux
+[2015/11/26 17:04:24] @ Quit: Karkus: Quit: Division By Zero
+[2015/11/26 17:04:35] @ Jeff_ is now known as Guest58290
+[2015/11/26 17:08:32] @ Quit: Guest58290: Ping timeout: 246 seconds
+[2015/11/26 17:09:22] <Not-6fa5> [02supertux] 07clrg starred 03supertux - 13http://git.io/vB2US
