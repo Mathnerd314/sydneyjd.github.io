@@ -12231,3 +12231,18 @@
 [2015/11/26 10:24:15] @ Mode +o Tobbi by ChanServ
 [2015/11/26 10:34:06] @ brmbrmcar joined channel #supertux
 [2015/11/26 10:47:44] @ Quit: MMlosh: Quit: Bye...
+[2015/11/26 11:08:34] <head8deb1an> Tobbi: <blink></blink>
+[2015/11/26 11:08:50] <head8deb1an> Oops, forgot the eyes.
+[2015/11/26 11:09:01] <head8deb1an> Tobbi: <blink>O_O</blink>
+[2015/11/26 11:09:03] <head8deb1an> :D
+[2015/11/26 11:09:19] <Tobbi> head8deb1an: Stop!
+[2015/11/26 11:09:37] <head8deb1an> Tobbi: Ok, ok.
+[2015/11/26 11:10:01] <head8deb1an> Tobbi: Does 15min update seem ok on the logs?
+[2015/11/26 11:10:53] <Tobbi> head8deb1an: Maybe more often?
+[2015/11/26 11:10:57] <Tobbi> every 5 minutes?
+[2015/11/26 11:11:35] <head8deb1an> Tobbi: I will see about it...
+[2015/11/26 11:11:46] <head8deb1an> Tobbi: Happy Thanksgiving. :D
+[2015/11/26 11:11:59] <Tobbi> head8deb1an: we don't celebrate that here.
+[2015/11/26 11:12:14] <head8deb1an> Tobbi: Oh well. :)
+[2015/11/26 11:12:29] <head8deb1an> Tobbi: Take it as a "have a a good day"...
+[2015/11/26 11:12:38] <Tobbi> head8deb1an: you, too. Thank you.
