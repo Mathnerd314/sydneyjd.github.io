@@ -12838,3 +12838,5 @@
 [2015/11/26 17:41:16] @ Quit: claymore2: Quit: Leaving
 [2015/11/26 18:11:34] @ head8debian joined channel #supertux
 [2015/11/26 18:13:34] @ Quit: Tobbi: 
+[2015/11/26 18:15:54] @ Quit: head8debian: Ping timeout: 246 seconds
+[2015/11/26 18:16:12] @ head8debian joined channel #supertux
