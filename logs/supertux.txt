@@ -12215,3 +12215,4 @@
 [2015/11/26 08:55:18] <grumbel>   add_object(std::make_shared<DisplayEffect>("Effect"));
 [2015/11/26 08:55:18] <grumbel>   add_object(std::make_shared<TextObject>("Text"));
 [2015/11/26 08:55:37] <grumbel> Does anybody know what those things do? They are added to each Sector?
+[2015/11/26 09:06:49] <grumbel> seems to be for scripting stuff
