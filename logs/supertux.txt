@@ -12187,3 +12187,9 @@
 [2015/11/26 04:09:12] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93317832
 [2015/11/26 04:19:53] @ MMlosh joined channel #supertux
 [2015/11/26 04:25:52] @ Quit: grumbel: Quit: Ex-Chat
+[2015/11/26 04:36:07] @ Quit: leper`: Ping timeout: 264 seconds
+[2015/11/26 04:36:08] @ Quit: giby_the_kid: Ping timeout: 264 seconds
+[2015/11/26 04:36:08] @ Quit: xet7: Ping timeout: 264 seconds
+[2015/11/26 04:37:29] @ giby joined channel #supertux
+[2015/11/26 04:37:29] @ Mode +o giby by ChanServ
+[2015/11/26 04:41:03] @ leper` joined channel #supertux
