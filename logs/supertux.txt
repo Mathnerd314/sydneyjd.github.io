@@ -12216,3 +12216,13 @@
 [2015/11/26 08:55:18] <grumbel>   add_object(std::make_shared<TextObject>("Text"));
 [2015/11/26 08:55:37] <grumbel> Does anybody know what those things do? They are added to each Sector?
 [2015/11/26 09:06:49] <grumbel> seems to be for scripting stuff
+[2015/11/26 09:16:08] @ Tobbi joined channel #supertux
+[2015/11/26 09:16:08] @ Mode +o Tobbi by ChanServ
+[2015/11/26 09:16:25] <Tobbi> grumbel: Can the stts-removal branch be made ready for inclusion prior to 0.4.0?
+[2015/11/26 09:19:18] <grumbel> Tobbi: It's all build ontop of the other sexp and memorycleanup branch, might be possible to transfer it, but not really worth it
+[2015/11/26 09:19:24] <Tobbi> Ah!
+[2015/11/26 09:19:31] <grumbel> That feature isn't documented or used by anything anyway.
+[2015/11/26 09:19:32] <Tobbi> No, then we'll hold off on it until after 0.4.0
+[2015/11/26 09:21:13] <Tobbi> grumbel: Will the stts-branch affect performance in a positive way?
+[2015/11/26 09:22:18] <grumbel> no, it just cleanups the Tileset memory management a bit
+[2015/11/26 09:25:39] <Tobbi> ok
