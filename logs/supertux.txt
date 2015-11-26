@@ -12392,3 +12392,31 @@
 [2015/11/26 13:56:19] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03a29987c - Merge branch 'master' into develop
 [2015/11/26 13:56:20] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93411257
 [2015/11/26 13:57:15] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93411257
+[2015/11/26 14:07:25] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93411257
+[2015/11/26 14:09:09] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93411257
+[2015/11/26 14:09:32] @ Quit: octo: *.net *.split
+[2015/11/26 14:09:37] @ Quit: head8arch: *.net *.split
+[2015/11/26 14:09:58] @ Quit: tuxdev: *.net *.split
+[2015/11/26 14:10:07] @ Quit: giby_the_kid: *.net *.split
+[2015/11/26 14:10:20] @ Quit: Tobbi: *.net *.split
+[2015/11/26 14:10:21] @ Quit: tuxdev_: *.net *.split
+[2015/11/26 14:10:21] @ Quit: claymore2: *.net *.split
+[2015/11/26 14:10:27] @ Quit: nerdopolis: *.net *.split
+[2015/11/26 14:10:48] @ Quit: alket: *.net *.split
+[2015/11/26 14:11:22] @ Quit: Natureshadow_: *.net *.split
+[2015/11/26 14:11:27] @ Quit: datahead8888_: *.net *.split
+[2015/11/26 14:11:39] @ Quit: Xjs|moonshine: *.net *.split
+[2015/11/26 14:11:40] @ Quit: leyyin: *.net *.split
+[2015/11/26 14:11:44] @ Quit: mt: *.net *.split
+[2015/11/26 14:11:44] @ Quit: Hume2: *.net *.split
+[2015/11/26 14:11:45] @ Quit: ChanServ: *.net *.split
+[2015/11/26 14:11:49] @ Quit: xet7: *.net *.split
+[2015/11/26 14:11:53] @ Quit: jeezy: *.net *.split
+[2015/11/26 14:11:55] @ Quit: paroneayea: *.net *.split
+[2015/11/26 14:12:18] @ Quit: grumbel: *.net *.split
+[2015/11/26 14:12:20] @ Quit: leper`: *.net *.split
+[2015/11/26 14:12:27] @ Quit: binki: *.net *.split
+[2015/11/26 14:12:28] @ Quit: gynter: *.net *.split
+[2015/11/26 14:12:49] @ Quit: xnrand: *.net *.split
+[2015/11/26 14:12:55] @ Quit: ced117: *.net *.split
+[2015/11/26 14:12:56] @ Quit: VargaD: *.net *.split
