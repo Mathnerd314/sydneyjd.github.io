@@ -12724,3 +12724,59 @@
 [2015/11/26 15:29:39] <brmbrmcar> sudo rm -rf won't actually delete everything.
 [2015/11/26 15:29:56] <Tobbi> Oh, maybe format...something.
 [2015/11/26 15:30:01] <brmbrmcar> Only if you get to root.
+[2015/11/26 15:30:34] <Karkus> brmbrmcar: What if you do sudo rm -rf / by accident?
+[2015/11/26 15:30:34] <Karkus> like, when changing your quit message
+[2015/11/26 15:31:04] <brmbrmcar> Lets see if running commands actually works from irssi?
+[2015/11/26 15:31:20] <brmbrmcar> sudo arduino
+[2015/11/26 15:31:24] <Karkus> brmbrmcar: But, will it remove your IRC client?
+[2015/11/26 15:31:33] <brmbrmcar> I'll take that as a no.
+[2015/11/26 15:31:38] <brmbrmcar> Karkus: No.
+[2015/11/26 15:31:43] <brmbrmcar> sudo rm -rf
+[2015/11/26 15:31:49] <brmbrmcar> See.
+[2015/11/26 15:32:00] <Hume2> Um...
+[2015/11/26 15:32:11] <Hume2> Does it do anything?
+[2015/11/26 15:32:17] <brmbrmcar> Nope.
+[2015/11/26 15:32:24] <Hume2> That's good.
+[2015/11/26 15:32:49] <brmbrmcar> Otherwise it would be like Unknown command! Unknown command!
+[2015/11/26 15:32:56] <Karkus> [sudo] password for brmbrmcar:
+[2015/11/26 15:33:13] <brmbrmcar> Not telling  you the password...
+[2015/11/26 15:33:20] <Tobbi> I suppose it's brmbrmcar.
+[2015/11/26 15:33:24] <Tobbi> or brmbrmpassword
+[2015/11/26 15:33:28] <Tobbi> :D
+[2015/11/26 15:33:31] <Karkus> Tobbi: Haha
+[2015/11/26 15:33:32] <brmbrmcar> Because you are on s different computer
+[2015/11/26 15:33:42] <Karkus> brmbrmcar: What about ssh?
+[2015/11/26 15:33:58] <brmbrmcar> Nah. Not through irssi.
+[2015/11/26 15:34:04] <Karkus> I am secretly a super anonymous hacker
+[2015/11/26 15:34:31] <Hume2> Karkus: Can we analyze angrystone.cpp?
+[2015/11/26 15:34:46] <brmbrmcar> Invert my GitHub profile picture then, hacker.
+[2015/11/26 15:34:48] <Karkus> Hume2: Analyse? Why?
+[2015/11/26 15:35:24] <Tobbi> brmbrmcar: Challenge accepted.
+[2015/11/26 15:35:25] <Tobbi> :D
+[2015/11/26 15:35:42] <brmbrmcar> OK, then.
+[2015/11/26 15:35:43] <Hume2> Karkus: There's some kind of "bug" about that I want to know more.
+[2015/11/26 15:35:49] <brmbrmcar> 5 minutes left.
+[2015/11/26 15:35:51] <Karkus> brmbrmcar: Solution: turn your computer upside down
+[2015/11/26 15:36:07] <Hume2> Karkus: Angrystone::active_update
+[2015/11/26 15:36:20] <brmbrmcar> I ean horizontally!
+[2015/11/26 15:36:29] <brmbrmcar> Or whichever way that is!
+[2015/11/26 15:36:57] <Hume2> Karkus: I changed there something and I want to know whether it's better or worse.
+[2015/11/26 15:37:18] <Karkus> So, you want me to test it?
+[2015/11/26 15:37:33] <Hume2> Karkus: No, see the code please.
+[2015/11/26 15:37:36] <Tobbi> brmbrmcar: http://imgur.com/h6PPmOi
+[2015/11/26 15:37:51] <Karkus> Hume2: Right. Which commit?
+[2015/11/26 15:38:14] <Hume2> Karkus: The last two commits.
+[2015/11/26 15:38:23] <Karkus> Okay
+[2015/11/26 15:38:39] <Hume2> Karkus: As you can see, I changed the bunch of if's to a switch.
+[2015/11/26 15:38:59] <Karkus> You did.
+[2015/11/26 15:39:14] <Hume2> Karkus: There's a problem that the state can be changed inside the switch.
+[2015/11/26 15:39:46] <Hume2> Karkus: As it was before, it went to the other state's if exception, but now it skips it.
+[2015/11/26 15:40:19] <Karkus> Of course, that's how switches work...
+[2015/11/26 15:40:29] <Hume2> Karkus: However, there's something that causes that it behaves exacly the same.
+[2015/11/26 15:40:51] <Karkus> I don't understand?
+[2015/11/26 15:41:03] <Karkus> You mean, it shouldn't work but it does?
+[2015/11/26 15:41:22] <Hume2> Karkus: No, I mean that it worked before the same as it does now.
+[2015/11/26 15:41:49] <Hume2> Karkus: As you can see, there's a nested exception in each case.
+[2015/11/26 15:42:43] <Hume2> Karkus: Do you see it?
+[2015/11/26 15:44:11] <brmbrmcar> tobbi: Awesome!
+[2015/11/26 15:44:19] <Tobbi> brmbrmcar: And now stop.
