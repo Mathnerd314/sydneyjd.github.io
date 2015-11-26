@@ -12365,3 +12365,24 @@
 [2015/11/26 13:29:20] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93408090
 [2015/11/26 13:29:28] <grumbel> Hume2: It just introduces bugs
 [2015/11/26 13:29:56] <Hume2> grumbel: Really? I'm sorry if I created any.
+[2015/11/26 13:30:02] <grumbel> Hume2: Yoru sw
+[2015/11/26 13:30:09] <grumbel> Your switch commit looks wrong
+[2015/11/26 13:30:20] <grumbel> ignore that other line, hit enter a little early...
+[2015/11/26 13:30:24] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93408090
+[2015/11/26 13:31:03] <grumbel> It's if (state == ...) { } if () if () ... not if/else if/else if/else
+[2015/11/26 13:31:13] <grumbel> and state changes inside the if-blocks
+[2015/11/26 13:31:57] <grumbel> state == CHARGING does a state = ATTACKING
+[2015/11/26 13:32:07] <grumbel> with a switch() you skip over that
+[2015/11/26 13:32:23] <Hume2> Oh, I'll correct that.
+[2015/11/26 13:33:52] <grumbel> Same problem with the darktrap, load() changes the state
+[2015/11/26 13:38:23] <Hume2> grumbel: There's another thing. It's called again in the next update...
+[2015/11/26 13:39:48] <grumbel> just revert both commits
+[2015/11/26 13:40:45] <Hume2> grumbel: It works the same way as before. Do you know why?
+[2015/11/26 13:40:57] <Hume2> I got why.
+[2015/11/26 13:41:06] <Hume2> And it works. I tested it.
+[2015/11/26 13:42:56] <grumbel> It does something different then before and is now a frame late
+[2015/11/26 13:43:17] <grumbel> I have no idea if it matters, it just the type of bug that I prefer to not have to deal with
+[2015/11/26 13:43:29] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93408090
+[2015/11/26 13:43:29] <grumbel> thus it's better to not introduce them in the first place
+[2015/11/26 13:43:43] <Hume2> grumbel: Yes, but all the other states begin on time check.
+[2015/11/26 13:44:04] <Hume2> And we can expect that the timer is much longer than one frame.
