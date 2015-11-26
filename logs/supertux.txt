@@ -12246,3 +12246,9 @@
 [2015/11/26 11:12:14] <head8deb1an> Tobbi: Oh well. :)
 [2015/11/26 11:12:29] <head8deb1an> Tobbi: Take it as a "have a a good day"...
 [2015/11/26 11:12:38] <Tobbi> head8deb1an: you, too. Thank you.
+[2015/11/26 11:15:09] <Tobbi> supertux-commit at lists.lethargik.org is not working...
+[2015/11/26 11:15:17] <Tobbi> hasn't been working since the move off google code.
+[2015/11/26 11:15:55] <Tobbi> Who renamed the milestones?
+[2015/11/26 11:27:20] @ head8deb1an is now known as head8debian
+[2015/11/26 11:27:30] @ head8debian is now known as head8arch
+[2015/11/26 11:27:32] <head8arch> :D
