@@ -12833,3 +12833,5 @@
 [2015/11/26 17:04:35] @ Jeff_ is now known as Guest58290
 [2015/11/26 17:08:32] @ Quit: Guest58290: Ping timeout: 246 seconds
 [2015/11/26 17:09:22] <Not-6fa5> [02supertux] 07clrg starred 03supertux - 13http://git.io/vB2US
+[2015/11/26 17:17:19] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/26 17:22:56] @ Quit: alket: Quit: Good Night :)
