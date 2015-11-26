@@ -12293,3 +12293,12 @@
 [2015/11/26 12:28:10] <Tobbi> very very vaguely...
 [2015/11/26 12:29:15] <mt> ok, I'll stop *hides*
 [2015/11/26 12:29:37] * brmbrmcar is getting confused...
+[2015/11/26 12:31:58] <Tobbi> brmbrmcar: You have always been confused... There's no "getting confused" for you.
+[2015/11/26 12:32:27] <brmbrmcar> I will fix the finishworldmap() command...
+[2015/11/26 12:33:21] <brmbrmcar> Ah, it isn't called that.
+[2015/11/26 12:34:10] <brmbrmcar> But the real one doesn't work!
+[2015/11/26 12:35:55] <Tobbi> head8arch: I just tweeted a call-out to potential translators.
+[2015/11/26 12:36:10] <Tobbi> Not sure if many read it, though.
+[2015/11/26 12:39:07] <Tobbi> By the way: Do we follow people back that follow us? Might seem nice.
+[2015/11/26 12:42:20] <mt> you might also want to follow the fsf/gnu accounts, github, transifex (if they have twitter)
+[2015/11/26 12:43:05] <Tobbi> Sure.
