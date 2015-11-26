@@ -12227,3 +12227,5 @@
 [2015/11/26 09:22:18] <grumbel> no, it just cleanups the Tileset memory management a bit
 [2015/11/26 09:25:39] <Tobbi> ok
 [2015/11/26 09:46:19] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/26 10:24:14] @ Tobbi joined channel #supertux
+[2015/11/26 10:24:15] @ Mode +o Tobbi by ChanServ
