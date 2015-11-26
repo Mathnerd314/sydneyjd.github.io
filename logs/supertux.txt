@@ -12780,3 +12780,33 @@
 [2015/11/26 15:42:43] <Hume2> Karkus: Do you see it?
 [2015/11/26 15:44:11] <brmbrmcar> tobbi: Awesome!
 [2015/11/26 15:44:19] <Tobbi> brmbrmcar: And now stop.
+[2015/11/26 15:46:07] <Not-6fa5> [02supertux] 07Hume2 commented on commit 03a00aa2dd4998316c6ec0e1d50ee39a369d89a541 - 13http://git.io/vBgQ1
+[2015/11/26 15:46:51] <Not-6fa5> [02supertux] 07Hume2 commented on commit 03a00aa2dd4998316c6ec0e1d50ee39a369d89a541 - 13http://git.io/vBgQ5
+[2015/11/26 15:47:11] @ alket joined channel #supertux
+[2015/11/26 15:47:20] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/26 15:47:24] <Not-6fa5> [02supertux] 07Hume2 commented on commit 03a00aa2dd4998316c6ec0e1d50ee39a369d89a541 - 13http://git.io/vBg7L
+[2015/11/26 15:48:30] <Not-6fa5> [02supertux] 07Hume2 commented on commit 03a00aa2dd4998316c6ec0e1d50ee39a369d89a541 - 13http://git.io/vBg7R
+[2015/11/26 15:49:05] <Not-6fa5> [02supertux] 07Hume2 commented on commit 03a00aa2dd4998316c6ec0e1d50ee39a369d89a541 - 13http://git.io/vBg7a
+[2015/11/26 15:49:45] <Not-6fa5> [02supertux] 07Hume2 commented on commit 03a00aa2dd4998316c6ec0e1d50ee39a369d89a541 - 13http://git.io/vBg76
+[2015/11/26 15:50:04] @ ced117_ joined channel #supertux
+[2015/11/26 15:50:22] @ brmbrmcar joined channel #supertux
+[2015/11/26 15:50:24] <Not-6fa5> [02supertux] 07Karkus476 commented on commit 03a00aa2dd4998316c6ec0e1d50ee39a369d89a541 - 13http://git.io/vBg79
+[2015/11/26 15:50:41] <Not-6fa5> [02supertux] 07Karkus476 commented on commit 03a00aa2dd4998316c6ec0e1d50ee39a369d89a541 - 13http://git.io/vBg7b
+[2015/11/26 15:51:33] <Not-6fa5> [02supertux] 07Grumbel pushed 031 commit to 03develop [+0/-0/±1] 13http://git.io/vBg5U
+[2015/11/26 15:51:34] <Not-6fa5> [02supertux] 07Ingo Ruhnke 03ce5de1c - Don't try to string_to_direction() if auto-dir hasn't been read from file
+[2015/11/26 15:51:36] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93425066
+[2015/11/26 15:52:40] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93425066
+[2015/11/26 15:53:06] <Not-6fa5> [02supertux] 07Hume2 commented on commit 03a00aa2dd4998316c6ec0e1d50ee39a369d89a541 - 13http://git.io/vBg5u
+[2015/11/26 15:54:59] @ VargaD_ joined channel #supertux
+[2015/11/26 15:55:02] <Not-6fa5> [02supertux] 07Hume2 commented on commit 03a00aa2dd4998316c6ec0e1d50ee39a369d89a541 - 13http://git.io/vBg5S
+[2015/11/26 15:57:09] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93425066
+[2015/11/26 15:58:07] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93425066
+[2015/11/26 15:59:02] <Not-6fa5> [02supertux] 07Hume2 commented on commit 03a00aa2dd4998316c6ec0e1d50ee39a369d89a541 - 13http://git.io/vBgd2
+[2015/11/26 15:59:11] @ Quit: Hume2: Quit: Page closed
+[2015/11/26 15:59:33] <Karkus> The problem is that you don't want a change inside the case to cause the next case to be run?
+[2015/11/26 15:59:33] <Karkus> Hume2: Is there a test level where I can understand the problem?
+[2015/11/26 15:59:36] @ Quit: VargaD: Ping timeout: 246 seconds
+[2015/11/26 15:59:40] @ Quit: Drangue: Ping timeout: 246 seconds
+[2015/11/26 15:59:42] @ Quit: ced117: Ping timeout: 246 seconds
+[2015/11/26 15:59:52] @ Quit: Karkus: Ping timeout: 246 seconds
+[2015/11/26 15:59:52] @ Quit: Wuzzy2: Ping timeout: 246 seconds
