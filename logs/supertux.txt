@@ -12205,3 +12205,8 @@
 [2015/11/26 07:53:15] @ Mode +o Tobbi by ChanServ
 [2015/11/26 08:25:26] @ irungentoo joined channel #supertux
 [2015/11/26 08:28:15] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/26 08:36:14] <head8deb1an> mt: That also. As i quote "CE is useless without any actual supervision and quality control"
+[2015/11/26 08:36:34] <head8deb1an> mt: Its so over-used that you don't know whats safe or not.
+[2015/11/26 08:38:18] <mt> if you'd continue the lines of the C and E both should finish up in a circle, some companies with unauthorized CE marks make the mistake to forget that ;)
+[2015/11/26 08:39:17] <mt> https://android.stackexchange.com/questions/46214/why-are-some-usb-chargers-slower-than-others
+[2015/11/26 08:42:35] @ tuxdev_ joined channel #supertux
