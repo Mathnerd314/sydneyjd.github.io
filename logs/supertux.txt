@@ -13029,3 +13029,7 @@
 [2015/11/27 13:34:40] @ brmbrmcar joined channel #supertux
 [2015/11/27 13:35:42] <brmbrmcar> I really quit? I never even noticed...
 [2015/11/27 13:59:52] <mt> freenode's a bit unstable right now due to ddos attacks
+[2015/11/27 14:01:02] <head8debian> mt: Yes iti s.
+[2015/11/27 14:01:05] @ claymore2 joined channel #supertux
+[2015/11/27 14:02:25] <mt> there's no need to confirm that, I guess
+[2015/11/27 14:14:09] @ Quit: grumbel: Quit: Ex-Chat
