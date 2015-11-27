@@ -13033,3 +13033,17 @@
 [2015/11/27 14:01:05] @ claymore2 joined channel #supertux
 [2015/11/27 14:02:25] <mt> there's no need to confirm that, I guess
 [2015/11/27 14:14:09] @ Quit: grumbel: Quit: Ex-Chat
+[2015/11/27 14:17:54] <mt> this is what's been going on since hours, https://urandom.eu.org/i/ivj5Q8HB.png (server names redacted because freenode staff wants that) :)
+[2015/11/27 14:21:49] @ xet7 joined channel #supertux
+[2015/11/27 14:26:27] <brmbrmcar> ddos?
+[2015/11/27 14:26:34] <mt> yes
+[2015/11/27 14:26:37] <brmbrmcar> Awesome! :D
+[2015/11/27 14:27:52] <Tobbi> No, it's not.
+[2015/11/27 14:27:59] <brmbrmcar> Any other irc servers around?
+[2015/11/27 14:28:16] <mt> well freenode provides about 25
+[2015/11/27 14:28:25] <mt> there's almost always one up
+[2015/11/27 14:28:40] <brmbrmcar> Other than freenode.
+[2015/11/27 14:28:46] <brmbrmcar> Temporary.
+[2015/11/27 14:28:58] <mt> tons of, but it's not worth moving the channel even temporary
+[2015/11/27 14:29:08] <mt> ddos happens every now and then
+[2015/11/27 14:29:22] <brmbrmcar> I don't mean actually move the enitire thing.
