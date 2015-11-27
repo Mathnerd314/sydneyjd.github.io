@@ -13010,3 +13010,11 @@
 [2015/11/27 12:26:18] @ giby joined channel #supertux
 [2015/11/27 12:26:18] @ Mode +o giby by ChanServ
 [2015/11/27 12:27:09] @ Quit: bb010g: Ping timeout: 240 seconds
+[2015/11/27 12:30:13] @ Quit: giby_the_kid: *.net *.split
+[2015/11/27 12:31:11] @ bb010g joined channel #supertux
+[2015/11/27 12:33:35] @ Quit: Xjs|moonshine: Ping timeout: 246 seconds
+[2015/11/27 12:37:52] @ Xjs|moonshine joined channel #supertux
+[2015/11/27 12:38:47] @ Wuzzy joined channel #supertux
+[2015/11/27 12:39:53] @ Quit: giby: Ping timeout: 246 seconds
+[2015/11/27 12:42:21] @ Quit: VargaD: Ping timeout: 246 seconds
+[2015/11/27 12:45:00] @ Quit: bb010g: Ping timeout: 246 seconds
