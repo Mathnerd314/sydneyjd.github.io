@@ -12952,3 +12952,5 @@
 [2015/11/27 09:50:38] @ grumbel joined channel #supertux
 [2015/11/27 09:50:38] @ datahead8888__ joined channel #supertux
 [2015/11/27 09:51:05] @ leyyin joined channel #supertux
+[2015/11/27 10:27:33] @ Tobbi joined channel #supertux
+[2015/11/27 10:27:33] @ Mode +o Tobbi by ChanServ
