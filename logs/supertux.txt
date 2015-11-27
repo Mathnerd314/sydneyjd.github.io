@@ -12849,3 +12849,4 @@
 [2015/11/26 19:07:27] @ Quit: Wuzzy3: Remote host closed the connection
 [2015/11/26 19:12:57] @ Quit: ced117: Ping timeout: 246 seconds
 [2015/11/26 19:13:53] @ ced117_ joined channel #supertux
+[2015/11/26 19:59:46] @ Quit: ced117_: Ping timeout: 240 seconds
