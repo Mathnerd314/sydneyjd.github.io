@@ -12883,3 +12883,14 @@
 [2015/11/27 04:19:43] @ MMlosh joined channel #supertux
 [2015/11/27 04:24:16] @ ced117 joined channel #supertux
 [2015/11/27 04:27:58] @ tuxdude143 joined channel #supertux
+[2015/11/27 04:33:10] @ tuxdev_ joined channel #supertux
+[2015/11/27 04:33:29] @ Quit: tuxdev_: Changing host
+[2015/11/27 04:33:29] @ tuxdev_ joined channel #supertux
+[2015/11/27 04:35:56] @ Quit: ced117: *.net *.split
+[2015/11/27 04:36:04] @ Quit: bb010g: *.net *.split
+[2015/11/27 04:36:07] @ Quit: tux|dude: *.net *.split
+[2015/11/27 04:36:10] @ Quit: grumbel: *.net *.split
+[2015/11/27 04:36:20] @ Quit: datahead8888__: *.net *.split
+[2015/11/27 04:36:54] @ grumbel joined channel #supertux
+[2015/11/27 04:36:54] @ datahead8888__ joined channel #supertux
+[2015/11/27 04:43:47] @ bb010g joined channel #supertux
