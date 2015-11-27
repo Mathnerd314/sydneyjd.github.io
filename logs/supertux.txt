@@ -12954,3 +12954,26 @@
 [2015/11/27 09:51:05] @ leyyin joined channel #supertux
 [2015/11/27 10:27:33] @ Tobbi joined channel #supertux
 [2015/11/27 10:27:33] @ Mode +o Tobbi by ChanServ
+[2015/11/27 10:36:36] @ brmbrmcar joined channel #supertux
+[2015/11/27 10:38:41] <Not-6fa5> [02supertux] 07tobbi commented on issue 03#240: Errors in Levels - 13http://git.io/vBr8A
+[2015/11/27 10:39:10] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#240: Errors in Levels - 13http://git.io/vBr4U
+[2015/11/27 10:39:23] <Tobbi> giby: Are you there?
+[2015/11/27 10:40:30] <head8debian> Hello Tobbi.
+[2015/11/27 10:40:46] <Tobbi> hello head8debian
+[2015/11/27 10:42:25] <head8debian> Tobbi: So, here is a question. I want to start doing screencasts for computer-related things, but what should i do?
+[2015/11/27 10:42:34] <Tobbi> head8debian: huh?
+[2015/11/27 10:42:42] <Tobbi> head8debian: Make a beautiful supertux 0.4.0 video...
+[2015/11/27 10:42:44] <Tobbi> :D
+[2015/11/27 10:42:48] <giby> Hi Tobbi
+[2015/11/27 10:42:56] <brmbrmcar> Install screencasting software.
+[2015/11/27 10:43:10] <Tobbi> giby: So, when you download po files, how are they arranged? Assuming I want to create a script that packages these into add-ons.
+[2015/11/27 10:43:10] <brmbrmcar> I assume you can get it to work...
+[2015/11/27 10:43:23] <Tobbi> giby: I am talking about the tx client.
+[2015/11/27 10:43:28] <head8debian> Tobbi: The issue with that is that my GPU cannot keep up when running a screen recorder and SUpertux.
+[2015/11/27 10:43:42] <Tobbi> head8debian: Well, then, you're doomed.
+[2015/11/27 10:43:55] <head8debian> Tobbi: Doomed? ;D
+[2015/11/27 10:44:00] <Tobbi> head8debian: yes.
+[2015/11/27 10:44:02] <brmbrmcar> Find a way around it.
+[2015/11/27 10:44:20] <giby> Tobbi, ... well first I unzip the add ons, put the po files in each folders, then repack, get md5sum and push
+[2015/11/27 10:44:31] <brmbrmcar> Like one of those programs they use to spy on you.
+[2015/11/27 10:44:59] <Tobbi> giby: So, you do this manually... When you download them, what do you download? I want to create a script that automates creating langpacks...
