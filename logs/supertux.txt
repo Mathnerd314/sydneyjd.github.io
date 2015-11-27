@@ -13063,3 +13063,5 @@
 [2015/11/27 17:28:31] @ brmbrmcar joined channel #supertux
 [2015/11/27 18:17:28] @ Quit: claymore2: Quit: Leaving
 [2015/11/27 18:18:01] @ Quit: alket: Quit: Good Night :)
+[2015/11/27 18:32:21] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/27 18:43:39] @ Quit: paroneayea: Ping timeout: 243 seconds
