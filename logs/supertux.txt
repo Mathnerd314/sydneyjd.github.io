@@ -13048,3 +13048,4 @@
 [2015/11/27 14:29:08] <mt> ddos happens every now and then
 [2015/11/27 14:29:22] <brmbrmcar> I don't mean actually move the enitire thing.
 [2015/11/27 14:42:21] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/27 14:58:28] @ Quit: nerdopolis__: Remote host closed the connection
