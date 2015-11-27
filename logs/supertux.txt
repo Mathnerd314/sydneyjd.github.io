@@ -12931,3 +12931,5 @@
 [2015/11/27 06:46:38] @ Quit: xnrand: *.net *.split
 [2015/11/27 06:47:36] @ yx_ is now known as xnrand
 [2015/11/27 06:50:46] @ Quit: bb010g: Ping timeout: 264 seconds
+[2015/11/27 07:06:09] @ bb010g joined channel #supertux
+[2015/11/27 07:14:33] @ leper` joined channel #supertux
