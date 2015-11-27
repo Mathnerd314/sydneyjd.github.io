@@ -12868,3 +12868,9 @@
 [2015/11/27 03:38:13] @ VargaD joined channel #supertux
 [2015/11/27 03:49:05] @ tux|dude joined channel #supertux
 [2015/11/27 03:52:33] @ ced117 joined channel #supertux
+[2015/11/27 04:02:33] @ tuxdude143 joined channel #supertux
+[2015/11/27 04:05:08] @ Quit: ced117: *.net *.split
+[2015/11/27 04:05:09] @ Quit: tux|dude: *.net *.split
+[2015/11/27 04:05:17] @ Quit: datahead8888__: *.net *.split
+[2015/11/27 04:05:29] @ Quit: bb010g: *.net *.split
+[2015/11/27 04:14:32] @ Quit: tuxdude143: Ping timeout: 264 seconds
