@@ -12986,3 +12986,6 @@
 [2015/11/27 10:49:21] <Tobbi> Actually, I could just make it query the downloaded files...
 [2015/11/27 10:49:26] <Tobbi> From the current directory...
 [2015/11/27 10:51:26] <Tobbi> giby: Basically, you use tx pull -a right?
+[2015/11/27 11:05:28] <brmbrmcar> What is the full play_sound script?
+[2015/11/27 11:08:55] <brmbrmcar> Got it working.
+[2015/11/27 11:10:48] @ claymore2 joined channel #supertux
