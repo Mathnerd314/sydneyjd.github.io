@@ -12946,3 +12946,5 @@
 [2015/11/27 08:23:47] @ ced117 joined channel #supertux
 [2015/11/27 09:02:35] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/11/27 09:12:55] @ irungentoo joined channel #supertux
+[2015/11/27 09:29:32] @ Quit: grumbel: *.net *.split
+[2015/11/27 09:29:34] @ Quit: datahead8888__: *.net *.split
