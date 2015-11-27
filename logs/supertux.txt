@@ -12866,3 +12866,5 @@
 [2015/11/27 03:32:19] @ Quit: VargaD: *.net *.split
 [2015/11/27 03:34:48] @ Quit: datahead8888_: Ping timeout: 272 seconds
 [2015/11/27 03:38:13] @ VargaD joined channel #supertux
+[2015/11/27 03:49:05] @ tux|dude joined channel #supertux
+[2015/11/27 03:52:33] @ ced117 joined channel #supertux
