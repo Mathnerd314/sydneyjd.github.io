@@ -13004,3 +13004,6 @@
 [2015/11/27 11:58:35] @ grumbel joined channel #supertux
 [2015/11/27 11:58:35] @ datahead8888__ joined channel #supertux
 [2015/11/27 11:58:47] @ bb010g joined channel #supertux
+[2015/11/27 12:08:44] @ giby_the_kid joined channel #supertux
+[2015/11/27 12:08:44] @ Mode +o giby_the_kid by ChanServ
+[2015/11/27 12:10:31] @ Quit: giby: Ping timeout: 246 seconds
