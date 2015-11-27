@@ -12874,3 +12874,12 @@
 [2015/11/27 04:05:17] @ Quit: datahead8888__: *.net *.split
 [2015/11/27 04:05:29] @ Quit: bb010g: *.net *.split
 [2015/11/27 04:14:32] @ Quit: tuxdude143: Ping timeout: 264 seconds
+[2015/11/27 04:15:13] @ grumbel joined channel #supertux
+[2015/11/27 04:15:14] @ datahead8888__ joined channel #supertux
+[2015/11/27 04:15:14] @ bb010g joined channel #supertux
+[2015/11/27 04:15:47] @ Quit: bb010g: Max SendQ exceeded
+[2015/11/27 04:15:53] @ tux|dude joined channel #supertux
+[2015/11/27 04:17:27] @ bb010g joined channel #supertux
+[2015/11/27 04:19:43] @ MMlosh joined channel #supertux
+[2015/11/27 04:24:16] @ ced117 joined channel #supertux
+[2015/11/27 04:27:58] @ tuxdude143 joined channel #supertux
