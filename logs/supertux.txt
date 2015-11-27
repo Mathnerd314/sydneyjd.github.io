@@ -12896,3 +12896,6 @@
 [2015/11/27 04:43:47] @ bb010g joined channel #supertux
 [2015/11/27 04:53:01] @ ced117 joined channel #supertux
 [2015/11/27 04:58:23] @ Quit: ced117: Ping timeout: 240 seconds
+[2015/11/27 05:03:22] <grumbel> http://pingus.seul.org/~grumbel/tmp/md5/67ef19e4d8cc0ba5271e7054b943f3a1-supertux-addon-errors.txt
+[2015/11/27 05:07:35] <Not-6fa5> [02supertux] 07Grumbel opened issue 03#240: Errors in Levels - 13http://git.io/vBVkK
+[2015/11/27 05:09:13] @ ced117 joined channel #supertux
