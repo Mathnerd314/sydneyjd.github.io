@@ -12948,3 +12948,4 @@
 [2015/11/27 09:12:55] @ irungentoo joined channel #supertux
 [2015/11/27 09:29:32] @ Quit: grumbel: *.net *.split
 [2015/11/27 09:29:34] @ Quit: datahead8888__: *.net *.split
+[2015/11/27 09:43:51] @ Quit: Tobbi: Remote host closed the connection
