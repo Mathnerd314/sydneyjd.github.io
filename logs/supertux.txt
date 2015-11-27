@@ -12989,3 +12989,8 @@
 [2015/11/27 11:05:28] <brmbrmcar> What is the full play_sound script?
 [2015/11/27 11:08:55] <brmbrmcar> Got it working.
 [2015/11/27 11:10:48] @ claymore2 joined channel #supertux
+[2015/11/27 11:15:38] <giby> Tobbi, yes
+[2015/11/27 11:15:56] <Tobbi> giby: Okay, I just did...and did get the file structure...
+[2015/11/27 11:16:18] <Tobbi> giby: I'll try to write a script that creates ZIP files out of the po files...to use as language add-ons.
+[2015/11/27 11:16:20] <giby> Tobbi, all po for one add-on are in the add-on folder
+[2015/11/27 11:28:15] @ alket joined channel #supertux
