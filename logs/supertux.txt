@@ -12994,3 +12994,13 @@
 [2015/11/27 11:16:18] <Tobbi> giby: I'll try to write a script that creates ZIP files out of the po files...to use as language add-ons.
 [2015/11/27 11:16:20] <giby> Tobbi, all po for one add-on are in the add-on folder
 [2015/11/27 11:28:15] @ alket joined channel #supertux
+[2015/11/27 11:48:41] @ Quit: alket: *.net *.split
+[2015/11/27 11:48:45] @ Quit: claymore2: *.net *.split
+[2015/11/27 11:48:57] @ Quit: grumbel: *.net *.split
+[2015/11/27 11:48:58] @ Quit: datahead8888__: *.net *.split
+[2015/11/27 11:55:35] @ Quit: MMlosh: Ping timeout: 240 seconds
+[2015/11/27 11:58:35] @ alket joined channel #supertux
+[2015/11/27 11:58:35] @ claymore2 joined channel #supertux
+[2015/11/27 11:58:35] @ grumbel joined channel #supertux
+[2015/11/27 11:58:35] @ datahead8888__ joined channel #supertux
+[2015/11/27 11:58:47] @ bb010g joined channel #supertux
