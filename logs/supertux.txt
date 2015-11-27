@@ -12845,3 +12845,7 @@
 [2015/11/26 18:56:37] @ Quit: tux|dude: *.net *.split
 [2015/11/26 18:56:38] @ Quit: Wuzzy2: *.net *.split
 [2015/11/26 18:56:40] @ Quit: ced117_: *.net *.split
+[2015/11/26 19:04:26] @ ced117 joined channel #supertux
+[2015/11/26 19:07:27] @ Quit: Wuzzy3: Remote host closed the connection
+[2015/11/26 19:12:57] @ Quit: ced117: Ping timeout: 246 seconds
+[2015/11/26 19:13:53] @ ced117_ joined channel #supertux
