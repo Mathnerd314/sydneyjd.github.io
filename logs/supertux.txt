@@ -12904,3 +12904,14 @@
 [2015/11/27 05:37:25] @ Quit: grumbel: *.net *.split
 [2015/11/27 05:37:32] @ Quit: datahead8888__: *.net *.split
 [2015/11/27 05:42:46] @ Quit: MMlosh: *.net *.split
+[2015/11/27 05:45:02] @ bb010g joined channel #supertux
+[2015/11/27 05:45:02] @ grumbel joined channel #supertux
+[2015/11/27 05:45:02] @ datahead8888__ joined channel #supertux
+[2015/11/27 05:48:20] @ Quit: bb010g: *.net *.split
+[2015/11/27 05:48:22] @ Quit: grumbel: *.net *.split
+[2015/11/27 05:48:24] @ Quit: datahead8888__: *.net *.split
+[2015/11/27 05:49:09] @ bb010g joined channel #supertux
+[2015/11/27 05:49:09] @ grumbel joined channel #supertux
+[2015/11/27 05:49:09] @ datahead8888__ joined channel #supertux
+[2015/11/27 05:49:57] @ Quit: bb010g: Max SendQ exceeded
+[2015/11/27 05:59:36] @ bb010g joined channel #supertux
