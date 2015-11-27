@@ -13024,3 +13024,4 @@
 [2015/11/27 12:50:15] @ VargaD joined channel #supertux
 [2015/11/27 12:54:36] @ Quit: Wuzzy: Ping timeout: 246 seconds
 [2015/11/27 12:58:23] @ Wuzzy joined channel #supertux
+[2015/11/27 13:22:07] @ Quit: claymore2: Ping timeout: 240 seconds
