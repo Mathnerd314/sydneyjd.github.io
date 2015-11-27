@@ -12840,3 +12840,8 @@
 [2015/11/26 18:13:34] @ Quit: Tobbi: 
 [2015/11/26 18:15:54] @ Quit: head8debian: Ping timeout: 246 seconds
 [2015/11/26 18:16:12] @ head8debian joined channel #supertux
+[2015/11/26 18:47:27] @ tuxdude143 joined channel #supertux
+[2015/11/26 18:49:44] @ Wuzzy3 joined channel #supertux
+[2015/11/26 18:56:37] @ Quit: tux|dude: *.net *.split
+[2015/11/26 18:56:38] @ Quit: Wuzzy2: *.net *.split
+[2015/11/26 18:56:40] @ Quit: ced117_: *.net *.split
