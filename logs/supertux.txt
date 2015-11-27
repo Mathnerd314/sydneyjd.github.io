@@ -13050,3 +13050,4 @@
 [2015/11/27 14:42:21] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/11/27 14:58:28] @ Quit: nerdopolis__: Remote host closed the connection
 [2015/11/27 15:01:28] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/27 15:26:10] @ nerdopolis joined channel #supertux
