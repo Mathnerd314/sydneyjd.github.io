@@ -12918,3 +12918,6 @@
 [2015/11/27 06:00:54] @ Quit: Xjs|moonshine: Ping timeout: 325 seconds
 [2015/11/27 06:07:39] @ Xjs|moonshine joined channel #supertux
 [2015/11/27 06:14:39] @ Quit: bb010g: Excess Flood
+[2015/11/27 06:20:09] @ bb010g joined channel #supertux
+[2015/11/27 06:27:00] @ Quit: grumbel: *.net *.split
+[2015/11/27 06:27:02] @ Quit: datahead8888__: *.net *.split
