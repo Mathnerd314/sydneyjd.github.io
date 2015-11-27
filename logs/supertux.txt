@@ -12894,3 +12894,5 @@
 [2015/11/27 04:36:54] @ grumbel joined channel #supertux
 [2015/11/27 04:36:54] @ datahead8888__ joined channel #supertux
 [2015/11/27 04:43:47] @ bb010g joined channel #supertux
+[2015/11/27 04:53:01] @ ced117 joined channel #supertux
+[2015/11/27 04:58:23] @ Quit: ced117: Ping timeout: 240 seconds
