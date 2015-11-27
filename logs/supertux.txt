@@ -12863,3 +12863,6 @@
 [2015/11/27 01:46:30] @ Quit: tuxdude143_: Quit: Leaving
 [2015/11/27 02:36:34] @ Quit: tuxdev_: Ping timeout: 276 seconds
 [2015/11/27 03:29:23] @ datahead8888__ joined channel #supertux
+[2015/11/27 03:32:19] @ Quit: VargaD: *.net *.split
+[2015/11/27 03:34:48] @ Quit: datahead8888_: Ping timeout: 272 seconds
+[2015/11/27 03:38:13] @ VargaD joined channel #supertux
