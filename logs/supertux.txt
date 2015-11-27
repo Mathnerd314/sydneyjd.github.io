@@ -12857,3 +12857,6 @@
 [2015/11/27 00:55:34] @ bb010g joined channel #supertux
 [2015/11/27 01:07:13] <Not-6fa5> [02supertux] 07Hume2 commented on commit 03a00aa2dd4998316c6ec0e1d50ee39a369d89a541 - 13http://git.io/vBamf
 [2015/11/27 01:12:43] <Not-6fa5> [02supertux] 07Hume2 commented on commit 03a00aa2dd4998316c6ec0e1d50ee39a369d89a541 - 13http://git.io/vBaYk
+[2015/11/27 01:23:01] @ tuxdude143_ joined channel #supertux
+[2015/11/27 01:26:02] @ Quit: tuxdude143: Ping timeout: 265 seconds
+[2015/11/27 01:26:31] @ Quit: ced117_: Ping timeout: 265 seconds
