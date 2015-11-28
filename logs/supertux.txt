@@ -13192,3 +13192,7 @@
 [2015/11/28 10:11:54] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93662831
 [2015/11/28 10:12:48] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93662831
 [2015/11/28 10:19:19] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93662831
+[2015/11/28 10:37:40] @ Quit: alket: Excess Flood
+[2015/11/28 10:38:53] @ alket joined channel #supertux
+[2015/11/28 10:40:40] @ tuxdev_ joined channel #supertux
+[2015/11/28 10:44:52] @ Quit: alket: Quit: Good Night :)
