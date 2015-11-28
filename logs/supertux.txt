@@ -13079,3 +13079,13 @@
 [2015/11/28 00:39:49] @ Quit: VargaD: Ping timeout: 246 seconds
 [2015/11/28 00:44:19] @ LMH joined channel #supertux
 [2015/11/28 00:44:19] @ Mode +v LMH by ChanServ
+[2015/11/28 00:45:50] @ VargaD joined channel #supertux
+[2015/11/28 00:50:17] @ kyberkits joined channel #supertux
+[2015/11/28 00:57:19] @ VargaD_ joined channel #supertux
+[2015/11/28 00:58:25] @ Quit: VargaD: *.net *.split
+[2015/11/28 00:58:33] @ Quit: ced117: *.net *.split
+[2015/11/28 00:58:35] @ Quit: binki: *.net *.split
+[2015/11/28 00:58:36] @ Quit: gynter: *.net *.split
+[2015/11/28 00:58:38] @ Quit: leper`: *.net *.split
+[2015/11/28 00:59:13] @ VargaD_ is now known as VargaD
+[2015/11/28 00:59:31] @ leper` joined channel #supertux
