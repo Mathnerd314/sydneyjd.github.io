@@ -13108,3 +13108,6 @@
 [2015/11/28 06:12:26] @ Quit: alket: Ping timeout: 240 seconds
 [2015/11/28 06:18:18] @ Tobbi joined channel #supertux
 [2015/11/28 06:18:18] @ Mode +o Tobbi by ChanServ
+[2015/11/28 06:30:32] <Tobbi> hello.
+[2015/11/28 06:36:22] <brmbrmcar> Good afternoon.
+[2015/11/28 06:39:03] @ leyyin joined channel #supertux
