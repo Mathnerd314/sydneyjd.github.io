@@ -13173,3 +13173,12 @@
 [2015/11/28 09:38:55] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93660475
 [2015/11/28 09:43:27] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93660475
 [2015/11/28 09:44:18] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93660475
+[2015/11/28 09:46:47] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBPIX
+[2015/11/28 09:46:49] <Not-6fa5> [02supertux] 07Tobias Markus 03d2fefcd - Just display locale name in language pack menu
+[2015/11/28 09:46:50] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93661334
+[2015/11/28 09:47:40] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93661334
+[2015/11/28 09:48:40] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBPLI
+[2015/11/28 09:48:42] <Not-6fa5> [02supertux] 07Tobias Markus 036d362a8 - Remove translation markers from that
+[2015/11/28 09:52:48] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93660475
+[2015/11/28 09:52:59] <Tobbi> maths22: Can you potentially trigger a new nightly build?
+[2015/11/28 09:53:11] <Tobbi> (when you get to it, of course)
