@@ -13270,3 +13270,8 @@
 [2015/11/28 16:13:23] @ Quit: irungentoo: *.net *.split
 [2015/11/28 17:30:40] @ brmbrmcar joined channel #supertux
 [2015/11/28 17:44:12] @ tux|dude joined channel #supertux
+[2015/11/28 17:54:41] <Not-6fa5> [02supertux] 07tobbi pushed 032 commits to 03master [+1/-0/±6] 13http://git.io/vB1kQ
+[2015/11/28 17:54:43] <Not-6fa5> [02supertux] 07Tobias Markus 036931e7e - Extract translatable strings from script files. Fixes #842 on the old bug tracker
+[2015/11/28 17:54:44] <Not-6fa5> [02supertux] 07Tobias Markus 032b92522 - Remove debugging output [ci skip]
+[2015/11/28 17:54:45] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93712040
+[2015/11/28 17:55:35] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93712040
