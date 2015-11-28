@@ -13203,3 +13203,9 @@
 [2015/11/28 12:42:51] <head8debian> Tobbi: I don't know.
 [2015/11/28 12:43:13] <Tobbi> head8debian: I am trying to install add-on updates on startup...it seems to be working.
 [2015/11/28 12:43:20] <Tobbi> eeh I mean: Language pack updates.
+[2015/11/28 12:46:16] <head8debian> Tobbi: Good.
+[2015/11/28 12:46:27] <Tobbi> head8debian: Maybe not. Really depends on your internet connection.
+[2015/11/28 12:46:34] <Tobbi> Currently, language packs are small...
+[2015/11/28 12:47:55] <Tobbi> but later they might grow in size.
+[2015/11/28 12:56:36] @ Quit: nerdopolis: Quit: No Ping reply in 180 seconds.
+[2015/11/28 12:57:21] @ nerdopolis joined channel #supertux
