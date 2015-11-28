@@ -13068,3 +13068,7 @@
 [2015/11/27 19:00:45] <Not-6fa5> [02supertux] 07LMH0013 commented on issue 03#231: Make set_bonus work again - 13http://git.io/vBKVI
 [2015/11/27 19:00:52] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2015/11/27 19:08:39] <Not-6fa5> [02supertux] 07LMH0013 commented on issue 03#234: Making Tux air or earth on death displays hat - 13http://git.io/vBKwz
+[2015/11/27 19:35:33] @ Quit: Wuzzy: Quit: Wuzzy
+[2015/11/27 19:40:53] <Not-6fa5> [02supertux] 07LMH0013 labeled issue 03#241: Manual joystick settings not preserved when using a generic controller - 13http://git.io/vBKiN
+[2015/11/27 19:40:54] <Not-6fa5> [02supertux] 07LMH0013 labeled issue 03#241: Manual joystick settings not preserved when using a generic controller - 13http://git.io/vBKiN
+[2015/11/27 19:40:56] <Not-6fa5> [02supertux] 07LMH0013 opened issue 03#241: Manual joystick settings not preserved when using a generic controller - 13http://git.io/vBKiN
