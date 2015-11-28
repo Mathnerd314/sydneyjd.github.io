@@ -13105,3 +13105,4 @@
 [2015/11/28 05:34:28] @ Wuzzy joined channel #supertux
 [2015/11/28 05:42:55] @ brmbrmcar joined channel #supertux
 [2015/11/28 05:54:08] @ alket joined channel #supertux
+[2015/11/28 06:12:26] @ Quit: alket: Ping timeout: 240 seconds
