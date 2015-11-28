@@ -13220,3 +13220,38 @@
 [2015/11/28 13:28:33] @ alket joined channel #supertux
 [2015/11/28 13:35:06] <Tobbi> head8debian: Could you compile the latest supertux and then run it with ./supertux2 --debug ?
 [2015/11/28 14:04:17] @ Quit: alket: Quit: Good Night :)
+[2015/11/28 14:34:05] <head8debian> Tobbi: What do you want me to be looking for?
+[2015/11/28 14:34:25] <Tobbi> head8debian: Change the language to German, then restart.
+[2015/11/28 14:34:28] <Tobbi> Then tell me the timelog...
+[2015/11/28 14:34:59] <head8debian> In a min.\
+[2015/11/28 14:36:22] <Tobbi> head8debian: Also, start with --debug
+[2015/11/28 14:36:31] <head8debian> Tobbi: Odd, when i run --debug the music starts quite a bit before the game appears.
+[2015/11/28 14:36:32] <Tobbi> Oh, I already told you that :D
+[2015/11/28 14:36:40] <Tobbi> head8debian: Latest master?
+[2015/11/28 14:36:48] <Tobbi> *sigh* not odd at all...
+[2015/11/28 14:37:11] <head8debian> Yes, latest master.
+[2015/11/28 14:37:19] <head8debian> Tobbi: Ok, instaleld german. Now what?
+[2015/11/28 14:37:23] <Tobbi> head8debian: I am downloading language packs...or checking for language packs...
+[2015/11/28 14:37:30] <head8debian> Ah.
+[2015/11/28 14:37:32] <Tobbi> Seems like this might not be the best way to do it, then.
+[2015/11/28 14:37:34] <head8debian> You have quite a list.
+[2015/11/28 14:37:47] <Tobbi> Your internet connection is small, I assume.
+[2015/11/28 14:37:51] <Tobbi> eeh slow
+[2015/11/28 14:37:54] <head8debian> Yes. ;D
+[2015/11/28 14:40:11] <head8debian> Tobbi: What do you need? Too ssh into my desktop? :p
+[2015/11/28 14:40:29] <Tobbi> head8debian: No...I don't know what we could do.
+[2015/11/28 14:40:38] <Tobbi> Unless we start the process after the game has started...
+[2015/11/28 14:40:43] <Tobbi> We could look into that.
+[2015/11/28 14:41:45] <head8debian> Tobbi: WHAT Proccess?
+[2015/11/28 14:41:52] <Tobbi> head8debian: The download process...
+[2015/11/28 14:41:55] <head8debian> Tobbi: I cannot follow when you talk half to yourself. :)
+[2015/11/28 14:41:57] <head8debian> Ah.
+[2015/11/28 14:42:05] <head8debian> When is it starting now?
+[2015/11/28 14:42:10] <head8debian> Oh, i see...
+[2015/11/28 14:42:22] <head8debian> Hmm.
+[2015/11/28 14:42:36] <head8debian> I'd prefer the download to be triggered manually, personally.
+[2015/11/28 14:42:55] <head8debian> Otherwise supertux has because windows. Downloading things without your knowledge.
+[2015/11/28 14:43:19] <head8debian> ;)
+[2015/11/28 14:43:32] <mt> after the game has started/in parallel to loading would require working reload capability
+[2015/11/28 14:44:28] <mt> head8debian: we could do it like supertuxkart, ask for permission to access network functions on the first start
+[2015/11/28 14:44:58] <head8debian> Exactly...
