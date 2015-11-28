@@ -13200,3 +13200,6 @@
 [2015/11/28 12:07:44] @ Mode +o giby_the_kid by ChanServ
 [2015/11/28 12:10:20] @ Quit: giby: Ping timeout: 264 seconds
 [2015/11/28 12:24:53] @ Quit: Hume2: Quit: Page closed
+[2015/11/28 12:42:51] <head8debian> Tobbi: I don't know.
+[2015/11/28 12:43:13] <Tobbi> head8debian: I am trying to install add-on updates on startup...it seems to be working.
+[2015/11/28 12:43:20] <Tobbi> eeh I mean: Language pack updates.
