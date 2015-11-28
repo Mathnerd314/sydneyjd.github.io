@@ -13149,3 +13149,8 @@
 [2015/11/28 08:40:55] <Tobbi> Otherwise people will complain.
 [2015/11/28 08:42:47] <mt> one might argue: "but it's just downloading an addon file", well the actual problem: the zips could be modified to work like a zip-bomb (and that's the reason why one doesn't simply extract any archive without verification)
 [2015/11/28 08:44:16] <head8debian> o_O
+[2015/11/28 08:49:52] <Tobbi> So, I just added language packs that I created.
+[2015/11/28 08:52:36] <Tobbi> Yay! Okay, I wrecked it :D
+[2015/11/28 08:57:35] @ Quit: alket: Quit: Good Night :)
+[2015/11/28 08:59:25] <head8debian> Tobbi: o_O
+[2015/11/28 08:59:47] <Tobbi> head8debian: I will push a fix in the meantime.
