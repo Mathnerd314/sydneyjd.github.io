@@ -13075,3 +13075,4 @@
 [2015/11/27 20:41:29] @ Quit: tuxdude143: Read error: Connection reset by peer
 [2015/11/27 21:02:30] @ paroneayea joined channel #supertux
 [2015/11/27 21:19:31] @ Quit: tuxdev_: Ping timeout: 240 seconds
+[2015/11/28 00:17:26] @ Quit: irungentoo: Remote host closed the connection
