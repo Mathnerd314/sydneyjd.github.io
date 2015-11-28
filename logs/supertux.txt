@@ -13209,3 +13209,10 @@
 [2015/11/28 12:47:55] <Tobbi> but later they might grow in size.
 [2015/11/28 12:56:36] @ Quit: nerdopolis: Quit: No Ping reply in 180 seconds.
 [2015/11/28 12:57:21] @ nerdopolis joined channel #supertux
+[2015/11/28 13:03:00] @ bb010g joined channel #supertux
+[2015/11/28 13:07:02] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±4] 13http://git.io/vBPh4
+[2015/11/28 13:07:04] <Not-6fa5> [02supertux] 07Tobias Markus 03d4bc1b1 - Check for language pack updates on start and after switching languages
+[2015/11/28 13:07:07] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93683469
+[2015/11/28 13:07:58] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93683469
+[2015/11/28 13:12:36] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93683469
+[2015/11/28 13:13:30] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93683469
