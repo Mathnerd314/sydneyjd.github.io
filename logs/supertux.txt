@@ -13154,3 +13154,15 @@
 [2015/11/28 08:57:35] @ Quit: alket: Quit: Good Night :)
 [2015/11/28 08:59:25] <head8debian> Tobbi: o_O
 [2015/11/28 08:59:47] <Tobbi> head8debian: I will push a fix in the meantime.
+[2015/11/28 09:00:20] <Tobbi> This will wreck downloading add-ons for everyone who doesn't have the latest version.
+[2015/11/28 09:00:21] <Tobbi> But who cares
+[2015/11/28 09:00:39] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBihw
+[2015/11/28 09:00:40] <Not-6fa5> [02supertux] 07Tobias Markus 03993cf0c - Allow underscore in addon name
+[2015/11/28 09:00:42] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93657104
+[2015/11/28 09:01:32] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93657104
+[2015/11/28 09:02:44] <Tobbi> head8debian: We should think about overhauling the add-on manager...
+[2015/11/28 09:03:00] <Tobbi> Currently you have to go through all these languages in the add-on manager and get your language pack.
+[2015/11/28 09:05:44] <Tobbi> Actually, before I wreck it for everyone, I might want to exclude the _ add-ons from the repo index.
+[2015/11/28 09:09:58] <Tobbi> head8debian: If I only showed the language pack for the selected language, would that work?
+[2015/11/28 09:10:18] <Tobbi> Aka, the current one?
+[2015/11/28 09:12:21] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93657104
