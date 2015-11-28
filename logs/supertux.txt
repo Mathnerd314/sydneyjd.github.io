@@ -13093,3 +13093,4 @@
 [2015/11/28 01:05:32] @ ced117 joined channel #supertux
 [2015/11/28 01:19:41] @ tuxdev_ joined channel #supertux
 [2015/11/28 02:25:46] @ tux|dude joined channel #supertux
+[2015/11/28 02:54:28] @ kyberkits is now known as gynter
