@@ -13255,3 +13255,13 @@
 [2015/11/28 14:43:32] <mt> after the game has started/in parallel to loading would require working reload capability
 [2015/11/28 14:44:28] <mt> head8debian: we could do it like supertuxkart, ask for permission to access network functions on the first start
 [2015/11/28 14:44:58] <head8debian> Exactly...
+[2015/11/28 14:45:30] <mt> but I guess that won't happen in 0.4.x because string freeze
+[2015/11/28 14:45:35] <head8debian> The few people on dialup will think that supertux doesn't work because of slow startup.
+[2015/11/28 14:46:35] <Tobbi> mt: Yeah, I will possibly revert my attempt to load it at startup. If you have a better idea, go right ahead.
+[2015/11/28 14:47:22] @ irungentoo joined channel #supertux
+[2015/11/28 14:47:47] <Tobbi> head8debian: Should the credits be translatable?
+[2015/11/28 14:48:50] <mt> one shouldn't be able to 'translate' the names; but actual words, why not?
+[2015/11/28 14:49:03] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBXRM
+[2015/11/28 14:49:04] <Not-6fa5> [02supertux] 07Tobias Markus 03b29c143 - Create pot file for credits
+[2015/11/28 14:49:10] <Tobbi> mt: Well, they won't translate the names...
+[2015/11/28 14:49:24] <Tobbi> Problem is that this file is one string...
