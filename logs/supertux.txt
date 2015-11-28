@@ -13098,3 +13098,5 @@
 [2015/11/28 03:46:01] @ Quit: LMH: Quit: Connection closed for inactivity
 [2015/11/28 04:20:47] @ Quit: tux|dude: Quit: Leaving
 [2015/11/28 04:28:53] @ brmbrmcar joined channel #supertux
+[2015/11/28 04:31:38] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#234: Making Tux air or earth on death displays hat - 13http://git.io/vBity
+[2015/11/28 04:32:49] <Not-6fa5> [02supertux] 07brmbrmcar commented on issue 03#231: Make set_bonus work again - 13http://git.io/vBitN
