@@ -13166,3 +13166,10 @@
 [2015/11/28 09:09:58] <Tobbi> head8debian: If I only showed the language pack for the selected language, would that work?
 [2015/11/28 09:10:18] <Tobbi> Aka, the current one?
 [2015/11/28 09:12:21] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93657104
+[2015/11/28 09:35:56] @ Quit: xet7: Quit: Leaving
+[2015/11/28 09:37:57] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBPTd
+[2015/11/28 09:37:58] <Not-6fa5> [02supertux] 07Tobias Markus 033d7cd7a - Use language name instead of country code for lang add-ons
+[2015/11/28 09:38:00] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93660475
+[2015/11/28 09:38:55] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93660475
+[2015/11/28 09:43:27] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93660475
+[2015/11/28 09:44:18] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93660475
