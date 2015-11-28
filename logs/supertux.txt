@@ -13268,3 +13268,5 @@
 [2015/11/28 15:28:43] @ Quit: claymore2: Quit: Leaving
 [2015/11/28 16:07:29] @ irungentoo_ joined channel #supertux
 [2015/11/28 16:13:23] @ Quit: irungentoo: *.net *.split
+[2015/11/28 17:30:40] @ brmbrmcar joined channel #supertux
+[2015/11/28 17:44:12] @ tux|dude joined channel #supertux
