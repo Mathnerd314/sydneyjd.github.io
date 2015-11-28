@@ -13129,3 +13129,23 @@
 [2015/11/28 08:28:31] <head8debian> Tobbi: o_O
 [2015/11/28 08:29:42] <Tobbi> head8debian: When you do md5 <file path>, does it give you the file path in that case?
 [2015/11/28 08:29:57] <Tobbi> Sorry, I meant md5 -q <file path>
+[2015/11/28 08:30:39] <head8debian> Hmm, let me try it on a random file.
+[2015/11/28 08:30:49] <Tobbi> head8debian: I meant the md5 of that thing.
+[2015/11/28 08:30:59] <Tobbi> md5 -q <file path> should give you the md5 of course.
+[2015/11/28 08:32:53] <head8debian> Tobbi: There is no md5, only md5sum.
+[2015/11/28 08:32:59] <Tobbi> I see...
+[2015/11/28 08:33:03] <head8debian> And there is no -q perameter for it.
+[2015/11/28 08:33:04] <mt> can we switch to something more future-proof than md5, like BLAKE2, or at least SHA-2
+[2015/11/28 08:33:22] <Tobbi> head8debian: So, there's the problem with mac vs. linux.
+[2015/11/28 08:33:29] <head8debian> There is --quiet, not -q...
+[2015/11/28 08:35:06] <mt> it's a bsd vs gnu difference, not something apple or linux specific
+[2015/11/28 08:36:02] <Tobbi> I see.
+[2015/11/28 08:36:14] <Tobbi> mt: So, how do I get an md5 that likely works on all platforms?
+[2015/11/28 08:37:47] <mt> you write one in python, perl or ruby
+[2015/11/28 08:37:58] <Tobbi> Hmm, that might work...
+[2015/11/28 08:39:17] <mt> or, if openssl/libressl works, `openssl dgst -md5 -hex /path/to/file`
+[2015/11/28 08:40:21] <mt> md5 in that command can be replaced with sha256, sha384, sha512, whirlpool and some others I don't want to mention because they're also outdated
+[2015/11/28 08:40:50] <Tobbi> Yes, unfortunately we currently depend on MD5...and we should keep it that way until after 0.4.0...
+[2015/11/28 08:40:55] <Tobbi> Otherwise people will complain.
+[2015/11/28 08:42:47] <mt> one might argue: "but it's just downloading an addon file", well the actual problem: the zips could be modified to work like a zip-bomb (and that's the reason why one doesn't simply extract any archive without verification)
+[2015/11/28 08:44:16] <head8debian> o_O
