@@ -13196,3 +13196,6 @@
 [2015/11/28 10:38:53] @ alket joined channel #supertux
 [2015/11/28 10:40:40] @ tuxdev_ joined channel #supertux
 [2015/11/28 10:44:52] @ Quit: alket: Quit: Good Night :)
+[2015/11/28 12:07:43] @ giby_the_kid joined channel #supertux
+[2015/11/28 12:07:44] @ Mode +o giby_the_kid by ChanServ
+[2015/11/28 12:10:20] @ Quit: giby: Ping timeout: 264 seconds
