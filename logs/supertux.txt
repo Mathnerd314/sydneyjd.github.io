@@ -13096,3 +13096,5 @@
 [2015/11/28 02:54:28] @ kyberkits is now known as gynter
 [2015/11/28 03:18:11] @ Quit: tuxdev_: Ping timeout: 240 seconds
 [2015/11/28 03:46:01] @ Quit: LMH: Quit: Connection closed for inactivity
+[2015/11/28 04:20:47] @ Quit: tux|dude: Quit: Leaving
+[2015/11/28 04:28:53] @ brmbrmcar joined channel #supertux
