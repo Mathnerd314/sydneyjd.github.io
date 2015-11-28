@@ -13182,3 +13182,12 @@
 [2015/11/28 09:52:48] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93660475
 [2015/11/28 09:52:59] <Tobbi> maths22: Can you potentially trigger a new nightly build?
 [2015/11/28 09:53:11] <Tobbi> (when you get to it, of course)
+[2015/11/28 10:00:25] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93661334
+[2015/11/28 10:00:43] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBPqF
+[2015/11/28 10:00:44] <Not-6fa5> [02supertux] 07Tobias Markus 03927ebe7 - Made langname display more robust against errors
+[2015/11/28 10:00:46] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93662831
+[2015/11/28 10:01:37] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93662831
+[2015/11/28 10:10:33] @ claymore2 joined channel #supertux
+[2015/11/28 10:10:39] @ alket joined channel #supertux
+[2015/11/28 10:11:54] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93662831
+[2015/11/28 10:12:48] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93662831
