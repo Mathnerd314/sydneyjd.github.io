@@ -13114,3 +13114,4 @@
 [2015/11/28 07:02:21] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/11/28 07:22:36] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/11/28 07:29:58] @ alket joined channel #supertux
+[2015/11/28 07:38:30] @ brmbrmcar joined channel #supertux
