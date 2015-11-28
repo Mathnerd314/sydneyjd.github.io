@@ -13073,3 +13073,4 @@
 [2015/11/27 19:40:54] <Not-6fa5> [02supertux] 07LMH0013 labeled issue 03#241: Manual joystick settings not preserved when using a generic controller - 13http://git.io/vBKiN
 [2015/11/27 19:40:56] <Not-6fa5> [02supertux] 07LMH0013 opened issue 03#241: Manual joystick settings not preserved when using a generic controller - 13http://git.io/vBKiN
 [2015/11/27 20:41:29] @ Quit: tuxdude143: Read error: Connection reset by peer
+[2015/11/27 21:02:30] @ paroneayea joined channel #supertux
