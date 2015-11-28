@@ -13106,3 +13106,5 @@
 [2015/11/28 05:42:55] @ brmbrmcar joined channel #supertux
 [2015/11/28 05:54:08] @ alket joined channel #supertux
 [2015/11/28 06:12:26] @ Quit: alket: Ping timeout: 240 seconds
+[2015/11/28 06:18:18] @ Tobbi joined channel #supertux
+[2015/11/28 06:18:18] @ Mode +o Tobbi by ChanServ
