@@ -13219,3 +13219,4 @@
 [2015/11/28 13:19:59] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93683469
 [2015/11/28 13:28:33] @ alket joined channel #supertux
 [2015/11/28 13:35:06] <Tobbi> head8debian: Could you compile the latest supertux and then run it with ./supertux2 --debug ?
+[2015/11/28 14:04:17] @ Quit: alket: Quit: Good Night :)
