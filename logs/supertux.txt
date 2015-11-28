@@ -13115,3 +13115,4 @@
 [2015/11/28 07:22:36] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/11/28 07:29:58] @ alket joined channel #supertux
 [2015/11/28 07:38:30] @ brmbrmcar joined channel #supertux
+[2015/11/28 07:49:01] <Tobbi> I'm definitely getting somewhere with that langpack script.
