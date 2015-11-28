@@ -13120,3 +13120,12 @@
 [2015/11/28 08:05:11] @ Hume2 joined channel #supertux
 [2015/11/28 08:09:46] @ Quit: alket: Excess Flood
 [2015/11/28 08:14:03] @ alket joined channel #supertux
+[2015/11/28 08:26:45] <head8debian> Tobbi: Cool.
+[2015/11/28 08:26:57] <head8debian> Tobbi: How far are you guessing that you are on it?
+[2015/11/28 08:27:20] <Tobbi> head8debian: It can create zip files and create an nfo file to be appended to the repo index.
+[2015/11/28 08:27:31] <Tobbi> So, that's done.
+[2015/11/28 08:27:37] <Tobbi> Not sure what else is needed, though.
+[2015/11/28 08:27:55] <Tobbi> It also might only work on OSX...
+[2015/11/28 08:28:31] <head8debian> Tobbi: o_O
+[2015/11/28 08:29:42] <Tobbi> head8debian: When you do md5 <file path>, does it give you the file path in that case?
+[2015/11/28 08:29:57] <Tobbi> Sorry, I meant md5 -q <file path>
