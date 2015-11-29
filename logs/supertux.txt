@@ -13330,3 +13330,5 @@
 [2015/11/29 08:29:06] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-11-19 11:10:15 -0500
 [2015/11/29 08:29:10] @ Mode +nt by kornbluth.freenode.net
 [2015/11/29 08:31:52] @ head8debian joined channel #supertux
+[2015/11/29 08:55:02] @ Quit: Drangue: Excess Flood
+[2015/11/29 08:56:07] @ Drangue joined channel #supertux
