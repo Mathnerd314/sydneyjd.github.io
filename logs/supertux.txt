@@ -13393,3 +13393,24 @@
 [2015/11/29 11:13:40] <Tobbi> I could fix the strings with some other python script, but I'd rather avoid doing this magic.
 [2015/11/29 11:14:36] <leyyin> Tobbi, Each of untranslated-string and translated-string respects the C syntax for a character string, including the surrounding quotes and embedded backslashed escape sequences. When the time comes to write multi-line strings, one should not use escaped newlines. Instead, a closing quote should follow the last character on the line to be continued, and an opening quote should resume the string at the beginning of the following PO file line.
 [2015/11/29 11:14:38] <leyyin> rtfm
+[2015/11/29 11:15:07] <Tobbi> leyyin: I could do that, but it wouldn't find the source string then...
+[2015/11/29 11:15:15] <Tobbi> The source string is like that with the escaped \n.
+[2015/11/29 11:15:18] <Tobbi> ffs.
+[2015/11/29 11:15:34] <leyyin> did you read above?
+[2015/11/29 11:15:35] <leyyin> "Instead, a closing quote should follow the last character on the line to be continued, and an opening quote should resume the string at the beginning of the following PO file line."
+[2015/11/29 11:15:44] <Tobbi> leyyin: So, it'll find that?
+[2015/11/29 11:15:48] <Tobbi> I'll try...one moment.
+[2015/11/29 11:15:51] <leyyin> yes...
+[2015/11/29 11:16:39] @ claymore2 joined channel #supertux
+[2015/11/29 11:16:40] <Tobbi> leyyin: But, be proud of me: I did my first few steps in bash programming and succeeded, somewhat
+[2015/11/29 11:16:41] <Tobbi> :D
+[2015/11/29 11:17:22] <head8debian> :D
+[2015/11/29 11:17:28] <leyyin> bash sucks anyways
+[2015/11/29 11:17:36] <leyyin> bash syntax even more
+[2015/11/29 11:17:49] <Tobbi> leyyin: I know...but makepot.sh was written in bash.
+[2015/11/29 11:18:03] <leyyin> it's fine, if the script is under 100 lines :P
+[2015/11/29 11:18:15] <Tobbi> leyyin: the important stuff is done in python anyway...
+[2015/11/29 11:18:31] <Tobbi> As in: Fetching the source strings to translate and getting them in a format that xgettext can understand.
+[2015/11/29 11:20:04] <leyyin> and for your shell you should use zsh or better, fish :P
+[2015/11/29 11:20:30] <Tobbi> leyyin: I don't care about the bash script anyway...I should probably reprogram ./makepot.sh to use python instead.
+[2015/11/29 11:25:18] <Tobbi> leyyin: Okay, it worked. I will try to split the string then...
