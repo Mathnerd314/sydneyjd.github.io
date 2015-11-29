@@ -13333,3 +13333,6 @@
 [2015/11/29 08:55:02] @ Quit: Drangue: Excess Flood
 [2015/11/29 08:56:07] @ Drangue joined channel #supertux
 [2015/11/29 09:20:07] @ Drangue is now known as alket
+[2015/11/29 09:47:07] @ Quit: alket: Quit: Good Night :)
+[2015/11/29 09:59:06] @ Quit: maths22: Read error: Connection reset by peer
+[2015/11/29 09:59:16] @ maths22 joined channel #supertux
