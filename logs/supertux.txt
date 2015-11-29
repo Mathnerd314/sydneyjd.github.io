@@ -13308,3 +13308,5 @@
 [2015/11/28 21:41:20] @ Quit: tux|dude: Read error: Connection reset by peer
 [2015/11/28 22:52:01] @ Quit: irungentoo: Remote host closed the connection
 [2015/11/29 03:03:18] <mt> how on earth did this get in my sshguard chain: 12   DROP       all  --  txlc01.transifex.com  anywhere
+[2015/11/29 03:20:47] @ Quit: tuxdev_: Ping timeout: 240 seconds
+[2015/11/29 03:23:39] @ leyyin joined channel #supertux
