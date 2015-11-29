@@ -13303,3 +13303,4 @@
 [2015/11/28 20:57:01] <Tobbi> hopefully this is fixed now.
 [2015/11/28 20:58:57] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/28 21:09:56] @ irungentoo_ is now known as irungentoo
+[2015/11/28 21:26:03] <head8debian> Ouch.
