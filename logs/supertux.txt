@@ -13479,3 +13479,16 @@
 [2015/11/29 12:45:18] <Not-6fa5> [02supertux] 07Tobias Markus 03c1f284e - Replace custom iterator with enumerate, thanks, leyyin [ci skip]
 [2015/11/29 13:06:34] <Tobbi> SOme of the issues on the old bugtracker might be obsolete...
 [2015/11/29 13:07:43] <Hume2> I've already closed some.
+[2015/11/29 13:15:29] @ Quit: Hume2: Quit: Page closed
+[2015/11/29 13:16:39] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/29 13:20:57] @ Tobbi joined channel #supertux
+[2015/11/29 13:20:58] @ Mode +o Tobbi by ChanServ
+[2015/11/29 13:26:25] <Tobbi> head8debian: Do you think localizers will be mad if I add new strings, even though it's string freeze? :D
+[2015/11/29 13:26:42] <Tobbi> I mean: It's my first release as a project manager, and thus...
+[2015/11/29 13:26:43] <Tobbi> well...
+[2015/11/29 13:27:17] <Tobbi> You know, well, people don't need to expect of me that I'm experienced.
+[2015/11/29 13:27:56] <Tobbi> People might come over to my house and assassinate me.
+[2015/11/29 13:27:57] <Tobbi> :D
+[2015/11/29 13:29:16] @ Hume2 joined channel #supertux
+[2015/11/29 13:29:37] <Tobbi> Hume2: Do you think localizers will be mad with me if I add new string despite the string freeze?
+[2015/11/29 13:29:59] <Hume2> hmmm...
