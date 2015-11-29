@@ -13524,3 +13524,17 @@
 [2015/11/29 13:58:31] <Tobbi> Hume2: Can you check the intro level and find out whether nolok is too far down?
 [2015/11/29 13:58:44] <Tobbi> Or head8debian or anyone else?
 [2015/11/29 13:59:16] <Hume2> Tobbi: will do
+[2015/11/29 14:00:35] <Tobbi> Hume2: Shall I update the credits as well?
+[2015/11/29 14:01:16] <Tobbi> translation file for credits?
+[2015/11/29 14:01:22] <Tobbi> Actually, no, that's too long...
+[2015/11/29 14:01:28] <Hume2> Tobbi: Yes, you can.
+[2015/11/29 14:01:35] <Tobbi> Hume2: I am not sure if it even works...
+[2015/11/29 14:01:39] <Tobbi> But I'll check.
+[2015/11/29 14:02:49] <Hume2> Tobbi: Nolok has wrong hitbox. That's why he displays like this.
+[2015/11/29 14:02:56] <Tobbi> I see..
+[2015/11/29 14:03:03] <Tobbi> Hume2: Can you fix it real quick?
+[2015/11/29 14:03:13] <Hume2> Tobbi: will do.
+[2015/11/29 14:13:46] <Not-6fa5> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBylv
+[2015/11/29 14:13:48] <Not-6fa5> [02supertux] 07Hume2 032848704 - Fixed the Nolok's hitbox
+[2015/11/29 14:13:51] <Hume2> Tobbi: Fixed.
+[2015/11/29 14:13:55] <Tobbi> Thanks.
