@@ -13492,3 +13492,19 @@
 [2015/11/29 13:29:16] @ Hume2 joined channel #supertux
 [2015/11/29 13:29:37] <Tobbi> Hume2: Do you think localizers will be mad with me if I add new string despite the string freeze?
 [2015/11/29 13:29:59] <Hume2> hmmm...
+[2015/11/29 13:31:09] <Hume2> Tobbi: What change does it have to be? Tell me something about that.
+[2015/11/29 13:31:25] <Tobbi> Hume2: The intro scene where penny gets captured by nolok.
+[2015/11/29 13:31:30] <Tobbi> I managed to extract the strings...
+[2015/11/29 13:31:41] @ Quit: leyyin: Remote host closed the connection
+[2015/11/29 13:32:27] <Hume2> Tobbi: Well, do that. It should be definitely translated.
+[2015/11/29 13:32:34] <Tobbi> Okay...
+[2015/11/29 13:32:49] <Tobbi> Hume2: If people come knock at my home and try to kill me, it'll be your fault :P
+[2015/11/29 13:33:05] <Hume2> Tobbi: Tell them to kill me instead :D
+[2015/11/29 13:33:25] <Tobbi> :D I will...At least they have to travel to the Czech republic...and that'll cost them some money...
+[2015/11/29 13:34:23] <Hume2> I don't think that they'd go mad with you anyway.
+[2015/11/29 13:40:52] <Tobbi> Okay, I updated them...
+[2015/11/29 13:41:10] <Tobbi> I will update them using the web interface so they immediately show up.
+[2015/11/29 13:42:43] <Tobbi> uhm, okay?
+[2015/11/29 13:42:46] <Tobbi> For some reason it won't update.
+[2015/11/29 13:42:48] <Tobbi> let me check.
+[2015/11/29 13:43:23] <Hume2> It hasn't updated so far.
