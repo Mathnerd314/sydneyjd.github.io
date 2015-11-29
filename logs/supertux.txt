@@ -13312,3 +13312,4 @@
 [2015/11/29 03:23:39] @ leyyin joined channel #supertux
 [2015/11/29 04:02:23] @ tux|dude joined channel #supertux
 [2015/11/29 04:47:31] @ Quit: tux|dude: Quit: Leaving
+[2015/11/29 06:19:05] @ Wuzzy joined channel #supertux
