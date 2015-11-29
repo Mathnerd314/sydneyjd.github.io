@@ -13570,3 +13570,18 @@
 [2015/11/29 16:13:36] @ Quit: Natureshadow_: *.net *.split
 [2015/11/29 16:20:00] @ Natureshadow joined channel #supertux
 [2015/11/29 16:28:09] @ brmbrmcar joined channel #supertux
+[2015/11/29 16:31:04] @ giby joined channel #supertux
+[2015/11/29 16:31:05] @ Mode +o giby by ChanServ
+[2015/11/29 16:33:30] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/29 16:33:35] <Tobbi> giby: I updated translations on transifex despite string freeze...It's the tux and penny intro level strings...
+[2015/11/29 16:33:43] <Tobbi> I figured we might want to add those...
+[2015/11/29 16:33:46] <Tobbi> Before the release, I mean.
+[2015/11/29 16:34:08] <giby> Ok
+[2015/11/29 16:34:40] <Tobbi> giby: Could you please check whether the latest makepot.sh works for you?
+[2015/11/29 16:34:49] <Tobbi> If not, I might need to do some changes.
+[2015/11/29 16:35:03] <giby> I'll check
+[2015/11/29 16:35:11] <Tobbi> ok
+[2015/11/29 16:35:20] <Tobbi> And do reset the generated files afterwards
+[2015/11/29 16:35:33] <Tobbi> They are generated inside the translations/ subdirectory now.
+[2015/11/29 16:35:41] <Tobbi> But I already told you about the submodule :D
+[2015/11/29 16:37:27] <giby> :p Well but there's a difference bt what you tell and what I understand
