@@ -13319,3 +13319,5 @@
 [2015/11/29 06:52:50] @ leyyin__ joined channel #supertux
 [2015/11/29 06:52:54] @ Quit: leyyin: Ping timeout: 246 seconds
 [2015/11/29 06:54:18] @ Quit: leyyin_: Ping timeout: 246 seconds
+[2015/11/29 07:26:30] @ Quit: leyyin__: Read error: Connection reset by peer
+[2015/11/29 07:27:23] @ leyyin joined channel #supertux
