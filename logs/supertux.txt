@@ -13315,3 +13315,7 @@
 [2015/11/29 06:19:05] @ Wuzzy joined channel #supertux
 [2015/11/29 06:30:55] @ brmbrmcar joined channel #supertux
 [2015/11/29 06:31:51] @ alket joined channel #supertux
+[2015/11/29 06:49:44] @ leyyin_ joined channel #supertux
+[2015/11/29 06:52:50] @ leyyin__ joined channel #supertux
+[2015/11/29 06:52:54] @ Quit: leyyin: Ping timeout: 246 seconds
+[2015/11/29 06:54:18] @ Quit: leyyin_: Ping timeout: 246 seconds
