@@ -13419,3 +13419,5 @@
 [2015/11/29 11:38:08] <Tobbi> Since you are basically google, you know everything :D
 [2015/11/29 11:38:18] <leyyin> right....
 [2015/11/29 11:38:39] <Tobbi> :D
+[2015/11/29 11:47:13] <Hume2> Transifex is very working :D
+[2015/11/29 11:50:30] <Tobbi> Hume2: It's working?
