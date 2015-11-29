@@ -13296,3 +13296,9 @@
 [2015/11/28 19:53:44] <Tobbi> ok
 [2015/11/28 20:07:59] @ Quit: Wuzzy: Quit: Wuzzy
 [2015/11/28 20:33:15] <Tobbi> head8debian: This is a nightmare, I might continue tomorrow.
+[2015/11/28 20:54:26] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vB1VM
+[2015/11/28 20:54:27] <Not-6fa5> [02supertux] 07Tobias Markus 03ab72c72 - Use different syntax for command execution [ci skip]
+[2015/11/28 20:56:59] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vB1wL
+[2015/11/28 20:57:00] <Not-6fa5> [02supertux] 07Tobias Markus 0335b7dcb - Use different syntax for command execution [ci skip]
+[2015/11/28 20:57:01] <Tobbi> hopefully this is fixed now.
+[2015/11/28 20:58:57] @ Quit: Tobbi: Remote host closed the connection
