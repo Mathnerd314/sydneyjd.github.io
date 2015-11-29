@@ -13346,3 +13346,4 @@
 [2015/11/29 10:38:40] <Hume2> afk
 [2015/11/29 10:40:36] @ Karkus joined channel #supertux
 [2015/11/29 10:42:49] <Hume2> Hello, Karkus.
+[2015/11/29 10:54:53] <head8debian> lol.
