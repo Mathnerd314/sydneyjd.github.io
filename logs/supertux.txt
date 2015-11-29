@@ -13340,3 +13340,5 @@
 [2015/11/29 10:04:59] @ Mode +o Tobbi by ChanServ
 [2015/11/29 10:08:14] @ tuxdev_ joined channel #supertux
 [2015/11/29 10:09:44] @ Hume2 joined channel #supertux
+[2015/11/29 10:21:00] <Hume2> afk
+[2015/11/29 10:24:13] @ Quit: Tobbi: Remote host closed the connection
