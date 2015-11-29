@@ -13347,3 +13347,49 @@
 [2015/11/29 10:40:36] @ Karkus joined channel #supertux
 [2015/11/29 10:42:49] <Hume2> Hello, Karkus.
 [2015/11/29 10:54:53] <head8debian> lol.
+[2015/11/29 11:00:30] <Hume2> head8debian: Yes, I'm now ctk.
+[2015/11/29 11:04:23] @ Tobbi joined channel #supertux
+[2015/11/29 11:04:23] @ Mode +o Tobbi by ChanServ
+[2015/11/29 11:04:33] <Tobbi> lol = lights out, loser!
+[2015/11/29 11:04:50] * head8debian punches Tobbi...
+[2015/11/29 11:04:57] <head8debian> lol Tobbi. :p
+[2015/11/29 11:04:57] * Tobbi punches head8debian back.
+[2015/11/29 11:05:09] <Tobbi> head8debian: My lights aren't even on.
+[2015/11/29 11:05:15] <head8debian> Tobbi: Nm... :D
+[2015/11/29 11:05:39] <Tobbi> head8debian: So, what about that script that I wanted which fixes lang strings?
+[2015/11/29 11:06:04] <Tobbi> Do you have it ready? :D
+[2015/11/29 11:06:05] <head8debian> Tobbi: You wanted one?
+[2015/11/29 11:06:24] <Tobbi> head8debian: Yes, of course. I couldn't do it, so I guessed, you might be the right person, with your programming skills and everything.
+[2015/11/29 11:07:03] * head8debian blinks...
+[2015/11/29 11:07:18] * head8debian wonders if Tobbi has me confused with someone else...
+[2015/11/29 11:07:22] <Tobbi> leyyin: You worked at Google, thus you know everything... How do I prevent xtinygettext from altering my source file strings (it removes "\" from the source file strings)
+[2015/11/29 11:07:43] <Tobbi> head8debian: I wonder if I have confused myself with someone else, sometimes.
+[2015/11/29 11:08:31] <leyyin> Tobbi, xgettext?
+[2015/11/29 11:08:42] <Tobbi> leyyin: xgettext = extraction from source files...
+[2015/11/29 11:08:50] <leyyin> yes :D
+[2015/11/29 11:08:52] <leyyin> I know that
+[2015/11/29 11:08:52] <Tobbi> aka, string extraction...
+[2015/11/29 11:08:58] <leyyin> I only worked with that
+[2015/11/29 11:09:05] <Tobbi> leyyin: I have \n in scripts...it removes that during parsing.
+[2015/11/29 11:09:11] <Tobbi> Any way to prevent that?
+[2015/11/29 11:09:24] <leyyin> is xtinygettext different?
+[2015/11/29 11:09:40] <Tobbi> leyyin: I meant xgettext
+[2015/11/29 11:09:43] <Tobbi> I am confused.
+[2015/11/29 11:09:46] <Tobbi> But you know that
+[2015/11/29 11:09:57] <Tobbi> And sometimes I am a fanatic lychee.
+[2015/11/29 11:10:03] <Tobbi> Oh god, I sound like brmbrmcar
+[2015/11/29 11:10:22] <head8debian> Tobbi: Ok, i code the script and you replace a head gasket? :D Only be $300 + 20 hours of time.
+[2015/11/29 11:10:45] <Tobbi> head8debian: If you pay for that, sure... I mean: Pay for limo, plus flight plus limo to your home, plus my time...
+[2015/11/29 11:10:46] <Tobbi> :D
+[2015/11/29 11:10:56] <Tobbi> plus, restaurant, hotel etc.
+[2015/11/29 11:11:05] <head8debian> Tobbi: You eat cow feed! :D
+[2015/11/29 11:11:07] <leyyin> Tobbi, xgettext should not modify source files...
+[2015/11/29 11:11:12] <leyyin> as far as I know
+[2015/11/29 11:11:15] <head8debian> And sleep in the barn. :D
+[2015/11/29 11:11:27] <Tobbi> leyyin: It doesn't modify the source files, but it omits the backslash while parsing,
+[2015/11/29 11:11:31] <Tobbi> I checked.
+[2015/11/29 11:12:28] <leyyin> weird
+[2015/11/29 11:13:18] <Tobbi> leyyin: Indeed. I know that normally line breaks are written some other way in gettext files, but the source string is like this "This is some text\ninmultiplelines" so it needs to be that exact way...
+[2015/11/29 11:13:40] <Tobbi> I could fix the strings with some other python script, but I'd rather avoid doing this magic.
+[2015/11/29 11:14:36] <leyyin> Tobbi, Each of untranslated-string and translated-string respects the C syntax for a character string, including the surrounding quotes and embedded backslashed escape sequences. When the time comes to write multi-line strings, one should not use escaped newlines. Instead, a closing quote should follow the last character on the line to be continued, and an opening quote should resume the string at the beginning of the following PO file line.
+[2015/11/29 11:14:38] <leyyin> rtfm
