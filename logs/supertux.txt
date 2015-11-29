@@ -13544,3 +13544,9 @@
 [2015/11/29 14:28:55] <Not-6fa5> [02supertux] 07tobbi pushed 0322 commits to 03coverity_scan [+1/-0/±32] 13http://git.io/vByBV
 [2015/11/29 14:28:56] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93812324
 [2015/11/29 14:29:36] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93812324
+[2015/11/29 14:32:26] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vByRE
+[2015/11/29 14:32:27] <Not-6fa5> [02supertux] 07Tobias Markus 036161142 - Don't check for language pack updates on startup
+[2015/11/29 14:32:29] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93812737
+[2015/11/29 14:32:43] <Tobbi> head8debian: So, it should now start faster again.
+[2015/11/29 14:34:23] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93812324
+[2015/11/29 14:35:14] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93812324
