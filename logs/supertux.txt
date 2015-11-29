@@ -13538,3 +13538,9 @@
 [2015/11/29 14:13:48] <Not-6fa5> [02supertux] 07Hume2 032848704 - Fixed the Nolok's hitbox
 [2015/11/29 14:13:51] <Hume2> Tobbi: Fixed.
 [2015/11/29 14:13:55] <Tobbi> Thanks.
+[2015/11/29 14:15:25] <Hume2> Bye!
+[2015/11/29 14:15:28] @ Quit: Hume2: Quit: Page closed
+[2015/11/29 14:26:20] @ alket joined channel #supertux
+[2015/11/29 14:28:55] <Not-6fa5> [02supertux] 07tobbi pushed 0322 commits to 03coverity_scan [+1/-0/±32] 13http://git.io/vByBV
+[2015/11/29 14:28:56] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93812324
+[2015/11/29 14:29:36] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93812324
