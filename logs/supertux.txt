@@ -13310,3 +13310,4 @@
 [2015/11/29 03:03:18] <mt> how on earth did this get in my sshguard chain: 12   DROP       all  --  txlc01.transifex.com  anywhere
 [2015/11/29 03:20:47] @ Quit: tuxdev_: Ping timeout: 240 seconds
 [2015/11/29 03:23:39] @ leyyin joined channel #supertux
+[2015/11/29 04:02:23] @ tux|dude joined channel #supertux
