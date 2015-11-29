@@ -13336,3 +13336,7 @@
 [2015/11/29 09:47:07] @ Quit: alket: Quit: Good Night :)
 [2015/11/29 09:59:06] @ Quit: maths22: Read error: Connection reset by peer
 [2015/11/29 09:59:16] @ maths22 joined channel #supertux
+[2015/11/29 10:04:59] @ Tobbi joined channel #supertux
+[2015/11/29 10:04:59] @ Mode +o Tobbi by ChanServ
+[2015/11/29 10:08:14] @ tuxdev_ joined channel #supertux
+[2015/11/29 10:09:44] @ Hume2 joined channel #supertux
