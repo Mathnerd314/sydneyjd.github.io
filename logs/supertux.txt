@@ -13342,3 +13342,7 @@
 [2015/11/29 10:09:44] @ Hume2 joined channel #supertux
 [2015/11/29 10:21:00] <Hume2> afk
 [2015/11/29 10:24:13] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/29 10:34:49] <Hume2> ctk (= close to keyboard)
+[2015/11/29 10:38:40] <Hume2> afk
+[2015/11/29 10:40:36] @ Karkus joined channel #supertux
+[2015/11/29 10:42:49] <Hume2> Hello, Karkus.
