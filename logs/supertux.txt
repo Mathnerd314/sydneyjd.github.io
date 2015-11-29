@@ -13508,3 +13508,19 @@
 [2015/11/29 13:42:46] <Tobbi> For some reason it won't update.
 [2015/11/29 13:42:48] <Tobbi> let me check.
 [2015/11/29 13:43:23] <Hume2> It hasn't updated so far.
+[2015/11/29 13:45:18] <Tobbi> oh, right.
+[2015/11/29 13:46:07] <Tobbi> Hume2: Should work now.
+[2015/11/29 13:46:27] <Hume2> Tobbi: It's there.
+[2015/11/29 13:46:30] <Tobbi> :)
+[2015/11/29 13:46:32] <Tobbi> Yay!
+[2015/11/29 13:49:55] <Hume2> Tobbi: Translated.
+[2015/11/29 13:52:42] <head8debian> Tobbi: ...
+[2015/11/29 13:53:00] <Tobbi> head8debian: I updated strings despite string freeze...and it's all hume's fault. :P
+[2015/11/29 13:53:54] @ Quit: claymore2: Quit: Leaving
+[2015/11/29 13:54:09] <Tobbi> :P
+[2015/11/29 13:54:10] <Tobbi> well no.
+[2015/11/29 13:54:19] <Tobbi> head8debian: I just thought that the intro scene needs to be translated.
+[2015/11/29 13:54:21] <Tobbi> :P
+[2015/11/29 13:58:31] <Tobbi> Hume2: Can you check the intro level and find out whether nolok is too far down?
+[2015/11/29 13:58:44] <Tobbi> Or head8debian or anyone else?
+[2015/11/29 13:59:16] <Hume2> Tobbi: will do
