@@ -13414,3 +13414,8 @@
 [2015/11/29 11:20:04] <leyyin> and for your shell you should use zsh or better, fish :P
 [2015/11/29 11:20:30] <Tobbi> leyyin: I don't care about the bash script anyway...I should probably reprogram ./makepot.sh to use python instead.
 [2015/11/29 11:25:18] <Tobbi> leyyin: Okay, it worked. I will try to split the string then...
+[2015/11/29 11:30:56] <leyyin> see, if you read the manual you win ;)
+[2015/11/29 11:38:01] <Tobbi> leyyin: By asking you, one might win as well :D
+[2015/11/29 11:38:08] <Tobbi> Since you are basically google, you know everything :D
+[2015/11/29 11:38:18] <leyyin> right....
+[2015/11/29 11:38:39] <Tobbi> :D
