@@ -13284,3 +13284,9 @@
 [2015/11/28 19:02:11] <Not-6fa5> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93717819
 [2015/11/28 19:02:22] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/11/28 19:13:22] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93717819
+[2015/11/28 19:22:48] <head8debian> Tobbi: So...
+[2015/11/28 19:23:11] <Tobbi> head8debian: So! It works, but not if script settext calls contain \n
+[2015/11/28 19:23:21] <Tobbi> I will try to fix it up.
+[2015/11/28 19:23:36] <Tobbi> unfortunately xgettext removes backslashes...
+[2015/11/28 19:24:02] <head8debian> Tobbi: Sounds like fun... ;)
+[2015/11/28 19:24:07] <Tobbi> head8debian: no, it's not.
