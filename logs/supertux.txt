@@ -13477,3 +13477,5 @@
 [2015/11/29 12:42:16] <Not-6fa5> [02supertux] 07Tobias Markus 039323201 - Use \n instead of \r\n
 [2015/11/29 12:45:17] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vByv1
 [2015/11/29 12:45:18] <Not-6fa5> [02supertux] 07Tobias Markus 03c1f284e - Replace custom iterator with enumerate, thanks, leyyin [ci skip]
+[2015/11/29 13:06:34] <Tobbi> SOme of the issues on the old bugtracker might be obsolete...
+[2015/11/29 13:07:43] <Hume2> I've already closed some.
