@@ -13587,3 +13587,14 @@
 [2015/11/29 16:37:27] <giby> :p Well but there's a difference bt what you tell and what I understand
 [2015/11/29 16:45:53] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/29 16:55:15] @ Quit: Karkus: Ping timeout: 246 seconds
+[2015/11/29 17:01:23] @ Tobbi joined channel #supertux
+[2015/11/29 17:01:23] @ Mode +o Tobbi by ChanServ
+[2015/11/29 17:08:48] <Tobbi> giby: That difference is there, most likely...
+[2015/11/29 17:08:51] <Tobbi> :P
+[2015/11/29 17:08:52] @ Xjs|moonshine joined channel #supertux
+[2015/11/29 17:09:02] <Tobbi> gimme gimme gimme moonshine...
+[2015/11/29 17:09:39] <giby> ?
+[2015/11/29 17:13:18] @ giby_the_kid joined channel #supertux
+[2015/11/29 17:13:18] @ Mode +o giby_the_kid by ChanServ
+[2015/11/29 17:14:21] <Tobbi> giby: never mind...
+[2015/11/29 17:14:35] <Tobbi> giby: I was just reacting to the nickname of the guy who joined.
