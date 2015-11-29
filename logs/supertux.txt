@@ -13292,3 +13292,5 @@
 [2015/11/28 19:24:07] <Tobbi> head8debian: no, it's not.
 [2015/11/28 19:31:05] @ Quit: tux|dude: Quit: Leaving
 [2015/11/28 19:33:05] <Tobbi> head8debian: Clearly, I got nothing else to do...
+[2015/11/28 19:53:20] <head8debian> Tobbi: I was joking. Im glad im not in your shoes.
+[2015/11/28 19:53:44] <Tobbi> ok
