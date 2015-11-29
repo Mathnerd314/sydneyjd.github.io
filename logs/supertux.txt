@@ -13568,3 +13568,5 @@
 [2015/11/29 16:13:28] @ Quit: benjamin__: *.net *.split
 [2015/11/29 16:13:29] @ Quit: Xjs|moonshine: *.net *.split
 [2015/11/29 16:13:36] @ Quit: Natureshadow_: *.net *.split
+[2015/11/29 16:20:00] @ Natureshadow joined channel #supertux
+[2015/11/29 16:28:09] @ brmbrmcar joined channel #supertux
