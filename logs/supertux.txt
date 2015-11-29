@@ -13446,3 +13446,32 @@
 [2015/11/29 12:29:30] <leyyin> sooo
 [2015/11/29 12:29:31] <Tobbi> m on it.
 [2015/11/29 12:29:42] <leyyin> no performance hit but ugly
+[2015/11/29 12:30:10] <leyyin> too much C arrays
+[2015/11/29 12:30:15] <leyyin> hurts your brain
+[2015/11/29 12:30:24] <Tobbi> :D
+[2015/11/29 12:30:56] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBDhm
+[2015/11/29 12:30:58] <Not-6fa5> [02supertux] 07Tobias Markus 03570c4b6 - Save list length in variable [ci skip]
+[2015/11/29 12:31:04] <Tobbi> leyyin: If you know a more performant way of doing what I am doing, go right ahead.
+[2015/11/29 12:31:14] <Tobbi> I felt like what I am doing is rather ugly...
+[2015/11/29 12:31:20] <Tobbi> *feel
+[2015/11/29 12:32:24] <leyyin> time to learn enumerate Tobbi
+[2015/11/29 12:32:44] <leyyin> for i, line in enumerate(lines):
+[2015/11/29 12:32:59] <Tobbi> leyyin: gimme a break, damn it...I have never worked a lot with python.
+[2015/11/29 12:33:05] <Tobbi> I don't know its features that much.
+[2015/11/29 12:33:16] <leyyin> I am giving you a break, 10 minutes?
+[2015/11/29 12:33:26] <Tobbi> leyyin: figure of speech...
+[2015/11/29 12:33:33] <leyyin> hehe :D
+[2015/11/29 12:33:36] <Tobbi> Also, I wanted to write giture
+[2015/11/29 12:33:42] <Tobbi> instead of figure
+[2015/11/29 12:34:54] <leyyin> your code is not very pythonic :P
+[2015/11/29 12:35:27] <Tobbi> leyyin: Because I don't know how to write pythonic code. I told you that :D
+[2015/11/29 12:35:34] <Tobbi> I will try to improve it.
+[2015/11/29 12:35:39] <Tobbi> But first let me see if it works
+[2015/11/29 12:36:24] <leyyin> I forgive you Tobbi ;)
+[2015/11/29 12:38:39] <Tobbi> for fucks sake...
+[2015/11/29 12:38:43] <Tobbi> what is this...?
+[2015/11/29 12:39:03] <Tobbi> one moment.
+[2015/11/29 12:39:05] <Tobbi> this is a nightmare.
+[2015/11/29 12:41:22] <Tobbi> Okay...fixed it.
+[2015/11/29 12:42:15] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vByex
+[2015/11/29 12:42:16] <Not-6fa5> [02supertux] 07Tobias Markus 039323201 - Use \n instead of \r\n
