@@ -13556,3 +13556,5 @@
 [2015/11/29 15:02:09] <Not-6fa5> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93812737
 [2015/11/29 15:23:01] @ tux|dude joined channel #supertux
 [2015/11/29 15:29:36] @ Quit: alket: Ping timeout: 276 seconds
+[2015/11/29 15:34:44] @ alket joined channel #supertux
+[2015/11/29 15:44:34] @ Quit: Tobbi: Ping timeout: 264 seconds
