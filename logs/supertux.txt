@@ -13332,3 +13332,4 @@
 [2015/11/29 08:31:52] @ head8debian joined channel #supertux
 [2015/11/29 08:55:02] @ Quit: Drangue: Excess Flood
 [2015/11/29 08:56:07] @ Drangue joined channel #supertux
+[2015/11/29 09:20:07] @ Drangue is now known as alket
