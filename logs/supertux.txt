@@ -13615,3 +13615,5 @@
 [2015/11/29 17:54:33] @ Quit: alket: Quit: Good Night :)
 [2015/11/29 18:07:42] @ Quit: tuxdev_: Ping timeout: 246 seconds
 [2015/11/29 18:13:59] @ Quit: Tobbi: Ping timeout: 264 seconds
+[2015/11/29 18:20:42] @ Karkus joined channel #supertux
+[2015/11/29 18:28:10] @ Quit: Karkus: Ping timeout: 245 seconds
