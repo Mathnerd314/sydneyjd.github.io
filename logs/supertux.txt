@@ -13425,3 +13425,24 @@
 [2015/11/29 12:00:28] <Tobbi> Text Wrangler didn't want to work for me anymore.
 [2015/11/29 12:08:59] @ benjamin__ joined channel #supertux
 [2015/11/29 12:10:21] @ Quit: giby_the_kid: Ping timeout: 246 seconds
+[2015/11/29 12:26:37] <Tobbi> there we go!
+[2015/11/29 12:26:39] <Not-6fa5> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vBDxw
+[2015/11/29 12:26:41] <Not-6fa5> [02supertux] 07Tobias Markus 039bae709 - Fix extract_strings.py [ci skip]
+[2015/11/29 12:27:38] <leyyin> oh boy
+[2015/11/29 12:27:45] <leyyin> Tobbi, time for a lesson
+[2015/11/29 12:27:52] <Tobbi> leyyin: What?
+[2015/11/29 12:27:54] <leyyin> do not call len() every freaking time on the list
+[2015/11/29 12:28:01] <leyyin> it's time consuming
+[2015/11/29 12:28:08] <Tobbi> Okay, I will change that.
+[2015/11/29 12:28:12] <leyyin> save the freaking result of len(list) in a variable
+[2015/11/29 12:29:13] <leyyin> wait, it's python
+[2015/11/29 12:29:15] <Tobbi> Yes, I am doing that now.
+[2015/11/29 12:29:16] <leyyin> nvm
+[2015/11/29 12:29:19] <Tobbi> :D
+[2015/11/29 12:29:22] <leyyin> but
+[2015/11/29 12:29:23] <Tobbi> leyyin: No lesson from you?
+[2015/11/29 12:29:26] <leyyin> it's ugly
+[2015/11/29 12:29:29] <Tobbi> I know, I
+[2015/11/29 12:29:30] <leyyin> sooo
+[2015/11/29 12:29:31] <Tobbi> m on it.
+[2015/11/29 12:29:42] <leyyin> no performance hit but ugly
