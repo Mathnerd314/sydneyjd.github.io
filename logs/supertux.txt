@@ -13585,3 +13585,5 @@
 [2015/11/29 16:35:33] <Tobbi> They are generated inside the translations/ subdirectory now.
 [2015/11/29 16:35:41] <Tobbi> But I already told you about the submodule :D
 [2015/11/29 16:37:27] <giby> :p Well but there's a difference bt what you tell and what I understand
+[2015/11/29 16:45:53] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/29 16:55:15] @ Quit: Karkus: Ping timeout: 246 seconds
