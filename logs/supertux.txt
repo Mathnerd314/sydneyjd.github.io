@@ -13617,3 +13617,12 @@
 [2015/11/29 18:13:59] @ Quit: Tobbi: Ping timeout: 264 seconds
 [2015/11/29 18:20:42] @ Karkus joined channel #supertux
 [2015/11/29 18:28:10] @ Quit: Karkus: Ping timeout: 245 seconds
+[2015/11/29 18:30:46] <head8debian> Yuck.
+[2015/11/29 18:35:32] @ Tobbi joined channel #supertux
+[2015/11/29 18:35:32] @ Mode +o Tobbi by ChanServ
+[2015/11/29 18:41:28] <head8debian> Tobbi: Yes, freenode is taking a beating.
+[2015/11/29 18:41:36] <Tobbi> head8debian: Great!
+[2015/11/29 18:41:39] <Tobbi> I love it.
+[2015/11/29 18:41:56] * head8debian beats Tobbi for enjoying freenodes beating...
+[2015/11/29 18:42:18] * Tobbi beats head8debian for beating me for enjoying something...
+[2015/11/29 18:42:24] <Tobbi> *him
