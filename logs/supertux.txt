@@ -13304,3 +13304,5 @@
 [2015/11/28 20:58:57] @ Quit: Tobbi: Remote host closed the connection
 [2015/11/28 21:09:56] @ irungentoo_ is now known as irungentoo
 [2015/11/28 21:26:03] <head8debian> Ouch.
+[2015/11/28 21:38:46] @ tux|dude joined channel #supertux
+[2015/11/28 21:41:20] @ Quit: tux|dude: Read error: Connection reset by peer
