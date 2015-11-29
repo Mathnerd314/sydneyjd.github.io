@@ -13421,3 +13421,7 @@
 [2015/11/29 11:38:39] <Tobbi> :D
 [2015/11/29 11:47:13] <Hume2> Transifex is very working :D
 [2015/11/29 11:50:30] <Tobbi> Hume2: It's working?
+[2015/11/29 12:00:22] <Tobbi> Atom is actually quite a nice text editor.
+[2015/11/29 12:00:28] <Tobbi> Text Wrangler didn't want to work for me anymore.
+[2015/11/29 12:08:59] @ benjamin__ joined channel #supertux
+[2015/11/29 12:10:21] @ Quit: giby_the_kid: Ping timeout: 246 seconds
