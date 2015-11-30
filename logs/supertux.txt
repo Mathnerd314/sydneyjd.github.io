@@ -13698,3 +13698,18 @@
 [2015/11/30 10:37:03] @ brmbrmcar joined channel #supertux
 [2015/11/30 10:37:39] <brmbrmcar> More NetSplit...
 [2015/11/30 10:44:51] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/30 10:45:17] <head8debian> GOod morning all!
+[2015/11/30 10:45:26] <head8debian> Oh, wait, good morning brmbrmcar.
+[2015/11/30 10:47:57] <brmbrmcar> You mean good afternoon!
+[2015/11/30 10:48:12] <brmbrmcar> Well, for you good morning!
+[2015/11/30 10:48:28] <head8debian> ;)
+[2015/11/30 10:48:48] <brmbrmcar> For some reason I though you were 5 hours ahead rather than behin me.
+[2015/11/30 10:50:54] <head8debian> brmbrmcar: Nope/
+[2015/11/30 10:56:10] <brmbrmcar> What is your time zone?
+[2015/11/30 10:56:20] <brmbrmcar> The logs are GMT-5.
+[2015/11/30 10:56:43] <head8debian> brmbrmcar: EST.
+[2015/11/30 10:57:08] <brmbrmcar> GMT-5?
+[2015/11/30 10:57:16] <brmbrmcar> Yeah.
+[2015/11/30 10:57:26] <brmbrmcar> or utc-5
+[2015/11/30 10:57:43] @ Quit: irungentoo: Ping timeout: 247 seconds
+[2015/11/30 10:59:21] <brmbrmcar> All day I've had to wear a watch 63 minutes fast.
