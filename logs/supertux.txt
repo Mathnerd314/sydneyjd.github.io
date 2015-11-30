@@ -13805,3 +13805,26 @@
 [2015/11/30 11:58:43] <Not-e81f> [02supertux] 07Hume2 03c327c69 - Made the level "Roots, Woody Roots" playable
 [2015/11/30 11:59:11] <Tobbi> Hume2: Is that level even in the worldmap?
 [2015/11/30 11:59:24] <Hume2> Tobbi: No, it isn't.
+[2015/11/30 12:02:18] <brmbrmcar> Nice level.
+[2015/11/30 12:02:25] <Tobbi> nice eyes...
+[2015/11/30 12:02:29] <Tobbi> nice ice
+[2015/11/30 12:02:36] <Tobbi> We should add a couple levels to incubator...
+[2015/11/30 12:03:08] <brmbrmcar> Like what?
+[2015/11/30 12:03:34] <Tobbi> There are some levels that didn't make it into Bonus Island 3.
+[2015/11/30 12:04:07] <Hume2> Any idea why they aren't there?
+[2015/11/30 12:05:04] <Tobbi> Hume2: I talked to LMH and he removed some of them...
+[2015/11/30 12:05:12] <Tobbi> Hume2: But the latest worldmap is here: http://supertux.lethargik.org/bugs/view.php?id=915
+[2015/11/30 12:05:41] <Tobbi> Can you go through them, and see which ones aren't in Bonus Island 3 and add these to Incubator...?
+[2015/11/30 12:06:28] <Hume2> Tobbi: will do
+[2015/11/30 12:06:44] <Tobbi> Actually, LMH claims the add-ons repo contains an updated version, not sure if that's true.
+[2015/11/30 12:08:25] <Hume2> Tobbi: It's true, the .zip is there, but the sorve in /src is missing.
+[2015/11/30 12:08:28] <brmbrmcar> There was  variant of Bonus Island 3 in 0.3.4 and previous.
+[2015/11/30 12:08:40] <Tobbi> Hume2: Link to the zip.
+[2015/11/30 12:08:42] <Tobbi> please.
+[2015/11/30 12:08:46] @ benjamin__ joined channel #supertux
+[2015/11/30 12:09:15] <brmbrmcar> I think that is the reason why it isn't available ithis version.
+[2015/11/30 12:09:27] <Hume2> Tobbi: https://github.com/SuperTux/addons/blob/master/Worldmaps/pre_git_bugtracker_worldmap.zip
+[2015/11/30 12:10:28] @ Quit: giby_the_kid: Ping timeout: 240 seconds
+[2015/11/30 12:12:00] <Hume2> Tobbi: There are some levels with custom sprites. What to do with them?
+[2015/11/30 12:12:39] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2015/11/30 12:14:30] <Tobbi> Hume2: Which ones?
