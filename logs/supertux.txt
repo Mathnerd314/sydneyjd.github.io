@@ -13859,3 +13859,6 @@
 [2015/11/30 12:51:00] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93984794
 [2015/11/30 12:56:37] @ Quit: VargaD: Ping timeout: 260 seconds
 [2015/11/30 12:59:02] @ VargaD joined channel #supertux
+[2015/11/30 13:08:24] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/30 13:14:28] @ Quit: datahead8888: Read error: Connection reset by peer
+[2015/11/30 13:14:46] @ datahead8888 joined channel #supertux
