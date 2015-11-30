@@ -13653,3 +13653,5 @@
 [2015/11/30 00:55:45] @ Quit: tuxdev_: Changing host
 [2015/11/30 00:55:45] @ tuxdev_ joined channel #supertux
 [2015/11/30 02:30:52] @ Quit: tuxdev_: Ping timeout: 245 seconds
+[2015/11/30 02:54:12] @ Quit: Yaiyan: Ping timeout: 245 seconds
+[2015/11/30 02:59:17] @ Yaiyan joined channel #supertux
