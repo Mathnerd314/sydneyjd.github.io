@@ -13730,3 +13730,48 @@
 [2015/11/30 11:29:44] <head8debian> Tobbi: AhaH, brmbrmcar must be 6. ;D
 [2015/11/30 11:29:52] <Tobbi> head8debian: He is not.
 [2015/11/30 11:29:57] <Tobbi> He's too smart for that.
+[2015/11/30 11:30:03] <Tobbi> It takes some intelligence to get on my nerves.
+[2015/11/30 11:30:19] <brmbrmcar> Yeah, I can access locked games!
+[2015/11/30 11:30:36] <Tobbi> like SuperTux
+[2015/11/30 11:30:45] <brmbrmcar> On a site for 6 year olds.
+[2015/11/30 11:30:56] <head8debian> Tobbi: :D
+[2015/11/30 11:31:26] <brmbrmcar> All the games are the same as last year's too!
+[2015/11/30 11:32:03] <Tobbi> head8debian: Only a few hours until the chip.de christmas calendar opens up :D
+[2015/11/30 11:32:12] <head8debian> Tobbi: What?
+[2015/11/30 11:32:26] <Tobbi> head8debian: It's where you get software goodies.
+[2015/11/30 11:32:29] <Tobbi> for free..
+[2015/11/30 11:32:35] <Tobbi> that you normally have to pay for.
+[2015/11/30 11:32:46] <head8debian> Tobbi: Hmm.
+[2015/11/30 11:34:30] <brmbrmcar> Lasts years 1st DEcember was rubbish!
+[2015/11/30 11:34:38] <Tobbi> brmbrmcar: what?
+[2015/11/30 11:34:51] <head8debian> Tobbi: Im not german though.
+[2015/11/30 11:34:58] <brmbrmcar> http://www.chip.de/downloads/Vollversion-Paragon-Migrate-OS-to-SSD_73739353.html
+[2015/11/30 11:35:07] <Tobbi> brmbrmcar: How the hell do you know about that?
+[2015/11/30 11:35:25] <brmbrmcar> Where's thr linux downlad?
+[2015/11/30 11:35:50] <Tobbi> brmbrmcar: Do you visit chip.de..? Or how do you know about it's advent calendar?
+[2015/11/30 11:36:29] @ alket joined channel #supertux
+[2015/11/30 11:36:35] <brmbrmcar> I just looked at the site's advent calender because you mentioned it.
+[2015/11/30 11:36:51] <Tobbi> ah
+[2015/11/30 11:37:12] <brmbrmcar> So what is the actual point of that software to me?
+[2015/11/30 11:37:34] <brmbrmcar> Linux can just be copied and reinstalled!
+[2015/11/30 11:37:40] <Tobbi> brmbrmcar: *sigh*
+[2015/11/30 11:38:29] <brmbrmcar> Why would you only want to transfer some of the stuff?
+[2015/11/30 11:38:37] @ Karkus joined channel #supertux
+[2015/11/30 11:39:19] <brmbrmcar> At least the site isn't lazy ike Google's.
+[2015/11/30 11:39:20] <Tobbi> Hello, Karkus.
+[2015/11/30 11:39:33] <Karkus> Hey Tobbi
+[2015/11/30 11:39:38] <head8debian> Hello Karkus.
+[2015/11/30 11:39:54] <Karkus> Hello head8debian
+[2015/11/30 11:40:07] <Tobbi> Karkus: I managed to get the intro talk between penny and tux on transifex.
+[2015/11/30 11:40:14] <Tobbi> Now it only needs to be translated.
+[2015/11/30 11:40:55] <Tobbi> Also, release in just...3 (?) weeks?
+[2015/11/30 11:41:02] <Tobbi> Less than, even.
+[2015/11/30 11:41:13] <Tobbi> We set the 20th, didn't we?
+[2015/11/30 11:41:48] <brmbrmcar> Yes.
+[2015/11/30 11:41:53] <brmbrmcar> 20 days.
+[2015/11/30 11:42:50] <Karkus> Well, it depends whether you want a test build now to ensure everything works... e.g. test windows and installer.
+[2015/11/30 11:43:04] <Karkus> by 'now' I mean soon
+[2015/11/30 11:43:06] <head8debian> It would probably be a good idea.
+[2015/11/30 11:43:27] <Tobbi> yup.
+[2015/11/30 11:44:05] <Tobbi> head8debian: I did you a favour and removed langpack update checking at startup.
+[2015/11/30 11:44:41] <head8debian> Tobbi: :D
