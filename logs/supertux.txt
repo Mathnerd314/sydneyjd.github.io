@@ -13775,3 +13775,33 @@
 [2015/11/30 11:43:27] <Tobbi> yup.
 [2015/11/30 11:44:05] <Tobbi> head8debian: I did you a favour and removed langpack update checking at startup.
 [2015/11/30 11:44:41] <head8debian> Tobbi: :D
+[2015/11/30 11:46:47] <Tobbi> Karkus: Okay, let's get a test build out in a week? Hoping that maths22 is ready...
+[2015/11/30 11:47:05] <Tobbi> We should integrate l10n from transifex before, though.
+[2015/11/30 11:47:09] <Karkus> Tobbi: Sounds like a plan
+[2015/11/30 11:48:23] <Tobbi> Karkus: Also, check out this *beautiful* python script: https://raw.githubusercontent.com/SuperTux/supertux/master/extract_strings.py It's so beautiful that the beauty it radiates makes everything around it even more beautiful.
+[2015/11/30 11:49:57] <brmbrmcar> I like it.
+[2015/11/30 11:50:07] <Tobbi> :D
+[2015/11/30 11:50:07] <brmbrmcar> Easy enough to understand.
+[2015/11/30 11:50:12] <Tobbi> I am merely messing with you guys.
+[2015/11/30 11:50:13] <Tobbi> :D
+[2015/11/30 11:50:23] <Tobbi> Because it's just a python script.
+[2015/11/30 11:50:46] <brmbrmcar> Iwish Arduino was Python...
+[2015/11/30 11:51:17] <Karkus> Tobbi: Nothing special about it?
+[2015/11/30 11:51:44] <Tobbi> Karkus: Just that I had to write it because xgettext wouldn't appreciate "\n" inside the source strings.
+[2015/11/30 11:52:15] <Tobbi> Karkus: The scripts fetches translate tags from squirrel files and writes them to a lisp file.
+[2015/11/30 11:52:19] <Tobbi> Which xgettext can fetch.
+[2015/11/30 11:52:49] <Karkus> Okay :)
+[2015/11/30 11:53:20] <brmbrmcar> xgettext?
+[2015/11/30 11:53:52] <Tobbi> ...extracts translatable strings fro source files.
+[2015/11/30 11:53:57] <Tobbi> *from
+[2015/11/30 11:54:38] <brmbrmcar> Oooh.
+[2015/11/30 11:54:44] @ Hume2 joined channel #supertux
+[2015/11/30 11:55:03] <Tobbi> Oooh, Oooh, shut up'n'extract for me.
+[2015/11/30 11:55:11] <brmbrmcar> I am closer to buoding Supertux successfully.
+[2015/11/30 11:55:18] <Tobbi> These source strings are my destiny...who hoo...
+[2015/11/30 11:55:19] <Tobbi> :D
+[2015/11/30 11:58:41] @ Not-e81f joined channel #supertux
+[2015/11/30 11:58:41] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vB788
+[2015/11/30 11:58:43] <Not-e81f> [02supertux] 07Hume2 03c327c69 - Made the level "Roots, Woody Roots" playable
+[2015/11/30 11:59:11] <Tobbi> Hume2: Is that level even in the worldmap?
+[2015/11/30 11:59:24] <Hume2> Tobbi: No, it isn't.
