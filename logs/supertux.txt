@@ -13885,3 +13885,5 @@
 [2015/11/30 15:33:31] @ Quit: alket: Quit: Good Night :)
 [2015/11/30 15:34:23] @ alket joined channel #supertux
 [2015/11/30 15:49:56] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/11/30 16:02:39] @ Quit: tux|dude: Quit: Leaving
+[2015/11/30 16:02:55] @ Quit: claymore2: Quit: Leaving
