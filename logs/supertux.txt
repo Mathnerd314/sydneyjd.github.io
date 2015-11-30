@@ -13892,3 +13892,5 @@
 [2015/11/30 16:28:28] @ Quit: Karkus: Remote host closed the connection
 [2015/11/30 16:47:07] @ Quit: Yaiyan: Ping timeout: 245 seconds
 [2015/11/30 16:48:05] @ Yaiyan joined channel #supertux
+[2015/11/30 17:22:44] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/30 17:26:56] @ leyyin joined channel #supertux
