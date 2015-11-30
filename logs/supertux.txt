@@ -13873,3 +13873,5 @@
 [2015/11/30 13:36:50] <Tobbi> All my 8 GB were used.
 [2015/11/30 13:39:33] @ Quit: Yaiyan: Ping timeout: 260 seconds
 [2015/11/30 13:42:49] @ Yaiyan joined channel #supertux
+[2015/11/30 13:56:11] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2015/11/30 13:58:49] <Not-e81f> [02supertux] 07tobbi commented on issue 03#242: Sprites from pre_git_bugtracker_worldmap - 13http://git.io/vB5ZT
