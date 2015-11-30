@@ -13890,3 +13890,5 @@
 [2015/11/30 16:15:11] @ Quit: alket: Quit: Good Night :)
 [2015/11/30 16:25:28] @ Quit: ced117: Quit: Quitte
 [2015/11/30 16:28:28] @ Quit: Karkus: Remote host closed the connection
+[2015/11/30 16:47:07] @ Quit: Yaiyan: Ping timeout: 245 seconds
+[2015/11/30 16:48:05] @ Yaiyan joined channel #supertux
