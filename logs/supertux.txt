@@ -13828,3 +13828,22 @@
 [2015/11/30 12:12:00] <Hume2> Tobbi: There are some levels with custom sprites. What to do with them?
 [2015/11/30 12:12:39] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/11/30 12:14:30] <Tobbi> Hume2: Which ones?
+[2015/11/30 12:15:23] <Hume2> Tobbi: NewIceLevel1-5
+[2015/11/30 12:16:27] <Hume2> Tobbi: and ice_mountain,stl
+[2015/11/30 12:19:45] <Tobbi> Hume2: Could you add the sprites to SuperTux? But please create a pull request. I want to see what's changed.
+[2015/11/30 12:20:58] <Hume2> Tobbi: You wouldn't like it and you'd tell me to redraw it, so may I do it before?
+[2015/11/30 12:21:16] <Tobbi> Hume2: Don't tell me what i like or don't like :P
+[2015/11/30 12:21:19] <Tobbi> Pull request. Now.
+[2015/11/30 12:21:36] <Tobbi> head8debian is our go-to-guy for graphics, anyway.
+[2015/11/30 12:21:59] <Tobbi> :D
+[2015/11/30 12:24:59] <Not-e81f> [02supertux] 07Hume2 created branch 03incubator - 13http://git.io/vvf63
+[2015/11/30 12:25:00] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03incubator [+76/-0/±0] 13http://git.io/vB7wg
+[2015/11/30 12:25:02] <Not-e81f> [02supertux] 07Hume2 038c9e3af - Added sprites from pre_git_bugtracker_worldmap
+[2015/11/30 12:25:34] <Hume2> Tobbi: Now you see it.
+[2015/11/30 12:27:45] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03incubator [+0/-21/±0] 13http://git.io/vB7r4
+[2015/11/30 12:27:46] <Not-e81f> [02supertux] 07Hume2 03e2f1dc4 - Deleted some svn crap
+[2015/11/30 12:27:48] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93984605
+[2015/11/30 12:28:50] <Not-e81f> [02supertux] 07Hume2 opened pull request 03#242: Sprites from pre_git_bugtracker_worldmap - 13http://git.io/vB7r7
+[2015/11/30 12:28:52] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93984794
+[2015/11/30 12:29:03] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93984605
+[2015/11/30 12:29:11] <Hume2> I forgot ci skip.
