@@ -13641,3 +13641,6 @@
 [2015/11/29 19:23:51] <Tobbi> head8debian: Currently, I am quite busy...
 [2015/11/29 19:24:11] <head8debian> Tobbi: Good.
 [2015/11/29 19:24:17] <head8debian> :D
+[2015/11/29 19:49:57] @ Quit: VargaD: Ping timeout: 260 seconds
+[2015/11/29 19:55:38] @ VargaD joined channel #supertux
+[2015/11/29 19:56:32] @ datahead8888__ is now known as datahead8888
