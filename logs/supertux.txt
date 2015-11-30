@@ -13630,3 +13630,7 @@
 [2015/11/29 18:52:25] @ Quit: Wuzzy: Quit: Wuzzy
 [2015/11/29 18:59:51] <head8debian> Tobbi: Dutch.
 [2015/11/29 19:00:00] <Tobbi> head8debian: Do you know Dutch?
+[2015/11/29 19:00:09] <Tobbi> You could help with localization... :P
+[2015/11/29 19:06:04] <head8debian> Tobbi: No i don't.
+[2015/11/29 19:06:15] <head8debian> Tobbi: Im part french also, but i know no french either.
+[2015/11/29 19:06:22] <Tobbi> head8debian: Do your parents know Dutch? They could help with that... :P
