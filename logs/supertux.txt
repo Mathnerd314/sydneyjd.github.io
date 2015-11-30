@@ -13713,3 +13713,8 @@
 [2015/11/30 10:57:26] <brmbrmcar> or utc-5
 [2015/11/30 10:57:43] @ Quit: irungentoo: Ping timeout: 247 seconds
 [2015/11/30 10:59:21] <brmbrmcar> All day I've had to wear a watch 63 minutes fast.
+[2015/11/30 11:00:46] <head8debian> :)
+[2015/11/30 11:01:30] <brmbrmcar> The button to change the time broke.
+[2015/11/30 11:01:43] <brmbrmcar> And it made school feel even slower.
+[2015/11/30 11:12:11] @ Tobbi joined channel #supertux
+[2015/11/30 11:12:11] @ Mode +o Tobbi by ChanServ
