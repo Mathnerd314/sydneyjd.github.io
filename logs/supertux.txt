@@ -13672,3 +13672,4 @@
 [2015/11/30 07:56:11] @ leyyin joined channel #supertux
 [2015/11/30 08:33:34] @ Tobbi joined channel #supertux
 [2015/11/30 08:33:35] @ Mode +o Tobbi by ChanServ
+[2015/11/30 08:47:00] @ Quit: irungentoo: Ping timeout: 262 seconds
