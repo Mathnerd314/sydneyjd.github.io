@@ -13856,3 +13856,6 @@
 [2015/11/30 12:37:22] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/93984794
 [2015/11/30 12:38:12] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
 [2015/11/30 12:39:53] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93984605
+[2015/11/30 12:51:00] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/93984794
+[2015/11/30 12:56:37] @ Quit: VargaD: Ping timeout: 260 seconds
+[2015/11/30 12:59:02] @ VargaD joined channel #supertux
