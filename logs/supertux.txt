@@ -13661,3 +13661,5 @@
 [2015/11/30 06:05:02] @ Quit: Yaiyan: Ping timeout: 245 seconds
 [2015/11/30 06:06:42] @ Yaiyan joined channel #supertux
 [2015/11/30 06:10:35] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/30 06:24:59] @ Tobbi joined channel #supertux
+[2015/11/30 06:25:00] @ Mode +o Tobbi by ChanServ
