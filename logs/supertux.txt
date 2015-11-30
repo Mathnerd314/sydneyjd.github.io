@@ -13862,3 +13862,9 @@
 [2015/11/30 13:08:24] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/11/30 13:14:28] @ Quit: datahead8888: Read error: Connection reset by peer
 [2015/11/30 13:14:46] @ datahead8888 joined channel #supertux
+[2015/11/30 13:22:31] @ Quit: datahead8888: Read error: Connection reset by peer
+[2015/11/30 13:23:51] @ datahead8888 joined channel #supertux
+[2015/11/30 13:25:38] @ Hume2 joined channel #supertux
+[2015/11/30 13:25:54] @ Tobbi joined channel #supertux
+[2015/11/30 13:25:54] @ Mode +o Tobbi by ChanServ
+[2015/11/30 13:26:53] <Tobbi> Thanks.
