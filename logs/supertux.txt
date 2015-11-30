@@ -13644,3 +13644,4 @@
 [2015/11/29 19:49:57] @ Quit: VargaD: Ping timeout: 260 seconds
 [2015/11/29 19:55:38] @ VargaD joined channel #supertux
 [2015/11/29 19:56:32] @ datahead8888__ is now known as datahead8888
+[2015/11/29 20:18:01] @ Quit: Tobbi: Remote host closed the connection
