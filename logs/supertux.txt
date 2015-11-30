@@ -13879,3 +13879,5 @@
 [2015/11/30 14:17:03] @ Quit: swift110: Changing host
 [2015/11/30 14:17:03] @ swift110 joined channel #supertux
 [2015/11/30 14:35:42] @ Wuzzy joined channel #supertux
+[2015/11/30 14:49:55] @ brmbrmcar joined channel #supertux
+[2015/11/30 14:58:31] @ xet7 joined channel #supertux
