@@ -13868,3 +13868,8 @@
 [2015/11/30 13:25:54] @ Tobbi joined channel #supertux
 [2015/11/30 13:25:54] @ Mode +o Tobbi by ChanServ
 [2015/11/30 13:26:53] <Tobbi> Thanks.
+[2015/11/30 13:35:43] @ claymore2 joined channel #supertux
+[2015/11/30 13:36:29] <Tobbi> wow, my firefox was suffering from high memory pressure.
+[2015/11/30 13:36:50] <Tobbi> All my 8 GB were used.
+[2015/11/30 13:39:33] @ Quit: Yaiyan: Ping timeout: 260 seconds
+[2015/11/30 13:42:49] @ Yaiyan joined channel #supertux
