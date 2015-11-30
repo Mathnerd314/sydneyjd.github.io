@@ -13694,3 +13694,7 @@
 [2015/11/30 10:11:41] <head8debian> Tobbi: I have had alot of issues with it lately.
 [2015/11/30 10:11:57] <Tobbi> delete the web cache, then?
 [2015/11/30 10:12:42] <head8debian> Tobbi: pretty much.
+[2015/11/30 10:36:54] @ Yaiyan joined channel #supertux
+[2015/11/30 10:37:03] @ brmbrmcar joined channel #supertux
+[2015/11/30 10:37:39] <brmbrmcar> More NetSplit...
+[2015/11/30 10:44:51] @ Quit: Tobbi: Remote host closed the connection
