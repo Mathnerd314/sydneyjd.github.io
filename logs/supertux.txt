@@ -13686,3 +13686,11 @@
 [2015/11/30 09:48:39] <red_bot> head8debian: pong
 [2015/11/30 09:49:53] <Tobbi> hmm
 [2015/11/30 09:54:18] @ VargaD joined channel #supertux
+[2015/11/30 10:07:15] <head8debian> Tobbi: Does pbs.org work for you?
+[2015/11/30 10:07:40] <Tobbi> head8debian: yes.
+[2015/11/30 10:08:20] <head8debian> Tobbi: Odd, im getting a timeout error.
+[2015/11/30 10:08:59] <Tobbi> head8debian: traceroute it?
+[2015/11/30 10:10:07] <head8debian> Tobbi: Must be my web cache getting in the way...
+[2015/11/30 10:11:41] <head8debian> Tobbi: I have had alot of issues with it lately.
+[2015/11/30 10:11:57] <Tobbi> delete the web cache, then?
+[2015/11/30 10:12:42] <head8debian> Tobbi: pretty much.
