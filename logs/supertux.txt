@@ -13645,3 +13645,5 @@
 [2015/11/29 19:55:38] @ VargaD joined channel #supertux
 [2015/11/29 19:56:32] @ datahead8888__ is now known as datahead8888
 [2015/11/29 20:18:01] @ Quit: Tobbi: Remote host closed the connection
+[2015/11/29 20:48:47] @ Quit: Yaiyan: Ping timeout: 245 seconds
+[2015/11/29 20:50:57] @ Yaiyan joined channel #supertux
