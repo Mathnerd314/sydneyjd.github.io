@@ -13718,3 +13718,15 @@
 [2015/11/30 11:01:43] <brmbrmcar> And it made school feel even slower.
 [2015/11/30 11:12:11] @ Tobbi joined channel #supertux
 [2015/11/30 11:12:11] @ Mode +o Tobbi by ChanServ
+[2015/11/30 11:24:40] <Tobbi> brmbrmcar: Just start bunking off and as an excuse tell them you woke up in the wrong timezone...
+[2015/11/30 11:24:55] <Tobbi> This worked for me....
+[2015/11/30 11:25:01] <Tobbi> ...actually, this never worked for me.
+[2015/11/30 11:25:03] <Tobbi> But it'll work for you.
+[2015/11/30 11:25:15] <brmbrmcar> Awesome!
+[2015/11/30 11:26:23] <brmbrmcar> So what watch do I use?
+[2015/11/30 11:27:14] <head8debian> I use one that my goats can chew on without breaking..
+[2015/11/30 11:27:22] <head8debian> And no im not joking.
+[2015/11/30 11:28:12] <brmbrmcar> Google think that 6 year olds are VERY dumb...
+[2015/11/30 11:29:44] <head8debian> Tobbi: AhaH, brmbrmcar must be 6. ;D
+[2015/11/30 11:29:52] <Tobbi> head8debian: He is not.
+[2015/11/30 11:29:57] <Tobbi> He's too smart for that.
