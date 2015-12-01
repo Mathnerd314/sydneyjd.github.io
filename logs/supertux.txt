@@ -14072,3 +14072,19 @@
 [2015/12/01 12:12:34] <Tobbi> Hume2: Those aren't in Bonus Island 3?
 [2015/12/01 12:12:53] <Hume2> Tobbi: No, they aren't. I don't know why.
 [2015/12/01 12:13:03] <Tobbi> Okay, then it's good!
+[2015/12/01 12:20:03] <Tobbi> Hume2: Behind the glaciers definitely is in bonus island 3.
+[2015/12/01 12:21:45] <Hume2> Tobbi: How i couldn't notice that? You're right.
+[2015/12/01 12:22:21] <Hume2> Maybe because I thought that "Behind the glaciers" can't be "Po ledovcích".
+[2015/12/01 12:23:02] <Tobbi> Hume2: Issue with the Czech translation?
+[2015/12/01 12:23:06] <Tobbi> Fix it on tx then.
+[2015/12/01 12:23:19] <Hume2> Tobbi: I like this translation.
+[2015/12/01 12:23:31] <Tobbi> ok
+[2015/12/01 12:23:34] <Hume2> It's not exact, but suitable.
+[2015/12/01 12:25:00] <Tobbi> Hume2: Could you try downloading the Czech translation file for world1, then put it in the right place and see if the dialogue between penny and tux gets translated?
+[2015/12/01 12:25:03] <Tobbi> Just want to make sure that it does
+[2015/12/01 12:25:43] <Tobbi> then of course reset your index to HEAD
+[2015/12/01 12:26:11] <Hume2> Tobbi: How do I download it?
+[2015/12/01 12:28:44] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-1/±1] 13http://git.io/vBjEI
+[2015/12/01 12:28:45] <Not-e81f> [02supertux] 07Hume2 0373f4bec - Deleted the level "After the Glaciers" from Incubator, because it is already in Bonus 3.
+[2015/12/01 12:29:53] <Hume2> Tobbi: Got it.
+[2015/12/01 12:29:56] <Tobbi> ok.
