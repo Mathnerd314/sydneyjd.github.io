@@ -14260,3 +14260,9 @@
 [2015/12/01 17:01:18] <Tobbi> This really isn't the best thing to do.
 [2015/12/01 17:09:59] @ Drangue is now known as alket
 [2015/12/01 17:11:18] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/01 17:17:39] <maths22> Quick quesiton if anyone is online: should development/not-development mode be based on the version number or the build type?
+[2015/12/01 17:18:07] <maths22> (i.e. if it is a release number [0.4.0] disable development stuff)
+[2015/12/01 17:18:30] <maths22> Actually, don't worry about this for now
+[2015/12/01 17:19:34] * jesusalva didn't understood anything, but he thinks he is a layman and therefore resumes his game.
+[2015/12/01 17:28:52] @ Tobbi joined channel #supertux
+[2015/12/01 17:28:52] @ Mode +o Tobbi by ChanServ
