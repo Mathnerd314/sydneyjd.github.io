@@ -14237,3 +14237,4 @@
 [2015/12/01 14:03:24] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/12/01 14:30:34] @ Quit: Yaiyan: Ping timeout: 260 seconds
 [2015/12/01 14:31:34] @ Yaiyan joined channel #supertux
+[2015/12/01 15:17:21] @ tux|dude joined channel #supertux
