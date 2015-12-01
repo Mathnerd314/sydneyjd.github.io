@@ -14268,3 +14268,38 @@
 [2015/12/01 17:28:52] @ Mode +o Tobbi by ChanServ
 [2015/12/01 17:38:22] @ Quit: claymore2: Quit: Leaving
 [2015/12/01 17:53:33] @ Quit: alket: Quit: Good Night :)
+[2015/12/01 18:00:13] <head8debian> Good evening Tobbi and jesusalva and the rest of the team.
+[2015/12/01 18:00:27] <Tobbi> hello head8debian, may the schwartz be with you.
+[2015/12/01 18:00:28] <head8debian> Tobbi: I just realized i have a party to go to the day of our release.
+[2015/12/01 18:00:38] <head8debian> Tobbi: What kind of brand is that?
+[2015/12/01 18:00:53] <Tobbi> head8debian: Just a reference to Spaceballs.
+[2015/12/01 18:00:59] <head8debian> Tobbi: So, could we get this release done early? I guess i could try to get up early/
+[2015/12/01 18:01:08] <head8debian> I did say *try*.
+[2015/12/01 18:01:11] <Tobbi> head8debian: What's early for you?
+[2015/12/01 18:04:29] <Tobbi> head8debian: what time is it now, how many hours are you ahead of me?
+[2015/12/01 18:05:09] <head8debian> Tobbi: Its 18:00 here. Early would be 6:00 for me... i'd have about an hour and a half to help before having to go out.
+[2015/12/01 18:05:28] <Tobbi> So, that would be noon for me, right?
+[2015/12/01 18:05:36] <head8debian> Uhm, would it?
+[2015/12/01 18:05:49] <Tobbi> head8debian: it's midnight for me right now
+[2015/12/01 18:06:05] <head8debian> Tobbi: Then it would be.
+[2015/12/01 18:06:34] <Tobbi> head8debian: We certainly could do the release at noon.
+[2015/12/01 18:06:44] <Tobbi> head8debian: We should create a release planning task list.
+[2015/12/01 18:07:11] <Tobbi> Make sure we don't forget stuff.
+[2015/12/01 18:07:53] <head8debian> Tobbi: Good idea
+[2015/12/01 18:08:02] <Tobbi> head8debian: Shall I create an issue?
+[2015/12/01 18:08:17] <head8debian> Tobbi: I should be able to get up at that time as long as my family doesn't hear me....
+[2015/12/01 18:08:19] <head8debian> Tobbi: Sure.
+[2015/12/01 18:08:33] <Tobbi> head8debian: When do you normally get up?
+[2015/12/01 18:09:26] <head8debian> Tobbi: 7:30, but then im not available untill rightly 10:00
+[2015/12/01 18:09:29] <head8debian> roughly*
+[2015/12/01 18:09:40] <head8debian> Tobbi: And i will have from 10:00 to 12:00 open.
+[2015/12/01 18:10:05] <Tobbi> Hmm... 10am...is 4pm here...
+[2015/12/01 18:10:07] <Tobbi> So, maybe...
+[2015/12/01 18:11:43] <head8debian> Tobbi: Whatever you want to do. I don't really like getting up early...
+[2015/12/01 18:11:54] <Tobbi> head8debian: So, let's target 4pm
+[2015/12/01 18:11:58] <Tobbi> Leaves us more time...
+[2015/12/01 18:12:10] <Tobbi> 10am for you.
+[2015/12/01 18:12:54] <head8debian> Tobbi: Ok.
+[2015/12/01 18:12:57] <Tobbi> Good.
+[2015/12/01 18:13:01] <Tobbi> And it's a sunday...
+[2015/12/01 18:13:57] <head8debian> :-)
