@@ -14218,3 +14218,14 @@
 [2015/12/01 13:24:34] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±10] 13http://git.io/vBjFC
 [2015/12/01 13:24:35] <Not-e81f> [02supertux] 07Hume2 035b7313d - Added paralax backgrounds to some Bonus Island 3 levels
 [2015/12/01 13:29:45] <Hume2> Adding those paralax backgrounds went quite fast.
+[2015/12/01 13:30:21] <Hume2> It's not done completely though.
+[2015/12/01 13:30:44] <Icefoxfireho21> could you show some screenshots?
+[2015/12/01 13:32:40] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2015/12/01 13:32:51] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/01 13:33:06] <Hume2> Icefoxfireho21: http://imgur.com/73npVbR
+[2015/12/01 13:33:07] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/12/01 13:34:09] @ Drangue joined channel #supertux
+[2015/12/01 13:34:25] @ Quit: alket: Disconnected by services
+[2015/12/01 13:34:28] @ Drangue is now known as alket
+[2015/12/01 13:36:05] <Icefoxfireho21> its preety good
+[2015/12/01 13:36:23] <Hume2> Thanks.
