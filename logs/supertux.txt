@@ -14266,3 +14266,4 @@
 [2015/12/01 17:19:34] * jesusalva didn't understood anything, but he thinks he is a layman and therefore resumes his game.
 [2015/12/01 17:28:52] @ Tobbi joined channel #supertux
 [2015/12/01 17:28:52] @ Mode +o Tobbi by ChanServ
+[2015/12/01 17:38:22] @ Quit: claymore2: Quit: Leaving
