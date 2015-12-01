@@ -14060,3 +14060,15 @@
 [2015/12/01 11:49:55] @ Karkus joined channel #supertux
 [2015/12/01 11:56:45] <Tobbi> brmbrmcar: Can you please stop messing with us? I know some of you might not seem to be very smart... But for fucks sake, stop pretending you are 0 alright? I can understand that you don't want to tell us your age, but pretending you're 0 is just getting on my nerves.
 [2015/12/01 11:57:06] <Tobbi> I have even stopped pretending not knowing anything about computers...
+[2015/12/01 12:06:24] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/12/01 12:08:40] <Tobbi> I added http://forum.freegamedev.net/viewtopic.php?f=68&t=6658
+[2015/12/01 12:08:46] <Tobbi> Also, I meant "some of us"
+[2015/12/01 12:10:52] @ Quit: grumbel: Quit: Ex-Chat
+[2015/12/01 12:11:35] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+2/-0/±1] 13http://git.io/vBjOw
+[2015/12/01 12:11:35] <Not-e81f> [02supertux] 07Hume2 03f8275cf - Added two next levels to Incubator Island
+[2015/12/01 12:12:03] <Hume2> Tobbi: I found two levels on the forum, so I put them to Incubator island.
+[2015/12/01 12:12:09] <Tobbi> Hume2: Which ones?
+[2015/12/01 12:12:13] <Tobbi> Oh, anyway.
+[2015/12/01 12:12:34] <Tobbi> Hume2: Those aren't in Bonus Island 3?
+[2015/12/01 12:12:53] <Hume2> Tobbi: No, they aren't. I don't know why.
+[2015/12/01 12:13:03] <Tobbi> Okay, then it's good!
