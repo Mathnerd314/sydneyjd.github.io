@@ -13935,3 +13935,5 @@
 [2015/12/01 08:26:57] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94156990
 [2015/12/01 08:49:14] @ jesusalva joined channel #supertux
 [2015/12/01 08:52:18] <Not-e81f> [02supertux] 07tobbi commented on issue 03#242: Sprites from pre_git_bugtracker_worldmap - 13http://git.io/vBpfK
+[2015/12/01 09:03:49] @ grumbel joined channel #supertux
+[2015/12/01 09:03:49] @ Mode +o grumbel by ChanServ
