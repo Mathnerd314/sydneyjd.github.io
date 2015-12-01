@@ -14054,3 +14054,9 @@
 [2015/12/01 11:38:18] @ Hume2 joined channel #supertux
 [2015/12/01 11:39:33] <brmbrmcar> And Google aren't as lazy as last year...
 [2015/12/01 11:42:55] <Hume2> brmbrmcar: They do something useful?
+[2015/12/01 11:45:32] <brmbrmcar> Well...
+[2015/12/01 11:46:11] <brmbrmcar> Last year they under-estimated the intelligence of 6 year olds.
+[2015/12/01 11:46:38] <brmbrmcar> But this time, they have knocked stuff off the servers.
+[2015/12/01 11:49:55] @ Karkus joined channel #supertux
+[2015/12/01 11:56:45] <Tobbi> brmbrmcar: Can you please stop messing with us? I know some of you might not seem to be very smart... But for fucks sake, stop pretending you are 0 alright? I can understand that you don't want to tell us your age, but pretending you're 0 is just getting on my nerves.
+[2015/12/01 11:57:06] <Tobbi> I have even stopped pretending not knowing anything about computers...
