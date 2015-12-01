@@ -14033,3 +14033,15 @@
 [2015/12/01 11:03:10] <Tobbi> Shut up and cut with me.
 [2015/12/01 11:03:48] <brmbrmcar> Cut what?
 [2015/12/01 11:14:45] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/01 11:16:19] <brmbrmcar> The connection?
+[2015/12/01 11:22:58] @ Tobbi joined channel #supertux
+[2015/12/01 11:22:58] @ Mode +o Tobbi by ChanServ
+[2015/12/01 11:23:32] <Tobbi> brmbrmcar: "Cut my body"
+[2015/12/01 11:23:33] <Tobbi> :D
+[2015/12/01 11:24:16] @ alket joined channel #supertux
+[2015/12/01 11:25:29] <brmbrmcar> No.
+[2015/12/01 11:25:55] <brmbrmcar> Cut this computer.
+[2015/12/01 11:26:35] <Tobbi> brmbrmcar: But that wouldn't fit in with the "Jesus with an axe" kind of thing.
+[2015/12/01 11:26:47] <brmbrmcar> Aww.
+[2015/12/01 11:27:27] <brmbrmcar> What year was Jesus really born?
+[2015/12/01 11:27:33] <brmbrmcar> Don't say 0.
