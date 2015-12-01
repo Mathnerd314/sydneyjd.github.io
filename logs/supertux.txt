@@ -14233,3 +14233,5 @@
 [2015/12/01 13:50:47] @ mt joined channel #supertux
 [2015/12/01 13:52:54] @ claymore2 joined channel #supertux
 [2015/12/01 13:55:46] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2015/12/01 14:01:46] @ Quit: Icefoxfireho21: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2015/12/01 14:03:24] @ Quit: brmbrmcar: Quit: brmbrmquit
