@@ -13931,3 +13931,5 @@
 [2015/12/01 08:14:28] <Not-e81f> [02supertux] 07Tobias Markus 03b9d76a2 - Make get_renderer and get_lightmap const
 [2015/12/01 08:14:30] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94156990
 [2015/12/01 08:14:39] @ irungentoo joined channel #supertux
+[2015/12/01 08:15:29] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94156990
+[2015/12/01 08:26:57] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94156990
