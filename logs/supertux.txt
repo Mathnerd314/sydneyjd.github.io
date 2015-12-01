@@ -13899,3 +13899,9 @@
 [2015/11/30 18:12:13] @ paroneayea joined channel #supertux
 [2015/11/30 19:04:57] @ Quit: Wuzzy: Quit: Wuzzy
 [2015/11/30 21:01:01] @ Quit: swift110: Ping timeout: 260 seconds
+[2015/11/30 21:30:10] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±2] 13http://git.io/vBF74
+[2015/11/30 21:30:11] <Not-e81f> [02supertux] 07Tobias Markus 03ccc44e0 - Make a few methods inside endsequence const
+[2015/11/30 21:30:13] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94079905
+[2015/11/30 21:31:09] <head8debian> Your still up!?
+[2015/11/30 21:31:15] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94079905
+[2015/11/30 21:41:53] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94079905
