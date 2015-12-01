@@ -14138,3 +14138,47 @@
 [2015/12/01 12:59:33] <brmbrmcar> Yes.
 [2015/12/01 12:59:41] <mt> Why?
 [2015/12/01 12:59:52] <mt> (it shouldn't)
+[2015/12/01 13:00:05] <brmbrmcar> It feels so unnatural.
+[2015/12/01 13:00:20] <brmbrmcar> And the bots have such wierd names.
+[2015/12/01 13:00:39] <mt> they have to so that noone steals their names
+[2015/12/01 13:00:44] <Tobbi> brmbrmcar: OCD or Autism?
+[2015/12/01 13:01:04] @ brmbrmcar is now known as Not-6fa5
+[2015/12/01 13:01:11] <mt> the existence of these bots, however, may and should disturb you: http://107.170.17.75/spying/spying.txt ((c) KindOne)
+[2015/12/01 13:01:13] <Not-6fa5> I am old Notifico!
+[2015/12/01 13:01:25] @ Not-6fa5 has been kicked from #supertux by Tobbi (No one likes that!)
+[2015/12/01 13:02:07] @ brmbrmcar joined channel #supertux
+[2015/12/01 13:02:15] <brmbrmcar> I could see that coming...
+[2015/12/01 13:02:28] <Tobbi> brmbrmcar: You should've.
+[2015/12/01 13:02:59] <brmbrmcar> mt: Yeah.
+[2015/12/01 13:03:12] <brmbrmcar> And that is why I don't approve of Notifico.
+[2015/12/01 13:03:47] <mt> The thing is, Notifico's source code is available, the code of those bots isn't
+[2015/12/01 13:04:06] <brmbrmcar> Hmmm...
+[2015/12/01 13:04:37] <brmbrmcar> I mean, I do trust Notifico is genuine, but that could be a trap elsewhere.
+[2015/12/01 13:05:11] <brmbrmcar> So where is the source?
+[2015/12/01 13:05:32] <mt> https://github.com/notifico/notifico
+[2015/12/01 13:05:53] <Tobbi> Translating "Graveyard Shift" as "Nachtschicht" in the Halloween levels make them sound a lot less scary :D
+[2015/12/01 13:06:48] <brmbrmcar> Why is everything on GitHub?
+[2015/12/01 13:07:00] <Tobbi> Because github is the best...
+[2015/12/01 13:07:13] <mt> Because nobody wants to use MS CodePlex
+[2015/12/01 13:07:20] <Tobbi> ...or google code.
+[2015/12/01 13:07:25] <Tobbi> Oh, wait that doesn't exist anymore.
+[2015/12/01 13:07:27] <Tobbi> :P
+[2015/12/01 13:07:38] <mt> and people are just starting to use GitLab(.com| CE| EE)
+[2015/12/01 13:08:31] <brmbrmcar> Makeyour own site for it. :D
+[2015/12/01 13:09:06] <mt> tbh I'd probably use GitLab CE for self-hosting
+[2015/12/01 13:09:43] <brmbrmcar> GitHub charges people for stuff!
+[2015/12/01 13:10:21] <mt> then use GitLab.com, afaik they don't have priced services yet
+[2015/12/01 13:12:23] <brmbrmcar> Yeah, but...
+[2015/12/01 13:12:32] <brmbrmcar> I want my own git site!
+[2015/12/01 13:12:41] <mt> then get a VPS or a dedi
+[2015/12/01 13:12:51] <mt> and host GitLab CE on it
+[2015/12/01 13:13:12] <mt> or simply the C-based gitweb
+[2015/12/01 13:13:26] <mt> or Gogs
+[2015/12/01 13:13:40] <brmbrmcar> Not GitHub!
+[2015/12/01 13:13:45] <brmbrmcar> Or GitLab!
+[2015/12/01 13:14:04] <mt> GitLab CE is open-source, fwiw
+[2015/12/01 13:14:15] <brmbrmcar> GitHub is not.
+[2015/12/01 13:14:32] <Tobbi> mt: Is Gitlab CE better than gogs in terms of resource usage?
+[2015/12/01 13:14:35] <brmbrmcar> As far as I know of.
+[2015/12/01 13:14:36] <Tobbi> Can it run on a rbp
+[2015/12/01 13:15:00] <mt> dunno
