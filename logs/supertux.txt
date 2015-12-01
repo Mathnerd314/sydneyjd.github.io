@@ -14109,3 +14109,32 @@
 [2015/12/01 12:43:14] <Tobbi> ok.
 [2015/12/01 12:43:49] <Hume2> ...well, not now in some cases. Some levels needs to resize before-
 [2015/12/01 12:44:51] * jesusalva will look in translations later... remind him. (at unease)
+[2015/12/01 12:46:11] <brmbrmcar> When is unease?
+[2015/12/01 12:46:30] @ Quit: tuxdev_: Ping timeout: 260 seconds
+[2015/12/01 12:47:06] <jesusalva> After disease.
+[2015/12/01 12:47:16] <brmbrmcar> When is disease?
+[2015/12/01 12:48:35] @ GitHub166 joined channel #supertux
+[2015/12/01 12:48:35] -GitHub166- [13flexlay] 15Karkus476 pushed 1 new commit to 06develop: 02http://git.io/vBjom
+[2015/12/01 12:48:35] -GitHub166- 13flexlay/06develop 14fa45a8e 15Karkus: Makes Decals display correctly...
+[2015/12/01 12:48:35] @ GitHub166 left channel #supertux ()
+[2015/12/01 12:49:29] * brmbrmcar runs whois GitHub166
+[2015/12/01 12:52:19] <Tobbi> Hume2: Could you change the melting sound to the ice melting sound? instead of the jumping in water sound?
+[2015/12/01 12:54:06] <Tobbi> Interesting.
+[2015/12/01 12:55:57] <mt> fyi, I could set you notifico up for the flexlay repo
+[2015/12/01 12:56:18] <mt> but since I'm not admin anymore I can't add it to github's hooks
+[2015/12/01 12:56:19] <Hume2> Tobbi: will do.
+[2015/12/01 12:56:27] <brmbrmcar> Notifico is annoying.
+[2015/12/01 12:56:39] <mt> why?
+[2015/12/01 12:56:49] <mt> github-bot is more annoying
+[2015/12/01 12:56:56] <mt> since it doesn't stay in the channel
+[2015/12/01 12:57:24] <Tobbi> Karkus: Can you make decals show properties?
+[2015/12/01 12:57:36] <Tobbi> Also, we should change the icon...
+[2015/12/01 12:57:40] <Tobbi> of the editor I mean.
+[2015/12/01 12:58:17] <brmbrmcar> github-bot is fine.
+[2015/12/01 12:58:26] <brmbrmcar> It desn't hang around.
+[2015/12/01 12:58:37] <Tobbi> Karkus: Actually, let me create issues...
+[2015/12/01 12:58:39] <Tobbi> :D
+[2015/12/01 12:59:07] <mt> brmbrmcar: does the existence of notifico disturb you?
+[2015/12/01 12:59:33] <brmbrmcar> Yes.
+[2015/12/01 12:59:41] <mt> Why?
+[2015/12/01 12:59:52] <mt> (it shouldn't)
