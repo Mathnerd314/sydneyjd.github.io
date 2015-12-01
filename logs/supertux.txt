@@ -13897,3 +13897,4 @@
 [2015/11/30 18:07:43] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2015/11/30 18:11:09] @ Quit: leper`: Ping timeout: 240 seconds
 [2015/11/30 18:12:13] @ paroneayea joined channel #supertux
+[2015/11/30 19:04:57] @ Quit: Wuzzy: Quit: Wuzzy
