@@ -14088,3 +14088,24 @@
 [2015/12/01 12:28:45] <Not-e81f> [02supertux] 07Hume2 0373f4bec - Deleted the level "After the Glaciers" from Incubator, because it is already in Bonus 3.
 [2015/12/01 12:29:53] <Hume2> Tobbi: Got it.
 [2015/12/01 12:29:56] <Tobbi> ok.
+[2015/12/01 12:33:47] @ Quit: jesusalva: Quit: Good bye, God bless you.
+[2015/12/01 12:34:09] @ jesusalva joined channel #supertux
+[2015/12/01 12:35:22] @ brmbrmcar joined channel #supertux
+[2015/12/01 12:37:51] @ Quit: jesusalva: Client Quit
+[2015/12/01 12:38:23] @ jesusalva joined channel #supertux
+[2015/12/01 12:40:11] <Hume2> Tobbi: It works!
+[2015/12/01 12:40:19] <Tobbi> Hume2: Great!
+[2015/12/01 12:40:23] <Tobbi> So that's covered.
+[2015/12/01 12:40:45] <Tobbi> Hume2: I just hope that we can get enough translators until the release in 3 weeks.
+[2015/12/01 12:41:01] <Not-e81f> [02supertux] 07Hume2 pushed 033 commits to 03incubator [+85/-34/±0] 13http://git.io/vBjay
+[2015/12/01 12:41:02] <Tobbi> I mean: menu, world 1 and 2 and the bonus levels are the most important ones.
+[2015/12/01 12:41:02] <Not-e81f> [02supertux] 07Hume2 03b67ebe1 - Added sprites from pre_git_bugtracker_worldmap
+[2015/12/01 12:41:04] <Not-e81f> [02supertux] 07Hume2 03df1e0ff - Deleted some svn crap
+[2015/12/01 12:41:05] <Not-e81f> [02supertux] 07Hume2 0352863cd - Reorganizad a bit
+[2015/12/01 12:41:07] <Not-e81f> [02supertux] 07Hume2 synchronize pull request 03#242: Sprites from pre_git_bugtracker_worldmap - 13http://git.io/vB7r7
+[2015/12/01 12:41:29] <Hume2> Tobbi: Good luck :D
+[2015/12/01 12:41:36] <Tobbi> hah, thanks.
+[2015/12/01 12:42:26] <Hume2> I noticed that some levels still don't have paralax backgrounds... will fix now.
+[2015/12/01 12:43:14] <Tobbi> ok.
+[2015/12/01 12:43:49] <Hume2> ...well, not now in some cases. Some levels needs to resize before-
+[2015/12/01 12:44:51] * jesusalva will look in translations later... remind him. (at unease)
