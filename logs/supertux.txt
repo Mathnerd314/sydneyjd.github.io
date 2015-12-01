@@ -13911,3 +13911,7 @@
 [2015/11/30 22:23:59] @ paroneayea joined channel #supertux
 [2015/11/30 22:38:56] @ bb010g joined channel #supertux
 [2015/11/30 23:08:22] <Not-e81f> [02supertux] 07jayramafisher forked the repository - 13http://git.io/vBb3R
+[2015/12/01 01:04:35] @ tux|dude joined channel #supertux
+[2015/12/01 01:06:49] @ tuxdev_ joined channel #supertux
+[2015/12/01 01:06:49] @ Quit: tuxdev_: Changing host
+[2015/12/01 01:06:49] @ tuxdev_ joined channel #supertux
