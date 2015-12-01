@@ -13907,3 +13907,5 @@
 [2015/11/30 21:41:53] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94079905
 [2015/11/30 21:55:36] @ leper` joined channel #supertux
 [2015/11/30 22:07:50] @ Quit: irungentoo: Quit: Leaving
+[2015/11/30 22:23:29] @ Quit: paroneayea: Read error: Connection reset by peer
+[2015/11/30 22:23:59] @ paroneayea joined channel #supertux
