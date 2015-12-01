@@ -13958,3 +13958,4 @@
 [2015/12/01 09:40:17] <jesusalva> see you
 [2015/12/01 09:42:26] <jesusalva> There is at least 10 resources incomplete. Last time I logged in TX completion rate was... 100%?
 [2015/12/01 09:44:28] @ Quit: Tobbi: Ping timeout: 250 seconds
+[2015/12/01 09:48:13] <jesusalva> 'Atarctica' is annoying to translate. Half translated as 'antartiDa', half as 'antartiCa'. And the most annoying part? Both are correct. :/
