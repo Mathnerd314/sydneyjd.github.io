@@ -13921,3 +13921,6 @@
 [2015/12/01 02:54:05] @ Quit: tuxdev_: Ping timeout: 250 seconds
 [2015/12/01 03:42:16] @ tuxdude143 joined channel #supertux
 [2015/12/01 03:44:22] @ Quit: tux|dude: Ping timeout: 250 seconds
+[2015/12/01 04:19:54] @ Quit: tuxdude143: Ping timeout: 250 seconds
+[2015/12/01 04:26:05] @ lol__ joined channel #supertux
+[2015/12/01 04:26:21] @ lol__ left channel #supertux ()
