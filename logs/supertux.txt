@@ -13966,3 +13966,18 @@
 [2015/12/01 10:27:16] @ Mode +o Tobbi by ChanServ
 [2015/12/01 10:29:38] <Tobbi> head8debian It's 4pm...
 [2015/12/01 10:29:42] <Tobbi> You can't be tired
+[2015/12/01 10:36:24] @ brmbrmcar joined channel #supertux
+[2015/12/01 10:37:38] <brmbrmcar> 4PM by you.
+[2015/12/01 10:37:43] <brmbrmcar> Or 1600.
+[2015/12/01 10:39:54] <Tobbi> brmbrmcar: You got nothing else to do than checking the logs right?
+[2015/12/01 10:41:03] <brmbrmcar> No.
+[2015/12/01 10:41:16] <brmbrmcar> I just looked at them
+[2015/12/01 10:41:50] @ tuxdev_ joined channel #supertux
+[2015/12/01 10:42:06] <head8debian> Tobbi: Its 10:30 AM...
+[2015/12/01 10:42:18] <Tobbi> head8debian: I woke up at that time.
+[2015/12/01 10:43:09] <brmbrmcar> I like waking up as early as possible.
+[2015/12/01 10:43:22] <Tobbi> head8debian: https://www.youtube.com/watch?v=6NGEqbXX_Pc
+[2015/12/01 10:44:12] <head8debian> Tobbi: No videos...
+[2015/12/01 10:44:35] <brmbrmcar> I hate that version!
+[2015/12/01 10:44:48] <brmbrmcar> In fact, I hate all Christmas music!
+[2015/12/01 10:44:53] <Tobbi> head8debian: http://mp3xl.net/song/shakin_stevens_merry_christmas_everyone/
