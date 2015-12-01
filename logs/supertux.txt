@@ -14229,3 +14229,7 @@
 [2015/12/01 13:34:28] @ Drangue is now known as alket
 [2015/12/01 13:36:05] <Icefoxfireho21> its preety good
 [2015/12/01 13:36:23] <Hume2> Thanks.
+[2015/12/01 13:49:11] @ Quit: mt: Quit: ZNC 1.7.x-git-483-69b031c - http://znc.in
+[2015/12/01 13:50:47] @ mt joined channel #supertux
+[2015/12/01 13:52:54] @ claymore2 joined channel #supertux
+[2015/12/01 13:55:46] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
