@@ -14243,3 +14243,8 @@
 [2015/12/01 16:06:30] <Tobbi> hello, again.
 [2015/12/01 16:11:50] @ brmbrmcar joined channel #supertux
 [2015/12/01 16:24:41] @ Quit: brmbrmcar: Quit: Lost terminal
+[2015/12/01 16:32:39] @ bb010g joined channel #supertux
+[2015/12/01 16:35:16] @ Quit: alket: Ping timeout: 250 seconds
+[2015/12/01 16:35:18] @ Drangue joined channel #supertux
+[2015/12/01 16:37:08] @ Quit: Karkus: Ping timeout: 245 seconds
+[2015/12/01 16:37:51] @ Karkus joined channel #supertux
