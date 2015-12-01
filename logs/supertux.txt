@@ -13940,3 +13940,21 @@
 [2015/12/01 09:28:11] @ Tobbi joined channel #supertux
 [2015/12/01 09:28:11] @ Mode +o Tobbi by ChanServ
 [2015/12/01 09:28:23] <Tobbi> Hello.
+[2015/12/01 09:34:42] @ Quit: Tobbi: Ping timeout: 260 seconds
+[2015/12/01 09:35:35] @ Tobbi joined channel #supertux
+[2015/12/01 09:35:35] @ Mode +o Tobbi by ChanServ
+[2015/12/01 09:36:54] <jesusalva> Hi Tobbi
+[2015/12/01 09:37:01] <Tobbi> Hey, jesusalva.
+[2015/12/01 09:38:15] <Tobbi> jesusalva: Can you help with l10n for <insert language that you speak here>?
+[2015/12/01 09:38:31] <jesusalva> insert language that you speak here>?
+[2015/12/01 09:38:40] * jesusalva is confused
+[2015/12/01 09:38:48] <jesusalva> I am a pt-BR translator. :/
+[2015/12/01 09:38:48] <Tobbi> jesusalva: Do you speak a foreign language?
+[2015/12/01 09:38:54] <Tobbi> jesusalva: Oh, you are, great!
+[2015/12/01 09:39:01] <Tobbi> jesusalva: How's that coming?
+[2015/12/01 09:39:49] <jesusalva> There's some time I don't visit transifex. Been busy lately, last week to deliver works and etc, you know how that is
+[2015/12/01 09:40:06] <Tobbi> jesusalva: Yes, indeed, I do.
+[2015/12/01 09:40:10] <Tobbi> brb
+[2015/12/01 09:40:17] <jesusalva> see you
+[2015/12/01 09:42:26] <jesusalva> There is at least 10 resources incomplete. Last time I logged in TX completion rate was... 100%?
+[2015/12/01 09:44:28] @ Quit: Tobbi: Ping timeout: 250 seconds
