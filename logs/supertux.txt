@@ -13919,3 +13919,5 @@
 [2015/12/01 02:36:08] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+10/-0/±1] 13http://git.io/vBNI8
 [2015/12/01 02:36:08] <Not-e81f> [02supertux] 07Hume2 0302ec590 - Added some levels to Incubator Island
 [2015/12/01 02:54:05] @ Quit: tuxdev_: Ping timeout: 250 seconds
+[2015/12/01 03:42:16] @ tuxdude143 joined channel #supertux
+[2015/12/01 03:44:22] @ Quit: tux|dude: Ping timeout: 250 seconds
