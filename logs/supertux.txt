@@ -14322,3 +14322,28 @@
 [2015/12/01 18:29:26] <Tobbi> maths22: Okay, sounds good.
 [2015/12/01 18:29:27] <maths22> Folders have also been re-named to just "SuperTux"
 [2015/12/01 18:29:29] <Tobbi> I don't really mind.
+[2015/12/01 18:30:02] <maths22> I have also updated the numbering scheme (so the lastest version is actually 0.3.5.447)
+[2015/12/01 18:30:13] <Tobbi> I'm so damn happy when this release is out of the door...
+[2015/12/01 18:30:24] <Tobbi> maths22: 1 patch number for each commit since 0.3.5?
+[2015/12/01 18:30:34] <maths22> Tobbi: yep.  Git describe
+[2015/12/01 18:30:38] <Tobbi> Ah!
+[2015/12/01 18:31:26] <maths22> The window heading has "v0.3.5-447-g58285e5"
+[2015/12/01 18:31:50] <Tobbi> maths22: But should have 0.4.0 as soon as that's out the door, right? aka, properly tagged...
+[2015/12/01 18:32:30] <Tobbi> maths22: Is there anything else I might have forgotten on that release list?
+[2015/12/01 18:32:33] <maths22> Tobbi: exactly.  It relies on the git tag to get a version number
+[2015/12/01 18:33:03] <maths22> I don't think so.  I'm going to try to get builds working very soon
+[2015/12/01 18:34:13] <Tobbi> ok
+[2015/12/01 18:34:46] <maths22> And my changes break travis.  Fixing... (This is why it went on its own branch)
+[2015/12/01 18:37:02] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03windows [+0/-0/±1] 13http://git.io/vRv7d
+[2015/12/01 18:37:04] <Not-e81f> [02supertux] 07Jacob Burroughs 03073e73a - Allow for version history to be accessible
+[2015/12/01 18:37:06] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94289520
+[2015/12/01 18:38:02] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/94288052
+[2015/12/01 18:38:03] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94289520
+[2015/12/01 18:40:15] <Tobbi> maths22: I believe we should get a test build out on Sunday or so... make sure that there are no critical bugs...
+[2015/12/01 18:41:09] <maths22> Tobbi: Will do
+[2015/12/01 18:41:14] <Tobbi> Thanks.
+[2015/12/01 18:41:32] <maths22> I will try to get Windows (with appveyor) running tonight
+[2015/12/01 18:41:47] <Tobbi> great.
+[2015/12/01 18:43:50] <Tobbi> maths22: Can the changes in the windows branch be integrated with the main branch?
+[2015/12/01 18:44:27] <maths22> Tobbi: Once I make sure that linux still builds cleanly on Travis, sure
+[2015/12/01 18:44:32] <Tobbi> Okay.
