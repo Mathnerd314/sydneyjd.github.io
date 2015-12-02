@@ -14670,3 +14670,11 @@
 [2015/12/02 08:12:52] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94393125
 [2015/12/02 08:14:23] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/18
 [2015/12/02 08:26:56] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94393125
+[2015/12/02 09:03:46] * head8debian yawns...
+[2015/12/02 09:03:54] <head8debian> Good morning all.
+[2015/12/02 09:07:16] <maths22> head8debian: Good morning
+[2015/12/02 09:14:46] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vRkWJ
+[2015/12/02 09:14:47] <Not-e81f> [02supertux] 07Jacob Burroughs 03a3a580a - Corrected badge to use master
+[2015/12/02 09:14:49] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94404713
+[2015/12/02 09:14:50] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/19
+[2015/12/02 09:14:57] <maths22> And I forgot [ci skip] :(
