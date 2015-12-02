@@ -14906,3 +14906,11 @@
 [2015/12/02 13:43:36] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
 [2015/12/02 13:44:09] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94465210
 [2015/12/02 13:45:00] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94465210
+[2015/12/02 13:48:26] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/12/02 13:52:20] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94465210
+[2015/12/02 13:55:50] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/21
+[2015/12/02 13:58:23] @ vpx joined channel #supertux
+[2015/12/02 13:58:31] @ Tobbi joined channel #supertux
+[2015/12/02 13:58:31] @ Mode +o Tobbi by ChanServ
+[2015/12/02 13:59:47] <Tobbi> I don't normally like when people talk behind my back or the equivalent on IRC.
+[2015/12/02 13:59:56] <Tobbi> That's rude.
