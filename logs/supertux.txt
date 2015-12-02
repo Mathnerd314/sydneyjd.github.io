@@ -15035,3 +15035,9 @@
 [2015/12/02 17:35:36] @ Quit: alket: Ping timeout: 246 seconds
 [2015/12/02 17:43:24] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vRquW
 [2015/12/02 17:44:55] @ Quit: vpx: Quit: Page closed
+[2015/12/02 17:45:13] <Not-e81f> [02supertux] 07tobbi commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vRquQ
+[2015/12/02 17:46:08] @ swift110 joined channel #supertux
+[2015/12/02 17:46:09] @ Quit: swift110: Changing host
+[2015/12/02 17:46:09] @ swift110 joined channel #supertux
+[2015/12/02 17:51:50] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vRqgA
+[2015/12/02 17:58:54] @ alket joined channel #supertux
