@@ -14702,3 +14702,9 @@
 [2015/12/02 09:26:47] <Tobbi> Yup, now it says v0.3.5-502-gc997b70
 [2015/12/02 09:26:50] <Tobbi> Which seems to be good
 [2015/12/02 09:28:41] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94404713
+[2015/12/02 09:32:38] @ datahead8888 joined channel #supertux
+[2015/12/02 09:32:57] @ irungentoo joined channel #supertux
+[2015/12/02 09:34:23] @ Quit: datahead8888_: Ping timeout: 260 seconds
+[2015/12/02 09:34:32] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/19
+[2015/12/02 09:36:30] <Tobbi> great.
+[2015/12/02 09:42:37] @ Quit: Tobbi: Remote host closed the connection
