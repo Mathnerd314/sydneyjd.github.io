@@ -14347,3 +14347,16 @@
 [2015/12/01 18:43:50] <Tobbi> maths22: Can the changes in the windows branch be integrated with the main branch?
 [2015/12/01 18:44:27] <maths22> Tobbi: Once I make sure that linux still builds cleanly on Travis, sure
 [2015/12/01 18:44:32] <Tobbi> Okay.
+[2015/12/01 18:48:47] <Not-e81f> [02supertux] 07maths22 closed issue 03#233: Windows: Link Shouldn't Be Inside a Folder in the Start Menu - 13http://git.io/v4ABg
+[2015/12/01 18:48:48] <Not-e81f> [02supertux] 07maths22 commented on issue 03#233: Windows: Link Shouldn't Be Inside a Folder in the Start Menu - 13http://git.io/vRvFp
+[2015/12/01 18:48:58] <Not-e81f> [02supertux] 07maths22 labeled issue 03#233: Windows: Link Shouldn't Be Inside a Folder in the Start Menu - 13http://git.io/v4ABg
+[2015/12/01 18:49:20] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94289520
+[2015/12/01 18:50:48] <Tobbi> Okay, the release issue is the only thing left for 0.4.0
+[2015/12/01 18:50:50] <Tobbi> Good stuff!
+[2015/12/01 18:51:52] @ giby joined channel #supertux
+[2015/12/01 18:51:52] @ Mode +o giby by ChanServ
+[2015/12/01 18:53:40] <maths22> Changes to squirrel and tinygettext still needed first
+[2015/12/01 18:54:20] <maths22> (before windows builds will work, that is)
+[2015/12/01 18:55:14] <Tobbi> I see...
+[2015/12/01 18:55:18] <Tobbi> Okay, I will xref them.
+[2015/12/01 18:58:09] <Tobbi> giby: Is there anything I might have forgotten on the TODO list for 0.4.0? https://github.com/SuperTux/supertux/issues/243
