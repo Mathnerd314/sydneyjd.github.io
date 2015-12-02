@@ -14574,3 +14574,8 @@
 [2015/12/01 23:02:43] <Not-e81f> [02supertux] 07n3rdopolis commented on issue 03#43: SuperTux Death sound is too jaring - 13http://git.io/vRfjv
 [2015/12/01 23:07:23] <maths22> Can anyone test the windows build here: http://brlcad.org/~maths22/supertux-download.php
 [2015/12/01 23:07:40] <maths22> (I still need to make deployment automatic and make it only run for master, but otherwise Windows is done
+[2015/12/01 23:26:58] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03appveyor [+0/-0/±1] 13http://git.io/vRJJr
+[2015/12/01 23:27:01] <Not-e81f> [02supertux] 07Jacob Burroughs 03735c931 - Streamlined deployment
+[2015/12/01 23:27:01] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94323149
+[2015/12/01 23:27:02] <Not-e81f> [02supertux] 04Failure. Error starting AppVeyor build - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/2-dup-b2ypexi2
+[2015/12/01 23:27:56] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94323149
