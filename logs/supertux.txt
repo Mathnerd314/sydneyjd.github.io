@@ -14609,3 +14609,5 @@
 [2015/12/02 00:10:02] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94325466
 [2015/12/02 00:10:13] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94325466
 [2015/12/02 00:12:34] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/15
+[2015/12/02 00:16:55] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94325486
+[2015/12/02 00:19:35] @ Quit: giby: Quit: This computer has gone to sleep
