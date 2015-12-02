@@ -14883,3 +14883,26 @@
 [2015/12/02 13:26:45] <Hume2> It's more complicated.
 [2015/12/02 13:27:23] <Hume2> brmbrmcar: Do never suggest your way to Tobbi. Good advice.
 [2015/12/02 13:28:41] <brmbrmcar> Yours probably works. Mine probably will blow up.
+[2015/12/02 13:32:22] <Hume2> The squirel seems more complicated than I thought...
+[2015/12/02 13:38:26] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±4] 13http://git.io/vRL5k
+[2015/12/02 13:38:27] <Not-e81f> [02supertux] 07Hume2 033fd8f28 - Added Player::set_bonus to scripting
+[2015/12/02 13:38:29] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94465210
+[2015/12/02 13:38:30] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/21
+[2015/12/02 13:38:43] <Hume2> brmbrmcar: Here it is.
+[2015/12/02 13:38:43] <brmbrmcar> Yes!
+[2015/12/02 13:39:13] <Hume2> You just type sector.Tux.set_bonus("none").
+[2015/12/02 13:39:34] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94465210
+[2015/12/02 13:40:18] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#231: Make set_bonus work again - 13http://git.io/vRL5Q
+[2015/12/02 13:40:20] <Not-e81f> [02supertux] 07Hume2 assigned issue 03#231: Make set_bonus work again - 13http://git.io/v4zaG
+[2015/12/02 13:40:30] <brmbrmcar> So shrink can be replaced now...
+[2015/12/02 13:40:53] <Hume2> well...
+[2015/12/02 13:41:36] <brmbrmcar> How about new none()?
+[2015/12/02 13:41:51] <brmbrmcar> Because it is different to shrinking...
+[2015/12/02 13:42:09] <Hume2> It looks like it has been never there.
+[2015/12/02 13:42:36] <brmbrmcar> shrink() hasn't worked since before 0.3.0.
+[2015/12/02 13:43:06] <Hume2> It seems like there's a desinfo in the scripting reference then.
+[2015/12/02 13:43:28] <Hume2> Use the link I gave you instead.
+[2015/12/02 13:43:33] <Hume2> I must go, bye!
+[2015/12/02 13:43:36] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2015/12/02 13:44:09] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94465210
+[2015/12/02 13:45:00] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94465210
