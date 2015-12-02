@@ -14914,3 +14914,50 @@
 [2015/12/02 13:58:31] @ Mode +o Tobbi by ChanServ
 [2015/12/02 13:59:47] <Tobbi> I don't normally like when people talk behind my back or the equivalent on IRC.
 [2015/12/02 13:59:56] <Tobbi> That's rude.
+[2015/12/02 14:00:28] <vpx> Hey Tobbi
+[2015/12/02 14:00:36] <Tobbi> Hello.
+[2015/12/02 14:00:40] <Tobbi> vpx: New?
+[2015/12/02 14:00:50] <vpx> to IRC, yes
+[2015/12/02 14:00:55] <Tobbi> Ah, nice.
+[2015/12/02 14:01:07] <vpx> I've been poking around the SuperTux code
+[2015/12/02 14:01:18] <vpx> and I was trying to understand how the console scripts work
+[2015/12/02 14:01:25] <Tobbi> leyyin, Am I really that wrong for being OCD'ish about the code quality?
+[2015/12/02 14:01:46] <leyyin> no, open source projects have a a bad reputation for code quality....
+[2015/12/02 14:01:51] <vpx> shouldn't I be able to call sector.set_gravity( float ) from the console?
+[2015/12/02 14:02:08] <vpx> they do, but they shouldn't ..
+[2015/12/02 14:02:09] <Tobbi> leyyin, Bad reputation meaning "being slaggish"?
+[2015/12/02 14:02:31] <leyyin> lacking in consistency, ugly code, etc
+[2015/12/02 14:02:40] <Tobbi> leyyin, SuperTux is lacking in consistency as well.
+[2015/12/02 14:02:52] <Tobbi> As for ugly code...I don't know. I've been trying to avoid this.
+[2015/12/02 14:03:33] <leyyin> look at openssl :D
+[2015/12/02 14:03:38] <leyyin> so nice
+[2015/12/02 14:03:45] <Tobbi> vpx, If it isn't there, you can program it in. An example should be in the most recent commits.
+[2015/12/02 14:03:51] <vpx> hmm
+[2015/12/02 14:04:02] <vpx> the funcion set_gravity is in scripting/ssector.hpp
+[2015/12/02 14:04:05] <vpx> as well as the sector file itself
+[2015/12/02 14:04:09] <Tobbi> leyyin, I am so burnt out...
+[2015/12/02 14:04:16] <Tobbi> I don't know anything about motivation...
+[2015/12/02 14:04:18] <Tobbi> :P
+[2015/12/02 14:04:49] <vpx> but the console still says that the index 'set_gravity' does not exist
+[2015/12/02 14:05:04] <Tobbi> A squirrel wrapper needs to exist.
+[2015/12/02 14:05:33] <vpx> from what I understand, isn't that the src/scripting/ssector.hpp
+[2015/12/02 14:05:34] <vpx> ?»
+[2015/12/02 14:05:35] <leyyin> Tobbi, so I am like your advisor or something?
+[2015/12/02 14:05:46] <Tobbi> leyyin, Yes... :P
+[2015/12/02 14:05:56] <Tobbi> leyyin, No, you're not...never mind.
+[2015/12/02 14:06:10] <Tobbi> vpx, No, it isn't.
+[2015/12/02 14:06:12] <Tobbi> one moment.
+[2015/12/02 14:07:00] <leyyin> I have +20% OCD bonus
+[2015/12/02 14:07:08] <leyyin> I am level 5
+[2015/12/02 14:07:43] @ Quit: xet7: Quit: Leaving
+[2015/12/02 14:08:02] <Tobbi> vpx, https://github.com/SuperTux/supertux/commit/6931e7e882178a9bafffbe5f484ebab2f77e8790 Take a look at the bottom...
+[2015/12/02 14:08:10] <Tobbi> src/scripting/wrapper.cpp
+[2015/12/02 14:08:23] <Tobbi> If you want to help, create such a wrapper for that function above that you miss.
+[2015/12/02 14:11:05] <vpx> Oh, i didn't notice that file
+[2015/12/02 14:11:08] <vpx> Will take a look, thanks
+[2015/12/02 14:11:17] <Tobbi> vpx, If you do, please create a pull request.
+[2015/12/02 14:11:24] <Tobbi> We can merge that in before the release in 3 weeks.
+[2015/12/02 14:11:47] <vpx> I will if I manage to make this work right
+[2015/12/02 14:13:27] <Tobbi> leyyin, I will let some other person lead SuperTux for a while. If Hume or brmbrmcar think they can be better project leaders than me, fine...
+[2015/12/02 14:13:33] <Tobbi> No need to stress myself over it.
+[2015/12/02 14:14:46] @ Quit: Tobbi: Quit: Leaving
