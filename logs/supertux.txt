@@ -14630,3 +14630,6 @@
 [2015/12/02 04:20:16] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-11-19 11:10:15 -0500
 [2015/12/02 04:20:21] @ Mode +nt by leguin.freenode.net
 [2015/12/02 04:27:25] @ Quit: giby: Quit: Quitte
+[2015/12/02 04:38:27] @ Tobbi joined channel #supertux
+[2015/12/02 04:38:28] @ Mode +o Tobbi by ChanServ
+[2015/12/02 04:42:58] <Tobbi> That was a lot of output yesterday.
