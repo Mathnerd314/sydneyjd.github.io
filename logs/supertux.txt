@@ -14759,3 +14759,21 @@
 [2015/12/02 11:12:01] @ Quit: tuxdev: *.net *.split
 [2015/12/02 11:14:56] @ Not-e81f joined channel #supertux
 [2015/12/02 11:14:56] @ tuxdev joined channel #supertux
+[2015/12/02 11:16:03] @ brmbrmcar is now known as Netsplit
+[2015/12/02 11:16:17] <Netsplit> Hahaha...
+[2015/12/02 11:16:28] <Netsplit> I am the evil...
+[2015/12/02 11:16:35] @ Netsplit is now known as brmbrmcar
+[2015/12/02 11:16:45] <brmbrmcar> OK, I do apologise.
+[2015/12/02 11:20:35] <brmbrmcar> If I was really evil I would change my nick to NickServ...
+[2015/12/02 11:20:40] <brmbrmcar> But I won't.
+[2015/12/02 11:21:29] <mt> you can't
+[2015/12/02 11:21:40] <mt> feel free to try it
+[2015/12/02 11:23:16] <brmbrmcar> nickserv Erroneous Nickname
+[2015/12/02 11:24:20] <mt> actually, that applies to *Serv, some one letter nicks used for quakenet services, and some staffer's nicks
+[2015/12/02 11:25:45] @ Quit: Not-e81f: *.net *.split
+[2015/12/02 11:25:45] @ Quit: tuxdev: *.net *.split
+[2015/12/02 11:26:10] <brmbrmcar> Ah.
+[2015/12/02 11:26:31] <brmbrmcar> brmbrmServ Erroneous Nickname
+[2015/12/02 11:27:09] <mt> If services were up I could use a very specific *Serv nick
+[2015/12/02 11:27:42] <brmbrmcar> How?
+[2015/12/02 11:28:06] <brmbrmcar> If everyone quit here, would the first to rejoin become op?
