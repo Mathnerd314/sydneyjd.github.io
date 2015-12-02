@@ -14752,3 +14752,10 @@
 [2015/12/02 10:47:17] <leyyin> brmbrmcar, your fault
 [2015/12/02 10:49:44] <brmbrmcar> leyyin: Mean!
 [2015/12/02 10:49:51] <brmbrmcar> :(
+[2015/12/02 11:01:48] @ Not-e81f joined channel #supertux
+[2015/12/02 11:01:49] @ tuxdev joined channel #supertux
+[2015/12/02 11:02:52] <brmbrmcar> 15 new ratings!
+[2015/12/02 11:11:59] @ Quit: Not-e81f: *.net *.split
+[2015/12/02 11:12:01] @ Quit: tuxdev: *.net *.split
+[2015/12/02 11:14:56] @ Not-e81f joined channel #supertux
+[2015/12/02 11:14:56] @ tuxdev joined channel #supertux
