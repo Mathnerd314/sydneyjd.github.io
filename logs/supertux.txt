@@ -15043,3 +15043,9 @@
 [2015/12/02 17:58:54] @ alket joined channel #supertux
 [2015/12/02 18:07:46] @ Quit: tux|dude: Quit: Leaving
 [2015/12/02 18:14:15] @ xet7 joined channel #supertux
+[2015/12/02 18:17:58] @ Karkus joined channel #supertux
+[2015/12/02 18:25:10] @ GitHub22 joined channel #supertux
+[2015/12/02 18:25:11] -GitHub22- [13flexlay] 15Karkus476 pushed 1 new commit to 06develop: 02http://git.io/vRqX1
+[2015/12/02 18:25:11] -GitHub22- 13flexlay/06develop 149010b8b 15Karkus: Adds key shortcuts to editor:...
+[2015/12/02 18:25:11] @ GitHub22 left channel #supertux ()
+[2015/12/02 18:25:46] @ Quit: Karkus: Quit: Division By Zero
