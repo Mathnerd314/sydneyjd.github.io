@@ -14569,3 +14569,5 @@
 [2015/12/01 22:32:14] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/1
 [2015/12/01 22:33:05] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94317882
 [2015/12/01 22:44:52] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94317882
+[2015/12/01 22:48:12] @ Quit: irungentoo: Remote host closed the connection
+[2015/12/01 22:54:10] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/1
