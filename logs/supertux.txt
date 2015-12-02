@@ -14425,3 +14425,31 @@
 [2015/12/01 20:23:34] <head8debian> :-)
 [2015/12/01 20:24:42] <maths22> Tobbi: hopefully fixing gcc now.  We will see very soon
 [2015/12/01 20:29:17] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94304147
+[2015/12/01 20:30:13] <Not-e81f> [02supertux] 07maths22 opened pull request 03#245: Fixing Windows builds to be compatible with many recent changes - 13http://git.io/vRfGL
+[2015/12/01 20:30:15] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94305619
+[2015/12/01 20:30:18] <Not-e81f> [02supertux] 07maths22 closed pull request 03#245: Fixing Windows builds to be compatible with many recent changes - 13http://git.io/vRfGL
+[2015/12/01 20:30:19] <Not-e81f> [02supertux] 07maths22 pushed 036 commits to 03master [+8/-0/±18] 13http://git.io/vRfGt
+[2015/12/01 20:30:21] <Not-e81f> [02supertux] 07Jacob Burroughs 03b520827 - Merge pull request #245 from SuperTux/windows
+[2015/12/01 20:30:23] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94305635
+[2015/12/01 20:30:24] <Not-e81f> [02supertux] 07maths22 deleted branch 03windows - 13http://git.io/vvf63
+[2015/12/01 20:30:25] <Not-e81f> [02supertux] 07maths22 deleted branch 03windows
+[2015/12/01 20:30:43] <maths22> And we are done!
+[2015/12/01 20:30:57] <head8debian> maths22: Cool. :)
+[2015/12/01 20:31:10] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94305619
+[2015/12/01 20:31:22] <maths22> head8debian: Nightly builds on windows coming up later tonight
+[2015/12/01 20:32:13] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94305635
+[2015/12/01 20:32:31] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94305619
+[2015/12/01 20:34:07] <maths22> Ignore that error (I closed the pull request too quickly, which is fine)
+[2015/12/01 20:35:20] @ Quit: VargaD: Ping timeout: 250 seconds
+[2015/12/01 20:36:15] @ VargaD joined channel #supertux
+[2015/12/01 20:41:01] <Not-e81f> [02supertux] 07maths22 created branch 03appveyor - 13http://git.io/vvf63
+[2015/12/01 20:41:02] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03appveyor [+1/-0/±0] 13http://git.io/vRfcT
+[2015/12/01 20:41:04] <Not-e81f> [02supertux] 07Jacob Burroughs 036419f10 - Initial AppVeyor runner script
+[2015/12/01 20:41:06] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94306907
+[2015/12/01 20:41:07] <Not-e81f> [02supertux] 04Failure. Error parsing appveyor.yml - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/1.0.1
+[2015/12/01 20:42:16] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94306907
+[2015/12/01 20:42:46] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03appveyor [+1/-0/±0] 13http://git.io/vRfco
+[2015/12/01 20:42:47] <Not-e81f> [02supertux] 07Jacob Burroughs 037156e78 - Initial AppVeyor runner script
+[2015/12/01 20:42:48] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94307117
+[2015/12/01 20:42:50] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/2
+[2015/12/01 20:44:12] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94305635
