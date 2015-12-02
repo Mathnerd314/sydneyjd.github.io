@@ -14657,3 +14657,15 @@
 [2015/12/02 07:54:03] <red_bot> maths22 meant: "Also, that git describe difference is odd.  Thank you for fixing that"
 [2015/12/02 07:54:22] @ Quit: Tobbi: Ping timeout: 250 seconds
 [2015/12/02 07:57:13] <maths22> Downloads at http://brlcad.org/~maths22/supertux-download.php
+[2015/12/02 08:03:31] <maths22> Today, lots of appveyor updates in the pipeline
+[2015/12/02 08:03:38] <maths22> s/appveyor/travis/
+[2015/12/02 08:03:38] <red_bot> maths22 meant: "Today, lots of travis updates in the pipeline"
+[2015/12/02 08:11:48] <Not-e81f> [02supertux] 07Grumbel pushed 0345 commits to 03develop [+44/-1/±119] 13http://git.io/vRTNn
+[2015/12/02 08:11:50] <Not-e81f> [02supertux] 07Ingo Ruhnke 033743007 - Fixed inverted logic when reading "path" tag in (platform ...)
+[2015/12/02 08:11:51] <Not-e81f> [02supertux] 07Ingo Ruhnke 0307f2491 - Clear vector before adding new values to it in ReaderMapping::get()
+[2015/12/02 08:11:53] <Not-e81f> [02supertux] 07Ingo Ruhnke 03e335f70 - Added quotes around strings in some .sprite files
+[2015/12/02 08:11:54] <Not-e81f> [02supertux] ... and 42 more commits.
+[2015/12/02 08:11:56] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94393125
+[2015/12/02 08:11:57] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/18
+[2015/12/02 08:12:52] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94393125
+[2015/12/02 08:14:23] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/18
