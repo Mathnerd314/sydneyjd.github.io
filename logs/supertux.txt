@@ -14710,3 +14710,41 @@
 [2015/12/02 09:42:37] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/02 10:23:59] @ datahead8888_ joined channel #supertux
 [2015/12/02 10:25:15] @ Quit: datahead8888: Ping timeout: 260 seconds
+[2015/12/02 10:37:18] @ Quit: ChanServ: *.net *.split
+[2015/12/02 10:37:19] @ Quit: irungentoo: *.net *.split
+[2015/12/02 10:37:31] @ Quit: Not-e81f: *.net *.split
+[2015/12/02 10:37:39] @ Quit: tuxdev: *.net *.split
+[2015/12/02 10:37:42] @ Quit: datahead8888_: *.net *.split
+[2015/12/02 10:37:46] @ Quit: leyyin: *.net *.split
+[2015/12/02 10:37:49] @ Quit: VargaD: *.net *.split
+[2015/12/02 10:37:50] @ Quit: bb010g: *.net *.split
+[2015/12/02 10:37:51] @ Quit: Yaiyan: *.net *.split
+[2015/12/02 10:37:51] @ Quit: mt: *.net *.split
+[2015/12/02 10:38:04] @ Quit: Xjs|moonshine: *.net *.split
+[2015/12/02 10:38:14] @ Quit: maths22: *.net *.split
+[2015/12/02 10:38:25] @ Quit: nerdopolis: *.net *.split
+[2015/12/02 10:38:26] @ Quit: binki: *.net *.split
+[2015/12/02 10:38:38] @ Quit: head8debian: *.net *.split
+[2015/12/02 10:38:41] @ Quit: leper`: *.net *.split
+[2015/12/02 10:38:42] @ Quit: paroneayea: *.net *.split
+[2015/12/02 10:38:43] @ Quit: xet7: *.net *.split
+[2015/12/02 10:38:48] @ Quit: gynter: *.net *.split
+[2015/12/02 10:38:50] @ Quit: octo: *.net *.split
+[2015/12/02 10:38:53] @ Quit: jeezy: *.net *.split
+[2015/12/02 10:38:59] @ Quit: Natureshadow: *.net *.split
+[2015/12/02 10:39:19] @ Quit: xnrand: *.net *.split
+[2015/12/02 10:41:20] @ Xjs|moonshine joined channel #supertux
+[2015/12/02 10:41:20] @ mt joined channel #supertux
+[2015/12/02 10:41:20] @ Yaiyan joined channel #supertux
+[2015/12/02 10:41:20] @ bb010g joined channel #supertux
+[2015/12/02 10:41:20] @ VargaD joined channel #supertux
+[2015/12/02 10:41:20] @ leyyin joined channel #supertux
+[2015/12/02 10:41:20] @ datahead8888_ joined channel #supertux
+[2015/12/02 10:41:20] @ brmbrmcar joined channel #supertux
+[2015/12/02 10:41:49] @ nerdopolis joined channel #supertux
+[2015/12/02 10:41:49] @ binki joined channel #supertux
+[2015/12/02 10:42:02] @ irungentoo joined channel #supertux
+[2015/12/02 10:43:11] @ Quit: brmbrmcar: Quit: a quick test...
+[2015/12/02 10:43:15] @ Natureshadow joined channel #supertux
+[2015/12/02 10:43:28] @ brmbrmcar joined channel #supertux
+[2015/12/02 10:44:53] @ maths22 joined channel #supertux
