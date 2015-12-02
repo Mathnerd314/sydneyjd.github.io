@@ -14389,3 +14389,10 @@
 [2015/12/01 19:35:31] <Not-e81f> [02supertux] 07tobbi labeled issue 03#244: Interesting feedback on the mailing list - 13http://git.io/vRfJ6
 [2015/12/01 19:35:31] <Not-e81f> [02supertux] 07tobbi labeled issue 03#244: Interesting feedback on the mailing list - 13http://git.io/vRfJ6
 [2015/12/01 19:35:53] @ Quit: jesusalva: Ping timeout: 245 seconds
+[2015/12/01 20:05:49] <Not-e81f> [02supertux] 07giby commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vRfql
+[2015/12/01 20:06:26] <Tobbi> giby: I added quite a few people to the translators...
+[2015/12/01 20:06:31] <Tobbi> But doesn't matter.
+[2015/12/01 20:06:35] <Tobbi> Maybe we'll just spare that part.
+[2015/12/01 20:06:40] <Tobbi> I just don't want people to feel left out.
+[2015/12/01 20:07:50] <giby> Was they active?? I have been busy lately... but I put often announcement on Tx for asking active to cheack
+[2015/12/01 20:08:51] <Tobbi> giby: We can do so before the release...
