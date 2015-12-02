@@ -14972,3 +14972,19 @@
 [2015/12/02 14:36:08] -GitHub130- 13flexlay/06develop 14926fb6f 15Karkus: Tilemap path attribute loaded, but not displayed correctly
 [2015/12/02 14:36:08] -GitHub130- 13flexlay/06develop 148e9b439 15Karkus: Tilemaps which are not at 0, 0 now display in the correct place
 [2015/12/02 14:36:08] @ GitHub130 left channel #supertux ()
+[2015/12/02 14:46:11] @ Tobbi joined channel #supertux
+[2015/12/02 14:46:11] @ Mode +o Tobbi by ChanServ
+[2015/12/02 14:47:11] <Tobbi> Karkus, mt: If people have a problem with me, they are free to a) leave the project or b) tell me in the face...
+[2015/12/02 14:47:56] <Tobbi> I'd prefer 1) because complains about me are most likely the sign that there's something wrong with the person having problems with me.
+[2015/12/02 14:48:01] <Tobbi> I. am. flawless.
+[2015/12/02 14:48:36] <Karkus> That's a quote to keep :D
+[2015/12/02 14:48:54] <Tobbi> Karkus, I have it hanging above my bed since I was born.
+[2015/12/02 14:49:21] <brmbrmcar> I will resist an annoying comment.
+[2015/12/02 14:49:23] <Karkus> You could probably convince me that was true :P
+[2015/12/02 14:49:27] <Tobbi> :D
+[2015/12/02 14:49:29] <Karkus> brmbrmcar: Please do
+[2015/12/02 14:49:37] <brmbrmcar> Well...
+[2015/12/02 14:50:01] <Tobbi> Karkus, To be honest, I really have a problem with authority.
+[2015/12/02 14:50:06] <Tobbi> And that's a problem in itself.
+[2015/12/02 14:50:27] <brmbrmcar> Tobbi got a and 1 confused, and then said he was flawless.
+[2015/12/02 14:51:03] <brmbrmcar> It depends what he means by "flawless".
