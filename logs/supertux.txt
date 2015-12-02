@@ -14493,3 +14493,47 @@
 [2015/12/01 20:57:19] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94307840
 [2015/12/01 20:57:56] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94308476
 [2015/12/01 20:58:18] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/4
+[2015/12/01 21:00:13] @ tuxdev_ joined channel #supertux
+[2015/12/01 21:02:12] <maths22> I'm sorry for spamming with all these messages
+[2015/12/01 21:03:14] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03appveyor [+1/-0/±0] 13http://git.io/vRfRY
+[2015/12/01 21:03:15] <Not-e81f> [02supertux] 07Jacob Burroughs 033aebeab - Initial AppVeyor runner script
+[2015/12/01 21:03:17] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94309171
+[2015/12/01 21:03:18] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/5
+[2015/12/01 21:03:33] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94308476
+[2015/12/01 21:03:35] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94308476
+[2015/12/01 21:03:36] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94308476
+[2015/12/01 21:03:38] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94308476
+[2015/12/01 21:03:39] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94308476
+[2015/12/01 21:03:41] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94308476
+[2015/12/01 21:03:42] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94308476
+[2015/12/01 21:03:44] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94308476
+[2015/12/01 21:03:45] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94308476
+[2015/12/01 21:03:47] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94308476
+[2015/12/01 21:04:32] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/5
+[2015/12/01 21:04:35] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94309171
+[2015/12/01 21:06:53] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03appveyor [+1/-0/±0] 13http://git.io/vRf04
+[2015/12/01 21:06:54] <Not-e81f> [02supertux] 07Jacob Burroughs 03fe285dc - Initial AppVeyor runner script
+[2015/12/01 21:06:56] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94309596
+[2015/12/01 21:06:58] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/6
+[2015/12/01 21:07:05] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94309171
+[2015/12/01 21:07:06] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94309171
+[2015/12/01 21:07:08] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94309171
+[2015/12/01 21:07:09] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94309171
+[2015/12/01 21:07:11] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94309171
+[2015/12/01 21:07:12] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94309171
+[2015/12/01 21:07:14] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94309171
+[2015/12/01 21:07:15] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94309171
+[2015/12/01 21:07:17] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94309171
+[2015/12/01 21:08:00] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94309596
+[2015/12/01 21:08:13] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/6
+[2015/12/01 21:09:50] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/7
+[2015/12/01 21:10:11] <Not-e81f> [02supertux] 04Error. AppVeyor build cancelled - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/7
+[2015/12/01 21:10:13] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/1.0.8
+[2015/12/01 21:11:27] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/1.0.8
+[2015/12/01 21:12:27] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03appveyor [+1/-0/±0] 13http://git.io/vRfEx
+[2015/12/01 21:12:29] <Not-e81f> [02supertux] 07Jacob Burroughs 03ff487ea - Initial AppVeyor runner script
+[2015/12/01 21:12:30] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94310122
+[2015/12/01 21:12:32] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/1.0.9
+[2015/12/01 21:12:48] <Not-e81f> [02supertux] 04Error. AppVeyor build cancelled - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/1.0.9
+[2015/12/01 21:12:51] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/10
+[2015/12/01 21:14:11] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/10
