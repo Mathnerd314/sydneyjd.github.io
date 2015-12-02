@@ -15004,3 +15004,8 @@
 [2015/12/02 16:02:25] @ Quit: brmbrmcar: Quit: Lost terminal
 [2015/12/02 16:12:42] @ Quit: swift110: Changing host
 [2015/12/02 16:12:42] @ swift110 joined channel #supertux
+[2015/12/02 16:15:31] @ Tobbi_ joined channel #supertux
+[2015/12/02 16:15:31] @ Mode +o Tobbi_ by ChanServ
+[2015/12/02 16:26:22] @ Quit: Tobbi: Read error: Connection reset by peer
+[2015/12/02 16:28:28] @ Quit: LeFireVeryNice: Ping timeout: 252 seconds
+[2015/12/02 16:30:00] @ claymore2 joined channel #supertux
