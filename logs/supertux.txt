@@ -14748,3 +14748,7 @@
 [2015/12/02 10:43:15] @ Natureshadow joined channel #supertux
 [2015/12/02 10:43:28] @ brmbrmcar joined channel #supertux
 [2015/12/02 10:44:53] @ maths22 joined channel #supertux
+[2015/12/02 10:46:21] @ xnrand joined channel #supertux
+[2015/12/02 10:47:17] <leyyin> brmbrmcar, your fault
+[2015/12/02 10:49:44] <brmbrmcar> leyyin: Mean!
+[2015/12/02 10:49:51] <brmbrmcar> :(
