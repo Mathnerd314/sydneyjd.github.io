@@ -14622,3 +14622,5 @@
 [2015/12/02 02:22:21] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/16
 [2015/12/02 02:23:09] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94339123
 [2015/12/02 02:25:39] @ Karkus joined channel #supertux
+[2015/12/02 02:34:18] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94339123
+[2015/12/02 02:42:50] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/16
