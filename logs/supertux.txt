@@ -14383,3 +14383,9 @@
 [2015/12/01 19:28:05] <Tobbi> maths22: Was corrected for clang, not gcc...
 [2015/12/01 19:28:08] <Tobbi> :P
 [2015/12/01 19:28:33] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/94295703
+[2015/12/01 19:35:25] <Not-e81f> [02supertux] 07tobbi opened issue 03#244: Interesting feedback on the mailing list - 13http://git.io/vRfJ6
+[2015/12/01 19:35:27] <Not-e81f> [02supertux] 07tobbi labeled issue 03#244: Interesting feedback on the mailing list - 13http://git.io/vRfJ6
+[2015/12/01 19:35:28] <Not-e81f> [02supertux] 07tobbi labeled issue 03#244: Interesting feedback on the mailing list - 13http://git.io/vRfJ6
+[2015/12/01 19:35:31] <Not-e81f> [02supertux] 07tobbi labeled issue 03#244: Interesting feedback on the mailing list - 13http://git.io/vRfJ6
+[2015/12/01 19:35:31] <Not-e81f> [02supertux] 07tobbi labeled issue 03#244: Interesting feedback on the mailing list - 13http://git.io/vRfJ6
+[2015/12/01 19:35:53] @ Quit: jesusalva: Ping timeout: 245 seconds
