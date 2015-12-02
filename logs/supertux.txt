@@ -14396,3 +14396,32 @@
 [2015/12/01 20:06:40] <Tobbi> I just don't want people to feel left out.
 [2015/12/01 20:07:50] <giby> Was they active?? I have been busy lately... but I put often announcement on Tx for asking active to cheack
 [2015/12/01 20:08:51] <Tobbi> giby: We can do so before the release...
+[2015/12/01 20:17:08] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03windows [+0/-0/±1] 13http://git.io/vRfOL
+[2015/12/01 20:17:09] <Not-e81f> [02supertux] 07Jacob Burroughs 03627090c - Update tinygettext
+[2015/12/01 20:17:11] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94304147
+[2015/12/01 20:17:33] <head8debian> Tobbi: Fun fun... I have another car to work on, and im not 100% sure what the issue is...
+[2015/12/01 20:17:46] <Tobbi> head8debian: That is great.
+[2015/12/01 20:17:47] <Tobbi> :D
+[2015/12/01 20:17:54] <Tobbi> I don't know anything about c...
+[2015/12/01 20:17:56] <Tobbi> cars
+[2015/12/01 20:18:03] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94304147
+[2015/12/01 20:18:26] <head8debian> Tobbi: :D
+[2015/12/01 20:18:35] <head8debian> Tobbi: They go, thats all you know? :)
+[2015/12/01 20:18:43] <Tobbi> head8debian: My ABS is still not fixed.
+[2015/12/01 20:19:03] <head8debian> Tobbi: Ah, interesting. Well, don't stomp on the breaks and you will be fine.
+[2015/12/01 20:19:18] <head8debian> Tobbi: That issue could be in quite a few places.
+[2015/12/01 20:19:26] <Tobbi> head8debian: All cars have to undergo an inspection every 2 years here.
+[2015/12/01 20:19:32] <head8debian> Tobbi: o_O
+[2015/12/01 20:19:34] <Tobbi> And mine is due in...very soon.
+[2015/12/01 20:19:41] <head8debian> Tobbi: We don't have any inspections here.
+[2015/12/01 20:19:45] <head8debian> Thankfully.
+[2015/12/01 20:20:06] <Tobbi> head8debian: Security is rated rather highly around here.
+[2015/12/01 20:20:17] <head8debian> Tobbi: Im starting to see that.
+[2015/12/01 20:20:47] <head8debian> 0.
+[2015/12/01 20:20:59] <head8debian> oops... mashing random keys.
+[2015/12/01 20:22:42] <Tobbi> 1.
+[2015/12/01 20:23:15] <Tobbi> anyway, good night.
+[2015/12/01 20:23:16] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/01 20:23:34] <head8debian> :-)
+[2015/12/01 20:24:42] <maths22> Tobbi: hopefully fixing gcc now.  We will see very soon
+[2015/12/01 20:29:17] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94304147
