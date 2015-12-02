@@ -14373,3 +14373,13 @@
 [2015/12/01 19:11:55] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/94293495
 [2015/12/01 19:13:06] <Tobbi> maths22: You wrecked it!
 [2015/12/01 19:13:14] <Tobbi> ;)
+[2015/12/01 19:15:20] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03windows [+0/-0/±1] 13http://git.io/vRvjG
+[2015/12/01 19:15:21] <Not-e81f> [02supertux] 07Jacob Burroughs 0318c1721 - Fix tinyggettext
+[2015/12/01 19:15:23] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94295703
+[2015/12/01 19:16:02] <maths22> Tobbi: I accidentally disabled c11 for tinygettext
+[2015/12/01 19:16:07] <Tobbi> ah.
+[2015/12/01 19:16:14] <maths22> should be corrected now, but we will see
+[2015/12/01 19:16:20] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94295703
+[2015/12/01 19:28:05] <Tobbi> maths22: Was corrected for clang, not gcc...
+[2015/12/01 19:28:08] <Tobbi> :P
+[2015/12/01 19:28:33] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/94295703
