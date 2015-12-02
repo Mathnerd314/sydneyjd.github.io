@@ -14814,3 +14814,16 @@
 [2015/12/02 11:48:47] @ gynter joined channel #supertux
 [2015/12/02 11:48:47] @ octo joined channel #supertux
 [2015/12/02 11:48:47] @ jeezy joined channel #supertux
+[2015/12/02 12:07:10] @ ChanServ joined channel #supertux
+[2015/12/02 12:07:10] @ Mode +o ChanServ by leguin.freenode.net
+[2015/12/02 12:07:45] @ Tobbi joined channel #supertux
+[2015/12/02 12:07:45] @ Mode +o Tobbi by ChanServ
+[2015/12/02 12:07:54] @ alket joined channel #supertux
+[2015/12/02 12:07:58] @ Quit: brmbrmcar: Changing host
+[2015/12/02 12:07:58] @ brmbrmcar joined channel #supertux
+[2015/12/02 12:08:12] <brmbrmcar> Services are back!
+[2015/12/02 12:10:12] <Tobbi> brmbrmcar: If I told you once, I told you a thousand times: Don't mess with your nick or me.
+[2015/12/02 12:11:00] <Tobbi> leyyin: Woo, wait a minute, I am not the only one bullying brmbrmcar?
+[2015/12/02 12:11:36] <Tobbi> I'm kind of glad it is that way...
+[2015/12/02 12:11:53] <brmbrmcar> :(
+[2015/12/02 12:12:44] @ Quit: bb010g: Quit: Connection closed for inactivity
