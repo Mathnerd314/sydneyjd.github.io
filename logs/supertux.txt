@@ -14650,3 +14650,10 @@
 [2015/12/02 06:19:05] @ Mode +o Tobbi by ChanServ
 [2015/12/02 06:19:18] <Tobbi> hello.
 [2015/12/02 06:47:26] @ leyyin joined channel #supertux
+[2015/12/02 07:52:49] <maths22> Tobbi: Sorry about that
+[2015/12/02 07:53:21] <maths22> AppVeyor now creates working installers
+[2015/12/02 07:53:52] <maths22> Also, that git describe difference is odd.  Thank you for fixing tat
+[2015/12/02 07:54:03] <maths22> s/tat/that/
+[2015/12/02 07:54:03] <red_bot> maths22 meant: "Also, that git describe difference is odd.  Thank you for fixing that"
+[2015/12/02 07:54:22] @ Quit: Tobbi: Ping timeout: 250 seconds
+[2015/12/02 07:57:13] <maths22> Downloads at http://brlcad.org/~maths22/supertux-download.php
