@@ -14360,3 +14360,16 @@
 [2015/12/01 18:55:14] <Tobbi> I see...
 [2015/12/01 18:55:18] <Tobbi> Okay, I will xref them.
 [2015/12/01 18:58:09] <Tobbi> giby: Is there anything I might have forgotten on the TODO list for 0.4.0? https://github.com/SuperTux/supertux/issues/243
+[2015/12/01 19:01:59] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03windows [+0/-0/±2] 13http://git.io/vRvxO
+[2015/12/01 19:02:00] <Not-e81f> [02supertux] 07Jacob Burroughs 03184bfda - Updated squirrel, tinygettext for Windows builds
+[2015/12/01 19:02:02] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94293495
+[2015/12/01 19:02:12] <giby> Hi Tobbi
+[2015/12/01 19:02:49] <Tobbi> hey giby
+[2015/12/01 19:02:59] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94293495
+[2015/12/01 19:04:12] * jesusalva is delaying his visit to Transifex but at least finished translating World 1 and Main Menu.
+[2015/12/01 19:04:51] <Tobbi> jesusalva: No problem. Thanks for helping anyway.
+[2015/12/01 19:06:12] <giby> I had a very long day
+[2015/12/01 19:07:35] <Tobbi> giby: No problem... I can relate to that.
+[2015/12/01 19:11:55] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/94293495
+[2015/12/01 19:13:06] <Tobbi> maths22: You wrecked it!
+[2015/12/01 19:13:14] <Tobbi> ;)
