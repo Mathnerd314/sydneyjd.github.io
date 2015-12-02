@@ -14961,3 +14961,7 @@
 [2015/12/02 14:13:27] <Tobbi> leyyin, I will let some other person lead SuperTux for a while. If Hume or brmbrmcar think they can be better project leaders than me, fine...
 [2015/12/02 14:13:33] <Tobbi> No need to stress myself over it.
 [2015/12/02 14:14:46] @ Quit: Tobbi: Quit: Leaving
+[2015/12/02 14:17:38] <Karkus> Is it rude to talk about people behind their back?
+[2015/12/02 14:23:42] <mt> depends on what you're talking about exactly, I guess
+[2015/12/02 14:26:00] @ jesusalva joined channel #supertux
+[2015/12/02 14:26:35] <Karkus> Yeah, I suppose
