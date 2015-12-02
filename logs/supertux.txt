@@ -14997,3 +14997,7 @@
 [2015/12/02 15:28:14] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94488491
 [2015/12/02 15:28:40] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#247: Fixed console command 'functions(...)' - 13http://git.io/vRtK4
 [2015/12/02 15:29:11] @ LeFireVeryNice joined channel #supertux
+[2015/12/02 15:41:32] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94488491
+[2015/12/02 15:41:37] <maths22> For Windows, I still need to add the msvcrt libraries
+[2015/12/02 15:42:17] <brmbrmcar> Does the Windowsonw work at all yet?
+[2015/12/02 15:43:12] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/22
