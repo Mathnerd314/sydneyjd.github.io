@@ -14708,3 +14708,5 @@
 [2015/12/02 09:34:32] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/19
 [2015/12/02 09:36:30] <Tobbi> great.
 [2015/12/02 09:42:37] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/02 10:23:59] @ datahead8888_ joined channel #supertux
+[2015/12/02 10:25:15] @ Quit: datahead8888: Ping timeout: 260 seconds
