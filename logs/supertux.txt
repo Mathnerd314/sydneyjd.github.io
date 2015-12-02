@@ -14583,3 +14583,21 @@
 [2015/12/01 23:39:21] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94323149
 [2015/12/01 23:43:04] @ datahead8888_ joined channel #supertux
 [2015/12/01 23:44:42] @ Quit: datahead8888: Ping timeout: 250 seconds
+[2015/12/01 23:51:17] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/13
+[2015/12/01 23:52:14] <Not-e81f> [02supertux] 07maths22 opened pull request 03#246: Enable Appveyor support - 13http://git.io/vRJLd
+[2015/12/01 23:52:16] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94325257
+[2015/12/01 23:52:17] <Not-e81f> [02supertux] 07maths22 closed pull request 03#246: Enable Appveyor support - 13http://git.io/vRJLd
+[2015/12/01 23:52:19] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/14
+[2015/12/01 23:52:21] <Not-e81f> [02supertux] 04Error. AppVeyor build cancelled - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/14
+[2015/12/01 23:53:06] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94325257
+[2015/12/01 23:53:16] <maths22> I think I messed something up here...
+[2015/12/01 23:54:04] <Not-e81f> [02supertux] 07maths22 reopened pull request 03#246: Enable Appveyor support - 13http://git.io/vRJLd
+[2015/12/01 23:54:05] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94325466
+[2015/12/01 23:54:07] <Not-e81f> [02supertux] 07maths22 closed pull request 03#246: Enable Appveyor support - 13http://git.io/vRJLd
+[2015/12/01 23:54:09] <Not-e81f> [02supertux] 07maths22 pushed 034 commits to 03master [+2/-0/±3] 13http://git.io/vRJtZ
+[2015/12/01 23:54:10] <Not-e81f> [02supertux] 07Jacob Burroughs 0329697da - Merge pull request #246 from SuperTux/appveyor
+[2015/12/01 23:54:12] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94325486
+[2015/12/01 23:54:13] <Not-e81f> [02supertux] 07maths22 deleted branch 03appveyor - 13http://git.io/vvf63
+[2015/12/01 23:54:15] <Not-e81f> [02supertux] 07maths22 deleted branch 03appveyor
+[2015/12/01 23:54:16] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/15
+[2015/12/01 23:59:18] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94325466
