@@ -14846,3 +14846,23 @@
 [2015/12/02 12:55:14] <brmbrmcar> Maybe they would actually need to be implemented into the SuperTux source code to work.
 [2015/12/02 12:58:47] @ Quit: tuxdev_: Ping timeout: 260 seconds
 [2015/12/02 12:59:08] @ Karkus joined channel #supertux
+[2015/12/02 13:00:29] <Hume2> brmbrmcar: Exactly.
+[2015/12/02 13:00:32] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/02 13:01:04] <brmbrmcar> Line 251 of https://github.com/SuperTux/supertux/blob/master/src/scripting/functions.cpp.
+[2015/12/02 13:01:29] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±10] 13http://git.io/vRLzI
+[2015/12/02 13:01:30] <Not-e81f> [02supertux] 07Hume2 0324772b6 - Resized the levels in Bonus 3 where needed
+[2015/12/02 13:06:46] <Hume2> brmbrmcar: https://github.com/SuperTux/supertux/blob/master/src/scripting/player.hpp
+[2015/12/02 13:07:03] <Hume2> This is a list of commands for Tux.
+[2015/12/02 13:07:13] <brmbrmcar> Thanks.
+[2015/12/02 13:07:39] <Hume2> brmbrmcar: It looks like Tobbi knows a lot, but not everything.
+[2015/12/02 13:07:43] <brmbrmcar> I want to try adding set_bonus.
+[2015/12/02 13:08:24] <Hume2> I'll try to add this command here.
+[2015/12/02 13:09:11] <brmbrmcar> Where are these things defined?
+[2015/12/02 13:09:42] <brmbrmcar> Because I know that just typing in set_bonus is never going to work.
+[2015/12/02 13:11:04] <Hume2> brmbrmcar: https://github.com/SuperTux/supertux/blob/master/src/object/player.cpp
+[2015/12/02 13:11:52] <brmbrmcar> Hume2: Thanks. Looks very long.
+[2015/12/02 13:12:26] <Hume2> brmbrmcar: Is that what you usually talk about with Tobbi?
+[2015/12/02 13:12:55] <brmbrmcar> Noo.
+[2015/12/02 13:13:31] <brmbrmcar> Will just removing all the ifs and just running it work?
+[2015/12/02 13:13:44] <brmbrmcar> Just return add_bonus(type);
+[2015/12/02 13:14:48] <Hume2> add_bonus("none") should work another way then set_bonus(none), shouldn't it?
