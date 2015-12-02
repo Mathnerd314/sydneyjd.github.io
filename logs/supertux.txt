@@ -14560,3 +14560,6 @@
 [2015/12/01 21:57:23] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94314019
 [2015/12/01 22:01:04] <maths22> Build succeeded, packaging failed
 [2015/12/01 22:07:59] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94314019
+[2015/12/01 22:18:37] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/12
+[2015/12/01 22:19:34] <maths22> Finally!
+[2015/12/01 22:23:59] <maths22> Almost done :(
