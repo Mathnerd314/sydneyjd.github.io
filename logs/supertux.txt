@@ -15016,3 +15016,22 @@
 [2015/12/02 17:04:39] @ Quit: Karkus: Ping timeout: 245 seconds
 [2015/12/02 17:08:36] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2015/12/02 17:11:43] @ Quit: swift110: Ping timeout: 260 seconds
+[2015/12/02 17:30:54] <head8debian> Tobbi_: Im poo-ed out...
+[2015/12/02 17:31:02] <Tobbi_> head8debian: Uhm?
+[2015/12/02 17:31:14] <head8debian> Tobbi_: Tired for strenuous work*
+[2015/12/02 17:31:38] <Tobbi_> Thanks. I learned a new word.
+[2015/12/02 17:32:05] <head8debian> Tobbi_: pooped would be a more american phrase.
+[2015/12/02 17:32:26] <Tobbi_> head8debian: Have you ever put a cow upside-down?
+[2015/12/02 17:32:38] <Tobbi_> or from right to left?
+[2015/12/02 17:32:42] @ Quit: claymore2: Quit: Leaving
+[2015/12/02 17:32:49] <head8debian> Tobbi_: No, it will twist their stomach and kill them.
+[2015/12/02 17:33:00] <head8debian> Well, alot of the time it will.
+[2015/12/02 17:33:16] <Tobbi_> head8debian: But, in order to prevent accidents, you need to find out when it kills them and when it doesn't.
+[2015/12/02 17:33:27] <Tobbi_> Because, if a cow accidentally gets turned upside down, or inside out...
+[2015/12/02 17:33:32] <Tobbi_> Well...you know what to do.
+[2015/12/02 17:33:59] <head8debian> Tobbi_: You cannot do anything when they get a twisted stomach. If we could we would love to know how.
+[2015/12/02 17:34:32] <Tobbi_> head8debian: All you need is a lot of hot air pressure... then the cow inflates and the stomach untwists...
+[2015/12/02 17:34:42] <Tobbi_> Actually, I am making that up as I go along.
+[2015/12/02 17:35:36] @ Quit: alket: Ping timeout: 246 seconds
+[2015/12/02 17:43:24] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vRquW
+[2015/12/02 17:44:55] @ Quit: vpx: Quit: Page closed
