@@ -14835,3 +14835,8 @@
 [2015/12/02 12:24:15] <Hume2> Hi all!
 [2015/12/02 12:24:16] <Tobbi> Hello, Hume2.
 [2015/12/02 12:24:17] <Tobbi> :P
+[2015/12/02 12:38:24] <brmbrmcar> Any way of getting in new index?
+[2015/12/02 12:38:37] <brmbrmcar> for like bool.
+[2015/12/02 12:39:46] <Tobbi> brmbrmcar: What do you mean?
+[2015/12/02 12:40:31] <brmbrmcar> Like for invincible(noloop)
+[2015/12/02 12:43:14] <brmbrmcar> invincible(true) parameters will not work.
