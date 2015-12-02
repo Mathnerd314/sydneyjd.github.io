@@ -14633,3 +14633,8 @@
 [2015/12/02 04:38:27] @ Tobbi joined channel #supertux
 [2015/12/02 04:38:28] @ Mode +o Tobbi by ChanServ
 [2015/12/02 04:42:58] <Tobbi> That was a lot of output yesterday.
+[2015/12/02 05:08:02] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vRUH4
+[2015/12/02 05:08:04] <Not-e81f> [02supertux] 07Tobias Markus 03c997b70 - Fix building on my mac where (apparently) the versions are separated by an underscore instead of a dash
+[2015/12/02 05:08:05] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94364028
+[2015/12/02 05:08:07] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/17
+[2015/12/02 05:09:06] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94364028
