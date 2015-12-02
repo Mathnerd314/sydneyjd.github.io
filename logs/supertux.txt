@@ -15009,3 +15009,7 @@
 [2015/12/02 16:26:22] @ Quit: Tobbi: Read error: Connection reset by peer
 [2015/12/02 16:28:28] @ Quit: LeFireVeryNice: Ping timeout: 252 seconds
 [2015/12/02 16:30:00] @ claymore2 joined channel #supertux
+[2015/12/02 16:31:43] @ Drangue joined channel #supertux
+[2015/12/02 16:31:56] @ Quit: alket: Disconnected by services
+[2015/12/02 16:31:58] @ Drangue is now known as alket
+[2015/12/02 16:41:51] @ tux|dude joined channel #supertux
