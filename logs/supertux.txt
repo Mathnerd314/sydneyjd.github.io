@@ -14678,3 +14678,27 @@
 [2015/12/02 09:14:49] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94404713
 [2015/12/02 09:14:50] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/19
 [2015/12/02 09:14:57] <maths22> And I forgot [ci skip] :(
+[2015/12/02 09:15:51] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94404713
+[2015/12/02 09:16:20] @ Tobbi joined channel #supertux
+[2015/12/02 09:16:20] @ Mode +o Tobbi by ChanServ
+[2015/12/02 09:17:10] <maths22> Tobbi: Hello
+[2015/12/02 09:17:16] <Tobbi> hey maths22
+[2015/12/02 09:17:30] <maths22> That underscore thing is odd
+[2015/12/02 09:18:16] <Tobbi> maths22: git describe gives me 0_3_5-502-gc997b70
+[2015/12/02 09:18:30] <Tobbi> Maybe it depends on git version?
+[2015/12/02 09:18:40] <Tobbi> mine is git version 2.4.9 (Apple Git-60)
+[2015/12/02 09:21:19] <maths22> Tobbi: can you paste the output of "git tag" for me?
+[2015/12/02 09:21:25] <maths22> (In a pastebin or something)
+[2015/12/02 09:21:56] <Tobbi> maths22: http://pastebin.com/Ae87yFLy I guess I understand now.
+[2015/12/02 09:22:05] <Tobbi> So, I might have old tags that haven|t been cleaned up.
+[2015/12/02 09:22:10] <maths22> Correct
+[2015/12/02 09:22:27] <Tobbi> hrm...
+[2015/12/02 09:22:31] <maths22> Leave the underscore splitter in the cmake file, but it isn't actually necessary
+[2015/12/02 09:22:44] <Tobbi> Okay, I will try to clean them up.
+[2015/12/02 09:23:08] <maths22> I predict you will get different output once you do that
+[2015/12/02 09:23:24] <maths22> (I had thought you had underscores instead of dashes, which would be a git issue)
+[2015/12/02 09:23:41] <Tobbi> yup.
+[2015/12/02 09:24:28] <Tobbi> I thought so too...I didn|t think of tags.
+[2015/12/02 09:26:47] <Tobbi> Yup, now it says v0.3.5-502-gc997b70
+[2015/12/02 09:26:50] <Tobbi> Which seems to be good
+[2015/12/02 09:28:41] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94404713
