@@ -14613,3 +14613,6 @@
 [2015/12/02 00:19:35] @ Quit: giby: Quit: This computer has gone to sleep
 [2015/12/02 01:34:25] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vRJVW
 [2015/12/02 01:34:27] <Not-e81f> [02supertux] 07Hume2 03630f366 - Resized the level "Don't miss your ride"
+[2015/12/02 02:05:58] @ giby joined channel #supertux
+[2015/12/02 02:05:59] @ Mode +o giby by ChanServ
+[2015/12/02 02:12:28] @ Quit: tuxdev_: Ping timeout: 250 seconds
