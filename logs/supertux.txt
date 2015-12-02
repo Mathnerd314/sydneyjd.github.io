@@ -14537,3 +14537,7 @@
 [2015/12/01 21:12:48] <Not-e81f> [02supertux] 04Error. AppVeyor build cancelled - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/1.0.9
 [2015/12/01 21:12:51] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/10
 [2015/12/01 21:14:11] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/10
+[2015/12/01 21:15:30] <maths22> Well, this is a lot of output.  Debugging time tonight
+[2015/12/01 21:16:21] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94310122
+[2015/12/01 21:17:10] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94309596
+[2015/12/01 21:27:55] <head8debian> maths22: Having an interesti g time? ;)
