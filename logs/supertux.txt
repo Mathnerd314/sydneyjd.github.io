@@ -14866,3 +14866,20 @@
 [2015/12/02 13:13:31] <brmbrmcar> Will just removing all the ifs and just running it work?
 [2015/12/02 13:13:44] <brmbrmcar> Just return add_bonus(type);
 [2015/12/02 13:14:48] <Hume2> add_bonus("none") should work another way then set_bonus(none), shouldn't it?
+[2015/12/02 13:15:29] <brmbrmcar> Yes. But add_bonus("none") doesn't work.
+[2015/12/02 13:15:58] <Hume2> :D That's what I'm now working on.
+[2015/12/02 13:16:59] <brmbrmcar> Good.
+[2015/12/02 13:17:20] <brmbrmcar> Worst scripting ever https://github.com/brmbrmcar/supertux/commit/20d576a5d8b5c20d08d1ed147d69e3f23fd90b80.
+[2015/12/02 13:17:27] <brmbrmcar> Not even complete.
+[2015/12/02 13:18:13] <leyyin> why does your function accept a parameter that you are not using?
+[2015/12/02 13:18:25] <mt> brmbrmcar: I hope you'll reword your commit messages when you're done
+[2015/12/02 13:18:45] <brmbrmcar> That code just disabled everything.
+[2015/12/02 13:23:54] <brmbrmcar> A poor none bonus method could be if fireflower etc shrink twice, growup once, none never.
+[2015/12/02 13:24:37] <Karkus> That is true. Well done.
+[2015/12/02 13:24:53] <Hume2> brmbrmcar: I have it nearly done. I'm just testing it.
+[2015/12/02 13:25:27] <brmbrmcar> https://github.com/brmbrmcar/supertux/commit/d69f3c1513f7c72ecaf460cecae2e0daa85791f1
+[2015/12/02 13:25:37] <brmbrmcar> What was your fix?
+[2015/12/02 13:26:29] <Hume2> *sigh*
+[2015/12/02 13:26:45] <Hume2> It's more complicated.
+[2015/12/02 13:27:23] <Hume2> brmbrmcar: Do never suggest your way to Tobbi. Good advice.
+[2015/12/02 13:28:41] <brmbrmcar> Yours probably works. Mine probably will blow up.
