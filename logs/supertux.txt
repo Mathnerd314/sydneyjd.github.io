@@ -14965,3 +14965,10 @@
 [2015/12/02 14:23:42] <mt> depends on what you're talking about exactly, I guess
 [2015/12/02 14:26:00] @ jesusalva joined channel #supertux
 [2015/12/02 14:26:35] <Karkus> Yeah, I suppose
+[2015/12/02 14:32:20] @ brmbrmcar joined channel #supertux
+[2015/12/02 14:35:02] <brmbrmcar> vpx: I can see to those Console commands.
+[2015/12/02 14:36:07] @ GitHub130 joined channel #supertux
+[2015/12/02 14:36:08] -GitHub130- [13flexlay] 15Karkus476 pushed 2 new commits to 06develop: 02http://git.io/vRt33
+[2015/12/02 14:36:08] -GitHub130- 13flexlay/06develop 14926fb6f 15Karkus: Tilemap path attribute loaded, but not displayed correctly
+[2015/12/02 14:36:08] -GitHub130- 13flexlay/06develop 148e9b439 15Karkus: Tilemaps which are not at 0, 0 now display in the correct place
+[2015/12/02 14:36:08] @ GitHub130 left channel #supertux ()
