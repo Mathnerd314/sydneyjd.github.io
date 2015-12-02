@@ -14777,3 +14777,20 @@
 [2015/12/02 11:27:09] <mt> If services were up I could use a very specific *Serv nick
 [2015/12/02 11:27:42] <brmbrmcar> How?
 [2015/12/02 11:28:06] <brmbrmcar> If everyone quit here, would the first to rejoin become op?
+[2015/12/02 11:31:02] <mt> Not going to tell more; 2nd question: yes
+[2015/12/02 11:31:26] <brmbrmcar> Awesome!
+[2015/12/02 11:31:30] <mt> however, when services. links it will deop you
+[2015/12/02 11:31:44] <brmbrmcar> wolfe.freenoe.net always works...
+[2015/12/02 11:31:49] <mt> same for another server where the channel has an earlier timestamp
+[2015/12/02 11:32:17] <mt> try to not use specific servers unless you know what you're doing
+[2015/12/02 11:32:37] <brmbrmcar> It's annoying the way that it won't automatically op you.
+[2015/12/02 11:37:00] @ jeezy joined channel #supertux
+[2015/12/02 11:37:01] @ octo joined channel #supertux
+[2015/12/02 11:37:01] @ gynter joined channel #supertux
+[2015/12/02 11:37:01] @ xet7 joined channel #supertux
+[2015/12/02 11:37:01] @ paroneayea joined channel #supertux
+[2015/12/02 11:37:01] @ leper` joined channel #supertux
+[2015/12/02 11:37:01] @ head8debian joined channel #supertux
+[2015/12/02 11:37:01] @ tuxdev_ joined channel #supertux
+[2015/12/02 11:37:01] @ Not-e81f joined channel #supertux
+[2015/12/02 11:37:01] @ tuxdev joined channel #supertux
