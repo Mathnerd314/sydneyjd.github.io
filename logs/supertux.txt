@@ -14840,3 +14840,9 @@
 [2015/12/02 12:39:46] <Tobbi> brmbrmcar: What do you mean?
 [2015/12/02 12:40:31] <brmbrmcar> Like for invincible(noloop)
 [2015/12/02 12:43:14] <brmbrmcar> invincible(true) parameters will not work.
+[2015/12/02 12:45:54] <Tobbi> ok
+[2015/12/02 12:45:57] <Tobbi> no idea.
+[2015/12/02 12:46:11] <brmbrmcar> I don't know much in this area.
+[2015/12/02 12:55:14] <brmbrmcar> Maybe they would actually need to be implemented into the SuperTux source code to work.
+[2015/12/02 12:58:47] @ Quit: tuxdev_: Ping timeout: 260 seconds
+[2015/12/02 12:59:08] @ Karkus joined channel #supertux
