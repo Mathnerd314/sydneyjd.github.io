@@ -14552,3 +14552,9 @@
 [2015/12/01 21:35:06] <maths22> head8debian: Indeed.  The build has finally actually started, so that is progress
 [2015/12/01 21:35:18] <maths22> (before it never got past CMake or downloading dependencies)
 [2015/12/01 21:43:46] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94311950
+[2015/12/01 21:49:25] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/11
+[2015/12/01 21:56:32] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03appveyor [+1/-0/±0] 13http://git.io/vRf1e
+[2015/12/01 21:56:33] <Not-e81f> [02supertux] 07Jacob Burroughs 03d465712 - Initial AppVeyor runner script
+[2015/12/01 21:56:35] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94314019
+[2015/12/01 21:56:36] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/12
+[2015/12/01 21:57:23] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94314019
