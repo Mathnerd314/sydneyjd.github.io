@@ -15094,3 +15094,4 @@
 [2015/12/03 00:28:27] <maths22> OSX is up tomorrow
 [2015/12/03 00:37:35] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94568852
 [2015/12/03 00:39:31] @ Quit: irungentoo: Remote host closed the connection
+[2015/12/03 00:45:42] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/23
