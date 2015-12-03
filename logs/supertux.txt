@@ -15590,3 +15590,17 @@
 [2015/12/03 13:13:28] <mt> 'Does not work for me.' is very unspecific
 [2015/12/03 13:14:10] <brmbrmcar> Yeah, but...
 [2015/12/03 13:14:39] <mt> does --debug say anything more specific
+[2015/12/03 13:15:04] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94695792
+[2015/12/03 13:15:07] <Tobbi> maths22: http://pastebin.com/Ruh3mmcx
+[2015/12/03 13:21:03] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94695315
+[2015/12/03 13:23:46] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/24
+[2015/12/03 13:24:55] <Not-e81f> [02supertux] 07brmbrmcar opened pull request 03#250: Fixed dispenser direction in Two Tiny Towers - 13http://git.io/vRZv9
+[2015/12/03 13:24:59] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/27
+[2015/12/03 13:25:20] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#250: Fixed dispenser direction in Two Tiny Towers - 13http://git.io/vRZvF
+[2015/12/03 13:25:27] <brmbrmcar> Ah!
+[2015/12/03 13:27:01] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94696088
+[2015/12/03 13:28:46] <Not-e81f> [02supertux] 07brmbrmcar opened pull request 03#251: Changed coin limit to int_max - 13http://git.io/vRZfx
+[2015/12/03 13:28:51] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/28
+[2015/12/03 13:29:35] <Tobbi> I am not sure about the coin limit change.
+[2015/12/03 13:29:55] <brmbrmcar> Tobbi: Why?
+[2015/12/03 13:29:59] <Tobbi> because.
