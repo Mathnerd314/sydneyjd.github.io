@@ -15384,3 +15384,27 @@
 [2015/12/03 12:14:07] <mt> fine
 [2015/12/03 12:14:26] <Karkus> Thanks for your help
 [2015/12/03 12:14:56] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#1: Layers - 13http://git.io/vRG8Y
+[2015/12/03 12:15:21] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#4: 'Properties' Tab - 13http://git.io/vRG8B
+[2015/12/03 12:15:32] <brmbrmcar> Working!
+[2015/12/03 12:15:57] <Karkus> Hooray!
+[2015/12/03 12:17:29] <Not-e81f> [02flexlay] 07tobbi commented on issue 03#39: Create a "Resource library" instead of specifying file paths - 13http://git.io/vRGBR
+[2015/12/03 12:18:24] <Not-e81f> [02flexlay] 07Karkus476 commented on issue 03#39: Create a "Resource library" instead of specifying file paths - 13http://git.io/vRGRC
+[2015/12/03 12:18:37] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#39: Create a "Resource library" instead of specifying file paths - 13http://git.io/vRGRV
+[2015/12/03 12:18:39] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#39: Create a "Resource library" instead of specifying file paths - 13http://git.io/vRGRV
+[2015/12/03 12:18:48] <mt> commit #243: "Edit by @maxteufel, 2015-12-03 16:15 UTC: Added Arch Linux to list of people to notify"
+[2015/12/03 12:19:04] <Tobbi> Karkus: Yeah, that resource library idea is a minor one... :P
+[2015/12/03 12:19:43] <Karkus> Tobbi: Shouldn't be too difficult though.
+[2015/12/03 12:19:51] <Tobbi> That's right.
+[2015/12/03 12:23:38] <Karkus> Tobbi: Should it search the whole data directory?
+[2015/12/03 12:24:12] <Tobbi> Karkus: We could search the directories for certain things...data/image for sprite files, data/music for ogg, right?
+[2015/12/03 12:24:22] <Tobbi> Is faster than searching data/ fullz.
+[2015/12/03 12:24:23] <Tobbi> fully
+[2015/12/03 12:24:30] <Karkus> Yep
+[2015/12/03 12:25:58] <mt> re people to ping about release I guess that'd also be @amigadave (https://admin.fedoraproject.org/pkgdb/packager/amigadave/) and possibly @Vincent-C
+[2015/12/03 12:27:17] <mt> (https://qa.debian.org/developer.php?login=Vincent+Cheng) for the latter
+[2015/12/03 12:27:20] <Tobbi> mt: Add them to the release issue.
+[2015/12/03 12:28:11] <Karkus> Tobbi: Does the game search the datadir for .sprite files?
+[2015/12/03 12:28:58] <Tobbi> Karkus: No, it doesn't. The sprite files are hardcoded within the game.
+[2015/12/03 12:29:05] <Tobbi> *sprite file paths
+[2015/12/03 12:29:30] <Karkus> Hmmm, okay
+[2015/12/03 12:29:56] <mt> done
