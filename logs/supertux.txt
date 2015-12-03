@@ -15148,3 +15148,64 @@
 [2015/12/03 10:39:41] <brmbrmcar> Open with Wine.
 [2015/12/03 10:43:55] <leyyin> Tobbi, do you want to hear something funny?
 [2015/12/03 10:44:05] <Tobbi> leyyin: Sure.
+[2015/12/03 10:45:06] <leyyin> this year at my university, the 'Security' course is taught by Bitdefender (the anti-virus company), well they got good teachers, because last summer they got caught with having stored PLAIN PASSWORDS http://www.forbes.com/sites/thomasbrewster/2015/07/31/bitdefender-hacked/
+[2015/12/03 10:45:08] <leyyin> idiots
+[2015/12/03 10:45:40] <leyyin> how the heck can you store plain text passwords, and you are a security firm......
+[2015/12/03 10:45:47] <Tobbi> :D
+[2015/12/03 10:45:58] <leyyin> *this summer
+[2015/12/03 10:46:20] <Tobbi> leyyin: How comes they even let outside companies teach a security course at a university?
+[2015/12/03 10:46:38] <leyyin> because we are corporate slaves
+[2015/12/03 10:46:53] <leyyin> we have 3-4 (optional courses) taught by people from corporations
+[2015/12/03 10:47:48] <Tobbi> leyyin: At least they're optional...
+[2015/12/03 10:48:02] <Tobbi> leyyin: Our small university is too small to be corporate slaves anyway...
+[2015/12/03 10:49:03] <leyyin> well it depends on semester, you got too choose some optional courses
+[2015/12/03 10:49:08] <leyyin> 2 out of 6 courses
+[2015/12/03 10:49:13] <Tobbi> I see...
+[2015/12/03 10:49:27] <Tobbi> leyyin: Want to know what I noticed? I worry too much :P
+[2015/12/03 10:49:43] <leyyin> so this is unheard off in Germany? having corporations teach a course?
+[2015/12/03 10:49:57] <leyyin> do you have ads at your university?
+[2015/12/03 10:49:59] <Tobbi> leyyin: Probably not... But it's not common, I'd think.
+[2015/12/03 10:50:04] <Tobbi> leyyin: No?
+[2015/12/03 10:50:08] <leyyin> by corporations ? :D
+[2015/12/03 10:50:11] <leyyin> we have them too
+[2015/12/03 10:50:22] <Tobbi> leyyin: Universities are not private...
+[2015/12/03 10:50:29] <leyyin> yeah
+[2015/12/03 10:50:32] <leyyin> this one too
+[2015/12/03 10:50:38] <Tobbi> That's weird.
+[2015/12/03 10:50:39] <leyyin> but we got ads by corporations :D
+[2015/12/03 10:50:52] <leyyin> "Check out our awesome company"
+[2015/12/03 10:50:52] <Tobbi> leyyin: That is totally mental.
+[2015/12/03 10:50:55] @ tuxdev_ joined channel #supertux
+[2015/12/03 10:51:10] <leyyin> even in big lecture rooms
+[2015/12/03 10:51:14] <leyyin> in front of the class
+[2015/12/03 10:51:28] <brmbrmcar> Can I put up an ad?
+[2015/12/03 10:51:45] <leyyin> Tobbi, and friends think I am crazy when I tell them this is not normal :D
+[2015/12/03 10:52:13] <Tobbi> leyyin: Okay, tell them to come to the Fachhochschule Flensburg. There are no ads, never...
+[2015/12/03 10:52:21] <Tobbi> leyyin: We do, however, have a list of openings...
+[2015/12/03 10:52:31] <Tobbi> But that's not the same.
+[2015/12/03 10:53:51] <leyyin> list of openings?
+[2015/12/03 10:54:02] <head8debian> Tobbi: ubuntu is not debian, and ubuntu is still not stuck on version 9.
+[2015/12/03 10:54:20] <Tobbi> leyyin: job openings...
+[2015/12/03 10:54:32] <Tobbi> So, companies post their openings on to a blackboard.
+[2015/12/03 10:54:40] <leyyin> ah ok, that is totally different
+[2015/12/03 10:55:02] <brmbrmcar> Debian is better than Ubuntu.
+[2015/12/03 10:55:18] <leyyin> linux is better than debian
+[2015/12/03 10:55:45] <leyyin> Tobbi, thank you for making me feel normal :D
+[2015/12/03 10:55:52] <leyyin> so I am not crazy when I am against those ads
+[2015/12/03 10:56:02] <Tobbi> leyyin: Normal depends on your definition...
+[2015/12/03 10:56:14] <brmbrmcar> Debian is Linux.
+[2015/12/03 10:56:21] <leyyin> brmbrmcar, impossible
+[2015/12/03 10:56:27] <leyyin> brmbrmcar, debian is a fork of windows
+[2015/12/03 10:56:31] <brmbrmcar> Linux distro
+[2015/12/03 10:56:38] <leyyin> brmbrmcar, not true
+[2015/12/03 10:56:46] <brmbrmcar> leyyin: You are messing with me.
+[2015/12/03 10:56:55] <leyyin> not true either :D
+[2015/12/03 10:57:00] <brmbrmcar> I HATE WINDOWS!!!!!!!!!!!!!!!!!!!!!
+[2015/12/03 10:58:56] <Tobbi> brmbrmcar: You're messing with yourself.
+[2015/12/03 10:59:17] <brmbrmcar> Nope.
+[2015/12/03 10:59:18] <Tobbi> leyyin: Do these outside lecturers advertise their company?
+[2015/12/03 10:59:31] <leyyin> Tobbi, idk, I never went to one
+[2015/12/03 10:59:32] <leyyin> Tobbi, ( ͡° ͜ʖ ͡°)
+[2015/12/03 10:59:37] <Tobbi> Hmm...
+[2015/12/03 10:59:43] <leyyin> [17:56:30] <@Tobbi> brmbrmcar: You're messing with yourself.
+[2015/12/03 10:59:53] <brmbrmcar> 15:57:17 < leyyin> [17:56:30] <@Tobbi> brmbrmcar: You're messing with yourself.
