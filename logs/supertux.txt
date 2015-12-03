@@ -15808,3 +15808,12 @@
 [2015/12/03 15:40:09] <Hume2> That's nice from you, brmbrmcar.
 [2015/12/03 15:40:18] <Hume2> Bye!
 [2015/12/03 15:40:19] @ Hume2 left channel #supertux ()
+[2015/12/03 15:48:11] @ Tobbi joined channel #supertux
+[2015/12/03 15:48:11] @ Mode +o Tobbi by ChanServ
+[2015/12/03 15:58:52] <Not-e81f> [02supertux] 07tobbi closed pull request 03#250: Fixed dispenser direction in Two Tiny Towers - 13http://git.io/vRZv9
+[2015/12/03 15:58:53] <Not-e81f> [02supertux] 07tobbi pushed 032 commits to 03master [+0/-0/±2] 13http://git.io/vRZpz
+[2015/12/03 15:58:55] <Not-e81f> [02supertux] 07brmbrmcar 03c72b490 - Fixed dispenser direction
+[2015/12/03 15:58:56] <Not-e81f> [02supertux] 07tobbi 03340f270 - Merge pull request #250 from brmbrmcar/patch-1
+[2015/12/03 15:58:58] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94731281
+[2015/12/03 15:58:59] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/30
+[2015/12/03 15:59:54] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94731281
