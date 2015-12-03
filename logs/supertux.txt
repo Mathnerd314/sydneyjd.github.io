@@ -15746,3 +15746,23 @@
 [2015/12/03 14:26:51] <Tobbi> one moment.
 [2015/12/03 14:28:51] <Not-e81f> [02flexlay] 07Karkus476 pushed 031 commit to 03develop [+1/-0/±1] 13http://git.io/vRZ0C
 [2015/12/03 14:28:52] <Not-e81f> [02flexlay] 07Karkus 03ad621d6 - Sprites stored in data/supertux/objects.csv
+[2015/12/03 14:31:54] <Not-e81f> [02flexlay] 07Karkus476 commented on issue 03#39: Create a "Resource library" instead of specifying file paths - 13http://git.io/vRZEa
+[2015/12/03 14:34:39] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/28
+[2015/12/03 14:37:12] <Hume2> We have nearly another bonus island.
+[2015/12/03 14:37:18] <Tobbi> Hume2: True...
+[2015/12/03 14:38:38] <Tobbi> I wonder why it won't run the miniswig stuff..
+[2015/12/03 14:38:53] <Tobbi> Oh, it did.
+[2015/12/03 14:39:23] <brmbrmcar> Bonus Island 4!
+[2015/12/03 14:39:40] <brmbrmcar> When will it be out? if ot is?
+[2015/12/03 14:40:44] <Not-e81f> [02flexlay] 07Karkus476 opened issue 03#41: Format Hover Text Better For Objects - 13http://git.io/vRZg7
+[2015/12/03 14:40:46] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#41: Format Hover Text Better For Objects - 13http://git.io/vRZg7
+[2015/12/03 14:42:48] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vRZ2K
+[2015/12/03 14:42:50] <Not-e81f> [02supertux] 07Tobias Markus 03df7c194 - Properly generate wrapper for _ shortcut to translate
+[2015/12/03 14:42:51] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94714119
+[2015/12/03 14:42:53] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/29
+[2015/12/03 14:43:26] <Tobbi> I thought it didn't work last time I tried that.
+[2015/12/03 14:43:52] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94714119
+[2015/12/03 14:44:01] <Hume2> brmbrmcar: I guess that each bonus island must have more levels than the previous one.
+[2015/12/03 14:44:27] @ alket joined channel #supertux
+[2015/12/03 14:44:36] <brmbrmcar> I could try and add some levels, when it is in production.
+[2015/12/03 14:44:58] <Hume2> brmbrmcar: You can contrib a level any time.
