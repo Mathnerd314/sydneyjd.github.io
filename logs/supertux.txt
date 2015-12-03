@@ -15439,3 +15439,69 @@
 [2015/12/03 12:44:14] <mt> What has actually changed since 0.3.5a
 [2015/12/03 12:44:29] <Hume2> I'm presened there as "Hume" in my worldmaps, do it would be better.
 [2015/12/03 12:44:42] <Tobbi> mt: Check git log?
+[2015/12/03 12:45:20] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vRGMY
+[2015/12/03 12:45:29] @ Quit: alket: Quit: Good Night :)
+[2015/12/03 12:47:27] <Not-e81f> [02supertux] 07svenstaro commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vRGDD
+[2015/12/03 12:47:43] <Hume2> mt: Also note that the people are interrested only in visible changes. Code changes are important too, but most of the people won't get the point of them.
+[2015/12/03 12:48:23] <mt> yeah
+[2015/12/03 12:48:27] <mt> I've just wondered
+[2015/12/03 12:48:38] <mt> because most I remembered was 'code changes'
+[2015/12/03 12:48:40] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vRGyJ
+[2015/12/03 12:48:41] <Not-e81f> [02supertux] 07Tobias Markus 037d7bb9c - Add Hume to credits [ci skip]
+[2015/12/03 12:49:10] <Hume2> Thanks, Tobbi.
+[2015/12/03 12:49:18] <Tobbi> mt, Hume2: We should, however, note non-visible changes as something like "Engine improvements" etc.
+[2015/12/03 12:49:32] <mt> yeah
+[2015/12/03 12:49:47] <Hume2> Yes, you can just write -Code improvements.
+[2015/12/03 12:49:51] <mt> 'Improve the general stability of the game engine'
+[2015/12/03 12:50:00] <Hume2> Or that. And that stands for all.
+[2015/12/03 12:50:08] <Tobbi> Do I put myself as "Project lead"? :P
+[2015/12/03 12:50:21] <Tobbi> I'd rather not take on that role, but others attribute it to me :D
+[2015/12/03 12:50:40] <mt> if you don't want that, don't add it
+[2015/12/03 12:50:56] <Tobbi> I am pondering whether to do that...Is it justified?
+[2015/12/03 12:51:01] <Karkus> Tobbi: It's up to you, of course
+[2015/12/03 12:51:13] <Tobbi> Karkus: I don't want to do it if it isn't justified, that's all...
+[2015/12/03 12:51:18] <Karkus> Tobbi: Had anyone else led since 0.3.6?
+[2015/12/03 12:51:19] <Tobbi> So, I am asking you guys.
+[2015/12/03 12:51:24] <Karkus> has
+[2015/12/03 12:51:26] <Tobbi> Karkus: Not that I know of.
+[2015/12/03 12:51:38] <Karkus> Well, I guess it is justified then
+[2015/12/03 12:51:39] <Tobbi> Neither have I. I just contributed a lot...
+[2015/12/03 12:52:03] <mt> giby wasn't really active since v0.3.5
+[2015/12/03 12:52:10] <Tobbi> hmm, right.
+[2015/12/03 12:52:22] <Tobbi> He's busy with his Ph.D.
+[2015/12/03 12:52:24] <Tobbi> afai
+[2015/12/03 12:52:25] <Tobbi> k
+[2015/12/03 12:53:51] <Tobbi> Bulgarian is at 90%. Great!
+[2015/12/03 12:54:17] @ alket joined channel #supertux
+[2015/12/03 12:54:18] <maths22> Tobbi: We don't care about windows XP anymore, right?
+[2015/12/03 12:54:34] <brmbrmcar> What about the other 10&?
+[2015/12/03 12:54:35] <Tobbi> maths22: What changes would you do that has an effect on XP?
+[2015/12/03 12:54:46] <Hume2> However, Windows XP is still better than 10.
+[2015/12/03 12:54:47] <Tobbi> brmbrmcar: Translators do have a lot to translate.
+[2015/12/03 12:54:53] <maths22> Tobbi: It's a compiler thing, not a source thing
+[2015/12/03 12:54:56] <mt> I'd say: don't even think about supporting unsupported software
+[2015/12/03 12:55:02] <brmbrmcar> So, what will it look like?
+[2015/12/03 12:55:21] <brmbrmcar> With incomplete translations?
+[2015/12/03 12:55:23] <maths22> mt: This is my belief, but I just wanted to check, since Visual Studio 2012+ builds don't run on XP
+[2015/12/03 12:55:30] @ Quit: tuxdev_: Ping timeout: 245 seconds
+[2015/12/03 12:55:39] <Tobbi> maths22: If there's a high enough demand for SuperTux on XP, we can create an executable on XP.
+[2015/12/03 12:55:45] <Tobbi> But, wait, XP is soo old.
+[2015/12/03 12:56:03] <Hume2> ...but better than Windows 7.
+[2015/12/03 12:56:04] <mt> if it's more than 'just change one line', forget it?
+[2015/12/03 12:56:25] <brmbrmcar> What was always wrong with Vista?
+[2015/12/03 12:56:34] <mt> Hume2: I disagree, tbh
+[2015/12/03 12:56:52] <Hume2> brmbrmcar: Vista is just slow. That's all.
+[2015/12/03 12:57:08] <Hume2> However, Windows 7 has IQ 7.
+[2015/12/03 12:57:32] <brmbrmcar> All Windows is awful.
+[2015/12/03 12:57:38] <maths22> I'm using the IE vms to test the installer on old versions, and started with XP (where it didn't run)
+[2015/12/03 12:57:41] <Hume2> Agreed.
+[2015/12/03 12:57:57] <maths22> I'm now trying 7.  The good thing is it is a clean install, so I will know if any dependencies are missing
+[2015/12/03 12:58:11] <Tobbi> ok
+[2015/12/03 12:58:23] <maths22> Tobbi: really, I don't care if it runs in Wine
+[2015/12/03 12:58:39] <Tobbi> maths22: That's alright... :D We publish native executables anyway.
+[2015/12/03 12:58:43] <maths22> We have native linux builds, so if Wine doesn't like it, its not the end of the world
+[2015/12/03 12:58:56] <maths22> Tobbi: exactly
+[2015/12/03 12:59:00] <brmbrmcar> Yeah, but I prefer running stuff in Wine on Linux.
+[2015/12/03 12:59:12] <Tobbi> brmbrmcar: ...
+[2015/12/03 12:59:14] <maths22> brmbrmcar: Why do you not like the native builds?
+[2015/12/03 12:59:51] <brmbrmcar> I can't seem to ever get the linux ones working, and it uses less disk space.
