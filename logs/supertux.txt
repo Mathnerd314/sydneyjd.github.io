@@ -16011,3 +16011,13 @@
 [2015/12/03 17:50:20] <maths22> Tobbi: Sure.  I don't know that it will do very much, but I can see about turning it on
 [2015/12/03 17:50:34] <maths22> (The installer is 3 mb bigger than the 0.3.5a one)
 [2015/12/03 17:50:43] <Tobbi> maths22: If you can, LZMA2 compression...
+[2015/12/03 18:04:57] <maths22> Tobbi: I can't choose the algorithm-sorry.  How much of a size change would that create?
+[2015/12/03 18:05:09] <Tobbi> maths22: I am not sure. Could we use NSIS instead?
+[2015/12/03 18:05:51] <maths22> Tobbi: I'll see.  Why?
+[2015/12/03 18:06:01] <Tobbi> maths22: Because that allows you to set compression.
+[2015/12/03 18:06:02] <Tobbi> :P
+[2015/12/03 18:06:10] <Tobbi> LZMA2 as well, afiak.
+[2015/12/03 18:07:40] <maths22> Running now-will compare output sizes
+[2015/12/03 18:07:49] <Tobbi> Alright.
+[2015/12/03 18:09:47] <Tobbi> It allows setting LZMA, not LZMA2...
+[2015/12/03 18:09:49] <Tobbi> but still...
