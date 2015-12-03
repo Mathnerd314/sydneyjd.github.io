@@ -15050,3 +15050,7 @@
 [2015/12/02 18:25:11] @ GitHub22 left channel #supertux ()
 [2015/12/02 18:25:46] @ Quit: Karkus: Quit: Division By Zero
 [2015/12/02 18:48:54] @ Quit: Tobbi_: Remote host closed the connection
+[2015/12/02 19:21:25] @ Quit: swift110: Remote host closed the connection
+[2015/12/02 19:28:43] @ Drangue joined channel #supertux
+[2015/12/02 19:28:45] @ Quit: alket: Read error: Connection reset by peer
+[2015/12/02 19:28:53] @ Drangue is now known as alket
