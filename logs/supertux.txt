@@ -15803,3 +15803,8 @@
 [2015/12/03 15:26:39] <Hume2> Can I say that I'm experienced with making levels?
 [2015/12/03 15:27:10] <Tobbi> The way the website is setup right now is a pain in the butt.
 [2015/12/03 15:28:22] <Hume2> Do you think that it's on three different servers?
+[2015/12/03 15:34:54] <brmbrmcar> Hume2: You are experienced in making levels.
+[2015/12/03 15:37:55] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/03 15:40:09] <Hume2> That's nice from you, brmbrmcar.
+[2015/12/03 15:40:18] <Hume2> Bye!
+[2015/12/03 15:40:19] @ Hume2 left channel #supertux ()
