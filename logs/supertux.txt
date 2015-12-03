@@ -15343,3 +15343,44 @@
 [2015/12/03 11:59:28] <Tobbi> My father'll attend as well...
 [2015/12/03 11:59:35] <Tobbi> And I had to debrief him on proper conduct.
 [2015/12/03 11:59:45] <Karkus> : )
+[2015/12/03 12:00:13] <mt> Karkus: well, notifico isn't set up for flexlay
+[2015/12/03 12:00:13] <Karkus> brmbrmcar: Please can you show me what 'shows fine' means (with a screenshot)
+[2015/12/03 12:00:21] <Karkus> mt: How can I set it up?
+[2015/12/03 12:00:23] <mt> and  github's commit bot doesn't announce comments
+[2015/12/03 12:00:33] <mt> I can set up an hook URL
+[2015/12/03 12:00:41] <mt> and then give it to Tobbi in PM
+[2015/12/03 12:00:58] <mt> (or do you happen to have admin access to the flexlay repo)
+[2015/12/03 12:01:14] <Karkus> Admin access?
+[2015/12/03 12:01:15] <mt> because anyone with access to it could spam the channel using the notifico bots
+[2015/12/03 12:01:45] <Karkus> I am a 'Contributor'
+[2015/12/03 12:01:54] <brmbrmcar> http://i.cubeupload.com/X0BSYm.png
+[2015/12/03 12:02:14] <mt> then you don't have admin access
+[2015/12/03 12:02:31] <Tobbi> One moment.
+[2015/12/03 12:02:35] <Tobbi> Let me see if Karkus has.
+[2015/12/03 12:02:56] <brmbrmcar> Contributor? For what?
+[2015/12/03 12:03:56] <Tobbi> Karkus: I added you to the admin group.
+[2015/12/03 12:04:35] <Karkus> Tobbi: Oh, thanks :D
+[2015/12/03 12:05:10] <mt> Karkus: mind a PM?
+[2015/12/03 12:05:30] <Karkus> mt: Sure
+[2015/12/03 12:06:02] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vRv98
+[2015/12/03 12:08:34] <Not-e81f> [02GitHub] Design for failure.
+[2015/12/03 12:08:47] <brmbrmcar> ???
+[2015/12/03 12:08:56] <mt> test message for flexlay notifico!
+[2015/12/03 12:09:16] <Karkus> mt: That's it?
+[2015/12/03 12:09:24] <mt> yeah
+[2015/12/03 12:10:09] <mt> oh, don't forget to disable github commit notifications
+[2015/12/03 12:10:09] <Karkus> mt: Okay, great!
+[2015/12/03 12:10:44] <mt> it's also in the same section, just delete the IRC service
+[2015/12/03 12:10:56] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2015/12/03 12:11:06] <brmbrmcar> Karkus: Why urgent? We have 17 days to do that stuff.
+[2015/12/03 12:11:31] <Karkus> brmbrmcar: SuperTux is like a rock, 17 days is a blink of the eye
+[2015/12/03 12:12:24] <Karkus> mt: How do I do that?
+[2015/12/03 12:12:35] <Karkus> mt: Delete the IRC Service?
+[2015/12/03 12:12:49] <Tobbi> Yes.
+[2015/12/03 12:12:58] <brmbrmcar> I have never seen priority:urgent before.
+[2015/12/03 12:13:48] <mt> Karkus: in the same settings section as webhooks, there's a part 'Services'
+[2015/12/03 12:13:56] <mt> there should be 'IRC' oslt
+[2015/12/03 12:14:03] <Karkus> mt: I've deleted it :D
+[2015/12/03 12:14:07] <mt> fine
+[2015/12/03 12:14:26] <Karkus> Thanks for your help
+[2015/12/03 12:14:56] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#1: Layers - 13http://git.io/vRG8Y
