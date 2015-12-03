@@ -15098,3 +15098,7 @@
 [2015/12/03 01:04:09] @ tux|dude joined channel #supertux
 [2015/12/03 01:32:56] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#225: All my wanted Console commands - 13http://git.io/vRYqA
 [2015/12/03 02:22:00] @ Karkus joined channel #supertux
+[2015/12/03 02:50:51] @ Quit: tuxdev_: Ping timeout: 260 seconds
+[2015/12/03 02:53:49] @ Quit: Karkus: Quit: Division By Zero
+[2015/12/03 02:56:15] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#225: All my wanted Console commands - 13http://git.io/vRY0M
+[2015/12/03 02:57:07] @ brmbrmcar joined channel #supertux
