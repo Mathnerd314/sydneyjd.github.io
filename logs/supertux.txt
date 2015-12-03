@@ -15408,3 +15408,34 @@
 [2015/12/03 12:29:05] <Tobbi> *sprite file paths
 [2015/12/03 12:29:30] <Karkus> Hmmm, okay
 [2015/12/03 12:29:56] <mt> done
+[2015/12/03 12:30:16] <mt> I hope the @mentions in the edited comment will notify them via email
+[2015/12/03 12:30:57] <Tobbi> Let's see...
+[2015/12/03 12:31:11] <Karkus> mt: I've wondered that too...
+[2015/12/03 12:31:19] <Tobbi> mt: Well, you mentioned yourself, did it notify you?
+[2015/12/03 12:31:44] <mt> no, that's not expected because I'm watching the repository anyway
+[2015/12/03 12:31:56] <mt> and you also don't get a notification for comments you write
+[2015/12/03 12:32:04] <Tobbi> right
+[2015/12/03 12:35:58] <Karkus> I edited my comment, mt. Did you get an email?
+[2015/12/03 12:36:52] <mt> no
+[2015/12/03 12:37:16] <Karkus> There you have it, then
+[2015/12/03 12:37:32] <mt> if just editing comments generates an email you'd also have gotten one about my change ;)
+[2015/12/03 12:39:07] @ alket joined channel #supertux
+[2015/12/03 12:39:26] @ Hume2 joined channel #supertux
+[2015/12/03 12:39:33] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vRGi5
+[2015/12/03 12:39:37] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vRGid
+[2015/12/03 12:39:38] <Not-e81f> [02supertux] 07Tobias Markus 03fe6315b - Add Karkus476 and maths22 to credits [ci skip]
+[2015/12/03 12:40:14] <Tobbi> Oh, wait, I also need to add hume.
+[2015/12/03 12:40:32] <Hume2> :D Thanks.
+[2015/12/03 12:40:41] <Tobbi> Hume2: How would you like to be credited?
+[2015/12/03 12:40:43] <Tobbi> And for what?
+[2015/12/03 12:41:57] @ Quit: Hume2: Client Quit
+[2015/12/03 12:42:02] <Tobbi> *sigh&
+[2015/12/03 12:42:14] <Tobbi> const sigh& sigh;
+[2015/12/03 12:42:37] @ Hume2 joined channel #supertux
+[2015/12/03 12:43:40] <Tobbi> Hume2: Shall I just write "Hume" / Programming, Level Design?
+[2015/12/03 12:43:48] <Hume2> Tobbi: OK
+[2015/12/03 12:43:56] <Tobbi> Hume2: Or Hume2?
+[2015/12/03 12:44:08] <Not-e81f> [02supertux] 07svenstaro commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vRG1z
+[2015/12/03 12:44:14] <mt> What has actually changed since 0.3.5a
+[2015/12/03 12:44:29] <Hume2> I'm presened there as "Hume" in my worldmaps, do it would be better.
+[2015/12/03 12:44:42] <Tobbi> mt: Check git log?
