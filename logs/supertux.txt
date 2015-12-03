@@ -15072,3 +15072,9 @@
 [2015/12/02 20:43:56] <head8debian> ~quit
 [2015/12/02 20:43:57] @ quit (okay bye)
 [2015/12/02 20:43:57] @ Log closed by * (rescan or shutdown)
+[2015/12/02 20:58:47] @ Log started by red_bot
+[2015/12/02 20:58:47] @ Joined channel #supertux
+[2015/12/02 20:58:47] @ Topic is "Welcome to the SuperTux chat | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | ©häññèł łôǥ http://sydneyjd.github.io/logs/ | nightly builds http://brlcad.org/~maths22/supertux-download.php"
+[2015/12/02 20:58:47] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-11-19 11:10:15 -0500
+[2015/12/02 20:58:49] @ head8debian joined channel #supertux
+[2015/12/02 20:58:51] @ Mode +nt by orwell.freenode.net
