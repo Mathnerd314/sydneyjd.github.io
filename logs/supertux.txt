@@ -15102,3 +15102,6 @@
 [2015/12/03 02:53:49] @ Quit: Karkus: Quit: Division By Zero
 [2015/12/03 02:56:15] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#225: All my wanted Console commands - 13http://git.io/vRY0M
 [2015/12/03 02:57:07] @ brmbrmcar joined channel #supertux
+[2015/12/03 03:34:25] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/12/03 03:34:34] @ Quit: tux|dude: Read error: Connection reset by peer
+[2015/12/03 03:34:59] @ tux|dude joined channel #supertux
