@@ -16021,3 +16021,13 @@
 [2015/12/03 18:07:49] <Tobbi> Alright.
 [2015/12/03 18:09:47] <Tobbi> It allows setting LZMA, not LZMA2...
 [2015/12/03 18:09:49] <Tobbi> but still...
+[2015/12/03 18:15:37] <maths22> With high compression set on WIX, it is a 2 mb difference
+[2015/12/03 18:17:42] <maths22> Do you have any other reason to prefer one or the other?
+[2015/12/03 18:18:09] <maths22> WIX has much better handling of upgrades
+[2015/12/03 18:19:41] <Tobbi> maths22: No, it's fine.
+[2015/12/03 18:19:44] <Tobbi> Just use WiX then.
+[2015/12/03 18:20:30] <maths22> (More accurately, NSIS has no handling of upgrades)
+[2015/12/03 18:21:52] <Tobbi> I guess since it's mostly binary files...
+[2015/12/03 18:21:58] <Tobbi> it wouldn't compress well, anyway.
+[2015/12/03 18:22:20] <maths22> Tobbi: Exactly
+[2015/12/03 18:22:28] <maths22> This is why there is minimal change over time
