@@ -16031,3 +16031,4 @@
 [2015/12/03 18:21:58] <Tobbi> it wouldn't compress well, anyway.
 [2015/12/03 18:22:20] <maths22> Tobbi: Exactly
 [2015/12/03 18:22:28] <maths22> This is why there is minimal change over time
+[2015/12/03 18:30:24] @ tux|dude joined channel #supertux
