@@ -15092,3 +15092,5 @@
 [2015/12/03 00:26:43] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94568852
 [2015/12/03 00:28:09] <maths22> In theory, Windows is now 100% done!
 [2015/12/03 00:28:27] <maths22> OSX is up tomorrow
+[2015/12/03 00:37:35] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94568852
+[2015/12/03 00:39:31] @ Quit: irungentoo: Remote host closed the connection
