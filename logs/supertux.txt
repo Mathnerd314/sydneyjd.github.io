@@ -15079,3 +15079,4 @@
 [2015/12/02 20:58:49] @ head8debian joined channel #supertux
 [2015/12/02 20:58:51] @ Mode +nt by orwell.freenode.net
 [2015/12/02 21:08:03] <head8debian> ugg.
+[2015/12/02 21:28:43] <maths22> head8debian: What was going on there?
