@@ -16008,3 +16008,6 @@
 [2015/12/03 17:23:09] <Tobbi> what?
 [2015/12/03 17:27:22] <Tobbi> maths22: So, you're using WiX to create the installer. Does it support compression?
 [2015/12/03 17:30:06] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/12/03 17:50:20] <maths22> Tobbi: Sure.  I don't know that it will do very much, but I can see about turning it on
+[2015/12/03 17:50:34] <maths22> (The installer is 3 mb bigger than the 0.3.5a one)
+[2015/12/03 17:50:43] <Tobbi> maths22: If you can, LZMA2 compression...
