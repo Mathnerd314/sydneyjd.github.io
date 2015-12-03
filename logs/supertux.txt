@@ -15209,3 +15209,39 @@
 [2015/12/03 10:59:37] <Tobbi> Hmm...
 [2015/12/03 10:59:43] <leyyin> [17:56:30] <@Tobbi> brmbrmcar: You're messing with yourself.
 [2015/12/03 10:59:53] <brmbrmcar> 15:57:17 < leyyin> [17:56:30] <@Tobbi> brmbrmcar: You're messing with yourself.
+[2015/12/03 11:00:10] <Tobbi> leyyin: So, we had one lecturer who was the boss of spielen.de, an online platform for online games...
+[2015/12/03 11:00:11] <brmbrmcar> leyyin started it!
+[2015/12/03 11:00:24] <Tobbi> But he told us something about how to run a company etc.
+[2015/12/03 11:00:26] <maths22> head8debian: Hopefully
+[2015/12/03 11:00:33] <Tobbi> And did not advertise it in any way.
+[2015/12/03 11:00:56] <Tobbi> brmbrmcar: Okay, so, if you mess with me, I will kick you, leyyin has free reign...but he is a respected member of this community.
+[2015/12/03 11:00:59] <maths22> brmbrmcar: Which file, and what is the error?
+[2015/12/03 11:01:34] <leyyin> hmm, I am an asshole, why I am respected thought
+[2015/12/03 11:01:38] <leyyin> weird people :D
+[2015/12/03 11:02:08] <Tobbi> leyyin: I can talk normally with you, thus you're respected.
+[2015/12/03 11:02:14] <brmbrmcar> maths22: How do you get the errr message?
+[2015/12/03 11:02:34] <brmbrmcar> maths22: I booted from bin/supertux2.exe
+[2015/12/03 11:02:49] <maths22> brmbrmcar: Which installer version?
+[2015/12/03 11:03:34] <brmbrmcar> I don't know. But I used SuperTux-0.3.5.507-win32.msi.
+[2015/12/03 11:03:42] <maths22> That answers my question
+[2015/12/03 11:03:49] <brmbrmcar> OK.
+[2015/12/03 11:04:24] <maths22> Try running it through the command line 'wine /path/to/bin/supertux2.exe'
+[2015/12/03 11:04:32] <maths22> That should give you the error message
+[2015/12/03 11:04:45] <maths22> (Otherwise, I'll try wine later today when I am running linux)
+[2015/12/03 11:04:48] @ irungentoo_ joined channel #supertux
+[2015/12/03 11:05:03] <Tobbi> ok.
+[2015/12/03 11:05:17] <Tobbi> maths22: There's an ongoing issue with running SuperTux on Wine...I created a bug report...
+[2015/12/03 11:05:37] <maths22> Tobbi: Where is the bug report?
+[2015/12/03 11:05:40] <Tobbi> one moment.
+[2015/12/03 11:05:45] <brmbrmcar> Unexpected token.
+[2015/12/03 11:06:02] <Tobbi> maths22: https://bugs.winehq.org/show_bug.cgi?id=39034
+[2015/12/03 11:06:09] <maths22> brmbrmcar: Can you share the whole output through a pastebin?
+[2015/12/03 11:06:12] @ Quit: irungentoo: Ping timeout: 246 seconds
+[2015/12/03 11:06:27] <head8debian> leyyin: Your school can hire me to teach the security course. :D
+[2015/12/03 11:06:51] <head8debian> Or whatever you called it...
+[2015/12/03 11:06:53] <brmbrmcar> maths22: Not yet, because I cannot run the command.
+[2015/12/03 11:07:03] <maths22> brmbrmcar: OK
+[2015/12/03 11:07:06] <maths22> I can debug later
+[2015/12/03 11:07:24] <brmbrmcar> I run wine /drive_c/Program Files (x86)/SuperTux/bin/supertux2.exe
+[2015/12/03 11:11:58] <head8debian> GPG ftw...
+[2015/12/03 11:12:09] @ Quit: irungentoo_: Ping timeout: 246 seconds
