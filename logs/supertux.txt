@@ -15054,3 +15054,5 @@
 [2015/12/02 19:28:43] @ Drangue joined channel #supertux
 [2015/12/02 19:28:45] @ Quit: alket: Read error: Connection reset by peer
 [2015/12/02 19:28:53] @ Drangue is now known as alket
+[2015/12/02 19:34:30] @ Quit: alket: Quit: Good Night :)
+[2015/12/02 19:36:52] @ Quit: jesusalva: Ping timeout: 260 seconds
