@@ -15638,3 +15638,58 @@
 [2015/12/03 13:44:07] @ claymore2 joined channel #supertux
 [2015/12/03 13:44:16] @ brmbrmcar joined channel #supertux
 [2015/12/03 13:44:59] <Tobbi> I really do not know...
+[2015/12/03 13:45:05] <Karkus> Tobbi: Here's what I've done - https://github.com/Karkus476/flexlay/blob/sprite_autoload/supertux/gameobj_factor.py
+[2015/12/03 13:45:30] <Tobbi> I see...
+[2015/12/03 13:45:35] <Tobbi> uhm...
+[2015/12/03 13:45:50] <Tobbi> Karkus: So, these are the default sprites for badguys, they should stay as they are.
+[2015/12/03 13:46:05] <Karkus> What I've commented out, you mean?
+[2015/12/03 13:46:08] <Tobbi> Karkus: yes.
+[2015/12/03 13:46:14] <Tobbi> What we need is a general sprite library.
+[2015/12/03 13:46:18] <Tobbi> That includes all sprites.
+[2015/12/03 13:46:22] <Tobbi> All found ones.
+[2015/12/03 13:46:39] <maths22> The current installer creates a system that only works on Windows 10.  That will be fixed tonight
+[2015/12/03 13:46:58] <Karkus> Tobbi: Hmm, what do you mean?
+[2015/12/03 13:47:30] <Karkus> What I've tried to do is automatically load all the sprites and badguys
+[2015/12/03 13:47:36] <Tobbi> Ah...
+[2015/12/03 13:47:42] <Tobbi> wait a minute.
+[2015/12/03 13:47:47] <Tobbi> Yes, that's a good idea actually.
+[2015/12/03 13:47:58] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94696088
+[2015/12/03 13:48:24] <Tobbi> Karkus: Problem is exactly what you pointed out: Directory names don't correlate with badguy names.
+[2015/12/03 13:48:33] <Tobbi> So, unfortunately that part of the code needs to stay intact.
+[2015/12/03 13:49:03] <Karkus> Tobbi: Hmm, so where could I get the names from?
+[2015/12/03 13:49:33] <Karkus> Tobbi: No, it's useless hardcoding it in
+[2015/12/03 13:49:38] <Tobbi> right.
+[2015/12/03 13:50:13] <Tobbi> Karkus: You could use the directory name...
+[2015/12/03 13:50:26] <Tobbi> Seems like that's the only thing that can be used.
+[2015/12/03 13:50:27] <Karkus> Tobbi: Is that always correct?
+[2015/12/03 13:51:48] <Tobbi> Karkus: Actually, it doesn't need to be correct, right? What I am thinking of when I mean "Sprite library" is a window that has a list of categories (maybe the names of the directory) and on the right it displays the sprites found in that directory.
+[2015/12/03 13:51:55] <Tobbi> Maybe I haven't thought this through....
+[2015/12/03 13:52:36] <Tobbi> Karkus: So, when you want to specify a sprite for a badguy, the library opens, you select the sprite and it copies its filename.
+[2015/12/03 13:53:00] <Karkus> Tobbi: Custom badguys?
+[2015/12/03 13:53:18] <Hume2> No, just the sprites.
+[2015/12/03 13:53:20] <Tobbi> Karkus: Well, not in terms of behaviour, but in terms of how they look.
+[2015/12/03 13:53:32] <Tobbi> Karkus: badguys have a sprite property in the lisp file.
+[2015/12/03 13:53:40] <Karkus> Is that a useful thing though?
+[2015/12/03 13:53:43] <Tobbi> That defines how the badguy looks...
+[2015/12/03 13:53:57] <Tobbi> Karkus: I don't know. But it's better than having to copy the filename to the sprite file, right?
+[2015/12/03 13:54:00] <Tobbi> At least IMO
+[2015/12/03 13:54:07] <brmbrmcar> There should be something to accept define files indata levels.
+[2015/12/03 13:54:54] <Karkus> brmbrmcar: That's a lot of words, but not a lot of sense
+[2015/12/03 13:55:05] <brmbrmcar> You know, like .c files.
+[2015/12/03 13:55:24] <brmbrmcar> That you can add into like a worldmap.
+[2015/12/03 13:56:07] <Tobbi> Oh no.
+[2015/12/03 13:56:12] <Tobbi> That would be a huge security risk.
+[2015/12/03 13:56:27] <brmbrmcar> Hacking?#
+[2015/12/03 13:56:44] <Tobbi> Also, a lot of code overlay...
+[2015/12/03 13:56:46] <brmbrmcar> remove Windows
+[2015/12/03 13:56:51] <Tobbi> we'd need to integrate a c parser...
+[2015/12/03 13:56:52] <Karkus> brmbrmcar: C is a comiled language != scripting
+[2015/12/03 13:56:54] <Tobbi> or compiler...
+[2015/12/03 13:57:48] <brmbrmcar> How about something that allows more customisability, but not computer destruction.
+[2015/12/03 13:59:00] <Tobbi> brmbrmcar: We have squirrel, what else do we need?
+[2015/12/03 13:59:24] <Tobbi> We should enhance our scripting capabilities after 0.4.0
+[2015/12/03 13:59:29] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/26
+[2015/12/03 13:59:29] <brmbrmcar> For things like badguy creation.
+[2015/12/03 13:59:41] <Tobbi> brmbrmcar: Badguy behaviour?
+[2015/12/03 13:59:53] <brmbrmcar> Yes. And powerups.
+[2015/12/03 13:59:56] <Karkus> Tobbi: I could have a CSV file in the editor which holds the Label, identifier, and .png/sprite file
