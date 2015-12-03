@@ -15832,3 +15832,18 @@
 [2015/12/03 16:13:58] <brmbrmcar> I'll be taking it slow. But I guess you won't be.
 [2015/12/03 16:14:43] <Tobbi> brmbrmcar: Unexpected things can happen.
 [2015/12/03 16:14:58] <Tobbi> giby might not be available on or before the release date so I have to import the stuff...
+[2015/12/03 16:15:53] <brmbrmcar> Tobbi: So it is very harsh?
+[2015/12/03 16:16:21] * brmbrmcar hides away
+[2015/12/03 16:16:30] <Tobbi> brmbrmcar: It might get.
+[2015/12/03 16:16:34] <Tobbi> Who knows what's gonna happen.
+[2015/12/03 16:17:05] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/30
+[2015/12/03 16:17:34] <brmbrmcar> Sothings like builds fasiling?
+[2015/12/03 16:25:08] <maths22> Tobbi: That is bad.  Fixing now...
+[2015/12/03 16:25:28] @ Karkus joined channel #supertux
+[2015/12/03 16:26:19] <head8debian> o_O
+[2015/12/03 16:27:04] <brmbrmcar> What does o_0 even mean?
+[2015/12/03 16:27:05] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vRnkg
+[2015/12/03 16:27:06] <Not-e81f> [02supertux] 07Jacob Burroughs 03fd32cc0 - Actually fix OS X plist version
+[2015/12/03 16:27:08] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94737248
+[2015/12/03 16:27:10] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/31
+[2015/12/03 16:28:16] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94737248
