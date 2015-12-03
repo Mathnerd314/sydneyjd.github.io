@@ -15128,3 +15128,23 @@
 [2015/12/03 10:13:36] @ Tobbi joined channel #supertux
 [2015/12/03 10:13:37] @ Mode +o Tobbi by ChanServ
 [2015/12/03 10:29:35] <head8debian> Tobbi: Hey.
+[2015/12/03 10:30:08] <head8debian> maths22: So, you are going to work on a OSX build today?
+[2015/12/03 10:30:44] <Tobbi> hello foot9ubuntu
+[2015/12/03 10:33:34] @ brmbrmcar joined channel #supertux
+[2015/12/03 10:35:22] <head8debian> Tobbi: ...
+[2015/12/03 10:35:39] <Tobbi> brmbrmcar: Will you be civil today and not be getting on our nerves?
+[2015/12/03 10:36:19] <brmbrmcar> Yes.
+[2015/12/03 10:36:37] <brmbrmcar> Thw Windsows builds aren't working on Wine...
+[2015/12/03 10:36:47] <Tobbi> brmbrmcar: Error message?
+[2015/12/03 10:37:00] <brmbrmcar> None.
+[2015/12/03 10:37:14] <brmbrmcar> It compiles, but doesn't sart.
+[2015/12/03 10:37:28] <brmbrmcar> bin/supertux2.exe
+[2015/12/03 10:37:30] <Tobbi> brmbrmcar: That should still give you an error message.
+[2015/12/03 10:37:42] <brmbrmcar> How?
+[2015/12/03 10:37:45] <brmbrmcar> Where?
+[2015/12/03 10:38:30] <Tobbi> brmbrmcar: How do you start the build?
+[2015/12/03 10:38:42] <brmbrmcar> I just downloaded it.
+[2015/12/03 10:39:16] <brmbrmcar> I opened he file,and followed the instructions.
+[2015/12/03 10:39:41] <brmbrmcar> Open with Wine.
+[2015/12/03 10:43:55] <leyyin> Tobbi, do you want to hear something funny?
+[2015/12/03 10:44:05] <Tobbi> leyyin: Sure.
