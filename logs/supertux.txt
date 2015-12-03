@@ -15766,3 +15766,27 @@
 [2015/12/03 14:44:27] @ alket joined channel #supertux
 [2015/12/03 14:44:36] <brmbrmcar> I could try and add some levels, when it is in production.
 [2015/12/03 14:44:58] <Hume2> brmbrmcar: You can contrib a level any time.
+[2015/12/03 14:45:29] <Hume2> If we don't accept a level, we must have a good reason.
+[2015/12/03 14:46:37] <brmbrmcar> OK then.
+[2015/12/03 14:46:56] <brmbrmcar> Should it be snow theme or forest?
+[2015/12/03 14:47:31] <Hume2> hmmm... I'd say that it's your choice.
+[2015/12/03 14:47:55] <brmbrmcar> OK.
+[2015/12/03 14:48:08] @ Quit: Karkus: Ping timeout: 260 seconds
+[2015/12/03 14:48:31] <Tobbi> It definitely is.
+[2015/12/03 14:48:40] <Tobbi> Try to keep a decent quality, though ;)
+[2015/12/03 14:48:50] <Hume2> :D Good note.
+[2015/12/03 14:50:54] <Hume2> I'd suggest to make only one level a day, else it will look like TeraTux.
+[2015/12/03 14:51:50] <Hume2> When I was working on TeraTux, I tried to make 6 levels a day.
+[2015/12/03 14:51:50] <Tobbi> Yes.
+[2015/12/03 14:51:51] <Tobbi> :D
+[2015/12/03 14:51:56] <Tobbi> Why this OCD?
+[2015/12/03 14:51:57] <Tobbi> :D
+[2015/12/03 14:53:01] <brmbrmcar> I made a levelset like TeraTux, apart from it had a load of scripts.
+[2015/12/03 14:54:13] <Hume2> How many levels made you a day when working on it?
+[2015/12/03 14:55:42] <Hume2> Making more levels a day is really dangerous. The first time I made some decent levels, but after that it started to bore me.
+[2015/12/03 14:56:03] <Tobbi> This will hopefully be improved with the new level editor.
+[2015/12/03 14:56:40] <Hume2> ...so the levels were crappier and crappier. After that I was so bored, so I couldn't make any level, even a crappy one.
+[2015/12/03 14:57:05] <Hume2> Tobbi. I have already seen some crappy levels made in the new editor.
+[2015/12/03 14:58:02] <Tobbi> Hume2: I know...but it will get improved.
+[2015/12/03 14:58:23] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94714119
+[2015/12/03 14:58:55] <Hume2> Is it possible that I have something like OCD?
