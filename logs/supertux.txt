@@ -15693,3 +15693,33 @@
 [2015/12/03 13:59:41] <Tobbi> brmbrmcar: Badguy behaviour?
 [2015/12/03 13:59:53] <brmbrmcar> Yes. And powerups.
 [2015/12/03 13:59:56] <Karkus> Tobbi: I could have a CSV file in the editor which holds the Label, identifier, and .png/sprite file
+[2015/12/03 14:00:09] <Tobbi> Karkus: That would actually make sense. And be much easier to load in.
+[2015/12/03 14:00:09] <Karkus> Tobbi: Yes, scripting improvements are a must.
+[2015/12/03 14:00:32] <brmbrmcar> Tile customisation.
+[2015/12/03 14:00:33] <Karkus> Tobbi: Then it is hardcoded, but easy to update
+[2015/12/03 14:00:37] <Tobbi> Yes.
+[2015/12/03 14:02:56] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+7/-0/±1] 13http://git.io/vRZZb
+[2015/12/03 14:02:57] <Not-e81f> [02supertux] 07Hume2 035ea120a - Added the rest of pre_git_bugtracker_worldmap to Incubator
+[2015/12/03 14:03:32] <Karkus> Tobbi: .csv ?
+[2015/12/03 14:03:42] <Karkus> Where should I put it?
+[2015/12/03 14:03:46] <Tobbi> Oh...
+[2015/12/03 14:03:48] <Tobbi> one moment.
+[2015/12/03 14:04:23] <Tobbi> Karkus: under data/ ?
+[2015/12/03 14:05:03] @ Quit: Karkus: Quit: Division By Zero
+[2015/12/03 14:05:09] <Hume2> Any requests about scripting?
+[2015/12/03 14:05:28] @ Karkus joined channel #supertux
+[2015/12/03 14:05:44] <Tobbi> Hume2: Well, we already have an issue re. scripting backgrounds...
+[2015/12/03 14:05:46] <Tobbi> and particles.
+[2015/12/03 14:06:01] <Karkus> Tobbi: Ah, of course
+[2015/12/03 14:06:51] <brmbrmcar> How do you even use the csv stuff?
+[2015/12/03 14:06:56] <Hume2> Tobbi: What should be scriptable on them? Only start and stop?
+[2015/12/03 14:07:02] <brmbrmcar> Like, what is it for?
+[2015/12/03 14:07:10] <Tobbi> Hume2: Colours, everything you can...
+[2015/12/03 14:07:26] <Hume2> Disco snow!
+[2015/12/03 14:07:59] <Tobbi> Yes, that too.
+[2015/12/03 14:08:01] <Hume2> It's SuperTux, not DiscoTux :D But I can try.
+[2015/12/03 14:12:24] <Tobbi> Hume2: Nah, it's good for post 0.4.0
+[2015/12/03 14:12:36] <Tobbi> scripting whatever can be scripted
+[2015/12/03 14:14:17] <Hume2> Well, after 0.4.0. There is more important stuff now.
+[2015/12/03 14:14:41] <Tobbi> That's right.
+[2015/12/03 14:14:47] <Tobbi> Hume2: But scripting is one of these important things.
