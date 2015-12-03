@@ -15080,3 +15080,5 @@
 [2015/12/02 20:58:51] @ Mode +nt by orwell.freenode.net
 [2015/12/02 21:08:03] <head8debian> ugg.
 [2015/12/02 21:28:43] <maths22> head8debian: What was going on there?
+[2015/12/02 21:35:20] <head8debian> maths22: Internet going crazy because or a storm rolling through.
+[2015/12/02 21:35:38] <head8debian> It happens sometimes...
