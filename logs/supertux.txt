@@ -15960,3 +15960,42 @@
 [2015/12/03 16:54:27] <leyyin> 3 jesusalva
 [2015/12/03 16:55:04] <Karkus> 10,10        
 [2015/12/03 16:56:21] <Karkus> Yeah, colour codes are just a pain
+[2015/12/03 17:01:41] <jesusalva> brb.
+[2015/12/03 17:02:06] <maths22> I'm thining I need to automatically clean up the downloads:
+[2015/12/03 17:02:12] <maths22> http://brlcad.org/~maths22/supertux-download.php
+[2015/12/03 17:02:19] <maths22> (see Windows)
+[2015/12/03 17:03:06] @ Tobbi joined channel #supertux
+[2015/12/03 17:03:06] @ Mode +o Tobbi by ChanServ
+[2015/12/03 17:04:08] <jesusalva> Welcome back Tobbi
+[2015/12/03 17:04:15] <Tobbi> Thanks, jesusalva
+[2015/12/03 17:05:00] @ Tobbi set topic "Welcome to the SuperTux chat | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | ©häññèł łôǥ http://sydneyjd.github.io/logs/ | nightly builds http://brlcad.org/~maths22/supertux-download.php"
+[2015/12/03 17:05:59] <maths22> Tobbi: That doesn't quite look right
+[2015/12/03 17:06:08] <Tobbi> maths22: What doesn't?
+[2015/12/03 17:06:10] <maths22> "(c)h"a~n~n`el l^o\u01e5 http://sydneyjd.github.io/logs/ "
+[2015/12/03 17:06:14] <maths22> In the topic
+[2015/12/03 17:06:14] <Tobbi> oh!
+[2015/12/03 17:06:17] <Tobbi> damn this.
+[2015/12/03 17:06:29] <maths22> How did it get into German earlier?
+[2015/12/03 17:06:46] <Tobbi> maths22: Because I changed it, because I believe head8debian complained...
+[2015/12/03 17:06:52] <Tobbi> That this channel is getting germanized.
+[2015/12/03 17:06:58] <maths22> Tobbi: fair
+[2015/12/03 17:07:07] @ Tobbi set topic "Welcome to the SuperTux chat | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | Channel log http://sydneyjd.github.io/logs/ | nightly builds http://brlcad.org/~maths22/supertux-download.php"
+[2015/12/03 17:07:39] <maths22> Tobbi: Did you see how long the list of Windows builds got?
+[2015/12/03 17:07:46] <maths22> It needs some automated cleaning
+[2015/12/03 17:08:08] @ Quit: Karkus: Ping timeout: 260 seconds
+[2015/12/03 17:08:51] <Tobbi> maths22: Definitely...
+[2015/12/03 17:12:20] @ Quit: leper`: Ping timeout: 260 seconds
+[2015/12/03 17:12:42] <Tobbi> jesusalva: You know that I have a log to spy on when I want to catch you guys playing with colours?
+[2015/12/03 17:13:35] @ leper` joined channel #supertux
+[2015/12/03 17:13:50] <jesusalva> Of course.
+[2015/12/03 17:13:52] <head8debian> Tobbi: I know it, but it only updates once every 15 mins. :D
+[2015/12/03 17:14:04] <Tobbi> head8debian: You guys are not OCD enough to time that perfectly.
+[2015/12/03 17:14:06] <Tobbi> :D
+[2015/12/03 17:14:15] <jesusalva> But the question is not playing with colors. Is annoying you though color play. :/
+[2015/12/03 17:14:16] <head8debian> And i have the power to clear it. :D
+[2015/12/03 17:14:23] <head8debian> Tobbi: OCD?
+[2015/12/03 17:14:29] <head8debian> Speaking of clearing...
+[2015/12/03 17:14:30] <Tobbi> head8debian: Obsessive compulsive disorder.
+[2015/12/03 17:14:39] <jesusalva> Oh! "TOC".
+[2015/12/03 17:14:44] <jesusalva> Here at least.
+[2015/12/03 17:14:49] <Tobbi> TOC? Table of contents?
