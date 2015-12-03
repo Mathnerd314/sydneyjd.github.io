@@ -16007,3 +16007,4 @@
 [2015/12/03 17:19:36] <head8debian> Terms of content? :D
 [2015/12/03 17:23:09] <Tobbi> what?
 [2015/12/03 17:27:22] <Tobbi> maths22: So, you're using WiX to create the installer. Does it support compression?
+[2015/12/03 17:30:06] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
