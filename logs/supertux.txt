@@ -15817,3 +15817,18 @@
 [2015/12/03 15:58:58] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94731281
 [2015/12/03 15:58:59] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/30
 [2015/12/03 15:59:54] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94731281
+[2015/12/03 16:01:55] <head8debian>  Tobbi We ready for the big day? :D
+[2015/12/03 16:02:08] <Tobbi> head8debian: I believe so? it's in more than 2 weeks anyway.
+[2015/12/03 16:02:39] <head8debian> Tobbi: Its not far.
+[2015/12/03 16:02:46] <Tobbi> head8debian: Not in SuperTux terms...
+[2015/12/03 16:02:47] <Tobbi> no.
+[2015/12/03 16:02:55] <head8debian> haha.
+[2015/12/03 16:03:09] <brmbrmcar> But there is time in between.
+[2015/12/03 16:03:18] <Tobbi> head8debian: I am actually quite serious...
+[2015/12/03 16:10:38] <brmbrmcar> How bad is the release day?
+[2015/12/03 16:12:30] <head8debian> Tobbi: I know you are, and its true. 2 weeks doesnt seem like far to me.
+[2015/12/03 16:13:12] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94731281
+[2015/12/03 16:13:22] <brmbrmcar> 11 days of school with a watch with the wrong time on in between. Hmmm....
+[2015/12/03 16:13:58] <brmbrmcar> I'll be taking it slow. But I guess you won't be.
+[2015/12/03 16:14:43] <Tobbi> brmbrmcar: Unexpected things can happen.
+[2015/12/03 16:14:58] <Tobbi> giby might not be available on or before the release date so I have to import the stuff...
