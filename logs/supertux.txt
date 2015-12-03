@@ -15505,3 +15505,88 @@
 [2015/12/03 12:59:12] <Tobbi> brmbrmcar: ...
 [2015/12/03 12:59:14] <maths22> brmbrmcar: Why do you not like the native builds?
 [2015/12/03 12:59:51] <brmbrmcar> I can't seem to ever get the linux ones working, and it uses less disk space.
+[2015/12/03 13:00:10] <brmbrmcar> Because on Wine you can just throw away the soycre.
+[2015/12/03 13:00:24] <Karkus> I dual boot Windows 10, so I can double check that
+[2015/12/03 13:00:28] <maths22> brmbrmcar: Linux builds should not include source [binary ones anyways]
+[2015/12/03 13:00:53] <maths22> Karkus: Thanks.  I do the same, but I have all the dev tools installed, so the vms give me a nice clean slate
+[2015/12/03 13:01:09] <brmbrmcar> Karku:I mean the thing to install from.
+[2015/12/03 13:01:18] <brmbrmcar> I meant maths22 then.
+[2015/12/03 13:01:26] <Karkus> maths22: Okay
+[2015/12/03 13:01:46] <mt> maths22: uh, builds are usually binaries :P
+[2015/12/03 13:01:54] <maths22> mt: I know
+[2015/12/03 13:02:03] <Tobbi> Not for something like JavaScript :P
+[2015/12/03 13:02:05] <maths22> brmbrmcar was confusing me, and I gave a confusing reply back :(
+[2015/12/03 13:02:32] <brmbrmcar> maths22: Where is the Linux source file anyway? You know, that tar.gz one.
+[2015/12/03 13:02:47] <maths22> brmbrmcar: Not yet being built.
+[2015/12/03 13:02:54] <brmbrmcar> OK.
+[2015/12/03 13:03:49] <Tobbi> What is this individual complaining about, anyway? http://a062.apm.etc.tu-bs.de/forums/viewtopic.php?pid=5175#p5175
+[2015/12/03 13:03:53] <maths22> I'm dissapointed with the installer.  The background graphics don't work in Windows 7
+[2015/12/03 13:04:03] <Karkus> Tobbi: You should announce the new Twitter page on the website
+[2015/12/03 13:04:15] <Tobbi> Karkus: Oh, yes, I should.
+[2015/12/03 13:04:28] <Tobbi> Actually, it needs to be done in the source files as well...
+[2015/12/03 13:04:38] <brmbrmcar> W: GPG error: http://download.opensuse.org  Release: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 1951C4BAC3842CC7
+[2015/12/03 13:04:51] <Tobbi> head8debian: Can you do it? Add a post about the twitter page on the website?
+[2015/12/03 13:04:54] <Tobbi> I love to delegate.
+[2015/12/03 13:05:12] <Karkus> Tobbi: Err, do we not have linux binaries?
+[2015/12/03 13:05:19] <Tobbi> Karkus: That's what I wondered...
+[2015/12/03 13:05:23] <Tobbi> I mean: I know we do.
+[2015/12/03 13:05:24] <brmbrmcar> Nope.
+[2015/12/03 13:05:31] <brmbrmcar> Didn't used to.
+[2015/12/03 13:05:33] <Tobbi> s/know/think
+[2015/12/03 13:05:37] <Tobbi> s/know/think/
+[2015/12/03 13:05:37] <red_bot> Tobbi meant: "s/think/think"
+[2015/12/03 13:05:44] <Tobbi> *sigh*
+[2015/12/03 13:05:46] <Tobbi> never mind
+[2015/12/03 13:05:50] <brmbrmcar> But this is a linux game.
+[2015/12/03 13:06:03] <Karkus> Tobbi: This is the flaw with the s/ think :D
+[2015/12/03 13:06:05] <Not-e81f> [02supertux] 07tobbi closed pull request 03#247: Fixed console command 'functions(...)' - 13http://git.io/vRto9
+[2015/12/03 13:06:06] <Not-e81f> [02supertux] 07tobbi pushed 032 commits to 03master [+0/-0/±2] 13http://git.io/vRGb9
+[2015/12/03 13:06:08] <Not-e81f> [02supertux] 07José Rebelo 036630e1c - Fixed console method 'functions(...)'
+[2015/12/03 13:06:09] <Not-e81f> [02supertux] 07tobbi 0369c36a2 - Merge pull request #247 from joserebelo/fix_functions
+[2015/12/03 13:06:11] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94695315
+[2015/12/03 13:06:12] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/24
+[2015/12/03 13:06:13] <Tobbi> yes
+[2015/12/03 13:06:46] <mt> on linux it's usually packaged by the distro or you know how to build it yourself :P
+[2015/12/03 13:06:50] <brmbrmcar> One ticked off!
+[2015/12/03 13:07:02] <Tobbi> Oh, yes, that commit should've carried a [ci skip].
+[2015/12/03 13:07:11] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94695315
+[2015/12/03 13:07:23] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94695315
+[2015/12/03 13:07:25] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94695315
+[2015/12/03 13:07:43] <Hume2> ...or Travis[ci skip] :D Makes the same, but is more cool.
+[2015/12/03 13:08:03] <Tobbi> Hume2: Is there anything preventing https://github.com/SuperTux/supertux/pull/242 from getting merged?
+[2015/12/03 13:08:10] <mt> and looks even more ugly
+[2015/12/03 13:08:35] <Hume2> Tobbi: i just waited for your opinion.
+[2015/12/03 13:08:42] <Tobbi> Hume2: Looks good. i'll merge it.
+[2015/12/03 13:08:54] <Not-e81f> [02supertux] 07tobbi closed pull request 03#242: Sprites from pre_git_bugtracker_worldmap - 13http://git.io/vB7r7
+[2015/12/03 13:08:55] <Not-e81f> [02supertux] 07tobbi pushed 034 commits to 03master [+136/-34/±0] 13http://git.io/vRGN1
+[2015/12/03 13:08:57] <Not-e81f> [02supertux] 07tobbi 03b58afeb - Merge pull request #242 from SuperTux/incubator
+[2015/12/03 13:08:58] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94695792
+[2015/12/03 13:09:00] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/25
+[2015/12/03 13:09:16] <Tobbi> Hume2: So now you can add the missing levels to Incubator, right?
+[2015/12/03 13:09:22] <Tobbi> Those that depend on these sprites?
+[2015/12/03 13:09:28] <Hume2> Tobbi: Yes.
+[2015/12/03 13:09:34] <Tobbi> good
+[2015/12/03 13:10:22] <Not-e81f> [02supertux] 07tobbi closed pull request 03#220: Add make_invincible() function to Console. - 13http://git.io/v84Gc
+[2015/12/03 13:10:23] <Not-e81f> [02supertux] 07tobbi pushed 032 commits to 03master [+0/-0/±2] 13http://git.io/vRGAa
+[2015/12/03 13:10:25] <Not-e81f> [02supertux] 07brmbrmcar 03e5908e1 - scripts/console.nut: add make_invincible()
+[2015/12/03 13:10:26] <Not-e81f> [02supertux] 07tobbi 039d4721c - Merge pull request #220 from brmbrmcar/master
+[2015/12/03 13:10:27] <brmbrmcar> Tobbi: That functions(...) still won't work.
+[2015/12/03 13:10:28] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94696088
+[2015/12/03 13:10:29] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/26
+[2015/12/03 13:10:45] <Tobbi> brmbrmcar: Okay...I didn't test it...what does it throw?
+[2015/12/03 13:10:45] <mt> you're very active today
+[2015/12/03 13:10:55] <Tobbi> mt: I am just merging pull requests.
+[2015/12/03 13:11:06] <Tobbi> That doesn't count as activity.
+[2015/12/03 13:11:18] <mt> that's being active as well, since the project moves forward
+[2015/12/03 13:11:20] <Tobbi> Besides, I want to merge the last minute stuff before 0.4.0 which is not critical...
+[2015/12/03 13:11:23] <mt> unlike some years ago
+[2015/12/03 13:11:33] <brmbrmcar> expression  expected line 1 column 13
+[2015/12/03 13:11:42] <Tobbi> mt: I just hope people don't depend on me too much.
+[2015/12/03 13:11:47] <Tobbi> I wouldn't like that.
+[2015/12/03 13:12:19] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#247: Fixed console command 'functions(...)' - 13http://git.io/vRGxL
+[2015/12/03 13:12:55] <Tobbi> Shall I back it out?
+[2015/12/03 13:12:57] @ Quit: alket: Quit: Good Night :)
+[2015/12/03 13:12:59] <Tobbi> I didn't try it.
+[2015/12/03 13:13:28] <mt> 'Does not work for me.' is very unspecific
+[2015/12/03 13:14:10] <brmbrmcar> Yeah, but...
+[2015/12/03 13:14:39] <mt> does --debug say anything more specific
