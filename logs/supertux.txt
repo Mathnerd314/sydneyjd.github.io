@@ -15922,3 +15922,41 @@
 [2015/12/03 16:44:47] <head8debian> 20hmm
 [2015/12/03 16:44:49] <head8debian> 30hmm
 [2015/12/03 16:44:52] <head8debian> 40hmm
+[2015/12/03 16:45:02] <jesusalva> Serious bussiness for serious people. Gone the serious people, so does the serious bussiness.
+[2015/12/03 16:45:06] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94737248
+[2015/12/03 16:45:40] <jesusalva> Of course color is not everything that we can do or 9can4not
+[2015/12/03 16:46:17] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/31
+[2015/12/03 16:46:39] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#42: Speed up rendering of tilemaps - 13http://git.io/vRnmi
+[2015/12/03 16:46:45] <brmbrmcar> 888888888888888
+[2015/12/03 16:47:06] <brmbrmcar> colour
+[2015/12/03 16:47:18] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#19: Source View - 13http://git.io/vRnY5
+[2015/12/03 16:47:19] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#19: Source View - 13http://git.io/vRnY5
+[2015/12/03 16:47:21] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#19: Source View - 13http://git.io/vRnY5
+[2015/12/03 16:47:35] <brmbrmcar> 9brmbrmcar
+[2015/12/03 16:47:42] <leyyin> jesus
+[2015/12/03 16:47:43] <Not-e81f> [02flexlay] 07Karkus476 commented on issue 03#19: Source View - 13http://git.io/vRnYh
+[2015/12/03 16:48:11] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#1: Layers - 13http://git.io/vRG8Y
+[2015/12/03 16:48:22] <brmbrmcar> 9leyying:Whats wrong wth this?
+[2015/12/03 16:49:46] <Karkus> leyyin: What about him?
+[2015/12/03 16:49:55] <leyyin> he likes colors apparently
+[2015/12/03 16:50:13] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#6: Automatically Create Camera - 13http://git.io/vRnOP
+[2015/12/03 16:50:14] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#6: Automatically Create Camera - 13http://git.io/vRnOP
+[2015/12/03 16:50:15] <Not-e81f> [02flexlay] 07Karkus476 assigned issue 03#6: Automatically Create Camera - 13http://git.io/vRnOP
+[2015/12/03 16:50:36] <leyyin> the github bot is kinda spammy O_O
+[2015/12/03 16:50:40] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#36: Include help and reference inside the level editor - 13http://git.io/vRnOF
+[2015/12/03 16:50:41] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#36: Include help and reference inside the level editor - 13http://git.io/vRnOF
+[2015/12/03 16:50:43] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#36: Include help and reference inside the level editor - 13http://git.io/vRnOF
+[2015/12/03 16:50:48] <brmbrmcar> 10jesus
+[2015/12/03 16:51:00] <Karkus> leyyin: Yup
+[2015/12/03 16:51:08] <brmbrmcar> 11That is not GitHub, but Notifico!
+[2015/12/03 16:52:02] @ Quit: nerdopolis: Quit: No Ping reply in 180 seconds.
+[2015/12/03 16:52:26] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/12/03 16:52:34] <Karkus> There, I've stopped it.
+[2015/12/03 16:52:40] <Karkus> leyyin: I didn't realise
+[2015/12/03 16:53:02] @ nerdopolis joined channel #supertux
+[2015/12/03 16:53:08] <jesusalva> 4Please do not abuse color codes with Tobbi (or giby) around. They can always put the +c mode and ban color codes...again.
+[2015/12/03 16:53:36] <Karkus> Labelling, unfortunately is the same checkbox as opening and closing issues, so I can't see that.
+[2015/12/03 16:54:02] <leyyin> 3,2sigh
+[2015/12/03 16:54:27] <leyyin> 3 jesusalva
+[2015/12/03 16:55:04] <Karkus> 10,10        
+[2015/12/03 16:56:21] <Karkus> Yeah, colour codes are just a pain
