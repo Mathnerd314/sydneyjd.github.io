@@ -15847,3 +15847,78 @@
 [2015/12/03 16:27:08] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94737248
 [2015/12/03 16:27:10] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/31
 [2015/12/03 16:28:16] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94737248
+[2015/12/03 16:30:34] <head8debian> brmbrmcar: Its a feeling.
+[2015/12/03 16:31:22] <brmbrmcar> What feeling?
+[2015/12/03 16:31:30] <brmbrmcar> Happy? Sad?
+[2015/12/03 16:32:10] <head8debian> never mind.
+[2015/12/03 16:32:56] <brmbrmcar> OK.
+[2015/12/03 16:32:59] <brmbrmcar> :((((((((((((
+[2015/12/03 16:33:28] <jesusalva> I thought ':/' was the "nevermind" feeling.
+[2015/12/03 16:34:17] <brmbrmcar> :\
+[2015/12/03 16:34:30] <jesusalva> brmbrmc4r: parsing error: 12 unclosed pharentisis.
+[2015/12/03 16:34:47] * jesusalva doesn't know how to write that properly.
+[2015/12/03 16:35:19] <head8debian> jesusalva: To me :/ means kinda like, oops, i broke it. :p
+[2015/12/03 16:35:35] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/03 16:35:51] <brmbrmcar> :|
+[2015/12/03 16:35:55] <jesusalva> :|
+[2015/12/03 16:35:55] <head8debian> o_O = that doesnt sound good and sounds weird
+[2015/12/03 16:35:58] <head8debian> :D
+[2015/12/03 16:36:08] <head8debian> :D = happy.
+[2015/12/03 16:36:14] <jesusalva> For me o_O always was some kind of surprised.
+[2015/12/03 16:36:17] <head8debian> ;D = winky happy
+[2015/12/03 16:36:21] <head8debian> jesusalva: Well ,that too.
+[2015/12/03 16:36:42] <head8debian> Normal emoticons don't transfer the o_O feeling.
+[2015/12/03 16:37:00] <jesusalva> :C++ code.
+[2015/12/03 16:37:11] <head8debian> Figures.
+[2015/12/03 16:37:59] <head8debian> jesusalva: I took a bunch of screenshots for freedroid, but development has been really slow it seems for them.
+[2015/12/03 16:38:04] <jesusalva> 7I don't think that IRC can handle emoticons very well. ←
+[2015/12/03 16:38:16] <head8debian> Me neither.
+[2015/12/03 16:38:39] <jesusalva> Oh, I don't work with them anymore. Since 29th November 2014. I only tanslate their files every once and then.
+[2015/12/03 16:38:46] <brmbrmcar> ??
+[2015/12/03 16:38:50] <head8debian> jesusalva: oh.
+[2015/12/03 16:39:02] @ Quit: claymore2: Quit: Leaving
+[2015/12/03 16:39:13] <brmbrmcar> ??
+[2015/12/03 16:39:29] <jesusalva> I quitted because I had some several disagreements with their HR methods. Of course I didn't told this to anyone.
+[2015/12/03 16:39:47] <brmbrmcar> More emoji: ?? ?? ?? ?? ??
+[2015/12/03 16:40:04] <maths22> jesusalva: What did you do to get the colorful output?
+[2015/12/03 16:40:06] <head8debian> jesusalva: Its ok, i didnt mean to bring it up,
+[2015/12/03 16:40:20] <jesusalva> head8debian: Hm?
+[2015/12/03 16:40:36] <jesusalva> maths22: It varies on each client. On KVIrc, I just press Ctrl+K.
+[2015/12/03 16:40:37] <brmbrmcar> maths22 control c then any number then you text.
+[2015/12/03 16:40:47] <jesusalva> Different clients may have different colors.
+[2015/12/03 16:40:47] <head8debian> maths22: ctrl+c + a number 1-10 'text' ctrl+c
+[2015/12/03 16:40:59] <maths22> Thanks
+[2015/12/03 16:41:02] <Karkus> 6 'text' 
+[2015/12/03 16:41:05] <Karkus> 1 'text' 
+[2015/12/03 16:41:08] <Karkus> 2 'text' 
+[2015/12/03 16:41:20] <Karkus> 2,6text
+[2015/12/03 16:41:22] <head8debian> black doesn't show at all on my background. :D
+[2015/12/03 16:41:31] <brmbrmcar> 7,8text
+[2015/12/03 16:41:44] <maths22> brmbrmcar: regarding o_O http://www.urbandictionary.com/define.php?term=o_O
+[2015/12/03 16:41:52] <jesusalva> Actually I have 15 colors. 1one2two3three4four5five6six7seven8eight9nine10ten11eleven12twelve13thriteen14fourteen15fifteen0zero
+[2015/12/03 16:42:04] <jesusalva> Black also doesn't display for me.
+[2015/12/03 16:42:11] <jesusalva> Black background works the best.
+[2015/12/03 16:42:43] <head8debian> Well, i might have 15 colors also, just never used them all.
+[2015/12/03 16:42:53] <head8debian> 16hmm
+[2015/12/03 16:42:57] <head8debian> 17hmm
+[2015/12/03 16:43:01] <head8debian> 18hmm
+[2015/12/03 16:43:04] <jesusalva> 0O1O2O3O4O5O6O7O8O9O10O11O12O13O14O15O
+[2015/12/03 16:43:07] <Not-e81f> [02flexlay] 07Karkus476 opened issue 03#42: Speed up rendering of tilemaps - 13http://git.io/vRnmi
+[2015/12/03 16:43:08] <head8debian> 120hmm
+[2015/12/03 16:43:21] <head8debian> jesusalva: I think i have a ton of colors
+[2015/12/03 16:43:23] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#42: Speed up rendering of tilemaps - 13http://git.io/vRnmi
+[2015/12/03 16:43:25] <head8debian> 1200hmm
+[2015/12/03 16:43:25] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#42: Speed up rendering of tilemaps - 13http://git.io/vRnmi
+[2015/12/03 16:43:26] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#42: Speed up rendering of tilemaps - 13http://git.io/vRnmi
+[2015/12/03 16:43:29] <head8debian> 100hmm
+[2015/12/03 16:43:33] <head8debian> 110hmm
+[2015/12/03 16:43:38] <head8debian> 114hmm
+[2015/12/03 16:43:54] <jesusalva> 7seven is the nicest one, 4but four I use a lot, 9along nive 10and ten is nice. 13 is the last color I use.
+[2015/12/03 16:44:02] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#40: Sprite Thumbnail - 13http://git.io/vRnmp
+[2015/12/03 16:44:02] <jesusalva> All others I rarely or never use.
+[2015/12/03 16:44:27] <brmbrmcar> 888
+[2015/12/03 16:44:30] * jesusalva thinks that now that Tobbi just left the channel is the best time to play with colors.
+[2015/12/03 16:44:41] <head8debian> 11hmm
+[2015/12/03 16:44:47] <head8debian> 20hmm
+[2015/12/03 16:44:49] <head8debian> 30hmm
+[2015/12/03 16:44:52] <head8debian> 40hmm
