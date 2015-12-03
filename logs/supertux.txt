@@ -15108,3 +15108,5 @@
 [2015/12/03 04:43:05] @ Quit: tux|dude: Quit: Leaving
 [2015/12/03 05:36:43] @ Tobbi joined channel #supertux
 [2015/12/03 05:36:43] @ Mode +o Tobbi by ChanServ
+[2015/12/03 05:51:54] <Not-e81f> [02supertux] 07tobbi opened issue 03#248: Update check for SuperTux - 13http://git.io/vROZO
+[2015/12/03 05:54:05] <Not-e81f> [02supertux] 07tobbi opened issue 03#249: Check for language pack updates during main queue, after the program has loaded - 13http://git.io/vROZ9
