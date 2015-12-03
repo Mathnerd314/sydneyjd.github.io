@@ -15797,3 +15797,9 @@
 [2015/12/03 15:07:56] <brmbrmcar> About 5 a day.
 [2015/12/03 15:10:11] <Not-e81f> [02htdocs] 07tobbi pushed 031 commit to 03master [+2/-0/±0] 13http://git.io/vRZXQ
 [2015/12/03 15:10:12] <Not-e81f> [02htdocs] 07Tobias Markus 03a606bb5 - Register build directory as a submodule to the actual website
+[2015/12/03 15:16:02] <Hume2> I have another advice: One playable level is much better than ten crappy levels.
+[2015/12/03 15:16:57] <Hume2> It's like that. When you have crappy levels, the enormous count of them won't save you.
+[2015/12/03 15:20:20] <brmbrmcar> This is harder than Ithought it would be...
+[2015/12/03 15:26:39] <Hume2> Can I say that I'm experienced with making levels?
+[2015/12/03 15:27:10] <Tobbi> The way the website is setup right now is a pain in the butt.
+[2015/12/03 15:28:22] <Hume2> Do you think that it's on three different servers?
