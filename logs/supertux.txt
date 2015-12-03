@@ -15245,3 +15245,6 @@
 [2015/12/03 11:07:24] <brmbrmcar> I run wine /drive_c/Program Files (x86)/SuperTux/bin/supertux2.exe
 [2015/12/03 11:11:58] <head8debian> GPG ftw...
 [2015/12/03 11:12:09] @ Quit: irungentoo_: Ping timeout: 246 seconds
+[2015/12/03 11:15:18] <brmbrmcar> Where is air/earth hat for worldmap boat?
+[2015/12/03 11:17:33] @ irungentoo_ joined channel #supertux
+[2015/12/03 11:18:30] @ irungentoo_ is now known as irungentoo
