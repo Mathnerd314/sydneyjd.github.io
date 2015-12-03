@@ -15248,3 +15248,34 @@
 [2015/12/03 11:15:18] <brmbrmcar> Where is air/earth hat for worldmap boat?
 [2015/12/03 11:17:33] @ irungentoo_ joined channel #supertux
 [2015/12/03 11:18:30] @ irungentoo_ is now known as irungentoo
+[2015/12/03 11:36:53] @ Karkus joined channel #supertux
+[2015/12/03 11:38:43] <Karkus> Tobbi: regarding https://github.com/SuperTux/supertux/issues/248, don't you think it would be easier to check the downloads repo?
+[2015/12/03 11:39:03] <Tobbi> Karkus: Oh, yes, that might work.
+[2015/12/03 11:39:16] <Tobbi> We could have a file there that includes the latest version.
+[2015/12/03 11:39:38] <head8debian> Tobbi: Or should i teach you about computer security? :D
+[2015/12/03 11:39:45] <Tobbi> head8debian: No.
+[2015/12/03 11:40:04] <head8debian> Tobbi: Ok....
+[2015/12/03 11:40:18] <Tobbi> head8debian: I don't know anything about getting taught.
+[2015/12/03 11:41:01] <Tobbi> head8debian: I was always bad at school.
+[2015/12/03 11:41:18] <head8debian> Not that im the greatest security teacher... i know enough to keep Tobbi out of my system though. :D
+[2015/12/03 11:41:28] <Tobbi> head8debian: Don't bet on it.
+[2015/12/03 11:42:12] <Tobbi> head8debian: I had a GPA of C in high school.
+[2015/12/03 11:42:17] <head8debian> Tobbi: Thats why i don't run your bash scripts.
+[2015/12/03 11:42:17] <Tobbi> Ergo, I suck at school.
+[2015/12/03 11:42:18] <brmbrmcar> sudo apt-get --purge remove Tobbi
+[2015/12/03 11:42:35] <brmbrmcar> sudo apt-get autoremove
+[2015/12/03 11:42:40] <head8debian> brmbrmcar: Uhm, Tobbi is nto a program.
+[2015/12/03 11:42:44] <head8debian> not*
+[2015/12/03 11:42:50] <Tobbi> brmbrmcar: "Will you be civil today and not be getting on our nerves? "
+[2015/12/03 11:43:04] <head8debian> Tobbi: :D
+[2015/12/03 11:43:21] <brmbrmcar> You said that before.
+[2015/12/03 11:43:43] <head8debian> Tobbi: You can pretty easily erase a home partition with a bash script...
+[2015/12/03 11:43:52] <Tobbi> head8debian: perhaps.
+[2015/12/03 11:44:02] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#244: Interesting feedback on the mailing list - 13http://git.io/vRGJq
+[2015/12/03 11:44:07] <head8debian> Tobbi: Want me to test it? :p
+[2015/12/03 11:44:18] <Tobbi> head8debian: On your own system, sure.
+[2015/12/03 11:44:27] <head8debian> Hehe, no.
+[2015/12/03 11:44:40] <Tobbi> Karkus: I am not sure if he's still with us...
+[2015/12/03 11:44:43] <Tobbi> But we can try.
+[2015/12/03 11:44:53] <Karkus> Tobbi: Still with us?
+[2015/12/03 11:45:01] <Tobbi> Karkus: He sent that mail a year ago.
