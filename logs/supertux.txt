@@ -15279,3 +15279,67 @@
 [2015/12/03 11:44:43] <Tobbi> But we can try.
 [2015/12/03 11:44:53] <Karkus> Tobbi: Still with us?
 [2015/12/03 11:45:01] <Tobbi> Karkus: He sent that mail a year ago.
+[2015/12/03 11:45:09] <Tobbi> Not sure if that mail address of his is still valid etc.
+[2015/12/03 11:45:15] <Tobbi> But, sure, we can try.
+[2015/12/03 11:45:29] <Karkus> Oh, I thought you were implying that he had dies O_o
+[2015/12/03 11:45:34] <Karkus> *died
+[2015/12/03 11:45:36] <head8debian> Who?
+[2015/12/03 11:46:09] <brmbrmcar> The person who sent that electronic mail.
+[2015/12/03 11:46:21] * head8debian rolls his eyes
+[2015/12/03 11:46:51] <Tobbi> Karkus: Oh, god, no.
+[2015/12/03 11:47:17] <Karkus> "He is no longer with us" D:
+[2015/12/03 11:47:33] <Tobbi> damn...those implications...
+[2015/12/03 11:47:44] <Tobbi> Er weilt nicht länger unter uns.
+[2015/12/03 11:47:45] <Tobbi> :D
+[2015/12/03 11:47:49] <Karkus> But then again, how would you know?
+[2015/12/03 11:48:04] <Tobbi> I don't.
+[2015/12/03 11:48:04] <Karkus> Tobbi: Does that have the same implications?
+[2015/12/03 11:48:11] <Tobbi> Karkus: Yes.
+[2015/12/03 11:48:22] <head8debian> This channel is becoming more and more german... next thing we know the title will be german.
+[2015/12/03 11:48:22] <Tobbi> Or "Er ist nicht länger unter uns"
+[2015/12/03 11:48:25] <head8debian> :D
+[2015/12/03 11:48:43] <brmbrmcar> So each time I quit you worry that I might have died?
+[2015/12/03 11:49:06] @ Tobbi set topic "Willkommen im Supertux-Chat | https://github.com/SuperTux | Stabil: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | Känäl lög http://sydneyjd.github.io/logs/ | nächtlich gebaut http://brlcad.org/~maths22/supertux-download.php"
+[2015/12/03 11:49:09] <Karkus> Man kann nur Deutsch sprechen
+[2015/12/03 11:49:28] <brmbrmcar> mailing list is the same?
+[2015/12/03 11:49:30] <head8debian> brmbrmcar: No, but when you leave randomly and never come back without ever saying anything ever again, it does imply.
+[2015/12/03 11:49:40] <head8debian> Tobbi: I said that so you would do that, you know.
+[2015/12/03 11:49:45] <Tobbi> :P
+[2015/12/03 11:49:54] <Tobbi> I definitely like it better than this.
+[2015/12/03 11:49:59] <head8debian> manipulation... :P
+[2015/12/03 11:50:09] <Tobbi> head8debian: I am prone to that.
+[2015/12/03 11:50:20] <head8debian> I honestly did figure that you would if i mentioned it. :)
+[2015/12/03 11:50:33] <Tobbi> Wow, sometimes I just use words which I only kind of remember the meaning of.
+[2015/12/03 11:50:36] <Tobbi> And later verify them.
+[2015/12/03 11:50:51] <head8debian> ...
+[2015/12/03 11:51:59] <brmbrmcar> Don't try and translate the links, you know that will not work...
+[2015/12/03 11:54:49] <head8debian> brmbrmcar: Of course they don't work!
+[2015/12/03 11:55:14] <Karkus> Tobbi: When I comment on flexlay, notifico doesn't notify
+[2015/12/03 11:55:22] <Tobbi> hmm, okay.
+[2015/12/03 11:55:32] <Tobbi> mt: ^^
+[2015/12/03 11:55:45] <Tobbi> Karkus: We could only show background images if the zoom level is above a certain value.
+[2015/12/03 11:55:51] <Karkus> Tobbi: When I push, it works, but not in the same way
+[2015/12/03 11:56:04] <Karkus> Tobbi: We could...
+[2015/12/03 11:56:15] <Tobbi> how does the old editor do it?
+[2015/12/03 11:56:25] <Tobbi> Can anyone of you guys check?
+[2015/12/03 11:56:30] <Karkus> Just tiles them lots of times
+[2015/12/03 11:56:38] <Karkus> I took a screen shot
+[2015/12/03 11:57:08] <brmbrmcar> Which old editor?
+[2015/12/03 11:57:33] <Tobbi> Oh, so that's the old one...
+[2015/12/03 11:57:34] <Tobbi> right...
+[2015/12/03 11:57:36] <Tobbi> of course.
+[2015/12/03 11:57:45] <Karkus> Tobbi: I'm going to tranfer all the labels from supertux to flexlay, is that okay?
+[2015/12/03 11:57:48] <Tobbi> Sure.
+[2015/12/03 11:57:58] <Tobbi> makes sense.
+[2015/12/03 11:58:00] <Karkus> Tobbi: It's the old one, yes
+[2015/12/03 11:58:03] <brmbrmcar> Background shows fine on the 0.3.4-git one.
+[2015/12/03 11:58:20] <Tobbi> tomorrow's my graduation party...
+[2015/12/03 11:58:36] <Tobbi> well "party"
+[2015/12/03 11:58:36] <Karkus> brmbrmcar: Shows fine?
+[2015/12/03 11:58:47] <Karkus> Why '"party"'?
+[2015/12/03 11:59:13] <Tobbi> Karkus: Because it's just a graduation celebration with the president of the university and all graduates.
+[2015/12/03 11:59:19] <brmbrmcar> Karkus: I mean on the standard editor.
+[2015/12/03 11:59:20] <Tobbi> And family members.
+[2015/12/03 11:59:28] <Tobbi> My father'll attend as well...
+[2015/12/03 11:59:35] <Tobbi> And I had to debrief him on proper conduct.
+[2015/12/03 11:59:45] <Karkus> : )
