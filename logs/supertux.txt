@@ -15084,3 +15084,11 @@
 [2015/12/02 21:35:38] <head8debian> It happens sometimes...
 [2015/12/02 21:54:36] @ bb010g joined channel #supertux
 [2015/12/02 22:17:07] @ tuxdev_ joined channel #supertux
+[2015/12/03 00:25:48] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03master [+1/-1/±1] 13http://git.io/vRmhl
+[2015/12/03 00:25:49] <Not-e81f> [02supertux] 07Jacob Burroughs 03abbdc15 - Added msvc runtime, fixed OS X versioning
+[2015/12/03 00:25:50] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94568852
+[2015/12/03 00:25:52] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/23
+[2015/12/03 00:26:03] <maths22> head8debian: Aha
+[2015/12/03 00:26:43] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94568852
+[2015/12/03 00:28:09] <maths22> In theory, Windows is now 100% done!
+[2015/12/03 00:28:27] <maths22> OSX is up tomorrow
