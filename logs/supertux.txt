@@ -16479,3 +16479,4 @@
 [2015/12/04 15:53:53] @ brmbrmcar joined channel #supertux
 [2015/12/04 15:57:22] @ Tobbi joined channel #supertux
 [2015/12/04 15:57:23] @ Mode +o Tobbi by ChanServ
+[2015/12/04 16:01:13] <brmbrmcar> All programs not actually installed now pretend to be SuperTux. :D
