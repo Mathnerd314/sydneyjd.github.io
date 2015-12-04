@@ -16450,3 +16450,4 @@
 [2015/12/04 13:51:46] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#251: Changed coin limit to int_max - 13http://git.io/vR4EC
 [2015/12/04 13:52:45] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/94934738
 [2015/12/04 14:13:42] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/12/04 14:22:07] @ brmbrmcar joined channel #supertux
