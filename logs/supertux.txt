@@ -16481,3 +16481,5 @@
 [2015/12/04 15:57:23] @ Mode +o Tobbi by ChanServ
 [2015/12/04 16:01:13] <brmbrmcar> All programs not actually installed now pretend to be SuperTux. :D
 [2015/12/04 16:24:40] @ tux|dude joined channel #supertux
+[2015/12/04 16:30:17] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/04 16:38:25] @ jesusalva is now known as jesusalva_
