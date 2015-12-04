@@ -16490,3 +16490,5 @@
 [2015/12/04 17:01:11] @ Pao_de_Queijo is now known as jesusalva
 [2015/12/04 17:05:33] @ brmbrmcar joined channel #supertux
 [2015/12/04 17:57:39] @ leyyin joined channel #supertux
+[2015/12/04 18:22:01] @ Quit: claymore2_: Quit: Leaving
+[2015/12/04 18:25:46] @ tux|dude joined channel #supertux
