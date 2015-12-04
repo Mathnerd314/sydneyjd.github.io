@@ -16163,3 +16163,5 @@
 [2015/12/04 03:00:47] @ brmbrmcar joined channel #supertux
 [2015/12/04 03:03:03] <brmbrmcar> English topic again??? :(
 [2015/12/04 03:08:03] @ Quit: tux|dude: Quit: Leaving
+[2015/12/04 03:23:32] @ tux|dude joined channel #supertux
+[2015/12/04 03:27:26] @ Quit: brmbrmcar: Quit: brmbrmquit
