@@ -16367,3 +16367,11 @@
 [2015/12/04 11:18:11] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/48
 [2015/12/04 11:27:47] <brmbrmcar> I am so angry with my father now.
 [2015/12/04 11:28:09] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94907581
+[2015/12/04 11:30:36] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/47
+[2015/12/04 11:34:16] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94907581
+[2015/12/04 11:34:43] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03travis [+2/-0/±1] 13http://git.io/vR8wG
+[2015/12/04 11:34:44] <Not-e81f> [02supertux] 07Jacob Burroughs 03ae1853c - Support OS X deployment
+[2015/12/04 11:34:46] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94911297
+[2015/12/04 11:34:47] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/49
+[2015/12/04 11:39:59] @ alket joined channel #supertux
+[2015/12/04 11:44:22] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/48
