@@ -16437,3 +16437,8 @@
 [2015/12/04 13:07:46] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/52
 [2015/12/04 13:13:06] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94928030
 [2015/12/04 13:14:31] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/04 13:19:30] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/94928030
+[2015/12/04 13:27:01] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03travis [+3/-0/±2] 13http://git.io/vR4c1
+[2015/12/04 13:27:03] <Not-e81f> [02supertux] 07Jacob Burroughs 03c9576ad - Support OS X deployment
+[2015/12/04 13:27:04] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94934738
+[2015/12/04 13:27:06] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/53
