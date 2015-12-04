@@ -16472,3 +16472,10 @@
 [2015/12/04 15:42:58] <Hume2> Or am I a specialist for that?
 [2015/12/04 15:44:30] <Karkus> A specialist at knowing what objects we have?
 [2015/12/04 15:44:44] <Hume2> It looks like that.
+[2015/12/04 15:45:19] <Hume2> It's really a strange feeling.
+[2015/12/04 15:47:15] <Hume2> I know that Tobbi knows many things I don't know.
+[2015/12/04 15:52:07] <Hume2> I'm tired, bye!
+[2015/12/04 15:52:11] @ Hume2 left channel #supertux ()
+[2015/12/04 15:53:53] @ brmbrmcar joined channel #supertux
+[2015/12/04 15:57:22] @ Tobbi joined channel #supertux
+[2015/12/04 15:57:23] @ Mode +o Tobbi by ChanServ
