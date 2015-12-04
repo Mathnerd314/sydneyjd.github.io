@@ -16138,3 +16138,6 @@
 [2015/12/03 21:10:55] <Tobbi> head8debian: Yes, I did, with VLC
 [2015/12/03 21:12:19] <head8debian> Tobbi: Im not fond of the online player btw.
 [2015/12/03 21:12:20] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/34
+[2015/12/03 21:17:16] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94783816
+[2015/12/03 21:20:34] <Tobbi> head8debian: There's gotta be a better way...
+[2015/12/03 21:23:54] @ Quit: tux|dude: Quit: Leaving
