@@ -16229,3 +16229,7 @@
 [2015/12/04 08:55:37] <jesusalva> See you soon, head8debian. :)
 [2015/12/04 08:56:37] @ Quit: jesusalva: Quit: See you soon, head8debian! Good bye everyone else.
 [2015/12/04 09:21:01] <head8debian> See me soon? o_O
+[2015/12/04 09:52:54] <Not-e81f> [02supertux] 07maths22 created branch 03travis - 13http://git.io/vvf63
+[2015/12/04 09:52:55] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03travis [+0/-0/±1] 13http://git.io/vRlHi
+[2015/12/04 09:52:57] <Not-e81f> [02supertux] 07Jacob Burroughs 03029bd91 - Add OSX supported to Travis, update to trusty for linux
+[2015/12/04 09:52:58] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/41
