@@ -16046,3 +16046,10 @@
 [2015/12/03 19:31:14] <jesusalva> Good night friends.
 [2015/12/03 19:31:47] @ Quit: jesusalva: Quit: Good Night, and God Bless you!
 [2015/12/03 19:40:06] <swift110> hey all
+[2015/12/03 19:46:02] <Tobbi> head8debian: Are you there?
+[2015/12/03 19:52:12] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±3] 13http://git.io/vRcT1
+[2015/12/03 19:52:13] <Not-e81f> [02supertux] 07Tobias Markus 03a29a951 - Check for language packs on startup, take 2
+[2015/12/03 19:52:15] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94776097
+[2015/12/03 19:52:17] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/33
+[2015/12/03 19:52:22] <Tobbi> head8debian: If you should read this, please see if this is better...
+[2015/12/03 19:53:20] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94776097
