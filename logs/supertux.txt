@@ -16089,3 +16089,31 @@
 [2015/12/03 20:43:10] <head8debian> Tobbi: Hmm, it did download it, must have been cached though or something.
 [2015/12/03 20:43:38] <Tobbi> head8debian: It only downloads things when they're not present.
 [2015/12/03 20:43:56] <head8debian> Im having trouble recording it...
+[2015/12/03 20:45:43] <Tobbi> head8debian: I will save you some trouble. I will skip updating when source language is en.
+[2015/12/03 20:46:13] <Tobbi> head8debian: Also, I will probably add a setting...
+[2015/12/03 20:46:21] <Tobbi> actually...string freeze...
+[2015/12/03 20:46:28] <Tobbi> who cares...
+[2015/12/03 20:46:33] <Tobbi> people won't be complaining :D
+[2015/12/03 20:46:36] <head8debian> Tobbi: The video is uploading. Notice that the audio starts much earlier. That is not normal, and when you first run after building it sits and appears to do nothing for quite a while.
+[2015/12/03 20:46:42] <head8debian> :)
+[2015/12/03 20:46:52] <Tobbi> head8debian: Or I will leave the string in English?
+[2015/12/03 20:47:45] <head8debian> Tobbi: https://cloud.openmailbox.org/index.php/s/P1kWK7tfoCa928B
+[2015/12/03 20:48:03] <head8debian> Tobbi: The volume is overdriven.
+[2015/12/03 20:48:21] <head8debian> So be carefull. :D
+[2015/12/03 20:51:16] <head8debian> Tobbi: Uhm... did you fall asleep?
+[2015/12/03 20:51:20] <Tobbi> head8debian: It didn't record audio.
+[2015/12/03 20:51:29] <Tobbi> head8debian: Also, what commit is that g959...
+[2015/12/03 20:52:54] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vRcWp
+[2015/12/03 20:52:55] <Not-e81f> [02supertux] 07Tobias Markus 0304bfdbc - Don't check for updates if source lang is en
+[2015/12/03 20:52:57] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94783744
+[2015/12/03 20:52:58] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/34
+[2015/12/03 20:53:55] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94783744
+[2015/12/03 20:53:59] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vRclk
+[2015/12/03 20:54:01] <Not-e81f> [02supertux] 07Tobias Markus 03f5966ef - Move language check way to the start
+[2015/12/03 20:54:02] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94783816
+[2015/12/03 20:54:04] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/35
+[2015/12/03 20:54:45] <Tobbi> head8debian: The above should fix it :D But only for you :D
+[2015/12/03 20:54:49] <Tobbi> And other english native speakers.
+[2015/12/03 20:59:26] <head8debian> Tobbi: Yes it recorded audio! Turn your spearkers up or you have a odd issue.
+[2015/12/03 20:59:41] <Tobbi> Maybe.
+[2015/12/03 20:59:42] <Tobbi> not sure.
