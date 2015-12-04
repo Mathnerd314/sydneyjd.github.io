@@ -16420,3 +16420,13 @@
 [2015/12/04 12:26:55] @ Mode +o Tobbi by ChanServ
 [2015/12/04 12:28:25] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/51
 [2015/12/04 12:28:57] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94920144
+[2015/12/04 12:33:28] <head8debian> Tobbi: 7Hey!
+[2015/12/04 12:33:39] <Tobbi> head8debian: 7Hey?
+[2015/12/04 12:33:42] <head8debian> Tobbi: Or should i say 5Hey!
+[2015/12/04 12:33:59] <Tobbi> head8debian: My IRC client does not support colours.
+[2015/12/04 12:34:22] <head8debian> Tobbi: Your missing out...
+[2015/12/04 12:34:30] <Tobbi> head8debian: *You're
+[2015/12/04 12:34:52] <head8debian> Tobbi: :D
+[2015/12/04 12:40:43] @ Quit: tuxdev_: Ping timeout: 246 seconds
+[2015/12/04 12:41:04] <Karkus> Tobbi: Hey Tobbi
+[2015/12/04 12:41:09] <Tobbi> hello Karkus.
