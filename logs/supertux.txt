@@ -16158,3 +16158,5 @@
 [2015/12/03 23:25:38] @ Quit: irungentoo: Remote host closed the connection
 [2015/12/04 00:37:46] @ tux|dude joined channel #supertux
 [2015/12/04 02:37:54] @ leyyin joined channel #supertux
+[2015/12/04 02:54:58] @ datahead8888__ joined channel #supertux
+[2015/12/04 02:58:28] @ Quit: datahead8888_: Ping timeout: 260 seconds
