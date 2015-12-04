@@ -16375,3 +16375,21 @@
 [2015/12/04 11:34:47] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/49
 [2015/12/04 11:39:59] @ alket joined channel #supertux
 [2015/12/04 11:44:22] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/48
+[2015/12/04 11:45:51] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94911297
+[2015/12/04 11:49:57] @ Karkus joined channel #supertux
+[2015/12/04 11:50:46] @ datahead8888 joined channel #supertux
+[2015/12/04 11:51:22] @ Quit: datahead8888__: Ping timeout: 246 seconds
+[2015/12/04 11:53:05] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94911297
+[2015/12/04 11:54:21] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#248: Update check for SuperTux - 13http://git.io/vR815
+[2015/12/04 11:54:37] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03travis [+2/-0/±1] 13http://git.io/vR81p
+[2015/12/04 11:54:38] <Not-e81f> [02supertux] 07Jacob Burroughs 036be37cb - Support OS X deployment
+[2015/12/04 11:54:40] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94915947
+[2015/12/04 11:54:41] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/50
+[2015/12/04 11:55:47] <head8debian> Arg, my phone case broke!
+[2015/12/04 11:56:03] <head8debian> And my phone is not looking the best either...
+[2015/12/04 11:56:16] <head8debian> Original ownder dropped it a few times it seems.
+[2015/12/04 11:56:19] <head8debian> owner*
+[2015/12/04 11:56:44] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#248: Update check for SuperTux - 13http://git.io/vR8Dl
+[2015/12/04 11:57:58] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/49
+[2015/12/04 11:58:49] <brmbrmcar> Pooe head8debian.
+[2015/12/04 11:59:03] <Not-e81f> [02supertux] 07maths22 commented on issue 03#248: Update check for SuperTux - 13http://git.io/vR8yY
