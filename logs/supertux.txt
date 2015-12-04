@@ -16263,3 +16263,12 @@
 [2015/12/04 10:16:50] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94893709
 [2015/12/04 10:20:57] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/04 10:25:20] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/42
+[2015/12/04 10:30:33] @ leper` joined channel #supertux
+[2015/12/04 10:33:23] @ tuxdev_ joined channel #supertux
+[2015/12/04 10:34:37] @ brmbrmcar joined channel #supertux
+[2015/12/04 10:38:33] @ Tobbi joined channel #supertux
+[2015/12/04 10:38:34] @ Mode +o Tobbi by ChanServ
+[2015/12/04 10:40:05] @ ced117 joined channel #supertux
+[2015/12/04 10:41:04] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94893709
+[2015/12/04 10:41:20] @ Quit: leper`: Ping timeout: 245 seconds
+[2015/12/04 10:42:28] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/43
