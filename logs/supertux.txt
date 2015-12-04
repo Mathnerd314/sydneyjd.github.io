@@ -16407,3 +16407,16 @@
 [2015/12/04 12:13:12] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/50
 [2015/12/04 12:13:14] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/51
 [2015/12/04 12:13:58] <maths22> Karkus: shouldn't people who have downloaded from their distribution repository stay with versions in the distribution repository?
+[2015/12/04 12:15:20] <Karkus> maths22: Personally, I think no. I believe we should keep people as updated as possible
+[2015/12/04 12:16:45] <brmbrmcar> Which is the most up-to-date Windows copy?
+[2015/12/04 12:17:16] <maths22> brmbrmcar: Whichever one has the highest version number.
+[2015/12/04 12:17:20] <brmbrmcar> OK.
+[2015/12/04 12:17:28] <maths22> Note that they only right now work on windows 10 (I'm fixing that soon)
+[2015/12/04 12:19:25] <brmbrmcar> Does Wiine support them?
+[2015/12/04 12:20:10] <maths22> brmbrmcar: not now at least
+[2015/12/04 12:20:33] <brmbrmcar> :(
+[2015/12/04 12:22:29] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94920144
+[2015/12/04 12:26:54] @ Tobbi joined channel #supertux
+[2015/12/04 12:26:55] @ Mode +o Tobbi by ChanServ
+[2015/12/04 12:28:25] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/51
+[2015/12/04 12:28:57] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94920144
