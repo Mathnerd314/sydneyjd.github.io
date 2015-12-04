@@ -16457,3 +16457,5 @@
 [2015/12/04 14:40:13] <Karkus> brmbrmcar: I didn't, they just appeared in the wrong order
 [2015/12/04 14:41:23] <brmbrmcar> Ah, ok.
 [2015/12/04 14:41:45] <brmbrmcar> You are a collaborator.
+[2015/12/04 14:54:05] @ Quit: ced117: Ping timeout: 246 seconds
+[2015/12/04 14:54:32] @ Quit: brmbrmcar: Quit: going on arduino
