@@ -16189,3 +16189,11 @@
 [2015/12/04 06:10:38] <Tobbi> leyyin: No, I didn't call join.
 [2015/12/04 06:10:59] <Tobbi> I guess I will just leave it as it is.
 [2015/12/04 06:13:58] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94848526
+[2015/12/04 06:16:06] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/94847674
+[2015/12/04 06:17:36] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/37
+[2015/12/04 06:20:26] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vRWVD
+[2015/12/04 06:20:28] <Not-e81f> [02supertux] 07Tobias Markus 03fda7771 - Remove redundant casts to std::string from addon_menu.cpp
+[2015/12/04 06:20:29] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94850345
+[2015/12/04 06:20:31] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/39
+[2015/12/04 06:24:34] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94850345
+[2015/12/04 06:28:58] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/94848526
