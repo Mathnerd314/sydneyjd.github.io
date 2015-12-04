@@ -16214,3 +16214,4 @@
 [2015/12/04 07:00:26] @ Mode +o Tobbi by ChanServ
 [2015/12/04 07:07:55] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/40
 [2015/12/04 07:24:25] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/04 07:38:29] @ irungentoo joined channel #supertux
