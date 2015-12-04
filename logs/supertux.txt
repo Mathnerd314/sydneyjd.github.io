@@ -16032,3 +16032,9 @@
 [2015/12/03 18:22:20] <maths22> Tobbi: Exactly
 [2015/12/03 18:22:28] <maths22> This is why there is minimal change over time
 [2015/12/03 18:30:24] @ tux|dude joined channel #supertux
+[2015/12/03 18:52:23] @ Quit: alket: Quit: Good Night :)
+[2015/12/03 18:52:36] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vRn58
+[2015/12/03 18:52:37] <Not-e81f> [02supertux] 07Tobias Markus 030cc5d8c - Turn walking badguy around when hitting obstacle, no matter whether we're on a slope
+[2015/12/03 18:52:39] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94766830
+[2015/12/03 18:52:41] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/32
+[2015/12/03 18:53:46] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94766830
