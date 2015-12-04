@@ -16451,3 +16451,9 @@
 [2015/12/04 13:52:45] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/94934738
 [2015/12/04 14:13:42] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/12/04 14:22:07] @ brmbrmcar joined channel #supertux
+[2015/12/04 14:35:05] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#43: Allow User to Record and Playback Demos - 13http://git.io/vR4MR
+[2015/12/04 14:35:06] <Not-e81f> [02flexlay] 07Karkus476 opened issue 03#43: Allow User to Record and Playback Demos - 13http://git.io/vR4MR
+[2015/12/04 14:37:13] <brmbrmcar> Karkus: How the hell did you label a non-existant issue?
+[2015/12/04 14:40:13] <Karkus> brmbrmcar: I didn't, they just appeared in the wrong order
+[2015/12/04 14:41:23] <brmbrmcar> Ah, ok.
+[2015/12/04 14:41:45] <brmbrmcar> You are a collaborator.
