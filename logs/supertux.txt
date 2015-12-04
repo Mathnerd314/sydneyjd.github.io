@@ -16233,3 +16233,13 @@
 [2015/12/04 09:52:55] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03travis [+0/-0/±1] 13http://git.io/vRlHi
 [2015/12/04 09:52:57] <Not-e81f> [02supertux] 07Jacob Burroughs 03029bd91 - Add OSX supported to Travis, update to trusty for linux
 [2015/12/04 09:52:58] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/41
+[2015/12/04 10:03:47] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03travis [+0/-0/±1] 13http://git.io/vRlF1
+[2015/12/04 10:03:49] <Not-e81f> [02supertux] 07Jacob Burroughs 03e4583aa - Add OSX supported to Travis, update to trusty for linux
+[2015/12/04 10:03:51] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94890859
+[2015/12/04 10:03:54] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/42
+[2015/12/04 10:04:29] @ Tobbi joined channel #supertux
+[2015/12/04 10:04:31] @ Mode +o Tobbi by ChanServ
+[2015/12/04 10:04:57] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94890859
+[2015/12/04 10:08:29] <maths22> Tobbi: Now adding OS X support to travis; packaged builds coming soon after that
+[2015/12/04 10:09:45] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/41
+[2015/12/04 10:10:07] <Tobbi> maths22: great, thanks.
