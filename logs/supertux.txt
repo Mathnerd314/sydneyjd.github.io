@@ -16286,3 +16286,70 @@
 [2015/12/04 10:59:00] <leyyin> that's 100 km/h in the video btw, not miles :P
 [2015/12/04 10:59:45] <brmbrmcar> 100km/h should be the motorway speed limit.
 [2015/12/04 10:59:49] <leyyin> head8debian, never underestimate german engineering
+[2015/12/04 11:00:23] <Tobbi> hello.
+[2015/12/04 11:00:23] <brmbrmcar> Does this tractor have seat belts and airbags in the front?
+[2015/12/04 11:00:39] <brmbrmcar> Oops, wrong time to say tht...
+[2015/12/04 11:00:44] * brmbrmcar retreats
+[2015/12/04 11:01:12] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03travis [+2/-0/±1] 13http://git.io/vR8nR
+[2015/12/04 11:01:13] <Not-e81f> [02supertux] 07Jacob Burroughs 0316d19d0 - Support OS X deployment
+[2015/12/04 11:01:15] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94903688
+[2015/12/04 11:01:16] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/45
+[2015/12/04 11:02:05] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94903688
+[2015/12/04 11:02:06] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94903688
+[2015/12/04 11:02:08] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94903688
+[2015/12/04 11:02:09] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94903688
+[2015/12/04 11:02:11] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94903688
+[2015/12/04 11:02:12] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94903688
+[2015/12/04 11:02:14] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94903688
+[2015/12/04 11:02:16] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94903688
+[2015/12/04 11:02:17] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94903688
+[2015/12/04 11:02:18] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94903688
+[2015/12/04 11:02:20] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94903688
+[2015/12/04 11:02:21] <leyyin> a lot of spam in this channel O_O
+[2015/12/04 11:02:22] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94903688
+[2015/12/04 11:02:23] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94903688
+[2015/12/04 11:02:35] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03travis [+2/-0/±1] 13http://git.io/vR8np
+[2015/12/04 11:02:36] <Not-e81f> [02supertux] 07Jacob Burroughs 0382156af - Support OS X deployment
+[2015/12/04 11:02:39] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/46
+[2015/12/04 11:03:25] <brmbrmcar> I have just been asked by my father to test a Windows 10 computer for vide editing speed.
+[2015/12/04 11:03:32] * brmbrmcar cries
+[2015/12/04 11:03:39] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03travis [+2/-0/±1] 13http://git.io/vR8cu
+[2015/12/04 11:03:40] <Not-e81f> [02supertux] 07Jacob Burroughs 039efb11a - Support OS X deployment
+[2015/12/04 11:03:42] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94904221
+[2015/12/04 11:03:43] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/47
+[2015/12/04 11:04:25] <head8debian> They all have seatbelts, but no air bags.
+[2015/12/04 11:04:58] <head8debian> leyyin: At that size someone had to have done some tweaking. Only our big tractors go 34mph.
+[2015/12/04 11:05:07] <head8debian> 200+ horse.
+[2015/12/04 11:05:25] <brmbrmcar> Any head restraints?
+[2015/12/04 11:05:48] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94904221
+[2015/12/04 11:05:51] <head8debian> brmbrmcar: Head? As in engine head?
+[2015/12/04 11:06:02] <brmbrmcar> No, for your head.
+[2015/12/04 11:06:05] <head8debian> brmbrmcar: The newer tractors have *HUGE* cabs.
+[2015/12/04 11:06:24] <head8debian> Great sterio systems, great air conditioning for the 90 degree days. :)
+[2015/12/04 11:06:27] <brmbrmcar> Did you crash test your old one?
+[2015/12/04 11:06:33] <head8debian> Air ride seats...
+[2015/12/04 11:06:38] <brmbrmcar> 90 degree faranheit?
+[2015/12/04 11:06:47] <brmbrmcar> Noone uses faranheit...
+[2015/12/04 11:06:57] <head8debian> brmbrmcar: No! at 200,000$ a tractor no one wants to crash them.
+[2015/12/04 11:07:04] <head8debian> We all do use it. :D
+[2015/12/04 11:07:26] <brmbrmcar> I want to crash one!
+[2015/12/04 11:07:34] <head8debian> Well, then you pay for it.
+[2015/12/04 11:07:51] <brmbrmcar> I would not pay 200,000$ for a tractor I could not crash.
+[2015/12/04 11:07:57] <leyyin> 20k$ is pretty cheap
+[2015/12/04 11:08:08] <Not-e81f> [02supertux] 07LMH0013 commented on issue 03#234: Making Tux air or earth on death displays hat - 13http://git.io/vR8Ww
+[2015/12/04 11:08:08] <brmbrmcar> But I do not have 200k.
+[2015/12/04 11:08:21] <leyyin> wait, 200k :D
+[2015/12/04 11:09:10] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#234: Making Tux air or earth on death displays hat - 13http://git.io/vR8lU
+[2015/12/04 11:09:20] <head8debian> leyyin: At least... SOme of these are quarter million dollars.
+[2015/12/04 11:09:28] <head8debian> No one can afford them...
+[2015/12/04 11:09:35] <brmbrmcar> You have 200k?
+[2015/12/04 11:09:43] <head8debian> oops, 750,000$.
+[2015/12/04 11:10:08] <head8debian> brmbrmcar: 2 tractors that cost that, yes.
+[2015/12/04 11:10:32] <leyyin> well in murica everything is overpriced :P
+[2015/12/04 11:10:50] <brmbrmcar> 200k?I would get a few brm brm cars. :D
+[2015/12/04 11:11:09] <head8debian> leyyin: Its that expensive everywhere.
+[2015/12/04 11:11:20] <brmbrmcar> And a better computer...
+[2015/12/04 11:12:07] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/44
+[2015/12/04 11:13:20] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/45
+[2015/12/04 11:13:21] <brmbrmcar> Well I amnot happy I am there, Microsoft.
+[2015/12/04 11:14:37] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/46
