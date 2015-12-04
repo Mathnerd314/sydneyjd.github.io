@@ -16272,3 +16272,17 @@
 [2015/12/04 10:41:04] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94893709
 [2015/12/04 10:41:20] @ Quit: leper`: Ping timeout: 245 seconds
 [2015/12/04 10:42:28] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/43
+[2015/12/04 10:46:33] @ leper` joined channel #supertux
+[2015/12/04 10:47:44] <leyyin> head8debian, german tractors :D  https://youtu.be/Akvm28cKTz8
+[2015/12/04 10:48:49] <brmbrmcar> Is that the motorway?
+[2015/12/04 10:49:13] <brmbrmcar> 120kmh is too fast for the public roads.
+[2015/12/04 10:55:50] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03travis [+2/-0/±1] 13http://git.io/vR8sF
+[2015/12/04 10:55:52] <Not-e81f> [02supertux] 07Jacob Burroughs 03a8f9d05 - Support OS X deployment
+[2015/12/04 10:55:53] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/44
+[2015/12/04 10:58:10] <head8debian> leyyin: Thats dangerous.
+[2015/12/04 10:58:26] <head8debian> leyyin: Our fastest safe tractors go 34MPH.
+[2015/12/04 10:58:35] <head8debian> And they are built to go that fast.
+[2015/12/04 10:58:55] <brmbrmcar> 55kmh
+[2015/12/04 10:59:00] <leyyin> that's 100 km/h in the video btw, not miles :P
+[2015/12/04 10:59:45] <brmbrmcar> 100km/h should be the motorway speed limit.
+[2015/12/04 10:59:49] <leyyin> head8debian, never underestimate german engineering
