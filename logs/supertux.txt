@@ -16160,3 +16160,6 @@
 [2015/12/04 02:37:54] @ leyyin joined channel #supertux
 [2015/12/04 02:54:58] @ datahead8888__ joined channel #supertux
 [2015/12/04 02:58:28] @ Quit: datahead8888_: Ping timeout: 260 seconds
+[2015/12/04 03:00:47] @ brmbrmcar joined channel #supertux
+[2015/12/04 03:03:03] <brmbrmcar> English topic again??? :(
+[2015/12/04 03:08:03] @ Quit: tux|dude: Quit: Leaving
