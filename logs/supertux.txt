@@ -16492,3 +16492,6 @@
 [2015/12/04 17:57:39] @ leyyin joined channel #supertux
 [2015/12/04 18:22:01] @ Quit: claymore2_: Quit: Leaving
 [2015/12/04 18:25:46] @ tux|dude joined channel #supertux
+[2015/12/04 18:38:33] @ Tobbi joined channel #supertux
+[2015/12/04 18:38:33] @ Mode +o Tobbi by ChanServ
+[2015/12/04 18:41:09] @ Quit: brmbrmcar: Ping timeout: 260 seconds
