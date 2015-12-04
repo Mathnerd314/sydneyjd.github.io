@@ -16154,3 +16154,4 @@
 [2015/12/03 21:34:31] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/03 21:41:13] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/94787946
 [2015/12/03 21:54:40] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/36
+[2015/12/03 23:11:20] @ tuxdev_ joined channel #supertux
