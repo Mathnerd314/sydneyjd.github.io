@@ -16464,3 +16464,11 @@
 [2015/12/04 15:10:40] @ claymore2_ joined channel #supertux
 [2015/12/04 15:11:37] @ Quit: claymore2: Ping timeout: 260 seconds
 [2015/12/04 15:20:54] @ jesusalva joined channel #supertux
+[2015/12/04 15:39:37] @ Hume2 joined channel #supertux
+[2015/12/04 15:40:54] <Karkus> Hello, Hume2
+[2015/12/04 15:41:02] <Hume2> Hello, Karkus.
+[2015/12/04 15:41:45] <Hume2> I'm just wonder that some people don't know what objects we have in SuperTux.
+[2015/12/04 15:42:31] <Hume2> Well, some people, but I mean some people among the developers.
+[2015/12/04 15:42:58] <Hume2> Or am I a specialist for that?
+[2015/12/04 15:44:30] <Karkus> A specialist at knowing what objects we have?
+[2015/12/04 15:44:44] <Hume2> It looks like that.
