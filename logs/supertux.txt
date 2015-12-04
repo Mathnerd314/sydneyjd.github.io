@@ -16243,3 +16243,23 @@
 [2015/12/04 10:08:29] <maths22> Tobbi: Now adding OS X support to travis; packaged builds coming soon after that
 [2015/12/04 10:09:45] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/41
 [2015/12/04 10:10:07] <Tobbi> maths22: great, thanks.
+[2015/12/04 10:15:13] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94890859
+[2015/12/04 10:15:14] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94890859
+[2015/12/04 10:15:16] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94890859
+[2015/12/04 10:15:17] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94890859
+[2015/12/04 10:15:19] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94890859
+[2015/12/04 10:15:20] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94890859
+[2015/12/04 10:15:22] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94890859
+[2015/12/04 10:15:24] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94890859
+[2015/12/04 10:15:25] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94890859
+[2015/12/04 10:15:26] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94890859
+[2015/12/04 10:15:28] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94890859
+[2015/12/04 10:15:29] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94890859
+[2015/12/04 10:15:31] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/94890859
+[2015/12/04 10:15:34] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03travis [+0/-0/±1] 13http://git.io/vRlpy
+[2015/12/04 10:15:35] <Not-e81f> [02supertux] 07Jacob Burroughs 039cd3a3a - Fix plist install
+[2015/12/04 10:15:37] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94893709
+[2015/12/04 10:15:38] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/43
+[2015/12/04 10:16:50] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94893709
+[2015/12/04 10:20:57] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/04 10:25:20] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/42
