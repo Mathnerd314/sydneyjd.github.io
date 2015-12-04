@@ -16217,3 +16217,14 @@
 [2015/12/04 07:38:29] @ irungentoo joined channel #supertux
 [2015/12/04 08:13:01] @ jesusalva joined channel #supertux
 [2015/12/04 08:44:21] <head8debian> jesusalva: Wow, your in here early.
+[2015/12/04 08:45:19] <jesusalva> Late is more correct. I should be having lunch by now.
+[2015/12/04 08:45:51] <jesusalva> And I have a Human Managment test today. :/
+[2015/12/04 08:50:10] <head8debian> Heh,
+[2015/12/04 08:51:45] @ Quit: leper`: Ping timeout: 260 seconds
+[2015/12/04 08:51:57] <jesusalva> head8debian: Ever filled a sheet containing everything someone have to gain by his/her work?
+[2015/12/04 08:53:16] <jesusalva> Belive me, it's worse in Brazil. If you work late from 22:00 to 05:00, you must receive 50% bonus by extra time, 20% bonus by night time, the hours worked are different, each hour haves only 52 minutes...
+[2015/12/04 08:53:51] <jesusalva> And you still need to calc how much he will gain by sundays, and besides, if the work is dangerous or may damage your health, you have extra bonuses.
+[2015/12/04 08:54:32] <jesusalva> Which must be considered before calculating the extra time you worked at night. Not even to say about calcs of Brazilian taxes.
+[2015/12/04 08:55:31] * jesusalva is now going to lunch
+[2015/12/04 08:55:37] <jesusalva> See you soon, head8debian. :)
+[2015/12/04 08:56:37] @ Quit: jesusalva: Quit: See you soon, head8debian! Good bye everyone else.
