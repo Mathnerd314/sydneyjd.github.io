@@ -16197,3 +16197,13 @@
 [2015/12/04 06:20:31] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/39
 [2015/12/04 06:24:34] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94850345
 [2015/12/04 06:28:58] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/94848526
+[2015/12/04 06:31:50] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vRWo2
+[2015/12/04 06:31:51] <Not-e81f> [02supertux] 07Tobias Markus 03d12b32a - Change big savebell sound to something more pleasant [ci skip]
+[2015/12/04 06:33:17] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vRWoy
+[2015/12/04 06:33:18] <Not-e81f> [02supertux] 07Tobias Markus 030782aba - Remove <future> include, should fix build on clang
+[2015/12/04 06:33:20] <Tobbi> god damn it.
+[2015/12/04 06:33:20] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94852078
+[2015/12/04 06:33:22] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/40
+[2015/12/04 06:34:53] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/38
+[2015/12/04 06:35:08] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94852078
+[2015/12/04 06:38:21] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/94850345
