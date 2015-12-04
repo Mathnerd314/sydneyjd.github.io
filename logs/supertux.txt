@@ -16165,3 +16165,4 @@
 [2015/12/04 03:08:03] @ Quit: tux|dude: Quit: Leaving
 [2015/12/04 03:23:32] @ tux|dude joined channel #supertux
 [2015/12/04 03:27:26] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/12/04 03:33:56] @ Quit: tuxdev_: Ping timeout: 260 seconds
