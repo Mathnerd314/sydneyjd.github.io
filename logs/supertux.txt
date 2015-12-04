@@ -16174,3 +16174,18 @@
 [2015/12/04 05:27:40] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/04 05:59:07] @ Tobbi joined channel #supertux
 [2015/12/04 05:59:08] @ Mode +o Tobbi by ChanServ
+[2015/12/04 06:04:31] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±2] 13http://git.io/vRWzd
+[2015/12/04 06:04:32] <Not-e81f> [02supertux] 07Tobias Markus 039681ca9 - Don't check for langpacks on startup
+[2015/12/04 06:04:34] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94847674
+[2015/12/04 06:04:35] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/37
+[2015/12/04 06:05:24] <Tobbi> leyyin: Why on earth would checking langpacks on startup make startup longer, even though I moved that stuff to a different thread? This is weird.
+[2015/12/04 06:05:34] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94847674
+[2015/12/04 06:06:28] <Tobbi> oh no.
+[2015/12/04 06:09:04] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vRWg9
+[2015/12/04 06:09:05] <Not-e81f> [02supertux] 07Tobias Markus 034f03cb4 - Remove initialization as well
+[2015/12/04 06:09:06] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94848526
+[2015/12/04 06:09:08] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/38
+[2015/12/04 06:10:15] <leyyin> Tobbi, does the main thread waits for the other thread?
+[2015/12/04 06:10:38] <Tobbi> leyyin: No, I didn't call join.
+[2015/12/04 06:10:59] <Tobbi> I guess I will just leave it as it is.
+[2015/12/04 06:13:58] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94848526
