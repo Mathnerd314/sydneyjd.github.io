@@ -16117,3 +16117,24 @@
 [2015/12/03 20:59:26] <head8debian> Tobbi: Yes it recorded audio! Turn your spearkers up or you have a odd issue.
 [2015/12/03 20:59:41] <Tobbi> Maybe.
 [2015/12/03 20:59:42] <Tobbi> not sure.
+[2015/12/03 21:00:16] <Tobbi> head8debian: I will add a preference.
+[2015/12/03 21:00:46] <head8debian> Tobbi: Much better.
+[2015/12/03 21:00:52] <head8debian> performance.
+[2015/12/03 21:01:03] <Tobbi> head8debian: :D I skipped it for en.
+[2015/12/03 21:01:58] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/94783816
+[2015/12/03 21:02:33] <head8debian> Which means...?
+[2015/12/03 21:02:58] <Tobbi> head8debian: It doesn't check..because source language is en anyway.
+[2015/12/03 21:03:34] <head8debian> Ah.
+[2015/12/03 21:03:47] <head8debian> Tobbi: Could not the check be put off untill supertux is fully loaded?
+[2015/12/03 21:04:05] <Tobbi> head8debian: It needs to be started in a different thread, actually...
+[2015/12/03 21:04:13] <Tobbi> And I thought it did that.
+[2015/12/03 21:04:17] <Tobbi> But apparently, it didn't.
+[2015/12/03 21:07:31] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/94783744
+[2015/12/03 21:09:38] <head8debian> Tobbi: hmph.
+[2015/12/03 21:09:54] <head8debian> Tobbi: Did you get volume on that video? :D
+[2015/12/03 21:10:39] @ bb010g joined channel #supertux
+[2015/12/03 21:10:44] <head8debian> volume...
+[2015/12/03 21:10:48] * head8debian headbangs...
+[2015/12/03 21:10:55] <Tobbi> head8debian: Yes, I did, with VLC
+[2015/12/03 21:12:19] <head8debian> Tobbi: Im not fond of the online player btw.
+[2015/12/03 21:12:20] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/34
