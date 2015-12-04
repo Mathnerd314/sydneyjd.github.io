@@ -16483,3 +16483,7 @@
 [2015/12/04 16:24:40] @ tux|dude joined channel #supertux
 [2015/12/04 16:30:17] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/04 16:38:25] @ jesusalva is now known as jesusalva_
+[2015/12/04 16:45:19] @ jesusalva_ is now known as Pao_de_Queijo
+[2015/12/04 16:46:46] @ Quit: tux|dude: Quit: Leaving
+[2015/12/04 16:53:10] @ Quit: alket: Quit: Good Night :)
+[2015/12/04 16:57:27] @ Quit: brmbrmcar: Quit: brmbrmquit
