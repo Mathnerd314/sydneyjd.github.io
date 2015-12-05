@@ -16711,3 +16711,6 @@
 [2015/12/05 15:58:10] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/05 16:11:41] @ Quit: Karkus: Ping timeout: 246 seconds
 [2015/12/05 16:15:27] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/12/05 17:01:09] <Not-e81f> [02supertux] 07xvitaly starred 03supertux - 13http://git.io/vRzGr
+[2015/12/05 17:01:19] @ Quit: claymore2__: Quit: Leaving
+[2015/12/05 17:11:55] @ Drangue is now known as alket
