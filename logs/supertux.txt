@@ -16669,3 +16669,4 @@
 [2015/12/05 12:18:29] <Tobbi> hmm...
 [2015/12/05 12:18:36] <Tobbi> It won't be long before he tries it again.
 [2015/12/05 12:18:49] <Tobbi> I just don't have time or nerves to deal with people like him.
+[2015/12/05 12:43:30] @ Quit: Tobbi: Remote host closed the connection
