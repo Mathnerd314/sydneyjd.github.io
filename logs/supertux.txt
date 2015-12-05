@@ -16537,3 +16537,4 @@
 [2015/12/05 05:04:32] @ Hume2 left channel #supertux ()
 [2015/12/05 05:19:38] @ alket joined channel #supertux
 [2015/12/05 06:23:15] @ Quit: xet7: Quit: Leaving
+[2015/12/05 07:00:57] @ Quit: bb010g: Quit: Connection closed for inactivity
