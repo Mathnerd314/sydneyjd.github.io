@@ -16710,3 +16710,4 @@
 [2015/12/05 15:52:28] @ maths22 joined channel #supertux
 [2015/12/05 15:58:10] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/05 16:11:41] @ Quit: Karkus: Ping timeout: 246 seconds
+[2015/12/05 16:15:27] @ Quit: brmbrmcar: Quit: brmbrmquit
