@@ -16495,3 +16495,4 @@
 [2015/12/04 18:38:33] @ Tobbi joined channel #supertux
 [2015/12/04 18:38:33] @ Mode +o Tobbi by ChanServ
 [2015/12/04 18:41:09] @ Quit: brmbrmcar: Ping timeout: 260 seconds
+[2015/12/04 18:56:05] @ Quit: leyyin: Ping timeout: 260 seconds
