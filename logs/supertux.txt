@@ -16496,3 +16496,6 @@
 [2015/12/04 18:38:33] @ Mode +o Tobbi by ChanServ
 [2015/12/04 18:41:09] @ Quit: brmbrmcar: Ping timeout: 260 seconds
 [2015/12/04 18:56:05] @ Quit: leyyin: Ping timeout: 260 seconds
+[2015/12/04 19:00:24] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/04 19:11:29] @ Quit: jeezy: Ping timeout: 260 seconds
+[2015/12/04 19:13:02] @ jeexy joined channel #supertux
