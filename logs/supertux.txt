@@ -16528,3 +16528,5 @@
 [2015/12/05 02:33:43] @ Quit: jeezy: Changing host
 [2015/12/05 02:33:43] @ jeezy joined channel #supertux
 [2015/12/05 02:59:48] @ brmbrmcar joined channel #supertux
+[2015/12/05 03:04:19] @ brmbrmca1 joined channel #supertux
+[2015/12/05 03:05:13] @ brmbrmca1 left channel #supertux ()
