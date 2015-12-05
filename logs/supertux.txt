@@ -16651,3 +16651,21 @@
 [2015/12/05 12:14:44] <head8debian> Tobbi: FINALY what?
 [2015/12/05 12:14:52] <Tobbi> head8debian: Finally this guy left.
 [2015/12/05 12:14:59] <head8debian> Tobbi: :D
+[2015/12/05 12:15:12] <mt> you can also prevent a join!
+[2015/12/05 12:15:25] <Tobbi> mt: By banning him... :P
+[2015/12/05 12:15:29] <Tobbi> yeah, I know.
+[2015/12/05 12:15:34] <mt> yeah
+[2015/12/05 12:15:46] <mt> or at least hmm...
+[2015/12/05 12:15:49] <Tobbi> But this is a friendly channel... I don't ban people until they get severly on my nerves...
+[2015/12/05 12:15:56] <mt> yeah
+[2015/12/05 12:15:57] <Tobbi> Actually, wait  amoment.
+[2015/12/05 12:16:00] <Tobbi> :D
+[2015/12/05 12:16:32] <Tobbi> mt: Is it justified that I ban him?
+[2015/12/05 12:16:46] <mt> a (insert the not +b but almost +b mode) could at least make him wonder what's happened :>
+[2015/12/05 12:17:20] <Tobbi> mt: I don't want him to wonder. For all I know, him wondering leads to his annoying behaviour.
+[2015/12/05 12:17:21] <mt> dunno, your decision
+[2015/12/05 12:17:53] <Tobbi> I will ban him the next time he gets on my nerves.
+[2015/12/05 12:18:20] <mt> for me, annoying behavior can be a reason to justify a ban if it continues to be a problem after telling the user to stop
+[2015/12/05 12:18:29] <Tobbi> hmm...
+[2015/12/05 12:18:36] <Tobbi> It won't be long before he tries it again.
+[2015/12/05 12:18:49] <Tobbi> I just don't have time or nerves to deal with people like him.
