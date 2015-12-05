@@ -16609,3 +16609,9 @@
 [2015/12/05 10:57:07] <brmbrmcar> https://a.uguu.se/drjbqw_foreststuff.stl
 [2015/12/05 10:57:21] <brmbrmcar> Only 24 hours though...
 [2015/12/05 11:00:00] <brmbrmcar> I once got Superfish.
+[2015/12/05 11:00:08] <brmbrmcar> Worst ads ever.
+[2015/12/05 11:01:21] <mt> (why do people use crapware-loaded Windows installs instead of reinstalling clean)
+[2015/12/05 11:02:01] <brmbrmcar> I had Superfish on Chrome OS.
+[2015/12/05 11:02:18] <brmbrmcar> I deleted it quickly.
+[2015/12/05 11:03:54] <brmbrmcar> If it was Windows it would still be there...
+[2015/12/05 11:12:55] <head8debian> mt: I feel the same way as you, but i don't want to buy a OEM copy of windows and a licence key on top of the cost of a new computer. At least i can delete the junk-ware, but it leaves crud on my system.
