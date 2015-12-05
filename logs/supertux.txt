@@ -16551,3 +16551,9 @@
 [2015/12/05 08:52:59] <head8debian> Or just use the cloud account that comes with google or amazon.
 [2015/12/05 08:55:02] <mt> that'd increse the NSA problem
 [2015/12/05 09:07:38] <Karkus> brmbrmcar: I can confirm that level is pretty awful
+[2015/12/05 09:46:04] <brmbrmcar> Karkus: Thank you.
+[2015/12/05 09:46:24] <Karkus> brmbrmcar: It starts with a torrent of enemies!
+[2015/12/05 09:47:04] @ Quit: leyyin: Read error: Connection reset by peer
+[2015/12/05 09:53:52] @ Quit: claymore2: Quit: Leaving
+[2015/12/05 09:57:15] <head8debian> mt: True, but its really no worse than using these oddball file upload sites which you have absolutely *no* clue of what they do with your data.
+[2015/12/05 09:58:01] <head8debian> At least i know what google would do with my data.
