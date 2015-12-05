@@ -16723,3 +16723,4 @@
 [2015/12/05 18:07:54] @ Karkus joined channel #supertux
 [2015/12/05 18:19:20] @ Quit: alket: Quit: Good Night :)
 [2015/12/05 18:21:43] <Tobbi> Good morning, Karkus.
+[2015/12/05 18:37:53] @ tux|dude joined channel #supertux
