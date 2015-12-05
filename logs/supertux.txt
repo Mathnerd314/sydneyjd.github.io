@@ -16629,3 +16629,15 @@
 [2015/12/05 11:30:30] <brmbrmcar> I don't understand how you can criticise me for my lack of security when you guys run Windows.
 [2015/12/05 11:37:29] @ Tobbi joined channel #supertux
 [2015/12/05 11:37:30] @ Mode +o Tobbi by ChanServ
+[2015/12/05 11:46:08] @ Quit: Karkus: Read error: Connection reset by peer
+[2015/12/05 11:46:45] @ Karkus joined channel #supertux
+[2015/12/05 11:49:51] <Tobbi> hello...
+[2015/12/05 11:50:04] <Tobbi> I know...the pastebin fun talk is over, now that I am here.
+[2015/12/05 11:50:09] <Tobbi> We Germans don't understand fun.
+[2015/12/05 11:50:10] <Tobbi> Never.
+[2015/12/05 11:51:13] <brmbrmcar> Thanks for ending!
+[2015/12/05 11:55:12] <head8debian> Good greif. :/
+[2015/12/05 11:55:20] <Tobbi> Actually, now that I think about it: You may continue...
+[2015/12/05 11:55:26] <Tobbi> Now that brmbrmcar is annoyed by it.
+[2015/12/05 11:56:30] <brmbrmcar> :(
+[2015/12/05 11:57:25] <head8debian> Anyways...
