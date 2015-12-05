@@ -16509,3 +16509,4 @@
 [2015/12/04 23:49:35] @ Quit: irungentoo: Remote host closed the connection
 [2015/12/05 00:34:46] @ Quit: maths22: Read error: Connection reset by peer
 [2015/12/05 00:35:11] @ maths22 joined channel #supertux
+[2015/12/05 00:53:13] @ tuxdev_ joined channel #supertux
