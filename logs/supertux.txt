@@ -16583,3 +16583,29 @@
 [2015/12/05 10:21:45] <head8debian> THats why i don't take video/pictures of myself and post them all over the interwebs. :D
 [2015/12/05 10:43:21] <brmbrmcar> Most pastebins are wayworse than file uploaders.
 [2015/12/05 10:44:04] <brmbrmcar> Bigger sites are the worst, because they will modify your files.
+[2015/12/05 10:47:59] <mt> encrypted pastebins don't work like that
+[2015/12/05 10:48:30] <mt> since if you modify the content something will cryptographically break
+[2015/12/05 10:48:33] <brmbrmcar> I use ubuntu pastebin.
+[2015/12/05 10:48:51] <brmbrmcar> pastebin.com is adware.
+[2015/12/05 10:49:02] <mt> >pastebin.com
+[2015/12/05 10:49:41] <brmbrmcar> Yes...
+[2015/12/05 10:49:48] <mt> I use gist.github.com (all pastes are git repos <3) or 0bin/zerobin instances (pastes are encrypted <3)
+[2015/12/05 10:50:05] <brmbrmcar> I would never use imgur.
+[2015/12/05 10:51:06] <mt> why not? seems like a sane solution for me (at least for anything that's not strictly private)
+[2015/12/05 10:51:15] <head8debian> Me also.
+[2015/12/05 10:52:00] <brmbrmcar> Imgur is full of annoying ads, and a massive company.
+[2015/12/05 10:52:04] <brmbrmcar> Use cubeupload
+[2015/12/05 10:52:42] <brmbrmcar> And it is almost impossible to link to the actual picture.
+[2015/12/05 10:53:29] <mt> >annoying ads >not using adblocker/https://i.imgur.com/${imageid}.${fileextension}
+[2015/12/05 10:55:13] <brmbrmcar> I use adblock.
+[2015/12/05 10:55:31] <mt> there's also https://ptpb.pw/ (open source), https://uguu.se/ (for large files, also open source) and tons of http://pomf.se/ clones (open source)
+[2015/12/05 10:55:52] <head8debian> I don't care about ads too much as long as they dont get in the way of actual use.
+[2015/12/05 10:55:55] @ tuxdev_ joined channel #supertux
+[2015/12/05 10:56:02] <head8debian> THey keep the website going.
+[2015/12/05 10:56:16] <brmbrmcar> I will use uguu.se
+[2015/12/05 10:56:31] <mt> ads collect your private data more than you'd think
+[2015/12/05 10:56:43] <head8debian> And that they don't use flash ads and collect data...
+[2015/12/05 10:56:46] <head8debian> Heh.
+[2015/12/05 10:57:07] <brmbrmcar> https://a.uguu.se/drjbqw_foreststuff.stl
+[2015/12/05 10:57:21] <brmbrmcar> Only 24 hours though...
+[2015/12/05 11:00:00] <brmbrmcar> I once got Superfish.
