@@ -16615,3 +16615,14 @@
 [2015/12/05 11:02:18] <brmbrmcar> I deleted it quickly.
 [2015/12/05 11:03:54] <brmbrmcar> If it was Windows it would still be there...
 [2015/12/05 11:12:55] <head8debian> mt: I feel the same way as you, but i don't want to buy a OEM copy of windows and a licence key on top of the cost of a new computer. At least i can delete the junk-ware, but it leaves crud on my system.
+[2015/12/05 11:15:18] <mt> just need to get the ISO from MS and enter your license key to reinstall
+[2015/12/05 11:15:57] <mt> OEM keys won't work without OEM ISOs, but anything that ships with OEM software nowadays stores the license key in the hardware (UEFI)
+[2015/12/05 11:16:28] <head8debian> I didn't know that.
+[2015/12/05 11:16:34] <mt> which means that you can reinstall from the MS ISO without having to enter any key
+[2015/12/05 11:16:39] <head8debian> SO no more external product keys?
+[2015/12/05 11:16:40] <head8debian> COol.
+[2015/12/05 11:17:10] <head8debian> I havent touched anything new in a while.
+[2015/12/05 11:17:33] <mt> Well, I guess it's stored in the UEFI as that's the only thing that can store custom data w/o having to add a new internal device ;)
+[2015/12/05 11:21:12] <head8debian> TWrue.
+[2015/12/05 11:21:14] <head8debian> True*
+[2015/12/05 11:29:05] <brmbrmcar> You want Windows?
