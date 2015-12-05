@@ -16511,3 +16511,9 @@
 [2015/12/05 00:35:11] @ maths22 joined channel #supertux
 [2015/12/05 00:53:13] @ tuxdev_ joined channel #supertux
 [2015/12/05 01:09:53] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#248: Update check for SuperTux - 13http://git.io/vR0Jg
+[2015/12/05 01:50:03] @ Hume2 joined channel #supertux
+[2015/12/05 01:50:30] <Hume2> Hello averyone!
+[2015/12/05 01:50:49] <Hume2> s/averyone/everybody/
+[2015/12/05 01:50:49] <red_bot> Hume2 meant: "Hello everybody!"
+[2015/12/05 01:58:06] @ Quit: maths22: Read error: Connection reset by peer
+[2015/12/05 01:58:25] @ maths22 joined channel #supertux
