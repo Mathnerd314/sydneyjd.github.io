@@ -16540,3 +16540,4 @@
 [2015/12/05 07:00:57] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/12/05 07:32:27] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/12/05 07:35:49] @ Quit: maths22: Ping timeout: 260 seconds
+[2015/12/05 07:54:09] @ brmbrmcar joined channel #supertux
