@@ -16719,3 +16719,5 @@
 [2015/12/05 17:50:09] <Tobbi> 2 weeks until the release, round about...
 [2015/12/05 17:50:22] <Tobbi> Everybody ready? :P
 [2015/12/05 17:53:17] <alket> nice
+[2015/12/05 18:02:46] <Tobbi> :-)
+[2015/12/05 18:07:54] @ Karkus joined channel #supertux
