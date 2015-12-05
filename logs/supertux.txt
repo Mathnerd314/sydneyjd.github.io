@@ -16550,3 +16550,4 @@
 [2015/12/05 08:34:26] <mt> brmbrmcar: are you still in the internet middle-age where everyone uses silly file upload sites with loads of ads and user tracking? come on. there's pastebins where you can paste plain text stuff (that includes SuperTux levels, worldmaps and most other code) and there's rather serious and well-known image hosts (imgur)
 [2015/12/05 08:52:59] <head8debian> Or just use the cloud account that comes with google or amazon.
 [2015/12/05 08:55:02] <mt> that'd increse the NSA problem
+[2015/12/05 09:07:38] <Karkus> brmbrmcar: I can confirm that level is pretty awful
