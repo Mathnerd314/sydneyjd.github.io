@@ -16714,3 +16714,5 @@
 [2015/12/05 17:01:09] <Not-e81f> [02supertux] 07xvitaly starred 03supertux - 13http://git.io/vRzGr
 [2015/12/05 17:01:19] @ Quit: claymore2__: Quit: Leaving
 [2015/12/05 17:11:55] @ Drangue is now known as alket
+[2015/12/05 17:23:46] @ Tobbi joined channel #supertux
+[2015/12/05 17:23:47] @ Mode +o Tobbi by ChanServ
