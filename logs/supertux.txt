@@ -16557,3 +16557,22 @@
 [2015/12/05 09:53:52] @ Quit: claymore2: Quit: Leaving
 [2015/12/05 09:57:15] <head8debian> mt: True, but its really no worse than using these oddball file upload sites which you have absolutely *no* clue of what they do with your data.
 [2015/12/05 09:58:01] <head8debian> At least i know what google would do with my data.
+[2015/12/05 10:03:00] <mt> well, I like to use https://github.com/sebsauvage/ZeroBin or https://github.com/sametmax/0bin pastebin sites
+[2015/12/05 10:03:25] <mt> as the data is stored encrypted in the URL and never (not even in encrypted form) sent to the server
+[2015/12/05 10:04:00] <mt> er, the data is well sent to the server
+[2015/12/05 10:04:03] <mt> but always encrypted
+[2015/12/05 10:04:09] <mt> the key is never sent to the server
+[2015/12/05 10:05:11] <head8debian> mt: I use owncloud with my email provider.
+[2015/12/05 10:05:23] <head8debian> Well, they use owncloud, so i do. ;)
+[2015/12/05 10:05:48] <mt> owncloud doesn't encrypt, I'd only use it via HTTPS and only when hosted on servers I have access to
+[2015/12/05 10:06:57] <brmbrmcar> Karkus: Can you finish it?
+[2015/12/05 10:06:59] <head8debian> mt: It doesn't encrypt itself, but my email provider encrypts the conection.
+[2015/12/05 10:07:11] <Karkus> brmbrmcar: Finish what?
+[2015/12/05 10:07:37] <head8debian> mt: And i find my email providers TOS decent.
+[2015/12/05 10:08:00] <mt> head8debian: and yet I'd not actually trust any external email provider for not doing bullshit
+[2015/12/05 10:08:45] <brmbrmcar> The level.
+[2015/12/05 10:09:52] <head8debian> mt: True. But im not goign to host my own email.
+[2015/12/05 10:09:56] <head8debian> mt: https://www.openmailbox.org/tos
+[2015/12/05 10:10:21] <mt> I should switch my mail server to OpenSMTPd at some point
+[2015/12/05 10:11:10] <head8debian> They even have a freenode channel.
+[2015/12/05 10:11:15] <head8debian> Not a huge one though.
