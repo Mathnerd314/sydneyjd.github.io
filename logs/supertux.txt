@@ -16626,3 +16626,6 @@
 [2015/12/05 11:21:12] <head8debian> TWrue.
 [2015/12/05 11:21:14] <head8debian> True*
 [2015/12/05 11:29:05] <brmbrmcar> You want Windows?
+[2015/12/05 11:30:30] <brmbrmcar> I don't understand how you can criticise me for my lack of security when you guys run Windows.
+[2015/12/05 11:37:29] @ Tobbi joined channel #supertux
+[2015/12/05 11:37:30] @ Mode +o Tobbi by ChanServ
