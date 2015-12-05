@@ -16541,3 +16541,8 @@
 [2015/12/05 07:32:27] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/12/05 07:35:49] @ Quit: maths22: Ping timeout: 260 seconds
 [2015/12/05 07:54:09] @ brmbrmcar joined channel #supertux
+[2015/12/05 08:18:34] @ head8debian joined channel #supertux
+[2015/12/05 08:24:46] <brmbrmcar> This is my awful level: http://www.fileconvoy.com/gf.php?id=g124e90f1c3cfca92999757019.805589227828524c2f4a1b&sts=14493217102131222536467da4a0583558e1940320470e263bc8e
+[2015/12/05 08:26:18] @ Tobbi joined channel #supertux
+[2015/12/05 08:26:18] @ Mode +o Tobbi by ChanServ
+[2015/12/05 08:27:54] @ irungentoo joined channel #supertux
