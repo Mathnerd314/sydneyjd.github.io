@@ -16521,3 +16521,6 @@
 [2015/12/05 02:05:25] <Not-e81f> [02supertux] 07Hume2 03f61e78b - Substituted ice square by tilemap in NewIcelevel4.stl
 [2015/12/05 02:06:49] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-1/±0] 13http://git.io/vR0q7
 [2015/12/05 02:06:51] <Not-e81f> [02supertux] 07Hume2 03cccb64f - Removed unused pre_git_bugtracker_worldmap sprite
+[2015/12/05 02:17:23] @ Hume2 left channel #supertux ()
+[2015/12/05 02:24:12] @ datahead8888 is now known as datahead7777
+[2015/12/05 02:29:45] @ leyyin joined channel #supertux
