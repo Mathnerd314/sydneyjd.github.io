@@ -16507,3 +16507,5 @@
 [2015/12/04 23:05:12] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-12-03 17:04:41 -0500
 [2015/12/04 23:05:16] @ Mode +nt by kornbluth.freenode.net
 [2015/12/04 23:49:35] @ Quit: irungentoo: Remote host closed the connection
+[2015/12/05 00:34:46] @ Quit: maths22: Read error: Connection reset by peer
+[2015/12/05 00:35:11] @ maths22 joined channel #supertux
