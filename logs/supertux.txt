@@ -16716,3 +16716,6 @@
 [2015/12/05 17:11:55] @ Drangue is now known as alket
 [2015/12/05 17:23:46] @ Tobbi joined channel #supertux
 [2015/12/05 17:23:47] @ Mode +o Tobbi by ChanServ
+[2015/12/05 17:50:09] <Tobbi> 2 weeks until the release, round about...
+[2015/12/05 17:50:22] <Tobbi> Everybody ready? :P
+[2015/12/05 17:53:17] <alket> nice
