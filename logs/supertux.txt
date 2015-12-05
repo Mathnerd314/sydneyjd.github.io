@@ -16581,3 +16581,5 @@
 [2015/12/05 10:17:28] <mt> choose a provider you trust, use rather safe virtualization (KVM)/get a dedi/host at home/host at a DC you trust and set up an AS yourself, make sure to defend yourself against silly encryption and surveillance laws, then you're fine
 [2015/12/05 10:21:29] <head8debian> Yes...
 [2015/12/05 10:21:45] <head8debian> THats why i don't take video/pictures of myself and post them all over the interwebs. :D
+[2015/12/05 10:43:21] <brmbrmcar> Most pastebins are wayworse than file uploaders.
+[2015/12/05 10:44:04] <brmbrmcar> Bigger sites are the worst, because they will modify your files.
