@@ -16499,3 +16499,5 @@
 [2015/12/04 19:00:24] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/04 19:11:29] @ Quit: jeezy: Ping timeout: 260 seconds
 [2015/12/04 19:13:02] @ jeexy joined channel #supertux
+[2015/12/04 19:20:48] @ bb010g joined channel #supertux
+[2015/12/04 19:26:33] @ Quit: jesusalva: Remote host closed the connection
