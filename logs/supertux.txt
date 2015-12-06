@@ -17301,3 +17301,15 @@
 [2015/12/06 17:22:45] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/61
 [2015/12/06 17:24:16] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95247120
 [2015/12/06 17:25:11] <maths22> Trying to get Travis to use SCP is less than pleasant :(
+[2015/12/06 17:30:56] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/60
+[2015/12/06 17:31:07] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95247120
+[2015/12/06 17:31:09] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95247120
+[2015/12/06 17:31:50] <alket> did release happen ?
+[2015/12/06 17:32:16] <Tobbi> alket: No. Release is scheduled for December 20.
+[2015/12/06 17:32:33] <Tobbi> (=> in 2 weeks)
+[2015/12/06 17:34:54] <alket> nice
+[2015/12/06 17:43:43] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03travis [+3/-0/±2] 13http://git.io/vRVbp
+[2015/12/06 17:43:44] <Not-e81f> [02supertux] 07Jacob Burroughs 031081360 - Support OS X deployment
+[2015/12/06 17:43:46] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95250415
+[2015/12/06 17:43:47] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/62
+[2015/12/06 17:44:49] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95250415
