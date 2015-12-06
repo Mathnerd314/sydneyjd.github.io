@@ -16855,3 +16855,11 @@
 [2015/12/06 10:24:57] @ brmbrmcar joined channel #supertux
 [2015/12/06 10:27:12] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vRaUt
 [2015/12/06 10:27:13] <Not-e81f> [02supertux] 07Hume2 03dd9e955 - Resized the World1 Bonus Level
+[2015/12/06 10:35:09] <Hume2> Hello, brmbrmcar.
+[2015/12/06 10:41:55] <Tobbi> Good thinking.
+[2015/12/06 10:42:01] <Tobbi> re issue #252
+[2015/12/06 10:42:58] <brmbrmcar> hello hume2
+[2015/12/06 10:43:00] @ tuxdev_ joined channel #supertux
+[2015/12/06 10:43:25] <Tobbi> Bulgarian is at 97%.
+[2015/12/06 10:44:14] <Hume2> Is there a level that hasn't paralax background so far? (and isn't in addon)
+[2015/12/06 10:44:35] <Hume2> (...and can have)
