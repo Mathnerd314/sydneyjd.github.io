@@ -16805,3 +16805,5 @@
 [2015/12/06 07:41:56] @ brmbrmca1 left channel #supertux ()
 [2015/12/06 07:43:01] @ Quit: alket: Read error: Connection reset by peer
 [2015/12/06 07:43:19] @ alket joined channel #supertux
+[2015/12/06 08:08:55] @ irungentoo joined channel #supertux
+[2015/12/06 08:10:25] @ Quit: claymore2: Quit: Leaving
