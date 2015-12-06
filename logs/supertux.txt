@@ -16807,3 +16807,4 @@
 [2015/12/06 07:43:19] @ alket joined channel #supertux
 [2015/12/06 08:08:55] @ irungentoo joined channel #supertux
 [2015/12/06 08:10:25] @ Quit: claymore2: Quit: Leaving
+[2015/12/06 08:20:29] @ Quit: brmbrmcar: Quit: brmbrmquit
