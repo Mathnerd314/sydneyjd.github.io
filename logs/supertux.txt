@@ -16801,3 +16801,7 @@
 [2015/12/06 06:41:19] @ brmbrmcar left channel #supertux ("8brmbrmpart")
 [2015/12/06 06:44:03] @ brmbrmcar joined channel #supertux
 [2015/12/06 07:22:49] @ Karkus joined channel #supertux
+[2015/12/06 07:41:46] @ brmbrmca1 joined channel #supertux
+[2015/12/06 07:41:56] @ brmbrmca1 left channel #supertux ()
+[2015/12/06 07:43:01] @ Quit: alket: Read error: Connection reset by peer
+[2015/12/06 07:43:19] @ alket joined channel #supertux
