@@ -17031,3 +17031,38 @@
 [2015/12/06 11:41:15] <Tobbi> *sigh*
 [2015/12/06 11:42:36] <mt> even with trusty based ubuntu cmake will still be too old
 [2015/12/06 11:43:15] <brmbrmcar> I tried to build supertux on Ubuntu, same old error.
+[2015/12/06 11:45:12] <mt> what ubuntu release?
+[2015/12/06 11:45:12] <Karkus_On_Windos> Tobbi: I ran it from the terminal, and now it works fine. Maybe something to do with the Start Menu link?
+[2015/12/06 11:45:20] <Tobbi> Karkus_On_Windos: Perhaps?
+[2015/12/06 11:45:37] <mt> a recent ubuntu (vivid, wily) should work fine
+[2015/12/06 11:45:44] <Tobbi> Karkus_On_Windos: What does it point to?
+[2015/12/06 11:46:16] <Karkus_On_Windos> Tobbi: No, it's not that... If the game loses focus, it goes blank.
+[2015/12/06 11:46:23] <brmbrmcar> mt: I can only get lts.
+[2015/12/06 11:46:31] <Tobbi> That is weird.
+[2015/12/06 11:46:42] <mt> brmbrmcar: there's your problem
+[2015/12/06 11:46:55] <brmbrmcar> mt: But why?
+[2015/12/06 11:46:57] <Karkus_On_Windos> maths22 said he'd tested it. I will need to speak to him about this
+[2015/12/06 11:47:14] <Karkus_On_Windos> Unless anyone else can test it?
+[2015/12/06 11:47:19] <mt> brmbrmcar: because the package versions are too old
+[2015/12/06 11:47:33] <brmbrmcar> I have the error about glew thingy
+[2015/12/06 11:47:37] <mt> we require cmake 3+ (iirc), sdl2, sdl2_image
+[2015/12/06 11:48:10] <mt> trusty ships cmake 2.8 but includes sdl2*, precise doesn't ship any of these releases
+[2015/12/06 11:48:14] <brmbrmcar> I have all them.
+[2015/12/06 11:49:07] <Tobbi> yup, travis docker builds don't include sdl2.
+[2015/12/06 11:49:27] <mt> and, the bigger problem, cmake
+[2015/12/06 11:50:07] <mt> since we broke compatibility with cmake 2.x for some reason
+[2015/12/06 11:50:23] <Tobbi> I see...
+[2015/12/06 11:50:26] <mt> and that's what precise and trusty ship
+[2015/12/06 11:50:42] <Tobbi> Let's hold off on docker based infrastructure for now.
+[2015/12/06 11:50:54] <Tobbi> this is an absolute nightmare in so many ways.
+[2015/12/06 11:51:06] <brmbrmcar> Does cmake 2.x get past the finding stuff stage?
+[2015/12/06 11:51:35] <mt> I don't think so; and there's a reason behind dropping 2.x support
+[2015/12/06 11:53:27] <brmbrmcar> SoI have cmake 3?
+[2015/12/06 11:55:08] <mt> if you're trying to build and it works, yep
+[2015/12/06 11:55:36] <mt> we're talking about building right now, not about the nightlies, if you haven't realized
+[2015/12/06 11:55:43] <brmbrmcar> Ihave an error with the gkew stuff.
+[2015/12/06 11:56:13] <mt> 'sorry my system doesn't boot up anymore can you fix it plz?'
+[2015/12/06 11:56:26] <mt> no exact error description => no help
+[2015/12/06 11:57:14] <brmbrmcar> I deleted it.
+[2015/12/06 11:57:33] <brmbrmcar> even setting depth to 1 turns intomassive space.
+[2015/12/06 11:58:10] <Tobbi> I'd really like to know why glbinding won't build.
