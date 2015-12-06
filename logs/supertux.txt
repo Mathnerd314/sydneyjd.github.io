@@ -16985,3 +16985,49 @@
 [2015/12/06 11:29:16] <brmbrmcar> Well, itwas a computer upgrade...
 [2015/12/06 11:29:18] <giby> Hume2, I don't care about MS spying on me... I'm under watch by intelligence service, that is worse
 [2015/12/06 11:29:47] <Hume2> Giby, at least they are not interrested of your personal data.
+[2015/12/06 11:30:07] <Tobbi> giby: Why are you?
+[2015/12/06 11:30:10] <giby> they got them
+[2015/12/06 11:30:39] <giby> I live in a socialist dictature.... You know, France....
+[2015/12/06 11:30:51] <Tobbi> right.
+[2015/12/06 11:30:54] <Tobbi> Okay, right.
+[2015/12/06 11:31:33] <Hume2> I mean they aren't interrested in your PIN of your credit card.
+[2015/12/06 11:31:34] <giby> even If I haven't ran for election this year, they still watch me
+[2015/12/06 11:31:56] <giby> Hume2, they get better ways to get my money
+[2015/12/06 11:32:06] <Not-e81f> [02supertux] 07tobbi pushed 033 commits to 03coverity_scan [+0/-0/±13] 13http://git.io/vRalg
+[2015/12/06 11:32:20] <Tobbi> ...but it won't run, because [ci skip] on the head commit.
+[2015/12/06 11:32:23] <Hume2> I see.
+[2015/12/06 11:33:29] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95130343
+[2015/12/06 11:33:38] <Tobbi> Okay, I restarted the job.
+[2015/12/06 11:33:40] <Tobbi> Let's see...
+[2015/12/06 11:34:38] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95130343
+[2015/12/06 11:34:42] <Hume2> brmbrmcar: Do you know the Windows effect?
+[2015/12/06 11:35:06] <Tobbi> Okay, no, it takes an old commit.
+[2015/12/06 11:35:20] <brmbrmcar> Hume2: No...
+[2015/12/06 11:35:38] <Tobbi> mt: What was the problem with travis ci matrix builds again?
+[2015/12/06 11:35:48] <Hume2> brmbrmcar: When you install Windows, it's quite fast...
+[2015/12/06 11:36:03] <mt> what problem?
+[2015/12/06 11:36:24] <Hume2> brmbrmcar: However, do you know what happens after several years?
+[2015/12/06 11:36:31] <Tobbi> mt: Why isn't our travis ci using matrix?
+[2015/12/06 11:36:40] <Tobbi> aka: Is using legacy infrastructure.
+[2015/12/06 11:37:06] <giby> So... even if lately I haven't been that active in resistance.... They prefer to watch me that terrorists
+[2015/12/06 11:37:18] <Hume2> The last commit has [ci skip] anyway.
+[2015/12/06 11:37:21] <brmbrmcar> Hume2: not really,in that sense...
+[2015/12/06 11:37:25] <Tobbi> Hume2: I know...
+[2015/12/06 11:37:36] <Hume2> brmbrmcar: It's incredibly slow!
+[2015/12/06 11:37:42] <brmbrmcar> Yep.
+[2015/12/06 11:37:53] <brmbrmcar> But there were somany effects....
+[2015/12/06 11:38:06] <mt> matrix is https://github.com/SuperTux/supertux/blob/master/.travis.yml#L19; we can't use the docker-based infrastructure because  uh no idea
+[2015/12/06 11:38:11] <mt> I think the packages were too old
+[2015/12/06 11:38:20] <Hume2> brmbrmcar: Agreed.
+[2015/12/06 11:38:27] <brmbrmcar> OK Good.
+[2015/12/06 11:38:50] @ Karkus_On_Windos joined channel #supertux
+[2015/12/06 11:39:08] <Hume2> Karkus, you are on Windos!
+[2015/12/06 11:39:32] <Karkus_On_Windos> The nightly builds aren't working for me, do you need to install SDL?
+[2015/12/06 11:39:56] <Tobbi> Karkus_On_Windos: Normally, that should be included.
+[2015/12/06 11:40:05] <Tobbi> maths22: ^^
+[2015/12/06 11:40:32] <Karkus_On_Windos> I've installed, and run it, but all I see is a blank window
+[2015/12/06 11:40:49] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/95130343
+[2015/12/06 11:41:11] <Tobbi> fine.
+[2015/12/06 11:41:15] <Tobbi> *sigh*
+[2015/12/06 11:42:36] <mt> even with trusty based ubuntu cmake will still be too old
+[2015/12/06 11:43:15] <brmbrmcar> I tried to build supertux on Ubuntu, same old error.
