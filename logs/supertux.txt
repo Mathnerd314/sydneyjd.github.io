@@ -16746,3 +16746,26 @@
 [2015/12/05 19:27:02] <Tobbi> Karkus: If it matters, change the lookahead stuff in that file which I can't remember the name of...
 [2015/12/05 19:27:06] <Tobbi> And I'm too lazy to look it up.
 [2015/12/05 19:27:46] <Karkus> Tobbi: I've looked at it before, let me see if I can find it
+[2015/12/05 19:32:11] <Karkus> Tobbi: Also, when M2 is complete, will we have to change the executable name to supertux3?
+[2015/12/05 19:32:23] <Tobbi> Karkus: Never thought about that before.
+[2015/12/05 19:32:28] <Tobbi> We might need to.
+[2015/12/05 19:32:29] <Karkus> (and everything else e.g ~/.supertux3)
+[2015/12/05 19:32:36] <Tobbi> Karkus: But might be a lot of work.
+[2015/12/05 19:32:39] <Karkus> could mess things up big time
+[2015/12/05 19:32:55] <Tobbi> I intend to take a longer break after the release.
+[2015/12/05 19:33:06] <Karkus> Okay :)
+[2015/12/05 19:33:30] <Tobbi> I helped you guys with the release, it's fine. If you guys want to continue...well, you don't depend on me, you all have access rights etc.
+[2015/12/05 19:33:48] <Karkus> We will, of course
+[2015/12/05 19:34:45] <Tobbi> great. :-)
+[2015/12/05 19:35:11] <Tobbi> My life is strange...
+[2015/12/05 19:35:20] <Tobbi> but what's normal anyway.
+[2015/12/05 19:35:25] <Karkus> And, of course, when you come back to check up on us, there will be 10 worlds and it will be M5
+[2015/12/05 19:35:57] <Tobbi> :D
+[2015/12/05 19:35:59] <Tobbi> *if
+[2015/12/05 19:36:06] <Karkus> D:
+[2015/12/05 19:36:42] <Karkus> I guess that'll mean you unsubscribe from all the github emails and the mailing list then?
+[2015/12/05 19:37:03] <Tobbi> Karkus: No, that means I need to take a longer break to reflect on my life, my achievements and my abilities.
+[2015/12/05 19:37:30] <Tobbi> It was quite overdue...
+[2015/12/05 19:38:04] <Tobbi> *is
+[2015/12/05 19:39:42] <Karkus> Yeah, it's fine
+[2015/12/05 19:40:08] <Karkus> good, even
