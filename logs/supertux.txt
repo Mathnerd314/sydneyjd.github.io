@@ -17190,3 +17190,13 @@
 [2015/12/06 12:58:27] <maths22> mt: Once I have OS X and windows happy, I'll fix up the OBS builds for linux
 [2015/12/06 12:58:37] <Tobbi> maths22: https://github.com/travis-ci/travis-ci/issues/4942
 [2015/12/06 12:58:43] <Tobbi> Maybe we should just make another commit.
+[2015/12/06 13:00:49] <Tobbi> I will add that option they talk about.
+[2015/12/06 13:01:12] <maths22> Tobbi: see
+[2015/12/06 13:01:13] <maths22> This seems to be happening reliably on the migrated new-infra precise workers
+[2015/12/06 13:01:21] <Tobbi> yup.
+[2015/12/06 13:01:29] <maths22> Tobbi: Don't worry about that, since we are switching to trusty tonight
+[2015/12/06 13:01:39] <Tobbi> okay, then, let's wait.
+[2015/12/06 13:01:57] <maths22> Tobbi: I just need to finish up fixing silly OS X errors, and then I will merge
+[2015/12/06 13:02:04] <Tobbi> alright!
+[2015/12/06 13:02:21] <Tobbi> I just hope that glbinding building is fixed for good.
+[2015/12/06 13:03:01] <maths22> Tobbi: hopefully...
