@@ -16724,3 +16724,8 @@
 [2015/12/05 18:19:20] @ Quit: alket: Quit: Good Night :)
 [2015/12/05 18:21:43] <Tobbi> Good morning, Karkus.
 [2015/12/05 18:37:53] @ tux|dude joined channel #supertux
+[2015/12/05 18:53:54] <Karkus> Tobbi: Morning?
+[2015/12/05 18:54:15] <Tobbi> Karkus: In some place in this world, it is morning.
+[2015/12/05 18:54:22] <Tobbi> Always think about that.
+[2015/12/05 18:54:52] <Karkus> But for me it isn't, and I don't think it is for you either
+[2015/12/05 18:56:35] <Karkus> Interestingly, nowhere in the world is June a summer month.
