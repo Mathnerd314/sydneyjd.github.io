@@ -17217,3 +17217,7 @@
 [2015/12/06 14:09:36] <Not-e81f> [02supertux] 07tobbi commented on issue 03#172: Investigate travis build issue of glbinding on clang - 13http://git.io/vRVL4
 [2015/12/06 14:09:37] <Not-e81f> [02supertux] 07tobbi closed issue 03#172: Investigate travis build issue of glbinding on clang - 13http://git.io/vcKqj
 [2015/12/06 14:10:46] @ Karkus joined channel #supertux
+[2015/12/06 14:15:30] <Not-e81f> [02supertux] 07LMH0013 commented on issue 03#234: Making Tux air or earth on death displays hat - 13http://git.io/vRVtx
+[2015/12/06 14:15:32] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/56
+[2015/12/06 14:17:44] @ Quit: alket: Remote host closed the connection
+[2015/12/06 14:18:40] @ alket joined channel #supertux
