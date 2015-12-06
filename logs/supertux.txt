@@ -16780,3 +16780,5 @@
 [2015/12/05 20:58:25] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95130343
 [2015/12/05 20:59:11] <Tobbi> 54 commits.
 [2015/12/05 20:59:15] <Tobbi> Well, sounds good.
+[2015/12/05 21:02:29] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/05 21:12:34] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/95130343
