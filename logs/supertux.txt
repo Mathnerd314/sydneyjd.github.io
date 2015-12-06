@@ -16849,3 +16849,9 @@
 [2015/12/06 10:10:54] <Tobbi> head8debian: http://cheezburger.com/4875991040
 [2015/12/06 10:13:23] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vRaeJ
 [2015/12/06 10:13:33] <Not-e81f> [02supertux] 07Hume2 0342e847e - Added paralax background to World1 Bonus Level
+[2015/12/06 10:24:17] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#252: Review credits - 13http://git.io/vRaJc
+[2015/12/06 10:24:19] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#252: Review credits - 13http://git.io/vRaJc
+[2015/12/06 10:24:20] <Not-e81f> [02supertux] 07maxteufel opened issue 03#252: Review credits - 13http://git.io/vRaJc
+[2015/12/06 10:24:57] @ brmbrmcar joined channel #supertux
+[2015/12/06 10:27:12] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vRaUt
+[2015/12/06 10:27:13] <Not-e81f> [02supertux] 07Hume2 03dd9e955 - Resized the World1 Bonus Level
