@@ -16924,3 +16924,64 @@
 [2015/12/06 11:14:29] <Tobbi> Someone could assume I go by what I say now.
 [2015/12/06 11:14:52] <Tobbi> So maybe we should change one more string to convince people I am completely unreliable.
 [2015/12/06 11:14:53] <Tobbi> :D
+[2015/12/06 11:15:22] <Hume2> Plus there are a few new strings in incubator. :P
+[2015/12/06 11:15:36] <brmbrmcar> I have also noticed with the earth flower that both control and action keys work.
+[2015/12/06 11:15:47] <Tobbi> Hume2: Yeah, but, no. Leave these...
+[2015/12/06 11:15:50] <Tobbi> :D
+[2015/12/06 11:16:01] <Hume2> ...untranslated?
+[2015/12/06 11:16:03] <Karkus> :D I also noticed German and Czech are the two fully translated languages... I wonder wht
+[2015/12/06 11:16:07] <Karkus> *why
+[2015/12/06 11:16:16] <Tobbi> Karkus: Because I am the one translating those strings, and Hume is.
+[2015/12/06 11:16:16] <Tobbi> :D
+[2015/12/06 11:16:26] <Tobbi> So, naturally we make sure we get them updated asap.
+[2015/12/06 11:16:33] <Hume2> Exactly. And because of Narre.
+[2015/12/06 11:16:40] <Tobbi> giby: Let me ask how the stk guys handle transifex contributors.
+[2015/12/06 11:16:41] <Karkus> I'm kidding :P
+[2015/12/06 11:16:44] <Tobbi> :D
+[2015/12/06 11:16:47] <Tobbi> Ah, I see.
+[2015/12/06 11:16:56] <Karkus> Also, how updated are the nightly builds?
+[2015/12/06 11:17:35] <Tobbi> leyyin: Would you know how stk handles transifex contributors? Do you ask people to introduce themselves?
+[2015/12/06 11:18:30] <Tobbi> Karkus: windows builds are fairly recent (only 5 commits behind)
+[2015/12/06 11:18:31] <leyyin> idk
+[2015/12/06 11:18:39] <Tobbi> leyyin: who does?
+[2015/12/06 11:18:46] <leyyin> yes, themselfs
+[2015/12/06 11:19:00] <leyyin> if you want to be a contributor to a language we add you for that language
+[2015/12/06 11:19:09] <leyyin> on transifex
+[2015/12/06 11:19:09] * Tobbi checks mac builds.
+[2015/12/06 11:19:11] <Karkus> Tobbi: Are they just updated whenever maths22 triggers a build?
+[2015/12/06 11:19:18] <Tobbi> Karkus: I believe automatically, more or less.
+[2015/12/06 11:19:30] <Tobbi> Unless people add [ci skip]
+[2015/12/06 11:20:04] <Tobbi> Karkus: Last 5 commits were [ci skip].
+[2015/12/06 11:20:10] <Tobbi> So, the windows build is recent.
+[2015/12/06 11:20:51] <Karkus> There's about twenty different links though, is it the top one?
+[2015/12/06 11:21:22] <Karkus> (windows)
+[2015/12/06 11:21:34] <Tobbi> Karkus: Yes. The higher the number the more recent.
+[2015/12/06 11:21:55] <Karkus> Tobbi: Right. I'm going to boot into windows to test it out
+[2015/12/06 11:22:01] @ Quit: Karkus: Quit: Division By Zero
+[2015/12/06 11:22:23] <brmbrmcar> Does it work with all Windows now?
+[2015/12/06 11:22:35] <brmbrmcar> I want to run it off Wine.
+[2015/12/06 11:22:50] <Tobbi> Latest build for mac is from 17 days ago.
+[2015/12/06 11:23:00] <Tobbi> brmbrmcar: I doubt wine works. There's still this bug report.
+[2015/12/06 11:23:07] <Hume2> If it didn't work on Windows 10, it wouldn't really mind me.
+[2015/12/06 11:23:17] <Tobbi> Not again!
+[2015/12/06 11:23:18] <Tobbi> :D
+[2015/12/06 11:23:29] <brmbrmcar> It only works on Windows 10.
+[2015/12/06 11:23:43] <Hume2> What went wrong???
+[2015/12/06 11:24:10] <brmbrmcar> With what???
+[2015/12/06 11:24:43] <Hume2> You know, the "works only on Windows 10" thing.
+[2015/12/06 11:25:22] <brmbrmcar> Well, I have noidea.
+[2015/12/06 11:25:30] <brmbrmcar> I didn't build it.
+[2015/12/06 11:25:54] <Tobbi> giby: When do you update the translations from transifex?
+[2015/12/06 11:26:07] <Hume2> At least there's a chance that Microsoft will get rid of spying you when you play SuperTux.
+[2015/12/06 11:26:08] <Tobbi> I'm not pushing just asking. :)
+[2015/12/06 11:26:41] <brmbrmcar> I was forced to use Windows 10 on  Friday.
+[2015/12/06 11:27:14] <Hume2> Who has forced you?
+[2015/12/06 11:27:37] <brmbrmcar> My parents.
+[2015/12/06 11:27:55] <Hume2> That's not good.
+[2015/12/06 11:27:57] <brmbrmcar> They wanted to see whether video editing was any faster.
+[2015/12/06 11:28:15] <brmbrmcar> Onstupid software they actually paid for.
+[2015/12/06 11:28:33] <Hume2> :D And was it faster? Guess no.
+[2015/12/06 11:29:14] <Hume2> Maybe it was faster, but only until Windows will mess up the registry.
+[2015/12/06 11:29:16] <brmbrmcar> Well, itwas a computer upgrade...
+[2015/12/06 11:29:18] <giby> Hume2, I don't care about MS spying on me... I'm under watch by intelligence service, that is worse
+[2015/12/06 11:29:47] <Hume2> Giby, at least they are not interrested of your personal data.
