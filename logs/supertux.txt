@@ -16729,3 +16729,11 @@
 [2015/12/05 18:54:22] <Tobbi> Always think about that.
 [2015/12/05 18:54:52] <Karkus> But for me it isn't, and I don't think it is for you either
 [2015/12/05 18:56:35] <Karkus> Interestingly, nowhere in the world is June a summer month.
+[2015/12/05 19:09:30] <Karkus> Tobbi: According to SuperTux, it is officially Christmas time now
+[2015/12/05 19:09:38] <Tobbi> Karkus: Indeed ;)
+[2015/12/05 19:09:58] <Karkus> Is 6th of December an important date?
+[2015/12/05 19:11:26] <Tobbi> Karkus: Saint Nicholas day?
+[2015/12/05 19:11:36] <Tobbi> Whatever Nikolaustag is in English.
+[2015/12/05 19:12:28] <Karkus> Seems to be so. I don't know much about these festivities.
+[2015/12/05 19:12:51] <Karkus> Also, the main menu level is annoying me now. Tux walks into walls too many times
+[2015/12/05 19:14:59] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
