@@ -16863,3 +16863,19 @@
 [2015/12/06 10:43:25] <Tobbi> Bulgarian is at 97%.
 [2015/12/06 10:44:14] <Hume2> Is there a level that hasn't paralax background so far? (and isn't in addon)
 [2015/12/06 10:44:35] <Hume2> (...and can have)
+[2015/12/06 10:47:47] @ Quit: ced117: Ping timeout: 260 seconds
+[2015/12/06 10:47:50] <Tobbi> Hume2: I really don't know.
+[2015/12/06 10:48:38] <Tobbi> hah, the christmas theme :D
+[2015/12/06 10:48:46] <Hume2> :D I guess that all levels those had arctic.jpg have now paralaz background.
+[2015/12/06 10:49:09] <Hume2> Wait, menu level doesn't have so far!
+[2015/12/06 10:49:33] @ Karkus joined channel #supertux
+[2015/12/06 10:54:02] <mt> what does the earth bonus actually do?
+[2015/12/06 10:55:23] <brmbrmcar> mt:give Tux a light.
+[2015/12/06 10:55:27] <Hume2> Press ctrl+down to become invincible for a moment.
+[2015/12/06 10:56:12] <Tobbi> Hume2: The christmas hat someone slides across tux's head sometimes...can you fix that? I am too lazy to do so :P
+[2015/12/06 10:56:28] <Tobbi> Aka, it doesn't feel like it's in complete sync with Tux's hat.
+[2015/12/06 10:57:02] <Hume2> Tobbi: I noticed that, but I think that it's intended.
+[2015/12/06 10:57:06] <Tobbi> Hume2: I was the one doing this change.
+[2015/12/06 10:57:11] <Tobbi> Hume2: Actually, keep it.
+[2015/12/06 10:57:20] <Tobbi> If you think it's intended, others will think so as well :D
+[2015/12/06 10:58:57] <Hume2> :D
