@@ -17066,3 +17066,11 @@
 [2015/12/06 11:57:14] <brmbrmcar> I deleted it.
 [2015/12/06 11:57:33] <brmbrmcar> even setting depth to 1 turns intomassive space.
 [2015/12/06 11:58:10] <Tobbi> I'd really like to know why glbinding won't build.
+[2015/12/06 12:00:10] <Hume2> ~excuse
+[2015/12/06 12:00:10] <red_bot> Hume2: Operators killed when huge stack of backup tapes fell over.
+[2015/12/06 12:00:43] <Hume2> ^This :D
+[2015/12/06 12:01:30] <Tobbi> :D
+[2015/12/06 12:07:44] <head8debian> lol.
+[2015/12/06 12:11:16] @ Quit: Karkus_On_Windos: Ping timeout: 252 seconds
+[2015/12/06 12:12:58] @ Karkus joined channel #supertux
+[2015/12/06 12:13:55] <Hume2> Please, redirect Windows complaintments to #OSwars .
