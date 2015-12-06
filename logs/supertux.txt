@@ -17245,3 +17245,8 @@
 [2015/12/06 16:28:48] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/12/06 16:29:18] @ Quit: ced117: Quit: Quitte
 [2015/12/06 16:29:56] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#234: Making Tux air or earth on death displays hat - 13http://git.io/vRVMK
+[2015/12/06 16:41:16] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03travis [+3/-0/±2] 13http://git.io/vRVyv
+[2015/12/06 16:41:17] <Not-e81f> [02supertux] 07Jacob Burroughs 035ac8843 - Support OS X deployment
+[2015/12/06 16:41:19] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95240813
+[2015/12/06 16:41:20] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/58
+[2015/12/06 16:42:35] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95240813
