@@ -16737,3 +16737,12 @@
 [2015/12/05 19:12:28] <Karkus> Seems to be so. I don't know much about these festivities.
 [2015/12/05 19:12:51] <Karkus> Also, the main menu level is annoying me now. Tux walks into walls too many times
 [2015/12/05 19:14:59] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/12/05 19:25:59] <Tobbi> Karkus: Tux walks into walls?
+[2015/12/05 19:26:02] <Tobbi> That shouldn't happen.
+[2015/12/05 19:26:22] <Karkus> Tobbi: He bumps into them as he's jumping up the steps
+[2015/12/05 19:26:28] <Tobbi> Ah.
+[2015/12/05 19:26:39] <Tobbi> Karkus: But he still advances right?
+[2015/12/05 19:26:43] <Karkus> Yeah
+[2015/12/05 19:27:02] <Tobbi> Karkus: If it matters, change the lookahead stuff in that file which I can't remember the name of...
+[2015/12/05 19:27:06] <Tobbi> And I'm too lazy to look it up.
+[2015/12/05 19:27:46] <Karkus> Tobbi: I've looked at it before, let me see if I can find it
