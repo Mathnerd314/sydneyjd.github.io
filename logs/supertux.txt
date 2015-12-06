@@ -17293,3 +17293,11 @@
 [2015/12/06 17:13:38] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/60
 [2015/12/06 17:13:42] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2015/12/06 17:14:35] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95245825
+[2015/12/06 17:21:32] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95245825
+[2015/12/06 17:21:33] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95245825
+[2015/12/06 17:22:40] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03travis [+3/-0/±2] 13http://git.io/vRV5F
+[2015/12/06 17:22:42] <Not-e81f> [02supertux] 07Jacob Burroughs 036050233 - Support OS X deployment
+[2015/12/06 17:22:43] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95247120
+[2015/12/06 17:22:45] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/61
+[2015/12/06 17:24:16] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95247120
+[2015/12/06 17:25:11] <maths22> Trying to get Travis to use SCP is less than pleasant :(
