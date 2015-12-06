@@ -17234,3 +17234,8 @@
 [2015/12/06 15:58:30] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95234111
 [2015/12/06 15:58:32] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/57
 [2015/12/06 15:59:31] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95234111
+[2015/12/06 16:00:18] <maths22> Tobbi: Fixing OS X now
+[2015/12/06 16:00:42] <maths22> Karkus: I have figured out how to build it and include the VC Redist.  I will be making CMake do the right thing soon
+[2015/12/06 16:00:49] <Tobbi> sounds good.
+[2015/12/06 16:05:19] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/95234111
+[2015/12/06 16:06:30] @ Quit: claymore2: Quit: Leaving
