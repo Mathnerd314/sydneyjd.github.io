@@ -17221,3 +17221,5 @@
 [2015/12/06 14:15:32] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/56
 [2015/12/06 14:17:44] @ Quit: alket: Remote host closed the connection
 [2015/12/06 14:18:40] @ alket joined channel #supertux
+[2015/12/06 14:39:44] @ Quit: alket: Excess Flood
+[2015/12/06 14:40:12] @ alket joined channel #supertux
