@@ -16834,3 +16834,18 @@
 [2015/12/06 09:57:36] <Not-e81f> [02supertux] 07tobbi labeled issue 03#249: Check for language pack updates during main queue, after the program has loaded - 13http://git.io/vROZ9
 [2015/12/06 09:58:01] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±9] 13http://git.io/vR2xV
 [2015/12/06 09:58:03] <Not-e81f> [02supertux] 07Hume2 03e6ed7b1 - Added paralax backgrounds to Incubator where neccessary
+[2015/12/06 10:02:06] <head8debian> Tobbi: :)
+[2015/12/06 10:02:17] <head8debian> Tobbi: My power strip is doing odd things.
+[2015/12/06 10:02:32] <Tobbi> head8debian: Mine as well... oh, wait, that wasn't an innuendo.
+[2015/12/06 10:04:27] <mt> I guess now that we have a 0.4.1 milestone in github we can rename Post-0.4.0 to 0.5.0?
+[2015/12/06 10:04:37] <Tobbi> possibly?
+[2015/12/06 10:04:52] <Tobbi> head8debian: Can you raise your IQ by eating gifted children? :P
+[2015/12/06 10:05:04] <Hume2> :D
+[2015/12/06 10:05:44] <Hume2> I'll just add a paralax background to Bonus Level, it will be fast.
+[2015/12/06 10:06:06] <head8debian> ...
+[2015/12/06 10:06:51] <Tobbi> head8debian: Ever heard of autocomplete me?
+[2015/12/06 10:08:38] <head8debian> Tobbi: No.
+[2015/12/06 10:09:05] <Tobbi> head8debian: "What would happen if I hired two private investigators to follow each other?"
+[2015/12/06 10:10:54] <Tobbi> head8debian: http://cheezburger.com/4875991040
+[2015/12/06 10:13:23] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vRaeJ
+[2015/12/06 10:13:33] <Not-e81f> [02supertux] 07Hume2 0342e847e - Added paralax background to World1 Bonus Level
