@@ -16769,3 +16769,8 @@
 [2015/12/05 19:38:04] <Tobbi> *is
 [2015/12/05 19:39:42] <Karkus> Yeah, it's fine
 [2015/12/05 19:40:08] <Karkus> good, even
+[2015/12/05 19:47:39] @ Quit: tux|dude: Quit: Leaving
+[2015/12/05 19:50:41] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/vRz1N
+[2015/12/05 19:50:43] <Not-e81f> [02supertux] 07Karkus476 closed issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43DO
+[2015/12/05 19:52:09] <Karkus> Anyways, I'm tired. Good night
+[2015/12/05 19:52:10] @ Quit: Karkus: Quit: Division By Zero
