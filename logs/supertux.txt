@@ -16775,3 +16775,8 @@
 [2015/12/05 19:52:09] <Karkus> Anyways, I'm tired. Good night
 [2015/12/05 19:52:10] @ Quit: Karkus: Quit: Division By Zero
 [2015/12/05 20:41:38] <Not-e81f> [02supertux] 07outlaw2j forked the repository - 13http://git.io/vRzHj
+[2015/12/05 20:57:38] <Not-e81f> [02supertux] 07tobbi pushed 0354 commits to 03coverity_scan [+168/-45/±89] 13http://git.io/vRz7a
+[2015/12/05 20:57:39] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95130343
+[2015/12/05 20:58:25] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95130343
+[2015/12/05 20:59:11] <Tobbi> 54 commits.
+[2015/12/05 20:59:15] <Tobbi> Well, sounds good.
