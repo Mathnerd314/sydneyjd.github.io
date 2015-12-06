@@ -17163,3 +17163,30 @@
 [2015/12/06 12:44:08] <maths22> mt: OK.  That makes sense
 [2015/12/06 12:44:35] <maths22> Mine does most of the same things
 [2015/12/06 12:44:44] <mt> main problem: it preferred to download everything from debian sid but that wasn't cached on travis infrastructure
+[2015/12/06 12:45:07] <mt> while the precise packages, are iirc, cached
+[2015/12/06 12:45:20] <mt> feel free to delete the branch
+[2015/12/06 12:46:22] <mt> Tobbi: maybe we should switch the default to glbinding and for the 0.4.0 release put up a big bold text telling package managers to consider to switch to glbinding?
+[2015/12/06 12:46:54] <Tobbi> mt: We could certainly do that...
+[2015/12/06 12:47:02] <Tobbi> But I still expect an uproar by them.
+[2015/12/06 12:47:09] <Tobbi> GLEW is what they're used to.
+[2015/12/06 12:47:55] <mt> packaging glbinding shouldn't be a big problem, and toggling a cmake switch to use GLEW should be even less of a problem
+[2015/12/06 12:48:16] <mt> and that way they'll have time before we drop GLEW support
+[2015/12/06 12:48:22] <Tobbi> Sure.
+[2015/12/06 12:48:26] <Tobbi> Do we even want to drop it?
+[2015/12/06 12:48:32] <Tobbi> I say we keep it.
+[2015/12/06 12:49:11] <Tobbi> maths22: Why did the build we did half an hour ago fail due to --unshallow? I can remember --unshallow working before that...I still don't understand that issue.
+[2015/12/06 12:50:09] <Tobbi> I might be stupid :D
+[2015/12/06 12:51:25] <maths22> I don't know why... taking a look now
+[2015/12/06 12:51:42] <Tobbi> Ah, okay.
+[2015/12/06 12:53:04] <maths22> Tobbi: I still have no idea
+[2015/12/06 12:53:09] <Tobbi> hmm...
+[2015/12/06 12:53:23] <Tobbi> This is totally weird...
+[2015/12/06 12:54:17] <maths22> Tobbi: I assumed it must be an old git version, but if it used to work, it should still work (unless something went wrong on the travis end)
+[2015/12/06 12:54:27] <Tobbi> I might ask in #travis
+[2015/12/06 12:55:06] <Tobbi> maths22: When did you add --unshallow? Not too long ago, right?
+[2015/12/06 12:55:56] <maths22> Tobbi: december 1
+[2015/12/06 12:56:13] <Tobbi> We had successful builds since then, iirc.
+[2015/12/06 12:56:34] <maths22> Tobbi: that is correct
+[2015/12/06 12:58:27] <maths22> mt: Once I have OS X and windows happy, I'll fix up the OBS builds for linux
+[2015/12/06 12:58:37] <Tobbi> maths22: https://github.com/travis-ci/travis-ci/issues/4942
+[2015/12/06 12:58:43] <Tobbi> Maybe we should just make another commit.
