@@ -17074,3 +17074,38 @@
 [2015/12/06 12:11:16] @ Quit: Karkus_On_Windos: Ping timeout: 252 seconds
 [2015/12/06 12:12:58] @ Karkus joined channel #supertux
 [2015/12/06 12:13:55] <Hume2> Please, redirect Windows complaintments to #OSwars .
+[2015/12/06 12:17:17] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+1/-0/±1] 13http://git.io/vRar3
+[2015/12/06 12:17:18] <Not-e81f> [02supertux] 07Tobias Markus 0367d76b9 - Add glbinding to travis again (test)
+[2015/12/06 12:17:20] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95204150
+[2015/12/06 12:17:22] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/54
+[2015/12/06 12:18:15] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95204150
+[2015/12/06 12:18:24] <maths22> Tobbi: can you try to keep test commits to branches other than master?
+[2015/12/06 12:18:28] <Not-e81f> [02supertux] 04Error. AppVeyor build cancelled - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/54
+[2015/12/06 12:18:38] <Tobbi> maths22: Oh, yes. Sorry, I forgot.
+[2015/12/06 12:18:51] <maths22> Karkus: Fixing nirght now
+[2015/12/06 12:19:14] <maths22> Karkus: I also can't spell
+[2015/12/06 12:19:32] <Karkus> maths22: Oh, have you worked out what the problem was?
+[2015/12/06 12:20:08] <maths22> Karkus: yes. It builds using Visual Studio 2015, so I need to include some more redistributiles
+[2015/12/06 12:20:35] <Karkus> maths22: Okay, great
+[2015/12/06 12:20:36] <maths22> Karkus: Numbering is now based on 'git describe', hence the 0.3.5
+[2015/12/06 12:22:08] @ Hume2 left channel #supertux ()
+[2015/12/06 12:22:39] <mt> for further: explanation git describe refers to v0.3.5 and not v0.3.5a because the latter is tagged in release/0.3.5, but not in master
+[2015/12/06 12:22:51] <Tobbi> hah, nice.
+[2015/12/06 12:23:14] <Tobbi> We should change that as well...
+[2015/12/06 12:23:18] @ Quit: brmbrmcar: Quit: restarting ubuntu
+[2015/12/06 12:23:46] <mt> we can't actually
+[2015/12/06 12:23:48] <maths22> Tobbi: Actually, don't change it now
+[2015/12/06 12:23:55] <maths22> We need numeric only version numbers
+[2015/12/06 12:23:55] <Tobbi> Okay, I won't.
+[2015/12/06 12:24:07] <Tobbi> right! That code
+[2015/12/06 12:24:08] <Tobbi> I remember
+[2015/12/06 12:25:49] <mt> 0.3.5a will be the first and the last release to include letters in the tag, I hope (not if we're making use of http://semver.org/ 9. and 11.)
+[2015/12/06 12:25:59] <mt> s/11/10/
+[2015/12/06 12:25:59] <red_bot> mt meant: "0.3.5a will be the first and the last release to include letters in the tag, I hope (not if we're making use of http://semver.org/ 9. and 10.)"
+[2015/12/06 12:27:22] <Tobbi> It fails because of unshallow.
+[2015/12/06 12:27:22] <Tobbi> How nice.
+[2015/12/06 12:27:22] <maths22> Tobbi: Where/what?
+[2015/12/06 12:27:22] <Tobbi> one moment.
+[2015/12/06 12:27:46] <Tobbi> firefox hangs...
+[2015/12/06 12:27:48] <Tobbi> I hate it.
+[2015/12/06 12:28:46] <Tobbi> maths22: https://travis-ci.org/SuperTux/supertux/jobs/95204158#L6286
