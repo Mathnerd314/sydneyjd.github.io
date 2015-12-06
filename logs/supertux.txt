@@ -16793,3 +16793,5 @@
 [2015/12/06 04:47:30] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/vRgQg
 [2015/12/06 04:47:31] <Not-e81f> [02supertux] 07maxteufel reopened issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43DO
 [2015/12/06 04:55:03] @ alket joined channel #supertux
+[2015/12/06 05:08:02] @ Tobbi joined channel #supertux
+[2015/12/06 05:08:03] @ Mode +o Tobbi by ChanServ
