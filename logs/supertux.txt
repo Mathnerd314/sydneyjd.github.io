@@ -16790,3 +16790,6 @@
 [2015/12/06 03:54:59] @ leyyin joined channel #supertux
 [2015/12/06 04:34:48] @ brmbrmcar joined channel #supertux
 [2015/12/06 04:40:04] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/vRgHw
+[2015/12/06 04:47:30] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/vRgQg
+[2015/12/06 04:47:31] <Not-e81f> [02supertux] 07maxteufel reopened issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43DO
+[2015/12/06 04:55:03] @ alket joined channel #supertux
