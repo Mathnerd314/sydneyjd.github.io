@@ -16879,3 +16879,48 @@
 [2015/12/06 10:57:11] <Tobbi> Hume2: Actually, keep it.
 [2015/12/06 10:57:20] <Tobbi> If you think it's intended, others will think so as well :D
 [2015/12/06 10:58:57] <Hume2> :D
+[2015/12/06 11:03:05] <brmbrmcar> I never noticed the earth hat invincibility.
+[2015/12/06 11:03:23] <brmbrmcar> Whenever in the game it is used, it should be explained.
+[2015/12/06 11:05:19] <Hume2> It's not used anywhere so far.
+[2015/12/06 11:05:57] <Hume2> There was an idea that there could be a shop somewhere.
+[2015/12/06 11:06:11] <Tobbi> Hume2: LMH's island uses it.
+[2015/12/06 11:06:28] <Hume2> Tobbi: I haven't noticed, let me check.
+[2015/12/06 11:06:36] @ ced117 joined channel #supertux
+[2015/12/06 11:06:41] <Tobbi> Hume2: There's "The flower world" at leasrt.
+[2015/12/06 11:07:22] <brmbrmcar> I think air flower should not be in the shop.
+[2015/12/06 11:07:34] <brmbrmcar> It has several problems.
+[2015/12/06 11:08:24] <brmbrmcar> My incredibly bad forest levelI recently made has it...
+[2015/12/06 11:09:29] <Hume2> In my opinion, the air and earth flowers fit to the shop perfectly.
+[2015/12/06 11:09:35] @ giby joined channel #supertux
+[2015/12/06 11:09:35] @ Mode +o giby by ChanServ
+[2015/12/06 11:09:45] <giby> Hi
+[2015/12/06 11:10:06] <Hume2> Hello, Giby.
+[2015/12/06 11:10:09] <giby> Tobbi, are you the one adding people on Transfix?
+[2015/12/06 11:10:15] <Tobbi> giby: Yup.
+[2015/12/06 11:10:17] <giby> Hi Hume2 :)
+[2015/12/06 11:10:28] <Tobbi> giby: I figured we need as many people as possible so shortly before the release.
+[2015/12/06 11:10:44] <Tobbi> Sorry if I overstepped my duties.
+[2015/12/06 11:10:45] <giby> Tobbi, Oh.... Noooooo....
+[2015/12/06 11:10:54] <Tobbi> giby: So far it's been fine.
+[2015/12/06 11:11:00] <Tobbi> giby: I checked translations randomly.
+[2015/12/06 11:11:05] <Tobbi> With Google translat.
+[2015/12/06 11:11:06] <Tobbi> e
+[2015/12/06 11:11:33] <giby> You can add whoever... but first you should have ask them to introduce themselves...
+[2015/12/06 11:11:42] <Karkus> maths22: On http://brlcad.org/~maths22/supertux-download.php, why are they called 0.3.5?
+[2015/12/06 11:11:53] <brmbrmcar> 0.3.5-git
+[2015/12/06 11:11:57] <giby> Just to avoid few issues
+[2015/12/06 11:12:08] <brmbrmcar> It is the normal name for git stuff.
+[2015/12/06 11:12:32] <Karkus> But aren't we working towards 0.4.0 at this point
+[2015/12/06 11:12:40] <Tobbi> Karkus: "git describe" uses the latest git tag available.
+[2015/12/06 11:12:46] <Tobbi> Which at this point is 0.3.5
+[2015/12/06 11:12:53] <Karkus> Ah
+[2015/12/06 11:13:14] @ claymore2 joined channel #supertux
+[2015/12/06 11:13:24] <Tobbi> giby: Actually, I also checked whether they are part of a group for a different open source project...and add these more easily.
+[2015/12/06 11:13:45] <Tobbi> Because if they also translate another open source project, we can assume others accept their contributions as well.
+[2015/12/06 11:13:55] <Tobbi> Karkus: I haven
+[2015/12/06 11:14:04] <Tobbi> 't changed strings on transifex in about a week
+[2015/12/06 11:14:07] <Tobbi> Despite string freeze.
+[2015/12/06 11:14:11] <Tobbi> Something is clearly wrong.
+[2015/12/06 11:14:29] <Tobbi> Someone could assume I go by what I say now.
+[2015/12/06 11:14:52] <Tobbi> So maybe we should change one more string to convince people I am completely unreliable.
+[2015/12/06 11:14:53] <Tobbi> :D
