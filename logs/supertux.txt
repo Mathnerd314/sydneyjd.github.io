@@ -17347,3 +17347,11 @@
 [2015/12/06 18:26:31] @ Quit: Karkus: Ping timeout: 260 seconds
 [2015/12/06 18:28:24] <maths22> Does anyone here know why we do verbose builds on travis?
 [2015/12/06 18:29:05] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95255493
+[2015/12/06 18:32:18] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03travis [+3/-0/±2] 13http://git.io/vRwfe
+[2015/12/06 18:32:20] <Not-e81f> [02supertux] 07Jacob Burroughs 036feff6a - Support OS X deployment
+[2015/12/06 18:32:21] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95256584
+[2015/12/06 18:32:23] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/67
+[2015/12/06 18:33:29] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95256584
+[2015/12/06 18:34:27] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/65
+[2015/12/06 18:35:40] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/66
+[2015/12/06 18:39:33] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95256584
