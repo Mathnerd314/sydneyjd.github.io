@@ -17210,3 +17210,6 @@
 [2015/12/06 13:41:57] <Not-e81f> [02supertux] 07tobbi pushed 034 commits to 03coverity_scan [+1/-0/±4] 13http://git.io/vRVvI
 [2015/12/06 13:41:59] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95214436
 [2015/12/06 13:42:02] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/56
+[2015/12/06 13:52:52] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95214436
+[2015/12/06 13:57:47] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/95214257
+[2015/12/06 13:59:24] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/55
