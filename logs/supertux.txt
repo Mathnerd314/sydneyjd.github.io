@@ -16784,3 +16784,4 @@
 [2015/12/05 21:12:34] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/95130343
 [2015/12/05 22:00:33] <head8debian> o_O
 [2015/12/05 23:01:38] @ Quit: irungentoo: Remote host closed the connection
+[2015/12/05 23:54:42] @ Quit: tuxdev_: Ping timeout: 245 seconds
