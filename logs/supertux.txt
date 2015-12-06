@@ -16800,3 +16800,4 @@
 [2015/12/06 06:36:26] @ alket joined channel #supertux
 [2015/12/06 06:41:19] @ brmbrmcar left channel #supertux ("8brmbrmpart")
 [2015/12/06 06:44:03] @ brmbrmcar joined channel #supertux
+[2015/12/06 07:22:49] @ Karkus joined channel #supertux
