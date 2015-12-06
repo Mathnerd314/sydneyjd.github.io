@@ -17224,3 +17224,8 @@
 [2015/12/06 14:39:44] @ Quit: alket: Excess Flood
 [2015/12/06 14:40:12] @ alket joined channel #supertux
 [2015/12/06 15:20:33] <Tobbi> Karkus: I am thinking of rewriting makepot.sh in python. Because that shell script has characters that I need to convert into unix format each and every time before it can be used.
+[2015/12/06 15:35:56] @ Quit: alket: Excess Flood
+[2015/12/06 15:36:16] @ Quit: tuxdev_: Ping timeout: 246 seconds
+[2015/12/06 15:36:54] @ alket joined channel #supertux
+[2015/12/06 15:41:55] @ Quit: alket: Remote host closed the connection
+[2015/12/06 15:42:49] @ alket joined channel #supertux
