@@ -16816,3 +16816,5 @@
 [2015/12/06 08:49:26] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-12-03 17:04:41 -0500
 [2015/12/06 08:49:30] @ Mode +nt by orwell.freenode.net
 [2015/12/06 08:53:02] @ Quit: Karkus: Ping timeout: 245 seconds
+[2015/12/06 09:06:33] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/06 09:09:26] @ Hume2 joined channel #supertux
