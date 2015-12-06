@@ -17250,3 +17250,32 @@
 [2015/12/06 16:41:19] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95240813
 [2015/12/06 16:41:20] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/58
 [2015/12/06 16:42:35] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95240813
+[2015/12/06 16:45:32] @ Quit: alket: Ping timeout: 245 seconds
+[2015/12/06 16:45:50] <head8debian> Ha.
+[2015/12/06 16:46:08] <head8debian> Tobbi: So, what has been achieved today?
+[2015/12/06 16:46:18] <Tobbi> head8debian: You ask the same thing all the time :D
+[2015/12/06 16:46:22] @ alket joined channel #supertux
+[2015/12/06 16:46:48] <head8debian> Tobbi: :D
+[2015/12/06 16:49:33] <head8debian> Tobbi: Well? :D
+[2015/12/06 16:49:50] <Tobbi> head8debian: Not much...check the log.
+[2015/12/06 16:50:09] <head8debian> Tobbi: It seems alot got commited...
+[2015/12/06 16:50:13] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95240813
+[2015/12/06 16:50:17] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95240813
+[2015/12/06 16:50:19] <head8debian> Mainly maths22 doing. :)
+[2015/12/06 16:50:22] <head8debian> Eww,
+[2015/12/06 16:50:23] <head8debian> .
+[2015/12/06 16:52:15] <head8debian> Tobbi: Maybe br will stay off more now that his ubuntu install broke somehow...
+[2015/12/06 16:52:16] <maths22> head8debian: Sorry.  I'm getting the OS X travis automated builds working
+[2015/12/06 16:52:34] <head8debian> maths22: Its fine. :) At least someones doing something,
+[2015/12/06 16:52:34] <Tobbi> head8debian: I don't have anything against that guy...as long as he doesn't get on my nerves.
+[2015/12/06 16:52:40] <maths22> The build process finally completes, but I need to get the uploader working
+[2015/12/06 16:52:48] <maths22> Tobbi: It builds on OS X and makes a DMG
+[2015/12/06 16:52:53] <head8debian> Tobbi: Me neither. Im jsut curious why a ubuntu install would break like that.
+[2015/12/06 16:52:53] <Tobbi> great.
+[2015/12/06 16:52:58] <maths22> (I'm just making the uploading work and be secure)
+[2015/12/06 16:55:13] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03travis [+3/-0/±2] 13http://git.io/vRV9r
+[2015/12/06 16:55:15] <Not-e81f> [02supertux] 07Jacob Burroughs 039f1b4f2 - Support OS X deployment
+[2015/12/06 16:55:17] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95242914
+[2015/12/06 16:55:20] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/59
+[2015/12/06 16:56:19] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95242914
+[2015/12/06 16:57:45] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/58
