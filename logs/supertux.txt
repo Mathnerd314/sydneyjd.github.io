@@ -17239,3 +17239,9 @@
 [2015/12/06 16:00:49] <Tobbi> sounds good.
 [2015/12/06 16:05:19] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/95234111
 [2015/12/06 16:06:30] @ Quit: claymore2: Quit: Leaving
+[2015/12/06 16:15:38] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/57
+[2015/12/06 16:23:01] @ brmbrmcar joined channel #supertux
+[2015/12/06 16:23:20] <brmbrmcar> My ubuntu broke :(
+[2015/12/06 16:28:48] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/12/06 16:29:18] @ Quit: ced117: Quit: Quitte
+[2015/12/06 16:29:56] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#234: Making Tux air or earth on death displays hat - 13http://git.io/vRVMK
