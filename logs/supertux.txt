@@ -18368,3 +18368,24 @@
 [2015/12/07 16:09:05] @ Quit: swift110: Changing host
 [2015/12/07 16:09:05] @ swift110 joined channel #supertux
 [2015/12/07 16:13:45] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/87
+[2015/12/07 16:19:25] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95431366
+[2015/12/07 16:22:49] <Tobbi> But I am really glad that we don't need to install sdl2 automatically.
+[2015/12/07 16:23:17] <Tobbi> eeh manually.
+[2015/12/07 16:23:47] <Not-e81f> [02supertux] 07tobbi pushed 039 commits to 03coverity_scan [+13/-0/±15] 13http://git.io/vRPxC
+[2015/12/07 16:23:49] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95443992
+[2015/12/07 16:23:51] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/88
+[2015/12/07 16:24:01] <Tobbi> urgh?
+[2015/12/07 16:24:11] <Tobbi> I thought it only builds from the master branch.
+[2015/12/07 16:24:49] <Tobbi> maths22: AppVeyor builds from coverity_scan as well?
+[2015/12/07 16:25:26] <Hume2> poor Travis
+[2015/12/07 16:25:29] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95431366
+[2015/12/07 16:25:49] <Tobbi> Hume2: No, poor AppVeyor...
+[2015/12/07 16:26:12] <Tobbi> 13 days before the release.
+[2015/12/07 16:26:13] @ Hume2 left channel #supertux ()
+[2015/12/07 16:26:13] <brmbrmcar> poor Appveyor and Travis
+[2015/12/07 16:27:28] <maths22> Tobbi: it builds from anything
+[2015/12/07 16:27:35] <maths22> However, it doesn't publish a binary
+[2015/12/07 16:27:39] <Tobbi> maths22: Ah!
+[2015/12/07 16:27:48] <Tobbi> Alright.
+[2015/12/07 16:29:05] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95431366
+[2015/12/07 16:29:21] <Tobbi> brmbrmcar: https://github.com/SuperTux/supertux/issues/201 <-- if you have a test level, attach it.
