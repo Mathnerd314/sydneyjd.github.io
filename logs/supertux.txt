@@ -18422,3 +18422,32 @@
 [2015/12/07 16:57:20] <brmbrmcar> I don't care.
 [2015/12/07 16:57:27] <brmbrmcar> I am just asking.
 [2015/12/07 16:58:45] <maths22> brmbrmcar: I replaced your link to the expiring pastebin with one to a gist
+[2015/12/07 17:00:41] <brmbrmcar> OK.
+[2015/12/07 17:00:51] <brmbrmcar> It wasn;t even pastebin...
+[2015/12/07 17:02:12] <maths22> brmbrmcar: File upload, whatever.  Something that expired
+[2015/12/07 17:02:20] <maths22> Well, would expire
+[2015/12/07 17:02:37] <brmbrmcar> How did you edit my post?
+[2015/12/07 17:02:43] <brmbrmcar> Creepy.
+[2015/12/07 17:04:01] <maths22> brmbrmcar: I'm apparently a repository admin
+[2015/12/07 17:04:24] <Tobbi> :D
+[2015/12/07 17:04:26] <brmbrmcar> OK.
+[2015/12/07 17:04:46] <brmbrmcar> That is very creepy!
+[2015/12/07 17:05:04] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/95431366
+[2015/12/07 17:05:12] <brmbrmcar> Have any of my other comments been modified?
+[2015/12/07 17:05:18] <maths22> brmbrmcar: No
+[2015/12/07 17:05:20] <maths22> I promise
+[2015/12/07 17:05:52] <maths22> Tobbi: Oddly, only linux Clang can't do GLBinding
+[2015/12/07 17:05:55] <maths22> OSX does it fine
+[2015/12/07 17:05:59] <maths22> https://travis-ci.org/SuperTux/supertux
+[2015/12/07 17:05:59] <brmbrmcar> OK.
+[2015/12/07 17:06:02] <Tobbi> :D
+[2015/12/07 17:06:07] <brmbrmcar> By anyone else?
+[2015/12/07 17:06:17] <maths22> brmbrmcar: I have no way to know
+[2015/12/07 17:06:48] <brmbrmcar> OK.
+[2015/12/07 17:07:11] <Tobbi> maths22: Could there be something wrong with FindGLBInding.cmake?
+[2015/12/07 17:07:28] <Tobbi> It might not be detecting the correct paths on linux.
+[2015/12/07 17:09:34] <maths22> Tobbi: The issue is that it doesn't sucessfully build
+[2015/12/07 17:10:00] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/12/07 17:10:18] <Tobbi> maths22: You're right. I also figured that out earlier. I guess it's time for me to go to bed :D
+[2015/12/07 17:10:44] <Tobbi> But a different error this time: /usr/bin/ld: cannot find -lc++
+[2015/12/07 17:10:45] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95443992
