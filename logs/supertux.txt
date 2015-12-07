@@ -17431,3 +17431,4 @@
 [2015/12/07 01:21:14] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/95290276
 [2015/12/07 01:29:22] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/75
 [2015/12/07 01:29:43] @ Quit: tuxdev_: Ping timeout: 245 seconds
+[2015/12/07 02:31:00] @ Quit: bb010g: Quit: Connection closed for inactivity
