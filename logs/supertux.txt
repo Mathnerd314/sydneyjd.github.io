@@ -17355,3 +17355,15 @@
 [2015/12/06 18:34:27] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/65
 [2015/12/06 18:35:40] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/66
 [2015/12/06 18:39:33] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95256584
+[2015/12/06 18:46:14] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03travis [+3/-0/±2] 13http://git.io/vRwUz
+[2015/12/06 18:46:15] <Not-e81f> [02supertux] 07Jacob Burroughs 03bcd1a44 - Support OS X deployment
+[2015/12/06 18:46:17] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95258105
+[2015/12/06 18:46:18] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/68
+[2015/12/06 18:47:30] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95258105
+[2015/12/06 18:52:11] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/67
+[2015/12/06 18:53:05] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95258105
+[2015/12/06 18:54:58] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03travis [+3/-0/±2] 13http://git.io/vRwTu
+[2015/12/06 18:54:59] <Not-e81f> [02supertux] 07Jacob Burroughs 03ce50731 - Support OS X deployment
+[2015/12/06 18:55:01] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95259331
+[2015/12/06 18:55:02] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/69
+[2015/12/06 18:56:06] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95259331
