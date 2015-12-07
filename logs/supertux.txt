@@ -17380,3 +17380,5 @@
 [2015/12/06 19:20:59] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/12/06 19:27:19] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/70
 [2015/12/06 19:42:18] <Not-e81f> [02supertux] 07DevynCJohnson starred 03supertux - 13http://git.io/vW0db
+[2015/12/06 19:48:29] @ Tobbi_ joined channel #supertux
+[2015/12/06 19:48:29] @ Mode +o Tobbi_ by ChanServ
