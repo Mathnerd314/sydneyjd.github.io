@@ -17445,3 +17445,12 @@
 [2015/12/07 07:39:41] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/07 07:58:21] @ irungentoo joined channel #supertux
 [2015/12/07 08:11:22] @ xet7 joined channel #supertux
+[2015/12/07 08:18:30] @ giby_the_kid joined channel #supertux
+[2015/12/07 08:18:31] @ Mode +o giby_the_kid by ChanServ
+[2015/12/07 08:20:46] @ Quit: giby: Ping timeout: 246 seconds
+[2015/12/07 08:26:14] @ Tobbi joined channel #supertux
+[2015/12/07 08:26:15] @ Mode +o Tobbi by ChanServ
+[2015/12/07 08:26:29] <head8debian> Good morning Tobbi.
+[2015/12/07 08:26:38] <Tobbi> hello head8debian
+[2015/12/07 08:26:46] <head8debian> Is there anything i can do today for ST thats small? :)
+[2015/12/07 08:29:54] <maths22> Tobbi: That is not actually the right change
