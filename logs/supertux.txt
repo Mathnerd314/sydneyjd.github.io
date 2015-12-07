@@ -17398,3 +17398,4 @@
 [2015/12/06 22:01:22] <maths22> Finally built a DMG!
 [2015/12/06 22:30:59] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/12/06 22:48:00] @ bb010g joined channel #supertux
+[2015/12/06 23:10:27] @ Quit: irungentoo: Ping timeout: 246 seconds
