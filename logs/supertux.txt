@@ -18275,3 +18275,70 @@
 [2015/12/07 15:29:19] <leyyin> whoever made this stupid notification system needs a spanking
 [2015/12/07 15:29:39] <leyyin> why the heck do you need the same notification for the same build multiple times
 [2015/12/07 15:29:43] <leyyin> what logic can that be?
+[2015/12/07 15:30:14] <Hume2> It has no logic at all.
+[2015/12/07 15:30:59] <Tobbi> Just like brmbrmcar's programming language :D
+[2015/12/07 15:31:15] <Tobbi> You can't escape it.
+[2015/12/07 15:31:19] <leyyin> who is brmbrmcar ?
+[2015/12/07 15:31:23] <brmbrmcar> Me
+[2015/12/07 15:31:23] <Tobbi> no one.
+[2015/12/07 15:31:29] <leyyin> he never speaks :D
+[2015/12/07 15:31:34] <Tobbi> :D
+[2015/12/07 15:31:46] <leper`> (can someone tell me when you've fixed the bot as I've ignored it for now)
+[2015/12/07 15:32:04] <leyyin> hmm, good idea, ignore the bot
+[2015/12/07 15:32:20] * leyyin ignores leper` :D
+[2015/12/07 15:32:21] <Tobbi> leyyin: Be glad that there were no ignore filters when god was still alive... Otherwise, they might just +i god and carry on with their happy lives.
+[2015/12/07 15:32:33] <Tobbi> leper`: r is a bot?
+[2015/12/07 15:32:38] <Tobbi> uh...
+[2015/12/07 15:32:41] <Tobbi> damn autocomplete.
+[2015/12/07 15:32:52] <leper`> defeats the purpose of having the bot though
+[2015/12/07 15:32:53] <maths22> leyyin: It seems to send the trigger every time some event happens, and the issues are causing that event to be sent way too many times
+[2015/12/07 15:33:00] <leper`> leyyin: did that ages ago
+[2015/12/07 15:33:14] <leyyin> I did what?
+[2015/12/07 15:33:23] @ Quit: claymore2: Quit: Leaving
+[2015/12/07 15:34:28] <leper`> ignore leper`
+[2015/12/07 15:36:08] <Not-e81f> [02flexlay] 07maths22 commented on issue 03#36: Include help and reference inside the level editor - 13http://git.io/vRP1r
+[2015/12/07 15:37:03] <Tobbi> hmm, ignoring someone...
+[2015/12/07 15:37:08] <Tobbi> ignoring one self I mena.
+[2015/12/07 15:37:16] <Tobbi> test
+[2015/12/07 15:37:20] <Tobbi> no, that doesn't work.
+[2015/12/07 15:37:23] <brmbrmcar> test
+[2015/12/07 15:37:33] <brmbrmcar> Didn't work either.
+[2015/12/07 15:37:42] @ brmbrmcar has been kicked from #supertux by Tobbi (latency!)
+[2015/12/07 15:37:56] <leyyin> lol :D
+[2015/12/07 15:38:04] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/86
+[2015/12/07 15:38:07] <maths22> Tobbi: Why?
+[2015/12/07 15:38:10] <leyyin> what did he do?
+[2015/12/07 15:38:16] <Tobbi> leyyin: He tried to ignore himself.
+[2015/12/07 15:38:22] <Tobbi> Since that didn't work, I kicked him.
+[2015/12/07 15:38:31] <leyyin> evil :P
+[2015/12/07 15:38:39] <Tobbi> leyyin: Well, now he's ignoring himself.
+[2015/12/07 15:38:40] <Tobbi> or somewhat.
+[2015/12/07 15:38:41] @ brmbrmcar joined channel #supertux
+[2015/12/07 15:38:46] <Tobbi> maths22: I am sometimes abusing my privileges.
+[2015/12/07 15:38:48] <maths22> brmbrmcar: Welcome back :)
+[2015/12/07 15:38:53] <maths22> Tobbi: This is true :)
+[2015/12/07 15:38:59] <brmbrmcar> maths22: Thank you! :D
+[2015/12/07 15:39:36] <leyyin> I wanted to make a 'nazi' joke, but this is kinda inappropriate :P
+[2015/12/07 15:39:53] <Tobbi> leyyin: I would've kicked you...
+[2015/12/07 15:40:01] <Tobbi> So, especially inappropriate for this channel.
+[2015/12/07 15:40:01] <leyyin> you do not like nazi jokes?
+[2015/12/07 15:40:05] <leyyin> we love communist jokes :D
+[2015/12/07 15:40:26] <leper`> Tobbi: ever tried abusing privileges without having any?
+[2015/12/07 15:40:43] <Tobbi> leyyin: We love nazi jokes as well, but no one admits it.
+[2015/12/07 15:41:01] <Hume2> I like jokes, but I guess, we don't need any politics problems here.
+[2015/12/07 15:41:05] <leyyin> so you wanted to kick me because you lie to yourself :D
+[2015/12/07 15:41:25] <Tobbi> leyyin: https://www.youtube.com/watch?v=5F-5H5V8ZD4
+[2015/12/07 15:41:26] <leper`> leyyin: You did not see that coming, right?
+[2015/12/07 15:41:52] <leyyin> leper`, see what coming?
+[2015/12/07 15:42:42] <leper`> not see, leyyin
+[2015/12/07 15:43:01] * leyyin is confused
+[2015/12/07 15:43:12] <maths22> Windows is getting closer...
+[2015/12/07 15:44:09] <leyyin> Tobbi, wth is that video O_O
+[2015/12/07 15:44:13] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:44:14] <Tobbi> :D
+[2015/12/07 15:44:28] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95430565
+[2015/12/07 15:44:43] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95430565
+[2015/12/07 15:44:45] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95430565
+[2015/12/07 15:44:46] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95430565
+[2015/12/07 15:44:49] <Tobbi> leyyin: It's from a German comedy movie.
+[2015/12/07 15:44:51] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
