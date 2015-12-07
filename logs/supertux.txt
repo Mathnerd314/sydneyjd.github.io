@@ -17497,3 +17497,5 @@
 [2015/12/07 10:05:58] <Tobbi> right.
 [2015/12/07 10:06:04] <Tobbi> I got stuff for college to do anyway.
 [2015/12/07 10:11:00] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95364810
+[2015/12/07 10:19:10] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/95364810
+[2015/12/07 10:19:37] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/77
