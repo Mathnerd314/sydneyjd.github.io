@@ -18389,3 +18389,22 @@
 [2015/12/07 16:27:48] <Tobbi> Alright.
 [2015/12/07 16:29:05] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95431366
 [2015/12/07 16:29:21] <Tobbi> brmbrmcar: https://github.com/SuperTux/supertux/issues/201 <-- if you have a test level, attach it.
+[2015/12/07 16:31:37] <brmbrmcar> I can make one now...
+[2015/12/07 16:34:10] <Tobbi> maths22: Also, background.png doesn't show in the os x .dmg
+[2015/12/07 16:35:35] <brmbrmcar> http://www.fileconvoy.com/gf.php?id=g77c425f4f96b5358999757721.80632812ab44b1e00fe282&sts=144952397821742421685c52c9518e083addcb71b2d4a4b31dff
+[2015/12/07 16:35:41] <brmbrmcar> (sorry)
+[2015/12/07 16:36:03] <Tobbi> brmbrmcar: Add it to that issue?
+[2015/12/07 16:36:31] <brmbrmcar> OK...
+[2015/12/07 16:36:49] <maths22> Tobbi: I know that.  I didn't have a chance to try to fix it last night
+[2015/12/07 16:36:51] <Not-e81f> [02supertux] 07tobbi labeled issue 03#236: Menu text could use some cleanup - 13http://git.io/vBvEd
+[2015/12/07 16:36:53] <Not-e81f> [02supertux] 07tobbi labeled issue 03#236: Menu text could use some cleanup - 13http://git.io/vBvEd
+[2015/12/07 16:36:56] <Tobbi> Alright.
+[2015/12/07 16:37:00] <maths22> (It involves doing wierd stuff to get a good DS_Store file)
+[2015/12/07 16:37:09] <Tobbi> maths22: Yeah, I can remember that...
+[2015/12/07 16:37:11] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#201: Backflipping to a bonus block hides Tux behind it - 13http://git.io/vRXvi
+[2015/12/07 16:37:24] <Tobbi> I tried to add a background to the previous thing...
+[2015/12/07 16:38:06] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/12/07 16:40:11] <Tobbi> Oh, Karkus already added a test level.
+[2015/12/07 16:40:15] <Tobbi> never mind then.
+[2015/12/07 16:40:26] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/88
+[2015/12/07 16:41:12] <brmbrmcar> Who's is better?
