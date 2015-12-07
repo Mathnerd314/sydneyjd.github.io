@@ -17486,3 +17486,14 @@
 [2015/12/07 08:53:37] <Tobbi> oh, yes, right translation.
 [2015/12/07 08:54:58] @ Quit: paroneayea: Read error: Connection reset by peer
 [2015/12/07 08:55:39] @ paroneayea joined channel #supertux
+[2015/12/07 10:03:57] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03travis [+6/-0/±3] 13http://git.io/vR6U1
+[2015/12/07 10:03:58] <Not-e81f> [02supertux] 07Jacob Burroughs 0319b91fc - Support OS X deployment
+[2015/12/07 10:04:00] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95364810
+[2015/12/07 10:04:01] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/77
+[2015/12/07 10:04:20] <maths22> Tobbi: Hopfeully this build will fix the icon (if not, I'll fix it this afternoon when I can get to the macs)
+[2015/12/07 10:04:27] <Tobbi> Alright.
+[2015/12/07 10:04:31] <Tobbi> I'll check in a minute.
+[2015/12/07 10:05:52] <maths22> Tobbi: It hasn't yet built, so wait a few first
+[2015/12/07 10:05:58] <Tobbi> right.
+[2015/12/07 10:06:04] <Tobbi> I got stuff for college to do anyway.
+[2015/12/07 10:11:00] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95364810
