@@ -17881,3 +17881,17 @@
 [2015/12/07 12:57:12] <brmbrmcar> I haven't a clue.
 [2015/12/07 12:58:48] <maths22> Not now, but later I'll work out Windows 64 bit installs
 [2015/12/07 12:59:39] <brmbrmcar> Any progress with the Windows builds?
+[2015/12/07 13:04:21] <maths22> brmbrmcar: Yes and no (yes on my machine; not yet in a way I am satisfied with for appveyor)
+[2015/12/07 13:05:10] <brmbrmcar> So does Wine work?
+[2015/12/07 13:05:22] <maths22> I know what I need to do; I just haven't decided how to do it
+[2015/12/07 13:05:27] <maths22> Regarding Wine, I have no idea
+[2015/12/07 13:05:28] <brmbrmcar> OK.
+[2015/12/07 13:05:47] <maths22> Once it works on Windows 10 and 7, I may test it on Wine
+[2015/12/07 13:06:00] <brmbrmcar> Thanks.
+[2015/12/07 13:09:42] <Tobbi> We should really find a way to download l10n packages automatically...
+[2015/12/07 13:10:09] <Tobbi> Otherwise, people have no idea that they have to download it.
+[2015/12/07 13:10:53] <Tobbi> But if I do that, head8debian will complain.
+[2015/12/07 13:10:55] <Tobbi> Because slow internet.
+[2015/12/07 13:12:15] <maths22> Tobbi: we would check the system language and offer to download if it is not already installed (we might need to bundle a list of supported languages with the application)
+[2015/12/07 13:12:53] <Tobbi> maths22: We could actually do that...
+[2015/12/07 13:14:51] <brmbrmcar> What are l10 packages?
