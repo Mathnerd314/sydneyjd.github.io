@@ -17466,3 +17466,23 @@
 [2015/12/07 08:35:59] <maths22> There should be a new build up in roughly 10 minutes
 [2015/12/07 08:36:49] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95347421
 [2015/12/07 08:43:25] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/95347421
+[2015/12/07 08:47:07] <maths22> Tobbi: And it's done
+[2015/12/07 08:47:11] <maths22> Try again
+[2015/12/07 08:47:15] <Tobbi> Sure, one moment.
+[2015/12/07 08:48:46] <Tobbi> maths22: Which one is the new build? revision?
+[2015/12/07 08:48:58] <Tobbi> 535?
+[2015/12/07 08:49:27] <maths22> Yes.  (there is currently only one because I keep amending and force-pushing)
+[2015/12/07 08:49:41] <Tobbi> maths22: Executable works, has default icon, though.
+[2015/12/07 08:50:12] <maths22> Tobbi: I'll fix the icon this afternoon (whenever I can get back to a mac to debug)
+[2015/12/07 08:50:17] <Tobbi> Sure, thanks.
+[2015/12/07 08:50:37] <Tobbi> maths22: It seems like you're the one in the team doing most of the work. I'm quite sorry for that.
+[2015/12/07 08:50:43] <Tobbi> You never seem to get any break.
+[2015/12/07 08:50:58] <maths22> Tobbi: I'm enjoying it, or I wouldn't be doing it
+[2015/12/07 08:51:09] <Tobbi> That's good :)
+[2015/12/07 08:51:12] <maths22> Today's main project is fixing the windows builds to include the necessary DLLs
+[2015/12/07 08:51:43] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/76
+[2015/12/07 08:53:08] <Tobbi> woo, the national democratic party of germany is getting banned! :D
+[2015/12/07 08:53:19] <Tobbi> eeh, wait.
+[2015/12/07 08:53:37] <Tobbi> oh, yes, right translation.
+[2015/12/07 08:54:58] @ Quit: paroneayea: Read error: Connection reset by peer
+[2015/12/07 08:55:39] @ paroneayea joined channel #supertux
