@@ -18486,3 +18486,74 @@
 [2015/12/07 17:29:36] <Tobbi> Karkus: However, if we name it 0.3 or something, it might be confusing.
 [2015/12/07 17:29:43] <Karkus> Tobbi: Okay, how about Flexlay can join the SuperTux versioning system at 0.5.0
 [2015/12/07 17:29:49] <Tobbi> Karkus: sounds good.
+[2015/12/07 17:30:21] <Karkus> Okay, I'll set up a milestone for... when was it? Ah, halloween 2031
+[2015/12/07 17:31:06] <Tobbi> Karkus: Exactly... :D
+[2015/12/07 17:31:49] <Tobbi> Karkus: We wanted to release a test build, didn't we?
+[2015/12/07 17:32:00] <Karkus> Tobbi: We did
+[2015/12/07 17:32:08] <Tobbi> Was it announced on the forum?
+[2015/12/07 17:32:18] <Karkus> I didn't announce anything
+[2015/12/07 17:32:19] <Tobbi> aka 2 weeks before the release to make sure no critical issues were found...
+[2015/12/07 17:32:25] <Tobbi> Never mind then.
+[2015/12/07 17:32:33] <Karkus> Tobbi: We should do it though.
+[2015/12/07 17:32:49] <Karkus> Tobbi: It's professional
+[2015/12/07 17:33:05] <Tobbi> Karkus: Okay, we can upload a beta release on Github?
+[2015/12/07 17:33:22] <Tobbi> But that might be considered official by some people.
+[2015/12/07 17:33:23] <Karkus> Tobbi: Yep. 0.4.0b right?
+[2015/12/07 17:33:28] <Tobbi> Okay, that might be good.
+[2015/12/07 17:33:36] <maths22> No letters in tags-it will make things be angry
+[2015/12/07 17:33:41] <Karkus> It is official, but not a full release
+[2015/12/07 17:33:52] <Karkus> maths22: Okay, okay.
+[2015/12/07 17:34:02] <Tobbi> Oh, yes.
+[2015/12/07 17:34:10] <Karkus> But how can we indicate that it is a beta release
+[2015/12/07 17:34:13] <Tobbi> hrm.
+[2015/12/07 17:34:34] <maths22> Thinking...
+[2015/12/07 17:34:41] * Karkus is thinking
+[2015/12/07 17:35:40] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#32: No Command for Changes to Object Properties - 13http://git.io/vRX8t
+[2015/12/07 17:35:51] <maths22> Actually, I should change the numbering system to be more flexible
+[2015/12/07 17:35:58] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#28: Add add-on packaging wizard - 13http://git.io/vRX8O
+[2015/12/07 17:36:17] <maths22> I'll think about this later.  I have an economics final to finish preparing for :(
+[2015/12/07 17:36:27] <Karkus> maths22: Still SemVer though?
+[2015/12/07 17:37:00] <maths22> Karkus: Yep
+[2015/12/07 17:37:11] <Karkus> maths22: Okay
+[2015/12/07 17:37:13] <maths22> Semver appears to indicate the correct way to do it is 0.4.0beta
+[2015/12/07 17:37:20] <maths22> Sorry - NO!
+[2015/12/07 17:37:22] <Tobbi> Karkus: We could have a project view for a SuperTux add-on for Flexlay... that includes levels, worldmaps, and other media that gets packaged.
+[2015/12/07 17:37:25] <maths22> 0.4.0-beta
+[2015/12/07 17:37:47] <Karkus> Tobbi: Yes, I've been thinking about the concept of "Projects"
+[2015/12/07 17:37:57] <maths22> I need to come up with a way to meaningfully parse that and differentiate the beta from final releases
+[2015/12/07 17:38:03] <Karkus> Tobbi: Yes, I've been thinking about the concept of "Project View" issue
+[2015/12/07 17:38:05] <maths22> (in the version number)
+[2015/12/07 17:38:28] <Tobbi> Karkus: I think it would really make sense. Also, it might give people the idea that they can create their own content and package it.
+[2015/12/07 17:38:45] <leper`> maths22: -beta is still bad if you expect someone to package it
+[2015/12/07 17:38:49] <Tobbi> I'll crate an issue.
+[2015/12/07 17:38:50] <Karkus> Tobbi: So, you make a project, add some levels and a worldmap, package it and send it off to be considered. All from the editor
+[2015/12/07 17:38:59] <Tobbi> Karkus: Sounds good.
+[2015/12/07 17:39:03] <Tobbi> Sounds great, actually.
+[2015/12/07 17:39:04] <Karkus> PyGitHub3 will help here.
+[2015/12/07 17:40:06] <maths22> leper`: The only packaging is going to be automatic unoffical packaging
+[2015/12/07 17:40:19] <Not-e81f> [02flexlay] 07tobbi opened issue 03#44: Project View - 13http://git.io/vRX4b
+[2015/12/07 17:40:23] <leper`> so you mean more of an RC?
+[2015/12/07 17:40:28] <Karkus> maths22, leper` and Tobbi: We can call it 0.4.0 beta, *not make a tag*, but create packages for people to test now, then remove them
+[2015/12/07 17:40:47] <Karkus> not an official release, just for testing
+[2015/12/07 17:40:49] <maths22> Karkus: We can't make it a github release then
+[2015/12/07 17:41:02] <Karkus> maths22: Do we have to do that?
+[2015/12/07 17:41:05] <maths22> GitHub allows "pre-releases", but they need a tag
+[2015/12/07 17:41:09] <maths22> Karkus: not really
+[2015/12/07 17:41:21] <Tobbi> I really don't want people to pick up the pre-release...
+[2015/12/07 17:41:27] <Tobbi> So, I'd vote against github.
+[2015/12/07 17:41:44] <maths22> I think we should just declare one of the automatic builds to be the "pre-release"
+[2015/12/07 17:42:00] <maths22> Probably one that hasn't yet been built, but still
+[2015/12/07 17:42:01] <Karkus> Tobbi: If they pick it up that's great. They can find issues and help us fix them before 0.4.0 so it's super stable
+[2015/12/07 17:42:13] <Karkus> Tobbi: Like my Windows bug
+[2015/12/07 17:42:22] <maths22> Karkus: What Windows bug?
+[2015/12/07 17:43:11] <Karkus> maths22: Didn't you hear about my issue in which whenever the game lost focus on windows it crashed?
+[2015/12/07 17:43:20] <Tobbi> Karkus: I am concerned that people think this is an official "beta" release, like 0.3.5... So that software sites pick it up etc. Because we normally don't release that often.
+[2015/12/07 17:43:21] <maths22> Karkus: I didn't
+[2015/12/07 17:43:24] <maths22> What build number?
+[2015/12/07 17:43:33] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/89
+[2015/12/07 17:43:38] <Karkus> maths22: 532
+[2015/12/07 17:43:43] <Karkus> I think
+[2015/12/07 17:43:50] <maths22> OK.  Can you try this build: http://download.supertuxproject.org/download/
+[2015/12/07 17:44:06] <maths22> Karkus: What Windows version?
+[2015/12/07 17:44:10] <Karkus> maths22: Not now I can't sorry. Can you remind me tomorrow?
+[2015/12/07 17:44:10] <Tobbi> maths22: Will you add the glbinding dependency to .travis.yml or shall I do that?
