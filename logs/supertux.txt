@@ -17855,3 +17855,29 @@
 [2015/12/07 12:43:32] <maths22> brmbrmmawasm: Thanks
 [2015/12/07 12:43:45] <maths22> mt: I will do that.
 [2015/12/07 12:44:34] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/79
+[2015/12/07 12:45:12] <brmbrmmawasm> Should I change nick?
+[2015/12/07 12:45:42] <brmbrmmawasm> mweea mwe mweemewas mwewew?
+[2015/12/07 12:46:12] <mt> and fwiw, you could, if you want, get cloudflare for that site, they don't mind people downloading stuff apparently (someone I know downloaded 100TB to /dev/null from cloudflare, using the same IP, they didn't block anything)
+[2015/12/07 12:47:17] <maths22> mt: I already have cloudflare set up (although not yet active on the download domain
+[2015/12/07 12:47:27] <maths22> Also, I have discovered I can't really do letsencrypt
+[2015/12/07 12:47:49] <maths22> It's a freebsd server, and I don't fully control it, so running the client will break things that shouldn't be broken
+[2015/12/07 12:47:49] <mt> not even webroot auth?
+[2015/12/07 12:48:07] <maths22> mt: what is that?
+[2015/12/07 12:48:50] <mt> writing a proof that you own the domain to /.well-known/acme-challenge/...
+[2015/12/07 12:49:04] <maths22> mt: That I can do.  The client goes to install packages and stuff
+[2015/12/07 12:49:06] <mt> also, you don't need to auto-update the config
+[2015/12/07 12:49:12] <maths22> Is there a way to get the cert without it doing that?
+[2015/12/07 12:49:28] <mt> there's ACME clients that don't need root
+[2015/12/07 12:49:47] <mt> https://github.com/diafygi/letsencrypt-nosudo
+[2015/12/07 12:49:54] <maths22> mt: I'll look into it soon
+[2015/12/07 12:50:49] <Tobbi> Pulling translations from transifex takes a long time.
+[2015/12/07 12:51:23] <brmbrmmawasm> Will I change nick?
+[2015/12/07 12:51:52] <maths22> mt: I have ssl running now through cloudflare (so cloudflare to user is protected.  I'll get ssl working right on the backend later
+[2015/12/07 12:52:07] <maths22> (I.E. https://download.supertuxproject.org/download/ works)
+[2015/12/07 12:52:32] <mt> nice
+[2015/12/07 12:52:51] @ brmbrmmawasm is now known as brmbrmcar
+[2015/12/07 12:53:56] <maths22> I'm thinking I'll do a nightly cron job to clean up old builds.  (It will keep the most recent ~3)
+[2015/12/07 12:54:01] <maths22> Does that sound reasonable?
+[2015/12/07 12:57:12] <brmbrmcar> I haven't a clue.
+[2015/12/07 12:58:48] <maths22> Not now, but later I'll work out Windows 64 bit installs
+[2015/12/07 12:59:39] <brmbrmcar> Any progress with the Windows builds?
