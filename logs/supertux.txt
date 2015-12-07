@@ -17435,3 +17435,4 @@
 [2015/12/07 04:06:44] @ Quit: tux|dude: Quit: Leaving
 [2015/12/07 04:16:58] @ Tobbi joined channel #supertux
 [2015/12/07 04:16:59] @ Mode +o Tobbi by ChanServ
+[2015/12/07 04:56:01] @ Quit: Tobbi: Remote host closed the connection
