@@ -18451,3 +18451,38 @@
 [2015/12/07 17:10:18] <Tobbi> maths22: You're right. I also figured that out earlier. I guess it's time for me to go to bed :D
 [2015/12/07 17:10:44] <Tobbi> But a different error this time: /usr/bin/ld: cannot find -lc++
 [2015/12/07 17:10:45] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95443992
+[2015/12/07 17:16:42] <Tobbi> Oh!
+[2015/12/07 17:17:03] <Tobbi> I'll give it a shot.
+[2015/12/07 17:17:30] <maths22> Tobbi: Apparently Windows 8.1 works
+[2015/12/07 17:17:42] <Tobbi> maths22: We need to install libc++ for clang.
+[2015/12/07 17:17:43] <maths22> So something changed between windows 7 and 8.1 that breaks it
+[2015/12/07 17:17:45] <Tobbi> It links glbinding against it.
+[2015/12/07 17:18:01] <maths22> Tobbi: OK.  We can install that (there should be apt package for it)
+[2015/12/07 17:18:15] <Tobbi> Alright.
+[2015/12/07 17:18:36] <Tobbi> Is it called libc++-dev?
+[2015/12/07 17:18:45] <Tobbi> Also, can we do conditional install?
+[2015/12/07 17:19:14] <maths22> Tobbi: no conditional install, but its a pretty small package
+[2015/12/07 17:19:17] <maths22> It won't affect much
+[2015/12/07 17:19:19] <Tobbi> ok. Good :)
+[2015/12/07 17:19:25] <maths22> (in terms of time or whatever)
+[2015/12/07 17:23:00] <Not-e81f> [02flexlay] 07Karkus476 pushed 031 commit to 03text-editor [+0/-5/±0] 13http://git.io/vRXZb
+[2015/12/07 17:23:01] <Not-e81f> [02flexlay] 07Karkus 03ee54fb5 - Removed IDE files
+[2015/12/07 17:24:12] @ Karkus joined channel #supertux
+[2015/12/07 17:25:18] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/89
+[2015/12/07 17:26:32] <Not-e81f> [02flexlay] 07Karkus476 commented on issue 03#36: Include help and reference inside the level editor - 13http://git.io/vRXcK
+[2015/12/07 17:27:01] <Tobbi> Karkus: Couldn't we store documentation in markdown?
+[2015/12/07 17:27:07] <Karkus> Tobbi: Should Flexlay follow the SuperTux SemVer system
+[2015/12/07 17:27:14] <Karkus> Tobbi: Problem is displaying it
+[2015/12/07 17:27:21] <Tobbi> right...
+[2015/12/07 17:27:37] <Tobbi> Karkus: I really don't have any preference...we could, though.
+[2015/12/07 17:27:46] <Tobbi> Since previous versions of the editor were named after the release as well.
+[2015/12/07 17:28:13] <Karkus> Tobbi: Okay, I will see if I can come up with a 0.4.0 release.
+[2015/12/07 17:28:36] <Tobbi> Karkus: I'd rather skip a 0.4.0 release for the editor.
+[2015/12/07 17:28:40] <Tobbi> It's just not ready yet.
+[2015/12/07 17:28:44] <Tobbi> No layer toggling etc...
+[2015/12/07 17:28:45] <Karkus> Actually, that kind of makes no sense
+[2015/12/07 17:29:11] <Karkus> It can't be considered 'stable' for a while
+[2015/12/07 17:29:16] <Tobbi> exactly.
+[2015/12/07 17:29:36] <Tobbi> Karkus: However, if we name it 0.3 or something, it might be confusing.
+[2015/12/07 17:29:43] <Karkus> Tobbi: Okay, how about Flexlay can join the SuperTux versioning system at 0.5.0
+[2015/12/07 17:29:49] <Tobbi> Karkus: sounds good.
