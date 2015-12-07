@@ -17509,3 +17509,59 @@
 [2015/12/07 10:50:28] @ head8debian joined channel #supertux
 [2015/12/07 10:52:37] <Tobbi> maths22: No proper app icon, works fine though.
 [2015/12/07 10:52:42] <Tobbi> Just like the previous build.
+[2015/12/07 11:02:18] * head8debian yawns... 
+[2015/12/07 11:04:58] <Tobbi> Maybe I should update my macbook's RAM to 16GB...it's slow as hell currently...
+[2015/12/07 11:06:36] <head8debian> Tobbi: Or send the 16gb of ram to me? :D
+[2015/12/07 11:06:36] @ brmbrmcar joined channel #supertux
+[2015/12/07 11:06:41] <brmbrmcar> I am back...
+[2015/12/07 11:06:52] <Tobbi> brmbrmcar: Apocalypse is better than that.
+[2015/12/07 11:07:12] <Tobbi> head8debian: It doesn't fit for a C64.
+[2015/12/07 11:07:20] <head8debian> brmbrmcar: What broke on your ubuntu install>
+[2015/12/07 11:07:21] <head8debian> ?
+[2015/12/07 11:07:23] <head8debian> Tobbi: What?
+[2015/12/07 11:07:36] <Tobbi> head8debian: A C64 is an old computer.
+[2015/12/07 11:07:40] <maths22> Tobbi: OK.  I'll look into it later
+[2015/12/07 11:08:07] <head8debian> Tobbi: Ah, the comadore. :D
+[2015/12/07 11:08:18] <head8debian> Tobbi: My PC is not that old.
+[2015/12/07 11:08:22] <Tobbi> head8debian: Exactly. Also, it's Commodore. You don't get comatose.
+[2015/12/07 11:08:25] <head8debian> Tobbi: Its only 5 years old.
+[2015/12/07 11:08:37] <Tobbi> head8debian: Still older than brmbrmcar.
+[2015/12/07 11:08:49] <brmbrmcar> head8debian: One of my configuration files.
+[2015/12/07 11:09:15] <head8debian> brmbrmcar: Ah.
+[2015/12/07 11:09:24] <brmbrmcar> It deleted the taskbar and thing at top.
+[2015/12/07 11:09:29] <head8debian> brmbrmcar: Thought you broke Xorg or something. :D
+[2015/12/07 11:09:30] <maths22> Tobbi: I'm thinking about getting the domain supertuxproject.org so we can have things hosted propertly (for these builds and such)
+[2015/12/07 11:09:31] <head8debian> Heh.
+[2015/12/07 11:09:37] <maths22> How does that sound?
+[2015/12/07 11:09:43] <Tobbi> maths22: That would be great!
+[2015/12/07 11:09:46] <head8debian> maths22: If you want to pay for it, sure.
+[2015/12/07 11:09:59] <maths22> (Sadly supertux.org is taken and for sale for some ridiculous amount of money)
+[2015/12/07 11:10:04] <head8debian> We don't have a full-fledged server ATM.
+[2015/12/07 11:10:07] <brmbrmcar> I had to reinstall twice, as first time I copied over the bad file.
+[2015/12/07 11:10:10] <maths22> head8debian: It's like 10 dollars for a year
+[2015/12/07 11:10:26] <head8debian> maths22: What does it have for resources?
+[2015/12/07 11:10:30] <maths22> I can do that.  (And I have a server to point to as necessary)
+[2015/12/07 11:10:49] <Tobbi> Some German guy hosted it.
+[2015/12/07 11:10:57] <maths22> head8debian: the 10 dollars is for the domain
+[2015/12/07 11:11:07] <head8debian> Ah, i see.
+[2015/12/07 11:11:27] <head8debian> I thought you wanted to buy a server and a domain. :)
+[2015/12/07 11:11:28] <maths22> The server is run by the BRL-CAD organization (more or less) for open source projects to use
+[2015/12/07 11:11:32] <head8debian> Anyways, cool.
+[2015/12/07 11:11:33] <head8debian> Ah.
+[2015/12/07 11:11:45] <Tobbi> yay, anyone have 395 USD ready?
+[2015/12/07 11:11:50] <Tobbi> Now we could use donations.
+[2015/12/07 11:11:52] <Tobbi> :D
+[2015/12/07 11:11:55] <head8debian> :D
+[2015/12/07 11:12:14] <maths22> Tobbi: That's what I was thinking :)  supertuxproject is so much cheaper
+[2015/12/07 11:12:16] <leyyin> run with the money :P
+[2015/12/07 11:12:33] <Tobbi> leyyin: Eventually I intend to just keep the money all by myself, you know me.
+[2015/12/07 11:12:35] <head8debian> supertux.org would be so cool though. :)
+[2015/12/07 11:12:52] <head8debian> Oh well.
+[2015/12/07 11:13:11] <Tobbi> leyyin: And afterwards, I will say something along the lines "No one has an intention of keeping donations"
+[2015/12/07 11:13:34] <maths22> head8debian: I know.  And it is just owned by some domain squatter
+[2015/12/07 11:13:54] <maths22> At least supertux.com/supertux.net are owned by some guy in California, who seems to basically own them for his own purposes
+[2015/12/07 11:14:03] <head8debian> maths22: I hate those. They steal alot of good domains.
+[2015/12/07 11:14:04] <maths22> (And has had at least supertux.com since 2000!)
+[2015/12/07 11:14:20] <Tobbi> supertux.com is great. Just "test"
+[2015/12/07 11:14:32] <head8debian> maths22: Wow, thats a long time.
+[2015/12/07 11:14:45] <maths22> Tobbi: I know!
