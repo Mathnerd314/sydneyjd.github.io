@@ -17433,3 +17433,5 @@
 [2015/12/07 01:29:43] @ Quit: tuxdev_: Ping timeout: 245 seconds
 [2015/12/07 02:31:00] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/12/07 04:06:44] @ Quit: tux|dude: Quit: Leaving
+[2015/12/07 04:16:58] @ Tobbi joined channel #supertux
+[2015/12/07 04:16:59] @ Mode +o Tobbi by ChanServ
