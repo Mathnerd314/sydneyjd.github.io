@@ -18041,3 +18041,29 @@
 [2015/12/07 14:29:30] <mt> the thing is, we decided to at least use semver now
 [2015/12/07 14:29:49] <brmbrmcar> Where are those logs?
 [2015/12/07 14:29:58] <mt> on my server
+[2015/12/07 14:30:07] <mt> I won't share them, for privacy reasons
+[2015/12/07 14:31:02] <maths22> I'm currently building on a mac pro with 12 cores (probably 6 + hyperthreading)
+[2015/12/07 14:31:08] <maths22> It is really fast!
+[2015/12/07 14:32:11] <brmbrmcar>  /mode brmbrmcar +o
+[2015/12/07 14:32:23] <brmbrmcar> :D
+[2015/12/07 14:33:29] <mt> we didn't consider 0.3.6 for a bugfix release
+[2015/12/07 14:33:57] <mt> what I proposed: 2015-05-01 20:23:35  mt      speaking of bugfix releases, I'd suggest 0.3.5a instead of 0.3.5.1 (the latter looks ugly imho)
+[2015/12/07 14:34:11] <brmbrmcar> Ah.
+[2015/12/07 14:34:16] <mt> no one complained (Tobbi, Seebi were active at that point)
+[2015/12/07 14:34:54] <mt> two days later, 'Change version number to 0.3.5a' was committed
+[2015/12/07 14:35:58] <brmbrmcar> Ooh...
+[2015/12/07 14:36:08] <brmbrmcar> And then released?
+[2015/12/07 14:36:12] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03travis [+6/-0/±3] 13http://git.io/vRPWG
+[2015/12/07 14:36:14] <Not-e81f> [02supertux] 07Jacob Burroughs 03b6aef7a - Support OS X deployment
+[2015/12/07 14:36:15] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95422301
+[2015/12/07 14:36:16] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/81
+[2015/12/07 14:36:24] <mt> yeah
+[2015/12/07 14:36:42] <mt> basically all the 0.3.5a bugfixes were finished before I proposed 0.3.5a
+[2015/12/07 14:36:44] <maths22> Tobbi: OS X icons should be fixed.
+[2015/12/07 14:36:58] <maths22> I accidentally was using the windows icon file on os x, which therefore didn't work
+[2015/12/07 14:37:14] <maths22> Once it is done in about 10 minutes, could you check it?
+[2015/12/07 14:37:31] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/81
+[2015/12/07 14:38:27] <Tobbi> mt: If you're playing for sympathy on my shoulders, I should gladly advise you to stop.
+[2015/12/07 14:38:35] <Tobbi> You know that I don't take that very well.
+[2015/12/07 14:39:07] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95422301
+[2015/12/07 14:39:17] <Tobbi> maths22: I will check it.
