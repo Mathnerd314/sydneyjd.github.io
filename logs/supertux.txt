@@ -17824,3 +17824,34 @@
 [2015/12/07 12:29:20] <brmbrmcar> mweem
 [2015/12/07 12:29:26] <brmbrmcar> That is OK.
 [2015/12/07 12:29:33] <head8debian> maths22: Cool. ;)
+[2015/12/07 12:30:10] <brmbrmcar> mw*a
+[2015/12/07 12:30:54] @ brmbrmcar is now known as brmbrmmawasm
+[2015/12/07 12:30:56] <maths22> head8debian: I discovered a tool called scponly that allows me to only permit file transfer protocols over ssh
+[2015/12/07 12:33:14] <Tobbi> Bulgarian translation is at 100%.
+[2015/12/07 12:34:34] <Tobbi> huh? What happened to the nightly build website?
+[2015/12/07 12:34:40] <maths22> Tobbi: It moved:
+[2015/12/07 12:34:49] <Tobbi> oh, yes, new server.
+[2015/12/07 12:34:49] <maths22> download.supertuxproject.org/download
+[2015/12/07 12:34:49] <Tobbi> Sorry.
+[2015/12/07 12:34:58] <maths22> Actually, same server, but new domain
+[2015/12/07 12:36:04] @ Tobbi set topic "Welcome to the SuperTux chat | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | Channel log http://sydneyjd.github.io/logs/ | nightly builds http://download.supertuxproject.org/download/"
+[2015/12/07 12:38:01] <brmbrmmawasm> I tried to freshly install the binary package and it did not work.
+[2015/12/07 12:39:37] <brmbrmmawasm> And can the apt-get/yum name be changed to supertux-nightly?
+[2015/12/07 12:41:06] <maths22> brmbrmmawasm: Where/what?
+[2015/12/07 12:41:17] <maths22> (OS/link would be helpful)
+[2015/12/07 12:42:00] <brmbrmmawasm> The .deb file.
+[2015/12/07 12:42:18] <maths22> brmbrmmawasm: Those will be fixed up in the near future
+[2015/12/07 12:42:25] <brmbrmmawasm> OK.
+[2015/12/07 12:42:27] <maths22> (I currently don't expect them to work)
+[2015/12/07 12:42:49] <maths22> So I know, though which deb?
+[2015/12/07 12:42:59] <brmbrmmawasm> But I mean with the yum stuff, the name supertux is used for other packages.
+[2015/12/07 12:43:04] <mt> now, you could get Let's Encrypt for that site
+[2015/12/07 12:43:11] <mt> or at least sign the files
+[2015/12/07 12:43:15] <Not-e81f> [02flexlay] 07Karkus476 pushed 032 commits to 03develop [+1/-0/±2] 13http://git.io/vRiE3
+[2015/12/07 12:43:17] <Not-e81f> [02flexlay] 07Karkus 034ad42c8 - Adds perfect playthrough of world 1 level 1
+[2015/12/07 12:43:18] <Not-e81f> [02flexlay] 07Karkus 037f216ad - Adds "Run" menu to record, play, play demos, or watch example demo
+[2015/12/07 12:43:22] <maths22> brmbrmmawasm: That will change
+[2015/12/07 12:43:22] <brmbrmmawasm> The 64 bit one for ubuntu 14.04
+[2015/12/07 12:43:32] <maths22> brmbrmmawasm: Thanks
+[2015/12/07 12:43:45] <maths22> mt: I will do that.
+[2015/12/07 12:44:34] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/79
