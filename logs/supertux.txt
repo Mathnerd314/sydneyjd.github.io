@@ -17395,3 +17395,4 @@
 [2015/12/06 21:30:21] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95272889
 [2015/12/06 21:37:02] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/95272889
 [2015/12/06 21:46:15] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/71
+[2015/12/06 22:01:22] <maths22> Finally built a DMG!
