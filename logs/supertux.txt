@@ -17621,3 +17621,88 @@
 [2015/12/07 11:43:26] <brmbrmcar> Awesome!
 [2015/12/07 11:44:15] @ Karkus joined channel #supertux
 [2015/12/07 11:44:40] <maths22> Download urls coming up soon
+[2015/12/07 11:45:15] <Tobbi> We could partner with http://www.spi-inc.org/
+[2015/12/07 11:45:38] <Tobbi> maths22: We could have email addresses, right? :P
+[2015/12/07 11:45:52] <brmbrmcar> brmbrmcar@yandex.com
+[2015/12/07 11:46:08] <Tobbi>  /kick brmbrmcar not those email addresses, you stupid.
+[2015/12/07 11:46:25] <Tobbi> Pretending to kick someone is much better than actually doing it.
+[2015/12/07 11:46:30] <Tobbi> Wears itself off after a while.
+[2015/12/07 11:46:52] <brmbrmcar> supertux@supertuxproject.org
+[2015/12/07 11:48:03] <Karkus> Tobbi: Email addresses for what?
+[2015/12/07 11:48:25] <Tobbi> Karkus: I just meant something like Karkus@supertuxproject.org
+[2015/12/07 11:48:29] <brmbrmcar> Supertux 0.0.4 started ithout the right dependencies.
+[2015/12/07 11:48:34] <Tobbi> Now that this domain was bought.. :P
+[2015/12/07 11:49:01] <Karkus> Tobbi: Oh, who bought it?
+[2015/12/07 11:49:08] <Tobbi> Karkus: maths22 did.
+[2015/12/07 11:49:24] <Tobbi> Karkus: We are looking into accepting donations so that we can eventually buy supertux.org
+[2015/12/07 11:49:25] <brmbrmcar> How many email adresses are allowed on there?
+[2015/12/07 11:49:29] <Karkus> maths22: Wow, that's great!
+[2015/12/07 11:49:38] <head8debian> maths22: "D
+[2015/12/07 11:49:41] <head8debian> :*
+[2015/12/07 11:50:32] <Karkus> Tobbi: Sounds good. We would need to partner with something like SPI or Copyleft Games etc. to manage donations though, I reckon
+[2015/12/07 11:50:34] <head8debian> brmbrmcar: Its infinite.
+[2015/12/07 11:50:43] <Tobbi> Ah...What I was thinking.
+[2015/12/07 11:50:48] <brmbrmcar> Nice.
+[2015/12/07 11:51:09] <brmbrmcar> But they steal some of the money!
+[2015/12/07 11:51:30] <Karkus> Inevitably
+[2015/12/07 11:52:25] <brmbrmcar> We do not want that.
+[2015/12/07 11:52:29] <Karkus> As in it is inevitable we would have to partner
+[2015/12/07 11:52:36] <brmbrmcar> Jus use a bank account
+[2015/12/07 11:53:02] <maths22> brmbrmcar: SOme legal organization needs to own the bank account
+[2015/12/07 11:53:10] <maths22> We don't want it to be in one of our names personally
+[2015/12/07 11:53:17] <Tobbi> All transaction costs (such as the 4.5% for credit cards, and wire transfer fees) are deducted from the contribution.  5% of the remainder is deducted for SPI overhead, primarily accounting, photocopying and postage.  The remaining money is held in trust for the project.
+[2015/12/07 11:53:22] <Karkus> maths22: Precisely
+[2015/12/07 11:53:27] <head8debian> Tobbi: Open a paypal account with the supertux openmailbox email address.
+[2015/12/07 11:53:35] <Tobbi> head8debian: What about the fees?
+[2015/12/07 11:53:45] <head8debian> Paypal doesn't have fees.
+[2015/12/07 11:53:49] <Tobbi> Oh, right.
+[2015/12/07 11:53:55] <head8debian> Or ive never known them to.
+[2015/12/07 11:54:02] <head8debian> If they did we would be in trouble.
+[2015/12/07 11:54:07] <maths22> I will get email set up at some point
+[2015/12/07 11:54:16] <maths22> New download URL http://download.supertuxproject.org/download/
+[2015/12/07 11:54:19] <Tobbi> head8debian: If we make substantial amounts of money, we should do public statements how much money we have.
+[2015/12/07 11:54:23] <Tobbi> Or maybe even otherwise.
+[2015/12/07 11:54:29] <Tobbi> It might encourage trust in the project.
+[2015/12/07 11:54:29] <head8debian> Tobbi: Eh.
+[2015/12/07 11:54:34] <head8debian> True.
+[2015/12/07 11:54:51] <Tobbi> head8debian: But don't tell them about that secret limousine I intend to buy with the first 1 million.
+[2015/12/07 11:54:56] <maths22> (I need to update appveyor to pull from the new site-next build will otherwise fail)
+[2015/12/07 11:55:04] <head8debian> Tobbi: ...
+[2015/12/07 11:55:09] <maths22> Tobbi: Too late.  It's already logged :)
+[2015/12/07 11:55:09] <brmbrmcar> limousines are bad.
+[2015/12/07 11:55:13] <Tobbi> :D damn.
+[2015/12/07 11:55:15] <head8debian> :D
+[2015/12/07 11:55:24] @ alket joined channel #supertux
+[2015/12/07 11:55:34] <Karkus> Tobbi: I mean, how do we know you wouldn't?
+[2015/12/07 11:56:05] <Tobbi> Karkus: I guess you just have to trust me?
+[2015/12/07 11:56:19] <Tobbi> I don't know. I guess someone else could govern the paypal account as well.
+[2015/12/07 11:56:49] <brmbrmcar> No me.
+[2015/12/07 11:56:54] <Karkus> Tobbi: We just don't have the resources for this
+[2015/12/07 11:56:58] <brmbrmcar> I could not be trusted.
+[2015/12/07 11:57:13] <Tobbi> Hmm, right...
+[2015/12/07 11:57:24] <Tobbi> Maybe we should dismiss the idea completely...
+[2015/12/07 11:57:26] <Karkus> I'm not trying to make things difficult
+[2015/12/07 11:57:45] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vRifi
+[2015/12/07 11:57:45] <head8debian> Tobbi: Now thats a good idea! :D
+[2015/12/07 11:57:46] <Not-e81f> [02supertux] 07Jacob Burroughs 0367e90ab - Update dependency download URL
+[2015/12/07 11:57:48] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/78
+[2015/12/07 11:57:49] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95390477
+[2015/12/07 11:58:26] <Tobbi> I actually don't want to be trusted either.
+[2015/12/07 11:58:28] <Karkus> Tobbi: If we get more people and more publicity, it's a possibility to consider.
+[2015/12/07 11:58:34] <Karkus> Tobbi: Precisely
+[2015/12/07 11:58:41] <brmbrmcar> How do stk do it?
+[2015/12/07 11:58:49] <head8debian> Id like more devs ATM, than money.
+[2015/12/07 11:58:51] <brmbrmcar> I think it is a good idea.
+[2015/12/07 11:58:52] <Tobbi> I believe hiker governs donations.
+[2015/12/07 11:59:02] <Karkus> head8debian: Yup
+[2015/12/07 11:59:04] <Tobbi> head8debian: I just want money for supertux.org :P
+[2015/12/07 11:59:14] <brmbrmcar> Does hiker steal any if it?
+[2015/12/07 11:59:14] <head8debian> Tobbi: Then pay it up. :)
+[2015/12/07 11:59:30] <mt> why does it have to be .org or .com or .net?
+[2015/12/07 11:59:31] <maths22> head8debian: More devs are always useful
+[2015/12/07 11:59:31] <Karkus> How much is it?
+[2015/12/07 11:59:32] <mt> couldn't a ccTLD work as well?
+[2015/12/07 11:59:51] <Tobbi> mt: We have supertuxproject.org which is okay.
+[2015/12/07 11:59:51] <Tobbi> :)
+[2015/12/07 12:00:00] <Tobbi> It's just that .org is used by many open source projects.
+[2015/12/07 12:00:00] <maths22> mt: In general, at this point in time, .org/.com/.net are more trusted by the general public
