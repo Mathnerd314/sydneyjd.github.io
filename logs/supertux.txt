@@ -17942,3 +17942,31 @@
 [2015/12/07 13:53:51] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#254: Rework add-on manager layout - 13http://git.io/vRPUO
 [2015/12/07 13:55:48] <brmbrmcar> Is there a list of releases?
 [2015/12/07 13:55:57] <brmbrmcar> I want 0.4.3 at least.
+[2015/12/07 14:02:32] @ Karkus joined channel #supertux
+[2015/12/07 14:07:25] <Not-e81f> [02flexlay] 07Karkus476 pushed 031 commit to 03text-editor [+14/-0/±0] 13http://git.io/vRPL7
+[2015/12/07 14:07:27] <Not-e81f> [02flexlay] 07Karkus 035ba6589 - Adds initial text editor code
+[2015/12/07 14:08:17] <mt> brmbrmcar: please no 'I want release x.y.z'
+[2015/12/07 14:08:33] <mt> releases will be made as needed, following the semver spec
+[2015/12/07 14:09:59] <brmbrmcar> 0.4.3 is neccesary.
+[2015/12/07 14:10:07] <mt> tag & build 0.4.0+42.git yourself
+[2015/12/07 14:10:15] <mt> if it makes you happy
+[2015/12/07 14:10:20] <brmbrmcar> I can't.
+[2015/12/07 14:10:25] <mt> why is it necessary?
+[2015/12/07 14:10:57] <brmbrmcar> To finish off the stable releases, like 0.1.x.
+[2015/12/07 14:11:13] <brmbrmcar> Then 0.5.x can move onto more advanterous stuff.
+[2015/12/07 14:11:44] <mt> I mean, everyone in the releng team would be happy if we didn't have so many bugs in 0.4.0 so we'd have to release 3 bugfix releases
+[2015/12/07 14:12:06] <mt> why can't we finish off 0.4.z with 0.4.0 or 0.4.1?
+[2015/12/07 14:12:20] @ Quit: Karkus: Ping timeout: 272 seconds
+[2015/12/07 14:12:48] <brmbrmcar> 0.4.1 is guaranteed. 0.4.2 is good for cfinishig off stuff ,ike vthe forest world.
+[2015/12/07 14:13:15] <maths22> brmbrmcar: A final release with the forest world integrated into the main game would definitely warrant releasing as 0.5.0
+[2015/12/07 14:13:17] <mt> finishing off stuff, like forest world -> 0.5z
+[2015/12/07 14:13:28] <mt> s/5z/5\.z/
+[2015/12/07 14:13:28] <red_bot> mt meant: "finishing off stuff, like forest world -> 0.5\.z"
+[2015/12/07 14:13:45] <maths22> mt: Apparently you don't need to escape your dots
+[2015/12/07 14:13:49] <maths22> :)
+[2015/12/07 14:14:17] <brmbrmcar> Nope.
+[2015/12/07 14:14:24] <mt> because that is, as defined by semver a "MINOR version [should be incremented] when you add functionality in a backwards-compatible manner"
+[2015/12/07 14:14:26] <brmbrmcar> It was planned for 0.4.0
+[2015/12/07 14:14:37] <mt> then it will be moved to 0.5.z
+[2015/12/07 14:14:44] <mt> heck is that so hard to understand?
+[2015/12/07 14:14:48] <brmbrmcar> It should be continued.
