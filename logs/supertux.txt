@@ -17444,3 +17444,4 @@
 [2015/12/07 07:15:16] <Tobbi> k
 [2015/12/07 07:39:41] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/07 07:58:21] @ irungentoo joined channel #supertux
+[2015/12/07 08:11:22] @ xet7 joined channel #supertux
