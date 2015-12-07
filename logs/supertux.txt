@@ -17742,3 +17742,85 @@
 [2015/12/07 12:06:19] <leper`> ah, you already found SPI wanted to suggest that after reading the question in #stk
 [2015/12/07 12:07:57] <Tobbi> yup.
 [2015/12/07 12:14:50] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/78
+[2015/12/07 12:16:12] <Karkus> Tobbi: Will we have a meeting after 0.4.0 to discuss what's going to happen after M2?
+[2015/12/07 12:16:34] <Tobbi> Karkus: Yes, we can do that. I'd suggest we also have a public poll and ask people about their ideas.
+[2015/12/07 12:17:12] <maths22> mt: My reason for clouldflare is not SSL; that is just a side effect
+[2015/12/07 12:17:28] <Karkus> Tobbi: Okay then, we'll have a meeting sometime at the start of next year.
+[2015/12/07 12:17:30] <Tobbi> It's good to finally flush MS2 out... We can then create a clean project. With a minimalistic interface. A text adventure. :)
+[2015/12/07 12:17:33] <Tobbi> Sure.
+[2015/12/07 12:17:41] <Tobbi> SuperTex(t)
+[2015/12/07 12:17:52] <head8debian> :D
+[2015/12/07 12:18:04] <Karkus> Tobbi: I think we need at least 5 more editors, don't you?
+[2015/12/07 12:18:24] <Tobbi> Karkus: Oh, yeah. Definitely!
+[2015/12/07 12:18:32] <Tobbi> Karkus: People need variation.
+[2015/12/07 12:18:51] <Tobbi> Karkus: Programs that have a UI that people can intuitively understand are boring.
+[2015/12/07 12:19:07] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/95390477
+[2015/12/07 12:19:15] <Karkus> Tobbi: And we should make the wiki less easy to understand. Where's the fun in that?
+[2015/12/07 12:19:26] <Tobbi> Karkus: Oh, yeah, some pages are written in Mandarin.
+[2015/12/07 12:19:39] <Tobbi> And some pages just contain single sentences from other pages.
+[2015/12/07 12:19:48] <Tobbi> And you need to find the next sentence on a different wiki page.
+[2015/12/07 12:19:53] <Tobbi> Also, numbering goes modulo 27
+[2015/12/07 12:19:57] <Karkus> Hide and seek
+[2015/12/07 12:20:08] <head8debian> ...
+[2015/12/07 12:20:12] <Tobbi> eh, wait.
+[2015/12/07 12:20:17] <Tobbi> not modulo 27
+[2015/12/07 12:20:24] <Tobbi>  / 27
+[2015/12/07 12:20:47] <Tobbi> or whatever.
+[2015/12/07 12:20:49] <Tobbi> :D
+[2015/12/07 12:20:51] <Karkus> modulo 27 would be somewhat ambiguous though, I like it!
+[2015/12/07 12:21:53] <Tobbi> :D
+[2015/12/07 12:22:13] <Tobbi> Karkus: all page numbering is done in binary with bitshift...
+[2015/12/07 12:22:15] <Tobbi> or something.
+[2015/12/07 12:22:21] <Tobbi> RANDOM bitshift.
+[2015/12/07 12:22:22] <Tobbi> :D
+[2015/12/07 12:22:23] <head8debian> Tobbi: just start writing man pages, much simpler.
+[2015/12/07 12:22:31] <Tobbi> head8debian: We don't want something simple.
+[2015/12/07 12:22:45] <maths22> Travis does not like me today :(
+[2015/12/07 12:22:53] <head8debian> man 10020 supertux :p
+[2015/12/07 12:23:39] <Karkus> Tobbi: We should create a new language with compiler and assembler, a new OS written in that language (which will run all OS's executables) and then port supertux over to it.
+[2015/12/07 12:23:47] <Tobbi> :D
+[2015/12/07 12:24:01] <Karkus> Deadline: Easter
+[2015/12/07 12:24:04] <Tobbi> Karkus: I think brmbrmcar is best for that task.
+[2015/12/07 12:24:13] <Tobbi> He can invent the syntax himself.
+[2015/12/07 12:24:14] <Karkus> Ah, yes
+[2015/12/07 12:24:19] <head8debian> :D
+[2015/12/07 12:24:36] <Karkus> brmbrmmov brmbrmregister1, brmbrmvalue #1
+[2015/12/07 12:24:40] <Tobbi> It's basically whitespace with brm brm's distributed pseudo-randomly.
+[2015/12/07 12:24:45] <head8debian> Tobbi: Don't be rude...
+[2015/12/07 12:24:46] <Tobbi> hahah, help!
+[2015/12/07 12:24:54] <head8debian> How would anyone remember that? :p
+[2015/12/07 12:24:55] <Tobbi> head8debian: I am not being rude, I am being realistic.
+[2015/12/07 12:24:59] <head8debian> :-)
+[2015/12/07 12:25:02] <Karkus> Whitespace-assembly
+[2015/12/07 12:25:12] <Karkus> head8debian: Okay, fair enough, I'll stop
+[2015/12/07 12:25:28] <head8debian> Code seems much more complicated than it should be.
+[2015/12/07 12:25:33] <head8debian> So do computers.
+[2015/12/07 12:25:38] <Karkus> And the lines execute in a random order
+[2015/12/07 12:25:38] <head8debian> So do people.
+[2015/12/07 12:25:39] <Tobbi> head8debian: How would you write code?
+[2015/12/07 12:25:41] <head8debian> :p
+[2015/12/07 12:25:45] <Tobbi> Karkus: haha, oh god!
+[2015/12/07 12:25:47] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/79
+[2015/12/07 12:25:55] <maths22> Hopefully appveyor no longer hates me
+[2015/12/07 12:26:12] <Tobbi> Karkus: What about fibonnaci lines? with random forward back?
+[2015/12/07 12:26:22] <head8debian> maths22: It doesn't hate you, just doesnt like your code. :)
+[2015/12/07 12:26:32] <Tobbi> And if you get lines < 0, it will go back to the end...
+[2015/12/07 12:26:39] <maths22> head8debian: Actually, it doesn't like my ssh configuration :(
+[2015/12/07 12:26:53] <head8debian> maths22: Oh.
+[2015/12/07 12:27:03] <maths22> (I have it upload using sftp into a chroot jail so even if the account was compromised, it can't do anything)
+[2015/12/07 12:27:14] <maths22> Some of the configuration involved is a bit annyoing
+[2015/12/07 12:27:18] <head8debian> Ah.
+[2015/12/07 12:27:24] <brmbrmcar> brmbrmlanguage
+[2015/12/07 12:27:40] <Karkus> Tobbi: I like it. But to avoid minus it is always the absolute value
+[2015/12/07 12:27:46] <Tobbi> :D
+[2015/12/07 12:27:47] <maths22> [Actually, almost all a compromised account can do in the jail is upload new files to a single directory]
+[2015/12/07 12:27:48] <Tobbi> Nice.
+[2015/12/07 12:27:54] <maths22> And one can't log in with the account
+[2015/12/07 12:28:06] <Karkus> brmbrmcar: This is what we need
+[2015/12/07 12:28:19] <Karkus> brmbrmcar: (We really don't)
+[2015/12/07 12:28:21] <Tobbi> brmbrmcar: Invent a language. Be creative.
+[2015/12/07 12:28:29] <Tobbi> And by creative I mean: Just be yourself!
+[2015/12/07 12:29:05] <brmbrmcar> OK.
+[2015/12/07 12:29:20] <brmbrmcar> mweem
+[2015/12/07 12:29:26] <brmbrmcar> That is OK.
+[2015/12/07 12:29:33] <head8debian> maths22: Cool. ;)
