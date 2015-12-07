@@ -17565,3 +17565,51 @@
 [2015/12/07 11:14:20] <Tobbi> supertux.com is great. Just "test"
 [2015/12/07 11:14:32] <head8debian> maths22: Wow, thats a long time.
 [2015/12/07 11:14:45] <maths22> Tobbi: I know!
+[2015/12/07 11:15:03] <Tobbi> head8debian: They do it because they might think we will eventually agree to their high demands.
+[2015/12/07 11:15:04] <Tobbi> :D
+[2015/12/07 11:15:16] <Tobbi> With all that money we make from SuperTux.
+[2015/12/07 11:15:17] <Tobbi> You know :D
+[2015/12/07 11:15:48] <head8debian> Yeah. :D
+[2015/12/07 11:16:27] <brmbrmcar> How much money does Supertux actually make?
+[2015/12/07 11:16:59] <Tobbi> brmbrmcar: In case you didn't notice...That was sarcasm.
+[2015/12/07 11:17:22] <brmbrmcar> Nothing?
+[2015/12/07 11:18:19] <brmbrmcar> Any donations at all?
+[2015/12/07 11:18:21] <Tobbi> brmbrmcar: How would we potentially earn money? Ingame ads?
+[2015/12/07 11:18:22] <Tobbi> :D
+[2015/12/07 11:18:32] <Tobbi> brmbrmcar: Do you see a donation button on the website or in the game?
+[2015/12/07 11:18:52] <brmbrmcar> It says about wanting to pay for SuperTux.
+[2015/12/07 11:20:04] <Tobbi> brmbrmcar: where does it say so?
+[2015/12/07 11:21:27] <brmbrmcar> In the wiki below some pages. I'll send you a link...
+[2015/12/07 11:21:38] <head8debian> brmbrmcar: We are a open source game, we don't require money donations. The only reason we would ever need money is to pay to host a server.
+[2015/12/07 11:21:51] <head8debian> He must has missread.
+[2015/12/07 11:22:45] <brmbrmcar> http://supertux.lethargik.org/wiki/SuperTux_FAQ#I.27m_thinking_about_buying_SuperTux.
+[2015/12/07 11:22:47] <Not-e81f> [02supertux] 07tobbi opened issue 03#253: Integrate sprites from reTux - 13http://git.io/vR6HX
+[2015/12/07 11:23:22] <Tobbi> Oh. Yeah, that.
+[2015/12/07 11:23:30] <Tobbi> No, we don't have any way of accepting donations.
+[2015/12/07 11:23:31] <head8debian> brmbrmcar: If you want to pay for SuperTux, you can make a donation, which would be highly appreciated, but we're not making you pay.
+[2015/12/07 11:23:32] <Tobbi> Maybe we should.
+[2015/12/07 11:23:34] <head8debian> " "
+[2015/12/07 11:23:46] <head8debian> Tobbi: How?
+[2015/12/07 11:23:53] <Tobbi> head8debian: Paypal account?
+[2015/12/07 11:23:56] <Tobbi> not sure.
+[2015/12/07 11:23:58] <head8debian> Tobbi: Id be suprised if we ever make anything...
+[2015/12/07 11:24:06] <brmbrmcar> supertuxkart do it.
+[2015/12/07 11:24:07] <Tobbi> head8debian: SuperTux is more popular than you'd think.
+[2015/12/07 11:24:28] <head8debian> maths22: We could pay for a domain if we did this. :)
+[2015/12/07 11:24:56] <Tobbi> head8debian: My thinking exactly.
+[2015/12/07 11:25:17] <head8debian> Tobbi: And you could buy a goat with it. :p
+[2015/12/07 11:25:30] <Tobbi> head8debian: And let it live in my garden.
+[2015/12/07 11:25:35] <Tobbi> My neighbours will be pleased.
+[2015/12/07 11:25:43] <brmbrmcar> You just called a goat it!
+[2015/12/07 11:26:01] <Tobbi> i didn't even get that bad pun.
+[2015/12/07 11:26:26] <brmbrmcar> Give a gift levelset out!
+[2015/12/07 11:26:52] <head8debian> Tobbi: I have a goat you can have, you jsut have to come get it. ;D
+[2015/12/07 11:26:58] <head8debian> She will make a perfect friend.
+[2015/12/07 11:26:58] <Tobbi> :D
+[2015/12/07 11:27:12] <Tobbi> I'd rather not.
+[2015/12/07 11:27:16] <head8debian> :-)
+[2015/12/07 11:27:42] <brmbrmcar> I'd like a goat, but the dog might fight the goat.
+[2015/12/07 11:27:53] <Tobbi> head8debian: Although it might remind my neighbours that it can always get worse.
+[2015/12/07 11:27:58] <head8debian> heh.
+[2015/12/07 11:28:20] <Tobbi> head8debian: You know, I left my xmas lights out the whole year just to annoy them. A goat in the garden might be a new low.
+[2015/12/07 11:29:33] <Tobbi> head8debian: Do we need a proper bank account if we were to accept donations?
