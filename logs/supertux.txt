@@ -18155,3 +18155,123 @@
 [2015/12/07 15:13:01] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/83
 [2015/12/07 15:13:50] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
 [2015/12/07 15:14:18] <maths22> If I had the permissions, I would temporarily kick Not-e81f, but I don't
+[2015/12/07 15:15:56] <Not-e81f> [02supertux] 07maths22 opened pull request 03#255: Add OS X Nightly builds - 13http://git.io/vRPrB
+[2015/12/07 15:15:59] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95430565
+[2015/12/07 15:16:00] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/84
+[2015/12/07 15:16:10] <Not-e81f> [02supertux] 07maths22 closed pull request 03#255: Add OS X Nightly builds - 13http://git.io/vRPrB
+[2015/12/07 15:16:11] <Not-e81f> [02supertux] 07maths22 pushed 034 commits to 03master [+12/-0/±8] 13http://git.io/vRPrE
+[2015/12/07 15:16:13] <Not-e81f> [02supertux] 07Jacob Burroughs 034821b22 - Merge pull request #255 from SuperTux/travis
+[2015/12/07 15:16:14] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95430615
+[2015/12/07 15:16:16] <Not-e81f> [02supertux] 07maths22 deleted branch 03travis - 13http://git.io/vvf63
+[2015/12/07 15:16:17] <Not-e81f> [02supertux] 07maths22 deleted branch 03travis
+[2015/12/07 15:16:19] <Not-e81f> [02supertux] 04Error. AppVeyor build cancelled - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/84
+[2015/12/07 15:16:20] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/85
+[2015/12/07 15:17:35] <Hume2> I'll just delete one merged branch, so don't be scared.
+[2015/12/07 15:18:15] <Not-e81f> [02supertux] 07Hume2 deleted branch 03incubator - 13http://git.io/vvf63
+[2015/12/07 15:18:17] <Not-e81f> [02supertux] 07Hume2 deleted branch 03incubator
+[2015/12/07 15:19:10] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:19:13] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:19:20] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:20:10] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03master [+1/-0/±2] 13http://git.io/vRPoi
+[2015/12/07 15:20:11] <Not-e81f> [02supertux] 07Jacob Burroughs 0332c300d - Add UCRT to Windows installer
+[2015/12/07 15:20:13] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95431366
+[2015/12/07 15:20:14] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/86
+[2015/12/07 15:20:16] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:20:17] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:20:19] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:20:42] <Hume2> Travis is flooding us!
+[2015/12/07 15:20:57] <Not-e81f> [02supertux] 04Error. AppVeyor build cancelled - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/85
+[2015/12/07 15:21:07] <brmbrmcar>  /ignore Not-e81f
+[2015/12/07 15:21:23] <maths22> Hume2: Sorry.  https://www.traviscistatus.com/ may have something to do with
+[2015/12/07 15:21:29] <maths22> s/with/with it/
+[2015/12/07 15:21:29] <red_bot> maths22 meant: "Hume2: Sorry.  https://www.traviscistatus.com/ may have something to do with it"
+[2015/12/07 15:21:52] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:21:54] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:21:55] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:21:58] <Hume2> Never mind, I've once done something like this too.
+[2015/12/07 15:22:14] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:22:15] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:22:16] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:23:00] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:23:01] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:23:03] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:23:04] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:23:06] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:23:07] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:23:09] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:23:10] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:23:12] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:23:13] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:23:15] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:23:16] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95430615
+[2015/12/07 15:23:18] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95430615
+[2015/12/07 15:23:19] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95430615
+[2015/12/07 15:23:21] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95430615
+[2015/12/07 15:23:22] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95430615
+[2015/12/07 15:23:24] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95430615
+[2015/12/07 15:23:25] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95430615
+[2015/12/07 15:23:27] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95430615
+[2015/12/07 15:23:28] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95430615
+[2015/12/07 15:23:30] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95430615
+[2015/12/07 15:23:31] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95430615
+[2015/12/07 15:23:33] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95430615
+[2015/12/07 15:23:34] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95430615
+[2015/12/07 15:23:36] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:23:37] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:23:38] <Hume2> Spam for free!
+[2015/12/07 15:23:39] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:23:40] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:23:47] <brmbrmcar> 18 errors in a row!
+[2015/12/07 15:24:01] <maths22> brmbrmcar: For some reason, it throws errors when I manually cancel a build
+[2015/12/07 15:24:13] <leper`> maybe just stop touching it?
+[2015/12/07 15:24:18] <Hume2> I've already found this out.
+[2015/12/07 15:24:23] <brmbrmcar> OK.
+[2015/12/07 15:24:31] <leyyin> holy cow spam
+[2015/12/07 15:24:34] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:24:41] <maths22> leper`: I don't want it to build the old ones, though, and I still have things I want to do
+[2015/12/07 15:24:44] <Hume2> It's still better to torture Travis instead of IRC.
+[2015/12/07 15:25:07] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:25:09] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:25:11] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:25:12] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95430565
+[2015/12/07 15:25:13] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:25:20] <leyyin> Tobbi, kick ^
+[2015/12/07 15:25:25] <maths22> Hume2: Sounds reasonable.  I'm done for now anyways, so we shouldn't need to worry about it for a while
+[2015/12/07 15:26:12] <Hume2> It's very Travis and much CI.
+[2015/12/07 15:26:30] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:26:30] <Hume2> ~excuse
+[2015/12/07 15:26:30] <red_bot> Hume2: Too many interrupts
+[2015/12/07 15:26:30] <Tobbi> leyyin: No. That bot is still not brmbrmca.
+[2015/12/07 15:26:32] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95430565
+[2015/12/07 15:26:32] <Tobbi> r
+[2015/12/07 15:26:33] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:26:35] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:26:36] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:26:38] @ ced117 joined channel #supertux
+[2015/12/07 15:27:09] <leyyin> I have brmbrmcar in my ignore list :P
+[2015/12/07 15:27:15] <Tobbi> oh, right.
+[2015/12/07 15:27:22] @ Not-e81f has been kicked from #supertux by Tobbi (bye)
+[2015/12/07 15:27:33] <Tobbi> leyyin: That was a reason to comply with your wishes.
+[2015/12/07 15:27:33] <Tobbi> :D
+[2015/12/07 15:27:38] @ Not-e81f joined channel #supertux
+[2015/12/07 15:27:39] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:27:40] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95430565
+[2015/12/07 15:27:42] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:27:42] <leyyin> rofl
+[2015/12/07 15:27:43] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:27:43] <Tobbi> haha
+[2015/12/07 15:27:45] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:27:52] <leyyin> CAN'T ESCAPE THE BOT
+[2015/12/07 15:27:56] <maths22> Tobbi: Do we have access to the notifico configuration?
+[2015/12/07 15:28:05] <Tobbi> maths22: mt has a monopoly on that.
+[2015/12/07 15:28:12] <maths22> Tobbi: Ok
+[2015/12/07 15:28:20] <leyyin> sigh, capitalists with their monopolies
+[2015/12/07 15:29:01] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95430565
+[2015/12/07 15:29:03] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:29:04] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:29:06] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:29:07] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:29:18] <Hume2> :D
+[2015/12/07 15:29:19] <leyyin> whoever made this stupid notification system needs a spanking
+[2015/12/07 15:29:39] <leyyin> why the heck do you need the same notification for the same build multiple times
+[2015/12/07 15:29:43] <leyyin> what logic can that be?
