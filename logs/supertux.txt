@@ -17406,3 +17406,9 @@
 [2015/12/07 00:12:39] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95285933
 [2015/12/07 00:13:04] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/72
 [2015/12/07 00:14:22] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/95285933
+[2015/12/07 00:17:24] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03travis [+6/-0/±2] 13http://git.io/vRwp4
+[2015/12/07 00:17:26] <Not-e81f> [02supertux] 07Jacob Burroughs 038954484 - Support OS X deployment
+[2015/12/07 00:17:27] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95286251
+[2015/12/07 00:17:29] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/73
+[2015/12/07 00:18:32] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95286251
+[2015/12/07 00:25:17] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/95286251
