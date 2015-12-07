@@ -17500,3 +17500,12 @@
 [2015/12/07 10:19:10] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/95364810
 [2015/12/07 10:19:37] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/77
 [2015/12/07 10:40:25] @ Quit: nerdopolis: Ping timeout: 246 seconds
+[2015/12/07 10:47:18] @ Joined channel #supertux
+[2015/12/07 10:47:18] @ Topic is "Welcome to the SuperTux chat | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | Channel log http://sydneyjd.github.io/logs/ | nightly builds http://brlcad.org/~maths22/supertux-download.php"
+[2015/12/07 10:47:18] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-12-03 17:04:41 -0500
+[2015/12/07 10:47:22] @ Mode +nt by adams.freenode.net
+[2015/12/07 10:47:44] @ brmbrmcar joined channel #supertux
+[2015/12/07 10:47:55] @ Quit: brmbrmcar: Client Quit
+[2015/12/07 10:50:28] @ head8debian joined channel #supertux
+[2015/12/07 10:52:37] <Tobbi> maths22: No proper app icon, works fine though.
+[2015/12/07 10:52:42] <Tobbi> Just like the previous build.
