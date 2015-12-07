@@ -17904,3 +17904,37 @@
 [2015/12/07 13:26:26] <brmbrmcar> The build is failing...
 [2015/12/07 13:29:53] <Not-e81f> [02flexlay] 07Karkus476 commented on issue 03#43: Allow User to Record and Playback Demos - 13http://git.io/vRiNU
 [2015/12/07 13:29:54] <Not-e81f> [02flexlay] 07Karkus476 closed issue 03#43: Allow User to Record and Playback Demos - 13http://git.io/vR4MR
+[2015/12/07 13:32:10] <maths22> brmbrmcar: What build failed?
+[2015/12/07 13:32:12] @ claymore2 joined channel #supertux
+[2015/12/07 13:32:28] <Tobbi> Actually, I shouldn't call on_window_resize for the whole menu stack but just the active menu.
+[2015/12/07 13:32:53] <maths22> brmbrmcar: I think I have a solution for windows, which will be pushed out soon
+[2015/12/07 13:32:54] <brmbrmcar> I dunno. It just said build failing.
+[2015/12/07 13:33:23] <Not-e81f> [02flexlay] 07Karkus476 commented on issue 03#4: 'Properties' Tab - 13http://git.io/vRiA5
+[2015/12/07 13:34:26] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vRixC
+[2015/12/07 13:34:28] <Not-e81f> [02supertux] 07Tobias Markus 037f8db96 - Don't call on_window_resize for the whole menu stack, just the active menu
+[2015/12/07 13:35:25] <Tobbi> I still think the add-on manager needs to be reworked.
+[2015/12/07 13:35:27] <Tobbi> So much text.
+[2015/12/07 13:37:21] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#253: Integrate sprites from reTux - 13http://git.io/vRipR
+[2015/12/07 13:38:53] <Karkus> Tobbi: Make an issue?
+[2015/12/07 13:39:04] <Not-e81f> [02supertux] 07tobbi commented on issue 03#253: Integrate sprites from reTux - 13http://git.io/vRihk
+[2015/12/07 13:39:09] <Tobbi> Karkus: I could.
+[2015/12/07 13:39:12] <Tobbi> Actually, why not.
+[2015/12/07 13:40:05] @ Hume2 joined channel #supertux
+[2015/12/07 13:40:11] <Karkus> There's a better chance one of Hume2, you or I having a look at it then I reckon. The IRC doesn't last long
+[2015/12/07 13:40:23] <Not-e81f> [02supertux] 07tobbi opened issue 03#254: Rework add-on manager layout - 13http://git.io/vRihi
+[2015/12/07 13:40:24] <Karkus> Well, what you say is forgotten
+[2015/12/07 13:40:29] <Tobbi> Exactly.
+[2015/12/07 13:40:56] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/95407853
+[2015/12/07 13:40:56] <Karkus> Hello, Hume2
+[2015/12/07 13:41:09] <Hume2> Hello, Karkus
+[2015/12/07 13:41:19] <Tobbi> Karkus: If we create that add-on website thing, we could then integrate that with supertux3.
+[2015/12/07 13:41:20] <Tobbi> :D
+[2015/12/07 13:41:33] <Karkus> Tobbi: Of course
+[2015/12/07 13:41:37] <Karkus> All in good time
+[2015/12/07 13:41:41] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/80
+[2015/12/07 13:41:47] <Karkus> Well, all in long time, at least
+[2015/12/07 13:44:06] <Tobbi> Definitely...
+[2015/12/07 13:44:41] <Not-e81f> [02supertux] 07tobbi labeled issue 03#254: Rework add-on manager layout - 13http://git.io/vRihi
+[2015/12/07 13:44:43] <Not-e81f> [02supertux] 07tobbi labeled issue 03#254: Rework add-on manager layout - 13http://git.io/vRihi
+[2015/12/07 13:44:44] <Not-e81f> [02supertux] 07tobbi labeled issue 03#254: Rework add-on manager layout - 13http://git.io/vRihi
+[2015/12/07 13:44:46] <Not-e81f> [02supertux] 07tobbi labeled issue 03#254: Rework add-on manager layout - 13http://git.io/vRihi
