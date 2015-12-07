@@ -17938,3 +17938,7 @@
 [2015/12/07 13:44:43] <Not-e81f> [02supertux] 07tobbi labeled issue 03#254: Rework add-on manager layout - 13http://git.io/vRihi
 [2015/12/07 13:44:44] <Not-e81f> [02supertux] 07tobbi labeled issue 03#254: Rework add-on manager layout - 13http://git.io/vRihi
 [2015/12/07 13:44:46] <Not-e81f> [02supertux] 07tobbi labeled issue 03#254: Rework add-on manager layout - 13http://git.io/vRihi
+[2015/12/07 13:49:42] @ Quit: Karkus: Ping timeout: 250 seconds
+[2015/12/07 13:53:51] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#254: Rework add-on manager layout - 13http://git.io/vRPUO
+[2015/12/07 13:55:48] <brmbrmcar> Is there a list of releases?
+[2015/12/07 13:55:57] <brmbrmcar> I want 0.4.3 at least.
