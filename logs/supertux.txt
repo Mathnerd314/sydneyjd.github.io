@@ -17439,3 +17439,6 @@
 [2015/12/07 05:54:13] @ leyyin joined channel #supertux
 [2015/12/07 06:48:39] @ Tobbi joined channel #supertux
 [2015/12/07 06:48:39] @ Mode +o Tobbi by ChanServ
+[2015/12/07 07:15:07] <Tobbi> maths22: The mac build doesn't work because CFBundleExecutable in Info.plist needs to be set to "SuperTux" and is set to "supertux2"
+[2015/12/07 07:15:15] <Tobbi> jsy
+[2015/12/07 07:15:16] <Tobbi> k
