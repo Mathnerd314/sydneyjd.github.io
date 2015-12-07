@@ -17382,3 +17382,5 @@
 [2015/12/06 19:42:18] <Not-e81f> [02supertux] 07DevynCJohnson starred 03supertux - 13http://git.io/vW0db
 [2015/12/06 19:48:29] @ Tobbi_ joined channel #supertux
 [2015/12/06 19:48:29] @ Mode +o Tobbi_ by ChanServ
+[2015/12/06 20:11:55] @ tuxdev_ joined channel #supertux
+[2015/12/06 20:13:52] @ Quit: Tobbi_: Remote host closed the connection
