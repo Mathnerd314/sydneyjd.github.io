@@ -18645,3 +18645,47 @@
 [2015/12/07 18:13:50] <Karkus_on_windos> I won't complain, I'm guilty of it myself
 [2015/12/07 18:14:02] <Karkus_on_windos> Okay, I've got it installing
 [2015/12/07 18:14:50] <maths22> Karkus_on_windos: I wish I could reduce the warning, but to the best of my knowledge, without some kind of approval process, there is no way to elimiate them
+[2015/12/07 18:15:09] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/90
+[2015/12/07 18:15:12] <Karkus_on_windos> maths22: I understand.
+[2015/12/07 18:15:45] <Karkus_on_windos> Problem is I have to click on all the More Info > Advanced options etc.
+[2015/12/07 18:16:13] <Karkus_on_windos> If it is a virus, it'd better not have touched my Linux partition
+[2015/12/07 18:16:53] <maths22> Karkus_on_windos: I promise, not a virus :)
+[2015/12/07 18:17:22] <Karkus_on_windos> Nope, still not working
+[2015/12/07 18:17:24] <Karkus_on_windos> :(
+[2015/12/07 18:18:02] <Karkus_on_windos> If I minimise the window, the music keeps playing and I can click things, but I can't see anything. Is this an SDL problem?
+[2015/12/07 18:18:10] <Karkus_on_windos> maths22: ^
+[2015/12/07 18:18:31] <maths22> Karkus_on_windos: So you minimize it and then maximize it, and it is blank?
+[2015/12/07 18:18:42] <Karkus_on_windos> Yep. Can't see a thing
+[2015/12/07 18:18:46] <maths22> Same behavior on my machine
+[2015/12/07 18:18:56] <Karkus_on_windos> maths22: Damn
+[2015/12/07 18:19:02] <maths22> I thought you meant lose focus like put something in front of it
+[2015/12/07 18:19:12] <maths22> And yes, probably a SDL thing.  I'll investigate later
+[2015/12/07 18:19:30] <Karkus_on_windos> maths22: That was a problem before I think, but it's not anymore.
+[2015/12/07 18:19:37] <Karkus_on_windos> I can't remember
+[2015/12/07 18:19:47] <Karkus_on_windos> As long as I don't minimise it, it's fine.
+[2015/12/07 18:20:20] <maths22> Interesting...
+[2015/12/07 18:20:33] <maths22> If I minimze and then maximize, and then resize the window, it turns black
+[2015/12/07 18:21:55] <maths22> Karkus_on_windos: Are you using integrated intel graphics?
+[2015/12/07 18:22:04] <Karkus_on_windos> Yes
+[2015/12/07 18:22:17] <Karkus_on_windos> Are you?
+[2015/12/07 18:22:24] <Karkus_on_windos> I'm on a Laptop
+[2015/12/07 18:22:52] <maths22> See https://community.roonlabs.com/t/windows-8-1-blank-white-screen-after-maximising/1874/24
+[2015/12/07 18:23:49] <maths22> It might be the same thing
+[2015/12/07 18:24:05] <Karkus_on_windos> maths22: Okay, so what's at the root of this problem? Is it SDL? I think it is
+[2015/12/07 18:24:15] <Karkus_on_windos> I think it is the same problem I mean
+[2015/12/07 18:24:51] <maths22> Karkus_on_windos: I think it is opengl
+[2015/12/07 18:24:59] @ giby joined channel #supertux
+[2015/12/07 18:25:00] @ Mode +o giby by ChanServ
+[2015/12/07 18:25:22] <Karkus_on_windos> maths22: I never had this problem with Minecraft
+[2015/12/07 18:26:22] * Karkus_on_windos tests minecraft
+[2015/12/07 18:26:39] <Karkus_on_windos> Oh, I see. It's windos.... :P
+[2015/12/07 18:26:42] <maths22> Karkus_on_windos: Change your config from video auto to video sdl
+[2015/12/07 18:26:49] <maths22> You will find that it works
+[2015/12/07 18:27:06] <maths22> %UserProfile%\supertux2\config
+[2015/12/07 18:27:08] @ Quit: giby_the_kid: Ping timeout: 260 seconds
+[2015/12/07 18:28:47] <maths22> We may want to make some kind of note and easy way to change that config
+[2015/12/07 18:29:00] <Karkus_on_windos> maths22: Why does this work?
+[2015/12/07 18:29:17] <Karkus_on_windos> maths22: Can't we set it up to go to SDL automatically?
+[2015/12/07 18:29:50] <Karkus_on_windos> And also now I'm getting graphical glitches
+[2015/12/07 18:29:52] <Karkus_on_windos> Are you?
+[2015/12/07 18:29:59] <maths22> A bit
