@@ -18689,3 +18689,27 @@
 [2015/12/07 18:29:50] <Karkus_on_windos> And also now I'm getting graphical glitches
 [2015/12/07 18:29:52] <Karkus_on_windos> Are you?
 [2015/12/07 18:29:59] <maths22> A bit
+[2015/12/07 18:30:07] <maths22> this is the tradeoff
+[2015/12/07 18:30:51] <maths22> SDL is not hardware-accelerated, but it also doesnt have the intel glitch
+[2015/12/07 18:30:59] <Karkus_on_windos> maths22: Like lines between the tiles?
+[2015/12/07 18:31:21] @ Quit: tuxdev_: Ping timeout: 272 seconds
+[2015/12/07 18:31:54] <Karkus_on_windos> maths22: Okay, thanks for clearing this up. I'm really tired so I've got to go.
+[2015/12/07 18:31:57] <Karkus_on_windos> Bye all
+[2015/12/07 18:33:46] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95462564
+[2015/12/07 18:34:43] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/91
+[2015/12/07 18:36:12] @ Quit: Karkus_on_windos: Ping timeout: 252 seconds
+[2015/12/07 18:36:21] <Not-e81f> [02supertux] 07tobbi pushed 032 commits to 03master [+0/-0/±4] 13http://git.io/vRXPv
+[2015/12/07 18:36:22] <Not-e81f> [02supertux] 07Tobias Markus 0365fe0cd - Fix coverity #120407: Pass big parameter pos by reference
+[2015/12/07 18:36:24] <Not-e81f> [02supertux] 07Tobias Markus 03fc8bbac - Check return values of lisp.get() in code and act accordingly (or not) to make static analysis happy
+[2015/12/07 18:36:25] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95469187
+[2015/12/07 18:36:27] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/92
+[2015/12/07 18:36:28] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/95462106
+[2015/12/07 18:36:54] <Not-e81f> [02supertux] 07Karkus476 opened issue 03#256: Windows + Intel Integrated Graphics = Nope - 13http://git.io/vRXPt
+[2015/12/07 18:36:55] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#256: Windows + Intel Integrated Graphics = Nope - 13http://git.io/vRXPt
+[2015/12/07 18:36:56] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#256: Windows + Intel Integrated Graphics = Nope - 13http://git.io/vRXPt
+[2015/12/07 18:36:58] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#256: Windows + Intel Integrated Graphics = Nope - 13http://git.io/vRXPt
+[2015/12/07 18:37:00] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#256: Windows + Intel Integrated Graphics = Nope - 13http://git.io/vRXPt
+[2015/12/07 18:37:01] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#256: Windows + Intel Integrated Graphics = Nope - 13http://git.io/vRXPt
+[2015/12/07 18:37:03] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#256: Windows + Intel Integrated Graphics = Nope - 13http://git.io/vRXPt
+[2015/12/07 18:37:04] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#256: Windows + Intel Integrated Graphics = Nope - 13http://git.io/vRXPt
+[2015/12/07 18:37:23] <Tobbi> Now that is great.
