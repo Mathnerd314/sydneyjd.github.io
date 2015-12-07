@@ -17419,3 +17419,7 @@
 [2015/12/07 00:34:10] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95287347
 [2015/12/07 00:34:49] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/73
 [2015/12/07 00:41:10] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/95287347
+[2015/12/07 00:49:15] <maths22> Once people are online tomorrow, could they try the current OS X build?
+[2015/12/07 00:49:21] <maths22> I think it works, but I'm not certain
+[2015/12/07 00:50:40] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/74
+[2015/12/07 00:54:34] <maths22> (Ideally I would fix the background on the DMG, and Windows still needs the redists done, but otherwise these nightly builds are done
