@@ -17388,3 +17388,7 @@
 [2015/12/06 20:49:26] @ Tobbi_ joined channel #supertux
 [2015/12/06 20:49:26] @ Mode +o Tobbi_ by ChanServ
 [2015/12/06 20:52:39] @ Quit: Tobbi_: Remote host closed the connection
+[2015/12/06 21:29:23] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03travis [+4/-0/±2] 13http://git.io/vRwu3
+[2015/12/06 21:29:24] <Not-e81f> [02supertux] 07Jacob Burroughs 0340b4950 - Support OS X deployment
+[2015/12/06 21:29:26] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95272889
+[2015/12/06 21:29:27] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/71
