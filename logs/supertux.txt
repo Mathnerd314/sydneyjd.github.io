@@ -17895,3 +17895,12 @@
 [2015/12/07 13:12:15] <maths22> Tobbi: we would check the system language and offer to download if it is not already installed (we might need to bundle a list of supported languages with the application)
 [2015/12/07 13:12:53] <Tobbi> maths22: We could actually do that...
 [2015/12/07 13:14:51] <brmbrmcar> What are l10 packages?
+[2015/12/07 13:23:15] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vRi5x
+[2015/12/07 13:23:16] <Not-e81f> [02supertux] 07Tobias Markus 03eb79dc5 - Re-center addon menu after changing from add-ons to langpacks
+[2015/12/07 13:23:18] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95407853
+[2015/12/07 13:23:20] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/80
+[2015/12/07 13:25:06] <Not-e81f> [02flexlay] 07Karkus476 commented on issue 03#36: Include help and reference inside the level editor - 13http://git.io/vRidX
+[2015/12/07 13:25:10] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95407853
+[2015/12/07 13:26:26] <brmbrmcar> The build is failing...
+[2015/12/07 13:29:53] <Not-e81f> [02flexlay] 07Karkus476 commented on issue 03#43: Allow User to Record and Playback Demos - 13http://git.io/vRiNU
+[2015/12/07 13:29:54] <Not-e81f> [02flexlay] 07Karkus476 closed issue 03#43: Allow User to Record and Playback Demos - 13http://git.io/vR4MR
