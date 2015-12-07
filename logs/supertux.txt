@@ -17454,3 +17454,15 @@
 [2015/12/07 08:26:38] <Tobbi> hello head8debian
 [2015/12/07 08:26:46] <head8debian> Is there anything i can do today for ST thats small? :)
 [2015/12/07 08:29:54] <maths22> Tobbi: That is not actually the right change
+[2015/12/07 08:30:08] <Tobbi> maths22: Oh, right. I am not informed, anyway.
+[2015/12/07 08:30:43] <maths22> Tobbi: It needs to actually be startup.sh
+[2015/12/07 08:31:35] <maths22> Tobbi: You were actually right.  I misremembered; sorry
+[2015/12/07 08:34:26] <head8debian> :D
+[2015/12/07 08:35:32] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03travis [+6/-0/±3] 13http://git.io/vRKRH
+[2015/12/07 08:35:33] <Not-e81f> [02supertux] 07Jacob Burroughs 033f66eba - Support OS X deployment
+[2015/12/07 08:35:35] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95347421
+[2015/12/07 08:35:36] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/76
+[2015/12/07 08:35:45] <maths22> (I forgot CPack does some magical renaming of things)
+[2015/12/07 08:35:59] <maths22> There should be a new build up in roughly 10 minutes
+[2015/12/07 08:36:49] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95347421
+[2015/12/07 08:43:25] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/95347421
