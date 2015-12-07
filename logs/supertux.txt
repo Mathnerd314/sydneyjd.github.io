@@ -18557,3 +18557,67 @@
 [2015/12/07 17:44:06] <maths22> Karkus: What Windows version?
 [2015/12/07 17:44:10] <Karkus> maths22: Not now I can't sorry. Can you remind me tomorrow?
 [2015/12/07 17:44:10] <Tobbi> maths22: Will you add the glbinding dependency to .travis.yml or shall I do that?
+[2015/12/07 17:45:02] <Karkus> Tobbi: We can put up signs around it and a guarded fence to alert people that it is a beta testing release
+[2015/12/07 17:45:41] <Not-e81f> [02flexlay] 07Karkus476 closed issue 03#4: 'Project' Tab - 13http://git.io/vRG8B
+[2015/12/07 17:45:44] <maths22> Tobbi: You go ahead
+[2015/12/07 17:45:47] <Tobbi> Karkus: We could actually mark it as pre-release and specifically display a "warning".
+[2015/12/07 17:45:50] <Tobbi> Alright.
+[2015/12/07 17:45:54] <maths22> Karkus: Sure.  Can you tell me what windows version now?
+[2015/12/07 17:46:09] <Karkus> maths22: You mean, Windows 10?
+[2015/12/07 17:46:31] <Karkus> Windows 10 actual legit version dual booting with Linux Mint
+[2015/12/07 17:47:12] <maths22> Karkus: OK.
+[2015/12/07 17:47:19] <maths22> I'm on Windows 10 and it likes me
+[2015/12/07 17:47:37] <maths22> Did you make a bug for that crash issue?
+[2015/12/07 17:47:41] <Karkus> maths22: Even when the game loses focus?
+[2015/12/07 17:47:59] <leper`> Tobbi: But milestone2 also displayed some under construction warning
+[2015/12/07 17:48:08] <Tobbi> leper`: True...
+[2015/12/07 17:48:11] <leper`> so I'd suggest you call that thing a release candidate
+[2015/12/07 17:48:14] <maths22> Karkus: Yes
+[2015/12/07 17:48:23] <leper`> which should tell packagers that it isn't an actual release
+[2015/12/07 17:48:23] <Karkus> maths22: Hmm.
+[2015/12/07 17:48:24] <Tobbi> might make sense.
+[2015/12/07 17:48:31] <leper`> (which a beta or alpha label does not do)
+[2015/12/07 17:48:33] <Karkus> Tobbi: Create a new Logo
+[2015/12/07 17:48:46] <Karkus> And stick that in
+[2015/12/07 17:48:50] <maths22> Karkus: Did it leave any kind of crash log?
+[2015/12/07 17:48:54] <Karkus> Actually...
+[2015/12/07 17:48:58] <Tobbi> :D
+[2015/12/07 17:49:02] <Karkus> maths22: No. It froze
+[2015/12/07 17:49:14] <maths22> Karkus: Lovely
+[2015/12/07 17:49:28] <maths22> Anyways, try the latest build tomorrow, and we will se
+[2015/12/07 17:49:32] <maths22> s/se/see/
+[2015/12/07 17:49:32] <red_bot> maths22 meant: "Anyways, try the latest build tomorrow, and we will see"
+[2015/12/07 17:49:42] <Karkus> maths22: I had to run it from the terminal to keep focus for some reason. If I ran it from the start menu it crashed straight away
+[2015/12/07 17:49:56] <maths22> My start menu one definitely works
+[2015/12/07 17:50:13] <Karkus> maths22: Hey, I tell you what, as a christmas gift I will go through the pain of doing it now :D
+[2015/12/07 17:50:25] <maths22> Karkus: let me guess.  You have to restart?
+[2015/12/07 17:50:39] <Karkus> Do I need to get the latest off download.supertuxproject.org/download
+[2015/12/07 17:50:44] <Karkus> maths22: Yeah
+[2015/12/07 17:51:06] <Karkus> the return of Karkus_on_windose
+[2015/12/07 17:51:07] <maths22> Karkus: Yes for the download
+[2015/12/07 17:51:11] <Karkus> Bye
+[2015/12/07 17:51:12] @ Quit: Karkus: Quit: Division By Zero
+[2015/12/07 17:52:00] <Tobbi> maths22: It's the libc++-dev library which I want, right?
+[2015/12/07 17:52:17] <maths22> Tobbi: yes
+[2015/12/07 17:52:22] <maths22> (I believe)
+[2015/12/07 17:53:36] <Tobbi> We'll see.
+[2015/12/07 17:53:49] <Tobbi> no bot notification?
+[2015/12/07 17:54:11] <maths22> That is odd...
+[2015/12/07 17:54:53] <maths22> And travis didn't pick it up either
+[2015/12/07 17:55:09] <Tobbi> And I didn't specify [ci skip]
+[2015/12/07 17:55:51] <maths22> I bet github didn't trigger any events for some odd reason
+[2015/12/07 17:56:03] <Tobbi> I will create a new empty commit.
+[2015/12/07 17:56:41] <Tobbi> It didn't.
+[2015/12/07 17:56:56] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vRXug
+[2015/12/07 17:56:57] <Not-e81f> [02supertux] 07Tobias Markus 036ef0366 - Add missing dependency for glbinding
+[2015/12/07 17:56:58] <Tobbi> Oh!
+[2015/12/07 17:57:23] <maths22> I guess it was a bit behind
+[2015/12/07 17:57:37] <Tobbi> Yes, and I committed an empty change set in the meantime.
+[2015/12/07 17:57:42] <Tobbi> But, let's hope it triggers a build.
+[2015/12/07 17:57:56] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±0] 13http://git.io/vRXuh
+[2015/12/07 17:57:57] <Not-e81f> [02supertux] 07Tobias Markus 03d15c673 - Hopefully trigger build
+[2015/12/07 17:58:03] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95462106
+[2015/12/07 17:58:05] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/90
+[2015/12/07 17:58:27] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95462564
+[2015/12/07 17:58:28] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/91
+[2015/12/07 17:58:31] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/95443992
