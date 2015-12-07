@@ -18408,3 +18408,17 @@
 [2015/12/07 16:40:15] <Tobbi> never mind then.
 [2015/12/07 16:40:26] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/88
 [2015/12/07 16:41:12] <brmbrmcar> Who's is better?
+[2015/12/07 16:47:14] <Tobbi> brmbrmcar: I didn't check either test level.
+[2015/12/07 16:47:27] <brmbrmcar> Uh oh!
+[2015/12/07 16:48:22] <Tobbi> what?
+[2015/12/07 16:49:18] <brmbrmcar> Does anyone check these levels?
+[2015/12/07 16:52:03] <maths22> Why windows... why?
+[2015/12/07 16:52:27] <maths22> (I'll investigate more later, but it is crashing
+[2015/12/07 16:53:08] <maths22> (On 7, not 10)
+[2015/12/07 16:53:53] <brmbrmcar> What about 8?
+[2015/12/07 16:55:13] <maths22> brmbrmcar: I'm testing 8 soon
+[2015/12/07 16:55:32] <maths22> (I'm using the Microsoft IE testing images, and I didn't have 8 downloaded)
+[2015/12/07 16:57:08] <brmbrmcar> OK.
+[2015/12/07 16:57:20] <brmbrmcar> I don't care.
+[2015/12/07 16:57:27] <brmbrmcar> I am just asking.
+[2015/12/07 16:58:45] <maths22> brmbrmcar: I replaced your link to the expiring pastebin with one to a gist
