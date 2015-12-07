@@ -17970,3 +17970,74 @@
 [2015/12/07 14:14:37] <mt> then it will be moved to 0.5.z
 [2015/12/07 14:14:44] <mt> heck is that so hard to understand?
 [2015/12/07 14:14:48] <brmbrmcar> It should be continued.
+[2015/12/07 14:15:05] <brmbrmcar> 0.5.x for a tiny change?
+[2015/12/07 14:15:21] <maths22> brmbrmcar: How is adding a whole world into the main game "tiny"?
+[2015/12/07 14:15:26] <mt> making the forest world fully complete will be a rather big thin-
+[2015/12/07 14:15:57] <brmbrmcar> Not really.
+[2015/12/07 14:16:06] <brmbrmcar> Just a few more levels.
+[2015/12/07 14:16:48] <mt> it will also include a forest boss, possibly continuing in Story Mode directly to Forest World when finished with Icy Island, ... (add your ideas here)
+[2015/12/07 14:17:27] <mt> and hey, what's your problem if we end up with 0.128.0?
+[2015/12/07 14:17:44] <maths22> Tobbi: Do you know why Clang has trouble building GLBinding?
+[2015/12/07 14:17:53] <Tobbi> maths22: Still? I thought I fixed it.
+[2015/12/07 14:17:59] <brmbrmcar> Fprest boss is already made.
+[2015/12/07 14:18:31] <maths22> mt: At what point would we be ready for 1.0.0?
+[2015/12/07 14:18:35] <mt> a real story for the forest boss still has to be created
+[2015/12/07 14:18:46] <mt> maths22: dunno, if our API is stable
+[2015/12/07 14:18:53] <maths22> Tobbi: Nope-see https://travis-ci.org/SuperTux/supertux/jobs/95407867
+[2015/12/07 14:18:54] <brmbrmcar> Forest boss is done!
+[2015/12/07 14:19:03] <brmbrmcar> Don't you realise?
+[2015/12/07 14:19:06] <maths22> mt: That is a meaningless concept for SuperTux-it doesn't have an API
+[2015/12/07 14:19:07] <brmbrmcar> Tree suck
+[2015/12/07 14:19:09] <mt> maths22: I think in a game, that'd refer to stable level and scripting API I guess
+[2015/12/07 14:19:11] <Tobbi> damn this.
+[2015/12/07 14:19:42] <maths22> mt: That seems reasonable.
+[2015/12/07 14:19:56] <Tobbi> But, great, the error is different!!!
+[2015/12/07 14:19:57] <Tobbi> :)
+[2015/12/07 14:20:36] <mt> brmbrmcar: I think treeboss will still need some changes, which clearly won't be defined as bugfixes.
+[2015/12/07 14:20:46] <brmbrmcar> Yes.
+[2015/12/07 14:21:04] <mt> and 0.4.z would be a bug fix. end of the story.
+[2015/12/07 14:21:19] <brmbrmcar> The lantern should be sucked anywhere around the mouth.
+[2015/12/07 14:21:36] <brmbrmcar> 0.4.x is Milestone 2 stable! Linke 0.1.x!
+[2015/12/07 14:21:45] <mt> then open an issue for this, it's probably not something that's gonna get fixed for 0.4.z
+[2015/12/07 14:22:06] <mt> yeah, stable as-is right now.
+[2015/12/07 14:22:24] <mt> but we'll probably drop the idea of Milestone x anyway
+[2015/12/07 14:22:34] <brmbrmcar> There are things planned for 0.4.x
+[2015/12/07 14:22:37] <Tobbi> maths22: https://travis-ci.org/SuperTux/supertux/jobs/95407867#L5694
+[2015/12/07 14:22:43] <Tobbi> It had trouble building glbinding.
+[2015/12/07 14:22:54] <maths22> mt: I believe it could also be a non-breaking minor improvement
+[2015/12/07 14:22:59] <maths22> And still be 0.4.x
+[2015/12/07 14:23:03] <mt> brmbrmcar: then we'll move them to plans for 0.5.z; real end of story now
+[2015/12/07 14:23:15] <maths22> Tobbi: I was asking if you knew why that happened?
+[2015/12/07 14:23:32] <brmbrmcar> *sigh*
+[2015/12/07 14:23:32] <Tobbi> maths22: I believe the issue is that the glbinding source code isn't compatible with clang :D
+[2015/12/07 14:23:35] <Tobbi> Sorry.
+[2015/12/07 14:23:43] <mt> the thing is, we ended up in a mess when we were doing 0.3.x(letter)
+[2015/12/07 14:23:57] <mt> and package managers complained
+[2015/12/07 14:24:01] <Tobbi> Yes.
+[2015/12/07 14:24:01] <maths22> Tobbi: lovely
+[2015/12/07 14:24:11] <maths22> mt: Letters defintely are not helpful for that
+[2015/12/07 14:24:13] <Tobbi> maths22: Indeed. It might be fixed with latest master. One needs to check.
+[2015/12/07 14:24:25] <brmbrmcar> Yeah, but it is a bad idea to change the planned versioning scheme for the near future.
+[2015/12/07 14:24:31] <Tobbi> We should've used underscores.
+[2015/12/07 14:24:36] <Tobbi> 0.3.5_1
+[2015/12/07 14:25:08] <mt> nah, we should've used something even more ridiculous, like backslashes or the & sign
+[2015/12/07 14:25:13] <Tobbi> :D
+[2015/12/07 14:25:15] <mt> 0.3.5\1 or 0.3.5&1
+[2015/12/07 14:25:25] <maths22> Tobbi: A fourth decimal would have worked
+[2015/12/07 14:25:25] <leper`> just use one more .
+[2015/12/07 14:25:30] <maths22> leper`: Exactly
+[2015/12/07 14:25:41] <mt> that looked ugly
+[2015/12/07 14:25:42] <Tobbi> mt: we have a lot of encodings at our disposal.
+[2015/12/07 14:25:44] <Tobbi> bbl
+[2015/12/07 14:25:46] <brmbrmcar> The dreaded 0.3.6
+[2015/12/07 14:25:53] <mt> so we decided to do 0.3.5a
+[2015/12/07 14:26:02] <leper`> _-~ are all used by some packaging schemes to indicate some packaging changes
+[2015/12/07 14:26:18] <leper`> (not too sure about _ but I think I saw that somewhere)
+[2015/12/07 14:26:43] <brmbrmcar> You should have done 0.3.6, just to keep people happy.
+[2015/12/07 14:27:18] <maths22> What was wrong with 0.3.6?
+[2015/12/07 14:27:34] <brmbrmcar> It was too soon.
+[2015/12/07 14:27:36] <mt> dunno
+[2015/12/07 14:28:06] <mt> would have to look at the logs for whatever month, I think april
+[2015/12/07 14:29:30] <mt> the thing is, we decided to at least use semver now
+[2015/12/07 14:29:49] <brmbrmcar> Where are those logs?
+[2015/12/07 14:29:58] <mt> on my server
