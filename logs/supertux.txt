@@ -18099,3 +18099,59 @@
 [2015/12/07 14:55:48] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95425604
 [2015/12/07 14:56:20] <maths22> 12 pending builds: https://travis-ci.org/SuperTux/supertux/builds/95426267
 [2015/12/07 14:56:55] <Not-e81f> [02supertux] 04Error. AppVeyor build cancelled - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/82
+[2015/12/07 15:01:08] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:01:16] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:01:23] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:01:25] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:01:26] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:05:17] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:05:19] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:05:21] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:05:23] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:05:24] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:05:32] <leper`> those builds are quite noisy, is there a way to group them a bit (or not spam the same thing N times)?
+[2015/12/07 15:05:45] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:05:47] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:05:48] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:05:49] <maths22> leper`: This doesn't normally happen (well, the error one does, but not the pending one
+[2015/12/07 15:06:05] <maths22> Travis is currently having some issues, which may explain the noise
+[2015/12/07 15:06:12] <leper`> ah
+[2015/12/07 15:06:36] <leyyin> this channel is spammy ;)
+[2015/12/07 15:06:41] <leyyin> they like the taste of spam
+[2015/12/07 15:06:42] <maths22> (The error was because I canceled the build I started too early)
+[2015/12/07 15:07:04] <maths22> leyyin: I don't like spam, but I can't get rid of it without getting rid of stuff we want :(
+[2015/12/07 15:07:07] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:07:08] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:07:10] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:07:11] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:07:22] <maths22> Finally, some builds actually started (on os x)
+[2015/12/07 15:07:22] <leyyin> what stuff?
+[2015/12/07 15:07:35] <leper`> leyyin: the spam :P
+[2015/12/07 15:07:38] <leyyin> I do not now why do you need so much info from github tbh
+[2015/12/07 15:07:57] <Not-e81f> [02supertux] 07leyyin starred 03supertux - 13http://git.io/vIwY1
+[2015/12/07 15:08:00] <leyyin> like this ^
+[2015/12/07 15:08:17] <maths22> leyyin: We don't, but until we feel like making our own solution, our choices are too much or too little
+[2015/12/07 15:08:36] <maths22> leyyin: We can't turn that off (I believe) without turning off most of the other github stuff
+[2015/12/07 15:08:44] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:08:46] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:08:47] <maths22> Like issues and commits, which we do want
+[2015/12/07 15:08:48] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:08:55] <leyyin> ok boy
+[2015/12/07 15:08:57] <leyyin> *oh boy
+[2015/12/07 15:09:04] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:09:05] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:09:07] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:09:07] <leyyin> Not-e81f, go die :D
+[2015/12/07 15:09:08] <leper`> that does sound bad
+[2015/12/07 15:09:25] <leper`> maybe have a filter on the messages the bot sends and just filter out some of the useless ones?
+[2015/12/07 15:09:30] <leper`> (or repeated ones)
+[2015/12/07 15:09:57] <maths22> leper`: I will say it is not nearly this bad most days-it seems to have lost its mind
+[2015/12/07 15:10:19] <leper`> I know, it just seems quite bad today
+[2015/12/07 15:10:29] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:10:56] <leyyin> *quite bad since I can remember :P
+[2015/12/07 15:11:00] <leyyin> just saying
+[2015/12/07 15:11:59] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:12:26] <maths22> The travis stuff is because travis keeps changing build state as a result of https://www.traviscistatus.com/ even when nothing actually happens
+[2015/12/07 15:13:01] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/83
+[2015/12/07 15:13:50] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95426267
+[2015/12/07 15:14:18] <maths22> If I had the permissions, I would temporarily kick Not-e81f, but I don't
