@@ -17613,3 +17613,11 @@
 [2015/12/07 11:27:58] <head8debian> heh.
 [2015/12/07 11:28:20] <Tobbi> head8debian: You know, I left my xmas lights out the whole year just to annoy them. A goat in the garden might be a new low.
 [2015/12/07 11:29:33] <Tobbi> head8debian: Do we need a proper bank account if we were to accept donations?
+[2015/12/07 11:34:31] <brmbrmcar> You need one with 800% intrest. :D
+[2015/12/07 11:35:42] <head8debian> \o/
+[2015/12/07 11:37:25] <brmbrmcar>  /o\
+[2015/12/07 11:42:59] <maths22> http://supertuxproject.org/
+[2015/12/07 11:43:12] <maths22> (It currently just points to the github pages repository)
+[2015/12/07 11:43:26] <brmbrmcar> Awesome!
+[2015/12/07 11:44:15] @ Karkus joined channel #supertux
+[2015/12/07 11:44:40] <maths22> Download urls coming up soon
