@@ -19335,3 +19335,5 @@
 [2015/12/08 17:27:06] <Not-e81f> [02flexlay] 07tobbi pushed 031 commit to 03develop [+0/-0/±2] 13http://git.io/vRHWN
 [2015/12/08 17:27:07] <Not-e81f> [02flexlay] 07Tobias Markus 03d33c05a - Move tileset_path setting to level.py
 [2015/12/08 17:27:34] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/12/08 17:32:30] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/12/08 17:35:19] @ tuxdev_ joined channel #supertux
