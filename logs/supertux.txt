@@ -19200,3 +19200,31 @@
 [2015/12/08 13:28:59] <brmbrmcar> Means "I will finish it soon"
 [2015/12/08 13:29:27] <Hume2> Tell me something about that.
 [2015/12/08 13:29:58] <brmbrmcar> Er... there are virtually  no grammar rules...
+[2015/12/08 13:30:31] <brmbrmcar> I don'y know.
+[2015/12/08 13:30:33] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#9: Background Images Don't Show in Editor - 13http://git.io/vRSj3
+[2015/12/08 13:31:05] <Hume2> Anything C++ related?
+[2015/12/08 13:31:22] <Karkus> Hume2: What _Programming_ languages do you know?
+[2015/12/08 13:31:28] <brmbrmcar> I could try an convert a C file...
+[2015/12/08 13:31:32] <brmbrmcar> Or C++
+[2015/12/08 13:32:37] <Hume2> Convert C file?
+[2015/12/08 13:33:14] <brmbrmcar> OK.
+[2015/12/08 13:33:17] <brmbrmcar> Which one?
+[2015/12/08 13:34:45] <Hume2> What do you think by converting C file? Convert C to what?
+[2015/12/08 13:35:17] <brmbrmcar> My language...
+[2015/12/08 13:35:50] <Hume2> What is that good for?
+[2015/12/08 13:36:25] <brmbrmcar> I was asked to create it...
+[2015/12/08 13:36:44] <brmbrmcar> But I need something to convert from until I can start being creative.
+[2015/12/08 13:36:54] <Hume2> Don't you know that it was a trol?
+[2015/12/08 13:37:15] <brmbrmcar> A trol?
+[2015/12/08 13:37:48] <Hume2> Who has asked you to create it?
+[2015/12/08 13:38:14] <brmbrmcar> It was discusserd that I would be asked while I was offline.
+[2015/12/08 13:38:20] <brmbrmcar> So I asked them.
+[2015/12/08 13:38:27] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#46: Show Name of Level Being Edited in Window Title - 13http://git.io/vR9vh
+[2015/12/08 13:38:28] <Not-e81f> [02flexlay] 07Karkus476 opened issue 03#46: Show Name of Level Being Edited in Window Title - 13http://git.io/vR9vh
+[2015/12/08 13:38:30] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#46: Show Name of Level Being Edited in Window Title - 13http://git.io/vR9vh
+[2015/12/08 13:38:31] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#46: Show Name of Level Being Edited in Window Title - 13http://git.io/vR9vh
+[2015/12/08 13:40:08] <Hume2> They were just kidding. Don't you recognize it?
+[2015/12/08 13:40:13] <brmbrmcar> http://paste.ubuntu.com/13831244/
+[2015/12/08 13:40:29] <brmbrmcar> That is what was discussed.
+[2015/12/08 13:42:03] <Hume2> This is definitely a trol.
+[2015/12/08 13:42:10] <brmbrmcar> OK.
