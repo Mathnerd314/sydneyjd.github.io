@@ -18866,3 +18866,70 @@
 [2015/12/08 09:59:24] <head8debian> If duckduckgo is right, 100kg is 220LBs.
 [2015/12/08 09:59:33] <jesusalva> I think an american weights about 70~80kg, not sure.
 [2015/12/08 10:00:01] <jesusalva> Maybe more.
+[2015/12/08 10:00:59] <head8debian> Yeah, average for men is is about 80kg.
+[2015/12/08 10:01:17] <head8debian> Im roughly 70kg, i think.
+[2015/12/08 10:02:14] <head8debian> 80kg is fat? o_O We consider that quite skinny.
+[2015/12/08 10:02:17] <jesusalva> Makes sense.
+[2015/12/08 10:02:57] <head8debian> Are Brazilians just bones with skin stretched on top? :)
+[2015/12/08 10:03:00] <head8debian> No insult. ;)
+[2015/12/08 10:03:04] <jesusalva> I wonder what I am. :/
+[2015/12/08 10:03:13] <jesusalva> I'm thin on my country.
+[2015/12/08 10:03:45] <jesusalva> head8debian: I think that's correct. I'm about 88 pounds.
+[2015/12/08 10:04:06] <head8debian> jesusalva: How tall are you?
+[2015/12/08 10:04:20] <jesusalva> Hm. About 1.7meters. And you?
+[2015/12/08 10:04:30] <head8debian> Ugg, conversions. :)
+[2015/12/08 10:04:37] <jesusalva> Yep, same here.
+[2015/12/08 10:04:46] <jesusalva> Is it difficult to not use SI? :/
+[2015/12/08 10:05:21] <head8debian> Im roughtly 1.85meters
+[2015/12/08 10:05:38] <head8debian> jesusalva: You must be a rack of bones, IMO. :)
+[2015/12/08 10:05:50] <head8debian> No insult intended. :)
+[2015/12/08 10:05:57] <jesusalva> I'm skinny, that's for sure. :/
+[2015/12/08 10:06:07] * jesusalva assumes he understood the word.
+[2015/12/08 10:06:14] <head8debian> We just don't have that many people your age and height that weigh so little.
+[2015/12/08 10:06:27] <jesusalva> Same here. ;D
+[2015/12/08 10:06:29] <head8debian> But your fine. ;)
+[2015/12/08 10:06:37] <jesusalva> Most weight between 50~60kg.
+[2015/12/08 10:06:56] <head8debian> Which is still quite light.
+[2015/12/08 10:06:56] <jesusalva> Hmm... 110 to 132 lb
+[2015/12/08 10:07:07] <head8debian> Compared to us Americans, anyways. ;)
+[2015/12/08 10:07:37] <jesusalva> Yes, I'm not really sure 'cause I don't go asking everyones weight. After all, about 80% of my class is composed of girls. Our class have 41 students.
+[2015/12/08 10:07:54] <jesusalva> Which is annoying 'cause 41 cannot be divided, except by 1 and 41.
+[2015/12/08 10:08:10] <head8debian> jesusalva: Ah. Girls are generally lighter, or they try to be anyways. Heh. :)
+[2015/12/08 10:08:24] <jesusalva> A student with 65kg is not fat. About 143 lb.
+[2015/12/08 10:08:34] <head8debian> No, definately not.
+[2015/12/08 10:08:59] <head8debian> jesusalva: How did we get on this subject? :p
+[2015/12/08 10:09:05] <jesusalva> I'm pretty sure my parents have about 70 kg, on most 80.
+[2015/12/08 10:09:10] * jesusalva reads logs
+[2015/12/08 10:09:14] <head8debian> Oh, yes, i remember. ;)
+[2015/12/08 10:09:20] <head8debian> lol.
+[2015/12/08 10:09:31] <jesusalva> We were on summer time.
+[2015/12/08 10:09:46] <jesusalva> And then you commented an incident.
+[2015/12/08 10:09:54] <head8debian> :-0
+[2015/12/08 10:09:56] <head8debian> )
+[2015/12/08 10:09:58] <head8debian> ***
+[2015/12/08 10:10:14] <jesusalva> Which a "car of 90 kg (fat for sure) got on you"
+[2015/12/08 10:10:25] * jesusalva is not being serious
+[2015/12/08 10:10:38] <head8debian> What? :-0
+[2015/12/08 10:10:39] <head8debian> )*
+[2015/12/08 10:10:42] <jesusalva> We use 'truck', but I'm not sure how that would sound for you.
+[2015/12/08 10:11:05] <head8debian> jesusalva: I prefer the word "truck" over car... mainly because i don't want to drive a car. :)
+[2015/12/08 10:11:14] <jesusalva> Managed to sell it?
+[2015/12/08 10:11:24] <head8debian> jesusalva: Hmm?
+[2015/12/08 10:11:35] <jesusalva> You were trying to sell it some time ago.
+[2015/12/08 10:11:38] <jesusalva> If I'm not mistaken.
+[2015/12/08 10:12:08] <head8debian> jesusalva: You're correct. Yes, i did manage to sell it.
+[2015/12/08 10:12:22] <jesusalva> My memory is doubled. I have one doing something important (talk to you) and another who just shuffles though memory log files. So I remember random things even if it's not what I want.
+[2015/12/08 10:12:24] <head8debian> jesusalva: Actually, ive had 2 cars that ive fixed up and managed to sell.
+[2015/12/08 10:12:35] <jesusalva> By example, I need to complete ST translations.
+[2015/12/08 10:12:42] <head8debian> jesusalva: Im working on another car ATM.
+[2015/12/08 10:12:45] <head8debian> :-)
+[2015/12/08 10:12:48] <jesusalva> :)
+[2015/12/08 10:13:22] <jesusalva> How much you gain on that? After all, you have costs getting the broken car and fixing it.
+[2015/12/08 10:13:38] <head8debian> jesusalva: I made $300 on my last car.
+[2015/12/08 10:13:53] <head8debian> jesusalva: But they are quite time consuming to fix and sell. ;)
+[2015/12/08 10:13:54] <jesusalva> That's over R$ 1,000
+[2015/12/08 10:14:20] <head8debian> jesusalva: Hmm? Is that your currency?
+[2015/12/08 10:14:23] <jesusalva> About an average monthly paycheck.
+[2015/12/08 10:14:37] <jesusalva> Yes. 'Real'. Tranlated, real or royal, both are correct.
+[2015/12/08 10:14:37] <head8debian> jesusalva: Wow.
+[2015/12/08 10:15:01] <head8debian> jesusalva: $300 up here is a weekly pay check.
