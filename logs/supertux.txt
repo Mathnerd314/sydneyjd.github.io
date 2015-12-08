@@ -18728,3 +18728,8 @@
 [2015/12/07 19:02:55] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95469187
 [2015/12/07 19:03:03] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95469187
 [2015/12/07 19:13:18] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/93
+[2015/12/07 19:16:21] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95472584
+[2015/12/07 19:18:50] <Tobbi> Alright, good night everyone.
+[2015/12/07 19:19:06] @ Quit: Tobbi: 
+[2015/12/07 19:21:56] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/95469187
+[2015/12/07 19:28:25] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/95472584
