@@ -19089,3 +19089,22 @@
 [2015/12/08 11:56:34] <brmbrmcar> After then?
 [2015/12/08 11:57:29] <brmbrmcar> I can sort that out, but I want more info.
 [2015/12/08 11:57:37] <brmbrmcar> Generally.
+[2015/12/08 12:00:54] <Karkus> brmbrmcar: It needs to be more obvious where you're supposed to go
+[2015/12/08 12:01:21] <Karkus> it needs to be a bit smoother
+[2015/12/08 12:02:06] <brmbrmcar> OK.
+[2015/12/08 12:02:32] <brmbrmcar> I'll put up some signs and move the badguys back.
+[2015/12/08 12:05:20] <Karkus> Also, make the terrain more organised and natural. Fewer jagged egdes and floating platforms
+[2015/12/08 12:06:03] <Not-e81f> [02flexlay] 07Karkus476 opened issue 03#45: Offer Some Basic Level Templates - 13http://git.io/vRS8S
+[2015/12/08 12:06:28] @ Hume2 joined channel #supertux
+[2015/12/08 12:08:21] <Karkus> Hello Hume2!
+[2015/12/08 12:11:01] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2015/12/08 12:11:31] <mt> what's up with notificos configuration?
+[2015/12/08 12:12:31] <Karkus> mt: Huh?
+[2015/12/08 12:12:51] <mt> re: I have a monopoly on its configuration
+[2015/12/08 12:12:59] <mt> somewhere in my backlog
+[2015/12/08 12:13:38] <Karkus> mt: Are you speaking to me? I am very confused.
+[2015/12/08 12:13:42] <mt> nope
+[2015/12/08 12:13:52] <mt> I'm speaking to everyone who talked about that
+[2015/12/08 12:14:13] <Karkus> mt: The configuration isn't great
+[2015/12/08 12:14:50] <brmbrmcar> Improved version http://paste.ubuntu.com/13828893/
+[2015/12/08 12:14:53] <mt> I can't change anything more than: parts of the message format, which branches to announce commits from, which channels to notify and what endpoints it should accept notifications on
