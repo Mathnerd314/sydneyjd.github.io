@@ -18789,3 +18789,29 @@
 [2015/12/08 09:09:03] @ Quit: giby: Read error: Connection reset by peer
 [2015/12/08 09:12:29] @ Tobbi joined channel #supertux
 [2015/12/08 09:12:30] @ Mode +o Tobbi by ChanServ
+[2015/12/08 09:23:13] <head8debian> ~figlet 12 DAYS!
+[2015/12/08 09:23:13] <red_bot>   ___ ___    ___   ___ __  __ ____ __
+[2015/12/08 09:23:13] <red_bot>  <  /|_  |  / _ \ / _ |\ \/ // __// /
+[2015/12/08 09:23:13] <red_bot>  / // __/  / // // __ | \  /_\ \ /_/ 
+[2015/12/08 09:23:13] <red_bot> /_//____/ /____//_/ |_| /_//___/(_)
+[2015/12/08 09:23:27] <head8debian> Good morning jesusalva.
+[2015/12/08 09:23:40] <jesusalva> Good afternoon head8debian
+[2015/12/08 09:23:50] <jesusalva> 12:21:20 here
+[2015/12/08 09:24:01] <head8debian> jesusalva: Your that far ahead in time zones? o_O
+[2015/12/08 09:24:12] <jesusalva> No, but summer time just started.
+[2015/12/08 09:24:21] <jesusalva> So now we are... 2 hours different, right?
+[2015/12/08 09:24:22] @ Quit: Tobbi: Ping timeout: 272 seconds
+[2015/12/08 09:24:38] <jesusalva> There is 10:21, when I woke up, correct?
+[2015/12/08 09:25:18] <head8debian> jesusalva: Well, we have daylight savings time, so its now 9:22.
+[2015/12/08 09:26:01] <jesusalva> So. Summer time. You go one hour backwards? I go one hour foward. So now I'm on GMT -0200.
+[2015/12/08 09:26:07] <jesusalva> When usual is GMT -0300.
+[2015/12/08 09:26:54] <jesusalva> This makes easier to talk with people like Tobbi and giby, as they usually are on GMT +0200 timezone.
+[2015/12/08 09:27:03] <jesusalva> The difference goes from 5 to 4 hours.
+[2015/12/08 09:27:14] <head8debian> jesusalva: We go forward one hour in spring and back one in fall. I hate it.
+[2015/12/08 09:27:33] <jesusalva> Same here.
+[2015/12/08 09:27:43] <jesusalva> However I learnt to like it.
+[2015/12/08 09:28:13] <jesusalva> All right you'll never get used to time. When you finally understand time, it changes again.
+[2015/12/08 09:28:34] <jesusalva> So I read by sun ("The sun is marking 13:00") and then I add one on summertime.
+[2015/12/08 09:29:00] <jesusalva> A lot of people who I know dislikes it too. Some like because they get home "ealier"
+[2015/12/08 09:29:13] <jesusalva> Others dislike because then they wake up on dark.
+[2015/12/08 09:29:56] <jesusalva> And some dislikes even more because they work 'till the sun set. (Not allowed per law) And that way the sun takes longer to set (it takes longer to set on summer anyway)
