@@ -19328,3 +19328,10 @@
 [2015/12/08 16:40:05] @ brmbrmcar joined channel #supertux
 [2015/12/08 16:40:26] <brmbrmcar> Two Tiny Towersis in duplicated...
 [2015/12/08 17:14:28] @ tux|dude joined channel #supertux
+[2015/12/08 17:16:13] <Not-e81f> [02flexlay] 07tobbi pushed 031 commit to 03develop [+0/-0/±3] 13http://git.io/vRHnk
+[2015/12/08 17:16:15] <Not-e81f> [02flexlay] 07Tobias Markus 03e281618 - Take tileset setting into account
+[2015/12/08 17:24:30] @ Quit: brmbrmcar: Ping timeout: 256 seconds
+[2015/12/08 17:26:41] @ brmbrmcar joined channel #supertux
+[2015/12/08 17:27:06] <Not-e81f> [02flexlay] 07tobbi pushed 031 commit to 03develop [+0/-0/±2] 13http://git.io/vRHWN
+[2015/12/08 17:27:07] <Not-e81f> [02flexlay] 07Tobias Markus 03d33c05a - Move tileset_path setting to level.py
+[2015/12/08 17:27:34] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
