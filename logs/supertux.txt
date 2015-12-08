@@ -19252,3 +19252,10 @@
 [2015/12/08 14:57:50] @ ced117 joined channel #supertux
 [2015/12/08 15:21:07] @ Quit: maths22: Ping timeout: 250 seconds
 [2015/12/08 15:27:49] @ maths22 joined channel #supertux
+[2015/12/08 15:39:00] @ Tobbi joined channel #supertux
+[2015/12/08 15:39:01] @ Mode +o Tobbi by ChanServ
+[2015/12/08 15:40:01] <Tobbi> Oh, no Karkus.
+[2015/12/08 15:42:10] <Tobbi> For the record: Yes, I think brmbrmcar is clever enough to create a programming language.
+[2015/12/08 15:44:24] <Not-e81f> [02supertux] 07tobbi pushed 033 commits to 03coverity_scan [+0/-0/±3] 13http://git.io/vR9Qk
+[2015/12/08 15:44:25] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95663091
+[2015/12/08 15:44:27] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/96
