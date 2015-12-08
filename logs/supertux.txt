@@ -18977,3 +18977,27 @@
 [2015/12/08 10:25:20] <jesusalva> Total time spent: 1 hour and 1 minute.
 [2015/12/08 10:29:16] @ tuxdev_ joined channel #supertux
 [2015/12/08 10:29:51] <maths22> (I just tested-it works in wine)
+[2015/12/08 10:30:13] <maths22> Is anyone online right now to test the windows or os x builds on their machine?
+[2015/12/08 10:31:24] * jesusalva uses Ubuntu 14.04 and haves no windows.
+[2015/12/08 10:32:04] * jesusalva uses wine at most. And mess with DLL libraries for best performance possible.
+[2015/12/08 10:33:09] <maths22> jesusalva: Fair.  Actually, can you see if the Windows build runs in wine for you?
+[2015/12/08 10:33:22] <jesusalva> Where can I get it?
+[2015/12/08 10:33:28] <maths22> brmbrmcar seemed to be having issues
+[2015/12/08 10:33:33] <maths22> http://download.supertuxproject.org/downloads/SuperTux-0.3.5.556-win32.msi
+[2015/12/08 10:34:56] @ brmbrmcar joined channel #supertux
+[2015/12/08 10:35:59] <brmbrmcar> AWESOME!!!
+[2015/12/08 10:36:51] <head8debian> maths22: I can test it in both wine and windows.
+[2015/12/08 10:37:01] <head8debian> windows 10, that is.
+[2015/12/08 10:37:53] <maths22> head8debian: If you could, that would be great
+[2015/12/08 10:38:44] <head8debian> If it opens i figure everything is OK. :)
+[2015/12/08 10:39:54] <maths22> head8debian: Can you check if it lets you install an addon
+[2015/12/08 10:40:13] <brmbrmcar> Where's the startup file now?
+[2015/12/08 10:40:13] <head8debian> I will, its still downloading.
+[2015/12/08 10:40:19] <maths22> I think I fixed that last night, but I want to make sure the fix is in the build
+[2015/12/08 10:40:34] <brmbrmcar> ITS WORKING
+[2015/12/08 10:40:37] <maths22> brmbrmcar: C:/Program Files/SuperTux/bin/supertux2.exe (I think)
+[2015/12/08 10:41:35] <maths22> brmbrmcar: Great!
+[2015/12/08 10:42:02] <brmbrmcar> I am over-excited. :D
+[2015/12/08 10:42:13] <maths22> Excited is good
+[2015/12/08 10:44:24] <head8debian> maths22: How do you open a .msi? Just like a .exe?
+[2015/12/08 10:44:30] <brmbrmcar> Yeah
