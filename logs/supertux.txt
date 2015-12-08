@@ -18815,3 +18815,9 @@
 [2015/12/08 09:29:00] <jesusalva> A lot of people who I know dislikes it too. Some like because they get home "ealier"
 [2015/12/08 09:29:13] <jesusalva> Others dislike because then they wake up on dark.
 [2015/12/08 09:29:56] <jesusalva> And some dislikes even more because they work 'till the sun set. (Not allowed per law) And that way the sun takes longer to set (it takes longer to set on summer anyway)
+[2015/12/08 09:30:43] <jesusalva> After all, day is bigger on summer, and night is bigger on winter, and only on the first day of spring/fall they have the same length, correct, head8debian?
+[2015/12/08 09:41:10] @ alket joined channel #supertux
+[2015/12/08 09:41:24] @ Quit: datahead7777: Ping timeout: 250 seconds
+[2015/12/08 09:43:51] <head8debian> jesusalva: True.
+[2015/12/08 09:44:07] <head8debian> jesusalva: I don't like getting up when its so dark. :)
+[2015/12/08 09:44:48] <jesusalva> Haha! Thankfully, during over half of it, I'm on vacations and can wake up late. ;)
