@@ -18776,3 +18776,5 @@
 [2015/12/08 04:40:07] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95535481
 [2015/12/08 04:55:43] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/95
 [2015/12/08 04:56:08] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/95535481
+[2015/12/08 05:18:36] @ Quit: maths22: Ping timeout: 256 seconds
+[2015/12/08 05:22:22] @ maths22 joined channel #supertux
