@@ -19246,3 +19246,6 @@
 [2015/12/08 14:24:48] <Not-e81f> [02flexlay] 07Karkus476 commented on issue 03#35: Can't Edit Worldmap Files - 13http://git.io/vR9CG
 [2015/12/08 14:26:32] <Not-e81f> [02flexlay] 07Karkus476 opened issue 03#47: Refresh editor after tileset change - 13http://git.io/vR9Cj
 [2015/12/08 14:28:19] @ Quit: Karkus: Quit: Division By Zero
+[2015/12/08 14:32:10] @ Quit: alket: Ping timeout: 272 seconds
+[2015/12/08 14:32:31] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/12/08 14:41:26] <Not-e81f> [02flexlay] 07brmbrmcar commented on issue 03#47: Refresh editor after tileset change - 13http://git.io/vR9EU
