@@ -19327,3 +19327,4 @@
 [2015/12/08 16:38:30] <maths22> The one thing I still need to do is make a way for release tarballs to detect their version.
 [2015/12/08 16:40:05] @ brmbrmcar joined channel #supertux
 [2015/12/08 16:40:26] <brmbrmcar> Two Tiny Towersis in duplicated...
+[2015/12/08 17:14:28] @ tux|dude joined channel #supertux
