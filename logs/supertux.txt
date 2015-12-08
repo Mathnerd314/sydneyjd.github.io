@@ -18764,3 +18764,5 @@
 [2015/12/08 01:22:25] @ datahead7777 joined channel #supertux
 [2015/12/08 01:54:44] @ tux|dude joined channel #supertux
 [2015/12/08 02:34:33] @ Quit: tuxdev_: Ping timeout: 250 seconds
+[2015/12/08 02:48:50] @ brmbrmcar joined channel #supertux
+[2015/12/08 02:49:57] <brmbrmcar> So Wine is never going to work?
