@@ -19045,3 +19045,9 @@
 [2015/12/08 11:12:35] <leyyin> my smaller laptop, archlinux
 [2015/12/08 11:13:07] <maths22> OK
 [2015/12/08 11:14:17] <leyyin> also I have windows 10 on my desktop, for gaming :P
+[2015/12/08 11:17:56] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#234: Making Tux air or earth on death displays hat - 13http://git.io/vRypr
+[2015/12/08 11:18:49] <leyyin> maths22, you? gentoo? :P
+[2015/12/08 11:19:19] <maths22> leyyin: Dual boot Windows 10 and Fedora (used to be Ubuntu)
+[2015/12/08 11:21:28] <leyyin> did not use rpm based distro in years :)
+[2015/12/08 11:24:00] <brmbrmcar> What the hell happened wityh Two Tiny Towers?
+[2015/12/08 11:24:21] <brmbrmcar> Must have been when the filenames changed.
