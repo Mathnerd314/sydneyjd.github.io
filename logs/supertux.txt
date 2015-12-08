@@ -19051,3 +19051,25 @@
 [2015/12/08 11:21:28] <leyyin> did not use rpm based distro in years :)
 [2015/12/08 11:24:00] <brmbrmcar> What the hell happened wityh Two Tiny Towers?
 [2015/12/08 11:24:21] <brmbrmcar> Must have been when the filenames changed.
+[2015/12/08 11:34:50] <brmbrmcar> Wow, incubator island is big...
+[2015/12/08 11:36:47] <maths22> brmbrmcar: And a lot harder than it was
+[2015/12/08 11:36:54] @ Karkus joined channel #supertux
+[2015/12/08 11:37:03] <maths22> brmbrmcar: Do addon downloads work in wine?
+[2015/12/08 11:37:17] <maths22> Karkus: Good news: the Windows build works in wine (at least in some cases)
+[2015/12/08 11:37:48] <maths22> Bad news: the open GL issue is probably not fixable in software-Microsoft Outlook apparently suffers from the same issue
+[2015/12/08 11:38:17] <leyyin> why do you need the windows build to run on wine ;) ?
+[2015/12/08 11:38:36] <leyyin> seems completely pointless
+[2015/12/08 11:41:09] <brmbrmcar> maths22: I'll check.
+[2015/12/08 11:41:31] <brmbrmcar> I used my old .supertux2 files...
+[2015/12/08 11:41:49] <maths22> leyyin: I don't actually care
+[2015/12/08 11:42:00] <brmbrmcar> I can't do language packs.
+[2015/12/08 11:42:02] <maths22> brmbrmcar seemed interested, so I figured I would check
+[2015/12/08 11:42:10] <maths22> brmbrmcar: What error?
+[2015/12/08 11:42:51] <brmbrmcar> schannel: failed to setup sequence direction
+[2015/12/08 11:43:16] <brmbrmcar> Same for addons Check Online.
+[2015/12/08 11:43:59] <maths22> brmbrmcar: That is a wine/curl error
+[2015/12/08 11:44:18] <Karkus> maths22: Yay, now I can run SuperTux on Wine.
+[2015/12/08 11:44:26] <maths22> It works with native windows schannel, so I won't worry about it too much for now
+[2015/12/08 11:44:36] <maths22> Karkus: Apparently addons don't work (the curl downloading part)
+[2015/12/08 11:44:43] <leyyin> Karkus, like trying to use a hammer to clean dishes ;)
+[2015/12/08 11:44:47] <brmbrmcar> OK.
