@@ -18933,3 +18933,47 @@
 [2015/12/08 10:14:37] <jesusalva> Yes. 'Real'. Tranlated, real or royal, both are correct.
 [2015/12/08 10:14:37] <head8debian> jesusalva: Wow.
 [2015/12/08 10:15:01] <head8debian> jesusalva: $300 up here is a weekly pay check.
+[2015/12/08 10:15:02] <jesusalva> Actually it's most common either 1,000 or 2,000. Depends on job.
+[2015/12/08 10:15:33] <jesusalva> head8debian: And we were the 7th in economics. ;D
+[2015/12/08 10:15:34] <head8debian> jesusalva: But mind you that half of it goes to taxes...
+[2015/12/08 10:15:41] <head8debian> :-)
+[2015/12/08 10:15:54] <head8debian> Our economy is not doing so well ATM. :0
+[2015/12/08 10:15:55] <head8debian> )*
+[2015/12/08 10:16:00] <jesusalva> head8debian: IRRF, 27.5% of taxes taken before you get your money.
+[2015/12/08 10:16:16] <head8debian> Its about 33% here.
+[2015/12/08 10:16:30] <head8debian> Plus 15% on top of that.
+[2015/12/08 10:16:38] <head8debian> Or was it 12%?
+[2015/12/08 10:16:41] <jesusalva> And then you pay the IR, a parent of IRRF, which is the 'on top of that'.
+[2015/12/08 10:16:48] <jesusalva> Not sure about the taxes of it.
+[2015/12/08 10:17:05] <head8debian> m not the greatest with taxes, but they do add up.
+[2015/12/08 10:17:10] <head8debian> I'm*
+[2015/12/08 10:17:25] <jesusalva> There is also INSS, about 11%, but it stops increasing after R$ 4663.75.
+[2015/12/08 10:17:50] <head8debian> jesusalva: As a dairy farm we go through over 20,000$ a month, but almost all of it goes to pay bills.
+[2015/12/08 10:17:50] <jesusalva> So if you gain over that amount, you pay the same INSS. In other way, you pay more IRRF with worser taxes.
+[2015/12/08 10:17:56] <head8debian> Ah.
+[2015/12/08 10:18:24] <jesusalva> Politicans like to create names for taxes. INSS. IRRF. IR. IPTU. ICMS. And the list goes on.
+[2015/12/08 10:18:29] <head8debian> Cows are expensive critters to feed and bed and take care of. :)
+[2015/12/08 10:18:46] <jesusalva> Forgot IPVA.
+[2015/12/08 10:18:55] <head8debian> Heh, yes, names.
+[2015/12/08 10:19:02] <jesusalva> Most start with 'I', 'Imposto' (Tax)
+[2015/12/08 10:20:01] <jesusalva> Tax of social previdence. Tax over income. Tax over income reatined on source. Tax over residence. Tax over commercial operation. Tax over authomobilistc vehicle. Tax over profission.
+[2015/12/08 10:20:13] <jesusalva> They forgot to create 'Tax over breathed air'
+[2015/12/08 10:20:24] <head8debian> jesusalva: I was jsut going to say that.
+[2015/12/08 10:20:29] <jesusalva> But they did a tax over water. It comes on your water bill.
+[2015/12/08 10:20:45] <jesusalva> head8debian: I know, I read your mind. ;)
+[2015/12/08 10:20:54] <head8debian> jesusalva: As my dad says, if they can tax you for it the *will* tax you for it.
+[2015/12/08 10:21:01] <head8debian> j...
+[2015/12/08 10:21:04] <head8debian> jesusalva: ...
+[2015/12/08 10:21:11] <jesusalva> I agree.
+[2015/12/08 10:21:47] <jesusalva> If you see the reunions, subject is: "Rename street 25 to street John of Debian Sourcehat".
+[2015/12/08 10:22:07] <jesusalva> And they spend the whole day discussing and the conclusion: We talk about it on next reunion.
+[2015/12/08 10:22:16] <head8debian> heh.
+[2015/12/08 10:22:44] <jesusalva> Recess. We meet next week for our next reunion. Util then you're free to do whatever you want. You probably don't even need to go t/here.
+[2015/12/08 10:23:41] <jesusalva> And not to say that they don't work on July, and probably on December and January as well. If I record well, about 45 days of recess on July month.
+[2015/12/08 10:23:49] * jesusalva is not sure though.
+[2015/12/08 10:24:33] <head8debian> Anyways, i need to get some school done. Nice talking to you again jesusalva. :)
+[2015/12/08 10:24:45] <jesusalva> Nice for me too. See you. ;)
+[2015/12/08 10:24:56] * jesusalva just had a lunch.
+[2015/12/08 10:25:20] <jesusalva> Total time spent: 1 hour and 1 minute.
+[2015/12/08 10:29:16] @ tuxdev_ joined channel #supertux
+[2015/12/08 10:29:51] <maths22> (I just tested-it works in wine)
