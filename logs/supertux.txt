@@ -19001,3 +19001,35 @@
 [2015/12/08 10:42:13] <maths22> Excited is good
 [2015/12/08 10:44:24] <head8debian> maths22: How do you open a .msi? Just like a .exe?
 [2015/12/08 10:44:30] <brmbrmcar> Yeah
+[2015/12/08 10:45:53] <maths22> head8debian: Is this question for wine or Windows 10?
+[2015/12/08 10:47:21] <head8debian> maths22: Ive got it. Wine. ;)
+[2015/12/08 10:47:29] <head8debian> Wine is clunky in a terminal, well somewhat.
+[2015/12/08 10:48:17] <maths22> I agree
+[2015/12/08 10:48:29] <head8debian> maths22: https://paste.debian.net/342272/
+[2015/12/08 10:49:07] <maths22> head8debian: What linux distro?
+[2015/12/08 10:49:11] <head8debian> maths22:Arch.
+[2015/12/08 10:49:24] <maths22> You need to install lib32-libldap or the equivalent for your platform
+[2015/12/08 10:49:44] <maths22> That is Wine saying it can't load the necessary linux library to load the windows dll
+[2015/12/08 10:49:51] <head8debian> Ah.
+[2015/12/08 10:50:03] <maths22> (Why CURL has an ldap dependency I don't know, but the ldap dll is built into windows)
+[2015/12/08 10:50:14] <head8debian> Ok, installed, now i have anotehr error. :)
+[2015/12/08 10:50:27] <head8debian> another*
+[2015/12/08 10:50:38] <maths22> Send it over
+[2015/12/08 10:50:46] <head8debian> maths22: https://paste.debian.net/342273/
+[2015/12/08 10:50:53] <head8debian> Figners only move so fast. :d
+[2015/12/08 10:50:56] <head8debian> :d
+[2015/12/08 10:51:00] <head8debian> Fingers*
+[2015/12/08 10:51:03] <head8debian> :D*
+[2015/12/08 10:51:50] * head8debian headbangs...
+[2015/12/08 10:52:07] <maths22> What wine version is this?
+[2015/12/08 10:52:38] <head8debian> maths22: 1.8
+[2015/12/08 10:53:16] <head8debian> In other words, the latest version.
+[2015/12/08 10:53:34] <maths22> Interesting.  It seems to work on 1.6 (in my Debian VM)
+[2015/12/08 10:55:40] <maths22> Is this 32 or 64 bit wine
+[2015/12/08 10:56:48] <head8debian> maths22: I belive 64 bit.
+[2015/12/08 10:57:04] <maths22> Also, can you paste the list of files in drive_c/Program Files (x86)/SuperTux/bin
+[2015/12/08 10:57:52] <maths22> And tell me what Windows version your winecfg is set to?
+[2015/12/08 10:58:41] <head8debian> maths22: Its set to windows XP.
+[2015/12/08 10:58:53] <head8debian> maths22: https://paste.debian.net/342281/
+[2015/12/08 10:59:14] <head8debian> Ok, now set to windows 8.
+[2015/12/08 10:59:17] <head8debian> No changes.
