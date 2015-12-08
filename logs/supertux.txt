@@ -18759,3 +18759,6 @@
 [2015/12/08 00:43:12] <maths22>  Bascially, I'm done with Windows!
 [2015/12/08 00:57:02] @ Quit: paroneay`: Remote host closed the connection
 [2015/12/08 00:58:14] @ paroneayea joined channel #supertux
+[2015/12/08 01:15:04] @ tuxdev_ joined channel #supertux
+[2015/12/08 01:22:08] @ Quit: datahead7777: Read error: Connection reset by peer
+[2015/12/08 01:22:25] @ datahead7777 joined channel #supertux
