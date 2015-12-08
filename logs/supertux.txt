@@ -19338,3 +19338,9 @@
 [2015/12/08 17:32:30] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/12/08 17:35:19] @ tuxdev_ joined channel #supertux
 [2015/12/08 18:13:15] <Tobbi> No FirefoxOS smartphones anymore :D
+[2015/12/08 18:24:44] @ Quit: xet7: Ping timeout: 245 seconds
+[2015/12/08 18:26:48] @ benjamin__ joined channel #supertux
+[2015/12/08 18:27:12] @ swift110 joined channel #supertux
+[2015/12/08 18:27:39] @ Quit: swift110: Changing host
+[2015/12/08 18:27:40] @ swift110 joined channel #supertux
+[2015/12/08 18:28:19] @ Quit: giby_the_kid: Ping timeout: 250 seconds
