@@ -18740,3 +18740,6 @@
 [2015/12/07 20:01:12] @ tuxdude143_ joined channel #supertux
 [2015/12/07 20:03:40] @ Quit: tuxdude143: Ping timeout: 250 seconds
 [2015/12/07 21:16:49] <Not-e81f> [02supertux] 07agertudici commented on issue 03#218: Add high resolution icon - 13http://git.io/vR1CI
+[2015/12/07 21:48:10] <head8debian> :D YAY!
+[2015/12/07 21:48:15] <head8debian> Well...
+[2015/12/07 21:55:08] @ Quit: irungentoo: Remote host closed the connection
