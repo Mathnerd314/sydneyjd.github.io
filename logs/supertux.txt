@@ -18757,3 +18757,5 @@
 [2015/12/08 00:42:55] <maths22>                  because I had hardware acceleration disabled
 [2015/12/08 00:43:04] <maths22> I don't care enough about Vista to bother downloading it
 [2015/12/08 00:43:12] <maths22>  Bascially, I'm done with Windows!
+[2015/12/08 00:57:02] @ Quit: paroneay`: Remote host closed the connection
+[2015/12/08 00:58:14] @ paroneayea joined channel #supertux
