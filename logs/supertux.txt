@@ -19264,3 +19264,9 @@
 [2015/12/08 15:56:47] @ Quit: claymore2: Quit: Leaving
 [2015/12/08 15:59:25] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/95663091
 [2015/12/08 16:00:01] <Not-e81f> [02flexlay] 07tobbi pushed 031 commit to 03develop [+0/-0/±1] 13http://git.io/vR9bJ
+[2015/12/08 16:00:02] <Not-e81f> [02flexlay] 07Tobias Markus 03f64fdcd - Default to using worldmap.strf for worldmap files
+[2015/12/08 16:00:05] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/96
+[2015/12/08 16:03:18] <Not-e81f> [02flexlay] 07tobbi pushed 031 commit to 03develop [+0/-0/±1] 13http://git.io/vR9N3
+[2015/12/08 16:03:20] <Not-e81f> [02flexlay] 07Tobias Markus 0303f99c2 - Set tileset automatically
+[2015/12/08 16:08:07] <head8debian> Tobbi: No, not more chemistry!!
+[2015/12/08 16:08:33] <Tobbi> head8debian: chemistry?
