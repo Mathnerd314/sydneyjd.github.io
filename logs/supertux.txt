@@ -18750,3 +18750,10 @@
 [2015/12/08 00:12:34] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/94
 [2015/12/08 00:14:11] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95506969
 [2015/12/08 00:29:39] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/94
+[2015/12/08 00:35:18] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/95506969
+[2015/12/08 00:36:33] @ bb010g joined channel #supertux
+[2015/12/08 00:42:43] <maths22> Addons actually work on windows now
+[2015/12/08 00:42:54] <maths22>  Windows 7 actually works.  It just crashed in VirtualBox
+[2015/12/08 00:42:55] <maths22>                  because I had hardware acceleration disabled
+[2015/12/08 00:43:04] <maths22> I don't care enough about Vista to bother downloading it
+[2015/12/08 00:43:12] <maths22>  Bascially, I'm done with Windows!
