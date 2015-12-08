@@ -18743,3 +18743,9 @@
 [2015/12/07 21:48:10] <head8debian> :D YAY!
 [2015/12/07 21:48:15] <head8debian> Well...
 [2015/12/07 21:55:08] @ Quit: irungentoo: Remote host closed the connection
+[2015/12/08 00:03:29] @ Quit: tuxdude143_: Quit: Leaving
+[2015/12/08 00:12:29] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vR15q
+[2015/12/08 00:12:31] <Not-e81f> [02supertux] 07Jacob Burroughs 035df072d - Updated libcurl to use builtin windows SSL (eliminated manual certificate management, dependency on openssl dlls)
+[2015/12/08 00:12:32] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95506969
+[2015/12/08 00:12:34] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/94
+[2015/12/08 00:14:11] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95506969
