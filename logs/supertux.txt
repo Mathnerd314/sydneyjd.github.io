@@ -19270,3 +19270,29 @@
 [2015/12/08 16:03:20] <Not-e81f> [02flexlay] 07Tobias Markus 0303f99c2 - Set tileset automatically
 [2015/12/08 16:08:07] <head8debian> Tobbi: No, not more chemistry!!
 [2015/12/08 16:08:33] <Tobbi> head8debian: chemistry?
+[2015/12/08 16:21:35] @ Karkus joined channel #supertux
+[2015/12/08 16:22:24] <Karkus> Tobbi: When should we have the meeting on IRC next year?
+[2015/12/08 16:22:53] <Tobbi> Karkus: Good question. Maybe we should do it after new year's eve? I will have time then.
+[2015/12/08 16:23:35] <Karkus> Tobbi: Okay, sometime early January?
+[2015/12/08 16:23:40] <Tobbi> Karkus: sounds good.
+[2015/12/08 16:24:05] <Tobbi> Karkus: One more thing: I defaulted to worldmap.strf for worldmaps. Think that's better than specifying the tileset...
+[2015/12/08 16:24:11] <Karkus> Tobbi: Between you, me, maths22, Hume2 and mt, we can decide a date more precisely
+[2015/12/08 16:24:20] <Tobbi> Yup.
+[2015/12/08 16:24:40] <Tobbi> Karkus: We should possibly consider switching to PyQT5...
+[2015/12/08 16:24:46] <Karkus> Tobbi: I know
+[2015/12/08 16:25:01] <Karkus> Tobbi: I will make an issue. It's important to keep updated
+[2015/12/08 16:25:10] <Tobbi> yup. I'll try to get to it.
+[2015/12/08 16:25:16] <Tobbi> I'm installing it via macports...
+[2015/12/08 16:25:20] <Karkus> Tobbi: I'm sure switching will be quite easy
+[2015/12/08 16:25:24] <Tobbi> I hope so.
+[2015/12/08 16:25:56] <Karkus> Look it up, there might be an automatic thing
+[2015/12/08 16:27:56] <Karkus> Tobbi: I deliberately set it to ask with worldmaps due to world1 having its own worldmap tileset
+[2015/12/08 16:28:03] <Tobbi> oh!
+[2015/12/08 16:28:11] <Tobbi> I will check that.
+[2015/12/08 16:28:12] <Karkus> Try opening it
+[2015/12/08 16:28:49] <Karkus> Tobbi: And although you can change now with Edit > Change Tileset, you have to open the file again for the changes to have effect
+[2015/12/08 16:28:58] <Tobbi> yeah, that's not good.
+[2015/12/08 16:29:01] <Tobbi> I'll revert it then.
+[2015/12/08 16:29:22] <Karkus> Tobbi: Or fix it :D
+[2015/12/08 16:29:37] <Tobbi> Nah, too much hassle :D
+[2015/12/08 16:29:40] <Tobbi> Unless...
