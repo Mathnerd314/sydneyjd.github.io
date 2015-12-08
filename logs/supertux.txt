@@ -18733,3 +18733,6 @@
 [2015/12/07 19:19:06] @ Quit: Tobbi: 
 [2015/12/07 19:21:56] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/95469187
 [2015/12/07 19:28:25] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/95472584
+[2015/12/07 19:43:11] @ Quit: maths22: Read error: Connection reset by peer
+[2015/12/07 19:43:19] @ maths22 joined channel #supertux
+[2015/12/07 19:44:16] @ paroneay` joined channel #supertux
