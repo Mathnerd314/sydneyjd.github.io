@@ -18767,3 +18767,4 @@
 [2015/12/08 02:48:50] @ brmbrmcar joined channel #supertux
 [2015/12/08 02:49:57] <brmbrmcar> So Wine is never going to work?
 [2015/12/08 03:32:30] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/12/08 04:14:07] @ Quit: tux|dude: Quit: Leaving
