@@ -19117,3 +19117,50 @@
 [2015/12/08 12:43:19] @ Karkus joined channel #supertux
 [2015/12/08 13:00:00] @ Tobbi joined channel #supertux
 [2015/12/08 13:00:00] @ Mode +o Tobbi by ChanServ
+[2015/12/08 13:00:13] <Tobbi> wow, scrollback.
+[2015/12/08 13:02:38] <Tobbi> jesusalva: You think 80kg is fat???
+[2015/12/08 13:02:42] <Not-e81f> [02flexlay] 07Karkus476 commented on issue 03#45: Offer Some Basic Level Templates - 13http://git.io/vRS7r
+[2015/12/08 13:02:46] <Tobbi> I'm more than that and not fat.
+[2015/12/08 13:02:59] * jesusalva awakes
+[2015/12/08 13:03:07] <jesusalva> Sorry, was sleeping.
+[2015/12/08 13:03:15] <Karkus> Hume2: I like it :)
+[2015/12/08 13:04:07] <jesusalva> 80kg is a little fat. But maybe "Overweight" suits better? Yes, possibly. Could we save this discussion for latter? I'm really sleepy right now.
+[2015/12/08 13:04:18] <Hume2> it depends on your height.
+[2015/12/08 13:04:20] <Tobbi> ÖD
+[2015/12/08 13:04:23] <Tobbi> :D
+[2015/12/08 13:04:23] * jesusalva sleeps without another word.
+[2015/12/08 13:04:24] <Tobbi> sure.
+[2015/12/08 13:06:11] <Tobbi> head8debian: What you need is an anti-cow. If a cow and an anti-cow were to collide, they annihilate one another and emit a photon.
+[2015/12/08 13:06:12] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#218: Add high resolution icon - 13http://git.io/vRS5p
+[2015/12/08 13:06:54] <brmbrmcar> Collision!
+[2015/12/08 13:07:19] * Karkus sighs audibly
+[2015/12/08 13:09:08] <Tobbi> maths22: The opengl error not being fixable isn't bad news. It's good news.
+[2015/12/08 13:09:13] <Tobbi> One less thing to worry about,
+[2015/12/08 13:10:01] <Tobbi> Karkus: What did you guys want to discuss with me?
+[2015/12/08 13:10:28] <Karkus> Tobbi: Whether we should just close the issue?
+[2015/12/08 13:10:36] <Karkus> How is it a good thing?
+[2015/12/08 13:10:38] <Tobbi> Karkus: what issue?
+[2015/12/08 13:10:52] <Karkus> Tobbi: I made an issue about it
+[2015/12/08 13:11:00] <Tobbi> Karkus: Ah, no, keep it open for tracking.
+[2015/12/08 13:11:01] <Karkus> OpenGL thing
+[2015/12/08 13:11:07] <Karkus> Okay
+[2015/12/08 13:11:11] <Tobbi> Karkus: Because, others might be getting the same issue.
+[2015/12/08 13:11:21] <Tobbi> So, we can then tell them "We know about it"
+[2015/12/08 13:11:25] <Karkus> Tobbi: How is it a good thing?
+[2015/12/08 13:11:54] <Tobbi> Karkus: If we can't fix it ourselves, we don't have to worry about it... It's possibly the SDL guys who have to worry.
+[2015/12/08 13:12:03] <Tobbi> But we can just point fingers at them, in that case.
+[2015/12/08 13:12:07] <brmbrmcar> Poor SDL guys.
+[2015/12/08 13:12:31] <Karkus> Tobbi: But then some people might not be able to play SuperTux...
+[2015/12/08 13:12:44] <Tobbi> Karkus: Is there an alternative?
+[2015/12/08 13:13:11] <Karkus> Alternative to what?
+[2015/12/08 13:13:37] <Hume2> Alternative to not-working.
+[2015/12/08 13:13:44] <Karkus> Get Linux
+[2015/12/08 13:13:59] <Tobbi> Karkus: Would you know a way to prevent the issue from happening? Because, I actually don't.
+[2015/12/08 13:13:59] <Hume2> :D I'd advise it anyway.
+[2015/12/08 13:14:09] <Tobbi> I don't know enough about SDL anyway.
+[2015/12/08 13:14:17] <Karkus> Tobbi: No, but that doesn't make it a good thing
+[2015/12/08 13:14:28] <Karkus> Tobbi: I don't know a thing about SDL
+[2015/12/08 13:14:29] <Tobbi> Karkus: Okay, I agree with you there.
+[2015/12/08 13:14:41] <Tobbi> Was just thinking in terms of worrying and workload.
+[2015/12/08 13:14:45] <Tobbi> Project manager thing :D
+[2015/12/08 13:14:50] <Karkus> :D
