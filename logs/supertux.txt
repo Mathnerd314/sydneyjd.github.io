@@ -19228,3 +19228,13 @@
 [2015/12/08 13:40:29] <brmbrmcar> That is what was discussed.
 [2015/12/08 13:42:03] <Hume2> This is definitely a trol.
 [2015/12/08 13:42:10] <brmbrmcar> OK.
+[2015/12/08 13:45:07] <Hume2> Do you think that Tobbi thinks that you are clever enough to create something like this?
+[2015/12/08 13:45:41] <brmbrmcar> Maybe...
+[2015/12/08 13:45:56] <brmbrmcar> Essentially a clone of C...
+[2015/12/08 13:53:17] <Karkus> brmbrmcar: We were joking. Making OSs or Compilers is super difficult to do well, and takes many people and lots of time. I didn't think you'd take us seriously. You're welcome to have a go, of course, but it's really tough.
+[2015/12/08 13:55:41] <brmbrmcar> Finally. The truth.
+[2015/12/08 13:56:59] <brmbrmcar> You told me to make a language. I was planning to juast change the wording.
+[2015/12/08 13:58:05] <Hume2> Almost everyone who knows what it is about can't take this seriously.
+[2015/12/08 13:59:14] <brmbrmcar> I sort of knew it would make anything...
+[2015/12/08 13:59:28] <brmbrmcar> But you ask me to do it...
+[2015/12/08 13:59:37] @ claymore2 joined channel #supertux
