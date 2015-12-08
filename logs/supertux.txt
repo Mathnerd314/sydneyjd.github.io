@@ -18736,3 +18736,4 @@
 [2015/12/07 19:43:11] @ Quit: maths22: Read error: Connection reset by peer
 [2015/12/07 19:43:19] @ maths22 joined channel #supertux
 [2015/12/07 19:44:16] @ paroneay` joined channel #supertux
+[2015/12/07 19:46:31] @ Quit: paroneayea: Remote host closed the connection
