@@ -18713,3 +18713,15 @@
 [2015/12/07 18:37:03] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#256: Windows + Intel Integrated Graphics = Nope - 13http://git.io/vRXPt
 [2015/12/07 18:37:04] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#256: Windows + Intel Integrated Graphics = Nope - 13http://git.io/vRXPt
 [2015/12/07 18:37:23] <Tobbi> Now that is great.
+[2015/12/07 18:46:36] @ tux|dude joined channel #supertux
+[2015/12/07 18:47:44] @ tuxdude143 joined channel #supertux
+[2015/12/07 18:48:50] @ Quit: alket: Quit: Good Night :)
+[2015/12/07 18:51:18] @ Quit: tux|dude: Ping timeout: 250 seconds
+[2015/12/07 18:53:02] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95469187
+[2015/12/07 18:54:26] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/92
+[2015/12/07 18:57:09] <Not-e81f> [02supertux] 07tobbi pushed 034 commits to 03coverity_scan [+0/-0/±5] 13http://git.io/vRXDJ
+[2015/12/07 18:57:11] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95472584
+[2015/12/07 18:57:14] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/93
+[2015/12/07 18:57:25] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vRXDI
+[2015/12/07 18:57:26] <Not-e81f> [02supertux] 07Tobias Markus 031ac3709 - Update translation submodule [ci skip]
+[2015/12/07 18:59:29] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/95462564
