@@ -18782,3 +18782,10 @@
 [2015/12/08 07:21:51] @ Quit: maths22: Ping timeout: 250 seconds
 [2015/12/08 07:30:56] @ maths22 joined channel #supertux
 [2015/12/08 07:44:06] @ jesusalva joined channel #supertux
+[2015/12/08 09:05:28] @ Quit: nerdopolis: Quit: No Ping reply in 180 seconds.
+[2015/12/08 09:07:02] @ nerdopolis joined channel #supertux
+[2015/12/08 09:08:56] @ giby_the_kid joined channel #supertux
+[2015/12/08 09:08:56] @ Mode +o giby_the_kid by ChanServ
+[2015/12/08 09:09:03] @ Quit: giby: Read error: Connection reset by peer
+[2015/12/08 09:12:29] @ Tobbi joined channel #supertux
+[2015/12/08 09:12:30] @ Mode +o Tobbi by ChanServ
