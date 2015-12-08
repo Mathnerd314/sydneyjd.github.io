@@ -19250,3 +19250,5 @@
 [2015/12/08 14:32:31] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/12/08 14:41:26] <Not-e81f> [02flexlay] 07brmbrmcar commented on issue 03#47: Refresh editor after tileset change - 13http://git.io/vR9EU
 [2015/12/08 14:57:50] @ ced117 joined channel #supertux
+[2015/12/08 15:21:07] @ Quit: maths22: Ping timeout: 250 seconds
+[2015/12/08 15:27:49] @ maths22 joined channel #supertux
