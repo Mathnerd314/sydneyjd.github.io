@@ -19113,3 +19113,5 @@
 [2015/12/08 12:19:59] @ bb010g joined channel #supertux
 [2015/12/08 12:26:26] @ Quit: Karkus: Ping timeout: 256 seconds
 [2015/12/08 12:29:16] @ Quit: tuxdev_: Ping timeout: 256 seconds
+[2015/12/08 12:32:03] <Not-e81f> [02flexlay] 07Hume2 commented on issue 03#45: Offer Some Basic Level Templates - 13http://git.io/vRSKi
+[2015/12/08 12:43:19] @ Karkus joined channel #supertux
