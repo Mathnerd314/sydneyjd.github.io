@@ -19296,3 +19296,34 @@
 [2015/12/08 16:29:22] <Karkus> Tobbi: Or fix it :D
 [2015/12/08 16:29:37] <Tobbi> Nah, too much hassle :D
 [2015/12/08 16:29:40] <Tobbi> Unless...
+[2015/12/08 16:30:25] <Tobbi> Karkus: The strf file is set in the worldmap.
+[2015/12/08 16:30:26] <Karkus> Tobbi: How come there is no tileset mentioned in the worldmap .stwm file?
+[2015/12/08 16:30:28] <Tobbi> So, we should fetch that.
+[2015/12/08 16:30:30] <Karkus> Oh
+[2015/12/08 16:30:31] <Tobbi> It is.
+[2015/12/08 16:30:33] <Karkus> nvm :D
+[2015/12/08 16:30:41] <Tobbi> One moment.
+[2015/12/08 16:30:42] <Karkus> I had a look but couldn't see it
+[2015/12/08 16:30:50] <Tobbi> Karkus: It's at the end.
+[2015/12/08 16:30:53] <Tobbi> For the above file at least.
+[2015/12/08 16:31:00] <Karkus> Ah!
+[2015/12/08 16:31:02] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2015/12/08 16:32:13] <Karkus> Tobbi: I've got to go now. Feel free to take a look, if you can't do it, I'll do it tomorrow; make an issue. We must remember to do it for all levels not just worldmaps
+[2015/12/08 16:32:24] <Tobbi> Yup.
+[2015/12/08 16:32:28] <Karkus> Tobbi: Also there's lots of old worldmap code to be deleted.
+[2015/12/08 16:32:37] <Karkus> Is it worth making an issue?
+[2015/12/08 16:32:43] <Tobbi> Karkus: yes, I will get to it.
+[2015/12/08 16:32:45] <Tobbi> Hopefully.
+[2015/12/08 16:32:55] <Karkus> Tobbi: Great :D
+[2015/12/08 16:33:32] <Not-e81f> [02flexlay] 07Karkus476 opened issue 03#48: Delete Old Worldmap Code - 13http://git.io/vRHJq
+[2015/12/08 16:34:15] <Not-e81f> [02flexlay] 07Karkus476 opened issue 03#49: Should We Update to PyQt5? - 13http://git.io/vRHJB
+[2015/12/08 16:34:16] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#49: Should We Update to PyQt5? - 13http://git.io/vRHJB
+[2015/12/08 16:34:44] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#48: Delete Old Worldmap Code - 13http://git.io/vRHJq
+[2015/12/08 16:34:54] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#47: Refresh editor after tileset change - 13http://git.io/vR9Cj
+[2015/12/08 16:35:35] <Karkus> Okay, I'm off.
+[2015/12/08 16:35:37] @ Quit: Karkus: Quit: Division By Zero
+[2015/12/08 16:37:50] <maths22> Tobbi: I'm done with Windows and OS X to the best of my knowledge
+[2015/12/08 16:38:01] <Tobbi> Okay, I'll check later...
+[2015/12/08 16:38:30] <maths22> The one thing I still need to do is make a way for release tarballs to detect their version.
+[2015/12/08 16:40:05] @ brmbrmcar joined channel #supertux
+[2015/12/08 16:40:26] <brmbrmcar> Two Tiny Towersis in duplicated...
