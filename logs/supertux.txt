@@ -19108,3 +19108,8 @@
 [2015/12/08 12:14:13] <Karkus> mt: The configuration isn't great
 [2015/12/08 12:14:50] <brmbrmcar> Improved version http://paste.ubuntu.com/13828893/
 [2015/12/08 12:14:53] <mt> I can't change anything more than: parts of the message format, which branches to announce commits from, which channels to notify and what endpoints it should accept notifications on
+[2015/12/08 12:15:17] <Karkus> mt: Are you an admin?
+[2015/12/08 12:18:31] <mt> on github, no; but the notifico hooks are on my notifico account
+[2015/12/08 12:19:59] @ bb010g joined channel #supertux
+[2015/12/08 12:26:26] @ Quit: Karkus: Ping timeout: 256 seconds
+[2015/12/08 12:29:16] @ Quit: tuxdev_: Ping timeout: 256 seconds
