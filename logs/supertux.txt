@@ -19406,3 +19406,7 @@
 [2015/12/09 02:55:08] @ Quit: Karkus: Ping timeout: 256 seconds
 [2015/12/09 02:55:28] @ Karkus joined channel #supertux
 [2015/12/09 02:58:25] @ Quit: Karkus: Remote host closed the connection
+[2015/12/09 03:04:07] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95430565
+[2015/12/09 03:05:19] @ brmbrmcar joined channel #supertux
+[2015/12/09 03:05:21] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95430565
+[2015/12/09 03:05:33] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95430565
