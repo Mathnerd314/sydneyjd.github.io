@@ -19721,3 +19721,5 @@
 [2015/12/09 15:20:54] @ Quit: alket: Ping timeout: 256 seconds
 [2015/12/09 15:22:39] <brmbrmcar> http://www.fileconvoy.com/gf.php?id=gc15f7d6c77356f88999758636.807234787ef64fc2f908f2&sts=144969240121735230231c2c2a2ead9c98b7e564b87156630631a
 [2015/12/09 15:24:38] <Not-e81f> [02supertux] 07brmbrmcar opened issue 03#258: Ice, air and earth Christmas hats - 13http://git.io/vRAYt
+[2015/12/09 15:32:54] @ ced117 joined channel #supertux
+[2015/12/09 15:44:30] @ Quit: xet7: Quit: Leaving
