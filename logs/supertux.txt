@@ -19440,3 +19440,35 @@
 [2015/12/09 07:54:01] @ Quit: Tobbi: Ping timeout: 272 seconds
 [2015/12/09 08:29:23] @ Tobbi joined channel #supertux
 [2015/12/09 08:29:23] @ Mode +o Tobbi by ChanServ
+[2015/12/09 09:01:03] <head8debian> http://forum.freegamedev.net/viewtopic.php?f=67&t=6667
+[2015/12/09 09:01:07] <head8debian> Arg.
+[2015/12/09 09:02:41] <Tobbi> head8debian: Precisely...
+[2015/12/09 09:02:47] <Tobbi> head8debian: Why is the coverity scan stuck?
+[2015/12/09 09:02:48] <head8debian> Tobbi: Yay, spam email telling me i need to pay someone something. Should i open its attachment? :D
+[2015/12/09 09:02:58] <head8debian> \o/
+[2015/12/09 09:03:01] <Tobbi> head8debian: It's an exe. So, sure.
+[2015/12/09 09:03:13] <mt> create a non-networked WinXP VM :>
+[2015/12/09 09:03:23] <Tobbi> Yeah, that might work as well.
+[2015/12/09 09:03:28] <Tobbi> Or open it with wine in a new prefix.
+[2015/12/09 09:03:47] <head8debian> Heh. ;)
+[2015/12/09 09:04:06] <Tobbi> I thought these Microsoft scammers stopped bothering me
+[2015/12/09 09:04:09] <head8debian> Wow, its javascript.
+[2015/12/09 09:04:18] <Tobbi> But apparently, they didn't.
+[2015/12/09 09:04:19] <head8debian> .js.
+[2015/12/09 09:04:32] <Tobbi> head8debian: Paste its code in a pastebin.
+[2015/12/09 09:05:01] <mt> head8debian: re that forum topic
+[2015/12/09 09:05:07] <mt> a background img is an object
+[2015/12/09 09:05:16] <mt> you can dragndrop it from the object area
+[2015/12/09 09:05:17] <Tobbi> oh, yeah.
+[2015/12/09 09:05:20] <Tobbi> I forgot that.
+[2015/12/09 09:05:37] <head8debian> Im not commenting ATM... ive never made a level in the editor.
+[2015/12/09 09:05:39] <Tobbi> head8debian: Also, please tell this guy to share the level with us once he's done?
+[2015/12/09 09:05:54] <Tobbi> head8debian: Go. ahead. and. reply!
+[2015/12/09 09:06:22] <head8debian> Im busy... maybe later.
+[2015/12/09 09:06:29] <Tobbi> ok
+[2015/12/09 09:06:36] <Tobbi> Hello busy. I am tobias.
+[2015/12/09 09:07:03] <Tobbi> I cancelled the build now, by the way.
+[2015/12/09 09:08:10] <mt> oh yay
+[2015/12/09 09:08:25] <mt> 1.2 GiB download because GCC/G++ rebuild
+[2015/12/09 09:14:25] <Tobbi> I replied.
+[2015/12/09 09:14:28] <Tobbi> to that forum post.
