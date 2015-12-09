@@ -19743,3 +19743,5 @@
 [2015/12/09 17:24:58] @ swift110 joined channel #supertux
 [2015/12/09 17:27:41] @ Quit: swift110: Changing host
 [2015/12/09 17:27:41] @ swift110 joined channel #supertux
+[2015/12/09 18:07:35] @ datahead8888_ joined channel #supertux
+[2015/12/09 18:11:02] @ Quit: datahead8888: Ping timeout: 250 seconds
