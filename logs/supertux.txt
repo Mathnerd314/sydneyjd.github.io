@@ -19525,3 +19525,4 @@
 [2015/12/09 11:55:55] @ alket joined channel #supertux
 [2015/12/09 11:56:23] <head8debian> maths22: ^^
 [2015/12/09 11:57:07] <head8debian> maths22: I had an error the first time i download the addon index file, but the second time it worked, and i was able to install an addon.
+[2015/12/09 12:00:17] @ Quit: Karkus: Ping timeout: 256 seconds
