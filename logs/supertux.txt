@@ -19726,3 +19726,7 @@
 [2015/12/09 15:49:11] @ Drangue is now known as alket
 [2015/12/09 15:55:09] <maths22> brmbrmcar: I like the hats.  One issue though: why is the ice hat not blue?
 [2015/12/09 15:55:28] <maths22> I would think the colors should somehow reflect the normal colors
+[2015/12/09 16:05:13] @ Quit: ced117: Quit: IRC for Sailfish 0.9
+[2015/12/09 16:06:01] <brmbrmcar> It is, isn't it?
+[2015/12/09 16:06:50] <brmbrmcar> Should I make the blue less green?
+[2015/12/09 16:06:58] <brmbrmcar> 0.0.255?
