@@ -19707,3 +19707,8 @@
 [2015/12/09 14:43:33] <Karkus> brmbrmcar: Okay. Nothing complex though, remember.
 [2015/12/09 14:43:41] <Karkus> Just a normal christmas hat.
 [2015/12/09 14:43:45] <Karkus> Not a brmbrmhat.
+[2015/12/09 14:46:34] <brmbrmcar> I am on the first one, as I had to install GIMP and I have soapy hands.
+[2015/12/09 14:46:36] <maths22> Karkus: It pulls the Open Build Service download page, edits the DOM to insert Windows and OS X, and then serves it
+[2015/12/09 14:47:08] <maths22> Therefore, if something goes wrong on the Open Build Service end, it won't work
+[2015/12/09 14:50:26] <Karkus> maths22: Ah, okay
+[2015/12/09 14:53:29] <brmbrmcar> 3 down, 15 to go.
