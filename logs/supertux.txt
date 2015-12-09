@@ -19496,3 +19496,15 @@
 [2015/12/09 11:12:47] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/98
 [2015/12/09 11:13:27] <brmbrmcar> CI SKIP!!!
 [2015/12/09 11:14:20] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95833233
+[2015/12/09 11:19:06] <head8debian> Hello brmbrmcar.
+[2015/12/09 11:21:10] <brmbrmcar> Hello head8debian.
+[2015/12/09 11:22:30] <head8debian> brmbrmcar: You can code?
+[2015/12/09 11:22:46] <brmbrmcar> Abit.
+[2015/12/09 11:22:53] <brmbrmcar> Not much...
+[2015/12/09 11:22:54] <head8debian> brmbrmcar: Cool.
+[2015/12/09 11:23:01] <head8debian> brmbrmcar: More than me. :D
+[2015/12/09 11:23:13] <brmbrmcar> Why do you ask?
+[2015/12/09 11:24:17] <head8debian> brmbrmcar: Just curious. You are opening pull requests so you must know something. :-)
+[2015/12/09 11:24:34] <brmbrmcar> No,it was because I did something dumb.
+[2015/12/09 11:25:21] <brmbrmcar> I copied over to the wrong level, and only realised when I got the nightly build
+[2015/12/09 11:29:40] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95833233
