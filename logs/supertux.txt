@@ -19526,3 +19526,7 @@
 [2015/12/09 11:56:23] <head8debian> maths22: ^^
 [2015/12/09 11:57:07] <head8debian> maths22: I had an error the first time i download the addon index file, but the second time it worked, and i was able to install an addon.
 [2015/12/09 12:00:17] @ Quit: Karkus: Ping timeout: 256 seconds
+[2015/12/09 12:17:33] @ Hume2 joined channel #supertux
+[2015/12/09 12:22:16] @ Karkus joined channel #supertux
+[2015/12/09 12:23:33] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#257: Fix up some errors I caused - 13http://git.io/vRbMp
+[2015/12/09 12:25:16] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#257: Fix up some errors I caused - 13http://git.io/vRbD1
