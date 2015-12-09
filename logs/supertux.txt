@@ -19430,3 +19430,6 @@
 [2015/12/09 06:38:11] @ irungentoo joined channel #supertux
 [2015/12/09 06:49:28] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vR5bG
 [2015/12/09 06:49:29] <Not-e81f> [02supertux] 07Tobias Markus 037c94832 - Change description for me, add 'ad interim project lead'
+[2015/12/09 07:04:57] <Not-e81f> [02supertux] 07tobbi edited page 03Editor-Guide - 13http://git.io/vY29g
+[2015/12/09 07:07:50] <Tobbi> this coverity build is running for 45 minutes now.
+[2015/12/09 07:07:52] <Tobbi> Something is wrong.
