@@ -19354,3 +19354,17 @@
 [2015/12/08 20:35:37] @ Quit: VargaD: Ping timeout: 260 seconds
 [2015/12/08 20:36:30] @ VargaD joined channel #supertux
 [2015/12/08 20:59:56] @ Quit: swift110: Ping timeout: 240 seconds
+[2015/12/08 21:12:49] <head8debian> Tobbi: YOU ARE STILL AWAKE?
+[2015/12/08 21:12:52] <head8debian> :D
+[2015/12/08 21:12:57] <Tobbi> head8debian: It's only 3am.
+[2015/12/08 21:13:08] <head8debian> Tobbi: You must be some sort of 24 hour owl.
+[2015/12/08 21:13:22] <Tobbi> head8debian: No, I just read wikipedia and other interesting things and get distracted.
+[2015/12/08 21:13:32] <Tobbi> head8debian: Ghost towns have this interesting charm about them.
+[2015/12/08 21:13:33] <head8debian> Tobbi: Or are you using the XKCD sleep timetable? :p
+[2015/12/08 21:13:51] <head8debian> Tobbi: Ive never been to one, but i do find older stuff quite fasinating.
+[2015/12/08 21:14:09] <Tobbi> head8debian: Neither have I... I'd love to go to one, though.
+[2015/12/08 21:14:21] <head8debian> Tobbi: Im getting a ton of emails... Lets Encrypt must have begun.
+[2015/12/08 21:14:34] <Tobbi> Aha, I don't...
+[2015/12/08 21:14:37] <Tobbi> for whatever reason.
+[2015/12/08 21:14:46] <head8debian> Tobbi: Local LUG. :D
+[2015/12/08 21:14:55] <Tobbi> head8debian: LUG?
