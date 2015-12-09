@@ -19699,3 +19699,11 @@
 [2015/12/09 14:26:49] <brmbrmcar> Also, why aren't there different colour Christmas ht
 [2015/12/09 14:26:56] <brmbrmcar> ats for Tux?
 [2015/12/09 14:28:53] <brmbrmcar> If you guys wanted them, I could implement 'em.
+[2015/12/09 14:36:03] <Karkus> brmbrmcar: It won't, no
+[2015/12/09 14:36:39] <Karkus> brmbrmcar: I guess you could. Make an ice Christmas hat, an Earth one etc. Isn't that what they're for?
+[2015/12/09 14:38:35] <brmbrmcar> Yeah.
+[2015/12/09 14:38:44] <brmbrmcar> OK.
+[2015/12/09 14:39:03] <brmbrmcar> I'll make the graphics now...
+[2015/12/09 14:43:33] <Karkus> brmbrmcar: Okay. Nothing complex though, remember.
+[2015/12/09 14:43:41] <Karkus> Just a normal christmas hat.
+[2015/12/09 14:43:45] <Karkus> Not a brmbrmhat.
