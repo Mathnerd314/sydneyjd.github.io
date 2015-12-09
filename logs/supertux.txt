@@ -19434,3 +19434,5 @@
 [2015/12/09 07:07:50] <Tobbi> this coverity build is running for 45 minutes now.
 [2015/12/09 07:07:52] <Tobbi> Something is wrong.
 [2015/12/09 07:29:10] @ xet7 joined channel #supertux
+[2015/12/09 07:35:03] <Tobbi> head8debian: Can you help this person? http://forum.freegamedev.net/viewtopic.php?f=67&t=6667
+[2015/12/09 07:35:12] <Tobbi> I don't remember the old editor...
