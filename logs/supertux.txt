@@ -19433,3 +19433,4 @@
 [2015/12/09 07:04:57] <Not-e81f> [02supertux] 07tobbi edited page 03Editor-Guide - 13http://git.io/vY29g
 [2015/12/09 07:07:50] <Tobbi> this coverity build is running for 45 minutes now.
 [2015/12/09 07:07:52] <Tobbi> Something is wrong.
+[2015/12/09 07:29:10] @ xet7 joined channel #supertux
