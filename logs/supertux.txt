@@ -19712,3 +19712,8 @@
 [2015/12/09 14:47:08] <maths22> Therefore, if something goes wrong on the Open Build Service end, it won't work
 [2015/12/09 14:50:26] <Karkus> maths22: Ah, okay
 [2015/12/09 14:53:29] <brmbrmcar> 3 down, 15 to go.
+[2015/12/09 15:00:48] @ Quit: claymore2: Quit: Leaving
+[2015/12/09 15:01:55] <brmbrmcar> 6 down, 9 to go.
+[2015/12/09 15:08:26] <brmbrmcar> Are stand and skid the same?
+[2015/12/09 15:09:30] <brmbrmcar> Woh, I am done!
+[2015/12/09 15:12:25] @ Quit: Karkus: Ping timeout: 256 seconds
