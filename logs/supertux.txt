@@ -19570,3 +19570,64 @@
 [2015/12/09 12:59:22] <brmbrmcar> patch-2 is just so awesome.
 [2015/12/09 12:59:30] <Hume2> *sigh*
 [2015/12/09 12:59:43] <Karkus> *double sigh*
+[2015/12/09 13:00:07] <Karkus> Hume2: Where did you learn to make scripts for SuperTux?
+[2015/12/09 13:00:08] <brmbrmcar> I rebased and get the same error.
+[2015/12/09 13:00:32] <Hume2> You squash the commits by: git rebase -i HEAD~<count of commits>
+[2015/12/09 13:00:40] <Hume2> ~figlet *sigh*
+[2015/12/09 13:00:40] <red_bot>            _        __     
+[2015/12/09 13:00:40] <red_bot>  _/| ___  (_)___ _ / /  _/|
+[2015/12/09 13:00:40] <red_bot> > _<(_-< / // _ `// _ \> _<
+[2015/12/09 13:00:40] <red_bot> |/ /___//_/ \_, //_//_/|/  
+[2015/12/09 13:00:40] <red_bot>            /___/
+[2015/12/09 13:00:53] <brmbrmcar> I ran that.
+[2015/12/09 13:01:12] <brmbrmcar> I knew what to do.
+[2015/12/09 13:01:22] <Hume2> And after that?
+[2015/12/09 13:02:01] <brmbrmcar> I ran rebase --root
+[2015/12/09 13:02:16] <brmbrmcar> Because the Head command was where the error ws.
+[2015/12/09 13:02:53] <Hume2> Run: git push -f
+[2015/12/09 13:03:21] <Not-e81f> [02supertux] 07brmbrmcar synchronize pull request 03#257: Fix up some errors I caused - 13http://git.io/vRFAY
+[2015/12/09 13:03:23] <Not-e81f> [02supertux] 07brmbrmcar closed pull request 03#257: Fix up some errors I caused - 13http://git.io/vRFAY
+[2015/12/09 13:04:02] <brmbrmcar> Uh oh...
+[2015/12/09 13:04:26] <Karkus> *sigh*
+[2015/12/09 13:04:33] <Hume2> How did you achieved that?
+[2015/12/09 13:04:47] <brmbrmcar> Ran that command you told me to.
+[2015/12/09 13:04:56] <brmbrmcar> And everything else I mentioned.
+[2015/12/09 13:05:41] <Karkus> brmbrmcar: What <count of commits> did you use?
+[2015/12/09 13:06:15] <brmbrmcar> Any commands with that did not work.
+[2015/12/09 13:06:29] <brmbrmcar> So, I didn't get to specify anything.
+[2015/12/09 13:06:54] <Karkus> brmbrmcar: do git checkout patch-1
+[2015/12/09 13:07:21] <Karkus> then git cherry-pick b56ea0a9dfce13bdb978f4dbec2899545f35e522
+[2015/12/09 13:07:49] <Karkus> git push origin patch-1
+[2015/12/09 13:07:54] <Hume2> I'll just reconnect.
+[2015/12/09 13:07:58] @ Hume2 left channel #supertux ()
+[2015/12/09 13:07:59] <Karkus> then open a new pull request
+[2015/12/09 13:08:11] <brmbrmcar> Do you mean patch-2? error: pathspec 'patch-1' did not match any file(s) known to git.
+[2015/12/09 13:08:23] <Karkus> brmbrmcar: Okay
+[2015/12/09 13:08:26] @ Hume2 joined channel #supertux
+[2015/12/09 13:08:30] <Karkus> Do this instead
+[2015/12/09 13:08:35] <Karkus> git checkout master
+[2015/12/09 13:08:49] <Karkus> git checkout -b fix-mistake
+[2015/12/09 13:09:00] <Karkus> git cherry-pick b56ea0a9dfce13bdb978f4dbec2899545f35e522
+[2015/12/09 13:09:10] <Karkus> git push origin fix-mistake
+[2015/12/09 13:09:38] <Karkus> then open a new pull request of fix-mistake into SuperTux:master
+[2015/12/09 13:09:54] <brmbrmcar> error: pathspec 'master' did not match any file(s) known to git.
+[2015/12/09 13:10:21] <Karkus> brmbrmcar: Okay...
+[2015/12/09 13:10:35] <Karkus> Why don't you have a master branch?
+[2015/12/09 13:11:17] <brmbrmcar> I cloned patch-2.
+[2015/12/09 13:11:25] <Karkus> Why?
+[2015/12/09 13:11:35] <brmbrmcar> I a very low on disk space.
+[2015/12/09 13:11:46] <Karkus> It makes no difference
+[2015/12/09 13:11:53] <Karkus> Well, almost no difference
+[2015/12/09 13:12:10] <brmbrmcar> Shall I bin my clone and restart?
+[2015/12/09 13:12:19] <Karkus> Yes
+[2015/12/09 13:12:39] <Karkus> Do git clone https://github.com/brmbrmcar/supertux
+[2015/12/09 13:12:55] <brmbrmcar> Will depth-1 work?
+[2015/12/09 13:13:04] <brmbrmcar> Or does it need to be higher?
+[2015/12/09 13:13:05] <Karkus> Why do you want to do that?
+[2015/12/09 13:13:16] <Karkus> How much disk space do you have?
+[2015/12/09 13:13:20] <brmbrmcar> 400MB is too much generally...
+[2015/12/09 13:13:34] <Karkus> brmbrmcar: You can remove it afterwards, right/
+[2015/12/09 13:13:35] <Karkus> ?
+[2015/12/09 13:13:54] <brmbrmcar> Fine. *sigh*
+[2015/12/09 13:14:33] <Hume2> Only Tobbi has the right to say this here.
+[2015/12/09 13:14:54] <Karkus> Hume2: Say what?
