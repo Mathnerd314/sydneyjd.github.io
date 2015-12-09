@@ -19413,3 +19413,4 @@
 [2015/12/09 03:30:01] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/12/09 04:26:40] @ Tobbi joined channel #supertux
 [2015/12/09 04:26:40] @ Mode +o Tobbi by ChanServ
+[2015/12/09 04:31:20] @ Quit: benjamin__: Quit: Quitte
