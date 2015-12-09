@@ -19717,3 +19717,7 @@
 [2015/12/09 15:08:26] <brmbrmcar> Are stand and skid the same?
 [2015/12/09 15:09:30] <brmbrmcar> Woh, I am done!
 [2015/12/09 15:12:25] @ Quit: Karkus: Ping timeout: 256 seconds
+[2015/12/09 15:20:49] @ Drangue joined channel #supertux
+[2015/12/09 15:20:54] @ Quit: alket: Ping timeout: 256 seconds
+[2015/12/09 15:22:39] <brmbrmcar> http://www.fileconvoy.com/gf.php?id=gc15f7d6c77356f88999758636.807234787ef64fc2f908f2&sts=144969240121735230231c2c2a2ead9c98b7e564b87156630631a
+[2015/12/09 15:24:38] <Not-e81f> [02supertux] 07brmbrmcar opened issue 03#258: Ice, air and earth Christmas hats - 13http://git.io/vRAYt
