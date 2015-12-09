@@ -19730,3 +19730,7 @@
 [2015/12/09 16:06:01] <brmbrmcar> It is, isn't it?
 [2015/12/09 16:06:50] <brmbrmcar> Should I make the blue less green?
 [2015/12/09 16:06:58] <brmbrmcar> 0.0.255?
+[2015/12/09 16:16:17] @ Drangue joined channel #supertux
+[2015/12/09 16:16:36] @ Quit: alket: Ping timeout: 240 seconds
+[2015/12/09 16:18:10] <Not-e81f> [02supertux] 07scheibel commented on issue 03#172: Investigate travis build issue of glbinding on clang - 13http://git.io/vRA2Q
+[2015/12/09 16:24:07] @ Karkus joined channel #supertux
