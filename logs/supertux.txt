@@ -19750,3 +19750,7 @@
 [2015/12/09 18:17:16] @ Quit: swift110: Ping timeout: 240 seconds
 [2015/12/09 18:22:10] <Not-e81f> [02supertux] 07tobbi commented on issue 03#172: Investigate travis build issue of glbinding on clang - 13http://git.io/vRxOc
 [2015/12/09 18:27:58] <Tobbi> hello.
+[2015/12/09 18:35:10] @ swift110 joined channel #supertux
+[2015/12/09 18:36:18] @ Quit: swift110: Changing host
+[2015/12/09 18:36:18] @ swift110 joined channel #supertux
+[2015/12/09 18:39:04] @ Quit: Tobbi: Remote host closed the connection
