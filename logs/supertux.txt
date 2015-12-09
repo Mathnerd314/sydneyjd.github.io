@@ -19399,3 +19399,7 @@
 [2015/12/09 01:51:19] @ claymore2 joined channel #supertux
 [2015/12/09 02:10:02] @ Quit: claymore2: Quit: Leaving
 [2015/12/09 02:16:01] <Not-e81f> [02flexlay] 07Karkus476 commented on issue 03#35: Can't Edit Worldmap Files - 13http://git.io/vR7nk
+[2015/12/09 02:31:39] @ Quit: maths22: Ping timeout: 272 seconds
+[2015/12/09 02:32:36] @ Karkus joined channel #supertux
+[2015/12/09 02:34:44] @ Quit: tuxdev_: Ping timeout: 256 seconds
+[2015/12/09 02:35:52] @ maths22 joined channel #supertux
