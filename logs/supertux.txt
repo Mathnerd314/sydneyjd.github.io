@@ -19686,3 +19686,7 @@
 [2015/12/09 13:59:35] <brmbrmcar> But I could do it with git...
 [2015/12/09 13:59:50] <brmbrmcar> Am I permitted to delete my files locally?
 [2015/12/09 13:59:56] * Hume2 is tired
+[2015/12/09 14:00:27] <Hume2> Bye!
+[2015/12/09 14:00:30] @ Quit: Hume2: Quit: Page closed
+[2015/12/09 14:08:36] @ Quit: Karkus: Ping timeout: 240 seconds
+[2015/12/09 14:12:29] @ Karkus joined channel #supertux
