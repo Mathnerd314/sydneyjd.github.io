@@ -19690,3 +19690,12 @@
 [2015/12/09 14:00:30] @ Quit: Hume2: Quit: Page closed
 [2015/12/09 14:08:36] @ Quit: Karkus: Ping timeout: 240 seconds
 [2015/12/09 14:12:29] @ Karkus joined channel #supertux
+[2015/12/09 14:17:58] <brmbrmcar> When was the deveoper auto-show console thing re-implemented?
+[2015/12/09 14:19:47] <Not-e81f> [02flexlay] 07Karkus476 pushed 031 commit to 03develop [+0/-0/±1] 13http://git.io/vRNX1
+[2015/12/09 14:19:48] <Not-e81f> [02flexlay] 07Karkus 03a0a0fc1 - Upon layer hide/show don't wait for next paintEvent, just repaint
+[2015/12/09 14:20:14] <Karkus> brmbrmcar: I'm afraid I can't remember
+[2015/12/09 14:22:43] <brmbrmcar> OK.
+[2015/12/09 14:23:06] <brmbrmcar> But it'll be removed for 0.4.0 stable, right?
+[2015/12/09 14:26:49] <brmbrmcar> Also, why aren't there different colour Christmas ht
+[2015/12/09 14:26:56] <brmbrmcar> ats for Tux?
+[2015/12/09 14:28:53] <brmbrmcar> If you guys wanted them, I could implement 'em.
