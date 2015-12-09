@@ -19736,3 +19736,6 @@
 [2015/12/09 16:24:07] @ Karkus joined channel #supertux
 [2015/12/09 16:31:02] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/12/09 16:31:54] @ Quit: Karkus: Quit: Division By Zero
+[2015/12/09 16:46:56] @ Quit: Drangue: Quit: Good Night :)
+[2015/12/09 16:56:44] @ alket joined channel #supertux
+[2015/12/09 16:58:01] @ Quit: brmbrmcar: Quit: brmbrmquit
