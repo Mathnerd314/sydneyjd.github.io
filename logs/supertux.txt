@@ -19508,3 +19508,15 @@
 [2015/12/09 11:24:34] <brmbrmcar> No,it was because I did something dumb.
 [2015/12/09 11:25:21] <brmbrmcar> I copied over to the wrong level, and only realised when I got the nightly build
 [2015/12/09 11:29:40] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/95833233
+[2015/12/09 11:30:49] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/98
+[2015/12/09 11:32:24] <brmbrmcar> That error wasnot me...
+[2015/12/09 11:35:31] @ Karkus joined channel #supertux
+[2015/12/09 11:37:20] <head8debian> Good afternoon Karkus.
+[2015/12/09 11:37:35] <Karkus> Afternoon, head8debian
+[2015/12/09 11:39:56] <Not-e81f> [02flexlay] 07Karkus476 commented on issue 03#35: Can't Edit Worldmap Files - 13http://git.io/vRbZn
+[2015/12/09 11:42:59] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#256: Intel Integrated Graphics Causes Problems - 13http://git.io/vRXPt
+[2015/12/09 11:43:01] <Not-e81f> [02supertux] 07Karkus476 unlabeled issue 03#256: Intel Integrated Graphics Causes Problems - 13http://git.io/vRXPt
+[2015/12/09 11:43:02] <Not-e81f> [02supertux] 07Karkus476 unlabeled issue 03#256: Intel Integrated Graphics Causes Problems - 13http://git.io/vRXPt
+[2015/12/09 11:43:04] <Not-e81f> [02supertux] 07Karkus476 unlabeled issue 03#256: Intel Integrated Graphics Causes Problems - 13http://git.io/vRXPt
+[2015/12/09 11:43:05] <Not-e81f> [02supertux] 07Karkus476 unlabeled issue 03#256: Intel Integrated Graphics Causes Problems - 13http://git.io/vRXPt
+[2015/12/09 11:43:07] <Not-e81f> [02supertux] 07Karkus476 unlabeled issue 03#256: Intel Integrated Graphics Causes Problems - 13http://git.io/vRXPt
