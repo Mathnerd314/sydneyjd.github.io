@@ -19537,3 +19537,36 @@
 [2015/12/09 12:34:23] <Not-e81f> [02flexlay] 07Karkus476 assigned issue 03#1: Layers - 13http://git.io/vRG8Y
 [2015/12/09 12:34:56] @ Quit: tuxdev_: Ping timeout: 240 seconds
 [2015/12/09 12:44:12] <head8debian> LOL, im getting more of those smap emails, the funny thin is that the email addresses are from the UK and they are suposably from a buisiness that quite 10 years ago in the USA. :D
+[2015/12/09 12:45:35] <Hume2> I hope that it isn't brmbrmspam.
+[2015/12/09 12:45:53] <brmbrmcar> I wasn't me.
+[2015/12/09 12:47:02] <Hume2> Could you brmbrmsquash your commits in your brmbrmfix?
+[2015/12/09 12:47:47] <brmbrmcar> OK then, me temporarily 400mb down...
+[2015/12/09 12:49:53] <Karkus> brmbrmcar: What do those changes actually do?
+[2015/12/09 12:50:14] <brmbrmcar> Stop the dispensers going crazy.
+[2015/12/09 12:51:07] <maths22> head8debian: Great!
+[2015/12/09 12:51:10] <Hume2> Karkus: He has changed the level "Tree Fortress" to "Two Tiny Towers".
+[2015/12/09 12:51:31] <Karkus> Hume2: Ah, okay.
+[2015/12/09 12:51:45] <Karkus> Hume2: Have you tested it?
+[2015/12/09 12:51:48] <brmbrmcar> That was what I was fixing in that pull request.
+[2015/12/09 12:52:07] <Hume2> Karkus: Yes, I have tested it myself.
+[2015/12/09 12:53:01] <Karkus> Hume2: I didn't merge it.
+[2015/12/09 12:53:19] @ Wuzzy joined channel #supertux
+[2015/12/09 12:54:08] <Hume2> Karkus: Do you think that he will brmbrmsquash his commits?
+[2015/12/09 12:54:23] <brmbrmcar> I am cloning the thingnow...
+[2015/12/09 12:54:27] <Karkus> Hume2: I think he needs to rebase.
+[2015/12/09 12:55:05] <Hume2> It is up-to-date.
+[2015/12/09 12:55:25] <Karkus> brmbrmcar: "This branch is 188 commits behind SuperTux:master"
+[2015/12/09 12:55:32] <Karkus> Hume2:https://github.com/brmbrmcar/supertux
+[2015/12/09 12:55:38] <brmbrmcar> fatal: Needed a single revision
+[2015/12/09 12:55:39] <Hume2> Well, I shouldn't say brmbrmsquash. I should have told squash!
+[2015/12/09 12:56:30] <Karkus> Hume2: How up-to-date is this: http://supertux.lethargik.org/wiki/Scripting_reference ?
+[2015/12/09 12:57:25] <Hume2> Karkus: It's another branch.
+[2015/12/09 12:58:07] <Karkus> Hume2: Oh, patch-1
+[2015/12/09 12:58:13] <Hume2> No, patch-2.
+[2015/12/09 12:58:27] <Karkus> brmbrmcar: Can't you think of better names for the branches
+[2015/12/09 12:58:33] <Hume2> brmbrmcar: What the hell are you trying to do?
+[2015/12/09 12:58:35] <Karkus> Hume2: Yes, that
+[2015/12/09 12:59:06] <brmbrmcar> I am squashinthe commits!
+[2015/12/09 12:59:22] <brmbrmcar> patch-2 is just so awesome.
+[2015/12/09 12:59:30] <Hume2> *sigh*
+[2015/12/09 12:59:43] <Karkus> *double sigh*
