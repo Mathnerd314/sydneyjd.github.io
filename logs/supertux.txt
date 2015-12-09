@@ -19679,3 +19679,10 @@
 [2015/12/09 13:36:46] <maths22> Karkus: I really need to implement it better, but right now it won't load if the open build service download page isn't working
 [2015/12/09 13:38:52] <Karkus> maths22: I dont understand
 [2015/12/09 13:40:40] <brmbrmcar> I think the page is being generated from a script which gets the data from the site.
+[2015/12/09 13:57:06] <brmbrmcar> I have not a clue how to fix this git stuff. Redo my work at git push properlu?
+[2015/12/09 13:57:51] @ claymore2 joined channel #supertux
+[2015/12/09 13:59:18] <Hume2> Never mind, we'll do it insted of you.
+[2015/12/09 13:59:25] <brmbrmcar> Ok then...
+[2015/12/09 13:59:35] <brmbrmcar> But I could do it with git...
+[2015/12/09 13:59:50] <brmbrmcar> Am I permitted to delete my files locally?
+[2015/12/09 13:59:56] * Hume2 is tired
