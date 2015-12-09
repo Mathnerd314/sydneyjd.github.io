@@ -19723,3 +19723,6 @@
 [2015/12/09 15:24:38] <Not-e81f> [02supertux] 07brmbrmcar opened issue 03#258: Ice, air and earth Christmas hats - 13http://git.io/vRAYt
 [2015/12/09 15:32:54] @ ced117 joined channel #supertux
 [2015/12/09 15:44:30] @ Quit: xet7: Quit: Leaving
+[2015/12/09 15:49:11] @ Drangue is now known as alket
+[2015/12/09 15:55:09] <maths22> brmbrmcar: I like the hats.  One issue though: why is the ice hat not blue?
+[2015/12/09 15:55:28] <maths22> I would think the colors should somehow reflect the normal colors
