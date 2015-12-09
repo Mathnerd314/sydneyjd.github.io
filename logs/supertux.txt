@@ -19491,3 +19491,8 @@
 [2015/12/09 10:30:46] @ Quit: Tobbi: Ping timeout: 250 seconds
 [2015/12/09 10:31:59] @ brmbrmcar joined channel #supertux
 [2015/12/09 10:41:33] @ tuxdev_ joined channel #supertux
+[2015/12/09 11:12:43] <Not-e81f> [02supertux] 07brmbrmcar opened pull request 03#257: Fix up some errors I caused - 13http://git.io/vRFAY
+[2015/12/09 11:12:45] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95833233
+[2015/12/09 11:12:47] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/98
+[2015/12/09 11:13:27] <brmbrmcar> CI SKIP!!!
+[2015/12/09 11:14:20] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/95833233
