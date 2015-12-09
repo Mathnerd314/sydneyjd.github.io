@@ -19403,3 +19403,6 @@
 [2015/12/09 02:32:36] @ Karkus joined channel #supertux
 [2015/12/09 02:34:44] @ Quit: tuxdev_: Ping timeout: 256 seconds
 [2015/12/09 02:35:52] @ maths22 joined channel #supertux
+[2015/12/09 02:55:08] @ Quit: Karkus: Ping timeout: 256 seconds
+[2015/12/09 02:55:28] @ Karkus joined channel #supertux
+[2015/12/09 02:58:25] @ Quit: Karkus: Remote host closed the connection
