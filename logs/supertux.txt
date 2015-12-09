@@ -19670,3 +19670,12 @@
 [2015/12/09 13:26:11] <maths22> I just feel like I should probably have access
 [2015/12/09 13:26:24] <brmbrmcar> OK.
 [2015/12/09 13:26:36] <brmbrmcar> I am no admin :(
+[2015/12/09 13:32:20] <Hume2> Noone thought so.
+[2015/12/09 13:34:02] <Karkus> maths22: Downloads page won't open
+[2015/12/09 13:35:11] <brmbrmcar> Same here.
+[2015/12/09 13:35:22] <brmbrmcar> Oh, it did eventually.
+[2015/12/09 13:35:47] <Not-e81f> [02flexlay] 07Karkus476 pushed 031 commit to 03develop [+0/-0/±2] 13http://git.io/vRNWE
+[2015/12/09 13:35:49] <Not-e81f> [02flexlay] 07Karkus 03bb24c0f - Allows user to hide/show all layers, but not individually
+[2015/12/09 13:36:46] <maths22> Karkus: I really need to implement it better, but right now it won't load if the open build service download page isn't working
+[2015/12/09 13:38:52] <Karkus> maths22: I dont understand
+[2015/12/09 13:40:40] <brmbrmcar> I think the page is being generated from a script which gets the data from the site.
