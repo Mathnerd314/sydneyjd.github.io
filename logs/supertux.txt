@@ -19346,3 +19346,4 @@
 [2015/12/08 18:28:19] @ Quit: giby_the_kid: Ping timeout: 250 seconds
 [2015/12/08 18:49:56] @ Quit: tuxdev_: Ping timeout: 240 seconds
 [2015/12/08 19:01:33] @ bb010g joined channel #supertux
+[2015/12/08 19:24:08] @ Quit: tux|dude: Quit: Leaving
