@@ -19472,3 +19472,19 @@
 [2015/12/09 09:08:25] <mt> 1.2 GiB download because GCC/G++ rebuild
 [2015/12/09 09:14:25] <Tobbi> I replied.
 [2015/12/09 09:14:28] <Tobbi> to that forum post.
+[2015/12/09 09:48:58] <head8debian> Tobbi: http://pastebin.ubuntu.com/13860055/
+[2015/12/09 09:49:31] <head8debian> Tobbi: I haven't run it BTW...
+[2015/12/09 09:50:26] <head8debian> Tobbi: What do you do with a file like that?
+[2015/12/09 09:50:34] <head8debian> It makes no sense.
+[2015/12/09 09:50:35] <Tobbi> head8debian: unscramble, maybe.
+[2015/12/09 09:51:14] <head8debian> Heh, thats suposably my "billing invoice".
+[2015/12/09 09:55:51] <head8debian> ~figlet 11 DAYS TO RELEASE!
+[2015/12/09 09:55:51] <red_bot>   ___ ___  ___   ___ __  __ ____  ______ ____ 
+[2015/12/09 09:55:51] <red_bot>  <  /<  / / _ \ / _ |\ \/ // __/ /_  __// __ \
+[2015/12/09 09:55:51] <red_bot>  / / / / / // // __ | \  /_\ \    / /  / /_/ /
+[2015/12/09 09:55:51] <red_bot> /_/ /_/ /____//_/ |_| /_//___/   /_/   \____/ 
+[2015/12/09 09:55:51] <red_bot>                                               
+[2015/12/09 09:55:51] <red_bot>    ___   ____ __    ____ ___    ____ ____ __
+[2015/12/09 09:55:51] <red_bot>   / _ \ / __// /   / __// _ |  / __// __// /
+[2015/12/09 09:55:51] <red_bot>  / , _// _/ / /__ / _/ / __ | _\ \ / _/ /_/ 
+[2015/12/09 09:55:51] <red_bot> /_/|_|/___//____//___//_/ |_|/___//___/(_)
