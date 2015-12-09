@@ -19368,3 +19368,20 @@
 [2015/12/08 21:14:37] <Tobbi> for whatever reason.
 [2015/12/08 21:14:46] <head8debian> Tobbi: Local LUG. :D
 [2015/12/08 21:14:55] <Tobbi> head8debian: LUG?
+[2015/12/08 21:15:02] <head8debian> Tobbi: Linux Users group.
+[2015/12/08 21:15:06] <Tobbi> ah.
+[2015/12/08 21:15:24] <head8debian> Tobbi: Ive never been to one of their meetings in person though.
+[2015/12/08 21:15:47] <Tobbi> I should probably go to bed.
+[2015/12/08 21:15:51] <head8debian> Tobbi: :-)
+[2015/12/08 21:16:08] <head8debian> Tobbi: I cannot yet go to bed.
+[2015/12/08 21:16:36] <Tobbi> I *could*...
+[2015/12/08 21:17:24] <head8debian> Tobbi: You could set off the 11 days to release IRC announcement.
+[2015/12/08 21:17:26] <head8debian> :D
+[2015/12/08 21:17:34] <head8debian> Even though its still 12 days here.
+[2015/12/08 21:17:35] <Tobbi> :D
+[2015/12/08 21:18:24] <head8debian> red_bot: ping
+[2015/12/08 21:18:24] <red_bot> head8debian: pong
+[2015/12/08 21:22:03] @ Tobbi set topic "11 days until 0.4.0! | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | Channel log http://sydneyjd.github.io/logs/ | nightly builds http://download.supertuxproject.org/download/"
+[2015/12/08 21:22:11] <Tobbi> good night.
+[2015/12/08 21:22:12] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/08 21:22:37] <head8debian> Heh.
