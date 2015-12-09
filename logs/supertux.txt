@@ -19631,3 +19631,42 @@
 [2015/12/09 13:13:54] <brmbrmcar> Fine. *sigh*
 [2015/12/09 13:14:33] <Hume2> Only Tobbi has the right to say this here.
 [2015/12/09 13:14:54] <Karkus> Hume2: Say what?
+[2015/12/09 13:15:16] <Karkus> Also, Hume2, is this http://supertux.lethargik.org/wiki/Scripting_reference up to date or not?
+[2015/12/09 13:15:18] <Hume2> You know, the word begining on * and ending on *.
+[2015/12/09 13:15:37] <Karkus> Hume2: Ah
+[2015/12/09 13:15:45] <brmbrmcar> You do it.
+[2015/12/09 13:16:00] <Hume2> It was my fault that I used this.
+[2015/12/09 13:17:30] <Hume2> Karkus: I'm not sure. I can say that I added the add_bonus to SuperTux, because it was in the scripting refference but not in SuperTux.
+[2015/12/09 13:18:45] <Karkus> Hume2: Is this where you learnt how to script?
+[2015/12/09 13:18:51] <brmbrmcar> Total 0 (delta 0), reused 0 (delta 0)
+[2015/12/09 13:18:59] <Hume2> Karkus: In fact, yes.
+[2015/12/09 13:19:14] <brmbrmcar> Hume2: The none stil will not work.
+[2015/12/09 13:19:24] <brmbrmcar> Unfortunately.
+[2015/12/09 13:19:33] <Hume2> add_bonus or set_bonus?
+[2015/12/09 13:19:37] <Karkus> Hume2: Would you like to be in charge of keeping it up to date?
+[2015/12/09 13:19:48] <brmbrmcar> add_bonus
+[2015/12/09 13:19:51] <brmbrmcar> error: could not apply b56ea0a... I did something extremely terrible, this is the fix.
+[2015/12/09 13:19:56] <Hume2> Karkus: Yes.
+[2015/12/09 13:20:12] <Hume2> brmbrmcar: use set_bonus instead.
+[2015/12/09 13:20:14] <Karkus> Hume2: Okay. You can edit the wiki right?
+[2015/12/09 13:20:39] <Hume2> Karkus: Not the locked pages.
+[2015/12/09 13:20:53] <Karkus> brmbrmcar: Is this the error you're getting when cherry picking/
+[2015/12/09 13:20:54] <Karkus> ?
+[2015/12/09 13:20:58] <Karkus> Hume2: okay
+[2015/12/09 13:21:19] <maths22> Is there anyone here who would be able to grant me a wiki account?
+[2015/12/09 13:21:21] <brmbrmcar> None works.
+[2015/12/09 13:21:33] <brmbrmcar> @sKarkus:yes.
+[2015/12/09 13:23:25] <Karkus> maths22: No, only Tobbi. He went on a quest set by Mathnerd, and achieved that status. He then made me an account.
+[2015/12/09 13:23:40] <Karkus> maths22: You can make an account
+[2015/12/09 13:23:45] <Karkus> I think...
+[2015/12/09 13:24:15] <maths22> I can't :(
+[2015/12/09 13:24:37] <Karkus> maths22: You'll have to wait for Tobbi then...
+[2015/12/09 13:24:46] <maths22> Karkus: That's fine.  I'll ask him later
+[2015/12/09 13:24:49] <brmbrmcar> I have only got a normal account.
+[2015/12/09 13:25:01] <Karkus> brmbrmcar: How'd you get that?
+[2015/12/09 13:25:09] <brmbrmcar> And also, what are you planning to change?
+[2015/12/09 13:25:31] <brmbrmcar> Kakus: Right after all the crazy files I changed.
+[2015/12/09 13:26:00] <maths22> brmbrmcar: For now, nothing particular
+[2015/12/09 13:26:11] <maths22> I just feel like I should probably have access
+[2015/12/09 13:26:24] <brmbrmcar> OK.
+[2015/12/09 13:26:36] <brmbrmcar> I am no admin :(
