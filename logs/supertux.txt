@@ -19353,3 +19353,4 @@
 [2015/12/08 20:08:10] @ tux|dude joined channel #supertux
 [2015/12/08 20:35:37] @ Quit: VargaD: Ping timeout: 260 seconds
 [2015/12/08 20:36:30] @ VargaD joined channel #supertux
+[2015/12/08 20:59:56] @ Quit: swift110: Ping timeout: 240 seconds
