@@ -19520,3 +19520,8 @@
 [2015/12/09 11:43:04] <Not-e81f> [02supertux] 07Karkus476 unlabeled issue 03#256: Intel Integrated Graphics Causes Problems - 13http://git.io/vRXPt
 [2015/12/09 11:43:05] <Not-e81f> [02supertux] 07Karkus476 unlabeled issue 03#256: Intel Integrated Graphics Causes Problems - 13http://git.io/vRXPt
 [2015/12/09 11:43:07] <Not-e81f> [02supertux] 07Karkus476 unlabeled issue 03#256: Intel Integrated Graphics Causes Problems - 13http://git.io/vRXPt
+[2015/12/09 11:46:17] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#256: Intel Integrated Graphics Causes Problems - 13http://git.io/vRblY
+[2015/12/09 11:55:32] <head8debian> mt: Ok, Supertux is working good in windows 10.
+[2015/12/09 11:55:55] @ alket joined channel #supertux
+[2015/12/09 11:56:23] <head8debian> maths22: ^^
+[2015/12/09 11:57:07] <head8debian> maths22: I had an error the first time i download the addon index file, but the second time it worked, and i was able to install an addon.
