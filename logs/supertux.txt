@@ -20076,3 +20076,15 @@
 [2015/12/10 09:03:17] <head8debian> Anyways, ive gotta go.
 [2015/12/10 09:10:46] @ irungentoo joined channel #supertux
 [2015/12/10 09:19:32] @ Quit: xet7: Quit: Leaving
+[2015/12/10 09:39:53] <head8debian> Tobbi: Might be, not sure.
+[2015/12/10 09:40:00] <Tobbi> head8debian: I managed to flash it...
+[2015/12/10 09:40:03] <Tobbi> It's now booting.
+[2015/12/10 09:40:04] <head8debian> Tobbi: But when i reformat mine the SD card is not touched.
+[2015/12/10 09:40:06] <head8debian> Tobbi: :D
+[2015/12/10 09:40:14] <Tobbi> Takes quite a long time.
+[2015/12/10 09:40:23] <Tobbi> But my tablet is around 5 years old.
+[2015/12/10 09:40:33] <Tobbi> Galaxy Tab 10.1
+[2015/12/10 09:42:25] <head8debian> Tobbi: My phone is almost 6 years old.
+[2015/12/10 09:42:35] <head8debian> Tobbi: It will be slow on the first bootup.
+[2015/12/10 09:42:45] <Tobbi> head8debian: Your phone runs android?
+[2015/12/10 09:42:58] <head8debian> Tobbi: Yes, i flashed Cynanogenmod on it.
