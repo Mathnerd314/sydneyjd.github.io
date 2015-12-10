@@ -20019,3 +20019,10 @@
 [2015/12/10 02:59:31] <brmbrmcar>  /topic 10 days until 0.4.0!
 [2015/12/10 03:02:31] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#258: Ice, air and earth Christmas hats - 13http://git.io/vRpAF
 [2015/12/10 03:21:31] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/12/10 03:39:59] @ Tobbi joined channel #supertux
+[2015/12/10 03:40:00] @ Mode +o Tobbi by ChanServ
+[2015/12/10 03:40:20] <Tobbi> Hello.
+[2015/12/10 03:40:25] <Tobbi> Sorry about that.
+[2015/12/10 03:40:32] <Tobbi> I left my PC on.
+[2015/12/10 03:40:34] <Tobbi> apparently.
+[2015/12/10 03:44:13] @ Tobbi set topic "10 days until 0.4.0! | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | Channel log http://sydneyjd.github.io/logs/ | nightly builds http://download.supertuxproject.org/download/"
