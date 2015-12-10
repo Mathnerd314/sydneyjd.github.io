@@ -20569,3 +20569,17 @@
 [2015/12/10 15:57:23] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/96121079
 [2015/12/10 15:58:31] <Karkus> leyyin: *sigh*
 [2015/12/10 15:58:58] <Karkus> Best bug report ever
+[2015/12/10 16:00:37] <leyyin> :D
+[2015/12/10 16:01:28] @ ced117 joined channel #supertux
+[2015/12/10 16:04:13] <brmbrmcar> Any feedback on Christmas hats for Tux?
+[2015/12/10 16:05:30] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/102
+[2015/12/10 16:05:34] @ Tobbi joined channel #supertux
+[2015/12/10 16:05:34] @ Mode +o Tobbi by ChanServ
+[2015/12/10 16:07:57] <Tobbi> leyyin: You managed to create a pull request to SuperTux. I am proud of you :P
+[2015/12/10 16:08:16] <leyyin> you were not here to cherry pick my commits :P
+[2015/12/10 16:08:29] <leyyin> NSFW http://starecat.com/content/wp-content/uploads/swearing-at-work-manual-instead-of-try-saying.jpg
+[2015/12/10 16:09:11] <Tobbi> :D
+[2015/12/10 16:09:16] <Tobbi> leyyin: You're so right.
+[2015/12/10 16:09:24] <Tobbi> leyyin: Except, both works.
+[2015/12/10 16:09:36] <leyyin> last one, with the holidays, rofl
+[2015/12/10 16:09:58] <Tobbi> :D
