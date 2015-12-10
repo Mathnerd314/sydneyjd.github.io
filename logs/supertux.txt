@@ -19781,3 +19781,30 @@
 [2015/12/09 20:14:03] @ Quit: Tobbi_: Read error: Connection reset by peer
 [2015/12/09 20:14:34] @ Tobbi_ joined channel #supertux
 [2015/12/09 20:14:34] @ Mode +o Tobbi_ by ChanServ
+[2015/12/09 20:15:20] @ Quit: Tobbi: Ping timeout: 250 seconds
+[2015/12/09 20:16:24] @ Tobbi joined channel #supertux
+[2015/12/09 20:16:25] @ Mode +o Tobbi by ChanServ
+[2015/12/09 20:18:27] @ Tobbi__ joined channel #supertux
+[2015/12/09 20:18:27] @ Mode +o Tobbi__ by ChanServ
+[2015/12/09 20:19:31] @ Quit: Tobbi_: Ping timeout: 256 seconds
+[2015/12/09 20:19:58] @ Quit: Tobbi__: Read error: Connection reset by peer
+[2015/12/09 20:20:19] @ Tobbi_ joined channel #supertux
+[2015/12/09 20:20:19] @ Mode +o Tobbi_ by ChanServ
+[2015/12/09 20:21:13] @ Quit: Tobbi: Ping timeout: 256 seconds
+[2015/12/09 20:22:02] @ Tobbi joined channel #supertux
+[2015/12/09 20:22:02] @ Mode +o Tobbi by ChanServ
+[2015/12/09 20:22:53] @ tuxdev_ joined channel #supertux
+[2015/12/09 20:23:59] @ Tobbi__ joined channel #supertux
+[2015/12/09 20:23:59] @ Mode +o Tobbi__ by ChanServ
+[2015/12/09 20:25:11] @ Quit: Tobbi_: Ping timeout: 256 seconds
+[2015/12/09 20:25:59] @ Tobbi_ joined channel #supertux
+[2015/12/09 20:26:00] @ Mode +o Tobbi_ by ChanServ
+[2015/12/09 20:26:51] <maths22> Tobbi: How many of you are there?
+[2015/12/09 20:26:53] @ Quit: Tobbi: Ping timeout: 256 seconds
+[2015/12/09 20:27:32] @ Tobbi joined channel #supertux
+[2015/12/09 20:27:33] @ Mode +o Tobbi by ChanServ
+[2015/12/09 20:27:43] <maths22> Tobbi: What is going on??
+[2015/12/09 20:28:35] @ Quit: Tobbi__: Ping timeout: 256 seconds
+[2015/12/09 20:29:28] @ Tobbi__ joined channel #supertux
+[2015/12/09 20:29:29] @ Mode +o Tobbi__ by ChanServ
+[2015/12/09 20:29:38] @ Quit: Tobbi: Read error: Connection reset by peer
