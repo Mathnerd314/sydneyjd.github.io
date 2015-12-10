@@ -20491,3 +20491,6 @@
 [2015/12/10 14:29:35] <leyyin> wth, something is wrong with these imports O_O
 [2015/12/10 14:30:20] <brmbrmcar> It doesn't any more.
 [2015/12/10 14:35:32] <leyyin> ah, stupid python modules
+[2015/12/10 14:50:21] @ Quit: claymore2: Quit: Leaving
+[2015/12/10 14:55:55] @ Karkus joined channel #supertux
+[2015/12/10 14:56:52] <Not-e81f> [02flexlay] 07leyyin opened pull request 03#51: Run PEP8 cleaner on the project - 13http://git.io/v0Jes
