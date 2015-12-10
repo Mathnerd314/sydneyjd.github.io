@@ -20035,3 +20035,18 @@
 [2015/12/10 08:16:10] @ datahead8888 joined channel #supertux
 [2015/12/10 08:23:14] @ Tobbi joined channel #supertux
 [2015/12/10 08:23:14] @ Mode +o Tobbi by ChanServ
+[2015/12/10 08:54:42] <head8debian> Tobbi: :D
+[2015/12/10 08:55:53] <Tobbi> I'm gonna try flashing a Android M ROM now.
+[2015/12/10 08:56:24] <head8debian> Tobbi: Elektrodenanschlusskabel
+[2015/12/10 08:56:27] <head8debian> I need one. :D
+[2015/12/10 08:56:31] <Tobbi> haha
+[2015/12/10 08:57:11] <head8debian> Tobbi: It had german on the label, so i thought "oh, i will say it to Tobbi. :)
+[2015/12/10 08:57:26] <head8debian> Tobbi: I keep getting these emails telling me i have to give people money...
+[2015/12/10 08:57:37] <Tobbi> head8debian: You're Christian...
+[2015/12/10 08:57:39] <Tobbi> :D
+[2015/12/10 08:57:47] <head8debian> Tobbi: 8,500$ from one buisiness and 500$ from another...
+[2015/12/10 08:57:49] <Tobbi> You have to give people money...
+[2015/12/10 08:57:52] <Tobbi> and feel good about it.
+[2015/12/10 08:57:55] <head8debian> Tobbi: So it must be spam.
+[2015/12/10 08:58:17] <head8debian> Tobbi: They are trying to tell me that i bought that much from them. And never paid them.
+[2015/12/10 08:58:23] <Tobbi> I see..
