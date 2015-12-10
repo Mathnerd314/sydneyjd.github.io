@@ -20091,3 +20091,5 @@
 [2015/12/10 09:45:08] <Tobbi> hrm.
 [2015/12/10 09:54:10] @ tuxdev_ joined channel #supertux
 [2015/12/10 10:07:58] <Tobbi> head8debian: Did we say noon my time or 4pm my time for the release?
+[2015/12/10 10:21:24] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/10 10:23:02] <head8debian> 4pm.
