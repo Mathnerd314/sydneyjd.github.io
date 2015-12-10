@@ -20015,3 +20015,5 @@
 [2015/12/10 01:27:01] <Not-e81f> [02supertux] 07Hume2 03c3d8d53 - Reverted "Fixed dispenser direction"
 [2015/12/10 02:13:29] @ Quit: tuxdev_: Ping timeout: 272 seconds
 [2015/12/10 02:27:54] @ xet7 joined channel #supertux
+[2015/12/10 02:59:07] @ brmbrmcar joined channel #supertux
+[2015/12/10 02:59:31] <brmbrmcar>  /topic 10 days until 0.4.0!
