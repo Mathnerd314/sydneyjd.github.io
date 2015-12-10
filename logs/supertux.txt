@@ -20523,3 +20523,26 @@
 [2015/12/10 15:26:58] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/101
 [2015/12/10 15:28:17] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96120127
 [2015/12/10 15:28:45] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96120127
+[2015/12/10 15:30:28] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96120127
+[2015/12/10 15:31:05] <Not-e81f> [02supertux] 07Hume2 pushed 032 commits to 03master [+0/-1/±3] 13http://git.io/v0JYB
+[2015/12/10 15:31:07] <Not-e81f> [02supertux] 07Hume2 035978c4e - No more fake snowball bounces on slopes
+[2015/12/10 15:31:09] <Not-e81f> [02supertux] 07Hume2 03c62b00e - Merge branch 'master' of https://github.com/SuperTux/supertux
+[2015/12/10 15:31:10] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96121079
+[2015/12/10 15:31:11] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/102
+[2015/12/10 15:31:29] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96120127
+[2015/12/10 15:31:52] @ Quit: Hume2: Quit: Page closed
+[2015/12/10 15:37:38] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96121079
+[2015/12/10 15:39:53] <leyyin> good thing I ignored the bot :D
+[2015/12/10 15:40:27] <Karkus> leyyin: You are going to look like a very committed developer of flexlay
+[2015/12/10 15:40:58] <leyyin> why is that?
+[2015/12/10 15:41:18] <Karkus> I'm joking
+[2015/12/10 15:41:59] <Karkus> You've added 437 lines, and removed about 700
+[2015/12/10 15:42:05] <Karkus> Have you tested it?
+[2015/12/10 15:42:15] <Karkus> I guess I should anyway
+[2015/12/10 15:42:19] <leyyin> if by testing, you mean running, yes
+[2015/12/10 15:42:34] <leyyin> and opening a level, etc
+[2015/12/10 15:42:39] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/96120127
+[2015/12/10 15:42:43] <leyyin> I did not run any tests thought
+[2015/12/10 15:42:51] <Karkus> Well, we don't have many
+[2015/12/10 15:42:58] <Karkus> I reckon I should make some
+[2015/12/10 15:44:11] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96121079
