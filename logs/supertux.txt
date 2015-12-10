@@ -20075,3 +20075,4 @@
 [2015/12/10 09:03:16] <Tobbi> head8debian: I thought the data/ partition was the SD card?
 [2015/12/10 09:03:17] <head8debian> Anyways, ive gotta go.
 [2015/12/10 09:10:46] @ irungentoo joined channel #supertux
+[2015/12/10 09:19:32] @ Quit: xet7: Quit: Leaving
