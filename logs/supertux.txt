@@ -19964,3 +19964,27 @@
 [2015/12/09 21:57:33] @ Quit: Tobbi__: Ping timeout: 256 seconds
 [2015/12/09 21:58:38] @ Tobbi joined channel #supertux
 [2015/12/09 21:58:38] @ Mode +o Tobbi by ChanServ
+[2015/12/09 22:00:13] @ Tobbi__ joined channel #supertux
+[2015/12/09 22:00:13] @ Mode +o Tobbi__ by ChanServ
+[2015/12/09 22:01:31] @ Quit: Tobbi_: Ping timeout: 256 seconds
+[2015/12/09 22:02:25] @ Tobbi_ joined channel #supertux
+[2015/12/09 22:02:25] @ Mode +o Tobbi_ by ChanServ
+[2015/12/09 22:03:13] @ Quit: Tobbi: Ping timeout: 256 seconds
+[2015/12/09 22:03:57] @ Tobbi joined channel #supertux
+[2015/12/09 22:03:57] @ Mode +o Tobbi by ChanServ
+[2015/12/09 22:04:55] @ Quit: Tobbi__: Ping timeout: 256 seconds
+[2015/12/09 22:05:54] @ Tobbi__ joined channel #supertux
+[2015/12/09 22:05:55] @ Mode +o Tobbi__ by ChanServ
+[2015/12/09 22:07:11] @ Quit: Tobbi_: Ping timeout: 256 seconds
+[2015/12/09 22:07:47] @ Tobbi_ joined channel #supertux
+[2015/12/09 22:07:47] @ Mode +o Tobbi_ by ChanServ
+[2015/12/09 22:08:53] @ Quit: Tobbi: Ping timeout: 256 seconds
+[2015/12/09 22:09:58] @ Tobbi joined channel #supertux
+[2015/12/09 22:09:59] @ Mode +o Tobbi by ChanServ
+[2015/12/09 22:10:35] @ Quit: Tobbi__: Ping timeout: 256 seconds
+[2015/12/09 22:11:34] @ Tobbi__ joined channel #supertux
+[2015/12/09 22:11:34] @ Mode +o Tobbi__ by ChanServ
+[2015/12/09 22:12:17] @ Quit: Tobbi_: Ping timeout: 240 seconds
+[2015/12/09 22:13:25] @ Tobbi_ joined channel #supertux
+[2015/12/09 22:13:26] @ Mode +o Tobbi_ by ChanServ
+[2015/12/09 22:14:17] @ Quit: Tobbi: Ping timeout: 240 seconds
