@@ -20428,3 +20428,9 @@
 [2015/12/10 13:44:08] <brmbrmcar> I sould probably have faked it, as the school servers are easy to fake.
 [2015/12/10 13:44:49] <Tobbi> brmbrmcar: But still, I just wanted to tell you to stop this tomfoolery.
 [2015/12/10 13:44:56] <Tobbi> It gets on our collective nerves.
+[2015/12/10 13:48:49] <brmbrmcar> Should I dos the school servers?
+[2015/12/10 13:53:13] <leyyin> Tobbi, so he is in highschool :D
+[2015/12/10 13:53:26] <brmbrmcar> git commit --amend --author
+[2015/12/10 13:53:36] <Tobbi> leyyin: Yes, he is.
+[2015/12/10 13:53:41] <Tobbi> I assumed as much already.
+[2015/12/10 13:57:55] <head8debian> lol.
