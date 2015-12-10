@@ -20434,3 +20434,27 @@
 [2015/12/10 13:53:36] <Tobbi> leyyin: Yes, he is.
 [2015/12/10 13:53:41] <Tobbi> I assumed as much already.
 [2015/12/10 13:57:55] <head8debian> lol.
+[2015/12/10 14:00:39] <Hume2> LOL, I thought that he's 11.
+[2015/12/10 14:01:00] <head8debian> Tobbi: Your surrounded by a bunch of high schoolers. :)
+[2015/12/10 14:01:20] <brmbrmcar> OK now. Joke's over.
+[2015/12/10 14:01:40] <Tobbi> I know.
+[2015/12/10 14:05:11] <head8debian> Tobbi: You don't have a GPG key?
+[2015/12/10 14:06:00] <leyyin> you use google test?
+[2015/12/10 14:06:12] <head8debian> leyyin: What?
+[2015/12/10 14:07:21] <leyyin> the test framework
+[2015/12/10 14:07:30] <head8debian> leyyin: I never have.
+[2015/12/10 14:07:39] <leyyin> yes, you do :D
+[2015/12/10 14:07:43] <leyyin> https://github.com/SuperTux/supertux/tree/master/tests
+[2015/12/10 14:08:05] <Tobbi> head8debian: My GPG key expired long ago.
+[2015/12/10 14:08:11] <Tobbi> leyyin: Grumbel's work.
+[2015/12/10 14:08:59] <leyyin> why https://github.com/SuperTux/supertux/blob/master/LICENSE.txt https://github.com/SuperTux/supertux/blob/master/LICENSE
+[2015/12/10 14:09:04] <leyyin> two identical files
+[2015/12/10 14:09:18] <leyyin> GPL 3 intensifies
+[2015/12/10 14:09:20] <Tobbi> leyyin: for people who don't know how txt works.
+[2015/12/10 14:09:29] <leyyin> just create one O_O
+[2015/12/10 14:11:13] <Tobbi> leyyin: Stop complaining about our licenses, run pep8 on the python stuff.
+[2015/12/10 14:11:31] <leyyin> want to make a pull request to delete one of the files ;) ?
+[2015/12/10 14:11:39] <Tobbi> leyyin: ...
+[2015/12/10 14:12:50] <leyyin> I apparently broke the editor, lemme fix the issue
+[2015/12/10 14:14:15] <leyyin> ha, Christmas music :D
+[2015/12/10 14:14:36] <Tobbi> leyyin: It's nice christmas music.
