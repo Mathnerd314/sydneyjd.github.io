@@ -20251,3 +20251,33 @@
 [2015/12/10 12:29:16] <Karkus> leyyin: How can I decrease the size of the .git folder?
 [2015/12/10 12:29:25] <leyyin> you can't
 [2015/12/10 12:29:30] <leyyin> want to modify history? ;)
+[2015/12/10 12:30:05] <Tobbi> I'd rather not.
+[2015/12/10 12:30:47] <maths22> Tobbi: You'd rather not what?
+[2015/12/10 12:31:11] <Tobbi> maths22: modify history.
+[2015/12/10 12:31:14] <Karkus> Can I remove WW2?
+[2015/12/10 12:31:24] <leyyin> remove hitler
+[2015/12/10 12:31:26] <leyyin> sure why not
+[2015/12/10 12:32:08] <maths22> I would agree that it is generally inadvisible to modify history
+[2015/12/10 12:32:21] <Tobbi> Check PM, maths22
+[2015/12/10 12:32:26] <maths22> No one wants to experience the grandfather paradox first-hand
+[2015/12/10 12:38:32] <brmbrmcar> The wiki Downloads should mention the nightly builds.
+[2015/12/10 12:38:38] <Karkus> leyyin: Have you run pep8 on it?
+[2015/12/10 12:38:43] <brmbrmcar> But I cannot access the page.
+[2015/12/10 12:38:53] <Karkus> So should the website Downloads page
+[2015/12/10 12:39:44] <brmbrmcar> Yeah, but in both cases mention that they mostly do not work.
+[2015/12/10 12:39:45] <leyyin> a sec, busy with something else
+[2015/12/10 12:39:56] <brmbrmcar> Without severe adjustment.
+[2015/12/10 12:41:10] <maths22> These will be updated once I am satisfied with both the quality of the builds (which I think I am) and the download process/page (which I am not quite yet satisfied with)
+[2015/12/10 12:42:03] <brmbrmcar> OK.
+[2015/12/10 12:42:05] <maths22> brmbrmcar: What do you mean about not working?
+[2015/12/10 12:42:17] <brmbrmcar> The debs won't work at all.
+[2015/12/10 12:42:37] <brmbrmcar> I tried it with a fresh Ubuntu install, nothing either.
+[2015/12/10 12:42:42] <maths22> brmbrmcar: that's the OBS half that needs help
+[2015/12/10 12:42:52] <Not-e81f> [02flexlay] 07Karkus476 pushed 031 commit to 03develop [+1/-1/±0] 13http://git.io/v0feQ
+[2015/12/10 12:42:53] <maths22> I'm hoping to take care of that today or tomorrow
+[2015/12/10 12:42:53] <Not-e81f> [02flexlay] 07Karkus476 0350893da - Update README
+[2015/12/10 12:43:38] <Not-e81f> [02flexlay] 07Karkus476 pushed 031 commit to 03develop [+0/-0/±1] 13http://git.io/v0fvm
+[2015/12/10 12:43:40] <Not-e81f> [02flexlay] 07Karkus476 036c31c94 - Update README.md
+[2015/12/10 12:43:53] <brmbrmcar> What is OBS?
+[2015/12/10 12:44:17] <maths22> Open Build Service: the system used to make the linux packages
+[2015/12/10 12:44:23] <Karkus> I think Git is a great invention, but does anyone really need the whole history of an application?
