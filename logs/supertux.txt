@@ -20032,3 +20032,6 @@
 [2015/12/10 07:23:13] @ Mode +o Tobbi by ChanServ
 [2015/12/10 07:48:52] @ Quit: Tobbi: 
 [2015/12/10 08:06:43] @ Quit: datahead8888_: Ping timeout: 256 seconds
+[2015/12/10 08:16:10] @ datahead8888 joined channel #supertux
+[2015/12/10 08:23:14] @ Tobbi joined channel #supertux
+[2015/12/10 08:23:14] @ Mode +o Tobbi by ChanServ
