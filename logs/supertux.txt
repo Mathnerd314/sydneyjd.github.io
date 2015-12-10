@@ -20337,3 +20337,52 @@
 [2015/12/10 12:58:56] <maths22> (Images come in 2nd)
 [2015/12/10 12:59:28] <Hume2> There are many useless images.
 [2015/12/10 12:59:58] <brmbrmcar> Like my sprites for *** *** ***s?
+[2015/12/10 13:00:16] <brmbrmcar> I haven't implemented thedm, luckily.
+[2015/12/10 13:00:30] <brmbrmcar> And they have no license.
+[2015/12/10 13:00:45] <Hume2> No, I mean the phone.
+[2015/12/10 13:00:47] <Tobbi> I have no idea what the hell you're talking about.
+[2015/12/10 13:00:55] <Hume2> tele-phone
+[2015/12/10 13:01:28] <brmbrmcar> Number?
+[2015/12/10 13:03:28] <maths22> Uncompressed:
+[2015/12/10 13:03:33] <maths22> maths22@brlcad:~/supertux-code$ du -h -d 1 data 58K    data/fonts 30M    data/images 42M    data/levels
+[2015/12/10 13:03:36] <maths22> 908K    data/locale 44M    data/music
+[2015/12/10 13:03:38] <maths22> 6.0K    data/scripts
+[2015/12/10 13:03:41] <maths22> 5.5M    data/sounds
+[2015/12/10 13:03:43] <maths22> 808K    data/speech
+[2015/12/10 13:03:46] <maths22> 123M    data
+[2015/12/10 13:03:50] <maths22> Wow-that did not paste well at all.  Sorry :(
+[2015/12/10 13:04:03] <Hume2> https://github.com/SuperTux/supertux/blob/master/data/images/objects/bonus_block/info_block.png
+[2015/12/10 13:04:05] <maths22> The thing about the levels is that they compress very well
+[2015/12/10 13:04:31] <maths22> Hume2: What was that supposed to be used for?
+[2015/12/10 13:05:07] <Hume2> maths22: I think that this was supposed to be an info block, but it's now not used anywhere at all.
+[2015/12/10 13:05:32] <brmbrmcar> I like it.
+[2015/12/10 13:05:37] <Tobbi> A small image doesn't make a big difference.
+[2015/12/10 13:05:47] <brmbrmcar> It could be an easter egg somewhere...
+[2015/12/10 13:05:51] <Tobbi> Besides, I wasn't allowed to compress with imageoptim...
+[2015/12/10 13:05:58] <Tobbi> otherwise, people will complain again.
+[2015/12/10 13:06:16] <maths22> Tobbi: Can you share whatever script you used to do that?
+[2015/12/10 13:06:17] <Tobbi> :P
+[2015/12/10 13:06:17] <brmbrmcar> Think that is a good idea?
+[2015/12/10 13:06:24] <Tobbi> maths22: It was a program...
+[2015/12/10 13:06:25] <maths22> I'll make it part of the release (not debug) build process
+[2015/12/10 13:06:27] <Tobbi> ImageOptim.
+[2015/12/10 13:06:30] <maths22> :(
+[2015/12/10 13:06:47] <Hume2> It's true that the majority of images are used somewhere.
+[2015/12/10 13:06:47] <Tobbi> maths22: You might be able to compress with Zopfli...
+[2015/12/10 13:06:54] <Tobbi> iirc, it's a google image compressor thing.
+[2015/12/10 13:07:25] <Tobbi> maths22: https://github.com/google/zopfli
+[2015/12/10 13:07:32] <maths22> All of the images we care about are PNGs, right?
+[2015/12/10 13:07:46] <Tobbi> maths22: https://imageoptim.com/
+[2015/12/10 13:07:54] <Tobbi> maths22: If I recall correctly, yes.
+[2015/12/10 13:07:58] <maths22> :( some of the backgrounds are jpgs
+[2015/12/10 13:08:06] <maths22> i.e. https://github.com/SuperTux/supertux/blob/master/data/images/background/cave2.jpg
+[2015/12/10 13:08:34] <brmbrmcar> info_block has no sprite.
+[2015/12/10 13:08:48] <brmbrmcar> Am I permitted to make one?
+[2015/12/10 13:09:34] <Tobbi> info_block?
+[2015/12/10 13:09:45] <maths22> There are 30 jpgs (including the credit images) and 1941 pngs.  I think I'll worry about the pngs
+[2015/12/10 13:10:25] <brmbrmcar> You know, the phone!
+[2015/12/10 13:10:46] <brmbrmcar> But it is cxalled info_block!
+[2015/12/10 13:11:37] <brmbrmcar> I hate jpeg!
+[2015/12/10 13:14:37] <Hume2> brmbrmcar: Please, don't. I guess, we'll remove it one nice day.
+[2015/12/10 13:14:55] <Tobbi> for god's sake, we're 10 days before a release
+[2015/12/10 13:15:00] <Tobbi> Don't make drastic changes now.
