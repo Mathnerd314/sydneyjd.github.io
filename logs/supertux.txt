@@ -20512,3 +20512,14 @@
 [2015/12/10 15:06:37] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/96114628
 [2015/12/10 15:12:10] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96115075
 [2015/12/10 15:13:09] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96115075
+[2015/12/10 15:17:06] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/100
+[2015/12/10 15:19:56] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/96115075
+[2015/12/10 15:23:03] * jesusalva thinks
+[2015/12/10 15:23:07] <jesusalva> That's a lot of errors.
+[2015/12/10 15:23:47] * jesusalva returns to whatever planning he was doing before.
+[2015/12/10 15:26:52] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v0Jmq
+[2015/12/10 15:26:53] <Not-e81f> [02supertux] 07Jacob Burroughs 031be0b59 - Corrected license installation
+[2015/12/10 15:26:55] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96120127
+[2015/12/10 15:26:58] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/101
+[2015/12/10 15:28:17] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96120127
+[2015/12/10 15:28:45] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96120127
