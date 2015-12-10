@@ -19833,3 +19833,28 @@
 [2015/12/09 20:43:30] @ Quit: Tobbi_: Ping timeout: 250 seconds
 [2015/12/09 20:44:55] @ Tobbi_ joined channel #supertux
 [2015/12/09 20:44:56] @ Mode +o Tobbi_ by ChanServ
+[2015/12/09 20:45:40] @ Quit: Tobbi__: Ping timeout: 250 seconds
+[2015/12/09 20:46:52] @ Tobbi__ joined channel #supertux
+[2015/12/09 20:46:52] @ Mode +o Tobbi__ by ChanServ
+[2015/12/09 20:47:24] @ Quit: Tobbi: Ping timeout: 250 seconds
+[2015/12/09 20:48:42] @ Tobbi joined channel #supertux
+[2015/12/09 20:48:42] @ Mode +o Tobbi by ChanServ
+[2015/12/09 20:49:13] @ Quit: tuxdev_: Ping timeout: 272 seconds
+[2015/12/09 20:49:34] @ Quit: Tobbi_: Ping timeout: 250 seconds
+[2015/12/09 20:50:14] @ Tobbi_ joined channel #supertux
+[2015/12/09 20:50:15] @ Mode +o Tobbi_ by ChanServ
+[2015/12/09 20:51:18] @ Quit: Tobbi__: Ping timeout: 250 seconds
+[2015/12/09 20:52:28] @ Tobbi__ joined channel #supertux
+[2015/12/09 20:52:29] @ Mode +o Tobbi__ by ChanServ
+[2015/12/09 20:53:39] @ Quit: Tobbi: Ping timeout: 272 seconds
+[2015/12/09 20:53:46] @ Quit: Tobbi__: Read error: Connection reset by peer
+[2015/12/09 20:53:59] @ Tobbi joined channel #supertux
+[2015/12/09 20:54:00] @ Mode +o Tobbi by ChanServ
+[2015/12/09 20:55:33] @ Quit: Tobbi_: Ping timeout: 272 seconds
+[2015/12/09 20:55:55] @ Tobbi_ joined channel #supertux
+[2015/12/09 20:55:55] @ Mode +o Tobbi_ by ChanServ
+[2015/12/09 20:57:49] @ Tobbi__ joined channel #supertux
+[2015/12/09 20:57:50] @ Mode +o Tobbi__ by ChanServ
+[2015/12/09 20:59:21] @ Quit: Tobbi: Ping timeout: 272 seconds
+[2015/12/09 20:59:41] @ Tobbi joined channel #supertux
+[2015/12/09 20:59:42] @ Mode +o Tobbi by ChanServ
