@@ -20791,3 +20791,4 @@
 [2015/12/10 18:20:43] <Tobbi> head8debian: Any idea about this: http://forum.freegamedev.net/viewtopic.php?f=67&t=6673&sid=e4d0e42cffb064cd5d7525533afd547c
 [2015/12/10 18:22:35] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/107
 [2015/12/10 18:28:45] @ Quit: alket: Quit: Good Night :)
+[2015/12/10 18:32:22] @ xet7 joined channel #supertux
