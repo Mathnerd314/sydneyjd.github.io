@@ -19884,3 +19884,34 @@
 [2015/12/09 21:14:43] @ Quit: Tobbi_: Read error: Connection reset by peer
 [2015/12/09 21:14:50] @ Tobbi joined channel #supertux
 [2015/12/09 21:14:50] @ Mode +o Tobbi by ChanServ
+[2015/12/09 21:15:37] @ Quit: Tobbi__: Ping timeout: 240 seconds
+[2015/12/09 21:16:44] @ Tobbi_ joined channel #supertux
+[2015/12/09 21:16:44] @ Mode +o Tobbi_ by ChanServ
+[2015/12/09 21:18:59] @ Tobbi__ joined channel #supertux
+[2015/12/09 21:19:00] @ Mode +o Tobbi__ by ChanServ
+[2015/12/09 21:19:16] @ Quit: Tobbi: Ping timeout: 240 seconds
+[2015/12/09 21:20:37] @ Quit: Tobbi__: Read error: Connection reset by peer
+[2015/12/09 21:20:42] @ Tobbi joined channel #supertux
+[2015/12/09 21:20:43] @ Mode +o Tobbi by ChanServ
+[2015/12/09 21:21:17] @ Quit: Tobbi_: Ping timeout: 240 seconds
+[2015/12/09 21:22:43] @ Tobbi_ joined channel #supertux
+[2015/12/09 21:22:43] @ Mode +o Tobbi_ by ChanServ
+[2015/12/09 21:23:52] @ Quit: Tobbi_: Read error: Connection reset by peer
+[2015/12/09 21:24:12] <head8debian> Tobbi: PING!!!!
+[2015/12/09 21:24:15] @ Tobbi_ joined channel #supertux
+[2015/12/09 21:24:16] @ Mode +o Tobbi_ by ChanServ
+[2015/12/09 21:24:16] <head8debian> Tobbi: PING!!!
+[2015/12/09 21:24:20] <head8debian> Tobbi: PING!!!
+[2015/12/09 21:24:25] <head8debian> Tobbi_: PING!!!
+[2015/12/09 21:24:27] <head8debian> Tobbi_: PING!!!
+[2015/12/09 21:24:27] <head8debian> Tobbi_: PING!!!
+[2015/12/09 21:24:27] <head8debian> Tobbi_: PING!!!
+[2015/12/09 21:24:28] <head8debian> Tobbi_: PING!!!
+[2015/12/09 21:24:31] <head8debian> Tobbi_: PING!!!
+[2015/12/09 21:24:33] <head8debian> Tobbi_: PING!!!
+[2015/12/09 21:24:56] @ Quit: Tobbi: Ping timeout: 240 seconds
+[2015/12/09 21:26:07] @ Tobbi joined channel #supertux
+[2015/12/09 21:26:08] @ Mode +o Tobbi by ChanServ
+[2015/12/09 21:28:25] @ Tobbi__ joined channel #supertux
+[2015/12/09 21:28:25] @ Mode +o Tobbi__ by ChanServ
+[2015/12/09 21:28:37] @ Quit: Tobbi_: Ping timeout: 240 seconds
