@@ -20050,3 +20050,28 @@
 [2015/12/10 08:57:55] <head8debian> Tobbi: So it must be spam.
 [2015/12/10 08:58:17] <head8debian> Tobbi: They are trying to tell me that i bought that much from them. And never paid them.
 [2015/12/10 08:58:23] <Tobbi> I see..
+[2015/12/10 09:00:11] <Tobbi> head8debian: One does not simply walk into Elektrodenanschlusskabel.
+[2015/12/10 09:00:11] <head8debian> Tobbi: Want me to send one to you? They all have these lovely javascript codes attached to them.
+[2015/12/10 09:00:18] <Tobbi> head8debian: No thanks.
+[2015/12/10 09:00:28] <head8debian> :D
+[2015/12/10 09:00:39] <head8debian> Tobbi: OUCH! 1GB of updates today for arch.
+[2015/12/10 09:00:51] <Tobbi> I'm trying to flash Android M...and it's gonna be difficult.
+[2015/12/10 09:01:08] <head8debian> Tobbi: Have fun. :D
+[2015/12/10 09:01:16] <Tobbi> I most likely won't.
+[2015/12/10 09:01:18] <head8debian> Tobbi: Why would it be dificult with a recovery?
+[2015/12/10 09:01:34] <Tobbi> head8debian: Because I need to transfer the file after clearing data/
+[2015/12/10 09:01:41] <Tobbi> And I am kind of not sure how...I did it once...
+[2015/12/10 09:01:46] <Tobbi> I can't remember.
+[2015/12/10 09:01:49] <Tobbi> Probably try adb.
+[2015/12/10 09:01:53] <head8debian> Tobbi: Arch had a C++ ABI change (whatever that means), so i figure thats why there is so much to download.
+[2015/12/10 09:02:10] <Tobbi> head8debian: You need ABI...in order to get a good job here in Germany.
+[2015/12/10 09:02:23] <head8debian> Tobbi: Does your phone have a recovery enviroment?
+[2015/12/10 09:02:31] <Tobbi> head8debian: Yes, and it's a tablet.
+[2015/12/10 09:02:48] <head8debian> Tobbi: Then that shouldn't be too hard.
+[2015/12/10 09:02:58] <Tobbi> I'll try...
+[2015/12/10 09:02:59] <Tobbi> let's see..
+[2015/12/10 09:03:02] <head8debian> Tobbi: Just dont delete your SD card.
+[2015/12/10 09:03:06] <head8debian> :-)
+[2015/12/10 09:03:16] <Tobbi> head8debian: I thought the data/ partition was the SD card?
+[2015/12/10 09:03:17] <head8debian> Anyways, ive gotta go.
+[2015/12/10 09:10:46] @ irungentoo joined channel #supertux
