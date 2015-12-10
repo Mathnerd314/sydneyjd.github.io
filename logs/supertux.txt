@@ -20281,3 +20281,59 @@
 [2015/12/10 12:43:53] <brmbrmcar> What is OBS?
 [2015/12/10 12:44:17] <maths22> Open Build Service: the system used to make the linux packages
 [2015/12/10 12:44:23] <Karkus> I think Git is a great invention, but does anyone really need the whole history of an application?
+[2015/12/10 12:45:18] <brmbrmcar> Ah, OK.
+[2015/12/10 12:45:32] <maths22> Karkus: Probably not.  I personally liked the SVN model more, but it isn't perfect either
+[2015/12/10 12:45:38] <brmbrmcar> I hate the way git ust overloads disk space.
+[2015/12/10 12:46:01] <Karkus> How much disk space do you have, brmbrmcar?
+[2015/12/10 12:46:45] <maths22> Interestingly, for 99% text-based repositories, a git clone may be about the same size as a full SVN checkout (i.e brlcad, which is currently on revision 66757)
+[2015/12/10 12:47:03] <maths22> The full (compressed) history is actually about the same size as the SVN clean copy it creates
+[2015/12/10 12:47:19] <Karkus> I don't understand SVN
+[2015/12/10 12:47:28] <brmbrmcar> 3.5gb, try not to go below 2
+[2015/12/10 12:47:37] <brmbrmcar> 9gb ssd.
+[2015/12/10 12:47:48] <Karkus> What computer are you on?
+[2015/12/10 12:47:53] <Karkus> A gameboy
+[2015/12/10 12:47:54] <Karkus> ?
+[2015/12/10 12:47:57] <maths22> Karkus: What about it don't you understand?
+[2015/12/10 12:48:08] <brmbrmcar> Acer Chromebook 11
+[2015/12/10 12:48:23] <Karkus> With 9Gb?
+[2015/12/10 12:48:51] <Karkus> maths22: Well, which one is better in regards of size?
+[2015/12/10 12:49:06] <brmbrmcar> They advertise 16, but even after complete developer reset only gets 9.
+[2015/12/10 12:49:25] @ Hume2 joined channel #supertux
+[2015/12/10 12:49:53] <Karkus> My Laptop has 1Tb
+[2015/12/10 12:50:03] <brmbrmcar> 1tb is sill old.
+[2015/12/10 12:50:21] <Karkus> Huh?
+[2015/12/10 12:50:23] <maths22> Karkus: It depends.  For example, SVN would take up less space for SuperTux by a reasonable amount
+[2015/12/10 12:50:37] <maths22> It would use about 166 + 166 MB for a full checkout
+[2015/12/10 12:50:39] <brmbrmcar> 2tb is the new standard.
+[2015/12/10 12:50:55] <maths22> (It stores a clean copy uncompressed along with the working copy)
+[2015/12/10 12:51:00] <Karkus> brmbrmcar: Yes, but all I'm saying is I'm not complaining
+[2015/12/10 12:51:05] <maths22> Git is 484
+[2015/12/10 12:51:15] <brmbrmcar> OK.
+[2015/12/10 12:51:20] <maths22> (Note that these numbers are based on some old revision, but it doesn't matter too much)
+[2015/12/10 12:51:34] <jesusalva> 250 GB here. ;)
+[2015/12/10 12:51:50] <maths22> The reason is that we have a good amount of binary files (in data) which compress poorly and where delta-style histories don't work
+[2015/12/10 12:52:04] <Karkus> That's barely enough for windows jesusalva
+[2015/12/10 12:52:09] <brmbrmcar> I have a terrible computer.
+[2015/12/10 12:52:11] <jesusalva> I don't use windows.
+[2015/12/10 12:52:16] <maths22> To some extent, this is probably why STK does a svn repo for data and a git repo for the code
+[2015/12/10 12:52:25] <jesusalva> My Windows have bare minimum space.
+[2015/12/10 12:52:27] <maths22> (Not that I recommend that approach, but it has its advantages)
+[2015/12/10 12:52:39] <jesusalva> It also haves an android.
+[2015/12/10 12:52:48] <jesusalva> Which I don't use, by the way.
+[2015/12/10 12:53:20] <maths22> I should do the CPackSource stuff.  Soon...
+[2015/12/10 12:53:50] <Karkus> Tobbi: Your commit with the tilesets doesn't write it to the file.
+[2015/12/10 12:53:57] <Tobbi> Karkus: I know.
+[2015/12/10 12:54:01] <Tobbi> But that has never worked.
+[2015/12/10 12:54:21] <Karkus> No, we never had tilesets implemented.
+[2015/12/10 12:54:35] <Karkus> properly
+[2015/12/10 12:54:41] <Hume2> I'll just reconnect.
+[2015/12/10 12:54:44] @ Quit: Hume2: Quit: Page closed
+[2015/12/10 12:55:02] <jesusalva> ops, sorry, this netbook haves 320GB. My good notebook is the one of 250 GB. It's 40 GB to windows, 5GB for android, 5 GB for swap, and 100 GB for home and other 100 GB for root.
+[2015/12/10 12:55:32] <jesusalva> Which sums up to 250 anyway. So I rounded /home and / space.
+[2015/12/10 12:55:50] @ Hume2 joined channel #supertux
+[2015/12/10 12:57:17] <brmbrmcar> Anyway, I have virtually no disk space. :D
+[2015/12/10 12:58:41] <maths22> I realized that the biggest part of our downloads are actually the music files.
+[2015/12/10 12:58:52] <maths22> Not that there is anything to do about that fact, but it is kind of interesting
+[2015/12/10 12:58:56] <maths22> (Images come in 2nd)
+[2015/12/10 12:59:28] <Hume2> There are many useless images.
+[2015/12/10 12:59:58] <brmbrmcar> Like my sprites for *** *** ***s?
