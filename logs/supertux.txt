@@ -20093,3 +20093,8 @@
 [2015/12/10 10:07:58] <Tobbi> head8debian: Did we say noon my time or 4pm my time for the release?
 [2015/12/10 10:21:24] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/10 10:23:02] <head8debian> 4pm.
+[2015/12/10 10:36:51] @ brmbrmcar joined channel #supertux
+[2015/12/10 10:39:06] <Not-e81f> [02supertux] 07brmbrmcar commented on commit 03c3d8d536b6ae885d9744d52c8373a131b2c38caf - 13http://git.io/v0epJ
+[2015/12/10 10:42:33] @ Tobbi joined channel #supertux
+[2015/12/10 10:42:33] @ Mode +o Tobbi by ChanServ
+[2015/12/10 10:43:38] <brmbrmcar> What is your timenow?
