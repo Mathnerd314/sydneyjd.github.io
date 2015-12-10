@@ -20718,3 +20718,28 @@
 [2015/12/10 17:28:25] <Tobbi> It is, I mean.
 [2015/12/10 17:28:56] <maths22> Try starting it through Wine explorer and see if that makes it happy
 [2015/12/10 17:29:13] <Tobbi> Alright.
+[2015/12/10 17:34:55] <Tobbi> leyyin: You uses pythontidy for that stuff, right?
+[2015/12/10 17:35:09] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/96143861
+[2015/12/10 17:35:11] <Tobbi> Or what did you use?
+[2015/12/10 17:37:49] <Tobbi> maths22: http://pastebin.com/TXAJK9gV
+[2015/12/10 17:37:56] <Tobbi> I am fairly clueless about this.
+[2015/12/10 17:39:09] <Not-e81f> [02supertux] 07maths22 created branch 03cpack-source - 13http://git.io/vvf63
+[2015/12/10 17:39:11] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03cpack-source [+0/-0/±1] 13http://git.io/v0Jhe
+[2015/12/10 17:39:13] <Not-e81f> [02supertux] 07Jacob Burroughs 0317bc5a0 - Correct source build to only build on one system at once
+[2015/12/10 17:39:14] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96149597
+[2015/12/10 17:39:15] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/106
+[2015/12/10 17:40:16] <maths22> This is a wine bug: https://bugs.winehq.org/show_bug.cgi?id=39437
+[2015/12/10 17:40:29] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96149597
+[2015/12/10 17:40:45] <maths22> To make it work, one would have to do funny stuff with dlls
+[2015/12/10 17:41:00] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96149597
+[2015/12/10 17:41:00] <maths22> I don't really care about it, since it is a wine bug, and it works on native Windows
+[2015/12/10 17:41:20] @ datahead8888_ joined channel #supertux
+[2015/12/10 17:41:30] <Not-e81f> [02supertux] 07maths22 pushed 032 commits to 03master [+0/-0/±1] 13http://git.io/v0Jjv
+[2015/12/10 17:41:31] <Not-e81f> [02supertux] 07Jacob Burroughs 032fef72a - Merge branch 'master' of https://github.com/SuperTux/supertux
+[2015/12/10 17:41:33] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96150001
+[2015/12/10 17:41:34] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/107
+[2015/12/10 17:42:35] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96149597
+[2015/12/10 17:43:46] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96149597
+[2015/12/10 17:44:31] @ Quit: datahead8888: Ping timeout: 250 seconds
+[2015/12/10 17:44:56] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/105
+[2015/12/10 17:45:01] <Tobbi> Okay, good.
