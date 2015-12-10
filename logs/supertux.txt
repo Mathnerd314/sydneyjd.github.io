@@ -20090,3 +20090,4 @@
 [2015/12/10 09:42:58] <head8debian> Tobbi: Yes, i flashed Cynanogenmod on it.
 [2015/12/10 09:45:08] <Tobbi> hrm.
 [2015/12/10 09:54:10] @ tuxdev_ joined channel #supertux
+[2015/12/10 10:07:58] <Tobbi> head8debian: Did we say noon my time or 4pm my time for the release?
