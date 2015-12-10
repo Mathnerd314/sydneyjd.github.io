@@ -20458,3 +20458,34 @@
 [2015/12/10 14:12:50] <leyyin> I apparently broke the editor, lemme fix the issue
 [2015/12/10 14:14:15] <leyyin> ha, Christmas music :D
 [2015/12/10 14:14:36] <Tobbi> leyyin: It's nice christmas music.
+[2015/12/10 14:15:36] <brmbrmcar> What Vhristmas music?
+[2015/12/10 14:15:37] <leyyin> I got sucked into the game :D
+[2015/12/10 14:16:04] <brmbrmcar> At school they used an inappropriate song in an English lesson.
+[2015/12/10 14:16:12] <brmbrmcar> Achristas son.
+[2015/12/10 14:17:03] <leyyin> wait, supertux does not come with all the locales?
+[2015/12/10 14:17:09] <leyyin> I have to download an addon?
+[2015/12/10 14:17:28] <leyyin> this is new :D
+[2015/12/10 14:17:33] <brmbrmcar> Ithink the language packs are for addons...
+[2015/12/10 14:18:05] <leyyin> I am confused, there is in the language list, I did not install the language pack
+[2015/12/10 14:18:10] <leyyin> so what is the diference?
+[2015/12/10 14:18:57] <brmbrmcar> Er... I think language pac translates other stuff.
+[2015/12/10 14:19:35] <Hume2> The christmas music is good except the tuc tuc thing.
+[2015/12/10 14:21:31] <brmbrmcar> Tuc tuc?
+[2015/12/10 14:21:44] <Hume2> I hate tuc tuc.
+[2015/12/10 14:21:45] <maths22> leyyin: The .txt is need to make the windows builder happy.  We can get rid of the no-extension one
+[2015/12/10 14:21:52] @ Quit: Tobbi: Ping timeout: 256 seconds
+[2015/12/10 14:22:16] <maths22> Either WIX or NSIS (or maybe both) wanted the license file to have an extension, so I gave it one.
+[2015/12/10 14:24:36] <jesusalva> ...As far as I know, COPYING file haves a MIME type of it's own.
+[2015/12/10 14:24:52] <maths22> I have the feeling that, after this release, we need to make this language pack stuff clearer.
+[2015/12/10 14:25:02] <maths22> Also, what does a language pack actually provide?
+[2015/12/10 14:25:19] * jesusalva agrees 'cause he never heard about this language pack before.
+[2015/12/10 14:25:23] <jesusalva> And I am a translator.
+[2015/12/10 14:25:49] <maths22> jesusalva: I just looked at one of them-it appears to be translations for addons
+[2015/12/10 14:26:23] <maths22> One of my projects for after this release is a better addon management backend-I think I will incorporate translations into that
+[2015/12/10 14:26:35] <maths22> The translations should end up packaged with the addon, not separately
+[2015/12/10 14:26:39] <jesusalva> I never saw, and this is first time I heard of. I only know that on Transifex I can translate the addons.
+[2015/12/10 14:26:50] <jesusalva> maths22: I agree with that, though.
+[2015/12/10 14:27:23] <jesusalva> No sense downloading the addon and translation separately. It seems like there is no translation after downloading the extra-level.
+[2015/12/10 14:27:25] <maths22> Also, does anyone know why pressing alt in the menu acts like pressing enter?
+[2015/12/10 14:28:14] <brmbrmcar> I want to know why both control and the action key work for making the earth Tux invincible...
+[2015/12/10 14:29:35] <leyyin> wth, something is wrong with these imports O_O
