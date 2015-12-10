@@ -20103,3 +20103,24 @@
 [2015/12/10 11:11:35] @ Mode +o Tobbi by ChanServ
 [2015/12/10 11:27:49] @ jesusalva joined channel #supertux
 [2015/12/10 11:36:07] @ alket joined channel #supertux
+[2015/12/10 11:50:34] @ Karkus joined channel #supertux
+[2015/12/10 11:54:01] <Tobbi> Hello Karkus.
+[2015/12/10 11:54:10] <Karkus> Hey Tobbi
+[2015/12/10 11:56:05] <brmbrmcar> 1600 20th December Tobbi's time?
+[2015/12/10 11:56:16] <Karkus> Tobbi: You need to be more careful when merging brmbrmcar's pull requests
+[2015/12/10 11:56:31] <Tobbi> Karkus: I assume I should.
+[2015/12/10 11:56:55] <Tobbi> Karkus: For some reason I thought that level content is so easy to understand that not a lot can break there.
+[2015/12/10 11:57:19] <brmbrmcar> Will the changes I made be applied to the right level?
+[2015/12/10 11:57:22] <Karkus> Tobbi: And that's where you're wrong :D
+[2015/12/10 11:57:44] <brmbrmcar> Or will I havwe to do that "risky" pull request?
+[2015/12/10 11:57:49] <Tobbi> Karkus: I will refrain from merging any more of brmbrmcar's pull requests.
+[2015/12/10 11:58:21] <Tobbi> Otherwise my sanity might get impaired.
+[2015/12/10 11:58:33] <brmbrmcar> So I essentially cannot contribute.
+[2015/12/10 11:58:56] @ leyyin joined channel #supertux
+[2015/12/10 11:59:01] <Karkus> brmbrmcar: No, you can. Just be careful, and test it first.
+[2015/12/10 11:59:20] <brmbrmcar> OK.
+[2015/12/10 11:59:34] <Karkus> And then once each person on the team has fully tested it, we might consider merging it
+[2015/12/10 11:59:45] <Tobbi> :D
+[2015/12/10 11:59:50] <brmbrmcar> I was going to, before Tobbi said he would refrain from merging.
+[2015/12/10 11:59:54] <Tobbi> Karkus: But only after running it through travis and coverity...
+[2015/12/10 11:59:59] <Tobbi> :D
