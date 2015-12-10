@@ -20665,3 +20665,56 @@
 [2015/12/10 17:11:35] <Tobbi> I downloaded that this 24 hours ago iirc.
 [2015/12/10 17:12:02] <Tobbi> let's check wine.
 [2015/12/10 17:12:05] <Tobbi> eeh, mac build.
+[2015/12/10 17:15:42] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96143851
+[2015/12/10 17:15:43] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96143436
+[2015/12/10 17:17:05] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96143436
+[2015/12/10 17:17:13] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96143851
+[2015/12/10 17:17:15] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/96143436
+[2015/12/10 17:17:16] <maths22> Tobbi: Try one of the newer builds and see if they have the same issue
+[2015/12/10 17:17:23] <Tobbi> ok.
+[2015/12/10 17:17:36] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96143851
+[2015/12/10 17:17:42] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96143851
+[2015/12/10 17:17:46] <maths22> I think I fixed it now, but I'm not 100% certain
+[2015/12/10 17:18:29] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96143851
+[2015/12/10 17:18:31] <Tobbi> maths22: Newest builds are listed at the top for windows, but at the bottom for mac on that site.
+[2015/12/10 17:18:38] <maths22> Tobbi: Fixing...
+[2015/12/10 17:19:18] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96143851
+[2015/12/10 17:19:19] <maths22> Done
+[2015/12/10 17:19:20] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96143851
+[2015/12/10 17:19:59] <maths22> Tobbi: I'm cleaning up old builds now as well
+[2015/12/10 17:20:07] <Tobbi> OKay, good.
+[2015/12/10 17:20:10] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96143861
+[2015/12/10 17:20:26] <Tobbi> If people want to do regression tests, they need to recompile, which is fine.
+[2015/12/10 17:20:45] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96143861
+[2015/12/10 17:20:47] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96143861
+[2015/12/10 17:20:48] <maths22> If people want to do regression tests, they are developers, and can do whatever they want
+[2015/12/10 17:21:23] <Tobbi> Yup, that's true.
+[2015/12/10 17:21:31] <Tobbi> maths22: The msi installer is English only, right?
+[2015/12/10 17:22:12] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96143851
+[2015/12/10 17:22:17] <maths22> Tobbi: At this point in time, yes
+[2015/12/10 17:22:24] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/96143851
+[2015/12/10 17:22:32] <Tobbi> Okay, no problem.
+[2015/12/10 17:23:31] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96143861
+[2015/12/10 17:23:59] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96143861
+[2015/12/10 17:25:43] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96143861
+[2015/12/10 17:25:52] <Tobbi> maths22: Ah, it installs to %PROGRAMFILES%/SuperTux now
+[2015/12/10 17:25:55] <Tobbi> Sounds good.
+[2015/12/10 17:26:05] <maths22> Tobbi: It does
+[2015/12/10 17:26:12] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/103
+[2015/12/10 17:26:23] <maths22> Tobbi: To internationalize the installers, the annyoing thing is that we need to release separate installers for each language
+[2015/12/10 17:26:26] <Tobbi> maths22: We expect the user to install MS Visual C++ redist, right?
+[2015/12/10 17:26:33] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96143861
+[2015/12/10 17:26:38] <Tobbi> Okay, no, let's not do that.
+[2015/12/10 17:27:08] <maths22> Tobbi: It packages the necessary redist components
+[2015/12/10 17:27:28] <maths22> I fixed it so the user should not need to install anything extra
+[2015/12/10 17:27:35] <Tobbi> maths22: wine tells me it needs MSVCP140.dll
+[2015/12/10 17:27:42] <maths22> That should be installed
+[2015/12/10 17:27:54] <Tobbi> hmm...
+[2015/12/10 17:27:59] <maths22> Cat you list the contents of %PROGRAMFILES%/SuperTux/bin ?
+[2015/12/10 17:28:06] <maths22> s/Cat/can/
+[2015/12/10 17:28:06] <red_bot> maths22 meant: "can you list the contents of %PROGRAMFILES%/SuperTux/bin ?"
+[2015/12/10 17:28:06] <Tobbi> I will...one moment.
+[2015/12/10 17:28:22] <Tobbi> Oh, wait, it should be, yes.
+[2015/12/10 17:28:25] <Tobbi> It is, I mean.
+[2015/12/10 17:28:56] <maths22> Try starting it through Wine explorer and see if that makes it happy
+[2015/12/10 17:29:13] <Tobbi> Alright.
