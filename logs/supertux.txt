@@ -20001,3 +20001,4 @@
 [2015/12/09 22:27:58] @ tuxdev_ joined channel #supertux
 [2015/12/09 22:27:59] @ Quit: tuxdev_: Changing host
 [2015/12/09 22:27:59] @ tuxdev_ joined channel #supertux
+[2015/12/09 22:44:45] @ Quit: irungentoo: Remote host closed the connection
