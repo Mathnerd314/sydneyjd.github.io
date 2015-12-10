@@ -20546,3 +20546,26 @@
 [2015/12/10 15:42:51] <Karkus> Well, we don't have many
 [2015/12/10 15:42:58] <Karkus> I reckon I should make some
 [2015/12/10 15:44:11] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96121079
+[2015/12/10 15:45:18] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96121079
+[2015/12/10 15:46:05] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/101
+[2015/12/10 15:46:37] <Karkus> leyyin: Okay, shall I merge it then?
+[2015/12/10 15:46:55] <leyyin> I am not biased at all ;)
+[2015/12/10 15:46:59] <leyyin> yes, of course
+[2015/12/10 15:47:27] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96121079
+[2015/12/10 15:48:12] <Karkus> leyyin: Well, just in case
+[2015/12/10 15:48:21] <Not-e81f> [02flexlay] 07Karkus476 closed pull request 03#51: Run PEP8 cleaner on the project - 13http://git.io/v0Jes
+[2015/12/10 15:48:23] <Not-e81f> [02flexlay] 07Karkus476 pushed 032 commits to 03develop [+0/-0/±242] 13http://git.io/v0JcB
+[2015/12/10 15:48:24] <Not-e81f> [02flexlay] 07Daniel Butum 03111066b - Run PEP8 cleaner on the project
+[2015/12/10 15:48:26] <Not-e81f> [02flexlay] 07Karkus476 03e1796b2 - Merge pull request #51 from leyyin/develop
+[2015/12/10 15:48:35] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96121079
+[2015/12/10 15:50:28] <leyyin> btw, I hit some 'list out of index' errors
+[2015/12/10 15:51:04] <leyyin> list index out of range*
+[2015/12/10 15:51:33] <leyyin> this was on the commit before mine :P
+[2015/12/10 15:51:36] <leyyin> so it is not my fault
+[2015/12/10 15:53:25] <Karkus> Where?
+[2015/12/10 15:53:53] <Karkus> leyyin: What were you trying to do?
+[2015/12/10 15:54:40] <leyyin> to pus a tile, I think
+[2015/12/10 15:54:56] <leyyin> can't really remember, I was hitting random buttons :D
+[2015/12/10 15:57:23] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/96121079
+[2015/12/10 15:58:31] <Karkus> leyyin: *sigh*
+[2015/12/10 15:58:58] <Karkus> Best bug report ever
