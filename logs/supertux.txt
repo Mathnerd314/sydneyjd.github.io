@@ -20386,3 +20386,27 @@
 [2015/12/10 13:14:37] <Hume2> brmbrmcar: Please, don't. I guess, we'll remove it one nice day.
 [2015/12/10 13:14:55] <Tobbi> for god's sake, we're 10 days before a release
 [2015/12/10 13:15:00] <Tobbi> Don't make drastic changes now.
+[2015/12/10 13:15:35] <brmbrmcar> :(
+[2015/12/10 13:15:50] <brmbrmcar> I guess you all hate my hats?
+[2015/12/10 13:15:53] <Hume2> It's not used in any sprite, so it can't do any harm.
+[2015/12/10 13:16:17] @ Quit: tuxdev_: Ping timeout: 250 seconds
+[2015/12/10 13:16:29] <brmbrmcar> I wouldn't remove info_block, as it might upset someone who liked it. :D
+[2015/12/10 13:16:47] <Hume2> Let's see...
+[2015/12/10 13:17:39] <Hume2> It was before the year 2005.
+[2015/12/10 13:18:13] <Hume2> It has been never used in any stable release.
+[2015/12/10 13:18:39] <Hume2> Searching info_block.png in /data... 0 results.
+[2015/12/10 13:18:41] <brmbrmcar> https://github.com/brmbrmcar/supertux/blob/ringphone/data/images/objects/bonus_block/info_block.sprite
+[2015/12/10 13:19:13] <Hume2> brmbrmcar: It's useless!
+[2015/12/10 13:19:26] <brmbrmcar> For an info block!
+[2015/12/10 13:19:40] <brmbrmcar> That is what it is designed for!
+[2015/12/10 13:19:50] <brmbrmcar> I am making it useful!
+[2015/12/10 13:20:15] <Hume2> So I need help, so I'll use the phone.
+[2015/12/10 13:20:32] <Hume2> I don't know any number, so I just type something.
+[2015/12/10 13:21:05] <Hume2> And I don't even need to speak and someone tells me a help without the need of knowing who I am.
+[2015/12/10 13:21:47] <Hume2> And the random number even knows what to help me with.
+[2015/12/10 13:22:32] <Hume2> Yes. And I can find a telephone in an icy wasteland, where's no electricity.
+[2015/12/10 13:22:46] <Hume2> And what is more, it's working!
+[2015/12/10 13:25:13] <Hume2> Isn't it a nice way of phoning? I bump into the telephone and it starts phoning!
+[2015/12/10 13:26:59] <Karkus> Tobbi: What's the develop branch for?
+[2015/12/10 13:27:23] <Tobbi> Karkus: I didn't create it.
+[2015/12/10 13:27:27] <Tobbi> I believe it was grumbel.
