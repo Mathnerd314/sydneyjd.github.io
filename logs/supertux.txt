@@ -20099,3 +20099,5 @@
 [2015/12/10 10:42:33] @ Mode +o Tobbi by ChanServ
 [2015/12/10 10:43:38] <brmbrmcar> What is your timenow?
 [2015/12/10 10:47:08] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/10 11:11:35] @ Tobbi joined channel #supertux
+[2015/12/10 11:11:35] @ Mode +o Tobbi by ChanServ
