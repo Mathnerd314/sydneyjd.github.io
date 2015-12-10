@@ -20410,3 +20410,21 @@
 [2015/12/10 13:26:59] <Karkus> Tobbi: What's the develop branch for?
 [2015/12/10 13:27:23] <Tobbi> Karkus: I didn't create it.
 [2015/12/10 13:27:27] <Tobbi> I believe it was grumbel.
+[2015/12/10 13:36:19] @ claymore2 joined channel #supertux
+[2015/12/10 13:37:30] @ Quit: Karkus: Quit: Division By Zero
+[2015/12/10 13:38:51] <brmbrmcar> Ring ring!
+[2015/12/10 13:39:09] <brmbrmcar> Sound effecyt?
+[2015/12/10 13:39:40] <Tobbi> brmbrmcar: I found proof that you're not zero, by the way!
+[2015/12/10 13:41:15] <brmbrmcar> I'm 1.
+[2015/12/10 13:42:26] <brmbrmcar> I can tell you I am old enough for a GitHub account.
+[2015/12/10 13:42:31] <Tobbi> brmbrmcar: You attend a high school.
+[2015/12/10 13:42:36] <Tobbi> See.
+[2015/12/10 13:42:50] <Tobbi> brmbrmcar: one of your commits contain your high school e-mail address.
+[2015/12/10 13:42:55] <Tobbi> Ergo...
+[2015/12/10 13:43:11] <brmbrmcar> I wanna trash that.
+[2015/12/10 13:43:20] <brmbrmcar> I disconnected it!
+[2015/12/10 13:43:21] <Tobbi> brmbrmcar: You won't get a chance.
+[2015/12/10 13:43:45] <Tobbi> You might have disconnected that e-mail, but you won't get a chance to trash it.
+[2015/12/10 13:44:08] <brmbrmcar> I sould probably have faked it, as the school servers are easy to fake.
+[2015/12/10 13:44:49] <Tobbi> brmbrmcar: But still, I just wanted to tell you to stop this tomfoolery.
+[2015/12/10 13:44:56] <Tobbi> It gets on our collective nerves.
