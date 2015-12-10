@@ -20124,3 +20124,72 @@
 [2015/12/10 11:59:50] <brmbrmcar> I was going to, before Tobbi said he would refrain from merging.
 [2015/12/10 11:59:54] <Tobbi> Karkus: But only after running it through travis and coverity...
 [2015/12/10 11:59:59] <Tobbi> :D
+[2015/12/10 12:00:10] <brmbrmcar> How many people are there on  the team?#
+[2015/12/10 12:00:11] <Tobbi> It's for the project's safety.
+[2015/12/10 12:00:16] <Tobbi> It's just me.
+[2015/12/10 12:00:17] <Tobbi> :D
+[2015/12/10 12:00:24] <Karkus> Hey!
+[2015/12/10 12:00:31] <Tobbi> :D
+[2015/12/10 12:00:36] <Tobbi> I am kidding, obviously.
+[2015/12/10 12:00:52] <Karkus> Well, tbh my commits amount to 2 for the actual game...
+[2015/12/10 12:01:01] <Tobbi> Karkus: But the editor is equally important.
+[2015/12/10 12:01:05] <brmbrmcar> I have 3.
+[2015/12/10 12:01:06] <Tobbi> Especially in 10 days...
+[2015/12/10 12:01:34] <Karkus> The editor is especially important on 20th?
+[2015/12/10 12:01:52] <Tobbi> Karkus: I meant: After the release.
+[2015/12/10 12:02:00] <Tobbi> Sorry, I am occupied with some other stuff currently.
+[2015/12/10 12:02:18] <brmbrmcar> Flexlay is tough to use.
+[2015/12/10 12:02:20] <Karkus> Tobbi: Yeah, I know
+[2015/12/10 12:02:25] <Karkus> brmbrmcar: Why?
+[2015/12/10 12:02:44] <brmbrmcar> You can't just click and run...
+[2015/12/10 12:03:14] <brmbrmcar> And unless people find your method, they would probably be clueess.
+[2015/12/10 12:03:25] <Tobbi> Wasn't click'n'run added recently?
+[2015/12/10 12:03:37] <Karkus> click and run the editor
+[2015/12/10 12:03:44] <Tobbi> Ah!
+[2015/12/10 12:03:57] <brmbrmcar> Really?
+[2015/12/10 12:04:02] <brmbrmcar> Awesome!!!
+[2015/12/10 12:04:05] <Karkus> No.
+[2015/12/10 12:04:14] <Karkus> That's OS specific
+[2015/12/10 12:04:18] <brmbrmcar> But I still prefer the other editor.
+[2015/12/10 12:04:25] <Karkus> brmbrmcar: Why?
+[2015/12/10 12:04:27] <Tobbi> Yeah, that's something we might need to work on
+[2015/12/10 12:05:23] <brmbrmcar> Because it has a more easy-to-use style,more features  and far less actual bugs once you can get it to start.
+[2015/12/10 12:05:39] <Tobbi> We intend to change that for flexlay as well.
+[2015/12/10 12:06:04] <Tobbi> Luckily, grumbel doesn't actually develop flexlay anymore, so there're no actual upstream changes we need to merge.
+[2015/12/10 12:06:49] <brmbrmcar> To make flexlay better, it should have all the new features recently implemented.
+[2015/12/10 12:07:12] <Karkus> This is called development.
+[2015/12/10 12:07:13] <brmbrmcar> And allowoptions for EVERY object for EVERY thing.
+[2015/12/10 12:07:27] <Karkus> err, what?
+[2015/12/10 12:08:07] <brmbrmcar> Like to allow those badguy bonus blocks
+[2015/12/10 12:08:18] <Tobbi> brmbrmcar: I don't think you realize how difficult it is to develop an editor in python.
+[2015/12/10 12:08:22] <Tobbi> You may as well help us develop.
+[2015/12/10 12:08:27] <Karkus> Are they separate objects?
+[2015/12/10 12:08:28] <brmbrmcar> It won' work at all on the old one.
+[2015/12/10 12:08:37] <brmbrmcar> Python?
+[2015/12/10 12:08:49] <brmbrmcar> If a program is hard to use, change it.
+[2015/12/10 12:09:17] <brmbrmcar> That is why I think the old editor is  better, because the improvements were easier.
+[2015/12/10 12:09:24] <Karkus> Tobbi: What's the problem with Python?
+[2015/12/10 12:09:33] <Tobbi> Karkus: I meant in general.
+[2015/12/10 12:09:42] <Tobbi> Karkus: I meant developing from scratch in general.
+[2015/12/10 12:09:50] <Tobbi> Sorry, but I am currently overseeing something...
+[2015/12/10 12:09:57] <Tobbi> So, my mind is occupied with something else.
+[2015/12/10 12:10:00] <brmbrmcar> I'll take a look, but I will probabky not have a clue.
+[2015/12/10 12:10:02] <leyyin> do you need a Python developer?
+[2015/12/10 12:10:15] <Karkus> Developing from scratch is easier, (albeit more time consuming)
+[2015/12/10 12:10:31] <Karkus> leyyin: Yeah. Seen one?
+[2015/12/10 12:10:37] <Karkus> Pass me the net
+[2015/12/10 12:10:49] <leyyin> https://www.freelancer.com/ indians are pretty cheap :D
+[2015/12/10 12:11:20] <Tobbi> leyyin: We do not accept donations. Ask hiker to get off whatever he's on and pass us some of the donations he gets.
+[2015/12/10 12:11:34] <leyyin> man, once on meth, always on meth
+[2015/12/10 12:11:36] <Tobbi> leyyin: Also, no indians. They scare the shit out of me.
+[2015/12/10 12:11:37] <Karkus> leyyin: I don't pay for them, I tie them to a chair and make them program till their fingers bleed.
+[2015/12/10 12:11:50] <brmbrmcar> Which file does all the stuff like deadscripts and sprites?
+[2015/12/10 12:12:23] <leyyin> this channel is so quiet, the bot is ignored :P
+[2015/12/10 12:12:55] <Karkus> The bot hasn't said anything since I joined.
+[2015/12/10 12:13:16] <leyyin> nice, I see you removed all the old crap https://github.com/SuperTux/flexlay
+[2015/12/10 12:14:03] <Tobbi> leyyin: It's all Karkus's work.
+[2015/12/10 12:14:21] <leyyin> did you run pep8 on the project? :P
+[2015/12/10 12:14:31] <Karkus> I have to say, it takes a lot of skill to remove so much code.
+[2015/12/10 12:14:35] <Tobbi> leyyin: No, but you may do so...
+[2015/12/10 12:14:39] <Tobbi> And give us the results.
+[2015/12/10 12:14:47] <Karkus> leyyin: Probably 0
