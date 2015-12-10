@@ -20489,3 +20489,5 @@
 [2015/12/10 14:27:25] <maths22> Also, does anyone know why pressing alt in the menu acts like pressing enter?
 [2015/12/10 14:28:14] <brmbrmcar> I want to know why both control and the action key work for making the earth Tux invincible...
 [2015/12/10 14:29:35] <leyyin> wth, something is wrong with these imports O_O
+[2015/12/10 14:30:20] <brmbrmcar> It doesn't any more.
+[2015/12/10 14:35:32] <leyyin> ah, stupid python modules
