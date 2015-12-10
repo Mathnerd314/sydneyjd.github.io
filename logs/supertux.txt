@@ -20193,3 +20193,61 @@
 [2015/12/10 12:14:35] <Tobbi> leyyin: No, but you may do so...
 [2015/12/10 12:14:39] <Tobbi> And give us the results.
 [2015/12/10 12:14:47] <Karkus> leyyin: Probably 0
+[2015/12/10 12:15:03] <leyyin> 0 warning from pep8? ;)
+[2015/12/10 12:15:05] <leyyin> wanna bet?
+[2015/12/10 12:15:07] <Tobbi> I know that grumbel didn't check not too long ago (1 year ago)
+[2015/12/10 12:15:09] <Karkus> No
+[2015/12/10 12:15:20] <Tobbi> And that's very recent in SuperTux terms.
+[2015/12/10 12:15:40] <Karkus> 0/10 for pep8 quality
+[2015/12/10 12:15:41] <leyyin> is there a future where this version of flexlay will me merged upstream?
+[2015/12/10 12:15:48] <leyyin> *be
+[2015/12/10 12:15:51] <Karkus> Ask grumbel
+[2015/12/10 12:16:05] <Karkus> leyyin: Have you run it?
+[2015/12/10 12:16:10] <Tobbi> leyyin: No, in the future, the editor won't be open source anymore... :P We'll sell it for 19,90 EUR.
+[2015/12/10 12:16:12] <leyyin> because it is a forked project, contributions will not go to your daily graph
+[2015/12/10 12:16:34] <leyyin> Karkus, no, why? :D
+[2015/12/10 12:16:34] <brmbrmcar> Any answer to my question? I cannot contribute if I don't understand gthe file layout.
+[2015/12/10 12:16:34] <Karkus> leyyin: Ah, who cares?
+[2015/12/10 12:16:40] <leyyin> Karkus, me :P
+[2015/12/10 12:16:46] <leyyin> github is good for your CV
+[2015/12/10 12:16:56] <Karkus> leyyin: It is?
+[2015/12/10 12:17:05] <leyyin> YES :)
+[2015/12/10 12:17:07] <Karkus> I wouldn't say I'm proud of Flexlay
+[2015/12/10 12:17:21] <leyyin> you should be proud of whatever you got
+[2015/12/10 12:17:32] <Karkus> Every line I write spagettifies it further
+[2015/12/10 12:17:34] <Tobbi> leyyin: I don't think Google found me through Github...It's not the email address I have there.
+[2015/12/10 12:17:45] <Not-e81f> [02flexlay] 07leyyin forked the repository - 13http://git.io/vIwY1
+[2015/12/10 12:17:49] <Tobbi> Oh no!
+[2015/12/10 12:17:57] <leyyin> what?
+[2015/12/10 12:18:54] <Tobbi> leyyin: You forked, that means you're gonna complain about code style etc.
+[2015/12/10 12:19:38] <leyyin> don't tell me the bot said I forked the project?
+[2015/12/10 12:19:38] <Tobbi> :P
+[2015/12/10 12:19:38] <Tobbi> Yes, it did
+[2015/12/10 12:19:38] <Tobbi> :D
+[2015/12/10 12:19:38] <leyyin> if I run pep8 fixer on it, it should be good
+[2015/12/10 12:19:38] <Tobbi> Alright, go ahead, and submit a pull request.
+[2015/12/10 12:19:38] <brmbrmcar> Right, will you guys implement allthat?
+[2015/12/10 12:19:38] <Tobbi> what is "allthat"?
+[2015/12/10 12:19:38] <brmbrmcar> You cannot ask me to contribut if you don't tell me a thing.
+[2015/12/10 12:19:38] <leyyin> .git directory is 38 MB :D
+[2015/12/10 12:19:41] <leyyin> garbage
+[2015/12/10 12:19:51] <brmbrmcar> Trash it.
+[2015/12/10 12:19:54] <Tobbi> brmbrmcar: It's not our fault if you're so annoying everyone has you on ignore.
+[2015/12/10 12:19:55] <Tobbi> :P
+[2015/12/10 12:20:05] <leyyin> who are you talking to?
+[2015/12/10 12:20:08] <Tobbi> :D
+[2015/12/10 12:20:29] <brmbrmcar> You didn;t answer my question.
+[2015/12/10 12:20:53] <Tobbi> brmbrmcar: Quite right. Interesting. That was quicker than the others.
+[2015/12/10 12:20:54] <brmbrmcar> Just tha I cannot unti I know what do do!
+[2015/12/10 12:23:21] <leyyin> oh boy, pycharm is processing, this means it has a lot of files :D
+[2015/12/10 12:23:31] <leyyin> only 124 files :D
+[2015/12/10 12:25:04] <maths22> Tobbi: Could you create an account on the wiki for me?
+[2015/12/10 12:25:13] <Tobbi> maths22: I believe so, one moment.
+[2015/12/10 12:25:17] <maths22> Tobbi: Thanks!
+[2015/12/10 12:27:14] <Karkus> leyyin: I didn't make this, it was grumbel.
+[2015/12/10 12:27:27] <leyyin> yeah, no problems :P
+[2015/12/10 12:27:41] <Karkus> So don't bully me
+[2015/12/10 12:28:08] <Karkus> leyyin: Also, Pycharm is great
+[2015/12/10 12:29:16] <Karkus> leyyin: How can I decrease the size of the .git folder?
+[2015/12/10 12:29:25] <leyyin> you can't
+[2015/12/10 12:29:30] <leyyin> want to modify history? ;)
