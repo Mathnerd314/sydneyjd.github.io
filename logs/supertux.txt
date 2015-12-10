@@ -20625,3 +20625,14 @@
 [2015/12/10 16:42:02] <brmbrmcar> I could change the hats to look better.
 [2015/12/10 16:43:29] * head8debian *facepalm*
 [2015/12/10 16:44:45] <head8debian> :D
+[2015/12/10 16:46:19] <brmbrmcar> Poll?
+[2015/12/10 16:46:40] <leyyin> head8debian, and that is the problem with your country :P https://imgur.com/iyGLj7z
+[2015/12/10 16:48:39] <head8debian> leyyin: :D
+[2015/12/10 16:49:00] <leyyin> "Wanna know what the equivalent metric chart looks like? A straight line."
+[2015/12/10 16:51:58] <brmbrmcar> Metric is better than imperial.
+[2015/12/10 16:57:33] <maths22> Tobbi: I would agree
+[2015/12/10 16:57:49] <maths22> I have mostly sorted out what is necessary to get automatic source builds
+[2015/12/10 16:58:08] <maths22> Sorry-packages
+[2015/12/10 16:58:29] <maths22> To build these, GIT will not be required, and neither will the full history of the repository
+[2015/12/10 16:58:42] <Tobbi> leyyin: The problem with his country is this: http://www.pewforum.org/files/2012/07/chamber-large1.jpg
+[2015/12/10 16:59:15] <Tobbi> maths22: Great. I will test your supertux build with wine now.
