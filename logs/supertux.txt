@@ -20583,3 +20583,16 @@
 [2015/12/10 16:09:24] <Tobbi> leyyin: Except, both works.
 [2015/12/10 16:09:36] <leyyin> last one, with the holidays, rofl
 [2015/12/10 16:09:58] <Tobbi> :D
+[2015/12/10 16:24:49] <Tobbi> leyyin: What about the pep8 thing?
+[2015/12/10 16:25:11] <leyyin> what about it?
+[2015/12/10 16:25:19] <leyyin> it's merged
+[2015/12/10 16:25:20] <Tobbi> leyyin: Did you run pep8 on the editor repo?
+[2015/12/10 16:25:22] <Tobbi> Ah, okay.
+[2015/12/10 16:25:46] <Tobbi> maths22: It is possible to package translations with add-ons. Problem is you need to update the add-on...
+[2015/12/10 16:25:53] <Tobbi> when you only want to update translations.
+[2015/12/10 16:26:18] <Tobbi> I agree we need to make that stuff clearer...
+[2015/12/10 16:29:10] <maths22> Tobbi: This whole process will be improved with a better addon management system
+[2015/12/10 16:29:24] <maths22> That is a nice post-4.0.0 project
+[2015/12/10 16:29:31] <Tobbi> maths22: I hope so? What do you have in mind?
+[2015/12/10 16:29:34] <maths22> sorry 0.4.0
+[2015/12/10 16:30:00] <maths22> Tobbi: I'm not fully sure, but I'm going to think about what I envision later and then describe it.
