@@ -20636,3 +20636,32 @@
 [2015/12/10 16:58:29] <maths22> To build these, GIT will not be required, and neither will the full history of the repository
 [2015/12/10 16:58:42] <Tobbi> leyyin: The problem with his country is this: http://www.pewforum.org/files/2012/07/chamber-large1.jpg
 [2015/12/10 16:59:15] <Tobbi> maths22: Great. I will test your supertux build with wine now.
+[2015/12/10 17:03:32] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/12/10 17:07:59] <Not-e81f> [02supertux] 07maths22 created branch 03cpack-source - 13http://git.io/vvf63
+[2015/12/10 17:08:00] <Not-e81f> [02supertux] 07maths22 pushed 032 commits to 03cpack-source [+2/-0/±3] 13http://git.io/v0JHa
+[2015/12/10 17:08:02] <Not-e81f> [02supertux] 07Jacob Burroughs 0393e7715 - Added support for source tarballs
+[2015/12/10 17:08:03] <Not-e81f> [02supertux] 07Jacob Burroughs 03602412a - added tarball builds to travis
+[2015/12/10 17:08:05] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96143436
+[2015/12/10 17:08:06] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/103
+[2015/12/10 17:08:16] <maths22> Tobbi: Fabluous.  And OS X works, right?
+[2015/12/10 17:09:18] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96143436
+[2015/12/10 17:09:19] <Tobbi> maths22: I will check the latest build in a minute.
+[2015/12/10 17:09:40] <Not-e81f> [02supertux] 07maths22 opened pull request 03#260: Added CPack Support - 13http://git.io/v0JQ4
+[2015/12/10 17:09:41] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96143851
+[2015/12/10 17:09:44] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/104
+[2015/12/10 17:09:48] <Not-e81f> [02supertux] 07maths22 closed pull request 03#260: Added CPack Support - 13http://git.io/v0JQ4
+[2015/12/10 17:09:50] <Not-e81f> [02supertux] 07maths22 pushed 033 commits to 03master [+4/-0/±6] 13http://git.io/v0JQB
+[2015/12/10 17:09:51] <Not-e81f> [02supertux] 07Jacob Burroughs 0379e9227 - Merge pull request #260 from SuperTux/cpack-source
+[2015/12/10 17:09:53] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96143861
+[2015/12/10 17:09:54] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/105
+[2015/12/10 17:09:56] <Not-e81f> [02supertux] 04Error. AppVeyor build cancelled - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/104
+[2015/12/10 17:10:10] <Not-e81f> [02supertux] 07maths22 deleted branch 03cpack-source - 13http://git.io/vvf63
+[2015/12/10 17:10:12] <Not-e81f> [02supertux] 07maths22 deleted branch 03cpack-source
+[2015/12/10 17:10:21] <Tobbi> maths22: Windows build is complaining about missing openssl deps.
+[2015/12/10 17:10:44] <Tobbi> maths22: http://pastebin.com/sFUjmZrK
+[2015/12/10 17:10:59] <maths22> Tobbi: Which build number?
+[2015/12/10 17:11:13] <maths22> I need to update the dependency zip apparently
+[2015/12/10 17:11:25] <Tobbi> maths22: 0.3.5.557
+[2015/12/10 17:11:35] <Tobbi> I downloaded that this 24 hours ago iirc.
+[2015/12/10 17:12:02] <Tobbi> let's check wine.
+[2015/12/10 17:12:05] <Tobbi> eeh, mac build.
