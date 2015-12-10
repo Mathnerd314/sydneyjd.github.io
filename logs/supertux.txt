@@ -20017,3 +20017,4 @@
 [2015/12/10 02:27:54] @ xet7 joined channel #supertux
 [2015/12/10 02:59:07] @ brmbrmcar joined channel #supertux
 [2015/12/10 02:59:31] <brmbrmcar>  /topic 10 days until 0.4.0!
+[2015/12/10 03:02:31] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#258: Ice, air and earth Christmas hats - 13http://git.io/vRpAF
