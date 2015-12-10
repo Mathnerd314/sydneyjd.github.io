@@ -20743,3 +20743,36 @@
 [2015/12/10 17:44:31] @ Quit: datahead8888: Ping timeout: 250 seconds
 [2015/12/10 17:44:56] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/105
 [2015/12/10 17:45:01] <Tobbi> Okay, good.
+[2015/12/10 17:45:05] <Tobbi> Who cares about wine bugs.
+[2015/12/10 17:45:07] <Tobbi> Not our fault.
+[2015/12/10 17:45:43] @ datahead8888__ joined channel #supertux
+[2015/12/10 17:46:16] <leyyin> no, I use pycharm ;)
+[2015/12/10 17:46:20] <maths22> Tobbi: exactly
+[2015/12/10 17:46:32] <Tobbi> leyyin: It has built-in PEP8?
+[2015/12/10 17:46:37] <Tobbi> or rather auto-fixing stuff?
+[2015/12/10 17:46:47] <leyyin> auto-fixing stuff according to a code style
+[2015/12/10 17:47:06] <maths22> Also, if this source tarball builds, the build process is ready for release
+[2015/12/10 17:47:07] <Tobbi> nice.
+[2015/12/10 17:47:11] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96149597
+[2015/12/10 17:47:22] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96149597
+[2015/12/10 17:47:25] <maths22> (Linux is handled by the packagers, and we just provide a tarball for the official release)
+[2015/12/10 17:48:09] <maths22> Tobbi: Did you yet get to OS X?
+[2015/12/10 17:48:09] @ tux|dude joined channel #supertux
+[2015/12/10 17:48:16] <Tobbi> Oh, right one moment.
+[2015/12/10 17:48:58] <Tobbi> maths22: OS X works fine. I just wonder why it "auto-detects" the OS language as English...
+[2015/12/10 17:49:07] <Tobbi> Don't think it's a packaging fault, though.
+[2015/12/10 17:49:15] <Tobbi> Actually...
+[2015/12/10 17:49:17] @ Quit: datahead8888_: Ping timeout: 250 seconds
+[2015/12/10 17:49:17] <Tobbi> let me check something.
+[2015/12/10 17:49:29] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96150001
+[2015/12/10 17:50:45] <Tobbi> maths22: no, it still auto-detects the language as English...not with my own build, though.
+[2015/12/10 17:51:53] <maths22> Tobbi: can you point me towards the language detection code?
+[2015/12/10 17:52:02] <Tobbi> sure, one moment.
+[2015/12/10 17:53:05] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/96149597
+[2015/12/10 17:54:20] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96150001
+[2015/12/10 17:55:16] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96150001
+[2015/12/10 17:55:26] <Tobbi> maths22: https://github.com/SuperTux/supertux/blob/d4bc1b12b88644eed0ea7988302fc06ec359e126/src/supertux/menu/language_menu.cpp#L56
+[2015/12/10 17:56:46] <maths22> I don't know why they would work differently.  Without access to a mac where I can change the locale, I don't know that I have a good way to debug.
+[2015/12/10 17:57:37] <maths22> It should just be using https://github.com/SuperTux/supertux/tree/ca101a9d356894276b6c7479325f42ba5c162e8e/external/findlocale
+[2015/12/10 17:58:53] <Tobbi> Yup.
+[2015/12/10 17:58:58] <Tobbi> It's not that much of a problem.
