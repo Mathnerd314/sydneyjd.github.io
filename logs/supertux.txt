@@ -20973,3 +20973,34 @@
 [2015/12/11 10:42:46] <brmbrmcar> brmbrmromaniangooglemightnothaveletmegooglethatforyou
 [2015/12/11 10:43:06] <head8debian> brmbrmcar: Ok, ok. ;)
 [2015/12/11 10:44:56] <brmbrmcar> brmbrmhead8debian: brmbrmisthisannoyingenough?
+[2015/12/11 10:45:10] <head8debian> brmbrmcar: Yes. ;)
+[2015/12/11 10:45:24] <brmbrmcar> brmbrmisittooannoying?
+[2015/12/11 10:46:07] <head8debian> *facepalm*
+[2015/12/11 10:48:21] <brmbrmcar> brmbrmwhatdoes*facepalm*mean?
+[2015/12/11 10:48:27] <leyyin> why are you talking to yourself head8debian? :D
+[2015/12/11 10:49:09] <brmbrmcar> brmbrmmaybeniyyelignoredmeandthisisnevergoindtowork.
+[2015/12/11 10:50:23] <head8debian> leyyin: Check the logs in a few.
+[2015/12/11 10:51:26] <Tobbi> :D
+[2015/12/11 10:51:33] <Tobbi> leyyin: This never gets old.
+[2015/12/11 10:52:08] <head8debian> Tobbi: Should i start blogging? :D
+[2015/12/11 10:52:21] <Tobbi> no.
+[2015/12/11 10:52:52] <head8debian> Tobbi: Good idea.
+[2015/12/11 10:52:57] <brmbrmcar> Yes.
+[2015/12/11 10:53:04] <brmbrmcar> Do blogs.
+[2015/12/11 10:53:35] <head8debian> Tobbi: How about chinese electronics teardowns? :D You pay for them and i will tear them appart. :D
+[2015/12/11 10:53:41] <Tobbi> head8debian: i am busy.
+[2015/12/11 10:53:55] * brmbrmcar hides
+[2015/12/11 10:54:27] <brmbrmcar>  /mode brmbrmcar +i
+[2015/12/11 10:55:11] <head8debian> i?
+[2015/12/11 10:55:40] <leyyin> i == I
+[2015/12/11 10:55:54] <leyyin> when you see lower case 'i' in english, what do you think?
+[2015/12/11 10:55:59] <leyyin> it's another meaning than I ?
+[2015/12/11 10:56:02] <head8debian> How awkward it would be if we all met in person...
+[2015/12/11 10:56:23] <head8debian> leyyin: Someone doesn't use the shift key enough.
+[2015/12/11 10:57:00] <brmbrmcar> +i = invisible
+[2015/12/11 10:57:07] <leyyin> head8debian, I told you, if you come to eastern Europe, you will be rich :P
+[2015/12/11 10:57:10] <leyyin> and meet me
+[2015/12/11 10:57:19] <head8debian> leyyin: I don't want to meet you. :D
+[2015/12/11 10:58:03] <brmbrmcar> My age of 1 would creep you all out. :D
+[2015/12/11 10:58:25] <leyyin> why not ;)
+[2015/12/11 10:58:26] <brmbrmcar> I promised I'd stop.
