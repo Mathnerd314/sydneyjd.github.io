@@ -21063,3 +21063,4 @@
 [2015/12/11 11:29:38] * jesusalva thinks that money is probably only worth spending on food.
 [2015/12/11 11:36:11] <brmbrmcar> Why?
 [2015/12/11 11:36:30] @ alket joined channel #supertux
+[2015/12/11 11:45:04] @ Quit: Tobbi: Remote host closed the connection
