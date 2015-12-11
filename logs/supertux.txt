@@ -20792,3 +20792,14 @@
 [2015/12/10 18:22:35] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/107
 [2015/12/10 18:28:45] @ Quit: alket: Quit: Good Night :)
 [2015/12/10 18:32:22] @ xet7 joined channel #supertux
+[2015/12/10 19:05:32] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/12/10 19:06:29] @ fusion809 left channel #supertux ("Leaving")
+[2015/12/10 19:10:55] <head8debian> Hello Tobbi.
+[2015/12/10 19:11:01] <head8debian> Im looking.
+[2015/12/10 19:11:02] <Tobbi> Hello head8debian
+[2015/12/10 19:11:49] <head8debian> Tobbi: I have no clue how to answer that.
+[2015/12/10 19:11:56] <Tobbi> hrm.
+[2015/12/10 19:12:00] <Tobbi> okay, let's leave it.
+[2015/12/10 19:12:31] <head8debian> Tobbi: If only he could debug it. Or try the new builds.
+[2015/12/10 19:14:09] <head8debian> Tobbi: I will answer later, maybe.
+[2015/12/10 19:14:15] <Tobbi> sure.
