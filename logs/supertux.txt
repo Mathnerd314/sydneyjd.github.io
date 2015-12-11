@@ -21125,3 +21125,14 @@
 [2015/12/11 13:10:47] <brmbrmcar> Sochoose something better.
 [2015/12/11 13:21:30] @ Tobbi joined channel #supertux
 [2015/12/11 13:21:31] @ Mode +o Tobbi by ChanServ
+[2015/12/11 13:32:52] <Tobbi> jesusalva: You might not have pinged me, but I still read the logs.
+[2015/12/11 13:33:14] <jesusalva> Of course.
+[2015/12/11 13:33:18] <jesusalva> I didn't forgot.
+[2015/12/11 13:33:21] <jesusalva> :/
+[2015/12/11 13:34:10] <Tobbi> good.
+[2015/12/11 13:35:12] <brmbrmcar> Poor jesusalva. What was wrong?
+[2015/12/11 13:35:54] <Tobbi> brmbrmcar: You're wrong
+[2015/12/11 13:36:16] <brmbrmcar> :(
+[2015/12/11 13:37:06] <brmbrmcar> What happens toyou when someone pings yu?
+[2015/12/11 13:37:23] <brmbrmcar> To me, the author just goes yellow.
+[2015/12/11 13:37:47] @ Quit: alket: Remote host closed the connection
