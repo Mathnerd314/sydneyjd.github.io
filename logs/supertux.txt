@@ -20952,3 +20952,4 @@
 [2015/12/11 09:37:51] <red_bot>  /__/ /__/ /__/
 [2015/12/11 09:37:51] <red_bot> (_)  (_)  (_)
 [2015/12/11 09:38:06] <head8debian> They are 2 diferent programs doing the same thing...
+[2015/12/11 09:58:43] @ paroneayea joined channel #supertux
