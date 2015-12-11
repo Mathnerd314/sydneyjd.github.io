@@ -21105,3 +21105,16 @@
 [2015/12/11 12:44:20] <brmbrmcar> I have a formua.
 [2015/12/11 12:44:32] <jesusalva> Tell us.
 [2015/12/11 12:44:32] <brmbrmcar> For working out your exercise.
+[2015/12/11 12:47:00] <brmbrmcar> Mass in kg*energy in Kcal daily/(4913/running speed in kmh)=time running needed to recover.
+[2015/12/11 12:47:28] <brmbrmcar> It currently only works for running, but I imagine swimming would be similar.
+[2015/12/11 12:48:53] <brmbrmcar> In a week.
+[2015/12/11 12:49:52] <jesusalva> Hm. 40*2000/(4913/4) = 80000/1228.25 = 65.13 h * kg * kcal/km
+[2015/12/11 12:50:11] <jesusalva> So I take 65.13 brmbrmcars to recover. Am I correct?
+[2015/12/11 12:50:48] <jesusalva> Time mass and energy / space. Or Eisten's formula/space.
+[2015/12/11 12:51:26] <jesusalva> ...Using previous formula, the final result is [brmbrmcar/Tobbi] ?
+[2015/12/11 12:51:31] <brmbrmcar> Ooh.
+[2015/12/11 12:51:36] <brmbrmcar> Nice.
+[2015/12/11 12:51:44] <brmbrmcar> Traffic!!!
+[2015/12/11 12:53:16] <brmbrmcar> What is your favourite excercise?
+[2015/12/11 12:59:42] <jesusalva> ...Typing and thinking. I'm thinking. I was thinking. Still thinking. When thinking is stopped, the person has gone mad or dead.
+[2015/12/11 12:59:44] @ Quit: alket: Quit: Good Night :)
