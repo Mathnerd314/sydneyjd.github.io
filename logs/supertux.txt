@@ -21118,3 +21118,8 @@
 [2015/12/11 12:53:16] <brmbrmcar> What is your favourite excercise?
 [2015/12/11 12:59:42] <jesusalva> ...Typing and thinking. I'm thinking. I was thinking. Still thinking. When thinking is stopped, the person has gone mad or dead.
 [2015/12/11 12:59:44] @ Quit: alket: Quit: Good Night :)
+[2015/12/11 13:01:20] @ alket joined channel #supertux
+[2015/12/11 13:06:23] <brmbrmcar> So multiply the rusult of my formula by 100.
+[2015/12/11 13:10:28] <jesusalva> 65133.32 brmbrmcars.
+[2015/12/11 13:10:29] <brmbrmcar> It may just be impossible to fit it in one week for you.
+[2015/12/11 13:10:47] <brmbrmcar> Sochoose something better.
