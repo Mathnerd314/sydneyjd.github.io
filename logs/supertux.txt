@@ -21084,3 +21084,24 @@
 [2015/12/11 12:29:20] <brmbrmcar> What about liquid?
 [2015/12/11 12:29:41] <jesusalva> brmbrmcar: If the microphone is broken, then the good computer is not perfectly.
 [2015/12/11 12:29:47] <brmbrmcar> :(
+[2015/12/11 12:30:02] <brmbrmcar> So 0.49 bitoins?
+[2015/12/11 12:30:47] * jesusalva needs to do physical exercises.
+[2015/12/11 12:30:59] <jesusalva> But instead, he sits on computer and starts chatting on IRC.
+[2015/12/11 12:31:07] <brmbrmcar> 4913 laps of the marathon!
+[2015/12/11 12:31:50] <jesusalva> i=0 ; while i >= 4913: { lap() ; i+=1 };
+[2015/12/11 12:32:17] <jesusalva> s/>=/<=
+[2015/12/11 12:35:07] <brmbrmcar> Correct. I am glad you stuck an equals sign there!
+[2015/12/11 12:35:21] <brmbrmcar> i = 4913 laps!!!
+[2015/12/11 12:39:54] <jesusalva> so, if i=mc², then a body with mass $brmbrmcar controls time at light resulting in speed 2brmbrmcar, and if there are 2brmbrmcar the cntrols 2 time at 2lights resulting in speed 4brmbrmcar which provokes an ERR_Tobbi...
+[2015/12/11 12:41:00] <jesusalva> Which invokes a SIGSEGV and the time crashes. Only the space is left, but with no time, there is no speed, with no speed, there is no brmbrmcar, and if no brmbrmcar, the timespace layer collapses and only Tobbi remains.
+[2015/12/11 12:41:09] <jesusalva> See? Einsten's formula.
+[2015/12/11 12:42:20] <brmbrmcar> Nice.
+[2015/12/11 12:42:31] <brmbrmcar> Nut is Einstein right?
+[2015/12/11 12:42:44] * jesusalva Sidecomments: It may be no fun when you read it, but it certainly was to write it. ;)
+[2015/12/11 12:42:56] <brmbrmcar> Ah.
+[2015/12/11 12:43:01] * jesusalva /who Nut
+[2015/12/11 12:43:02] <brmbrmcar> It was fun to read!
+[2015/12/11 12:43:13] <brmbrmcar> I meant But.
+[2015/12/11 12:44:20] <brmbrmcar> I have a formua.
+[2015/12/11 12:44:32] <jesusalva> Tell us.
+[2015/12/11 12:44:32] <brmbrmcar> For working out your exercise.
