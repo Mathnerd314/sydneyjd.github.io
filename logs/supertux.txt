@@ -20891,3 +20891,31 @@
 [2015/12/11 08:44:36] <Tobbi> :P
 [2015/12/11 08:44:38] <jesusalva> Lemme see.
 [2015/12/11 08:44:42] <Tobbi> It is breakfast for me.
+[2015/12/11 08:45:10] <head8debian>  jesusalva Tobbi gets up late though. ;)
+[2015/12/11 08:45:11] <jesusalva> Wie spät ist es?
+[2015/12/11 08:45:21] <Tobbi> jesusalva: almost 3pm
+[2015/12/11 08:45:29] <Tobbi> jesusalva: Ich meinte: Fast 15 Uhr.
+[2015/12/11 08:45:59] <Tobbi> jesusalva: pt-BR only has 154 strings left to translate.
+[2015/12/11 08:46:01] <jesusalva> Then there is 14:42, here is 11:42, and head8debian should be... 09:42?
+[2015/12/11 08:46:28] <jesusalva> Tobbi: And a very lazy translator... ;)
+[2015/12/11 08:46:53] <jesusalva> I've been busy doing strategic and tactical plannings for my alliance on my game.
+[2015/12/11 08:47:41] <Tobbi> :P
+[2015/12/11 08:47:44] <jesusalva> Now, there is only the following levels with pendences: CT, LMH, Christian, Lolkats and Michael.
+[2015/12/11 08:48:03] <jesusalva> Only addons, not so much hard.
+[2015/12/11 08:48:11] <Tobbi> right
+[2015/12/11 08:48:16] <jesusalva> head8debian, how much 'till release?
+[2015/12/11 08:49:33] * jesusalva checks for the one with least strings untranslated.
+[2015/12/11 08:49:59] <jesusalva> CTs or Michaels wins. Michael wasn't translated a single string yet, so I vote for CT in order to keep consistency.
+[2015/12/11 08:50:30] <jesusalva> Odd.
+[2015/12/11 08:51:15] <Tobbi> jesusalva: It was added fairly late.
+[2015/12/11 08:51:23] <jesusalva> Tobbi: Is src/ctdabomb-worldmaps/levels/penny/10-lastnight.stl:3 level name properly formatted? "Last night for penny" -> "Last Night for Penny"
+[2015/12/11 08:51:32] <Tobbi> one moment.
+[2015/12/11 08:51:50] <Tobbi> jesusalva: i really don't know...
+[2015/12/11 08:51:55] <Tobbi> It was CT who did that.
+[2015/12/11 08:52:33] <jesusalva> Yes, but assuming that must levels have capitalization on first letter for each word, shouldn't there be a comment that the capitalization is intended?
+[2015/12/11 08:53:08] <jesusalva> 70% of the levels on ST (or more) actually would say "Last Night for Penny" instead.
+[2015/12/11 08:53:26] <Tobbi> jesusalva: We should add that to translator notices.
+[2015/12/11 08:54:12] <jesusalva> So LOOOONG and Hard You Will Wish You Never Found It. --> Cool level name. ;)
+[2015/12/11 08:55:11] <jesusalva> On other channel people were talking about open source economics. Almost gave me headache their price marking methods.
+[2015/12/11 08:55:12] <Tobbi> :D
+[2015/12/11 08:55:53] <jesusalva> ...Now, let's open Google Translator. Why would I try to remember what is "Moat" when Google Translator does it for me? ;)
