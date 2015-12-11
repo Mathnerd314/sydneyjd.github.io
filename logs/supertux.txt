@@ -20856,3 +20856,6 @@
 [2015/12/11 02:03:38] @ maths22 joined channel #supertux
 [2015/12/11 03:01:04] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/12/11 03:51:05] @ alket joined channel #supertux
+[2015/12/11 04:06:28] @ Quit: tux|dude: Read error: Connection reset by peer
+[2015/12/11 04:08:15] @ Tobbi joined channel #supertux
+[2015/12/11 04:08:15] @ Mode +o Tobbi by ChanServ
