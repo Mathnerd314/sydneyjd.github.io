@@ -20851,3 +20851,4 @@
 [2015/12/10 21:14:21] <head8debian> tux|dude: How have you been?
 [2015/12/10 21:22:32] @ Quit: irungentoo: Remote host closed the connection
 [2015/12/10 22:36:13] @ Quit: paroneayea: Read error: Connection reset by peer
+[2015/12/10 23:04:07] <tux|dude> Oh wow milestone 2 in 10 days?!? Holy moley I have been waiting for this
