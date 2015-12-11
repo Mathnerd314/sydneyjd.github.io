@@ -20867,3 +20867,4 @@
 [2015/12/11 06:24:01] @ Tobbi joined channel #supertux
 [2015/12/11 06:24:01] @ Mode +o Tobbi by ChanServ
 [2015/12/11 06:35:44] @ Tobbi set topic "9 days until 0.4.0! | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | Channel log http://sydneyjd.github.io/logs/ | nightly builds http://download.supertuxproject.org/download/"
+[2015/12/11 06:57:58] @ Quit: Tobbi: Ping timeout: 240 seconds
