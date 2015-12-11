@@ -21064,3 +21064,7 @@
 [2015/12/11 11:36:11] <brmbrmcar> Why?
 [2015/12/11 11:36:30] @ alket joined channel #supertux
 [2015/12/11 11:45:04] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/11 12:07:04] @ brmbrmca1 joined channel #supertux
+[2015/12/11 12:07:12] @ Quit: brmbrmcar: Ping timeout: 272 seconds
+[2015/12/11 12:07:24] @ brmbrmca1 is now known as brmbrmcar
+[2015/12/11 12:14:28] <brmbrmcar> brmbrmcar.1.4913@gmail.com
