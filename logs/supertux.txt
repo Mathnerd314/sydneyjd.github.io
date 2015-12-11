@@ -20829,3 +20829,7 @@
 [2015/12/10 19:59:05] <Tobbi> a) finding the link, b) you.
 [2015/12/10 19:59:09] <head8debian> Never mind, i missread...
 [2015/12/10 19:59:36] <Tobbi> I miss quite some other people as well, not only read.
+[2015/12/10 20:29:13] <head8debian> Tobbi: Ugg... Trying to explain linux distros to someone that doesn't understand the diference from a UI and a OS is hard.
+[2015/12/10 20:29:29] <Tobbi> head8debian: Who is it?
+[2015/12/10 20:29:51] <head8debian> Tobbi: Someone in #debian.
+[2015/12/10 20:29:59] <Tobbi> Ah kay
