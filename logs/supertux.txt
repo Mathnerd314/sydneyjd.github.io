@@ -20839,3 +20839,5 @@
 [2015/12/10 20:31:31] <Tobbi> head8debian: Never mind.
 [2015/12/10 20:37:59] <maths22> Is Tux's strange behavior on moving platforms a bug or intentional
 [2015/12/10 20:38:20] <maths22> i.e. can't move forward on a platform moving forward, can't always jump on a falling platform, etc.
+[2015/12/10 20:56:16] @ Quit: tux|dude: Ping timeout: 256 seconds
+[2015/12/10 20:58:33] <Tobbi> I don't really know.
