@@ -21137,3 +21137,5 @@
 [2015/12/11 13:37:23] <brmbrmcar> To me, the author just goes yellow.
 [2015/12/11 13:37:47] @ Quit: alket: Remote host closed the connection
 [2015/12/11 13:48:29] @ claymore2 joined channel #supertux
+[2015/12/11 14:01:06] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/11 14:08:10] @ Quit: jesusalva: Ping timeout: 256 seconds
