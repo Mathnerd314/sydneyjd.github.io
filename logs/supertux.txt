@@ -20850,3 +20850,4 @@
 [2015/12/10 21:14:12] <head8debian> tux|dude: Welcome back. You are pretty regular in here. :) Milestone 2 will be released in only 10 days! :D
 [2015/12/10 21:14:21] <head8debian> tux|dude: How have you been?
 [2015/12/10 21:22:32] @ Quit: irungentoo: Remote host closed the connection
+[2015/12/10 22:36:13] @ Quit: paroneayea: Read error: Connection reset by peer
