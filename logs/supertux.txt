@@ -20841,3 +20841,11 @@
 [2015/12/10 20:38:20] <maths22> i.e. can't move forward on a platform moving forward, can't always jump on a falling platform, etc.
 [2015/12/10 20:56:16] @ Quit: tux|dude: Ping timeout: 256 seconds
 [2015/12/10 20:58:33] <Tobbi> I don't really know.
+[2015/12/10 21:03:07] <head8debian> Tobbi: Ive run out of thing to say...
+[2015/12/10 21:03:11] <head8debian> :-)
+[2015/12/10 21:03:20] <Tobbi> run, forest, run.
+[2015/12/10 21:04:22] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/10 21:04:51] <head8debian> :-)
+[2015/12/10 21:13:17] @ tux|dude joined channel #supertux
+[2015/12/10 21:14:12] <head8debian> tux|dude: Welcome back. You are pretty regular in here. :) Milestone 2 will be released in only 10 days! :D
+[2015/12/10 21:14:21] <head8debian> tux|dude: How have you been?
