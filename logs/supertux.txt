@@ -20808,3 +20808,24 @@
 [2015/12/10 19:38:53] <Tobbi> head8debian: No it isn't.
 [2015/12/10 19:39:00] <head8debian> ...
 [2015/12/10 19:44:50] <head8debian> Tobbi: There.
+[2015/12/10 19:45:04] <Tobbi> head8debian: There?
+[2015/12/10 19:46:26] <head8debian> Tobbi: I RESPONDED. :D
+[2015/12/10 19:46:35] <Tobbi> Ah.
+[2015/12/10 19:46:58] <Tobbi> head8debian: And you don't even know our next release.
+[2015/12/10 19:47:16] <Tobbi> 0.04.0?
+[2015/12/10 19:47:22] <Tobbi> that's quite a lot of zeroes.
+[2015/12/10 19:47:26] <head8debian> :p
+[2015/12/10 19:47:31] <head8debian> Misspell.
+[2015/12/10 19:47:35] <leper`> yes, but it's got the license to kill
+[2015/12/10 19:47:46] * head8debian finds the link...
+[2015/12/10 19:52:06] @ bb010g joined channel #supertux
+[2015/12/10 19:56:36] * Tobbi finds head8debian finding the link.
+[2015/12/10 19:57:24] <head8debian> Tobbi: I did it like 10 mins ago.
+[2015/12/10 19:57:28] <head8debian> :D
+[2015/12/10 19:57:39] <Tobbi> head8debian: See! I found you.
+[2015/12/10 19:58:29] <head8debian> Tobbi: ?_?
+[2015/12/10 19:58:52] <Tobbi> head8debian: I told you that I would find you finding the link.
+[2015/12/10 19:58:58] <Tobbi> So, both premises became true.
+[2015/12/10 19:59:05] <Tobbi> a) finding the link, b) you.
+[2015/12/10 19:59:09] <head8debian> Never mind, i missread...
+[2015/12/10 19:59:36] <Tobbi> I miss quite some other people as well, not only read.
