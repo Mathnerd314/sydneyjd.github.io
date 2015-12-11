@@ -21053,3 +21053,11 @@
 [2015/12/11 11:14:31] <head8debian> brmbrmcar: It would be better than a chromebook.
 [2015/12/11 11:14:58] <brmbrmcar> No.
 [2015/12/11 11:14:58] <head8debian> brmbrmcar: 250gb HDD, 4gb ram, dual core 1.86ghz c2d.
+[2015/12/11 11:15:27] <brmbrmcar> Mine has less ram but more proccessing.
+[2015/12/11 11:15:44] <head8debian> brmbrmcar: What proccessor?
+[2015/12/11 11:15:51] <brmbrmcar> And also, Chromebooks just turn out faster than devices of a similay spec.
+[2015/12/11 11:16:00] <brmbrmcar> I have 2.4ghzintel.
+[2015/12/11 11:16:42] <brmbrmcar> http://www.acer.co.uk/ac/en/GB/content/model/NX.MQNEK.001
+[2015/12/11 11:17:00] <brmbrmcar> Mine is slightly different UK spec.
+[2015/12/11 11:17:48] <brmbrmcar> This machine is 64 bit.
+[2015/12/11 11:29:38] * jesusalva thinks that money is probably only worth spending on food.
