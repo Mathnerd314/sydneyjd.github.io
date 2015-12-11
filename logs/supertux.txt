@@ -21068,3 +21068,19 @@
 [2015/12/11 12:07:12] @ Quit: brmbrmcar: Ping timeout: 272 seconds
 [2015/12/11 12:07:24] @ brmbrmca1 is now known as brmbrmcar
 [2015/12/11 12:14:28] <brmbrmcar> brmbrmcar.1.4913@gmail.com
+[2015/12/11 12:24:40] <head8debian> jesusalva: :-)
+[2015/12/11 12:25:04] <head8debian> Let someone else give you their old computer, much better solution. :D
+[2015/12/11 12:25:22] @ bb010g joined channel #supertux
+[2015/12/11 12:26:17] <brmbrmcar> Ihave a relatively new computer.
+[2015/12/11 12:27:08] <brmbrmcar> Anyone with 1 bitcoin?
+[2015/12/11 12:27:16] <brmbrmcar> OK, 0.5 bitcoins...
+[2015/12/11 12:27:16] * jesusalva looks
+[2015/12/11 12:27:39] <jesusalva> My friend hasn't reached even 0.01 yet.
+[2015/12/11 12:27:45] <jesusalva> (or hadn't)
+[2015/12/11 12:27:55] <jesusalva> I have no idea of what this exactly is about...
+[2015/12/11 12:28:08] <brmbrmcar> Come on, broken microphone, perfectly good computer, 0.5 bitcoins.
+[2015/12/11 12:28:33] <jesusalva> head8debian: In what else would you spend money, head8debian, which is not food or ways to do more money to buy more food?
+[2015/12/11 12:29:02] <jesusalva> As bible says... "Why do [...] you spend your money on what is not bread [food]?"
+[2015/12/11 12:29:20] <brmbrmcar> What about liquid?
+[2015/12/11 12:29:41] <jesusalva> brmbrmcar: If the microphone is broken, then the good computer is not perfectly.
+[2015/12/11 12:29:47] <brmbrmcar> :(
