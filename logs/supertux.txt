@@ -20859,3 +20859,4 @@
 [2015/12/11 04:06:28] @ Quit: tux|dude: Read error: Connection reset by peer
 [2015/12/11 04:08:15] @ Tobbi joined channel #supertux
 [2015/12/11 04:08:15] @ Mode +o Tobbi by ChanServ
+[2015/12/11 04:37:03] @ Quit: alket: Quit: Good Night :)
