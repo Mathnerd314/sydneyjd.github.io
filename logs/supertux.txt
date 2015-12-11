@@ -21123,3 +21123,5 @@
 [2015/12/11 13:10:28] <jesusalva> 65133.32 brmbrmcars.
 [2015/12/11 13:10:29] <brmbrmcar> It may just be impossible to fit it in one week for you.
 [2015/12/11 13:10:47] <brmbrmcar> Sochoose something better.
+[2015/12/11 13:21:30] @ Tobbi joined channel #supertux
+[2015/12/11 13:21:31] @ Mode +o Tobbi by ChanServ
