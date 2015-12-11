@@ -21159,3 +21159,5 @@
 [2015/12/11 18:06:42] @ Quit: swift110: Changing host
 [2015/12/11 18:06:42] @ swift110 joined channel #supertux
 [2015/12/11 18:23:33] <maths22> [6~[5~[6~
+[2015/12/11 18:35:38] @ Quit: swift110: Ping timeout: 250 seconds
+[2015/12/11 18:44:18] @ Quit: brmbrmcar: Ping timeout: 250 seconds
