@@ -20873,3 +20873,4 @@
 [2015/12/11 07:31:38] @ Quit: Tobbi: Ping timeout: 272 seconds
 [2015/12/11 07:44:03] @ Tobbi joined channel #supertux
 [2015/12/11 07:44:04] @ Mode +o Tobbi by ChanServ
+[2015/12/11 07:49:21] @ jesusalva joined channel #supertux
