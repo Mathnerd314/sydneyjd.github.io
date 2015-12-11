@@ -21139,3 +21139,5 @@
 [2015/12/11 13:48:29] @ claymore2 joined channel #supertux
 [2015/12/11 14:01:06] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/11 14:08:10] @ Quit: jesusalva: Ping timeout: 256 seconds
+[2015/12/11 14:33:21] <Not-e81f> [02supertux] 07brmbrmcar opened issue 03#261: Yeti bounces through unisolid tiles - 13http://git.io/v0mfa
+[2015/12/11 14:41:52] @ alket joined channel #supertux
