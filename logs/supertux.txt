@@ -21158,3 +21158,4 @@
 [2015/12/11 17:55:04] @ swift110 joined channel #supertux
 [2015/12/11 18:06:42] @ Quit: swift110: Changing host
 [2015/12/11 18:06:42] @ swift110 joined channel #supertux
+[2015/12/11 18:23:33] <maths22> [6~[5~[6~
