@@ -20874,3 +20874,20 @@
 [2015/12/11 07:44:03] @ Tobbi joined channel #supertux
 [2015/12/11 07:44:04] @ Mode +o Tobbi by ChanServ
 [2015/12/11 07:49:21] @ jesusalva joined channel #supertux
+[2015/12/11 08:40:11] @ irungentoo joined channel #supertux
+[2015/12/11 08:41:38] <head8debian> Tobbi: :D
+[2015/12/11 08:41:54] <head8debian> Good morning jesusalva. :)
+[2015/12/11 08:42:27] <jesusalva> Good morning as well head8debian. Almost midday, lucky I didn't needed to say 'afternoon' ;) :)
+[2015/12/11 08:42:38] <head8debian> jesusalva: Haha.
+[2015/12/11 08:42:53] <head8debian> jesusalva: I can never say good morning to Tobbi and be correct in his time...
+[2015/12/11 08:43:06] <Tobbi> that is true.
+[2015/12/11 08:43:37] <head8debian> :-)
+[2015/12/11 08:43:41] <jesusalva> Let's say that when I'm on breakfast at 07:00, Tobbi would be lunching at midday (except they lunch at 14 usually)
+[2015/12/11 08:44:03] <Tobbi> I lunch at 11:30 currently.
+[2015/12/11 08:44:08] <jesusalva> And I eat breakfast at 06:30 on usual as well. Except I'm on vacations right ow.
+[2015/12/11 08:44:08] <Tobbi> And don't have breakfast.
+[2015/12/11 08:44:21] <Tobbi> jesusalva: How is l10n coming?
+[2015/12/11 08:44:31] <jesusalva> Tobbi: Cool, then you lunch almost exactly when I breakfast.
+[2015/12/11 08:44:36] <Tobbi> :P
+[2015/12/11 08:44:38] <jesusalva> Lemme see.
+[2015/12/11 08:44:42] <Tobbi> It is breakfast for me.
