@@ -20854,3 +20854,4 @@
 [2015/12/10 23:04:07] <tux|dude> Oh wow milestone 2 in 10 days?!? Holy moley I have been waiting for this
 [2015/12/11 02:03:25] @ Quit: maths22: Read error: Connection reset by peer
 [2015/12/11 02:03:38] @ maths22 joined channel #supertux
+[2015/12/11 03:01:04] @ Quit: bb010g: Quit: Connection closed for inactivity
