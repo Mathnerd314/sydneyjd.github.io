@@ -21004,3 +21004,52 @@
 [2015/12/11 10:58:03] <brmbrmcar> My age of 1 would creep you all out. :D
 [2015/12/11 10:58:25] <leyyin> why not ;)
 [2015/12/11 10:58:26] <brmbrmcar> I promised I'd stop.
+[2015/12/11 11:00:20] <brmbrmcar> But in Europe, you can go around without fear of guns in the wrong hands! Amazing!
+[2015/12/11 11:00:47] <head8debian> I have more fear of them being in the wrong hands over there.
+[2015/12/11 11:00:59] <leyyin> 'them' ?
+[2015/12/11 11:01:00] <brmbrmcar> Yes. Exactly.
+[2015/12/11 11:01:19] <brmbrmcar> You are missing out in the lack of guns.
+[2015/12/11 11:01:43] <head8debian> brmbrmcar: Me and leyyin were just talkign about that...
+[2015/12/11 11:01:58] <brmbrmcar> Really?
+[2015/12/11 11:02:06] <head8debian> brmbrmcar: So, do you think that guns shoudl be banned completely, or let people have the freely?
+[2015/12/11 11:02:08] <leyyin> who is 'them' ?
+[2015/12/11 11:02:09] <brmbrmcar> I'll re-check the trees.
+[2015/12/11 11:02:16] <brmbrmcar> I hate guns.
+[2015/12/11 11:02:20] <head8debian> brmbrmcar: It was in #stk...
+[2015/12/11 11:02:23] <brmbrmcar> They are useless.
+[2015/12/11 11:02:39] <leyyin> head8debian, you know there is a middle ground, not black and white ;)
+[2015/12/11 11:03:24] <head8debian> bbl.
+[2015/12/11 11:05:13] <Tobbi> head8debian: I think we'd be annoyed if we met each other in person, but maybe if we accept donations...
+[2015/12/11 11:05:59] <brmbrmcar> Why aren't there donations?
+[2015/12/11 11:06:04] <brmbrmcar> Oh,yeah.
+[2015/12/11 11:06:11] <head8debian> Tobbi: :-)
+[2015/12/11 11:06:39] <head8debian> brmbrmcar: We have no one who want to accept the responsability to take care of it.
+[2015/12/11 11:06:48] <brmbrmcar> Ah.
+[2015/12/11 11:07:01] <brmbrmcar> Anyone out there?
+[2015/12/11 11:07:39] <brmbrmcar> Who wants to do it?
+[2015/12/11 11:08:17] <head8debian> brmbrmcar: No one does.
+[2015/12/11 11:08:26] <head8debian> brmbrmcar: We have no need for money either.
+[2015/12/11 11:08:50] <head8debian> Unless we are going to hire a part time dev to replace Tobbi...
+[2015/12/11 11:08:57] <Tobbi> :D
+[2015/12/11 11:09:18] <head8debian> Tobbi: That was the exact response i was expecting. :D
+[2015/12/11 11:09:27] <Tobbi> head8debian: No one can replace me.
+[2015/12/11 11:09:32] <head8debian> Tobbi: I know you too well... :p
+[2015/12/11 11:09:35] <Tobbi> You know that sign that is hanging above my bed.
+[2015/12/11 11:09:36] <head8debian> True.
+[2015/12/11 11:09:43] <head8debian> Huh?
+[2015/12/11 11:10:16] <brmbrmcar> How much do you pay?
+[2015/12/11 11:10:25] <Tobbi> head8debian: "complains about me are most likely the sign that there's something wrong with the person having problems with me"
+[2015/12/11 11:10:27] <brmbrmcar> I wanna 8 figure salary.
+[2015/12/11 11:11:37] <head8debian> brmbrmcar: I want enough to pretty comfortably live off of, but i don't want to work my butt off in the proccess...
+[2015/12/11 11:12:07] <brmbrmcar> Yeah.
+[2015/12/11 11:12:35] <head8debian> brmbrmcar: When i raise a family i'd like to spend time with them, not be gone all the time.
+[2015/12/11 11:12:37] <brmbrmcar> I want enough dosh for another computer.
+[2015/12/11 11:12:43] <brmbrmcar> Yeah.
+[2015/12/11 11:13:17] <head8debian> brmbrmcar: I have a old desktop which you can have if you come get it. :D
+[2015/12/11 11:13:27] <brmbrmcar> Nah.
+[2015/12/11 11:13:36] <brmbrmcar> This is fast enough.
+[2015/12/11 11:13:50] <brmbrmcar> I am talking 5ghz AMD.
+[2015/12/11 11:14:12] <brmbrmcar> That's what I want, not what I've got.
+[2015/12/11 11:14:31] <head8debian> brmbrmcar: It would be better than a chromebook.
+[2015/12/11 11:14:58] <brmbrmcar> No.
+[2015/12/11 11:14:58] <head8debian> brmbrmcar: 250gb HDD, 4gb ram, dual core 1.86ghz c2d.
