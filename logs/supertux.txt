@@ -21151,3 +21151,5 @@
 [2015/12/11 16:39:09] @ swift110 joined channel #supertux
 [2015/12/11 16:39:35] @ Quit: swift110: Changing host
 [2015/12/11 16:39:35] @ swift110 joined channel #supertux
+[2015/12/11 17:24:56] @ tuxdev_ joined channel #supertux
+[2015/12/11 17:25:05] @ Quit: swift110: Ping timeout: 272 seconds
