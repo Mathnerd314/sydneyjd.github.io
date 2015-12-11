@@ -20833,3 +20833,9 @@
 [2015/12/10 20:29:29] <Tobbi> head8debian: Who is it?
 [2015/12/10 20:29:51] <head8debian> Tobbi: Someone in #debian.
 [2015/12/10 20:29:59] <Tobbi> Ah kay
+[2015/12/10 20:30:18] <head8debian> Tobbi: Not that i know a great deal myself, but its more than that. o_O
+[2015/12/10 20:30:39] <Tobbi> head8debian: You get spam mails every day and yet don't know a great deal? How disappointing.
+[2015/12/10 20:31:12] <head8debian> Tobbi: What? :)
+[2015/12/10 20:31:31] <Tobbi> head8debian: Never mind.
+[2015/12/10 20:37:59] <maths22> Is Tux's strange behavior on moving platforms a bug or intentional
+[2015/12/10 20:38:20] <maths22> i.e. can't move forward on a platform moving forward, can't always jump on a falling platform, etc.
