@@ -20954,3 +20954,22 @@
 [2015/12/11 09:38:06] <head8debian> They are 2 diferent programs doing the same thing...
 [2015/12/11 09:58:43] @ paroneayea joined channel #supertux
 [2015/12/11 10:04:11] <Not-e81f> [02flexlay] 07tobbi opened issue 03#52: Save user meta information in settings - 13http://git.io/v0LbY
+[2015/12/11 10:36:36] @ brmbrmcar joined channel #supertux
+[2015/12/11 10:39:04] <leyyin> head8debian, do you tell your friends you talk with commies from East Europe? :P
+[2015/12/11 10:39:24] <head8debian> Hello brmbrmcar. Please annoy leyyin. :D
+[2015/12/11 10:39:50] <head8debian> leyyin: I still don't know what a commie is.
+[2015/12/11 10:39:54] <leyyin> he can write all he wants, he is ignored
+[2015/12/11 10:40:08] <leyyin> head8debian, communist
+[2015/12/11 10:40:34] <head8debian> leyyin: o_O
+[2015/12/11 10:40:40] <brmbrmcar> Hello niyyel.
+[2015/12/11 10:40:57] <head8debian> Thats a new one...
+[2015/12/11 10:40:58] <leyyin> seriously, you never heard the word 'commie'
+[2015/12/11 10:41:04] <head8debian> leyyin: No i haven't!
+[2015/12/11 10:41:18] <head8debian> I wouldn't have asked if i did.
+[2015/12/11 10:41:35] <leyyin> https://www.google.ro/#newwindow=1&q=commie
+[2015/12/11 10:42:20] <head8debian> leyyin: Why not just a lmgtfy? :D
+[2015/12/11 10:42:23] * head8debian rolls his eyes...
+[2015/12/11 10:42:36] <leyyin> because I am a commie ;)
+[2015/12/11 10:42:46] <brmbrmcar> brmbrmromaniangooglemightnothaveletmegooglethatforyou
+[2015/12/11 10:43:06] <head8debian> brmbrmcar: Ok, ok. ;)
+[2015/12/11 10:44:56] <brmbrmcar> brmbrmhead8debian: brmbrmisthisannoyingenough?
