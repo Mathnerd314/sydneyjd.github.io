@@ -20919,3 +20919,5 @@
 [2015/12/11 08:55:11] <jesusalva> On other channel people were talking about open source economics. Almost gave me headache their price marking methods.
 [2015/12/11 08:55:12] <Tobbi> :D
 [2015/12/11 08:55:53] <jesusalva> ...Now, let's open Google Translator. Why would I try to remember what is "Moat" when Google Translator does it for me? ;)
+[2015/12/11 09:02:13] <jesusalva> Funny language for "src/ctdabomb-worldmaps/levels/penny/extro.stl:3" name
+[2015/12/11 09:05:08] <jesusalva> CT's levels fully translated, now I'll play something else before looking again at the untranslated resources.
