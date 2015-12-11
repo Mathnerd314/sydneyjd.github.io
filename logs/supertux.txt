@@ -21061,3 +21061,5 @@
 [2015/12/11 11:17:00] <brmbrmcar> Mine is slightly different UK spec.
 [2015/12/11 11:17:48] <brmbrmcar> This machine is 64 bit.
 [2015/12/11 11:29:38] * jesusalva thinks that money is probably only worth spending on food.
+[2015/12/11 11:36:11] <brmbrmcar> Why?
+[2015/12/11 11:36:30] @ alket joined channel #supertux
