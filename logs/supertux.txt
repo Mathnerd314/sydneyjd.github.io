@@ -21313,3 +21313,6 @@
 [2015/12/12 11:40:19] <brmbrmcar> Ah.
 [2015/12/12 11:40:37] <brmbrmcar> I can see the easter egg, but I don't get it.
 [2015/12/12 11:40:46] @ Karkus joined channel #supertux
+[2015/12/12 11:50:35] @ Quit: Karkus: Quit: Division By Zero
+[2015/12/12 11:52:53] @ Karkus joined channel #supertux
+[2015/12/12 11:56:28] @ Quit: LeFire: Ping timeout: 252 seconds
