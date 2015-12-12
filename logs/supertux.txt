@@ -21208,3 +21208,7 @@
 [2015/12/12 05:20:15] @ ced117_ is now known as ced117
 [2015/12/12 05:20:21] @ Quit: ced117: Changing host
 [2015/12/12 05:20:21] @ ced117 joined channel #supertux
+[2015/12/12 05:37:23] @ Quit: Tobbi: 
+[2015/12/12 05:38:30] @ datahead8888__ joined channel #supertux
+[2015/12/12 05:42:20] @ Quit: datahead8888_: Ping timeout: 264 seconds
+[2015/12/12 05:44:42] @ Quit: brmbrmcar: Ping timeout: 250 seconds
