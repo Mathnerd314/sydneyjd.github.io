@@ -21327,3 +21327,5 @@
 [2015/12/12 12:44:47] @ yx_ is now known as xnrand
 [2015/12/12 12:49:39] <brmbrmcar> Oh, I'll re-add the signs.
 [2015/12/12 12:56:22] <brmbrmcar> http://paste.ubuntu.com/13973827/
+[2015/12/12 13:15:19] @ Karkus joined channel #supertux
+[2015/12/12 13:16:04] @ Quit: Karkus: Client Quit
