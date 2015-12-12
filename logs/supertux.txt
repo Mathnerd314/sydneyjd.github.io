@@ -21512,3 +21512,35 @@
 [2015/12/12 16:57:46] <joserebelo> The builds on travis are failing because of something on an openssl command
 [2015/12/12 16:57:51] <joserebelo> any idea why ?
 [2015/12/12 16:58:34] <pedromlcosta> Yeah, we made a pull request with a console script, but it failed.
+[2015/12/12 17:02:25] <brmbrmcar> What script?
+[2015/12/12 17:02:36] <pedromlcosta> A warp
+[2015/12/12 17:02:52] <brmbrmcar> OK, I am confused.
+[2015/12/12 17:03:02] <pedromlcosta> the script is called warp, moves Tux X and Y blocks away from where he is
+[2015/12/12 17:03:14] <pedromlcosta> and can be called on the console using warp(x, y)
+[2015/12/12 17:03:20] <brmbrmcar> functions(...) didn't work.
+[2015/12/12 17:03:38] <joserebelo> i read your message, but Tobbi had merged it already
+[2015/12/12 17:03:39] <brmbrmcar> How do you use warp(x,y)?
+[2015/12/12 17:03:44] <joserebelo> it works here
+[2015/12/12 17:03:44] <Tobbi> Hello.
+[2015/12/12 17:03:49] <Tobbi> What have I done?
+[2015/12/12 17:04:13] <joserebelo> nothing
+[2015/12/12 17:04:36] <joserebelo> but the thing is, the travis builds are failing, it has nothing to do with the code changes
+[2015/12/12 17:05:50] <brmbrmcar> I'll check out console.nut,
+[2015/12/12 17:06:54] <brmbrmcar> So, it is nothing to do with the actual Consl.
+[2015/12/12 17:07:06] <joserebelo> ?
+[2015/12/12 17:08:13] <brmbrmcar> I mean,it is simpleadd to functions.
+[2015/12/12 17:08:32] <pedromlcosta> yeah, we added a function there
+[2015/12/12 17:08:35] <pedromlcosta> it works here
+[2015/12/12 17:08:43] <brmbrmcar> So it is not affecting the actual Console scripting itself.
+[2015/12/12 17:08:47] <pedromlcosta> No
+[2015/12/12 17:09:05] <pedromlcosta> We just made the wrapper and added a function in functions.cpp
+[2015/12/12 17:09:05] <brmbrmcar> I mean, it is a script, but nothing in the actual console changed.
+[2015/12/12 17:09:10] <brmbrmcar> Yes.
+[2015/12/12 17:09:19] <brmbrmcar> So Console is not involved.
+[2015/12/12 17:10:13] <pedromlcosta> Yeah, it isnt. I just call the warp function there, as I would  any script :b
+[2015/12/12 17:10:16] <brmbrmcar> I confused myself there...
+[2015/12/12 17:10:46] <brmbrmcar> I doubt it'll be merged before 0.4.0.
+[2015/12/12 17:11:37] <pedromlcosta> Np, we just needed that it passed and was accepted, for a college/university class we're doing :b
+[2015/12/12 17:13:20] <brmbrmcar> I wish it was merged though.
+[2015/12/12 17:13:46] <joserebelo> but the travis build didn't fail bcuz of us
+[2015/12/12 17:14:05] <joserebelo> the problem isn't related to the code
