@@ -21205,3 +21205,6 @@
 [2015/12/12 05:14:17] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-12-11 06:33:12 -0500
 [2015/12/12 05:14:20] @ Mode +nt by wilhelm.freenode.net
 [2015/12/12 05:14:28] @ Tobbi set topic "8 days until 0.4.0! | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | Channel log http://sydneyjd.github.io/logs/ | nightly builds http://download.supertuxproject.org/download/"
+[2015/12/12 05:20:15] @ ced117_ is now known as ced117
+[2015/12/12 05:20:21] @ Quit: ced117: Changing host
+[2015/12/12 05:20:21] @ ced117 joined channel #supertux
