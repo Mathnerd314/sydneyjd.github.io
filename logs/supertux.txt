@@ -21320,3 +21320,8 @@
 [2015/12/12 12:14:36] @ Mode +o Tobbi by ChanServ
 [2015/12/12 12:18:10] <brmbrmcar> I am improving my level.
 [2015/12/12 12:18:27] @ Quit: Karkus: Remote host closed the connection
+[2015/12/12 12:38:52] <brmbrmcar> http://paste.ubuntu.com/13973310/
+[2015/12/12 12:39:01] <brmbrmcar> Exactly 999lines of code.
+[2015/12/12 12:42:41] @ yx_ joined channel #supertux
+[2015/12/12 12:43:07] @ Quit: xnrand: *.net *.split
+[2015/12/12 12:44:47] @ yx_ is now known as xnrand
