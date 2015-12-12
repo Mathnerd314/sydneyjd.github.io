@@ -21212,3 +21212,6 @@
 [2015/12/12 05:38:30] @ datahead8888__ joined channel #supertux
 [2015/12/12 05:42:20] @ Quit: datahead8888_: Ping timeout: 264 seconds
 [2015/12/12 05:44:42] @ Quit: brmbrmcar: Ping timeout: 250 seconds
+[2015/12/12 05:48:51] @ Quit: maths22: Ping timeout: 256 seconds
+[2015/12/12 05:51:59] @ alket joined channel #supertux
+[2015/12/12 05:58:08] @ maths22 joined channel #supertux
