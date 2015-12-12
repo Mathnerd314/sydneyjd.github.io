@@ -21325,3 +21325,5 @@
 [2015/12/12 12:42:41] @ yx_ joined channel #supertux
 [2015/12/12 12:43:07] @ Quit: xnrand: *.net *.split
 [2015/12/12 12:44:47] @ yx_ is now known as xnrand
+[2015/12/12 12:49:39] <brmbrmcar> Oh, I'll re-add the signs.
+[2015/12/12 12:56:22] <brmbrmcar> http://paste.ubuntu.com/13973827/
