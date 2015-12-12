@@ -21185,3 +21185,5 @@
 [2015/12/12 01:25:02] @ maths22 joined channel #supertux
 [2015/12/12 02:34:26] @ tux|dude joined channel #supertux
 [2015/12/12 02:36:43] @ Quit: tuxdev_: Ping timeout: 272 seconds
+[2015/12/12 02:48:30] @ Quit: datahead8888_: Read error: Connection reset by peer
+[2015/12/12 02:48:51] @ datahead8888_ joined channel #supertux
