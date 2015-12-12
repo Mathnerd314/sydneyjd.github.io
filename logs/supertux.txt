@@ -21303,3 +21303,4 @@
 [2015/12/12 11:12:01] <brmbrmcar> Ithink parts of the level are just too hard.
 [2015/12/12 11:13:22] <brmbrmcar> A lot of the badguys really need to be removed.
 [2015/12/12 11:14:43] <brmbrmcar> Oh, it says something when you zoomout.
+[2015/12/12 11:25:05] @ Quit: Karkus: Quit: Division By Zero
