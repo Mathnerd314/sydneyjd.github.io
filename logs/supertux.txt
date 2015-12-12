@@ -21218,3 +21218,5 @@
 [2015/12/12 06:01:50] @ brmbrmcar joined channel #supertux
 [2015/12/12 06:04:13] <brmbrmcar> $20!
 [2015/12/12 06:15:00] @ Quit: alket: Excess Flood
+[2015/12/12 06:16:31] @ alket joined channel #supertux
+[2015/12/12 06:27:03] <brmbrmcar> It won't hit the reserve...
