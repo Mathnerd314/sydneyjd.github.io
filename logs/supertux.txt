@@ -21224,3 +21224,7 @@
 [2015/12/12 06:37:41] @ Mode +o Tobbi by ChanServ
 [2015/12/12 06:39:55] @ Hume2 joined channel #supertux
 [2015/12/12 07:22:59] @ Quit: datahead8888__: Ping timeout: 240 seconds
+[2015/12/12 07:35:34] @ Drangue joined channel #supertux
+[2015/12/12 07:35:39] @ Quit: alket: Disconnected by services
+[2015/12/12 07:35:41] @ Drangue is now known as alket
+[2015/12/12 07:38:59] @ Quit: Hume2: Quit: Page closed
