@@ -21262,3 +21262,17 @@
 [2015/12/12 09:57:50] @ Xjs|moonshine joined channel #supertux
 [2015/12/12 10:32:25] @ Drangue is now known as alket
 [2015/12/12 10:42:36] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/12 10:47:28] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#261: Yeti bounces through unisolid tiles - 13http://git.io/v0sgs
+[2015/12/12 10:51:20] <Hume2> brmbrmcar or anyone: could you test my level? http://pastebin.com/itqLw7ZA
+[2015/12/12 10:55:06] <LeFire> Hey guys, I was trying to get a levels checkpoints, but I'm having some difficulty understanding how the classes correlate
+[2015/12/12 10:56:25] <Hume2> Checkpoints or spawnpoint?
+[2015/12/12 10:56:51] <LeFire> That's the thing, I might be confusing it
+[2015/12/12 10:57:06] <LeFire> Checkpoints though, I think
+[2015/12/12 10:57:13] <Hume2> If you mean the bell, it's the reset point thing.
+[2015/12/12 10:57:32] <LeFire> yeah, I was able to get the last reset point
+[2015/12/12 10:57:39] <LeFire> I am trying to get the next one though
+[2015/12/12 10:57:50] <Hume2> So put another one.
+[2015/12/12 10:58:34] <Hume2> What's the problem?
+[2015/12/12 10:58:53] <LeFire> I mean, I'm trying to get the next available one :b
+[2015/12/12 10:59:28] <mt> https://ptpb.pw/Mc6U.png <-- the dead bouncing snowball, is that supposed to happen when it's hit by a fireball?
+[2015/12/12 10:59:44] <brmbrmcar> Git the levelgoing.
