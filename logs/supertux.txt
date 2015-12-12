@@ -21448,3 +21448,37 @@
 [2015/12/12 16:14:37] <Not-e81f> [02flexlay] 07Karkus476 closed issue 03#52: Save user meta information in settings - 13http://git.io/v0LbY
 [2015/12/12 16:14:38] <Not-e81f> [02flexlay] 07Karkus476 pushed 031 commit to 03develop [+1/-1/±4] 13http://git.io/v0Gd6
 [2015/12/12 16:14:39] <Not-e81f> [02flexlay] 07Karkus 03ef59e1b - Save user's name into config. Fixes #52
+[2015/12/12 16:15:20] <Karkus> Tobbi: Erm, did we fix droppers?
+[2015/12/12 16:15:30] <Tobbi> droppers?
+[2015/12/12 16:15:50] <Karkus> What are they called? Spawners?
+[2015/12/12 16:16:03] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/110
+[2015/12/12 16:16:05] <Karkus> Dispensers, apparently
+[2015/12/12 16:16:26] <Tobbi> As of 3 commits ago, I surpassed christoph sommer in commit count.
+[2015/12/12 16:16:28] <Tobbi> I am now 3rd.
+[2015/12/12 16:16:36] <Tobbi> Who wants to celebrate? :P
+[2015/12/12 16:16:43] <Karkus> Yay!
+[2015/12/12 16:16:52] <Tobbi> Karkus: Ah, the design of them? Do we have a designer?
+[2015/12/12 16:16:58] <Tobbi> I don't actually think so.
+[2015/12/12 16:17:16] <Karkus> paroneayea is still on IRC...
+[2015/12/12 16:17:52] <Tobbi> Oh, indeed.
+[2015/12/12 16:18:05] <brmbrmcar> I want to be 1st on commit count one day...
+[2015/12/12 16:18:08] <brmbrmcar> Overall.
+[2015/12/12 16:18:46] <brmbrmcar> I don't want to celebrate.
+[2015/12/12 16:18:54] <Karkus> If that happens, something has taken a turn for the worst
+[2015/12/12 16:19:40] <Tobbi> Karkus: If what happens?
+[2015/12/12 16:19:51] <Karkus> brmbrmcar is first on commit count
+[2015/12/12 16:22:04] <Karkus> Tobbi: brmbrmtux...
+[2015/12/12 16:22:46] <Tobbi> Karkus:  brmbrmcar is first on annoy count.
+[2015/12/12 16:23:00] <brmbrmcar> Who's second?
+[2015/12/12 16:24:05] <Karkus> brmbrmcar: Please supply a screenshot. https://github.com/SuperTux/supertux/issues/262
+[2015/12/12 16:24:55] <brmbrmcar> Just vgo off the screen.
+[2015/12/12 16:24:59] <brmbrmcar> vertically.
+[2015/12/12 16:25:19] <brmbrmcar> It is more obvious thn me taking a screenshot.
+[2015/12/12 16:25:25] <brmbrmcar> You'll see what I mean.
+[2015/12/12 16:25:30] <Karkus> Wasn't obvious to me.
+[2015/12/12 16:25:30] <Tobbi> Karkus: Any idea what he's talking about for that issue?
+[2015/12/12 16:25:34] <Karkus> Nope.
+[2015/12/12 16:25:36] <Tobbi> ok
+[2015/12/12 16:25:42] <Karkus> You?
+[2015/12/12 16:27:00] <brmbrmcar> Go above the screen.
+[2015/12/12 16:27:23] <Tobbi> Karkus: no.
