@@ -21341,3 +21341,24 @@
 [2015/12/12 14:30:04] <Not-e81f> [02supertux] 07LMH0013 commented on issue 03#234: Making Tux air or earth on death displays hat - 13http://git.io/v0GEF
 [2015/12/12 14:32:53] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/12/12 14:51:30] @ Quit: jesusalva: Quit: Good bye, God bless you.
+[2015/12/12 15:04:16] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v0GoC
+[2015/12/12 15:04:17] <Not-e81f> [02supertux] 07Tobias Markus 034c8dc70 - Reduce code duplication in player.cpp
+[2015/12/12 15:04:19] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96485301
+[2015/12/12 15:04:20] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/108
+[2015/12/12 15:05:28] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96485301
+[2015/12/12 15:05:33] @ datahead8888_ joined channel #supertux
+[2015/12/12 15:06:09] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#234: Making Tux air or earth on death displays hat - 13http://git.io/v0GKZ
+[2015/12/12 15:08:09] @ Quit: datahead8888: Ping timeout: 240 seconds
+[2015/12/12 15:08:27] @ brmbrmcar joined channel #supertux
+[2015/12/12 15:08:53] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v0G6G
+[2015/12/12 15:08:54] <Not-e81f> [02supertux] 07Tobias Markus 03ce8a68d - Don't set bonus if we're currently dying. Closes #234
+[2015/12/12 15:08:56] <Not-e81f> [02supertux] 07tobbi closed issue 03#234: Making Tux air or earth on death displays hat - 13http://git.io/v4pra
+[2015/12/12 15:08:57] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96485871
+[2015/12/12 15:08:59] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/109
+[2015/12/12 15:09:05] <brmbrmcar> What?
+[2015/12/12 15:09:08] <brmbrmcar> Why?
+[2015/12/12 15:09:12] <brmbrmcar> Oh.
+[2015/12/12 15:09:33] <brmbrmcar> I'll check if it works later.
+[2015/12/12 15:12:07] <brmbrmcar> It still bugds up onthe latest build.
+[2015/12/12 15:12:21] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96485871
+[2015/12/12 15:12:31] <brmbrmcar> I'll see if it works on a possibly updated version tomorrow.
