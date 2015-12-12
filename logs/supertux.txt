@@ -21229,3 +21229,5 @@
 [2015/12/12 07:35:41] @ Drangue is now known as alket
 [2015/12/12 07:38:59] @ Quit: Hume2: Quit: Page closed
 [2015/12/12 07:59:15] @ leyyin joined channel #supertux
+[2015/12/12 08:08:44] @ Karkus joined channel #supertux
+[2015/12/12 08:14:29] @ Quit: brmbrmcar: Ping timeout: 256 seconds
