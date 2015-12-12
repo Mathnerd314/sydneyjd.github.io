@@ -21436,3 +21436,15 @@
 [2015/12/12 15:59:25] <maths22> What part is increasing in size?
 [2015/12/12 15:59:36] <brmbrmcar> The data.
 [2015/12/12 15:59:46] <brmbrmcar> Butpossibly it has just gone up.
+[2015/12/12 16:00:18] <maths22> It deletes the old directory when you upgrade, so i assume it must have gone up
+[2015/12/12 16:00:26] <Tobbi> One of my fellow students told me to improve the graphics of SuperTux.
+[2015/12/12 16:00:49] <maths22> I restarted AppVeyor since it had that github issue.  Its running fine now
+[2015/12/12 16:01:38] @ LeFire joined channel #supertux
+[2015/12/12 16:03:09] @ Quit: Hume2: Quit: Page closed
+[2015/12/12 16:04:42] <Karkus> Tobbi: The graphics are okay, but some things definitely do need changing.
+[2015/12/12 16:06:36] <brmbrmcar> My hats suck.
+[2015/12/12 16:06:46] <brmbrmcar> I'm no graphics person.
+[2015/12/12 16:10:39] <Tobbi> Karkus: ...like, for example?
+[2015/12/12 16:14:37] <Not-e81f> [02flexlay] 07Karkus476 closed issue 03#52: Save user meta information in settings - 13http://git.io/v0LbY
+[2015/12/12 16:14:38] <Not-e81f> [02flexlay] 07Karkus476 pushed 031 commit to 03develop [+1/-1/±4] 13http://git.io/v0Gd6
+[2015/12/12 16:14:39] <Not-e81f> [02flexlay] 07Karkus 03ef59e1b - Save user's name into config. Fixes #52
