@@ -21260,3 +21260,5 @@
 [2015/12/12 09:55:03] @ Drangue joined channel #supertux
 [2015/12/12 09:55:32] @ Quit: alket: Ping timeout: 250 seconds
 [2015/12/12 09:57:50] @ Xjs|moonshine joined channel #supertux
+[2015/12/12 10:32:25] @ Drangue is now known as alket
+[2015/12/12 10:42:36] @ Quit: Tobbi: Remote host closed the connection
