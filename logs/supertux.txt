@@ -21338,3 +21338,5 @@
 [2015/12/12 14:18:33] <Tobbi> guys...
 [2015/12/12 14:22:35] <Tobbi> These if statements can be written differently as well.
 [2015/12/12 14:23:15] <Tobbi> eehm, nvm. I am speaking to myself.
+[2015/12/12 14:30:04] <Not-e81f> [02supertux] 07LMH0013 commented on issue 03#234: Making Tux air or earth on death displays hat - 13http://git.io/v0GEF
+[2015/12/12 14:32:53] @ Quit: brmbrmcar: Quit: brmbrmquit
