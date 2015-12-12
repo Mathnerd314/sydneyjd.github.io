@@ -21424,3 +21424,15 @@
 [2015/12/12 15:42:37] <Karkus> Ah, wait a minute
 [2015/12/12 15:42:59] <Karkus> Tobbi: http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml
 [2015/12/12 15:43:07] <Karkus> I didn't see it at the bottom there
+[2015/12/12 15:45:59] <Tobbi> Karkus: We should check the code against that styleguide...
+[2015/12/12 15:46:02] <Tobbi> after the releease.
+[2015/12/12 15:47:43] <alket> hi head8debian
+[2015/12/12 15:47:53] <Tobbi> or maybe not.
+[2015/12/12 15:48:07] <Karkus> Tobbi: I'm not sure.
+[2015/12/12 15:48:43] <Karkus> Might just end up with hundreds of small commits
+[2015/12/12 15:57:55] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/110
+[2015/12/12 15:58:40] <maths22> brmbrmcar: Is this in wine?
+[2015/12/12 15:59:20] <brmbrmcar> Yeah
+[2015/12/12 15:59:25] <maths22> What part is increasing in size?
+[2015/12/12 15:59:36] <brmbrmcar> The data.
+[2015/12/12 15:59:46] <brmbrmcar> Butpossibly it has just gone up.
