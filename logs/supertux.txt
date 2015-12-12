@@ -21215,3 +21215,6 @@
 [2015/12/12 05:48:51] @ Quit: maths22: Ping timeout: 256 seconds
 [2015/12/12 05:51:59] @ alket joined channel #supertux
 [2015/12/12 05:58:08] @ maths22 joined channel #supertux
+[2015/12/12 06:01:50] @ brmbrmcar joined channel #supertux
+[2015/12/12 06:04:13] <brmbrmcar> $20!
+[2015/12/12 06:15:00] @ Quit: alket: Excess Flood
