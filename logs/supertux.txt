@@ -21192,3 +21192,5 @@
 [2015/12/12 04:14:12] @ datahead8888__ joined channel #supertux
 [2015/12/12 04:15:11] @ ced117 joined channel #supertux
 [2015/12/12 04:16:18] @ Quit: datahead8888_: Ping timeout: 240 seconds
+[2015/12/12 04:31:08] @ brmbrmcar joined channel #supertux
+[2015/12/12 04:32:37] <brmbrmcar> 8 days...
