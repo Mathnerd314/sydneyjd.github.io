@@ -21564,3 +21564,5 @@
 [2015/12/12 17:25:10] <pedromlcosta> Gostas de pao?
 [2015/12/12 17:40:04] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/12/12 17:58:45] @ Quit: claymore2: Quit: Leaving
+[2015/12/12 18:11:47] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/12/12 18:13:05] <Not-e81f> [02supertux] 07hanez starred 03supertux - 13http://git.io/v0Z3m
