@@ -21362,3 +21362,43 @@
 [2015/12/12 15:12:07] <brmbrmcar> It still bugds up onthe latest build.
 [2015/12/12 15:12:21] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96485871
 [2015/12/12 15:12:31] <brmbrmcar> I'll see if it works on a possibly updated version tomorrow.
+[2015/12/12 15:15:19] <Tobbi> brmbrmcar: Why don't you use pastebin always?
+[2015/12/12 15:16:26] <brmbrmcar> It is unnatural.
+[2015/12/12 15:16:39] <brmbrmcar> And a painfor people copying over.
+[2015/12/12 15:16:50] @ Karkus joined channel #supertux
+[2015/12/12 15:17:52] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/96485301
+[2015/12/12 15:18:10] <Tobbi> Hello, Karkus, LMH
+[2015/12/12 15:18:29] <Tobbi> LMH: Would you like to be added to the credits?
+[2015/12/12 15:18:29] <Karkus> Hello Tobbi and LMH ÖD
+[2015/12/12 15:18:35] <Karkus> :D
+[2015/12/12 15:18:37] <Karkus> Oops
+[2015/12/12 15:18:41] <Tobbi> Karkus: German keyboard layout?
+[2015/12/12 15:18:45] <Tobbi> How did that happen?
+[2015/12/12 15:18:47] <Karkus> Tobbi: German essay
+[2015/12/12 15:18:49] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96485871
+[2015/12/12 15:18:50] <Tobbi> ah
+[2015/12/12 15:19:20] <head8debian> Good afternoon Karkus Tobbi brmbrmcar alket LMH and leyyin. Hope your having a great day. :D
+[2015/12/12 15:19:32] <Tobbi> head8debian: You certainly are cheerful.
+[2015/12/12 15:19:33] <Tobbi> :D
+[2015/12/12 15:19:40] <head8debian> :D
+[2015/12/12 15:19:42] <brmbrmcar> I am in a bad day.
+[2015/12/12 15:19:49] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96485871
+[2015/12/12 15:19:56] <brmbrmcar> But I should change to a good day.
+[2015/12/12 15:20:14] <head8debian> Tobbi: Thats what happens when you get a relief from working under the hood of a very small car and keep pinching your fingers. :D
+[2015/12/12 15:20:22] <Tobbi> ah.
+[2015/12/12 15:20:50] <brmbrmcar> I  would have liked that. :D
+[2015/12/12 15:21:10] <head8debian> Tobbi: You don't see many people with black stained hands from working on greasy stuff around...
+[2015/12/12 15:21:19] * leyyin feels a disturbance in the force
+[2015/12/12 15:21:35] <leyyin> head8debian, are you pumped, for the new star wars movie?
+[2015/12/12 15:22:09] <Karkus> head8debian: No, computers don't give you black stained hands.
+[2015/12/12 15:23:05] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/108
+[2015/12/12 15:23:35] <brmbrmcar> Ilike the black sy
+[2015/12/12 15:23:41] <brmbrmcar> tained hands.
+[2015/12/12 15:24:41] @ datahead8888__ joined channel #supertux
+[2015/12/12 15:27:46] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/109
+[2015/12/12 15:27:54] @ Quit: datahead8888_: Ping timeout: 250 seconds
+[2015/12/12 15:28:35] <brmbrmcar> Whenwill the nightly builds be updated?
+[2015/12/12 15:28:57] <Tobbi> What now?
+[2015/12/12 15:29:16] <brmbrmcar> Ah, it's done. :D
+[2015/12/12 15:29:45] <Tobbi> Okay, not our fault.
+[2015/12/12 15:29:55] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/96485871
