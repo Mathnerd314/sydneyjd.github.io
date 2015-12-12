@@ -21174,3 +21174,7 @@
 [2015/12/11 20:30:56] <head8debian> :-)
 [2015/12/11 21:13:42] @ Quit: LeFire: Ping timeout: 252 seconds
 [2015/12/11 23:21:23] @ LeFire joined channel #supertux
+[2015/12/11 23:30:06] @ Quit: LeFire: Ping timeout: 252 seconds
+[2015/12/11 23:39:05] @ LeFire joined channel #supertux
+[2015/12/11 23:40:07] @ Quit: irungentoo: Remote host closed the connection
+[2015/12/11 23:43:18] @ Quit: LeFire: Ping timeout: 252 seconds
