@@ -21243,3 +21243,11 @@
 [2015/12/12 08:48:06] <brmbrmcar> Soover 12 years old.
 [2015/12/12 09:02:48] @ Quit: Karkus: Ping timeout: 240 seconds
 [2015/12/12 09:10:33] @ Karkus joined channel #supertux
+[2015/12/12 09:15:06] <mt> /ns info lilo
+[2015/12/12 09:15:07] <mt> :P
+[2015/12/12 09:15:12] <mt> 21 years old
+[2015/12/12 09:16:32] <mt> the 9 years is from the channel TS?
+[2015/12/12 09:16:39] @ Quit: Karkus: Ping timeout: 240 seconds
+[2015/12/12 09:20:00] @ Quit: Xjs|moonshine: Ping timeout: 260 seconds
+[2015/12/12 09:20:40] @ Tobbi joined channel #supertux
+[2015/12/12 09:20:41] @ Mode +o Tobbi by ChanServ
