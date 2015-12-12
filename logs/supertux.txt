@@ -21482,3 +21482,10 @@
 [2015/12/12 16:25:42] <Karkus> You?
 [2015/12/12 16:27:00] <brmbrmcar> Go above the screen.
 [2015/12/12 16:27:23] <Tobbi> Karkus: no.
+[2015/12/12 16:30:39] @ Quit: Karkus: Ping timeout: 240 seconds
+[2015/12/12 16:31:50] <brmbrmcar> https://cdn.pbrd.co/images/2Ph6O0C9.png
+[2015/12/12 16:37:58] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±2] 13http://git.io/v0GxO
+[2015/12/12 16:37:59] <Not-e81f> [02supertux] 07Tobias Markus 0301eeb36 - [yay] [const correctness] Make get_coins() const
+[2015/12/12 16:38:01] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96496301
+[2015/12/12 16:38:02] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/111
+[2015/12/12 16:39:04] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96496301
