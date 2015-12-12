@@ -21276,3 +21276,30 @@
 [2015/12/12 10:58:53] <LeFire> I mean, I'm trying to get the next available one :b
 [2015/12/12 10:59:28] <mt> https://ptpb.pw/Mc6U.png <-- the dead bouncing snowball, is that supposed to happen when it's hit by a fireball?
 [2015/12/12 10:59:44] <brmbrmcar> Git the levelgoing.
+[2015/12/12 11:00:19] <Hume2> mt: never tried that.
+[2015/12/12 11:00:34] @ tuxdev_ joined channel #supertux
+[2015/12/12 11:00:51] <mt> shouldn't these also have a melting animation?
+[2015/12/12 11:01:14] <Hume2> mt: Yes, but currently I don't know what has happened.
+[2015/12/12 11:01:22] <brmbrmcar> What do ypu want me to actually test>
+[2015/12/12 11:01:36] <Hume2> LeFire: How a checkpoint can't work?
+[2015/12/12 11:02:09] <Hume2> brmbrmcar: Just the level.
+[2015/12/12 11:02:11] <LeFire> I want to get the coordinates of the next checkpoint I haven't reached
+[2015/12/12 11:02:33] <brmbrmcar> OK.
+[2015/12/12 11:02:48] <Hume2> LeFire: So click on it and the coordinates should reveal.
+[2015/12/12 11:02:49] <brmbrmcar> It's pretty good onfirst impressions...
+[2015/12/12 11:03:33] <LeFire> Humer2: on code, not while playing :b
+[2015/12/12 11:04:37] <Hume2> LeFire: On code it's super easy. You just find where the checkpoint has saved.
+[2015/12/12 11:04:52] <Hume2> Don't be confused, it saves as "firefly".
+[2015/12/12 11:05:39] <brmbrmcar> I don'tlike the way that badguys are in a jumping blindspot.
+[2015/12/12 11:06:00] <LeFire> Oh, so it's the firefly x)
+[2015/12/12 11:06:02] <LeFire> Thanks
+[2015/12/12 11:07:20] <Hume2> brmbrmcar: Unfortunatelly, we have no badguys those can move properly in such terrain.
+[2015/12/12 11:07:58] <brmbrmcar> OK.
+[2015/12/12 11:08:35] <Hume2> There's an easter egg in this level. Can you find it?
+[2015/12/12 11:10:10] <brmbrmcar> No.
+[2015/12/12 11:10:31] @ Karkus joined channel #supertux
+[2015/12/12 11:10:33] <brmbrmcar> But at one of the doors, I got hit going out by a bomb exploding.
+[2015/12/12 11:10:43] <Hume2> afk
+[2015/12/12 11:12:01] <brmbrmcar> Ithink parts of the level are just too hard.
+[2015/12/12 11:13:22] <brmbrmcar> A lot of the badguys really need to be removed.
+[2015/12/12 11:14:43] <brmbrmcar> Oh, it says something when you zoomout.
