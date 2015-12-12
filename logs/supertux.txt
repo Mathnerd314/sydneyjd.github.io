@@ -21329,3 +21329,5 @@
 [2015/12/12 12:56:22] <brmbrmcar> http://paste.ubuntu.com/13973827/
 [2015/12/12 13:15:19] @ Karkus joined channel #supertux
 [2015/12/12 13:16:04] @ Quit: Karkus: Client Quit
+[2015/12/12 13:36:48] @ jesusalva joined channel #supertux
+[2015/12/12 13:41:37] @ datahead8888 joined channel #supertux
