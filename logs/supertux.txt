@@ -21238,3 +21238,6 @@
 [2015/12/12 08:43:26] @ head8debian joined channel #supertux
 [2015/12/12 08:43:32] <head8debian> Good morning all.
 [2015/12/12 08:44:57] <head8debian> Our IRC channel is 9 years old. :D
+[2015/12/12 08:46:41] @ brmbrmcar joined channel #supertux
+[2015/12/12 08:47:51] <brmbrmcar> Registered : Jan 04 22:33:08 2003
+[2015/12/12 08:48:06] <brmbrmcar> Soover 12 years old.
