@@ -21318,3 +21318,5 @@
 [2015/12/12 11:56:28] @ Quit: LeFire: Ping timeout: 252 seconds
 [2015/12/12 12:14:36] @ Tobbi joined channel #supertux
 [2015/12/12 12:14:36] @ Mode +o Tobbi by ChanServ
+[2015/12/12 12:18:10] <brmbrmcar> I am improving my level.
+[2015/12/12 12:18:27] @ Quit: Karkus: Remote host closed the connection
