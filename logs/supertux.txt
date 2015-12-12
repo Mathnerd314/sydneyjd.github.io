@@ -21304,3 +21304,12 @@
 [2015/12/12 11:13:22] <brmbrmcar> A lot of the badguys really need to be removed.
 [2015/12/12 11:14:43] <brmbrmcar> Oh, it says something when you zoomout.
 [2015/12/12 11:25:05] @ Quit: Karkus: Quit: Division By Zero
+[2015/12/12 11:31:45] <Hume2> cfk = close to keyboard
+[2015/12/12 11:34:14] @ Karkus joined channel #supertux
+[2015/12/12 11:34:30] <brmbrmcar> close from keyboard?
+[2015/12/12 11:35:06] <brmbrmcar> What does it say in snow?
+[2015/12/12 11:36:40] <Hume2> It's the opposite of afk.
+[2015/12/12 11:38:06] @ Quit: Karkus: Remote host closed the connection
+[2015/12/12 11:40:19] <brmbrmcar> Ah.
+[2015/12/12 11:40:37] <brmbrmcar> I can see the easter egg, but I don't get it.
+[2015/12/12 11:40:46] @ Karkus joined channel #supertux
