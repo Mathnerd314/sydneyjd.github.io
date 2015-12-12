@@ -21489,3 +21489,26 @@
 [2015/12/12 16:38:01] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96496301
 [2015/12/12 16:38:02] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/111
 [2015/12/12 16:39:04] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96496301
+[2015/12/12 16:45:22] <Not-e81f> [02supertux] 07pedromlcosta opened pull request 03#263: Added warp function to console scripts - 13http://git.io/v0GpW
+[2015/12/12 16:45:23] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96497216
+[2015/12/12 16:45:26] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/112
+[2015/12/12 16:45:57] @ Quit: LeFire: Quit: Page closed
+[2015/12/12 16:46:11] @ pedromlcosta joined channel #supertux
+[2015/12/12 16:46:25] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96497216
+[2015/12/12 16:46:47] <pedromlcosta> (didnt know how to or if I could change name, I'm LeFire xD)
+[2015/12/12 16:47:14] @ jesusalva joined channel #supertux
+[2015/12/12 16:48:31] <brmbrmcar>  /nick LeFire
+[2015/12/12 16:48:38] <pedromlcosta> thanks
+[2015/12/12 16:48:47] <brmbrmcar> Run that without the space at the start.
+[2015/12/12 16:49:33] @ Quit: Tobbi: 
+[2015/12/12 16:50:58] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/96496301
+[2015/12/12 16:53:40] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/96497216
+[2015/12/12 16:55:21] @ Tobbi joined channel #supertux
+[2015/12/12 16:55:21] @ Mode +o Tobbi by ChanServ
+[2015/12/12 16:56:20] <brmbrmcar> Tobbi: Did you get the screenshot?
+[2015/12/12 16:56:25] @ joserebelo joined channel #supertux
+[2015/12/12 16:57:24] <joserebelo> Hey all
+[2015/12/12 16:57:29] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/111
+[2015/12/12 16:57:46] <joserebelo> The builds on travis are failing because of something on an openssl command
+[2015/12/12 16:57:51] <joserebelo> any idea why ?
+[2015/12/12 16:58:34] <pedromlcosta> Yeah, we made a pull request with a console script, but it failed.
