@@ -21165,3 +21165,4 @@
 [2015/12/11 18:54:37] @ Quit: alket: Quit: Good Night :)
 [2015/12/11 19:08:53] <head8debian> I will give brm 20$ for his computer. I don't consider a chromebook a real functional computer...
 [2015/12/11 19:11:02] <head8debian> :D
+[2015/12/11 19:36:51] @ Quit: tuxdev_: Ping timeout: 256 seconds
