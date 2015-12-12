@@ -21331,3 +21331,5 @@
 [2015/12/12 13:16:04] @ Quit: Karkus: Client Quit
 [2015/12/12 13:36:48] @ jesusalva joined channel #supertux
 [2015/12/12 13:41:37] @ datahead8888 joined channel #supertux
+[2015/12/12 14:04:09] <Not-e81f> [02supertux] 07LMH0013 commented on issue 03#234: Making Tux air or earth on death displays hat - 13http://git.io/v0GW3
+[2015/12/12 14:06:11] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#234: Making Tux air or earth on death displays hat - 13http://git.io/v0GWx
