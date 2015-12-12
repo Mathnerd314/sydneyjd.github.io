@@ -21257,3 +21257,6 @@
 [2015/12/12 09:36:05] <Hume2> Hello, Tobbi!
 [2015/12/12 09:36:30] <Tobbi> Release in 8 days. :)
 [2015/12/12 09:37:24] <leyyin> head8debian, https://youtu.be/UiL-lTzKxlA ;)
+[2015/12/12 09:55:03] @ Drangue joined channel #supertux
+[2015/12/12 09:55:32] @ Quit: alket: Ping timeout: 250 seconds
+[2015/12/12 09:57:50] @ Xjs|moonshine joined channel #supertux
