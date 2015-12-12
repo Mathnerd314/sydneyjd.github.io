@@ -21190,3 +21190,5 @@
 [2015/12/12 04:03:07] @ Quit: tux|dude: Quit: Leaving
 [2015/12/12 04:13:27] @ claymore2 joined channel #supertux
 [2015/12/12 04:14:12] @ datahead8888__ joined channel #supertux
+[2015/12/12 04:15:11] @ ced117 joined channel #supertux
+[2015/12/12 04:16:18] @ Quit: datahead8888_: Ping timeout: 240 seconds
