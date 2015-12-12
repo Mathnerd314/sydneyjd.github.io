@@ -21233,3 +21233,8 @@
 [2015/12/12 08:14:29] @ Quit: brmbrmcar: Ping timeout: 256 seconds
 [2015/12/12 08:15:21] @ Quit: xet7: Quit: Leaving
 [2015/12/12 08:21:11] @ xet7 joined channel #supertux
+[2015/12/12 08:36:53] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/12 08:37:44] @ Hume2 joined channel #supertux
+[2015/12/12 08:43:26] @ head8debian joined channel #supertux
+[2015/12/12 08:43:32] <head8debian> Good morning all.
+[2015/12/12 08:44:57] <head8debian> Our IRC channel is 9 years old. :D
