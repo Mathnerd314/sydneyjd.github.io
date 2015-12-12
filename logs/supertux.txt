@@ -21544,3 +21544,21 @@
 [2015/12/12 17:13:20] <brmbrmcar> I wish it was merged though.
 [2015/12/12 17:13:46] <joserebelo> but the travis build didn't fail bcuz of us
 [2015/12/12 17:14:05] <joserebelo> the problem isn't related to the code
+[2015/12/12 17:15:05] <brmbrmcar> If I hadmy way it would be merged.
+[2015/12/12 17:15:23] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/112
+[2015/12/12 17:15:26] <brmbrmcar> It isn't harming anything else, right?
+[2015/12/12 17:15:31] <joserebelo> but do you know why did it fail?
+[2015/12/12 17:15:32] <joserebelo> the travis log says
+[2015/12/12 17:15:34] <joserebelo> The command "openssl aes-256-cbc -K $encrypted_d8a9ffcc8634_key -iv $encrypted_d8a9ffcc8634_iv -in .travis/travis-upload.pem.enc -out .travis/travis-upload.pem -d" failed and exited with 1 during .
+[2015/12/12 17:16:40] <brmbrmcar> I wouldn't have a clue.
+[2015/12/12 17:16:44] <pedromlcosta> Our AppVeyor passed though
+[2015/12/12 17:17:04] <brmbrmcar> I'm not the person toask.
+[2015/12/12 17:18:14] <joserebelo> Tobby, do you have any clue on what is happening?
+[2015/12/12 17:19:21] <joserebelo> Tobbi*
+[2015/12/12 17:19:36] <Tobbi> No idea.
+[2015/12/12 17:19:49] <Tobbi> help!
+[2015/12/12 17:20:00] <Tobbi> For travis, maths22 is your go-to guy
+[2015/12/12 17:20:50] <jesusalva> Hello
+[2015/12/12 17:23:28] @ jesusalva is now known as Pao_de_Queijo
+[2015/12/12 17:24:01] <Pao_de_Queijo> ...I think I started to like this nickname.........
+[2015/12/12 17:25:10] <pedromlcosta> Gostas de pao?
