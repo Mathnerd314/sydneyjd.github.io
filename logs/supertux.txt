@@ -21806,3 +21806,9 @@
 [2015/12/13 15:23:07] <leyyin> time is irrelevant without space
 [2015/12/13 15:23:43] @ Quit: pedromlcosta_: Ping timeout: 252 seconds
 [2015/12/13 15:25:03] <Tobbi> leyyin: I do have space.
+[2015/12/13 15:35:51] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/13 15:37:28] @ Tobbi joined channel #supertux
+[2015/12/13 15:37:28] @ Mode +o Tobbi by ChanServ
+[2015/12/13 15:38:09] @ brmbrmca1 joined channel #supertux
+[2015/12/13 15:41:24] @ Quit: brmbrmcar: Ping timeout: 260 seconds
+[2015/12/13 15:41:44] @ brmbrmca1 is now known as brmbrmcar
