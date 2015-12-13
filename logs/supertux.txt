@@ -21761,3 +21761,4 @@
 [2015/12/13 12:54:56] @ Tobbi joined channel #supertux
 [2015/12/13 12:54:56] @ Mode +o Tobbi by ChanServ
 [2015/12/13 12:57:19] <Tobbi> Guys, please.
+[2015/12/13 13:08:07] <leyyin> no
