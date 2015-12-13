@@ -21580,3 +21580,5 @@
 [2015/12/12 19:36:45] @ Quit: Pao_de_Queijo: Ping timeout: 256 seconds
 [2015/12/12 19:36:51] @ Quit: alket: Quit: Good Night :)
 [2015/12/12 19:39:36] @ Quit: datahead8888: Ping timeout: 256 seconds
+[2015/12/12 20:05:34] @ Quit: Karkus: Quit: Division By Zero
+[2015/12/12 20:06:31] @ Quit: pedromlcosta: Ping timeout: 252 seconds
