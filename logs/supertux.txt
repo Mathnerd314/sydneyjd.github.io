@@ -21777,3 +21777,4 @@
 [2015/12/13 13:33:35] @ pedromlcosta_ joined channel #supertux
 [2015/12/13 13:34:16] @ Quit: pedromlcosta: Ping timeout: 252 seconds
 [2015/12/13 13:37:16] @ claymore2 joined channel #supertux
+[2015/12/13 14:05:03] @ Quit: Hume2: Quit: Page closed
