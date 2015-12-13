@@ -21791,3 +21791,8 @@
 [2015/12/13 14:36:45] @ octo joined channel #supertux
 [2015/12/13 14:36:45] @ gynter joined channel #supertux
 [2015/12/13 14:36:45] @ tuxdev joined channel #supertux
+[2015/12/13 14:45:53] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/13 14:47:30] @ Tobbi joined channel #supertux
+[2015/12/13 14:47:31] @ Mode +o Tobbi by ChanServ
+[2015/12/13 14:47:43] @ irungentoo joined channel #supertux
+[2015/12/13 14:54:14] @ Karkus joined channel #supertux
