@@ -21587,3 +21587,8 @@
 [2015/12/12 21:45:10] @ Quit: LMH: Quit: Connection closed for inactivity
 [2015/12/12 23:29:54] @ datahead8888 joined channel #supertux
 [2015/12/13 00:10:34] @ Quit: tux|dude: Quit: Leaving
+[2015/12/13 02:09:46] @ Tobbi joined channel #supertux
+[2015/12/13 02:09:46] @ Mode +o Tobbi by ChanServ
+[2015/12/13 02:11:33] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/13 02:12:02] @ Tobbi joined channel #supertux
+[2015/12/13 02:12:02] @ Mode +o Tobbi by ChanServ
