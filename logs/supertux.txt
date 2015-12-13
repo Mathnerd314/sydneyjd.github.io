@@ -21826,3 +21826,9 @@
 [2015/12/13 16:29:40] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/13 16:29:45] @ Quit: alket: Disconnected by services
 [2015/12/13 16:29:46] @ Drangue is now known as alket
+[2015/12/13 16:30:48] @ Quit: binki: Remote host closed the connection
+[2015/12/13 16:31:02] @ Tobbi joined channel #supertux
+[2015/12/13 16:31:02] @ Mode +o Tobbi by ChanServ
+[2015/12/13 16:31:05] @ binki joined channel #supertux
+[2015/12/13 16:35:33] <brmbrmcar> What keeps happenning?
+[2015/12/13 16:43:27] @ tux|dude joined channel #supertux
