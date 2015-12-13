@@ -21627,3 +21627,10 @@
 [2015/12/13 07:56:15] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/13 07:56:25] @ Xjs|moonshine joined channel #supertux
 [2015/12/13 08:27:06] @ quit (seeya)
+[2015/12/13 10:31:51] @ Log closed by * (rescan or shutdown)
+[2015/12/13 10:33:12] @ Log started by red_bot
+[2015/12/13 10:33:12] @ Joined channel #supertux
+[2015/12/13 10:33:12] @ Topic is "1 week until 0.4.0! | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | Channel log http://sydneyjd.github.io/logs/ | nightly builds http://download.supertuxproject.org/download/"
+[2015/12/13 10:33:12] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-12-13 06:32:09 -0500
+[2015/12/13 10:33:18] @ Mode +nt by adams.freenode.net
+[2015/12/13 10:44:21] @ Hume2 joined channel #supertux
