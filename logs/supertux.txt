@@ -21728,3 +21728,30 @@
 [2015/12/13 12:28:52] <mt> ^ isn't exponential calculation, fyi
 [2015/12/13 12:29:03] <mt> that's a bitwise exclusive or in ruby
 [2015/12/13 12:29:49] <brmbrmcar> ^is meant to be power
+[2015/12/13 12:30:26] <Hume2> ~figlet Windows Smrdí!
+[2015/12/13 12:30:27] <red_bot>  _      __ _          __                
+[2015/12/13 12:30:27] <red_bot> | | /| / /(_)___  ___/ /___  _    __ ___
+[2015/12/13 12:30:27] <red_bot> | |/ |/ // // _ \/ _  // _ \| |/|/ /(_-<
+[2015/12/13 12:30:27] <red_bot> |__/|__//_//_//_/\_,_/ \___/|__,__//___/
+[2015/12/13 12:30:27] <red_bot>                                         
+[2015/12/13 12:30:27] <red_bot>    ____                __ __ __
+[2015/12/13 12:30:27] <red_bot>   / __/__ _   ____ ___/ //_// /
+[2015/12/13 12:30:27] <red_bot>  _\ \ /  ' \ / __// _  // //_/ 
+[2015/12/13 12:30:27] <red_bot> /___//_/_/_//_/   \_,_//_/(_)
+[2015/12/13 12:31:03] <brmbrmcar> ???
+[2015/12/13 12:31:24] <Hume2> Use Google translator.
+[2015/12/13 12:32:11] <brmbrmcar> ~figlet translator
+[2015/12/13 12:32:11] <red_bot>   __                         __       __            
+[2015/12/13 12:32:11] <red_bot>  / /_ ____ ___ _ ___   ___  / /___ _ / /_ ___   ____
+[2015/12/13 12:32:11] <red_bot> / __// __// _ `// _ \ (_-< / // _ `// __// _ \ / __/
+[2015/12/13 12:32:11] <red_bot> \__//_/   \_,_//_//_//___//_/ \_,_/ \__/ \___//_/
+[2015/12/13 12:35:11] <Hume2> brmbrmcar: Let's guess what could be Tobbi's favourite word.
+[2015/12/13 12:35:14] <Not-e81f> [02supertux] 07pizzana starred 03supertux - 13http://git.io/v0CRO
+[2015/12/13 12:38:10] <mt> btw
+[2015/12/13 12:38:31] <mt> we should make red_bot say the output of ~figlet $topic every time someone joins
+[2015/12/13 12:38:34] <mt> :D
+[2015/12/13 12:38:43] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/13 12:39:19] <Hume2> That's a good idea.
+[2015/12/13 12:43:32] @ Tobbi joined channel #supertux
+[2015/12/13 12:43:33] @ Mode +o Tobbi by ChanServ
+[2015/12/13 12:43:34] @ Quit: Hume2: Quit: Page closed
