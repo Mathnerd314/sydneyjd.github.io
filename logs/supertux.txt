@@ -21626,3 +21626,4 @@
 [2015/12/13 07:46:22] @ Quit: Xjs|moonshine: Ping timeout: 250 seconds
 [2015/12/13 07:56:15] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/13 07:56:25] @ Xjs|moonshine joined channel #supertux
+[2015/12/13 08:27:06] @ quit (seeya)
