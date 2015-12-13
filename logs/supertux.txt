@@ -21839,3 +21839,4 @@
 [2015/12/13 17:52:26] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/13 17:54:05] @ Tobbi joined channel #supertux
 [2015/12/13 17:54:05] @ Mode +o Tobbi by ChanServ
+[2015/12/13 18:01:56] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
