@@ -21570,3 +21570,7 @@
 [2015/12/12 18:31:22] @ Quit: joserebelo: Ping timeout: 252 seconds
 [2015/12/12 18:40:53] @ Karkus_ joined channel #supertux
 [2015/12/12 18:40:58] @ Karkus_ is now known as Karkus
+[2015/12/12 18:47:06] @ Tobbi joined channel #supertux
+[2015/12/12 18:47:07] @ Mode +o Tobbi by ChanServ
+[2015/12/12 18:48:51] <Karkus> Hello again, Tobbi
+[2015/12/12 18:49:00] <Tobbi> Hello Karkus.
