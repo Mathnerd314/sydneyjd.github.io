@@ -21611,3 +21611,5 @@
 [2015/12/13 04:08:10] <brmbrmcar> Yeah
 [2015/12/13 04:57:36] @ tuxdev_ joined channel #supertux
 [2015/12/13 05:01:18] @ alket joined channel #supertux
+[2015/12/13 06:29:59] @ Tobbi joined channel #supertux
+[2015/12/13 06:29:59] @ Mode +o Tobbi by ChanServ
