@@ -21637,3 +21637,9 @@
 [2015/12/13 10:50:14] @ Quit: ced117: Ping timeout: 256 seconds
 [2015/12/13 10:57:31] @ Quit: Hume2: Ping timeout: 252 seconds
 [2015/12/13 11:02:20] @ ced117 joined channel #supertux
+[2015/12/13 11:15:43] <Not-e81f> [02supertux] 07pedromlcosta closed pull request 03#263: Added warp function to console scripts - 13http://git.io/v0GpW
+[2015/12/13 11:15:49] <Not-e81f> [02supertux] 07pedromlcosta reopened pull request 03#263: Added warp function to console scripts - 13http://git.io/v0GpW
+[2015/12/13 11:15:51] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96589582
+[2015/12/13 11:17:01] @ Hume2 joined channel #supertux
+[2015/12/13 11:17:07] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96589582
+[2015/12/13 11:21:04] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/96589582
