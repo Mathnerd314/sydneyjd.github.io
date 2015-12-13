@@ -21586,3 +21586,4 @@
 [2015/12/12 21:14:55] @ tux|dude joined channel #supertux
 [2015/12/12 21:45:10] @ Quit: LMH: Quit: Connection closed for inactivity
 [2015/12/12 23:29:54] @ datahead8888 joined channel #supertux
+[2015/12/13 00:10:34] @ Quit: tux|dude: Quit: Leaving
