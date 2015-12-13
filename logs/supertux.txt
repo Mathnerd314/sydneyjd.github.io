@@ -21796,3 +21796,7 @@
 [2015/12/13 14:47:31] @ Mode +o Tobbi by ChanServ
 [2015/12/13 14:47:43] @ irungentoo joined channel #supertux
 [2015/12/13 14:54:14] @ Karkus joined channel #supertux
+[2015/12/13 15:05:59] @ Quit: Karkus: Quit: Division By Zero
+[2015/12/13 15:08:18] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/13 15:09:47] @ Tobbi joined channel #supertux
+[2015/12/13 15:09:48] @ Mode +o Tobbi by ChanServ
