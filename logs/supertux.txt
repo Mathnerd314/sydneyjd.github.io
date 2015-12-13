@@ -21609,3 +21609,4 @@
 [2015/12/13 04:06:27] <brmbrmcar>  /topic 7 days
 [2015/12/13 04:07:23] <mt> you'll have to wait for Tobbi
 [2015/12/13 04:08:10] <brmbrmcar> Yeah
+[2015/12/13 04:57:36] @ tuxdev_ joined channel #supertux
