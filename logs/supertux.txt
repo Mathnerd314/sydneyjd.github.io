@@ -21800,3 +21800,9 @@
 [2015/12/13 15:08:18] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/13 15:09:47] @ Tobbi joined channel #supertux
 [2015/12/13 15:09:48] @ Mode +o Tobbi by ChanServ
+[2015/12/13 15:16:14] <leyyin> Tobbi, who am I?
+[2015/12/13 15:16:20] <leyyin> https://youtu.be/UHwVyplU3Pg
+[2015/12/13 15:22:47] <Tobbi> no time, leyyin.
+[2015/12/13 15:23:07] <leyyin> time is irrelevant without space
+[2015/12/13 15:23:43] @ Quit: pedromlcosta_: Ping timeout: 252 seconds
+[2015/12/13 15:25:03] <Tobbi> leyyin: I do have space.
