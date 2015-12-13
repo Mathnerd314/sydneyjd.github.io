@@ -21574,3 +21574,5 @@
 [2015/12/12 18:47:07] @ Mode +o Tobbi by ChanServ
 [2015/12/12 18:48:51] <Karkus> Hello again, Tobbi
 [2015/12/12 18:49:00] <Tobbi> Hello Karkus.
+[2015/12/12 19:23:35] @ datahead8888 joined channel #supertux
+[2015/12/12 19:25:34] @ Quit: Tobbi: Remote host closed the connection
