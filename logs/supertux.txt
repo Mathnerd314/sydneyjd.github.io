@@ -21832,3 +21832,6 @@
 [2015/12/13 16:31:05] @ binki joined channel #supertux
 [2015/12/13 16:35:33] <brmbrmcar> What keeps happenning?
 [2015/12/13 16:43:27] @ tux|dude joined channel #supertux
+[2015/12/13 17:02:37] @ Quit: brmbrmcar: Quit: Lost terminal
+[2015/12/13 17:11:51] @ Quit: alket: Quit: Good Night :)
+[2015/12/13 17:12:08] @ alket joined channel #supertux
