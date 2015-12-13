@@ -21814,3 +21814,15 @@
 [2015/12/13 15:41:44] @ brmbrmca1 is now known as brmbrmcar
 [2015/12/13 16:11:44] @ Quit: apostrophe: Ping timeout: 260 seconds
 [2015/12/13 16:12:45] @ binki joined channel #supertux
+[2015/12/13 16:16:44] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/13 16:17:44] @ Quit: ced117: Quit: Quitte
+[2015/12/13 16:18:50] @ Quit: binki: Remote host closed the connection
+[2015/12/13 16:19:15] @ binki joined channel #supertux
+[2015/12/13 16:19:39] @ Tobbi joined channel #supertux
+[2015/12/13 16:19:39] @ Mode +o Tobbi by ChanServ
+[2015/12/13 16:24:00] @ Quit: binki: Ping timeout: 240 seconds
+[2015/12/13 16:24:43] @ binki joined channel #supertux
+[2015/12/13 16:28:53] @ Drangue joined channel #supertux
+[2015/12/13 16:29:40] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/13 16:29:45] @ Quit: alket: Disconnected by services
+[2015/12/13 16:29:46] @ Drangue is now known as alket
