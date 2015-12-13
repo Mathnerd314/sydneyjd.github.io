@@ -21645,3 +21645,27 @@
 [2015/12/13 11:21:04] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/96589582
 [2015/12/13 11:30:31] @ Quit: Hume2: Ping timeout: 252 seconds
 [2015/12/13 11:49:50] @ Hume2 joined channel #supertux
+[2015/12/13 12:00:31] @ Hume2_ joined channel #supertux
+[2015/12/13 12:00:46] @ Quit: Hume2: Ping timeout: 252 seconds
+[2015/12/13 12:03:41] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/13 12:04:41] @ Tobbi joined channel #supertux
+[2015/12/13 12:04:41] @ Mode +o Tobbi by ChanServ
+[2015/12/13 12:05:39] @ brmbrmcar joined channel #supertux
+[2015/12/13 12:07:15] <Hume2_> IRC is buggy today, isn't it?
+[2015/12/13 12:07:34] <brmbrmcar> Is it?
+[2015/12/13 12:07:48] <brmbrmcar> The logs went
+[2015/12/13 12:08:57] <Hume2_> The connection seems to be too weak.
+[2015/12/13 12:09:17] <brmbrmcar> ny netsplit?
+[2015/12/13 12:09:31] <brmbrmcar> My typing is buggy today.
+[2015/12/13 12:10:16] @ Quit: datahead8888: Ping timeout: 250 seconds
+[2015/12/13 12:10:19] <mt> in fact, today only 1 server did have a slightly unstable connection which caused some disconnects between 00:00 and 05:00 UTC+1
+[2015/12/13 12:10:46] <mt> one other server had a short lagspike at around 11:30 and 11:42 UTC+1
+[2015/12/13 12:11:00] <brmbrmcar> You check every server?
+[2015/12/13 12:11:37] <mt> I'm admin of a channel where there's a monitoring bot :)
+[2015/12/13 12:11:45] <brmbrmcar> Ah.
+[2015/12/13 12:11:54] <brmbrmcar> What is the mode for admin?
+[2015/12/13 12:12:23] <mt> it's got connections to all freenode servers one can connect to from a public IP
+[2015/12/13 12:12:53] <mt> admin = well, currently I'm opped (channel mode +o) but I'm also ChanServ +F (founder)
+[2015/12/13 12:13:19] <brmbrmcar>  /mode +F
+[2015/12/13 12:13:37] <mt> nah, ChanServ +F is a flag (/msg ChanServ help flags)
+[2015/12/13 12:14:23] <mt> channel mode +o is a channel mode/status (/quote HELP CMODE)
