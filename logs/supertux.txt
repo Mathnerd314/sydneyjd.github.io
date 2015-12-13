@@ -21773,3 +21773,7 @@
 [2015/12/13 13:23:56] @ Mode +nt by asimov.freenode.net
 [2015/12/13 13:25:26] @ brmbrmcar joined channel #supertux
 [2015/12/13 13:28:25] @ Hume2 joined channel #supertux
+[2015/12/13 13:33:05] @ datahead8888 joined channel #supertux
+[2015/12/13 13:33:35] @ pedromlcosta_ joined channel #supertux
+[2015/12/13 13:34:16] @ Quit: pedromlcosta: Ping timeout: 252 seconds
+[2015/12/13 13:37:16] @ claymore2 joined channel #supertux
