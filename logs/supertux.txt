@@ -21835,3 +21835,7 @@
 [2015/12/13 17:02:37] @ Quit: brmbrmcar: Quit: Lost terminal
 [2015/12/13 17:11:51] @ Quit: alket: Quit: Good Night :)
 [2015/12/13 17:12:08] @ alket joined channel #supertux
+[2015/12/13 17:50:54] @ bb010g joined channel #supertux
+[2015/12/13 17:52:26] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/13 17:54:05] @ Tobbi joined channel #supertux
+[2015/12/13 17:54:05] @ Mode +o Tobbi by ChanServ
