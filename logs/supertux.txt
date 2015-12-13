@@ -21619,3 +21619,5 @@
 [2015/12/13 06:54:04] @ Mode +o Tobbi by ChanServ
 [2015/12/13 06:55:15] @ Quit: brmbrmcar: Quit: Lost terminal
 [2015/12/13 06:55:49] @ brmbrmcar joined channel #supertux
+[2015/12/13 07:00:59] @ player1 joined channel #supertux
+[2015/12/13 07:14:42] <Tobbi> hello.
