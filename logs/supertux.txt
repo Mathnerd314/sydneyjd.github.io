@@ -21623,3 +21623,6 @@
 [2015/12/13 07:14:42] <Tobbi> hello.
 [2015/12/13 07:31:04] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v0ckA
 [2015/12/13 07:31:06] <Not-e81f> [02supertux] 07Tobias Markus 03f3e118f - Re-indent some code inside if statement in .travis.yml
+[2015/12/13 07:46:22] @ Quit: Xjs|moonshine: Ping timeout: 250 seconds
+[2015/12/13 07:56:15] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/13 07:56:25] @ Xjs|moonshine joined channel #supertux
