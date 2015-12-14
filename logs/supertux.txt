@@ -22238,3 +22238,8 @@
 [2015/12/14 16:47:34] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96840936
 [2015/12/14 16:48:45] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96840936
 [2015/12/14 16:59:45] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96840936
+[2015/12/14 17:00:22] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96840936
+[2015/12/14 17:01:52] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/115
+[2015/12/14 17:09:40] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/96840936
+[2015/12/14 17:10:00] <Tobbi> finally.
+[2015/12/14 17:13:51] @ Karkus joined channel #supertux
