@@ -21883,3 +21883,7 @@
 [2015/12/14 10:35:17] @ brmbrmcar joined channel #supertux
 [2015/12/14 10:37:14] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/14 10:38:49] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#234: Making Tux air or earth on death displays hat - 13http://git.io/v0Ba6
+[2015/12/14 10:56:54] @ Tobbi joined channel #supertux
+[2015/12/14 10:56:54] @ Mode +o Tobbi by ChanServ
+[2015/12/14 10:58:39] <Tobbi> brmbrmcar: Why would this cause issues?
+[2015/12/14 10:59:54] * head8debian is tired...
