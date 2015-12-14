@@ -21887,3 +21887,24 @@
 [2015/12/14 10:56:54] @ Mode +o Tobbi by ChanServ
 [2015/12/14 10:58:39] <Tobbi> brmbrmcar: Why would this cause issues?
 [2015/12/14 10:59:54] * head8debian is tired...
+[2015/12/14 11:00:10] * head8debian is sore...
+[2015/12/14 11:01:25] <brmbrmcar> If new stuff was added, and the flowers are clearly handled very differently.
+[2015/12/14 11:02:02] <brmbrmcar> I think it is a bug in the fireflowers itself, and patching up other areas could lead to hiding it.
+[2015/12/14 11:02:22] <Tobbi> head8debian doesn't want to do this anymore.
+[2015/12/14 11:02:39] <Tobbi> head8debian is fired.
+[2015/12/14 11:02:50] <brmbrmcar> Poor head8debian!
+[2015/12/14 11:02:52] <Tobbi> badum tss...
+[2015/12/14 11:03:42] <Tobbi> grumbel: Are we ready for release or is there anything that needs to get integrated beforehand?
+[2015/12/14 11:03:48] <Tobbi> (from your side I mean).
+[2015/12/14 11:04:17] <head8debian> Tobbi: ?
+[2015/12/14 11:04:51] <Tobbi> head8debian: I wanted to do some poetry.
+[2015/12/14 11:05:23] <grumbel> Tobbi: All my stuff is for after the release, so you are good to go
+[2015/12/14 11:05:33] <Tobbi> Great.
+[2015/12/14 11:06:02] <Tobbi> grumbel: And bug-wise? Should be fine, right? I haven't noticed any blockers...
+[2015/12/14 11:06:17] <grumbel> no idea, I haven't touched the game in ages
+[2015/12/14 11:08:35] <Tobbi> Okay.
+[2015/12/14 11:08:46] <Tobbi> head8debian: Did you notice any blockers while playing the game?
+[2015/12/14 11:11:40] <head8debian> Tobbi: I havent. I havent played the game much lately either.
+[2015/12/14 11:11:51] <Tobbi> head8debian: You should.
+[2015/12/14 11:12:11] <Tobbi> head8debian: We have a release in 6 days.
+[2015/12/14 11:12:20] <brmbrmcar> What do you mean by "blockers" anyway?
