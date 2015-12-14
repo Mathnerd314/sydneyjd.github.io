@@ -21875,3 +21875,4 @@
 [2015/12/14 08:00:00] @ Tobbi joined channel #supertux
 [2015/12/14 08:00:00] @ Mode +o Tobbi by ChanServ
 [2015/12/14 08:23:17] @ irungentoo joined channel #supertux
+[2015/12/14 08:57:26] @ claymore2 joined channel #supertux
