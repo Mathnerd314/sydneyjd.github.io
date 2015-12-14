@@ -21876,3 +21876,6 @@
 [2015/12/14 08:00:00] @ Mode +o Tobbi by ChanServ
 [2015/12/14 08:23:17] @ irungentoo joined channel #supertux
 [2015/12/14 08:57:26] @ claymore2 joined channel #supertux
+[2015/12/14 10:26:42] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/14 10:27:44] @ Tobbi joined channel #supertux
+[2015/12/14 10:27:45] @ Mode +o Tobbi by ChanServ
