@@ -22229,3 +22229,12 @@
 [2015/12/14 16:42:37] <Not-e81f> [02supertux] 07Grumbel closed issue 03#241: Manual joystick settings not preserved when using a generic controller - 13http://git.io/vBKiN
 [2015/12/14 16:42:38] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96840936
 [2015/12/14 16:42:40] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/115
+[2015/12/14 16:45:34] <Tobbi> Hah, I tried fixing that...seems I was thinking too complicated.
+[2015/12/14 16:47:03] <Tobbi> And we are down to 0 on coverity (again)
+[2015/12/14 16:47:23] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96840936
+[2015/12/14 16:47:29] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96840936
+[2015/12/14 16:47:30] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96840936
+[2015/12/14 16:47:32] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96840936
+[2015/12/14 16:47:34] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96840936
+[2015/12/14 16:48:45] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96840936
+[2015/12/14 16:59:45] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96840936
