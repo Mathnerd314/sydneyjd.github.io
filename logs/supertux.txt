@@ -21933,3 +21933,20 @@
 [2015/12/14 11:40:21] <Tobbi> head8debian: I didn't mean to.
 [2015/12/14 11:40:46] <head8debian> Tobbi: Thats not my department. :D
 [2015/12/14 11:42:06] <Tobbi> leyyin: I got brmbrmcar upset. Do we celebrate?
+[2015/12/14 11:47:32] <Not-e81f> [02supertux] 07symvizan opened issue 03#264: Make portable version - 13http://git.io/v0RWa
+[2015/12/14 11:48:14] @ brmbrmcar joined channel #supertux
+[2015/12/14 11:48:16] <brmbrmcar> No.
+[2015/12/14 11:49:36] <Not-e81f> [02supertux] 07tobbi commented on issue 03#264: Make portable version - 13http://git.io/v0Rlg
+[2015/12/14 11:50:05] <Tobbi> brmbrmcar: That "No" was referring to what?
+[2015/12/14 11:50:09] <Tobbi> To not celebrating?
+[2015/12/14 11:51:32] <Not-e81f> [02supertux] 07tobbi commented on issue 03#264: Make portable version - 13http://git.io/v0R4J
+[2015/12/14 11:52:55] @ Karkus joined channel #supertux
+[2015/12/14 11:54:57] <brmbrmcar> Karkus: Do you care about my contributions?
+[2015/12/14 11:56:41] <leyyin> yayyy, *I'm going to hell for this*
+[2015/12/14 11:57:41] * jesusalva looks at the channel, sighs, and resume his game.
+[2015/12/14 11:57:55] * leyyin does a MULTI KILL
+[2015/12/14 11:58:13] * jesusalva is immortal, 'cause he used the SuperTux Invincible Cheat via console.
+[2015/12/14 11:58:18] <brmbrmcar> Of whom?
+[2015/12/14 11:58:30] * brmbrmcar also runs invincible()
+[2015/12/14 11:59:44] <Tobbi> brmbrmcar: When I meant I ignored you, I meant "I ignored you on IRC"
+[2015/12/14 12:00:01] <brmbrmcar> Hmm,should I create a pull request for something or will it be ignored?
