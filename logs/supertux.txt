@@ -22177,3 +22177,36 @@
 [2015/12/14 14:06:13] <Tobbi> Hume2: Couldn't find a way to create a new sub forum. Ask charlie please.
 [2015/12/14 14:06:52] <Hume2> OK
 [2015/12/14 14:11:53] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/113
+[2015/12/14 14:15:54] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96806289
+[2015/12/14 14:16:02] <Hume2> Done. What now?
+[2015/12/14 14:17:02] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96806289
+[2015/12/14 14:17:39] <Karkus> Tobbi: Why did the Travis Build fail https://github.com/SuperTux/supertux/pull/265
+[2015/12/14 14:18:32] <Tobbi> Karkus: I don't know. That's something for maths22...
+[2015/12/14 14:18:43] <Tobbi> Hume2: Wait for a sub-forum to be created.
+[2015/12/14 14:18:46] <Karkus> Tobbi: But it's not brmbrcar's fault?
+[2015/12/14 14:19:05] <Hume2> No, it isn't.
+[2015/12/14 14:19:08] <Tobbi> Karkus: No, it is not.
+[2015/12/14 14:19:14] <Tobbi> I never assumed it was.
+[2015/12/14 14:19:24] <Tobbi> (for a change)
+[2015/12/14 14:20:43] <Hume2> Is there an english synonyme to suck that can't mean f***?
+[2015/12/14 14:21:06] <Tobbi> Hume2: What do you need that for?
+[2015/12/14 14:21:11] <Karkus> Haha
+[2015/12/14 14:21:25] <Hume2> Tobbi: For the "Trees stink" thing.
+[2015/12/14 14:21:32] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/96806289
+[2015/12/14 14:21:38] <Karkus> No. All of the words in the English language mean f***
+[2015/12/14 14:21:53] <Hume2> :?
+[2015/12/14 14:21:58] <Karkus> In honesty, I can't think of one.
+[2015/12/14 14:22:08] <Tobbi> ...Failure to comply with this process will result in a cataclysmic system crash killing everyone connected to the matrix.
+[2015/12/14 14:22:38] <Hume2> ~excuse
+[2015/12/14 14:22:38] <red_bot> Hume2: PCMCIA slave driver
+[2015/12/14 14:22:38] <Karkus> Hume2: Wait. What context is this in?
+[2015/12/14 14:23:25] <Hume2> Karkus: It's the "Ghosttree test". I think that it deserves to be a name of the forest boss level.
+[2015/12/14 14:25:31] <Tobbi> OpenGL is quite annoying...
+[2015/12/14 14:25:38] <Karkus> Hume2: I don't know then. "suck" isn't bad, maybe come up with another name.
+[2015/12/14 14:26:38] <Hume2> Tobbi: Agreed. All that GLsomethingSTUFF.
+[2015/12/14 14:26:53] <Tobbi> Hume2: Yeah, it's so hard to debug.
+[2015/12/14 14:27:23] <Hume2> Karkus: I think that it could be called somehow "Trees Swallow" or so.
+[2015/12/14 14:28:06] <Tobbi> That would be even worse.
+[2015/12/14 14:28:17] <Tobbi> Swallowing is also an innuendo.
+[2015/12/14 14:28:30] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/114
+[2015/12/14 14:29:39] <Hume2> The C++ compiler should have a window for showing what the OpenGL has already drawn. But it hasn't...
