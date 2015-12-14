@@ -22071,3 +22071,20 @@
 [2015/12/14 13:00:54] <mt> but you can forward iirc
 [2015/12/14 13:00:55] <Tobbi> hmm...
 [2015/12/14 13:01:06] <Tobbi> A plugin would've made things so much easier.
+[2015/12/14 13:30:24] <brmbrmcar> Can I create a pull request for something?
+[2015/12/14 13:32:13] @ Quit: claymore2: Ping timeout: 256 seconds
+[2015/12/14 13:32:13] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#201: Backflipping to a bonus block hides Tux behind it - 13http://git.io/v00LX
+[2015/12/14 13:32:19] <Tobbi> brmbrmcar: Yes, though I might not merge it :P
+[2015/12/14 13:34:14] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#201: Backflipping to a bonus block hides Tux behind it - 13http://git.io/v00tO
+[2015/12/14 13:34:57] <Tobbi> Karkus: the collrects need to be changed to include the rotated sprite, iirc.
+[2015/12/14 13:35:02] <Tobbi> *IMO
+[2015/12/14 13:37:21] @ Quit: Karkus: Ping timeout: 250 seconds
+[2015/12/14 13:38:26] <brmbrmcar> OK,that did not work.
+[2015/12/14 13:38:47] <brmbrmcar> I feellike everyone is ignoring all my attampts to contribute.
+[2015/12/14 13:42:37] <Tobbi> brmbrmcar: No, but you're being annoying sometimes.-
+[2015/12/14 13:42:48] <Tobbi> Stop being annoying and your credibility rises.
+[2015/12/14 13:43:23] <brmbrmcar> :(
+[2015/12/14 13:43:31] <Tobbi> brmbrmcar: I am actually very serious.
+[2015/12/14 13:44:04] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#201: Backflipping to a bonus block hides Tux behind it - 13http://git.io/v00O8
+[2015/12/14 13:44:26] @ Karkus joined channel #supertux
+[2015/12/14 13:44:52] @ claymore2 joined channel #supertux
