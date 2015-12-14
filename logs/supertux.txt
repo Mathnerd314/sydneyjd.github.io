@@ -22215,3 +22215,7 @@
 [2015/12/14 14:35:23] @ Quit: Hume2: Quit: Page closed
 [2015/12/14 14:40:08] @ Quit: brmbrmcar: Quit: brmbrmquit
 [2015/12/14 15:20:59] @ brmbrmcar joined channel #supertux
+[2015/12/14 15:39:02] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/14 15:39:30] @ Tobbi joined channel #supertux
+[2015/12/14 15:39:31] @ Mode +o Tobbi by ChanServ
+[2015/12/14 15:40:29] @ ced117 joined channel #supertux
