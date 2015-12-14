@@ -22210,3 +22210,7 @@
 [2015/12/14 14:28:17] <Tobbi> Swallowing is also an innuendo.
 [2015/12/14 14:28:30] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/114
 [2015/12/14 14:29:39] <Hume2> The C++ compiler should have a window for showing what the OpenGL has already drawn. But it hasn't...
+[2015/12/14 14:31:07] <Hume2> hmmm.... How can we call that thing the trees do?
+[2015/12/14 14:33:57] @ Quit: Karkus: Remote host closed the connection
+[2015/12/14 14:35:23] @ Quit: Hume2: Quit: Page closed
+[2015/12/14 14:40:08] @ Quit: brmbrmcar: Quit: brmbrmquit
