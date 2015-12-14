@@ -21854,3 +21854,4 @@
 [2015/12/13 22:41:08] @ nerdopolis joined channel #supertux
 [2015/12/14 02:02:57] @ Quit: tux|dude: Quit: Leaving
 [2015/12/14 02:16:00] @ Quit: tuxdev_: Ping timeout: 240 seconds
+[2015/12/14 02:47:07] @ Narre joined channel #supertux
