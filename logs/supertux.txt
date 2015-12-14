@@ -21865,3 +21865,5 @@
 [2015/12/14 05:09:11] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/14 05:13:57] @ grumbel joined channel #supertux
 [2015/12/14 05:13:57] @ Mode +o grumbel by ChanServ
+[2015/12/14 05:57:01] @ Tobbi joined channel #supertux
+[2015/12/14 05:57:01] @ Mode +o Tobbi by ChanServ
