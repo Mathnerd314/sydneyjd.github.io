@@ -21861,3 +21861,4 @@
 [2015/12/14 03:42:58] @ Quit: Narre: Quit: Page closed
 [2015/12/14 04:15:43] @ Tobbi joined channel #supertux
 [2015/12/14 04:15:43] @ Mode +o Tobbi by ChanServ
+[2015/12/14 04:36:42] @ Quit: binki: Ping timeout: 256 seconds
