@@ -22065,3 +22065,9 @@
 [2015/12/14 12:58:33] <brmbrmcar> Bad.
 [2015/12/14 12:58:45] <brmbrmcar> Butthe second you jump, hell!
 [2015/12/14 12:59:09] <brmbrmcar> You'd have a bit of forward movement at keast.
+[2015/12/14 13:00:10] <brmbrmcar> Improvements!
+[2015/12/14 13:00:18] <Tobbi> mt: Do you know a spamcop reporting plugin for thunderbird?
+[2015/12/14 13:00:49] <mt> nope
+[2015/12/14 13:00:54] <mt> but you can forward iirc
+[2015/12/14 13:00:55] <Tobbi> hmm...
+[2015/12/14 13:01:06] <Tobbi> A plugin would've made things so much easier.
