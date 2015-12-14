@@ -21855,3 +21855,4 @@
 [2015/12/14 02:02:57] @ Quit: tux|dude: Quit: Leaving
 [2015/12/14 02:16:00] @ Quit: tuxdev_: Ping timeout: 240 seconds
 [2015/12/14 02:47:07] @ Narre joined channel #supertux
+[2015/12/14 03:01:07] @ Quit: bb010g: Quit: Connection closed for inactivity
