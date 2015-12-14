@@ -22222,3 +22222,5 @@
 [2015/12/14 15:51:17] @ swift110 joined channel #supertux
 [2015/12/14 15:52:57] @ Quit: swift110: Changing host
 [2015/12/14 15:52:58] @ swift110 joined channel #supertux
+[2015/12/14 16:22:57] @ Quit: grumbel: Quit: Ex-Chat
+[2015/12/14 16:25:07] @ Quit: brmbrmcar: Quit: brmbrmquit
