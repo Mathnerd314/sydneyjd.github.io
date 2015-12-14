@@ -21862,3 +21862,6 @@
 [2015/12/14 04:15:43] @ Tobbi joined channel #supertux
 [2015/12/14 04:15:43] @ Mode +o Tobbi by ChanServ
 [2015/12/14 04:36:42] @ Quit: binki: Ping timeout: 256 seconds
+[2015/12/14 05:09:11] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/14 05:13:57] @ grumbel joined channel #supertux
+[2015/12/14 05:13:57] @ Mode +o grumbel by ChanServ
