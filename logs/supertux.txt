@@ -21983,3 +21983,61 @@
 [2015/12/14 12:29:43] <head8debian> Tobbi: Id like to remember the name of the program a friend recomended to me that would allow you to make any application portable...
 [2015/12/14 12:29:53] <head8debian> I cannot remember the name though...
 [2015/12/14 12:29:59] <Tobbi> head8debian: I don't know either.
+[2015/12/14 12:33:17] <mt> Isn't there something like GNOME's "starters"
+[2015/12/14 12:33:21] <mt> for Windows
+[2015/12/14 12:33:32] <head8debian> mt: Huh>
+[2015/12/14 12:33:33] <head8debian> ?
+[2015/12/14 12:33:41] <Karkus> Hume2 & Tobbi: I think a portable version would be very useful. It's a pain having to install all the time.
+[2015/12/14 12:34:07] <Tobbi> Karkus: I believe what we need to do is ask portableapps.com to update theirs...
+[2015/12/14 12:34:12] <brmbrmcar> Which is why I wanted a Linux tar.gz file.
+[2015/12/14 12:34:19] <Hume2> SuperTux doesn't need any install on Windows anyway. You can just copy 'n' paste.
+[2015/12/14 12:34:30] <mt> head8debian: files that look like an app/program but call another command (possibly with arguments) when you open them
+[2015/12/14 12:34:32] <Karkus> Hume2: Huh?
+[2015/12/14 12:34:51] <mt> because, I don't really like the idea of promoting any apps that could inject bullshit into SuperTux
+[2015/12/14 12:34:56] <Hume2> Karkus: You just copy 'n' paste the compiled SuperTux.
+[2015/12/14 12:35:18] <Tobbi> Hume2: That doesn't change the fact that it writes the config to %USERPROFILE%
+[2015/12/14 12:35:18] <Karkus> You still have the datadir problem...
+[2015/12/14 12:35:21] <Tobbi> which it shouldn't.
+[2015/12/14 12:35:37] <Karkus> Tobbi: We can have an option for this.
+[2015/12/14 12:35:45] <Tobbi> Karkus: we do.
+[2015/12/14 12:35:54] <Tobbi> Karkus: But we need a wrapper that calls supertux with those arguments.
+[2015/12/14 12:36:27] <Karkus> Tobbi: I know, but not from within supertux.
+[2015/12/14 12:36:44] <Tobbi> https://www.youtube.com/watch?v=JyLCPDLlfwU
+[2015/12/14 12:36:46] <head8debian> ~figlet 6 days to release!!
+[2015/12/14 12:36:46] <red_bot>   ____      __                   __      
+[2015/12/14 12:36:46] <red_bot>  / __/  ___/ /___ _ __ __ ___   / /_ ___ 
+[2015/12/14 12:36:46] <red_bot> / _ \  / _  // _ `// // /(_-<  / __// _ \
+[2015/12/14 12:36:46] <red_bot> \___/  \_,_/ \_,_/ \_, //___/  \__/ \___/
+[2015/12/14 12:36:46] <red_bot>                   /___/                  
+[2015/12/14 12:36:46] <red_bot>              __                     __ __
+[2015/12/14 12:36:46] <red_bot>   ____ ___  / /___  ___ _ ___ ___  / // /
+[2015/12/14 12:36:46] <red_bot>  / __// -_)/ // -_)/ _ `/(_-</ -_)/_//_/ 
+[2015/12/14 12:36:46] <red_bot> /_/   \__//_/ \__/ \_,_//___/\__/(_)(_)
+[2015/12/14 12:38:34] <brmbrmcar> head8debian: You doing that to annoy Tobbi?
+[2015/12/14 12:39:43] <head8debian> brmbrmcar: No.
+[2015/12/14 12:39:49] <head8debian> Tobbi: :D Dear Valued Customer,
+[2015/12/14 12:39:50] <head8debian> This letter was sent to you as a formal notice that you are obligated to repay our company the sum of 2,164$ which was advanced to you from our company on October 16, 2015.
+[2015/12/14 12:39:54] <brmbrmcar> :(
+[2015/12/14 12:39:59] <head8debian> Tobbi: What fun spam mail. :D
+[2015/12/14 12:40:08] <Tobbi> head8debian: :P
+[2015/12/14 12:40:13] <Tobbi> brmbrmcar: He isn't you.
+[2015/12/14 12:40:51] <head8debian> Tobbi: Want me to send you a copy? :D Maybe they would laugh if i sent them fake money... :p
+[2015/12/14 12:40:59] <head8debian> And shut their mouths.
+[2015/12/14 12:41:04] <Tobbi> head8debian: No.
+[2015/12/14 12:41:06] <Tobbi> No, thanks.
+[2015/12/14 12:41:09] <head8debian> Probably a kiddy script.
+[2015/12/14 12:41:13] <brmbrmcar> Forward me what you ant!
+[2015/12/14 12:41:27] <Tobbi> Forward me what you gradle.
+[2015/12/14 12:41:37] <brmbrmcar> brmbrmcar@yandex.com or brmbrmcar.1.4913@gmail.com
+[2015/12/14 12:42:05] <head8debian> brmbrmcar: You have a yandex email? are you German?
+[2015/12/14 12:42:27] <brmbrmcar> No.
+[2015/12/14 12:42:33] <brmbrmcar> I am fromthe UK.
+[2015/12/14 12:42:44] <head8debian> Ah!
+[2015/12/14 12:42:58] @ binki joined channel #supertux
+[2015/12/14 12:43:27] <brmbrmcar> What;s wrong with yandex?
+[2015/12/14 12:43:38] <head8debian> brmbrmcar: Nothing at all.
+[2015/12/14 12:43:53] <brmbrmcar> Ah, OK.
+[2015/12/14 12:44:10] <brmbrmcar> So, give me the sp*m!
+[2015/12/14 12:44:29] <head8debian> brmbrmcar: You really want a copy? :)
+[2015/12/14 12:44:33] <brmbrmcar> Yes.
+[2015/12/14 12:44:38] <head8debian> ok,ok.
