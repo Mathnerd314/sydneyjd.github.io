@@ -21922,3 +21922,14 @@
 [2015/12/14 11:22:00] <brmbrmcar> So, is it worth me making more improvements tomy level for you to ignore?
 [2015/12/14 11:26:29] @ Quit: claymore2: Ping timeout: 250 seconds
 [2015/12/14 11:29:43] @ claymore2 joined channel #supertux
+[2015/12/14 11:33:28] <brmbrmcar> Right then!
+[2015/12/14 11:33:31] @ brmbrmcar left channel #supertux ()
+[2015/12/14 11:38:30] @ datahead8888 is now known as datahead7777
+[2015/12/14 11:38:56] <head8debian> Tobbi: Good job...
+[2015/12/14 11:39:07] <Tobbi> head8debian: Did you try it?
+[2015/12/14 11:39:17] <Tobbi> The game, I mean?
+[2015/12/14 11:39:25] <Tobbi> Or what was that referring to?
+[2015/12/14 11:40:08] <head8debian> Tobbi: You got brm upset.
+[2015/12/14 11:40:21] <Tobbi> head8debian: I didn't mean to.
+[2015/12/14 11:40:46] <head8debian> Tobbi: Thats not my department. :D
+[2015/12/14 11:42:06] <Tobbi> leyyin: I got brmbrmcar upset. Do we celebrate?
