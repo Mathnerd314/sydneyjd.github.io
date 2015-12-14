@@ -21976,3 +21976,10 @@
 [2015/12/14 12:12:13] <Tobbi> head8debian: I have no idea.
 [2015/12/14 12:12:17] <Tobbi> But it's not our fault.
 [2015/12/14 12:12:53] <head8debian> True.
+[2015/12/14 12:25:21] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#264: Make portable version - 13http://git.io/v0RPp
+[2015/12/14 12:26:47] <Not-e81f> [02supertux] 07tobbi commented on issue 03#264: Make portable version - 13http://git.io/v0RX1
+[2015/12/14 12:28:03] @ Hume2 joined channel #supertux
+[2015/12/14 12:29:31] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#264: Make portable version - 13http://git.io/v0R1A
+[2015/12/14 12:29:43] <head8debian> Tobbi: Id like to remember the name of the program a friend recomended to me that would allow you to make any application portable...
+[2015/12/14 12:29:53] <head8debian> I cannot remember the name though...
+[2015/12/14 12:29:59] <Tobbi> head8debian: I don't know either.
