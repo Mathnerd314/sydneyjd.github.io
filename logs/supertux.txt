@@ -22245,3 +22245,5 @@
 [2015/12/14 17:13:51] @ Karkus joined channel #supertux
 [2015/12/14 17:53:53] <Not-e81f> [02supertux] 07Mathnerd314 commented on issue 03#201: Backflipping to a bonus block hides Tux behind it - 13http://git.io/v0ufi
 [2015/12/14 18:07:34] @ Quit: Karkus: Quit: Division By Zero
+[2015/12/14 18:31:44] @ Quit: alket: Quit: Good Night :)
+[2015/12/14 18:39:53] @ Quit: Tobbi: Remote host closed the connection
