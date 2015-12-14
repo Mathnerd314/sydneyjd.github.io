@@ -22136,3 +22136,44 @@
 [2015/12/14 13:59:35] <Tobbi> Hume2: Ah, okay...It's a shame we can't integrate it.
 [2015/12/14 13:59:43] <Hume2> I know that it's quite illegal, but I guess that it's on my own risk when it's only in my fork.
 [2015/12/14 13:59:53] <Karkus> Hume2: Shouldn't it be spelled "restore"?
+[2015/12/14 14:00:06] <Hume2> Well, maybe.
+[2015/12/14 14:00:11] <Tobbi> Well, "illegal"
+[2015/12/14 14:00:24] <Hume2> It's on my own risk, isn't it?
+[2015/12/14 14:00:32] <Tobbi> yes
+[2015/12/14 14:00:40] <brmbrmcar> restaure is old. :D
+[2015/12/14 14:00:41] <Tobbi> Don't think the risk is too high, though.
+[2015/12/14 14:00:55] <Karkus> I'd prefer restore
+[2015/12/14 14:01:02] <Hume2> Tell me, what kind of fool would judge for a supertux level.
+[2015/12/14 14:01:05] <Tobbi> I mean: We can|t provide it as an add-on, but it doesn't matter...
+[2015/12/14 14:01:07] <brmbrmcar> Restaure is unique
+[2015/12/14 14:01:07] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2015/12/14 14:01:14] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/96806120
+[2015/12/14 14:01:20] <Tobbi> what now?
+[2015/12/14 14:01:35] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96806289
+[2015/12/14 14:01:37] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96806289
+[2015/12/14 14:01:46] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96806289
+[2015/12/14 14:01:47] <Hume2> I think we could discuss some bigger ideas.
+[2015/12/14 14:01:59] <Hume2> For milestone 3.
+[2015/12/14 14:02:06] <Tobbi> Hume2: After the release, maybe? Besides, I am quite busy...
+[2015/12/14 14:02:14] <Tobbi> Hume2: I assume we should also ask in the forums.
+[2015/12/14 14:02:20] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96806289
+[2015/12/14 14:02:40] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96806289
+[2015/12/14 14:02:52] <Hume2> Tobbi: Yes. Could you make an extra thread for ideas in the forum? It will be handy. I don't hesitate on you.
+[2015/12/14 14:03:08] <Karkus> We will make a huge list after a irc meeting and forum talks etc. then cut that down into a github wiki page to be turned into issues bit by bit.
+[2015/12/14 14:03:10] <Tobbi> Hume2: Do it yourself, and I will pin it, okay?
+[2015/12/14 14:03:19] <Tobbi> Okay, that's fine as well.
+[2015/12/14 14:03:28] <Tobbi> I really don't have any preference.
+[2015/12/14 14:03:41] <Karkus> Make the forum thread now, to get material for reference in the meeting.
+[2015/12/14 14:03:42] <Tobbi> Anyone know OpenGL?
+[2015/12/14 14:03:43] <Tobbi> :P
+[2015/12/14 14:03:47] <Tobbi> oh, right.
+[2015/12/14 14:03:50] <Hume2> Tobbi: I thought a folder, where the other people could make threads.
+[2015/12/14 14:03:51] <Tobbi> Hume2: ^^
+[2015/12/14 14:03:59] <Tobbi> Hume2: I am not sure that's possiblr.
+[2015/12/14 14:04:28] <Tobbi> Hume2: I could create a sub-forum.
+[2015/12/14 14:04:40] <Hume2> Tobbi: That's exactly what I thought.
+[2015/12/14 14:04:47] <Tobbi> Or could I?
+[2015/12/14 14:04:49] <Tobbi> Let|s see...
+[2015/12/14 14:06:13] <Tobbi> Hume2: Couldn't find a way to create a new sub forum. Ask charlie please.
+[2015/12/14 14:06:52] <Hume2> OK
+[2015/12/14 14:11:53] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/113
