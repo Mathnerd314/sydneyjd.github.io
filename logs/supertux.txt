@@ -22041,3 +22041,27 @@
 [2015/12/14 12:44:29] <head8debian> brmbrmcar: You really want a copy? :)
 [2015/12/14 12:44:33] <brmbrmcar> Yes.
 [2015/12/14 12:44:38] <head8debian> ok,ok.
+[2015/12/14 12:45:35] <mt> yandex is a russian provider
+[2015/12/14 12:45:51] <mt> why is it typical for germans to use yandex
+[2015/12/14 12:45:54] <head8debian> mt: I couldnt remember if it was russian or german...
+[2015/12/14 12:46:08] <head8debian> *facepalm*
+[2015/12/14 12:46:28] <mt> the majority of german email providers uses *.de
+[2015/12/14 12:46:39] <head8debian> mt: I know that...
+[2015/12/14 12:46:46] <brmbrmcar> Hace you sent it?
+[2015/12/14 12:46:56] <brmbrmcar> I've got both open.
+[2015/12/14 12:47:10] <mt> btw
+[2015/12/14 12:47:12] <mt> report spam
+[2015/12/14 12:47:21] <head8debian> mt: I did. :)
+[2015/12/14 12:47:28] <head8debian> mt: Thats why its marked as spam.
+[2015/12/14 12:47:29] <mt> to https://www.spamcop.net/
+[2015/12/14 12:47:33] <head8debian> Oh.
+[2015/12/14 12:47:36] <mt> don't mark it as spam
+[2015/12/14 12:47:39] <mt> that's useless
+[2015/12/14 12:48:12] <head8debian> mt: cool. I didnt know about spam cop.
+[2015/12/14 12:48:46] <brmbrmcar> :(
+[2015/12/14 12:49:45] <Karkus> SuperTux's physics is wrong. Or at least, part of it is. If you jump on a moving platform you get left behind, and fall off the back.
+[2015/12/14 12:56:22] <brmbrmcar> It doesn't show inertia.
+[2015/12/14 12:57:22] <Karkus> It doesn't account for it, no/
+[2015/12/14 12:58:33] <brmbrmcar> Bad.
+[2015/12/14 12:58:45] <brmbrmcar> Butthe second you jump, hell!
+[2015/12/14 12:59:09] <brmbrmcar> You'd have a bit of forward movement at keast.
