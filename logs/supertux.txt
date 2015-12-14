@@ -21950,3 +21950,29 @@
 [2015/12/14 11:58:30] * brmbrmcar also runs invincible()
 [2015/12/14 11:59:44] <Tobbi> brmbrmcar: When I meant I ignored you, I meant "I ignored you on IRC"
 [2015/12/14 12:00:01] <brmbrmcar> Hmm,should I create a pull request for something or will it be ignored?
+[2015/12/14 12:00:30] <Tobbi> brmbrmcar: Depends on the pull request...
+[2015/12/14 12:00:37] <Tobbi> eeh...wait.
+[2015/12/14 12:00:46] <Tobbi> brmbrmcar: Depends on the person who submits the pull request...
+[2015/12/14 12:00:51] <leyyin> Tobbi, you should thought
+[2015/12/14 12:01:39] <Tobbi> leyyin: *think ?
+[2015/12/14 12:01:47] <leyyin> no
+[2015/12/14 12:01:50] <Tobbi> *have thought?
+[2015/12/14 12:01:56] <Tobbi> *though?
+[2015/12/14 12:02:26] <Tobbi> leyyin: Do you know anything about GLSL?
+[2015/12/14 12:02:35] <leyyin> a little
+[2015/12/14 12:03:06] <Tobbi> leyyin: Ever used Texture2DArray?
+[2015/12/14 12:03:16] <leyyin> nope
+[2015/12/14 12:03:22] <Tobbi> I hate it, i hate every little bit about OpenGL
+[2015/12/14 12:03:30] <leyyin> you know a little means like close to 0, no?
+[2015/12/14 12:03:40] <leyyin> Tobbi, use directx, oh wait :D
+[2015/12/14 12:03:44] <Tobbi> leyyin: I was thinking in your terms.
+[2015/12/14 12:03:45] <leyyin> only works on windows
+[2015/12/14 12:04:09] <leyyin> are you using opengl for?
+[2015/12/14 12:04:24] <Tobbi> leyyin: A medical visualization project...college...
+[2015/12/14 12:06:31] @ alket joined channel #supertux
+[2015/12/14 12:10:04] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#264: Make portable version - 13http://git.io/v0RVQ
+[2015/12/14 12:11:46] <Not-e81f> [02supertux] 07tobbi commented on issue 03#264: Make portable version - 13http://git.io/v0Rwr
+[2015/12/14 12:12:04] <head8debian> Tobbi: Why is portableapps.com using our "new" logo that is not ours?!?
+[2015/12/14 12:12:13] <Tobbi> head8debian: I have no idea.
+[2015/12/14 12:12:17] <Tobbi> But it's not our fault.
+[2015/12/14 12:12:53] <head8debian> True.
