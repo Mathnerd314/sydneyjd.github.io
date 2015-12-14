@@ -21867,3 +21867,5 @@
 [2015/12/14 05:13:57] @ Mode +o grumbel by ChanServ
 [2015/12/14 05:57:01] @ Tobbi joined channel #supertux
 [2015/12/14 05:57:01] @ Mode +o Tobbi by ChanServ
+[2015/12/14 06:51:41] @ jesusalva_bot joined channel #supertux
+[2015/12/14 06:52:20] @ jesusalva_bot left channel #supertux ()
