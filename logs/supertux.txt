@@ -21858,3 +21858,4 @@
 [2015/12/14 03:01:07] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/12/14 03:21:22] @ tux|dude joined channel #supertux
 [2015/12/14 03:27:22] @ Quit: tux|dude: Quit: Leaving
+[2015/12/14 03:42:58] @ Quit: Narre: Quit: Page closed
