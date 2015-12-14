@@ -22214,3 +22214,4 @@
 [2015/12/14 14:33:57] @ Quit: Karkus: Remote host closed the connection
 [2015/12/14 14:35:23] @ Quit: Hume2: Quit: Page closed
 [2015/12/14 14:40:08] @ Quit: brmbrmcar: Quit: brmbrmquit
+[2015/12/14 15:20:59] @ brmbrmcar joined channel #supertux
