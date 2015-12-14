@@ -21908,3 +21908,17 @@
 [2015/12/14 11:11:51] <Tobbi> head8debian: You should.
 [2015/12/14 11:12:11] <Tobbi> head8debian: We have a release in 6 days.
 [2015/12/14 11:12:20] <brmbrmcar> What do you mean by "blockers" anyway?
+[2015/12/14 11:15:33] <head8debian> brmbrmcar: Big very important bugs that *need* to be fixed.
+[2015/12/14 11:15:56] <head8debian> Tobbi: Ive been outside all day.
+[2015/12/14 11:16:06] <Tobbi> Oh.
+[2015/12/14 11:16:10] <Tobbi> I ignored brmbrmcar.
+[2015/12/14 11:16:11] <Tobbi> :D
+[2015/12/14 11:16:30] <brmbrmcar> Ah
+[2015/12/14 11:16:42] <brmbrmcar> *sigh*
+[2015/12/14 11:17:04] <Tobbi> Well, maybe I should undo that (again).
+[2015/12/14 11:17:06] * brmbrmcar runs /ignore Tobbi
+[2015/12/14 11:17:37] <Tobbi> brmbrmcar: say something
+[2015/12/14 11:18:58] @ bb010g joined channel #supertux
+[2015/12/14 11:22:00] <brmbrmcar> So, is it worth me making more improvements tomy level for you to ignore?
+[2015/12/14 11:26:29] @ Quit: claymore2: Ping timeout: 250 seconds
+[2015/12/14 11:29:43] @ claymore2 joined channel #supertux
