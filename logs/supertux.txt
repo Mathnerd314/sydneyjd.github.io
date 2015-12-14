@@ -22088,3 +22088,51 @@
 [2015/12/14 13:44:04] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#201: Backflipping to a bonus block hides Tux behind it - 13http://git.io/v00O8
 [2015/12/14 13:44:26] @ Karkus joined channel #supertux
 [2015/12/14 13:44:52] @ claymore2 joined channel #supertux
+[2015/12/14 13:48:03] <Hume2> Tobbi: Forcing brmbrmcar to do something seriously is a bit rageful.
+[2015/12/14 13:48:33] <Tobbi> Hume2: hm...you're actually right.
+[2015/12/14 13:48:36] <brmbrmcar> I ignored Tobbi.
+[2015/12/14 13:48:51] <Tobbi> ...which is totally okay?
+[2015/12/14 13:49:03] <Tobbi> s/?/,
+[2015/12/14 13:49:08] <Tobbi> s/?/./
+[2015/12/14 13:49:22] <Tobbi> okay, whatever.
+[2015/12/14 13:50:12] <Karkus> brmbrmcar: We are trying to help you. It takes practice to learn how to use git and all the other things we use.
+[2015/12/14 13:50:32] <brmbrmcar> Yes.
+[2015/12/14 13:50:35] @ Quit: claymore2: Quit: Leaving
+[2015/12/14 13:50:36] <brmbrmcar> But...
+[2015/12/14 13:51:19] <Karkus> brmbrmcar: So if you've got a pull request, make a pull request. We will close it if you are wasting our time, and merge it if it's good.
+[2015/12/14 13:51:41] * Tobbi meant that ^^
+[2015/12/14 13:52:19] <Hume2> Karkus: Prepare a list of possible complaints and then just tell him the numbers. It safes the nerves a lot.
+[2015/12/14 13:52:29] <Tobbi> :D
+[2015/12/14 13:52:37] <Tobbi> Hume2: Are you talking about me?
+[2015/12/14 13:53:13] <Karkus> "him" refers to brmbrmcar
+[2015/12/14 13:53:19] <Karkus> I assume
+[2015/12/14 13:53:25] <Hume2> Yes.
+[2015/12/14 13:53:56] <Tobbi> alright.
+[2015/12/14 13:54:05] <Hume2> I did it last time and it was helpful.
+[2015/12/14 13:54:10] <Tobbi> Hmm..
+[2015/12/14 13:54:24] <Tobbi> hrm, git is being slow for me...
+[2015/12/14 13:54:25] <Karkus> Hume2: The problem is, he comes up with impressively creative ways to get things wrong.
+[2015/12/14 13:54:30] <Not-e81f> [02supertux] 07brmbrmcar opened pull request 03#265: Added none() function to Console - 13http://git.io/v00nB
+[2015/12/14 13:54:31] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96806120
+[2015/12/14 13:54:33] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/113
+[2015/12/14 13:54:58] <brmbrmcar> If Idid it earlier I would gave remebered ci skip.
+[2015/12/14 13:54:59] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#265: Added none() function to Console - 13http://git.io/v00nX
+[2015/12/14 13:55:07] <Hume2> Karkus: Then make a n+1th complaint and tell him n+1.
+[2015/12/14 13:55:25] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03coverity_scan [+0/-0/±1] 13http://git.io/v00nd
+[2015/12/14 13:55:27] <Not-e81f> [02supertux] 07Tobias Markus 0336ce645 - Re-indent some code inside if statement in .travis.yml
+[2015/12/14 13:55:28] <Tobbi> If the complaint is not on the list, tell him INT_MAX
+[2015/12/14 13:55:28] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96806289
+[2015/12/14 13:55:30] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/114
+[2015/12/14 13:55:38] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#265: Added none() function to Console - 13http://git.io/v00np
+[2015/12/14 13:56:01] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96806120
+[2015/12/14 13:56:11] @ Quit: brmbrmcar: Quit: Lost terminal
+[2015/12/14 13:56:11] <Hume2> An example of what I did: https://github.com/Hume2/addons/blob/restaurator/src/restaurator2/guide.txt
+[2015/12/14 13:56:40] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96806120
+[2015/12/14 13:57:42] <Tobbi> :D "quatsch"
+[2015/12/14 13:58:20] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96806120
+[2015/12/14 13:58:48] <Tobbi> Hume2: Where did you get the levels from?
+[2015/12/14 13:59:07] <Hume2> Tobbi: Well, you know, the old fan site.
+[2015/12/14 13:59:13] @ brmbrmcar joined channel #supertux
+[2015/12/14 13:59:35] <Tobbi> Hume2: Ah, okay...It's a shame we can't integrate it.
+[2015/12/14 13:59:43] <Hume2> I know that it's quite illegal, but I guess that it's on my own risk when it's only in my fork.
+[2015/12/14 13:59:53] <Karkus> Hume2: Shouldn't it be spelled "restore"?
