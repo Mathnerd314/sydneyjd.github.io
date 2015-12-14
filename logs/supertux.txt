@@ -21850,3 +21850,5 @@
 [2015/12/13 22:03:28] <head8debian> ;(
 [2015/12/13 22:21:00] @ Quit: irungentoo: Ping timeout: 256 seconds
 [2015/12/13 22:23:02] @ tuxdev_ joined channel #supertux
+[2015/12/13 22:40:16] @ Quit: nerdopolis: Ping timeout: 256 seconds
+[2015/12/13 22:41:08] @ nerdopolis joined channel #supertux
