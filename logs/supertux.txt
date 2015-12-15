@@ -22588,3 +22588,12 @@
 [2015/12/15 12:34:37] <brmbrmcar> Left.
 [2015/12/15 12:34:43] <brmbrmcar> I'll fix it.
 [2015/12/15 12:37:52] <brmbrmcar> How do you make something dark?
+[2015/12/15 12:46:29] <brmbrmcar> I know ambient light, but...
+[2015/12/15 12:46:40] <brmbrmcar> Any way of making translucency?
+[2015/12/15 12:49:52] <brmbrmcar> Please? I am trying to help
+[2015/12/15 12:54:32] <brmbrmcar> Fine then.I make that background, you do what you want with it. But don't moan at me.
+[2015/12/15 12:55:46] <Karkus> brmbrmcar: I am not a level designer, and also I was AFK
+[2015/12/15 12:56:46] @ Quit: tuxdev_: Ping timeout: 260 seconds
+[2015/12/15 12:57:08] <brmbrmcar> OK.
+[2015/12/15 12:57:30] <brmbrmcar> But I' just saying,noone canmoan at me for the bug!
+[2015/12/15 12:57:32] <brmbrmcar> https://paste.kde.org/pv1rqslwl
