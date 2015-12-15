@@ -22627,3 +22627,8 @@
 [2015/12/15 14:51:06] @ Mode +o Tobbi by ChanServ
 [2015/12/15 15:05:52] @ ced117 joined channel #supertux
 [2015/12/15 15:14:27] @ swift110 joined channel #supertux
+[2015/12/15 15:18:11] @ Quit: swift110: Changing host
+[2015/12/15 15:18:11] @ swift110 joined channel #supertux
+[2015/12/15 15:25:07] @ brmbrmcar left channel #supertux ("Coming back")
+[2015/12/15 15:25:12] @ brmbrmcar joined channel #supertux
+[2015/12/15 15:28:57] @ Quit: ced117: Quit: IRC for Sailfish 0.9
