@@ -22275,3 +22275,5 @@
 [2015/12/14 20:08:36] @ Malebohang joined channel #supertux
 [2015/12/14 20:11:57] @ Quit: Malebohang: Client Quit
 [2015/12/14 20:28:14] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/14 22:58:15] @ Quit: irungentoo: Remote host closed the connection
+[2015/12/14 22:58:19] @ Quit: tuxdude143: Quit: Leaving
