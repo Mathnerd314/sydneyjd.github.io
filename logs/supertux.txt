@@ -22501,3 +22501,45 @@
 [2015/12/15 11:34:41] <maths22> head8debian: :)
 [2015/12/15 11:39:15] <Tobbi> head8debian: Does this look good? http://forum.freegamedev.net/viewtopic.php?f=67&t=6687
 [2015/12/15 11:40:15] @ Karkus joined channel #supertux
+[2015/12/15 11:45:44] <brmbrmcar> Would anyone like to see my level?
+[2015/12/15 11:45:57] <brmbrmcar> My horrible, rubbish level.
+[2015/12/15 11:46:53] <brmbrmcar> I have some more changes!
+[2015/12/15 11:52:08] @ alket joined channel #supertux
+[2015/12/15 11:52:38] <Tobbi> brmbrmcar: Yes, go ahead.
+[2015/12/15 11:52:43] <Tobbi> brmbrmcar: Or, maybe screenshot?
+[2015/12/15 11:52:57] <Tobbi> alket: When is the megaglest release due? Or was it already released?
+[2015/12/15 11:53:27] <alket> Tobbi: its a bit halted
+[2015/12/15 11:53:34] <Tobbi> right.
+[2015/12/15 11:53:35] <alket> we have an error with sdl2 for fullscreen
+[2015/12/15 11:53:43] <leyyin> use sdl3 :D
+[2015/12/15 11:53:50] <Tobbi> leyyin: ...
+[2015/12/15 11:54:11] <leyyin> my trolling is annoying me too
+[2015/12/15 11:54:25] <alket> lol
+[2015/12/15 11:54:37] <Tobbi> :D
+[2015/12/15 11:54:43] <alket> Tobbi: I think one of devs will look in st code tonight for sdl2
+[2015/12/15 11:54:52] <Tobbi> alket: Good luck! :D
+[2015/12/15 11:55:01] <Tobbi> I don't understand the SuperTux code :P
+[2015/12/15 11:55:10] <alket> lol
+[2015/12/15 11:55:12] <alket> but you are the maintainer
+[2015/12/15 11:55:28] <Tobbi> alket: That tells you a lot about the quality.
+[2015/12/15 11:55:30] <Tobbi> :P
+[2015/12/15 11:55:35] <alket> lol
+[2015/12/15 11:55:42] <Tobbi> I never actually agreed to be the maintainer.
+[2015/12/15 11:55:49] <alket> lets drop c++ and do it in godotengine xD
+[2015/12/15 11:55:51] <alket> SuperTux3
+[2015/12/15 11:55:54] <Tobbi> uhm.
+[2015/12/15 11:56:00] <Tobbi> No, I'd prefer whitespace.
+[2015/12/15 11:56:01] <Tobbi> :D
+[2015/12/15 11:56:05] <Tobbi> or brainfuck.
+[2015/12/15 11:56:10] <alket> I already started to do a platformer
+[2015/12/15 11:57:35] <leyyin> godot is nice
+[2015/12/15 11:57:42] <alket> how long until st release ?
+[2015/12/15 11:58:35] <Tobbi> alket: 5 days...
+[2015/12/15 11:58:36] <brmbrmcar> http://paste.ubuntu.com/14029972/
+[2015/12/15 11:58:42] <Tobbi> alket: It's also in the topic.
+[2015/12/15 11:58:44] <Tobbi> :P
+[2015/12/15 11:59:07] <alket> ah, nice :)
+[2015/12/15 11:59:13] <Tobbi> brmbrmcar: Why do I have to sign in to get that paste.
+[2015/12/15 11:59:14] <alket> no one reads topics btw :p
+[2015/12/15 11:59:22] <Tobbi> Use a proper pastebin.
+[2015/12/15 11:59:31] <brmbrmcar> Er...
