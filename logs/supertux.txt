@@ -22584,3 +22584,7 @@
 [2015/12/15 12:28:39] <Karkus> brmbrmcar: When I flip the switch, I get stuck in the wall
 [2015/12/15 12:29:16] <brmbrmcar> I think I have found a cheat.
 [2015/12/15 12:29:34] <brmbrmcar> Karkus: That is foreground.
+[2015/12/15 12:30:03] <Karkus> Where do I go? I can't see myself!
+[2015/12/15 12:34:37] <brmbrmcar> Left.
+[2015/12/15 12:34:43] <brmbrmcar> I'll fix it.
+[2015/12/15 12:37:52] <brmbrmcar> How do you make something dark?
