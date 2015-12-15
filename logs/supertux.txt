@@ -22396,3 +22396,42 @@
 [2015/12/15 10:44:36] <maths22> Tobbi: I have no idea
 [2015/12/15 10:44:41] <Tobbi> hmm...
 [2015/12/15 10:44:45] <maths22> I was hoping someone else had a good idea
+[2015/12/15 10:45:02] <Tobbi> maths22: I mean: We could package po files with each individual add-on.
+[2015/12/15 10:45:05] <Tobbi> That woud work.
+[2015/12/15 10:45:53] <Tobbi> I believe it's even supported by the game.
+[2015/12/15 10:47:24] <brmbrmcar> Do you think there should be target times on more levels?
+[2015/12/15 10:49:12] <Tobbi> brmbrmcar: Not for now. We can revisit the idea once the release is done.
+[2015/12/15 10:49:19] @ maths22_ joined channel #supertux
+[2015/12/15 10:49:21] <grumbel> Tobbi: language packs should be downloaded automatically when the language is selected
+[2015/12/15 10:49:27] <maths22_> grumbel: I like that idea
+[2015/12/15 10:49:29] @ Quit: maths22: Ping timeout: 256 seconds
+[2015/12/15 10:49:31] <Tobbi> grumbel: They are.
+[2015/12/15 10:49:45] <maths22_> The server has decided to temporarily go down, so that is kind of annyooing
+[2015/12/15 10:49:46] <Tobbi> grumbel: Problem is, people who have SuperTux already installed...well, you get the idea.
+[2015/12/15 10:50:10] <Tobbi> The langpacks never update.
+[2015/12/15 10:50:21] <maths22_> Should I change the readme to have the new URL?
+[2015/12/15 10:50:35] <grumbel> Currently there are two language settings, one in the AddOn menu and one in the Options
+[2015/12/15 10:50:40] @ Quit: maths22_: Client Quit
+[2015/12/15 10:50:45] <grumbel> You shouldn't have to select the language twice
+[2015/12/15 10:50:50] <brmbrmcar> I don't think they should automatically be downloaded.
+[2015/12/15 10:50:56] @ maths22_ joined channel #supertux
+[2015/12/15 10:51:07] <brmbrmcar> It should be a option when selecting the language.
+[2015/12/15 10:51:15] <Tobbi> grumbel: Alright...
+[2015/12/15 10:51:24] <Tobbi> Yeah, it seems fine then.
+[2015/12/15 10:51:40] <Tobbi> maths22_: The tarball built fine on OS X.
+[2015/12/15 10:51:55] <maths22_> Tobbi: Great!
+[2015/12/15 10:52:25] <maths22_> Of course, no one can download it right now, but that should be fixed soon (I'm finding out what happened now)
+[2015/12/15 10:52:32] <Tobbi> ok
+[2015/12/15 10:52:50] <Tobbi> SuperTux is quite slow to start for me.
+[2015/12/15 10:52:52] <Tobbi> For some reason.
+[2015/12/15 10:54:02] <brmbrmcar> Why can't I download it?
+[2015/12/15 10:54:14] <brmbrmcar> I don't have enough space.
+[2015/12/15 10:54:18] <maths22_> brmbrmcar: Because the server is down right now.  Sorry.  I'm looking into it
+[2015/12/15 10:54:37] <Tobbi> I wanted to write a cynical answer...
+[2015/12/15 10:54:45] <Tobbi> maybe it's good I didn't.
+[2015/12/15 10:55:10] <brmbrmcar> Ah.OK.
+[2015/12/15 10:57:13] <Tobbi> wow, we got 23 followers on twitter.
+[2015/12/15 10:57:45] <Tobbi> Quite good.
+[2015/12/15 10:59:19] <brmbrmcar> Who cares about followers on Twitter. I care about the number of stars!
+[2015/12/15 10:59:41] <Tobbi> brmbrmcar: I am a star. That's all that's needed.
+[2015/12/15 10:59:56] <brmbrmcar> Which star?
