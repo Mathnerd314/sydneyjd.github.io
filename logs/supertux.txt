@@ -22286,3 +22286,4 @@
 [2015/12/15 02:55:13] @ ced117 joined channel #supertux
 [2015/12/15 03:23:01] @ Quit: brmbrmcar: Quit: Lost terminal
 [2015/12/15 03:24:08] @ brmbrmcar joined channel #supertux
+[2015/12/15 03:31:06] @ Quit: tuxdev_: Ping timeout: 250 seconds
