@@ -22632,3 +22632,8 @@
 [2015/12/15 15:25:07] @ brmbrmcar left channel #supertux ("Coming back")
 [2015/12/15 15:25:12] @ brmbrmcar joined channel #supertux
 [2015/12/15 15:28:57] @ Quit: ced117: Quit: IRC for Sailfish 0.9
+[2015/12/15 15:41:01] <maths22> leyyin: I think I'm missing something with the electrocution joke-care to explain?
+[2015/12/15 15:43:34] <maths22> Tobbi: Can we plan to code-freeze on Thursday or Friday and tag then-that way any minor issues can be ironed out?
+[2015/12/15 15:44:15] <maths22> We wouldn't publish any offical releases until Sunday, but that way if any of the builds have issues or something else doesn't work, we have a chance to fix it
+[2015/12/15 15:44:25] <Tobbi> maths22: You want to iron out issues after the code freeze? Won't people assume they have to build off the tagged SHA1?
+[2015/12/15 15:44:32] <Tobbi> *off of
