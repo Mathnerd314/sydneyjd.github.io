@@ -22478,3 +22478,23 @@
 [2015/12/15 11:13:25] <leyyin> are you talking to yourself again Tobbi ?
 [2015/12/15 11:13:33] <Tobbi> leyyin: :D
 [2015/12/15 11:13:47] <Tobbi> leyyin: This will soon get as old as my "I don't know anything about computers".
+[2015/12/15 11:15:31] <brmbrmcar> I do.
+[2015/12/15 11:15:55] @ maths22 joined channel #supertux
+[2015/12/15 11:16:22] <maths22> Hello again.  Server back up
+[2015/12/15 11:16:32] <Tobbi> nice.
+[2015/12/15 11:16:45] @ Quit: maths22_: Quit: Page closed
+[2015/12/15 11:17:33] <Tobbi> maths22: What was the problem?
+[2015/12/15 11:17:55] <maths22> Tobbi: ISP issues, such that the server had no internet connection
+[2015/12/15 11:18:04] <Tobbi> Ah.
+[2015/12/15 11:18:17] <Tobbi> You told me this, before, didn't you? :D I suck at remembering things.
+[2015/12/15 11:18:36] <maths22> The person who runs the server told me he's planning to switch ISPs soon (These sorts of things have happened too often)
+[2015/12/15 11:18:42] <maths22> Tobbi: and yes, I did already say this
+[2015/12/15 11:18:55] <Tobbi> :D
+[2015/12/15 11:20:41] <head8debian> maths22: May i have his old internet conenction? :D
+[2015/12/15 11:20:49] <head8debian> If he pays for it? :D
+[2015/12/15 11:21:35] <head8debian> :-)
+[2015/12/15 11:21:53] <brmbrmcar> Can I have a 1Tbps connection?
+[2015/12/15 11:22:19] <Tobbi> haha, megaglest is releasing soon as well.
+[2015/12/15 11:22:56] <Tobbi> great stuff.
+[2015/12/15 11:22:58] <brmbrmcar> What's megaglest?
+[2015/12/15 11:23:57] <brmbrmcar> Ah,its a game.
