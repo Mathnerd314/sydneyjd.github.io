@@ -22738,3 +22738,7 @@
 [2015/12/15 17:04:18] <Tobbi> So long...
 [2015/12/15 17:04:25] <Tobbi> So short.
 [2015/12/15 17:11:33] @ Quit: claymore2: Quit: Leaving
+[2015/12/15 17:18:11] <maths22> Tobbi: Yes-pull on Friday
+[2015/12/15 17:18:16] <Tobbi> ok.
+[2015/12/15 17:18:19] <Tobbi> Will do.
+[2015/12/15 17:24:11] @ Quit: Karkus: Ping timeout: 255 seconds
