@@ -22311,3 +22311,8 @@
 [2015/12/15 09:26:21] @ Mode +o Tobbi by ChanServ
 [2015/12/15 09:31:25] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/15 09:37:49] @ tuxdev_ joined channel #supertux
+[2015/12/15 09:57:07] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v0awi
+[2015/12/15 09:57:09] <Not-e81f> [02supertux] 07Jacob Burroughs 03087f0cc - Fixed exclusion path for CPack source packaging
+[2015/12/15 09:57:10] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96993958
+[2015/12/15 09:57:12] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/116
+[2015/12/15 09:57:13] <Not-e81f> [02supertux] 07sydneyjd commented on issue 03#256: Intel Integrated Graphics Causes Problems - 13http://git.io/v0awX
