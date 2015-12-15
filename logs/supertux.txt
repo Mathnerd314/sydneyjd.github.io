@@ -22316,3 +22316,21 @@
 [2015/12/15 09:57:10] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96993958
 [2015/12/15 09:57:12] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/116
 [2015/12/15 09:57:13] <Not-e81f> [02supertux] 07sydneyjd commented on issue 03#256: Intel Integrated Graphics Causes Problems - 13http://git.io/v0awX
+[2015/12/15 10:00:33] <Not-e81f> [02supertux] 07sydneyjd commented on issue 03#266: Website - 13http://git.io/v0ao4
+[2015/12/15 10:00:37] @ Tobbi joined channel #supertux
+[2015/12/15 10:00:37] @ Mode +o Tobbi by ChanServ
+[2015/12/15 10:01:22] <head8debian> Tobbi: Where does supertuxproject.org exsist? Is it still hosted by github?
+[2015/12/15 10:01:32] <Tobbi> head8debian: iirc, yes.
+[2015/12/15 10:01:44] <head8debian> maths22: Uhm, can you answer that?
+[2015/12/15 10:02:06] <maths22> Yes
+[2015/12/15 10:02:12] <maths22> It just points to the github site
+[2015/12/15 10:02:35] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/96993958
+[2015/12/15 10:11:06] <Tobbi> When shall I pull things from Transifex?
+[2015/12/15 10:11:29] <Tobbi> Saturday?
+[2015/12/15 10:12:01] <Tobbi> head8debian: ^^
+[2015/12/15 10:12:10] <Tobbi> What would make sense?
+[2015/12/15 10:14:02] <maths22> Would someone be willing to try running a build off of http://download.supertuxproject.org/downloads/SuperTux-0.3.5.575-Source.tar.gz
+[2015/12/15 10:14:22] <Tobbi> maths22: On any OS?
+[2015/12/15 10:14:37] <Tobbi> ...or does it need to be linux?
+[2015/12/15 10:14:46] <maths22> Any OS
+[2015/12/15 10:14:56] <Tobbi> ok.
