@@ -22247,3 +22247,4 @@
 [2015/12/14 18:07:34] @ Quit: Karkus: Quit: Division By Zero
 [2015/12/14 18:31:44] @ Quit: alket: Quit: Good Night :)
 [2015/12/14 18:39:53] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/14 18:56:53] @ Quit: swift110: Ping timeout: 240 seconds
