@@ -22716,3 +22716,16 @@
 [2015/12/15 16:21:54] <Poino> mean*
 [2015/12/15 16:22:07] <Tobbi> Poino: Just never mind.
 [2015/12/15 16:22:32] <Poino> ... ok
+[2015/12/15 16:30:16] <Tobbi> Hah, we're getting more and more translators.
+[2015/12/15 16:31:12] @ Quit: Poino: Ping timeout: 252 seconds
+[2015/12/15 16:32:10] @ claymore2 joined channel #supertux
+[2015/12/15 16:34:17] <brmbrmcar> I  cannot translate...
+[2015/12/15 16:34:19] <brmbrmcar> :(
+[2015/12/15 16:38:20] @ Quit: brmbrmcar: Quit: Found terminal
+[2015/12/15 16:40:02] <Karkus> Tobbi: I remember Grumbel mentioning something about this https://github.com/SuperTux/flexlay/issues/42 ... but I forgot. *sigh*
+[2015/12/15 16:40:22] <Tobbi> Karkus: Ask him when he gets back?
+[2015/12/15 16:40:47] <Karkus> I might 'ping' (can I call it that) on the GitHub issue...
+[2015/12/15 16:41:16] <Karkus> s/)/) him/
+[2015/12/15 16:41:25] <Tobbi> Sure.
+[2015/12/15 16:41:35] <Karkus> Ah, mention.
+[2015/12/15 16:44:48] <Tobbi> Karkus: Do you know "Naked gun"?
