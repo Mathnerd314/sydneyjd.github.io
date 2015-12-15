@@ -22637,3 +22637,10 @@
 [2015/12/15 15:44:15] <maths22> We wouldn't publish any offical releases until Sunday, but that way if any of the builds have issues or something else doesn't work, we have a chance to fix it
 [2015/12/15 15:44:25] <Tobbi> maths22: You want to iron out issues after the code freeze? Won't people assume they have to build off the tagged SHA1?
 [2015/12/15 15:44:32] <Tobbi> *off of
+[2015/12/15 15:45:30] <maths22> Tobbi: let me re-state that: code freeze, check builds, then tag and check those builds
+[2015/12/15 15:45:43] <Tobbi> maths22: Okay, that sounds fine with me.
+[2015/12/15 15:45:53] <Tobbi> Right. Builds...
+[2015/12/15 15:45:54] <Tobbi> Not code :D
+[2015/12/15 15:45:59] <maths22> The second set should only be issues in the build system, and won't require any new code
+[2015/12/15 15:46:32] <Tobbi> maths22: So, that means pulling from transifex on thursday, right?
+[2015/12/15 15:46:46] <Tobbi> or rather friday...
