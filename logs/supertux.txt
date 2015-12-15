@@ -22644,3 +22644,52 @@
 [2015/12/15 15:45:59] <maths22> The second set should only be issues in the build system, and won't require any new code
 [2015/12/15 15:46:32] <Tobbi> maths22: So, that means pulling from transifex on thursday, right?
 [2015/12/15 15:46:46] <Tobbi> or rather friday...
+[2015/12/15 16:02:56] @ Poino joined channel #supertux
+[2015/12/15 16:03:26] <Poino> hi?
+[2015/12/15 16:05:03] <brmbrmcar> hi
+[2015/12/15 16:08:30] <Tobbi> hello, Poino
+[2015/12/15 16:08:51] <Poino> can i ask sth?
+[2015/12/15 16:09:02] <Tobbi> Poino: sure.
+[2015/12/15 16:09:23] <Poino> will there be an editor for the next release (stable) of SuperTux?
+[2015/12/15 16:09:41] <Tobbi> Poino: Editor is still in the making. Karkus and I are working on something based on Python.
+[2015/12/15 16:09:50] <Tobbi> Poino: Unfortunately we couldn't make it for 0.4.0
+[2015/12/15 16:10:04] <brmbrmcar> here will be an integrated one in  0.4.1 hopefully.
+[2015/12/15 16:10:12] <Poino> :D
+[2015/12/15 16:10:16] <Tobbi> Yes, with less features than the python one obviously.
+[2015/12/15 16:10:21] <Poino> At least you're making it
+[2015/12/15 16:10:28] <Tobbi> :)
+[2015/12/15 16:10:33] <Tobbi> Poino: Ever used the old one?
+[2015/12/15 16:10:43] <Poino> The one from milestone 1
+[2015/12/15 16:10:45] <Poino> ¿?
+[2015/12/15 16:10:52] <brmbrmcar> No, the mono one.
+[2015/12/15 16:10:53] <Tobbi> Poino: There's a C# editor as well.
+[2015/12/15 16:10:56] <Tobbi> yup.
+[2015/12/15 16:11:11] <brmbrmcar> https://github.com/SuperTux/supertux-editor
+[2015/12/15 16:11:29] <Poino> thx
+[2015/12/15 16:11:38] <brmbrmcar> I prefer that one.
+[2015/12/15 16:11:39] <Tobbi> Poino: It's quite tedious to setup...
+[2015/12/15 16:11:52] <Poino> i realise
+[2015/12/15 16:11:52] <Tobbi> brmbrmcar: Because the new one doesn't have all the features...
+[2015/12/15 16:11:54] <Tobbi> :P
+[2015/12/15 16:12:02] <Tobbi> (yet)
+[2015/12/15 16:12:15] <brmbrmcar> PersonallyI wish it was still in development, but it was extremelybuggy on some systems.
+[2015/12/15 16:12:30] <brmbrmcar> Soon Flexlay will bemuch better.
+[2015/12/15 16:12:34] <Tobbi> brmbrmcar: It needs mono + gtk\
+[2015/12/15 16:12:36] <Tobbi> #
+[2015/12/15 16:12:41] <Poino> And what will the new editor will have?
+[2015/12/15 16:12:42] <Tobbi> plus some magic.
+[2015/12/15 16:12:56] <Tobbi> Poino: at some point it will have all the features of the old one.
+[2015/12/15 16:13:00] <Tobbi> Based on python and everything.
+[2015/12/15 16:13:22] <Poino> Interesting
+[2015/12/15 16:13:22] <brmbrmcar> There's a really good ppa for the C~ one.
+[2015/12/15 16:13:30] <brmbrmcar> For Ubuntu.
+[2015/12/15 16:13:36] <Tobbi> Poino: If you know Python, you can help ;)
+[2015/12/15 16:13:45] <brmbrmcar> Which is how I got that editor.
+[2015/12/15 16:13:48] <Poino> I know nothing at all :P
+[2015/12/15 16:13:50] <Tobbi> https://github.com/SuperTux/flexlay
+[2015/12/15 16:13:56] <Tobbi> Poino: I know that feeling... :P
+[2015/12/15 16:14:01] <Poino> e.e
+[2015/12/15 16:14:24] <Tobbi> But when I say "I don't know anything about computers", people get mad at me.
+[2015/12/15 16:14:37] <brmbrmcar> I don't know any Python.
+[2015/12/15 16:14:44] <leyyin> You are like the John Snow of computers Tobbi
+[2015/12/15 16:14:56] <brmbrmcar> I mean, I could learn it quickly, when seeing it.
