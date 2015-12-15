@@ -22574,3 +22574,13 @@
 [2015/12/15 12:12:16] <Tobbi> Yes.
 [2015/12/15 12:12:19] <Tobbi> damn
 [2015/12/15 12:14:17] <Tobbi> brmbrmcar: That level is rather mean.
+[2015/12/15 12:15:07] <brmbrmcar> How?
+[2015/12/15 12:15:13] <brmbrmcar> Is it mean?
+[2015/12/15 12:15:33] <Tobbi> brmbrmcar: Did you ever play it? :D
+[2015/12/15 12:15:34] <Tobbi> :D
+[2015/12/15 12:15:46] <Tobbi> Actually, it's not too mean.
+[2015/12/15 12:15:51] <Tobbi> But it's still mean to some extent...
+[2015/12/15 12:18:44] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/15 12:28:39] <Karkus> brmbrmcar: When I flip the switch, I get stuck in the wall
+[2015/12/15 12:29:16] <brmbrmcar> I think I have found a cheat.
+[2015/12/15 12:29:34] <brmbrmcar> Karkus: That is foreground.
