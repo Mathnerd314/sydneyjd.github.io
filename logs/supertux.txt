@@ -22498,3 +22498,6 @@
 [2015/12/15 11:22:56] <Tobbi> great stuff.
 [2015/12/15 11:22:58] <brmbrmcar> What's megaglest?
 [2015/12/15 11:23:57] <brmbrmcar> Ah,its a game.
+[2015/12/15 11:34:41] <maths22> head8debian: :)
+[2015/12/15 11:39:15] <Tobbi> head8debian: Does this look good? http://forum.freegamedev.net/viewtopic.php?f=67&t=6687
+[2015/12/15 11:40:15] @ Karkus joined channel #supertux
