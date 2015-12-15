@@ -22259,3 +22259,10 @@
 [2015/12/14 19:08:27] <Tobbi> Alright.
 [2015/12/14 19:08:43] <Tobbi> Next sunday...
 [2015/12/14 19:10:36] <leper`> wheeee
+[2015/12/14 19:16:03] @ tux|dude joined channel #supertux
+[2015/12/14 19:17:10] @ tuxdude143 joined channel #supertux
+[2015/12/14 19:20:31] @ Quit: tux|dude: Ping timeout: 240 seconds
+[2015/12/14 19:21:16] <Tobbi> leper`: Relax. :P
+[2015/12/14 19:23:47] <leper`> first you tell me about great presents and then you tell me to relax
+[2015/12/14 19:24:30] <Tobbi> leper`: SuperTux is not a great present...
+[2015/12/14 19:24:41] <leper`> future :P
