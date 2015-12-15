@@ -22607,3 +22607,9 @@
 [2015/12/15 13:06:04] <brmbrmcar> But where could it be made esier?
 [2015/12/15 13:40:27] <maths22> leyyin: I have to agree about the topic
 [2015/12/15 13:42:10] <leyyin> thanks maths22, I just got electrocuted at my usb 3 port because of you ;)
+[2015/12/15 14:00:47] @ Tobbi joined channel #supertux
+[2015/12/15 14:00:47] @ Mode +o Tobbi by ChanServ
+[2015/12/15 14:04:12] <Tobbi> leyyin: Getting electrocuted is fun. I do it all the time.
+[2015/12/15 14:04:23] <Tobbi> uhm...actually...
+[2015/12/15 14:13:47] @ Quit: grumbel: Quit: Ex-Chat
+[2015/12/15 14:14:57] <brmbrmcar> I like the electric.
