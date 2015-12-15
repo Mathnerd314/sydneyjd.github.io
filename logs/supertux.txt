@@ -22248,3 +22248,14 @@
 [2015/12/14 18:31:44] @ Quit: alket: Quit: Good Night :)
 [2015/12/14 18:39:53] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/14 18:56:53] @ Quit: swift110: Ping timeout: 240 seconds
+[2015/12/14 19:00:59] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/12/14 19:04:05] @ Tobbi joined channel #supertux
+[2015/12/14 19:04:10] @ Mode +o Tobbi by ChanServ
+[2015/12/14 19:05:40] <maths22> Tobbi: I'll fix the Travis issue soon-it is because pull requests don't have permission to "unlock" the ssh key
+[2015/12/14 19:05:50] <Tobbi> ah!
+[2015/12/14 19:06:05] <Tobbi> maths22: Sounds good. The builds are ready for release right?
+[2015/12/14 19:06:34] <Tobbi> I mean: The build environment etc. is ready...
+[2015/12/14 19:07:29] <maths22> Yep.  Only fix is automatic building of tarballs (I can do that manually if I need to, but I should get it fixed today)
+[2015/12/14 19:08:27] <Tobbi> Alright.
+[2015/12/14 19:08:43] <Tobbi> Next sunday...
+[2015/12/14 19:10:36] <leper`> wheeee
