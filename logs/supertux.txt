@@ -22693,3 +22693,26 @@
 [2015/12/15 16:14:37] <brmbrmcar> I don't know any Python.
 [2015/12/15 16:14:44] <leyyin> You are like the John Snow of computers Tobbi
 [2015/12/15 16:14:56] <brmbrmcar> I mean, I could learn it quickly, when seeing it.
+[2015/12/15 16:15:14] <brmbrmcar> I dn't really know C either, but I can use it.
+[2015/12/15 16:15:16] <Tobbi> leyyin: Do you have a ping on "I don't know anything about computers"?
+[2015/12/15 16:15:23] <Tobbi> leyyin: Besides, this one? https://en.wikipedia.org/wiki/John_Snow_%28physician%29
+[2015/12/15 16:15:43] <leyyin> from game of thrones dude
+[2015/12/15 16:15:46] <Tobbi> Ah,
+[2015/12/15 16:15:47] <leyyin> Tobbi, I call it faith :D
+[2015/12/15 16:16:10] <Tobbi> leyyin: I am not that much into game of thrones...
+[2015/12/15 16:16:11] @ tux|dude joined channel #supertux
+[2015/12/15 16:16:40] <Tobbi> I have never actually watched it...nor do I remember anything of it...
+[2015/12/15 16:16:44] <Tobbi> Actually...
+[2015/12/15 16:18:31] <Tobbi> leyyin: You know, In my free time I like to develop marten with latent fluorescent abilities
+[2015/12/15 16:19:13] <leyyin> whut?
+[2015/12/15 16:19:18] <Tobbi> yup.
+[2015/12/15 16:20:00] <Tobbi> leyyin: This, just fluorescing http://bilder.t-online.de/b/63/03/28/70/id_63032870/610/tid_da/marder-sind-jetzt-wieder-aktiv-so-schuetzen-sie-ihr-auto-vor-schaeden.jpg
+[2015/12/15 16:20:30] <Poino> what you do with the animal?
+[2015/12/15 16:20:45] @ Karkus joined channel #supertux
+[2015/12/15 16:21:12] <Poino> hi
+[2015/12/15 16:21:41] <Tobbi> Poino: It's a joke...
+[2015/12/15 16:21:43] <Tobbi> more or less.
+[2015/12/15 16:21:52] <Poino> what do u mena
+[2015/12/15 16:21:54] <Poino> mean*
+[2015/12/15 16:22:07] <Tobbi> Poino: Just never mind.
+[2015/12/15 16:22:32] <Poino> ... ok
