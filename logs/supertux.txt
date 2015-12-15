@@ -22266,3 +22266,8 @@
 [2015/12/14 19:23:47] <leper`> first you tell me about great presents and then you tell me to relax
 [2015/12/14 19:24:30] <Tobbi> leper`: SuperTux is not a great present...
 [2015/12/14 19:24:41] <leper`> future :P
+[2015/12/14 19:31:49] <Tobbi> leper`: future?
+[2015/12/14 19:33:52] <leper`> present, future
+[2015/12/14 19:36:50] @ Quit: jesusalva: Ping timeout: 272 seconds
+[2015/12/14 19:44:18] <Tobbi> ah :D
+[2015/12/14 19:44:31] <Tobbi> leper`: That was such a bad pun I didn't even get it.
