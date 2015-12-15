@@ -22277,3 +22277,4 @@
 [2015/12/14 20:28:14] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/14 22:58:15] @ Quit: irungentoo: Remote host closed the connection
 [2015/12/14 22:58:19] @ Quit: tuxdude143: Quit: Leaving
+[2015/12/15 00:41:16] @ tux|dude joined channel #supertux
