@@ -22605,3 +22605,5 @@
 [2015/12/15 13:05:24] <Karkus> The problem with your level is that it's not particularly fun. You've got lots of features, but it's just plain difficult
 [2015/12/15 13:05:54] <brmbrmcar> I thought it was much easier than  a lot of levels in IncubaterIsland.
 [2015/12/15 13:06:04] <brmbrmcar> But where could it be made esier?
+[2015/12/15 13:40:27] <maths22> leyyin: I have to agree about the topic
+[2015/12/15 13:42:10] <leyyin> thanks maths22, I just got electrocuted at my usb 3 port because of you ;)
