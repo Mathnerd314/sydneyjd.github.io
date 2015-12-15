@@ -22619,3 +22619,5 @@
 [2015/12/15 14:20:03] <Tobbi> :D
 [2015/12/15 14:20:11] <Tobbi> SensorTux
 [2015/12/15 14:25:21] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/15 14:43:32] @ Quit: Karkus: Ping timeout: 256 seconds
+[2015/12/15 14:44:03] @ Quit: brmbrmcar: Quit: Found Terminal
