@@ -22291,3 +22291,5 @@
 [2015/12/15 04:13:16] @ Tobbi joined channel #supertux
 [2015/12/15 04:13:16] @ Mode +o Tobbi by ChanServ
 [2015/12/15 04:40:19] @ leyyin joined channel #supertux
+[2015/12/15 05:01:17] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/15 05:07:10] @ Quit: VargaD: Ping timeout: 260 seconds
