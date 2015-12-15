@@ -22334,3 +22334,20 @@
 [2015/12/15 10:14:37] <Tobbi> ...or does it need to be linux?
 [2015/12/15 10:14:46] <maths22> Any OS
 [2015/12/15 10:14:56] <Tobbi> ok.
+[2015/12/15 10:15:42] <Tobbi> holy...that download is fast...
+[2015/12/15 10:18:11] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/116
+[2015/12/15 10:18:37] <head8debian> Tobbi: Do it when you want to do it.
+[2015/12/15 10:18:58] <Tobbi> head8debian: Okay, I'll give them some time...will probably do it on Saturday...
+[2015/12/15 10:19:11] <head8debian> jesusalva: Good morning.
+[2015/12/15 10:19:14] <Tobbi> head8debian: I'd rather giby did it because he knows which languages to integrate and which not.
+[2015/12/15 10:19:24] <jesusalva> good afternoon head8debian
+[2015/12/15 10:19:31] <head8debian> Tobbi: Hopefully he shows up soon.
+[2015/12/15 10:19:34] <Tobbi> Yup.
+[2015/12/15 10:19:51] <jesusalva> Call him on facebook?
+[2015/12/15 10:20:07] * jesusalva wants to resume his lunch since it's 13:00.
+[2015/12/15 10:20:16] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/96993958
+[2015/12/15 10:21:32] <Tobbi> No it's not.
+[2015/12/15 10:22:21] <head8debian> jesusalva: :)
+[2015/12/15 10:22:37] <jesusalva> Tobbi: Correct your clock then.
+[2015/12/15 10:22:42] <Tobbi> :P
+[2015/12/15 10:25:55] <head8debian> :D
