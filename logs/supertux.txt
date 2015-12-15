@@ -22621,3 +22621,7 @@
 [2015/12/15 14:25:21] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/15 14:43:32] @ Quit: Karkus: Ping timeout: 256 seconds
 [2015/12/15 14:44:03] @ Quit: brmbrmcar: Quit: Found Terminal
+[2015/12/15 14:47:55] @ brmbrmcar joined channel #supertux
+[2015/12/15 14:48:43] <brmbrmcar> That should have been"Found terminal".
+[2015/12/15 14:51:05] @ Tobbi joined channel #supertux
+[2015/12/15 14:51:06] @ Mode +o Tobbi by ChanServ
