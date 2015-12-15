@@ -22351,3 +22351,48 @@
 [2015/12/15 10:22:37] <jesusalva> Tobbi: Correct your clock then.
 [2015/12/15 10:22:42] <Tobbi> :P
 [2015/12/15 10:25:55] <head8debian> :D
+[2015/12/15 10:33:06] <Tobbi> head8debian: Do we need what that guy offers us? A host?
+[2015/12/15 10:33:21] <Tobbi> aka webhost...
+[2015/12/15 10:34:37] <brmbrmcar> My ping didn't time out?
+[2015/12/15 10:36:00] <head8debian> Tobbi: Hmm?
+[2015/12/15 10:36:08] <brmbrmcar> Will it wok on linux that file?
+[2015/12/15 10:36:23] <Tobbi> head8debian: https://github.com/SuperTux/supertux/issues/266
+[2015/12/15 10:36:32] <Tobbi> oh, you replied
+[2015/12/15 10:38:03] <maths22> Tobbi: We don't need a webhost (If we move anything off of github, we have my server that is already hosting download)
+[2015/12/15 10:38:16] <Tobbi> maths22: Good.
+[2015/12/15 10:38:22] <Tobbi> So, maybe we should close that :P
+[2015/12/15 10:38:42] <head8debian> Tobbi: I dont think we need another hosting solution...
+[2015/12/15 10:38:43] <maths22> brmbrmcar: What file?
+[2015/12/15 10:38:51] <maths22> head8debian: I agree.
+[2015/12/15 10:38:53] <brmbrmcar> The tar.gz one.
+[2015/12/15 10:39:10] <Tobbi> head8debian: brmbrmcar updated the info in the English supertux article on wikipedia.
+[2015/12/15 10:39:14] <maths22> brmbrmcar: It should.  It is just the sources, so you would still need to compile it
+[2015/12/15 10:39:15] <brmbrmcar> Do you have to build it the same way as the source code?
+[2015/12/15 10:39:24] <brmbrmcar> :(
+[2015/12/15 10:39:55] <maths22> brmbrmcar: Yes.  I haven't yet had a chance to fix up open build service
+[2015/12/15 10:39:59] <brmbrmcar>  /topic 5 days
+[2015/12/15 10:40:02] <maths22> brmbrmcar: Why can't you build from source?
+[2015/12/15 10:40:17] @ grumbel joined channel #supertux
+[2015/12/15 10:40:17] @ Mode +o grumbel by ChanServ
+[2015/12/15 10:40:48] <brmbrmcar> All the different dependencies always have a problem, and I'm too low on disk dspace to try loads of things out. :(
+[2015/12/15 10:40:55] @ Tobbi set topic "5 days until 0.4.0! | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | Travis: https://travis-ci.org/SuperTux/supertux | mailing list: supertux-devel@lists.lethargik.org | Channel log http://sydneyjd.github.io/logs/ | nightly builds http://download.supertuxproject.org/download/"
+[2015/12/15 10:40:58] <maths22> brmbrmcar: OK
+[2015/12/15 10:41:26] <maths22> Tobbi: At release time, we will have windows and os x binaries, and an official tarball
+[2015/12/15 10:41:27] <brmbrmcar> I think things should be moving off github, not on to it.
+[2015/12/15 10:41:33] <Tobbi> maths22: Sounds good.
+[2015/12/15 10:41:58] <maths22> Official release binaries for the linuxes should be done per distro
+[2015/12/15 10:41:59] <brmbrmcar> Will there be stuff in the repos for Linux distros?
+[2015/12/15 10:42:11] <brmbrmcar> Oh, just been answered.
+[2015/12/15 10:42:14] <maths22> (I do hope to have OBS going for git builds sometime after 0.4.0 comes out)
+[2015/12/15 10:42:53] <Tobbi> :)
+[2015/12/15 10:43:08] <Tobbi> I just hope that people won't find it too difficult to install language packs.
+[2015/12/15 10:43:18] <Tobbi> I *hope* that this won't be overlooked.
+[2015/12/15 10:43:48] <Tobbi> People might assume that since the game is already translated, they don't need to install language packs.
+[2015/12/15 10:44:09] <jesusalva> Exactly.
+[2015/12/15 10:44:10] <maths22> Tobbi: We need to add clearer documentation that language packs are for translating addons
+[2015/12/15 10:44:20] <maths22> I don't think that that is currently obvious
+[2015/12/15 10:44:21] <Tobbi> maths22: Yeah, but where?
+[2015/12/15 10:44:29] <head8debian> brmbrmcar: Distros will compile supertux for their repos once 4.0 is released.
+[2015/12/15 10:44:36] <maths22> Tobbi: I have no idea
+[2015/12/15 10:44:41] <Tobbi> hmm...
+[2015/12/15 10:44:45] <maths22> I was hoping someone else had a good idea
