@@ -22823,3 +22823,12 @@
 [2015/12/16 12:21:42] @ Quit: Karkus: Ping timeout: 240 seconds
 [2015/12/16 12:25:11] <Tobbi> brmbrmcar: You're not sour either.
 [2015/12/16 12:27:32] @ Quit: Jesusaves: Quit: Good bye, God bless you.
+[2015/12/16 12:31:01] @ Karkus joined channel #supertux
+[2015/12/16 12:33:07] <brmbrmcar> Sour?
+[2015/12/16 12:33:09] <Tobbi> Not Jesusalva anymore.
+[2015/12/16 12:35:20] <Karkus> Tobbi: You can still change the website from GitHub, right?
+[2015/12/16 12:35:34] <Tobbi> Karkus: I assume so.
+[2015/12/16 12:36:10] <Karkus> Tobbi: Okay, good.
+[2015/12/16 12:37:38] <leyyin> âățșî
+[2015/12/16 12:37:46] <leyyin> ups, wrong channel
+[2015/12/16 12:44:32] <Tobbi> lol
