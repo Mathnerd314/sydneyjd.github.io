@@ -22850,3 +22850,5 @@
 [2015/12/16 13:08:50] <mt> now join some big channels and /ame that
 [2015/12/16 13:09:32] <mt> afk CTCP actions/nick changes are considered bad practice; there's /away
 [2015/12/16 13:11:51] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/16 13:20:49] * Karkus test
+[2015/12/16 13:25:02] @ Quit: tuxdev_: Ping timeout: 260 seconds
