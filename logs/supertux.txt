@@ -22749,3 +22749,5 @@
 [2015/12/15 19:24:30] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#266: Website - 13http://git.io/v0oAm
 [2015/12/15 19:36:22] @ Quit: jesusalva: Ping timeout: 240 seconds
 [2015/12/15 19:53:30] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/15 20:05:45] @ Tobbi joined channel #supertux
+[2015/12/15 20:05:45] @ Mode +o Tobbi by ChanServ
