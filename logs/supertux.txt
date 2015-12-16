@@ -22776,3 +22776,13 @@
 [2015/12/16 10:21:56] @ tuxdev_ joined channel #supertux
 [2015/12/16 10:38:09] @ brmbrmcar joined channel #supertux
 [2015/12/16 10:38:26] <brmbrmcar>  /topic 4 days
+[2015/12/16 10:46:16] <mt> brmbrmcar: it's getting annoying
+[2015/12/16 10:46:32] <brmbrmcar> OK.
+[2015/12/16 10:46:37] <mt> people will update it when they have time to do that
+[2015/12/16 10:49:05] <mt> @all, re #266: if it's something we could host on github and if it will use modern web technologies (incl. responsive design), we could consider that after having seen a mockup oslt
+[2015/12/16 10:51:42] @ Poino joined channel #supertux
+[2015/12/16 10:51:57] @ ignacio_ joined channel #supertux
+[2015/12/16 10:52:21] @ ignacio_ is now known as Guest17675
+[2015/12/16 10:53:24] @ Jesusaves joined channel #supertux
+[2015/12/16 10:53:32] <Poino> :S
+[2015/12/16 10:55:32] @ Quit: jesusalva: Ping timeout: 240 seconds
