@@ -22745,3 +22745,4 @@
 [2015/12/15 18:15:22] @ Karkus joined channel #supertux
 [2015/12/15 18:16:12] <Not-e81f> [02flexlay] 07Karkus476 commented on issue 03#42: Speed up rendering of tilemaps - 13http://git.io/v0ooB
 [2015/12/15 18:29:53] @ Quit: alket: Quit: Good Night :)
+[2015/12/15 19:06:55] @ Quit: Karkus: Quit: Division By Zero
