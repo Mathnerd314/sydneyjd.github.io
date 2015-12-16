@@ -22881,3 +22881,6 @@
 [2015/12/16 15:59:15] @ Quit: claymore2: Ping timeout: 265 seconds
 [2015/12/16 15:59:39] @ Quit: swift110: Changing host
 [2015/12/16 15:59:39] @ swift110 joined channel #supertux
+[2015/12/16 16:04:09] @ datahead8888 joined channel #supertux
+[2015/12/16 16:08:55] @ Quit: datahead8888: Ping timeout: 265 seconds
+[2015/12/16 16:15:00] @ tux|dude joined channel #supertux
