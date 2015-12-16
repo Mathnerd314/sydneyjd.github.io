@@ -22891,3 +22891,5 @@
 [2015/12/16 16:40:13] @ Quit: datahead8888: Read error: Connection timed out
 [2015/12/16 16:40:37] @ datahead8888 joined channel #supertux
 [2015/12/16 16:44:11] @ Quit: tux|dude: Quit: Leaving
+[2015/12/16 16:48:17] @ datahead8888 is now known as datahead7777
+[2015/12/16 16:50:40] @ ced117 joined channel #supertux
