@@ -22755,3 +22755,4 @@
 [2015/12/15 20:55:11] @ Quit: swift110: Ping timeout: 240 seconds
 [2015/12/15 21:42:37] @ bb010g joined channel #supertux
 [2015/12/15 22:02:25] @ tuxdev_ joined channel #supertux
+[2015/12/15 23:28:59] @ Quit: irungentoo: Remote host closed the connection
