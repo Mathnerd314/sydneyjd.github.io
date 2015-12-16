@@ -22795,3 +22795,23 @@
 [2015/12/16 11:57:48] @ Mode +o Tobbi by ChanServ
 [2015/12/16 11:58:22] @ Quit: Karkus: Ping timeout: 240 seconds
 [2015/12/16 11:59:44] @ Karkus joined channel #supertux
+[2015/12/16 12:00:56] @ alket joined channel #supertux
+[2015/12/16 12:01:53] <Karkus> Toobi: https://github.com/SuperTux/supertux/issues/266
+[2015/12/16 12:02:04] <Karkus> Tobbi: ^
+[2015/12/16 12:02:45] <Tobbi> Karkus: What about it?
+[2015/12/16 12:03:15] <Karkus> Tobbi: Well, what do you think?
+[2015/12/16 12:04:02] @ brmbrmcar joined channel #supertux
+[2015/12/16 12:04:06] <Tobbi> Karkus: I am not sure. It's great. But we have everything we need (paid for / hosted by maths22  )
+[2015/12/16 12:06:25] @ Drangue joined channel #supertux
+[2015/12/16 12:07:00] <Karkus> Tobbi: Is maths22 hosting anything other than the downloads? I agree, I guess. We could explain this to him. He could design a site if he wanted, but we want to host it on github.
+[2015/12/16 12:07:22] <Tobbi> Karkus: Isn't the github one just a redirect right now?
+[2015/12/16 12:07:49] <Karkus> supertuxproject.org redirects to supertux.github.io, no?
+[2015/12/16 12:08:32] @ Quit: alket: Ping timeout: 240 seconds
+[2015/12/16 12:08:37] <Tobbi> Karkus: I honestly don't know.
+[2015/12/16 12:08:47] <brmbrmcar> It doesn't.
+[2015/12/16 12:12:11] <Karkus> brmbrmcar: How do you know?
+[2015/12/16 12:12:47] <brmbrmcar> Look in the URL.
+[2015/12/16 12:12:59] <brmbrmcar> It never redirects, it is a copy.
+[2015/12/16 12:13:18] @ Drangue is now known as alket
+[2015/12/16 12:13:39] <Karkus> If you type in supertux.github.io it changes to supertuxproject.org
+[2015/12/16 12:13:42] <Karkus> https://github.com/SuperTux/SuperTux.github.io/commit/deb372ff0619927bb86f15a3b78fba1a414c57ce
