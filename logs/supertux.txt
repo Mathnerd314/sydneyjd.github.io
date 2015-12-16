@@ -22859,3 +22859,11 @@
 [2015/12/16 14:05:58] <brmbrmcar> It's creepy how any owner can edit your comments.
 [2015/12/16 14:09:41] @ Quit: Hume2: Quit: Page closed
 [2015/12/16 14:14:48] @ Quit: brmbrmcar: Ping timeout: 240 seconds
+[2015/12/16 14:15:59] @ brmbrmcar joined channel #supertux
+[2015/12/16 14:16:28] <brmbrmcar> I've found a tiny bug in Into the Stars.
+[2015/12/16 14:21:43] @ brmbrmca1 joined channel #supertux
+[2015/12/16 14:23:45] <Karkus> brmbrmcar: You have? What is it.
+[2015/12/16 14:24:21] <Karkus> brmbrmcar: I was trying to keep the amount of scrolling to a minimum. I will never edit without leaving a message which says I have
+[2015/12/16 14:24:39] @ Quit: brmbrmcar: Ping timeout: 255 seconds
+[2015/12/16 14:24:50] <brmbrmca1> Parts of the snow are in foreground, and between two sets of blocks it looks horrible.
+[2015/12/16 14:25:03] @ brmbrmca1 is now known as brmbrmcar
