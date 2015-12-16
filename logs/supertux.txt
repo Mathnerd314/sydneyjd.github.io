@@ -22893,3 +22893,5 @@
 [2015/12/16 16:44:11] @ Quit: tux|dude: Quit: Leaving
 [2015/12/16 16:48:17] @ datahead8888 is now known as datahead7777
 [2015/12/16 16:50:40] @ ced117 joined channel #supertux
+[2015/12/16 17:10:46] @ Quit: datahead7777: Ping timeout: 256 seconds
+[2015/12/16 17:12:00] @ datahead8888 joined channel #supertux
