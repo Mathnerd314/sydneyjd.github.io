@@ -22899,3 +22899,8 @@
 [2015/12/16 17:51:09] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/12/16 17:54:08] @ datahead8888 joined channel #supertux
 [2015/12/16 18:00:39] @ Quit: datahead8888: Ping timeout: 255 seconds
+[2015/12/16 18:17:34] @ datahead8888 joined channel #supertux
+[2015/12/16 18:23:26] @ datahead8888_ joined channel #supertux
+[2015/12/16 18:25:42] @ Quit: datahead8888: Ping timeout: 240 seconds
+[2015/12/16 18:27:17] @ datahead8888 joined channel #supertux
+[2015/12/16 18:28:07] @ Quit: datahead8888_: Ping timeout: 265 seconds
