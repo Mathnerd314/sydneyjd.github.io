@@ -22854,3 +22854,8 @@
 [2015/12/16 13:25:02] @ Quit: tuxdev_: Ping timeout: 260 seconds
 [2015/12/16 13:44:58] @ datahead8888 joined channel #supertux
 [2015/12/16 13:57:52] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#234: Making Tux air or earth on death displays hat - 13http://git.io/v0MGP
+[2015/12/16 14:03:04] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#258: Ice, air and earth Christmas hats - 13http://git.io/v0Mn7
+[2015/12/16 14:04:01] @ claymore2 joined channel #supertux
+[2015/12/16 14:05:58] <brmbrmcar> It's creepy how any owner can edit your comments.
+[2015/12/16 14:09:41] @ Quit: Hume2: Quit: Page closed
+[2015/12/16 14:14:48] @ Quit: brmbrmcar: Ping timeout: 240 seconds
