@@ -22786,3 +22786,6 @@
 [2015/12/16 10:53:24] @ Jesusaves joined channel #supertux
 [2015/12/16 10:53:32] <Poino> :S
 [2015/12/16 10:55:32] @ Quit: jesusalva: Ping timeout: 240 seconds
+[2015/12/16 11:07:35] <Poino> :S
+[2015/12/16 11:07:41] @ Quit: Poino: Quit: Page closed
+[2015/12/16 11:13:52] @ Quit: datahead7777: Ping timeout: 240 seconds
