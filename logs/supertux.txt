@@ -22766,3 +22766,7 @@
 [2015/12/16 06:25:58] @ Tobbi joined channel #supertux
 [2015/12/16 06:25:59] @ Mode +o Tobbi by ChanServ
 [2015/12/16 06:36:03] <Not-e81f> [02supertux] 07symvizan commented on issue 03#266: Website - 13http://git.io/v0iiG
+[2015/12/16 07:46:02] @ Quit: Tobbi: Ping timeout: 246 seconds
+[2015/12/16 07:53:35] @ Tobbi joined channel #supertux
+[2015/12/16 07:53:36] @ Mode +o Tobbi by ChanServ
+[2015/12/16 07:57:56] @ Quit: Tobbi: Remote host closed the connection
