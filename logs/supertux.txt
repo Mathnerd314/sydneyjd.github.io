@@ -22895,3 +22895,4 @@
 [2015/12/16 16:50:40] @ ced117 joined channel #supertux
 [2015/12/16 17:10:46] @ Quit: datahead7777: Ping timeout: 256 seconds
 [2015/12/16 17:12:00] @ datahead8888 joined channel #supertux
+[2015/12/16 17:16:35] @ Quit: datahead8888: Ping timeout: 265 seconds
