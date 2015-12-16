@@ -22884,3 +22884,10 @@
 [2015/12/16 16:04:09] @ datahead8888 joined channel #supertux
 [2015/12/16 16:08:55] @ Quit: datahead8888: Ping timeout: 265 seconds
 [2015/12/16 16:15:00] @ tux|dude joined channel #supertux
+[2015/12/16 16:30:18] @ datahead8888 joined channel #supertux
+[2015/12/16 16:35:03] @ Quit: leper`: Ping timeout: 260 seconds
+[2015/12/16 16:38:36] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/12/16 16:40:06] @ leper` joined channel #supertux
+[2015/12/16 16:40:13] @ Quit: datahead8888: Read error: Connection timed out
+[2015/12/16 16:40:37] @ datahead8888 joined channel #supertux
+[2015/12/16 16:44:11] @ Quit: tux|dude: Quit: Leaving
