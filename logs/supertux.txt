@@ -22876,3 +22876,8 @@
 [2015/12/16 15:24:03] <Karkus> maths22: Well, it keeps things together and we can rely on GitHub
 [2015/12/16 15:26:39] @ brmbrmcar joined channel #supertux
 [2015/12/16 15:32:37] @ Quit: brmbrmcar: Quit: Found terminal
+[2015/12/16 15:49:15] @ Quit: datahead7777: Ping timeout: 272 seconds
+[2015/12/16 15:56:57] @ swift110 joined channel #supertux
+[2015/12/16 15:59:15] @ Quit: claymore2: Ping timeout: 265 seconds
+[2015/12/16 15:59:39] @ Quit: swift110: Changing host
+[2015/12/16 15:59:39] @ swift110 joined channel #supertux
