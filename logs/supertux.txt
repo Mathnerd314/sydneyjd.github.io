@@ -22756,3 +22756,4 @@
 [2015/12/15 21:42:37] @ bb010g joined channel #supertux
 [2015/12/15 22:02:25] @ tuxdev_ joined channel #supertux
 [2015/12/15 23:28:59] @ Quit: irungentoo: Remote host closed the connection
+[2015/12/16 02:24:16] @ Quit: tuxdev_: Ping timeout: 272 seconds
