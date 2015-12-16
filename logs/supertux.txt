@@ -22759,3 +22759,4 @@
 [2015/12/16 02:24:16] @ Quit: tuxdev_: Ping timeout: 272 seconds
 [2015/12/16 03:46:16] @ joserebelo joined channel #supertux
 [2015/12/16 03:50:27] @ Quit: joserebelo: Ping timeout: 252 seconds
+[2015/12/16 04:37:15] @ Quit: tux|dude: Quit: Leaving
