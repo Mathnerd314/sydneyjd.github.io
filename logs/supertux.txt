@@ -22815,3 +22815,11 @@
 [2015/12/16 12:13:18] @ Drangue is now known as alket
 [2015/12/16 12:13:39] <Karkus> If you type in supertux.github.io it changes to supertuxproject.org
 [2015/12/16 12:13:42] <Karkus> https://github.com/SuperTux/SuperTux.github.io/commit/deb372ff0619927bb86f15a3b78fba1a414c57ce
+[2015/12/16 12:17:09] <Karkus> brmbrmcar: I didn't mean redirects. I meant supertuxproject.org is supertux.github.io
+[2015/12/16 12:17:56] <Tobbi> Nice.
+[2015/12/16 12:17:58] <Tobbi> Okay.
+[2015/12/16 12:19:17] <brmbrmcar> I'm not sure, then.
+[2015/12/16 12:21:09] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2015/12/16 12:21:42] @ Quit: Karkus: Ping timeout: 240 seconds
+[2015/12/16 12:25:11] <Tobbi> brmbrmcar: You're not sour either.
+[2015/12/16 12:27:32] @ Quit: Jesusaves: Quit: Good bye, God bless you.
