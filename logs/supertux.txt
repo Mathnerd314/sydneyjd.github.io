@@ -22875,3 +22875,4 @@
 [2015/12/16 15:18:59] @ bb010g joined channel #supertux
 [2015/12/16 15:24:03] <Karkus> maths22: Well, it keeps things together and we can rely on GitHub
 [2015/12/16 15:26:39] @ brmbrmcar joined channel #supertux
+[2015/12/16 15:32:37] @ Quit: brmbrmcar: Quit: Found terminal
