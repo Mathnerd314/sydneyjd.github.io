@@ -22832,3 +22832,16 @@
 [2015/12/16 12:37:38] <leyyin> âățșî
 [2015/12/16 12:37:46] <leyyin> ups, wrong channel
 [2015/12/16 12:44:32] <Tobbi> lol
+[2015/12/16 12:50:32] @ Hume2 joined channel #supertux
+[2015/12/16 12:50:51] <Hume2> Hello.
+[2015/12/16 12:53:12] <brmbrmcar> Hi.
+[2015/12/16 12:55:00] <Hume2> brmbrmcar: What are the modern JS-no info websites? Aren't they the websites those scroll up and down and without links?
+[2015/12/16 12:56:05] <Hume2> Like linked all the pages to one super long page with a dizy background?
+[2015/12/16 12:56:50] <brmbrmcar> I haven't a clue.
+[2015/12/16 12:57:02] <brmbrmcar> Hi./join oswars
+[2015/12/16 12:57:15] <brmbrmcar> Flip.
+[2015/12/16 12:57:30] <Hume2> I'm in.
+[2015/12/16 12:57:44] <brmbrmcar> Oh, that;s fine...
+[2015/12/16 12:57:49] @ Quit: brmbrmcar: Quit: Lost terminal
+[2015/12/16 12:58:08] @ brmbrmcar joined channel #supertux
+[2015/12/16 12:59:06] @ Quit: Guest17675: Quit: Konversation terminated!
