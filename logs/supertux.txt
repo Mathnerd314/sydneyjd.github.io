@@ -23157,3 +23157,17 @@
 [2015/12/17 13:11:55] <Tobbi> Because that's what sometimes happens to me...
 [2015/12/17 13:13:14] <Tobbi> Karkus: You could get icons from openclipart.org if you want, anyway.
 [2015/12/17 13:13:51] @ Hume2 joined channel #supertux
+[2015/12/17 13:23:22] <Karkus> Tobbi: In the normal game?
+[2015/12/17 13:23:26] <Tobbi> Karkus: Yes.
+[2015/12/17 13:24:55] <Karkus> Tobbi: Well, on my (pretty sucky) laptop, the game sometimes freezes whenever a new asset is being loaded (eg when Hume's melt animation plays for the first time). I can't remember noticing it with checkpoints or particularly with sounds, though
+[2015/12/17 13:25:08] <Karkus> That's why I suggested
+[2015/12/17 13:25:12] <Karkus> spritesheets
+[2015/12/17 13:25:16] <Tobbi> Oh, yes.
+[2015/12/17 13:26:56] <Not-e81f> [02supertux] 07tobbi pushed 033 commits to 03master [+0/-0/±7] 13http://git.io/v07Bg
+[2015/12/17 13:26:57] <Not-e81f> [02supertux] 07Tobias Markus 033e3082e - [const correctness] mark is_playing const in all audio classes
+[2015/12/17 13:26:58] <Not-e81f> [02supertux] 07Tobias Markus 0332c85b3 - [const correctness] Mark paused() const
+[2015/12/17 13:27:00] <Not-e81f> [02supertux] 07Tobias Markus 03954a41c - [const correctness] Make methods inside sprite.hpp const
+[2015/12/17 13:27:02] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97509111
+[2015/12/17 13:27:03] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/118
+[2015/12/17 13:28:51] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97509111
+[2015/12/17 13:29:15] <Tobbi> head8debian: Basically, const correctness: If a method doesn't modify the state of the object in any way, it can be marked const.
