@@ -22955,3 +22955,5 @@
 [2015/12/17 08:40:39] <head8debian> leyyin: Nothing, thought i'd lighten your day.
 [2015/12/17 08:40:59] <leyyin> sigh, people
 [2015/12/17 08:41:13] <head8debian> leyyin: ?
+[2015/12/17 09:06:31] @ yao_ziyuan joined channel #supertux
+[2015/12/17 09:06:36] @ yao_ziyuan left channel #supertux ()
