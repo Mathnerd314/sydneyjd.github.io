@@ -23327,3 +23327,18 @@
 [2015/12/17 15:44:24] <Karkus> So all is well
 [2015/12/17 15:44:44] <Karkus> Pycharm didn't refactor right.
 [2015/12/17 15:44:56] <Karkus> I will quickly fix this
+[2015/12/17 15:48:55] <Not-e81f> [02flexlay] 07Karkus476 pushed 031 commit to 03develop [+0/-0/±2] 13http://git.io/v05ZT
+[2015/12/17 15:48:57] <Not-e81f> [02flexlay] 07Karkus 03261e657 - Refactors util.config references
+[2015/12/17 15:49:04] <Karkus> Tobbi: Can you try again?
+[2015/12/17 15:49:23] <Tobbi> one moment.
+[2015/12/17 15:49:56] <Karkus> Works now for me, of course.
+[2015/12/17 15:52:19] <Tobbi> yeah, works here as well.
+[2015/12/17 15:53:21] <Karkus> You should be able to test the layers :)
+[2015/12/17 15:53:30] <Tobbi> I'll try...everything is so slow.
+[2015/12/17 15:53:44] <Karkus> In the rendering?
+[2015/12/17 15:54:23] <Karkus> Tobbi: What do you mean?
+[2015/12/17 15:54:26] <Tobbi> Karkus: No starting.
+[2015/12/17 15:54:32] <Tobbi> But it's my computer, I assume.
+[2015/12/17 15:54:53] <Karkus> Tobbi: More than a second?
+[2015/12/17 15:55:06] <Tobbi> Karkus: Yes, but I am running macports upgrade, still...
+[2015/12/17 15:55:12] <Tobbi> I just restarted it.
