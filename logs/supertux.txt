@@ -22918,3 +22918,4 @@
 [2015/12/16 19:39:34] @ Mode +o Tobbi by ChanServ
 [2015/12/16 19:45:17] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/16 20:09:52] @ Quit: swift110: Ping timeout: 240 seconds
+[2015/12/16 20:47:55] @ tux|dude joined channel #supertux
