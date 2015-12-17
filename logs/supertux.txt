@@ -23402,3 +23402,48 @@
 [2015/12/17 16:25:41] <Karkus> terrain?
 [2015/12/17 16:28:33] <Tobbi> Karkus: Background gradients.
 [2015/12/17 16:28:40] <Tobbi> Karkus: Check the gradient test...
+[2015/12/17 16:30:13] <Tobbi> Karkus: http://supertux.lethargik.org/wiki/Changelog_0.4.0_%28WIP%29
+[2015/12/17 16:32:58] <Tobbi> Right, new bonus blocks...
+[2015/12/17 16:36:22] <Karkus> Yup
+[2015/12/17 16:36:37] <Karkus> Badguy and script bonus blocks
+[2015/12/17 16:37:35] <Karkus> restart level button
+[2015/12/17 16:37:53] <Karkus> Hume's new animations freeze and burn
+[2015/12/17 16:37:59] <Karkus> no, melt.
+[2015/12/17 16:38:00] <Tobbi> Yes.
+[2015/12/17 16:38:08] <Tobbi> General code quality...
+[2015/12/17 16:39:19] <Karkus> Tobbi: Jumpy sprite in forest levels (bah!)
+[2015/12/17 16:39:26] <Tobbi> hah, indeed.
+[2015/12/17 16:39:37] <head8debian> Are we ready?!?! :D
+[2015/12/17 16:39:49] <head8debian> Prelimenary tests? :D
+[2015/12/17 16:39:54] <Tobbi> head8debian: c'mon...relax...
+[2015/12/17 16:39:59] <Tobbi> still 3 days before release.
+[2015/12/17 16:40:25] <Karkus> head8debian: Yes, of course. Go ahead.
+[2015/12/17 16:40:28] <Karkus> :)
+[2015/12/17 16:40:29] <Tobbi> head8debian: Is SuperTux slow to startup for you?
+[2015/12/17 16:40:42] <Karkus> Mr Candle
+[2015/12/17 16:40:55] <head8debian> Tobbi: Like... uhm, i havent tested since this morning?
+[2015/12/17 16:40:58] <Tobbi> Oh, zyes.
+[2015/12/17 16:41:03] <Tobbi> head8debian: Doesn't matter.
+[2015/12/17 16:41:05] <Tobbi> Is it?
+[2015/12/17 16:41:16] <head8debian> Tobbi: It was then, just the first start.
+[2015/12/17 16:41:23] <Tobbi> hrm.
+[2015/12/17 16:41:27] <Tobbi> Okay, so it's my computer.
+[2015/12/17 16:41:30] <Tobbi> Reassuring somewhat.
+[2015/12/17 16:41:31] <head8debian> I will retry now.
+[2015/12/17 16:41:37] <head8debian> Tobbi: Whats wrong?
+[2015/12/17 16:41:44] <Tobbi> head8debian: I don't know.
+[2015/12/17 16:41:44] <Karkus> Tobbi: Try running any other games?
+[2015/12/17 16:41:50] <Tobbi> I will...
+[2015/12/17 16:41:59] <head8debian> ?
+[2015/12/17 16:41:59] <Tobbi> I will actually run through a profiler.
+[2015/12/17 16:42:11] <head8debian> HDD failing?
+[2015/12/17 16:42:22] <head8debian> ram being extra fast?
+[2015/12/17 16:42:32] * head8debian is confused...
+[2015/12/17 16:42:43] <Tobbi> :D
+[2015/12/17 16:42:48] <Tobbi> Probably HDD...
+[2015/12/17 16:43:03] <Karkus> Probably because you're on a Mac
+[2015/12/17 16:43:14] <Tobbi> Also, why would "--->  Staging webkit-gtk3 into destroot"  take so long?
+[2015/12/17 16:43:33] <head8debian> Macs are suprisingly slow to boot...At least the ones ive used.
+[2015/12/17 16:43:53] <Tobbi> Mine is fast at booting.
+[2015/12/17 16:44:36] <Karkus> Tobbi: What about nightly builds and new web address
+[2015/12/17 16:44:49] <Tobbi> Karkus: Yes, probably a side note :P
