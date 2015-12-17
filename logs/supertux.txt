@@ -22933,3 +22933,8 @@
 [2015/12/17 04:00:40] <Tobbi> Is it 4 days?
 [2015/12/17 04:00:43] <Tobbi> or 3 now?
 [2015/12/17 04:12:51] @ Quit: tux|dude: Quit: Leaving
+[2015/12/17 05:15:27] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/17 05:15:58] @ Tobbi joined channel #supertux
+[2015/12/17 05:15:58] @ Mode +o Tobbi by ChanServ
+[2015/12/17 05:17:22] @ leyyin joined channel #supertux
+[2015/12/17 05:20:33] @ Quit: Tobbi: Ping timeout: 272 seconds
