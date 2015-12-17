@@ -23108,3 +23108,20 @@
 [2015/12/17 12:28:01] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#267: Switch add-on verification hashing algorithm to something more appropriate - 13http://git.io/v07er
 [2015/12/17 12:28:03] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#267: Switch add-on verification hashing algorithm to something more appropriate - 13http://git.io/v07er
 [2015/12/17 12:29:39] <head8debian> Tobbi: Thinking out loud...
+[2015/12/17 12:30:04] <Tobbi> head8debian: If I had a brain, I'd do the same thing.
+[2015/12/17 12:30:09] <Tobbi> But I don't know anything about brains.
+[2015/12/17 12:30:11] <mt> there's other places where you can think out loud. like, /dev/null
+[2015/12/17 12:30:54] <head8debian> mt: Har har har.
+[2015/12/17 12:31:27] <head8debian> mt: I log it and put it in a file. :p
+[2015/12/17 12:33:44] <Tobbi> We should apply for an SSL certificate for supertuxproject.org
+[2015/12/17 12:34:52] <mt> https://letsencrypt.org/
+[2015/12/17 12:35:38] <Tobbi> mt: Exactly what I meant.
+[2015/12/17 12:35:46] <Tobbi> I just don't know enough about this.
+[2015/12/17 12:35:57] <Tobbi> maths22: maybe you could help?
+[2015/12/17 12:38:07] <mt> also, https://gethttpsforfree.com/ or https://github.com/diafygi/letsencrypt-nosudo if you don't want to use that letsencrypt-provided tool
+[2015/12/17 12:38:12] <mt> which requires root etc
+[2015/12/17 12:40:19] <Tobbi> I see...
+[2015/12/17 12:40:55] <head8debian> Tobbi: You can see? You *must* have a brain! :S
+[2015/12/17 12:40:57] <head8debian> D*
+[2015/12/17 12:41:04] <Tobbi> head8debian: Not necessarily...
+[2015/12/17 12:41:06] <Tobbi> :D
