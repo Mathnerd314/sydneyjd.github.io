@@ -23176,3 +23176,35 @@
 [2015/12/17 13:43:28] <Tobbi> Karkus: Yup...I am trying to switch some of the things in worldmap.cpp from pointer to ref...
 [2015/12/17 13:43:34] <Tobbi> Let's hope I don't break anything.
 [2015/12/17 13:43:52] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97509111
+[2015/12/17 13:45:48] <Karkus> Tobbi: Does running cmake automatically cause make to build everything again?
+[2015/12/17 13:45:58] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/118
+[2015/12/17 13:46:22] <Tobbi> Karkus: It shouldn't do that.
+[2015/12/17 13:46:27] <Tobbi> Only if you ran make clean
+[2015/12/17 13:46:36] <Tobbi> Or something else that deletes the previously compiled files.
+[2015/12/17 13:46:42] <Tobbi> or alters them.
+[2015/12/17 13:47:03] <Karkus> git reset --hard HEAD probably does that.
+[2015/12/17 13:47:07] <Karkus> That's why.
+[2015/12/17 13:47:42] <Karkus> I should probably run it only on the datadir. My testing with Flexlay always changes a few levels
+[2015/12/17 13:48:07] <Tobbi> hmm...
+[2015/12/17 13:50:38] <Tobbi> I
+[2015/12/17 13:50:43] <Tobbi> 'll test my modifications...
+[2015/12/17 13:50:48] <Tobbi> hrm.
+[2015/12/17 13:50:56] <Tobbi> Sometimes I don't understand what the people thought.
+[2015/12/17 13:50:59] <Tobbi> I wish grumbel was here.
+[2015/12/17 13:52:19] <Karkus> Tobbi: Surely if it works as const it should be const?
+[2015/12/17 13:52:32] <Karkus> But I suck at C++ :P
+[2015/12/17 13:52:47] <Tobbi> Karkus: Possibly... I am merely talking about pointers vs. refs.
+[2015/12/17 13:53:04] <Tobbi> I don't want to change a value that didn't need to be changed.
+[2015/12/17 13:53:11] <Karkus> Oh, yeah.
+[2015/12/17 13:54:05] <Hume2> I put some stuff to the thread for ideas.
+[2015/12/17 13:54:29] <Tobbi> SuperTux is so slow to start...
+[2015/12/17 13:55:09] <Hume2> What happened?
+[2015/12/17 13:55:25] <Tobbi> I don't know.
+[2015/12/17 13:55:30] <Tobbi> If I knew, I could figure it out.
+[2015/12/17 13:55:51] <Karkus> Tobbi: Slower than usual?
+[2015/12/17 13:56:03] <Tobbi> Karkus: No, it's actually been slow for days...
+[2015/12/17 13:57:01] <Karkus> hmmm... that's not good
+[2015/12/17 13:57:37] <Tobbi>  I'm actually compiling stuff on the side.
+[2015/12/17 13:57:41] <Tobbi> So maybe that's the cause.
+[2015/12/17 13:58:32] <Karkus> Maybe, I don't think I've noticed anything
+[2015/12/17 14:00:00] <Hume2> So we have three days until release, don't we?
