@@ -22938,3 +22938,6 @@
 [2015/12/17 05:15:58] @ Mode +o Tobbi by ChanServ
 [2015/12/17 05:17:22] @ leyyin joined channel #supertux
 [2015/12/17 05:20:33] @ Quit: Tobbi: Ping timeout: 272 seconds
+[2015/12/17 05:32:37] @ Tobbi joined channel #supertux
+[2015/12/17 05:32:37] @ Mode +o Tobbi by ChanServ
+[2015/12/17 05:42:37] @ Quit: ced117: Quit: Quitte
