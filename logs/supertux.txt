@@ -23559,3 +23559,8 @@
 [2015/12/17 17:33:49] @ tux|dude joined channel #supertux
 [2015/12/17 17:35:15] @ tuxdude143 joined channel #supertux
 [2015/12/17 17:38:09] @ Quit: tux|dude: Ping timeout: 246 seconds
+[2015/12/17 17:47:41] <Tobbi> head8debian: I don't get the loading issue.
+[2015/12/17 17:49:34] <head8debian> odd.
+[2015/12/17 17:50:30] <Tobbi> Maybe it'll load faster if I compile in release mode.
+[2015/12/17 17:51:45] @ Quit: Karkus: Quit: Division By Zero
+[2015/12/17 17:58:42] <Tobbi> maths22: I don't see a DMG background. Not sure if it's my setup or anything else...
