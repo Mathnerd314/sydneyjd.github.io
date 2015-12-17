@@ -23342,3 +23342,30 @@
 [2015/12/17 15:54:53] <Karkus> Tobbi: More than a second?
 [2015/12/17 15:55:06] <Tobbi> Karkus: Yes, but I am running macports upgrade, still...
 [2015/12/17 15:55:12] <Tobbi> I just restarted it.
+[2015/12/17 16:03:01] <Not-e81f> [02flexlay] 07Karkus476 pushed 0313 commits to 03text-editor [+5/-2/±148] 13http://git.io/v058L
+[2015/12/17 16:03:02] <Not-e81f> [02flexlay] 07Karkus 03124c484 - Allows user to change tileset Edit > Change Tileset
+[2015/12/17 16:03:04] <Not-e81f> [02flexlay] 07Tobias Markus 03438b4f6 - Default to using worldmap.strf for worldmap files
+[2015/12/17 16:03:05] <Not-e81f> [02flexlay] 07Tobias Markus 0329eccba - Set tileset automatically
+[2015/12/17 16:03:07] <Not-e81f> [02flexlay] ... and 10 more commits.
+[2015/12/17 16:08:00] <Karkus> Tobbi: Were ice, air and earth tux added before or after 0.3.6?
+[2015/12/17 16:08:22] <Tobbi> Karkus: ice has been added a long time ago. As for air and earth...uhm, lt me check.
+[2015/12/17 16:08:49] <Karkus> Tobbi: A long time ago, yet implemented in almost no levels!
+[2015/12/17 16:09:10] <Tobbi> Karkus: That's true...Because most ice island badguys simply don't react to it.
+[2015/12/17 16:09:20] <Karkus> Of course
+[2015/12/17 16:10:20] <Karkus> I think maybe some of the 'high up' levels in the ice island should feature Air tux, and maybe a cave level with Earth? Or are we saving them for later introduction?
+[2015/12/17 16:11:34] <Karkus> Tobbi: Just thinking what screenshots to add here http://supertux.lethargik.org/wiki/Screenshots#Supertux_0.4.0
+[2015/12/17 16:12:04] <Tobbi> Karkus: No, it's fine. We should add some levels...but we don't have enough time, I presume.
+[2015/12/17 16:12:25] <Karkus> Tobbi: Not now, of course
+[2015/12/17 16:12:30] <Tobbi> Karkus: Any new features we can showcast?
+[2015/12/17 16:12:57] <Karkus> Tobbi: I don't know. Very little while I've been around.
+[2015/12/17 16:13:10] <Karkus> Hume would probably remember better
+[2015/12/17 16:13:10] <Tobbi> Yes, that's true.
+[2015/12/17 16:13:17] <Tobbi> We should check git log.
+[2015/12/17 16:13:48] <Tobbi> Oh!
+[2015/12/17 16:13:51] <Karkus> Okay, I'll have a look. Quite a lot, though
+[2015/12/17 16:13:53] <Tobbi> Karkus: It's since 0.3.3
+[2015/12/17 16:14:06] <Tobbi> So maybe we should feature some of the new stuff since 0.3.3
+[2015/12/17 16:14:09] <Karkus> On the Wiki it is
+[2015/12/17 16:14:14] <Karkus> Tobbi: Certainly.
+[2015/12/17 16:14:33] <Tobbi> Karkus: Maybe gradients, language packs, etc.
+[2015/12/17 16:14:36] <Karkus> I don't think it's worth creating a new entry
