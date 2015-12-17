@@ -22926,3 +22926,5 @@
 [2015/12/16 23:25:25] @ tux|dude joined channel #supertux
 [2015/12/17 01:14:41] @ Quit: maths22: Read error: Connection reset by peer
 [2015/12/17 01:19:14] @ maths22 joined channel #supertux
+[2015/12/17 03:43:57] @ Tobbi joined channel #supertux
+[2015/12/17 03:43:57] @ Mode +o Tobbi by ChanServ
