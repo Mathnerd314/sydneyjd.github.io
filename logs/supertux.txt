@@ -23171,3 +23171,8 @@
 [2015/12/17 13:27:03] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/118
 [2015/12/17 13:28:51] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97509111
 [2015/12/17 13:29:15] <Tobbi> head8debian: Basically, const correctness: If a method doesn't modify the state of the object in any way, it can be marked const.
+[2015/12/17 13:40:49] <Tobbi> I wonder why we are passing some of that stuff by value instead of by ref....
+[2015/12/17 13:42:25] <Karkus> Pointers and references... *sigh*
+[2015/12/17 13:43:28] <Tobbi> Karkus: Yup...I am trying to switch some of the things in worldmap.cpp from pointer to ref...
+[2015/12/17 13:43:34] <Tobbi> Let's hope I don't break anything.
+[2015/12/17 13:43:52] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97509111
