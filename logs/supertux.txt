@@ -22946,3 +22946,5 @@
 [2015/12/17 06:44:22] @ Tobbi joined channel #supertux
 [2015/12/17 06:44:22] @ Mode +o Tobbi by ChanServ
 [2015/12/17 07:07:38] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/17 08:00:28] @ Tobbi joined channel #supertux
+[2015/12/17 08:00:28] @ Mode +o Tobbi by ChanServ
