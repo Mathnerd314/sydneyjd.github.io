@@ -22957,3 +22957,5 @@
 [2015/12/17 08:41:13] <head8debian> leyyin: ?
 [2015/12/17 09:06:31] @ yao_ziyuan joined channel #supertux
 [2015/12/17 09:06:36] @ yao_ziyuan left channel #supertux ()
+[2015/12/17 09:22:12] @ Quit: leyyin: Remote host closed the connection
+[2015/12/17 09:25:16] @ leyyin joined channel #supertux
