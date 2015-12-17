@@ -23278,3 +23278,28 @@
 [2015/12/17 15:12:27] @ Mode +o giby by ChanServ
 [2015/12/17 15:12:38] <giby> Hi
 [2015/12/17 15:14:55] <Tobbi> Hey giby.
+[2015/12/17 15:15:11] <giby> Tobbi, when is the release?
+[2015/12/17 15:15:16] <Tobbi> giby: On Sunday.
+[2015/12/17 15:15:37] <giby> Ok, I should update text then ;)
+[2015/12/17 15:15:43] <swift110> thats cool
+[2015/12/17 15:15:43] <Tobbi> giby: I've been wanting to ask you something: Which languages do we include in the game? Aka, from which percentage?
+[2015/12/17 15:16:00] <Tobbi> giby: Can you do it on Saturday? I'd rather give the localizers these 2 extra dazs.
+[2015/12/17 15:16:02] <Tobbi> days
+[2015/12/17 15:16:10] <giby> yes
+[2015/12/17 15:16:16] <Tobbi> If you don't have time on saturday, you can do it now.
+[2015/12/17 15:16:24] <Tobbi> Suit yourself.
+[2015/12/17 15:19:19] <giby> So, include when main menu is over 50%
+[2015/12/17 15:19:59] <Tobbi> giby: Okay...is that the rule you've been following?
+[2015/12/17 15:21:38] <giby> For dev version, everything was added to make it easier to manage ....
+[2015/12/17 15:22:14] <Tobbi> Ah, okay.
+[2015/12/17 15:22:22] <Tobbi> Yeah, but no.
+[2015/12/17 15:22:29] <Tobbi> 50% sounds good.
+[2015/12/17 15:23:32] <Tobbi> giby: Actually, main menu is the most important one. Can't we say "All locales which have main menu and world 1 translated will be included"?
+[2015/12/17 15:23:45] <Tobbi> The other worlds are not that important.
+[2015/12/17 15:24:18] <giby> main menu is important enough ;)
+[2015/12/17 15:24:29] <Karkus> Main menu + options etc. ?
+[2015/12/17 15:25:40] <Tobbi> Karkus: Oh, yes... That is all in one file.
+[2015/12/17 15:25:53] <Karkus> Ah, okay.
+[2015/12/17 15:26:31] <Tobbi> giby: Actually, you can update the translation files...and please make language add-ons out of the other things.
+[2015/12/17 15:26:38] <Tobbi> You know, that one script...
+[2015/12/17 15:29:58] <giby> update to Tx or from Tx?
