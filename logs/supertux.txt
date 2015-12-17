@@ -23079,3 +23079,8 @@
 [2015/12/17 11:52:07] <head8debian> Say a really dense javascript website, firefox will stutter through it, where chrome acts like its nothing
 [2015/12/17 11:53:59] <Tobbi> yup.
 [2015/12/17 11:59:16] <Tobbi> head8debian: What you can do is go through all the methods and tell me which of them need a const
+[2015/12/17 12:04:31] <head8debian> Tobbi: What?
+[2015/12/17 12:04:44] <Tobbi> head8debian: You know: Const correctness.
+[2015/12/17 12:04:54] <Tobbi> SuperTux has to be 100% const correct before the release.
+[2015/12/17 12:05:09] <head8debian> Tobbi: Heh.
+[2015/12/17 12:12:14] <Tobbi> head8debian: Should we switch to SHA-1 after the release for add-ons?
