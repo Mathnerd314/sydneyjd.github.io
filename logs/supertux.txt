@@ -23052,3 +23052,30 @@
 [2015/12/17 11:43:43] <Tobbi> iirc, it's the most common e-mail client in Germany.
 [2015/12/17 11:44:13] <head8debian> Tobbi: I personally love it.
 [2015/12/17 11:44:20] <Tobbi> head8debian: me, too.
+[2015/12/17 11:46:08] <Tobbi> head8debian: You know: It worked for LibreOffice, it might work for thunderbird, too...getting independent I mean.
+[2015/12/17 11:46:14] <head8debian> Tobbi: I love firefox as well... but it is quit slow.
+[2015/12/17 11:46:24] <head8debian> Tobbi: Libre office is awesome. :)
+[2015/12/17 11:46:27] <Tobbi> Yup, it is for me as well, somewhat.
+[2015/12/17 11:46:36] <head8debian> Tobbi: Maybe someone will fork firefox if they dont hand it over.
+[2015/12/17 11:46:37] <Tobbi> head8debian: I agree...and openoffice is stumbling along...
+[2015/12/17 11:46:49] <Tobbi> head8debian: They could, they just need to name it something else...
+[2015/12/17 11:46:54] <Tobbi> Also, the codebase is huge.
+[2015/12/17 11:46:57] <Tobbi> They need a lot of peopel.
+[2015/12/17 11:46:57] <head8debian> And it will become like Libre Office.
+[2015/12/17 11:47:01] <Tobbi> *people
+[2015/12/17 11:47:02] * head8debian nods...
+[2015/12/17 11:47:22] <head8debian> Tobbi: Open office is not doing the greatest i hear...
+[2015/12/17 11:47:39] <Tobbi> head8debian: It's still part of the Apache Foundation, isn't it?
+[2015/12/17 11:48:37] <head8debian> Tobbi: Yes, IIRC.
+[2015/12/17 11:48:51] <head8debian> Tobbi: Ive never used it, so i cannot say im helping much. :)
+[2015/12/17 11:49:04] <Tobbi> head8debian: I used it in the beginning, before it was forked...
+[2015/12/17 11:49:14] <Tobbi> And I have to admit, LibreOffice is much greater...
+[2015/12/17 11:49:49] <head8debian> Tobbi: I think Libre Office is quite nice, so ive never tried Open Office.
+[2015/12/17 11:50:57] <head8debian> Tobbi: I do have to admit that firefox is quite slow...
+[2015/12/17 11:51:12] <Tobbi> head8debian: Even without extensions?
+[2015/12/17 11:51:14] <head8debian> Tobbi: Not at laoding pages, but it just doesn't seem to handle resources well.
+[2015/12/17 11:51:19] <Tobbi> hmm...
+[2015/12/17 11:51:40] <head8debian> Ive noticed this on every machine ive installed it on thus far.
+[2015/12/17 11:52:07] <head8debian> Say a really dense javascript website, firefox will stutter through it, where chrome acts like its nothing
+[2015/12/17 11:53:59] <Tobbi> yup.
+[2015/12/17 11:59:16] <Tobbi> head8debian: What you can do is go through all the methods and tell me which of them need a const
