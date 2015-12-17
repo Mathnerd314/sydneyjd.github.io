@@ -22950,3 +22950,8 @@
 [2015/12/17 08:00:28] @ Mode +o Tobbi by ChanServ
 [2015/12/17 08:15:41] @ irungentoo joined channel #supertux
 [2015/12/17 08:25:43] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/17 08:40:11] <head8debian> leyyin: :D
+[2015/12/17 08:40:21] <leyyin> what?
+[2015/12/17 08:40:39] <head8debian> leyyin: Nothing, thought i'd lighten your day.
+[2015/12/17 08:40:59] <leyyin> sigh, people
+[2015/12/17 08:41:13] <head8debian> leyyin: ?
