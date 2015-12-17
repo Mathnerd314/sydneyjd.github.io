@@ -23225,3 +23225,33 @@
 [2015/12/17 14:26:23] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97521568
 [2015/12/17 14:26:24] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/120
 [2015/12/17 14:27:06] <Karkus> Tobbi: How's that?
+[2015/12/17 14:31:18] <Tobbi> Karkus: sounds good.
+[2015/12/17 14:32:50] <Tobbi> Karkus: I will probably migrate makepot.sh over to python.
+[2015/12/17 14:32:55] <Tobbi> Or have a different version of it.
+[2015/12/17 14:33:18] <Tobbi> Because shell is quite...annoying.
+[2015/12/17 14:33:38] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97521568
+[2015/12/17 14:35:12] <Karkus> Tobbi: Python 2, as it's included in most Linux distros
+[2015/12/17 14:37:19] @ swift110 joined channel #supertux
+[2015/12/17 14:37:32] <Tobbi> ok.
+[2015/12/17 14:37:52] <Tobbi> Karkus: I believe, I won't use any advanced features anyway.
+[2015/12/17 14:38:29] <Karkus> Well, of course
+[2015/12/17 14:38:51] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97521005
+[2015/12/17 14:38:52] @ Quit: swift110: Changing host
+[2015/12/17 14:38:53] @ swift110 joined channel #supertux
+[2015/12/17 14:39:24] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/119
+[2015/12/17 14:41:26] <Tobbi> Karkus: Now I know why I got confused about print "something" vs. print("something")...because it's new.
+[2015/12/17 14:41:32] <Tobbi> And I thought I'd remembered wrong.
+[2015/12/17 14:42:13] <Karkus> It mixed me up too. print("Hello World!") is 10 million times better in my opinion, though.
+[2015/12/17 14:42:32] <Tobbi> I don't have a preference for either...
+[2015/12/17 14:42:39] <Karkus> It works in Python 2 until you try multiple arguments
+[2015/12/17 14:43:06] @ claymore2 joined channel #supertux
+[2015/12/17 14:43:18] <Karkus> Tobbi: I just think that the connection should be made between print() and calling a function.
+[2015/12/17 14:43:27] <Tobbi> Ah, yes.
+[2015/12/17 14:43:30] <Tobbi> That's true.
+[2015/12/17 14:43:51] <swift110> hey all
+[2015/12/17 14:43:55] <Karkus> print "Hello" feels like a new construct altogether
+[2015/12/17 14:43:58] <Tobbi> hey swift110
+[2015/12/17 14:44:09] <Karkus> Hello, swift110
+[2015/12/17 14:44:43] <swift110> hey Tobbi and Karkus how are you guys
+[2015/12/17 14:44:54] <Tobbi> swift110: Quite fine. Getting ready for the release...
+[2015/12/17 14:44:56] <Tobbi> Somewhat.
