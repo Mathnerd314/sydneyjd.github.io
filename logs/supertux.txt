@@ -23369,3 +23369,36 @@
 [2015/12/17 16:14:14] <Karkus> Tobbi: Certainly.
 [2015/12/17 16:14:33] <Tobbi> Karkus: Maybe gradients, language packs, etc.
 [2015/12/17 16:14:36] <Karkus> I don't think it's worth creating a new entry
+[2015/12/17 16:15:03] <Tobbi> A screenshot showing a clean coverity build...with thumbs up icons photoshopped into it.
+[2015/12/17 16:15:07] <Tobbi> :D
+[2015/12/17 16:15:12] <Karkus> *gimped
+[2015/12/17 16:15:18] <Tobbi> Oh yes.
+[2015/12/17 16:15:18] <Karkus> :P
+[2015/12/17 16:15:42] <Tobbi> Also, a picture of my name within a Hollywood Walk of Fame star.
+[2015/12/17 16:15:46] <Tobbi> :D
+[2015/12/17 16:15:57] <Karkus> Of course.
+[2015/12/17 16:16:15] @ tuxdev_ joined channel #supertux
+[2015/12/17 16:16:16] <Karkus> Actually, that pretty much sums 0.4.0 up...
+[2015/12/17 16:16:21] <Karkus> :P
+[2015/12/17 16:16:35] <Tobbi> And a cardboard standup template of mine...
+[2015/12/17 16:16:36] <Tobbi> :D
+[2015/12/17 16:17:17] <Karkus> "Milestone Tobbi"
+[2015/12/17 16:17:23] <Tobbi> Definitely! :D
+[2015/12/17 16:18:33] @ Quit: alket: Quit: Good Night :)
+[2015/12/17 16:19:05] <Karkus> Tobbi: Didn't you make a wiki page of everyone's changes?
+[2015/12/17 16:19:18] <Tobbi> Karkus: Did I? Could be. But it's outdated.
+[2015/12/17 16:19:32] <Karkus> By a few days, maybe
+[2015/12/17 16:19:59] <Tobbi> I also created an etherpad, iirc.
+[2015/12/17 16:20:19] <Karkus> Tobbi: Etherpad?
+[2015/12/17 16:20:21] <Tobbi> There's this: http://supertux.lethargik.org/wiki/Changelog_0.4.0_%28WIP%29
+[2015/12/17 16:20:37] <Tobbi> Karkus: Collective editing thingy.
+[2015/12/17 16:21:12] <Karkus> Could this be what we need to check through?
+[2015/12/17 16:21:25] <Tobbi> Karkus: I will create a new one.
+[2015/12/17 16:21:32] <Tobbi> Or update that one.
+[2015/12/17 16:24:29] <Karkus> Tobbi: What was changed about gradients?
+[2015/12/17 16:24:51] <Tobbi> Karkus: it's now possible to have gradients spawning the whole sector.
+[2015/12/17 16:25:01] <Tobbi> Instead of just the screen.
+[2015/12/17 16:25:28] <Karkus> gradients of what?
+[2015/12/17 16:25:41] <Karkus> terrain?
+[2015/12/17 16:28:33] <Tobbi> Karkus: Background gradients.
+[2015/12/17 16:28:40] <Tobbi> Karkus: Check the gradient test...
