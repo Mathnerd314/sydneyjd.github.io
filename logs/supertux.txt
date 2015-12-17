@@ -22941,3 +22941,4 @@
 [2015/12/17 05:32:37] @ Tobbi joined channel #supertux
 [2015/12/17 05:32:37] @ Mode +o Tobbi by ChanServ
 [2015/12/17 05:42:37] @ Quit: ced117: Quit: Quitte
+[2015/12/17 05:45:18] @ ced117 joined channel #supertux
