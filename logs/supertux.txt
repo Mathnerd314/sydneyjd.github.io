@@ -23551,3 +23551,11 @@
 [2015/12/17 17:26:53] <head8debian> All was going good till it crashed.
 [2015/12/17 17:28:40] <head8debian> Tobbi: Uhm, could a GUI be added to notify why its freezing?
 [2015/12/17 17:29:09] <Tobbi> head8debian: We could show the add-on download dialogue.
+[2015/12/17 17:31:28] <head8debian> Tobbi: Good idea.
+[2015/12/17 17:31:51] <Tobbi> Not sure if I can make it, though.
+[2015/12/17 17:32:34] @ swift110 joined channel #supertux
+[2015/12/17 17:33:33] @ Quit: swift110: Changing host
+[2015/12/17 17:33:33] @ swift110 joined channel #supertux
+[2015/12/17 17:33:49] @ tux|dude joined channel #supertux
+[2015/12/17 17:35:15] @ tuxdude143 joined channel #supertux
+[2015/12/17 17:38:09] @ Quit: tux|dude: Ping timeout: 246 seconds
