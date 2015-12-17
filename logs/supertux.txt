@@ -23538,3 +23538,16 @@
 [2015/12/17 17:14:24] <Tobbi> Even time can be mean.
 [2015/12/17 17:14:46] @ Quit: tuxdev_: Ping timeout: 255 seconds
 [2015/12/17 17:14:59] <Karkus> head8debian: "Don't care" as in, you are indifferent
+[2015/12/17 17:15:06] <Karkus> right?
+[2015/12/17 17:16:10] <Karkus> Okay, provisional date agreed.
+[2015/12/17 17:18:46] <Tobbi> But...why does loading assets take so long all of a sudden.
+[2015/12/17 17:20:58] @ Quit: Karkus: Ping timeout: 260 seconds
+[2015/12/17 17:24:26] @ Karkus joined channel #supertux
+[2015/12/17 17:25:01] <head8debian> Tobbi: \o/
+[2015/12/17 17:25:09] <Tobbi> :)
+[2015/12/17 17:25:29] <Tobbi> head8debian: I'm not happy about the UI locking when you select a language...
+[2015/12/17 17:25:36] <Tobbi> It's due to langpack installation...
+[2015/12/17 17:26:43] <head8debian>  */me gives up on the trailer...
+[2015/12/17 17:26:53] <head8debian> All was going good till it crashed.
+[2015/12/17 17:28:40] <head8debian> Tobbi: Uhm, could a GUI be added to notify why its freezing?
+[2015/12/17 17:29:09] <Tobbi> head8debian: We could show the add-on download dialogue.
