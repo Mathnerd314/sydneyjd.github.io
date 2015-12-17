@@ -23255,3 +23255,17 @@
 [2015/12/17 14:44:43] <swift110> hey Tobbi and Karkus how are you guys
 [2015/12/17 14:44:54] <Tobbi> swift110: Quite fine. Getting ready for the release...
 [2015/12/17 14:44:56] <Tobbi> Somewhat.
+[2015/12/17 14:45:15] <swift110> Tobbi: new version of the game?
+[2015/12/17 14:45:25] <Karkus> swift110: Yup
+[2015/12/17 14:45:41] <Tobbi> swift110: Release is on Sunday...
+[2015/12/17 14:45:49] <Tobbi> Milestone 2 stable release.
+[2015/12/17 14:45:58] <Karkus> swift110: I'm feeling somewhat daunted by the length of our todo list, most of which I can't help with :/
+[2015/12/17 14:46:58] <Tobbi> Karkus: What can't you help with?
+[2015/12/17 14:48:24] <swift110> oh I see
+[2015/12/17 14:48:39] <swift110> whats new with this version?
+[2015/12/17 14:49:03] <Tobbi> swift110: Compared to what version?
+[2015/12/17 14:52:03] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97521568
+[2015/12/17 14:53:39] <swift110> compared to last one
+[2015/12/17 14:53:54] <Tobbi> phew, good question.
+[2015/12/17 14:53:59] <Tobbi> Would need to check the logs.
+[2015/12/17 14:57:35] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/120
