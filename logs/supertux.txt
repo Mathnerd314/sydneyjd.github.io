@@ -22928,3 +22928,4 @@
 [2015/12/17 01:19:14] @ maths22 joined channel #supertux
 [2015/12/17 03:43:57] @ Tobbi joined channel #supertux
 [2015/12/17 03:43:57] @ Mode +o Tobbi by ChanServ
+[2015/12/17 03:55:33] @ Quit: tuxdev_: Ping timeout: 255 seconds
