@@ -23447,3 +23447,64 @@
 [2015/12/17 16:43:53] <Tobbi> Mine is fast at booting.
 [2015/12/17 16:44:36] <Karkus> Tobbi: What about nightly builds and new web address
 [2015/12/17 16:44:49] <Tobbi> Karkus: Yes, probably a side note :P
+[2015/12/17 16:45:07] <Tobbi> Well, new web address, sure.
+[2015/12/17 16:45:17] <Tobbi> But nightly builds are for early-adopters.
+[2015/12/17 16:45:36] <head8debian> Tobbi: Well, took 40 secs to start after building with the last git pull.
+[2015/12/17 16:45:47] <Tobbi> head8debian: Uhm...
+[2015/12/17 16:46:01] <Tobbi> head8debian: When was the last time you tested?
+[2015/12/17 16:46:03] <head8debian> Tobbi: It does seem to be loading stuff since my HDD is making noises. No HDD light sadly.
+[2015/12/17 16:46:18] <head8debian> Tobbi: That seems *extremely* long though.
+[2015/12/17 16:46:27] <Tobbi> Yes. I don't know why...
+[2015/12/17 16:46:43] <head8debian> Tobbi: After it is loaded the first time it takes about 3 secs.
+[2015/12/17 16:47:53] <head8debian> Tobbi: Oh, i had a system upgrade going at the same time.
+[2015/12/17 16:47:55] <leyyin> blimey
+[2015/12/17 16:48:01] <Karkus> Yeah, I get the same thing...
+[2015/12/17 16:48:02] <head8debian> No wonder my HDD was being used.
+[2015/12/17 16:48:16] <head8debian> But it still takes about that long to do it.
+[2015/12/17 16:48:22] <head8debian> leyyin: What?
+[2015/12/17 16:48:44] <Tobbi> head8debian: Can you check with GDB or something?
+[2015/12/17 16:48:57] <head8debian> Tobbi: Whats GDB?
+[2015/12/17 16:49:03] <Tobbi> head8debian: a debugger...
+[2015/12/17 16:49:07] <leyyin> the gnu debugger
+[2015/12/17 16:49:07] <head8debian> Debugging of some sort IIRC.
+[2015/12/17 16:49:12] <head8debian> Ah.
+[2015/12/17 16:49:21] <head8debian> Let me guess, i first have to install it? :D
+[2015/12/17 16:49:27] <leyyin> if you have gcc
+[2015/12/17 16:49:31] <leyyin> you have gdb
+[2015/12/17 16:50:05] <Tobbi> I'm running it through instruments...
+[2015/12/17 16:50:05] <head8debian> leyyin: Ehem, not on Arch. :)
+[2015/12/17 16:51:04] <head8debian> Tobbi: What do i do with GDB; how do i use it?
+[2015/12/17 16:51:18] <Karkus> head8debian: Oh, it's great fun
+[2015/12/17 16:51:34] <Tobbi> head8debian: I don't know :D
+[2015/12/17 16:51:39] <leyyin> I suggest you use a visual debugger over gdb :P
+[2015/12/17 16:51:45] <leyyin> Qt Creator is great
+[2015/12/17 16:51:50] <head8debian> GOod grief.
+[2015/12/17 16:52:16] <head8debian> GO_OD grief. :D
+[2015/12/17 16:52:25] <leyyin> jolly fun dear sir
+[2015/12/17 16:52:53] <Tobbi> Hmm, CPU usage is not the cause apparently...
+[2015/12/17 16:53:12] <Karkus> A barrel of laughs
+[2015/12/17 16:53:20] @ Quit: claymore2: Quit: Leaving
+[2015/12/17 16:53:44] <Tobbi> Karkus: what? Did I make a pun?
+[2015/12/17 16:53:51] <head8debian> Tobbi: (gdb) file ./supertux2
+[2015/12/17 16:53:52] <head8debian> Reading symbols from ./supertux2...(no debugging symbols found)...done.
+[2015/12/17 16:53:53] <head8debian> :D
+[2015/12/17 16:53:57] <Karkus> No, I'm talking about GDB
+[2015/12/17 16:54:01] <Tobbi> head8debian: go
+[2015/12/17 16:54:07] <Karkus> I don't know a thing about it
+[2015/12/17 16:54:14] <Tobbi> I know a bit about it.
+[2015/12/17 16:54:21] <Tobbi> I know kind of how to debug crashes.
+[2015/12/17 16:54:23] <head8debian> Tobbi: go?
+[2015/12/17 16:54:32] <Tobbi> head8debian: enter that in the gdb window.
+[2015/12/17 16:54:34] <Tobbi> And press enter.
+[2015/12/17 16:54:43] <Tobbi> (I think)
+[2015/12/17 16:55:03] <head8debian> "Command requires an argument".
+[2015/12/17 16:55:14] <Tobbi> head8debian: then: run?
+[2015/12/17 16:55:20] <Tobbi> without the question mark of course.
+[2015/12/17 16:55:26] <head8debian> AH!
+[2015/12/17 16:55:40] <head8debian> And it crashes.
+[2015/12/17 16:56:24] <head8debian> Tobbi: https://paste.debian.net/349249/
+[2015/12/17 16:56:52] <Tobbi> head8debian: just "run"
+[2015/12/17 16:57:55] <head8debian> Tobbi: Same thing.
+[2015/12/17 16:58:09] <Karkus> Works fine for me
+[2015/12/17 16:58:19] <head8debian> hrm.
+[2015/12/17 16:58:47] @ Quit: swift110: Ping timeout: 256 seconds
