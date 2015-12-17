@@ -23084,3 +23084,27 @@
 [2015/12/17 12:04:54] <Tobbi> SuperTux has to be 100% const correct before the release.
 [2015/12/17 12:05:09] <head8debian> Tobbi: Heh.
 [2015/12/17 12:12:14] <Tobbi> head8debian: Should we switch to SHA-1 after the release for add-ons?
+[2015/12/17 12:15:56] <mt> >SHA-1
+[2015/12/17 12:16:03] <mt> guys it's almost 2016
+[2015/12/17 12:16:40] <mt> SHA-2-256 is the minimum, SHA-2-512 is nice, SHA-3-512/BLAKE2 is even better
+[2015/12/17 12:16:55] <Tobbi> mt: I am not knowledgeable about hashing algorithms...
+[2015/12/17 12:17:00] <Tobbi> :D
+[2015/12/17 12:17:02] @ Quit: brmbrmcar: Ping timeout: 260 seconds
+[2015/12/17 12:17:06] <Tobbi> Not my area of interest at all.
+[2015/12/17 12:17:25] <mt> are we using some library for hashing at the moment?
+[2015/12/17 12:17:35] <mt> or is that part built-in?
+[2015/12/17 12:18:10] <Tobbi> mt: It's built in, we have md5.cpp.
+[2015/12/17 12:18:20] <Tobbi>  /.hpp
+[2015/12/17 12:19:03] <mt> could we consider switching to a library?
+[2015/12/17 12:20:06] <mt> and fwiw, https://en.wikipedia.org/wiki/SHA-2#Pseudocode
+[2015/12/17 12:20:37] <Tobbi> mt: We certainly could. Create an issue. We'll deal with it after the release.
+[2015/12/17 12:21:28] @ Karkus joined channel #supertux
+[2015/12/17 12:22:33] <head8debian> o_O
+[2015/12/17 12:23:16] <Tobbi> head8debian: what?
+[2015/12/17 12:23:54] @ alket joined channel #supertux
+[2015/12/17 12:27:58] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#267: Switch add-on verification hashing algorithm to something more appropriate - 13http://git.io/v07er
+[2015/12/17 12:27:58] <Not-e81f> [02supertux] 07maxteufel opened issue 03#267: Switch add-on verification hashing algorithm to something more appropriate - 13http://git.io/v07er
+[2015/12/17 12:28:00] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#267: Switch add-on verification hashing algorithm to something more appropriate - 13http://git.io/v07er
+[2015/12/17 12:28:01] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#267: Switch add-on verification hashing algorithm to something more appropriate - 13http://git.io/v07er
+[2015/12/17 12:28:03] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#267: Switch add-on verification hashing algorithm to something more appropriate - 13http://git.io/v07er
+[2015/12/17 12:29:39] <head8debian> Tobbi: Thinking out loud...
