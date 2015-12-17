@@ -22922,3 +22922,5 @@
 [2015/12/16 21:41:10] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/12/16 22:20:45] @ Quit: irungentoo: Ping timeout: 256 seconds
 [2015/12/16 22:48:23] @ tuxdev_ joined channel #supertux
+[2015/12/16 23:24:07] @ Quit: tux|dude: Ping timeout: 260 seconds
+[2015/12/16 23:25:25] @ tux|dude joined channel #supertux
