@@ -22910,3 +22910,7 @@
 [2015/12/16 18:42:57] @ Quit: Karkus: Quit: Division By Zero
 [2015/12/16 18:56:22] @ datahead8888 joined channel #supertux
 [2015/12/16 18:58:04] @ Quit: alket: Quit: Good Night :)
+[2015/12/16 19:21:34] @ bb010g joined channel #supertux
+[2015/12/16 19:21:41] @ Quit: datahead8888: Ping timeout: 256 seconds
+[2015/12/16 19:23:59] @ Quit: bb010g: Changing host
+[2015/12/16 19:23:59] @ bb010g joined channel #supertux
