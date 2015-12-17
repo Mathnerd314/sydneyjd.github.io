@@ -23508,3 +23508,33 @@
 [2015/12/17 16:58:09] <Karkus> Works fine for me
 [2015/12/17 16:58:19] <head8debian> hrm.
 [2015/12/17 16:58:47] @ Quit: swift110: Ping timeout: 256 seconds
+[2015/12/17 17:01:41] <head8debian> Tobbi: Karkus leyyin, what song should we use for a trailer?
+[2015/12/17 17:02:16] <Tobbi> head8debian: this? https://www.youtube.com/watch?v=-iZW909WuB4
+[2015/12/17 17:02:32] <head8debian> Tobbi: Let me guess... crazy frog remix? :D
+[2015/12/17 17:02:47] <Tobbi> head8debian: No, who do you think I am?
+[2015/12/17 17:03:03] <head8debian> Tobbi: ...
+[2015/12/17 17:03:07] <head8debian> I was wrong.
+[2015/12/17 17:03:43] <Karkus> head8debian: Obviously a few tracks from supertux should feature
+[2015/12/17 17:04:33] <Tobbi> head8debian: I can't find any anomalies...It seems to be loading images...
+[2015/12/17 17:06:13] <head8debian> note to self, kdenlive doesnt like 300mb videos for some reason.
+[2015/12/17 17:10:02] <Karkus> head8debian, Tobbi, maths22: How does 9th December at 15:00 sound for an IRC meeting to discuss.
+[2015/12/17 17:10:27] <Tobbi> Karkus: Oh, you managed to invent that time machine?
+[2015/12/17 17:10:28] <Tobbi> :P
+[2015/12/17 17:11:21] <Tobbi> You know, December...
+[2015/12/17 17:11:23] <Tobbi> oh c'mon...
+[2015/12/17 17:11:26] <Tobbi> never mind.
+[2015/12/17 17:11:27] <Karkus> ...
+[2015/12/17 17:12:31] <Tobbi> Karkus: 9th of January should work.
+[2015/12/17 17:12:43] <Karkus> It's a saturday, I think
+[2015/12/17 17:12:58] <Karkus> as the wiki says it must be.
+[2015/12/17 17:13:04] <Tobbi> Yes.
+[2015/12/17 17:13:21] <Tobbi> Karkus: So 3pm your time? That's 4pm my time?
+[2015/12/17 17:13:33] <Karkus> Tobbi: Ah, 15:00 UCT
+[2015/12/17 17:13:44] <Karkus> UCT = GMT so yeah
+[2015/12/17 17:14:01] <Karkus> head8debian: For you, 10?
+[2015/12/17 17:14:03] <Karkus> idk
+[2015/12/17 17:14:14] <head8debian> I don't care.
+[2015/12/17 17:14:20] <Tobbi> Greenwich Mean Time.
+[2015/12/17 17:14:24] <Tobbi> Even time can be mean.
+[2015/12/17 17:14:46] @ Quit: tuxdev_: Ping timeout: 255 seconds
+[2015/12/17 17:14:59] <Karkus> head8debian: "Don't care" as in, you are indifferent
