@@ -22979,3 +22979,21 @@
 [2015/12/17 11:14:19] <head8debian> Tobbi: I hope so to. o_O
 [2015/12/17 11:14:41] <head8debian> too*
 [2015/12/17 11:15:01] <Tobbi> head8debian: So, langpacks are somewhat...difficult...
+[2015/12/17 11:15:19] <head8debian> Tobbi: But they work?
+[2015/12/17 11:15:35] <Tobbi> head8debian: They do, if you install them manually.
+[2015/12/17 11:15:51] <head8debian> Tobbi: Whats wrong with that?
+[2015/12/17 11:16:26] <Tobbi> head8debian: People might not get that they have to install a langpack...
+[2015/12/17 11:16:36] <Tobbi> I mean: Most l10n files are packaged with the game.
+[2015/12/17 11:16:42] <Tobbi> Only add-ons aren't.
+[2015/12/17 11:16:55] <head8debian> Tobbi: Add a note to the info file, or whatever its called?
+[2015/12/17 11:17:07] <Tobbi> I will.
+[2015/12/17 11:17:14] <Tobbi> I will also add a note to the release notes.
+[2015/12/17 11:17:18] <Tobbi> and release notice.
+[2015/12/17 11:17:36] <head8debian> Precisely. :)
+[2015/12/17 11:23:38] <Tobbi> head8debian: Can you take a look at the release list and see if we forgot anything?
+[2015/12/17 11:24:16] <head8debian> Tobbi: Where is that?
+[2015/12/17 11:24:45] <Tobbi> https://github.com/SuperTux/supertux/issues/243
+[2015/12/17 11:24:47] <mt> 21:14:25 <maths22> mt, Karkus: What is the reason for wanting to ensure it is hosted on Github (rather than just that the source is on github?) <-- for me mainly because a) we can rely on github and b) it will ensure there's no wannabe devs with shitty PHP code oslt
+[2015/12/17 11:28:23] <head8debian> Tobbi: Whats oslt mean?
+[2015/12/17 11:28:36] <Tobbi> head8debian: Open Source Lactose Tolerance
+[2015/12/17 11:29:00] <Tobbi> It's a new breakthrough, joining medicine and computer science together.
