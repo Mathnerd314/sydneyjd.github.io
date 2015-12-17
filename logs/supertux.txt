@@ -22997,3 +22997,58 @@
 [2015/12/17 11:28:23] <head8debian> Tobbi: Whats oslt mean?
 [2015/12/17 11:28:36] <Tobbi> head8debian: Open Source Lactose Tolerance
 [2015/12/17 11:29:00] <Tobbi> It's a new breakthrough, joining medicine and computer science together.
+[2015/12/17 11:30:06] <head8debian> Tobbi: lol.
+[2015/12/17 11:30:21] <head8debian> Tobbi: Intolerance you mean. :)
+[2015/12/17 11:30:41] <Tobbi> mt: Do I include everyone who contributed anything in the credits?
+[2015/12/17 11:30:45] <head8debian> Tobbi: Shoot, i ran out of oil to do my cars oil change...
+[2015/12/17 11:30:48] <Tobbi> head8debian: It needs to be a *T
+[2015/12/17 11:30:58] <head8debian> ...
+[2015/12/17 11:31:33] <mt> Tobbi: why not
+[2015/12/17 11:31:47] <mt> just make one big section for all people with <= x commits
+[2015/12/17 11:32:15] <Tobbi> mt: You included everyone in that list... Not people with >x commits.
+[2015/12/17 11:32:17] <mt> and mention all with > x commits in a 'more important' way
+[2015/12/17 11:32:24] <head8debian> Tobbi: Boy, supertux still starts really slow right after you first build it. Hopefully people dont think it freezes.
+[2015/12/17 11:32:43] <Tobbi> head8debian: Could you figure out what it's doing when it does that?
+[2015/12/17 11:33:00] <mt> there's some way to find out which person committed how many commits
+[2015/12/17 11:33:03] <mt> let me see
+[2015/12/17 11:34:14] <Tobbi> head8debian: Actually...I got something to do for you: this ^^
+[2015/12/17 11:34:21] <Tobbi> I mean: Update credits.txt
+[2015/12/17 11:34:46] <head8debian> Tobbi: http://www.zdnet.com/article/is-firefox-the-walking-dead/ :(
+[2015/12/17 11:35:05] <head8debian> Tobbi: Ok, but who shall i add to it>
+[2015/12/17 11:35:07] <head8debian> ?
+[2015/12/17 11:35:21] <mt> Tobbi: git shortlog -s -n
+[2015/12/17 11:35:26] <Tobbi> mt: Ah, okay...
+[2015/12/17 11:35:36] <Tobbi> mt: Can you assemble an updated list for head8debian to integrate?
+[2015/12/17 11:35:43] <mt> however, since we don't have a mailmap, some people will show up with more than one name
+[2015/12/17 11:35:48] <Tobbi> Did I ever mention how much I like to delegate?
+[2015/12/17 11:35:57] <head8debian> Tobbi: :D
+[2015/12/17 11:36:06] <Tobbi> No problem, head8debian can take care of merging the names :D
+[2015/12/17 11:36:27] <mt> head8debian can also take care of running that command
+[2015/12/17 11:36:38] <head8debian> mt: Hmm?
+[2015/12/17 11:36:49] <head8debian> mt: Whats it do?
+[2015/12/17 11:36:57] <mt> `git shortlog -s -n -e` will actually also show the email :)
+[2015/12/17 11:37:22] <mt> for i in $author; do echo $numberofcommits $authorname $authoremail; done
+[2015/12/17 11:37:27] <mt> basically ^^^
+[2015/12/17 11:38:22] <Tobbi> head8debian: I read that article...It is true, firefox might be a walking dead. I still use it, though.
+[2015/12/17 11:38:25] <Tobbi> But the spirit is gone.
+[2015/12/17 11:38:38] <head8debian> Tobbi: I still use it also.
+[2015/12/17 11:38:45] <head8debian> Tobbi: Its sad though.
+[2015/12/17 11:39:02] <Tobbi> head8debian: People will continue to develop Firefox...
+[2015/12/17 11:39:10] <head8debian> mt: So you want me to filter to all of those names and add them all?
+[2015/12/17 11:39:27] <head8debian> Tobbi: I know. :) Thats why its open source.
+[2015/12/17 11:39:40] <head8debian> If it were not, youd have a really big issue.
+[2015/12/17 11:39:46] <Tobbi> head8debian: I would?
+[2015/12/17 11:39:52] <Tobbi> Personally?
+[2015/12/17 11:40:36] <head8debian> Tobbi: Hmm?
+[2015/12/17 11:40:42] <head8debian> Tobbi: Not im confused.
+[2015/12/17 11:40:58] <Tobbi> head8debian: Why would I have a really big issue if Firefox is dead? I|d use Chromium.
+[2015/12/17 11:41:29] <head8debian> Tobbi: I am not ready to use one of these smaller FOSS browsers with less support, but i think id rather do that then switch to chromium fully.
+[2015/12/17 11:42:01] <Tobbi> head8debian: On the other hand: Maybe handing Firefox or Thunderbird to the community might give it some momentum.
+[2015/12/17 11:42:31] @ brmbrmcar joined channel #supertux
+[2015/12/17 11:42:45] <head8debian> Tobbi: True.
+[2015/12/17 11:43:06] <head8debian> Tobbi: Midori just doesn't cut it.
+[2015/12/17 11:43:28] <Tobbi> head8debian: You know: Thunderbird was not a priority...I talked to Mitchell Baker personally and told her that webbased e-mail is not the future, but that a lot of people still use thunderbird.
+[2015/12/17 11:43:33] <Tobbi> Especially here in Germany.
+[2015/12/17 11:43:43] <Tobbi> iirc, it's the most common e-mail client in Germany.
+[2015/12/17 11:44:13] <head8debian> Tobbi: I personally love it.
+[2015/12/17 11:44:20] <Tobbi> head8debian: me, too.
