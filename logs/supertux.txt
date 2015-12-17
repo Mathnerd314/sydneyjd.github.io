@@ -23214,3 +23214,14 @@
 [2015/12/17 14:08:16] <Tobbi> This needs to be changed.
 [2015/12/17 14:08:19] <Tobbi> Since we won't abandon it.
 [2015/12/17 14:08:36] <Karkus> Okay, I'll update the readme
+[2015/12/17 14:18:49] @ Quit: Hume2: Quit: Page closed
+[2015/12/17 14:23:09] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±2] 13http://git.io/v07HV
+[2015/12/17 14:23:10] <Not-e81f> [02supertux] 07Tobias Markus 0345a68fb - Pass some values by reference instead of by ptr
+[2015/12/17 14:23:11] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97521005
+[2015/12/17 14:23:13] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/119
+[2015/12/17 14:25:00] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97521005
+[2015/12/17 14:26:20] <Not-e81f> [02supertux] 07Karkus476 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v07Q7
+[2015/12/17 14:26:21] <Not-e81f> [02supertux] 07Karkus476 039fc9857 - Update README.md development section and links
+[2015/12/17 14:26:23] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97521568
+[2015/12/17 14:26:24] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/120
+[2015/12/17 14:27:06] <Karkus> Tobbi: How's that?
