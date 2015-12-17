@@ -23137,3 +23137,23 @@
 [2015/12/17 12:52:21] <Tobbi> alright.
 [2015/12/17 12:56:19] <Tobbi> alket: Would be good if you could report any obvious bugs.
 [2015/12/17 12:56:26] <Tobbi> In case we missed something.
+[2015/12/17 13:00:20] <alket> sure
+[2015/12/17 13:01:50] <leyyin> NOTE: This website is for people who know how to generate certificate signing requests (CSRs)!
+[2015/12/17 13:02:02] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97500751
+[2015/12/17 13:02:56] <Not-e81f> [02flexlay] 07Karkus476 pushed 031 commit to 03develop [+3/-0/±6] 13http://git.io/v07OX
+[2015/12/17 13:02:57] <Not-e81f> [02flexlay] 07Karkus 034eca3fb - User can select layers, and hide individual ones.
+[2015/12/17 13:03:14] <Tobbi> Karkus: Yay!
+[2015/12/17 13:03:36] <Karkus> Tobbi: You can't add or remove, though. I couldn't find an icon
+[2015/12/17 13:03:41] <Karkus> Drawing works too
+[2015/12/17 13:03:48] <Tobbi> Karkus: No problem. It's still great.
+[2015/12/17 13:03:52] <Tobbi> And quite a big code change.
+[2015/12/17 13:05:43] <Karkus> I pretty much rewrote the layer selector.
+[2015/12/17 13:06:51] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/117
+[2015/12/17 13:07:08] <Tobbi> Do we have anything that inherits OpenALSoundSource? Why are the methods marked virtual?
+[2015/12/17 13:09:37] <Tobbi> Oh, yeah, StreamSoundSource inherits OpenALSoundSource.
+[2015/12/17 13:10:51] <Tobbi> Although it really doesn't override any of the methods.
+[2015/12/17 13:10:57] <Tobbi> But we might still want that virtual there.
+[2015/12/17 13:11:44] <Tobbi> Karkus:  have you noticed a small pause when hitting a reset point or anything that plays audio?
+[2015/12/17 13:11:55] <Tobbi> Because that's what sometimes happens to me...
+[2015/12/17 13:13:14] <Tobbi> Karkus: You could get icons from openclipart.org if you want, anyway.
+[2015/12/17 13:13:51] @ Hume2 joined channel #supertux
