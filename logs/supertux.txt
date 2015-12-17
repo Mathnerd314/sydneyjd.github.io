@@ -23269,3 +23269,12 @@
 [2015/12/17 14:53:54] <Tobbi> phew, good question.
 [2015/12/17 14:53:59] <Tobbi> Would need to check the logs.
 [2015/12/17 14:57:35] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/120
+[2015/12/17 15:07:34] <swift110> ok
+[2015/12/17 15:09:10] @ Drangue joined channel #supertux
+[2015/12/17 15:09:14] @ Quit: alket: Disconnected by services
+[2015/12/17 15:09:15] @ Drangue is now known as alket
+[2015/12/17 15:11:22] <Tobbi> swift110: But we have language packs now, and many other things. But mostly it's code quality stuff...
+[2015/12/17 15:12:26] @ giby joined channel #supertux
+[2015/12/17 15:12:27] @ Mode +o giby by ChanServ
+[2015/12/17 15:12:38] <giby> Hi
+[2015/12/17 15:14:55] <Tobbi> Hey giby.
