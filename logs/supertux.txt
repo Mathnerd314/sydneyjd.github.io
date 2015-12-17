@@ -23303,3 +23303,27 @@
 [2015/12/17 15:26:31] <Tobbi> giby: Actually, you can update the translation files...and please make language add-ons out of the other things.
 [2015/12/17 15:26:38] <Tobbi> You know, that one script...
 [2015/12/17 15:29:58] <giby> update to Tx or from Tx?
+[2015/12/17 15:32:05] <Tobbi> giby: from tx...
+[2015/12/17 15:37:09] <Tobbi> Karkus: Any idea why I suddenly get this error: http://pastebin.com/PQzWbEDD ?
+[2015/12/17 15:38:44] <Karkus> That's odd...
+[2015/12/17 15:39:39] <Tobbi> It definitely is.
+[2015/12/17 15:40:12] <Karkus> Tobbi: I get that error too, when running from ./supertux-editor. Not from PyCharm though
+[2015/12/17 15:40:29] <Tobbi> Interesting. Did that change recently?
+[2015/12/17 15:40:40] <Karkus> Nope
+[2015/12/17 15:40:52] <Tobbi> I can remember being able to run it like ./supertux-editor
+[2015/12/17 15:41:01] <Karkus> I haven't been updating the __init__ files. I probably should
+[2015/12/17 15:41:07] <Karkus> Tobbi: Yes, I could too.
+[2015/12/17 15:41:10] <Karkus> Wait a minute
+[2015/12/17 15:42:37] <Karkus> Tobbi: Something has gone horribly wrong.
+[2015/12/17 15:42:43] <Karkus> It's fixable though
+[2015/12/17 15:42:46] <Karkus> but concerning
+[2015/12/17 15:42:47] <Tobbi> uh? How comes?
+[2015/12/17 15:42:56] <Karkus> change it to .util.config
+[2015/12/17 15:43:19] <Karkus> Well 'horribly' was probably an exaggeration
+[2015/12/17 15:43:44] <Karkus> Tobbi: Actually, no. I did change this file
+[2015/12/17 15:44:00] <Karkus> By refactoring, not manually
+[2015/12/17 15:44:11] <Karkus> I moved config.py to util
+[2015/12/17 15:44:18] <Tobbi> Ah!
+[2015/12/17 15:44:24] <Karkus> So all is well
+[2015/12/17 15:44:44] <Karkus> Pycharm didn't refactor right.
+[2015/12/17 15:44:56] <Karkus> I will quickly fix this
