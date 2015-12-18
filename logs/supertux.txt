@@ -23646,3 +23646,7 @@
 [2015/12/17 23:03:57] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/17 23:31:11] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/12/18 00:14:35] @ tux|dude joined channel #supertux
+[2015/12/18 00:21:31] <maths22> Tobbi: no DMG background for this release-sorry
+[2015/12/18 00:21:43] <maths22> OS X does not like me with regards to that
+[2015/12/18 00:22:58] <maths22> Karkus: That timing sounds good to me (at this point in time...I'm fairly certain I have nothing then)
+[2015/12/18 00:25:02] <maths22> mt: Why the grudge against PHP? (Serious question, not trying to start an argument)
