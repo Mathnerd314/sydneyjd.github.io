@@ -23565,3 +23565,5 @@
 [2015/12/17 17:51:45] @ Quit: Karkus: Quit: Division By Zero
 [2015/12/17 17:58:42] <Tobbi> maths22: I don't see a DMG background. Not sure if it's my setup or anything else...
 [2015/12/17 18:57:43] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/12/17 19:18:42] @ bb010g joined channel #supertux
+[2015/12/17 19:21:43] @ Quit: swift110: Ping timeout: 260 seconds
