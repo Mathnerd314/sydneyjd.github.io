@@ -24061,3 +24061,7 @@
 [2015/12/18 16:55:19] @ Quit: Karkus: Quit: Division By Zero
 [2015/12/18 16:56:39] @ Quit: brmbrmcar: Quit: Found terminal
 [2015/12/18 16:59:41] @ Karkus joined channel #supertux
+[2015/12/18 17:00:11] @ Quit: Karkus: Max SendQ exceeded
+[2015/12/18 17:10:00] <Not-e81f> [02flexlay] 07Karkus476 pushed 031 commit to 03develop [+0/-0/±2] 13http://git.io/v0pix
+[2015/12/18 17:10:01] <Not-e81f> [02flexlay] 07Karkus 03a6b6d2e - Change New Level Wizard to GenericDialog
+[2015/12/18 17:10:38] @ Karkus joined channel #supertux
