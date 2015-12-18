@@ -23820,3 +23820,11 @@
 [2015/12/18 11:15:43] <Tobbi> :D
 [2015/12/18 11:15:51] <Karkus> Of course not :)
 [2015/12/18 11:26:31] <Not-e81f> [02flexlay] 07Grumbel commented on issue 03#42: Speed up rendering of tilemaps - 13http://git.io/v0ACu
+[2015/12/18 11:31:57] <Karkus> Tobbi: There we go ^ looks like Grumbel reckons QGraphicsScene is the way to go. I will definitely take a look into this.
+[2015/12/18 11:32:34] <Tobbi> Karkus: great!
+[2015/12/18 11:33:53] <Tobbi> QGraphicsScene :D
+[2015/12/18 11:40:26] <Hume2> I'd add a new labal to the bug tracker.
+[2015/12/18 11:40:45] <Hume2> Just tell me that I shouldn't and I will not.
+[2015/12/18 11:40:55] <Hume2> priority: brmbrmerror
+[2015/12/18 11:41:46] <Tobbi> Hume2: ...
+[2015/12/18 11:41:50] <Hume2> :D
