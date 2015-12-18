@@ -23650,3 +23650,4 @@
 [2015/12/18 00:21:43] <maths22> OS X does not like me with regards to that
 [2015/12/18 00:22:58] <maths22> Karkus: That timing sounds good to me (at this point in time...I'm fairly certain I have nothing then)
 [2015/12/18 00:25:02] <maths22> mt: Why the grudge against PHP? (Serious question, not trying to start an argument)
+[2015/12/18 01:48:06] @ tuxdev_ joined channel #supertux
