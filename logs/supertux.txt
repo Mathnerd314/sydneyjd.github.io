@@ -23661,3 +23661,11 @@
 [2015/12/18 06:14:39] <Not-e81f> [02supertux] 07Tobias Markus 03d1c0c74 - Add support for passive dialogs
 [2015/12/18 06:14:41] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97645176
 [2015/12/18 06:14:42] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/122
+[2015/12/18 06:15:50] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97645176
+[2015/12/18 06:25:21] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v0bgE
+[2015/12/18 06:25:23] <Not-e81f> [02supertux] 07Tobias Markus 03767c949 - Check for language pack updates on startup (display modal dialog)
+[2015/12/18 06:25:24] <Not-e81f> [02supertux] 07tobbi closed issue 03#249: Check for language pack updates during main queue, after the program has loaded - 13http://git.io/vROZ9
+[2015/12/18 06:25:26] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97646831
+[2015/12/18 06:25:27] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/123
+[2015/12/18 06:26:35] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97646831
+[2015/12/18 06:27:37] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/97645176
