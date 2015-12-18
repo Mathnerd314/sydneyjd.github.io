@@ -23696,3 +23696,19 @@
 [2015/12/18 08:11:51] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/97659958
 [2015/12/18 08:12:07] <Tobbi> Karkus: Language packs do install automatically after changing language. Problem is doing this at startup. It works, but it shows the addon menu, because the add-on menu is what's being shown when you need to update them.
 [2015/12/18 08:12:36] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/125
+[2015/12/18 08:15:50] <Not-e81f> [02supertux] 07tobbi pushed 032 commits to 03master [+0/-0/±3] 13http://git.io/v0NUW
+[2015/12/18 08:15:51] <Not-e81f> [02supertux] 07Tobias Markus 038067028 - Code review for release
+[2015/12/18 08:15:53] <Not-e81f> [02supertux] 07Tobias Markus 032ad8299 - Don't update langpacks at startup (due to add-on menu opening) which might irritate
+[2015/12/18 08:15:54] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97663036
+[2015/12/18 08:15:58] <Tobbi> Okay, enough of this.
+[2015/12/18 08:16:07] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/126
+[2015/12/18 08:16:55] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97663036
+[2015/12/18 08:17:29] <Not-e81f> [02supertux] 07tobbi commented on issue 03#249: Check for language pack updates during main queue, after the program has loaded - 13http://git.io/v0NUN
+[2015/12/18 08:17:31] <Not-e81f> [02supertux] 07tobbi reopened issue 03#249: Check for language pack updates during main queue, after the program has loaded - 13http://git.io/vROZ9
+[2015/12/18 08:27:54] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v0NIh
+[2015/12/18 08:27:56] <Not-e81f> [02supertux] 07Tobias Markus 036c1484a - Check for langpack updates when selecting any language
+[2015/12/18 08:27:57] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97665112
+[2015/12/18 08:27:59] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/127
+[2015/12/18 08:28:23] @ irungentoo joined channel #supertux
+[2015/12/18 08:29:12] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97665112
+[2015/12/18 08:29:43] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97663036
