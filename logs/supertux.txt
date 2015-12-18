@@ -24052,3 +24052,5 @@
 [2015/12/18 15:49:21] @ Quit: giby_the_kid: Quit: Quitte
 [2015/12/18 16:13:33] @ Quit: alket: Remote host closed the connection
 [2015/12/18 16:14:08] @ alket joined channel #supertux
+[2015/12/18 16:42:08] @ Tobbi joined channel #supertux
+[2015/12/18 16:42:08] @ Mode +o Tobbi by ChanServ
