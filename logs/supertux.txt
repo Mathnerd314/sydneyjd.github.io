@@ -23645,3 +23645,4 @@
 [2015/12/17 22:25:21] @ Quit: irungentoo: Remote host closed the connection
 [2015/12/17 23:03:57] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/17 23:31:11] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2015/12/18 00:14:35] @ tux|dude joined channel #supertux
