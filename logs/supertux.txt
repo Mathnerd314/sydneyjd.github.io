@@ -24072,3 +24072,9 @@
 [2015/12/18 18:10:45] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2015/12/18 18:10:48] <tux|dude> nearly the big day
 [2015/12/18 18:16:21] <alket> hehe
+[2015/12/18 18:31:22] <tux|dude> My little 8 year old self inside me has been waiting for this day for so damn long now
+[2015/12/18 18:31:34] <tux|dude> Can't believe it is nearly the big day
+[2015/12/18 18:35:11] @ Quit: Karkus: Remote host closed the connection
+[2015/12/18 18:35:37] <leper`> tux|dude: indeed, wheeee
+[2015/12/18 18:35:53] @ Quit: claymore2: Quit: Leaving
+[2015/12/18 18:36:44] <leper`> head8debian: You should really change the topic to "0.4.0 soon | [...]" soon ;-)
