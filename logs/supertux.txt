@@ -23846,3 +23846,25 @@
 [2015/12/18 11:59:18] <Tobbi> sounds good.
 [2015/12/18 11:59:39] <Karkus> The in-game editor is for people who aren't interested in learning in detail about levels and scripting etc.
 [2015/12/18 11:59:43] @ brmbrmcar joined channel #supertux
+[2015/12/18 12:00:06] <Tobbi> Alright.
+[2015/12/18 12:00:56] <Karkus> Not that Flexlay will be complex, but it will have more advanced features, since it's got a proper GUI.
+[2015/12/18 12:01:31] <Tobbi> Yes, that's right.
+[2015/12/18 12:02:02] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03coverity_scan [+0/-0/±0] 13http://git.io/v0AV9
+[2015/12/18 12:02:03] <Not-e81f> [02supertux] 07Tobias Markus 036e576db - Trigger Coverity Scan build
+[2015/12/18 12:02:05] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97711060
+[2015/12/18 12:02:06] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/128
+[2015/12/18 12:02:24] <Tobbi> AppVeyor shouldn't build off of the coverity branch.
+[2015/12/18 12:02:26] <Tobbi> maths22: ^^
+[2015/12/18 12:03:12] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97711060
+[2015/12/18 12:05:12] @ Quit: brmbrmcar: Quit: Lost terminal
+[2015/12/18 12:11:28] <maths22> Tobbi: I can see about blocking it.  It only makes binaries for the non-coverity branch, but I'll lok into it
+[2015/12/18 12:11:40] <maths22> Sorry-the master branch
+[2015/12/18 12:11:40] <Tobbi> I see...
+[2015/12/18 12:11:53] <Tobbi> maths22: Yeah, we do not want to abuse that free service :)
+[2015/12/18 12:12:31] <maths22> Tobbi: it is a bit too late for the addon stuff
+[2015/12/18 12:12:40] <Tobbi> maths22: No problem.
+[2015/12/18 12:12:41] <Tobbi> :)
+[2015/12/18 12:12:53] <Tobbi> We'll just tell the people to install language packs manually.
+[2015/12/18 12:12:59] <Not-e81f> [02supertux] 07Hume2 synchronize pull request 03#103: WIP Level Editor - 13http://git.io/vYbm7
+[2015/12/18 12:13:01] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97713142
+[2015/12/18 12:13:05] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/129
