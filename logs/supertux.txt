@@ -24050,3 +24050,5 @@
 [2015/12/18 15:14:32] <brmbrmcar> Awesome!
 [2015/12/18 15:23:41] @ Quit: Hume2: Quit: Page closed
 [2015/12/18 15:49:21] @ Quit: giby_the_kid: Quit: Quitte
+[2015/12/18 16:13:33] @ Quit: alket: Remote host closed the connection
+[2015/12/18 16:14:08] @ alket joined channel #supertux
