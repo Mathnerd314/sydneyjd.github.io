@@ -23994,3 +23994,15 @@
 [2015/12/18 14:28:03] <mt> what basically happens: 1) make sure everything that's supposed to be in the release is included in master 2) write changelog, update NEWS.md + commit 3) run coverity test 4) create a 0.4.0 tag and a release/0.4 branch 5) building and packaging our binaries 6) make github release with release notes and binaries 5) social media announcements 6) notify distributions
 [2015/12/18 14:28:21] <Hume2> I made a rule for suggesting worlds, won't it mind?
 [2015/12/18 14:29:27] <Hume2> It's: If someone wants to suggest a world, then he should make it whole first (with some example levels) and then show it to the others. I really hate all those crappy world suggestions and the discussion arround, so this is a possible way how to improve that.
+[2015/12/18 14:30:44] <brmbrmcar> Possibly. But then some good ideas could be ignored, due to lack of ability to make good levels.
+[2015/12/18 14:31:32] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/135
+[2015/12/18 14:32:49] <mt> fwiw, I can take care of notifying the Arch Linux packagers and updating the homebrew-games formula
+[2015/12/18 14:33:48] <brmbrmcar> Why?
+[2015/12/18 14:34:35] <Hume2> brmbrmcar: Working together with someone is allowed.
+[2015/12/18 14:34:56] <brmbrmcar> I'd imagine.
+[2015/12/18 14:35:15] <brmbrmcar> Well, yes.
+[2015/12/18 14:35:52] <mt> have we ever investigated in the case of this: https://github.com/Homebrew/homebrew-games/blob/master/supertux.rb#L50-L51
+[2015/12/18 14:36:07] <brmbrmcar> But making a whole world is still a massive task.
+[2015/12/18 14:39:31] <Hume2> brmbrmcar: Yes, but it's the only way how to get which level is good and which is bad.
+[2015/12/18 14:39:42] <Hume2> s/level/world/
+[2015/12/18 14:39:42] <red_bot> Hume2 meant: "brmbrmcar: Yes, but it's the only way how to get which world is good and which is bad."
