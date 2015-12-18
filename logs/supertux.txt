@@ -24029,3 +24029,22 @@
 [2015/12/18 14:55:26] <brmbrmcar> Tiles?
 [2015/12/18 14:55:29] <brmbrmcar> Nice!
 [2015/12/18 14:56:52] @ Quit: giby: Ping timeout: 256 seconds
+[2015/12/18 15:00:01] <Hume2> Karkus: https://www.dropbox.com/s/uqnaxcyxjq73sd6/img.zip?dl=0
+[2015/12/18 15:00:09] <brmbrmcar> I'd also like to see what the tiles look like?
+[2015/12/18 15:00:13] <brmbrmcar> Oh.
+[2015/12/18 15:01:56] <Hume2> When I do something myself, do never ask for license. You can do anything with my work, I'm not so foolish to judge for it.
+[2015/12/18 15:03:45] <Karkus> Hume2: So, it's all your work then?
+[2015/12/18 15:03:49] <brmbrmcar> All that text is going to have to be translated.
+[2015/12/18 15:04:00] <brmbrmcar> For other languages.
+[2015/12/18 15:04:05] <Hume2> Karkus: Yes, it is.
+[2015/12/18 15:04:12] <Hume2> brmbrmcar: What text?
+[2015/12/18 15:04:26] <brmbrmcar> cave_entrance-editor.png
+[2015/12/18 15:04:31] <brmbrmcar> An example.
+[2015/12/18 15:04:34] <brmbrmcar> use me!
+[2015/12/18 15:04:59] <Hume2> brmbrmcar: It's an easter egg, can't there be any?
+[2015/12/18 15:05:15] <brmbrmcar> Oh.
+[2015/12/18 15:05:24] <brmbrmcar> I didn't realise.
+[2015/12/18 15:10:52] <Hume2> What about an easter SuperTux update?
+[2015/12/18 15:11:09] <Hume2> I'm not talking about 0.4.1, it can be any release.
+[2015/12/18 15:11:54] <Hume2> It wouldn't contain any easter-themed stuff, but easter eggs!
+[2015/12/18 15:14:32] <brmbrmcar> Awesome!
