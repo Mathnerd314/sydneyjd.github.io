@@ -23781,3 +23781,6 @@
 [2015/12/18 09:20:23] @ tuxdev_ joined channel #supertux
 [2015/12/18 09:48:38] @ brmbrmcar joined channel #supertux
 [2015/12/18 10:13:08] @ Hume2 joined channel #supertux
+[2015/12/18 10:38:39] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/18 10:42:58] @ Tobbi joined channel #supertux
+[2015/12/18 10:42:58] @ Mode +o Tobbi by ChanServ
