@@ -23653,3 +23653,4 @@
 [2015/12/18 01:48:06] @ tuxdev_ joined channel #supertux
 [2015/12/18 02:32:40] <mt> maths22: not really about PHP (even though I don't really like it) - but if some wannabe web developer starts writing broken, unsafe code (which is quite easy, when e.g. sending mails with PHP)
 [2015/12/18 02:35:52] @ leyyin joined channel #supertux
+[2015/12/18 04:44:53] @ Quit: tuxdev_: Ping timeout: 240 seconds
