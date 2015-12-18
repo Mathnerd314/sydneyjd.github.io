@@ -23690,3 +23690,9 @@
 [2015/12/18 07:55:03] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97659958
 [2015/12/18 07:55:04] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/125
 [2015/12/18 07:59:05] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97659958
+[2015/12/18 08:06:00] @ Karkus joined channel #supertux
+[2015/12/18 08:07:54] <Tobbi> Hello Karkus.
+[2015/12/18 08:08:03] <Karkus> Hey Tobbi
+[2015/12/18 08:11:51] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/97659958
+[2015/12/18 08:12:07] <Tobbi> Karkus: Language packs do install automatically after changing language. Problem is doing this at startup. It works, but it shows the addon menu, because the add-on menu is what's being shown when you need to update them.
+[2015/12/18 08:12:36] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/125
