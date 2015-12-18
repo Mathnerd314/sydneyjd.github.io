@@ -23828,3 +23828,21 @@
 [2015/12/18 11:40:55] <Hume2> priority: brmbrmerror
 [2015/12/18 11:41:46] <Tobbi> Hume2: ...
 [2015/12/18 11:41:50] <Hume2> :D
+[2015/12/18 11:49:06] <Karkus> Hume2: Please can you rebase your in-game editor with the latest changes?
+[2015/12/18 11:49:14] <Karkus> I'd like to test it out
+[2015/12/18 11:49:35] <Hume2> Karkus: Yes. I'll just fix the conflicts.
+[2015/12/18 11:49:52] <Karkus> Hume2: Thanks
+[2015/12/18 11:49:56] <Hume2> I haven't worekd on this for ages.
+[2015/12/18 11:50:52] <Tobbi> Hume2: But you can work on it after the release. Might be nice.
+[2015/12/18 11:50:53] <Tobbi> :)
+[2015/12/18 11:51:03] <Hume2> Tobbi: I will.
+[2015/12/18 11:55:09] <Hume2> Karkus: We should consider how will it be with the editor.
+[2015/12/18 11:55:43] <Karkus> Hume2: I'd be interested in helping you with the in-game editor
+[2015/12/18 11:56:35] <Hume2> Karkus: Thanks! I could move that editor branch to origin, so anyone could contribute on it.
+[2015/12/18 11:57:59] <Hume2> However it won't be merged with master until it will be finished.
+[2015/12/18 11:58:53] <Karkus> Hume2: That sounds like a good idea
+[2015/12/18 11:58:56] <Tobbi> Karkus: So, the rationale is that people who want to make minor / basic adjustments to levels will use the ingame editor, anyone else can use the python one, right?
+[2015/12/18 11:59:12] <Hume2> Yes. Exactly.
+[2015/12/18 11:59:18] <Tobbi> sounds good.
+[2015/12/18 11:59:39] <Karkus> The in-game editor is for people who aren't interested in learning in detail about levels and scripting etc.
+[2015/12/18 11:59:43] @ brmbrmcar joined channel #supertux
