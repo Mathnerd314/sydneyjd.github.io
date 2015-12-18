@@ -23739,3 +23739,36 @@
 [2015/12/18 08:44:51] <Tobbi> Karkus: Not yet. tx update is still needed.
 [2015/12/18 08:44:54] <Tobbi> etc.
 [2015/12/18 08:44:54] <head8debian> Tobbi: Ok, good.
+[2015/12/18 08:45:23] <Karkus> Ah, I forget that's all tied in with the tag. Is giby doing that?
+[2015/12/18 08:45:35] <Tobbi> Karkus: I think he agreed to do it yesterday.
+[2015/12/18 08:45:38] <Tobbi> If not, I will do it.
+[2015/12/18 08:45:53] <giby> Karkus, No
+[2015/12/18 08:46:03] <Tobbi> Karkus: Also, credits update is needed.
+[2015/12/18 08:46:08] <Tobbi> Ah, okay, then I will do it.
+[2015/12/18 08:46:08] <Karkus> giby: Okay
+[2015/12/18 08:46:10] <giby> ~figlet I'm Not
+[2015/12/18 08:46:10] <red_bot>    ____ _          _  __      __ 
+[2015/12/18 08:46:10] <red_bot>   /  _/( )__ _    / |/ /___  / /_
+[2015/12/18 08:46:10] <red_bot>  _/ /  |//  ' \  /    // _ \/ __/
+[2015/12/18 08:46:10] <red_bot> /___/   /_/_/_/ /_/|_/ \___/\__/
+[2015/12/18 08:46:40] <Karkus> Tobbi: For translators?
+[2015/12/18 08:46:47] <Tobbi> giby: Then I will include every language with at least 50% translated items.
+[2015/12/18 08:46:50] <Tobbi> Plus, main menu.
+[2015/12/18 08:46:59] <Tobbi> Karkus: Translators and everyone else.
+[2015/12/18 08:47:02] <head8debian> Good afternoon giby.
+[2015/12/18 08:47:06] <Tobbi> We forgot quite a few people.
+[2015/12/18 08:48:41] <Karkus> Tobbi: How can I install an addon from a zip on my computer?
+[2015/12/18 08:49:12] <Tobbi> Karkus: Just drop it to the ~/.supertux2 directory.
+[2015/12/18 08:49:25] <Tobbi> Or rather... ~/.supertux2/addons
+[2015/12/18 08:49:26] <Tobbi> iirc.
+[2015/12/18 08:50:36] <Tobbi> giby: You updated the translators manually, didn't you? You assembled a list from the po files, I assume?
+[2015/12/18 08:50:39] <Karkus> Tobbi: Of course, physfs works with zip files
+[2015/12/18 08:50:45] <Karkus> Thanks
+[2015/12/18 08:52:34] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/127
+[2015/12/18 08:55:18] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v0NZY
+[2015/12/18 08:55:19] <Not-e81f> [02supertux] 07Tobias Markus 03ab7a450 - Update website address in credits
+[2015/12/18 08:56:28] <giby> I added them manually based on the previous list respecting alphabetical order
+[2015/12/18 08:57:21] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#266: Website - 13http://git.io/v02g0
+[2015/12/18 08:57:22] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#266: Website - 13http://git.io/v02g0
+[2015/12/18 08:57:36] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#264: Make portable version - 13http://git.io/v0RWa
+[2015/12/18 08:57:37] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#264: Make portable version - 13http://git.io/v0RWa
