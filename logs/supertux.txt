@@ -23904,3 +23904,27 @@
 [2015/12/18 12:41:05] <Tobbi> But it certainly works.
 [2015/12/18 12:42:28] <Karkus> I guess since it can't be built independently, that wouldn't be useful.
 [2015/12/18 12:43:23] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/97711060
+[2015/12/18 12:45:24] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/97713572
+[2015/12/18 12:48:37] @ brmbrmcar joined channel #supertux
+[2015/12/18 12:50:37] <Tobbi> What's wrong with that? ^^
+[2015/12/18 12:52:29] <Not-e81f> [02supertux] 07Hume2 synchronize pull request 03#103: WIP Level Editor - 13http://git.io/vYbm7
+[2015/12/18 12:52:30] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97720554
+[2015/12/18 12:52:34] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/131
+[2015/12/18 12:53:44] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97720554
+[2015/12/18 12:54:23] <maths22> Tobbi: Same silly pull request bug with travis.yml I really need to fix that (Do we need it fixed right now, or can it wait until after release?)
+[2015/12/18 12:54:37] <Not-e81f> [02supertux] 07Hume2 created branch 03editor - 13http://git.io/vvf63
+[2015/12/18 12:54:41] <Not-e81f> [02supertux] 07Hume2 pushed 0379 commits to 03editor [+940/-491/±4125] 13http://git.io/v0xvG
+[2015/12/18 12:54:43] <Not-e81f> [02supertux] 07Hume2 03106297e - Save level method
+[2015/12/18 12:54:44] <Tobbi> maths22: Hmm...It can possibly wait after release.
+[2015/12/18 12:54:45] <Not-e81f> [02supertux] 07Hume2 03558c6d9 - Editor select level menu
+[2015/12/18 12:54:46] <Not-e81f> [02supertux] 07Hume2 03e58f9ea - Level editor can load a level.
+[2015/12/18 12:54:47] <Not-e81f> [02supertux] ... and 76 more commits.
+[2015/12/18 12:54:49] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97721214
+[2015/12/18 12:54:51] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/132
+[2015/12/18 12:55:24] <maths22> Tobbi: the main issue is just that I will need to update travis.yml on all the branches
+[2015/12/18 12:55:44] <Hume2> Poor App-Veyor...
+[2015/12/18 12:55:50] <Tobbi> maths22: On the other hand, I'd really like to run a last coverity build before the release.
+[2015/12/18 12:56:45] @ Quit: tuxdev_: Ping timeout: 265 seconds
+[2015/12/18 12:57:12] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97721214
+[2015/12/18 12:57:20] <Tobbi> But it's your decision, of course.
+[2015/12/18 12:58:56] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/97720554
