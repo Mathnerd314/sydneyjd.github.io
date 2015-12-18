@@ -23712,3 +23712,30 @@
 [2015/12/18 08:28:23] @ irungentoo joined channel #supertux
 [2015/12/18 08:29:12] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97665112
 [2015/12/18 08:29:43] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97663036
+[2015/12/18 08:33:26] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/v0NtP
+[2015/12/18 08:33:28] <Not-e81f> [02supertux] 07Tobias Markus 03f8e25c6 - Only attempt to update if lang != en [ci skip]
+[2015/12/18 08:34:21] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/126
+[2015/12/18 08:39:59] <Tobbi> I am still not satisfied with this.
+[2015/12/18 08:40:02] <Tobbi> But let's do it after release.
+[2015/12/18 08:41:18] <Karkus> Tobbi: Other than that, is there anything left to be fixed in the code?
+[2015/12/18 08:42:45] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97665112
+[2015/12/18 08:43:12] <Tobbi> Karkus: I don't think so. It's pretty stable...
+[2015/12/18 08:43:24] <Tobbi> besides, it starts as fast as ever. Don't know what was wrong yesterday.
+[2015/12/18 08:43:47] <Karkus> Tobbi: Great!
+[2015/12/18 08:43:56] <head8debian> ;D
+[2015/12/18 08:44:07] <head8debian> ~figlet 2 days untill release!!!!
+[2015/12/18 08:44:07] <red_bot>    ___       __                              __   _  __ __
+[2015/12/18 08:44:07] <red_bot>   |_  |  ___/ /___ _ __ __ ___   __ __ ___  / /_ (_)/ // /
+[2015/12/18 08:44:07] <red_bot>  / __/  / _  // _ `// // /(_-<  / // // _ \/ __// // // / 
+[2015/12/18 08:44:07] <red_bot> /____/  \_,_/ \_,_/ \_, //___/  \_,_//_//_/\__//_//_//_/  
+[2015/12/18 08:44:07] <red_bot>                    /___/                                  
+[2015/12/18 08:44:07] <red_bot>              __                     __ __ __ __
+[2015/12/18 08:44:07] <red_bot>   ____ ___  / /___  ___ _ ___ ___  / // // // /
+[2015/12/18 08:44:07] <red_bot>  / __// -_)/ // -_)/ _ `/(_-</ -_)/_//_//_//_/ 
+[2015/12/18 08:44:07] <red_bot> /_/   \__//_/ \__/ \_,_//___/\__/(_)(_)(_)(_)
+[2015/12/18 08:44:18] <Tobbi> :D
+[2015/12/18 08:44:32] <Karkus> Tobbi: We can tag it then?
+[2015/12/18 08:44:43] <Tobbi> head8debian: So, I will hold off on updating langpacks at startup until I found a decent way to do so.
+[2015/12/18 08:44:51] <Tobbi> Karkus: Not yet. tx update is still needed.
+[2015/12/18 08:44:54] <Tobbi> etc.
+[2015/12/18 08:44:54] <head8debian> Tobbi: Ok, good.
