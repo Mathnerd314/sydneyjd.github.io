@@ -23868,3 +23868,14 @@
 [2015/12/18 12:12:59] <Not-e81f> [02supertux] 07Hume2 synchronize pull request 03#103: WIP Level Editor - 13http://git.io/vYbm7
 [2015/12/18 12:13:01] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97713142
 [2015/12/18 12:13:05] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/129
+[2015/12/18 12:15:28] <Not-e81f> [02supertux] 07Hume2 synchronize pull request 03#103: WIP Level Editor - 13http://git.io/vYbm7
+[2015/12/18 12:15:30] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97713572
+[2015/12/18 12:15:32] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/130
+[2015/12/18 12:17:47] @ alket joined channel #supertux
+[2015/12/18 12:18:29] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97713142
+[2015/12/18 12:19:35] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/128
+[2015/12/18 12:26:30] @ datahead8888 is now known as datahead7777
+[2015/12/18 12:27:15] <Karkus> Unless the in-game editor was a submodule...
+[2015/12/18 12:27:32] <Hume2> What it the right alphabetical order of "d" and "ch" ?
+[2015/12/18 12:28:22] <Karkus> "ch" isn't in the alphabet by itself, only "c" and "h". Therefore "c" in "ch" puts it first
+[2015/12/18 12:29:47] <Hume2> In Czech is "ch" between "h" and "i", so when I mess it up, just notify me.
