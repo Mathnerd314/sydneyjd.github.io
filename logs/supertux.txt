@@ -23655,3 +23655,5 @@
 [2015/12/18 02:35:52] @ leyyin joined channel #supertux
 [2015/12/18 04:44:53] @ Quit: tuxdev_: Ping timeout: 240 seconds
 [2015/12/18 05:00:07] @ Quit: tux|dude: Quit: Leaving
+[2015/12/18 05:28:50] @ Tobbi joined channel #supertux
+[2015/12/18 05:28:50] @ Mode +o Tobbi by ChanServ
