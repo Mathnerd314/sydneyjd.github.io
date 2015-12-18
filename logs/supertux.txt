@@ -23812,3 +23812,11 @@
 [2015/12/18 11:09:35] <Karkus> As a reminder ^
 [2015/12/18 11:10:26] <Tobbi> Karkus: By the way: Do we include addon authors in the credits?
 [2015/12/18 11:10:44] <Tobbi> Might become a little...overkill.
+[2015/12/18 11:15:15] <Karkus> Tobbi: Not in the game, I don't think.
+[2015/12/18 11:15:20] <Tobbi> okay...
+[2015/12/18 11:15:30] <Karkus> Tobbi: Maybe they could provide their own credits somehow?
+[2015/12/18 11:15:38] <Tobbi> Karkus: Yeah, I think so...
+[2015/12/18 11:15:42] <Tobbi> But not for this release :P
+[2015/12/18 11:15:43] <Tobbi> :D
+[2015/12/18 11:15:51] <Karkus> Of course not :)
+[2015/12/18 11:26:31] <Not-e81f> [02flexlay] 07Grumbel commented on issue 03#42: Speed up rendering of tilemaps - 13http://git.io/v0ACu
