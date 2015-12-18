@@ -24066,3 +24066,8 @@
 [2015/12/18 17:10:01] <Not-e81f> [02flexlay] 07Karkus 03a6b6d2e - Change New Level Wizard to GenericDialog
 [2015/12/18 17:10:38] @ Karkus joined channel #supertux
 [2015/12/18 18:00:00] <Not-e81f> [02flexlay] 07Karkus476 pushed 031 commit to 03develop [+13/-12/±6] 13http://git.io/v0pFS
+[2015/12/18 18:00:02] <Not-e81f> [02flexlay] 07Karkus 03df21bde - Reorganisation
+[2015/12/18 18:03:21] <Not-e81f> [02flexlay] 07Karkus476 pushed 031 commit to 03develop [+0/-0/±1] 13http://git.io/v0pbX
+[2015/12/18 18:03:23] <Not-e81f> [02flexlay] 07Karkus 03d0b4cb6 - Fixes bugs caused by reorganisation
+[2015/12/18 18:10:45] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2015/12/18 18:10:48] <tux|dude> nearly the big day
