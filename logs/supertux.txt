@@ -23677,3 +23677,6 @@
 [2015/12/18 06:49:16] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97650401
 [2015/12/18 06:49:18] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/124
 [2015/12/18 06:50:26] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97650401
+[2015/12/18 07:01:56] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/18 07:03:07] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/97650401
+[2015/12/18 07:07:46] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/124
