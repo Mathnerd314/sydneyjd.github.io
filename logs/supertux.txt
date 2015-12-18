@@ -23879,3 +23879,28 @@
 [2015/12/18 12:27:32] <Hume2> What it the right alphabetical order of "d" and "ch" ?
 [2015/12/18 12:28:22] <Karkus> "ch" isn't in the alphabet by itself, only "c" and "h". Therefore "c" in "ch" puts it first
 [2015/12/18 12:29:47] <Hume2> In Czech is "ch" between "h" and "i", so when I mess it up, just notify me.
+[2015/12/18 12:30:03] <Karkus> Hume2: What are you ordering?
+[2015/12/18 12:31:12] <Hume2> I just ordered some includes and I messed it up because of this.
+[2015/12/18 12:31:40] <Karkus> Hume2: Also, is the in-game editor based off older code or completely new, all created by you?
+[2015/12/18 12:31:56] <Hume2> Yes.
+[2015/12/18 12:32:48] <Karkus> Hume2: Based off older code?
+[2015/12/18 12:33:09] <Hume2> Based off older code.
+[2015/12/18 12:33:43] <Karkus> Hume2: Oh, right.
+[2015/12/18 12:35:09] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/97713142
+[2015/12/18 12:36:39] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97713572
+[2015/12/18 12:37:31] <Karkus> Tobbi: Would it be possible or necessary to have the in-game editor as a submodule?
+[2015/12/18 12:37:44] <Tobbi> Karkus: It would certainly be possible.
+[2015/12/18 12:37:49] <Tobbi> Karkus: Actually...
+[2015/12/18 12:37:53] <Hume2> I guess it won't be.
+[2015/12/18 12:38:36] <Tobbi> We'd need an add-on mechanism that can bind to menus and arbitrary keystrokes.
+[2015/12/18 12:38:46] <Karkus> Hume2: Then we can make issues & pull requests separately
+[2015/12/18 12:39:18] <Hume2> Karkus: I guess we have already the label involves:editor.
+[2015/12/18 12:39:50] <Karkus> I guess...
+[2015/12/18 12:40:11] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/129
+[2015/12/18 12:40:46] <Karkus> Tobbi: I wasn't thinking an add-on, just a submodule, to keep things more organised.
+[2015/12/18 12:40:52] <Karkus> But maybe not then...
+[2015/12/18 12:40:53] <Tobbi> Karkus: Ah, that might work.
+[2015/12/18 12:41:02] <Tobbi> Karkus: It can't be built independently of course.
+[2015/12/18 12:41:05] <Tobbi> But it certainly works.
+[2015/12/18 12:42:28] <Karkus> I guess since it can't be built independently, that wouldn't be useful.
+[2015/12/18 12:43:23] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/97711060
