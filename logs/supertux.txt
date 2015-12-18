@@ -23951,3 +23951,15 @@
 [2015/12/18 13:16:22] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/134
 [2015/12/18 13:17:26] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97724916
 [2015/12/18 13:18:35] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/131
+[2015/12/18 13:31:58] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97724916
+[2015/12/18 13:33:32] <Tobbi> That looks good.
+[2015/12/18 13:35:55] <Not-e81f> [02supertux] 07tobbi created branch 03coverity_scan 13http://git.io/v0xCF
+[2015/12/18 13:35:57] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97728438
+[2015/12/18 13:35:58] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/135
+[2015/12/18 13:36:48] <datahead7777> I herad milestone 2 will be released very soon.
+[2015/12/18 13:36:56] <datahead7777> ***heard
+[2015/12/18 13:37:06] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97728438
+[2015/12/18 13:37:52] <brmbrmcar> Sunday!
+[2015/12/18 13:37:54] <Tobbi> datahead7777: on Sunday...
+[2015/12/18 13:38:04] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/132
+[2015/12/18 13:42:19] <Hume2> Unfortunately, I'll be out whole Sunday, so I'll notice it on Monday.
