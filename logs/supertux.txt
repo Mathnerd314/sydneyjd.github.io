@@ -23644,3 +23644,4 @@
 [2015/12/17 22:23:51] <Tobbi> night
 [2015/12/17 22:25:21] @ Quit: irungentoo: Remote host closed the connection
 [2015/12/17 23:03:57] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/17 23:31:11] @ Quit: bb010g: Quit: Connection closed for inactivity
