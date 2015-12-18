@@ -23772,3 +23772,9 @@
 [2015/12/18 08:57:22] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#266: Website - 13http://git.io/v02g0
 [2015/12/18 08:57:36] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#264: Make portable version - 13http://git.io/v0RWa
 [2015/12/18 08:57:37] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#264: Make portable version - 13http://git.io/v0RWa
+[2015/12/18 09:00:15] <Tobbi> giby: Okay, I guess I'll do the same.
+[2015/12/18 09:00:58] <giby> Just add translator who has been active
+[2015/12/18 09:01:16] <giby> alphabetical order of last name ;)
+[2015/12/18 09:03:29] <Tobbi> giby: I thought I'd go through the po files. Since that includes people who worked on the translation.
+[2015/12/18 09:07:30] <Tobbi> I'm also double-checking translations using Google translate. So far so good.
+[2015/12/18 09:07:31] <Tobbi> :)
