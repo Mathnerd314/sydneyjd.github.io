@@ -23963,3 +23963,17 @@
 [2015/12/18 13:37:54] <Tobbi> datahead7777: on Sunday...
 [2015/12/18 13:38:04] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/132
 [2015/12/18 13:42:19] <Hume2> Unfortunately, I'll be out whole Sunday, so I'll notice it on Monday.
+[2015/12/18 13:47:26] <Tobbi> Hume2: Not a lot will happen.
+[2015/12/18 13:47:31] <Tobbi> Updating credits, updating langpacks...
+[2015/12/18 13:47:35] <Tobbi> and release stuff.
+[2015/12/18 13:48:51] <Hume2> As I excepted.
+[2015/12/18 13:49:01] <Hume2> s/excepted/expected/
+[2015/12/18 13:49:01] <red_bot> Hume2 meant: "As I expected."
+[2015/12/18 13:54:15] <Not-e81f> [02flexlay] 07Karkus476 pushed 031 commit to 03develop [+5/-1/±4] 13http://git.io/v0x0U
+[2015/12/18 13:54:16] <Not-e81f> [02flexlay] 07Karkus 03dbe479a - Implements GenericWizard, adds some tests
+[2015/12/18 13:56:30] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/133
+[2015/12/18 13:59:00] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03editor [+4/-0/±4] 13http://git.io/v0xuD
+[2015/12/18 13:59:02] <Not-e81f> [02supertux] 07Hume2 03d23570d - Added color menu
+[2015/12/18 13:59:03] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97732139
+[2015/12/18 13:59:04] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/136
+[2015/12/18 13:59:59] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97732139
