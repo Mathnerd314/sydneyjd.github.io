@@ -23792,3 +23792,23 @@
 [2015/12/18 10:51:46] <Tobbi> maths22: Could you package language add-ons with the installer executable? And then install the relevant add-on?
 [2015/12/18 10:52:06] <Tobbi> target directory would be <supertux profile folder>/addons
 [2015/12/18 10:52:24] <Tobbi> Maybe it's a bit too late for that, though.
+[2015/12/18 11:03:29] <Tobbi> Karkus: We could certainly have one big sprite for each layer and then just copy the relevant parts from there. That means we only need to draw one sprite which should be substantially faster than drawing a couple of sprites.
+[2015/12/18 11:03:58] <Tobbi> By copying I mean: If you add tiles, we change the sprite and update it.
+[2015/12/18 11:04:35] <Karkus> Tobbi: Would it be faster?
+[2015/12/18 11:04:45] @ Quit: brmbrmcar: Quit: Found terminal
+[2015/12/18 11:04:52] <Tobbi> Karkus: I can't tell yet...But I think it should...
+[2015/12/18 11:05:01] <Tobbi> At least, it's worth a try.
+[2015/12/18 11:06:14] <Karkus> Tobbi: Actually, that wouldn't work.
+[2015/12/18 11:06:43] <Karkus> Tobbi: We would be drawing everything, even that which is hidden from view (zoomed in, etc.)
+[2015/12/18 11:06:57] <Karkus> The editor hides all that at the moment
+[2015/12/18 11:07:06] <Tobbi> right...
+[2015/12/18 11:07:09] <Tobbi> hrm.
+[2015/12/18 11:07:09] <Karkus> Eh, I don't know
+[2015/12/18 11:07:31] <Tobbi> Karkus: We should benchmark a little to see what're most expensive calls...
+[2015/12/18 11:07:49] <Karkus> Ugh. Yeah, that's a great idea.
+[2015/12/18 11:08:22] <Karkus> I'm currently creating tests for various things.
+[2015/12/18 11:08:59] <Tobbi> ok, good.
+[2015/12/18 11:09:27] <Not-e81f> [02flexlay] 07Karkus476 commented on issue 03#42: Speed up rendering of tilemaps - 13http://git.io/v0AOB
+[2015/12/18 11:09:35] <Karkus> As a reminder ^
+[2015/12/18 11:10:26] <Tobbi> Karkus: By the way: Do we include addon authors in the credits?
+[2015/12/18 11:10:44] <Tobbi> Might become a little...overkill.
