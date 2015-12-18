@@ -23784,3 +23784,11 @@
 [2015/12/18 10:38:39] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/18 10:42:58] @ Tobbi joined channel #supertux
 [2015/12/18 10:42:58] @ Mode +o Tobbi by ChanServ
+[2015/12/18 10:45:27] <giby> ;)
+[2015/12/18 10:46:55] <maths22> mt: Thanks.  That makes sense
+[2015/12/18 10:49:55] <mt> giby: if you're already here, you could probably give some people some ChanServ flags (like +AVeiotv); where some people = people in the @SuperTux/core group
+[2015/12/18 10:50:19] <mt> documentation for what those flags do: /msg ChanServ help flags
+[2015/12/18 10:50:24] <giby> Ok
+[2015/12/18 10:51:46] <Tobbi> maths22: Could you package language add-ons with the installer executable? And then install the relevant add-on?
+[2015/12/18 10:52:06] <Tobbi> target directory would be <supertux profile folder>/addons
+[2015/12/18 10:52:24] <Tobbi> Maybe it's a bit too late for that, though.
