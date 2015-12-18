@@ -23580,3 +23580,10 @@
 [2015/12/17 21:42:35] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97591862
 [2015/12/17 21:42:36] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/121
 [2015/12/17 21:43:26] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97591862
+[2015/12/17 21:45:02] <Tobbi> head8debian: You there?
+[2015/12/17 21:56:48] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97591862
+[2015/12/17 21:58:35] <head8debian> Tobbi: I am now. And im happy. :D
+[2015/12/17 21:58:41] <head8debian> In a good mood***
+[2015/12/17 21:59:06] <Tobbi> head8debian: Nice. :) Can you please test that langpacks get installed when selecting a different language?
+[2015/12/17 21:59:25] <Tobbi> It should display dialogs briefly...
+[2015/12/17 21:59:31] <head8debian> Ok.
