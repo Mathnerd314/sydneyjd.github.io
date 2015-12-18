@@ -23587,3 +23587,42 @@
 [2015/12/17 21:59:06] <Tobbi> head8debian: Nice. :) Can you please test that langpacks get installed when selecting a different language?
 [2015/12/17 21:59:25] <Tobbi> It should display dialogs briefly...
 [2015/12/17 21:59:31] <head8debian> Ok.
+[2015/12/17 22:00:32] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/121
+[2015/12/17 22:01:31] <head8debian> Tobbi: Oh, it started quick this time... odd.
+[2015/12/17 22:01:39] <Tobbi> head8debian: I don't know why...
+[2015/12/17 22:01:44] <Tobbi> And it did the same thing for me.
+[2015/12/17 22:02:32] <head8debian> Tobbi: How do you use the language packs? I pretty download dialog popped up. :D
+[2015/12/17 22:02:45] <Tobbi> head8debian: They get installed automatically.
+[2015/12/17 22:02:52] <Tobbi> But it's good that the download dialog popped up.
+[2015/12/17 22:02:55] <Tobbi> Exactly what I wanted.
+[2015/12/17 22:03:06] <head8debian> ;
+[2015/12/17 22:03:09] <head8debian> D
+[2015/12/17 22:03:36] <Tobbi> A download dialog is better than not displaying anything at all.
+[2015/12/17 22:03:43] <Tobbi> head8debian: How long did the download dialog stay?
+[2015/12/17 22:06:06] <head8debian> Tobbi: Untill i clicked close iirc.
+[2015/12/17 22:06:18] <Tobbi> head8debian: It should close automatically...
+[2015/12/17 22:06:20] <Tobbi> It didn't?
+[2015/12/17 22:06:42] <head8debian> let me retry that.
+[2015/12/17 22:07:36] <head8debian> Tobbi: Nope, i had to click close.
+[2015/12/17 22:07:42] <head8debian> click "close".
+[2015/12/17 22:07:46] <Tobbi> head8debian: Hmm, after download?
+[2015/12/17 22:08:19] <head8debian> Tobbi: Yes.
+[2015/12/17 22:08:25] <Tobbi> ok
+[2015/12/17 22:08:30] <head8debian> Tobbi: Looked fine to me.
+[2015/12/17 22:08:58] <head8debian> Tobbi: Looks like the download addon repository popup.
+[2015/12/17 22:09:07] <Tobbi> head8debian: it is the very same.
+[2015/12/17 22:09:22] <head8debian> :)
+[2015/12/17 22:09:35] <head8debian> Tobbi: Thats all i can test atm.
+[2015/12/17 22:09:40] <Tobbi> no problem.
+[2015/12/17 22:09:57] <head8debian> Tobbi: Anything else for tonight?
+[2015/12/17 22:10:26] <Tobbi> head8debian: Not for now.
+[2015/12/17 22:10:40] <head8debian> ok.
+[2015/12/17 22:10:41] <Tobbi> I will probably make that dialog auto-close etc.
+[2015/12/17 22:10:47] <Tobbi> And run at startup.
+[2015/12/17 22:10:51] <Tobbi> So that it doesn't bother...
+[2015/12/17 22:12:07] <head8debian> Tobbi: Whatever you think best.
+[2015/12/17 22:14:04] <head8debian> Tobbi: My phone is comming appart at the seams. ;(
+[2015/12/17 22:14:16] <Tobbi> head8debian: How old was it again?
+[2015/12/17 22:14:46] <head8debian> Tobbi: 5 years.
+[2015/12/17 22:14:53] <Tobbi> Hmm...
+[2015/12/17 22:14:53] <head8debian> Approaching 6.
