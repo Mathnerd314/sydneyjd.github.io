@@ -24006,3 +24006,26 @@
 [2015/12/18 14:39:31] <Hume2> brmbrmcar: Yes, but it's the only way how to get which level is good and which is bad.
 [2015/12/18 14:39:42] <Hume2> s/level/world/
 [2015/12/18 14:39:42] <red_bot> Hume2 meant: "brmbrmcar: Yes, but it's the only way how to get which world is good and which is bad."
+[2015/12/18 14:46:01] <Karkus> Hume2: If you design a tileset and a worldmap, your world will almost certainly be considered.
+[2015/12/18 14:46:30] <Hume2> Well... I have already some sprites.
+[2015/12/18 14:48:33] <Karkus> Hume2: For a world?
+[2015/12/18 14:48:43] <Hume2> Karkus: Yes.
+[2015/12/18 14:48:49] <Karkus> Hume2: What world?
+[2015/12/18 14:49:20] <Hume2> Karkus: Jungle island, cave world and volcano island.
+[2015/12/18 14:49:29] <Hume2> That's for tiles.
+[2015/12/18 14:49:37] <Karkus> Hume2: Where are the tiles?
+[2015/12/18 14:49:58] <Hume2> On my computer and somewhere at the bottom of LMH's e-mail.
+[2015/12/18 14:50:02] <Hume2> :D
+[2015/12/18 14:50:09] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/136
+[2015/12/18 14:50:11] <Karkus> Hume2: Can you send them to me?
+[2015/12/18 14:50:30] <Hume2> Yes, I'll try...
+[2015/12/18 14:50:32] <Karkus> I'd be interested to see what they look lie
+[2015/12/18 14:50:34] <Karkus> like
+[2015/12/18 14:50:42] <mt> Karkus: s/send them to me/upload them to some place for everyone, if licensing allows it/
+[2015/12/18 14:51:03] <Karkus> mt: Well, yes :D
+[2015/12/18 14:51:05] <Hume2> LOL
+[2015/12/18 14:54:35] @ giby_the_kid joined channel #supertux
+[2015/12/18 14:54:35] @ Mode +o giby_the_kid by ChanServ
+[2015/12/18 14:55:26] <brmbrmcar> Tiles?
+[2015/12/18 14:55:29] <brmbrmcar> Nice!
+[2015/12/18 14:56:52] @ Quit: giby: Ping timeout: 256 seconds
