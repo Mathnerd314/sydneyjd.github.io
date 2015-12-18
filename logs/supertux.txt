@@ -23778,3 +23778,4 @@
 [2015/12/18 09:03:29] <Tobbi> giby: I thought I'd go through the po files. Since that includes people who worked on the translation.
 [2015/12/18 09:07:30] <Tobbi> I'm also double-checking translations using Google translate. So far so good.
 [2015/12/18 09:07:31] <Tobbi> :)
+[2015/12/18 09:20:23] @ tuxdev_ joined channel #supertux
