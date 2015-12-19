@@ -25087,3 +25087,21 @@
 [2015/12/19 13:58:39] <mt> it's a bit messy
 [2015/12/19 13:58:48] <Tobbi> damn.
 [2015/12/19 13:59:01] <Tobbi> I give up.
+[2015/12/19 14:00:11] <Tobbi> When was the release of 0.1.3 again?
+[2015/12/19 14:00:26] <Hume2> 2004 I guess.
+[2015/12/19 14:00:56] <Tobbi> I have it now.
+[2015/12/19 14:01:04] <Tobbi> There's --since in the git shortlog command.
+[2015/12/19 14:06:05] <mt> yay https://zerobin.net/?c9bd127f8aa53b72#r5kRhnk283lHSS1++xpxFBUCbVetm+5wJFGLL6u3OcA=
+[2015/12/19 14:07:22] <mt> now I wrote a script that checks if [ci skip] is in the commit message, if not, it sets up a temp file where you write p/a/c into, and once something gets written to that file, it checks what was written. p simply continues, a adds \n\n[ci skip], c cancels the commit
+[2015/12/19 14:08:15] <mt> for some reason, git doesn't allow interactive input in that script
+[2015/12/19 14:10:32] <Tobbi> mt: How would I name the "Other contributions" section?
+[2015/12/19 14:10:41] <Tobbi> Smaller contributions sounds...not good.
+[2015/12/19 14:10:49] <mt> yep
+[2015/12/19 14:10:55] <mt> or "Additional contributions"
+[2015/12/19 14:11:36] <Tobbi> Yeah.
+[2015/12/19 14:11:39] <Tobbi> That's good.
+[2015/12/19 14:13:17] <Tobbi> mt: What should I credit you for, anyway?
+[2015/12/19 14:13:36] <mt> dunno
+[2015/12/19 14:13:40] <mt> "Organization"?
+[2015/12/19 14:13:57] <mt> "Coordination"?
+[2015/12/19 14:14:47] <Tobbi> Sure.
