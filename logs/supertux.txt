@@ -24836,3 +24836,22 @@
 [2015/12/19 11:44:07] <Not-e81f> [02supertux] 07Tobias Markus 03d99975c - Trigger build
 [2015/12/19 11:44:09] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97857374
 [2015/12/19 11:44:10] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/144
+[2015/12/19 11:45:05] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97854721
+[2015/12/19 11:45:27] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97857374
+[2015/12/19 11:49:15] <Not-e81f> [02supertux] 07maxteufel deleted branch 03feature/travis-ci-docker-builds - 13http://git.io/vvf63
+[2015/12/19 11:49:17] <Not-e81f> [02supertux] 07maxteufel deleted branch 03feature/travis-ci-docker-builds
+[2015/12/19 11:49:28] <mt> that was my working branch; don't need it anymore ^
+[2015/12/19 11:50:15] <Tobbi> It's okay.
+[2015/12/19 11:50:32] <mt> what about christmas, develop, ghosttree, langpacks and travis_matrix?
+[2015/12/19 11:50:55] @ Quit: nerdopolis: Read error: Connection reset by peer
+[2015/12/19 11:51:09] <Tobbi> mt: I will review them in a minute.
+[2015/12/19 11:51:44] @ nerdopolis joined channel #supertux
+[2015/12/19 11:52:13] <mt> cpack-source needs review as well
+[2015/12/19 11:52:48] <Tobbi> I don't think I worked on that one.
+[2015/12/19 11:53:29] @ Quit: Karkus: Ping timeout: 255 seconds
+[2015/12/19 11:55:16] <Tobbi> mt: What was the difference of https://github.com/SuperTux/supertux/blob/travis_matrix/.travis.yml to what we have now?
+[2015/12/19 11:55:20] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/142
+[2015/12/19 11:56:04] <mt> just by looking over it, I think now we have OS X builds as well
+[2015/12/19 11:56:38] <mt> oh and that one tries to use docker
+[2015/12/19 11:56:44] <mt> the one you linked
+[2015/12/19 11:59:31] <Tobbi> ok.
