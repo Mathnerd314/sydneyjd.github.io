@@ -24482,3 +24482,10 @@
 [2015/12/19 07:18:22] <mt> Karkus: I just noticed flexlay should probably be 1.0.0 in the next release when you follow SemVer
 [2015/12/19 07:19:08] <mt> since changing from the C++ API to Python *is* an "incompatible API change" imho
 [2015/12/19 07:28:55] @ Quit: Karkus: Ping timeout: 265 seconds
+[2015/12/19 07:31:36] @ lumidify left channel #supertux ("Leaving")
+[2015/12/19 07:39:14] <head8debian> mt: Im going to be busy today, so im not sure if i will be able to get to the credits...
+[2015/12/19 07:39:27] <mt> ok
+[2015/12/19 07:39:38] <mt> then I'll look into doing that
+[2015/12/19 07:40:12] <mt> what do you think is a good number of commits to grant a 'more important' mention
+[2015/12/19 07:40:14] <mt> ?
+[2015/12/19 07:40:41] <head8debian> mt: I don't have a clue.
