@@ -24475,3 +24475,10 @@
 [2015/12/19 07:00:48] <Not-e81f> [02flexlay] 07Max Teufel 03e9853ab - README: the development version only seems to support SuperTux
 [2015/12/19 07:12:22] @ Karkus joined channel #supertux
 [2015/12/19 07:13:01] @ Quit: brmbrmcar: Quit: Lost terminal
+[2015/12/19 07:16:32] <Not-e81f> [02flexlay] 07maxteufel pushed 032 commits to 03develop [+0/-0/±2] 13http://git.io/v0jAt
+[2015/12/19 07:16:34] <Not-e81f> [02flexlay] 07Max Teufel 03d1ba667 - NEWS: update formatting
+[2015/12/19 07:16:35] <Not-e81f> [02flexlay] 07Max Teufel 0370456e5 - NEWS: reword SemVer statement
+[2015/12/19 07:17:19] <mt> Karkus: 12:38:19 <mt> red_bot: note Karkus you might wanna ask github staff to remove the fork flag from https://github.com/SuperTux/flexlay, that will make contributions to it show up in the user's contribution graph
+[2015/12/19 07:18:22] <mt> Karkus: I just noticed flexlay should probably be 1.0.0 in the next release when you follow SemVer
+[2015/12/19 07:19:08] <mt> since changing from the C++ API to Python *is* an "incompatible API change" imho
+[2015/12/19 07:28:55] @ Quit: Karkus: Ping timeout: 265 seconds
