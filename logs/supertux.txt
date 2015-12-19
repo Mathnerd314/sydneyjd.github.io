@@ -25382,3 +25382,20 @@
 [2015/12/19 18:26:32] <Tobbi> leper`: Maybe there was a miscommunication. I wasn't quite sure whether giby would show up...
 [2015/12/19 18:26:39] <Tobbi> So, to be safe, I updated it myself.
 [2015/12/19 18:28:31] @ Drangue is now known as alket
+[2015/12/19 18:36:16] <Not-e81f> [02flexlay] 07Karkus476 closed issue 03#9: Background Images Don't Show in Editor - 13http://git.io/vRSj3
+[2015/12/19 18:36:18] <Not-e81f> [02flexlay] 07Karkus476 commented on issue 03#9: Background Images Don't Show in Editor - 13http://git.io/vEfzK
+[2015/12/19 18:38:30] <alket> its already tomorrow :p
+[2015/12/19 18:38:50] <Tobbi> alket: ...
+[2015/12/19 18:38:58] <alket> im just saying for the topic
+[2015/12/19 18:39:03] <Tobbi> Oh, yes
+[2015/12/19 18:39:04] <Tobbi> Alright.
+[2015/12/19 18:39:24] @ Tobbi set topic "0.4.0 RELEASE TODAY | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | mailing list: supertux-devel@lists.lethargik.org | Channel log http://sydneyjd.github.io/logs/ | nightly builds http://download.supertuxproject.org/download/"
+[2015/12/19 18:41:13] <alket> thanks
+[2015/12/19 18:41:19] <alket> where can I read about milestones
+[2015/12/19 18:43:35] <Karkus> Tobbi: Change Stable: to 0.4.0 and remove beta
+[2015/12/19 18:43:44] <Tobbi> Okay, I will.
+[2015/12/19 18:43:50] <Tobbi> Already?
+[2015/12/19 18:43:53] <Tobbi> Well, alright.
+[2015/12/19 18:44:04] @ Tobbi set topic "0.4.0 RELEASE TODAY | https://github.com/SuperTux | Stable: 0.4.0 | mailing list: supertux-devel@lists.lethargik.org | Channel log http://sydneyjd.github.io/logs/ | nightly builds http://download.supertuxproject.org/download/"
+[2015/12/19 18:44:22] <Karkus> Well, if anyone joins, I will tell them immediately that there are still a few hours till release.
+[2015/12/19 18:44:38] <Tobbi> Yes, indeed.
