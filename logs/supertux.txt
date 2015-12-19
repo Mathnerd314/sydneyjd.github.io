@@ -25352,3 +25352,23 @@
 [2015/12/19 17:56:37] <Karkus> Let me check logs actually
 [2015/12/19 17:57:51] @ Drangue joined channel #supertux
 [2015/12/19 17:58:26] @ Quit: alket: Ping timeout: 255 seconds
+[2015/12/19 18:00:14] <Karkus> Tobbi: <grumbel> ./supertux levelname.stl --start-pos x,y
+[2015/12/19 18:00:28] <Tobbi> Oh, okay...
+[2015/12/19 18:00:31] <Karkus> Apparently.
+[2015/12/19 18:00:44] <Karkus> Just something for the editor. Let me test this
+[2015/12/19 18:00:58] @ Quit: brmbrmcar: Quit: Found terminal
+[2015/12/19 18:02:36] @ giby joined channel #supertux
+[2015/12/19 18:02:37] @ Mode +o giby by ChanServ
+[2015/12/19 18:02:49] <giby> Hi Tobbi
+[2015/12/19 18:02:55] <Tobbi> Hey giby
+[2015/12/19 18:03:14] <giby> so tomorrow you release M2?
+[2015/12/19 18:03:20] <Tobbi> giby: Yes. And translations are updated.
+[2015/12/19 18:03:30] <Tobbi> Credits as well.
+[2015/12/19 18:03:32] <giby> Cool
+[2015/12/19 18:03:50] <Tobbi> giby: I picked the translator credits manually from the backlog..
+[2015/12/19 18:04:04] <giby> I was late to do it....
+[2015/12/19 18:04:05] <Tobbi> Aka, the transifex backlog.
+[2015/12/19 18:04:07] <Tobbi> No problem.
+[2015/12/19 18:04:15] <Tobbi> I'm glad when this is done.
+[2015/12/19 18:04:20] <giby> I get issus with my new computer
+[2015/12/19 18:05:12] <Tobbi> Hmm...
