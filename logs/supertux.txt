@@ -24642,3 +24642,21 @@
 [2015/12/19 09:40:42] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#268: Implement different format for text styling - 13http://git.io/vEeEQ
 [2015/12/19 09:40:44] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#268: Implement different format for text styling - 13http://git.io/vEeEQ
 [2015/12/19 09:40:45] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#268: Implement different format for text styling - 13http://git.io/vEeEQ
+[2015/12/19 09:48:21] <brmbrmcar> When tomorrow is 0.4.0 officially out?
+[2015/12/19 09:49:31] <Tobbi> Now there's a problem: The help texts in the first level don't get localized.
+[2015/12/19 09:50:29] <brmbrmcar> Decal text was never a good idea.
+[2015/12/19 09:50:44] <brmbrmcar> Or stuff like that.
+[2015/12/19 09:51:48] <brmbrmcar> Is that the problem?
+[2015/12/19 09:52:09] <Tobbi> ...and I know why.
+[2015/12/19 09:52:32] @ irungentoo joined channel #supertux
+[2015/12/19 09:53:25] <Tobbi> mt: If I were to commit language files now, could you change every literal "\r\n" into
+[2015/12/19 09:53:32] <Tobbi> "\n" in the files?
+[2015/12/19 09:53:52] <mt> what language files?
+[2015/12/19 09:54:03] <Tobbi> Actually...
+[2015/12/19 09:54:04] <Tobbi> one moment.
+[2015/12/19 09:54:55] <Tobbi> mt: po files I intend to commit soon.
+[2015/12/19 09:55:08] <Tobbi> But maybe I can figure it out myself.
+[2015/12/19 09:56:34] <alket> hi
+[2015/12/19 09:56:44] <Tobbi> hey alket
+[2015/12/19 09:58:40] @ Hume2 joined channel #supertux
+[2015/12/19 09:59:43] <alket> I think I found something
