@@ -24506,3 +24506,15 @@
 [2015/12/19 07:51:33] <Not-e81f> [02flexlay] 07Karkus476 03c1b5bc0 - Next release will be 1.0.0
 [2015/12/19 07:52:10] <Karkus> mt: Ah, thanks!
 [2015/12/19 08:07:03] @ brmbrmcar joined channel #supertux
+[2015/12/19 08:18:07] <Not-e81f> [02supertux] 07maxteufel pushed 032 commits to 03master [+0/-0/±2] 13http://git.io/vEetl
+[2015/12/19 08:18:09] <Not-e81f> [02supertux] 07Max Teufel 037950a3a - data/credits: fix external references
+[2015/12/19 08:18:10] <Not-e81f> [02supertux] 07Max Teufel 038747c50 - data/credits: mention Karkus' Flexlay contributions, consistency fix
+[2015/12/19 08:18:11] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97836098
+[2015/12/19 08:18:13] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/138
+[2015/12/19 08:18:27] <mt> [yes I forgot [ci skip]]
+[2015/12/19 08:19:05] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97836098
+[2015/12/19 08:19:57] <mt> because I also like to delegate work, does someone want to fix the rest of data/credits.txt?
+[2015/12/19 08:22:29] <alket> head8debian: update the topic
+[2015/12/19 08:22:48] <mt> we can't
+[2015/12/19 08:23:14] <mt> only CharlieG, grumbel, giby or Tobbi can update the topic
+[2015/12/19 08:23:31] <mt> since they're the only people ChanServ will give ops to
