@@ -24901,3 +24901,34 @@
 [2015/12/19 12:13:54] <mt> that one's visible in whois or whenever someone sends you a private message
 [2015/12/19 12:14:12] <Hume2> I'll just try it.
 [2015/12/19 12:14:32] <mt> Tobbi: could the problem be that https://github.com/SuperTux/supertux/blob/master/.travis.yml#L108-L109 doesn't match with the standard build commands?
+[2015/12/19 12:15:03] <Tobbi> mt: Perhaps? I really don't know.
+[2015/12/19 12:15:33] <Not-e81f> [02flexlay] 07Karkus476 pushed 034 commits to 03develop [+0/-3/±9] 13http://git.io/vEvvx
+[2015/12/19 12:15:34] <mt> maybe maths22 can also look into that failure?
+[2015/12/19 12:15:34] <Not-e81f> [02flexlay] 07Karkus 032f8d1e8 - Small attempt to sort out simpleed.py
+[2015/12/19 12:15:36] <Not-e81f> [02flexlay] 07Karkus 034e84d34 - Writes tileset to file, and repaints editormap when changed
+[2015/12/19 12:15:37] <Not-e81f> [02flexlay] 07Karkus 03a895f48 - Removed some unused files
+[2015/12/19 12:15:39] <Not-e81f> [02flexlay] 07Karkus 03e2544e8 - Worldmaps load as worldmaps, but don't work.
+[2015/12/19 12:16:18] <Tobbi> Last credits update was in August.
+[2015/12/19 12:16:20] @ Karkus joined channel #supertux
+[2015/12/19 12:16:27] <Tobbi> Good morning, Karkus.
+[2015/12/19 12:16:34] <Tobbi> I mean: last l10n credits update was in August.
+[2015/12/19 12:17:03] <Karkus> Tobbi: Good evening Tobbi
+[2015/12/19 12:17:17] <Tobbi> :) right
+[2015/12/19 12:17:29] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#14: Crash During Write Damages Target - 13http://git.io/vEvfV
+[2015/12/19 12:18:19] <Not-e81f> [02flexlay] 07Karkus476 closed issue 03#47: Refresh editor after tileset change - 13http://git.io/vR9Cj
+[2015/12/19 12:19:53] <Karkus> Tobbi: What should I do with Flexlay's old worldmap code?
+[2015/12/19 12:20:05] <Karkus> Does SuperTux still work with old worldmaps?
+[2015/12/19 12:20:13] <Tobbi> Karkus: I don't know... Can we decide that later...I need to concentrate on updating credits for translators.
+[2015/12/19 12:20:24] <Karkus> Tobbi: Sure
+[2015/12/19 12:20:41] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/97857374
+[2015/12/19 12:20:58] <Hume2> SuperTux no longer supports the old worldmaps.
+[2015/12/19 12:22:51] <Not-e81f> [02flexlay] 07Karkus476 opened issue 03#53: Remove "except:" - 13http://git.io/vEvJM
+[2015/12/19 12:24:07] <Karkus> Hume2: Okay, I will bin the old code.
+[2015/12/19 12:26:13] <mt> wait
+[2015/12/19 12:26:26] <mt> couldn't you make it save to the new format?
+[2015/12/19 12:26:44] <mt> like, make the old code read-only
+[2015/12/19 12:28:34] <Karkus> mt: Yes, should I do that?
+[2015/12/19 12:28:41] <Karkus> Annoying, but possible
+[2015/12/19 12:28:58] <mt> or you remove the code from the editor
+[2015/12/19 12:29:09] <mt> but create a python script that makes use of flexlay's API
+[2015/12/19 12:29:21] <mt> which can convert the old worldmaps to new ones
