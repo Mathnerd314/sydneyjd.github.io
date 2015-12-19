@@ -24295,3 +24295,12 @@
 [2015/12/19 05:47:49] @ lumidify joined channel #supertux
 [2015/12/19 05:48:55] <Hume2> It's now possible to add a tile that works like angrystone.
 [2015/12/19 05:55:05] @ xet7 joined channel #supertux
+[2015/12/19 06:00:20] <Not-e81f> [02supertux] 07Hume2 pushed 033 commits to 03editor [+0/-0/±3] 13http://git.io/v0jik
+[2015/12/19 06:00:21] <Not-e81f> [02supertux] 07Hume2 031b5634b - Merge branch 'master' of https://github.com/SuperTux/supertux into editor
+[2015/12/19 06:00:23] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97825252
+[2015/12/19 06:00:24] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/137
+[2015/12/19 06:01:34] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97825252
+[2015/12/19 06:03:13] <mt> interesting, missed that change
+[2015/12/19 06:03:27] <mt> and that changed the format for .strfs?
+[2015/12/19 06:04:46] @ alket joined channel #supertux
+[2015/12/19 06:13:47] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97825252
