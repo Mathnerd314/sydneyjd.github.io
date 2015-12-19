@@ -24228,3 +24228,5 @@
 [2015/12/19 03:21:30] @ xet7 joined channel #supertux
 [2015/12/19 03:28:20] <mt> writing draft release announcement + release notes
 [2015/12/19 03:56:22] @ brmbrmcar joined channel #supertux
+[2015/12/19 04:05:06] <mt> Hume2: what did you change in 'Bonus Island X: fixed ...'?
+[2015/12/19 04:14:23] <mt> people with write access to the repos: https://github.com/SuperTux/supertux/releases/tag/untagged-a40c7704f6b7841df550
