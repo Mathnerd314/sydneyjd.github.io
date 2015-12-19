@@ -24290,3 +24290,8 @@
 [2015/12/19 05:41:23] <Hume2> And for bonus Island 3: Only extended height and added paralax backgrounds where neccessary.
 [2015/12/19 05:41:57] <Hume2> I'll now try to answer the f).
 [2015/12/19 05:44:56] <Hume2> I'd just add that the old .strf files might not work in 0.4.0 because functional tiles are now done another way. I can explain you the change if you want.
+[2015/12/19 05:45:54] <mt> sure
+[2015/12/19 05:47:31] @ Quit: lumidify: Quit: Leaving
+[2015/12/19 05:47:49] @ lumidify joined channel #supertux
+[2015/12/19 05:48:55] <Hume2> It's now possible to add a tile that works like angrystone.
+[2015/12/19 05:55:05] @ xet7 joined channel #supertux
