@@ -24214,3 +24214,5 @@
 [2015/12/18 23:42:55] @ Quit: irungentoo: Remote host closed the connection
 [2015/12/18 23:57:32] @ Quit: tux|dude: Quit: Leaving
 [2015/12/19 01:32:00] @ tuxdev_ joined channel #supertux
+[2015/12/19 02:12:38] <mt> head8debian: could you look into updating credits today
+[2015/12/19 02:12:47] <mt> we need that done before the release
