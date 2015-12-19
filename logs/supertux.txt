@@ -24630,3 +24630,15 @@
 [2015/12/19 09:29:24] <Tobbi> :D
 [2015/12/19 09:29:29] <Tobbi> eeh pre
 [2015/12/19 09:29:35] <Tobbi> q.e.d
+[2015/12/19 09:34:20] <mt> I hate the credits file
+[2015/12/19 09:34:36] <mt> now that I have some authors it doesn't get the correct style I want
+[2015/12/19 09:36:45] <mt> so
+[2015/12/19 09:36:50] <mt> if someone wants to fix that
+[2015/12/19 09:37:05] <mt> make a section "Milestone 1 contributions by..."
+[2015/12/19 09:37:09] <mt> with these people https://zerobin.net/?5b5883108a000110#A+hoq7LRrAbeTnr63+eXJ7hGD8DhD1vcPd1tWYR7Ggw=
+[2015/12/19 09:37:25] <mt> and remove them from the sections above
+[2015/12/19 09:40:40] <Not-e81f> [02supertux] 07maxteufel opened issue 03#268: Implement different format for text styling - 13http://git.io/vEeEQ
+[2015/12/19 09:40:41] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#268: Implement different format for text styling - 13http://git.io/vEeEQ
+[2015/12/19 09:40:42] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#268: Implement different format for text styling - 13http://git.io/vEeEQ
+[2015/12/19 09:40:44] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#268: Implement different format for text styling - 13http://git.io/vEeEQ
+[2015/12/19 09:40:45] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#268: Implement different format for text styling - 13http://git.io/vEeEQ
