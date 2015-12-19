@@ -25333,3 +25333,22 @@
 [2015/12/19 17:15:56] <Tobbi> So, maybe if he can come up with something better, that might work.
 [2015/12/19 17:16:18] <Tobbi> I'm gonna get myself something to eat...bbl
 [2015/12/19 17:26:37] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/19 17:45:24] @ Tobbi joined channel #supertux
+[2015/12/19 17:45:24] @ Mode +o Tobbi by ChanServ
+[2015/12/19 17:45:36] <Karkus> Welcome back, Tobbi
+[2015/12/19 17:46:04] <Tobbi> Karkus: Thanks. For some reason I didn't get anything to eat b/c door was closed.
+[2015/12/19 17:46:08] <Tobbi> But hey, maybe tomorrow.
+[2015/12/19 17:46:12] <Tobbi> Who cares about food, anyway.
+[2015/12/19 17:46:46] <Karkus> Oh, well... Okay
+[2015/12/19 17:47:41] <Karkus> Tobbi: Are we done yet?
+[2015/12/19 17:47:56] <Karkus> :D
+[2015/12/19 17:48:19] <Tobbi> Karkus: done with release preparations?
+[2015/12/19 17:48:21] <Tobbi> I think so?
+[2015/12/19 17:48:51] <Karkus> Tobbi: So tomorrow we start notifying everyone.
+[2015/12/19 17:49:02] <Tobbi> Karkus: Yes, tagging, packaging and notifying people.
+[2015/12/19 17:55:35] <Karkus> Tobbi: How do you spawn Tux in a certain place using command line arguments? (If you don't know I'll check the code) It's not in supertux2 --help
+[2015/12/19 17:56:09] <Tobbi> Karkus: You can't do from command line, just the ingame console probably.
+[2015/12/19 17:56:31] <Karkus> Tobbi: I thought grumbel mentioned a way...
+[2015/12/19 17:56:37] <Karkus> Let me check logs actually
+[2015/12/19 17:57:51] @ Drangue joined channel #supertux
+[2015/12/19 17:58:26] @ Quit: alket: Ping timeout: 255 seconds
