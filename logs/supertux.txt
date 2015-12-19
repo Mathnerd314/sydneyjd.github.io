@@ -24148,3 +24148,44 @@
 [2015/12/18 22:41:28] <tux|dude> I've seen this game grow up quite a bit haha
 [2015/12/18 22:42:03] <leper`> gn
 [2015/12/18 22:42:47] <tux|dude> It's truly amazing to have seen this game grow up. It's like it has grown with me haha. Ever since I first played it when I was much younger
+[2015/12/18 22:45:28] <leper`> we all were :D
+[2015/12/18 22:46:16] <tux|dude> haha
+[2015/12/18 22:46:37] <tux|dude> But yeah, seeing milestone 2 officially hit stable is something that my younger self has been waiting for for so long now
+[2015/12/18 22:46:52] <leper`> that is indeed true
+[2015/12/18 22:47:14] <leper`> always wanted more after having finished forest world for the first time
+[2015/12/18 22:47:24] <leper`> and that might be reality sometime soonish
+[2015/12/18 22:47:53] <tux|dude> Yeah
+[2015/12/18 22:48:06] <tux|dude> I remember finishing the game when it was in milestone 1
+[2015/12/18 22:48:14] <tux|dude> And then I played a bit of the forest worlfd
+[2015/12/18 22:48:15] <tux|dude> *world
+[2015/12/18 22:48:22] <tux|dude> Still haven't completed it fully though
+[2015/12/18 22:48:31] <tux|dude> But some more levels cannon in the story would be awesome
+[2015/12/18 22:48:40] <leper`> indeed
+[2015/12/18 22:49:21] <leper`> possibly with some less natural biomes (eg some desert)
+[2015/12/18 22:49:33] <tux|dude> Yeah
+[2015/12/18 22:49:48] <tux|dude> Be cool to have some more out there worlds as well
+[2015/12/18 22:49:58] <tux|dude> Like the ghost forest levels were really freaking cool
+[2015/12/18 22:50:01] <leper`> also we all want to really save penny
+[2015/12/18 22:50:06] <tux|dude> And I'd love to see the concepts behind that expanded
+[2015/12/18 22:50:12] <tux|dude> My younger me demands it
+[2015/12/18 22:50:58] <leper`> (and then someone will make supertux 2 (ok that might be taken by the current code, but still) and have nolok abduct her again)
+[2015/12/18 22:51:43] <tux|dude> lol
+[2015/12/18 22:52:03] <tux|dude> Still, I'd love to see some expansion done on some of the things such as the ghost forest as I freaking LOVED that concept
+[2015/12/18 22:52:17] <leper`> those were nice
+[2015/12/18 22:52:49] <tux|dude> Yeah. Although it seems from the milestone 3 design documents on the wiki that the actual concept was wanting to be more parallel universe like ahla link to the past
+[2015/12/18 22:53:31] <leper`> well most of what's on there is quite old, so I guess it really depends on those who are contributing
+[2015/12/18 22:53:34] <tux|dude> Yeah
+[2015/12/18 22:53:41] <tux|dude> I think that would have been pretty cool though
+[2015/12/18 22:54:26] <tux|dude> Hell I still have an uncanny attachment to the forest in general and I really wish I knew more about level design and this kinda stuff so I could help work on redoing the stuff that was a little rough around the edges so it could go into the main story
+[2015/12/18 22:55:44] <leper`> well there is an editor and that shouldn't be too hard to try out
+[2015/12/18 22:55:58] <tux|dude> Yeah, it's just I don't know too much about the fundimentals of level design
+[2015/12/18 22:56:01] <leper`> (maybe draw some rough ideas on a piece of paper and then try to make something like that)
+[2015/12/18 22:56:09] <leper`> start, platforming, end
+[2015/12/18 22:56:15] <tux|dude> lol
+[2015/12/18 22:56:16] <leper`> then expand :D
+[2015/12/18 22:56:20] <tux|dude> Guess so
+[2015/12/18 22:56:42] <tux|dude> because I'd love to try get the forest in a redone working state and with that cool ghost forest thing implimented
+[2015/12/18 22:56:45] <leper`> and if someone plays it and complains a lot about something try to fix that one jump that is just too hard to do onto that moving platform
+[2015/12/18 22:57:54] <tux|dude> Guess learning is the way of the game
+[2015/12/18 22:58:26] <tux|dude> Also whee I did NOT know that there was a supertux port to android
+[2015/12/18 22:58:45] <tux|dude> And holy shit it is basically running the whole damn computer version with extra levels and everything
