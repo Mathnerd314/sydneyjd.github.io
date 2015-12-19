@@ -25372,3 +25372,13 @@
 [2015/12/19 18:04:15] <Tobbi> I'm glad when this is done.
 [2015/12/19 18:04:20] <giby> I get issus with my new computer
 [2015/12/19 18:05:12] <Tobbi> Hmm...
+[2015/12/19 18:23:20] <giby> so I don't have anything to do for the release
+[2015/12/19 18:24:05] <Tobbi> giby: If you want, you can check whether everything was updated correctly...
+[2015/12/19 18:24:23] <giby> :p
+[2015/12/19 18:25:14] <Tobbi> giby: I think I did everything correctly...language packs work...
+[2015/12/19 18:25:14] <Tobbi> etc.
+[2015/12/19 18:26:00] <leper`> Tobbi: ah, I though you could hand that out
+[2015/12/19 18:26:11] <leper`> (and you seem to love delegating, or at least claim to)
+[2015/12/19 18:26:32] <Tobbi> leper`: Maybe there was a miscommunication. I wasn't quite sure whether giby would show up...
+[2015/12/19 18:26:39] <Tobbi> So, to be safe, I updated it myself.
+[2015/12/19 18:28:31] @ Drangue is now known as alket
