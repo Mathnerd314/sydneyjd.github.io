@@ -24375,3 +24375,99 @@
 [2015/12/19 06:43:53] <red_bot> it's brmbrmcar's turn
 [2015/12/19 06:44:48] <brmbrmcar> pl bskip
 [2015/12/19 06:44:48] <red_bot> what cards were that again?
+[2015/12/19 06:45:06] <brmbrmcar> pl b
+[2015/12/19 06:45:06] <red_bot> what cards were that again?
+[2015/12/19 06:45:11] <Hume2> brmbrmcar: pl bs should work.
+[2015/12/19 06:45:17] <brmbrmcar> pl bs
+[2015/12/19 06:45:17] <red_bot> brmbrmcar plays 00,12 Blue Skip 
+[2015/12/19 06:45:17] <red_bot> Hume2 skips a turn!
+[2015/12/19 06:45:17] <red_bot> it's brmbrmcar's turn
+[2015/12/19 06:45:27] <Hume2> pl pa
+[2015/12/19 06:45:27] <red_bot> Hume2: It's not your turn
+[2015/12/19 06:45:50] <Hume2> pl rs
+[2015/12/19 06:45:50] <red_bot> Hume2: It's not your turn
+[2015/12/19 06:46:03] <Hume2> brmbrmcar: It's your turn now.
+[2015/12/19 06:46:11] <brmbrmcar> This might not work.
+[2015/12/19 06:46:15] <brmbrmcar> It won't.
+[2015/12/19 06:46:22] <brmbrmcar> pl g7
+[2015/12/19 06:46:22] <red_bot> you can't do that, brmbrmcar
+[2015/12/19 06:46:27] <brmbrmcar> pl r5
+[2015/12/19 06:46:27] <red_bot> you can't do that, brmbrmcar
+[2015/12/19 06:46:36] <brmbrmcar> y+2
+[2015/12/19 06:46:42] <brmbrmcar> pl y+2
+[2015/12/19 06:46:42] <red_bot> you can't do that, brmbrmcar
+[2015/12/19 06:46:46] <mt> ~help uno admin
+[2015/12/19 06:46:46] <red_bot> mt: The game manager (the user that started the game) can execute the following commands to manage it: 'uno drop <user>' to drop a user from the game (any user can drop itself using 'uno drop'); 'uno replace <old> [with] <new>' to replace a player with someone else (useful in case of disconnects); 'uno transfer [to] <nick>' to transfer game ownership to someone else; 'uno end' to end the game before its natural completion
+[2015/12/19 06:46:53] <brmbrmcar> pl y7
+[2015/12/19 06:46:53] <red_bot> you can't do that, brmbrmcar
+[2015/12/19 06:47:02] <brmbrmcar> pl y9
+[2015/12/19 06:47:02] <red_bot> you can't do that, brmbrmcar
+[2015/12/19 06:47:11] <brmbrmcar> pl pa
+[2015/12/19 06:47:11] <red_bot> what cards were that again?
+[2015/12/19 06:47:18] <Hume2> brmbrmcar: Your card must be blue or skip.
+[2015/12/19 06:47:35] <brmbrmcar> I have neither!
+[2015/12/19 06:47:38] <Hume2> Or type "pe" to pick a card.
+[2015/12/19 06:47:44] <brmbrmcar> pl pe
+[2015/12/19 06:47:44] <red_bot> what cards were that again?
+[2015/12/19 06:47:55] <Hume2> only "pe"
+[2015/12/19 06:47:58] <brmbrmcar> pe
+[2015/12/19 06:47:58] <red_bot> brmbrmcar picks a card
+[2015/12/19 06:48:13] <Hume2> pl rs
+[2015/12/19 06:48:13] <red_bot> Hume2: It's not your turn
+[2015/12/19 06:48:18] <mt> can you stop it now?
+[2015/12/19 06:48:30] <Hume2> brmbrmcar: Try "pa".
+[2015/12/19 06:48:34] <brmbrmcar> pa
+[2015/12/19 06:48:34] <red_bot> brmbrmcar passes turn
+[2015/12/19 06:48:34] <red_bot> it's Hume2's turn
+[2015/12/19 06:48:38] <mt> it's spamming the log
+[2015/12/19 06:48:39] <Hume2> pl rs
+[2015/12/19 06:48:39] <red_bot> Hume2 plays 00,04 Red Skip 
+[2015/12/19 06:48:39] <red_bot> brmbrmcar skips a turn!
+[2015/12/19 06:48:39] <red_bot> it's Hume2's turn
+[2015/12/19 06:48:49] <Hume2> mt: Just one play please.
+[2015/12/19 06:48:54] <mt> ok then
+[2015/12/19 06:49:13] <Hume2> pl r2
+[2015/12/19 06:49:13] <red_bot> Hume2 plays 00,04 Red 2 
+[2015/12/19 06:49:13] <red_bot> it's brmbrmcar's turn
+[2015/12/19 06:49:26] <brmbrmcar> pl r5
+[2015/12/19 06:49:26] <red_bot> brmbrmcar plays 00,04 Red 5 
+[2015/12/19 06:49:26] <red_bot> it's Hume2's turn
+[2015/12/19 06:49:30] <Hume2> pl r4
+[2015/12/19 06:49:30] <red_bot> Hume2 plays 00,04 Red 4 
+[2015/12/19 06:49:30] <red_bot> it's brmbrmcar's turn
+[2015/12/19 06:50:04] <brmbrmcar> pa
+[2015/12/19 06:50:04] <red_bot> you need to pick a card first
+[2015/12/19 06:50:11] <brmbrmcar> pe
+[2015/12/19 06:50:11] <red_bot> brmbrmcar picks a card
+[2015/12/19 06:50:15] <brmbrmcar> pa
+[2015/12/19 06:50:15] <red_bot> brmbrmcar passes turn
+[2015/12/19 06:50:15] <red_bot> it's Hume2's turn
+[2015/12/19 06:50:21] <Hume2> pl w+4
+[2015/12/19 06:50:21] <red_bot> Hume2 plays 00,04 01,09W00,12i01,08l00,04d01,09 00,12+01,08400,04 
+[2015/12/19 06:50:21] <red_bot> Hume2 has 04U09N12O08!!
+[2015/12/19 06:50:21] <red_bot> next player must respond correctly or pick 4 cards
+[2015/12/19 06:50:21] <red_bot> Hume2, choose a color with: co r|b|g|y
+[2015/12/19 06:50:34] <Hume2> co r
+[2015/12/19 06:50:34] <red_bot> color is now 00,04 Red 
+[2015/12/19 06:50:34] <red_bot> it's brmbrmcar's turn
+[2015/12/19 06:50:44] <brmbrmcar> pl r1
+[2015/12/19 06:50:44] <red_bot> you can't do that, brmbrmcar
+[2015/12/19 06:51:05] <brmbrmcar> Hmm...
+[2015/12/19 06:51:06] <Hume2> Possibly you don't have that card.
+[2015/12/19 06:51:14] <brmbrmcar> I do.
+[2015/12/19 06:51:23] <brmbrmcar> According to red_bot.
+[2015/12/19 06:51:32] <Hume2> Oh, you must play a +4, +2 or pick 4 cards.
+[2015/12/19 06:51:52] <brmbrmcar> pl pe
+[2015/12/19 06:51:52] <red_bot> what cards were that again?
+[2015/12/19 06:51:59] <brmbrmcar> pe
+[2015/12/19 06:51:59] <red_bot> brmbrmcar passes turn, and has to pick 4 cards!
+[2015/12/19 06:51:59] <red_bot> it's Hume2's turn
+[2015/12/19 06:52:06] <Hume2> pl w
+[2015/12/19 06:52:06] <red_bot> Hume2 plays 00,04 01,09W00,12i01,08l00,04d01,09 
+[2015/12/19 06:52:06] <red_bot> 04U09N12O08! game finished after 10 minutes and 58 seconds! The winner is Hume2
+[2015/12/19 06:52:06] <red_bot> brmbrmcar still had 01,09 Green 4  01,09 Green 7  00,04 Red 1  00,04 Red 9  00,04 Red Reverse  00,04 01,09W00,12i01,08l00,04d01,09  01,08 Yellow +2  01,08 Yellow 7  01,08 Yellow 9  01,08 Yellow Skip 
+[2015/12/19 06:52:06] <red_bot> Hume2 wins with 147 points!
+[2015/12/19 06:52:25] <brmbrmcar> I had about -999
+[2015/12/19 06:52:34] <brmbrmcar> I don't actually know.
+[2015/12/19 06:52:39] <Hume2> Let's stop that.
+[2015/12/19 06:53:01] <brmbrmcar> We better had.
