@@ -24696,3 +24696,25 @@
 [2015/12/19 10:12:51] <alket> because you are not grown hehe
 [2015/12/19 10:13:08] <mt> why shouldn't it be possible to grow + get a flower
 [2015/12/19 10:13:41] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#268: Implement different format for text styling - 13http://git.io/vEerH
+[2015/12/19 10:15:55] <alket> mt: thats like a standard, thats also what mario has xD
+[2015/12/19 10:16:22] <mt> do we want to be like $xyz?
+[2015/12/19 10:16:51] <mt> also in mario there's this store powerup feature which also gives you a flower even when you're small
+[2015/12/19 10:17:05] <mt> iirc
+[2015/12/19 10:21:58] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/19 10:22:54] @ Karkus joined channel #supertux
+[2015/12/19 10:23:00] <alket> how do I clear all levels that I played ?
+[2015/12/19 10:24:53] <Karkus> alket: From the SuperTux game, I don't know. Are you on Linux?
+[2015/12/19 10:24:53] <mt> you enable developer mode, choose a key for the cheat console and there you'll find a reset button
+[2015/12/19 10:25:14] <Karkus> Well, you could do that, of course
+[2015/12/19 10:25:25] <Karkus> But then maybe you shouldn't need developer mode...
+[2015/12/19 10:26:35] <alket> Karkus: linux
+[2015/12/19 10:26:47] <alket> mt: where is developer mode
+[2015/12/19 10:26:55] <mt> options
+[2015/12/19 10:27:02] <mt> developer mode [ ]
+[2015/12/19 10:27:06] <Karkus> supertux2 --developer
+[2015/12/19 10:27:22] <mt> oh it's not visible without a flag?
+[2015/12/19 10:27:26] <Karkus> Then go onto the worldmap, press F1
+[2015/12/19 10:27:38] <Karkus> mt: Depends on the build type iirc
+[2015/12/19 10:27:57] <Karkus> Automatically enabled if it's a debug build
+[2015/12/19 10:28:34] <Karkus> As in, if you build from source as usual, it will be enabled. If you get a release version, it shouldn't be enabled.
+[2015/12/19 10:29:53] <Not-e81f> [02supertux] 07Hume2 closed issue 03#231: Make set_bonus work again - 13http://git.io/v4zaG
