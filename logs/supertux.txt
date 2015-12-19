@@ -24583,3 +24583,34 @@
 [2015/12/19 08:57:07] <Tobbi> I don't have +A or whatever flag you need.
 [2015/12/19 08:57:15] <Not-e81f> [02flexlay] 07maxteufel created page 03Installing-the-Flexlay-SuperTux-editor - 13http://git.io/vEeGm
 [2015/12/19 08:57:57] <Tobbi> leper`: Besides, I am not delegating work MORE than I am doing it, I am delegating. If you want to take a look at my commits on github, go ahead.
+[2015/12/19 09:00:08] <brmbrmcar> Yeah, Tobbi is only +Oo.
+[2015/12/19 09:00:27] <Tobbi> Yup.
+[2015/12/19 09:00:56] <mt> what I think would be possible is automating clients to give other ops ops when receiving a message with password
+[2015/12/19 09:01:38] <mt> that happens on networks without services, like efnet
+[2015/12/19 09:04:01] <Tobbi> mt: That would mean having a bouncer for me.
+[2015/12/19 09:04:06] <Tobbi> (right?)
+[2015/12/19 09:04:10] <mt> nope
+[2015/12/19 09:04:17] <brmbrmcar> What script would that use?
+[2015/12/19 09:04:21] <Tobbi> phew...
+[2015/12/19 09:04:30] <Tobbi> Hume2: Honestly, I don't want to be a dictator...
+[2015/12/19 09:04:32] <mt> basically every op has a script running in their client
+[2015/12/19 09:05:13] <Tobbi> Hume2: I don't like to dictate. I just believe that after more than 10 years and the game being pretty stable, a Milestone 2 release is justified.
+[2015/12/19 09:05:16] <mt> that script, verifies other ops' hostnames on join and if they match, that user will get ops
+[2015/12/19 09:05:35] <mt> so everyone will be able to op all other ops
+[2015/12/19 09:05:45] <Hume2> Tobbi: I know, you just seem me very clever.
+[2015/12/19 09:06:11] <mt> that would however mean that there needs to be always at least one person in the channel with ops
+[2015/12/19 09:06:11] <Tobbi> Thanks. I'll just take that as a compliment :)
+[2015/12/19 09:06:17] <Tobbi> Now let me continue reading the backlog.
+[2015/12/19 09:08:57] <Tobbi> head8debian: Also, I can't do what I want with it :D
+[2015/12/19 09:09:03] <Tobbi> Okay, read through the logs.
+[2015/12/19 09:11:11] <Tobbi> mt: I guess I will update the credits now, unless you thrive for some boring work...
+[2015/12/19 09:11:17] <Tobbi> First the commit credits :)
+[2015/12/19 09:11:51] <mt> the main thing with the credits is:
+[2015/12/19 09:12:00] <mt> there's some names from Milestone 1
+[2015/12/19 09:12:08] <mt> however I don't know if that code's still used
+[2015/12/19 09:12:15] <Tobbi> oh, yeah...
+[2015/12/19 09:12:34] <mt> I thought about creating an additional section 'Milestone 1 contributions by...'
+[2015/12/19 09:12:36] <mt> but meh
+[2015/12/19 09:13:00] <Tobbi> mt: Can you do that? You'd save me a lot of trouble there.
+[2015/12/19 09:13:26] <mt> I can but I don't know which authors to put there >_>
+[2015/12/19 09:13:53] <Tobbi> mt: Use your best judgement ;)
