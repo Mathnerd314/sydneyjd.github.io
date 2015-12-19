@@ -24471,3 +24471,7 @@
 [2015/12/19 06:52:34] <brmbrmcar> I don't actually know.
 [2015/12/19 06:52:39] <Hume2> Let's stop that.
 [2015/12/19 06:53:01] <brmbrmcar> We better had.
+[2015/12/19 07:00:47] <Not-e81f> [02flexlay] 07maxteufel pushed 031 commit to 03develop [+0/-0/±1] 13http://git.io/v0j57
+[2015/12/19 07:00:48] <Not-e81f> [02flexlay] 07Max Teufel 03e9853ab - README: the development version only seems to support SuperTux
+[2015/12/19 07:12:22] @ Karkus joined channel #supertux
+[2015/12/19 07:13:01] @ Quit: brmbrmcar: Quit: Lost terminal
