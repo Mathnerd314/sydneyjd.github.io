@@ -25019,3 +25019,41 @@
 [2015/12/19 13:12:32] <Karkus> mt: Ah, so it was updated.
 [2015/12/19 13:12:34] <Karkus> I see
 [2015/12/19 13:14:19] @ Quit: lumidify: Quit: Leaving
+[2015/12/19 13:15:17] <alket> so far so good :)
+[2015/12/19 13:15:50] <Tobbi> alket: Indeed.
+[2015/12/19 13:16:50] <Tobbi> mt: Normal font is <tab> instead of <spaces>
+[2015/12/19 13:17:01] <mt> oh
+[2015/12/19 13:17:06] <mt> brb adding that
+[2015/12/19 13:20:33] <mt> >_>
+[2015/12/19 13:20:43] <mt> rebuilding the arch package always takes so much time
+[2015/12/19 13:20:53] <mt> since it xz-compresses the package
+[2015/12/19 13:26:20] <brmbrmcar> pi
+[2015/12/19 13:26:23] <brmbrmcar> pe
+[2015/12/19 13:26:25] <brmbrmcar> pu
+[2015/12/19 13:26:33] <brmbrmcar> What was pick again?
+[2015/12/19 13:26:38] <brmbrmcar> Oh.
+[2015/12/19 13:26:44] <brmbrmcar> Wrong channel!
+[2015/12/19 13:26:45] <Hume2> pe
+[2015/12/19 13:27:18] <Tobbi> I could push one button and screw up the whole release. The merge button on that level editor PR
+[2015/12/19 13:27:23] <Tobbi> :D
+[2015/12/19 13:27:35] <Not-e81f> [02supertux] 07maxteufel pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEvWv
+[2015/12/19 13:27:37] <Not-e81f> [02supertux] 07Max Teufel 035b618d6 - data/credits: move inactive M1 contributors to extra section
+[2015/12/19 13:27:38] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97868456
+[2015/12/19 13:27:39] <Karkus> Tobbi: :D
+[2015/12/19 13:27:39] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/145
+[2015/12/19 13:27:51] <brmbrmcar> ci skip...
+[2015/12/19 13:28:00] <mt> almost everyone currently active here could
+[2015/12/19 13:28:13] <Tobbi> I know... :P
+[2015/12/19 13:28:18] <mt> wait
+[2015/12/19 13:28:18] <Karkus> Does anyone know if special-tile is a worldmap thing or a level thing in general
+[2015/12/19 13:28:23] <Karkus> Tobbi: Except supertux
+[2015/12/19 13:28:27] <Karkus> Huh?
+[2015/12/19 13:28:30] <Karkus> brmbrmcar
+[2015/12/19 13:28:33] <Karkus> :)
+[2015/12/19 13:28:34] <mt> I'll make an extra-nag script to prevent forgetting [ci skip]
+[2015/12/19 13:28:36] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97868456
+[2015/12/19 13:28:40] <Tobbi> haha.
+[2015/12/19 13:28:59] <Tobbi> We could do have everyone who forgets make a small donation for a good cause.
+[2015/12/19 13:29:05] <Tobbi> Actually good cause = My wellbeing.
+[2015/12/19 13:29:16] <Tobbi> Which means: Buy luxurious items for me...
+[2015/12/19 13:29:16] <Tobbi> :D
