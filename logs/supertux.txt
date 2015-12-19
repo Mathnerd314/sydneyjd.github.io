@@ -24235,3 +24235,5 @@
 [2015/12/19 04:23:06] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/v0j4R
 [2015/12/19 04:29:38] <mt> I think I'll write something better for the logs
 [2015/12/19 04:44:34] @ Quit: xet7: Ping timeout: 240 seconds
+[2015/12/19 04:47:49] @ Quit: brmbrmcar: Ping timeout: 260 seconds
+[2015/12/19 04:56:57] @ xet7 joined channel #supertux
