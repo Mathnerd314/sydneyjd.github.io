@@ -24212,3 +24212,4 @@
 [2015/12/18 23:12:27] <tux|dude> You'll see what I mean
 [2015/12/18 23:15:21] <tux|dude> It just feels super out of place with the rest of the music
 [2015/12/18 23:42:55] @ Quit: irungentoo: Remote host closed the connection
+[2015/12/18 23:57:32] @ Quit: tux|dude: Quit: Leaving
