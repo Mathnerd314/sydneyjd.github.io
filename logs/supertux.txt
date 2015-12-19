@@ -25132,3 +25132,32 @@
 [2015/12/19 14:41:04] <Karkus> mt: Hey, someone detached the repo from flexlay/flexlay for us, sweet
 [2015/12/19 14:43:06] <Tobbi> Great!
 [2015/12/19 14:43:36] <Karkus> I asked them to, of course
+[2015/12/19 14:45:19] <Tobbi> yes, I rememebr.
+[2015/12/19 14:48:40] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEviw
+[2015/12/19 14:48:41] <Not-e81f> [02supertux] 07Tobias Markus 03113c001 - Update credits.txt with up-to-date contributors
+[2015/12/19 14:49:05] <Karkus> Tobbi: :P
+[2015/12/19 14:49:16] <Tobbi> I hope that's enough for this.
+[2015/12/19 14:49:31] <Tobbi> If anyone is not happy with their rank in the credits, fix it quickly...
+[2015/12/19 14:50:08] <mt> you could remove the empty newlines in the "Additional contributions" area
+[2015/12/19 14:50:22] <mt> makes it take up less space
+[2015/12/19 14:50:24] <Karkus> Yeah, I think you should.
+[2015/12/19 14:50:42] <Not-e81f> [02supertux] 07tobbi commented on issue 03#252: Review credits - 13http://git.io/vEvPT
+[2015/12/19 14:50:43] <Not-e81f> [02supertux] 07tobbi closed issue 03#252: Review credits - 13http://git.io/vRaJc
+[2015/12/19 14:50:50] <Tobbi> I could, yes.
+[2015/12/19 14:50:52] <Tobbi> one moment.
+[2015/12/19 14:51:00] <mt> also, maybe put Additional contributions before M1 contributions
+[2015/12/19 14:52:02] <Karkus> that too. Reverse chronological order, kind of.
+[2015/12/19 14:52:19] <Tobbi> Okay.
+[2015/12/19 14:52:23] <mt> Looking at the list, I don't think Savsish has earned that place for spamming commit history with some fourty commits "Update ${xy}.po"
+[2015/12/19 14:54:32] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#153: SuperTux Milestone 2 release date - 13http://git.io/vEvPp
+[2015/12/19 14:54:39] <Karkus> Savsish was a complete pain.
+[2015/12/19 14:55:04] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEvXn
+[2015/12/19 14:55:05] <Tobbi> I know.
+[2015/12/19 14:55:06] <Not-e81f> [02supertux] 07Tobias Markus 038fd3b48 - Condense and move Additional contributions section
+[2015/12/19 14:55:06] <Tobbi> :D
+[2015/12/19 14:55:12] <Karkus> Tobbi: https://github.com/SuperTux/supertux/issues/93
+[2015/12/19 14:55:27] <Tobbi> I should probably remove him.
+[2015/12/19 14:56:19] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEvXr
+[2015/12/19 14:56:20] <Not-e81f> [02supertux] 07Tobias Markus 03132497f - credits update, once more [ci skip]
+[2015/12/19 14:56:32] <Tobbi> Okay, that should be it.
+[2015/12/19 14:57:18] <Tobbi> I guess we're good to go. Just meta stuff remaining.
