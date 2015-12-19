@@ -24084,3 +24084,15 @@
 [2015/12/18 19:30:44] <tux|dude> So wait. What are we expecting in milestone 2 stable? Is the forest world gonna be a thing or is that gonna be milestone 3?
 [2015/12/18 19:33:43] @ Quit: alket: Quit: Good Night :)
 [2015/12/18 21:32:43] @ bb010g joined channel #supertux
+[2015/12/18 22:26:17] <head8debian> leper`: Talk to Tobbi. I cannot. :)
+[2015/12/18 22:26:58] <head8debian> tux|dude: Milestone 2 will be just like the git version is now. There are no plans on touching the forest world ever.
+[2015/12/18 22:27:32] <tux|dude> Never again? Phooy
+[2015/12/18 22:28:06] <leper`> so he still hasn't handed out op privs
+[2015/12/18 22:28:36] <head8debian> tux|dude: Huh?
+[2015/12/18 22:28:49] <head8debian> leper`: Nope. :D I wish he would though.
+[2015/12/18 22:29:00] <tux|dude> Well I quite wanted to see the forest world eventually get finished and added into the story
+[2015/12/18 22:29:29] <head8debian> tux|dude: It is finshed, but not of the bonus worlds are in the story.
+[2015/12/18 22:29:33] <leper`> head8debian: you could get everyone actively contributing to pause that unless he hands over that
+[2015/12/18 22:29:39] <head8debian> tux|dude: The story is not even complete.
+[2015/12/18 22:29:56] <leper`> (ok, that's kinda extortion, but might work given that he likes delegating work more than doing it)
+[2015/12/18 22:29:56] <tux|dude> Oh right
