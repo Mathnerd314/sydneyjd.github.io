@@ -25107,3 +25107,28 @@
 [2015/12/19 14:14:47] <Tobbi> Sure.
 [2015/12/19 14:16:33] <mt> also, please just "M. Teufel" :)
 [2015/12/19 14:17:39] <Tobbi> Okay, sure.
+[2015/12/19 14:33:39] <Not-e81f> [02flexlay] 07Karkus476 pushed 031 commit to 03develop [+1/-1/±9] 13http://git.io/vEvon
+[2015/12/19 14:33:41] <Not-e81f> [02flexlay] 07Karkus 030f5880e - Running Worldmaps now works, partially.
+[2015/12/19 14:35:18] <mt> what's 'partially' mean?
+[2015/12/19 14:35:32] <mt> how can you run a worldmap but on the other hand can't?
+[2015/12/19 14:36:01] <Not-e81f> [02flexlay] 07Karkus476 closed issue 03#48: Worldmaps - 13http://git.io/vRHJq
+[2015/12/19 14:36:28] <mt> fwiw you can close from a commit message
+[2015/12/19 14:37:30] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#44: Project View - 13http://git.io/vRX4b
+[2015/12/19 14:37:31] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#44: Project View - 13http://git.io/vRX4b
+[2015/12/19 14:37:33] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#44: Project View - 13http://git.io/vRX4b
+[2015/12/19 14:37:40] <Not-e81f> [02flexlay] 07Karkus476 commented on issue 03#44: Project View - 13http://git.io/vEvKU
+[2015/12/19 14:37:50] <Karkus> mt: I know
+[2015/12/19 14:37:59] <Karkus> mt: Try it :P
+[2015/12/19 14:38:13] <Karkus> You can run it, but you can't play the levels
+[2015/12/19 14:38:27] <Karkus> It's the same with the c# one.
+[2015/12/19 14:38:49] <Karkus> mt: I either forget, or in this case, wasn't originally going to close it.
+[2015/12/19 14:39:09] <mt> oh
+[2015/12/19 14:39:18] <mt> that can't play levels is a bug in SuperTux
+[2015/12/19 14:39:20] <mt> I guess
+[2015/12/19 14:39:32] <Not-e81f> [02flexlay] 07maxteufel commented on issue 03#44: Project View - 13http://git.io/vEvKi
+[2015/12/19 14:39:44] <Not-e81f> [02flexlay] 07Karkus476 opened issue 03#54: Allow User To Play Levels In Worldmap - 13http://git.io/vEvKX
+[2015/12/19 14:40:02] <Karkus> mt: Kind of.
+[2015/12/19 14:40:14] <Karkus> mt: I'll figure out a hacky way to do it
+[2015/12/19 14:41:04] <Karkus> mt: Hey, someone detached the repo from flexlay/flexlay for us, sweet
+[2015/12/19 14:43:06] <Tobbi> Great!
+[2015/12/19 14:43:36] <Karkus> I asked them to, of course
