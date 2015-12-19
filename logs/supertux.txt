@@ -24489,3 +24489,19 @@
 [2015/12/19 07:40:12] <mt> what do you think is a good number of commits to grant a 'more important' mention
 [2015/12/19 07:40:14] <mt> ?
 [2015/12/19 07:40:41] <head8debian> mt: I don't have a clue.
+[2015/12/19 07:45:27] <mt> meh
+[2015/12/19 07:45:33] <mt> boring work
+[2015/12/19 07:48:12] @ Karkus joined channel #supertux
+[2015/12/19 07:48:54] <Karkus> mt: Ah, of course. Let me go and do that.
+[2015/12/19 07:48:54] <red_bot> Karkus, you have notes! [Dec-19 06:40] <mt> you might wanna ask github staff to remove the fork flag from https://github.com/SuperTux/flexlay, that will make contributions to it show up in the user's contribution graph
+[2015/12/19 07:49:42] <Karkus> mt: Will that mean all my current contributions will show up?
+[2015/12/19 07:49:54] <Karkus> s/current/past/
+[2015/12/19 07:49:54] <red_bot> Karkus meant: "mt: Will that mean all my past contributions will show up?"
+[2015/12/19 07:50:05] <mt> yes
+[2015/12/19 07:50:10] <mt> and all future
+[2015/12/19 07:51:02] <Karkus> mt: Okay. How can I do that?
+[2015/12/19 07:51:08] <Karkus> email someone?
+[2015/12/19 07:51:30] <mt> use their contact form
+[2015/12/19 07:51:32] <Not-e81f> [02flexlay] 07Karkus476 pushed 031 commit to 03develop [+0/-0/±1] 13http://git.io/vEeUf
+[2015/12/19 07:51:33] <Not-e81f> [02flexlay] 07Karkus476 03c1b5bc0 - Next release will be 1.0.0
+[2015/12/19 07:52:10] <Karkus> mt: Ah, thanks!
