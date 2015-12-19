@@ -24793,3 +24793,36 @@
 [2015/12/19 11:14:25] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97853813
 [2015/12/19 11:14:27] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/142
 [2015/12/19 11:14:45] <Tobbi> Oh, yeah, that would've needed a [ci skip]
+[2015/12/19 11:16:20] <Tobbi> mt: So, as you can see, for some reason, there was \r\n used instead of \n...
+[2015/12/19 11:16:55] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97853813
+[2015/12/19 11:18:06] <Hume2> Tobbi: It could be 0D and 0A separately.
+[2015/12/19 11:18:25] <Tobbi> Hume2: huh? It's literal \r\n
+[2015/12/19 11:18:40] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/140
+[2015/12/19 11:18:51] <mt> Tobbi: and now you want me to change that to \n?
+[2015/12/19 11:18:54] <Hume2> Like \r being #0D and \n being #0A.
+[2015/12/19 11:18:57] <Tobbi> mt: Yes.
+[2015/12/19 11:19:05] <Tobbi> See, it changed it, that was a mistake.
+[2015/12/19 11:20:36] <Not-e81f> [02supertux] 07maxteufel pushed 031 commit to 03master [+0/-0/±282] 13http://git.io/vEe7s
+[2015/12/19 11:20:38] <Not-e81f> [02supertux] 07Max Teufel 03ae70151 - data/*/*.po: change literal \r\n to \n
+[2015/12/19 11:20:41] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/143
+[2015/12/19 11:20:42] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97854721
+[2015/12/19 11:21:34] <mt> data/locale/*.po doesn't seem to be affected
+[2015/12/19 11:21:50] <Tobbi> Oh, alright.
+[2015/12/19 11:22:01] <Tobbi> Yeah, no, there're no multiline strings in those scripts.
+[2015/12/19 11:22:03] <mt> at least sed didn't change anything in there
+[2015/12/19 11:22:04] <Tobbi> Let's see if it works.
+[2015/12/19 11:22:38] <mt> what I did was basically `sed -i 's/\\r\\n/\\n/g' data/levels/*/*.po; sed -i 's/\\r\\n/\\n/g' data/locale/*.po'
+[2015/12/19 11:22:40] <mt> `
+[2015/12/19 11:23:01] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97851688
+[2015/12/19 11:23:47] <Tobbi> mt: Thanks. We should have that in the script, actually...
+[2015/12/19 11:24:11] <mt> however, I'm not sure if Apple-sed/BSD-sed likes that
+[2015/12/19 11:24:17] <mt> I used a GNU sed
+[2015/12/19 11:24:44] <mt> sometimes they're not compatible
+[2015/12/19 11:24:50] <mt> this one should be?
+[2015/12/19 11:26:00] <Tobbi> hmm...
+[2015/12/19 11:26:03] <Tobbi> mt: It works.
+[2015/12/19 11:26:28] <mt> :)
+[2015/12/19 11:27:12] <Tobbi> There's something else wrong.
+[2015/12/19 11:27:15] <Tobbi> I'll see if I can fix it.
+[2015/12/19 11:29:00] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97854721
+[2015/12/19 11:29:16] <Tobbi> damn this.
