@@ -24189,3 +24189,24 @@
 [2015/12/18 22:57:54] <tux|dude> Guess learning is the way of the game
 [2015/12/18 22:58:26] <tux|dude> Also whee I did NOT know that there was a supertux port to android
 [2015/12/18 22:58:45] <tux|dude> And holy shit it is basically running the whole damn computer version with extra levels and everything
+[2015/12/18 23:01:53] <leper`> there is?
+[2015/12/18 23:02:00] <tux|dude> Yes
+[2015/12/18 23:02:06] <tux|dude> https://play.google.com/store/apps/details?id=org.lethargik.supertux2
+[2015/12/18 23:04:32] <leper`> ah, given the source changes that mostly looks like it consists of SDL->SDL2 fixes
+[2015/12/18 23:05:51] <leper`> and from looking at that it doesn't seem to add any levels anywhere I can see
+[2015/12/18 23:06:12] <leper`> (it uses the git version as the base though)
+[2015/12/18 23:06:22] <tux|dude> Yeah, it has all the built in extra level packs though
+[2015/12/18 23:06:29] <tux|dude> The performance is debatable though
+[2015/12/18 23:07:27] <tux|dude> Also debatable I find is the new music used in some of the areas in game...
+[2015/12/18 23:07:32] <tux|dude> I dunno it just sounds a little...
+[2015/12/18 23:07:33] <tux|dude> Meh
+[2015/12/18 23:10:56] <tux|dude> I'm refering to all the voc songs
+[2015/12/18 23:11:52] <leper`> hm
+[2015/12/18 23:12:00] <leper`> can't remember hearing those
+[2015/12/18 23:12:07] <tux|dude> Like, I dunno when you go from using Mortimers chipdisco (the theme that usually played in the ice world)
+[2015/12/18 23:12:10] <tux|dude> to using the voc song
+[2015/12/18 23:12:12] <tux|dude> Ew
+[2015/12/18 23:12:16] <tux|dude> Like play the first level
+[2015/12/18 23:12:20] <tux|dude> Then play the second level
+[2015/12/18 23:12:24] <tux|dude> (in the ice world)
+[2015/12/18 23:12:27] <tux|dude> You'll see what I mean
