@@ -24230,3 +24230,7 @@
 [2015/12/19 03:56:22] @ brmbrmcar joined channel #supertux
 [2015/12/19 04:05:06] <mt> Hume2: what did you change in 'Bonus Island X: fixed ...'?
 [2015/12/19 04:14:23] <mt> people with write access to the repos: https://github.com/SuperTux/supertux/releases/tag/untagged-a40c7704f6b7841df550
+[2015/12/19 04:16:16] <mt> https://gist.github.com/maxteufel/d4a12ba9dabfcd0a3bc0
+[2015/12/19 04:16:35] <mt> someone please proofread + give feedback in comments
+[2015/12/19 04:23:06] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/v0j4R
+[2015/12/19 04:29:38] <mt> I think I'll write something better for the logs
