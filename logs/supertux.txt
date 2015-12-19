@@ -24306,3 +24306,72 @@
 [2015/12/19 06:13:47] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97825252
 [2015/12/19 06:20:08] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/137
 [2015/12/19 06:29:20] <Hume2> mt: Only a bit.
+[2015/12/19 06:31:32] <mt> so what my actual question was, do you have any .strf files for the tiles in the zip?
+[2015/12/19 06:33:24] <Hume2> mt: No, I don't have any.
+[2015/12/19 06:33:33] <Hume2> Finally got what you mean.
+[2015/12/19 06:33:41] <mt> how hard is it to make one?
+[2015/12/19 06:33:49] <mt> because we'd need that for a level contest
+[2015/12/19 06:34:03] <Hume2> It's super easy to add them to tiles.strf.
+[2015/12/19 06:34:22] <mt> hm
+[2015/12/19 06:34:31] <mt> could we make a separate branch
+[2015/12/19 06:34:35] <mt> put these tiles in it
+[2015/12/19 06:34:41] <mt> and add a tiles.strf?
+[2015/12/19 06:34:49] <mt> s/add a/update/
+[2015/12/19 06:34:49] <red_bot> mt meant: "and update tiles.strf?"
+[2015/12/19 06:34:57] <Hume2> mt: Sure.
+[2015/12/19 06:35:08] <Hume2> I'll put there the tiles.
+[2015/12/19 06:39:40] <Not-e81f> [02flexlay] 07maxteufel starred 03flexlay - 13http://git.io/pmUr
+[2015/12/19 06:39:51] <mt> red_bot: help
+[2015/12/19 06:39:51] <red_bot> mt: help topics: 10 core modules: auth, basics, config, filters, httputil, irclog, unicode, userdata, webservice, wordlist; 71 plugins: alias, autoop, autorejoin, azgame, bans, bash, botsnack, cal, chanserv, chucknorris, deepthoughts, dice, dns, eightball, excuse, factoids, figlet, fortune, geoip, googlefight, greed, greet, hangman, hl2, host, imdb, insult, karma, keywords, lart, linkbot, markov, math, modes, nickrecover, nickserv, note, oxford, poll,
+[2015/12/19 06:39:51] <red_bot> q, quiz, quote, reaction, remind, ri, roshambo, rot, roulette, rss, salut, script, search, sed, seen, shiritori, shortenurls, slashdot, spell, theyfightcrime, time, topic, translator, tumblr, uno, urban, url, usermodes, weather, wheeloffortune, wserver, youtube; 2 plugins failed to load: use help failed plugins to see why (help <topic> for more info)
+[2015/12/19 06:40:03] <mt> red_bot: help note
+[2015/12/19 06:40:03] <red_bot> mt: note <nick> <string> => stores a note (<string>) for <nick>
+[2015/12/19 06:40:11] <Hume2> ~quiz
+[2015/12/19 06:40:11] <red_bot> Hume2: Fetching questions ...
+[2015/12/19 06:40:11] <red_bot> Hume2: Failed to read from local database file quiz.rbot, skipping.
+[2015/12/19 06:40:11] <red_bot> Hume2: done, 0 questions loaded.
+[2015/12/19 06:40:32] <brmbrmcar> ~!uno
+[2015/12/19 06:40:37] <brmbrmcar> ~uno
+[2015/12/19 06:40:37] <red_bot> brmbrmcar: Ok, created 04U09N12O08! game on #supertux, say 'jo' to join in
+[2015/12/19 06:40:43] <Hume2> jo
+[2015/12/19 06:40:43] <red_bot> Hume2 joins this game of 04U09N12O08!
+[2015/12/19 06:40:47] <brmbrmcar> jo
+[2015/12/19 06:40:47] <red_bot> brmbrmcar joins this game of 04U09N12O08!
+[2015/12/19 06:40:47] <red_bot> game will start in 20 seconds
+[2015/12/19 06:40:58] <mt> red_bot: note Karkus you might wanna ask github staff to remove the fork flag from https://github.com/SuperTux/flexlay, that will make contributions to it show up in the user's contribution graph
+[2015/12/19 06:40:58] <red_bot> okay, mt
+[2015/12/19 06:41:07] <red_bot> 04U09N12O08! playing turn: brmbrmcar Hume2
+[2015/12/19 06:41:07] <red_bot> brmbrmcar deals the first card from the stock
+[2015/12/19 06:41:07] <red_bot> Current discard: 00,12 Blue 9  
+[2015/12/19 06:41:07] <red_bot> it's Hume2's turn
+[2015/12/19 06:41:28] <Hume2> Blue 3
+[2015/12/19 06:41:38] <Hume2> How do I play?
+[2015/12/19 06:41:45] <brmbrmcar> I don't know.
+[2015/12/19 06:41:50] <mt> ~help uno
+[2015/12/19 06:41:50] <red_bot> mt: 04U09N12O08! game. !uno to start a game. see 'help uno rules' for the rules, 'help uno admin' for admin commands, 'help uno score' for scoring rules. In-game commands: 'jo' to join in; 'pl <card>' to play <card>: e.g. 'pl g7' to play Green 7, or 'pl rr' to play Red Reverse, or 'pl y2y2' to play both Yellow 2 cards; 'pe' to pick a card; 'pa' to pass your turn; 'co <color>' to pick a color after playing a Wild: e.g. 'co g' to select Green (or
+[2015/12/19 06:41:50] <red_bot> 'pl w+4 g' to select the color when playing the Wild); 'ca' to show current cards; 'cd' to show the current discard; 'ch' to challenge a Wild +4; 'od' to show the playing order; 'ti' to show play time; 'tu' to show whose turn it is.
+[2015/12/19 06:41:56] <brmbrmcar> I didn't even select a xcard.
+[2015/12/19 06:42:00] <Hume2> pl Blue 3
+[2015/12/19 06:42:00] <red_bot> what cards were that again?
+[2015/12/19 06:42:22] <Hume2> pl B3
+[2015/12/19 06:42:22] <red_bot> Hume2 plays 00,12 Blue 3 
+[2015/12/19 06:42:22] <red_bot> it's brmbrmcar's turn
+[2015/12/19 06:42:41] <mt> can you *please* stop that?
+[2015/12/19 06:42:42] <brmbrmcar> pl g7
+[2015/12/19 06:42:42] <red_bot> you can't do that, brmbrmcar
+[2015/12/19 06:42:44] @ Quit: xet7: Ping timeout: 260 seconds
+[2015/12/19 06:43:02] <brmbrmcar> I don't know how uno even works.
+[2015/12/19 06:43:04] <brmbrmcar> :(
+[2015/12/19 06:43:08] <Hume2> brmbrmcar: Your card must be 3 or blue.
+[2015/12/19 06:43:23] <brmbrmcar> So b3?
+[2015/12/19 06:43:28] <brmbrmcar> pl b3
+[2015/12/19 06:43:28] <red_bot> you can't do that, brmbrmcar
+[2015/12/19 06:43:40] <brmbrmcar> pl b6
+[2015/12/19 06:43:40] <red_bot> brmbrmcar plays 00,12 Blue 6 
+[2015/12/19 06:43:40] <red_bot> it's Hume2's turn
+[2015/12/19 06:43:46] <brmbrmcar> Yes!
+[2015/12/19 06:43:53] <Hume2> pl b8
+[2015/12/19 06:43:53] <red_bot> Hume2 plays 00,12 Blue 8 
+[2015/12/19 06:43:53] <red_bot> it's brmbrmcar's turn
+[2015/12/19 06:44:48] <brmbrmcar> pl bskip
+[2015/12/19 06:44:48] <red_bot> what cards were that again?
