@@ -25221,3 +25221,32 @@
 [2015/12/19 15:55:41] <Tobbi> yes.
 [2015/12/19 15:57:27] <Karkus> I would say what we have now is fairly stable, all things considered.
 [2015/12/19 15:57:54] <Tobbi> I agree...
+[2015/12/19 16:02:12] <Not-e81f> [02supertux] 07maxteufel pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEvAn
+[2015/12/19 16:02:14] <Not-e81f> [02supertux] 07Max Teufel 0362722e3 - NEWS: add SuperTux 0.4.0 (2015-12-20)
+[2015/12/19 16:02:57] <mt> ticked 'Create release notes, update NEWS.md for 0.4.0'
+[2015/12/19 16:03:08] <mt> also, is the content in NEWS.md ok?
+[2015/12/19 16:04:00] <mt> fwiw, the branch that we create tomorrow should be `release/0.4` and NOT `release/0.4.0` :)
+[2015/12/19 16:04:05] <mt> just as a reminder
+[2015/12/19 16:04:33] <Not-e81f> [02supertux] 07JakubVanek starred 03supertux - 13http://git.io/vEvAi
+[2015/12/19 16:06:37] <alket> 2h until release
+[2015/12/19 16:07:02] <brmbrmcar> alket: ???
+[2015/12/19 16:07:07] <brmbrmcar> 2 hours?
+[2015/12/19 16:07:12] <mt> I guess we'll rather release it 2015-12-20 16:00 UTC+1
+[2015/12/19 16:07:14] <mt> or so
+[2015/12/19 16:07:16] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEvxO
+[2015/12/19 16:07:17] <Not-e81f> [02supertux] 07Tobias Markus 03ad6df7e - Small syntax fix in NEWS.md
+[2015/12/19 16:07:18] <Tobbi> I think we did.
+[2015/12/19 16:07:23] <Tobbi> I think we did say that...4pm
+[2015/12/19 16:07:51] <alket> :)
+[2015/12/19 16:08:38] <Tobbi> That would mean: 18 hours until release.
+[2015/12/19 16:09:19] <Karkus> Are we ready to build yet? Then we can get some tests done.
+[2015/12/19 16:09:37] <Karkus> Or tag 0.4.0?
+[2015/12/19 16:09:41] <Tobbi> I am not sure.
+[2015/12/19 16:09:51] <Tobbi> Karkus: I wonder why there's no release number shown in SuperTux anymore.
+[2015/12/19 16:09:57] <Tobbi> At the bottom left corner.
+[2015/12/19 16:11:05] <Karkus> Hmmm...
+[2015/12/19 16:12:02] <mt> uh
+[2015/12/19 16:12:21] <mt> maybe fix that or at least add a last minute --version flag
+[2015/12/19 16:12:33] <mt> because otherwise there's no possibility to find the version
+[2015/12/19 16:13:14] <Tobbi> *sigh* okay, we need to do one more translation update.
+[2015/12/19 16:13:39] <Tobbi> Actually, I will...
