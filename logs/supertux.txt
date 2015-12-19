@@ -24537,3 +24537,49 @@
 [2015/12/19 08:43:52] <mt> but can't give other people op status
 [2015/12/19 08:44:02] <head8debian> mt: What i meant is, he doesn't have top of the line ownership of it.
 [2015/12/19 08:44:41] <head8debian> But he can do what he wants with it... interesting.
+[2015/12/19 08:45:45] @ Tobbi joined channel #supertux
+[2015/12/19 08:45:45] @ Mode +o Tobbi by ChanServ
+[2015/12/19 08:45:54] <head8debian> ~figlet ONE DAY TO M2!
+[2015/12/19 08:45:54] <red_bot>   ____   _  __ ____  ___   ___ __  __  ______ ____ 
+[2015/12/19 08:45:54] <red_bot>  / __ \ / |/ // __/ / _ \ / _ |\ \/ / /_  __// __ \
+[2015/12/19 08:45:54] <red_bot> / /_/ //    // _/  / // // __ | \  /   / /  / /_/ /
+[2015/12/19 08:45:54] <red_bot> \____//_/|_//___/ /____//_/ |_| /_/   /_/   \____/ 
+[2015/12/19 08:45:54] <red_bot>                                                    
+[2015/12/19 08:45:54] <red_bot>    __  ___ ___   __
+[2015/12/19 08:45:54] <red_bot>   /  |/  /|_  | / /
+[2015/12/19 08:45:54] <red_bot>  / /|_/ // __/ /_/ 
+[2015/12/19 08:45:54] <red_bot> /_/  /_//____/(_)
+[2015/12/19 08:46:13] <brmbrmcar> M"?
+[2015/12/19 08:46:20] <head8debian> Tobbi: Now, update the topic.
+[2015/12/19 08:46:21] <brmbrmcar> You mean milestone 2!
+[2015/12/19 08:46:27] <head8debian> brmbrmcar: Same thing.
+[2015/12/19 08:46:36] <brmbrmcar> Fine, then. :(
+[2015/12/19 08:46:56] <head8debian> Tobbi: Everyone keeps telling me to update the topic. :D
+[2015/12/19 08:47:06] <Tobbi> kay, kay.
+[2015/12/19 08:47:08] <head8debian> No one understands that i don't have ops...
+[2015/12/19 08:47:23] @ Tobbi set topic "0.4.0 RELEASE TOMORROW! | https://github.com/SuperTux | Stable: 0.1.3 | Beta: 0.3.5a | mailing list: supertux-devel@lists.lethargik.org | Channel log http://sydneyjd.github.io/logs/ | nightly builds http://download.supertuxproject.org/download/"
+[2015/12/19 08:47:30] <brmbrmcar>  /mode -t #supertux
+[2015/12/19 08:47:53] <mt> nope don't
+[2015/12/19 08:48:30] <brmbrmcar> You don't want people to change the title to something inappropriate.
+[2015/12/19 08:48:41] <brmbrmcar> So that's a poor idea.
+[2015/12/19 08:49:17] <Tobbi> help
+[2015/12/19 08:49:41] <mt> what could work is
+[2015/12/19 08:49:47] <brmbrmcar> What has happened?
+[2015/12/19 08:49:55] <mt> everyone installs an autoop script in their client
+[2015/12/19 08:50:12] <mt> and ops give each other op using +o
+[2015/12/19 08:50:35] <Tobbi> With help I mean: There's too mnuch going on.
+[2015/12/19 08:50:38] <mt> and then hope that there's always someone in the channel
+[2015/12/19 08:50:51] <brmbrmcar> Trial request!
+[2015/12/19 08:51:13] <Tobbi> Alright, what do I work on?
+[2015/12/19 08:52:29] <Tobbi> mt: You have gone through the release notes and picked the most important things you found, right?
+[2015/12/19 08:53:54] <Not-e81f> [02flexlay] 07maxteufel created page 03Installing-the-Flexlay-SuperTux-editor - 13http://git.io/vEeGm
+[2015/12/19 08:53:57] <Tobbi> mt: The cause of that inreplace was fixed in master.
+[2015/12/19 08:54:07] <Tobbi> So, it can be removed for 0.4.0
+[2015/12/19 08:54:15] <Tobbi> Talking about the macport games stuff.
+[2015/12/19 08:54:34] <mt> yes, older release notes and for v0.3.5a <-> HEAD git log
+[2015/12/19 08:56:19] <Not-e81f> [02flexlay] 07maxteufel pushed 031 commit to 03develop [+0/-0/±1] 13http://git.io/vEenU
+[2015/12/19 08:56:20] <Not-e81f> [02flexlay] 07Max Teufel 03b24cd1e - README: update link to guide
+[2015/12/19 08:56:49] <Tobbi> leper`: I don't have the power to hand permanent ops to head8debian, otherwise I would.
+[2015/12/19 08:57:07] <Tobbi> I don't have +A or whatever flag you need.
+[2015/12/19 08:57:15] <Not-e81f> [02flexlay] 07maxteufel created page 03Installing-the-Flexlay-SuperTux-editor - 13http://git.io/vEeGm
+[2015/12/19 08:57:57] <Tobbi> leper`: Besides, I am not delegating work MORE than I am doing it, I am delegating. If you want to take a look at my commits on github, go ahead.
