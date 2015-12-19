@@ -25161,3 +25161,10 @@
 [2015/12/19 14:56:20] <Not-e81f> [02supertux] 07Tobias Markus 03132497f - credits update, once more [ci skip]
 [2015/12/19 14:56:32] <Tobbi> Okay, that should be it.
 [2015/12/19 14:57:18] <Tobbi> I guess we're good to go. Just meta stuff remaining.
+[2015/12/19 15:01:28] @ Quit: Hume2: Quit: Page closed
+[2015/12/19 15:06:34] <Tobbi> I will tick off the coverity build as well.
+[2015/12/19 15:06:45] <Tobbi> It doesn't work and we don't have time to make it work.
+[2015/12/19 15:07:24] @ Quit: irungentoo: Remote host closed the connection
+[2015/12/19 15:07:27] @ Drangue joined channel #supertux
+[2015/12/19 15:08:20] @ Quit: alket: Ping timeout: 255 seconds
+[2015/12/19 15:11:29] @ Drangue is now known as alket
