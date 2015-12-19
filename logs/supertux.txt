@@ -25250,3 +25250,18 @@
 [2015/12/19 16:12:33] <mt> because otherwise there's no possibility to find the version
 [2015/12/19 16:13:14] <Tobbi> *sigh* okay, we need to do one more translation update.
 [2015/12/19 16:13:39] <Tobbi> Actually, I will...
+[2015/12/19 16:17:40] <Not-e81f> [02supertux] 07marc280492 commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vEvhl
+[2015/12/19 16:17:44] <Not-e81f> [02flexlay] 07Karkus476 closed issue 03#46: Show Name of Level Being Edited in Window Title - 13http://git.io/vR9vh
+[2015/12/19 16:17:46] <Not-e81f> [02flexlay] 07Karkus476 pushed 032 commits to 03develop [+0/-1/±2] 13http://git.io/vEvh4
+[2015/12/19 16:17:48] <Not-e81f> [02flexlay] 07Karkus 03ab2b6b1 - Removes another old worldmap file I forgot
+[2015/12/19 16:17:49] <Not-e81f> [02flexlay] 07Karkus 034048ec8 - Shows level path in window title
+[2015/12/19 16:18:09] <Not-e81f> [02supertux] 07tobbi commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vEvhV
+[2015/12/19 16:18:53] <Not-e81f> [02supertux] 07marc280492 commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vEvjv
+[2015/12/19 16:20:49] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vEvju
+[2015/12/19 16:22:17] <Not-e81f> [02supertux] 07marc280492 commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vEfef
+[2015/12/19 16:22:49] <mt> Tobbi: question: how are add-on translations handled?
+[2015/12/19 16:23:10] <mt> are they included in the add-on or in the language pack?
+[2015/12/19 16:23:44] <Tobbi> mt: The preferred way is the language pack.
+[2015/12/19 16:23:46] <Tobbi> But both works.
+[2015/12/19 16:24:28] <mt> https://github.com/SuperTux/supertux/issues/243 looks like "ah, there's still so much to do"
+[2015/12/19 16:24:47] <mt> but then you think "better wait until shortly before the release"
