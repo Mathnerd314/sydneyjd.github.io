@@ -25057,3 +25057,11 @@
 [2015/12/19 13:29:05] <Tobbi> Actually good cause = My wellbeing.
 [2015/12/19 13:29:16] <Tobbi> Which means: Buy luxurious items for me...
 [2015/12/19 13:29:16] <Tobbi> :D
+[2015/12/19 13:32:23] <brmbrmcar> pl r0
+[2015/12/19 13:32:36] <Tobbi> Karkus: special-tile is worldmap-only.
+[2015/12/19 13:32:44] <Karkus> Tobbi: Thanks.
+[2015/12/19 13:32:48] <Tobbi> https://github.com/SuperTux/supertux/blob/45a68fb52f5221b1f224b05083b16df3595e8f1e/src/worldmap/worldmap.cpp#L301
+[2015/12/19 13:33:26] <Hume2> If someone wants to play UNO, go to #OSwars.
+[2015/12/19 13:36:06] <brmbrmcar> head8debian: How doyou set the owner of ruby bot>
+[2015/12/19 13:38:04] <Tobbi> So...credits...
+[2015/12/19 13:41:01] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97868456
