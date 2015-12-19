@@ -25265,3 +25265,9 @@
 [2015/12/19 16:23:46] <Tobbi> But both works.
 [2015/12/19 16:24:28] <mt> https://github.com/SuperTux/supertux/issues/243 looks like "ah, there's still so much to do"
 [2015/12/19 16:24:47] <mt> but then you think "better wait until shortly before the release"
+[2015/12/19 16:30:08] <Not-e81f> [02supertux] 07tobbi pushed 032 commits to 03master [+0/-0/±3] 13http://git.io/vEffv
+[2015/12/19 16:30:09] <Not-e81f> [02supertux] 07Tobias Markus 03c6d4c11 - Update catalan translation [ci skip]
+[2015/12/19 16:30:10] <Not-e81f> [02supertux] 07Tobias Markus 03f697c0d - Update credits.txt [ci skip]
+[2015/12/19 16:30:20] <Tobbi> mt: Exactly!
+[2015/12/19 16:31:20] <Not-e81f> [02supertux] 07tobbi commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vEffc
+[2015/12/19 16:43:03] <Karkus> mt: Yeah, other than that which will happen as the release rolls out, nothing is actually left on that list.
