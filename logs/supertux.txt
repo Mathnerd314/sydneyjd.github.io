@@ -24660,3 +24660,39 @@
 [2015/12/19 09:56:44] <Tobbi> hey alket
 [2015/12/19 09:58:40] @ Hume2 joined channel #supertux
 [2015/12/19 09:59:43] <alket> I think I found something
+[2015/12/19 10:00:18] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#268: Implement different format for text styling - 13http://git.io/vEea1
+[2015/12/19 10:00:35] <alket> When a bomb is above "?" box and when you jump on a it and it starts ticking, then you go under "?" block and hit it, it starts ticking again from begining
+[2015/12/19 10:01:14] <Tobbi> alket: I see...
+[2015/12/19 10:01:30] <Tobbi> alket: We will fix it for 0.4.1
+[2015/12/19 10:01:33] <Tobbi> No time for 0.4.0
+[2015/12/19 10:02:31] <mt> https://urandom.eu.org/l/supertux/2015/12
+[2015/12/19 10:02:39] <mt> my solution for the logs
+[2015/12/19 10:02:52] <mt> however you need to wait 30s between visits
+[2015/12/19 10:02:58] <mt> that affects all users, not per IP
+[2015/12/19 10:03:56] <Tobbi> mt: Server not found, fwiw.
+[2015/12/19 10:04:31] <mt> huh
+[2015/12/19 10:04:33] <mt> https://www.whatsmydns.net/#A/urandom.eu.org
+[2015/12/19 10:04:57] <alket> what if explosion was replaced with this http://opengameart.org/content/simple-explosion-bleeds-game-art
+[2015/12/19 10:06:27] <mt> alket: does the logviewer work for you?
+[2015/12/19 10:06:38] <alket> mt: whats that
+[2015/12/19 10:06:46] <mt> 15:59 (mt) https://urandom.eu.org/l/supertux/2015/12
+[2015/12/19 10:07:31] <mt> since head8debian's logs are updated using a cronjob every 15 minutes iirc I made a Flask/Python script today
+[2015/12/19 10:07:33] <alket> Time limit reached, try again later.
+[2015/12/19 10:07:45] <mt> yep that's intended after the second visit
+[2015/12/19 10:08:19] <mt> since the logfile is not cached
+[2015/12/19 10:09:28] <mt> I'm very paranoid about that script
+[2015/12/19 10:09:45] @ tuxdev_ joined channel #supertux
+[2015/12/19 10:09:49] <mt> since it has read/write access to an SSL key
+[2015/12/19 10:11:14] <head8debian> mt: Whats wrong with my cronlogs? :)
+[2015/12/19 10:11:24] <Tobbi> alket: That explosion is cool, not sure whether it fits our style, though.
+[2015/12/19 10:11:26] <mt> head8debian: they don't update immediately
+[2015/12/19 10:11:31] <mt> my script does
+[2015/12/19 10:11:37] <mt> in almost realtime
+[2015/12/19 10:11:46] <alket> another "bug", if you are "grown" but no ability to shoot, you open the "flower" then get hit and become small, then you get the flower , you grow and get the ability to shoot
+[2015/12/19 10:12:09] <mt> is that a bug?
+[2015/12/19 10:12:14] <mt> I think that's expected
+[2015/12/19 10:12:28] <alket> mt: you should just grow
+[2015/12/19 10:12:38] <mt> why?
+[2015/12/19 10:12:51] <alket> because you are not grown hehe
+[2015/12/19 10:13:08] <mt> why shouldn't it be possible to grow + get a flower
+[2015/12/19 10:13:41] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#268: Implement different format for text styling - 13http://git.io/vEerH
