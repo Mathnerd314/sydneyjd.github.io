@@ -24945,3 +24945,29 @@
 [2015/12/19 12:37:57] <mt> just the warning? or also the converter?
 [2015/12/19 12:39:21] <mt> I mean ideally you'd have a function that imports the old worldmaps and results in the same datastructure as the functions for the new levels/worldmaps
 [2015/12/19 12:39:44] <mt> then you pass the data structure to the function that writes new worldmaps
+[2015/12/19 12:45:27] <mt> I actually think it doesn't even save the worldmaps
+[2015/12/19 12:45:34] <mt> since there's no save_worldmap()
+[2015/12/19 12:48:47] <Karkus> mt: It does. In the current version of supertux, worldmaps are exactly the same as levels, except with some unique objects
+[2015/12/19 12:48:53] <Karkus> mt: I understand the concept.
+[2015/12/19 12:48:54] <mt> yep
+[2015/12/19 12:49:06] <mt> but it doesn't save old worldmaps I guess?
+[2015/12/19 12:49:25] <Karkus> The warning will show, offering the option to load or cancel
+[2015/12/19 12:49:44] <Karkus> Then it will load, but saving will only save as the new worldmaps
+[2015/12/19 12:49:56] <Hume2> Can be.
+[2015/12/19 12:49:58] <Karkus> As it will have been loaded as a level
+[2015/12/19 12:50:21] <Hume2> There's no reason to save it in old format.
+[2015/12/19 12:50:31] <mt> well, Exception: Error: '/tmp/world1-old.stwm' is not a 'supertux-level' file is what happens with the current version
+[2015/12/19 12:50:40] <mt> when trying to open it
+[2015/12/19 12:51:27] <mt> So, there's no reason to add the ability to open them when it's not already supported
+[2015/12/19 12:51:32] <mt> I thought it was supported
+[2015/12/19 12:51:38] <mt> but apparently it isn't
+[2015/12/19 12:51:45] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEvYZ
+[2015/12/19 12:51:46] <Not-e81f> [02supertux] 07Tobias Markus 03902b76b - Update credits to include localizers who contributed something since the last update
+[2015/12/19 12:52:12] <Tobbi> Well, okay, the format should be improved.
+[2015/12/19 12:55:03] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEvOs
+[2015/12/19 12:55:04] <Not-e81f> [02supertux] 07Tobias Markus 032c10480 - Align credits with the previous format [ci skip]
+[2015/12/19 12:58:23] <Tobbi> Does anyone want to draft a thank you note to localizers?
+[2015/12/19 12:58:26] <Tobbi> Or should I do?
+[2015/12/19 12:58:34] <Karkus> mt: It was implemented, I since removed it.
+[2015/12/19 12:59:20] <mt> well then don't bother readding it
+[2015/12/19 12:59:37] <Karkus> mt: *sigh*
