@@ -24220,3 +24220,4 @@
 [2015/12/19 02:15:58] <mt> we could make a contest for levels with one of these themes
 [2015/12/19 02:16:53] <mt> also, are those files derived so they'd need to be licensed under a share-alike license or are they truly public domain (you created them yourself + you don't care about what happens to them)
 [2015/12/19 02:25:20] <mt> 0.4.0 will be stable, right?
+[2015/12/19 02:32:59] @ lumidify joined channel #supertux
