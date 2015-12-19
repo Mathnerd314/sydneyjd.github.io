@@ -24614,3 +24614,19 @@
 [2015/12/19 09:13:00] <Tobbi> mt: Can you do that? You'd save me a lot of trouble there.
 [2015/12/19 09:13:26] <mt> I can but I don't know which authors to put there >_>
 [2015/12/19 09:13:53] <Tobbi> mt: Use your best judgement ;)
+[2015/12/19 09:18:45] @ Quit: Hume2: Quit: Page closed
+[2015/12/19 09:24:07] <Tobbi> mt: Can you also include a note to install the latest language pack manually into the credits and look for updates once in a while?
+[2015/12/19 09:24:25] <Tobbi> since langpacks are using our add-on subsystem
+[2015/12/19 09:26:07] <mt> I *can*, do you want me to?
+[2015/12/19 09:26:22] <mt> btw, did you see my draft release announcement/notes
+[2015/12/19 09:28:26] <Tobbi> mt: Yes, I did :)
+[2015/12/19 09:28:30] <Tobbi> That's why I am asking.
+[2015/12/19 09:28:45] <Tobbi> mt: And by include I mean: Include in the release notes.
+[2015/12/19 09:28:52] <Tobbi> Unless you know a better place where to stick it.
+[2015/12/19 09:28:57] <mt> oh
+[2015/12/19 09:29:04] <mt> you said 'into the credits'
+[2015/12/19 09:29:12] <Tobbi> mt: Oh, not in the credits, no.
+[2015/12/19 09:29:23] <Tobbi> mt: You know post-release-day-confusion.
+[2015/12/19 09:29:24] <Tobbi> :D
+[2015/12/19 09:29:29] <Tobbi> eeh pre
+[2015/12/19 09:29:35] <Tobbi> q.e.d
