@@ -24765,3 +24765,31 @@
 [2015/12/19 10:59:14] <Karkus> No, you added the commits on the same day
 [2015/12/19 10:59:47] <Hume2> I know, but they display like it,.
 [2015/12/19 10:59:48] <brmbrmcar> I've found a few problems with levels randomly using foreground tiles for grass or snow.
+[2015/12/19 11:01:51] <Hume2> You can set the z-pos of interactive to 51.
+[2015/12/19 11:01:54] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/139
+[2015/12/19 11:02:42] <brmbrmcar> That's not what I mean.
+[2015/12/19 11:03:23] <brmbrmcar> I mean, it only uses the Foreground layer occasionally, and elsewhere uses Interactive for the lot.
+[2015/12/19 11:04:11] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97851688
+[2015/12/19 11:04:15] <Hume2> So don't place those tiles like this.
+[2015/12/19 11:07:06] <brmbrmcar> But these are being used in Icy Island a nd Forest levels.
+[2015/12/19 11:07:17] <brmbrmcar> That is why I'm mentioning it.
+[2015/12/19 11:07:34] @ Quit: gryffyn: Ping timeout: 260 seconds
+[2015/12/19 11:08:01] <Hume2> So you mean that there are somewhere patches of foreground grass, don't you?
+[2015/12/19 11:09:53] <brmbrmcar> Yes.
+[2015/12/19 11:09:55] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97851678
+[2015/12/19 11:10:07] <brmbrmcar> Byinteractive stuff.
+[2015/12/19 11:11:43] <Hume2> Well, we'll fix it in 0.4.1.
+[2015/12/19 11:12:03] @ Tobbi joined channel #supertux
+[2015/12/19 11:12:03] @ Mode +o Tobbi by ChanServ
+[2015/12/19 11:12:52] <brmbrmcar> Why?
+[2015/12/19 11:12:57] <Tobbi> because.
+[2015/12/19 11:13:04] <brmbrmcar> It would take seconds to do...
+[2015/12/19 11:13:08] <Hume2> Hume2: Because we are tired!
+[2015/12/19 11:13:24] <Hume2> Or tell me who isn't.
+[2015/12/19 11:13:36] <Tobbi> I will commit the language files now...and someone will need to replace \r\n in the sources with \n only...
+[2015/12/19 11:14:19] <brmbrmcar> I could do it, but checking it for you is too exhausting
+[2015/12/19 11:14:22] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+47/-0/±329] 13http://git.io/vEeQl
+[2015/12/19 11:14:24] <Not-e81f> [02supertux] 07Tobias Markus 03c1b62fb - Translations update
+[2015/12/19 11:14:25] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97853813
+[2015/12/19 11:14:27] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/142
+[2015/12/19 11:14:45] <Tobbi> Oh, yeah, that would've needed a [ci skip]
