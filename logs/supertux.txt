@@ -24078,3 +24078,6 @@
 [2015/12/18 18:35:37] <leper`> tux|dude: indeed, wheeee
 [2015/12/18 18:35:53] @ Quit: claymore2: Quit: Leaving
 [2015/12/18 18:36:44] <leper`> head8debian: You should really change the topic to "0.4.0 soon | [...]" soon ;-)
+[2015/12/18 18:47:28] <alket> tux|dude: lol
+[2015/12/18 18:50:21] <tux|dude> Seriously though I played the development versions of supertux so many times. Seeing it change and evolve
+[2015/12/18 18:50:42] <tux|dude> And with milestone 2 finally coming. Oh man
