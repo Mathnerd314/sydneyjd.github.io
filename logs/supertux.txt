@@ -24971,3 +24971,51 @@
 [2015/12/19 12:58:34] <Karkus> mt: It was implemented, I since removed it.
 [2015/12/19 12:59:20] <mt> well then don't bother readding it
 [2015/12/19 12:59:37] <Karkus> mt: *sigh*
+[2015/12/19 13:00:07] <Karkus> mt: What are the chances it would actually be used?
+[2015/12/19 13:00:14] <Hume2> Karkus: I guess only Tobbi has the right to say this.
+[2015/12/19 13:00:28] <Hume2> You know what.
+[2015/12/19 13:00:32] <Tobbi> Hume2: Say what?
+[2015/12/19 13:00:37] <head8debian> EVERYONE READY? :D
+[2015/12/19 13:00:50] <Tobbi> head8debian: You can help updating the credits :P
+[2015/12/19 13:00:56] <Hume2> Tobbi: The word beginning on * and ending on *.
+[2015/12/19 13:01:08] <Tobbi> Hume2: I don't have a monopoly on saying *sigh* :D
+[2015/12/19 13:01:35] <Hume2> :D
+[2015/12/19 13:01:59] <Karkus> Hume2: So you're sure that the game doesn't implement the old worldmaps?
+[2015/12/19 13:02:14] <Hume2> Karkus: I've already tried it.
+[2015/12/19 13:02:50] <Karkus> Doesn't that count as "incompatible API changes"
+[2015/12/19 13:03:37] <mt> it does, probably
+[2015/12/19 13:03:39] <Karkus> mt: Okay, I won't bother. I have no idea how tilesets would work with this etc.
+[2015/12/19 13:03:55] <Karkus> So, we are actually on SuperTux 1.0.0?
+[2015/12/19 13:04:39] <Tobbi> Karkus: Well, no 1.0.0 is *really* stable.
+[2015/12/19 13:04:50] <Tobbi> This is *just a little bit stable* :P
+[2015/12/19 13:05:18] <Karkus> Tobbi: Well, I doubt any open source software would ever reach 1.0.0 then.
+[2015/12/19 13:05:29] <mt> uh
+[2015/12/19 13:05:36] <Tobbi> Karkus: Okay, I am more or less kidding. but this is 0.4.0, it was decided long ago :P
+[2015/12/19 13:05:41] <mt> open source software can be *really* *really* stable
+[2015/12/19 13:05:42] <Karkus> Until it was finished, which software never is.
+[2015/12/19 13:06:04] <mt> like, uh, linux 2.6.32
+[2015/12/19 13:06:15] <mt> still in use on a lot of servers
+[2015/12/19 13:06:42] <Karkus> mt: Okay, stable and fairly up-to-date
+[2015/12/19 13:06:58] <Karkus> Excluding LTS releases, for example
+[2015/12/19 13:07:11] <Karkus> Tobbi: We aren't changing it, of course.
+[2015/12/19 13:07:28] <Tobbi> phew....
+[2015/12/19 13:07:32] <Tobbi> Okay, what's next...updating credits.
+[2015/12/19 13:07:37] <Tobbi> How do we do that?
+[2015/12/19 13:07:41] <Tobbi> Structure-wise I mean.
+[2015/12/19 13:07:43] <mt> 1.0.0 might be ok for that would be what could be 0.6.0 as well
+[2015/12/19 13:08:40] <mt> Tobbi: well, I thought: remove those who haven't done anything since M1, add a special category: "Milestone 1 contributions by..."
+[2015/12/19 13:08:54] <mt> That seem to be these people https://zerobin.net/?5b5883108a000110#A+hoq7LRrAbeTnr63+eXJ7hGD8DhD1vcPd1tWYR7Ggw=
+[2015/12/19 13:09:28] <Tobbi> mt: Okay, can you do that, or do I need to delegate those tedious tasks to head8debian again? (old times sake)
+[2015/12/19 13:09:37] <mt> head8debian:
+[2015/12/19 13:09:53] <mt> I already tried to get that formatted correctly actually
+[2015/12/19 13:09:57] <mt> but it doesn't work
+[2015/12/19 13:10:39] <mt> I wanted these people to be written in a normal-size font, not as small as the translators part
+[2015/12/19 13:10:51] <Tobbi> I see...
+[2015/12/19 13:12:03] <Karkus> mt: But "Tobgle Road" is an M2 level, even though he hasn't contributed since M1?
+[2015/12/19 13:12:20] <mt> Tobgle Road already existed in M1
+[2015/12/19 13:12:26] @ claymore2 joined channel #supertux
+[2015/12/19 13:12:27] <mt> It was just kept up-to-date
+[2015/12/19 13:12:32] <mt> but not by him
+[2015/12/19 13:12:32] <Karkus> mt: Ah, so it was updated.
+[2015/12/19 13:12:34] <Karkus> I see
+[2015/12/19 13:14:19] @ Quit: lumidify: Quit: Leaving
