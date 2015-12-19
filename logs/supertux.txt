@@ -24241,3 +24241,27 @@
 [2015/12/19 05:05:35] <mt> I guess I could run this [https://gist.github.com/maxteufel/5cb5a2345b53fa2dafc4] hacked-together (but probably safe) script as znc user and make nginx reverse proxy it
 [2015/12/19 05:06:23] <mt> I guess I should also add some connection limit because the log isn't cached
 [2015/12/19 05:09:32] @ Hume2 joined channel #supertux
+[2015/12/19 05:15:44] @ lumidify joined channel #supertux
+[2015/12/19 05:16:01] @ brmbrmcar joined channel #supertux
+[2015/12/19 05:16:42] <Hume2> Hello, brmbrmcar!
+[2015/12/19 05:16:51] <brmbrmcar> Hi!
+[2015/12/19 05:17:02] <mt> Hume2: see log, please
+[2015/12/19 05:17:30] <Hume2> mt: What happened?
+[2015/12/19 05:17:47] <mt> I have a few questions
+[2015/12/19 05:17:56] <Hume2> Well, ask then.
+[2015/12/19 05:18:02] <mt> see log
+[2015/12/19 05:18:06] <mt> >_>
+[2015/12/19 05:18:08] <Hume2> I see it.
+[2015/12/19 05:18:21] <Hume2> And what's wrong with it?
+[2015/12/19 05:18:31] <mt> the questions are in the log
+[2015/12/19 05:20:06] <mt> summarized: a) .strf files for these tiles b) make a contest??? c) copied the tiles from existing ones under share-alike license or completely own work and you want it under public domain d) 0.4.0 will be stable, right?
+[2015/12/19 05:20:45] <mt> e) what did you change in 'Bonus Island X: fixed ...'? f) draft release announcement to proofread/feedback: https://gist.github.com/maxteufel/d4a12ba9dabfcd0a3bc0
+[2015/12/19 05:22:24] <Hume2> mt: In which commit those questions are? I still can't see it.
+[2015/12/19 05:22:57] <mt> https://sydneyjd.github.io/logs/supertux.txt, very end of the logfile
+[2015/12/19 05:23:28] <Hume2> Oh, that log.
+[2015/12/19 05:23:36] <Hume2> I thought you mean git log.
+[2015/12/19 05:27:19] <Hume2> mt: I added new tiles and I have also changed some tile definitions a bit.
+[2015/12/19 05:27:33] <Hume2> The contest seems as a good idea.
+[2015/12/19 05:28:03] <mt> that tiles is related to the Bonus Island fixes?
+[2015/12/19 05:28:17] <Hume2> Some of them.
+[2015/12/19 05:28:52] <Hume2> In fact, only four of them: Those frozen fishes on background.
