@@ -24932,3 +24932,16 @@
 [2015/12/19 12:28:58] <mt> or you remove the code from the editor
 [2015/12/19 12:29:09] <mt> but create a python script that makes use of flexlay's API
 [2015/12/19 12:29:21] <mt> which can convert the old worldmaps to new ones
+[2015/12/19 12:30:25] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/144
+[2015/12/19 12:30:29] <Karkus> mt: I will set it to show a warning if you open an old worldmap, but it will load.
+[2015/12/19 12:34:03] <Karkus> mt: Do you know where I can find an old worldmap for testing?
+[2015/12/19 12:34:18] <mt> in an old revision of the git repo
+[2015/12/19 12:34:35] <Karkus> How old?
+[2015/12/19 12:34:43] <mt> https://github.com/SuperTux/supertux/blob/supertux-milestone1/data/levels/worldmaps/world1.stwm
+[2015/12/19 12:34:50] <mt> I don't know if that's old enough
+[2015/12/19 12:35:23] <Karkus> Yep. I'm looking at the code which creates that comment.
+[2015/12/19 12:36:28] <mt> ah yeah should be old enough, the new ones seem to start with (supertux-level
+[2015/12/19 12:37:32] <Karkus> mt: Yeah, this is what I'm implementing.
+[2015/12/19 12:37:57] <mt> just the warning? or also the converter?
+[2015/12/19 12:39:21] <mt> I mean ideally you'd have a function that imports the old worldmaps and results in the same datastructure as the functions for the new levels/worldmaps
+[2015/12/19 12:39:44] <mt> then you pass the data structure to the function that writes new worldmaps
