@@ -25329,3 +25329,7 @@
 [2015/12/19 17:10:08] <Tobbi> Karkus: you can, sure.
 [2015/12/19 17:10:32] <Not-e81f> [02supertux] 07tobbi commented on issue 03#264: Make portable version - 13http://git.io/vEfqP
 [2015/12/19 17:14:29] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#266: Website - 13http://git.io/vEfmR
+[2015/12/19 17:15:35] <Tobbi> Karkus: Actually, our website thing is rather complicated...
+[2015/12/19 17:15:56] <Tobbi> So, maybe if he can come up with something better, that might work.
+[2015/12/19 17:16:18] <Tobbi> I'm gonna get myself something to eat...bbl
+[2015/12/19 17:26:37] @ Quit: Tobbi: Remote host closed the connection
