@@ -24096,3 +24096,55 @@
 [2015/12/18 22:29:39] <head8debian> tux|dude: The story is not even complete.
 [2015/12/18 22:29:56] <leper`> (ok, that's kinda extortion, but might work given that he likes delegating work more than doing it)
 [2015/12/18 22:29:56] <tux|dude> Oh right
+[2015/12/18 22:30:05] <head8debian> leper`: He is fine. I can get OPs from other sources if i *need* them.
+[2015/12/18 22:30:16] <tux|dude> Well it will be nice to see milestone 2 stable released 12 years after milestone 1 was released
+[2015/12/18 22:30:35] <head8debian> tux|dude: Yes. THe story is not a huge part. :)
+[2015/12/18 22:30:41] <tux|dude> Yeah lol
+[2015/12/18 22:30:50] <tux|dude> Still it would be nice to get some more new worlds into the game
+[2015/12/18 22:31:02] <tux|dude> And personally I also love the music in the forest world to death
+[2015/12/18 22:31:03] <head8debian> tux|dude: True, but people need to make them to do that.
+[2015/12/18 22:31:07] <head8debian> tux|dude: :)
+[2015/12/18 22:31:09] <tux|dude> Yeah
+[2015/12/18 22:31:14] <tux|dude> Pity I know jack shit about level design
+[2015/12/18 22:31:22] <leper`> and a release is likely to get some traction for the project
+[2015/12/18 22:31:45] <head8debian> tux|dude: We do have a third bonus world now, plus an extra island world.
+[2015/12/18 22:31:47] <leper`> as in "I didn't know this thing was still going on"
+[2015/12/18 22:31:59] <head8debian> leper`: Thats what we figure. :)
+[2015/12/18 22:32:20] <tux|dude> Fingers crossed
+[2015/12/18 22:32:26] <leper`> You do plan to be on time with the release, don't you?
+[2015/12/18 22:32:42] <tux|dude> Hope it gains traction fast enough so milestone 3 comes out before 2025 or something haha
+[2015/12/18 22:32:55] <leper`> (in that case I'll preemtively tell someone with access to our twitter to tell people about that)
+[2015/12/18 22:33:47] <head8debian> leper`: No need, any of us can update the twitter.
+[2015/12/18 22:33:49] <head8debian> :D
+[2015/12/18 22:33:59] <head8debian> tux|dude: :D
+[2015/12/18 22:34:21] <leper`> (the 0ad twitter might make a few more people see that thing though)
+[2015/12/18 22:34:31] <leper`> (will tell him to retweet when something shows up)
+[2015/12/18 22:34:45] <leper`> (given that I'm not going to be around then)
+[2015/12/18 22:35:34] <head8debian> leper`: ok. thanks.
+[2015/12/18 22:35:53] <tux|dude> Oh yeah is the firemans hat still going to be in 0.4.0? I heard people thought it was ugly haha
+[2015/12/18 22:37:25] <head8debian> tux|dude: Yep.
+[2015/12/18 22:37:32] <tux|dude> Welp
+[2015/12/18 22:37:42] <leper`> firetux?
+[2015/12/18 22:37:46] <head8debian> tux|dude: Huh?
+[2015/12/18 22:37:49] <leper`> people think he's ugly?
+[2015/12/18 22:37:57] <tux|dude> apparently
+[2015/12/18 22:38:11] <leper`> did they think about getting new eyes?
+[2015/12/18 22:38:13] <tux|dude> Quote "Tux superpowers: hat is really ugly and shall go, even old red-Tux was way better "
+[2015/12/18 22:38:20] <tux|dude> Also
+[2015/12/18 22:38:22] <tux|dude> "Tux rap in the intro: must not make its way into Milestone2 "
+[2015/12/18 22:39:34] <head8debian> tux|dude: Well, it is. :)
+[2015/12/18 22:39:37] <head8debian> lol.
+[2015/12/18 22:39:39] <leper`> (given that being a firefighter helmet and tux throwing fire balls that might not make sense, but I didn't consider it to be ugly)
+[2015/12/18 22:39:50] <leper`> (also helps getting people involved to fix things)
+[2015/12/18 22:39:54] <tux|dude> I dunno. That was from the milestone 3 design document
+[2015/12/18 22:40:03] <leper`> don't like it, submit a patch
+[2015/12/18 22:40:22] <head8debian> tux|dude: Yeah... the old wiki is very messed up.
+[2015/12/18 22:40:24] <leper`> sounds some ~10 years old :D
+[2015/12/18 22:40:45] <head8debian> heh.
+[2015/12/18 22:40:52] <tux|dude> Seriously though I have seen this game go through tons and tons of changes
+[2015/12/18 22:40:58] <tux|dude> I played the original stable build
+[2015/12/18 22:41:15] <head8debian> Im going to bed. gn all :)
+[2015/12/18 22:41:16] <tux|dude> I played the development build where you had tux on the main screen in a workers hat and a shovel
+[2015/12/18 22:41:28] <tux|dude> I've seen this game grow up quite a bit haha
+[2015/12/18 22:42:03] <leper`> gn
+[2015/12/18 22:42:47] <tux|dude> It's truly amazing to have seen this game grow up. It's like it has grown with me haha. Ever since I first played it when I was much younger
