@@ -24237,3 +24237,7 @@
 [2015/12/19 04:44:34] @ Quit: xet7: Ping timeout: 240 seconds
 [2015/12/19 04:47:49] @ Quit: brmbrmcar: Ping timeout: 260 seconds
 [2015/12/19 04:56:57] @ xet7 joined channel #supertux
+[2015/12/19 05:01:59] @ Quit: lumidify: Ping timeout: 272 seconds
+[2015/12/19 05:05:35] <mt> I guess I could run this [https://gist.github.com/maxteufel/5cb5a2345b53fa2dafc4] hacked-together (but probably safe) script as znc user and make nginx reverse proxy it
+[2015/12/19 05:06:23] <mt> I guess I should also add some connection limit because the log isn't cached
+[2015/12/19 05:09:32] @ Hume2 joined channel #supertux
