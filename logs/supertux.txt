@@ -27297,3 +27297,44 @@
 [2015/12/20 18:28:12] <Tobbi> Or something.
 [2015/12/20 18:29:35] <datahead7777> What do you mean by start fresh?
 [2015/12/20 18:29:45] <datahead7777> It's definitely good - I think Milestone 1 was in 2006 or before
+[2015/12/20 18:30:28] <Tobbi> datahead7777: Start fresh = Relax a little... and think about bigger things.
+[2015/12/20 18:30:33] <Tobbi> Without having to worry about users.
+[2015/12/20 18:35:52] <datahead7777> Oh, I see
+[2015/12/20 18:36:42] <datahead7777> Secret Chronicles has ended up slowing down a lot after our release, though I haven't been working on it myself recently.  I've been focusing on my own game for a bit.
+[2015/12/20 18:37:33] <head8debian> datahead7777: This release has been in the back of our minds for years, in other words. At the moment we will probably take a little break, but it allows us to do what we want with the game now. THere are no expectations for the next release.
+[2015/12/20 18:38:19] <datahead7777> It might be better to go with smaller stable releases and work iteratively
+[2015/12/20 18:38:23] <Tobbi> https://www.reddit.com/r/linux_gaming/comments/3xms2k/after_10_years_new_stable_release_for_supertux_040/
+[2015/12/20 18:38:33] <datahead7777> Rather than dev snapshots, I mean
+[2015/12/20 18:38:58] <datahead7777> You could still occasionally do dev snapshots, though, when you won't to show something unstable off
+[2015/12/20 18:39:30] <Tobbi> Sure.
+[2015/12/20 18:39:45] <datahead7777> It's up to you guys - just a suggestionb
+[2015/12/20 18:40:01] <datahead7777> Anyways, now I won't have to buy a new game, having just finished another one some weeks back
+[2015/12/20 18:40:11] <datahead7777> I can just download Super Tux Milestone 2
+[2015/12/20 18:40:21] <datahead7777> I was tight on cash anyways
+[2015/12/20 18:40:21] <Karkus> ~kick head8debian
+[2015/12/20 18:40:21] <red_bot> Karkus, you don't have 'bans::act::kick' permissions here
+[2015/12/20 18:40:41] <Karkus> head8debian: I'd rather red_bot wasn't an op here :/
+[2015/12/20 18:41:29] <Tobbi> hmm, I wonder something.
+[2015/12/20 18:41:37] <Tobbi> red_bot: test
+[2015/12/20 18:41:40] <Tobbi> Okay...
+[2015/12/20 18:41:47] <Tobbi> So you can't set replies.
+[2015/12/20 18:41:49] <Karkus> red_bot: hello
+[2015/12/20 18:41:49] <red_bot> but I already know Karkus
+[2015/12/20 18:41:56] <Karkus> red_bot: hi
+[2015/12/20 18:41:56] <red_bot> hello, Karkus
+[2015/12/20 18:42:11] <Tobbi> red_bot: test
+[2015/12/20 18:42:15] <Tobbi> red_bot: hello
+[2015/12/20 18:42:15] <red_bot> tobbi: hey there
+[2015/12/20 18:42:27] <Tobbi> oh.
+[2015/12/20 18:42:33] <Karkus> red_bot: will not work
+[2015/12/20 18:42:36] <Tobbi> So that's what it does.
+[2015/12/20 18:42:51] <Karkus> Tobbi: Any hello message will return another
+[2015/12/20 18:42:54] <leyyin_> yeah Karkus, just use Tiled :P http://www.mapeditor.org/, remove your editor :P
+[2015/12/20 18:43:08] <Tobbi> leyyin_: We can't use tiled. We need advanced features.
+[2015/12/20 18:43:11] <Karkus> leyyin_: ik about this :D
+[2015/12/20 18:43:36] <leyyin_> what advanced feature? *playind devil advocate here*
+[2015/12/20 18:44:08] <Tobbi> leyyin_: Support for squirrel scripts, lisp, etc.
+[2015/12/20 18:44:11] <Karkus> leyyin_: TilED is developed with other purposes. We'd have to do other modifications etc.
+[2015/12/20 18:44:26] <Karkus> Remove features while keeping up to date
+[2015/12/20 18:44:49] <alket> tiled is pretty advanced for that too
+[2015/12/20 18:44:59] <datahead7777> Is Hume still working on the built in level editor?
