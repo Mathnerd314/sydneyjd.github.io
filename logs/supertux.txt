@@ -26770,3 +26770,29 @@
 [2015/12/20 14:09:17] <Not-e81f> [02supertux] 04Error. AppVeyor build cancelled - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/155
 [2015/12/20 14:12:23] @ Mode +o mt by ChanServ
 [2015/12/20 14:13:19] <mt> oh thanks
+[2015/12/20 14:15:18] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97995788
+[2015/12/20 14:20:18] <Tobbi> mt: Okay, I will do this here...
+[2015/12/20 14:20:20] <Tobbi> better?
+[2015/12/20 14:20:45] <Tobbi> mt: The default flag in supertux does depend on whether is_christmas() is set to true.
+[2015/12/20 14:20:57] <mt> does it?
+[2015/12/20 14:21:25] <Tobbi> mt: https://github.com/SuperTux/supertux/blob/58f3d82d5bd81ae2d534d561e4877f7c593443a5/src/supertux/gameconfig.cpp#L165
+[2015/12/20 14:21:33] <Tobbi> I am checking is_christmas() and if true writing the falg.
+[2015/12/20 14:21:34] <Tobbi> flag.
+[2015/12/20 14:21:56] <mt> is that the code for creating a new config if it doesn't exist?
+[2015/12/20 14:22:07] <Tobbi> mt: I believe so.
+[2015/12/20 14:22:09] <Tobbi> Let me check.
+[2015/12/20 14:22:19] <mt> what's that used for then https://github.com/SuperTux/supertux/blob/master/src/supertux/gameconfig.cpp#L53
+[2015/12/20 14:22:19] <Tobbi> Let me delete the config.
+[2015/12/20 14:22:28] <mt> the (false)
+[2015/12/20 14:22:45] <Tobbi> mt: That's an initialization list. And the values should be overriden by ::load
+[2015/12/20 14:23:44] <Tobbi> But, you're right, I should probably change that.
+[2015/12/20 14:23:50] <Tobbi> I mean: If we don't have any settings...
+[2015/12/20 14:24:18] <mt> I'm afk now
+[2015/12/20 14:24:40] <Tobbi> ok
+[2015/12/20 14:25:29] @ Mode +o Karkus by ChanServ
+[2015/12/20 14:26:06] <Karkus> Oh, thanks. Who did that?
+[2015/12/20 14:26:25] <ultimategiby> The owner of the chanel, of course :p
+[2015/12/20 14:27:06] <Karkus> ultimategiby: Thank you to whomever that is then! :P
+[2015/12/20 14:28:17] <ultimategiby> So, active coders/mainteners get op, and main active contribs a voice ... sorry for active translators and occasional contrib
+[2015/12/20 14:28:40] <Tobbi> No one cares about translators, but we all pretend we do.
+[2015/12/20 14:28:40] <Tobbi> :D
