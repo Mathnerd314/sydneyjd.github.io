@@ -26623,3 +26623,9 @@
 [2015/12/20 12:37:47] <tomreyn> so chances are he uses or used it for mail only
 [2015/12/20 12:38:38] <brmbrmcar> Ah.
 [2015/12/20 12:38:41] <brmbrmcar> OK.
+[2015/12/20 12:48:13] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#253: Integrate sprites from reTux - 13http://git.io/vR6HX
+[2015/12/20 12:49:17] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#258: Ice, air and earth Christmas hats - 13http://git.io/vRAYt
+[2015/12/20 12:49:18] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#258: Ice, air and earth Christmas hats - 13http://git.io/vRAYt
+[2015/12/20 12:49:27] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#258: Ice, air and earth Christmas hats - 13http://git.io/vRAYt
+[2015/12/20 12:52:06] @ Hume2 joined channel #supertux
+[2015/12/20 12:53:44] @ tuxdev_ joined channel #supertux
