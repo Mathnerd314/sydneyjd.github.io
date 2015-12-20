@@ -25630,3 +25630,12 @@
 [2015/12/20 05:24:33] @ lumidify joined channel #supertux
 [2015/12/20 05:27:38] <mt> please don't touch the version numbers in Doxyfile and tools/innosetup/supertux.iss for now
 [2015/12/20 05:27:58] <mt> we'll need them later to have a tagged commit which isn't [ci skip]
+[2015/12/20 05:35:30] <Not-e81f> [02supertux] 07maxteufel pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEUfD
+[2015/12/20 05:35:31] <Not-e81f> [02supertux] 07Max Teufel 0358d097c - makedist: only use release part from git describe
+[2015/12/20 05:35:43] <mt> Homebrew doesn't like the 0.4.0-0 in the filename
+[2015/12/20 05:35:54] <mt> it gets the version from the filename
+[2015/12/20 05:36:02] <mt> so it'd think this would be 0.4.0-0
+[2015/12/20 05:36:09] <mt> that's the reason for the change
+[2015/12/20 05:41:42] <brmbrmcar> Why was Post-0.4.0 renamed to0.5.0?
+[2015/12/20 05:42:56] <brmbrmcar> Post-0.4.0 could be anything!
+[2015/12/20 05:44:38] <brmbrmcar> They should be seperate.
