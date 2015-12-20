@@ -26057,3 +26057,63 @@
 [2015/12/20 09:14:48] <mt> nah, I don't really understand CPack or how backgrounds/licenses work in DMGs
 [2015/12/20 09:14:59] <Tobbi> Hmm, okay.
 [2015/12/20 09:15:01] <head8debian> Tobbi: ...
+[2015/12/20 09:15:14] <Tobbi> head8debian: 45 minutes.
+[2015/12/20 09:15:42] <mt> I think we can already start the magic release dance in 30 minutes ;)
+[2015/12/20 09:16:23] <head8debian> :D:D:D:D
+[2015/12/20 09:16:38] * head8debian ques the music... :D
+[2015/12/20 09:16:46] <Tobbi> mt: You will do the tagging and branching stuff, right?
+[2015/12/20 09:16:58] <Tobbi> If I recall correctly, I tagged a bugfix :D
+[2015/12/20 09:17:07] <Tobbi> Or should I say: I retagged a bugfix for 0.3.5
+[2015/12/20 09:17:23] <mt> if you want me to, I will
+[2015/12/20 09:17:28] <Tobbi> mt: Yes, please.
+[2015/12/20 09:17:32] @ swift110-phone joined channel #supertux
+[2015/12/20 09:17:34] <swift110-phone> Hey
+[2015/12/20 09:17:38] <mt> Hi swift110-phone
+[2015/12/20 09:17:50] <mt> The magic release dance will start soon :P
+[2015/12/20 09:18:00] <head8debian> Tobbi: Ok, do we have new download links yet?
+[2015/12/20 09:18:11] <Tobbi> head8debian: Things are not yet built.
+[2015/12/20 09:18:16] <Tobbi> How can there be download links?
+[2015/12/20 09:21:13] <mt> 15:14:28 <@Tobbi> Or should I say: I retagged a bugfix for 0.3.5 <-- you can remove the tag and retag the old tag hash
+[2015/12/20 09:21:24] <Tobbi> mt: That's what I did.
+[2015/12/20 09:21:47] <swift110-phone> How r u mt
+[2015/12/20 09:21:48] <mt> oh I thought you mistakenly tagged  that bugfix after the release
+[2015/12/20 09:22:41] <head8debian> Tobbi: :D
+[2015/12/20 09:22:52] <head8debian> Tobbi: Just wondering if they are built yet.
+[2015/12/20 09:22:59] <mt> swift110-phone: I'm fine
+[2015/12/20 09:23:01] <Tobbi> head8debian: We had last minute fixes in the build system.
+[2015/12/20 09:23:10] <head8debian> Tobbi: Ah, ok.
+[2015/12/20 09:23:24] <Tobbi> 40 minutes...anyone wanna prepare confetti? :P
+[2015/12/20 09:23:25] <mt> also, we need to wait for the tag to build
+[2015/12/20 09:24:19] <Tobbi> mt: In the release announcement: Stable release -> bold!
+[2015/12/20 09:24:37] <head8debian> Tobbi: NO!@!!!!! I had to clean up a ton of that junk last night for our christmas program.
+[2015/12/20 09:24:54] <Tobbi> :D Okay...
+[2015/12/20 09:25:08] <mt> Tobbi: done
+[2015/12/20 09:25:13] <Tobbi> Thanks.
+[2015/12/20 09:25:15] <Tobbi> alright...
+[2015/12/20 09:25:30] <Tobbi> mt: How long does it take to build? 20 minutes?
+[2015/12/20 09:25:34] <mt> also, should I change ten and a half years to more than a decade?
+[2015/12/20 09:25:41] <Tobbi> mt: Sure.
+[2015/12/20 09:25:57] <Tobbi> If the build takes roughly 20 minutes, we can trigger a build in 15 minutes.
+[2015/12/20 09:26:13] <swift110-phone> Good mt
+[2015/12/20 09:26:22] <swift110-phone> What ya up to mt
+[2015/12/20 09:26:29] <head8debian> Tobbi: This is the second supertux stable release, correct?
+[2015/12/20 09:26:33] <Tobbi> head8debian: yes.
+[2015/12/20 09:26:44] <mt> I won't update the gist again, just the draft https://github.com/SuperTux/supertux/releases/tag/untagged-6a993bba4aabd905fb29
+[2015/12/20 09:26:50] <Tobbi> Okay.
+[2015/12/20 09:27:11] <mt> swift110-phone: well, we're all preparing for the release
+[2015/12/20 09:27:22] <mt> -for
+[2015/12/20 09:27:45] <mt> Tobbi: I don't know how long, I'd also prefer to build it from the source tarball
+[2015/12/20 09:28:03] <mt> since then we'll be able to change the PACKAGE_VERSION by hand
+[2015/12/20 09:28:07] <swift110-phone> That's awesome
+[2015/12/20 09:28:10] <mt> and set it to v0.4.0
+[2015/12/20 09:28:13] <mt> without git junk
+[2015/12/20 09:28:23] <swift110-phone> I shall download it today if possible
+[2015/12/20 09:28:38] <mt> I'll upload a tarball as soon as everything's tagged
+[2015/12/20 09:28:56] <Tobbi> Okay...
+[2015/12/20 09:29:00] <head8debian> mt: Ok, and im sitting here waiting to update the download links. :)
+[2015/12/20 09:29:05] <mt> for the official builds we just need win32, osx and possibly win64
+[2015/12/20 09:29:05] <Tobbi> :D
+[2015/12/20 09:29:09] <Tobbi> head8debian: And the release announcement.
+[2015/12/20 09:29:27] <mt> for the release announcement, just take the one from github
+[2015/12/20 09:29:35] <mt> https://github.com/SuperTux/supertux/releases/tag/untagged-6a993bba4aabd905fb29
+[2015/12/20 09:29:52] <Tobbi> Oh, yes, sure.
