@@ -26796,3 +26796,40 @@
 [2015/12/20 14:28:17] <ultimategiby> So, active coders/mainteners get op, and main active contribs a voice ... sorry for active translators and occasional contrib
 [2015/12/20 14:28:40] <Tobbi> No one cares about translators, but we all pretend we do.
 [2015/12/20 14:28:40] <Tobbi> :D
+[2015/12/20 14:30:25] <Not-e81f> [02flexlay] 07Karkus476 pushed 032 commits to 03develop [+1/-0/±12] 13http://git.io/vEkLm
+[2015/12/20 14:30:27] <Not-e81f> [02flexlay] 07Karkus 03c52eaf3 - Most FileDialogs now look nicer and have suggested file extensions
+[2015/12/20 14:30:28] <Not-e81f> [02flexlay] 07Karkus 031e82b39 - Creates Camera object automatically, forces user to save new level.
+[2015/12/20 14:30:38] <Tobbi> Translators are Fußvolk :D Whatever that is in English.
+[2015/12/20 14:31:52] <Tobbi> "below the salt"? according to dict.cc
+[2015/12/20 14:31:54] <Tobbi> never mind.
+[2015/12/20 14:32:15] <Karkus> Tobbi: Google translate -> "footsoldiers"
+[2015/12/20 14:32:30] <Not-e81f> [02flexlay] 07Karkus476 closed issue 03#6: Automatically Create Camera - 13http://git.io/vRnOP
+[2015/12/20 14:32:40] <Tobbi> Karkus: Yeah, it's a German saying meaning "being inferior"
+[2015/12/20 14:32:49] <ultimategiby> I care about them, it is in my charges :p
+[2015/12/20 14:33:29] <Tobbi> ultimategiby: You know: I updated source files after string freeze... :P
+[2015/12/20 14:33:43] <Tobbi> I clearly didn't...uhm, pay that much attention.
+[2015/12/20 14:34:12] <ultimategiby> I'm sorry... I'm burnt out
+[2015/12/20 14:34:23] <Tobbi> ultimategiby: It's okay. I am somewhat burnt out as well.
+[2015/12/20 14:34:27] <Tobbi> Let's take a rest...
+[2015/12/20 14:34:31] <Tobbi> Until next year probably.
+[2015/12/20 14:34:49] <brmbrmcar> Do I have to rest?
+[2015/12/20 14:35:05] <ultimategiby> brmbrmcar, ask you MD :p
+[2015/12/20 14:35:22] <Tobbi> brmbrmcar: YES!
+[2015/12/20 14:35:35] <brmbrmcar> :(
+[2015/12/20 14:35:50] <ultimategiby> Ok, for next stage.... who are the graphists? head8debian Hume2 ?
+[2015/12/20 14:36:08] <ultimategiby> brmbrmcar, what are your skills?
+[2015/12/20 14:36:14] <Tobbi> :D
+[2015/12/20 14:36:23] <Hume2> Better ask someone else.
+[2015/12/20 14:36:26] <Tobbi> ultimategiby: We don't really have any graphic artists...
+[2015/12/20 14:36:41] <Tobbi> I only pretended that head8debian was one...but he's not really that skilled.
+[2015/12/20 14:36:51] <Tobbi> (no offense, of course)
+[2015/12/20 14:37:02] <Tobbi> ultimategiby: We should ask on the forums for a graphics artist.
+[2015/12/20 14:37:22] <brmbrmcar> ultimategiby: Er...
+[2015/12/20 14:37:43] <brmbrmcar> I can't  do much.
+[2015/12/20 14:38:05] <brmbrmcar> Ijust keep console.nut unstable. :D
+[2015/12/20 14:38:57] <ultimategiby> Ok... My ex stuff friend was doing graphical art, but she/he has is a little bit unsane and we argued recently
+[2015/12/20 14:38:59] <Not-e81f> [02supertux] 07marc280492 commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vEkto
+[2015/12/20 14:39:03] <Tobbi> head8debian: http://supertux.lethargik.org/wiki/Download/Stable
+[2015/12/20 14:39:36] <Tobbi> head8debian: I mean: Update that please.
+[2015/12/20 14:41:37] <Tobbi> Or anyone else if they feel comfortable.
+[2015/12/20 14:44:45] <Not-e81f> [02supertux] 07tobbi commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vEkqx
