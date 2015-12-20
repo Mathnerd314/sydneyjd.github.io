@@ -26585,3 +26585,16 @@
 [2015/12/20 11:58:32] <bitlord> is it possible to use system version maybe?
 [2015/12/20 11:59:25] <head8debian> bitlord: IIRC that causes compatability issues.
 [2015/12/20 11:59:26] <Tobbi> head8debian: At some point, did you force-push?
+[2015/12/20 12:02:51] <Not-e81f> [02htdocs] 07tobbi pushed 033 commits to 03master [+0/-0/±3] 13http://git.io/vETz5
+[2015/12/20 12:02:52] <Not-e81f> [02htdocs] 07Tobias Markus 0362a568a - Fix merge conflicts
+[2015/12/20 12:02:54] <Not-e81f> [02htdocs] 07Tobias Markus 03e16ac56 - Add follow us on Twitter news
+[2015/12/20 12:02:55] <Not-e81f> [02htdocs] 07Tobias Markus 036220879 - Add link to editor guide
+[2015/12/20 12:03:56] <Tobbi> Oh!
+[2015/12/20 12:04:27] <Tobbi> They did get renamed.
+[2015/12/20 12:04:29] <Tobbi> damn.
+[2015/12/20 12:04:52] <Tobbi> head8debian: Can you update the links once more?
+[2015/12/20 12:06:22] <Tobbi> Or wait.
+[2015/12/20 12:06:25] <Tobbi> I will name it back.
+[2015/12/20 12:06:53] @ brmbrmcar joined channel #supertux
+[2015/12/20 12:07:22] <Tobbi> Done.
+[2015/12/20 12:07:26] <Tobbi> better not touch this.
