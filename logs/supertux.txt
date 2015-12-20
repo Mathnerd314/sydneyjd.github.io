@@ -26714,3 +26714,38 @@
 [2015/12/20 13:44:45] @ Karkus left channel #supertux ("Leaving")
 [2015/12/20 13:44:51] @ Karkus joined channel #supertux
 [2015/12/20 13:44:51] @ Mode +v Karkus by ChanServ
+[2015/12/20 13:45:16] <Karkus> ultimategiby: Thanks for voice
+[2015/12/20 13:45:26] <mt> btw, https://github.com/Homebrew/homebrew-games/pull/467
+[2015/12/20 13:46:11] <Tobbi> mt: So people can't install SuperTux 1 anymore?
+[2015/12/20 13:46:22] <mt> nope
+[2015/12/20 13:46:36] <mt> why would they want to do that?
+[2015/12/20 13:46:54] <Tobbi> mt: Well, I don't know.
+[2015/12/20 13:47:12] <mt> if they'd want to do that they should know how to get the old version of the formula :P
+[2015/12/20 13:47:24] <mt> or how to build from source without homebrew
+[2015/12/20 13:47:57] <mt> since 0.4.0 is stable now there's absolutely no reason to want 0.1.3
+[2015/12/20 13:48:04] <brmbrmcar> Yeah.
+[2015/12/20 13:48:12] <brmbrmcar> I WANT IT :(
+[2015/12/20 13:48:22] * brmbrmcar cries
+[2015/12/20 13:53:22] <maths22> Why would someone prefer 0.1.3?
+[2015/12/20 13:53:45] <maths22> What's with the plus sign by my nick?
+[2015/12/20 13:54:02] <Tobbi> maths22: It's the short form of "non plus ultra"
+[2015/12/20 13:54:12] <Tobbi> maths22: You got +v on this channel.
+[2015/12/20 13:54:15] <Tobbi> which is voice.
+[2015/12/20 13:54:29] <brmbrmcar> I miss parts of 0.1.3.
+[2015/12/20 13:54:30] <mt> which means you can't do much more than before
+[2015/12/20 13:54:47] <mt> people will just know you know more about the game than a random stranger
+[2015/12/20 13:54:53] <maths22> om
+[2015/12/20 13:55:01] <maths22> s/om/ok/
+[2015/12/20 13:55:01] <red_bot> maths22 meant: "ok"
+[2015/12/20 13:55:03] <mt> brmbrmcar: which parts?
+[2015/12/20 13:56:06] <brmbrmcar> You know,the sound, the graphics, theannoying parts...
+[2015/12/20 13:56:27] <brmbrmcar> Why does it say Last update: February 26, 2010 at the top of README.md still?
+[2015/12/20 13:57:04] <Tobbi> What do we do about the xmas issue? How do we fix it?
+[2015/12/20 13:57:05] <mt> brmbrmcar: chiptune-pulseaudio pixelize-x11 supertux2 --with-annoying-parts
+[2015/12/20 13:57:15] <alket> brmbrmcar: yes I have been wondering about that too
+[2015/12/20 13:58:09] <mt> because it's too small for anyone to notice
+[2015/12/20 13:58:13] <brmbrmcar> THat command did not work. What a surprise.
+[2015/12/20 13:58:21] <Tobbi> You tried it...
+[2015/12/20 13:58:26] <brmbrmcar> No, it should be updated!
+[2015/12/20 13:58:31] <brmbrmcar> Yep.
+[2015/12/20 13:58:40] <brmbrmcar> I like toprove things...
