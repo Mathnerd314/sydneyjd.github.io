@@ -25669,3 +25669,8 @@
 [2015/12/20 05:57:59] @ Quit: claymore2: Quit: Leaving
 [2015/12/20 06:07:20] <mt> maths22: how do I get cmake to create an OS X .app bundle
 [2015/12/20 06:07:46] <mt> maths22: and why are these *.dylibs in $prefix/MacOS
+[2015/12/20 06:18:22] <Tobbi> mt: I should add people who contributed sounds from freesound.org to the credits as well, no? At the moment, most of them are only in the AUTHORS file...
+[2015/12/20 06:21:32] <mt> Sounds like a good idea
+[2015/12/20 06:26:44] @ leyyin joined channel #supertux
+[2015/12/20 06:29:22] <Tobbi> mt: Is there a good way to add a new line in commits without needing to --amend them? new line in -m flag, I mean?
+[2015/12/20 06:29:59] <Tobbi> hey leyyin. You'll be in the SuperTux credits as well :P
