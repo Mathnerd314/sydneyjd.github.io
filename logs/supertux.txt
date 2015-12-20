@@ -25456,3 +25456,11 @@
 [2015/12/19 20:14:03] <alket> Karkus: but i mean for 0.4.0
 [2015/12/19 20:14:48] <Karkus> alket: Maybe you can't see the draft
 [2015/12/19 20:15:01] <alket> ah no
+[2015/12/19 20:15:08] <alket> just team can see that
+[2015/12/19 20:16:38] <Karkus> alket: https://imgur.com/xtX9qkS
+[2015/12/19 20:16:55] <Karkus> alket: Okay, sorry. I didn't realise :D
+[2015/12/19 20:17:12] <Karkus> Is this what you wanted?
+[2015/12/19 20:17:42] <alket> yeah
+[2015/12/19 20:17:45] <alket> thanks
+[2015/12/19 20:28:38] <Karkus> Bye, everyone
+[2015/12/19 20:28:40] @ Quit: Karkus: Quit: Division By Zero
