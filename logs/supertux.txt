@@ -25873,3 +25873,40 @@
 [2015/12/20 07:27:24] <mt> for some reason I'd like these patches to be committed before tagging v0.4.0
 [2015/12/20 07:29:24] <Tobbi> mt: Go right ahead and submit them.
 [2015/12/20 07:29:44] <mt> I don't have these patches
+[2015/12/20 07:30:08] <Tobbi> mt: What is broken about building an app?
+[2015/12/20 07:30:39] <mt> well, make install just puts an "MacOS" directory in the prefix directory
+[2015/12/20 07:30:53] <mt> and the standard subdirs (games, share, ...)
+[2015/12/20 07:31:03] <Tobbi> damn.
+[2015/12/20 07:31:06] <Tobbi> I will try it out.
+[2015/12/20 07:32:49] <mt> maths22 made it use cpack
+[2015/12/20 07:34:29] <leyyin> supertux does not work properly on the OS of the lead developer :P
+[2015/12/20 07:34:43] <Tobbi> ffs, leyyin
+[2015/12/20 07:35:03] <leyyin> what? :D
+[2015/12/20 07:35:10] <Tobbi> leyyin: Stop, just...stop.
+[2015/12/20 07:35:18] <Tobbi> Meine Nerven liegen blank.
+[2015/12/20 07:35:38] <Tobbi> Ah, My nerves are raw.
+[2015/12/20 07:35:44] <leyyin> I hit the right buttons then ;)
+[2015/12/20 07:37:00] <Tobbi> leyyin: It's not hard to provoke me, really.
+[2015/12/20 07:37:02] <Tobbi> People do it all the time.
+[2015/12/20 07:37:06] <Tobbi> And I can't distance it.
+[2015/12/20 07:37:10] <Tobbi> eeh keep distance from it.
+[2015/12/20 07:39:45] <leyyin> come on Tobbi, it's funny :)
+[2015/12/20 07:39:58] <Tobbi> leyyin: Not on release day.
+[2015/12/20 07:40:28] <leyyin> well you can always postpone it or make 0.4a
+[2015/12/20 07:41:28] <Tobbi> leyyin: No, package managers don't like .a
+[2015/12/20 07:41:37] <leyyin> poor package managers
+[2015/12/20 07:41:46] <leyyin> I do not get why you care about them
+[2015/12/20 07:43:02] <leyyin> WOOOHOOO, 0.4 release today
+[2015/12/20 07:43:08] @ brmbrmcar joined channel #supertux
+[2015/12/20 07:43:09] <leyyin> THE HYPE IS REAL
+[2015/12/20 07:43:13] <Tobbi> leyyin: Because we got yelled at before.
+[2015/12/20 07:43:16] <Tobbi> leyyin: Stop it.
+[2015/12/20 07:43:21] <Tobbi> You're making me more nervous.
+[2015/12/20 07:43:27] <Tobbi> I'm under pressure fixing this install command.
+[2015/12/20 07:44:48] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEUuQ
+[2015/12/20 07:44:48] <Not-e81f> [02supertux] 07Tobias Markus 03ceeb4f1 - CMakeLists: All affected files have an ext now. [ci skip]
+[2015/12/20 07:44:48] <leyyin> then 0.4.1
+[2015/12/20 07:44:48] <Tobbi> mt: Do we bundle libpng, libjpeg and libz?
+[2015/12/20 07:44:48] <mt> I guess for the official build yes
+[2015/12/20 07:44:48] <mt> but for homebrew not
+[2015/12/20 07:44:59] <Tobbi> mt: That's the problem: MacOS doesn't seem writable.
