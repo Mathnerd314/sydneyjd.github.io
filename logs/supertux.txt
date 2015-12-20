@@ -25993,3 +25993,14 @@
 [2015/12/20 08:44:30] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97960519
 [2015/12/20 08:44:38] <mt> I wonder if installing test_supertux2 is possible
 [2015/12/20 08:44:46] <mt> but that can wait for the next release
+[2015/12/20 08:55:41] <Tobbi> 1 hour left...
+[2015/12/20 08:57:22] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97960519
+[2015/12/20 08:57:49] <mt> Tobbi: mind testing the latest nightly build for OS X?
+[2015/12/20 08:58:00] <Tobbi> mt: Sure, one moment.
+[2015/12/20 08:59:10] <head8debian> Tobbi: Missed me?
+[2015/12/20 08:59:22] <Tobbi> head8debian: yup. Getting ready to party? :P
+[2015/12/20 08:59:23] <head8debian> Tobbi: Ok, what do i need to do? Im open ATM.
+[2015/12/20 08:59:24] <Tobbi> one hour left.
+[2015/12/20 08:59:33] <Tobbi> mt: Do you have anything for him to do?
+[2015/12/20 08:59:43] <head8debian> :-)
+[2015/12/20 08:59:46] <mt> I don't think so
