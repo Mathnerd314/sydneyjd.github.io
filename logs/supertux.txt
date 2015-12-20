@@ -26161,3 +26161,47 @@
 [2015/12/20 09:43:50] <mt> since it will contain the entire 0.4.z release series
 [2015/12/20 09:44:24] <Tobbi> ok.
 [2015/12/20 09:44:53] * head8debian headbangs...
+[2015/12/20 09:45:58] <mt> Tobbi: tell giby_the_kid to add some more people as ops; I tried multiple times but nothing happened
+[2015/12/20 09:46:12] <Tobbi> mt: Yeah, possibly.
+[2015/12/20 09:46:50] <giby_the_kid> Hi
+[2015/12/20 09:48:38] <Tobbi> mt: Okay, can you tag and trigger a build?
+[2015/12/20 09:48:42] <Tobbi> I think it's time.
+[2015/12/20 09:50:59] <mt> ok then
+[2015/12/20 09:52:44] <head8debian> Tobbi: Yes, you need to talk to giby about ops...
+[2015/12/20 09:52:51] <brmbrmcar> 10minutesuntil release now?
+[2015/12/20 09:52:54] <Tobbi> head8debian: Why me? He's in the room.
+[2015/12/20 09:53:34] <Tobbi> giby_the_kid: Can you please give some more people ops...?
+[2015/12/20 09:53:38] <Tobbi> Otherwise they keep bugging me.
+[2015/12/20 09:54:31] <head8debian> :D
+[2015/12/20 09:54:51] <head8debian> Tobbi: I will leave the git snapshot section on the website.
+[2015/12/20 09:54:53] <Not-e81f> [02supertux] 07maxteufel pushed 031 commit to 03master [+0/-0/±3] 13http://git.io/vEUpV
+[2015/12/20 09:54:55] <Not-e81f> [02supertux] 07Max Teufel 0385b7f64 - Release SuperTux 0.4.0 (stable)
+[2015/12/20 09:54:56] <giby_the_kid> Try to find out clean way of doing it
+[2015/12/20 09:54:56] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97967070
+[2015/12/20 09:54:58] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/152
+[2015/12/20 09:54:59] <Not-e81f> [02supertux] 07maxteufel created tag 03v0.4.0 - 13http://git.io/vvf63
+[2015/12/20 09:55:01] <Not-e81f> [02supertux] 07maxteufel tagged 0385b7f64 as 03v0.4.0 13http://git.io/vEUpw
+[2015/12/20 09:55:01] <Tobbi> OKay.
+[2015/12/20 09:55:02] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97967089
+[2015/12/20 09:55:03] <Tobbi> Here we go.
+[2015/12/20 09:55:04] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/153
+[2015/12/20 09:55:55] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97967070
+[2015/12/20 09:55:56] <Tobbi> http://forum.freegamedev.net/viewtopic.php?f=67&t=6696
+[2015/12/20 09:55:58] <Not-e81f> [02supertux] 07maxteufel created branch 03release/0.4 - 13http://git.io/vvf63
+[2015/12/20 09:55:59] <Not-e81f> [02supertux] 07maxteufel created branch 03release/0.4 13http://git.io/vEUpw
+[2015/12/20 09:56:00] <Tobbi> Release post on the forum.
+[2015/12/20 09:56:01] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97967176
+[2015/12/20 09:56:07] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/154
+[2015/12/20 09:56:42] @ Mode +vv head8debian red_bot by ChanServ
+[2015/12/20 09:56:46] <Not-e81f> [02supertux] 07maxteufel published 03v0.4.0 | SuperTux 0.4.0 - 13http://git.io/vEUhC
+[2015/12/20 09:56:51] <Tobbi> Not quite.
+[2015/12/20 09:56:56] <Tobbi> That was voice.
+[2015/12/20 09:56:59] @ Mode +v mt by ChanServ
+[2015/12/20 09:57:10] * head8debian rolls his eyes...
+[2015/12/20 09:57:17] @ Mode +v octo by ChanServ
+[2015/12/20 09:57:21] <Tobbi> haha
+[2015/12/20 09:57:31] <mt> some ops would be helpful as well
+[2015/12/20 09:57:54] <head8debian> So we can kick Tobbi when he spams the channel with dissconnects.
+[2015/12/20 09:57:58] <Tobbi> :D
+[2015/12/20 09:58:32] <Not-e81f> [02supertux] 07tobbi commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vEUhS
+[2015/12/20 09:59:38] <Not-e81f> [02supertux] 07tobbi commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vEUhx
