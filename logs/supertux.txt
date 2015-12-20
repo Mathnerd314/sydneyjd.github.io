@@ -25447,3 +25447,12 @@
 [2015/12/19 19:55:17] <Karkus> head8debian: Hello
 [2015/12/19 19:55:21] <head8debian> Busy day...
 [2015/12/19 19:56:28] <alket> hi
+[2015/12/19 20:09:15] <alket> where can I see the milestones ?
+[2015/12/19 20:11:04] <Karkus> alket: I assume you mean this: https://github.com/SuperTux/supertux/releases
+[2015/12/19 20:12:51] <alket> Karkus: i mean, where can I find whats new in this release ? someone earlier mentioned a milestone thing
+[2015/12/19 20:13:07] <Karkus> Err, it's right there...
+[2015/12/19 20:13:30] <Karkus> alket: When did you last see the game?
+[2015/12/19 20:13:50] <alket> idk, 2007
+[2015/12/19 20:14:03] <alket> Karkus: but i mean for 0.4.0
+[2015/12/19 20:14:48] <Karkus> alket: Maybe you can't see the draft
+[2015/12/19 20:15:01] <alket> ah no
