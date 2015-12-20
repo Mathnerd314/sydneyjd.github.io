@@ -25442,3 +25442,8 @@
 [2015/12/19 19:34:35] <alket> also hard to get all
 [2015/12/19 19:34:57] <Karkus> alket: Yeah, we need better prizes in this game :P
 [2015/12/19 19:37:14] @ Quit: tux|dude: Ping timeout: 240 seconds
+[2015/12/19 19:51:49] @ Quit: leper`: Quit: ZNC - http://znc.in
+[2015/12/19 19:55:05] <head8debian> Good evening Karkus, alket.
+[2015/12/19 19:55:17] <Karkus> head8debian: Hello
+[2015/12/19 19:55:21] <head8debian> Busy day...
+[2015/12/19 19:56:28] <alket> hi
