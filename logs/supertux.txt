@@ -27120,3 +27120,41 @@
 [2015/12/20 16:58:29] <Tobbi> Karkus: Hmm, not sure.
 [2015/12/20 16:59:18] <Karkus> I guess it must then.
 [2015/12/20 16:59:40] <Karkus> It would be "/msg @#supertux hello, ops" right?
+[2015/12/20 17:03:05] <Tobbi> Karkus: I think so.
+[2015/12/20 17:05:23] <Tobbi> Creating a level in flexlay is really tedious.
+[2015/12/20 17:05:40] <Karkus> Tobbi: Hmm, I agree
+[2015/12/20 17:06:01] <Tobbi> Karkus: I guess it should get better once we have proper presets...
+[2015/12/20 17:06:13] <Tobbi> or rather templates etc.
+[2015/12/20 17:06:18] <giby_the_kid> Anyone mastering C#?
+[2015/12/20 17:06:29] <Tobbi> I am not really good at it.
+[2015/12/20 17:06:45] <Karkus> giby_the_kid: Thinking of the mono editor?
+[2015/12/20 17:06:59] <giby_the_kid> yes
+[2015/12/20 17:07:19] <Karkus> giby_the_kid: I've never touched C#
+[2015/12/20 17:07:25] <Tobbi> giby_the_kid: I'd really suggest to push forward the python one.
+[2015/12/20 17:07:56] <Tobbi> Do you know python?
+[2015/12/20 17:07:59] <Tobbi> You could help us.
+[2015/12/20 17:08:27] <Karkus> Tobbi: Maybe it should just set some presets and then you can edit music etc. in settings?
+[2015/12/20 17:08:54] <Tobbi> Karkus: I was thinking about tile groups...so that you can work with objects...
+[2015/12/20 17:08:58] <Tobbi> But we have that...
+[2015/12/20 17:09:05] <Tobbi> as an issue, I mean.
+[2015/12/20 17:09:29] <Karkus> we do?
+[2015/12/20 17:09:43] <Karkus> Oh, yeah
+[2015/12/20 17:10:04] <Karkus> Tobbi: Shouldn't be too difficult I guess.
+[2015/12/20 17:10:26] <Karkus> Tobbi: Except making a gui to create them etc.
+[2015/12/20 17:10:32] <Karkus> *sigh*
+[2015/12/20 17:10:35] <Tobbi> Oh, yeah...
+[2015/12/20 17:12:04] <Karkus> Tobbi: I'll get round to it eventually :D
+[2015/12/20 17:12:35] <Tobbi> Karkus: I am really thinking of a list view  or a dropdown view to create them.
+[2015/12/20 17:12:38] <Tobbi> eeh select them from.
+[2015/12/20 17:13:10] <Karkus> Tobbi: But you want to be able to see what you're doing, and create your own...
+[2015/12/20 17:13:18] <Tobbi> Yes, I guess so.
+[2015/12/20 17:13:30] <Karkus> Tobbi: And then store them somewhere
+[2015/12/20 17:13:36] <Tobbi> Yes.
+[2015/12/20 17:13:49] <Karkus> Tobbi: The complexity scales quickly
+[2015/12/20 17:13:51] @ leyyin_ joined channel #supertux
+[2015/12/20 17:14:15] <Karkus> Tobbi: You can already right-click + drag in the TileSelector
+[2015/12/20 17:14:25] <Karkus> Tobbi: But I promise I'll do it.
+[2015/12/20 17:14:31] <Tobbi> Karkus: For mac users like me, this is extremely tedious.
+[2015/12/20 17:14:43] <Tobbi> Also, sometimes the tiles you want connected to each other are not that way.
+[2015/12/20 17:14:45] <Karkus> Tobbi: Yeah :D
+[2015/12/20 17:14:50] <Karkus> Tobbi: Of course
