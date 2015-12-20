@@ -26898,3 +26898,55 @@
 [2015/12/20 15:11:49] <leyyin> yes
 [2015/12/20 15:12:33] <Tobbi> leyyin: Hmm, I am not sure. my definition of friend is fairly strict.
 [2015/12/20 15:14:45] <leyyin> Tobbi, your friends are always nice with you, always agree with you? ;)
+[2015/12/20 15:15:02] <Tobbi> leyyin: I don't have any friends, thus I can't tell...
+[2015/12/20 15:15:25] <leyyin> you are german, figures :P
+[2015/12/20 15:15:33] <Hume2> Tobbi, have you ever had any friends?
+[2015/12/20 15:15:35] <leyyin> stereotype confirmed
+[2015/12/20 15:16:00] <leyyin> Hume2, he is joking
+[2015/12/20 15:16:15] <Tobbi> Hume2: Once I have friends I change my definition of friendship to exclude those people.
+[2015/12/20 15:16:29] <leyyin> Tobbi, stop lying :)
+[2015/12/20 15:16:42] <Tobbi> leyyin: I have very few friends, to be honest...
+[2015/12/20 15:16:50] <Hume2> leyyin: He's serious now.
+[2015/12/20 15:16:57] <Tobbi> Otherwise, I wouldn't be leading this project.
+[2015/12/20 15:17:00] <Tobbi> But got better stuff to do.
+[2015/12/20 15:17:39] <Hume2> Maybe that's why I do this.
+[2015/12/20 15:18:46] <Tobbi> leyyin: You really should understand German...
+[2015/12/20 15:18:49] <Tobbi> Learn it.
+[2015/12/20 15:18:56] <leyyin> after I learn french
+[2015/12/20 15:19:30] <Tobbi> leyyin: French is for pussies... :P
+[2015/12/20 15:19:39] <leyyin> so to be a open source project leader you have to be without friends?
+[2015/12/20 15:19:52] <Tobbi> leyyin: No, I am just saying.
+[2015/12/20 15:20:03] <leyyin> french is more popular than german and more easy for me
+[2015/12/20 15:20:09] <leyyin> and sounds nicer
+[2015/12/20 15:20:29] <Tobbi> leyyin: Since the second world war, The ship of the french have a glass bottom so that they can see the rest of their fleet as well.
+[2015/12/20 15:21:04] <leyyin> 0 relevance with the language
+[2015/12/20 15:21:19] <giby_the_kid> leyyin, do you speak french?
+[2015/12/20 15:21:31] <Tobbi> Oh damn, I didn't realize giby was still here...
+[2015/12/20 15:21:38] <Tobbi> Otherwise, I wouldn't have said that.
+[2015/12/20 15:21:44] <leyyin> well I studied in school, but I did not know that much, now I am trying to learn it
+[2015/12/20 15:21:52] <Hume2> I know many jokes about French, but I guess it's unappropriate there.
+[2015/12/20 15:21:56] <Tobbi> I learned latin in school.
+[2015/12/20 15:22:05] <leyyin> duolingo helps a lot :)
+[2015/12/20 15:22:41] <leyyin> after french I will try to learn german :P
+[2015/12/20 15:23:36] <Tobbi> leyyin: Do you plan on visiting France some day? If so, I should tell you that navigating a tank is extremely unlike driving any other car.
+[2015/12/20 15:23:55] <leyyin> Tobbi, yes I plan to visit every damn place on earth ;)
+[2015/12/20 15:24:06] <Tobbi> leyyin: Don't you dare invade Flensburg.
+[2015/12/20 15:24:58] <brmbrmcar> leyyin: Dare invade Flensburg.
+[2015/12/20 15:25:02] <leyyin> nazi jokes?
+[2015/12/20 15:25:07] <Hume2> Please no.
+[2015/12/20 15:25:42] <Hume2> I like them, but I guess, Tobbi doesn't...
+[2015/12/20 15:25:49] <leyyin> everyone should try to learn 3-4 languages :)
+[2015/12/20 15:25:50] <Tobbi> Hume2: I do.
+[2015/12/20 15:26:02] <Hume2> Oh, seriously?
+[2015/12/20 15:26:23] <leyyin> *human languages :D
+[2015/12/20 15:26:34] <Tobbi> Hume2: Have I ever shown you this? https://www.youtube.com/watch?v=5F-5H5V8ZD4
+[2015/12/20 15:26:44] * leyyin expects hitler video
+[2015/12/20 15:26:54] <leyyin> was I right?
+[2015/12/20 15:27:01] <Hume2> Tobbi: I'll see.
+[2015/12/20 15:27:10] @ Quit: swift110-phone: Read error: Connection reset by peer
+[2015/12/20 15:27:10] <Tobbi> leyyin: ...
+[2015/12/20 15:27:22] <Tobbi> leyyin: I haven't shown him that, yet. You know it.
+[2015/12/20 15:29:17] * brmbrmcar is turning into head8debian
+[2015/12/20 15:29:23] <brmbrmcar> Tobbi:No videos!
+[2015/12/20 15:29:31] <leyyin> Tobbi, do you speak danish?
+[2015/12/20 15:29:51] <Tobbi> leyyin: Not really...Always wanted to learn it, though.
