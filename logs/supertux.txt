@@ -26990,3 +26990,54 @@
 [2015/12/20 15:58:16] <brmbrmcar> OK.
 [2015/12/20 15:59:09] <Hume2> For example he invited lighting bulbs.
 [2015/12/20 15:59:49] <brmbrmcar> Colour changing ones? :D
+[2015/12/20 16:00:08] <Hume2> He called it "járovka" and the French pronounced it like "žárovka". That's how it's called in Czech.
+[2015/12/20 16:01:37] <brmbrmcar> OK.
+[2015/12/20 16:02:40] <Hume2> It's a linguistic humor, you can't understand that.
+[2015/12/20 16:03:13] <brmbrmcar> Yep.
+[2015/12/20 16:05:06] <Hume2> The Window Politics is about how to effective throw people trough the window.
+[2015/12/20 16:05:22] <brmbrmcar> Really?
+[2015/12/20 16:05:53] <Hume2> Yes. I'll try to get out how is "defenestrace" in English.
+[2015/12/20 16:06:42] <Hume2> Basically it means "throw someone trough the window".
+[2015/12/20 16:06:45] <Tobbi> Karkus: There are three cameras created for each level now.
+[2015/12/20 16:06:56] <Karkus> Tobbi: Oh.
+[2015/12/20 16:06:59] <Tobbi> (one for each layer?)
+[2015/12/20 16:07:06] <Karkus> Tobbi: Ah!
+[2015/12/20 16:07:16] <brmbrmcar> :D
+[2015/12/20 16:08:21] <Hume2> brmbrmcar: It's "defenestration".
+[2015/12/20 16:08:41] <brmbrmcar> I;m not getting it. :(
+[2015/12/20 16:09:13] <Hume2> It's a typical Czech way how to get rid of important men.
+[2015/12/20 16:09:37] <Not-e81f> [02flexlay] 07Karkus476 pushed 032 commits to 03develop [+1/-1/±5] 13http://git.io/vEkzk
+[2015/12/20 16:09:38] <Not-e81f> [02flexlay] 07Karkus 03f512dc5 - Move "Property" file from supertux to flexlay
+[2015/12/20 16:09:39] <Not-e81f> [02flexlay] 07Karkus 035a750f1 - Only create 1 Camera
+[2015/12/20 16:09:45] <brmbrmcar> That's awesome!
+[2015/12/20 16:09:46] <Tobbi> Prager Fenstersturz.
+[2015/12/20 16:09:55] <Hume2> Exactly.
+[2015/12/20 16:10:08] <Karkus> Tobbi: Stupid Python indentation.
+[2015/12/20 16:10:15] <Karkus> I like it though :D
+[2015/12/20 16:10:17] <Tobbi> Karkus: Yeah, could've guessed. :D
+[2015/12/20 16:11:02] <Karkus> Tobbi: It's good you noticed, thanks
+[2015/12/20 16:11:18] <Tobbi> :)
+[2015/12/20 16:11:34] <leyyin> who hates python identation?
+[2015/12/20 16:12:19] <Hume2> Me.
+[2015/12/20 16:12:41] <Tobbi> No, Karkus does.
+[2015/12/20 16:12:42] <Tobbi> :P
+[2015/12/20 16:12:45] <leyyin> tbh, it makes you code nicely
+[2015/12/20 16:12:48] <brmbrmcar> red_bot: Have you met brmbrmbot yet? :D
+[2015/12/20 16:13:02] <Tobbi> Ich habe da ein ganz mieses Gefühl.
+[2015/12/20 16:13:03] <leyyin> I have seen too many stupid identations, 2 space followed by 8 space
+[2015/12/20 16:13:09] <Karkus> leyyin: I said it was stupid, but I love it
+[2015/12/20 16:13:11] <leyyin> it forces you = good
+[2015/12/20 16:13:23] <Karkus> Yeah, I can't fault it really
+[2015/12/20 16:13:37] <leyyin> just try to code in rust
+[2015/12/20 16:13:41] <Karkus> leyyin: Do you like dynamic typing
+[2015/12/20 16:13:45] <leyyin> you would see how stupid you are
+[2015/12/20 16:13:50] <leyyin> rust knows better than you :)
+[2015/12/20 16:13:54] <Tobbi> brmbrmcar's sentence => "I've got a very bad feeling about this"
+[2015/12/20 16:14:06] <leyyin> Karkus, yes, for scripting ;)
+[2015/12/20 16:14:08] <Tobbi> Or whatever that star wars quote is.
+[2015/12/20 16:14:15] <leyyin> and small stuff
+[2015/12/20 16:14:29] <Karkus> leyyin: Fair enough
+[2015/12/20 16:14:37] <Karkus> I like it, sometimes it's great.
+[2015/12/20 16:14:42] <Karkus> But other times...
+[2015/12/20 16:14:54] <brmbrmcar> Tobbi: /whois brmbrmbot
+[2015/12/20 16:14:58] <leyyin> yes, but strong typing is more sane :D
