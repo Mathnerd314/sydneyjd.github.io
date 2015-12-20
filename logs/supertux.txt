@@ -26864,3 +26864,37 @@
 [2015/12/20 14:59:25] <leyyin> no, from your website
 [2015/12/20 14:59:41] <Tobbi> Ah, I don't think so.
 [2015/12/20 14:59:48] <leyyin> :/ http://supertuxproject.org/download.html
+[2015/12/20 15:00:08] <Tobbi> So far not many people picked up the release.
+[2015/12/20 15:00:14] <Tobbi> Not on twitter, anyway.
+[2015/12/20 15:02:16] <leyyin> well I picked it up, it's good enough :P
+[2015/12/20 15:02:32] <Tobbi> leyyin: You're not representing everyone.
+[2015/12/20 15:03:16] <Tobbi> Actually, you're not representing anyone either.
+[2015/12/20 15:03:30] <leyyin> I know
+[2015/12/20 15:04:22] <Tobbi> leyyin: It's interesting that I keep getting suggestions for Mozilla people on Twitter...even though I didn't add any of them...
+[2015/12/20 15:04:44] <Tobbi> And they might get suggestions to add "@fanaticlychee" even though they don't know it's me :P
+[2015/12/20 15:05:33] <leyyin> ha, they know your habits :P
+[2015/12/20 15:05:39] <leyyin> suggestion machine learning knows everything
+[2015/12/20 15:05:49] <Tobbi> leyyin: Maybe my e-mail address.
+[2015/12/20 15:06:07] <Tobbi> leyyin: But still, they might wonder "Who is this fanatic lychee who doesn't know anything about computers"? :D
+[2015/12/20 15:06:46] <leyyin> never gets old
+[2015/12/20 15:06:47] <Tobbi> *which
+[2015/12/20 15:06:57] <Tobbi> leyyin: Just like me.
+[2015/12/20 15:07:02] <brmbrmcar> never gets young
+[2015/12/20 15:07:06] <leyyin> are you a vampire like me?
+[2015/12/20 15:07:12] <Tobbi> leyyin: No, I am beyond that.
+[2015/12/20 15:07:34] <Tobbi> I moved beyond that stage. I am outside the space time continuum.
+[2015/12/20 15:07:55] <leyyin> did you see star wars?
+[2015/12/20 15:08:09] <leyyin> apparently it broke weekend record without breaking a sweat
+[2015/12/20 15:08:11] <Tobbi> leyyin: No, I don't have any friends...
+[2015/12/20 15:08:16] @ Quit: Narre: Ping timeout: 252 seconds
+[2015/12/20 15:08:18] <Tobbi> And going to the cinema alone is boring.
+[2015/12/20 15:08:37] * leyyin flies to Germany
+[2015/12/20 15:08:40] <leyyin> problem solved
+[2015/12/20 15:09:17] <Tobbi> leyyin: I said friends.
+[2015/12/20 15:09:26] <Tobbi> leyyin: Not people who forass me every time.
+[2015/12/20 15:09:55] <brmbrmcar> I didn't see it.
+[2015/12/20 15:10:30] <leyyin> Tobbi, I think that is the definition of a friend
+[2015/12/20 15:11:35] <Tobbi> leyyin: People who hoax me everytime = friend?
+[2015/12/20 15:11:49] <leyyin> yes
+[2015/12/20 15:12:33] <Tobbi> leyyin: Hmm, I am not sure. my definition of friend is fairly strict.
+[2015/12/20 15:14:45] <leyyin> Tobbi, your friends are always nice with you, always agree with you? ;)
