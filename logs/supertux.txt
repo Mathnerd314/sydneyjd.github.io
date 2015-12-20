@@ -25725,3 +25725,23 @@
 [2015/12/20 06:39:35] <alket> mt: strangely it works now, but it didn't yesterday, im sure of it
 [2015/12/20 06:40:16] <Tobbi> Schroedinbug.
 [2015/12/20 06:42:01] <Tobbi> This buildsystem is his destiny. He said "Shut up and build for me".
+[2015/12/20 06:54:25] @ Karkus joined channel #supertux
+[2015/12/20 06:55:32] <Tobbi> Hello Karkus.
+[2015/12/20 06:55:35] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEUC9
+[2015/12/20 06:55:36] <Not-e81f> [02supertux] 07Tobias Markus 033080360 - Fixup credits syntax, remove Gwenn M (was also credited under full name)
+[2015/12/20 06:55:43] <Karkus> Hey Tobbi
+[2015/12/20 06:55:44] <Tobbi> Karkus: Mentally ready for release?
+[2015/12/20 06:55:58] <Karkus> Tobbi: I think so
+[2015/12/20 06:56:12] <Tobbi> Good.
+[2015/12/20 06:56:22] <Tobbi> It's gonna be quite disturbing, awesome, otherworldly...
+[2015/12/20 06:56:44] <Tobbi> Who is going to win this time? We or the build system? :P
+[2015/12/20 06:57:08] <Tobbi> Or is it "us" in this context?
+[2015/12/20 06:57:22] <Karkus> Tobbi: I hope it's not any of those descriptions
+[2015/12/20 06:57:36] <Tobbi> :D
+[2015/12/20 06:58:21] <Karkus> Tobbi: Well, "We or the build system?" isn't a sentence anyway. Normal rules don't apply
+[2015/12/20 06:58:26] <Tobbi> Okay.
+[2015/12/20 06:58:50] <leyyin> wine 1.8 was released :D
+[2015/12/20 06:59:14] <Tobbi> leyyin: ...
+[2015/12/20 06:59:29] <Tobbi> leyyin: You make that fuzz about wine 1.8...but nothing about SuperTux 0.4
+[2015/12/20 06:59:38] <Tobbi> I hope you guys will at least give us a retweet or something.
+[2015/12/20 06:59:52] <leyyin> I do not play supertux that much :/
