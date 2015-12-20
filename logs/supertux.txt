@@ -25427,3 +25427,10 @@
 [2015/12/19 19:07:48] <Not-e81f> [02flexlay] 07Karkus 038b97cc0 - Adds SuperTuxArguments object to handle command-line args.
 [2015/12/19 19:08:50] @ tux|dude joined channel #supertux
 [2015/12/19 19:14:06] <alket> nice secret are :) https://lut.im/LVbDJQh6K0/XFwRYPjkDdjR1Dof.png
+[2015/12/19 19:17:33] <Karkus> alket: Which world is that?
+[2015/12/19 19:18:01] <alket> story mode
+[2015/12/19 19:18:06] <alket> level 3 or 4
+[2015/12/19 19:24:16] <Karkus> alket: How do you get to it? I've never seen it before.
+[2015/12/19 19:25:22] <alket> let me take a screnshot
+[2015/12/19 19:28:29] <alket> its level 5 https://lut.im/vDAgfbCAtV/LWkZx0xIdQ3l6MfZ.png after melting the ice and breaking the box, the switch is there, then follow the pipe
+[2015/12/19 19:28:47] <alket> but up there is some ice which melts, you have to die to try again
