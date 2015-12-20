@@ -25597,3 +25597,15 @@
 [2015/12/20 04:41:27] <mt> 0.3.5a I mean
 [2015/12/20 04:42:40] @ Quit: Hume2: Quit: Page closed
 [2015/12/20 04:44:54] @ Quit: tux|dude: Quit: Leaving
+[2015/12/20 04:47:17] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97939265
+[2015/12/20 04:50:34] <mt> what we need to do manually is build a tarball
+[2015/12/20 04:50:46] <mt> because the github ones break with submodules iirc
+[2015/12/20 04:50:48] @ Quit: tuxdev_: Ping timeout: 272 seconds
+[2015/12/20 04:50:56] <Tobbi> mt: Oh, okay.
+[2015/12/20 04:52:01] <mt> whee
+[2015/12/20 04:52:10] <mt> actually we need to fix that in makedist.sh as well
+[2015/12/20 04:52:44] <mt> and that still expects the old versioning in CMakeLists.txt
+[2015/12/20 04:53:23] <Tobbi> It's great when you ask your question in ##c++ and people reply "Means exactly what it says". How helpful.
+[2015/12/20 04:54:28] <mt> hey let's help people
+[2015/12/20 04:54:45] <mt> but when they ask something, let's tell them that everything's already in the problem description
+[2015/12/20 04:54:46] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/149
