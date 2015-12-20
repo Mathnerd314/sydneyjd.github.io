@@ -27222,3 +27222,46 @@
 [2015/12/20 17:58:32] <alket> the last time i checked, i think 2010 ? it was very bad
 [2015/12/20 17:58:41] <alket> 2007, good, 2010 until today, bad
 [2015/12/20 17:59:12] <alket> I still wonder what downgrade did it have, sine it used to be awesome, then quite bad
+[2015/12/20 18:00:28] <tux|dude> I'm just glad it has been released in a stable form now. You guys did well
+[2015/12/20 18:00:30] <Tobbi> alket: But it's good now, and that's all that matters.
+[2015/12/20 18:00:42] <alket> yeah
+[2015/12/20 18:01:20] <Tobbi> tux|dude: There are some rough spots: When you switch languages, it downloads a language pack (opening the add-on manager)...
+[2015/12/20 18:01:28] <Tobbi> Which might be unintuitive to many people.
+[2015/12/20 18:01:34] <Tobbi> But that code was added fairly recently.
+[2015/12/20 18:01:42] <tux|dude> I see
+[2015/12/20 18:01:57] <Tobbi> In fact, 3 days ago.
+[2015/12/20 18:01:57] <tux|dude> Oh man I like how the snowballs melt when you hit them with a fire flower
+[2015/12/20 18:02:01] <Tobbi> :D
+[2015/12/20 18:02:12] <Tobbi> All Hume's work.
+[2015/12/20 18:02:15] <tux|dude> Nice touch
+[2015/12/20 18:02:17] <tux|dude> Really nice touch
+[2015/12/20 18:02:49] <alket> I see albanian is there xD
+[2015/12/20 18:03:03] <Tobbi> alket: Yes, not fully translated though.
+[2015/12/20 18:03:04] <Tobbi> Does it work?
+[2015/12/20 18:03:16] <alket> yes
+[2015/12/20 18:03:31] <Tobbi> Albanian is at 25%.
+[2015/12/20 18:03:39] <Tobbi> alket: Do you speak Albanian?
+[2015/12/20 18:03:46] <alket> Tobbi: I am Kosovar Albanian
+[2015/12/20 18:03:55] <alket> i see in Credits it says 2004 in wallpaper :p
+[2015/12/20 18:03:57] <Tobbi> alket: You can help us with localization!!!
+[2015/12/20 18:03:57] <leyyin_>  tobbi starred SuperTux/flexlay
+[2015/12/20 18:03:57] <leyyin_> an hour ago
+[2015/12/20 18:04:05] <Tobbi> leyyin_: ...
+[2015/12/20 18:04:24] <Tobbi> alket: https://www.transifex.com/arctic-games/supertux/
+[2015/12/20 18:04:39] <tux|dude> The new music doesn't sit quite as well with me as the old stuff but ho hum
+[2015/12/20 18:05:14] <alket> Tobbi: yes sure, maybe next week I will do it
+[2015/12/20 18:05:30] <alket> but all albanians speak either english, german or italian
+[2015/12/20 18:05:36] <alket> we don't even use OS in albanian
+[2015/12/20 18:05:43] <Tobbi> hah, alright.
+[2015/12/20 18:05:58] <alket> Tobbi: why is there no pic of you xD
+[2015/12/20 18:06:15] <Tobbi> alket: I couldn't think of a good one.
+[2015/12/20 18:06:23] <Tobbi> Also, I didn't really want to show my face to the world.
+[2015/12/20 18:06:30] <alket> hehe
+[2015/12/20 18:06:47] <alket> I see the albanian in credits is mentioned a "Albanese" thats the italian spelling :p
+[2015/12/20 18:07:19] <Tobbi> :)
+[2015/12/20 18:10:06] <alket> I am thinking of doing a "Lite" version of ST in godot for android
+[2015/12/20 18:14:08] <Tobbi> Ah, if you want, sure.
+[2015/12/20 18:14:12] <Tobbi> Just keep the credits intact.
+[2015/12/20 18:14:32] <leyyin_> alket, nice beard https://github.com/alketii
+[2015/12/20 18:14:49] <alket> thanks
+[2015/12/20 18:14:58] <alket> Tobbi: yeah ofc
