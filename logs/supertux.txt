@@ -25477,3 +25477,5 @@
 [2015/12/20 02:21:44] <mt> I guess I'll prepare the homebrew-games formula for OS X
 [2015/12/20 02:22:12] <mt> thing is: I can't test on anything other than Yosemite
 [2015/12/20 02:22:37] <mt> otoh, I could set up an El Capitan VM
+[2015/12/20 02:34:41] <mt> wtf
+[2015/12/20 02:34:53] <mt> even --version doesn't know what version we're on
