@@ -26608,3 +26608,18 @@
 [2015/12/20 12:26:47] <brmbrmcar> We did.
 [2015/12/20 12:27:06] <brmbrmcar> Well, supertux.org.
 [2015/12/20 12:27:38] <brmbrmcar> .com wouldm#t be used anyway.
+[2015/12/20 12:32:23] <tomreyn> well you could redirect com to the new domain name
+[2015/12/20 12:32:34] <tomreyn> it looks like .org got grabbed by commercial grabbers
+[2015/12/20 12:33:04] <tomreyn> they want like 250 + fees for it
+[2015/12/20 12:33:17] <tomreyn> but maybe .com could be free
+[2015/12/20 12:33:24] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/20 12:34:09] <tomreyn> should be him, a cisco employee https://www.linkedin.com/in/zack-damen-399b512
+[2015/12/20 12:35:20] <brmbrmcar> I'll check supertux.com myself now.
+[2015/12/20 12:35:39] <Karkus> tomreyn: To be quite honest, we're okay with supertuxproject.org
+[2015/12/20 12:35:58] <tomreyn> ok, i was just wondering
+[2015/12/20 12:36:18] <brmbrmcar> I can't even connect to supertux.com.
+[2015/12/20 12:37:33] <tomreyn> it doesn't have an A record
+[2015/12/20 12:37:36] <tomreyn> just MX
+[2015/12/20 12:37:47] <tomreyn> so chances are he uses or used it for mail only
+[2015/12/20 12:38:38] <brmbrmcar> Ah.
+[2015/12/20 12:38:41] <brmbrmcar> OK.
