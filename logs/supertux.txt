@@ -25399,3 +25399,19 @@
 [2015/12/19 18:44:04] @ Tobbi set topic "0.4.0 RELEASE TODAY | https://github.com/SuperTux | Stable: 0.4.0 | mailing list: supertux-devel@lists.lethargik.org | Channel log http://sydneyjd.github.io/logs/ | nightly builds http://download.supertuxproject.org/download/"
 [2015/12/19 18:44:22] <Karkus> Well, if anyone joins, I will tell them immediately that there are still a few hours till release.
 [2015/12/19 18:44:38] <Tobbi> Yes, indeed.
+[2015/12/19 18:45:05] <alket> does anything needs testing ?
+[2015/12/19 18:46:13] <Tobbi> alket: Compile the code and see for yourself.
+[2015/12/19 18:49:33] <alket> how can I check how many lifes do I have
+[2015/12/19 18:53:26] @ Quit: Tobbi: 
+[2015/12/19 18:56:54] <alket> a new bug, if a "?" box is near a breakable wooden box, when you jump to break it, the flower in next box falls down, you have to be in middle of 2 boxes https://lut.im/cb35gdoqgZ/JKDciOKCo7iU8Ixy.png
+[2015/12/19 18:57:08] <alket> you can also get coins this way
+[2015/12/19 18:58:08] <Karkus> alket: Lives? Lives do not exist.
+[2015/12/19 18:58:21] <alket> life ?
+[2015/12/19 18:58:48] <Karkus> alket: When you die you lose coins. You can die as much as you like.
+[2015/12/19 18:59:06] <Karkus> lifes = lives
+[2015/12/19 18:59:14] <alket> so why are there lives to pick up ?
+[2015/12/19 18:59:20] <Karkus> Huh?
+[2015/12/19 18:59:26] <Karkus> Where?
+[2015/12/19 18:59:37] <alket> like on each level
+[2015/12/19 18:59:47] <Karkus> What do they look like?
+[2015/12/19 18:59:52] <alket> small tux doll
