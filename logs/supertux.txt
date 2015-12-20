@@ -26629,3 +26629,16 @@
 [2015/12/20 12:49:27] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#258: Ice, air and earth Christmas hats - 13http://git.io/vRAYt
 [2015/12/20 12:52:06] @ Hume2 joined channel #supertux
 [2015/12/20 12:53:44] @ tuxdev_ joined channel #supertux
+[2015/12/20 13:01:06] <Hume2> How is it going?
+[2015/12/20 13:02:16] @ Tobbi joined channel #supertux
+[2015/12/20 13:02:16] @ Mode +o Tobbi by ChanServ
+[2015/12/20 13:03:45] <Hume2> Hello, Narre!
+[2015/12/20 13:06:43] <bitlord> ok, looks like release build + custom cxxflags is much smaller ~3.6MB (default build ~10MB)
+[2015/12/20 13:10:53] <Hume2> :D
+[2015/12/20 13:11:22] <Hume2> Narre: Guess what I managed to do.
+[2015/12/20 13:12:12] <mt> bitlord: that's because it doesn't contain debug symbols
+[2015/12/20 13:13:02] <bitlord> yes, but even with debug stuff, it works fine ;-)
+[2015/12/20 13:14:04] @ Mode +vvv Hume2 maths22 Karkus by ChanServ
+[2015/12/20 13:14:17] <mt> only temporary voice
+[2015/12/20 13:14:27] <Hume2> Oh, thanks, Karkus.
+[2015/12/20 13:14:39] <mt> uh that was me
