@@ -27160,3 +27160,65 @@
 [2015/12/20 17:14:50] <Karkus> Tobbi: Of course
 [2015/12/20 17:17:30] @ Quit: leyyin: Ping timeout: 272 seconds
 [2015/12/20 17:33:10] <Tobbi> I wish I still knew the twitter password :D
+[2015/12/20 17:48:23] <tux|dude> Oh my god its released! My inner 7 year old self just shed a tear of joy
+[2015/12/20 17:48:48] <Tobbi> tux|dude: :)
+[2015/12/20 17:49:04] <Tobbi> tux|dude: Though this is mostly a bug fix release in terms of commits.
+[2015/12/20 17:49:17] <head8debian> Tobbi: Alot of new people show up?
+[2015/12/20 17:49:31] <Tobbi> head8debian: where?
+[2015/12/20 17:49:39] <head8debian> Tobbi: In here?
+[2015/12/20 17:49:46] <Tobbi> head8debian: Not really...
+[2015/12/20 17:49:54] <Tobbi> But some people were made ops, though.
+[2015/12/20 17:50:02] <Tobbi> Although you're not one of them :P
+[2015/12/20 17:50:21] <head8debian> Tobbi: I see that...
+[2015/12/20 17:50:46] <tux|dude> I'm so proud of you guys even though that sounds odd.
+[2015/12/20 17:51:04] <head8debian> Good grief, ive been around for 2 years, and you still don't trust me with OPs...
+[2015/12/20 17:51:07] <head8debian> Sad...
+[2015/12/20 17:51:15] <Tobbi> head8debian: It is not my decision...
+[2015/12/20 17:51:22] <Tobbi> head8debian: I talked with giby_the_kid
+[2015/12/20 17:52:26] <Tobbi> And I am talking again...
+[2015/12/20 17:52:38] <Tobbi> It is not my fault.
+[2015/12/20 17:52:39] <Tobbi> really.
+[2015/12/20 17:53:11] <tux|dude> You guys should just be proud that you've done it. After 12 years you've done it! You should be giving yourselves a huge pat on the back
+[2015/12/20 17:53:26] <Tobbi> tux|dude: We could have release MS 2 anytime...
+[2015/12/20 17:53:34] <giby_the_kid> head8debian, it is not that we don't trust in you
+[2015/12/20 17:53:36] <Tobbi> *released
+[2015/12/20 17:54:25] <tux|dude> Well I think it was good that you got milestone 2 done and dusted now though. You guys did a good job
+[2015/12/20 17:54:27] @ Mode +oo head8debian red_bot by ChanServ
+[2015/12/20 17:54:39] <Tobbi> tux|dude: I am extremely glad we got it over with.
+[2015/12/20 17:55:17] <Tobbi> It feels like letting go...
+[2015/12/20 17:55:23] <Tobbi> People can now play it, feel good about it.
+[2015/12/20 17:55:30] <head8debian> +oo?
+[2015/12/20 17:55:33] <Tobbi> And now we can change the protagonist to a brick.
+[2015/12/20 17:55:33] <head8debian> :o
+[2015/12/20 17:55:40] <Tobbi> Wait, no, no brick.
+[2015/12/20 17:56:03] <Tobbi> A dancing something.
+[2015/12/20 17:56:08] <head8debian> heh.
+[2015/12/20 17:56:23] <head8debian> tux|dude: Yes, its good to have it off our backs. ;)
+[2015/12/20 17:56:38] @ You have been kicked from #supertux by head8debian (red_bot)
+[2015/12/20 17:56:41] <red_bot> head8debian: :(
+[2015/12/20 17:56:42] @ Joined channel #supertux
+[2015/12/20 17:56:42] @ Topic is "MILESTONE 2 RELEASED | https://github.com/SuperTux | Stable: 0.4.0 | mailing list: supertux-devel@lists.lethargik.org | Channel log http://sydneyjd.github.io/logs/ | nightly builds http://download.supertuxproject.org/download/"
+[2015/12/20 17:56:42] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-12-20 14:44:19 -0500
+[2015/12/20 17:56:42] @ Mode +o red_bot by ChanServ
+[2015/12/20 17:56:42] @ Mode +nt by asimov.freenode.net
+[2015/12/20 17:56:48] <head8debian> lol.
+[2015/12/20 17:57:01] <tux|dude> Yeah. You guys should be proud of yourselves :)
+[2015/12/20 17:57:05] <head8debian> ~kick head8debian
+[2015/12/20 17:57:05] @ head8debian has been kicked from #supertux by red_bot (requested)
+[2015/12/20 17:57:11] <Tobbi> :)
+[2015/12/20 17:57:17] @ head8debian joined channel #supertux
+[2015/12/20 17:57:17] @ Mode +o head8debian by ChanServ
+[2015/12/20 17:57:25] <head8debian> Tobbi: :-)
+[2015/12/20 17:57:25] <alket> ~kick alkedt
+[2015/12/20 17:57:25] <red_bot> alket, you don't have 'bans::act::kick' permissions here
+[2015/12/20 17:57:29] <alket> ~kick alket
+[2015/12/20 17:57:29] <red_bot> alket, you don't have 'bans::act::kick' permissions here
+[2015/12/20 17:57:48] <head8debian> alket: Only people with red_bot's ops can do that. Currently its only me.
+[2015/12/20 17:58:02] <Tobbi> alket: I really wonder whether this is what the original developers intended MS 2 release to be.
+[2015/12/20 17:58:10] <Tobbi> On the other hand, this has been in beta for 10 years...
+[2015/12/20 17:58:18] <Tobbi> And it was stable most of the time.
+[2015/12/20 17:58:21] <alket> Tobbi: idk but its quite playablen ow
+[2015/12/20 17:58:23] <alket> *now
+[2015/12/20 17:58:32] <alket> the last time i checked, i think 2010 ? it was very bad
+[2015/12/20 17:58:41] <alket> 2007, good, 2010 until today, bad
+[2015/12/20 17:59:12] <alket> I still wonder what downgrade did it have, sine it used to be awesome, then quite bad
