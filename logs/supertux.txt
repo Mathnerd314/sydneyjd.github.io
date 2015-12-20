@@ -25467,3 +25467,4 @@
 [2015/12/19 20:40:18] @ Quit: alket: Quit: Good Night :)
 [2015/12/19 20:42:47] @ Quit: nerdopolis: Ping timeout: 246 seconds
 [2015/12/19 20:43:37] @ nerdopolis joined channel #supertux
+[2015/12/19 21:11:13] @ Quit: bb010g: Quit: Connection closed for inactivity
