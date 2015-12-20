@@ -26642,3 +26642,39 @@
 [2015/12/20 13:14:17] <mt> only temporary voice
 [2015/12/20 13:14:27] <Hume2> Oh, thanks, Karkus.
 [2015/12/20 13:14:39] <mt> uh that was me
+[2015/12/20 13:15:34] <Tobbi> bitlord: So, did you enable xmas stuff in config? :P
+[2015/12/20 13:15:54] <Karkus> mt: haha
+[2015/12/20 13:15:59] <Karkus> mt: Why?
+[2015/12/20 13:16:18] <bitlord> Tobbi, yes I did, not sure what to expect, home screen background, hat, anything else?
+[2015/12/20 13:16:29] <mt> because you're contributing quite a bit (also flexlay)
+[2015/12/20 13:16:49] <Karkus> mt: So not for any purpose, just principle then?
+[2015/12/20 13:17:02] <mt> well you can't do anything with voice
+[2015/12/20 13:17:11] <mt> it just shows that you might now more than a random stranger
+[2015/12/20 13:17:18] <mt> bitlord: christmas music
+[2015/12/20 13:17:21] <Karkus> mt: Ah, okay.
+[2015/12/20 13:17:48] <Tobbi> :D
+[2015/12/20 13:18:03] <Tobbi> If giby would hurry up and give me + whatever it is...
+[2015/12/20 13:19:08] <bitlord> yes, in the menu, I hear it now (/me don't have headphones, just tested it quickly with built-in speaker) (works!)
+[2015/12/20 13:19:20] <brmbrmcar> If you are not polite to giby, he might remove your op status...
+[2015/12/20 13:19:31] <Tobbi> brmbrmcar: Luckily that doesn't apply to you.
+[2015/12/20 13:19:32] <Tobbi> :P
+[2015/12/20 13:20:14] <brmbrmcar>  /mode +f brmbrmcar
+[2015/12/20 13:20:18] <brmbrmcar> Top op
+[2015/12/20 13:20:28] <Tobbi>  /mode +a brmbrmcar
+[2015/12/20 13:20:32] <Tobbi> where a = annoying.
+[2015/12/20 13:20:34] <Tobbi> :P
+[2015/12/20 13:20:34] <mt> +f is forward to another channel
+[2015/12/20 13:20:59] <brmbrmcar> It might be +F, then.
+[2015/12/20 13:23:50] <giby_the_kid> Actually... Who is maths22 ?
+[2015/12/20 13:24:31] <mt> brmbrmcar: +F allows everyone to set +f #supertux in another channel, without being op here
+[2015/12/20 13:25:04] <mt> giby_the_kid: someone who made some contributions to the build system, in order to set up nightly builds using travis ci (see /topic)
+[2015/12/20 13:25:22] <giby_the_kid> Ok :p
+[2015/12/20 13:25:42] <mt> also nightly builds using OBS
+[2015/12/20 13:25:51] <giby_the_kid> and Karkus is someone working on flexley?
+[2015/12/20 13:26:03] <Tobbi> giby_the_kid: Could you please give me all the flags you have on this channel?
+[2015/12/20 13:26:03] <mt> mostly, yes
+[2015/12/20 13:26:20] <Tobbi> I want to op a few people.
+[2015/12/20 13:26:22] <Karkus> giby_the_kid: Yes. At the moment, that's pretty much all I've done.
+[2015/12/20 13:26:24] <Tobbi> active contributors that is.
+[2015/12/20 13:26:32] <mt> all flags = +F*
+[2015/12/20 13:26:36] <Tobbi> Yes.
