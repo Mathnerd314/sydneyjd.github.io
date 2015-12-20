@@ -25910,3 +25910,49 @@
 [2015/12/20 07:44:48] <mt> I guess for the official build yes
 [2015/12/20 07:44:48] <mt> but for homebrew not
 [2015/12/20 07:44:59] <Tobbi> mt: That's the problem: MacOS doesn't seem writable.
+[2015/12/20 07:45:04] <Tobbi> Or rather...
+[2015/12/20 07:45:30] <mt> I think I've found a solution
+[2015/12/20 07:45:51] <Tobbi> Go right ahead and commit it.
+[2015/12/20 07:46:09] <Tobbi> leyyin: No, we've decided to follow Firefox's versioning system.
+[2015/12/20 07:46:18] <Tobbi> After SuperTux 0.4, it's SuperTux 1.0
+[2015/12/20 07:46:21] <Tobbi> And then SuperTUx 2.
+[2015/12/20 07:46:23] <Tobbi> And then...
+[2015/12/20 07:46:25] <Tobbi> well you get the idea.
+[2015/12/20 07:46:33] <leyyin> I do not agree but do as you wish
+[2015/12/20 07:46:37] <mt> Nope I'll test before committing
+[2015/12/20 07:46:37] <Tobbi> :D
+[2015/12/20 07:46:45] <Tobbi> leyyin: I am kidding, obviously.
+[2015/12/20 07:47:07] <Karkus> haha
+[2015/12/20 07:47:19] <leyyin> tbh, I am always hyped about new open source software release
+[2015/12/20 07:47:26] <leyyin> I am weird like that
+[2015/12/20 07:47:55] <Tobbi> leyyin: New SuperTux release every 6 weeks :D
+[2015/12/20 07:48:07] <Karkus> leyyin: http://lists.lethargik.org/pipermail/supertux-devel-lethargik.org/2014-April/003761.html
+[2015/12/20 07:48:07] <leyyin> stable release?
+[2015/12/20 07:48:08] <brmbrmcar> Nice!
+[2015/12/20 07:48:21] <Tobbi> I assume package managers will come over to my house and assassinate me.
+[2015/12/20 07:48:23] <Karkus> I bet this guy plays SuperTUX
+[2015/12/20 07:48:25] <Tobbi> If we did that.
+[2015/12/20 07:48:49] <leyyin> Tobbi, f*** package mangers
+[2015/12/20 07:49:08] <Tobbi> leyyin: I am someone who can only thrive in a harmonic virtual environment.
+[2015/12/20 07:49:18] <leyyin> you won't develop new stuff and release it because of some package mangers
+[2015/12/20 07:49:22] <Tobbi> So, in an ideal world, we would not have any brmbrmcar and stuff like that.
+[2015/12/20 07:49:25] <leyyin> that is plain stupid
+[2015/12/20 07:49:35] <Tobbi> My middle name is plain stupid.
+[2015/12/20 07:50:20] <Tobbi> Tobias "plain stupid" Markus.
+[2015/12/20 07:50:22] <Tobbi> Sounds about right.
+[2015/12/20 07:52:52] <mt> >_>
+[2015/12/20 07:53:00] <mt> homebrew doesn't build with -j $(nproc)
+[2015/12/20 07:53:07] <mt> slooooww
+[2015/12/20 07:53:53] <leyyin> hmm Karkus, nice email, implement that and supertux would be much addicting :D
+[2015/12/20 07:54:10] @ Quit: Karkus: Ping timeout: 260 seconds
+[2015/12/20 07:56:18] <Tobbi> mt: By the way: Should we use "du" or "sie" in the game?
+[2015/12/20 07:56:30] <Tobbi> Wuzzy changed everything to "Sie".
+[2015/12/20 07:56:38] <Tobbi> I personally would prefer "du".
+[2015/12/20 07:56:41] <Tobbi> but, hey...
+[2015/12/20 07:57:03] <mt> Wikipedia has German (Du) and German (Sie) oslt
+[2015/12/20 07:58:18] <leyyin> du hast
+[2015/12/20 07:59:19] <Tobbi> hmm...
+[2015/12/20 07:59:37] <Tobbi> Having two different languages would be weird...
+[2015/12/20 07:59:47] <Tobbi> but hey...SuperTux 0.5
+[2015/12/20 07:59:48] <Tobbi> :P
+[2015/12/20 07:59:58] <Tobbi> mt: Does the fix work?
