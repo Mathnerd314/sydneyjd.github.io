@@ -25745,3 +25745,80 @@
 [2015/12/20 06:59:29] <Tobbi> leyyin: You make that fuzz about wine 1.8...but nothing about SuperTux 0.4
 [2015/12/20 06:59:38] <Tobbi> I hope you guys will at least give us a retweet or something.
 [2015/12/20 06:59:52] <leyyin> I do not play supertux that much :/
+[2015/12/20 07:01:01] <Tobbi> leyyin: Saying this in the #supertux channel calls for capital punishment, you know that... :P
+[2015/12/20 07:01:11] <leyyin> I do not play STK either
+[2015/12/20 07:02:01] <leyyin> who here plays supertux everyday?
+[2015/12/20 07:02:02] <Tobbi> leyyin: You don't? :D
+[2015/12/20 07:02:05] <leyyin> let's be honest
+[2015/12/20 07:02:05] <Tobbi> leyyin: me.
+[2015/12/20 07:02:08] <Tobbi> For debugging purposes.
+[2015/12/20 07:02:37] <leyyin> you commplete levels and such?
+[2015/12/20 07:02:43] <leyyin> or only test something then exit
+[2015/12/20 07:02:48] <leyyin> two different things
+[2015/12/20 07:03:12] <leyyin> playing a game != testing a game
+[2015/12/20 07:04:01] <Karkus> leyyin: Sometimes I will just randomly play levels, yes.
+[2015/12/20 07:04:14] <leyyin> "sometimes"
+[2015/12/20 07:04:28] <Karkus> leyyin: I run the level from Flexlay and then have to complete it :)
+[2015/12/20 07:04:38] <leyyin> that is testing it :P
+[2015/12/20 07:04:45] <Tobbi> leyyin: I complete levels because of OCD.
+[2015/12/20 07:04:51] <leyyin> hahaha
+[2015/12/20 07:04:55] <leyyin> sad :D
+[2015/12/20 07:05:29] <leyyin> I think the problem with most open source games is that they are not addicting
+[2015/12/20 07:05:31] <Tobbi> leyyin: Also, you know, I made a new cover version: Instead of "Shutup and build for me", it now is "Oh, I think I have found myself a build system. She is always right there when I need her"
+[2015/12/20 07:05:48] <Tobbi> And when you now ask why a build system is female...well...
+[2015/12/20 07:05:54] <Tobbi> Complicated things are always female.
+[2015/12/20 07:05:58] <leyyin> we will have a huge fan base if the game were addicting
+[2015/12/20 07:06:55] <Karkus> leyyin: Right. How do you make SuperTux addicting?
+[2015/12/20 07:07:11] <lumidify> Story: the key to making something addicting.
+[2015/12/20 07:07:45] <Tobbi> lumidify: How can the story not be addicting: Poor Penny being abducted makes me wanna SMASH NOLOK'S BEHIND WITH FULL FORCE.
+[2015/12/20 07:07:53] <Tobbi> :D
+[2015/12/20 07:07:54] <Karkus> I think we need better prizes
+[2015/12/20 07:07:59] <leyyin> omg :D
+[2015/12/20 07:08:10] <leyyin> Karkus, that is the right question, I do not have the answer
+[2015/12/20 07:08:17] <Karkus> Oh yay, I found a tux doll -_-
+[2015/12/20 07:08:23] <Tobbi> :D
+[2015/12/20 07:08:35] <lumidify> There could be some shop to get permanent upgrades.
+[2015/12/20 07:08:36] <Tobbi> Karkus: Make the background colours flash randomly when someone found a tux doll...
+[2015/12/20 07:08:47] <Tobbi> Is Mario addicting?
+[2015/12/20 07:08:49] <Karkus> Especially when coins do nothing
+[2015/12/20 07:09:11] <lumidify> I only play SuperTux, now Mario, so I don't know.
+[2015/12/20 07:09:19] <Tobbi> Hmm, okay...
+[2015/12/20 07:09:20] <Karkus> Tobbi: Yes
+[2015/12/20 07:09:21] <lumidify> I meant "not", not "now".
+[2015/12/20 07:09:35] <Tobbi> Karkus: What makes it more addicting? :P
+[2015/12/20 07:09:41] <leyyin> open source games are unicorns
+[2015/12/20 07:09:51] <Karkus> Each level has a unique feature, Tobbi
+[2015/12/20 07:09:56] <Tobbi> That's interesting.
+[2015/12/20 07:10:13] <Karkus> As in, some levels have features which are never reused
+[2015/12/20 07:10:18] <mt> that means more scripting levels?
+[2015/12/20 07:10:20] <Karkus> Keeps it interesting
+[2015/12/20 07:10:29] <leyyin> http://store.steampowered.com/app/380840/
+[2015/12/20 07:10:32] <Tobbi> mt: Yes, more scripting levels and features.
+[2015/12/20 07:10:48] <Karkus> mt: I really loved playing light+magic
+[2015/12/20 07:11:00] <leyyin> "956 all-time peak"
+[2015/12/20 07:11:05] <Karkus> That wasn't scripted, and could be reused
+[2015/12/20 07:11:08] <mt> then what's some of these features?
+[2015/12/20 07:11:21] <mt> we need some inspiration!
+[2015/12/20 07:11:35] @ Quit: brmbrmcar: Ping timeout: 260 seconds
+[2015/12/20 07:11:36] <leyyin> I consider teeworlds addicting :)
+[2015/12/20 07:11:54] <Karkus> mt: Watch a playthrough of mario.
+[2015/12/20 07:12:02] <Karkus> Any recent mario
+[2015/12/20 07:12:17] <Karkus> Not fully, just skip through
+[2015/12/20 07:12:19] <Tobbi> We can have this discussion at the meeting next year...
+[2015/12/20 07:12:20] <Tobbi> :P
+[2015/12/20 07:12:27] <Karkus> Each level has a 'topic'
+[2015/12/20 07:12:27] <Tobbi> Really, right now: Concentrate on release.
+[2015/12/20 07:12:30] <leyyin> the problem with copying is that you will be just a mario copy, you must bring something new
+[2015/12/20 07:13:00] <leyyin> Tobbi, release note for 0.4?
+[2015/12/20 07:13:07] <Karkus> leyyin: We are a mario copy
+[2015/12/20 07:13:16] <Tobbi> leyyin: I have been thinking about sound blocks..where you need to complete a melody...
+[2015/12/20 07:13:16] <mt> leyyin: look at NEWS.md
+[2015/12/20 07:13:18] <Tobbi> or something else.
+[2015/12/20 07:13:35] <mt> the changelog is already there
+[2015/12/20 07:14:16] <Karkus> Tobbi: After 0.4.0 we can make the scripting amazing and well documented.
+[2015/12/20 07:14:21] <leyyin> "updated build system, featuring unit tests, libraries as git submodules and improved Travis-CI builds to support nightly builds"
+[2015/12/20 07:14:23] <Tobbi> Hopefully.
+[2015/12/20 07:14:27] <leyyin> how is that relevant
+[2015/12/20 07:14:27] @ brmbrmcar joined channel #supertux
+[2015/12/20 07:14:28] <leyyin> ?
+[2015/12/20 07:14:57] <mt> unit tests might be interesting for packagers
