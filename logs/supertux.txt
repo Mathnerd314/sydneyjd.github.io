@@ -25568,3 +25568,32 @@
 [2015/12/20 04:29:33] <mt> the number of commits since the v0.3.5 tag
 [2015/12/20 04:29:44] <Hume2> That's clever.
 [2015/12/20 04:29:45] <Tobbi> mt: Why did the build fail with -DWERROR=ON?
+[2015/12/20 04:30:24] <Tobbi> You mentioned something like that...
+[2015/12/20 04:30:31] <Not-e81f> [02supertux] 07maxteufel pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEJQF
+[2015/12/20 04:30:33] <Not-e81f> [02supertux] 07Max Teufel 0341eb450 - data/credits: duplicate name
+[2015/12/20 04:31:06] <Tobbi> mt: Also, I am not really sure whether those two aren't different people.
+[2015/12/20 04:31:18] <Tobbi> But okay.
+[2015/12/20 04:31:20] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97939265
+[2015/12/20 04:31:59] <mt> https://github.com/SuperTux/supertux/pull/82 https://github.com/SuperTux/supertux/pull/63
+[2015/12/20 04:32:11] <mt> probably just different emails in git
+[2015/12/20 04:33:13] <Tobbi> Ah, okay.
+[2015/12/20 04:33:14] <Tobbi> good!
+[2015/12/20 04:33:45] <mt> now let me check that -DWERROR=ON error
+[2015/12/20 04:34:16] <mt> iirc it was tinygettext related
+[2015/12/20 04:34:50] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/148
+[2015/12/20 04:35:33] <Tobbi> I hope maths22 is ready for today...to build with release configuration.
+[2015/12/20 04:35:34] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97939251
+[2015/12/20 04:35:41] <Tobbi> Otherwise we'll have to do this manually...
+[2015/12/20 04:35:43] <Tobbi> Or wait...
+[2015/12/20 04:35:48] <Tobbi> did he say something regarding that?
+[2015/12/20 04:37:13] <mt> https://gist.github.com/maxteufel/8f9ec4ce626fbc180eaa
+[2015/12/20 04:38:01] <mt> well the nightlies are -DCMAKE_BUILD_TYPE=Release
+[2015/12/20 04:38:12] <mt> so we could just take the builds of that tag
+[2015/12/20 04:38:19] <Tobbi> Oh, they are. Good.
+[2015/12/20 04:39:11] <Tobbi> That's an interesting warning.
+[2015/12/20 04:39:18] <Tobbi> In fact, I've never seen that before.
+[2015/12/20 04:40:06] <mt> however, the nighly builds don't exist in a win64 version
+[2015/12/20 04:40:26] <mt> for 0.3.5 we provided one
+[2015/12/20 04:41:27] <mt> 0.3.5a I mean
+[2015/12/20 04:42:40] @ Quit: Hume2: Quit: Page closed
+[2015/12/20 04:44:54] @ Quit: tux|dude: Quit: Leaving
