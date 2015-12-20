@@ -27070,3 +27070,44 @@
 [2015/12/20 16:28:54] <leyyin> why are you getting the exceptions?
 [2015/12/20 16:29:30] <Tobbi> And why is the banana bent?
 [2015/12/20 16:29:48] <Tobbi> eeh curved
+[2015/12/20 16:30:02] <Karkus> leyyin: IOErrors, no such file. SExprParseErrors, just normal Exceptions. I a Directory something or other error too
+[2015/12/20 16:30:19] <Karkus> s/I a/I got a/
+[2015/12/20 16:30:19] <red_bot> Karkus meant: "leyyin: IOErrors, no such file. SExprParseErrors, just normal Exceptions. I got a Directory something or other error too"
+[2015/12/20 16:30:34] <Karkus> So I decided to except everything
+[2015/12/20 16:30:51] <Karkus> leyyin: I intended to remove it - https://github.com/SuperTux/flexlay/issues/53
+[2015/12/20 16:30:55] <leyyin> and if you get an error you tell the user you got an error?
+[2015/12/20 16:31:24] <Karkus> leyyin: It's when "recent files" are being loaded.
+[2015/12/20 16:31:44] <Karkus> Some might have been deleted, so it just runs through till it find one it can use.
+[2015/12/20 16:32:11] <leyyin> I see that you removed forked from :D
+[2015/12/20 16:32:24] <Tobbi> leyyin: Github support did.
+[2015/12/20 16:32:34] <leyyin> by your request
+[2015/12/20 16:32:37] <Karkus> Yeah, I doubt grumbel would want the changes :D
+[2015/12/20 16:32:37] <Tobbi> oh, yes.
+[2015/12/20 16:33:14] <Karkus> leyyin: Also I deleted 30,000 lines of his code :D
+[2015/12/20 16:33:16] <leyyin> Karkus, well what errors are reasonable for recent files?
+[2015/12/20 16:33:30] <Karkus> leyyin: Who knows?
+[2015/12/20 16:33:38] <leyyin> ignoring errors there seems fine to me
+[2015/12/20 16:33:44] <Karkus> leyyin: Realistically, only a few
+[2015/12/20 16:33:49] <Karkus> But in theory...
+[2015/12/20 16:33:58] <Karkus> leyyin: I guess you're right/
+[2015/12/20 16:34:07] <Not-e81f> [02flexlay] 07Karkus476 closed issue 03#53: Remove "except:" - 13http://git.io/vEvJM
+[2015/12/20 16:34:23] <leyyin> Karkus, people will come to find you, because their recent files list does not work properly ;)
+[2015/12/20 16:34:41] <Karkus> leyyin: If anyone uses the editor
+[2015/12/20 16:34:59] <Karkus> leyyin: I will make other issues about it.
+[2015/12/20 16:35:07] <Karkus> There are still problems :P
+[2015/12/20 16:35:33] @ tux|dude joined channel #supertux
+[2015/12/20 16:36:49] <Karkus> leyyin: Thanks anyway :D
+[2015/12/20 16:37:38] <Tobbi> I think people will come and find me :P
+[2015/12/20 16:39:00] <Not-e81f> [02flexlay] 07leyyin starred 03flexlay - 13http://git.io/vIwY1
+[2015/12/20 16:39:14] <Karkus> leyyin: :D
+[2015/12/20 16:39:33] <Karkus> leyyin: Oh wait, you ignored the bot... nevermind
+[2015/12/20 16:39:39] <leyyin> yup
+[2015/12/20 16:39:42] <leyyin> but I figured
+[2015/12/20 16:39:56] <Karkus> Tobbi: And you can blame me
+[2015/12/20 16:40:03] <Karkus> Tobbi: and I can blame grumbel
+[2015/12/20 16:40:13] <Tobbi> Oh, yeah, I guess every cloud...
+[2015/12/20 16:42:21] <Not-e81f> [02flexlay] 07tobbi starred 03flexlay - 13http://git.io/u2OcuQ
+[2015/12/20 16:42:25] <Tobbi> bwahaha.
+[2015/12/20 16:42:27] <Tobbi> I never did that.
+[2015/12/20 16:44:13] <Karkus> 3 stars, I am so proud
+[2015/12/20 16:44:29] <Karkus> Okay, 2 stars, I don't count :P
