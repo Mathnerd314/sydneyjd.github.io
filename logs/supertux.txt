@@ -25415,3 +25415,15 @@
 [2015/12/19 18:59:37] <alket> like on each level
 [2015/12/19 18:59:47] <Karkus> What do they look like?
 [2015/12/19 18:59:52] <alket> small tux doll
+[2015/12/19 19:00:01] <Karkus> That gives you 100 coins
+[2015/12/19 19:01:53] <alket> tna
+[2015/12/19 19:01:55] <alket> thanks
+[2015/12/19 19:01:58] <alket> its a bit missleading
+[2015/12/19 19:02:09] <Karkus> It should say it on the first level.
+[2015/12/19 19:02:12] <Karkus> Did you play it?
+[2015/12/19 19:02:22] <alket> yes it does, but I only read them when im stuck :p
+[2015/12/19 19:02:49] <Karkus> alket: Right. Maybe we should add a sign. Not now, though.
+[2015/12/19 19:07:47] <Not-e81f> [02flexlay] 07Karkus476 pushed 031 commit to 03develop [+1/-0/±8] 13http://git.io/vEfrR
+[2015/12/19 19:07:48] <Not-e81f> [02flexlay] 07Karkus 038b97cc0 - Adds SuperTuxArguments object to handle command-line args.
+[2015/12/19 19:08:50] @ tux|dude joined channel #supertux
+[2015/12/19 19:14:06] <alket> nice secret are :) https://lut.im/LVbDJQh6K0/XFwRYPjkDdjR1Dof.png
