@@ -26382,3 +26382,54 @@
 [2015/12/20 10:43:39] <bitlord> Sun Dec 20 16:39:50 CET 2015
 [2015/12/20 10:43:57] <bitlord> no I just started it from build directory  as ./supertux2
 [2015/12/20 10:44:09] <mt> can you quit and start it again?
+[2015/12/20 10:46:06] <bitlord> yes
+[2015/12/20 10:46:13] <mt> does it work now?
+[2015/12/20 10:46:37] @ habi joined channel #supertux
+[2015/12/20 10:46:43] <habi> hi
+[2015/12/20 10:46:59] <Tobbi> Hey, habi
+[2015/12/20 10:47:00] <bitlord> no, same as before, in options christmas mode is not checked
+[2015/12/20 10:47:07] <Tobbi> bitlord: Hmm, then check it.
+[2015/12/20 10:47:08] <habi> congrats for the 4.0 release
+[2015/12/20 10:47:09] <Tobbi> ;)
+[2015/12/20 10:47:14] <Tobbi> habi: Thank you.
+[2015/12/20 10:47:20] <Tobbi> It's still quite intense.
+[2015/12/20 10:48:04] <habi> i'm compiling it :)
+[2015/12/20 10:48:25] <Tobbi> Pray, and hope for the best.
+[2015/12/20 10:48:55] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/154
+[2015/12/20 10:49:03] <bitlord> when I manually check it, it does work http://i.imgur.com/SuWCaW8.png
+[2015/12/20 10:49:27] <mt> are you using a debug build?
+[2015/12/20 10:50:23] <alket> Supertux 0.4.0 is available in KaOS repos now https://github.com/KaOS-Community-Packages/supertux :)
+[2015/12/20 10:50:43] <bitlord> me? I guess not, just regular  cmake .., and make, then I execute it from build directory
+[2015/12/20 10:51:29] <maths22> bitlord: Then it is a Debug build
+[2015/12/20 10:51:33] @ Quit: Karkus: Ping timeout: 246 seconds
+[2015/12/20 10:51:33] <bitlord> also when you play a story mode, backflip trick is hard understand in some way, shows arrows but on keyboard jump is a spacebar?
+[2015/12/20 10:51:48] @ Quit: ced117: Ping timeout: 272 seconds
+[2015/12/20 10:51:55] @ lumidify1 joined channel #supertux
+[2015/12/20 10:52:01] <maths22> to get a release, you need "cmake -DCMAKE_BUILD_TYPE=RELEASE .."
+[2015/12/20 10:52:16] @ Quit: lumidify: Ping timeout: 265 seconds
+[2015/12/20 10:52:19] <Tobbi> Hrm.
+[2015/12/20 10:53:15] <Tobbi> mt: It still tells me I am not allowed to set flags when I try it in ChanServ
+[2015/12/20 10:53:25] <mt> what command do you try?
+[2015/12/20 10:54:01] <Tobbi> mt: flags #supertux mt +O in ChanServ
+[2015/12/20 10:54:52] <mt> so /msg ChanServ flags #supertux mt +O
+[2015/12/20 10:54:54] <mt> ?
+[2015/12/20 10:55:11] <Tobbi> mt: yup.
+[2015/12/20 10:55:15] <mt> hm
+[2015/12/20 10:55:19] <mt> strange
+[2015/12/20 10:55:43] <tomreyn> isnt that lower case o ?
+[2015/12/20 10:55:51] <Tobbi> I tried with both.
+[2015/12/20 10:56:00] <Tobbi> Do I need to log out and log in again?
+[2015/12/20 10:56:41] <bitlord> I didn't play this in a long time, but it was one of the first games I played when I got my gnu/linux setup in ~2005, so I don't remember much about it and is all of those features new, I guess some of them are to me, maybe not part of 0.4 release ;-)
+[2015/12/20 10:57:19] <mt> there's a changelog you can read if you want to know what changed
+[2015/12/20 10:57:23] <Tobbi> giby_the_kid: Can you please grant me +F?
+[2015/12/20 10:57:29] <bitlord> about +o/+O  one is autoop, other is for user to be able to manually op ;-)
+[2015/12/20 10:57:30] <Tobbi> Instead of only lowercase +f?
+[2015/12/20 10:57:37] <Tobbi> I see..
+[2015/12/20 10:57:38] <mt> so basically +*
+[2015/12/20 10:57:39] <Tobbi> I can|t set either.
+[2015/12/20 10:57:42] <Tobbi> yes.
+[2015/12/20 10:58:51] <bitlord> mt, thanks, but no, I'm too busy playing the game right now! :) (it is awesome, I love these "simple" games, games which you play to have fun)
+[2015/12/20 10:59:14] @ Quit: lumidify1: Quit: Leaving
+[2015/12/20 10:59:52] <tomreyn> +* does not include F, you'd need +*F
+[2015/12/20 10:59:53] @ lumidify joined channel #supertux
+[2015/12/20 11:00:00] <Tobbi> Great.
