@@ -27265,3 +27265,35 @@
 [2015/12/20 18:14:32] <leyyin_> alket, nice beard https://github.com/alketii
 [2015/12/20 18:14:49] <alket> thanks
 [2015/12/20 18:14:58] <alket> Tobbi: yeah ofc
+[2015/12/20 18:15:06] <Tobbi> :)
+[2015/12/20 18:15:10] <alket> Tobbi: I just wished you used TMX for maps
+[2015/12/20 18:15:14] <alket> that would have been much easier
+[2015/12/20 18:15:24] <Tobbi> alket: I have considered it.
+[2015/12/20 18:15:26] <Tobbi> Honestly.
+[2015/12/20 18:15:27] <leyyin_> hmm you are the only member of opendungeons and member of godotengine
+[2015/12/20 18:16:12] <alket> leyyin_: also megaglest, kobuge and kaos :p
+[2015/12/20 18:16:30] <alket> ah, i am the only member who made his membership public :p
+[2015/12/20 18:16:45] <leyyin_> ah, that makes sense
+[2015/12/20 18:18:05] <Tobbi> I can understand that it's quite a shame to work for these projects.
+[2015/12/20 18:18:13] <Tobbi> not like SuperTux where you get tons of praise.
+[2015/12/20 18:18:29] <Tobbi> And people ask you "Wow, you work on SuperTux? You must be like the greatest programmer ever!"
+[2015/12/20 18:18:42] <Tobbi> :D
+[2015/12/20 18:19:38] <Tobbi> Happens to me all the time.
+[2015/12/20 18:19:52] <alket> leyyin_: btw thats not me :p in pic
+[2015/12/20 18:20:07] <leyyin_> I believe that is you
+[2015/12/20 18:20:34] <alket> Tobbi: I never get it also, im just into those projects that I have the most free time and I provide support xD not a real contributions
+[2015/12/20 18:20:50] @ Quit: tuxdev_: Ping timeout: 272 seconds
+[2015/12/20 18:20:57] <Tobbi> hmm...
+[2015/12/20 18:22:31] <alket> except kobuge where I do real work
+[2015/12/20 18:23:31] <datahead7777> Does Super Tux Milestone 2 get released today or tomorrow?
+[2015/12/20 18:23:39] <Tobbi> datahead7777: It was released today.
+[2015/12/20 18:23:42] <alket> it got released
+[2015/12/20 18:23:48] <datahead7777> Okay
+[2015/12/20 18:23:55] <head8debian> datahead7777: So, its officially out. :)
+[2015/12/20 18:24:48] <datahead7777> I see you have already updated the website for the download page.
+[2015/12/20 18:24:52] <datahead7777> Congratulations!
+[2015/12/20 18:28:02] <Tobbi> datahead7777: It feels so good getting this out after so many years.
+[2015/12/20 18:28:11] <Tobbi> Especially because that means we can start fresh.
+[2015/12/20 18:28:12] <Tobbi> Or something.
+[2015/12/20 18:29:35] <datahead7777> What do you mean by start fresh?
+[2015/12/20 18:29:45] <datahead7777> It's definitely good - I think Milestone 1 was in 2006 or before
