@@ -26117,3 +26117,47 @@
 [2015/12/20 09:29:27] <mt> for the release announcement, just take the one from github
 [2015/12/20 09:29:35] <mt> https://github.com/SuperTux/supertux/releases/tag/untagged-6a993bba4aabd905fb29
 [2015/12/20 09:29:52] <Tobbi> Oh, yes, sure.
+[2015/12/20 09:30:23] <mt> for the non-tarball builds let's just wait for maths22
+[2015/12/20 09:30:28] <head8debian> Tobbi: Yep.
+[2015/12/20 09:30:29] <mt> we can add them after release
+[2015/12/20 09:30:41] <head8debian> Oh.
+[2015/12/20 09:30:42] <Tobbi> yes
+[2015/12/20 09:32:05] <head8debian> I made my own release announcement, oh well, it can be thrown out.
+[2015/12/20 09:32:43] <Tobbi> head8debian: What have you got?
+[2015/12/20 09:32:45] <Tobbi> pastebin.
+[2015/12/20 09:32:52] <Tobbi> You may want to merge them.
+[2015/12/20 09:35:39] <head8debian> Tobbi: mt's is much better. :)
+[2015/12/20 09:35:43] <Tobbi> Okay.
+[2015/12/20 09:36:19] <brmbrmcar> I can't get to it.
+[2015/12/20 09:36:33] <mt> it's only visible to organization members
+[2015/12/20 09:36:43] <head8debian> Tobbi: Im trying to get the download page to build. :p
+[2015/12/20 09:36:50] <Tobbi> ok.
+[2015/12/20 09:36:53] <mt> brmbrmcar: an older version is available at https://gist.github.com/maxteufel/d4a12ba9dabfcd0a3bc0
+[2015/12/20 09:37:10] <mt> head8debian: you need to use `make`
+[2015/12/20 09:37:12] <mt> just `make`
+[2015/12/20 09:37:20] <mt> you also need xsltproc installed
+[2015/12/20 09:37:35] <mt> check that the build submodule is activated
+[2015/12/20 09:38:52] <head8debian> mt: I know.
+[2015/12/20 09:39:04] <head8debian> mt: Bu this xml is somewhat diferent than normal html.
+[2015/12/20 09:39:13] <mt> I already posted this: "btw, should I change the URL in the homebrew formula to supertuxproject.org?"
+[2015/12/20 09:39:27] <mt> head8debian: what's your problem?
+[2015/12/20 09:40:33] <head8debian>  mt download.xml:37: parser error : Opening and ending tag mismatch: div line 15 and section
+[2015/12/20 09:40:37] <head8debian>     </section>
+[2015/12/20 09:40:38] <head8debian>               ^
+[2015/12/20 09:40:50] <Tobbi> mt: Yes, please do.
+[2015/12/20 09:40:55] <mt> you missed to close </ something >
+[2015/12/20 09:41:01] <mt> head8debian: ^
+[2015/12/20 09:41:03] <Tobbi> re. changing the url formula krams.
+[2015/12/20 09:41:53] <head8debian> hmm...
+[2015/12/20 09:41:55] <mt> yeah, I understood
+[2015/12/20 09:42:33] <Tobbi> mt: So, the tag will be "v0.4", is that correct?
+[2015/12/20 09:42:47] <mt> v0.4.0
+[2015/12/20 09:42:57] <Tobbi> Okay.
+[2015/12/20 09:43:05] <Tobbi> I thought you mentioned something about 0.4 yesterday.
+[2015/12/20 09:43:06] <Tobbi> But nvm
+[2015/12/20 09:43:12] <mt> right now it's also SemVer 2.0.0 not SemVer 2
+[2015/12/20 09:43:14] <mt> http://semver.org/
+[2015/12/20 09:43:30] <mt> however, the *branch* will be release/0.4
+[2015/12/20 09:43:50] <mt> since it will contain the entire 0.4.z release series
+[2015/12/20 09:44:24] <Tobbi> ok.
+[2015/12/20 09:44:53] * head8debian headbangs...
