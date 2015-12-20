@@ -27111,3 +27111,12 @@
 [2015/12/20 16:42:27] <Tobbi> I never did that.
 [2015/12/20 16:44:13] <Karkus> 3 stars, I am so proud
 [2015/12/20 16:44:29] <Karkus> Okay, 2 stars, I don't count :P
+[2015/12/20 16:53:05] <Tobbi> :D
+[2015/12/20 16:53:10] <Tobbi> Karkus: neither do I, don't I?
+[2015/12/20 16:53:36] <Karkus> Tobbi: Shhhhh
+[2015/12/20 16:54:01] <Karkus> Tobbi: You count as a half star
+[2015/12/20 16:54:18] <Karkus> Tobbi: You might be a teeny tiny bit biased towards my work :D
+[2015/12/20 16:54:22] <Tobbi> :D
+[2015/12/20 16:58:29] <Tobbi> Karkus: Hmm, not sure.
+[2015/12/20 16:59:18] <Karkus> I guess it must then.
+[2015/12/20 16:59:40] <Karkus> It would be "/msg @#supertux hello, ops" right?
