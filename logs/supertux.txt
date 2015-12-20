@@ -26488,3 +26488,40 @@
 [2015/12/20 11:28:33] @ lumidify joined channel #supertux
 [2015/12/20 11:29:37] <Tobbi> I ticked off the "create packages" step.
 [2015/12/20 11:29:51] @ Karkus joined channel #supertux
+[2015/12/20 11:30:20] <head8debian> Tobbi: No ops from giby yet?  o_O
+[2015/12/20 11:30:27] <Tobbi> Can anyone fix that? I'd rather take a break.
+[2015/12/20 11:30:34] <Tobbi> head8debian: It still won't work.
+[2015/12/20 11:30:51] <Tobbi> I'm not allowed to set...whatever...
+[2015/12/20 11:31:06] <head8debian> Tobbi: Ok,ok.
+[2015/12/20 11:31:49] <Tobbi> mt: Would you be able to fix the christmas stuff? Or can anyone else?
+[2015/12/20 11:31:50] <head8debian> Don't stress out over christmas mode too much...
+[2015/12/20 11:31:55] <Tobbi> head8debian: I don't.
+[2015/12/20 11:31:58] <Tobbi> It's too late anyway.
+[2015/12/20 11:33:22] <Tobbi> head8debian: also, people can still enable it in the options.
+[2015/12/20 11:33:57] * bitlord killed by a pirat snowball :D
+[2015/12/20 11:36:14] <head8debian> bitlord: :D
+[2015/12/20 11:36:49] <head8debian> Tobbi: Ok... Where are the ma$ and windo$s builds?
+[2015/12/20 11:36:50] <head8debian> ;)
+[2015/12/20 11:37:03] <head8debian> ma$ = $$$ = mac. :D
+[2015/12/20 11:37:12] <Tobbi> head8debian: On the github releases page.
+[2015/12/20 11:37:27] <head8debian> Tobbi: But you haven't updated our website...
+[2015/12/20 11:37:42] <Tobbi> head8debian: I did.
+[2015/12/20 11:38:04] <bitlord> I love this, same as with stk, my gamepad just works! ;-) (who said that gnu/linux is hard, and newer works)
+[2015/12/20 11:38:06] <head8debian> Tobbi: Oh, now you did...
+[2015/12/20 11:38:16] <head8debian> *facepalm*...
+[2015/12/20 11:38:26] <head8debian> bitlord: Cool!
+[2015/12/20 11:38:46] <head8debian> Tobbi: I must have removed our twitter post accedentally.
+[2015/12/20 11:39:06] <Tobbi> head8debian: It still shows up for me.
+[2015/12/20 11:39:33] <head8debian> I don't see it.
+[2015/12/20 11:40:38] <head8debian> Oh well.
+[2015/12/20 11:41:15] <head8debian> Tobbi: Our download links don't work, i will fix that.
+[2015/12/20 11:41:24] <Tobbi> ok.
+[2015/12/20 11:42:05] @ Quit: leyyin: Ping timeout: 240 seconds
+[2015/12/20 11:42:26] <head8debian> Tobbi: universay .dmg binary?
+[2015/12/20 11:42:50] <Tobbi> head8debian: yes.
+[2015/12/20 11:43:14] <head8debian> Tobbi: Ok. Are you tired? ;)
+[2015/12/20 11:43:23] <Tobbi> head8debian: A little bit yes.
+[2015/12/20 11:44:41] <Tobbi> head8debian: But finally we have this out of the door...
+[2015/12/20 11:44:41] <Karkus> Tobbi: Well, you did it! :D
+[2015/12/20 11:44:51] <Tobbi> Karkus: Eventually, and with some caveeats.
+[2015/12/20 11:44:52] <head8debian> :D:D:D
