@@ -25978,3 +25978,6 @@
 [2015/12/20 08:10:22] <Tobbi> mt: Can you fix it? Can maths22?
 [2015/12/20 08:10:31] <mt> I'm trying to
 [2015/12/20 08:13:42] <mt> let's hope it's fixed now
+[2015/12/20 08:17:43] @ Karkus joined channel #supertux
+[2015/12/20 08:28:07] <mt> I think it should work now
+[2015/12/20 08:28:13] <mt> let me test it one last time
