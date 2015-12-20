@@ -25981,3 +25981,15 @@
 [2015/12/20 08:17:43] @ Karkus joined channel #supertux
 [2015/12/20 08:28:07] <mt> I think it should work now
 [2015/12/20 08:28:13] <mt> let me test it one last time
+[2015/12/20 08:34:28] <Not-e81f> [02supertux] 07s8321414 starred 03supertux - 13http://git.io/vEUPi
+[2015/12/20 08:40:04] <mt> It seems to work now :D
+[2015/12/20 08:43:18] <Tobbi> mt: Commit, please.
+[2015/12/20 08:43:23] <mt> So I hope I don't break any of the other build system parts
+[2015/12/20 08:43:34] <Not-e81f> [02supertux] 07maxteufel pushed 032 commits to 03master [+0/-0/±3] 13http://git.io/vEU1K
+[2015/12/20 08:43:35] <Not-e81f> [02supertux] 07Max Teufel 0374baa60 - makedist: leftover from previous version of the script
+[2015/12/20 08:43:37] <Not-e81f> [02supertux] 07Max Teufel 0366b5699 - build: make it possible to build an .app bundle, the old way
+[2015/12/20 08:43:39] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97960519
+[2015/12/20 08:43:40] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/151
+[2015/12/20 08:44:30] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97960519
+[2015/12/20 08:44:38] <mt> I wonder if installing test_supertux2 is possible
+[2015/12/20 08:44:46] <mt> but that can wait for the next release
