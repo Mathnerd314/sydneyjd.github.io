@@ -26525,3 +26525,63 @@
 [2015/12/20 11:44:41] <Karkus> Tobbi: Well, you did it! :D
 [2015/12/20 11:44:51] <Tobbi> Karkus: Eventually, and with some caveeats.
 [2015/12/20 11:44:52] <head8debian> :D:D:D
+[2015/12/20 11:45:09] <Tobbi> Karkus: Such as christmas mode needing to be activated manually.
+[2015/12/20 11:45:09] <Karkus> Tobbi: Can you edit a tweet?
+[2015/12/20 11:45:13] <Tobbi> Karkus: let me try.
+[2015/12/20 11:45:39] <Karkus> Tobbi: I reckon you should send them to supertuxproject.org/download.html
+[2015/12/20 11:45:46] <Tobbi> oh...
+[2015/12/20 11:45:59] <Not-e81f> [02htdocs] 07sydneyjd pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vET4o
+[2015/12/20 11:46:00] <Not-e81f> [02htdocs] 07Sydney Dykstra 036c5b4c6 - Fix broken links on website
+[2015/12/20 11:46:11] <Karkus> It says what's MacOSX, Windows etc.
+[2015/12/20 11:46:25] @ Quit: brmbrmcar: Ping timeout: 240 seconds
+[2015/12/20 11:46:32] <Tobbi> Karkus: Ah, no, I can't edit.
+[2015/12/20 11:46:41] <Tobbi> a shame. Shall I tweet again?
+[2015/12/20 11:46:52] <Karkus> No
+[2015/12/20 11:46:56] <Karkus> It's fine.
+[2015/12/20 11:46:59] <Tobbi> ok.
+[2015/12/20 11:47:15] @ brmbrmcar joined channel #supertux
+[2015/12/20 11:47:25] <Karkus> Shall I edit the release instead to detail which download is for which OS?
+[2015/12/20 11:47:33] <Tobbi> Karkus: Yeah, that will work.
+[2015/12/20 11:47:59] <Tobbi> Karkus: Also, say that if they are in need for some christmas mood, they should enable Christmas mode in the settings.
+[2015/12/20 11:48:04] <Tobbi> It should be there then.
+[2015/12/20 11:48:06] <Karkus> Actually you can't...
+[2015/12/20 11:48:16] <Tobbi> You can't edit that either?
+[2015/12/20 11:48:33] <Karkus> Yes, but not the downloads. Try it yourself, you'll see
+[2015/12/20 11:49:16] <Tobbi> Karkus: edit what about the downloads? The file name?
+[2015/12/20 11:50:04] <Karkus> Idk? Is it obvious to a Mac user that ...Darwin.dmg is what they need?
+[2015/12/20 11:50:16] <bitlord> and looks like xscreensaver doesn't detect gamepad as input (lol)
+[2015/12/20 11:50:17] <Tobbi> Looks like this for me: Karkus: http://screencast.com/t/Qq3VSViMWd2
+[2015/12/20 11:50:48] <Karkus> Tobbi: Yup
+[2015/12/20 11:50:59] <Karkus> You can't say which is which
+[2015/12/20 11:51:27] <Tobbi> Ah.
+[2015/12/20 11:51:36] <Tobbi> Karkus: But you can change the name, right?
+[2015/12/20 11:51:58] @ Quit: brmbrmcar: Ping timeout: 256 seconds
+[2015/12/20 11:52:06] <Karkus> Tobbi: I don't want to mess up the link... How does github know what to download?
+[2015/12/20 11:52:18] <Tobbi> Karkus: Hmm, I'll try.
+[2015/12/20 11:52:39] <Tobbi> SuperTux-0.4.0-Darwin.dmg
+[2015/12/20 11:52:41] <Tobbi> backup.
+[2015/12/20 11:52:42] <Tobbi> :P
+[2015/12/20 11:53:21] <Tobbi> Karkus: Works fine for me.
+[2015/12/20 11:53:26] <head8debian> Tobbi: I have to force push to supertux.github.io? o_O
+[2015/12/20 11:53:32] <Tobbi> Karkus: Just edit the name and it'll rename the stuff.
+[2015/12/20 11:53:38] <Tobbi> head8debian: why? Can't you rebase?
+[2015/12/20 11:53:40] <Karkus> head8debian: No
+[2015/12/20 11:54:07] <head8debian> Tobbi: Ok, im up to date, then i copy the new file over...
+[2015/12/20 11:54:07] <Karkus> Tobbi: So, Supertux-0.4.0-MacOS.dmg
+[2015/12/20 11:54:16] <Tobbi> Karkus: Yeah, or something to that effect.
+[2015/12/20 11:54:17] @ leyyin joined channel #supertux
+[2015/12/20 11:54:35] <Tobbi> head8debian: You don't need to copy. It generates the stuff in a submodule, doesn't it?
+[2015/12/20 11:54:52] <Tobbi> head8debian: cd build/ && git fetch origin && git rebase origin/master
+[2015/12/20 11:54:56] <head8debian> Tobbi: I copy the download.html that it generated?
+[2015/12/20 11:55:06] <Tobbi> head8debian: Where is it generated? What directory?
+[2015/12/20 11:55:19] <head8debian> htdocs/build.
+[2015/12/20 11:55:26] <Tobbi> head8debian: Okay, that is a submodule. Isn't it?
+[2015/12/20 11:55:32] <head8debian> I think so.
+[2015/12/20 11:55:35] <Tobbi> When you cd into that directory and run git log, what does it say?
+[2015/12/20 11:56:20] <Tobbi> or actually git remote -v
+[2015/12/20 11:56:22] <head8debian> Tobbi: How about you do it. Ive updated htdocs. :D
+[2015/12/20 11:56:26] <Tobbi> okay.
+[2015/12/20 11:58:17] <bitlord> so you bundle squirrel in your release?
+[2015/12/20 11:58:32] <bitlord> is it possible to use system version maybe?
+[2015/12/20 11:59:25] <head8debian> bitlord: IIRC that causes compatability issues.
+[2015/12/20 11:59:26] <Tobbi> head8debian: At some point, did you force-push?
