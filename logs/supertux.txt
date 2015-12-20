@@ -26433,3 +26433,23 @@
 [2015/12/20 10:59:52] <tomreyn> +* does not include F, you'd need +*F
 [2015/12/20 10:59:53] @ lumidify joined channel #supertux
 [2015/12/20 11:00:00] <Tobbi> Great.
+[2015/12/20 11:00:05] <bitlord> is there a "limit" temporary for "jump+down"? you do it few times and then it doesn't work? (or there is something messy with the input?)
+[2015/12/20 11:00:18] <mt> tomreyn: ikr, but +Ff = +*F
+[2015/12/20 11:00:21] <Tobbi> Maybe something messy with the input.
+[2015/12/20 11:03:05] <tomreyn> bitlord: this doesn'T happen here, unless you bounce against a map's outer edge
+[2015/12/20 11:03:56] <Not-e81f> [02supertux] 07onpon4 commented on issue 03#253: Integrate sprites from reTux - 13http://git.io/vETOp
+[2015/12/20 11:04:55] <maths22> OS X uploaded, windows already there
+[2015/12/20 11:05:04] @ ced117 joined channel #supertux
+[2015/12/20 11:05:06] <mt> nice
+[2015/12/20 11:05:11] <Tobbi> ok...
+[2015/12/20 11:05:13] <mt> can you build a win64 version as well?
+[2015/12/20 11:05:29] <maths22> mt: That will take a bit-I need to update the dependencies zip for 64 bit
+[2015/12/20 11:05:43] @ Quit: habi: Ping timeout: 252 seconds
+[2015/12/20 11:06:12] <bitlord> tomreyn, don't know, it is weird here, few different scenarios happen
+[2015/12/20 11:06:24] <Not-e81f> [02supertux] 07tobbi commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vET3r
+[2015/12/20 11:06:57] <Not-e81f> [02supertux] 07tobbi commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vET3X
+[2015/12/20 11:10:15] <mt> wow... one of my PRs on another project got merged. after 9 months
+[2015/12/20 11:10:30] <Tobbi> heh
+[2015/12/20 11:10:40] <mt> 7 changed files with 58 additions and 10 deletions
+[2015/12/20 11:12:19] @ Karkus joined channel #supertux
+[2015/12/20 11:12:19] <Not-e81f> [02supertux] 07marc280492 commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vETGs
