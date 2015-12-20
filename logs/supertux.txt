@@ -26678,3 +26678,39 @@
 [2015/12/20 13:26:24] <Tobbi> active contributors that is.
 [2015/12/20 13:26:32] <mt> all flags = +F*
 [2015/12/20 13:26:36] <Tobbi> Yes.
+[2015/12/20 13:31:52] <Tobbi> giby_the_kid: ...
+[2015/12/20 13:32:13] @ giby_the_kid is now known as ultimategiby
+[2015/12/20 13:32:22] <ultimategiby> yes?
+[2015/12/20 13:33:28] <Tobbi> ultimategiby: Can you please give me +F* on this channel.
+[2015/12/20 13:33:45] <ultimategiby> why?
+[2015/12/20 13:33:58] <Tobbi> ultimategiby: As I repeated before: I want to op a few people.
+[2015/12/20 13:34:04] <Tobbi> Active contributors.
+[2015/12/20 13:35:47] <brmbrmcar>  /msg chanserv #supertux +F*
+[2015/12/20 13:36:13] <alket> that isn't the right cmd
+[2015/12/20 13:37:11] <brmbrmcar> mt: What was that?
+[2015/12/20 13:37:37] <mt> /notice brmbrmcar [#supertux] You need to specify a target.
+[2015/12/20 13:38:03] <brmbrmcar> I k-now.
+[2015/12/20 13:38:04] <mt> in referenced to the command that misses a target
+[2015/12/20 13:38:13] <brmbrmcar> Oh.
+[2015/12/20 13:38:15] <mt> s/ed/e/
+[2015/12/20 13:38:15] <red_bot> mt meant: "in reference to the command that misses a target"
+[2015/12/20 13:38:22] * Karkus coughs
+[2015/12/20 13:39:14] <Tobbi> Karkus: What?
+[2015/12/20 13:40:08] <Karkus> Tobbi: brmbrmcar is being brmbrmcar
+[2015/12/20 13:40:13] <Tobbi> :D
+[2015/12/20 13:41:08] @ Tobbi has been kicked from #supertux by ultimategiby (Tobbi)
+[2015/12/20 13:41:18] <brmbrmcar> :DDDDDDDDDDDDDD
+[2015/12/20 13:41:31] @ Tobbi joined channel #supertux
+[2015/12/20 13:41:31] @ Mode +o Tobbi by ChanServ
+[2015/12/20 13:41:39] <Tobbi> ultimategiby: Why did you kick me.
+[2015/12/20 13:41:41] <Tobbi> ?
+[2015/12/20 13:41:51] <ultimategiby> you know why :p
+[2015/12/20 13:42:20] <Tobbi> ultimategiby: I said "Assuming my client acts up".
+[2015/12/20 13:42:23] <Tobbi> This was no sign of that.
+[2015/12/20 13:42:34] <ultimategiby> My father called me come back latter
+[2015/12/20 13:42:53] <Tobbi> *sigh*
+[2015/12/20 13:43:08] <mt> ultimategiby: think about giving Tobbi +F* then >_>
+[2015/12/20 13:43:13] <brmbrmcar> That'll be why.
+[2015/12/20 13:44:45] @ Karkus left channel #supertux ("Leaving")
+[2015/12/20 13:44:51] @ Karkus joined channel #supertux
+[2015/12/20 13:44:51] @ Mode +v Karkus by ChanServ
