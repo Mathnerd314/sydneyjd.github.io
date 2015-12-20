@@ -26248,3 +26248,72 @@
 [2015/12/20 10:13:00] <alket> is  the license GPL v3 or GPL v3+ ?
 [2015/12/20 10:13:56] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/152
 [2015/12/20 10:14:24] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97967176
+[2015/12/20 10:15:05] @ bitlord joined channel #supertux
+[2015/12/20 10:15:09] <bitlord> hi!
+[2015/12/20 10:15:13] @ tomreyn joined channel #supertux
+[2015/12/20 10:15:24] <tomreyn> nice one ;) https://scan.coverity.com/projects/supertux-supertux
+[2015/12/20 10:15:50] <bitlord> do you see anything wrong here https://paste.lugons.org/raw/GZKoo25AsNNADuD675dN/  maybe I missed some dependency from install.md?
+[2015/12/20 10:15:51] <Tobbi> tomreyn: Do you mean the "failed" status or the 0 issues status?
+[2015/12/20 10:16:08] <Tobbi> maths22: mt ^^
+[2015/12/20 10:16:16] <mt> bitlord: git submodule update --init
+[2015/12/20 10:16:16] <tomreyn> 0 issues. where does it say "failed"?
+[2015/12/20 10:16:33] <Tobbi> tomreyn: Ah, good that it doesn't.
+[2015/12/20 10:16:35] <Tobbi> :P
+[2015/12/20 10:16:39] <mt> oh huh it's not git
+[2015/12/20 10:16:52] <Tobbi> tomreyn: We worked really hard to get this there.
+[2015/12/20 10:16:53] <bitlord> yes, it is from release tarball
+[2015/12/20 10:17:10] <tomreyn> Tobbi: you must have :)
+[2015/12/20 10:17:20] <tomreyn> i dont know any other project with 0
+[2015/12/20 10:17:20] <mt> bitlord: is there a version.cmake?
+[2015/12/20 10:17:30] <tomreyn> I assume this warning is very known? src/supertux/sector.cpp:585 [levels/misc/menu_final.stl] Tried spawning Tux in solid matter. Compensating.
+[2015/12/20 10:17:31] <mt> bitlord: oh did you download the github archive?
+[2015/12/20 10:17:41] <mt> the github source archives don't work
+[2015/12/20 10:17:43] <Tobbi> tomreyn: Some are blacklisted...
+[2015/12/20 10:17:43] <head8debian> tomreyn: Yes.
+[2015/12/20 10:17:50] <bitlord> mt, yes github release archive
+[2015/12/20 10:17:52] <mt> you need to download our release tarball
+[2015/12/20 10:17:53] <Tobbi> tomreyn: I mean: We marked some as ignore...
+[2015/12/20 10:18:15] <tomreyn> Tobbi: well that's fine, after all some reposrts are useless
+[2015/12/20 10:18:21] <head8debian> Are we goign to have a 32 bit only linux tar?
+[2015/12/20 10:18:21] <Tobbi> Indeed.
+[2015/12/20 10:18:29] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97967089
+[2015/12/20 10:18:35] <head8debian> .package*
+[2015/12/20 10:18:46] <mt> the tar.bz2 is a source package
+[2015/12/20 10:18:51] <mt> it doesn't contain any binary
+[2015/12/20 10:19:17] <mt> we never provided any linux binaries
+[2015/12/20 10:19:22] <leyyin> a lot of OP herec
+[2015/12/20 10:19:24] <mt> might change with the nightly builds
+[2015/12/20 10:19:26] <leyyin> congrats everyone :D
+[2015/12/20 10:20:10] <swift110-phone> Hooray
+[2015/12/20 10:20:23] <Tobbi> leyyin: Thanks.
+[2015/12/20 10:20:43] <bitlord> is it possible to make github tarballs work? :S
+[2015/12/20 10:20:59] <Tobbi> It needs the submodules.
+[2015/12/20 10:21:29] <Tobbi> wait, is that the issue?
+[2015/12/20 10:21:57] <Tobbi> giby_the_kid: Can you give the people proper ops, please?
+[2015/12/20 10:23:07] <Not-e81f> [02supertux] 07sydneyjd edited page 03Downloads - 13http://git.io/jubo
+[2015/12/20 10:23:18] <head8debian> If we get the filenames right...
+[2015/12/20 10:23:43] <Tobbi> head8debian: Change the label of the first windows build.
+[2015/12/20 10:23:46] <Tobbi> Still says 0.3.5a
+[2015/12/20 10:23:59] <Not-e81f> [02supertux] 07sydneyjd edited page 03Downloads - 13http://git.io/jubo
+[2015/12/20 10:24:03] <head8debian> :D
+[2015/12/20 10:25:14] <head8debian> Tobbi: Im going to push to htdocs for you to review, ok?
+[2015/12/20 10:25:20] <Tobbi> So, the builds are ready, aren't they?
+[2015/12/20 10:25:23] <Tobbi> head8debian: yes, go ahead.
+[2015/12/20 10:26:33] <bitlord> this one should work as a source tarball for building st from source? https://github.com/SuperTux/supertux/releases/download/v0.4.0/supertux-0.4.0.tar.bz2
+[2015/12/20 10:26:39] <Not-e81f> [02htdocs] 07sydneyjd pushed 031 commit to 03master [+1/-0/±3] 13http://git.io/vETUr
+[2015/12/20 10:26:40] <Not-e81f> [02htdocs] 07Sydney Dykstra 035d56517 - Update website to 4.0.0
+[2015/12/20 10:27:04] <head8debian> Tobbi: ^^
+[2015/12/20 10:27:07] <head8debian> bitlord: Yes.
+[2015/12/20 10:27:26] <bitlord> ok, thanks head8debian  (downloading (slow internet takes ~10min to download at least))
+[2015/12/20 10:27:33] <head8debian> bitlord: Same here. :)
+[2015/12/20 10:27:42] <head8debian> Tobbi: Yay... my name is everywhere... :p
+[2015/12/20 10:27:48] <Tobbi> :D
+[2015/12/20 10:28:29] <Tobbi> head8debian: *SuperTux in one of the files.
+[2015/12/20 10:28:38] <Tobbi> Other than that, I will take a look at the final.
+[2015/12/20 10:28:43] <Tobbi> ...version of it.
+[2015/12/20 10:28:51] <head8debian> Tobbi: What?
+[2015/12/20 10:28:57] <brmbrmcar> 4.0.0?
+[2015/12/20 10:29:11] <Tobbi> head8debian: https://github.com/SuperTux/htdocs/compare/a606bb5af7ca...5d56517cbd9e#diff-57bc687529d78c08fa90501a9acb7dddR9
+[2015/12/20 10:29:13] <alket> squirrel is not in source tarball :S
+[2015/12/20 10:29:22] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97967176
+[2015/12/20 10:29:53] <alket> despite the docs sayin so
