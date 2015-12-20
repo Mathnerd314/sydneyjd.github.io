@@ -26749,3 +26749,24 @@
 [2015/12/20 13:58:26] <brmbrmcar> No, it should be updated!
 [2015/12/20 13:58:31] <brmbrmcar> Yep.
 [2015/12/20 13:58:40] <brmbrmcar> I like toprove things...
+[2015/12/20 14:01:10] <mt> oh yay the homebrew checks passed now
+[2015/12/20 14:03:14] <Not-e81f> [02supertux] 07brmbrmcar opened pull request 03#271: Change last updated time on README.md - 13http://git.io/vETjy
+[2015/12/20 14:03:16] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97995788
+[2015/12/20 14:03:18] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/155
+[2015/12/20 14:03:29] <brmbrmcar> Ah.
+[2015/12/20 14:03:37] <brmbrmcar> I'm in trouble...
+[2015/12/20 14:03:58] <Tobbi> brmbrmcar: Tell me something which isn't new?
+[2015/12/20 14:04:13] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97995788
+[2015/12/20 14:04:44] <mt> no need to merge that
+[2015/12/20 14:04:53] <brmbrmcar> Why?
+[2015/12/20 14:05:02] <brmbrmcar> Hmm...
+[2015/12/20 14:05:10] <mt> I'll fix that and change some of the formatting and then commit that
+[2015/12/20 14:05:16] <brmbrmcar> The Earth is round?
+[2015/12/20 14:05:17] <mt> but also don't close the PR please
+[2015/12/20 14:07:50] @ Quit: lumidify: Quit: Leaving
+[2015/12/20 14:09:12] <Not-e81f> [02supertux] 07maxteufel pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEkvI
+[2015/12/20 14:09:14] <Not-e81f> [02supertux] 07Max Teufel 031bfd74f - README: serveral fixes
+[2015/12/20 14:09:15] <Not-e81f> [02supertux] 07maxteufel closed pull request 03#271: Change last updated time on README.md - 13http://git.io/vETjy
+[2015/12/20 14:09:17] <Not-e81f> [02supertux] 04Error. AppVeyor build cancelled - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/155
+[2015/12/20 14:12:23] @ Mode +o mt by ChanServ
+[2015/12/20 14:13:19] <mt> oh thanks
