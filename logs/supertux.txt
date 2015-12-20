@@ -25502,3 +25502,7 @@
 [2015/12/20 03:25:52] @ Quit: giby: Read error: Connection reset by peer
 [2015/12/20 03:25:56] @ giby_the_kid joined channel #supertux
 [2015/12/20 03:25:57] @ Mode +o giby_the_kid by ChanServ
+[2015/12/20 03:31:37] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#269: WIP Level Editor - 13http://git.io/vEJiN
+[2015/12/20 03:32:56] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#269: WIP Level Editor - 13http://git.io/vEJPT
+[2015/12/20 03:35:57] <Hume2> It looks like checkboxes don't work in pull-requests.
+[2015/12/20 03:43:07] <tux|dude> When is the release then?
