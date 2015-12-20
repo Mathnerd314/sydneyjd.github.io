@@ -25492,3 +25492,13 @@
 [2015/12/20 03:06:34] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97934490
 [2015/12/20 03:10:06] <Hume2> Someone is torturing Travis CI...
 [2015/12/20 03:14:32] <mt> torturing...? I just fixed the --version/version on main screen issue
+[2015/12/20 03:16:17] <Hume2> :D
+[2015/12/20 03:17:01] <mt> I even added a unit test to ensure it doesn't happen again without making the build fail lol
+[2015/12/20 03:18:03] <tux|dude> lol
+[2015/12/20 03:19:21] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97934490
+[2015/12/20 03:19:50] <tux|dude> Yay
+[2015/12/20 03:23:27] <Not-e81f> [02supertux] 07Sektorka starred 03supertux - 13http://git.io/vEJ69
+[2015/12/20 03:24:02] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/146
+[2015/12/20 03:25:52] @ Quit: giby: Read error: Connection reset by peer
+[2015/12/20 03:25:56] @ giby_the_kid joined channel #supertux
+[2015/12/20 03:25:57] @ Mode +o giby_the_kid by ChanServ
