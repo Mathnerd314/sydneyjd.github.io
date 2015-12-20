@@ -25484,3 +25484,11 @@
 [2015/12/20 02:48:44] <tux|dude> Welp
 [2015/12/20 02:49:02] <mt> I think I fixed at least the --version problem
 [2015/12/20 02:51:51] <mt> should I add a unit test for the --version problem?
+[2015/12/20 03:05:37] <Not-e81f> [02supertux] 07maxteufel pushed 031 commit to 03master [+1/-0/±1] 13http://git.io/vEJoa
+[2015/12/20 03:05:38] <Not-e81f> [02supertux] 07Max Teufel 033dc79f9 - Fix PACKAGE_VERSION being empty, add unit test case for that issue
+[2015/12/20 03:05:40] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97934490
+[2015/12/20 03:05:41] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/146
+[2015/12/20 03:06:10] @ Hume2 joined channel #supertux
+[2015/12/20 03:06:34] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97934490
+[2015/12/20 03:10:06] <Hume2> Someone is torturing Travis CI...
+[2015/12/20 03:14:32] <mt> torturing...? I just fixed the --version/version on main screen issue
