@@ -25674,3 +25674,54 @@
 [2015/12/20 06:26:44] @ leyyin joined channel #supertux
 [2015/12/20 06:29:22] <Tobbi> mt: Is there a good way to add a new line in commits without needing to --amend them? new line in -m flag, I mean?
 [2015/12/20 06:29:59] <Tobbi> hey leyyin. You'll be in the SuperTux credits as well :P
+[2015/12/20 06:30:11] <mt> well git commit without --amend will make a new *commit*
+[2015/12/20 06:30:21] <leyyin> why?
+[2015/12/20 06:30:39] <Tobbi> leyyin: You contributed code.
+[2015/12/20 06:30:44] <alket> good morning devs
+[2015/12/20 06:30:57] <Tobbi> mt: If I want to make a multi-line commit message, how would I do that?
+[2015/12/20 06:31:02] <mt> git commit
+[2015/12/20 06:31:03] <Tobbi> I am --amending it currently.
+[2015/12/20 06:31:04] <mt> no -m
+[2015/12/20 06:31:09] <mt> it will open an editor
+[2015/12/20 06:31:09] <Tobbi> Oh, yes :D
+[2015/12/20 06:31:11] <Tobbi> haha.
+[2015/12/20 06:31:16] <leyyin> Tobbi, you know nothing :D
+[2015/12/20 06:31:17] <Tobbi> Okay, I feel stupid now.
+[2015/12/20 06:31:26] <mt> you could as well do git commit --amend -m '...'
+[2015/12/20 06:31:29] <Tobbi> leyyin: My workflow is just different.
+[2015/12/20 06:31:53] <alket> Tobbi: a new bug, if a "?" box is near a breakable wooden box, when you jump to break it, the flower in next box falls down, you have to be in middle of 2 boxes https://lut.im/cb35gdoqgZ/JKDciOKCo7iU8Ixy.png
+[2015/12/20 06:32:08] <alket> this also works for coin boxes etc
+[2015/12/20 06:32:24] <mt> Tobbi: do we want to remove that reference to Milestone 3 and replace it with "soon" oslt in credits?
+[2015/12/20 06:32:37] <brmbrmcar> Where's the bug, alket?
+[2015/12/20 06:32:45] <brmbrmcar> That is normal!
+[2015/12/20 06:32:59] <alket> brmbrmcar: how come ?
+[2015/12/20 06:33:17] <alket> if you jump and hold down the key in "?" it doesn't work, only when you are half in "?" box and half in wooden box
+[2015/12/20 06:33:38] <mt> what happens when you jump on the "?" while pressing down?
+[2015/12/20 06:33:44] <Tobbi> mt: I think it's okay the way it is ;)
+[2015/12/20 06:33:54] <alket> mt: nothing
+[2015/12/20 06:34:05] <mt> what level is that?
+[2015/12/20 06:34:09] <alket> every level
+[2015/12/20 06:34:32] <brmbrmcar> I don't really understand what is wronghere...
+[2015/12/20 06:34:32] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEUGE
+[2015/12/20 06:34:34] <Not-e81f> [02supertux] 07Tobias Markus 034e1fb6e - Update credits for sound
+[2015/12/20 06:34:36] <mt> can you just give me a level with that configuration
+[2015/12/20 06:35:11] <mt> brmbrmcar: well it should also happen if you only jump down on the "?" block
+[2015/12/20 06:35:20] <Tobbi> leyyin: You're credited for "Code quality fixes"
+[2015/12/20 06:35:47] <brmbrmcar> mt:What???
+[2015/12/20 06:36:01] <brmbrmcar> It should onlybe for butt jumop!
+[2015/12/20 06:36:52] <mt> yes that's what I mean
+[2015/12/20 06:37:18] <mt> alket: I can't reproduce that
+[2015/12/20 06:37:29] <alket> mt: please wait until i find that level hehe
+[2015/12/20 06:37:38] <mt> with supertux2 v0.3.5-617-g58d097c
+[2015/12/20 06:37:47] <mt> I tried with the first level in world1
+[2015/12/20 06:37:48] <Tobbi> mt: We could actually have a self-ironic statement in the credits. Something like "Penny awaits you very soon. Yes, really."
+[2015/12/20 06:37:49] <Tobbi> :P
+[2015/12/20 06:38:01] <brmbrmcar> Nah.
+[2015/12/20 06:38:12] <brmbrmcar> Too long.
+[2015/12/20 06:38:27] <brmbrmcar> But, your chlice.
+[2015/12/20 06:38:40] <Tobbi> Okay, maybe not.
+[2015/12/20 06:38:48] <Tobbi> So, according to my schedule, the release is in 3 hours.
+[2015/12/20 06:39:08] <mt> I hope maths22 will show up before that
+[2015/12/20 06:39:35] <alket> mt: strangely it works now, but it didn't yesterday, im sure of it
+[2015/12/20 06:40:16] <Tobbi> Schroedinbug.
+[2015/12/20 06:42:01] <Tobbi> This buildsystem is his destiny. He said "Shut up and build for me".
