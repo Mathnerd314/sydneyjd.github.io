@@ -26205,3 +26205,46 @@
 [2015/12/20 09:57:58] <Tobbi> :D
 [2015/12/20 09:58:32] <Not-e81f> [02supertux] 07tobbi commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vEUhS
 [2015/12/20 09:59:38] <Not-e81f> [02supertux] 07tobbi commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vEUhx
+[2015/12/20 10:01:10] <mt> Arch Linux notified
+[2015/12/20 10:02:11] <mt> I'm uploading the v0.4.0 tar.bz2
+[2015/12/20 10:02:40] <brmbrmcar> 1
+[2015/12/20 10:03:36] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97967089
+[2015/12/20 10:03:41] <mt> I think actually we'll be able to use the nightlybuilder packages
+[2015/12/20 10:04:09] @ Quit: brmbrmcar: Quit: back ina sec
+[2015/12/20 10:04:47] @ alket joined channel #supertux
+[2015/12/20 10:05:01] <alket> hi all
+[2015/12/20 10:05:15] * alket starts the release party
+[2015/12/20 10:05:45] <Tobbi> :D
+[2015/12/20 10:05:59] <alket> First song from DJ Alket https://www.youtube.com/watch?v=Hg_gZRRLHSc
+[2015/12/20 10:06:00] <maths22> mt: How was the bz2 generated?
+[2015/12/20 10:06:15] <mt> using ./makedist.sh
+[2015/12/20 10:06:21] <Tobbi> maths22: Great you're here :) Just in time.
+[2015/12/20 10:06:22] <mt> I updated it this morning
+[2015/12/20 10:06:57] <head8debian> :
+[2015/12/20 10:06:57] <head8debian> D
+[2015/12/20 10:07:01] <mt> it builds fine from the tarball, I already verified this pre-release
+[2015/12/20 10:07:15] <mt> The tarball should be online now
+[2015/12/20 10:07:23] <maths22> mt: Does the tarball include the .git file?
+[2015/12/20 10:07:46] <alket> is it released ? can I start packing it for KaOS ?
+[2015/12/20 10:07:48] <maths22> Never mind-I see what it does
+[2015/12/20 10:08:04] <alket> ah yes it did :)
+[2015/12/20 10:08:09] <alket> congrats
+[2015/12/20 10:08:27] <head8debian> Will the downloads get placed here? https://github.com/SuperTux/supertux/releases/download/v0.4.0/
+[2015/12/20 10:08:43] <alket> its too late
+[2015/12/20 10:08:46] <alket> you can't change the release
+[2015/12/20 10:08:53] @ Narre joined channel #supertux
+[2015/12/20 10:09:07] @ brmbrmcar joined channel #supertux
+[2015/12/20 10:09:09] <mt> head8debian: dunno, they're at least on https://github.com/SuperTux/supertux/releases/tag/v0.4.0
+[2015/12/20 10:09:11] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97967070
+[2015/12/20 10:09:28] <mt> and no, it doesn't include the .git dir
+[2015/12/20 10:09:47] <head8debian> mt: Ah!
+[2015/12/20 10:10:11] <mt> maths22: can you upload the os x and windows build?
+[2015/12/20 10:10:24] <head8debian> mt: Hmm, how am i supposed to use that?
+[2015/12/20 10:10:27] * head8debian headbangs...
+[2015/12/20 10:10:46] <mt> it's a tar.bz2 with the source
+[2015/12/20 10:10:58] <head8debian> YEs.
+[2015/12/20 10:12:39] <brmbrmcar> Where are these things?
+[2015/12/20 10:12:46] <Tobbi> tell me when the windows build is done.
+[2015/12/20 10:13:00] <alket> is  the license GPL v3 or GPL v3+ ?
+[2015/12/20 10:13:56] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/152
+[2015/12/20 10:14:24] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97967176
