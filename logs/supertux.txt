@@ -25822,3 +25822,54 @@
 [2015/12/20 07:14:27] @ brmbrmcar joined channel #supertux
 [2015/12/20 07:14:28] <leyyin> ?
 [2015/12/20 07:14:57] <mt> unit tests might be interesting for packagers
+[2015/12/20 07:15:16] <mt> nightly builds might be interesting for users interested in development progress
+[2015/12/20 07:15:25] <Tobbi> Karkus: I am really at a point where this is all getting over my head...
+[2015/12/20 07:15:29] <Tobbi> I don't know why...
+[2015/12/20 07:15:50] <Karkus> Tobbi: You have to wait 1 day
+[2015/12/20 07:16:06] <Tobbi> Maybe it'll be all over tomorrow.
+[2015/12/20 07:16:07] <Tobbi> Who knows.
+[2015/12/20 07:16:08] <leyyin> yes mt but how is that affecting a new release
+[2015/12/20 07:16:22] <leyyin> you have nightly builds, has nothing to do with 0.4 release
+[2015/12/20 07:16:24] <Karkus> Tobbi: leyyin can be project lead then.
+[2015/12/20 07:16:27] <Karkus> :D
+[2015/12/20 07:16:30] * leyyin runs
+[2015/12/20 07:16:46] <Karkus> leyyin: It doesn't hurt that much
+[2015/12/20 07:16:47] <Tobbi> Karkus: oh no... SuperTux will long for the days he steps down.
+[2015/12/20 07:16:53] <Tobbi> Karkus: You cannot tell :D
+[2015/12/20 07:17:07] <Tobbi> My whole body is aching.
+[2015/12/20 07:17:18] <Karkus> Tobbi: I can assure you leyyin would not be project lead
+[2015/12/20 07:17:38] <leyyin> I am not only a dictator
+[2015/12/20 07:17:41] <Tobbi> Whenever someone on Transifex emails me (especially today) I feel like I'm surrounded by fire.
+[2015/12/20 07:17:42] <Tobbi> :D
+[2015/12/20 07:17:42] <Karkus> He doesn't even like SuperTux that much do you, leyyin?
+[2015/12/20 07:17:54] <leyyin> I like it, not love it
+[2015/12/20 07:18:16] <Tobbi> It's hard to love something like SuperTux when you have OCD.
+[2015/12/20 07:18:17] <Tobbi> :D
+[2015/12/20 07:19:39] <leyyin> Karkus, cute project
+[2015/12/20 07:19:55] <leyyin> Karkus, should be project lead, young, fresh meat, quit good ;)
+[2015/12/20 07:20:45] <Karkus> leyyin: Young, as in, I don't understand how any of this stuff works
+[2015/12/20 07:20:55] @ Quit: alket: Ping timeout: 260 seconds
+[2015/12/20 07:20:56] <Tobbi> haha
+[2015/12/20 07:20:56] <Karkus> What is SuperTux again?
+[2015/12/20 07:21:11] <Tobbi> Karkus: Only I have the right to say that :D
+[2015/12/20 07:21:25] <Tobbi> I don't know anything about SuperTux :D
+[2015/12/20 07:21:50] <Karkus> Tobbi: Maybe, but you know a lot more than me about developing SuperTux :P
+[2015/12/20 07:22:00] <Tobbi> Karkus: Only when I am not in denial.
+[2015/12/20 07:22:10] <Tobbi> Which I currently am. Call it a pressure battling tactic.
+[2015/12/20 07:22:28] <Karkus> Tobbi: Is maths22 going to be building for us then?
+[2015/12/20 07:22:39] <Tobbi> Karkus: iirc, it builds automatically, doesn't it?
+[2015/12/20 07:22:47] <Tobbi> I still hope he shows up, though.
+[2015/12/20 07:22:59] <Karkus> Tobbi: That's what I mean
+[2015/12/20 07:23:08] <mt> It does but then the version number includes the git tags etc
+[2015/12/20 07:23:12] <mt> but
+[2015/12/20 07:23:29] <mt> you can build from the source tarball with a modified version.cmake
+[2015/12/20 07:23:51] <Tobbi> I could, yes.
+[2015/12/20 07:23:51] <mt> that allows you to set "v0.4.0" as only version string
+[2015/12/20 07:25:26] @ Quit: brmbrmcar: Ping timeout: 260 seconds
+[2015/12/20 07:25:26] <mt> we can also just build the tarball (I can do that) and wait until maths22 shows up for building OS X and Windows binaries
+[2015/12/20 07:25:42] <Tobbi> Yeah, might work.
+[2015/12/20 07:25:59] <mt> however, I probably need some patches for homebrew
+[2015/12/20 07:26:11] <mt> Since simply building an .app bundle is broken right now
+[2015/12/20 07:27:24] <mt> for some reason I'd like these patches to be committed before tagging v0.4.0
+[2015/12/20 07:29:24] <Tobbi> mt: Go right ahead and submit them.
+[2015/12/20 07:29:44] <mt> I don't have these patches
