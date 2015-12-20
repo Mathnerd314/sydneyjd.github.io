@@ -25619,3 +25619,14 @@
 [2015/12/20 05:11:15] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/20 05:13:48] <mt> I think I fixed makedist.sh
 [2015/12/20 05:13:49] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/150
+[2015/12/20 05:18:09] @ brmbrmcar joined channel #supertux
+[2015/12/20 05:19:16] <brmbrmcar> "Stable: 0.4.0" not yet...
+[2015/12/20 05:19:35] <Not-e81f> [02supertux] 07maxteufel pushed 034 commits to 03master [+0/-0/±4] 13http://git.io/vEJhm
+[2015/12/20 05:19:36] <Not-e81f> [02supertux] 07Max Teufel 037a7a7bd - makedist: use git describe to get version
+[2015/12/20 05:19:37] <Not-e81f> [02supertux] 07Max Teufel 03c2eaf80 - makedist: LICENSE => LICENSE.txt
+[2015/12/20 05:19:39] <Not-e81f> [02supertux] 07Max Teufel 03f528a46 - makedist: include version.h-related files
+[2015/12/20 05:19:40] <Not-e81f> [02supertux] 07Max Teufel 03d298469 - makedist: include tests/ to allow building tests
+[2015/12/20 05:22:47] @ claymore2 joined channel #supertux
+[2015/12/20 05:24:33] @ lumidify joined channel #supertux
+[2015/12/20 05:27:38] <mt> please don't touch the version numbers in Doxyfile and tools/innosetup/supertux.iss for now
+[2015/12/20 05:27:58] <mt> we'll need them later to have a tagged commit which isn't [ci skip]
