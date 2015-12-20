@@ -25534,3 +25534,17 @@
 [2015/12/20 03:58:46] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/148
 [2015/12/20 03:58:48] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/147
 [2015/12/20 03:59:38] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97938094
+[2015/12/20 04:00:03] <mt> don't forget to add unit tests for the editor
+[2015/12/20 04:00:27] <mt> question: will it support editing worldmaps as well?
+[2015/12/20 04:01:07] <Hume2> mt: I'm not sure.
+[2015/12/20 04:01:41] <mt> because if it doesn't we'll need two editors again
+[2015/12/20 04:07:14] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97938108
+[2015/12/20 04:11:36] <Hume2> mt: I'll try to make a level editor first and the ability of editing worldmaps could be added in the future.
+[2015/12/20 04:11:48] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/97938094
+[2015/12/20 04:13:52] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03editor [+0/-0/±1] 13http://git.io/vEJ9R
+[2015/12/20 04:13:54] <Not-e81f> [02supertux] 07Hume2 031b303f2 - Fixed werror 3
+[2015/12/20 04:13:55] <Not-e81f> [02supertux] 07Hume2 synchronize pull request 03#269: WIP Level Editor - 13http://git.io/vEe13
+[2015/12/20 04:13:57] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97939251
+[2015/12/20 04:13:58] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/97939265
+[2015/12/20 04:14:00] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/149
+[2015/12/20 04:14:02] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/150
