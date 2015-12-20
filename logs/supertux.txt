@@ -26004,3 +26004,56 @@
 [2015/12/20 08:59:33] <Tobbi> mt: Do you have anything for him to do?
 [2015/12/20 08:59:43] <head8debian> :-)
 [2015/12/20 08:59:46] <mt> I don't think so
+[2015/12/20 09:00:05] <Tobbi> Okay.
+[2015/12/20 09:00:15] <Tobbi> head8debian: I'd say we're good to go.
+[2015/12/20 09:00:42] <mt> yep we seem to be ready
+[2015/12/20 09:00:52] <mt> after all the last-minute-changes
+[2015/12/20 09:01:40] <head8debian> :D
+[2015/12/20 09:02:08] <Tobbi> Except...the dmg doesn't open.
+[2015/12/20 09:02:10] <Tobbi> Let me find the log.
+[2015/12/20 09:02:20] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/151
+[2015/12/20 09:02:37] <mt> Tobbi: does the previous dmg work?
+[2015/12/20 09:02:41] <Tobbi> I'll try.
+[2015/12/20 09:02:46] <mt> if it doesn't -> not my fault
+[2015/12/20 09:03:36] <head8debian> Im making sure it builds ATM...
+[2015/12/20 09:03:48] <head8debian> Tobbi: Website need to be updated?
+[2015/12/20 09:04:01] <Tobbi> head8debian: Oh, yes.
+[2015/12/20 09:04:13] <head8debian> I can do that, if i remember how... :D
+[2015/12/20 09:04:35] <Tobbi> Man, what's wrong now?
+[2015/12/20 09:04:42] <Tobbi> Sometimes I hate my mac.
+[2015/12/20 09:05:26] <mt> It does work on my Mac
+[2015/12/20 09:05:29] <head8debian> She works! :D
+[2015/12/20 09:05:42] <mt> both the latest (622) and the previous (611) build
+[2015/12/20 09:05:50] <Tobbi> One moment.
+[2015/12/20 09:05:59] <Tobbi> everything is slow now.
+[2015/12/20 09:05:59] <mt> you need to Agree to the license
+[2015/12/20 09:06:04] <head8debian> Ok, how long does it take for htdocs to update  the main website?
+[2015/12/20 09:06:56] <Tobbi> head8debian: What have you done by now? It should write to a submodule that you need to push as well.
+[2015/12/20 09:07:09] <head8debian> Tobbi: Nothing.
+[2015/12/20 09:07:11] <mt> head8debian: you update htdocs, generate the website, push that to SuperTux.github.io
+[2015/12/20 09:07:13] <Tobbi> ok.
+[2015/12/20 09:07:18] <mt> and then it'll appear
+[2015/12/20 09:07:33] <Tobbi> head8debian: So, the generated/ directory is a submodule.
+[2015/12/20 09:07:40] <Tobbi> So you commit the submodule contents, and push them.
+[2015/12/20 09:07:50] <mt> btw, should I change the URL in the homebrew formula to supertuxproject.org?
+[2015/12/20 09:07:51] <head8debian> And how is it generated?
+[2015/12/20 09:08:01] <mt> use `make`
+[2015/12/20 09:08:06] <head8debian> I think ive done this before, but i cannot remember.
+[2015/12/20 09:08:41] <Tobbi> okay, should be better now.
+[2015/12/20 09:08:43] <Tobbi> one moment.
+[2015/12/20 09:09:26] <head8debian> Ah, i see now.
+[2015/12/20 09:11:23] <Tobbi> mt: It works, the license window is just not in the front.
+[2015/12/20 09:11:31] <Tobbi> So, that's why I didn't se eit.
+[2015/12/20 09:11:34] <Tobbi> *see it
+[2015/12/20 09:12:25] <mt> so, everything ok for the release!
+[2015/12/20 09:12:52] <Tobbi> Looks like it.
+[2015/12/20 09:13:21] <mt> also:
+[2015/12/20 09:13:24] <Tobbi> mt: Actually, could you get the background image to work?
+[2015/12/20 09:13:31] <mt> my highlight monitor usually: full of irc spam
+[2015/12/20 09:13:49] <mt> my highlight monitor now: almost everything in #supertux, most highlights by Tobbi
+[2015/12/20 09:13:55] <Tobbi> mt: I am sorry.
+[2015/12/20 09:14:05] <mt> not something to be sorry about :P
+[2015/12/20 09:14:15] <Tobbi> Actually, I meant: mt: I am sorry, mt. It won't happen again, mt.
+[2015/12/20 09:14:48] <mt> nah, I don't really understand CPack or how backgrounds/licenses work in DMGs
+[2015/12/20 09:14:59] <Tobbi> Hmm, okay.
+[2015/12/20 09:15:01] <head8debian> Tobbi: ...
