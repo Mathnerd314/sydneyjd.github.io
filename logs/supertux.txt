@@ -25479,3 +25479,8 @@
 [2015/12/20 02:22:37] <mt> otoh, I could set up an El Capitan VM
 [2015/12/20 02:34:41] <mt> wtf
 [2015/12/20 02:34:53] <mt> even --version doesn't know what version we're on
+[2015/12/20 02:45:08] <mt> building with -DWERROR=ON on Arch Linux (gcc 5.3.0) fails
+[2015/12/20 02:45:10] <mt> :(
+[2015/12/20 02:48:44] <tux|dude> Welp
+[2015/12/20 02:49:02] <mt> I think I fixed at least the --version problem
+[2015/12/20 02:51:51] <mt> should I add a unit test for the --version problem?
