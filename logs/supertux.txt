@@ -26453,3 +26453,38 @@
 [2015/12/20 11:10:40] <mt> 7 changed files with 58 additions and 10 deletions
 [2015/12/20 11:12:19] @ Karkus joined channel #supertux
 [2015/12/20 11:12:19] <Not-e81f> [02supertux] 07marc280492 commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vETGs
+[2015/12/20 11:15:34] <mt> who's darkylighty on the forums
+[2015/12/20 11:15:48] <mt> "Well, originally, there where supposed to be eight worlds for supertux, but we only got close to develop two of them. " remark the "we"
+[2015/12/20 11:16:31] <Tobbi> phew.
+[2015/12/20 11:16:35] <Tobbi> yeah, whatever.
+[2015/12/20 11:17:15] @ Quit: Karkus: Ping timeout: 240 seconds
+[2015/12/20 11:17:18] <mt> now let's calm down, the release is out, there doesn't seem to be any big problem
+[2015/12/20 11:17:43] <Tobbi> Except that the christmas mode doesn't work.
+[2015/12/20 11:17:49] <Tobbi> I tried it with the mac os build.
+[2015/12/20 11:17:51] <alket> yep, only the santas hat works
+[2015/12/20 11:17:56] <Tobbi> mt: Does it work for you?
+[2015/12/20 11:19:30] <Not-e81f> [02supertux] 07tobbi commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vETZP
+[2015/12/20 11:22:36] <mt> not with a new userdir :/
+[2015/12/20 11:22:44] <Tobbi> hrm.
+[2015/12/20 11:22:51] <mt> but I don't see any reason why it shouldn't work
+[2015/12/20 11:22:57] <Tobbi> Doesn't matter.
+[2015/12/20 11:23:02] <Tobbi> we can't change it anyway.
+[2015/12/20 11:23:13] <Tobbi> Something for a bugfix release.
+[2015/12/20 11:23:21] @ Quit: lumidify: Ping timeout: 255 seconds
+[2015/12/20 11:23:36] <mt> interesting
+[2015/12/20 11:24:20] <mt> the default config writer seems to create a new config with the value from line 53 src/supertux/gameconfig.cpp ("christmas_mode(false)")
+[2015/12/20 11:24:31] <head8debian> Anyone get anywhere?
+[2015/12/20 11:24:52] <mt> it does work when the christmas key is missing from $userdir/config
+[2015/12/20 11:25:33] <mt> and since that key doesn't get written when it's christmas
+[2015/12/20 11:25:42] <mt> it works for people with an existing config
+[2015/12/20 11:25:54] <Tobbi> oh damn.
+[2015/12/20 11:27:06] <head8debian> Tobbi: o_O
+[2015/12/20 11:27:20] <Tobbi> head8debian: It is only the christmas stuff..
+[2015/12/20 11:27:39] <head8debian> O_o
+[2015/12/20 11:27:48] <head8debian> Still...
+[2015/12/20 11:28:01] <head8debian> Oh well.
+[2015/12/20 11:28:05] <mt> 17:22 (+mt) and since that key doesn't get written when it's christmas
+[2015/12/20 11:28:06] <mt> * when it's not christmas
+[2015/12/20 11:28:33] @ lumidify joined channel #supertux
+[2015/12/20 11:29:37] <Tobbi> I ticked off the "create packages" step.
+[2015/12/20 11:29:51] @ Karkus joined channel #supertux
