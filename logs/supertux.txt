@@ -26833,3 +26833,34 @@
 [2015/12/20 14:39:36] <Tobbi> head8debian: I mean: Update that please.
 [2015/12/20 14:41:37] <Tobbi> Or anyone else if they feel comfortable.
 [2015/12/20 14:44:45] <Not-e81f> [02supertux] 07tobbi commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vEkqx
+[2015/12/20 14:46:59] @ Tobbi set topic "MILESTONE 2 RELEASED | https://github.com/SuperTux | Stable: 0.4.0 | mailing list: supertux-devel@lists.lethargik.org | Channel log http://sydneyjd.github.io/logs/ | nightly builds http://download.supertuxproject.org/download/"
+[2015/12/20 14:49:42] <brmbrmcar> I cannot update it myself.
+[2015/12/20 14:50:00] <brmbrmcar> Can head8debian?
+[2015/12/20 14:50:05] <Tobbi> brmbrmcar: Yes, he can.
+[2015/12/20 14:50:09] <Tobbi> I think.
+[2015/12/20 14:50:12] <brmbrmcar> Ah, OK.
+[2015/12/20 14:50:20] <Tobbi> If not...
+[2015/12/20 14:51:08] @ claymore2 joined channel #supertux
+[2015/12/20 14:52:29] <brmbrmcar> And the newest version isn't 0.3.5 anymore.
+[2015/12/20 14:54:05] <Tobbi> brmbrmcar: I know, give me a break.
+[2015/12/20 14:54:32] @ giby_the_kid joined channel #supertux
+[2015/12/20 14:54:32] @ Mode +o giby_the_kid by ChanServ
+[2015/12/20 14:55:12] <leyyin>  kids :D
+[2015/12/20 14:55:52] <Tobbi> mt: What about debian and fedora packages? Where these updated as well? or the packagers notified?
+[2015/12/20 14:56:03] <Tobbi> leyyin: I hope you're not including me in there...
+[2015/12/20 14:56:17] <Tobbi> s/Where/Were
+[2015/12/20 14:56:22] <Tobbi> s/Where/Were/
+[2015/12/20 14:56:22] <red_bot> Tobbi meant: "s/Were/Were"
+[2015/12/20 14:56:25] <leyyin> only people with nicknames that include _kid
+[2015/12/20 14:56:25] <Tobbi> no!
+[2015/12/20 14:56:33] <leyyin> btw, you people should try qtox, it is great
+[2015/12/20 14:56:43] <Tobbi> leyyin: And... *car
+[2015/12/20 14:56:47] <Tobbi> :P
+[2015/12/20 14:56:54] <Tobbi> Actually, you won't know what I am talking about :D
+[2015/12/20 14:57:16] @ Quit: ultimategiby: Ping timeout: 256 seconds
+[2015/12/20 14:58:30] <leyyin> do you track download stats?
+[2015/12/20 14:59:10] <Tobbi> leyyin: We don't have any way...do we?
+[2015/12/20 14:59:18] <Tobbi> from the repo?
+[2015/12/20 14:59:25] <leyyin> no, from your website
+[2015/12/20 14:59:41] <Tobbi> Ah, I don't think so.
+[2015/12/20 14:59:48] <leyyin> :/ http://supertuxproject.org/download.html
