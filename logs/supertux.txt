@@ -25639,3 +25639,31 @@
 [2015/12/20 05:41:42] <brmbrmcar> Why was Post-0.4.0 renamed to0.5.0?
 [2015/12/20 05:42:56] <brmbrmcar> Post-0.4.0 could be anything!
 [2015/12/20 05:44:38] <brmbrmcar> They should be seperate.
+[2015/12/20 05:46:18] @ Tobbi joined channel #supertux
+[2015/12/20 05:46:18] @ Mode +o Tobbi by ChanServ
+[2015/12/20 05:48:29] <mt> 0.5.0 is what we plan to make happen after the 0.4 series
+[2015/12/20 05:48:53] <mt> 0.4.1 is what should be in the next bugfix release
+[2015/12/20 05:49:18] <mt> '0.6.0' will be probably declared stable enough to make it '1.0.0'
+[2015/12/20 05:49:19] <brmbrmcar> But some things planned for 0.4.1 now display 0.5.0.
+[2015/12/20 05:49:39] <mt> anything that's more than a bugfix is 0.5.0
+[2015/12/20 05:49:43] <brmbrmcar> 0.6.0 will be WAY before 1.0.0.
+[2015/12/20 05:50:11] <mt> you know we don't need 0.9.0 for 1.0.0
+[2015/12/20 05:50:11] <brmbrmcar> 1.0.0 is after milestone 3.
+[2015/12/20 05:50:29] <mt> and we don't try to use milestones anymore
+[2015/12/20 05:50:33] <Tobbi> No shit, sherlock.
+[2015/12/20 05:50:36] <mt> we switched to semver, get over it
+[2015/12/20 05:50:54] <brmbrmcar> There aremeant to be something like 11 worlds, though.
+[2015/12/20 05:50:57] <Tobbi> Man.
+[2015/12/20 05:51:25] <Tobbi> brmbrmcar: This release day is busy enough, even without you bugging us about things which really don't take precedence over other things.
+[2015/12/20 05:51:54] <Tobbi> ville
+[2015/12/20 05:51:54] <Tobbi> Tobbi: because c++ types can hold only limited value of ranges the order in which an expression is evaluated can affect the results
+[2015/12/20 05:51:54] <Tobbi> ville
+[2015/12/20 05:51:56] <Tobbi> err range of values
+[2015/12/20 05:52:06] <Tobbi> Tobbi: so a + b - c is not necessarily same as if it was ordered in some order not lef-to-right although mathematically speaking you're free to do so
+[2015/12/20 05:52:12] <Tobbi> Does this make any sense to you?
+[2015/12/20 05:52:32] <Tobbi> In the context of the error above, I mean?
+[2015/12/20 05:52:39] <mt> what
+[2015/12/20 05:53:00] <mt> are they suggesting a+b-c isn't the same as b+a-c
+[2015/12/20 05:53:10] <Tobbi> mt: I don't know :D
+[2015/12/20 05:55:24] <Tobbi> mt: Build without Werror...I really don't know how to fix it and I don't want to fix it now, either.
+[2015/12/20 05:57:59] @ Quit: claymore2: Quit: Leaving
