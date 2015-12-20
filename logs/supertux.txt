@@ -25473,3 +25473,7 @@
 [2015/12/20 00:48:11] @ tux|dude joined channel #supertux
 [2015/12/20 01:15:59] <tux|dude> IT'S TODAY. Oh man
 [2015/12/20 01:58:26] @ lumidify joined channel #supertux
+[2015/12/20 02:21:18] <mt> good morning
+[2015/12/20 02:21:44] <mt> I guess I'll prepare the homebrew-games formula for OS X
+[2015/12/20 02:22:12] <mt> thing is: I can't test on anything other than Yosemite
+[2015/12/20 02:22:37] <mt> otoh, I could set up an El Capitan VM
