@@ -26317,3 +26317,68 @@
 [2015/12/20 10:29:13] <alket> squirrel is not in source tarball :S
 [2015/12/20 10:29:22] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/97967176
 [2015/12/20 10:29:53] <alket> despite the docs sayin so
+[2015/12/20 10:30:08] <Tobbi> I am not responsible...
+[2015/12/20 10:30:11] <Tobbi> Don|t know who is.
+[2015/12/20 10:30:18] <Tobbi> mt, maths22 ^^
+[2015/12/20 10:30:20] <Tobbi> :D
+[2015/12/20 10:30:28] * head8debian is cofused...
+[2015/12/20 10:30:45] <alket> https://github.com/SuperTux/supertux/blob/master/INSTALL.md#installing-under-linuxunix-using-cmake
+[2015/12/20 10:31:05] <mt> alket: external/squirrel
+[2015/12/20 10:31:09] <mt> else it wouldn't build
+[2015/12/20 10:31:45] <tomreyn> source tarball builds and plays fine for me
+[2015/12/20 10:31:53] <alket> CMake Error at CMakeLists.txt:224 (message):
+[2015/12/20 10:31:54] <alket>   squirrel submodule is not checked out or
+[2015/12/20 10:31:56] <alket>   /home/alket/Documents/pkg/supertux/src/supertux-0.4.0/external/squirrel/CMakeLists.txt
+[2015/12/20 10:31:57] <alket>   is missing
+[2015/12/20 10:32:01] <mt> homebrew-games pull request submitted
+[2015/12/20 10:32:10] <mt> alket: DON'T USE THE GITHUB TARBALL
+[2015/12/20 10:32:16] <mt> USE THE ONE WE PROVIDE
+[2015/12/20 10:32:23] <alket> mt:  where do you provide it ?
+[2015/12/20 10:32:24] <mt> IT'S JUST ONE LINE ABOVE
+[2015/12/20 10:32:41] <mt> github doesn't include submodules in their tarballs
+[2015/12/20 10:32:46] <mt> that's why they don't work
+[2015/12/20 10:32:48] <alket> where can I find the link ?
+[2015/12/20 10:32:51] <mt> oh they also miss version.cmake
+[2015/12/20 10:32:54] <head8debian> alket: Sec.
+[2015/12/20 10:32:56] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/153
+[2015/12/20 10:33:01] <alket> mt: yes indeed it misses
+[2015/12/20 10:33:05] <mt> https://github.com/SuperTux/supertux/releases/tag/v0.4.0
+[2015/12/20 10:33:14] <head8debian> You beat me to it... :p
+[2015/12/20 10:33:16] <mt> https://github.com/SuperTux/supertux/releases/download/v0.4.0/supertux-0.4.0.tar.bz2 for direct download
+[2015/12/20 10:33:19] <giby_the_kid> The real question: Who should get +O ?
+[2015/12/20 10:33:39] <Tobbi> mt: We should uncheck github src releases and provide our own.
+[2015/12/20 10:33:39] <mt> giby_the_kid: at least all the people who are in the Core team
+[2015/12/20 10:33:45] <alket> agh, thanks
+[2015/12/20 10:34:02] <mt> Tobbi: I don't think you can do that
+[2015/12/20 10:34:06] <Tobbi> Ah.
+[2015/12/20 10:34:07] <head8debian> Tobbi: Is there anything wrong with my changes? Im very confused...
+[2015/12/20 10:34:17] <mt> giby_the_kid: also make sure to give someone +f and some more flags so they can manage the channel
+[2015/12/20 10:34:21] <Tobbi> head8debian: No, don't think so.
+[2015/12/20 10:34:28] <giby_the_kid> figlet who is in the core Team?
+[2015/12/20 10:34:38] <Tobbi> head8debian: I just meant to capitalize SuperTux the right way
+[2015/12/20 10:34:55] <head8debian> Tobbi: ok... its nto worth a commit for that.
+[2015/12/20 10:35:01] <Tobbi> head8debian: fine.
+[2015/12/20 10:35:05] <mt> giby_the_kid: https://github.com/orgs/SuperTux/teams/core
+[2015/12/20 10:35:10] <head8debian> Im outa here, sorry...
+[2015/12/20 10:35:14] <bitlord> ok, another tarball looks ok for now! ;-)
+[2015/12/20 10:35:22] <Tobbi> head8debian: No problem.
+[2015/12/20 10:35:40] <head8debian> Tobbi: Since you have htdocs now, it should be easy. :)
+[2015/12/20 10:35:47] <Tobbi> Yes, indeed.
+[2015/12/20 10:36:35] <Not-e81f> [02supertux] 07tobbi edited page 03Home - 13http://git.io/vJZfg
+[2015/12/20 10:37:33] <mt> head8debian: the download links in the wiki are invalid
+[2015/12/20 10:37:40] <mt> some names changed
+[2015/12/20 10:39:44] <Tobbi> he's "outa here"
+[2015/12/20 10:39:45] <Tobbi> :D
+[2015/12/20 10:40:20] <mt> Oh Tobbi has +f now
+[2015/12/20 10:40:36] <Tobbi> mt: +f is what exactly?
+[2015/12/20 10:40:50] <mt> you can now add the +o or +O flags to other accounts
+[2015/12/20 10:40:55] <Tobbi> Okay, good!.
+[2015/12/20 10:40:59] <Tobbi> Let|s see...
+[2015/12/20 10:41:35] <bitlord> http://i.imgur.com/5SyDw3R.png  \o/
+[2015/12/20 10:41:58] <Tobbi> bitlord: No xmas theme?
+[2015/12/20 10:42:25] <bitlord> :S
+[2015/12/20 10:42:38] <mt> is your date wrong?
+[2015/12/20 10:42:48] <mt> or did you use --no-christmas or w/e
+[2015/12/20 10:43:39] <bitlord> Sun Dec 20 16:39:50 CET 2015
+[2015/12/20 10:43:57] <bitlord> no I just started it from build directory  as ./supertux2
+[2015/12/20 10:44:09] <mt> can you quit and start it again?
