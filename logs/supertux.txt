@@ -25609,3 +25609,13 @@
 [2015/12/20 04:54:28] <mt> hey let's help people
 [2015/12/20 04:54:45] <mt> but when they ask something, let's tell them that everything's already in the problem description
 [2015/12/20 04:54:46] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/149
+[2015/12/20 05:06:13] <mt> are you kidding me?
+[2015/12/20 05:06:15] <mt> seriously
+[2015/12/20 05:06:27] <mt> the Travis CI change broke building from the source tarball without git
+[2015/12/20 05:06:44] <mt> because there's no repository to git describe --tags
+[2015/12/20 05:08:01] <mt> oh
+[2015/12/20 05:08:21] <mt> we just need a valid version.cmake
+[2015/12/20 05:10:31] @ alket joined channel #supertux
+[2015/12/20 05:11:15] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/20 05:13:48] <mt> I think I fixed makedist.sh
+[2015/12/20 05:13:49] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/150
