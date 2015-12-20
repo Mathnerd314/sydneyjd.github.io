@@ -27041,3 +27041,32 @@
 [2015/12/20 16:14:42] <Karkus> But other times...
 [2015/12/20 16:14:54] <brmbrmcar> Tobbi: /whois brmbrmbot
 [2015/12/20 16:14:58] <leyyin> yes, but strong typing is more sane :D
+[2015/12/20 16:15:02] <brmbrmcar> Real bot!
+[2015/12/20 16:15:03] <leyyin> none are perfect
+[2015/12/20 16:15:10] <leyyin> there are times when you want to kick both
+[2015/12/20 16:16:05] <leyyin> dynamic typed languages tend to be more strong type
+[2015/12/20 16:16:15] <leyyin> and strong typed tend to be more dynamic :P
+[2015/12/20 16:16:17] <Tobbi> https://www.youtube.com/watch?v=8Jdd-tpgh3c
+[2015/12/20 16:16:35] <leyyin> like people from that language like the opposite side
+[2015/12/20 16:17:54] <Hume2> :D
+[2015/12/20 16:18:01] <Karkus> leyyin: Yeah, true
+[2015/12/20 16:19:41] @ Quit: claymore2: Quit: Leaving
+[2015/12/20 16:22:26] @ Quit: ced117: Quit: Quitte
+[2015/12/20 16:23:25] <Hume2> I'll go, bye!
+[2015/12/20 16:23:28] @ Quit: Hume2: Quit: Page closed
+[2015/12/20 16:24:57] <Karkus> leyyin, Tobbi: How bad do you consider an "except:" statement in Python3?
+[2015/12/20 16:25:08] <Tobbi> Karkus: I don't know any exceptions.
+[2015/12/20 16:25:45] <leyyin> Karkus, why is except: bad?
+[2015/12/20 16:25:52] <Karkus> Tobbi: An "except:" statement with no exception given catches everything
+[2015/12/20 16:26:00] <Tobbi> I can imagine.
+[2015/12/20 16:26:14] <Karkus> leyyin: You might except something you don't want to?
+[2015/12/20 16:26:23] <Karkus> debugging could be difficult?
+[2015/12/20 16:26:25] <Karkus> Idk
+[2015/12/20 16:27:00] <leyyin> Karkus, depends on your usage and what your try to achieve
+[2015/12/20 16:27:51] <leyyin> Karkus, https://stackoverflow.com/questions/730764/try-except-in-python-how-do-you-properly-ignore-exceptions
+[2015/12/20 16:28:06] <Karkus> leyyin: Okay, when loading a level from lisp file, it's surrounded by try:...except:... because I get various different exceptions
+[2015/12/20 16:28:24] <leyyin> are you ignoring the exceptions?
+[2015/12/20 16:28:42] <leyyin> why are you doing that?
+[2015/12/20 16:28:54] <leyyin> why are you getting the exceptions?
+[2015/12/20 16:29:30] <Tobbi> And why is the banana bent?
+[2015/12/20 16:29:48] <Tobbi> eeh curved
