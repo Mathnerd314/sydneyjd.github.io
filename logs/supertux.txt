@@ -26598,3 +26598,13 @@
 [2015/12/20 12:06:53] @ brmbrmcar joined channel #supertux
 [2015/12/20 12:07:22] <Tobbi> Done.
 [2015/12/20 12:07:26] <Tobbi> better not touch this.
+[2015/12/20 12:15:32] <bitlord> does the source come with a icon so I can create a link on my desktop? :D
+[2015/12/20 12:16:15] <Tobbi> bitlord: https://github.com/SuperTux/supertux/tree/master/data/images/engine/icons
+[2015/12/20 12:17:10] <bitlord> thank you!
+[2015/12/20 12:17:22] <Tobbi> bitlord: So, it should be in the data/ directory.
+[2015/12/20 12:18:15] <bitlord> yes it is there, I just didn't try to look very hard (/me lazy!)
+[2015/12/20 12:23:11] <Tobbi> bbl...
+[2015/12/20 12:25:13] <tomreyn> do you know the status of supertux.com? it's registered to zack damen
+[2015/12/20 12:26:47] <brmbrmcar> We did.
+[2015/12/20 12:27:06] <brmbrmcar> Well, supertux.org.
+[2015/12/20 12:27:38] <brmbrmcar> .com wouldm#t be used anyway.
