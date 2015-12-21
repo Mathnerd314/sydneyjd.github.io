@@ -28212,3 +28212,33 @@
 [2015/12/21 09:12:33] <Tobbi> brmbrmcar: You want to many things.
 [2015/12/21 09:12:37] <Tobbi> *so
 [2015/12/21 09:13:01] <Tobbi> That guy works for Ubisoft.
+[2015/12/21 09:15:10] <brmbrmcar> to many?
+[2015/12/21 09:17:36] <Tobbi> http://news.softpedia.com/news/super-mario-bros-clone-supertux-gets-new-major-release-after-10-years-in-the-making-497895.shtml
+[2015/12/21 09:17:49] <Tobbi> I am somewhat mad...they say "Max Teufel" had the great pleasure of...
+[2015/12/21 09:17:49] <Tobbi> grr
+[2015/12/21 09:18:04] <Tobbi> for *his awesome...
+[2015/12/21 09:18:12] <Tobbi> Who do they think they are? :D
+[2015/12/21 09:19:54] @ jeexy is now known as jeezy
+[2015/12/21 09:19:55] @ Quit: jeezy: Changing host
+[2015/12/21 09:19:55] @ jeezy joined channel #supertux
+[2015/12/21 09:20:35] <brmbrmcar> It should be the Supertux team, not just him.
+[2015/12/21 09:20:48] <Tobbi> Yup. But it just shows him :D
+[2015/12/21 09:21:00] <brmbrmcar> The picture is even not 0.4.0!
+[2015/12/21 09:22:14] <Not-e81f> [02supertux] 07svenstaro commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vEqED
+[2015/12/21 09:22:23] <head8debian> Hello jeezy.
+[2015/12/21 09:22:45] <head8debian>  lol!
+[2015/12/21 09:23:03] <Not-e81f> [02supertux] 07tobbi commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vEqEh
+[2015/12/21 09:23:30] <head8debian> Tobbi: :D Oh well...
+[2015/12/21 09:23:38] <Tobbi> head8debian: Yes...busy...
+[2015/12/21 09:25:12] <brmbrmcar> head8debian: How do you give your bot acloak?
+[2015/12/21 09:25:34] <Tobbi> Oh no, don't dare telling him.
+[2015/12/21 09:26:22] <brmbrmcar> My bot is for other channels.
+[2015/12/21 09:26:26] <head8debian> Tobbi: Why? :)
+[2015/12/21 09:26:27] <brmbrmcar> For uno only.
+[2015/12/21 09:26:35] <Tobbi> Well, alright.
+[2015/12/21 09:26:46] <Tobbi> As long as it doesn't annoy the heck out of us.
+[2015/12/21 09:27:17] <head8debian> brmbrmcar: You need to group his nick with yours and then have him verify with your account every time he logs in.
+[2015/12/21 09:27:26] <head8debian> Tobbi: Thats why we have ops. :D
+[2015/12/21 09:27:58] <Tobbi> head8debian: Oh, yeah, good thinking.
+[2015/12/21 09:28:46] <Tobbi> head8debian: Can you change the label of the screenshots section to "SuperTux 0.4.0"
+[2015/12/21 09:29:45] <brmbrmcar> head8debian: OK...
