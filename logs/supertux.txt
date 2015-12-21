@@ -28531,3 +28531,26 @@
 [2015/12/21 12:59:01] <head8debian> Well, maybe i don't want to know.
 [2015/12/21 12:59:11] <leyyin_> head8debian, I think it uses a dictionary
 [2015/12/21 12:59:31] <head8debian> leyyin_: I belive it uses an online dictionary as well...
+[2015/12/21 13:00:08] <brmbrmcar> It doesn't...
+[2015/12/21 13:00:22] <head8debian> brmbrmcar: And how do you know. :)
+[2015/12/21 13:00:44] <brmbrmcar> Ifound it!
+[2015/12/21 13:01:23] <brmbrmcar> data/rbot/languages/english.lang
+[2015/12/21 13:02:30] <head8debian> brmbrmcar: Oh, you are right. Eww.
+[2015/12/21 13:03:01] <brmbrmcar> Change it all to brmbrm.
+[2015/12/21 13:03:39] <head8debian> brmbrmcar: I will look into it later. Thats nasty.
+[2015/12/21 13:05:50] <leyyin_> words are nasty?
+[2015/12/21 13:06:16] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/98164580
+[2015/12/21 13:08:02] @ Quit: datahead7777: Quit: Leaving
+[2015/12/21 13:09:45] <brmbrmcar> head8debian:How do you auto join your bot multiple channels (do not worry about here).
+[2015/12/21 13:10:07] <mt> by telling it to do so
+[2015/12/21 13:10:21] <mt> most bots allow specifying #channel1,#channel2,...
+[2015/12/21 13:10:36] <brmbrmcar> OK, I'l see...
+[2015/12/21 13:10:55] <mt> but
+[2015/12/21 13:11:03] <mt> don't use rbot
+[2015/12/21 13:11:09] <brmbrmcar> Why?
+[2015/12/21 13:11:14] <mt> unless you have a very specific reason to do so
+[2015/12/21 13:11:23] <brmbrmcar> What else is there?
+[2015/12/21 13:11:40] <brmbrmcar> That does uno?
+[2015/12/21 13:11:57] <mt> it doesn't seem that much maintained, doesn't support new IRCv3 features
+[2015/12/21 13:13:12] <mt> https://github.com/ProgVal/Limnoria is very extensible, supports modern features, has relatively clean code and is maintained
+[2015/12/21 13:13:19] <mt> and they've got great support
