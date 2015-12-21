@@ -27444,3 +27444,95 @@
 [2015/12/20 18:59:56] <Tobbi> Karkus: I could do that.
 [2015/12/20 18:59:57] <Tobbi> :D
 [2015/12/20 19:00:00] <Karkus> Just kidding :P
+[2015/12/20 19:00:03] <Tobbi> :D
+[2015/12/20 19:00:08] <leyyin_> I should not hang around here anymore
+[2015/12/20 19:00:09] <leyyin_> :P
+[2015/12/20 19:00:24] <Tobbi> Karkus: That's how it works with head8debian. You assign random stuff to him and he works on that.
+[2015/12/20 19:00:28] <Not-e81f> [02flexlay] 07Karkus476 commented on issue 03#49: Should We Update to PyQt5? - 13http://git.io/vEIs7
+[2015/12/20 19:00:33] <Tobbi> :D
+[2015/12/20 19:00:46] <Not-e81f> [02flexlay] 07alketii starred 03flexlay - 13http://git.io/vfECg
+[2015/12/20 19:00:46] <leyyin_> I already have assigned a lot of issues on STK, did not even bother to do them :P
+[2015/12/20 19:01:01] <Karkus> 4 stars !!!!!
+[2015/12/20 19:01:22] <leyyin_> Karkus, awww, got mail
+[2015/12/20 19:01:35] <leyyin_> hiker is gonna kill me
+[2015/12/20 19:01:42] <Karkus> Huh?
+[2015/12/20 19:01:54] <alket> well in all seriousness, there is nothing that Tiled can't do
+[2015/12/20 19:01:59] <Tobbi> leyyin_: You are not obliged to do anything, you know that? Neither for stk not for st.
+[2015/12/20 19:02:03] <Tobbi> *nor
+[2015/12/20 19:02:19] <leyyin_> Tobbi, you know I am joking, right? ;)
+[2015/12/20 19:02:22] <leyyin_> I know that
+[2015/12/20 19:02:22] <leyyin_> duh
+[2015/12/20 19:02:24] <Tobbi> Oh, right.
+[2015/12/20 19:02:39] <Tobbi> Yes. I sometimes don't even get when you're joking anymore.
+[2015/12/20 19:02:46] <Tobbi> But people say it's the same to me.
+[2015/12/20 19:03:03] <Tobbi> When I casually talk about serial killers and everything in English conversation :D
+[2015/12/20 19:03:03] <Karkus> leyyin_: I have deleted the comment, of course
+[2015/12/20 19:03:03] <leyyin_> me neither, I get involved on my own plots, that I start believing them myself
+[2015/12/20 19:03:11] <Karkus> leyyin_: Who is hiker?
+[2015/12/20 19:03:19] <Tobbi> You don't want to know :D
+[2015/12/20 19:03:22] <leyyin_> the master of STK
+[2015/12/20 19:03:24] <Karkus> alket: Except, erm, make supertux levels?
+[2015/12/20 19:03:55] <Karkus> leyyin_: But, you know, if you get a few spare minutes...
+[2015/12/20 19:03:57] <Tobbi> Karkus: hiker = the "tobbi" of SuperTuxKart.
+[2015/12/20 19:04:03] <alket> Karkus: do you want me to do it so I can prove it to you ? :p
+[2015/12/20 19:04:07] <Tobbi> Everyone looks up to him, when he passes by, people look down.
+[2015/12/20 19:04:08] <leyyin_> only he has a wife and kids :P
+[2015/12/20 19:04:09] <Tobbi> Just like me.
+[2015/12/20 19:04:12] <leyyin_> and a job
+[2015/12/20 19:04:13] <Tobbi> leyyin_: Damn it.
+[2015/12/20 19:04:16] <Tobbi> Don't remind me.
+[2015/12/20 19:04:22] <Karkus> alket: No, but that's the point I'm making.
+[2015/12/20 19:04:37] <leyyin_> and almost twice your age Tobbi
+[2015/12/20 19:04:39] <leyyin_> so relax
+[2015/12/20 19:04:40] <Karkus> Tobbi: :D
+[2015/12/20 19:04:45] <alket> wait, flexlay is around since 2002 ?
+[2015/12/20 19:04:48] <Tobbi> leyyin_: Okay...
+[2015/12/20 19:04:52] <Tobbi> leyyin_: How old's he?
+[2015/12/20 19:05:00] <Karkus> alket: Yeah... not me.
+[2015/12/20 19:05:01] <leyyin_> around 40?
+[2015/12/20 19:05:04] <leyyin_> idk really
+[2015/12/20 19:05:18] <Tobbi> Okay, I am still relaxed.
+[2015/12/20 19:05:19] <Karkus> alket: That's grumbel, he's been working on this for ages.
+[2015/12/20 19:05:59] @ Quit: leyyin_: Quit: So Long, and Thanks for All the Fish
+[2015/12/20 19:06:29] <alket> grumbel should work on Pingus, ST has enough devs :p
+[2015/12/20 19:06:41] <Tobbi> There is no such thing as "enough devs"
+[2015/12/20 19:06:42] <Karkus> alket: We do?
+[2015/12/20 19:06:43] <Tobbi> Not for supertux.
+[2015/12/20 19:06:55] <Karkus> alket: Can you program?
+[2015/12/20 19:07:20] <alket> Karkus: no
+[2015/12/20 19:07:23] <alket> just script
+[2015/12/20 19:07:30] <Tobbi> Python is "just script"!.
+[2015/12/20 19:07:32] <Karkus> alket: Python is scripting..
+[2015/12/20 19:07:35] <Tobbi> hah
+[2015/12/20 19:07:42] <Karkus> Tobbi: Damn touch typing
+[2015/12/20 19:08:01] <alket> yeah I know some python
+[2015/12/20 19:08:19] <Karkus> alket: How many is some? 5, 6, 19?
+[2015/12/20 19:08:31] <Tobbi> :D
+[2015/12/20 19:08:47] <Tobbi> 19 python...
+[2015/12/20 19:09:18] <Karkus> I suppose, 19 pythons
+[2015/12/20 19:09:23] <Tobbi> No, python is a unit of measurement.
+[2015/12/20 19:09:39] <alket> yeah 19
+[2015/12/20 19:09:53] <Karkus> alket: Sounds like https://github.com/SuperTux/flexlay/issues/42 is the perfect issue for you to fix
+[2015/12/20 19:10:40] <Tobbi> Agreed.
+[2015/12/20 19:10:42] <Tobbi> Plus, we need it.
+[2015/12/20 19:10:53] <Karkus> alket: I'm just kidding, I'm not looking forward to that one.
+[2015/12/20 19:11:18] <Tobbi> Maybe it'll be easy eventually.
+[2015/12/20 19:11:24] <alket> Karkus: tiled should fix that :p
+[2015/12/20 19:12:09] <Karkus> Tobbi: Maybe TilED is an option...
+[2015/12/20 19:12:27] <Karkus> idk, I like flexlay, and I've done quite a bit of work on it.
+[2015/12/20 19:12:29] <Tobbi> Karkus: It could be.
+[2015/12/20 19:12:39] <Tobbi> But, wouldn't we be starting from scratch?
+[2015/12/20 19:12:55] <alket> Karkus: your work made Milestone II possible
+[2015/12/20 19:13:07] <Karkus> alket: Well, no...
+[2015/12/20 19:13:20] <Karkus> Tobbi: Yeah, almost...
+[2015/12/20 19:13:39] <Tobbi> On the other hand: We'd be handing off some of the work...
+[2015/12/20 19:14:01] <Karkus> Tobbi: On the third hand, we'd have 5 editors...
+[2015/12/20 19:14:06] <Tobbi> :D
+[2015/12/20 19:14:08] <Tobbi> Not good.
+[2015/12/20 19:14:17] <Karkus> Tobbi: We seriously need to make a decision.
+[2015/12/20 19:14:22] <Tobbi> Yes...
+[2015/12/20 19:14:25] <Karkus> Tobbi: Shall I make a poll?
+[2015/12/20 19:14:33] <Tobbi> Karkus: Yes, and add some pro / contra arguments.
+[2015/12/20 19:14:41] <Karkus> Tobbi: I know people will choose TilED...
+[2015/12/20 19:14:56] <Tobbi> Karkus: But can we integrate scripting with TilED
+[2015/12/20 19:14:58] <Karkus> Oh, well, flexlay can be a side project :P
