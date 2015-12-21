@@ -28082,3 +28082,45 @@
 [2015/12/21 08:11:42] <stewboy> bed
 [2015/12/21 08:11:43] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- Would you like to know more?
 [2015/12/21 08:12:44] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98111955
+[2015/12/21 08:17:09] <Hume2> brmbrmcar: I'll do it instead of you. What had you to do again?
+[2015/12/21 08:18:25] <Not-e81f> [02supertux] 07CapsAdmin starred 03supertux - 13http://git.io/kM50Wg
+[2015/12/21 08:18:37] <brmbrmcar> I can do it.
+[2015/12/21 08:18:47] <brmbrmcar> I just can't remember.
+[2015/12/21 08:18:52] <brmbrmcar> What todo.
+[2015/12/21 08:18:59] <brmbrmcar> It doesn't require git.
+[2015/12/21 08:19:13] <Hume2> Just don't annoy the highest instance here.
+[2015/12/21 08:19:33] <brmbrmcar> I asked Tobbi, and he didn't answer.
+[2015/12/21 08:19:41] <Tobbi> What?
+[2015/12/21 08:19:46] <Tobbi> Wht did you ask me?
+[2015/12/21 08:19:50] <brmbrmcar> You said nothing.
+[2015/12/21 08:20:02] <brmbrmcar> I asked what else you wanted me to do.
+[2015/12/21 08:20:08] <Tobbi> brmbrmcar: Nothing, I believe.
+[2015/12/21 08:20:14] <brmbrmcar> For the halloween music.
+[2015/12/21 08:20:27] <Not-e81f> [02supertux] 07reinerh forked the repository - 13http://git.io/vEqJS
+[2015/12/21 08:20:49] <Tobbi> brmbrmcar: Ah, add to AUTHORS
+[2015/12/21 08:21:08] <brmbrmcar> OK.
+[2015/12/21 08:21:48] <Tobbi> Hah, small world...The guy who recently forked the repo also forked Cloud-to-butt by a fellow mozilla contributor.
+[2015/12/21 08:21:52] <Karkus> brmbrmcar: Surely you can just use GitHub to do that.
+[2015/12/21 08:22:34] <Tobbi> Not sure whether that works if it|s in a PR already.
+[2015/12/21 08:22:45] <brmbrmcar> What license?
+[2015/12/21 08:22:54] <brmbrmcar> It works.
+[2015/12/21 08:23:20] <Tobbi> brmbrmcar: He settled for CC-BY-NC
+[2015/12/21 08:23:38] @ Quit: Karkus: Quit: Division By Zero
+[2015/12/21 08:24:35] <Hume2> brmbrmcar: Add him to the "sound" topic.
+[2015/12/21 08:24:55] <Not-e81f> [02supertux] 07brmbrmcar synchronize pull request 03#277: Added halloween_1.ogg and music file, added Forty-Two to credits - 13http://git.io/vEtyD
+[2015/12/21 08:24:57] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98113717
+[2015/12/21 08:25:00] <Hume2> We don't have to say there who made what music.
+[2015/12/21 08:25:09] <brmbrmcar> CI SKIP!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[2015/12/21 08:25:24] <brmbrmcar> Hume2: ???????????????????????????????
+[2015/12/21 08:25:25] <Tobbi> No, we don't.
+[2015/12/21 08:25:46] <Hume2> brmbrmcar: The [ci skip] belongs to the commit message.
+[2015/12/21 08:25:51] @ Karkus joined channel #supertux
+[2015/12/21 08:25:51] @ Mode +o Karkus by ChanServ
+[2015/12/21 08:25:53] <Tobbi> Eh, it|s fine the way it is.
+[2015/12/21 08:26:10] <Hume2> Tobbi: i mean in the credits.
+[2015/12/21 08:26:12] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98113717
+[2015/12/21 08:26:13] <Tobbi> Zes.
+[2015/12/21 08:26:15] <Tobbi> Yes.
+[2015/12/21 08:26:33] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98111955
+[2015/12/21 08:29:36] <head8debian> Tobbi: What did stew want?
+[2015/12/21 08:29:47] <Tobbi> head8debian: Tell us about a bug we can|t reproduce.
