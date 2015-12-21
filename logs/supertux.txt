@@ -27778,3 +27778,16 @@
 [2015/12/21 05:58:30] @ Tobbi joined channel #supertux
 [2015/12/21 05:58:30] @ Mode +o Tobbi by ChanServ
 [2015/12/21 05:59:58] <alket> wb Tobbi
+[2015/12/21 06:00:03] <Tobbi> Thanks, alket.
+[2015/12/21 06:00:07] <Tobbi> What a day yesterday.
+[2015/12/21 06:00:34] <alket> http://news.softpedia.com/news/super-mario-bros-clone-supertux-gets-new-major-release-after-10-years-in-the-making-497895.shtml
+[2015/12/21 06:00:39] <alket> http://freegamer.blogspot.com/2015/12/supertux-040-milestone-2.html
+[2015/12/21 06:02:21] <Tobbi> https://www.bitblokes.de/2015/12/supertux-0-4-0-nach-ueber-zehn-jahren-ausgegeben/
+[2015/12/21 06:02:41] <Tobbi> http://www.linuxgaming.de/spiele-allgemein-f128/supertux-0-4-0-nach-ueber-10-jahren-erschienen-t6103.html
+[2015/12/21 06:02:51] <Tobbi> So, yeah, people did pick it up.
+[2015/12/21 06:03:38] <alket> Tiled dev commented on a issue https://github.com/SuperTux/supertux/issues/272#issuecomment-166261590
+[2015/12/21 06:03:39] <alket> xD
+[2015/12/21 06:04:53] <Tobbi> We passed the 100 stars... :=
+[2015/12/21 06:04:55] <Tobbi> :)
+[2015/12/21 06:14:14] <Not-e81f> [02flexlay] 07bojidar-bg starred 03flexlay - 13http://git.io/vEtlC
+[2015/12/21 06:14:29] <Not-e81f> [02supertux] 07qubodup commented on issue 03#43: SuperTux Death sound is too jaring - 13http://git.io/vEtl4
