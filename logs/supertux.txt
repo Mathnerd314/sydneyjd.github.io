@@ -28322,3 +28322,30 @@
 [2015/12/21 10:42:46] <tomreyn> someone needs to show mlarabel where the "full screen" option is ;)
 [2015/12/21 10:44:16] <Tobbi> tomreyn: Who is that?
 [2015/12/21 10:44:55] <tomreyn> michael larabel, the guy who runs phoronix
+[2015/12/21 10:45:34] <Tobbi> Ah.
+[2015/12/21 10:46:08] <tomreyn> http://www.phoronix.com/scan.php?page=news_item&px=SuperTux-0.4-Released
+[2015/12/21 10:46:22] <tomreyn> i was referring to this
+[2015/12/21 10:46:33] <Not-e81f> [02supertux] 07maths22 closed pull request 03#279: CMakeLists: sort source files to get reproducible linking order - 13http://git.io/vEqmJ
+[2015/12/21 10:46:35] <Not-e81f> [02supertux] 07maths22 pushed 032 commits to 03master [+0/-0/±2] 13http://git.io/vEmel
+[2015/12/21 10:46:36] <Not-e81f> [02supertux] 07Reiner Herrmann 03a11eaf4 - CMakeLists: sort source files to get reproducible linking order
+[2015/12/21 10:46:37] <Not-e81f> [02supertux] 07Jacob Burroughs 034a8f976 - Merge pull request #279 from reinerh/master
+[2015/12/21 10:46:39] <Not-e81f> [02supertux] 07maths22 commented on issue 03#279: CMakeLists: sort source files to get reproducible linking order - 13http://git.io/vEme8
+[2015/12/21 10:46:41] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98139237
+[2015/12/21 10:46:42] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/166
+[2015/12/21 10:47:25] <Tobbi> maths22: This one as well, right? https://github.com/SuperTux/squirrel/pull/2
+[2015/12/21 10:47:38] <Tobbi> tomreyn: Ah, yes. Is phoronix picked up by a lot of people?
+[2015/12/21 10:47:40] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98139237
+[2015/12/21 10:48:02] <alket> lol, the last comment :p
+[2015/12/21 10:48:15] <tomreyn> Tobbi: those who are into linux, yes
+[2015/12/21 10:48:20] <Tobbi> Ah, okay.
+[2015/12/21 10:49:33] <Tobbi> darkbasic...
+[2015/12/21 10:49:46] <Tobbi> oh c|mon, when people comment that we know it's less fun.
+[2015/12/21 10:50:34] <Tobbi> :P
+[2015/12/21 10:51:00] <Tobbi> monitoring this, anyway https://twitter.com/search?f=tweets&vertical=default&q=supertux&src=typd
+[2015/12/21 10:52:06] <alket> wow
+[2015/12/21 10:52:16] <alket> it looks like every minute, new post
+[2015/12/21 10:54:59] <Not-e81f> [02supertux] 07tobbi commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vEmJF
+[2015/12/21 10:55:21] <Tobbi> Now it stopped.
+[2015/12/21 10:55:30] <Tobbi> I blame you, alket :P
+[2015/12/21 10:56:14] <alket> lol
+[2015/12/21 10:57:20] @ brmbrmcar joined channel #supertux
