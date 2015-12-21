@@ -27606,3 +27606,5 @@
 [2015/12/21 02:37:04] @ Hume2 joined channel #supertux
 [2015/12/21 02:37:08] @ Mode +v Hume2 by ChanServ
 [2015/12/21 02:42:36] <Hume2> Hi all!
+[2015/12/21 02:49:16] <Hume2> I'm so raged on Windows 8.
+[2015/12/21 02:59:24] <Not-e81f> [02supertux] 07akar1nchan starred 03supertux - 13http://git.io/vELzD
