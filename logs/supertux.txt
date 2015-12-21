@@ -28941,3 +28941,20 @@
 [2015/12/21 16:59:13] <Karkus> jesusalva: Okay, I guess I do like your idea.
 [2015/12/21 16:59:36] <Karkus> jesusalva: There are still problems, but it's definitely worth considering.
 [2015/12/21 16:59:49] <jesusalva> Tell the problems, so they can be fixed. ;)
+[2015/12/21 17:00:10] <Karkus> jesusalva: How does the player know which object they need?
+[2015/12/21 17:01:23] <jesusalva> Worth of considering. I think on those "!" boxes, but without saying the object in an explicit way, but giving an idea of: "This gap is too big to jump. I'll need something which can be used as a bridge to cross it."
+[2015/12/21 17:02:22] <jesusalva> Then you find a ladder/wooden plank which when you met you say "This (item) is very big. I wonder how it will fit in my pockets, I better leave it at my (raft)"
+[2015/12/21 17:03:05] <jesusalva> The idea is to the player think if he couldn't use the ladder to cross the gap, instead of saying "I need a big wooden plank or something of the sort to cross this gap."
+[2015/12/21 17:03:25] <jesusalva> (Unless you think that explicit is better. No objections from me.)
+[2015/12/21 17:05:45] <Karkus> jesusalva: My opinion on this is that it's somewhat ambiguous. I don't see any advantage of this over just giving the player the world after they complete the previous one...
+[2015/12/21 17:06:02] <Karkus> jesusalva: As in - the player might just be confused
+[2015/12/21 17:06:55] <jesusalva> As long that he knows that he must find Penny, and there may be some interesting stuff to north, it should be all right.
+[2015/12/21 17:07:27] <jesusalva> But the player is also free to explore the whole world and select the order he wants to do things: As long he is still following the "blue dots" sequence.
+[2015/12/21 17:07:49] <jesusalva> (The simple scheme I gave is there: http://i1253.photobucket.com/albums/hh600/pazkero/simple_linearity.png  )
+[2015/12/21 17:08:13] <jesusalva> (Because the other one is too complex, so let's not assume that many worlds anyway)
+[2015/12/21 17:09:16] <Karkus> jesusalva: To be honest, I can't picture it working with our graphics style either...
+[2015/12/21 17:09:37] <Karkus> Would it be like a normal worldmap?
+[2015/12/21 17:10:13] <alket> jesusalva: looks nice
+[2015/12/21 17:12:32] <Karkus> jesusalva: Idk. Can we see what other people think later?
+[2015/12/21 17:14:04] <jesusalva> Idk?
+[2015/12/21 17:14:09] @ leyyin_ joined channel #supertux
