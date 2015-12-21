@@ -28985,3 +28985,6 @@
 [2015/12/21 17:30:09] @ Quit: alket: Quit: Good Night :)
 [2015/12/21 17:30:40] @ alket joined channel #supertux
 [2015/12/21 17:38:12] @ Quit: Karkus: Quit: Division By Zero
+[2015/12/21 17:50:36] @ Quit: alket: Quit: Good Night :)
+[2015/12/21 17:51:28] @ Quit: leyyin_: Quit: So Long, and Thanks for All the Fish
+[2015/12/21 17:57:56] @ stewboy joined channel #supertux
