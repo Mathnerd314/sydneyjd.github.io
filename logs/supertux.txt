@@ -28039,3 +28039,46 @@
 [2015/12/21 07:59:12] <Tobbi> Without a stacktrace it|s hard to find out what|s wrong.
 [2015/12/21 07:59:44] <leyyin> Tobbi, pray to the GCC gods
 [2015/12/21 07:59:57] <Tobbi> leyyin: Gosh, no.
+[2015/12/21 08:00:03] <Tobbi> They are eccentric.
+[2015/12/21 08:00:32] <Karkus> stewboy: I don't get a crash...
+[2015/12/21 08:00:47] <stewboy> weird, because it's happening reliably for me
+[2015/12/21 08:01:08] <Tobbi> Is there GDB for windows?
+[2015/12/21 08:01:22] <Tobbi> leyyin: Wait, why pray to the GCC gods? Is GDB part of GCC?
+[2015/12/21 08:01:48] <Karkus> Tobbi: GNU toolkit, with make etc.
+[2015/12/21 08:01:51] <leyyin> gdb - The GNU Debugger
+[2015/12/21 08:01:54] <Tobbi> I know.
+[2015/12/21 08:01:59] <leyyin> gcc - GNU project C and C++ compiler
+[2015/12/21 08:02:07] <Tobbi> Okay...
+[2015/12/21 08:02:16] <Tobbi> Right, a debugger is not a compiler.
+[2015/12/21 08:02:24] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98108890
+[2015/12/21 08:02:33] <brmbrmcar> Don't anyone ever ask me to use git agin.
+[2015/12/21 08:02:54] <Tobbi> brmbrmcar: Can you use git for me? :P
+[2015/12/21 08:03:15] @ Quit: brmbrmcar: Quit: Page closed
+[2015/12/21 08:03:21] @ brmbrmca1 joined channel #supertux
+[2015/12/21 08:03:28] @ brmbrmca1 is now known as brmbrmcar
+[2015/12/21 08:03:46] <brmbrmcar> GIT IS EVIL
+[2015/12/21 08:04:36] <stewboy> wiki working again
+[2015/12/21 08:04:56] <Karkus> stewboy: Ah, good
+[2015/12/21 08:05:08] <Hume2> brmbrmcar: So you think that manual versioning is less evil?
+[2015/12/21 08:05:20] <Tobbi> His manual versioning is a USB drive.
+[2015/12/21 08:05:21] <Tobbi> or whatever.
+[2015/12/21 08:06:04] <brmbrmcar> ANYTHING THAT DOESN'T RANDOMLY DRAIN MY DISK SPACE AND HIDE FILES FOR MONTHS
+[2015/12/21 08:06:35] <brmbrmcar> It is slowly reversing...
+[2015/12/21 08:06:59] <Tobbi> brmbrmcar: Your disk space is just low then.
+[2015/12/21 08:07:03] <brmbrmcar> What else did you ask, Tobbi?
+[2015/12/21 08:07:08] <Tobbi> brmbrmcar: Nothing.
+[2015/12/21 08:07:17] <brmbrmcar> No, to do.
+[2015/12/21 08:08:19] <brmbrmcar> Tobbi: No, all git's fault!
+[2015/12/21 08:08:23] <Hume2> Tobbi: You are wasting your nerves.
+[2015/12/21 08:08:24] <Tobbi> right.
+[2015/12/21 08:08:32] <Tobbi> Hume2: I am indeed.
+[2015/12/21 08:08:37] <brmbrmcar> git is malware.
+[2015/12/21 08:09:51] <Tobbi> brmbrmcar: Stop or I will link that git hitler video again.
+[2015/12/21 08:10:35] <brmbrmcar> Fine. Show me it!
+[2015/12/21 08:11:04] <Tobbi> brmbrmcar: https://www.youtube.com/watch?v=CDeG4S-mJts
+[2015/12/21 08:11:38] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±2] 13http://git.io/vEqeY
+[2015/12/21 08:11:40] <Not-e81f> [02supertux] 07Hume2 03553cfd4 - Removed duplicate functions in haywire.cpp
+[2015/12/21 08:11:41] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98111955
+[2015/12/21 08:11:42] <stewboy> bed
+[2015/12/21 08:11:43] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- Would you like to know more?
+[2015/12/21 08:12:44] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98111955
