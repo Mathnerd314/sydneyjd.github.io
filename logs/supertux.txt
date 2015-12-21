@@ -27740,3 +27740,28 @@
 [2015/12/21 04:54:28] <Hume2> leyyin: It's in editor branch.
 [2015/12/21 04:54:37] <Hume2> origin/editor
 [2015/12/21 04:59:54] @ Quit: jeezy: Ping timeout: 256 seconds
+[2015/12/21 05:00:28] @ Quit: giby_the_kid: Ping timeout: 256 seconds
+[2015/12/21 05:03:52] @ Quit: xet7: Ping timeout: 256 seconds
+[2015/12/21 05:03:53] @ Quit: lumidify: Ping timeout: 256 seconds
+[2015/12/21 05:05:18] @ Joined channel #supertux
+[2015/12/21 05:05:18] @ Topic is "MILESTONE 2 RELEASED | https://github.com/SuperTux | Stable: 0.4.0 | mailing list: supertux-devel@lists.lethargik.org | Channel log http://sydneyjd.github.io/logs/ | nightly builds http://download.supertuxproject.org/download/"
+[2015/12/21 05:05:18] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-12-20 14:44:19 -0500
+[2015/12/21 05:05:20] @ Mode +nt by verne.freenode.net
+[2015/12/21 05:05:29] @ Mode +o red_bot by ChanServ
+[2015/12/21 05:06:19] @ xet7_ joined channel #supertux
+[2015/12/21 05:06:37] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03editor [+0/-0/±1] 13http://git.io/vEtfL
+[2015/12/21 05:06:38] <Not-e81f> [02supertux] 07Hume2 039bbf08c - Added options for layer objects
+[2015/12/21 05:06:40] <Not-e81f> [02supertux] 07Hume2 synchronize pull request 03#269: WIP Level Editor - 13http://git.io/vEe13
+[2015/12/21 05:06:41] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98086009
+[2015/12/21 05:06:43] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98086019
+[2015/12/21 05:06:59] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98084981
+[2015/12/21 05:07:31] <Hume2> Very pending.
+[2015/12/21 05:10:23] @ leyyin_ joined channel #supertux
+[2015/12/21 05:12:18] @ lumidify1 joined channel #supertux
+[2015/12/21 05:12:51] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98084971
+[2015/12/21 05:13:43] <Not-e81f> [02supertux] 07EliBing starred 03supertux - 13http://git.io/vEtJp
+[2015/12/21 05:14:48] @ Quit: lumidify: *.net *.split
+[2015/12/21 05:14:49] @ Quit: leyyin: *.net *.split
+[2015/12/21 05:14:49] @ Quit: xet7: *.net *.split
+[2015/12/21 05:14:50] @ Quit: giby_the_kid: *.net *.split
+[2015/12/21 05:14:58] @ Quit: jeezy: *.net *.split
