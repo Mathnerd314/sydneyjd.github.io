@@ -28277,3 +28277,17 @@
 [2015/12/21 09:54:03] @ irungentoo joined channel #supertux
 [2015/12/21 09:55:56] <Not-e81f> [02supertux] 07AyosNexz starred 03supertux - 13http://git.io/vEqPf
 [2015/12/21 09:55:58] <Not-e81f> [02supertux] 07AyosNexz forked the repository - 13http://git.io/vEqPf
+[2015/12/21 10:01:03] @ Quit: brmbrmcar: Quit: Found terminal
+[2015/12/21 10:01:20] @ brmbrmcar joined channel #supertux
+[2015/12/21 10:07:10] @ Tobbi joined channel #supertux
+[2015/12/21 10:07:10] @ Mode +o Tobbi by ChanServ
+[2015/12/21 10:11:32] <alket> Tobbi: how are you supposed to use this tile http://i.imgur.com/8GTOc93.png
+[2015/12/21 10:11:38] <alket> it isn't in grid
+[2015/12/21 10:12:00] <Tobbi> alket: huh? These are different tiles.
+[2015/12/21 10:12:13] <alket> which are the right tiles ?
+[2015/12/21 10:12:18] <alket> snowy/icy ones
+[2015/12/21 10:13:25] <Tobbi> alket: I mean: This is an image consisting of different tiles...
+[2015/12/21 10:13:55] <alket> Tobbi: yeah, its located in /home/alket/src/supertux/data/images/tiles/snow/convex.png
+[2015/12/21 10:14:15] <Tobbi> alket: So, in order to use them, you open the editor and use them :P
+[2015/12/21 10:14:33] <Tobbi> Each tile has an id.
+[2015/12/21 10:14:47] <Tobbi> So each part of that image has a different ID.
