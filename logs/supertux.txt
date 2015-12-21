@@ -28715,3 +28715,39 @@
 [2015/12/21 14:14:29] <mt> I think jesusalva is right we need to fix the story
 [2015/12/21 14:14:31] <brmbrmcar> Just follow the plans!
 [2015/12/21 14:14:45] <Hume2> LOL there are no plans.
+[2015/12/21 14:15:03] <mt> lumidify: sure, I'd possibly think even items the player doesn't know they exist before they find them
+[2015/12/21 14:15:21] <brmbrmcar> In the wiki!
+[2015/12/21 14:15:44] <mt> brmbrmcar: the plans in the wiki are old and not relevant anymore
+[2015/12/21 14:15:57] <Hume2> Exactly.
+[2015/12/21 14:16:00] <mt> (don't forget what I told you before about being annoying)
+[2015/12/21 14:17:09] <brmbrmcar> Right.
+[2015/12/21 14:17:13] <brmbrmcar> That's it.
+[2015/12/21 14:17:15] @ brmbrmcar left channel #supertux ()
+[2015/12/21 14:19:09] @ alket joined channel #supertux
+[2015/12/21 14:21:09] <Karkus> I think we need to understand that we only have a few active developers, and that planning millions of ideas for the story will likely result in them being archived and never looked at again.
+[2015/12/21 14:21:35] <Karkus> A story outline would be nice, though
+[2015/12/21 14:21:41] <mt> discussion in PM with Karkus: https://ptpb.pw/V3fx
+[2015/12/21 14:22:30] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#282: "double iconv" causes cmake to always fail on systems that have iconv - 13http://git.io/vEYaR
+[2015/12/21 14:23:36] <Karkus> So, everyone: how can the forest world add to what we have currently?
+[2015/12/21 14:23:44] <Karkus> Story-wise
+[2015/12/21 14:24:00] <jesusalva> http://i1253.photobucket.com/albums/hh600/pazkero/simple.png << Simple draft, sorry for poor art
+[2015/12/21 14:24:22] <Not-e81f> [02supertux] 07yurivict opened issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vEYVk
+[2015/12/21 14:24:46] <jesusalva> Just a proof-of-concept, which should be doable in less than half-year with few developers, but is still just a proof of concept, you'll expect more elaborated things on it.
+[2015/12/21 14:24:56] <Not-e81f> [02supertux] 07yurivict commented on issue 03#282: "double iconv" causes cmake to always fail on systems that have iconv - 13http://git.io/vEYVs
+[2015/12/21 14:25:29] <Not-e81f> [02supertux] 07yurivict commented on issue 03#282: "double iconv" causes cmake to always fail on systems that have iconv - 13http://git.io/vEYVC
+[2015/12/21 14:26:07] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#282: "double iconv" causes cmake to always fail on systems that have iconv - 13http://git.io/vEYVi
+[2015/12/21 14:27:05] <jesusalva> For starters, the hidden fortress could be a single-level which the only obstacle is the gap, and after completing it, a "victory text"
+[2015/12/21 14:27:05] <jesusalva> And the glaciers can be 3 levels, on the end you find a ladder -- or anything fancy which can help you to cross the gap.
+[2015/12/21 14:27:34] <mt> so you can't use the ship to get to the tropical area/ghostforest?
+[2015/12/21 14:27:51] <jesusalva> Of course, with more levels, and more elaborated, it would be much more fun, you could get items which you have no idea why is that, and then as you advance "Ah! That item was for that".
+[2015/12/21 14:27:59] <jesusalva> mt: The idea rely on that
+[2015/12/21 14:28:13] <mt> Sounds great, was just making that sure.
+[2015/12/21 14:28:21] <Karkus> jesusalva: This isn't how items work in SuperTux though...
+[2015/12/21 14:28:23] <mt> Needs some code-related work as well, however.
+[2015/12/21 14:28:43] <jesusalva> Yes, but if you want a quick release, two variables may be enough.
+[2015/12/21 14:29:25] <jesusalva> Not sure if you can hide something from the world map. If you can't, you can add two challenges on the "final fortress level", which you need to complete the two previous levels.
+[2015/12/21 14:29:34] <mt> For the glaciers we could keep it relatively simple at the beginning
+[2015/12/21 14:29:42] <jesusalva> Or some item which helps you to use the ladder, which can be found on the ghost forest.
+[2015/12/21 14:29:49] <jesusalva> mt: Yes, exactly.
+[2015/12/21 14:29:51] <mt> Say, the player receives an ice floe or an iceberg
+[2015/12/21 14:29:58] <mt> instead of using the ship
