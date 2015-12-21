@@ -27982,3 +27982,60 @@
 [2015/12/21 07:44:12] <stewboy> must've been a few years ago that I made that!
 [2015/12/21 07:44:18] <Not-e81f> [02supertux] 07qubodup commented on issue 03#274: Positional audio exaggerated - 13http://git.io/vEt5Q
 [2015/12/21 07:44:32] <brmbrmcar> I have purged all of git, and never want to see itagain.
+[2015/12/21 07:45:09] <Hume2> stewboy: Unable to reproduce your bug with haywire.
+[2015/12/21 07:45:21] <stewboy> hmm interesting I'll see if I can make it happen again
+[2015/12/21 07:45:24] <stewboy> ah that's his name
+[2015/12/21 07:45:28] <stewboy> I'll stop calling him crazy bomb guy
+[2015/12/21 07:45:51] <Tobbi> This day is even busier than yesterday.
+[2015/12/21 07:47:23] <stewboy> yup happened again
+[2015/12/21 07:47:34] <stewboy> I saw a brief flash of his frozen sprite, and then supertux quit
+[2015/12/21 07:47:51] <Tobbi> stewboy: Do you know how to get a stacktrace?
+[2015/12/21 07:47:55] <stewboy> no... sorry
+[2015/12/21 07:48:13] <Tobbi> stewboy: Do you have a debugger installed? gdb?
+[2015/12/21 07:48:30] <stewboy> no... I'm a bit useless here
+[2015/12/21 07:48:53] <Tobbi> Hmm...
+[2015/12/21 07:49:08] <stewboy> ah no the wiki has stopped working for me
+[2015/12/21 07:49:12] <stewboy> Premature end of script headers: index.php
+[2015/12/21 07:49:17] <Not-e81f> [02supertux] 07damoon starred 03supertux - 13http://git.io/vEtFg
+[2015/12/21 07:49:19] <Not-e81f> [02supertux] 07Hume2 opened pull request 03#278: Added tiles for the new worlds - 13http://git.io/vEtFa
+[2015/12/21 07:49:21] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98108890
+[2015/12/21 07:49:30] <Tobbi> Any other guy who knows how to use a debugger so that I won't have to do it...?
+[2015/12/21 07:50:10] <leyyin> see Tobbi, only you know about computers :)
+[2015/12/21 07:50:17] <Tobbi> leyyin: :P Damn.
+[2015/12/21 07:50:24] <Karkus> Tobbi: Let me try to replicate the bug... what do I need to do?
+[2015/12/21 07:50:29] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98108890
+[2015/12/21 07:50:39] <Tobbi> stewboy: ^^
+[2015/12/21 07:50:54] <stewboy> I was noticing it in the level 'in the mountain' on incubator island
+[2015/12/21 07:51:02] <stewboy> I don't have an up-to-date level editor to make a test level
+[2015/12/21 07:51:03] <Tobbi> leyyin: okay, let me change my previous statement to something like "I know very little about computers"
+[2015/12/21 07:51:05] <stewboy> and the wiki has stopped working for me
+[2015/12/21 07:51:08] <Tobbi> :P
+[2015/12/21 07:51:48] <Karkus> stewboy: It's stopped working for me too...
+[2015/12/21 07:52:30] <Karkus> Tobbi: I guess maybe moving over to the GitHub wiki is our only option
+[2015/12/21 07:52:44] * Tobbi yells ANMASTER at the top of his voice.
+[2015/12/21 07:52:52] <Tobbi> Actually, I don|t know whether he|s even responsible.
+[2015/12/21 07:53:08] <Tobbi> Karkus: If the wiki stopped working, we have no way to get to its contents.
+[2015/12/21 07:53:18] * Karkus cries
+[2015/12/21 07:53:34] <stewboy> yeah it keeps happening, icicle falling on haywire while he's going haywire freezes him but then quits almost immediately
+[2015/12/21 07:54:19] <Not-e81f> [02supertux] 07loansindi starred 03supertux - 13http://git.io/vEtNL
+[2015/12/21 07:55:47] <Hume2> There should be a warning to not ask the highest instance first.
+[2015/12/21 07:55:52] <Karkus> stewboy: Don't you get an error message?
+[2015/12/21 07:56:05] @ jesusalva joined channel #supertux
+[2015/12/21 07:56:14] <Hume2> Windows. Do you think that it displays any?
+[2015/12/21 07:56:15] <Tobbi> Hey, jesusalva.
+[2015/12/21 07:56:25] <Tobbi> jesusalva: You missed the release party yesterday.
+[2015/12/21 07:56:28] <stewboy> no, no error message
+[2015/12/21 07:56:32] <jesusalva> Yes I know, Tobbi
+[2015/12/21 07:56:37] <Tobbi> okay.
+[2015/12/21 07:56:43] <Karkus> stewboy: You're on Windows?
+[2015/12/21 07:56:47] <stewboy> yes
+[2015/12/21 07:56:54] <stewboy> windows 7, 64 bit
+[2015/12/21 07:56:56] <Karkus> Okay
+[2015/12/21 07:57:24] <jesusalva> However yetersday was the... Hmm... how to say... It's a thing on church which I forgot the translation which is very special.
+[2015/12/21 07:58:28] <Tobbi> Christmas.
+[2015/12/21 07:58:29] <Tobbi> Wait, no.
+[2015/12/21 07:58:31] <Tobbi> :D
+[2015/12/21 07:58:53] <Hume2> Karkus: I'll look for potential weaknesses in haywire.cpp.
+[2015/12/21 07:59:12] <Tobbi> Without a stacktrace it|s hard to find out what|s wrong.
+[2015/12/21 07:59:44] <leyyin> Tobbi, pray to the GCC gods
+[2015/12/21 07:59:57] <Tobbi> leyyin: Gosh, no.
