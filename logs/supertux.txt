@@ -27906,3 +27906,79 @@
 [2015/12/21 07:29:29] <stewboy> I already have for some of the levels
 [2015/12/21 07:29:30] <Tobbi> brmbrmcar: Also, add him to data/AUTHORS
 [2015/12/21 07:29:49] <Tobbi> Including his wish to release it under CC-BY
+[2015/12/21 07:30:24] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98105934
+[2015/12/21 07:30:32] <Tobbi> stewboy: Anything else, or only CC-BY (which includes commercial use, etc.
+[2015/12/21 07:30:59] <Tobbi> stewboy: https://creativecommons.org/licenses/
+[2015/12/21 07:31:17] <Tobbi> Scroll down until "The Licenses"
+[2015/12/21 07:31:39] <alket> and make sure it says Free Culture license
+[2015/12/21 07:31:50] <stewboy> CC BY-NC I think
+[2015/12/21 07:32:01] <brmbrmcar> Wait there. My disk space has gone to 2.3gb and I'm not in a good mood about it!
+[2015/12/21 07:32:55] <Tobbi> brmbrmcar: Can you please add to AUTHORS
+[2015/12/21 07:33:33] <Not-e81f> [02supertux] 07johnjohnsp1 forked the repository - 13http://git.io/vEt9z
+[2015/12/21 07:33:34] <brmbrmcar> WAIT
+[2015/12/21 07:33:44] <Tobbi> Hume2: We should really have donations that only further the goal of preventing my burnout.
+[2015/12/21 07:33:46] <Tobbi> :P
+[2015/12/21 07:34:04] <leyyin_> a lot of german open source people are german, weird
+[2015/12/21 07:34:12] <Not-e81f> [02supertux] 07fvmrc starred 03supertux - 13http://git.io/vEt9X
+[2015/12/21 07:34:12] <leyyin_> *-german
+[2015/12/21 07:34:14] <Not-e81f> [02supertux] 07MattMattV starred 03supertux - 13http://git.io/vEt91
+[2015/12/21 07:34:27] <Tobbi> leyyin_: A lot of German open source projects are german? :D
+[2015/12/21 07:34:30] <Tobbi> Whoat?
+[2015/12/21 07:34:34] <leyyin_> minus the first german
+[2015/12/21 07:34:36] <alket> "german open source" people, nice
+[2015/12/21 07:34:44] <alket> free software finally is for people too
+[2015/12/21 07:34:49] <alket> I will choose MIT for myself xD
+[2015/12/21 07:35:01] <Tobbi> Ah.
+[2015/12/21 07:35:15] <Hume2> Tobbi: You can, but i'm not giving you any money :P
+[2015/12/21 07:35:19] @ leyyin_ is now known as leyyin
+[2015/12/21 07:35:45] <alket> leyyin: I noticed that too, majority are germans in free software
+[2015/12/21 07:35:50] <stewboy> oh whoops I got supertux to crash after landing on that crazy bomb thing... just quit unexpectedly
+[2015/12/21 07:35:51] <Tobbi> leyyin: I want to accept donations in order to prevent the first signs of burnout... (which includes using these donations to pay for naked women giving me a massage)
+[2015/12/21 07:35:53] @ Karkus joined channel #supertux
+[2015/12/21 07:35:53] @ Mode +o Karkus by ChanServ
+[2015/12/21 07:35:57] <stewboy> not sure if it was related to the bomb
+[2015/12/21 07:36:09] <alket> wb Karkus
+[2015/12/21 07:36:39] <Karkus> Hello, alket
+[2015/12/21 07:36:43] <leyyin> tbh, it would be nice, if you can make levels with tiled, multiple people developing one awesome tiled editor
+[2015/12/21 07:36:53] <Tobbi> leyyin: Not that again.
+[2015/12/21 07:36:56] <Tobbi> :D
+[2015/12/21 07:37:06] <Tobbi> leyyin: Just as Karkus shows up you start this discussion again.
+[2015/12/21 07:37:07] <leyyin> you're welcome
+[2015/12/21 07:37:16] <leyyin> I saw the issue
+[2015/12/21 07:37:23] <leyyin> and the comment by the tiled dev
+[2015/12/21 07:37:40] <Tobbi> Ah.
+[2015/12/21 07:37:47] <Karkus> leyyin: I haven't looked yet
+[2015/12/21 07:37:47] <stewboy> oh it happened again
+[2015/12/21 07:37:50] <alket> Karkus: tiled main dev commented on your issue
+[2015/12/21 07:37:56] <Tobbi> stewboy: Get us a stacktrace.
+[2015/12/21 07:38:10] <Tobbi> leyyin: We need an export plugin or need to modify supertux...
+[2015/12/21 07:38:14] <Tobbi> Whatever is more suited.
+[2015/12/21 07:38:18] <stewboy> I landed on the crazy bomb guy, a stalactite fell on him as he was running around, and supertux quit
+[2015/12/21 07:38:25] <Karkus> Tobbi: We are getting a bit of attention...
+[2015/12/21 07:38:31] <stewboy> I'll see if the same action has the same result
+[2015/12/21 07:38:32] <Tobbi> Karkus: I noticed that.
+[2015/12/21 07:38:32] <leyyin> Tobbi, how did you manage to have so many editors for supertux? :P
+[2015/12/21 07:38:32] @ Quit: brmbrmcar: Quit: Found terminal
+[2015/12/21 07:38:46] <Karkus> leyyin: Not Tobbi's fault
+[2015/12/21 07:38:48] <Tobbi> leyyin: I don't know. mostly happened before me.
+[2015/12/21 07:39:03] <leyyin> this is a big mess ;), bring the cleaner
+[2015/12/21 07:39:03] <Hume2> stewboy: I'll look at it.
+[2015/12/21 07:39:40] <Tobbi> leyyin: It's the day post release. That normally means relaxing. And NOT considering what other work we have to do.
+[2015/12/21 07:40:02] <leyyin> it usually means fixing bugs for STK :P
+[2015/12/21 07:40:06] <leyyin> the day after release
+[2015/12/21 07:40:17] <Tobbi> leyyin: It means that for SuperTux as well, as far as I can find out.
+[2015/12/21 07:40:36] @ brmbrmcar joined channel #supertux
+[2015/12/21 07:40:50] <brmbrmcar> My disk space frandomly started to drain...
+[2015/12/21 07:41:38] @ Quit: brmbrmcar: Changing host
+[2015/12/21 07:41:38] @ brmbrmcar joined channel #supertux
+[2015/12/21 07:41:38] @ Quit: brmbrmcar: Changing host
+[2015/12/21 07:41:38] @ brmbrmcar joined channel #supertux
+[2015/12/21 07:42:03] <stewboy> was interesting to find 'jagged path' in incubator island, I had forgotten all about that level that I made
+[2015/12/21 07:42:22] <Tobbi> :D
+[2015/12/21 07:42:29] <Tobbi> stewboy: We almost did, too.
+[2015/12/21 07:42:36] <Tobbi> But we gave the bug tracker an extra round...
+[2015/12/21 07:42:46] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98105934
+[2015/12/21 07:43:33] <stewboy> oh and 'cave run'
+[2015/12/21 07:44:12] <stewboy> must've been a few years ago that I made that!
+[2015/12/21 07:44:18] <Not-e81f> [02supertux] 07qubodup commented on issue 03#274: Positional audio exaggerated - 13http://git.io/vEt5Q
+[2015/12/21 07:44:32] <brmbrmcar> I have purged all of git, and never want to see itagain.
