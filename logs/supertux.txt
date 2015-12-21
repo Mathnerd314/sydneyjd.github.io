@@ -28751,3 +28751,42 @@
 [2015/12/21 14:29:49] <jesusalva> mt: Yes, exactly.
 [2015/12/21 14:29:51] <mt> Say, the player receives an ice floe or an iceberg
 [2015/12/21 14:29:58] <mt> instead of using the ship
+[2015/12/21 14:31:09] <jesusalva> Could be, but I think the player will need something a bit more sturdy to reach the forest.
+[2015/12/21 14:31:11] <mt> jesusalva: re hide from worldmap: worldmaps are scriptable and layered as are levels
+[2015/12/21 14:31:40] <mt> there's even a secret area trigger in some worldmaps iirc
+[2015/12/21 14:32:02] <mt> (-> Bonus Island III)
+[2015/12/21 14:32:04] <jesusalva> mt: Then it's kinda simple, I guess.
+[2015/12/21 14:32:18] <jesusalva> As long that you can keep the variables.
+[2015/12/21 14:32:20] <mt> So, any better ideas than icebergs, icefloes?
+[2015/12/21 14:33:06] <jesusalva> You can get a raft
+[2015/12/21 14:33:25] <jesusalva> You can't go beyond the forest because the waters are too strong
+[2015/12/21 14:33:37] <mt> head8debian, giby, Tobbi (if you're reading the log): reading this backlog is worth it imho
+[2015/12/21 14:34:27] <mt> I like that idea, but am still waiting for better ideas :)
+[2015/12/21 14:34:53] @ brmbrmcar joined channel #supertux
+[2015/12/21 14:35:03] <brmbrmcar> Promise not to moanat me?
+[2015/12/21 14:35:54] <jesusalva> What I gave you is mostly a proof-of-concept focused on being easy/fast to do. It's very dry and simple so it can be done with minimal amount of work required.
+[2015/12/21 14:36:15] <mt> brmbrmcar: if you're staying polite and stop when we tell to stop it, we won't. Also can you try to follow https://freenode.net/policy.shtml?
+[2015/12/21 14:36:22] <jesusalva> But I would love hearing other ideas as well. It's nice to have options. ;)
+[2015/12/21 14:37:54] <brmbrmcar> mt: what?
+[2015/12/21 14:38:14] <mt> What's unclear in my statement?
+[2015/12/21 14:38:28] <brmbrmcar> Thelink!
+[2015/12/21 14:39:50] <mt> Mainly the part that you should listen to and not complain about the channel ops :)
+[2015/12/21 14:40:13] <mt> But yeah, as long as you're staying polite and stop when we tell you to stop some comments, you're fine.
+[2015/12/21 14:40:50] <Karkus> jesusalva: Okay, I like your idea, but I don't think having a final boss is a good idea. It could imply that SuperTux is completed.
+[2015/12/21 14:41:12] <Karkus> jesusalva: Right now, I mean.
+[2015/12/21 14:41:13] <brmbrmcar> "not complain about the channel ops". I hate this server!
+[2015/12/21 14:41:32] <mt> Karkus: we could make a forest boss that's not Nolok
+[2015/12/21 14:41:54] <Karkus> mt: We have a boss at the moment..
+[2015/12/21 14:42:08] <mt> and in the next release we can add another island (or multiple islands) and a method to get to it and another boss
+[2015/12/21 14:42:20] <brmbrmcar> I just think Tree Suck needs improving.
+[2015/12/21 14:42:21] <mt> and once the game is completed we can add some finals levels
+[2015/12/21 14:42:31] <jesusalva> Karkus: And on the last fortress, Nolok doesn't shows up -- so you know that something is missing. Or you add a message: "All right, Nolok is supposed to be here, but... where is he? Where is Penny? Where is everybody??"
+[2015/12/21 14:42:41] <Hume2> contest: http://forum.freegamedev.net/viewtopic.php?f=67&t=6697
+[2015/12/21 14:43:13] <mt> brmbrmcar: I agree with that part. That's also part of the process of fixing forest world.
+[2015/12/21 14:43:50] <mt> Hume2: can you summarize what we discussed here?
+[2015/12/21 14:43:59] <mt> and put it to the contest?
+[2015/12/21 14:44:07] <Karkus> Hume2: Ermm... design, as in plan, or design, as in create?
+[2015/12/21 14:44:17] <brmbrmcar> I will lose!
+[2015/12/21 14:44:25] <Karkus> brmbrmcar: probably
+[2015/12/21 14:44:25] <Hume2> mt: Well, I got lost.
+[2015/12/21 14:44:56] @ Quit: lumidify: Ping timeout: 240 seconds
