@@ -28271,3 +28271,9 @@
 [2015/12/21 09:43:46] @ brmbrmca1 left channel #supertux ()
 [2015/12/21 09:43:49] <Not-e81f> [02supertux] 07bjorn commented on issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vEqrO
 [2015/12/21 09:44:57] <Not-e81f> [02supertux] 04Error. AppVeyor build cancelled - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/160
+[2015/12/21 09:45:40] <brmbrmcar> head8debian: How doyou identify thre bot?
+[2015/12/21 09:48:23] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/21 09:48:58] <brmbrmcar> How do you identify the bot?
+[2015/12/21 09:54:03] @ irungentoo joined channel #supertux
+[2015/12/21 09:55:56] <Not-e81f> [02supertux] 07AyosNexz starred 03supertux - 13http://git.io/vEqPf
+[2015/12/21 09:55:58] <Not-e81f> [02supertux] 07AyosNexz forked the repository - 13http://git.io/vEqPf
