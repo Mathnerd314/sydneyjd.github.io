@@ -28790,3 +28790,74 @@
 [2015/12/21 14:44:25] <Karkus> brmbrmcar: probably
 [2015/12/21 14:44:25] <Hume2> mt: Well, I got lost.
 [2015/12/21 14:44:56] @ Quit: lumidify: Ping timeout: 240 seconds
+[2015/12/21 14:45:07] <brmbrmcar> In ?th place, it's brmbrmcar!
+[2015/12/21 14:45:22] <mt> I think, jesusalva, Karkus, correct me if I'm wrong, well, make Antarctica, and once you finish it, award the player a ship to get to some glacier levels on a separate small island
+[2015/12/21 14:45:26] @ lumidify joined channel #supertux
+[2015/12/21 14:45:49] <mt> After the player has solved these levels, they will get another item they'll have to use to get to the next island
+[2015/12/21 14:45:58] <mt> jesusalva proposed a raft
+[2015/12/21 14:46:09] <Karkus> This isn't an adventure game, though.
+[2015/12/21 14:46:19] <mt> But you can't get to another island with that as the water will be too strong
+[2015/12/21 14:46:44] <mt> Karkus: but these little changes will make the player keep interest
+[2015/12/21 14:47:05] <Karkus> mt: I think a good forest world would interest the player...
+[2015/12/21 14:47:23] <mt> you need to see the game as a whole
+[2015/12/21 14:47:24] <jesusalva> I think so, a ship or sort of. The water strength is for the lack of levels on inital releases, latter you get a better ship. The levels doesn't need to be linear, just like ghost forest, you don't need to do level A, then B, then C. You can do B, C and then A, as long that you need to complete the three to go past level D.
+[2015/12/21 14:47:28] <Karkus> Is the contest to plan a forest world, or create a forest world?
+[2015/12/21 14:47:49] <mt> Karkus: I think design in this context = create
+[2015/12/21 14:48:16] <jesusalva> I also think he wants to create one. After all, we are planning right now, correct?
+[2015/12/21 14:48:20] <Karkus> mt: Except, we don't have an agreed upon editor, or scripting API...
+[2015/12/21 14:48:25] <brmbrmcar> The ;evels cannot be ina bad difficulty order.
+[2015/12/21 14:48:45] <mt> Karkus: the C# editor works for now, as well as does flexlay for basic things
+[2015/12/21 14:48:51] <brmbrmcar> And countercurrent particually should only be optional.
+[2015/12/21 14:49:01] <jesusalva> brmbrmcar: Yes, maybe levels A B and C must have the same difficulty, and level D (and the ones after that) can be a little harder.
+[2015/12/21 14:49:09] <mt> And scripting API, well squirrel seems to be ok and agreed upon
+[2015/12/21 14:50:21] <Not-e81f> [02supertux] 07souryogurt starred 03supertux - 13http://git.io/vEYMi
+[2015/12/21 14:50:34] <Karkus> *sigh*
+[2015/12/21 14:51:04] <Karkus> Can't we do things in a linear order? At least, develop them in a linear order
+[2015/12/21 14:51:22] <Karkus> Planning to much doesn't get things done.
+[2015/12/21 14:51:28] <Karkus> *too
+[2015/12/21 14:51:37] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vEYDq
+[2015/12/21 14:52:03] <jesusalva> Karkus: I don't like too much the linear concept, because on my view, when you can choose where you want to go first, you can enjoy more.
+[2015/12/21 14:52:13] <Hume2> I know that making the next level slightly harder than the previous, IN SUPERTUX, results in this:
+[2015/12/21 14:52:18] <Karkus> jesusalva: No, I mean with development.
+[2015/12/21 14:52:38] <Karkus> jesusalva: We are planning new worlds when we haven't created the forest world yet.
+[2015/12/21 14:52:45] <Hume2> difficulty: 1, 2, 8, 20, 15, 14, 19, 18, 17, 19, 16...
+[2015/12/21 14:52:59] <mt> Karkus: we're not planning new worlds
+[2015/12/21 14:53:06] <mt> we're just keeping them in mind
+[2015/12/21 14:53:07] <jesusalva> Hume2: I think that the more consistent difficulty, the better.
+[2015/12/21 14:53:24] <Karkus> jesusalva: You are suggesting it shouldn't get harder?
+[2015/12/21 14:53:36] @ Quit: giby: Ping timeout: 240 seconds
+[2015/12/21 14:53:43] <jesusalva> No, but that we need to have a floor and a roof.
+[2015/12/21 14:53:45] <mt> Karkus: also, if you want me to create, say these glacier levels, I'll be glad to help with that
+[2015/12/21 14:53:51] <Hume2> This was just an example how it's going when someone tries to make it non-linear.
+[2015/12/21 14:53:54] <mt> I know how to use the editor
+[2015/12/21 14:53:55] <jesusalva> I'm afraid of the player not being able to complete the game.
+[2015/12/21 14:54:02] <Karkus> Hume2: Yes, I agree.
+[2015/12/21 14:54:25] <Karkus> jesusalva: If you can't complete it, you need to practice.
+[2015/12/21 14:54:59] <mt> by using that object needed principle you can actually make it pretty linear
+[2015/12/21 14:55:06] <brmbrmcar> I can pass every other level apart from Countercurrent.
+[2015/12/21 14:55:10] <jesusalva> The non-linearity I propose is still somewhat linear.
+[2015/12/21 14:55:38] <Hume2> The begining is exponencial and the rest is random-difficulty.
+[2015/12/21 14:55:40] <Karkus> mt: What objects? Can you give me examples?
+[2015/12/21 14:55:43] <mt> like, you still have to do the glacier levels, or complete world1 ot get the ship/raft
+[2015/12/21 14:55:51] <jesusalva> Antartica -> "easier" ; Glaciers, Forest -> "Not that hard" ; Final Fortess -> "hard"
+[2015/12/21 14:56:08] <mt> and when you're on forest island you can only get one object that's maybe for one or two more islands
+[2015/12/21 14:56:21] <mt> you have to finish them in order to get to another island
+[2015/12/21 14:56:23] <mt> and so on
+[2015/12/21 14:56:30] <Karkus> mt: What objects?
+[2015/12/21 14:56:47] <mt> say, after antartica, a ship; after glaciers, a raft
+[2015/12/21 14:56:58] <mt> after forest, some piece of wood or something to fly
+[2015/12/21 14:57:16] <Karkus> mt: Why not use the ship to get everywhere?
+[2015/12/21 14:57:25] <mt> something to fly -> but you can't fly over the mountains, which could be a next difficulty
+[2015/12/21 14:57:28] <jesusalva> Good point. It would need to be an incefloat.
+[2015/12/21 14:57:31] <jesusalva> *icefloat
+[2015/12/21 14:57:32] <mt> Karkus: simply to make it more diverse
+[2015/12/21 14:57:51] <Hume2> Or a locked cave entrance.
+[2015/12/21 14:58:00] <Karkus> I'm off. I've had enough of this nonsense.
+[2015/12/21 14:58:03] @ Karkus left channel #supertux ("Leaving")
+[2015/12/21 14:58:06] <Hume2> And then a broken cave lift.
+[2015/12/21 14:58:22] <mt> :/
+[2015/12/21 14:58:29] <mt> why is that nonsense?
+[2015/12/21 14:59:16] <Hume2> I think that it's only confusion.
+[2015/12/21 14:59:39] <mt> what I can clarify, if Karkus reads the irclog: I wouldn't require that much work
+[2015/12/21 14:59:50] <mt> possibly only changing the sprite of the ship
+[2015/12/21 15:00:00] <Hume2> I think so.
