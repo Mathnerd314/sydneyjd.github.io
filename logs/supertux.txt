@@ -27791,3 +27791,8 @@
 [2015/12/21 06:04:55] <Tobbi> :)
 [2015/12/21 06:14:14] <Not-e81f> [02flexlay] 07bojidar-bg starred 03flexlay - 13http://git.io/vEtlC
 [2015/12/21 06:14:29] <Not-e81f> [02supertux] 07qubodup commented on issue 03#43: SuperTux Death sound is too jaring - 13http://git.io/vEtl4
+[2015/12/21 06:16:00] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#274: Positional audio exaggerated - 13http://git.io/vEt8f
+[2015/12/21 06:17:06] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/21 06:21:32] <Not-e81f> [02supertux] 07qubodup commented on issue 03#274: Positional audio exaggerated - 13http://git.io/vEt45
+[2015/12/21 06:29:02] @ Quit: lumidify1: Quit: Leaving
+[2015/12/21 06:29:36] @ lumidify joined channel #supertux
