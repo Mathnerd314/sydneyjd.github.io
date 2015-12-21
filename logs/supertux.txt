@@ -27635,3 +27635,20 @@
 [2015/12/21 03:44:01] <Not-e81f> [02supertux] 07gregf starred 03supertux - 13http://git.io/vELPs
 [2015/12/21 03:44:13] <Hume2> 100th star!
 [2015/12/21 03:44:16] @ Quit: tuxdev_: Ping timeout: 264 seconds
+[2015/12/21 03:45:21] <Not-e81f> [02supertux] 07alketii starred 03supertux - 13http://git.io/vfECg
+[2015/12/21 03:45:29] <alket> nice, bot its fast
+[2015/12/21 03:46:19] <Hume2> ...or just everyone thinks that it's SuperTux Kart?
+[2015/12/21 03:47:33] <alket> when latest stk was released, i reported some bugs in st github issues :p
+[2015/12/21 03:47:59] <leyyin> supertux is just a demo for supertuxkart :P
+[2015/12/21 03:48:47] @ brmbrmcar joined channel #supertux
+[2015/12/21 03:48:58] <alket> lool
+[2015/12/21 03:49:26] <alket> well, now stk isn't going to have a release until 2025
+[2015/12/21 03:51:33] <brmbrmcar> On that link on softpedia, did yu notice anything?
+[2015/12/21 03:53:37] <alket> GNU/Linux ?
+[2015/12/21 03:53:49] <leyyin> stallman?
+[2015/12/21 03:54:29] <alket> brmbrmcar: what ?
+[2015/12/21 03:56:32] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vELM4
+[2015/12/21 03:57:17] <brmbrmcar> In the picture.
+[2015/12/21 03:57:45] <brmbrmcar> 3 things. At least.
+[2015/12/21 03:58:41] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vELMh
+[2015/12/21 03:59:23] <alket> nothing wrong here xD
