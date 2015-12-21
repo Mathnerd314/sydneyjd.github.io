@@ -28646,3 +28646,72 @@
 [2015/12/21 13:59:17] <jesusalva> How to explain...
 [2015/12/21 13:59:20] <mt> Can you try that again but with more constructive criticism?
 [2015/12/21 13:59:37] <Not-e81f> [02supertux] 07SHMAUS-Carter starred 03supertux - 13http://git.io/vEYlT
+[2015/12/21 14:00:29] <Hume2> jesuslava: When you can apply your critic towards a can of tomato soup, it's not stable to critique other people's work.
+[2015/12/21 14:00:51] <Hume2> s/jesuslava/jesusalva/
+[2015/12/21 14:00:51] <red_bot> Hume2 meant: "jesusalva: When you can apply your critic towards a can of tomato soup, it's not stable to critique other people's work."
+[2015/12/21 14:00:55] <jesusalva> Nothing in the game is wrong. The maps are correct, the worldmap is correct, the story is correct. But they don't connect one to other. You can refit the levels, or create a bridge on the story in a way that you need to do minimal changes to map.
+[2015/12/21 14:01:15] <jesusalva> Hume2: Understood nothing.
+[2015/12/21 14:01:25] <jesusalva> If I understood correctly.
+[2015/12/21 14:01:50] <Not-e81f> [02supertux] 07lumidify starred 03supertux - 13http://git.io/vEY8J
+[2015/12/21 14:02:53] <jesusalva> I like more freedom of choice, so I'm the style who would do a WORLD map, which literally haves the world on it: So you can enter on the ghost-forest world map, or in any other world map which was done.
+[2015/12/21 14:03:01] <Not-e81f> [02supertux] 07yurivict opened issue 03#282: [SuperTux/tinygettext] "double iconv" causes cmake to always fail on systems that have iconv - 13http://git.io/vEY8w
+[2015/12/21 14:03:11] <jesusalva> Like on matt's island. After getting the boat, you're free to roam though part of the planet.
+[2015/12/21 14:03:30] @ leyyin__ joined channel #supertux
+[2015/12/21 14:03:50] <jesusalva> And as we only have Antartica and Ghost Forest now, you would see the antartica on bottom of map, and the forest on top, and some glaciers on the middle: where latter you'll add a level.
+[2015/12/21 14:04:20] <jesusalva> You cannot go beyond the forest to more equatorial areas because you don't have any way to keep yourself cool in such journey.
+[2015/12/21 14:04:22] @ Quit: alket: Remote host closed the connection
+[2015/12/21 14:04:32] <Not-e81f> [02supertux] 07siddht1 forked the repository - 13http://git.io/v4qhy
+[2015/12/21 14:05:12] <jesusalva> However you can go to tropical areas like the forest, because you see, here on Brazil, sometimes swarms of penguins pop up here, meaning it's possible to travel to tropical areas (as long you don't stay on them for too long)
+[2015/12/21 14:05:22] @ Quit: leyyin_: Ping timeout: 246 seconds
+[2015/12/21 14:05:38] @ brmbrmcar joined channel #supertux
+[2015/12/21 14:06:35] * jesusalva wonders if anybody understood anything he just said.
+[2015/12/21 14:06:46] <brmbrmcar> I don'tknow.
+[2015/12/21 14:06:51] <brmbrmcar> I wasn't here.
+[2015/12/21 14:06:55] <Karkus> Hume2: Can you create a gist and draft it?
+[2015/12/21 14:06:59] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#282: "double iconv" causes cmake to always fail on systems that have iconv - 13http://git.io/vEYBW
+[2015/12/21 14:06:59] <jesusalva> Welcome back, brmbrmcar
+[2015/12/21 14:07:12] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#282: "double iconv" causes cmake to always fail on systems that have iconv - 13http://git.io/vEY8w
+[2015/12/21 14:07:14] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#282: "double iconv" causes cmake to always fail on systems that have iconv - 13http://git.io/vEY8w
+[2015/12/21 14:07:18] <brmbrmcar> It's beena few years now.
+[2015/12/21 14:07:32] <Hume2> Karkus: Yes, I can.
+[2015/12/21 14:07:48] <Karkus> mt, Hume2: Shall we just agree to redo the forest world entirely?
+[2015/12/21 14:07:54] <Karkus> Keep levels
+[2015/12/21 14:07:58] <Karkus> but change worldmap
+[2015/12/21 14:08:04] <Hume2> Karkus: I agree.
+[2015/12/21 14:08:09] <mt> let's rather try to understand what jesusalva means first
+[2015/12/21 14:08:17] <Hume2> :D
+[2015/12/21 14:08:25] <Hume2> * had no time to read that.
+[2015/12/21 14:08:28] <mt> jesusalva: so you think we should allow the user to travel around with a ship?
+[2015/12/21 14:08:48] <mt> we've actually already had something similar in 0.3.0 and 0.3.1
+[2015/12/21 14:08:54] <mt> but it got removed for some reason
+[2015/12/21 14:09:12] <lumidify> I just think the levels are a bit too independent; if they somehow relied on each other more, it would press people to go on.
+[2015/12/21 14:09:20] <jesusalva> My idea is pretty basic. We received a map from Penny with Nolok fortress, right?
+[2015/12/21 14:09:28] <Hume2> mt: Yes, but it was only travel from A to B.
+[2015/12/21 14:09:37] <mt> Hume2: I know
+[2015/12/21 14:09:50] <jesusalva> But it's kinda obvious none of them is the correct, if I was Nolok, I would have a secret fortress.
+[2015/12/21 14:10:03] <Hume2> jesusalva: That way it would be possible to travel to the final world skipping all the other ones.
+[2015/12/21 14:10:10] <Karkus> jesusalva: Bowser never bothered with that
+[2015/12/21 14:10:19] <jesusalva> Hume2: That's what is with the "go on"
+[2015/12/21 14:10:27] <mt> well actually kind of a good idea
+[2015/12/21 14:10:29] <jesusalva> We can A) hide the correct fortress
+[2015/12/21 14:10:39] <mt> Bowser never bothered, but we can do that different
+[2015/12/21 14:10:58] <jesusalva> Or B) each level on the final fortress rely on something (item, whatever) which you can only obtain cleaning a certain castle first.
+[2015/12/21 14:11:09] <Karkus> mt: I suppose he did... "Your princess is in another castle"
+[2015/12/21 14:11:17] <brmbrmcar> I clearly can't have anopnion on this.
+[2015/12/21 14:11:19] <mt> I think possibly a combination of A and B, jesusalva
+[2015/12/21 14:11:20] <lumidify> That's exactly what I thought - more "inter-level" items.
+[2015/12/21 14:11:26] <Hume2> I'm for B.
+[2015/12/21 14:11:59] <mt> make some castles only appear when you have collected some specific items and then make them unlock a final castle
+[2015/12/21 14:12:11] <Not-e81f> [02supertux] 07phprus starred 03supertux - 13http://git.io/vEY04
+[2015/12/21 14:12:13] <mt> -- my idea
+[2015/12/21 14:12:21] <Not-e81f> [02supertux] 07yurivict commented on issue 03#282: "double iconv" causes cmake to always fail on systems that have iconv - 13http://git.io/vEY00
+[2015/12/21 14:12:42] <Karkus> It's pointless talking about this right now. We need to fix the forest world first...
+[2015/12/21 14:12:49] <mt> no
+[2015/12/21 14:12:55] <Hume2> mt: Yeah, but try to think some those specific items.
+[2015/12/21 14:13:03] <jesusalva> In another one idea based on mt's, you go to the *correct* fortress and find a gap. But on another fortress where Penny isn't there, is a item which helps to cross it, or a map which shows that there is a secret passage to cross the gap.
+[2015/12/21 14:13:31] <mt> Karkus: if we fix forest world without having that discussed, we'd possibly have done much work for nothing
+[2015/12/21 14:13:57] <Karkus> mt: If we fix the forest world, people will have two stable worlds to play...
+[2015/12/21 14:14:22] <lumidify> The forest world already includes keys to unlock the fortress, so it would be interesting to have different items as jesusalva suggested.
+[2015/12/21 14:14:29] <mt> I think jesusalva is right we need to fix the story
+[2015/12/21 14:14:31] <brmbrmcar> Just follow the plans!
+[2015/12/21 14:14:45] <Hume2> LOL there are no plans.
