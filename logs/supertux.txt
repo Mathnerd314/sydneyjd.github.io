@@ -28929,3 +28929,5 @@
 [2015/12/21 15:51:33] @ claymore2 joined channel #supertux
 [2015/12/21 16:02:52] <Not-e81f> [02supertux] 07spork87 starred 03supertux - 13http://git.io/vEOkh
 [2015/12/21 16:08:24] <head8debian> Who is playing with OPS again? I get this annoying notification...
+[2015/12/21 16:27:55] @ Karkus joined channel #supertux
+[2015/12/21 16:27:56] @ Mode +o Karkus by ChanServ
