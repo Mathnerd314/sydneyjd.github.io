@@ -28398,3 +28398,36 @@
 [2015/12/21 11:27:50] <Not-e81f> [02supertux] 07maths22 commented on issue 03#275: Do not install external dependencies system-wide - 13http://git.io/vEmnG
 [2015/12/21 11:27:54] <mt> that also means = more possible devs
 [2015/12/21 11:28:19] <Tobbi> Yeah, definitely.
+[2015/12/21 11:30:36] <mt> https://github.com/SuperTux/supertux/commit/a11eaf4302e5cac4559471cb03f36ee46a13fafc
+[2015/12/21 11:30:38] <mt> uh
+[2015/12/21 11:30:45] <mt> reproducible-build idiots >_>
+[2015/12/21 11:31:26] <mt> If you're building from source, why do you even care to verify if it matches with what the package maintainer built
+[2015/12/21 11:32:49] <Tobbi> :D
+[2015/12/21 11:33:04] <Tobbi> Who cares...
+[2015/12/21 11:33:29] <Not-e81f> [02supertux] 07toutoul starred 03supertux - 13http://git.io/vEmCo
+[2015/12/21 11:33:34] <brmbrmcar> Is the Ubuntu apt-get build up?
+[2015/12/21 11:33:41] <brmbrmcar> I'll check...
+[2015/12/21 11:34:05] <Tobbi> Arch is on.
+[2015/12/21 11:34:07] <Not-e81f> [02supertux] 07LavosPhoenix starred 03supertux - 13http://git.io/vEmCN
+[2015/12/21 11:34:15] <Tobbi> https://twitter.com/ArchUpdates
+[2015/12/21 11:34:46] <brmbrmcar> Nooo.
+[2015/12/21 11:35:29] <Not-e81f> [02supertux] 07tobbi commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vEmWi
+[2015/12/21 11:36:40] <mt> brmbrmcar: ubuntu won't update anyway
+[2015/12/21 11:36:45] <mt> unless you're using xenial
+[2015/12/21 11:37:29] <mt> is it just me or does that halloween_1.ogg doesn't really sound like halloween
+[2015/12/21 11:37:32] <brmbrmcar> OK.
+[2015/12/21 11:37:43] <Tobbi> 120 stars.
+[2015/12/21 11:39:44] <mt> does someone want to notify the debian/ubuntu maintainers?
+[2015/12/21 11:39:48] <Tobbi> mt: Could be used for forest world...
+[2015/12/21 11:39:55] <Tobbi> that halloween song.
+[2015/12/21 11:40:01] <mt> I didn't say it's bad
+[2015/12/21 11:40:08] <mt> but it just doesn't sound halloween-ish
+[2015/12/21 11:41:43] <Tobbi> Probably not.
+[2015/12/21 11:42:38] <Tobbi> mt: How would I go about notifying the maintainers?
+[2015/12/21 11:42:59] <mt> look up their email address
+[2015/12/21 11:43:01] <mt> and write them
+[2015/12/21 11:43:23] <Tobbi> Ah.
+[2015/12/21 11:43:25] <Tobbi> Okay.
+[2015/12/21 11:43:43] <Tobbi> No, you can do that, if you want...
+[2015/12/21 11:43:45] <Tobbi> :P
+[2015/12/21 11:43:55] <Tobbi> I'm busy monitoring twitter :D
