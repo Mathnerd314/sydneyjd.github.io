@@ -27555,3 +27555,24 @@
 [2015/12/20 19:25:32] <Karkus> title: kill it
 [2015/12/20 19:25:46] <alket> gn
 [2015/12/20 19:25:48] @ Quit: alket: Quit: Good Night :)
+[2015/12/20 19:31:25] <Karkus> Tobbi: We don't need this anymore! https://github.com/SuperTux/cobble
+[2015/12/20 19:31:48] <Tobbi> Karkus: let's keep it for backup purposes?
+[2015/12/20 19:31:57] <Karkus> Tobbi: Of course
+[2015/12/20 19:32:05] <Karkus> Tobbi: Doing anything would be rude
+[2015/12/20 19:32:14] <Tobbi> yes
+[2015/12/20 19:32:32] <Karkus> Tobbi: But maybe test it to confirm it's out of date and then add a warning message?
+[2015/12/20 19:32:41] <Tobbi> yes
+[2015/12/20 19:32:57] <Karkus> head8debian: Hello?
+[2015/12/20 19:33:04] <Karkus> Tobbi: :D
+[2015/12/20 19:33:11] <Karkus> Tobbi: I'll do it
+[2015/12/20 19:33:26] <Tobbi> Alright.
+[2015/12/20 19:33:26] <Tobbi> I need to take a break now.
+[2015/12/20 19:33:28] <Karkus> Tobbi: Bye
+[2015/12/20 19:33:45] <Tobbi> But will actually look how the media coverage is tomorrow.
+[2015/12/20 19:33:45] <Karkus> Tobbi: media coverage?
+[2015/12/20 19:33:48] <Tobbi> Karkus: twitter etc.
+[2015/12/20 19:33:51] <Tobbi> reddit, maybe.
+[2015/12/20 19:33:54] <Tobbi> Googling.
+[2015/12/20 19:33:56] <Karkus> Tobbi: Ah, I see
+[2015/12/20 19:34:03] <Tobbi> Want to see how picked it up (if anyone)
+[2015/12/20 19:34:41] @ Quit: Tobbi: 
