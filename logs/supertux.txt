@@ -28926,3 +28926,4 @@
 [2015/12/21 15:37:40] <jesusalva> That's it for now. Just proofs-of-concept anyway, the 2nd of how the final product could end up looking -- but focus on the simple first. Or you may never end the game. You can also use the linearity numbers to base the difficulty.
 [2015/12/21 15:38:17] * jesusalva goes to eat something.
 [2015/12/21 15:39:52] @ Drangue is now known as alket
+[2015/12/21 15:51:33] @ claymore2 joined channel #supertux
