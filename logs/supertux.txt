@@ -27773,3 +27773,8 @@
 [2015/12/21 05:33:10] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98086019
 [2015/12/21 05:33:48] <alket> the Tiled developer commented on the issue xD
 [2015/12/21 05:38:38] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98086009
+[2015/12/21 05:50:28] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98086019
+[2015/12/21 05:56:50] <Not-e81f> [02supertux] 07qubodup opened issue 03#274: Positional audio exaggerated - 13http://git.io/vEtGP
+[2015/12/21 05:58:30] @ Tobbi joined channel #supertux
+[2015/12/21 05:58:30] @ Mode +o Tobbi by ChanServ
+[2015/12/21 05:59:58] <alket> wb Tobbi
