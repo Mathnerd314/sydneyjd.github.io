@@ -27602,3 +27602,7 @@
 [2015/12/21 01:51:49] <Not-e81f> [02supertux] 07Megadotzip starred 03supertux - 13http://git.io/vELZS
 [2015/12/21 02:29:30] <Not-e81f> [02supertux] 07ibrucekong starred 03supertux - 13http://git.io/vEL4s
 [2015/12/21 02:29:35] <Not-e81f> [02supertux] 07ibrucekong forked the repository - 13http://git.io/vEL4s
+[2015/12/21 02:37:00] <Not-e81f> [02supertux] 07ghstdncr starred 03supertux - 13http://git.io/vELBz
+[2015/12/21 02:37:04] @ Hume2 joined channel #supertux
+[2015/12/21 02:37:08] @ Mode +v Hume2 by ChanServ
+[2015/12/21 02:42:36] <Hume2> Hi all!
