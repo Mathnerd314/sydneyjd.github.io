@@ -28474,3 +28474,60 @@
 [2015/12/21 12:42:26] @ brmbrmca1 joined channel #supertux
 [2015/12/21 12:44:08] @ Quit: brmbrmcar: Quit: Reconnecting
 [2015/12/21 12:44:49] @ brmbrmca1 is now known as brmbrmcar
+[2015/12/21 12:45:08] <brmbrmcar> The other one will not be disconnecting.
+[2015/12/21 12:45:23] <brmbrmcar> *reconnecting
+[2015/12/21 12:45:56] <jesusalva> Hi head8debian
+[2015/12/21 12:45:59] <brmbrmcar> Tobbi:I said, I don't want to use gitagain.
+[2015/12/21 12:46:54] <jesusalva> head8debian: ✯
+[2015/12/21 12:47:06] <brmbrmcar> But I have a harsh workaround.
+[2015/12/21 12:47:43] <head8debian> jesusalva: :)
+[2015/12/21 12:48:18] <jesusalva> ...git is fairly simple, as long that you do as me and resume the universe to "git commit -a" "git add" "git pull" "git push" and "git init".
+[2015/12/21 12:48:32] <brmbrmcar> head8debian: What do you run to identify your bot?
+[2015/12/21 12:48:42] <jesusalva> The only 5 git commands I use. "git commit -a" is 90% of my experience with git.
+[2015/12/21 12:48:48] <brmbrmcar> jesusalva:I HATE GIT!
+[2015/12/21 12:49:18] * jesusalva uses a liquid nitrogen bottle to cool down.
+[2015/12/21 12:49:35] <jesusalva> brmbrmcar: Do you use svn then?
+[2015/12/21 12:50:35] * jesusalva likes git, but recognizes that when something traumatizes you, you hate it -- and nothing will change your mind about that.
+[2015/12/21 12:50:47] <jesusalva> It's a defense from your body.
+[2015/12/21 12:51:12] <jesusalva> We have... 6 OPs on this channel. That's a lot, I think.
+[2015/12/21 12:51:21] <head8debian> brmbrmcar: It runs /msg nickserv identify<>...
+[2015/12/21 12:51:34] <jesusalva> There is not many IRC channels with that many OPs online at once.
+[2015/12/21 12:52:16] <head8debian> jesusalva: Yes, but if something goes wrong it will get handled pretty quickly. :D
+[2015/12/21 12:52:24] @ You have been kicked from #supertux by head8debian (red_bot)
+[2015/12/21 12:52:25] <red_bot> head8debian: wanker!
+[2015/12/21 12:52:25] @ Joined channel #supertux
+[2015/12/21 12:52:25] @ Topic is "MILESTONE 2 RELEASED | https://github.com/SuperTux | Stable: 0.4.0 | mailing list: supertux-devel@lists.lethargik.org | Channel log http://sydneyjd.github.io/logs/ | nightly builds http://download.supertuxproject.org/download/"
+[2015/12/21 12:52:25] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-12-20 14:44:19 -0500
+[2015/12/21 12:52:25] @ Mode +o red_bot by ChanServ
+[2015/12/21 12:52:26] @ Mode +nt by verne.freenode.net
+[2015/12/21 12:52:32] <head8debian> red_bot: What?
+[2015/12/21 12:53:17] <Not-e81f> [02supertux] 07brmbrmcar opened pull request 03#280: Changed maximum coins to INT_MAX - 13http://git.io/vEmF4
+[2015/12/21 12:53:19] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98164580
+[2015/12/21 12:53:21] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/168
+[2015/12/21 12:53:27] <Not-e81f> [02supertux] 07brmbrmcar closed pull request 03#251: Changed coin limit to int_max - 13http://git.io/vRZfx
+[2015/12/21 12:53:44] <head8debian> jesusalva: :)
+[2015/12/21 12:54:16] <head8debian> Git is not to bad as long as you know how to reset your progress to master. :D
+[2015/12/21 12:54:18] <brmbrmcar> head8debian:OK...
+[2015/12/21 12:54:37] <brmbrmcar> How did you add that?
+[2015/12/21 12:54:42] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98164580
+[2015/12/21 12:54:54] * head8debian *facepalm*s...
+[2015/12/21 12:55:12] <brmbrmcar> red_bot is a very rude bot. brmbrmbot is much nicer.
+[2015/12/21 12:55:50] <leyyin_> head8debian, bloody wanker!
+[2015/12/21 12:56:08] @ You have been kicked from #supertux by head8debian (red_bot)
+[2015/12/21 12:56:17] <red_bot> head8debian: you hurt my feelings
+[2015/12/21 12:56:17] @ Joined channel #supertux
+[2015/12/21 12:56:18] @ Topic is "MILESTONE 2 RELEASED | https://github.com/SuperTux | Stable: 0.4.0 | mailing list: supertux-devel@lists.lethargik.org | Channel log http://sydneyjd.github.io/logs/ | nightly builds http://download.supertuxproject.org/download/"
+[2015/12/21 12:56:18] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-12-20 14:44:19 -0500
+[2015/12/21 12:56:18] @ Mode +o red_bot by ChanServ
+[2015/12/21 12:56:18] @ Mode +nt by verne.freenode.net
+[2015/12/21 12:56:26] <head8debian> brmbrmcar: That better? :D
+[2015/12/21 12:56:26] <brmbrmcar>  /kickban red_bot
+[2015/12/21 12:56:53] <brmbrmcar> head8debian: Doesn't make up for it.
+[2015/12/21 12:57:23] <brmbrmcar> Where in the ruby bot source code are these inappropriate words?
+[2015/12/21 12:58:35] <head8debian> brmbrmcar: Good question...
+[2015/12/21 12:58:43] <head8debian> I'd like to know.
+[2015/12/21 12:58:53] <head8debian> I'd also like to knwo what that word means.
+[2015/12/21 12:58:59] * jesusalva looks for import Tobbi, import head8debian or import brmbrmcar on source code for no avail.
+[2015/12/21 12:59:01] <head8debian> Well, maybe i don't want to know.
+[2015/12/21 12:59:11] <leyyin_> head8debian, I think it uses a dictionary
+[2015/12/21 12:59:31] <head8debian> leyyin_: I belive it uses an online dictionary as well...
