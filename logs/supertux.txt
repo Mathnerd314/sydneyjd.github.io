@@ -28982,3 +28982,6 @@
 [2015/12/21 17:28:42] <jesusalva> Karkus: yes, they could be.
 [2015/12/21 17:29:08] <jesusalva> By the way, if Bonus Islands weren't addons, they could be included on that worldmap.
 [2015/12/21 17:29:46] <jesusalva> Although I drew something simple. "Go north, go north, go back to antartica and then head east, still by ship/raft/whatever"
+[2015/12/21 17:30:09] @ Quit: alket: Quit: Good Night :)
+[2015/12/21 17:30:40] @ alket joined channel #supertux
+[2015/12/21 17:38:12] @ Quit: Karkus: Quit: Division By Zero
