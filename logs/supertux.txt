@@ -28195,3 +28195,20 @@
 [2015/12/21 08:58:00] <Not-e81f> [02supertux] 07svenstaro commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vEqck
 [2015/12/21 08:58:03] <leyyin> make viewing json much easier
 [2015/12/21 08:59:03] <Not-e81f> [02supertux] 07tobbi commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vEqc6
+[2015/12/21 09:00:37] <Tobbi> phew.
+[2015/12/21 09:03:38] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98116404
+[2015/12/21 09:05:34] <Tobbi> leyyin: We|re getting close to SuperTuxKart|s star count.
+[2015/12/21 09:05:43] <Tobbi> 113 stars already.
+[2015/12/21 09:06:26] <leyyin> call me when you have the fork number :P
+[2015/12/21 09:07:17] <Not-e81f> [02supertux] 07tobbi assigned pull request 03#279: CMakeLists: sort source files to get reproducible linking order - 13http://git.io/vEqmJ
+[2015/12/21 09:07:44] <Not-e81f> [02supertux] 07tobbi commented on issue 03#279: CMakeLists: sort source files to get reproducible linking order - 13http://git.io/vEq8p
+[2015/12/21 09:07:59] <Tobbi> leyyin: huh? 50 forks.
+[2015/12/21 09:08:14] <Tobbi> ok.
+[2015/12/21 09:10:23] <brmbrmcar> How many watchers?
+[2015/12/21 09:10:43] <Tobbi> 18.
+[2015/12/21 09:11:23] <brmbrmcar> OK.
+[2015/12/21 09:11:25] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vEqB4
+[2015/12/21 09:11:29] <brmbrmcar> I want 100.
+[2015/12/21 09:12:33] <Tobbi> brmbrmcar: You want to many things.
+[2015/12/21 09:12:37] <Tobbi> *so
+[2015/12/21 09:13:01] <Tobbi> That guy works for Ubisoft.
