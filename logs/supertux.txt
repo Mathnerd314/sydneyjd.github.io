@@ -27577,3 +27577,10 @@
 [2015/12/20 19:34:03] <Tobbi> Want to see how picked it up (if anyone)
 [2015/12/20 19:34:41] @ Quit: Tobbi: 
 [2015/12/20 19:51:05] @ Quit: bitlord: Ping timeout: 260 seconds
+[2015/12/20 20:19:36] <Not-e81f> [02supertux] 07Karkus476 opened issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vEI0Y
+[2015/12/20 20:20:04] <Karkus> head8debian: is this^ too much?
+[2015/12/20 20:22:05] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vEI0Y
+[2015/12/20 20:22:06] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vEI0Y
+[2015/12/20 20:22:08] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vEI0Y
+[2015/12/20 20:22:09] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vEI0Y
+[2015/12/20 20:22:11] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vEI0Y
