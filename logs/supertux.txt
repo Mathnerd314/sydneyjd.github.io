@@ -28436,3 +28436,18 @@
 [2015/12/21 11:55:52] @ lumidify joined channel #supertux
 [2015/12/21 11:57:41] <Tobbi> 'em t-online users...
 [2015/12/21 11:57:43] <Tobbi> always ping timeout.
+[2015/12/21 12:00:55] <Not-e81f> [02supertux] 07pakozm starred 03supertux - 13http://git.io/vEm2d
+[2015/12/21 12:05:54] @ alket joined channel #supertux
+[2015/12/21 12:09:10] <Not-e81f> [02supertux] 07tobbi closed pull request 03#263: Added warp function to console scripts - 13http://git.io/v0GpW
+[2015/12/21 12:09:11] <Not-e81f> [02supertux] 07tobbi pushed 032 commits to 03master [+0/-0/±6] 13http://git.io/vEmrO
+[2015/12/21 12:09:13] <Not-e81f> [02supertux] 07Pedro Costa 030be56c3 - Added warp function to console scripts
+[2015/12/21 12:09:14] <Not-e81f> [02supertux] 07Tobias Markus 036c7f809 - Merge pull request #263 from joserebelo/WarpFeature
+[2015/12/21 12:09:16] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98156339
+[2015/12/21 12:09:17] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/167
+[2015/12/21 12:09:19] <Not-e81f> [02supertux] 07tobbi commented on issue 03#263: Added warp function to console scripts - 13http://git.io/vEmr3
+[2015/12/21 12:10:39] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98156339
+[2015/12/21 12:12:50] <Tobbi> brmbrmcar: Squash https://github.com/SuperTux/supertux/pull/251 please?
+[2015/12/21 12:13:18] <Not-e81f> [02supertux] 07RefletDeflet starred 03supertux - 13http://git.io/vEmoA
+[2015/12/21 12:14:35] <head8debian> Tobbi: *
+[2015/12/21 12:14:44] <Tobbi> head8debian: what?
+[2015/12/21 12:14:53] <head8debian> Tobbi: I starred you. :D
