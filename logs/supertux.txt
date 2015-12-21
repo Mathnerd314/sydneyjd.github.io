@@ -27608,3 +27608,7 @@
 [2015/12/21 02:42:36] <Hume2> Hi all!
 [2015/12/21 02:49:16] <Hume2> I'm so raged on Windows 8.
 [2015/12/21 02:59:24] <Not-e81f> [02supertux] 07akar1nchan starred 03supertux - 13http://git.io/vELzD
+[2015/12/21 03:16:59] <Not-e81f> [02supertux] 07ghjzeus starred 03supertux - 13http://git.io/vELVF
+[2015/12/21 03:18:55] <Not-e81f> [02supertux] 07snigoal starred 03supertux - 13http://git.io/vELwG
+[2015/12/21 03:19:55] @ alket joined channel #supertux
+[2015/12/21 03:27:32] @ Hume2_ joined channel #supertux
