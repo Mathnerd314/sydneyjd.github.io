@@ -28560,3 +28560,49 @@
 [2015/12/21 13:28:00] <Karkus> Hello, Hume2
 [2015/12/21 13:28:03] <mt> Hi!
 [2015/12/21 13:28:18] <Hume2> Hello all!
+[2015/12/21 13:30:45] <Not-e81f> [02supertux] 07Hume2 synchronize pull request 03#278: Added tiles for the new worlds - 13http://git.io/vEtFa
+[2015/12/21 13:31:57] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#281: Add more unit tests - 13http://git.io/vEYtj
+[2015/12/21 13:31:58] <Not-e81f> [02supertux] 07maxteufel opened issue 03#281: Add more unit tests - 13http://git.io/vEYtj
+[2015/12/21 13:31:59] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#281: Add more unit tests - 13http://git.io/vEYtj
+[2015/12/21 13:32:36] <mt> Hume2: better start already including tests for the editor
+[2015/12/21 13:32:51] <mt> then we don't have to do that after merging it
+[2015/12/21 13:33:21] <brmbrmcar> Yeah.
+[2015/12/21 13:33:31] <Hume2> mt: Like test levels for editor?
+[2015/12/21 13:33:34] <brmbrmcar> The editor is for 0.4.1.
+[2015/12/21 13:33:41] <mt> Hume2: nope unit tests
+[2015/12/21 13:33:51] <mt> for making sure the editor works as expected
+[2015/12/21 13:33:57] <mt> see the tests/ directory
+[2015/12/21 13:34:00] <brmbrmcar> Which is next release.
+[2015/12/21 13:34:22] <mt> brmbrmcar: stay quiet about your 0.4.1 bullshit. seriously now
+[2015/12/21 13:34:44] <mt> the editor is not a bugfix. therefore it won't be 0.4.1 but 0.5.0
+[2015/12/21 13:34:47] <brmbrmcar> In my opinion it should be merged altogether.
+[2015/12/21 13:36:50] <Hume2> mt: I have never done such things, so I could do something wrong.
+[2015/12/21 13:37:02] <Hume2> ...but I'll try.
+[2015/12/21 13:37:03] <Not-e81f> [02supertux] 07EugeneUvin starred 03supertux - 13http://git.io/vEYYO
+[2015/12/21 13:37:07] <mt> yep just try it
+[2015/12/21 13:38:21] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#278: Added tiles for the new worlds - 13http://git.io/vEYYd
+[2015/12/21 13:38:41] <brmbrmcar> mt: Well, don't be shputing at me when you have to go through years of useless bugfixes which are all the same.
+[2015/12/21 13:39:04] <mt> brmbrmcar: you seem to understand something wrong there
+[2015/12/21 13:39:35] <mt> if there's enough bugs in 0.4.1, we'll fix then in master and release/0.4, and create 0.4.1 from the release/0.4 branch
+[2015/12/21 13:39:38] <Karkus> Hume2: If you've never done it before, now's a good time to learn. Tests are very handy for people new to the code to understand how it works, as well
+[2015/12/21 13:39:56] <mt> the editor can be merged, but if it is, the next release will be 0.5.0 and not 0.4.1
+[2015/12/21 13:40:16] <mt> however, it'd be nice to have something more, like a new world in 0.5.0
+[2015/12/21 13:40:34] <Karkus> mt: We need to fix/redo the forest world first
+[2015/12/21 13:40:36] <Hume2> mt: See my pull request.
+[2015/12/21 13:40:40] <brmbrmcar> But then you'll be complaining about there being NOWHERE NEAR enough releases to cover 1.0.0 at the end of it.
+[2015/12/21 13:40:54] <brmbrmcar> Milestone 3 is before 1.0.0!
+[2015/12/21 13:40:57] <mt> Hume2: #278? I just commented on that
+[2015/12/21 13:41:47] @ brmbrmcar has been kicked from #supertux by mt (can you stop it now? 0.y.0 or 1.y.z, I don't care! also, forget about Milestone x, we're using SemVer now.)
+[2015/12/21 13:41:50] <Hume2> Yes, that's nice.
+[2015/12/21 13:42:00] @ brmbrmcar joined channel #supertux
+[2015/12/21 13:42:44] <Hume2> So if I think well, the tests are here for testing whether the functions work.
+[2015/12/21 13:42:50] <mt> Karkus: hm we could do two level contests
+[2015/12/21 13:42:57] <brmbrmcar> I could see that kick coming...
+[2015/12/21 13:43:07] <mt> Karkus: also, what do we need to actually fix?
+[2015/12/21 13:43:12] <Karkus> mt: We need a good editor first...
+[2015/12/21 13:43:21] <Karkus> mt: It's a mess, in my opinion.
+[2015/12/21 13:43:35] <mt> I agree that forest world needs a clear structure
+[2015/12/21 13:43:45] <mt> And as you said, maybe some special features
+[2015/12/21 13:44:01] <mt> brmbrmcar: next time it's more than just a kick. you've been warned.
+[2015/12/21 13:44:58] <brmbrmcar> Where is the justice inthis world? Freedom of speech?
+[2015/12/21 13:45:00] @ brmbrmcar left channel #supertux ()
