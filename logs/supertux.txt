@@ -27667,3 +27667,27 @@
 [2015/12/21 04:06:07] <brmbrmcar> But look at your copy (if you actually installed one). Get into that exact position.
 [2015/12/21 04:12:52] @ tux|dude joined channel #supertux
 [2015/12/21 04:13:26] <Hume2> And can Flexlay make translucent lanterns?
+[2015/12/21 04:16:05] <brmbrmcar> I haven't a clue.
+[2015/12/21 04:16:21] <Hume2> My in-game editor can that.
+[2015/12/21 04:17:17] <brmbrmcar> Nice.
+[2015/12/21 04:17:38] <brmbrmcar> Do you know how those lanterns and blocks are done?
+[2015/12/21 04:17:47] <brmbrmcar> My blocks just stay solid.
+[2015/12/21 04:17:54] <brmbrmcar> Always.
+[2015/12/21 04:18:31] <Hume2> It looks like I'm really a pro for "What we currently have in SuperTux".
+[2015/12/21 04:18:51] <Hume2> Just add alpha to their colour.
+[2015/12/21 04:19:10] <Hume2> ...the alpha chanel
+[2015/12/21 04:19:29] <brmbrmcar> Alpha? OK...
+[2015/12/21 04:19:55] <brmbrmcar> Where is alpho channel?
+[2015/12/21 04:20:14] <Hume2> For example half-opaque red is: 1 0 0 0.5
+[2015/12/21 04:20:35] <brmbrmcar> Where is that option though?
+[2015/12/21 04:20:37] @ Quit: tux|dude: Ping timeout: 265 seconds
+[2015/12/21 04:20:41] <brmbrmcar> I don't see it.
+[2015/12/21 04:21:14] <Not-e81f> [02supertux] 07qubodup opened issue 03#273: Allow changing volume - 13http://git.io/vEL5Z
+[2015/12/21 04:21:41] <leyyin> Hume2, who are you talking to?
+[2015/12/21 04:21:52] <leyyin> karkus is not here :)
+[2015/12/21 04:22:05] <Hume2> leyyin: That thing you ignore.
+[2015/12/21 04:22:12] <leyyin> ah ok
+[2015/12/21 04:22:33] <Hume2> brmbrmcar: You open the level in the text editor and set the colour manually.
+[2015/12/21 04:26:15] <leyyin> hmm, the git version still displays 0.
+[2015/12/21 04:26:20] <leyyin> *0.3.5
+[2015/12/21 04:28:10] <brmbrmcar> Yes.
