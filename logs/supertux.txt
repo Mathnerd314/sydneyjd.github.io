@@ -27595,3 +27595,5 @@
 [2015/12/21 00:37:11] <Not-e81f> [02supertux] 07zofuthan forked the repository - 13http://git.io/vELIq
 [2015/12/21 00:56:57] @ xet7 joined channel #supertux
 [2015/12/21 00:59:10] <Not-e81f> [02supertux] 0752Jolynn starred 03supertux - 13http://git.io/vELtp
+[2015/12/21 01:00:19] <Not-e81f> [02supertux] 07tvvocold starred 03supertux - 13http://git.io/tvvocold
+[2015/12/21 01:01:58] @ Quit: tux|dude: Ping timeout: 265 seconds
