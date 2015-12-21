@@ -28431,3 +28431,8 @@
 [2015/12/21 11:43:43] <Tobbi> No, you can do that, if you want...
 [2015/12/21 11:43:45] <Tobbi> :P
 [2015/12/21 11:43:55] <Tobbi> I'm busy monitoring twitter :D
+[2015/12/21 11:45:40] <mt> one could write an email to that list https://lists.alioth.debian.org/cgi-bin/mailman/listinfo/pkg-games-devel
+[2015/12/21 11:54:51] @ Quit: lumidify: Ping timeout: 260 seconds
+[2015/12/21 11:55:52] @ lumidify joined channel #supertux
+[2015/12/21 11:57:41] <Tobbi> 'em t-online users...
+[2015/12/21 11:57:43] <Tobbi> always ping timeout.
