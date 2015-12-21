@@ -27612,3 +27612,26 @@
 [2015/12/21 03:18:55] <Not-e81f> [02supertux] 07snigoal starred 03supertux - 13http://git.io/vELwG
 [2015/12/21 03:19:55] @ alket joined channel #supertux
 [2015/12/21 03:27:32] @ Hume2_ joined channel #supertux
+[2015/12/21 03:32:15] @ leyyin joined channel #supertux
+[2015/12/21 03:33:15] <leyyin> are you famous yet? ;)
+[2015/12/21 03:34:11] <Hume2_> Me? I don't know.
+[2015/12/21 03:35:28] <alket> lol
+[2015/12/21 03:35:38] <leyyin> hahaha https://www.reddit.com/r/linux_gaming/comments/3xms2k/after_10_years_new_stable_release_for_supertux_040/cy6azcp
+[2015/12/21 03:36:03] <alket> lol, supertuxkart should change its name
+[2015/12/21 03:36:18] <leyyin> I agree, name sounds stupid ;)
+[2015/12/21 03:38:52] <alket> http://news.softpedia.com/news/super-mario-bros-clone-supertux-gets-new-major-release-after-10-years-in-the-making-497895.shtml
+[2015/12/21 03:39:08] <leyyin> sigh, softpedia
+[2015/12/21 03:39:30] <leyyin> who is Max Teufel ?
+[2015/12/21 03:40:04] <alket> i suppose its mt
+[2015/12/21 03:40:19] <alket> http://freegamer.blogspot.com/2015/12/supertux-040-milestone-2.html
+[2015/12/21 03:41:20] <Hume2_> Any idea when will Hume2 log out?
+[2015/12/21 03:41:43] <alket> Hume2: 250 seconds
+[2015/12/21 03:41:54] <alket> but if you are authed, you can do /ns ghost Hume2
+[2015/12/21 03:42:27] <Hume2_> It says that I may not ghost Hume2.
+[2015/12/21 03:42:43] <alket> Hume2_: auth with nickserv
+[2015/12/21 03:42:53] <Hume2> Never mind.
+[2015/12/21 03:43:10] @ Quit: Hume2_: Quit: Page closed
+[2015/12/21 03:43:25] <Hume2> I had mozila opened twice.
+[2015/12/21 03:44:01] <Not-e81f> [02supertux] 07gregf starred 03supertux - 13http://git.io/vELPs
+[2015/12/21 03:44:13] <Hume2> 100th star!
+[2015/12/21 03:44:16] @ Quit: tuxdev_: Ping timeout: 264 seconds
