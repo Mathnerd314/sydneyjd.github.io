@@ -28291,3 +28291,27 @@
 [2015/12/21 10:14:15] <Tobbi> alket: So, in order to use them, you open the editor and use them :P
 [2015/12/21 10:14:33] <Tobbi> Each tile has an id.
 [2015/12/21 10:14:47] <Tobbi> So each part of that image has a different ID.
+[2015/12/21 10:18:18] <tomreyn> https://paste.kde.org/putuqvcjx/fs7ejl
+[2015/12/21 10:18:30] <tomreyn> SuperTux 0.4.0 download stats
+[2015/12/21 10:19:53] <Tobbi> Looks good.
+[2015/12/21 10:20:02] <Tobbi> 2k downloads after just 24 hours.
+[2015/12/21 10:20:03] <alket> total: 3552
+[2015/12/21 10:20:09] <Tobbi> I guess that can be considered good.
+[2015/12/21 10:20:17] <alket> that can be considered awesome
+[2015/12/21 10:20:55] <Tobbi> alket: I have no way to compare...
+[2015/12/21 10:20:56] <Tobbi> really..
+[2015/12/21 10:22:05] <alket> well to this
+[2015/12/21 10:22:05] <alket> Minilens_android.apk: 195 downloads
+[2015/12/21 10:22:06] <alket> Minilens_linux_x64.zip: 180 downloads
+[2015/12/21 10:22:06] <alket> Minilens_linux_x86.zip: 77 downloads
+[2015/12/21 10:22:06] <alket> Minilens_macosx.zip: 24 downloads
+[2015/12/21 10:22:06] <alket> Minilens_windows_x64.zip: 162 downloads
+[2015/12/21 10:22:09] <alket> this is my game :S
+[2015/12/21 10:23:17] <Tobbi> alket: I once wrote a firefox extension that turns pages around, plays weird meditational music and plays a horse whee every 15 seconds. And that got less downloads that the above.
+[2015/12/21 10:23:28] <Tobbi> So, be proud.
+[2015/12/21 10:23:45] <alket> oh, so your game is better than my game ? :p
+[2015/12/21 10:24:01] <Tobbi> alket: That firefox extension wasn't a game.
+[2015/12/21 10:24:20] <alket> supertux-0.3.5a-win32-setup.exe: 14057 downloads
+[2015/12/21 10:24:34] <alket> it looks like it has a limit though
+[2015/12/21 10:27:56] <Tobbi> alket: Limit in download numbers?
+[2015/12/21 10:28:08] <Tobbi> Maybe MS 2 release generated far more traction than 0.3.5a
