@@ -28931,3 +28931,13 @@
 [2015/12/21 16:08:24] <head8debian> Who is playing with OPS again? I get this annoying notification...
 [2015/12/21 16:27:55] @ Karkus joined channel #supertux
 [2015/12/21 16:27:56] @ Mode +o Karkus by ChanServ
+[2015/12/21 16:48:28] <jesusalva> Hello Karkus
+[2015/12/21 16:54:50] <Karkus> Hello jesusalva, did you and mt come up with any decisions?
+[2015/12/21 16:56:24] <jesusalva> You can see in logs, right? I came up with two images to show how linear and how non-linear my idea was. mt did some useful comments and explained to Hume2 and the talk died after a while.
+[2015/12/21 16:57:32] <jesusalva> http://i1253.photobucket.com/albums/hh600/pazkero/complex_linearity_1.png ==> I think you should look at this image. It's meant to be a proof of concept of the final product, with linearity drawings on it.
+[2015/12/21 16:58:12] <jesusalva> The game follows the sequence of the blue dots (You do dot 1, then dot 2, then dot 3, etc.) but you can only advance to, say, dot 4, after completting all dot 3's first.
+[2015/12/21 16:58:42] <jesusalva> (Altough we can add extra, bonus levels on the world map after you get a certain transport, as written on the side)
+[2015/12/21 16:58:57] * jesusalva switches subjects.
+[2015/12/21 16:59:13] <Karkus> jesusalva: Okay, I guess I do like your idea.
+[2015/12/21 16:59:36] <Karkus> jesusalva: There are still problems, but it's definitely worth considering.
+[2015/12/21 16:59:49] <jesusalva> Tell the problems, so they can be fixed. ;)
