@@ -28124,3 +28124,47 @@
 [2015/12/21 08:26:33] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98111955
 [2015/12/21 08:29:36] <head8debian> Tobbi: What did stew want?
 [2015/12/21 08:29:47] <Tobbi> head8debian: Tell us about a bug we can|t reproduce.
+[2015/12/21 08:31:34] <head8debian> Tobbi: Ah, which is?
+[2015/12/21 08:31:50] <head8debian> Tobbi: Could be system related?
+[2015/12/21 08:31:51] <Tobbi> head8debian: SuperTux crashing when you do something with haywire.
+[2015/12/21 08:31:55] <Tobbi> head8debian: I don|t know.
+[2015/12/21 08:32:00] <head8debian> Ah.
+[2015/12/21 08:33:06] <brmbrmcar> don|t
+[2015/12/21 08:33:21] <Tobbi> brmbrmcar: Kezboard lazouts.
+[2015/12/21 08:33:43] <head8debian> Tobbi: Using a german keyboard? ;p
+[2015/12/21 08:34:11] <Tobbi> head8debian: No, using an English keyboard with an English layout, but I am often alternating between those two
+[2015/12/21 08:34:16] <Tobbi> Especially when I need the umlauts.
+[2015/12/21 08:34:31] <head8debian> Tobbi: Ah. :)
+[2015/12/21 08:34:41] <brmbrmcar> That key is kilometres away from the other thing on here!
+[2015/12/21 08:35:18] <leyyin> who needs umlauts when you have ăâțșî
+[2015/12/21 08:36:00] <Tobbi> leyyin: I can't express my ü-feelings with those.
+[2015/12/21 08:36:40] <brmbrmcar> That came out as ?????
+[2015/12/21 08:36:49] <brmbrmcar> ?-feelings
+[2015/12/21 08:37:08] <Tobbi> leyyin: You know, sometimes I am feeling Ü and I can't do anything about it. But I have to express myself.
+[2015/12/21 08:37:40] <brmbrmcar> You feel ??
+[2015/12/21 08:38:02] <Hume2> I sometimes feel KŘ.
+[2015/12/21 08:38:21] <Tobbi> See!
+[2015/12/21 08:38:43] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+2/-0/±2] 13http://git.io/vEqtA
+[2015/12/21 08:38:44] <Not-e81f> [02supertux] 07brmbrmcar 0338e4805 - Added halloween_1.ogg and music file, added Forty-Two to credits
+[2015/12/21 08:38:46] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98116069
+[2015/12/21 08:38:52] <leyyin> ha, I just used this, and it work better than expected :) http://www.pyinstaller.org/
+[2015/12/21 08:38:54] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98113717
+[2015/12/21 08:39:00] <leyyin> *works
+[2015/12/21 08:39:18] <leyyin> binary python :P
+[2015/12/21 08:39:23] <Tobbi> leyyin: Great! We can use it for our editor...
+[2015/12/21 08:39:31] <Tobbi> Or at least one of them.
+[2015/12/21 08:39:35] <leyyin> rofl
+[2015/12/21 08:39:51] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98116069
+[2015/12/21 08:40:05] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#277: Added halloween_1.ogg and music file, added Forty-Two to credits - 13http://git.io/vEqq1
+[2015/12/21 08:40:06] <Not-e81f> [02supertux] 07Hume2 closed pull request 03#277: Added halloween_1.ogg and music file, added Forty-Two to credits - 13http://git.io/vEtyD
+[2015/12/21 08:40:30] <Tobbi> leyyin: Did I ever ask you whether you're a synaesthete?
+[2015/12/21 08:40:53] <Not-e81f> [02supertux] 07reinerh opened pull request 03#279: CMakeLists: sort source files to get reproducible linking order - 13http://git.io/vEqmJ
+[2015/12/21 08:40:54] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98116404
+[2015/12/21 08:41:02] <leyyin> I do not think I am
+[2015/12/21 08:41:27] <Tobbi> leyyin: So numbers don|t have colours for you? or music or anything else/
+[2015/12/21 08:41:36] <Tobbi> Or days of the week.
+[2015/12/21 08:41:38] <Tobbi> or whatever.
+[2015/12/21 08:41:57] <leyyin> no they don't
+[2015/12/21 08:42:00] <Tobbi> ok
+[2015/12/21 08:42:47] <brmbrmcar> They don't for me!
+[2015/12/21 08:44:20] <Hume2> I have, but with tastes.
