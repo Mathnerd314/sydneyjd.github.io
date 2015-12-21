@@ -27338,3 +27338,109 @@
 [2015/12/20 18:44:26] <Karkus> Remove features while keeping up to date
 [2015/12/20 18:44:49] <alket> tiled is pretty advanced for that too
 [2015/12/20 18:44:59] <datahead7777> Is Hume still working on the built in level editor?
+[2015/12/20 18:45:04] <Karkus> datahead7777: yep
+[2015/12/20 18:45:09] <datahead7777> I see
+[2015/12/20 18:45:17] <datahead7777> You could still use Tiled separately, though
+[2015/12/20 18:45:19] <Tobbi> It won't be merged until 0.5.*
+[2015/12/20 18:45:26] <Karkus> datahead7777: But you wouldn't use that for real levels...
+[2015/12/20 18:45:50] <leyyin_> is there another editor for supertux?
+[2015/12/20 18:45:51] <datahead7777> Is Tiled limited in its scope?
+[2015/12/20 18:45:57] <leyyin_> how many editors do you have?
+[2015/12/20 18:46:01] <Karkus> datahead7777: It outputs to XML atm.
+[2015/12/20 18:46:04] <alket> i have seen .stl, there is nothing special I think
+[2015/12/20 18:46:05] <Karkus> leyyin_: 4
+[2015/12/20 18:46:12] <datahead7777> Tiled is a general purpose editor that can be used for any game potentially.
+[2015/12/20 18:46:19] <Karkus> alket: It's lisp s-expressions, not XML
+[2015/12/20 18:46:22] <leyyin_> O_O, and you never thought, oh, maybe we have too many damn editors
+[2015/12/20 18:46:24] <Karkus> datahead7777: YEs
+[2015/12/20 18:46:39] <alket> Karkus: tiled can export to json , csv etc
+[2015/12/20 18:46:44] <Karkus> leyyin_: Flexlay was used for all of milestone 1
+[2015/12/20 18:46:49] <alket> I also did an exporter + converter for godot
+[2015/12/20 18:47:03] <datahead7777> Karkus, what limitations does Tiled have with respect to Super Tux?
+[2015/12/20 18:47:12] <Karkus> If anyone wants to create a supertux plugin, go ahead!
+[2015/12/20 18:47:19] <Karkus> I'm not stopping you...
+[2015/12/20 18:47:28] <Tobbi> No editor is really user friendly...It's just setting tile after tile.
+[2015/12/20 18:47:31] <Tobbi> We need to change that.
+[2015/12/20 18:47:36] <Tobbi> it really limits creativity.
+[2015/12/20 18:47:55] <alket> Karkus: would be hard, tiles are represented with number, like what tile is 165
+[2015/12/20 18:47:59] <alket> its quite tiring work
+[2015/12/20 18:48:13] <datahead7777> I would argue that an in game editor is the most versatile, but there's nothing wrong with people messing with Tiled
+[2015/12/20 18:48:31] <Karkus> datahead7777: Currently, you can't use tilED
+[2015/12/20 18:48:36] <Tobbi> Problem is that our UI framework is virtually no-existent.
+[2015/12/20 18:48:45] <Karkus> Tobbi's right
+[2015/12/20 18:48:50] <datahead7777> You could introduce a 3rd party GUI framework
+[2015/12/20 18:49:14] <datahead7777> The one Secret Chronicles uses is CEGUI, though its Windows support seems to be questionable
+[2015/12/20 18:49:17] <Karkus> leyyin_: Why did you start this conversation
+[2015/12/20 18:49:29] <leyyin_> idk
+[2015/12/20 18:49:39] <leyyin_> sleepy I guess
+[2015/12/20 18:49:56] <Tobbi> It's good that we can finally think about that...
+[2015/12/20 18:50:00] <Tobbi> I mean: No pressure at all.
+[2015/12/20 18:50:09] <datahead7777> It's all up to you guys - just was throwing out ideas.  This can be discussed another time.
+[2015/12/20 18:50:17] <Tobbi> Not that I really want to change anything in that aspect, but at least we can think about it.
+[2015/12/20 18:50:17] <alket> datahead7777: CEGUI works fine in windows
+[2015/12/20 18:50:31] <Tobbi> What about overhead?
+[2015/12/20 18:50:59] <datahead7777> We were trying to upgrade versions of Cegui, and Quintus discovered that there was a bug present in Windows but not Linux related to units for angles representation
+[2015/12/20 18:51:07] <alket> idk, OpenDungeons has CEGUI and devs use Windows
+[2015/12/20 18:51:09] <datahead7777> They said they were going to look at it, so it may be fixed by now
+[2015/12/20 18:51:31] <datahead7777> Anyways, it made me wonder if they test Windows as thoroughly as Linux
+[2015/12/20 18:52:02] <Karkus> leyyin_: The c# editor is going out-of-date with no-one to develop it, and it's not so portable. Cobble is just old. The in-game one won't be easy to add more complex ideas to, so Tobbi suggested I develop flexlay.
+[2015/12/20 18:52:21] <Karkus> leyyin_: What do we need from TilED?
+[2015/12/20 18:52:33] <leyyin_> idk
+[2015/12/20 18:52:39] <alket> how do I run flexlay
+[2015/12/20 18:52:46] <Tobbi> alket: Have you downloaded it?
+[2015/12/20 18:52:47] <leyyin_> why do you have two active editors?
+[2015/12/20 18:52:54] <Tobbi> If so, just run ./supertux-editor
+[2015/12/20 18:52:56] <alket> Tobbi: i have the source
+[2015/12/20 18:53:04] <Karkus> https://github.com/SuperTux/flexlay/wiki/Installing-the-Flexlay-SuperTux-editor
+[2015/12/20 18:53:08] <Tobbi> Oh, yeah.
+[2015/12/20 18:53:45] <Karkus> alket: If you have problems, speak to me.
+[2015/12/20 18:53:55] <Karkus> I wrote the article
+[2015/12/20 18:53:59] <alket> why PyQt4 though
+[2015/12/20 18:54:17] <Tobbi> alket: as opposed to?
+[2015/12/20 18:54:26] <leyyin_> PyQt5?
+[2015/12/20 18:54:42] <alket> yep
+[2015/12/20 18:54:56] <Karkus> It's out of date, I guess
+[2015/12/20 18:55:02] <Tobbi> leyyin_: If you want to upgrade, sure, do a pull request, it was on my todo list.
+[2015/12/20 18:55:11] <Tobbi> but hell, you suggested it, it's your project now.
+[2015/12/20 18:55:16] <leyyin_> Tobbi, I was asking, I did not know the answer
+[2015/12/20 18:55:27] <Karkus> leyyin_: The answer is yes. You have 2 weeks
+[2015/12/20 18:55:32] <leyyin_> damn
+[2015/12/20 18:55:33] <Tobbi> leyyin_: That's how it worked with Mozilla back in those days... :D
+[2015/12/20 18:55:36] * leyyin_ starts work
+[2015/12/20 18:55:49] <Karkus> leyyin_: :D
+[2015/12/20 18:56:03] <leyyin_> how hard can it be?
+[2015/12/20 18:56:06] <Karkus> leyyin_: I don't think it'll take much
+[2015/12/20 18:56:07] <leyyin_> "famous last words"
+[2015/12/20 18:56:30] <Karkus> leyyin_: Are you considering this?
+[2015/12/20 18:56:59] <leyyin_> hmm, I tend to answer no
+[2015/12/20 18:57:15] <Karkus> leyyin_: Awwwwwww...
+[2015/12/20 18:57:15] <alket> Karkus: editor looks awesome
+[2015/12/20 18:57:20] <leyyin_> because my plate is kinda full and I do not want to promise anything
+[2015/12/20 18:57:32] <Tobbi> It worked for you, so quickly, alket?
+[2015/12/20 18:57:37] <alket> the message about "Select supertux directory" should make it clear that it wants data directory
+[2015/12/20 18:57:41] <Tobbi> leyyin_: I can understand. It's okay.
+[2015/12/20 18:57:45] <alket> Tobbi: yeah, why not ?
+[2015/12/20 18:57:54] <Tobbi> alket: because python and pyqt...
+[2015/12/20 18:58:00] <Karkus> leyyin_: Just for me? Pwease?
+[2015/12/20 18:58:00] <Tobbi> I had to install it using macports etc.
+[2015/12/20 18:58:02] <Karkus> ahaha
+[2015/12/20 18:58:14] <Karkus> leyyin_: jk
+[2015/12/20 18:58:21] <leyyin_> Tobbi, python and pyqt are portable ;)
+[2015/12/20 18:58:31] <Tobbi> leyyin_: Unlike your mum :D
+[2015/12/20 18:58:33] <Tobbi> :P
+[2015/12/20 18:58:39] <leyyin_> at least my mama is not fat
+[2015/12/20 18:58:45] <Tobbi> leyyin_: I was implying that...
+[2015/12/20 18:58:46] <Karkus> Tobbi: Is your mum portable?
+[2015/12/20 18:58:50] <Tobbi> That she'd be fat...
+[2015/12/20 18:58:55] <Tobbi> Karkus: bad question...
+[2015/12/20 18:59:05] <Tobbi> let's switch topics.
+[2015/12/20 18:59:10] <Tobbi> I know these jokes are getting old.
+[2015/12/20 18:59:15] <leyyin_> let's talk about your papa Tobbi
+[2015/12/20 18:59:20] <Tobbi> leyyin_: I'd rather not.
+[2015/12/20 18:59:33] <alket> wut wut
+[2015/12/20 18:59:43] <leyyin_> I'm going to sleep, good night open source freaks
+[2015/12/20 18:59:47] <Karkus> Tobbi: Can you add leyyin to supertux so I can assign him to the PyQt5 issue please Tobbi? :D
+[2015/12/20 18:59:47] <alket> well pyqt4-python3 is one cmd away in linux
+[2015/12/20 18:59:56] <Tobbi> Karkus: I could do that.
+[2015/12/20 18:59:57] <Tobbi> :D
+[2015/12/20 19:00:00] <Karkus> Just kidding :P
