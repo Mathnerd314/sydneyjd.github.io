@@ -27800,3 +27800,27 @@
 [2015/12/21 06:36:47] <stewboy> downloaded/installed the new supertux, started up a new story mode and it spawned me in the middle of the top row of levels, rather than at the start... did that happen to anyone else?
 [2015/12/21 06:37:48] <Not-e81f> [02supertux] 07Nimroot starred 03supertux - 13http://git.io/vEtzM
 [2015/12/21 06:43:24] <Hume2> Any idea how this could happen.
+[2015/12/21 06:48:15] <stewboy> I think I remember it happening in the more recent betas as well
+[2015/12/21 06:52:26] <Not-e81f> [02supertux] 07akien-mga opened issue 03#275: Do not install external dependencies system-wide - 13http://git.io/vEtVv
+[2015/12/21 06:54:23] @ Tobbi joined channel #supertux
+[2015/12/21 06:54:23] @ Mode +o Tobbi by ChanServ
+[2015/12/21 06:54:34] <Hume2> Tobbi, you must be tired!
+[2015/12/21 06:54:39] <Tobbi> Hume2: I am.
+[2015/12/21 06:54:52] <Tobbi> This was huge, yesterday.
+[2015/12/21 06:55:01] <Tobbi> Well, actually, I slept, so I am feeling alright.
+[2015/12/21 06:55:27] <Hume2> Yes, you went to bed in half past one in the night.
+[2015/12/21 06:55:43] <Tobbi> stewboy: Did you play supertux before?
+[2015/12/21 06:55:55] <stewboy> yes...
+[2015/12/21 06:55:56] <Tobbi> Hume2: Which is early for me.
+[2015/12/21 06:56:02] <stewboy> would it have shared the folder with earlier versions
+[2015/12/21 06:56:19] <Tobbi> stewboy: Most likely. What OS are you on?
+[2015/12/21 06:56:23] <stewboy> Windows
+[2015/12/21 06:56:53] <Tobbi> stewboy: Open %USERPROFILE%/.supertux2
+[2015/12/21 06:57:16] <stewboy> yep
+[2015/12/21 06:57:21] <Tobbi> Okay, now open profile1.
+[2015/12/21 06:57:36] <Tobbi> And then you should find stsg files for the world you're playing in there.
+[2015/12/21 06:57:42] <Tobbi> Tux's position is stored there.
+[2015/12/21 06:57:50] <stewboy> ah, okay
+[2015/12/21 06:58:35] <Tobbi> So, if you delete it, or set it to 0'0, it should find the home position :P
+[2015/12/21 06:58:38] <Tobbi> I think that's in the code.
+[2015/12/21 06:58:50] <stewboy> I've already started playing through half the levels anyway, so that's fine
