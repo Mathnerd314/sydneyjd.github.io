@@ -28465,3 +28465,12 @@
 [2015/12/21 12:27:21] <head8debian> Tobbi: And people *shouldn't* be downloading games from third party sites...
 [2015/12/21 12:27:29] <Tobbi> head8debian: You need an account with them?
 [2015/12/21 12:28:02] <head8debian> Tobbi: I thought so... maybe im mixed up.
+[2015/12/21 12:32:42] <head8debian> Tobbi: There, i emailed them.
+[2015/12/21 12:33:38] @ leyyin_ joined channel #supertux
+[2015/12/21 12:34:01] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/21 12:35:20] <head8debian> Hey jesusalva!
+[2015/12/21 12:36:34] @ xet7_ is now known as xet7
+[2015/12/21 12:37:21] @ Quit: leyyin: Ping timeout: 276 seconds
+[2015/12/21 12:42:26] @ brmbrmca1 joined channel #supertux
+[2015/12/21 12:44:08] @ Quit: brmbrmcar: Quit: Reconnecting
+[2015/12/21 12:44:49] @ brmbrmca1 is now known as brmbrmcar
