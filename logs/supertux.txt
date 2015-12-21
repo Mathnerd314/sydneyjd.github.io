@@ -27588,3 +27588,4 @@
 [2015/12/20 21:04:43] @ Quit: Karkus: Quit: Division By Zero
 [2015/12/20 21:19:46] <Not-e81f> [02supertux] 07Trevonn starred 03supertux - 13http://git.io/vEIoa
 [2015/12/20 22:27:18] @ tuxdev_ joined channel #supertux
+[2015/12/20 22:52:21] <Not-e81f> [02supertux] 07FuzzyToothpaste commented on issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vEI7R
