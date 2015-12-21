@@ -27691,3 +27691,32 @@
 [2015/12/21 04:26:15] <leyyin> hmm, the git version still displays 0.
 [2015/12/21 04:26:20] <leyyin> *0.3.5
 [2015/12/21 04:28:10] <brmbrmcar> Yes.
+[2015/12/21 04:31:26] <brmbrmcar> Hume2: I've clicked there: I've got a screenshot. Is it right?
+[2015/12/21 04:31:32] <brmbrmcar> The right place?
+[2015/12/21 04:32:10] <brmbrmcar> http://i.cubeupload.com/WPHt86.png
+[2015/12/21 04:32:25] @ Quit: alket: Ping timeout: 245 seconds
+[2015/12/21 04:33:38] <brmbrmcar> Oh, text editor.
+[2015/12/21 04:33:41] <brmbrmcar> Got it.
+[2015/12/21 04:33:52] * brmbrmcar cannot read today
+[2015/12/21 04:35:09] <brmbrmcar> So,     (magicblock
+[2015/12/21 04:35:10] <brmbrmcar>       (color 1 1 0)
+[2015/12/21 04:35:10] <brmbrmcar>       (x 1024)
+[2015/12/21 04:35:10] <brmbrmcar>       (y 224)
+[2015/12/21 04:35:12] <brmbrmcar>     )?
+[2015/12/21 04:35:34] <Hume2> Yes.
+[2015/12/21 04:35:46] <brmbrmcar> It was like that before, though.
+[2015/12/21 04:35:57] <brmbrmcar> And I still get the same problem.
+[2015/12/21 04:36:02] <Hume2> Also note that the translucent lanterns light less.
+[2015/12/21 04:36:18] <Hume2> (color 1 1 0 <alpha>)
+[2015/12/21 04:36:33] <brmbrmcar> Copy that directly?
+[2015/12/21 04:36:36] <Hume2> 1 is opaque, 0 is transparent.
+[2015/12/21 04:36:50] <Hume2> 0.5 is half-opaque.
+[2015/12/21 04:37:05] <brmbrmcar> OK.
+[2015/12/21 04:37:51] @ alket joined channel #supertux
+[2015/12/21 04:39:12] <Hume2> Totally transparent lanterns don't glow at all, so they work only like invisible rocks.
+[2015/12/21 04:39:48] <brmbrmcar> What about the actual blocks? That is what I was originally asking about.
+[2015/12/21 04:40:04] <brmbrmcar> The alpha did nothing to them.
+[2015/12/21 04:41:04] <Hume2> Magicblocks aren't affected by alpha though.
+[2015/12/21 04:41:28] <Hume2> Because they have their own alpha.
+[2015/12/21 04:43:50] <brmbrmcar> Why are they always solid?
+[2015/12/21 04:44:06] <brmbrmcar> Thats what I wante to know how to fix.
