@@ -28451,3 +28451,17 @@
 [2015/12/21 12:14:35] <head8debian> Tobbi: *
 [2015/12/21 12:14:44] <Tobbi> head8debian: what?
 [2015/12/21 12:14:53] <head8debian> Tobbi: I starred you. :D
+[2015/12/21 12:15:02] <Tobbi> Uhm.
+[2015/12/21 12:15:08] <Tobbi> thanks (I guess)
+[2015/12/21 12:19:04] <Tobbi> head8debian: Do you find any way to notify them about an updaet, here: http://supertux.de.softonic.com/
+[2015/12/21 12:20:16] <Tobbi> eeh, german.
+[2015/12/21 12:20:23] <Tobbi> I meant the English version of that...
+[2015/12/21 12:24:24] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98156339
+[2015/12/21 12:26:03] <head8debian> Tobbi: To what?
+[2015/12/21 12:26:21] <Tobbi> head8debian: huh? to what?
+[2015/12/21 12:26:41] <Tobbi> I want you to find a way to notify softonic about an update.
+[2015/12/21 12:26:48] <head8debian> Tobbi: Ah.
+[2015/12/21 12:27:03] <head8debian> Tobbi: I don't even have a account with them...
+[2015/12/21 12:27:21] <head8debian> Tobbi: And people *shouldn't* be downloading games from third party sites...
+[2015/12/21 12:27:29] <Tobbi> head8debian: You need an account with them?
+[2015/12/21 12:28:02] <head8debian> Tobbi: I thought so... maybe im mixed up.
