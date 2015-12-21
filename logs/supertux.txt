@@ -28958,3 +28958,27 @@
 [2015/12/21 17:12:32] <Karkus> jesusalva: Idk. Can we see what other people think later?
 [2015/12/21 17:14:04] <jesusalva> Idk?
 [2015/12/21 17:14:09] @ leyyin_ joined channel #supertux
+[2015/12/21 17:17:18] @ Quit: claymore2: Quit: Leaving
+[2015/12/21 17:17:31] @ Quit: leyyin__: Ping timeout: 276 seconds
+[2015/12/21 17:18:53] <Not-e81f> [02supertux] 07terrywang starred 03supertux - 13http://git.io/vEO2c
+[2015/12/21 17:22:20] <jesusalva> Karkus: The graphics are mostly the same. "ladder" and "gap" are place-holder suggestions, Hume suggested to use keys to summon the boss, mt proposed "a key, a crystal, a "piece of wood, a bone, a whatever
+[2015/12/21 17:22:56] <Karkus> jesusalva: I don't get it. What exactly is this picture you've drawn me? A worldmap?
+[2015/12/21 17:23:00] <jesusalva> Yes.
+[2015/12/21 17:23:17] <Karkus> jesusalva: Okay, I think I understand it better now
+[2015/12/21 17:23:18] <jesusalva> I call it worldmap, bacause it doesn't have "levels"
+[2015/12/21 17:23:34] <jesusalva> the "levels" are other worldmaps on their own. Like antartica.
+[2015/12/21 17:23:42] <jesusalva> And ghostforest.
+[2015/12/21 17:24:25] <jesusalva> The "simple" haves 4 worldmaps inside: two are already complete: Antartica and Ghost Forest.
+[2015/12/21 17:24:38] <jesusalva> The "complex" haves 9 worldmaps inside it.
+[2015/12/21 17:25:22] <Karkus> jesusalva: 4?
+[2015/12/21 17:25:23] <jesusalva> It's a worldmap of worldmaps. It was already done once on Matt's World (DOOM islands)
+[2015/12/21 17:26:12] <jesusalva> Let's call what we have as a "worldmap" as "levelset". So when you click "play", you don't see the worldmap, you see the "Antartica Levelset"
+[2015/12/21 17:26:22] <Karkus> Yes
+[2015/12/21 17:26:31] <Karkus> But what are the other 2 level sets?
+[2015/12/21 17:26:46] <jesusalva> What I drew would then be the worldmap, with 4 levelsets on it: Antartica, Ghost Forest, Glaciers and the Fortress
+[2015/12/21 17:27:18] <jesusalva> Glaciers being a very simple on the being (just to don't leave blank) and the "Fortress" is mostly proof-of-concept
+[2015/12/21 17:27:46] <Karkus> jesusalva: Glaciers could probably just be levels from incubator island and the bonus worlds
+[2015/12/21 17:28:35] <jesusalva> as brmbrmcar said, we could probably put a cutscene after you pass the gap (which is just to make sure that you completed the other levelsets) to say that the game is not finished yet, but we hope they enjoyed their experience anyway.
+[2015/12/21 17:28:42] <jesusalva> Karkus: yes, they could be.
+[2015/12/21 17:29:08] <jesusalva> By the way, if Bonus Islands weren't addons, they could be included on that worldmap.
+[2015/12/21 17:29:46] <jesusalva> Although I drew something simple. "Go north, go north, go back to antartica and then head east, still by ship/raft/whatever"
