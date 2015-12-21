@@ -28315,3 +28315,10 @@
 [2015/12/21 10:24:34] <alket> it looks like it has a limit though
 [2015/12/21 10:27:56] <Tobbi> alket: Limit in download numbers?
 [2015/12/21 10:28:08] <Tobbi> Maybe MS 2 release generated far more traction than 0.3.5a
+[2015/12/21 10:30:08] <Tobbi> gizmodo picked it up> http://es.gizmodo.com/supertux-el-mario-bros-de-linux-acaba-de-publicar-su-1749064494
+[2015/12/21 10:31:03] <Not-e81f> [02supertux] 07ankitpati starred 03supertux - 13http://git.io/vEqbz
+[2015/12/21 10:31:36] <Tobbi> ...and people go mental on twitter :D
+[2015/12/21 10:35:40] @ Quit: brmbrmcar: Ping timeout: 255 seconds
+[2015/12/21 10:42:46] <tomreyn> someone needs to show mlarabel where the "full screen" option is ;)
+[2015/12/21 10:44:16] <Tobbi> tomreyn: Who is that?
+[2015/12/21 10:44:55] <tomreyn> michael larabel, the guy who runs phoronix
