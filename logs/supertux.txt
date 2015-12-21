@@ -27867,3 +27867,42 @@
 [2015/12/21 07:14:53] <stewboy> I will avoid doing that again
 [2015/12/21 07:14:59] <Not-e81f> [02supertux] 07timxx starred 03supertux - 13http://git.io/vEtXk
 [2015/12/21 07:14:59] <stewboy> what license does it need to be under
+[2015/12/21 07:15:17] <stewboy> to be compatible
+[2015/12/21 07:15:20] <Tobbi> stewboy: Public Domain or CC-something
+[2015/12/21 07:15:23] <Tobbi> iirc.
+[2015/12/21 07:15:31] <Tobbi> Bomb grunting will be fixed.
+[2015/12/21 07:15:50] <stewboy> CC sounds good
+[2015/12/21 07:16:00] <Tobbi> stewboy: So, CC-BY?
+[2015/12/21 07:16:07] <Tobbi> Aka, Attribution CC
+[2015/12/21 07:16:30] <stewboy> yep
+[2015/12/21 07:17:06] <Tobbi> brmbrmcar: I see you don't have anything to do, you can add the Halloween track to the game, add attribution in the credits and the CREDITS file in data/
+[2015/12/21 07:17:08] <Tobbi> :P
+[2015/12/21 07:17:59] <brmbrmcar> What track?
+[2015/12/21 07:18:04] <Not-e81f> [02supertux] 07tobbi opened issue 03#276: Looping sounds don't stop when pausing the game - 13http://git.io/vEt1k
+[2015/12/21 07:18:19] <Tobbi> brmbrmcar: http://supertux.lethargik.org/bugs/view.php?id=1068
+[2015/12/21 07:18:20] <stewboy> I'd love to write stuff but it's just a matter of figuring out a style that works with the game
+[2015/12/21 07:18:37] <brmbrmcar> Where in the game shall I put it?
+[2015/12/21 07:18:50] <Tobbi> brmbrmcar: Just add it to the music directory.
+[2015/12/21 07:18:54] <Tobbi> It might not be used yet.
+[2015/12/21 07:19:02] <Tobbi> But we can figure out a place to use it later.
+[2015/12/21 07:19:18] <stewboy> although there are already a few different music styles in the game
+[2015/12/21 07:19:37] <Tobbi> yes, indeed.
+[2015/12/21 07:19:57] <brmbrmcar> Ah, 450MB down the drain.
+[2015/12/21 07:20:03] <brmbrmcar> *sigh*
+[2015/12/21 07:20:56] <Tobbi> head8debian: Update http://supertuxproject.org/screenshots.html please.
+[2015/12/21 07:21:05] <Tobbi> brmbrmcar: You know that I am the only one who is allowed to say that, right? :P
+[2015/12/21 07:21:16] <brmbrmcar> No!
+[2015/12/21 07:21:24] <Tobbi> Well, turns out I am.
+[2015/12/21 07:22:10] <Hume2> Tobbi: Now you know why I privileged you by that.
+[2015/12/21 07:22:20] <Tobbi> Hume2: :P I am kidding :D
+[2015/12/21 07:22:28] <Hume2> :D
+[2015/12/21 07:23:42] <Tobbi> Uhm, are there people paying bounty for us: https://www.bountysource.com/teams/supertuxteam/issues
+[2015/12/21 07:24:27] <Tobbi> Apparently, not yet.
+[2015/12/21 07:26:19] @ Quit: benjamin__: Quit: Quitte
+[2015/12/21 07:28:51] <Not-e81f> [02supertux] 07brmbrmcar opened pull request 03#277: Added halloween_1.ogg and music file, added Forty-Two to credits - 13http://git.io/vEtyD
+[2015/12/21 07:28:52] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98105934
+[2015/12/21 07:29:14] <brmbrmcar> Ah!
+[2015/12/21 07:29:25] <stewboy> I wonder if I should use my real name in the credits for the music
+[2015/12/21 07:29:29] <stewboy> I already have for some of the levels
+[2015/12/21 07:29:30] <Tobbi> brmbrmcar: Also, add him to data/AUTHORS
+[2015/12/21 07:29:49] <Tobbi> Including his wish to release it under CC-BY
