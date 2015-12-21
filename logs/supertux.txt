@@ -27796,3 +27796,7 @@
 [2015/12/21 06:21:32] <Not-e81f> [02supertux] 07qubodup commented on issue 03#274: Positional audio exaggerated - 13http://git.io/vEt45
 [2015/12/21 06:29:02] @ Quit: lumidify1: Quit: Leaving
 [2015/12/21 06:29:36] @ lumidify joined channel #supertux
+[2015/12/21 06:35:52] @ stewboy joined channel #supertux
+[2015/12/21 06:36:47] <stewboy> downloaded/installed the new supertux, started up a new story mode and it spawned me in the middle of the top row of levels, rather than at the start... did that happen to anyone else?
+[2015/12/21 06:37:48] <Not-e81f> [02supertux] 07Nimroot starred 03supertux - 13http://git.io/vEtzM
+[2015/12/21 06:43:24] <Hume2> Any idea how this could happen.
