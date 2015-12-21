@@ -28918,3 +28918,11 @@
 [2015/12/21 15:28:20] <jesusalva> The second image is not worth seeing, honestly.
 [2015/12/21 15:29:22] <jesusalva> The idea is, by example, that in one cave you get a rope, but it can't support your weight without an item from another cave. (so you can explore the chasms)
 [2015/12/21 15:29:53] <jesusalva> If you go in the other order, you think you got an useless item, but when you get the rope, you understand the use of such item.
+[2015/12/21 15:30:03] @ Quit: alket: Ping timeout: 265 seconds
+[2015/12/21 15:30:57] <jesusalva> And it's still linear, because you cannot venture into the chasms without completing the caves first, and you cannot go on them without the flying pan.
+[2015/12/21 15:33:11] <jesusalva> oops, typo on the image.
+[2015/12/21 15:35:14] <jesusalva> Second image is bad, see this one instead: http://i1253.photobucket.com/albums/hh600/pazkero/complex_linearity_1.png (still fails to deliver a clear vision about that)
+[2015/12/21 15:36:15] <jesusalva> The blue line was wrong. It was to prevent you from reaching the final chamber too early. (You need the keys to enter, anyway). It's said what the crystal is for in some level.
+[2015/12/21 15:37:40] <jesusalva> That's it for now. Just proofs-of-concept anyway, the 2nd of how the final product could end up looking -- but focus on the simple first. Or you may never end the game. You can also use the linearity numbers to base the difficulty.
+[2015/12/21 15:38:17] * jesusalva goes to eat something.
+[2015/12/21 15:39:52] @ Drangue is now known as alket
