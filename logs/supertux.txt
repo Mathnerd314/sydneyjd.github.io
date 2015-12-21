@@ -27652,3 +27652,18 @@
 [2015/12/21 03:57:45] <brmbrmcar> 3 things. At least.
 [2015/12/21 03:58:41] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vELMh
 [2015/12/21 03:59:23] <alket> nothing wrong here xD
+[2015/12/21 04:01:14] <Not-e81f> [02supertux] 07alketii commented on issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vELD1
+[2015/12/21 04:01:40] <brmbrmcar> Come on...
+[2015/12/21 04:01:46] <brmbrmcar> Give up?
+[2015/12/21 04:02:52] <alket> im not giving up, i found them, there is nothing wrong :p
+[2015/12/21 04:03:01] <brmbrmcar> OK.
+[2015/12/21 04:03:22] <alket> so what do you see ?
+[2015/12/21 04:04:12] <brmbrmcar> Well, one major thing: THAT IS NOT 0.4.0!
+[2015/12/21 04:04:22] <Not-e81f> [02supertux] 07ttlttl starred 03supertux - 13http://git.io/vELy5
+[2015/12/21 04:04:45] <alket> bb010g: https://github.com/SuperTux/supertux/releases/tag/v0.4.0
+[2015/12/21 04:04:50] <alket> sorry brmbrmcar
+[2015/12/21 04:05:33] <brmbrmcar> I know.
+[2015/12/21 04:06:03] <Hume2> Can Flexlay make translucent gradients?
+[2015/12/21 04:06:07] <brmbrmcar> But look at your copy (if you actually installed one). Get into that exact position.
+[2015/12/21 04:12:52] @ tux|dude joined channel #supertux
+[2015/12/21 04:13:26] <Hume2> And can Flexlay make translucent lanterns?
