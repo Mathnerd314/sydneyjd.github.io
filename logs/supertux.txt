@@ -27576,3 +27576,4 @@
 [2015/12/20 19:33:56] <Karkus> Tobbi: Ah, I see
 [2015/12/20 19:34:03] <Tobbi> Want to see how picked it up (if anyone)
 [2015/12/20 19:34:41] @ Quit: Tobbi: 
+[2015/12/20 19:51:05] @ Quit: bitlord: Ping timeout: 260 seconds
