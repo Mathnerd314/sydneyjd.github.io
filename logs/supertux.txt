@@ -28242,3 +28242,32 @@
 [2015/12/21 09:27:58] <Tobbi> head8debian: Oh, yeah, good thinking.
 [2015/12/21 09:28:46] <Tobbi> head8debian: Can you change the label of the screenshots section to "SuperTux 0.4.0"
 [2015/12/21 09:29:45] <brmbrmcar> head8debian: OK...
+[2015/12/21 09:30:16] <Tobbi> head8debian: I am reading media coverage for the release. And many picked it up.
+[2015/12/21 09:30:43] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/156
+[2015/12/21 09:30:50] <brmbrmcar> I get the error brmbrmcar is already connected to my account.
+[2015/12/21 09:31:09] <brmbrmcar> Even though I say brmbrmbot.
+[2015/12/21 09:31:10] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/157
+[2015/12/21 09:31:14] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/158
+[2015/12/21 09:31:27] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/159
+[2015/12/21 09:34:33] <brmbrmcar> And my bot is genderless!
+[2015/12/21 09:36:22] <Tobbi> bbl.
+[2015/12/21 09:36:27] <brmbrmcar> head8debian: What is the command to group a nick?
+[2015/12/21 09:36:43] @ lumidify joined channel #supertux
+[2015/12/21 09:38:18] <Not-e81f> [02supertux] 07andrewgigena starred 03supertux - 13http://git.io/vEqVC
+[2015/12/21 09:38:24] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/160
+[2015/12/21 09:39:03] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/161
+[2015/12/21 09:39:42] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/162
+[2015/12/21 09:39:49] <alket> is xmas mode working now ?
+[2015/12/21 09:39:58] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/163
+[2015/12/21 09:40:18] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/164
+[2015/12/21 09:40:30] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/165
+[2015/12/21 09:41:11] <head8debian> brmbrmcar: /msg nickserv help group
+[2015/12/21 09:41:20] <head8debian> Tobbi: Cool!'
+[2015/12/21 09:42:08] <alket> how are you supposed to use this tile http://i.imgur.com/8GTOc93.png
+[2015/12/21 09:42:15] <alket> *sprite
+[2015/12/21 09:42:54] <brmbrmcar> How do you do it remotely?
+[2015/12/21 09:43:02] <brmbrmcar> Oh, you can't...
+[2015/12/21 09:43:43] @ brmbrmca1 joined channel #supertux
+[2015/12/21 09:43:46] @ brmbrmca1 left channel #supertux ()
+[2015/12/21 09:43:49] <Not-e81f> [02supertux] 07bjorn commented on issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vEqrO
+[2015/12/21 09:44:57] <Not-e81f> [02supertux] 04Error. AppVeyor build cancelled - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/160
