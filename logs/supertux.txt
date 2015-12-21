@@ -28909,3 +28909,12 @@
 [2015/12/21 15:11:59] <Hume2> bye.
 [2015/12/21 15:12:10] <brmbrmcar> Phew.
 [2015/12/21 15:14:07] @ Quit: Hume2: Quit: Page closed
+[2015/12/21 15:15:48] <alket> my first tests on android are looking good
+[2015/12/21 15:18:58] @ Quit: lumidify: Quit: Leaving
+[2015/12/21 15:23:41] <leyyin__> omg, C++17 UTF-8 character literals :D
+[2015/12/21 15:25:52] @ Drangue joined channel #supertux
+[2015/12/21 15:28:10] <jesusalva> http://i1253.photobucket.com/albums/hh600/pazkero/simple_linearity.png << A linearity example? It's the same, but it have numbers on side. They are the order on which you need to do (the story, linear as it should be), but they repeat (non-linear part).
+[2015/12/21 15:28:10] <jesusalva> http://i1253.photobucket.com/albums/hh600/pazkero/complex_linearity.png << Got idle. It was to show how we can have various places to go in random order, but how they are still linear by the blue dots w/ numbers.
+[2015/12/21 15:28:20] <jesusalva> The second image is not worth seeing, honestly.
+[2015/12/21 15:29:22] <jesusalva> The idea is, by example, that in one cave you get a rope, but it can't support your weight without an item from another cave. (so you can explore the chasms)
+[2015/12/21 15:29:53] <jesusalva> If you go in the other order, you think you got an useless item, but when you get the rope, you understand the use of such item.
