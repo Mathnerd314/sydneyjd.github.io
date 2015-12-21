@@ -28606,3 +28606,43 @@
 [2015/12/21 13:44:01] <mt> brmbrmcar: next time it's more than just a kick. you've been warned.
 [2015/12/21 13:44:58] <brmbrmcar> Where is the justice inthis world? Freedom of speech?
 [2015/12/21 13:45:00] @ brmbrmcar left channel #supertux ()
+[2015/12/21 13:46:14] <Hume2> Well, shall we discuss about the worlds now?
+[2015/12/21 13:46:34] <mt> we can
+[2015/12/21 13:46:45] <Karkus> Hume2: We shouldn't do anything till we've fixed the forest world.
+[2015/12/21 13:47:03] <Hume2> That's what I wanted to mention now.
+[2015/12/21 13:47:12] <mt> sounds like a good idea
+[2015/12/21 13:47:25] <Hume2> Let's start with forest world.
+[2015/12/21 13:47:34] <mt> Karkus: can you open an issue with a tickable list for things that need to be fixed in 0.5.0?
+[2015/12/21 13:47:51] <Karkus> mt: Forest world things?
+[2015/12/21 13:48:01] <mt> then we can go on and partially fix them using PRs or commits to master; yes, forest world issues
+[2015/12/21 13:48:04] <Not-e81f> [02supertux] 07maidis starred 03supertux - 13http://git.io/vEYZq
+[2015/12/21 13:48:18] <Karkus> mt: Okay, this could take a while
+[2015/12/21 13:48:26] <mt> sure take your time
+[2015/12/21 13:48:44] <mt> maybe also include a note that the basic things don't necessarily require coding skills
+[2015/12/21 13:48:55] <mt> just running one of the thousand editors ;)
+[2015/12/21 13:49:01] <Hume2> There's still no exact consistent plan how the forest world should look like.
+[2015/12/21 13:49:48] <mt> well I think there was this plain forest, ghostforest, nolok's castles idea
+[2015/12/21 13:49:49] <Hume2> I got an idea!
+[2015/12/21 13:50:06] <mt> we could make use of the halloween tiles for parts of ghostforest
+[2015/12/21 13:50:06] <Hume2> Let's make a worldmap contest.
+[2015/12/21 13:50:14] <mt> +1
+[2015/12/21 13:50:47] <Hume2> And using halloween tiles for ghostforest is a good idea too.
+[2015/12/21 13:51:01] <Hume2> Well, the contest:
+[2015/12/21 13:51:03] <mt> the halloween tiles is just a start
+[2015/12/21 13:51:15] <mt> ghostforest would probably need some more tweaks
+[2015/12/21 13:51:58] <Hume2> Well, Narre wants to use halloween tiles for jungle, but that's other thing now.
+[2015/12/21 13:52:07] <Not-e81f> [02supertux] 07yhyuan forked the repository - 13http://git.io/vEYn6
+[2015/12/21 13:52:14] <mt> halloween for jungle O_o
+[2015/12/21 13:52:49] <Hume2> The contest: Make a forest island worldmap. Use the current levels and optionally add your own.
+[2015/12/21 13:52:58] <mt> resources ghostforest: http://supertux.lethargik.org/wiki/File:Forestworldoverview.jpg http://supertux.lethargik.org/wiki/File:Ghost-portal.jpg
+[2015/12/21 13:53:34] <mt> Hume2: good start. I'd mention that structure as described in http://supertux.lethargik.org/wiki/Milestone_3_Design_Document#World_2_-_Forest to the contest requirements
+[2015/12/21 13:53:49] <mt> but we can say ghostforest tiles is another issue
+[2015/12/21 13:54:08] * jesusalva doesn't thinks that the problem is on the Forest World, but rather, on how it's supposed to connect to the main story.
+[2015/12/21 13:54:28] <mt> jesusalva: can you elaborate?
+[2015/12/21 13:57:31] <jesusalva> You can bend two things: The levels, redoing them -- which means lots of work, or the story, which means lots of creativity. If you're creative enough, you can make the forest levels as they are connect perfectly with the story and do a very beautiful picture. Or you can simply redo all the levels and the map so they fit the current story.
+[2015/12/21 13:58:15] <jesusalva> Naturally, you don't need to prejudice the story to fit the worldmap. Sometimes is pretty simple, but the way as we face the problem make we only see the hardest of the ways.
+[2015/12/21 13:58:19] <mt> I meant: what's wrong with the current story?
+[2015/12/21 13:58:46] <jesusalva> Everything and nothing.
+[2015/12/21 13:59:17] <jesusalva> How to explain...
+[2015/12/21 13:59:20] <mt> Can you try that again but with more constructive criticism?
+[2015/12/21 13:59:37] <Not-e81f> [02supertux] 07SHMAUS-Carter starred 03supertux - 13http://git.io/vEYlT
