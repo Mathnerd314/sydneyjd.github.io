@@ -27720,3 +27720,23 @@
 [2015/12/21 04:41:28] <Hume2> Because they have their own alpha.
 [2015/12/21 04:43:50] <brmbrmcar> Why are they always solid?
 [2015/12/21 04:44:06] <brmbrmcar> Thats what I wante to know how to fix.
+[2015/12/21 04:45:17] <Hume2> It works for lanterns, but not for magicblocks.
+[2015/12/21 04:45:26] @ mteufel joined channel #supertux
+[2015/12/21 04:45:26] @ Mode +o mteufel by ChanServ
+[2015/12/21 04:45:46] <Hume2> It's because they have predefined two alpha states.
+[2015/12/21 04:45:56] <brmbrmcar> OK. I think I'm confusing you now.
+[2015/12/21 04:49:12] <leyyin> stupid question, where is the in game editor? how do I open it?
+[2015/12/21 04:49:14] <brmbrmcar> https://paste.kde.org/pbxvaeujk
+[2015/12/21 04:49:33] <brmbrmcar> leyyin: Look in the editor branch.
+[2015/12/21 04:49:46] <brmbrmcar> You have to get that version.
+[2015/12/21 04:49:52] @ lumidify joined channel #supertux
+[2015/12/21 04:51:21] @ Yaiyan_ joined channel #supertux
+[2015/12/21 04:52:35] @ Quit: Xjs|moonshine: *.net *.split
+[2015/12/21 04:52:37] @ Quit: Yaiyan: *.net *.split
+[2015/12/21 04:52:37] @ Quit: mt: *.net *.split
+[2015/12/21 04:52:47] <Not-e81f> [02supertux] 07Grumbel commented on issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vELhI
+[2015/12/21 04:54:04] @ Xjs|moonshine joined channel #supertux
+[2015/12/21 04:54:09] <Hume2> leyyin: brmbrmcar has told it to you right now.
+[2015/12/21 04:54:28] <Hume2> leyyin: It's in editor branch.
+[2015/12/21 04:54:37] <Hume2> origin/editor
+[2015/12/21 04:59:54] @ Quit: jeezy: Ping timeout: 256 seconds
