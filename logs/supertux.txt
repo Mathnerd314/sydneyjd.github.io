@@ -28861,3 +28861,51 @@
 [2015/12/21 14:59:39] <mt> what I can clarify, if Karkus reads the irclog: I wouldn't require that much work
 [2015/12/21 14:59:50] <mt> possibly only changing the sprite of the ship
 [2015/12/21 15:00:00] <Hume2> I think so.
+[2015/12/21 15:00:48] <mt> it's relatively easy, even for a plane oslt because you look at the worldmap from the top
+[2015/12/21 15:00:52] <mt> this isn't a 3D-game
+[2015/12/21 15:01:10] @ giby joined channel #supertux
+[2015/12/21 15:01:11] @ Mode +o giby by ChanServ
+[2015/12/21 15:01:18] <Hume2> Not yet :D
+[2015/12/21 15:01:26] <brmbrmcar> What about a cutscene with the whatever happens to Penny and Nolok?
+[2015/12/21 15:01:43] <mt> brmbrmcar: we leave that, as it's still true
+[2015/12/21 15:01:56] <mt> we can also make some cutscenes on forest island
+[2015/12/21 15:02:12] <Hume2> I think that "I thought that penny is here and she isn't" can be used max. once.
+[2015/12/21 15:03:03] <mt> what jesusalva also meant is requiring some multiple objects (like the current keys, but also more diverse) for the final castle
+[2015/12/21 15:03:11] <mt> where Tux expects Penny
+[2015/12/21 15:03:45] <Hume2> For the keys I got another idea: Make the keys to unlock the ghost forest.
+[2015/12/21 15:04:05] <Hume2> ...but yes, it's a good idea.
+[2015/12/21 15:04:23] <jesusalva> So Nolok would be on Ghost Forest, and you would get the keys from other, different levelsets?
+[2015/12/21 15:04:42] <mt> not necessarily
+[2015/12/21 15:04:58] <mt> like you could need ghost forest to get some other, global object
+[2015/12/21 15:05:05] <brmbrmcar> I just said that,and you bring it up again.
+[2015/12/21 15:05:13] <brmbrmcar> The cutscenes.
+[2015/12/21 15:05:15] <jesusalva> Just as I thought. ;)
+[2015/12/21 15:05:22] <brmbrmcar> That is what Imeant.
+[2015/12/21 15:05:23] <Hume2> Let's make keys for all letters of the alphabet and fon't forget ÄÖÜ to convince Tobbi :D
+[2015/12/21 15:05:35] <mt> Hume2: not just keys
+[2015/12/21 15:05:36] <brmbrmcar> ???
+[2015/12/21 15:05:42] <mt> simply also other objects
+[2015/12/21 15:05:46] <brmbrmcar> Keys ???
+[2015/12/21 15:05:53] <Hume2> Well, we have those crystals!
+[2015/12/21 15:05:56] <mt> brmbrmcar: keys in forest island
+[2015/12/21 15:06:19] <mt> Hume2: for example, to unlock the final island, you could need a key, a crystal, a piece of wood, a bone, a whatever
+[2015/12/21 15:06:32] <Hume2> Could be.
+[2015/12/21 15:06:57] <Hume2> The keys could also serve for summoning the boss.
+[2015/12/21 15:07:25] <brmbrmcar> What was the keys not to forget to convice Tobbi?
+[2015/12/21 15:07:36] <Not-e81f> [02supertux] 07Isaac90 starred 03supertux - 13http://git.io/vEYQG
+[2015/12/21 15:07:44] <brmbrmcar> They didn't come through.
+[2015/12/21 15:07:52] <jesusalva> brmbrmcar: Tobbi is from germany. That's why he put german letters there.
+[2015/12/21 15:09:18] <brmbrmcar> I can't see them!
+[2015/12/21 15:09:22] <brmbrmcar> In irssi.
+[2015/12/21 15:09:49] <mt> fix your terminals charset? but right now there are no utf-8 chars in the /topic or elsewhere
+[2015/12/21 15:10:05] <brmbrmcar> It appears as ???.
+[2015/12/21 15:10:28] <mt> re ideas: what I have to say again: it's very likely not that much work as it sounds: the scripting API is very flexible
+[2015/12/21 15:10:51] <mt> brmbrmcar: the ÄÖÜ? yes, then fix your terminals charset and your font
+[2015/12/21 15:11:08] <Hume2> We should also think some bosses.
+[2015/12/21 15:11:20] <mt> and please try to stop the useless comments if you don't participate in the discussion
+[2015/12/21 15:11:24] <mt> brmbrmcar: ^
+[2015/12/21 15:11:37] <mt> Hume2: yep, forest boss needs a rework
+[2015/12/21 15:11:48] <mt> however I'm off for today. bye.
+[2015/12/21 15:11:59] <Hume2> bye.
+[2015/12/21 15:12:10] <brmbrmcar> Phew.
+[2015/12/21 15:14:07] @ Quit: Hume2: Quit: Page closed
