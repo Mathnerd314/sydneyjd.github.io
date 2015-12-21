@@ -28378,3 +28378,23 @@
 [2015/12/21 11:09:32] <Tobbi> 118 stars
 [2015/12/21 11:14:19] @ giby joined channel #supertux
 [2015/12/21 11:14:19] @ Mode +o giby by ChanServ
+[2015/12/21 11:16:54] <brmbrmcar> I want 4913 stars.
+[2015/12/21 11:22:07] <Tobbi> giby: The release is picked up by quite a lot of peopel.
+[2015/12/21 11:22:10] <Tobbi> *people
+[2015/12/21 11:22:19] <mt> well yeah
+[2015/12/21 11:22:23] <giby> :) Good
+[2015/12/21 11:22:23] <mt> since it's stable
+[2015/12/21 11:24:15] <Tobbi> mt: I don|t think it's cool that softpedia used your name and called it "your" game. :P
+[2015/12/21 11:24:25] <mt> yep
+[2015/12/21 11:24:27] <Tobbi> They don't understand how releases work :P
+[2015/12/21 11:24:39] <mt> they don't seem to understand how open source works
+[2015/12/21 11:24:40] <Tobbi> But, hey.
+[2015/12/21 11:25:19] <mt> phoronix also worded it a bit strange, suggesting that this is an entirely new development
+[2015/12/21 11:25:32] <mt> I mean, M2 has been in development since 2006 or so
+[2015/12/21 11:25:52] <Tobbi> mt: Compared to 0.1.3, it is.
+[2015/12/21 11:25:58] <mt> sure
+[2015/12/21 11:26:00] <Tobbi> Right...
+[2015/12/21 11:27:42] <mt> what's great is that there are much more people interested in the game now
+[2015/12/21 11:27:50] <Not-e81f> [02supertux] 07maths22 commented on issue 03#275: Do not install external dependencies system-wide - 13http://git.io/vEmnG
+[2015/12/21 11:27:54] <mt> that also means = more possible devs
+[2015/12/21 11:28:19] <Tobbi> Yeah, definitely.
