@@ -28349,3 +28349,32 @@
 [2015/12/21 10:55:30] <Tobbi> I blame you, alket :P
 [2015/12/21 10:56:14] <alket> lol
 [2015/12/21 10:57:20] @ brmbrmcar joined channel #supertux
+[2015/12/21 11:00:53] <brmbrmcar> head8debian: How do you identify the other nick?
+[2015/12/21 11:01:10] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98139237
+[2015/12/21 11:01:12] <Tobbi> brmbrmcar: It's /kick <nick> password
+[2015/12/21 11:01:14] <Tobbi> :P
+[2015/12/21 11:01:38] <tomreyn> maybe some of this can be of use to you: https://docs.megaglest.org/MG/Promotion
+[2015/12/21 11:02:02] <Tobbi> phew.
+[2015/12/21 11:02:12] <Tobbi> Someone else can take over that.
+[2015/12/21 11:02:48] <tomreyn> yes it involves a lot of daunting work
+[2015/12/21 11:03:26] @ Quit: Hume2: Ping timeout: 252 seconds
+[2015/12/21 11:03:27] <tomreyn> we really should create some kind of an open source game news release service
+[2015/12/21 11:03:34] <brmbrmcar> For god's sake, Tobbi.
+[2015/12/21 11:03:45] <Tobbi> brmbrmcar: what? :D
+[2015/12/21 11:03:46] <brmbrmcar> I know how to kick someone.
+[2015/12/21 11:03:50] @ mteufel is now known as mt
+[2015/12/21 11:03:57] <Tobbi> Oh, hey, I didn't know that.
+[2015/12/21 11:04:18] <Not-e81f> [02supertux] 07bolerovt starred 03supertux - 13http://git.io/vEmIi
+[2015/12/21 11:04:40] <alket> tomreyn: agreed
+[2015/12/21 11:07:13] <brmbrmcar> -!- #supertux You're not a channel operator
+[2015/12/21 11:07:24] @ Quit: alket: Quit: x
+[2015/12/21 11:07:31] <Tobbi> :)
+[2015/12/21 11:07:42] <brmbrmcar> Ah, I was going to do something good there, but it pasted immediately.
+[2015/12/21 11:07:56] <brmbrmcar> s/pasted/sent it/
+[2015/12/21 11:07:56] <red_bot> brmbrmcar meant: "Ah, I was going to do something good there, but it sent it immediately."
+[2015/12/21 11:08:55] <Not-e81f> [02supertux] 07encelo starred 03supertux - 13http://git.io/vEmqT
+[2015/12/21 11:09:00] <brmbrmcar> @red_bot?
+[2015/12/21 11:09:16] <brmbrmcar> brmbrmbot is green with envy...
+[2015/12/21 11:09:32] <Tobbi> 118 stars
+[2015/12/21 11:14:19] @ giby joined channel #supertux
+[2015/12/21 11:14:19] @ Mode +o giby by ChanServ
