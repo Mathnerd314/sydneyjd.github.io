@@ -28168,3 +28168,30 @@
 [2015/12/21 08:42:00] <Tobbi> ok
 [2015/12/21 08:42:47] <brmbrmcar> They don't for me!
 [2015/12/21 08:44:20] <Hume2> I have, but with tastes.
+[2015/12/21 08:45:14] <Tobbi> interesting.
+[2015/12/21 08:45:33] <Tobbi> leyyin: You know that your last name can be used in various expressions, such as "Butum tss"
+[2015/12/21 08:46:23] <Hume2> I'm more worried about the "leyyin".
+[2015/12/21 08:46:48] <leyyin> why? ;)
+[2015/12/21 08:47:26] <Hume2> It resembles me some famous guy, called somehow like this.
+[2015/12/21 08:47:34] <Hume2> You know, Lenin.
+[2015/12/21 08:47:45] <Tobbi> "Good Bye, Leyyin"
+[2015/12/21 08:47:46] <Tobbi> :D
+[2015/12/21 08:47:51] <Hume2> :D
+[2015/12/21 08:47:57] <leyyin> has nothing to do with me :P
+[2015/12/21 08:48:07] <Tobbi> Oh, wait you don|t know that movie.
+[2015/12/21 08:48:08] <leyyin> I am with yyi
+[2015/12/21 08:48:37] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98116404
+[2015/12/21 08:50:55] <leyyin> Hume2, unfortunate mistake, leyyin is just my name in hevrew reversed
+[2015/12/21 08:51:01] <leyyin> *hebrew
+[2015/12/21 08:51:21] <Hume2> Well then.
+[2015/12/21 08:52:07] <Not-e81f> [02supertux] 07c02y starred 03supertux - 13http://git.io/vEqGT
+[2015/12/21 08:52:19] <Not-e81f> [02supertux] 07c02y forked the repository - 13http://git.io/vEqGT
+[2015/12/21 08:52:20] <leyyin> Tobbi, https://help.github.com/articles/getting-the-download-count-for-your-releases/
+[2015/12/21 08:52:53] <Not-e81f> [02supertux] 07mkrs starred 03supertux - 13http://git.io/vEqG2
+[2015/12/21 08:53:16] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98116069
+[2015/12/21 08:55:18] <leyyin> https://api.github.com/repos/supertux/supertux/releases/tags/v0.4.0
+[2015/12/21 08:57:38] <leyyin> to see all releases https://api.github.com/repos/supertux/supertux/releases
+[2015/12/21 08:57:58] <leyyin> you should install extension, like json view :P
+[2015/12/21 08:58:00] <Not-e81f> [02supertux] 07svenstaro commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vEqck
+[2015/12/21 08:58:03] <leyyin> make viewing json much easier
+[2015/12/21 08:59:03] <Not-e81f> [02supertux] 07tobbi commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vEqc6
