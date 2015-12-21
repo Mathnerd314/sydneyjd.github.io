@@ -28554,3 +28554,9 @@
 [2015/12/21 13:11:57] <mt> it doesn't seem that much maintained, doesn't support new IRCv3 features
 [2015/12/21 13:13:12] <mt> https://github.com/ProgVal/Limnoria is very extensible, supports modern features, has relatively clean code and is maintained
 [2015/12/21 13:13:19] <mt> and they've got great support
+[2015/12/21 13:25:00] @ Hume2 joined channel #supertux
+[2015/12/21 13:25:02] @ Mode +v Hume2 by ChanServ
+[2015/12/21 13:27:20] <Hume2> How is it going?
+[2015/12/21 13:28:00] <Karkus> Hello, Hume2
+[2015/12/21 13:28:03] <mt> Hi!
+[2015/12/21 13:28:18] <Hume2> Hello all!
