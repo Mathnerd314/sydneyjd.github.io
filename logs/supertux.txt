@@ -27824,3 +27824,46 @@
 [2015/12/21 06:58:35] <Tobbi> So, if you delete it, or set it to 0'0, it should find the home position :P
 [2015/12/21 06:58:38] <Tobbi> I think that's in the code.
 [2015/12/21 06:58:50] <stewboy> I've already started playing through half the levels anyway, so that's fine
+[2015/12/21 07:01:30] <Not-e81f> [02supertux] 07tobbi commented on issue 03#274: Positional audio exaggerated - 13http://git.io/vEtow
+[2015/12/21 07:02:01] <Tobbi> I meant to only delete tux's position, not the whole file, hope you understood that correctly.
+[2015/12/21 07:02:41] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#274: Positional audio exaggerated - 13http://git.io/vEtop
+[2015/12/21 07:03:09] <stewboy> ah
+[2015/12/21 07:03:15] <stewboy> well, doesn't matter now in any case
+[2015/12/21 07:03:26] <Hume2> Tobbi: Therefore I can close the issue on Mantis and redirect the discussion to GitHub.
+[2015/12/21 07:03:36] <Tobbi> Hume2: No, you can't.
+[2015/12/21 07:03:39] <Tobbi> Keep it open, please.
+[2015/12/21 07:03:45] <Tobbi> We're more likely to look at the github one.
+[2015/12/21 07:03:49] <Tobbi> Ah.
+[2015/12/21 07:03:53] <Tobbi> Yes, you can.
+[2015/12/21 07:03:55] <Tobbi> Sorry.
+[2015/12/21 07:04:37] <stewboy> another piece of feedback I have, and I don't know how useful it's going to be, is that I really hate voc-daytime2.ogg. The melody is way way too jagged and random, the chord progression is too simple, and the instrument just gets on my nerves really quickly. To be honest it feels like a very low effort track. Voc-night.ogg has very similar problems but the more mellow tone quality to the instrumen
+[2015/12/21 07:04:38] <stewboy> ts means it doesn't get as annoying, and I get the atmosphere that the composer was after. Voc-daytime.ogg is more listenable, though it still feels slightly uninspired.
+[2015/12/21 07:04:47] <stewboy> ah didn't mean for that to cut across aw ord
+[2015/12/21 07:04:49] <stewboy> a word*
+[2015/12/21 07:06:17] <Hume2> My ears don't work properly, so I should rather not try to fix that.
+[2015/12/21 07:06:30] <stewboy> I remember these tracks have been around in development for a while... I probably should've said something earlier but to be honest I mostly forgot about supertux until just now when milestone 2 was released
+[2015/12/21 07:06:54] <stewboy> yeah, it's probably fine for most people, but for a musician like me it's just incredibly grating
+[2015/12/21 07:07:12] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#274: Positional audio exaggerated - 13http://git.io/vEt6n
+[2015/12/21 07:07:49] <Tobbi> stewboy: Feel free to submit an improvement...
+[2015/12/21 07:08:26] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#274: Positional audio exaggerated - 13http://git.io/vEt6X
+[2015/12/21 07:08:36] <stewboy> yeah I might see if I can write something that kind of fits in the style
+[2015/12/21 07:09:10] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#274: Positional audio exaggerated - 13http://git.io/vEtiJ
+[2015/12/21 07:09:56] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#274: Positional audio exaggerated - 13http://git.io/vEti4
+[2015/12/21 07:10:25] @ Quit: lumidify: Quit: Leaving
+[2015/12/21 07:10:42] <Tobbi> Hume2, brmbrmcar: This is a known issue with our implementation of OpenAl...I don't know what's needed to fix it, but our positioning code is wrong.
+[2015/12/21 07:11:20] <stewboy> I did write something and submit it for the halloween worldmap just for fun a year ago, though it looks like the halloween set wasn't given much attention since then anyway
+[2015/12/21 07:11:30] <stewboy> for the halloween world, that is, not for the worldmap
+[2015/12/21 07:11:58] <brmbrmcar> Tobbi: I haven't a clue.
+[2015/12/21 07:12:02] <Tobbi> I think so.
+[2015/12/21 07:12:18] <Tobbi> stewboy: Link me to your contributions?
+[2015/12/21 07:12:22] <stewboy> http://supertux.lethargik.org/bugs/view.php?id=1068
+[2015/12/21 07:13:02] <stewboy> forty-two is me
+[2015/12/21 07:13:43] <Tobbi> Oh, yes...
+[2015/12/21 07:13:47] <Tobbi> We can add it.
+[2015/12/21 07:14:08] <Tobbi> stewboy: What license do you put this under?
+[2015/12/21 07:14:20] <stewboy> uh... I hadn't thought that far
+[2015/12/21 07:14:42] <stewboy> oh wow I paused supertux while the crazy bomb was going off and now its insane grunting is going on continuously
+[2015/12/21 07:14:50] <Not-e81f> [02supertux] 07tobbi assigned issue 03#275: Do not install external dependencies system-wide - 13http://git.io/vEtVv
+[2015/12/21 07:14:53] <stewboy> I will avoid doing that again
+[2015/12/21 07:14:59] <Not-e81f> [02supertux] 07timxx starred 03supertux - 13http://git.io/vEtXk
+[2015/12/21 07:14:59] <stewboy> what license does it need to be under
