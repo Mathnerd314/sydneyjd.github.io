@@ -30164,3 +30164,45 @@
 [2015/12/22 18:25:15] <giby_the_kid> Ubuntu stinks.... Mageia rules :p
 [2015/12/22 18:26:05] <oumph> that's common in English, but uncommon in French. But let's go for the esthetic point.
 [2015/12/22 18:26:45] <giby_the_kid> Well.... I'm dyslexic and often working abroad
+[2015/12/22 18:30:58] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/186
+[2015/12/22 18:31:54] @ sebras joined channel #supertux
+[2015/12/22 18:32:26] <sebras> hi! I'd like to contribute to the Swedish translation of supertux, but in order to do so I need to be part of the translation team over at transifex. can you help with this?
+[2015/12/22 18:32:30] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98423197
+[2015/12/22 18:34:17] <Karkus> giby_the_kid: ^^
+[2015/12/22 18:34:53] <giby_the_kid> sebras, sure
+[2015/12/22 18:35:08] <giby_the_kid> just introduce yourself to the team ;)
+[2015/12/22 18:35:25] <sebras> giby_the_kid: here? or over at transifex?
+[2015/12/22 18:36:14] <giby_the_kid> here
+[2015/12/22 18:36:18] <sebras> alright. :)
+[2015/12/22 18:37:06] @ Tobbi joined channel #supertux
+[2015/12/22 18:37:07] @ Mode +o Tobbi by ChanServ
+[2015/12/22 18:37:09] <sebras> so I'm a software developer focusing on open source that do translations to Swedish for programs in my spare time.
+[2015/12/22 18:37:32] <Tobbi> Hello.
+[2015/12/22 18:37:45] <sebras> the last year and a half I have been contributing quite a few translations to GNOME, e.g. the gigantic gnome-user-docs to Swedish.
+[2015/12/22 18:37:51] <sebras> s/to/for/
+[2015/12/22 18:37:51] <red_bot> sebras meant: "the last year and a half I have been contributing quite a few translations for GNOME, e.g. the gigantic gnome-user-docs to Swedish."
+[2015/12/22 18:38:04] <Tobbi> sebras: Did you join transifex?
+[2015/12/22 18:38:25] <sebras> Tobbi: I'm already part of the freedesktop.org effort there, but I have never really used their platform.
+[2015/12/22 18:38:44] <sebras> Tobbi: I've mainly been using l10n.gnome.org and the translation project robot.
+[2015/12/22 18:38:46] <Tobbi> sebras: If you join the SuperTux project there, I can accept you.
+[2015/12/22 18:38:52] <Tobbi> We use transifex exclusively.
+[2015/12/22 18:39:14] <sebras> Tobbi: yes, I got that after reading the sources and makepot.sh. :)
+[2015/12/22 18:39:19] <Tobbi> Oh, right.
+[2015/12/22 18:39:42] <Tobbi> sebras: Oh, you already asked to join. I'll accept you.
+[2015/12/22 18:39:49] <sebras> Tobbi: I did. :)
+[2015/12/22 18:40:42] <Tobbi> transifex is somewhat...annoying...
+[2015/12/22 18:40:44] <sebras> btw, I have never seen supertux until today, but I wanted to contribute an early christmas gift of having a 100% swedish translation at least. :)
+[2015/12/22 18:40:45] <Tobbi> it's hard to find stuff.
+[2015/12/22 18:41:13] <sebras> Tobbi: indeed. the ui could do with a make over. :-/
+[2015/12/22 18:42:12] <Tobbi> Done.
+[2015/12/22 18:42:14] <Tobbi> Finally.
+[2015/12/22 18:42:18] <Karkus> Tobbi: If we have a mistake/typo in a current translation, can we update it and it will be fixed for anyone else who downloads the langpack?
+[2015/12/22 18:42:32] <giby_the_kid> Ok, you're in ;)
+[2015/12/22 18:42:35] <Tobbi> Karkus: I think it will...but I'd rather try it out.
+[2015/12/22 18:42:56] <sebras> giby_the_kid: Tobbi: thanks.
+[2015/12/22 18:43:06] <Karkus> Tobbi: giby said we had a type in the French (?) translation.
+[2015/12/22 18:43:26] <giby_the_kid> correcting them ;)
+[2015/12/22 18:43:28] <Tobbi> giby_the_kid: Is the typo fixed on tx?
+[2015/12/22 18:43:48] <Tobbi> giby_the_kid: I can assemble a language pack you can try out after I pulled the resources from tx.
+[2015/12/22 18:44:13] <Tobbi> Karkus: I will look into moving makepot.sh to py now.
+[2015/12/22 18:44:42] <Tobbi> Who uses shell these days...
