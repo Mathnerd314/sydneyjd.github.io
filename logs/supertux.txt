@@ -29088,3 +29088,6 @@
 [2015/12/22 02:21:08] <Not-e81f> [02supertux] 07netroby starred 03supertux - 13http://git.io/vEsEi
 [2015/12/22 02:24:32] @ Hume2 joined channel #supertux
 [2015/12/22 02:24:41] @ Mode +v Hume2 by ChanServ
+[2015/12/22 02:47:08] <Not-e81f> [02supertux] 07ZhiweiWang starred 03supertux - 13http://git.io/vEsVS
+[2015/12/22 02:47:09] <Not-e81f> [02supertux] 07ZhiweiWang forked the repository - 13http://git.io/vEsVS
+[2015/12/22 02:53:36] <Not-e81f> [02supertux] 07everest715 starred 03supertux - 13http://git.io/vEsrG
