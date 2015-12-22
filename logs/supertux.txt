@@ -29073,3 +29073,6 @@
 [2015/12/22 00:02:51] @ tuxdev_ joined channel #supertux
 [2015/12/22 00:51:56] @ swift110-phone joined channel #supertux
 [2015/12/22 00:51:58] <swift110-phone> Hey
+[2015/12/22 01:32:22] @ lumidify joined channel #supertux
+[2015/12/22 01:41:13] @ lumidify1 joined channel #supertux
+[2015/12/22 01:41:47] @ Quit: lumidify: Ping timeout: 240 seconds
