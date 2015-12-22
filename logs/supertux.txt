@@ -29824,3 +29824,27 @@
 [2015/12/22 10:13:46] <Tobbi> gargh, that reaching th top level is difficult.
 [2015/12/22 10:14:21] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98333957
 [2015/12/22 10:14:43] <Tobbi> 175 stars.
+[2015/12/22 10:16:23] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/180
+[2015/12/22 10:16:25] @ Karkus joined channel #supertux
+[2015/12/22 10:16:25] @ Mode +o Karkus by ChanServ
+[2015/12/22 10:16:47] <maths22> grumbel: Thanks
+[2015/12/22 10:17:28] <Not-e81f> [02supertux] 07rodoviario starred 03supertux - 13http://git.io/vEZF4
+[2015/12/22 10:18:12] <mt> why do we need supertux forks of almost everything?
+[2015/12/22 10:18:27] <mt> can't we depend on the official version?
+[2015/12/22 10:19:02] <maths22> Still failing with other errors https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/180
+[2015/12/22 10:19:41] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98332059
+[2015/12/22 10:22:40] <Karkus> mt: For example?
+[2015/12/22 10:23:05] <mt> re commit c4376bb
+[2015/12/22 10:23:38] <mt> but as seen in https://github.com/SuperTux/supertux/tree/master/external
+[2015/12/22 10:23:55] <mt> we also use SuperTux/squirrel and SuperTux/tinygettext
+[2015/12/22 10:24:10] <Not-e81f> [02supertux] 07tgutwin starred 03supertux - 13http://git.io/vEZAH
+[2015/12/22 10:25:06] <Karkus> mt: They are submodules, so I guess it's better we have our own versions too, for example, if the external repo has an update which causes problems?
+[2015/12/22 10:25:07] <Tobbi> mt: Squirrel has no git repo.
+[2015/12/22 10:25:25] <Karkus> That too :D
+[2015/12/22 10:26:57] <mt> Tobbi: why can't we depend on it like we do on glew, glbinding, libvorbis, sdl2, ...
+[2015/12/22 10:27:55] <Tobbi> mt: We probably could, but that wouldn't get rid of the repos.
+[2015/12/22 10:28:22] <mt> not?
+[2015/12/22 10:28:26] <mt> for what reason?
+[2015/12/22 10:28:58] <Tobbi> mt: iirc, we modified squirrel...
+[2015/12/22 10:29:01] <mt> I mean right now these libraries are probably built and linked to statically?
+[2015/12/22 10:29:38] <mt> oh well, then either make it work with the out-of-box squirrel, or yeah what we do is okay for now.
