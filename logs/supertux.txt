@@ -29016,3 +29016,7 @@
 [2015/12/21 19:28:54] * jesusalva also wouldn't want to check everything on the logs, so he is cutting to the most "important" parts of it.
 [2015/12/21 19:29:05] <Tobbi> jesusalva: Okay, I believe I already skimmed through most of the logs.
 [2015/12/21 19:29:22] <Tobbi> I already fetched the most important part which is brmbrmcar getting upset and leaving :P
+[2015/12/21 19:33:56] <swift110> wheres sydney
+[2015/12/21 19:34:21] <Tobbi> swift110: head8debian is idle for more than 3 hours.
+[2015/12/21 19:37:15] @ Quit: jesusalva: Ping timeout: 276 seconds
+[2015/12/21 19:41:14] <swift110> oh ok
