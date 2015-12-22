@@ -29636,3 +29636,18 @@
 [2015/12/22 08:41:20] <Not-e81f> [02supertux] 07Pix3lworkshop starred 03supertux - 13http://git.io/vEZqg
 [2015/12/22 08:42:45] <swift110-phone> Lol
 [2015/12/22 08:42:52] <swift110-phone> Get a better phone
+[2015/12/22 08:48:20] <Not-e81f> [02supertux] 07czsilence starred 03supertux - 13http://git.io/vEZOG
+[2015/12/22 08:48:34] <Tobbi> 171 stars.
+[2015/12/22 08:49:35] <Karkus> Tobbi: How come we're getting so many stars? Where's all the attention coming from?
+[2015/12/22 08:49:47] <Tobbi> Karkus: I'd say twitter...
+[2015/12/22 08:49:53] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEZOb
+[2015/12/22 08:49:54] <Not-e81f> [02supertux] 07Hume2 036db5fa3 - Fixed typo in credits
+[2015/12/22 08:49:56] <grumbel> Karkus: It's on Slashdot
+[2015/12/22 08:50:19] <grumbel> http://linux.slashdot.org/story/15/12/21/2255250/super-mario-inspired-supertux-issues-its-first-official-release-in-10-years#comments
+[2015/12/22 08:50:53] <Karkus> grumbel: Oh, I see
+[2015/12/22 08:56:17] <Tobbi> Hume2: The server is called chat.freenode.net, webchat.freenode.net is only the web interface.
+[2015/12/22 08:56:23] <Tobbi> I am not sure if people will understand.
+[2015/12/22 08:57:29] <Hume2> Tobbi: I'm now trying to go to chat.freenode.net.
+[2015/12/22 08:57:37] <Tobbi> Hume2: Using an irc client, it works.
+[2015/12/22 08:58:05] <Not-e81f> [02supertux] 07Grumbel opened issue 03#290: Windows doesn't record stdout output - 13http://git.io/vEZGy
+[2015/12/22 08:58:15] <Hume2> Tobbi: That way people won't understant.
