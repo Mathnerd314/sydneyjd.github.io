@@ -30134,3 +30134,8 @@
 [2015/12/22 17:43:42] @ swift110 joined channel #supertux
 [2015/12/22 17:50:36] @ Quit: swift110: Changing host
 [2015/12/22 17:50:36] @ swift110 joined channel #supertux
+[2015/12/22 18:04:36] <giby_the_kid> Hi... Someone noticed a spelling mistake in the localization....
+[2015/12/22 18:07:22] <Karkus> giby_the_kid: That's okay, isn't it? Languages are based on addons now
+[2015/12/22 18:08:03] <giby_the_kid> ok
+[2015/12/22 18:08:43] <Karkus> giby_the_kid: I don't know specifically, but we can update, and anyone who downloads the language pack will get the spelling mistake fixed.
+[2015/12/22 18:09:01] <Karkus> giby_the_kid: Hopefully :/
