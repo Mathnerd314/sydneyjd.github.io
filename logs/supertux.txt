@@ -29962,3 +29962,17 @@
 [2015/12/22 12:05:38] <Hume2> very pending...
 [2015/12/22 12:06:57] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98349851
 [2015/12/22 12:07:38] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98349851
+[2015/12/22 12:16:01] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98349851
+[2015/12/22 12:16:15] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98349851
+[2015/12/22 12:19:02] <mt> Travis doesn't seem to have resources that can be allocated for the build
+[2015/12/22 12:19:22] <mt> only one build actually started yet
+[2015/12/22 12:19:58] <Hume2> Not-e81f was leading a monologue...
+[2015/12/22 12:20:46] @ Mode +zq Not-e81f!~notifico@198.199.82.216 by mt
+[2015/12/22 12:21:15] <mt> +z makes the IRCd still send the messages to opped users
+[2015/12/22 12:21:26] <mt> of quieted or +m users
+[2015/12/22 12:22:06] <mt> One more build started!
+[2015/12/22 12:28:08] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#262: Show correct type of Tux and direction when going off the screen - 13http://git.io/vEnMm
+[2015/12/22 12:29:05] <Not-e81f> [02supertux] 07Hume2 labeled issue 03#262: Show correct type of Tux and direction when going off the screen - 13http://git.io/v03cm
+[2015/12/22 12:29:07] <Not-e81f> [02supertux] 07Hume2 labeled issue 03#262: Show correct type of Tux and direction when going off the screen - 13http://git.io/v03cm
+[2015/12/22 12:29:49] <Not-e81f> [02supertux] 07Hume2 labeled issue 03#290: Windows doesn't record stdout output - 13http://git.io/vEZGy
+[2015/12/22 12:29:50] <Not-e81f> [02supertux] 07Hume2 labeled issue 03#290: Windows doesn't record stdout output - 13http://git.io/vEZGy
