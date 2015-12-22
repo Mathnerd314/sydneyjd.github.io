@@ -28997,3 +28997,22 @@
 [2015/12/21 19:09:43] @ swift110 joined channel #supertux
 [2015/12/21 19:09:52] <swift110> hey all
 [2015/12/21 19:10:26] @ datahead8888 joined channel #supertux
+[2015/12/21 19:15:30] <jesusalva> Hello Tobbi, swift110
+[2015/12/21 19:15:38] <Tobbi> hello jesusalva
+[2015/12/21 19:15:47] <swift110> hey jesusalva how are you?
+[2015/12/21 19:19:26] <Tobbi> but wow, big discussions.
+[2015/12/21 19:19:56] <jesusalva> I'm fine, thanks swift110.
+[2015/12/21 19:20:11] <jesusalva> Preparing my alliance in another game for war.
+[2015/12/21 19:20:16] @ Quit: brmbrmcar: Ping timeout: 264 seconds
+[2015/12/21 19:21:57] <swift110> jesusalva, thats cool
+[2015/12/21 19:27:09] <Tobbi> I have a suggestion to make: As a first price for that worldmap thingy: A meeting with SuperTux's involuntary project lead, Tobbi.
+[2015/12/21 19:27:23] <Tobbi> Aka, people can meet me IRL...
+[2015/12/21 19:27:29] <Tobbi> If they pay for everything, of course.
+[2015/12/21 19:27:30] <Tobbi> :D
+[2015/12/21 19:28:05] <jesusalva> I'm compiling the most important strings for you (or anyone else interested), Tobbi.
+[2015/12/21 19:28:15] <Tobbi> jesusalva: Huh?
+[2015/12/21 19:28:18] <Tobbi> Of what?
+[2015/12/21 19:28:29] <jesusalva> The above discussion.
+[2015/12/21 19:28:54] * jesusalva also wouldn't want to check everything on the logs, so he is cutting to the most "important" parts of it.
+[2015/12/21 19:29:05] <Tobbi> jesusalva: Okay, I believe I already skimmed through most of the logs.
+[2015/12/21 19:29:22] <Tobbi> I already fetched the most important part which is brmbrmcar getting upset and leaving :P
