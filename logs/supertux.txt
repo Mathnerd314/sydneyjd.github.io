@@ -29115,3 +29115,21 @@
 [2015/12/22 03:59:21] <snadge> topic answers my question :D .. love taht
 [2015/12/22 03:59:52] <Tobbi> :D
 [2015/12/22 04:00:00] <Tobbi> snadge: What was your question, anyway?
+[2015/12/22 04:04:11] <Tobbi> Probably something regarding the release :P
+[2015/12/22 04:07:20] <snadge> yeah.. it was going to be how do i build it on ubuntu 15.10 .. im getting the iconv error after manually installing the other dependencies
+[2015/12/22 04:07:25] <snadge> then i saw the repo
+[2015/12/22 04:07:56] <snadge> but now the tuxracer package is installed but has nothing in it
+[2015/12/22 04:08:18] <snadge> err supertux rather lol
+[2015/12/22 04:10:23] <brmbrmcar> The ubuntu one doesn't work.
+[2015/12/22 04:10:38] <Tobbi> Hmm...
+[2015/12/22 04:10:40] <snadge> just discovered that
+[2015/12/22 04:10:47] <brmbrmcar> If you have Wine, the windows one works.
+[2015/12/22 04:10:48] <snadge> apparently i can manually download libiconv
+[2015/12/22 04:11:00] <Tobbi> Are you sure you don't have that already?
+[2015/12/22 04:11:05] <snadge> supposedly
+[2015/12/22 04:11:15] <snadge> apparently theres an issue with the ubuntu provided one
+[2015/12/22 04:11:18] <snadge> and its called something else
+[2015/12/22 04:11:18] <Tobbi> Could be this https://github.com/SuperTux/supertux/issues/282
+[2015/12/22 04:12:10] <snadge> well i could provide more data i suppose and fix it
+[2015/12/22 04:12:26] <snadge> apparently i have every other dependency installed.. i just get this error
+[2015/12/22 04:13:36] <Not-e81f> [02supertux] 07JMLas opened issue 03#284: 0.4 crashes on startup on Mac OS X 10.7 - 13http://git.io/vEsFb
