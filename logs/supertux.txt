@@ -29956,3 +29956,9 @@
 [2015/12/22 11:55:20] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98349851
 [2015/12/22 11:59:04] @ Quit: alket: Quit: x
 [2015/12/22 11:59:51] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98349851
+[2015/12/22 12:00:18] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98349851
+[2015/12/22 12:03:35] <Not-e81f> [02supertux] 07TheFakeMontyOnTheRun starred 03supertux - 13http://git.io/vEnVb
+[2015/12/22 12:03:59] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98349851
+[2015/12/22 12:05:38] <Hume2> very pending...
+[2015/12/22 12:06:57] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98349851
+[2015/12/22 12:07:38] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98349851
