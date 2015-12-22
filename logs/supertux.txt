@@ -29080,3 +29080,6 @@
 [2015/12/22 01:56:45] <Not-e81f> [02supertux] 07light4 starred 03supertux - 13http://git.io/vEslt
 [2015/12/22 01:57:55] <Not-e81f> [02supertux] 07shlinux forked the repository - 13http://git.io/vEslf
 [2015/12/22 01:59:10] @ brmbrmcar joined channel #supertux
+[2015/12/22 02:08:36] @ Quit: lumidify1: Ping timeout: 240 seconds
+[2015/12/22 02:09:03] @ lumidify1 joined channel #supertux
+[2015/12/22 02:14:48] @ Quit: lumidify1: Quit: Leaving
