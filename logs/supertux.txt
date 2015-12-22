@@ -30064,3 +30064,4 @@
 [2015/12/22 15:10:27] @ Quit: leyyin: Ping timeout: 260 seconds
 [2015/12/22 15:28:22] <brmbrmcar> I want to murder ChanServ.
 [2015/12/22 15:29:01] <Not-e81f> [02supertux] 07JMLas commented on issue 03#284: 0.4 crashes on startup on Mac OS X 10.7 - 13http://git.io/vEcx8
+[2015/12/22 15:37:00] <Not-e81f> [02supertux] 07JMLas commented on issue 03#284: 0.4 crashes on startup on Mac OS X 10.7 - 13http://git.io/vECem
