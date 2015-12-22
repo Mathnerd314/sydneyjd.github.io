@@ -29308,3 +29308,17 @@
 [2015/12/22 05:42:23] <Not-e81f> [02supertux] 07Grumbel deleted branch 03develop - 13http://git.io/vvf63
 [2015/12/22 05:42:24] <Not-e81f> [02supertux] 07Grumbel deleted branch 03develop
 [2015/12/22 05:43:08] @ VargaD joined channel #supertux
+[2015/12/22 05:45:11] <Not-e81f> [02supertux] 07Vincent-C commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vEGZ5
+[2015/12/22 05:47:13] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/170
+[2015/12/22 05:52:26] <Not-e81f> [02supertux] 07cznic starred 03supertux - 13http://git.io/vEGc9
+[2015/12/22 05:52:58] <Tobbi> aaand 150 stars.
+[2015/12/22 05:53:00] <Tobbi> :D
+[2015/12/22 05:54:06] <brmbrmcar> 150 isnothing.
+[2015/12/22 05:54:07] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98291106
+[2015/12/22 05:55:22] <Tobbi> brmbrmcar: We're getting close to SuperTuxKart's star count.
+[2015/12/22 05:55:30] <Tobbi> And let's face it,supertuxkart is cooler than ours.
+[2015/12/22 05:57:18] @ Karkus joined channel #supertux
+[2015/12/22 05:57:18] @ Mode +o Karkus by ChanServ
+[2015/12/22 05:57:41] <brmbrmcar> Don't give in to SuperTuxKart!
+[2015/12/22 05:58:33] <brmbrmcar> We are thebetter game!
+[2015/12/22 05:59:49] <Tobbi> grumbel: There's something wrong with the lisp parser. 1) level names are not translated. 2) some stuff maps to 0'0 (not sure if this is a lisp parser issue, though.
