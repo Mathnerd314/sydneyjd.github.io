@@ -30008,3 +30008,6 @@
 [2015/12/22 13:48:10] @ alket joined channel #supertux
 [2015/12/22 13:48:17] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98365351
 [2015/12/22 13:49:51] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98369986
+[2015/12/22 14:01:27] @ leyyin joined channel #supertux
+[2015/12/22 14:06:05] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98369986
+[2015/12/22 14:07:42] <Not-e81f> [02supertux] 07troglobit starred 03supertux - 13http://git.io/vEc8g
