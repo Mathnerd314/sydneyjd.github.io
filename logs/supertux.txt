@@ -30057,3 +30057,8 @@
 [2015/12/22 14:55:00] <Hume2> I tried all levels from Halloween and each worked.
 [2015/12/22 14:55:24] <Karkus> Hume2: I will try again later. I have to go now
 [2015/12/22 14:55:44] <Hume2> Bye.
+[2015/12/22 15:02:06] @ giby_the_kid joined channel #supertux
+[2015/12/22 15:02:06] @ Mode +o giby_the_kid by ChanServ
+[2015/12/22 15:04:26] @ Quit: giby: Ping timeout: 246 seconds
+[2015/12/22 15:09:05] @ leyyin_ joined channel #supertux
+[2015/12/22 15:10:27] @ Quit: leyyin: Ping timeout: 260 seconds
