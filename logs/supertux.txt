@@ -30132,3 +30132,5 @@
 [2015/12/22 17:31:23] @ Quit: leyyin__: Quit: So Long, and Thanks for All the Fish
 [2015/12/22 17:39:43] @ Quit: brmbrmcar: Quit: Found terminal
 [2015/12/22 17:43:42] @ swift110 joined channel #supertux
+[2015/12/22 17:50:36] @ Quit: swift110: Changing host
+[2015/12/22 17:50:36] @ swift110 joined channel #supertux
