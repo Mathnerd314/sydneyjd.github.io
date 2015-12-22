@@ -29133,3 +29133,48 @@
 [2015/12/22 04:12:10] <snadge> well i could provide more data i suppose and fix it
 [2015/12/22 04:12:26] <snadge> apparently i have every other dependency installed.. i just get this error
 [2015/12/22 04:13:36] <Not-e81f> [02supertux] 07JMLas opened issue 03#284: 0.4 crashes on startup on Mac OS X 10.7 - 13http://git.io/vEsFb
+[2015/12/22 04:15:14] <snadge> http://pastebin.com/sGgy3LU6
+[2015/12/22 04:15:21] <Tobbi> *sigh*
+[2015/12/22 04:16:02] <snadge> that could explain why people install from libiconv from gnu.org
+[2015/12/22 04:16:49] <Tobbi> Looks extremely similar to the log provided in https://github.com/SuperTux/supertux/issues/282
+[2015/12/22 04:17:14] <snadge> thats okay.. it doesn't look like a show stopper
+[2015/12/22 04:17:14] <Tobbi> maths22 is currently taking a look at that.
+[2015/12/22 04:17:36] <Tobbi> I am afraid I don't know that much about build systems and their quirks.
+[2015/12/22 04:17:57] <snadge> the test seems quite explicit.. the comment in it anyway
+[2015/12/22 04:18:12] <snadge> that the check will fail on systems that have a definition for double iconv
+[2015/12/22 04:18:20] <Not-e81f> [02supertux] 07rayfung starred 03supertux - 13http://git.io/vEsNf
+[2015/12/22 04:18:35] <Tobbi> yup.
+[2015/12/22 04:19:01] <Tobbi> We should have the github star count displayed in the channel topic :P
+[2015/12/22 04:19:21] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±2] 13http://git.io/vEsNZ
+[2015/12/22 04:19:22] <Not-e81f> [02supertux] 07Hume2 03eace40a - Made the Yeti more variable
+[2015/12/22 04:19:24] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98279839
+[2015/12/22 04:19:25] <Tobbi> 145 now.
+[2015/12/22 04:19:25] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/169
+[2015/12/22 04:20:01] <Tobbi> Interesting commit.
+[2015/12/22 04:20:20] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98279839
+[2015/12/22 04:21:24] <Tobbi> Hume2: ping
+[2015/12/22 04:21:36] <Hume2> Tobbi: pong
+[2015/12/22 04:22:00] <Hume2> I was just staring to the source.
+[2015/12/22 04:22:18] <Tobbi> Hume2: You know: Every function call of get (to get squirrel errors) should be checked by an if statement. otherwise coverity will complain.
+[2015/12/22 04:22:52] <Tobbi> Because "not checking return value"
+[2015/12/22 04:23:01] <Hume2> Well...
+[2015/12/22 04:23:30] <Tobbi> Hume2: I know it might be silly,  but if we want to stay clean on coverity...
+[2015/12/22 04:23:36] <Tobbi> Coverity is our god.
+[2015/12/22 04:23:37] <Tobbi> :P
+[2015/12/22 04:24:47] <Not-e81f> [02supertux] 07tobbi commented on issue 03#284: 0.4 crashes on startup on Mac OS X 10.7 - 13http://git.io/vEsAK
+[2015/12/22 04:24:50] <Hume2> Well, were was it? In yeti.cpp or somewhere else did I this mistake?
+[2015/12/22 04:24:58] <Tobbi> Hume2: No, yeti.cpp.
+[2015/12/22 04:25:02] <Tobbi> Also, it's not a mistake.
+[2015/12/22 04:25:08] <Tobbi> It's just something coverity wants :P
+[2015/12/22 04:25:36] <snadge> hmm.. why does supertux declare double iconv, when there exists a definition for it as size_t
+[2015/12/22 04:25:55] <Hume2> Yes. I still don't get it. I copied that from willowisp.cpp.
+[2015/12/22 04:26:21] <Tobbi> Hume2: Okay, so it's wrong in willowisp as well...so something that coverity didn't find.
+[2015/12/22 04:26:38] <Hume2> So instead of reader.get(...) it should be if( reader.get(...)) {...}
+[2015/12/22 04:27:21] <Tobbi> Hume2: No, if(!reader.get(...)) { log_debug << "Property <whateverprop> not set. Using default..."};
+[2015/12/22 04:27:23] <Tobbi> Or something like that.
+[2015/12/22 04:27:40] <Hume2> Oh, got it.
+[2015/12/22 04:27:51] <Tobbi> Hume2: That's what I did, just to silence coverity.
+[2015/12/22 04:28:01] <Tobbi> I am not sure how correct coverity is, but it doesn't matter that muc.
+[2015/12/22 04:28:02] <Tobbi> h
+[2015/12/22 04:28:06] <Hume2> :D
+[2015/12/22 04:29:56] <Hume2> Tobbi: Do I have to mess up with the warning in the log?
