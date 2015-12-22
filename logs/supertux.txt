@@ -29083,3 +29083,8 @@
 [2015/12/22 02:08:36] @ Quit: lumidify1: Ping timeout: 240 seconds
 [2015/12/22 02:09:03] @ lumidify1 joined channel #supertux
 [2015/12/22 02:14:48] @ Quit: lumidify1: Quit: Leaving
+[2015/12/22 02:15:16] @ lumidify joined channel #supertux
+[2015/12/22 02:19:01] <Not-e81f> [02supertux] 07jasperblues starred 03supertux - 13http://git.io/vEs0j
+[2015/12/22 02:21:08] <Not-e81f> [02supertux] 07netroby starred 03supertux - 13http://git.io/vEsEi
+[2015/12/22 02:24:32] @ Hume2 joined channel #supertux
+[2015/12/22 02:24:41] @ Mode +v Hume2 by ChanServ
