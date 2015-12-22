@@ -29983,3 +29983,19 @@
 [2015/12/22 12:31:10] <Not-e81f> [02supertux] 07Hume2 labeled issue 03#285: SuperTux 0.4 can't run - 13http://git.io/vEGMK
 [2015/12/22 12:31:41] <Not-e81f> [02supertux] 07Jake41 starred 03supertux - 13http://git.io/vEnyG
 [2015/12/22 12:35:53] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/22 13:15:34] @ Joined channel #supertux
+[2015/12/22 13:15:34] @ Topic is "MILESTONE 2 RELEASED | https://github.com/SuperTux | Stable: 0.4.0 | mailing list: supertux-devel@lists.lethargik.org | Channel log http://sydneyjd.github.io/logs/ | nightly builds http://download.supertuxproject.org/download/"
+[2015/12/22 13:15:34] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-12-20 14:44:19 -0500
+[2015/12/22 13:15:38] @ Mode +nt by rajaniemi.freenode.net
+[2015/12/22 13:15:47] @ Mode +o red_bot by ChanServ
+[2015/12/22 13:17:09] @ head8debian joined channel #supertux
+[2015/12/22 13:17:09] @ Mode +o head8debian by ChanServ
+[2015/12/22 13:24:31] @ Joined channel #supertux
+[2015/12/22 13:24:31] @ Topic is "MILESTONE 2 RELEASED | https://github.com/SuperTux | Stable: 0.4.0 | mailing list: supertux-devel@lists.lethargik.org | Channel log http://sydneyjd.github.io/logs/ | nightly builds http://download.supertuxproject.org/download/"
+[2015/12/22 13:24:31] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-12-20 14:44:19 -0500
+[2015/12/22 13:24:35] @ Mode +nt by sinisalo.freenode.net
+[2015/12/22 13:24:43] @ Mode +o red_bot by ChanServ
+[2015/12/22 13:25:07] @ jesusalva joined channel #supertux
+[2015/12/22 13:27:00] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98365351
+[2015/12/22 13:27:24] @ Quit: tuxdev_: Ping timeout: 260 seconds
+[2015/12/22 13:28:58] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98364582
