@@ -29178,3 +29178,28 @@
 [2015/12/22 04:28:02] <Tobbi> h
 [2015/12/22 04:28:06] <Hume2> :D
 [2015/12/22 04:29:56] <Hume2> Tobbi: Do I have to mess up with the warning in the log?
+[2015/12/22 04:30:10] <Hume2> Or I can just set the default value?
+[2015/12/22 04:30:29] <Tobbi> Hume2: just set a default.
+[2015/12/22 04:30:38] <Tobbi> Hume2: Coverity just wants it if-checked.
+[2015/12/22 04:30:45] <Hume2> Yeah.
+[2015/12/22 04:32:21] <Tobbi> snadge: I really don't know. Also, we are the wrong people to ask, none of us know. But maths22 might know the answer...
+[2015/12/22 04:32:28] <Tobbi> or rather: Would be able to find out.
+[2015/12/22 04:33:22] <snadge> i should be able to fix this.. im 34 years old and have been using linux since i was 16
+[2015/12/22 04:33:44] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98279839
+[2015/12/22 04:33:45] <snadge> so whilst i have no real experience with iconv, libc, or even cmake.. how hard could it be right? ;)
+[2015/12/22 04:34:04] <Tobbi> snadge: Yeah, indeed.
+[2015/12/22 04:34:30] <Tobbi> snadge: So, if you can fix it: Pull Request :)
+[2015/12/22 04:34:42] <snadge> i also suck at git
+[2015/12/22 04:34:55] <brmbrmcar> I HATE GIT!
+[2015/12/22 04:34:56] <snadge> but whatever.. i know a little bit about it.. can probably figure it out with a bit of googling
+[2015/12/22 04:35:14] <Tobbi> snadge: Then maybe just give us a patch we can apply.
+[2015/12/22 04:35:50] <snadge> well i can see from the cmake file.. that it has two seperate paths.. one for if iconv is an external dependency.. and one if its built into libc
+[2015/12/22 04:36:13] <snadge> apparently if you download a specific version of iconv from gnu.org .. it will build.. so first i'll try that
+[2015/12/22 04:37:03] <snadge> if that works, that will give the clue of how to fix it properly
+[2015/12/22 04:37:35] <snadge> i suspect maths22 is already at this point
+[2015/12/22 04:37:56] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEsh1
+[2015/12/22 04:37:57] <Not-e81f> [02supertux] 07Hume2 036beea19 - Fixed coverity stuff in Yeti.cpp
+[2015/12/22 04:37:59] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98282214
+[2015/12/22 04:38:00] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/170
+[2015/12/22 04:38:30] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/166
+[2015/12/22 04:39:01] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98282214
