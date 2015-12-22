@@ -30065,3 +30065,6 @@
 [2015/12/22 15:28:22] <brmbrmcar> I want to murder ChanServ.
 [2015/12/22 15:29:01] <Not-e81f> [02supertux] 07JMLas commented on issue 03#284: 0.4 crashes on startup on Mac OS X 10.7 - 13http://git.io/vEcx8
 [2015/12/22 15:37:00] <Not-e81f> [02supertux] 07JMLas commented on issue 03#284: 0.4 crashes on startup on Mac OS X 10.7 - 13http://git.io/vECem
+[2015/12/22 15:58:41] @ Quit: head8deb1an: Ping timeout: 264 seconds
+[2015/12/22 15:59:18] @ head8debian joined channel #supertux
+[2015/12/22 15:59:18] @ Mode +o head8debian by ChanServ
