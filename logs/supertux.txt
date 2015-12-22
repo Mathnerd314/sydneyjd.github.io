@@ -29651,3 +29651,14 @@
 [2015/12/22 08:57:37] <Tobbi> Hume2: Using an irc client, it works.
 [2015/12/22 08:58:05] <Not-e81f> [02supertux] 07Grumbel opened issue 03#290: Windows doesn't record stdout output - 13http://git.io/vEZGy
 [2015/12/22 08:58:15] <Hume2> Tobbi: That way people won't understant.
+[2015/12/22 09:02:24] <Not-e81f> [02supertux] 07Grumbel commented on issue 03#288: Allow addons to be manually installed easily again - 13http://git.io/vEZnv
+[2015/12/22 09:03:31] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#288: Allow addons to be manually installed easily again - 13http://git.io/vEZng
+[2015/12/22 09:08:12] <Tobbi> Hume2: Okay, fine, change it then.
+[2015/12/22 09:08:16] <Tobbi> eeh, keep it then.
+[2015/12/22 09:09:44] <mt> I'm not for keeping it
+[2015/12/22 09:09:57] <mt> because it says "at IRC"
+[2015/12/22 09:10:05] <mt> IRC != HTTP
+[2015/12/22 09:10:31] <mt> You don't have to expect an HTTP URL just when a DNS name appears
+[2015/12/22 09:10:38] <Not-e81f> [02supertux] 07Grumbel commented on issue 03#288: Allow addons to be manually installed easily again - 13http://git.io/vEZWY
+[2015/12/22 09:10:53] <Not-e81f> [02supertux] 07Grumbel commented on issue 03#288: Allow addons to be manually installed easily again - 13http://git.io/vEZWc
+[2015/12/22 09:10:54] <mt> http is prefixed with http:// or https:// in credits
