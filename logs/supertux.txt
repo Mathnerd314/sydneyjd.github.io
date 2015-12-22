@@ -29098,3 +29098,20 @@
 [2015/12/22 03:43:26] <Not-e81f> [02supertux] 07linhua55 starred 03supertux - 13http://git.io/vCsQY
 [2015/12/22 03:44:47] @ Tobbi joined channel #supertux
 [2015/12/22 03:44:47] @ Mode +o Tobbi by ChanServ
+[2015/12/22 03:45:21] @ Quit: tuxdev_: Ping timeout: 272 seconds
+[2015/12/22 03:53:17] <Not-e81f> [02supertux] 07hackzilla starred 03supertux - 13http://git.io/vEs9X
+[2015/12/22 03:55:06] <brmbrmcar> Tobbi: Sleepwalking?
+[2015/12/22 03:55:13] <Tobbi> brmbrmcar: It's 10am
+[2015/12/22 03:55:34] <brmbrmcar> Too earlyfor you.
+[2015/12/22 03:55:58] <Tobbi> brmbrmcar: I didn't sleep well but I am fully awake now.
+[2015/12/22 03:56:19] <Tobbi> 144 stars.
+[2015/12/22 03:57:04] <brmbrmcar> I heard this galaxy had more.
+[2015/12/22 03:57:17] <Tobbi> brmbrmcar: There is no such thing as a galaxy...
+[2015/12/22 03:57:19] <Tobbi> :P
+[2015/12/22 03:57:30] <Tobbi> None of this around us is real.
+[2015/12/22 03:58:10] @ snadge joined channel #supertux
+[2015/12/22 03:58:16] <Tobbi> Hello snadge.
+[2015/12/22 03:58:25] <snadge> hello :)
+[2015/12/22 03:59:21] <snadge> topic answers my question :D .. love taht
+[2015/12/22 03:59:52] <Tobbi> :D
+[2015/12/22 04:00:00] <Tobbi> snadge: What was your question, anyway?
