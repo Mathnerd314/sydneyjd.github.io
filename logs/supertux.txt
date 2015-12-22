@@ -29219,3 +29219,37 @@
 [2015/12/22 04:56:58] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/167
 [2015/12/22 04:57:40] <snadge> ok.. so good news, i got it to build on ubuntu
 [2015/12/22 04:58:11] <snadge> bad news is.. i basically had to override the system libiconv to do it
+[2015/12/22 05:00:51] <Tobbi> :D
+[2015/12/22 05:00:54] <Tobbi> How great.
+[2015/12/22 05:01:11] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±9] 13http://git.io/vEGTd
+[2015/12/22 05:01:12] <Not-e81f> [02supertux] 07Hume2 0319b951f - Fixed reader.get usage in src/badguy/ due to coverity scan
+[2015/12/22 05:01:14] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98285567
+[2015/12/22 05:01:15] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/171
+[2015/12/22 05:02:10] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98285567
+[2015/12/22 05:03:34] <Tobbi> Hume2: Now you can't set the x position for kugelblitz anymore.
+[2015/12/22 05:03:48] <Tobbi> using lisp, I mean.
+[2015/12/22 05:04:00] <Hume2> I don't.
+[2015/12/22 05:04:07] <Not-e81f> [02supertux] 07JMLas commented on issue 03#284: 0.4 crashes on startup on Mac OS X 10.7 - 13http://git.io/vEGkQ
+[2015/12/22 05:06:27] <Not-e81f> [02supertux] 07Grumbel pushed 0378 commits to 03master [+161/-24/±1376] 13http://git.io/vEGLI
+[2015/12/22 05:06:29] <Not-e81f> [02supertux] 07Ingo Ruhnke 03acb50ae - Merge branch 'master' into develop
+[2015/12/22 05:06:30] <Not-e81f> [02supertux] 07Ingo Ruhnke 03fb71a00 - Merge branch 'master' into develop
+[2015/12/22 05:06:32] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98286361
+[2015/12/22 05:06:33] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/172
+[2015/12/22 05:06:43] <Not-e81f> [02supertux] 07Hume2 edited page 03Home - 13http://git.io/vJZfg
+[2015/12/22 05:07:12] <Not-e81f> [02supertux] 07tobbi commented on issue 03#284: 0.4 crashes on startup on Mac OS X 10.7 - 13http://git.io/vEGLV
+[2015/12/22 05:07:44] <Not-e81f> [02supertux] 07Grumbel pushed 03133 commits to 03develop [+322/-49/±1234] 13http://git.io/vEGLD
+[2015/12/22 05:07:48] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98286504
+[2015/12/22 05:07:50] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/173
+[2015/12/22 05:09:30] <Not-e81f> [02supertux] 07snowdream starred 03supertux - 13http://git.io/vEGt3
+[2015/12/22 05:10:10] <Hume2> We're just getting flooded by stars...
+[2015/12/22 05:10:24] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98286361
+[2015/12/22 05:11:32] <Tobbi> Hume2: 147, nice.
+[2015/12/22 05:12:01] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/168
+[2015/12/22 05:12:46] <Not-e81f> [02supertux] 07Morrolan starred 03supertux - 13http://git.io/vEGqe
+[2015/12/22 05:12:51] @ Quit: tux|dude: Read error: Connection reset by peer
+[2015/12/22 05:13:16] <brmbrmcar> Just unstar and star again for hours. That'll flood you.
+[2015/12/22 05:13:50] <Tobbi> ...
+[2015/12/22 05:14:05] <Tobbi> brmbrmcar: maye you would do that..
+[2015/12/22 05:14:13] <Tobbi> *maybe
+[2015/12/22 05:14:44] <brmbrmcar> Would I?
+[2015/12/22 05:14:52] <brmbrmcar> ShouldI?
