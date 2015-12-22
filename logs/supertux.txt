@@ -29094,3 +29094,7 @@
 [2015/12/22 03:10:18] <Not-e81f> [02supertux] 07bygreencn starred 03supertux - 13http://git.io/vEs68
 [2015/12/22 03:17:56] <Not-e81f> [02supertux] 07chefablz starred 03supertux - 13http://git.io/vl5nW
 [2015/12/22 03:22:52] <Not-e81f> [02supertux] 07Rycochet starred 03supertux - 13http://git.io/vEsXq
+[2015/12/22 03:34:07] <Not-e81f> [02supertux] 07Hume2 labeled issue 03#266: Website - 13http://git.io/v02g0
+[2015/12/22 03:43:26] <Not-e81f> [02supertux] 07linhua55 starred 03supertux - 13http://git.io/vCsQY
+[2015/12/22 03:44:47] @ Tobbi joined channel #supertux
+[2015/12/22 03:44:47] @ Mode +o Tobbi by ChanServ
