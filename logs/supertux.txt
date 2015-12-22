@@ -29929,3 +29929,15 @@
 [2015/12/22 11:12:48] <mt> immediately
 [2015/12/22 11:23:37] <Not-e81f> [02supertux] 07shyamalschandra forked the repository - 13http://git.io/vEnc7
 [2015/12/22 11:27:51] <Not-e81f> [02supertux] 07ZaWertun starred 03supertux - 13http://git.io/vEnW4
+[2015/12/22 11:30:09] <Tobbi> 180 stars now.
+[2015/12/22 11:30:53] @ brmbrmcar joined channel #supertux
+[2015/12/22 11:33:36] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±17] 13http://git.io/vEn8B
+[2015/12/22 11:33:37] <Not-e81f> [02supertux] 07Tobias Markus 03da340fc - Replace comparison with empty string with empty()
+[2015/12/22 11:33:39] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98349851
+[2015/12/22 11:33:45] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/182
+[2015/12/22 11:39:19] @ Quit: lumidify: Quit: Leaving
+[2015/12/22 11:40:38] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98349851
+[2015/12/22 11:40:43] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98349851
+[2015/12/22 11:40:46] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98349851
+[2015/12/22 11:40:54] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98349851
+[2015/12/22 11:41:01] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98349851
