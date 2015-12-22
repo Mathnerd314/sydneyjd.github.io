@@ -30114,3 +30114,15 @@
 [2015/12/22 16:50:50] <Not-e81f> [02supertux] 07jaggedsoft starred 03supertux - 13http://git.io/vECRC
 [2015/12/22 16:51:44] <MrBones> yeah, I can't see how blend2sdl works with the fake GL stuff in video/glutil.hpp at all so I'll remove the option of turning off opengl in the ebuild.
 [2015/12/22 16:52:31] <MrBones> y'all have some tangled hpp files. ;-)
+[2015/12/22 17:00:36] @ Quit: Hume2: Quit: Page closed
+[2015/12/22 17:01:02] <MrBones> is obstack some modified version or why is the external/ version used on linux?
+[2015/12/22 17:03:58] <Not-e81f> [02supertux] 07Jake41 commented on issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vECu5
+[2015/12/22 17:07:41] @ Fauve joined channel #supertux
+[2015/12/22 17:07:46] <Fauve> Hello peolpe o/
+[2015/12/22 17:08:25] <brmbrmcar> hey
+[2015/12/22 17:08:40] <Fauve> When I open supertux in fullscreen mode, the window don’t stay a… window. It take the full screen and I loose control of my window’s manager.
+[2015/12/22 17:09:03] <Fauve> There is a way to have size of fullscreen but to controll supertux as a window?
+[2015/12/22 17:09:57] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#288: Allow addons to be manually installed easily again - 13http://git.io/vECgl
+[2015/12/22 17:10:17] @ Quit: Tobbi: 
+[2015/12/22 17:10:42] <brmbrmcar> I would not know.
+[2015/12/22 17:13:21] @ leyyin__ joined channel #supertux
