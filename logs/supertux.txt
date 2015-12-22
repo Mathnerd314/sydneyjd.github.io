@@ -29450,3 +29450,26 @@
 [2015/12/22 07:28:16] <Tobbi> Or how the add-ons manager opens to install them :D
 [2015/12/22 07:28:46] <Hume2> :D
 [2015/12/22 07:29:00] <brmbrmcar> Iliked the way you could chuck the addon zips into .supertux2 in 0.3.4.
+[2015/12/22 07:30:20] <brmbrmcar> But no complaints is good.
+[2015/12/22 07:30:41] <Tobbi> brmbrmcar: That is still possible, I think.
+[2015/12/22 07:30:59] <Tobbi> I didn't change anything about that code recently.
+[2015/12/22 07:31:13] <brmbrmcar> Tobbi: It isn't here.
+[2015/12/22 07:31:22] <Tobbi> hmm...
+[2015/12/22 07:33:27] <grumbel_> The directory changedI think, stuff has to go to ~/.supertux2/addons/ now (or something along the lines)
+[2015/12/22 07:34:01] <brmbrmcar> grumbel_: Yeah, but  it still isn't as simple any more.
+[2015/12/22 07:34:47] <grumbel_> The addon directory should created by default, so I really don't see the problem
+[2015/12/22 07:35:07] <brmbrmcar> It has this file which has for informationyou won'tknow and it needs this complete for addons to work.
+[2015/12/22 07:37:19] <grumbel_> Enabling addons within the game should be possible already
+[2015/12/22 07:37:34] <brmbrmcar> That's not the point.
+[2015/12/22 07:37:39] <grumbel_> not sure if new addons get enable by default,they probably should
+[2015/12/22 07:37:46] <brmbrmcar> It will never work everywhere.
+[2015/12/22 07:38:02] <Not-e81f> [02supertux] 07snadge commented on issue 03#282: "double iconv" causes cmake to always fail on systems that have iconv - 13http://git.io/vEGHM
+[2015/12/22 07:38:08] <brmbrmcar> And automatic downloads are evil.
+[2015/12/22 07:38:49] <Not-e81f> [02supertux] 07halfelf starred 03supertux - 13http://git.io/vEGQU
+[2015/12/22 07:39:17] <Not-e81f> [02supertux] 07snadge starred 03supertux - 13http://git.io/vEGQT
+[2015/12/22 07:39:27] <Tobbi> :D crowd psychology :D
+[2015/12/22 07:39:32] <grumbel_> The Windows install is a bit messed up, it includes tinygettext header files
+[2015/12/22 07:40:08] <grumbel_> And static libraries
+[2015/12/22 07:40:15] <Tobbi> hmm...
+[2015/12/22 07:44:13] <grumbel_> Framerate in Windows feels pretty bad, even so it show 66FPS, maybe vsync issue?
+[2015/12/22 07:44:44] <grumbel_> Alt-Enter doesn't go fullscreen
