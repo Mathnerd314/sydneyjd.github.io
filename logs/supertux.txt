@@ -29045,3 +29045,17 @@
 [2015/12/21 20:52:43] <Not-e81f> [02supertux] 07petehouston starred 03supertux - 13http://git.io/vE38L
 [2015/12/21 21:01:14] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/12/21 21:13:26] @ datahead8888 joined channel #supertux
+[2015/12/21 21:18:53] @ swift110 joined channel #supertux
+[2015/12/21 21:22:23] <head8debian> Tobbi: You are awake?
+[2015/12/21 21:22:31] <Tobbi> head8debian: Yes.
+[2015/12/21 21:23:56] <head8debian> Tobbi: Might i ask why? ;)
+[2015/12/21 21:24:05] <Tobbi> head8debian: Because I am not asleep.
+[2015/12/21 21:24:24] <head8debian> ...
+[2015/12/21 21:24:40] <Tobbi> head8debian: I am actually not doing anything useful at all.
+[2015/12/21 21:24:50] * head8debian goes to sleep since Tobbi is not a good example...
+[2015/12/21 21:24:59] <Tobbi> head8debian: I am a good example.
+[2015/12/21 21:25:04] <Tobbi> And everyone agrees.
+[2015/12/21 21:25:13] <Tobbi> Otherwise, you know, I have ops now.
+[2015/12/21 21:25:21] <Tobbi> eh, wait, I had them before.
+[2015/12/21 21:25:46] <head8debian> Tobbi: :) Good night.
+[2015/12/21 21:25:50] <Tobbi> night.
