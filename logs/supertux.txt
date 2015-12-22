@@ -29976,3 +29976,10 @@
 [2015/12/22 12:29:07] <Not-e81f> [02supertux] 07Hume2 labeled issue 03#262: Show correct type of Tux and direction when going off the screen - 13http://git.io/v03cm
 [2015/12/22 12:29:49] <Not-e81f> [02supertux] 07Hume2 labeled issue 03#290: Windows doesn't record stdout output - 13http://git.io/vEZGy
 [2015/12/22 12:29:50] <Not-e81f> [02supertux] 07Hume2 labeled issue 03#290: Windows doesn't record stdout output - 13http://git.io/vEZGy
+[2015/12/22 12:30:10] <Not-e81f> [02supertux] 07Hume2 labeled issue 03#289: Bad savegame location on Windows - 13http://git.io/vEZU4
+[2015/12/22 12:30:43] <Not-e81f> [02supertux] 07Hume2 labeled issue 03#287: Bad performance in Windows10 - 13http://git.io/vEZJv
+[2015/12/22 12:30:44] <Not-e81f> [02supertux] 07Hume2 labeled issue 03#287: Bad performance in Windows10 - 13http://git.io/vEZJv
+[2015/12/22 12:31:09] <Not-e81f> [02supertux] 07Hume2 labeled issue 03#285: SuperTux 0.4 can't run - 13http://git.io/vEGMK
+[2015/12/22 12:31:10] <Not-e81f> [02supertux] 07Hume2 labeled issue 03#285: SuperTux 0.4 can't run - 13http://git.io/vEGMK
+[2015/12/22 12:31:41] <Not-e81f> [02supertux] 07Jake41 starred 03supertux - 13http://git.io/vEnyG
+[2015/12/22 12:35:53] @ Quit: Tobbi: Remote host closed the connection
