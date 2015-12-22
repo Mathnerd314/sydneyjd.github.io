@@ -29203,3 +29203,19 @@
 [2015/12/22 04:38:00] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/170
 [2015/12/22 04:38:30] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/166
 [2015/12/22 04:39:01] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98282214
+[2015/12/22 04:46:16] @ grumbel joined channel #supertux
+[2015/12/22 04:46:16] @ Mode +o grumbel by ChanServ
+[2015/12/22 04:46:59] <Hume2> Tobbi: There are a lot of these things. I'll fix them.
+[2015/12/22 04:47:11] <Tobbi> Hume2: Alright. So coverity is not perfect.
+[2015/12/22 04:47:39] <Tobbi> Hey grumbel.
+[2015/12/22 04:47:54] <grumbel> http://linux.slashdot.org/story/15/12/21/2255250/super-mario-inspired-supertux-issues-its-first-official-release-in-10-years
+[2015/12/22 04:48:10] <grumbel> Tobbi: can I merge develop branch now?
+[2015/12/22 04:48:17] <Tobbi> grumbel: I believe so.
+[2015/12/22 04:48:39] <Tobbi> Development continues on the master branch.
+[2015/12/22 04:48:59] <grumbel> yep, I'll remove the branch while merged
+[2015/12/22 04:49:10] <Not-e81f> [02supertux] 07Noxalus starred 03supertux - 13http://git.io/vEGvj
+[2015/12/22 04:49:32] <Tobbi> ok
+[2015/12/22 04:51:46] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98282214
+[2015/12/22 04:56:58] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/167
+[2015/12/22 04:57:40] <snadge> ok.. so good news, i got it to build on ubuntu
+[2015/12/22 04:58:11] <snadge> bad news is.. i basically had to override the system libiconv to do it
