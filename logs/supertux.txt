@@ -29322,3 +29322,27 @@
 [2015/12/22 05:57:41] <brmbrmcar> Don't give in to SuperTuxKart!
 [2015/12/22 05:58:33] <brmbrmcar> We are thebetter game!
 [2015/12/22 05:59:49] <Tobbi> grumbel: There's something wrong with the lisp parser. 1) level names are not translated. 2) some stuff maps to 0'0 (not sure if this is a lisp parser issue, though.
+[2015/12/22 06:00:11] <Hume2> And all special tiles are at x0.
+[2015/12/22 06:00:29] <Tobbi> Open "Above the arctic skies" and see for yourself.
+[2015/12/22 06:01:26] <Hume2> Even the end seq is at x0!
+[2015/12/22 06:03:39] <Not-e81f> [02supertux] 07Grumbel pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEG8M
+[2015/12/22 06:03:41] <Not-e81f> [02supertux] 07Ingo Ruhnke 03e8618c1 - Fixed string translation in ReaderMapping
+[2015/12/22 06:03:42] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98295145
+[2015/12/22 06:03:44] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/175
+[2015/12/22 06:04:45] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98295145
+[2015/12/22 06:05:45] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/171
+[2015/12/22 06:07:58] <Hume2> grumbel: The special tiles are still at x0.
+[2015/12/22 06:08:39] <Hume2> It's trange that the y coordinate is right, but x is wrong.
+[2015/12/22 06:08:54] <Hume2> s/trange/strange/
+[2015/12/22 06:08:54] <red_bot> Hume2 meant: "It's strange that the y coordinate is right, but x is wrong."
+[2015/12/22 06:09:09] <grumbel> simple typo probably
+[2015/12/22 06:09:31] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/172
+[2015/12/22 06:10:08] <grumbel> anybody know where the special tiles are created?
+[2015/12/22 06:10:24] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/173
+[2015/12/22 06:10:38] <Hume2> L356 SectorParser::fix_old_tiles()
+[2015/12/22 06:11:05] <Hume2> I tried to find that, but didn't managed to do so.
+[2015/12/22 06:14:42] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/174
+[2015/12/22 06:14:43] <Not-e81f> [02supertux] 07Grumbel pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEG0r
+[2015/12/22 06:14:45] <Not-e81f> [02supertux] 07Ingo Ruhnke 039fb4ac5 - Fixed x-pos going to 0 for some objects
+[2015/12/22 06:14:47] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98296883
+[2015/12/22 06:14:49] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/176
