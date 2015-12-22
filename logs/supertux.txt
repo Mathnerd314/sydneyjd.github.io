@@ -29528,3 +29528,47 @@
 [2015/12/22 07:59:20] @ grumbel joined channel #supertux
 [2015/12/22 07:59:20] @ Mode +o grumbel by ChanServ
 [2015/12/22 07:59:42] <mt> I think the translator list in credits will at least double for the next release :>
+[2015/12/22 08:01:25] <brmbrmcar> Karkus: You don't get it, do you?
+[2015/12/22 08:01:44] <Karkus> brmbrmcar: Clearly not...
+[2015/12/22 08:01:46] <brmbrmcar> That was notmy aim!
+[2015/12/22 08:01:57] <brmbrmcar> My ainwas toget to the castle!
+[2015/12/22 08:02:09] <brmbrmcar> Through the quickest possible route!
+[2015/12/22 08:02:14] <Karkus> brmbrmcar: Except... you have to get keys.
+[2015/12/22 08:02:22] <mt> the quickest possible route is that with the keys
+[2015/12/22 08:02:30] <brmbrmcar> But I didn't know that!
+[2015/12/22 08:02:34] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/177
+[2015/12/22 08:02:45] <brmbrmcar> And the keys were very hard!
+[2015/12/22 08:02:56] <mt> well if you play a game and knew everything about it it'd be very boring, wouldn't it?
+[2015/12/22 08:03:10] @ Quit: Karkus: Quit: Division By Zero
+[2015/12/22 08:03:20] <Tobbi> mt: Why do you think that the translator list will double? So many new people on transifex?
+[2015/12/22 08:03:26] @ Karkus joined channel #supertux
+[2015/12/22 08:03:27] @ Mode +o Karkus by ChanServ
+[2015/12/22 08:03:45] <mt> Tobbi: nah, but it's the easiest task many people will probably do
+[2015/12/22 08:03:53] <Tobbi> Oh, yeah, probably.
+[2015/12/22 08:03:59] <Tobbi> but we'll also have many more strings.
+[2015/12/22 08:05:01] @ Wuzzy joined channel #supertux
+[2015/12/22 08:06:14] <mt> Tobbi: can you announce the forest worldmap contest on twitter?
+[2015/12/22 08:06:26] <Tobbi> Sure.
+[2015/12/22 08:06:36] <mt> also sticky this http://forum.freegamedev.net/viewtopic.php?f=67&t=6697
+[2015/12/22 08:07:36] <Tobbi> stickied.
+[2015/12/22 08:08:15] <mt> do we need this stickied? http://forum.freegamedev.net/viewtopic.php?f=67&t=2777
+[2015/12/22 08:08:24] <Not-e81f> [02supertux] 07xuwaters starred 03supertux - 13http://git.io/vEGjf
+[2015/12/22 08:08:29] <mt> and this? http://forum.freegamedev.net/viewtopic.php?f=68&t=6365
+[2015/12/22 08:08:40] <mt> http://forum.freegamedev.net/viewtopic.php?f=67&t=6243
+[2015/12/22 08:09:10] <Tobbi> Okay, I will sticky them all.
+[2015/12/22 08:09:23] <Tobbi> I guess I unstickied them because I thought that people would've noticed by now.
+[2015/12/22 08:10:03] <mt> those are already stickied
+[2015/12/22 08:10:10] <mt> but I wonder if we still need them to be
+[2015/12/22 08:10:31] <Tobbi> ok.
+[2015/12/22 08:10:40] <Tobbi> I really don't know.
+[2015/12/22 08:12:16] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98310880
+[2015/12/22 08:12:17] <mt> giby: could you make me reviewer on transifex?
+[2015/12/22 08:12:30] <Tobbi> I can.
+[2015/12/22 08:12:35] <Tobbi> I think.
+[2015/12/22 08:12:40] @ Quit: Wuzzy: Remote host closed the connection
+[2015/12/22 08:12:46] <Tobbi> We should update the translation stuff and have a general "How to translate" post.
+[2015/12/22 08:12:53] <mt> +1
+[2015/12/22 08:12:57] <Tobbi> Repo change can get unstickied.
+[2015/12/22 08:13:16] <Tobbi> And most recent supertux version, nah, people will find that.
+[2015/12/22 08:13:36] <Not-e81f> [02supertux] 07chicks-net starred 03supertux - 13http://git.io/vEZvt
+[2015/12/22 08:14:56] <mt> Tobbi: so can you make me reviewer now?
