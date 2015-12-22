@@ -29662,3 +29662,32 @@
 [2015/12/22 09:10:38] <Not-e81f> [02supertux] 07Grumbel commented on issue 03#288: Allow addons to be manually installed easily again - 13http://git.io/vEZWY
 [2015/12/22 09:10:53] <Not-e81f> [02supertux] 07Grumbel commented on issue 03#288: Allow addons to be manually installed easily again - 13http://git.io/vEZWc
 [2015/12/22 09:10:54] <mt> http is prefixed with http:// or https:// in credits
+[2015/12/22 09:15:23] <Hume2> mt: Any idea how many people know what IRC is?
+[2015/12/22 09:16:52] <Not-e81f> [02supertux] 07davidlfox starred 03supertux - 13http://git.io/vEZ81
+[2015/12/22 09:17:08] <Tobbi> So, adding Alt+Enter is not problematic.
+[2015/12/22 09:17:21] <Tobbi> The problem is that Alt gets interpreted as FIRE...
+[2015/12/22 09:17:36] <Tobbi> Aka, menu select will fire and tux will do <ACTION>
+[2015/12/22 09:20:04] <Tobbi> Well, I'll push
+[2015/12/22 09:21:08] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#288: Allow addons to be manually installed easily again - 13http://git.io/vEZBz
+[2015/12/22 09:23:01] @ brmbrmcar_ joined channel #supertux
+[2015/12/22 09:23:06] <brmbrmcar> o_O
+[2015/12/22 09:23:12] @ brmbrmcar_ left channel #supertux ()
+[2015/12/22 09:23:24] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEZRc
+[2015/12/22 09:23:25] <Not-e81f> [02supertux] 07Tobias Markus 03b7930d0 - Toggle fullscreen when pressing Alt + Enter
+[2015/12/22 09:23:27] <Not-e81f> [02supertux] 07tobbi closed issue 03#286: Alt-Enter doesn't go to fullscreen - 13http://git.io/vEZfP
+[2015/12/22 09:23:28] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98324958
+[2015/12/22 09:23:30] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/178
+[2015/12/22 09:23:40] <mt> Hume2: people who are interested will look it up
+[2015/12/22 09:24:06] <mt> what we could do as well is at IRC... chat.freenode.net (or using webchat at webchat.freenode.net)
+[2015/12/22 09:24:17] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98324958
+[2015/12/22 09:25:30] <Hume2> mt: Yes, but it reduces the count of interested people.
+[2015/12/22 09:25:57] <Tobbi> Hey, let's have a compromise: Let's integrate an IRC chat widget into SuperTux :D
+[2015/12/22 09:26:33] <brmbrmcar> Nice.
+[2015/12/22 09:26:43] <Tobbi> I WAS KIDDING OBVIOUSLY.
+[2015/12/22 09:26:53] <brmbrmcar> Awww.
+[2015/12/22 09:27:05] <brmbrmcar> Why?
+[2015/12/22 09:27:09] <brmbrmcar> Not?
+[2015/12/22 09:27:25] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/178
+[2015/12/22 09:28:00] <mt> brmbrmcar: is that a serious question now?
+[2015/12/22 09:28:24] <brmbrmcar> mt: Yes.
+[2015/12/22 09:29:45] <brmbrmcar> irssi is notthing,and it still has way loads more features.
