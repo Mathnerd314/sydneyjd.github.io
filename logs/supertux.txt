@@ -29071,3 +29071,5 @@
 [2015/12/22 00:02:51] @ tuxdev_ joined channel #supertux
 [2015/12/22 00:02:51] @ Quit: tuxdev_: Changing host
 [2015/12/22 00:02:51] @ tuxdev_ joined channel #supertux
+[2015/12/22 00:51:56] @ swift110-phone joined channel #supertux
+[2015/12/22 00:51:58] <swift110-phone> Hey
