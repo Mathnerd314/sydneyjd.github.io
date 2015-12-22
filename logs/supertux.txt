@@ -29361,3 +29361,25 @@
 [2015/12/22 06:29:31] <Tobbi> Not talking about the yeti ones...
 [2015/12/22 06:29:50] <Tobbi> Oh, they do...
 [2015/12/22 06:29:53] <Tobbi> in one level..
+[2015/12/22 06:31:25] <Tobbi> Okay, I was mistaken.
+[2015/12/22 06:31:30] <Tobbi> It was likely a Schroedinbug
+[2015/12/22 06:32:18] <Tobbi> I meant *heisenbug.
+[2015/12/22 06:32:21] <Tobbi> Anyway.
+[2015/12/22 06:32:22] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98296883
+[2015/12/22 06:33:30] <brmbrmcar> Some of the test levels really need to be improved.
+[2015/12/22 06:33:36] <Not-e81f> [02supertux] 07stuaxo starred 03supertux - 13http://git.io/vEG2R
+[2015/12/22 06:34:19] <Tobbi> 153
+[2015/12/22 06:34:32] <brmbrmcar> 154
+[2015/12/22 06:34:53] <Tobbi> no.
+[2015/12/22 06:34:58] <brmbrmcar> :(
+[2015/12/22 06:37:27] <brmbrmcar> 152
+[2015/12/22 06:40:23] <Hume2> brmbrmcar: You can try the worldmap contest.
+[2015/12/22 06:40:34] <brmbrmcar> I am bad!
+[2015/12/22 06:40:45] <brmbrmcar> At making worldmaps, i mean!
+[2015/12/22 06:40:57] <brmbrmcar> But OK!
+[2015/12/22 06:41:39] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEGVu
+[2015/12/22 06:41:40] <Not-e81f> [02supertux] 07Hume2 0335827e2 - Updated the yeti part in the level A Long Adventure
+[2015/12/22 06:42:24] <brmbrmcar> Ah.
+[2015/12/22 06:42:42] <brmbrmcar> I'll do it later, whenI have anupdated vrsion.
+[2015/12/22 06:43:08] <brmbrmcar> GIT STOLE ALL MY SPACE YESTERDAY so I had to uninstall my wine version.
+[2015/12/22 06:43:26] <brmbrmcar> I'll get it back later.
