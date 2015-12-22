@@ -29383,3 +29383,10 @@
 [2015/12/22 06:42:42] <brmbrmcar> I'll do it later, whenI have anupdated vrsion.
 [2015/12/22 06:43:08] <brmbrmcar> GIT STOLE ALL MY SPACE YESTERDAY so I had to uninstall my wine version.
 [2015/12/22 06:43:26] <brmbrmcar> I'll get it back later.
+[2015/12/22 06:45:56] <Not-e81f> [02supertux] 07dgryski starred 03supertux - 13http://git.io/vEGwW
+[2015/12/22 06:46:17] <brmbrmcar> 159
+[2015/12/22 06:51:06] @ Quit: stewboy: Read error: Connection reset by peer
+[2015/12/22 06:52:40] <Not-e81f> [02supertux] 07tweissin commented on issue 03#284: 0.4 crashes on startup on Mac OS X 10.7 - 13http://git.io/vEGoW
+[2015/12/22 06:54:02] <Tobbi> brmbrmcar: 154
+[2015/12/22 06:54:54] <brmbrmcar> You said no to 154.
+[2015/12/22 06:54:57] <Not-e81f> [02supertux] 07martiniturbide starred 03supertux - 13http://git.io/vEGKe
