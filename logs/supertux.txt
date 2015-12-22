@@ -29617,3 +29617,22 @@
 [2015/12/22 08:29:16] <mt> brmbrmcar: no but you can be +q
 [2015/12/22 08:29:18] <mt> or +b
 [2015/12/22 08:29:37] <brmbrmcar> I don't like the sound of that.
+[2015/12/22 08:30:11] <mt> alket: well I don't think the IRC processed that
+[2015/12/22 08:30:18] <jesusalva> He rather +brm, I think.
+[2015/12/22 08:30:24] <mt> s/IRC/IRCd/
+[2015/12/22 08:30:24] <red_bot> mt meant: "alket: well I don't think the IRCd processed that"
+[2015/12/22 08:30:54] <mt> +m :(
+[2015/12/22 08:31:00] <alket> who wants to test my android "lite port" tonight xD
+[2015/12/22 08:31:03] <mt> then no one will see your messages
+[2015/12/22 08:35:51] @ Karkus joined channel #supertux
+[2015/12/22 08:35:51] @ Mode +o Karkus by ChanServ
+[2015/12/22 08:36:16] <jesusalva> Hello Karkus
+[2015/12/22 08:37:30] <Not-e81f> [02supertux] 07biow0lf starred 03supertux - 13http://git.io/vEZtm
+[2015/12/22 08:37:53] <Karkus> jesusalva: Hello
+[2015/12/22 08:38:43] <jesusalva> I will now go to play a game, and as my cell doesn't have suffice memory to keep IRC and anything else running togheter, I'll have to bbl.
+[2015/12/22 08:39:48] <jesusalva> so, be back later. see you around.
+[2015/12/22 08:40:12] <Not-e81f> [02supertux] 07madfrog2018 starred 03supertux - 13http://git.io/vEZqf
+[2015/12/22 08:40:48] @ Quit: jesusalva: Quit: bbl, God Bless You.
+[2015/12/22 08:41:20] <Not-e81f> [02supertux] 07Pix3lworkshop starred 03supertux - 13http://git.io/vEZqg
+[2015/12/22 08:42:45] <swift110-phone> Lol
+[2015/12/22 08:42:52] <swift110-phone> Get a better phone
