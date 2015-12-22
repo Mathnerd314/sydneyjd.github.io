@@ -29895,3 +29895,35 @@
 [2015/12/22 10:59:42] <Hume2> I think that the ladder should be a tile property.
 [2015/12/22 10:59:59] <Karkus> Tobbi: Into what?
 [2015/12/22 10:59:59] <Tobbi> Hume2: No, sometimes we want ladders which don't react...
+[2015/12/22 11:00:12] <Tobbi> Karkus: Into loading levels when starting a worldmap from supertux.
+[2015/12/22 11:00:27] <Hume2> Tobbi: Then put them to a non-solid layer.
+[2015/12/22 11:00:29] <Tobbi> I mean: When starting a worldmap like ./supertux2 path/to/levelset/worldmap.stwm
+[2015/12/22 11:00:44] <Karkus> Tobbi: Okay. First I would test that it works, of course
+[2015/12/22 11:00:53] <Tobbi> It doesn't.
+[2015/12/22 11:00:56] <Tobbi> Because insecure filename.
+[2015/12/22 11:01:36] <Karkus> Tobbi: Why are they ./level anyway
+[2015/12/22 11:01:49] <Karkus> I suppose that's bettwe
+[2015/12/22 11:01:51] <Tobbi> Karkus: Because it's in the same directory as the worldmap file.
+[2015/12/22 11:01:58] <Karkus> Tobbi: Yeah.
+[2015/12/22 11:02:12] @ tuxdev_ joined channel #supertux
+[2015/12/22 11:02:18] <Not-e81f> [02supertux] 07DaoWen starred 03supertux - 13http://git.io/vEnqI
+[2015/12/22 11:02:23] <Karkus> Tobbi: And moving the folder around needs to work, so it has to be relative
+[2015/12/22 11:05:02] <mt> Karkus: re tempfile
+[2015/12/22 11:05:20] <mt> can you use something similar to mktemp(1)
+[2015/12/22 11:06:51] <mt> or what do you do when /tmp/tmpflexlay.stl exists?
+[2015/12/22 11:07:35] <Karkus> mt: Overwrite it
+[2015/12/22 11:07:48] <Karkus> mt: We don't want to save unless the user clicks sace
+[2015/12/22 11:07:51] <Karkus> *save
+[2015/12/22 11:08:01] <mt> ಠ_ಠ
+[2015/12/22 11:08:05] <mt> *Infinity
+[2015/12/22 11:08:11] <Karkus> mt: Huh?
+[2015/12/22 11:08:17] <mt> it might exist because something else did save that file
+[2015/12/22 11:08:34] <mt> and "something else" (or someone else) might want to access that file later
+[2015/12/22 11:08:53] <mt> you should make sure you're writing to a file that you're sure is yours
+[2015/12/22 11:09:18] <mt> IETF doesn't have a registry for temporary files on POSIX systems ;)
+[2015/12/22 11:10:45] <Not-e81f> [02supertux] 07ldmiao starred 03supertux - 13http://git.io/vEn3L
+[2015/12/22 11:12:01] <Karkus> mt: Hey, I didn't write that code :P
+[2015/12/22 11:12:13] <Karkus> mt: And I've been meaning to change it
+[2015/12/22 11:12:22] @ Quit: brmbrmcar: Quit: Found terminal
+[2015/12/22 11:12:44] <mt> then do it
+[2015/12/22 11:12:48] <mt> immediately
