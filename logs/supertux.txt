@@ -29390,3 +29390,30 @@
 [2015/12/22 06:54:02] <Tobbi> brmbrmcar: 154
 [2015/12/22 06:54:54] <brmbrmcar> You said no to 154.
 [2015/12/22 06:54:57] <Not-e81f> [02supertux] 07martiniturbide starred 03supertux - 13http://git.io/vEGKe
+[2015/12/22 07:02:02] <brmbrmcar> 160
+[2015/12/22 07:02:23] <Hume2> No, 155.
+[2015/12/22 07:02:46] <brmbrmcar> What?
+[2015/12/22 07:03:12] <Hume2> For some reason it displays 5 more for you.
+[2015/12/22 07:03:36] <brmbrmcar> Well, I know 154 didn't happen.
+[2015/12/22 07:03:47] <brmbrmcar> Because Tobbisaid no.
+[2015/12/22 07:03:56] <brmbrmcar> I'm just messing.
+[2015/12/22 07:04:03] <Tobbi> brmbrmcar: You're always messing.
+[2015/12/22 07:04:14] <brmbrmcar> :D
+[2015/12/22 07:05:45] <Tobbi> oh no.
+[2015/12/22 07:06:03] <Tobbi> https://twitter.com/LaOlTomsk/status/679270775849906176?cn=cmVwbHk%3D&refsrc=email
+[2015/12/22 07:07:02] <Hume2> Answer him that Windows 10 is ...
+[2015/12/22 07:07:06] <Hume2> :D
+[2015/12/22 07:07:14] <Hume2> spyware :D
+[2015/12/22 07:07:55] <Hume2> In fact, SuperTux is stable, much more stable than Windows 10.
+[2015/12/22 07:08:38] <Tobbi> You know, I really don't want to deal with this...
+[2015/12/22 07:08:44] <Tobbi> I'll get him to create an issue.
+[2015/12/22 07:09:16] <Hume2> It looks like a trol.
+[2015/12/22 07:11:44] <Tobbi> Hume2: No, just someone who's experiencing problem.
+[2015/12/22 07:11:46] <Tobbi> s
+[2015/12/22 07:12:11] <Hume2> I know, but still there is 1% chance that he will ever cooperate.
+[2015/12/22 07:13:22] <Tobbi> Hume2: Otherwise, we'll just ignore his issue, how about that?
+[2015/12/22 07:13:32] <Tobbi> I mean: Understanding how open source works is imperative.
+[2015/12/22 07:13:33] <Hume2> OK
+[2015/12/22 07:13:43] <Tobbi> We can't ever test on all available systems...no donations, no money etc.
+[2015/12/22 07:14:39] <Not-e81f> [02supertux] 07Reagan starred 03supertux - 13http://git.io/vEG1Z
+[2015/12/22 07:14:51] <Tobbi> That's the way to go.
