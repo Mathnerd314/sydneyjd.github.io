@@ -29037,3 +29037,5 @@
 [2015/12/21 20:03:31] @ tuxdude143 joined channel #supertux
 [2015/12/21 20:06:21] @ Quit: datahead8888: Ping timeout: 250 seconds
 [2015/12/21 20:07:05] @ Quit: tux|dude: Ping timeout: 244 seconds
+[2015/12/21 20:18:35] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/21 20:25:18] <Not-e81f> [02supertux] 07maths22 commented on issue 03#282: "double iconv" causes cmake to always fail on systems that have iconv - 13http://git.io/vE3ZI
