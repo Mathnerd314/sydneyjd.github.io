@@ -29059,3 +29059,4 @@
 [2015/12/21 21:25:21] <Tobbi> eh, wait, I had them before.
 [2015/12/21 21:25:46] <head8debian> Tobbi: :) Good night.
 [2015/12/21 21:25:50] <Tobbi> night.
+[2015/12/21 21:40:11] @ Quit: Tobbi: Remote host closed the connection
