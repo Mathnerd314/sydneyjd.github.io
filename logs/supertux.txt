@@ -29060,3 +29060,5 @@
 [2015/12/21 21:25:46] <head8debian> Tobbi: :) Good night.
 [2015/12/21 21:25:50] <Tobbi> night.
 [2015/12/21 21:40:11] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/21 21:51:47] @ Quit: swift110: Ping timeout: 240 seconds
+[2015/12/21 21:57:52] @ Quit: tuxdude143: Read error: Connection reset by peer
