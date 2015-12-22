@@ -29346,3 +29346,18 @@
 [2015/12/22 06:14:45] <Not-e81f> [02supertux] 07Ingo Ruhnke 039fb4ac5 - Fixed x-pos going to 0 for some objects
 [2015/12/22 06:14:47] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98296883
 [2015/12/22 06:14:49] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/176
+[2015/12/22 06:16:25] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98296883
+[2015/12/22 06:16:48] <Not-e81f> [02supertux] 07gabrielcorado starred 03supertux - 13http://git.io/vEGEU
+[2015/12/22 06:18:06] <Not-e81f> [02supertux] 07hylong starred 03supertux - 13http://git.io/vEGEZ
+[2015/12/22 06:19:33] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98295145
+[2015/12/22 06:19:41] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/175
+[2015/12/22 06:22:46] <Hume2> It works.
+[2015/12/22 06:23:09] <snadge> i was going to try and fix that libiconv build issue.. but instead im just playing the game.. is that wrong? :p
+[2015/12/22 06:23:50] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/176
+[2015/12/22 06:24:30] <Tobbi> Yeah, looks good now.
+[2015/12/22 06:24:51] <Tobbi> snadge: I'd say that's what they call "intended behaviour" :D
+[2015/12/22 06:29:14] <Tobbi> Hume2: Do stalactites work for you?
+[2015/12/22 06:29:28] <Hume2> wait..
+[2015/12/22 06:29:31] <Tobbi> Not talking about the yeti ones...
+[2015/12/22 06:29:50] <Tobbi> Oh, they do...
+[2015/12/22 06:29:53] <Tobbi> in one level..
