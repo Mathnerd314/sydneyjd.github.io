@@ -30108,3 +30108,9 @@
 [2015/12/22 16:37:43] <Tobbi> MrBones: Pull request please.
 [2015/12/22 16:37:49] <Tobbi> (if you may)
 [2015/12/22 16:44:52] <MrBones> ug.  well this is getting more involved than just a missing header.  maybe non-opengl isn't really supported?
+[2015/12/22 16:45:56] <Tobbi> Probably..
+[2015/12/22 16:45:59] <Tobbi> None of us checked.
+[2015/12/22 16:47:19] <MrBones> oh, I see there's some fake GL stuff in video/glutil.hpp that's missing.
+[2015/12/22 16:50:50] <Not-e81f> [02supertux] 07jaggedsoft starred 03supertux - 13http://git.io/vECRC
+[2015/12/22 16:51:44] <MrBones> yeah, I can't see how blend2sdl works with the fake GL stuff in video/glutil.hpp at all so I'll remove the option of turning off opengl in the ebuild.
+[2015/12/22 16:52:31] <MrBones> y'all have some tangled hpp files. ;-)
