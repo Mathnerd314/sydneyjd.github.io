@@ -30039,3 +30039,21 @@
 [2015/12/22 14:41:03] <Karkus> leyyin: Okay, I'll check it out
 [2015/12/22 14:44:11] <head8deb1an> Good afternoon all.
 [2015/12/22 14:44:44] <Karkus> head8deb1an: Afternoon.
+[2015/12/22 14:45:02] <head8deb1an> Karkus Hume2 Hows that editor coming? :)
+[2015/12/22 14:45:16] <Hume2> Well...
+[2015/12/22 14:45:21] <Karkus> head8deb1an: Still lots to be done
+[2015/12/22 14:45:34] <Hume2> see: https://github.com/SuperTux/supertux/pull/269
+[2015/12/22 14:45:38] <Karkus> Hume2: Some levels don't open
+[2015/12/22 14:45:52] <Hume2> SIGSEGV?
+[2015/12/22 14:46:04] <head8deb1an> Ah, sounds like you are making progress though. cool.
+[2015/12/22 14:46:07] <Karkus> Hume2: No, they just don't appear
+[2015/12/22 14:46:21] <Hume2> Karkus: Which for example:
+[2015/12/22 14:46:24] <Hume2> ?
+[2015/12/22 14:46:30] <Karkus> Hume2: Okay, just a moment
+[2015/12/22 14:47:12] <Karkus> Hume2: Try the Halloween levels (except the first)
+[2015/12/22 14:47:15] <Karkus> bbl
+[2015/12/22 14:48:48] <Hume2> Each works. Didn't you try the intro and extro ones?
+[2015/12/22 14:54:34] <Karkus> Hume2: What do you mean?
+[2015/12/22 14:55:00] <Hume2> I tried all levels from Halloween and each worked.
+[2015/12/22 14:55:24] <Karkus> Hume2: I will try again later. I have to go now
+[2015/12/22 14:55:44] <Hume2> Bye.
