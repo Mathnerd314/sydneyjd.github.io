@@ -29691,3 +29691,55 @@
 [2015/12/22 09:28:00] <mt> brmbrmcar: is that a serious question now?
 [2015/12/22 09:28:24] <brmbrmcar> mt: Yes.
 [2015/12/22 09:29:45] <brmbrmcar> irssi is notthing,and it still has way loads more features.
+[2015/12/22 09:31:04] <mt> try weechat <3
+[2015/12/22 09:31:28] <mt> but really, you know why this shouldn't be a serious question
+[2015/12/22 09:31:49] <head8debian> I think its a rediculous idea.
+[2015/12/22 09:32:07] <Tobbi> head8debian got that I was kidding :D
+[2015/12/22 09:32:22] <head8debian> Tobbi: Why not incorperate the code to run a USB DMX controller also? :p
+[2015/12/22 09:32:33] <Tobbi> head8debian: Super*
+[2015/12/22 09:32:38] <Tobbi> We call it Super*
+[2015/12/22 09:32:43] <Tobbi> Because it incorporates everything.
+[2015/12/22 09:33:32] <head8debian> Tobbi: Then if they have DMX lights hooked up they will change to the color of the supertux game. :D
+[2015/12/22 09:33:36] <brmbrmcar> I think it is a good background idea.
+[2015/12/22 09:33:44] <brmbrmcar> For a hidden thing.
+[2015/12/22 09:33:51] <brmbrmcar> Activated incredits.
+[2015/12/22 09:33:56] <mt> head8debian: USB DMX controllers are a thing?
+[2015/12/22 09:34:05] <mt> I should get one of these
+[2015/12/22 09:34:06] <head8debian> mt: Yes.
+[2015/12/22 09:34:22] <mt> since I'll be responsible for lights+sounds of an event in April next year
+[2015/12/22 09:34:24] <head8debian> mt: Not sure how well they work, but our church uses probably 5 of them.
+[2015/12/22 09:34:44] <head8debian> mt: But not the standard style usb to dmx adapter.
+[2015/12/22 09:35:25] <Tobbi> mt: https://www.youtube.com/watch?v=2HXJ9xfNljs
+[2015/12/22 09:35:33] <head8debian> mt: It does require some sort of conversion circuit.
+[2015/12/22 09:36:04] <mt> um lol
+[2015/12/22 09:36:32] <Tobbi> :D
+[2015/12/22 09:36:44] <mt> cat article | espeak -v en | ffmpeg -i - -i background.png youtube-announcement.mp4
+[2015/12/22 09:37:19] <Tobbi> yes
+[2015/12/22 09:37:27] @ Quit: Karkus: Ping timeout: 240 seconds
+[2015/12/22 09:38:17] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98324958
+[2015/12/22 09:38:21] <head8debian> mt: The ones our church uses are $500...
+[2015/12/22 09:39:11] <mt> I'm reading a web page suggesting Linux includes an USB-DMX driver
+[2015/12/22 09:39:20] <mt> that means a simple adapter is enough
+[2015/12/22 09:39:41] <head8debian> mt: Id love one, but i don't have any DMX lights to run. :D
+[2015/12/22 09:39:47] <grumbel> brmbrmcar: could you upload the troublecausing addon somewhere
+[2015/12/22 09:39:50] <head8debian> At home anyways.
+[2015/12/22 09:40:54] <brmbrmcar> grumbel: It's just a test addon, sonot very good.
+[2015/12/22 09:41:00] <brmbrmcar> Don't get excited.
+[2015/12/22 09:41:02] <brmbrmcar> :D
+[2015/12/22 09:41:15] <mt> head8debian: well, I don't have any at home as well
+[2015/12/22 09:41:27] <Tobbi> Why would he get excited if he only wants to replicate an issue?
+[2015/12/22 09:41:41] <head8debian> mt: It would be cool to light up my room with some. :)
+[2015/12/22 09:42:10] <head8debian> mt: Im seeing alot of USB to DMX adapters like this. Not sure if they work at all. www.ebay.com/itm/321923501034
+[2015/12/22 09:42:26] <head8debian> mt: You may have more success buying a mini DMX controller.
+[2015/12/22 09:42:42] <head8debian> I know controlling lights from a computer can be a pain.
+[2015/12/22 09:43:05] <mt> I'd probably write a custom controller for the computer
+[2015/12/22 09:43:19] <mt> But at the location there's already a controller
+[2015/12/22 09:43:39] <head8debian> mt: Ah, thats helpfull.
+[2015/12/22 09:43:59] <mt> And I'd know where to get another one as well
+[2015/12/22 09:44:02] <head8debian> mt: Wow, i can get a mini DMX controll board thats good for $120. o_O
+[2015/12/22 09:44:03] <Not-e81f> [02supertux] 07maths22 pushed 032 commits to 03master [+0/-0/±5] 13http://git.io/vEZwc
+[2015/12/22 09:44:04] <Not-e81f> [02supertux] 07Jacob Burroughs 03e2b16d7 - Sort files in squirrel, tinygettext
+[2015/12/22 09:44:06] <Not-e81f> [02supertux] 07Jacob Burroughs 03c5adabf - Prevent install of unnecessary files from squirrel, tinygettext
+[2015/12/22 09:44:07] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98328607
+[2015/12/22 09:44:09] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/179
+[2015/12/22 09:44:50] <head8debian> mt: You could try Elation Lighting. They are a trustworthy brand with good products.
