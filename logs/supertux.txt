@@ -30073,3 +30073,24 @@
 [2015/12/22 16:12:39] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-12-20 14:44:19 -0500
 [2015/12/22 16:12:43] @ Mode +nt by verne.freenode.net
 [2015/12/22 16:12:51] @ Mode +o red_bot by ChanServ
+[2015/12/22 16:16:30] <Not-e81f> [02supertux] 07CrazyLemon starred 03supertux - 13http://git.io/vECGv
+[2015/12/22 16:17:03] @ Tobbi joined channel #supertux
+[2015/12/22 16:17:03] @ Mode +o Tobbi by ChanServ
+[2015/12/22 16:26:17] @ Karkus joined channel #supertux
+[2015/12/22 16:26:17] @ Mode +o Karkus by ChanServ
+[2015/12/22 16:26:22] <jesusalva> Tobbi: Deustchland skörigel ist doof. (Did I wrote correctly? I mean, 'chocolate')
+[2015/12/22 16:26:37] <Tobbi> jesusalva: Wad?
+[2015/12/22 16:26:38] <jesusalva> (Pretty sure I didn't)
+[2015/12/22 16:26:58] <jesusalva> I meant: German chocolate is terrible.
+[2015/12/22 16:26:58] <Tobbi> Igel: https://upload.wikimedia.org/wikipedia/commons/4/4e/Hedgehog_germany0908.jpg
+[2015/12/22 16:27:45] <Tobbi> jesusalva: where did you get that translation for chocolate?
+[2015/12/22 16:27:56] <jesusalva> Phonetic sound. :P
+[2015/12/22 16:28:07] <jesusalva> I heard it, but forgot how to write.
+[2015/12/22 16:28:20] <jesusalva> Schokörigel... Something like that.
+[2015/12/22 16:28:28] <Tobbi> Schokoriegel
+[2015/12/22 16:28:29] <Tobbi> ah!
+[2015/12/22 16:28:39] <jesusalva> Is it correct?
+[2015/12/22 16:28:44] <Tobbi> Almost.
+[2015/12/22 16:28:47] <Tobbi> See mine below.
+[2015/12/22 16:28:55] <Tobbi> Igel = hedgehog.
+[2015/12/22 16:30:00] @ MrBones joined channel #supertux
