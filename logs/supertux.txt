@@ -29869,3 +29869,29 @@
 [2015/12/22 10:43:06] <grumbel> yes, and upstream should merge changes from SuperTux, but that can be done whenever it is needed
 [2015/12/22 10:43:32] <Tobbi> ok.
 [2015/12/22 10:44:01] <grumbel> If it's done to frequently it kind of bloats the git history
+[2015/12/22 10:50:37] <Tobbi> Karkus: What we should also add is climbable ladders... So, ladders are often considered climbable. Normally, you'd first create a ladder and then put a climbable above it. We should merge these steps into one.
+[2015/12/22 10:50:55] <Tobbi> So you can simply say: Climbable ladder from y pos a to y pos b
+[2015/12/22 10:50:56] <Not-e81f> [02supertux] 07laol commented on issue 03#285: SuperTux 0.4 can't run - 13http://git.io/vEnTb
+[2015/12/22 10:53:46] <Karkus> Tobbi:Is this an editor thing or a game thing?
+[2015/12/22 10:54:19] <Tobbi> Karkus: Editor thing, because those two things should still stay independent... But the editor creates both of the.
+[2015/12/22 10:54:20] <Tobbi> m
+[2015/12/22 10:54:35] <Karkus> Tobbi: Okay
+[2015/12/22 10:54:48] <Tobbi> I'll create an issue.
+[2015/12/22 10:56:00] <Not-e81f> [02flexlay] 07tobbi opened issue 03#55: Create climbable ladders - 13http://git.io/vEnIW
+[2015/12/22 10:56:24] <Tobbi> Karkus: https://github.com/SuperTux/flexlay/issues/54 are you sure this is a flexlay bug?
+[2015/12/22 10:57:00] <Karkus> Tobbi: It should be fixed in SuperTux, it can be fixed in Flexlay
+[2015/12/22 10:57:25] <Karkus> Tobbi: Actually, let me test something
+[2015/12/22 10:57:27] <Tobbi> Karkus: It starts the worldmap via ./supertux2 <worldmap filepath/worldmap.stwm> right?
+[2015/12/22 10:57:52] <Tobbi> I remember a bug in SuperTux that sounds like that.
+[2015/12/22 10:57:53] <Karkus> Tobbi: It creates a tempfile at /tmp/tmpflexlay.stl and then runs that.
+[2015/12/22 10:57:59] <Tobbi> Ah.
+[2015/12/22 10:58:13] <Karkus> Tobbi: Portability issues...
+[2015/12/22 10:58:25] <Tobbi> Portability issues?
+[2015/12/22 10:58:43] <Karkus> Tobbi: Windose doesn't have /tmp
+[2015/12/22 10:59:06] <Tobbi> Karkus: right...
+[2015/12/22 10:59:11] <Tobbi> Karkus: But that's not what I meant.
+[2015/12/22 10:59:27] <Karkus> Tobbi: I know
+[2015/12/22 10:59:38] <Tobbi> Let me look into that.
+[2015/12/22 10:59:42] <Hume2> I think that the ladder should be a tile property.
+[2015/12/22 10:59:59] <Karkus> Tobbi: Into what?
+[2015/12/22 10:59:59] <Tobbi> Hume2: No, sometimes we want ladders which don't react...
