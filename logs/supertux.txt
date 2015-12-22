@@ -29064,3 +29064,5 @@
 [2015/12/21 21:57:52] @ Quit: tuxdude143: Read error: Connection reset by peer
 [2015/12/21 22:26:25] <Not-e81f> [02supertux] 07Day253 starred 03supertux - 13http://git.io/vE363
 [2015/12/21 22:29:19] @ ChrisHighwind joined channel #supertux
+[2015/12/21 22:32:07] <ChrisHighwind> So I'm trying to compile the new 0.4.0 build of SuperTux, and this shows up when it gets to linking the executable http://pastebin.com/2AZHZNmL I am using Xubuntu 15.10 32-bit
+[2015/12/21 22:44:41] @ Quit: ChrisHighwind: Quit: Leaving
