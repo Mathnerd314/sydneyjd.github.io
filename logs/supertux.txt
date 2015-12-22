@@ -29572,3 +29572,48 @@
 [2015/12/22 08:13:16] <Tobbi> And most recent supertux version, nah, people will find that.
 [2015/12/22 08:13:36] <Not-e81f> [02supertux] 07chicks-net starred 03supertux - 13http://git.io/vEZvt
 [2015/12/22 08:14:56] <mt> Tobbi: so can you make me reviewer now?
+[2015/12/22 08:15:03] <Tobbi> Yes, yes, of course.
+[2015/12/22 08:15:09] <Not-e81f> [02supertux] 07Grumbel commented on issue 03#275: Do not install external dependencies system-wide - 13http://git.io/vEZvj
+[2015/12/22 08:16:09] <grumbel> brmbrmcar: could you file and issue about the addon problem and describe what behaviour you expect, what supertux is currently doing and how you'd like it changed?
+[2015/12/22 08:17:02] <brmbrmcar> Create an issue on GitHub?OK...
+[2015/12/22 08:17:11] <grumbel> yes
+[2015/12/22 08:17:43] <Not-e81f> [02supertux] 07Grumbel opened issue 03#286: Alt-Enter doesn't go to fullscreen - 13http://git.io/vEZfP
+[2015/12/22 08:18:22] <mt> TIL we have a lojban translation
+[2015/12/22 08:18:40] <Tobbi> mt: You should be a reviewer now (for German)
+[2015/12/22 08:18:47] <mt> yes I saw
+[2015/12/22 08:18:56] <Not-e81f> [02supertux] 07Grumbel opened issue 03#287: Bad performance in Windows10 - 13http://git.io/vEZJv
+[2015/12/22 08:19:05] <Tobbi> good.
+[2015/12/22 08:19:15] <Not-e81f> [02supertux] 07tim-hub starred 03supertux - 13http://git.io/vEZJL
+[2015/12/22 08:19:44] <Not-e81f> [02supertux] 07wdv4758h starred 03supertux - 13http://git.io/CtemiQ
+[2015/12/22 08:19:59] <Tobbi> 167
+[2015/12/22 08:20:02] <Tobbi> :D
+[2015/12/22 08:20:52] @ Quit: Karkus: Ping timeout: 272 seconds
+[2015/12/22 08:21:34] <Tobbi> I tweeted about the forest worldmap contest.
+[2015/12/22 08:22:13] <Not-e81f> [02supertux] 07brmbrmcar opened issue 03#288: Allow addons to be manually installed easily again - 13http://git.io/vEZUT
+[2015/12/22 08:23:49] <Not-e81f> [02supertux] 07Grumbel opened issue 03#289: Bad savegame location on Windows - 13http://git.io/vEZU4
+[2015/12/22 08:25:00] @ alket joined channel #supertux
+[2015/12/22 08:25:28] @ Quit: lumidify: Ping timeout: 260 seconds
+[2015/12/22 08:25:55] @ jesusalva_bot joined channel #supertux
+[2015/12/22 08:26:54] <brmbrmcar> jesusalva_bot: hello
+[2015/12/22 08:27:05] <brmbrmcar> Hmmm...
+[2015/12/22 08:27:08] <jesusalva_bot> hi
+[2015/12/22 08:27:13] <brmbrmcar> Oh!
+[2015/12/22 08:27:20] <brmbrmcar> ~hello
+[2015/12/22 08:27:20] <red_bot> but I already know brmbrmcar
+[2015/12/22 08:27:22] <alket> hi all
+[2015/12/22 08:27:28] @ jesusalva_bot is now known as jesusalva
+[2015/12/22 08:27:36] <alket> many ops, I want to be an op too xD
+[2015/12/22 08:27:44] @ lumidify joined channel #supertux
+[2015/12/22 08:27:57] <brmbrmcar> Poor alket.
+[2015/12/22 08:28:00] <jesusalva> hello lumidify
+[2015/12/22 08:28:17] @ Mode +o-o alket alket by mt
+[2015/12/22 08:28:31] <alket> lol
+[2015/12/22 08:28:31] <brmbrmcar> That's mean!
+[2015/12/22 08:28:31] <mt> :D
+[2015/12/22 08:28:34] <alket> within a second :p
+[2015/12/22 08:28:42] <alket> \o/ yay
+[2015/12/22 08:28:46] <alket> i was OP for 500 ms
+[2015/12/22 08:29:02] <brmbrmcar> CanIbe =o-o?
+[2015/12/22 08:29:16] <mt> brmbrmcar: no but you can be +q
+[2015/12/22 08:29:18] <mt> or +b
+[2015/12/22 08:29:37] <brmbrmcar> I don't like the sound of that.
