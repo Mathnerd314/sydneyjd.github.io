@@ -30139,3 +30139,28 @@
 [2015/12/22 18:08:03] <giby_the_kid> ok
 [2015/12/22 18:08:43] <Karkus> giby_the_kid: I don't know specifically, but we can update, and anyone who downloads the language pack will get the spelling mistake fixed.
 [2015/12/22 18:09:01] <Karkus> giby_the_kid: Hopefully :/
+[2015/12/22 18:17:33] <Not-e81f> [02supertux] 07Karkus476 closed pull request 03#265: Added none() function to Console - 13http://git.io/v00nB
+[2015/12/22 18:17:35] <Not-e81f> [02supertux] 07Karkus476 pushed 032 commits to 03master [+0/-0/±2] 13http://git.io/vEC9m
+[2015/12/22 18:17:36] <Not-e81f> [02supertux] 07brmbrmcar 0358dc008 - Added none() function to Console
+[2015/12/22 18:17:38] <Not-e81f> [02supertux] 07Karkus476 0350dd73e - Merge pull request #265 from brmbrmcar/patch-3
+[2015/12/22 18:17:39] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98423197
+[2015/12/22 18:17:41] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/186
+[2015/12/22 18:18:09] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#265: Added none() function to Console - 13http://git.io/vEC9c
+[2015/12/22 18:18:14] <swift110> hey all
+[2015/12/22 18:18:34] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98423197
+[2015/12/22 18:18:40] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#223: Configs now per profile - 13http://git.io/vEC9B
+[2015/12/22 18:18:41] <Not-e81f> [02supertux] 07Karkus476 closed pull request 03#223: Configs now per profile - 13http://git.io/v8MG4
+[2015/12/22 18:19:00] <Karkus> Hello swift110
+[2015/12/22 18:19:54] @ oumph joined channel #supertux
+[2015/12/22 18:21:17] <Karkus> Hello, oumph
+[2015/12/22 18:21:39] <oumph> hello
+[2015/12/22 18:22:33] <oumph> (just here to answer any questions from giby_the_kid if any about my fr.po patch and/or the yet-to-be-published SuperTux 0.40 news on LinuxFr.org)
+[2015/12/22 18:22:41] <snadge> https://github.com/SuperTux/supertux/issues/282
+[2015/12/22 18:23:19] <giby_the_kid> oumph, are you the one who just sent me a mail?
+[2015/12/22 18:23:33] <oumph> giby_the_kid, yep.
+[2015/12/22 18:24:09] <snadge> i can't believe that nobody here uses ubuntu ;)
+[2015/12/22 18:24:36] <snadge> FreeBSD.. pfft.. its supertux.. not superbeastie
+[2015/12/22 18:24:36] <giby_the_kid> Ok, just a detail: Capitals in non-first words are there on purposes, esthetic
+[2015/12/22 18:25:15] <giby_the_kid> Ubuntu stinks.... Mageia rules :p
+[2015/12/22 18:26:05] <oumph> that's common in English, but uncommon in French. But let's go for the esthetic point.
+[2015/12/22 18:26:45] <giby_the_kid> Well.... I'm dyslexic and often working abroad
