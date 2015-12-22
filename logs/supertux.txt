@@ -29417,3 +29417,36 @@
 [2015/12/22 07:13:43] <Tobbi> We can't ever test on all available systems...no donations, no money etc.
 [2015/12/22 07:14:39] <Not-e81f> [02supertux] 07Reagan starred 03supertux - 13http://git.io/vEG1Z
 [2015/12/22 07:14:51] <Tobbi> That's the way to go.
+[2015/12/22 07:15:39] <Tobbi> Hume2: He did reply...When clicking SuperTux.exe, nothing happens.
+[2015/12/22 07:15:46] <Tobbi> That's very unspecific.
+[2015/12/22 07:16:10] <Tobbi> Karkus: So, do we hold off on developing the editor until a decision has been made?
+[2015/12/22 07:16:33] <Karkus> Tobbi: I guess so
+[2015/12/22 07:16:39] <Tobbi> ok
+[2015/12/22 07:16:43] <Karkus> Tobbi: How long should we wait?
+[2015/12/22 07:17:02] <Tobbi> Karkus: I really don't know... Maybe 1 week?
+[2015/12/22 07:17:15] <Karkus> Tobbi: Okay
+[2015/12/22 07:17:29] <grumbel> Why bother? Develop on whatever editor you are interested in?
+[2015/12/22 07:17:39] <Tobbi> I don't know how many people will push the discussion further to some point.
+[2015/12/22 07:17:45] <grumbel> The thing that decide which editor gets used is whatever editor works and is worked on, not a vote
+[2015/12/22 07:18:00] <Tobbi> Hmm...
+[2015/12/22 07:18:55] <Tobbi> grumbel: Any idea why this happens? https://twitter.com/LaOlTomsk/status/679273229748432896
+[2015/12/22 07:19:30] <Not-e81f> [02supertux] 07laol opened issue 03#285: SuperTux 0.4 can't run - 13http://git.io/vEGMK
+[2015/12/22 07:20:10] <grumbel> Tobbi: does SDL still leave a stdout.log file in Windows?
+[2015/12/22 07:20:26] <Tobbi> Hmm, I don't know.
+[2015/12/22 07:20:37] <Tobbi> I'll ask.
+[2015/12/22 07:21:00] <Not-e81f> [02supertux] 07tobbi commented on issue 03#285: SuperTux 0.4 can't run - 13http://git.io/vEGDU
+[2015/12/22 07:21:36] @ grumbel_ joined channel #supertux
+[2015/12/22 07:22:19] <brmbrmcar> 156 stars?
+[2015/12/22 07:22:22] @ Quit: grumbel: Remote host closed the connection
+[2015/12/22 07:22:31] <Not-e81f> [02supertux] 07moefly forked the repository - 13http://git.io/vEGDz
+[2015/12/22 07:25:49] <Hume2> Windows 10, do you expect some useful error messages?
+[2015/12/22 07:26:04] <brmbrmcar> brmbrmerror :D
+[2015/12/22 07:26:05] <Tobbi> Hume2: It is *not* an issue with Windows 10.
+[2015/12/22 07:26:40] <Tobbi> Not an inherent flaw in the operating system, I mean.
+[2015/12/22 07:27:06] <Hume2> I know. We don't know anything specific about this though.
+[2015/12/22 07:27:21] <brmbrmcar> So,it could be!
+[2015/12/22 07:28:07] <Tobbi> But the good thing is: No one complained about language packs yet.
+[2015/12/22 07:28:09] <Tobbi> :D
+[2015/12/22 07:28:16] <Tobbi> Or how the add-ons manager opens to install them :D
+[2015/12/22 07:28:46] <Hume2> :D
+[2015/12/22 07:29:00] <brmbrmcar> Iliked the way you could chuck the addon zips into .supertux2 in 0.3.4.
