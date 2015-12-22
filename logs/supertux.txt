@@ -28989,3 +28989,11 @@
 [2015/12/21 17:51:28] @ Quit: leyyin_: Quit: So Long, and Thanks for All the Fish
 [2015/12/21 17:57:56] @ stewboy joined channel #supertux
 [2015/12/21 18:06:15] <Not-e81f> [02supertux] 07RobLoach forked the repository - 13http://git.io/NCKF
+[2015/12/21 19:03:07] @ Tobbi joined channel #supertux
+[2015/12/21 19:03:07] @ Mode +o Tobbi by ChanServ
+[2015/12/21 19:06:50] <Tobbi> Guys, too much scrollbcak.
+[2015/12/21 19:06:56] <Tobbi> *scrollback.
+[2015/12/21 19:08:42] <Tobbi> Guys, 131 stars.
+[2015/12/21 19:09:43] @ swift110 joined channel #supertux
+[2015/12/21 19:09:52] <swift110> hey all
+[2015/12/21 19:10:26] @ datahead8888 joined channel #supertux
