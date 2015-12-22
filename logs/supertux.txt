@@ -29020,3 +29020,16 @@
 [2015/12/21 19:34:21] <Tobbi> swift110: head8debian is idle for more than 3 hours.
 [2015/12/21 19:37:15] @ Quit: jesusalva: Ping timeout: 276 seconds
 [2015/12/21 19:41:14] <swift110> oh ok
+[2015/12/21 19:53:05] @ jesusalva_bot joined channel #supertux
+[2015/12/21 19:53:28] <jesusalva_bot> Tobbi, i did in 120 lines
+[2015/12/21 19:53:30] <jesusalva_bot> too much
+[2015/12/21 19:53:39] <Tobbi> :D
+[2015/12/21 19:53:48] <jesusalva_bot> will shorten and tell you tomorrow
+[2015/12/21 19:54:04] <jesusalva_bot> for now its time to sleep, 23:00.
+[2015/12/21 19:54:28] <jesusalva_bot> just check the images
+[2015/12/21 19:54:43] <jesusalva_bot> the drawings are poor and may hurt your eyes
+[2015/12/21 19:55:25] <jesusalva_bot> other than that, it shows pretty nicely the idea we spent two hours talking.
+[2015/12/21 19:56:23] @ jesusalva_bot is now known as jesusalva
+[2015/12/21 19:57:39] <jesusalva> good night Tobbi, mt, brmbrmcar, head8debian, Hume2, Karkus, lumidify
+[2015/12/21 19:57:46] <Tobbi> jesusalva: Good night.
+[2015/12/21 19:58:29] @ Quit: jesusalva: Quit: jesusalva sets off to sleep. Good night and God bless you all.
