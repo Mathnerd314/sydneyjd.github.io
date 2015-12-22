@@ -30068,3 +30068,8 @@
 [2015/12/22 15:58:41] @ Quit: head8deb1an: Ping timeout: 264 seconds
 [2015/12/22 15:59:18] @ head8debian joined channel #supertux
 [2015/12/22 15:59:18] @ Mode +o head8debian by ChanServ
+[2015/12/22 16:12:39] @ Joined channel #supertux
+[2015/12/22 16:12:39] @ Topic is "MILESTONE 2 RELEASED | https://github.com/SuperTux | Stable: 0.4.0 | mailing list: supertux-devel@lists.lethargik.org | Channel log http://sydneyjd.github.io/logs/ | nightly builds http://download.supertuxproject.org/download/"
+[2015/12/22 16:12:39] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-12-20 14:44:19 -0500
+[2015/12/22 16:12:43] @ Mode +nt by verne.freenode.net
+[2015/12/22 16:12:51] @ Mode +o red_bot by ChanServ
