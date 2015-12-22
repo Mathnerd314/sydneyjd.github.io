@@ -29473,3 +29473,58 @@
 [2015/12/22 07:40:15] <Tobbi> hmm...
 [2015/12/22 07:44:13] <grumbel_> Framerate in Windows feels pretty bad, even so it show 66FPS, maybe vsync issue?
 [2015/12/22 07:44:44] <grumbel_> Alt-Enter doesn't go fullscreen
+[2015/12/22 07:48:49] <grumbel_> The game saves straight to c:\Users\user\supertux2 thats not good either
+[2015/12/22 07:49:08] <Not-e81f> [02supertux] 07rhtu forked the repository - 13http://git.io/vEGdn
+[2015/12/22 07:49:48] <mt> hi!
+[2015/12/22 07:49:52] <Tobbi> hi mt.
+[2015/12/22 07:50:08] <Tobbi> grumbel_: I can probably implement alt+Enter.
+[2015/12/22 07:50:38] <mt> Karkus: so what's your opinion on what we discussed yesterday evening (too long to read in the backlog)?
+[2015/12/22 07:50:49] <mt> also, Tobbi, did you see that discussion?
+[2015/12/22 07:50:49] <Not-e81f> [02supertux] 07BITandLiteracy starred 03supertux - 13http://git.io/vEGd9
+[2015/12/22 07:51:05] <Karkus> mt: I think it's a good idea, on the whole
+[2015/12/22 07:51:11] <Tobbi> mt: I did, long discussion...if you could give me the most important points, sure.
+[2015/12/22 07:51:17] <Karkus> mt: A worldmap of worldmaps
+[2015/12/22 07:51:20] <Tobbi> ah
+[2015/12/22 07:51:21] <Karkus> Tobbi: ^
+[2015/12/22 07:51:30] <Tobbi> Karkus: Should be possible.
+[2015/12/22 07:51:31] <mt> not just that :P
+[2015/12/22 07:51:38] <Karkus> mt: I know
+[2015/12/22 07:51:43] <mt> so basically, we have multiple islands on the same worldmap
+[2015/12/22 07:51:55] <Tobbi> Guys, I am happy with whatever you come up with, as long as I don't have to do all the work :P
+[2015/12/22 07:51:57] <mt> the game starts with the history as is in Antarctica
+[2015/12/22 07:52:28] <mt> once you've finished antarctica you'll go to some in-between levels, where you'll get another object you can use to get to the next world
+[2015/12/22 07:52:32] <mt> and so on
+[2015/12/22 07:52:55] <Tobbi> Sounds good.
+[2015/12/22 07:53:02] <mt> and on your journey, you'll collect items all around the world that you need to unlock Nolok's castle
+[2015/12/22 07:53:12] <brmbrmcar> Why?
+[2015/12/22 07:53:20] <brmbrmcar> Unlocking is evil.
+[2015/12/22 07:53:37] <Tobbi> brmbrmcar: You're evil as well, yet we tolerate you.
+[2015/12/22 07:53:39] <mt> brmbrmcar: we'd listen to you if you included a reason
+[2015/12/22 07:53:53] <Tobbi> mt: This should already be possible with what we have in place.
+[2015/12/22 07:54:21] <brmbrmcar> There willalways beone thing someone finds hard, and you don't want it to dominate their game.
+[2015/12/22 07:54:28] <mt> Tobbi: yeah, I mentioned that too
+[2015/12/22 07:54:35] <Not-e81f> [02supertux] 07akidox starred 03supertux - 13http://git.io/vEGba
+[2015/12/22 07:54:36] <Tobbi> scripting-wise I mean :)
+[2015/12/22 07:54:50] <Not-e81f> [02supertux] 07Barneybook starred 03supertux - 13http://git.io/vEGb9
+[2015/12/22 07:54:56] <grumbel_> can't find stdout.txt on windows or another way to get a log
+[2015/12/22 07:54:58] <Not-e81f> [02supertux] 07maoabc1818 starred 03supertux - 13http://git.io/FP0r
+[2015/12/22 07:55:01] <mt> wtf
+[2015/12/22 07:55:04] <mt> so many stars
+[2015/12/22 07:57:05] <Tobbi> hrm.
+[2015/12/22 07:57:26] <Karkus> mt: Yesterday I was a bit unsure of the objects concept, but jesusalva explained it to me
+[2015/12/22 07:57:47] <brmbrmcar> Earlier Iwas in a position whenll I wanted to do was get into the Forest castle, and thenI didn't realise you needeed the keys to get  in.
+[2015/12/22 07:57:48] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEGAk
+[2015/12/22 07:57:49] <Not-e81f> [02supertux] 07Hume2 03ec99094 - fixes #261
+[2015/12/22 07:57:50] <Tobbi> 162 stars.
+[2015/12/22 07:57:51] <Karkus> mt: I'm not sure if it will work out, but the worldmap idea it good
+[2015/12/22 07:57:51] <Not-e81f> [02supertux] 07Hume2 closed issue 03#261: Yeti bounces through unisolid tiles - 13http://git.io/v0mfa
+[2015/12/22 07:57:53] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98310880
+[2015/12/22 07:57:54] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/177
+[2015/12/22 07:58:06] <brmbrmcar> It made me so angry and upset.
+[2015/12/22 07:58:45] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98310880
+[2015/12/22 07:59:00] <Not-e81f> [02supertux] 079max9 forked the repository - 13http://git.io/vEGAl
+[2015/12/22 07:59:04] <Not-e81f> [02supertux] 079max9 starred 03supertux - 13http://git.io/vEGAl
+[2015/12/22 07:59:18] <Karkus> brmbrmcar: But, if you could play every level from the get go, it wouldn't be much of a challenge would it?
+[2015/12/22 07:59:20] @ grumbel joined channel #supertux
+[2015/12/22 07:59:20] @ Mode +o grumbel by ChanServ
+[2015/12/22 07:59:42] <mt> I think the translator list in credits will at least double for the next release :>
