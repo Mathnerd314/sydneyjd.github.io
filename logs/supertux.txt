@@ -30013,3 +30013,29 @@
 [2015/12/22 14:07:42] <Not-e81f> [02supertux] 07troglobit starred 03supertux - 13http://git.io/vEc8g
 [2015/12/22 14:22:29] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#262: Show correct type of Tux and direction when going off the screen - 13http://git.io/vEczN
 [2015/12/22 14:29:57] @ Hume2 joined channel #supertux
+[2015/12/22 14:30:02] @ Mode +v Hume2 by ChanServ
+[2015/12/22 14:31:11] <Karkus> Hume2: I changed the scrolling in the editor
+[2015/12/22 14:31:22] <Hume2> Karkus: Thanks!
+[2015/12/22 14:31:27] <Karkus> Hume2: With the mouse
+[2015/12/22 14:31:32] <Karkus> Hume2: Can you test it?
+[2015/12/22 14:31:37] <Hume2> OK
+[2015/12/22 14:33:26] <Karkus> Hume2: Also, do you know anything about OpenAL?
+[2015/12/22 14:33:39] <Hume2> No,  I don't.
+[2015/12/22 14:34:03] <Hume2> At least we have those virtualized menu items.
+[2015/12/22 14:36:37] <Karkus> Hume2: Have you seen the changes?
+[2015/12/22 14:36:53] <Hume2> Karkus: building...
+[2015/12/22 14:37:05] <Karkus> Hume2: Oh, right.
+[2015/12/22 14:37:23] <Karkus> Hume2: What IDE do you use?
+[2015/12/22 14:37:45] <Hume2> I use QT creator.
+[2015/12/22 14:38:01] <Hume2> with combination of terminal.
+[2015/12/22 14:38:33] <Hume2> Maybe I should configure it some nice day.
+[2015/12/22 14:39:18] <Karkus> Hume2: Currently I'm using CodeLite. Maybe I should check QT Creator out?
+[2015/12/22 14:39:58] <leyyin> Karkus, you should :D
+[2015/12/22 14:40:08] <Karkus> leyyin: You use that?
+[2015/12/22 14:40:12] <leyyin> yup
+[2015/12/22 14:40:22] <Karkus> leyyin: And it's good?
+[2015/12/22 14:40:37] <leyyin> I think it's one of the best C++ editors
+[2015/12/22 14:40:49] <leyyin> the debugger is awesome, a visual aid to gdb
+[2015/12/22 14:41:03] <Karkus> leyyin: Okay, I'll check it out
+[2015/12/22 14:44:11] <head8deb1an> Good afternoon all.
+[2015/12/22 14:44:44] <Karkus> head8deb1an: Afternoon.
