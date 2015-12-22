@@ -30129,3 +30129,6 @@
 [2015/12/22 17:17:18] @ Quit: leyyin_: Ping timeout: 272 seconds
 [2015/12/22 17:21:18] @ Quit: claymore2: Quit: Leaving
 [2015/12/22 17:22:15] <Not-e81f> [02supertux] 07Grumbel commented on issue 03#288: Allow addons to be manually installed easily again - 13http://git.io/vECV0
+[2015/12/22 17:31:23] @ Quit: leyyin__: Quit: So Long, and Thanks for All the Fish
+[2015/12/22 17:39:43] @ Quit: brmbrmcar: Quit: Found terminal
+[2015/12/22 17:43:42] @ swift110 joined channel #supertux
