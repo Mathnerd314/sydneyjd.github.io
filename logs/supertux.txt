@@ -30126,3 +30126,6 @@
 [2015/12/22 17:10:17] @ Quit: Tobbi: 
 [2015/12/22 17:10:42] <brmbrmcar> I would not know.
 [2015/12/22 17:13:21] @ leyyin__ joined channel #supertux
+[2015/12/22 17:17:18] @ Quit: leyyin_: Ping timeout: 272 seconds
+[2015/12/22 17:21:18] @ Quit: claymore2: Quit: Leaving
+[2015/12/22 17:22:15] <Not-e81f> [02supertux] 07Grumbel commented on issue 03#288: Allow addons to be manually installed easily again - 13http://git.io/vECV0
