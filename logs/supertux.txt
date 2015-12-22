@@ -30004,3 +30004,7 @@
 [2015/12/22 13:42:46] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-12-20 14:44:19 -0500
 [2015/12/22 13:42:50] @ Mode +nt by rajaniemi.freenode.net
 [2015/12/22 13:42:58] @ Mode +o red_bot by ChanServ
+[2015/12/22 13:47:53] @ Quit: alket: Read error: Connection reset by peer
+[2015/12/22 13:48:10] @ alket joined channel #supertux
+[2015/12/22 13:48:17] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98365351
+[2015/12/22 13:49:51] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98369986
