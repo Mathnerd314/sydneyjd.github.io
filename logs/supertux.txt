@@ -29743,3 +29743,64 @@
 [2015/12/22 09:44:07] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98328607
 [2015/12/22 09:44:09] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/179
 [2015/12/22 09:44:50] <head8debian> mt: You could try Elation Lighting. They are a trustworthy brand with good products.
+[2015/12/22 09:45:14] <head8debian> mt: Even though they are not in Germany...
+[2015/12/22 09:45:19] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98328607
+[2015/12/22 09:45:37] <grumbel> brmbrmcar: addons that don't work should throw an warning message to stdout
+[2015/12/22 09:45:50] <Not-e81f> [02supertux] 07maths22 commented on issue 03#275: Do not install external dependencies system-wide - 13http://git.io/vEZr1
+[2015/12/22 09:45:51] <Not-e81f> [02supertux] 07maths22 closed issue 03#275: Do not install external dependencies system-wide - 13http://git.io/vEtVv
+[2015/12/22 09:46:07] <mt> head8debian: we've got like one similar to this one http://www.amazon.com/Elation-Hedge-Hog-Lighting-Console/dp/B00I86RM90/ref=sr_1_6?s=musical-instruments&ie=UTF8&qid=1450795339&sr=1-6&keywords=elation+lighting, also a little bit older ;)
+[2015/12/22 09:46:13] <head8debian> mt: American DJ is another good brand... but its American. :D
+[2015/12/22 09:46:37] <head8debian> mt: Ah, cool. Those are fun. :D
+[2015/12/22 09:47:00] <head8debian> mt: What do you do with them?
+[2015/12/22 09:47:00] <mt> </offtopic discussion>
+[2015/12/22 09:47:05] <mt> <ontopic discussion>
+[2015/12/22 09:48:08] <brmbrmcar> http://www.fileconvoy.com/gf.php?id=gabb00f1bd61faba3999764251.81322714cc3e66e27c67c5&sts=14507955052173954764e3d898ad40bbd45a48e2aadc6a24c2f
+[2015/12/22 09:48:43] <brmbrmcar> Not very good, images use possibly illegal...
+[2015/12/22 09:48:52] <Not-e81f> [02supertux] 07maths22 commented on issue 03#285: SuperTux 0.4 can't run - 13http://git.io/vEZKN
+[2015/12/22 09:49:08] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/179
+[2015/12/22 09:50:00] <head8debian> Tobbi: I got a response bacn from softsonic... They want me to fix the page. o_O
+[2015/12/22 09:50:04] <head8debian> back*
+[2015/12/22 09:50:07] <Tobbi> head8debian: What page?
+[2015/12/22 09:50:11] <grumbel> brmbrmcar: the top level directory is wrong, the .nfo, along with the rest needs to be at the toplevel, not in testaddon/
+[2015/12/22 09:50:26] <head8debian> Tobbi: The softsonic supertux page! Remember?
+[2015/12/22 09:50:29] <brmbrmcar> OK.
+[2015/12/22 09:50:39] <Tobbi> head8debian: You got permission to fix their page?
+[2015/12/22 09:50:40] <Tobbi> weird.
+[2015/12/22 09:50:51] <brmbrmcar> ButI'll try with something I didn't make.
+[2015/12/22 09:50:52] <head8debian> Tobbi: I know. o_O
+[2015/12/22 09:51:03] <head8debian> Tobbi: I'd rather delete it... :p
+[2015/12/22 09:51:52] <Tobbi> head8debian: but if you got permission, go ahead.
+[2015/12/22 09:52:05] <head8debian> Tobbi: I have to make a account with them...
+[2015/12/22 09:52:11] <Tobbi> head8debian: so what?
+[2015/12/22 09:52:15] <Tobbi> Wait, you actually don't.
+[2015/12/22 09:52:20] <Tobbi> probably not, at leasy.
+[2015/12/22 09:52:30] <Not-e81f> [02supertux] 07Grumbel commented on issue 03#288: Allow addons to be manually installed easily again - 13http://git.io/vEZiX
+[2015/12/22 09:52:37] <head8debian> Tobbi: They tell me i do. :D
+[2015/12/22 09:52:38] <Tobbi> head8debian: http://bugmenot.com/view/softonic.com
+[2015/12/22 09:52:43] <Tobbi> Use one of those.
+[2015/12/22 09:52:49] <brmbrmcar> http://addons.supertux.googlecode.com/git/Levels/christoph.zip
+[2015/12/22 09:52:56] <brmbrmcar> didn't work.
+[2015/12/22 09:53:09] <head8debian> Tobbi: How do i fix the 4-way flasher button on my car? :D
+[2015/12/22 09:53:18] <Tobbi> head8debian: what?
+[2015/12/22 09:53:32] <head8debian> Tobbi: :D
+[2015/12/22 09:53:36] <brmbrmcar> head8debian: On your what?
+[2015/12/22 09:54:01] @ Poly-C_atwork joined channel #supertux
+[2015/12/22 09:54:11] <head8debian> brmbrmcar: Im working on fixing a PT Cruiser to resell.
+[2015/12/22 09:54:25] <brmbrmcar> PT Cruiser?
+[2015/12/22 09:54:26] <Poly-C_atwork> Hi. Just wanted to step by and say congrats and thank you for the 0.4.0 release :)
+[2015/12/22 09:54:32] <head8debian> brmbrmcar: Look it up. :D
+[2015/12/22 09:54:33] <brmbrmcar> What's that?
+[2015/12/22 09:54:42] <Not-e81f> [02supertux] 07webpig starred 03supertux - 13http://git.io/vRm0o
+[2015/12/22 09:54:43] <head8debian> Poly-C_atwork: Hey! Thanks!
+[2015/12/22 09:55:33] <brmbrmcar> head8debian: No thanks.
+[2015/12/22 09:55:46] <brmbrmcar> It's the side impact thay's poor!
+[2015/12/22 09:56:42] <head8debian> brmbrmcar: I don't care...
+[2015/12/22 09:57:04] <head8debian> brmbrmcar: Tons of people drive them. :)
+[2015/12/22 09:57:12] <Poly-C_atwork> I'm hoping to get 0.4.0 added to Gentoo's package repository. https://bugs.gentoo.org/564076
+[2015/12/22 09:57:21] <brmbrmcar> WellI'm not one of them!
+[2015/12/22 09:57:26] <head8debian> Poly-C_atwork: Cool! Thank you.
+[2015/12/22 09:57:46] <maths22> This new sexp-cpp doesn't build on windows
+[2015/12/22 09:58:04] <maths22> see linex 170-177 here: https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/179
+[2015/12/22 09:59:17] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98328607
+[2015/12/22 09:59:30] <head8debian> brmbrmcar: They are quite nice cars.
+[2015/12/22 09:59:51] <Not-e81f> [02supertux] 07kyleburton starred 03supertux - 13http://git.io/vEZM3
