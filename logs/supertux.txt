@@ -29033,3 +29033,7 @@
 [2015/12/21 19:57:39] <jesusalva> good night Tobbi, mt, brmbrmcar, head8debian, Hume2, Karkus, lumidify
 [2015/12/21 19:57:46] <Tobbi> jesusalva: Good night.
 [2015/12/21 19:58:29] @ Quit: jesusalva: Quit: jesusalva sets off to sleep. Good night and God bless you all.
+[2015/12/21 20:02:29] @ tux|dude joined channel #supertux
+[2015/12/21 20:03:31] @ tuxdude143 joined channel #supertux
+[2015/12/21 20:06:21] @ Quit: datahead8888: Ping timeout: 250 seconds
+[2015/12/21 20:07:05] @ Quit: tux|dude: Ping timeout: 244 seconds
