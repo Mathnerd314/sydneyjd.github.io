@@ -30546,3 +30546,10 @@
 [2015/12/23 04:48:50] <Not-e81f> [02supertux] 07alexgleason starred 03supertux - 13http://git.io/vElub
 [2015/12/23 04:55:13] <Not-e81f> [02supertux] 07boramalper starred 03supertux - 13http://git.io/vElgH
 [2015/12/23 04:58:56] <Not-e81f> [02supertux] 07R-Typ starred 03supertux - 13http://git.io/vEla3
+[2015/12/23 05:20:57] <Not-e81f> [02supertux] 07jodizzle starred 03supertux - 13http://git.io/vEl6q
+[2015/12/23 05:21:45] <Not-e81f> [02supertux] 07kirill-a starred 03supertux - 13http://git.io/vEl64
+[2015/12/23 05:24:10] @ sebras-mobile joined channel #supertux
+[2015/12/23 05:24:32] <brmbrmcar> 210stars!
+[2015/12/23 05:24:44] <sebras-mobile> There... the Swedish translation is now 100%. Hope this helps your game! Merry Christmas guys!
+[2015/12/23 05:26:00] <brmbrmcar> Thanks!
+[2015/12/23 05:26:11] <brmbrmcar> It will help!
