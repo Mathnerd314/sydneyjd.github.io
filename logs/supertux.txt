@@ -30744,3 +30744,41 @@
 [2015/12/23 10:14:47] <SupertuxUser> thank you for your help by the way
 [2015/12/23 10:14:59] <head8debian> Busy in here... ;)
 [2015/12/23 10:15:00] <mt> Hah, until June this year DTAG only provided me ~48kB/s
+[2015/12/23 10:15:29] <mt> But got uncapped LTE now
+[2015/12/23 10:15:32] <SupertuxUser> i previously installed supertux on three windows computers for kids, and they loved the graphics effects that came with 0.3.9(?)
+[2015/12/23 10:15:50] <mt> we jumped from 0.3.5a directly to 0.4.0
+[2015/12/23 10:15:54] <head8debian> SupertuxUser: Uhm, 0.3.5a was our last version.
+[2015/12/23 10:16:14] <mt> reason: not annoying package managers; see http://semver.org/ for versioning scheme
+[2015/12/23 10:16:16] <SupertuxUser> with the halloween map
+[2015/12/23 10:16:24] <SupertuxUser> :)
+[2015/12/23 10:16:24] <mt> that was 0.3.4 I think
+[2015/12/23 10:17:28] @ Quit: irungentoo: Remote host closed the connection
+[2015/12/23 10:18:34] <head8debian> Ah, yes, Supertux 0.4.0 is in the Arch repos already... should have known
+[2015/12/23 10:19:06] <mt> uh well, 0.4.0 is also in the development releases of ubuntu and debian
+[2015/12/23 10:19:33] <head8debian> mt: I figured.
+[2015/12/23 10:19:54] <head8debian> mt: I just haven't been on my computer much to look at stuff...
+[2015/12/23 10:20:04] <mt> Gentoo updated games-arcade/supertux with an as unstable marked 0.4.0 ebuild: https://packages.gentoo.org/packages/games-arcade/supertux
+[2015/12/23 10:20:30] <head8debian> I don't use Gentoo. :)
+[2015/12/23 10:21:05] <SupertuxUser> okay, all done mt
+[2015/12/23 10:21:39] <mt> ok, then cd to the untar'ed source
+[2015/12/23 10:21:53] <SupertuxUser> yes
+[2015/12/23 10:22:28] <mt> usually we tend to create a directory for building, often called build/
+[2015/12/23 10:22:36] <mt> create one and cd to it
+[2015/12/23 10:22:47] <mt> (in the source tree)
+[2015/12/23 10:23:06] <SupertuxUser> yeah, done :)
+[2015/12/23 10:24:51] <mt> there you can `cmake ..` with your wanted arguments, like `-DCMAKE_BUILD_TYPE=Release -DWARNINGS=ON -DWERROR=ON -DBUILD_TESTS=ON`; if you don't want to mess with system directories, add `-DCMAKE_INSTALL_PREFIX=$prefix`, where $prefix is some special install directory in $HOME, or /opt oslt
+[2015/12/23 10:25:43] <SupertuxUser>   Could NOT find CURL (missing: CURL_LIBRARY CURL_INCLUDE_DIR)
+[2015/12/23 10:25:50] @ tuxdev_ joined channel #supertux
+[2015/12/23 10:25:53] <mt> `apt-get install libcurl-dev`
+[2015/12/23 10:25:59] <SupertuxUser> (after a lot of "found" messages)
+[2015/12/23 10:26:01] <SupertuxUser> ok
+[2015/12/23 10:26:38] <SupertuxUser> it suggests me three packages instead
+[2015/12/23 10:26:43] <SupertuxUser>   libcurl4-openssl-dev 7.35.0-1ubuntu2.5   libcurl4-nss-dev 7.35.0-1ubuntu2.5   libcurl4-gnutls-dev 7.35.0-1ubuntu2.5
+[2015/12/23 10:27:05] <mt> what's its exact output?
+[2015/12/23 10:27:15] <mt> does it say you have to choose between one of them?
+[2015/12/23 10:27:34] <mt> if so, choose whatever crypt backend you'd prefer
+[2015/12/23 10:27:47] <SupertuxUser> it says libcurl-dev is a virtual package and i should select one explicitly
+[2015/12/23 10:28:16] <SupertuxUser> i will go with the first then
+[2015/12/23 10:28:23] <mt> ok then
+[2015/12/23 10:29:48] <SupertuxUser> okay, now cmake didn't complain
+[2015/12/23 10:29:59] <SupertuxUser> >build files have been written to (build directory)
