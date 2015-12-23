@@ -30682,3 +30682,65 @@
 [2015/12/23 09:58:09] <Karkus> mt: Yeah, I get problems with that. Don't know if it's relevant
 [2015/12/23 09:59:32] <mt> Poino: mhm, what happened now?
 [2015/12/23 09:59:46] @ SupertuxUser joined channel #supertux
+[2015/12/23 10:00:19] <Poino> Nothing, the levels appeared complete. I removed both 0.3.5 and Milestone 2, and downloaded the New one again, but it still was like that
+[2015/12/23 10:00:25] <Not-e81f> [02supertux] 07Jake41 commented on issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vE8p2
+[2015/12/23 10:00:32] <Karkus> Hello SupertuxUser
+[2015/12/23 10:00:54] <mt> Poino: yes, it's supposed to not reset progress, that'd be a silly thing
+[2015/12/23 10:00:56] <SupertuxUser> hello #supertux! i wonder if there is any linux build of 0.4.0 anywhere to download? because i really feel helpless when i look at the "how to build" page
+[2015/12/23 10:01:03] <Poino> Oh
+[2015/12/23 10:01:12] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vE8pQ
+[2015/12/23 10:01:31] <Poino> SupertuxUser: No idea
+[2015/12/23 10:01:38] <mt> SupertuxUser: tried the nightly builds at https://download.supertuxproject.org/download/ (also see the topic)
+[2015/12/23 10:02:33] <mt> bah OBS is broken
+[2015/12/23 10:02:36] <Karkus> SupertuxUser: What Linux distro are you using?
+[2015/12/23 10:02:59] <SupertuxUser> i saw this page, but i use linux mint. didn't yet found out how to add this repository
+[2015/12/23 10:03:15] <mt> don't add it it's broken anyway :P
+[2015/12/23 10:03:17] <Poino> mt: Nevermind, there are just 708 levels of Add-Ons
+[2015/12/23 10:03:34] <Not-e81f> [02supertux] 07Jake41 commented on issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vE8hl
+[2015/12/23 10:04:08] <Poino> Karkus: I have OpenSuse, and I cannot find a way too
+[2015/12/23 10:04:08] <SupertuxUser> in mints repo (which might be just the ubuntu one) all i find is the version 0.3.4 and 0.3.5~git.. which is really laggy
+[2015/12/23 10:04:34] <mt> SupertuxUser: well, we don't provide official builds for Linux, and the distro's package managers are responsible for their packages themselves
+[2015/12/23 10:04:44] <SupertuxUser> i do understand that
+[2015/12/23 10:05:02] <Karkus> SupertuxUser, Poino: Basically, we're waiting on Ubuntu to update
+[2015/12/23 10:05:04] <mt> most Debian and Ubuntu based distros follow the Debian scheme of not updating unless it's a bugfix
+[2015/12/23 10:05:17] <mt> at least, for a release cycle
+[2015/12/23 10:05:22] <SupertuxUser> i also found that there is a PPA with some supertux version
+[2015/12/23 10:05:28] <Karkus> Debian have updated theirs, iirc
+[2015/12/23 10:05:32] <SupertuxUser> but not the updated one
+[2015/12/23 10:05:42] <mt> These PPAs are unofficial, unsupported, and yeah, out-of-date
+[2015/12/23 10:05:57] <mt> Karkus: well, that only affects Debian unstable/sid
+[2015/12/23 10:06:12] <Karkus> mt: Oh, yeah
+[2015/12/23 10:06:16] <Poino> Karkus: So, there will be no release for Linux until Ubuntu updates?
+[2015/12/23 10:06:23] <mt> We have to wait some days/weeks to get in into testing, and then some few years to get it into stable
+[2015/12/23 10:06:30] <SupertuxUser> i find it sad that windows users can just download supertux and play and linux users can't
+[2015/12/23 10:07:00] <Karkus> SupertuxUser: https://download.supertuxproject.org/download/
+[2015/12/23 10:07:15] <mt> Karkus: the nightly builder for Linux is broken, stuck at some older revision
+[2015/12/23 10:07:22] <SupertuxUser> well yes, this was linked already karkus. thanks anyway
+[2015/12/23 10:07:22] <Karkus> mt: How old?
+[2015/12/23 10:07:25] <SupertuxUser> did anyone manage to build 0.4.0 and could point me to a how to?
+[2015/12/23 10:07:32] <mt> Ubuntu has updated their package in the xenial repos: http://packages.ubuntu.com/xenial/supertux
+[2015/12/23 10:07:49] <mt> But the wily repos won't be updated
+[2015/12/23 10:08:31] <mt> SupertuxUser: well, I could guide you (if you want also in German, I saw you're connecting from *.t-ipconnect.de)
+[2015/12/23 10:08:56] <SupertuxUser> that would be great. english or german both would be fine
+[2015/12/23 10:09:17] <mt> so, have you ever used the terminal/command line before?
+[2015/12/23 10:09:57] <mt> and - are you using ubuntu trusty or wily?
+[2015/12/23 10:10:00] <Poino> Karkus, mt: Congratulations again for Milestone 2, and Merry Christmas!
+[2015/12/23 10:10:06] <Karkus> SupertuxUser: I was just pointing out that we do have a way, it appears, however, to be broken
+[2015/12/23 10:10:06] <SupertuxUser> yeah, i'm able to follow simple instructions :) but didn't yet build anything with that many dependencies
+[2015/12/23 10:10:06] <Poino> 4 everyone :D
+[2015/12/23 10:10:23] <SupertuxUser> i already downloaded the source and extracted it aswell
+[2015/12/23 10:10:24] <Karkus> Poino: Merry Christmas :D
+[2015/12/23 10:10:38] <mt> SupertuxUser: so, what ubuntu version are you using?
+[2015/12/23 10:11:09] <mt> err, Linux Mint
+[2015/12/23 10:11:11] <SupertuxUser> i use mint 17.3, which is based on ubuntu 14.04 iirc
+[2015/12/23 10:12:01] <mt> ok, then you'll probably need some PPAs
+[2015/12/23 10:12:13] <SupertuxUser> okay
+[2015/12/23 10:12:19] <mt> because ubuntu 14.04's versions are too old
+[2015/12/23 10:13:25] <mt> can you `apt-get install cmake build-essential libc++-dev libogg-dev libvorbis-dev libphysfs-dev libglew-dev libopenal-dev libboost-all-dev libsdl2-dev libsdl2-image-dev` (as root)
+[2015/12/23 10:13:49] <SupertuxUser> sure
+[2015/12/23 10:13:53] <SupertuxUser> will take a few mins to download
+[2015/12/23 10:14:12] <SupertuxUser> >223 kB/s 5 min 35 s
+[2015/12/23 10:14:28] <head8debian> SupertuxUser: :-) Thats my internet speed.
+[2015/12/23 10:14:47] <SupertuxUser> thank you for your help by the way
+[2015/12/23 10:14:59] <head8debian> Busy in here... ;)
+[2015/12/23 10:15:00] <mt> Hah, until June this year DTAG only provided me ~48kB/s
