@@ -30585,3 +30585,5 @@
 [2015/12/23 06:33:57] <oumph> giby_the_kid, je n'ai pas encore joué assez pour cela
 [2015/12/23 06:34:30] <Not-e81f> [02supertux] 07JohnWong starred 03supertux - 13http://git.io/vElj0
 [2015/12/23 06:36:56] <brmbrmcar> 216 stars.
+[2015/12/23 06:49:25] <Not-e81f> [02supertux] 07agsh starred 03supertux - 13http://git.io/vE8JU
+[2015/12/23 06:56:50] @ Quit: alket: Ping timeout: 272 seconds
