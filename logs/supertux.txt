@@ -30590,3 +30590,10 @@
 [2015/12/23 07:08:36] <Not-e81f> [02supertux] 07albertnez starred 03supertux - 13http://git.io/vE8Lw
 [2015/12/23 07:12:43] <giby_the_kid> oumph,  la base Mr. Snowball et Mr. Icecube tombait de leur plateforme. D'autre reste dessus, comme Mr. Bombe. Pour le jeu des mchants de base qui reste sur leur plateforme taient ncessaire.  la base on les as appel Miss Snowball et Miss Icecube, de sorte  ce qu'elles soit identifiables. puis le nom est devenue SmartBall et Smart Icecube. Le Graphisme doit  la fois rester proche de l'ennemie dont elle so
 [2015/12/23 07:12:43] <giby_the_kid> nt des variante et reconnaissable... Dans la foret l'quivalent est la feuille verte et la feuille marron.  a n'est dont pas une forme de sexualisation, juste un lment pour les reconnaitre
+[2015/12/23 07:17:16] @ grumbel joined channel #supertux
+[2015/12/23 07:17:16] @ Mode +o grumbel by ChanServ
+[2015/12/23 07:18:55] @ alket joined channel #supertux
+[2015/12/23 07:26:30] <oumph> giby_the_kid, ok, je peux préciser la dépêche
+[2015/12/23 07:27:58] <giby_the_kid> (au passage tu notera que les "femelles" sont les versions "smart"
+[2015/12/23 07:28:30] @ Quit: alket: Ping timeout: 272 seconds
+[2015/12/23 07:29:14] <giby_the_kid> sinon, pour ne pas courir, il faut maintenir contrle, ce qui permet de ne pas glisser
