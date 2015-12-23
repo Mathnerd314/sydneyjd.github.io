@@ -31058,3 +31058,9 @@
 [2015/12/23 15:50:02] <head8debian> Mol1: Ah, then im not the one to talk to. :)
 [2015/12/23 15:53:17] @ jesusalva is now known as jesusalva_BUSY
 [2015/12/23 15:57:56] @ tux|dude joined channel #supertux
+[2015/12/23 16:06:27] @ Quit: jesusalva_BUSY: Ping timeout: 255 seconds
+[2015/12/23 16:09:22] @ gonzo__ joined channel #supertux
+[2015/12/23 16:09:51] <gonzo__> i got this error when i try to make
+[2015/12/23 16:09:52] <gonzo__> make[2]: *** [external/squirrel/CMakeFiles/squirrel.dir/squirrel/sqdebug.cpp.o] Error 1 make[1]: *** [external/squirrel/CMakeFiles/squirrel.dir/all] Error 2 make: *** [all] Error 2
+[2015/12/23 16:11:15] @ Quit: brmbrmcar: Quit: going on arduino
+[2015/12/23 16:13:07] @ Quit: tux|dude: Quit: Leaving
