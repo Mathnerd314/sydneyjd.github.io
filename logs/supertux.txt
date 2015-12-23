@@ -31052,3 +31052,9 @@
 [2015/12/23 15:36:40] @ jesusalva joined channel #supertux
 [2015/12/23 15:43:02] <head8debian> Good afternoon jesusalva,
 [2015/12/23 15:43:17] <head8debian> Mol1: Not at the moment. Do you need something?
+[2015/12/23 15:46:28] <jesusalva> Good evening head8debian
+[2015/12/23 15:48:16] <Not-e81f> [02supertux] 07zinovyev starred 03supertux - 13http://git.io/vERvl
+[2015/12/23 15:49:36] <Mol1> In fact french translation aren't up to date on github, huge changes were done today on transifex
+[2015/12/23 15:50:02] <head8debian> Mol1: Ah, then im not the one to talk to. :)
+[2015/12/23 15:53:17] @ jesusalva is now known as jesusalva_BUSY
+[2015/12/23 15:57:56] @ tux|dude joined channel #supertux
