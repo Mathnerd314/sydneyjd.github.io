@@ -30535,3 +30535,7 @@
 [2015/12/23 03:53:21] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98471920
 [2015/12/23 03:54:33] @ alket joined channel #supertux
 [2015/12/23 03:56:31] <Not-e81f> [02supertux] 07Longhanks starred 03supertux - 13http://git.io/vElG4
+[2015/12/23 04:00:48] @ brmbrmcar joined channel #supertux
+[2015/12/23 04:05:29] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98471930
+[2015/12/23 04:08:46] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/191
+[2015/12/23 04:09:07] <Not-e81f> [02supertux] 07blop starred 03supertux - 13http://git.io/vElCT
