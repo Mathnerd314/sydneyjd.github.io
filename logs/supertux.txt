@@ -31020,3 +31020,18 @@
 [2015/12/23 14:29:05] <Karkus> That's odd
 [2015/12/23 14:29:25] <Hume2> Indeed.
 [2015/12/23 14:29:45] <Karkus> Hume2: Are you seeing it all the times
+[2015/12/23 14:30:36] <Not-e81f> [02flexlay] 07Jake41 forked the repository - 13http://git.io/vEnyG
+[2015/12/23 14:30:50] <Hume2> Karkus: Only in some levels. That's odd.
+[2015/12/23 14:31:28] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98570861
+[2015/12/23 14:32:20] <Hume2> Karkus: I see them only in levels those have more than one spawnpoint.
+[2015/12/23 14:37:25] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/196
+[2015/12/23 14:37:56] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03editor [+0/-0/±1] 13http://git.io/vEBwN
+[2015/12/23 14:37:57] <Not-e81f> [02supertux] 07Hume2 03ca4dc40 - Fixed: SpawnPointMarkers don't display
+[2015/12/23 14:37:59] <Not-e81f> [02supertux] 07Hume2 synchronize pull request 03#269: WIP Level Editor - 13http://git.io/vEe13
+[2015/12/23 14:38:00] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98575772
+[2015/12/23 14:38:02] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98575784
+[2015/12/23 14:38:03] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/197
+[2015/12/23 14:38:05] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/198
+[2015/12/23 14:38:07] <Hume2> Karkus: Try it now.
+[2015/12/23 14:39:31] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98575772
+[2015/12/23 14:44:36] <Not-e81f> [02flexlay] 07Jake41 opened issue 03#56: Graphics Update - 13http://git.io/vEBK8
