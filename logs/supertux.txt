@@ -30633,3 +30633,12 @@
 [2015/12/23 09:03:16] <Not-e81f> [02supertux] 07MatejLach starred 03supertux - 13http://git.io/vE8Pc
 [2015/12/23 09:13:14] @ Karkus joined channel #supertux
 [2015/12/23 09:13:15] @ Mode +o Karkus by ChanServ
+[2015/12/23 09:15:27] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#291: Language names should be displayed in their language instead of in English - 13http://git.io/vEWOX
+[2015/12/23 09:15:28] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#291: Language names should be displayed in their language instead of in English - 13http://git.io/vEWOX
+[2015/12/23 09:15:30] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#291: Language names should be displayed in their language instead of in English - 13http://git.io/vEWOX
+[2015/12/23 09:18:58] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#288: Allow addons to be manually installed easily again - 13http://git.io/vE8D6
+[2015/12/23 09:19:01] <Not-e81f> [02supertux-editor] 07Jake41 starred 03supertux-editor - 13http://git.io/vEnyG
+[2015/12/23 09:19:48] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vE8Db
+[2015/12/23 09:23:54] <Not-e81f> [02supertux] 07Jake41 commented on issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vE8Sf
+[2015/12/23 09:25:35] <oumph> giby, https://linuxfr.org/news/sortie-de-supertux-0-4-0-milestone-2#comment-1636124 a priori il a le même souci que moi sur "Ctrl pour ne pas courir"
+[2015/12/23 09:27:29] @ Quit: Karkus: Ping timeout: 264 seconds
