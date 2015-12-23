@@ -31075,3 +31075,9 @@
 [2015/12/23 16:41:08] @ Karkus joined channel #supertux
 [2015/12/23 16:41:09] @ Mode +o Karkus by ChanServ
 [2015/12/23 16:43:12] @ Quit: claymore2: Quit: Leaving
+[2015/12/23 16:47:29] @ Karkus left channel #supertux ("Leaving")
+[2015/12/23 16:51:50] @ Quit: grumbel: Quit: Ex-Chat
+[2015/12/23 16:53:07] <giby_the_kid> oumph, I tried... you don't run with crtl (if configured as action key)
+[2015/12/23 16:55:29] @ Quit: gonzo__: Quit: Page closed
+[2015/12/23 16:56:57] @ leyyin_ joined channel #supertux
+[2015/12/23 16:58:08] @ Quit: leyyin: Ping timeout: 240 seconds
