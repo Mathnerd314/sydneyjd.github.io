@@ -30901,3 +30901,19 @@
 [2015/12/23 11:38:10] <Not-e81f> [02supertux] 07alx741 starred 03supertux - 13http://git.io/vE4aW
 [2015/12/23 11:40:15] <brmbrmcar> 228!
 [2015/12/23 11:41:46] @ Quit: Tobbi: 
+[2015/12/23 11:46:22] <mt> SupertuxUser: you can disable transitions in the options
+[2015/12/23 11:46:40] <mt> what hardware are you using?
+[2015/12/23 11:47:34] <SupertuxUser> AMD graphics with the fglrx-updates driver
+[2015/12/23 11:47:57] <mt> well what CPU, what GPU, ...
+[2015/12/23 11:48:38] <SupertuxUser> intel i7 2600k, radeon HD 7950
+[2015/12/23 11:48:53] <SupertuxUser> other games run without stutter, some native, some with wine
+[2015/12/23 11:48:57] <mt> works fine for me on an intel i5-4670K without any GPU
+[2015/12/23 11:49:17] <mt> well, without any other than the Intel HD whatever
+[2015/12/23 11:50:26] <mt> are you sure OpenGL rendering is done via your radeon gpu and not software based (mesa)?
+[2015/12/23 11:51:48] <mt> -(mesa)
+[2015/12/23 11:51:49] <SupertuxUser> that is so specific that i can't say "yes" for sure
+[2015/12/23 11:52:12] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#269: WIP Level Editor - 13http://git.io/vE4oF
+[2015/12/23 11:52:27] <SupertuxUser> do you know how i can check that?
+[2015/12/23 11:52:36] <mt> Well it might be possible that your computer is not using hardware acceleration for supertux
+[2015/12/23 11:52:39] <mt> dunno
+[2015/12/23 11:55:47] <SupertuxUser> glxinfo|egrep "OpenGL vendor|OpenGL renderer" OpenGL vendor string: Advanced Micro Devices, Inc. OpenGL renderer string: AMD Radeon HD 7900 Series
