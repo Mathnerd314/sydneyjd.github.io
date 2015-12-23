@@ -30553,3 +30553,15 @@
 [2015/12/23 05:24:44] <sebras-mobile> There... the Swedish translation is now 100%. Hope this helps your game! Merry Christmas guys!
 [2015/12/23 05:26:00] <brmbrmcar> Thanks!
 [2015/12/23 05:26:11] <brmbrmcar> It will help!
+[2015/12/23 05:30:14] <oumph> giby_the_kid, https://linuxfr.org/news/sortie-de-supertux-0-4-0-milestone-2 (in French)
+[2015/12/23 05:30:27] <sebras-mobile> brmbrmcar: cool, are translators credited somewhere?
+[2015/12/23 05:30:43] <sebras-mobile> brmbrmcar: I didn't know where to list my name if so.
+[2015/12/23 05:31:01] <brmbrmcar> sebras-mobile: I think in the in-game credits.
+[2015/12/23 05:31:24] <brmbrmcar> There seemtobe a load of other translators there.
+[2015/12/23 05:31:47] <sebras-mobile> brmbrmcar: yeah, but the originaltext doesn't list my name (yet) so I can't add it to the translation... :)
+[2015/12/23 05:32:18] <brmbrmcar> It will soon.
+[2015/12/23 05:34:31] <sebras-mobile> brmbrmcar: alrighty, thanks. :)
+[2015/12/23 05:36:06] @ Drangue joined channel #supertux
+[2015/12/23 05:37:47] <Not-e81f> [02supertux] 07salvadorbs starred 03supertux - 13http://git.io/vEl16
+[2015/12/23 05:40:00] <Not-e81f> [02supertux] 07Tym17 starred 03supertux - 13http://git.io/vEl1h
+[2015/12/23 05:40:44] <brmbrmcar> 212 stars!
