@@ -30848,3 +30848,40 @@
 [2015/12/23 11:14:00] <SupertuxUser> everything works except the last "make install" step. some stuff gets copied to /share, but not the executable
 [2015/12/23 11:14:29] <mt> $prefix is just a sample bash variable
 [2015/12/23 11:14:51] <mt> the default prefix will be set automatically if the option isn't specified
+[2015/12/23 11:15:14] <mt> using / as a prefix is a very bad idea fwiw
+[2015/12/23 11:16:06] <mt> you can `make uninstall` to remove all the files installed by `make install`
+[2015/12/23 11:17:56] <SupertuxUser> that does not work: http://pastebin.com/BCf6d9Vi
+[2015/12/23 11:18:10] <mt> did you make clean
+[2015/12/23 11:18:32] <mt> uh
+[2015/12/23 11:18:38] <mt> seems this got removed oslt
+[2015/12/23 11:18:51] <mt> I'm 99.5% sure we had this before
+[2015/12/23 11:18:56] <SupertuxUser> excuse me?
+[2015/12/23 11:19:08] <mt> this=make uninstall
+[2015/12/23 11:20:48] <SupertuxUser> make clean does nothing as far as i can see
+[2015/12/23 11:21:01] @ Tobbi joined channel #supertux
+[2015/12/23 11:21:01] @ Mode +o Tobbi by ChanServ
+[2015/12/23 11:21:58] <Tobbi> 226 stars...
+[2015/12/23 11:22:15] <mt> SupertuxUser: make clean cleans built objects
+[2015/12/23 11:22:31] <mt> and sometimes some parts of the configuration
+[2015/12/23 11:22:42] <SupertuxUser> well, make install DID copy a lot of stuff to /share
+[2015/12/23 11:22:50] <SupertuxUser> but nothing i could execute
+[2015/12/23 11:22:56] <mt> /games/supertux2
+[2015/12/23 11:22:57] <mt> ?
+[2015/12/23 11:23:20] <SupertuxUser> ooh
+[2015/12/23 11:23:22] <mt> also, I warned you to not run `make install` without knowing what it does >_>
+[2015/12/23 11:23:36] <mt> it's very bad to install to plain /
+[2015/12/23 11:24:02] <SupertuxUser> i didn't put / anywhere
+[2015/12/23 11:24:28] <SupertuxUser> just this $prefix
+[2015/12/23 11:24:47] <mt> it's because you probably set -DCMAKE_INSTALL_PREFIX=$prefix when $prefix was = "" so it was equivalent to -DCMAKE_INSTALL_PREFIX="" which would be equivalent to /
+[2015/12/23 11:25:17] <mt> and I made it very clear that $prefix is a variable
+[2015/12/23 11:25:54] <Tobbi> Looks like you two are having fun...
+[2015/12/23 11:26:08] <SupertuxUser> i'm not that firm as you might noticed. and i didn't blame you:)
+[2015/12/23 11:26:49] <mt> sure, but I'm just telling you: next time run a command as root only when you really know what it does ;)
+[2015/12/23 11:27:06] <Tobbi> Eigentlich könnt ihr beide deutsch reden.
+[2015/12/23 11:27:12] <Tobbi> Macht das ganze vllt. etwas einfacher.
+[2015/12/23 11:27:24] <Tobbi> (T-Online-User)
+[2015/12/23 11:27:46] <mt> most likely you can remove /games and /share in their entirety, but for that, be really sure to check that they only contain supertux stuff
+[2015/12/23 11:28:01] <SupertuxUser> Tobbi, we noticed, but it might be unpolite to non-german people here
+[2015/12/23 11:28:25] <Tobbi> SupertuxUser: Okay, you might be right....suit yourself.
+[2015/12/23 11:29:26] <SupertuxUser> mt: so i just leave the -DCMAKE_INSTALL_PREFIX away to get the default location?
+[2015/12/23 11:29:38] <SupertuxUser> yeah, /games and /share did not contain anything else
