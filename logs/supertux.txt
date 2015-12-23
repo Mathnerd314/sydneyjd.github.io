@@ -30414,3 +30414,5 @@
 [2015/12/23 00:04:39] @ nerdopolis joined channel #supertux
 [2015/12/23 00:12:26] @ Quit: irungentoo: Ping timeout: 246 seconds
 [2015/12/23 00:17:04] @ stewboy joined channel #supertux
+[2015/12/23 00:33:03] <Not-e81f> [02supertux] 07xiaooc starred 03supertux - 13http://git.io/vEWSv
+[2015/12/23 00:39:15] @ tuxdev_ joined channel #supertux
