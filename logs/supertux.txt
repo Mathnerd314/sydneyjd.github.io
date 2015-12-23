@@ -30809,3 +30809,32 @@
 [2015/12/23 10:43:25] <SupertuxUser> i will download https://github.com/SuperTux/supertux/releases/download/v0.4.0/supertux-0.4.0.tar.bz2 (maybe again) to be sure
 [2015/12/23 10:44:36] <mt> that tarball should include it, I just checked myself
 [2015/12/23 10:44:49] <mt> and on Sunday I checked it quite a few times
+[2015/12/23 10:45:05] <SupertuxUser> most likely my fault than :)
+[2015/12/23 10:45:25] <SupertuxUser> i dl and try the above steps on it
+[2015/12/23 10:46:10] <mt> what you can also make sure is that external/googletest/ exists
+[2015/12/23 10:46:16] @ Quit: Poino: Quit: Page closed
+[2015/12/23 10:46:30] <SupertuxUser> it does not :)
+[2015/12/23 10:46:38] <SupertuxUser> so i tried to build a prior version apparently
+[2015/12/23 10:46:41] <mt> then it's an old tarball
+[2015/12/23 10:47:13] <mt> since -DBUILD_TESTS (and so googletest) and version.cmake were only introduced with v0.4.0
+[2015/12/23 10:48:07] <mt> working on something else but still here; make sure to ping me when you've finished `make`ing
+[2015/12/23 10:49:43] <SupertuxUser> i'm on it. now with all cpu cores:)
+[2015/12/23 10:51:00] <SupertuxUser> mt: awesome! it works!
+[2015/12/23 10:52:52] <mt> ok then, `./test_supertux2` will test that some features work correctly
+[2015/12/23 10:53:13] <SupertuxUser> everything RUN OK
+[2015/12/23 10:53:21] <SupertuxUser> [----------] Global test environment tear-down [==========] 5 tests from 5 test cases ran. (0 ms total) [  PASSED  ] 5 tests.
+[2015/12/23 10:53:43] <mt> if you're done with that, everythings OK, you can continue with `make install` or (`sudo make install`), but be aware that this might delete existing directories, binaries, other files in the prefix you're installing to :)
+[2015/12/23 10:55:06] <SupertuxUser> done. i wonder, what does "make install" actually do?
+[2015/12/23 10:55:11] <Not-e81f> [02supertux] 07lovejavaee starred 03supertux - 13http://git.io/vE4n9
+[2015/12/23 10:56:03] <mt> it copies all the binaries and the data files to the prefix dir
+[2015/12/23 10:56:11] <SupertuxUser> okay
+[2015/12/23 10:56:41] <SupertuxUser> so if i did not gave it a prefix, it just stays in the build folder?
+[2015/12/23 10:56:41] <mt> the binary in $prefix/games/supertux2 (unless you changed the binary location to be $prefix/bin/supertux2), data in $prefix/share/...
+[2015/12/23 10:56:54] <mt> not giving a prefix defaults to someplace
+[2015/12/23 10:56:57] <mt> I think /usr/local
+[2015/12/23 10:57:17] <mt> however, ./supertux2 from your build folder should also be possible
+[2015/12/23 10:57:36] <SupertuxUser> yeah, it already worked after make was finished
+[2015/12/23 10:57:39] @ Quit: xet7: Quit: Leaving
+[2015/12/23 10:57:40] <SupertuxUser> that's why i wondered
+[2015/12/23 10:58:37] @ Quit: Karkus: Ping timeout: 265 seconds
+[2015/12/23 10:59:10] <Not-e81f> [02supertux] 07jonfk starred 03supertux - 13http://git.io/vE4CC
