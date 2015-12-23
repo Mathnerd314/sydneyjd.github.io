@@ -30417,3 +30417,4 @@
 [2015/12/23 00:33:03] <Not-e81f> [02supertux] 07xiaooc starred 03supertux - 13http://git.io/vEWSv
 [2015/12/23 00:39:15] @ tuxdev_ joined channel #supertux
 [2015/12/23 00:59:33] @ Quit: sebras: Quit: Lost terminal
+[2015/12/23 01:14:05] @ Quit: stewboy: Read error: Connection reset by peer
