@@ -31040,3 +31040,8 @@
 [2015/12/23 14:53:56] @ Quit: Hume2: Quit: Page closed
 [2015/12/23 14:55:12] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/197
 [2015/12/23 14:57:45] @ Quit: lumidify1: Quit: Leaving
+[2015/12/23 15:02:48] @ giby_the_kid joined channel #supertux
+[2015/12/23 15:02:48] @ Mode +o giby_the_kid by ChanServ
+[2015/12/23 15:05:08] @ Quit: giby: Ping timeout: 265 seconds
+[2015/12/23 15:06:17] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98575784
+[2015/12/23 15:10:04] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/198
