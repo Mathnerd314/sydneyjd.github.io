@@ -30885,3 +30885,19 @@
 [2015/12/23 11:28:25] <Tobbi> SupertuxUser: Okay, you might be right....suit yourself.
 [2015/12/23 11:29:26] <SupertuxUser> mt: so i just leave the -DCMAKE_INSTALL_PREFIX away to get the default location?
 [2015/12/23 11:29:38] <SupertuxUser> yeah, /games and /share did not contain anything else
+[2015/12/23 11:30:37] <SupertuxUser> i am not sure what location is recommended for a game, tbh
+[2015/12/23 11:30:49] <mt> yes, just leave it away for the default location
+[2015/12/23 11:31:11] <mt> I usually use a very separate directory, like ~/builds/supertux/
+[2015/12/23 11:31:27] <mt> you could just remove that one if you don't need it anymore
+[2015/12/23 11:31:32] <SupertuxUser> okay
+[2015/12/23 11:31:37] <mt> because it will only contain supertux stuff
+[2015/12/23 11:32:19] <mt> the disadvantage of it is that you have to customize your $PATH or always call ~/builds/supertux/
+[2015/12/23 11:32:28] <mt> err, ~/builds/supertux/games/supertux2
+[2015/12/23 11:33:41] <SupertuxUser> what exactly is customizing my $PATH  good for? to have the executable easier accessible?
+[2015/12/23 11:35:04] <mt> then you could just type supertux2 in the terminal
+[2015/12/23 11:36:30] <Not-e81f> [02supertux] 07ofshellohicy starred 03supertux - 13http://git.io/vE42d
+[2015/12/23 11:36:50] <SupertuxUser> okay
+[2015/12/23 11:37:28] <SupertuxUser> i have another question regarding the performance. the game is still a bit stuttering. is there anything i can do about that?
+[2015/12/23 11:38:10] <Not-e81f> [02supertux] 07alx741 starred 03supertux - 13http://git.io/vE4aW
+[2015/12/23 11:40:15] <brmbrmcar> 228!
+[2015/12/23 11:41:46] @ Quit: Tobbi: 
