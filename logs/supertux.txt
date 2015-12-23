@@ -30398,3 +30398,6 @@
 [2015/12/22 21:02:52] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/22 21:08:49] <Not-e81f> [02supertux] 07kccheung starred 03supertux - 13http://git.io/vEWGx
 [2015/12/22 21:09:14] <Not-e81f> [02supertux] 07thorlab starred 03supertux - 13http://git.io/vEWZv
+[2015/12/22 21:34:55] <Not-e81f> [02supertux] 07idevsoft starred 03supertux - 13http://git.io/vEWCE
+[2015/12/22 21:37:32] <Not-e81f> [02supertux] 07shanfl starred 03supertux - 13http://git.io/vEWCF
+[2015/12/22 21:44:45] @ sebras joined channel #supertux
