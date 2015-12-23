@@ -30345,3 +30345,47 @@
 [2015/12/22 20:14:22] <Tobbi> I don't know...
 [2015/12/22 20:14:33] <Tobbi> they seem pretty...huge.
 [2015/12/22 20:14:58] <Karkus> Tobbi: We should be able to design them in lisp files because they appear to be hardcoded atm.
+[2015/12/22 20:15:20] <Tobbi> Karkus: Okay, but we need to hook up functionality...
+[2015/12/22 20:15:24] <Tobbi> to these menus.
+[2015/12/22 20:15:34] <Tobbi> Entry points, anyone?
+[2015/12/22 20:17:19] <Karkus> Tobbi: What kind of functionality though?
+[2015/12/22 20:17:39] <Tobbi> Karkus: I mean: We need to define what function to call when each menu item is selected.
+[2015/12/22 20:17:57] <Tobbi> Oh...wait!
+[2015/12/22 20:18:00] <Tobbi> We could use scripting.
+[2015/12/22 20:18:01] <Tobbi> :D
+[2015/12/22 20:18:06] <Karkus> Tobbi: We could...
+[2015/12/22 20:18:25] <Karkus> Tobbi: Defined in lisp files + scripting
+[2015/12/22 20:18:29] <Tobbi> Probably.
+[2015/12/22 20:18:46] <Tobbi> On the other hand: I hate lisp, and I hate squirrel :D
+[2015/12/22 20:18:52] <Tobbi> Why does it have to be so exotic.
+[2015/12/22 20:18:53] <Tobbi> :D
+[2015/12/22 20:19:24] <Karkus> Tobbi: I quite like them
+[2015/12/22 20:19:30] <Tobbi> Hmm...
+[2015/12/22 20:19:41] <Karkus> Tobbi: I mean, I wouldn't changes them
+[2015/12/22 20:19:45] <Tobbi> Karkus: What I don't like is the way scripts are embedded in lisp level files...
+[2015/12/22 20:19:47] <Tobbi> It looks so ugly...
+[2015/12/22 20:19:55] <Tobbi> Having a string spawn across several lines...
+[2015/12/22 20:20:00] <Karkus> Tobbi: They don't have to be
+[2015/12/22 20:20:00] <Tobbi> That contains source code.
+[2015/12/22 20:20:03] <Tobbi> right.
+[2015/12/22 20:20:13] <Tobbi> We do have imports, don't we?
+[2015/12/22 20:20:15] <Karkus> You can define the functions in .nut files
+[2015/12/22 20:20:21] <Karkus> Tobbi: And then import, yes
+[2015/12/22 20:20:28] <Tobbi> Okay, you saved the language :P
+[2015/12/22 20:20:43] <Tobbi> From my scorn, I mean.
+[2015/12/22 20:20:46] <Karkus> haha
+[2015/12/22 20:21:01] <Tobbi> Maybe I am just burned out.
+[2015/12/22 20:21:04] <Karkus> Tobbi's scorn = brutal torture
+[2015/12/22 20:21:10] <Tobbi> Karkus: Oh, you bet.
+[2015/12/22 20:21:27] <Tobbi> Squirrel's crying for mercy.
+[2015/12/22 20:21:40] <Not-e81f> [02supertux] 07hongtaox starred 03supertux - 13http://git.io/vEWt4
+[2015/12/22 20:21:42] <Not-e81f> [02supertux] 07hongtaox forked the repository - 13http://git.io/vEWt4
+[2015/12/22 20:22:22] <Karkus> Tobbi: That reminds me. You said level names weren't being translated, didn't you?
+[2015/12/22 20:22:29] <Tobbi> Karkus: that's fixed now.
+[2015/12/22 20:22:35] <Tobbi> grumbel pushed a fix.
+[2015/12/22 20:22:43] <Karkus> Tobbi: Ah, fantastic.
+[2015/12/22 20:22:43] <Tobbi> It had something to do with his squirrel parser.
+[2015/12/22 20:22:50] <Tobbi> With the rework of that, I mean.
+[2015/12/22 20:23:15] <Karkus> Tobbi: squirrel or s-expr?
+[2015/12/22 20:23:24] <Tobbi> Karkus: the latter.
+[2015/12/22 20:23:37] <Tobbi> Plus: q.e.d (in terms of being burned out)
