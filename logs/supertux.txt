@@ -31142,3 +31142,12 @@
 [2015/12/23 18:28:02] <head8debian> Tobbi: Sorry, did you say something?
 [2015/12/23 18:28:10] <Tobbi> head8debian: no.
 [2015/12/23 18:28:29] <head8debian> Tobbi: Ok. Im having latency issues on my home network...
+[2015/12/23 18:36:19] @ Quit: tuxdude143: Read error: Connection reset by peer
+[2015/12/23 18:39:52] @ quit (restarting, back in 5...)
+[2015/12/23 18:39:55] @ Log closed by * (rescan or shutdown)
+[2015/12/23 18:41:19] @ Log started by red_bot
+[2015/12/23 18:41:19] @ Joined channel #supertux
+[2015/12/23 18:41:19] @ Topic is "MILESTONE 2 RELEASED | https://github.com/SuperTux | Stable: 0.4.0 | mailing list: supertux-devel@lists.lethargik.org | Channel log http://sydneyjd.github.io/logs/ | nightly builds http://download.supertuxproject.org/download/"
+[2015/12/23 18:41:19] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-12-20 14:44:19 -0500
+[2015/12/23 18:41:24] @ Mode +nt by sinisalo.freenode.net
+[2015/12/23 18:41:32] @ Mode +o red_bot by ChanServ
