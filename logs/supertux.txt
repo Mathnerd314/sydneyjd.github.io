@@ -30924,3 +30924,11 @@
 [2015/12/23 12:12:31] <SupertuxUser> it runs and i can play the game now
 [2015/12/23 12:14:25] @ Karkus joined channel #supertux
 [2015/12/23 12:14:26] @ Mode +o Karkus by ChanServ
+[2015/12/23 12:16:20] @ lumidify joined channel #supertux
+[2015/12/23 12:19:06] <Karkus> Hume2: re Level Editor run level - Good idea, do you want to do it, or shall I have a go?
+[2015/12/23 12:20:09] <Hume2> Karkus: Have you ever worked with screens?
+[2015/12/23 12:20:19] <Karkus> Hume2: Not really :D
+[2015/12/23 12:20:36] <Hume2> Karkus: So I can do it, but not now.
+[2015/12/23 12:20:49] <Karkus> Hume2: Okay.
+[2015/12/23 12:21:08] <Karkus> Hume2: Halloween levels still don't show in the editor for me, though
+[2015/12/23 12:21:47] <Hume2> hmmm... strange.
