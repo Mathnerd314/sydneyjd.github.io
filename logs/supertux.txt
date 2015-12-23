@@ -30782,3 +30782,30 @@
 [2015/12/23 10:28:23] <mt> ok then
 [2015/12/23 10:29:48] <SupertuxUser> okay, now cmake didn't complain
 [2015/12/23 10:29:59] <SupertuxUser> >build files have been written to (build directory)
+[2015/12/23 10:30:30] <mt> try `make`, or if you have multiple cores `make -j $(nproc)`
+[2015/12/23 10:31:13] <mt> it will take some time
+[2015/12/23 10:31:31] <mt> but less than five minutes on a rather recent machine
+[2015/12/23 10:31:51] <SupertuxUser> yes, it's running. [ 28%] Building CXX object CMakeFiles/supertux2.dir/src/supertux/sector.cpp.o
+[2015/12/23 10:33:10] <SupertuxUser> it threw 2 errors at 53%
+[2015/12/23 10:33:18] <mt> what errors?
+[2015/12/23 10:33:24] <mt> best to pastebin the whole log
+[2015/12/23 10:34:39] <SupertuxUser> http://pastebin.com/fHKJYXkD
+[2015/12/23 10:36:01] <mt> you can get around that by removing the temp dir, recreating it and running cmake again, but without -DWERROR=ON
+[2015/12/23 10:36:11] <SupertuxUser> ok
+[2015/12/23 10:36:13] <mt> then make again
+[2015/12/23 10:36:27] <SupertuxUser> with temp dir you mean the content of /build?
+[2015/12/23 10:36:44] <mt> yes, just remove the entire build directory and recreate it
+[2015/12/23 10:38:13] <mt> would you mind giving me the entire cmake command you're using, that might make further help easier
+[2015/12/23 10:39:11] <SupertuxUser> i used cmake .. -DCMAKE_BUILD_TYPE=Release -DWARNINGS=ON -DBUILD_TESTS=ON
+[2015/12/23 10:39:46] <SupertuxUser> build files are written plus CMake Warning:   Manually-specified variables were not used by the project:      BUILD_TESTS
+[2015/12/23 10:40:13] <SupertuxUser> should i try to build it with make again?
+[2015/12/23 10:40:22] <mt> sure that that's the 0.4.0 source?
+[2015/12/23 10:41:01] <SupertuxUser> pretty much
+[2015/12/23 10:41:06] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vE4Ok
+[2015/12/23 10:41:26] <SupertuxUser> is there a file in the source where i can make sure?
+[2015/12/23 10:41:32] <mt> version.cmake
+[2015/12/23 10:41:42] <mt> in the root of the source tree
+[2015/12/23 10:42:21] <SupertuxUser> okay that does not exist apparently
+[2015/12/23 10:43:25] <SupertuxUser> i will download https://github.com/SuperTux/supertux/releases/download/v0.4.0/supertux-0.4.0.tar.bz2 (maybe again) to be sure
+[2015/12/23 10:44:36] <mt> that tarball should include it, I just checked myself
+[2015/12/23 10:44:49] <mt> and on Sunday I checked it quite a few times
