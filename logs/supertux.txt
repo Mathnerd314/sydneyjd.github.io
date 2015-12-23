@@ -30394,3 +30394,4 @@
 [2015/12/22 20:38:53] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/22 20:39:22] @ Tobbi joined channel #supertux
 [2015/12/22 20:39:22] @ Mode +o Tobbi by ChanServ
+[2015/12/22 20:47:48] <Not-e81f> [02supertux] 07tobbi opened issue 03#291: Language names should be displayed in their language instead of in English - 13http://git.io/vEWOX
