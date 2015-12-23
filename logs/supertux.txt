@@ -30838,3 +30838,13 @@
 [2015/12/23 10:57:40] <SupertuxUser> that's why i wondered
 [2015/12/23 10:58:37] @ Quit: Karkus: Ping timeout: 265 seconds
 [2015/12/23 10:59:10] <Not-e81f> [02supertux] 07jonfk starred 03supertux - 13http://git.io/vE4CC
+[2015/12/23 11:02:09] @ Quit: alket: Quit: x
+[2015/12/23 11:05:45] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vE4l0
+[2015/12/23 11:05:48] <SupertuxUser> mk: sorry, i have to repeat one question. if i want to install supertux to the default location, is the cmake option '-DCMAKE_INSTALL_PREFIX=$prefix' or am i supposed to replace $prefix with something?
+[2015/12/23 11:06:28] @ Karkus joined channel #supertux
+[2015/12/23 11:06:28] @ Mode +o Karkus by ChanServ
+[2015/12/23 11:09:09] @ xet7 joined channel #supertux
+[2015/12/23 11:11:18] @ Quit: Karkus: Ping timeout: 264 seconds
+[2015/12/23 11:14:00] <SupertuxUser> everything works except the last "make install" step. some stuff gets copied to /share, but not the executable
+[2015/12/23 11:14:29] <mt> $prefix is just a sample bash variable
+[2015/12/23 11:14:51] <mt> the default prefix will be set automatically if the option isn't specified
