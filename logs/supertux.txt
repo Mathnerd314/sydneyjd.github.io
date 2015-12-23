@@ -30587,3 +30587,6 @@
 [2015/12/23 06:36:56] <brmbrmcar> 216 stars.
 [2015/12/23 06:49:25] <Not-e81f> [02supertux] 07agsh starred 03supertux - 13http://git.io/vE8JU
 [2015/12/23 06:56:50] @ Quit: alket: Ping timeout: 272 seconds
+[2015/12/23 07:08:36] <Not-e81f> [02supertux] 07albertnez starred 03supertux - 13http://git.io/vE8Lw
+[2015/12/23 07:12:43] <giby_the_kid> oumph,  la base Mr. Snowball et Mr. Icecube tombait de leur plateforme. D'autre reste dessus, comme Mr. Bombe. Pour le jeu des mchants de base qui reste sur leur plateforme taient ncessaire.  la base on les as appel Miss Snowball et Miss Icecube, de sorte  ce qu'elles soit identifiables. puis le nom est devenue SmartBall et Smart Icecube. Le Graphisme doit  la fois rester proche de l'ennemie dont elle so
+[2015/12/23 07:12:43] <giby_the_kid> nt des variante et reconnaissable... Dans la foret l'quivalent est la feuille verte et la feuille marron.  a n'est dont pas une forme de sexualisation, juste un lment pour les reconnaitre
