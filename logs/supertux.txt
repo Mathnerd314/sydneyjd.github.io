@@ -30981,3 +30981,9 @@
 [2015/12/23 13:18:33] <Karkus> Hello, alket
 [2015/12/23 13:18:53] @ Quit: xet7: Quit: Leaving
 [2015/12/23 13:21:06] <alket> hi Karkus
+[2015/12/23 13:50:09] @ Quit: SupertuxUser: Quit: Page closed
+[2015/12/23 13:52:30] <Not-e81f> [02supertux] 07LMH0013 commented on issue 03#262: Show correct type of Tux and direction when going off the screen - 13http://git.io/vEBC1
+[2015/12/23 13:52:32] @ Quit: tuxdev_: Ping timeout: 260 seconds
+[2015/12/23 13:53:00] @ lumidify1 joined channel #supertux
+[2015/12/23 13:54:31] @ Quit: lumidify: Ping timeout: 250 seconds
+[2015/12/23 13:58:29] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#262: Show correct type of Tux and direction when going off the screen - 13http://git.io/vEBlx
