@@ -31045,3 +31045,10 @@
 [2015/12/23 15:05:08] @ Quit: giby: Ping timeout: 265 seconds
 [2015/12/23 15:06:17] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98575784
 [2015/12/23 15:10:04] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/198
+[2015/12/23 15:32:02] @ Mol1 joined channel #supertux
+[2015/12/23 15:32:14] <Mol1> Hello
+[2015/12/23 15:32:24] <Mol1> Is tobby here ?
+[2015/12/23 15:36:19] <Karkus> Mol1: Tobbi is not here.
+[2015/12/23 15:36:40] @ jesusalva joined channel #supertux
+[2015/12/23 15:43:02] <head8debian> Good afternoon jesusalva,
+[2015/12/23 15:43:17] <head8debian> Mol1: Not at the moment. Do you need something?
