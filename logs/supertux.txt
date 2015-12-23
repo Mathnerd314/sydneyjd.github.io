@@ -30569,3 +30569,13 @@
 [2015/12/23 05:52:26] @ lumidify joined channel #supertux
 [2015/12/23 05:53:02] <Not-e81f> [02supertux] 07paulfurber starred 03supertux - 13http://git.io/vElSp
 [2015/12/23 05:54:09] @ Quit: sebras-mobile: Ping timeout: 252 seconds
+[2015/12/23 06:00:02] @ Quit: lumidify: Ping timeout: 260 seconds
+[2015/12/23 06:00:27] @ Tobbi joined channel #supertux
+[2015/12/23 06:00:27] @ Mode +o Tobbi by ChanServ
+[2015/12/23 06:00:32] <Not-e81f> [02supertux] 07martinpfister starred 03supertux - 13http://git.io/vElH1
+[2015/12/23 06:05:02] <Not-e81f> [02supertux] 07Vdragon forked the repository - 13http://git.io/vEl50
+[2015/12/23 06:07:03] <giby_the_kid> oumph, As-tu remarqu une petite diffrence entre le comportement des bleus et des roses?
+[2015/12/23 06:09:09] @ lumidify joined channel #supertux
+[2015/12/23 06:10:06] <Tobbi> 214 stars
+[2015/12/23 06:12:29] <Tobbi> wow, chip.de picked it up.
+[2015/12/23 06:12:31] <Tobbi> That was quick.
