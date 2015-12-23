@@ -30467,3 +30467,33 @@
 [2015/12/23 03:14:25] <Hume2> I mean the log graph.
 [2015/12/23 03:14:37] <mt> log graph?
 [2015/12/23 03:14:53] <mt> https://github.com/SuperTux/supertux/commits/master is broken anyway
+[2015/12/23 03:15:11] <Hume2> well, network graph.
+[2015/12/23 03:15:16] <Hume2> ... it's called.
+[2015/12/23 03:15:31] <mt> what breaks with that one?
+[2015/12/23 03:16:36] <Hume2> Its start position is at the top of master and scrolling it to the top of editor is not much reliable and ...
+[2015/12/23 03:17:03] <mt> does anyone look at that graph anyway?
+[2015/12/23 03:17:12] <Hume2> I do :D
+[2015/12/23 03:17:42] <mt> like seriously, what do you actually mean
+[2015/12/23 03:18:07] <mt> why do you care if it breaks scrolling forward to see the editor progress?
+[2015/12/23 03:18:42] <Hume2> well...
+[2015/12/23 03:18:46] <mt> rebasing is what any other sane project does
+[2015/12/23 03:20:15] <Hume2> So is it possible to hide the merge commits now?
+[2015/12/23 03:20:40] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/188
+[2015/12/23 03:21:23] <mt> yes you rebase on top of master
+[2015/12/23 03:21:23] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/98469939
+[2015/12/23 03:21:50] <mt> and delete the merge commits if it won't do that by default
+[2015/12/23 03:22:00] @ alket joined channel #supertux
+[2015/12/23 03:22:01] @ Quit: tuxdev_: Ping timeout: 245 seconds
+[2015/12/23 03:23:15] <mt> do you realize how ugly this would look if they wouldn't rebase? http://urandom.eu.org/i/YdvK2HpA.png (merging feature branches at the end of their development is ok, merging master into fix/feature branches isn't)
+[2015/12/23 03:23:21] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98471051
+[2015/12/23 03:26:21] <Hume2> mt: So will I have to fix all the conflicts again?
+[2015/12/23 03:26:38] <mt> usually you shouldn't
+[2015/12/23 03:27:04] <Hume2> Let's give it a try.
+[2015/12/23 03:27:37] <Hume2> So I'm typing: git rebase -i HEAD~96
+[2015/12/23 03:28:08] <mt> if you have to do that again, enable rerere (reuse recorded resolution, saving your merge conflict resolutions, https://git-scm.com/2010/03/08/rerere.html)
+[2015/12/23 03:28:36] <mt> Hume2: well, to rebase on top of master, just `git rebase master`
+[2015/12/23 03:28:49] <mt> I don't know if that already removes merge commits
+[2015/12/23 03:29:03] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98471026
+[2015/12/23 03:29:06] <mt> if it doesn't, you have to delete those in an interactive rebase
+[2015/12/23 03:29:46] <Hume2> or git rebase master -i?
+[2015/12/23 03:29:56] <mt> nope without -i
