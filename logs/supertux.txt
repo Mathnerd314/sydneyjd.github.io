@@ -30608,3 +30608,13 @@
 [2015/12/23 07:51:16] <Hume2> More than three times than before.
 [2015/12/23 07:53:08] @ Quit: brmbrmcar: Ping timeout: 240 seconds
 [2015/12/23 07:54:27] @ brmbrmcar joined channel #supertux
+[2015/12/23 08:05:28] <Not-e81f> [02supertux] 07kylegates starred 03supertux - 13http://git.io/vE88s
+[2015/12/23 08:06:48] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03editor [+0/-0/±1] 13http://git.io/vE88r
+[2015/12/23 08:06:50] <Not-e81f> [02supertux] 07Hume2 03cd6aa22 - Putting objects work again
+[2015/12/23 08:06:51] <Not-e81f> [02supertux] 07Hume2 synchronize pull request 03#269: WIP Level Editor - 13http://git.io/vEe13
+[2015/12/23 08:06:53] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98509370
+[2015/12/23 08:06:54] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98509387
+[2015/12/23 08:06:56] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/193
+[2015/12/23 08:06:57] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/194
+[2015/12/23 08:08:19] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98509370
+[2015/12/23 08:11:06] @ irungentoo joined channel #supertux
