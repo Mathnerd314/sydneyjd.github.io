@@ -30940,3 +30940,11 @@
 [2015/12/23 12:42:26] <Hume2> Karkus: What level do you load?
 [2015/12/23 12:44:29] <Karkus> Hume2: "Graveyard Shift" is one which doesn't work, iirc
 [2015/12/23 12:44:40] <Hume2> Karkus: What does it display?
+[2015/12/23 12:45:12] <Karkus> Hume2: Where the level would usually show, there is just a black screen, I can't see anything.
+[2015/12/23 12:45:18] <Karkus> No errors or crash, however
+[2015/12/23 12:47:24] <Hume2> That's strange, because I can see the level clearly.
+[2015/12/23 12:47:58] <Karkus> Hume2: Hmmm.
+[2015/12/23 12:58:54] <Karkus> Hume2: How do you edit an object's properties?
+[2015/12/23 12:59:09] <Hume2> Karkus: ctrl + click
+[2015/12/23 12:59:18] <Karkus> Hume2: Ah, thanks
+[2015/12/23 12:59:38] <Hume2> It should be right click, but they don't work for some reason.
