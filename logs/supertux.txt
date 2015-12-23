@@ -30618,3 +30618,9 @@
 [2015/12/23 08:06:57] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/194
 [2015/12/23 08:08:19] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98509370
 [2015/12/23 08:11:06] @ irungentoo joined channel #supertux
+[2015/12/23 08:16:20] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98509387
+[2015/12/23 08:20:50] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98509370
+[2015/12/23 08:23:22] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/193
+[2015/12/23 08:25:58] <Not-e81f> [02supertux] 07Wheaties466 starred 03supertux - 13http://git.io/vE8Ew
+[2015/12/23 08:28:17] <Not-e81f> [02supertux] 07winny- starred 03supertux - 13http://git.io/vE8uC
+[2015/12/23 08:29:53] @ Quit: giby_the_kid: Ping timeout: 246 seconds
