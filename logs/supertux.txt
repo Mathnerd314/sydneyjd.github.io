@@ -31064,3 +31064,11 @@
 [2015/12/23 16:09:52] <gonzo__> make[2]: *** [external/squirrel/CMakeFiles/squirrel.dir/squirrel/sqdebug.cpp.o] Error 1 make[1]: *** [external/squirrel/CMakeFiles/squirrel.dir/all] Error 2 make: *** [all] Error 2
 [2015/12/23 16:11:15] @ Quit: brmbrmcar: Quit: going on arduino
 [2015/12/23 16:13:07] @ Quit: tux|dude: Quit: Leaving
+[2015/12/23 16:15:55] <Mol1> Goodbye
+[2015/12/23 16:15:59] @ Quit: Mol1: Quit: Page closed
+[2015/12/23 16:17:05] <Karkus> gonzo__: Are you getting the source from git?
+[2015/12/23 16:17:32] <gonzo__> jop
+[2015/12/23 16:17:58] <gonzo__> its the 0.3.3 version
+[2015/12/23 16:19:46] <Karkus> gonzo__: Are you sure you've got all the submodules and dependencies?
+[2015/12/23 16:20:58] <Karkus> bbl
+[2015/12/23 16:20:59] @ Karkus left channel #supertux ("Leaving")
