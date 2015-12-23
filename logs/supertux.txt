@@ -30245,3 +30245,5 @@
 [2015/12/22 19:21:05] <oumph> ( /usr/local/games/supertux2 -w -g 958x653   , just to keep ratio from the previous screenshot sent by news author)
 [2015/12/22 19:21:21] <Tobbi> :)
 [2015/12/22 19:21:29] <Tobbi> I'm glad xmas mode is at least working for someone.
+[2015/12/22 19:31:57] <Not-e81f> [02supertux] 07zhaoguojun starred 03supertux - 13http://git.io/vEWec
+[2015/12/22 19:37:23] @ Quit: jesusalva: Ping timeout: 265 seconds
