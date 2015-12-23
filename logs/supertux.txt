@@ -30206,3 +30206,30 @@
 [2015/12/22 18:43:48] <Tobbi> giby_the_kid: I can assemble a language pack you can try out after I pulled the resources from tx.
 [2015/12/22 18:44:13] <Tobbi> Karkus: I will look into moving makepot.sh to py now.
 [2015/12/22 18:44:42] <Tobbi> Who uses shell these days...
+[2015/12/22 18:46:46] * jesusalva remembered that he is an ubuntu user
+[2015/12/22 18:47:39] * jesusalva also remembered that he forgot to update supertux due to low disk space. (and by low I'm not being conservative)
+[2015/12/22 18:48:44] <jesusalva> [20:06:21] <Fauve> There is a way to have size of fullscreen but to controll supertux as a window?
+[2015/12/22 18:48:44] <jesusalva> Fauve: Try on a terminal: "supertux2 -g 1024x768"
+[2015/12/22 18:48:54] <Fauve> Hmm.
+[2015/12/22 18:48:57] <Fauve> ’kay.
+[2015/12/22 18:49:20] <Tobbi> Don't we have "Desktop" as fullscreen resolution?
+[2015/12/22 18:50:30] <Fauve> It dosn’t work :(
+[2015/12/22 18:50:39] <Fauve> No, Tobbi
+[2015/12/22 18:51:27] <jesusalva> Then try "supertux2 -w -g 1024x768" or whatever is your resolution now. Assuming "geometrics" command wasn't changed, of course.
+[2015/12/22 18:52:10] <jesusalva> Please reduce a little the height/width if you think that the window will be eaten by the menus (or vice-versa). Width for unity, height for Gnome.
+[2015/12/22 18:52:10] @ Quit: MrBones: Quit: Leaving
+[2015/12/22 18:52:25] @ MrBones joined channel #supertux
+[2015/12/22 18:52:43] @ MrBones is now known as Mr_Bones_
+[2015/12/22 18:53:28] <giby_the_kid> sebras, what is your Tx username?
+[2015/12/22 18:54:04] <giby_the_kid> you are already in :p
+[2015/12/22 18:54:26] <sebras> giby_the_kid: Tobbi fixed it. :)
+[2015/12/22 18:54:26] <Tobbi> giby_the_kid: sebras is his tx username :{
+[2015/12/22 18:54:27] <Tobbi> :P
+[2015/12/22 18:54:40] <sebras> giby_the_kid: thanks for caring though! :)
+[2015/12/22 18:55:02] <giby_the_kid> Tobbi, spelling fixed
+[2015/12/22 18:55:13] <Tobbi> giby_the_kid: Okay, I will try to update the langpack now.
+[2015/12/22 18:55:23] <Tobbi> Or rather, give you the zip so you can apply it locally.
+[2015/12/22 18:55:41] @ Quit: swift110: Ping timeout: 264 seconds
+[2015/12/22 18:55:41] @ Quit: Karkus: Ping timeout: 264 seconds
+[2015/12/22 18:56:32] <Tobbi> once pulling from tx is done.
+[2015/12/22 18:56:34] <Tobbi> so slow.
