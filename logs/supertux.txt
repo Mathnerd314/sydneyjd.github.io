@@ -30497,3 +30497,34 @@
 [2015/12/23 03:29:06] <mt> if it doesn't, you have to delete those in an interactive rebase
 [2015/12/23 03:29:46] <Hume2> or git rebase master -i?
 [2015/12/23 03:29:56] <mt> nope without -i
+[2015/12/23 03:30:05] <mt> also it's best to try in a separate branch
+[2015/12/23 03:31:16] <mt> git-rebase can be really cool but it also makes it easy to f*** up your git repo/branch
+[2015/12/23 03:31:41] <Hume2> So basically I have to rebase first and then hide those merges.
+[2015/12/23 03:32:17] @ Quit: alket: Ping timeout: 264 seconds
+[2015/12/23 03:33:24] <mt> yeah and then in future also just `git rebase master` instead of `git merge master`
+[2015/12/23 03:34:03] <Hume2> OK
+[2015/12/23 03:35:00] <Hume2> And when a conflict appears, just type "git rerere", right?
+[2015/12/23 03:35:20] <mt> actually, `git rebase master` seems to already flatten out merge commits according to the manual page
+[2015/12/23 03:35:36] <mt> git-rerere isn't a command, it's a feature
+[2015/12/23 03:36:07] <Hume2> So I type: git rebase master
+[2015/12/23 03:36:09] <mt> you have to enable it before you want it to record resolutions and then it will be activated automatically if it's needed
+[2015/12/23 03:36:12] <mt> yes
+[2015/12/23 03:36:46] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98471920
+[2015/12/23 03:36:58] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/189
+[2015/12/23 03:37:15] <mt> if you have local work not yet pushed to github, it might be better to create a new branch based on the editor branch to try
+[2015/12/23 03:37:29] <Hume2> conflict, so what? git rerere?
+[2015/12/23 03:37:41] <mt> however, if you have any problems `git rebase --abort`
+[2015/12/23 03:37:52] <mt> as I said, you can't git rerere.
+[2015/12/23 03:38:14] <Hume2> I've already tried it once and it didn't say anything.
+[2015/12/23 03:38:23] <Hume2> So it must be a valid command.
+[2015/12/23 03:39:00] <Hume2> So I do something like "git rebase master --rerere" ?
+[2015/12/23 03:39:15] <mt> nope
+[2015/12/23 03:39:23] <mt> can you `git rebase --abort`
+[2015/12/23 03:39:28] <Hume2> I did.
+[2015/12/23 03:39:28] <mt> then `git config --global rerere.enabled true`
+[2015/12/23 03:39:37] <mt> then `git rebase master` again
+[2015/12/23 03:40:10] <Hume2> Failed to merge in the changes. Patch failed at 0001 Save level method The copy of the patch that failed is found in:    /home/ok1asw/st-vyvoj/supertux/.git/rebase-apply/patch
+[2015/12/23 03:41:20] <mt> well then you have to resolve these conflicts
+[2015/12/23 03:42:10] <mt> fwiw, it's much more easier to resolve conflicts with a graphical merge helper
+[2015/12/23 03:42:16] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98471051
+[2015/12/23 03:42:59] <mt> such as http://meldmerge.org/
