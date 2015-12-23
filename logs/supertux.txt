@@ -30642,3 +30642,43 @@
 [2015/12/23 09:23:54] <Not-e81f> [02supertux] 07Jake41 commented on issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vE8Sf
 [2015/12/23 09:25:35] <oumph> giby, https://linuxfr.org/news/sortie-de-supertux-0-4-0-milestone-2#comment-1636124 a priori il a le même souci que moi sur "Ctrl pour ne pas courir"
 [2015/12/23 09:27:29] @ Quit: Karkus: Ping timeout: 264 seconds
+[2015/12/23 09:45:54] @ Karkus joined channel #supertux
+[2015/12/23 09:45:55] @ Mode +o Karkus by ChanServ
+[2015/12/23 09:46:29] <Karkus> mt: So, we are stopping Milestones now?
+[2015/12/23 09:46:49] <mt> oh right I saw that discussion
+[2015/12/23 09:47:09] <mt> well, for any package manager and user fronting details I'd suggest, yes
+[2015/12/23 09:47:28] <mt> however we can still continue to keep that for goals spanning over multiple releases
+[2015/12/23 09:47:53] <Karkus> mt: It can be an unofficial name for releases
+[2015/12/23 09:48:10] <Karkus> mt: e.g. in GitHub, M2 is called 0.4.0, as it should
+[2015/12/23 09:48:29] <mt> Yes it's fine unofficially
+[2015/12/23 09:48:55] <mt> but (you know who's mean with that) M3 doesn't refer to a specific release unless it's released
+[2015/12/23 09:49:06] <mt> s/mean/meant/
+[2015/12/23 09:49:06] <red_bot> mt meant: "but (you know who's meant with that) M3 doesn't refer to a specific release unless it's released"
+[2015/12/23 09:49:06] @ ced117 joined channel #supertux
+[2015/12/23 09:49:33] <Karkus> mt: We can say "Milestone 3", when we mean "next stable release"
+[2015/12/23 09:50:00] <Karkus> mt: Does SemVer have anything to do with stability?
+[2015/12/23 09:50:20] <Not-e81f> [02supertux] 07Grumbel commented on issue 03#288: Allow addons to be manually installed easily again - 13http://git.io/vE8NV
+[2015/12/23 09:50:31] <mt> next stable release that's not a bugfix
+[2015/12/23 09:50:36] <mt> but not the next release
+[2015/12/23 09:50:41] @ Poino joined channel #supertux
+[2015/12/23 09:50:48] <Poino> hi?
+[2015/12/23 09:51:00] <mt> Poino: hello!
+[2015/12/23 09:51:17] <mt> Karkus: well SemVer just says: "Major version zero (0.y.z) is for initial development. Anything may change at any time. The public API should not be considered stable."
+[2015/12/23 09:51:17] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vE8N9
+[2015/12/23 09:52:08] <mt> Poino: do you have any questions, feedback, other suggestions?
+[2015/12/23 09:53:24] <Karkus> grumbel: How do you enable manually installed addons?
+[2015/12/23 09:53:55] <grumbel> Karkus: they show up in the addon managed like all the other ones
+[2015/12/23 09:54:13] <Karkus> grumbel: What's stopping that from happening now?
+[2015/12/23 09:54:54] <Poino> no mt,
+[2015/12/23 09:55:17] <Poino> i simply came to congratulate for Milestone 2
+[2015/12/23 09:55:34] <mt> that's also great!
+[2015/12/23 09:55:37] <grumbel> nothing, they just show up disabled by default, just a false->true variable default value change in the right place is needed
+[2015/12/23 09:55:38] <mt> :)
+[2015/12/23 09:56:15] <Karkus> grumbel: Okay, I'll have a look
+[2015/12/23 09:56:47] <Poino> But there is a thing I would like to ask, it's kinda gub
+[2015/12/23 09:56:49] <Poino> bug*
+[2015/12/23 09:57:28] <mt> Karkus: possibly "[WARNING] /home/mteufel/pkg/supertux-git/src/supertux/src/addon/addon_manager.cpp:555 Couldn't find .nfo file for ..."?
+[2015/12/23 09:57:47] <Poino> I had supertux 0.3.5, and I had completed both Forest and Ice world
+[2015/12/23 09:58:09] <Karkus> mt: Yeah, I get problems with that. Don't know if it's relevant
+[2015/12/23 09:59:32] <mt> Poino: mhm, what happened now?
+[2015/12/23 09:59:46] @ SupertuxUser joined channel #supertux
