@@ -30410,3 +30410,6 @@
 [2015/12/22 22:37:00] <Not-e81f> [02supertux] 07tossking starred 03supertux - 13http://git.io/vEWzb
 [2015/12/22 23:36:40] <Mr_Bones_> https://gitweb.gentoo.org/repo/gentoo.git/tree/games-arcade/supertux/files has all the patches I did to 0.4.0 for the gentoo ebuild.
 [2015/12/22 23:56:01] @ Quit: tux|dude: Quit: Leaving
+[2015/12/23 00:03:14] @ Quit: nerdopolis: Quit: No Ping reply in 180 seconds.
+[2015/12/23 00:04:39] @ nerdopolis joined channel #supertux
+[2015/12/23 00:12:26] @ Quit: irungentoo: Ping timeout: 246 seconds
