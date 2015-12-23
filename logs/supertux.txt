@@ -30236,3 +30236,12 @@
 [2015/12/22 19:02:19] @ Quit: Mr_Bones_: Quit: Leaving
 [2015/12/22 19:04:10] @ Mr_Bones_ joined channel #supertux
 [2015/12/22 19:12:40] <Not-e81f> [02supertux] 07Devgiant starred 03supertux - 13http://git.io/vECpI
+[2015/12/22 19:16:21] <oumph> giby_the_kid, recompiled with minor patch only for the menu and new screenshot http://pix.toile-libre.org/upload/original/1450829562.png
+[2015/12/22 19:16:57] <Tobbi> oumph: But the christmas mode worked for you out of the box, didn't it?
+[2015/12/22 19:18:17] <giby_the_kid> Tobbi, I get an issus with the Tx client, can you update the language pack?
+[2015/12/22 19:18:30] <Tobbi> giby_the_kid: I just want to give it to you for testing first.
+[2015/12/22 19:18:38] <Tobbi> And the tx command line thing is slow.
+[2015/12/22 19:20:14] <oumph> Tobbi, yes, compiled an Debian Sid. Just s/extentions/extensions/ in the French menu. Better screenshot http://pix.toile-libre.org/upload/original/1450829786.png
+[2015/12/22 19:21:05] <oumph> ( /usr/local/games/supertux2 -w -g 958x653   , just to keep ratio from the previous screenshot sent by news author)
+[2015/12/22 19:21:21] <Tobbi> :)
+[2015/12/22 19:21:29] <Tobbi> I'm glad xmas mode is at least working for someone.
