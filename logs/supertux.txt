@@ -30541,3 +30541,5 @@
 [2015/12/23 04:09:07] <Not-e81f> [02supertux] 07blop starred 03supertux - 13http://git.io/vElCT
 [2015/12/23 04:19:15] <Not-e81f> [02supertux] 07TrentSkunk starred 03supertux - 13http://git.io/vElWx
 [2015/12/23 04:24:43] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/192
+[2015/12/23 04:38:46] @ Quit: alket: Ping timeout: 272 seconds
+[2015/12/23 04:43:12] @ leyyin joined channel #supertux
