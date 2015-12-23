@@ -30434,3 +30434,36 @@
 [2015/12/23 02:49:12] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/188
 [2015/12/23 02:49:58] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98469929
 [2015/12/23 02:57:23] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98469939
+[2015/12/23 03:01:22] <Not-e81f> [02supertux] 07Hume2 synchronize pull request 03#269: WIP Level Editor - 13http://git.io/vEe13
+[2015/12/23 03:01:24] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03editor [+0/-0/±5] 13http://git.io/vElTh
+[2015/12/23 03:01:25] <Not-e81f> [02supertux] 07Hume2 0365269bf - Added inline function EditorActive()
+[2015/12/23 03:01:27] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98471026
+[2015/12/23 03:01:28] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98471051
+[2015/12/23 03:01:30] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/189
+[2015/12/23 03:01:31] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/190
+[2015/12/23 03:03:13] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98469929
+[2015/12/23 03:04:02] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/187
+[2015/12/23 03:10:03] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03editor [+0/-0/±1] 13http://git.io/vElIK
+[2015/12/23 03:10:04] <mt> I wonder if red_bot can send ~notes to multiple users
+[2015/12/23 03:10:05] <Not-e81f> [02supertux] 07Hume2 036387d9e - No more fixing old tiles in editor
+[2015/12/23 03:10:06] <Not-e81f> [02supertux] 07Hume2 synchronize pull request 03#269: WIP Level Editor - 13http://git.io/vEe13
+[2015/12/23 03:10:08] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98471920
+[2015/12/23 03:10:09] <mt> ~help note
+[2015/12/23 03:10:09] <red_bot> mt: note <nick> <string> => stores a note (<string>) for <nick>
+[2015/12/23 03:10:10] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98471930
+[2015/12/23 03:10:11] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/191
+[2015/12/23 03:10:12] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/192
+[2015/12/23 03:10:48] <mt> Hume2: can you get rid of these merge commits and instead use rebase?
+[2015/12/23 03:10:52] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98471026
+[2015/12/23 03:11:15] <Hume2> mt: It would be even worse.
+[2015/12/23 03:11:22] <mt> why that?
+[2015/12/23 03:12:16] <mt> merge commits would disappear and all other commits will still keep their chronological order but look like they've been created on top of current master
+[2015/12/23 03:12:34] <Hume2> That's it.
+[2015/12/23 03:12:42] <mt> what's wrong with that?
+[2015/12/23 03:12:53] <Hume2> The github graph would be unuseable.
+[2015/12/23 03:13:31] <Hume2> I guess Grumbel did the same because of the same thing.
+[2015/12/23 03:13:45] <mt> https://github.com/SuperTux/supertux/graphs/contributors and everything else in graphs/* uses the commit date
+[2015/12/23 03:14:17] <mt> for everything else, why would you want to see the commits ordered by date?
+[2015/12/23 03:14:25] <Hume2> I mean the log graph.
+[2015/12/23 03:14:37] <mt> log graph?
+[2015/12/23 03:14:53] <mt> https://github.com/SuperTux/supertux/commits/master is broken anyway
