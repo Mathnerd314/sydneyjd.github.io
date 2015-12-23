@@ -30579,3 +30579,6 @@
 [2015/12/23 06:10:06] <Tobbi> 214 stars
 [2015/12/23 06:12:29] <Tobbi> wow, chip.de picked it up.
 [2015/12/23 06:12:31] <Tobbi> That was quick.
+[2015/12/23 06:18:57] <Not-e81f> [02supertux] 07martinbjeldbak starred 03supertux - 13http://git.io/vElAC
+[2015/12/23 06:19:45] @ Quit: Tobbi: 
+[2015/12/23 06:28:03] @ Drangue is now known as alket
