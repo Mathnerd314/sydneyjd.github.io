@@ -30389,3 +30389,8 @@
 [2015/12/22 20:23:15] <Karkus> Tobbi: squirrel or s-expr?
 [2015/12/22 20:23:24] <Tobbi> Karkus: the latter.
 [2015/12/22 20:23:37] <Tobbi> Plus: q.e.d (in terms of being burned out)
+[2015/12/22 20:34:45] @ Quit: Karkus: Quit: Division By Zero
+[2015/12/22 20:37:33] @ Quit: Fauve: Quit: Vulnerant omnes, ultima necat.
+[2015/12/22 20:38:53] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/22 20:39:22] @ Tobbi joined channel #supertux
+[2015/12/22 20:39:22] @ Mode +o Tobbi by ChanServ
