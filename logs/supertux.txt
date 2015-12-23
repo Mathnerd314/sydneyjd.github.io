@@ -31084,3 +31084,19 @@
 [2015/12/23 17:02:18] <Not-e81f> [02supertux] 07Jake41 forked the repository - 13http://git.io/vEnyG
 [2015/12/23 17:13:40] @ leyyin__ joined channel #supertux
 [2015/12/23 17:13:47] @ Quit: leyyin_: Read error: Connection reset by peer
+[2015/12/23 17:32:24] @ brmbrmcar joined channel #supertux
+[2015/12/23 17:34:04] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#288: Allow addons to be manually installed easily again - 13http://git.io/vERuf
+[2015/12/23 17:34:16] <head8debian> Sounds like he needs to update his submodules...
+[2015/12/23 17:35:17] @ Tobbi joined channel #supertux
+[2015/12/23 17:35:17] @ Mode +o Tobbi by ChanServ
+[2015/12/23 17:36:37] <Tobbi> 232 stars :D
+[2015/12/23 17:37:33] <head8debian> Tobbi: :D
+[2015/12/23 17:37:39] <Tobbi> me!
+[2015/12/23 17:38:24] @ Quit: alket: Quit: Good Night :)
+[2015/12/23 17:39:26] <Tobbi> head8debian: You know, I really don't want to be the one responsible...but everyone keeps asking for me.
+[2015/12/23 17:39:32] <head8debian> Tobbi: lol, i know.
+[2015/12/23 17:39:34] <Tobbi> At least when I read the logs...
+[2015/12/23 17:40:00] <Tobbi> head8debian: Okay, honestly. By now you know enough so that you can lead the project on your own.
+[2015/12/23 17:40:05] <Tobbi> You know what a programming language is.
+[2015/12/23 17:40:13] <Tobbi> You know a compiler, and you have once seen Alf on TV
+[2015/12/23 17:40:22] <Tobbi> -> perfect.
