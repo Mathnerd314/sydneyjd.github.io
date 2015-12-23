@@ -30917,3 +30917,10 @@
 [2015/12/23 11:52:36] <mt> Well it might be possible that your computer is not using hardware acceleration for supertux
 [2015/12/23 11:52:39] <mt> dunno
 [2015/12/23 11:55:47] <SupertuxUser> glxinfo|egrep "OpenGL vendor|OpenGL renderer" OpenGL vendor string: Advanced Micro Devices, Inc. OpenGL renderer string: AMD Radeon HD 7900 Series
+[2015/12/23 12:01:56] <SupertuxUser> disabling transitions does not change it :(
+[2015/12/23 12:03:24] <SupertuxUser> it is the "screen movement" when i advance in a level. area to the right gets visible, but its not smooth
+[2015/12/23 12:12:10] <SupertuxUser> anyway, thanks alot for your help and patience =)
+[2015/12/23 12:12:25] @ Quit: lumidify: Ping timeout: 260 seconds
+[2015/12/23 12:12:31] <SupertuxUser> it runs and i can play the game now
+[2015/12/23 12:14:25] @ Karkus joined channel #supertux
+[2015/12/23 12:14:26] @ Mode +o Karkus by ChanServ
