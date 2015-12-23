@@ -30422,3 +30422,15 @@
 [2015/12/23 01:27:06] <Not-e81f> [02supertux] 07caiguo37 starred 03supertux - 13http://git.io/vEWdD
 [2015/12/23 02:34:43] @ Hume2 joined channel #supertux
 [2015/12/23 02:34:44] @ Mode +v Hume2 by ChanServ
+[2015/12/23 02:48:59] <Not-e81f> [02supertux] 07Hume2 synchronize pull request 03#269: WIP Level Editor - 13http://git.io/vEe13
+[2015/12/23 02:49:00] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98469929
+[2015/12/23 02:49:02] <Not-e81f> [02supertux] 07Hume2 pushed 03107 commits to 03editor [+183/-35/±1763] 13http://git.io/vElJK
+[2015/12/23 02:49:03] <Not-e81f> [02supertux] 07Hume2 035261858 - Big merge, part 1
+[2015/12/23 02:49:05] <Not-e81f> [02supertux] 07Hume2 03fde8309 - Big merge - part 2
+[2015/12/23 02:49:07] <Not-e81f> [02supertux] 07Hume2 0360a5b50 - Merge branch 'master' of https://github.com/SuperTux/supertux into editor
+[2015/12/23 02:49:08] <Not-e81f> [02supertux] ... and 104 more commits.
+[2015/12/23 02:49:10] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/187
+[2015/12/23 02:49:11] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98469939
+[2015/12/23 02:49:12] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/188
+[2015/12/23 02:49:58] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98469929
+[2015/12/23 02:57:23] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98469939
