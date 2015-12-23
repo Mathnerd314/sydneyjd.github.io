@@ -30233,3 +30233,6 @@
 [2015/12/22 18:55:41] @ Quit: Karkus: Ping timeout: 264 seconds
 [2015/12/22 18:56:32] <Tobbi> once pulling from tx is done.
 [2015/12/22 18:56:34] <Tobbi> so slow.
+[2015/12/22 19:02:19] @ Quit: Mr_Bones_: Quit: Leaving
+[2015/12/22 19:04:10] @ Mr_Bones_ joined channel #supertux
+[2015/12/22 19:12:40] <Not-e81f> [02supertux] 07Devgiant starred 03supertux - 13http://git.io/vECpI
