@@ -30932,3 +30932,11 @@
 [2015/12/23 12:20:49] <Karkus> Hume2: Okay.
 [2015/12/23 12:21:08] <Karkus> Hume2: Halloween levels still don't show in the editor for me, though
 [2015/12/23 12:21:47] <Hume2> hmmm... strange.
+[2015/12/23 12:30:11] <Not-e81f> [02supertux] 070x27 starred 03supertux - 13http://git.io/vE45i
+[2015/12/23 12:34:30] <Not-e81f> [02supertux] 07Jake41 commented on issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vE4FQ
+[2015/12/23 12:36:17] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vE4bt
+[2015/12/23 12:37:25] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#288: Allow addons to be manually installed easily again - 13http://git.io/vE4bw
+[2015/12/23 12:38:17] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#288: Allow addons to be manually installed easily again - 13http://git.io/vE4bF
+[2015/12/23 12:42:26] <Hume2> Karkus: What level do you load?
+[2015/12/23 12:44:29] <Karkus> Hume2: "Graveyard Shift" is one which doesn't work, iirc
+[2015/12/23 12:44:40] <Hume2> Karkus: What does it display?
