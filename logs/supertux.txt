@@ -30528,3 +30528,10 @@
 [2015/12/23 03:42:10] <mt> fwiw, it's much more easier to resolve conflicts with a graphical merge helper
 [2015/12/23 03:42:16] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98471051
 [2015/12/23 03:42:59] <mt> such as http://meldmerge.org/
+[2015/12/23 03:46:01] <Hume2> I'll try that, but yesterday I spent much time when merging that Grumbel's stuff.
+[2015/12/23 03:48:05] <mt> there's also different merge strategies (see https://www.kernel.org/pub/software/scm/git/docs/git-rebase.html) e.g. if you want your changes to take priority
+[2015/12/23 03:49:13] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98471930
+[2015/12/23 03:52:48] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/190
+[2015/12/23 03:53:21] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98471920
+[2015/12/23 03:54:33] @ alket joined channel #supertux
+[2015/12/23 03:56:31] <Not-e81f> [02supertux] 07Longhanks starred 03supertux - 13http://git.io/vElG4
