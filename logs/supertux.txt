@@ -31100,3 +31100,6 @@
 [2015/12/23 17:40:05] <Tobbi> You know what a programming language is.
 [2015/12/23 17:40:13] <Tobbi> You know a compiler, and you have once seen Alf on TV
 [2015/12/23 17:40:22] <Tobbi> -> perfect.
+[2015/12/23 17:54:43] <oumph> giby_the_kid, tested with ctrl or q as action key, on antartic or forest world, don't see any difference with or w/o action key pressed when moving and still drifting when changing direction. Doesn't seem to be an effect from desktop environement shorcuts.
+[2015/12/23 17:56:25] <giby_the_kid> go on first level, where is it written "run" press action key and try to go up :p
+[2015/12/23 17:59:44] <oumph> I just did, successful jump with or without action key pressed
