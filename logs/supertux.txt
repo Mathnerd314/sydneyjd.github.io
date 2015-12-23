@@ -30948,3 +30948,31 @@
 [2015/12/23 12:59:09] <Hume2> Karkus: ctrl + click
 [2015/12/23 12:59:18] <Karkus> Hume2: Ah, thanks
 [2015/12/23 12:59:38] <Hume2> It should be right click, but they don't work for some reason.
+[2015/12/23 13:00:12] <Hume2> Because SuperTux doesn't proccess them.
+[2015/12/23 13:05:11] @ DusXMT joined channel #supertux
+[2015/12/23 13:05:12] <Karkus> Hume2: Oh wait. "The Abandoned House"
+[2015/12/23 13:05:20] <Karkus> Not "Graveyard Shift"
+[2015/12/23 13:05:26] <Karkus> that works...
+[2015/12/23 13:05:56] <Hume2> Karkus: And should it display anything else?
+[2015/12/23 13:06:05] <Hume2> It's intor.
+[2015/12/23 13:06:09] <Hume2> *intro
+[2015/12/23 13:06:18] <Karkus> Hume2: Is it?
+[2015/12/23 13:06:26] <Hume2> Yes, it is.
+[2015/12/23 13:06:59] <Karkus> Hume2: Ah.
+[2015/12/23 13:07:09] <Karkus> Hume2: Looks like you've solved my issue
+[2015/12/23 13:07:34] <Karkus> Hume2: I guess "Halloween Party" is the extro?
+[2015/12/23 13:07:41] <Hume2> Exactly.
+[2015/12/23 13:07:57] <Karkus> Maybe you shouldn't be able to try to edit those
+[2015/12/23 13:08:33] <Hume2> No, because you still could edit the init script. Not yet, of course.
+[2015/12/23 13:09:15] <Karkus> Hume2: How are you going to do script editing?
+[2015/12/23 13:09:53] <Hume2> Well, I haven't done anything with that so far.
+[2015/12/23 13:10:13] <DusXMT> I wonder, is there a way I can transfer my post as a translation manager? As I _really_ didn't expect to be put into it oh-so-long-ago when I just asked about the possibility of making a translation. The problem is, I've long lost interest in the project, but abandoning it would probably delete the translation efforts the other members of my team (Slovak) spent, and I wouldn't want that for them.
+[2015/12/23 13:11:00] <Karkus> giby: ^
+[2015/12/23 13:12:15] <Karkus> Hume2: This Ctrl+Click isn't working. Ctrl + Left click on objects right?
+[2015/12/23 13:12:22] <Hume2> Yes.
+[2015/12/23 13:12:34] <Hume2> It's RUN + click.
+[2015/12/23 13:12:44] @ claymore2 joined channel #supertux
+[2015/12/23 13:12:50] <Karkus> Hume2: I've done it :D
+[2015/12/23 13:13:04] <Karkus> Hume2: You have to be in object select mode somehow :D
+[2015/12/23 13:13:32] <Hume2> Yes.
+[2015/12/23 13:14:57] <Karkus> Hume2: I really like how it's developing. Keep up the good work.
