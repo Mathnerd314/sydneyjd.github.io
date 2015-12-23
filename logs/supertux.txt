@@ -30247,3 +30247,32 @@
 [2015/12/22 19:21:29] <Tobbi> I'm glad xmas mode is at least working for someone.
 [2015/12/22 19:31:57] <Not-e81f> [02supertux] 07zhaoguojun starred 03supertux - 13http://git.io/vEWec
 [2015/12/22 19:37:23] @ Quit: jesusalva: Ping timeout: 265 seconds
+[2015/12/22 19:46:07] <Tobbi> Langpack doesn't work for some reason.
+[2015/12/22 19:47:13] @ Quit: grumbel: Remote host closed the connection
+[2015/12/22 19:51:00] <Tobbi> giby_the_kid: I tried it, unfortunately, it prefers the old translation over the new one.
+[2015/12/22 19:51:39] <Tobbi> So, our implementation is useless in that aspect.
+[2015/12/22 19:51:42] <Tobbi> Someone else needs to fix it.
+[2015/12/22 19:53:06] <Tobbi> Because I really don't...
+[2015/12/22 19:53:19] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#269: WIP Level Editor - 13http://git.io/vEWUJ
+[2015/12/22 19:53:41] @ Karkus joined channel #supertux
+[2015/12/22 19:53:42] @ Mode +o Karkus by ChanServ
+[2015/12/22 19:56:04] <Karkus> Tobbi: Why do I keep getting "Tried spawning Tux in solid matter"?
+[2015/12/22 19:56:22] <Karkus> Surely that shouldn't be happening...
+[2015/12/22 19:56:46] <Tobbi> Karkus: because our detection code fails when tux is spawning at 0|0
+[2015/12/22 19:57:06] <sebras> hm... why are some translations in Lolkat's levels prefixed with "a"?
+[2015/12/22 19:57:14] <sebras> should the be in the translations too?
+[2015/12/22 19:57:41] <Karkus> Tobbi: Tux shouldn't be spawning at 0|0 anyway!
+[2015/12/22 19:57:44] <Tobbi> sebras: Yes, that a has a formatting thing...
+[2015/12/22 19:58:01] <Tobbi> sebras: I mean: a means: Format the string in a certain way, give it a yellow colour etc.
+[2015/12/22 19:58:11] <sebras> ah.
+[2015/12/22 19:58:18] <Tobbi> Unfortunately, we can't change that now...
+[2015/12/22 19:58:22] <sebras> Tobbi: the same goes for # I assume..?
+[2015/12/22 19:58:27] <Tobbi> sebras: exactly.
+[2015/12/22 19:58:37] <sebras> Tobbi: no worries, I just need to know what I should keep. :)
+[2015/12/22 19:58:38] <Tobbi> It's a very bad way of formatting strings.
+[2015/12/22 19:59:09] <Tobbi> Karkus: Actually, what we could do is have a level format version 3, where we get rid of all these annoying things, right?
+[2015/12/22 19:59:24] <Karkus> Tobbi: We could.
+[2015/12/22 19:59:26] <Karkus> :D
+[2015/12/22 19:59:39] <Tobbi> Karkus: Milestone 2 is soo oldschool... :P
+[2015/12/22 19:59:47] <Tobbi> Now that it's out.
+[2015/12/22 19:59:52] <Tobbi> Milestone 3 is the new hotness.
