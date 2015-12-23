@@ -31002,3 +31002,21 @@
 [2015/12/23 14:06:32] @ lumidify joined channel #supertux
 [2015/12/23 14:11:06] <Not-e81f> [02supertux] 07finkiki starred 03supertux - 13http://git.io/vEB03
 [2015/12/23 14:12:31] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98570861
+[2015/12/23 14:17:44] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98570848
+[2015/12/23 14:18:40] <Hume2> Karkus: If you had problems with understanding the code, I could help you.
+[2015/12/23 14:20:39] <Karkus> Hume2: If I have any problems I'll ask.
+[2015/12/23 14:21:30] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/195
+[2015/12/23 14:23:37] <Not-e81f> [02flexlay] 07Jake41 starred 03flexlay - 13http://git.io/vEnyG
+[2015/12/23 14:23:40] <Karkus> Hume2: How do you edit the spawnpoint?
+[2015/12/23 14:24:00] <Hume2> Karkus: Actually, I don't. I edit the SpawnPointMarker.
+[2015/12/23 14:24:02] <Not-e81f> [02supertux] 07ses110 starred 03supertux - 13http://git.io/vEBgV
+[2015/12/23 14:24:46] <Karkus> Hume2: Ah
+[2015/12/23 14:25:04] <Karkus> Hume2: How do I see it in the editor then?
+[2015/12/23 14:25:56] <Hume2> Karkus: Because it's factory is "spawnpoint" and loads only when the editor is active.
+[2015/12/23 14:25:57] @ lumidify1 joined channel #supertux
+[2015/12/23 14:26:49] @ Quit: lumidify: Ping timeout: 260 seconds
+[2015/12/23 14:28:06] <Karkus> Hume2: I am not seeing the spawn point on the halloween level "Darkness Prevails"
+[2015/12/23 14:29:03] <Karkus> Hume2: Okay, I am now.
+[2015/12/23 14:29:05] <Karkus> That's odd
+[2015/12/23 14:29:25] <Hume2> Indeed.
+[2015/12/23 14:29:45] <Karkus> Hume2: Are you seeing it all the times
