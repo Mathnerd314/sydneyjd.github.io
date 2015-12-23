@@ -30276,3 +30276,72 @@
 [2015/12/22 19:59:39] <Tobbi> Karkus: Milestone 2 is soo oldschool... :P
 [2015/12/22 19:59:47] <Tobbi> Now that it's out.
 [2015/12/22 19:59:52] <Tobbi> Milestone 3 is the new hotness.
+[2015/12/22 20:00:07] <Tobbi> Who uses milestone 2 anyway? :P
+[2015/12/22 20:00:10] <Tobbi> haha
+[2015/12/22 20:00:15] <Karkus> haah
+[2015/12/22 20:00:23] <Karkus> s/haah/haha/
+[2015/12/22 20:00:23] <red_bot> Karkus meant: "haha"
+[2015/12/22 20:01:27] <Karkus> Tobbi: ~/.supertux3 O_o
+[2015/12/22 20:01:33] <Karkus> ./supertux3
+[2015/12/22 20:01:36] <Tobbi> :D
+[2015/12/22 20:01:49] <Karkus> This is actually a problem though...
+[2015/12/22 20:01:50] <Tobbi> Actually, we'd have to rename it...
+[2015/12/22 20:02:02] <Tobbi> Why the hell did they do it this way.
+[2015/12/22 20:02:27] <Karkus> To make it hard for us.
+[2015/12/22 20:02:38] <Tobbi> Did they even start from scratch after MS 1?
+[2015/12/22 20:02:42] <Tobbi> I don't think so, actually.
+[2015/12/22 20:02:51] <Karkus> Pretty much.
+[2015/12/22 20:03:01] <Tobbi> But wait...
+[2015/12/22 20:03:03] <Karkus> of course, not fully
+[2015/12/22 20:03:14] <Tobbi> Karkus: We are not following milestones anyway, according to mt...
+[2015/12/22 20:03:19] <Tobbi> So, we could rename it to supertux...
+[2015/12/22 20:03:21] <Karkus> Tobbi: True
+[2015/12/22 20:03:26] <Tobbi> and just get rid of the numbers.
+[2015/12/22 20:03:45] <Karkus> Tobbi: Why aren't we using milestones again?
+[2015/12/22 20:03:52] <Tobbi> Karkus: because mt says so.
+[2015/12/22 20:03:53] <Tobbi> :D
+[2015/12/22 20:04:01] <Tobbi> How should I know?
+[2015/12/22 20:05:16] <Karkus> Tobbi: imo, we should keep them. Even though they are highly illogical
+[2015/12/22 20:05:39] <Tobbi> right :D
+[2015/12/22 20:05:59] <head8debian> :D :D
+[2015/12/22 20:06:04] <head8debian> Good evening all.
+[2015/12/22 20:06:08] <Tobbi> Yes, that too.
+[2015/12/22 20:06:10] <Karkus> Tobbi: Also, are the levels put into the executable?
+[2015/12/22 20:06:20] <Tobbi> Karkus: no, levels are in data/levels.
+[2015/12/22 20:06:37] <Tobbi> And the add-ons of course.
+[2015/12/22 20:06:38] <Karkus> Tobbi: But building puts them in the executable.
+[2015/12/22 20:06:56] <Tobbi> Karkus: no, it keeps them in the data/ directory, unless you're on Mac OS X...
+[2015/12/22 20:07:09] <Tobbi> Where they're part of the app bundle.
+[2015/12/22 20:07:29] <Karkus> Tobbi: Where is the data directory?
+[2015/12/22 20:07:46] <Tobbi> Karkus: it's a subdirectory of the directory where supertux resides.
+[2015/12/22 20:09:01] <Karkus> Tobbi: Which for me is /usr/local/games, but I see no subdirectories.
+[2015/12/22 20:09:06] <Tobbi> oh.
+[2015/12/22 20:09:08] <Tobbi> damn.
+[2015/12/22 20:09:16] <Tobbi> I need to check CMakeLists.txt
+[2015/12/22 20:09:48] @ Quit: sebras: Quit: Lost terminal
+[2015/12/22 20:10:33] <Tobbi> Karkus: in /usr/local/share?
+[2015/12/22 20:10:41] <Tobbi> Or something.
+[2015/12/22 20:10:47] <Tobbi> It involves "share"
+[2015/12/22 20:10:59] <Karkus> Tobbi: Found it.
+[2015/12/22 20:11:04] <Not-e81f> [02supertux] 07pawpawyoung starred 03supertux - 13http://git.io/vEWIW
+[2015/12/22 20:11:06] <Karkus> Tobbi: Thanks :)
+[2015/12/22 20:11:32] <Karkus> Tobbi: I'm looking at Hume2's in-game editor a little bit
+[2015/12/22 20:11:38] <Tobbi> Ah.
+[2015/12/22 20:11:45] <Tobbi> Haven't tried it recently...looking good?
+[2015/12/22 20:11:59] <Tobbi> 189 stars.
+[2015/12/22 20:12:01] <Karkus> Tobbi: Erm..
+[2015/12/22 20:12:05] <Tobbi> :D
+[2015/12/22 20:12:19] <Karkus> Tobbi: Our menus are a bit... bad
+[2015/12/22 20:12:24] <Tobbi> Karkus: I know.
+[2015/12/22 20:12:29] <Tobbi> It works for small menus.
+[2015/12/22 20:13:24] <Karkus> Tobbi: We should probably change it
+[2015/12/22 20:13:29] <Not-e81f> [02supertux] 07ripper2hl starred 03supertux - 13http://git.io/4sGV5A
+[2015/12/22 20:13:35] <Karkus> Tobbi: What functionality is it missing?
+[2015/12/22 20:13:49] <Tobbi> Karkus: for the editor? I don't know.
+[2015/12/22 20:13:54] <Tobbi> But menus should be changed, I agree.
+[2015/12/22 20:14:02] <Karkus> Tobbi: The menus, I mean
+[2015/12/22 20:14:09] <Karkus> Tobbi: What could be improved?
+[2015/12/22 20:14:20] <Tobbi> Karkus: Design? Let them not take up that much space?
+[2015/12/22 20:14:22] <Tobbi> I don't know...
+[2015/12/22 20:14:33] <Tobbi> they seem pretty...huge.
+[2015/12/22 20:14:58] <Karkus> Tobbi: We should be able to design them in lisp files because they appear to be hardcoded atm.
