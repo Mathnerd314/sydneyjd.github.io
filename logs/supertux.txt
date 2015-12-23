@@ -30629,3 +30629,4 @@
 [2015/12/23 08:40:01] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/194
 [2015/12/23 08:40:56] @ giby joined channel #supertux
 [2015/12/23 08:40:56] @ Mode +o giby by ChanServ
+[2015/12/23 08:57:49] @ lumidify joined channel #supertux
