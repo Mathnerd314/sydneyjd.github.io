@@ -30401,3 +30401,8 @@
 [2015/12/22 21:34:55] <Not-e81f> [02supertux] 07idevsoft starred 03supertux - 13http://git.io/vEWCE
 [2015/12/22 21:37:32] <Not-e81f> [02supertux] 07shanfl starred 03supertux - 13http://git.io/vEWCF
 [2015/12/22 21:44:45] @ sebras joined channel #supertux
+[2015/12/22 21:45:11] <sebras> ok, almost done with the swedish translations. a few more remaining from treskalle's moob island.
+[2015/12/22 21:46:55] <sebras> hopefully one of the other swedish guys will be able to review my translations. I think that's the proces that transifex has.
+[2015/12/22 21:47:08] <sebras> this is my first time using it, so I'm hoping I'm doing a good job. now... time to sleep.
+[2015/12/22 21:50:06] <Not-e81f> [02supertux] 07chenjianlong starred 03supertux - 13http://git.io/vEW8L
+[2015/12/22 21:50:36] <Not-e81f> [02supertux] 07zyxar starred 03supertux - 13http://git.io/vEW8O
