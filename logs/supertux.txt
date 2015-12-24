@@ -31291,3 +31291,4 @@
 [2015/12/24 04:39:57] @ Quit: tuxdev_: Ping timeout: 245 seconds
 [2015/12/24 04:43:37] @ lumidify1 joined channel #supertux
 [2015/12/24 04:43:50] @ Quit: lumidify1: Client Quit
+[2015/12/24 04:46:41] @ Quit: lumidify: Ping timeout: 276 seconds
