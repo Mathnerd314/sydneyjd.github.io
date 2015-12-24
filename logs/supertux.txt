@@ -31562,3 +31562,7 @@
 [2015/12/24 10:07:19] <mt> you might think why? because it doesn't hide what file you're downloading (can be measured by size) and packages are verified anyway using gpg
 [2015/12/24 10:07:49] <head8debian> mt: Ah.
 [2015/12/24 10:15:15] @ tuxdev_ joined channel #supertux
+[2015/12/24 10:53:32] @ Jesusaves joined channel #supertux
+[2015/12/24 10:53:46] @ leyyin joined channel #supertux
+[2015/12/24 10:54:32] @ Quit: jesusalva: Ping timeout: 250 seconds
+[2015/12/24 10:54:47] @ Jesusaves is now known as jesusalva
