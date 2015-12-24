@@ -31298,3 +31298,18 @@
 [2015/12/24 05:17:32] @ lumidify joined channel #supertux
 [2015/12/24 05:46:06] @ Quit: lumidify: Ping timeout: 264 seconds
 [2015/12/24 05:51:51] @ lumidify joined channel #supertux
+[2015/12/24 06:47:56] <Not-e81f> [02supertux] 07JMLas commented on issue 03#284: 0.4 crashes on startup on Mac OS X 10.7 - 13http://git.io/vEESc
+[2015/12/24 06:48:34] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03editor [+0/-0/±6] 13http://git.io/vEESz
+[2015/12/24 06:48:36] <Not-e81f> [02supertux] 07Hume2 03299cd12 - Objects changing colours when set in editor: Candle, Lantern, MagicBlock
+[2015/12/24 06:48:37] <Not-e81f> [02supertux] 07Hume2 synchronize pull request 03#269: WIP Level Editor - 13http://git.io/vEe13
+[2015/12/24 06:48:39] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98664824
+[2015/12/24 06:48:41] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/199
+[2015/12/24 06:48:42] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98664834
+[2015/12/24 06:48:43] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/200
+[2015/12/24 06:48:46] <snadge> im up to the stupid tree bit
+[2015/12/24 06:48:55] <snadge> its annoying.. because its forced me to restart the entire level .. twice now
+[2015/12/24 06:49:09] <Not-e81f> [02flexlay] 07Jake41 forked the repository - 13http://git.io/vEnyG
+[2015/12/24 06:49:34] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98664824
+[2015/12/24 06:49:37] <snadge> im guessing you shove the lantern in its mouth
+[2015/12/24 06:49:53] <snadge> i almost got one.. but i got stabbed
+[2015/12/24 06:57:05] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98664834
