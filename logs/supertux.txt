@@ -31524,3 +31524,20 @@
 [2015/12/24 09:40:11] <head8debian> Heh.
 [2015/12/24 09:40:40] <mt> or /whois wowaname (freenode/stuff/wowaname) :D
 [2015/12/24 09:41:59] <head8debian> mt: ;)
+[2015/12/24 09:47:06] @ Quit: VargaD: Ping timeout: 255 seconds
+[2015/12/24 09:48:08] @ jesusalva joined channel #supertux
+[2015/12/24 09:48:34] <head8debian> mt: GOod grief, China builds these dirt cheap. www.ebay.com/itm/291623767192
+[2015/12/24 09:48:46] @ VargaD joined channel #supertux
+[2015/12/24 09:49:17] <head8debian> mt: Oops, that was supposed to be a /msg. :p
+[2015/12/24 09:50:08] <jesusalva> Merry christmas head8debian
+[2015/12/24 09:50:22] <head8debian> jesusalva: Its still a day away for me. :D
+[2015/12/24 09:50:48] <jesusalva> And? Here it is still 24, but per-tradition we start wishing Merry Christmas today and continues 'till tomorrow.
+[2015/12/24 09:51:19] <head8debian> jesusalva: Hohoho, merry Christmas to you as well. :)
+[2015/12/24 09:52:18] <head8debian> :p
+[2015/12/24 09:52:39] <jesusalva> ^_^ Thanks head8debian ^_^
+[2015/12/24 09:56:01] <head8debian> jesusalva: You have Christmas break?
+[2015/12/24 09:56:05] <head8debian> brake* :p
+[2015/12/24 09:56:56] <jesusalva> I am on vacations right now, but many people leave their job ealier on 24th. And 25th is a holiday.
+[2015/12/24 09:58:05] <head8debian> jesusalva: Same here.
+[2015/12/24 09:58:47] <head8debian> Freedroid 16 is out! :D
+[2015/12/24 09:59:35] <jesusalva> Yes, I just didn't found it to download on website. :)
