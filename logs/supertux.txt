@@ -31319,3 +31319,7 @@
 [2015/12/24 07:05:36] <Not-e81f> [02supertux] 07leoeek starred 03supertux - 13http://git.io/vEE7S
 [2015/12/24 07:07:41] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#284: 0.4 crashes on startup on Mac OS X 10.7 - 13http://git.io/vEE50
 [2015/12/24 07:09:26] <Not-e81f> [02supertux] 07tobbi commented on issue 03#284: 0.4 crashes on startup on Mac OS X 10.7 - 13http://git.io/vEE5j
+[2015/12/24 07:15:46] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98664834
+[2015/12/24 07:21:10] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/200
+[2015/12/24 07:25:37] <brmbrmcar> My new desktop https://pbs.twimg.com/media/CW_J8b4WcAA8hU_.jpg
+[2015/12/24 07:28:38] <Not-e81f> [02supertux] 07JMLas commented on issue 03#284: 0.4 crashes on startup on Mac OS X 10.7 - 13http://git.io/vEEAF
