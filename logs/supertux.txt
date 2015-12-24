@@ -31313,3 +31313,9 @@
 [2015/12/24 06:49:37] <snadge> im guessing you shove the lantern in its mouth
 [2015/12/24 06:49:53] <snadge> i almost got one.. but i got stabbed
 [2015/12/24 06:57:05] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98664834
+[2015/12/24 07:01:01] <snadge> ragequit
+[2015/12/24 07:02:53] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98664824
+[2015/12/24 07:05:10] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/199
+[2015/12/24 07:05:36] <Not-e81f> [02supertux] 07leoeek starred 03supertux - 13http://git.io/vEE7S
+[2015/12/24 07:07:41] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#284: 0.4 crashes on startup on Mac OS X 10.7 - 13http://git.io/vEE50
+[2015/12/24 07:09:26] <Not-e81f> [02supertux] 07tobbi commented on issue 03#284: 0.4 crashes on startup on Mac OS X 10.7 - 13http://git.io/vEE5j
