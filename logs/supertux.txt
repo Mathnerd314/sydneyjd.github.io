@@ -31288,3 +31288,6 @@
 [2015/12/24 04:07:50] @ lumidify joined channel #supertux
 [2015/12/24 04:08:06] <mt> 1/1 Test #1: test_supertux2 ...................   Passed    0.00 sec; 100% tests passed, 0 tests failed out of 1
 [2015/12/24 04:16:56] @ Quit: giby_the_kid: Quit: This computer has gone to sleep
+[2015/12/24 04:39:57] @ Quit: tuxdev_: Ping timeout: 245 seconds
+[2015/12/24 04:43:37] @ lumidify1 joined channel #supertux
+[2015/12/24 04:43:50] @ Quit: lumidify1: Client Quit
