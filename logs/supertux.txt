@@ -31509,3 +31509,18 @@
 [2015/12/24 09:28:01] <Tobbi> Okay, good bye now.
 [2015/12/24 09:28:04] @ Quit: Tobbi: 
 [2015/12/24 09:28:12] @ Quit: brmbrmcar: Quit: Found terminal
+[2015/12/24 09:32:12] @ Quit: VargaD: Ping timeout: 250 seconds
+[2015/12/24 09:37:24] <head8debian> mt: Yeah... well, it doesn't take that long to connect, but for every channel to sync and display the connected message on my desktop with 50 channels, its about 5 mins. WHich i think a very long time...
+[2015/12/24 09:37:25] @ Hume2 joined channel #supertux
+[2015/12/24 09:37:26] @ Mode +v Hume2 by ChanServ
+[2015/12/24 09:37:50] <head8debian> red_bot only takes about 2 mins to do that on its 20 channels.
+[2015/12/24 09:37:57] <mt> head8debian: yes I also meant syncing (with all the WHOX stuff)
+[2015/12/24 09:38:19] @ irungentoo joined channel #supertux
+[2015/12/24 09:38:32] <mt> omg look at #freenode it's a trollfest
+[2015/12/24 09:39:14] <head8debian> mt: It almost always is. :)
+[2015/12/24 09:39:34] <head8debian> mt: Im sure internet speed plays some part in it also.
+[2015/12/24 09:39:44] <mt> no but the head of staff devoiced all other staff and gave some trolls voice
+[2015/12/24 09:39:45] @ VargaD joined channel #supertux
+[2015/12/24 09:40:11] <head8debian> Heh.
+[2015/12/24 09:40:40] <mt> or /whois wowaname (freenode/stuff/wowaname) :D
+[2015/12/24 09:41:59] <head8debian> mt: ;)
