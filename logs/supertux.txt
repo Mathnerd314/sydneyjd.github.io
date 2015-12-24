@@ -31414,3 +31414,21 @@
 [2015/12/24 08:27:16] <Tobbi> So I am not quite sure.
 [2015/12/24 08:27:30] <mt> I don't think so
 [2015/12/24 08:27:38] <mt> I've seen many IRC trolls
+[2015/12/24 08:30:10] <Poino> :S
+[2015/12/24 08:30:12] <Hume2> Agrred. This doesn't look like a troll.
+[2015/12/24 08:31:35] <Hume2> Tobbi: Did you say high school?
+[2015/12/24 08:32:23] <Tobbi> Hume2: Yes.
+[2015/12/24 08:33:20] <Tobbi> Hume2: You can find the address in one of the commits.
+[2015/12/24 08:33:26] <Hume2> That would make sense, because do you know what high school means?
+[2015/12/24 08:33:41] <Hume2> That's the thing right after basic school, isn't it?
+[2015/12/24 08:36:10] <mt> yes
+[2015/12/24 08:36:39] <Poino> :S
+[2015/12/24 08:37:01] <mt>      2  brmbrmcar <2014cbrown@jkhs.org.uk>
+[2015/12/24 08:37:17] <Poino> :S
+[2015/12/24 08:37:24] <mt> org.uk, isn't there ac.uk for schools
+[2015/12/24 08:37:28] <brmbrmcar> Jesus!
+[2015/12/24 08:37:47] <Hume2> Yes, please.
+[2015/12/24 08:39:32] <brmbrmcar> spies
+[2015/12/24 08:39:36] @ brmbrmcar left channel #supertux ()
+[2015/12/24 08:41:00] <Poino> :S
+[2015/12/24 08:43:22] @ Quit: Tobbi: Remote host closed the connection
