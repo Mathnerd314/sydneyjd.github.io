@@ -31569,3 +31569,24 @@
 [2015/12/24 11:14:13] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2015/12/24 11:15:50] @ claymore2 joined channel #supertux
 [2015/12/24 11:23:03] <Not-e81f> [02supertux] 07GeorgeChalkitis starred 03supertux - 13http://git.io/vEuSg
+[2015/12/24 11:31:01] <jesusalva> Sorry, the meeting is 15:00 UTC, correct? Topic says "GMT", but we have, like, 26 GMTs.
+[2015/12/24 11:31:50] <jesusalva> I am now on GMT -0200. But I'm from GMT -0300. You guys are on GMT+0200 usually. GMT usually haves four digits and an operand on title.
+[2015/12/24 11:33:25] <mt> GMT = Greenwich Mean Time
+[2015/12/24 11:33:33] <mt> it's basically equivalent to UTC
+[2015/12/24 11:33:42] <head8debian> Uhm, when is the meeting?
+[2015/12/24 11:33:54] <head8debian> Ah.
+[2015/12/24 11:33:59] <mt> 15:00 Europe/London
+[2015/12/24 11:34:04] <head8debian>  /topic is handy. :D
+[2015/12/24 11:34:05] <mt> 16:00 Europe/Berlin
+[2015/12/24 11:35:18] <head8debian> 10:00 EST.
+[2015/12/24 11:35:34] <mt> jesusalva: you can also write UTC+ or - x
+[2015/12/24 11:35:47] <mt> or EST+05:00 if you want lol
+[2015/12/24 11:37:16] <jesusalva> I think "GMT" confusing and I'm in favor to write "UTC" instead.
+[2015/12/24 11:37:24] <jesusalva> :/
+[2015/12/24 11:37:24] <mt> jesusalva: also in the 26 you forgot some +xy:30 and +05:45
+[2015/12/24 11:37:37] <mt> the latter is actually used in Nepal
+[2015/12/24 11:38:43] <mt> and no, GMT in this case is not confusing
+[2015/12/24 11:38:49] <jesusalva> By the way, am I supposed to download all SuperTux repos?
+[2015/12/24 11:39:00] <mt> what all repos?
+[2015/12/24 11:40:22] * jesusalva marks an agenda event at 15-2=13:00 GMT -0200.
+[2015/12/24 11:40:31] <jesusalva> Or 13:00 BRT.
