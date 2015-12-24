@@ -31244,3 +31244,22 @@
 [2015/12/24 03:28:52] <snadge> so what i initially did was just build it.. iconv is built into libc
 [2015/12/24 03:29:06] <snadge> but then it gives the above error
 [2015/12/24 03:29:23] <snadge> so if you manually install it with prefix=/usr .. it then builds just fine
+[2015/12/24 03:30:42] <mt> libiconv is built into libc, libiconv isn't built into libc, what now?
+[2015/12/24 03:31:51] <mt> if the one built into libc would break it, our CI build shouldn't work as well
+[2015/12/24 03:32:36] <snadge> maybe the problem is specific to ubuntu 15.10 .. i dont know
+[2015/12/24 03:33:00] <snadge> i do know that /usr/include/iconv.h is different depending on whether libc one is used.. or whether installed manually from gnu.org
+[2015/12/24 03:34:21] <mt> it works for me on arch linux, it works for the CI on ubuntu trusty, the ubuntu xenial package seems to build fine, the fedora rawhide package seems to build fine
+[2015/12/24 03:34:33] <mt> as well as does the gentoo ebuild
+[2015/12/24 03:35:48] <snadge> oh wtf.. i just make install libiconv .. then apt-get install --reinstall libc6-dev
+[2015/12/24 03:35:58] <snadge> now it works
+[2015/12/24 03:36:17] <snadge> err.. make uninstall libiconv rathe
+[2015/12/24 03:36:38] <snadge> so it must have been something screwy with my libc6-dev install
+[2015/12/24 03:37:25] <mt> $ sudo debootstrap --variant=minbase wily ./ubuntu-wily-supertux/ http://de.archive.ubuntu.com/ubuntu/
+[2015/12/24 03:37:27] <mt> let's see
+[2015/12/24 03:38:20] <mt> are you using the tarball or the git repo
+[2015/12/24 03:39:09] <snadge> tarball for 0.4.0
+[2015/12/24 03:39:32] <snadge> im guessing the problem is due to upgrading and having cruft left over
+[2015/12/24 03:39:42] <snadge> thats the only way i can explain purging libiconv.. then reinstalling libc-dev fixing it
+[2015/12/24 03:39:56] <mt> the https://github.com/SuperTux/supertux/releases/download/v0.4.0/supertux-0.4.0.tar.bz2 one, not the github v0.4.0.tar.gz I hope
+[2015/12/24 03:40:14] <snadge> yeah im pretty sure it was that one
+[2015/12/24 03:43:01] <mt> Welcome to Ubuntu 15.10 (GNU/Linux 4.3.3-1-ARCH x86_64) :D
