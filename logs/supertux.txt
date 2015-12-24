@@ -31561,3 +31561,4 @@
 [2015/12/24 10:06:46] <mt> oh I leave all https servers commented, unless https is the only supported protocol
 [2015/12/24 10:07:19] <mt> you might think why? because it doesn't hide what file you're downloading (can be measured by size) and packages are verified anyway using gpg
 [2015/12/24 10:07:49] <head8debian> mt: Ah.
+[2015/12/24 10:15:15] @ tuxdev_ joined channel #supertux
