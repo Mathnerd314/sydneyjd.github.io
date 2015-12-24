@@ -31590,3 +31590,11 @@
 [2015/12/24 11:39:00] <mt> what all repos?
 [2015/12/24 11:40:22] * jesusalva marks an agenda event at 15-2=13:00 GMT -0200.
 [2015/12/24 11:40:31] <jesusalva> Or 13:00 BRT.
+[2015/12/24 11:45:48] <jesusalva> mt: https://github.com/SuperTux haves a dozen of repos there
+[2015/12/24 11:45:55] <jesusalva> I want to know which ones I need to download.
+[2015/12/24 11:58:16] <mt> to do what?
+[2015/12/24 11:58:57] <jesusalva> Um... think as "to play the game fully in brazilian portuguese"
+[2015/12/24 11:59:05] <jesusalva> Including addons, on this case.
+[2015/12/24 11:59:18] <jesusalva> (And managing to change the game/addons/translations)
+[2015/12/24 11:59:20] <mt> `git clone -r https://github.com/SuperTux/supertux.git` for the game
+[2015/12/24 11:59:34] <mt> sadly you can't pre-install any add-on or language pack
