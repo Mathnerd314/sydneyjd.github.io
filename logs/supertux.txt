@@ -31263,3 +31263,21 @@
 [2015/12/24 03:39:56] <mt> the https://github.com/SuperTux/supertux/releases/download/v0.4.0/supertux-0.4.0.tar.bz2 one, not the github v0.4.0.tar.gz I hope
 [2015/12/24 03:40:14] <snadge> yeah im pretty sure it was that one
 [2015/12/24 03:43:01] <mt> Welcome to Ubuntu 15.10 (GNU/Linux 4.3.3-1-ARCH x86_64) :D
+[2015/12/24 03:47:09] <snadge> archbuntu
+[2015/12/24 03:48:55] <Not-e81f> [02supertux] 07snadge commented on issue 03#282: "double iconv" causes cmake to always fail on systems that have iconv - 13http://git.io/vEEIV
+[2015/12/24 03:49:17] <snadge> i basically added another comment saying.. non issue, at least for ubuntu.. maybe that guys freebsd gripe is related though
+[2015/12/24 03:49:52] <mt> yep
+[2015/12/24 03:50:02] <mt> I also get an email containing the actual comment, so ...
+[2015/12/24 03:50:55] <snadge> happy days.. i basically finished the game the other night for the first time
+[2015/12/24 03:50:58] <mt> installing all the dependencies onto an ubuntu minbase install is 470 packages :)
+[2015/12/24 03:51:25] <snadge> the end boss is a little underwhelming ;)
+[2015/12/24 03:51:33] <mt> oh yay now it needs to prepare configure and what ever all those
+[2015/12/24 03:51:35] <snadge> same with the bonus level.. when i eventually found it
+[2015/12/24 03:52:24] <mt> suggestions are always welcome
+[2015/12/24 03:52:58] <snadge> agdq or sdgq should do a proper speedrun of it
+[2015/12/24 03:53:19] <mt> btw if you want to help, you could look into translating on transifex or designing a new forest worldmap (http://forum.freegamedev.net/viewtopic.php?f=67&t=6697)
+[2015/12/24 03:55:01] <snadge> i only do english.. but maybe i could have a go at making a map
+[2015/12/24 03:55:02] <mt> ~note Hume2 please add a note on the worldmap contest post that people must use a compatible license
+[2015/12/24 03:55:02] <red_bot> aight, mt
+[2015/12/24 03:55:59] @ Quit: lumidify: Ping timeout: 276 seconds
+[2015/12/24 03:57:49] <snadge> im playing forest world now :D
