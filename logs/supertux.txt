@@ -31199,3 +31199,7 @@
 [2015/12/23 20:07:25] <Tobbi> Since it's a subdirectory, it should update supertux.github.io
 [2015/12/23 20:07:39] <Karkus> That's cool
 [2015/12/23 20:18:33] <Not-e81f> [02supertux] 07Mathnerd314 commented on issue 03#244: Interesting feedback on the mailing list - 13http://git.io/vERhU
+[2015/12/23 20:30:05] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vERjK
+[2015/12/23 20:31:15] @ Quit: Karkus: Quit: Division By Zero
+[2015/12/23 20:39:03] @ tuxdev_ joined channel #supertux
+[2015/12/23 20:39:39] <Not-e81f> [02supertux] 07zugwan starred 03supertux - 13http://git.io/vE0eN
