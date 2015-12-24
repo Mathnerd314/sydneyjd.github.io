@@ -31455,3 +31455,38 @@
 [2015/12/24 08:58:08] @ Quit: Poino: Quit: Page closed
 [2015/12/24 08:59:59] <head8debian> ~time America/Detroit
 [2015/12/24 08:59:59] <red_bot> head8debian: America - Detroit - Thu Dec 24 08:59 EST
+[2015/12/24 09:00:06] <head8debian> ~time America/Detroit
+[2015/12/24 09:00:06] <red_bot> head8debian: America - Detroit - Thu Dec 24 09:00 EST
+[2015/12/24 09:00:22] <head8debian> ~ping
+[2015/12/24 09:00:22] <red_bot> head8debian: pong
+[2015/12/24 09:00:35] <head8debian> hrm.
+[2015/12/24 09:01:16] <head8debian> ~restart
+[2015/12/24 09:01:16] @ quit (restarting, back in 5...)
+[2015/12/24 09:01:17] @ Log closed by * (rescan or shutdown)
+[2015/12/24 09:01:40] @ Log started by red_bot
+[2015/12/24 09:01:40] @ Joined channel #supertux
+[2015/12/24 09:01:40] @ Topic is "IRC meeting Jan 9, 15:00 GMT | https://github.com/SuperTux | Stable: 0.4.0 | mailing list: supertux-devel@lists.lethargik.org | Channel log http://sydneyjd.github.io/logs/ | nightly builds http://download.supertuxproject.org/download/"
+[2015/12/24 09:01:40] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-12-23 20:02:29 -0500
+[2015/12/24 09:01:44] @ Mode +nt by kornbluth.freenode.net
+[2015/12/24 09:01:56] @ Mode +o red_bot by ChanServ
+[2015/12/24 09:02:05] <head8debian> ~time
+[2015/12/24 09:02:05] <red_bot> head8debian: I don't know where you are, use ~time set <Continent>/<City> to let me know
+[2015/12/24 09:02:13] <mt> head8debian: why does the bot need ops?
+[2015/12/24 09:02:16] <head8debian> Still starting up i guess.
+[2015/12/24 09:02:25] <head8debian> mt: I don't know. Good question.
+[2015/12/24 09:02:26] <mt> can't you make a different account for it?
+[2015/12/24 09:02:50] <head8debian> mt: uhm, i do like having it linked to my account/
+[2015/12/24 09:02:59] <mt> you even get a (free) bot cloak in the form of unaffiliated/$owner_account/bot/$bot_account
+[2015/12/24 09:03:18] <head8debian> ~ping
+[2015/12/24 09:03:18] <red_bot> head8debian: pong
+[2015/12/24 09:03:35] <head8debian> Freenode takes forever to connect to with 20 channels.
+[2015/12/24 09:03:58] <mt> >forever to connect
+[2015/12/24 09:04:01] <mt> >20 channels
+[2015/12/24 09:04:43] <mt> I'm joined to 37 freenode channels; on join my client requests WHOX with all parameters from all of them
+[2015/12/24 09:05:06] <mt> serveral channels have more than 1000, even more more than 500 users
+[2015/12/24 09:05:26] <mt> that's just freenode
+[2015/12/24 09:09:45] @ Tobbi joined channel #supertux
+[2015/12/24 09:09:45] @ Mode +o Tobbi by ChanServ
+[2015/12/24 09:10:30] <Tobbi> Did brmbrmcar leave for good?
+[2015/12/24 09:11:10] <Tobbi> Wonder if he'll ever return...
+[2015/12/24 09:11:36] <mt> you never know that, it's brmbrmcar
