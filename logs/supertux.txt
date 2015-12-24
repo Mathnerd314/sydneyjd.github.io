@@ -31725,3 +31725,4 @@
 [2015/12/24 17:03:11] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98723012
 [2015/12/24 17:14:04] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/203
 [2015/12/24 17:50:57] @ Quit: Karkus: Quit: Division By Zero
+[2015/12/24 18:11:34] <Not-e81f> [02supertux] 07pazkero commented on issue 03#292: SuperTux Team Meeting Jan 9 2016 - 13http://git.io/vEzAu
