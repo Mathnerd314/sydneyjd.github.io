@@ -31293,3 +31293,6 @@
 [2015/12/24 04:43:50] @ Quit: lumidify1: Client Quit
 [2015/12/24 04:46:41] @ Quit: lumidify: Ping timeout: 276 seconds
 [2015/12/24 05:14:00] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#269: WIP Level Editor - 13http://git.io/vEERc
+[2015/12/24 05:16:40] @ Hume2 joined channel #supertux
+[2015/12/24 05:16:40] @ Mode +v Hume2 by ChanServ
+[2015/12/24 05:17:32] @ lumidify joined channel #supertux
