@@ -31164,3 +31164,37 @@
 [2015/12/23 19:58:28] <Tobbi> Karkus: Would you be willing to take over leading the project? I know I already kind of announced it some time ago, but I really want to be busy with something else now that we've released.
 [2015/12/23 19:58:34] <Tobbi> is there anything you might need?
 [2015/12/23 19:59:51] <Karkus> Tobbi: Err
+[2015/12/23 20:00:10] <Tobbi> Or maybe you can cope without me.
+[2015/12/23 20:00:18] <Tobbi> Maybe no lead is required.
+[2015/12/23 20:00:26] <Karkus> Tobbi: When are you going to go?
+[2015/12/23 20:00:39] <Tobbi> Karkus: It's not about going. It's about taking less responsibility.
+[2015/12/23 20:00:52] <Tobbi> About feeling that others can make the decisions for the project.
+[2015/12/23 20:01:07] <Karkus> Tobbi: Ah
+[2015/12/23 20:01:20] <Karkus> Well, in that case we don't need a lead for now
+[2015/12/23 20:01:28] <Karkus> We can run it collectively
+[2015/12/23 20:01:48] <Tobbi> That seems fine with me as well.
+[2015/12/23 20:01:54] <Tobbi> Actually, I'd prefer that.
+[2015/12/23 20:02:35] <Karkus> Tobbi: We really need a meeting
+[2015/12/23 20:02:49] <Tobbi> Karkus: I will probably attend the meeting, we set it, didn't we?
+[2015/12/23 20:02:57] <Tobbi> I mean: We set a date and a time.
+[2015/12/23 20:03:00] <Karkus> Tobbi: Yes
+[2015/12/23 20:03:08] <Tobbi> ...and it's in my calendar.
+[2015/12/23 20:03:12] <Karkus> Tobbi: Unofficially
+[2015/12/23 20:03:24] <Tobbi> People will be here anyway...
+[2015/12/23 20:03:31] <Karkus> You'll have to put it in the topic, I guess
+[2015/12/23 20:04:19] <Tobbi> Oh, yes.
+[2015/12/23 20:04:33] <Karkus> Tobbi: Could you teach me how to edit the website?
+[2015/12/23 20:04:44] <Karkus> Tobbi: Or link me somewhere I can learn
+[2015/12/23 20:05:11] @ Tobbi set topic "IRC meeting Jan 9, 15:00 GMT | https://github.com/SuperTux | Stable: 0.4.0 | mailing list: supertux-devel@lists.lethargik.org | Channel log http://sydneyjd.github.io/logs/ | nightly builds http://download.supertuxproject.org/download/"
+[2015/12/23 20:05:21] <Tobbi> Karkus: You have to run make.
+[2015/12/23 20:05:32] <Tobbi> That will generate HTML files in the build directory.
+[2015/12/23 20:05:35] <Tobbi> Which is a submodule.
+[2015/12/23 20:05:48] <Tobbi> And the templates can be edited like normal HTML files.
+[2015/12/23 20:06:23] <Karkus> Tobbi: htdocs is the templates?
+[2015/12/23 20:06:30] <Tobbi> Karkus: Yes.
+[2015/12/23 20:06:46] <Karkus> Tobbi: So I clone that, edit it, run make.
+[2015/12/23 20:06:50] <Karkus> Tobbi: Then what?
+[2015/12/23 20:07:05] <Tobbi> Karkus: Then you have updated files in the build directory. cd into that, commit the changes and push.
+[2015/12/23 20:07:14] <Karkus> Tobbi: Ah, okay.
+[2015/12/23 20:07:25] <Tobbi> Since it's a subdirectory, it should update supertux.github.io
+[2015/12/23 20:07:39] <Karkus> That's cool
