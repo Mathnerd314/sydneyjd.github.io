@@ -31633,3 +31633,10 @@
 [2015/12/24 14:37:41] @ Karkus joined channel #supertux
 [2015/12/24 14:37:41] @ Mode +o Karkus by ChanServ
 [2015/12/24 14:43:21] @ Quit: lumidify: Quit: Leaving
+[2015/12/24 14:45:10] <jesusalva> head8debian: It was 17:00 when I went to take a nap. As I sleep with a lamp on, I have no problems if I close the window and leave the corritor lamp lit.
+[2015/12/24 14:45:30] <jesusalva> And assuming I didn't got a full sleep cycle, of course. Oversleeping is kinda hard.
+[2015/12/24 14:50:37] <head8debian> jesusalva: :)
+[2015/12/24 14:50:57] <head8debian> I don't like any lights while i sleep.
+[2015/12/24 14:56:39] <head8debian> Even the power lights from all the electronics in my room bug me. :p
+[2015/12/24 14:58:30] <jesusalva> I like background light. I don't like darkness.
+[2015/12/24 14:58:42] * jesusalva goes to play SUBMACHINE10.
