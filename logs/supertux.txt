@@ -31541,3 +31541,23 @@
 [2015/12/24 09:58:05] <head8debian> jesusalva: Same here.
 [2015/12/24 09:58:47] <head8debian> Freedroid 16 is out! :D
 [2015/12/24 09:59:35] <jesusalva> Yes, I just didn't found it to download on website. :)
+[2015/12/24 10:00:15] <head8debian> C'mon arch repos, your slow. :p
+[2015/12/24 10:00:29] <mt> >Chrismas
+[2015/12/24 10:00:30] <jesusalva> I use ubuntu. :)
+[2015/12/24 10:00:31] <mt> so boring
+[2015/12/24 10:00:37] <mt> I prefer Grav-Mass: https://stallman.org/grav-mass.html
+[2015/12/24 10:01:16] <mt> head8debian: regenerate/update your /etc/pacman.d/mirrorlist
+[2015/12/24 10:01:29] <jesusalva> They are very nice here, mt. It's possibly the only holiday where everybody stops their busy agendas and go meet their families, and swap gifts.
+[2015/12/24 10:01:55] <jesusalva> Although some use the day to drink as if there was no tomorrow. I fell sorry for them.
+[2015/12/24 10:02:38] <jesusalva> And only on Brazil (I think), it's the last day the country effectively works 'till the carnival. From today/tomorrow util the carnival the workdays are kinda dead.
+[2015/12/24 10:03:12] <head8debian> mt: Why?
+[2015/12/24 10:03:26] <head8debian> mt: I don't fully understand that.
+[2015/12/24 10:03:36] <mt> what? Grav-Mass?
+[2015/12/24 10:03:51] <head8debian> mt: No, update my mirrorlist.
+[2015/12/24 10:04:04] <head8debian> Why would i do that? ;)
+[2015/12/24 10:04:12] <mt> sometimes mirrors stop being maintained/have a slow connection
+[2015/12/24 10:04:26] <mt> then you regenerate it and have faster mirrors
+[2015/12/24 10:06:01] <mt> I usually take https://www.archlinux.org/mirrorlist/all/, uncomment all close servers/servers in countries I want, and rank it using `rankmirrors -n 0 ...`
+[2015/12/24 10:06:46] <mt> oh I leave all https servers commented, unless https is the only supported protocol
+[2015/12/24 10:07:19] <mt> you might think why? because it doesn't hide what file you're downloading (can be measured by size) and packages are verified anyway using gpg
+[2015/12/24 10:07:49] <head8debian> mt: Ah.
