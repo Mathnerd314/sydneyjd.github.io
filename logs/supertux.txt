@@ -31629,3 +31629,4 @@
 [2015/12/24 14:00:30] * jesusalva went to take a nap.
 [2015/12/24 14:05:37] <head8debian> Supertux over the big speakers. :D
 [2015/12/24 14:09:35] @ Quit: claymore2: Ping timeout: 265 seconds
+[2015/12/24 14:17:25] <head8debian> jesusalva: I cannot sleep in the middle of the day... It just doesn't work.
