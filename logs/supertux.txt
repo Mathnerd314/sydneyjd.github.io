@@ -31232,3 +31232,15 @@
 [2015/12/24 02:09:04] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vE054
 [2015/12/24 02:09:58] <mt> who/what is uptodown.com?
 [2015/12/24 02:14:33] <mt> tbh it looks like a softonic clone that hasn't gotten into my scam site filter list yet
+[2015/12/24 03:16:26] <snadge> fix build on ubuntu ;)
+[2015/12/24 03:18:18] <mt> what's broken with the build on ubuntu?
+[2015/12/24 03:19:00] <mt> it does work for us, we run every commit through a CI (https://travis-ci.org/SuperTux/supertux) running ubuntu trusty :)
+[2015/12/24 03:22:02] <mt> [almost every commit]
+[2015/12/24 03:27:07] <snadge> iconv issue
+[2015/12/24 03:27:28] <snadge> im running 15.10
+[2015/12/24 03:27:50] <mt> https://github.com/SuperTux/supertux/issues/282#issuecomment-166472593
+[2015/12/24 03:28:03] <snadge> that one yes
+[2015/12/24 03:28:24] <mt> might wanna try to run it in a very sandboxed environment that doesn't know about iconv being installed ;)
+[2015/12/24 03:28:52] <snadge> so what i initially did was just build it.. iconv is built into libc
+[2015/12/24 03:29:06] <snadge> but then it gives the above error
+[2015/12/24 03:29:23] <snadge> so if you manually install it with prefix=/usr .. it then builds just fine
