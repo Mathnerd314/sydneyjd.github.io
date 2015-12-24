@@ -31678,3 +31678,16 @@
 [2015/12/24 15:58:06] <Karkus> Hume2: I think that would be a good idea, yes
 [2015/12/24 15:59:01] <Karkus> Hume2: status:needs-discussion :P
 [2015/12/24 15:59:10] <Hume2> Of course.
+[2015/12/24 16:02:38] @ Quit: irungentoo: Remote host closed the connection
+[2015/12/24 16:09:20] <Not-e81f> [02supertux] 07Hume2 opened issue 03#292: SuperTux Team Meeting Jan 9 2016 - 13http://git.io/vEz6F
+[2015/12/24 16:09:39] <Not-e81f> [02supertux] 07Hume2 labeled issue 03#292: SuperTux Team Meeting Jan 9 2016 - 13http://git.io/vEz6F
+[2015/12/24 16:09:41] <Not-e81f> [02supertux] 07Hume2 labeled issue 03#292: SuperTux Team Meeting Jan 9 2016 - 13http://git.io/vEz6F
+[2015/12/24 16:10:33] <Karkus> Hume2: Okay, please don't threaten with a ban!
+[2015/12/24 16:10:47] <Hume2> OK
+[2015/12/24 16:11:04] <Karkus> Hume2: We can be strict, but I don't want to scare people off
+[2015/12/24 16:11:34] <Hume2> Well then. Tobbi will solve it his own way.
+[2015/12/24 16:12:02] <Karkus> Hume2: Tobbi doesn't want to be leader anymore, you know.
+[2015/12/24 16:12:15] <Hume2> I know.
+[2015/12/24 16:12:40] <Hume2> However it will be still a leader for me.
+[2015/12/24 16:14:20] <Hume2> Karkus: Any idea what could the topic be?
+[2015/12/24 16:14:44] <Karkus> Hume2: I'm adding something now, just a moment
