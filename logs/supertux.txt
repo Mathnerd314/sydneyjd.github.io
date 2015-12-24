@@ -31653,3 +31653,28 @@
 [2015/12/24 15:35:53] @ Quit: Poino: Client Quit
 [2015/12/24 15:37:59] @ Quit: nerdopolis: Ping timeout: 260 seconds
 [2015/12/24 15:40:19] @ nerdopolis joined channel #supertux
+[2015/12/24 15:45:54] <Karkus> Hume2: Tobbi and I have planned an IRC meeting for January 9th 2016, just letting you know :D
+[2015/12/24 15:47:30] <alket> whats the topic
+[2015/12/24 15:49:55] <Hume2> Karkus: Thanks. What will be the topic?
+[2015/12/24 15:50:13] <Karkus> Hume2, alket: We haven't decided really.
+[2015/12/24 15:50:35] <Hume2> Karkus: And who will lead it?
+[2015/12/24 15:51:09] <Karkus> Hume2: Tobbi, probably. If he doesn't want to, you can, or I will. If mt's around, he's welcome to as well.
+[2015/12/24 15:51:15] <Karkus> Anyone :D
+[2015/12/24 15:51:51] <Hume2> Karkus: We need to decide the topic before it will start, else it will be just a mess.
+[2015/12/24 15:52:04] <Karkus> Hume2: Yes, we do
+[2015/12/24 15:52:21] <Karkus> Hume2: You should possibly make an issue on GitHub
+[2015/12/24 15:52:55] <Hume2> It would be like the Giby'o'meeting then. No offense.
+[2015/12/24 15:53:45] <Hume2> Oh, do you know Giby'o'meetings? The discussions about the long-term ST plans.
+[2015/12/24 15:53:59] <Hume2> Never again, please.
+[2015/12/24 15:54:15] <Karkus> Hume2: When was this?
+[2015/12/24 15:54:35] <Karkus> Hume2: I never disagreed, though. The topic must be decided
+[2015/12/24 15:54:52] <Hume2> Karkus: it was in 2013.
+[2015/12/24 15:55:11] <Karkus> Hume2: What happened?
+[2015/12/24 15:55:25] <Hume2> It went off-topic easily.
+[2015/12/24 15:55:34] <Hume2> And nothing was decided.
+[2015/12/24 15:55:42] <Karkus> Hume2: Yeah, we don't want that.]
+[2015/12/24 15:56:30] <Hume2> So when someone will want to talk about something off topic, it would be allowed only in personal chat.
+[2015/12/24 15:57:44] <Hume2> Karkus: So may I create a bug saying that there will be a meeting and we don't have a topic yet?
+[2015/12/24 15:58:06] <Karkus> Hume2: I think that would be a good idea, yes
+[2015/12/24 15:59:01] <Karkus> Hume2: status:needs-discussion :P
+[2015/12/24 15:59:10] <Hume2> Of course.
