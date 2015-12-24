@@ -31645,3 +31645,11 @@
 [2015/12/24 15:18:05] @ tuxdev_ joined channel #supertux
 [2015/12/24 15:18:05] @ Quit: tuxdev_: Changing host
 [2015/12/24 15:18:05] @ tuxdev_ joined channel #supertux
+[2015/12/24 15:31:22] @ Poino joined channel #supertux
+[2015/12/24 15:31:47] <Poino> alo?
+[2015/12/24 15:32:16] <alket> alo
+[2015/12/24 15:32:43] <Poino> e.e hi
+[2015/12/24 15:33:51] <alket> hi
+[2015/12/24 15:35:53] @ Quit: Poino: Client Quit
+[2015/12/24 15:37:59] @ Quit: nerdopolis: Ping timeout: 260 seconds
+[2015/12/24 15:40:19] @ nerdopolis joined channel #supertux
