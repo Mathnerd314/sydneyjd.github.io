@@ -31158,3 +31158,9 @@
 [2015/12/23 19:33:44] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#269: WIP Level Editor - 13http://git.io/vERdG
 [2015/12/23 19:34:05] @ jesusalva joined channel #supertux
 [2015/12/23 19:37:15] @ Quit: jesusalva_BUSY: Ping timeout: 265 seconds
+[2015/12/23 19:48:04] <Karkus> maths22: Which Windows versions should 0.4.0 run on?
+[2015/12/23 19:51:15] @ Quit: jesusalva: Ping timeout: 265 seconds
+[2015/12/23 19:52:08] @ Mathnerd314 joined channel #supertux
+[2015/12/23 19:58:28] <Tobbi> Karkus: Would you be willing to take over leading the project? I know I already kind of announced it some time ago, but I really want to be busy with something else now that we've released.
+[2015/12/23 19:58:34] <Tobbi> is there anything you might need?
+[2015/12/23 19:59:51] <Karkus> Tobbi: Err
