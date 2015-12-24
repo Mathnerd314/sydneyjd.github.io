@@ -31333,3 +31333,32 @@
 [2015/12/24 07:44:05] <mt> s/send/sent/
 [2015/12/24 07:44:05] <red_bot> mt meant: "I'm synchronising with ntp1.npl.co.uk, I sent the message 09:52 UTC+1 according to my client"
 [2015/12/24 07:44:28] <Not-e81f> [02supertux] 07JMLas commented on issue 03#284: 0.4 crashes on startup on Mac OS X 10.7 - 13http://git.io/vEEjk
+[2015/12/24 07:50:44] @ Poino joined channel #supertux
+[2015/12/24 07:50:45] <Not-e81f> [02supertux] 07JMLas commented on issue 03#284: 0.4 crashes on startup on Mac OS X 10.7 - 13http://git.io/vEuek
+[2015/12/24 07:50:48] @ Tobbi joined channel #supertux
+[2015/12/24 07:50:48] @ Mode +o Tobbi by ChanServ
+[2015/12/24 07:50:55] <Poino> hi
+[2015/12/24 07:51:16] <Tobbi> hey (in case that was directed at me)
+[2015/12/24 07:51:25] <Poino> (Suppose that yes)
+[2015/12/24 07:51:49] <Poino> (IRC meeting Jan 9, 15:00 GMT |) <-- What is that?
+[2015/12/24 07:53:34] <Tobbi> Poino: what is what?
+[2015/12/24 07:53:47] <Poino> That meeting
+[2015/12/24 07:54:20] <Tobbi> we need to discuss certain things
+[2015/12/24 07:54:38] <Poino> who do u mean with "We"
+[2015/12/24 07:55:00] <Poino> devel team?
+[2015/12/24 07:55:04] <Tobbi> Poino: The team.
+[2015/12/24 07:55:07] <Tobbi> yes
+[2015/12/24 07:55:14] <Tobbi> And everyone who's interested.
+[2015/12/24 07:55:56] <Poino> *Raises his hand* Me
+[2015/12/24 07:56:55] <Poino> hey tobi
+[2015/12/24 07:57:02] <Poino> Congrats for the Supertux Milestone 2
+[2015/12/24 07:57:19] <Tobbi> Poino: Thank you. It was a huge amount of work.
+[2015/12/24 07:57:24] <mt> what's "certain things"?
+[2015/12/24 07:57:27] <Poino> It's great
+[2015/12/24 07:57:29] <Poino> Hi mt
+[2015/12/24 07:57:38] <mt> hi
+[2015/12/24 07:57:51] <Tobbi> mt: Ideas for the next version... me stepping down as "project lead".
+[2015/12/24 07:57:54] <Tobbi> Those things.
+[2015/12/24 07:59:46] <brmbrmcar> Whois steppiing up?
+[2015/12/24 07:59:52] <Poino> me
+[2015/12/24 07:59:55] <Poino> (just joking)
