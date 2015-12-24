@@ -31151,3 +31151,6 @@
 [2015/12/23 18:41:19] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-12-20 14:44:19 -0500
 [2015/12/23 18:41:24] @ Mode +nt by sinisalo.freenode.net
 [2015/12/23 18:41:32] @ Mode +o red_bot by ChanServ
+[2015/12/23 19:05:43] @ Karkus joined channel #supertux
+[2015/12/23 19:05:43] @ Mode +o Karkus by ChanServ
+[2015/12/23 19:12:29] @ Quit: leyyin__: Quit: So Long, and Thanks for All the Fish
