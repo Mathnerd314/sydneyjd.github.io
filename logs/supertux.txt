@@ -31710,3 +31710,12 @@
 [2015/12/24 16:29:19] <Not-e81f> [02supertux] 07Jacob Burroughs 03438d537 - Log stderr and stdout on windows.
 [2015/12/24 16:29:20] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98723012
 [2015/12/24 16:29:21] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/203
+[2015/12/24 16:31:12] @ Quit: nerdopolis: Read error: Connection reset by peer
+[2015/12/24 16:31:58] @ nerdopolis joined channel #supertux
+[2015/12/24 16:34:28] <Not-e81f> [02supertux] 07maths22 commented on issue 03#290: Windows doesn't record stdout output - 13http://git.io/vEzX9
+[2015/12/24 16:34:34] <Not-e81f> [02supertux] 07maths22 commented on issue 03#289: Bad savegame location on Windows - 13http://git.io/vEzXH
+[2015/12/24 16:34:49] @ Quit: Hume2: Quit: Page closed
+[2015/12/24 16:35:12] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98722796
+[2015/12/24 16:39:04] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98722614
+[2015/12/24 16:39:06] <Not-e81f> [02supertux] 07maths22 commented on issue 03#285: SuperTux 0.4 can't run - 13http://git.io/vEz1I
+[2015/12/24 16:41:46] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/201
