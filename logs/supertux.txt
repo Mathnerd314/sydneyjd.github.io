@@ -31198,3 +31198,4 @@
 [2015/12/23 20:07:14] <Karkus> Tobbi: Ah, okay.
 [2015/12/23 20:07:25] <Tobbi> Since it's a subdirectory, it should update supertux.github.io
 [2015/12/23 20:07:39] <Karkus> That's cool
+[2015/12/23 20:18:33] <Not-e81f> [02supertux] 07Mathnerd314 commented on issue 03#244: Interesting feedback on the mailing list - 13http://git.io/vERhU
