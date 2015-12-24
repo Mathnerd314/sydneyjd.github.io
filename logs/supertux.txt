@@ -31620,3 +31620,6 @@
 [2015/12/24 13:24:22] @ Topic set by Tobbi!~tobbi@unaffiliated/tobbi on 2015-12-23 20:02:29 -0500
 [2015/12/24 13:24:26] @ Mode +nt by kornbluth.freenode.net
 [2015/12/24 13:24:35] @ Mode +o red_bot by ChanServ
+[2015/12/24 13:34:46] @ brmbrmcar joined channel #supertux
+[2015/12/24 13:38:11] @ Karkus joined channel #supertux
+[2015/12/24 13:38:13] @ Mode +o Karkus by ChanServ
