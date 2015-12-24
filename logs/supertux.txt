@@ -31490,3 +31490,22 @@
 [2015/12/24 09:10:30] <Tobbi> Did brmbrmcar leave for good?
 [2015/12/24 09:11:10] <Tobbi> Wonder if he'll ever return...
 [2015/12/24 09:11:36] <mt> you never know that, it's brmbrmcar
+[2015/12/24 09:16:56] <Tobbi> You're right.
+[2015/12/24 09:17:15] @ brmbrmcar joined channel #supertux
+[2015/12/24 09:17:18] <brmbrmcar> Boo!
+[2015/12/24 09:17:19] <Tobbi> Yes, he does.
+[2015/12/24 09:17:22] <Tobbi> And he reads the logs.
+[2015/12/24 09:17:29] <Tobbi> I wish I hadn't said anything.
+[2015/12/24 09:17:47] <Tobbi> brmbrmcar: Can't you act NORMAL...just for one day?
+[2015/12/24 09:18:02] <Tobbi> Makes it easier...
+[2015/12/24 09:18:10] <Tobbi> to deal with you, I mean.
+[2015/12/24 09:18:14] <Tobbi> Otherwise, I might one day ban you.
+[2015/12/24 09:19:22] <Tobbi> mt: Ever watched "Die Feuerzangenbowle"?
+[2015/12/24 09:19:25] <Tobbi> I just watched it on ARD.
+[2015/12/24 09:19:30] <Tobbi> eeh "Das Erste"
+[2015/12/24 09:20:04] <mt> I watched it, it was played by the theater group I'm now helping with sound and lightning
+[2015/12/24 09:21:08] <Tobbi> Ah, okay.
+[2015/12/24 09:22:04] <Tobbi> 70 years old.
+[2015/12/24 09:28:01] <Tobbi> Okay, good bye now.
+[2015/12/24 09:28:04] @ Quit: Tobbi: 
+[2015/12/24 09:28:12] @ Quit: brmbrmcar: Quit: Found terminal
