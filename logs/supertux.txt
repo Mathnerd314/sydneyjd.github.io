@@ -31453,3 +31453,5 @@
 [2015/12/24 08:54:55] @ Quit: Hume2: Quit: Page closed
 [2015/12/24 08:57:48] @ Quit: lumidify: Quit: Leaving
 [2015/12/24 08:58:08] @ Quit: Poino: Quit: Page closed
+[2015/12/24 08:59:59] <head8debian> ~time America/Detroit
+[2015/12/24 08:59:59] <red_bot> head8debian: America - Detroit - Thu Dec 24 08:59 EST
