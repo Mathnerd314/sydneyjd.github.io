@@ -31223,3 +31223,4 @@
 [2015/12/23 23:31:58] <Not-e81f> [02supertux] 07yinseny starred 03supertux - 13http://git.io/vE0ue
 [2015/12/23 23:52:24] <Not-e81f> [02supertux] 07audsil starred 03supertux - 13http://git.io/vE0ar
 [2015/12/24 00:32:56] <Not-e81f> [02supertux] 07juangl starred 03supertux - 13http://git.io/vE061
+[2015/12/24 01:42:46] @ DusXMT left channel #supertux ()
