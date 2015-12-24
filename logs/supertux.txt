@@ -31154,3 +31154,7 @@
 [2015/12/23 19:05:43] @ Karkus joined channel #supertux
 [2015/12/23 19:05:43] @ Mode +o Karkus by ChanServ
 [2015/12/23 19:12:29] @ Quit: leyyin__: Quit: So Long, and Thanks for All the Fish
+[2015/12/23 19:30:30] @ jesusalva_BUSY joined channel #supertux
+[2015/12/23 19:33:44] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#269: WIP Level Editor - 13http://git.io/vERdG
+[2015/12/23 19:34:05] @ jesusalva joined channel #supertux
+[2015/12/23 19:37:15] @ Quit: jesusalva_BUSY: Ping timeout: 265 seconds
