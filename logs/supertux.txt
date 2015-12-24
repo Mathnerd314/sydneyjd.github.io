@@ -31432,3 +31432,24 @@
 [2015/12/24 08:39:36] @ brmbrmcar left channel #supertux ()
 [2015/12/24 08:41:00] <Poino> :S
 [2015/12/24 08:43:22] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/24 08:46:51] <head8debian> mt: Yeah, figures.
+[2015/12/24 08:48:15] <head8debian> Well, i don't really care either.
+[2015/12/24 08:48:19] <head8debian> ~time
+[2015/12/24 08:48:19] <red_bot> head8debian: I don't know where you are, use ~time set <Continent>/<City> to let me know
+[2015/12/24 08:48:39] <head8debian> ~time USA detroit
+[2015/12/24 08:48:39] <red_bot> head8debian: unintelligible time
+[2015/12/24 08:48:48] <head8debian> ~time northamerica detroit
+[2015/12/24 08:48:48] <red_bot> head8debian: unintelligible time
+[2015/12/24 08:48:54] <mt> it's America/Detroit
+[2015/12/24 08:49:00] <head8debian> mt: Ah.
+[2015/12/24 08:49:09] <head8debian> ~time America/Detroit
+[2015/12/24 08:49:09] <red_bot> head8debian: America - Detroit - Thu Dec 24 08:49 EST
+[2015/12/24 08:49:32] <head8debian> Wow, that is about 3 mins off from my other machines...
+[2015/12/24 08:49:57] <mt> also off from http://time.gov/
+[2015/12/24 08:50:56] <head8debian> mt: My server must need a time update. My desktop is spot on.
+[2015/12/24 08:51:18] <mt> head8debian: I'd recommend enabling ntp, as you're in the us you can use on of the NIST servers: http://tf.nist.gov/tf-cgi/servers.cgi
+[2015/12/24 08:51:37] <head8debian> mt: I use NTP on my laptop and desktop, otherwise i have issues. :)
+[2015/12/24 08:52:18] <head8debian> I will take a look later.
+[2015/12/24 08:54:55] @ Quit: Hume2: Quit: Page closed
+[2015/12/24 08:57:48] @ Quit: lumidify: Quit: Leaving
+[2015/12/24 08:58:08] @ Quit: Poino: Quit: Page closed
