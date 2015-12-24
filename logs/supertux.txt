@@ -31362,3 +31362,18 @@
 [2015/12/24 07:59:46] <brmbrmcar> Whois steppiing up?
 [2015/12/24 07:59:52] <Poino> me
 [2015/12/24 07:59:55] <Poino> (just joking)
+[2015/12/24 08:00:57] <Tobbi> brmbrmcar: You can certainly lead the project if you want.
+[2015/12/24 08:01:11] <Tobbi> I don't care about a drastic decrease in quality any longer.
+[2015/12/24 08:01:30] <Poino> why you step out?
+[2015/12/24 08:02:02] <brmbrmcar> Oh no!
+[2015/12/24 08:02:32] <Tobbi> Poino: Because it was extremely stressful leading this project.
+[2015/12/24 08:03:04] <Poino> oh, i see
+[2015/12/24 08:03:25] <Tobbi> And I'm not *that* happy with the outcome. There are still quite some bugs...
+[2015/12/24 08:03:30] <Tobbi> Things we didn't see...
+[2015/12/24 08:05:14] <brmbrmcar> What does leading the project involove?
+[2015/12/24 08:05:48] <Tobbi> brmbrmcar: First prerequisite: Not being you.
+[2015/12/24 08:05:56] <Tobbi> Second: Managing most things.
+[2015/12/24 08:06:15] <Tobbi> Planning releases, features, finding out what things are suitable...
+[2015/12/24 08:06:40] <brmbrmcar> Ah.OK...
+[2015/12/24 08:12:32] <mt> oh no
+[2015/12/24 08:12:37] <mt> brmbrmcar as supertux lead
