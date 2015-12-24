@@ -31205,3 +31205,6 @@
 [2015/12/23 20:39:39] <Not-e81f> [02supertux] 07zugwan starred 03supertux - 13http://git.io/vE0eN
 [2015/12/23 20:50:09] <Not-e81f> [02supertux] 07jiawe starred 03supertux - 13http://git.io/vE0fK
 [2015/12/23 20:55:28] @ Quit: maths22: Ping timeout: 240 seconds
+[2015/12/23 21:00:08] @ jesusalva joined channel #supertux
+[2015/12/23 21:02:06] @ Quit: Tobbi: 
+[2015/12/23 21:06:29] @ Quit: jesusalva: Ping timeout: 276 seconds
