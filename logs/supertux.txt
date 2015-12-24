@@ -31642,3 +31642,6 @@
 [2015/12/24 14:58:42] * jesusalva goes to play SUBMACHINE10.
 [2015/12/24 15:00:41] <head8debian> Heh, then we differ. :D
 [2015/12/24 15:14:25] @ claymore2 joined channel #supertux
+[2015/12/24 15:18:05] @ tuxdev_ joined channel #supertux
+[2015/12/24 15:18:05] @ Quit: tuxdev_: Changing host
+[2015/12/24 15:18:05] @ tuxdev_ joined channel #supertux
