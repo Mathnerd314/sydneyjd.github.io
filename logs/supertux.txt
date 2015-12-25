@@ -32147,3 +32147,7 @@
 [2015/12/25 16:58:55] <mt> mteufel
 [2015/12/25 16:59:07] <maths22> mt: I think I found the discussion (I prefer without the org-I was just researching for curiousity) http://forums.libsdl.org/viewtopic.php?t=9420&highlight=GetPrefPath
 [2015/12/25 16:59:32] <mt> "---Insert Cutscene Here---" where's that :D
+[2015/12/25 17:01:34] <mt> hah 071c31e7 (Marek Moeckel   2005-09-25 23:55:41 +0000 16)   Text.set_text(translate("---Insert Cutscene Here---"));
+[2015/12/25 17:04:34] <kneekoo> wow, the source is big in this one!
+[2015/12/25 17:09:10] @ tux|dude joined channel #supertux
+[2015/12/25 17:11:36] @ Mathnerd314 joined channel #supertux
