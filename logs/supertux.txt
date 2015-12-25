@@ -32166,3 +32166,5 @@
 [2015/12/25 17:57:02] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98817748
 [2015/12/25 18:01:26] @ Quit: Karkus: Ping timeout: 272 seconds
 [2015/12/25 18:04:23] <giby> head8debian, right now I'm in britany :p Still in France, independents failed in elections :p
+[2015/12/25 18:23:43] @ Karkus joined channel #supertux
+[2015/12/25 18:23:43] @ Mode +o Karkus by ChanServ
