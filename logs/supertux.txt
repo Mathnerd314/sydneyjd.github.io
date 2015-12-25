@@ -31810,3 +31810,9 @@
 [2015/12/25 09:44:33] <Hume2> Yes.
 [2015/12/25 09:44:44] <mt> if you want a better version of the very-long-level-project: write a script that endlessly generates new tiles
 [2015/12/25 09:44:57] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98778979
+[2015/12/25 09:45:12] <Hume2> :D
+[2015/12/25 09:45:50] <Hume2> brmbrmcar: Want to test my insane long level? https://www.dropbox.com/s/f9jv8s4ub8ve71o/level1.stl?dl=0
+[2015/12/25 09:46:11] <Hume2> mt: I haven't finished it myself :P
+[2015/12/25 09:47:39] <Hume2> And now don't distrub, I'll be testing it.
+[2015/12/25 09:49:10] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/205
+[2015/12/25 09:57:21] <Not-e81f> [02supertux] 07wjybluse starred 03supertux - 13http://git.io/vE2Nf
