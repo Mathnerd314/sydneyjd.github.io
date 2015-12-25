@@ -31867,3 +31867,20 @@
 [2015/12/25 11:33:00] <Not-e81f> [02supertux] 07ahui starred 03supertux - 13http://git.io/vEaYN
 [2015/12/25 11:34:39] <mt> if everyone who's starred the repo since the 0.4.0 release would contribute we'd be at 0.5.0 in no time
 [2015/12/25 11:39:07] <jesusalva> mt: Advert.
+[2015/12/25 12:04:07] <maths22> mt: I realized my solution doesn't quite work for migrating the pref dirs-the SDL function automatically creates the directory
+[2015/12/25 12:04:14] <maths22> Therefore, renaming always fails
+[2015/12/25 12:07:02] <mt> also, https://github.com/SuperTux/supertux/issues/289#issuecomment-167172560
+[2015/12/25 12:07:10] <mt> XDG_DATA_HOME/Supertux/supertux2
+[2015/12/25 12:07:13] <mt> seriously?
+[2015/12/25 12:09:11] <jesusalva> mt: Why don't you put a "Did you liked the game? Contact us! irc.freenode.net/#supertux" or a weblink. Although some people doesn't know how to code, code isn't everything about the game, right? :)
+[2015/12/25 12:09:27] * jesusalva thinks it was already done, but...
+[2015/12/25 12:10:15] <jesusalva> "We recruit skill-less players interested on developing" -- Because no one is skill-less.
+[2015/12/25 12:11:49] @ lumidify1 is now known as lumidify
+[2015/12/25 12:12:07] @ Quit: lumidify: Quit: Leaving
+[2015/12/25 12:12:31] @ lumidify joined channel #supertux
+[2015/12/25 12:12:41] <mt> well in the credits the irc channel is mentioned
+[2015/12/25 12:12:46] <mt> as is the website and the forum
+[2015/12/25 12:13:00] <mt> https://github.com/facebook/mention-bot :D
+[2015/12/25 12:13:18] <Hume2> They can design some levels for example.
+[2015/12/25 12:13:44] <mt> Tobbi should post a tweet about contributing
+[2015/12/25 12:13:54] <mt> or does someone else also have access to twitter?
