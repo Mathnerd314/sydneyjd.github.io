@@ -31928,3 +31928,26 @@
 [2015/12/25 12:42:33] <mt> well what's it for then?
 [2015/12/25 12:42:40] <maths22> Sorry-it does-the comments are bad
 [2015/12/25 12:43:05] <maths22> I'll think about this later
+[2015/12/25 12:45:23] @ lumidify joined channel #supertux
+[2015/12/25 12:45:30] <Karkus> mt: Will I be able to add you to twitter?
+[2015/12/25 12:45:52] <mt> probably yes if you're using TweetDeck
+[2015/12/25 12:47:55] <Karkus> mt: We are.
+[2015/12/25 12:48:05] <Karkus> mt: Do you have Twitter?
+[2015/12/25 12:48:09] <mt> yes
+[2015/12/25 12:48:37] <mt> You'll be able to spot me in the followers list
+[2015/12/25 12:50:20] <Karkus> mt: I trust you'll be responsible :D
+[2015/12/25 12:50:23] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98793944
+[2015/12/25 12:52:55] <Hume2> What do you think about the enemies? Do we have enough enemies for both worlds or there should be more?
+[2015/12/25 12:53:18] <Karkus> mt: I'm not sure how to do this. Is it possible Tobbi hasn't allowed me to?#
+[2015/12/25 12:53:29] <mt> possible
+[2015/12/25 12:53:36] <mt> you need to be a team admin or owner
+[2015/12/25 12:54:50] <mt> Hume2: there were some more and less interesting ideas on http://supertux.lethargik.org/wiki/Milestone_3_Design_Document
+[2015/12/25 12:55:50] <Hume2> May i say here my opinion on each of them right now or it is unappropriate now?
+[2015/12/25 12:55:57] <mt> works for me
+[2015/12/25 12:56:17] <Karkus> mt: I've added you as a contributor, I think.
+[2015/12/25 12:56:48] <mt> Karkus: yep
+[2015/12/25 12:56:50] <Karkus> Hume2: I don't see why not.
+[2015/12/25 12:57:50] @ Quit: giby: Ping timeout: 260 seconds
+[2015/12/25 12:57:57] <Hume2> Well, Granito, it's basalt! However idea might be good.
+[2015/12/25 12:58:29] <Hume2> It seems to fit more to the tropical island, but idea is good.
+[2015/12/25 12:59:38] <Hume2> i think he can't guide Tux, because he's so big, so he couldn't move in the terrain properly.
