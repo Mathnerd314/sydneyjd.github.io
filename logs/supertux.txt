@@ -31840,3 +31840,8 @@
 [2015/12/25 10:51:52] <mt> You should actually make more shorter levels, really. Some that could be used for in-between in the new story or for forest world.
 [2015/12/25 10:53:31] @ grumbel joined channel #supertux
 [2015/12/25 10:53:31] @ Mode +o grumbel by ChanServ
+[2015/12/25 11:13:04] <Karkus> Hume2: Can you create a level generator scripting interface? (= infinite length levels :D)
+[2015/12/25 11:13:14] <Karkus> That would be cool
+[2015/12/25 11:13:21] <Karkus> But maybe difficult :D
+[2015/12/25 11:14:20] <mt> I already proposed that.
+[2015/12/25 11:14:50] <Karkus> mt: When?
