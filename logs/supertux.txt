@@ -31824,3 +31824,11 @@
 [2015/12/25 10:24:01] <Not-e81f> [02supertux] 07maths22 reviewed pull request 03#294 commit - 13http://git.io/vE2jD
 [2015/12/25 10:27:45] @ lumidify1 joined channel #supertux
 [2015/12/25 10:28:56] @ Quit: lumidify: Ping timeout: 255 seconds
+[2015/12/25 10:38:03] <Karkus> mt: You are probably the best candidate for project lead now, because Tobbi doesn't want to be any more.
+[2015/12/25 10:38:27] <mt> Maybe.
+[2015/12/25 10:38:31] @ tuxdev_ joined channel #supertux
+[2015/12/25 10:38:56] <mt> However I'd move away from this: this is the person that decides everything
+[2015/12/25 10:39:34] <mt> everyone contributes as much as they want, and if their contributions are good, they get more privileges on github
+[2015/12/25 10:39:41] <Karkus> mt: I agree, but in the end that's the best way to get decisions made. Of course, we are a democracy.
+[2015/12/25 10:40:01] <Karkus> So we have votes etc.
+[2015/12/25 10:40:15] <Karkus> But a project leader is handy, for a final say.
