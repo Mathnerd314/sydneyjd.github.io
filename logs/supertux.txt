@@ -32097,3 +32097,28 @@
 [2015/12/25 16:28:19] <maths22> I'll switch to the physfs version
 [2015/12/25 16:28:23] <Not-e81f> [02supertux] 07boaglio starred 03supertux - 13http://git.io/vEV3b
 [2015/12/25 16:29:13] <maths22> The strangeness reflects this commit https://hg.libsdl.org/SDL/annotate/62f562a475e1/src/filesystem/unix/SDL_sysfilesystem.c#l188
+[2015/12/25 16:30:05] <mt> "Even if that's not the general convention for a given platform. " great reasoning 10/10
+[2015/12/25 16:30:41] <kneekoo> what's the easiest way to test my translation on Linux? (existing build vs compilation)
+[2015/12/25 16:31:22] <mt> sadly I don't know how to build a language pack, that would work with an existing build
+[2015/12/25 16:31:44] <kneekoo> that's my problem
+[2015/12/25 16:31:53] <kneekoo> is there a package for 0.4.0
+[2015/12/25 16:31:54] <kneekoo> ?
+[2015/12/25 16:32:02] <kneekoo> it would be easier than compiling
+[2015/12/25 16:32:14] <mt> you could download your .po files and place them in the appropriate data/ directories and then compile
+[2015/12/25 16:32:41] <Karkus> maths22: Are Linux nightlies working yet by the way?
+[2015/12/25 16:33:04] <kneekoo> I was hoping for an easier way - I don't like compiling :(
+[2015/12/25 16:33:20] <mt> no, they seem to be stuck at that old commit
+[2015/12/25 16:33:38] <mt> kneekoo: what OS/distro are you using?
+[2015/12/25 16:34:11] <kneekoo> Mint MATE 17.3, 32-bit - based on Ubuntu 14.04
+[2015/12/25 16:34:56] <mt> well you could try mixing in packages from Ubuntu 16.04, but you should only do that if you know what you're doing
+[2015/12/25 16:36:29] <maths22> Karkus: not yet
+[2015/12/25 16:36:33] <kneekoo> so 0.4.0 needs newer libraries, unavailable in 14.04?
+[2015/12/25 16:37:28] <maths22> mt: I agree it's silly.  Oddly, the author is the same as the physfs author, and he didn't make that change there
+[2015/12/25 16:40:21] <giby> Sorry kneekoo I was away
+[2015/12/25 16:40:38] <kneekoo> man, I got scared... I thought something happened with the Romanian locale on Transifex because I can no longer select it from the "Join team" list
+[2015/12/25 16:40:52] <kneekoo> welcome back, giby! :)
+[2015/12/25 16:41:47] <giby> I do not have your application...
+[2015/12/25 16:41:53] <giby> https://www.transifex.com/arctic-games/teams/95/ro/
+[2015/12/25 16:42:27] <giby> With Tx, you don't have to care about the coding...  it is automated
+[2015/12/25 16:42:57] <mt> giby: how does it actually work?
+[2015/12/25 16:44:42] <kneekoo> giby: I applied here: https://www.transifex.com/arctic-games/supertux
