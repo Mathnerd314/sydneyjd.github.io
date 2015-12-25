@@ -32049,3 +32049,8 @@
 [2015/12/25 14:22:46] @ Mode +o Karkus by ChanServ
 [2015/12/25 14:31:03] @ Quit: Hume2: Quit: Page closed
 [2015/12/25 14:48:11] @ Quit: Karkus: Ping timeout: 260 seconds
+[2015/12/25 15:13:24] @ ronick joined channel #supertux
+[2015/12/25 15:13:32] <ronick> Merry Christmas! ^_^
+[2015/12/25 15:13:43] <ronick> I just applied as a translator on Transifex
+[2015/12/25 15:13:57] <ronick> thanks for the new stable release! :)
+[2015/12/25 15:14:52] @ ronick is now known as kneekoo
