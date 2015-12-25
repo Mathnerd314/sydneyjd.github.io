@@ -31791,3 +31791,22 @@
 [2015/12/25 09:17:04] <mt> ~note Hume2 what for is that level?
 [2015/12/25 09:17:04] <red_bot> can do, mt
 [2015/12/25 09:25:24] @ brmbrmcar joined channel #supertux
+[2015/12/25 09:31:02] <Not-e81f> [02supertux] 07maths22 deleted branch 03cpack-source - 13http://git.io/vvf63
+[2015/12/25 09:31:03] <Not-e81f> [02supertux] 07maths22 deleted branch 03cpack-source
+[2015/12/25 09:31:51] <Not-e81f> [02supertux] 07maths22 opened pull request 03#294: Improved userdir handling; force windows logging to default userdir - 13http://git.io/vE2HH
+[2015/12/25 09:31:52] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98778979
+[2015/12/25 09:31:55] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/205
+[2015/12/25 09:32:11] <Not-e81f> [02supertux] 07maths22 assigned pull request 03#294: Improved userdir handling; force windows logging to default userdir - 13http://git.io/vE2HH
+[2015/12/25 09:32:49] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98778979
+[2015/12/25 09:37:23] <Not-e81f> [02supertux] 07maxteufel reviewed pull request 03#294 commit - 13http://git.io/vE27k
+[2015/12/25 09:42:07] @ Hume2 joined channel #supertux
+[2015/12/25 09:42:08] @ Mode +v Hume2 by ChanServ
+[2015/12/25 09:42:59] <Hume2> mt: It's a SuperTux level :D
+[2015/12/25 09:42:59] <red_bot> Hume2, you have notes! [Dec-25 09:17] <mt> what for is that level?
+[2015/12/25 09:43:18] <mt> like, who'd play a level that long
+[2015/12/25 09:43:28] <Hume2> I don't know, me?
+[2015/12/25 09:43:39] <mt> better project: concatenate all icyisland levels
+[2015/12/25 09:44:03] <mt> even better project: design a new forest world map
+[2015/12/25 09:44:33] <Hume2> Yes.
+[2015/12/25 09:44:44] <mt> if you want a better version of the very-long-level-project: write a script that endlessly generates new tiles
+[2015/12/25 09:44:57] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98778979
