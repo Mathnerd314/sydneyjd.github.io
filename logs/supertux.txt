@@ -32157,3 +32157,10 @@
 [2015/12/25 17:43:07] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98817748
 [2015/12/25 17:43:09] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/207
 [2015/12/25 17:44:03] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98817748
+[2015/12/25 17:49:02] <head8debian> giby: Northern lights are cool to see. We rarely see them here.
+[2015/12/25 17:49:24] <giby> Well, I spent few years in Iceland
+[2015/12/25 17:49:34] <head8debian> giby: :)
+[2015/12/25 17:49:40] <head8debian> giby: Sounds icy. :p
+[2015/12/25 17:52:02] <head8debian> giby: You are in France right now, right?
+[2015/12/25 17:56:47] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/207
+[2015/12/25 17:57:02] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98817748
