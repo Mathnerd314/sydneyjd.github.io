@@ -31749,3 +31749,4 @@
 [2015/12/25 03:41:24] <mt> hello
 [2015/12/25 03:43:33] @ tux|dude joined channel #supertux
 [2015/12/25 04:28:05] <snadge> i finished the forest level :D
+[2015/12/25 04:41:23] @ Quit: tux|dude: Quit: Leaving
