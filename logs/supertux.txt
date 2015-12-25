@@ -31989,3 +31989,19 @@
 [2015/12/25 13:08:55] <mt> That and possibly hide some only one-time-collectable items in secret areas that can be exchanged for more valuable powerups
 [2015/12/25 13:10:27] <Hume2> That sounds interrasting.
 [2015/12/25 13:11:50] @ Quit: Karkus: Ping timeout: 260 seconds
+[2015/12/25 13:18:17] @ Quit: lumidify: Quit: Leaving
+[2015/12/25 13:20:00] <Not-e81f> [02supertux] 07Hume2 edited page 03Home - 13http://git.io/vJZfg
+[2015/12/25 13:20:30] <mt> (weird things happen when you force-push the wiki)
+[2015/12/25 13:22:26] <Hume2> I didn't edited that now, strange.
+[2015/12/25 13:22:43] <mt> yes it's because I force-pushed the wiki repository
+[2015/12/25 13:22:58] <mt> I sometimes squash and reword some commits in there
+[2015/12/25 13:23:12] <giby> +v for a milestone 3 document, we need... to wait for the meeting, no'
+[2015/12/25 13:23:31] <mt> (yes the wiki is a git repo: https://github.com/SuperTux/supertux.wiki.git)
+[2015/12/25 13:23:59] <giby> wrong address
+[2015/12/25 13:25:03] <Hume2> I think that the most of the Milestone 3 design document will be scrapped during the meeting.
+[2015/12/25 13:26:01] <mt> yeah
+[2015/12/25 13:26:08] <mt> by updating I basically mean writing from scratch what's been discussed after the 0.4.0 release
+[2015/12/25 13:26:15] <mt> in regards to gameplay
+[2015/12/25 13:28:52] <Hume2> For bosses it's usual that they have two different attacks. That's why the totem seems me a bit weird.
+[2015/12/25 13:29:37] <mt> yeah
+[2015/12/25 13:30:00] <mt> however, each segment having a special ability is a nice idea
