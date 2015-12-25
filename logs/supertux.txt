@@ -31727,3 +31727,7 @@
 [2015/12/24 17:50:57] @ Quit: Karkus: Quit: Division By Zero
 [2015/12/24 18:11:34] <Not-e81f> [02supertux] 07pazkero commented on issue 03#292: SuperTux Team Meeting Jan 9 2016 - 13http://git.io/vEzAu
 [2015/12/24 18:19:50] @ tux|dude joined channel #supertux
+[2015/12/24 19:07:34] <Not-e81f> [02supertux] 07watchmakerful commented on issue 03#285: SuperTux 0.4 can't run - 13http://git.io/vEgeB
+[2015/12/24 19:08:41] @ Quit: tux|dude: Ping timeout: 255 seconds
+[2015/12/24 19:09:54] @ tuxdude143_ joined channel #supertux
+[2015/12/24 19:12:12] <Not-e81f> [02supertux] 07watchmakerful commented on issue 03#285: SuperTux 0.4 can't run - 13http://git.io/vEge7
