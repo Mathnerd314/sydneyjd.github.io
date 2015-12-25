@@ -31763,3 +31763,8 @@
 [2015/12/25 05:58:56] @ giby joined channel #supertux
 [2015/12/25 05:58:56] @ Mode +o giby by ChanServ
 [2015/12/25 05:59:09] <Not-e81f> [02supertux] 07vitordangelo starred 03supertux - 13http://git.io/vE2Gv
+[2015/12/25 06:04:04] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98764268
+[2015/12/25 06:05:24] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/204
+[2015/12/25 06:09:59] <Not-e81f> [02supertux] 07maxteufel pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vE2ZH
+[2015/12/25 06:10:00] <Not-e81f> [02supertux] 07Shreyas Iyer 036139cb9 - README: fix typo mentioning 10 GHz as CPU requirement
+[2015/12/25 06:10:02] <Not-e81f> [02supertux] 07maxteufel closed pull request 03#293: Fixed the typo. (1 GHz instead of 10 GHz) - 13http://git.io/vE23V
