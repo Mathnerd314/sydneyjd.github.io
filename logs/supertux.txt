@@ -32122,3 +32122,28 @@
 [2015/12/25 16:42:27] <giby> With Tx, you don't have to care about the coding...  it is automated
 [2015/12/25 16:42:57] <mt> giby: how does it actually work?
 [2015/12/25 16:44:42] <kneekoo> giby: I applied here: https://www.transifex.com/arctic-games/supertux
+[2015/12/25 16:45:13] <mt> giby: also, do you have the permission to change the name of the "Menu principale" to "Main menu" a) it's french b) it's wrong
+[2015/12/25 16:45:37] <kneekoo> yes, that's really weird
+[2015/12/25 16:47:34] <giby> Yes... unless Tobbi used that in a script to make language pack...
+[2015/12/25 16:47:58] <giby> kneekoo, Go forth
+[2015/12/25 16:48:59] <kneekoo> thank you :)
+[2015/12/25 16:48:59] <giby> I put you admin for Romanian: Now you are in charge of accepting other translators for that language ;)
+[2015/12/25 16:49:15] <kneekoo> I still have the "Join team" button, don't know why
+[2015/12/25 16:49:20] <kneekoo> ok, thank you
+[2015/12/25 16:49:29] <kneekoo> but if I have time I will finish everything :P
+[2015/12/25 16:49:30] <giby> You just have to check if there are reliable
+[2015/12/25 16:49:58] <kneekoo> I know, thank you
+[2015/12/25 16:50:07] <mt> giby: can you also add me to the maintainers?
+[2015/12/25 16:50:26] <giby> which language?
+[2015/12/25 16:51:27] <mt> for everything I guess
+[2015/12/25 16:52:52] <mt> idea: add aurorae australis to some levels
+[2015/12/25 16:53:37] <giby> Oh... I put kneekoo admin of Romanian team only... you said "also" so I was thinking you were asking that too
+[2015/12/25 16:54:29] <giby> mt: I suggested aurorae borealis many time... put it had no idea about how to do it
+[2015/12/25 16:54:41] <giby> mt, what is your native language?
+[2015/12/25 16:54:44] <mt> German
+[2015/12/25 16:55:00] <mt> australis = south; borealis = north fyi
+[2015/12/25 16:57:39] <giby> I know... but I have seen a lot of northern lights, never seen any southern light
+[2015/12/25 16:58:48] <giby> mt, what is your tx nickname?
+[2015/12/25 16:58:55] <mt> mteufel
+[2015/12/25 16:59:07] <maths22> mt: I think I found the discussion (I prefer without the org-I was just researching for curiousity) http://forums.libsdl.org/viewtopic.php?t=9420&highlight=GetPrefPath
+[2015/12/25 16:59:32] <mt> "---Insert Cutscene Here---" where's that :D
