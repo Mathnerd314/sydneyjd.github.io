@@ -32037,3 +32037,8 @@
 [2015/12/25 13:54:59] * Karkus is afk
 [2015/12/25 13:55:42] @ Drangue is now known as alket
 [2015/12/25 13:59:29] @ Quit: Karkus: Ping timeout: 246 seconds
+[2015/12/25 14:00:10] <Hume2> mt: I think that the icefloe-land is useless. Maybe Tux can obtain an icefloe at the shores of icy island and get to the forest island. The icefloe melts near the shores of forest island, so Tux can't use it anymore.
+[2015/12/25 14:01:48] <mt> yeah
+[2015/12/25 14:02:03] <mt> it was proposed to change this to a raft btw
+[2015/12/25 14:06:38] @ Quit: jesusalva: Quit: Good bye, God bless you.
+[2015/12/25 14:11:04] <Not-e81f> [02supertux] 07pelya commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vEaST
