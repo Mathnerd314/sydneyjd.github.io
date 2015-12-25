@@ -32168,3 +32168,7 @@
 [2015/12/25 18:04:23] <giby> head8debian, right now I'm in britany :p Still in France, independents failed in elections :p
 [2015/12/25 18:23:43] @ Karkus joined channel #supertux
 [2015/12/25 18:23:43] @ Mode +o Karkus by ChanServ
+[2015/12/25 18:32:41] @ Quit: Karkus: Quit: Division By Zero
+[2015/12/25 18:38:33] @ jesusalva joined channel #supertux
+[2015/12/25 18:42:06] @ Karkus joined channel #supertux
+[2015/12/25 18:42:07] @ Mode +o Karkus by ChanServ
