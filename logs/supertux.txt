@@ -32152,3 +32152,8 @@
 [2015/12/25 17:09:10] @ tux|dude joined channel #supertux
 [2015/12/25 17:11:36] @ Mathnerd314 joined channel #supertux
 [2015/12/25 17:23:59] @ stewboy joined channel #supertux
+[2015/12/25 17:43:05] <Not-e81f> [02supertux] 07Karkus476 pushed 031 commit to 03master [+0/-0/±5] 13http://git.io/vEVRT
+[2015/12/25 17:43:06] <Not-e81f> [02supertux] 07Karkus 030ea80d4 - Added --spawn-pos command line argument
+[2015/12/25 17:43:07] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98817748
+[2015/12/25 17:43:09] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/207
+[2015/12/25 17:44:03] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98817748
