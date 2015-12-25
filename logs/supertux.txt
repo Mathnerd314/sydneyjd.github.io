@@ -31788,3 +31788,6 @@
 [2015/12/25 08:59:47] <Hume2> Too laggy?
 [2015/12/25 09:00:25] <Hume2> Oh, sorry, I just didn't understand.
 [2015/12/25 09:01:35] @ Quit: Hume2: Quit: Page closed
+[2015/12/25 09:17:04] <mt> ~note Hume2 what for is that level?
+[2015/12/25 09:17:04] <red_bot> can do, mt
+[2015/12/25 09:25:24] @ brmbrmcar joined channel #supertux
