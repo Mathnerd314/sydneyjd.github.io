@@ -31887,3 +31887,44 @@
 [2015/12/25 12:21:39] @ Quit: lumidify: Ping timeout: 265 seconds
 [2015/12/25 12:22:28] @ lumidify joined channel #supertux
 [2015/12/25 12:23:49] @ Quit: lumidify: Client Quit
+[2015/12/25 12:31:28] <maths22> mt: Actually, "$XDG_DATA_HOME/SuperTux/supertux2", but that is kind of a necessary convention to follow
+[2015/12/25 12:31:37] <Karkus> mt: I have access to twitter
+[2015/12/25 12:31:40] <maths22> It allows for more logical cross-platform consistency
+[2015/12/25 12:31:49] <mt> maths22: I know it's $XDG_DATA_HOME
+[2015/12/25 12:31:55] <mt> but, SuperTux/supertux2
+[2015/12/25 12:32:13] <maths22> Tee fix was the capitalization :)
+[2015/12/25 12:32:18] <maths22> s/Tee/the/
+[2015/12/25 12:32:18] <red_bot> maths22 meant: "the fix was the capitalization :)"
+[2015/12/25 12:32:27] <mt> ah
+[2015/12/25 12:32:31] <Karkus> Hume2: Do you have access to Twitter?
+[2015/12/25 12:33:14] <mt> but seriously now, I've never seen a tool using $tool_capitalized_correctly/$tool_lower_case$tool_version in $XDG_DATA_HOME
+[2015/12/25 12:33:43] <mt> is that even following the XDG spec? At least not in the way it was intended.
+[2015/12/25 12:33:47] <Hume2> Karkus: No, I don't.
+[2015/12/25 12:34:15] <Karkus> Hume2: Ah, so it was Tobbi who tweeted about the forest world contest?
+[2015/12/25 12:34:23] <mt> yes I told him to do so
+[2015/12/25 12:34:40] <Hume2> Karkus: i don't use twitter, so that's it.
+[2015/12/25 12:34:59] <Karkus> Hume2: Nor did I, until I joined for the purpose of st
+[2015/12/25 12:35:04] <mt> you might want to append some sign to the tweets, like ^t for Tobbi and ^k for Karkus
+[2015/12/25 12:35:50] <mt> So yeah, you can post some reminder that contributions are always wanted blabla stuff
+[2015/12/25 12:36:58] <mt> also some christmas post like https://twitter.com/supertuxkart/status/680215218237079552
+[2015/12/25 12:37:16] <jesusalva> "will find FreedroidRPG to be an exciting, fast-moving project" >> Why I thought on Supertux when I read that on #freedroid website...
+[2015/12/25 12:37:28] <Not-e81f> [02supertux] 07djeof-1 opened pull request 03#295: Update pull - 13http://git.io/vEaBj
+[2015/12/25 12:37:30] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98793944
+[2015/12/25 12:37:33] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/206
+[2015/12/25 12:37:44] <Not-e81f> [02supertux] 07djeof-1 closed pull request 03#295: Update pull - 13http://git.io/vEaBj
+[2015/12/25 12:37:49] <Not-e81f> [02supertux] 04Error. AppVeyor build cancelled - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/206
+[2015/12/25 12:38:29] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98793944
+[2015/12/25 12:39:08] <Not-e81f> [02supertux] 07maxteufel labeled pull request 03#295: Update pull - 13http://git.io/vEaBj
+[2015/12/25 12:39:09] <Not-e81f> [02supertux] 07maxteufel labeled pull request 03#295: Update pull - 13http://git.io/vEaBj
+[2015/12/25 12:39:32] <maths22> mt: The convention is "organization"/"appname"  That was the best idea I had. If someone has a better idea, let me know
+[2015/12/25 12:40:00] <mt> $XDG_CONFIG_HOME/supertux/ (or supertux2) for the config stuff
+[2015/12/25 12:40:14] <mt> $XDG_DATA_HOME/supertux/ (or supertux2) for the addon stuff
+[2015/12/25 12:41:06] <mt> what convention includes organization?
+[2015/12/25 12:41:17] <maths22> mt: Have you read the documentation for  SDL_GetPrefPath ?
+[2015/12/25 12:41:20] <mt> also can't see this, no gnome/nautilus but just nautilus
+[2015/12/25 12:41:36] <mt> no and I don't care about documentation for silly code
+[2015/12/25 12:42:15] <mt> if that code requires it to be $XDG_DATA_HOME/something/something, it's really broken code tbh
+[2015/12/25 12:42:17] <maths22> mt: Also, it doesn't actually do that
+[2015/12/25 12:42:33] <mt> well what's it for then?
+[2015/12/25 12:42:40] <maths22> Sorry-it does-the comments are bad
+[2015/12/25 12:43:05] <maths22> I'll think about this later
