@@ -31864,3 +31864,6 @@
 [2015/12/25 11:23:30] <grumbel> mt: don't think we are generating doxygen documentation automatically at the moment, but it doesn't hurt to keep the style of comments that way
 [2015/12/25 11:24:31] <mt> we should probably let cmake configure https://github.com/SuperTux/supertux/blob/master/Doxyfile#L34 then
 [2015/12/25 11:26:00] @ jesusalva joined channel #supertux
+[2015/12/25 11:33:00] <Not-e81f> [02supertux] 07ahui starred 03supertux - 13http://git.io/vEaYN
+[2015/12/25 11:34:39] <mt> if everyone who's starred the repo since the 0.4.0 release would contribute we'd be at 0.5.0 in no time
+[2015/12/25 11:39:07] <jesusalva> mt: Advert.
