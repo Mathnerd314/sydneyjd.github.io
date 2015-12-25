@@ -31736,3 +31736,4 @@
 [2015/12/24 19:40:01] <Not-e81f> [02supertux] 07Mathnerd314 closed issue 03#289: Bad savegame location on Windows - 13http://git.io/vEZU4
 [2015/12/24 19:40:02] <Not-e81f> [02supertux] 07Mathnerd314 commented on issue 03#289: Bad savegame location on Windows - 13http://git.io/vEgJQ
 [2015/12/24 22:13:01] @ Quit: giby: Quit: This computer has gone to sleep
+[2015/12/25 01:45:29] @ lumidify joined channel #supertux
