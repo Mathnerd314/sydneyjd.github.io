@@ -31818,3 +31818,9 @@
 [2015/12/25 09:57:21] <Not-e81f> [02supertux] 07wjybluse starred 03supertux - 13http://git.io/vE2Nf
 [2015/12/25 10:03:43] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2015/12/25 10:11:30] @ Quit: oumph: Ping timeout: 272 seconds
+[2015/12/25 10:16:40] @ Karkus joined channel #supertux
+[2015/12/25 10:16:40] @ Mode +o Karkus by ChanServ
+[2015/12/25 10:16:41] @ oumph joined channel #supertux
+[2015/12/25 10:24:01] <Not-e81f> [02supertux] 07maths22 reviewed pull request 03#294 commit - 13http://git.io/vE2jD
+[2015/12/25 10:27:45] @ lumidify1 joined channel #supertux
+[2015/12/25 10:28:56] @ Quit: lumidify: Ping timeout: 255 seconds
