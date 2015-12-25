@@ -31884,3 +31884,6 @@
 [2015/12/25 12:13:18] <Hume2> They can design some levels for example.
 [2015/12/25 12:13:44] <mt> Tobbi should post a tweet about contributing
 [2015/12/25 12:13:54] <mt> or does someone else also have access to twitter?
+[2015/12/25 12:21:39] @ Quit: lumidify: Ping timeout: 265 seconds
+[2015/12/25 12:22:28] @ lumidify joined channel #supertux
+[2015/12/25 12:23:49] @ Quit: lumidify: Client Quit
