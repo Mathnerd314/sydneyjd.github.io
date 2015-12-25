@@ -32014,3 +32014,26 @@
 [2015/12/25 13:42:08] <Hume2> I think, this could be implemented: http://supertux.lethargik.org/wiki/File:Hanging_ball.png
 [2015/12/25 13:43:32] <mt> I don't really like these tiles we're currently using for jungle proposals
 [2015/12/25 13:44:38] <Karkus> What ideas do we have for a forest boss again?
+[2015/12/25 13:46:02] <mt> ghost tree and totem
+[2015/12/25 13:46:23] <Hume2> One more, I'll try to get the link.
+[2015/12/25 13:47:30] <Hume2> And also BigFoot, a Yeti equivalent. This is crap, I think.
+[2015/12/25 13:48:20] <Karkus> Hume2: Yeah, I don't like that idea much.
+[2015/12/25 13:48:32] <Hume2> http://supertux.lethargik.org/wiki/File:Boss2.PNG
+[2015/12/25 13:48:51] <Hume2> It's not mine.
+[2015/12/25 13:49:28] <Not-e81f> [02supertux] 07maxteufel created page 03Milestone-3-Design-Document - 13http://git.io/vEaiy
+[2015/12/25 13:49:32] <Karkus> Hume2: No, because I can't understand any of it. What is it?
+[2015/12/25 13:49:58] <Hume2> It's a giant poisonivy that throws stuff at Tux.
+[2015/12/25 13:50:05] <mt> concept art for the wiki page is welcome
+[2015/12/25 13:51:37] <Karkus> mt: I don't think Tux should get a plane...
+[2015/12/25 13:52:03] @ mt set topic "IRC meeting Jan 9, 15:00 GMT | https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2015/12/25 13:52:18] <mt> Karkus: a) it's just an idea b) why?
+[2015/12/25 13:52:41] <Karkus> mt: Where would he get a plane?
+[2015/12/25 13:52:52] <Karkus> mt: a) I know
+[2015/12/25 13:53:06] <mt> As a collectable item; Nolok might have forgotten one on some island
+[2015/12/25 13:53:31] <Karkus> mt: I don't think it fits supertux's theme.
+[2015/12/25 13:54:07] <mt> https://www.youtube.com/watch?v=9dfWzp7rYR4
+[2015/12/25 13:54:31] <mt> nah, other ideas are obviously welcome
+[2015/12/25 13:54:49] <mt> (feel free to comment here or edit the wiki page)
+[2015/12/25 13:54:59] * Karkus is afk
+[2015/12/25 13:55:42] @ Drangue is now known as alket
+[2015/12/25 13:59:29] @ Quit: Karkus: Ping timeout: 246 seconds
