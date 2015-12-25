@@ -31741,3 +31741,10 @@
 [2015/12/25 03:15:24] @ Quit: tuxdev_: Ping timeout: 272 seconds
 [2015/12/25 03:19:57] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#292: SuperTux Team Meeting Jan 9 2016 - 13http://git.io/vEgdi
 [2015/12/25 03:29:06] @ Quit: tuxdude143_: Ping timeout: 255 seconds
+[2015/12/25 03:33:14] <Not-e81f> [02supertux] 07obimod starred 03supertux - 13http://git.io/vEgbc
+[2015/12/25 03:39:16] @ alket joined channel #supertux
+[2015/12/25 03:39:18] <alket> j #stk
+[2015/12/25 03:39:32] <alket> hi all
+[2015/12/25 03:41:02] <brmbrmcar> hi alket
+[2015/12/25 03:41:24] <mt> hello
+[2015/12/25 03:43:33] @ tux|dude joined channel #supertux
