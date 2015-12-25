@@ -32055,3 +32055,13 @@
 [2015/12/25 15:13:57] <ronick> thanks for the new stable release! :)
 [2015/12/25 15:14:52] @ ronick is now known as kneekoo
 [2015/12/25 15:24:40] <kneekoo> of course I have a life :P that's how I learned about this release (from Phoronix) :D
+[2015/12/25 15:33:07] <kneekoo> giby: if you'll approve my join request I'll be able to start working on the translation :)
+[2015/12/25 15:33:27] <giby> Hi kneekoo
+[2015/12/25 15:33:33] <giby> which language?
+[2015/12/25 15:33:54] <kneekoo> hello
+[2015/12/25 15:33:56] <kneekoo> Romanian
+[2015/12/25 15:34:23] <kneekoo> I would like to know if 0.4.0 fully supports UTF-8
+[2015/12/25 15:35:07] <kneekoo> because this was a problem when I translated my local copy (the shame...) and some characters weren't rendered
+[2015/12/25 15:41:57] @ Karkus joined channel #supertux
+[2015/12/25 15:41:58] @ Mode +o Karkus by ChanServ
+[2015/12/25 15:43:06] @ Quit: Karkus: Client Quit
