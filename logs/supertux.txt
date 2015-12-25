@@ -31951,3 +31951,41 @@
 [2015/12/25 12:57:57] <Hume2> Well, Granito, it's basalt! However idea might be good.
 [2015/12/25 12:58:29] <Hume2> It seems to fit more to the tropical island, but idea is good.
 [2015/12/25 12:59:38] <Hume2> i think he can't guide Tux, because he's so big, so he couldn't move in the terrain properly.
+[2015/12/25 13:00:17] <mt> Granito isn't an enemy, btw :)
+[2015/12/25 13:00:22] @ giby joined channel #supertux
+[2015/12/25 13:00:22] @ Mode +o giby by ChanServ
+[2015/12/25 13:00:23] <mt> You asked for enemies
+[2015/12/25 13:00:50] <Hume2> I know, but it was here.
+[2015/12/25 13:01:10] <mt> what do you think about totem?
+[2015/12/25 13:01:12] <Hume2> Totem would fit more to the tropics as well.
+[2015/12/25 13:01:36] <Hume2> It could be a boss, each segment could have its special ability.
+[2015/12/25 13:01:56] <mt> because we're already there, what about the shop?
+[2015/12/25 13:02:05] <mt> I think it's actually a cool idea
+[2015/12/25 13:02:11] <Hume2> I think so.
+[2015/12/25 13:02:13] <jesusalva> I like it too
+[2015/12/25 13:02:18] <mt> maybe it could be a lighthouse
+[2015/12/25 13:02:23] <Hume2> But what to sell here?
+[2015/12/25 13:02:27] <mt> on every island there's a lighthouse
+[2015/12/25 13:02:41] <mt> Hume2: for now, power-ups, I guess
+[2015/12/25 13:03:11] @ Quit: lumidify: Ping timeout: 260 seconds
+[2015/12/25 13:03:26] <mt> possible other ideas: transportable blocks or lights that can be used all over the worldmap
+[2015/12/25 13:03:27] <Hume2> Russian style: 4 goods in a shop and a shop assistent that explains why they can't have more.
+[2015/12/25 13:04:09] <mt> having a level unlocked for some coins would be an idea as well
+[2015/12/25 13:04:28] <Hume2> +1
+[2015/12/25 13:04:54] @ alket joined channel #supertux
+[2015/12/25 13:05:07] <Hume2> There could be also special powerups just for the shop.
+[2015/12/25 13:05:16] <mt> +1
+[2015/12/25 13:05:35] <mt> why not limit air- and earth-flower to the shop
+[2015/12/25 13:05:44] <mt> they're currently not used anyway, are they?
+[2015/12/25 13:06:25] <Hume2> That's what I thought too.
+[2015/12/25 13:06:47] <Karkus> mt: To be honest, coins are too easy to get.
+[2015/12/25 13:06:50] @ lumidify joined channel #supertux
+[2015/12/25 13:07:03] <Hume2> Maybe increase the coin limit?
+[2015/12/25 13:07:07] <Karkus> You can play level 1 lots of times and have tonnes of coins
+[2015/12/25 13:07:17] <Hume2> That's true.
+[2015/12/25 13:07:47] <Hume2> The easy levels shouldn't contain so many coins.
+[2015/12/25 13:07:59] <mt> possibly idea for a new shop-only powerup: some freezing liquid that doesn't affect Tux because he lives on Antarctica but immediately freezes enemies when Tux collides with them
+[2015/12/25 13:08:34] <Hume2> Yes, but with limited number of usages.
+[2015/12/25 13:08:55] <mt> That and possibly hide some only one-time-collectable items in secret areas that can be exchanged for more valuable powerups
+[2015/12/25 13:10:27] <Hume2> That sounds interrasting.
+[2015/12/25 13:11:50] @ Quit: Karkus: Ping timeout: 260 seconds
