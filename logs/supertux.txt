@@ -31768,3 +31768,4 @@
 [2015/12/25 06:09:59] <Not-e81f> [02supertux] 07maxteufel pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vE2ZH
 [2015/12/25 06:10:00] <Not-e81f> [02supertux] 07Shreyas Iyer 036139cb9 - README: fix typo mentioning 10 GHz as CPU requirement
 [2015/12/25 06:10:02] <Not-e81f> [02supertux] 07maxteufel closed pull request 03#293: Fixed the typo. (1 GHz instead of 10 GHz) - 13http://git.io/vE23V
+[2015/12/25 06:16:44] @ Quit: brmbrmcar: Ping timeout: 265 seconds
