@@ -32005,3 +32005,12 @@
 [2015/12/25 13:28:52] <Hume2> For bosses it's usual that they have two different attacks. That's why the totem seems me a bit weird.
 [2015/12/25 13:29:37] <mt> yeah
 [2015/12/25 13:30:00] <mt> however, each segment having a special ability is a nice idea
+[2015/12/25 13:30:56] <Hume2> It is, maybe only the topmost segment should use its ability.
+[2015/12/25 13:31:16] <Hume2> Or the topmost two segments?
+[2015/12/25 13:32:26] @ Drangue joined channel #supertux
+[2015/12/25 13:33:29] @ Quit: alket: Ping timeout: 245 seconds
+[2015/12/25 13:37:54] @ Karkus joined channel #supertux
+[2015/12/25 13:37:54] @ Mode +o Karkus by ChanServ
+[2015/12/25 13:42:08] <Hume2> I think, this could be implemented: http://supertux.lethargik.org/wiki/File:Hanging_ball.png
+[2015/12/25 13:43:32] <mt> I don't really like these tiles we're currently using for jungle proposals
+[2015/12/25 13:44:38] <Karkus> What ideas do we have for a forest boss again?
