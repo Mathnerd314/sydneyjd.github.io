@@ -32070,3 +32070,30 @@
 [2015/12/25 16:05:25] <mt> the fonts are simply png files
 [2015/12/25 16:05:56] <mt> and they don't include all UTF-8 chars
 [2015/12/25 16:06:18] <mt> we've had some discussion about using ttf fonts
+[2015/12/25 16:19:17] @ Karkus joined channel #supertux
+[2015/12/25 16:19:17] @ Mode +o Karkus by ChanServ
+[2015/12/25 16:22:41] <kneekoo> mt: thanks for your reply
+[2015/12/25 16:23:00] <mt> kneekoo: what character is missing?
+[2015/12/25 16:23:14] <kneekoo> well, it's a mixed bag
+[2015/12/25 16:23:29] <kneekoo> the menu and the game use different ways to render fonts
+[2015/12/25 16:23:57] <mt> oh
+[2015/12/25 16:24:06] <kneekoo> because in the game I could use some characters, while in the menu I couldn't
+[2015/12/25 16:24:13] <mt> that's not supposed to happen I guess
+[2015/12/25 16:24:22] <kneekoo> țșă are the culprits, anyway
+[2015/12/25 16:24:30] <mt> can you show screenshots, something to reproduce,...?
+[2015/12/25 16:24:51] <kneekoo> the letters are simply missing
+[2015/12/25 16:25:03] <kneekoo> it's just an empty space instead of those letters
+[2015/12/25 16:25:47] <kneekoo> I first noticed the issue when I saw the existing translation - which was the reason I started translating the game myself
+[2015/12/25 16:26:02] <mt> https://github.com/SuperTux/supertux/blob/master/data/fonts/andale10.stf
+[2015/12/25 16:26:09] <mt> these characters are listed there
+[2015/12/25 16:26:24] <mt> can you open an issue on github?
+[2015/12/25 16:26:38] <kneekoo> oh, wait... I think I'm confusing this issue for Pingus
+[2015/12/25 16:26:52] <kneekoo> last year I translated SuperTux and Pingus for my nephew
+[2015/12/25 16:27:09] <kneekoo> and I had some issues while translating
+[2015/12/25 16:27:10] <mt> oh well, no problem, everyone makes mistakes :)
+[2015/12/25 16:27:49] <kneekoo> anyway, v0.4.0 stands at 20% in Romanian so I have plenty of work to do
+[2015/12/25 16:28:08] <maths22> mt: See http://hg.icculus.org/icculus/physfs/file/1709a0f75ee3/src/platform_unix.c#l296
+[2015/12/25 16:28:14] <kneekoo> I just need my application approved
+[2015/12/25 16:28:19] <maths22> I'll switch to the physfs version
+[2015/12/25 16:28:23] <Not-e81f> [02supertux] 07boaglio starred 03supertux - 13http://git.io/vEV3b
+[2015/12/25 16:29:13] <maths22> The strangeness reflects this commit https://hg.libsdl.org/SDL/annotate/62f562a475e1/src/filesystem/unix/SDL_sysfilesystem.c#l188
