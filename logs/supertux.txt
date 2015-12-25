@@ -31775,3 +31775,4 @@
 [2015/12/25 07:50:59] @ Quit: Poino: Client Quit
 [2015/12/25 07:55:56] @ Hume2 joined channel #supertux
 [2015/12/25 07:55:57] @ Mode +v Hume2 by ChanServ
+[2015/12/25 08:00:50] @ Quit: lumidify: Remote host closed the connection
