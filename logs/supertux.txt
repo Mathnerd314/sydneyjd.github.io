@@ -32048,3 +32048,4 @@
 [2015/12/25 14:22:46] @ Karkus joined channel #supertux
 [2015/12/25 14:22:46] @ Mode +o Karkus by ChanServ
 [2015/12/25 14:31:03] @ Quit: Hume2: Quit: Page closed
+[2015/12/25 14:48:11] @ Quit: Karkus: Ping timeout: 260 seconds
