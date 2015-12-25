@@ -32054,3 +32054,4 @@
 [2015/12/25 15:13:43] <ronick> I just applied as a translator on Transifex
 [2015/12/25 15:13:57] <ronick> thanks for the new stable release! :)
 [2015/12/25 15:14:52] @ ronick is now known as kneekoo
+[2015/12/25 15:24:40] <kneekoo> of course I have a life :P that's how I learned about this release (from Phoronix) :D
