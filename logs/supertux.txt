@@ -31731,3 +31731,5 @@
 [2015/12/24 19:08:41] @ Quit: tux|dude: Ping timeout: 255 seconds
 [2015/12/24 19:09:54] @ tuxdude143_ joined channel #supertux
 [2015/12/24 19:12:12] <Not-e81f> [02supertux] 07watchmakerful commented on issue 03#285: SuperTux 0.4 can't run - 13http://git.io/vEge7
+[2015/12/24 19:16:49] @ Quit: jesusalva: Quit: Good bye and good christamas everybody. (Jesus bless you)
+[2015/12/24 19:18:38] @ Quit: claymore2: Quit: Leaving
