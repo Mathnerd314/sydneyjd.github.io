@@ -31733,3 +31733,5 @@
 [2015/12/24 19:12:12] <Not-e81f> [02supertux] 07watchmakerful commented on issue 03#285: SuperTux 0.4 can't run - 13http://git.io/vEge7
 [2015/12/24 19:16:49] @ Quit: jesusalva: Quit: Good bye and good christamas everybody. (Jesus bless you)
 [2015/12/24 19:18:38] @ Quit: claymore2: Quit: Leaving
+[2015/12/24 19:40:01] <Not-e81f> [02supertux] 07Mathnerd314 closed issue 03#289: Bad savegame location on Windows - 13http://git.io/vEZU4
+[2015/12/24 19:40:02] <Not-e81f> [02supertux] 07Mathnerd314 commented on issue 03#289: Bad savegame location on Windows - 13http://git.io/vEgJQ
