@@ -32172,3 +32172,10 @@
 [2015/12/25 18:38:33] @ jesusalva joined channel #supertux
 [2015/12/25 18:42:06] @ Karkus joined channel #supertux
 [2015/12/25 18:42:07] @ Mode +o Karkus by ChanServ
+[2015/12/25 18:49:48] <head8debian> Hello Carcass, ehem Karkus. ;)
+[2015/12/25 18:50:04] <Karkus> Hello head8debian.
+[2015/12/25 18:50:21] <head8debian> Karkus: We have been really busy in here it seems...
+[2015/12/25 18:50:32] <Karkus> head8debian: Is that good, or bad?
+[2015/12/25 18:50:39] <Karkus> :)
+[2015/12/25 18:50:42] <head8debian> Karkus: Good i guess. :D
+[2015/12/25 18:56:02] <giby> Good
