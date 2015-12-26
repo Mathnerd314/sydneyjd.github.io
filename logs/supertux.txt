@@ -32179,3 +32179,5 @@
 [2015/12/25 18:50:39] <Karkus> :)
 [2015/12/25 18:50:42] <head8debian> Karkus: Good i guess. :D
 [2015/12/25 18:56:02] <giby> Good
+[2015/12/25 19:04:18] @ Quit: claymore2: Quit: Leaving
+[2015/12/25 19:09:12] @ Quit: Karkus: Ping timeout: 272 seconds
