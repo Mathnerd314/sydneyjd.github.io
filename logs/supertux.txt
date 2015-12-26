@@ -32473,3 +32473,25 @@
 [2015/12/26 11:45:25] <mt> Karkus: I do actually also get some slowdown with zooming, is this a disk-related problem?
 [2015/12/26 12:14:05] @ giby joined channel #supertux
 [2015/12/26 12:14:05] @ Mode +o giby by ChanServ
+[2015/12/26 12:31:53] <Karkus> mt: Disk related?
+[2015/12/26 12:32:24] <alket> I beat Nolok, where is Penny ?
+[2015/12/26 12:33:08] <Karkus> alket: How could you beat Nolok?
+[2015/12/26 12:33:19] <mt> Karkus: well sometimes that issue appears when one doesn't cache e.g. the tiles and they've got to be loaded x times from the disk
+[2015/12/26 12:33:45] <Karkus> mt: Probably that, I haven't looked much at the rendering code.
+[2015/12/26 12:34:10] <alket> Karkus: it was Castle of Nolok, I beat up the "monkey"
+[2015/12/26 12:34:23] <Hume2> Karkus: It is possible to beat Nolok, in Narreland.
+[2015/12/26 12:34:49] <Hume2> Nolok is not monkey, it's a crocodile.
+[2015/12/26 12:36:58] <mt> uh oh
+[2015/12/26 12:37:03] <mt> dispensers are broken
+[2015/12/26 12:38:35] <Hume2> mt: What is with them?
+[2015/12/26 12:38:45] <mt> they don't work
+[2015/12/26 12:38:57] <mt> and console says
+[2015/12/26 12:38:59] <mt> [WARNING] /home/mteufel/pkg/supertux-git/src/supertux/src/badguy/dispenser.cpp:265 Error dispensing badguy: [/home/mteufel/pkg/supertux-git/src/supertux/src/util/reader_mapping.cpp:141] <stream>:1: expected string in expression:
+[2015/12/26 12:39:00] <mt>     left
+[2015/12/26 12:39:25] <mt> or right
+[2015/12/26 12:39:33] <mt> depending on where the player is
+[2015/12/26 12:39:55] <Karkus> mt: Oh, crap. I'm getting the same problem.
+[2015/12/26 12:39:55] <Hume2> Oh, that must be the bug in the oject factory.
+[2015/12/26 12:40:15] <Hume2> I thought that it was only in the ingame editor.
+[2015/12/26 12:41:02] <Hume2> I know exactly where the bug is.
+[2015/12/26 12:42:49] <Hume2> I'll just test it.
