@@ -32255,3 +32255,18 @@
 [2015/12/26 07:59:36] <Karkus> mt: Scripts are going to have their own property. It will open a new tab, and have syntax highlighting
 [2015/12/26 07:59:49] <mt> :)
 [2015/12/26 07:59:54] <mt> ok then
+[2015/12/26 08:00:01] <Karkus> mt: But multiline string properties may be useful anyway
+[2015/12/26 08:00:09] <mt> however I still have no idea why this doesn't
+[2015/12/26 08:00:11] <mt> work
+[2015/12/26 08:00:18] <Karkus> mt: Wah
+[2015/12/26 08:00:20] <mt> what does work is that a pushbutton appears in the object list
+[2015/12/26 08:00:22] <Karkus> huh?
+[2015/12/26 08:00:29] <Karkus> Yeah
+[2015/12/26 08:00:33] <mt> however when you edit a pushbutton it won't show the script property
+[2015/12/26 08:00:41] <mt> is that somewhere else?
+[2015/12/26 08:01:15] <Karkus> mt: No, what you've done seems fine. I need to fix properties
+[2015/12/26 08:01:32] <Karkus> mt: By "edit a pushbutton" what do you mean?
+[2015/12/26 08:01:57] <mt> select one existing in a level, ctrl-click "Show properties" (or display whatever)
+[2015/12/26 08:02:08] <mt> and in the right toolbar
+[2015/12/26 08:03:00] <Karkus> mt: I am getting the same thing. Let me take a look.
+[2015/12/26 08:14:20] <mt> what for was cherrybomb created?
