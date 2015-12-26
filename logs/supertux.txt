@@ -32571,3 +32571,17 @@
 [2015/12/26 14:12:43] <jesusalva> mt: Or maybe Brazilians play more games...
 [2015/12/26 14:14:09] <mt> would a Brazilian understand Portugal Portuguese?
 [2015/12/26 14:14:35] <mt> Because then it would make much more sense to translate to Portugal Portuguese
+[2015/12/26 14:15:14] @ lumidify joined channel #supertux
+[2015/12/26 14:15:39] <giby> I reject most of them... especially en_BE
+[2015/12/26 14:16:13] <mt> en_BE? that should be en_GB if you're talking about british english
+[2015/12/26 14:16:34] <mt> Belgian English :D
+[2015/12/26 14:17:54] <mt> wtf this actually exists?
+[2015/12/26 14:18:52] <head8debian> :p
+[2015/12/26 14:19:46] <mt> also if possible: nl_* -> nl; hu_HU -> hu; ru_RU -> ru
+[2015/12/26 14:20:02] <mt> ca_ES -> ca
+[2015/12/26 14:21:35] <mt> oh and remove the 0% langs
+[2015/12/26 14:21:58] <jesusalva> mt: Hardly.
+[2015/12/26 14:22:12] <jesusalva> I cannot translate to pt_PT anyways.
+[2015/12/26 14:22:29] <jesusalva> If I did, it would be all messed up and pt_PT players would complain.
+[2015/12/26 14:22:38] <mt> didn't think there's so much difference
+[2015/12/26 14:22:56] <jesusalva> There are semantic differences, and those are very important.
