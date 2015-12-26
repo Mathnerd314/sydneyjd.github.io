@@ -32613,3 +32613,13 @@
 [2015/12/26 18:14:02] @ giby joined channel #supertux
 [2015/12/26 18:14:02] @ Mode +o giby by ChanServ
 [2015/12/26 18:14:04] <alket> please consider this https://github.com/SuperTux/supertux/commit/2dc472183f64e1b026aa7a9358e90da309eab6f5
+[2015/12/26 18:33:34] <Karkus> alket: Huh? We've merged it?
+[2015/12/26 18:34:03] @ jesusalva is now known as jesusalva_
+[2015/12/26 18:35:14] <alket> Karkus: sorry
+[2015/12/26 18:35:23] <alket> i didn't refresh page for long time :p
+[2015/12/26 18:35:54] <Karkus> alket: Not a problem. It's a good point. I like your GitHub profile picture, by the way :P
+[2015/12/26 18:37:08] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#58: Allow User To Edit Layer Z-Pos (and other properties) - 13http://git.io/vEKL7
+[2015/12/26 18:37:09] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#58: Allow User To Edit Layer Z-Pos (and other properties) - 13http://git.io/vEKL7
+[2015/12/26 18:37:11] <Not-e81f> [02flexlay] 07Karkus476 opened issue 03#58: Allow User To Edit Layer Z-Pos (and other properties) - 13http://git.io/vEKL7
+[2015/12/26 18:37:13] <alket> Karkus: thanks :p
+[2015/12/26 18:37:13] <Not-e81f> [02flexlay] 07Karkus476 assigned issue 03#58: Allow User To Edit Layer Z-Pos (and other properties) - 13http://git.io/vEKL7
