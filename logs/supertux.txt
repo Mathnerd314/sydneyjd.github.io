@@ -32519,3 +32519,8 @@
 [2015/12/26 13:06:56] <Hume2> I just cherry-picked one commit from the editor and renamed it.
 [2015/12/26 13:08:52] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/209
 [2015/12/26 13:09:23] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98891014
+[2015/12/26 13:23:28] <head8debian> :D
+[2015/12/26 13:26:10] <Karkus> Ah.
+[2015/12/26 13:26:51] <head8debian> o_O
+[2015/12/26 13:27:01] <Karkus> Damn
+[2015/12/26 13:29:36] <Karkus> Oops
