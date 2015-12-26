@@ -32495,3 +32495,20 @@
 [2015/12/26 12:40:15] <Hume2> I thought that it was only in the ingame editor.
 [2015/12/26 12:41:02] <Hume2> I know exactly where the bug is.
 [2015/12/26 12:42:49] <Hume2> I'll just test it.
+[2015/12/26 12:45:15] <Hume2> 36%
+[2015/12/26 12:48:35] @ Quit: maths22: Quit: leaving
+[2015/12/26 12:48:54] @ maths22 joined channel #supertux
+[2015/12/26 12:48:55] @ Mode +v maths22 by ChanServ
+[2015/12/26 12:49:14] <Hume2> 73%
+[2015/12/26 12:55:07] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEokl
+[2015/12/26 12:55:09] <Not-e81f> [02supertux] 07Hume2 039a59350 - Fixed: Dispensers don't work
+[2015/12/26 12:55:10] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98891014
+[2015/12/26 12:55:12] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/209
+[2015/12/26 12:55:28] <mt> Hume2: is this an after-0.4.0 problem?
+[2015/12/26 12:55:34] <Hume2> mt: Yes.
+[2015/12/26 12:55:37] <mt> or did we ship that as stabl-
+[2015/12/26 12:55:55] <Hume2> It's the Grumbel's development banch.
+[2015/12/26 12:56:03] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98891014
+[2015/12/26 12:57:33] <grumbel> Hume2: the develop branch has been merged into master after the release
+[2015/12/26 12:58:03] <Hume2> Thant means that the problem is after-0.4.0.
+[2015/12/26 12:58:40] <grumbel> As for the error, it's caused by a string not being quoted, the new parser is a bit more pedantic then the old when it comes to incorrect syntax
