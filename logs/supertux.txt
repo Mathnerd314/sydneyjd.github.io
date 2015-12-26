@@ -32201,3 +32201,5 @@
 [2015/12/26 04:10:32] <Not-e81f> [02supertux] 07watchmakerful commented on issue 03#285: SuperTux 0.4 doesn't run on some Windows 10 machines - 13http://git.io/vEwzc
 [2015/12/26 04:14:04] @ Quit: tuxdev_: Ping timeout: 250 seconds
 [2015/12/26 04:41:19] <Not-e81f> [02supertux] 07dujnan starred 03supertux - 13http://git.io/vEwwf
+[2015/12/26 04:49:26] @ Quit: lumidify: Ping timeout: 240 seconds
+[2015/12/26 04:56:49] @ lumidify joined channel #supertux
