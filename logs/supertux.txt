@@ -32389,3 +32389,5 @@
 [2015/12/26 10:11:41] <mt> your network might not be called freenode
 [2015/12/26 10:11:47] <mt> check that with /network list first
 [2015/12/26 10:13:07] <mt> Karkus: <3 extended-join: https://github.com/ircv3/ircv3-specifications/blob/master/extensions/extended-join-3.1.md basically that adds the realname and if there, account name of every user to the join message in my client
+[2015/12/26 10:15:21] @ Quit: head8debian: Quit: leaving
+[2015/12/26 10:29:02] @ tuxdev_ joined channel #supertux
