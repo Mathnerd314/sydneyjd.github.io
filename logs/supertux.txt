@@ -32363,3 +32363,8 @@
 [2015/12/26 09:23:18] <head8debian> Karkus: Lol, that is a funny one. :) I never noticed.
 [2015/12/26 09:24:33] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98870270
 [2015/12/26 09:25:10] <Karkus> head8debian: Too confusing though.
+[2015/12/26 09:32:27] <head8debian> Lol, this is weird. :p
+[2015/12/26 09:32:54] * head8debian *facepalm*.
+[2015/12/26 09:34:10] <head8debian> Im confused...
+[2015/12/26 09:35:07] <Not-e81f> [02supertux] 07Grumbel commented on issue 03#225: All my wanted Console commands - 13http://git.io/vErEL
+[2015/12/26 09:36:42] @ lumidify joined channel #supertux
