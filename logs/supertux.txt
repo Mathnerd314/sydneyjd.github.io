@@ -32587,3 +32587,12 @@
 [2015/12/26 14:22:56] <jesusalva> There are semantic differences, and those are very important.
 [2015/12/26 14:42:09] <mt> ~note Tobbi what should we do about the Sie in the German translation? http://supertux.lethargik.org/wiki/Translation#Notes_for_Translators wants translators to use the personal form, if one exists
 [2015/12/26 14:42:09] <red_bot> okay, mt
+[2015/12/26 14:49:07] <jesusalva> mt: The "Du"?
+[2015/12/26 14:49:35] <mt> Yes, apparently Wuzzy changed everything to "Sie", "Du" however is more personal
+[2015/12/26 14:50:24] <jesusalva> Yes, however, "Du" is like first-name in Japanese. It's something you don't go using for everyone you met. :/
+[2015/12/26 14:51:34] <mt> I'd say "Du" is appropriate in a game
+[2015/12/26 14:51:46] <Karkus> When is the word "you" even used?
+[2015/12/26 14:52:23] <mt> Karkus: well it's also indirect as your/yours which is also different in German
+[2015/12/26 14:52:35] <mt> and they are mostly used in Infoboxes
+[2015/12/26 14:52:43] <Karkus> mt: Ah, I se
+[2015/12/26 14:52:45] <Karkus> *see
