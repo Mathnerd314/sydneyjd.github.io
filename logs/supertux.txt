@@ -32539,3 +32539,10 @@
 [2015/12/26 13:41:09] @ Mode -v maths22_ by ChanServ
 [2015/12/26 13:42:42] @ Mode +v maths22_ by ChanServ
 [2015/12/26 13:43:19] @ Quit: maths22_: Client Quit
+[2015/12/26 13:46:39] <Not-e81f> [02flexlay] 07Karkus476 opened issue 03#57: Fix EditorMap Organisation - 13http://git.io/vEoZS
+[2015/12/26 13:46:40] <Not-e81f> [02flexlay] 07Karkus476 assigned issue 03#57: Fix EditorMap Organisation - 13http://git.io/vEoZS
+[2015/12/26 13:48:38] @ Lgmrszd joined channel #supertux
+[2015/12/26 13:49:38] @ Lgmrszd left channel #supertux ()
+[2015/12/26 13:58:57] <maths22> Do we have a proper filesystem library we use?
+[2015/12/26 13:59:50] <giby> Today someone requested a translation team for English from UK...
+[2015/12/26 13:59:54] <mt> physfs?
