@@ -32391,3 +32391,18 @@
 [2015/12/26 10:13:07] <mt> Karkus: <3 extended-join: https://github.com/ircv3/ircv3-specifications/blob/master/extensions/extended-join-3.1.md basically that adds the realname and if there, account name of every user to the join message in my client
 [2015/12/26 10:15:21] @ Quit: head8debian: Quit: leaving
 [2015/12/26 10:29:02] @ tuxdev_ joined channel #supertux
+[2015/12/26 10:48:05] @ jesusalva joined channel #supertux
+[2015/12/26 10:50:02] <Karkus> mt: I can't imagine that creating a world 3 will be that difficult. All we need is some tilesets and new enemies.
+[2015/12/26 10:50:30] <jesusalva> Good Morning.
+[2015/12/26 10:51:26] @ head8debian joined channel #supertux
+[2015/12/26 10:51:26] @ Mode +o head8debian by ChanServ
+[2015/12/26 10:51:57] @ Quit: head8debian: Client Quit
+[2015/12/26 10:53:21] @ head8debian joined channel #supertux
+[2015/12/26 10:53:21] @ Mode +o head8debian by ChanServ
+[2015/12/26 10:54:33] <mt> Karkus: yeah
+[2015/12/26 10:55:06] <Karkus> mt: Forest world first, though
+[2015/12/26 10:55:13] <mt> also https://github.com/SuperTux/supertux/pull/278
+[2015/12/26 10:56:00] <Karkus> mt: Yeah, I've looked. It's not everything we need though.
+[2015/12/26 10:58:15] <head8debian> Im alive. :D
+[2015/12/26 10:58:16] <Karkus> mt: Also, you know this idea with the items to get to the next worldmap, will all the levels be visible in the same worldmap, or will you have to use an item, then go into that worldmap?
+[2015/12/26 10:58:23] <head8debian> Now lets try this thing.
