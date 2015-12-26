@@ -32270,3 +32270,28 @@
 [2015/12/26 08:02:08] <mt> and in the right toolbar
 [2015/12/26 08:03:00] <Karkus> mt: I am getting the same thing. Let me take a look.
 [2015/12/26 08:14:20] <mt> what for was cherrybomb created?
+[2015/12/26 08:15:11] <Karkus> mt: I have no idea
+[2015/12/26 08:15:20] <mt> I didn't ask you
+[2015/12/26 08:15:45] <mt> this is probably a question some of the previous devs can answer
+[2015/12/26 08:15:51] * mt looks at the nicklist
+[2015/12/26 08:17:30] <mt> there are quite a few of them here
+[2015/12/26 08:20:22] <brmbrmcar> A lot of old images have no spritefiles.
+[2015/12/26 08:21:48] <Karkus> mt: Your __init__ isn't even running...
+[2015/12/26 08:22:51] <mt> as in, it never gets called?
+[2015/12/26 08:22:58] @ grumbel joined channel #supertux
+[2015/12/26 08:22:58] @ Mode +o grumbel by ChanServ
+[2015/12/26 08:23:26] <mt> brmbrmcar: that's because they're probably not implemented as badguys
+[2015/12/26 08:24:09] <Karkus> mt: Your identifier "pushbutton" is interfering with something else.
+[2015/12/26 08:24:27] <Karkus> mt: Either change it, or find what's also called "pushbutton"
+[2015/12/26 08:24:43] <Karkus> I changed it, and it all works, I think.
+[2015/12/26 08:25:41] <Karkus> mt: Found it.
+[2015/12/26 08:25:59] <mt> what's it for, the identifier? looking at the above and below code I thought it was what's in the level files (the '(pushbutton ...)')
+[2015/12/26 08:26:11] <Karkus> Let me make a commit, and then you can pull and try yours
+[2015/12/26 08:26:19] <Karkus> mt: And for identification
+[2015/12/26 08:26:58] <mt> do I have to remove the objects.csv entry?
+[2015/12/26 08:27:33] <Not-e81f> [02flexlay] 07Karkus476 pushed 031 commit to 03develop [+0/-0/±1] 13http://git.io/vErqb
+[2015/12/26 08:27:34] <Not-e81f> [02flexlay] 07Karkus 03f630e96 - Remove old pushbutton (was a BadGuy)
+[2015/12/26 08:27:38] <Karkus> mt: I've done it.
+[2015/12/26 08:28:00] <Karkus> objects.csv should be renamed to badguys.csv, actually.
+[2015/12/26 08:28:22] <Karkus> But there are other things in there, so I'll leave it
+[2015/12/26 08:28:40] @ Quit: claymore2: Ping timeout: 256 seconds
