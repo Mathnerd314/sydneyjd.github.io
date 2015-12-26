@@ -32546,3 +32546,28 @@
 [2015/12/26 13:58:57] <maths22> Do we have a proper filesystem library we use?
 [2015/12/26 13:59:50] <giby> Today someone requested a translation team for English from UK...
 [2015/12/26 13:59:54] <mt> physfs?
+[2015/12/26 14:00:31] <maths22> mt: Physfs does not provide a helpful way to list only files from a single logical directory, or to copy a file
+[2015/12/26 14:00:57] <mt> then not, unless boost provides some functions for that?
+[2015/12/26 14:01:14] <Karkus> giby: I know... you denied it, right?
+[2015/12/26 14:01:23] <mt> giby: reject all country-specific languages, please
+[2015/12/26 14:01:39] <Karkus> mt: No...
+[2015/12/26 14:02:01] <Karkus> mt: Some are very different aren't they?
+[2015/12/26 14:02:07] <mt> giby: we don't need fr_FR, fr_CA, de_AT, de_CH, de_DE, en_XY
+[2015/12/26 14:02:31] <Karkus> mt: Not to that extent.
+[2015/12/26 14:02:39] <maths22> mt: We currently don't depend on the boost file-system library, but we could.  It probably only affects Windows builds (I would need to update the dependencies zips)
+[2015/12/26 14:03:05] <mt> maths22: I don't see a problem in doing that
+[2015/12/26 14:04:01] <mt> Karkus: well, for de_* there are some differences in choosing words, but probably anyone who speaks German well would understand that
+[2015/12/26 14:04:47] <maths22> mt: Great!  I needed a way to move the contents of the old pref dir into the new one.
+[2015/12/26 14:05:01] <Karkus> mt: What about Portuguese (Brazil vs Portugal)
+[2015/12/26 14:05:39] * jesusalva awakes
+[2015/12/26 14:05:42] <mt> not sure about that, I think the right person for that question is jesusalva
+[2015/12/26 14:06:01] <head8debian> Hello jesusalva.
+[2015/12/26 14:06:44] * jesusalva was correcting DroidBotAI patch for FDRPG and doing fixes so it could feature for 0.17 release later on.
+[2015/12/26 14:08:09] @ Quit: Hume2: Quit: Page closed
+[2015/12/26 14:09:15] <jesusalva> Karkus, mt: Usually, for some reason, Brazilian Portuguese tends to be more translated than Portugal Portuguese, and that's why pt_PT usually plays with pt_BR... However the difference isn't misc.
+[2015/12/26 14:10:01] <jesusalva> Some item names are named differently in Brazil and in Portugal and may cause confusion. Besides, Brazil uses some characters that Portugal doesn't.
+[2015/12/26 14:12:02] <jesusalva> Although with the new writting-agreement these changes dimmed, they still exists.
+[2015/12/26 14:12:18] <mt> I think that 'more translated' is because Brazil has 200 mio. inhabitans, Portugal just has 10 mio.
+[2015/12/26 14:12:43] <jesusalva> mt: Or maybe Brazilians play more games...
+[2015/12/26 14:14:09] <mt> would a Brazilian understand Portugal Portuguese?
+[2015/12/26 14:14:35] <mt> Because then it would make much more sense to translate to Portugal Portuguese
