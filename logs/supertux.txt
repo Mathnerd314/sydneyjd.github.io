@@ -32208,3 +32208,10 @@
 [2015/12/26 05:50:12] @ alket joined channel #supertux
 [2015/12/26 05:55:06] @ Quit: lumidify: Ping timeout: 256 seconds
 [2015/12/26 05:57:41] <Not-e81f> [02supertux] 07Nil-R starred 03supertux - 13http://git.io/vEwDD
+[2015/12/26 06:01:09] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#225: All my wanted Console commands - 13http://git.io/vEwyM
+[2015/12/26 06:03:18] @ Quit: giby: Read error: Connection reset by peer
+[2015/12/26 06:03:37] @ giby joined channel #supertux
+[2015/12/26 06:03:38] @ Mode +o giby by ChanServ
+[2015/12/26 06:07:26] <mt> ~note Karkus hey, tried to add support for modifying a pushbutton's script in flexlay, but didn't get it to work for some reason (http://sprunge.us/fdKY)
+[2015/12/26 06:07:26] <red_bot> okay, mt
+[2015/12/26 06:14:52] @ claymore2 joined channel #supertux
