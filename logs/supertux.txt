@@ -32336,3 +32336,18 @@
 [2015/12/26 08:55:54] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#225: All my wanted Console commands - 13http://git.io/vErZz
 [2015/12/26 08:59:02] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#225: All my wanted Console commands - 13http://git.io/vErnb
 [2015/12/26 08:59:52] <alket> mt: for me Above the Artic skies is new :)
+[2015/12/26 09:00:07] <Tobbi> C'mon, will we get the 250th star?
+[2015/12/26 09:01:04] <mt> alket: https://raw.githubusercontent.com/SuperTux/supertux/supertux-milestone1/data/levels/world1/level13.stl
+[2015/12/26 09:01:43] @ Quit: Tobbi: 
+[2015/12/26 09:02:49] <alket> mt: what does it mean ?
+[2015/12/26 09:03:13] <mt> it's "Above the Arctic skies", in the old milestone 1 archive branch
+[2015/12/26 09:03:32] <alket> ah, never seen it, or forgot :)
+[2015/12/26 09:04:17] <mt> "A Fork in the Road" is new
+[2015/12/26 09:05:37] <mt> 'new' = Date:   Mon Jun 24 16:30:26 2013 -1000
+[2015/12/26 09:08:04] <Not-e81f> [02supertux] 07Calinou starred 03supertux - 13http://git.io/jWLD
+[2015/12/26 09:08:20] <alket> 250th star
+[2015/12/26 09:09:02] <Not-e81f> [02supertux] 07Calinou forked the repository - 13http://git.io/jWLD
+[2015/12/26 09:11:43] <Not-e81f> [02supertux] 07Calinou opened pull request 03#296: Remove recommendation of proprietary drivers in README - 13http://git.io/vErl4
+[2015/12/26 09:11:45] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98870270
+[2015/12/26 09:11:47] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/208
+[2015/12/26 09:12:40] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98870270
