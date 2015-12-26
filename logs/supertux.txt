@@ -32470,3 +32470,4 @@
 [2015/12/26 11:39:28] <Not-e81f> [02flexlay] 07maxteufel commented on issue 03#56: Graphics Update - 13http://git.io/vEr7k
 [2015/12/26 11:39:54] <Not-e81f> [02flexlay] 07maxteufel labeled issue 03#56: Graphics Update - 13http://git.io/vEBK8
 [2015/12/26 11:39:56] <Not-e81f> [02flexlay] 07maxteufel labeled issue 03#56: Graphics Update - 13http://git.io/vEBK8
+[2015/12/26 11:45:25] <mt> Karkus: I do actually also get some slowdown with zooming, is this a disk-related problem?
