@@ -32370,3 +32370,22 @@
 [2015/12/26 09:36:42] @ lumidify joined channel #supertux
 [2015/12/26 09:58:00] @ Quit: head8debian: Quit: leaving
 [2015/12/26 09:58:15] @ head8debian joined channel #supertux
+[2015/12/26 10:00:56] @ Quit: giby: Ping timeout: 272 seconds
+[2015/12/26 10:04:49] @ Quit: head8debian: Changing host
+[2015/12/26 10:04:49] @ head8debian joined channel #supertux
+[2015/12/26 10:04:49] @ Mode +o head8debian by ChanServ
+[2015/12/26 10:05:10] @ Quit: head8debian: Quit: leaving
+[2015/12/26 10:05:20] @ head8debian joined channel #supertux
+[2015/12/26 10:09:11] <Karkus> head8debian: What happened to your cloak?
+[2015/12/26 10:09:40] <mt> he's upgrading irssi and sasl has to be updated from a script to the native implementation
+[2015/12/26 10:09:55] <mt> and probably forgot to /save
+[2015/12/26 10:10:01] <mt> but restarted irssi
+[2015/12/26 10:10:10] <Karkus> mt: Oh, right. That's why he's not an op either.
+[2015/12/26 10:10:34] <head8debian> mt: Im figuring out how to enable sasl, since im finding no info on how to.
+[2015/12/26 10:10:52] <head8debian> Even irssi's help is not helping much.
+[2015/12/26 10:10:59] <mt> duh, I posted you basically instructions in the PM
+[2015/12/26 10:11:26] <mt> /network add freenode -sasl_mechanism plain -sasl_username sydney -sasl_password <password here without quoting>
+[2015/12/26 10:11:29] <mt> /save
+[2015/12/26 10:11:41] <mt> your network might not be called freenode
+[2015/12/26 10:11:47] <mt> check that with /network list first
+[2015/12/26 10:13:07] <mt> Karkus: <3 extended-join: https://github.com/ircv3/ircv3-specifications/blob/master/extensions/extended-join-3.1.md basically that adds the realname and if there, account name of every user to the join message in my client
