@@ -32295,3 +32295,26 @@
 [2015/12/26 08:28:00] <Karkus> objects.csv should be renamed to badguys.csv, actually.
 [2015/12/26 08:28:22] <Karkus> But there are other things in there, so I'll leave it
 [2015/12/26 08:28:40] @ Quit: claymore2: Ping timeout: 256 seconds
+[2015/12/26 08:30:40] @ Tobbi joined channel #supertux
+[2015/12/26 08:30:41] @ Mode +o Tobbi by ChanServ
+[2015/12/26 08:31:24] @ claymore2 joined channel #supertux
+[2015/12/26 08:31:37] <Not-e81f> [02supertux] 07tobbi commented on issue 03#225: All my wanted Console commands - 13http://git.io/vErmS
+[2015/12/26 08:33:52] <mt> Karkus: as supertux/gameobj.py doesn't seem to have any specific order, I'll put the Pushbutton class after the Wind class, is that ok?
+[2015/12/26 08:34:38] <alket> I hate Snowjumpy !!!!!!!
+[2015/12/26 08:34:53] <mt> [comments without context]
+[2015/12/26 08:37:04] <Tobbi> You guys aren't the least burned out?
+[2015/12/26 08:38:00] <alket> found a z-index bug https://lut.im/7NH2QaMoq2/gQbDt9CqTPonc5o4.png
+[2015/12/26 08:38:01] <Tobbi> Admirable. :-)
+[2015/12/26 08:38:26] <mt> alket: what level?
+[2015/12/26 08:38:47] <alket> mt: how do I check
+[2015/12/26 08:39:04] <mt> you don't know in which level that issue is?
+[2015/12/26 08:39:15] <alket> mt: yes I will know after I pass the level :p
+[2015/12/26 08:39:29] <mt> you can see the name in the pause menu
+[2015/12/26 08:39:37] <alket> 23rd Airborne
+[2015/12/26 08:41:54] <mt> probably some mistake when creating the secret area there
+[2015/12/26 08:42:05] <alket> there is a secret area ? xD
+[2015/12/26 08:43:01] <mt> enter the secret area and the issue will be resolved :D
+[2015/12/26 08:43:15] <mt> there's even a visible hint
+[2015/12/26 08:43:18] <mt> in your screenshot
+[2015/12/26 08:43:31] <alket> yeah xD
+[2015/12/26 08:44:31] <alket> why do I need the coins for ?
