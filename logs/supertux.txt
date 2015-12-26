@@ -32235,3 +32235,23 @@
 [2015/12/26 07:35:53] @ Quit: leyyin: Remote host closed the connection
 [2015/12/26 07:40:56] @ Quit: claymore2: Ping timeout: 276 seconds
 [2015/12/26 07:42:12] @ claymore2 joined channel #supertux
+[2015/12/26 07:49:11] @ Karkus joined channel #supertux
+[2015/12/26 07:49:12] @ Mode +o Karkus by ChanServ
+[2015/12/26 07:49:32] @ Quit: Karkus: Remote host closed the connection
+[2015/12/26 07:50:47] @ Karkus joined channel #supertux
+[2015/12/26 07:50:48] @ Mode +o Karkus by ChanServ
+[2015/12/26 07:52:44] <mt> hi Karkus
+[2015/12/26 07:52:57] <Karkus> Hello mt
+[2015/12/26 07:52:57] <red_bot> Karkus, you have notes! [Dec-26 06:07] <mt> hey, tried to add support for modifying a pushbutton's script in flexlay, but didn't get it to work for some reason (http://sprunge.us/fdKY)
+[2015/12/26 07:53:56] <Karkus> mt: We have PushButtons in SuperTux?
+[2015/12/26 07:54:03] <mt> yes
+[2015/12/26 07:54:08] <Karkus> mt: Oh
+[2015/12/26 07:54:17] <Karkus> I know what you mean.
+[2015/12/26 07:54:42] <mt> see data/levels/test_old/pushbutton.stl
+[2015/12/26 07:54:59] <mt> what did you expect as PushButtons?
+[2015/12/26 07:55:45] <mt> Also I guess there should be MultiLineStringProperty(StringProperty)
+[2015/12/26 07:56:01] <mt> since you can't enter newlines in the one-line thing
+[2015/12/26 07:56:13] <mt> (for scripts)
+[2015/12/26 07:59:36] <Karkus> mt: Scripts are going to have their own property. It will open a new tab, and have syntax highlighting
+[2015/12/26 07:59:49] <mt> :)
+[2015/12/26 07:59:54] <mt> ok then
