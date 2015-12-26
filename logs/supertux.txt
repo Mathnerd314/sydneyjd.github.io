@@ -32182,3 +32182,5 @@
 [2015/12/25 19:04:18] @ Quit: claymore2: Quit: Leaving
 [2015/12/25 19:09:12] @ Quit: Karkus: Ping timeout: 272 seconds
 [2015/12/25 19:34:30] @ Quit: jesusalva: Ping timeout: 260 seconds
+[2015/12/25 19:46:47] @ jesusalva joined channel #supertux
+[2015/12/25 19:55:59] @ Quit: grumbel: Remote host closed the connection
