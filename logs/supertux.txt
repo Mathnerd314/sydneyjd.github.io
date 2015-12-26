@@ -32512,3 +32512,10 @@
 [2015/12/26 12:57:33] <grumbel> Hume2: the develop branch has been merged into master after the release
 [2015/12/26 12:58:03] <Hume2> Thant means that the problem is after-0.4.0.
 [2015/12/26 12:58:40] <grumbel> As for the error, it's caused by a string not being quoted, the new parser is a bit more pedantic then the old when it comes to incorrect syntax
+[2015/12/26 13:01:08] <Hume2> Once I wondered why it says that the string is "=". It was because I wrote (name = <value>).
+[2015/12/26 13:02:44] <grumbel> Anybody fixing this issue or shall I?
+[2015/12/26 13:03:01] <mt> 18:55 (Not-e81f) [supertux] Hume2 9a59350 - Fixed: Dispensers don't work
+[2015/12/26 13:03:11] <grumbel> ok
+[2015/12/26 13:06:56] <Hume2> I just cherry-picked one commit from the editor and renamed it.
+[2015/12/26 13:08:52] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/209
+[2015/12/26 13:09:23] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98891014
