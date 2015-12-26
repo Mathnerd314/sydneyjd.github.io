@@ -32197,3 +32197,6 @@
 [2015/12/26 02:06:26] @ Quit: Mathnerd314: Ping timeout: 240 seconds
 [2015/12/26 02:31:19] @ lumidify1 is now known as lumidify
 [2015/12/26 03:27:39] @ xet7 joined channel #supertux
+[2015/12/26 04:09:04] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#285: SuperTux 0.4 can't run - 13http://git.io/vEwze
+[2015/12/26 04:10:32] <Not-e81f> [02supertux] 07watchmakerful commented on issue 03#285: SuperTux 0.4 doesn't run on some Windows 10 machines - 13http://git.io/vEwzc
+[2015/12/26 04:14:04] @ Quit: tuxdev_: Ping timeout: 250 seconds
