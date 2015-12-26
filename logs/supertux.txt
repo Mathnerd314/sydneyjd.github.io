@@ -32585,3 +32585,5 @@
 [2015/12/26 14:22:29] <jesusalva> If I did, it would be all messed up and pt_PT players would complain.
 [2015/12/26 14:22:38] <mt> didn't think there's so much difference
 [2015/12/26 14:22:56] <jesusalva> There are semantic differences, and those are very important.
+[2015/12/26 14:42:09] <mt> ~note Tobbi what should we do about the Sie in the German translation? http://supertux.lethargik.org/wiki/Translation#Notes_for_Translators wants translators to use the personal form, if one exists
+[2015/12/26 14:42:09] <red_bot> okay, mt
