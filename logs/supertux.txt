@@ -32406,3 +32406,48 @@
 [2015/12/26 10:58:15] <head8debian> Im alive. :D
 [2015/12/26 10:58:16] <Karkus> mt: Also, you know this idea with the items to get to the next worldmap, will all the levels be visible in the same worldmap, or will you have to use an item, then go into that worldmap?
 [2015/12/26 10:58:23] <head8debian> Now lets try this thing.
+[2015/12/26 11:02:00] <mt> Karkus: I imagine it's possible to make levels appear using scripting
+[2015/12/26 11:02:00] <Karkus> mt: Would the worldmaps have to be "stuck together" or will they remain in seperate files?
+[2015/12/26 11:02:00] <Karkus> *separate
+[2015/12/26 11:02:00] <mt> I don't know
+[2015/12/26 11:02:00] <mt> if we want them to be visible at the same time, they'll have to be in one file
+[2015/12/26 11:02:00] <Karkus> mt: Do we want that?
+[2015/12/26 11:02:00] <mt> however making transitions and spawning to another worldmap is possible
+[2015/12/26 11:02:01] <mt> Karkus: tbh I'd prefer it being visible all at the same time
+[2015/12/26 11:02:01] <mt> one big worldmap
+[2015/12/26 11:02:08] <Karkus> mt: I don't think that would be very good.
+[2015/12/26 11:02:14] <head8debian> Phew, rbot doesn't register it.
+[2015/12/26 11:02:14] <head8debian> red_bot: *
+[2015/12/26 11:02:14] <head8debian> Id liek red-bot to not hav ops.
+[2015/12/26 11:02:52] <mt> Karkus: reasons?
+[2015/12/26 11:03:09] <mt> head8debian: register a separate account, ask for a bot cloak in #freenode
+[2015/12/26 11:03:33] <head8debian> mt: Why?
+[2015/12/26 11:03:50] <mt> so it doesn't get ops from ChanServ
+[2015/12/26 11:03:56] <Karkus> mt: It'd be a mess to edit, I guess
+[2015/12/26 11:04:31] <mt> Karkus: with a working editor probably not
+[2015/12/26 11:04:31] <Karkus> And we want to keep the different worlds separate right?
+[2015/12/26 11:04:44] <brmbrmcar>  /mode -o red_bot would be temporary.
+[2015/12/26 11:05:03] @ brmbrmcar left channel #supertux (requested by mt (we know what we're doing))
+[2015/12/26 11:05:34] @ brmbrmcar joined channel #supertux
+[2015/12/26 11:05:48] <brmbrmcar> Did I quit or something?
+[2015/12/26 11:05:52] <mt> no
+[2015/12/26 11:05:59] @ Quit: claymore2: Quit: Leaving
+[2015/12/26 11:06:06] <mt> I made you leave
+[2015/12/26 11:07:05] <Karkus> mt: Lots of layers is still messy.
+[2015/12/26 11:08:11] <mt> Karkus: layers would be only needed for making levels/castles appear/disappear
+[2015/12/26 11:08:20] <mt> so that's another problem
+[2015/12/26 11:09:01] <Karkus> mt: world1's worldmap has 14 layers
+[2015/12/26 11:09:13] <mt> convinced
+[2015/12/26 11:09:20] @ Hume2 joined channel #supertux
+[2015/12/26 11:09:20] @ Mode +v Hume2 by ChanServ
+[2015/12/26 11:09:22] <mt> let's try to keep it separate for now
+[2015/12/26 11:09:26] <Karkus> mt: And this is the kind of complexity I want. Antarctica's worldmap is great
+[2015/12/26 11:09:38] <Hume2> Agreed!
+[2015/12/26 11:09:48] <Karkus> mt: I admit that when I first entered the cave I was very impressed.
+[2015/12/26 11:10:17] <mt> same here, but I first saw that in LMH's addon
+[2015/12/26 11:10:32] <mt> long before it was added to the actual code
+[2015/12/26 11:11:00] <Hume2> The cave is a bit strange though.
+[2015/12/26 11:11:24] <Hume2> Why does it have paralax background? Is it large enough?
+[2015/12/26 11:12:45] <mt> ask LMH
+[2015/12/26 11:14:12] <Karkus> Hume2: I would say it's pretty large
+[2015/12/26 11:14:44] <Hume2> Have you ever been in a cave?
