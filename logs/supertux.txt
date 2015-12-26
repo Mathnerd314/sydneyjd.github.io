@@ -32220,3 +32220,4 @@
 [2015/12/26 06:37:17] @ alket joined channel #supertux
 [2015/12/26 06:41:28] @ Karkus joined channel #supertux
 [2015/12/26 06:41:28] @ Mode +o Karkus by ChanServ
+[2015/12/26 06:53:22] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- \o/
