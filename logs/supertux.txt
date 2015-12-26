@@ -32190,3 +32190,8 @@
 [2015/12/26 00:14:48] @ tuxdude143 joined channel #supertux
 [2015/12/26 00:18:20] @ Quit: tux|dude: Ping timeout: 250 seconds
 [2015/12/26 01:39:18] @ lumidify joined channel #supertux
+[2015/12/26 02:01:21] @ lumidify1 joined channel #supertux
+[2015/12/26 02:04:10] @ Quit: lumidify: Ping timeout: 260 seconds
+[2015/12/26 02:05:01] @ Quit: kneekoo: Quit: Page closed
+[2015/12/26 02:06:00] @ kneekoo joined channel #supertux
+[2015/12/26 02:06:26] @ Quit: Mathnerd314: Ping timeout: 240 seconds
