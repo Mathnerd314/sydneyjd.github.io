@@ -32368,3 +32368,5 @@
 [2015/12/26 09:34:10] <head8debian> Im confused...
 [2015/12/26 09:35:07] <Not-e81f> [02supertux] 07Grumbel commented on issue 03#225: All my wanted Console commands - 13http://git.io/vErEL
 [2015/12/26 09:36:42] @ lumidify joined channel #supertux
+[2015/12/26 09:58:00] @ Quit: head8debian: Quit: leaving
+[2015/12/26 09:58:15] @ head8debian joined channel #supertux
