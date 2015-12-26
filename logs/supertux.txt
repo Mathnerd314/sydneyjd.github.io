@@ -32601,3 +32601,6 @@
 [2015/12/26 15:24:33] <giby> Blemish english
 [2015/12/26 15:25:15] <giby> Belgian English... Damn autocorrect
 [2015/12/26 15:26:39] <giby> Someone also proposed to translate in English from Hungary...
+[2015/12/26 15:47:26] @ Quit: VargaD: Ping timeout: 246 seconds
+[2015/12/26 15:49:18] @ Quit: kneekoo: Quit: Leaving
+[2015/12/26 15:50:25] @ VargaD joined channel #supertux
