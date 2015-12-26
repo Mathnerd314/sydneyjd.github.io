@@ -32462,3 +32462,11 @@
 [2015/12/26 11:29:13] <Hume2> Karkus: Do you know that penguins are tetrachromatic, so they see four light channels?
 [2015/12/26 11:29:14] <mt> and how to edit backgrounds, ... that stuff
 [2015/12/26 11:29:48] <Karkus> mt: I'm working on it :D
+[2015/12/26 11:30:04] @ Quit: lumidify: Quit: Leaving
+[2015/12/26 11:30:14] <Karkus> mt: I know most of these problems, but there's a couple bigger problems bugging me right now.
+[2015/12/26 11:30:32] <mt> which bigger problems?
+[2015/12/26 11:33:07] <Karkus> mt: You can only edit one sector, Tobgle Road gives errors, You can't add layers, zooming out slows down the editor on laptops/slow computers
+[2015/12/26 11:33:08] <Not-e81f> [02flexlay] 07maxteufel commented on issue 03#19: Source View - 13http://git.io/vErQc
+[2015/12/26 11:39:28] <Not-e81f> [02flexlay] 07maxteufel commented on issue 03#56: Graphics Update - 13http://git.io/vEr7k
+[2015/12/26 11:39:54] <Not-e81f> [02flexlay] 07maxteufel labeled issue 03#56: Graphics Update - 13http://git.io/vEBK8
+[2015/12/26 11:39:56] <Not-e81f> [02flexlay] 07maxteufel labeled issue 03#56: Graphics Update - 13http://git.io/vEBK8
