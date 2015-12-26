@@ -32451,3 +32451,14 @@
 [2015/12/26 11:12:45] <mt> ask LMH
 [2015/12/26 11:14:12] <Karkus> Hume2: I would say it's pretty large
 [2015/12/26 11:14:44] <Hume2> Have you ever been in a cave?
+[2015/12/26 11:17:15] <Hume2> That's the LMH's disco style. It's not my favourite, but that's all I can do with that.
+[2015/12/26 11:21:45] @ brmbrmcar left channel #supertux ()
+[2015/12/26 11:24:49] <Hume2> Karkus: Has LMH ever been in a cave?
+[2015/12/26 11:25:18] <Karkus> Hume2: Have you ever been in a large cave? :P
+[2015/12/26 11:26:09] <Hume2> Karkus: Yes, but it still wasn't as big as the LMH's one.
+[2015/12/26 11:26:29] <Karkus> Hume2: We don't need to change it, though.
+[2015/12/26 11:26:38] <Hume2> Karkus: I know :D
+[2015/12/26 11:27:10] <mt> Karkus: layers in flexlay are a bit user unfriendly
+[2015/12/26 11:29:13] <Hume2> Karkus: Do you know that penguins are tetrachromatic, so they see four light channels?
+[2015/12/26 11:29:14] <mt> and how to edit backgrounds, ... that stuff
+[2015/12/26 11:29:48] <Karkus> mt: I'm working on it :D
