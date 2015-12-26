@@ -32217,3 +32217,6 @@
 [2015/12/26 06:14:52] @ claymore2 joined channel #supertux
 [2015/12/26 06:17:13] @ lumidify joined channel #supertux
 [2015/12/26 06:28:50] @ Quit: alket: Ping timeout: 250 seconds
+[2015/12/26 06:37:17] @ alket joined channel #supertux
+[2015/12/26 06:41:28] @ Karkus joined channel #supertux
+[2015/12/26 06:41:28] @ Mode +o Karkus by ChanServ
