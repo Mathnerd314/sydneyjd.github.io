@@ -32351,3 +32351,15 @@
 [2015/12/26 09:11:45] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98870270
 [2015/12/26 09:11:47] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/208
 [2015/12/26 09:12:40] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98870270
+[2015/12/26 09:15:18] <Not-e81f> [02flexlay] 07Karkus476 pushed 031 commit to 03develop [+0/-0/±3] 13http://git.io/vEr8n
+[2015/12/26 09:15:19] <Not-e81f> [02flexlay] 07Karkus 0321b881b - TileSelector repaints on tilegroup change, updates on tileset change
+[2015/12/26 09:19:17] <head8debian> :D
+[2015/12/26 09:19:28] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#296: Remove recommendation of proprietary drivers in README - 13http://git.io/vEr43
+[2015/12/26 09:19:38] <Not-e81f> [02supertux] 07maxteufel pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEr4Z
+[2015/12/26 09:19:39] <Not-e81f> [02supertux] 07Calinou 032dc4721 - Remove recommendation of proprietary drivers in README
+[2015/12/26 09:19:41] <Not-e81f> [02supertux] 07maxteufel closed pull request 03#296: Remove recommendation of proprietary drivers in README - 13http://git.io/vErl4
+[2015/12/26 09:19:42] <Not-e81f> [02supertux] 04Error. AppVeyor build cancelled - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/208
+[2015/12/26 09:20:57] <Karkus> mt: By the way, https://github.com/SuperTux/supertux/pull/293 wasn't a typo. It was a joke (not my joke). I'm glad it's gone though, as it's caused confusion befroe
+[2015/12/26 09:23:18] <head8debian> Karkus: Lol, that is a funny one. :) I never noticed.
+[2015/12/26 09:24:33] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98870270
+[2015/12/26 09:25:10] <Karkus> head8debian: Too confusing though.
