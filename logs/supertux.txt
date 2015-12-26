@@ -32231,3 +32231,7 @@
 [2015/12/26 07:24:46] @ Quit: lumidify: Quit: Leaving
 [2015/12/26 07:26:57] @ Karkus joined channel #supertux
 [2015/12/26 07:26:58] @ Mode +o Karkus by ChanServ
+[2015/12/26 07:31:23] @ Quit: Karkus: Ping timeout: 264 seconds
+[2015/12/26 07:35:53] @ Quit: leyyin: Remote host closed the connection
+[2015/12/26 07:40:56] @ Quit: claymore2: Ping timeout: 276 seconds
+[2015/12/26 07:42:12] @ claymore2 joined channel #supertux
