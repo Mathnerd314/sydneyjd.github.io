@@ -32318,3 +32318,21 @@
 [2015/12/26 08:43:18] <mt> in your screenshot
 [2015/12/26 08:43:31] <alket> yeah xD
 [2015/12/26 08:44:31] <alket> why do I need the coins for ?
+[2015/12/26 08:45:45] <mt> e.g. iirc 25 coins will be removed when you get spawned to a checkpoint
+[2015/12/26 08:46:07] <mt> when you have less than 100 it will spawn you at the beginning of the level iirc
+[2015/12/26 08:46:21] <Tobbi> :D
+[2015/12/26 08:46:33] <Tobbi> No, less than 25, I think
+[2015/12/26 08:46:50] <alket> I have 2000 coins so im good :)
+[2015/12/26 08:47:16] <Tobbi> pah! I have 9999 coins.
+[2015/12/26 08:49:08] <Not-e81f> [02supertux] 07maxteufel pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vErsN
+[2015/12/26 08:49:09] <Not-e81f> [02supertux] 07Max Teufel 036326585 - 23rd Airborne: fix z-index bug
+[2015/12/26 08:49:13] <mt> alket: there ^
+[2015/12/26 08:49:50] <alket> thanks :)
+[2015/12/26 08:51:10] <alket> wow you guys really did a good job
+[2015/12/26 08:51:15] <alket> levels are awesome
+[2015/12/26 08:51:57] <Not-e81f> [02flexlay] 07maxteufel pushed 031 commit to 03develop [+0/-0/±2] 13http://git.io/vErGV
+[2015/12/26 08:51:58] <Not-e81f> [02flexlay] 07Max Teufel 034ef8620 - supertux: add support for pushbutton
+[2015/12/26 08:52:47] <mt> world1 levels are mostly still from milestone 1 but updated to make use of the new features :)
+[2015/12/26 08:55:54] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#225: All my wanted Console commands - 13http://git.io/vErZz
+[2015/12/26 08:59:02] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#225: All my wanted Console commands - 13http://git.io/vErnb
+[2015/12/26 08:59:52] <alket> mt: for me Above the Artic skies is new :)
