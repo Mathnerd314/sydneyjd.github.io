@@ -32221,3 +32221,13 @@
 [2015/12/26 06:41:28] @ Karkus joined channel #supertux
 [2015/12/26 06:41:28] @ Mode +o Karkus by ChanServ
 [2015/12/26 06:53:22] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- \o/
+[2015/12/26 07:18:35] @ Quit: Karkus: Quit: Division By Zero
+[2015/12/26 07:18:55] @ Karkus joined channel #supertux
+[2015/12/26 07:18:55] @ Mode +o Karkus by ChanServ
+[2015/12/26 07:23:03] @ Quit: Karkus: Remote host closed the connection
+[2015/12/26 07:23:54] @ Karkus joined channel #supertux
+[2015/12/26 07:23:54] @ Mode +o Karkus by ChanServ
+[2015/12/26 07:24:33] @ Quit: Karkus: Remote host closed the connection
+[2015/12/26 07:24:46] @ Quit: lumidify: Quit: Leaving
+[2015/12/26 07:26:57] @ Karkus joined channel #supertux
+[2015/12/26 07:26:58] @ Mode +o Karkus by ChanServ
