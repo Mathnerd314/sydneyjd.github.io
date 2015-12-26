@@ -32604,3 +32604,4 @@
 [2015/12/26 15:47:26] @ Quit: VargaD: Ping timeout: 246 seconds
 [2015/12/26 15:49:18] @ Quit: kneekoo: Quit: Leaving
 [2015/12/26 15:50:25] @ VargaD joined channel #supertux
+[2015/12/26 16:16:53] @ Quit: giby: Quit: This computer has gone to sleep
