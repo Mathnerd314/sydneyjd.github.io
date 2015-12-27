@@ -32995,3 +32995,11 @@
 [2015/12/27 18:06:08] @ Quit: alket: Ping timeout: 255 seconds
 [2015/12/27 18:09:24] @ alket joined channel #supertux
 [2015/12/27 18:09:30] @ Quit: claymore2: Quit: Leaving
+[2015/12/27 18:16:35] <Not-e81f> [02supertux] 07gmontalvoriv starred 03supertux - 13http://git.io/vEPA8
+[2015/12/27 18:17:25] <Not-e81f> [02supertux] 07lmumar starred 03supertux - 13http://git.io/vEPAR
+[2015/12/27 18:17:54] <Not-e81f> [02supertux] 07lmumar forked the repository - 13http://git.io/vEPAR
+[2015/12/27 18:19:27] @ tux|dude joined channel #supertux
+[2015/12/27 18:21:06] @ Quit: alket: Quit: Good Night :)
+[2015/12/27 18:21:24] <greg2> thanks polyphagia
+[2015/12/27 18:23:49] @ Quit: tuxdev_: Ping timeout: 250 seconds
+[2015/12/27 18:27:47] @ Quit: tomreyn: Quit: $Famous_last_words
