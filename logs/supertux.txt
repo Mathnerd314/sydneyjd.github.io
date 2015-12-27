@@ -32917,3 +32917,40 @@
 [2015/12/27 15:12:05] <alket> everyone flying https://lut.im/baYkz3A9gt/VdzKKccytpLkbYN1.png xD
 [2015/12/27 15:13:22] <Not-e81f> [02supertux] 07robertboloc starred 03supertux - 13http://git.io/vEP3M
 [2015/12/27 15:13:50] <Hume2> alket: Don't ever want to see how was it before.
+[2015/12/27 15:15:11] <alket> Hume2: im just playing it as a regualr player
+[2015/12/27 15:18:05] <Not-e81f> [02supertux] 07maxteufel created branch 03fix/298 - 13http://git.io/vvf63
+[2015/12/27 15:18:07] <Not-e81f> [02supertux] 07maxteufel pushed 031 commit to 03fix/298 [+0/-0/±1] 13http://git.io/vEPs9
+[2015/12/27 15:18:08] <Not-e81f> [02supertux] 07Max Teufel 03d270ba3 - bonus1/thompson-level2: fix issue with big Tux being visible in pipe
+[2015/12/27 15:18:29] <mt> alket: can you try that fix>
+[2015/12/27 15:18:35] <mt> s/>/\?/
+[2015/12/27 15:18:35] <red_bot> mt meant: "alket: can you try that fix\?"
+[2015/12/27 15:18:50] <mt> red_bot: silly bot, not allowing escaping
+[2015/12/27 15:20:24] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#298: Bug in "Bad Guys Stink" - 13http://git.io/vEPOI
+[2015/12/27 15:20:26] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#298: Bug in "Bad Guys Stink" - 13http://git.io/vEPOI
+[2015/12/27 15:20:27] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#298: Bug in "Bad Guys Stink" - 13http://git.io/vEPOI
+[2015/12/27 15:20:30] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/99008411
+[2015/12/27 15:21:00] <alket> mt: yes soon
+[2015/12/27 15:21:26] <alket> currently I am trying to pass "Pipe down over there" which is made by a very bad person :p
+[2015/12/27 15:21:53] <mt> some of the M1 levels are badly made/don't work well with M2
+[2015/12/27 15:23:25] <Not-e81f> [02supertux] 07maxteufel labeled pull request 03#297: getting a null string exception when the data dir is unable to be set - 13http://git.io/vEPOf
+[2015/12/27 15:23:27] <Not-e81f> [02supertux] 07maxteufel labeled pull request 03#297: getting a null string exception when the data dir is unable to be set - 13http://git.io/vEPOf
+[2015/12/27 15:23:28] <Not-e81f> [02supertux] 07maxteufel labeled pull request 03#297: getting a null string exception when the data dir is unable to be set - 13http://git.io/vEPOf
+[2015/12/27 15:23:30] <Not-e81f> [02supertux] 07maxteufel labeled pull request 03#297: getting a null string exception when the data dir is unable to be set - 13http://git.io/vEPOf
+[2015/12/27 15:23:31] <Not-e81f> [02supertux] 07maxteufel labeled pull request 03#297: getting a null string exception when the data dir is unable to be set - 13http://git.io/vEPOf
+[2015/12/27 15:23:33] <Not-e81f> [02supertux] 07maxteufel labeled pull request 03#297: getting a null string exception when the data dir is unable to be set - 13http://git.io/vEPOf
+[2015/12/27 15:23:47] <mt> Spamtifico!
+[2015/12/27 15:25:06] <jesusalva> Can't you program Not-e81f to be a little less verbose? So it only says one change you done per request instead of all changes. :/
+[2015/12/27 15:25:23] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/213
+[2015/12/27 15:25:39] <mt> Owners on github could turn off labels entirely
+[2015/12/27 15:25:44] <alket> mt: its a very good level, quite challenging
+[2015/12/27 15:25:55] <mt> but because github calls the hook per label changed
+[2015/12/27 15:26:03] <mt> we can't say, post this but not this
+[2015/12/27 15:26:16] <mt> well we could but Not-e81f is hosted by someone else
+[2015/12/27 15:26:59] <jesusalva> It's said to be hosted by 198.199.82.216
+[2015/12/27 15:27:28] * jesusalva thinks that Not-e81f could use a cloack.
+[2015/12/27 15:27:33] <mt> http://n.tkte.ch/
+[2015/12/27 15:28:03] <mt> jesusalva: I think the developer who also hosts that instance doesn't want to/have time to add SASL
+[2015/12/27 15:28:48] <mt> also, as one instance might spawn more than 5 irc bots and freenode's maximum logged in per account at a time is 5, that'll be a problem
+[2015/12/27 15:29:26] <jesusalva> Oh. Thanks for the info. :)
+[2015/12/27 15:29:27] <mt> I think I could set up my bot to announce commits instead of notifico
+[2015/12/27 15:29:56] <jesusalva> #freedroid uses their own bot-302 and bot-329. One announces commits and pull requests, the other announce builds.
