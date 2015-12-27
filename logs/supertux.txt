@@ -32667,3 +32667,7 @@
 [2015/12/27 01:57:27] @ Quit: dot_: Client Quit
 [2015/12/27 02:11:10] @ Quit: tuxdude143: Ping timeout: 256 seconds
 [2015/12/27 02:13:02] @ Quit: mt: Quit: bcodetest
+[2015/12/27 02:16:37] @ mteufel joined channel #supertux
+[2015/12/27 02:16:37] @ Mode +o mteufel by ChanServ
+[2015/12/27 02:22:54] @ xet7 joined channel #supertux
+[2015/12/27 02:25:03] @ brmbrmcar left channel #supertux ()
