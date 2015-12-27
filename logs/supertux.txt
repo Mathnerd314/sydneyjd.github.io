@@ -32954,3 +32954,22 @@
 [2015/12/27 15:29:26] <jesusalva> Oh. Thanks for the info. :)
 [2015/12/27 15:29:27] <mt> I think I could set up my bot to announce commits instead of notifico
 [2015/12/27 15:29:56] <jesusalva> #freedroid uses their own bot-302 and bot-329. One announces commits and pull requests, the other announce builds.
+[2015/12/27 15:30:46] <mt> is that their own or the github one
+[2015/12/27 15:31:28] <jesusalva> I think it's their own. (bot-329@freedroid.osuosl.org)
+[2015/12/27 15:32:09] <jesusalva> It announces commits and request changes (bot-302) and when a build is started/completed (bot-329)
+[2015/12/27 15:32:18] <mt> can you ask them what they're using?
+[2015/12/27 15:32:46] <jesusalva> Hm. matthiaskrgr or fluzz should know...
+[2015/12/27 15:33:21] <Hume2> I made a levelset for annoying people, or you can just play it when you get bored: https://www.dropbox.com/s/wwsjjeys94ts4as/tt_reborn1.zip?dl=0
+[2015/12/27 15:33:32] <jesusalva> Ok, asked them. I must go now for church, so bye. :)
+[2015/12/27 15:33:37] <Hume2> requiments: Get really bored.
+[2015/12/27 15:34:09] @ Quit: jesusalva: Quit: I went to the Church. Good bye everyone, Jesus bless you all!
+[2015/12/27 15:35:06] <Hume2> Oh, it doesn't work, sorry.
+[2015/12/27 15:36:57] <Hume2> Now it should work: https://www.dropbox.com/s/wwsjjeys94ts4as/tt_reborn1.zip?dl=0
+[2015/12/27 15:38:20] <Not-e81f> [02supertux] 07Alexis-D starred 03supertux - 13http://git.io/vEPWI
+[2015/12/27 15:38:40] <Hume2> Real TeraTux had at least 1000 levels, but I don't wan't to make so many levels now.
+[2015/12/27 15:41:56] <alket> it took me 26:33 to finish "Pipe down over there" xD
+[2015/12/27 15:42:17] <alket> who is Matrix ?
+[2015/12/27 15:42:47] @ Quit: Karkus: Ping timeout: 264 seconds
+[2015/12/27 15:43:16] <mt> what's TeraTux, actually?
+[2015/12/27 15:44:26] <Hume2> mt: That was a levelset that contained 1000 crappy levels.
+[2015/12/27 15:44:45] <Hume2> Please don't tell the community how I make the levels now.
