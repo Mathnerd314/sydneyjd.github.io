@@ -32642,3 +32642,6 @@
 [2015/12/26 21:40:15] @ Mode +nt by sinisalo.freenode.net
 [2015/12/26 21:40:23] @ Mode +o red_bot by ChanServ
 [2015/12/26 22:06:16] <Not-e81f> [02supertux] 07tsinpan starred 03supertux - 13http://git.io/vEKuP
+[2015/12/27 00:12:14] @ Quit: mt: Ping timeout: 245 seconds
+[2015/12/27 00:13:41] @ mt joined channel #supertux
+[2015/12/27 00:13:41] @ Mode +o mt by ChanServ
