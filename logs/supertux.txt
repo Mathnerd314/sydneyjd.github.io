@@ -32839,3 +32839,18 @@
 [2015/12/27 14:28:16] <mt> I'm always amazed how some groups/projects have such a great infrastructure
 [2015/12/27 14:28:24] <mt> Like, all the money for 32C3
 [2015/12/27 14:28:38] <mt> I'm watching a full HD livestream
+[2015/12/27 14:37:43] <Not-e81f> [02supertux] 07stevez0r starred 03supertux - 13http://git.io/vEPTX
+[2015/12/27 14:40:08] @ polyphagia joined channel #supertux
+[2015/12/27 14:40:38] <polyphagia> i was playing supertux at half window width, then resized it, but the background only redraws in one section
+[2015/12/27 14:40:46] <polyphagia> https://i.imgur.com/1dAmi8X.png
+[2015/12/27 14:40:48] <polyphagia> is this a known bug?
+[2015/12/27 14:40:55] <polyphagia> this is in 0.4.0 in sid
+[2015/12/27 14:42:26] <Not-e81f> [02supertux] 07leereilly starred 03supertux - 13http://git.io/ZkhCvA
+[2015/12/27 14:42:46] <Not-e81f> [02supertux] 07flexelektro starred 03supertux - 13http://git.io/vEPIY
+[2015/12/27 14:42:54] <polyphagia> lol cute
+[2015/12/27 14:43:05] <mt> polyphagia: I guess you're not supposed to resize a window to a resolution that's not listed in options
+[2015/12/27 14:43:29] <polyphagia> oh alright
+[2015/12/27 14:43:38] <mt> however this looks like a quite strange issue
+[2015/12/27 14:43:41] <polyphagia> yeah it's temporary anyway, it does work fine at that size though
+[2015/12/27 14:44:00] <polyphagia> my window manager probably ignores supertux's requests
+[2015/12/27 14:44:39] <mt> might be your window manager, might be us not redrawing everything on window resize
