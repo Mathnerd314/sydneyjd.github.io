@@ -32675,3 +32675,5 @@
 [2015/12/27 04:55:34] @ mt joined channel #supertux
 [2015/12/27 04:55:34] @ Mode +o mt by ChanServ
 [2015/12/27 04:58:58] @ Quit: mteufel: Quit: leaving
+[2015/12/27 06:03:49] @ lumidify joined channel #supertux
+[2015/12/27 06:07:40] @ brmbrmcar joined channel #supertux
