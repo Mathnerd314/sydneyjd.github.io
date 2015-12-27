@@ -32828,3 +32828,5 @@
 [2015/12/27 13:54:29] <Karkus> mt: Though at the moment builds are sometimes failing when they shouldn't, right?
 [2015/12/27 13:54:42] <mt> might be
 [2015/12/27 13:55:46] <Hume2> That's true.
+[2015/12/27 14:05:47] <mt> parse the message Travis/AppVeyor prints and if it's a compiler error kick the user?
+[2015/12/27 14:12:14] @ Quit: leyyin: Remote host closed the connection
