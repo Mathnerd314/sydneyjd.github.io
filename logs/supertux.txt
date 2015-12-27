@@ -32899,3 +32899,21 @@
 [2015/12/27 14:57:43] <mt> normally it would play an extro saying penny isn't there
 [2015/12/27 14:59:30] <alket> :S
 [2015/12/27 14:59:34] <jesusalva> mt: Does the 0.4.0 contains SDL2?
+[2015/12/27 15:00:18] <mt> yes
+[2015/12/27 15:00:27] <jesusalva> Thanks. :)
+[2015/12/27 15:00:48] <Not-e81f> [02flexlay] 07Karkus476 pushed 032 commits to 03develop [+0/-0/±10] 13http://git.io/vEPm8
+[2015/12/27 15:00:49] <Not-e81f> [02flexlay] 07Karkus 032bc8a7f - Hide Camera from user
+[2015/12/27 15:00:51] <Not-e81f> [02flexlay] 07Karkus 03ccdeb7c - More property fixes: you can edit camera properties
+[2015/12/27 15:01:10] <Not-e81f> [02flexlay] 07Karkus476 closed issue 03#61: Treat camera as a special property of a level - 13http://git.io/vE6NM
+[2015/12/27 15:03:33] <mt> >Removed intro/extro.txt from world1 since they are not being used and time-consuming to translators
+[2015/12/27 15:05:14] <mt> Karkus: don't forget to add Closes #... (best in a new line) to the commit msg
+[2015/12/27 15:07:39] <Not-e81f> [02supertux] 07devnexen opened pull request 03#297: getting a null string exception when the data dir is unable to be set - 13http://git.io/vEPOf
+[2015/12/27 15:07:40] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99008411
+[2015/12/27 15:07:43] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/213
+[2015/12/27 15:07:50] @ greg2 joined channel #supertux
+[2015/12/27 15:08:06] <Not-e81f> [02supertux] 07alketii opened issue 03#298: Bug in "Bad Guys Stink" - 13http://git.io/vEPOI
+[2015/12/27 15:08:38] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99008411
+[2015/12/27 15:11:19] <Not-e81f> [02supertux] 07andyPark starred 03supertux - 13http://git.io/vEPO1
+[2015/12/27 15:12:05] <alket> everyone flying https://lut.im/baYkz3A9gt/VdzKKccytpLkbYN1.png xD
+[2015/12/27 15:13:22] <Not-e81f> [02supertux] 07robertboloc starred 03supertux - 13http://git.io/vEP3M
+[2015/12/27 15:13:50] <Hume2> alket: Don't ever want to see how was it before.
