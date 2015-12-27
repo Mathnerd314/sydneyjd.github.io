@@ -32654,3 +32654,9 @@
 [2015/12/27 01:15:53] @ Quit: tux|dude: Ping timeout: 276 seconds
 [2015/12/27 01:17:50] @ mt joined channel #supertux
 [2015/12/27 01:17:50] @ Mode +o mt by ChanServ
+[2015/12/27 01:34:08] @ Quit: mt: Quit: ZNC 1.7.x-git-483-69b031c - http://znc.in
+[2015/12/27 01:36:20] @ mt joined channel #supertux
+[2015/12/27 01:36:20] @ Mode +o mt by ChanServ
+[2015/12/27 01:38:23] @ nail joined channel #supertux
+[2015/12/27 01:38:25] <nail> help
+[2015/12/27 01:39:02] <nail> i want to play supertux, cant figure out how to compile it
