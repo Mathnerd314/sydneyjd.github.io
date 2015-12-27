@@ -32767,3 +32767,27 @@
 [2015/12/27 11:14:19] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/211
 [2015/12/27 11:14:20] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/212
 [2015/12/27 11:14:58] <maths22> mt: Sure.  I'll work on that shortly
+[2015/12/27 11:15:10] <maths22> (Where shortly probably means tomorrow)
+[2015/12/27 11:15:22] <maths22> mt: Take a look at the new userdir branch
+[2015/12/27 11:16:17] @ Quit: lumidify: Quit: Leaving
+[2015/12/27 11:16:52] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98984977
+[2015/12/27 11:18:02] <mt> better than the SuperTux/supertux2 one
+[2015/12/27 11:18:30] <Not-e81f> [02flexlay] 07Karkus476 closed issue 03#62: Add 'main' default spawnpoint at a sane location - 13http://git.io/vE6x8
+[2015/12/27 11:18:31] <Not-e81f> [02flexlay] 07Karkus476 closed issue 03#1: Layers - 13http://git.io/vRG8Y
+[2015/12/27 11:18:33] <Not-e81f> [02flexlay] 07Karkus476 pushed 035 commits to 03develop [+2/-1/±18] 13http://git.io/vEicG
+[2015/12/27 11:18:34] <Not-e81f> [02flexlay] 07Karkus 03000b2c8 - Disallows drawing on hidden tilemap_layer
+[2015/12/27 11:18:35] <Not-e81f> [02flexlay] 07Karkus 03c7e6213 - Allows removing tilemaps
+[2015/12/27 11:18:37] <Not-e81f> [02flexlay] 07Karkus 0369c9c70 - Fixes small bug with tilemap rendering
+[2015/12/27 11:18:39] <Not-e81f> [02flexlay] ... and 2 more commits.
+[2015/12/27 11:18:39] <maths22> mt: It will go into "$XDG_DATA_DIR/supertux2/"
+[2015/12/27 11:19:11] <maths22> Windows is "%APP_DATA%/SuperTux/supertux2/", but that is the Windows convention
+[2015/12/27 11:19:20] <mt> ideally you'd put config, profiles and savegame files in XDG_CONFIG_HOME, addons in XDG_DATA_HOME
+[2015/12/27 11:20:51] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/98984486
+[2015/12/27 11:21:40] <maths22> mt: That would be ideal, and I can look into creating our own version of PHYSFS_getPrefDir that conforms to that convention
+[2015/12/27 11:22:18] <maths22> However, PhysFS supports only a single write dir
+[2015/12/27 11:22:31] @ jesusalva joined channel #supertux
+[2015/12/27 11:23:29] <mt> oh so that's why you wanted to know about the fs lib?
+[2015/12/27 11:26:37] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/210
+[2015/12/27 11:26:47] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98984987
+[2015/12/27 11:28:12] <mt> maths22: would be nice to see some download statistics for the nightlies, if you have the time to get those :)
+[2015/12/27 11:29:52] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/98984977
