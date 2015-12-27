@@ -32626,3 +32626,4 @@
 [2015/12/26 18:47:53] <Not-e81f> [02flexlay] 07Karkus476 assigned issue 03#50: Support For Multiple Sectors - 13http://git.io/vRbHy
 [2015/12/26 18:56:49] @ Quit: Karkus: Remote host closed the connection
 [2015/12/26 19:33:56] @ Quit: jesusalva_: Ping timeout: 256 seconds
+[2015/12/26 20:14:34] @ Quit: giby: Quit: This computer has gone to sleep
