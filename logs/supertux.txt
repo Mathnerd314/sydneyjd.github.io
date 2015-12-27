@@ -32987,3 +32987,6 @@
 [2015/12/27 17:04:37] @ brmbrmcar joined channel #supertux
 [2015/12/27 17:07:29] <Not-e81f> [02supertux] 07shjasti starred 03supertux - 13http://git.io/vEP1H
 [2015/12/27 17:15:09] <Not-e81f> [02supertux] 07z2s8 starred 03supertux - 13http://git.io/vEPDH
+[2015/12/27 17:35:35] @ Quit: Karkus: Quit: Division By Zero
+[2015/12/27 17:37:26] @ claymore2 joined channel #supertux
+[2015/12/27 17:43:05] <alket> a starring spree, nice
