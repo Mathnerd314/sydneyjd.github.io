@@ -32813,3 +32813,18 @@
 [2015/12/27 13:37:08] <mt> we absolutely need this https://gist.github.com/marick/3ec112bc38b2af267e15
 [2015/12/27 13:37:29] <mt> ("Lava lamps make build failures get fixed faster")
 [2015/12/27 13:42:42] <Hume2> mt: That's nice.
+[2015/12/27 13:48:10] <Karkus> mt: Where should we put the lava lamps?
+[2015/12/27 13:50:12] <mt> IDEA! make some irc bot kick the user that caused the broken build if it's not fixed within 30 minutes :D
+[2015/12/27 13:50:29] <Hume2> I'd put it to my pile containing a penguin, paper angrystone and other stuff.
+[2015/12/27 13:50:46] <Hume2> mt: +1
+[2015/12/27 13:51:10] <mt> can possibly be done when I finally write an IRC bot in python
+[2015/12/27 13:51:16] <Hume2> Or resemble it him until he will correct it.
+[2015/12/27 13:52:23] <Karkus> mt: From scratch?
+[2015/12/27 13:52:39] <mt> Mainly from scratch
+[2015/12/27 13:53:02] <mt> I might use https://github.com/mammon-ircd/ircreactor for serializing
+[2015/12/27 13:53:35] <Karkus> Good idea
+[2015/12/27 13:53:42] <Karkus> It's not hard though
+[2015/12/27 13:54:20] <mt> the thing is it should also be able to load modules
+[2015/12/27 13:54:29] <Karkus> mt: Though at the moment builds are sometimes failing when they shouldn't, right?
+[2015/12/27 13:54:42] <mt> might be
+[2015/12/27 13:55:46] <Hume2> That's true.
