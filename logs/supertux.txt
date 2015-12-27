@@ -32791,3 +32791,7 @@
 [2015/12/27 11:26:47] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98984987
 [2015/12/27 11:28:12] <mt> maths22: would be nice to see some download statistics for the nightlies, if you have the time to get those :)
 [2015/12/27 11:29:52] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/98984977
+[2015/12/27 11:32:10] @ tuxdev_ joined channel #supertux
+[2015/12/27 11:39:53] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/98984987
+[2015/12/27 11:40:51] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/211
+[2015/12/27 11:44:58] <maths22> mt: I'll see if I can generate some from the apache log
