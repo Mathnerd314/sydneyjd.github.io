@@ -32992,3 +32992,6 @@
 [2015/12/27 17:43:05] <alket> a starring spree, nice
 [2015/12/27 17:48:11] <greg2> what does those starred means?
 [2015/12/27 17:54:00] <polyphagia> accounts on github that bookmarked the repo
+[2015/12/27 18:06:08] @ Quit: alket: Ping timeout: 255 seconds
+[2015/12/27 18:09:24] @ alket joined channel #supertux
+[2015/12/27 18:09:30] @ Quit: claymore2: Quit: Leaving
