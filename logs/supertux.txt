@@ -32690,3 +32690,7 @@
 [2015/12/27 09:09:02] <Not-e81f> [02flexlay] 07Karkus476 opened issue 03#59: Flexlay Should Work On Windows - 13http://git.io/vE6de
 [2015/12/27 09:09:04] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#59: Flexlay Should Work On Windows - 13http://git.io/vE6de
 [2015/12/27 09:09:05] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#59: Flexlay Should Work On Windows - 13http://git.io/vE6de
+[2015/12/27 09:28:15] <Not-e81f> [02flexlay] 07maxteufel opened issue 03#60: Improve user-friendliness of layers - 13http://git.io/vE6NV
+[2015/12/27 09:29:04] <Not-e81f> [02flexlay] 07maxteufel opened issue 03#61: Treat camera as a special property of a level - 13http://git.io/vE6NM
+[2015/12/27 09:29:51] <Not-e81f> [02flexlay] 07maxteufel labeled issue 03#60: Improve user-friendliness of layers - 13http://git.io/vE6NV
+[2015/12/27 09:29:52] <Not-e81f> [02flexlay] 07maxteufel labeled issue 03#60: Improve user-friendliness of layers - 13http://git.io/vE6NV
