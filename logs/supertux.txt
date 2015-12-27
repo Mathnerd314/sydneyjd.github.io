@@ -32660,3 +32660,8 @@
 [2015/12/27 01:38:23] @ nail joined channel #supertux
 [2015/12/27 01:38:25] <nail> help
 [2015/12/27 01:39:02] <nail> i want to play supertux, cant figure out how to compile it
+[2015/12/27 01:52:28] <nail> got it
+[2015/12/27 01:52:39] @ Quit: nail: Quit: Page closed
+[2015/12/27 01:55:52] @ Quit: tuxdev_: Ping timeout: 256 seconds
+[2015/12/27 01:56:20] @ dot_ joined channel #supertux
+[2015/12/27 01:57:27] @ Quit: dot_: Client Quit
