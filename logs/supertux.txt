@@ -32699,3 +32699,8 @@
 [2015/12/27 09:37:24] <Not-e81f> [02flexlay] 07maxteufel opened issue 03#62: Add 'main' default spawnpoint at a sane location - 13http://git.io/vE6x8
 [2015/12/27 09:37:25] <Not-e81f> [02flexlay] 07maxteufel labeled issue 03#62: Add 'main' default spawnpoint at a sane location - 13http://git.io/vE6x8
 [2015/12/27 09:37:27] <Not-e81f> [02flexlay] 07maxteufel labeled issue 03#62: Add 'main' default spawnpoint at a sane location - 13http://git.io/vE6x8
+[2015/12/27 10:03:52] @ Quit: xet7: Quit: Leaving
+[2015/12/27 10:08:56] <mt> oh wow https://github.com/SuperTux/supertux/graphs/traffic
+[2015/12/27 10:09:01] <mt> see Popular content
+[2015/12/27 10:09:08] <mt> "Unique visitors"
+[2015/12/27 10:10:05] <mt> I know it's not that much, but more than usual I guess
