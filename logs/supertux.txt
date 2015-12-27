@@ -32750,3 +32750,20 @@
 [2015/12/27 10:54:53] <Karkus> Lots to do...
 [2015/12/27 10:56:27] @ leyyin joined channel #supertux
 [2015/12/27 10:59:39] @ brmbrmcar left channel #supertux ()
+[2015/12/27 11:03:31] @ ced117 joined channel #supertux
+[2015/12/27 11:07:26] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEiGA
+[2015/12/27 11:07:27] <Not-e81f> [02supertux] 07Jacob Burroughs 03d511009 - Fix Windows builds
+[2015/12/27 11:07:29] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98984486
+[2015/12/27 11:07:31] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/210
+[2015/12/27 11:08:25] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98984486
+[2015/12/27 11:11:37] <mt> maths22: could you attempt to fix OBS?
+[2015/12/27 11:12:13] <mt> and also build some packages for the v0.4.0 tag?
+[2015/12/27 11:14:09] <Not-e81f> [02supertux] 07maths22 pushed 032 commits to 03userdir [+0/-0/±2] 13http://git.io/vEin0
+[2015/12/27 11:14:11] <Not-e81f> [02supertux] 07Jacob Burroughs 03d368f76 - Log stdout/stderr on Windows.
+[2015/12/27 11:14:12] <Not-e81f> [02supertux] 07Jacob Burroughs 0309aa84e - Change userdir to platform-standard locations (i.e. XDG_DATA_DIR on Linux, AppData on Windows, etc)
+[2015/12/27 11:14:14] <Not-e81f> [02supertux] 07maths22 synchronize pull request 03#294: Improved userdir handling; force windows logging to default userdir - 13http://git.io/vE2HH
+[2015/12/27 11:14:15] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98984977
+[2015/12/27 11:14:17] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/98984987
+[2015/12/27 11:14:19] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/211
+[2015/12/27 11:14:20] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/212
+[2015/12/27 11:14:58] <maths22> mt: Sure.  I'll work on that shortly
