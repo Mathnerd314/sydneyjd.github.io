@@ -32633,3 +32633,11 @@
 [2015/12/26 21:00:21] @ Quit: giby: Quit: This computer has gone to sleep
 [2015/12/26 21:28:19] @ giby joined channel #supertux
 [2015/12/26 21:28:19] @ Mode +o giby by ChanServ
+[2015/12/26 21:39:36] @ quit (seeya)
+[2015/12/26 21:39:37] @ Log closed by * (rescan or shutdown)
+[2015/12/26 21:40:10] @ Log started by red_bot
+[2015/12/26 21:40:10] @ Joined channel #supertux
+[2015/12/26 21:40:10] @ Topic is "IRC meeting Jan 9, 15:00 GMT | https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2015/12/26 21:40:10] @ Topic set by mt!~mteufel@unaffiliated/supermat on 2015-12-25 13:52:02 -0500
+[2015/12/26 21:40:15] @ Mode +nt by sinisalo.freenode.net
+[2015/12/26 21:40:23] @ Mode +o red_bot by ChanServ
