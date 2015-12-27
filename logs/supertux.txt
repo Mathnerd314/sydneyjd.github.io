@@ -32984,3 +32984,5 @@
 [2015/12/27 16:44:08] <Not-e81f> [02supertux] 07burningTyger starred 03supertux - 13http://git.io/ty
 [2015/12/27 16:47:49] <Not-e81f> [02supertux] 07samuelcolvin starred 03supertux - 13http://git.io/vEPKQ
 [2015/12/27 16:53:48] <Not-e81f> [02supertux] 07aminb starred 03supertux - 13http://git.io/1hew2w
+[2015/12/27 17:04:37] @ brmbrmcar joined channel #supertux
+[2015/12/27 17:07:29] <Not-e81f> [02supertux] 07shjasti starred 03supertux - 13http://git.io/vEP1H
