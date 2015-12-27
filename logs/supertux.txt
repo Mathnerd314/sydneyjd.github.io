@@ -32990,3 +32990,5 @@
 [2015/12/27 17:35:35] @ Quit: Karkus: Quit: Division By Zero
 [2015/12/27 17:37:26] @ claymore2 joined channel #supertux
 [2015/12/27 17:43:05] <alket> a starring spree, nice
+[2015/12/27 17:48:11] <greg2> what does those starred means?
+[2015/12/27 17:54:00] <polyphagia> accounts on github that bookmarked the repo
