@@ -32980,3 +32980,5 @@
 [2015/12/27 15:59:53] @ Quit: claymore2: Quit: Leaving
 [2015/12/27 16:03:36] <Not-e81f> [02supertux] 07detj starred 03supertux - 13http://git.io/vEPEs
 [2015/12/27 16:03:47] <Not-e81f> [02supertux] 07jvelo starred 03supertux - 13http://git.io/vEPEG
+[2015/12/27 16:33:41] <Not-e81f> [02supertux] 07gratimax starred 03supertux - 13http://git.io/bdat
+[2015/12/27 16:44:08] <Not-e81f> [02supertux] 07burningTyger starred 03supertux - 13http://git.io/ty
