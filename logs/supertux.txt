@@ -32704,3 +32704,17 @@
 [2015/12/27 10:09:01] <mt> see Popular content
 [2015/12/27 10:09:08] <mt> "Unique visitors"
 [2015/12/27 10:10:05] <mt> I know it's not that much, but more than usual I guess
+[2015/12/27 10:19:01] <mt> SuperTux-0.4.0-Darwin.dmg: 2522 downloads
+[2015/12/27 10:19:20] <mt> SuperTux-0.4.0-win32.msi: 12877 downloads
+[2015/12/27 10:19:35] <mt> supertux-0.4.0.tar.bz2: 4104 downloads
+[2015/12/27 10:20:56] <mt> for windows, that's about half as much as 0.3.5a since its release
+[2015/12/27 10:21:26] <mt> for the source tarball, that's about the same amount of downloads as 0.3.5a since its release
+[2015/12/27 10:21:53] <mt> for os x, it's about half as much as 0.3.5a since its release
+[2015/12/27 10:25:42] <head8debian> Wow.
+[2015/12/27 10:25:54] <head8debian> mt: Well, 0.3.5a has been out for 7 months.
+[2015/12/27 10:26:03] <head8debian> And for all those downloads in a week. o_O
+[2015/12/27 10:26:12] <mt> yes
+[2015/12/27 10:26:48] <mt> source: https://api.github.com/repos/SuperTux/supertux/releases/tags/v0.3.5a and https://api.github.com/repos/SuperTux/supertux/releases/tags/v0.4.0
+[2015/12/27 10:27:19] <head8debian>  Thats awesome///
+[2015/12/27 10:27:22] <head8debian> ...
+[2015/12/27 10:29:34] <mt> (78 MB*2522)+(80.2 MB*12877)+(76 MB*4104) = 1541355.4 MB = 1.5413554 TB
