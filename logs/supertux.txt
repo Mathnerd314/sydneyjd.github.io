@@ -32854,3 +32854,48 @@
 [2015/12/27 14:43:41] <polyphagia> yeah it's temporary anyway, it does work fine at that size though
 [2015/12/27 14:44:00] <polyphagia> my window manager probably ignores supertux's requests
 [2015/12/27 14:44:39] <mt> might be your window manager, might be us not redrawing everything on window resize
+[2015/12/27 14:45:39] <polyphagia> anyway i really love the new game !
+[2015/12/27 14:45:45] <polyphagia> i'm working on some scripts to port levels
+[2015/12/27 14:46:18] <Not-e81f> [02supertux] 07devnexen forked the repository - 13http://git.io/vEPI5
+[2015/12/27 14:46:28] <polyphagia> lol github staff just starred supertux :P
+[2015/12/27 14:46:30] <mt> for upgrading version 1 levels to version 2 we have some obscure scheme script somewhere in our repo
+[2015/12/27 14:46:46] <Not-e81f> [02supertux] 07kdungs starred 03supertux - 13http://git.io/vEPIj
+[2015/12/27 14:46:55] <polyphagia> no i mean porting different game levels mt
+[2015/12/27 14:47:00] <mt> oh
+[2015/12/27 14:47:29] <mt> well, regarding the stars, the new release has generated some news
+[2015/12/27 14:47:46] <polyphagia> yeah this is great
+[2015/12/27 14:47:54] <polyphagia> i noticed it in the upgrades and i was glad to see it on reddit the next day
+[2015/12/27 14:48:07] <polyphagia> on the top of /r/linux
+[2015/12/27 14:48:13] <mt> I'm trying to always invite people to contribute :)
+[2015/12/27 14:48:23] <polyphagia> i'm still trying to beat the new levels
+[2015/12/27 14:48:42] <polyphagia> i poked around and i love that scheme is used
+[2015/12/27 14:48:53] <mt> If you're done with that and interested in helping us, http://forum.freegamedev.net/viewtopic.php?f=67&t=6697
+[2015/12/27 14:48:56] <polyphagia> although is it home rolled?
+[2015/12/27 14:49:00] <polyphagia> why not use guile?
+[2015/12/27 14:49:18] <polyphagia> oh neat!
+[2015/12/27 14:49:28] <mt> well, scheme, we've only written scripts for upgrading the level format using that
+[2015/12/27 14:49:35] <mt> in the game we're using simple s-expressions
+[2015/12/27 14:49:57] <mt> I'm not sure guile is supposed to parse that, I thought it was a scheme interpreter
+[2015/12/27 14:51:06] <mt> You can also always have a look at https://github.com/supertux/supertux/issues to see what could need fixing/writing new code :)
+[2015/12/27 14:51:31] <mt> oh and https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document is what we plan for the next releases
+[2015/12/27 14:53:15] <mt> // insert more spam about how great it is to contribute to SuperTux here
+[2015/12/27 14:54:07] <polyphagia> oh i see yeah that makes sense
+[2015/12/27 14:54:18] <polyphagia> alright thanks
+[2015/12/27 14:54:21] <polyphagia> will do
+[2015/12/27 14:54:42] <polyphagia> >The shopkeeper (e.g. an old walrus with a beard)
+[2015/12/27 14:54:45] <polyphagia> lol that was specific
+[2015/12/27 14:55:18] <mt> that old walrus with a beard was taken from the old Milestone 3 Design Document
+[2015/12/27 14:55:50] <mt> http://supertux.lethargik.org/wiki/images/f/f6/Shopkeeper-sketch.jpg
+[2015/12/27 14:55:56] <alket> what to do now https://lut.im/BOywuzFOws/UTJRhEhsqIsAtBLh.png ?
+[2015/12/27 14:56:16] <mt> alket: find the bonus level
+[2015/12/27 14:56:32] <polyphagia> oh awesome
+[2015/12/27 14:56:34] <mt> you see the (pale) blue dot up there, that's it
+[2015/12/27 14:56:37] <alket> Where is Penny ?
+[2015/12/27 14:56:46] * jesusalva adverts: Even wondered how to be on the credits of your favorite game feels like? Join #supertux on irc.freenode.net!
+[2015/12/27 14:57:04] <mt> alket: didn't it play the cutscene for you?
+[2015/12/27 14:57:12] <polyphagia> also i don't think the game has enough puns mt
+[2015/12/27 14:57:19] <alket> mt: no
+[2015/12/27 14:57:37] <alket> what cutscene ? the one which Penny gets captured ?
+[2015/12/27 14:57:43] <mt> normally it would play an extro saying penny isn't there
+[2015/12/27 14:59:30] <alket> :S
+[2015/12/27 14:59:34] <jesusalva> mt: Does the 0.4.0 contains SDL2?
