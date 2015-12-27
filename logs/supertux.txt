@@ -32630,3 +32630,4 @@
 [2015/12/26 20:36:21] @ giby joined channel #supertux
 [2015/12/26 20:36:22] @ Mode +o giby by ChanServ
 [2015/12/26 20:37:22] @ Quit: alket: Quit: Good Night :)
+[2015/12/26 21:00:21] @ Quit: giby: Quit: This computer has gone to sleep
