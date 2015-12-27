@@ -32805,3 +32805,5 @@
 [2015/12/27 12:34:54] <Karkus> Hello Hume2
 [2015/12/27 12:35:04] <Hume2> Hello, Karkus!
 [2015/12/27 12:39:12] <mt> hi
+[2015/12/27 12:56:36] @ Quit: alket: Quit: Good Night :)
+[2015/12/27 12:57:40] @ alket joined channel #supertux
