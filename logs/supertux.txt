@@ -32810,3 +32810,6 @@
 [2015/12/27 13:00:04] <Not-e81f> [02flexlay] 07maxteufel commented on issue 03#60: Improve user-friendliness of layers - 13http://git.io/vEi1l
 [2015/12/27 13:01:43] <Not-e81f> [02flexlay] 07Hume2 commented on issue 03#60: Improve user-friendliness of layers - 13http://git.io/vEi1F
 [2015/12/27 13:02:59] <Not-e81f> [02supertux] 07akien-mga starred 03supertux - 13http://git.io/vEiMq
+[2015/12/27 13:37:08] <mt> we absolutely need this https://gist.github.com/marick/3ec112bc38b2af267e15
+[2015/12/27 13:37:29] <mt> ("Lava lamps make build failures get fixed faster")
+[2015/12/27 13:42:42] <Hume2> mt: That's nice.
