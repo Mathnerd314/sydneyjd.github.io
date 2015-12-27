@@ -32682,3 +32682,8 @@
 [2015/12/27 07:50:30] @ Mode +o Karkus by ChanServ
 [2015/12/27 07:54:02] @ Quit: lumidify: Ping timeout: 260 seconds
 [2015/12/27 07:57:04] @ lumidify joined channel #supertux
+[2015/12/27 08:35:27] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#226: Run Console Commands From Another Process - 13http://git.io/vE6yC
+[2015/12/27 08:35:28] <Not-e81f> [02supertux] 07Karkus476 closed issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43DO
+[2015/12/27 08:37:19] <Not-e81f> [02supertux] 07maxteufel unlabeled issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43DO
+[2015/12/27 08:37:21] <Not-e81f> [02supertux] 07maxteufel unlabeled issue 03#226: Run Console Commands From Another Process - 13http://git.io/v43DO
+[2015/12/27 08:37:52] <Not-e81f> [02supertux] 07bojidar-bg starred 03supertux - 13http://git.io/vEtlC
