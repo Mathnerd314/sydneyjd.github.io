@@ -32723,3 +32723,30 @@
 [2015/12/27 10:35:20] @ irungentoo joined channel #supertux
 [2015/12/27 10:38:01] @ paroneayea joined channel #supertux
 [2015/12/27 10:44:51] <Karkus> mt: https://github.com/SuperTux/flexlay/issues/62 you mean when you create a new level?
+[2015/12/27 10:45:09] <mt> Yes
+[2015/12/27 10:45:53] <Karkus> Where is "a sane place"?
+[2015/12/27 10:46:59] <mt> now at the top or the bottom of the level, also not in the middle, more like in the middle of bottom and middle
+[2015/12/27 10:47:08] <mt> s/now/not/
+[2015/12/27 10:47:08] <red_bot> mt meant: "not at the top or the bottom of the level, also not in the middle, more like in the middle of bottom and middle"
+[2015/12/27 10:48:29] <Karkus> So, X = 5  Y = height/4 * 3 ?
+[2015/12/27 10:49:11] <Karkus> mt: Any suggestions for default width and height for a level?
+[2015/12/27 10:49:58] <mt> what supertux-editor uses?
+[2015/12/27 10:50:06] @ Quit: ced117: Ping timeout: 240 seconds
+[2015/12/27 10:50:18] <Karkus> mt: How about 200 by 40?
+[2015/12/27 10:50:45] <mt> http://supertux.lethargik.org/wiki/Milestone_2_Design_Document/Styleguide#Size
+[2015/12/27 10:51:03] <mt> h = 35 w = 300 ?
+[2015/12/27 10:51:08] <Not-e81f> [02flexlay] 07Karkus476 opened issue 03#63: Resize Levels - 13http://git.io/vEiYV
+[2015/12/27 10:51:10] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#63: Resize Levels - 13http://git.io/vEiYV
+[2015/12/27 10:51:11] <Not-e81f> [02flexlay] 07Karkus476 assigned issue 03#63: Resize Levels - 13http://git.io/vEiYV
+[2015/12/27 10:51:13] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#63: Resize Levels - 13http://git.io/vEiYV
+[2015/12/27 10:51:15] <Not-e81f> [02flexlay] 07Karkus476 assigned issue 03#62: Add 'main' default spawnpoint at a sane location - 13http://git.io/vE6x8
+[2015/12/27 10:52:29] <mt> Also possibly use the naming explained on that page as default file name
+[2015/12/27 10:54:00] <Not-e81f> [02flexlay] 07Karkus476 opened issue 03#64: Organize Objects in Selector into Catagories - 13http://git.io/vEiOq
+[2015/12/27 10:54:02] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#64: Organize Objects in Selector into Catagories - 13http://git.io/vEiOq
+[2015/12/27 10:54:03] <Not-e81f> [02flexlay] 07Karkus476 labeled issue 03#64: Organize Objects in Selector into Catagories - 13http://git.io/vEiOq
+[2015/12/27 10:54:08] <mt> Karkus: resize sectors, even?
+[2015/12/27 10:54:18] <Karkus> mt: Ah, correct
+[2015/12/27 10:54:47] <Karkus> I haven't even got sectors working yet.
+[2015/12/27 10:54:53] <Karkus> Lots to do...
+[2015/12/27 10:56:27] @ leyyin joined channel #supertux
+[2015/12/27 10:59:39] @ brmbrmcar left channel #supertux ()
