@@ -32648,3 +32648,5 @@
 [2015/12/27 00:32:10] @ Quit: mt: Ping timeout: 250 seconds
 [2015/12/27 00:38:00] @ mt joined channel #supertux
 [2015/12/27 00:38:00] @ Mode +o mt by ChanServ
+[2015/12/27 01:04:29] @ lumidify joined channel #supertux
+[2015/12/27 01:12:07] @ tuxdude143 joined channel #supertux
