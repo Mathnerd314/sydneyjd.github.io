@@ -32973,3 +32973,8 @@
 [2015/12/27 15:43:16] <mt> what's TeraTux, actually?
 [2015/12/27 15:44:26] <Hume2> mt: That was a levelset that contained 1000 crappy levels.
 [2015/12/27 15:44:45] <Hume2> Please don't tell the community how I make the levels now.
+[2015/12/27 15:46:00] <mt> of course not
+[2015/12/27 15:53:55] @ Quit: Hume2: Quit: Page closed
+[2015/12/27 15:55:37] @ Karkus joined channel #supertux
+[2015/12/27 15:55:37] @ Mode +o Karkus by ChanServ
+[2015/12/27 15:59:53] @ Quit: claymore2: Quit: Leaving
