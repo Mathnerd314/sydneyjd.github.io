@@ -32795,3 +32795,7 @@
 [2015/12/27 11:39:53] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/98984987
 [2015/12/27 11:40:51] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/211
 [2015/12/27 11:44:58] <maths22> mt: I'll see if I can generate some from the apache log
+[2015/12/27 11:45:15] <mt> you don't have to if it's too much work :P
+[2015/12/27 11:45:24] <mt> better fix the userdir build ;)
+[2015/12/27 11:46:20] <maths22> 211 dmg downloads, 166 msi downloads
+[2015/12/27 11:53:22] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/212
