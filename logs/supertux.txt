@@ -33081,3 +33081,11 @@
 [2015/12/28 02:15:06] @ Quit: lumidify: Ping timeout: 265 seconds
 [2015/12/28 02:27:13] @ lumidify joined channel #supertux
 [2015/12/28 02:28:00] <mt> We'll probably get one of the last few CVE-2015-
+[2015/12/28 02:45:59] <Not-e81f> [02supertux] 07meisyal starred 03supertux - 13http://git.io/vE1et
+[2015/12/28 02:48:38] <Not-e81f> [02supertux] 07Savsish opened issue 03#299: Add 64 bit installer for SuperTux 0.4 - 13http://git.io/vE1vk
+[2015/12/28 02:50:16] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#299: Add 64 bit installer for SuperTux 0.4 - 13http://git.io/vE1vl
+[2015/12/28 02:50:52] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#299: Add 64 bit installer for SuperTux 0.4 - 13http://git.io/vE1vk
+[2015/12/28 02:50:53] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#299: Add 64 bit installer for SuperTux 0.4 - 13http://git.io/vE1vk
+[2015/12/28 02:50:55] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#299: Add 64 bit installer for SuperTux 0.4 - 13http://git.io/vE1vk
+[2015/12/28 02:50:56] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#299: Add 64 bit installer for SuperTux 0.4 - 13http://git.io/vE1vk
+[2015/12/28 02:51:01] <Not-e81f> [02supertux] 07maxteufel assigned issue 03#299: Add 64 bit installer for SuperTux 0.4 - 13http://git.io/vE1vk
