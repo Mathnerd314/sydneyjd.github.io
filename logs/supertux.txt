@@ -33500,3 +33500,5 @@
 [2015/12/28 13:10:55] @ Gigi is now known as Guest72361
 [2015/12/28 13:11:06] @ Quit: Guest72361: Client Quit
 [2015/12/28 13:11:37] @ Quit: lumidify: Quit: Leaving
+[2015/12/28 13:37:27] <polyphagia> which object is time limit?
+[2015/12/28 13:40:35] <mt> (leveltime (time [s]))
