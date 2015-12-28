@@ -33542,3 +33542,7 @@
 [2015/12/28 15:28:33] <Tobbi> Anyway...guys, I need a break.
 [2015/12/28 15:28:38] <Tobbi> good bye
 [2015/12/28 15:28:55] @ Quit: Tobbi: Client Quit
+[2015/12/28 15:49:50] @ claymore2_ joined channel #supertux
+[2015/12/28 15:53:23] @ Quit: claymore2: Ping timeout: 265 seconds
+[2015/12/28 15:55:45] @ Karkus joined channel #supertux
+[2015/12/28 15:55:45] @ Mode +o Karkus by ChanServ
