@@ -33336,3 +33336,39 @@
 [2015/12/28 10:13:59] @ jesusalva joined channel #supertux
 [2015/12/28 10:14:26] <Not-e81f> [02flexlay] 07maxteufel pushed 031 commit to 03fix/SuperTuxGUI-insecure-tempfiles [+0/-0/±1] 13http://git.io/vEDfd
 [2015/12/28 10:14:28] <Not-e81f> [02flexlay] 07Max Teufel 036a5a9a1 - supertux: Fix insecure use of temp files with fixed name (CVE-EXAM-PLE0)
+[2015/12/28 10:15:29] <mt> Karkus: without that QMessageBox
+[2015/12/28 10:15:36] <mt> doesn't work
+[2015/12/28 10:15:39] <mt> for some reason
+[2015/12/28 10:15:54] <mt> I even made Qt/X11 aware of the multithreading
+[2015/12/28 10:15:54] <Karkus> mt: It doesn't work without it?
+[2015/12/28 10:16:03] <Karkus> mt: Oh
+[2015/12/28 10:16:09] <mt> nope, the QMessageBox doesn't work
+[2015/12/28 10:16:27] @ mantas-baltix joined channel #supertux
+[2015/12/28 10:16:42] <Karkus> mt: Can you make a pull request containing the code (from your fork) and I'll take a look?
+[2015/12/28 10:16:43] <mantas-baltix> Hi Supertux developers
+[2015/12/28 10:17:28] @ lumidify1 is now known as lumidify
+[2015/12/28 10:18:04] <Not-e81f> [02flexlay] 07maxteufel opened pull request 03#66: Fix insecure use of temp files with fixed name - 13http://git.io/vEDU3
+[2015/12/28 10:18:28] <Not-e81f> [02flexlay] 07maxteufel labeled pull request 03#66: Fix insecure use of temp files with fixed name - 13http://git.io/vEDU3
+[2015/12/28 10:18:30] <Not-e81f> [02flexlay] 07maxteufel labeled pull request 03#66: Fix insecure use of temp files with fixed name - 13http://git.io/vEDU3
+[2015/12/28 10:18:34] <Not-e81f> [02flexlay] 07maxteufel assigned pull request 03#66: Fix insecure use of temp files with fixed name - 13http://git.io/vEDU3
+[2015/12/28 10:18:55] <jesusalva> hi mantas-baltix
+[2015/12/28 10:18:57] <mt> Hello mantas-baltix
+[2015/12/28 10:19:07] <mt> Karkus: well it depends on that PR
+[2015/12/28 10:20:56] <mantas-baltix> I with my son wanna finish Lithuanian Supertux translation (currently Supertux is only half translated to Lithuanian)
+[2015/12/28 10:21:06] <mantas-baltix> please add me to Lithuanian Supertux translators team.
+[2015/12/28 10:21:18] <mt> Karkus can do that, I think
+[2015/12/28 10:21:32] <mantas-baltix> I think, that my Transifex profile shows enough info about my skills:  https://transifex.com/user/profile/mantas/
+[2015/12/28 10:21:57] <mantas-baltix> If it's not enough - see https://translations.launchpad.net/~mantas/ and https://wiki.ubuntu.com/MantasKriaučiūnas
+[2015/12/28 10:22:27] <mt> We pretty much don't need any references about your skills
+[2015/12/28 10:22:50] <mt> Have you already applied to join at https://www.transifex.com/arctic-games/supertux/language/lt/
+[2015/12/28 10:23:55] <mantas-baltix> Yes, I'm mantas ;)
+[2015/12/28 10:24:02] <mt> Also, is it possible that you provided a PPA with supertux builds some years ago?
+[2015/12/28 10:24:17] <mt> Your name sounds somewhat not that strange in affiliation with SuperTux
+[2015/12/28 10:25:18] <mt> mantas-baltix: well I'm not manager on Transifex so you have to wait for one (Karkus, Tobbi, giby and LMH are)
+[2015/12/28 10:26:06] <maths22> mt: http://software.opensuse.org/download.html?project=home%3Amaths22%3ASuperTux&package=supertux2
+[2015/12/28 10:26:09] <mantas-baltix> Maybe, I don't remmember all my contributions to free software ;) I just remmember, that I'm providing PPA of Supertuxkart packages for Ubuntu
+[2015/12/28 10:26:25] <mt> or that, yeah
+[2015/12/28 10:27:08] <mt> that 27.1 in the rpm is what, maths22?
+[2015/12/28 10:27:24] <mantas-baltix> Karkus: could you add me to Lithuanian Supertux translators team.
+[2015/12/28 10:29:03] <mt> maths22: also, even though arch already has packages in their repos, the PKGBUILD is still trying to download the git repo
+[2015/12/28 10:29:43] <mt> you'd have to change that to the tarball and remove the git-submodule call
