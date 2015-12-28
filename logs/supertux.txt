@@ -33053,3 +33053,6 @@
 [2015/12/27 22:20:39] <head8debian> lol, oops.
 [2015/12/27 22:21:31] @ tuxdev_ joined channel #supertux
 [2015/12/27 22:25:13] <Not-e81f> [02supertux] 07yakirChen starred 03supertux - 13https://github.com/yakirChen
+[2015/12/27 22:36:22] @ tomisacat joined channel #supertux
+[2015/12/27 22:37:07] @ Quit: tomisacat: Client Quit
+[2015/12/27 22:37:27] <Not-e81f> [02supertux] 07tomisacat starred 03supertux - 13http://git.io/vEXat
