@@ -33156,3 +33156,12 @@
 [2015/12/28 04:57:46] <kneekoo> iululevin elemuN <--
 [2015/12/28 04:58:04] <kneekoo> that would be the Romanian translation but I don't know what the game does with the string
 [2015/12/28 04:58:35] <Not-e81f> [02supertux] 07devnexen commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE1zN
+[2015/12/28 05:02:16] <kneekoo> mt: can I assume "Missingno" stands for missing number?
+[2015/12/28 05:02:33] <Not-e81f> [02supertux] 07yurivict commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE1gQ
+[2015/12/28 05:03:05] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE12f
+[2015/12/28 05:03:34] <mt> dunno
+[2015/12/28 05:03:55] <mt> I also have no idea why Hume2 put these ugly levels into incubator island
+[2015/12/28 05:03:56] <Not-e81f> [02supertux] 07devnexen commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE12C
+[2015/12/28 05:06:31] <kneekoo> ok, I'll translate as I think it's correct and if it's not, I can always correct it later
+[2015/12/28 05:06:52] <kneekoo> thanks! :)
+[2015/12/28 05:13:00] <Not-e81f> [02supertux] 07concr starred 03supertux - 13http://git.io/vE1Vg
