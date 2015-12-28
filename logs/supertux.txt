@@ -33097,3 +33097,12 @@
 [2015/12/28 03:53:30] <Not-e81f> [02supertux] 07HotPizzaBox starred 03supertux - 13http://git.io/vE1s0
 [2015/12/28 03:54:08] <alket> almost 300 stars
 [2015/12/28 03:59:53] <Not-e81f> [02supertux] 07KenanAlptekin starred 03supertux - 13http://git.io/vE1Gi
+[2015/12/28 04:00:06] <mt> heck if all those people would contribute
+[2015/12/28 04:01:23] <mt> or join this channel
+[2015/12/28 04:01:41] <Not-e81f> [02supertux] 07gutenye starred 03supertux - 13http://git.io/vE1ZI
+[2015/12/28 04:03:21] <alket> :)
+[2015/12/28 04:05:19] @ brmbrmcar left channel #supertux ()
+[2015/12/28 04:09:05] @ Quit: tux|dude: Quit: Leaving
+[2015/12/28 04:10:38] @ leyyin joined channel #supertux
+[2015/12/28 04:13:08] <Not-e81f> [02supertux] 07devnexen commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE1Cz
+[2015/12/28 04:13:59] @ Quit: alket: Ping timeout: 246 seconds
