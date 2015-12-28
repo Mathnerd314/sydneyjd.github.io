@@ -33553,3 +33553,7 @@
 [2015/12/28 16:18:11] <Not-e81f> [02supertux] 07bradparks forked the repository - 13http://git.io/vESqN
 [2015/12/28 16:39:25] @ Quit: alket: Quit: Good Night :)
 [2015/12/28 17:01:59] @ tux|dude joined channel #supertux
+[2015/12/28 17:16:16] @ Quit: giby: Quit: This computer has gone to sleep
+[2015/12/28 17:22:47] @ Quit: claymore2_: Quit: Leaving
+[2015/12/28 17:24:36] @ Karkus joined channel #supertux
+[2015/12/28 17:24:37] @ Mode +o Karkus by ChanServ
