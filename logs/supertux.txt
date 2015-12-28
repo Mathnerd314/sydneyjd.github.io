@@ -33024,3 +33024,6 @@
 [2015/12/27 19:45:59] @ Topic set by mt!~mteufel@unaffiliated/supermat on 2015-12-25 13:52:03 -0500
 [2015/12/27 19:46:04] @ Mode +nt by kornbluth.freenode.net
 [2015/12/27 19:46:12] @ Mode +o red_bot by ChanServ
+[2015/12/27 20:04:42] <tomreyn> have a look at the repositories "dreamsxin" has forked so far
+[2015/12/27 20:04:56] <tomreyn> looks like s/he is copying github into github
+[2015/12/27 20:09:19] <Not-e81f> [02supertux] 07shitfSign forked the repository - 13http://git.io/vEXm3
