@@ -33258,3 +33258,13 @@
 [2015/12/28 08:36:25] <Not-e81f> [02supertux] 07hkrn starred 03supertux - 13http://git.io/vEMEf
 [2015/12/28 08:43:46] @ Karkus joined channel #supertux
 [2015/12/28 08:43:47] @ Mode +o Karkus by ChanServ
+[2015/12/28 08:45:09] <mt> hi Karkus
+[2015/12/28 08:45:16] <Karkus> hello mt
+[2015/12/28 08:45:42] <mt> I already posted an issue about the security issue in flexlay
+[2015/12/28 08:45:54] <mt> since the RedHat team wanted me to request publicly anyway
+[2015/12/28 08:46:48] <mt> http://www.openwall.com/lists/oss-security/2015/12/28/3
+[2015/12/28 08:47:26] <Karkus> This is also an issue in https://github.com/flexlay/flexlay/
+[2015/12/28 08:47:55] <mt> That would have to be requested separately since it's a different codebase
+[2015/12/28 08:48:03] <Karkus> Maybe another issue should be posted there for anyone who tries to get flexlay there?
+[2015/12/28 08:48:20] <mt> can be done when we have the CVE
+[2015/12/28 08:48:37] <mt> MITRE's team seems to be active at around 17:00 UTC+1
