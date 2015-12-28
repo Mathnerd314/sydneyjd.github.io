@@ -33323,3 +33323,7 @@
 [2015/12/28 09:41:30] <mt> try to call a function in self
 [2015/12/28 09:42:08] <Karkus> Make it easy to extend so we can maybe implement a console window in the editor later.
 [2015/12/28 09:42:49] @ lumidify joined channel #supertux
+[2015/12/28 09:49:44] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/99103256
+[2015/12/28 09:53:38] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/214
+[2015/12/28 09:59:10] <mt> ok thanks
+[2015/12/28 09:59:30] <mt> with the feature implemented, flexlay crashes and dumps core
