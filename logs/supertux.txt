@@ -33169,3 +33169,5 @@
 [2015/12/28 05:16:12] <Not-e81f> [02supertux] 07yurivict commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE1rz
 [2015/12/28 05:16:14] <Not-e81f> [02supertux] 07yurivict closed issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vEYVk
 [2015/12/28 05:16:16] <Not-e81f> [02supertux] 07yurivict reopened issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vEYVk
+[2015/12/28 05:43:42] <Not-e81f> [02supertux] 07kneekoo starred 03supertux - 13http://git.io/vE1rY
+[2015/12/28 05:44:26] <alket> from 50 or so stars, 300 stars within 7 days
