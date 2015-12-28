@@ -33254,3 +33254,7 @@
 [2015/12/28 07:51:18] <Not-e81f> [02supertux] 07devnexen commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vEMsx
 [2015/12/28 08:00:32] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2015/12/28 08:15:17] @ Quit: lumidify: Ping timeout: 255 seconds
+[2015/12/28 08:33:43] <Not-e81f> [02supertux] 07kehengsite forked the repository - 13http://git.io/vEM03
+[2015/12/28 08:36:25] <Not-e81f> [02supertux] 07hkrn starred 03supertux - 13http://git.io/vEMEf
+[2015/12/28 08:43:46] @ Karkus joined channel #supertux
+[2015/12/28 08:43:47] @ Mode +o Karkus by ChanServ
