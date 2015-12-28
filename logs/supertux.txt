@@ -33464,3 +33464,7 @@
 [2015/12/28 11:31:21] @ dysoco joined channel #supertux
 [2015/12/28 11:31:54] @ Quit: lumidify: Ping timeout: 272 seconds
 [2015/12/28 11:42:34] <Not-e81f> [02supertux] 07erayarslan starred 03supertux - 13http://git.io/vEDij
+[2015/12/28 11:45:13] <maths22> mt: Arch is now built
+[2015/12/28 11:45:21] <maths22> http://software.opensuse.org/download.html?project=home%3Amaths22%3ASuperTux&package=supertux2
+[2015/12/28 11:48:19] @ lumidify joined channel #supertux
+[2015/12/28 11:56:04] @ Quit: Karkus: Ping timeout: 265 seconds
