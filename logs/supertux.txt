@@ -33522,3 +33522,6 @@
 [2015/12/28 14:47:42] @ Drangue is now known as alket
 [2015/12/28 14:57:00] @ brmbrmcar joined channel #supertux
 [2015/12/28 14:58:24] <Not-e81f> [02supertux] 07m-urban starred 03supertux - 13http://git.io/vEySK
+[2015/12/28 15:11:07] <maths22> mt: dpkg fixed
+[2015/12/28 15:11:15] <mt> noticed
+[2015/12/28 15:13:46] @ brmbrmcar left channel #supertux ()
