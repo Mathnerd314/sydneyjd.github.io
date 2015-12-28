@@ -33047,3 +33047,9 @@
 [2015/12/27 21:56:38] <Not-e81f> [02supertux] 07jmaxhu starred 03supertux - 13http://git.io/vEX0c
 [2015/12/27 21:57:50] <tomreyn> i think china is going to steal your intellectual property
 [2015/12/27 22:11:01] <Not-e81f> [02supertux] 07naman starred 03supertux - 13http://git.io/vEXzI
+[2015/12/27 22:18:47] @ Quit: head8debian: Quit: im outa here till you talk cleaner
+[2015/12/27 22:20:00] @ head8debian joined channel #supertux
+[2015/12/27 22:20:00] @ Mode +o head8debian by ChanServ
+[2015/12/27 22:20:39] <head8debian> lol, oops.
+[2015/12/27 22:21:31] @ tuxdev_ joined channel #supertux
+[2015/12/27 22:25:13] <Not-e81f> [02supertux] 07yakirChen starred 03supertux - 13https://github.com/yakirChen
