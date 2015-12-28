@@ -33559,3 +33559,6 @@
 [2015/12/28 17:24:37] @ Mode +o Karkus by ChanServ
 [2015/12/28 17:30:39] <Not-e81f> [02supertux] 07bogdanRada starred 03supertux - 13http://git.io/vES2e
 [2015/12/28 17:47:53] @ Quit: Karkus: Remote host closed the connection
+[2015/12/28 18:18:29] @ swift110 joined channel #supertux
+[2015/12/28 18:19:19] @ Quit: swift110: Changing host
+[2015/12/28 18:19:20] @ swift110 joined channel #supertux
