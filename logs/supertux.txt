@@ -33502,3 +33502,7 @@
 [2015/12/28 13:11:37] @ Quit: lumidify: Quit: Leaving
 [2015/12/28 13:37:27] <polyphagia> which object is time limit?
 [2015/12/28 13:40:35] <mt> (leveltime (time [s]))
+[2015/12/28 13:45:38] @ bb010g joined channel #supertux
+[2015/12/28 13:54:21] @ claymore2 joined channel #supertux
+[2015/12/28 13:56:40] <polyphagia> thanks mt
+[2015/12/28 13:57:02] <mt> in the editor it's a clock under objects
