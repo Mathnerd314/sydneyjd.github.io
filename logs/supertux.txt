@@ -33418,3 +33418,28 @@
 [2015/12/28 10:58:53] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#302: Update SuperTux Wiki - 13http://git.io/vEDW6
 [2015/12/28 10:58:57] <jesusalva> One is to add a colaborator (so you can add mantas-baltix directly), and another is to manage staff (so you can accept his request)
 [2015/12/28 10:59:56] <Karkus> jesusalva: Which blue bar?
+[2015/12/28 11:00:43] <jesusalva> On the screen top, there is "Languages > Lithuan" (or something like that)
+[2015/12/28 11:00:50] <jesusalva> below the project info
+[2015/12/28 11:01:05] <jesusalva> right below it. It's greyish but still blue.
+[2015/12/28 11:02:29] <Karkus> jesusalva: This is what I see
+[2015/12/28 11:02:30] <Karkus> https://imgur.com/12QDBkm
+[2015/12/28 11:03:45] <jesusalva> Hm. If you can add a member, you should see "View Members" and see if you can accept the request.
+[2015/12/28 11:04:27] <jesusalva> If you can't for whatever error, then transifex doesn't allows you to. (Which can be kinda odd...)
+[2015/12/28 11:04:36] <Karkus> jesusalva: I can't see any way to accept a request.
+[2015/12/28 11:04:47] <jesusalva> Then Transifex is not allowing you to.
+[2015/12/28 11:05:57] <mantas-baltix> So, button "View members" doesn't help me ? :(
+[2015/12/28 11:06:54] <Karkus> ~note Tobbi Please could you add user "mantas" to Lithuanian translation team on Transifex? https://www.transifex.com/arctic-games/supertux/language/lt/ https://www.transifex.com/user/profile/mantas/
+[2015/12/28 11:06:54] <red_bot> okies, Karkus
+[2015/12/28 11:07:10] <Karkus> mantas-baltix: I can see the members, but can't add new ones.
+[2015/12/28 11:08:04] <Karkus> mantas-baltix: We'll get you added as soon as possible.
+[2015/12/28 11:08:38] <jesusalva> To add you, you must see like this: https://imgur.com/UJrFH9z
+[2015/12/28 11:09:09] <Karkus> jesusalva: I can't see that. Clearly I cannot add him.
+[2015/12/28 11:09:31] <jesusalva> Unfortunatelly D:
+[2015/12/28 11:09:46] <jesusalva> giby managed to add me, however.
+[2015/12/28 11:09:59] <mantas-baltix> :)
+[2015/12/28 11:10:11] * jesusalva was so noob by then that he didn't even knew how to apply. :)
+[2015/12/28 11:13:53] <mt> This is so stupid
+[2015/12/28 11:14:04] <mt> So I can remove a language but can't add a translator
+[2015/12/28 11:14:23] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#302: Update SuperTux Wiki - 13http://git.io/vEDEE
+[2015/12/28 11:14:59] @ giby joined channel #supertux
+[2015/12/28 11:14:59] @ Mode +o giby by ChanServ
