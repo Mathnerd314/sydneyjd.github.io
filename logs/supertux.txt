@@ -33297,3 +33297,29 @@
 [2015/12/28 09:27:46] <mt> Yes, but only close it when it gets merged into master
 [2015/12/28 09:28:38] <mt> supertux-editor restructured almost everything, not just added the tilemap I added
 [2015/12/28 09:28:47] <mt> so I didn't want to push it to master without testing
+[2015/12/28 09:31:58] <mt> blah how do I get supertux to crash-
+[2015/12/28 09:34:26] <Not-e81f> [02supertux] 07marc280492 opened issue 03#301: Bug in Scret Forest World - 13http://git.io/vEMH8
+[2015/12/28 09:35:37] <Not-e81f> [02supertux] 07Karkus476 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEMH1
+[2015/12/28 09:35:38] <Not-e81f> [02supertux] 07Karkus476 034868d25 - Few fixes, more non-git user friendly
+[2015/12/28 09:35:39] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99103256
+[2015/12/28 09:35:41] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/214
+[2015/12/28 09:35:57] <mt> Karkus: the thing is, I can't QMessageBox.critical from a separate thread
+[2015/12/28 09:36:08] <Karkus> Jesus. [ci-skip] is a pain in the arse.
+[2015/12/28 09:36:34] <mt> I have a commit-msg hook for that, if it's missing it will make me notice it's missing
+[2015/12/28 09:36:39] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99103256
+[2015/12/28 09:36:49] <mt> if not, it will remind me to use it next time
+[2015/12/28 09:36:50] <Karkus> mt: I was editing using GitHub
+[2015/12/28 09:37:06] <Karkus> How do you add a hook?
+[2015/12/28 09:37:15] <mt> well, in CLI git
+[2015/12/28 09:37:19] <mt> there's a directory
+[2015/12/28 09:37:28] <mt> .git/hooks/
+[2015/12/28 09:37:32] <mt> there you can put these
+[2015/12/28 09:40:25] <Karkus> mt: Ah, cool.
+[2015/12/28 09:40:39] <Karkus> mt: Then you need to find a way to thread-safely get the error message over to the other thread.
+[2015/12/28 09:40:50] <mt> yeah I did
+[2015/12/28 09:41:00] <mt> I can still write to self
+[2015/12/28 09:41:09] <mt> so I'll add two variables there
+[2015/12/28 09:41:24] <mt> or even better
+[2015/12/28 09:41:30] <mt> try to call a function in self
+[2015/12/28 09:42:08] <Karkus> Make it easy to extend so we can maybe implement a console window in the editor later.
+[2015/12/28 09:42:49] @ lumidify joined channel #supertux
