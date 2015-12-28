@@ -33035,3 +33035,10 @@
 [2015/12/27 21:04:27] <head8debian> Hello polyphagia. Nice to meet you.
 [2015/12/27 21:04:40] <polyphagia> hi head8debian, you too
 [2015/12/27 21:07:55] <Not-e81f> [02supertux] 07zruibin starred 03supertux - 13http://git.io/vEXCW
+[2015/12/27 21:16:47] <head8debian> polyphagia: We have had alot of people show up since the release. :)
+[2015/12/27 21:19:33] <polyphagia> yeah i was actually playing it a bit before the release, so it was a nice surprise
+[2015/12/27 21:19:45] <polyphagia> then i thought i'd come in here since i'm working on some stuff for the game :P
+[2015/12/27 21:29:33] <tomreyn> new download stats:
+[2015/12/27 21:29:35] <tomreyn> "SuperTux-0.4.0-win32.msi" 14424
+[2015/12/27 21:29:35] <tomreyn> "supertux-0.4.0.tar.bz2" 4357
+[2015/12/27 21:29:35] <tomreyn> "SuperTux-0.4.0-Darwin.dmg" 2970
