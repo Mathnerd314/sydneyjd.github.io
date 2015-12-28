@@ -33005,3 +33005,5 @@
 [2015/12/27 18:27:47] @ Quit: tomreyn: Quit: $Famous_last_words
 [2015/12/27 18:30:37] @ tomreyn joined channel #supertux
 [2015/12/27 18:56:35] <Not-e81f> [02supertux] 07dreamsxin forked the repository - 13http://git.io/vCijR
+[2015/12/27 19:12:11] @ Quit: greg2: Quit: Ex-Chat
+[2015/12/27 19:12:58] @ jesusalva joined channel #supertux
