@@ -33525,3 +33525,20 @@
 [2015/12/28 15:11:07] <maths22> mt: dpkg fixed
 [2015/12/28 15:11:15] <mt> noticed
 [2015/12/28 15:13:46] @ brmbrmcar left channel #supertux ()
+[2015/12/28 15:20:34] <Not-e81f> [02flexlay] 07djeof-1 starred 03flexlay - 13http://git.io/vE23k
+[2015/12/28 15:26:54] @ Tobbi joined channel #supertux
+[2015/12/28 15:26:55] @ Mode +o Tobbi by ChanServ
+[2015/12/28 15:27:07] <Tobbi> test
+[2015/12/28 15:27:07] <red_bot> Tobbi, you have notes! [Dec-26 14:42] <mt> what should we do about the Sie in the German translation? http://supertux.lethargik.org/wiki/Translation#Notes_for_Translators wants translators to use the personal form, if one exists [Dec-28 11:06] <Karkus> Please could you add user "mantas" to Lithuanian translation team on Transifex? https://www.transifex.com/arctic-games/supertux/language/lt/ https://www.transifex.com/user/profile/mantas/ [Dec-28 11:18]
+[2015/12/28 15:27:07] <red_bot> <Karkus> Ignore previous message, giby has done it.
+[2015/12/28 15:27:09] <Tobbi> ah, okay.
+[2015/12/28 15:27:34] <alket> hi Tobbi
+[2015/12/28 15:27:37] <Tobbi> Guys, you can't live without me, can you?
+[2015/12/28 15:27:57] <Tobbi> mt: I prefer "du" over "sie".
+[2015/12/28 15:28:06] <Tobbi> the other one is already answered.
+[2015/12/28 15:28:08] <alket> st got 300+ stars, so , YES WE CAN!
+[2015/12/28 15:28:13] <Tobbi> mt: But since this was changed...
+[2015/12/28 15:28:26] <Tobbi> 309...nice.
+[2015/12/28 15:28:33] <Tobbi> Anyway...guys, I need a break.
+[2015/12/28 15:28:38] <Tobbi> good bye
+[2015/12/28 15:28:55] @ Quit: Tobbi: Client Quit
