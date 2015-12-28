@@ -33171,3 +33171,55 @@
 [2015/12/28 05:16:16] <Not-e81f> [02supertux] 07yurivict reopened issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vEYVk
 [2015/12/28 05:43:42] <Not-e81f> [02supertux] 07kneekoo starred 03supertux - 13http://git.io/vE1rY
 [2015/12/28 05:44:26] <alket> from 50 or so stars, 300 stars within 7 days
+[2015/12/28 05:45:55] <leyyin> moar than STK, noooooo
+[2015/12/28 05:46:27] <mt> yeeees
+[2015/12/28 05:47:03] <alket> poor stk
+[2015/12/28 05:47:08] <leyyin> more than megaglest ;)
+[2015/12/28 05:47:21] <leyyin> I feel like 4 :P
+[2015/12/28 05:47:45] <alket> lol
+[2015/12/28 05:47:58] <alket> megaglest is a game for a specific people
+[2015/12/28 05:48:01] <alket> stk is for everyone :S
+[2015/12/28 05:48:16] <leyyin> STK has more forks thought :P
+[2015/12/28 05:48:55] <leyyin> STk is for mario kart fans alket :P
+[2015/12/28 05:49:00] <leyyin> specific people
+[2015/12/28 05:49:06] <alket> yeah more forks, more contributors, less stars :p
+[2015/12/28 05:49:17] <alket> leyyin: megaglest has a very steep learning curve
+[2015/12/28 05:49:22] <mt> /mode +b $|:m:supertuxkart/*,m:megaglest/*$#supertux-ftw
+[2015/12/28 05:49:26] <alket> while stk its the easiest game to even master xD
+[2015/12/28 05:49:33] <mt> oh right there's no supertuxkart project cloaks
+[2015/12/28 05:49:40] <leyyin> hehe
+[2015/12/28 05:49:42] <mt> and extb_combi isn't loaded on freenode
+[2015/12/28 05:49:58] <mt> :(
+[2015/12/28 05:50:04] <leyyin> alket, strategy game vs mindless racing ;)
+[2015/12/28 05:50:11] <alket> xD
+[2015/12/28 05:51:00] <leyyin> anyway, I was just messing around
+[2015/12/28 05:51:18] <leyyin> congrats supertux ;), while it lasts :P
+[2015/12/28 05:52:42] <alket> lol
+[2015/12/28 05:52:52] <alket> the one who gets more stars until the end of year
+[2015/12/28 05:52:57] <alket> the loser should change its name xD
+[2015/12/28 05:53:10] <alket> to superGNU or superGNUkart
+[2015/12/28 05:53:16] <leyyin> well I am in favour of changing supertuxkart name anyways, it sounds stupid
+[2015/12/28 05:53:39] <mt> alket: +1
+[2015/12/28 05:54:06] <leyyin> alket, want me to hire some indians to star STK? :P
+[2015/12/28 05:54:19] <alket> xDD
+[2015/12/28 05:54:24] <mt> b-but that's not fair
+[2015/12/28 05:54:35] <alket> I will hire kosovars :p
+[2015/12/28 05:54:50] <alket> many work for free xD
+[2015/12/28 05:54:56] <Not-e81f> [02supertux] 07vasili111 starred 03supertux - 13http://git.io/vE1S4
+[2015/12/28 05:55:07] <leyyin> TIL: kosovars
+[2015/12/28 05:55:23] <alket> bad neighbour leyyin
+[2015/12/28 05:55:35] <leyyin> we are not neighbours ;)
+[2015/12/28 05:55:40] <mt> I'll hire rms, he'll probably like to see at least one project changing its name so it contains GNU :D
+[2015/12/28 05:55:50] <alket> leyyin: just a country in middle, but both from Balkans
+[2015/12/28 05:55:58] <leyyin> *direct
+[2015/12/28 05:56:34] <mt> yay build systems
+[2015/12/28 05:56:49] <alket> maybe you can summon dracula and he will resurrect the dead, so you will get more stars xD
+[2015/12/28 05:56:56] <mt> trying to move some project from silly automake to cmake
+[2015/12/28 05:57:05] <alket> well anyways, stk isn't going anywhere without vlj
+[2015/12/28 05:57:18] <leyyin> alket, you do not even exist :P https://en.wikipedia.org/wiki/Accession_of_Kosovo_to_the_European_Union#Recognition
+[2015/12/28 05:57:32] <alket> leyyin: see according to you, we're neighbours :p
+[2015/12/28 05:57:38] <leyyin> :D
+[2015/12/28 05:57:41] @ Quit: lumidify: Read error: Connection timed out
+[2015/12/28 05:58:12] @ lumidify joined channel #supertux
+[2015/12/28 05:58:36] <alket> we don't want to be recognized by the guys who like stk and dragonstea din tei :p
+[2015/12/28 05:59:10] <leyyin> omg, that song again
