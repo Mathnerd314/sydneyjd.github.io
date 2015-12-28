@@ -33557,3 +33557,4 @@
 [2015/12/28 17:22:47] @ Quit: claymore2_: Quit: Leaving
 [2015/12/28 17:24:36] @ Karkus joined channel #supertux
 [2015/12/28 17:24:37] @ Mode +o Karkus by ChanServ
+[2015/12/28 17:30:39] <Not-e81f> [02supertux] 07bogdanRada starred 03supertux - 13http://git.io/vES2e
