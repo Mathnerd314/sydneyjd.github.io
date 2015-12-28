@@ -33092,3 +33092,8 @@
 [2015/12/28 03:06:40] @ Quit: lumidify: Read error: Connection timed out
 [2015/12/28 03:07:23] @ lumidify joined channel #supertux
 [2015/12/28 03:43:51] @ alket joined channel #supertux
+[2015/12/28 03:52:06] @ Quit: tuxdev_: Ping timeout: 272 seconds
+[2015/12/28 03:52:23] <Not-e81f> [02supertux] 07mnkhouri starred 03supertux - 13http://git.io/vE1sL
+[2015/12/28 03:53:30] <Not-e81f> [02supertux] 07HotPizzaBox starred 03supertux - 13http://git.io/vE1s0
+[2015/12/28 03:54:08] <alket> almost 300 stars
+[2015/12/28 03:59:53] <Not-e81f> [02supertux] 07KenanAlptekin starred 03supertux - 13http://git.io/vE1Gi
