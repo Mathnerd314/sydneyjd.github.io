@@ -33492,3 +33492,11 @@
 [2015/12/28 12:39:03] <Not-e81f> [02supertux] 07flipflop97 opened issue 03#304: Freeze after changing volume in OpenGL mode - 13http://git.io/vEDjp
 [2015/12/28 12:43:41] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#304: Freeze after changing volume in OpenGL mode - 13http://git.io/vEyv1
 [2015/12/28 12:44:07] @ alket joined channel #supertux
+[2015/12/28 13:00:42] <jesusalva> Karkus: Are you sure? Are you logged in? :S
+[2015/12/28 13:01:42] <Not-e81f> [02supertux] 07metiscus starred 03supertux - 13http://git.io/vEyIV
+[2015/12/28 13:02:09] @ lumidify joined channel #supertux
+[2015/12/28 13:03:10] <Not-e81f> [02supertux] 07flipflop97 commented on issue 03#304: Freeze after changing volume in OpenGL mode - 13http://git.io/vEyLn
+[2015/12/28 13:10:31] @ Gigi joined channel #supertux
+[2015/12/28 13:10:55] @ Gigi is now known as Guest72361
+[2015/12/28 13:11:06] @ Quit: Guest72361: Client Quit
+[2015/12/28 13:11:37] @ Quit: lumidify: Quit: Leaving
