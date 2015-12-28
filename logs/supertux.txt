@@ -33239,3 +33239,5 @@
 [2015/12/28 06:11:00] <leyyin> then you will be famous
 [2015/12/28 06:11:04] <leyyin> will have k of stars
 [2015/12/28 06:14:45] <mt> we'll somewhere add shadowsocks to the code
+[2015/12/28 06:15:21] <mt> but so that the chinese (also idiot) government can't find where it is
+[2015/12/28 06:18:42] <Not-e81f> [02supertux] 07devnexen commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE1A6
