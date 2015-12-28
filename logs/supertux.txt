@@ -33116,3 +33116,20 @@
 [2015/12/28 04:23:35] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE1lD
 [2015/12/28 04:25:17] <Not-e81f> [02supertux] 07yurivict commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE18t
 [2015/12/28 04:28:46] <Not-e81f> [02supertux] 07scarabotto starred 03supertux - 13http://git.io/vE18Q
+[2015/12/28 04:34:12] <Not-e81f> [02supertux] 07devnexen commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE14j
+[2015/12/28 04:37:01] @ alket joined channel #supertux
+[2015/12/28 04:37:19] <mt> kneekoo: hi
+[2015/12/28 04:37:32] <mt> kneekoo: are you talking about "Angry Stone vs. YOU"?
+[2015/12/28 04:37:46] <kneekoo> hello
+[2015/12/28 04:37:50] <Not-e81f> [02supertux] 07blackout314 starred 03supertux - 13http://git.io/B8zJLQ
+[2015/12/28 04:38:01] <kneekoo> I was talking about the strings having both German and English
+[2015/12/28 04:38:14] <mt> oh that
+[2015/12/28 04:38:35] <mt> I don't know why that's there
+[2015/12/28 04:38:49] <kneekoo> there are more strings like that
+[2015/12/28 04:40:10] <kneekoo> and there are more weird/German strings: Missingno, eman level ehT <--- (backwards?!)
+[2015/12/28 04:40:26] <Not-e81f> [02supertux] 07yurivict commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE1RY
+[2015/12/28 04:40:39] <kneekoo> and this: Kugelblitzstorm
+[2015/12/28 04:41:23] <mt> they're called Kugelblitz in the code
+[2015/12/28 04:42:48] <Not-e81f> [02supertux] 07yurivict commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE1RH
+[2015/12/28 04:43:03] @ xet7 joined channel #supertux
+[2015/12/28 04:44:47] <Not-e81f> [02supertux] 07devnexen commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE10Y
