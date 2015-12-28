@@ -33133,3 +33133,26 @@
 [2015/12/28 04:42:48] <Not-e81f> [02supertux] 07yurivict commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE1RH
 [2015/12/28 04:43:03] @ xet7 joined channel #supertux
 [2015/12/28 04:44:47] <Not-e81f> [02supertux] 07devnexen commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE10Y
+[2015/12/28 04:50:10] <kneekoo> mt: so how should I translate Kugelblitzstorm? Thunderstorm?
+[2015/12/28 04:50:49] @ Quit: giby: Quit: This computer has gone to sleep
+[2015/12/28 04:50:55] <mt> to what language?
+[2015/12/28 04:51:25] <Not-e81f> [02supertux] 07maxteufel pushed 032 commits to 03master [+0/-0/±2] 13http://git.io/vE1Ei
+[2015/12/28 04:51:27] <Not-e81f> [02supertux] 07Max Teufel 03f2ce790 - incubator/Angry Stone vs. YOU: remove German text from infobox
+[2015/12/28 04:51:28] <Not-e81f> [02supertux] 07Max Teufel 03c2fdb76 - incubator/Angry Stone vs. YOU: remove carriage returns
+[2015/12/28 04:51:48] <mt> As far as I know this should update Transifex automatically in some hours
+[2015/12/28 04:54:16] <kneekoo> Kugelblitzstorm = Thunderstorm?
+[2015/12/28 04:54:28] <kneekoo> is that correct?
+[2015/12/28 04:54:35] <Not-e81f> [02supertux] 07devnexen commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE1up
+[2015/12/28 04:54:35] <mt> It's a storm of Kugelblitze
+[2015/12/28 04:54:43] <mt> so I'd suggest using neologisms
+[2015/12/28 04:55:03] <mt> for German, "Kugelblitzsturm"
+[2015/12/28 04:55:28] <kneekoo> I see
+[2015/12/28 04:55:58] <kneekoo> ok, then what should I do with this one? "eman level ehT <--"
+[2015/12/28 04:56:11] <Not-e81f> [02supertux] 07yurivict commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE1zB
+[2015/12/28 04:56:11] <kneekoo> should I translate and write it backwards?
+[2015/12/28 04:56:20] <mt> if it makes sense
+[2015/12/28 04:56:59] <kneekoo> I have no idea about the context, so I don't know if it would make sense
+[2015/12/28 04:57:46] <Not-e81f> [02supertux] 07devnexen commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE1zS
+[2015/12/28 04:57:46] <kneekoo> iululevin elemuN <--
+[2015/12/28 04:58:04] <kneekoo> that would be the Romanian translation but I don't know what the game does with the string
+[2015/12/28 04:58:35] <Not-e81f> [02supertux] 07devnexen commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE1zN
