@@ -33008,3 +33008,19 @@
 [2015/12/27 19:12:11] @ Quit: greg2: Quit: Ex-Chat
 [2015/12/27 19:12:58] @ jesusalva joined channel #supertux
 [2015/12/27 19:24:01] @ Quit: jesusalva: Quit: Good Night, Jesus bless you all.
+[2015/12/27 19:38:54] @ Quit: head8debian: Quit: bbl...
+[2015/12/27 19:39:02] @ quit (restarting, back in 5...)
+[2015/12/27 19:42:28] @ Log started by red_bot
+[2015/12/27 19:42:28] @ Joined channel #supertux
+[2015/12/27 19:42:28] @ Topic is "IRC meeting Jan 9, 15:00 GMT | https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2015/12/27 19:42:28] @ Topic set by mt!~mteufel@unaffiliated/supermat on 2015-12-25 13:52:03 -0500
+[2015/12/27 19:42:33] @ Mode +nt by adams.freenode.net
+[2015/12/27 19:42:42] @ Mode +o red_bot by ChanServ
+[2015/12/27 19:43:20] @ quit (restarting, back in 5...)
+[2015/12/27 19:43:22] @ Log closed by * (rescan or shutdown)
+[2015/12/27 19:45:59] @ Log started by red_bot
+[2015/12/27 19:45:59] @ Joined channel #supertux
+[2015/12/27 19:45:59] @ Topic is "IRC meeting Jan 9, 15:00 GMT | https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2015/12/27 19:45:59] @ Topic set by mt!~mteufel@unaffiliated/supermat on 2015-12-25 13:52:03 -0500
+[2015/12/27 19:46:04] @ Mode +nt by kornbluth.freenode.net
+[2015/12/27 19:46:12] @ Mode +o red_bot by ChanServ
