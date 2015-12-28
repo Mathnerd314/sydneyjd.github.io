@@ -33268,3 +33268,20 @@
 [2015/12/28 08:48:03] <Karkus> Maybe another issue should be posted there for anyone who tries to get flexlay there?
 [2015/12/28 08:48:20] <mt> can be done when we have the CVE
 [2015/12/28 08:48:37] <mt> MITRE's team seems to be active at around 17:00 UTC+1
+[2015/12/28 09:03:52] @ Hume2 joined channel #supertux
+[2015/12/28 09:03:52] @ Mode +v Hume2 by ChanServ
+[2015/12/28 09:05:35] <Karkus> mt: Can you use that subprocess idea we had to display a QMessageBox when SuperTux crashes (after you run a level in flexlay)?
+[2015/12/28 09:06:08] <Karkus> Hey Hume2
+[2015/12/28 09:06:15] <mt> how does one display a QMessageBox (sorry don't know anything about PyQt or Qt in general)
+[2015/12/28 09:06:26] <Hume2> Hello, Karkus
+[2015/12/28 09:06:54] <mt> also, dump the entire supertux log in that window?
+[2015/12/28 09:08:35] <Not-e81f> [02supertux] 07norpol starred 03supertux - 13http://git.io/vEMiB
+[2015/12/28 09:08:53] <Karkus> mt: For now, yes
+[2015/12/28 09:09:46] <Karkus> mt: from PyQt4.QtGui import QMessageBox
+[2015/12/28 09:09:55] <Karkus> mt: http://pyqt.sourceforge.net/Docs/PyQt4/qmessagebox.html
+[2015/12/28 09:10:09] <mt> > Found in: uBlock filters – Badware risks
+[2015/12/28 09:10:11] <mt> LD
+[2015/12/28 09:10:15] <mt> s/L/:/
+[2015/12/28 09:10:15] <red_bot> mt meant: ":D"
+[2015/12/28 09:10:54] <Karkus> mt: Use QMessageBox.critical
+[2015/12/28 09:13:50] <Karkus> mt: Can you open a pull request once you're done? (We won't merge and you can rebase the commit after you've got the CVE-ID)
