@@ -33372,3 +33372,15 @@
 [2015/12/28 10:27:24] <mantas-baltix> Karkus: could you add me to Lithuanian Supertux translators team.
 [2015/12/28 10:29:03] <mt> maths22: also, even though arch already has packages in their repos, the PKGBUILD is still trying to download the git repo
 [2015/12/28 10:29:43] <mt> you'd have to change that to the tarball and remove the git-submodule call
+[2015/12/28 10:30:20] <maths22> mt: I know-I'll work on that soon
+[2015/12/28 10:30:35] <maths22> The 27.1 reflects the version of the OBS config repo
+[2015/12/28 10:31:03] <mt> can I link to that download page?
+[2015/12/28 10:31:19] <mt> in the release announcement I mean
+[2015/12/28 10:31:41] <mt> then you'd probably need a separate OBS package for the git builds
+[2015/12/28 10:33:06] <maths22> mt: Sure-I was already planning on a separate OBS package
+[2015/12/28 10:37:33] <mt> Also posted a Tweet
+[2015/12/28 10:39:06] <Karkus> mantas-baltix: What is your username?
+[2015/12/28 10:39:24] <mt> They said it's "mantas"
+[2015/12/28 10:39:29] <mantas-baltix> my username is mantas ;)
+[2015/12/28 10:39:42] <Karkus> Thanks
+[2015/12/28 10:41:52] <mt> https://news.ycombinator.com/item?id=10798250
