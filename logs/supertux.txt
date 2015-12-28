@@ -33042,3 +33042,7 @@
 [2015/12/27 21:29:35] <tomreyn> "SuperTux-0.4.0-win32.msi" 14424
 [2015/12/27 21:29:35] <tomreyn> "supertux-0.4.0.tar.bz2" 4357
 [2015/12/27 21:29:35] <tomreyn> "SuperTux-0.4.0-Darwin.dmg" 2970
+[2015/12/27 21:46:47] <Not-e81f> [02supertux] 07xj-coder starred 03supertux - 13http://git.io/vEXBi
+[2015/12/27 21:51:23] <Not-e81f> [02supertux] 07BDiehr starred 03supertux - 13http://git.io/vEXRE
+[2015/12/27 21:56:38] <Not-e81f> [02supertux] 07jmaxhu starred 03supertux - 13http://git.io/vEX0c
+[2015/12/27 21:57:50] <tomreyn> i think china is going to steal your intellectual property
