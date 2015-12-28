@@ -33285,3 +33285,15 @@
 [2015/12/28 09:10:15] <red_bot> mt meant: ":D"
 [2015/12/28 09:10:54] <Karkus> mt: Use QMessageBox.critical
 [2015/12/28 09:13:50] <Karkus> mt: Can you open a pull request once you're done? (We won't merge and you can rebase the commit after you've got the CVE-ID)
+[2015/12/28 09:17:52] <Karkus> Hume2: You made those 100 levels using a generator right?
+[2015/12/28 09:20:00] <Not-e81f> [02supertux] 07djeof-1 opened pull request 03#300: Added small penguin thumbnails in the README.md file, to make it look attractive - 13http://git.io/vEMMC
+[2015/12/28 09:20:01] <Not-e81f> [02supertux] 04Failure. AppVeyor was unable to build non-mergeable pull request - 13
+[2015/12/28 09:24:00] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#300: Added small penguin thumbnails in the README.md file, to make it look attractive - 13http://git.io/vEMDX
+[2015/12/28 09:24:08] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#300: Added small penguin thumbnails in the README.md file, to make it look attractive - 13http://git.io/vEMDM
+[2015/12/28 09:24:59] <Not-e81f> [02supertux] 07maxteufel labeled pull request 03#300: Added small penguin thumbnails in the README.md file, to make it look attractive - 13http://git.io/vEMMC
+[2015/12/28 09:25:01] <Not-e81f> [02supertux] 07maxteufel labeled pull request 03#300: Added small penguin thumbnails in the README.md file, to make it look attractive - 13http://git.io/vEMMC
+[2015/12/28 09:25:03] <Not-e81f> [02supertux] 07maxteufel labeled pull request 03#300: Added small penguin thumbnails in the README.md file, to make it look attractive - 13http://git.io/vEMMC
+[2015/12/28 09:27:13] <Karkus> mt: Did you mean to close this from that commit https://github.com/SuperTux/supertux/issues/298 ?
+[2015/12/28 09:27:46] <mt> Yes, but only close it when it gets merged into master
+[2015/12/28 09:28:38] <mt> supertux-editor restructured almost everything, not just added the tilemap I added
+[2015/12/28 09:28:47] <mt> so I didn't want to push it to master without testing
