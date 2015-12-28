@@ -33223,3 +33223,19 @@
 [2015/12/28 05:58:12] @ lumidify joined channel #supertux
 [2015/12/28 05:58:36] <alket> we don't want to be recognized by the guys who like stk and dragonstea din tei :p
 [2015/12/28 05:59:10] <leyyin> omg, that song again
+[2015/12/28 06:00:58] @ alket_ joined channel #supertux
+[2015/12/28 06:01:29] <leyyin> Kosovo will be an EU member and we do not even recognize it, rofl, politicians
+[2015/12/28 06:02:54] <mt> EU is full of idiot politicians anyway :/
+[2015/12/28 06:03:01] <mt> as are the US
+[2015/12/28 06:03:09] <leyyin> not that idiot as in the US :P
+[2015/12/28 06:03:53] <leyyin> US idiot politician > EU idiot politician :D
+[2015/12/28 06:03:59] <mt> that depends, in the case of Trump I fully agree
+[2015/12/28 06:04:06] @ Quit: alket: Ping timeout: 240 seconds
+[2015/12/28 06:04:24] <mt> "yes ban all the muslims from the US" - "ok we'll vote for him"
+[2015/12/28 06:04:40] <leyyin> I want to see a TRUMP vs PUTIN showdown :D
+[2015/12/28 06:04:44] <leyyin> will be hilarious
+[2015/12/28 06:05:05] <mt> "yes ban all the muslims from the EU" (~any EU polician) - "why is that polician not in a prison"
+[2015/12/28 06:10:55] <leyyin> you should add something in supertux so that it will get banned in a country ;)
+[2015/12/28 06:11:00] <leyyin> then you will be famous
+[2015/12/28 06:11:04] <leyyin> will have k of stars
+[2015/12/28 06:14:45] <mt> we'll somewhere add shadowsocks to the code
