@@ -33250,3 +33250,5 @@
 [2015/12/28 06:58:26] <leyyin> hmm, I got pinged, weird, by someone that does not exist :D
 [2015/12/28 06:58:51] <leyyin> alket, https://en.wikipedia.org/wiki/Bielefeld_Conspiracy
 [2015/12/28 07:04:27] <alket> xD
+[2015/12/28 07:51:17] <Not-e81f> [02supertux] 07bjorn commented on issue 03#272: Editor Decisions [Poll - vote now!] - 13http://git.io/vEMsA
+[2015/12/28 07:51:18] <Not-e81f> [02supertux] 07devnexen commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vEMsx
