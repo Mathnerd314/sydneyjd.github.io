@@ -33513,3 +33513,9 @@
 [2015/12/28 14:24:32] @ maths22_ joined channel #supertux
 [2015/12/28 14:24:46] @ Quit: maths22_: Client Quit
 [2015/12/28 14:24:54] <Not-e81f> [02supertux] 07farbod-s starred 03supertux - 13http://git.io/mZnYJA
+[2015/12/28 14:31:10] <polyphagia> looks like supertux made it to the front page of reddit again
+[2015/12/28 14:31:14] <polyphagia> as a different post
+[2015/12/28 14:31:20] <polyphagia> on /r/linux *
+[2015/12/28 14:33:11] <jesusalva> Karkus: http://docs.transifex.com/introduction/#user-roles-in-transifex
+[2015/12/28 14:33:45] <jesusalva> I'm a pt-BR Coordinator. I'm not sure if we have a Team Manager, as shown there.
+[2015/12/28 14:36:25] <jesusalva> ...And of course, giby is the Administrator (and therefore he could add me to pt-BR).
