@@ -33384,3 +33384,37 @@
 [2015/12/28 10:39:29] <mantas-baltix> my username is mantas ;)
 [2015/12/28 10:39:42] <Karkus> Thanks
 [2015/12/28 10:41:52] <mt> https://news.ycombinator.com/item?id=10798250
+[2015/12/28 10:48:25] <Karkus> mantas-baltix: Do you know how do add you? I can't figure out how to do it.
+[2015/12/28 10:49:11] <Karkus> mantas-baltix: I don't even know if I'm able to.
+[2015/12/28 10:49:36] <mt> Well Transifex shows you're a team manager so you should be able to
+[2015/12/28 10:49:44] <mt> However, I don't know how to
+[2015/12/28 10:49:57] <mantas-baltix> Karkus: I don't know if you are able to add me to Lithuanian team ;)
+[2015/12/28 10:51:03] <Karkus> mantas-baltix: It says Tobbi is the manager https://www.transifex.com/arctic-games/teams/95/lt/
+[2015/12/28 10:51:06] <mt> As in team manager I mean manager of the SuperTux project
+[2015/12/28 10:51:11] <mantas-baltix>  Team Manager is tobbi and Coordinator  is  giby (Benjamin Leduc) according to https://www.transifex.com/arctic-games/teams/95/lt/
+[2015/12/28 10:51:29] <Karkus> mantas-baltix: So maybe I can't :/
+[2015/12/28 10:51:44] <mt> https://www.transifex.com/arctic-games/supertux/
+[2015/12/28 10:51:49] <mantas-baltix> Maybe, I don't know :(
+[2015/12/28 10:51:59] <mt> "Maintainers:" "Karkus7.., ..."
+[2015/12/28 10:52:41] <Karkus> mt: Yes, but I'm not a team manager of any of the languages
+[2015/12/28 10:52:57] <mt> Huh, can't a maintainer do that?
+[2015/12/28 10:53:14] <mt> Well, you might however be able to update the strings?
+[2015/12/28 10:54:23] <Karkus> mt: I think I am able do that... I don't know how though.
+[2015/12/28 10:54:37] <Karkus> I forgot I was even added to this
+[2015/12/28 10:54:57] <Karkus> mt: Sign up with GitHub, I'll add you as a maintainer.
+[2015/12/28 10:55:13] <mt> I'm "mteufel" there
+[2015/12/28 10:55:21] <mt> No need to sign up
+[2015/12/28 10:55:38] <jesusalva> A maintainer can
+[2015/12/28 10:56:02] <Karkus> jesusalva: How?
+[2015/12/28 10:56:11] <mt> jesusalva: what did the #freedroid people say about their bots
+[2015/12/28 10:56:32] <Karkus> mt: I've invited you.
+[2015/12/28 10:56:33] <jesusalva> Go to the Lithuan Language, "Manage Team", and search for the application (or add him via the menu)
+[2015/12/28 10:57:21] <jesusalva> mt: Nothing yet. Not sure if matthiaskrgr or fluzz were online since. However ahuillet is on and as he is the oldest of them, he may be able to answer...
+[2015/12/28 10:57:24] <jesusalva> I'll check.
+[2015/12/28 10:57:36] <Karkus> jesusalva: https://www.transifex.com/arctic-games/supertux/language/lt/ here you mean?
+[2015/12/28 10:57:58] <Not-e81f> [02supertux] 07marc280492 opened issue 03#302: Update SuperTux Wiki - 13http://git.io/vEDWI
+[2015/12/28 10:58:04] <jesusalva> Yes
+[2015/12/28 10:58:33] <jesusalva> On the blue bar there are 3 buttons
+[2015/12/28 10:58:53] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#302: Update SuperTux Wiki - 13http://git.io/vEDW6
+[2015/12/28 10:58:57] <jesusalva> One is to add a colaborator (so you can add mantas-baltix directly), and another is to manage staff (so you can accept his request)
+[2015/12/28 10:59:56] <Karkus> jesusalva: Which blue bar?
