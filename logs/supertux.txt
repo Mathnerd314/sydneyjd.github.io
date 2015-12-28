@@ -33241,3 +33241,6 @@
 [2015/12/28 06:14:45] <mt> we'll somewhere add shadowsocks to the code
 [2015/12/28 06:15:21] <mt> but so that the chinese (also idiot) government can't find where it is
 [2015/12/28 06:18:42] <Not-e81f> [02supertux] 07devnexen commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE1A6
+[2015/12/28 06:30:04] <Not-e81f> [02supertux] 07ztx1491 starred 03supertux - 13http://git.io/vE1hr
+[2015/12/28 06:32:07] <Not-e81f> [02supertux] 07yurivict commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE1jT
+[2015/12/28 06:43:25] <Not-e81f> [02supertux] 07pranavmaneriker starred 03supertux - 13http://git.io/vEMvP
