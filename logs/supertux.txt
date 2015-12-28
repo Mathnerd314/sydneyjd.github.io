@@ -33546,3 +33546,7 @@
 [2015/12/28 15:53:23] @ Quit: claymore2: Ping timeout: 265 seconds
 [2015/12/28 15:55:45] @ Karkus joined channel #supertux
 [2015/12/28 15:55:45] @ Mode +o Karkus by ChanServ
+[2015/12/28 16:03:14] <alket> how to cancel the auto scrolling which introduces the level in the "Maze in the sky" ?
+[2015/12/28 16:05:08] <alket> ah i get it now
+[2015/12/28 16:05:15] <alket> you suppose to play while scrolling is going on
+[2015/12/28 16:07:01] @ Quit: Karkus: Ping timeout: 260 seconds
