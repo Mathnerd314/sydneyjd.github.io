@@ -33550,3 +33550,4 @@
 [2015/12/28 16:05:08] <alket> ah i get it now
 [2015/12/28 16:05:15] <alket> you suppose to play while scrolling is going on
 [2015/12/28 16:07:01] @ Quit: Karkus: Ping timeout: 260 seconds
+[2015/12/28 16:18:11] <Not-e81f> [02supertux] 07bradparks forked the repository - 13http://git.io/vESqN
