@@ -33106,3 +33106,13 @@
 [2015/12/28 04:10:38] @ leyyin joined channel #supertux
 [2015/12/28 04:13:08] <Not-e81f> [02supertux] 07devnexen commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE1Cz
 [2015/12/28 04:13:59] @ Quit: alket: Ping timeout: 246 seconds
+[2015/12/28 04:16:51] @ kneekoo joined channel #supertux
+[2015/12/28 04:17:05] <kneekoo> hello
+[2015/12/28 04:17:49] <kneekoo> check out the second string: https://www.transifex.com/arctic-games/supertux/viewstrings/#en/incubator/68339454
+[2015/12/28 04:18:10] <kneekoo> is that normal? German and English in the same string? how should I translate that?
+[2015/12/28 04:18:32] <kneekoo> oh, I see there are more strings like that in Incubator
+[2015/12/28 04:20:43] <kneekoo> giby?
+[2015/12/28 04:22:25] <Not-e81f> [02supertux] 07yurivict commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE1lV
+[2015/12/28 04:23:35] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE1lD
+[2015/12/28 04:25:17] <Not-e81f> [02supertux] 07yurivict commented on issue 03#283: cmake rules fail to find libvorbis when it isn't linux - 13http://git.io/vE18t
+[2015/12/28 04:28:46] <Not-e81f> [02supertux] 07scarabotto starred 03supertux - 13http://git.io/vE18Q
