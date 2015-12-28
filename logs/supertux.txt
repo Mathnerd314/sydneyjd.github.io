@@ -33486,3 +33486,9 @@
 [2015/12/28 12:27:49] <jesusalva> It's not so old. (about 1 Year or so...)
 [2015/12/28 12:28:08] <Karkus> jesusalva: Probably Tobbi, atm
 [2015/12/28 12:29:02] <jesusalva> https://www.transifex.com/arctic-games/teams/95/
+[2015/12/28 12:34:08] @ Quit: tuxdev_: Ping timeout: 246 seconds
+[2015/12/28 12:34:16] <Karkus> jesusalva: Forbidden access
+[2015/12/28 12:34:50] @ Quit: dysoco: Remote host closed the connection
+[2015/12/28 12:39:03] <Not-e81f> [02supertux] 07flipflop97 opened issue 03#304: Freeze after changing volume in OpenGL mode - 13http://git.io/vEDjp
+[2015/12/28 12:43:41] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#304: Freeze after changing volume in OpenGL mode - 13http://git.io/vEyv1
+[2015/12/28 12:44:07] @ alket joined channel #supertux
