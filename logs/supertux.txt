@@ -33089,3 +33089,5 @@
 [2015/12/28 02:50:55] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#299: Add 64 bit installer for SuperTux 0.4 - 13http://git.io/vE1vk
 [2015/12/28 02:50:56] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#299: Add 64 bit installer for SuperTux 0.4 - 13http://git.io/vE1vk
 [2015/12/28 02:51:01] <Not-e81f> [02supertux] 07maxteufel assigned issue 03#299: Add 64 bit installer for SuperTux 0.4 - 13http://git.io/vE1vk
+[2015/12/28 03:06:40] @ Quit: lumidify: Read error: Connection timed out
+[2015/12/28 03:07:23] @ lumidify joined channel #supertux
