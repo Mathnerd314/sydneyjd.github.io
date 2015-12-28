@@ -33443,3 +33443,21 @@
 [2015/12/28 11:14:23] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#302: Update SuperTux Wiki - 13http://git.io/vEDEE
 [2015/12/28 11:14:59] @ giby joined channel #supertux
 [2015/12/28 11:14:59] @ Mode +o giby by ChanServ
+[2015/12/28 11:15:13] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#208: Poll: Which Wiki? - 13http://git.io/vEDEF
+[2015/12/28 11:15:41] <Karkus> giby:  Please could you add user "mantas" to Lithuanian translation team on Transifex? https://www.transifex.com/arctic-games/supertux/language/lt/ https://www.transifex.com/user/profile/mantas/
+[2015/12/28 11:16:45] <mt> giby: and generally mind adding at least two coordinators to every language?
+[2015/12/28 11:17:37] <Hume2> Why can't just everyone translate?
+[2015/12/28 11:18:01] <giby> Added
+[2015/12/28 11:18:21] <giby> Hume2, there is issues with unknown users....
+[2015/12/28 11:18:47] <giby> mt: There's language we even haven't got one...
+[2015/12/28 11:18:58] <Karkus> ~note Tobbi Ignore previous message, giby has done it.
+[2015/12/28 11:18:58] <red_bot> fine, Karkus
+[2015/12/28 11:19:06] <mt> giby: which one?
+[2015/12/28 11:19:08] <Karkus> giby: Thanks
+[2015/12/28 11:19:19] <Karkus> mantas-baltix: Okay, I think you've been added.
+[2015/12/28 11:19:57] <Karkus> mt: Can you make another flexlay pull request with your attempt to display error messages?
+[2015/12/28 11:20:58] <Not-e81f> [02flexlay] 07Karkus476 pushed 031 commit to 03develop [+0/-0/±1] 13http://git.io/vEDgG
+[2015/12/28 11:20:59] <Not-e81f> [02flexlay] 07Karkus 036834e16 - Always use --developer
+[2015/12/28 11:21:18] <mt> when the other one's merged
+[2015/12/28 11:21:29] <mantas-baltix> giby, Karkus, mt: Thanks
+[2015/12/28 11:29:13] @ tuxdev_ joined channel #supertux
