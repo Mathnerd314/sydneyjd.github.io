@@ -34206,3 +34206,6 @@
 [2015/12/29 18:11:27] @ giby_the_kid joined channel #supertux
 [2015/12/29 18:11:28] @ Mode +o giby_the_kid by ChanServ
 [2015/12/29 18:12:26] @ Quit: giby: Ping timeout: 265 seconds
+[2015/12/29 18:15:10] @ Tobbi joined channel #supertux
+[2015/12/29 18:15:10] @ Mode +o Tobbi by ChanServ
+[2015/12/29 18:19:44] @ Quit: kneekoo: Read error: Connection reset by peer
