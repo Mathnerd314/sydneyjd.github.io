@@ -33862,3 +33862,14 @@
 [2015/12/29 12:14:09] <Karkus> Hume2: GitHub is not in the Czech Republic, is it?
 [2015/12/29 12:14:17] <Hume2> Karkus: I know.
 [2015/12/29 12:14:38] <Hume2> Maybe I shouldn't apply that anymore.
+[2015/12/29 12:16:33] <Hume2> In fact, it's still on Github, but in my own repo.
+[2015/12/29 12:26:04] <Not-e81f> [02flexlay] 07tobbi pushed 031 commit to 03develop [+0/-0/±3] 13http://git.io/vE5eb
+[2015/12/29 12:26:05] <Not-e81f> [02flexlay] 07Tobias Markus 0315fc2dc - Improve selection style. Use rounded rectangle
+[2015/12/29 12:26:12] @ giby_the_kid joined channel #supertux
+[2015/12/29 12:26:12] @ Mode +o giby_the_kid by ChanServ
+[2015/12/29 12:26:18] <Tobbi> Karkus: Do you think this selection style is better than the old one?
+[2015/12/29 12:26:50] <Karkus> Tobbi: I will have a look
+[2015/12/29 12:26:53] <Tobbi> ok
+[2015/12/29 12:27:50] @ Quit: giby: Ping timeout: 272 seconds
+[2015/12/29 12:28:05] <Karkus> Tobbi: Yeah, it's nice
+[2015/12/29 12:28:09] <Tobbi> good.
