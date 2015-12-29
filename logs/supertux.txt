@@ -33646,3 +33646,26 @@
 [2015/12/29 10:24:42] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#308: Translation updates - 13http://git.io/vE7qe
 [2015/12/29 10:24:43] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#308: Translation updates - 13http://git.io/vE7qe
 [2015/12/29 10:24:45] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#308: Translation updates - 13http://git.io/vE7qe
+[2015/12/29 10:35:20] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/99274419
+[2015/12/29 10:36:27] <Not-e81f> [02supertux] 07mol-1 commented on issue 03#308: Translation updates - 13http://git.io/vE7GM
+[2015/12/29 10:37:46] <Not-e81f> [02supertux] 07norpol commented on issue 03#307: Crash while holding Mr. IceBlock in edit mode - 13http://git.io/vE7ZW
+[2015/12/29 10:39:19] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/216
+[2015/12/29 10:39:37] @ Tobbi joined channel #supertux
+[2015/12/29 10:39:38] @ Mode +o Tobbi by ChanServ
+[2015/12/29 10:41:53] <mt> Tobbi: could you explain me how to update langpacks?
+[2015/12/29 10:41:59] <mt> (see #308)
+[2015/12/29 10:42:15] <Tobbi> mt: Check-in language packs using git, then update the nfo file.
+[2015/12/29 10:42:15] @ Quit: Karkus: Ping timeout: 240 seconds
+[2015/12/29 10:42:23] <Tobbi> mt: Also, there's a script that does that.
+[2015/12/29 10:42:29] <Tobbi> aka, package them, I mean.
+[2015/12/29 10:42:33] <mt> well, how do I update the *.pos
+[2015/12/29 10:42:37] <mt> and then build one
+[2015/12/29 10:42:56] <Tobbi> mt: For that you need the tx client.
+[2015/12/29 10:43:00] <Tobbi> Then do tx pull.
+[2015/12/29 10:43:11] <mt> I have that installed
+[2015/12/29 10:43:21] <mt> tx pull in the addons clone or in the supertux clone
+[2015/12/29 10:43:53] <Tobbi> mt: In a different directorz.
+[2015/12/29 10:43:56] <Tobbi> *directory
+[2015/12/29 10:44:18] <Tobbi> Then run this script https://github.com/SuperTux/addons/blob/master/make_lang_addon.sh with the path to the langpacks.
+[2015/12/29 10:44:28] <Tobbi> Make sure it's an absolute path, not a relative one.
+[2015/12/29 10:44:57] <Tobbi> If you want, you can rewrite that dreaded script in Python.
