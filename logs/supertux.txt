@@ -33762,3 +33762,22 @@
 [2015/12/29 11:27:11] @ Mode +o giby by ChanServ
 [2015/12/29 11:29:11] <Not-e81f> [02supertux] 07tobbi commented on issue 03#308: Translation updates - 13http://git.io/vE7rP
 [2015/12/29 11:29:39] <Not-e81f> [02supertux] 07mol-1 commented on issue 03#308: Translation updates - 13http://git.io/vE7rd
+[2015/12/29 11:31:27] <Tobbi> I somewhat don't like the red frame in the editor when selecting objects
+[2015/12/29 11:31:35] <Tobbi> How do other programs handle selections?
+[2015/12/29 11:31:55] <Hume2> Like transculent rectangle.
+[2015/12/29 11:32:01] <Tobbi> hmm...
+[2015/12/29 11:32:03] <Tobbi> That could work.
+[2015/12/29 11:32:23] @ Quit: kneekoo: Ping timeout: 255 seconds
+[2015/12/29 11:33:51] <Not-e81f> [02supertux] 07mol-1 commented on issue 03#308: Translation updates - 13http://git.io/vE7KV
+[2015/12/29 11:35:07] <Tobbi> mt: Okay, please change this: IGNORE_DIRECTORIES=() and rebuild zip.
+[2015/12/29 11:35:24] <Tobbi> Seems like otherwise untranslated strings get pulled from the add-on.
+[2015/12/29 11:35:26] <Tobbi> This is a pain.
+[2015/12/29 11:41:01] <Not-e81f> [02supertux] 07mol-1 opened issue 03#310: String outdated - 13http://git.io/vE7id
+[2015/12/29 11:42:30] <Not-e81f> [02supertux] 07mol-1 commented on issue 03#308: Translation updates - 13http://git.io/vE7PE
+[2015/12/29 11:43:26] <Hume2> mt: Why did you removed those German strings from Angry Stone vs. YOU?
+[2015/12/29 11:43:47] <Hume2> It was cool.
+[2015/12/29 11:43:57] <Tobbi> :D
+[2015/12/29 11:44:02] <Tobbi> Yes, everybody blame me.
+[2015/12/29 11:44:33] @ kneekoo joined channel #supertux
+[2015/12/29 11:44:50] <mt> If we register a supertux group when freenode's GMS is available we'll get you supertux/broken-script-writer/Tobbi as cloak
+[2015/12/29 11:44:58] <Tobbi> :D
