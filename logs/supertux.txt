@@ -34085,3 +34085,24 @@
 [2015/12/29 15:23:31] <Not-e81f> [02flexlay] 07tobbi pushed 031 commit to 03develop [+0/-0/±3] 13http://git.io/vEdmX
 [2015/12/29 15:23:33] <Not-e81f> [02flexlay] 07Tobias Markus 03acfa661 - Change FadeTilemap property from string to enum
 [2015/12/29 15:28:30] @ Quit: oumph: Ping timeout: 245 seconds
+[2015/12/29 15:33:16] @ Karkus joined channel #supertux
+[2015/12/29 15:33:16] @ Mode +o Karkus by ChanServ
+[2015/12/29 15:33:56] @ oumph joined channel #supertux
+[2015/12/29 15:36:20] @ Quit: giby: Ping timeout: 260 seconds
+[2015/12/29 15:37:42] @ Wuzzy joined channel #supertux
+[2015/12/29 15:40:55] <Tobbi> Karkus: Did you have a prototype for script editor?
+[2015/12/29 15:41:03] <Karkus> Tobbi: Yes
+[2015/12/29 15:41:10] <Karkus> It's in a branch
+[2015/12/29 15:41:11] <Tobbi> Karkus: Okay, let me check.
+[2015/12/29 15:41:17] <Karkus> text-editor
+[2015/12/29 15:41:22] <Karkus> or something
+[2015/12/29 15:41:41] <Karkus> Currently, you run it separately from the editor.
+[2015/12/29 15:41:54] <Tobbi> Ah!
+[2015/12/29 15:42:33] <Tobbi> I protected "develop" by the way.
+[2015/12/29 15:42:42] <Karkus> Tobbi: From force-push?
+[2015/12/29 15:42:46] <Tobbi> Karkus: yes.
+[2015/12/29 15:42:50] <Tobbi> It's better I think.
+[2015/12/29 15:43:02] <Karkus> Tobbi: Oh, I thought I'd already done that...
+[2015/12/29 15:43:21] <Tobbi> Oh wait.
+[2015/12/29 15:43:24] <Tobbi> I believe you did :D
+[2015/12/29 15:43:30] <Tobbi> Github|s gui is weird...
