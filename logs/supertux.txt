@@ -33781,3 +33781,45 @@
 [2015/12/29 11:44:33] @ kneekoo joined channel #supertux
 [2015/12/29 11:44:50] <mt> If we register a supertux group when freenode's GMS is available we'll get you supertux/broken-script-writer/Tobbi as cloak
 [2015/12/29 11:44:58] <Tobbi> :D
+[2015/12/29 11:45:02] <Tobbi> mt: Such an honour.
+[2015/12/29 11:45:50] <Hume2> I left it untranslated on Transifex, so in the Czech translation is the top part in German and the bottom is in Czech.
+[2015/12/29 11:46:05] <mt> Like this one: 17:45:20 -i- [i......a] (i......a@freenode/weird-exception/network-troll/afterdeath): Unknown
+[2015/12/29 11:46:36] <Tobbi> mt: Might arouse suspicion.
+[2015/12/29 11:46:37] <Tobbi> :D
+[2015/12/29 11:49:21] <Not-e81f> [02flexlay] 07tobbi pushed 031 commit to 03develop [+0/-0/±1] 13http://git.io/vE7Mg
+[2015/12/29 11:49:22] <Not-e81f> [02flexlay] 07Tobias Markus 0364ea50d - Add semi-transparent background rectangle to selection
+[2015/12/29 11:49:50] @ Quit: lumidify: Ping timeout: 250 seconds
+[2015/12/29 11:51:07] <Hume2> I got bored so, now I am in TeraTux Reborn level 27.
+[2015/12/29 11:52:38] <mt> TIL there exist people who don't DDoS or troll something when they're bored </:D>
+[2015/12/29 11:53:23] <mt> Hume2: why did you merge these ugly levels into incubator island
+[2015/12/29 11:54:06] <Hume2> mt: Tobbi asked me to do so.
+[2015/12/29 11:54:14] <Tobbi> mt: I like them.
+[2015/12/29 11:54:16] <Tobbi> Most of them.
+[2015/12/29 11:54:20] <mt> :/
+[2015/12/29 11:54:34] <Tobbi> mt: What levels specifically?
+[2015/12/29 11:54:34] <mt> I don't think they follow the level design guidelines
+[2015/12/29 11:54:46] <Tobbi> mt: I actually didn't want the levels to get lost.
+[2015/12/29 11:54:52] <Hume2> mt: Don't worry, TT-Reborn doesn't belong there.
+[2015/12/29 11:55:02] <Tobbi> They were part of a certain worldmap.
+[2015/12/29 11:55:09] <mt> Tobbi: then create an archive addon
+[2015/12/29 11:55:16] <Tobbi> mt: Fine.
+[2015/12/29 11:55:18] <Tobbi> Actually...
+[2015/12/29 11:55:28] <Tobbi> Hume2: "Then create an archive addon"
+[2015/12/29 11:55:30] <Tobbi> :P
+[2015/12/29 11:55:37] <Tobbi> mt: What levels are ugly?
+[2015/12/29 11:55:58] <mt> SP33DRUN, Angry Stone vs. YOU
+[2015/12/29 11:56:07] <mt> haven't played the others
+[2015/12/29 11:56:14] <mt> (recently)
+[2015/12/29 11:56:24] <Hume2> I collect hard levels.
+[2015/12/29 11:56:36] <Not-e81f> [02supertux] 07mol-1 commented on issue 03#308: Translation updates - 13http://git.io/vE7SW
+[2015/12/29 11:56:44] <Hume2> There could be a special reward for them.
+[2015/12/29 11:56:45] @ Karkus joined channel #supertux
+[2015/12/29 11:56:45] @ Mode +o Karkus by ChanServ
+[2015/12/29 11:57:05] <Hume2> As I did it in the Illegal Island 1.
+[2015/12/29 11:57:18] <Hume2> You know, Restaured Island 1.
+[2015/12/29 11:57:23] <mt> oh
+[2015/12/29 11:57:49] <mt> we could actually try to get in contact with the copyright owners of these
+[2015/12/29 11:58:47] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#309: Always prefer langpack strings over strings contained in packaged PO files - 13http://git.io/vE7HJ
+[2015/12/29 11:59:03] <Hume2> Tell me, what kind of fool will judge for one stupid level, but if you want, good luck.
+[2015/12/29 11:59:20] <Tobbi> Hume2: Law is not up to interpretation.
+[2015/12/29 11:59:27] <Hume2> I know.
