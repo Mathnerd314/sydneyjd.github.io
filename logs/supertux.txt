@@ -33609,3 +33609,14 @@
 [2015/12/29 09:25:36] <mt> If everything works as expected, tell me and I'll rebase it onto master and then fast-forward-merge it
 [2015/12/29 09:25:47] <Karkus> mt: Okay
 [2015/12/29 09:28:05] @ Quit: lumidify: Ping timeout: 276 seconds
+[2015/12/29 09:30:47] @ lumidify joined channel #supertux
+[2015/12/29 09:31:31] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/99264560
+[2015/12/29 09:35:12] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/215
+[2015/12/29 09:37:21] <mt> oh btw: are physics so real that bombs self-ignite when gravity is high enough?
+[2015/12/29 09:37:24] <mt> :D
+[2015/12/29 09:42:50] @ brmbrmcar joined channel #supertux
+[2015/12/29 09:43:06] <Karkus> mt: What does edit() do exactly?
+[2015/12/29 09:43:23] <mt> It puts you in ghost mode when you'd die
+[2015/12/29 09:43:39] <Karkus> What's the purpose of it?
+[2015/12/29 09:44:03] <mt> when you're making a level you might not fail when playing it
+[2015/12/29 09:44:12] <mt> *not want to
