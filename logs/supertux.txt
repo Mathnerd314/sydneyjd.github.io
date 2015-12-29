@@ -34106,3 +34106,12 @@
 [2015/12/29 15:43:21] <Tobbi> Oh wait.
 [2015/12/29 15:43:24] <Tobbi> I believe you did :D
 [2015/12/29 15:43:30] <Tobbi> Github|s gui is weird...
+[2015/12/29 15:47:25] <Tobbi> I see...
+[2015/12/29 15:47:31] <Tobbi> Karkus: Interesting. Very colourful.
+[2015/12/29 15:47:54] <Karkus> Tobbi: It's nothing really, I was messing around, testing.
+[2015/12/29 15:48:03] <Tobbi> Yeah, but still...Could be useful.
+[2015/12/29 15:48:39] <Karkus> Tobbi: Some time, I'd like to add it into the editor, but currently I'm working on a settings dialogue
+[2015/12/29 15:48:46] <Tobbi> Alright.
+[2015/12/29 15:48:48] <Tobbi> :)
+[2015/12/29 15:59:34] @ giby joined channel #supertux
+[2015/12/29 15:59:34] @ Mode +o giby by ChanServ
