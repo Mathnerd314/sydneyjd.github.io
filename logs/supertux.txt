@@ -33722,3 +33722,43 @@
 [2015/12/29 11:14:19] <mt> Tobbi: it displays the MD5 checksum fail because you didn't click 'Check online'
 [2015/12/29 11:14:25] <Tobbi> ok.
 [2015/12/29 11:14:32] <mt> but Could not load add-on info for addons/langpack-fr.zip: Problem when reading addoninfo '/langpack-fr.nfo': file is not a supertux-addoninfo file.
+[2015/12/29 11:15:10] <mt> duh your silly script breaks on Linux
+[2015/12/29 11:15:35] <mt> echo '\n' echos a literal \n
+[2015/12/29 11:16:37] <Not-e81f> [02supertux] 07tobbi opened issue 03#309: Always prefer langpack strings over strings contained in packaged PO files - 13http://git.io/vE7zj
+[2015/12/29 11:17:00] <Tobbi> mt: Oh, I forgot the disclaimer that this is untested on Linux :D
+[2015/12/29 11:17:19] <Tobbi> mt: Also, my script is certainly not silly.
+[2015/12/29 11:17:26] <Tobbi> It gets the job done on Mac OS X
+[2015/12/29 11:17:48] <Tobbi> Thus: Python might be a preferred choice.
+[2015/12/29 11:19:44] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/99281664
+[2015/12/29 11:21:02] <Tobbi> Also, hume hasn't been in for weeks.
+[2015/12/29 11:21:04] <Tobbi> iirc.
+[2015/12/29 11:21:37] <Tobbi> Oh, wait.
+[2015/12/29 11:21:41] <Tobbi> He was there yesterday.
+[2015/12/29 11:22:15] @ Hume2 joined channel #supertux
+[2015/12/29 11:22:16] @ Mode +v Hume2 by ChanServ
+[2015/12/29 11:22:18] <Tobbi> haha.
+[2015/12/29 11:22:21] <Tobbi> Hello Hume2
+[2015/12/29 11:22:31] <Hume2> Hello, Karkus
+[2015/12/29 11:22:31] <Tobbi> Hume2: Is this a coincidence?
+[2015/12/29 11:22:39] <Tobbi> What? My name's not Karkus.
+[2015/12/29 11:22:55] <Hume2> Sorry, Tobbi :D
+[2015/12/29 11:23:26] <Tobbi> Hume2: Just one minute ago I wrote "Also, hume hasn't been in for weeks. Oh, wait, he was there yesterday" and then you appeared.
+[2015/12/29 11:23:30] <Tobbi> This is a coincidence.
+[2015/12/29 11:23:43] <Hume2> Strange.
+[2015/12/29 11:24:09] <Tobbi> not really, just a coincidence.
+[2015/12/29 11:24:19] <Hume2> I see.
+[2015/12/29 11:24:34] <mt> langpack-fr works now.
+[2015/12/29 11:25:11] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#309: Always prefer langpack strings over strings contained in packaged PO files - 13http://git.io/vE7zj
+[2015/12/29 11:25:12] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#309: Always prefer langpack strings over strings contained in packaged PO files - 13http://git.io/vE7zj
+[2015/12/29 11:25:14] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#309: Always prefer langpack strings over strings contained in packaged PO files - 13http://git.io/vE7zj
+[2015/12/29 11:25:15] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#309: Always prefer langpack strings over strings contained in packaged PO files - 13http://git.io/vE7zj
+[2015/12/29 11:25:21] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/217
+[2015/12/29 11:25:54] @ mt has been kicked from #supertux by mt (I forgot [ci skip])
+[2015/12/29 11:25:56] @ mt joined channel #supertux
+[2015/12/29 11:25:56] @ Mode +o mt by ChanServ
+[2015/12/29 11:26:04] <Tobbi> :D
+[2015/12/29 11:26:42] <Not-e81f> [02supertux] 07mol-1 commented on issue 03#308: Translation updates - 13http://git.io/vE7w6
+[2015/12/29 11:27:10] @ giby joined channel #supertux
+[2015/12/29 11:27:11] @ Mode +o giby by ChanServ
+[2015/12/29 11:29:11] <Not-e81f> [02supertux] 07tobbi commented on issue 03#308: Translation updates - 13http://git.io/vE7rP
+[2015/12/29 11:29:39] <Not-e81f> [02supertux] 07mol-1 commented on issue 03#308: Translation updates - 13http://git.io/vE7rd
