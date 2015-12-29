@@ -33635,3 +33635,14 @@
 [2015/12/29 10:00:10] <mt> So there's a MovingObject which shouldn't be zero but is zero :/
 [2015/12/29 10:03:19] @ irungentoo joined channel #supertux
 [2015/12/29 10:08:21] <mt> I think my fix is a hack as well
+[2015/12/29 10:16:42] @ tuxdev_ joined channel #supertux
+[2015/12/29 10:19:07] <Not-e81f> [02supertux] 07mol-1 opened issue 03#308: Translation updates - 13http://git.io/vE7qe
+[2015/12/29 10:21:05] <Not-e81f> [02supertux] 07maxteufel pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vE7q7
+[2015/12/29 10:21:06] <Not-e81f> [02supertux] 07Max Teufel 03f05dd85 - Player: fix crash when holding objects while falling in edit mode
+[2015/12/29 10:21:08] <Not-e81f> [02supertux] 07maxteufel closed issue 03#307: Crash while holding Mr. IceBlock in edit mode - 13http://git.io/vE9Dh
+[2015/12/29 10:21:09] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99274419
+[2015/12/29 10:21:11] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/216
+[2015/12/29 10:22:07] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99274419
+[2015/12/29 10:24:42] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#308: Translation updates - 13http://git.io/vE7qe
+[2015/12/29 10:24:43] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#308: Translation updates - 13http://git.io/vE7qe
+[2015/12/29 10:24:45] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#308: Translation updates - 13http://git.io/vE7qe
