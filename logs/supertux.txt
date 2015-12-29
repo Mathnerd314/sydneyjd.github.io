@@ -33897,3 +33897,42 @@
 [2015/12/29 12:44:10] @ Wuzzy joined channel #supertux
 [2015/12/29 12:44:26] <Tobbi> Problem is: Once resyncing translations, this will remove the "Up we go..." message from transifex.
 [2015/12/29 12:44:30] <Tobbi> If we ever want to reuse it.
+[2015/12/29 12:45:06] <Hume2> I think that this is here just because the prior lack of sprite.
+[2015/12/29 12:45:27] <Hume2> It used to use the skid action instead of climbing.
+[2015/12/29 12:45:39] <Karkus> Tobbi: After mt is done, we can add it back in specifically for the purpose of "A Fork in the road"
+[2015/12/29 12:45:47] <Tobbi> Alright.
+[2015/12/29 12:46:05] <Karkus> mt: The message needs to be translatable, however. Not sure how easy that is
+[2015/12/29 12:47:01] <mt> I think it's just _(string)
+[2015/12/29 12:47:33] <Hume2> Exactly.
+[2015/12/29 12:47:48] <Hume2> Don't forget to include "util/gettext.hpp"
+[2015/12/29 12:48:09] <mt> that's already there because bad Karkus forget to remove that when it's not needed
+[2015/12/29 12:48:09] <Hume2> Else it won't work.
+[2015/12/29 12:48:15] <mt> s/forget/forgot/
+[2015/12/29 12:48:15] <red_bot> mt meant: "that's already there because bad Karkus forgot to remove that when it's not needed"
+[2015/12/29 12:48:48] <Karkus> mt: I had this idea for messages already. You just got there first :P
+[2015/12/29 12:49:32] <Karkus> mt: But, yeah, I should have removed it.
+[2015/12/29 12:49:58] <Karkus> mt: Forgive my recklessness
+[2015/12/29 12:50:07] <Tobbi> We could have messages for everything.
+[2015/12/29 12:50:12] <Tobbi> :D
+[2015/12/29 12:50:18] <Tobbi> Killing badguys, spawning badguys.
+[2015/12/29 12:50:22] <Tobbi> :D
+[2015/12/29 12:50:27] <Karkus> Tobbi: I am implementing a message trigger.
+[2015/12/29 12:50:53] <Tobbi> I assume this guy I don't want to mention here would spawn badguys with a very nice message...
+[2015/12/29 12:50:55] <Hume2> Text.set_text("message")
+[2015/12/29 12:51:04] <Hume2> Text.fade_in(0.2)
+[2015/12/29 12:51:17] <Karkus> Hume2: Ah, thanks
+[2015/12/29 12:51:23] <Karkus> Hume2: No need.
+[2015/12/29 12:51:25] <Hume2> Tobbi: :D
+[2015/12/29 12:51:48] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/99297285
+[2015/12/29 12:52:30] <Hume2> Karkus: Do you remember those "archivements"?
+[2015/12/29 12:52:39] <Tobbi> Hume2: "achievements"
+[2015/12/29 12:52:54] <Hume2> They had to be "achievements".
+[2015/12/29 12:53:00] <mt> Hume2: I actually liked those
+[2015/12/29 12:53:10] <Hume2> Thanks, mt.
+[2015/12/29 12:53:28] <Karkus> Hume2: I don't remember them, no.
+[2015/12/29 12:53:58] <Hume2> Karkus: In my worldmaps, you know, the level "Archivement unlocked".
+[2015/12/29 12:54:10] <Karkus> Hume2: Yes, I do.
+[2015/12/29 12:54:21] <Karkus> But that was just scripting
+[2015/12/29 12:54:30] <Hume2> They are done via the Text object.
+[2015/12/29 12:56:31] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/218
+[2015/12/29 12:56:59] <Tobbi> oh! Where is maths22. He's been here otherwise.
