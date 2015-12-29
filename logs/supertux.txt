@@ -33587,3 +33587,6 @@
 [2015/12/29 08:20:31] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#306: Springs may push falling coins into the ground - 13http://git.io/vE9wC
 [2015/12/29 08:22:55] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#303: Glitch/Bug in "A fork in the road". - 13http://git.io/vEQum
 [2015/12/29 08:25:46] <Not-e81f> [02supertux] 07biwing starred 03supertux - 13http://git.io/vEQuP
+[2015/12/29 08:31:39] <Not-e81f> [02supertux] 07Karkus476 created page 03Recording-SuperTux-Gameplay - 13http://git.io/vEQgm
+[2015/12/29 08:35:15] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#301: Bug in Secret area of Bonus Island III - 13http://git.io/vEQ2L
+[2015/12/29 08:41:03] @ Quit: giby: Quit: This computer has gone to sleep
