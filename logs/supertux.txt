@@ -33823,3 +33823,42 @@
 [2015/12/29 11:59:03] <Hume2> Tell me, what kind of fool will judge for one stupid level, but if you want, good luck.
 [2015/12/29 11:59:20] <Tobbi> Hume2: Law is not up to interpretation.
 [2015/12/29 11:59:27] <Hume2> I know.
+[2015/12/29 12:00:08] <Not-e81f> [02supertux] 07tobbi commented on issue 03#309: Always prefer langpack strings over strings contained in packaged PO files - 13http://git.io/vE7QY
+[2015/12/29 12:00:10] <mt> I think someone actually let GitHub take down the entire Bukkit repo (or something else Minecraft related) due to a GPL violation
+[2015/12/29 12:00:28] <Hume2> hmmm...
+[2015/12/29 12:00:34] <Hume2> That is not good.
+[2015/12/29 12:00:46] <Hume2> Was it commerical?
+[2015/12/29 12:01:36] <mt> Bukkit? I dunno why. I just read that somewhere at some point.
+[2015/12/29 12:02:30] <mt> It was due to some silly GPL rule. (No I'm not that much GPL-friend, I'd prefer MIT/Apache/NCSA/zlib/...)
+[2015/12/29 12:02:39] <Hume2> It's important, because the commerical violation is usually punnished more.
+[2015/12/29 12:03:28] <mt> Well it was without a court order, just a DMCA (any private person can send GitHub one if their copyright was violated)
+[2015/12/29 12:04:51] <Karkus> Do we know who the authors are? Can't we contact them by the email they provide in the level "contact"?
+[2015/12/29 12:05:02] <mt> I don't think there's an email
+[2015/12/29 12:05:15] <Hume2> Most of them are anonymous.
+[2015/12/29 12:05:16] <mt> but we could social media
+[2015/12/29 12:05:30] <Not-e81f> [02supertux] 07mol-1 commented on issue 03#308: Translation updates - 13http://git.io/vE7da
+[2015/12/29 12:05:51] <Hume2> When is the author anonymous, the publisher counts as the author AFAIK.
+[2015/12/29 12:06:21] <Not-e81f> [02supertux] 07tobbi commented on issue 03#308: Translation updates - 13http://git.io/vE7FJ
+[2015/12/29 12:06:32] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#308: Translation updates - 13http://git.io/vE7FI
+[2015/12/29 12:06:55] <mt> Hume2: I don't think so
+[2015/12/29 12:07:14] <mt> at least in Germany, unless you specifically transfer the right you're always copyright holder
+[2015/12/29 12:07:26] <mt> you just gave the publisher permission to publish
+[2015/12/29 12:07:41] <mt> which is a license, which can be revoked again
+[2015/12/29 12:08:04] <mt> (unless you said it's permanent)
+[2015/12/29 12:08:07] <Hume2> Yes, but when the author is anonymous?
+[2015/12/29 12:08:42] <mt> That doesn't make a difference
+[2015/12/29 12:09:00] <Hume2> How do I get who is the author then in that case?
+[2015/12/29 12:09:10] <mt> You'd ask the publisher who will tell you it was created by someone else but they don't know who
+[2015/12/29 12:10:01] <Hume2> And he has to tell it, right?
+[2015/12/29 12:10:26] <Not-e81f> [02supertux] 07mol-1 commented on issue 03#308: Translation updates - 13http://git.io/vE7NU
+[2015/12/29 12:11:19] <mt> no
+[2015/12/29 12:11:39] <mt> why would they have to? (and what if they don't know)
+[2015/12/29 12:11:45] <Hume2> Exactly.
+[2015/12/29 12:12:02] <mt> well if they don't know they can't give you permission
+[2015/12/29 12:12:09] <mt> simple as that
+[2015/12/29 12:12:46] <Hume2> Now I see how much the copyright laws differ.
+[2015/12/29 12:13:23] <Hume2> In Czech Republic it is like I said.
+[2015/12/29 12:13:34] <mt> It might be, of course, different if you allow the publisher to sub-license something
+[2015/12/29 12:14:09] <Karkus> Hume2: GitHub is not in the Czech Republic, is it?
+[2015/12/29 12:14:17] <Hume2> Karkus: I know.
+[2015/12/29 12:14:38] <Hume2> Maybe I shouldn't apply that anymore.
