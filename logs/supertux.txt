@@ -33632,3 +33632,6 @@
 [2015/12/29 09:48:46] <Karkus> mt: Me too
 [2015/12/29 09:49:04] <mt> You already fixed the HeavyCoin issue ;)
 [2015/12/29 09:49:21] <Karkus> mt: It was a hack; 3 lines :P
+[2015/12/29 10:00:10] <mt> So there's a MovingObject which shouldn't be zero but is zero :/
+[2015/12/29 10:03:19] @ irungentoo joined channel #supertux
+[2015/12/29 10:08:21] <mt> I think my fix is a hack as well
