@@ -33590,3 +33590,8 @@
 [2015/12/29 08:31:39] <Not-e81f> [02supertux] 07Karkus476 created page 03Recording-SuperTux-Gameplay - 13http://git.io/vEQgm
 [2015/12/29 08:35:15] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#301: Bug in Secret area of Bonus Island III - 13http://git.io/vEQ2L
 [2015/12/29 08:41:03] @ Quit: giby: Quit: This computer has gone to sleep
+[2015/12/29 08:49:00] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#305: Problems with non-ASCII characters - 13http://git.io/vE9gl
+[2015/12/29 08:49:01] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#305: Problems with non-ASCII characters - 13http://git.io/vE9gl
+[2015/12/29 08:49:03] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#305: Problems with non-ASCII characters - 13http://git.io/vE9gl
+[2015/12/29 08:49:04] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#305: Problems with non-ASCII characters - 13http://git.io/vE9gl
+[2015/12/29 08:50:27] <mt> related to #305: #130
