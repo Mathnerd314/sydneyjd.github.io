@@ -34119,3 +34119,56 @@
 [2015/12/29 16:03:09] <Not-e81f> [02flexlay] 07tobbi pushed 031 commit to 03develop [+0/-0/±1] 13http://git.io/vEd4b
 [2015/12/29 16:03:10] <Not-e81f> [02flexlay] 07Tobias Markus 03ff6e3b3 - Allow for setting no tilemap
 [2015/12/29 16:12:59] <Not-e81f> [02flexlay] 07Karkus476 opened issue 03#67: Make property.py appropriate for inclusion in package flexlay - 13http://git.io/vEd09
+[2015/12/29 16:16:42] <Tobbi> Karkus: How do you add / remove layers from the GUI?
+[2015/12/29 16:17:18] <Karkus> Tobbi: In the layer selector, there are plus/minus buttons
+[2015/12/29 16:17:31] <Tobbi> hah!
+[2015/12/29 16:17:37] <Tobbi> Karkus: I don't see images..
+[2015/12/29 16:17:44] <Tobbi> Did you forget to add those?
+[2015/12/29 16:17:52] <Karkus> Tobbi: Oh. Maybe :P
+[2015/12/29 16:18:24] <Karkus> Tobbi: I did. Just a minute.
+[2015/12/29 16:18:28] <Tobbi> :)
+[2015/12/29 16:18:44] <Karkus> The images aren't very good, to be honest
+[2015/12/29 16:18:49] <Tobbi> No problem.
+[2015/12/29 16:18:58] <Tobbi> We can probably find better ones on openclipart.org
+[2015/12/29 16:19:15] <Tobbi> They have a wide variety of icons available.
+[2015/12/29 16:20:11] <Karkus> Tobbi: That's where I got them from, but I put no effort in to find good ones, nor to edit them
+[2015/12/29 16:20:17] <Tobbi> Ah, okay.
+[2015/12/29 16:21:03] <polyphagia> i converted http://i.imgur.com/r5MKl5n.png into https://u.teknik.io/JHNWCC.mp4
+[2015/12/29 16:21:07] <polyphagia> :D
+[2015/12/29 16:21:11] <polyphagia> with a script
+[2015/12/29 16:22:40] <Not-e81f> [02flexlay] 07Karkus476 pushed 031 commit to 03develop [+2/-0/±0] 13http://git.io/vEdgT
+[2015/12/29 16:22:41] <Not-e81f> [02flexlay] 07Karkus 03763beda - Adds images I forgot
+[2015/12/29 16:23:41] <Karkus> polyphagia: Into an mp4 file?
+[2015/12/29 16:23:47] <polyphagia> :P
+[2015/12/29 16:23:51] <polyphagia> into a supertux level
+[2015/12/29 16:24:00] <polyphagia> writing something to map enemies next
+[2015/12/29 16:24:43] <Tobbi> :D
+[2015/12/29 16:24:43] <Karkus> polyphagia: You gave me a link to an mp4 file...
+[2015/12/29 16:24:52] <Karkus> Huh?
+[2015/12/29 16:25:01] <Tobbi> Karkus: He is just showing a screencast of his generated supertux level.
+[2015/12/29 16:25:09] <Tobbi> or should I say converted...
+[2015/12/29 16:25:13] <polyphagia> translated!
+[2015/12/29 16:25:24] <Karkus> Tobbi: I don't see anything
+[2015/12/29 16:25:31] <Tobbi> Karkus: Open it with VLC
+[2015/12/29 16:25:38] <Tobbi> It doesn't render in Firefox for me.
+[2015/12/29 16:25:41] <polyphagia> you can stream it with mplayer or vlc
+[2015/12/29 16:25:45] <polyphagia> i don't really render videos in my browser
+[2015/12/29 16:26:01] <polyphagia> mp4 is just the fastest codec i have installed
+[2015/12/29 16:26:10] <polyphagia> well h264*
+[2015/12/29 16:26:19] <Karkus> polyphagia, Tobbi: Okay, I got it.
+[2015/12/29 16:26:24] <polyphagia> i'm really excited about this though :P
+[2015/12/29 16:26:32] <polyphagia> it was a lot of fun
+[2015/12/29 16:26:56] <Tobbi> We can probably integrate it into the editor.
+[2015/12/29 16:26:56] <Tobbi> :D
+[2015/12/29 16:27:03] <polyphagia> yeah i wrote it all in python
+[2015/12/29 16:27:06] <Karkus> polyphagia: It converts it from an image?
+[2015/12/29 16:27:07] <polyphagia> in fact half of it is on my github already
+[2015/12/29 16:27:09] <polyphagia> yeah
+[2015/12/29 16:27:21] <polyphagia> i have two scripts, one that separates the tiles and makes a map
+[2015/12/29 16:27:26] <polyphagia> and another to convert that map into the level
+[2015/12/29 16:27:29] <polyphagia> with a translation file
+[2015/12/29 16:27:38] <polyphagia> https://github.com/misterhat/tyler
+[2015/12/29 16:27:40] <polyphagia> this is the first part
+[2015/12/29 16:27:46] <Karkus> polyphagia: That's pretty cool
+[2015/12/29 16:28:09] <Hume2> http://www.albinoblacksheep.com/flash/winrg
+[2015/12/29 16:28:25] <polyphagia> thanks Karkus
