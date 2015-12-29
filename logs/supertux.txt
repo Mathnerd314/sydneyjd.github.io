@@ -33562,3 +33562,5 @@
 [2015/12/28 18:18:29] @ swift110 joined channel #supertux
 [2015/12/28 18:19:19] @ Quit: swift110: Changing host
 [2015/12/28 18:19:20] @ swift110 joined channel #supertux
+[2015/12/28 19:13:14] @ Karkus joined channel #supertux
+[2015/12/28 19:13:14] @ Mode +o Karkus by ChanServ
