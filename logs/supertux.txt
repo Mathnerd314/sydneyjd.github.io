@@ -33595,3 +33595,5 @@
 [2015/12/29 08:49:03] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#305: Problems with non-ASCII characters - 13http://git.io/vE9gl
 [2015/12/29 08:49:04] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#305: Problems with non-ASCII characters - 13http://git.io/vE9gl
 [2015/12/29 08:50:27] <mt> related to #305: #130
+[2015/12/29 09:02:34] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#305: Problems with non-ASCII characters - 13http://git.io/vEQ1U
+[2015/12/29 09:06:25] @ Quit: alket: Quit: x
