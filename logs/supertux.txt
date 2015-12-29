@@ -34027,3 +34027,12 @@
 [2015/12/29 13:58:57] <Hume2> How I could forget.
 [2015/12/29 13:59:01] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99309189
 [2015/12/29 13:59:04] @ Quit: Hume2: Quit: Page closed
+[2015/12/29 14:00:18] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/99307382
+[2015/12/29 14:01:08] <Tobbi> maths22: Did you just join or did I not notice your name in the nick list earlier?
+[2015/12/29 14:02:53] <head8debian> Tobbi: He has been here a long time...
+[2015/12/29 14:03:07] <Tobbi> hah, okay.
+[2015/12/29 14:03:09] <Tobbi> It's fine.
+[2015/12/29 14:03:26] <Tobbi> I was just looking through the op list then.
+[2015/12/29 14:04:13] <head8debian> :D
+[2015/12/29 14:04:40] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/219
+[2015/12/29 14:14:00] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/99309189
