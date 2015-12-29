@@ -34046,3 +34046,30 @@
 [2015/12/29 14:26:15] @ giby joined channel #supertux
 [2015/12/29 14:26:15] @ Mode +o giby by ChanServ
 [2015/12/29 14:27:32] @ Quit: giby_the_kid: Ping timeout: 272 seconds
+[2015/12/29 14:30:39] <Not-e81f> [02supertux] 07en90 starred 03supertux - 13http://git.io/vC2ji
+[2015/12/29 14:31:07] <Not-e81f> [02supertux] 07tobbi commented on commit 0338e87e2f47fc237ccab5f74603e51a42d982a85c - 13http://git.io/vE5Hz
+[2015/12/29 14:32:21] @ Quit: claymore2: Quit: Leaving
+[2015/12/29 14:33:33] <Karkus> Tobbi: What do you mean?
+[2015/12/29 14:33:51] <Karkus> Tobbi: We don't need the debug message though
+[2015/12/29 14:33:56] <Tobbi> Karkus: Oh, no we don't.
+[2015/12/29 14:34:08] @ alket joined channel #supertux
+[2015/12/29 14:34:15] <Tobbi> Comment updated.
+[2015/12/29 14:34:55] @ giby_the_kid joined channel #supertux
+[2015/12/29 14:34:56] @ Mode +o giby_the_kid by ChanServ
+[2015/12/29 14:35:57] <Karkus> Tobbi: --debug has become almost useless
+[2015/12/29 14:36:04] <Tobbi> Karkus: why?
+[2015/12/29 14:36:29] <Karkus> Tobbi: So much stuff.
+[2015/12/29 14:36:46] @ Quit: giby: Ping timeout: 240 seconds
+[2015/12/29 14:38:19] <Tobbi> Karkus: I am currently trying to change the Tilemap property of SecretAreaTrigger from string to enum.
+[2015/12/29 14:38:26] <Tobbi> But getting the tilemaps from the level is quite hard there.
+[2015/12/29 14:39:37] <Karkus> Tobbi: In the editor?
+[2015/12/29 14:39:41] <Tobbi> Karkus: yes.
+[2015/12/29 14:41:08] <Karkus> Tobbi: Use flexlay/editor_map.py  get_tilemap_layers() ?
+[2015/12/29 14:41:14] <Tobbi> hmm...
+[2015/12/29 14:41:35] <Tobbi> Karkus: Is it a static method? Because currently, property.py doesn't know anything about the GUI
+[2015/12/29 14:41:38] <Tobbi> That's the problem.
+[2015/12/29 14:42:05] <Tobbi> I'd rather not pass a editor_map instance for each property constructor.
+[2015/12/29 14:42:27] <Tobbi> Oh, we have Workspace.current
+[2015/12/29 14:42:32] <Tobbi> maybe there's something there.
+[2015/12/29 14:43:42] <Tobbi> hrm, no.
+[2015/12/29 14:44:16] <Tobbi> I'll probably put it there.
