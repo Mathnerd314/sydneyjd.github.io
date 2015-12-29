@@ -33564,3 +33564,16 @@
 [2015/12/28 18:19:20] @ swift110 joined channel #supertux
 [2015/12/28 19:13:14] @ Karkus joined channel #supertux
 [2015/12/28 19:13:14] @ Mode +o Karkus by ChanServ
+[2015/12/28 19:19:02] @ Quit: jesusalva: Read error: Connection reset by peer
+[2015/12/28 19:19:40] @ jesusalva joined channel #supertux
+[2015/12/28 19:24:27] @ tuxdude143 joined channel #supertux
+[2015/12/28 19:28:00] @ quit (restarting, back in 5...)
+[2015/12/28 19:28:02] @ Log closed by * (rescan or shutdown)
+[2015/12/29 07:32:15] @ Log started by red_bot
+[2015/12/29 07:32:15] @ Joined channel #supertux
+[2015/12/29 07:32:15] @ Topic is "IRC meeting Jan 9, 15:00 GMT | https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2015/12/29 07:32:15] @ Topic set by mt!~mteufel@unaffiliated/supermat on 2015-12-25 13:52:02 -0500
+[2015/12/29 07:32:19] @ Mode +nt by verne.freenode.net
+[2015/12/29 07:32:27] @ Mode +o red_bot by ChanServ
+[2015/12/29 07:34:53] @ claymore2 joined channel #supertux
+[2015/12/29 07:43:23] @ alket_ joined channel #supertux
