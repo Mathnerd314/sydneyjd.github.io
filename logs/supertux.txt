@@ -34115,3 +34115,7 @@
 [2015/12/29 15:48:48] <Tobbi> :)
 [2015/12/29 15:59:34] @ giby joined channel #supertux
 [2015/12/29 15:59:34] @ Mode +o giby by ChanServ
+[2015/12/29 16:01:20] <Not-e81f> [02supertux] 07kfnic starred 03supertux - 13http://git.io/vEd4Z
+[2015/12/29 16:03:09] <Not-e81f> [02flexlay] 07tobbi pushed 031 commit to 03develop [+0/-0/±1] 13http://git.io/vEd4b
+[2015/12/29 16:03:10] <Not-e81f> [02flexlay] 07Tobias Markus 03ff6e3b3 - Allow for setting no tilemap
+[2015/12/29 16:12:59] <Not-e81f> [02flexlay] 07Karkus476 opened issue 03#67: Make property.py appropriate for inclusion in package flexlay - 13http://git.io/vEd09
