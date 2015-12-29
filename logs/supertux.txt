@@ -34199,3 +34199,6 @@
 [2015/12/29 17:41:06] <alket> have to go now, bye
 [2015/12/29 17:41:11] @ Quit: alket: Client Quit
 [2015/12/29 17:43:18] <Karkus> I will send Tobbi your thanks :P
+[2015/12/29 17:46:29] @ swift110 joined channel #supertux
+[2015/12/29 17:59:02] @ Quit: swift110: Changing host
+[2015/12/29 17:59:02] @ swift110 joined channel #supertux
