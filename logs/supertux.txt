@@ -33952,3 +33952,27 @@
 [2015/12/29 13:15:20] @ lumidify joined channel #supertux
 [2015/12/29 13:22:14] @ Quit: tuxdev_: Ping timeout: 245 seconds
 [2015/12/29 13:26:35] @ Quit: lumidify: Ping timeout: 264 seconds
+[2015/12/29 13:33:06] @ lumidify joined channel #supertux
+[2015/12/29 13:33:13] <head8debian> Tobbi: HaHA! Ive caught you. :D
+[2015/12/29 13:33:25] <head8debian> :p
+[2015/12/29 13:33:27] <Tobbi> head8debian: Congratulations. Why is that so interesting?
+[2015/12/29 13:33:49] <head8debian> Good question.
+[2015/12/29 13:37:13] <Hume2> I think, we can have there more bosses for bonus levels.
+[2015/12/29 13:37:44] <mt> [DEBUG] /home/mteufel/src/games/Tux/supertux/src/util/log.cpp:92
+[2015/12/29 13:37:47] <mt> [TINYGETTEXT] Couldn't translate: Let's go down...
+[2015/12/29 13:37:53] <mt> I guess that means it'd be translated
+[2015/12/29 13:37:56] <Not-e81f> [02flexlay] 07tobbi pushed 031 commit to 03develop [+0/-0/±2] 13http://git.io/vE5uJ
+[2015/12/29 13:37:58] <Not-e81f> [02flexlay] 07Tobias Markus 032fd2edf - Allow for setting placeholder
+[2015/12/29 13:38:07] <Tobbi> mt: I guess so.
+[2015/12/29 13:38:22] <Tobbi> mt: You can try by adding the string to the PO file.
+[2015/12/29 13:39:46] <mt> #: data/levels/test/climbablemessage.stl:21
+[2015/12/29 13:39:48] <mt> msgid "Let's go down..."
+[2015/12/29 13:39:50] <mt> msgstr ""
+[2015/12/29 13:39:52] <mt> works
+[2015/12/29 13:40:03] <mt> however the message field must be marked in squirrel so that it's translatabke
+[2015/12/29 13:40:07] <mt> *-table
+[2015/12/29 13:41:59] <Tobbi> hmm...
+[2015/12/29 13:43:22] <mt> that must be done for all translatable strings in .stl files, apparently
+[2015/12/29 13:44:45] <Tobbi> mt: I thought I am extracting strings from stl files.
+[2015/12/29 13:44:56] <mt> Yes
+[2015/12/29 13:44:56] <Tobbi> Check makepot.sh please_
