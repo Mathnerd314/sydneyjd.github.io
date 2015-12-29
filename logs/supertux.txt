@@ -34185,3 +34185,17 @@
 [2015/12/29 17:16:30] @ Karkus joined channel #supertux
 [2015/12/29 17:16:30] @ Mode +o Karkus by ChanServ
 [2015/12/29 17:20:07] @ stewboy joined channel #supertux
+[2015/12/29 17:32:11] <Not-e81f> [02supertux] 07Karkus476 opened issue 03#312: Check For Mouse Right Click - 13http://git.io/vEdQT
+[2015/12/29 17:32:13] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#312: Check For Mouse Right Click - 13http://git.io/vEdQT
+[2015/12/29 17:32:14] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#312: Check For Mouse Right Click - 13http://git.io/vEdQT
+[2015/12/29 17:32:16] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#312: Check For Mouse Right Click - 13http://git.io/vEdQT
+[2015/12/29 17:32:17] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#312: Check For Mouse Right Click - 13http://git.io/vEdQT
+[2015/12/29 17:38:01] @ alket joined channel #supertux
+[2015/12/29 17:39:21] <Karkus> Hello, alket
+[2015/12/29 17:39:27] <alket> hi Karkus
+[2015/12/29 17:39:43] <Karkus> alket: Enjoying 0.4.0?
+[2015/12/29 17:40:27] <alket> yeah
+[2015/12/29 17:40:42] <alket> thanks ofr making it
+[2015/12/29 17:41:06] <alket> have to go now, bye
+[2015/12/29 17:41:11] @ Quit: alket: Client Quit
+[2015/12/29 17:43:18] <Karkus> I will send Tobbi your thanks :P
