@@ -33703,3 +33703,22 @@
 [2015/12/29 10:58:53] <Tobbi> mt: That has to be done manually...just copy the files over.
 [2015/12/29 10:59:31] <Tobbi> the relevant ones I mean.
 [2015/12/29 10:59:55] <Not-e81f> [02supertux] 07maxteufel closed issue 03#308: Translation updates - 13http://git.io/vE7qe
+[2015/12/29 11:00:48] <Tobbi> mt: Did you check that the langpack works? It takes some time to get updated by github...
+[2015/12/29 11:01:04] <Tobbi> ~ 5 minutes or so.
+[2015/12/29 11:01:16] <mt> no I just hope it works if we get complaints I'll just revert the commit
+[2015/12/29 11:01:40] <Tobbi> It currently tells me "MD5 checksums differ"
+[2015/12/29 11:01:47] <Tobbi> but it might resolve itself after some time.
+[2015/12/29 11:05:10] <Not-e81f> [02supertux] 07maxteufel pushed 031 commit to 03master [+0/-0/±8] 13http://git.io/vE70Y
+[2015/12/29 11:05:11] <Not-e81f> [02supertux] 07Max Teufel 0373d93e3 - l10n: update French localization
+[2015/12/29 11:05:13] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99281664
+[2015/12/29 11:05:14] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/217
+[2015/12/29 11:06:09] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99281664
+[2015/12/29 11:07:27] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#308: Translation updates - 13http://git.io/vE70d
+[2015/12/29 11:08:23] <mt> Yes, breaking my own rules :D
+[2015/12/29 11:08:42] <Tobbi> mt: You speak French?
+[2015/12/29 11:08:42] <mt> (https://github.com/SuperTux/supertux/blob/master/CONTRIBUTING.md#bug-reports)
+[2015/12/29 11:08:47] <mt> Yes
+[2015/12/29 11:08:57] <Tobbi> nice :)
+[2015/12/29 11:14:19] <mt> Tobbi: it displays the MD5 checksum fail because you didn't click 'Check online'
+[2015/12/29 11:14:25] <Tobbi> ok.
+[2015/12/29 11:14:32] <mt> but Could not load add-on info for addons/langpack-fr.zip: Problem when reading addoninfo '/langpack-fr.nfo': file is not a supertux-addoninfo file.
