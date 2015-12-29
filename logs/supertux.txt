@@ -33873,3 +33873,27 @@
 [2015/12/29 12:27:50] @ Quit: giby: Ping timeout: 272 seconds
 [2015/12/29 12:28:05] <Karkus> Tobbi: Yeah, it's nice
 [2015/12/29 12:28:09] <Tobbi> good.
+[2015/12/29 12:33:11] <Not-e81f> [02flexlay] 07tobbi pushed 031 commit to 03develop [+0/-0/±2] 13http://git.io/vE5JN
+[2015/12/29 12:33:12] <Not-e81f> [02flexlay] 07Tobias Markus 030a8fa2c - Merge draw_rect and draw_rounded_rect into one function to keep consistency
+[2015/12/29 12:36:56] <Not-e81f> [02supertux] 07Karkus476 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vE5kT
+[2015/12/29 12:36:57] <Not-e81f> [02supertux] 07Karkus 0309f034a - Removed "Up we go..." message whenever climbing.
+[2015/12/29 12:36:59] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99297285
+[2015/12/29 12:37:01] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/218
+[2015/12/29 12:37:55] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99297285
+[2015/12/29 12:39:08] <mt> Karkus: why?
+[2015/12/29 12:40:34] <Karkus> mt: It's not always appropriate, and not customizable. It could be reimplemented as a property of climbable objects?
+[2015/12/29 12:40:57] <Karkus> s/?//
+[2015/12/29 12:40:59] <mt> +1 for that
+[2015/12/29 12:41:18] @ lumidify joined channel #supertux
+[2015/12/29 12:41:31] <Hume2> I'll look whether I can do that.
+[2015/12/29 12:41:52] <Tobbi> That sounds interesting.
+[2015/12/29 12:42:11] <Tobbi> Should also be easy.
+[2015/12/29 12:42:15] <mt> You're already working with the editor, Hume2, would you mind someone else trying this to get familiar with SuperTux code?
+[2015/12/29 12:42:41] <Hume2> mt: I'll be glad if someone could work on it too.
+[2015/12/29 12:42:49] <mt> I'll try to do it then
+[2015/12/29 12:42:49] <Hume2> Good thought.
+[2015/12/29 12:43:14] <Karkus> mt: Okay. I left the message code commented, too
+[2015/12/29 12:44:03] <mt> I saw
+[2015/12/29 12:44:10] @ Wuzzy joined channel #supertux
+[2015/12/29 12:44:26] <Tobbi> Problem is: Once resyncing translations, this will remove the "Up we go..." message from transifex.
+[2015/12/29 12:44:30] <Tobbi> If we ever want to reuse it.
