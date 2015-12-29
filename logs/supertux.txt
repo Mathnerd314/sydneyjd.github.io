@@ -33669,3 +33669,37 @@
 [2015/12/29 10:44:18] <Tobbi> Then run this script https://github.com/SuperTux/addons/blob/master/make_lang_addon.sh with the path to the langpacks.
 [2015/12/29 10:44:28] <Tobbi> Make sure it's an absolute path, not a relative one.
 [2015/12/29 10:44:57] <Tobbi> If you want, you can rewrite that dreaded script in Python.
+[2015/12/29 10:45:09] <Tobbi> Would be much easier to maintain.
+[2015/12/29 10:48:01] <Tobbi> Actually, makepot.sh should be rewritten in python as well.
+[2015/12/29 10:48:13] <Tobbi> If you're up to it.
+[2015/12/29 10:48:33] <Tobbi> Anyway, after the langpacks are created, there are zip files in the langpacks dir.
+[2015/12/29 10:48:43] <Tobbi> And these need to replace the ones in the add-ons repository.
+[2015/12/29 10:48:56] <Tobbi> Also, there's an NFO index file that contains the new items.
+[2015/12/29 10:49:56] <Tobbi> mt: ^^
+[2015/12/29 10:50:06] <Tobbi> mt: Also, is tx pull slow for you as well or is it just me?
+[2015/12/29 10:50:08] <mt> index_to_change.nfo?
+[2015/12/29 10:50:16] <mt> yes tx pull is quite slow
+[2015/12/29 10:50:25] <Tobbi> mt: Yes, exactly.
+[2015/12/29 10:50:41] <mt> the nfo should replace what file in the addons repo?
+[2015/12/29 10:50:56] <Tobbi> mt: Not replace, just copy the contents and replace the relevant contents in...eeh let me check.
+[2015/12/29 10:51:33] <Tobbi> mt: https://github.com/SuperTux/addons/blob/master/index-0_4_0.nfo#L144
+[2015/12/29 10:51:47] <Tobbi> That's the beginning of that block.
+[2015/12/29 10:51:54] <mt> I'll push to a separate branch for you to check :)
+[2015/12/29 10:51:59] <Tobbi> Alright.
+[2015/12/29 10:52:10] <Tobbi> mt: If you can, please rewrite that script to be more user-friendly and stuff...
+[2015/12/29 10:53:45] <mt> Once I have time, yes
+[2015/12/29 10:54:02] <Tobbi> ok
+[2015/12/29 10:57:00] <mt> Tobbi: is this ok: https://github.com/SuperTux/addons/commit/77855a2dd565759908e185cc29491f4843824355
+[2015/12/29 10:57:04] <Tobbi> mt: Also, why would a grabbed object not be a MovingObject* ? We're assert'ing exactly that in https://github.com/SuperTux/supertux/blob/master/src/object/player.cpp#L1001
+[2015/12/29 10:57:18] <mt> I don't know
+[2015/12/29 10:57:22] <mt> the assert() there failed
+[2015/12/29 10:57:38] <Tobbi> mt: You just updated one MD5...? Did you intend to do that?
+[2015/12/29 10:57:51] <Tobbi> Looks like this worked then.
+[2015/12/29 10:57:53] <mt> a few lines above there's also a debug log thing saying 'grabbed non-MovingObject'
+[2015/12/29 10:58:08] <mt> langpacks/langpack-fr.zip:
+[2015/12/29 10:58:11] <mt> Binary file not shown
+[2015/12/29 10:58:38] <Tobbi> mt: Yes, seems fine.
+[2015/12/29 10:58:41] <mt> oh and how would I go about updating the translations in the supertux repo?
+[2015/12/29 10:58:53] <Tobbi> mt: That has to be done manually...just copy the files over.
+[2015/12/29 10:59:31] <Tobbi> the relevant ones I mean.
+[2015/12/29 10:59:55] <Not-e81f> [02supertux] 07maxteufel closed issue 03#308: Translation updates - 13http://git.io/vE7qe
