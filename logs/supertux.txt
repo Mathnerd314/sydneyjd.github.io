@@ -33976,3 +33976,54 @@
 [2015/12/29 13:44:45] <Tobbi> mt: I thought I am extracting strings from stl files.
 [2015/12/29 13:44:56] <mt> Yes
 [2015/12/29 13:44:56] <Tobbi> Check makepot.sh please_
+[2015/12/29 13:45:04] <mt> But only those with (_ "...")
+[2015/12/29 13:45:10] <mt> instead of "..."
+[2015/12/29 13:45:18] <mt> else scripts would end up in translations
+[2015/12/29 13:45:21] <mt> and layer names
+[2015/12/29 13:46:23] <Not-e81f> [02supertux] 07maxteufel pushed 031 commit to 03master [+1/-0/±2] 13http://git.io/vE52c
+[2015/12/29 13:46:24] <Not-e81f> [02supertux] 07Max Teufel 0338e87e2 - Climbable: allow setting a custom message displayed when climbing
+[2015/12/29 13:46:26] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99307382
+[2015/12/29 13:46:27] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/219
+[2015/12/29 13:47:21] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99307382
+[2015/12/29 13:47:51] <Karkus> I missed some of that. Does _("...") work in squirrel?
+[2015/12/29 13:48:09] <mt> see the test level for how it's done
+[2015/12/29 13:48:33] <mt> https://raw.githubusercontent.com/SuperTux/supertux/38e87e2f47fc237ccab5f74603e51a42d982a85c/data/levels/test/climbablemessage.stl
+[2015/12/29 13:49:11] <Hume2> So we still need those climbable objects, I guess.
+[2015/12/29 13:49:33] <head8debian> Tobbi: Can you tell amazon sellers to get their orders straight and to respond to their emails?
+[2015/12/29 13:49:36] <head8debian> :p
+[2015/12/29 13:50:00] <Tobbi> head8debian: I might be pretty advanced when it comes to omnipotence, but this is not one of my abilities.
+[2015/12/29 13:50:03] <head8debian> This is rediculous...
+[2015/12/29 13:51:03] <Tobbi> *ridiculous.
+[2015/12/29 13:51:27] <mt> in #weechat there's a bot that responds to !can weechat <string, like: make me a coffee> with 'yes, weechat can do that' :D
+[2015/12/29 13:51:53] <Hume2> :D
+[2015/12/29 13:52:44] * Hume2 slaps Hume2 around a bit with a large fishbot
+[2015/12/29 13:53:43] <mt> also TIL you can't (message != NULL) in C++
+[2015/12/29 13:53:48] <Tobbi> I should test that out.
+[2015/12/29 13:54:11] <red_bot> red_bot slaps Hume2...
+[2015/12/29 13:54:19] * Hume2 slaps red_bot around a bit with a large fishbot
+[2015/12/29 13:54:27] <Tobbi> no
+[2015/12/29 13:54:29] <Tobbi> stop
+[2015/12/29 13:54:35] <Hume2> OK
+[2015/12/29 13:54:40] <red_bot> red_bot hugs Tobbi...
+[2015/12/29 13:54:42] <Not-e81f> [02flexlay] 07tobbi pushed 031 commit to 03develop [+0/-0/±2] 13http://git.io/vE5wk
+[2015/12/29 13:54:44] <Not-e81f> [02flexlay] 07Tobias Markus 03732719f - Set placeholder for some properties
+[2015/12/29 13:55:00] <red_bot> :p
+[2015/12/29 13:55:14] <Tobbi> head8debian: stop.
+[2015/12/29 13:55:15] <mt> red_bot: learn to CTCP action
+[2015/12/29 13:55:15] <red_bot> mt: incorrect usage, ask for help using 'red_bot: help learn'
+[2015/12/29 13:55:38] <head8debian> red_bot: What?
+[2015/12/29 13:56:24] <maths22> mt: New discovery-If we are going to use PHYSFS_getPrefDir, we need to build physfs ourself
+[2015/12/29 13:57:07] <mt> there's no sane functions to do that in there :/
+[2015/12/29 13:57:19] <mt> sane functions that are enabled by default
+[2015/12/29 13:57:31] <mt> why that?
+[2015/12/29 13:58:01] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vE5wF
+[2015/12/29 13:58:02] <Not-e81f> [02supertux] 07Hume2 032f5533e - fixes #310
+[2015/12/29 13:58:04] <Not-e81f> [02supertux] 07Hume2 closed issue 03#310: String outdated - 13http://git.io/vE7id
+[2015/12/29 13:58:06] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99309189
+[2015/12/29 13:58:07] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/220
+[2015/12/29 13:58:28] <mt> /kick Hume2 [ci skip]
+[2015/12/29 13:58:37] * Hume2 slaps Hume2 around a bit with a large fishbot
+[2015/12/29 13:58:53] <mt> also dat fix
+[2015/12/29 13:58:57] <Hume2> How I could forget.
+[2015/12/29 13:59:01] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99309189
+[2015/12/29 13:59:04] @ Quit: Hume2: Quit: Page closed
