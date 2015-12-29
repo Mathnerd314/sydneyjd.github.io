@@ -34073,3 +34073,8 @@
 [2015/12/29 14:42:32] <Tobbi> maybe there's something there.
 [2015/12/29 14:43:42] <Tobbi> hrm, no.
 [2015/12/29 14:44:16] <Tobbi> I'll probably put it there.
+[2015/12/29 14:45:02] @ Hume2 joined channel #supertux
+[2015/12/29 14:45:03] @ Mode +v Hume2 by ChanServ
+[2015/12/29 14:59:31] @ giby joined channel #supertux
+[2015/12/29 14:59:31] @ Mode +o giby by ChanServ
+[2015/12/29 14:59:35] @ Quit: giby_the_kid: Ping timeout: 260 seconds
