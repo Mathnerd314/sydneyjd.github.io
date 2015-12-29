@@ -34182,3 +34182,6 @@
 [2015/12/29 16:50:01] @ tux|dude joined channel #supertux
 [2015/12/29 17:09:17] @ brmbrmcar joined channel #supertux
 [2015/12/29 17:13:13] @ Quit: alket: Quit: Good Night :)
+[2015/12/29 17:16:30] @ Karkus joined channel #supertux
+[2015/12/29 17:16:30] @ Mode +o Karkus by ChanServ
+[2015/12/29 17:20:07] @ stewboy joined channel #supertux
