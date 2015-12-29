@@ -33577,3 +33577,5 @@
 [2015/12/29 07:32:27] @ Mode +o red_bot by ChanServ
 [2015/12/29 07:34:53] @ claymore2 joined channel #supertux
 [2015/12/29 07:43:23] @ alket_ joined channel #supertux
+[2015/12/29 07:46:44] @ Quit: alket: Ping timeout: 250 seconds
+[2015/12/29 07:47:06] @ alket_ is now known as alket
