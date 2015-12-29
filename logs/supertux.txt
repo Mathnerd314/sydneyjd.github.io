@@ -33936,3 +33936,16 @@
 [2015/12/29 12:54:30] <Hume2> They are done via the Text object.
 [2015/12/29 12:56:31] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/218
 [2015/12/29 12:56:59] <Tobbi> oh! Where is maths22. He's been here otherwise.
+[2015/12/29 13:02:52] <Hume2> Anyone wants to explain something on SuperTux code?
+[2015/12/29 13:05:24] <Tobbi> I can do it: So, there was an if statement once. It was all alone, because it only contained a null check. It was an outcast among all the other pieces of programming code because what it did was deemed worthless by them.
+[2015/12/29 13:06:24] <Tobbi> But once, there was this REALLY weird bug in the code...All the other pieces of code were like " I am not responsible." and suddenly they found the value in that little null check that was left alone previously.
+[2015/12/29 13:06:29] <Tobbi> And all lived happy ever after.
+[2015/12/29 13:06:32] <Tobbi> The end.
+[2015/12/29 13:07:04] <Tobbi> :P
+[2015/12/29 13:07:52] <Hume2> :D
+[2015/12/29 13:08:40] @ Quit: Wuzzy: Quit: Wuzzy
+[2015/12/29 13:09:46] <mt> I works!
+[2015/12/29 13:09:56] <mt> I just don't know if it's translatable
+[2015/12/29 13:11:04] <Tobbi> mt: Check it. Run makepot.sh and it should find those strings.
+[2015/12/29 13:11:06] <Tobbi> In the best case.
+[2015/12/29 13:12:47] @ Quit: lumidify: Ping timeout: 264 seconds
