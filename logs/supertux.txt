@@ -34172,3 +34172,8 @@
 [2015/12/29 16:27:46] <Karkus> polyphagia: That's pretty cool
 [2015/12/29 16:28:09] <Hume2> http://www.albinoblacksheep.com/flash/winrg
 [2015/12/29 16:28:25] <polyphagia> thanks Karkus
+[2015/12/29 16:31:10] <Tobbi> Hume2: lol
+[2015/12/29 16:32:51] @ tux|dude joined channel #supertux
+[2015/12/29 16:40:20] @ jesusalva joined channel #supertux
+[2015/12/29 16:42:32] @ Quit: tux|dude: Quit: Leaving
+[2015/12/29 16:43:02] @ Quit: Tobbi: Remote host closed the connection
