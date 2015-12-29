@@ -34036,3 +34036,13 @@
 [2015/12/29 14:04:13] <head8debian> :D
 [2015/12/29 14:04:40] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/219
 [2015/12/29 14:14:00] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/99309189
+[2015/12/29 14:19:15] @ Quit: lumidify: Quit: Leaving
+[2015/12/29 14:21:12] <Not-e81f> [02supertux] 07Karkus476 commented on commit 0338e87e2f47fc237ccab5f74603e51a42d982a85c - 13http://git.io/vE5D3
+[2015/12/29 14:21:47] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/220
+[2015/12/29 14:25:04] <Not-e81f> [02supertux] 07Karkus476 assigned issue 03#311: Check Translating of Messages in Climbable Objects - 13http://git.io/vE5yj
+[2015/12/29 14:25:05] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#311: Check Translating of Messages in Climbable Objects - 13http://git.io/vE5yj
+[2015/12/29 14:25:07] <Not-e81f> [02supertux] 07Karkus476 opened issue 03#311: Check Translating of Messages in Climbable Objects - 13http://git.io/vE5yj
+[2015/12/29 14:25:08] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#311: Check Translating of Messages in Climbable Objects - 13http://git.io/vE5yj
+[2015/12/29 14:26:15] @ giby joined channel #supertux
+[2015/12/29 14:26:15] @ Mode +o giby by ChanServ
+[2015/12/29 14:27:32] @ Quit: giby_the_kid: Ping timeout: 272 seconds
