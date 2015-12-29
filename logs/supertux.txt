@@ -33597,3 +33597,15 @@
 [2015/12/29 08:50:27] <mt> related to #305: #130
 [2015/12/29 09:02:34] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#305: Problems with non-ASCII characters - 13http://git.io/vEQ1U
 [2015/12/29 09:06:25] @ Quit: alket: Quit: x
+[2015/12/29 09:17:04] <Not-e81f> [02supertux] 07Karkus476 pushed 031 commit to 03master [+0/-0/±4] 13http://git.io/vEQ94
+[2015/12/29 09:17:06] <Not-e81f> [02supertux] 07Karkus 03831ec25 - Rocks and trampolines ignore HeavyCoin collisions.
+[2015/12/29 09:17:07] <Not-e81f> [02supertux] 07Karkus476 closed issue 03#306: Springs may push falling coins into the ground - 13http://git.io/vE9wC
+[2015/12/29 09:17:09] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99264560
+[2015/12/29 09:17:10] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/215
+[2015/12/29 09:18:25] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99264560
+[2015/12/29 09:22:30] <Karkus> mt: Why is fix/298 a separate branch?
+[2015/12/29 09:25:07] <mt> Karkus: Because the level editor (the C# one) rewrote the level file with some structural changes I didn't want to read the git diff completely
+[2015/12/29 09:25:13] <mt> So I made a separate branch
+[2015/12/29 09:25:36] <mt> If everything works as expected, tell me and I'll rebase it onto master and then fast-forward-merge it
+[2015/12/29 09:25:47] <Karkus> mt: Okay
+[2015/12/29 09:28:05] @ Quit: lumidify: Ping timeout: 276 seconds
