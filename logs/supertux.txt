@@ -33620,3 +33620,15 @@
 [2015/12/29 09:43:39] <Karkus> What's the purpose of it?
 [2015/12/29 09:44:03] <mt> when you're making a level you might not fail when playing it
 [2015/12/29 09:44:12] <mt> *not want to
+[2015/12/29 09:45:52] <Karkus> mt: How do you leave ghost mode?
+[2015/12/29 09:45:54] <brmbrmcar> It is the same as ghost mode.
+[2015/12/29 09:45:55] <mt> actually, I have a much more detailed backtrace/coredump with debug symbols
+[2015/12/29 09:46:01] <brmbrmcar> Press action.
+[2015/12/29 09:46:03] <mt> Karkus: press Action
+[2015/12/29 09:47:09] @ brmbrmcar left channel #supertux ("Broken terminal")
+[2015/12/29 09:47:49] <Karkus> mt: Okay, thanks
+[2015/12/29 09:47:56] <mt> lemme try to fix it
+[2015/12/29 09:48:10] <mt> I actually want to get familiar with the supertux codebase
+[2015/12/29 09:48:46] <Karkus> mt: Me too
+[2015/12/29 09:49:04] <mt> You already fixed the HeavyCoin issue ;)
+[2015/12/29 09:49:21] <Karkus> mt: It was a hack; 3 lines :P
