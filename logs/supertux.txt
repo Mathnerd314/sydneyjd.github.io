@@ -34078,3 +34078,4 @@
 [2015/12/29 14:59:31] @ giby joined channel #supertux
 [2015/12/29 14:59:31] @ Mode +o giby by ChanServ
 [2015/12/29 14:59:35] @ Quit: giby_the_kid: Ping timeout: 260 seconds
+[2015/12/29 15:06:48] @ Quit: Karkus: Ping timeout: 272 seconds
