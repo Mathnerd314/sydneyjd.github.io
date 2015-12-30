@@ -34209,3 +34209,4 @@
 [2015/12/29 18:15:10] @ Tobbi joined channel #supertux
 [2015/12/29 18:15:10] @ Mode +o Tobbi by ChanServ
 [2015/12/29 18:19:44] @ Quit: kneekoo: Read error: Connection reset by peer
+[2015/12/29 19:33:55] @ Quit: jesusalva: Ping timeout: 240 seconds
