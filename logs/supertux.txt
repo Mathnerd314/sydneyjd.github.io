@@ -34827,3 +34827,15 @@
 [2015/12/30 17:50:26] @ Mode +o mt by ChanServ
 [2015/12/30 18:03:45] @ Quit: leyyin_: Quit: So Long, and Thanks for All the Fish
 [2015/12/30 18:11:44] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/30 18:15:13] <Not-e81f> [02supertux] 07Karkus476 labeled pull request 03#314: Option to enter ghost mode from cheat menu - 13http://git.io/vEp6I
+[2015/12/30 18:15:14] <Not-e81f> [02supertux] 07Karkus476 labeled pull request 03#314: Option to enter ghost mode from cheat menu - 13http://git.io/vEp6I
+[2015/12/30 18:15:16] <Not-e81f> [02supertux] 07Karkus476 assigned pull request 03#314: Option to enter ghost mode from cheat menu - 13http://git.io/vEp6I
+[2015/12/30 18:15:17] <Not-e81f> [02supertux] 07Karkus476 labeled pull request 03#314: Option to enter ghost mode from cheat menu - 13http://git.io/vEp6I
+[2015/12/30 18:15:19] <Not-e81f> [02supertux] 07Karkus476 opened pull request 03#314: Option to enter ghost mode from cheat menu - 13http://git.io/vEp6I
+[2015/12/30 18:15:20] <Not-e81f> [02supertux] 07Karkus476 labeled pull request 03#314: Option to enter ghost mode from cheat menu - 13http://git.io/vEp6I
+[2015/12/30 18:15:21] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99520764
+[2015/12/30 18:15:23] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/226
+[2015/12/30 18:16:51] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99520764
+[2015/12/30 18:18:34] @ Tobbi joined channel #supertux
+[2015/12/30 18:18:34] @ Mode +o Tobbi by ChanServ
+[2015/12/30 18:28:56] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/99520764
