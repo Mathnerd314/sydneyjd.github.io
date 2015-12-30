@@ -34300,3 +34300,8 @@
 [2015/12/30 04:03:42] @ Quit: tux|dude: Quit: Leaving
 [2015/12/30 04:14:48] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#311: Check Translating of Messages in Climbable Objects - 13http://git.io/vEbru
 [2015/12/30 04:14:49] <Not-e81f> [02supertux] 07maxteufel closed issue 03#311: Check Translating of Messages in Climbable Objects - 13http://git.io/vE5yj
+[2015/12/30 04:16:30] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#298: Bug in "Bad Guys Stink" - 13http://git.io/vEbrH
+[2015/12/30 04:16:59] @ Quit: lumidify: Ping timeout: 264 seconds
+[2015/12/30 04:18:35] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2015/12/30 04:28:39] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#307: Crash while holding Mr. IceBlock in edit mode - 13http://git.io/vEbiu
+[2015/12/30 04:28:40] <Not-e81f> [02supertux] 07maxteufel reopened issue 03#307: Crash while holding Mr. IceBlock in edit mode - 13http://git.io/vE9Dh
