@@ -34742,3 +34742,24 @@
 [2015/12/30 17:13:23] @ Mode +o Karkus by ChanServ
 [2015/12/30 17:14:35] @ Quit: mt: Ping timeout: 240 seconds
 [2015/12/30 17:14:42] @ Quit: leyyin: Ping timeout: 256 seconds
+[2015/12/30 17:15:11] @ mt joined channel #supertux
+[2015/12/30 17:15:11] @ Mode +o mt by ChanServ
+[2015/12/30 17:16:20] <Tobbi> Hello, mt, Karkus, leyyin, me.
+[2015/12/30 17:16:22] <Tobbi> :P
+[2015/12/30 17:16:33] <Tobbi> Wait, only Karkus joined :D
+[2015/12/30 17:16:41] <Karkus> Hello Tobbi
+[2015/12/30 17:18:59] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#313: Frozen then thawed dispensers cannot be frozen again - 13http://git.io/vEpRB
+[2015/12/30 17:19:26] @ Quit: mt: Ping timeout: 240 seconds
+[2015/12/30 17:19:38] @ mteufel joined channel #supertux
+[2015/12/30 17:19:38] @ Mode +o mteufel by ChanServ
+[2015/12/30 17:21:26] <Not-e81f> [02supertux] 07Karkus476 assigned issue 03#298: Bug in "Bad Guys Stink" - 13http://git.io/vEPOI
+[2015/12/30 17:21:44] <Tobbi> Karkus: I am glad to report that this hard-to-reproduce issue was resolved: http://supertux.lethargik.org/bugs/view.php?id=917 :D
+[2015/12/30 17:21:54] <Tobbi> Now all hail to my genius... :D
+[2015/12/30 17:23:35] @ Quit: mteufel: Ping timeout: 240 seconds
+[2015/12/30 17:23:50] <Karkus> Tobbi: Are we now using the retux sprites by the way?
+[2015/12/30 17:24:01] <Tobbi> Karkus: I integrated them, not sure if they look right.
+[2015/12/30 17:24:05] <Tobbi> They might need to be improved.
+[2015/12/30 17:24:12] <Tobbi> Not sure if they loop correctly, that's what I mean.
+[2015/12/30 17:25:00] @ mt joined channel #supertux
+[2015/12/30 17:25:00] @ Mode +o mt by ChanServ
+[2015/12/30 17:29:57] @ swift110 joined channel #supertux
