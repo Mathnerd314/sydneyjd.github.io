@@ -34329,3 +34329,8 @@
 [2015/12/30 06:38:33] <snadge> i beat the level finally.. i guess if its easy, it doesnt feel like an accomplishment
 [2015/12/30 06:53:44] @ Quit: Karkus: Quit: Division By Zero
 [2015/12/30 06:56:42] @ lumidify joined channel #supertux
+[2015/12/30 07:07:45] <Not-e81f> [02supertux] 07cnHackintosh forked the repository - 13http://git.io/vENWI
+[2015/12/30 07:07:58] <Not-e81f> [02supertux] 07cnHackintosh starred 03supertux - 13http://git.io/vENWI
+[2015/12/30 07:11:41] @ Tobbi joined channel #supertux
+[2015/12/30 07:11:41] @ Mode +o Tobbi by ChanServ
+[2015/12/30 07:11:51] @ Quit: stewboy: Read error: Connection reset by peer
