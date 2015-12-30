@@ -34261,3 +34261,8 @@
 [2015/12/29 22:49:38] <Not-e81f> [02supertux] 07misterhat commented on issue 03#253: Integrate sprites from reTux - 13http://git.io/vEFPA
 [2015/12/29 22:50:01] <polyphagia> there's all of the new run sprites :P
 [2015/12/29 22:52:48] <Not-e81f> [02supertux] 07MCMic commented on issue 03#201: Backflipping to a bonus block hides Tux behind it - 13http://git.io/vEFXG
+[2015/12/29 23:00:12] <polyphagia> the run sprite looks awesome by the way!
+[2015/12/29 23:00:31] <polyphagia> i didn't look how to implement it by running but it i just tested it by replacing the walk sprite
+[2015/12/29 23:00:35] <polyphagia> the extra frames really look nice
+[2015/12/29 23:00:47] <polyphagia> i hope it can be modified for the larger tux
+[2015/12/29 23:04:48] @ Quit: irungentoo: Remote host closed the connection
