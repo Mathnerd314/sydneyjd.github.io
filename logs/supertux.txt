@@ -34278,3 +34278,16 @@
 [2015/12/30 01:54:49] @ stewboy joined channel #supertux
 [2015/12/30 02:20:36] @ Quit: giby: Read error: Connection reset by peer
 [2015/12/30 02:29:06] @ Quit: lumidify: Ping timeout: 240 seconds
+[2015/12/30 02:46:10] <Not-e81f> [02supertux] 07maxteufel commented on commit 0338e87e2f47fc237ccab5f74603e51a42d982a85c - 13http://git.io/vEbnI
+[2015/12/30 02:48:21] <Not-e81f> [02flexlay] 07maxteufel pushed 031 commit to 03develop [+0/-0/±1] 13http://git.io/vEbnl
+[2015/12/30 02:48:22] <Not-e81f> [02flexlay] 07Max Teufel 03334252f - Fix insecure use of temporary files with a fixed name
+[2015/12/30 02:48:24] <Not-e81f> [02flexlay] 07maxteufel closed issue 03#65: [Security Advisory] flexlay is insecurely using temporary files with a fixed name - 13http://git.io/vEXNY
+[2015/12/30 02:48:25] <Not-e81f> [02flexlay] 07maxteufel deleted branch 03fix/SuperTuxGUI-insecure-tempfiles
+[2015/12/30 02:48:27] <Not-e81f> [02flexlay] 07maxteufel closed pull request 03#66: Fix insecure use of temp files with fixed name - 13http://git.io/vEDU3
+[2015/12/30 02:48:51] <mt> [closing this since I don't want for the CVE allocation anymore]
+[2015/12/30 02:53:11] @ lumidify joined channel #supertux
+[2015/12/30 02:57:28] <Not-e81f> [02supertux] 07maxteufel pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEbCT
+[2015/12/30 02:57:28] <Not-e81f> [02supertux] 07Max Teufel 030425ce5 - Climbable: remove debug message when no message is set
+[2015/12/30 02:57:30] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99394981
+[2015/12/30 02:57:36] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/221
+[2015/12/30 02:58:39] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99394981
