@@ -34250,3 +34250,11 @@
 [2015/12/29 21:30:55] @ Wuzzy joined channel #supertux
 [2015/12/29 21:56:53] <Not-e81f> [02supertux] 07mark-otaris opened issue 03#313: Frozen then thawed dispensers cannot be frozen again - 13http://git.io/vEFVk
 [2015/12/29 21:57:24] <mark_otaris> Two bug reports in a few hours of testing, not bad!
+[2015/12/29 22:19:55] <polyphagia> maybe it cracked from the sudden rise in temperature mark_otaris ?
+[2015/12/29 22:20:10] <mark_otaris> hm?
+[2015/12/29 22:21:19] <Tobbi> What have we done?
+[2015/12/29 22:21:28] <Tobbi> People are suddenly getting interested in the game.
+[2015/12/29 22:21:58] <polyphagia> kidding mark_otaris
+[2015/12/29 22:23:46] <mark_otaris> Tobbi: Releasing a new version?
+[2015/12/29 22:23:57] <Tobbi> mark_otaris: Okay, true :P
+[2015/12/29 22:25:34] @ bb010g joined channel #supertux
