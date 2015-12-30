@@ -34376,3 +34376,5 @@
 [2015/12/30 13:02:43] @ Quit: grumbel_: Quit: Leaving
 [2015/12/30 13:10:23] @ Quit: lumidify: Ping timeout: 264 seconds
 [2015/12/30 13:11:28] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/30 13:22:14] @ brmbrmcar joined channel #supertux
+[2015/12/30 13:29:14] @ leyyin joined channel #supertux
