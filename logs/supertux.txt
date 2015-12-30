@@ -34717,3 +34717,23 @@
 [2015/12/30 16:41:42] <polyphagia> https://u.teknik.io/wb9ZWk.mp4
 [2015/12/30 16:41:44] <polyphagia> :D
 [2015/12/30 16:44:44] <Tobbi> polyphagia: How do you find out which powerup item it is just by checking the image?
+[2015/12/30 16:46:28] <Not-e81f> [02supertux] 07tobbi commented on issue 03#274: Positional audio exaggerated - 13http://git.io/vEpGG
+[2015/12/30 16:46:41] <polyphagia> i have a separate image
+[2015/12/30 16:46:53] <Tobbi> *sigh* it's removing the <> from my github comment.
+[2015/12/30 16:46:55] <polyphagia> there is one that is exclusively background, and one that has background along with enemies and powerups
+[2015/12/30 16:46:56] <Tobbi> polyphagia: I see...
+[2015/12/30 16:47:03] <polyphagia> so i ran imagick and made a diff
+[2015/12/30 16:47:07] <polyphagia> and now i can get both
+[2015/12/30 16:47:18] <polyphagia> i can just loop over all of the levels and port the entire game :P
+[2015/12/30 16:47:20] <polyphagia> i'm about to
+[2015/12/30 16:48:00] <polyphagia> i'm really happy with how well the levels play, the mechanics are very smooth
+[2015/12/30 16:48:17] <polyphagia> better than the first game for sure, tighter controls :P
+[2015/12/30 16:48:25] <Tobbi> :)
+[2015/12/30 16:48:30] <Tobbi> The first game is aged...
+[2015/12/30 16:48:31] @ Quit: Hume2: Quit: Page closed
+[2015/12/30 16:48:36] <Tobbi> So old...
+[2015/12/30 16:48:41] <polyphagia> yeah now it can have refreshing graphics and variable sizes :D
+[2015/12/30 16:50:22] <Tobbi> Something is wrong with the coverity build...
+[2015/12/30 16:50:43] <Tobbi> maths22: I am not sure if you are able to look into that. But you're certainly more capable than me in that aspect.
+[2015/12/30 16:51:06] <Tobbi> Do you have a coverity account?
+[2015/12/30 16:51:18] <Tobbi> If not, please create one and I can add you, or check the travis build log.
