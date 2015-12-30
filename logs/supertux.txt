@@ -34361,3 +34361,8 @@
 [2015/12/30 11:35:34] @ brmbrmcar joined channel #supertux
 [2015/12/30 11:38:57] @ Tobbi joined channel #supertux
 [2015/12/30 11:38:57] @ Mode +o Tobbi by ChanServ
+[2015/12/30 11:48:08] <Not-e81f> [02supertux] 07misterhat commented on issue 03#273: Allow changing volume - 13http://git.io/vEAip
+[2015/12/30 11:50:05] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/30 11:58:22] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#273: Allow changing volume - 13http://git.io/vEAM2
+[2015/12/30 11:58:50] @ Hume2 joined channel #supertux
+[2015/12/30 11:58:50] @ Mode +v Hume2 by ChanServ
