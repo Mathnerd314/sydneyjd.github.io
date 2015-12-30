@@ -34335,3 +34335,8 @@
 [2015/12/30 07:11:41] @ Mode +o Tobbi by ChanServ
 [2015/12/30 07:11:51] @ Quit: stewboy: Read error: Connection reset by peer
 [2015/12/30 07:27:32] @ brmbrmcar joined channel #supertux
+[2015/12/30 07:30:16] @ brmbrmcar left channel #supertux ()
+[2015/12/30 07:35:07] @ brmbrmcar joined channel #supertux
+[2015/12/30 07:35:12] @ brmbrmcar left channel #supertux ()
+[2015/12/30 07:44:58] @ Karkus joined channel #supertux
+[2015/12/30 07:44:59] @ Mode +o Karkus by ChanServ
