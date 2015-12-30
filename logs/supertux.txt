@@ -34268,3 +34268,5 @@
 [2015/12/29 23:04:48] @ Quit: irungentoo: Remote host closed the connection
 [2015/12/29 23:22:28] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/29 23:36:19] @ Quit: Wuzzy: Quit: Wuzzy
+[2015/12/30 00:21:00] @ datahead8888_ joined channel #supertux
+[2015/12/30 00:23:35] @ Quit: datahead8888: Ping timeout: 240 seconds
