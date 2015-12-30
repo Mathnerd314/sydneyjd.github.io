@@ -34308,3 +34308,4 @@
 [2015/12/30 04:59:38] @ Quit: giby: Ping timeout: 246 seconds
 [2015/12/30 05:02:54] @ giby joined channel #supertux
 [2015/12/30 05:02:54] @ Mode +o giby by ChanServ
+[2015/12/30 05:18:53] @ Quit: giby: Read error: Connection reset by peer
