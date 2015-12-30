@@ -34651,3 +34651,36 @@
 [2015/12/30 15:19:17] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/222
 [2015/12/30 15:20:32] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99494654
 [2015/12/30 15:20:35] <Tobbi> woo...
+[2015/12/30 15:31:57] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vExbK
+[2015/12/30 15:31:59] <Not-e81f> [02supertux] 07Tobias Markus 032cb9722 - Better syntactical solution to previous commit
+[2015/12/30 15:33:59] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/99494654
+[2015/12/30 15:34:04] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vExN4
+[2015/12/30 15:34:05] <Not-e81f> [02supertux] 07Tobias Markus 031046e73 - Only set custom run action if player is small
+[2015/12/30 15:34:07] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99497149
+[2015/12/30 15:34:08] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/223
+[2015/12/30 15:35:15] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99497149
+[2015/12/30 15:35:23] <Not-e81f> [02supertux] 07tobbi created branch 03coverity_scan 13http://git.io/vExAv
+[2015/12/30 15:35:24] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99497316
+[2015/12/30 15:35:26] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/224
+[2015/12/30 15:36:09] <Not-e81f> [02supertux] 07Hume2 pushed 032 commits to 03master [+0/-0/±3] 13http://git.io/vExAZ
+[2015/12/30 15:36:11] <Not-e81f> [02supertux] 07Hume2 03f70a700 - Dispenser::colgroup_active is now allocated
+[2015/12/30 15:36:12] <Not-e81f> [02supertux] 07Hume2 031d92847 - Merge branch 'master' of https://github.com/SuperTux/supertux
+[2015/12/30 15:36:14] <Not-e81f> [02supertux] 07Hume2 closed issue 03#313: Frozen then thawed dispensers cannot be frozen again - 13http://git.io/vEFVk
+[2015/12/30 15:36:15] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99497408
+[2015/12/30 15:36:17] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/225
+[2015/12/30 15:36:57] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/222
+[2015/12/30 15:40:31] <Tobbi> I predict new issues on coverity-
+[2015/12/30 15:41:03] <Tobbi> Hume2: How do you merge upstream changes?
+[2015/12/30 15:41:08] <Tobbi> What command do you use, I mean?
+[2015/12/30 15:41:40] <Hume2> Tobbi: I was working on that commit while you was working on your commits.
+[2015/12/30 15:41:44] <Hume2> git pull
+[2015/12/30 15:41:56] <Tobbi> Hume2: Ah, okay...you should use git pull --rebase
+[2015/12/30 15:41:57] <Tobbi> iirc.
+[2015/12/30 15:42:03] <Tobbi> Since that shouldn't create merge commits.
+[2015/12/30 15:42:16] <Hume2> So it works even like this...
+[2015/12/30 15:42:20] <Hume2> well.. OK
+[2015/12/30 15:42:27] <Tobbi> I am nitpicky.
+[2015/12/30 15:42:27] <Tobbi> :P
+[2015/12/30 15:42:31] <Tobbi> I know that myself.
+[2015/12/30 15:43:23] @ swift110 joined channel #supertux
+[2015/12/30 15:44:23] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99497316
