@@ -34695,3 +34695,18 @@
 [2015/12/30 15:59:01] @ brmbrmcar left channel #supertux ()
 [2015/12/30 16:02:25] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99497408
 [2015/12/30 16:12:35] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/224
+[2015/12/30 16:17:02] @ Quit: swift110: Remote host closed the connection
+[2015/12/30 16:24:37] <leyyin> Tobbi, how is vacation?
+[2015/12/30 16:24:47] <Tobbi> leyyin: Huh? I'm not on vacation.
+[2015/12/30 16:24:55] <leyyin> why not?
+[2015/12/30 16:25:13] <Tobbi> leyyin: Uh? college is still ongoing, at least after new years eve.
+[2015/12/30 16:25:26] <leyyin> the same for me
+[2015/12/30 16:25:50] <Tobbi> leyyin: Actually, I have tons of work to do...I don't do anything but hack on SuperTux
+[2015/12/30 16:25:59] <Tobbi> So, it's not ideal at all.
+[2015/12/30 16:26:28] <leyyin> I don't do anything but procastinate ;)
+[2015/12/30 16:26:39] <Tobbi> leyyin: Same here.
+[2015/12/30 16:26:40] <Tobbi> :D
+[2015/12/30 16:27:00] <Tobbi> leyyin: Trying to find out why stereo panning doesn't work for SuperTux.
+[2015/12/30 16:27:38] <Tobbi> OpenAL stuff.
+[2015/12/30 16:27:49] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/99497316
+[2015/12/30 16:28:38] @ Quit: claymore2: Quit: Leaving
