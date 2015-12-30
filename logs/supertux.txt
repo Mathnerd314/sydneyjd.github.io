@@ -34315,3 +34315,14 @@
 [2015/12/30 06:01:53] @ giby joined channel #supertux
 [2015/12/30 06:01:55] @ Mode +o giby by ChanServ
 [2015/12/30 06:11:53] @ lumidify joined channel #supertux
+[2015/12/30 06:18:54] <snadge> i want to kill the person who made a maze in the sky
+[2015/12/30 06:19:22] <snadge> there aren't enough expletives in the universe to express how i feel about it
+[2015/12/30 06:20:35] @ Quit: lumidify: Ping timeout: 264 seconds
+[2015/12/30 06:20:37] <mt> data/levels/bonus1/wansti-level3.stl
+[2015/12/30 06:20:44] <mt> wansti made it, I guess
+[2015/12/30 06:21:04] <snadge> its an autoscroller.. fine.. its hard to have much love for them
+[2015/12/30 06:21:39] <snadge> but its a particularly difficult one.. with a tricky jump that i keep missing
+[2015/12/30 06:21:52] <snadge> and because its an autoscroller.. you're under time pressure to do it
+[2015/12/30 06:24:33] <snadge> i need a state machine save.. like emulators have :P
+[2015/12/30 06:24:35] <mt> Bonus Island I levels have a timer anyway
+[2015/12/30 06:25:20] <mt> snadge: http://criu.org/Main_Page
