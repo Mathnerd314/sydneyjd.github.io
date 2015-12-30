@@ -34560,3 +34560,46 @@
 [2015/12/30 14:29:31] <polyphagia> but with a TTF we can scale it up
 [2015/12/30 14:29:51] <Tobbi> http://programmingfonts.org/list ?
 [2015/12/30 14:29:55] <mt> Tobbi: there's tons of monospaced fonts we could ship with supertux
+[2015/12/30 14:30:04] <Tobbi> great
+[2015/12/30 14:30:07] <polyphagia> yeah
+[2015/12/30 14:30:13] <mt> Tobbi: that link is 404
+[2015/12/30 14:30:18] <Tobbi> huh?
+[2015/12/30 14:30:24] <Tobbi> wfm
+[2015/12/30 14:30:42] <mt> and the top-level document is "Registered domain / Geregistreerd domein"
+[2015/12/30 14:31:28] <Tobbi> mt: Check your DNS...it works for me.
+[2015/12/30 14:31:57] <Tobbi> http://programmingfonts.tumblr.com
+[2015/12/30 14:31:59] <Tobbi> better?
+[2015/12/30 14:32:00] <mt> programmingfonts.org has address 66.6.44.4
+[2015/12/30 14:32:03] <mt> programmingfonts.org has IPv6 address 2a00:f10:10a:5:2:f12:80:4
+[2015/12/30 14:32:05] <mt> programmingfonts.org mail is handled by 20 fallback.mail.pcextreme.nl.
+[2015/12/30 14:32:07] <mt> programmingfonts.org mail is handled by 10 primary.mail.pcextreme.nl.
+[2015/12/30 14:32:20] <mt> tumblr redirects me to the same page
+[2015/12/30 14:32:24] <Tobbi> hrm
+[2015/12/30 14:33:28] <Tobbi> Well, no issue on my side.
+[2015/12/30 14:33:30] <mt> I'm getting that response from my usual OpenNIC resolver, 8.8.8.8 and 4.2.2.1 (Level3)
+[2015/12/30 14:33:49] <polyphagia> hmm mt
+[2015/12/30 14:33:58] <Tobbi> polyphagia: Can you open that URL?
+[2015/12/30 14:34:00] <polyphagia> do you think it would be possible to separate each SVG in a separate file
+[2015/12/30 14:34:07] <polyphagia> with the letter corresponding to the character?
+[2015/12/30 14:34:10] <polyphagia> that's basically what we need to do
+[2015/12/30 14:34:14] <polyphagia> and then it should be trivial
+[2015/12/30 14:35:25] <mt> polyphagia: you could extract each letter as separate image using e.g. GIMP, and exporting it to PNM, then running potrace over it
+[2015/12/30 14:35:33] <polyphagia> perfect you're right
+[2015/12/30 14:35:38] <polyphagia> and i could find the map in the source somewhere
+[2015/12/30 14:35:43] <Tobbi> Why not use imagemagick for that?
+[2015/12/30 14:35:45] <polyphagia> yeah
+[2015/12/30 14:35:48] <polyphagia> that's what i was going to use
+[2015/12/30 14:35:50] <polyphagia> lol
+[2015/12/30 14:35:54] <mt> what I used for potrace is `potrace white-big.pnm -b svg -o white-big.svg`
+[2015/12/30 14:35:54] <polyphagia> check out my issue comment haha
+[2015/12/30 14:35:54] <Tobbi> Should be easier to automate.
+[2015/12/30 14:36:05] <polyphagia> Tobbi: http://git.io/vEFPA
+[2015/12/30 14:36:07] <Tobbi> I don't know that much about imagemagick...
+[2015/12/30 14:36:31] <polyphagia> the run sprite looks great btw
+[2015/12/30 14:37:00] <Tobbi> hah, I have imagemagick as well.
+[2015/12/30 14:37:47] <Tobbi> I should probably integrate those.
+[2015/12/30 14:39:47] <polyphagia> yeah Tobbi please!
+[2015/12/30 14:39:58] <polyphagia> i wasn't sure how
+[2015/12/30 14:40:05] <polyphagia> i didn't check yet though
+[2015/12/30 14:40:15] <polyphagia> i just replaced the walk sprite definition
+[2015/12/30 14:40:17] <polyphagia> to test it
