@@ -34276,3 +34276,5 @@
 [2015/12/30 01:00:03] @ lumidify joined channel #supertux
 [2015/12/30 01:02:40] @ ced117 joined channel #supertux
 [2015/12/30 01:54:49] @ stewboy joined channel #supertux
+[2015/12/30 02:20:36] @ Quit: giby: Read error: Connection reset by peer
+[2015/12/30 02:29:06] @ Quit: lumidify: Ping timeout: 240 seconds
