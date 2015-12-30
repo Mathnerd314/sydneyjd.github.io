@@ -34326,3 +34326,4 @@
 [2015/12/30 06:24:33] <snadge> i need a state machine save.. like emulators have :P
 [2015/12/30 06:24:35] <mt> Bonus Island I levels have a timer anyway
 [2015/12/30 06:25:20] <mt> snadge: http://criu.org/Main_Page
+[2015/12/30 06:38:33] <snadge> i beat the level finally.. i guess if its easy, it doesnt feel like an accomplishment
