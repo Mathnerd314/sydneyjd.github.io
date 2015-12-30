@@ -34606,3 +34606,34 @@
 [2015/12/30 14:53:17] @ brmbrmcar joined channel #supertux
 [2015/12/30 14:59:35] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+15/-0/±2] 13http://git.io/vExDz
 [2015/12/30 14:59:37] <Not-e81f> [02supertux] 07Tobias Markus 03b3ddc4c - Implement tux running sprites (hopefully the right way), ref. issue #253
+[2015/12/30 15:00:09] <Tobbi> polyphagia: Can you test that?
+[2015/12/30 15:06:02] <polyphagia> kk Tobbi gimmie a sec
+[2015/12/30 15:06:06] <mt> that somehow breaks something when Tux is big/flowerbonus
+[2015/12/30 15:06:13] <polyphagia> oh
+[2015/12/30 15:06:17] <polyphagia> looks like you got a tester
+[2015/12/30 15:06:20] <Tobbi> mt: No, it just won't display the run sprites then.
+[2015/12/30 15:06:21] <polyphagia> i'll test it too though
+[2015/12/30 15:06:36] <Tobbi> big / flowerbonus uses different sprites.
+[2015/12/30 15:06:45] <mt> I did test this
+[2015/12/30 15:06:52] <polyphagia> kk
+[2015/12/30 15:06:53] <mt> Unless it's an issue with a previous commit
+[2015/12/30 15:08:07] <mt> It looks like you're in ghost mode when you run and the jump onto another platform
+[2015/12/30 15:08:58] <polyphagia> i think we need a little bit of a slower music track
+[2015/12/30 15:09:03] <polyphagia> for chipdisko levels
+[2015/12/30 15:09:38] <polyphagia> i think opengameart has quite a bit of selection
+[2015/12/30 15:10:32] <brmbrmcar> Chipdisko is quite slow.
+[2015/12/30 15:10:38] <brmbrmcar> But OK.
+[2015/12/30 15:11:13] <Tobbi> Okay...
+[2015/12/30 15:11:17] <Tobbi> Can anyone else fix it.
+[2015/12/30 15:11:18] <Tobbi> =
+[2015/12/30 15:11:24] <Tobbi> I'm trying to fix the bomb issue.
+[2015/12/30 15:11:31] <polyphagia> well idunno brmbrmcar i'm trying to compare it to the sort of music in the levels of smb
+[2015/12/30 15:11:33] <polyphagia> or smb3
+[2015/12/30 15:11:39] <polyphagia> i'll check it out
+[2015/12/30 15:12:56] <polyphagia> also brmbrmcar maybe something with a little more of an arctic feel
+[2015/12/30 15:13:01] <brmbrmcar> Yes.
+[2015/12/30 15:13:27] <brmbrmcar> Out of some players chipdisko does sound slower than in-game.
+[2015/12/30 15:13:59] <polyphagia> it depends on the level
+[2015/12/30 15:14:05] <polyphagia> i think it would fit some levels
+[2015/12/30 15:14:20] <polyphagia> especially some of the more difficult ones
+[2015/12/30 15:14:42] <brmbrmcar> Any link?
