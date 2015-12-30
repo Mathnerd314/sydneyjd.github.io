@@ -34637,3 +34637,17 @@
 [2015/12/30 15:14:05] <polyphagia> i think it would fit some levels
 [2015/12/30 15:14:20] <polyphagia> especially some of the more difficult ones
 [2015/12/30 15:14:42] <brmbrmcar> Any link?
+[2015/12/30 15:15:16] <polyphagia> nah i'm still looking
+[2015/12/30 15:15:27] <polyphagia> i think if i find something i'll post a github issue
+[2015/12/30 15:15:43] <Tobbi> Oh, there was a problem with that previous commit of mine.
+[2015/12/30 15:15:46] <brmbrmcar> OK.
+[2015/12/30 15:16:00] <brmbrmcar> Uh oh!
+[2015/12/30 15:16:03] @ brmbrmcar left channel #supertux ()
+[2015/12/30 15:17:26] <polyphagia> wow
+[2015/12/30 15:17:49] @ Wuzzy joined channel #supertux
+[2015/12/30 15:19:12] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vEx7o
+[2015/12/30 15:19:14] <Not-e81f> [02supertux] 07Tobias Markus 0338511e0 - Fix #917 on the old bug tracker
+[2015/12/30 15:19:15] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99494654
+[2015/12/30 15:19:17] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/222
+[2015/12/30 15:20:32] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99494654
+[2015/12/30 15:20:35] <Tobbi> woo...
