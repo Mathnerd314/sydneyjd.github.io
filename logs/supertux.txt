@@ -34378,3 +34378,8 @@
 [2015/12/30 13:11:28] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/30 13:22:14] @ brmbrmcar joined channel #supertux
 [2015/12/30 13:29:14] @ leyyin joined channel #supertux
+[2015/12/30 13:30:34] <mt> do we want a Latin translation? someone requested it on Transifex :D
+[2015/12/30 13:31:16] <Not-e81f> [02supertux] 07virtualtam starred 03supertux - 13http://git.io/vExsf
+[2015/12/30 13:32:31] <brmbrmcar> Fine.
+[2015/12/30 13:32:59] <leyyin> mt, alienum
+[2015/12/30 13:35:05] @ brmbrmcar left channel #supertux ()
