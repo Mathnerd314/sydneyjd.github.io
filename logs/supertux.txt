@@ -34395,3 +34395,61 @@
 [2015/12/30 13:59:22] <Tobbi> or *est non mauris
 [2015/12/30 13:59:25] <Tobbi> I will accept.
 [2015/12/30 13:59:29] <Tobbi> The language request.
+[2015/12/30 14:01:59] <Tobbi> I even added AlisaP to it.
+[2015/12/30 14:02:35] <Tobbi> We'll see how it turns out.
+[2015/12/30 14:09:14] <polyphagia> hey Tobbi
+[2015/12/30 14:09:21] <Tobbi> Hey, polyphagia
+[2015/12/30 14:09:28] <Tobbi> If you speak latin I will add you to the group :P
+[2015/12/30 14:09:38] <polyphagia> haha no just saying hi
+[2015/12/30 14:09:47] <mt> We could make a rule: any language that's not at 50% translated after 3 months will be deleted
+[2015/12/30 14:09:53] <polyphagia> unless you're speaking generally in which case sorry :P
+[2015/12/30 14:10:03] <polyphagia> what's going on with the font though?
+[2015/12/30 14:10:12] <polyphagia> do we have enough characters for all these languages? how is that handled?
+[2015/12/30 14:10:16] <Tobbi> mt: I believe we should just keep it. Don't waste translator's work.
+[2015/12/30 14:10:28] <Tobbi> polyphagia: That is something I honestly don't know. giby should know.
+[2015/12/30 14:10:29] @ tux|dude joined channel #supertux
+[2015/12/30 14:10:30] <polyphagia> there were some unclosed issues about german characters
+[2015/12/30 14:10:43] <mt> move to TTF?!
+[2015/12/30 14:10:45] <polyphagia> yeah
+[2015/12/30 14:10:46] <Tobbi> polyphagia: Really? Which don't display correctly?
+[2015/12/30 14:10:49] <polyphagia> i think we should
+[2015/12/30 14:10:56] <polyphagia> Tobbi: the issue is on github, one moment
+[2015/12/30 14:11:08] <polyphagia> https://github.com/SuperTux/supertux/issues/305
+[2015/12/30 14:11:29] <polyphagia> and then of course the move to ttf is linked
+[2015/12/30 14:11:32] <polyphagia> :P
+[2015/12/30 14:11:35] <Tobbi> https://github.com/SuperTux/supertux/issues/130 is also.
+[2015/12/30 14:11:50] <Tobbi> mt: All the fonts would need to be traced.
+[2015/12/30 14:11:52] <polyphagia> so yeah i agree that it should be moved, but somebody would need to manually convert the font
+[2015/12/30 14:11:56] <polyphagia> OR
+[2015/12/30 14:12:03] <polyphagia> we could find an alternative font that looks similar
+[2015/12/30 14:12:09] <polyphagia> that is under a free license
+[2015/12/30 14:12:10] <giby> Hi... polyphagia Someone proposed a latin translation few years ago, I think we said it was pointless...
+[2015/12/30 14:12:31] <polyphagia> i am not involved in anything regarding latin translations
+[2015/12/30 14:12:33] <polyphagia> lol
+[2015/12/30 14:12:46] <Tobbi> giby: Things change. Now that SuperTUx is famous, what happens if Julius Caesar wants to play SuperTux.
+[2015/12/30 14:12:52] <Tobbi> Or his holy cheese sandwich.
+[2015/12/30 14:12:53] <polyphagia> haha
+[2015/12/30 14:12:59] <Tobbi> Sorry "His Holy Cheese Sandwich".
+[2015/12/30 14:13:07] <Tobbi> Short name: Cheese-us
+[2015/12/30 14:13:18] <polyphagia> http://fonts.debian.net/
+[2015/12/30 14:13:24] <polyphagia> there might be something here that would look good
+[2015/12/30 14:13:35] <polyphagia> all of these are free
+[2015/12/30 14:13:45] <Tobbi> Hmm. there's google's font library as well.
+[2015/12/30 14:13:48] <Tobbi> also openfontlibrary.org
+[2015/12/30 14:13:51] <polyphagia> http://fonts.debian.net/samples/handmedo.ttf.jpg
+[2015/12/30 14:13:56] <polyphagia> Tobbi: https://github.com/neutraltone/awesome-stock-resources#fonts
+[2015/12/30 14:13:59] <Tobbi> Hey.
+[2015/12/30 14:14:00] <mt> polyphagia: are these German characters even listed in https://github.com/SuperTux/supertux/blob/master/data/images/engine/fonts/white-big.png
+[2015/12/30 14:14:02] <Tobbi> That's a good one.
+[2015/12/30 14:14:08] <giby> So, for coding, so far, we use a png font, Latin/cyrilic/greek were hand drawn (Some would need some improve) asian are made with a script
+[2015/12/30 14:14:18] <polyphagia> yeah Tobbi we can add the shadow
+[2015/12/30 14:14:22] <polyphagia> and it would look very similar
+[2015/12/30 14:14:33] <Tobbi> What does everyone else think?
+[2015/12/30 14:14:40] <mt> I don't actually think tracing would be a problem
+[2015/12/30 14:14:42] <polyphagia> we could really just replace all of those separate bitmap fonts with one TTF
+[2015/12/30 14:14:45] <Tobbi> Okay...
+[2015/12/30 14:14:47] <polyphagia> and we could fallback characters if need be
+[2015/12/30 14:14:51] <Tobbi> mt: Can you do it? :P
+[2015/12/30 14:14:55] <Not-e81f> [02supertux] 07LMH0013 commented on issue 03#303: Glitch/Bug in "A fork in the road". - 13http://git.io/vExzs
+[2015/12/30 14:14:57] <mt> The fonts we use have a very clean contouring
+[2015/12/30 14:15:01] <polyphagia> except for the languages that are totally different
