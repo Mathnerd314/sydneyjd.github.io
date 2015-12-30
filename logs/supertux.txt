@@ -34273,3 +34273,5 @@
 [2015/12/30 00:48:40] @ giby joined channel #supertux
 [2015/12/30 00:48:41] @ Mode +o giby by ChanServ
 [2015/12/30 00:49:44] @ Quit: ced117: Ping timeout: 265 seconds
+[2015/12/30 01:00:03] @ lumidify joined channel #supertux
+[2015/12/30 01:02:40] @ ced117 joined channel #supertux
