@@ -34453,3 +34453,110 @@
 [2015/12/30 14:14:55] <Not-e81f> [02supertux] 07LMH0013 commented on issue 03#303: Glitch/Bug in "A fork in the road". - 13http://git.io/vExzs
 [2015/12/30 14:14:57] <mt> The fonts we use have a very clean contouring
 [2015/12/30 14:15:01] <polyphagia> except for the languages that are totally different
+[2015/12/30 14:15:08] <polyphagia> we could try to find some more apt fonts
+[2015/12/30 14:15:13] <polyphagia> but i say TTF is a good idea
+[2015/12/30 14:15:30] <polyphagia> and yeah if somebody could trace the current one, it would be ideal
+[2015/12/30 14:15:32] <mt> I'd first switch to TTF and use some font, then try to trace the current ones
+[2015/12/30 14:15:37] <polyphagia> yeah
+[2015/12/30 14:15:40] <Tobbi> hmm, alright.
+[2015/12/30 14:15:48] <Tobbi> So, who's willing to give it a try.
+[2015/12/30 14:15:48] <polyphagia> i'd say switch to TTF first, find a suitable replacement font
+[2015/12/30 14:15:56] <polyphagia> and wait for somebody to trace it
+[2015/12/30 14:15:57] <Tobbi> haha, I'm getting to like this project manager role.
+[2015/12/30 14:16:01] <polyphagia> whenever it's traced we could implement it
+[2015/12/30 14:16:10] <Tobbi> "Yeah, you do this, you do that" :D
+[2015/12/30 14:16:11] <polyphagia> but we don't have to wait on it
+[2015/12/30 14:16:13] <polyphagia> ALSO
+[2015/12/30 14:16:18] <mt> we'd have to look if potrace can be used for automating the tracing task
+[2015/12/30 14:16:25] <polyphagia> if we used TTF, the traced font could include as many characters as we want. ascii or not
+[2015/12/30 14:16:41] <polyphagia> which is great
+[2015/12/30 14:16:55] <polyphagia> we could likely merge a few fonts
+[2015/12/30 14:16:55] <giby> polyphagia, I traced some of the glyph... Which german letter is missing?
+[2015/12/30 14:17:01] <polyphagia> i'm not sure giby check the github issue
+[2015/12/30 14:17:09] <Tobbi> giby: How do you trace the font, once again?
+[2015/12/30 14:17:27] <polyphagia> pretty sure you can use inkscape and export as SVG, and fontforge can import SVG
+[2015/12/30 14:17:33] <polyphagia> but maybe not
+[2015/12/30 14:17:39] <giby> Actually, I gave up in creating a TTF from those letter...
+[2015/12/30 14:17:47] <polyphagia> it's just a long and boring task lol
+[2015/12/30 14:17:52] <polyphagia> it'd be nice to automate it
+[2015/12/30 14:18:04] <Tobbi> Okay, long and boring tasks are perfect for head8debian
+[2015/12/30 14:18:07] <giby> Latin, greek and cyrillic where drawn with gimp
+[2015/12/30 14:18:28] <Tobbi> Hello, head8debian, we got a great and exciting thing for you ;)
+[2015/12/30 14:18:31] <polyphagia> but doesn't TTF support bitmap fonts anyway?
+[2015/12/30 14:18:37] <Tobbi> *laughing in an evil manner*
+[2015/12/30 14:18:40] <giby> Tobbi, the issu is I haven't found a reliable software to do such a conversion
+[2015/12/30 14:18:41] <Tobbi> Oh, I don't know.
+[2015/12/30 14:18:47] <Tobbi> giby: I tried fontforge.
+[2015/12/30 14:18:50] <Tobbi> I don't think it worked.
+[2015/12/30 14:18:55] <giby> Tobbi, I tried
+[2015/12/30 14:19:00] <polyphagia> https://fontforge.github.io/autotrace.html
+[2015/12/30 14:19:02] <polyphagia> yeah
+[2015/12/30 14:19:04] <polyphagia> we might be able to use a tracer
+[2015/12/30 14:19:07] <polyphagia> that would be excellent
+[2015/12/30 14:19:59] <polyphagia> fontforge also allows you to use it via the command line
+[2015/12/30 14:20:01] <polyphagia> and python scripting
+[2015/12/30 14:20:46] <Tobbi> hmm...
+[2015/12/30 14:20:47] <Tobbi> good.
+[2015/12/30 14:20:53] <polyphagia> either way i liked the look of that other font anyway :P
+[2015/12/30 14:20:57] <polyphagia> there are probably tons available
+[2015/12/30 14:21:00] <polyphagia> but up to you guy
+[2015/12/30 14:21:02] <polyphagia> s*
+[2015/12/30 14:21:09] <mt> https://ptpb.pw/paiG.svg
+[2015/12/30 14:21:45] <Tobbi> That was quick.
+[2015/12/30 14:21:48] <Tobbi> :D
+[2015/12/30 14:21:53] <polyphagia> i don't think it's converted as proper arcs though
+[2015/12/30 14:21:58] <mt> that is white-big.png, converted to pnm using imagemagick convert, traced using potrace with the svg background
+[2015/12/30 14:22:04] <polyphagia> let me try to open it with inkscape
+[2015/12/30 14:22:08] <mt> s/ground/end/
+[2015/12/30 14:22:08] <red_bot> mt meant: "that is white-big.png, converted to pnm using imagemagick convert, traced using potrace with the svg backend"
+[2015/12/30 14:22:30] <polyphagia> yeah it's basically just a bitmap on an svg lol
+[2015/12/30 14:22:33] <polyphagia> it's not traced
+[2015/12/30 14:22:43] <polyphagia> wait
+[2015/12/30 14:22:51] <polyphagia> it is
+[2015/12/30 14:23:01] <polyphagia> i wonder if fontforge could use this?
+[2015/12/30 14:23:05] <Hume2> What about implementing all Unicode characters? It would be easy, wouldn't it?
+[2015/12/30 14:23:10] <polyphagia> like 0 for instance is just 3 points
+[2015/12/30 14:23:20] <polyphagia> i think you did do it mt :P sorry
+[2015/12/30 14:23:27] <polyphagia> well
+[2015/12/30 14:23:35] <mt> potrace did it for me
+[2015/12/30 14:23:38] <polyphagia> i think it will automatically fallback Hume2
+[2015/12/30 14:23:45] <polyphagia> yeah mt that's exactly what we needed
+[2015/12/30 14:23:50] <polyphagia> but yeah
+[2015/12/30 14:23:56] <polyphagia> with a TTF you can add unicode as well
+[2015/12/30 14:24:00] @ claymore2 joined channel #supertux
+[2015/12/30 14:24:05] <mt> mhm
+[2015/12/30 14:24:22] <mt> the hardest part will still be implementing sdl2_ttf
+[2015/12/30 14:25:28] <polyphagia> mt: https://www.npmjs.com/package/svgttf
+[2015/12/30 14:25:42] <polyphagia> i can try this :P
+[2015/12/30 14:25:48] <polyphagia> mt: is it?
+[2015/12/30 14:25:56] <polyphagia> is the same routine not used for drawing text?
+[2015/12/30 14:26:07] <mt> I don't know
+[2015/12/30 14:26:09] <polyphagia> sorry i'm not familiar with the codebase
+[2015/12/30 14:26:13] <polyphagia> i don't think it should be too difficult though
+[2015/12/30 14:26:15] <mt> we'd have to look into that
+[2015/12/30 14:26:18] <polyphagia> i imagine the method to draw text is only defined once
+[2015/12/30 14:26:24] <polyphagia> and it can be replaced with a single call to SDL_DrawText
+[2015/12/30 14:26:29] <polyphagia> along with some loading for the TTFs
+[2015/12/30 14:26:31] <mt> polyphagia: well, try it with svgttf
+[2015/12/30 14:26:39] <polyphagia> yeah i will see if i can convert it first of all
+[2015/12/30 14:26:47] <polyphagia> if so then i think it's absolutely worth doing
+[2015/12/30 14:26:50] <giby> Hume2, it isn't the unicode issue
+[2015/12/30 14:27:08] <polyphagia> it will really shave off some code and shrink down some assets
+[2015/12/30 14:27:09] <giby> We'd like to keep the supertux font....
+[2015/12/30 14:27:14] <polyphagia> also would allow the font to be packaged separately in debian
+[2015/12/30 14:27:23] <polyphagia> of course giby we're converting it right now :P
+[2015/12/30 14:27:34] <mt> and whilst we're at it we can also get rid of Andale Mono
+[2015/12/30 14:27:36] <polyphagia> trying to
+[2015/12/30 14:27:48] <polyphagia> use the system mono font mt ?
+[2015/12/30 14:27:50] <mt> because I think it's still unclear what licensing says about that
+[2015/12/30 14:27:52] <polyphagia> or a different one
+[2015/12/30 14:28:03] <polyphagia> actually
+[2015/12/30 14:28:10] <mt> just use a free one or one shipped with the OS
+[2015/12/30 14:28:40] <polyphagia> yeah
+[2015/12/30 14:29:01] <polyphagia> the ttf font will also be good in that we can scale it
+[2015/12/30 14:29:05] <polyphagia> with high DPI that's important
+[2015/12/30 14:29:21] <Tobbi> Doesn't atom use one with proper licensing?
+[2015/12/30 14:29:25] <polyphagia> it'd be hard to read the text playing it on an HD TV from your couch
+[2015/12/30 14:29:31] <polyphagia> but with a TTF we can scale it up
+[2015/12/30 14:29:51] <Tobbi> http://programmingfonts.org/list ?
+[2015/12/30 14:29:55] <mt> Tobbi: there's tons of monospaced fonts we could ship with supertux
