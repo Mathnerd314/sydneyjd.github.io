@@ -34341,3 +34341,5 @@
 [2015/12/30 07:44:58] @ Karkus joined channel #supertux
 [2015/12/30 07:44:59] @ Mode +o Karkus by ChanServ
 [2015/12/30 08:11:46] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/30 08:37:27] @ Tobbi joined channel #supertux
+[2015/12/30 08:37:28] @ Mode +o Tobbi by ChanServ
