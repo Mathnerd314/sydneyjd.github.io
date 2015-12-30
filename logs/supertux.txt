@@ -34603,3 +34603,6 @@
 [2015/12/30 14:40:05] <polyphagia> i didn't check yet though
 [2015/12/30 14:40:15] <polyphagia> i just replaced the walk sprite definition
 [2015/12/30 14:40:17] <polyphagia> to test it
+[2015/12/30 14:53:17] @ brmbrmcar joined channel #supertux
+[2015/12/30 14:59:35] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+15/-0/±2] 13http://git.io/vExDz
+[2015/12/30 14:59:37] <Not-e81f> [02supertux] 07Tobias Markus 03b3ddc4c - Implement tux running sprites (hopefully the right way), ref. issue #253
