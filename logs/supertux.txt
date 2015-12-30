@@ -34340,3 +34340,4 @@
 [2015/12/30 07:35:12] @ brmbrmcar left channel #supertux ()
 [2015/12/30 07:44:58] @ Karkus joined channel #supertux
 [2015/12/30 07:44:59] @ Mode +o Karkus by ChanServ
+[2015/12/30 08:11:46] @ Quit: Tobbi: Remote host closed the connection
