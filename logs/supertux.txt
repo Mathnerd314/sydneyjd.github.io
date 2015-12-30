@@ -34354,3 +34354,4 @@
 [2015/12/30 10:19:52] @ Mode +o red_bot by ChanServ
 [2015/12/30 10:26:37] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/30 10:28:03] <Not-e81f> [02supertux] 07avdbg starred 03supertux - 13http://git.io/vEAm9
+[2015/12/30 10:31:18] @ Quit: Karkus: Remote host closed the connection
