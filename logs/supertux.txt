@@ -34383,3 +34383,15 @@
 [2015/12/30 13:32:31] <brmbrmcar> Fine.
 [2015/12/30 13:32:59] <leyyin> mt, alienum
 [2015/12/30 13:35:05] @ brmbrmcar left channel #supertux ()
+[2015/12/30 13:49:58] @ Tobbi joined channel #supertux
+[2015/12/30 13:49:59] @ Mode +o Tobbi by ChanServ
+[2015/12/30 13:51:57] <Tobbi> latin...you guys serious?
+[2015/12/30 13:52:42] <Tobbi> Someone just requested "Latin" for SuperTux.
+[2015/12/30 13:52:44] <Tobbi> :D
+[2015/12/30 13:53:03] <Tobbi> Do we accept?
+[2015/12/30 13:53:56] <Tobbi> mt: ^^
+[2015/12/30 13:57:36] <Tobbi> oh, I see it was discussed earlier :D
+[2015/12/30 13:58:18] <Tobbi> leyyin: Linguam Latinam non mauris est.
+[2015/12/30 13:59:22] <Tobbi> or *est non mauris
+[2015/12/30 13:59:25] <Tobbi> I will accept.
+[2015/12/30 13:59:29] <Tobbi> The language request.
