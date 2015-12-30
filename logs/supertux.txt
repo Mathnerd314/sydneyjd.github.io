@@ -34258,3 +34258,6 @@
 [2015/12/29 22:23:46] <mark_otaris> Tobbi: Releasing a new version?
 [2015/12/29 22:23:57] <Tobbi> mark_otaris: Okay, true :P
 [2015/12/29 22:25:34] @ bb010g joined channel #supertux
+[2015/12/29 22:49:38] <Not-e81f> [02supertux] 07misterhat commented on issue 03#253: Integrate sprites from reTux - 13http://git.io/vEFPA
+[2015/12/29 22:50:01] <polyphagia> there's all of the new run sprites :P
+[2015/12/29 22:52:48] <Not-e81f> [02supertux] 07MCMic commented on issue 03#201: Backflipping to a bonus block hides Tux behind it - 13http://git.io/vEFXG
