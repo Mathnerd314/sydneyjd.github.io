@@ -34693,3 +34693,5 @@
 [2015/12/30 15:53:01] <Not-e81f> [02supertux] 07tobbi reopened issue 03#120: Explosion sprites locked to 90 degree intervals - 13http://git.io/vGsa7
 [2015/12/30 15:54:40] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/223
 [2015/12/30 15:59:01] @ brmbrmcar left channel #supertux ()
+[2015/12/30 16:02:25] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99497408
+[2015/12/30 16:12:35] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/224
