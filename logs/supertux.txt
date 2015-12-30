@@ -34763,3 +34763,45 @@
 [2015/12/30 17:25:00] @ mt joined channel #supertux
 [2015/12/30 17:25:00] @ Mode +o mt by ChanServ
 [2015/12/30 17:29:57] @ swift110 joined channel #supertux
+[2015/12/30 17:30:54] @ Quit: swift110: Changing host
+[2015/12/30 17:30:54] @ swift110 joined channel #supertux
+[2015/12/30 17:31:23] <Karkus> Tobbi: There's certainly something not quite right...
+[2015/12/30 17:31:34] <Tobbi> Yup, just noticed it as well.
+[2015/12/30 17:32:33] <polyphagia> hey Karkus !
+[2015/12/30 17:32:37] <polyphagia> thanks for your contributions
+[2015/12/30 17:32:49] <polyphagia> you too Tobbi if i didn't thank you earlier
+[2015/12/30 17:33:14] <Karkus> polyphagia: Hello :D
+[2015/12/30 17:33:20] <Tobbi> polyphagia: You're welcome. :) By the way: You know python don't you? You can really help us with the editor as well...
+[2015/12/30 17:33:31] <polyphagia> yeah i'm just finishing up my porting scripts
+[2015/12/30 17:33:36] <polyphagia> i'd like to
+[2015/12/30 17:33:51] <Karkus> polyphagia: That's what I'm working on. Are you on GitHub?
+[2015/12/30 17:33:56] <polyphagia> yup, misterhat
+[2015/12/30 17:34:13] <polyphagia> Karkus: i've just been making something for fun right now, porting smb levels to supertux :P
+[2015/12/30 17:34:19] <polyphagia> https://u.teknik.io/wb9ZWk.mp4
+[2015/12/30 17:34:30] <Karkus> An mp4 file?
+[2015/12/30 17:34:32] <polyphagia> i've got the background, enemy, powerups, etc. just based on two images
+[2015/12/30 17:34:35] <polyphagia> i can send you the stl :P
+[2015/12/30 17:34:35] <Karkus> Ah, just kidding
+[2015/12/30 17:34:39] <polyphagia> it's just a screen captrue
+[2015/12/30 17:34:41] <polyphagia> capture*
+[2015/12/30 17:34:53] <polyphagia> still a WIP, i wrote two programs to do it and one of them is on github
+[2015/12/30 17:35:12] <polyphagia> https://github.com/misterhat/tyler
+[2015/12/30 17:35:48] <Tobbi> But if we have 3 people working on the editor :D That's more than the whole of SuperTux has EVER seen :D
+[2015/12/30 17:36:06] <Karkus> Tobbi: 4, if you include yourself.
+[2015/12/30 17:36:21] <Tobbi> Karkus: Me, you, polyphagia, who else? Hume?
+[2015/12/30 17:36:22] <Karkus> I guess leyyin doesn't count :P
+[2015/12/30 17:36:28] <Karkus> Tobbi: mt
+[2015/12/30 17:36:33] <Tobbi> oh, yes.
+[2015/12/30 17:36:57] <Karkus> Tobbi: Well, he made a few commits. (security fixes)
+[2015/12/30 17:37:57] <Tobbi> right
+[2015/12/30 17:39:14] <Tobbi> Also, leyyin NEVER counts :P
+[2015/12/30 17:42:54] <Karkus> Tobbi: :P Of course not. I think it's while running that the sprite looks wrong. Walking is okay
+[2015/12/30 17:43:04] <Tobbi> Hmm...
+[2015/12/30 17:43:15] <Tobbi> Karkus: It might not be looping correctly.
+[2015/12/30 17:43:34] <Karkus> Tobbi: Tux seems to get fatter and thinner
+[2015/12/30 17:44:02] <polyphagia> i think the first few frames are only supposed to be when he begins running?
+[2015/12/30 17:44:29] <polyphagia> then it's only supposed to loop the 4-14 or something
+[2015/12/30 17:44:39] <Tobbi> Ah...
+[2015/12/30 17:44:42] <Tobbi> okay...
+[2015/12/30 17:44:46] <polyphagia> i'm just speculating
+[2015/12/30 17:44:47] <Tobbi> hrm, that's difficult.
