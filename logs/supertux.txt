@@ -34310,3 +34310,8 @@
 [2015/12/30 05:02:54] @ Mode +o giby by ChanServ
 [2015/12/30 05:18:53] @ Quit: giby: Read error: Connection reset by peer
 [2015/12/30 05:33:45] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#313: Frozen then thawed dispensers cannot be frozen again - 13http://git.io/vEbxo
+[2015/12/30 06:01:06] @ Karkus joined channel #supertux
+[2015/12/30 06:01:06] @ Mode +o Karkus by ChanServ
+[2015/12/30 06:01:53] @ giby joined channel #supertux
+[2015/12/30 06:01:55] @ Mode +o giby by ChanServ
+[2015/12/30 06:11:53] @ lumidify joined channel #supertux
