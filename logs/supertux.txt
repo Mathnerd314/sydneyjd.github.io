@@ -34210,3 +34210,10 @@
 [2015/12/29 18:15:10] @ Mode +o Tobbi by ChanServ
 [2015/12/29 18:19:44] @ Quit: kneekoo: Read error: Connection reset by peer
 [2015/12/29 19:33:55] @ Quit: jesusalva: Ping timeout: 240 seconds
+[2015/12/29 20:03:37] @ Quit: swift110: Remote host closed the connection
+[2015/12/29 20:07:23] @ swift110 joined channel #supertux
+[2015/12/29 20:08:08] @ Quit: swift110: Changing host
+[2015/12/29 20:08:08] @ swift110 joined channel #supertux
+[2015/12/29 20:09:45] <polyphagia> is there an invisible 1 up block?
+[2015/12/29 20:13:20] @ Quit: giby_the_kid: Ping timeout: 272 seconds
+[2015/12/29 20:13:53] <Tobbi> polyphagia: I don't think so...
