@@ -34825,3 +34825,5 @@
 [2015/12/30 17:50:01] @ Quit: mt: Quit: ZNC 1.7.x-git-483-69b031c - http://znc.in
 [2015/12/30 17:50:26] @ mt joined channel #supertux
 [2015/12/30 17:50:26] @ Mode +o mt by ChanServ
+[2015/12/30 18:03:45] @ Quit: leyyin_: Quit: So Long, and Thanks for All the Fish
+[2015/12/30 18:11:44] @ Quit: Tobbi: Remote host closed the connection
