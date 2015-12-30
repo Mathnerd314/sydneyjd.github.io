@@ -34232,3 +34232,10 @@
 [2015/12/29 20:32:21] @ swift110 joined channel #supertux
 [2015/12/29 20:42:54] @ Quit: swift110: Ping timeout: 260 seconds
 [2015/12/29 20:43:30] @ swift110 joined channel #supertux
+[2015/12/29 20:58:06] <head8debian> Good evening all.
+[2015/12/29 20:59:02] <head8debian> Hello mark_otaris and Mr_Bones_. Welcome to the channel. :-)
+[2015/12/29 20:59:10] <mark_otaris> Hi.
+[2015/12/29 20:59:15] <Mr_Bones_> howdy
+[2015/12/29 20:59:41] <polyphagia> hi friends
+[2015/12/29 20:59:55] <head8debian> 'Evenin polyphagia.
+[2015/12/29 20:59:59] <polyphagia> head8debian: did you see the demo i made?
