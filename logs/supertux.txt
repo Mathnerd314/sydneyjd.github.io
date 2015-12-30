@@ -34839,3 +34839,4 @@
 [2015/12/30 18:18:34] @ Tobbi joined channel #supertux
 [2015/12/30 18:18:34] @ Mode +o Tobbi by ChanServ
 [2015/12/30 18:28:56] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/99520764
+[2015/12/30 18:30:24] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/226
