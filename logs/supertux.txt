@@ -34355,3 +34355,5 @@
 [2015/12/30 10:26:37] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/30 10:28:03] <Not-e81f> [02supertux] 07avdbg starred 03supertux - 13http://git.io/vEAm9
 [2015/12/30 10:31:18] @ Quit: Karkus: Remote host closed the connection
+[2015/12/30 10:47:02] @ Tobbi joined channel #supertux
+[2015/12/30 10:47:02] @ Mode +o Tobbi by ChanServ
