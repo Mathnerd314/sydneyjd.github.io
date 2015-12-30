@@ -34710,3 +34710,10 @@
 [2015/12/30 16:27:38] <Tobbi> OpenAL stuff.
 [2015/12/30 16:27:49] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/99497316
 [2015/12/30 16:28:38] @ Quit: claymore2: Quit: Leaving
+[2015/12/30 16:30:27] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/225
+[2015/12/30 16:34:19] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/99497408
+[2015/12/30 16:38:36] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2015/12/30 16:41:40] <polyphagia> alright, i used a level map to convert enemy and powerup positions as well
+[2015/12/30 16:41:42] <polyphagia> https://u.teknik.io/wb9ZWk.mp4
+[2015/12/30 16:41:44] <polyphagia> :D
+[2015/12/30 16:44:44] <Tobbi> polyphagia: How do you find out which powerup item it is just by checking the image?
