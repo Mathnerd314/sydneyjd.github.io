@@ -34266,3 +34266,4 @@
 [2015/12/29 23:00:35] <polyphagia> the extra frames really look nice
 [2015/12/29 23:00:47] <polyphagia> i hope it can be modified for the larger tux
 [2015/12/29 23:04:48] @ Quit: irungentoo: Remote host closed the connection
+[2015/12/29 23:22:28] @ Quit: Tobbi: Remote host closed the connection
