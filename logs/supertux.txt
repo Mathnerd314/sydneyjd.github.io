@@ -34805,3 +34805,23 @@
 [2015/12/30 17:44:42] <Tobbi> okay...
 [2015/12/30 17:44:46] <polyphagia> i'm just speculating
 [2015/12/30 17:44:47] <Tobbi> hrm, that's difficult.
+[2015/12/30 17:45:16] <polyphagia> we might be able to remove the first few where tux "warms" up
+[2015/12/30 17:45:18] <polyphagia> dunno
+[2015/12/30 17:46:30] <polyphagia> but that's how smb3 is i believe Tobbi :P
+[2015/12/30 17:46:45] <Tobbi> smb3?
+[2015/12/30 17:46:53] <polyphagia> your sprite starts out with a slower animation and gets faster, eventually your arms outstretch at full speed
+[2015/12/30 17:46:55] <polyphagia> super mario bros 3
+[2015/12/30 17:46:59] <Tobbi> ah
+[2015/12/30 17:47:05] <Tobbi> I never played super mario.
+[2015/12/30 17:47:05] <Tobbi> :D
+[2015/12/30 17:47:14] <polyphagia> would you play my translated maps?
+[2015/12/30 17:47:20] <Tobbi> possibly.
+[2015/12/30 17:47:23] <polyphagia> :)
+[2015/12/30 17:47:35] <Tobbi> polyphagia: But notice that the first level has already been ported :D
+[2015/12/30 17:47:51] <Tobbi> It's part of the forest world, somewhat and part of octo's levels.
+[2015/12/30 17:48:04] <polyphagia> yeah i think i ran into it
+[2015/12/30 17:48:17] <polyphagia> it was cute :P
+[2015/12/30 17:48:19] <polyphagia> to see it
+[2015/12/30 17:50:01] @ Quit: mt: Quit: ZNC 1.7.x-git-483-69b031c - http://znc.in
+[2015/12/30 17:50:26] @ mt joined channel #supertux
+[2015/12/30 17:50:26] @ Mode +o mt by ChanServ
