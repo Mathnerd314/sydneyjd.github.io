@@ -34305,3 +34305,4 @@
 [2015/12/30 04:18:35] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2015/12/30 04:28:39] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#307: Crash while holding Mr. IceBlock in edit mode - 13http://git.io/vEbiu
 [2015/12/30 04:28:40] <Not-e81f> [02supertux] 07maxteufel reopened issue 03#307: Crash while holding Mr. IceBlock in edit mode - 13http://git.io/vE9Dh
+[2015/12/30 04:59:38] @ Quit: giby: Ping timeout: 246 seconds
