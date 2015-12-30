@@ -34737,3 +34737,8 @@
 [2015/12/30 16:50:43] <Tobbi> maths22: I am not sure if you are able to look into that. But you're certainly more capable than me in that aspect.
 [2015/12/30 16:51:06] <Tobbi> Do you have a coverity account?
 [2015/12/30 16:51:18] <Tobbi> If not, please create one and I can add you, or check the travis build log.
+[2015/12/30 17:11:03] @ leyyin_ joined channel #supertux
+[2015/12/30 17:13:22] @ Karkus joined channel #supertux
+[2015/12/30 17:13:23] @ Mode +o Karkus by ChanServ
+[2015/12/30 17:14:35] @ Quit: mt: Ping timeout: 240 seconds
+[2015/12/30 17:14:42] @ Quit: leyyin: Ping timeout: 256 seconds
