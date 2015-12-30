@@ -34344,3 +34344,13 @@
 [2015/12/30 08:37:27] @ Tobbi joined channel #supertux
 [2015/12/30 08:37:28] @ Mode +o Tobbi by ChanServ
 [2015/12/30 08:46:56] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/30 09:38:01] @ quit (bbl, Sorry for the inconvenience...)
+[2015/12/30 09:38:02] @ Log closed by * (rescan or shutdown)
+[2015/12/30 10:19:39] @ Log started by red_bot
+[2015/12/30 10:19:39] @ Joined channel #supertux
+[2015/12/30 10:19:39] @ Topic is "IRC meeting Jan 9, 15:00 GMT | https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2015/12/30 10:19:39] @ Topic set by mt!~mteufel@unaffiliated/supermat on 2015-12-25 13:52:02 -0500
+[2015/12/30 10:19:43] @ Mode +nt by asimov.freenode.net
+[2015/12/30 10:19:52] @ Mode +o red_bot by ChanServ
+[2015/12/30 10:26:37] @ Quit: Tobbi: Remote host closed the connection
+[2015/12/30 10:28:03] <Not-e81f> [02supertux] 07avdbg starred 03supertux - 13http://git.io/vEAm9
