@@ -34905,3 +34905,9 @@
 [2015/12/31 07:38:19] @ mt- joined channel #supertux
 [2015/12/31 07:38:20] @ Mode +o mt- by ChanServ
 [2015/12/31 07:38:22] @ Quit: mt-: Remote host closed the connection
+[2015/12/31 07:56:57] @ Karkus joined channel #supertux
+[2015/12/31 07:56:57] @ Mode +o Karkus by ChanServ
+[2015/12/31 07:56:58] @ Quit: Karkus: Remote host closed the connection
+[2015/12/31 07:58:34] @ Karkus joined channel #supertux
+[2015/12/31 07:58:34] @ Mode +o Karkus by ChanServ
+[2015/12/31 07:58:36] @ Quit: Karkus: Remote host closed the connection
