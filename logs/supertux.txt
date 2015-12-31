@@ -35128,3 +35128,4 @@
 [2015/12/31 18:15:32] @ swift110 joined channel #supertux
 [2015/12/31 18:18:19] @ Quit: swift110: Changing host
 [2015/12/31 18:18:19] @ swift110 joined channel #supertux
+[2015/12/31 18:40:28] @ tux|dude joined channel #supertux
