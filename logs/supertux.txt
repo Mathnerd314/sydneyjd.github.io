@@ -34842,3 +34842,4 @@
 [2015/12/30 18:30:24] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/226
 [2015/12/30 19:41:41] <tomreyn> this bot script is nice, is it open source?
 [2015/12/30 19:42:00] <tomreyn> oh its notifico
+[2015/12/30 20:19:28] @ stewboy joined channel #supertux
