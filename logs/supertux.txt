@@ -35111,3 +35111,5 @@
 [2015/12/31 15:22:26] @ Quit: mteufel: Client Quit
 [2015/12/31 15:23:15] @ mteufel joined channel #supertux
 [2015/12/31 15:23:16] @ Mode +o mteufel by ChanServ
+[2015/12/31 15:31:23] @ lumidify joined channel #supertux
+[2015/12/31 15:39:38] @ Quit: lumidify: Quit: Leaving
