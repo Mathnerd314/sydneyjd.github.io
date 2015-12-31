@@ -34861,3 +34861,11 @@
 [2015/12/30 21:48:10] @ Quit: Karkus: Quit: Division By Zero
 [2015/12/30 21:59:41] <head8debian> Tobbi: 'Evenin.
 [2015/12/30 21:59:49] <Tobbi> hello head8debian
+[2015/12/30 22:00:18] <head8debian> Tobbi: ows it going?
+[2015/12/30 22:00:22] <head8debian> H*
+[2015/12/30 22:00:27] <Tobbi> head8debian: It's 4am
+[2015/12/30 22:00:38] <Tobbi> And I am programming, reluctantly.
+[2015/12/30 22:02:01] <head8debian> Figures... for what?
+[2015/12/30 22:04:49] <Tobbi> head8debian: college...
+[2015/12/30 22:04:53] <Tobbi> I don't like it...
+[2015/12/30 22:05:21] <Tobbi> I neither like college nor the project.
