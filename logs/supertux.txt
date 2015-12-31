@@ -34892,3 +34892,4 @@
 [2015/12/31 06:03:32] @ giby_the_kid joined channel #supertux
 [2015/12/31 06:03:32] @ Mode +o giby_the_kid by ChanServ
 [2015/12/31 06:05:35] @ Quit: giby: Ping timeout: 264 seconds
+[2015/12/31 06:21:44] @ Quit: lumidify: Ping timeout: 250 seconds
