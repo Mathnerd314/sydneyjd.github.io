@@ -34885,3 +34885,6 @@
 [2015/12/31 04:38:53] @ Quit: lumidify: Ping timeout: 246 seconds
 [2015/12/31 05:05:58] @ brmbrmcar joined channel #supertux
 [2015/12/31 05:13:35] @ brmbrmcar left channel #supertux ()
+[2015/12/31 05:41:51] <mt> head8debian: I blame you for the broken 0.4.0 download links on the wiki
+[2015/12/31 05:42:09] <mt> head8debian: updating the version number in the URL is not enough
+[2015/12/31 05:42:12] <mt> head8debian: pls fix asap
