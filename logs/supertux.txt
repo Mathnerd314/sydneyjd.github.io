@@ -35088,3 +35088,6 @@
 [2015/12/31 13:27:31] @ Quit: alket: Disconnected by services
 [2015/12/31 13:27:32] @ Drangue joined channel #supertux
 [2015/12/31 13:27:54] @ Drangue is now known as alket
+[2015/12/31 13:50:47] <polyphagia> :P my generated levels were missing half of the goombas/snowballs
+[2015/12/31 13:50:51] <polyphagia> fixed it now and they're much more fun
+[2015/12/31 13:51:07] <polyphagia> anybody want to try it?
