@@ -34895,3 +34895,13 @@
 [2015/12/31 06:21:44] @ Quit: lumidify: Ping timeout: 250 seconds
 [2015/12/31 06:48:35] @ lumidify joined channel #supertux
 [2015/12/31 07:07:37] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- IRC with a difference
+[2015/12/31 07:31:01] @ mteufel joined channel #supertux
+[2015/12/31 07:31:01] @ Mode +o mteufel by ChanServ
+[2015/12/31 07:31:59] @ Quit: mt: Ping timeout: 264 seconds
+[2015/12/31 07:37:01] @ mt joined channel #supertux
+[2015/12/31 07:37:01] @ Mode +o mt by ChanServ
+[2015/12/31 07:37:27] <Not-e81f> [02supertux] 07codeyard starred 03supertux - 13http://git.io/vEjNM
+[2015/12/31 07:37:56] @ Quit: mteufel: Ping timeout: 255 seconds
+[2015/12/31 07:38:19] @ mt- joined channel #supertux
+[2015/12/31 07:38:20] @ Mode +o mt- by ChanServ
+[2015/12/31 07:38:22] @ Quit: mt-: Remote host closed the connection
