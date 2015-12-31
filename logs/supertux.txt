@@ -35098,3 +35098,10 @@
 [2015/12/31 14:29:17] <alket> lol
 [2015/12/31 14:34:34] @ brmbrmcar joined channel #supertux
 [2015/12/31 14:37:28] @ brmbrmcar left channel #supertux ()
+[2015/12/31 14:51:04] @ mteufel joined channel #supertux
+[2015/12/31 14:51:04] @ Mode +o mteufel by ChanServ
+[2015/12/31 14:51:10] @ lumidify joined channel #supertux
+[2015/12/31 14:51:52] @ mt is now known as Guest18635
+[2015/12/31 14:51:53] @ Quit: Guest18635: Killed (sendak.freenode.net (Nickname regained by services))
+[2015/12/31 14:51:53] @ mteufel is now known as mt
+[2015/12/31 14:59:10] @ Quit: lumidify: Ping timeout: 256 seconds
