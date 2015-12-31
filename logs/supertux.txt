@@ -34894,3 +34894,4 @@
 [2015/12/31 06:05:35] @ Quit: giby: Ping timeout: 264 seconds
 [2015/12/31 06:21:44] @ Quit: lumidify: Ping timeout: 250 seconds
 [2015/12/31 06:48:35] @ lumidify joined channel #supertux
+[2015/12/31 07:07:37] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- IRC with a difference
