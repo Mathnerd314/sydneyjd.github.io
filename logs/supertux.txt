@@ -35125,3 +35125,6 @@
 [2015/12/31 17:42:55] @ Mode +o red_bot by ChanServ
 [2015/12/31 17:46:46] @ stewboy joined channel #supertux
 [2015/12/31 17:52:58] <polyphagia> https://u.teknik.io/HDG1a8.mp4
+[2015/12/31 18:15:32] @ swift110 joined channel #supertux
+[2015/12/31 18:18:19] @ Quit: swift110: Changing host
+[2015/12/31 18:18:19] @ swift110 joined channel #supertux
