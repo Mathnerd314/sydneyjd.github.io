@@ -35105,3 +35105,9 @@
 [2015/12/31 14:51:53] @ Quit: Guest18635: Killed (sendak.freenode.net (Nickname regained by services))
 [2015/12/31 14:51:53] @ mteufel is now known as mt
 [2015/12/31 14:59:10] @ Quit: lumidify: Ping timeout: 256 seconds
+[2015/12/31 15:17:35] @ Quit: mt: Ping timeout: 260 seconds
+[2015/12/31 15:20:04] @ mteufel joined channel #supertux
+[2015/12/31 15:20:05] @ Mode +o mteufel by ChanServ
+[2015/12/31 15:22:26] @ Quit: mteufel: Client Quit
+[2015/12/31 15:23:15] @ mteufel joined channel #supertux
+[2015/12/31 15:23:16] @ Mode +o mteufel by ChanServ
