@@ -34953,3 +34953,11 @@
 [2015/12/31 08:28:34] <mt> Not strictly, SemVer says anything below 1.0.0 is considered a development release
 [2015/12/31 08:29:34] <mt> however, patch version is only to be incremented for releases with just "backwards-compatible bug fixes"
 [2015/12/31 08:32:32] <mt> Explanation for mode change: +C = no CTCPs but CTCP ACTION to the entire channel, +p = don't allow KNOCK, +j 5:10 = join throttling: 5 joins in 10 seconds (prevents join floods)
+[2015/12/31 08:45:19] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#278: Added tiles for the new worlds - 13http://git.io/vuetQ
+[2015/12/31 08:51:31] <Karkus> mt: That's a good point, actually.
+[2015/12/31 08:51:55] <Hume2> I agree with that.
+[2015/12/31 08:52:02] <Karkus> mt: Although: Should we be mixing tilesets?
+[2015/12/31 08:53:56] <mt> Maybe in areas where worlds end/begin
+[2015/12/31 08:54:16] <mt> Also if we want one big worldmap we'll have to do that at least for worldmap tiles
+[2015/12/31 08:59:05] @ Tobbi joined channel #supertux
+[2015/12/31 08:59:06] @ Mode +o Tobbi by ChanServ
