@@ -34851,3 +34851,9 @@
 [2015/12/30 20:53:15] @ Mode +o grumbel by ChanServ
 [2015/12/30 20:58:35] @ tux|dude joined channel #supertux
 [2015/12/30 20:59:09] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#311: Check Translating of Messages in Climbable Objects - 13http://git.io/vEhUg
+[2015/12/30 21:07:07] <Not-e81f> [02supertux] 07Karkus476 opened issue 03#316: Burning Should Be a Particle Effect - 13http://git.io/vEhTQ
+[2015/12/30 21:07:08] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#316: Burning Should Be a Particle Effect - 13http://git.io/vEhTQ
+[2015/12/30 21:07:10] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#316: Burning Should Be a Particle Effect - 13http://git.io/vEhTQ
+[2015/12/30 21:07:11] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#316: Burning Should Be a Particle Effect - 13http://git.io/vEhTQ
+[2015/12/30 21:07:13] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#316: Burning Should Be a Particle Effect - 13http://git.io/vEhTQ
+[2015/12/30 21:07:14] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#316: Burning Should Be a Particle Effect - 13http://git.io/vEhTQ
