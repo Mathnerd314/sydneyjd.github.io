@@ -35113,3 +35113,8 @@
 [2015/12/31 15:23:16] @ Mode +o mteufel by ChanServ
 [2015/12/31 15:31:23] @ lumidify joined channel #supertux
 [2015/12/31 15:39:38] @ Quit: lumidify: Quit: Leaving
+[2015/12/31 16:00:30] @ Quit: alket: Quit: Good Night :)
+[2015/12/31 16:00:44] @ alket joined channel #supertux
+[2015/12/31 16:04:39] @ Drangue joined channel #supertux
+[2015/12/31 16:04:39] @ Quit: alket: Disconnected by services
+[2015/12/31 16:04:44] @ Drangue is now known as alket
