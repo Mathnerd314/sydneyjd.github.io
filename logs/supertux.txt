@@ -34846,3 +34846,8 @@
 [2015/12/30 20:38:23] @ Quit: swift110: Ping timeout: 260 seconds
 [2015/12/30 20:41:27] @ Quit: tux|dude: Quit: Leaving
 [2015/12/30 20:41:57] @ Quit: Wuzzy: Quit: Wuzzy
+[2015/12/30 20:50:19] <Not-e81f> [02supertux] 07n3rdopolis opened issue 03#315: Sleeping Mr Spikey's need thier own melting sprite - 13http://git.io/vEhJt
+[2015/12/30 20:53:14] @ grumbel joined channel #supertux
+[2015/12/30 20:53:15] @ Mode +o grumbel by ChanServ
+[2015/12/30 20:58:35] @ tux|dude joined channel #supertux
+[2015/12/30 20:59:09] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#311: Check Translating of Messages in Climbable Objects - 13http://git.io/vEhUg
