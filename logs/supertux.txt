@@ -35063,3 +35063,8 @@
 [2015/12/31 11:29:45] <Tobbi> Karkus: It doesn't. I made it up.
 [2015/12/31 11:29:57] <Karkus> Tobbi: Ah
 [2015/12/31 11:29:59] <Tobbi> (and checked that it doesn't exist, of course)
+[2015/12/31 11:30:14] <Not-e81f> [02supertux] 07onpon4 commented on issue 03#253: Integrate sprites from reTux - 13http://git.io/vueQJ
+[2015/12/31 11:30:32] <Tobbi> Smart me, I know.
+[2015/12/31 11:31:15] <Karkus> Tobbi: :D
+[2015/12/31 11:35:58] @ lumidify joined channel #supertux
+[2015/12/31 11:40:36] @ Quit: lumidify: Ping timeout: 240 seconds
