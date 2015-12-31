@@ -35077,3 +35077,8 @@
 [2015/12/31 12:12:32] @ claymore2 joined channel #supertux
 [2015/12/31 12:23:53] <Not-e81f> [02supertux] 07Jerzerak starred 03supertux - 13http://git.io/hh6ggg
 [2015/12/31 12:24:02] @ Quit: WolfgangB: Remote host closed the connection
+[2015/12/31 12:32:47] @ swift110 joined channel #supertux
+[2015/12/31 12:34:45] @ brmbrmcar joined channel #supertux
+[2015/12/31 12:35:15] <brmbrmcar> #magicsupertux
+[2015/12/31 12:35:24] @ brmbrmcar left channel #supertux ()
+[2015/12/31 12:36:23] @ bb010g joined channel #supertux
