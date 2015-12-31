@@ -34952,3 +34952,4 @@
 [2015/12/31 08:28:14] @ Mode +Cpj 5:10 by mt
 [2015/12/31 08:28:34] <mt> Not strictly, SemVer says anything below 1.0.0 is considered a development release
 [2015/12/31 08:29:34] <mt> however, patch version is only to be incremented for releases with just "backwards-compatible bug fixes"
+[2015/12/31 08:32:32] <mt> Explanation for mode change: +C = no CTCPs but CTCP ACTION to the entire channel, +p = don't allow KNOCK, +j 5:10 = join throttling: 5 joins in 10 seconds (prevents join floods)
