@@ -35082,3 +35082,5 @@
 [2015/12/31 12:35:15] <brmbrmcar> #magicsupertux
 [2015/12/31 12:35:24] @ brmbrmcar left channel #supertux ()
 [2015/12/31 12:36:23] @ bb010g joined channel #supertux
+[2015/12/31 13:06:37] @ Quit: swift110: Ping timeout: 276 seconds
+[2015/12/31 13:07:30] @ Quit: ced117: Ping timeout: 260 seconds
