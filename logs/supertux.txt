@@ -34931,3 +34931,24 @@
 [2015/12/31 08:14:21] <Karkus> Hume2: Okay, you can speak to him, but this is 100% the way to do it
 [2015/12/31 08:14:38] <Karkus> Hume2: What about the ice effect?
 [2015/12/31 08:14:44] <Hume2> hmmm...
+[2015/12/31 08:15:05] <Hume2> There's the blue tint by default,
+[2015/12/31 08:15:14] <Hume2> s/,/./
+[2015/12/31 08:15:14] <red_bot> Hume2 meant: "There's the blue tint by default."
+[2015/12/31 08:15:59] <Karkus> Hume2: There is, but no enemies use it.
+[2015/12/31 08:16:48] <Hume2> Karkus: I think it's here like a placeholder.
+[2015/12/31 08:17:29] <Hume2> Because it doesn't even look like freeze when the enemy is not white.
+[2015/12/31 08:19:13] <Karkus> Hume2: Is there a way we can use OpenGL to paste a transparent freeze filter over the top, then add the enemy?
+[2015/12/31 08:19:49] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#316: Burning Should Be a Particle Effect - 13http://git.io/vueUa
+[2015/12/31 08:20:00] <Hume2> Karkus: I don't know much about how to use OpenGL though.
+[2015/12/31 08:20:13] <Hume2> Well, I know a bit.
+[2015/12/31 08:20:25] <Karkus> Hume2: Same for me.
+[2015/12/31 08:22:47] <Karkus> mt, Hume2: Opinions on https://github.com/SuperTux/supertux/pull/314 ?
+[2015/12/31 08:24:25] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#314: Option to enter ghost mode from cheat menu - 13http://git.io/vueTE
+[2015/12/31 08:25:13] <mt> Karkus: unless we know that is really stable -> 0.5.0
+[2015/12/31 08:26:18] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#314: Option to enter ghost mode from cheat menu - 13http://git.io/vueTF
+[2015/12/31 08:26:55] <mt> but generally, we can merge this
+[2015/12/31 08:27:47] <Hume2> mt: Yes, but after 0.5.0 will be going to be released, we will say that 0.5.0 has to be stable.
+[2015/12/31 08:28:03] <Hume2> That's a paradox.
+[2015/12/31 08:28:14] @ Mode +Cpj 5:10 by mt
+[2015/12/31 08:28:34] <mt> Not strictly, SemVer says anything below 1.0.0 is considered a development release
+[2015/12/31 08:29:34] <mt> however, patch version is only to be incremented for releases with just "backwards-compatible bug fixes"
