@@ -34980,3 +34980,16 @@
 [2015/12/31 09:13:29] <mt> not really
 [2015/12/31 09:14:48] <Tobbi> ok
 [2015/12/31 09:14:56] <Tobbi> mt: At least celebrating with your family, I assume?
+[2015/12/31 09:15:20] <mt> yes
+[2015/12/31 09:16:29] <Tobbi> Nice. I'll be alone, but I'll probably try to go somewhere where people celebrate.
+[2015/12/31 09:21:59] <Tobbi> Also, Wikipedia matched their goal.
+[2015/12/31 09:23:50] <mt> OpenBSD Foundation dis as well: http://www.openbsdfoundation.org/campaign2015.html (yes, we shouldn't forget about OpenBSD)
+[2015/12/31 09:23:55] <mt> s/dis/did/
+[2015/12/31 09:23:55] <red_bot> mt meant: "OpenBSD Foundation did as well: http://www.openbsdfoundation.org/campaign2015.html (yes, we shouldn't forget about OpenBSD)"
+[2015/12/31 09:24:59] <Tobbi> Wow, 250k
+[2015/12/31 09:25:02] <Tobbi> Instead of 200k
+[2015/12/31 09:25:41] <mt> That's because Linux Foundation CII and Microsoft
+[2015/12/31 09:26:03] <Tobbi> Ah.
+[2015/12/31 09:26:07] <Tobbi> Cool.
+[2015/12/31 09:26:13] <Tobbi> Yay! Open Source! :D
+[2015/12/31 09:26:28] @ Wuzzy joined channel #supertux
