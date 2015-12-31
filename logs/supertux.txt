@@ -35071,3 +35071,7 @@
 [2015/12/31 11:47:08] <giby_the_kid> Happy new year
 [2015/12/31 11:48:43] @ Quit: Tobbi: Remote host closed the connection
 [2015/12/31 11:57:29] <polyphagia> is he a troll?
+[2015/12/31 12:01:44] <Not-e81f> [02supertux] 07misterhat commented on issue 03#253: Integrate sprites from reTux - 13http://git.io/vuepG
+[2015/12/31 12:05:54] @ lumidify joined channel #supertux
+[2015/12/31 12:06:45] @ Quit: lumidify: Client Quit
+[2015/12/31 12:12:32] @ claymore2 joined channel #supertux
