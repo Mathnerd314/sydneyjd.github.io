@@ -35015,3 +35015,4 @@
 [2015/12/31 09:59:05] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#314: Option to enter ghost mode from cheat menu - 13http://git.io/vue0E
 [2015/12/31 10:17:03] <Not-e81f> [02supertux] 07Wuzzy2 opened issue 03#317: Igloo becomes invisible when Tux is a couple of tiles below it - 13http://git.io/vuegt
 [2015/12/31 10:23:52] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#314: Option to enter ghost mode from cheat menu - 13http://git.io/vue2g
+[2015/12/31 10:39:34] @ leyyin joined channel #supertux
