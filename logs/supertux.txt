@@ -35075,3 +35075,5 @@
 [2015/12/31 12:05:54] @ lumidify joined channel #supertux
 [2015/12/31 12:06:45] @ Quit: lumidify: Client Quit
 [2015/12/31 12:12:32] @ claymore2 joined channel #supertux
+[2015/12/31 12:23:53] <Not-e81f> [02supertux] 07Jerzerak starred 03supertux - 13http://git.io/hh6ggg
+[2015/12/31 12:24:02] @ Quit: WolfgangB: Remote host closed the connection
