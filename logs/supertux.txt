@@ -34875,3 +34875,4 @@
 [2015/12/30 23:29:28] @ Quit: tux|dude: Quit: Leaving
 [2015/12/31 00:18:25] <Not-e81f> [02supertux] 07NeuroDOS starred 03supertux - 13http://git.io/vEh1b
 [2015/12/31 01:33:44] <Not-e81f> [02supertux] 07biglyan starred 03supertux - 13http://git.io/vEhbr
+[2015/12/31 01:57:25] @ lumidify joined channel #supertux
