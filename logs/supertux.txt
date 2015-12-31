@@ -34888,3 +34888,7 @@
 [2015/12/31 05:41:51] <mt> head8debian: I blame you for the broken 0.4.0 download links on the wiki
 [2015/12/31 05:42:09] <mt> head8debian: updating the version number in the URL is not enough
 [2015/12/31 05:42:12] <mt> head8debian: pls fix asap
+[2015/12/31 06:00:12] @ lumidify joined channel #supertux
+[2015/12/31 06:03:32] @ giby_the_kid joined channel #supertux
+[2015/12/31 06:03:32] @ Mode +o giby_the_kid by ChanServ
+[2015/12/31 06:05:35] @ Quit: giby: Ping timeout: 264 seconds
