@@ -35118,3 +35118,8 @@
 [2015/12/31 16:04:39] @ Drangue joined channel #supertux
 [2015/12/31 16:04:39] @ Quit: alket: Disconnected by services
 [2015/12/31 16:04:44] @ Drangue is now known as alket
+[2015/12/31 17:42:41] @ Joined channel #supertux
+[2015/12/31 17:42:41] @ Topic is "IRC meeting Jan 9, 15:00 GMT | https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2015/12/31 17:42:41] @ Topic set by mt!~mteufel@unaffiliated/supermat on 2015-12-25 13:52:03 -0500
+[2015/12/31 17:42:46] @ Mode +Cnptj 5:10 by kornbluth.freenode.net
+[2015/12/31 17:42:55] @ Mode +o red_bot by ChanServ
