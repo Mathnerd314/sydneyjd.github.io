@@ -35016,3 +35016,28 @@
 [2015/12/31 10:17:03] <Not-e81f> [02supertux] 07Wuzzy2 opened issue 03#317: Igloo becomes invisible when Tux is a couple of tiles below it - 13http://git.io/vuegt
 [2015/12/31 10:23:52] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#314: Option to enter ghost mode from cheat menu - 13http://git.io/vue2g
 [2015/12/31 10:39:34] @ leyyin joined channel #supertux
+[2015/12/31 11:01:03] <Not-e81f> [02supertux] 07tobbi labeled issue 03#317: Igloo becomes invisible when Tux is a couple of tiles below it - 13http://git.io/vuegt
+[2015/12/31 11:01:04] <Not-e81f> [02supertux] 07tobbi labeled issue 03#317: Igloo becomes invisible when Tux is a couple of tiles below it - 13http://git.io/vuegt
+[2015/12/31 11:01:06] <Not-e81f> [02supertux] 07tobbi labeled issue 03#317: Igloo becomes invisible when Tux is a couple of tiles below it - 13http://git.io/vuegt
+[2015/12/31 11:01:07] <Not-e81f> [02supertux] 07tobbi labeled issue 03#317: Igloo becomes invisible when Tux is a couple of tiles below it - 13http://git.io/vuegt
+[2015/12/31 11:02:32] @ Quit: lumidify: Ping timeout: 250 seconds
+[2015/12/31 11:03:22] @ Karkus joined channel #supertux
+[2015/12/31 11:03:22] @ Mode +o Karkus by ChanServ
+[2015/12/31 11:04:02] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#316: Burning Should Be a Particle Effect - 13http://git.io/vueXy
+[2015/12/31 11:08:22] @ WolfgangB joined channel #supertux
+[2015/12/31 11:09:37] <Not-e81f> [02supertux] 07tobbi commented on issue 03#316: Burning Should Be a Particle Effect - 13http://git.io/vueMO
+[2015/12/31 11:10:06] <Tobbi> Karkus: Are you celebrating New Year's Eve?
+[2015/12/31 11:10:14] <Karkus> Tobbi: Yes
+[2015/12/31 11:10:19] <Tobbi> Nice :-)
+[2015/12/31 11:10:28] <Karkus> Tobbi: How about you?
+[2015/12/31 11:11:05] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#316: Burning Should Be a Particle Effect - 13http://git.io/vueMK
+[2015/12/31 11:11:06] <Tobbi> Karkus: I actually don't have anyone to celebrate with, but I'll go to the harbour...
+[2015/12/31 11:11:13] <Tobbi> since there'll be fireworks and stuff.
+[2015/12/31 11:11:16] <alket> Karkus: you are celebrating it with us ? How nice of you xD
+[2015/12/31 11:11:24] @ tuxdev_ joined channel #supertux
+[2015/12/31 11:11:34] <Karkus> Tobbi: Ah, sounds cool
+[2015/12/31 11:12:07] <Tobbi> Karkus: It's a German tradition to watch this on New Years Eve: https://www.youtube.com/watch?v=BN9edpdCH7c
+[2015/12/31 11:12:07] <Karkus> alket: We have some relatives here, I'm just taking a moment to check up on SuperTux.
+[2015/12/31 11:12:26] <alket> :)
+[2015/12/31 11:12:33] <alket> Happy New Year then
+[2015/12/31 11:14:25] <Not-e81f> [02supertux] 07tobbi commented on issue 03#316: Burning Should Be a Particle Effect - 13http://git.io/vueDV
