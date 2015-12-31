@@ -34843,3 +34843,6 @@
 [2015/12/30 19:41:41] <tomreyn> this bot script is nice, is it open source?
 [2015/12/30 19:42:00] <tomreyn> oh its notifico
 [2015/12/30 20:19:28] @ stewboy joined channel #supertux
+[2015/12/30 20:38:23] @ Quit: swift110: Ping timeout: 260 seconds
+[2015/12/30 20:41:27] @ Quit: tux|dude: Quit: Leaving
+[2015/12/30 20:41:57] @ Quit: Wuzzy: Quit: Wuzzy
