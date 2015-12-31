@@ -34961,3 +34961,22 @@
 [2015/12/31 08:54:16] <mt> Also if we want one big worldmap we'll have to do that at least for worldmap tiles
 [2015/12/31 08:59:05] @ Tobbi joined channel #supertux
 [2015/12/31 08:59:06] @ Mode +o Tobbi by ChanServ
+[2015/12/31 09:02:55] <Tobbi> [2015/12/31 08:11:12] <Karkus> Hume2: Why didn't tobbi like it?
+[2015/12/31 09:02:55] <Tobbi> [2015/12/31 08:11:33] <Hume2> Karkus: Because of *sigh*.
+[2015/12/31 09:02:59] <Tobbi> LOL
+[2015/12/31 09:05:37] <Not-e81f> [02supertux] 07tobbi commented on issue 03#316: Burning Should Be a Particle Effect - 13http://git.io/vues3
+[2015/12/31 09:07:04] <Not-e81f> [02supertux] 07tobbi commented on issue 03#253: Integrate sprites from reTux - 13http://git.io/vuesr
+[2015/12/31 09:08:32] <Tobbi> Guys, are we using this as a submodule in supertux? https://github.com/SuperTux/physfs
+[2015/12/31 09:08:35] @ Quit: Karkus: Ping timeout: 264 seconds
+[2015/12/31 09:09:43] <mt> Tobbi: I guess maths22 set this up because we need a custom physfs build in SuperTux for getting more sane XDG data dir paths to work
+[2015/12/31 09:09:50] <Tobbi> Oh, right.
+[2015/12/31 09:10:17] <mt> Unless we switch to something else, (does boost provide FS functionality)
+[2015/12/31 09:11:21] <Tobbi> I am not sure.
+[2015/12/31 09:11:30] <Tobbi> But people are igniting fireworks right in front of my home.
+[2015/12/31 09:11:33] <Tobbi> I better check up...
+[2015/12/31 09:11:57] <Tobbi> It's not even dark yet.
+[2015/12/31 09:12:44] <mt> Look at the timer I have: https://urandom.eu.org/i/nMkISn1R.png
+[2015/12/31 09:13:15] <Tobbi> mt: Doing anything special for new year's eve?
+[2015/12/31 09:13:29] <mt> not really
+[2015/12/31 09:14:48] <Tobbi> ok
+[2015/12/31 09:14:56] <Tobbi> mt: At least celebrating with your family, I assume?
