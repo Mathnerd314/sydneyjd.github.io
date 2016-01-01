@@ -35165,3 +35165,5 @@
 [2016/01/01 00:37:45] <polyphagia> you've been up all night?
 [2016/01/01 00:39:57] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/01 01:21:22] @ lumidify joined channel #supertux
+[2016/01/01 01:47:26] @ Quit: lumidify: Ping timeout: 256 seconds
+[2016/01/01 01:48:14] @ lumidify joined channel #supertux
