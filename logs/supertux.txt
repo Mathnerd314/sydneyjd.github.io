@@ -35145,3 +35145,5 @@
 [2015/12/31 20:12:34] @ Drangue joined channel #supertux
 [2015/12/31 20:12:35] @ Quit: alket: Disconnected by services
 [2015/12/31 20:12:40] @ Drangue is now known as alket
+[2015/12/31 20:39:45] @ Quit: Karkus: Quit: Division By Zero
+[2015/12/31 20:42:16] @ Quit: alket: Quit: Good Night :)
