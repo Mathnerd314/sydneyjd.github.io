@@ -35310,3 +35310,4 @@
 [2016/01/01 15:11:41] @ Karkus joined channel #supertux
 [2016/01/01 15:11:41] @ Mode +o Karkus by ChanServ
 [2016/01/01 15:13:03] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/227
+[2016/01/01 15:29:04] @ Quit: lumidify: Quit: Leaving
