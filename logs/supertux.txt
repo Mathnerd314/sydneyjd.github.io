@@ -35261,3 +35261,5 @@
 [2016/01/01 13:03:45] <mt> the thing is
 [2016/01/01 13:03:50] <mt> we can't change it anymore
 [2016/01/01 13:04:10] <mt> since the URLs are hardcoded into the previous release builds
+[2016/01/01 13:20:59] @ Quit: lumidify: Ping timeout: 246 seconds
+[2016/01/01 13:21:42] @ lumidify joined channel #supertux
