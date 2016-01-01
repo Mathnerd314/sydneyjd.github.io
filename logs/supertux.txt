@@ -35198,3 +35198,5 @@
 [2016/01/01 07:16:30] @ lumidify joined channel #supertux
 [2016/01/01 07:44:28] @ Quit: lumidify: Quit: Leaving
 [2016/01/01 07:46:35] @ Quit: xet7: Ping timeout: 240 seconds
+[2016/01/01 08:10:03] <brmbrmcar> https://paste.kde.org/pgtsnprmv
+[2016/01/01 08:10:06] @ brmbrmcar left channel #supertux ()
