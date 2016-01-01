@@ -35164,3 +35164,4 @@
 [2016/01/01 00:37:41] <polyphagia> oh that's not good
 [2016/01/01 00:37:45] <polyphagia> you've been up all night?
 [2016/01/01 00:39:57] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/01 01:21:22] @ lumidify joined channel #supertux
