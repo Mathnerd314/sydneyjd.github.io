@@ -35220,3 +35220,6 @@
 [2016/01/01 10:31:46] <Hume2> Thanks for testing.
 [2016/01/01 10:33:30] @ Quit: Hume2: Quit: Page closed
 [2016/01/01 10:49:59] @ lumidify joined channel #supertux
+[2016/01/01 11:20:03] @ Hume2 joined channel #supertux
+[2016/01/01 11:20:09] @ Mode +v Hume2 by ChanServ
+[2016/01/01 11:28:17] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#305: Problems with non-ASCII characters - 13http://git.io/vuULR
