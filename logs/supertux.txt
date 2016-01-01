@@ -35170,3 +35170,9 @@
 [2016/01/01 04:10:43] @ mt joined channel #supertux
 [2016/01/01 04:10:43] @ Mode +o mt by ChanServ
 [2016/01/01 04:11:36] @ Quit: mteufel: Disconnected by services
+[2016/01/01 04:34:00] <polyphagia> hi mt
+[2016/01/01 04:34:04] <polyphagia> happy new year
+[2016/01/01 04:35:05] <mt> hi, happy new year to every in here as well
+[2016/01/01 04:35:35] <mt> (unless someone lives in UTC-10, UTC-11 or UTC-12)
+[2016/01/01 04:35:56] @ Quit: tux|dude: Quit: Leaving
+[2016/01/01 04:37:09] <mt> VPS works fine again, now my home connection misses more than 9/10ths of its uplink D:
