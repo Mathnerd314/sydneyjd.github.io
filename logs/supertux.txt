@@ -35149,3 +35149,4 @@
 [2015/12/31 20:42:16] @ Quit: alket: Quit: Good Night :)
 [2015/12/31 21:18:47] @ Wuzzy2 joined channel #supertux
 [2015/12/31 21:21:54] @ Quit: Wuzzy: Ping timeout: 255 seconds
+[2015/12/31 21:47:33] @ Quit: Wuzzy2: Quit: Wuzzy2
