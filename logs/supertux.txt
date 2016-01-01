@@ -35287,3 +35287,9 @@
 [2016/01/01 14:28:10] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#317: Igloo becomes invisible when Tux is a couple of tiles below it - 13http://git.io/vuUQw
 [2016/01/01 14:29:45] <polyphag1> mt: well you could always add a new repo system in and leave the old one frozen for a while
 [2016/01/01 14:29:51] <polyphag1> but not use it in the new builds
+[2016/01/01 14:30:08] <polyphag1> the old URL/server frozen that is
+[2016/01/01 14:30:29] <polyphag1> it's not like old versions of supertux would benefit from new levels since they're probably not supported
+[2016/01/01 14:33:04] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#317: Igloo becomes invisible when Tux is a couple of tiles below it - 13http://git.io/vuU5P
+[2016/01/01 14:35:04] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#201: Backflipping to a bonus block hides Tux behind it - 13http://git.io/vuUdm
+[2016/01/01 14:39:52] @ claymore2 joined channel #supertux
+[2016/01/01 14:43:15] @ swift110 joined channel #supertux
