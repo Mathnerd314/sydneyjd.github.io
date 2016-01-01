@@ -35211,3 +35211,9 @@
 [2016/01/01 08:56:51] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/01 09:39:47] @ irungentoo joined channel #supertux
 [2016/01/01 09:43:31] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#317: Igloo becomes invisible when Tux is a couple of tiles below it - 13http://git.io/vuJ90
+[2016/01/01 10:15:29] <Hume2> mt: Is that correct?
+[2016/01/01 10:18:54] @ claymore2 joined channel #supertux
+[2016/01/01 10:27:06] <mt> 8c638482cb30a713c88723fcb736f315  hume-worldmaps_v2.zip
+[2016/01/01 10:27:09] <mt> 8c638482cb30a713c88723fcb736f315  hume_worlds.zip
+[2016/01/01 10:27:11] <mt> for me
+[2016/01/01 10:27:30] <mt> yes that matches
