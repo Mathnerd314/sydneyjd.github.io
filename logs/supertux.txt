@@ -35194,3 +35194,5 @@
 [2016/01/01 06:44:22] @ Quit: stewboy: Read error: Connection reset by peer
 [2016/01/01 07:01:06] @ brmbrmcar joined channel #supertux
 [2016/01/01 07:12:27] @ lumidify joined channel #supertux
+[2016/01/01 07:16:14] @ Quit: lumidify: Client Quit
+[2016/01/01 07:16:30] @ lumidify joined channel #supertux
