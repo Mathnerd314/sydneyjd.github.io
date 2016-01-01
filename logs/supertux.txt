@@ -35318,3 +35318,5 @@
 [2016/01/01 15:47:25] @ swift110-phone joined channel #supertux
 [2016/01/01 15:47:25] <Tobbi> anyway, bbl.
 [2016/01/01 15:47:34] <Tobbi> need some food.
+[2016/01/01 16:02:20] @ leyyin joined channel #supertux
+[2016/01/01 16:07:03] @ Quit: Hume2: Quit: Page closed
