@@ -35139,3 +35139,4 @@
 [2015/12/31 18:51:04] <polyphagia> you too Karkus
 [2015/12/31 18:51:23] <Karkus> datahead8888_: But, you should still be happy :P
 [2015/12/31 19:09:04] @ Quit: swift110: Ping timeout: 256 seconds
+[2015/12/31 19:55:33] @ Quit: irungentoo: Remote host closed the connection
