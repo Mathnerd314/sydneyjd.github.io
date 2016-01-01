@@ -35232,3 +35232,8 @@
 [2016/01/01 12:20:41] @ brmbrmcar left channel #supertux ()
 [2016/01/01 12:22:24] @ bartbart2003 joined channel #supertux
 [2016/01/01 12:24:43] @ Quit: bartbart2003: Client Quit
+[2016/01/01 12:30:28] @ Tobbi joined channel #supertux
+[2016/01/01 12:30:29] @ Mode +o Tobbi by ChanServ
+[2016/01/01 12:31:25] <Hume2> Hello, Tobbi
+[2016/01/01 12:31:33] <Tobbi> Hello Hume2.
+[2016/01/01 12:31:36] @ lumidify joined channel #supertux
