@@ -35200,3 +35200,7 @@
 [2016/01/01 07:46:35] @ Quit: xet7: Ping timeout: 240 seconds
 [2016/01/01 08:10:03] <brmbrmcar> https://paste.kde.org/pgtsnprmv
 [2016/01/01 08:10:06] @ brmbrmcar left channel #supertux ()
+[2016/01/01 08:23:02] @ brmbrmcar joined channel #supertux
+[2016/01/01 08:24:07] @ Tobbi joined channel #supertux
+[2016/01/01 08:24:08] @ Mode +o Tobbi by ChanServ
+[2016/01/01 08:30:01] @ brmbrmcar left channel #supertux ()
