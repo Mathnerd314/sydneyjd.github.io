@@ -35209,3 +35209,5 @@
 [2016/01/01 08:56:39] @ Wuzzy joined channel #supertux
 [2016/01/01 08:56:44] <Not-e81f> [02supertux] 07OronDF343 commented on issue 03#287: Bad performance in Windows10 - 13http://git.io/vuJoU
 [2016/01/01 08:56:51] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/01 09:39:47] @ irungentoo joined channel #supertux
+[2016/01/01 09:43:31] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#317: Igloo becomes invisible when Tux is a couple of tiles below it - 13http://git.io/vuJ90
