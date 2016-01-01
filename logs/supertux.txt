@@ -35263,3 +35263,12 @@
 [2016/01/01 13:04:10] <mt> since the URLs are hardcoded into the previous release builds
 [2016/01/01 13:20:59] @ Quit: lumidify: Ping timeout: 246 seconds
 [2016/01/01 13:21:42] @ lumidify joined channel #supertux
+[2016/01/01 13:32:37] @ swift110-phone joined channel #supertux
+[2016/01/01 13:36:38] @ brmbrmcar joined channel #supertux
+[2016/01/01 13:36:40] <brmbrmcar> https://paste.kde.org/pca82f4dk
+[2016/01/01 13:36:42] @ brmbrmcar left channel #supertux ()
+[2016/01/01 13:37:40] <mt> ~note brmbrmcar It's getting annoying, could you stop doing that join/message/leave?
+[2016/01/01 13:37:40] <red_bot> alright, mt
+[2016/01/01 13:39:19] <swift110-phone> Hmm
+[2016/01/01 13:40:13] <mt> hi swift110-phone, what's up?
+[2016/01/01 13:40:27] <Hume2> Any level from TeraTux Reborn is better than his level.
