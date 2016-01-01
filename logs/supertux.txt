@@ -35224,3 +35224,5 @@
 [2016/01/01 11:20:09] @ Mode +v Hume2 by ChanServ
 [2016/01/01 11:28:17] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#305: Problems with non-ASCII characters - 13http://git.io/vuULR
 [2016/01/01 11:38:01] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#305: Problems with non-ASCII characters - 13http://git.io/vuUqB
+[2016/01/01 11:57:56] @ Quit: claymore2: Quit: Leaving
+[2016/01/01 11:59:49] @ brmbrmcar joined channel #supertux
