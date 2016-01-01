@@ -35167,3 +35167,6 @@
 [2016/01/01 01:21:22] @ lumidify joined channel #supertux
 [2016/01/01 01:47:26] @ Quit: lumidify: Ping timeout: 256 seconds
 [2016/01/01 01:48:14] @ lumidify joined channel #supertux
+[2016/01/01 04:10:43] @ mt joined channel #supertux
+[2016/01/01 04:10:43] @ Mode +o mt by ChanServ
+[2016/01/01 04:11:36] @ Quit: mteufel: Disconnected by services
