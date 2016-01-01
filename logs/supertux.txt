@@ -35179,3 +35179,5 @@
 [2016/01/01 05:08:34] @ polyphag1 joined channel #supertux
 [2016/01/01 05:08:51] @ Quit: polyphagia: Read error: Connection reset by peer
 [2016/01/01 05:13:35] @ datahead8888_ is now known as datahead7777
+[2016/01/01 05:27:44] @ Hume2 joined channel #supertux
+[2016/01/01 05:27:45] @ Mode +v Hume2 by ChanServ
