@@ -35321,3 +35321,6 @@
 [2016/01/01 16:02:20] @ leyyin joined channel #supertux
 [2016/01/01 16:07:03] @ Quit: Hume2: Quit: Page closed
 [2016/01/01 16:36:46] @ Quit: paroneayea: Ping timeout: 240 seconds
+[2016/01/01 16:47:54] @ Quit: alket: Quit: Good Night :)
+[2016/01/01 16:48:09] @ alket joined channel #supertux
+[2016/01/01 16:56:32] @ stewboy joined channel #supertux
