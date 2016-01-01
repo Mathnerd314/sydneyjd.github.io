@@ -35451,3 +35451,5 @@
 [2016/01/01 18:05:52] <Tobbi> THEY have you now.
 [2016/01/01 18:19:35] @ Quit: VargaD: Ping timeout: 260 seconds
 [2016/01/01 18:20:31] @ VargaD joined channel #supertux
+[2016/01/01 18:34:42] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/01/01 18:38:18] @ paroneayea joined channel #supertux
