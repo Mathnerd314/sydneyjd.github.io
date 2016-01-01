@@ -35255,3 +35255,9 @@
 [2016/01/01 12:58:08] <Hume2> Got it. Now it makes sense.
 [2016/01/01 12:59:12] <Hume2> Oh, ...
 [2016/01/01 12:59:28] <Hume2> I forgot there one number from the old md.
+[2016/01/01 13:01:35] <Hume2> Corrected.
+[2016/01/01 13:03:36] <mt> the addon repo is a mess
+[2016/01/01 13:03:38] <mt> :/
+[2016/01/01 13:03:45] <mt> the thing is
+[2016/01/01 13:03:50] <mt> we can't change it anymore
+[2016/01/01 13:04:10] <mt> since the URLs are hardcoded into the previous release builds
