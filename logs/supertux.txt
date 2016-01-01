@@ -35181,3 +35181,6 @@
 [2016/01/01 05:13:35] @ datahead8888_ is now known as datahead7777
 [2016/01/01 05:27:44] @ Hume2 joined channel #supertux
 [2016/01/01 05:27:45] @ Mode +v Hume2 by ChanServ
+[2016/01/01 05:58:48] <polyphag1> hey Hume2 !
+[2016/01/01 05:58:59] <polyphag1> happy new year
+[2016/01/01 05:59:06] <Hume2> Hello, happy new year!
