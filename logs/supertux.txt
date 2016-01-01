@@ -35196,3 +35196,4 @@
 [2016/01/01 07:12:27] @ lumidify joined channel #supertux
 [2016/01/01 07:16:14] @ Quit: lumidify: Client Quit
 [2016/01/01 07:16:30] @ lumidify joined channel #supertux
+[2016/01/01 07:44:28] @ Quit: lumidify: Quit: Leaving
