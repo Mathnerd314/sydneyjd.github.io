@@ -35152,3 +35152,15 @@
 [2015/12/31 21:47:33] @ Quit: Wuzzy2: Quit: Wuzzy2
 [2016/01/01 00:17:45] @ Tobbi joined channel #supertux
 [2016/01/01 00:17:47] @ Mode +o Tobbi by ChanServ
+[2016/01/01 00:32:52] <polyphagia> hey Tobbi
+[2016/01/01 00:33:00] <polyphagia> happy new years
+[2016/01/01 00:33:14] <Tobbi> Hey polyphagia. Aren't you from Germany? What are you doing online at this time?
+[2016/01/01 00:33:21] <polyphagia> no i'm from canada :P
+[2016/01/01 00:33:26] <Tobbi> And, yes, happy new year to you, too.
+[2016/01/01 00:33:34] <Tobbi> alright.
+[2016/01/01 00:33:43] <Tobbi> It's 6:33am here.
+[2016/01/01 00:35:01] <Tobbi> So, I guess I'll be going to bed quite soon.
+[2016/01/01 00:35:18] <Tobbi> Just haven't eaten anything since yesterday afternoon.
+[2016/01/01 00:37:41] <polyphagia> oh that's not good
+[2016/01/01 00:37:45] <polyphagia> you've been up all night?
+[2016/01/01 00:39:57] @ Quit: Tobbi: Remote host closed the connection
