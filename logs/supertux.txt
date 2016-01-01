@@ -35217,3 +35217,5 @@
 [2016/01/01 10:27:09] <mt> 8c638482cb30a713c88723fcb736f315  hume_worlds.zip
 [2016/01/01 10:27:11] <mt> for me
 [2016/01/01 10:27:30] <mt> yes that matches
+[2016/01/01 10:31:46] <Hume2> Thanks for testing.
+[2016/01/01 10:33:30] @ Quit: Hume2: Quit: Page closed
