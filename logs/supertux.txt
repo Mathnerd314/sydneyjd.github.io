@@ -35219,3 +35219,4 @@
 [2016/01/01 10:27:30] <mt> yes that matches
 [2016/01/01 10:31:46] <Hume2> Thanks for testing.
 [2016/01/01 10:33:30] @ Quit: Hume2: Quit: Page closed
+[2016/01/01 10:49:59] @ lumidify joined channel #supertux
