@@ -35449,3 +35449,5 @@
 [2016/01/01 18:05:47] <Tobbi> You can't escape it now, Karkus.
 [2016/01/01 18:05:48] <Tobbi> :D
 [2016/01/01 18:05:52] <Tobbi> THEY have you now.
+[2016/01/01 18:19:35] @ Quit: VargaD: Ping timeout: 260 seconds
+[2016/01/01 18:20:31] @ VargaD joined channel #supertux
