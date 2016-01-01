@@ -35204,3 +35204,8 @@
 [2016/01/01 08:24:07] @ Tobbi joined channel #supertux
 [2016/01/01 08:24:08] @ Mode +o Tobbi by ChanServ
 [2016/01/01 08:30:01] @ brmbrmcar left channel #supertux ()
+[2016/01/01 08:55:48] <maths22> Tobbi: I'll look into coverity soon
+[2016/01/01 08:55:56] <Tobbi> maths22: Thanks.
+[2016/01/01 08:56:39] @ Wuzzy joined channel #supertux
+[2016/01/01 08:56:44] <Not-e81f> [02supertux] 07OronDF343 commented on issue 03#287: Bad performance in Windows10 - 13http://git.io/vuJoU
+[2016/01/01 08:56:51] @ Quit: Tobbi: Remote host closed the connection
