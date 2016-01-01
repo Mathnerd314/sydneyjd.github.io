@@ -35184,3 +35184,8 @@
 [2016/01/01 05:58:48] <polyphag1> hey Hume2 !
 [2016/01/01 05:58:59] <polyphag1> happy new year
 [2016/01/01 05:59:06] <Hume2> Hello, happy new year!
+[2016/01/01 06:03:15] @ benjamin__ joined channel #supertux
+[2016/01/01 06:04:04] <Not-e81f> [02supertux] 07swhgoon starred 03supertux - 13http://git.io/vIt3d
+[2016/01/01 06:04:13] @ alket joined channel #supertux
+[2016/01/01 06:05:25] @ claymore2 joined channel #supertux
+[2016/01/01 06:05:50] @ Quit: giby_the_kid: Ping timeout: 276 seconds
