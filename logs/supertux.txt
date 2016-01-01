@@ -35237,3 +35237,21 @@
 [2016/01/01 12:31:25] <Hume2> Hello, Tobbi
 [2016/01/01 12:31:33] <Tobbi> Hello Hume2.
 [2016/01/01 12:31:36] @ lumidify joined channel #supertux
+[2016/01/01 12:48:52] <mt> Hume2: uh
+[2016/01/01 12:49:03] <mt> https://github.com/SuperTux/addons/commit/4578b0e4aaf76735283964fa8547d9167d2ff3aa#diff-3bd2c5f8e26e9a20fe0e0d0fe493e54fR27
+[2016/01/01 12:49:06] <mt> is different from
+[2016/01/01 12:49:15] <mt> https://github.com/SuperTux/addons/commit/4578b0e4aaf76735283964fa8547d9167d2ff3aa#diff-cb3ad5210b4c6b870771716e06f0cb09R71
+[2016/01/01 12:49:24] <mt> and https://github.com/SuperTux/addons/commit/4578b0e4aaf76735283964fa8547d9167d2ff3aa#diff-d0d8de531cd37f2c22d004dd5efcb8e2R36
+[2016/01/01 12:51:12] <Hume2> mt: You gave me three identical links.
+[2016/01/01 12:53:17] <Hume2> mt: Well, not really.
+[2016/01/01 12:54:39] <mt> these link to different lines in the diffs
+[2016/01/01 12:55:16] <mt> basically the md5 hash in index-0_3_5.nfo (or whatever) is different from the ones in the rest of *.nfo
+[2016/01/01 12:55:18] <Hume2> mt: So you compared my commits with three different commits.
+[2016/01/01 12:55:31] <Hume2> Got it.
+[2016/01/01 12:56:23] <Hume2> Can't get how could that happen.
+[2016/01/01 12:56:25] <mt> no
+[2016/01/01 12:56:46] <mt> I linked to different lines of code in the very same diff
+[2016/01/01 12:57:31] <mt> I compared three *different files* in the same diff/commit
+[2016/01/01 12:58:08] <Hume2> Got it. Now it makes sense.
+[2016/01/01 12:59:12] <Hume2> Oh, ...
+[2016/01/01 12:59:28] <Hume2> I forgot there one number from the old md.
