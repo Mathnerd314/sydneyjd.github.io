@@ -35129,3 +35129,12 @@
 [2015/12/31 18:18:19] @ Quit: swift110: Changing host
 [2015/12/31 18:18:19] @ swift110 joined channel #supertux
 [2015/12/31 18:40:28] @ tux|dude joined channel #supertux
+[2015/12/31 18:46:16] <polyphagia> hi tux|dude
+[2015/12/31 18:46:25] <tux|dude> Heya
+[2015/12/31 18:46:45] <polyphagia> happy new yrs
+[2015/12/31 18:47:15] <Karkus> Happy new year polyphagia, mteufel, giby_the_kid, head8debian, maths22, alket, datahead8888_, swift110 !
+[2015/12/31 18:47:42] <Karkus> It's been a good year for supertux, that's for sure :)
+[2015/12/31 18:49:20] <datahead8888_> I've still got 5 more hours for the new year here
+[2015/12/31 18:49:53] <giby_the_kid> Happy new year Karkus
+[2015/12/31 18:51:04] <polyphagia> you too Karkus
+[2015/12/31 18:51:23] <Karkus> datahead8888_: But, you should still be happy :P
