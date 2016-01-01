@@ -35197,3 +35197,4 @@
 [2016/01/01 07:16:14] @ Quit: lumidify: Client Quit
 [2016/01/01 07:16:30] @ lumidify joined channel #supertux
 [2016/01/01 07:44:28] @ Quit: lumidify: Quit: Leaving
+[2016/01/01 07:46:35] @ Quit: xet7: Ping timeout: 240 seconds
