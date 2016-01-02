@@ -35558,3 +35558,15 @@
 [2016/01/02 05:28:27] <polyphag1> what's the title of that map pack?
 [2016/01/02 05:28:54] <stewboy> this secret level is actually kind of sickening, in the bit where the background scrolls fast
 [2016/01/02 05:30:00] <stewboy> oh wow, this secret area is huge
+[2016/01/02 05:30:17] <snadge> iyeah
+[2016/01/02 05:30:20] <mt> polyphag1: "Mattie's world" by "LMH"
+[2016/01/02 05:31:14] <mt> stewboy: didn't you have to expect that from the levels finished/total levels count in the menu?
+[2016/01/02 05:31:28] <stewboy> I didn't pay any attention to that :P
+[2016/01/02 05:32:03] <mt> we've also put some levels that we included in 0.3.x as separate add-on in the Bonus Island III
+[2016/01/02 05:32:14] <mt> (levels by "Torfi Gunnarson" oslt)
+[2016/01/02 05:41:37] <snadge> dont miss your ride
+[2016/01/02 05:42:40] @ Quit: lumidify: Ping timeout: 250 seconds
+[2016/01/02 05:43:09] <mt> that one and two others
+[2016/01/02 05:43:23] <mt> so if someone misses them, they're there :P
+[2016/01/02 05:44:05] @ Hume2 joined channel #supertux
+[2016/01/02 05:44:06] @ Mode +v Hume2 by ChanServ
