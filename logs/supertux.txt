@@ -35948,3 +35948,33 @@
 [2016/01/02 12:12:46] <Tobbi> hmm, right.
 [2016/01/02 12:13:31] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#177: Pipes Need to Be Implemented - 13http://git.io/vuLnD
 [2016/01/02 12:14:17] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#317: Igloo becomes invisible when Tux is a couple of tiles below it - 13http://git.io/vuLnj
+[2016/01/02 12:15:23] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#315: Sleeping Mr Spikey's need thier own melting sprite - 13http://git.io/vuLc3
+[2016/01/02 12:15:38] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#315: Sleeping Mr Spikey's need thier own melting sprite - 13http://git.io/vEhJt
+[2016/01/02 12:15:39] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#315: Sleeping Mr Spikey's need thier own melting sprite - 13http://git.io/vEhJt
+[2016/01/02 12:16:08] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#304: Freeze after changing volume/opening activities in fullscreen OpenGL mode - 13http://git.io/vEDjp
+[2016/01/02 12:16:19] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#287: Bad performance in Windows10 - 13http://git.io/vEZJv
+[2016/01/02 12:17:05] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#303: Glitch/Bug in "A fork in the road". - 13http://git.io/vEDQ5
+[2016/01/02 12:17:07] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#303: Glitch/Bug in "A fork in the road". - 13http://git.io/vEDQ5
+[2016/01/02 12:18:40] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#177: Pipes Need to Be Implemented - 13http://git.io/vuLcx
+[2016/01/02 12:21:21] <Karkus> mt: I understand, but why would this be useful? We are already implementing Swimming?
+[2016/01/02 12:21:51] <mt> yeah
+[2016/01/02 12:21:59] <mt> and then tux can swim in pipes?
+[2016/01/02 12:22:03] <mt> what's wrong with that?
+[2016/01/02 12:22:19] <mt> also, that allows us having an appropriate enter/leave animation
+[2016/01/02 12:23:06] <Karkus> mt: But why is it needed? Pipes are 2 blocks wide, so don't allow much room for swimming.
+[2016/01/02 12:23:24] <mt> because it's different from mario
+[2016/01/02 12:23:30] <mt> we don't want to clone everything
+[2016/01/02 12:24:43] <Karkus> mt: We should remove pipes altogether then :P
+[2016/01/02 12:25:38] <mt> >_<
+[2016/01/02 12:27:02] <Not-e81f> [02supertux] 07maxteufel deleted branch 03fix/298 - 13http://git.io/vvf63
+[2016/01/02 12:27:03] <Not-e81f> [02supertux] 07maxteufel deleted branch 03fix/298
+[2016/01/02 12:27:05] <Not-e81f> [02supertux] 07maxteufel pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vuLWD
+[2016/01/02 12:27:06] <Not-e81f> [02supertux] 07Max Teufel 03a389ad2 - bonus1/thompson-level2: fix issue with big Tux being visible in pipe
+[2016/01/02 12:27:07] <Not-e81f> [02supertux] 07maxteufel closed issue 03#298: Bug in "Bad Guys Stink" - 13http://git.io/vEPOI
+[2016/01/02 12:29:16] <mt> Karkus: why not do both?
+[2016/01/02 12:29:26] <mt> swimming and normal entering pipes
+[2016/01/02 12:29:27] <Karkus> mt: Why not?
+[2016/01/02 12:29:39] <mt> with focus on normal pipes first
+[2016/01/02 12:29:39] <Karkus> mt: I can't disagree
+[2016/01/02 12:29:48] <mt> because that seems easier to fix than swimming
+[2016/01/02 12:30:00] <Karkus> mt: At least then we don't have to remake LMH's levels
