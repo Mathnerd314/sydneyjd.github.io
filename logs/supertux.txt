@@ -35496,3 +35496,4 @@
 [2016/01/02 00:17:24] <snadge> i want a savestate feature :P
 [2016/01/02 00:17:44] <snadge> i dont want to play the same part of the level.. 50,000 times over, just to get back to the bit where i repeatedly die
 [2016/01/02 00:19:25] <snadge> kevin.. wherever you are, i hate you
+[2016/01/02 00:42:10] @ Quit: irungentoo: Ping timeout: 256 seconds
