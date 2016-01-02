@@ -36048,3 +36048,7 @@
 [2016/01/02 14:30:01] @ Quit: alket: Disconnected by services
 [2016/01/02 14:30:08] @ Drangue is now known as alket
 [2016/01/02 14:37:06] @ lumidify joined channel #supertux
+[2016/01/02 14:49:55] <polyphagia> oo good point grumbel
+[2016/01/02 14:50:06] <polyphagia> i think an actual canon would be a neat object
+[2016/01/02 14:50:22] <polyphagia> although maybe something that provided more to the gameplay
+[2016/01/02 14:50:46] <polyphagia> like those enemies that eat you and spit you out
