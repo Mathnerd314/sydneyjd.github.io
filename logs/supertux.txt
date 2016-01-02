@@ -35507,3 +35507,6 @@
 [2016/01/02 04:08:36] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2016/01/02 04:08:54] <mt> what I thought would be nice is some kind of RESTful API for accessing addons
 [2016/01/02 04:14:44] <Not-e81f> [02supertux] 07JohJakob starred 03supertux - 13http://git.io/vuk9R
+[2016/01/02 04:49:58] <polyphag1> is there a "rotten egg" item? if not, what do you guys think?
+[2016/01/02 04:53:42] @ Quit: VargaD: Ping timeout: 250 seconds
+[2016/01/02 04:56:23] @ VargaD joined channel #supertux
