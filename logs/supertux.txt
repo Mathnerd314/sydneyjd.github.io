@@ -35613,3 +35613,47 @@
 [2016/01/02 08:26:26] <snadge> i need a beer after that.. that was epic
 [2016/01/02 08:27:13] <head8deb1an> snadge: Heh.
 [2016/01/02 08:29:56] @ Wuzzy joined channel #supertux
+[2016/01/02 08:32:08] <Tobbi> hehe.
+[2016/01/02 08:32:10] <Tobbi> Those French.
+[2016/01/02 08:32:11] <mt> head8deb1an: why aren't you identified?
+[2016/01/02 08:32:30] <Tobbi> kneekoo: The author's mother tongue is French.
+[2016/01/02 08:32:37] <Tobbi> I will try to find the proper l10n
+[2016/01/02 08:32:54] <mt> what?
+[2016/01/02 08:33:02] <mt> long.stl says author "hume"
+[2016/01/02 08:33:06] <Tobbi> mt: Huh?
+[2016/01/02 08:33:19] <Tobbi> Oh, Incubator.
+[2016/01/02 08:33:22] <Tobbi> I confused it.
+[2016/01/02 08:33:33] <Tobbi> kneekoo: never mind then. Hume2 is to blame :P
+[2016/01/02 08:35:09] @ Quit: claymore2: Quit: Leaving
+[2016/01/02 08:36:17] <Hume2> Just now I noticed that it's weird.
+[2016/01/02 08:36:31] <kneekoo> :)
+[2016/01/02 08:36:47] <mt> /kick Hume2 fix it, now!
+[2016/01/02 08:36:54] <kneekoo> then write them in French and we will figure it out
+[2016/01/02 08:37:20] <Hume2> mt: OK
+[2016/01/02 08:37:26] <Tobbi> kneekoo: I was mistaken. Hume2 doesn't know any french.
+[2016/01/02 08:37:36] <Tobbi> I confused it with some other author of some other island.
+[2016/01/02 08:37:38] <Hume2> I don't remember what that was supposed to be.
+[2016/01/02 08:38:05] <Tobbi> hah, typical.
+[2016/01/02 08:38:07] <Tobbi> Anyway...
+[2016/01/02 08:38:10] <kneekoo> :))
+[2016/01/02 08:38:10] <Tobbi> one moment.
+[2016/01/02 08:38:49] <kneekoo> is the level editor included?
+[2016/01/02 08:38:56] <kneekoo> with the game
+[2016/01/02 08:39:20] <Tobbi> kneekoo: Neither is included...
+[2016/01/02 08:39:35] <Tobbi> kneekoo: There are several level editors...currently we're developing one of them :P
+[2016/01/02 08:39:42] <Tobbi> Sorry, two.
+[2016/01/02 08:39:54] <kneekoo> ok, good to know
+[2016/01/02 08:40:08] <kneekoo> will it be included with the game?
+[2016/01/02 08:40:11] <mt> Hume2 is developing another one
+[2016/01/02 08:40:22] <mt> Hume2's will be included with the game
+[2016/01/02 08:40:41] <kneekoo> oh boy... with good English, I hope :P
+[2016/01/02 08:40:46] <mt> the other one is written in Python and uses PyQt4, which should be available for all platforms
+[2016/01/02 08:41:19] <mt> running the python editor when you've got python and pyqt4 installed is as easy as running one shell command
+[2016/01/02 08:41:31] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vuIgb
+[2016/01/02 08:41:32] <Not-e81f> [02supertux] 07Hume2 0392abe80 - Fixed infoblock in incubator/long.stl
+[2016/01/02 08:41:34] <mt> or if you bother us enough we'll make an xdg launcher
+[2016/01/02 08:41:39] @ Hume2 left channel #supertux ()
+[2016/01/02 08:41:47] <Tobbi> Oh, c'mon hume.
+[2016/01/02 08:43:36] <kneekoo> why an xdg launcher and not start it from the SuperTux main menu?
+[2016/01/02 08:44:57] <mt> I'm not sure launching external applications from SuperTux is a good idea
+[2016/01/02 08:44:59] @ alket joined channel #supertux
