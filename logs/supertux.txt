@@ -36011,3 +36011,15 @@
 [2016/01/02 13:14:34] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#315: Sleeping Mr Spikey's need thier own melting sprite - 13http://git.io/vuLap
 [2016/01/02 13:17:18] @ Quit: alket: Quit: Good Night :)
 [2016/01/02 13:17:33] @ alket joined channel #supertux
+[2016/01/02 13:47:44] @ Quit: ced117: Ping timeout: 276 seconds
+[2016/01/02 13:51:57] <Karkus> polyphagia: The line represents a path property, which can be changed using the editor (not fully implemented in Flexlay I think)
+[2016/01/02 13:53:07] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#315: Sleeping Mr Spikey's need thier own melting sprite - 13http://git.io/vuLPj
+[2016/01/02 13:54:10] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#315: Sleeping Mr Spikey's need thier own melting sprite - 13http://git.io/vuLXl
+[2016/01/02 13:54:34] <polyphagia> yeah Karkus great idea
+[2016/01/02 13:57:27] <Karkus> polyphagia: This is already in SuperTux, used for flying platforms, by the way.
+[2016/01/02 13:58:30] <polyphagia> but not for pipes Karkus ?
+[2016/01/02 13:58:42] <Karkus> polyphagia: Not yet, no.
+[2016/01/02 13:58:45] <Karkus> :D
+[2016/01/02 13:59:12] <polyphagia> ic well it makes the most sense to me
+[2016/01/02 13:59:24] <polyphagia> some of the later SMB games even had multidirectional pipes
+[2016/01/02 13:59:35] <polyphagia> although mostly as a transitional effect
