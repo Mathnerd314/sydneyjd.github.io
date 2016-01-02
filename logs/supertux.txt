@@ -35481,3 +35481,7 @@
 [2016/01/01 21:27:15] <snadge> and its really hard to get through the first bit without touching one of the bouncing things
 [2016/01/01 21:27:23] <snadge> horrible level :P
 [2016/01/01 21:27:48] <snadge> fortunately its not compulsory to get passed it to access other levels.. so someone was kind enough to design the world map that way
+[2016/01/01 21:30:03] @ Quit: Wuzzy2: Quit: Wuzzy2
+[2016/01/01 21:30:31] <snadge> what would be really cool is if someone posted on youtube speedruns of all the test levels
+[2016/01/01 21:31:28] <snadge> wtf.. i didnt know you could pick up icecubes
+[2016/01/01 21:42:21] <head8deb1an> Hello snadge, welcome to #supertux. :)
