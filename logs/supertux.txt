@@ -35978,3 +35978,12 @@
 [2016/01/02 12:29:39] <Karkus> mt: I can't disagree
 [2016/01/02 12:29:48] <mt> because that seems easier to fix than swimming
 [2016/01/02 12:30:00] <Karkus> mt: At least then we don't have to remake LMH's levels
+[2016/01/02 12:31:23] <Not-e81f> [02supertux] 07maxteufel assigned issue 03#305: Problems with non-ASCII characters - 13http://git.io/vE9gl
+[2016/01/02 12:31:25] <Karkus> mt: It should be an object + a path to follow.
+[2016/01/02 12:31:33] <mt> +1
+[2016/01/02 12:32:15] <Karkus> mt: I'll make a checklist on the issue
+[2016/01/02 12:32:59] <mt> but that needs some kind of object that allows α° turns
+[2016/01/02 12:37:29] <Karkus> mt: Huh?
+[2016/01/02 12:37:31] <Karkus> Why?
+[2016/01/02 12:38:06] <mt> if you want to make a pipe that makes a turn
+[2016/01/02 12:38:11] <mt> as in LMH's levels
