@@ -36096,3 +36096,7 @@
 [2016/01/02 15:25:48] @ Quit: swift110: Changing host
 [2016/01/02 15:25:48] @ swift110 joined channel #supertux
 [2016/01/02 15:27:58] <Karkus> Hume2: Do we have bistable switches?
+[2016/01/02 15:32:41] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#253: Integrate sprites from reTux - 13http://git.io/vutk9
+[2016/01/02 15:33:09] <mt> I'd close #253 if no one minds.
+[2016/01/02 15:38:35] <Hume2> Karkus: Yes, we do.
+[2016/01/02 15:44:52] <mt> Karkus: you actually can't do https://github.com/SuperTux/supertux/commit/298c7f7a55bc1a6fe2a778187789c8f9f3a96e2d unless you changed something in 2016 (we now did, but at the point you committed that, not)
