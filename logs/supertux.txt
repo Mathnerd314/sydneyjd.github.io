@@ -36128,3 +36128,28 @@
 [2016/01/02 15:59:16] <polyphagia> mmk
 [2016/01/02 15:59:58] <polyphagia> wow this guy got almost 2000 coins from the first four levels :
 [2016/01/02 16:00:00] <polyphagia> :P
+[2016/01/02 16:00:41] <Tobbi> We have this: https://github.com/SuperTux/supertux/blob/master/src/worldmap/worldmap.cpp#L654
+[2016/01/02 16:01:06] <polyphagia> yeah that's probably what he's getting
+[2016/01/02 16:01:08] <Tobbi> And we have this: https://github.com/SuperTux/supertux/blob/master/src/worldmap/worldmap.cpp#L1078
+[2016/01/02 16:01:16] <polyphagia> oo
+[2016/01/02 16:01:18] <Tobbi> So, either illegal position or the table could not be saved.
+[2016/01/02 16:01:24] <polyphagia> he said it happened every time Tobbi
+[2016/01/02 16:01:27] <polyphagia> so probably the latter
+[2016/01/02 16:01:32] <Tobbi> hmm...
+[2016/01/02 16:01:52] <Tobbi> wait, it's in load_state...
+[2016/01/02 16:01:58] <Tobbi> which happens when a worldmap gets loaded.
+[2016/01/02 16:02:07] <Tobbi> which happens when he exits from the game.
+[2016/01/02 16:02:08] <Tobbi> makes sense.
+[2016/01/02 16:02:48] <Not-e81f> [02supertux] 07tobbi commented on issue 03#318: Always in start position on map - 13http://git.io/vut3x
+[2016/01/02 16:03:26] <Tobbi> polyphagia: On the other hand: if the worldmap state doesn't get saved that would mean he'd be unable to finish any levels...
+[2016/01/02 16:04:03] <polyphagia> yeah dunno, it's just speculation. hopefully he provides some logs soon :P
+[2016/01/02 16:04:16] <Tobbi> yup
+[2016/01/02 16:04:22] <polyphagia> hm
+[2016/01/02 16:04:32] <polyphagia> i'm in a dark level, but the enemies turn bright on their death sprite :P
+[2016/01/02 16:06:48] <Tobbi> polyphagia: That's because the falling layer is not calculated correctly.
+[2016/01/02 16:06:52] <Tobbi> I have had trouble with that in the past.
+[2016/01/02 16:07:28] <Tobbi> Believe me, it's no fun finding out where to draw a badguy on death so that it doesn't show secret area tilemaps.
+[2016/01/02 16:09:44] <Tobbi> mt: What about this? https://github.com/SuperTux/supertux/pull/297
+[2016/01/02 16:09:45] <Tobbi> I haven
+[2016/01/02 16:09:49] <Tobbi> 't checked PRs in a while.
+[2016/01/02 16:12:42] @ stewboy joined channel #supertux
