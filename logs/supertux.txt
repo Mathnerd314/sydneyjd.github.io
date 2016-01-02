@@ -36023,3 +36023,22 @@
 [2016/01/02 13:59:12] <polyphagia> ic well it makes the most sense to me
 [2016/01/02 13:59:24] <polyphagia> some of the later SMB games even had multidirectional pipes
 [2016/01/02 13:59:35] <polyphagia> although mostly as a transitional effect
+[2016/01/02 14:00:58] <Karkus> multidirectional? As in, both backwards and forwards?
+[2016/01/02 14:01:04] <Karkus> Or, like a fork?
+[2016/01/02 14:01:15] <Karkus> polyphagia: ^
+[2016/01/02 14:01:29] <polyphagia> no forks, just going in NESW
+[2016/01/02 14:01:49] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#315: Sleeping Mr Spikey's need thier own melting sprite - 13http://git.io/vuLD7
+[2016/01/02 14:02:19] <Karkus> polyphagia: Can you link me a video of this?
+[2016/01/02 14:02:29] <polyphagia> i'll try and find one yeah
+[2016/01/02 14:02:35] <mt> levels have ±x or ±y (possibly also ±z for 3D), not NESW
+[2016/01/02 14:03:31] <polyphagia> north is y + 1, x
+[2016/01/02 14:03:33] <polyphagia> south is y - 1, x
+[2016/01/02 14:03:35] <polyphagia> etc
+[2016/01/02 14:04:08] <mt> you can't speak of NESW unless you're looking from the top
+[2016/01/02 14:04:21] <polyphagia> plenty of GUI toolkits use NESW
+[2016/01/02 14:04:32] <polyphagia> west is x - 1, east is x + 1
+[2016/01/02 14:04:34] <mt> or unless you have some very strange magnetic fields simulated in the game
+[2016/01/02 14:04:38] <polyphagia> north is y - 1, south is y + 1
+[2016/01/02 14:05:00] <polyphagia> from tux's 2d perspective
+[2016/01/02 14:05:09] <polyphagia> well from your perspective watching tux
+[2016/01/02 14:06:00] <polyphagia> hmm Karkus i don't think they were actually multidirectional, it must have just been for transitions
