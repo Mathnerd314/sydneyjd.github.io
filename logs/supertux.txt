@@ -36042,3 +36042,5 @@
 [2016/01/02 14:05:00] <polyphagia> from tux's 2d perspective
 [2016/01/02 14:05:09] <polyphagia> well from your perspective watching tux
 [2016/01/02 14:06:00] <polyphagia> hmm Karkus i don't think they were actually multidirectional, it must have just been for transitions
+[2016/01/02 14:18:46] @ Quit: lumidify: Ping timeout: 250 seconds
+[2016/01/02 14:23:45] <grumbel> MarioWorld had 45° pipes used as canons: http://cdn.wikimg.net/strategywiki/images/a/a4/SMW-CI1-2.png
