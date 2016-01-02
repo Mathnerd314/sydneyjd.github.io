@@ -35811,3 +35811,29 @@
 [2016/01/02 10:24:18] @ Mode +o grumbel by ChanServ
 [2016/01/02 10:29:16] <Karkus> head8debian: On red bot, can you ignore Not-e81f?
 [2016/01/02 10:29:23] <Karkus> Actually, maybe not..
+[2016/01/02 10:31:30] <Tobbi> I'm really having trouble finding that python wrapper.
+[2016/01/02 10:32:16] <Tobbi> Karkus: there is this: http://www.py2exe.org/
+[2016/01/02 10:32:51] <Karkus> Tobbi: Yes, I will look into that, but didn't leyyin suggest something else?
+[2016/01/02 10:32:59] <Tobbi> hmm, I don't know...
+[2016/01/02 10:33:07] <Tobbi> If I could remember...well...let's see...
+[2016/01/02 10:33:11] <lumidify> There is http://cx-freeze.sourceforge.net/.
+[2016/01/02 10:34:09] <Tobbi> Oh, that website looks familiar as well.
+[2016/01/02 10:36:16] <Karkus> Tobbi: This is what leyyin said: http://www.pyinstaller.org/
+[2016/01/02 10:36:44] <Tobbi> Karkus: Okay, maybe let's go with this then.
+[2016/01/02 10:36:59] <Karkus> lumidify: Any experience with this?
+[2016/01/02 10:37:12] <Karkus> cx_freeze
+[2016/01/02 10:37:18] <lumidify> Not really, I just fiddled around with it ages ago.
+[2016/01/02 10:37:22] <lumidify> Sorry.
+[2016/01/02 10:37:31] <Karkus> lumidify: No problem.
+[2016/01/02 10:37:40] <Karkus> Research time.
+[2016/01/02 10:37:53] <grumbel> I have used cx_freeze in the past
+[2016/01/02 10:38:24] <grumbel> It works reasonably well, but creates rather ugly directories, as all the libaries are scattered around in the top level directory
+[2016/01/02 10:38:37] <grumbel> Not very user friendly, but gets the job done
+[2016/01/02 10:38:56] <lumidify> http://cx-freeze.readthedocs.org/en/latest/
+[2016/01/02 10:39:13] <grumbel> Compatibility is also a problem, some of the Python exe builders come with Qt4 build in, some come with nothing at all, some support Python3, some only Python2, etc.
+[2016/01/02 10:39:38] <Tobbi> pyinstaller claims to have "intelligent support for many packages" and that includes pyqt3
+[2016/01/02 10:39:40] <grumbel> Has been over a year since I looked at them, so they might have cought up in the meantime
+[2016/01/02 10:39:49] <Tobbi> eeh 4 and 5
+[2016/01/02 10:40:31] <grumbel> Also seems to have Python3 support
+[2016/01/02 10:42:22] <grumbel> If pyinstall can deal with Qt5, we could update the flexlay code base to Qt5, that was one of the main reasons why I stayed with Qt4
+[2016/01/02 10:43:04] <Karkus> grumbel: "PyQt5	OK	Full support, including plugins." https://github.com/pyinstaller/pyinstaller/wiki/Supported-Packages
