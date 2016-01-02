@@ -35803,3 +35803,11 @@
 [2016/01/02 10:07:42] <Tobbi> :D
 [2016/01/02 10:08:31] <Hume2> Anyway I've updated the grammar in Hume's Worlds.
 [2016/01/02 10:09:59] <Tobbi> Alright.
+[2016/01/02 10:23:06] <Karkus> Tobbi: What was that Windows executable creator (from Python 3) which leyyin suggested?
+[2016/01/02 10:23:18] <Tobbi> Karkus: Oh, I would need to check the logs.
+[2016/01/02 10:23:23] <Tobbi> I really can't remember.
+[2016/01/02 10:23:29] <Karkus> Tobbi: I will look
+[2016/01/02 10:24:18] @ grumbel joined channel #supertux
+[2016/01/02 10:24:18] @ Mode +o grumbel by ChanServ
+[2016/01/02 10:29:16] <Karkus> head8debian: On red bot, can you ignore Not-e81f?
+[2016/01/02 10:29:23] <Karkus> Actually, maybe not..
