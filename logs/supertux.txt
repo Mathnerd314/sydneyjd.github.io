@@ -35915,3 +35915,36 @@
 [2016/01/02 11:46:22] <Tobbi> master of the universe.
 [2016/01/02 11:46:32] @ claymore2 joined channel #supertux
 [2016/01/02 11:58:17] @ Quit: ced117: Ping timeout: 246 seconds
+[2016/01/02 12:03:29] <mt> alket: good enough to declare it as a bugfix?
+[2016/01/02 12:03:38] <mt> and merge it?
+[2016/01/02 12:04:05] <Karkus> mt: No, increase the size of the Pipe fix tilemap
+[2016/01/02 12:04:18] <mt> increase the size?
+[2016/01/02 12:04:40] <Karkus> That's why it's not working, because it isn't big enough.
+[2016/01/02 12:05:00] <Karkus> mt: To be fair, https://github.com/SuperTux/supertux/issues/177
+[2016/01/02 12:05:13] <Tobbi> this doesn't make any sense: https://github.com/SuperTux/supertux/blob/master/src/supertux/sector.cpp#L1225
+[2016/01/02 12:06:16] <mt> Karkus: a tilemap always has the same size as the sector
+[2016/01/02 12:06:20] <Karkus> Tobbi: Remove it, see what happens :P
+[2016/01/02 12:06:29] <Tobbi> Karkus: I'd rather not :D
+[2016/01/02 12:06:43] <Karkus> Tobbi: Locally, just to test? :P
+[2016/01/02 12:06:44] <Tobbi> Karkus: basically, it looks like they wanted a invincible warning sound, but there is none :D
+[2016/01/02 12:06:53] <Tobbi> hm...
+[2016/01/02 12:07:05] <Karkus> Tobbi: Ah, we need that!
+[2016/01/02 12:07:20] <Tobbi> Hmm, do we have a sound in the repo?
+[2016/01/02 12:07:41] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#177: Pipes Need to Be Implemented - 13http://git.io/vuLZD
+[2016/01/02 12:07:59] <Karkus> Tobbi: Let me see...
+[2016/01/02 12:08:25] <mt> Karkus: what do you mean with increase the size of a tilemap
+[2016/01/02 12:08:37] <Tobbi> Looks like we do not.
+[2016/01/02 12:08:49] <Karkus> mt: Increase the number of tiles which hide tux
+[2016/01/02 12:09:04] <mt> oh
+[2016/01/02 12:09:05] <Karkus> You've done 2 high, increase to 3 or four.
+[2016/01/02 12:09:07] <polyphagia> is the warning music just sped up?
+[2016/01/02 12:10:29] <Karkus> polyphagia: It warns the player that their invincibility is ending
+[2016/01/02 12:10:37] <polyphagia> ohh
+[2016/01/02 12:10:38] <alket> mt: yes
+[2016/01/02 12:11:37] @ ced117 joined channel #supertux
+[2016/01/02 12:12:24] <Tobbi> But currently, there is none, right?
+[2016/01/02 12:12:28] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#177: Pipes Need to Be Implemented - 13http://git.io/vuLn2
+[2016/01/02 12:12:42] <Karkus> Tobbi: Not that I can find, no.
+[2016/01/02 12:12:46] <Tobbi> hmm, right.
+[2016/01/02 12:13:31] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#177: Pipes Need to Be Implemented - 13http://git.io/vuLnD
+[2016/01/02 12:14:17] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#317: Igloo becomes invisible when Tux is a couple of tiles below it - 13http://git.io/vuLnj
