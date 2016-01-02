@@ -35510,3 +35510,24 @@
 [2016/01/02 04:49:58] <polyphag1> is there a "rotten egg" item? if not, what do you guys think?
 [2016/01/02 04:53:42] @ Quit: VargaD: Ping timeout: 250 seconds
 [2016/01/02 04:56:23] @ VargaD joined channel #supertux
+[2016/01/02 05:00:26] <mt> what would that do
+[2016/01/02 05:04:54] <snadge> how do i find the hidden levels in bonus island 3?
+[2016/01/02 05:08:47] <mt> search better
+[2016/01/02 05:09:18] <snadge> i've pretty much wandered around the whole map
+[2016/01/02 05:09:37] <mt> there's one level not on the main path. find out how to access it and then you'll also be able to access to other secret levels
+[2016/01/02 05:09:40] <snadge> now im trying to understand how worldmap.stwm works ;)
+[2016/01/02 05:10:03] <snadge> oh so there is a level i haven't played thats visible
+[2016/01/02 05:10:04] <mt> well you could open that in the C# editor (possibly also flexlay)
+[2016/01/02 05:10:10] <mt> yes
+[2016/01/02 05:10:22] <mt> on the very right
+[2016/01/02 05:10:31] <mt> (is that east in the game?)
+[2016/01/02 05:13:28] <polyphag1> mt: like the poison mushroom in smb2
+[2016/01/02 05:13:32] <polyphag1> the japanese one
+[2016/01/02 05:13:36] <polyphag1> hurt you :P
+[2016/01/02 05:13:42] <polyphag1> but it comes out of a regular ? box
+[2016/01/02 05:13:51] <polyphag1> i think a green tinted egg would work
+[2016/01/02 05:14:13] <mt> LMH has a death-flower on their worldmap
+[2016/01/02 05:14:20] <polyphag1> oh nice
+[2016/01/02 05:14:23] <polyphag1> does it move though?
+[2016/01/02 05:14:43] <mt> it behaves just like fire-, air-, earth- or ice- flower
+[2016/01/02 05:14:56] <mt> except that it kills/shrinks you
