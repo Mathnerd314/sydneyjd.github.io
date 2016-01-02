@@ -36153,3 +36153,17 @@
 [2016/01/02 16:09:45] <Tobbi> I haven
 [2016/01/02 16:09:49] <Tobbi> 't checked PRs in a while.
 [2016/01/02 16:12:42] @ stewboy joined channel #supertux
+[2016/01/02 16:15:28] @ Quit: alket: Read error: Connection reset by peer
+[2016/01/02 16:15:43] @ alket joined channel #supertux
+[2016/01/02 16:25:28] <Not-e81f> [02supertux] 07Hume2 synchronize pull request 03#269: WIP Level Editor - 13http://git.io/vEe13
+[2016/01/02 16:25:30] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99870158
+[2016/01/02 16:25:32] <Not-e81f> [02supertux] 07Hume2 pushed 0372 commits to 03editor [+66/-2/±823] 13http://git.io/vutcg
+[2016/01/02 16:25:33] <Not-e81f> [02supertux] 07Hume2 03df60855 - Save level method
+[2016/01/02 16:25:35] <Not-e81f> [02supertux] 07Hume2 036fa0484 - Editor select level menu
+[2016/01/02 16:25:37] <Not-e81f> [02supertux] 07Hume2 0395e896d - Level editor can load a level.
+[2016/01/02 16:25:38] <Not-e81f> [02supertux] ... and 69 more commits.
+[2016/01/02 16:25:39] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99870175
+[2016/01/02 16:25:41] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/230
+[2016/01/02 16:25:42] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/231
+[2016/01/02 16:26:29] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99870158
+[2016/01/02 16:29:22] @ Quit: Hume2: Quit: Page closed
