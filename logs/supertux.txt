@@ -35841,3 +35841,7 @@
 [2016/01/02 10:47:22] <grumbel> python3-pyqt5 bindings also seem to be in Ubuntu14.04LTS
 [2016/01/02 10:50:00] @ Quit: ced117: Ping timeout: 264 seconds
 [2016/01/02 10:58:08] @ Quit: nerdopolis_: Ping timeout: 256 seconds
+[2016/01/02 11:04:11] @ ced117 joined channel #supertux
+[2016/01/02 11:12:40] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/02 11:13:08] @ Tobbi joined channel #supertux
+[2016/01/02 11:13:09] @ Mode +o Tobbi by ChanServ
