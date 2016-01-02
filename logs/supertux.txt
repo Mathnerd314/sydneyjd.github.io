@@ -36009,3 +36009,5 @@
 [2016/01/02 13:05:17] <polyphagia> but yeah i like that idea, especially changing directions
 [2016/01/02 13:13:12] <Not-e81f> [02supertux] 07n3rdopolis commented on issue 03#315: Sleeping Mr Spikey's need thier own melting sprite - 13http://git.io/vuLay
 [2016/01/02 13:14:34] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#315: Sleeping Mr Spikey's need thier own melting sprite - 13http://git.io/vuLap
+[2016/01/02 13:17:18] @ Quit: alket: Quit: Good Night :)
+[2016/01/02 13:17:33] @ alket joined channel #supertux
