@@ -36204,3 +36204,4 @@
 [2016/01/02 17:37:10] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#273: Allow changing volume - 13http://git.io/vEL5Z
 [2016/01/02 17:41:58] @ Quit: Karkus: Remote host closed the connection
 [2016/01/02 17:44:53] @ Quit: stewboy: Read error: Connection reset by peer
+[2016/01/02 18:37:32] @ tux|dude joined channel #supertux
