@@ -35474,3 +35474,10 @@
 [2016/01/01 20:15:56] @ Quit: stewboy: Read error: Connection reset by peer
 [2016/01/01 20:35:49] @ Quit: alket: Quit: Good Night :)
 [2016/01/01 20:47:35] @ Quit: tuxdev_: Ping timeout: 264 seconds
+[2016/01/01 21:18:05] @ Wuzzy2 joined channel #supertux
+[2016/01/01 21:21:35] @ Quit: Wuzzy: Ping timeout: 256 seconds
+[2016/01/01 21:26:23] <snadge> grr.. think fast or die :P
+[2016/01/01 21:26:41] <snadge> if you cant get through the first bit big.. you cant break the blocks to skip the bit with the 3 spiky guys (not sure what they're called)
+[2016/01/01 21:27:15] <snadge> and its really hard to get through the first bit without touching one of the bouncing things
+[2016/01/01 21:27:23] <snadge> horrible level :P
+[2016/01/01 21:27:48] <snadge> fortunately its not compulsory to get passed it to access other levels.. so someone was kind enough to design the world map that way
