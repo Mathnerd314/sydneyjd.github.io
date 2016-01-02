@@ -35491,3 +35491,4 @@
 [2016/01/01 21:58:30] <snadge> got the furthest i've ever had in it.. died
 [2016/01/01 22:06:25] <head8deb1an> snadge: Thats why they are contributor levels.
 [2016/01/01 22:07:00] <head8deb1an> They are playable and decent though, or they wouldnt be in our repos.
+[2016/01/01 22:21:21] <snadge> yeah the actual game was relatively easy
