@@ -35457,3 +35457,14 @@
 [2016/01/01 18:57:00] @ Quit: stewboy: Ping timeout: 250 seconds
 [2016/01/01 18:58:01] @ head8deb1an joined channel #supertux
 [2016/01/01 18:59:32] @ nerdopolis_ joined channel #supertux
+[2016/01/01 19:00:22] @ Quit: head8debian: Ping timeout: 240 seconds
+[2016/01/01 19:00:23] @ Quit: Tobbi: Ping timeout: 240 seconds
+[2016/01/01 19:00:23] @ Quit: mark_otaris: Ping timeout: 240 seconds
+[2016/01/01 19:00:24] @ Quit: datahead7777: Ping timeout: 240 seconds
+[2016/01/01 19:00:27] @ Quit: nerdopolis: Ping timeout: 240 seconds
+[2016/01/01 19:00:27] @ Quit: xnrand: Ping timeout: 240 seconds
+[2016/01/01 19:00:27] @ Quit: polyphag1: Ping timeout: 240 seconds
+[2016/01/01 19:00:33] @ polyphag1 joined channel #supertux
+[2016/01/01 19:00:42] @ mark_otaris joined channel #supertux
+[2016/01/01 19:00:42] @ stewboy joined channel #supertux
+[2016/01/01 19:01:35] @ xnrand joined channel #supertux
