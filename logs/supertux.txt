@@ -35912,3 +35912,6 @@
 [2016/01/02 11:39:46] <mt> (that's why I want it to be tested)
 [2016/01/02 11:42:06] <Not-e81f> [02supertux] 07alketii commented on issue 03#298: Bug in "Bad Guys Stink" - 13http://git.io/vuLmG
 [2016/01/02 11:42:11] <alket> mt:  ^
+[2016/01/02 11:46:22] <Tobbi> master of the universe.
+[2016/01/02 11:46:32] @ claymore2 joined channel #supertux
+[2016/01/02 11:58:17] @ Quit: ced117: Ping timeout: 246 seconds
