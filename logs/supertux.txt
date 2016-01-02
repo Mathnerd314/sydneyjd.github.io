@@ -35593,3 +35593,23 @@
 [2016/01/02 08:13:51] @ Tobbi joined channel #supertux
 [2016/01/02 08:13:52] @ Mode +o Tobbi by ChanServ
 [2016/01/02 08:14:23] <kneekoo> can anyone please help me with string #30 in Incubator? that English doesn't make much sense: https://www.transifex.com/arctic-games/supertux/viewstrings/#en/incubator/68339475
+[2016/01/02 08:15:32] <mt> Also wanted to translate it but it's a weird text
+[2016/01/02 08:15:41] <mt> Maybe play the level?
+[2016/01/02 08:15:56] <kneekoo> that takes way too much time
+[2016/01/02 08:16:17] <mt> skip it?
+[2016/01/02 08:16:34] <kneekoo> besides, if it's part of some story it has a certain context
+[2016/01/02 08:17:35] <kneekoo> well, if we can't fix that in English I'll just translate as I see fit and fix it later if needed
+[2016/01/02 08:17:53] <kneekoo> I don't like leaving untranslated text
+[2016/01/02 08:18:04] <mt> kneekoo: what level is it? (transifex should display the file name where it's in)
+[2016/01/02 08:18:35] <kneekoo> let me check
+[2016/01/02 08:18:53] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/99816247
+[2016/01/02 08:18:54] <mt> nvm, long.stl (A long adventure)
+[2016/01/02 08:19:08] <head8deb1an> kneekoo: Happy new year to you as well.
+[2016/01/02 08:19:31] <kneekoo> data/levels/incubator/long.stl:1579
+[2016/01/02 08:19:46] <kneekoo> thank you, head8deb1an :)
+[2016/01/02 08:21:04] @ Mode +o head8deb1an by mt
+[2016/01/02 08:23:10] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/228
+[2016/01/02 08:26:19] <snadge> oh my god.. a long adventure
+[2016/01/02 08:26:26] <snadge> i need a beer after that.. that was epic
+[2016/01/02 08:27:13] <head8deb1an> snadge: Heh.
+[2016/01/02 08:29:56] @ Wuzzy joined channel #supertux
