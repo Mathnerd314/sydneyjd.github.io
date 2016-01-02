@@ -35581,3 +35581,4 @@
 [2016/01/02 06:24:58] @ claymore2 joined channel #supertux
 [2016/01/02 06:46:09] @ Tobbi joined channel #supertux
 [2016/01/02 06:46:10] @ Mode +o Tobbi by ChanServ
+[2016/01/02 07:44:18] @ Quit: Tobbi: Remote host closed the connection
