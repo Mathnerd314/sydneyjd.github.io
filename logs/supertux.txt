@@ -36177,3 +36177,30 @@
 [2016/01/02 17:09:12] @ Quit: Tobbi: 
 [2016/01/02 17:26:46] @ Quit: swift110: Quit: Leaving
 [2016/01/02 17:29:58] @ Quit: claymore2: Quit: Leaving
+[2016/01/02 17:31:05] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#314: Option to enter ghost mode from cheat menu - 13http://git.io/vutKa
+[2016/01/02 17:32:13] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#318: Always in start position on map - 13http://git.io/vutKF
+[2016/01/02 17:33:36] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#318: Always in start position on map - 13http://git.io/vutY3
+[2016/01/02 17:33:38] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#318: Always in start position on map - 13http://git.io/vutY3
+[2016/01/02 17:33:39] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#318: Always in start position on map - 13http://git.io/vutY3
+[2016/01/02 17:33:41] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#318: Always in start position on map - 13http://git.io/vutY3
+[2016/01/02 17:33:42] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#318: Always in start position on map - 13http://git.io/vutY3
+[2016/01/02 17:34:00] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#304: Freeze after changing volume/opening activities in fullscreen OpenGL mode - 13http://git.io/vEDjp
+[2016/01/02 17:34:27] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#302: Update SuperTux Wiki - 13http://git.io/vEDWI
+[2016/01/02 17:34:46] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#301: Bug in Secret area of Bonus Island III - 13http://git.io/vEMH8
+[2016/01/02 17:35:06] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#291: Language names should be displayed in their language instead of in English - 13http://git.io/vEWOX
+[2016/01/02 17:35:30] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#288: Allow addons to be manually installed easily again - 13http://git.io/vEZUT
+[2016/01/02 17:35:32] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#288: Allow addons to be manually installed easily again - 13http://git.io/vEZUT
+[2016/01/02 17:35:53] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#284: 0.4 crashes on startup on Mac OS X 10.7 - 13http://git.io/vEsFb
+[2016/01/02 17:35:55] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#284: 0.4 crashes on startup on Mac OS X 10.7 - 13http://git.io/vEsFb
+[2016/01/02 17:36:15] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#276: Looping sounds don't stop when pausing the game - 13http://git.io/vEt1k
+[2016/01/02 17:36:17] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#276: Looping sounds don't stop when pausing the game - 13http://git.io/vEt1k
+[2016/01/02 17:36:18] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#276: Looping sounds don't stop when pausing the game - 13http://git.io/vEt1k
+[2016/01/02 17:36:37] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#274: Positional audio exaggerated - 13http://git.io/vEtGP
+[2016/01/02 17:36:38] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#274: Positional audio exaggerated - 13http://git.io/vEtGP
+[2016/01/02 17:36:40] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#274: Positional audio exaggerated - 13http://git.io/vEtGP
+[2016/01/02 17:37:06] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#273: Allow changing volume - 13http://git.io/vEL5Z
+[2016/01/02 17:37:07] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#273: Allow changing volume - 13http://git.io/vEL5Z
+[2016/01/02 17:37:09] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#273: Allow changing volume - 13http://git.io/vEL5Z
+[2016/01/02 17:37:10] <Not-e81f> [02supertux] 07Karkus476 labeled issue 03#273: Allow changing volume - 13http://git.io/vEL5Z
+[2016/01/02 17:41:58] @ Quit: Karkus: Remote host closed the connection
+[2016/01/02 17:44:53] @ Quit: stewboy: Read error: Connection reset by peer
