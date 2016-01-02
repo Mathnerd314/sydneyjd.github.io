@@ -36052,3 +36052,33 @@
 [2016/01/02 14:50:06] <polyphagia> i think an actual canon would be a neat object
 [2016/01/02 14:50:22] <polyphagia> although maybe something that provided more to the gameplay
 [2016/01/02 14:50:46] <polyphagia> like those enemies that eat you and spit you out
+[2016/01/02 15:01:13] <mt> a canon you can enter?
+[2016/01/02 15:02:44] <grumbel> You enter via a normal vertical pipe and then get shoot out the 45° end
+[2016/01/02 15:03:18] <grumbel> That said, I wouldn't spend to much effort implementing that, as it doesn't really add all that much to the gameplay
+[2016/01/02 15:03:56] <grumbel> We also don't have any kind of advanced air-mechanics, so it would be a little useless
+[2016/01/02 15:03:59] <grumbel> Mario had a cape
+[2016/01/02 15:06:42] <polyphagia> yeah i was going to say
+[2016/01/02 15:07:01] <polyphagia> it'd be great to have a flying item, but that's not really a priority or anything
+[2016/01/02 15:07:37] <Karkus> What about wall-kicking? That could be a part of the earth power-up
+[2016/01/02 15:07:59] <polyphagia> yeah wall jumps would be really cool
+[2016/01/02 15:08:01] <Karkus> Or maybe if you get 5 flowers of the same type you could become a super version?
+[2016/01/02 15:08:09] <polyphagia> wall jumps would be excellent for secrets
+[2016/01/02 15:08:15] <polyphagia> Karkus: like mega mario
+[2016/01/02 15:08:18] <polyphagia> :P
+[2016/01/02 15:08:25] <polyphagia> the extra large one from the DS version
+[2016/01/02 15:08:46] <polyphagia> or maybe we could implement an item that makes tux tiny as well :D
+[2016/01/02 15:08:49] <Karkus> polyphagia: Well, if you get 5 fire flowers, you could launch huge fireballs, idk
+[2016/01/02 15:09:30] <polyphagia> maybe be able to launch two at once  Karkus
+[2016/01/02 15:09:37] <polyphagia> or fireballs that could hit through two enemies
+[2016/01/02 15:09:39] <polyphagia> before disappearing
+[2016/01/02 15:09:42] <polyphagia> instead of one
+[2016/01/02 15:09:51] <polyphagia> dunno
+[2016/01/02 15:09:53] <Karkus> polyphagia: You can fire two fireballs anyway
+[2016/01/02 15:10:00] <polyphagia> well more than two :P
+[2016/01/02 15:10:03] <mt> let's focus on getting 0.4.1 done
+[2016/01/02 15:10:10] <mt> then see /topic
+[2016/01/02 15:10:19] <Karkus> polyphagia: The more fire flowers you collect, the more fireballs you can fire :P
+[2016/01/02 15:10:20] <polyphagia> yeah sorry for the distractions
+[2016/01/02 15:10:30] <Karkus> polyphagia: That already exists :P
+[2016/01/02 15:10:35] <Karkus> mt: Agreed
+[2016/01/02 15:10:39] <polyphagia> oh really? that's great
