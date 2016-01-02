@@ -36082,3 +36082,17 @@
 [2016/01/02 15:10:30] <Karkus> polyphagia: That already exists :P
 [2016/01/02 15:10:35] <Karkus> mt: Agreed
 [2016/01/02 15:10:39] <polyphagia> oh really? that's great
+[2016/01/02 15:15:21] @ Quit: lumidify: Quit: Leaving
+[2016/01/02 15:16:30] <mt> https://github.com/SuperTux/supertux/issues/236 <-- not sure this is really optimal because it'd require to annoy translators for the bugfix release
+[2016/01/02 15:16:49] <head8debian> We are having a bugfix release?
+[2016/01/02 15:16:57] <mt> 0.4.1
+[2016/01/02 15:17:00] <mt> sure
+[2016/01/02 15:17:13] <head8debian> Figures...
+[2016/01/02 15:17:20] <mt> or do you want to wait for 0.5.0 to release all the fixes for the bugs?
+[2016/01/02 15:18:02] <head8debian> mt: No, i wasnt thinking right at the moment...
+[2016/01/02 15:18:24] <head8debian> Or as some people would put it, a brain fart. :p
+[2016/01/02 15:22:58] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#291: Language names should be displayed in their language instead of in English - 13http://git.io/vutUb
+[2016/01/02 15:24:18] @ swift110 joined channel #supertux
+[2016/01/02 15:25:48] @ Quit: swift110: Changing host
+[2016/01/02 15:25:48] @ swift110 joined channel #supertux
+[2016/01/02 15:27:58] <Karkus> Hume2: Do we have bistable switches?
