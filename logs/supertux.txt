@@ -36167,3 +36167,7 @@
 [2016/01/02 16:25:42] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/231
 [2016/01/02 16:26:29] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99870158
 [2016/01/02 16:29:22] @ Quit: Hume2: Quit: Page closed
+[2016/01/02 16:36:04] @ ced117 joined channel #supertux
+[2016/01/02 16:38:03] @ Quit: grumbel: Quit: Ex-Chat
+[2016/01/02 16:38:31] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99870175
+[2016/01/02 16:39:10] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/99870158
