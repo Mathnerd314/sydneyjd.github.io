@@ -35502,3 +35502,8 @@
 [2016/01/02 03:41:20] <polyphag1> hey snadge
 [2016/01/02 03:41:50] <polyphag1> hi lumidify and tuxdev
 [2016/01/02 03:56:13] @ stewboy joined channel #supertux
+[2016/01/02 04:07:52] <mt> hi
+[2016/01/02 04:08:15] <mt> re redirecting the add-on repo: I'm not sure you can make GitHub set up an redirect
+[2016/01/02 04:08:36] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/01/02 04:08:54] <mt> what I thought would be nice is some kind of RESTful API for accessing addons
+[2016/01/02 04:14:44] <Not-e81f> [02supertux] 07JohJakob starred 03supertux - 13http://git.io/vuk9R
