@@ -35570,3 +35570,6 @@
 [2016/01/02 05:43:23] <mt> so if someone misses them, they're there :P
 [2016/01/02 05:44:05] @ Hume2 joined channel #supertux
 [2016/01/02 05:44:06] @ Mode +v Hume2 by ChanServ
+[2016/01/02 05:46:19] @ Quit: Hume2: Client Quit
+[2016/01/02 05:47:04] @ Hume2 joined channel #supertux
+[2016/01/02 05:47:05] @ Mode +v Hume2 by ChanServ
