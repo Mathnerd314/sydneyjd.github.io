@@ -35579,3 +35579,5 @@
 [2016/01/02 06:14:43] @ lumidify joined channel #supertux
 [2016/01/02 06:14:44] @ Quit: stewboy: Read error: Connection reset by peer
 [2016/01/02 06:24:58] @ claymore2 joined channel #supertux
+[2016/01/02 06:46:09] @ Tobbi joined channel #supertux
+[2016/01/02 06:46:10] @ Mode +o Tobbi by ChanServ
