@@ -35845,3 +35845,18 @@
 [2016/01/02 11:12:40] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/02 11:13:08] @ Tobbi joined channel #supertux
 [2016/01/02 11:13:09] @ Mode +o Tobbi by ChanServ
+[2016/01/02 11:15:22] <Not-e81f> [02supertux] 07piger starred 03supertux - 13http://git.io/vuLTh
+[2016/01/02 11:21:07] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vuLIv
+[2016/01/02 11:21:08] <Not-e81f> [02supertux] 07maxteufel closed issue 03#243: 0.4.0 RELEASE TODO LIST - 13http://git.io/vRv98
+[2016/01/02 11:22:24] <mt> can we look into getting https://github.com/SuperTux/supertux/milestones/0.4.1 done?
+[2016/01/02 11:22:41] <mt> I guess we should release a bugfix release soon
+[2016/01/02 11:24:08] <Tobbi> Hrm.
+[2016/01/02 11:24:16] <Tobbi> Some of these things on the list are not very...
+[2016/01/02 11:24:18] <Tobbi> easy.
+[2016/01/02 11:27:00] <mt> https://github.com/SuperTux/supertux/issues/312 could be delayed until editor is integrated
+[2016/01/02 11:27:38] <mt> https://github.com/SuperTux/supertux/issues/305 blame giby_the_kid; make him add the missing characters until support for TTF is there
+[2016/01/02 11:28:05] <mt> https://github.com/SuperTux/supertux/pull/314 not a bugfix
+[2016/01/02 11:28:19] <polyphagia> yeah right click isn't immediately relevant until we have editor
+[2016/01/02 11:28:34] <Tobbi> mt: I wish I knew how those font glyphs are created...are they hand-drawn?
+[2016/01/02 11:28:52] <mt> https://github.com/SuperTux/supertux/issues/307 try to fix but also possible to delay until next release as it's not a feature intended for users
+[2016/01/02 11:29:30] <mt> https://github.com/SuperTux/supertux/issues/298 please test, I want to merge this (cc: alket)
