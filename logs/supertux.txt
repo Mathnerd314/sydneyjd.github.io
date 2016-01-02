@@ -35777,3 +35777,9 @@
 [2016/01/02 09:31:08] <mt> Also, use SASL >_<
 [2016/01/02 09:31:29] <mt> That will identify you regardless of your nick
 [2016/01/02 09:34:59] <Hume2> Hume's worlds can be now translated.
+[2016/01/02 09:56:35] <Hume2> ~help remind
+[2016/01/02 09:56:35] <red_bot> Hume2: reminder plugin: remind <who> [about] <message> in <time>, remind <who> [about] <message> every <time>, remind <who> [about] <message> at <time>, remind <who> no more [about] <message>, remind <who> no more. Generally <who> should be 'me', but you can remind others (nick or channel) if you have remind_others auth
+[2016/01/02 09:57:05] <Hume2> ~remind Hume2 test
+[2016/01/02 09:57:05] <red_bot> Hume2, you don't have 'remind::other::about' permissions here
+[2016/01/02 09:58:46] @ Tobbi joined channel #supertux
+[2016/01/02 09:58:46] @ Mode +o Tobbi by ChanServ
