@@ -35489,3 +35489,5 @@
 [2016/01/01 21:49:25] <snadge> i realised that whilst i've been aware of this game.. i've never finished it.. now im just trying to finish all the contrib levels
 [2016/01/01 21:58:14] <snadge> no bells in that level either.. i want to punch the person who made it
 [2016/01/01 21:58:30] <snadge> got the furthest i've ever had in it.. died
+[2016/01/01 22:06:25] <head8deb1an> snadge: Thats why they are contributor levels.
+[2016/01/01 22:07:00] <head8deb1an> They are playable and decent though, or they wouldnt be in our repos.
