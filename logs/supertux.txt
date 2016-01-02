@@ -35860,3 +35860,55 @@
 [2016/01/02 11:28:34] <Tobbi> mt: I wish I knew how those font glyphs are created...are they hand-drawn?
 [2016/01/02 11:28:52] <mt> https://github.com/SuperTux/supertux/issues/307 try to fix but also possible to delay until next release as it's not a feature intended for users
 [2016/01/02 11:29:30] <mt> https://github.com/SuperTux/supertux/issues/298 please test, I want to merge this (cc: alket)
+[2016/01/02 11:30:02] <mt> Tobbi: I think so
+[2016/01/02 11:30:07] <Tobbi> hrm.
+[2016/01/02 11:30:15] <Tobbi> I closed the 0.4.0 milestone, jsyk
+[2016/01/02 11:30:20] <mt> but we should annoy giby_the_kid as long as we don't know what we can break more
+[2016/01/02 11:30:29] <polyphagia> i wish i had a supertux sticker for my laptop :P
+[2016/01/02 11:30:56] <Tobbi> We could use donations for that ^^
+[2016/01/02 11:30:57] <mt> https://github.com/SuperTux/supertux/issues/258 seems easy to do, not really important however
+[2016/01/02 11:30:58] <alket> mt: ok
+[2016/01/02 11:30:59] <Tobbi> :D
+[2016/01/02 11:31:05] <polyphagia> yeah Tobbi i think it'd be a good idea
+[2016/01/02 11:31:13] <polyphagia> donations could be used for some new artwork and music
+[2016/01/02 11:31:24] <polyphagia> and to compensate the hardworking developers of course
+[2016/01/02 11:31:31] <giby_the_kid> Hi
+[2016/01/02 11:31:35] <polyphagia> hi friend
+[2016/01/02 11:31:37] <Tobbi> polyphagia: Problem is: We need someone who manages them. :P
+[2016/01/02 11:31:41] <Tobbi> Donations, I mean.
+[2016/01/02 11:31:42] <mt> then we'd be at the point where we don't know who takes the legal responsability for donations
+[2016/01/02 11:31:46] <polyphagia> Tobbi: SPI might be able to
+[2016/01/02 11:31:50] <Tobbi> hrm...
+[2016/01/02 11:32:04] <giby_the_kid> mt: which glyph are missing?
+[2016/01/02 11:32:09] <polyphagia> they were looking for new projects to support Tobbi
+[2016/01/02 11:32:11] <Tobbi> There are no donations. There are only voluntary contributions towards a common good cause.
+[2016/01/02 11:32:19] <polyphagia> and supertux is a staple in gnulinux :P
+[2016/01/02 11:32:20] <Tobbi> where good cause = my wellbeing.
+[2016/01/02 11:32:29] <polyphagia> fair enough
+[2016/01/02 11:32:40] <Tobbi> polyphagia: I'd use donations to pay for naked women giving me a massage.
+[2016/01/02 11:32:42] <Tobbi> :D
+[2016/01/02 11:32:47] <Tobbi> Totally supports the cause.
+[2016/01/02 11:32:50] <Tobbi> Makes me relaxed.
+[2016/01/02 11:32:55] <Tobbi> Makes me a better developer :D
+[2016/01/02 11:32:58] <polyphagia> whatever gets the work done Tobbi
+[2016/01/02 11:33:02] <Tobbi> haha
+[2016/01/02 11:33:06] <polyphagia> :D
+[2016/01/02 11:33:19] <Karkus> Changed right click -> 0.5.0
+[2016/01/02 11:33:27] <polyphagia> kk cool
+[2016/01/02 11:33:42] <Tobbi> I'm not so much in favour of the new christmas hats.
+[2016/01/02 11:33:51] <Tobbi> because the association is red = santa cap.
+[2016/01/02 11:34:03] <Tobbi> People might not be making these associations for other colours.
+[2016/01/02 11:34:21] <Tobbi> But only my 2 cents.
+[2016/01/02 11:34:45] <Tobbi> I can imagine people having the need for consistency.
+[2016/01/02 11:34:55] <mt> giby_the_kid: see the issue I mentioned
+[2016/01/02 11:37:44] <Not-e81f> [02supertux] 07alketii commented on issue 03#298: Bug in "Bad Guys Stink" - 13http://git.io/vuLq0
+[2016/01/02 11:37:45] <Not-e81f> [02supertux] 07giby commented on issue 03#305: Problems with non-ASCII characters - 13http://git.io/vuLqE
+[2016/01/02 11:37:46] <alket> mt: replied ^
+[2016/01/02 11:38:29] <mt> alket: test the fix/298 branch
+[2016/01/02 11:38:51] <mt> (commit d270ba3)
+[2016/01/02 11:38:53] <alket> ok
+[2016/01/02 11:39:06] <alket> does the latest work ? i already ran make -j4 :p
+[2016/01/02 11:39:22] <mt> it's not in master
+[2016/01/02 11:39:46] <mt> (that's why I want it to be tested)
+[2016/01/02 11:42:06] <Not-e81f> [02supertux] 07alketii commented on issue 03#298: Bug in "Bad Guys Stink" - 13http://git.io/vuLmG
+[2016/01/02 11:42:11] <alket> mt:  ^
