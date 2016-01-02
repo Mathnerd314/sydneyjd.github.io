@@ -35754,3 +35754,16 @@
 [2016/01/02 09:14:09] <red_bot> mt: no help for topic coffee
 [2016/01/02 09:14:34] <Tobbi> ...
 [2016/01/02 09:14:58] <mt> ... is sooo meaningful
+[2016/01/02 09:15:33] <Tobbi> mt: "..." means me getting annoyed with people I am normally not annoyed with.
+[2016/01/02 09:15:53] <Tobbi> I could use that with <that other guy> but then I wouldn't do anything else.
+[2016/01/02 09:16:49] <Tobbi> bbl
+[2016/01/02 09:17:33] @ Hume2 joined channel #supertux
+[2016/01/02 09:17:34] @ Mode +v Hume2 by ChanServ
+[2016/01/02 09:17:43] <Hume2> Hello again.
+[2016/01/02 09:18:35] <mt> Hume2: what's that script you use for generating levels?
+[2016/01/02 09:23:06] <Not-e81f> [02supertux] 07kernelhcy starred 03supertux - 13http://git.io/vuIXk
+[2016/01/02 09:23:37] <polyphagia> oh yeah mt i will be :D
+[2016/01/02 09:23:45] <polyphagia> i wrote two scripts to do it and one's on my github already
+[2016/01/02 09:24:01] <polyphagia> i'm going to make a level pack and put the other script up too once they're done of course :P
+[2016/01/02 09:26:55] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/02 09:29:38] <head8deb1an> mt: What?
