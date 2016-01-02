@@ -36002,3 +36002,10 @@
 [2016/01/02 12:50:45] <Karkus> mt: We need an enter animation, and sector changing too.
 [2016/01/02 12:51:12] <mt> yeah
 [2016/01/02 12:52:08] <Karkus> mt: And we can draw it all together with the editor, making it easy to create pipes
+[2016/01/02 13:01:00] <polyphagia> i think it's pretty obvious the game is inspired by mario so the pipe transportation isn't really that bad lol
+[2016/01/02 13:01:08] <polyphagia> i don't get how that's where the line is drawn :P
+[2016/01/02 13:01:15] <polyphagia> doesn't mean swimming can't be implemented in a unique manner though
+[2016/01/02 13:01:40] <polyphagia> pipes could have something to do with some sort of tub or resevoir
+[2016/01/02 13:05:17] <polyphagia> but yeah i like that idea, especially changing directions
+[2016/01/02 13:13:12] <Not-e81f> [02supertux] 07n3rdopolis commented on issue 03#315: Sleeping Mr Spikey's need thier own melting sprite - 13http://git.io/vuLay
+[2016/01/02 13:14:34] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#315: Sleeping Mr Spikey's need thier own melting sprite - 13http://git.io/vuLap
