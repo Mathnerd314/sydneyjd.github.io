@@ -35531,3 +35531,30 @@
 [2016/01/02 05:14:23] <polyphag1> does it move though?
 [2016/01/02 05:14:43] <mt> it behaves just like fire-, air-, earth- or ice- flower
 [2016/01/02 05:14:56] <mt> except that it kills/shrinks you
+[2016/01/02 05:15:05] <polyphag1> so you haven't seen something that came out of a box, does damage and moved like the egg?
+[2016/01/02 05:15:14] <snadge> i cant go east in bonus world 3
+[2016/01/02 05:15:18] <polyphag1> the death flower sounds cool though
+[2016/01/02 05:15:29] <polyphag1> i can use that in the mean time
+[2016/01/02 05:15:52] <mt> snadge: do you know where the level "The Toilette zone" is
+[2016/01/02 05:16:10] <mt> there's the entrance to the hidden area
+[2016/01/02 05:18:21] <snadge> hmm.. i dont seem to have that level
+[2016/01/02 05:19:17] <snadge> is it in the release 0.4 version?
+[2016/01/02 05:19:40] <mt> yes
+[2016/01/02 05:19:55] <mt> it's been there since Bonus Island III exists, iirc
+[2016/01/02 05:20:09] <mt> it's the very eastern level, you should see a red dot there
+[2016/01/02 05:20:50] <mt> oh actually you don't
+[2016/01/02 05:20:54] <mt> if you haven't solved it
+[2016/01/02 05:21:14] <snadge> the most eastern level is "a hilly landscape"
+[2016/01/02 05:21:33] <mt> you're very close
+[2016/01/02 05:21:40] <mt> there's a forest, right?
+[2016/01/02 05:21:41] <snadge> or "the dark castle"
+[2016/01/02 05:21:43] <snadge> yeah
+[2016/01/02 05:21:44] <mt> it's hidden in there
+[2016/01/02 05:21:56] <mt> there's a possibility to walk into the forest
+[2016/01/02 05:23:43] <snadge> found it :)
+[2016/01/02 05:23:48] <snadge> not sure how i missed that
+[2016/01/02 05:27:23] <stewboy> well, I found a hidden 'flower bonus' level, that was pretty cool
+[2016/01/02 05:27:55] <mt> polyphag1: there's a death-flower: https://urandom.eu.org/i/3cxZvDMQ.png
+[2016/01/02 05:28:27] <polyphag1> what's the title of that map pack?
+[2016/01/02 05:28:54] <stewboy> this secret level is actually kind of sickening, in the bit where the background scrolls fast
+[2016/01/02 05:30:00] <stewboy> oh wow, this secret area is huge
