@@ -35783,3 +35783,23 @@
 [2016/01/02 09:57:05] <red_bot> Hume2, you don't have 'remind::other::about' permissions here
 [2016/01/02 09:58:46] @ Tobbi joined channel #supertux
 [2016/01/02 09:58:46] @ Mode +o Tobbi by ChanServ
+[2016/01/02 10:01:04] <Hume2> ~help note
+[2016/01/02 10:01:04] <red_bot> Hume2: note <nick> <string> => stores a note (<string>) for <nick>
+[2016/01/02 10:01:17] <Hume2> ~note Hume2 test
+[2016/01/02 10:01:17] <red_bot> okies, Hume2
+[2016/01/02 10:01:22] <Hume2> test
+[2016/01/02 10:01:22] <red_bot> Hume2, you have notes! [Jan- 2 10:01] <Hume2> test
+[2016/01/02 10:04:43] <Tobbi> Hume2: If you only have a return statement in a switch case, it would exit regardless, so it doesn't need a break :P
+[2016/01/02 10:04:47] <Tobbi> That break is unreachable in that case.
+[2016/01/02 10:06:03] <Hume2> Tobbi: I know, I just thought that there's a coverity stuff or something like this.
+[2016/01/02 10:06:35] <Tobbi> Hume2: There's coverity stuff if you leave that "break" in because it complains about unreachable code, I believe.
+[2016/01/02 10:06:35] <Tobbi> :D
+[2016/01/02 10:06:50] <Hume2> Well, OK.
+[2016/01/02 10:07:06] <Tobbi> Actually, we should have a human coverity to double-check our code.
+[2016/01/02 10:07:26] <Hume2> I'm not paying this.
+[2016/01/02 10:07:31] <Hume2> :D
+[2016/01/02 10:07:31] <Tobbi> :D
+[2016/01/02 10:07:42] <Tobbi> An autist my suffice.
+[2016/01/02 10:07:42] <Tobbi> :D
+[2016/01/02 10:08:31] <Hume2> Anyway I've updated the grammar in Hume's Worlds.
+[2016/01/02 10:09:59] <Tobbi> Alright.
