@@ -36100,3 +36100,31 @@
 [2016/01/02 15:33:09] <mt> I'd close #253 if no one minds.
 [2016/01/02 15:38:35] <Hume2> Karkus: Yes, we do.
 [2016/01/02 15:44:52] <mt> Karkus: you actually can't do https://github.com/SuperTux/supertux/commit/298c7f7a55bc1a6fe2a778187789c8f9f3a96e2d unless you changed something in 2016 (we now did, but at the point you committed that, not)
+[2016/01/02 15:48:21] <Tobbi> Does the animation look smooth now or not?
+[2016/01/02 15:48:26] <Tobbi> re #253
+[2016/01/02 15:52:01] <polyphagia> i think so Tobbi
+[2016/01/02 15:52:21] <polyphagia> it looks fine on my end
+[2016/01/02 15:52:39] <polyphagia> and sorry again for missing the sprite
+[2016/01/02 15:53:51] <Tobbi> no problem.
+[2016/01/02 15:54:20] <Not-e81f> [02supertux] 07dacrhu opened issue 03#318: Always in start position on map - 13http://git.io/vutY3
+[2016/01/02 15:54:21] <Tobbi> I guess I'll close this then.
+[2016/01/02 15:54:27] <polyphagia> yeah i think it's solved
+[2016/01/02 15:54:29] <Tobbi> Oh great, another issue.
+[2016/01/02 15:54:31] <polyphagia> haha
+[2016/01/02 15:54:51] <polyphagia> that's a strange one
+[2016/01/02 15:54:58] <polyphagia> >If end of level the tux is in start position on map always.
+[2016/01/02 15:55:21] <Not-e81f> [02supertux] 07tobbi commented on issue 03#253: Integrate sprites from reTux - 13http://git.io/vutY5
+[2016/01/02 15:55:22] <Not-e81f> [02supertux] 07tobbi closed issue 03#253: Integrate sprites from reTux - 13http://git.io/vR6HX
+[2016/01/02 15:56:05] <Tobbi> Yeah, not sure why this would happen.
+[2016/01/02 15:56:13] <polyphagia> i know what he means but i've never had it happen
+[2016/01/02 15:56:15] <polyphagia> needs more details
+[2016/01/02 15:56:55] <Tobbi> I know too, but, huh? SOme data not saving correctly?
+[2016/01/02 15:56:57] <Tobbi> Unless...
+[2016/01/02 15:57:10] <Tobbi> polyphagia: It resets to home position if there's something wrong with the position.
+[2016/01/02 15:57:12] <Tobbi> one moment.
+[2016/01/02 15:57:28] <polyphagia> ah
+[2016/01/02 15:57:39] <polyphagia> would it log that?
+[2016/01/02 15:59:12] <Tobbi> Let me see...
+[2016/01/02 15:59:16] <polyphagia> mmk
+[2016/01/02 15:59:58] <polyphagia> wow this guy got almost 2000 coins from the first four levels :
+[2016/01/02 16:00:00] <polyphagia> :P
