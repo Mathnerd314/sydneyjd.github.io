@@ -35767,3 +35767,13 @@
 [2016/01/02 09:24:01] <polyphagia> i'm going to make a level pack and put the other script up too once they're done of course :P
 [2016/01/02 09:26:55] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/02 09:29:38] <head8deb1an> mt: What?
+[2016/01/02 09:30:07] <mt> you're not identified with nickserv :P
+[2016/01/02 09:30:21] @ head8deb1an is now known as head8debian
+[2016/01/02 09:30:37] @ Quit: head8debian: Changing host
+[2016/01/02 09:30:37] @ head8debian joined channel #supertux
+[2016/01/02 09:30:37] @ Mode +o head8debian by kornbluth.freenode.net
+[2016/01/02 09:30:57] <head8debian> mt: So i see.
+[2016/01/02 09:31:05] <head8debian> mt: I had an interent issue last night.
+[2016/01/02 09:31:08] <mt> Also, use SASL >_<
+[2016/01/02 09:31:29] <mt> That will identify you regardless of your nick
+[2016/01/02 09:34:59] <Hume2> Hume's worlds can be now translated.
