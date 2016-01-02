@@ -35837,3 +35837,7 @@
 [2016/01/02 10:40:31] <grumbel> Also seems to have Python3 support
 [2016/01/02 10:42:22] <grumbel> If pyinstall can deal with Qt5, we could update the flexlay code base to Qt5, that was one of the main reasons why I stayed with Qt4
 [2016/01/02 10:43:04] <Karkus> grumbel: "PyQt5	OK	Full support, including plugins." https://github.com/pyinstaller/pyinstaller/wiki/Supported-Packages
+[2016/01/02 10:45:29] <Tobbi> sounds good.
+[2016/01/02 10:47:22] <grumbel> python3-pyqt5 bindings also seem to be in Ubuntu14.04LTS
+[2016/01/02 10:50:00] @ Quit: ced117: Ping timeout: 264 seconds
+[2016/01/02 10:58:08] @ Quit: nerdopolis_: Ping timeout: 256 seconds
