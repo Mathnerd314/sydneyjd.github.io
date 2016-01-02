@@ -35485,3 +35485,7 @@
 [2016/01/01 21:30:31] <snadge> what would be really cool is if someone posted on youtube speedruns of all the test levels
 [2016/01/01 21:31:28] <snadge> wtf.. i didnt know you could pick up icecubes
 [2016/01/01 21:42:21] <head8deb1an> Hello snadge, welcome to #supertux. :)
+[2016/01/01 21:49:00] <snadge> i've been here since the 0.4 release announcement on slashdot :D
+[2016/01/01 21:49:25] <snadge> i realised that whilst i've been aware of this game.. i've never finished it.. now im just trying to finish all the contrib levels
+[2016/01/01 21:58:14] <snadge> no bells in that level either.. i want to punch the person who made it
+[2016/01/01 21:58:30] <snadge> got the furthest i've ever had in it.. died
