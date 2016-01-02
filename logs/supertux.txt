@@ -35657,3 +35657,40 @@
 [2016/01/02 08:43:36] <kneekoo> why an xdg launcher and not start it from the SuperTux main menu?
 [2016/01/02 08:44:57] <mt> I'm not sure launching external applications from SuperTux is a good idea
 [2016/01/02 08:44:59] @ alket joined channel #supertux
+[2016/01/02 08:45:23] <mt> The in-game editor will, of course, feature menu integration
+[2016/01/02 08:45:36] <mt> Also, for the external one we can't know if it's included in the game
+[2016/01/02 08:45:53] <mt> s/included in the game/installed/
+[2016/01/02 08:45:53] <red_bot> mt meant: "Also, for the external one we can't know if it's installed"
+[2016/01/02 08:47:30] <kneekoo> are the editors easy for newbies?
+[2016/01/02 08:47:43] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vuIaT
+[2016/01/02 08:47:44] <Not-e81f> [02supertux] 07Tobias Markus 032103bda - sequence.cpp: Code review
+[2016/01/02 08:47:46] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99820363
+[2016/01/02 08:47:47] <mt> I haven't used the in-game one
+[2016/01/02 08:47:48] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/229
+[2016/01/02 08:48:06] <mt> the C# one is hard because it's got tons of dependencies and requires mono
+[2016/01/02 08:48:18] <mt> flexlay is quite easy to use and portable
+[2016/01/02 08:48:30] <mt> and easy to install
+[2016/01/02 08:48:32] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99820363
+[2016/01/02 08:48:39] <kneekoo> I mean easy to make worlds/islands/levels
+[2016/01/02 08:48:43] <mt> yes
+[2016/01/02 08:49:46] <kneekoo> nice :)
+[2016/01/02 08:50:09] <Tobbi> The flexlay one will get better in terms of usability.
+[2016/01/02 08:50:16] <Tobbi> Karkus and I are working on that.
+[2016/01/02 08:50:23] <mt> installing flexlay on debian/ubuntu is `sudo apt-get install python3 python3-pyqt4`, `git clone -b develop https://github.com/SuperTux/flexlay.git` `cd flexlay` `python3 supertux-editor`
+[2016/01/02 08:50:33] <mt> if you don't want to start using advanced features
+[2016/01/02 08:50:39] <mt> flexlay should be working fine for now
+[2016/01/02 08:51:02] <mt> Tobbi: btw, I saw Tiled and it actually looked pretty interesting as well
+[2016/01/02 08:51:21] <mt> wonder how hard it would be to integrate supertux levels/worldmaps into it
+[2016/01/02 08:51:22] <Tobbi> mt: I know, but it's pretty hard to integrate advanced features.
+[2016/01/02 08:52:10] <mt> manage dotfiles using cmake (y/n)? :D # actually a serious question
+[2016/01/02 08:53:04] <Tobbi> what?
+[2016/01/02 08:53:39] <mt> I wonder if I should do that
+[2016/01/02 08:53:58] <mt> I had this as an idea for replacing those silly setup.sh scripts people usually use
+[2016/01/02 08:54:53] <Tobbi> I see...
+[2016/01/02 08:54:54] <Tobbi> Whatever...
+[2016/01/02 08:55:05] <mt> well I'll try it
+[2016/01/02 08:55:13] <Tobbi> I think we should move away from managing add-ons using lisp files
+[2016/01/02 08:55:18] <Tobbi> It's so unhandy.
+[2016/01/02 08:55:42] @ Karkus joined channel #supertux
+[2016/01/02 08:55:42] @ Mode +o Karkus by ChanServ
+[2016/01/02 08:58:18] <kneekoo> ha! the little bombs in "Bomb Squad" are so cute! :))
