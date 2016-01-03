@@ -36303,3 +36303,21 @@
 [2016/01/03 06:27:39] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99936959
 [2016/01/03 06:29:47] <Hume2> Hello, Karkus
 [2016/01/03 06:29:59] <Karkus> Hello, Hume2
+[2016/01/03 06:30:37] <Hume2> Karkus: I'm now rebasing the editor branch.
+[2016/01/03 06:30:49] <Karkus> Hume2: Instead of merge?
+[2016/01/03 06:31:07] <Hume2> Karkus: Yes.
+[2016/01/03 06:31:27] <Hume2> Karkus: Mt forced me to do that :D
+[2016/01/03 06:35:03] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99936975
+[2016/01/03 06:36:09] <Not-e81f> [02supertux] 07dacrhu commented on issue 03#318: Always in start position on map - 13http://git.io/vumRU
+[2016/01/03 06:40:31] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/99936959
+[2016/01/03 06:42:51] <Not-e81f> [02supertux] 07Hume2 synchronize pull request 03#269: WIP Level Editor - 13http://git.io/vEe13
+[2016/01/03 06:42:53] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99938181
+[2016/01/03 06:42:54] <Not-e81f> [02supertux] 07Hume2 pushed 0375 commits to 03editor [+66/-2/±828] 13http://git.io/vumEc
+[2016/01/03 06:42:56] <Not-e81f> [02supertux] 07Hume2 03aded52b - Save level method
+[2016/01/03 06:42:57] <Not-e81f> [02supertux] 07Hume2 03dbe44dd - Editor select level menu
+[2016/01/03 06:42:59] <Not-e81f> [02supertux] 07Hume2 0382763dc - Level editor can load a level.
+[2016/01/03 06:43:00] <Not-e81f> [02supertux] ... and 72 more commits.
+[2016/01/03 06:43:02] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/236
+[2016/01/03 06:43:03] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99938193
+[2016/01/03 06:43:05] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/237
+[2016/01/03 06:44:03] <Hume2> Karkus: It's rebased.
