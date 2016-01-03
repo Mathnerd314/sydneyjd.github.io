@@ -36267,3 +36267,4 @@
 [2016/01/03 03:22:45] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#318: Always in start position on map - 13http://git.io/vuqd7
 [2016/01/03 03:25:48] <mt> could we get someone to post about https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document to http://forum.freegamedev.net/viewtopic.php?f=67&t=6687
 [2016/01/03 03:28:32] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/233
+[2016/01/03 03:50:49] <mt> I actually have posted now
