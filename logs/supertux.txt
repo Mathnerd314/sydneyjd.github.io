@@ -36238,3 +36238,4 @@
 [2016/01/03 01:11:55] @ Quit: lumidify: Ping timeout: 260 seconds
 [2016/01/03 01:29:27] @ Quit: paroneayea: Remote host closed the connection
 [2016/01/03 01:29:56] @ paroneayea joined channel #supertux
+[2016/01/03 02:03:04] @ lumidify joined channel #supertux
