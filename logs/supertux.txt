@@ -36506,3 +36506,6 @@
 [2016/01/03 13:42:11] @ lumidify joined channel #supertux
 [2016/01/03 13:56:31] @ stewboy joined channel #supertux
 [2016/01/03 14:07:15] @ Quit: Karkus: Ping timeout: 240 seconds
+[2016/01/03 14:17:34] @ Karkus joined channel #supertux
+[2016/01/03 14:17:34] @ Mode +o Karkus by ChanServ
+[2016/01/03 14:22:49] @ Quit: stewboy: Read error: Connection reset by peer
