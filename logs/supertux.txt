@@ -36567,3 +36567,16 @@
 [2016/01/03 15:28:17] <Karkus> Tobbi: I just think it shouldn't have happened in the first place :D
 [2016/01/03 15:28:20] <Hume2> It can't be 'r', because it's reword.
 [2016/01/03 15:29:45] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/241
+[2016/01/03 15:30:21] @ Quit: alket: Read error: Connection reset by peer
+[2016/01/03 15:30:35] @ alket joined channel #supertux
+[2016/01/03 15:32:17] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/242
+[2016/01/03 15:33:35] <Tobbi> Failure to comply with this process will result in a cataclysmic system crash, killing everyone connected to the matrix.
+[2016/01/03 15:33:43] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99994928
+[2016/01/03 15:34:18] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/243
+[2016/01/03 15:36:23] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/99994907
+[2016/01/03 15:37:20] @ Quit: alket: Quit: Good Night :)
+[2016/01/03 15:38:36] <Not-e81f> [02supertux] 04Error. The Travis CI build could not complete due to an error - 13https://travis-ci.org/SuperTux/supertux/builds/99994928
+[2016/01/03 15:38:45] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99995137
+[2016/01/03 15:40:27] @ Quit: lumidify: Quit: Leaving
+[2016/01/03 15:42:37] <Hume2> I must go, bye!
+[2016/01/03 15:42:52] @ Quit: Hume2: Quit: Page closed
