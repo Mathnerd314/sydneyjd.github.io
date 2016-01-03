@@ -36435,3 +36435,8 @@
 [2016/01/03 11:05:24] @ Quit: Karkus: Ping timeout: 255 seconds
 [2016/01/03 11:17:56] @ lumidify joined channel #supertux
 [2016/01/03 11:24:46] <Not-e81f> [02flexlay] 07Grumbel commented on issue 03#2: TODO File - 13http://git.io/vuYwg
+[2016/01/03 11:31:04] @ Hume2 joined channel #supertux
+[2016/01/03 11:31:04] @ Mode +v Hume2 by ChanServ
+[2016/01/03 11:32:15] <Hume2> Tobbi: Did you need anything?
+[2016/01/03 11:38:02] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/03 11:40:55] @ Quit: lumidify: Ping timeout: 240 seconds
