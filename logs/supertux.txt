@@ -36516,3 +36516,5 @@
 [2016/01/03 14:44:39] @ Karkus joined channel #supertux
 [2016/01/03 14:44:39] @ Mode +o Karkus by ChanServ
 [2016/01/03 14:44:52] <Not-e81f> [02flexlay] 07Karkus476 commented on issue 03#2: TODO File - 13http://git.io/vuOgd
+[2016/01/03 14:50:44] @ Quit: kneekoo: Ping timeout: 246 seconds
+[2016/01/03 14:51:15] @ tux|dude joined channel #supertux
