@@ -36211,3 +36211,5 @@
 [2016/01/02 18:56:43] @ Quit: alket: Disconnected by services
 [2016/01/02 18:57:02] @ Drangue is now known as alket
 [2016/01/02 19:26:21] @ Quit: irungentoo: Remote host closed the connection
+[2016/01/02 21:19:46] @ Quit: Wuzzy: Ping timeout: 256 seconds
+[2016/01/02 21:20:11] @ Wuzzy joined channel #supertux
