@@ -36588,3 +36588,8 @@
 [2016/01/03 16:07:54] @ Quit: ced117: Quit: Quitte
 [2016/01/03 16:12:15] @ irungentoo joined channel #supertux
 [2016/01/03 16:33:57] @ datahead8888 joined channel #supertux
+[2016/01/03 17:17:26] <Not-e81f> [02flexlay] 07Karkus476 pushed 033 commits to 03develop [+0/-0/±8] 13http://git.io/vu3k3
+[2016/01/03 17:17:27] <Not-e81f> [02flexlay] 07Karkus 03a443d62 - Rewrote Config class
+[2016/01/03 17:17:28] <Not-e81f> [02flexlay] 07Karkus 0386fa01f - Place to save level only appears if new level is created
+[2016/01/03 17:17:30] <Not-e81f> [02flexlay] 07Karkus 0392e1c35 - Config checks attribute name is valid
+[2016/01/03 17:24:17] @ Quit: Karkus: Remote host closed the connection
