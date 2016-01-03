@@ -36239,3 +36239,5 @@
 [2016/01/03 01:29:27] @ Quit: paroneayea: Remote host closed the connection
 [2016/01/03 01:29:56] @ paroneayea joined channel #supertux
 [2016/01/03 02:03:04] @ lumidify joined channel #supertux
+[2016/01/03 02:22:30] <snadge> err hi swift.. are you the same swift who created missingno
+[2016/01/03 02:22:46] <snadge> because i did want to kill you before.. but i just finished that level.. bittersweet
