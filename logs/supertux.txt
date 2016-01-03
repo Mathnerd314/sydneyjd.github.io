@@ -36440,3 +36440,4 @@
 [2016/01/03 11:32:15] <Hume2> Tobbi: Did you need anything?
 [2016/01/03 11:38:02] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/03 11:40:55] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/01/03 12:19:16] @ lumidify joined channel #supertux
