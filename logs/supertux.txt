@@ -36593,3 +36593,4 @@
 [2016/01/03 17:17:28] <Not-e81f> [02flexlay] 07Karkus 0386fa01f - Place to save level only appears if new level is created
 [2016/01/03 17:17:30] <Not-e81f> [02flexlay] 07Karkus 0392e1c35 - Config checks attribute name is valid
 [2016/01/03 17:24:17] @ Quit: Karkus: Remote host closed the connection
+[2016/01/03 17:33:14] @ Wuzzy joined channel #supertux
