@@ -36362,3 +36362,40 @@
 [2016/01/03 08:08:18] <Tobbi> Hrm...
 [2016/01/03 08:08:36] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/99944411
 [2016/01/03 08:11:35] @ Quit: kneekoo: Ping timeout: 264 seconds
+[2016/01/03 08:15:17] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/238
+[2016/01/03 08:17:09] <Karkus> mt, Tobbi: We could create a develop branch, and keep 0.5.0 changes there while keeping master at 0.4.0 -> 0.4.1 changes?
+[2016/01/03 08:17:34] <Tobbi> perhaps...might make sense.
+[2016/01/03 08:17:36] <mt> Karkus: there's release/0.4 for 0.4.0 -> 0.4.1 branches
+[2016/01/03 08:17:44] <Tobbi> oh right
+[2016/01/03 08:17:48] <mt> everything relevant for 0.4.1 will be cherry-picked into that
+[2016/01/03 08:18:24] <Karkus> mt: So it's safe to merge 0.5.0 pull requests into master?
+[2016/01/03 08:18:37] <Karkus> mt: Surely not...
+[2016/01/03 08:18:48] <mt> Yes it is
+[2016/01/03 08:18:52] <Karkus> Cherry picking it all could take forever
+[2016/01/03 08:18:58] <mt> But editor not
+[2016/01/03 08:19:08] <Karkus> mt: The editor isn't stable.
+[2016/01/03 08:19:23] <mt> Karkus: cherry-picking the commits takes maximum 10 minutes
+[2016/01/03 08:19:47] <mt> otoh, we should actually do that already when committing bugfixes
+[2016/01/03 08:20:00] <Karkus> mt: Good point.
+[2016/01/03 08:20:30] <Karkus> mt: We should probably do that now
+[2016/01/03 08:20:54] @ claymore2 joined channel #supertux
+[2016/01/03 08:21:20] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/99944421
+[2016/01/03 08:21:44] <Tobbi> mt: You know that I have to query abkuerzungen.de every time you post an abbreviation to find out what it means, right? :D
+[2016/01/03 08:22:25] <Karkus> Tobbi: I'm getting good at guessing :P
+[2016/01/03 08:22:42] <Tobbi> :D
+[2016/01/03 08:22:56] <mt> ┘ wtf is otoh
+[2016/01/03 08:22:59] <mt> OTOH: on the other hand
+[2016/01/03 08:23:17] <mt> (wtf from bsd-games iirc)
+[2016/01/03 08:23:25] <Tobbi> Yes, yes.
+[2016/01/03 08:23:31] <Tobbi> It's fine.
+[2016/01/03 08:23:36] <Tobbi> I found out otoh now.
+[2016/01/03 08:25:05] <Tobbi> Why are so many things in that editor branch marked virtual?
+[2016/01/03 08:25:14] <Tobbi> Do we plan to subclass angrystone at some point?
+[2016/01/03 08:27:07] <Karkus> Tobbi: Hume changed a method there to virtual?
+[2016/01/03 08:28:11] <Tobbi> Karkus: No, it was virtual at the start as well. I mean: You know: I can understand that get_name in badguy is virtual because we're overriding it. But things that actually are at the leaf branch of class inheritance shouldn't need virtual anymore.
+[2016/01/03 08:28:19] <Tobbi> Unless we plan to create sub-classes of those.
+[2016/01/03 08:28:39] <Tobbi> And creating classes that inherit from angrystone would just be silly.
+[2016/01/03 08:28:48] <Karkus> Tobbi: We don't even need to override them.
+[2016/01/03 08:29:12] <Not-e81f> [02flexlay] 07Karkus476 pushed 031 commit to 03develop [+0/-0/±5] 13http://git.io/vum79
+[2016/01/03 08:29:14] <Not-e81f> [02flexlay] 07Karkus 03801a713 - Fixes errors caused by multi-argument print() -> logging.xyz()
+[2016/01/03 08:29:32] <Tobbi> Karkus: Well, it's nice to add a get_name to badguy()..
