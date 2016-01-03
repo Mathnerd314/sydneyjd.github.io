@@ -36509,3 +36509,10 @@
 [2016/01/03 14:17:34] @ Karkus joined channel #supertux
 [2016/01/03 14:17:34] @ Mode +o Karkus by ChanServ
 [2016/01/03 14:22:49] @ Quit: stewboy: Read error: Connection reset by peer
+[2016/01/03 14:32:15] @ Quit: Karkus: Ping timeout: 260 seconds
+[2016/01/03 14:32:41] @ Quit: mt: Quit: ZNC 1.7.x-git-483-69b031c - http://znc.in
+[2016/01/03 14:32:55] @ mt joined channel #supertux
+[2016/01/03 14:32:55] @ Mode +o mt by ChanServ
+[2016/01/03 14:44:39] @ Karkus joined channel #supertux
+[2016/01/03 14:44:39] @ Mode +o Karkus by ChanServ
+[2016/01/03 14:44:52] <Not-e81f> [02flexlay] 07Karkus476 commented on issue 03#2: TODO File - 13http://git.io/vuOgd
