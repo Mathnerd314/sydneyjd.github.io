@@ -36443,3 +36443,21 @@
 [2016/01/03 12:19:16] @ lumidify joined channel #supertux
 [2016/01/03 12:37:19] @ Quit: lumidify: Ping timeout: 260 seconds
 [2016/01/03 12:39:13] @ lumidify joined channel #supertux
+[2016/01/03 12:45:47] @ Quit: lumidify: Ping timeout: 246 seconds
+[2016/01/03 12:48:47] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#317: Igloo becomes invisible when Tux is a couple of tiles below it - 13http://git.io/vuOeG
+[2016/01/03 12:48:54] <Not-e81f> [02supertux] 07Hume2 unassigned issue 03#317: Igloo becomes invisible when Tux is a couple of tiles below it - 13http://git.io/vuegt
+[2016/01/03 12:50:46] <mt> Implement Igloo as an object?
+[2016/01/03 12:51:17] <Hume2> mt: I thought it, but it won't be so easy.
+[2016/01/03 12:52:09] <mt> split up the igloo into actual separated tiles
+[2016/01/03 12:52:24] <mt> (which don't depend on the top-left one)
+[2016/01/03 12:52:42] <mt> or fix the tile renderer to handle this properly
+[2016/01/03 12:53:11] <Hume2> Adding extra tiles won't affect already existing levels.
+[2016/01/03 12:53:40] <mt> That also implies updating existing levels
+[2016/01/03 12:53:48] <Hume2> Maybe there could be a property that says that the tile should be always rendered.
+[2016/01/03 12:55:00] <Hume2> When are we at updating levels, we can put decals instead.
+[2016/01/03 12:55:57] <Hume2> Well... that thing with "tile being always rendered attribute" could lag.
+[2016/01/03 12:56:33] <Hume2> Because it would have to pass whole tilemap to draw it then.
+[2016/01/03 12:56:51] <Hume2> Currently it passes only the visible tiles.
+[2016/01/03 12:57:29] <mt> or it passes all tiles in a specific grid, specified by x and y from the origin of the main tile
+[2016/01/03 12:58:33] <Hume2> hmmm...
+[2016/01/03 12:59:31] <Hume2> Yes. The x and y are the camera coordinates.
