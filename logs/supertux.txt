@@ -36399,3 +36399,9 @@
 [2016/01/03 08:29:12] <Not-e81f> [02flexlay] 07Karkus476 pushed 031 commit to 03develop [+0/-0/±5] 13http://git.io/vum79
 [2016/01/03 08:29:14] <Not-e81f> [02flexlay] 07Karkus 03801a713 - Fixes errors caused by multi-argument print() -> logging.xyz()
 [2016/01/03 08:29:32] <Tobbi> Karkus: Well, it's nice to add a get_name to badguy()..
+[2016/01/03 08:30:23] <Karkus> Tobbi: Ah, in get_name's case, true
+[2016/01/03 08:32:34] <Karkus> mt: You should comment on that pull request concerning the portability of "./"
+[2016/01/03 08:33:23] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#297: getting a null string exception when the data dir is unable to be set - 13http://git.io/vum5K
+[2016/01/03 08:33:31] <Tobbi> I really don't know anything about portability of ./.
+[2016/01/03 08:33:35] <Tobbi> And I am unable to test currently.
+[2016/01/03 08:34:01] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/239
