@@ -36352,3 +36352,13 @@
 [2016/01/03 07:54:42] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/239
 [2016/01/03 07:54:54] <Not-e81f> [02supertux] 07culiubaicai starred 03supertux - 13http://git.io/vum1a
 [2016/01/03 07:55:31] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99944411
+[2016/01/03 08:03:08] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99944421
+[2016/01/03 08:06:38] @ Tobbi joined channel #supertux
+[2016/01/03 08:06:39] @ Mode +o Tobbi by ChanServ
+[2016/01/03 08:07:22] <Karkus> Hello, Tobbi
+[2016/01/03 08:07:39] <Tobbi> Hey, Karkus. Tobbi, you have notes.
+[2016/01/03 08:07:39] <red_bot> Tobbi, you have notes! [Jan- 3 02:59] <mt> well, https://github.com/SuperTux/supertux/pull/297 looks ok for me, I don't know if this is how you want to handle that issue [Jan- 3 02:59] <mt> however, what about "./" on windows? I'm not sure if that works
+[2016/01/03 08:07:43] <Tobbi> See!
+[2016/01/03 08:08:18] <Tobbi> Hrm...
+[2016/01/03 08:08:36] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/99944411
+[2016/01/03 08:11:35] @ Quit: kneekoo: Ping timeout: 264 seconds
