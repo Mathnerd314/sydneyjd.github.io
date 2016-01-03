@@ -36580,3 +36580,6 @@
 [2016/01/03 15:40:27] @ Quit: lumidify: Quit: Leaving
 [2016/01/03 15:42:37] <Hume2> I must go, bye!
 [2016/01/03 15:42:52] @ Quit: Hume2: Quit: Page closed
+[2016/01/03 15:45:02] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99995147
+[2016/01/03 15:48:51] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/99995137
+[2016/01/03 15:58:19] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/99995147
