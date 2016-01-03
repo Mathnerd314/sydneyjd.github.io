@@ -36232,3 +36232,4 @@
 [2016/01/02 22:13:44] <snadge> playing games shouldn't make you angry.. i've used more profanity in the last few days than i have in the year previous ;)
 [2016/01/02 23:03:24] <swift110> hey all
 [2016/01/02 23:13:32] @ Quit: swift110: Remote host closed the connection
+[2016/01/02 23:39:54] @ stewboy joined channel #supertux
