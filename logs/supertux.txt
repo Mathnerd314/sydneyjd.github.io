@@ -36218,3 +36218,5 @@
 [2016/01/02 21:38:56] <snadge> i found a secret area in blue iced hills
 [2016/01/02 21:39:24] <snadge> which is cool. heaps of coins etc.. but i dont know how to make the jump on the left hand side.. i hit an invisible platform and fall down the hole
 [2016/01/02 21:39:42] <snadge> maybe its just there to troll me
+[2016/01/02 21:56:00] <head8debian> snadge: You *should* be able to get out of any area somehow, if the level is adhering to our level design guidelines.
+[2016/01/02 21:57:33] @ swift110 joined channel #supertux
