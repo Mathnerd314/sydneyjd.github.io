@@ -36583,3 +36583,7 @@
 [2016/01/03 15:45:02] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99995147
 [2016/01/03 15:48:51] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/99995137
 [2016/01/03 15:58:19] <Not-e81f> [02supertux] 04Failure. The Travis CI build failed - 13https://travis-ci.org/SuperTux/supertux/builds/99995147
+[2016/01/03 16:01:53] @ Quit: benjamin__: Read error: Connection reset by peer
+[2016/01/03 16:02:30] @ benjamin__ joined channel #supertux
+[2016/01/03 16:07:54] @ Quit: ced117: Quit: Quitte
+[2016/01/03 16:12:15] @ irungentoo joined channel #supertux
