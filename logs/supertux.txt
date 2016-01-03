@@ -36278,3 +36278,4 @@
 [2016/01/03 04:55:21] <Not-e81f> [02supertux] 07Hume2 assigned issue 03#317: Igloo becomes invisible when Tux is a couple of tiles below it - 13http://git.io/vuegt
 [2016/01/03 05:02:06] @ Quit: tux|dude: Quit: Leaving
 [2016/01/03 05:14:11] <Not-e81f> [02supertux] 07Hume2 commented on commit 03a0310745a126e27cc99674373bb4bfb5d7420d72 - 13http://git.io/vumIP
+[2016/01/03 05:28:30] <Not-e81f> [02supertux] 07dacrhu commented on issue 03#318: Always in start position on map - 13http://git.io/vumqL
