@@ -36518,3 +36518,12 @@
 [2016/01/03 14:44:52] <Not-e81f> [02flexlay] 07Karkus476 commented on issue 03#2: TODO File - 13http://git.io/vuOgd
 [2016/01/03 14:50:44] @ Quit: kneekoo: Ping timeout: 246 seconds
 [2016/01/03 14:51:15] @ tux|dude joined channel #supertux
+[2016/01/03 15:05:38] <Karkus> Hume2: Should I be able to see some of Tobbi's commits in the editor pull request?
+[2016/01/03 15:05:56] <Tobbi> You should not, this should be rebased.
+[2016/01/03 15:07:06] @ kneekoo joined channel #supertux
+[2016/01/03 15:13:03] <Hume2> I rebased it, but I have no idea why it's still here.
+[2016/01/03 15:13:24] <Hume2> I could squash them.
+[2016/01/03 15:13:43] <Tobbi> Don't squash.
+[2016/01/03 15:13:55] <Tobbi> Hume2: Did you rebase against master?
+[2016/01/03 15:14:02] <Tobbi> origin/master that is?
+[2016/01/03 15:14:07] <Hume2> Yes, I did.
