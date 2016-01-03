@@ -36412,3 +36412,5 @@
 [2016/01/03 08:56:14] @ Quit: Hume2: Quit: Page closed
 [2016/01/03 08:57:50] @ kneekoo joined channel #supertux
 [2016/01/03 08:58:27] <Tobbi> never mind, got it.
+[2016/01/03 09:13:32] @ Karkus joined channel #supertux
+[2016/01/03 09:13:32] @ Mode +o Karkus by ChanServ
