@@ -36257,3 +36257,6 @@
 [2016/01/03 02:59:14] <red_bot> okay then :), mt
 [2016/01/03 02:59:38] <mt> ~note Tobbi however, what about "./" on windows? I'm not sure if that works
 [2016/01/03 02:59:38] <red_bot> okay then :), mt
+[2016/01/03 03:03:53] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/99921648
+[2016/01/03 03:07:15] @ Quit: tuxdev_: Ping timeout: 240 seconds
+[2016/01/03 03:10:28] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/232
