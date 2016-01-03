@@ -36461,3 +36461,28 @@
 [2016/01/03 12:57:29] <mt> or it passes all tiles in a specific grid, specified by x and y from the origin of the main tile
 [2016/01/03 12:58:33] <Hume2> hmmm...
 [2016/01/03 12:59:31] <Hume2> Yes. The x and y are the camera coordinates.
+[2016/01/03 13:01:32] @ Karkus joined channel #supertux
+[2016/01/03 13:01:32] @ Mode +o Karkus by ChanServ
+[2016/01/03 13:02:57] @ Tobbi joined channel #supertux
+[2016/01/03 13:02:58] @ Mode +o Tobbi by ChanServ
+[2016/01/03 13:04:44] <Hume2> Finally no visitation.
+[2016/01/03 13:05:33] <Hume2> It was terrible.
+[2016/01/03 13:06:09] <Tobbi> Hume2: Currently, I don't need anything.
+[2016/01/03 13:06:15] <Tobbi> Hume2: visitation?
+[2016/01/03 13:06:31] <Hume2> Yes, Narre and one madman visited me.
+[2016/01/03 13:06:41] <Hume2> Narre was OK, but...
+[2016/01/03 13:06:58] <Tobbi> A mad man...
+[2016/01/03 13:07:02] <Tobbi> I see....
+[2016/01/03 13:07:49] <Hume2> he wanted to know what time is it, I was telling him that it's quarter to 6, because he should have been at home at 6.
+[2016/01/03 13:08:11] <Hume2> And Narre was telling that it's quarter past 17. It was 17:10.
+[2016/01/03 13:09:27] @ lumidify joined channel #supertux
+[2016/01/03 13:09:31] <Tobbi> I see...
+[2016/01/03 13:09:58] <Hume2> And he also wanted to install SuperTux on his machine from Narre, Narre explained it to him, but he was requesting Narre to install it him at his home.
+[2016/01/03 13:10:19] <Hume2> Narre told him that he's not going more than 200m, but it was 700m.
+[2016/01/03 13:10:38] <Tobbi> ...kids.
+[2016/01/03 13:10:47] <Hume2> Yes. Agreed.
+[2016/01/03 13:10:55] <Tobbi> I mean all of you :D
+[2016/01/03 13:11:09] <Hume2> Agreed.
+[2016/01/03 13:11:16] <Tobbi> It's a shame, leyyin isn't here. Otherwise, he'd say the same.
+[2016/01/03 13:13:03] <Hume2> However this is not a typical conversation for me and Narre. It was really an odd day.
+[2016/01/03 13:14:01] <Hume2> The first day this guy visited me.
