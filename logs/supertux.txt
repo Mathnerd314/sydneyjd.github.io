@@ -36405,3 +36405,10 @@
 [2016/01/03 08:33:31] <Tobbi> I really don't know anything about portability of ./.
 [2016/01/03 08:33:35] <Tobbi> And I am unable to test currently.
 [2016/01/03 08:34:01] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/239
+[2016/01/03 08:48:40] @ Quit: Karkus: Ping timeout: 260 seconds
+[2016/01/03 08:52:21] <Tobbi> Hume2: ping
+[2016/01/03 08:55:04] <Tobbi> oh ait.
+[2016/01/03 08:55:07] <Tobbi> *wait
+[2016/01/03 08:56:14] @ Quit: Hume2: Quit: Page closed
+[2016/01/03 08:57:50] @ kneekoo joined channel #supertux
+[2016/01/03 08:58:27] <Tobbi> never mind, got it.
