@@ -36505,3 +36505,4 @@
 [2016/01/03 13:23:29] @ Quit: lumidify: Ping timeout: 245 seconds
 [2016/01/03 13:42:11] @ lumidify joined channel #supertux
 [2016/01/03 13:56:31] @ stewboy joined channel #supertux
+[2016/01/03 14:07:15] @ Quit: Karkus: Ping timeout: 240 seconds
