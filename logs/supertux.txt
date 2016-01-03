@@ -36414,3 +36414,16 @@
 [2016/01/03 08:58:27] <Tobbi> never mind, got it.
 [2016/01/03 09:13:32] @ Karkus joined channel #supertux
 [2016/01/03 09:13:32] @ Mode +o Karkus by ChanServ
+[2016/01/03 09:51:15] <mt> 15:48:06 -i- Karkus ~Karkus@unaffiliated/karkus :is messaging you, and you have umode +g.
+[2016/01/03 09:51:17] <mt> yes?
+[2016/01/03 09:51:34] <Karkus> mt: Why doesn't it work?
+[2016/01/03 09:51:49] <mt> because +g blocks privmsg unless you're on my /accept list (you are now)
+[2016/01/03 09:52:35] <mt> I set +g recently due to some spam in private :/
+[2016/01/03 09:53:24] <Karkus> mt: From whom?
+[2016/01/03 09:53:38] <mt> dunno
+[2016/01/03 09:54:21] <mt> some idiot that seemed to try messaging users about something weed-related
+[2016/01/03 09:54:29] <Tobbi> :D
+[2016/01/03 09:54:38] <Tobbi> mt: Weeds can be a problem, especially when you try to have a tidy garden.
+[2016/01/03 09:54:52] <Tobbi> So, maybe he was just trying to offer his help.
+[2016/01/03 09:55:28] <mt> I don't think they were talking about that 'weed'
+[2016/01/03 09:55:57] <Tobbi> :D
