@@ -36594,3 +36594,4 @@
 [2016/01/03 17:17:30] <Not-e81f> [02flexlay] 07Karkus 0392e1c35 - Config checks attribute name is valid
 [2016/01/03 17:24:17] @ Quit: Karkus: Remote host closed the connection
 [2016/01/03 17:33:14] @ Wuzzy joined channel #supertux
+[2016/01/03 17:56:41] @ Quit: tuxdev_: Ping timeout: 255 seconds
