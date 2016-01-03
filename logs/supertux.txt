@@ -36283,3 +36283,11 @@
 [2016/01/03 05:41:45] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#318: Always in start position on map - 13http://git.io/vumGk
 [2016/01/03 05:42:39] <Not-e81f> [02supertux] 07maxteufel labeled issue 03#199: Problem with saved files - 13http://git.io/vWEjr
 [2016/01/03 05:42:40] <Not-e81f> [02supertux] 07maxteufel unlabeled issue 03#199: Problem with saved files - 13http://git.io/vWEjr
+[2016/01/03 05:45:13] <Not-e81f> [02supertux] 07dacrhu commented on issue 03#318: Always in start position on map - 13http://git.io/vumZe
+[2016/01/03 05:45:14] <Not-e81f> [02supertux] 07dacrhu closed issue 03#318: Always in start position on map - 13http://git.io/vutY3
+[2016/01/03 05:45:25] @ lumidify joined channel #supertux
+[2016/01/03 05:48:55] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#318: Always in start position on map - 13http://git.io/vumZo
+[2016/01/03 05:53:18] @ Karkus joined channel #supertux
+[2016/01/03 05:53:18] @ Mode +o Karkus by ChanServ
+[2016/01/03 05:55:46] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/01/03 05:57:39] <Not-e81f> [02supertux] 07dacrhu commented on issue 03#318: Always in start position on map - 13http://git.io/vumcH
