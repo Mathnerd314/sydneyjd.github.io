@@ -36293,3 +36293,13 @@
 [2016/01/03 05:57:39] <Not-e81f> [02supertux] 07dacrhu commented on issue 03#318: Always in start position on map - 13http://git.io/vumcH
 [2016/01/03 06:03:31] @ benjamin__ joined channel #supertux
 [2016/01/03 06:05:35] @ Quit: giby_the_kid: Ping timeout: 240 seconds
+[2016/01/03 06:26:38] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03editor [+0/-0/±1] 13http://git.io/vum4z
+[2016/01/03 06:26:39] <Not-e81f> [02supertux] 07Hume2 03de6c937 - Reverted accidentaly change in addon_menu.cpp
+[2016/01/03 06:26:41] <Not-e81f> [02supertux] 07Hume2 synchronize pull request 03#269: WIP Level Editor - 13http://git.io/vEe13
+[2016/01/03 06:26:42] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99936959
+[2016/01/03 06:26:44] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99936975
+[2016/01/03 06:26:45] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/234
+[2016/01/03 06:26:47] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/235
+[2016/01/03 06:27:39] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99936959
+[2016/01/03 06:29:47] <Hume2> Hello, Karkus
+[2016/01/03 06:29:59] <Karkus> Hello, Hume2
