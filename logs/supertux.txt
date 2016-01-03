@@ -36271,3 +36271,5 @@
 [2016/01/03 04:08:37] @ stewboy_ joined channel #supertux
 [2016/01/03 04:09:47] @ Quit: stewboy: Ping timeout: 264 seconds
 [2016/01/03 04:09:50] @ stewboy_ is now known as stewboy
+[2016/01/03 04:42:29] @ Hume2 joined channel #supertux
+[2016/01/03 04:42:30] @ Mode +v Hume2 by ChanServ
