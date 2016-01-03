@@ -36268,3 +36268,6 @@
 [2016/01/03 03:25:48] <mt> could we get someone to post about https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document to http://forum.freegamedev.net/viewtopic.php?f=67&t=6687
 [2016/01/03 03:28:32] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/233
 [2016/01/03 03:50:49] <mt> I actually have posted now
+[2016/01/03 04:08:37] @ stewboy_ joined channel #supertux
+[2016/01/03 04:09:47] @ Quit: stewboy: Ping timeout: 264 seconds
+[2016/01/03 04:09:50] @ stewboy_ is now known as stewboy
