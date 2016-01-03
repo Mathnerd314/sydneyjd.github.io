@@ -36241,3 +36241,19 @@
 [2016/01/03 02:03:04] @ lumidify joined channel #supertux
 [2016/01/03 02:22:30] <snadge> err hi swift.. are you the same swift who created missingno
 [2016/01/03 02:22:46] <snadge> because i did want to kill you before.. but i just finished that level.. bittersweet
+[2016/01/03 02:49:52] <Not-e81f> [02supertux] 07Hume2 pushed 032 commits to 03editor [+0/-0/±4] 13http://git.io/vuqQc
+[2016/01/03 02:49:53] <Not-e81f> [02supertux] 07Hume2 033df2fa7 - Added missing properties for yeti
+[2016/01/03 02:49:55] <Not-e81f> [02supertux] 07Hume2 0301c4f08 - Added editor methotds to mrcandle.cpp
+[2016/01/03 02:49:56] <Not-e81f> [02supertux] 07Hume2 synchronize pull request 03#269: WIP Level Editor - 13http://git.io/vEe13
+[2016/01/03 02:49:58] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99921648
+[2016/01/03 02:49:59] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99921658
+[2016/01/03 02:50:01] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/232
+[2016/01/03 02:50:02] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/233
+[2016/01/03 02:50:49] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99921648
+[2016/01/03 02:51:32] <snadge> f$@# yes!! I just finished angry stone vs you
+[2016/01/03 02:55:11] <snadge> that was also evil
+[2016/01/03 02:58:56] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99921658
+[2016/01/03 02:59:14] <mt> ~note Tobbi well, https://github.com/SuperTux/supertux/pull/297 looks ok for me, I don't know if this is how you want to handle that issue
+[2016/01/03 02:59:14] <red_bot> okay then :), mt
+[2016/01/03 02:59:38] <mt> ~note Tobbi however, what about "./" on windows? I'm not sure if that works
+[2016/01/03 02:59:38] <red_bot> okay then :), mt
