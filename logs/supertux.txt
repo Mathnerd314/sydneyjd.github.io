@@ -36291,3 +36291,5 @@
 [2016/01/03 05:53:18] @ Mode +o Karkus by ChanServ
 [2016/01/03 05:55:46] @ Quit: lumidify: Ping timeout: 240 seconds
 [2016/01/03 05:57:39] <Not-e81f> [02supertux] 07dacrhu commented on issue 03#318: Always in start position on map - 13http://git.io/vumcH
+[2016/01/03 06:03:31] @ benjamin__ joined channel #supertux
+[2016/01/03 06:05:35] @ Quit: giby_the_kid: Ping timeout: 240 seconds
