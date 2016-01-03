@@ -36213,3 +36213,8 @@
 [2016/01/02 19:26:21] @ Quit: irungentoo: Remote host closed the connection
 [2016/01/02 21:19:46] @ Quit: Wuzzy: Ping timeout: 256 seconds
 [2016/01/02 21:20:11] @ Wuzzy joined channel #supertux
+[2016/01/02 21:35:45] @ Quit: Tobbi: 
+[2016/01/02 21:36:28] @ Quit: alket: Quit: Good Night :)
+[2016/01/02 21:38:56] <snadge> i found a secret area in blue iced hills
+[2016/01/02 21:39:24] <snadge> which is cool. heaps of coins etc.. but i dont know how to make the jump on the left hand side.. i hit an invisible platform and fall down the hole
+[2016/01/02 21:39:42] <snadge> maybe its just there to troll me
