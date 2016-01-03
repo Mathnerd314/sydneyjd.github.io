@@ -36339,3 +36339,16 @@
 [2016/01/03 07:19:08] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/99938193
 [2016/01/03 07:30:58] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/236
 [2016/01/03 07:32:35] @ Quit: Karkus: Ping timeout: 264 seconds
+[2016/01/03 07:49:17] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/237
+[2016/01/03 07:50:43] @ Karkus joined channel #supertux
+[2016/01/03 07:50:43] @ Mode +o Karkus by ChanServ
+[2016/01/03 07:54:31] <Not-e81f> [02supertux] 07Hume2 synchronize pull request 03#269: WIP Level Editor - 13http://git.io/vEe13
+[2016/01/03 07:54:32] <Not-e81f> [02supertux] 07Hume2 pushed 032 commits to 03editor [+4/-0/±7] 13http://git.io/vum1E
+[2016/01/03 07:54:34] <Not-e81f> [02supertux] 07Hume2 0350c0d7a - Added sector properties
+[2016/01/03 07:54:36] <Not-e81f> [02supertux] 07Hume2 0391aa47a - Added level properties menu
+[2016/01/03 07:54:37] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99944411
+[2016/01/03 07:54:39] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99944421
+[2016/01/03 07:54:40] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/238
+[2016/01/03 07:54:42] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/239
+[2016/01/03 07:54:54] <Not-e81f> [02supertux] 07culiubaicai starred 03supertux - 13http://git.io/vum1a
+[2016/01/03 07:55:31] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99944411
