@@ -36321,3 +36321,14 @@
 [2016/01/03 06:43:03] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99938193
 [2016/01/03 06:43:05] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/237
 [2016/01/03 06:44:03] <Hume2> Karkus: It's rebased.
+[2016/01/03 06:47:47] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99938181
+[2016/01/03 06:48:06] <Not-e81f> [02flexlay] 07Karkus476 opened pull request 03#68: Flexlay uses Python's logging module - 13http://git.io/vumud
+[2016/01/03 06:48:11] <Not-e81f> [02flexlay] 07Karkus476 closed pull request 03#68: Flexlay uses Python's logging module - 13http://git.io/vumud
+[2016/01/03 06:48:12] <Not-e81f> [02flexlay] 07Karkus476 pushed 032 commits to 03develop [+0/-0/±36] 13http://git.io/vumuN
+[2016/01/03 06:48:14] <Not-e81f> [02flexlay] 07Karkus 03ac2c2a7 - Flexlay uses Python's logging module
+[2016/01/03 06:48:15] <Not-e81f> [02flexlay] 07Karkus476 03471982a - Merge pull request #68 from Karkus476/logging
+[2016/01/03 06:50:56] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/234
+[2016/01/03 06:54:14] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/99936975
+[2016/01/03 06:54:50] <Not-e81f> [02supertux] 07Hume2 pushed 031 commit to 03editor [+0/-0/±1] 13http://git.io/vumgJ
+[2016/01/03 06:54:52] <Not-e81f> [02supertux] 07Hume2 0369a1996 - Reverted accidental edit of bonus1/torfi-level1.stl
+[2016/01/03 06:54:53] <Not-e81f> [02supertux] 07Hume2 synchronize pull request 03#269: WIP Level Editor - 13http://git.io/vEe13
