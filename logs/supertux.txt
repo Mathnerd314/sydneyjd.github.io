@@ -36205,3 +36205,8 @@
 [2016/01/02 17:41:58] @ Quit: Karkus: Remote host closed the connection
 [2016/01/02 17:44:53] @ Quit: stewboy: Read error: Connection reset by peer
 [2016/01/02 18:37:32] @ tux|dude joined channel #supertux
+[2016/01/02 18:46:41] @ Tobbi joined channel #supertux
+[2016/01/02 18:46:56] @ Mode +o Tobbi by ChanServ
+[2016/01/02 18:56:42] @ Drangue joined channel #supertux
+[2016/01/02 18:56:43] @ Quit: alket: Disconnected by services
+[2016/01/02 18:57:02] @ Drangue is now known as alket
