@@ -36527,3 +36527,43 @@
 [2016/01/03 15:13:55] <Tobbi> Hume2: Did you rebase against master?
 [2016/01/03 15:14:02] <Tobbi> origin/master that is?
 [2016/01/03 15:14:07] <Hume2> Yes, I did.
+[2016/01/03 15:15:34] <Tobbi> hmm...
+[2016/01/03 15:15:58] <Tobbi> oh!
+[2016/01/03 15:16:10] <Tobbi> Hume2: You re-committed something, accidentally.
+[2016/01/03 15:16:26] <Hume2> It looks like.
+[2016/01/03 15:17:44] <Tobbi> Hume2: Can you do an interactive rebase and just remove those commits?
+[2016/01/03 15:18:06] <Hume2> That's 'r' I guess.
+[2016/01/03 15:18:21] <Tobbi> I think you just remove the affected line altogether.
+[2016/01/03 15:20:12] <Karkus> Tobbi: Isn't that a bit dangerous? What does "re-commit" mean?
+[2016/01/03 15:20:50] <Tobbi> Karkus: I believe he committed a commit of mine with a different commit hash.
+[2016/01/03 15:20:56] <Tobbi> Thus, github thinks it|s a new commit.
+[2016/01/03 15:21:03] <Tobbi> Happened to me as well, can|t remember what I did, though.
+[2016/01/03 15:21:11] <Karkus> Tobbi: Hmmm
+[2016/01/03 15:24:24] <Not-e81f> [02supertux] 07Hume2 synchronize pull request 03#269: WIP Level Editor - 13http://git.io/vEe13
+[2016/01/03 15:24:26] <Not-e81f> [02supertux] 07Hume2 pushed 0326 commits to 03editor [+15/-0/±167] 13http://git.io/vuO1Y
+[2016/01/03 15:24:27] <Not-e81f> [02supertux] 07Hume2 0369438b7 - Added a colorchanel menu
+[2016/01/03 15:24:29] <Not-e81f> [02supertux] 07Hume2 03037bd30 - Fix
+[2016/01/03 15:24:30] <Not-e81f> [02supertux] 07Hume2 03706346d - Fixed stuff
+[2016/01/03 15:24:32] <Not-e81f> [02supertux] ... and 23 more commits.
+[2016/01/03 15:24:33] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99994907
+[2016/01/03 15:24:35] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/240
+[2016/01/03 15:24:36] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99994928
+[2016/01/03 15:24:38] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/241
+[2016/01/03 15:25:27] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99994907
+[2016/01/03 15:26:34] <Not-e81f> [02supertux] 07Hume2 synchronize pull request 03#269: WIP Level Editor - 13http://git.io/vEe13
+[2016/01/03 15:26:36] <Not-e81f> [02supertux] 07Hume2 pushed 0325 commits to 03editor [+15/-0/±167] 13http://git.io/vuO1w
+[2016/01/03 15:26:37] <Not-e81f> [02supertux] 07Hume2 033f57573 - Added a colorchanel menu
+[2016/01/03 15:26:39] <Not-e81f> [02supertux] 07Hume2 03325474e - Fix
+[2016/01/03 15:26:41] <Not-e81f> [02supertux] 07Hume2 03c7a6d60 - Fixed stuff
+[2016/01/03 15:26:42] <Not-e81f> [02supertux] ... and 22 more commits.
+[2016/01/03 15:26:44] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99995137
+[2016/01/03 15:26:45] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/99995147
+[2016/01/03 15:26:46] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/242
+[2016/01/03 15:26:48] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/243
+[2016/01/03 15:27:03] <Hume2> Done.
+[2016/01/03 15:27:26] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/240
+[2016/01/03 15:27:43] <Tobbi> Great.
+[2016/01/03 15:27:49] <Tobbi> Karkus: See, it worked ^^
+[2016/01/03 15:28:17] <Karkus> Tobbi: I just think it shouldn't have happened in the first place :D
+[2016/01/03 15:28:20] <Hume2> It can't be 'r', because it's reword.
+[2016/01/03 15:29:45] <Not-e81f> [02supertux] 04Failure. AppVeyor build failed - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/241
