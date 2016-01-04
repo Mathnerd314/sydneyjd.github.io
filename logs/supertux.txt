@@ -36648,3 +36648,5 @@
 [2016/01/04 06:04:41] @ Mode +o giby_the_kid by ChanServ
 [2016/01/04 06:05:17] @ Quit: benjamin__: Ping timeout: 246 seconds
 [2016/01/04 06:07:29] @ lumidify joined channel #supertux
+[2016/01/04 06:22:20] @ Quit: lumidify: Ping timeout: 272 seconds
+[2016/01/04 06:22:45] @ lumidify joined channel #supertux
