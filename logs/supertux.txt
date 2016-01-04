@@ -36652,3 +36652,4 @@
 [2016/01/04 06:22:45] @ lumidify joined channel #supertux
 [2016/01/04 07:20:29] @ jesusalva joined channel #supertux
 [2016/01/04 07:36:05] @ Quit: claymore2: Ping timeout: 276 seconds
+[2016/01/04 07:57:53] <snadge> tell us how you really real about FreeType ;)
