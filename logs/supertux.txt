@@ -36666,3 +36666,4 @@
 [2016/01/04 09:45:52] @ Quit: Karkus: Quit: Division By Zero
 [2016/01/04 09:52:24] @ Tobbi joined channel #supertux
 [2016/01/04 09:52:24] @ Mode +o Tobbi by ChanServ
+[2016/01/04 10:14:18] @ Quit: Tobbi: Remote host closed the connection
