@@ -36667,3 +36667,5 @@
 [2016/01/04 09:52:24] @ Tobbi joined channel #supertux
 [2016/01/04 09:52:24] @ Mode +o Tobbi by ChanServ
 [2016/01/04 10:14:18] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/04 10:16:52] @ seb_ joined channel #supertux
+[2016/01/04 10:17:13] @ Quit: seb_: Client Quit
