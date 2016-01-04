@@ -36638,3 +36638,5 @@
 [2016/01/04 03:48:58] @ Quit: datahead8888: Quit: Leaving
 [2016/01/04 03:50:11] @ lumidify joined channel #supertux
 [2016/01/04 04:26:31] @ datahead8888 joined channel #supertux
+[2016/01/04 05:36:35] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/01/04 05:42:43] @ lumidify joined channel #supertux
