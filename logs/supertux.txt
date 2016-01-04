@@ -36643,3 +36643,8 @@
 [2016/01/04 05:48:46] <mt> re: use TTF for fonts: I wonder if SDL_ttf or FreeType is better
 [2016/01/04 05:50:26] <mt> also 10/10 best font: https://urandom.eu.org/i/OHSaSxHZ.png
 [2016/01/04 05:52:20] @ Quit: lumidify: Ping timeout: 246 seconds
+[2016/01/04 06:03:54] @ claymore2 joined channel #supertux
+[2016/01/04 06:04:41] @ giby_the_kid joined channel #supertux
+[2016/01/04 06:04:41] @ Mode +o giby_the_kid by ChanServ
+[2016/01/04 06:05:17] @ Quit: benjamin__: Ping timeout: 246 seconds
+[2016/01/04 06:07:29] @ lumidify joined channel #supertux
