@@ -36608,3 +36608,4 @@
 [2016/01/03 21:18:47] @ Quit: Wuzzy: Ping timeout: 264 seconds
 [2016/01/03 22:03:42] @ Quit: nerdopolis: Quit: No Ping reply in 180 seconds.
 [2016/01/03 22:04:30] @ nerdopolis joined channel #supertux
+[2016/01/03 22:34:08] @ tuxdev_ joined channel #supertux
