@@ -36606,3 +36606,5 @@
 [2016/01/03 20:43:58] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/03 21:15:30] @ Wuzzy2 joined channel #supertux
 [2016/01/03 21:18:47] @ Quit: Wuzzy: Ping timeout: 264 seconds
+[2016/01/03 22:03:42] @ Quit: nerdopolis: Quit: No Ping reply in 180 seconds.
+[2016/01/03 22:04:30] @ nerdopolis joined channel #supertux
