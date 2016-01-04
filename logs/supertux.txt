@@ -36699,3 +36699,12 @@
 [2016/01/04 13:51:02] @ Quit: Hume2: Quit: Page closed
 [2016/01/04 13:53:53] @ lumidify1 joined channel #supertux
 [2016/01/04 13:54:45] @ Quit: lumidify: Ping timeout: 245 seconds
+[2016/01/04 14:01:31] <Tobbi> 'em t-online users...
+[2016/01/04 14:01:53] @ lumidify1 is now known as lumidify
+[2016/01/04 14:02:04] @ Quit: lumidify: Quit: Leaving
+[2016/01/04 14:02:19] @ lumidify joined channel #supertux
+[2016/01/04 14:05:09] <mt> also, >t-online >no IPv6
+[2016/01/04 14:09:01] @ Quit: lumidify: Quit: Leaving
+[2016/01/04 14:10:39] <Not-e81f> [02supertux] 07slackmoehrle forked the repository - 13http://git.io/vucaO
+[2016/01/04 14:13:54] @ slackmoehrle joined channel #supertux
+[2016/01/04 14:14:12] <slackmoehrle> Howdy all.
