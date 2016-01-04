@@ -36696,3 +36696,6 @@
 [2016/01/04 13:29:30] <Not-e81f> [02supertux] 07Gerfaut starred 03supertux - 13http://git.io/vucON
 [2016/01/04 13:43:24] @ Tobbi joined channel #supertux
 [2016/01/04 13:43:25] @ Mode +o Tobbi by ChanServ
+[2016/01/04 13:51:02] @ Quit: Hume2: Quit: Page closed
+[2016/01/04 13:53:53] @ lumidify1 joined channel #supertux
+[2016/01/04 13:54:45] @ Quit: lumidify: Ping timeout: 245 seconds
