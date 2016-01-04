@@ -36771,3 +36771,7 @@
 [2016/01/04 14:57:54] <slackmoehrle> @Tobbi I found it: https://youtu.be/dVoxiFYzgvU?t=943
 [2016/01/04 14:57:58] <Not-e81f> [02supertux] 07mark-otaris commented on issue 03#307: Crash while holding Mr. IceBlock in edit mode - 13http://git.io/vucjp
 [2016/01/04 14:58:16] <slackmoehrle> @Tobbi starts there and goes on for some seconds.
+[2016/01/04 15:05:13] <Not-e81f> [02supertux] 07Clement-R starred 03supertux - 13http://git.io/vuCf9
+[2016/01/04 15:05:18] @ leyyin joined channel #supertux
+[2016/01/04 15:07:54] @ tux|dude joined channel #supertux
+[2016/01/04 15:12:10] @ bb010g joined channel #supertux
