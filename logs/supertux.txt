@@ -36708,3 +36708,37 @@
 [2016/01/04 14:10:39] <Not-e81f> [02supertux] 07slackmoehrle forked the repository - 13http://git.io/vucaO
 [2016/01/04 14:13:54] @ slackmoehrle joined channel #supertux
 [2016/01/04 14:14:12] <slackmoehrle> Howdy all.
+[2016/01/04 14:18:09] <Tobbi> Hello, verizon user.
+[2016/01/04 14:18:38] <Tobbi> :P
+[2016/01/04 14:19:33] @ mt__ joined channel #supertux
+[2016/01/04 14:19:52] <mt__> so, am I an EU user then? or an urandom user?
+[2016/01/04 14:19:57] <mt> :D
+[2016/01/04 14:20:00] <Tobbi> uh?
+[2016/01/04 14:20:02] <Tobbi> Whatever.
+[2016/01/04 14:20:05] <Tobbi> Hello slackmoehrle
+[2016/01/04 14:20:33] <mt> yes, hi!
+[2016/01/04 14:20:52] <Tobbi> mt__: You are an org user. You know: https://www.herr-der-ringe-film.de/v3/media/galerie/herrderringe/bilder05/orkschrei-cb175334.jpg
+[2016/01/04 14:21:09] <Tobbi> org is the official tld for mordor.
+[2016/01/04 14:21:19] <mt> also Tobbi: I wonder if we should use SDL_ttf or FreeType when we want to use TTF fonts
+[2016/01/04 14:21:36] <Tobbi> mt: I do not know. I don't have experience with either.
+[2016/01/04 14:21:56] <mt> I'm wondering about how easy to implement these are (SDL_ttf might be easier considering we're using SDL) and about performance
+[2016/01/04 14:22:17] <Tobbi> Hmm...
+[2016/01/04 14:22:33] <Tobbi> Maybe I should delegate the work to someone who knows either of them.
+[2016/01/04 14:22:42] @ Quit: mt__: Client Quit
+[2016/01/04 14:26:04] <Tobbi> Mailing list users...
+[2016/01/04 14:26:15] <Tobbi> damn...all attachments are scraped.
+[2016/01/04 14:26:16] <mt> what about them?
+[2016/01/04 14:26:37] <Tobbi> mt: one guy just posted on the list that he sent attachments (translated po files).
+[2016/01/04 14:26:50] <Tobbi> Which of course got scraped.
+[2016/01/04 14:27:07] <mt> tell them to use transifex
+[2016/01/04 14:27:15] <Tobbi> Yeah, no, not now.
+[2016/01/04 14:27:20] <Tobbi> I am busy.
+[2016/01/04 14:28:18] <slackmoehrle> So I am writing SuperTux using Cocos2d-x, I was wondering whom I could correspond with to make sure I don't infringe on anything
+[2016/01/04 14:28:35] <slackmoehrle> SuperTux was the first game I ever played when I started with Linux in 1998
+[2016/01/04 14:28:50] <mt> did it even exist back in 1998
+[2016/01/04 14:29:00] <slackmoehrle> sorry, 2004
+[2016/01/04 14:29:09] <slackmoehrle> I was thinking when I started with Slackware
+[2016/01/04 14:29:13] <mt> ah, yeah it did exist then
+[2016/01/04 14:29:37] <mt> I'm not sure why you're porting it to Cocos2d-x (never heard of that anyway)
+[2016/01/04 14:29:57] <mt> But generally: read the license in the repo
+[2016/01/04 14:29:58] <slackmoehrle> because I work there and just wanted to work on something personal
