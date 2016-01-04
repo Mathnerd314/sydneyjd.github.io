@@ -36604,3 +36604,5 @@
 [2016/01/03 18:50:51] @ Mode +o Tobbi by ChanServ
 [2016/01/03 19:50:07] @ Yaiyan_ is now known as Yaiyan
 [2016/01/03 20:43:58] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/03 21:15:30] @ Wuzzy2 joined channel #supertux
+[2016/01/03 21:18:47] @ Quit: Wuzzy: Ping timeout: 264 seconds
