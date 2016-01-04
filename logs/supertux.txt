@@ -36790,3 +36790,4 @@
 [2016/01/04 17:21:04] @ Quit: claymore2: Quit: Leaving
 [2016/01/04 17:29:04] @ Quit: alket: Disconnected by services
 [2016/01/04 17:29:04] @ Drangue joined channel #supertux
+[2016/01/04 17:33:57] @ Drangue is now known as alket
