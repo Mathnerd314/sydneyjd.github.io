@@ -36677,3 +36677,5 @@
 [2016/01/04 11:12:01] @ Topic set by mt!~mteufel@unaffiliated/supermat on 2015-12-25 13:52:03 -0500
 [2016/01/04 11:12:05] @ Mode +Cnptj 5:10 by rajaniemi.freenode.net
 [2016/01/04 11:12:14] @ Mode +o red_bot by ChanServ
+[2016/01/04 11:15:49] @ head8debian joined channel #supertux
+[2016/01/04 11:20:55] @ Quit: lumidify: Ping timeout: 260 seconds
