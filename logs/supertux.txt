@@ -36775,3 +36775,5 @@
 [2016/01/04 15:05:18] @ leyyin joined channel #supertux
 [2016/01/04 15:07:54] @ tux|dude joined channel #supertux
 [2016/01/04 15:12:10] @ bb010g joined channel #supertux
+[2016/01/04 15:32:05] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/04 15:32:56] @ Quit: tux|dude: Quit: Leaving
