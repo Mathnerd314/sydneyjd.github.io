@@ -36692,3 +36692,5 @@
 [2016/01/04 12:56:15] @ Quit: tuxdev_: Ping timeout: 260 seconds
 [2016/01/04 13:08:30] @ Quit: lumidify1: Quit: Leaving
 [2016/01/04 13:08:55] @ lumidify joined channel #supertux
+[2016/01/04 13:26:00] @ claymore2 joined channel #supertux
+[2016/01/04 13:29:30] <Not-e81f> [02supertux] 07Gerfaut starred 03supertux - 13http://git.io/vucON
