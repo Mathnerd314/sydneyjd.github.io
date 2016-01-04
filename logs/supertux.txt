@@ -36640,3 +36640,6 @@
 [2016/01/04 04:26:31] @ datahead8888 joined channel #supertux
 [2016/01/04 05:36:35] @ Quit: lumidify: Ping timeout: 240 seconds
 [2016/01/04 05:42:43] @ lumidify joined channel #supertux
+[2016/01/04 05:48:46] <mt> re: use TTF for fonts: I wonder if SDL_ttf or FreeType is better
+[2016/01/04 05:50:26] <mt> also 10/10 best font: https://urandom.eu.org/i/OHSaSxHZ.png
+[2016/01/04 05:52:20] @ Quit: lumidify: Ping timeout: 246 seconds
