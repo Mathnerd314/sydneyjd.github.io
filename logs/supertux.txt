@@ -36679,3 +36679,4 @@
 [2016/01/04 11:12:14] @ Mode +o red_bot by ChanServ
 [2016/01/04 11:15:49] @ head8debian joined channel #supertux
 [2016/01/04 11:20:55] @ Quit: lumidify: Ping timeout: 260 seconds
+[2016/01/04 11:43:51] @ lumidify joined channel #supertux
