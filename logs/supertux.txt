@@ -36672,3 +36672,8 @@
 [2016/01/04 10:42:19] @ jesusalva joined channel #supertux
 [2016/01/04 10:43:36] @ jesusalva left channel #supertux ()
 [2016/01/04 10:44:26] @ jesusalva joined channel #supertux
+[2016/01/04 11:12:01] @ Joined channel #supertux
+[2016/01/04 11:12:01] @ Topic is "IRC meeting Jan 9, 15:00 GMT | https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/01/04 11:12:01] @ Topic set by mt!~mteufel@unaffiliated/supermat on 2015-12-25 13:52:03 -0500
+[2016/01/04 11:12:05] @ Mode +Cnptj 5:10 by rajaniemi.freenode.net
+[2016/01/04 11:12:14] @ Mode +o red_bot by ChanServ
