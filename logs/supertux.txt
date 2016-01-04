@@ -36682,3 +36682,5 @@
 [2016/01/04 11:43:51] @ lumidify joined channel #supertux
 [2016/01/04 11:59:20] @ Hume2 joined channel #supertux
 [2016/01/04 11:59:21] @ Mode +v Hume2 by ChanServ
+[2016/01/04 12:18:36] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/01/04 12:29:27] @ alket joined channel #supertux
