@@ -36742,3 +36742,22 @@
 [2016/01/04 14:29:37] <mt> I'm not sure why you're porting it to Cocos2d-x (never heard of that anyway)
 [2016/01/04 14:29:57] <mt> But generally: read the license in the repo
 [2016/01/04 14:29:58] <slackmoehrle> because I work there and just wanted to work on something personal
+[2016/01/04 14:30:21] <mt> Unless you share it, you should probably be able to do anything what you want
+[2016/01/04 14:30:43] <mt> But if you want to make your work public, just follow the license (GPL, not sure if v2 or v3+)
+[2016/01/04 14:30:48] <slackmoehrle> Yes, I was thinking of putting it on GitHub.
+[2016/01/04 14:30:58] <mt> might be a problem dependind on the license of Cocos2d-x
+[2016/01/04 14:31:03] <slackmoehrle> yeah, good idea about the GPL.
+[2016/01/04 14:31:09] <slackmoehrle> Cocos2d-x is Creative Commons
+[2016/01/04 14:33:43] <mt> CC? What exactly is it then? CC is for content, not for code, right?
+[2016/01/04 14:35:20] <slackmoehrle> let me double check the difference.
+[2016/01/04 14:35:54] <slackmoehrle> you are right
+[2016/01/04 14:36:09] <slackmoehrle> some of our stuff is Creative Commons, our Programmers Guide, as an example.
+[2016/01/04 14:36:54] <Tobbi> good, giby_the_kid. Smack that kid on the mailing list down :D
+[2016/01/04 14:37:26] @ stewboy joined channel #supertux
+[2016/01/04 14:39:08] <slackmoehrle> @Tobbi is there an interesting conversation I should go read? :-)
+[2016/01/04 14:39:34] <Tobbi> slackmoehrle: Not at all. Just someone who apparently attached po files instead of translating on transifex.
+[2016/01/04 14:39:34] <mt> >| Afficher sur www.... | Aperçu par Yahoo |
+[2016/01/04 14:39:53] <mt> Yahoo est fou.
+[2016/01/04 14:39:56] <mt> :D
+[2016/01/04 14:40:17] <Tobbi> I don't speak French.
+[2016/01/04 14:40:24] <Tobbi> I don't like it, either.
