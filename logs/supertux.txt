@@ -36686,3 +36686,7 @@
 [2016/01/04 12:29:27] @ alket joined channel #supertux
 [2016/01/04 12:40:43] @ Karkus joined channel #supertux
 [2016/01/04 12:40:44] @ Mode +o Karkus by ChanServ
+[2016/01/04 12:49:53] @ Quit: Karkus: Remote host closed the connection
+[2016/01/04 12:55:10] @ lumidify1 joined channel #supertux
+[2016/01/04 12:55:34] @ Quit: lumidify: Ping timeout: 245 seconds
+[2016/01/04 12:56:15] @ Quit: tuxdev_: Ping timeout: 260 seconds
