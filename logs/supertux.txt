@@ -36761,3 +36761,13 @@
 [2016/01/04 14:39:56] <mt> :D
 [2016/01/04 14:40:17] <Tobbi> I don't speak French.
 [2016/01/04 14:40:24] <Tobbi> I don't like it, either.
+[2016/01/04 14:50:18] <slackmoehrle> @Tobbi  lol
+[2016/01/04 14:51:21] <Tobbi> slackmoehrle: And the mailing list removes all attachments, so we're left with nothing.
+[2016/01/04 14:51:33] @ Quit: stewboy: Read error: Connection reset by peer
+[2016/01/04 14:52:50] <slackmoehrle> @Tobbi and lol to the French comment. A comedian I saw recently did a great bit on French. To the nature of nobody is scared of thungs in Canada because they speak french.
+[2016/01/04 14:53:38] <Tobbi> slackmoehrle: Since the second world war, the ship of the French have a glass bottom, in order for them to see the rest of their fleet as well.
+[2016/01/04 14:54:04] <slackmoehrle> @Tobbi, lol. Hilarius.
+[2016/01/04 14:54:45] <Tobbi> slackmoehrle: Also, http://www.stupidedia.org/images/7/7d/Swiss_army_Knife.jpg
+[2016/01/04 14:57:54] <slackmoehrle> @Tobbi I found it: https://youtu.be/dVoxiFYzgvU?t=943
+[2016/01/04 14:57:58] <Not-e81f> [02supertux] 07mark-otaris commented on issue 03#307: Crash while holding Mr. IceBlock in edit mode - 13http://git.io/vucjp
+[2016/01/04 14:58:16] <slackmoehrle> @Tobbi starts there and goes on for some seconds.
