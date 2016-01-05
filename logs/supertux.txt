@@ -36835,3 +36835,4 @@
 [2016/01/05 00:43:18] <Not-e81f> [02supertux] 07zariuq starred 03supertux - 13http://git.io/vulgW
 [2016/01/05 00:43:20] <Not-e81f> [02supertux] 07zariuq starred 03supertux - 13http://git.io/vulgW
 [2016/01/05 00:43:21] <Not-e81f> [02supertux] 07zariuq starred 03supertux - 13http://git.io/vulgW
+[2016/01/05 01:08:55] @ tuxdev_ joined channel #supertux
