@@ -36804,3 +36804,22 @@
 [2016/01/04 20:35:33] @ stewboy joined channel #supertux
 [2016/01/04 21:14:01] <nerdopolis> Somelauw: I think (I think) you can get to it if you ride on the Yeti's head, and go on one of the ledges...
 [2016/01/04 21:14:29] <Somelauw> if i ride on its head, it's dead in no time
+[2016/01/04 21:16:56] @ Quit: head8debian: Changing host
+[2016/01/04 21:16:56] @ head8debian joined channel #supertux
+[2016/01/04 21:16:56] @ Mode +o head8debian by ChanServ
+[2016/01/04 21:17:13] <nerdopolis> There's a way to do it, I've done it before, but it was luck
+[2016/01/04 21:17:36] <nerdopolis> have to jump off, not hit the falling ice stilagtites
+[2016/01/04 21:18:19] <polyphagia> i've done it too
+[2016/01/04 21:18:22] <polyphagia> a few times
+[2016/01/04 21:18:34] <polyphagia> you have to time a jump appropriately
+[2016/01/04 21:18:49] <polyphagia> first time i did it was an accident :P
+[2016/01/04 21:19:02] @ Quit: head8debian: Quit: leaving
+[2016/01/04 21:19:49] @ head8debian joined channel #supertux
+[2016/01/04 21:19:49] @ Mode +o head8debian by ChanServ
+[2016/01/04 21:20:01] @ Quit: head8debian: Client Quit
+[2016/01/04 21:20:58] <nerdopolis> Somelauw: You can only get to the secet level from only one side though
+[2016/01/04 21:21:18] @ head8debian joined channel #supertux
+[2016/01/04 21:21:18] @ Quit: head8debian: Client Quit
+[2016/01/04 21:21:57] @ head8debian joined channel #supertux
+[2016/01/04 21:21:57] @ Quit: head8debian: Client Quit
+[2016/01/04 21:26:47] @ Quit: jesusalva: Quit: Good Night, God bless you.
