@@ -36966,3 +36966,20 @@
 [2016/01/05 11:42:07] @ Mode +zq Not-e81f!~notifico@198.199.82.216 by mt
 [2016/01/05 11:42:20] <maths22> mt: Thanks!
 [2016/01/05 11:42:37] <mt> even though it seems to have stopped now
+[2016/01/05 11:49:01] <Tobbi> Oh, before triggering a coverity scan, we should've rebased with latest changes from master.
+[2016/01/05 11:49:03] <Tobbi> But anyway.
+[2016/01/05 11:50:13] @ Hume2 joined channel #supertux
+[2016/01/05 11:50:13] @ Mode +v Hume2 by ChanServ
+[2016/01/05 11:50:32] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/100384740
+[2016/01/05 11:51:42] @ Karkus joined channel #supertux
+[2016/01/05 11:51:43] @ Mode +o Karkus by ChanServ
+[2016/01/05 11:51:52] <Hume2> Hello, Karkus
+[2016/01/05 11:52:12] <Karkus> Hello Hume2
+[2016/01/05 11:52:53] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/247
+[2016/01/05 11:53:29] <Tobbi> Build status: in queue.
+[2016/01/05 11:53:32] <Tobbi> Seems to be working.
+[2016/01/05 11:53:57] <maths22> Tobbi: I agree
+[2016/01/05 11:55:10] <Tobbi> maths22: Can we combine these two travis files into one? I really hate not being able to git reset --hard origin/master when I need to.
+[2016/01/05 11:58:41] <maths22> Tobbi: Yes.  I just need to do more major re-working to make that work, so I figured I would manually edit to confirm that fixing what I wanted to fix indeed fixed it
+[2016/01/05 11:58:50] <maths22> We can force-push over it later
+[2016/01/05 11:58:53] <Tobbi> Sounds good.
