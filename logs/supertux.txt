@@ -36934,3 +36934,35 @@
 [2016/01/05 11:27:32] <Tobbi> I see.
 [2016/01/05 11:29:08] <maths22> Tobbi: I have requested access on coverity-could you accept it when you have a chance?
 [2016/01/05 11:29:18] <Tobbi> Sure.
+[2016/01/05 11:31:15] <Tobbi> maths22: I added you as "Maintainer, owner". I trust you enough :)
+[2016/01/05 11:32:42] <maths22> Tobbi: Thanks!
+[2016/01/05 11:33:05] @ Quit: giby: Quit: This computer has gone to sleep
+[2016/01/05 11:34:45] <Not-e81f> [02supertux] 07tobbi pushed 032 commits to 03master [+0/-0/±3] 13http://git.io/vuBPM
+[2016/01/05 11:34:46] <Not-e81f> [02supertux] 07Tobias Markus 0386a287a - Remove German strings from Missingno.stl level [ci skip]
+[2016/01/05 11:34:48] <Not-e81f> [02supertux] 07Tobias Markus 039234349 - Remove another German source string from level, update translations/ submodule
+[2016/01/05 11:36:28] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03coverity_scan [+0/-0/±1] 13http://git.io/vuBXl
+[2016/01/05 11:36:30] <Not-e81f> [02supertux] 07Jacob Burroughs 0382d3722 - Update .travis.yml
+[2016/01/05 11:36:31] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/100384740
+[2016/01/05 11:36:33] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/247
+[2016/01/05 11:37:10] <Tobbi> Let's see...
+[2016/01/05 11:38:54] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/100384740
+[2016/01/05 11:38:59] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/100384740
+[2016/01/05 11:39:13] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/100384740
+[2016/01/05 11:39:26] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/100384740
+[2016/01/05 11:39:43] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/100384740
+[2016/01/05 11:39:53] @ irungentoo joined channel #supertux
+[2016/01/05 11:39:59] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/100384740
+[2016/01/05 11:40:12] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/100384740
+[2016/01/05 11:40:21] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/100384740
+[2016/01/05 11:40:33] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/100384740
+[2016/01/05 11:40:34] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/100384740
+[2016/01/05 11:40:44] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/100384740
+[2016/01/05 11:40:47] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/100384740
+[2016/01/05 11:40:49] <maths22> What is with these notifications!?
+[2016/01/05 11:41:00] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/100384740
+[2016/01/05 11:41:09] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/100384740
+[2016/01/05 11:41:23] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/100384740
+[2016/01/05 11:41:32] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/100384740
+[2016/01/05 11:42:07] @ Mode +zq Not-e81f!~notifico@198.199.82.216 by mt
+[2016/01/05 11:42:20] <maths22> mt: Thanks!
+[2016/01/05 11:42:37] <mt> even though it seems to have stopped now
