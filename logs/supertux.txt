@@ -36901,3 +36901,5 @@
 [2016/01/05 09:05:38] <mt> ref: https://github.com/SuperTux/supertux/issues/285
 [2016/01/05 09:05:48] <mt> also: https://github.com/SuperTux/supertux/issues/287
 [2016/01/05 09:14:40] <maths22> mt: Windows store does not support OpenGL, so we have to use software rendering anyways.
+[2016/01/05 09:38:15] <mt> https://www.youtube.com/watch?v=SSOS2uwqpfw (one soundtrack in SuperTux is based on that, guess which one - without knowing it from the credits)
+[2016/01/05 09:42:12] <Not-e81f> [02supertux] 07HelloWorldishere forked the repository - 13http://git.io/vu4N6
