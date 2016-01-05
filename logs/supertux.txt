@@ -37518,3 +37518,74 @@
 [2016/01/05 17:13:28] <Tobbi> We should review code in comments anyway.
 [2016/01/05 17:13:52] <leyyin> did not see any performance problems in my limited testing
 [2016/01/05 17:14:05] <Tobbi> leyyin: Alright.
+[2016/01/05 17:15:19] <Tobbi> We also have old SDL code lying around.
+[2016/01/05 17:16:24] @ Jesusaves joined channel #supertux
+[2016/01/05 17:17:49] <Not-e81f> [02supertux] 07maths22 created branch 03clang-format - 13http://git.io/vvf63
+[2016/01/05 17:17:50] <Not-e81f> [02supertux] 07maths22 pushed 031 commit to 03clang-format [+1/-0/±623] 13http://git.io/vu057
+[2016/01/05 17:17:52] <Not-e81f> [02supertux] 07Jacob Burroughs 0303ceafd - Intitial clang-format\nPlease run this prior to new commits in the future
+[2016/01/05 17:17:54] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/100459651
+[2016/01/05 17:17:55] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/252
+[2016/01/05 17:17:57] @ Quit: jesusalva: Disconnected by services
+[2016/01/05 17:18:04] @ Jesusaves is now known as jesusalva
+[2016/01/05 17:18:17] <Tobbi> naming an enum Enum is the way to go.
+[2016/01/05 17:19:20] <leyyin> rofl
+[2016/01/05 17:19:32] <leyyin> you do not have SLD 2.0.4? :D
+[2016/01/05 17:19:40] <leyyin> *SDL
+[2016/01/05 17:20:02] <Tobbi> leyyin: What? We use SDL 2.
+[2016/01/05 17:20:25] <maths22> https://github.com/SuperTux/supertux/commit/03ceafd30deb0b5d96835ecd57eab625524e6e02
+[2016/01/05 17:20:26] <leyyin> I misunderstood
+[2016/01/05 17:20:55] <maths22> I'm thinking I need to allow wider lines-what do you think?
+[2016/01/05 17:21:05] <leyyin> 120 column :P
+[2016/01/05 17:21:24] <Tobbi> Possibly.
+[2016/01/05 17:21:37] <Tobbi> Can we add a git hook that will do this automatically?
+[2016/01/05 17:21:44] <maths22> Tobbi: In some way...
+[2016/01/05 17:21:48] <Tobbi> hmm...
+[2016/01/05 17:21:51] <leyyin> ahem, AllowShortFunctionsOnASingleLine: true
+[2016/01/05 17:22:16] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/100459651
+[2016/01/05 17:22:30] <Tobbi> leyyin: How comes you know so much about this? I have never used that strange formatter in my life.
+[2016/01/05 17:22:36] <Tobbi> I use sane things like cppcheck :D
+[2016/01/05 17:22:45] <leyyin> that is a formatter?
+[2016/01/05 17:22:51] <Tobbi> leyyin: no, but it's sane.
+[2016/01/05 17:22:56] <maths22> leyyin: ?
+[2016/01/05 17:22:57] <Tobbi> :D
+[2016/01/05 17:23:02] <maths22> About AllowShortFunctionsOnASingleLine
+[2016/01/05 17:23:04] <leyyin> well, I got annoyed at formating code by hand
+[2016/01/05 17:23:13] <maths22> Can you point me to an example?
+[2016/01/05 17:23:15] <Tobbi> hmm, ok
+[2016/01/05 17:23:18] <leyyin> so I learned about clang-format, I remember the code at google using clang-format for formating
+[2016/01/05 17:23:29] <leyyin> maths22, http://clangformat.com/
+[2016/01/05 17:23:34] <maths22> Also, this commit will give me "credit" for so many lines of code!
+[2016/01/05 17:23:36] <leyyin> 5'th option
+[2016/01/05 17:23:43] <Tobbi> :D
+[2016/01/05 17:23:44] <maths22> leyyin: I meant in our codebase
+[2016/01/05 17:23:50] <maths22> Where it is doing the wrong thing
+[2016/01/05 17:23:56] <leyyin> src/addon/addon.hpp
+[2016/01/05 17:24:16] <leyyin> get_title, get_author, etc
+[2016/01/05 17:24:17] <Tobbi> Hmm, we could actually hook up a cronjob to update the pot files every once in a while.
+[2016/01/05 17:24:19] <maths22> Will fix
+[2016/01/05 17:24:38] <maths22> Somehow it got set to "all"
+[2016/01/05 17:24:47] <Tobbi> Who is willing to do that? Create a cronjob?
+[2016/01/05 17:25:01] <maths22> And isn't doing anything
+[2016/01/05 17:25:08] <Tobbi> An automatic way to handle translations would be a great thing.
+[2016/01/05 17:25:14] <Tobbi> No more committing stuff, pushing stuff etc.
+[2016/01/05 17:25:18] <leyyin> maybe because you have AlwaysBreakAfterDefinitionReturnType: true
+[2016/01/05 17:25:31] <maths22> leyyin: Probably
+[2016/01/05 17:25:58] <Tobbi> head8debian: ping?
+[2016/01/05 17:26:01] <leyyin> anyway, it is not a big deal, the code looks nice :D
+[2016/01/05 17:26:02] <maths22> leyyin: This is the full config: https://transfer.sh/lvGcg/fullconfig
+[2016/01/05 17:26:16] <maths22> Before merging, I'll mess with it more tonight
+[2016/01/05 17:26:24] <head8debian> Tobbi: pong.
+[2016/01/05 17:26:28] <head8debian> Tobbi: What?
+[2016/01/05 17:26:43] <Tobbi> head8debian: could you create a cronjob that updates l10n files...?
+[2016/01/05 17:26:49] <Tobbi> for transifex, I mean?
+[2016/01/05 17:27:02] <Tobbi> And probably from transifex as well?
+[2016/01/05 17:27:19] <Tobbi> I meant pot files.
+[2016/01/05 17:27:49] @ Quit: alket: Disconnected by services
+[2016/01/05 17:27:49] @ Drangue joined channel #supertux
+[2016/01/05 17:27:54] <head8debian> Tobbi: Uhm, probably not.
+[2016/01/05 17:28:01] <Tobbi> hmm, okay.
+[2016/01/05 17:28:20] <Tobbi> How do we make working with localization easier then?
+[2016/01/05 17:28:39] <head8debian> Tobbi: Uhm, i don't know. We don't?
+[2016/01/05 17:28:46] <Tobbi> hrm.
+[2016/01/05 17:29:48] <maths22> Tobbi: Can I be added to transifex in a way that I can dowload stuff?
+[2016/01/05 17:29:54] <Tobbi> One moment.
