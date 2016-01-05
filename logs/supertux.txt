@@ -36897,3 +36897,7 @@
 [2016/01/05 08:51:14] <maths22> head8debian: It is a one-time fee to submit as many games as you want
 [2016/01/05 08:51:48] <mt> head8debian: that's not even a lot if you consider there's people who sell their games on steam
 [2016/01/05 08:55:14] <head8debian> mt: Yes, i do see that, but for games like Supertux its alot.
+[2016/01/05 09:04:58] <mt> maths22: but shouldn't we fix that windows+intel hd issue before making it available on windows store? :P
+[2016/01/05 09:05:38] <mt> ref: https://github.com/SuperTux/supertux/issues/285
+[2016/01/05 09:05:48] <mt> also: https://github.com/SuperTux/supertux/issues/287
+[2016/01/05 09:14:40] <maths22> mt: Windows store does not support OpenGL, so we have to use software rendering anyways.
