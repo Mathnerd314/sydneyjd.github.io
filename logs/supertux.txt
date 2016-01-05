@@ -36983,3 +36983,51 @@
 [2016/01/05 11:58:41] <maths22> Tobbi: Yes.  I just need to do more major re-working to make that work, so I figured I would manually edit to confirm that fixing what I wanted to fix indeed fixed it
 [2016/01/05 11:58:50] <maths22> We can force-push over it later
 [2016/01/05 11:58:53] <Tobbi> Sounds good.
+[2016/01/05 12:01:05] <mt> can't we just put all the build commands in a shell script that outputs the command and its output
+[2016/01/05 12:01:19] <mt> and don't run that script if the coverity variable is set
+[2016/01/05 12:01:27] <mt> and then run that script as coverity script
+[2016/01/05 12:02:11] <Tobbi> "Last Build Status: In-queue. Your build is in the queue to be analyzed. There are 207 builds ahead of it."
+[2016/01/05 12:02:13] <Tobbi> What?
+[2016/01/05 12:02:25] <Tobbi> this certainly changed.
+[2016/01/05 12:02:57] @ alket joined channel #supertux
+[2016/01/05 12:03:01] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/100384740
+[2016/01/05 12:03:03] <Tobbi> This could take some time until the build is finally analyzed.
+[2016/01/05 12:03:15] <maths22> mt: That is what I'm going to do
+[2016/01/05 12:04:09] <Karkus> Tobbi: What do you think SuperTux's Bus Factor is? https://en.m.wikipedia.org/wiki/Bus_factor
+[2016/01/05 12:04:19] <mt> is that a 'major re-work'
+[2016/01/05 12:04:55] <maths22> mt: Just in that I need to do it on my local machine and modify multiple files
+[2016/01/05 12:05:07] <maths22> (I did the test through github's web interface)
+[2016/01/05 12:05:28] <mt> Silly coverity interface
+[2016/01/05 12:05:37] <mt> I can't remove myself as Admin
+[2016/01/05 12:05:40] <Tobbi> Karkus: I really do not know. But I think it's high. I have taught you guys enough to carry on without me. :) I have done everything, and I believe everyone else has at least a basic understanding of the other areas.
+[2016/01/05 12:05:42] <mt> If I wanted to
+[2016/01/05 12:06:05] <mt> Who is "landroni"?
+[2016/01/05 12:06:26] <Karkus> Tobbi: Sounds good :D
+[2016/01/05 12:07:00] <Tobbi> mt: Guy who helped out some time ago.
+[2016/01/05 12:07:06] <Tobbi> Not sure how long he doesn't contribute anymore.
+[2016/01/05 12:08:34] <mt> https://scan.coverity.com/projects/supertux-supertux?tab=analysis_settings
+[2016/01/05 12:08:44] <Tobbi> mt: https://launchpad.net/~landronimirc
+[2016/01/05 12:08:45] <mt> the /usr/lib/* one
+[2016/01/05 12:08:56] <Tobbi> mt: These files did show up.
+[2016/01/05 12:08:57] <mt> might that not break because libsupertux.a?
+[2016/01/05 12:09:05] <Tobbi> Oh, I don't know.
+[2016/01/05 12:09:11] <Tobbi> We'll have to see.
+[2016/01/05 12:09:28] <Tobbi> mt: Wait, we're talking about source files.
+[2016/01/05 12:09:32] <Tobbi> Not about libraries.
+[2016/01/05 12:09:40] <maths22> Tobbi: Exactly
+[2016/01/05 12:11:13] <Tobbi> If there are 207 builds ahead of it, and it hasn't changed in the 10 minutes we have been talking, that could mean the build is likely gonna take a long, long time.
+[2016/01/05 12:11:15] <mt> why does it consider /usr/* then anyway? >_>
+[2016/01/05 12:11:23] <Tobbi> mt: Don't ask me that.
+[2016/01/05 12:11:29] <Tobbi> There are header files it took into account.
+[2016/01/05 12:11:34] <maths22> Tobbi: I wonder if something is currently broken/stuck
+[2016/01/05 12:11:37] <Tobbi> And displayed me issues in <memory> for example.
+[2016/01/05 12:11:46] <Tobbi> hmm...
+[2016/01/05 12:12:52] <Hume2> So I guess that I shouldn't commit anything until the build finishes, right?
+[2016/01/05 12:13:04] <mt> you can, to the master branch
+[2016/01/05 12:13:09] <mt> just not to coverity_scan
+[2016/01/05 12:13:26] <Hume2> Oh, yes. i forgot that.
+[2016/01/05 12:13:29] <Tobbi> maths22: I really don't know. And coverity doesn't have an IRC channel...
+[2016/01/05 12:13:34] <Tobbi> So, maybe we should contact support.
+[2016/01/05 12:13:40] <Tobbi> But I guess it's a general problem.
+[2016/01/05 12:14:06] <mt> ask them on twitter?
+[2016/01/05 12:14:37] <Tobbi> Yeah, possibly.
