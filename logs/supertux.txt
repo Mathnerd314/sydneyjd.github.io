@@ -37187,3 +37187,5 @@
 [2016/01/05 13:40:28] <mt> I could tar.xz the 0.4.0 release
 [2016/01/05 13:40:44] <mt> well, its source code
 [2016/01/05 13:41:09] <mt> and - we don't provide a gnu/linux standalone - just the packaged OBS builds which are distro dependent
+[2016/01/05 13:46:57] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#319: Magic blocks do not respond to some light elements - 13http://git.io/vuRaf
+[2016/01/05 13:52:20] @ Quit: Hume2: Quit: Page closed
