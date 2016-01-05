@@ -37225,3 +37225,26 @@
 [2016/01/05 14:43:27] <Tobbi> But, we're now at 205 instead of 207.
 [2016/01/05 14:43:49] <mt> maths22: https://github.com/SuperTux/supertux/commit/66b56997ed2d29e278891b32a68dca1828e842c8
 [2016/01/05 14:44:57] <maths22> mt: Your "hack" is realistically the only way to get a .app without running it through CPack
+[2016/01/05 14:45:13] <maths22> Homebrew should work from the command line without it
+[2016/01/05 14:45:38] <mt> yeah, but homebrew can link the .app bundle to /Applications
+[2016/01/05 14:46:04] <mt> and it's not possible to not build an .app bundle on OSX without a customized CMakeLists.txt
+[2016/01/05 14:46:49] <maths22> mt: Then I think your "hack" is necessary
+[2016/01/05 14:47:26] <mt> Is it possible to build with CPack
+[2016/01/05 14:47:40] <mt> and without including these bundle libs in the .app?
+[2016/01/05 14:47:48] <maths22> What bundle libs?
+[2016/01/05 14:48:08] <mt> there was some libpng.dylibs that ended up in the install_prefix
+[2016/01/05 14:48:13] @ Quit: alket: Remote host closed the connection
+[2016/01/05 14:48:37] @ alket joined channel #supertux
+[2016/01/05 14:49:01] <maths22> mt: I don't think so-I'll look into it
+[2016/01/05 14:53:29] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#319: Magic blocks do not respond to some light elements - 13http://git.io/vuRj4
+[2016/01/05 14:53:59] <maths22> mt: I think I'll look into it more later once I am around a mac
+[2016/01/05 14:54:19] @ Quit: claymore2: Quit: Leaving
+[2016/01/05 14:54:57] <mt> ok
+[2016/01/05 14:57:54] <Tobbi> I have to say I am amazed at how complicated build systems can be.
+[2016/01/05 14:58:50] <maths22> Tobbi: They are also fun!
+[2016/01/05 14:58:56] <Tobbi> I can imagine, kind of.
+[2016/01/05 14:59:21] <maths22> (Except that I don't think I'll be able to use CMake properly for WinRT)
+[2016/01/05 14:59:47] <Not-e81f> [02supertux] 07LMH0013 labeled issue 03#320: Inconsistent/crude death effects - 13http://git.io/vu0f6
+[2016/01/05 14:59:49] <Not-e81f> [02supertux] 07LMH0013 labeled issue 03#320: Inconsistent/crude death effects - 13http://git.io/vu0f6
+[2016/01/05 14:59:50] <Not-e81f> [02supertux] 07LMH0013 labeled issue 03#320: Inconsistent/crude death effects - 13http://git.io/vu0f6
+[2016/01/05 14:59:52] <Not-e81f> [02supertux] 07LMH0013 opened issue 03#320: Inconsistent/crude death effects - 13http://git.io/vu0f6
