@@ -37079,3 +37079,45 @@
 [2016/01/05 12:29:06] <Tobbi> That's great!
 [2016/01/05 12:29:30] <Tobbi> LZMA2 might be better, though :D
 [2016/01/05 12:29:35] <Tobbi> But, hey, better than nothing.
+[2016/01/05 12:30:04] <polyphagia> should addons be able to use 7z then too?
+[2016/01/05 12:30:20] <polyphagia> optionally, to be backwards compatable
+[2016/01/05 12:30:28] <Tobbi> We could do that...
+[2016/01/05 12:31:11] <maths22> Raw data dir: 116 mb
+[2016/01/05 12:31:21] <maths22> zip: 78 mb
+[2016/01/05 12:31:33] <maths22> 7z: 74 mb
+[2016/01/05 12:31:40] <mt> zip reducing the actual file size? uh
+[2016/01/05 12:31:57] <maths22> mt: ?
+[2016/01/05 12:32:08] <mt> zip isn't that effective, usually
+[2016/01/05 12:32:12] <maths22> And sorry-raw is actually 122
+[2016/01/05 12:32:28] <maths22> mt: It mostly reduces the file size on all the text-based files
+[2016/01/05 12:33:32] @ Quit: lumidify: Ping timeout: 276 seconds
+[2016/01/05 12:33:52] <Tobbi> But, that decrease is grat.
+[2016/01/05 12:33:53] <Tobbi> great
+[2016/01/05 12:34:05] <maths22> Particularly, the levels go from 42 mb to 2 mb (roughly)
+[2016/01/05 12:34:26] <Tobbi> maths22: What settings did you use?
+[2016/01/05 12:34:30] <Tobbi> Can we tweak them more?
+[2016/01/05 12:34:37] <maths22> Default 7zip settings for both
+[2016/01/05 12:34:49] <Tobbi> maths22: So if we use "ultra" compression?
+[2016/01/05 12:34:58] @ lumidify joined channel #supertux
+[2016/01/05 12:34:59] <Tobbi> Would that work?
+[2016/01/05 12:35:15] @ leyyin joined channel #supertux
+[2016/01/05 12:35:19] <maths22> Tobbi: I'll try it-it will probably slow down extraction when playing
+[2016/01/05 12:35:24] <Karkus> Tobbi: ^
+[2016/01/05 12:35:29] <Karkus> I was typing that :P
+[2016/01/05 12:35:32] <maths22> Tobbi: It is using LZMA
+[2016/01/05 12:35:39] <maths22> s/LZMA/LZMA2/
+[2016/01/05 12:35:39] <red_bot> maths22 meant: "Tobbi: It is using LZMA2"
+[2016/01/05 12:35:50] <Tobbi> maths22: Ultra is using LZMA2?
+[2016/01/05 12:36:00] <Tobbi> While normal isn't?
+[2016/01/05 12:36:00] <maths22> Tobbi: No-all of them are
+[2016/01/05 12:36:00] <mt> what about xz?
+[2016/01/05 12:36:10] <Tobbi> maths22: Then we can't use that, can we?
+[2016/01/05 12:36:22] <maths22> Tobbi: Not sure-will investigate later
+[2016/01/05 12:36:29] <Tobbi> ok
+[2016/01/05 12:36:59] <Tobbi> I'd say since physfs was last updated in 2003 and LZMA2 was released....later than that.
+[2016/01/05 12:37:53] <maths22> Tobbi: I think ZIP is probably the better choice-less CPU intensive and better supported
+[2016/01/05 12:38:06] <Tobbi> might be.
+[2016/01/05 12:38:28] <Tobbi> Let's see how 7z compares to zip.
+[2016/01/05 12:39:01] <Tobbi> bbl, gonna buy some stuff...
+[2016/01/05 12:43:00] <Hume2> Do you know that Windows 8 still hasn't WinRAR integrated?
+[2016/01/05 12:43:19] <Hume2> It's really a strange system...
