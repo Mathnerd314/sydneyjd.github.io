@@ -36795,3 +36795,4 @@
 [2016/01/04 18:54:00] @ Somelauw joined channel #supertux
 [2016/01/04 18:54:09] <Somelauw> Is there actually a secret in the yeti level?
 [2016/01/04 18:58:20] <Somelauw> I'm using version 3.5a
+[2016/01/04 19:22:24] @ Quit: alket: Quit: Good Night :)
