@@ -36876,3 +36876,9 @@
 [2016/01/05 07:42:37] @ Quit: giby: Quit: This computer has gone to sleep
 [2016/01/05 08:12:16] <Not-e81f> [02supertux] 07orociic starred 03supertux - 13http://git.io/vu44H
 [2016/01/05 08:29:59] @ mhall119 left channel #supertux ()
+[2016/01/05 08:37:13] <Not-e81f> [02supertux] 07toofff starred 03supertux - 13http://git.io/vu42b
+[2016/01/05 08:43:52] <head8debian> maths22: Cool, but eww. :-/ If we can get into the windows store that would be cool.
+[2016/01/05 08:44:03] <maths22> head8debian: What is the eww about?
+[2016/01/05 08:44:17] @ irungentoo joined channel #supertux
+[2016/01/05 08:44:27] <head8debian> maths22: You said that 2 things currently don't work. ;)
+[2016/01/05 08:44:49] <mt> better if we could get the game into steam
