@@ -37031,3 +37031,51 @@
 [2016/01/05 12:13:40] <Tobbi> But I guess it's a general problem.
 [2016/01/05 12:14:06] <mt> ask them on twitter?
 [2016/01/05 12:14:37] <Tobbi> Yeah, possibly.
+[2016/01/05 12:15:06] <maths22> By the way, on WinRT, I actually have it loading the data directory from a .zip file
+[2016/01/05 12:15:10] <maths22> PhysFS is cool that way
+[2016/01/05 12:16:46] <Tobbi> Wait...
+[2016/01/05 12:17:01] <Tobbi> Does "We've been experiencing some trouble" imply the issues are fixed now?
+[2016/01/05 12:17:05] <Tobbi> Oh.
+[2016/01/05 12:17:09] <Tobbi> It probably does.
+[2016/01/05 12:17:31] <Tobbi> I don't know anything about English.
+[2016/01/05 12:17:39] <mt> that's already a few days old, tho
+[2016/01/05 12:18:09] <Tobbi> mt: No, it's what I posted.
+[2016/01/05 12:18:26] <Tobbi> I posted "@coverityScan We've been experiencing some trouble getting our build to analyze. It says there are 207 builds ahead in queue. Any ideas?"
+[2016/01/05 12:18:37] <Tobbi> I suck at English :D
+[2016/01/05 12:18:50] <Tobbi> Ah, never mind, they should get what I mean.
+[2016/01/05 12:19:03] <Hume2> That's true.
+[2016/01/05 12:19:32] <maths22> See the top messages here https://twitter.com/search?q=%40coverityscan&src=typd&lang=en
+[2016/01/05 12:19:54] <Tobbi> hah!
+[2016/01/05 12:19:56] <Tobbi> Good!
+[2016/01/05 12:20:01] <Tobbi> So we're not the only ones.
+[2016/01/05 12:22:53] @ giby joined channel #supertux
+[2016/01/05 12:22:54] @ Mode +o giby by ChanServ
+[2016/01/05 12:24:56] <maths22>  By the way, we might want to consider supporting generally keeping the data dir as a zip file
+[2016/01/05 12:25:09] <maths22> It greatly reduces the disk space used by SuperTux
+[2016/01/05 12:25:32] <polyphagia> it's not great for packaging though
+[2016/01/05 12:25:34] <polyphagia> for win32 i'd leave it
+[2016/01/05 12:26:02] <polyphagia> but in debian for instance we don't generally want packaged data assets, since we'll symlink to assets like fonts
+[2016/01/05 12:26:03] <maths22> polyphagia: I was mostly thinking for regular windows builds in addition to winrt builds
+[2016/01/05 12:26:05] <polyphagia> oh ok
+[2016/01/05 12:26:07] <polyphagia> then yeah
+[2016/01/05 12:26:32] <maths22> And also for our own self-packaged builds (the nightly ones that don't go in repos)
+[2016/01/05 12:26:49] <maths22> If I pursue it, I will make it a cmake flag
+[2016/01/05 12:27:01] <polyphagia> yeah that's what i ended up doing for another game i packaged
+[2016/01/05 12:27:06] <polyphagia> that used zip data
+[2016/01/05 12:27:19] <jesusalva> Won't loading data from inside a package make the game slower?
+[2016/01/05 12:27:53] <polyphagia> i think physfs abstracts most of the performance stuff
+[2016/01/05 12:27:53] <Tobbi> maths22: Hmm, we could use 7z, couldn't we?
+[2016/01/05 12:28:03] <maths22> jesusalva: I would suggest we test it before using it-possibly
+[2016/01/05 12:28:06] <maths22> Tobbi: Yes
+[2016/01/05 12:28:13] <maths22> And see http://stackoverflow.com/questions/7050997/zip-files-using-cmake
+[2016/01/05 12:28:16] <polyphagia> does the game not pre-load sounds btw?
+[2016/01/05 12:28:21] <maths22> We could generate it with cmake
+[2016/01/05 12:28:22] <polyphagia> i notice some IO slowdown mid-game occasionally
+[2016/01/05 12:28:26] <Tobbi> maths22: I mean: Does physfs support loading from 7z archives?
+[2016/01/05 12:28:31] <polyphagia> sometimes it's kind of jarring
+[2016/01/05 12:28:42] <maths22> Tobbi: Yes
+[2016/01/05 12:28:47] <maths22> https://icculus.org/physfs/
+[2016/01/05 12:28:57] <polyphagia> that would be a cool maths22 !
+[2016/01/05 12:29:06] <Tobbi> That's great!
+[2016/01/05 12:29:30] <Tobbi> LZMA2 might be better, though :D
+[2016/01/05 12:29:35] <Tobbi> But, hey, better than nothing.
