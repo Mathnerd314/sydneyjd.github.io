@@ -37589,3 +37589,24 @@
 [2016/01/05 17:28:46] <Tobbi> hrm.
 [2016/01/05 17:29:48] <maths22> Tobbi: Can I be added to transifex in a way that I can dowload stuff?
 [2016/01/05 17:29:54] <Tobbi> One moment.
+[2016/01/05 17:30:13] <leyyin> anyway, gn
+[2016/01/05 17:30:33] <Tobbi> maths22: Invited you.
+[2016/01/05 17:30:36] <Tobbi> good night, leyyin
+[2016/01/05 17:31:05] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/01/05 17:32:59] <maths22> Tobbi: Look at http://docs.transifex.com/integrations/github/
+[2016/01/05 17:33:25] <Tobbi> Sounds good!
+[2016/01/05 17:33:28] <Tobbi> We should do that.
+[2016/01/05 17:33:59] <maths22> That will incent translating 100%
+[2016/01/05 17:34:06] <maths22> I'll look into setting it up later
+[2016/01/05 17:34:25] <maths22> We should be able to run it on the downloads.supertuxproject.org server
+[2016/01/05 17:36:07] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/252
+[2016/01/05 17:37:36] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/100459651
+[2016/01/05 17:39:11] <Tobbi> maths22: We need to run this on the main game repo as well as the add-ons repo.
+[2016/01/05 17:39:47] <Tobbi> both contain that makepot.sh script.
+[2016/01/05 17:42:00] <maths22> Tobbi: what does makepot.sh do?
+[2016/01/05 17:42:28] <Tobbi> maths22: Create translation templates from the game's contents.
+[2016/01/05 17:42:38] <Tobbi> I wanted to convert that into a python script anyway.
+[2016/01/05 17:42:41] <maths22> OK
+[2016/01/05 17:43:36] <maths22> Speaking of visual studio oddness, I haven't done anything with VS in a few hours-it just started eating up 35% of my cpu for a few seconds, made my fan run fast, and then stopped
+[2016/01/05 17:44:45] @ Drangue is now known as alket
+[2016/01/05 17:44:47] <Tobbi> lol
