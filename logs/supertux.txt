@@ -37189,3 +37189,8 @@
 [2016/01/05 13:41:09] <mt> and - we don't provide a gnu/linux standalone - just the packaged OBS builds which are distro dependent
 [2016/01/05 13:46:57] <Not-e81f> [02supertux] 07Hume2 commented on issue 03#319: Magic blocks do not respond to some light elements - 13http://git.io/vuRaf
 [2016/01/05 13:52:20] @ Quit: Hume2: Quit: Page closed
+[2016/01/05 14:02:05] <Not-e81f> [02supertux] 07herrersystem starred 03supertux - 13http://git.io/vuRiM
+[2016/01/05 14:06:12] <Not-e81f> [02supertux] 07brmbrmcar commented on issue 03#319: Magic blocks do not respond to some light elements - 13http://git.io/vuRXC
+[2016/01/05 14:07:50] @ Quit: lumidify: Ping timeout: 246 seconds
+[2016/01/05 14:12:10] <Not-e81f> [02supertux] 07LMH0013 commented on issue 03#319: Magic blocks do not respond to some light elements - 13http://git.io/vuRMi
+[2016/01/05 14:14:51] @ lumidify joined channel #supertux
