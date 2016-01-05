@@ -37477,3 +37477,44 @@
 [2016/01/05 16:59:26] <Tobbi> hrm.
 [2016/01/05 16:59:50] <maths22> leyyin: Can you tell me what you think of https://transfer.sh/r3T7n/tmp-badguy.cpp
 [2016/01/05 16:59:57] <maths22> I ran it through the formatter
+[2016/01/05 17:00:54] <Tobbi> interesting :D
+[2016/01/05 17:01:12] <maths22> Tobbi: What?
+[2016/01/05 17:01:19] <maths22> Also, what is our brace style?
+[2016/01/05 17:01:35] <maths22> We don't appear to actually follow the google standard, which is fine, except that we cite it
+[2016/01/05 17:01:52] <maths22> I think before I run this more, we need to fix CODINGSTYLE to actually document what we want
+[2016/01/05 17:01:57] <Tobbi> maths22: Hmm, my prof always wanted to see braces in the new line...
+[2016/01/05 17:02:05] <Tobbi> other than in line with the definition, if statement etc.
+[2016/01/05 17:02:19] <Tobbi> 205 builds ahead of ours.
+[2016/01/05 17:02:21] <maths22> Tobbi: Interesting.
+[2016/01/05 17:02:33] <Tobbi> maths22: Not really...
+[2016/01/05 17:02:53] <Tobbi> maths22: It's interesting that the formatter formatted code in comments like a block...
+[2016/01/05 17:03:13] <Tobbi> I believe.
+[2016/01/05 17:03:17] <Tobbi> Or maybe I didn't look hard enough.
+[2016/01/05 17:03:20] <leyyin> ha, it is nice
+[2016/01/05 17:03:59] <maths22> Transfer.sh is really nice
+[2016/01/05 17:04:40] <leyyin> hmm, TIL about transfer.sh
+[2016/01/05 17:04:59] <maths22> leyyin: I use it for uploading the OS X builds off of Travis
+[2016/01/05 17:05:17] <Tobbi> Now that most of the methods are correctly marked as const, what will I next OCD about?
+[2016/01/05 17:05:25] <maths22> I think function braces should be on their own line (in c++ at least)
+[2016/01/05 17:05:30] <maths22> Changing...
+[2016/01/05 17:05:48] <Tobbi> maths22: Yeah, that's what I learned too.
+[2016/01/05 17:05:58] <Tobbi> In Java it's different.
+[2016/01/05 17:07:29] <maths22> Same-I do more Java than c++, so I'm more used to same line
+[2016/01/05 17:07:57] <Tobbi> leyyin: Did you notice any performance problems when playing SuperTux? Something we could try to fix?
+[2016/01/05 17:08:01] <maths22> What about if, while, etc
+[2016/01/05 17:08:22] <maths22> The convention is less strong one way or the other
+[2016/01/05 17:08:30] <Tobbi> hmm, not sure
+[2016/01/05 17:08:56] <maths22> I personally prefer same line, but it isn't very important
+[2016/01/05 17:10:01] <Tobbi> I think I have been changing that in the past to the same as function style. Because OCD.
+[2016/01/05 17:10:12] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/251
+[2016/01/05 17:10:23] <maths22> Tobbi: I'll set it that way then
+[2016/01/05 17:10:51] <maths22> Config changed
+[2016/01/05 17:11:01] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/100454332
+[2016/01/05 17:12:17] <maths22> It will break code in comments, but since it shouldn't exist in the first case, I really don't care
+[2016/01/05 17:12:27] <maths22> (the formatter, not the brace thing)
+[2016/01/05 17:12:57] <Tobbi> right
+[2016/01/05 17:13:05] <maths22> Tobbi: Is that OK with you?
+[2016/01/05 17:13:16] <Tobbi> maths22: Yes, it's fine, just go ahead.
+[2016/01/05 17:13:28] <Tobbi> We should review code in comments anyway.
+[2016/01/05 17:13:52] <leyyin> did not see any performance problems in my limited testing
+[2016/01/05 17:14:05] <Tobbi> leyyin: Alright.
