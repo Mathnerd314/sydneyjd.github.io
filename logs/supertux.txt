@@ -37399,3 +37399,56 @@
 [2016/01/05 16:29:31] <Tobbi> leyyin: huh?
 [2016/01/05 16:29:47] <maths22> leyyin: Syntax error!
 [2016/01/05 16:29:59] <leyyin> if(dead_script != "") { => if (!dead_script.empty()) {
+[2016/01/05 16:30:13] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/100445002
+[2016/01/05 16:30:19] <Tobbi> leyyin: yes.
+[2016/01/05 16:31:04] <leyyin> if you feel brave you can add a clang-format file
+[2016/01/05 16:31:09] <leyyin> and git hook it :P
+[2016/01/05 16:31:19] <leyyin> so that you do not have to do formating by hand
+[2016/01/05 16:31:30] <leyyin> like plebs
+[2016/01/05 16:31:47] <leyyin> the git hook is for new code you add
+[2016/01/05 16:31:57] <Tobbi> gosh.
+[2016/01/05 16:32:04] <Tobbi> too modern :D
+[2016/01/05 16:32:15] <Tobbi> I don't know anything about formatting, remember? :P
+[2016/01/05 16:32:19] @ Quit: Karkus: Quit: Division By Zero
+[2016/01/05 16:32:21] <leyyin> my OCD is going crazy here :D https://github.com/SuperTux/supertux/blob/master/src/badguy/badguy.cpp#L343
+[2016/01/05 16:32:46] <maths22> leyyin: Ugh!  Which way to you prefer
+[2016/01/05 16:32:56] <leyyin> well I prefer it to be consistent :D
+[2016/01/05 16:32:58] <Tobbi> leyyin: What about it?
+[2016/01/05 16:32:59] <leyyin> pick one
+[2016/01/05 16:33:02] <maths22> Also, just no on https://github.com/SuperTux/supertux/blob/master/src/badguy/badguy.cpp#L361
+[2016/01/05 16:33:09] <maths22> Tobbi: if() vs if ()
+[2016/01/05 16:33:12] <Tobbi> ah.
+[2016/01/05 16:33:14] <Tobbi> :D
+[2016/01/05 16:33:15] <Tobbi> haha.
+[2016/01/05 16:33:38] <leyyin> I prefer if () but if you use if() everywhere it is fine too
+[2016/01/05 16:33:49] <maths22> Also, why do we have code commented out with #if 0 ?
+[2016/01/05 16:33:59] <leyyin> because devs are lazy :P
+[2016/01/05 16:34:13] <Tobbi> I don't know? :D
+[2016/01/05 16:34:29] <leyyin> oh boy :D https://github.com/SuperTux/supertux/blob/master/src/badguy/badguy.cpp#L248
+[2016/01/05 16:34:34] * leyyin takes his pills
+[2016/01/05 16:34:37] <maths22> Code (that isn't a note in a comment) should not get commented out
+[2016/01/05 16:34:46] <maths22> It should be removed-version control saves it if we need it
+[2016/01/05 16:35:05] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/250
+[2016/01/05 16:35:14] <maths22> leyyin: Wow!  This needs some formatting help
+[2016/01/05 16:35:43] <leyyin> I am half joking, I tend to get overly obsesive about code style consistency
+[2016/01/05 16:36:03] <leyyin> I have nightmares about reading the openssl code :P
+[2016/01/05 16:36:13] <Tobbi> :D
+[2016/01/05 16:36:18] <Tobbi> leyyin: I am obsessive about anything.
+[2016/01/05 16:36:24] <Tobbi> Concerning code style.
+[2016/01/05 16:36:25] <leyyin> that was/is the pinnacle of code formating hell
+[2016/01/05 16:36:45] <leyyin> you can find in that codebase every code style in human history
+[2016/01/05 16:37:18] <Tobbi> :D
+[2016/01/05 16:37:25] <maths22> We should run clang-format with Google style (since we cite https://google.github.io/styleguide/cppguide.html in CODINGSTYLE)
+[2016/01/05 16:37:37] <Tobbi> maths22: We should actually do that.
+[2016/01/05 16:37:40] <Tobbi> can you?
+[2016/01/05 16:37:50] <maths22> Tobbi: Sure...
+[2016/01/05 16:38:57] <leyyin> I do not think the google style has the return type of functions on a single line
+[2016/01/05 16:39:11] <leyyin> but you can generate a clang-format file based on the google style and modify that
+[2016/01/05 16:41:17] <leyyin> also http://clangformat.com/
+[2016/01/05 16:41:27] <Tobbi> leyyin: But what is actually faster? != "" or empty()
+[2016/01/05 16:41:42] <leyyin> neither, it does not matter tbh
+[2016/01/05 16:41:55] <leyyin> it's O(1)
+[2016/01/05 16:42:00] <Tobbi> Good.
+[2016/01/05 16:42:20] <Tobbi> leyyin: In case we develop SuperTux for pre-1989 computers...or for calculators.
+[2016/01/05 16:42:22] <Tobbi> :D
+[2016/01/05 16:44:18] <maths22> leyyin: Then we need to update CODINGSTYLE
