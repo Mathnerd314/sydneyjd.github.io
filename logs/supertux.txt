@@ -37368,3 +37368,34 @@
 [2016/01/05 16:14:40] @ Karkus joined channel #supertux
 [2016/01/05 16:14:41] @ Mode +o Karkus by ChanServ
 [2016/01/05 16:14:58] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/249
+[2016/01/05 16:15:53] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vu0zU
+[2016/01/05 16:15:54] <Not-e81f> [02supertux] 07Tobias Markus 0369ebdb6 - Code review in torch.cpp [ci skip]
+[2016/01/05 16:15:59] <Tobbi> Some of our code is really...argh
+[2016/01/05 16:19:48] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/100441008
+[2016/01/05 16:22:24] <maths22> Tobbi: What do you mean?
+[2016/01/05 16:22:53] @ claymore2 joined channel #supertux
+[2016/01/05 16:23:08] <Tobbi> maths22: I mean those remnants from older times. Like having void in parameter lists. Okay, maybe I am overly OCD.
+[2016/01/05 16:23:09] <Tobbi> >D
+[2016/01/05 16:23:09] <Tobbi> :D
+[2016/01/05 16:23:41] <maths22> Tobbi: If I noticed things like that, they would annoy me as well
+[2016/01/05 16:24:07] <Tobbi> maths22: Also, I am replacing things like comparison with empty strings with a call to empty()
+[2016/01/05 16:24:11] <Tobbi> Might be faster.
+[2016/01/05 16:24:16] <Tobbi> And looks better.
+[2016/01/05 16:24:24] <maths22> Tobbi: Looks better is important
+[2016/01/05 16:24:42] <Tobbi> maths22: Or is this only me re. comparing with empty strings?
+[2016/01/05 16:25:25] <maths22> Tobbi: Can you point me to somwhere in our code I can see it?
+[2016/01/05 16:25:57] <Tobbi> maths22: https://github.com/SuperTux/supertux/blob/master/src/badguy/badguy.cpp#L525
+[2016/01/05 16:26:10] <Tobbi> vs. if(!dead_script.empty())
+[2016/01/05 16:26:23] <maths22> empty is more readable
+[2016/01/05 16:26:35] <maths22> Not that this is unreadable, but empty makes the point more clearly
+[2016/01/05 16:27:24] <Tobbi> good.
+[2016/01/05 16:27:48] <Tobbi> Not sure how this looks performance wise...Actually, we're not developing for embedded devices :D
+[2016/01/05 16:28:33] <maths22> Tobbi: True, but unnecessary work is never helpful
+[2016/01/05 16:28:37] <leyyin> ah, code perfection
+[2016/01/05 16:28:43] <maths22> They are actually probably equivalent performance-wise
+[2016/01/05 16:28:59] <Tobbi> leyyin: I got nothing else to do right now, except college stuff.
+[2016/01/05 16:29:01] <Tobbi> And that's boring :D
+[2016/01/05 16:29:19] <leyyin> if () :P
+[2016/01/05 16:29:31] <Tobbi> leyyin: huh?
+[2016/01/05 16:29:47] <maths22> leyyin: Syntax error!
+[2016/01/05 16:29:59] <leyyin> if(dead_script != "") { => if (!dead_script.empty()) {
