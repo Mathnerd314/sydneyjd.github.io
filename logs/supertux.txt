@@ -36856,3 +36856,6 @@
 [2016/01/05 03:04:50] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/246
 [2016/01/05 03:07:23] @ Narre joined channel #supertux
 [2016/01/05 03:17:51] <Not-e81f> [02supertux] 07mrsmn starred 03supertux - 13http://git.io/vulpy
+[2016/01/05 03:31:26] @ Quit: tuxdev_: Ping timeout: 276 seconds
+[2016/01/05 03:33:45] @ Quit: Narre: Ping timeout: 252 seconds
+[2016/01/05 03:40:48] @ Quit: tux|dude: Quit: Leaving
