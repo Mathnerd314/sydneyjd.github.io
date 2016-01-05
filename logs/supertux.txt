@@ -36921,3 +36921,16 @@
 [2016/01/05 11:01:35] <Tobbi> maths22: Did you manage to find out what's wrong with the coverity build?
 [2016/01/05 11:05:41] @ giby joined channel #supertux
 [2016/01/05 11:05:42] @ Mode +o giby by ChanServ
+[2016/01/05 11:16:21] <Tobbi> oops!
+[2016/01/05 11:19:22] <Tobbi> Oh, right, test levels are not translated anyway.
+[2016/01/05 11:19:24] <Tobbi> :)
+[2016/01/05 11:21:32] <maths22> Tobbi: I fogot...
+[2016/01/05 11:21:39] <Tobbi> no problem.
+[2016/01/05 11:26:10] @ Quit: irungentoo: Ping timeout: 256 seconds
+[2016/01/05 11:26:52] @ tuxdev_ joined channel #supertux
+[2016/01/05 11:27:02] <maths22> Tobbi: I'll take care of this shortly-we just need to block running the main build if coverity was run
+[2016/01/05 11:27:15] <maths22> See the end of https://docs.travis-ci.com/user/coverity-scan/
+[2016/01/05 11:27:21] <maths22> It is still sucessfully analyzing
+[2016/01/05 11:27:32] <Tobbi> I see.
+[2016/01/05 11:29:08] <maths22> Tobbi: I have requested access on coverity-could you accept it when you have a chance?
+[2016/01/05 11:29:18] <Tobbi> Sure.
