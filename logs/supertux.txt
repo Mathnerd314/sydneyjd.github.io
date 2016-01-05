@@ -37612,3 +37612,6 @@
 [2016/01/05 17:44:47] <Tobbi> lol
 [2016/01/05 17:52:50] @ Quit: alket: Quit: Good Night :)
 [2016/01/05 17:57:13] @ Quit: kneekoo: Remote host closed the connection
+[2016/01/05 18:35:03] <head8debian> Testing...
+[2016/01/05 18:35:15] <head8debian> Good.
+[2016/01/05 18:39:21] @ Log closed by red_bot (rescan or shutdown)
