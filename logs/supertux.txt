@@ -37194,3 +37194,12 @@
 [2016/01/05 14:07:50] @ Quit: lumidify: Ping timeout: 246 seconds
 [2016/01/05 14:12:10] <Not-e81f> [02supertux] 07LMH0013 commented on issue 03#319: Magic blocks do not respond to some light elements - 13http://git.io/vuRMi
 [2016/01/05 14:14:51] @ lumidify joined channel #supertux
+[2016/01/05 14:15:23] <Not-e81f> [02supertux] 07Karkus476 commented on issue 03#316: Burning Should Be a Particle Effect - 13http://git.io/vuRyv
+[2016/01/05 14:17:03] <Tobbi> https://www.youtube.com/watch?v=zOD1umMX2s8
+[2016/01/05 14:19:56] <mt> "compact"
+[2016/01/05 14:20:06] <mt> "fast"
+[2016/01/05 14:22:49] <Tobbi> mt: It's amazing to see how fast this evolved.
+[2016/01/05 14:22:55] <Tobbi> Absolutely amazing.
+[2016/01/05 14:23:28] <Tobbi> I mean: computers and everything.
+[2016/01/05 14:23:35] <mt> Yeah
+[2016/01/05 14:27:19] @ Quit: Karkus: Quit: Division By Zero
