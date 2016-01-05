@@ -37130,3 +37130,8 @@
 [2016/01/05 12:49:41] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/05 12:49:50] <mt> tar.xz ftw!
 [2016/01/05 12:57:44] @ Quit: lumidify: Ping timeout: 272 seconds
+[2016/01/05 13:01:58] @ lumidify joined channel #supertux
+[2016/01/05 13:06:21] @ Quit: alket: Remote host closed the connection
+[2016/01/05 13:07:19] @ alket joined channel #supertux
+[2016/01/05 13:10:13] <Not-e81f> [02supertux] 07LMH0013 commented on issue 03#317: Igloo becomes invisible when Tux is a couple of tiles below it - 13http://git.io/vuRCC
+[2016/01/05 13:13:46] @ Quit: tuxdev_: Ping timeout: 240 seconds
