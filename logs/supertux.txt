@@ -37354,3 +37354,17 @@
 [2016/01/05 15:53:20] <head8debian> mt: No they are not.
 [2016/01/05 15:54:01] <Not-e81f> [02supertux] 03Success. The Travis CI build passed - 13https://travis-ci.org/SuperTux/supertux/builds/100437842
 [2016/01/05 15:54:17] <Tobbi> We're quite good as well: https://www.openhub.net/p/supertux
+[2016/01/05 16:03:04] <maths22> mt: i know
+[2016/01/05 16:03:22] @ Quit: lumidify: Quit: Quit: A guy's gotta sleep sometime, doesn't he?
+[2016/01/05 16:03:28] <maths22> Are you French?
+[2016/01/05 16:06:02] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±13] 13http://git.io/vu00e
+[2016/01/05 16:06:03] <Not-e81f> [02supertux] 07Tobias Markus 035dd116d - Remove outdated void in parameter lists from method declarations
+[2016/01/05 16:06:05] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/100445002
+[2016/01/05 16:06:06] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/250
+[2016/01/05 16:10:28] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vu0Ea
+[2016/01/05 16:10:29] <Not-e81f> [02supertux] 07Tobias Markus 03338f710 - Mark get_path and get_walker const
+[2016/01/05 16:10:57] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/100445002
+[2016/01/05 16:12:22] @ Quit: ced117: Quit: Quitte
+[2016/01/05 16:14:40] @ Karkus joined channel #supertux
+[2016/01/05 16:14:41] @ Mode +o Karkus by ChanServ
+[2016/01/05 16:14:58] <Not-e81f> [02supertux] 03Success. AppVeyor build succeeded - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/249
