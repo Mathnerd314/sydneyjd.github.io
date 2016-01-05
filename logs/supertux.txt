@@ -37203,3 +37203,25 @@
 [2016/01/05 14:23:28] <Tobbi> I mean: computers and everything.
 [2016/01/05 14:23:35] <mt> Yeah
 [2016/01/05 14:27:19] @ Quit: Karkus: Quit: Division By Zero
+[2016/01/05 14:33:34] <maths22> why do we want to distribute as 7z/xz?
+[2016/01/05 14:33:44] <Tobbi> " According to Munce, the storage capacity of the drive could have been increased beyond five megabytes, but IBM's marketing department at that time was against a larger capacity drive, because they didn't know how to sell a product with more storage."
+[2016/01/05 14:33:45] <Tobbi> haha.
+[2016/01/05 14:37:38] @ Quit: alket: Remote host closed the connection
+[2016/01/05 14:38:16] @ alket joined channel #supertux
+[2016/01/05 14:40:15] <Tobbi> mt:  ^^
+[2016/01/05 14:40:21] <Tobbi> What maths22 said.
+[2016/01/05 14:40:32] <Tobbi> I|d assume smaller file size.
+[2016/01/05 14:40:47] <mt> I guess so
+[2016/01/05 14:40:49] <maths22> Tobbi, mt: Is there something I said I was going to work on and am forgetting I am doing
+[2016/01/05 14:41:08] <Tobbi> maths22: Uhm...I can't remember...
+[2016/01/05 14:41:12] <maths22> mt: OSX should be a DMG, and windows a normal EXE/MSI (with add/remove progam support)
+[2016/01/05 14:41:24] <mt> yeah, but the source tarball
+[2016/01/05 14:41:35] <maths22> I thing bz2 is more standard than xz, but we could do both
+[2016/01/05 14:41:58] <mt> maths22: anyway, could you look into fixing my hack that makes Homebrew build app bundles on OS X
+[2016/01/05 14:41:59] <Tobbi> We're still in the coverity queue.
+[2016/01/05 14:42:20] <Tobbi> And still at the same place.
+[2016/01/05 14:42:32] <mt> probably a global problem
+[2016/01/05 14:42:35] <maths22> mt: Link to hack?
+[2016/01/05 14:43:27] <Tobbi> But, we're now at 205 instead of 207.
+[2016/01/05 14:43:49] <mt> maths22: https://github.com/SuperTux/supertux/commit/66b56997ed2d29e278891b32a68dca1828e842c8
+[2016/01/05 14:44:57] <maths22> mt: Your "hack" is realistically the only way to get a .app without running it through CPack
