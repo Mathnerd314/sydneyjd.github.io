@@ -36839,3 +36839,9 @@
 [2016/01/05 01:17:14] <Not-e81f> [02supertux] 07chougron forked the repository - 13http://git.io/vulrF
 [2016/01/05 01:41:13] @ lumidify joined channel #supertux
 [2016/01/05 02:16:38] <Not-e81f> [02supertux] 07rougier starred 03supertux - 13http://git.io/vulSe
+[2016/01/05 02:32:29] @ duck_ joined channel #supertux
+[2016/01/05 02:32:53] @ duck_ is now known as Guest91189
+[2016/01/05 02:33:11] @ Guest91189 left channel #supertux ()
+[2016/01/05 02:34:42] <Not-e81f> [02supertux] 07zariuq starred 03supertux - 13http://git.io/vulgW
+[2016/01/05 02:39:08] @ Karkus joined channel #supertux
+[2016/01/05 02:39:09] @ Mode +o Karkus by ChanServ
