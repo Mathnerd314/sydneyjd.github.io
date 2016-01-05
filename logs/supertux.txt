@@ -36823,3 +36823,5 @@
 [2016/01/04 21:21:57] @ head8debian joined channel #supertux
 [2016/01/04 21:21:57] @ Quit: head8debian: Client Quit
 [2016/01/04 21:26:47] @ Quit: jesusalva: Quit: Good Night, God bless you.
+[2016/01/04 21:51:05] @ head8debian joined channel #supertux
+[2016/01/04 21:51:05] @ Mode +o head8debian by ChanServ
