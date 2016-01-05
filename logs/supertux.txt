@@ -36882,3 +36882,18 @@
 [2016/01/05 08:44:17] @ irungentoo joined channel #supertux
 [2016/01/05 08:44:27] <head8debian> maths22: You said that 2 things currently don't work. ;)
 [2016/01/05 08:44:49] <mt> better if we could get the game into steam
+[2016/01/05 08:45:07] <head8debian> mt: True.
+[2016/01/05 08:45:11] <maths22> head8debian: Indeed.  I should be able to get addons fixed within a few days
+[2016/01/05 08:45:26] <maths22> I don't think the custom cursor can be fixed into it
+[2016/01/05 08:45:54] <head8debian> mt: But isn't steam very picky? Ive had no experience, have only heard things.
+[2016/01/05 08:46:18] <maths22> For steam, see http://steamcommunity.com/workshop/about/?appid=765&section=faq
+[2016/01/05 08:48:16] <maths22> Once I get the bugs ironed out, the winrt build should be able to be played on ARM as well (ie the msft surface)
+[2016/01/05 08:48:43] <head8debian> maths22: Awesome. :)
+[2016/01/05 08:48:47] <mt> We could possibly submit it to Steam if we had enough donations.
+[2016/01/05 08:49:11] <maths22> mt: True-we would need $100 USD
+[2016/01/05 08:50:42] <head8debian> Good grief, thats alot.
+[2016/01/05 08:50:49] <head8debian> Well, alot for a game.
+[2016/01/05 08:51:10] <mt> we might be able to ask http://spi-inc.org/ to help us with legal assistance of donations
+[2016/01/05 08:51:14] <maths22> head8debian: It is a one-time fee to submit as many games as you want
+[2016/01/05 08:51:48] <mt> head8debian: that's not even a lot if you consider there's people who sell their games on steam
+[2016/01/05 08:55:14] <head8debian> mt: Yes, i do see that, but for games like Supertux its alot.
