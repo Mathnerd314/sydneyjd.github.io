@@ -36859,3 +36859,5 @@
 [2016/01/05 03:31:26] @ Quit: tuxdev_: Ping timeout: 276 seconds
 [2016/01/05 03:33:45] @ Quit: Narre: Ping timeout: 252 seconds
 [2016/01/05 03:40:48] @ Quit: tux|dude: Quit: Leaving
+[2016/01/05 04:32:58] @ Quit: lumidify: Ping timeout: 272 seconds
+[2016/01/05 04:43:17] @ lumidify joined channel #supertux
