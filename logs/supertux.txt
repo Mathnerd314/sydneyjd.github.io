@@ -37314,3 +37314,23 @@
 [2016/01/05 15:27:35] <maths22> mt: Look at https://transfer.sh/3yx1z/output.log
 [2016/01/05 15:27:50] <maths22> It is the cmake output for a fresh build-it is pretty clear what it is doing
 [2016/01/05 15:28:51] @ Quit: oumph: Ping timeout: 260 seconds
+[2016/01/05 15:31:45] <mt> Hm, did they always use SVN? Or was it actually moved?
+[2016/01/05 15:31:52] <maths22> mt: Originally CVS
+[2016/01/05 15:32:21] <mt> ah
+[2016/01/05 15:32:31] <mt> well, yeah, SVN exists since 2000-10-20
+[2016/01/05 15:32:53] <mt> OpenBSD still uses CVS >_>
+[2016/01/05 15:32:59] <Not-e81f> [02supertux] 07tobbi pushed 031 commit to 03master [+0/-0/±1] 13http://git.io/vu033
+[2016/01/05 15:33:00] <Not-e81f> [02supertux] 07Tobias Markus 0358417b3 - Remove unneeded method declarations in ispy.hpp
+[2016/01/05 15:33:02] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/100437842
+[2016/01/05 15:33:03] <Not-e81f> [02supertux] 04Pending. Waiting for AppVeyor build to complete - 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/248
+[2016/01/05 15:33:16] @ oumph joined channel #supertux
+[2016/01/05 15:33:18] <maths22> Interesting
+[2016/01/05 15:38:02] <Not-e81f> [02supertux] 04Pending. The Travis CI build is in progress - 13https://travis-ci.org/SuperTux/supertux/builds/100437842
+[2016/01/05 15:41:16] <mt> clearly https://github.com/steeve/france.code-civil/commit/7da16c9b3eb3901f95e90e4222729953a63640bb is the actual oldest commit under version control belonging to a project that's still maintained
+[2016/01/05 15:42:42] <head8debian> Sad, Debian's founded passed away recently.
+[2016/01/05 15:43:25] <mt> yes, and they're still not telling the entire truth >_>
+[2016/01/05 15:44:06] <maths22> mt: How does a commit that old exist?
+[2016/01/05 15:44:17] <maths22> Also, this is the source regarding BRL-CAD: http://blog.openhub.net/2007/08/worlds_oldest_source_code_repositories/
+[2016/01/05 15:44:28] <mt> maths22: you can make git set a date :D
+[2016/01/05 15:44:59] <mt>        --date=<date>
+[2016/01/05 15:45:01] <mt>            Override the author date used in the commit.
