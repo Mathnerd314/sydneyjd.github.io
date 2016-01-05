@@ -36918,3 +36918,6 @@
 [2016/01/05 10:47:02] <jesusalva> I thought you were home-schooled?
 [2016/01/05 10:47:18] <head8debian> jesusalva: I am. ;D
 [2016/01/05 10:47:22] <Tobbi> Yes, precisely, thus why it's boring :D
+[2016/01/05 11:01:35] <Tobbi> maths22: Did you manage to find out what's wrong with the coverity build?
+[2016/01/05 11:05:41] @ giby joined channel #supertux
+[2016/01/05 11:05:42] @ Mode +o giby by ChanServ
