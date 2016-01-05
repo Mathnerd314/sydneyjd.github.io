@@ -37135,3 +37135,14 @@
 [2016/01/05 13:07:19] @ alket joined channel #supertux
 [2016/01/05 13:10:13] <Not-e81f> [02supertux] 07LMH0013 commented on issue 03#317: Igloo becomes invisible when Tux is a couple of tiles below it - 13http://git.io/vuRCC
 [2016/01/05 13:13:46] @ Quit: tuxdev_: Ping timeout: 240 seconds
+[2016/01/05 13:26:43] <Not-e81f> [02supertux] 07LMH0013 labeled issue 03#319: Magic blocks do not respond to some light elements - 13http://git.io/vuRB6
+[2016/01/05 13:26:44] <Not-e81f> [02supertux] 07LMH0013 labeled issue 03#319: Magic blocks do not respond to some light elements - 13http://git.io/vuRB6
+[2016/01/05 13:26:46] <Not-e81f> [02supertux] 07LMH0013 opened issue 03#319: Magic blocks do not respond to some light elements - 13http://git.io/vuRB6
+[2016/01/05 13:26:47] <Not-e81f> [02supertux] 07LMH0013 labeled issue 03#319: Magic blocks do not respond to some light elements - 13http://git.io/vuRB6
+[2016/01/05 13:27:47] <polyphagia> Hume2: RAR is proprietary, that's partially why
+[2016/01/05 13:28:13] <polyphagia> most gnulinux distros carry a couple of free versions though
+[2016/01/05 13:28:22] <polyphagia> debian, for some reason, still packages the proprietary rar programs too
+[2016/01/05 13:28:51] <polyphagia> but RAR is pretty much worthless imo
+[2016/01/05 13:29:17] @ Tobbi joined channel #supertux
+[2016/01/05 13:29:18] @ Mode +o Tobbi by ChanServ
+[2016/01/05 13:29:47] <Hume2> Well, I don't have a big knowledge about this, but it's true.
