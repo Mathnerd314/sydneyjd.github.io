@@ -37279,3 +37279,38 @@
 [2016/01/05 15:14:05] @ Quit: lumidify: Ping timeout: 276 seconds
 [2016/01/05 15:14:06] <mt> here's an IRCd family tree: https://github.com/grawity/irc-docs/blob/master/family-tree.txt :D
 [2016/01/05 15:15:00] @ lumidify joined channel #supertux
+[2016/01/05 15:15:58] <maths22> mt: For a while, I did some stuff with this code-base http://sourceforge.net/p/brlcad/code/HEAD/tree/
+[2016/01/05 15:16:06] @ ced117 joined channel #supertux
+[2016/01/05 15:16:06] <maths22> First commit from 1983
+[2016/01/05 15:16:22] <maths22> (I believe it is considered the oldest open-source codebase)
+[2016/01/05 15:16:43] <maths22> Thankfully they converted to CMake a few years ago, so I didn't need to deal with this: http://brlcad.org/websvn/filedetails.php?repname=BRL-CAD&path=%2Fbrlcad%2Ftrunk%2Fconfigure.ac&rev=46631&peg=46631
+[2016/01/05 15:17:29] <maths22> mt: Interesting
+[2016/01/05 15:18:58] <Tobbi> Uhm, doesn't look fun.
+[2016/01/05 15:19:33] <maths22> Tobbi: I mostly dealt with the cmake stuff, thankfully
+[2016/01/05 15:19:48] <maths22> I never got to really understanding the code-base
+[2016/01/05 15:20:12] <maths22> (Most of it would now be implemented in c++, but is done in c because of the project's heritage)
+[2016/01/05 15:20:20] <Tobbi> I once wanted to compile f4l...
+[2016/01/05 15:20:22] <Tobbi> :D
+[2016/01/05 15:20:25] <mt> >dnl Copyright (c) 2004-2011 United States Government as represented by
+[2016/01/05 15:20:27] <mt> dnl the U.S. Army Research Laboratory.
+[2016/01/05 15:20:29] <mt> NSA confirmed!
+[2016/01/05 15:20:52] <maths22> One nice thing, though, is that it has almost no build dependencies (gcc + cmake + make); it builds the rest if it cannot find them
+[2016/01/05 15:21:16] <Tobbi> I always wanted flash for linux, but never could it get to build: http://f4l.sourceforge.net/
+[2016/01/05 15:21:31] <maths22> mt: BRL actually stands for "Ballistics Research Laboratory"-it was originally created to analyze ballistics
+[2016/01/05 15:21:38] <mt> I don't really like that. "It's not here, let's just build it without the user knowing/having to do anything"
+[2016/01/05 15:21:44] <Not-e81f> [02supertux] 07LMH0013 labeled issue 03#321: Crushing a burning badguy resets the sprite - 13http://git.io/vu0qg
+[2016/01/05 15:21:45] <Not-e81f> [02supertux] 07LMH0013 labeled issue 03#321: Crushing a burning badguy resets the sprite - 13http://git.io/vu0qg
+[2016/01/05 15:21:47] <Not-e81f> [02supertux] 07LMH0013 labeled issue 03#321: Crushing a burning badguy resets the sprite - 13http://git.io/vu0qg
+[2016/01/05 15:21:48] <Not-e81f> [02supertux] 07LMH0013 opened issue 03#321: Crushing a burning badguy resets the sprite - 13http://git.io/vu0qg
+[2016/01/05 15:22:00] <maths22> mt: The idea is that it builds on systems that don't have packages for any of that stuff
+[2016/01/05 15:22:37] <mt> well, it's ok for me if it's opt-in (e.g.: -DBUILD_DEPENDENCIES=ON)
+[2016/01/05 15:23:30] <Tobbi> ffs, when will coverity finally resume their builds?
+[2016/01/05 15:23:49] <Tobbi> I mean: We give them publicity by using them... :D
+[2016/01/05 15:23:54] <Not-e81f> [02supertux] 07LMH0013 opened issue 03#322: Game objects move explosions - 13http://git.io/vu0mm
+[2016/01/05 15:23:55] <Not-e81f> [02supertux] 07LMH0013 labeled issue 03#322: Game objects move explosions - 13http://git.io/vu0mm
+[2016/01/05 15:23:57] <Not-e81f> [02supertux] 07LMH0013 labeled issue 03#322: Game objects move explosions - 13http://git.io/vu0mm
+[2016/01/05 15:23:58] <Tobbi> It's time for them to uphold their end of the bargain.
+[2016/01/05 15:23:59] <Not-e81f> [02supertux] 07LMH0013 labeled issue 03#322: Game objects move explosions - 13http://git.io/vu0mm
+[2016/01/05 15:27:35] <maths22> mt: Look at https://transfer.sh/3yx1z/output.log
+[2016/01/05 15:27:50] <maths22> It is the cmake output for a fresh build-it is pretty clear what it is doing
+[2016/01/05 15:28:51] @ Quit: oumph: Ping timeout: 260 seconds
