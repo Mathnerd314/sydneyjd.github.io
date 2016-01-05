@@ -36873,3 +36873,4 @@
 [2016/01/05 07:21:51] <mt> and some OS X machine
 [2016/01/05 07:22:09] <mt> (actually it's more than one build because we build with Debug and Release and with gcc and clang)
 [2016/01/05 07:23:20] <mt> AppVeyor is the same but for Windows
+[2016/01/05 07:42:37] @ Quit: giby: Quit: This computer has gone to sleep
