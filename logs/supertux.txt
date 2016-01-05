@@ -36792,3 +36792,6 @@
 [2016/01/04 17:29:04] @ Drangue joined channel #supertux
 [2016/01/04 17:33:57] @ Drangue is now known as alket
 [2016/01/04 18:19:24] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/01/04 18:54:00] @ Somelauw joined channel #supertux
+[2016/01/04 18:54:09] <Somelauw> Is there actually a secret in the yeti level?
+[2016/01/04 18:58:20] <Somelauw> I'm using version 3.5a
