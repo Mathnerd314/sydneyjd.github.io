@@ -36838,3 +36838,4 @@
 [2016/01/05 01:08:55] @ tuxdev_ joined channel #supertux
 [2016/01/05 01:17:14] <Not-e81f> [02supertux] 07chougron forked the repository - 13http://git.io/vulrF
 [2016/01/05 01:41:13] @ lumidify joined channel #supertux
+[2016/01/05 02:16:38] <Not-e81f> [02supertux] 07rougier starred 03supertux - 13http://git.io/vulSe
