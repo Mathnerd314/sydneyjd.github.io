@@ -37248,3 +37248,34 @@
 [2016/01/05 14:59:49] <Not-e81f> [02supertux] 07LMH0013 labeled issue 03#320: Inconsistent/crude death effects - 13http://git.io/vu0f6
 [2016/01/05 14:59:50] <Not-e81f> [02supertux] 07LMH0013 labeled issue 03#320: Inconsistent/crude death effects - 13http://git.io/vu0f6
 [2016/01/05 14:59:52] <Not-e81f> [02supertux] 07LMH0013 opened issue 03#320: Inconsistent/crude death effects - 13http://git.io/vu0f6
+[2016/01/05 15:02:48] <Not-e81f> [02supertux] 07tobbi commented on issue 03#320: Inconsistent/crude death effects - 13http://git.io/vu0JF
+[2016/01/05 15:02:51] <Not-e81f> [02supertux] 07tobbi assigned issue 03#320: Inconsistent/crude death effects - 13http://git.io/vu0f6
+[2016/01/05 15:04:40] @ Quit: alket: Disconnected by services
+[2016/01/05 15:04:41] @ Drangue joined channel #supertux
+[2016/01/05 15:04:58] @ Drangue is now known as alket
+[2016/01/05 15:06:02] <mt> >build systems
+[2016/01/05 15:06:05] <mt> >fun
+[2016/01/05 15:06:06] <mt> nope.avi
+[2016/01/05 15:06:28] <mt> I'm trying to move two projects from autotools to cmake
+[2016/01/05 15:06:31] <mt> and it's horrible
+[2016/01/05 15:06:48] <Tobbi> :D
+[2016/01/05 15:07:10] <Tobbi> I find cmake quite advanced.
+[2016/01/05 15:07:12] <Tobbi> Somehwat.
+[2016/01/05 15:07:16] <Tobbi> From what I can see...
+[2016/01/05 15:07:22] <mt> CMake > autotools
+[2016/01/05 15:07:38] <mt> and it's much more structured
+[2016/01/05 15:08:10] <mt> try to read https://raw.githubusercontent.com/zohlai/neephi/master/configure.ac
+[2016/01/05 15:08:18] <mt> and that's not even all of that project
+[2016/01/05 15:08:56] <Tobbi> Yes.
+[2016/01/05 15:09:00] <maths22> mt: Autotools is not in my list of "fun"
+[2016/01/05 15:09:15] <Tobbi> mt: So why are you saying that moving from autotools to cmake is horrible?
+[2016/01/05 15:09:31] <mt> because I have to understand what autotools does first
+[2016/01/05 15:09:36] <maths22> Tobbi: Probably because he needs to work through all of the autotools nonsense
+[2016/01/05 15:09:43] <Tobbi> hah :D okay.
+[2016/01/05 15:11:40] <mt> I'm happy enough that I don't have to work with some build scripts from 20 years ago
+[2016/01/05 15:11:55] <mt> That's an IRCd - and people apparently like to fork IRCds
+[2016/01/05 15:12:22] <mt> so, basically this IRCd is based on projects that were, in the beginning, based on the very first IRCd
+[2016/01/05 15:12:41] <mt> I've seen code from 1996 in there
+[2016/01/05 15:14:05] @ Quit: lumidify: Ping timeout: 276 seconds
+[2016/01/05 15:14:06] <mt> here's an IRCd family tree: https://github.com/grawity/irc-docs/blob/master/family-tree.txt :D
+[2016/01/05 15:15:00] @ lumidify joined channel #supertux
