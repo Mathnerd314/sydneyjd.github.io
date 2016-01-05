@@ -36861,3 +36861,4 @@
 [2016/01/05 03:40:48] @ Quit: tux|dude: Quit: Leaving
 [2016/01/05 04:32:58] @ Quit: lumidify: Ping timeout: 272 seconds
 [2016/01/05 04:43:17] @ lumidify joined channel #supertux
+[2016/01/05 04:52:36] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- Like it?  Visit #hydrairc on EFNet
