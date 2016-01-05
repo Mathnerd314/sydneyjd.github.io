@@ -37146,3 +37146,44 @@
 [2016/01/05 13:29:17] @ Tobbi joined channel #supertux
 [2016/01/05 13:29:18] @ Mode +o Tobbi by ChanServ
 [2016/01/05 13:29:47] <Hume2> Well, I don't have a big knowledge about this, but it's true.
+[2016/01/05 13:30:18] <polyphagia> the author of the RAR program is a real dink tbh
+[2016/01/05 13:30:32] <polyphagia> he purposely updates the format to sabatoge the free versions
+[2016/01/05 13:31:09] <Hume2> hmmm... interresting.
+[2016/01/05 13:31:10] <polyphagia> windows' lack of support for anything besides ZIP is annoying too :P
+[2016/01/05 13:31:37] <Hume2> I'm worried about how the updates are comprimated ...
+[2016/01/05 13:31:46] <Hume2> ZIP I guess :D
+[2016/01/05 13:31:58] <Hume2> Or none ?
+[2016/01/05 13:32:16] <mt> self-extracting rar?
+[2016/01/05 13:32:26] <Tobbi> urgh
+[2016/01/05 13:32:34] <Hume2> That uses Narre.
+[2016/01/05 13:32:47] <Hume2> He calls it "instalation".
+[2016/01/05 13:32:48] <polyphagia> are you wondering how to distribute supertux for windows?
+[2016/01/05 13:32:57] <polyphagia> a self extracting archive could work
+[2016/01/05 13:33:12] <polyphagia> as long as it was possible to add some sort of post-script to add shortcuts
+[2016/01/05 13:33:16] <Hume2> Narre tried it, so it must work.
+[2016/01/05 13:33:30] <polyphagia> all it really needs to do is extract it to program files (optionally allowing the user to switch), and a checkbox for start/desktop shortcuts
+[2016/01/05 13:34:33] <Hume2> That's true. SuperTux doesn't really need to vandalize registry.
+[2016/01/05 13:34:43] <polyphagia> Hume2: http://www.gdgsoft.com/faq/7zsfx.htm
+[2016/01/05 13:34:51] <polyphagia> >A 7-Zip Self-Extracting (SFX) archive is a stand-alone program file (Windows .exe file) that can unpack the 7z archive (stored inside it) without needing 7-Zip or any other tools. This is actually a .7z file bundled with a small program (overhead) that extracts the files directly from the merged .7z file to the folder specified by the user.
+[2016/01/05 13:34:57] <Tobbi> RAR will go the same way flash does now.
+[2016/01/05 13:35:16] <polyphagia> although that product looks proprietary
+[2016/01/05 13:35:19] <polyphagia> i bet we could find a free one
+[2016/01/05 13:35:40] <Tobbi> 7Z can create sfx files.
+[2016/01/05 13:35:46] <polyphagia> well then there you go :P
+[2016/01/05 13:35:53] <Tobbi> last time I checked, at least.
+[2016/01/05 13:35:54] <polyphagia> i guess the only thing is shortcuts
+[2016/01/05 13:36:13] <polyphagia> it would be nice if it could run a batch script after the extraction is done
+[2016/01/05 13:36:17] <polyphagia> maybe it can
+[2016/01/05 13:36:24] <Tobbi> wait, 7z can create sfx for windows only.
+[2016/01/05 13:36:31] <polyphagia> yeah that's fine
+[2016/01/05 13:36:40] <Tobbi> really?
+[2016/01/05 13:36:46] <polyphagia> we can distribute it in 7z for everything else
+[2016/01/05 13:36:51] <polyphagia> without the exe
+[2016/01/05 13:37:08] <polyphagia> or maybe an OSX dmg as well
+[2016/01/05 13:37:25] <polyphagia> tar xv or regular 7z for the gnulinux standalone
+[2016/01/05 13:37:31] <polyphagia> SFX for win32
+[2016/01/05 13:39:40] @ claymore2 joined channel #supertux
+[2016/01/05 13:40:28] <Tobbi> hmm, ok.
+[2016/01/05 13:40:28] <mt> I could tar.xz the 0.4.0 release
+[2016/01/05 13:40:44] <mt> well, its source code
+[2016/01/05 13:41:09] <mt> and - we don't provide a gnu/linux standalone - just the packaged OBS builds which are distro dependent
