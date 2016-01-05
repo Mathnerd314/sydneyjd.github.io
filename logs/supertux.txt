@@ -36802,3 +36802,5 @@
 [2016/01/04 20:22:56] @ Quit: kneekoo: Ping timeout: 255 seconds
 [2016/01/04 20:35:09] @ kneekoo joined channel #supertux
 [2016/01/04 20:35:33] @ stewboy joined channel #supertux
+[2016/01/04 21:14:01] <nerdopolis> Somelauw: I think (I think) you can get to it if you ride on the Yeti's head, and go on one of the ledges...
+[2016/01/04 21:14:29] <Somelauw> if i ride on its head, it's dead in no time
