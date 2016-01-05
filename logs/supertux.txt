@@ -36862,3 +36862,5 @@
 [2016/01/05 04:32:58] @ Quit: lumidify: Ping timeout: 272 seconds
 [2016/01/05 04:43:17] @ lumidify joined channel #supertux
 [2016/01/05 04:52:36] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- Like it?  Visit #hydrairc on EFNet
+[2016/01/05 05:11:35] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/01/05 05:11:46] @ datahead8888 is now known as datahead7777
