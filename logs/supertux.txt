@@ -36911,3 +36911,10 @@
 [2016/01/05 10:43:07] <jesusalva> Hi Tobbi
 [2016/01/05 10:44:00] <Tobbi> What's going on?
 [2016/01/05 10:44:30] <jesusalva> ???
+[2016/01/05 10:45:29] <Tobbi> jesusalva: Just in general, I mean.
+[2016/01/05 10:46:19] <jesusalva> I'm fine, right now creating some adverting banners for #tmw-br and some patches for #freedroid ('cause I have nothing more to do right now)
+[2016/01/05 10:46:38] <head8debian> jesusalva: If you have nothing to do you can come do my school. :D
+[2016/01/05 10:46:58] <Tobbi> head8debian: Your school is supposedly very boring.
+[2016/01/05 10:47:02] <jesusalva> I thought you were home-schooled?
+[2016/01/05 10:47:18] <head8debian> jesusalva: I am. ;D
+[2016/01/05 10:47:22] <Tobbi> Yes, precisely, thus why it's boring :D
