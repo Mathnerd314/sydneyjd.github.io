@@ -36875,3 +36875,4 @@
 [2016/01/05 07:23:20] <mt> AppVeyor is the same but for Windows
 [2016/01/05 07:42:37] @ Quit: giby: Quit: This computer has gone to sleep
 [2016/01/05 08:12:16] <Not-e81f> [02supertux] 07orociic starred 03supertux - 13http://git.io/vu44H
+[2016/01/05 08:29:59] @ mhall119 left channel #supertux ()
