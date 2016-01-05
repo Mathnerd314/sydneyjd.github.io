@@ -36868,3 +36868,8 @@
 [2016/01/05 07:09:00] @ Quit: giby_the_kid: Read error: Connection reset by peer
 [2016/01/05 07:09:14] @ giby joined channel #supertux
 [2016/01/05 07:09:15] @ Mode +o giby by ChanServ
+[2016/01/05 07:20:41] <snadge> what is the travis ci build
+[2016/01/05 07:21:43] <mt> it's an automated build on a ubuntu trusty machine
+[2016/01/05 07:21:51] <mt> and some OS X machine
+[2016/01/05 07:22:09] <mt> (actually it's more than one build because we build with Debug and Release and with gcc and clang)
+[2016/01/05 07:23:20] <mt> AppVeyor is the same but for Windows
