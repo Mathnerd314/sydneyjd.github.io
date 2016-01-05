@@ -37610,3 +37610,5 @@
 [2016/01/05 17:43:36] <maths22> Speaking of visual studio oddness, I haven't done anything with VS in a few hours-it just started eating up 35% of my cpu for a few seconds, made my fan run fast, and then stopped
 [2016/01/05 17:44:45] @ Drangue is now known as alket
 [2016/01/05 17:44:47] <Tobbi> lol
+[2016/01/05 17:52:50] @ Quit: alket: Quit: Good Night :)
+[2016/01/05 17:57:13] @ Quit: kneekoo: Remote host closed the connection
