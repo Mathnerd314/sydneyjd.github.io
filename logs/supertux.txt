@@ -37657,3 +37657,4 @@
 [2016/01/05 21:11:21] <Not-e81f> [02flexlay] 07Tobias Markus 0336435d7 - Use QSpinBox for numeric values
 [2016/01/05 21:26:09] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/05 22:35:38] @ swift110 joined channel #supertux
+[2016/01/05 22:50:02] @ Quit: jesusalva: Quit: Good Night
