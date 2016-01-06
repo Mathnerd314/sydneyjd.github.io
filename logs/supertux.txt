@@ -38099,3 +38099,10 @@
 [2016/01/06 13:53:54] @ Mode +o Tobbi by ChanServ
 [2016/01/06 13:54:55] <Hume2> It's a bit teddious to press Menu+AltGr+6, release AltGr and 6 and press Num8.
 [2016/01/06 13:58:29] @ Quit: Karkus: Ping timeout: 245 seconds
+[2016/01/06 14:01:03] <Hume2> ...but still easier than copying from Unicode table.
+[2016/01/06 14:01:55] <Hume2> ₀⁰₀⁰₀⁰₀⁰₀⁰₀⁰
+[2016/01/06 14:03:07] @ Karkus joined channel #supertux
+[2016/01/06 14:03:07] @ Mode +o Karkus by ChanServ
+[2016/01/06 14:03:54] @ claymore2 joined channel #supertux
+[2016/01/06 14:07:48] @ bb010g joined channel #supertux
+[2016/01/06 14:10:15] <head8debian> Heh.
