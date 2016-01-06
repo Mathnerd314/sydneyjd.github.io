@@ -37710,3 +37710,21 @@
 [2016/01/06 09:35:45] @ Quit: Jake__: Client Quit
 [2016/01/06 09:42:24] @ Tobbi joined channel #supertux
 [2016/01/06 09:42:25] @ Mode +o Tobbi by ChanServ
+[2016/01/06 10:01:59] @ Quit: lumidify: Ping timeout: 264 seconds
+[2016/01/06 10:02:03] @ irungentoo joined channel #supertux
+[2016/01/06 10:11:18] <head8debian> Good morning jesusalva and Tobbi.
+[2016/01/06 10:11:25] <Tobbi> head8debian: no time.
+[2016/01/06 10:11:35] <jesusalva> Good afternoon head8debian
+[2016/01/06 10:12:18] <head8debian> Tobbi: You have lots of time. :D
+[2016/01/06 10:12:19] <mt> head8debian, Tobbi: fwiw I do have a replacement for Notifico :P
+[2016/01/06 10:12:41] <mt> can't however update the webhook URLs because I'm not a repository admin >_>
+[2016/01/06 10:12:43] <Tobbi> mt: good.
+[2016/01/06 10:12:47] <Tobbi> I will do that, soon.
+[2016/01/06 10:12:55] <Tobbi> I am working on college things.
+[2016/01/06 10:13:01] <head8debian> Interesting.
+[2016/01/06 10:13:25] <Tobbi> Not.
+[2016/01/06 10:13:27] <head8debian> Hrm... a 128mb ram VPS, that won't go far.
+[2016/01/06 10:13:29] <mt> it does look pretty similar to notifico but is more configurable: https://urandom.eu.org/i/nnR5CzQz.png
+[2016/01/06 10:13:50] <mt> head8debian: you can run many things on a 128 MB RAM VPS
+[2016/01/06 10:14:06] <head8debian> Still, $22/y  for it + a domain.
+[2016/01/06 10:14:29] <head8debian> mt: True. Its pretty tight to host a website though.
