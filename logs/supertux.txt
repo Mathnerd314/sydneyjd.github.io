@@ -37765,3 +37765,33 @@
 [2016/01/06 10:26:42] <mt> want you to do something about the announcement webhook
 [2016/01/06 10:27:41] <mt> pentagon: github announce add #supertux SuperTux supertux
 [2016/01/06 10:27:42] <pentagon> mt: The operation succeeded.
+[2016/01/06 10:33:01] <Tobbi> pentagon?
+[2016/01/06 10:35:09] <mt> https://urandom.eu.org/i/nnR5CzQz.png
+[2016/01/06 10:35:35] <Tobbi> I see.
+[2016/01/06 10:35:48] @ Mode -zq Not-e81f!~notifico@198.199.82.216 by mt
+[2016/01/06 10:35:52] <Tobbi> mt: Can this be configured by everyone on the team?
+[2016/01/06 10:36:02] <Tobbi> Not like notifico...
+[2016/01/06 10:38:00] <mt> nah, I'd have to give you permissions to use my bot
+[2016/01/06 10:38:05] <Tobbi> I see...
+[2016/01/06 10:38:11] <Tobbi> well...
+[2016/01/06 10:38:14] <Tobbi> doesn't matter.
+[2016/01/06 10:38:21] <Tobbi> I trust you enough, kind of...
+[2016/01/06 10:38:25] <mt> pentagon: repr [config plugins.GitHub.format.before.push]
+[2016/01/06 10:38:25] <pentagon> mt: "cif [ceq [echo $after__short] 0000000] \"utilities ignore\" \"echo \\\"[\x0310$repository__name\x03]\\\" \x0307$sender__login\x03 [gh.pushinfo] [gh.numcommits] \x0309$ref__branch\x03 [format join \\\" \\\" [gh.fpushinfo] \\\"\x0313$compare__tiny\x03\\\"]\""
+[2016/01/06 10:38:37] <mt> this is what it does when receiving a push
+[2016/01/06 10:39:37] <mt> Tobbi: well, you can actually configure what messages it gets via the webhook interface on github
+[2016/01/06 10:39:42] <Tobbi> ok.
+[2016/01/06 10:39:57] <mt> told head8debian to set it up like https://urandom.eu.org/i/jb09xGDC.png for now
+[2016/01/06 10:40:18] <mt> (that's all the bot supports in a nicely formatted way right now)
+[2016/01/06 10:41:03] <Tobbi> Nice.
+[2016/01/06 10:41:10] <Tobbi> Oh, let's see.
+[2016/01/06 10:41:21] <mt> pentagon: repr [config plugins.GitHub.format.status]
+[2016/01/06 10:41:21] <pentagon> mt: "cif [ceq [echo $state] pending] \"utilities ignore\" \"echo \\\"[\x0310$repository__name\x03]\\\" Status for commit \x02$commit__commit__message__firstline\x02 by \x0307$commit__commit__author__name\x03: [gh.travisstatus] \x0313$target_url\x03\""
+[2016/01/06 10:41:39] <mt> see, it also ignores 'pending' status updates
+[2016/01/06 10:42:05] <Tobbi> 197 builds ahead in coverity.
+[2016/01/06 10:42:11] <Tobbi> Is this down from yesterday?
+[2016/01/06 10:42:31] <mt> it was 207 at the beginning
+[2016/01/06 10:42:41] <Tobbi> ok.
+[2016/01/06 10:42:45] <Tobbi> wow...
+[2016/01/06 10:42:49] <Tobbi> they must be working hard.
+[2016/01/06 10:44:45] <mt> they should work harder to fix the speed :D
