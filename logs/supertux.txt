@@ -37833,3 +37833,37 @@
 [2016/01/06 11:59:11] <Tobbi> Hume2: Re-setting a tile ID to 0 will make the editor go crazy
 [2016/01/06 11:59:28] <Tobbi> Because it thinks empty tiles have the storm cloud setting.
 [2016/01/06 11:59:40] <Hume2> well...
+[2016/01/06 12:01:08] <Hume2> Tobbi: It's an editor bug, isn't it?
+[2016/01/06 12:01:17] <Tobbi> Hume2: No, it expects tile 0 to be empty.
+[2016/01/06 12:01:34] <Hume2> SuperTux skips all tiles 0.
+[2016/01/06 12:01:43] <Tobbi> Hume2: The editor doesn't.
+[2016/01/06 12:01:48] <Tobbi> Okay, maybe it is an editor bug.
+[2016/01/06 12:01:51] <Tobbi> But doesn't matter.
+[2016/01/06 12:02:15] <Hume2> In my opinion, the editor should be synchrone with the SuperTux behaviour.
+[2016/01/06 12:02:41] <Tobbi> Hume2: Yes, okay...  We should look into it. but for now, leave it as it is, please.
+[2016/01/06 12:02:49] <Hume2> OK
+[2016/01/06 12:04:06] <Hume2> Tobbi: Anyway what kind of penguin the Tux is?
+[2016/01/06 12:04:15] <Tobbi> Hume2: I don't know? :D
+[2016/01/06 12:04:57] <Tobbi> According to wikipedia, one of the sources of inspiration is https://en.wikipedia.org/wiki/Little_penguin
+[2016/01/06 12:06:36] @ alket joined channel #supertux
+[2016/01/06 12:07:03] <Hume2> This is close, but has a black beak.
+[2016/01/06 12:07:33] <Tobbi> Yeah, I don't know.
+[2016/01/06 12:07:40] <mt> who implemented badguy melting/burning?
+[2016/01/06 12:08:14] <Tobbi> Hume2 did.
+[2016/01/06 12:08:16] <head8debian> mt: Hume2.
+[2016/01/06 12:08:20] <Tobbi> Blame him :P
+[2016/01/06 12:08:25] <Tobbi> Phew, no blaming me this time.
+[2016/01/06 12:08:34] <head8debian> Tobbi: :p
+[2016/01/06 12:08:42] <mt> Hume2: if you have time, please go through the issues regarding that and try to fix theme
+[2016/01/06 12:08:43] <head8debian> BLAME Tobbi! He let Hume2 do it! :p
+[2016/01/06 12:08:45] <mt> -e
+[2016/01/06 12:08:51] <Tobbi> head8debian: ARGH!
+[2016/01/06 12:08:58] <head8debian> :D
+[2016/01/06 12:09:06] <Hume2> I'm now trying to get how big Tux really is.
+[2016/01/06 12:09:20] <Hume2> It really matters.
+[2016/01/06 12:09:31] <Tobbi> Why does it matter?
+[2016/01/06 12:09:58] <mt> get that value in pixels or as powerup?
+[2016/01/06 12:10:14] <Hume2> It affects the melting scheme.
+[2016/01/06 12:11:14] <mt> well if you know how to get the powerup status but want pixels, add a function that gets the powerup status and do a switch/case with the pixel value you previously got from GIMP
+[2016/01/06 12:13:06] <Hume2> Isn't it this penguin? https://en.wikipedia.org/wiki/Gentoo_penguin
+[2016/01/06 12:14:06] <Hume2> It matches the most AFAIK.
