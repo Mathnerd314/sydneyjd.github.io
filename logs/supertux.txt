@@ -37635,3 +37635,13 @@
 [2016/01/05 19:14:53] <Tobbi> am
 [2016/01/05 19:20:15] <jesusalva> 22:20 here.
 [2016/01/05 19:20:25] <jesusalva> Hmm... 20:20 there, head8debian?
+[2016/01/05 19:55:54] <Tobbi> 201 builds ahead of our build.
+[2016/01/05 19:55:57] <Tobbi> in coverity.
+[2016/01/05 19:58:23] @ quit (seeya)
+[2016/01/05 19:58:26] @ Log closed by * (rescan or shutdown)
+[2016/01/05 20:13:02] @ Log started by red_bot
+[2016/01/05 20:13:02] @ Joined channel #supertux
+[2016/01/05 20:13:02] @ Topic is "IRC meeting Jan 9, 15:00 GMT | https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/01/05 20:13:02] @ Topic set by mt!~mteufel@unaffiliated/supermat on 2015-12-25 13:52:03 -0500
+[2016/01/05 20:13:07] @ Mode +Cnptzj 5:10 by rajaniemi.freenode.net
+[2016/01/05 20:13:15] @ Mode +o red_bot by ChanServ
