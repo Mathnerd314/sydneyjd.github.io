@@ -37824,3 +37824,12 @@
 [2016/01/06 11:35:58] <mt> (also see PM)
 [2016/01/06 11:40:48] @ Karkus joined channel #supertux
 [2016/01/06 11:40:49] @ Mode +o Karkus by ChanServ
+[2016/01/06 11:51:06] @ Tobbi joined channel #supertux
+[2016/01/06 11:51:07] @ Mode +o Tobbi by ChanServ
+[2016/01/06 11:51:59] <Tobbi> hello
+[2016/01/06 11:58:34] <Tobbi> Hume2: ping?
+[2016/01/06 11:58:49] <Hume2> Hello, Tobbi
+[2016/01/06 11:58:56] <Tobbi> Hume2: In case you haven't seen: https://github.com/SuperTux/supertux/commit/e04ec028d91c5c4cc1c70fa6cefb70a819892e48#diff-f4868f0781e6c34b4ef6d2f0ce13a5e3L4673
+[2016/01/06 11:59:11] <Tobbi> Hume2: Re-setting a tile ID to 0 will make the editor go crazy
+[2016/01/06 11:59:28] <Tobbi> Because it thinks empty tiles have the storm cloud setting.
+[2016/01/06 11:59:40] <Hume2> well...
