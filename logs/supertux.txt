@@ -37918,3 +37918,40 @@
 [2016/01/06 12:41:03] <Hume2> Let's say that the fireball is coal...
 [2016/01/06 12:41:52] <Tobbi> "That the fireball is cool..."
 [2016/01/06 12:44:59] <Hume2> :D
+[2016/01/06 12:48:06] <Karkus> Tobbi: I might get round to it. If you really want it, create a class which inherits PropertiesWidget that formats them in a table instead :)
+[2016/01/06 12:48:22] <Tobbi> Karkus: Sounds interesting.
+[2016/01/06 12:48:27] <Tobbi> I'll check that...one moment.
+[2016/01/06 12:48:37] <Karkus> Tobbi: I don't want to replace property widget as it can be used for other things
+[2016/01/06 12:49:01] <Hume2> The firebal's mass is then 9.5kg ...
+[2016/01/06 12:49:13] <Karkus> Hume2: Why are you doing this?
+[2016/01/06 12:49:16] <Tobbi> Karkus: Might be quite some task. Let's postpone it.
+[2016/01/06 12:49:52] <Karkus> Tobbi: I like the idea, though.
+[2016/01/06 12:50:06] <Tobbi> Still, the OCD in me tells me to use a table view :D
+[2016/01/06 12:50:11] <Tobbi> Me, too.
+[2016/01/06 12:50:42] @ polyphagia joined channel #supertux
+[2016/01/06 12:51:16] <Hume2> So the fireball must be near it's melting point.
+[2016/01/06 12:51:46] <Tobbi> :D
+[2016/01/06 12:51:47] <Tobbi> OCD?
+[2016/01/06 12:51:55] <Hume2> Karkus: I want to know how much powerful the fireball is.
+[2016/01/06 12:52:22] <Hume2> Tobbi: Maybe? Maybe just curiousity.
+[2016/01/06 12:52:27] <Karkus> Hume2: Melting point of what?
+[2016/01/06 12:52:40] <Hume2> Melting point of graphite.
+[2016/01/06 12:52:56] <Karkus> Hume2: Why graphite?
+[2016/01/06 12:53:00] * Karkus is confused
+[2016/01/06 12:53:15] @ Quit: lumidify: Ping timeout: 260 seconds
+[2016/01/06 12:53:20] <jesusalva> Is it fire? Or is it plasma, and the fire is the air burning near it?
+[2016/01/06 12:53:25] <Hume2> It's most close to coal that I can consider.
+[2016/01/06 12:53:33] <Hume2> Plasma is not so dense.
+[2016/01/06 12:53:37] <Tobbi> or is it super man?
+[2016/01/06 12:53:44] <jesusalva> Karkus: Enemy destroyed by fireball with highest melting point.
+[2016/01/06 12:53:47] <Hume2> It would expand before hitting the enemy.
+[2016/01/06 12:54:09] <Karkus> jesusalva: Ah.
+[2016/01/06 12:54:22] <Karkus> jesusalva: And yet, jumpy's armour is fine!
+[2016/01/06 12:54:46] * jesusalva thought it would melt the steel armor of those badguys.
+[2016/01/06 12:55:16] <Karkus> jesusalva: Who said it was steel?
+[2016/01/06 12:55:31] <Tobbi> Super Mario isn't physically correct either. I eat one mushroom and get tall? c'mon...
+[2016/01/06 12:55:44] <jesusalva> Tobbi: It's a magica mushroom!
+[2016/01/06 12:55:45] <Karkus> Tobbi: He's just hallucinating
+[2016/01/06 12:55:48] <Tobbi> :D
+[2016/01/06 12:58:46] @ giby joined channel #supertux
+[2016/01/06 12:58:47] @ Mode +o giby by ChanServ
