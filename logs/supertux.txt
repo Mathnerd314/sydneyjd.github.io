@@ -38154,3 +38154,14 @@
 [2016/01/06 15:47:14] @ alket joined channel #supertux
 [2016/01/06 15:52:09] @ tux|dude joined channel #supertux
 [2016/01/06 15:57:44] @ Quit: claymore2: Quit: Leaving
+[2016/01/06 16:01:03] @ Quit: tux|dude: Quit: Leaving
+[2016/01/06 16:03:39] <head8debian> Tobbi_: Alot of windows services went down in that outage, not just bing.
+[2016/01/06 16:03:46] <Tobbi_> hmm, ok.
+[2016/01/06 16:05:30] <head8debian> Tobbi_: They seem to be back up now.
+[2016/01/06 16:05:45] <Tobbi_> head8debian, I got water in the basement...it's not good...
+[2016/01/06 16:08:27] <Tobbi_> Luckily, I have insurance...so they should cover.
+[2016/01/06 16:08:30] <Tobbi_> I hope.
+[2016/01/06 16:09:19] <head8debian> o_O
+[2016/01/06 16:11:37] <head8debian> maths22: Testing.
+[2016/01/06 16:12:34] <head8debian> If i could find it in the store it would help...
+[2016/01/06 16:13:14] <head8debian> I will let you know the outcome later.
