@@ -38130,3 +38130,23 @@
 [2016/01/06 15:09:07] <Tobbi> yes, me.
 [2016/01/06 15:10:57] <maths22> Can you try out https://www.microsoft.com/en-us/store/games/supertux/9nblggh5k9mr
 [2016/01/06 15:11:26] <Tobbi> yes, one moment.
+[2016/01/06 15:15:33] @ datahead8888 joined channel #supertux
+[2016/01/06 15:18:48] @ Tobbi_ joined channel #supertux
+[2016/01/06 15:18:49] @ Mode +o Tobbi_ by ChanServ
+[2016/01/06 15:19:20] <pentagon> [10flexlay] 07Jake41 opened issue 09#69: Fix Tile Selector Layout 13http://git.io/vuV3N
+[2016/01/06 15:19:21] <Tobbi_> Now, if my window store app decided to load, I'd be able to check whether the build works.
+[2016/01/06 15:20:09] @ xet7 joined channel #supertux
+[2016/01/06 15:20:53] <Tobbi_> maths22, Link again, please.
+[2016/01/06 15:21:24] <maths22> https://www.microsoft.com/en-us/store/games/supertux/9nblggh5k9mr
+[2016/01/06 15:21:37] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/06 15:21:42] <Tobbi_> What the hell?
+[2016/01/06 15:22:52] <maths22> This is odd...
+[2016/01/06 15:23:00] <Tobbi_> one moment.
+[2016/01/06 15:24:38] <Tobbi_> ffs, chromium won't even load the URL.
+[2016/01/06 15:24:48] <Tobbi_> Great, my computer is broken completely.
+[2016/01/06 15:25:08] <Tobbi_> Oh, now.
+[2016/01/06 15:26:09] <Tobbi_> maths22, It tells me I need to run an update to the current Windows version.
+[2016/01/06 15:26:50] <Tobbi_> I will do that.
+[2016/01/06 15:26:54] <Tobbi_> Or at least check for updates.
+[2016/01/06 15:27:12] <maths22> Tobbi_: OK
+[2016/01/06 15:27:35] @ Quit: alket: Ping timeout: 260 seconds
