@@ -37650,3 +37650,6 @@
 [2016/01/05 20:27:51] @ head8debian joined channel #supertux
 [2016/01/05 20:27:51] @ Mode +o head8debian by ChanServ
 [2016/01/05 20:28:04] @ Quit: Wuzzy: Quit: Wuzzy
+[2016/01/05 20:46:16] <Not-e81f> [02flexlay] 07tobbi pushed 031 commit to 03develop [+0/-0/±1] 13http://git.io/vuEDM
+[2016/01/05 20:46:17] <Not-e81f> [02flexlay] 07Tobias Markus 03217640f - Create new QPainter instance in constructor instead of on each paint() call
+[2016/01/05 20:51:26] @ tuxdev_ joined channel #supertux
