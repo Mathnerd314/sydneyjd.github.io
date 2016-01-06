@@ -37812,3 +37812,15 @@
 [2016/01/06 11:29:38] <head8debian> At least from what i see demonstrated.
 [2016/01/06 11:29:44] <mt> uh
 [2016/01/06 11:29:56] <mt> a nameserver answers queries for your domains from resolvers
+[2016/01/06 11:30:08] <mt> try leaving it empty if you don't fully understand dns
+[2016/01/06 11:30:31] @ giby joined channel #supertux
+[2016/01/06 11:30:32] @ Mode +o giby by ChanServ
+[2016/01/06 11:30:39] @ Hume2 joined channel #supertux
+[2016/01/06 11:30:40] @ Mode +v Hume2 by ChanServ
+[2016/01/06 11:34:06] <head8debian> mt: It won't let me leave it open. ;)
+[2016/01/06 11:34:56] @ Quit: giby: Client Quit
+[2016/01/06 11:35:29] <head8debian> Or i could just go for web hosting...
+[2016/01/06 11:35:46] <mt> never go with shared hosting >_>
+[2016/01/06 11:35:58] <mt> (also see PM)
+[2016/01/06 11:40:48] @ Karkus joined channel #supertux
+[2016/01/06 11:40:49] @ Mode +o Karkus by ChanServ
