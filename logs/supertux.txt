@@ -38189,3 +38189,5 @@
 [2016/01/06 17:06:12] @ Topic set by mt!~mteufel@unaffiliated/supermat on 2015-12-25 13:52:02 -0500
 [2016/01/06 17:06:12] @ Mode +o red_bot by ChanServ
 [2016/01/06 17:06:15] @ Mode +Cnptj 5:10 by verne.freenode.net
+[2016/01/06 17:16:59] @ Jesusaves joined channel #supertux
+[2016/01/06 17:19:26] @ Quit: jesusalva: Ping timeout: 240 seconds
