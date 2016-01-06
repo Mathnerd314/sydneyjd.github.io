@@ -37994,3 +37994,43 @@
 [2016/01/06 13:12:38] <pentagon> mt: "echo \"[\x0310$repository__name\x03]\" \x0307$sender__login\x03 $action issue \x0309#$issue__number\x03: $issue__title \x0313$issue__html_url__tiny\x03"
 [2016/01/06 13:14:25] <Karkus> mt: Tell me when you're done and I will teset
 [2016/01/06 13:14:30] <Karkus> *test
+[2016/01/06 13:19:12] <mt> pentagon: config channel #supertux plugins.GitHub.format.issues "cif [cor [ceq [echo $action] labeled] [ceq [echo $action] unlabeled]] \"utilities ignore\" \"echo \\\"[\x0310$repository__name\x03]\\\" \x0307$sender__login\x03 $action issue \x0309#$issue__number\x03: $issue__title \x0313$issue__html_url__tiny\x03\""
+[2016/01/06 13:19:12] <pentagon> mt: The operation succeeded.
+[2016/01/06 13:19:17] <pentagon> [10supertux] 07Hume2 commented on issue 09#319: Magic blocks do not respond to some light elements 13http://git.io/vuRB6
+[2016/01/06 13:19:20] <mt> Karkus: can ypu try now?
+[2016/01/06 13:19:26] @ lumidify joined channel #supertux
+[2016/01/06 13:19:27] <mt> -p+o
+[2016/01/06 13:19:57] <mt> Hint for checking if it worked:
+[2016/01/06 13:20:11] <mt> On the page for the webhook, there's a list of recently delivered payloads
+[2016/01/06 13:20:22] <mt> check if it contains on with "action": "labeled"
+[2016/01/06 13:20:43] <mt> if that was successfully sent and didn't appear here, it's ok
+[2016/01/06 13:20:57] <mt> please also test commenting on an issue
+[2016/01/06 13:21:04] <mt> oh nope that doesn't work
+[2016/01/06 13:21:26] <mt> make it resend a payload where an issue was opened
+[2016/01/06 13:21:48] <pentagon> [10supertux] 07Karkus476 commented on issue 09#319: Magic blocks do not respond to some light elements 13http://git.io/vuRB6
+[2016/01/06 13:21:57] <Karkus> mt: Works
+[2016/01/06 13:22:04] <Karkus> I changed the labels, then commented
+[2016/01/06 13:22:16] <mt> commenting is another thing actually
+[2016/01/06 13:22:18] <mt> as I noticed
+[2016/01/06 13:22:36] <Karkus> mt: Finally, I can freely change labels without the fear of spamming everyone
+[2016/01/06 13:22:44] <mt> can you try resending a payload where an issue was opened/assigned/unassigned/closed/reopened?
+[2016/01/06 13:23:09] <pentagon> [10supertux] 07Karkus476 assigned issue 09#322: Game objects move explosions 13http://git.io/vu0mm
+[2016/01/06 13:23:16] <pentagon> [10supertux] 07Karkus476 unassigned issue 09#322: Game objects move explosions 13http://git.io/vu0mm
+[2016/01/06 13:23:17] <mt> seems to work :)
+[2016/01/06 13:23:40] <mt> Karkus: btw, unlabeling is also ignored
+[2016/01/06 13:23:53] <mt> that's two different actions in the webhook API
+[2016/01/06 13:23:56] <Karkus> mt: I would hope!
+[2016/01/06 13:24:15] <Karkus> mt: I like this very much
+[2016/01/06 13:24:16] <mt> (see that [cor [ceq ...] [ceq ...]])
+[2016/01/06 13:24:52] <mt> pentagon: flush
+[2016/01/06 13:24:53] <pentagon> mt: The operation succeeded.
+[2016/01/06 13:25:40] <mt> (flush writes config changes to disk)
+[2016/01/06 13:26:40] <mt> oh and the nice thing - that config changes only affects #supertux
+[2016/01/06 13:27:04] <Karkus> mt: So I can connect it to #stk and it will spam there?
+[2016/01/06 13:27:21] <Karkus> s/I/you/
+[2016/01/06 13:27:21] <red_bot> Karkus meant: "mt: So you can connect it to #stk and it will spam there?"
+[2016/01/06 13:27:28] <mt> if it would announce STK commits, yes, it would labelspam there
+[2016/01/06 13:27:42] <pentagon> [10supertux] 07Hume2 commented on issue 09#319: Magic blocks do not respond to some light elements 13http://git.io/vuRB6
+[2016/01/06 13:27:42] <Karkus> Ah, just what I wanted
+[2016/01/06 13:27:45] <mt> unless I change that as well
+[2016/01/06 13:29:32] <Hume2> 2^24 = 16,777,216 That's easy to remember.
