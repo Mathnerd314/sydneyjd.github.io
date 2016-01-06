@@ -38176,3 +38176,11 @@
 [2016/01/06 16:35:05] @ Quit: tux|dude: Quit: Leaving
 [2016/01/06 16:35:58] <maths22> Windows Update-Everyone's favorite windows feature :)
 [2016/01/06 16:44:00] <polyphagia> microsoft's favourite rootkit
+[2016/01/06 16:47:45] <head8debian> mt: Are you talking through your bot?
+[2016/01/06 16:47:51] <head8debian> mt: ;)
+[2016/01/06 16:48:02] <head8debian> maths22: ;)
+[2016/01/06 16:49:17] <head8debian> Mixxx 2 is awesome. :D
+[2016/01/06 16:53:00] <pentagon> [10flexlay] 07Jake41 commented on issue 09#59: Flexlay Should Work On Windows 13http://git.io/vE6de
+[2016/01/06 16:54:27] @ Quit: Tobbi_: Read error: Connection reset by peer
+[2016/01/06 16:57:18] @ Tobbi joined channel #supertux
+[2016/01/06 16:57:19] @ Mode +o Tobbi by ChanServ
