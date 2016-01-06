@@ -38034,3 +38034,58 @@
 [2016/01/06 13:27:42] <Karkus> Ah, just what I wanted
 [2016/01/06 13:27:45] <mt> unless I change that as well
 [2016/01/06 13:29:32] <Hume2> 2^24 = 16,777,216 That's easy to remember.
+[2016/01/06 13:30:16] <mt> yes, the number of IPs in an IPv4 /8 subnet :D
+[2016/01/06 13:30:30] <mt> 2^(32-8)
+[2016/01/06 13:30:40] <Hume2> :D
+[2016/01/06 13:31:08] <Hume2> wait, IPv4 / 64
+[2016/01/06 13:31:21] <Hume2> Isn't it?
+[2016/01/06 13:31:23] <mt> IPv4 is /32 bits complete
+[2016/01/06 13:31:35] <mt> you don't have /64s there
+[2016/01/06 13:31:48] <Hume2> It's 2^8.
+[2016/01/06 13:31:58] <mt> a /32 is one IP (2^(32-32) = 2^0 = 1)
+[2016/01/06 13:32:16] <Hume2> 2^(32-8) = 2^32 / 2^8
+[2016/01/06 13:32:27] <Hume2> = 2^32 / 64
+[2016/01/06 13:32:30] <Karkus> Tobbi: Yeah, I did this https://github.com/SuperTux/flexlay/commit/f34f43fca18a7ad11a6def3616ad57a53c9b3ee7 but somehow it wasn't committed with the other. Thanks for noticing :P
+[2016/01/06 13:33:34] <mt> Hume2: something's wrong there. IPv4 doesn't have /64 subnets (just /0 (all IPs in the IPv4 space) to /32 (one single IP)
+[2016/01/06 13:33:52] <mt> for IPv6, /0 is all IPv6 space, /128 is one IPv6 address
+[2016/01/06 13:34:18] <mt> a /56 assignment is what's recommended by the RFC for end-users
+[2016/01/06 13:34:30] <Hume2> Oh, i thought that you mean (number of IPs in an IPv4) / 8
+[2016/01/06 13:34:57] <Karkus> Hume2: 2^8 != 64 8^2 = 64
+[2016/01/06 13:35:13] <Hume2> Oh... my head.
+[2016/01/06 13:35:20] <Hume2> It's 256.
+[2016/01/06 13:35:31] <mt> also beware of ^ and computers
+[2016/01/06 13:35:41] <mt> in python and ruby, ^ is XOR iirc
+[2016/01/06 13:36:06] <Hume2> So may I use Unicode istead?
+[2016/01/06 13:36:17] <Hume2> No problem.
+[2016/01/06 13:36:18] <mt> LaTeX :D
+[2016/01/06 13:36:20] <polyphagia> pow(2, 8)
+[2016/01/06 13:36:22] <polyphagia> :P
+[2016/01/06 13:37:50] <Hume2> 2⁸
+[2016/01/06 13:37:54] <Hume2> Better?
+[2016/01/06 13:38:02] <Karkus> Hume2: How do you do that?
+[2016/01/06 13:38:08] <Hume2> Unicode.
+[2016/01/06 13:38:26] <Karkus> But hau
+[2016/01/06 13:38:31] <Karkus> how*
+[2016/01/06 13:38:32] <mt> Menu-^-8 on my computer ⁸ ♥
+[2016/01/06 13:39:20] <Karkus> mt: What OS?
+[2016/01/06 13:39:38] <mt> Arch Linux, GNOME
+[2016/01/06 13:39:53] <mt> that's DE and display server-dependent
+[2016/01/06 13:40:03] <mt> on Linux you call it Compose
+[2016/01/06 13:40:13] <Hume2> I've just copied it from Unicode table :P
+[2016/01/06 13:40:34] <mt> on Linux: man Compose and man XCompose
+[2016/01/06 13:40:59] <mt> Hume2: yeah, that's ok for single use
+[2016/01/06 13:41:10] <mt> however I use the en_UK keyboard
+[2016/01/06 13:41:42] <mt> but also need to type German Umlauts (I'm German) and French accents (I write some French from time to time)
+[2016/01/06 13:42:12] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/06 13:42:16] <mt> so I can simply use menu key-"-a which produces ä
+[2016/01/06 13:42:33] <mt> or á is menu key-'-a
+[2016/01/06 13:42:46] <mt> and è is menu key-`-e
+[2016/01/06 13:43:08] <mt> much easier than copying from a unicode table
+[2016/01/06 13:43:28] <Hume2> I use Czech keyboard.
+[2016/01/06 13:43:32] <Hume2> And AltGr.
+[2016/01/06 13:44:10] <Hume2> I just can't write ß.
+[2016/01/06 13:44:21] <Hume2> on Czech keyboard.
+[2016/01/06 13:44:22] <mt> ß is menu key-s-s here
+[2016/01/06 13:44:36] <mt> and ž is menu key-v-z :D
+[2016/01/06 13:44:54] <mt> as long as it isn't CJK I have to type
+[2016/01/06 13:45:00] <mt> it works
