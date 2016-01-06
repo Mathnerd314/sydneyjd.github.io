@@ -38106,3 +38106,6 @@
 [2016/01/06 14:03:54] @ claymore2 joined channel #supertux
 [2016/01/06 14:07:48] @ bb010g joined channel #supertux
 [2016/01/06 14:10:15] <head8debian> Heh.
+[2016/01/06 14:25:12] <polyphagia> you can automate keystrokes with xdotool
+[2016/01/06 14:27:44] <polyphagia> and you can remap keys with xmodmap :P
+[2016/01/06 14:27:56] <polyphagia> xmodmap -e 'clear Lock' -e 'keycode 0x42 = Escape' i remapped caps lock to escape
