@@ -37662,3 +37662,5 @@
 [2016/01/06 00:16:53] @ Quit: swift110: Remote host closed the connection
 [2016/01/06 00:22:36] @ Quit: irungentoo: Remote host closed the connection
 [2016/01/06 01:12:48] @ lumidify joined channel #supertux
+[2016/01/06 01:32:06] @ Quit: tuxdev_: Ping timeout: 240 seconds
+[2016/01/06 01:35:01] @ stewboy joined channel #supertux
