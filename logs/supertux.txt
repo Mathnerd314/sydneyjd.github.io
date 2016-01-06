@@ -37955,3 +37955,42 @@
 [2016/01/06 12:55:48] <Tobbi> :D
 [2016/01/06 12:58:46] @ giby joined channel #supertux
 [2016/01/06 12:58:47] @ Mode +o giby by ChanServ
+[2016/01/06 13:03:32] <mt> pentagon: github announce add #supertux SuperTux flexlay
+[2016/01/06 13:03:32] <pentagon> mt: The operation succeeded.
+[2016/01/06 13:03:38] <mt> pentagon: github announce add #supertux SuperTux addons
+[2016/01/06 13:03:38] <pentagon> mt: The operation succeeded.
+[2016/01/06 13:03:44] <mt> pentagon: github announce add #supertux SuperTux htdocs
+[2016/01/06 13:03:45] <pentagon> mt: The operation succeeded.
+[2016/01/06 13:03:52] <mt> pentagon: github announce add #supertux SuperTux SuperTux.github.io
+[2016/01/06 13:03:52] <pentagon> mt: The operation succeeded.
+[2016/01/06 13:04:24] <mt> Tobbi, Karkus: you can find the basic settings in the webhook settings for supertux/supertux
+[2016/01/06 13:04:31] <Tobbi> ok
+[2016/01/06 13:04:39] <mt> URL and config should be the same everywhere
+[2016/01/06 13:04:53] <mt> don't forget to set the Notifico hook to 'Inactive' tho
+[2016/01/06 13:05:02] <mt> else we'll have two announce bots here
+[2016/01/06 13:05:30] <polyphagia> lol
+[2016/01/06 13:05:41] <mt> ping me if you need to have another repo enabled
+[2016/01/06 13:06:07] <polyphagia> he wasn't exaggerating when he said he had OCD :P
+[2016/01/06 13:07:36] <Karkus> mt: Untick the "active" checkbox on the webhook page?
+[2016/01/06 13:07:44] <mt> Yeah
+[2016/01/06 13:07:49] <mt> for the n.tkte.ch one
+[2016/01/06 13:07:53] <Karkus> I've done flexlay
+[2016/01/06 13:07:58] <mt> and then add a new one with the settings as in the main repo
+[2016/01/06 13:08:00] @ Quit: datahead7777: Ping timeout: 250 seconds
+[2016/01/06 13:08:59] <Karkus> http://fornax.urandom.eu.org:33399/github this thing, mt?
+[2016/01/06 13:09:07] <mt> mhm
+[2016/01/06 13:10:03] <Karkus> mt: What's the difference?
+[2016/01/06 13:10:35] <mt> pentagon is more configurable, e.g. it does not post 'pending' statuses (only success and failure)
+[2016/01/06 13:10:35] <pentagon> mt: Error: "is" is not a valid command.
+[2016/01/06 13:10:59] <mt> content type for it should be application/x-www-form-urlencoded, other settings as in https://urandom.eu.org/i/jb09xGDC.png
+[2016/01/06 13:11:30] <mt> also http://fornax.urandom.eu.org:33399/github might be broken in your browser because HSTS for *.urandom.eu.org
+[2016/01/06 13:11:36] <Karkus> mt: Can you tell it to ignore labelling?
+[2016/01/06 13:12:17] <mt> pentagon: +repr [config plugins.GitHub.format.status]
+[2016/01/06 13:12:17] <pentagon> mt: Error: "+repr" is not a valid command.
+[2016/01/06 13:12:21] <mt> pentagon: repr [config plugins.GitHub.format.status]
+[2016/01/06 13:12:22] <pentagon> mt: "cif [ceq [echo $state] pending] \"utilities ignore\" \"echo \\\"[\x0310$repository__name\x03]\\\" Status for commit \x02$commit__commit__message__firstline\x02 by \x0307$commit__commit__author__name\x03: [gh.travisstatus] \x0313$target_url\x03\""
+[2016/01/06 13:12:27] <mt> Karkus: I can
+[2016/01/06 13:12:38] <mt> pentagon: repr [config plugins.GitHub.format.issues]
+[2016/01/06 13:12:38] <pentagon> mt: "echo \"[\x0310$repository__name\x03]\" \x0307$sender__login\x03 $action issue \x0309#$issue__number\x03: $issue__title \x0313$issue__html_url__tiny\x03"
+[2016/01/06 13:14:25] <Karkus> mt: Tell me when you're done and I will teset
+[2016/01/06 13:14:30] <Karkus> *test
