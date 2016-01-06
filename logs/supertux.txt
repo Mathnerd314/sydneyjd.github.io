@@ -37795,3 +37795,8 @@
 [2016/01/06 10:42:45] <Tobbi> wow...
 [2016/01/06 10:42:49] <Tobbi> they must be working hard.
 [2016/01/06 10:44:45] <mt> they should work harder to fix the speed :D
+[2016/01/06 10:45:36] <Tobbi> :D
+[2016/01/06 10:45:47] <Tobbi> mt: I assume they're testing manually.
+[2016/01/06 10:50:39] <head8debian> How can a company afford to host a 1gb ram 30gb HDD VPS for 15$/y??
+[2016/01/06 10:58:30] <head8debian> mt: Ok, so say i want to buy a VPS, but what is this name server1 and name server2 for?
+[2016/01/06 10:59:05] <head8debian> Ugg, hostnames... :p
