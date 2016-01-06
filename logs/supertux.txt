@@ -37692,3 +37692,5 @@
 [2016/01/06 05:26:44] @ xet7 joined channel #supertux
 [2016/01/06 05:57:44] @ Quit: lumidify: Ping timeout: 246 seconds
 [2016/01/06 05:58:02] @ lumidify joined channel #supertux
+[2016/01/06 06:05:48] @ giby joined channel #supertux
+[2016/01/06 06:05:48] @ Mode +o giby by ChanServ
