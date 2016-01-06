@@ -38089,3 +38089,13 @@
 [2016/01/06 13:44:36] <mt> and ž is menu key-v-z :D
 [2016/01/06 13:44:54] <mt> as long as it isn't CJK I have to type
 [2016/01/06 13:45:00] <mt> it works
+[2016/01/06 13:45:14] <Hume2> Menu key doesn't seem to work for writing on my machine.
+[2016/01/06 13:45:26] <mt> yeah, I've configured it to be menu key
+[2016/01/06 13:46:06] <mt> In GNOME 3.18 it's in 'Settings' -> 'Keyboard' -> 'Shortcuts' -> 'Typing' -> 'Compose key'
+[2016/01/06 13:46:20] <Hume2> I'll look.
+[2016/01/06 13:47:39] <Hume2> It works, thanks!
+[2016/01/06 13:50:54] @ ced117 joined channel #supertux
+[2016/01/06 13:53:53] @ Tobbi joined channel #supertux
+[2016/01/06 13:53:54] @ Mode +o Tobbi by ChanServ
+[2016/01/06 13:54:55] <Hume2> It's a bit teddious to press Menu+AltGr+6, release AltGr and 6 and press Num8.
+[2016/01/06 13:58:29] @ Quit: Karkus: Ping timeout: 245 seconds
