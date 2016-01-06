@@ -38123,3 +38123,10 @@
 [2016/01/06 14:51:56] @ Quit: Hume2: Quit: Page closed
 [2016/01/06 14:58:50] <tomreyn> bing's back http://www.site24x7.com/public/t/results-1452110122852.html
 [2016/01/06 14:59:21] <tomreyn> but this indeed looks like it was a global outage https://www.site24x7.com/public/t/results-1452109176820.html
+[2016/01/06 15:02:24] <Tobbi> What was the outcome of this discussion about compression...
+[2016/01/06 15:02:26] <tomreyn> ...also breaking office 365 + outlook.com
+[2016/01/06 15:05:23] @ Quit: xet7: Ping timeout: 276 seconds
+[2016/01/06 15:08:37] <maths22> Anyone here running Windows 10?
+[2016/01/06 15:09:07] <Tobbi> yes, me.
+[2016/01/06 15:10:57] <maths22> Can you try out https://www.microsoft.com/en-us/store/games/supertux/9nblggh5k9mr
+[2016/01/06 15:11:26] <Tobbi> yes, one moment.
