@@ -37615,3 +37615,11 @@
 [2016/01/05 18:35:03] <head8debian> Testing...
 [2016/01/05 18:35:15] <head8debian> Good.
 [2016/01/05 18:39:21] @ Log closed by red_bot (rescan or shutdown)
+[2016/01/05 18:49:01] @ Log started by red_bot
+[2016/01/05 18:49:01] <Tobbi> head8debian: what are you testing?
+[2016/01/05 18:50:52] @ jesusalva_bot joined channel #supertux
+[2016/01/05 18:51:21] @ jesusalva_bot left channel #supertux ()
+[2016/01/05 18:56:49] <head8debian> Tobbi: I got the last finishing touches fixed on my IRC client.
+[2016/01/05 18:57:19] <Tobbi> Ah, okay
+[2016/01/05 18:57:23] <Tobbi> head8debian: what IRC client, anyway?
+[2016/01/05 18:57:29] <head8debian> Tobbi: Irssi.
