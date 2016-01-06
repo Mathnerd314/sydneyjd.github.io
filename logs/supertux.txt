@@ -37878,3 +37878,43 @@
 [2016/01/06 12:29:24] <Hume2> It's hexagonal ice I...
 [2016/01/06 12:29:37] <Karkus> Tobbi: The only tiles with ID 0 should be empty tiles...
 [2016/01/06 12:29:47] <Tobbi> Karkus: My point exactly.
+[2016/01/06 12:30:03] @ Quit: alket: Disconnected by services
+[2016/01/06 12:30:03] @ Drangue joined channel #supertux
+[2016/01/06 12:30:15] <Tobbi> Karkus: I am trying to create a media library for the editor now...
+[2016/01/06 12:30:24] @ Drangue is now known as alket
+[2016/01/06 12:30:26] <Tobbi> To make sure we don't deal with filenames anymore.
+[2016/01/06 12:30:35] <Tobbi> Not sure if I'll succeed...but let's see...
+[2016/01/06 12:30:37] <Karkus> Tobbi: Oh, cool
+[2016/01/06 12:31:45] <mt> Hume2: how do you choose these values? are they in the code or do you calculate that from the size of that penguin and the difference in the graphics?
+[2016/01/06 12:32:14] <Hume2> mt: I calculate it for this penguin: https://en.wikipedia.org/wiki/Gentoo_penguin
+[2016/01/06 12:33:18] <mt> ah
+[2016/01/06 12:33:26] <mt> why do you need to calculate it?
+[2016/01/06 12:33:28] <Karkus> Tobbi: I'm going to force the user to hit "Apply" in the properties widget, that's not a problem is it?
+[2016/01/06 12:33:39] <Tobbi> Karkus: No, it's not.
+[2016/01/06 12:33:47] <Tobbi> At least, I don't think it is.
+[2016/01/06 12:33:54] <Karkus> Tobbi: It makes more sense than evaluating on the fly
+[2016/01/06 12:34:00] <Tobbi> Oh, yes.
+[2016/01/06 12:34:13] <Tobbi> Karkus: I am still in favour of a widget like most IDEs have it.
+[2016/01/06 12:34:16] <Tobbi> Table-like.
+[2016/01/06 12:34:38] <Tobbi> Karkus: Have you ever used an IDE?
+[2016/01/06 12:35:04] <Karkus> Tobbi: Sure...
+[2016/01/06 12:35:17] <Tobbi> Karkus: http://lh4.ggpht.com/-nA-JwUn1GTk/TlMkht9K5nI/AAAAAAAADvg/VNO9zKXpD5E/image22_thumb.png?imgmax=800
+[2016/01/06 12:35:21] <Tobbi> This would be ideal.
+[2016/01/06 12:35:22] @ lumidify joined channel #supertux
+[2016/01/06 12:35:22] <Karkus> Tobbi: Err, I thought that was to do with the projects thing.
+[2016/01/06 12:35:32] <Tobbi> Karkus: Ah, no, for the properties as well.
+[2016/01/06 12:35:48] <Hume2> For melting that ice cube is needed 24MJ of energy.
+[2016/01/06 12:35:58] <Karkus> Tobbi: I'm not sure if you can add buttons etc. to that, however.
+[2016/01/06 12:36:15] <Karkus> Tobbi: E.g. browse for files
+[2016/01/06 12:36:17] @ Quit: polyphagia: Ping timeout: 265 seconds
+[2016/01/06 12:36:27] <Tobbi> Karkus: I have seen rectangular buttons with ... on it in IDEs
+[2016/01/06 12:36:46] <Tobbi> Not sure if it's possible in QT, though.
+[2016/01/06 12:36:48] <Karkus> Tobbi: Maybe it could be a setting :D so you can switch what properties widget you want :P
+[2016/01/06 12:37:46] <Tobbi> Karkus: http://doc.qt.io/qt-4.8/qdesignerpropertyeditorinterface.html
+[2016/01/06 12:37:52] <Tobbi> (?)
+[2016/01/06 12:38:42] <Tobbi> Or this? https://github.com/commontk/QtPropertyBrowser
+[2016/01/06 12:39:03] <Tobbi> Okay, that's c++
+[2016/01/06 12:40:27] <Tobbi> I will ask the people in the #pyqt channel
+[2016/01/06 12:41:03] <Hume2> Let's say that the fireball is coal...
+[2016/01/06 12:41:52] <Tobbi> "That the fireball is cool..."
+[2016/01/06 12:44:59] <Hume2> :D
