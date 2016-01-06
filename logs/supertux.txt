@@ -37728,3 +37728,40 @@
 [2016/01/06 10:13:50] <mt> head8debian: you can run many things on a 128 MB RAM VPS
 [2016/01/06 10:14:06] <head8debian> Still, $22/y  for it + a domain.
 [2016/01/06 10:14:29] <head8debian> mt: True. Its pretty tight to host a website though.
+[2016/01/06 10:15:14] <head8debian> Im thinking of getting a VPS for a year... thinking.
+[2016/01/06 10:15:36] <mt> http://lowendspirit.com/ -> 3€/yr IPv6 and NAT VPS
+[2016/01/06 10:15:53] <mt> they run haproxy so you can host your website under IPv4 + port 80
+[2016/01/06 10:16:05] <mt> or you could just use cloudflare for that
+[2016/01/06 10:17:37] <head8debian> mt: Cloudflare does what?
+[2016/01/06 10:18:02] <mt> head8debian: and, it's pretty much enough for hosting a simple website with nginx (might not support PHP but eww scripted content)
+[2016/01/06 10:18:47] <head8debian> mt: Well, $1 a month is not much, as a matter of fact its cheap.
+[2016/01/06 10:19:06] <head8debian> Its *very* cheap.
+[2016/01/06 10:19:11] <mt> head8debian: well since the LowEndSpirit VPS only support IPv6 and 20 NAT ports (not port 80), you could run the webserver on the IPv6's port 80 and make cloudflare proxy IPv4 to IPv6 (and IPv6 to IPv6)
+[2016/01/06 10:19:23] <head8debian> Hrm.
+[2016/01/06 10:20:25] <head8debian> 1GB disk space? o_O
+[2016/01/06 10:21:18] <mt> subtract another 100 MB because ploop ;)
+[2016/01/06 10:21:26] <mt> and 200 MB for the OS
+[2016/01/06 10:21:36] <mt> 700 MB for a website, pretty much
+[2016/01/06 10:21:45] <head8debian> Ouch.
+[2016/01/06 10:22:00] <head8debian> WIll they give me a domain for 50 cents? :p
+[2016/01/06 10:22:05] <mt> nope
+[2016/01/06 10:22:14] @ lumidify joined channel #supertux
+[2016/01/06 10:22:21] <mt> but hey, it's enough for running a website, or what do you understand as website?
+[2016/01/06 10:22:52] @ pentagon joined channel #supertux
+[2016/01/06 10:23:17] <mt> pentagon is the bot I'm using for the GitHub announcements :P
+[2016/01/06 10:23:18] <pentagon> mt: Error: "is" is not a valid command.
+[2016/01/06 10:23:21] <head8debian> Some decent HTML/CSS website without any flashy junk.
+[2016/01/06 10:23:27] <head8debian> mt: COol.
+[2016/01/06 10:23:33] <head8debian> 1 x NAT IPv4 ?
+[2016/01/06 10:23:43] <head8debian> If its NAT, how is that supposed to work? :p
+[2016/01/06 10:23:52] <mt> head8debian: yep. 20 NATed ports and 1 SSH NAT port
+[2016/01/06 10:24:42] <mt> head8debian: they run a reverse proxy for serving websites on port 80 (that's a proxy that redirects HTTP(s) traffic to your VPS)
+[2016/01/06 10:25:03] <mt> head8debian: or you run it on IPv6 and let CloudFlare reverse proxy both IPv4 and IPv6 traffic
+[2016/01/06 10:25:12] <head8debian> Ah.
+[2016/01/06 10:25:13] <mt> (https://www.cloudflare.com/)
+[2016/01/06 10:25:28] <head8debian> I see. :)
+[2016/01/06 10:25:58] <head8debian> Ive used a reverse proxy that a friend set up and he showed me how it works, a little.
+[2016/01/06 10:26:23] <mt> head8debian: PM?
+[2016/01/06 10:26:42] <mt> want you to do something about the announcement webhook
+[2016/01/06 10:27:41] <mt> pentagon: github announce add #supertux SuperTux supertux
+[2016/01/06 10:27:42] <pentagon> mt: The operation succeeded.
