@@ -38194,3 +38194,4 @@
 [2016/01/06 17:35:48] <pentagon> [10flexlay] 07Karkus476 commented on issue 09#69: Fix Tile Selector Layout 13http://git.io/vuV3N
 [2016/01/06 17:42:23] <maths22> Tobbi: How does one get an unaffiliated cloak?
 [2016/01/06 17:42:35] <Tobbi> maths22: Ask the people on #freenode
+[2016/01/06 17:53:01] <maths22> OK
