@@ -37623,3 +37623,13 @@
 [2016/01/05 18:57:19] <Tobbi> Ah, okay
 [2016/01/05 18:57:23] <Tobbi> head8debian: what IRC client, anyway?
 [2016/01/05 18:57:29] <head8debian> Tobbi: Irssi.
+[2016/01/05 19:05:57] <Tobbi> head8debian: In any case: I just fixed sounds in the yeti's revenge levels. so they actually play.
+[2016/01/05 19:11:44] <head8debian> Tobbi: It was broken?
+[2016/01/05 19:12:17] <Tobbi> head8debian: Did you ever hear a clapping sound when collecting a fishbox?
+[2016/01/05 19:12:55] <head8debian> Tobbi: I don't think so.
+[2016/01/05 19:12:59] <head8debian> I don't remember though.
+[2016/01/05 19:13:08] <Tobbi> head8debian: See, it was broken.
+[2016/01/05 19:13:19] <head8debian> Hrm.
+[2016/01/05 19:13:33] <head8debian> Anyways, ive got work to do. And you should go to bed. :D
+[2016/01/05 19:14:52] <Tobbi> It's 1m.
+[2016/01/05 19:14:53] <Tobbi> am
