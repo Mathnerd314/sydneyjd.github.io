@@ -38172,3 +38172,7 @@
 [2016/01/06 16:27:35] <Tobbi_> But I'll postpone it.
 [2016/01/06 16:27:40] <Tobbi_> I don't want to restart now.
 [2016/01/06 16:28:37] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/01/06 16:33:48] <head8debian> I cannot do anything untill my system updates. arg.
+[2016/01/06 16:35:05] @ Quit: tux|dude: Quit: Leaving
+[2016/01/06 16:35:58] <maths22> Windows Update-Everyone's favorite windows feature :)
+[2016/01/06 16:44:00] <polyphagia> microsoft's favourite rootkit
