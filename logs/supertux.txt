@@ -37680,3 +37680,9 @@
 [2016/01/06 04:00:33] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- Organize your IRC
 [2016/01/06 04:29:06] <mt> https://opensource.com/life/15/12/top-5-open-gaming We're in the honorable mentions
 [2016/01/06 04:29:18] @ lumidify1 is now known as lumidify
+[2016/01/06 04:34:39] <mt> I think in the future we should rather commit bugfixes to the release/ branch and then merge that into master
+[2016/01/06 04:35:18] <mt> using merge is allowed at that point
+[2016/01/06 04:37:55] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#314: Option to enter ghost mode from cheat menu - 13http://git.io/vuzLo
+[2016/01/06 04:40:55] <mt> oh btw if we need @supertuxproject.org emails, I think I can set up postfix to provide forwarding if someone points the MX of supertuxproject.org to fornax.urandom.eu.org
+[2016/01/06 04:43:58] <Not-e81f> [02supertux] 07maxteufel commented on issue 03#300: Added small penguin thumbnails in the README.md file, to make it look attractive - 13http://git.io/vuzqL
+[2016/01/06 04:43:59] <Not-e81f> [02supertux] 07maxteufel closed pull request 03#300: Added small penguin thumbnails in the README.md file, to make it look attractive - 13http://git.io/vEMMC
