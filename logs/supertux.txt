@@ -38562,3 +38562,10 @@
 [2016/01/07 15:20:04] @ jesusalva_ is now known as jesusalva
 [2016/01/07 15:23:03] @ Quit: xet7: Read error: Connection reset by peer
 [2016/01/07 15:40:06] @ bb010g joined channel #supertux
+[2016/01/07 15:48:25] @ Quit: lumidify: Quit: Quit: Going to bed
+[2016/01/07 15:49:43] <pentagon> [10supertux] 07Karkus476 commented on issue 09#320: Inconsistent/crude death effects 13http://git.io/vu0f6
+[2016/01/07 15:50:40] @ Hume2 joined channel #supertux
+[2016/01/07 15:50:40] @ Mode +v Hume2 by ChanServ
+[2016/01/07 15:53:41] <pentagon> [10addons] 07Hume2 commented on issue 09#10: Hume's rainbow cave: Octachoral test is broken 13http://git.io/vuPUm
+[2016/01/07 15:56:01] <Karkus> mt: re "If they don't want to fix that, sorry. We don't provide official support for add-ons (else they would be part of the game)." If issues in it are not being fixed, or it is left not updated, we should try to update it, but reserve the right at all times to consider removing the addon a suitable fix.
+[2016/01/07 15:57:32] <pentagon> [10supertux] 07Hume2 commented on issue 09#319: Magic blocks do not respond to some light elements 13http://git.io/vuRB6
