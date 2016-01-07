@@ -38642,3 +38642,6 @@
 [2016/01/07 16:50:17] @ Quit: jesusalva: *.net *.split
 [2016/01/07 16:50:51] <Tobbi> Ding, dong, the spam is dead, spammy spam, the spam is dead.
 [2016/01/07 16:51:32] @ jesusalva joined channel #supertux
+[2016/01/07 17:02:10] @ Sickmind33 joined channel #supertux
+[2016/01/07 17:11:02] @ Quit: Sickmind33: Ping timeout: 246 seconds
+[2016/01/07 17:11:36] @ Sickmind33 joined channel #supertux
