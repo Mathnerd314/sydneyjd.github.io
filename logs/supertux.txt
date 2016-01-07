@@ -38662,3 +38662,7 @@
 [2016/01/07 17:58:01] @ Mode +o Tobbi by ChanServ
 [2016/01/07 17:58:46] @ xet7 joined channel #supertux
 [2016/01/07 17:59:00] @ Quit: Sickmind33: Ping timeout: 265 seconds
+[2016/01/07 18:04:04] <maths22> I've figured out how to get addons working on WinRT!
+[2016/01/07 18:04:19] <maths22> New x86 build coming up soon
+[2016/01/07 18:04:25] <maths22> Then I'll get this building on ARM
+[2016/01/07 18:09:30] @ Quit: claymore2: Quit: Leaving
