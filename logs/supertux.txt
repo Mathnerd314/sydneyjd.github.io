@@ -38638,3 +38638,7 @@
 [2016/01/07 16:42:56] <polyphagia> toilet's just in the repos
 [2016/01/07 16:43:00] <polyphagia> different default font
 [2016/01/07 16:43:05] <polyphagia> but i'm pretty sure you can change it
+[2016/01/07 16:47:11] @ Quit: Karkus: Quit: Division By Zero
+[2016/01/07 16:50:17] @ Quit: jesusalva: *.net *.split
+[2016/01/07 16:50:51] <Tobbi> Ding, dong, the spam is dead, spammy spam, the spam is dead.
+[2016/01/07 16:51:32] @ jesusalva joined channel #supertux
