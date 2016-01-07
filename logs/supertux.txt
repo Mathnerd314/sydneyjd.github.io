@@ -38390,3 +38390,16 @@
 [2016/01/07 12:05:22] @ leyyin joined channel #supertux
 [2016/01/07 12:08:44] @ Karkus joined channel #supertux
 [2016/01/07 12:08:45] @ Mode +o Karkus by ChanServ
+[2016/01/07 12:17:51] <polyphagia> why is mini-tux always running Tobbi ?
+[2016/01/07 12:18:03] <polyphagia> well always has the running animation even when not holding run
+[2016/01/07 12:18:05] <Tobbi> polyphagia: I don't know. It shouldn't happen.
+[2016/01/07 12:18:13] <Tobbi> Someone else fix it.
+[2016/01/07 12:22:54] @ Hume2 joined channel #supertux
+[2016/01/07 12:22:54] @ Mode +v Hume2 by ChanServ
+[2016/01/07 12:23:16] <Hume2> Hello all
+[2016/01/07 12:27:05] <Karkus> Hello head8debian
+[2016/01/07 12:27:05] <Karkus> Damn.
+[2016/01/07 12:27:05] <Karkus> Hello Hume2
+[2016/01/07 12:27:05] <Karkus> why couldn't you all choose names considerately?
+[2016/01/07 12:27:07] @ Quit: Karkus: Quit: Division By Zero
+[2016/01/07 12:28:00] <Hume2> Hume was occupied, that's why.
