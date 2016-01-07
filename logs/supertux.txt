@@ -38481,3 +38481,21 @@
 [2016/01/07 13:42:36] <Hume2> The real water physics would also reveal the real hitboxes.
 [2016/01/07 13:43:10] <Tobbi> hitboxes can be debugged from the console.
 [2016/01/07 13:43:17] <Tobbi> debug_collrects(true)
+[2016/01/07 13:46:50] <Hume2> The problem is in that in almost all cases hitbox != shape.
+[2016/01/07 13:47:27] <Hume2> ...becase the shape is usually not rectangular, while the hitbox always is.
+[2016/01/07 13:48:52] <Tobbi> Hume2: We do not strive for exactness...
+[2016/01/07 13:49:05] <mt> why can't we have shaped hitboxes?
+[2016/01/07 13:49:12] <Tobbi> mt: Why do we need to?
+[2016/01/07 13:49:38] <polyphagia> they're slower :P
+[2016/01/07 13:49:42] <Tobbi> mt: Are you actually serious?
+[2016/01/07 13:49:56] <Tobbi> You sound like he who must not be named.
+[2016/01/07 13:50:06] <polyphagia> haha
+[2016/01/07 13:50:23] <Hume2> Tobbi: Then explain me this: https://github.com/SuperTux/supertux/issues/320
+[2016/01/07 13:50:37] <mt> nah
+[2016/01/07 13:50:44] <mt> we don't need real physics
+[2016/01/07 13:50:52] <Tobbi> Hume2: Okay, but I didn't write that bug.
+[2016/01/07 13:51:09] <Hume2> Neither I need real physics.
+[2016/01/07 13:51:29] <Hume2> However some of those points require that.
+[2016/01/07 13:52:42] <Hume2> Anyway just because of this I revealed how fast computers we really have: http://madebyevan.com/webgl-water/
+[2016/01/07 13:55:14] <Hume2> It's not as good quality though.
+[2016/01/07 14:00:00] <Karkus> mt: We probably should.
