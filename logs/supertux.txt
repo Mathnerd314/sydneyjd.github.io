@@ -38645,3 +38645,10 @@
 [2016/01/07 17:02:10] @ Sickmind33 joined channel #supertux
 [2016/01/07 17:11:02] @ Quit: Sickmind33: Ping timeout: 246 seconds
 [2016/01/07 17:11:36] @ Sickmind33 joined channel #supertux
+[2016/01/07 17:22:56] @ Quit: alket: Ping timeout: 276 seconds
+[2016/01/07 17:27:48] <polyphagia> where are you from Tobbi ?
+[2016/01/07 17:28:11] <jesusalva> Germain, if I'm not mistaken.
+[2016/01/07 17:28:14] <Tobbi> polyphagia: Have a guess. Considering my writing, and all related personal and socialogical...
+[2016/01/07 17:28:20] <Tobbi> damn it jesusalva, you ruined it.
+[2016/01/07 17:28:55] <polyphagia> oh i thought you were from america
+[2016/01/07 17:28:59] * jesusalva gives an evil laugh
