@@ -38219,3 +38219,4 @@
 [2016/01/06 21:36:16] @ Quit: tux|dude: Quit: Leaving
 [2016/01/06 21:47:49] @ jesusalva joined channel #supertux
 [2016/01/06 22:18:36] @ tux|dude joined channel #supertux
+[2016/01/06 22:32:57] @ Quit: irungentoo: Remote host closed the connection
