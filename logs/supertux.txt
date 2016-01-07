@@ -38256,3 +38256,4 @@
 [2016/01/07 05:01:03] @ Mode +o Tobbi by ChanServ
 [2016/01/07 06:09:21] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- Nine out of ten l33t h4x0rz prefer it
 [2016/01/07 06:10:45] @ Quit: tux|dude: Quit: Leaving
+[2016/01/07 06:21:33] @ Quit: Tobbi: Remote host closed the connection
