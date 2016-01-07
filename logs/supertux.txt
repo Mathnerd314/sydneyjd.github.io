@@ -38252,3 +38252,5 @@
 [2016/01/07 04:25:47] <mt> tfw wikipedia about SuperTux: en: not really much content; de: ok, this actually contains the useful information; fr: ok there's a list of all the Milestones describing some of the levels and all the badguys
 [2016/01/07 04:25:50] <pentagon> [10flexlay] 07tobbi commented on issue 09#70: Add support for brushes 13http://git.io/vur5W
 [2016/01/07 04:49:56] @ alket joined channel #supertux
+[2016/01/07 05:01:03] @ Tobbi joined channel #supertux
+[2016/01/07 05:01:03] @ Mode +o Tobbi by ChanServ
