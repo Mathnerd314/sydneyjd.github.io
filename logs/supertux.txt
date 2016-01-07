@@ -38339,3 +38339,38 @@
 [2016/01/07 10:48:57] * head8debian faints...
 [2016/01/07 10:49:00] <head8debian> ;p
 [2016/01/07 11:05:17] <Tobbi> head8debian: Why did you faint?
+[2016/01/07 11:16:57] <head8debian> Tobbi: ;) We only had 20 issues a week ago. ;)
+[2016/01/07 11:17:01] <head8debian> Or 2 weeks ago.
+[2016/01/07 11:17:15] <Tobbi> head8debian: More like a month ago.
+[2016/01/07 11:17:22] <Tobbi> head8debian: Reporting issues is the easiest way...
+[2016/01/07 11:17:37] <Tobbi> to contribute, I mean.
+[2016/01/07 11:17:47] <mt> do we need http://supertuxproject.org/authors.html
+[2016/01/07 11:19:28] <mt> also Tobbi did you add the webhook for pentagon to htdocs and SuperTux.github.io?
+[2016/01/07 11:19:40] <Tobbi> mt: I didn't. Did you tell me to?
+[2016/01/07 11:19:55] <mt> yes
+[2016/01/07 11:20:04] <Tobbi> oh, no, I did not.
+[2016/01/07 11:20:09] <Tobbi> mt: What do I need to do?
+[2016/01/07 11:20:37] <mt> Tobbi: go to 'Settings' -> 'Webhooks & services'
+[2016/01/07 11:20:56] <mt> you'll see the n.tkte.ch one, set it to inactive (untick Active in the settings)
+[2016/01/07 11:21:18] <mt> then add a new one, http://fornax.urandom.eu.org:33399/github
+[2016/01/07 11:21:26] <mt> with these settings: https://urandom.eu.org/i/jb09xGDC.png
+[2016/01/07 11:21:40] <mt> application/x-www-form-urlencoded is important
+[2016/01/07 11:23:33] <mt> Tobbi: addons is also whitelisted
+[2016/01/07 11:23:39] <Tobbi> one moment.
+[2016/01/07 11:23:42] <mt> can add more repos if you want to
+[2016/01/07 11:23:50] <Tobbi> mt: I do need a secret, don't I?
+[2016/01/07 11:24:00] <mt> no
+[2016/01/07 11:24:07] <mt> it validates the GitHub IPs
+[2016/01/07 11:24:13] <Tobbi> ok
+[2016/01/07 11:25:17] <Tobbi> I just triggered a redelivering event.
+[2016/01/07 11:25:45] <mt> what's it supposed to redeliver?
+[2016/01/07 11:26:49] <mt> Jan 07 17:24:18 fornax supybot[16295]: INFO 2016-01-07T17:24:18 HTTP request: 192.30.252.46 - "POST /github HTTP/1.1" 200 -
+[2016/01/07 11:26:52] <mt> Jan 07 17:24:18 fornax supybot[16295]: INFO 2016-01-07T17:24:18 Got ping event from GitHub.
+[2016/01/07 11:26:56] <mt> it won't display those, fwiw
+[2016/01/07 11:26:58] <Tobbi> this is the payload it sent http://pastebin.com/L70r5jiH
+[2016/01/07 11:26:59] <Tobbi> okay.
+[2016/01/07 11:27:01] <Tobbi> alright
+[2016/01/07 11:27:39] <mt> so, I only see two recent ping events
+[2016/01/07 11:27:46] <mt> did you add htdocs and addons as well
+[2016/01/07 11:28:13] <Tobbi> I am on it.
+[2016/01/07 11:28:17] <Tobbi> gimme a break, damn it.
