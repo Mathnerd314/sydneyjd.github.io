@@ -38385,3 +38385,8 @@
 [2016/01/07 11:45:13] <Tobbi> mt: Did you ever listen to the Pegida anthem? It's quite a shame that Amazon removed it. It's so hilariously bad that one can consider it good again.
 [2016/01/07 11:48:23] <Tobbi> Might work well for things like, I don't know, Karnevalsfeste.
 [2016/01/07 11:48:33] <Tobbi> Pegida anthem + Büttenrede
+[2016/01/07 12:03:45] <Tobbi> Oh, 92 builds ahead...
+[2016/01/07 12:04:17] <Tobbi> It went down quite a bit.
+[2016/01/07 12:05:22] @ leyyin joined channel #supertux
+[2016/01/07 12:08:44] @ Karkus joined channel #supertux
+[2016/01/07 12:08:45] @ Mode +o Karkus by ChanServ
