@@ -38404,3 +38404,6 @@
 [2016/01/07 12:27:07] @ Quit: Karkus: Quit: Division By Zero
 [2016/01/07 12:28:00] <Hume2> Hume was occupied, that's why.
 [2016/01/07 12:34:15] @ Quit: lumidify: Ping timeout: 260 seconds
+[2016/01/07 12:49:15] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/07 12:50:10] @ Karkus joined channel #supertux
+[2016/01/07 12:50:10] @ Mode +o Karkus by ChanServ
