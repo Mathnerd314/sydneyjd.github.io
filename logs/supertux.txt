@@ -38499,3 +38499,47 @@
 [2016/01/07 13:52:42] <Hume2> Anyway just because of this I revealed how fast computers we really have: http://madebyevan.com/webgl-water/
 [2016/01/07 13:55:14] <Hume2> It's not as good quality though.
 [2016/01/07 14:00:00] <Karkus> mt: We probably should.
+[2016/01/07 14:00:09] <Karkus> Hume2: We don't need proper physics
+[2016/01/07 14:00:13] <Karkus> Or water
+[2016/01/07 14:00:43] <Karkus> Just an animation which is generalised, and will work without graphics people putting in backwork
+[2016/01/07 14:00:56] <Karkus> Or LMH complaining
+[2016/01/07 14:01:25] <Hume2> So make sprites for each terrain case?
+[2016/01/07 14:01:36] <Karkus> Hume2: Why?
+[2016/01/07 14:01:47] <Hume2> You've just said it.
+[2016/01/07 14:02:06] <Karkus> Hume2: Why would it be different regarding the terrain?
+[2016/01/07 14:02:11] <Hume2> Or how do you imagine generalized animation?
+[2016/01/07 14:02:36] <Karkus> Hume2: Fade + water appears + splash/drop?
+[2016/01/07 14:03:06] <Hume2> That I suggested before, but Tobbi didn't like it.
+[2016/01/07 14:03:18] <Tobbi> oh, don't you blame me.
+[2016/01/07 14:03:22] <Tobbi> As I said: I am not your leader.
+[2016/01/07 14:03:22] <mt> Karkus: what should we probably do?
+[2016/01/07 14:03:29] <Tobbi> Do whatever you want with the project and I'll comply.
+[2016/01/07 14:03:42] <Karkus> mt: Regarding which of the many matters?
+[2016/01/07 14:04:17] <mt> re 20:00:00 <@Karkus> mt: We probably should.
+[2016/01/07 14:04:34] <Hume2> When Tobbi doesn't like it, I guess that he won't be the only one.
+[2016/01/07 14:04:41] <Karkus> mt: Have shaped hitboxes :p
+[2016/01/07 14:04:53] <Hume2> Well...
+[2016/01/07 14:04:54] <Tobbi> Hume2: Listen: You sound like I am influencing people...
+[2016/01/07 14:04:58] <Tobbi> I am trying not to.
+[2016/01/07 14:05:15] <Hume2> oh...
+[2016/01/07 14:05:16] <Tobbi> If you want, I can stop contributing, and you guys can take matters into your own hands.
+[2016/01/07 14:05:25] <Tobbi> Since everyone knows basically everything...
+[2016/01/07 14:05:29] <Tobbi> It's not a big loss.
+[2016/01/07 14:05:38] <Tobbi> SuperTux has seen many people come and go over the years.
+[2016/01/07 14:06:05] <pentagon> [10supertux] 07Karkus476 commented on issue 09#165: Animations loop if you pause and then unpause game 13http://git.io/vcso0
+[2016/01/07 14:06:33] <Hume2> For me you are still the lead, I can't get rid of it somehow.
+[2016/01/07 14:06:43] <Hume2> I don't know why.
+[2016/01/07 14:06:52] <Tobbi> Hume2: Maybe because I am too demanding.
+[2016/01/07 14:08:23] <Hume2> Maybe, or maybe because of me?
+[2016/01/07 14:09:50] <Tobbi> Hume2: You need some confidence. Want to lead the project? :P
+[2016/01/07 14:10:07] <Hume2> I would be a terrible lead I think.
+[2016/01/07 14:10:55] <Tobbi> Hume2: I don't technically lead the project either.
+[2016/01/07 14:11:01] <Tobbi> You just regard me as lead since I know a lot.
+[2016/01/07 14:11:16] <Tobbi> What's that called? Meritocracy?
+[2016/01/07 14:11:23] <Karkus> Tobbi, Hume2: Currently, no-one is lead. It's fine that way, can't we all be happy?
+[2016/01/07 14:11:35] <Tobbi> Yes, these discussions can get tiring.
+[2016/01/07 14:11:55] <Tobbi> I just don't want people to take my opinion as somewhat more important than anyone else's.
+[2016/01/07 14:12:31] <Hume2> We could be happy, i just got a bit dependent on Tobbi.
+[2016/01/07 14:12:44] <Tobbi> Just. Don't.
+[2016/01/07 14:13:18] <Hume2> It looks like I can't resist, I'm really sorry.
+[2016/01/07 14:15:00] <Hume2> It shouldn't mean anything I hope, only some Tobbi'o'arguments.
