@@ -38277,3 +38277,17 @@
 [2016/01/07 08:25:56] @ Jesusaves joined channel #supertux
 [2016/01/07 08:29:10] @ Quit: jesusalva: Ping timeout: 256 seconds
 [2016/01/07 08:29:58] <head8debian> Tobbi: Did you accept maths22's coverity request?
+[2016/01/07 08:30:08] <Tobbi> head8debian: I think I did.
+[2016/01/07 08:30:08] <red_bot> Tobbi, you have notes! [Jan- 7 04:22] <mt> re: http://forum.freegamedev.net/viewtopic.php?f=67&t=6687#p67206 I actually posted something in my post as well (I think "Shocking" needs a better soundtrack)
+[2016/01/07 08:30:12] <Tobbi> oh no.
+[2016/01/07 08:30:42] <mt> oh yes! what?
+[2016/01/07 08:30:53] <Tobbi> Our build is still in queue.
+[2016/01/07 08:30:58] <Tobbi> mt: eeh, nothing.
+[2016/01/07 08:31:05] @ Jesusaves is now known as jesusalva
+[2016/01/07 08:31:18] <Tobbi> mt: Where did you post something?
+[2016/01/07 08:31:31] <mt> http://forum.freegamedev.net/viewtopic.php?f=67&t=6687#p67190
+[2016/01/07 08:31:35] <mt> silly you
+[2016/01/07 08:31:55] <Tobbi> oh, yes.
+[2016/01/07 08:31:58] <Tobbi> Silly me, indeed.
+[2016/01/07 08:34:53] <mt> https://github.com/freenode/gms/issues/100 > best localization for de_AT :D
+[2016/01/07 08:44:02] @ lumidify1 joined channel #supertux
