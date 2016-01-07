@@ -38544,3 +38544,12 @@
 [2016/01/07 14:13:18] <Hume2> It looks like I can't resist, I'm really sorry.
 [2016/01/07 14:15:00] <Hume2> It shouldn't mean anything I hope, only some Tobbi'o'arguments.
 [2016/01/07 14:26:12] @ Quit: Hume2: Quit: Page closed
+[2016/01/07 14:30:28] @ kyberkits joined channel #supertux
+[2016/01/07 14:30:39] <pentagon> [10supertux] 07LMH0013 commented on issue 09#320: Inconsistent/crude death effects 13http://git.io/vu0f6
+[2016/01/07 14:35:54] <pentagon> [10supertux] 07brmbrmcar commented on issue 09#165: Animations loop if you pause and then unpause game 13http://git.io/vcso0
+[2016/01/07 14:37:10] @ tomreyn_ joined channel #supertux
+[2016/01/07 14:38:32] @ Quit: gynter: *.net *.split
+[2016/01/07 14:38:38] @ Quit: tomreyn: *.net *.split
+[2016/01/07 14:38:41] @ tomreyn_ is now known as tomreyn
+[2016/01/07 14:41:50] <pentagon> [10supertux] 07LMH0013 commented on issue 09#319: Magic blocks do not respond to some light elements 13http://git.io/vuRB6
+[2016/01/07 14:42:37] <pentagon> [10supertux] 07LMH0013 commented on issue 09#314: Option to enter ghost mode from cheat menu 13http://git.io/vEp6I
