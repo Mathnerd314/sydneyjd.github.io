@@ -38238,3 +38238,5 @@
 [2016/01/07 02:23:14] @ Quit: lumidify: Ping timeout: 260 seconds
 [2016/01/07 02:34:39] <pentagon> [10flexlay] 07Karkus476 commented on issue 09#69: Fix Tile Selector Layout 13http://git.io/vuV3N
 [2016/01/07 02:36:12] @ Quit: tuxdev_: Ping timeout: 272 seconds
+[2016/01/07 03:08:30] @ lumidify2 joined channel #supertux
+[2016/01/07 03:08:58] @ Quit: lumidify1: Ping timeout: 260 seconds
