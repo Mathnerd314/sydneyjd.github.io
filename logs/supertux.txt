@@ -38225,3 +38225,5 @@
 [2016/01/06 23:57:41] <kneekoo> hello! :)
 [2016/01/07 00:02:10] <kneekoo> have fun! :)
 [2016/01/07 00:02:15] @ Quit: kneekoo: Client Quit
+[2016/01/07 00:52:32] @ tuxdude143 joined channel #supertux
+[2016/01/07 00:55:35] @ Quit: tux|dude: Ping timeout: 276 seconds
