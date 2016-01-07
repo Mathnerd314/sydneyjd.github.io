@@ -38577,3 +38577,22 @@
 [2016/01/07 16:13:02] @ Mr_Bones_ left channel #supertux ("Leaving")
 [2016/01/07 16:14:31] <pentagon> [10supertux] 07Karkus476 commented on issue 09#320: Inconsistent/crude death effects 13http://git.io/vu0f6
 [2016/01/07 16:14:56] <Tobbi> :D
+[2016/01/07 16:15:06] <Tobbi> Feeling OCD?
+[2016/01/07 16:15:18] <leyyin> someone said OCD
+[2016/01/07 16:15:19] <leyyin> alert!
+[2016/01/07 16:16:15] <pentagon> [10flexlay] 07Karkus476 commented on issue 09#70: Add support for brushes 13http://git.io/vur5W
+[2016/01/07 16:16:29] <Tobbi> leyyin: Are you serious?
+[2016/01/07 16:16:34] <Tobbi> You have an alert on OCD?
+[2016/01/07 16:16:46] <leyyin> hehe
+[2016/01/07 16:16:57] <Tobbi> leyyin: That's quite a symptom of OCD.
+[2016/01/07 16:17:04] <Karkus> alert!
+[2016/01/07 16:17:12] <leyyin> I do not have an alert for OCD
+[2016/01/07 16:17:19] <Tobbi> good
+[2016/01/07 16:17:19] <leyyin> oh for pete sake
+[2016/01/07 16:17:19] <Karkus> That's not how you have an alert.
+[2016/01/07 16:17:31] <Tobbi> To have an alert or not have an alert.
+[2016/01/07 16:17:35] <Tobbi> That is the question.
+[2016/01/07 16:18:17] @ stewboy joined channel #supertux
+[2016/01/07 16:21:22] @ Quit: claymore2: Ping timeout: 265 seconds
+[2016/01/07 16:22:20] <pentagon> [10supertux] 07misterhat commented on issue 09#320: Inconsistent/crude death effects 13http://git.io/vu0f6
+[2016/01/07 16:28:03] @ claymore2 joined channel #supertux
