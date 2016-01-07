@@ -38556,3 +38556,6 @@
 [2016/01/07 14:50:17] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/07 14:53:23] <pentagon> [10addons] 07LMH0013 commented on issue 09#10: Hume's rainbow cave: Octachoral test is broken 13http://git.io/vuPUm
 [2016/01/07 14:56:47] @ claymore2 joined channel #supertux
+[2016/01/07 15:02:43] @ Tobbi joined channel #supertux
+[2016/01/07 15:02:44] @ Mode +o Tobbi by ChanServ
+[2016/01/07 15:03:34] <pentagon> [10addons] 07LMH0013 commented on issue 09#8: Hume's rainbow cave: Overworld is covered by forest when playing again 13http://git.io/vuPL8
