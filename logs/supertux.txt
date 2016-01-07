@@ -38272,3 +38272,8 @@
 [2016/01/07 07:58:29] @ lumidify joined channel #supertux
 [2016/01/07 08:11:41] @ Tobbi joined channel #supertux
 [2016/01/07 08:11:41] @ Mode +o Tobbi by ChanServ
+[2016/01/07 08:17:25] @ Quit: gynter: Read error: Connection reset by peer
+[2016/01/07 08:17:31] @ gynter joined channel #supertux
+[2016/01/07 08:25:56] @ Jesusaves joined channel #supertux
+[2016/01/07 08:29:10] @ Quit: jesusalva: Ping timeout: 256 seconds
+[2016/01/07 08:29:58] <head8debian> Tobbi: Did you accept maths22's coverity request?
