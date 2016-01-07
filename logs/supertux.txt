@@ -38265,3 +38265,8 @@
 [2016/01/07 07:26:35] @ Quit: alket: Ping timeout: 240 seconds
 [2016/01/07 07:34:04] @ jesusalva joined channel #supertux
 [2016/01/07 07:34:49] <pentagon> [10supertux] 07MCMic commented on issue 09#165: Animations loop if you pause and then unpause game 13http://git.io/vcso0
+[2016/01/07 07:49:39] @ Jesusaves joined channel #supertux
+[2016/01/07 07:51:24] @ Quit: jesusalva: Disconnected by services
+[2016/01/07 07:51:38] @ Jesusaves is now known as jesusalva
+[2016/01/07 07:58:04] @ Quit: lumidify: Ping timeout: 245 seconds
+[2016/01/07 07:58:29] @ lumidify joined channel #supertux
