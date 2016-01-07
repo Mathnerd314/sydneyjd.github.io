@@ -38456,3 +38456,28 @@
 [2016/01/07 13:18:54] <Hume2> Yes, but I think it depends on the algorithm we'll use.
 [2016/01/07 13:28:27] <polyphagia> is there an issue for XDG dirs?
 [2016/01/07 13:29:49] <mt> https://github.com/SuperTux/supertux/pull/294 ?
+[2016/01/07 13:31:19] <polyphagia> hm this isn't XDG though
+[2016/01/07 13:31:21] <polyphagia> it's just a dotfile in ~
+[2016/01/07 13:31:32] <polyphagia> XDG would be ~/.config/ and ~/.local/
+[2016/01/07 13:31:45] <polyphagia> ~/.local/share/supertux would be for addons, ~/.config/supertux/ for config
+[2016/01/07 13:31:51] <polyphagia> but XDG has environmental variables
+[2016/01/07 13:31:59] <polyphagia> http://standards.freedesktop.org/basedir-spec/basedir-spec-0.6.html
+[2016/01/07 13:34:18] <mt> I know
+[2016/01/07 13:34:23] <mt> I also proposed that
+[2016/01/07 13:34:35] <polyphagia> oh
+[2016/01/07 13:34:42] <mt> But that's apparently not possible as apparently physfs can only handle one directory
+[2016/01/07 13:34:53] <polyphagia> does supertuxkart not use it?
+[2016/01/07 13:34:55] <polyphagia> hm
+[2016/01/07 13:34:56] <mt> We'd have to re-implement that with boost's FS libs oslt
+[2016/01/07 13:35:04] <polyphagia> well
+[2016/01/07 13:35:13] <polyphagia> how is it working now?
+[2016/01/07 13:35:22] <polyphagia> it has to load from /usr/share as well as ~/.supertux2
+[2016/01/07 13:35:53] <polyphagia> physfs also doesn't need to touch config
+[2016/01/07 13:36:00] <polyphagia> just ~/.local/share/supertux
+[2016/01/07 13:37:29] <mt> I think right now we we're using ~/.supertux2 as sole config/addon dir
+[2016/01/07 13:37:59] <mt> polyphagia: we also need a dir layout for config because profile?
+[2016/01/07 13:38:18] <mt> where '?' is a wildcard
+[2016/01/07 13:38:21] <polyphagia> oh yeah
+[2016/01/07 13:42:36] <Hume2> The real water physics would also reveal the real hitboxes.
+[2016/01/07 13:43:10] <Tobbi> hitboxes can be debugged from the console.
+[2016/01/07 13:43:17] <Tobbi> debug_collrects(true)
