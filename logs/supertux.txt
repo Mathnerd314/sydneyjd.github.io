@@ -38671,3 +38671,12 @@
 [2016/01/07 18:23:58] <Tobbi> After 2 days of being in the queue, or so.
 [2016/01/07 18:25:05] <jesusalva> Finally done, and you get a negative? How unlucky.
 [2016/01/07 18:26:06] <jesusalva> Make sure coverity isn't the Brazilian Ecologic Control (or whatever takes care of nature). They take 6 months to deny your request because you forgot to declare a root on the plant you want to cut down.
+[2016/01/07 18:36:25] <Tobbi> :D
+[2016/01/07 18:36:26] <Tobbi> Great.
+[2016/01/07 18:36:37] <Tobbi> jesusalva: https://www.youtube.com/watch?v=UBX2QQHlQ_I
+[2016/01/07 18:36:42] <Tobbi> This is amazing.
+[2016/01/07 18:36:46] <Tobbi> I totally love Matt Parker.
+[2016/01/07 18:37:59] * jesusalva is using a internet with a smartphone's speed util he finds a new internet plan (which doesn't limit the maximum of it you can use)
+[2016/01/07 18:38:07] <jesusalva> So sorry Tobbi, won't be able to see.
+[2016/01/07 18:38:14] <Tobbi> alright.
+[2016/01/07 18:39:39] @ sebras left channel #supertux ()
