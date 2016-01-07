@@ -38230,3 +38230,5 @@
 [2016/01/07 01:04:31] <pentagon> [10flexlay] 07Hume2 commented on issue 09#69: Fix Tile Selector Layout 13http://git.io/vuV3N
 [2016/01/07 01:10:55] @ Quit: Mathnerd314: Ping timeout: 240 seconds
 [2016/01/07 01:10:57] @ lumidify joined channel #supertux
+[2016/01/07 01:31:06] @ Quit: ced117: Quit: Quitte
+[2016/01/07 01:44:01] @ stewboy joined channel #supertux
