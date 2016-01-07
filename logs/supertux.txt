@@ -38291,3 +38291,32 @@
 [2016/01/07 08:31:58] <Tobbi> Silly me, indeed.
 [2016/01/07 08:34:53] <mt> https://github.com/freenode/gms/issues/100 > best localization for de_AT :D
 [2016/01/07 08:44:02] @ lumidify1 joined channel #supertux
+[2016/01/07 08:45:06] @ Quit: lumidify: Ping timeout: 265 seconds
+[2016/01/07 08:47:07] @ lumidify1 is now known as lumidify
+[2016/01/07 08:51:24] <polyphagia> Badguys:
+[2016/01/07 08:51:26] <polyphagia> -Lava tier or lava fish
+[2016/01/07 08:51:34] <polyphagia> yeah the game is missing jumping fish imo
+[2016/01/07 08:51:53] <polyphagia> like the ones from the original smb that would leap out of the water at a curve
+[2016/01/07 08:52:03] <polyphagia> the ones in supertux just go up and down
+[2016/01/07 08:52:22] <polyphagia> http://www.nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrosMap2-3.png
+[2016/01/07 08:52:52] <Tobbi> mt: lol
+[2016/01/07 08:54:33] <mt> polyphagia: I'd rather like to see Tux swimming
+[2016/01/07 08:54:51] <mt> and fishes - on land or in the air? I don't know
+[2016/01/07 08:55:13] <polyphagia> the two aren't mutually exclusive mt :P was just expanding on an idea somebody else posted there
+[2016/01/07 08:56:08] <polyphagia> but yeah a cheep-cheep-like enemy for underwater levels for sure
+[2016/01/07 08:56:13] <snadge> the things i hate about supertux when i first started playing it... turn out to be some of its redeeming features
+[2016/01/07 08:56:30] <polyphagia> personally though i never really liked the water levels so i hope supertux can make them more fun :P
+[2016/01/07 08:57:13] <jesusalva> polyphagia: An airplane which drops snowballs.
+[2016/01/07 08:57:27] <jesusalva> :/
+[2016/01/07 08:57:33] <snadge> the excessive sliding.. the diving flying things.. what are they called?
+[2016/01/07 08:57:37] <polyphagia> there was a cloud in one level that dropped "hail" (mricecubes)
+[2016/01/07 08:57:45] <mt> jesusalva: we do have the owls which can carry objects
+[2016/01/07 08:57:47] <jesusalva> You're walking them a SnowBall comes from air to bother you.
+[2016/01/07 08:57:49] <snadge> the bullfrogs can be aggravating too
+[2016/01/07 08:58:06] <mt> speaking of owls, they do need a graphics update
+[2016/01/07 08:58:19] <snadge> also when you kill the yeti.. wtf is with that graphic
+[2016/01/07 08:58:29] <polyphagia> yeah owls too
+[2016/01/07 08:58:46] <jesusalva> Maybe we already have lots of mobs. :/
+[2016/01/07 08:59:24] <snadge> i agree with cheep cheep like thing.. that could be cool.. underwater swimming.. yeah.. meh
+[2016/01/07 08:59:24] <jesusalva> snadge: I also hate the excessive sliding. I cannot do most of levels where you have to land on a 1x1 square.
+[2016/01/07 08:59:58] <snadge> i got used to it though.. i've finished nearly every level thats been contributed
