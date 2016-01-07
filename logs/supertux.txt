@@ -38559,3 +38559,5 @@
 [2016/01/07 15:02:43] @ Tobbi joined channel #supertux
 [2016/01/07 15:02:44] @ Mode +o Tobbi by ChanServ
 [2016/01/07 15:03:34] <pentagon> [10addons] 07LMH0013 commented on issue 09#8: Hume's rainbow cave: Overworld is covered by forest when playing again 13http://git.io/vuPL8
+[2016/01/07 15:20:04] @ jesusalva_ is now known as jesusalva
+[2016/01/07 15:23:03] @ Quit: xet7: Read error: Connection reset by peer
