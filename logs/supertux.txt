@@ -38333,3 +38333,5 @@
 [2016/01/07 09:06:05] <Tobbi> sure
 [2016/01/07 10:04:14] <head8debian> snadge: Well, the fireball is slightly overpowered, but i do think that we toned it down somewhat recently.
 [2016/01/07 10:11:10] @ oumph left channel #supertux ("Leaving")
+[2016/01/07 10:39:05] <pentagon> [10supertux] 07brmbrmcar commented on issue 09#165: Animations loop if you pause and then unpause game 13http://git.io/vcso0
+[2016/01/07 10:41:52] <pentagon> [10supertux] 07maxteufel commented on issue 09#165: Animations loop if you pause and then unpause game 13http://git.io/vcso0
