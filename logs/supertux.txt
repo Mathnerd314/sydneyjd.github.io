@@ -38666,3 +38666,8 @@
 [2016/01/07 18:04:19] <maths22> New x86 build coming up soon
 [2016/01/07 18:04:25] <maths22> Then I'll get this building on ARM
 [2016/01/07 18:09:30] @ Quit: claymore2: Quit: Leaving
+[2016/01/07 18:23:41] <Tobbi> hah!
+[2016/01/07 18:23:47] <Tobbi> Great, the coverity scan failed.
+[2016/01/07 18:23:58] <Tobbi> After 2 days of being in the queue, or so.
+[2016/01/07 18:25:05] <jesusalva> Finally done, and you get a negative? How unlucky.
+[2016/01/07 18:26:06] <jesusalva> Make sure coverity isn't the Brazilian Ecologic Control (or whatever takes care of nature). They take 6 months to deny your request because you forgot to declare a root on the plant you want to cut down.
