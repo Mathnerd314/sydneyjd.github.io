@@ -38331,3 +38331,5 @@
 [2016/01/07 09:05:22] <Tobbi> Just meant to discuss this.
 [2016/01/07 09:05:58] <jesusalva> Yes. Right now we might as well be writting what we'll say on the meeting,
 [2016/01/07 09:06:05] <Tobbi> sure
+[2016/01/07 10:04:14] <head8debian> snadge: Well, the fireball is slightly overpowered, but i do think that we toned it down somewhat recently.
+[2016/01/07 10:11:10] @ oumph left channel #supertux ("Leaving")
