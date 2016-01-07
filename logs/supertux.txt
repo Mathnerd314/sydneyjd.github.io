@@ -38374,3 +38374,11 @@
 [2016/01/07 11:27:46] <mt> did you add htdocs and addons as well
 [2016/01/07 11:28:13] <Tobbi> I am on it.
 [2016/01/07 11:28:17] <Tobbi> gimme a break, damn it.
+[2016/01/07 11:30:40] <Tobbi> Okay, should be done.
+[2016/01/07 11:31:00] <mt> yeah, seems to be there
+[2016/01/07 11:33:56] <maths22> mt: That descritption was pulled from cmakelists.txt
+[2016/01/07 11:34:19] <maths22> My primary concern right now is getting the program running
+[2016/01/07 11:34:39] <mt> indeed
+[2016/01/07 11:34:53] <mt> someone apparently forgot to update that
+[2016/01/07 11:37:18] @ alket joined channel #supertux
+[2016/01/07 11:42:32] <pentagon> [10supertux] 07brmbrmcar commented on issue 09#165: Animations loop if you pause and then unpause game 13http://git.io/vcso0
