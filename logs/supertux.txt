@@ -38320,3 +38320,14 @@
 [2016/01/07 08:59:24] <snadge> i agree with cheep cheep like thing.. that could be cool.. underwater swimming.. yeah.. meh
 [2016/01/07 08:59:24] <jesusalva> snadge: I also hate the excessive sliding. I cannot do most of levels where you have to land on a 1x1 square.
 [2016/01/07 08:59:58] <snadge> i got used to it though.. i've finished nearly every level thats been contributed
+[2016/01/07 09:00:09] <snadge> some of those levels are really quite difficult
+[2016/01/07 09:01:16] <jesusalva> snadge: I think the yeti graphic might be suit for children.
+[2016/01/07 09:02:15] <snadge> i also dont really get the purpose of the ice flower
+[2016/01/07 09:02:40] <snadge> its way less useful than the fire flower
+[2016/01/07 09:03:25] <Tobbi> Uhm, we have a meeting the day after tomorrow...
+[2016/01/07 09:03:30] <Tobbi> Maybe this can be discussed then.
+[2016/01/07 09:04:42] <jesusalva> Oh right. Nearly forgot. But umm, isn't an IRC channel meant for this anyway?
+[2016/01/07 09:05:14] <Tobbi> okay, maybe.
+[2016/01/07 09:05:22] <Tobbi> Just meant to discuss this.
+[2016/01/07 09:05:58] <jesusalva> Yes. Right now we might as well be writting what we'll say on the meeting,
+[2016/01/07 09:06:05] <Tobbi> sure
