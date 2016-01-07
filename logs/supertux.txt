@@ -38208,3 +38208,5 @@
 [2016/01/06 18:58:24] @ Tobbi joined channel #supertux
 [2016/01/06 18:58:24] @ Mode +o Tobbi by ChanServ
 [2016/01/06 18:59:44] <Tobbi> maths22: Suits you ;)
+[2016/01/06 19:17:16] @ Jesusaves joined channel #supertux
+[2016/01/06 19:18:18] @ Jesusaves is now known as jesusalva
