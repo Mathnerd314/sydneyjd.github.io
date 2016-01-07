@@ -38553,3 +38553,6 @@
 [2016/01/07 14:38:41] @ tomreyn_ is now known as tomreyn
 [2016/01/07 14:41:50] <pentagon> [10supertux] 07LMH0013 commented on issue 09#319: Magic blocks do not respond to some light elements 13http://git.io/vuRB6
 [2016/01/07 14:42:37] <pentagon> [10supertux] 07LMH0013 commented on issue 09#314: Option to enter ghost mode from cheat menu 13http://git.io/vEp6I
+[2016/01/07 14:50:17] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/07 14:53:23] <pentagon> [10addons] 07LMH0013 commented on issue 09#10: Hume's rainbow cave: Octachoral test is broken 13http://git.io/vuPUm
+[2016/01/07 14:56:47] @ claymore2 joined channel #supertux
