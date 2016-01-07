@@ -38227,3 +38227,6 @@
 [2016/01/07 00:02:15] @ Quit: kneekoo: Client Quit
 [2016/01/07 00:52:32] @ tuxdude143 joined channel #supertux
 [2016/01/07 00:55:35] @ Quit: tux|dude: Ping timeout: 276 seconds
+[2016/01/07 01:04:31] <pentagon> [10flexlay] 07Hume2 commented on issue 09#69: Fix Tile Selector Layout 13http://git.io/vuV3N
+[2016/01/07 01:10:55] @ Quit: Mathnerd314: Ping timeout: 240 seconds
+[2016/01/07 01:10:57] @ lumidify joined channel #supertux
