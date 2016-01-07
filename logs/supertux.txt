@@ -38407,3 +38407,36 @@
 [2016/01/07 12:49:15] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/07 12:50:10] @ Karkus joined channel #supertux
 [2016/01/07 12:50:10] @ Mode +o Karkus by ChanServ
+[2016/01/07 13:00:38] @ lumidify joined channel #supertux
+[2016/01/07 13:02:04] @ Tobbi joined channel #supertux
+[2016/01/07 13:02:04] @ Mode +o Tobbi by ChanServ
+[2016/01/07 13:02:20] <Tobbi> Hume is talking about himself in the third person?
+[2016/01/07 13:03:50] <pentagon> [10supertux] 07maxteufel commented on issue 09#165: Animations loop if you pause and then unpause game 13http://git.io/vcso0
+[2016/01/07 13:04:29] @ jesusalva is now known as jesusalva_
+[2016/01/07 13:04:50] <Hume2> No, I'm just exxplaining why I'm Hume2 and not Hume-
+[2016/01/07 13:04:53] <mt> Hume2: you might be able to /nick Hume and then ask #freenode (a staffer in there) to drop that nick, seems to be expired
+[2016/01/07 13:05:09] <mt> actually not
+[2016/01/07 13:05:21] <mt> wait 4 weeks
+[2016/01/07 13:05:23] <mt> then it will be
+[2016/01/07 13:05:29] <Hume2> I'm Hume2 on GitHub as well.
+[2016/01/07 13:06:46] <Hume2> mt: I'm now thinking about water physics implementation.
+[2016/01/07 13:07:46] <mt> make all physics real :D
+[2016/01/07 13:08:07] <mt> btw what's the mass of 1 tile snow
+[2016/01/07 13:08:27] <mt> and 1 tile earth?
+[2016/01/07 13:08:35] <Hume2> Well, it's width is 40cm .
+[2016/01/07 13:09:01] <mt> let's assume a=b=c
+[2016/01/07 13:09:01] <Hume2> It depends on the snow density...
+[2016/01/07 13:09:09] <Hume2> Yes.
+[2016/01/07 13:09:41] <mt> http://sciencelearn.org.nz/Contexts/Icy-Ecosystems/Looking-closer/Snow-and-ice-density
+[2016/01/07 13:10:46] <Hume2> It's settled snow I guess.
+[2016/01/07 13:11:01] <Tobbi> haha
+[2016/01/07 13:11:03] <Tobbi> pun.
+[2016/01/07 13:11:44] <Hume2> So mass of 1tile of settled snow is 16kg.
+[2016/01/07 13:12:34] <Hume2> The Earth's average density is about 5600kg/m³.
+[2016/01/07 13:12:43] <mt> 3.84 kg on the top
+[2016/01/07 13:12:48] <Hume2> OK
+[2016/01/07 13:13:42] <Tobbi> Guys...
+[2016/01/07 13:13:50] <Tobbi> ... w h y ?
+[2016/01/07 13:14:03] <Hume2> So when the denstity of earth is 3840kg/m³, one tile's mass is 246kg.
+[2016/01/07 13:14:18] <mt> 32.96 kg for 1 tile of tunnel snow
+[2016/01/07 13:14:46] <Hume2> What density did you counted with?
