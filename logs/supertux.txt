@@ -38260,3 +38260,6 @@
 [2016/01/07 07:09:59] @ Quit: xet7: Ping timeout: 276 seconds
 [2016/01/07 07:13:04] @ Quit: lumidify: Ping timeout: 245 seconds
 [2016/01/07 07:14:49] @ lumidify joined channel #supertux
+[2016/01/07 07:18:37] @ datahead8888 joined channel #supertux
+[2016/01/07 07:24:55] @ xet7 joined channel #supertux
+[2016/01/07 07:26:35] @ Quit: alket: Ping timeout: 240 seconds
