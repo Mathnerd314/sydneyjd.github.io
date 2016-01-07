@@ -38202,3 +38202,9 @@
 [2016/01/06 18:06:24] @ Mode +v maths22 by verne.freenode.net
 [2016/01/06 18:07:10] <maths22> Done!
 [2016/01/06 18:37:35] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/06 18:45:23] @ Mathnerd314 joined channel #supertux
+[2016/01/06 18:50:49] @ Quit: alket: Quit: Good Night :)
+[2016/01/06 18:57:50] @ Quit: Jesusaves: Ping timeout: 260 seconds
+[2016/01/06 18:58:24] @ Tobbi joined channel #supertux
+[2016/01/06 18:58:24] @ Mode +o Tobbi by ChanServ
+[2016/01/06 18:59:44] <Tobbi> maths22: Suits you ;)
