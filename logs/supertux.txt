@@ -38440,3 +38440,19 @@
 [2016/01/07 13:14:03] <Hume2> So when the denstity of earth is 3840kg/m³, one tile's mass is 246kg.
 [2016/01/07 13:14:18] <mt> 32.96 kg for 1 tile of tunnel snow
 [2016/01/07 13:14:46] <Hume2> What density did you counted with?
+[2016/01/07 13:15:15] <mt> Firn, (400+830)/2 = 515 kg/m^3
+[2016/01/07 13:15:31] <mt> s/^3/³/
+[2016/01/07 13:15:31] <red_bot> mt: You did something wrong... Try s/you/me/ or tell me "help sed"
+[2016/01/07 13:15:42] <Hume2> I've just calculated it myself :P
+[2016/01/07 13:16:06] <Hume2> Firn is the sharp snow, isn't it?
+[2016/01/07 13:16:12] <mt> "Granular and partially compacted snow that has passed through one summer’s melting season but has not yet turned to glacial ice."
+[2016/01/07 13:16:19] <mt> according to that site I linked to
+[2016/01/07 13:16:42] <Hume2> Yes, it's that sharp snow.
+[2016/01/07 13:16:56] <Hume2> It's dangerous to slip on it.
+[2016/01/07 13:17:32] <mt> oh we don't have to forget that m(photon) = 0 # always
+[2016/01/07 13:17:55] <mt> so, but to talk about swimming
+[2016/01/07 13:18:23] <mt> it would be interesting to be able to define the viscosity of the liquids
+[2016/01/07 13:18:42] <mt> possibly also the volatility
+[2016/01/07 13:18:54] <Hume2> Yes, but I think it depends on the algorithm we'll use.
+[2016/01/07 13:28:27] <polyphagia> is there an issue for XDG dirs?
+[2016/01/07 13:29:49] <mt> https://github.com/SuperTux/supertux/pull/294 ?
