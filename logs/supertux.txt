@@ -38655,3 +38655,10 @@
 [2016/01/07 17:30:12] <Tobbi> polyphagia: I guess that can be considered a good thing, since that means my written English is slightly more advanced than that of the average German.
 [2016/01/07 17:30:14] <Tobbi> :)
 [2016/01/07 17:33:00] @ jesusalva is now known as jesusalva_
+[2016/01/07 17:52:53] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/01/07 17:53:05] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/07 17:54:01] @ jesusalva_ is now known as jesusalva
+[2016/01/07 17:58:01] @ Tobbi joined channel #supertux
+[2016/01/07 17:58:01] @ Mode +o Tobbi by ChanServ
+[2016/01/07 17:58:46] @ xet7 joined channel #supertux
+[2016/01/07 17:59:00] @ Quit: Sickmind33: Ping timeout: 265 seconds
