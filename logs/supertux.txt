@@ -38257,3 +38257,6 @@
 [2016/01/07 06:09:21] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- Nine out of ten l33t h4x0rz prefer it
 [2016/01/07 06:10:45] @ Quit: tux|dude: Quit: Leaving
 [2016/01/07 06:21:33] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/07 07:09:59] @ Quit: xet7: Ping timeout: 276 seconds
+[2016/01/07 07:13:04] @ Quit: lumidify: Ping timeout: 245 seconds
+[2016/01/07 07:14:49] @ lumidify joined channel #supertux
