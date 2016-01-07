@@ -38382,3 +38382,6 @@
 [2016/01/07 11:34:53] <mt> someone apparently forgot to update that
 [2016/01/07 11:37:18] @ alket joined channel #supertux
 [2016/01/07 11:42:32] <pentagon> [10supertux] 07brmbrmcar commented on issue 09#165: Animations loop if you pause and then unpause game 13http://git.io/vcso0
+[2016/01/07 11:45:13] <Tobbi> mt: Did you ever listen to the Pegida anthem? It's quite a shame that Amazon removed it. It's so hilariously bad that one can consider it good again.
+[2016/01/07 11:48:23] <Tobbi> Might work well for things like, I don't know, Karnevalsfeste.
+[2016/01/07 11:48:33] <Tobbi> Pegida anthem + Büttenrede
