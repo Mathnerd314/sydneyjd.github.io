@@ -38864,3 +38864,13 @@
 [2016/01/08 14:58:14] <maths22> I'll push through a new version and let you  know when it works
 [2016/01/08 14:59:14] <maths22> Wow-I borked all 3 architectures
 [2016/01/08 14:59:36] <maths22> So much for the app validation process checking that it runs!
+[2016/01/08 15:00:53] <mt> is Microsoft serious?
+[2016/01/08 15:01:02] <mt> 51.8 MB for a 'Get Office' app
+[2016/01/08 15:11:13] <maths22> Submitted with data files
+[2016/01/08 15:12:42] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13http://git.io/vu9kZ
+[2016/01/08 15:12:44] <pentagon> [10supertux] 07Hume2 14ea1879e Fixed: Goldbomb doesn't collide with bullets when ticking.
+[2016/01/08 15:12:51] <mt> when will it be available in updates?
+[2016/01/08 15:13:52] <Hume2> Don't you know a terroristic organization that is willing to destroy Microsoft?
+[2016/01/08 15:14:08] <maths22> mt: It usually takes a few hours for approval (if nothing goes wrong) + up to 16 hours until it goes live in the store
+[2016/01/08 15:14:48] <mt> well then
+[2016/01/08 15:14:56] <mt> Hume2: wat
