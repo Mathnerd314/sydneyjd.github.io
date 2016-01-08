@@ -38900,3 +38900,10 @@
 [2016/01/08 17:18:54] @ Quit: claymore2: Ping timeout: 256 seconds
 [2016/01/08 17:27:45] @ bb010g joined channel #supertux
 [2016/01/08 17:29:52] @ ced117 joined channel #supertux
+[2016/01/08 17:46:34] <Tobbi> maths22: I am *still* unable to install that SuperTux binary because "Upgrade to the latest version of Windows to use this app" or something.
+[2016/01/08 17:46:51] <Tobbi> Oh, wait, maybe I need to upgrade Guest additions.
+[2016/01/08 17:49:17] <Tobbi> No, that's not it.
+[2016/01/08 17:49:19] <Tobbi> I have no idea.
+[2016/01/08 17:50:56] @ Quit: polyphagia: Ping timeout: 272 seconds
+[2016/01/08 17:51:00] <Tobbi> It also says "This app needs hardware not available on this PC"
+[2016/01/08 17:51:58] <Tobbi> maths22: Is that a problem with the app or with my Windows VM
