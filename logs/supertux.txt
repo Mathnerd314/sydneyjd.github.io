@@ -38758,3 +38758,8 @@
 [2016/01/08 11:40:07] <Tobbi> head8debian: Okay, then tell them to do that.
 [2016/01/08 11:40:09] @ tuxdev_ joined channel #supertux
 [2016/01/08 11:40:09] <Tobbi> okay.
+[2016/01/08 11:45:22] <maths22> Do you need the store link again?
+[2016/01/08 11:48:20] <Tobbi> maths22: Oh, sorry, one moment.
+[2016/01/08 11:48:36] <Tobbi> I was preoccupied.
+[2016/01/08 11:49:48] <maths22> It's fine
+[2016/01/08 11:50:01] <maths22> I was just restarting my computer because my wifi hates me
