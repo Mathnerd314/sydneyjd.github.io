@@ -38801,3 +38801,10 @@
 [2016/01/08 12:42:43] <polyphagia> although it doesn't really look like it does in his screenshot
 [2016/01/08 12:42:47] <polyphagia> i might've changed it a bit :P
 [2016/01/08 12:44:11] <mt> seems to be based on monokai?
+[2016/01/08 12:45:04] <polyphagia> might be
+[2016/01/08 12:45:25] <polyphagia> it renders every curses app better than the defaults though that's for sure
+[2016/01/08 12:45:34] <polyphagia> all of the colours contrast very nicely together :D
+[2016/01/08 12:46:04] <polyphagia> cmus, weechat, vim all look fine without any changes
+[2016/01/08 12:46:22] <polyphagia> anyway sorry for getting off topic :P
+[2016/01/08 12:47:56] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/08 12:48:44] <mt> off topic is ok if it doesn't interrupt any other discussion
