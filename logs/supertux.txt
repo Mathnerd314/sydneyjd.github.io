@@ -38770,3 +38770,17 @@
 [2016/01/08 12:14:02] <mt> right
 [2016/01/08 12:14:08] <mt> I also prefer dark colorschemes
 [2016/01/08 12:14:25] <mt> But the matrix.org/vector.im developers seem not to
+[2016/01/08 12:15:23] <maths22> mt: What program is that?
+[2016/01/08 12:15:30] <maths22> (The irc client)
+[2016/01/08 12:16:32] <mt> it's not an irc client actually, it's a matrix.org client, vector.im (also that URL), which is connected via a matrix <-> IRC bridge (M-mteufel)
+[2016/01/08 12:18:56] <Tobbi> My VM needs to be updated as well.
+[2016/01/08 12:19:26] <Tobbi> damn.
+[2016/01/08 12:22:14] <maths22> mt: Thanks
+[2016/01/08 12:22:20] <maths22> Tobbi: I'm not surprised :(
+[2016/01/08 12:25:42] @ M-maths22 joined channel #supertux
+[2016/01/08 12:26:06] <M-maths22> mt: hello from vector
+[2016/01/08 12:26:19] <M-mteufel> hi!
+[2016/01/08 12:26:27] <polyphagia> yeah i think pentagon looks beautiful with my colours :P
+[2016/01/08 12:27:04] <polyphagia> http://i.imgur.com/21x87Mr.png
+[2016/01/08 12:27:29] <mt> oh you're using weechat?
+[2016/01/08 12:29:31] <mt> maths22: what's badly implemented in that IRC bridge is that it doesn't use NAMES to pre-fetch all the users in a channel; what's bad about matrix is that apparently no one had the idea that people might want to change their email (you can add new ones, but don't delete old ones) >_>
