@@ -38907,3 +38907,4 @@
 [2016/01/08 17:50:56] @ Quit: polyphagia: Ping timeout: 272 seconds
 [2016/01/08 17:51:00] <Tobbi> It also says "This app needs hardware not available on this PC"
 [2016/01/08 17:51:58] <Tobbi> maths22: Is that a problem with the app or with my Windows VM
+[2016/01/08 18:04:04] <pentagon> [10supertux] 07Karkus476 commented on issue 09#307: Crash while holding Mr. IceBlock in edit mode 13http://git.io/vE9Dh
