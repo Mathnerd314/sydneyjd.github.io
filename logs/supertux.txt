@@ -38697,3 +38697,4 @@
 [2016/01/07 23:04:31] @ Jesusaves joined channel #supertux
 [2016/01/07 23:07:15] @ Quit: jesusalva: Ping timeout: 240 seconds
 [2016/01/07 23:07:39] @ Quit: Jesusaves: Client Quit
+[2016/01/07 23:21:02] @ Quit: irungentoo: Remote host closed the connection
