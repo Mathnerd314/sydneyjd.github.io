@@ -38808,3 +38808,10 @@
 [2016/01/08 12:46:22] <polyphagia> anyway sorry for getting off topic :P
 [2016/01/08 12:47:56] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/08 12:48:44] <mt> off topic is ok if it doesn't interrupt any other discussion
+[2016/01/08 13:02:12] @ maths22_ joined channel #supertux
+[2016/01/08 13:02:12] @ Quit: maths22_: Changing host
+[2016/01/08 13:02:12] @ maths22_ joined channel #supertux
+[2016/01/08 13:02:13] @ Mode +v maths22_ by ChanServ
+[2016/01/08 13:04:36] @ Quit: maths22: Read error: Connection reset by peer
+[2016/01/08 13:06:23] @ maths22_ is now known as maths22
+[2016/01/08 13:06:36] <maths22> That was strange
