@@ -38706,3 +38706,5 @@
 [2016/01/07 23:40:59] @ Topic set by mt!~mteufel@unaffiliated/supermat on 2015-12-25 13:52:03 -0500
 [2016/01/07 23:41:03] @ Mode +Cnptj 5:10 by leguin.freenode.net
 [2016/01/07 23:41:12] @ Mode +o red_bot by ChanServ
+[2016/01/08 00:09:13] @ head8debian joined channel #supertux
+[2016/01/08 00:09:13] @ Mode +o head8debian by ChanServ
