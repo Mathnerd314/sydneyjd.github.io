@@ -38708,3 +38708,4 @@
 [2016/01/07 23:41:12] @ Mode +o red_bot by ChanServ
 [2016/01/08 00:09:13] @ head8debian joined channel #supertux
 [2016/01/08 00:09:13] @ Mode +o head8debian by ChanServ
+[2016/01/08 01:08:12] @ Quit: tomreyn: Ping timeout: 256 seconds
