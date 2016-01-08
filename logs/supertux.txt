@@ -38763,3 +38763,10 @@
 [2016/01/08 11:48:36] <Tobbi> I was preoccupied.
 [2016/01/08 11:49:48] <maths22> It's fine
 [2016/01/08 11:50:01] <maths22> I was just restarting my computer because my wifi hates me
+[2016/01/08 12:03:00] <pentagon> [10supertux] 07Karkus476 commented on issue 09#321: Crushing a burning badguy resets the sprite 13http://git.io/vu0qg
+[2016/01/08 12:08:38] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/01/08 12:11:52] <mt> pentägon's colorscheme looks pretty ugly on a white background :/ https://urandom.eu.org/i/uMBZSSON.png
+[2016/01/08 12:13:47] <jesusalva_> Yeah, but's very beatiful on black.
+[2016/01/08 12:14:02] <mt> right
+[2016/01/08 12:14:08] <mt> I also prefer dark colorschemes
+[2016/01/08 12:14:25] <mt> But the matrix.org/vector.im developers seem not to
