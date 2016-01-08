@@ -38741,3 +38741,6 @@
 [2016/01/08 10:50:15] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/08 11:00:08] @ jesusalva is now known as jesusalva_
 [2016/01/08 11:01:35] @ Quit: alket: Quit: x
+[2016/01/08 11:21:26] @ Tobbi joined channel #supertux
+[2016/01/08 11:21:26] @ Mode +o Tobbi by ChanServ
+[2016/01/08 11:21:56] @ lumidify joined channel #supertux
