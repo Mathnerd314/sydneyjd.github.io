@@ -38815,3 +38815,4 @@
 [2016/01/08 13:04:36] @ Quit: maths22: Read error: Connection reset by peer
 [2016/01/08 13:06:23] @ maths22_ is now known as maths22
 [2016/01/08 13:06:36] <maths22> That was strange
+[2016/01/08 13:28:16] @ Quit: tuxdev_: Ping timeout: 256 seconds
