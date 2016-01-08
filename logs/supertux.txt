@@ -38894,3 +38894,4 @@
 [2016/01/08 16:02:12] @ Tobbi joined channel #supertux
 [2016/01/08 16:02:12] @ Mode +o Tobbi by ChanServ
 [2016/01/08 16:12:23] <maths22> mt: The new version seems to be live
+[2016/01/08 16:23:28] @ Quit: Hume2: Quit: Page closed
