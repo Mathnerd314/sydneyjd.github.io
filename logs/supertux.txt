@@ -38821,3 +38821,21 @@
 [2016/01/08 13:57:09] <pentagon> [10supertux] 07LMH0013 commented on issue 09#320: Inconsistent/crude death effects 13http://git.io/vu0f6
 [2016/01/08 13:57:22] @ binki joined channel #supertux
 [2016/01/08 14:14:50] @ claymore2 joined channel #supertux
+[2016/01/08 14:19:15] @ Quit: tux|dude: Quit: Leaving
+[2016/01/08 14:24:39] @ Hume2 joined channel #supertux
+[2016/01/08 14:24:39] @ Mode +v Hume2 by ChanServ
+[2016/01/08 14:27:41] <Hume2> Hello all
+[2016/01/08 14:27:50] @ Quit: lumidify: Ping timeout: 276 seconds
+[2016/01/08 14:28:06] <polyphagia> hi
+[2016/01/08 14:28:28] <Hume2> Why are there the M- clones?
+[2016/01/08 14:28:40] <mt> because.
+[2016/01/08 14:29:00] <mt> they're bridges to matrix.org, something IRC-like
+[2016/01/08 14:29:04] @ lumidify joined channel #supertux
+[2016/01/08 14:29:12] <Hume2> hmmm...
+[2016/01/08 14:29:31] <polyphagia> is matrix proprietary? :P
+[2016/01/08 14:29:34] <Hume2> Never heard about this.
+[2016/01/08 14:29:42] <polyphagia> oo looks interesting
+[2016/01/08 14:29:42] <mt> also you could use matrix.org (https://vector.im has a nicer client than the actual matrix.org one) to stay connected when your computer isn't on
+[2016/01/08 14:29:46] <polyphagia> no it's not if anybody was wondering
+[2016/01/08 14:29:48] <mt> polyphagia: it's opensource
+[2016/01/08 14:29:59] <mt> even the reference implementation, not just the standard
