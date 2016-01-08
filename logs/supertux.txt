@@ -38851,3 +38851,16 @@
 [2016/01/08 14:40:10] <mt> strange matrix.org
 [2016/01/08 14:40:25] <mt> it changed all your names to `$nick (IRC)`
 [2016/01/08 14:40:29] <mt> all but mine
+[2016/01/08 14:46:25] @ M-maths22 left channel #supertux ("User left")
+[2016/01/08 14:47:33] <maths22> Anyone here now with Windows 10?
+[2016/01/08 14:51:06] <mt> yes
+[2016/01/08 14:53:05] <maths22> mt: Would you be willing to try out the Windows store build?
+[2016/01/08 14:54:00] <mt> doesn't show up when I search for supertux
+[2016/01/08 14:54:56] <maths22> mt: It is currently intentionally hidden from the store (until it has been tested)
+[2016/01/08 14:55:02] <maths22> link here https://www.microsoft.com/en-us/store/games/supertux/9nblggh5k9mr
+[2016/01/08 14:57:06] <mt> downloading...
+[2016/01/08 14:57:28] <mt> of 3.1 MB? that's all?
+[2016/01/08 14:57:57] <maths22> mt: Oops-it is missing the data directory!
+[2016/01/08 14:58:14] <maths22> I'll push through a new version and let you  know when it works
+[2016/01/08 14:59:14] <maths22> Wow-I borked all 3 architectures
+[2016/01/08 14:59:36] <maths22> So much for the app validation process checking that it runs!
