@@ -38891,3 +38891,6 @@
 [2016/01/08 15:32:58] <pentagon> [10supertux] Status for commit Fixed: Goldbomb doesn't collide with bullets when ticking. by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/253
 [2016/01/08 15:37:58] @ Quit: lumidify: Quit: Leaving
 [2016/01/08 15:56:51] @ stewboy joined channel #supertux
+[2016/01/08 16:02:12] @ Tobbi joined channel #supertux
+[2016/01/08 16:02:12] @ Mode +o Tobbi by ChanServ
+[2016/01/08 16:12:23] <maths22> mt: The new version seems to be live
