@@ -38698,3 +38698,11 @@
 [2016/01/07 23:07:15] @ Quit: jesusalva: Ping timeout: 240 seconds
 [2016/01/07 23:07:39] @ Quit: Jesusaves: Client Quit
 [2016/01/07 23:21:02] @ Quit: irungentoo: Remote host closed the connection
+[2016/01/07 23:31:33] @ quit (seeya)
+[2016/01/07 23:31:33] @ Log closed by * (rescan or shutdown)
+[2016/01/07 23:40:59] @ Log started by red_bot
+[2016/01/07 23:40:59] @ Joined channel #supertux
+[2016/01/07 23:40:59] @ Topic is "IRC meeting Jan 9, 15:00 GMT | https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/01/07 23:40:59] @ Topic set by mt!~mteufel@unaffiliated/supermat on 2015-12-25 13:52:03 -0500
+[2016/01/07 23:41:03] @ Mode +Cnptj 5:10 by leguin.freenode.net
+[2016/01/07 23:41:12] @ Mode +o red_bot by ChanServ
