@@ -38816,3 +38816,7 @@
 [2016/01/08 13:06:23] @ maths22_ is now known as maths22
 [2016/01/08 13:06:36] <maths22> That was strange
 [2016/01/08 13:28:16] @ Quit: tuxdev_: Ping timeout: 256 seconds
+[2016/01/08 13:52:55] @ tux|dude joined channel #supertux
+[2016/01/08 13:55:35] @ Quit: binki: Ping timeout: 260 seconds
+[2016/01/08 13:57:09] <pentagon> [10supertux] 07LMH0013 commented on issue 09#320: Inconsistent/crude death effects 13http://git.io/vu0f6
+[2016/01/08 13:57:22] @ binki joined channel #supertux
