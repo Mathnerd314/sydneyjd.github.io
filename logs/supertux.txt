@@ -38685,3 +38685,7 @@
 [2016/01/07 19:12:03] <Tobbi> maths22: Not yet. I will probably do it tomorrow.
 [2016/01/07 19:12:13] <Tobbi> maths22: Shall I resubmit a coverity build?
 [2016/01/07 19:27:15] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/07 20:00:44] @ Sickmind33 joined channel #supertux
+[2016/01/07 20:03:40] <Sickmind33> well well well
+[2016/01/07 20:03:49] <maths22> Sickmind33: Hello
+[2016/01/07 20:04:17] <Sickmind33> how is everyone thsi fine evening?
