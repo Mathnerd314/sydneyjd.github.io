@@ -38717,3 +38717,4 @@
 [2016/01/08 03:06:48] <red_bot> alright, mt
 [2016/01/08 03:07:47] <mt> ~note Karkus also, the wiki's git history is even now containing lots of messages no one knows what they change etc. (that's gollum's fault, tho)
 [2016/01/08 03:07:47] <red_bot> okay, mt
+[2016/01/08 03:32:38] <pentagon> [10flexlay] 07maxteufel commented on issue 09#70: Add support for brushes 13http://git.io/vur5W
