@@ -38896,3 +38896,7 @@
 [2016/01/08 16:12:23] <maths22> mt: The new version seems to be live
 [2016/01/08 16:23:28] @ Quit: Hume2: Quit: Page closed
 [2016/01/08 16:51:52] @ Quit: jesusalva: Quit: Good bye, God bless you.
+[2016/01/08 17:15:29] @ claymore2_ joined channel #supertux
+[2016/01/08 17:18:54] @ Quit: claymore2: Ping timeout: 256 seconds
+[2016/01/08 17:27:45] @ bb010g joined channel #supertux
+[2016/01/08 17:29:52] @ ced117 joined channel #supertux
