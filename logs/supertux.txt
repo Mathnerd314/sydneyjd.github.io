@@ -38735,3 +38735,6 @@
 [2016/01/08 09:23:58] @ Tobbi joined channel #supertux
 [2016/01/08 09:23:59] @ Mode +o Tobbi by ChanServ
 [2016/01/08 10:07:54] @ irungentoo joined channel #supertux
+[2016/01/08 10:29:38] <maths22> Tobbi: Hello.  I uploaded a new version of the windows store release.  Unfourtinately, it seems to have 3 copies of everything (include the data zip) for x86, x64, and arm
+[2016/01/08 10:29:48] <maths22> Therefore, it is over 200 mb.  I'll fix that today
+[2016/01/08 10:29:58] <Tobbi> :D Okay, I will check the final one.
