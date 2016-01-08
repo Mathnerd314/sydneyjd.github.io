@@ -38744,3 +38744,17 @@
 [2016/01/08 11:21:26] @ Tobbi joined channel #supertux
 [2016/01/08 11:21:26] @ Mode +o Tobbi by ChanServ
 [2016/01/08 11:21:56] @ lumidify joined channel #supertux
+[2016/01/08 11:32:32] <head8debian> Tobbi: Softpedia wouldn't let me take over maintainance of their supertux page. o_O
+[2016/01/08 11:32:42] <Tobbi> head8debian: what're they saying?
+[2016/01/08 11:35:59] <head8debian> Tobbi: They denied my request to take over maintainance of the page, thats it.
+[2016/01/08 11:36:39] <Tobbi> head8debian: Did they update the page to 0.4.0 in the mean time?
+[2016/01/08 11:38:58] <maths22> Tobbi: It actually makes the download the right size-whenever you want use the current one
+[2016/01/08 11:39:13] <maths22> It does not appear to actually download all 200+ mb
+[2016/01/08 11:39:25] <Tobbi> I see...
+[2016/01/08 11:39:33] <Tobbi> So I guess I will fire up my Windows PC and try it out.
+[2016/01/08 11:39:39] <Tobbi> Or, wait, no, I'll try my VM.
+[2016/01/08 11:39:52] <head8debian> Tobbi: Nope.
+[2016/01/08 11:40:06] <head8debian> Im AFK for the day...
+[2016/01/08 11:40:07] <Tobbi> head8debian: Okay, then tell them to do that.
+[2016/01/08 11:40:09] @ tuxdev_ joined channel #supertux
+[2016/01/08 11:40:09] <Tobbi> okay.
