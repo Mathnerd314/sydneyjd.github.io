@@ -38909,3 +38909,5 @@
 [2016/01/08 17:51:58] <Tobbi> maths22: Is that a problem with the app or with my Windows VM
 [2016/01/08 18:04:04] <pentagon> [10supertux] 07Karkus476 commented on issue 09#307: Crash while holding Mr. IceBlock in edit mode 13http://git.io/vE9Dh
 [2016/01/08 18:17:34] @ polyphagia joined channel #supertux
+[2016/01/08 18:42:12] @ jesusalva joined channel #supertux
+[2016/01/08 18:43:34] @ Quit: claymore2_: Quit: Leaving
