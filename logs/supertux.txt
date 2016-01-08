@@ -38839,3 +38839,15 @@
 [2016/01/08 14:29:46] <polyphagia> no it's not if anybody was wondering
 [2016/01/08 14:29:48] <mt> polyphagia: it's opensource
 [2016/01/08 14:29:59] <mt> even the reference implementation, not just the standard
+[2016/01/08 14:30:47] <polyphagia> yeah
+[2016/01/08 14:30:55] <polyphagia> interesting
+[2016/01/08 14:30:59] <polyphagia> will look more into it soon
+[2016/01/08 14:34:19] <mt> one can also get rid of the M- prefix
+[2016/01/08 14:36:35] <mt> you'd send `!nick irc.freenode.net yournickhere` to `@appservice-irc:matrix.org`
+[2016/01/08 14:39:31] @ mt left channel #supertux ("brb testing")
+[2016/01/08 14:39:34] @ mt joined channel #supertux
+[2016/01/08 14:39:34] @ Mode +o mt by ChanServ
+[2016/01/08 14:39:50] <mt> I wonder, if this works now
+[2016/01/08 14:40:10] <mt> strange matrix.org
+[2016/01/08 14:40:25] <mt> it changed all your names to `$nick (IRC)`
+[2016/01/08 14:40:29] <mt> all but mine
