@@ -38874,3 +38874,16 @@
 [2016/01/08 15:14:08] <maths22> mt: It usually takes a few hours for approval (if nothing goes wrong) + up to 16 hours until it goes live in the store
 [2016/01/08 15:14:48] <mt> well then
 [2016/01/08 15:14:56] <mt> Hume2: wat
+[2016/01/08 15:15:28] <Hume2> I have a job for them :D
+[2016/01/08 15:16:14] <Hume2> Well, that wasn't on-topic.
+[2016/01/08 15:19:43] <maths22> mt: Now I realize why this morning's version got approved so quickly-it was much smaller than the previous ones
+[2016/01/08 15:22:39] <pentagon> [10supertux] 07Hume2 commented on issue 09#307: Crash while holding Mr. IceBlock in edit mode 13http://git.io/vE9Dh
+[2016/01/08 15:24:11] <mt> since release until now: 4840 downloads of the dmg, 19650 downloads of the win32 msi, and 5863 downloads of the source tarball
+[2016/01/08 15:24:21] <mt> data from https://api.github.com/repos/SuperTux/supertux/releases/tags/v0.4.0
+[2016/01/08 15:25:20] <Hume2> Anyway can we close this? https://github.com/SuperTux/supertux/issues/266
+[2016/01/08 15:25:24] <Hume2> It's dead.
+[2016/01/08 15:25:34] <mt> Yes, go ahead
+[2016/01/08 15:26:45] @ M-mteufel left channel #supertux ("User left")
+[2016/01/08 15:27:04] <pentagon> [10supertux] 07Hume2 commented on issue 09#266: Website 13http://git.io/v02g0
+[2016/01/08 15:27:07] <pentagon> [10supertux] 07Hume2 closed issue 09#266: Website 13http://git.io/v02g0
+[2016/01/08 15:28:43] <pentagon> [10supertux] Status for commit Fixed: Goldbomb doesn't collide with bullets when ticking. by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/101148363
