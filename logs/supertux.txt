@@ -38727,3 +38727,5 @@
 [2016/01/08 05:32:41] <M-mteufel> now if you could identify from this gateway, everything would be great
 [2016/01/08 05:34:17] <M-mteufel> actually, one can message nickserv
 [2016/01/08 05:34:40] <mt> if anyone's looking for that, it can also act as a free bouncer: https://matrix.org/blog/posts/
+[2016/01/08 06:15:05] @ Tobbi joined channel #supertux
+[2016/01/08 06:15:05] @ Mode +o Tobbi by ChanServ
