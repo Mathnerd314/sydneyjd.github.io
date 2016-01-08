@@ -38784,3 +38784,20 @@
 [2016/01/08 12:27:04] <polyphagia> http://i.imgur.com/21x87Mr.png
 [2016/01/08 12:27:29] <mt> oh you're using weechat?
 [2016/01/08 12:29:31] <mt> maths22: what's badly implemented in that IRC bridge is that it doesn't use NAMES to pre-fetch all the users in a channel; what's bad about matrix is that apparently no one had the idea that people might want to change their email (you can add new ones, but don't delete old ones) >_>
+[2016/01/08 12:30:17] @ gigi joined channel #supertux
+[2016/01/08 12:30:40] @ gigi is now known as Guest89154
+[2016/01/08 12:30:50] <Guest89154> havin a hard time installing supertux 0.4.0
+[2016/01/08 12:31:18] <mt> Guest89154: what's your problem exactly?
+[2016/01/08 12:31:27] <polyphagia> yeah i am mt
+[2016/01/08 12:33:15] <mt> polyphagia: well, this is what my weechat looks like: https://urandom.eu.org/i/j6YUT7oe.png (I like it, it's very customizable)
+[2016/01/08 12:34:31] <polyphagia> oh yeah that's a nice set-up as well :D
+[2016/01/08 12:34:38] <polyphagia> good colour scheme
+[2016/01/08 12:34:57] <polyphagia> i like to pick a good terminal colour scheme that works with everything rather than spend to much time on the individual curses apps
+[2016/01/08 12:35:12] @ Quit: Guest89154: Ping timeout: 252 seconds
+[2016/01/08 12:35:15] <polyphagia> my weechat is pretty much default :P
+[2016/01/08 12:35:23] <polyphagia> but i customized urxvt a bit
+[2016/01/08 12:40:02] <mt> what color scheme are you using?
+[2016/01/08 12:42:33] <polyphagia> http://dotshare.it/dots/136/
+[2016/01/08 12:42:43] <polyphagia> although it doesn't really look like it does in his screenshot
+[2016/01/08 12:42:47] <polyphagia> i might've changed it a bit :P
+[2016/01/08 12:44:11] <mt> seems to be based on monokai?
