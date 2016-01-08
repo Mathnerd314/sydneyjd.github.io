@@ -38712,3 +38712,8 @@
 [2016/01/08 01:15:02] @ tomreyn joined channel #supertux
 [2016/01/08 02:03:44] @ Quit: tuxdev_: Ping timeout: 256 seconds
 [2016/01/08 02:04:00] @ lumidify joined channel #supertux
+[2016/01/08 03:03:22] @ Quit: lumidify: Quit: Leaving
+[2016/01/08 03:06:48] <mt> ~note Karkus well, I'd rather not want the GitHub wiki to become a place like the lethargik wiki were everyone posts some ideas without elaborating that *might* be useful at some point
+[2016/01/08 03:06:48] <red_bot> alright, mt
+[2016/01/08 03:07:47] <mt> ~note Karkus also, the wiki's git history is even now containing lots of messages no one knows what they change etc. (that's gollum's fault, tho)
+[2016/01/08 03:07:47] <red_bot> okay, mt
