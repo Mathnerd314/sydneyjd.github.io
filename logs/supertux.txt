@@ -40525,3 +40525,103 @@
 [2016/01/09 11:59:50] <polyphagia> even if it did look a little better
 [2016/01/09 11:59:56] <Karkus> # ---- vote: should the shattering effect be coded? ----
 [2016/01/09 12:00:01] <polyphagia> yes
+[2016/01/09 12:00:04] <Karkus> yes
+[2016/01/09 12:00:04] <mt> what shattering effect?
+[2016/01/09 12:00:10] <Tobbi> mt: Badguy shattering
+[2016/01/09 12:00:13] <polyphagia> frozen ones
+[2016/01/09 12:00:17] <Hume2> Excuse me for about 30 mis please.
+[2016/01/09 12:00:17] <polyphagia> generally
+[2016/01/09 12:00:23] <mt> is that already implemented?
+[2016/01/09 12:00:41] <Tobbi> I think we could code a shattering effect, but it needs to be a better one...
+[2016/01/09 12:00:52] <polyphagia> that's fine :P nobody's suggesting we make an ugly one
+[2016/01/09 12:01:01] <Karkus> ^ lol
+[2016/01/09 12:01:07] <mt> better than what?
+[2016/01/09 12:01:08] <polyphagia> maybe watch some videos on liquid nitrogen
+[2016/01/09 12:01:10] <polyphagia> for some ideas
+[2016/01/09 12:01:12] <polyphagia> haha
+[2016/01/09 12:01:14] <grumbel> Karkus: the problem is discussing adding more stuff on top of stuff that isn't very good to begin with
+[2016/01/09 12:01:30] <polyphagia> grumbel: it's more just polishing the stuff we have i thought
+[2016/01/09 12:01:35] <Karkus> grumbel: For example?
+[2016/01/09 12:01:40] <grumbel> Karkus: we discuss swimming when we haven't even managed to make a good fire flower in a decade
+[2016/01/09 12:01:46] <Tobbi> mt: Better than having a shattering effect that looks like the box breaking effect, but iced.
+[2016/01/09 12:01:58] <mt> oh the breaking box
+[2016/01/09 12:02:03] <Tobbi> yes
+[2016/01/09 12:02:04] <Karkus> grumbel: Stop being pessimistic :P
+[2016/01/09 12:02:18] <grumbel> butt-jump is also completely useless
+[2016/01/09 12:02:22] <mt> what's a "good fireflower"?
+[2016/01/09 12:02:24] <polyphagia> we're specifically discussing how to improve a flower though grumbel
+[2016/01/09 12:02:29] <polyphagia> butt jump is FUN
+[2016/01/09 12:02:37] <polyphagia> and some level designs can make use of it
+[2016/01/09 12:02:45] <Karkus> grumbel: I think that at least some of what we've discussed so far should be possible.
+[2016/01/09 12:03:03] <polyphagia> i don't want to change the subject, but buttjumping should stack with multiple boxes
+[2016/01/09 12:03:12] <Karkus> I agree with grumbel: Butt jump pointless.
+[2016/01/09 12:03:16] <mt> it's of use when there's a box containing coins on the ground but, no iceblock
+[2016/01/09 12:03:24] <maths22> grumbel: How is butt-jumping pointless?
+[2016/01/09 12:03:31] <polyphagia> and like i said, somebody could design a level with buttjumping in mind
+[2016/01/09 12:03:42] <polyphagia> maybe with a stack of boxes touching the ground
+[2016/01/09 12:03:47] <polyphagia> that covers an entrace
+[2016/01/09 12:03:48] <Tobbi> There are levels with butt-jumping in mind.
+[2016/01/09 12:03:56] <polyphagia> yeah
+[2016/01/09 12:03:57] <Tobbi> Yes, that's already done...
+[2016/01/09 12:04:00] <polyphagia> i don't think it's useless at all
+[2016/01/09 12:04:03] <polyphagia> it varies the game
+[2016/01/09 12:04:07] <maths22> Several secret areas are only accessible through butt-jumping
+[2016/01/09 12:04:22] <polyphagia> i'm sick of having to justify why the parts that make the game fun are "useless" lol
+[2016/01/09 12:04:36] <polyphagia> the entire point of the program is to waste your time :P
+[2016/01/09 12:04:43] <mt> I'd rather like to see arguments that justify removing something
+[2016/01/09 12:04:43] <maths22> It also is a good way to get rid of ice-blocks, and trigger bonus blocks without bothering going under them
+[2016/01/09 12:04:57] <Karkus> polyphagia: But we want to make it fun
+[2016/01/09 12:05:08] <grumbel> mt: I'd rather like to see arguments for keeping something
+[2016/01/09 12:05:12] <Karkus> Okay, now this is off topic
+[2016/01/09 12:05:22] <Tobbi> Where were we?
+[2016/01/09 12:05:28] <mt> grumbel: what's broken with the current implementations?
+[2016/01/09 12:05:30] <polyphagia> shattering
+[2016/01/09 12:05:45] <mt> see above, there's plenty of things that butt-jumping is useful for
+[2016/01/09 12:06:01] <Karkus> Butt-jumping is good how it is.
+[2016/01/09 12:06:14] <mt> Karkus: let's listen to other people
+[2016/01/09 12:06:22] <mt> they have an opinion as well
+[2016/01/09 12:06:24] <Karkus> mt: What are other people saying?
+[2016/01/09 12:06:31] <polyphagia> butt jumping could be expanded
+[2016/01/09 12:06:39] <mt> grumbel wants to remove it
+[2016/01/09 12:06:50] <polyphagia> like the snowman enemy
+[2016/01/09 12:06:54] <Karkus> mt: I don't agree with that.
+[2016/01/09 12:06:54] <polyphagia> a butt jump could kill him in one hit
+[2016/01/09 12:07:13] <polyphagia> butt jumps could also make you jump higher on trampolines maybe?
+[2016/01/09 12:07:14] <mt> Karkus: might be that you don't agree with that, but you should still listen to the arguments for removing it
+[2016/01/09 12:07:20] <polyphagia> or maybe a certain sort of trampoline that's only acviated by it?
+[2016/01/09 12:07:21] <mt> which I sadly haven't seen yet
+[2016/01/09 12:07:22] <polyphagia> who knows
+[2016/01/09 12:07:26] <grumbel> I don't necessarily want to remove it, I just want to have it have a reason to exist
+[2016/01/09 12:07:34] <polyphagia> the point is: butt jumping is useful right now and can be made even more fun and useful
+[2016/01/09 12:07:47] <grumbel> At the moment it's just kind of there and not really used in any of the main levels
+[2016/01/09 12:07:56] <Karkus> grumbel: A fork in the road.
+[2016/01/09 12:08:00] <grumbel> There are no enemies where you need it for, the animation looks rather lackluster
+[2016/01/09 12:08:01] <mt> it's actually used in the first level on Icy Island
+[2016/01/09 12:08:04] <Karkus> Uses it to block the switch.
+[2016/01/09 12:08:05] <polyphagia> and it makes the game less boring by offering alternative means to destroy things
+[2016/01/09 12:08:09] <polyphagia> i use it all of the time
+[2016/01/09 12:08:39] <mt> grumbel: it's the only way of destroying iceblocks without fireflower or making it fall down somewhere
+[2016/01/09 12:08:40] <polyphagia> i don't care that it's not as efficient or useful, it's just nice to change the pace
+[2016/01/09 12:09:14] <polyphagia> grumbel: there *could* be enemies that need it though
+[2016/01/09 12:09:23] <polyphagia> or that change behaviour when it's used
+[2016/01/09 12:09:36] <mt> polyphagia: open an issue for which enemies it could be used
+[2016/01/09 12:09:49] <polyphagia> i'm only aware of the snowman
+[2016/01/09 12:09:52] <polyphagia> i'll take a look at the list
+[2016/01/09 12:10:17] <Karkus> Can we move on now? Anyone got more to add?
+[2016/01/09 12:10:25] <Tobbi> Not for this point.
+[2016/01/09 12:10:38] <Karkus> Okay, scripting.
+[2016/01/09 12:10:44] <polyphagia> oh
+[2016/01/09 12:10:47] <polyphagia> mrtree too mt
+[2016/01/09 12:10:51] <polyphagia> ok i'll make an issue
+[2016/01/09 12:10:54] <grumbel> polyphagia: yes, that's the point. We currently have a whole bunch of actions and bonuses, some of them could be made useful. But that requires some focus so that in the end you have three things that work really well, instead of ten that are a half done mess
+[2016/01/09 12:11:11] <polyphagia> i'm specifically talking about butt jumping and i don't think it's half baked
+[2016/01/09 12:11:19] <mt> I agree with improving current features before
+[2016/01/09 12:11:20] <polyphagia> i know what you mean but i don't think it applies to butt jumping
+[2016/01/09 12:11:27] <Karkus> grumbel: butt-jumping is not "A half-done mess"
+[2016/01/09 12:11:31] <Tobbi> Karkus: Let me find that scripting issue first.
+[2016/01/09 12:11:35] <polyphagia> we're trying to talk about how to improve butt jumping, not remove it because it isn't used enough
+[2016/01/09 12:11:45] <Karkus> grumbel: What other "half-done mess"s are you talking about?
+[2016/01/09 12:11:52] <polyphagia> not everything needs to be used in every level
+[2016/01/09 12:13:41] <Karkus> Does any body have any answers to the question "What do interesting levels actually comprise?"
+[2016/01/09 12:13:55] <grumbel> Karkus: most of the enemies, most of forest world, even main island is full of little bugs
+[2016/01/09 12:14:32] <Karkus> grumbel: Code bugs?
