@@ -38961,3 +38961,20 @@
 [2016/01/08 19:54:47] @ Quit: Tobbi: Ping timeout: 276 seconds
 [2016/01/08 19:58:38] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2016/01/08 19:58:49] <head8debian> Hrm, im thinking of writing a page on my website about IRC eloquete... We will see how far i get.
+[2016/01/08 20:00:20] <head8debian> jesusalva: Sound like a good idea? :D Now if we could only get Tobbi to follow it...
+[2016/01/08 20:01:01] <jesusalva> Sorry head8debian, what is a "eloquete"?
+[2016/01/08 20:08:41] <head8debian> jesusalva: eloquent*. Meaning to tell what shoudl be said and shouldn't. You should look up the definition. ;)
+[2016/01/08 20:08:51] * head8debian misspelt it...
+[2016/01/08 20:09:52] <jesusalva> head8debian: You'll end up with #supertux-dev and #supertux, and on the end miscellaneous off-topic chat will happen on both channels.
+[2016/01/08 20:10:44] <jesusalva> Is natural of humans to remember misc. subjects at random times.
+[2016/01/08 20:10:54] <jesusalva> Off-topic is inevitable.
+[2016/01/08 20:11:03] @ Tobbi joined channel #supertux
+[2016/01/08 20:11:03] @ Mode +o Tobbi by ChanServ
+[2016/01/08 20:12:19] <head8debian> jesusalva: I realize that, but IRC talk could be cleaner, if you know what i mean.
+[2016/01/08 20:12:28] <head8debian> And Tobbi shows up when i bid him. :p
+[2016/01/08 20:12:53] <Tobbi> head8debian: Hello.
+[2016/01/08 20:13:00] <head8debian> jesusalva: So thats why im thinking of writing a page on it...
+[2016/01/08 20:13:48] <Tobbi> head8debian: What did you want from me?
+[2016/01/08 20:14:00] <head8debian> Tobbi: Nothing. Absolutely nothing.
+[2016/01/08 20:14:08] <Tobbi> huh? ok
+[2016/01/08 20:14:58] <Tobbi> head8debian: Why do you want to write a page on IRC (?) eloquete(?)
