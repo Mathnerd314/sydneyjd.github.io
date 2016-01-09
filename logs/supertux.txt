@@ -40856,3 +40856,124 @@
 [2016/01/09 12:44:51] <Karkus> I'm undecided.
 [2016/01/09 12:44:53] <mt> really
 [2016/01/09 12:44:53] @ andre__ joined channel #supertux
+[2016/01/09 12:45:13] @ andre__ left channel #supertux ()
+[2016/01/09 12:45:33] <Hume2> That's true.
+[2016/01/09 12:45:36] <Karkus> Is anyone against readthedocs?
+[2016/01/09 12:45:43] <Karkus> I don't mind.
+[2016/01/09 12:45:50] <Hume2> I don't mind too.
+[2016/01/09 12:45:57] <mt> readthedocs, or what would be possible as well
+[2016/01/09 12:45:58] <Tobbi> neither do I.
+[2016/01/09 12:46:01] <mt> is jekyll or hugo
+[2016/01/09 12:46:12] <mt> that might be more suited for wikis
+[2016/01/09 12:46:14] <Karkus> grumbel, LMH: Any opinions?
+[2016/01/09 12:46:29] <mt> https://jekyllrb.com/ or http://gohugo.io/
+[2016/01/09 12:46:30] <grumbel> I want a proper git repository for hosting it, I don't really care much about the rest, but I don't see much reason to not use Github
+[2016/01/09 12:47:30] <LMH> I'm pretty ambivalent honestly
+[2016/01/09 12:48:03] <Hume2> So decided?
+[2016/01/09 12:48:17] <mt> # ---- vote: readthedocs, jekyll, hugo ----
+[2016/01/09 12:48:22] <grumbel> What reasons are there against github?
+[2016/01/09 12:48:27] <Hume2> readthedocs
+[2016/01/09 12:48:43] <mt> not really decided yet, readthedocs or hugo
+[2016/01/09 12:48:53] <Karkus> idk anything about jekyll or hugo
+[2016/01/09 12:49:14] <Tobbi> I think we should strive for having everything on github...
+[2016/01/09 12:49:15] <mt> what jekyll and hugo (especially hugo) might allow better is structuring everything as wiki
+[2016/01/09 12:49:53] <mt> Tobbi: jekyll and hugo could be generated to a static site which can be hosted as page on SuperTux.github.io/...
+[2016/01/09 12:49:58] <grumbel> mt: How do they work internally? SQL database or git repo?
+[2016/01/09 12:50:08] <mt> grumbel: git repo and static site generating
+[2016/01/09 12:50:27] <Karkus> mt: Or wiki.supertuxproject.org
+[2016/01/09 12:50:42] <mt> jekyll from markdown and textile, hugo from markdown, asciidoc, restructuredtext, (almost anything)
+[2016/01/09 12:50:47] <Karkus> mt: I think readthedocs is for documentation, not wikis.
+[2016/01/09 12:50:53] <mt> Karkus: yeah, it could be set up as CNAME
+[2016/01/09 12:51:13] <mt> yeah, readthedocs is for documentation; that's why I also proposed jekyll and hugo
+[2016/01/09 12:51:16] <Karkus> Tobbi: And this would still be on GitHub
+[2016/01/09 12:51:20] <mt> jekyll is more for blogs tho
+[2016/01/09 12:51:20] <Tobbi> right, fine with me.
+[2016/01/09 12:51:31] <mt> hugo is for everything
+[2016/01/09 12:51:37] <Karkus> mt: If hugo serves the purpose, I guess
+[2016/01/09 12:51:38] <grumbel> mt: Any reason for not just using Github?
+[2016/01/09 12:51:52] <mt> grumbel: not being able to really control contributions
+[2016/01/09 12:51:55] <Hume2> Is there any possibility that we'll ever decide that?
+[2016/01/09 12:52:10] <mt> in the end with github, we'll end up with bullshit content again
+[2016/01/09 12:52:11] <polyphagia> doesn't the github wiki use a rpeo
+[2016/01/09 12:52:11] <Karkus> mt: Can we control contributions to hugo?
+[2016/01/09 12:52:12] <polyphagia> repo*
+[2016/01/09 12:52:22] <polyphagia> what bullshit content did we have before mt ?
+[2016/01/09 12:52:23] <mt> Karkus: yeah, as git repo
+[2016/01/09 12:52:23] <Karkus> mt: Why is hugo any different?
+[2016/01/09 12:52:36] <polyphagia> some of the things on the wiki might've been unfinished, but i wouldn't say it as bullshit lol
+[2016/01/09 12:52:37] <Karkus> mt: But still requires the use of Git...
+[2016/01/09 12:52:52] <polyphagia> making more barriers to contribute doesn't solve the problem of unfinished content
+[2016/01/09 12:53:03] <Karkus> polyphagia: I agree
+[2016/01/09 12:53:04] <polyphagia> making wikis as easy as possible for anybody to contribute makes a better wiki
+[2016/01/09 12:53:05] <grumbel> mt: https://help.github.com/articles/changing-access-permissions-for-wikis/
+[2016/01/09 12:53:05] <mt> polyphagia: silly ideas, unstructured content, not really clarity about what's recent and what's outdated
+[2016/01/09 12:53:06] <polyphagia> not walling it off
+[2016/01/09 12:53:26] <mt> grumbel: we've had that enabled, actually
+[2016/01/09 12:53:30] <polyphagia> well mt at least there *was* content, wikis generally work that way
+[2016/01/09 12:53:32] <mt> but people wanted to make it more open
+[2016/01/09 12:53:34] <Karkus> Also, GitHub isn't very organised.
+[2016/01/09 12:53:37] <polyphagia> start out more unstructured, slowly get better
+[2016/01/09 12:53:48] <mt> Karkus: indeed. GitHub doesn't have any menus or so
+[2016/01/09 12:53:56] <mt> well, not really
+[2016/01/09 12:54:02] <mt> besides that silly navbar
+[2016/01/09 12:54:03] <polyphagia> but i'm not saying we use the github wiki either
+[2016/01/09 12:54:15] <polyphagia> i'm just saying make it *very* easy to contribute to
+[2016/01/09 12:54:17] <polyphagia> whatever you choose
+[2016/01/09 12:54:33] <polyphagia> don't be too worried about getting some poorer content
+[2016/01/09 12:54:35] <mt> I'd say creating a github account and pull requesting a repo is easier
+[2016/01/09 12:54:36] <polyphagia> that's what wikis are for
+[2016/01/09 12:54:40] <mt> than waiting for a wiki admin
+[2016/01/09 12:54:45] <polyphagia> that isn't easier
+[2016/01/09 12:54:46] <polyphagia> IMO
+[2016/01/09 12:54:47] <mt> I don't even know who that is right now
+[2016/01/09 12:54:49] <polyphagia> that's a lot harder
+[2016/01/09 12:54:58] <polyphagia> there are going to be non-programmers who want to change things
+[2016/01/09 12:55:07] <polyphagia> maybe level editors
+[2016/01/09 12:55:08] <Karkus> mt: They could also fork, and edit the text in their fork, without git?
+[2016/01/09 12:55:10] <mt> people had to ask on irc before
+[2016/01/09 12:55:17] <mt> Karkus: yes
+[2016/01/09 12:55:24] <polyphagia> that would work
+[2016/01/09 12:55:27] <mt> that's what pull requesting is about
+[2016/01/09 12:55:31] <polyphagia> if they can do it all through the website UI
+[2016/01/09 12:55:34] <polyphagia> then it's fine
+[2016/01/09 12:55:42] <Hume2> OK
+[2016/01/09 12:55:47] <Karkus> mt: If you make an easy tutorial explaining, I think it's a good idea.
+[2016/01/09 12:55:57] <mt> yeah
+[2016/01/09 12:56:02] <polyphagia> you could explain it with like three images
+[2016/01/09 12:56:05] <polyphagia> and a blurb
+[2016/01/09 12:56:06] <polyphagia> so that'd be good
+[2016/01/09 12:56:08] <mt> we'd have to set up the repo first tho
+[2016/01/09 12:56:20] <polyphagia> ok great ideas
+[2016/01/09 12:56:21] <Karkus> mt: That's your job.
+[2016/01/09 12:56:31] <mt> I'll do once I have time
+[2016/01/09 12:56:34] <Karkus> Is this the end of the meeting?
+[2016/01/09 12:56:41] <Tobbi> we're 3 hours in.
+[2016/01/09 12:56:50] <Tobbi> So, I guess so.
+[2016/01/09 12:56:52] <Karkus> How many lines?
+[2016/01/09 12:56:58] <Tobbi> I don't know.
+[2016/01/09 12:56:59] <mt> Tobbi: can you create a `wiki` repo?
+[2016/01/09 12:57:05] <Tobbi> mt: Yes, one moment.
+[2016/01/09 12:57:11] <polyphagia> who will declare MEETING ADJOURNED ?!
+[2016/01/09 12:57:35] <Hume2> I think we should leave this topic and discuss the other things.
+[2016/01/09 12:57:36] <Tobbi> mt: https://github.com/SuperTux/wiki
+[2016/01/09 12:57:40] <mt> maths22: you, could you please set up wiki.supertuxproject.org as CNAME for github?
+[2016/01/09 12:57:47] <Karkus> Hume2: What else it there to discuss?
+[2016/01/09 12:58:02] <Hume2> Karkus: Scripting...
+[2016/01/09 12:58:16] <polyphagia> YES
+[2016/01/09 12:58:19] <polyphagia> i'm the first star on the wiki
+[2016/01/09 12:58:23] <Karkus> Can we save this for next meeting?
+[2016/01/09 12:58:24] <Hume2> Anyway we still haven't decided that freezing, did we?
+[2016/01/09 12:58:37] <Karkus> Hume2: Yes, it's going to be a shatter effect.
+[2016/01/09 12:58:47] <Hume2> Programmed?
+[2016/01/09 12:58:47] <polyphagia> it's just going to have to look nicer than boxes is all
+[2016/01/09 12:58:54] <Karkus> Hume2: Yes.
+[2016/01/09 12:59:04] <Hume2> I'll note.
+[2016/01/09 12:59:05] <Tobbi> PHEW!
+[2016/01/09 12:59:15] <Tobbi> Guys, this was...intense.
+[2016/01/09 12:59:21] <Karkus> Tobbi: Can you declare meeting adjourned?
+[2016/01/09 12:59:27] <Tobbi> Meeting adjourned.
+[2016/01/09 12:59:32] <Karkus> YAY!
+[2016/01/09 12:59:39] <Tobbi> ====== END OF MEETING ======
+[2016/01/09 12:59:46] * Tobbi sighs in relief.
+[2016/01/09 12:59:52] <polyphagia> ====== END OF END OF MEETING ======
+[2016/01/09 12:59:59] <Karkus> Okay, The logs will end with that message. ^^^
