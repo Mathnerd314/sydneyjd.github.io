@@ -39273,3 +39273,12 @@
 [2016/01/08 20:56:40] <polyphagia> kk
 [2016/01/08 20:59:23] <polyphagia> Tobbi: which accent do you prefer hearing? english or american? :P
 [2016/01/08 20:59:54] <Tobbi> polyphagia: Actually...I don't really know. I can handle both of them...I did an internship at Mozilla in california, so my own accent is somewhat a mix between those two.
+[2016/01/08 21:00:04] <Tobbi> And I speak American English most of the time, b/c of habit.
+[2016/01/08 21:00:15] <polyphagia> haha excel'd himself :P
+[2016/01/08 21:00:17] <polyphagia> ah alright
+[2016/01/08 21:05:03] <polyphagia> yeah
+[2016/01/08 21:05:34] <polyphagia> that video's a great intro explanation to computer image display Tobbi
+[2016/01/08 21:05:56] <Tobbi> polyphagia: I agree... Matt Parker is so funny. He does a lot of videos for numberphile.
+[2016/01/08 21:06:01] <polyphagia> OH
+[2016/01/08 21:06:03] <polyphagia> that's where he's  from
+[2016/01/08 21:06:28] <polyphagia> yeah i've seen a lot of numberphile videos
