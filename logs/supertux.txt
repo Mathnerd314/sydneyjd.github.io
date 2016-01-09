@@ -40625,3 +40625,118 @@
 [2016/01/09 12:13:41] <Karkus> Does any body have any answers to the question "What do interesting levels actually comprise?"
 [2016/01/09 12:13:55] <grumbel> Karkus: most of the enemies, most of forest world, even main island is full of little bugs
 [2016/01/09 12:14:32] <Karkus> grumbel: Code bugs?
+[2016/01/09 12:15:16] <maths22> Karkus: One that I enjoy playing :p
+[2016/01/09 12:15:16] <grumbel> Karkus: wrong tiles, wrong backgrounds, etc.
+[2016/01/09 12:15:24] <maths22> I'm actually not sure how to give a good definition
+[2016/01/09 12:15:55] <Tobbi> Karkus: Maybe my question wasn't thought through.
+[2016/01/09 12:16:01] <Tobbi> Would be fine with skipping it.
+[2016/01/09 12:16:33] <Tobbi> Just thinking about whether we need to add more level features to make levels more fun playing.
+[2016/01/09 12:16:34] <Karkus> grumbel: The forest world is set to be redone anyway, and that will take a while. The main island is good, as far as I know
+[2016/01/09 12:16:37] <Tobbi> or something.
+[2016/01/09 12:16:47] <Karkus> Tobbi: I think we should, yes.
+[2016/01/09 12:17:02] <Tobbi> OKay.
+[2016/01/09 12:17:15] <Karkus> Tobbi: But, we have no ideas to discuss, so we can skip for now.
+[2016/01/09 12:17:23] <Tobbi> Yes, let's do it.
+[2016/01/09 12:17:27] <Tobbi> We're done, aren't we?
+[2016/01/09 12:17:36] <Karkus> Check again.
+[2016/01/09 12:17:37] <maths22> Tobbi: I think we are
+[2016/01/09 12:17:44] * Tobbi checks
+[2016/01/09 12:17:58] <Tobbi> Oh.
+[2016/01/09 12:18:04] <Tobbi> Some items have been added.
+[2016/01/09 12:18:11] <Tobbi>  Implement @LMH0013 's powerups and the ice flower in some levels
+[2016/01/09 12:18:13] <Karkus> Namely:
+[2016/01/09 12:18:15] <Tobbi> Sounds good.
+[2016/01/09 12:18:15] <Karkus> Implement @LMH0013 's powerups and the ice flower in some levels
+[2016/01/09 12:18:28] <Tobbi>  Which wiki poll -> #208
+[2016/01/09 12:18:29] <Karkus> I think we should use the air powerup on the sky levels.
+[2016/01/09 12:18:43] <Tobbi> If it doesn't make them too easy, sure.
+[2016/01/09 12:18:48] <Karkus> Where it seems more appropriate.
+[2016/01/09 12:18:55] <polyphagia> air powerup?
+[2016/01/09 12:19:04] <polyphagia> do we have one?
+[2016/01/09 12:19:10] <Karkus> polyphagia: Yes, no-one has added it to levels
+[2016/01/09 12:19:15] <polyphagia> oh ok
+[2016/01/09 12:19:25] <Karkus> We can save the ice and earth powerups for later worlds I suppose.
+[2016/01/09 12:19:27] <Tobbi> polyphagia: It is in LMH's levels.
+[2016/01/09 12:19:32] <Tobbi> Probably.
+[2016/01/09 12:19:35] <Karkus> Any objections
+[2016/01/09 12:19:37] <Karkus> ?
+[2016/01/09 12:20:20] <Tobbi> nope.
+[2016/01/09 12:20:22] <Tobbi> Let's move on.
+[2016/01/09 12:20:25] <Karkus> Okay, final point. What are we to do about the wikis?
+[2016/01/09 12:20:36] <mt> Move to GitHub
+[2016/01/09 12:20:50] <Tobbi> I am for moving things to the github one, and while doing that revising its content.
+[2016/01/09 12:20:59] <mt> before someone says GitHub is too centralized no, it's not
+[2016/01/09 12:21:11] <Tobbi> Having everything in one place makes it way easier for new contributors to get started.
+[2016/01/09 12:21:14] <mt> since everything but issues is managed as git repo
+[2016/01/09 12:21:20] <pentagon> [10supertux] 07misterhat opened issue 09#324: Butt jumping should do more damage to certain enemies 13http://git.io/vu5D3
+[2016/01/09 12:21:57] <mt> Tobbi: +1
+[2016/01/09 12:22:20] <mt> can we remove https://github.com/SuperTux/supertux/wiki/The-Team
+[2016/01/09 12:22:21] <Tobbi> The old wiki is a mess, actually.
+[2016/01/09 12:22:24] <Hume2> Could anyone summarize me what has been decided in a PM?
+[2016/01/09 12:22:32] <Tobbi> Hume2: There will be action items...
+[2016/01/09 12:22:36] <Tobbi> Someone just needs to go through the log.
+[2016/01/09 12:22:50] <Tobbi> mt: I'd say so.
+[2016/01/09 12:22:57] <Tobbi> The team is comprised of different people now.
+[2016/01/09 12:23:41] <polyphagia> it's also redundant
+[2016/01/09 12:23:48] <polyphagia> because github lists the contributors anyway
+[2016/01/09 12:23:58] <polyphagia> and people can choose what they want to put on their github profile
+[2016/01/09 12:24:04] <grumbel> Is there any way to dump all the old Mediawiki into a git repo?
+[2016/01/09 12:24:07] <Tobbi> yeah, ok
+[2016/01/09 12:24:20] <Tobbi> let's see...
+[2016/01/09 12:24:22] <mt> grumbel: do you have access to the database?
+[2016/01/09 12:24:34] <Karkus> I disagree polyphagia, as some old members wouldn't want to be contacted anymore, I don't think.
+[2016/01/09 12:24:48] <mt> what's possible is to use MediaWiki formatted content for GitHub
+[2016/01/09 12:24:50] <polyphagia> why do you disagree then Karkus ?
+[2016/01/09 12:24:55] <polyphagia> i'm for removing the page
+[2016/01/09 12:24:56] <mt> but we want to get rid of the bad wiki content
+[2016/01/09 12:25:03] <Karkus> polyphagia: I just said why...
+[2016/01/09 12:25:18] <polyphagia> but you don't disagree Karkus
+[2016/01/09 12:25:22] <polyphagia> i think the page should be removed
+[2016/01/09 12:25:38] <polyphagia> old members being contacted is another reason to remove it
+[2016/01/09 12:26:00] <Hume2> So the theme is wiki, right?
+[2016/01/09 12:26:00] <Karkus> polyphagia: Maybe, or update it...
+[2016/01/09 12:26:05] <polyphagia> that too
+[2016/01/09 12:26:12] <mt> ----- topic: wiki -----
+[2016/01/09 12:26:20] <polyphagia> i think it should be manually converted
+[2016/01/09 12:26:24] <polyphagia> since there's some bad content
+[2016/01/09 12:26:27] <Karkus> Agreed.
+[2016/01/09 12:26:29] <polyphagia> or half baked
+[2016/01/09 12:26:35] <Tobbi> Agreed, but we need someone to actually do it.
+[2016/01/09 12:26:44] <mt> yes
+[2016/01/09 12:26:45] <polyphagia> but i think you should open up the wiki to let non contributors edit it
+[2016/01/09 12:26:46] <Tobbi> It's gonna be a tremendous effort, IMO
+[2016/01/09 12:26:53] <polyphagia> people who make levels might have important info to add to the wiki
+[2016/01/09 12:26:55] <Hume2> Yes, but something must be done with that list of pages.
+[2016/01/09 12:26:57] <polyphagia> but they haven't actually coded for supertux
+[2016/01/09 12:27:06] <polyphagia> as long as you have a github account, you should be allowed to edit the wiki
+[2016/01/09 12:27:07] <mt> ----- subtopic: non-contributors editing the wiki -----
+[2016/01/09 12:27:07] <Tobbi> Let's hope we don't get spammed.
+[2016/01/09 12:27:17] <Tobbi> How do we prevent spam?
+[2016/01/09 12:27:22] <polyphagia> that's github's job Tobbi
+[2016/01/09 12:27:24] <mt> I had suggested using readthedocs as wiki
+[2016/01/09 12:27:34] <mt> and then making a separate git repo
+[2016/01/09 12:27:35] <polyphagia> we don't have to manually deal with spam and bots because github supplies that for us
+[2016/01/09 12:27:39] <Tobbi> Okay.
+[2016/01/09 12:27:40] <Hume2> Maybe only some pages.
+[2016/01/09 12:27:42] <polyphagia> if it happens
+[2016/01/09 12:27:43] <mt> where people can submit content as PRs
+[2016/01/09 12:27:46] <polyphagia> we can always revert the change Tobbi
+[2016/01/09 12:27:47] <Tobbi> So, if that's in place, that's good.
+[2016/01/09 12:27:52] <maths22> mt: I personally like that concept
+[2016/01/09 12:28:02] <Tobbi> Would be fragmented, though.
+[2016/01/09 12:28:06] <polyphagia> i say leave it open, see what comes of it and if you see poor quality content consistently or spam, close it back up
+[2016/01/09 12:28:17] <Hume2> Agreed.
+[2016/01/09 12:28:17] <polyphagia> but i highly doubt it'll be spammed
+[2016/01/09 12:28:26] <mt> if we open up the wiki to non contributors its history will be spammed even more than it is now
+[2016/01/09 12:28:34] <mt> it's impossible to see what change changed what
+[2016/01/09 12:28:44] <polyphagia> it's being spammed now?
+[2016/01/09 12:28:47] <Karkus> mt: The mediawiki doesn't even havea  history.
+[2016/01/09 12:28:51] <mt> I rebased some parts of the repo at some point
+[2016/01/09 12:28:54] <mt> Karkus: it does
+[2016/01/09 12:28:54] <grumbel> mt: I think I have access to the supertux-wiki database
+[2016/01/09 12:28:54] <polyphagia> the current github wiki is pretty much useless
+[2016/01/09 12:28:57] <polyphagia> i haven't used it once
+[2016/01/09 12:29:10] <polyphagia> i don't think we need to be worry about the history logs being "spammed"
+[2016/01/09 12:29:18] <polyphagia> by people trying to contribute
+[2016/01/09 12:29:23] <mt> Karkus: example: http://supertux.lethargik.org/wiki/index.php?title=Download&action=history
+[2016/01/09 12:29:40] <Karkus> grumbel: Not an issue, we need to get rid of it.
