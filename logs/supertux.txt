@@ -39350,3 +39350,6 @@
 [2016/01/08 22:11:17] <polyphagia> good night
 [2016/01/08 22:11:22] <head8debian> 'Night all.
 [2016/01/08 22:11:58] @ Quit: jesusalva: Quit: Good Night everyone, Jesus bless you all. Sleep well.
+[2016/01/08 22:41:31] @ stewboy_ joined channel #supertux
+[2016/01/08 22:42:21] @ Quit: stewboy: Ping timeout: 260 seconds
+[2016/01/08 22:42:22] @ stewboy_ is now known as stewboy
