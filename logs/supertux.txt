@@ -41337,3 +41337,20 @@
 [2016/01/09 18:21:55] @ Quit: Karkus: Ping timeout: 240 seconds
 [2016/01/09 18:27:06] <pentagon> [10supertux] Status for commit Catch addon parse errors early, so only the incorrect entry is ignored by 07Ingo Ruhnke: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/258
 [2016/01/09 18:29:36] @ jesusalva joined channel #supertux
+[2016/01/09 18:30:18] <jesusalva> Hello!
+[2016/01/09 18:32:05] <jesusalva> How was the metting?
+[2016/01/09 18:34:44] <Tobbi> jesusalva: long.
+[2016/01/09 18:34:51] <Tobbi> You can find the logs at the usual place.
+[2016/01/09 18:35:15] @ Karkus joined channel #supertux
+[2016/01/09 18:35:15] @ Mode +o Karkus by ChanServ
+[2016/01/09 18:35:18] <jesusalva> Tobbi: Sorry, I never saw the logs and it would be too boring to read.
+[2016/01/09 18:35:30] <Tobbi> jesusalva: Possibly.
+[2016/01/09 18:35:33] <jesusalva> Tobbi: Actually it was short. It took about 1 hour, didn't it?
+[2016/01/09 18:35:40] <Tobbi> jesusalva: uh, 3 hours...
+[2016/01/09 18:35:49] <jesusalva> Oh. Then it was "average".
+[2016/01/09 18:36:01] @ Quit: claymore2: Quit: Leaving
+[2016/01/09 18:36:09] <jesusalva> Usually it takes 2 hours to discuss half of what you guys had scheduled.
+[2016/01/09 18:36:18] <Tobbi> Right :)
+[2016/01/09 18:36:35] * jesusalva couldn't be on because he only arrived home at 20:00 UTC.
+[2016/01/09 18:36:37] <Tobbi> I'm currently watching "Exploring abandoned places in detroit"
+[2016/01/09 18:36:56] <jesusalva> I'm currently playing OGame and reviewing rules for TmwBR.
