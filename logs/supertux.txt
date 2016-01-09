@@ -41204,3 +41204,58 @@
 [2016/01/09 14:58:44] <Karkus> The list goes on and on.
 [2016/01/09 14:59:00] <Tobbi> :D
 [2016/01/09 14:59:38] <grumbel> thumbnails would be good, I don't really care about much else, I definitely don't want scrollbars
+[2016/01/09 15:00:16] <maths22> grumbel: Then we really should have pagination instead
+[2016/01/09 15:02:08] <grumbel> I don't think there are enough addons for that yet
+[2016/01/09 15:02:15] <Karkus> grumbel: Why not scroll bars?
+[2016/01/09 15:02:16] <grumbel> Splitting levels from mods would however be a good idea
+[2016/01/09 15:02:39] <maths22> grumbel: What "mods" do we have?
+[2016/01/09 15:03:09] <grumbel> maths22: I don't think we have any mods yet, but we treat every addon as if it is a mod
+[2016/01/09 15:03:24] <grumbel> i.e. there is no need to 'enable' a level pack
+[2016/01/09 15:03:37] <maths22> grumbel: True
+[2016/01/09 15:03:37] <grumbel> but there is a need to 'enable/disable' a mod that might break stuff
+[2016/01/09 15:03:50] <mt> there was this reTux mod thing
+[2016/01/09 15:03:51] <maths22> in my opinion, this looks pretty bad: http://snag.gy/6K4BO.jpg
+[2016/01/09 15:04:05] <Karkus> grumbel: How could mods be implemented? Do you mean resource packs?
+[2016/01/09 15:05:12] <grumbel> Karkus: each .zip gets already mounted into the physfs tree, so each addon can override core game graphics when it wants to
+[2016/01/09 15:05:49] <Karkus> grumbel: Oh! Would that include tilesets etc.?
+[2016/01/09 15:06:18] <pentagon> [10supertux] Status for commit iterator -> const_iterator by 07Tobias Markus: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/101304667
+[2016/01/09 15:06:25] <Tobbi> why?
+[2016/01/09 15:06:39] <Karkus> So you could create a level with your own tiles... cool!
+[2016/01/09 15:07:05] <Tobbi> Ouch!
+[2016/01/09 15:07:08] <Tobbi> I didn't test that code.
+[2016/01/09 15:07:38] <Tobbi> Although, wait a minute, it works locally for me.
+[2016/01/09 15:08:00] <mt> /kick Tobbi failing to follow https://github.com/SuperTux/supertux/blob/master/CONTRIBUTING.md#pull-requests (should we make it extra clear that this should also apply to normal commits)
+[2016/01/09 15:08:21] <Tobbi> mt: It works...just not on travis, for some reason.
+[2016/01/09 15:08:28] <Tobbi> It works on my machine just fine.
+[2016/01/09 15:08:40] <mt> aren't you using OS X?
+[2016/01/09 15:08:44] <Tobbi> mt: I am.
+[2016/01/09 15:08:45] <mt> might be the reason
+[2016/01/09 15:09:00] <mt> it also works with some of the clang based builds
+[2016/01/09 15:09:02] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13http://git.io/vuda3
+[2016/01/09 15:09:04] <pentagon> [10supertux] 07tobbi 141cbf101 Revert "iterator -> const_iterator"
+[2016/01/09 15:09:32] <Tobbi> mt: In fact, it works on all OSX builds.
+[2016/01/09 15:09:33] <Tobbi> :D
+[2016/01/09 15:09:48] <grumbel> Karkus: yes, that's already possible, but it's ugly to do that by overriding core files
+[2016/01/09 15:10:08] <Karkus> mt: I cannot thank you enough for getting rid of Not-e81f :D
+[2016/01/09 15:10:24] <Karkus> mt: "The Travis-Ci build is pending."
+[2016/01/09 15:10:30] <Tobbi> :D
+[2016/01/09 15:10:32] <Tobbi> hahaha
+[2016/01/09 15:10:37] <Karkus> grumbel: So, there's another way to do it?
+[2016/01/09 15:11:00] <mt> ok let's make it mention Karkus in every message :D
+[2016/01/09 15:11:01] <grumbel> Karkus: there was, but I removed it as it wasn't used by anything
+[2016/01/09 15:11:23] <grumbel> Karkus: haven't yet implemented a proper way
+[2016/01/09 15:11:56] <pentagon> [10supertux] Status for commit iterator -> const_iterator by 07Tobias Markus: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/255
+[2016/01/09 15:12:30] <Karkus> grumbel: But you can create custom tilesets anyway, right.
+[2016/01/09 15:12:50] <mt> Karkus: [10supertux] 07someone pushed 1 commit to 09feature/annoy-karkus 13http://annoy-karkus.supertuxproject.org
+[2016/01/09 15:12:51] <Tobbi> okay, I will change my previous assumption: My code works on OS X and Windows, so that's all OSes we care about :P
+[2016/01/09 15:13:23] <Tobbi> Actually everything *.supertuxproject.org gives that file listing.
+[2016/01/09 15:13:24] <mt> Tobbi: s/we care/you care/
+[2016/01/09 15:13:29] <Tobbi> :D
+[2016/01/09 15:13:30] <grumbel> Karkus: yes, by overriding core files, eg. images/tiles.strf, but it's not very robust and when two mods do it they can't be activated at the same time
+[2016/01/09 15:13:36] <Karkus> mt: Okay, if you'd done that for pentagon you would've fooled me.
+[2016/01/09 15:13:52] <Tobbi> bbl, doener...
+[2016/01/09 15:13:53] <maths22> Tobbi: Right now-that will probably change
+[2016/01/09 15:14:04] <Tobbi> okay, good.
+[2016/01/09 15:14:08] <Karkus> grumbel: Well, no. Maybe multiple tilesets should be possible.
+[2016/01/09 15:14:10] <Tobbi> gonna get something to eat now.
+[2016/01/09 15:14:17] <Karkus> grumbel: But that's so complicated...
