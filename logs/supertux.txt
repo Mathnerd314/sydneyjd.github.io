@@ -38978,3 +38978,108 @@
 [2016/01/08 20:14:00] <head8debian> Tobbi: Nothing. Absolutely nothing.
 [2016/01/08 20:14:08] <Tobbi> huh? ok
 [2016/01/08 20:14:58] <Tobbi> head8debian: Why do you want to write a page on IRC (?) eloquete(?)
+[2016/01/08 20:15:06] <Tobbi> Talking about etiquette?
+[2016/01/08 20:15:10] <jesusalva> head8debian: The problem is, off-topic is necessary. Although sometimes it's undesirable (like during the meetings) it's whats strengthen bonds between developers and make us a team.
+[2016/01/08 20:15:23] <Tobbi> Yes.
+[2016/01/08 20:15:23] <Tobbi> I agree.
+[2016/01/08 20:15:30] <head8debian> jesusalva: Im not against that at all. Maybe i said this wrong...
+[2016/01/08 20:15:39] <jesusalva> Possibly.
+[2016/01/08 20:15:45] <Tobbi> As long as people don't socialize too much... or are annoying *cough* that special person *cough*
+[2016/01/08 20:15:51] * head8debian *facepalm*...
+[2016/01/08 20:15:55] <head8debian> Tobbi: :D:D
+[2016/01/08 20:16:04] <jesusalva> Tobbi: I created a special ignore filter.
+[2016/01/08 20:16:22] <Tobbi> :D
+[2016/01/08 20:17:11] <jesusalva> And besides, even if I ignored you Tobbi (by example!), if I think too weird the people talking I could check logfiles...
+[2016/01/08 20:17:46] <Tobbi> >D
+[2016/01/08 20:17:47] <Tobbi> :D
+[2016/01/08 20:17:48] <Tobbi> Indeed.
+[2016/01/08 20:17:50] <head8debian> But it could benifit people who are new to IRC, and how to talk.
+[2016/01/08 20:18:02] <Tobbi> So, this will be for this channel, right?
+[2016/01/08 20:18:05] <head8debian> Especially support questions.
+[2016/01/08 20:18:13] <head8debian> No, a rough draft for every IRC channel....
+[2016/01/08 20:18:25] <head8debian> You shall see when i am done. :D
+[2016/01/08 20:18:25] <Tobbi> ok
+[2016/01/08 20:19:08] <jesusalva> I'm not sure. It's already awkward enough the idea to talk with the devs of your favorite game for the first time (ever)
+[2016/01/08 20:19:09] <Tobbi> We haven't gotten any more stars recently.
+[2016/01/08 20:19:29] <Tobbi> jesusalva: People just don't talk with us :P
+[2016/01/08 20:19:51] <jesusalva> Tobbi: As expected. If you want more stars, dress up like Tux, write 'Play supertux, it's free' and take a trip by the city.
+[2016/01/08 20:19:53] <jesusalva> :P
+[2016/01/08 20:20:02] <head8debian> jesusalva: :p
+[2016/01/08 20:20:10] <head8debian> jesusalva: You would do that well! :D
+[2016/01/08 20:20:15] <Tobbi> jesusalva: People would think I am {weird}
+[2016/01/08 20:20:17] <head8debian> :-)
+[2016/01/08 20:20:21] <head8debian> Tobbi: You are. :D
+[2016/01/08 20:20:27] <Tobbi> head8debian: I am not weird.
+[2016/01/08 20:20:29] <Tobbi> Apple pie.
+[2016/01/08 20:21:07] <jesusalva> Tobbi: If you pay for the outfit
+[2016/01/08 20:21:09] <polyphagia> lol the FSF had somebody dress up as a GNU and hand out fliers at a microsoft store
+[2016/01/08 20:21:25] <Tobbi> jesusalva: Uhm? me? I'm a poor college student.
+[2016/01/08 20:21:33] <jesusalva> polyphagia: That's marketing.
+[2016/01/08 20:21:37] <jesusalva> Tobbi: I'm underaged. I win.
+[2016/01/08 20:21:43] <polyphagia> the best sort :P
+[2016/01/08 20:21:53] <polyphagia> nothing says use this product like an adorable mascot
+[2016/01/08 20:22:04] <Tobbi> jesusalva: *sigh*
+[2016/01/08 20:22:12] <polyphagia> Tobbi: are you old enough to drink german beer?
+[2016/01/08 20:22:12] * jesusalva studied marketing along everything you need to know to manage a bussiness
+[2016/01/08 20:22:27] <Tobbi> polyphagia: *cough* I am 26
+[2016/01/08 20:22:31] <polyphagia> oh ok
+[2016/01/08 20:22:37] <polyphagia> in germany i think the drinking age is 13?
+[2016/01/08 20:22:42] <Tobbi> lol.
+[2016/01/08 20:22:42] <polyphagia> :P
+[2016/01/08 20:22:45] <Tobbi> 16 for beer I think.
+[2016/01/08 20:22:50] <Tobbi> Or did they up that?
+[2016/01/08 20:22:53] * Tobbi checks
+[2016/01/08 20:22:56] <head8debian> Tobbi: Good grief, IIRC its 21 here. Good for us. :D
+[2016/01/08 20:23:03] <polyphagia> in russia, beer wasn't considered alcoholic until 2008 :P
+[2016/01/08 20:23:08] <Tobbi> head8debian: 50 for you.
+[2016/01/08 20:23:09] <polyphagia> 18 here
+[2016/01/08 20:23:10] <head8debian> polyphagia: Hah.
+[2016/01/08 20:23:15] <head8debian> Tobbi: I wish.
+[2016/01/08 20:23:21] <jesusalva> See? Off topic already, head8debian.
+[2016/01/08 20:23:35] <jesusalva> :P
+[2016/01/08 20:23:39] <Tobbi> head8debian: I am proud to say that I never smoked.
+[2016/01/08 20:23:41] <Tobbi> Never even tried.
+[2016/01/08 20:24:11] <head8debian> Yay... as if its worse than drinking.
+[2016/01/08 20:24:16] <polyphagia> never smoked tobacco
+[2016/01/08 20:24:16] <Tobbi> head8debian: It is.
+[2016/01/08 20:24:24] <polyphagia> well
+[2016/01/08 20:24:27] <polyphagia> not an entire cigar/cigarette
+[2016/01/08 20:24:28] <Tobbi> polyphagia: *sigh*... the other stuff is bad too.
+[2016/01/08 20:24:37] <Tobbi> If I get what you're implying.
+[2016/01/08 20:24:41] <polyphagia> why Tobbi ?
+[2016/01/08 20:24:55] <Tobbi> polyphagia: If we're talking about pot: It changes your behaviour.
+[2016/01/08 20:25:02] <polyphagia> i get the attitude in europe's a bit different than here though
+[2016/01/08 20:25:04] <Tobbi> I'd not dare touch that thing.
+[2016/01/08 20:25:07] <jesusalva> Tobbi: both will kill you later. Drinking will destroy your sugar-absorbation and neurological capacity. Normal smoke destroy your lungs and neurological system.
+[2016/01/08 20:25:16] <polyphagia> that's scare-tactic marketing Tobbi
+[2016/01/08 20:25:19] <head8debian> jesusalva: Precisely.
+[2016/01/08 20:25:20] <Tobbi> jesusalva: I do not drink often...
+[2016/01/08 20:25:23] <polyphagia> it doesn't change you any more than alcohol does
+[2016/01/08 20:25:32] <head8debian> jesusalva: Nots not great on the liver though. :)
+[2016/01/08 20:25:34] <polyphagia> if anything, less so
+[2016/01/08 20:25:36] <head8debian> Its not*
+[2016/01/08 20:25:45] <head8debian> jesusalva / Tobbi*.
+[2016/01/08 20:25:45] <Tobbi> polyphagia: What if I decided to stay away from anything I consider suspicious?
+[2016/01/08 20:25:51] * head8debian facepalms again...
+[2016/01/08 20:25:52] <polyphagia> that's your perogative :P
+[2016/01/08 20:25:58] <Tobbi> exactly.
+[2016/01/08 20:26:21] <polyphagia> it's doing yourself a favour if anything. it's pretty awesome so i'd rather not know what i'm missing :P
+[2016/01/08 20:26:32] <polyphagia> than be missing it
+[2016/01/08 20:26:46] <Tobbi> polyphagia: 1) It's illegal here in Germany.
+[2016/01/08 20:26:49] <polyphagia> but truth be told i'm more productive with that and coffee than anything else
+[2016/01/08 20:27:10] <polyphagia> it's mandated to be legal here within the next year or so
+[2016/01/08 20:27:13] <polyphagia> country-wide
+[2016/01/08 20:27:17] * jesusalva looks at how we left the topic to speak about beer and tabaco.
+[2016/01/08 20:27:22] <polyphagia> we'll be the first first-world country to legalize it :P
+[2016/01/08 20:27:24] <jesusalva> Is that on your page, head8debian?
+[2016/01/08 20:27:28] <polyphagia> of course
+[2016/01/08 20:28:00] <Tobbi> polyphagia: where exactly do you come from again? Canada?
+[2016/01/08 20:28:04] <polyphagia> yeag
+[2016/01/08 20:28:07] <polyphagia> yeah*
+[2016/01/08 20:28:31] <head8debian> polyphagia: Your a canadian. My second one on IRC to meet. :D
+[2016/01/08 20:28:36] <head8debian> Canadian*
+[2016/01/08 20:28:41] <head8debian> Where in Canada?
+[2016/01/08 20:28:48] <polyphagia> the middle :P
+[2016/01/08 20:28:50] <polyphagia> manitoba
+[2016/01/08 20:29:15] <Tobbi> head8debian: Have you ever tried smoking *anything*, whether it's tobacco or weed?
+[2016/01/08 20:29:50] <polyphagia> tobacco gave me a headache and i never wanted it again
