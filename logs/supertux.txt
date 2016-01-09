@@ -41273,3 +41273,5 @@
 [2016/01/09 15:23:41] <Karkus> *5000
 [2016/01/09 15:24:13] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/09 15:29:43] <pentagon> [10supertux] Status for commit Revert "iterator -> const_iterator" by 07Tobias Markus: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/256
+[2016/01/09 15:31:46] <head8debian> o_O
+[2016/01/09 15:41:41] @ Quit: ced117: Ping timeout: 276 seconds
