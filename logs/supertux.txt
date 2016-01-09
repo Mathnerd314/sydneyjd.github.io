@@ -40740,3 +40740,119 @@
 [2016/01/09 12:29:18] <polyphagia> by people trying to contribute
 [2016/01/09 12:29:23] <mt> Karkus: example: http://supertux.lethargik.org/wiki/index.php?title=Download&action=history
 [2016/01/09 12:29:40] <Karkus> grumbel: Not an issue, we need to get rid of it.
+[2016/01/09 12:30:05] <mt> we should keep an archive of the wiki
+[2016/01/09 12:30:06] <Karkus> mt: Okay, fair enough
+[2016/01/09 12:30:08] <grumbel> Karkus: yes, but I would like to migrate the whole history, not just copy&paste the latest version
+[2016/01/09 12:30:08] <mt> old wiki
+[2016/01/09 12:30:11] <polyphagia> the wiki shows up often on google
+[2016/01/09 12:30:17] <polyphagia> people might stumble upon it by accident
+[2016/01/09 12:30:21] <polyphagia> it needs an archive warning
+[2016/01/09 12:30:22] <Tobbi> Oh, yeah.
+[2016/01/09 12:30:36] <polyphagia> or somebody could add it to archive.org
+[2016/01/09 12:30:39] <polyphagia> and we can just remove it
+[2016/01/09 12:30:41] <polyphagia> :P
+[2016/01/09 12:30:43] <mt> polyphagia: +1 for archive.org
+[2016/01/09 12:30:56] <polyphagia> i think it'd be too confusing for people trying to find out how to do things and being led to it
+[2016/01/09 12:31:06] <Tobbi> Problem with the old wiki is also a potentially vulnerable mediawiki version.
+[2016/01/09 12:31:12] <polyphagia> there's really no reason to archive it if we port over all the important content to the new wiki
+[2016/01/09 12:31:14] <mt> # ---- vote: import whole history to new wiki ----
+[2016/01/09 12:31:14] <Tobbi> Or is that up-to-date?
+[2016/01/09 12:31:20] <polyphagia> no
+[2016/01/09 12:31:21] <Tobbi> yes
+[2016/01/09 12:31:24] <mt> no
+[2016/01/09 12:31:26] <Hume2> no
+[2016/01/09 12:31:32] <Karkus> mt: What does that mean?
+[2016/01/09 12:31:38] <grumbel> yes
+[2016/01/09 12:31:44] <mt> Karkus: keep all the history in mediawiki in the new repo
+[2016/01/09 12:31:54] <Karkus> mt: As an archive?
+[2016/01/09 12:31:59] <mt> no
+[2016/01/09 12:32:01] <mt> not as an archive
+[2016/01/09 12:32:07] <Karkus> mt: As what?
+[2016/01/09 12:32:13] <mt> I don't know why
+[2016/01/09 12:32:27] <mt> I just think we need to start from scratch
+[2016/01/09 12:32:33] <polyphagia> agreed
+[2016/01/09 12:32:35] <mt> the old wiki contains too much bullshit
+[2016/01/09 12:32:42] <grumbel> as regular history, import old wiki into new, rebase new wiki ontop of old and be done with it
+[2016/01/09 12:32:43] <Hume2> What's the potential usage of this history?
+[2016/01/09 12:32:45] @ LMH joined channel #supertux
+[2016/01/09 12:32:45] @ Mode +v LMH by ChanServ
+[2016/01/09 12:32:51] <mt> and I don't even know if it's possible to keep the mediawiki history
+[2016/01/09 12:32:55] <Tobbi> Hello, LMH
+[2016/01/09 12:33:14] <Karkus> LMH: Current topic: Wiki.
+[2016/01/09 12:33:33] <polyphagia> one of the most useful pages on the old wiki was the level format
+[2016/01/09 12:33:33] <Hume2> I think that 50% of those pages would be rewritten anyway, so why keep the history?
+[2016/01/09 12:33:40] <LMH> Morning Tobbi, thanks Karkus
+[2016/01/09 12:33:47] <mt> grumbel: I wonder if it would be possible to get to history and all the old wiki uploaded to archive.org
+[2016/01/09 12:33:53] <mt> and then just start from scratch
+[2016/01/09 12:33:58] <Tobbi> LMH: In case you don't know, we're having a meeting right now.
+[2016/01/09 12:34:01] <mt> and we'll still have an archive of the history
+[2016/01/09 12:34:10] <Tobbi> It's been going on for the past 2.5 hours
+[2016/01/09 12:34:13] <grumbel> I'd much prefer to just have it in git
+[2016/01/09 12:34:13] <polyphagia> httrack mt :P
+[2016/01/09 12:34:15] <pentagon> [10supertux] 07brmbrmcar commented on issue 09#324: Butt jumping should do more damage to certain enemies 13http://git.io/vu5D3
+[2016/01/09 12:34:26] <LMH> Ya, thought I'd pop in
+[2016/01/09 12:34:37] @ mt set topic "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/01/09 12:34:44] <polyphagia> also Karkus can you tag my issue?
+[2016/01/09 12:35:03] <mt> grumbel: then all the history will be polluted with old content
+[2016/01/09 12:35:10] <polyphagia> oh mr iceblock too can be killed, i'll add that
+[2016/01/09 12:35:10] <mt> which isn't really what we want
+[2016/01/09 12:35:18] <pentagon> [10addons] 07brmbrmcar commented on issue 09#13: SuperTux 0.3.5a fails to parse repository file index-0_4_0.nfo 13http://git.io/vu5Vp
+[2016/01/09 12:35:41] <grumbel> mt: old history doesn't polute anything, as it will be deep down in the history where it belongs
+[2016/01/09 12:36:12] <mt> well, can you look if there's a way to import the old history?
+[2016/01/09 12:37:20] <mt> you could ask #mediawiki
+[2016/01/09 12:37:34] <Karkus> polyphagia: Mr Ice Block is already implemented in that regard
+[2016/01/09 12:38:07] <polyphagia> oh ok
+[2016/01/09 12:38:12] <polyphagia> not sure why he commented then
+[2016/01/09 12:38:14] <polyphagia> i'll edit it out
+[2016/01/09 12:38:15] <Tobbi> Is this our last topic?
+[2016/01/09 12:38:35] <Karkus> Tobbi: Yes, although there might be some to revisit.
+[2016/01/09 12:38:40] <Tobbi> Seems like it.
+[2016/01/09 12:38:41] <Tobbi> Okay.
+[2016/01/09 12:38:45] <Hume2> And does anyone want to revert anything that was edited in the wiki so far?
+[2016/01/09 12:38:52] <Tobbi> The wiki is huge.
+[2016/01/09 12:38:59] <Karkus> mt: You might want to update the M3 design document.
+[2016/01/09 12:38:59] <Tobbi> How would we know whether we want to revert something at this point.
+[2016/01/09 12:39:31] <Hume2> Do you feel like it?
+[2016/01/09 12:39:35] <mt> # ---- vote: what system should be used for the new wiki (github wiki (gollum)/readthedocs and github PRs) ----
+[2016/01/09 12:39:48] <Tobbi> I'm undecided.
+[2016/01/09 12:39:56] <Tobbi> So, no vote from me.
+[2016/01/09 12:40:00] <mt> I'd suggest readthedocs
+[2016/01/09 12:40:02] <mt> It's nice
+[2016/01/09 12:40:07] <Hume2> So b)
+[2016/01/09 12:40:08] <polyphagia> isn't readthedocs for python?
+[2016/01/09 12:40:10] <mt> and it's easy to manage contributions
+[2016/01/09 12:40:18] <mt> polyphagia: it uses sphinx
+[2016/01/09 12:40:19] <Karkus> Why does readthedocs need PRs?
+[2016/01/09 12:40:19] <grumbel> http://supertux.lethargik.org/wiki-dump-2016-01-09.xml
+[2016/01/09 12:40:28] <polyphagia> readthedocs isn't for wikis is it?
+[2016/01/09 12:40:35] <polyphagia> i thought it was mostly use for python documentation
+[2016/01/09 12:40:38] <polyphagia> used*
+[2016/01/09 12:40:47] <mt> polyphagia: it's for documentation, but we can also use it as contributor's wiki
+[2016/01/09 12:41:00] <polyphagia> oh
+[2016/01/09 12:41:01] <polyphagia> meh
+[2016/01/09 12:41:06] <polyphagia> i'd say github wiki
+[2016/01/09 12:41:07] <Karkus> mt: But is it a mess to contribute to?
+[2016/01/09 12:41:32] <mt> It's changing reStructuredText files (similar format to markdown)
+[2016/01/09 12:42:06] <Karkus> mt: Is there an edit button?
+[2016/01/09 12:42:09] <Karkus> like the wikis?
+[2016/01/09 12:42:14] <Karkus> Or do you have to use git?
+[2016/01/09 12:42:21] <mt> no, you'd contribute as pull requests
+[2016/01/09 12:42:31] <mt> which is actually quite a nice way for moderating the wiki
+[2016/01/09 12:42:32] <Karkus> mt: That's bad
+[2016/01/09 12:42:42] <mt> it's not that hard and not that abusable
+[2016/01/09 12:42:50] <Karkus> mt: No, we want everyone to be able to contribute
+[2016/01/09 12:42:58] <Karkus> Even if they don't know git
+[2016/01/09 12:43:00] <mt> then the history will be polluted
+[2016/01/09 12:43:09] <mt> as they don't know how to correctly set commit messages
+[2016/01/09 12:43:20] <Karkus> mt: Why do we need the history?
+[2016/01/09 12:43:30] <Hume2> You know, all those people saying that they don't understand git...
+[2016/01/09 12:43:32] <mt> because it might be useful for people
+[2016/01/09 12:43:45] <Karkus> mt: In what circumstances?
+[2016/01/09 12:44:03] <mt> archiving is sadly forgotten in this digital world. why not preserve the project's history?
+[2016/01/09 12:44:08] <Karkus> I vote GitHub
+[2016/01/09 12:44:32] <Karkus> mt: I'm not against archiving.
+[2016/01/09 12:44:46] <Karkus> Actually, I retract my vote.
+[2016/01/09 12:44:50] <mt> yes but the git history of gollum will be polluted as hell
+[2016/01/09 12:44:51] <Karkus> I'm undecided.
+[2016/01/09 12:44:53] <mt> really
+[2016/01/09 12:44:53] @ andre__ joined channel #supertux
