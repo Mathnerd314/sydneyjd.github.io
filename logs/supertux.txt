@@ -39375,3 +39375,6 @@
 [2016/01/09 02:21:12] @ datahead8888_ joined channel #supertux
 [2016/01/09 02:24:00] @ Quit: datahead8888: Ping timeout: 260 seconds
 [2016/01/09 02:45:12] @ Quit: tux|dude: Ping timeout: 265 seconds
+[2016/01/09 03:02:13] @ tux|dude joined channel #supertux
+[2016/01/09 03:09:06] @ Quit: tux|dude: Ping timeout: 240 seconds
+[2016/01/09 03:14:42] @ tux|dude joined channel #supertux
