@@ -40437,3 +40437,91 @@
 [2016/01/09 11:44:38] <Hume2> Tobbi: That way it needs water physics.
 [2016/01/09 11:44:45] <polyphagia> also the sound effect i dug up for burning in the issue comment would be satisfying to hear as well
 [2016/01/09 11:44:49] <Tobbi> You're right, might be fairly difficult.
+[2016/01/09 11:45:28] @ bb010g joined channel #supertux
+[2016/01/09 11:46:16] <Karkus> Everyone: Can we move this discussion to the relevant issues?
+[2016/01/09 11:46:27] <Tobbi> yes....let's carry on.
+[2016/01/09 11:46:33] <Hume2> So Burning.
+[2016/01/09 11:46:54] <Hume2> I think that that sound could be implemented.
+[2016/01/09 11:46:55] <Karkus> Hume2: It needs to be a particle effect: next.
+[2016/01/09 11:46:59] <Karkus> + sound.
+[2016/01/09 11:47:13] <Karkus> Freezing
+[2016/01/09 11:47:19] <Karkus> Should be generalised.
+[2016/01/09 11:47:26] <Hume2> We are still at burning.
+[2016/01/09 11:47:27] @ Quit: greatjulius: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/01/09 11:47:39] <Karkus> Hume2: No, we are at freezing.
+[2016/01/09 11:47:49] <Karkus> Burning has been discussed already.
+[2016/01/09 11:48:06] <Hume2> Karkus: We can change the topic only when noone has anything to say, but well, freezing.
+[2016/01/09 11:48:19] <Tobbi> I'm okay with not animating freezing... since it happens instantly.
+[2016/01/09 11:48:27] <Tobbi> But the graphics for that could need an overhaul, IMO
+[2016/01/09 11:48:50] <Hume2> Yes, it could be improved.
+[2016/01/09 11:49:16] <Tobbi> That could be something for a graphics designer.
+[2016/01/09 11:49:23] <Tobbi> It's a well-defined task, IMO
+[2016/01/09 11:49:30] <Hume2> Yes, it is.
+[2016/01/09 11:49:42] <mt> back
+[2016/01/09 11:49:44] <Tobbi> So, let's post on our social media channels about this.
+[2016/01/09 11:50:48] <Hume2> OK.
+[2016/01/09 11:51:01] <Hume2> Other ideas?
+[2016/01/09 11:51:04] <grumbel> personally I would just remove all the actions, as they are useless.
+[2016/01/09 11:51:18] <mt> well, if we had effects freezing would be easier to do for new badguys
+[2016/01/09 11:51:30] <Tobbi> What actions? melting, freezing, burning?
+[2016/01/09 11:51:34] <Tobbi> IMO they add variety...
+[2016/01/09 11:51:45] <Hume2> Agreed.
+[2016/01/09 11:51:48] <mt> freezing is neccessary, else badguys will look ugly
+[2016/01/09 11:51:57] <mt> frozen badguys, of course
+[2016/01/09 11:52:06] <Hume2> Yes. I know how it looks like.
+[2016/01/09 11:52:10] <polyphagia> freezing is fine if it does something different imo
+[2016/01/09 11:52:13] <polyphagia> like look at nsmb
+[2016/01/09 11:52:16] <polyphagia> they turn into ice blocks
+[2016/01/09 11:52:22] <polyphagia> and you can ground pound them
+[2016/01/09 11:52:26] <polyphagia> sometimes pick them up
+[2016/01/09 11:52:44] <polyphagia> you can even freeze an enemy mid-air for a few seconds
+[2016/01/09 11:52:45] <grumbel> Tobbi: they serve no purpose, they just exist, but aren't really relevant to the gameplay
+[2016/01/09 11:52:50] <polyphagia> this could be used to find secrets
+[2016/01/09 11:52:53] <Hume2> Freezing should freeze, not make ice from nothing.
+[2016/01/09 11:53:00] <Karkus> grumbel: Neither are background images
+[2016/01/09 11:53:04] <Karkus> Let's remove those.
+[2016/01/09 11:53:10] <polyphagia> well it could still freeze the enemy but be useful to the game i'm saying
+[2016/01/09 11:53:18] <Karkus> *sarcasm
+[2016/01/09 11:53:30] <Hume2> polyphagia: Rocks for free!
+[2016/01/09 11:53:43] <Hume2> It could make levels easier.
+[2016/01/09 11:54:02] <polyphagia> well
+[2016/01/09 11:54:08] <polyphagia> that's why ice flower isn't given away in every level Hume2
+[2016/01/09 11:54:14] <polyphagia> some might have to be changed
+[2016/01/09 11:54:18] <polyphagia> not sure
+[2016/01/09 11:55:00] <Hume2> When I wanted to do it, Tobbi didn'y like it, but maybe he changed his opinion.
+[2016/01/09 11:55:02] <polyphagia> but  idon't think they should be as free as rocks
+[2016/01/09 11:55:15] <polyphagia> maybe like a temporary platform that breaks easily?
+[2016/01/09 11:55:24] <grumbel> Karkus: the point is that those actions add a ton of complications without providing any value
+[2016/01/09 11:55:29] <Tobbi> Hume2: What specifically are we talking about? I didn't like so many things you did :D
+[2016/01/09 11:55:30] <polyphagia> kind of like dunking something in liquid nitrogen Hume2
+[2016/01/09 11:55:30] <Tobbi> :P
+[2016/01/09 11:55:32] <polyphagia> is what i'm thinking
+[2016/01/09 11:55:42] <Karkus> grumbel: To some extent, I agree.
+[2016/01/09 11:55:47] <polyphagia> very brittle but useful for a few things perhaps
+[2016/01/09 11:56:31] <Karkus> I think if you jump on them, they should shatter.
+[2016/01/09 11:56:36] <grumbel> Adding even more graphics and stuff on top of them doesn't make the game better, it makes it just harder to make a good game out of it as the resistance to change increases
+[2016/01/09 11:57:02] <Karkus> grumbel: What do you want to be removed?
+[2016/01/09 11:57:08] <polyphagia> yeah Karkus that would be a good idea
+[2016/01/09 11:57:26] <Hume2> There's already that shatter animation that Tobbi doesn't like...
+[2016/01/09 11:57:34] <Tobbi> Ah, that one.
+[2016/01/09 11:57:36] <polyphagia> shattering could be an effect
+[2016/01/09 11:57:48] <polyphagia> a frozen enemy could be diced into pieces and scattered
+[2016/01/09 11:57:49] <polyphagia> like breaking a box
+[2016/01/09 11:57:50] <Tobbi> Hume2: I prefer individual shattering images for each badguys...
+[2016/01/09 11:58:00] <polyphagia> oh ok
+[2016/01/09 11:58:03] <polyphagia> either way is fine
+[2016/01/09 11:58:06] <polyphagia> i don't really mind
+[2016/01/09 11:58:17] <Tobbi> Like the shattering of that one crystal badguy.
+[2016/01/09 11:58:21] <Tobbi> But, we can decide on that later.
+[2016/01/09 11:58:30] <Tobbi> As I said; I do not want to be a lead figure for any of you.
+[2016/01/09 11:58:33] <Karkus> Tobbi: Why? That just scares off graphics artists.
+[2016/01/09 11:58:52] <polyphagia> i mean we could always try and see. it should be possible to make a pretty nice looking effect
+[2016/01/09 11:58:53] <Tobbi> Karkus: It might look better...the shattering effect was coded.
+[2016/01/09 11:58:57] <Tobbi> iirc.
+[2016/01/09 11:59:07] <Tobbi> The shattering of the box graphics.
+[2016/01/09 11:59:12] <Hume2> Yes.
+[2016/01/09 11:59:18] <polyphagia> there's a few ways to go about programmatic shatter effect
+[2016/01/09 11:59:38] <polyphagia> and shattering for each enemy manually is a lot of work
+[2016/01/09 11:59:50] <polyphagia> even if it did look a little better
+[2016/01/09 11:59:56] <Karkus> # ---- vote: should the shattering effect be coded? ----
+[2016/01/09 12:00:01] <polyphagia> yes
