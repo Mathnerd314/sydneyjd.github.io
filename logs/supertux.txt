@@ -41123,3 +41123,5 @@
 [2016/01/09 13:56:00] <mt> we need more contributors ourselves
 [2016/01/09 13:59:12] @ Quit: luizrpgluiz: 
 [2016/01/09 13:59:44] <Tobbi> hmm...
+[2016/01/09 14:14:53] @ Karkus joined channel #supertux
+[2016/01/09 14:14:53] @ Mode +o Karkus by ChanServ
