@@ -38936,3 +38936,15 @@
 [2016/01/08 18:54:16] <pentagon> [10supertux] 07tobbi 14fa82bd9 Fix tile IDs of storm-cloud.png
 [2016/01/08 18:54:18] <pentagon> [10supertux] 07Hume2 14256b18c Fixed: Goldbomb doesn't collide with bullets when ticking.
 [2016/01/08 19:13:35] <pentagon> [10supertux] Status for commit Fixed: Goldbomb doesn't collide with bullets when ticking. by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/254
+[2016/01/08 19:17:42] <jesusalva> Tobbi: Just take care so pentagon don't spams so much as manaplusbot
+[2016/01/08 19:17:57] <Tobbi> yay.
+[2016/01/08 19:18:03] <Tobbi> jesusalva: I can't.
+[2016/01/08 19:18:06] <Tobbi> Not in my might.
+[2016/01/08 19:18:40] <jesusalva> There are days that Manaplusbot posts no less than 100 messages, and it must wait 3 seconds between one and other because of flood protection.
+[2016/01/08 19:20:38] <Tobbi> Hmm, coverity tells me the build is already in for analysis.
+[2016/01/08 19:20:38] @ polyphagia joined channel #supertux
+[2016/01/08 19:21:16] <Tobbi> damn this.
+[2016/01/08 19:21:40] <pentagon> [10supertux] Status for commit Fixed: Goldbomb doesn't collide with bullets when ticking. by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/101190768
+[2016/01/08 19:25:09] <Tobbi> And it's running!"
+[2016/01/08 19:25:16] <Tobbi> May the coverity build be with us.
+[2016/01/08 19:25:41] @ Quit: polyphagia: Ping timeout: 246 seconds
