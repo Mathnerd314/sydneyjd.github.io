@@ -39406,3 +39406,11 @@
 [2016/01/09 06:44:52] @ Mode +o Tobbi by ChanServ
 [2016/01/09 07:03:20] @ Quit: tux|dude: Quit: Leaving
 [2016/01/09 07:18:26] @ datahead8888_ is now known as datahead7777
+[2016/01/09 07:32:11] @ jesusalva joined channel #supertux
+[2016/01/09 07:32:23] <jesusalva> Hello!
+[2016/01/09 07:33:17] <Tobbi> hello jesusalva
+[2016/01/09 07:34:15] <jesusalva> How's it going, Tobbi?
+[2016/01/09 07:34:22] <Tobbi> jesusalva: It's going alright.
+[2016/01/09 07:34:34] <jesusalva> Good to hear. :)
+[2016/01/09 07:34:40] <Tobbi> datahead7777: Was what I said in #secretchronicles really that uncalled for?
+[2016/01/09 07:38:01] <datahead7777> Tobbi, PM
