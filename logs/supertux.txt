@@ -39422,3 +39422,5 @@
 [2016/01/09 08:05:47] @ Mode +o Karkus by ChanServ
 [2016/01/09 08:15:04] <Tobbi> hello Karkus
 [2016/01/09 08:15:14] <Karkus> Hello, Tobbi
+[2016/01/09 08:31:20] @ Quit: jesusalva: Quit: Good bye, God bless you.
+[2016/01/09 08:41:51] <pentagon> [10flexlay] 07Karkus476 opened issue 09#71: Undo/Redo Crash 13http://git.io/vu7df
