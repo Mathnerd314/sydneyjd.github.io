@@ -41286,3 +41286,38 @@
 [2016/01/09 16:02:43] @ Quit: grumbel: Quit: Ex-Chat
 [2016/01/09 16:03:28] <Tobbi> Why does coverity include things in /usr or /Applications/XCode.app/ into the scan?
 [2016/01/09 16:14:16] <pentagon> [10supertux] Status for commit Revert "Fix copy & paste issues in levelintro" by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/101314355
+[2016/01/09 16:16:59] @ swift110 joined channel #supertux
+[2016/01/09 16:18:00] <pentagon> [10supertux] Status for commit Revert "Fix copy & paste issues in levelintro" by 07Tobias Markus: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/257
+[2016/01/09 16:19:11] @ Quit: swift110: Changing host
+[2016/01/09 16:19:12] @ swift110 joined channel #supertux
+[2016/01/09 16:22:11] <pentagon> [10SuperTux.github.io] 07Karkus476 pushed 1 commit to 09master 13http://git.io/vud5J
+[2016/01/09 16:22:12] <pentagon> [10SuperTux.github.io] 07Karkus476 1487515b7 Website updates 2016-01-09
+[2016/01/09 16:23:37] <polyphagia> somebody on a mac forgot to add .DS_Store to ~/.gitignore :P
+[2016/01/09 16:24:12] <Tobbi> Could've been me.
+[2016/01/09 16:24:30] <Karkus> Tobbi: Check out the updated screenshots page https://supertuxproject.org/screenshots.html
+[2016/01/09 16:24:39] <Karkus> s/https/http/
+[2016/01/09 16:24:39] <red_bot> Karkus meant: "Tobbi: Check out the updated screenshots page http://supertuxproject.org/screenshots.html"
+[2016/01/09 16:25:15] <Tobbi> Karkus: Looks good. Are there any other features that might need showcasting?
+[2016/01/09 16:25:34] <Tobbi> *showcasing
+[2016/01/09 16:25:44] <Tobbi> s/showcasting/showcasing/
+[2016/01/09 16:25:44] <red_bot> Tobbi: You did something wrong... Try s/you/me/ or tell me "help sed"
+[2016/01/09 16:25:50] <Tobbi> yes, nvm
+[2016/01/09 16:26:07] <maths22> Tobbi: Are you having a conversation with a bot?
+[2016/01/09 16:26:10] <Karkus> Tobbi: I showcased a few, maybe more are needed.
+[2016/01/09 16:26:13] <polyphagia> Karkus: i think a photo of ingame hallown 2014 would be nice
+[2016/01/09 16:26:15] <maths22> Also, why is red_bot an op?
+[2016/01/09 16:26:16] <Tobbi> maths22: I don
+[2016/01/09 16:26:20] <polyphagia> since that level has a lot of really nice graphic effects
+[2016/01/09 16:26:24] <polyphagia> and some unique tiles
+[2016/01/09 16:26:25] <pentagon> [10htdocs] 07Karkus476 pushed 1 commit to 09master 13http://git.io/vuddE
+[2016/01/09 16:26:26] <pentagon> [10htdocs] 07Karkus476 140e4f856 Removed file and references to authors.html, updated screenshots
+[2016/01/09 16:26:26] <Tobbi> 't know what "Are you having a conversation with a bot" is supposed to mean.
+[2016/01/09 16:26:27] <polyphagia>  / enemies
+[2016/01/09 16:26:30] <Karkus> maths22: We've gone through this: He shouldn't be.
+[2016/01/09 16:26:32] <polyphagia> halloween*
+[2016/01/09 16:26:36] <polyphagia> not sure what happened to my e key :P
+[2016/01/09 16:26:45] <maths22> Karkus: I didn't remember going through this-sorry
+[2016/01/09 16:26:50] <Karkus> polyphagia: Hmm, maybe. Not now I've gtg
+[2016/01/09 16:27:06] <Karkus> maths22: No, that's okay. You weren't there :D
+[2016/01/09 16:27:15] <Karkus> You should tell head8debian off.
+[2016/01/09 16:28:16] <Tobbi> By the way: Do you guys want me to create the data repository now?
