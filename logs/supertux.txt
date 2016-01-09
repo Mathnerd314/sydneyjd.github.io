@@ -39761,3 +39761,117 @@
 [2016/01/09 10:14:47] <mt> yes
 [2016/01/09 10:14:50] <Karkus> But I also think we should get rid of tonnes of levels
 [2016/01/09 10:14:51] <mt> and some levels, I guess
+[2016/01/09 10:15:14] <Karkus> Most of them are repetitive, and the good ones are creative but messy
+[2016/01/09 10:15:25] <Tobbi> Are we talking about getting rid of ones in Hume's rainbow cave or overall?
+[2016/01/09 10:15:39] <Karkus> Tobbi: We are talking about the forest world.
+[2016/01/09 10:15:43] <mt> Tobbi: no, maths22 mentioned that
+[2016/01/09 10:15:47] <maths22> mt: More or less hub and spoke
+[2016/01/09 10:15:56] <Tobbi> Hmm, okay...
+[2016/01/09 10:15:59] <mt> can you screenshot?
+[2016/01/09 10:16:11] <giby> Well, we should discuss about game progression
+[2016/01/09 10:16:11] <maths22> mt: sure
+[2016/01/09 10:16:23] <Tobbi> btw: I added these three points to the meeting notes:
+[2016/01/09 10:16:23] <Karkus> giby: Too broad a subject.
+[2016/01/09 10:16:33] <Tobbi> Release process was rather bumpy IMO, how do we make this smoother?
+[2016/01/09 10:16:33] <Tobbi> Scripting additions to make more interesting levels
+[2016/01/09 10:16:33] <Tobbi> What do interesting levels actually comprise?
+[2016/01/09 10:16:45] <Tobbi> So, maybe if we could discuss them at the end...
+[2016/01/09 10:16:58] <giby> some elements should appear only from world 2 or world 3
+[2016/01/09 10:17:05] <Karkus> giby: Yes.
+[2016/01/09 10:17:14] <Hume2> Doors?
+[2016/01/09 10:17:19] <Karkus> giby: Maybe earth powerup
+[2016/01/09 10:17:50] <datahead7777> You could look at having the game connect to a server application for levels.  Then you won't have to get rid of any levels but will not have to package a lot of user contributed levels with the game.
+[2016/01/09 10:18:07] <datahead7777> People could then post their levels to the server and share them with the community
+[2016/01/09 10:18:08] <maths22> Tobbi: What do you mean?
+[2016/01/09 10:18:11] <datahead7777> They could also be viewed by the website
+[2016/01/09 10:18:14] <Tobbi> maths22: Mean by what?
+[2016/01/09 10:18:17] <maths22> datahead7777: that is the future plan to replace the addon system
+[2016/01/09 10:18:18] <Karkus> datahead7777: Hmmm
+[2016/01/09 10:18:19] <giby> for exemple, trampoline should appear in forest and not In Iceland, doors too... We can decide moving coins should appear in world 3 etc
+[2016/01/09 10:18:20] <mt> datahead7777: well, the main levels are included in the game, addons are hosted on github dynamically
+[2016/01/09 10:18:30] <maths22> Tobbi: Sorry-about the release process needing to be smoother
+[2016/01/09 10:18:36] <maths22> mt:  http://snag.gy/m8iJH.jpg
+[2016/01/09 10:18:59] <Tobbi> maths22: Hmm. Maybe I am mistaken...? Maybe it was just me... But a lot of last minute fixes went in.
+[2016/01/09 10:19:11] <Tobbi> Actually, it could've only been me and my last minute changes :D
+[2016/01/09 10:19:14] <Tobbi> I will remove that point.
+[2016/01/09 10:19:25] <Karkus> Tobbi: Last minute fixes are what a release is :P
+[2016/01/09 10:19:25] <mt> well, the homebrew packaging also needed a fix
+[2016/01/09 10:19:39] <mt> but that'd have worked fine as a patch in homebrew
+[2016/01/09 10:19:45] <Karkus> datahead7777: I love the idea, but hosting is a problem.
+[2016/01/09 10:19:50] <Tobbi> Okay, let's carry on...
+[2016/01/09 10:20:02] <Karkus> So, we need to implement the "Ghost forest" concetp
+[2016/01/09 10:20:10] <Karkus> s/concetp/concept/
+[2016/01/09 10:20:10] <red_bot> Karkus meant: "So, we need to implement the "Ghost forest" concept"
+[2016/01/09 10:20:11] <maths22> mt: That is true, but mostly because homebrew isn't quite building like normal OS X, nor do we want it to behave like a normal UNIXy system
+[2016/01/09 10:20:22] <Hume2> *sigh*
+[2016/01/09 10:20:27] <maths22> Karkus: What do you mean by the "ghost forest" concept?
+[2016/01/09 10:20:31] <Tobbi> Karkus: We have been thinking about adding that website where people can contribute their levels... and linking it to the editor.
+[2016/01/09 10:20:37] <Tobbi> I will add that as a point to the roadmap
+[2016/01/09 10:20:51] <Hume2> OK, Ghost forest.
+[2016/01/09 10:21:05] <Karkus> maths22: As in, only 2 levels are actually "Ghost forest"
+[2016/01/09 10:21:13] <giby> Tobbi, Karkus I think we decided it should be submitted on the forum
+[2016/01/09 10:21:20] <mt> that's not even real ghost forest
+[2016/01/09 10:21:28] <mt> the tileset for that is ugly
+[2016/01/09 10:21:32] <Hume2> So more ghost forest levels.
+[2016/01/09 10:21:55] <Karkus> giby: But, in honesty, only about 5 people know anything about level editing
+[2016/01/09 10:22:03] <maths22> giby: We were considering eventually replacing with a system which combines the addon manager repo, the old community submission website, and integrates the level editor
+[2016/01/09 10:22:11] <maths22> Of coruse, this is a long-term goal
+[2016/01/09 10:22:11] <datahead7777> I'd be curious to learn more about the add on system / your plan for levels on a server, but I don't want to interrupt your discussion
+[2016/01/09 10:22:24] <grumbel> The idea behind the original ghost forest was that it would be some kind of MarioBros2'ish shadow world that you can travel to from the regular world
+[2016/01/09 10:22:27] <mt> maths22: and we'd need a better server, one we can rely on
+[2016/01/09 10:22:28] <Tobbi> datahead7777: I have added a point behind "level editor".
+[2016/01/09 10:22:34] <Tobbi> eeh subordinate to level editor.
+[2016/01/09 10:22:35] <maths22> mt: Than what server?
+[2016/01/09 10:22:41] <Tobbi> So, we can discuss it when necessary.
+[2016/01/09 10:22:52] <mt> than brlcad.org and mine, I guess
+[2016/01/09 10:22:57] <maths22> mt: OK
+[2016/01/09 10:23:02] <Hume2> Please on topic.
+[2016/01/09 10:23:14] <Hume2> We now dicuss Ghost forest, don't we?
+[2016/01/09 10:23:29] <mt> Hume2: well, discussing things that come up can be on topic
+[2016/01/09 10:23:31] <Tobbi> Yes.
+[2016/01/09 10:23:34] <mt> but, ok, ghost forest
+[2016/01/09 10:24:07] <Karkus> Ghost forest. We need a good transition
+[2016/01/09 10:24:12] <Hume2> Agreed.
+[2016/01/09 10:24:17] <mt> yeah
+[2016/01/09 10:24:27] <mt> there should be some cutscene
+[2016/01/09 10:24:40] <Karkus> So, should it be in the worldmap or in the levels?
+[2016/01/09 10:24:47] <Hume2> Or you can enter a tree and then leave in the ghost forest.
+[2016/01/09 10:24:58] <Tobbi> Is anyone taking notes, by the way?
+[2016/01/09 10:25:04] <maths22> Also, the implementation of ghost forest in those levels feels really hacky-it requires two copies of the level map
+[2016/01/09 10:25:05] <Tobbi> Sorry, I should've asked that before.
+[2016/01/09 10:25:14] <mt> Tobbi: I'm logging this, head8debian is as well
+[2016/01/09 10:25:18] <maths22> Tobbi: I kind of figure we can review the logs after to compile something good
+[2016/01/09 10:25:19] <Hume2> I think, there should be one transit level.
+[2016/01/09 10:25:28] <maths22> I'm always logging :) (IRSSI setting)
+[2016/01/09 10:25:29] <Karkus> mt: No one wants to search through the logs
+[2016/01/09 10:25:30] <Tobbi> mt: Good, action items can be devised after the logs have been reviewd.
+[2016/01/09 10:25:42] <Hume2> I'll note something too.
+[2016/01/09 10:25:52] <Karkus> Once we're done, someone post the log on the wiki.
+[2016/01/09 10:25:56] <Tobbi> Okay...
+[2016/01/09 10:25:58] <Tobbi> And to the forums.
+[2016/01/09 10:26:03] <Tobbi> And the usual communication channels.
+[2016/01/09 10:26:08] <Tobbi> Okay, let's carry on.
+[2016/01/09 10:26:20] <Hume2> OK, the ghost forest transition.
+[2016/01/09 10:26:38] <Karkus> So, what causes the transition?
+[2016/01/09 10:26:45] <Hume2> Well...
+[2016/01/09 10:26:49] <Tobbi> I'm sorry, but what transition are we talking about?
+[2016/01/09 10:26:57] <Hume2> wibbly wobbly timey wimey...
+[2016/01/09 10:27:03] <Tobbi> What?
+[2016/01/09 10:27:19] <grumbel> Tobbi: http://supertux.lethargik.org/wiki/File:Ghost-portal.jpg
+[2016/01/09 10:28:07] <maths22> I personally think the ghost forest should be a section of the worldmap
+[2016/01/09 10:28:19] <giby> Karkus, I can edit levels.... If there were a fucking level editor!!!
+[2016/01/09 10:28:23] <maths22> I.E. there should be a ghost-forest section, where all the levels are ghost-forest
+[2016/01/09 10:28:30] <mt> giby: tried flexlay
+[2016/01/09 10:28:39] <mt> https://twitter.com/supertux_team/status/685845456346296320
+[2016/01/09 10:28:41] <giby> IT DOES NOT WORK!!!
+[2016/01/09 10:28:52] <mt> giby: what does not work?
+[2016/01/09 10:28:59] <Karkus> giby: Nothing works!
+[2016/01/09 10:29:17] <grumbel> giby: fill bug reports
+[2016/01/09 10:29:19] <maths22> Please discuss this later
+[2016/01/09 10:29:22] <mt> anyway, level editor, off topic
+[2016/01/09 10:29:34] <mt> move on to the ghost forest transition
+[2016/01/09 10:29:35] <Karkus> mt: Not technically, it's on the list
+[2016/01/09 10:29:38] <Karkus> mt: Okay
+[2016/01/09 10:29:41] <mt> but not now
+[2016/01/09 10:29:43] <grumbel> Anyway, I agree with giby, I think discussing extra content is a bit premature
+[2016/01/09 10:29:58] <grumbel> I'd prefer smoothing the stuff out that already exists
