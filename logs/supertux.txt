@@ -39461,3 +39461,67 @@
 [2016/01/09 09:13:22] <Tobbi> ok
 [2016/01/09 09:14:23] @ benjamin__ joined channel #supertux
 [2016/01/09 09:14:53] @ benjamin__ is now known as ultimategiby
+[2016/01/09 09:15:18] <Karkus> red_bot: figlet test
+[2016/01/09 09:15:18] <red_bot>   __            __ 
+[2016/01/09 09:15:18] <red_bot>  / /_ ___  ___ / /_
+[2016/01/09 09:15:18] <red_bot> / __// -_)(_-</ __/
+[2016/01/09 09:15:18] <red_bot> \__/ \__//___/\__/
+[2016/01/09 09:15:26] <ultimategiby> I had register that one too
+[2016/01/09 09:15:35] <ultimategiby> ~figlet GiBy
+[2016/01/09 09:15:35] <red_bot>   _____ _  ___       
+[2016/01/09 09:15:35] <red_bot>  / ___/(_)/ _ ) __ __
+[2016/01/09 09:15:35] <red_bot> / (_ // // _  |/ // /
+[2016/01/09 09:15:35] <red_bot> \___//_//____/ \_, / 
+[2016/01/09 09:15:35] <red_bot>               /___/
+[2016/01/09 09:15:36] <Tobbi> ultimategiby: S T O P
+[2016/01/09 09:15:50] <Tobbi> When we're here discussing inappropriate behaviour.
+[2016/01/09 09:16:01] <mt> ultimategiby: freenode pruned old nicks out of their DB in October
+[2016/01/09 09:16:15] <ultimategiby> ~figlet What should I Stop?
+[2016/01/09 09:16:15] <red_bot>  _      __ __         __         __              __    __  ____
+[2016/01/09 09:16:15] <red_bot> | | /| / // /  ___ _ / /_  ___  / /  ___  __ __ / /___/ / /  _/
+[2016/01/09 09:16:15] <red_bot> | |/ |/ // _ \/ _ `// __/ (_-< / _ \/ _ \/ // // // _  / _/ /  
+[2016/01/09 09:16:15] <red_bot> |__/|__//_//_/\_,_/ \__/ /___//_//_/\___/\_,_//_/ \_,_/ /___/  
+[2016/01/09 09:16:15] <red_bot>                                                                
+[2016/01/09 09:16:15] <red_bot>    ____ __             ___ 
+[2016/01/09 09:16:15] <red_bot>   / __// /_ ___   ___ /__ \
+[2016/01/09 09:16:15] <red_bot>  _\ \ / __// _ \ / _ \ /__/
+[2016/01/09 09:16:15] <red_bot> /___/ \__/ \___// .__/(_)  
+[2016/01/09 09:16:15] <red_bot>                /_/
+[2016/01/09 09:16:23] @ You have been kicked from #supertux by mt (Your behavior is not conducive to the desired environment.)
+[2016/01/09 09:16:24] <red_bot> mt: you hurt my feelings
+[2016/01/09 09:16:36] @ Joined channel #supertux
+[2016/01/09 09:16:36] @ Topic is "IRC meeting Jan 9, 15:00 GMT | https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/01/09 09:16:36] @ Topic set by mt!~mteufel@unaffiliated/supermat on 2015-12-25 13:52:03 -0500
+[2016/01/09 09:16:37] @ Mode +o red_bot by ChanServ
+[2016/01/09 09:16:39] @ Mode +Cnptj 5:10 by leguin.freenode.net
+[2016/01/09 09:17:04] <mt> haha
+[2016/01/09 09:17:20] <ultimategiby> red_bot,  is the bot of head8debian, no?
+[2016/01/09 09:17:24] <mt> yeah
+[2016/01/09 09:17:50] <Karkus> mt: No offense, of course...
+[2016/01/09 09:17:55] <head8debian> *facepalm*...
+[2016/01/09 09:18:26] @ Mode +v ultimategiby by mt
+[2016/01/09 09:18:49] <red_bot> Sorry mt, but i was invoked to insult you. Please accept my appology.
+[2016/01/09 09:20:18] <polyphagia> hey friends
+[2016/01/09 09:20:28] <head8debian> Welcom polyphagia.
+[2016/01/09 09:20:45] <head8debian> Karkus: He is linked to my account, but he is not hurting anything by being op'ed.
+[2016/01/09 09:24:27] <Karkus> Any preferences where we should start? https://github.com/SuperTux/supertux/issues/292
+[2016/01/09 09:25:10] <giby> let's say we wait the starting time
+[2016/01/09 09:25:25] <Tobbi> 30 minutes.
+[2016/01/09 09:26:21] <Tobbi> Karkus: I'd assume that "QPainter::begin: Painter already active" has probably nothing to do with the traceback after.
+[2016/01/09 09:26:52] <Karkus> Tobbi: It's probably caused by the crash
+[2016/01/09 09:27:01] <Tobbi> oh, yeah, probably.
+[2016/01/09 09:27:05] <mt> #292 > - [ ] Water physics? Melting/Burning/Freezing animations?
+[2016/01/09 09:27:10] <giby> Who put a voice on ultimategiby?
+[2016/01/09 09:27:11] <mt> isn't one part of that already done
+[2016/01/09 09:27:18] <mt> giby: that was me
+[2016/01/09 09:27:50] <mt> seems to be you, and voice can't do anything bad
+[2016/01/09 09:28:22] <Karkus> But, wouldn't he have been opped?
+[2016/01/09 09:28:31] <giby> mt: Have you put just a +v or auto +V ?
+[2016/01/09 09:28:45] <mt> a manual /mode #supertux +v ultimategiby
+[2016/01/09 09:29:08] <Tobbi> mt: The graphics need to be revised...
+[2016/01/09 09:29:19] <Tobbi> It's a shame that Hume2 isn't here.
+[2016/01/09 09:29:28] <mt> Tobbi: ah, well let's wait
+[2016/01/09 09:29:32] <Tobbi> ok
+[2016/01/09 09:29:37] <giby> Karkus, mt: as it is unregister it should not be auto-op else anyone could use it and get voice in the chanel
+[2016/01/09 09:29:41] <mt> I guess Hume2 could still show up
+[2016/01/09 09:29:57] <Karkus> giby: We know :D
