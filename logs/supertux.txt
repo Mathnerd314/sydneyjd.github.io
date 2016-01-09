@@ -41143,3 +41143,64 @@
 [2016/01/09 14:40:38] <mt> you can also wontfix it
 [2016/01/09 14:40:57] <mt> >'wontfix' >as a verb >lol
 [2016/01/09 14:43:12] @ Quit: lumidify: Quit: Leaving
+[2016/01/09 14:45:02] <Karkus> mt: Phew, there's a lot of work to be done before 0.5.0
+[2016/01/09 14:45:37] <mt> even before 0.4.1
+[2016/01/09 14:46:18] <Karkus> mt: Yes.
+[2016/01/09 14:47:35] <Karkus> mt: I think I will focus on Flexlay for now, though.
+[2016/01/09 14:47:49] <Tobbi> Sounds good.
+[2016/01/09 14:47:54] <Tobbi> Flexlay is top prio.
+[2016/01/09 14:48:08] <mt> 0.4.1 is also top prio
+[2016/01/09 14:48:28] <Tobbi> right.
+[2016/01/09 14:48:31] <Tobbi> :)
+[2016/01/09 14:49:05] <Karkus> Tobbi: Should I update this page? http://supertuxproject.org/authors.html
+[2016/01/09 14:49:19] <Tobbi> Karkus: yes, please.
+[2016/01/09 14:49:23] <mt> Karkus: go ahead and remove it in its entirety
+[2016/01/09 14:49:46] <mt> it doesn't serve any purpose and is hard to keep up to date
+[2016/01/09 14:49:56] <Karkus> Tobbi: That's a good point.
+[2016/01/09 14:50:07] <Tobbi> Oh, yes
+[2016/01/09 14:50:10] <Tobbi> Remove would be better.
+[2016/01/09 14:50:17] <Tobbi> We have authors in the game itself.
+[2016/01/09 14:50:31] <Karkus> Tobbi: Okay.
+[2016/01/09 14:51:09] <Karkus> I will update the screenshots page, too
+[2016/01/09 14:51:21] <Tobbi> Sounds good.
+[2016/01/09 14:52:03] <Karkus> Tobbi: Damn, we didn't discuss the whole supertux3 thing.
+[2016/01/09 14:52:09] <Tobbi> Oh!
+[2016/01/09 14:52:12] <Tobbi> yes.
+[2016/01/09 14:52:58] <pentagon> [10supertux] 07tobbi pushed 2 commits to 09master 13http://git.io/vuduq
+[2016/01/09 14:53:00] <pentagon> [10supertux] 07tobbi 14e3e1d87 Fix copy & paste issues in levelintro
+[2016/01/09 14:53:02] <pentagon> [10supertux] 07tobbi 14c34ec88 iterator -> const_iterator
+[2016/01/09 14:53:07] <Karkus> grumbel: Here's a problem. Now SuperTux M2 is release, we are technically on M3. Should we change the executable name to supertux3 and the datadir name too?
+[2016/01/09 14:53:41] <Karkus> s/is release/has been released/
+[2016/01/09 14:53:41] <red_bot> Karkus meant: "grumbel: Here's a problem. Now SuperTux M2 has been released, we are technically on M3. Should we change the executable name to supertux3 and the datadir name too?"
+[2016/01/09 14:53:43] <grumbel> Karkus: depends on how much stuff you want to break
+[2016/01/09 14:54:14] <Karkus> grumbel: Who's idea was it to change the name to supertux2?
+[2016/01/09 14:54:23] <head8debian> maths22: Ok, i will try to test it sometime.
+[2016/01/09 14:54:46] <grumbel> M1 is a completely different game then M2, very large parts of the engine got rewritten and such
+[2016/01/09 14:55:21] <Karkus> grumbel: So, it's fine to leave it until the datadirs become incompatible?
+[2016/01/09 14:55:33] <grumbel> yes
+[2016/01/09 14:55:47] @ Hume2 joined channel #supertux
+[2016/01/09 14:55:47] @ Mode +v Hume2 by ChanServ
+[2016/01/09 14:55:56] <grumbel> As long as M3 can still read M2 files things should be fine
+[2016/01/09 14:55:57] <Karkus> Tobbi: Okay, there's our answer
+[2016/01/09 14:56:04] <Tobbi> hmm...
+[2016/01/09 14:56:30] <Tobbi> Karkus: We also didn't discuss a potential UI overhaul.
+[2016/01/09 14:56:50] <maths22> Tobbi: What potential UI overhaul?
+[2016/01/09 14:56:55] <Karkus> Tobbi: That's almost certainly 0.6.0 at a minimum
+[2016/01/09 14:57:00] <Tobbi> Okay.
+[2016/01/09 14:57:01] <Tobbi> :)
+[2016/01/09 14:57:12] <Tobbi> maths22: I think someone suggested an overhaul of the add-on manager at least.
+[2016/01/09 14:57:32] <Karkus> Tobbi: That was you. I suggested we take a different approach entirely
+[2016/01/09 14:57:39] <Tobbi> Right :D
+[2016/01/09 14:57:40] <Tobbi> hah
+[2016/01/09 14:57:46] <maths22> Karkus, Tobbi: Can you elaborate?
+[2016/01/09 14:57:48] <Karkus> As in, a rewrite. But that takes forever so, nah.
+[2016/01/09 14:58:04] <Tobbi> maths22: I was thinking stk's add-on screen looks so much better than ours.
+[2016/01/09 14:58:05] <Karkus> maths22: Not really. Just make it betterer.
+[2016/01/09 14:58:22] <Tobbi> And I wanted to have like glassy boxes...for background.
+[2016/01/09 14:58:24] <Tobbi> stuff like that.
+[2016/01/09 14:58:33] <Karkus> Tobbi: And scroll bars...
+[2016/01/09 14:58:39] <maths22> I have some ideas for the addon manager too... we should discuss some other time
+[2016/01/09 14:58:39] <Tobbi> oh yes
+[2016/01/09 14:58:44] <Karkus> The list goes on and on.
+[2016/01/09 14:59:00] <Tobbi> :D
+[2016/01/09 14:59:38] <grumbel> thumbnails would be good, I don't really care about much else, I definitely don't want scrollbars
