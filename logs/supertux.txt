@@ -41259,3 +41259,17 @@
 [2016/01/09 15:14:08] <Karkus> grumbel: Well, no. Maybe multiple tilesets should be possible.
 [2016/01/09 15:14:10] <Tobbi> gonna get something to eat now.
 [2016/01/09 15:14:17] <Karkus> grumbel: But that's so complicated...
+[2016/01/09 15:17:18] <maths22> mt: What is "[supertux] someone pushed 1 commit to feature/annoy-karkus http://annoy-karkus.supertuxproject.org
+[2016/01/09 15:17:21] <maths22> about?
+[2016/01/09 15:17:37] <pentagon> [10supertux] 07Grumbel opened issue 09#325: Allow custom tiles for levels 13http://git.io/vudwc
+[2016/01/09 15:17:52] <grumbel> Karkus: https://github.com/SuperTux/supertux/issues/325
+[2016/01/09 15:18:58] <pentagon> [10supertux] 07Karkus476 commented on issue 09#325: Allow custom tiles for levels 13http://git.io/vudwc
+[2016/01/09 15:21:54] <pentagon> [10addons] 07LMH0013 pushed 2 commits to 09master 13http://git.io/vudrH
+[2016/01/09 15:21:55] <pentagon> [10addons] 07LMH0013 14957244a Restored repsitory addons and index to current version, effectively reversing commit 58fac5e
+[2016/01/09 15:21:57] <pentagon> [10addons] 07LMH0013 147358050 Updated all addons for 0.4.0 accounting for any differences in source.
+[2016/01/09 15:23:20] <pentagon> [10supertux] Status for commit Revert "iterator -> const_iterator" by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/101306984
+[2016/01/09 15:23:24] <pentagon> [10supertux] 07Grumbel commented on issue 09#325: Allow custom tiles for levels 13http://git.io/vudwc
+[2016/01/09 15:23:33] <Karkus> mt: [10annoy-karkus] 07that guy labeled issue 03#999999999: Annoying As Hell - 13http://git.io/Tr0ll
+[2016/01/09 15:23:41] <Karkus> *5000
+[2016/01/09 15:24:13] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/09 15:29:43] <pentagon> [10supertux] Status for commit Revert "iterator -> const_iterator" by 07Tobias Markus: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/256
