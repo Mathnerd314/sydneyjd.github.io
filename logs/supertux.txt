@@ -41114,3 +41114,12 @@
 [2016/01/09 13:35:40] <pentagon> [10addons] 07LMH0013 assigned issue 09#12: repository.nfo is all messed up 13http://git.io/vu5VS
 [2016/01/09 13:37:30] <pentagon> [10addons] 07tobbi commented on issue 09#12: repository.nfo is all messed up 13http://git.io/vu5VS
 [2016/01/09 13:39:12] <pentagon> [10addons] 07maxteufel commented on issue 09#13: SuperTux 0.3.5a fails to parse repository file index-0_4_0.nfo 13http://git.io/vu5Vp
+[2016/01/09 13:47:16] <pentagon> [10supertux] 07Karkus476 created wiki page 09Recording SuperTux Gameplay 13http://git.io/vEQgm
+[2016/01/09 13:47:53] <mt> Things happening when you force push the wiki
+[2016/01/09 13:48:10] <pentagon> [10addons] 07LMH0013 commented on issue 09#12: repository.nfo is all messed up 13http://git.io/vu5VS
+[2016/01/09 13:51:00] @ Quit: Karkus: Ping timeout: 255 seconds
+[2016/01/09 13:51:30] @ luizrpgluiz joined channel #supertux
+[2016/01/09 13:53:51] <luizrpgluiz> hello, excuse the question, someone else here in the group of volunteer developers would try to continue to develop lincity-ng project that is currently abandoned?
+[2016/01/09 13:56:00] <mt> we need more contributors ourselves
+[2016/01/09 13:59:12] @ Quit: luizrpgluiz: 
+[2016/01/09 13:59:44] <Tobbi> hmm...
