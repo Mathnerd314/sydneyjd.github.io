@@ -39391,3 +39391,6 @@
 [2016/01/09 03:53:23] <mt> maths22: the Windows Store version seems to work (have only tested Picnic with Penny tho), when I first opened it the size of the displayed content and the window size varied, so there was a black border inside the window
 [2016/01/09 04:17:59] @ grumbel joined channel #supertux
 [2016/01/09 04:17:59] @ Mode +o grumbel by ChanServ
+[2016/01/09 04:56:24] @ Quit: VargaD: Ping timeout: 250 seconds
+[2016/01/09 04:57:45] @ VargaD joined channel #supertux
+[2016/01/09 04:59:01] @ claymore2 joined channel #supertux
