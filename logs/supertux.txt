@@ -39395,3 +39395,5 @@
 [2016/01/09 04:57:45] @ VargaD joined channel #supertux
 [2016/01/09 04:59:01] @ claymore2 joined channel #supertux
 [2016/01/09 05:07:19] @ Zombie left channel #supertux ("Leaving")
+[2016/01/09 05:19:55] @ Quit: datahead8888_: Read error: Connection reset by peer
+[2016/01/09 05:20:12] @ datahead8888_ joined channel #supertux
