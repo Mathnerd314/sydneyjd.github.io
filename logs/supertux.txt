@@ -39525,3 +39525,54 @@
 [2016/01/09 09:29:37] <giby> Karkus, mt: as it is unregister it should not be auto-op else anyone could use it and get voice in the chanel
 [2016/01/09 09:29:41] <mt> I guess Hume2 could still show up
 [2016/01/09 09:29:57] <Karkus> giby: We know :D
+[2016/01/09 09:30:12] <mt> giby: manually doing so won't affect anyone else in the future
+[2016/01/09 09:30:24] <giby> yes...
+[2016/01/09 09:30:44] <mt> and I thought: seems to be a giby clone, let's set +v for this connection
+[2016/01/09 09:30:47] <Tobbi> Google Calendar just sent me an e-mail about the meeting.
+[2016/01/09 09:30:53] <Tobbi> so...
+[2016/01/09 09:31:06] <ultimategiby> I am my clone
+[2016/01/09 09:31:16] <mt> what's the problem then?
+[2016/01/09 09:31:29] <Karkus> mt: What exactly is pentagon by the way?
+[2016/01/09 09:31:36] <ultimategiby> that's fine
+[2016/01/09 09:31:37] <mt> Karkus: a bot
+[2016/01/09 09:31:47] <Tobbi> Notifico's sucessr
+[2016/01/09 09:31:49] <Karkus> mt: But, whose?
+[2016/01/09 09:31:50] <Tobbi> successor
+[2016/01/09 09:32:17] <mt> Karkus: `/whois mt mt` and then `/whois pentagon pentagon`
+[2016/01/09 09:32:27] <mt> and you'll see whose
+[2016/01/09 09:32:53] <Tobbi> mt: I would've still liked to have something open to all team members. There's no such thing, is there?
+[2016/01/09 09:32:56] <Karkus> mt: So, how much control do you have over him?
+[2016/01/09 09:33:22] <mt> it's running https://github.com/ProgVal/Limnoria + https://github.com/ProgVal/Supybot-plugins/tree/master/GitHub + custom style config
+[2016/01/09 09:33:25] <Karkus> s/him/them/
+[2016/01/09 09:33:25] <red_bot> Karkus meant: "mt: So, how much control do you have over them?"
+[2016/01/09 09:33:40] <mt> Karkus: I'm able to do everything with that bot
+[2016/01/09 09:33:50] <Karkus> mt: Hosted where?
+[2016/01/09 09:33:54] <mt> I could `systemctl --user disable --now supybot@pentagon`
+[2016/01/09 09:33:59] <mt> on my server
+[2016/01/09 09:34:06] <mt> In London, UK at Linode
+[2016/01/09 09:34:27] <Karkus> mt: Can you, for example, set up instant logging?
+[2016/01/09 09:34:43] <Karkus> mt: Instead of 15 minute delay + download text file?
+[2016/01/09 09:34:46] <mt> can but don't want to waste even more space for IRC logs
+[2016/01/09 09:34:58] <Karkus> mt: What do you mean?
+[2016/01/09 09:35:08] <head8debian> I probably will be in and out over the next hour.
+[2016/01/09 09:35:28] <mt> Karkus: I already have those IRC logs...
+[2016/01/09 09:35:30] <mt> 436M irclogs/
+[2016/01/09 09:35:38] <mt> 3.8G .weechat/logs/
+[2016/01/09 09:36:02] <mt> 315M log/
+[2016/01/09 09:36:08] <Tobbi> We could use a different service...
+[2016/01/09 09:36:26] <Tobbi> for logs.
+[2016/01/09 09:36:27] <mt> we could ask OSUOSL
+[2016/01/09 09:36:29] <mt> for hosting
+[2016/01/09 09:37:10] <Tobbi> I think SuperTux is well known enough...
+[2016/01/09 09:37:17] <mt> http://osuosl.org/services/hosting/details http://osuosl.org/services/hosting/policy
+[2016/01/09 09:37:56] <Tobbi> mt: What about those e-mail addresses @supertuxproject.org?
+[2016/01/09 09:38:19] <mt> if maths22 sets the MX of supertuxproject.org I'll be able to set up forwarding, I guess
+[2016/01/09 09:38:36] <Tobbi> okay.
+[2016/01/09 09:39:30] <mt> would probably still prefer to do that on an OSUOSL server
+[2016/01/09 09:40:22] @ Quit: lumidify: Ping timeout: 256 seconds
+[2016/01/09 09:41:00] <Tobbi> Do what's best.
+[2016/01/09 09:42:41] <mt> btw, I think we still need to find a second founder for the channel
+[2016/01/09 09:42:54] <mt> because +Oo is still very limited
+[2016/01/09 09:43:50] <Tobbi> Talk to giby in that aspect.
+[2016/01/09 09:43:59] @ lumidify joined channel #supertux
+[2016/01/09 09:44:13] <mt> you probably don't want to be founder, do you?
