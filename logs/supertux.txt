@@ -39378,3 +39378,14 @@
 [2016/01/09 03:02:13] @ tux|dude joined channel #supertux
 [2016/01/09 03:09:06] @ Quit: tux|dude: Ping timeout: 240 seconds
 [2016/01/09 03:14:42] @ tux|dude joined channel #supertux
+[2016/01/09 03:45:16] @ Zombie joined channel #supertux
+[2016/01/09 03:45:30] <mt> so much backlog
+[2016/01/09 03:45:37] <mt> won't bother reading it
+[2016/01/09 03:45:47] <Zombie> Can I ask if Feature Requests are availible?
+[2016/01/09 03:46:10] <Zombie> I'd like to know if there will ever be a 2-player Simultanious Option.
+[2016/01/09 03:46:27] <Zombie> either using local controllers, or a network Stack.
+[2016/01/09 03:47:31] <mt> hello!
+[2016/01/09 03:47:39] <mt> well, you can of course request a feature
+[2016/01/09 03:48:11] <mt> however, I think, networked/local multiplayer will have to wait, there's some other, more important tasks I guess
+[2016/01/09 03:48:26] <mt> unless someone wants to help us with coding that
+[2016/01/09 03:53:23] <mt> maths22: the Windows Store version seems to work (have only tested Picnic with Penny tho), when I first opened it the size of the displayed content and the window size varied, so there was a black border inside the window
