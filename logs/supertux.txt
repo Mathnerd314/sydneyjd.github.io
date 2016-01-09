@@ -38957,3 +38957,7 @@
 [2016/01/08 19:38:12] <maths22> I'll look more closely later
 [2016/01/08 19:39:02] <Tobbi> maths22: Re the windows build, I hope. There's nothing you can do about coverity.
 [2016/01/08 19:39:14] <Tobbi> I'm glad they didn't report any errors, I was expecting many more of them.
+[2016/01/08 19:52:56] @ polyphagia joined channel #supertux
+[2016/01/08 19:54:47] @ Quit: Tobbi: Ping timeout: 276 seconds
+[2016/01/08 19:58:38] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/01/08 19:58:49] <head8debian> Hrm, im thinking of writing a page on my website about IRC eloquete... We will see how far i get.
