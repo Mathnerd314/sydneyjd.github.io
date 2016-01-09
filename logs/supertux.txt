@@ -41051,3 +41051,52 @@
 [2016/01/09 13:12:43] <Karkus> Hume2: Which isn't what we agreed upon.
 [2016/01/09 13:12:48] <Karkus> Let me check the log.
 [2016/01/09 13:13:57] <Karkus> Hume2: I'm pretty sure we said it should be a particle effect.
+[2016/01/09 13:15:28] <Hume2> Karkus: It was just mentioned, but not agreed.
+[2016/01/09 13:15:49] <pentagon> [10addons] 07LMH0013 commented on issue 09#13: SuperTux 0.3.5a fails to parse repository file index-0_4_0.nfo 13http://git.io/vu5Vp
+[2016/01/09 13:16:10] <mt> hm
+[2016/01/09 13:16:15] <mt> on the other hand
+[2016/01/09 13:16:30] <mt> what if we make people use the repo with pull requests for changing the wiki contents
+[2016/01/09 13:16:35] <pentagon> [10addons] 07tobbi commented on issue 09#13: SuperTux 0.3.5a fails to parse repository file index-0_4_0.nfo 13http://git.io/vu5Vp
+[2016/01/09 13:16:41] <mt> and push exactly the same repo to the github-wiki repo
+[2016/01/09 13:17:05] <mt> that makes it easy to edit
+[2016/01/09 13:17:10] <Karkus> mt: It wouldn't matter, we could do that anyway if Hugo uses markdown.
+[2016/01/09 13:17:16] <mt> and we won't have to bother with setting up hugo
+[2016/01/09 13:17:20] <mt> the thing with hugo is
+[2016/01/09 13:17:26] <mt> we have to generate the content
+[2016/01/09 13:17:33] <mt> that can't be done from github's UI
+[2016/01/09 13:17:47] <Karkus> mt: Hmm.
+[2016/01/09 13:17:50] <Hume2> Karkus, I found it: [17:46] <@Karkus> Hume2: It needs to be a particle effect: next.
+[2016/01/09 13:17:56] <mt> there'd be jekyll, which github autogenerates actually
+[2016/01/09 13:18:03] <mt> but that doesn't work right now on Arch
+[2016/01/09 13:18:09] <Karkus> Hume2: What would you like?
+[2016/01/09 13:18:12] <mt> someone broke the package
+[2016/01/09 13:18:36] <Hume2> Karkus: We haven't even done a vote for it.
+[2016/01/09 13:19:29] <Karkus> Hume2: Make a decision.
+[2016/01/09 13:19:32] <maths22> I can do a log soon if someone else hasn't
+[2016/01/09 13:19:33] <Karkus> It's easier.
+[2016/01/09 13:19:41] <Hume2> Karkus: Actually you killed it by the "next" thing.
+[2016/01/09 13:19:46] <Karkus> maths22: polyphagia has done it.
+[2016/01/09 13:20:04] <Karkus> Hume2: We had to get round to the wiki, I knew that would take ages, sorry.
+[2016/01/09 13:20:15] <Hume2> Let's compare our notes.
+[2016/01/09 13:20:30] <head8debian> Ok, where are we? Im a little late...
+[2016/01/09 13:20:34] <Hume2> I wrote my stuff at: https://github.com/SuperTux/supertux/issues/292
+[2016/01/09 13:20:36] * head8debian cringes...
+[2016/01/09 13:20:38] <Tobbi> head8debian: We are done.
+[2016/01/09 13:20:58] <head8debian> Tobbi: That was a *long* talk.
+[2016/01/09 13:21:01] <Tobbi> 3 hours of discussion.
+[2016/01/09 13:21:03] <Tobbi> indeed.
+[2016/01/09 13:21:27] <mt> so, what about the wiki repo as write-mirror for gollum?
+[2016/01/09 13:24:08] <head8debian> maths22: Did you have a new windows store download link, or did you make it public?
+[2016/01/09 13:24:23] <Karkus> mt: I think that's okay.
+[2016/01/09 13:24:26] <mt> head8debian: it's the same one
+[2016/01/09 13:24:35] <mt> (I guess)
+[2016/01/09 13:26:16] <Hume2> I think that we could have more signals like #.
+[2016/01/09 13:27:52] <mt> Tobbi: can't push to supertux/wiki
+[2016/01/09 13:27:59] <Tobbi> mt: Okay, let me check.
+[2016/01/09 13:28:07] <mt> you need to add it to the allowed repos
+[2016/01/09 13:28:35] <mt> also, are you okay with making it a write-mirror of gollum (github wiki) for the time being?
+[2016/01/09 13:28:46] <Tobbi> mt: now?
+[2016/01/09 13:28:54] <Tobbi> mt: Yes.
+[2016/01/09 13:29:28] <mt> So, I have pushed the current content of https://github.com/SuperTux/supertux.wiki.git to it
+[2016/01/09 13:29:42] <Tobbi> ok
+[2016/01/09 13:29:55] <mt> for managing PRs, it's useful to be able to push to that, you can simply add https://github.com/SuperTux/supertux.wiki.git as another remote :)
