@@ -39361,3 +39361,11 @@
 [2016/01/08 22:57:53] <polyphagia> one*
 [2016/01/08 22:57:55] <polyphagia> :P
 [2016/01/08 23:02:46] @ tux|dude joined channel #supertux
+[2016/01/08 23:45:09] <polyphagia> hi tuxdev
+[2016/01/08 23:45:15] <polyphagia> oops, hi tux|dude
+[2016/01/08 23:45:26] <tux|dude> Hey
+[2016/01/08 23:45:37] <polyphagia> sup my dude
+[2016/01/08 23:46:03] <tux|dude> Not too much. You?
+[2016/01/08 23:46:24] <polyphagia> same. i'm working on a script to port old smb levels to supertux :P
+[2016/01/08 23:46:38] <polyphagia> let some new faces enjoy old levels
+[2016/01/08 23:47:08] <tux|dude> Nice
