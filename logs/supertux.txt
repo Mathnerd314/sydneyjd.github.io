@@ -40190,3 +40190,103 @@
 [2016/01/09 11:14:43] <Tobbi> Karkus: action item?
 [2016/01/09 11:14:44] @ Mode -v ultimategiby by ChanServ
 [2016/01/09 11:14:55] <Karkus> Tobbi: Yes.
+[2016/01/09 11:15:08] <Tobbi> Karkus: Something to work on :)
+[2016/01/09 11:15:09] <mt> 4     Tobbi                  +AORSVefiorstv [modified 15s ago]
+[2016/01/09 11:15:12] <mt> aha
+[2016/01/09 11:15:19] <Tobbi> Thanks!
+[2016/01/09 11:15:23] <mt> Tobbi: now you're almost founder
+[2016/01/09 11:15:23] <Karkus> Everyone vote: http://www.strawpoll.me/6490674
+[2016/01/09 11:15:51] <giby> Your welcome... Actually, grumbel get that too
+[2016/01/09 11:15:52] <Tobbi> Karkus: I thought we settled that we will use swimming in water now and rewrite current levels.
+[2016/01/09 11:16:08] <Karkus> Tobbi: If that's what we vote for.
+[2016/01/09 11:16:42] <Karkus> Still people who need to vote :D
+[2016/01/09 11:16:46] <Tobbi> ok
+[2016/01/09 11:16:49] <Hume2> # vote
+[2016/01/09 11:16:53] @ greatjulius joined channel #supertux
+[2016/01/09 11:17:04] <giby> Hi greatjulius
+[2016/01/09 11:17:09] <greatjulius> hi
+[2016/01/09 11:17:40] <Karkus> Okay, it seems most people want to have all levels use it.
+[2016/01/09 11:17:50] <Tobbi> greatjulius: Did you just drop in by chance? Because we're having a meeting right now.
+[2016/01/09 11:17:54] <Karkus> Finally, before we finish, how will it be implemented?
+[2016/01/09 11:18:08] <Karkus> s/finish/finish this topic/
+[2016/01/09 11:18:08] <red_bot> Karkus meant: "Finally, before we finish this topic, how will it be implemented?"
+[2016/01/09 11:18:08] <Hume2> Only three people voted.
+[2016/01/09 11:18:29] <Karkus> Who didn't vote?
+[2016/01/09 11:18:41] <Hume2> # ^^
+[2016/01/09 11:18:51] <Tobbi> I just did.
+[2016/01/09 11:18:51] <grumbel> So has anybody thought about swimming needing new graphics, new enemies and new everything?
+[2016/01/09 11:18:57] <Karkus> Hume2: That's not a yes/no question.
+[2016/01/09 11:18:59] <greatjulius> No, I saw the post on Twitter. I just wanet to join if I'm allowed. I'm not a random guy. I am interested in SuperTux.
+[2016/01/09 11:19:15] <mt> sure
+[2016/01/09 11:19:19] <Karkus> greatjulius: That's fine, don't forget to keep on topic, though!
+[2016/01/09 11:19:20] <Tobbi> greatjulius: Good thing. We got a variety of things ahead of us in SuperTux development.
+[2016/01/09 11:19:22] <Hume2> Karkus: Oh, I forgot.
+[2016/01/09 11:19:24] <maths22> grumbel: That is a very good point
+[2016/01/09 11:19:41] <mt> greatjulius: might want to see: https://www.strawpoll.me/6490674
+[2016/01/09 11:19:58] <mt> the question is, if we want to drop the old water behavior
+[2016/01/09 11:20:07] <maths22> I think we can manage graphics without tons of difficulty; the real question is coming up with new enemies
+[2016/01/09 11:20:21] <Karkus> maths22: Hmmm...
+[2016/01/09 11:20:27] <Tobbi> Huge task in my opinion, we need to devise new badguys...
+[2016/01/09 11:20:33] <Tobbi> Maybe there's something that Tux can't do in water?
+[2016/01/09 11:20:43] <Karkus> Tobbi: Fire fireballs.
+[2016/01/09 11:20:48] <Tobbi> Possibly.
+[2016/01/09 11:20:55] <Tobbi> This might counteract any advantage.
+[2016/01/09 11:20:57] <Hume2> So we move to Forest again?
+[2016/01/09 11:20:59] <mt> Karkus: not sure, fire works under water
+[2016/01/09 11:21:03] <Karkus> Ice balls could create platforms to work on.
+[2016/01/09 11:21:07] <mt> (see Magnesium)
+[2016/01/09 11:21:27] <mt> iceflower shouldn't work under water, because it'd freeze everything
+[2016/01/09 11:21:37] <Hume2> Not really.
+[2016/01/09 11:21:50] <Hume2> Even Ice XI wouldn't.
+[2016/01/09 11:22:00] <greatjulius> if you are IN water you would freeze yourself
+[2016/01/09 11:22:01] <mt> what does Dr. Hume2 say about iceflower physics?
+[2016/01/09 11:22:01] <giby> greatjulius, any valuable skills?
+[2016/01/09 11:22:03] <mt> :D
+[2016/01/09 11:22:26] <Hume2> Well, freeze...
+[2016/01/09 11:22:26] <Karkus> mt: Anyway, this is somewhat irrelevant.
+[2016/01/09 11:22:32] <Karkus> How will it be implemented?
+[2016/01/09 11:22:33] <mt> yeah
+[2016/01/09 11:22:36] <greatjulius> translating in german and maybe design
+[2016/01/09 11:22:46] <Hume2> *sigh*
+[2016/01/09 11:22:49] <mt> greatjulius: what design?
+[2016/01/09 11:22:57] <Karkus> greatjulius: We've got plenty of Germans, can't get rid of them!
+[2016/01/09 11:23:08] <greatjulius> I know @Karkus
+[2016/01/09 11:23:17] <Hume2> off-topic!
+[2016/01/09 11:23:18] <giby> I guess german translation is done...
+[2016/01/09 11:23:22] <Tobbi> Yes, it is.
+[2016/01/09 11:23:35] <giby> design... good at Gimp?
+[2016/01/09 11:23:37] <Karkus> greatjulius: But, your ideas will be useful enough.
+[2016/01/09 11:23:53] <Tobbi> greatjulius: We're talking about graphics design here, right?
+[2016/01/09 11:23:56] <Karkus> Does anyone like my swimming idea?
+[2016/01/09 11:24:09] <mt> Karkus: what swimming idea again?
+[2016/01/09 11:24:12] <Hume2> Topic: Swimming.
+[2016/01/09 11:24:18] <mt> so much people talking here, sorry, lost the topic
+[2016/01/09 11:24:28] <Hume2> We still haven't changed it, sorry.
+[2016/01/09 11:24:30] <greatjulius> i could do textures but im not really into and especially not in the style of supertux
+[2016/01/09 11:24:41] <greatjulius> *into it
+[2016/01/09 11:24:41] <Hume2> Ok, Topic: Graphics.
+[2016/01/09 11:24:49] <Karkus> Hume2: no.
+[2016/01/09 11:24:59] <Karkus> When did we come to a decision?
+[2016/01/09 11:25:14] <Karkus> My swimming idea is like penguin mario is NSMB Wii
+[2016/01/09 11:25:23] <Hume2> So topic: Swimming.
+[2016/01/09 11:25:28] <Karkus> Hume2: What was your idea?
+[2016/01/09 11:25:33] <Hume2> well...
+[2016/01/09 11:25:33] <mt> I'll set +mz and devoice anyone not talking about swimming if we don't come to a solution
+[2016/01/09 11:25:46] <Hume2> Agreed.
+[2016/01/09 11:25:55] <Karkus> mt: Don't set +mz
+[2016/01/09 11:26:14] <Karkus> mt: Almost all of us are voice as it is.
+[2016/01/09 11:27:25] <Karkus> Now is anyone's final opportunity to speak up: What are your ideas for how swimming will be implemented?
+[2016/01/09 11:27:51] <Karkus> Then I will make a poll, I guess.
+[2016/01/09 11:28:01] <mt> wasn't there already that poll?
+[2016/01/09 11:28:22] <Karkus> mt: That was: Where will swimming be implemented?
+[2016/01/09 11:28:30] <Hume2> Yes.
+[2016/01/09 11:28:30] <mt> ah
+[2016/01/09 11:28:32] <Karkus> mt: Not How.
+[2016/01/09 11:28:48] <mt> so, I'd agree with: like in NSMB wii this penguin thing, but without bonus
+[2016/01/09 11:29:01] <Karkus> mt: That is what I'm suggesting, yes.
+[2016/01/09 11:29:13] <mt> re fire/ice/earth/airflower doesn't work: that can be talked about later
+[2016/01/09 11:29:23] <maths22> That sounds like a reasonble model to me
+[2016/01/09 11:29:28] <Hume2> OK, I'll agree.
+[2016/01/09 11:29:32] <greatjulius> maybe swimming without a power up is very lame so player avoid water with ou a power up
+[2016/01/09 11:29:49] <greatjulius> with lame i mean slow
+[2016/01/09 11:30:00] <mt> well
