@@ -38948,3 +38948,12 @@
 [2016/01/08 19:25:09] <Tobbi> And it's running!"
 [2016/01/08 19:25:16] <Tobbi> May the coverity build be with us.
 [2016/01/08 19:25:41] @ Quit: polyphagia: Ping timeout: 246 seconds
+[2016/01/08 19:30:34] <jesusalva> :P
+[2016/01/08 19:36:46] <maths22> Tobbi: Probably the VM, but Im not sure
+[2016/01/08 19:36:59] <Tobbi> Coverity build is working fine now, by the way.
+[2016/01/08 19:37:40] <maths22> Great!
+[2016/01/08 19:37:43] <Tobbi> And it's showing us errors in include files.
+[2016/01/08 19:37:49] <Tobbi> Which we can't control.
+[2016/01/08 19:38:12] <maths22> I'll look more closely later
+[2016/01/08 19:39:02] <Tobbi> maths22: Re the windows build, I hope. There's nothing you can do about coverity.
+[2016/01/08 19:39:14] <Tobbi> I'm glad they didn't report any errors, I was expecting many more of them.
