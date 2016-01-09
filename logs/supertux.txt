@@ -41321,3 +41321,5 @@
 [2016/01/09 16:27:06] <Karkus> maths22: No, that's okay. You weren't there :D
 [2016/01/09 16:27:15] <Karkus> You should tell head8debian off.
 [2016/01/09 16:28:16] <Tobbi> By the way: Do you guys want me to create the data repository now?
+[2016/01/09 16:31:46] @ Quit: Karkus: Ping timeout: 240 seconds
+[2016/01/09 16:34:49] @ Quit: Hume2: Quit: Page closed
