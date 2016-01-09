@@ -41281,3 +41281,8 @@
 [2016/01/09 15:57:03] @ Tobbi joined channel #supertux
 [2016/01/09 15:57:04] @ Mode +o Tobbi by ChanServ
 [2016/01/09 15:59:40] <Tobbi> Oh no.
+[2016/01/09 16:00:12] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13http://git.io/vudDp
+[2016/01/09 16:00:14] <pentagon> [10supertux] 07tobbi 145b95ab0 Revert "Fix copy & paste issues in levelintro"
+[2016/01/09 16:02:43] @ Quit: grumbel: Quit: Ex-Chat
+[2016/01/09 16:03:28] <Tobbi> Why does coverity include things in /usr or /Applications/XCode.app/ into the scan?
+[2016/01/09 16:14:16] <pentagon> [10supertux] Status for commit Revert "Fix copy & paste issues in levelintro" by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/101314355
