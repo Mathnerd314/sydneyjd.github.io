@@ -39954,3 +39954,126 @@
 [2016/01/09 10:44:50] <giby> Karkus, OS X just need a support for Quartz
 [2016/01/09 10:44:54] <pentagon> [10supertux] 07Karkus476 commented on issue 09#272: Editor Decisions [Poll - vote now!] 13http://git.io/vEI0Y
 [2016/01/09 10:44:55] <pentagon> [10supertux] 07Karkus476 closed issue 09#272: Editor Decisions [Poll - vote now!] 13http://git.io/vEI0Y
+[2016/01/09 10:45:15] <mt> giby: flexlay does work with OS X when you have pyqt4 and python3
+[2016/01/09 10:45:35] @ jesusalva_bot joined channel #supertux
+[2016/01/09 10:46:16] <giby> Last time I tried, It started, but... It was impossible to do anything out of it
+[2016/01/09 10:46:26] <Karkus> giby: Why?
+[2016/01/09 10:46:35] <Tobbi> We have improved it quite substantially...
+[2016/01/09 10:46:47] <giby> I should try again
+[2016/01/09 10:47:02] @ jesusalva_bot is now known as jesusalva
+[2016/01/09 10:47:17] <mt> so what's on topic now?
+[2016/01/09 10:47:28] <Hume2> Before we change the topic...
+[2016/01/09 10:47:30] <Tobbi> mt: Flexlay, the editor...
+[2016/01/09 10:47:32] <Tobbi> I think.
+[2016/01/09 10:47:46] <Hume2> Yes.
+[2016/01/09 10:47:49] <mt> what's still there to discuss
+[2016/01/09 10:47:51] * jesusalva just arr
+[2016/01/09 10:48:01] <mt> all the issues and features are in the bug tracker
+[2016/01/09 10:48:05] <Tobbi> Possibly...
+[2016/01/09 10:48:06] <mt> it just needs fixing
+[2016/01/09 10:48:12] <Karkus> mt: There's more to be added
+[2016/01/09 10:48:16] <Tobbi> We should get more people to code on the editor...
+[2016/01/09 10:48:20] <Karkus> When should we aim for a release?
+[2016/01/09 10:48:27] <Karkus> of Flexlay?
+[2016/01/09 10:48:37] <mt> Karkus: I guess flexlay 1 should be released with supertux 0.5.0
+[2016/01/09 10:48:41] <mt> at the same point
+[2016/01/09 10:48:47] <Tobbi> Karkus: I'd say we take our time with both.
+[2016/01/09 10:48:56] <Tobbi> So, let's push SuperTux 0.5.0 way back.
+[2016/01/09 10:49:06] <Tobbi> Flexlay isn't nearly polished.
+[2016/01/09 10:49:14] <Karkus> mt: I actually disagree. We should make Flexlay released before, so we can make levels for 0.5.0
+[2016/01/09 10:49:20] <Karkus> s/we/people/
+[2016/01/09 10:49:20] <red_bot> Karkus meant: "mt: I actually disagree. We should make Flexlay released before, so people can make levels for 0.5.0"
+[2016/01/09 10:49:24] <mt> Karkus: hm
+[2016/01/09 10:49:27] <mt> sounds ok
+[2016/01/09 10:49:30] <Hume2> OK
+[2016/01/09 10:49:40] <mt> next topic?
+[2016/01/09 10:49:44] <Tobbi> Unless we want people to test their levels with up-to-date features...
+[2016/01/09 10:49:49] <Hume2> Before we change the topic...
+[2016/01/09 10:50:06] <Hume2> I just want to say that we should also dicuss this https://github.com/SuperTux/supertux/labels/status%3Aneeds-discussion
+[2016/01/09 10:50:07] <Tobbi> If we have the website in place, we could let people upload their creations...
+[2016/01/09 10:50:16] <Tobbi> oh god.
+[2016/01/09 10:50:34] <Hume2> I mean after the main topics.
+[2016/01/09 10:50:35] <Karkus> Can't we just get onto the next topic now?
+[2016/01/09 10:50:38] <Tobbi> Yes.
+[2016/01/09 10:50:40] <Hume2> Yes.
+[2016/01/09 10:50:57] <Hume2> Multiplayer.
+[2016/01/09 10:51:08] <Tobbi> Sounds fun. And definitely a requirement for 0.5.0.
+[2016/01/09 10:51:18] <mt> multiplayer is a big feature, I'd suggest it for 0.6.0
+[2016/01/09 10:51:26] <Hume2> Agreed.
+[2016/01/09 10:51:35] <mt> Tobbi: we wanted to fix forest world and story for 0.5.0
+[2016/01/09 10:51:38] <Tobbi> mt: When do we intend to release 0.5.0?
+[2016/01/09 10:51:40] <Tobbi> Ah, okay.
+[2016/01/09 10:51:53] @ gryffyn joined channel #supertux
+[2016/01/09 10:51:55] <grumbel> It's not really that big, there was a patch for it floating around a long time ago
+[2016/01/09 10:51:55] <datahead7777> Is it multiplayer on the same computer?
+[2016/01/09 10:52:00] <pentagon> [10flexlay] 07Karkus476 opened issue 09#72: Allow change in version of executable 13http://git.io/vu58J
+[2016/01/09 10:52:04] <Hume2> If we want to postpone it, shall we also postpone this discussion?
+[2016/01/09 10:52:15] <Karkus> datahead7777: Yes
+[2016/01/09 10:52:17] <grumbel> datahead7777: yes, that would be the easiest way to do it
+[2016/01/09 10:52:24] <mt> I guess if we make progress with flexlay and the redesign of forest, 0.5.0 can be released somewhen in Mai/June/July?
+[2016/01/09 10:52:32] <datahead7777> Yes, a networked version would not at all be trivial
+[2016/01/09 10:52:32] <Tobbi> Okay, sounds good...
+[2016/01/09 10:52:34] <mt> Hume2: yes,
+[2016/01/09 10:52:35] <grumbel> network would be a whole new can of worms and require some larger rewrites
+[2016/01/09 10:52:57] <Hume2> So postponing theme?
+[2016/01/09 10:53:09] <Karkus> grumbel: I don't think so, we can just create a new controller. But it's bound to introduce millions of bugs
+[2016/01/09 10:53:11] <Tobbi> I guess that would be best at least for the networking things.
+[2016/01/09 10:53:23] <Tobbi> Let's not stress ourselves out on this.
+[2016/01/09 10:53:26] <mt> yes networking problems because networking sucks in C(++) :/
+[2016/01/09 10:53:28] <Karkus> Tobbi: Yeah.
+[2016/01/09 10:53:33] <Tobbi> People expect this project to be dead :P
+[2016/01/09 10:53:43] <Tobbi> So, we can chill...
+[2016/01/09 10:54:06] <Karkus> Tobbi: Or we can try to increase the interest.
+[2016/01/09 10:54:14] <Tobbi> Karkus: That would work, too...
+[2016/01/09 10:54:26] <Karkus> Okay. Multiplayer postponed.
+[2016/01/09 10:54:27] <mt> ------ so: next topic ------
+[2016/01/09 10:54:32] <mt> Hume2
+[2016/01/09 10:54:38] <Hume2> More moves.
+[2016/01/09 10:54:48] <Hume2> Just I want to say this:
+[2016/01/09 10:55:09] <Hume2> When I write # before a question, then answer yes or no.
+[2016/01/09 10:55:12] @ jesusalva left channel #supertux ("God")
+[2016/01/09 10:55:15] <Hume2> OK?
+[2016/01/09 10:55:19] <Hume2> # OK?
+[2016/01/09 10:55:21] <mt> yes
+[2016/01/09 10:55:47] <Hume2> So theme: More moves :: swimming
+[2016/01/09 10:56:17] <Karkus> I've added multiplayer to post 0.5.0
+[2016/01/09 10:56:19] <Hume2> I think that swimming should be the only possible action in water.
+[2016/01/09 10:56:25] <Tobbi> I think this should be fairly trivial... But swimming would probably require rethinking levels.
+[2016/01/09 10:56:30] <Tobbi> Do we really want that?
+[2016/01/09 10:56:35] <Karkus> Tobbi: Yes.
+[2016/01/09 10:56:41] <Hume2> Yes.
+[2016/01/09 10:56:43] <mt> yes
+[2016/01/09 10:56:50] <Tobbi> Okay, fine.
+[2016/01/09 10:56:51] <Hume2> Tobbi, you are allowed to write # as well.
+[2016/01/09 10:56:54] <grumbel> not in 0.5.0
+[2016/01/09 10:56:55] <Tobbi> Oh, sorry.
+[2016/01/09 10:57:08] <Hume2> # Should it be in 0.5.0?
+[2016/01/09 10:57:17] <Hume2> I think yes.
+[2016/01/09 10:57:49] <Karkus> Yes.
+[2016/01/09 10:57:50] <mt> yes
+[2016/01/09 10:57:56] <grumbel> depends on the goal of 0.5.0, if you just want forest polished up then there is no need for swimming
+[2016/01/09 10:58:04] <Tobbi> Considering the amount it needs to re-think the levels...Unless we just change tux's sprite, we should probably postpone that...
+[2016/01/09 10:58:14] <Karkus> grumbel: Except, it is polishing the forest world.
+[2016/01/09 10:58:14] <Tobbi> But that's only my opinion.
+[2016/01/09 10:58:17] <mt> changing 'yes' to 'if it's possible to do in time, and useful'
+[2016/01/09 10:58:17] <Hume2> Not many levels have water.
+[2016/01/09 10:58:39] <Karkus> I think it should be like penguin mario in super mario bros Wii and Wii U
+[2016/01/09 10:58:47] <Tobbi> Hume2: I can think of some contrib levels that do.
+[2016/01/09 10:58:56] <Hume2> Hmmm...
+[2016/01/09 10:59:00] <Karkus> When you swim in water, it's not like jumping repeatedly, it's like actual swimming
+[2016/01/09 10:59:04] <Tobbi> Okay.
+[2016/01/09 10:59:08] <mt> Tobbi: we don't support contrib levels
+[2016/01/09 10:59:16] <Hume2> I think that swimming won't break them.
+[2016/01/09 10:59:16] <mt> so
+[2016/01/09 10:59:17] <Karkus> I think mario's swimming levels are bad.
+[2016/01/09 10:59:20] <grumbel> the problem is that we have lots of (contrib) levels that use water as deadly barrier
+[2016/01/09 10:59:37] <Karkus> grumbel: They were told not to...
+[2016/01/09 10:59:40] @ Quit: lumidify: Ping timeout: 260 seconds
+[2016/01/09 10:59:42] <datahead7777> I agree with Karkus - I think there are better ways to do swimming than Mario like mechanics
+[2016/01/09 10:59:44] <Tobbi> Could we have a different type of water for swimming?
+[2016/01/09 10:59:47] <mt> grumbel: as a solution, we could stop making these available for 0.5.0
+[2016/01/09 10:59:49] <Karkus> Tobbi: No
+[2016/01/09 10:59:50] <datahead7777> You probably don't want to be an overt Mario clone anyways
+[2016/01/09 10:59:56] <Karkus> Confusion to the max.
+[2016/01/09 10:59:58] <Tobbi> hrm.
+[2016/01/09 11:00:00] <Tobbi> right
