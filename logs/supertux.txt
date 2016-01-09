@@ -40077,3 +40077,116 @@
 [2016/01/09 10:59:56] <Karkus> Confusion to the max.
 [2016/01/09 10:59:58] <Tobbi> hrm.
 [2016/01/09 11:00:00] <Tobbi> right
+[2016/01/09 11:00:07] <giby> Well, if tux can swim... there is many thing to rethink
+[2016/01/09 11:00:13] <Hume2> I thought a swimming mechanism, listen.
+[2016/01/09 11:00:24] <Hume2> It will be like penguins swim.
+[2016/01/09 11:00:24] <Karkus> Tobbi: There are actually two types of water, tile, and level
+[2016/01/09 11:00:44] <Tobbi> hmmm...
+[2016/01/09 11:00:51] <Hume2> Tux will only change the direction, but not the speed.
+[2016/01/09 11:00:52] <Tobbi> Actually...
+[2016/01/09 11:00:55] <maths22> When swimming, would you be able to go up and down?
+[2016/01/09 11:01:04] <Hume2> Aim down.
+[2016/01/09 11:01:10] <Hume2> And then you swim dows.
+[2016/01/09 11:01:13] <Hume2> *down
+[2016/01/09 11:01:22] <maths22> I think constant-speed motion would feel weird and forced in supertux
+[2016/01/09 11:01:31] <Hume2> And you will accelerate when swimming.
+[2016/01/09 11:01:52] <Hume2> You will start at zero and accelerate.
+[2016/01/09 11:02:05] @ lumidify joined channel #supertux
+[2016/01/09 11:02:22] <Hume2> Tux would be able to bumb bonus blocks when having enough speed.
+[2016/01/09 11:02:30] <Karkus> Constrast: https://youtu.be/8pdAYvnDbwE?t=38s and https://youtu.be/8pdAYvnDbwE?t=1m52s
+[2016/01/09 11:02:43] <Karkus> This is my idea, the penguin one.
+[2016/01/09 11:03:04] <Karkus> Press up, swim up
+[2016/01/09 11:03:08] <Karkus> Press down, swim down
+[2016/01/09 11:03:17] <Karkus> Press jump, get a little boost.
+[2016/01/09 11:03:37] <Hume2> I don't like this.
+[2016/01/09 11:03:39] <mt> Karkus: this shouldn't require any bonus, tho (does it in NSMB)?
+[2016/01/09 11:03:47] <Tobbi> Oh!
+[2016/01/09 11:03:48] <Karkus> mt: It won't.
+[2016/01/09 11:03:52] <Hume2> Agreed.
+[2016/01/09 11:03:54] <Karkus> mt: But in NSMB it does.
+[2016/01/09 11:04:13] <Hume2> Penguins can survive in water for 9 mins.
+[2016/01/09 11:04:18] <Karkus> So, in NSMB You need penguin mario, but Tux is a penguin already.
+[2016/01/09 11:04:18] <Tobbi> But a bonus would be a great solution to the contrib level problems.
+[2016/01/09 11:04:28] <Karkus> Tobbi: But penguins can swim.
+[2016/01/09 11:04:32] <Tobbi> Hrm.
+[2016/01/09 11:04:36] <Tobbi> Damn, yes, right
+[2016/01/09 11:04:52] <Karkus> Hume2: What don't you like?
+[2016/01/09 11:05:06] <Hume2> Penguins don't swim like that.
+[2016/01/09 11:05:11] <mt> Tobbi: well, level designers were told not to use it
+[2016/01/09 11:05:21] <Karkus> Hume2: How do penguins swim?
+[2016/01/09 11:05:24] <maths22> mt: What were level designers told not to use?
+[2016/01/09 11:05:32] <Karkus> maths22: Water.
+[2016/01/09 11:05:32] <mt> maths22: water
+[2016/01/09 11:05:34] <Tobbi> mt: But, I like the way "Yeti's revenge" uses water. I'd not like to break it.
+[2016/01/09 11:05:35] <Hume2> Karkus: As I decribed.
+[2016/01/09 11:05:45] <mt> Tobbi: hm
+[2016/01/09 11:05:54] <Tobbi> Yeti's revenge is *the* best level set there is in SuperTux
+[2016/01/09 11:06:01] <mt> we could make it require a bonus, as long as a specific variable isn't set
+[2016/01/09 11:06:14] <Tobbi> That would be confusing...
+[2016/01/09 11:06:15] <mt> and in our levels, on spawn, we call a script that sets that variable
+[2016/01/09 11:06:19] <Karkus> mt: No, penguins are good swimmers.
+[2016/01/09 11:06:26] <Tobbi> We need to think of a better way.
+[2016/01/09 11:06:32] <Hume2> It would be invisible.
+[2016/01/09 11:06:42] <Hume2> Maybe something like level rules.
+[2016/01/09 11:06:46] <mt> Karkus: that would make it possible to still play the bonus levels without dropping support for it
+[2016/01/09 11:06:56] <maths22> Conceptually, what would happen with swimming in "The Somewhat Smaller Bath"?
+[2016/01/09 11:07:01] <mt> but from my side, we can drop the external levels
+[2016/01/09 11:07:10] <Karkus> mt: we can remove the water from the levels
+[2016/01/09 11:07:18] <Hume2> When is a level rule swimming #t, it would be possible to swim in that level.
+[2016/01/09 11:07:24] <mt> maths22: I think it would work in "The Somewhat Smaller Bath"
+[2016/01/09 11:07:27] <Karkus> Hume2: no, no, no, no, no.
+[2016/01/09 11:07:34] <mt> possibly just as it was intended to do
+[2016/01/09 11:07:37] <Hume2> Ok, just an idea.
+[2016/01/09 11:07:41] <Karkus> That's just confusing.
+[2016/01/09 11:08:03] <maths22> All levels need to treat water the same, however that is
+[2016/01/09 11:08:10] <Karkus> maths22: Correct.
+[2016/01/09 11:08:26] <mt> who wants change the water behavior for all levels? who wants to keep supporting old-style water?
+[2016/01/09 11:08:38] <mt> # this is a question ^^
+[2016/01/09 11:08:44] <maths22> Hear my idea (it may be stupid) - make walking slower in water, and press action to swim?
+[2016/01/09 11:08:48] <Hume2> I'm for all levels.
+[2016/01/09 11:08:50] <mt> I'm for dropping the old behavior
+[2016/01/09 11:09:08] <Tobbi> I'm for using the old behaviour and solving the problem some other way.
+[2016/01/09 11:09:22] <maths22> Tobbi: What problem is being solved
+[2016/01/09 11:09:35] <Tobbi> maths22: Well, adding ability to swim...
+[2016/01/09 11:09:40] <Tobbi> It's hard though...
+[2016/01/09 11:09:42] <maths22> Tobbi: OK!
+[2016/01/09 11:09:48] <maths22> What did you think of my suggestion?
+[2016/01/09 11:09:57] <Karkus> Tobbi: The old behaviour is crap.
+[2016/01/09 11:09:57] <Tobbi> maths22: Might work?
+[2016/01/09 11:10:13] <mt> so, more people in support of dropping the old behavior, I guess?
+[2016/01/09 11:10:21] <maths22> Karkus: Doesn't the old behavior just ignore the fact that it is water?
+[2016/01/09 11:10:25] <Tobbi> Hrm...
+[2016/01/09 11:10:28] <Karkus> maths22: Yeah.
+[2016/01/09 11:10:47] <Hume2> maths22: What was it again? PM
+[2016/01/09 11:10:52] <maths22> I personally think the old behavior should be replaced with something new that keeps existing water playable
+[2016/01/09 11:11:03] <Hume2> Agreed.
+[2016/01/09 11:11:04] <Tobbi> Actually... We need to revise the levels using water.
+[2016/01/09 11:11:13] <Tobbi> And see if adding swimming would make those too easy.
+[2016/01/09 11:11:26] <Karkus> maths22: Whoever added water to their level was wrong to do so.
+[2016/01/09 11:11:31] <Tobbi> I'm merely thinking of the Yeti's Revenge ones as they use water.
+[2016/01/09 11:11:43] <giby>  /msg ChanServ FLAGS #supertux
+[2016/01/09 11:11:59] <Tobbi> But, let's put this as an action item.
+[2016/01/09 11:12:03] <datahead7777> You could just make it so that swimmable water is represented differently than the kind of water that already existed in some levels
+[2016/01/09 11:12:09] <Tobbi> We could also have a water entering animation...
+[2016/01/09 11:12:11] <maths22> Karkus: Forest world and icyisland both have water
+[2016/01/09 11:12:11] <datahead7777> (internally)
+[2016/01/09 11:12:19] <mt> the thing is
+[2016/01/09 11:12:22] <Karkus> maths22: Wrongly.
+[2016/01/09 11:12:23] <mt> the level design guide
+[2016/01/09 11:12:25] <mt> said
+[2016/01/09 11:12:29] <mt> 'Don't use water'
+[2016/01/09 11:12:33] <maths22> mt: Link?
+[2016/01/09 11:12:34] <mt> 'unless it's finished'
+[2016/01/09 11:12:47] <Hume2> Agree with mt.
+[2016/01/09 11:12:58] <mt> http://supertux.lethargik.org/wiki/Milestone_2_Design_Document/Styleguide#Other
+[2016/01/09 11:12:59] <Hume2> It's really there-
+[2016/01/09 11:13:07] <mt> "Avoid using any water. Swimming and water physics have not been finalized, so any current water behavior is unreliable. "
+[2016/01/09 11:13:09] <Karkus> I am willing to personally fix every single level which uses water.
+[2016/01/09 11:13:11] <maths22> Hume2: I wasn't saying it wasn't - I just wanted to see it
+[2016/01/09 11:13:33] <Tobbi> Okay, fine, so we got an agreement and an action item.
+[2016/01/09 11:13:39] <Hume2> Karkus: I could help you with that.
+[2016/01/09 11:13:48] <mt> I'd also help
+[2016/01/09 11:14:02] <Karkus> Tobbi: What's that supposed to mean?
+[2016/01/09 11:14:43] <Tobbi> Karkus: action item?
+[2016/01/09 11:14:44] @ Mode -v ultimategiby by ChanServ
+[2016/01/09 11:14:55] <Karkus> Tobbi: Yes.
