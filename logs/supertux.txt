@@ -39397,3 +39397,6 @@
 [2016/01/09 05:07:19] @ Zombie left channel #supertux ("Leaving")
 [2016/01/09 05:19:55] @ Quit: datahead8888_: Read error: Connection reset by peer
 [2016/01/09 05:20:12] @ datahead8888_ joined channel #supertux
+[2016/01/09 05:50:58] @ Quit: stewboy: Read error: Connection reset by peer
+[2016/01/09 05:55:37] <snadge> i was about to say something abusive
+[2016/01/09 05:55:48] <snadge> drinking scotch and playing supertux
