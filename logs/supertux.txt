@@ -39429,3 +39429,35 @@
 [2016/01/09 08:58:54] <pentagon> [10flexlay] 07Karkus476 commented on issue 09#71: Undo/Redo Crash 13http://git.io/vu7df
 [2016/01/09 08:59:31] <Tobbi> Karkus: Great that I didn't write defective code.
 [2016/01/09 08:59:57] <Karkus> Tobbi: :D
+[2016/01/09 09:04:37] @ Quit: claymore2: Quit: Leaving
+[2016/01/09 09:05:29] <giby> Hi all
+[2016/01/09 09:06:25] @ giby_the_kid joined channel #supertux
+[2016/01/09 09:06:25] @ Mode +o giby_the_kid by ChanServ
+[2016/01/09 09:06:28] <Tobbi> Oh!
+[2016/01/09 09:06:33] <Tobbi> The meeting.
+[2016/01/09 09:06:51] <Tobbi> one hour...
+[2016/01/09 09:06:55] <giby_the_kid> Tobbi, did I miss it?
+[2016/01/09 09:07:04] <Tobbi> giby_the_kid: No, it's in 54 minutes.
+[2016/01/09 09:07:53] <giby_the_kid> True... here 15:07 GMT+1... I was better in Iceland to compute GMT hours :p
+[2016/01/09 09:08:23] <head8debian> snadge: Please don't mention that you are drinking. ;) THis channel is not about drinking, its about supertux.
+[2016/01/09 09:08:34] <head8debian> Good afternoon giby_the_kid.
+[2016/01/09 09:08:42] <giby_the_kid> Hi head8debian
+[2016/01/09 09:08:51] <giby> Hi Me :p
+[2016/01/09 09:09:04] <giby_the_kid> How am I doing?
+[2016/01/09 09:09:11] <giby> Fine and me?
+[2016/01/09 09:09:14] <head8debian> giby_the_kid: :p
+[2016/01/09 09:09:28] <head8debian> giby_the_kid: Im going out with me three friends. I me and my. :p
+[2016/01/09 09:09:33] <head8debian> my*
+[2016/01/09 09:09:45] <giby> Take yourself with you
+[2016/01/09 09:10:39] <Karkus> s/topic/test/
+[2016/01/09 09:10:39] <red_bot> Karkus: You did something wrong... Try s/you/me/ or tell me "help sed"
+[2016/01/09 09:11:56] <Tobbi> Karkus: that only works for things you said previously.
+[2016/01/09 09:12:50] <Tobbi> Karkus: That doesn't work in either space.
+[2016/01/09 09:13:02] <Tobbi> eeh, rather not the +v space.
+[2016/01/09 09:13:02] <Karkus> Tobbi: What do you mean?
+[2016/01/09 09:13:12] @ xet7 joined channel #supertux
+[2016/01/09 09:13:15] <Tobbi> Karkus: For some reason, red_bot doesn't monitor these.
+[2016/01/09 09:13:17] <Karkus> Tobbi: That's what I was testing
+[2016/01/09 09:13:22] <Tobbi> ok
+[2016/01/09 09:14:23] @ benjamin__ joined channel #supertux
+[2016/01/09 09:14:53] @ benjamin__ is now known as ultimategiby
