@@ -39360,3 +39360,4 @@
 [2016/01/08 22:57:48] <polyphagia> "it's such a beautiful world, can't we all live as on and in peace?"
 [2016/01/08 22:57:53] <polyphagia> one*
 [2016/01/08 22:57:55] <polyphagia> :P
+[2016/01/08 23:02:46] @ tux|dude joined channel #supertux
