@@ -39640,3 +39640,124 @@
 [2016/01/09 09:59:50] <Tobbi> Hello maths22.
 [2016/01/09 09:59:54] <Tobbi> I am impressed.
 [2016/01/09 09:59:56] <Tobbi> Right on time!
+[2016/01/09 10:00:03] <Tobbi> Okay.
+[2016/01/09 10:00:08] <Tobbi> Hello everyone.
+[2016/01/09 10:00:12] <mt> Let's start!
+[2016/01/09 10:00:13] <Tobbi> To this our first meeting.
+[2016/01/09 10:00:18] <Tobbi> I'll let mt lead it.
+[2016/01/09 10:00:19] <Tobbi> :P
+[2016/01/09 10:00:21] <Karkus> From here on, nothing off topic!
+[2016/01/09 10:00:35] <mt> OK then
+[2016/01/09 10:00:39] <giby> Tobbi, first meeting after M2 :p
+[2016/01/09 10:00:40] <mt> Karkus: good point
+[2016/01/09 10:00:43] <Tobbi> giby: Yes.
+[2016/01/09 10:00:57] <mt> So we have https://github.com/SuperTux/supertux/issues/292 as our meeting agenda
+[2016/01/09 10:01:01] @ Hume2 joined channel #supertux
+[2016/01/09 10:01:01] @ Mode +v Hume2 by ChanServ
+[2016/01/09 10:01:02] <giby> So lets discuss, Markus had a list
+[2016/01/09 10:01:03] <maths22> We have working logging, right?
+[2016/01/09 10:01:08] <Karkus> Hume2: Hello!
+[2016/01/09 10:01:08] <Tobbi> Hello Hume2. Right on time.
+[2016/01/09 10:01:10] <mt> Oh Hume2, welcome,
+[2016/01/09 10:01:14] <Hume2> Hello
+[2016/01/09 10:01:18] <Tobbi> giby: Markus = me?
+[2016/01/09 10:01:24] <Tobbi> Or did you mean Karkus_
+[2016/01/09 10:01:24] <Tobbi> ?
+[2016/01/09 10:01:55] <mt> Karkus: since you have some points on #292: want to start with that?
+[2016/01/09 10:01:56] <giby> ... damn autocorect
+[2016/01/09 10:01:59] <Tobbi> Roadmap: https://github.com/SuperTux/supertux/issues/292
+[2016/01/09 10:02:07] <Tobbi> or rather meeting logs.
+[2016/01/09 10:02:23] <giby> lets talk about forest...
+[2016/01/09 10:02:29] <Karkus> Okay, everyone: Future of the forest world.
+[2016/01/09 10:02:35] <giby> Hi Hume2
+[2016/01/09 10:02:49] <Tobbi> In my opinion, forest world is great. It's too well known and used across addon levels.
+[2016/01/09 10:02:51] <giby> Forest needs a boss...
+[2016/01/09 10:02:54] <Tobbi> So we can't remove it.
+[2016/01/09 10:02:58] <mt> http://forum.freegamedev.net/viewtopic.php?f=67&t=6697
+[2016/01/09 10:03:08] <Karkus> Tobbi: I don't think we should remove it either
+[2016/01/09 10:03:13] <maths22> Why might we even possibly want to remove it?
+[2016/01/09 10:03:21] <mt> yeah, we should actually fix it
+[2016/01/09 10:03:22] <Karkus> I think we need a plan on how to update it.
+[2016/01/09 10:03:29] <Tobbi> maths22: The old README stated that it might get removed.
+[2016/01/09 10:03:44] <mt> Could we, like, make a branch `forest-world-redesign`
+[2016/01/09 10:03:48] <Tobbi> What I would suggest is for the graphics to be improved...
+[2016/01/09 10:03:50] <mt> and work on the worldmap in there
+[2016/01/09 10:03:56] <Tobbi> mt: Good idea.
+[2016/01/09 10:03:56] <mt> and all other stuff?
+[2016/01/09 10:04:08] <Hume2> We need to improve the ghosttree.
+[2016/01/09 10:04:09] <mt> other stuff = other forest-related stuff
+[2016/01/09 10:04:17] <maths22> Keeping that separate would make sense
+[2016/01/09 10:04:22] <mt> do we agree on keeping ghosttree?
+[2016/01/09 10:04:31] <maths22> Hume2: I've actually never figured out how one is supposed to beat ghosttree
+[2016/01/09 10:04:38] <mt> or should we trash it for something other
+[2016/01/09 10:04:42] <mt> maths22: same
+[2016/01/09 10:04:43] <maths22> Can someone explain the idea of ghosttree?
+[2016/01/09 10:04:48] @ irungentoo joined channel #supertux
+[2016/01/09 10:04:51] <Tobbi> Might only be my opinion but I still prefer the icy graphics more than the forest graphics. If that can be changed, that would be great.
+[2016/01/09 10:04:57] <Hume2> maths22: PM
+[2016/01/09 10:05:13] <giby> Hume2, gist-tree is the proposed boss? The ugly stuff we cannot kill?
+[2016/01/09 10:05:20] <mt> Hume2: can you PM me as well about that?
+[2016/01/09 10:05:26] <Tobbi> I mean: if the forest graphics could be improved and good quality graphics can be added, that would be great.
+[2016/01/09 10:05:31] <Karkus> mt: Trash
+[2016/01/09 10:05:35] <Hume2> mt: OK, PM
+[2016/01/09 10:05:46] <mt> Tobbi: some of the forest graphics are well designed some levels look ugly tho
+[2016/01/09 10:05:47] <maths22> Tobbi: I think the Icy graphics are more polished, and therefore look better
+[2016/01/09 10:05:55] <mt> because the tiles aren't used in a proper place
+[2016/01/09 10:06:05] <Tobbi> maths22, mt: We desperately need a graphics designer.
+[2016/01/09 10:06:11] <giby> Ghost tree is a bad boss... something else had been proposed
+[2016/01/09 10:06:17] <Tobbi> No one of us is any good when it comes to GIMP / photoshop.
+[2016/01/09 10:06:22] <maths22> Do we have the sources for most of the graphics (i.e. the XCF files or whatever)
+[2016/01/09 10:06:31] <Tobbi> maths22: I believe most of those are in the media repo
+[2016/01/09 10:07:03] <mt> there's also http://pingus.seul.org/~grumbel/gimp/drawing/
+[2016/01/09 10:07:06] <Hume2> Each boss should have two attacks.
+[2016/01/09 10:07:24] <Hume2> So add one attack to ghosttree or make a new one.
+[2016/01/09 10:07:33] <maths22> I was thinking about this earlier-I wounder if the data dir should really be its own branch in a submodule
+[2016/01/09 10:07:35] <Karkus> The forest boss should be harder, and more interesting
+[2016/01/09 10:07:40] <Hume2> Actuallly...
+[2016/01/09 10:07:48] <Hume2> Ghosttree has two attacks.
+[2016/01/09 10:07:56] <Tobbi> maths22: Data dir in a submodule could be interesting.
+[2016/01/09 10:08:13] <Karkus> Hume2: But, it's not clear what you have to do, and it's not a very interesting fight.
+[2016/01/09 10:08:29] <Karkus> maths22: That's an interesting idea
+[2016/01/09 10:08:30] <maths22> Tobbi: Ideally that would have already happened, because my main reason for suggesting it it to shrink the main repository
+[2016/01/09 10:08:42] <maths22> Checking it out takes way longer than necessary
+[2016/01/09 10:08:50] <Tobbi> For the graphics designer to know what to do, we actually need some actual items for them to do.
+[2016/01/09 10:08:50] <Hume2> Karkus: Give it more lives?
+[2016/01/09 10:09:02] <mt> well we still shouldn't put the graphics sources into the data repo
+[2016/01/09 10:09:04] <Karkus> Hume2: That makes it longer, not more interesting
+[2016/01/09 10:09:07] <maths22> For most code-related purposes, the history of the data dir is irrelevent
+[2016/01/09 10:09:10] <maths22> mt: I agree
+[2016/01/09 10:09:25] <maths22> That should be its own thing
+[2016/01/09 10:09:28] <Tobbi> So, let's have a supertux data submodule, I am all for that.
+[2016/01/09 10:09:32] <Karkus> Would that mean ci-skip wouldn't be needed?
+[2016/01/09 10:09:40] <Tobbi> We can then also easily separate media related issues / bugs from code.
+[2016/01/09 10:09:52] <Tobbi> Yes, I believe so.
+[2016/01/09 10:09:53] <Tobbi> :D
+[2016/01/09 10:09:54] <Hume2> Ok, but it's off-topic now.
+[2016/01/09 10:09:57] <mt> speaking of sources, we should import https://discarded-ideas.org/music to some media repo
+[2016/01/09 10:10:01] <giby> Else for Boss in forest there was another proposal http://supertux.lethargik.org/wiki/Bosses
+[2016/01/09 10:10:14] <mt> Karkus: no, because some changes still don't affect the build
+[2016/01/09 10:10:35] <Karkus> mt: But, for commits to the data repo
+[2016/01/09 10:11:09] <Karkus> I think we should definitely remake the worldmap for the forest
+[2016/01/09 10:11:21] <Tobbi> The actual layout or also the design?
+[2016/01/09 10:11:27] <Tobbi> Aka, get new redesigned tiles?
+[2016/01/09 10:11:28] <Karkus> Tobbi: layout
+[2016/01/09 10:11:31] <Tobbi> okay.
+[2016/01/09 10:11:46] <grumbel> As for bosses, I would mostly just forget about them. They have a terrible work-to-playtime ratio and aren't really worth the effort
+[2016/01/09 10:11:55] <giby> the style of Iceland having changed, forest should be corrected accordingly
+[2016/01/09 10:12:16] <Karkus> And I think the level "A Mouldy Grotto" could be underground and be dark with the earth powerup
+[2016/01/09 10:12:19] <grumbel> If somebody wants to code a boss and make it fun, that's fine, but design-by-committee is just a waste of effort
+[2016/01/09 10:12:21] <maths22> Karkus: I agree on the layout.  I personally would kind of like the layout style of Hume's Rainbow Caves (with branches with keys at the end)
+[2016/01/09 10:12:34] <maths22> I don't know what other people would like concerning layout
+[2016/01/09 10:12:51] <mt> Possibly bosses could be replaced with some harder levels
+[2016/01/09 10:13:03] <mt> where scripting is used to unlock the castle
+[2016/01/09 10:13:29] <maths22> mt: I'm not sure what I follow with that last point
+[2016/01/09 10:13:29] <Karkus> mt: No, we can create a boss, but not really consider it a necessity or priority.
+[2016/01/09 10:13:42] <Tobbi> I will add some last minute additions to the meeting notes...
+[2016/01/09 10:13:53] <mt> Karkus: sounds ok
+[2016/01/09 10:13:53] <Karkus> mt: As in, don't cry if it's not included in M3
+[2016/01/09 10:14:01] <Karkus> mt: We don't cry
+[2016/01/09 10:14:34] <mt> maths22: what's the style of Hume'2 Rainbow Caves? don't remember that anymore
+[2016/01/09 10:14:34] <Karkus> So, in conclusion, we will remake the worldmap.
+[2016/01/09 10:14:47] <mt> yes
+[2016/01/09 10:14:50] <Karkus> But I also think we should get rid of tonnes of levels
+[2016/01/09 10:14:51] <mt> and some levels, I guess
