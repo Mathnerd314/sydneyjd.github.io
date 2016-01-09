@@ -40977,3 +40977,77 @@
 [2016/01/09 12:59:46] * Tobbi sighs in relief.
 [2016/01/09 12:59:52] <polyphagia> ====== END OF END OF MEETING ======
 [2016/01/09 12:59:59] <Karkus> Okay, The logs will end with that message. ^^^
+[2016/01/09 13:00:17] <polyphagia> watch your regex now
+[2016/01/09 13:00:19] <polyphagia> :)
+[2016/01/09 13:00:20] <Karkus> maths22: Did you log it?
+[2016/01/09 13:00:24] <polyphagia> i logged it
+[2016/01/09 13:00:28] <polyphagia> not on purpose but i have it lol
+[2016/01/09 13:00:39] <Karkus> Someone who can edit the wiki.
+[2016/01/09 13:00:42] <Tobbi> We talked for 3 hours...
+[2016/01/09 13:00:46] <Karkus> I will start going through it.
+[2016/01/09 13:00:49] <Tobbi> 3 frickin' hours
+[2016/01/09 13:00:56] <polyphagia> yeah please don't post the whole thing imo
+[2016/01/09 13:01:09] <Karkus> polyphagia: For now, and we can edit some things out.
+[2016/01/09 13:01:17] <Tobbi> We need more devs to help us with the things we discussed.
+[2016/01/09 13:01:18] <polyphagia> have a list of points at the top, and then just have the relevant quotes. then have the whole thing elsewhere
+[2016/01/09 13:01:20] <polyphagia> oh yeah
+[2016/01/09 13:01:23] <Karkus> The raw text needs to be saved, possibly for quoting.
+[2016/01/09 13:01:42] <polyphagia> Tobbi: you could try posting on /r/gamedev :P
+[2016/01/09 13:01:57] <Karkus> mt: Did you log it?
+[2016/01/09 13:01:59] <Tobbi> polyphagia: Might make sense...I don't have a reddit account though.
+[2016/01/09 13:02:00] <Hume2> So we have discussed all, didn't we?
+[2016/01/09 13:02:02] <Tobbi> Plus, reddit is evil.
+[2016/01/09 13:02:07] <polyphagia> why is reddit evil?
+[2016/01/09 13:02:07] <Tobbi> Hume2: Yes, end of meeting.
+[2016/01/09 13:02:12] <Tobbi> polyphagia: Because.
+[2016/01/09 13:02:13] <Tobbi> :P
+[2016/01/09 13:02:14] <polyphagia> oh ok
+[2016/01/09 13:02:16] <Karkus> Hume2: Mostly, but the meeting is over anyhow.
+[2016/01/09 13:02:21] <polyphagia> i thought you had a moral objection to it or something Tobbi
+[2016/01/09 13:02:22] <Tobbi> Hume2: I am tired... so tired.
+[2016/01/09 13:02:41] <polyphagia> anyway yeah that might work
+[2016/01/09 13:02:49] <Tobbi> polyphagia: There used to be a lot of questionable content on there, unless I am mistaken.
+[2016/01/09 13:02:54] <Tobbi> Maybe I am mixing it up.
+[2016/01/09 13:03:06] <polyphagia> once github issues are made for everything needing to be done
+[2016/01/09 13:03:08] <Tobbi> Something about putting little babies in a dishwasher.
+[2016/01/09 13:03:12] <polyphagia> it can be posted as a TODO list for any eager indie devs
+[2016/01/09 13:03:14] <polyphagia> lol
+[2016/01/09 13:03:15] <Tobbi> Oh, wait, no. That's what I invented :D
+[2016/01/09 13:03:22] <polyphagia> there's also bountysource which might work
+[2016/01/09 13:03:35] <Karkus> Tobbi: s/I/We/
+[2016/01/09 13:03:42] <polyphagia> :D
+[2016/01/09 13:03:57] <Tobbi> Karkus: Right, Indeed. We were highly creative that day.
+[2016/01/09 13:04:08] <Tobbi> :D
+[2016/01/09 13:04:10] <Karkus> Tobbi: Didn't we discuss kidnapping developers in the same conversation?
+[2016/01/09 13:04:21] <Tobbi> Karkus: I really can't remember. Would need to check the logs.
+[2016/01/09 13:04:36] <Karkus> Tobbi: Did you log this discussion?
+[2016/01/09 13:04:51] <Tobbi> Karkus: It should be on my disk...
+[2016/01/09 13:04:56] <Tobbi> I think.
+[2016/01/09 13:05:10] <Karkus> Can you make a wiki page?
+[2016/01/09 13:05:10] <Tobbi> If not, many other people logged it.
+[2016/01/09 13:05:24] <Karkus> Someone post the log somewhere!
+[2016/01/09 13:05:37] <polyphagia> i'll do it if you tell me where
+[2016/01/09 13:05:38] <Tobbi> I'll try to get something to eat.
+[2016/01/09 13:05:40] <Tobbi> Something proper...
+[2016/01/09 13:05:54] <polyphagia> it should fit on paste.debian
+[2016/01/09 13:06:10] <Karkus> Yeah, put it there for now, I will look through it.
+[2016/01/09 13:07:05] <pentagon> [10supertux] 07Karkus476 commented on issue 09#292: SuperTux Team Meeting Jan 9 2016 13http://git.io/vEz6F
+[2016/01/09 13:07:06] <pentagon> [10supertux] 07Karkus476 closed issue 09#292: SuperTux Team Meeting Jan 9 2016 13http://git.io/vEz6F
+[2016/01/09 13:07:42] <pentagon> [10supertux] 07Karkus476 closed issue 09#208: Poll: Which Wiki? 13http://git.io/vWDTs
+[2016/01/09 13:07:44] <pentagon> [10supertux] 07Karkus476 commented on issue 09#208: Poll: Which Wiki? 13http://git.io/vWDTs
+[2016/01/09 13:09:08] <pentagon> [10supertux] 07Karkus476 commented on issue 09#316: Burning Should Be a Particle Effect 13http://git.io/vEhTQ
+[2016/01/09 13:09:23] <polyphagia> https://paste.debian.net/hidden/d39891a1/
+[2016/01/09 13:09:27] <polyphagia> Karkus: ^
+[2016/01/09 13:10:12] <Karkus> polyphagia: Thanks
+[2016/01/09 13:10:28] <Karkus> >1300 lines, fricking hell!
+[2016/01/09 13:11:03] <polyphagia> :P
+[2016/01/09 13:11:07] <pentagon> [10supertux] 07Hume2 commented on issue 09#292: SuperTux Team Meeting Jan 9 2016 13http://git.io/vEz6F
+[2016/01/09 13:11:24] <Karkus> I will post an edited and unedited version on the website.
+[2016/01/09 13:11:53] <polyphagia> $ awk '/From here on\, nothing off topic\!/{flag=1;next}/Meeting adjourned\./{flag=0}flag'
+[2016/01/09 13:11:55] <polyphagia> satisfying
+[2016/01/09 13:11:56] <polyphagia> :P
+[2016/01/09 13:12:05] <Tobbi> 1300 lines in 3 hours.
+[2016/01/09 13:12:31] <Hume2> Karkus: I've noted that the burning animations will stay as is.
+[2016/01/09 13:12:43] <Karkus> Hume2: Which isn't what we agreed upon.
+[2016/01/09 13:12:48] <Karkus> Let me check the log.
+[2016/01/09 13:13:57] <Karkus> Hume2: I'm pretty sure we said it should be a particle effect.
