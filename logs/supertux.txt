@@ -39282,3 +39282,25 @@
 [2016/01/08 21:06:01] <polyphagia> OH
 [2016/01/08 21:06:03] <polyphagia> that's where he's  from
 [2016/01/08 21:06:28] <polyphagia> yeah i've seen a lot of numberphile videos
+[2016/01/08 21:32:51] <pentagon> [10supertux] 07NikkOfTime commented on issue 09#303: Glitch/Bug in "A fork in the road". 13http://git.io/vEDQ5
+[2016/01/08 21:33:30] <polyphagia> Tobbi: how much time does your public education spend on ww2?
+[2016/01/08 21:33:41] <polyphagia> and what do they discuss
+[2016/01/08 21:34:05] <Tobbi> polyphagia: We had it to quite some extent in the 11th (?) grade
+[2016/01/08 21:34:12] <polyphagia> but never earlier?
+[2016/01/08 21:34:21] <Tobbi> Are you afraid they might teach us propaganda?
+[2016/01/08 21:34:24] <Tobbi> :D
+[2016/01/08 21:34:34] <polyphagia> haha no i was just wondering what they covered. it was kind of a big deal here
+[2016/01/08 21:34:43] <polyphagia> grade 6 they showed us all the gorey movies and everything
+[2016/01/08 21:34:48] <Tobbi> polyphagia: I don't really remember how extensively we had it in school.
+[2016/01/08 21:34:53] <Tobbi> sorry.
+[2016/01/08 21:35:05] <polyphagia> no it's ok i was just curious
+[2016/01/08 21:36:33] <polyphagia> it's ok Tobbi we have our own guilt to worry about :P
+[2016/01/08 21:37:13] <Tobbi> polyphagia: To be honest: It is not our guilt anymore. We, as in, the people who currently live here, never experienced WW2, nor did they have any influence.
+[2016/01/08 21:37:18] <polyphagia> oh yeah
+[2016/01/08 21:37:32] <polyphagia> for sure
+[2016/01/08 21:37:36] <polyphagia> i was being semi-ironic
+[2016/01/08 21:37:37] @ Quit: pentagon: Remote host closed the connection
+[2016/01/08 21:37:41] <Tobbi> :) it's fine.
+[2016/01/08 21:37:44] @ pentagon joined channel #supertux
+[2016/01/08 21:37:45] <polyphagia> just because it's dwelled on so much
+[2016/01/08 21:40:52] <Tobbi> polyphagia: https://www.youtube.com/watch?v=ISz9w8pTZZE
