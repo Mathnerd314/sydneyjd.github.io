@@ -38911,3 +38911,27 @@
 [2016/01/08 18:17:34] @ polyphagia joined channel #supertux
 [2016/01/08 18:42:12] @ jesusalva joined channel #supertux
 [2016/01/08 18:43:34] @ Quit: claymore2_: Quit: Leaving
+[2016/01/08 18:45:16] <pentagon> [10supertux] 07tobbi commented on commit 9ea1879e 13http://git.io/vuHmu
+[2016/01/08 18:45:26] <Tobbi> oh, yes that's new.
+[2016/01/08 18:53:29] @ Quit: polyphagia: Ping timeout: 246 seconds
+[2016/01/08 18:53:50] <pentagon> [10supertux] 07tobbi pushed 19 commits to 09coverity_scan 13http://git.io/vuHO8
+[2016/01/08 18:53:52] <pentagon> [10supertux] 07Hume2 1462c2b50 Dispenser::colgroup_active is now allocated
+[2016/01/08 18:53:53] <pentagon> [10supertux] 07Karkus476 144b8cd24 Copyright message 2015 -> 2016
+[2016/01/08 18:53:54] <pentagon> [10supertux] 07tobbi 146f43b72 Add missing tux run sprite, adapt animation fps
+[2016/01/08 18:53:56] <pentagon> [10supertux] 07Hume2 14fa7a10d Sequence is now enumial instead of string.
+[2016/01/08 18:53:57] <pentagon> [10supertux] 07Hume2 14324620a Fixed infoblock in incubator/long.stl
+[2016/01/08 18:53:59] <pentagon> [10supertux] 07tobbi 1493b2a42 sequence.cpp: Code review
+[2016/01/08 18:54:00] <pentagon> [10supertux] 07maxteufel 14a904923 bonus1/thompson-level2: fix issue with big Tux being visible in pipe
+[2016/01/08 18:54:01] <pentagon> [10supertux] 07Hume2 14488ff06 Rewieved bonus1/thompson-level1.stl
+[2016/01/08 18:54:03] <pentagon> [10supertux] 07Hume2 146f5761a Using special tiles on worldmap spawn
+[2016/01/08 18:54:04] <Tobbi> Okay, it lists all of them :D
+[2016/01/08 18:54:05] <pentagon> [10supertux] 07tobbi 146f1df2b Remove German strings from Missingno.stl level [ci skip]
+[2016/01/08 18:54:05] <pentagon> [10supertux] 07tobbi 147994a73 Remove another German source string from level, update translations/ submodule
+[2016/01/08 18:54:07] <pentagon> [10supertux] 07tobbi 1474ea362 Remove unneeded method declarations in ispy.hpp
+[2016/01/08 18:54:09] <pentagon> [10supertux] 07tobbi 141c51087 Mark virtual method collides and overriding methods as const
+[2016/01/08 18:54:10] <pentagon> [10supertux] 07tobbi 14917f0f5 Remove outdated void in parameter lists from method declarations
+[2016/01/08 18:54:12] <pentagon> [10supertux] 07tobbi 1444c0114 Mark get_path and get_walker const
+[2016/01/08 18:54:13] <pentagon> [10supertux] 07tobbi 14a0a2186 Code review in torch.cpp [ci skip]
+[2016/01/08 18:54:14] <pentagon> [10supertux] 07tobbi 14aad45d8 Change comparison with empty string with appropriate calls to empty()
+[2016/01/08 18:54:16] <pentagon> [10supertux] 07tobbi 14fa82bd9 Fix tile IDs of storm-cloud.png
+[2016/01/08 18:54:18] <pentagon> [10supertux] 07Hume2 14256b18c Fixed: Goldbomb doesn't collide with bullets when ticking.
