@@ -41100,3 +41100,17 @@
 [2016/01/09 13:29:28] <mt> So, I have pushed the current content of https://github.com/SuperTux/supertux.wiki.git to it
 [2016/01/09 13:29:42] <Tobbi> ok
 [2016/01/09 13:29:55] <mt> for managing PRs, it's useful to be able to push to that, you can simply add https://github.com/SuperTux/supertux.wiki.git as another remote :)
+[2016/01/09 13:30:32] <mt> pentagon: github announce add #supertux SuperTux wiki
+[2016/01/09 13:30:33] <pentagon> mt: The operation succeeded.
+[2016/01/09 13:30:46] <mt> Tobbi: you can add it for the announcements as well
+[2016/01/09 13:30:51] <Tobbi> ok
+[2016/01/09 13:30:52] <mt> you know, same settings
+[2016/01/09 13:30:55] @ supertux|69935 joined channel #supertux
+[2016/01/09 13:31:05] <mt> might want to disable the issues for the wiki repo
+[2016/01/09 13:31:14] <mt> a wiki doesn't have issues, users should fix them
+[2016/01/09 13:31:22] @ Quit: Hume2: Quit: Page closed
+[2016/01/09 13:32:10] @ Quit: supertux|69935: Client Quit
+[2016/01/09 13:35:39] <pentagon> [10addons] 07LMH0013 commented on issue 09#12: repository.nfo is all messed up 13http://git.io/vu5VS
+[2016/01/09 13:35:40] <pentagon> [10addons] 07LMH0013 assigned issue 09#12: repository.nfo is all messed up 13http://git.io/vu5VS
+[2016/01/09 13:37:30] <pentagon> [10addons] 07tobbi commented on issue 09#12: repository.nfo is all messed up 13http://git.io/vu5VS
+[2016/01/09 13:39:12] <pentagon> [10addons] 07maxteufel commented on issue 09#13: SuperTux 0.3.5a fails to parse repository file index-0_4_0.nfo 13http://git.io/vu5Vp
