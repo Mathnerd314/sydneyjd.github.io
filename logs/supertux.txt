@@ -39576,3 +39576,67 @@
 [2016/01/09 09:43:50] <Tobbi> Talk to giby in that aspect.
 [2016/01/09 09:43:59] @ lumidify joined channel #supertux
 [2016/01/09 09:44:13] <mt> you probably don't want to be founder, do you?
+[2016/01/09 09:45:49] <Tobbi> mt: I could be, I guess I will still be around for some time...
+[2016/01/09 09:45:57] <Tobbi> even though I said I won't be...
+[2016/01/09 09:46:02] <ultimategiby> mt, why would me need it?
+[2016/01/09 09:46:57] <mt> giby, ultimategiby: because there might be new contributors and you aren't always around
+[2016/01/09 09:47:24] <mt> and in case of a channel emergency with a takeover +Oo isn't enough
+[2016/01/09 09:47:49] <Tobbi> mt: Should we add a note to the downloads page that Linux people can download binary packages from their distribution's repositories?
+[2016/01/09 09:48:00] <mt> Tobbi: +1
+[2016/01/09 09:48:33] <Tobbi> Otherwise, people using Linux will complain about "Why can't I download the game, it's just available for Windows and Mac"
+[2016/01/09 09:48:42] <Tobbi> head8debian: Can you do that?
+[2016/01/09 09:48:42] <giby> If a contrib is actif enough, I'll figure that out... anyway adding a privilege to anyone is after concertation with others
+[2016/01/09 09:49:41] <giby> The founders right is big and more people get it more we risk issues...
+[2016/01/09 09:49:43] <Karkus> Tobbi: Except, it's not on the Ubuntu repos...
+[2016/01/09 09:49:54] <Tobbi> Karkus: uh? Why not?
+[2016/01/09 09:50:05] <Karkus> Tobbi: I can't find it...
+[2016/01/09 09:50:10] * Tobbi checks
+[2016/01/09 09:50:10] <Karkus> Actually, let me check
+[2016/01/09 09:50:14] <mt> giby: then add some people with +Aeiotvf
+[2016/01/09 09:50:20] <mt> that is *not* founder
+[2016/01/09 09:51:15] <Tobbi> What access level do I currently have?
+[2016/01/09 09:51:28] <mt> that is +A: view ACL, +e: unban self, +i: use /cs invite and getkey, +o: /cs op, +t: /cs topic, +v: /cs voice, +f: assign the previous flags to others
+[2016/01/09 09:51:48] <mt> Tobbi: 4     Tobbi                  +Ofo [modified 2w 5d 23h ago]
+[2016/01/09 09:51:52] <Tobbi> ok
+[2016/01/09 09:52:05] <Tobbi> So, I do have founder status, don't I?
+[2016/01/09 09:52:12] <mt> no
+[2016/01/09 09:52:16] <Tobbi> Ah, right
+[2016/01/09 09:52:19] <Karkus> mt: How do you check?
+[2016/01/09 09:52:20] <mt> +f is *not* founder
+[2016/01/09 09:52:28] <mt> Karkus: /cs access list #supertux
+[2016/01/09 09:52:32] <Tobbi> I am not versed when it comes to IRC access rights.
+[2016/01/09 09:54:11] <Karkus> Tobbi: At least, on linux mint I can only get 0.3.5
+[2016/01/09 09:54:17] <Tobbi> hrm.
+[2016/01/09 09:54:22] <Tobbi> We need to notify them.
+[2016/01/09 09:54:31] <mt> Tobbi: Linux Mint won't update them
+[2016/01/09 09:54:38] <Tobbi> mt: Why not?
+[2016/01/09 09:54:52] <grumbel> Mint feeds from Ubuntu
+[2016/01/09 09:55:09] <mt> they never update software to new versions, just security fixes
+[2016/01/09 09:55:14] <Tobbi> Okay.
+[2016/01/09 09:55:17] <Tobbi> So, well...
+[2016/01/09 09:55:21] <Karkus> mt: Why not?
+[2016/01/09 09:55:22] <mt> except for Firefox, Thunderbird and LibreOffice or so
+[2016/01/09 09:55:29] <mt> Karkus: because stability
+[2016/01/09 09:55:36] <Tobbi> We need to convince them that SuperTux 0.4.0 is a big security fix.
+[2016/01/09 09:55:46] <Tobbi> So big that it needs a new version number.
+[2016/01/09 09:55:48] <mt> that's what all debian/ubuntu based distros do
+[2016/01/09 09:55:49] <grumbel> Karkus: standard practice in all 'stable' distributions ('stable' meaning 'doesn't change' not 'doesn't crash')
+[2016/01/09 09:56:00] <Tobbi> ah!
+[2016/01/09 09:56:23] <mt> Tobbi: they'll just backport everything security related to 0.3.5(a) :D
+[2016/01/09 09:56:49] <Tobbi> damn
+[2016/01/09 09:56:49] <Karkus> I need to change to arch...
+[2016/01/09 09:57:05] <mt> Karkus: or debian sid/unstable if you prefer that
+[2016/01/09 09:57:17] <mt> there again, unstable as in 'does change often'
+[2016/01/09 09:57:25] <mt> or fedora rawhide
+[2016/01/09 09:58:41] <Karkus> mt: Maybe sometime soon. Not now, I would probably just mess it up and delete my computer from existence
+[2016/01/09 09:58:53] <Tobbi> Black hole?
+[2016/01/09 09:58:56] <mt> also https://software.opensuse.org/download.html?project=home%3Amaths22%3ASuperTux&package=supertux2
+[2016/01/09 09:58:57] <Tobbi> Anyway, meeting starts in 2 minutes.
+[2016/01/09 09:59:15] <giby> Meeting in 1 minute
+[2016/01/09 09:59:18] <mt> Karkus: try the ubuntu 14.04 package for Linux Mint 17.3
+[2016/01/09 09:59:31] <mt> 30s
+[2016/01/09 09:59:44] <mt> doesn't look like Hume2 will show up :/
+[2016/01/09 09:59:45] <maths22> Good morning! (or afternoon or whatever depending on where you are)
+[2016/01/09 09:59:50] <Tobbi> Hello maths22.
+[2016/01/09 09:59:54] <Tobbi> I am impressed.
+[2016/01/09 09:59:56] <Tobbi> Right on time!
