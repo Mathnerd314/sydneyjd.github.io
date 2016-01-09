@@ -39875,3 +39875,82 @@
 [2016/01/09 10:29:41] <mt> but not now
 [2016/01/09 10:29:43] <grumbel> Anyway, I agree with giby, I think discussing extra content is a bit premature
 [2016/01/09 10:29:58] <grumbel> I'd prefer smoothing the stuff out that already exists
+[2016/01/09 10:30:16] <Karkus> grumbel: What would you like us to smooth?
+[2016/01/09 10:30:32] <grumbel> like having an editor that actually works across all OSs
+[2016/01/09 10:30:44] <grumbel> maybe some thumbnails in the addon menu
+[2016/01/09 10:30:49] <Karkus> grumbel: That is being worked on.
+[2016/01/09 10:30:50] <giby> Well, To "Decide" about next worlds, we need graph designers, we don't...
+[2016/01/09 10:30:56] <Karkus> grumbel: Good idea
+[2016/01/09 10:31:00] <grumbel> And for something big: multiplayer
+[2016/01/09 10:31:14] <grumbel> (which goes beyond 'smoothing out', but it's mostly code, not content)
+[2016/01/09 10:31:28] <mt> ghost forest is something less big and more smoothing out than multiplayer
+[2016/01/09 10:32:05] <Karkus> mt: But is limited by the editors.
+[2016/01/09 10:32:13] <mt> grumbel: when we're done with 'smoothing out', would you be able to draw some graphics for other worlds?
+[2016/01/09 10:32:15] <mt> Karkus: sure
+[2016/01/09 10:32:26] <Karkus> By the way, Flexlay won the poll.
+[2016/01/09 10:32:30] <Karkus> I think...
+[2016/01/09 10:32:31] <giby> So, Just an idea for multi player: Do we adapt a gameplay like Super Mario 2 US ?
+[2016/01/09 10:32:36] <grumbel> mt: yes, making graphics is not really a problem
+[2016/01/09 10:32:47] <mt> fine
+[2016/01/09 10:32:59] <mt> then we need to figure out what's missing from 'smoothing out'
+[2016/01/09 10:33:01] <Hume2> The stack of discuss themes is getting insane...
+[2016/01/09 10:33:26] <mt> Karkus seems to be working on making flexlay platform compatible, what's missing is bug reports
+[2016/01/09 10:33:44] <Tobbi> I am also contributing something to flexlay...
+[2016/01/09 10:33:54] <mt> let me just test flexlay on OS X
+[2016/01/09 10:34:09] <Karkus> polyphagia: If you could help with Flexlay, then that would be great
+[2016/01/09 10:34:20] <Hume2> How we got from Ghost forest to Editor by the way?
+[2016/01/09 10:34:27] <giby> grumbel, Can we ask you to smooth the tiles of ghost forest for a ghosty world? They didn't tile well
+[2016/01/09 10:34:33] <Tobbi> Right, sorry, let's stay on topic.
+[2016/01/09 10:34:52] <maths22> Hume2: Because we were discussing making levels for the forest - not that that is a good excuse
+[2016/01/09 10:35:02] <mt> Karkus: can you give me some easy tasks for flexlay? I'll also be able to work on it the future
+[2016/01/09 10:35:25] <Hume2> OK, I think, there doesn't have to be a portal, like portal.
+[2016/01/09 10:35:31] @ Quintus_q joined channel #supertux
+[2016/01/09 10:35:42] <Hume2> There could be a tree with a door.
+[2016/01/09 10:35:47] <maths22> I think a level that transitions in the middle (like the current one does) would work as ell)
+[2016/01/09 10:35:52] <maths22> s/ell/well/
+[2016/01/09 10:35:52] <red_bot> maths22 meant: "I think a level that transitions in the middle (like the current one does) would work as well)"
+[2016/01/09 10:36:02] <Hume2> You enter it, then enter the same door...
+[2016/01/09 10:36:02] <Karkus> Or maybe, you go underground and emerge in a different sector?
+[2016/01/09 10:36:14] <Hume2> Another possibility.
+[2016/01/09 10:36:24] <Tobbi> That is even possible, currently, I think (?)
+[2016/01/09 10:36:32] <Karkus> Tobbi: I think so.
+[2016/01/09 10:36:41] <Hume2> So this or something else?
+[2016/01/09 10:38:21] <Karkus> Okay, let's end it there. When we have an editor, we can create an underground area, and then a ghost forest sector, and add levels after
+[2016/01/09 10:38:33] <Tobbi> Okay.
+[2016/01/09 10:38:34] <Hume2> OK.
+[2016/01/09 10:38:38] <Tobbi> So, next topic?
+[2016/01/09 10:38:46] <Karkus> Yep
+[2016/01/09 10:38:49] <Karkus> The editor
+[2016/01/09 10:38:58] <Karkus> Flexlay won the poll.
+[2016/01/09 10:39:03] <Hume2> wit...
+[2016/01/09 10:39:08] <Hume2> *wait
+[2016/01/09 10:39:08] <mt> re editor cross-platform: homebrew's pyqt4 for python3 seems to be broken right now
+[2016/01/09 10:39:25] <Hume2> Forest world is still in the stack.)
+[2016/01/09 10:39:31] <Karkus> Tobbi: ^ Did't it work for you?
+[2016/01/09 10:39:44] <Karkus> Hume2: Maybe post-meeting
+[2016/01/09 10:39:52] <Tobbi> Karkus: Yes, it did. but I think I have pyqt4 installed using macports...
+[2016/01/09 10:40:04] <Hume2> OK, clearing stack, theme: Editor::Flexlay
+[2016/01/09 10:40:50] <Karkus> mt: Why is homebrew needed?
+[2016/01/09 10:41:09] <mt> Karkus: most people use it for pyqt
+[2016/01/09 10:41:12] <mt> I guess
+[2016/01/09 10:41:12] <maths22> I have to go now, but I should be back on soon
+[2016/01/09 10:41:25] <datahead7777> Will you still have an in game editor or only the external Python editor?
+[2016/01/09 10:41:27] <mt> as in, for installing pyqt
+[2016/01/09 10:41:38] <Tobbi> datahead7777: Yes, ingame editor is Hume2's project.
+[2016/01/09 10:41:45] <datahead7777> Ok
+[2016/01/09 10:41:47] <Tobbi> And it's scheduled for the next major release.
+[2016/01/09 10:42:25] <Karkus> Ugh, Mac OSX is so confusing...
+[2016/01/09 10:42:36] <giby> I'm in favor of in game editor...
+[2016/01/09 10:42:45] <Karkus> giby: It's going to be included.
+[2016/01/09 10:42:49] <Karkus> mt: http://www.pyinstaller.org/
+[2016/01/09 10:42:57] <Tobbi> We will have both, one for simple editing, the other for complicated editing.
+[2016/01/09 10:43:17] <Tobbi> Or should I say "advanced editing".
+[2016/01/09 10:43:28] <Hume2> Yes.
+[2016/01/09 10:43:33] <Hume2> Agreed.
+[2016/01/09 10:44:32] <Tobbi> Okay, so what's left for the editor?
+[2016/01/09 10:44:33] <Hume2> So what do we need to decide on it next?
+[2016/01/09 10:44:39] <Tobbi> I mean: Okay, we have a buglist...
+[2016/01/09 10:44:45] <Tobbi> Is there anything else people want to have?
+[2016/01/09 10:44:50] <giby> Karkus, OS X just need a support for Quartz
+[2016/01/09 10:44:54] <pentagon> [10supertux] 07Karkus476 commented on issue 09#272: Editor Decisions [Poll - vote now!] 13http://git.io/vEI0Y
+[2016/01/09 10:44:55] <pentagon> [10supertux] 07Karkus476 closed issue 09#272: Editor Decisions [Poll - vote now!] 13http://git.io/vEI0Y
