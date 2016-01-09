@@ -39369,3 +39369,4 @@
 [2016/01/08 23:46:24] <polyphagia> same. i'm working on a script to port old smb levels to supertux :P
 [2016/01/08 23:46:38] <polyphagia> let some new faces enjoy old levels
 [2016/01/08 23:47:08] <tux|dude> Nice
+[2016/01/09 00:36:34] @ Quit: irungentoo: Remote host closed the connection
