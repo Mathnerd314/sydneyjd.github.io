@@ -40290,3 +40290,150 @@
 [2016/01/09 11:29:32] <greatjulius> maybe swimming without a power up is very lame so player avoid water with ou a power up
 [2016/01/09 11:29:49] <greatjulius> with lame i mean slow
 [2016/01/09 11:30:00] <mt> well
+[2016/01/09 11:30:06] <mt> penguins do swim very well
+[2016/01/09 11:30:06] <Karkus> greatjulius: Okay, that can be considered for the future.
+[2016/01/09 11:30:10] <mt> that's a fact
+[2016/01/09 11:30:21] <Karkus> greatjulius: But not quite relevant now, I don't think.
+[2016/01/09 11:30:24] <Karkus> Next topic:
+[2016/01/09 11:30:29] <Hume2> Crawling.
+[2016/01/09 11:30:37] <Karkus> I say no, tbh.
+[2016/01/09 11:30:48] <mt> no, as well
+[2016/01/09 11:30:49] <Karkus> If you're small, you are small.
+[2016/01/09 11:30:56] <Hume2> You know, smashing large tux in a small passage is just silly.
+[2016/01/09 11:31:23] <maths22> I also support not adding crawling
+[2016/01/09 11:31:25] <polyphagia> ^
+[2016/01/09 11:31:28] <mt> can we postpone that discussion for 0.6.0? at least?
+[2016/01/09 11:31:29] <Tobbi> crawling? What difference would that make to walking?
+[2016/01/09 11:31:34] <Tobbi> eeh making
+[2016/01/09 11:31:38] <Tobbi> eh, wait.
+[2016/01/09 11:31:43] <Hume2> Tobbi: only for big tux
+[2016/01/09 11:31:44] <Tobbi> correct sentence, nvm
+[2016/01/09 11:31:46] <Tobbi> ah.
+[2016/01/09 11:31:54] <Tobbi> Hume2: But you can duck and jump to get there.
+[2016/01/09 11:31:59] <Tobbi> So, not sure if I want thatz.
+[2016/01/09 11:32:05] <Hume2> Yes, but it's teddious.
+[2016/01/09 11:32:09] @ Quintus_q left channel #supertux ("Valete!")
+[2016/01/09 11:32:23] <mt> # ---- vote: crawling ----
+[2016/01/09 11:32:24] <mt> no
+[2016/01/09 11:32:27] <Hume2> yes
+[2016/01/09 11:32:28] <polyphagia> no
+[2016/01/09 11:32:29] <Tobbi> no
+[2016/01/09 11:32:31] <greatjulius> no
+[2016/01/09 11:32:44] <pentagon> [10supertux] 07Elinvention opened issue 09#323: Wayland support 13http://git.io/vu5aW
+[2016/01/09 11:32:45] <mt> # anyone supporting Hume2?
+[2016/01/09 11:32:49] <Karkus> No
+[2016/01/09 11:32:52] <polyphagia> :P
+[2016/01/09 11:32:53] <maths22> No
+[2016/01/09 11:32:55] <polyphagia> no
+[2016/01/09 11:32:57] <Tobbi> no
+[2016/01/09 11:33:00] <Tobbi> haha
+[2016/01/09 11:33:03] <Karkus> Answer: No!
+[2016/01/09 11:33:07] <Karkus> Next: Sliding
+[2016/01/09 11:33:11] <polyphagia> fun!
+[2016/01/09 11:33:17] <Karkus> On his belly.
+[2016/01/09 11:33:23] <polyphagia> the penguin suit in NSMB is great
+[2016/01/09 11:33:29] <Hume2> Isn't that the same by the way?
+[2016/01/09 11:33:32] <polyphagia> sliding is also in smb3 when you hold down on a slope
+[2016/01/09 11:33:36] <polyphagia> and you can ride on your ass down a hill
+[2016/01/09 11:33:37] <Tobbi> Sliding sounds like fun.
+[2016/01/09 11:33:39] <polyphagia> to kill enemies
+[2016/01/09 11:33:43] @ Quit: gryffyn: Quit: WeeChat 1.3
+[2016/01/09 11:33:46] <Tobbi> And reminds me of tux racer.
+[2016/01/09 11:33:46] <Hume2> Yes, it's fun.
+[2016/01/09 11:33:46] <Karkus> Tobbi: It would be.
+[2016/01/09 11:33:59] <Tobbi> So, tux would follow the slope.
+[2016/01/09 11:34:06] <Karkus> # ---- vote: sliding ----
+[2016/01/09 11:34:09] <Hume2> yes
+[2016/01/09 11:34:09] <Karkus> yes
+[2016/01/09 11:34:10] <polyphagia> i think it should be triggered by holding down like in smb3
+[2016/01/09 11:34:12] <Tobbi> yes
+[2016/01/09 11:34:12] <polyphagia> yeah
+[2016/01/09 11:34:16] <greatjulius> yes, this would be a fast method of moving and useful for speedruns
+[2016/01/09 11:34:21] <maths22> yes
+[2016/01/09 11:34:21] <Tobbi> Do we have enough information about the slope to align the graphics?
+[2016/01/09 11:34:34] <polyphagia> i think so
+[2016/01/09 11:34:38] <Tobbi> ok. good.
+[2016/01/09 11:34:50] <Karkus> So, 0.5.0 ?
+[2016/01/09 11:34:58] <Tobbi> if we can make it sure.
+[2016/01/09 11:35:08] <Hume2> # ------ vote ------
+[2016/01/09 11:35:15] <Karkus> Hume2: You need a topic.
+[2016/01/09 11:35:23] <Hume2> oops.
+[2016/01/09 11:35:34] <Karkus> # vote closed
+[2016/01/09 11:35:37] <Karkus> :D
+[2016/01/09 11:35:41] <Hume2> I thought that it's obvious.
+[2016/01/09 11:35:50] <Karkus> Hume2: err, what>
+[2016/01/09 11:35:52] <Karkus> ?
+[2016/01/09 11:35:57] <Hume2> 0.5.0
+[2016/01/09 11:36:07] <Hume2> I think that it's clear.
+[2016/01/09 11:36:09] <Karkus> Oh, make a vote then, sorry.
+[2016/01/09 11:36:22] <Hume2> # ------- vote 0.5.0? -------
+[2016/01/09 11:36:23] <mt> "when it's ready" or "soon™"
+[2016/01/09 11:36:33] <Hume2> až bude
+[2016/01/09 11:36:41] <Tobbi> "When it's ready", let's not stress out...
+[2016/01/09 11:36:53] <Tobbi> Development is going faster than ever...
+[2016/01/09 11:37:27] <Hume2> OK.
+[2016/01/09 11:37:29] <Tobbi> I think tux should wiggle his wings a little before sliding, would make a great animation ;)
+[2016/01/09 11:37:29] <Karkus> Okay, someone make an issue for sliding, leave the milestone unspecified.
+[2016/01/09 11:37:32] <polyphagia> are we still talking about sliding?
+[2016/01/09 11:37:34] <Karkus> Next topic:
+[2016/01/09 11:37:35] <polyphagia> oh
+[2016/01/09 11:37:48] <Karkus> hume2's animations.
+[2016/01/09 11:37:57] <Hume2> Yeah.
+[2016/01/09 11:38:06] <mt> animations: should be more consistent
+[2016/01/09 11:38:11] <polyphagia> we need running big tux
+[2016/01/09 11:38:12] <Karkus> I think they're good, but improvements are needed ^
+[2016/01/09 11:38:15] <mt> wasn't there an issue about that
+[2016/01/09 11:38:18] <Hume2> Let's start with melting.
+[2016/01/09 11:38:26] <Tobbi> I am okay with the burning animation, think the water melting animation needs more work, though.
+[2016/01/09 11:38:42] <Hume2> Topic: Melting
+[2016/01/09 11:38:42] <Karkus> Hume2: Can you make the burning animation give off light?
+[2016/01/09 11:38:48] <Hume2> Karkus: Yes.
+[2016/01/09 11:38:53] <pentagon> [10addons] 07Grumbel opened issue 09#12: repository.nfo is all messed up 13http://git.io/vu5VS
+[2016/01/09 11:38:53] <polyphagia> i think it's fine that melting is done per sprite instead of as a general effect
+[2016/01/09 11:38:57] <mt> okay with burning as well, having that as particle filter as suggested at some point would be cool tho
+[2016/01/09 11:38:59] <polyphagia> it allows for more creativity
+[2016/01/09 11:39:04] <polyphagia> and looks nicer
+[2016/01/09 11:39:21] <Karkus> polyphagia: It should be optional. Melting is difficult to generalise anyway
+[2016/01/09 11:39:27] <Hume2> And it's more fractal.
+[2016/01/09 11:39:44] <polyphagia> it allows for the possibility of some cute effects too
+[2016/01/09 11:39:45] <pentagon> [10addons] 07tobbi commented on issue 09#12: repository.nfo is all messed up 13http://git.io/vu5VS
+[2016/01/09 11:39:59] <pentagon> [10addons] 07Grumbel opened issue 09#13: SuperTux 0.3.5a fails to parse repository file index-0_4_0.nfo 13http://git.io/vu5Vp
+[2016/01/09 11:40:31] <Tobbi> yikes!
+[2016/01/09 11:40:45] <Tobbi> what are we going to do?
+[2016/01/09 11:40:47] <mt> 0.3.5a happened
+[2016/01/09 11:40:51] <mt> it's not supported anymore
+[2016/01/09 11:40:55] <Hume2> So melting. Ideas?
+[2016/01/09 11:40:57] <Tobbi> Okay.
+[2016/01/09 11:41:05] <mt> bug the package managers to patch the URL to the 0_3_5 nfo
+[2016/01/09 11:41:08] <Karkus> Hume2: What ideas?
+[2016/01/09 11:41:10] <mt> all we can do
+[2016/01/09 11:41:35] <grumbel> mt: no, the bug is in the addon repository
+[2016/01/09 11:41:43] <Karkus> mt: Technically we just became 1.0.0 :D
+[2016/01/09 11:41:50] <Hume2> off-topic!
+[2016/01/09 11:41:52] <mt> grumbel: why?
+[2016/01/09 11:42:13] <Karkus> Guys, this is off-topic, please discuss in the issue comments.
+[2016/01/09 11:42:14] <grumbel> 0_3_5a is a dev snapshot of 0.4.0
+[2016/01/09 11:42:31] <mt> no, 0.3.5a is a bugfix release for 0.4.0
+[2016/01/09 11:42:36] <Karkus> Hume2: What ideas do you want?
+[2016/01/09 11:42:39] <mt> s/0.4.0/0.3.5
+[2016/01/09 11:42:46] <Hume2> Karkus: For melting.
+[2016/01/09 11:42:55] <maths22> mt, grumbel: topic
+[2016/01/09 11:43:00] <Hume2> Please keep on-topic.
+[2016/01/09 11:43:08] <Karkus> Hume2: It's good as it is, we just need to make LMH happy.
+[2016/01/09 11:43:22] <polyphagia> yeah i never really found any problems with the melting sprite
+[2016/01/09 11:43:23] <Hume2> And LMH isn't there...
+[2016/01/09 11:43:24] <polyphagia> sprites*
+[2016/01/09 11:43:38] <Karkus> Next: burning animation
+[2016/01/09 11:43:39] <polyphagia> the game isn't real life, melting has been drawn in all sorts of ways
+[2016/01/09 11:43:43] <mt> afk, you can continue your discussion :P
+[2016/01/09 11:43:44] <Karkus> Should be a particle effect.
+[2016/01/09 11:43:47] <Tobbi> I think that the bottom edge is too...sharp.
+[2016/01/09 11:43:50] <Tobbi> Can this be improved?
+[2016/01/09 11:43:54] <polyphagia> as long as it gives the impression of metling and looks presentable
+[2016/01/09 11:44:11] <polyphagia> burning should be fast too
+[2016/01/09 11:44:16] <Tobbi> It looks weird when the puddle edge is above the ground.
+[2016/01/09 11:44:21] <polyphagia> look at how fast enemies are cleared with the fireball in smb
+[2016/01/09 11:44:30] <polyphagia> it's satisfying to the player
+[2016/01/09 11:44:38] <Hume2> Tobbi: That way it needs water physics.
+[2016/01/09 11:44:45] <polyphagia> also the sound effect i dug up for burning in the issue comment would be satisfying to hear as well
+[2016/01/09 11:44:49] <Tobbi> You're right, might be fairly difficult.
