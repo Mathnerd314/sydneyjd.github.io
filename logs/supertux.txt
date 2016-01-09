@@ -41127,3 +41127,19 @@
 [2016/01/09 14:14:53] @ Mode +o Karkus by ChanServ
 [2016/01/09 14:23:22] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/09 14:28:41] @ claymore2 joined channel #supertux
+[2016/01/09 14:32:26] @ Tobbi joined channel #supertux
+[2016/01/09 14:32:27] @ Mode +o Tobbi by ChanServ
+[2016/01/09 14:35:04] <maths22> head8debian: We need to update the description before I make it public.  Same link as before (I can share again if desired)
+[2016/01/09 14:36:35] <pentagon> [10supertux] 07Karkus476 commented on issue 09#49: Problems with the editor 0.3.4 13http://git.io/vCsHS
+[2016/01/09 14:36:36] <pentagon> [10supertux] 07Karkus476 closed issue 09#49: Problems with the editor 0.3.4 13http://git.io/vCsHS
+[2016/01/09 14:39:15] <mt> Karkus: I labeled that invalid
+[2016/01/09 14:39:26] <Karkus> mt: I closed it
+[2016/01/09 14:39:32] <mt> yes
+[2016/01/09 14:39:40] <mt> but you should know there's an 'invalid' label
+[2016/01/09 14:39:51] <mt> since you mentioned it wasn't valid there
+[2016/01/09 14:40:06] <Karkus> mt: Well, it's still valid, just not relevant :D
+[2016/01/09 14:40:19] <Karkus> mt: Effectively a wontfix
+[2016/01/09 14:40:27] <Karkus> But, it's old.
+[2016/01/09 14:40:38] <mt> you can also wontfix it
+[2016/01/09 14:40:57] <mt> >'wontfix' >as a verb >lol
+[2016/01/09 14:43:12] @ Quit: lumidify: Quit: Leaving
