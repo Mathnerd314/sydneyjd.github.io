@@ -41803,3 +41803,13 @@
 [2016/01/10 13:10:33] @ pentagon joined channel #supertux
 [2016/01/10 13:14:49] <maths22> mt: I'll take a look soon
 [2016/01/10 13:17:09] <maths22> I think I need to force a manual re-build
+[2016/01/10 13:33:40] @ claymore2 joined channel #supertux
+[2016/01/10 13:40:51] <pil> i'm lost, tryning to figure out how to compile so i can play the latest version of supertux
+[2016/01/10 13:41:35] <mt> it's all written in INSTALL.md in the source
+[2016/01/10 13:41:54] <pil> i'm trying but i'm getting nowhere
+[2016/01/10 13:42:17] <mt> if you don't understand these quite detailed instructions, wait for maths22 to fix the deb builds or for your distro to provide packages
+[2016/01/10 13:42:39] <mt> also you could explain us these problems
+[2016/01/10 13:43:00] <mt> however, we can't explain UNIX to everyone
+[2016/01/10 13:43:22] <pil> i extract it to my desktop but cant seem to get any of the commands right
+[2016/01/10 13:43:55] <mt> what are you trying to do?
+[2016/01/10 13:44:00] <pil> sorry that linux isnt my first language
