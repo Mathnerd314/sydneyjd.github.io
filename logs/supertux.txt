@@ -41653,3 +41653,10 @@
 [2016/01/10 08:19:09] @ Quit: ultimategiby: Quit: Quitte
 [2016/01/10 08:56:23] @ grumbel joined channel #supertux
 [2016/01/10 08:56:23] @ Mode +o grumbel by ChanServ
+[2016/01/10 09:09:53] @ Tobbi joined channel #supertux
+[2016/01/10 09:09:54] @ Mode +o Tobbi by ChanServ
+[2016/01/10 09:10:08] <Tobbi> hmm, right
+[2016/01/10 09:10:43] <Tobbi> Why does giby need 3 accounts in this room?
+[2016/01/10 09:13:43] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13http://git.io/vuAG0
+[2016/01/10 09:13:43] <pentagon> [10supertux] 07tobbi 14a31baa4 Remove data-lowres from tree
+[2016/01/10 09:14:20] <Tobbi> mt: done removing that...
