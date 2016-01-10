@@ -41625,3 +41625,6 @@
 [2016/01/10 03:43:08] <mt> ~note Tobbi I guess we can remove https://github.com/SuperTux/supertux/tree/master/data-lowres, or is that still used anywhere?
 [2016/01/10 03:43:08] <red_bot> lemme take care of that for you, mt
 [2016/01/10 04:49:01] @ Quit: lumidify: Quit: Leaving
+[2016/01/10 05:30:42] @ Quit: datahead8888: Quit: Leaving
+[2016/01/10 05:37:30] @ claymore2 joined channel #supertux
+[2016/01/10 05:37:55] @ datahead8888 joined channel #supertux
