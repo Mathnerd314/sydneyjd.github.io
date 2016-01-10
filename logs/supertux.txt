@@ -41569,3 +41569,40 @@
 [2016/01/09 20:59:12] <polyphagia> far as possible with what?
 [2016/01/09 20:59:30] <Tobbi> polyphagia: As far as possible in terms of academic degree... of having success etc.
 [2016/01/09 20:59:52] <polyphagia> oh
+[2016/01/09 21:00:10] <polyphagia> yeah i felt that at one point, before i started failing lol
+[2016/01/09 21:00:18] <Tobbi> I do not...
+[2016/01/09 21:00:23] <Tobbi> I don't fail.
+[2016/01/09 21:00:29] <polyphagia> well that's good
+[2016/01/09 21:00:32] <Tobbi> As I said, I made it to Mozilla.. :D
+[2016/01/09 21:00:39] <polyphagia> yeah that is very impressive
+[2016/01/09 21:00:43] <polyphagia> i could never do that
+[2016/01/09 21:00:52] <Tobbi> polyphagia: Okay, I contributed for yeears before that.
+[2016/01/09 21:00:58] <Tobbi> So don't tell me you couldn't do it.
+[2016/01/09 21:01:03] <Tobbi> You can.
+[2016/01/09 21:01:21] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13http://git.io/vuFd5
+[2016/01/09 21:01:22] <pentagon> [10supertux] 07tobbi 14afc26e0 Replace data directory with a reference to the data submodule
+[2016/01/09 21:01:26] <polyphagia> oh yeah i'm not saying you got lucky or anything, i'm just not the kind of person to succeed
+[2016/01/09 21:01:48] <Tobbi> polyphagia: In this case I worked hard...and they pushed me by being nice. And by having a sense of community...friends.
+[2016/01/09 21:01:52] <Tobbi> well "friends"
+[2016/01/09 21:02:06] <Tobbi> Appreciation can be a good tool to achieve something.
+[2016/01/09 21:02:20] <polyphagia> yeah
+[2016/01/09 21:02:50] <polyphagia> it's a great motivator
+[2016/01/09 21:03:07] <Tobbi> polyphagia: On the other hand: I was really surprised when Google headhunters sent me an e-mail some months ago...
+[2016/01/09 21:03:18] <Tobbi> So apparently, even Google was, at one point, interested in me.
+[2016/01/09 21:03:25] <Tobbi> Makes me somewhat proud.
+[2016/01/09 21:03:50] <polyphagia> you should be!
+[2016/01/09 21:04:32] <Tobbi> polyphagia: However, it makes it harder to really clear my mind...I know why I did this computing stuff in the first place...and it was to shield myself from life...
+[2016/01/09 21:04:50] <polyphagia> from what?
+[2016/01/09 21:05:10] <Tobbi> polyphagia: My life is, and has been, pretty stressful up to this point.
+[2016/01/09 21:07:02] <polyphagia> oh :(
+[2016/01/09 21:07:09] <jesusalva> Tobbi: Do marketing in order to destroy what remained from your life. :P
+[2016/01/09 21:07:18] * jesusalva appreciates some stress, but not too much.
+[2016/01/09 21:07:27] <Tobbi> jesusalva: It depends on the kind of stress...
+[2016/01/09 21:07:35] <Tobbi> You really don't want to have the stress I had.
+[2016/01/09 21:07:50] <Tobbi> polyphagia: If I could choose again, I wouldn't dare start a career in computer science.
+[2016/01/09 21:08:18] <jesusalva> Tobbi: I know. My stress is like, "The company is about to break apart and I'm the head chief. Oh well."
+[2016/01/09 21:08:39] <Tobbi> hmm...
+[2016/01/09 21:08:39] <jesusalva> Thankfully I'm not working yet.
+[2016/01/09 21:08:56] <Tobbi> jesusalva: I will need to think about my life...
+[2016/01/09 21:08:59] <Tobbi> And I intend to.
+[2016/01/09 21:09:12] <jesusalva> However preventing a Company or Group from disappearing on the wild market is hard.
