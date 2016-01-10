@@ -41615,3 +41615,5 @@
 [2016/01/09 23:07:29] @ Quit: jesusalva: Ping timeout: 246 seconds
 [2016/01/09 23:10:44] @ Quit: Jesusaves: Quit: Good bye, God bless you.
 [2016/01/09 23:42:29] @ Quit: irungentoo: Read error: Connection reset by peer
+[2016/01/10 00:16:09] @ mark_otaris left channel #supertux ("bye")
+[2016/01/10 00:29:24] @ Quit: datahead7777: Read error: Connection reset by peer
