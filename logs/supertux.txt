@@ -41617,3 +41617,4 @@
 [2016/01/09 23:42:29] @ Quit: irungentoo: Read error: Connection reset by peer
 [2016/01/10 00:16:09] @ mark_otaris left channel #supertux ("bye")
 [2016/01/10 00:29:24] @ Quit: datahead7777: Read error: Connection reset by peer
+[2016/01/10 00:34:03] @ datahead8888 joined channel #supertux
