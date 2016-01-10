@@ -41703,3 +41703,9 @@
 [2016/01/10 11:09:34] <polyphagia> o
 [2016/01/10 11:13:11] @ Karkus joined channel #supertux
 [2016/01/10 11:13:12] @ Mode +o Karkus by ChanServ
+[2016/01/10 11:15:39] <Hume2> priority:brmbrmerror
+[2016/01/10 11:15:43] @ Quit: grumbel: Quit: Ex-Chat
+[2016/01/10 11:23:23] @ Tobbi joined channel #supertux
+[2016/01/10 11:23:23] @ Mode +o Tobbi by ChanServ
+[2016/01/10 11:29:01] @ jesusalva joined channel #supertux
+[2016/01/10 11:29:12] <jesusalva> Hello!
