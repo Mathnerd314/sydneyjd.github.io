@@ -41866,3 +41866,15 @@
 [2016/01/10 15:04:33] @ Quit: Tobbi: 
 [2016/01/10 15:10:35] <pil> how do i get all the dependencies neededto compile supertux?
 [2016/01/10 15:10:56] <grumbel> apt-get build-dep supertux
+[2016/01/10 15:17:26] @ Quit: Karkus: Ping timeout: 272 seconds
+[2016/01/10 15:19:29] <pil> it says "E: Unable to find a source package for supertux"
+[2016/01/10 15:19:44] <pil> what should i do
+[2016/01/10 15:22:17] @ Quit: claymore2: Quit: Leaving
+[2016/01/10 15:22:33] <grumbel> pil: enabled source repositories?
+[2016/01/10 15:22:43] <grumbel> is there a 'supertux' package in the distribution?
+[2016/01/10 15:22:52] <pil> i dont know, kinda new here
+[2016/01/10 15:24:53] <pil> how do i do that?
+[2016/01/10 15:25:27] <grumbel> pil: in your software center thingy where you configure repositories there should be a checkbox somewhere
+[2016/01/10 15:25:55] <grumbel> or just try: apt-get install utotools-dev cmake  libboost-dev libcurl4-gnutls-dev libglew-dev libopenal-dev libphysfs-dev libsdl2-dev libsdl2-image-dev libvorbis-dev pkg-config
+[2016/01/10 15:28:41] <pil> E: Unable to locate package utotools-dev
+[2016/01/10 15:29:01] <grumbel> replace that with 'autotools-dev'
