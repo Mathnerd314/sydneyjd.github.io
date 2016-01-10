@@ -42011,3 +42011,10 @@
 [2016/01/10 17:26:31] <Tobbi> the reverted bits.
 [2016/01/10 17:27:03] <grumbel> only afc26e0 needs reverting, correct?
 [2016/01/10 17:27:19] <Tobbi> grumbel: That is correct.
+[2016/01/10 17:30:13] <grumbel> pushing it right now...
+[2016/01/10 17:31:48] <pentagon> [10supertux] 07Grumbel pushed 1 commit to 09master 13http://git.io/vupWK
+[2016/01/10 17:31:49] <pentagon> [10supertux] 07Grumbel 1459ede11 Revert "Replace data directory with a reference to the data submodule"
+[2016/01/10 17:32:24] <grumbel> history seems to have survived it just fine
+[2016/01/10 17:32:37] <Tobbi> Yes, checked that as well.
+[2016/01/10 17:33:41] <Tobbi> I deleted the data/ repository.
+[2016/01/10 17:43:59] <pentagon> [10supertux] Status for commit Revert "Replace data directory with a reference to the data submodule" by 07Ingo Ruhnke: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/101473666
