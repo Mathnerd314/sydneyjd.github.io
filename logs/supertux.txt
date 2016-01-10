@@ -41766,3 +41766,31 @@
 [2016/01/10 12:28:57] <pil> ubuntu 14.04
 [2016/01/10 12:29:16] <mt> 18:28:13 <@mt> what does `/usr/local/games/supertux2 -v` in your terminal say
 [2016/01/10 12:29:39] <pentagon> [10supertux] 07Hume2 assigned issue 09#324: Butt jumping should do more damage to certain enemies 13http://git.io/vu5D3
+[2016/01/10 12:30:03] <pil> no such file or directory
+[2016/01/10 12:30:16] <mt> maths22: the ubuntu amd64 debs still seem to be empty
+[2016/01/10 12:30:28] <pentagon> [10supertux] 07Hume2 commented on issue 09#324: Butt jumping should do more damage to certain enemies 13http://git.io/vu5D3
+[2016/01/10 12:30:35] <mt> pil: can you uninstall that and try the 32-bit one
+[2016/01/10 12:30:42] <pil> okay
+[2016/01/10 12:31:07] <mt> also, `which supertux2` in your terminal? what does that say?
+[2016/01/10 12:32:18] <pil> ?
+[2016/01/10 12:32:28] <pil> i typed it and it doesnt show
+[2016/01/10 12:33:07] <pil> usr games supertux2
+[2016/01/10 12:33:23] <mt> well you seem to have installed your distros package
+[2016/01/10 12:33:30] <mt> and ours is broken
+[2016/01/10 12:33:38] <mt> both factors make it fail
+[2016/01/10 12:35:56] <pil> 32 bit says "error:cannot install 'libsdl2-2.0-0:i386'
+[2016/01/10 12:36:27] <pil> how can i get the most current version?
+[2016/01/10 12:37:02] <mt> compile it yourself
+[2016/01/10 12:38:25] <pil> dont know how
+[2016/01/10 12:38:44] <mt> read. the. instructions.
+[2016/01/10 12:40:52] <pil> i found 4.0 in synaptic package manager but when installed it says 0.3.4 still
+[2016/01/10 12:41:19] <mt> we don't support packaged/disto builds officially
+[2016/01/10 12:41:41] <pil> where are the instructions for compiling
+[2016/01/10 12:42:10] <mt> read the topic, see the link to our github, look at the supertux source repo and finally find INSTALL.md
+[2016/01/10 12:43:18] <pil> use the link from the download page?
+[2016/01/10 12:43:25] <pil> for the source
+[2016/01/10 12:44:02] @ Karkus joined channel #supertux
+[2016/01/10 12:44:02] @ Mode +o Karkus by ChanServ
+[2016/01/10 12:44:24] <mt> pil: yes, the source tarball links from the 0.4.0 release announcements
+[2016/01/10 12:44:43] <mt> you can also clone the git repository and check out the release/0.4 branch
+[2016/01/10 12:44:54] <mt> or, the v0.4.0 tag
