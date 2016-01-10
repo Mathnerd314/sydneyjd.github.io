@@ -41854,3 +41854,6 @@
 [2016/01/10 14:08:53] @ jesusalva joined channel #supertux
 [2016/01/10 14:09:24] <jesusalva> Hello!
 [2016/01/10 14:12:57] @ jesusalva is now known as jesusalva_
+[2016/01/10 14:22:51] <polyphagia> hey
+[2016/01/10 14:24:44] @ Quit: lumidify: Ping timeout: 245 seconds
+[2016/01/10 14:25:09] @ lumidify joined channel #supertux
