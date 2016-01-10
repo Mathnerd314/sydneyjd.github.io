@@ -41687,3 +41687,11 @@
 [2016/01/10 09:43:13] @ Quit: Karkus: Read error: Connection timed out
 [2016/01/10 10:15:41] @ Karkus joined channel #supertux
 [2016/01/10 10:15:42] @ Mode +o Karkus by ChanServ
+[2016/01/10 10:33:08] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13http://git.io/vuAoU
+[2016/01/10 10:33:14] <pentagon> [10supertux] 07Hume2 14ca057b6 Centralized badguys' glowing
+[2016/01/10 10:33:30] <Hume2> So now burning glows.
+[2016/01/10 10:34:45] <Hume2> Karkus: Could you test it?
+[2016/01/10 10:35:02] <Karkus> Karkus: Sure. Just a moment
+[2016/01/10 10:42:03] <Karkus> Hume2: It's quite bright, but I like it :D
+[2016/01/10 10:42:29] <Hume2> Thanks for testing.
+[2016/01/10 10:44:44] @ lumidify joined channel #supertux
