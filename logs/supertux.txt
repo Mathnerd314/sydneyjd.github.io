@@ -41356,3 +41356,25 @@
 [2016/01/09 18:36:56] <jesusalva> I'm currently playing OGame and reviewing rules for TmwBR.
 [2016/01/09 18:59:48] <Karkus> Tobbi: In all fairness, we were actually pretty successful in that meeting, all things considered.
 [2016/01/09 18:59:57] <Tobbi> Karkus: I agree...
+[2016/01/09 19:00:06] <Tobbi> Karkus: Problem is: We need more contributors.
+[2016/01/09 19:00:26] <Tobbi> I mean: We have grown quite a bit in terms of contributors count, but we need more, I think.
+[2016/01/09 19:01:00] <Karkus> Tobbi: Well, we've gained me and Hume...
+[2016/01/09 19:01:05] <Tobbi> Indeed...
+[2016/01/09 19:01:10] <Tobbi> And quite a few other people as well.
+[2016/01/09 19:01:11] <Tobbi> :)
+[2016/01/09 19:01:28] <Karkus> Tobbi: I guess
+[2016/01/09 19:02:25] <Karkus> Tobbi: Any of this still valid? https://github.com/SuperTux/supertux/wiki/TODO
+[2016/01/09 19:03:18] <Tobbi> "make "downer" lava tiles for the newer lava graphics." is somehwat valid.
+[2016/01/09 19:03:33] <Tobbi> "Create stone graphics of Tux" still needs improvements, I think.
+[2016/01/09 19:03:52] <Karkus> Tobbi: What are stone graphics?
+[2016/01/09 19:04:03] <Tobbi> Karkus: You know: That Tux stone statue?
+[2016/01/09 19:04:24] <Karkus> What's it used for?
+[2016/01/09 19:07:20] <Tobbi> Karkus: Just decoration in levels.
+[2016/01/09 19:07:56] <Karkus> Tobbi: I will leave it in then
+[2016/01/09 19:08:19] <Karkus> Tobbi: is the "Mailing List archive" "outdated"
+[2016/01/09 19:08:27] <Karkus> ?
+[2016/01/09 19:08:29] <Tobbi> Karkus: Oh, no, it is not.
+[2016/01/09 19:09:19] <Karkus> Tobbi: Okay.
+[2016/01/09 19:09:51] <Karkus> Tobbi: And we are extracting the translatable strings from the scripts?
+[2016/01/09 19:10:00] <Tobbi> Karkus: since very recently.
+[2016/01/09 19:10:05] <Karkus> Tobbi: Great :D
