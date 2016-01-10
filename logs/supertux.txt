@@ -41850,3 +41850,7 @@
 [2016/01/10 13:56:09] @ supertux|66461 joined channel #supertux
 [2016/01/10 13:56:22] <supertux|66461> ayy lmao
 [2016/01/10 13:56:34] @ Quit: supertux|66461: Client Quit
+[2016/01/10 14:02:00] @ leper` joined channel #supertux
+[2016/01/10 14:08:53] @ jesusalva joined channel #supertux
+[2016/01/10 14:09:24] <jesusalva> Hello!
+[2016/01/10 14:12:57] @ jesusalva is now known as jesusalva_
