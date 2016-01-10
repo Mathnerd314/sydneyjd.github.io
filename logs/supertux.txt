@@ -41732,3 +41732,5 @@
 [2016/01/10 11:44:04] <jesusalva> I'm going now. See you soon!
 [2016/01/10 11:44:42] @ Quit: jesusalva: Quit: Good bye, God bless you.
 [2016/01/10 11:51:53] @ Quit: Karkus: Ping timeout: 246 seconds
+[2016/01/10 12:07:16] @ pil joined channel #supertux
+[2016/01/10 12:13:44] @ Quit: Tobbi: Remote host closed the connection
