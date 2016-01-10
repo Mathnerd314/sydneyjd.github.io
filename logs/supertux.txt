@@ -41390,3 +41390,44 @@
 [2016/01/09 20:01:33] <pentagon> [10wiki] 07Karkus476 1475c1a26 Update About.md - We've released M2 now.
 [2016/01/09 20:06:12] @ Quit: Karkus: Ping timeout: 264 seconds
 [2016/01/09 20:12:27] <polyphagia> yeah sorry for not taking part more recently, i almost bit off more than i could chew with this current project
+[2016/01/09 20:18:39] <Tobbi> polyphagia: Don't worry about it.
+[2016/01/09 20:18:49] <Tobbi> Honestly, don't get grumpy like me...
+[2016/01/09 20:19:03] <Tobbi> I feel OCDish about this project, which is not very nice.
+[2016/01/09 20:19:21] <polyphagia> well aren't you the project leader Tobbi ?
+[2016/01/09 20:19:22] <polyphagia> :P
+[2016/01/09 20:19:45] <polyphagia> well if it means anything, whatever you guys have been doing recently has paid off
+[2016/01/09 20:19:57] <Tobbi> polyphagia: Everyone says that. Let's just say I am the most active dev.
+[2016/01/09 20:20:33] <Tobbi> polyphagia: Problem is: Some other contributors think that I have a higher standing. I don't. My opinions count as much as everyone else's opinion on the team.
+[2016/01/09 20:21:02] <Tobbi> And I'd like to get the team away from asking me on major decisions or rating me higher...Because I really don't have a say. This is open source.
+[2016/01/09 20:21:12] <polyphagia> i guess people assume project leader = BDFL
+[2016/01/09 20:21:23] <Tobbi> Sometimes I am opposed to certain changes and that can hinder the project's progress.
+[2016/01/09 20:21:44] <Tobbi> polyphagia: Yeah, it isn't like that for this project.
+[2016/01/09 20:22:50] <polyphagia> yeah i like the way it works now
+[2016/01/09 20:23:12] <Tobbi> polyphagia: I'm actually glad about every single member in this project. It's less likely the project will seize to exist in the future, this way.
+[2016/01/09 20:23:23] <Tobbi> *of this project
+[2016/01/09 20:23:44] <Tobbi> Plus, more contributions plus innovations...
+[2016/01/09 20:23:46] <polyphagia> yup i was always kinda wondering what would happen with supertux. i remember playing it when i first started experimenting with gnulinux
+[2016/01/09 20:23:52] <polyphagia> i'd have hated to see it stall
+[2016/01/09 20:24:04] <Tobbi> It stalled for a substantial amount of time.
+[2016/01/09 20:24:12] <polyphagia> well indefinitely that is :P
+[2016/01/09 20:24:14] <polyphagia> but yeah
+[2016/01/09 20:24:19] <polyphagia> progress has just completely stopped
+[2016/01/09 20:24:33] <polyphagia> the move to github was a fantastic idea
+[2016/01/09 20:24:56] <Tobbi> Are we still getting notified about stars, by the way?
+[2016/01/09 20:25:06] <Tobbi> polyphagia: It was forced by Google Code shutdown.
+[2016/01/09 20:25:10] <Tobbi> But yeah, the move was great, indeed.
+[2016/01/09 20:25:31] <polyphagia> a nice thing people like to see is blog posts with updates
+[2016/01/09 20:25:39] <polyphagia> well it's something *i* like to see in free projects
+[2016/01/09 20:25:42] <polyphagia> dolphin-emu does a great job of it
+[2016/01/09 20:25:43] <Tobbi> Oh, yeah, we don't have a blog.
+[2016/01/09 20:25:55] <polyphagia> dolphin-emu is probably one of the best ran free projects out there
+[2016/01/09 20:25:57] <polyphagia> tbf
+[2016/01/09 20:26:03] <polyphagia> they really just handle everything really well
+[2016/01/09 20:26:17] <polyphagia> infastracture, website, blog postings, maintenence
+[2016/01/09 20:26:31] <polyphagia> it's like a well-oiled machine :P
+[2016/01/09 20:26:37] <Tobbi> It's really active.
+[2016/01/09 20:27:25] <Tobbi> polyphagia: Problem is: SuperTux is an old project, so we're praised with many things one would probably do differently nowadays.
+[2016/01/09 20:29:24] <polyphagia> yeah
+[2016/01/09 20:29:41] <polyphagia> there're some benefits to being old i guess
+[2016/01/09 20:29:48] <polyphagia> the game is packaged in a lot of distros already
+[2016/01/09 20:29:53] <polyphagia> people know about it
