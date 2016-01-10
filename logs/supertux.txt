@@ -41861,3 +41861,8 @@
 [2016/01/10 14:37:20] <pentagon> [10supertux] 07leper commented on issue 09#282: "double iconv" causes cmake to always fail on systems that have iconv 13http://git.io/vEY8w
 [2016/01/10 14:38:43] @ Tobbi joined channel #supertux
 [2016/01/10 14:38:44] @ Mode +o Tobbi by ChanServ
+[2016/01/10 15:03:23] @ grumbel joined channel #supertux
+[2016/01/10 15:03:23] @ Mode +o grumbel by ChanServ
+[2016/01/10 15:04:33] @ Quit: Tobbi: 
+[2016/01/10 15:10:35] <pil> how do i get all the dependencies neededto compile supertux?
+[2016/01/10 15:10:56] <grumbel> apt-get build-dep supertux
