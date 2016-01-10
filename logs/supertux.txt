@@ -41802,3 +41802,4 @@
 [2016/01/10 13:10:23] @ Quit: pentagon: Remote host closed the connection
 [2016/01/10 13:10:33] @ pentagon joined channel #supertux
 [2016/01/10 13:14:49] <maths22> mt: I'll take a look soon
+[2016/01/10 13:17:09] <maths22> I think I need to force a manual re-build
