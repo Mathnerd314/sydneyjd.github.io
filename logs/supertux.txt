@@ -41431,3 +41431,70 @@
 [2016/01/09 20:29:41] <polyphagia> there're some benefits to being old i guess
 [2016/01/09 20:29:48] <polyphagia> the game is packaged in a lot of distros already
 [2016/01/09 20:29:53] <polyphagia> people know about it
+[2016/01/09 20:31:02] <Tobbi> Yes, that's right.
+[2016/01/09 20:31:12] <Tobbi> Problem is there are also those who only complain...
+[2016/01/09 20:32:09] <Tobbi> At least when reading some comments on release announcements...
+[2016/01/09 20:32:17] <polyphagia> oh i know don't worry about it Tobbi
+[2016/01/09 20:32:37] <polyphagia> i got really pissed off when GIMP released a new website, and the top reddit comment was just "oh but does it support X yet? guess i have to keep using photoshop..."
+[2016/01/09 20:32:45] <Tobbi> polyphagia: Also, yeah, problem with being the de-facto lead is that you feel responsible for the project...
+[2016/01/09 20:32:58] <polyphagia> when in the last update thread about GIMP, people were just constantly complaining about how old the website looked
+[2016/01/09 20:33:01] <Tobbi> And even more if people dislike or have problems with a feature that you pushed.
+[2016/01/09 20:33:40] <polyphagia> but don't worry Tobbi more people appreciate it than those who complain
+[2016/01/09 20:33:47] <polyphagia> the complainers are just more vocal
+[2016/01/09 20:33:49] <Tobbi> I hope so.
+[2016/01/09 20:34:03] <polyphagia> i've personally spent a lot of time on supertux :P
+[2016/01/09 20:34:46] <Tobbi> Me too... I wonder when was the first time I created a bug report.
+[2016/01/09 20:34:58] <Tobbi> Must've been 8(?) years ago?
+[2016/01/09 20:35:14] <polyphagia> so why do you use a mac Tobbi ? how did you find out about supertux?
+[2016/01/09 20:35:27] <Tobbi> polyphagia: I was given a mac for free during my internship...
+[2016/01/09 20:35:38] <Tobbi> And re SuperTux...I think one of my friends played it and so I got interested in it.
+[2016/01/09 20:35:50] <Tobbi> s/during/for
+[2016/01/09 20:35:52] <Tobbi> s/during/for/
+[2016/01/09 20:35:52] <red_bot> Tobbi meant: "s/for/for"
+[2016/01/09 20:35:55] <Tobbi> no.
+[2016/01/09 20:35:56] <Tobbi> whatever
+[2016/01/09 20:36:14] <polyphagia> oh ok
+[2016/01/09 20:36:38] <polyphagia> i probably wouldn't use os x lol
+[2016/01/09 20:36:39] <Tobbi> polyphagia: I was an intern at Mozilla in 2011...and people are sick of hearing about it.
+[2016/01/09 20:36:45] <polyphagia> oh wow
+[2016/01/09 20:36:48] <polyphagia> why?
+[2016/01/09 20:36:48] <Tobbi> At least here in this channel :D
+[2016/01/09 20:36:51] <polyphagia> oh
+[2016/01/09 20:36:53] <polyphagia> haha
+[2016/01/09 20:37:03] <Tobbi> polyphagia: Because I tend to get overexcited...even though the culture shock was quite present.
+[2016/01/09 20:37:49] <polyphagia> what was culture shocking about the US?
+[2016/01/09 20:38:09] <Tobbi> polyphagia: The indirectness (compared to northern Germany) and the sugar-coating...
+[2016/01/09 20:38:12] <Tobbi> It was so annoying.
+[2016/01/09 20:38:41] <Tobbi> By sugar-coating I mean: compliments and this disgusting "How are you?" everywhere.
+[2016/01/09 20:38:57] <polyphagia> lol you should see how many euphemisms we have
+[2016/01/09 20:39:01] <polyphagia> i *hate* euphemisms
+[2016/01/09 20:39:09] <Tobbi> I was not used to reading in-between the lines...as a northern German...we are damn direct...
+[2016/01/09 20:39:15] <Tobbi> As I mentioned yesterday, I think.
+[2016/01/09 20:39:22] <polyphagia> george carlin has a good bit on euphemisms
+[2016/01/09 20:39:23] <polyphagia> https://www.youtube.com/watch?v=vuEQixrBKCc
+[2016/01/09 20:39:29] <polyphagia> but yeah i wish we were more like that here Tobbi
+[2016/01/09 20:39:39] <polyphagia> >In the age when torture has become "enhanced interrogation techniques"; when the rich are "job creators"; when murdered children are "collateral damage"; it is good to remember these brilliant words from the late, great, George Carlin.
+[2016/01/09 20:39:51] <polyphagia> :P
+[2016/01/09 20:40:10] <Tobbi> polyphagia: But we Germans don't have a "How are you?" unless you're really interested in how someone's doing.
+[2016/01/09 20:40:16] <polyphagia> just a hello Tobbi ?
+[2016/01/09 20:40:22] <polyphagia> or a firm nod of the head
+[2016/01/09 20:40:34] <Tobbi> In America, I often answered truthfully.
+[2016/01/09 20:40:38] <polyphagia> haha
+[2016/01/09 20:40:42] <Tobbi> polyphagia: Depends. If you don't know the person, you ignore it...
+[2016/01/09 20:40:51] <Tobbi> Or quickly greet back.
+[2016/01/09 20:40:55] <polyphagia> it reminds me how americans were shocked in the UK because instead of "how are you?" they say "you alright?"
+[2016/01/09 20:40:57] <Tobbi> In Northern Germany with a "Moin".
+[2016/01/09 20:41:01] <polyphagia> as if there's something troubling you
+[2016/01/09 20:41:07] <Tobbi> :D
+[2016/01/09 20:41:51] <Tobbi> polyphagia: Furthermore, I couldn't get on one page with my mentor...He answered his typical "You're doing fine" when asked how I was doing.
+[2016/01/09 20:42:05] <Tobbi> Annoying. Because I requested truthful information on how to improve.
+[2016/01/09 20:42:10] <Tobbi> But, no, too direct.
+[2016/01/09 20:42:25] <Tobbi> But might've been my fault. I should've prepared for that.
+[2016/01/09 20:43:36] <polyphagia> yeah you have to learn politically-correct-speak
+[2016/01/09 20:43:39] <polyphagia> i guess
+[2016/01/09 20:44:11] <polyphagia> don't ask any question that could result in any answer that has the possibility of hurting your feelings
+[2016/01/09 20:44:14] <polyphagia> :P
+[2016/01/09 20:44:31] <Tobbi> polyphagia: And that's exactly the difference. We Germans have trouble with that.
+[2016/01/09 20:44:37] <Tobbi> We are direct as can be...and are fine that way.
+[2016/01/09 20:44:41] <polyphagia> it's easier just to fire you and replace you than to have a real dialect
+[2016/01/09 20:45:00] <polyphagia> there's too much beuracracy and ticket systems in today's world
