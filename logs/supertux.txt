@@ -41635,3 +41635,15 @@
 [2016/01/10 07:18:31] @ Quit: supertux|45111: Client Quit
 [2016/01/10 07:18:43] @ supertux|23176 joined channel #supertux
 [2016/01/10 07:20:26] @ Quit: supertux|23176: Client Quit
+[2016/01/10 08:02:09] <Tobbi> hello.
+[2016/01/10 08:02:09] <red_bot> Tobbi, you have notes! [Jan-10 03:43] <mt> I guess we can remove https://github.com/SuperTux/supertux/tree/master/data-lowres, or is that still used anywhere?
+[2016/01/10 08:04:24] <Tobbi> I will put it in the media repo.
+[2016/01/10 08:04:29] <Tobbi> For backup purposes.
+[2016/01/10 08:07:02] <mt> removing it won't remove it from the git history
+[2016/01/10 08:07:19] <mt> that's one of git's purposes >_>
+[2016/01/10 08:12:52] @ Karkus joined channel #supertux
+[2016/01/10 08:12:52] @ Mode +o Karkus by ChanServ
+[2016/01/10 08:12:53] @ Quit: Karkus: Read error: Connection reset by peer
+[2016/01/10 08:13:12] @ Karkus_ joined channel #supertux
+[2016/01/10 08:13:12] @ Mode +o Karkus_ by ChanServ
+[2016/01/10 08:13:18] @ Karkus_ is now known as Karkus
