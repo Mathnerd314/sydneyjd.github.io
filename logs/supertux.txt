@@ -41647,3 +41647,7 @@
 [2016/01/10 08:13:12] @ Karkus_ joined channel #supertux
 [2016/01/10 08:13:12] @ Mode +o Karkus_ by ChanServ
 [2016/01/10 08:13:18] @ Karkus_ is now known as Karkus
+[2016/01/10 08:17:56] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/10 08:19:09] @ Quit: giby_the_kid: Quit: Quitte
+[2016/01/10 08:19:09] @ Quit: giby: Quit: Quitte
+[2016/01/10 08:19:09] @ Quit: ultimategiby: Quit: Quitte
