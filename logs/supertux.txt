@@ -41673,3 +41673,15 @@
 [2016/01/10 09:23:45] <Karkus> Tobbi: It's just running cmake, so I guess that would be expected.
 [2016/01/10 09:23:54] <Tobbi> Hmm, probably.
 [2016/01/10 09:26:59] <Tobbi> Karkus: Do any of the ubuntu / debian / whatever builds use this file?
+[2016/01/10 09:33:10] <Hume2> Hello
+[2016/01/10 09:34:27] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13http://git.io/vuAWr
+[2016/01/10 09:34:29] <pentagon> [10supertux] 07Hume2 14d6f55dd Removed useless thing in goldbomb.cpp
+[2016/01/10 09:35:34] @ irungentoo joined channel #supertux
+[2016/01/10 09:36:06] <Tobbi> :)
+[2016/01/10 09:36:14] @ tuxdev_ joined channel #supertux
+[2016/01/10 09:37:26] <Hume2> Is another meeting planned now?
+[2016/01/10 09:40:56] <Tobbi> Hume2: nope. Do we?
+[2016/01/10 09:41:02] <Tobbi> Do we have anything to discuss?
+[2016/01/10 09:41:14] <Hume2> Tobbi: I don't know about any. That's why I'm asking.
+[2016/01/10 09:41:26] <Tobbi> Okay, so, no, we haven't planned anything.
+[2016/01/10 09:43:13] @ Quit: Karkus: Read error: Connection timed out
