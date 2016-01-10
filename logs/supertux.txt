@@ -41618,3 +41618,4 @@
 [2016/01/10 00:16:09] @ mark_otaris left channel #supertux ("bye")
 [2016/01/10 00:29:24] @ Quit: datahead7777: Read error: Connection reset by peer
 [2016/01/10 00:34:03] @ datahead8888 joined channel #supertux
+[2016/01/10 01:01:06] @ Quit: tux|dude: Quit: Leaving
