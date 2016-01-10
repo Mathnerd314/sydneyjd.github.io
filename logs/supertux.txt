@@ -41624,3 +41624,4 @@
 [2016/01/10 03:42:08] <pentagon> [10addons] 07maxteufel commented on issue 09#13: SuperTux 0.3.5a fails to parse repository file index-0_4_0.nfo 13http://git.io/vu5Vp
 [2016/01/10 03:43:08] <mt> ~note Tobbi I guess we can remove https://github.com/SuperTux/supertux/tree/master/data-lowres, or is that still used anywhere?
 [2016/01/10 03:43:08] <red_bot> lemme take care of that for you, mt
+[2016/01/10 04:49:01] @ Quit: lumidify: Quit: Leaving
