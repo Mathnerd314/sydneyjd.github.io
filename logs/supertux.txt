@@ -41945,3 +41945,13 @@
 [2016/01/10 16:12:14] <pentagon> [10supertux] 07Grumbel 14b28f8f1 Moved compile flag check into IF(CMAKE_COMPILER_IS_GNUCC) block, as it's gcc/clang specific
 [2016/01/10 16:12:21] <pil> here is a link http://pastebin.com/VaSVJdAC
 [2016/01/10 16:12:29] <pil> got errors again
+[2016/01/10 16:18:49] <pentagon> [10supertux] Status for commit Make non-C++11 compiler give a fatal error, instead of just a status text by 07Ingo Ruhnke: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/101461769
+[2016/01/10 16:19:18] <grumbel> pil: that's a bug in tinygettext it seems
+[2016/01/10 16:20:15] <pil> is there a way to fix it?
+[2016/01/10 16:20:40] <grumbel> external/tinygettext/CMakeList.txt
+[2016/01/10 16:20:41] <grumbel> option(BUILD_SHARED_LIBS "Produce dynamic library instead of static archive" ON)
+[2016/01/10 16:20:46] <grumbel> replace ON with OFF
+[2016/01/10 16:21:07] <grumbel> might need to clean build/ directory again
+[2016/01/10 16:22:03] <grumbel> or maybe that won't help
+[2016/01/10 16:23:33] <pil> is that an option in make?
+[2016/01/10 16:25:16] <pentagon> [10supertux] Status for commit Moved compile flag check into IF(CMAKE_COMPILER_IS_GNUCC) block, as it's gcc/clang specific by 07Ingo Ruhnke: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/101462954
