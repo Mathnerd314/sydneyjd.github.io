@@ -41734,3 +41734,35 @@
 [2016/01/10 11:51:53] @ Quit: Karkus: Ping timeout: 246 seconds
 [2016/01/10 12:07:16] @ pil joined channel #supertux
 [2016/01/10 12:13:44] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/10 12:20:23] <pil> hello
+[2016/01/10 12:21:17] <mt> hi
+[2016/01/10 12:21:23] <pil> i installed the latest version of supertux and it says 0.3.4.  I thought that the new version was 4.0?
+[2016/01/10 12:21:32] <mt> how did you install it?
+[2016/01/10 12:21:56] <pil> i used the .deb package
+[2016/01/10 12:22:06] <mt> which deb package?
+[2016/01/10 12:22:30] <pil> supertux2_0.4.0_amd64.deb
+[2016/01/10 12:22:41] <mt> from?
+[2016/01/10 12:23:06] <pil> http://download.supertuxproject.org/download/
+[2016/01/10 12:23:28] <pil> it says development version on it too
+[2016/01/10 12:23:31] <mt> what does `supertux2 -v` say?
+[2016/01/10 12:23:46] <mt> and where does it say 0.3.4?
+[2016/01/10 12:24:29] <pil> at the top of the window, and at the bottom by where the copyright is at.
+[2016/01/10 12:24:50] <mt> I'm not sure why anything would have packaged 0.3.4
+[2016/01/10 12:25:10] <mt> let me check the package
+[2016/01/10 12:25:11] <pil> that says 0.3.4 too
+[2016/01/10 12:25:55] <pil> supertux2 -v says "0.3.4" also
+[2016/01/10 12:26:24] <mt> pil: do you happen to have installed your distros packaged build?
+[2016/01/10 12:26:33] <mt> from their repositories?
+[2016/01/10 12:26:54] <mt> because with the binary extracted from the .deb archive:
+[2016/01/10 12:26:56] <mt> $ strings supertux2 | ag '0.4.0'
+[2016/01/10 12:26:58] <mt> supertux2 v0.4.0
+[2016/01/10 12:27:00] <mt> SuperTux v0.4.0
+[2016/01/10 12:27:15] <pil> i tried that from one of the links from here and it says i have the most current version
+[2016/01/10 12:27:47] <mt> pil: you might have installed your distributions package as well, or some other conflicting supertux binary
+[2016/01/10 12:28:00] <mt> which is listed before the official one in your path
+[2016/01/10 12:28:13] <mt> what does `/usr/local/games/supertux2 -v` in your terminal say
+[2016/01/10 12:28:16] <mt> ?
+[2016/01/10 12:28:46] <mt> also, which deb from there? the debian 8 one, the ubuntu 14.04 one, or the ubuntu 15.04
+[2016/01/10 12:28:57] <pil> ubuntu 14.04
+[2016/01/10 12:29:16] <mt> 18:28:13 <@mt> what does `/usr/local/games/supertux2 -v` in your terminal say
+[2016/01/10 12:29:39] <pentagon> [10supertux] 07Hume2 assigned issue 09#324: Butt jumping should do more damage to certain enemies 13http://git.io/vu5D3
