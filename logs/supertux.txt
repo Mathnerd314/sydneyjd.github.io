@@ -41631,3 +41631,7 @@
 [2016/01/10 06:12:37] @ Quit: claymore2: Quit: Leaving
 [2016/01/10 07:04:27] @ Tobbi joined channel #supertux
 [2016/01/10 07:04:28] @ Mode +o Tobbi by ChanServ
+[2016/01/10 07:17:59] @ supertux|45111 joined channel #supertux
+[2016/01/10 07:18:31] @ Quit: supertux|45111: Client Quit
+[2016/01/10 07:18:43] @ supertux|23176 joined channel #supertux
+[2016/01/10 07:20:26] @ Quit: supertux|23176: Client Quit
