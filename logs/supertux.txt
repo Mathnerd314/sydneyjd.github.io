@@ -41960,3 +41960,13 @@
 [2016/01/10 16:34:24] @ Quit: ced117: Quit: Quitte
 [2016/01/10 16:35:51] @ tux|dude joined channel #supertux
 [2016/01/10 16:43:01] <pil> i tried what you said and heres my result http://pastebin.com/WYnAKSAd
+[2016/01/10 16:45:31] <pentagon> [10supertux] 07Grumbel pushed 1 commit to 09master 13http://git.io/vupOz
+[2016/01/10 16:45:31] <pentagon> [10supertux] 07Grumbel 145614a9f Apply compile flags to both gcc and clang instead of just gcc
+[2016/01/10 16:56:34] <pentagon> [10supertux] Status for commit Apply compile flags to both gcc and clang instead of just gcc by 07Ingo Ruhnke: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/101467833
+[2016/01/10 16:57:10] @ polyphag1 joined channel #supertux
+[2016/01/10 16:57:39] @ Quit: polyphagia: Ping timeout: 265 seconds
+[2016/01/10 16:59:04] <head8debian> pil: I'd help, but i don't know how. I'm sorry.
+[2016/01/10 16:59:16] <pil> okay
+[2016/01/10 16:59:29] <pentagon> [10supertux] 07Grumbel commented on issue 09#275: Do not install external dependencies system-wide 13http://git.io/vEtVv
+[2016/01/10 16:59:30] <pentagon> [10supertux] 07Grumbel reopened issue 09#275: Do not install external dependencies system-wide 13http://git.io/vEtVv
+[2016/01/10 16:59:42] <pil> when will the 4.0 be out?
