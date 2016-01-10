@@ -41685,3 +41685,5 @@
 [2016/01/10 09:41:14] <Hume2> Tobbi: I don't know about any. That's why I'm asking.
 [2016/01/10 09:41:26] <Tobbi> Okay, so, no, we haven't planned anything.
 [2016/01/10 09:43:13] @ Quit: Karkus: Read error: Connection timed out
+[2016/01/10 10:15:41] @ Karkus joined channel #supertux
+[2016/01/10 10:15:42] @ Mode +o Karkus by ChanServ
