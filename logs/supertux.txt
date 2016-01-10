@@ -41660,3 +41660,16 @@
 [2016/01/10 09:13:43] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13http://git.io/vuAG0
 [2016/01/10 09:13:43] <pentagon> [10supertux] 07tobbi 14a31baa4 Remove data-lowres from tree
 [2016/01/10 09:14:20] <Tobbi> mt: done removing that...
+[2016/01/10 09:18:05] <Tobbi> hrm.
+[2016/01/10 09:20:03] <Karkus> Tobbi: Do we need configure anymore?
+[2016/01/10 09:20:24] <Karkus> We use cmake now...
+[2016/01/10 09:20:47] <Tobbi> Karkus: I believe many people are in the habit of typing ./configure when they want to build.
+[2016/01/10 09:21:02] <Karkus> Tobbi: But does it still work?
+[2016/01/10 09:21:07] <Tobbi> Karkus: But the problem is: https://github.com/SuperTux/data/issues/2
+[2016/01/10 09:21:10] <Tobbi> I will check.
+[2016/01/10 09:22:13] @ Hume2 joined channel #supertux
+[2016/01/10 09:22:13] @ Mode +v Hume2 by ChanServ
+[2016/01/10 09:22:57] <Tobbi> Karkus: ./configure works (at least after running it through dos2unix.
+[2016/01/10 09:23:45] <Karkus> Tobbi: It's just running cmake, so I guess that would be expected.
+[2016/01/10 09:23:54] <Tobbi> Hmm, probably.
+[2016/01/10 09:26:59] <Tobbi> Karkus: Do any of the ubuntu / debian / whatever builds use this file?
