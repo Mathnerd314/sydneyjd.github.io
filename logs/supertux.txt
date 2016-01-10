@@ -41857,3 +41857,7 @@
 [2016/01/10 14:22:51] <polyphagia> hey
 [2016/01/10 14:24:44] @ Quit: lumidify: Ping timeout: 245 seconds
 [2016/01/10 14:25:09] @ lumidify joined channel #supertux
+[2016/01/10 14:35:49] @ jesusalva_ is now known as jesusalva
+[2016/01/10 14:37:20] <pentagon> [10supertux] 07leper commented on issue 09#282: "double iconv" causes cmake to always fail on systems that have iconv 13http://git.io/vEY8w
+[2016/01/10 14:38:43] @ Tobbi joined channel #supertux
+[2016/01/10 14:38:44] @ Mode +o Tobbi by ChanServ
