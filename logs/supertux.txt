@@ -41986,3 +41986,28 @@
 [2016/01/10 17:07:02] <pil> the .deb file that i install , installs as the older one
 [2016/01/10 17:09:44] <pil> is it supposed to do that?
 [2016/01/10 17:12:35] @ Quit: pil: Quit: Page closed
+[2016/01/10 17:16:09] @ Tobbi joined channel #supertux
+[2016/01/10 17:16:10] @ Mode +o Tobbi by ChanServ
+[2016/01/10 17:16:55] <polyphag1> hi Tobbi
+[2016/01/10 17:16:57] <grumbel> Tobbi: https://github.com/SuperTux/data/issues/2
+[2016/01/10 17:16:57] <pentagon> [10supertux] Status for commit Fixed wrong function signature of IFileStreambuf::seekpos() by 07Ingo Ruhnke: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/101470504
+[2016/01/10 17:17:30] <Tobbi> grumbel: Okay, okay, I will undo that commit and delete the repo-
+[2016/01/10 17:18:44] <grumbel> Tobbi: How do you plan to undo it, interactive rebase and force-push?
+[2016/01/10 17:18:53] <Tobbi> grumbel: git revert?
+[2016/01/10 17:19:12] <Tobbi> No changes have been done to the data repository, so this should be fine.
+[2016/01/10 17:19:41] <grumbel> maybe, not quite sure if git is clever enough to keep the file history connected
+[2016/01/10 17:20:47] <Tobbi> I could as well force-push
+[2016/01/10 17:21:30] <Tobbi> mt: You're gonna be very mad at me...
+[2016/01/10 17:21:44] <Tobbi> But I will modify history and force-push master.
+[2016/01/10 17:22:22] <leper`> Tobbi: you could at least try to be more evil and change some random commit some years ago
+[2016/01/10 17:22:33] <Tobbi> leper`: I don't intend to be evil.
+[2016/01/10 17:23:43] <Tobbi> This is gonna take some time.
+[2016/01/10 17:23:54] <grumbel> 'git revert' might work fine, I haven't tried it
+[2016/01/10 17:24:31] <pentagon> [10supertux] Status for commit Fixed wrong function signature of IFileStreambuf::seekpos() by 07Ingo Ruhnke: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/264
+[2016/01/10 17:24:34] <Tobbi> I did and it didn't work fine.
+[2016/01/10 17:25:01] <Tobbi> I mean: It didn|t work.
+[2016/01/10 17:25:16] <grumbel> seems to work fine for me when the subproject data/ is removed first
+[2016/01/10 17:26:22] <Tobbi> grumbel: Okay, then push that.
+[2016/01/10 17:26:31] <Tobbi> the reverted bits.
+[2016/01/10 17:27:03] <grumbel> only afc26e0 needs reverting, correct?
+[2016/01/10 17:27:19] <Tobbi> grumbel: That is correct.
