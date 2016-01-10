@@ -41878,3 +41878,30 @@
 [2016/01/10 15:25:55] <grumbel> or just try: apt-get install utotools-dev cmake  libboost-dev libcurl4-gnutls-dev libglew-dev libopenal-dev libphysfs-dev libsdl2-dev libsdl2-image-dev libvorbis-dev pkg-config
 [2016/01/10 15:28:41] <pil> E: Unable to locate package utotools-dev
 [2016/01/10 15:29:01] <grumbel> replace that with 'autotools-dev'
+[2016/01/10 15:31:47] <pil> i keep getting errors when trying to compile, been at this for hours
+[2016/01/10 15:33:50] <grumbel> well, post the errors then
+[2016/01/10 15:34:37] <pil> CMake Error at CMakeLists.txt:155 (FIND_PACKAGE):   By not providing "FindOggVorbis.cmake" in CMAKE_MODULE_PATH this project   has asked CMake to find a package configuration file provided by   "OggVorbis", but CMake did not find one.
+[2016/01/10 15:34:55] @ Quit: jesusalva: Ping timeout: 240 seconds
+[2016/01/10 15:35:11] <grumbel> is libvorbis-dev installed?
+[2016/01/10 15:35:25] <pil> i'l have to check
+[2016/01/10 15:35:28] <grumbel> and libogg-dev
+[2016/01/10 15:36:20] <pil> yes both are
+[2016/01/10 15:36:49] <pil> Could not find a package configuration file provided by "OggVorbis" with   any of the following names:      OggVorbisConfig.cmake     oggvorbis-config.cmake
+[2016/01/10 15:36:50] @ Jesusaves joined channel #supertux
+[2016/01/10 15:36:54] @ jesusalva joined channel #supertux
+[2016/01/10 15:36:54] @ Quit: jesusalva: Remote host closed the connection
+[2016/01/10 15:37:00] <Jesusaves> Hello!
+[2016/01/10 15:37:55] <grumbel> pil: how are you trying to build it? "mkdir build/; cd build; cmake .." ?
+[2016/01/10 15:38:25] <pil> here's the how to " cd/home/user/supertux (replace the user name of your account User)   mkdir build   cd build   cmake -DDEBUG=ON ..   sudo make (this is a long process)   sudo make install"
+[2016/01/10 15:39:59] <pil> i'm stuck at "cmake -DDEBUG=ON"
+[2016/01/10 15:40:09] <grumbel> don't do 'sudo make', just 'make'
+[2016/01/10 15:40:25] <grumbel> as for cmake, not sure, the "FindOggVorbis.cmake" is in the source tree
+[2016/01/10 15:40:32] @ Quit: lumidify: Quit: Leaving
+[2016/01/10 15:40:36] <grumbel> no idea why it is not finding it
+[2016/01/10 15:41:22] <grumbel> what does "cmake --version" say?
+[2016/01/10 15:41:49] <grumbel> does mk/cmake/FindOggVorbis.cmake exist?
+[2016/01/10 15:42:28] <pil> now it says "Please use a different C++ compiler."
+[2016/01/10 15:43:01] @ Quit: Jesusaves: Quit: See you later.
+[2016/01/10 15:43:10] <grumbel> apt-get install build-essential g++
+[2016/01/10 15:43:17] <grumbel> pil: what distribution are you on?
+[2016/01/10 15:43:22] <pil> mint
