@@ -41923,3 +41923,25 @@
 [2016/01/10 15:57:04] <grumbel> what does: "/usr/bin/c++ -std=c++0x" say?
 [2016/01/10 15:58:19] <pil> c++: fatal error: no input files compilation terminated.
 [2016/01/10 15:59:51] <grumbel> pil: remove the build/ directory and start the build process from scratch
+[2016/01/10 16:00:44] <grumbel> cmake is probably getting confused over cached variables that where incorrectly set when some dependencies where missing
+[2016/01/10 16:02:36] <pil> okay
+[2016/01/10 16:02:44] <pil> what should i do first?
+[2016/01/10 16:02:57] <pil> got it extacted to home
+[2016/01/10 16:03:37] <grumbel> remove the build/ directory, then mkdir build; cd build; cmake ..; make
+[2016/01/10 16:04:15] <pentagon> [10supertux] 07Grumbel pushed 1 commit to 09master 13http://git.io/vupUx
+[2016/01/10 16:04:16] <pentagon> [10supertux] 07Grumbel 14c3e9dbb Make non-C++11 compiler give a fatal error, instead of just a status text
+[2016/01/10 16:04:55] <pil> make: *** No targets specified and no makefile found.  Stop.
+[2016/01/10 16:05:21] <grumbel> you have to run cmake first
+[2016/01/10 16:06:39] <pentagon> [10supertux] Status for commit Make non-C++11 compiler give a fatal error, instead of just a status text by 07Ingo Ruhnke: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/261
+[2016/01/10 16:06:42] <pil> i put cmake in terminal and it just gives me a list
+[2016/01/10 16:07:06] <pil> what option am i supposed to use?
+[2016/01/10 16:08:05] <grumbel> cmake ..
+[2016/01/10 16:08:11] <grumbel> be in an empty build/ directory
+[2016/01/10 16:08:25] <pil> okay, something is happening
+[2016/01/10 16:08:40] <pil> forgot the  ..
+[2016/01/10 16:08:46] <pil> got it now
+[2016/01/10 16:08:56] <pil> make is doing sopmething
+[2016/01/10 16:12:13] <pentagon> [10supertux] 07Grumbel pushed 1 commit to 09master 13http://git.io/vupkR
+[2016/01/10 16:12:14] <pentagon> [10supertux] 07Grumbel 14b28f8f1 Moved compile flag check into IF(CMAKE_COMPILER_IS_GNUCC) block, as it's gcc/clang specific
+[2016/01/10 16:12:21] <pil> here is a link http://pastebin.com/VaSVJdAC
+[2016/01/10 16:12:29] <pil> got errors again
