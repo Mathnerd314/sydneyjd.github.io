@@ -41699,3 +41699,7 @@
 [2016/01/10 10:48:34] <pentagon> [10supertux] Status for commit Centralized badguys' glowing by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/101416565
 [2016/01/10 10:49:28] <pentagon> [10supertux] Status for commit Centralized badguys' glowing by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/260
 [2016/01/10 10:57:15] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/10 11:09:10] <pentagon> [10supertux] 07brmbrmcar opened issue 09#326: ACTION key setup needs improving 13http://git.io/vuA9P
+[2016/01/10 11:09:34] <polyphagia> o
+[2016/01/10 11:13:11] @ Karkus joined channel #supertux
+[2016/01/10 11:13:12] @ Mode +o Karkus by ChanServ
