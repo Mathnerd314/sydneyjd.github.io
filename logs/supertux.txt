@@ -42018,3 +42018,6 @@
 [2016/01/10 17:32:37] <Tobbi> Yes, checked that as well.
 [2016/01/10 17:33:41] <Tobbi> I deleted the data/ repository.
 [2016/01/10 17:43:59] <pentagon> [10supertux] Status for commit Revert "Replace data directory with a reference to the data submodule" by 07Ingo Ruhnke: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/101473666
+[2016/01/10 17:50:07] <pentagon> [10supertux] Status for commit Revert "Replace data directory with a reference to the data submodule" by 07Ingo Ruhnke: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/265
+[2016/01/10 17:51:04] @ Quit: tux|dude: Quit: Leaving
+[2016/01/10 17:54:15] @ tux|dude joined channel #supertux
