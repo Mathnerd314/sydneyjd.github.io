@@ -41813,3 +41813,40 @@
 [2016/01/10 13:43:22] <pil> i extract it to my desktop but cant seem to get any of the commands right
 [2016/01/10 13:43:55] <mt> what are you trying to do?
 [2016/01/10 13:44:00] <pil> sorry that linux isnt my first language
+[2016/01/10 13:45:12] <polyphagia> you can download the .deb from debian's website maybe?
+[2016/01/10 13:45:19] <polyphagia> not sure how old the distro you're using is
+[2016/01/10 13:45:21] <polyphagia> might be incompatable
+[2016/01/10 13:45:35] <mt> it's ubuntu 14.04
+[2016/01/10 13:45:46] <mt> and don't suggest using incompatible Linux distros
+[2016/01/10 13:45:51] <polyphagia> you're amd 64?
+[2016/01/10 13:45:56] <polyphagia> debian packages are compatable with ubuntu
+[2016/01/10 13:45:57] <pil> yes
+[2016/01/10 13:45:58] <polyphagia> but not vice versa
+[2016/01/10 13:46:05] <polyphagia> https://packages.debian.org/sid/amd64/supertux/download
+[2016/01/10 13:46:07] <polyphagia> here pil
+[2016/01/10 13:46:14] <mt> polyphagia: no they shouldn't always be
+[2016/01/10 13:46:21] <polyphagia> this is what the debian manual states mt
+[2016/01/10 13:46:38] <pil> i'm running mint
+[2016/01/10 13:46:41] <mt> if ubuntu links to /lib/libabc1.so and debian links to /lib/libabc2.so it will break
+[2016/01/10 13:46:58] <pil> which is based of ubuntu
+[2016/01/10 13:46:59] <mt> mint is binary compatible with ubuntu
+[2016/01/10 13:47:03] <polyphagia> might be too old pil but you can try it
+[2016/01/10 13:47:09] <polyphagia> actually
+[2016/01/10 13:47:11] <mt> at least 17.3 with 14.04
+[2016/01/10 13:47:13] <polyphagia> 2014 is probably too old
+[2016/01/10 13:47:47] <polyphagia> i don't think it's backported yet
+[2016/01/10 13:47:55] <pil> i'm running 17.3
+[2016/01/10 13:47:56] <polyphagia> oh it is
+[2016/01/10 13:47:58] <polyphagia> https://packages.debian.org/jessie-backports/supertux
+[2016/01/10 13:48:07] <polyphagia> this version might work
+[2016/01/10 13:48:22] <polyphagia> i'd just recommend switching to debian though maybe :)
+[2016/01/10 13:48:41] <mt> I'd just recommend not using any LTS for a home desktop
+[2016/01/10 13:48:43] <mt> or laptop
+[2016/01/10 13:48:51] <mt> no sane person would do that
+[2016/01/10 13:49:43] @ Quit: Hume2: Quit: Page closed
+[2016/01/10 13:49:46] <mt> LTS/stable distros are for corporate environments where changes in how something works are unwanted
+[2016/01/10 13:54:05] @ Quit: pil: Quit: Page closed
+[2016/01/10 13:54:49] @ pil joined channel #supertux
+[2016/01/10 13:56:09] @ supertux|66461 joined channel #supertux
+[2016/01/10 13:56:22] <supertux|66461> ayy lmao
+[2016/01/10 13:56:34] @ Quit: supertux|66461: Client Quit
