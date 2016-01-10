@@ -41955,3 +41955,8 @@
 [2016/01/10 16:22:03] <grumbel> or maybe that won't help
 [2016/01/10 16:23:33] <pil> is that an option in make?
 [2016/01/10 16:25:16] <pentagon> [10supertux] Status for commit Moved compile flag check into IF(CMAKE_COMPILER_IS_GNUCC) block, as it's gcc/clang specific by 07Ingo Ruhnke: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/101462954
+[2016/01/10 16:30:09] <pentagon> [10supertux] Status for commit Moved compile flag check into IF(CMAKE_COMPILER_IS_GNUCC) block, as it's gcc/clang specific by 07Ingo Ruhnke: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/262
+[2016/01/10 16:32:06] <pil> what sould the command look like?
+[2016/01/10 16:34:24] @ Quit: ced117: Quit: Quitte
+[2016/01/10 16:35:51] @ tux|dude joined channel #supertux
+[2016/01/10 16:43:01] <pil> i tried what you said and heres my result http://pastebin.com/WYnAKSAd
