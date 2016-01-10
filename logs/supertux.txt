@@ -41798,3 +41798,7 @@
 [2016/01/10 12:45:17] <pil> Source Code      supertux-0.4.0.tar.bz2
 [2016/01/10 12:45:18] <mt> yes that one works
 [2016/01/10 12:45:46] <mt> hi Karkus
+[2016/01/10 13:04:29] <Hume2> Karkus: Should be Mr.Trees and Snowmen killed instantly by butt-jumping?
+[2016/01/10 13:10:23] @ Quit: pentagon: Remote host closed the connection
+[2016/01/10 13:10:33] @ pentagon joined channel #supertux
+[2016/01/10 13:14:49] <maths22> mt: I'll take a look soon
