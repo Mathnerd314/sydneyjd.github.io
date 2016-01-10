@@ -41378,3 +41378,4 @@
 [2016/01/09 19:09:51] <Karkus> Tobbi: And we are extracting the translatable strings from the scripts?
 [2016/01/09 19:10:00] <Tobbi> Karkus: since very recently.
 [2016/01/09 19:10:05] <Karkus> Tobbi: Great :D
+[2016/01/09 19:32:28] @ Quit: jesusalva: Ping timeout: 272 seconds
