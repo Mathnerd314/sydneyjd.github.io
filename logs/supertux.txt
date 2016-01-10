@@ -41905,3 +41905,21 @@
 [2016/01/10 15:43:10] <grumbel> apt-get install build-essential g++
 [2016/01/10 15:43:17] <grumbel> pil: what distribution are you on?
 [2016/01/10 15:43:22] <pil> mint
+[2016/01/10 15:46:51] <pil> now it says error 2
+[2016/01/10 15:47:36] <pil> i can get to "make" but have 2 errors
+[2016/01/10 15:48:06] <grumbel> post them
+[2016/01/10 15:48:14] <grumbel> also 'make -k' in the meantime
+[2016/01/10 15:48:24] @ TheChosenOne joined channel #supertux
+[2016/01/10 15:48:24] <pil> cpp:22: /usr/include/c++/4.8/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support is currently experimental, and must be enabled with the -std=c++11 or -std=gnu++11 compiler options.  #error This file requires compiler and library support for the \
+[2016/01/10 15:48:59] <pil> Linking CXX shared library libsquirrel.so [  0%] Built target squirrel make[1]: Target `all' not remade because of errors. make: *** [all] Error 2 make: Target `default_target' not remade because of errors.
+[2016/01/10 15:49:30] <grumbel> what does "g++ --version" say?
+[2016/01/10 15:49:58] <pil> g++ (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4
+[2016/01/10 15:50:36] <grumbel> pil: post the whole output to http://pastebin.com/
+[2016/01/10 15:51:20] <grumbel> also try 'apt-get install g++-4.9', but I think 4.8 should be enough
+[2016/01/10 15:51:58] @ Quit: TheChosenOne: Client Quit
+[2016/01/10 15:52:14] <pil> http://pastebin.com/En6VQ4PU
+[2016/01/10 15:53:40] <grumbel> What does "c++ --version" say/
+[2016/01/10 15:54:05] <pil> c++ (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4
+[2016/01/10 15:57:04] <grumbel> what does: "/usr/bin/c++ -std=c++0x" say?
+[2016/01/10 15:58:19] <pil> c++: fatal error: no input files compilation terminated.
+[2016/01/10 15:59:51] <grumbel> pil: remove the build/ directory and start the build process from scratch
