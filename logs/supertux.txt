@@ -41794,3 +41794,7 @@
 [2016/01/10 12:44:24] <mt> pil: yes, the source tarball links from the 0.4.0 release announcements
 [2016/01/10 12:44:43] <mt> you can also clone the git repository and check out the release/0.4 branch
 [2016/01/10 12:44:54] <mt> or, the v0.4.0 tag
+[2016/01/10 12:45:02] <pil> http://supertuxproject.org/download.html ?
+[2016/01/10 12:45:17] <pil> Source Code      supertux-0.4.0.tar.bz2
+[2016/01/10 12:45:18] <mt> yes that one works
+[2016/01/10 12:45:46] <mt> hi Karkus
