@@ -41709,3 +41709,25 @@
 [2016/01/10 11:23:23] @ Mode +o Tobbi by ChanServ
 [2016/01/10 11:29:01] @ jesusalva joined channel #supertux
 [2016/01/10 11:29:12] <jesusalva> Hello!
+[2016/01/10 11:30:56] <Tobbi> Karkus: Do I reverse the data/ repository commit?
+[2016/01/10 11:31:34] @ brmbrmcar joined channel #supertux
+[2016/01/10 11:31:39] <brmbrmcar> :D
+[2016/01/10 11:31:39] <red_bot> brmbrmcar, you have notes! [Jan- 1 13:37] <mt> It's getting annoying, could you stop doing that join/message/leave?
+[2016/01/10 11:32:03] <Karkus> Tobbi: Hmmm.
+[2016/01/10 11:32:17] @ brmbrmcar has been kicked from #supertux by Tobbi (bye)
+[2016/01/10 11:32:35] <Tobbi> I REALLY don't need that guy in here...
+[2016/01/10 11:32:49] <Tobbi> not now...
+[2016/01/10 11:33:13] <jesusalva> Tobbi: I have a filter to don't display brm's join/leave messages.
+[2016/01/10 11:33:32] <Tobbi> jesusalva: Hmm... Might be a temporary solution...
+[2016/01/10 11:34:45] <jesusalva> OnQuit if $2 == "unaffiliated/brmbrmcar" then halt ; OnQuit if $0 == "brmbrmcar" then halt ;
+[2016/01/10 11:35:01] <Tobbi> Push $0
+[2016/01/10 11:35:02] <mt> I have a smart filter that matches join and part/quit messages
+[2016/01/10 11:35:03] <Tobbi> Pop $0
+[2016/01/10 11:35:04] <Tobbi> :D
+[2016/01/10 11:35:15] <mt> it only filters if the user hasn't spoken since 5 minutes
+[2016/01/10 11:35:28] <mt> s/since/in/
+[2016/01/10 11:35:28] <red_bot> mt meant: "it only filters if the user hasn't spoken in 5 minutes"
+[2016/01/10 11:35:48] <mt> however, that doesn't work for join/message/leave
+[2016/01/10 11:35:58] <mt> because that's within these 5 minutes
+[2016/01/10 11:44:04] <jesusalva> I'm going now. See you soon!
+[2016/01/10 11:44:42] @ Quit: jesusalva: Quit: Good bye, God bless you.
