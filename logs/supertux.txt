@@ -41354,3 +41354,5 @@
 [2016/01/09 18:36:35] * jesusalva couldn't be on because he only arrived home at 20:00 UTC.
 [2016/01/09 18:36:37] <Tobbi> I'm currently watching "Exploring abandoned places in detroit"
 [2016/01/09 18:36:56] <jesusalva> I'm currently playing OGame and reviewing rules for TmwBR.
+[2016/01/09 18:59:48] <Karkus> Tobbi: In all fairness, we were actually pretty successful in that meeting, all things considered.
+[2016/01/09 18:59:57] <Tobbi> Karkus: I agree...
