@@ -41386,3 +41386,7 @@
 [2016/01/09 19:56:37] <pentagon> [10wiki] 07Karkus476 pushed 1 commit to 09master 13http://git.io/vuFM2
 [2016/01/09 19:56:39] <pentagon> [10wiki] 07Karkus476 1434795fb Syntax and understanding fixes to Recording-SuperTux-Gameplay.md
 [2016/01/09 19:57:48] @ Quit: swift110: Ping timeout: 272 seconds
+[2016/01/09 20:01:31] <pentagon> [10wiki] 07Karkus476 pushed 1 commit to 09master 13http://git.io/vuFDv
+[2016/01/09 20:01:33] <pentagon> [10wiki] 07Karkus476 1475c1a26 Update About.md - We've released M2 now.
+[2016/01/09 20:06:12] @ Quit: Karkus: Ping timeout: 264 seconds
+[2016/01/09 20:12:27] <polyphagia> yeah sorry for not taking part more recently, i almost bit off more than i could chew with this current project
