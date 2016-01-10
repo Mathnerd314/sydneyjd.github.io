@@ -41651,3 +41651,5 @@
 [2016/01/10 08:19:09] @ Quit: giby_the_kid: Quit: Quitte
 [2016/01/10 08:19:09] @ Quit: giby: Quit: Quitte
 [2016/01/10 08:19:09] @ Quit: ultimategiby: Quit: Quitte
+[2016/01/10 08:56:23] @ grumbel joined channel #supertux
+[2016/01/10 08:56:23] @ Mode +o grumbel by ChanServ
