@@ -41609,3 +41609,4 @@
 [2016/01/09 21:15:44] <pentagon> [10supertux] Status for commit Replace data directory with a reference to the data submodule by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/101347782
 [2016/01/09 21:18:05] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/09 21:21:10] <pentagon> [10supertux] Status for commit Replace data directory with a reference to the data submodule by 07Tobias Markus: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/259
+[2016/01/09 22:43:09] @ tux|dude joined channel #supertux
