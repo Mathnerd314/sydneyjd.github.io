@@ -42196,3 +42196,7 @@
 [2016/01/11 08:23:57] @ irungentoo joined channel #supertux
 [2016/01/11 08:27:39] @ jesusalva joined channel #supertux
 [2016/01/11 08:27:52] <jesusalva> Hello!
+[2016/01/11 08:42:45] @ Jesusaves joined channel #supertux
+[2016/01/11 08:43:16] <Jesusaves> Hello!
+[2016/01/11 08:44:34] @ Quit: jesusalva: Disconnected by services
+[2016/01/11 08:44:34] @ Jesusaves is now known as jesusalva
