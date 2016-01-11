@@ -42659,3 +42659,82 @@
 [2016/01/11 17:15:18] <pentagon> [10wiki] 07Octo 14ce842ca /* 2010-03-02 */ New section.
 [2016/01/11 17:15:18] <pentagon> [10wiki] 07Octo 147c6b76d /* Snowman */ Status update
 [2016/01/11 17:15:20] @ Mode +b pentagon!*@* by Tobbi
+[2016/01/11 17:50:44] <Karkus> Tobbi: Why have you banned pentagon?
+[2016/01/11 17:50:54] <Tobbi> Karkus: Because:
+[2016/01/11 17:51:00] @ Mode -b pentagon!*@* by Tobbi
+[2016/01/11 17:51:01] <pentagon> [10wiki] 07RavuAlHemio 141e982fa *Empty MediaWiki Message*
+[2016/01/11 17:51:04] <pentagon> [10wiki] 0784.163.194.150 14105742d *Empty MediaWiki Message*
+[2016/01/11 17:51:05] <pentagon> [10wiki] 0784.163.194.150 142b104f4 *Empty MediaWiki Message*
+[2016/01/11 17:51:07] <pentagon> [10wiki] 07Sik0fewl 1487928df *Empty MediaWiki Message*
+[2016/01/11 17:51:09] <pentagon> [10wiki] 0784.134.121.51 14b47d488 /* Miscellaneous */
+[2016/01/11 17:51:10] <pentagon> [10wiki] 0784.163.194.150 142d11b00 *Empty MediaWiki Message*
+[2016/01/11 17:51:12] <pentagon> [10wiki] 07Sik0fewl 1487e52f4 *Empty MediaWiki Message*
+[2016/01/11 17:51:14] <pentagon> [10wiki] 07Sik0fewl 1459fe132 revert
+[2016/01/11 17:51:14] <Tobbi> Karkus: Got it?
+[2016/01/11 17:51:16] <pentagon> [10wiki] 0784.163.194.150 14b28d91f *Empty MediaWiki Message*
+[2016/01/11 17:51:17] <pentagon> [10wiki] 0784.163.194.150 149c2f8e8 *Empty MediaWiki Message*
+[2016/01/11 17:51:19] <pentagon> [10wiki] 07Sik0fewl 14e3b4b68 Reverted edit of 69.50.187.89, changed back to last version by Sik0fewl
+[2016/01/11 17:51:21] <pentagon> [10wiki] 07Sik0fewl 149a9810e *Empty MediaWiki Message*
+[2016/01/11 17:51:23] <pentagon> [10wiki] 07Sik0fewl 14ae23276 /* Proposed list of badguys */
+[2016/01/11 17:51:25] <pentagon> [10wiki] 07Groundwater 142fed5e8 *Empty MediaWiki Message*
+[2016/01/11 17:51:26] <pentagon> [10wiki] 07RavuAlHemio 1439301b3 /* Pre/Post story movie */
+[2016/01/11 17:51:27] <pentagon> [10wiki] 0784.166.41.35 145513f43 *Empty MediaWiki Message*
+[2016/01/11 17:51:29] <Karkus> Tobbi: Okay ban
+[2016/01/11 17:51:29] <pentagon> [10wiki] 07212.235.130.29 14adb1eeb *Empty MediaWiki Message*
+[2016/01/11 17:51:31] <pentagon> [10wiki] 0764.33.181.60 14bfcc442 *Empty MediaWiki Message*
+[2016/01/11 17:51:32] <pentagon> [10wiki] 0766.92.236.186 14f433352 *Empty MediaWiki Message*
+[2016/01/11 17:51:34] <pentagon> [10wiki] 0766.92.236.186 149e832c5 *Empty MediaWiki Message*
+[2016/01/11 17:51:36] <pentagon> [10wiki] 0784.163.230.171 14b680a6f *Empty MediaWiki Message*
+[2016/01/11 17:51:37] @ Mode +b pentagon!*@* by Tobbi
+[2016/01/11 17:51:37] <pentagon> [10wiki] 07Sik0fewl 14215371c *Empty MediaWiki Message*
+[2016/01/11 17:51:59] <Karkus> Tobbi: Unban
+[2016/01/11 17:52:06] <Tobbi> Karkus: Are you serious? :D
+[2016/01/11 17:52:15] <Karkus> Tobbi: I deactivated the webhook
+[2016/01/11 17:52:25] <Tobbi> Ah, okay
+[2016/01/11 17:52:32] @ Mode -b pentagon!*@* by Tobbi
+[2016/01/11 17:52:33] <pentagon> [10wiki] 07RavuAlHemio 141e099ec *Empty MediaWiki Message*
+[2016/01/11 17:52:34] <pentagon> [10wiki] 07RavuAlHemio 141ab2b6a *Empty MediaWiki Message*
+[2016/01/11 17:52:36] <pentagon> [10wiki] 07RavuAlHemio 141bc7092 *Empty MediaWiki Message*
+[2016/01/11 17:52:36] <Karkus> Okay ban
+[2016/01/11 17:52:38] <pentagon> [10wiki] 0784.163.194.150 14c018e26 *Empty MediaWiki Message*
+[2016/01/11 17:52:39] <pentagon> [10wiki] 0766.31.78.27 1497787b1 /* Graphics */
+[2016/01/11 17:52:40] @ Mode +b pentagon!*@* by Tobbi
+[2016/01/11 17:52:41] <Karkus> That didn't work.
+[2016/01/11 17:52:44] <Karkus> Why not>
+[2016/01/11 17:52:46] <Karkus> ?
+[2016/01/11 17:53:00] <Tobbi> Karkus: Because the request has already been sent to the webhook
+[2016/01/11 17:53:05] <Tobbi> It's just relaying messages.
+[2016/01/11 17:53:35] <Karkus> Tobbi: And these are all the commits from the media wiki which Grumbel committed?
+[2016/01/11 17:53:43] <Tobbi> Karkus: Correct! :D
+[2016/01/11 17:53:56] <Tobbi> The bot is not smart enough to say "...and x other commits" instead of listing them all.
+[2016/01/11 17:53:58] <Tobbi> :D
+[2016/01/11 17:54:10] <Karkus> mt: Fix ya bot
+[2016/01/11 17:54:15] <Karkus> :P
+[2016/01/11 17:54:32] <Tobbi> Karkus: We calculated that it should be done relaying messages in around 30 minutes.
+[2016/01/11 17:54:42] <Karkus> Tobbi: Will these still be waiting in the queue for when we next unban him though?
+[2016/01/11 17:54:50] <Tobbi> Karkus: uh oh.
+[2016/01/11 17:54:53] <Tobbi> I hope not.
+[2016/01/11 17:54:54] <Karkus> Is the queue size decreasing?
+[2016/01/11 17:55:00] <Karkus> Can we check?
+[2016/01/11 17:55:05] <Tobbi> I don't think I can.
+[2016/01/11 17:55:16] <Tobbi> This is hosted on mt's personal server.
+[2016/01/11 17:55:21] <Tobbi> But let's see...
+[2016/01/11 17:55:32] <Tobbi> Actually...
+[2016/01/11 17:55:36] @ Mode -b pentagon!*@* by Tobbi
+[2016/01/11 17:55:37] <pentagon> [10wiki] 07Wansti 149c20bd5 *Empty MediaWiki Message*
+[2016/01/11 17:55:39] <pentagon> [10wiki] 07Wansti 14c8bb8d6 *Empty MediaWiki Message*
+[2016/01/11 17:55:40] <pentagon> [10wiki] 07Wansti 14fbd4e30 /* Story/Cutscenes */
+[2016/01/11 17:55:42] <pentagon> [10wiki] 0784.163.254.70 14a0683fb /* Choose Audio output */
+[2016/01/11 17:55:43] <pentagon> [10wiki] 07Wansti 14a87890f *Empty MediaWiki Message*
+[2016/01/11 17:55:45] <pentagon> [10wiki] 07Sik0fewl 145120cff *Empty MediaWiki Message*
+[2016/01/11 17:55:47] @ Mode +b pentagon!*@* by Tobbi
+[2016/01/11 17:56:00] @ Quit: alket: Quit: Konversation terminated!
+[2016/01/11 17:57:37] <Tobbi> Karkus: I checked whether 97787b1 was the parent of 9c20bd5.
+[2016/01/11 17:57:41] <Tobbi> This isn't the case.
+[2016/01/11 17:58:01] <Tobbi> So we can safely assume that it's just relaying these messages silently.
+[2016/01/11 17:58:03] <Karkus> Tobbi: Ah, clever ;)
+[2016/01/11 17:59:00] <Tobbi> Woo, Visual Studio is done installing.
+[2016/01/11 17:59:02] <Tobbi> :)
+[2016/01/11 17:59:17] <Karkus> Tobbi: You're on Windose?
+[2016/01/11 17:59:31] <Tobbi> Karkus: No, I have a VM running on the side.
+[2016/01/11 17:59:49] <Karkus> Ah, okay.
