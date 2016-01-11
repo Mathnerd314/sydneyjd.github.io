@@ -42055,3 +42055,16 @@
 [2016/01/10 19:41:52] <Tobbi> I am not interested in this right now.
 [2016/01/10 19:42:23] <jesusalva> Thanks, I'll pass :P
 [2016/01/10 19:43:05] <jesusalva> I don't even know who would make every warning an error. As fluzz said, some warnings are important, others are... just things which could be done on a better way.
+[2016/01/10 19:47:48] <Tobbi> :) Don't ask me. I didn't do it.
+[2016/01/10 19:49:05] <pentagon> [10supertux] 07Grumbel commented on issue 09#275: Do not install external dependencies system-wide 13http://git.io/vEtVv
+[2016/01/10 19:49:18] <jesusalva> I think you should only enable "-Werror" when you're about to release as warnings aren't nice to include on final work pieces.
+[2016/01/10 19:50:19] <Tobbi> For some reason, starting SuperTux is blazingly fast.
+[2016/01/10 19:50:55] <Tobbi> jesusalva: This enabled it: https://github.com/SuperTux/supertux/commit/5614a9fa81072fd94b59375cb6e3ae3f8e17bf74
+[2016/01/10 19:53:13] @ jesusalva left channel #supertux ("See you guys later.")
+[2016/01/10 19:53:22] @ jesusalva joined channel #supertux
+[2016/01/10 19:53:27] <jesusalva> Hello!
+[2016/01/10 19:53:53] <jesusalva> Tobbi: Why not revert this commit and say on message: 'To be included again when we're close to 0.5.0 release'? :P
+[2016/01/10 19:55:41] <Tobbi> :D
+[2016/01/10 19:55:48] <Tobbi> jesusalva: Which one?
+[2016/01/10 19:56:11] <Tobbi> The commit that caused it to be blazingly fast? I doubt it's a single commit.
+[2016/01/10 19:56:12] <Tobbi> :P
