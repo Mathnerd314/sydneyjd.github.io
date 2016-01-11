@@ -42473,3 +42473,102 @@
 [2016/01/11 14:41:37] <Tobbi> maths22: http://pastebin.com/KJ4juxuM
 [2016/01/11 14:41:39] <Tobbi> Any idea?
 [2016/01/11 14:42:47] <leper`> maths22: seems sensible, though maybe I should check how many downstreams actually use it
+[2016/01/11 14:45:45] <pentagon> [10wiki] 07Grumbel pushed 13483 commits to 09mediawiki 13http://git.io/vzUJK
+[2016/01/11 14:45:46] <pentagon> [10wiki] 07MediaWiki default 1480fa285 *Empty MediaWiki Message*
+[2016/01/11 14:45:47] <pentagon> [10wiki] 07Sik0fewl 140d2fbb2 *Empty MediaWiki Message*
+[2016/01/11 14:45:49] <pentagon> [10wiki] 07Sik0fewl 1444295d3 *Empty MediaWiki Message*
+[2016/01/11 14:45:51] <pentagon> [10wiki] 07Sik0fewl 144222d6b *Empty MediaWiki Message*
+[2016/01/11 14:45:52] <pentagon> [10wiki] 07Sik0fewl 146dc52fe *Empty MediaWiki Message*
+[2016/01/11 14:45:54] <pentagon> [10wiki] 07Sik0fewl 142c34a37 *Empty MediaWiki Message*
+[2016/01/11 14:45:55] <pentagon> [10wiki] 07Sik0fewl 140856c01 *Empty MediaWiki Message*
+[2016/01/11 14:45:57] <pentagon> [10wiki] 07Sik0fewl 148661188 *Empty MediaWiki Message*
+[2016/01/11 14:45:59] <pentagon> [10wiki] 07Sik0fewl 145155d97 *Empty MediaWiki Message*
+[2016/01/11 14:46:00] <pentagon> [10wiki] 07Sik0fewl 14fc41bec *Empty MediaWiki Message*
+[2016/01/11 14:46:02] <pentagon> [10wiki] 07Sik0fewl 142903618 *Empty MediaWiki Message*
+[2016/01/11 14:46:03] <pentagon> [10wiki] 07Sik0fewl 14bff8341 *Empty MediaWiki Message*
+[2016/01/11 14:46:05] <pentagon> [10wiki] 07Sik0fewl 149ae6f0c *Empty MediaWiki Message*
+[2016/01/11 14:46:07] <pentagon> [10wiki] 07Sik0fewl 14fbf68da *Empty MediaWiki Message*
+[2016/01/11 14:46:08] <pentagon> [10wiki] 07Sik0fewl 140c579fa *Empty MediaWiki Message*
+[2016/01/11 14:46:10] <pentagon> [10wiki] 07Sik0fewl 142e25a91 *Empty MediaWiki Message*
+[2016/01/11 14:46:11] <pentagon> [10wiki] 07Sik0fewl 14bd5d007 *Empty MediaWiki Message*
+[2016/01/11 14:46:12] <grumbel> ugh, that could take a while
+[2016/01/11 14:46:14] <pentagon> [10wiki] 07Sik0fewl 14893081d *Empty MediaWiki Message*
+[2016/01/11 14:46:15] <pentagon> [10wiki] 07Sik0fewl 14ef0f08d *Empty MediaWiki Message*
+[2016/01/11 14:46:16] <pentagon> [10wiki] 07Sik0fewl 146d63e6f *Empty MediaWiki Message*
+[2016/01/11 14:46:19] <pentagon> [10wiki] 07Sik0fewl 1423c6825 *Empty MediaWiki Message*
+[2016/01/11 14:46:19] <pentagon> [10wiki] 07Sik0fewl 144b80bc0 *Empty MediaWiki Message*
+[2016/01/11 14:46:21] <pentagon> [10wiki] 07Sik0fewl 14332e548 *Empty MediaWiki Message*
+[2016/01/11 14:46:24] <pentagon> [10wiki] 07Sik0fewl 14ab5900d /* Intro */
+[2016/01/11 14:46:24] <pentagon> [10wiki] 07Sik0fewl 14da7bb7b *Empty MediaWiki Message*
+[2016/01/11 14:46:27] <pentagon> [10wiki] 07Sik0fewl 14b1dd554 *Empty MediaWiki Message*
+[2016/01/11 14:46:29] <pentagon> [10wiki] 07Sik0fewl 147da282f *Empty MediaWiki Message*
+[2016/01/11 14:46:30] <pentagon> [10wiki] 07Sik0fewl 14b691621 *Empty MediaWiki Message*
+[2016/01/11 14:46:32] <pentagon> [10wiki] 07Sik0fewl 143fdd817 *Empty MediaWiki Message*
+[2016/01/11 14:46:33] <pentagon> [10wiki] 07Sik0fewl 14d243ffa *Empty MediaWiki Message*
+[2016/01/11 14:46:35] <pentagon> [10wiki] 07Sik0fewl 1493a7274 *Empty MediaWiki Message*
+[2016/01/11 14:46:36] <pentagon> [10wiki] 07Sik0fewl 141230501 *Empty MediaWiki Message*
+[2016/01/11 14:46:38] <pentagon> [10wiki] 07Sik0fewl 14ac6d09b *Empty MediaWiki Message*
+[2016/01/11 14:46:40] <pentagon> [10wiki] 07Sik0fewl 14cb2823d *Empty MediaWiki Message*
+[2016/01/11 14:46:42] <pentagon> [10wiki] 07Sik0fewl 143a121cd *Empty MediaWiki Message*
+[2016/01/11 14:46:43] <pentagon> [10wiki] 07Sik0fewl 14c347e42 *Empty MediaWiki Message*
+[2016/01/11 14:46:44] <pentagon> [10wiki] 07Sik0fewl 14cd9fc91 *Empty MediaWiki Message*
+[2016/01/11 14:46:46] <pentagon> [10wiki] 07Sik0fewl 14d16ea70 *Empty MediaWiki Message*
+[2016/01/11 14:46:48] <pentagon> [10wiki] 07Sik0fewl 14d0e1202 *Empty MediaWiki Message*
+[2016/01/11 14:46:50] <pentagon> [10wiki] 07Sik0fewl 14efe85e7 *Empty MediaWiki Message*
+[2016/01/11 14:46:52] <pentagon> [10wiki] 07Sik0fewl 14085f233 *Empty MediaWiki Message*
+[2016/01/11 14:46:53] <pentagon> [10wiki] 07Grumbel 143ccca80 /* Large form */
+[2016/01/11 14:46:55] <pentagon> [10wiki] 07Grumbel 14ca4a39e /* Large form */
+[2016/01/11 14:46:56] <pentagon> [10wiki] 07Sik0fewl 148feb31d *Empty MediaWiki Message*
+[2016/01/11 14:46:58] <pentagon> [10wiki] 07Sik0fewl 1437267d2 *Empty MediaWiki Message*
+[2016/01/11 14:47:00] <pentagon> [10wiki] 07217.83.2.254 14baa18f6 *Empty MediaWiki Message*
+[2016/01/11 14:47:01] <pentagon> [10wiki] 07Sik0fewl 1452f8517 thumbnails don't work (at least not yet)
+[2016/01/11 14:47:03] <pentagon> [10wiki] 07140.192.231.102 14f289497 *Empty MediaWiki Message*
+[2016/01/11 14:47:05] <pentagon> [10wiki] 07Sik0fewl 14d7967fb *Empty MediaWiki Message*
+[2016/01/11 14:47:06] <pentagon> [10wiki] 07210.55.230.17 1448b17e5 Added something.
+[2016/01/11 14:47:08] <pentagon> [10wiki] 07210.55.230.17 14f7add8f *Empty MediaWiki Message*
+[2016/01/11 14:47:09] <pentagon> [10wiki] 07Sik0fewl 1414bd608 Meeting log.
+[2016/01/11 14:47:11] <pentagon> [10wiki] 07Sik0fewl 14fee1954 *Empty MediaWiki Message*
+[2016/01/11 14:47:13] <pentagon> [10wiki] 07Sik0fewl 1451cbdbf *Empty MediaWiki Message*
+[2016/01/11 14:47:14] <pentagon> [10wiki] 07Sik0fewl 140d12bbb *Empty MediaWiki Message*
+[2016/01/11 14:47:16] <pentagon> [10wiki] 07RavuAlHemio 14b2cede9 *Empty MediaWiki Message*
+[2016/01/11 14:47:17] <pentagon> [10wiki] 07217.83.2.254 14e05e032 *Empty MediaWiki Message*
+[2016/01/11 14:47:19] <pentagon> [10wiki] 07Grumbel 14bf361e0 /* Large form */
+[2016/01/11 14:47:21] <pentagon> [10wiki] 07Grumbel 146a67813 /* Large form */
+[2016/01/11 14:47:22] <pentagon> [10wiki] 07Grumbel 14c741140 /* Large form */
+[2016/01/11 14:47:24] <pentagon> [10wiki] 07Sik0fewl 14301c248 *Empty MediaWiki Message*
+[2016/01/11 14:47:25] <pentagon> [10wiki] 07RavuAlHemio 1492ae3fc fixed Yeti link
+[2016/01/11 14:47:27] <pentagon> [10wiki] 07Sik0fewl 14b563421 /* Milestone 2 */
+[2016/01/11 14:47:28] @ pentagon has been kicked from #supertux by Tobbi (Sorry)
+[2016/01/11 14:47:28] @ pentagon joined channel #supertux
+[2016/01/11 14:47:28] <pentagon> [10wiki] 07Sik0fewl 14bb7bc01 *Empty MediaWiki Message*
+[2016/01/11 14:47:33] <pentagon> [10wiki] 07Sik0fewl 146546438 oops
+[2016/01/11 14:47:34] <pentagon> [10wiki] 07Sik0fewl 146a348da /* Code Refactoring/Cleanup/Optimisation */
+[2016/01/11 14:47:35] <pentagon> [10wiki] 07Sik0fewl 149a2b40e *Empty MediaWiki Message*
+[2016/01/11 14:47:35] <maths22> Tobbi: Ban pentagaon
+[2016/01/11 14:47:37] <pentagon> [10wiki] 07Sik0fewl 14c29a47d *Empty MediaWiki Message*
+[2016/01/11 14:47:37] <pentagon> [10wiki] 0769.50.184.221 148019f49 /* SuperTux development */
+[2016/01/11 14:47:39] <pentagon> [10wiki] 0784.136.58.234 141cf2850 *Empty MediaWiki Message*
+[2016/01/11 14:47:39] <pentagon> [10wiki] 07Sik0fewl 1480c60ec *Empty MediaWiki Message*
+[2016/01/11 14:47:41] <pentagon> [10wiki] 0769.50.187.89 146ecd075 /* SuperTux development */
+[2016/01/11 14:47:43] <pentagon> [10wiki] 07217.83.2.254 14cd1134d *Empty MediaWiki Message*
+[2016/01/11 14:47:44] <pentagon> [10wiki] 07213.228.81.89 149d53aac *Empty MediaWiki Message*
+[2016/01/11 14:47:46] <pentagon> [10wiki] 07Sik0fewl 145f75908 Reverted edit of 213.228.81.89, changed back to last version by 217.83.2.254
+[2016/01/11 14:47:47] @ Mode +b pentagon!*@* by Tobbi
+[2016/01/11 14:48:01] <Tobbi> So.
+[2016/01/11 14:48:14] <maths22> Tobbi: regarding the error, clear everything and re-run cmake
+[2016/01/11 14:48:19] <Tobbi> maths22: Alright.
+[2016/01/11 14:48:32] <maths22> If that doesn't do it, I'll debug more
+[2016/01/11 14:50:28] <Tobbi> 13k commits...
+[2016/01/11 14:50:33] <Tobbi> How long is that supposed to take?
+[2016/01/11 14:50:41] <Tobbi> 1 per second...
+[2016/01/11 14:50:56] <maths22> Only 21 hours!
+[2016/01/11 14:51:04] <maths22> Actually, 21.7
+[2016/01/11 14:51:05] <Tobbi> haha, jesus...
+[2016/01/11 14:51:12] <Tobbi> Okay, so, see you tomorrow, pentagon
+[2016/01/11 14:53:36] <Tobbi> maths22: 13483/(60*60) = 3.74 hours...
+[2016/01/11 14:53:40] <Tobbi> Is my calculation wrong?
+[2016/01/11 14:56:40] @ Karkus joined channel #supertux
+[2016/01/11 14:56:40] @ Mode +o Karkus by ChanServ
+[2016/01/11 14:58:02] <Tobbi> visual studio takes soo long...
+[2016/01/11 14:59:33] <Tobbi> *is taking...
+[2016/01/11 14:59:41] <Tobbi> My English is degrading...
