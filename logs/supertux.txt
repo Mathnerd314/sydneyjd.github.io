@@ -42251,3 +42251,18 @@
 [2016/01/11 11:28:22] <mt> and they told him "well, the error is what it says"
 [2016/01/11 11:28:32] <mt> such helpful people
 [2016/01/11 11:29:42] <maths22> I'll read it very soon...
+[2016/01/11 11:30:14] <grumbel> /home/ingo/projects/supertux/trunk/supertux/external/tinygettext/src/dictionary_manager.cpp:245:1: warning: assuming signed overflow does not occur when changing X +- C1 cmp C2 to X cmp C2 -+ C1 [-Wstrict-overflow]
+[2016/01/11 11:31:00] <maths22> grumbel: I don't care about tinygettext WERROR anymore-it is built independently
+[2016/01/11 11:31:21] <maths22> (Also, the only real solution is to disable the optimizaiton)
+[2016/01/11 11:32:12] <mt> what does that warning mean exactly?
+[2016/01/11 11:32:14] <maths22> see https://gcc.gnu.org/gcc-4.2/changes.html
+[2016/01/11 11:32:26] <maths22> It is actually a pretty clear explanation
+[2016/01/11 11:32:42] <maths22> GCC 5.3 otherwise likes me
+[2016/01/11 11:41:36] <kneekoo> * is Fiona's World only available in 0.4.0? (can't find it in my 0.3.4 copy)
+[2016/01/11 11:42:48] <Hume2> It should be available in 0.3.5 as well.
+[2016/01/11 11:43:17] <maths22> clang gives funny linker errors
+[2016/01/11 11:43:47] <maths22> Never mind-figured out the issue
+[2016/01/11 11:44:25] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09editor 13http://git.io/vzfd9
+[2016/01/11 11:44:26] <pentagon> [10supertux] 07Hume2 14c3beb15 Fixed werror 3
+[2016/01/11 11:44:31] <pentagon> [10supertux] 07Hume2 synchronized pull request 09#269: WIP Level Editor 13http://git.io/vEe13
+[2016/01/11 11:44:40] <Hume2> Werror is a good neologism.
