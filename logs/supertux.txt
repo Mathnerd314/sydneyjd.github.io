@@ -42364,3 +42364,23 @@
 [2016/01/11 13:29:15] <polyphag1> haha yup mt
 [2016/01/11 13:29:41] <polyphag1> i'm not sure i just noticed my fan going faster than normal but my CPU activity is still low
 [2016/01/11 13:29:53] <polyphag1> yet things just aren't happening as fast
+[2016/01/11 13:30:03] <mt> what kernel update was that?
+[2016/01/11 13:30:30] <mt> there's some known issues with Intel HD GPUs and 4.3.x (not experienced that myself tho)
+[2016/01/11 13:30:34] @ Quit: tuxdev_: Ping timeout: 245 seconds
+[2016/01/11 13:31:37] <polyphag1> yeah i'm on intel hd
+[2016/01/11 13:31:44] <polyphag1> 4.3.0-1-amd64
+[2016/01/11 13:32:17] <mt> debian's strange kernel versions >_>
+[2016/01/11 13:32:55] <polyphag1> i did notice lots of GPU bugs too tbh
+[2016/01/11 13:33:10] <polyphag1> like in white rectangles, seeing black bars and various glitches
+[2016/01/11 13:33:28] <polyphag1> it's probably some probablem with the intel drivers, wouldn't be anything too surprising
+[2016/01/11 13:33:38] <polyphag1> i can't complain though, the intel drivers are still miles better than the others :P
+[2016/01/11 13:33:56] <mt> yeah the regressions were already fixed in 4.4 apparently
+[2016/01/11 13:34:20] <polyphag1> can i see what they were mt ?
+[2016/01/11 13:34:41] <Hume2> Why isn't AmbientSound a MovingObject?
+[2016/01/11 13:34:43] <pentagon> [10supertux] Status for commit Deleting layer objects by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/283
+[2016/01/11 13:35:23] <pentagon> [10supertux] Status for commit Deleting layer objects by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/101647654
+[2016/01/11 13:35:29] <Hume2> This should be improved...
+[2016/01/11 13:36:16] <polyphag1> well mt
+[2016/01/11 13:36:20] <polyphag1> a new kernel is in my update
+[2016/01/11 13:36:24] <polyphag1> so i'll upgrade first
+[2016/01/11 13:38:44] @ claymore2 joined channel #supertux
