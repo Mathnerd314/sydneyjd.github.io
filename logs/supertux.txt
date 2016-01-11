@@ -42099,3 +42099,28 @@
 [2016/01/11 00:00:46] @ Quit: tux|dude: Ping timeout: 240 seconds
 [2016/01/11 00:48:33] @ tux|dude joined channel #supertux
 [2016/01/11 01:36:12] <pentagon> [10supertux] 07akien-mga commented on issue 09#275: Do not install external dependencies system-wide 13http://git.io/vEtVv
+[2016/01/11 02:28:26] <pentagon> [10supertux] 07Hume2 synchronized pull request 09#269: WIP Level Editor 13http://git.io/vEe13
+[2016/01/11 02:28:30] <pentagon> [10supertux] 07Hume2 04force-pushed 77 commits to 09editor 13http://git.io/vujtX
+[2016/01/11 02:28:34] <pentagon> [10supertux] 07Hume2 14b828d4c Save level method
+[2016/01/11 02:28:38] <pentagon> [10supertux] 07Hume2 14eb93a26 Editor select level menu
+[2016/01/11 02:28:42] <pentagon> [10supertux] 07Hume2 140b84f04 Level editor can load a level.
+[2016/01/11 02:28:46] <pentagon> [10supertux] 07Hume2 14cde7892 Added editor level scrolling by arrow keys.
+[2016/01/11 02:28:50] <pentagon> [10supertux] 07Hume2 14e82ee0d Fixed bug causing crash when choosing level/sets by arrows.
+[2016/01/11 02:28:54] <pentagon> [10supertux] 07Hume2 14a7ce472 Added editor menu (press Esc in editor)
+[2016/01/11 02:28:57] <pentagon> [10supertux] 07Hume2 14ae514b4 Cursor is now visible in the editor.
+[2016/01/11 02:29:01] <pentagon> [10supertux] 07Hume2 14befcbab Editor now displays tilegroups.
+[2016/01/11 02:29:05] <pentagon> [10supertux] 07Hume2 141b9364e Added scrolling tilegroups
+[2016/01/11 02:29:09] <pentagon> [10supertux] 07Hume2 145f7c458 Editor shows editor-images (not in tilemap, bug?)
+[2016/01/11 02:29:13] <pentagon> [10supertux] 07Hume2 14f81dd2f Objects now render correctly.
+[2016/01/11 02:29:18] <pentagon> [10supertux] 07Hume2 1462eae93 Added objects menu
+[2016/01/11 02:29:23] <pentagon> [10supertux] 07Hume2 1415bcc55 Bonus blocks now render correctly.
+[2016/01/11 02:29:25] <pentagon> [10supertux] 07Hume2 149d2a53f Added menu to change current sector.
+[2016/01/11 02:29:29] <pentagon> [10supertux] 07Hume2 143f47acc Layer objects now display in the bottom toolbar.
+[2016/01/11 02:29:32] <pentagon> [10supertux] 07Hume2 14ba356b5 Fixed scrren resizing bug.
+[2016/01/11 02:29:36] <pentagon> [10supertux] 07Hume2 1467dbd4d Dynamic tiles no longer create objects; turning the bonusblock sprite to its previous state.
+[2016/01/11 02:29:40] <pentagon> [10supertux] 07Hume2 145319d44 Various fixes
+[2016/01/11 02:29:44] <pentagon> [10supertux] 07Hume2 14e07fee0 Object system init moved to separate file.
+[2016/01/11 02:29:48] <pentagon> [10supertux] 07Hume2 144fc7dd5 Fixed particle system displaying
+[2016/01/11 02:29:53] <pentagon> [10supertux] 07Hume2 14f161f01 Tyding up
+[2016/01/11 02:29:56] <pentagon> [10supertux] 07Hume2 14677ef1f Added tilemap switching
+[2016/01/11 02:29:59] <pentagon> [10supertux] 07Hume2 14745e82f Still no input... Tiles now display on the position they are going to be put.
