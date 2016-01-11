@@ -42785,3 +42785,16 @@
 [2016/01/11 18:13:11] <Tobbi> I will regularly wake up very early at 11am.
 [2016/01/11 18:13:37] <jesusalva_> Nice, because for me you're waking up about 08:00
 [2016/01/11 18:13:56] <Tobbi> jesusalva_: See, proper time!
+[2016/01/11 18:15:17] <Tobbi> jesusalva_: Let's hope that updating the source strings from \r\n to \n will work!
+[2016/01/11 18:15:32] <Tobbi> jesusalva_: However, even if it does work, translators will get angry with me.
+[2016/01/11 18:16:11] <Tobbi> because changed source strings not containing anything new.
+[2016/01/11 18:16:56] <leper`> Tobbi: transifex very likely suggests the previous translation in that case (or might just keep using it)
+[2016/01/11 18:17:06] <Tobbi> leper`: Hopefully.
+[2016/01/11 18:17:26] <Tobbi> leper`: We're talking about literal \r\n's, anyway.
+[2016/01/11 18:17:29] <grumbel> Karkus: all your commits should be available via git reflog
+[2016/01/11 18:17:30] <leper`> (it did at some point, but they do like to change their interface a lot)
+[2016/01/11 18:20:59] <Tobbi> leper`: It looks like they're not displaying literal \r\n anyway, so there's a high chance it'll work.
+[2016/01/11 18:22:45] <grumbel> Does anybody know what github wiki does with subdirectories?
+[2016/01/11 18:28:36] <Karkus> Tobbi: https://github.com/Karkus476/mediawiki-markdown
+[2016/01/11 18:29:04] <Karkus> Tobbi: Okay, it's not perfect...
+[2016/01/11 18:29:11] <Tobbi> But not bad either.
