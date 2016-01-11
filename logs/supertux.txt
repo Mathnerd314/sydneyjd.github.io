@@ -42321,3 +42321,15 @@
 [2016/01/11 12:11:17] <maths22> mt: I see...
 [2016/01/11 12:11:18] <Hume2> Why did you canceled it?
 [2016/01/11 12:11:39] <mt> and apparently build errors are reported by travis for *all* jobs
+[2016/01/11 12:17:22] <maths22> Hume2: Because I wanted to get the one with clang fixed to run, and it was going to fail on clang anyways
+[2016/01/11 12:17:40] <maths22> it probably wasn't necessary, but I didn't know it would attack the channel
+[2016/01/11 12:18:08] <Hume2> OK
+[2016/01/11 12:18:42] <pentagon> [10supertux] Status for commit Fixed WError build with proper inheritance by 07Jacob Burroughs: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/278
+[2016/01/11 12:20:13] <pentagon> [10supertux] Status for commit Fixed WError build with proper inheritance by 07Jacob Burroughs: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/101631832
+[2016/01/11 12:21:13] <maths22> grumbel: Look at this :( https://travis-ci.org/SuperTux/supertux/jobs/101631841
+[2016/01/11 12:24:49] <grumbel> maths22: add -Wno-unknown-pragmas I would guess. Didn't even know we were autobuilding on MacOS
+[2016/01/11 12:25:01] <grumbel> or -isystem instead of -I
+[2016/01/11 12:25:57] <grumbel> this: INCLUDE_DIRECTORIES(${OPENAL_INCLUDE_DIR})
+[2016/01/11 12:26:05] <grumbel> should be: INCLUDE_DIRECTORIES(SYSTEM ${OPENAL_INCLUDE_DIR})
+[2016/01/11 12:26:27] <grumbel> same for a lot of other INCLUDE_DIRECTORIES
+[2016/01/11 12:27:33] <grumbel> shall I make the change or does somebody else want to do it?
