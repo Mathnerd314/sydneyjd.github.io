@@ -42738,3 +42738,50 @@
 [2016/01/11 17:59:17] <Karkus> Tobbi: You're on Windose?
 [2016/01/11 17:59:31] <Tobbi> Karkus: No, I have a VM running on the side.
 [2016/01/11 17:59:49] <Karkus> Ah, okay.
+[2016/01/11 18:00:16] <Karkus> I want someone to test Flexlay from source on Windows
+[2016/01/11 18:00:35] <Karkus> Because my computer goes crazy when I boot Windows now
+[2016/01/11 18:01:02] <Tobbi> I can do so, but probably tomorrow.
+[2016/01/11 18:01:07] <Tobbi> I need to finish this university assignment...
+[2016/01/11 18:02:27] <Karkus> Tobbi: Okay, it's no rush anyway
+[2016/01/11 18:02:54] <Karkus> I had some commits to push to Flexlay, but they... went missing
+[2016/01/11 18:03:28] <Karkus> Tobbi: I forgot git rebase --skip gets rid of the patch :(
+[2016/01/11 18:03:45] <Tobbi> urgh, no way to retrieve them?
+[2016/01/11 18:03:56] <Tobbi> Maybe you should ask in #git
+[2016/01/11 18:04:04] <Tobbi> or rather ##git
+[2016/01/11 18:04:31] <Karkus> Tobbi: I have most of them. I guess I will just fix it and rebase, but I've forgotten what I lost... *sigh*
+[2016/01/11 18:04:47] <Karkus> Tobbi: Hopefully by tomorrow
+[2016/01/11 18:04:59] <Tobbi> Karkus: That happened to me. Someone (I think hume) managed to override one of my commits. And I have no idea what it was.
+[2016/01/11 18:05:07] <Karkus> Tobbi: ##git just told me I needed references.
+[2016/01/11 18:05:07] <Tobbi> b/c he force-pushed.
+[2016/01/11 18:05:15] <Karkus> Tobbi: *sigh*
+[2016/01/11 18:05:21] <Tobbi> yes, great.
+[2016/01/11 18:06:20] <Karkus> Tobbi: Maybe we will spend the next few years fixing bugs that one commit had subtly fixed.
+[2016/01/11 18:06:28] <Tobbi> :D
+[2016/01/11 18:06:31] <Tobbi> This might be the case.
+[2016/01/11 18:07:04] <Karkus> Tobbi: Also, 10,000 commits in the mediawiki branch. Why the hell do we need that much history?
+[2016/01/11 18:07:18] <Tobbi> Karkus: Don't ask me.
+[2016/01/11 18:07:58] <Karkus> grumbel: Why do we need all 10,000+ commits in the mediawiki branch. That's just a waste of disk space...
+[2016/01/11 18:09:02] @ Mode -b pentagon!*@* by Tobbi
+[2016/01/11 18:09:03] <pentagon> [10wiki] 07195.158.179.101 147a91dd9 /* Optimisations */ done
+[2016/01/11 18:09:05] <pentagon> [10wiki] 07195.158.179.177 144e7b601 /* Miscellaneous */ coin/life/score rework
+[2016/01/11 18:09:06] <pentagon> [10wiki] 07195.158.179.177 14e88d867 /* Miscellaneous */
+[2016/01/11 18:09:08] <pentagon> [10wiki] 07FlyingPenguins 14b304748 Removed test, put in info
+[2016/01/11 18:09:09] @ Mode +b pentagon!*@* by Tobbi
+[2016/01/11 18:10:10] @ Quit: kneekoo: Ping timeout: 256 seconds
+[2016/01/11 18:10:36] <Tobbi> It will soon be over!
+[2016/01/11 18:10:39] <Tobbi> Soon!
+[2016/01/11 18:10:49] <Tobbi> We're approximately on page 367...
+[2016/01/11 18:10:54] <Tobbi> or something around that...
+[2016/01/11 18:11:10] <Tobbi> oh, wait!
+[2016/01/11 18:11:11] @ kneekoo joined channel #supertux
+[2016/01/11 18:11:18] <grumbel> It's at around commit number ~6000. So almost half is done
+[2016/01/11 18:11:20] <Tobbi> The commits are not sorted...
+[2016/01/11 18:11:28] <Tobbi> HALF?
+[2016/01/11 18:11:50] <Tobbi> I thought I'd calculated that it'll be done in 20 minutes.
+[2016/01/11 18:11:52] <Tobbi> But okay.
+[2016/01/11 18:11:56] <Tobbi> Let's unban pentagon tomorrow, then.
+[2016/01/11 18:12:49] <jesusalva_> Tobbi: Just set your clock alarm so when you wake up you unban pentagon.
+[2016/01/11 18:13:00] <Tobbi> jesusalva_: No, priority is not that high.
+[2016/01/11 18:13:11] <Tobbi> I will regularly wake up very early at 11am.
+[2016/01/11 18:13:37] <jesusalva_> Nice, because for me you're waking up about 08:00
+[2016/01/11 18:13:56] <Tobbi> jesusalva_: See, proper time!
