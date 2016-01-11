@@ -42651,3 +42651,11 @@
 [2016/01/11 16:23:18] <Tobbi> damn this.
 [2016/01/11 16:33:51] <polyphagia> :(
 [2016/01/11 17:14:16] <Tobbi> Let's see...
+[2016/01/11 17:15:11] @ Mode -b pentagon!*@* by Tobbi
+[2016/01/11 17:15:12] <pentagon> [10wiki] 07Octo 148778aad /* ShortFuse, Mini Bomb */ +wikilink
+[2016/01/11 17:15:15] <pentagon> [10wiki] 07Octo 1449e6bae /* Short Fuse, Mini Bomb */ Added image of sprite in SVN.
+[2016/01/11 17:15:15] <Tobbi> Okay.
+[2016/01/11 17:15:16] <pentagon> [10wiki] 07Octo 141c10cb4 Added Navbox Badguys at the end.
+[2016/01/11 17:15:18] <pentagon> [10wiki] 07Octo 14ce842ca /* 2010-03-02 */ New section.
+[2016/01/11 17:15:18] <pentagon> [10wiki] 07Octo 147c6b76d /* Snowman */ Status update
+[2016/01/11 17:15:20] @ Mode +b pentagon!*@* by Tobbi
