@@ -42347,3 +42347,8 @@
 [2016/01/11 12:56:34] <jesusalva> ^_^
 [2016/01/11 12:57:01] <jesusalva> maths22: But AppVeyor still sad. :/
 [2016/01/11 12:57:51] @ jesusalva is now known as jesusalva_
+[2016/01/11 13:05:19] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09editor 13http://git.io/vzJBI
+[2016/01/11 13:05:19] <pentagon> [10supertux] 07Hume2 1488ed7d4 Deleting layer objects
+[2016/01/11 13:05:19] <pentagon> [10supertux] 07Hume2 synchronized pull request 09#269: WIP Level Editor 13http://git.io/vEe13
+[2016/01/11 13:14:02] <polyphag1> :S the game just started going really slow for me
+[2016/01/11 13:14:16] <polyphag1> time to debug
