@@ -42193,3 +42193,6 @@
 [2016/01/11 07:46:10] @ Mode +o grumbel by ChanServ
 [2016/01/11 07:53:52] @ ced117 joined channel #supertux
 [2016/01/11 07:57:32] @ Quit: ced117: Remote host closed the connection
+[2016/01/11 08:23:57] @ irungentoo joined channel #supertux
+[2016/01/11 08:27:39] @ jesusalva joined channel #supertux
+[2016/01/11 08:27:52] <jesusalva> Hello!
