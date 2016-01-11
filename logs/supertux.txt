@@ -42333,3 +42333,10 @@
 [2016/01/11 12:26:05] <grumbel> should be: INCLUDE_DIRECTORIES(SYSTEM ${OPENAL_INCLUDE_DIR})
 [2016/01/11 12:26:27] <grumbel> same for a lot of other INCLUDE_DIRECTORIES
 [2016/01/11 12:27:33] <grumbel> shall I make the change or does somebody else want to do it?
+[2016/01/11 12:31:43] <pentagon> [10supertux] Status for commit Putting layer objects now creates the icon by 07Hume2: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/101632181
+[2016/01/11 12:31:46] <pentagon> [10supertux] 07Grumbel pushed 1 commit to 09master 13http://git.io/vzJOO
+[2016/01/11 12:31:48] <pentagon> [10supertux] 07Grumbel 14056bce2 Marked include directories as SYSTEM so they don't trigger -Werror
+[2016/01/11 12:35:41] @ Quit: alket: Quit: Konversation terminated!
+[2016/01/11 12:35:52] @ alket joined channel #supertux
+[2016/01/11 12:35:53] <pentagon> [10supertux] Status for commit Putting layer objects now creates the icon by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/279
+[2016/01/11 12:41:14] <pentagon> [10supertux] Status for commit Putting layer objects now creates the icon by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/280
