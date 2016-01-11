@@ -42291,3 +42291,33 @@
 [2016/01/11 11:59:47] <pentagon> [10supertux] 07maths22 pushed 2 commits to 09master 13http://git.io/vzfhb
 [2016/01/11 11:59:48] <pentagon> [10supertux] 07maths22 145f810a8 Fix Clang linking
 [2016/01/11 11:59:49] <pentagon> [10supertux] 07maths22 14763cda7 Fixed WError build with proper inheritance
+[2016/01/11 12:01:01] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09editor 13http://git.io/vzfjr
+[2016/01/11 12:01:02] <pentagon> [10supertux] 07Hume2 148ca4741 Putting layer objects now creates the icon
+[2016/01/11 12:01:06] <pentagon> [10supertux] 07Hume2 synchronized pull request 09#269: WIP Level Editor 13http://git.io/vEe13
+[2016/01/11 12:01:11] <Hume2> It's not WError, it Werror :D
+[2016/01/11 12:01:37] <maths22> Oops :(
+[2016/01/11 12:01:57] <Hume2> Never mind.
+[2016/01/11 12:04:37] <pentagon> [10supertux] Status for commit Fixed werror 3 by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/276
+[2016/01/11 12:07:32] <pentagon> [10supertux] Status for commit Fixed werror 3 by 07Hume2: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/101628266
+[2016/01/11 12:08:38] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/01/11 12:08:44] <pentagon> [10supertux] Status for commit Putting layer objects now creates the icon by 07Hume2: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/101632191
+[2016/01/11 12:08:46] <pentagon> [10supertux] Status for commit Putting layer objects now creates the icon by 07Hume2: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/101632191
+[2016/01/11 12:08:48] <pentagon> [10supertux] Status for commit Putting layer objects now creates the icon by 07Hume2: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/101632191
+[2016/01/11 12:08:49] <pentagon> [10supertux] Status for commit Putting layer objects now creates the icon by 07Hume2: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/101632191
+[2016/01/11 12:08:50] <pentagon> [10supertux] Status for commit Putting layer objects now creates the icon by 07Hume2: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/101632191
+[2016/01/11 12:08:52] <pentagon> [10supertux] Status for commit Putting layer objects now creates the icon by 07Hume2: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/101632191
+[2016/01/11 12:08:53] <pentagon> [10supertux] Status for commit Putting layer objects now creates the icon by 07Hume2: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/101632191
+[2016/01/11 12:08:55] <pentagon> [10supertux] Status for commit Putting layer objects now creates the icon by 07Hume2: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/101632191
+[2016/01/11 12:08:56] <pentagon> [10supertux] Status for commit Putting layer objects now creates the icon by 07Hume2: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/101632191
+[2016/01/11 12:08:58] <pentagon> [10supertux] Status for commit Putting layer objects now creates the icon by 07Hume2: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/101632191
+[2016/01/11 12:09:19] <maths22> mt: Pentagon does not deal well with manually canceled builds
+[2016/01/11 12:10:13] <mt> I could probably make it ignore build errors
+[2016/01/11 12:10:23] <mt> but that might not be a good idea
+[2016/01/11 12:10:30] <maths22> mt: Build errors are good to hear about
+[2016/01/11 12:10:41] <maths22> Just not 9 of them when a build is manually canceled
+[2016/01/11 12:10:47] <mt> "errors" ≠ "failures"
+[2016/01/11 12:10:53] <mt> in Travis speech
+[2016/01/11 12:11:04] <pentagon> [10supertux] Status for commit Fixed werror 3 by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/277
+[2016/01/11 12:11:17] <maths22> mt: I see...
+[2016/01/11 12:11:18] <Hume2> Why did you canceled it?
+[2016/01/11 12:11:39] <mt> and apparently build errors are reported by travis for *all* jobs
