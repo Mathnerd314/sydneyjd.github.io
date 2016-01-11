@@ -42073,3 +42073,6 @@
 [2016/01/10 20:17:45] @ Mode +o grumbel by ChanServ
 [2016/01/10 20:28:51] <pentagon> [10supertux] 07Grumbel pushed 1 commit to 09master 13http://git.io/vup9B
 [2016/01/10 20:28:53] <pentagon> [10supertux] 07Grumbel 14ab4c39d Enabled delete-key in console
+[2016/01/10 20:30:05] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13http://git.io/vup9K
+[2016/01/10 20:30:06] <pentagon> [10supertux] 07tobbi 14d08b0fd Use convenience function for getting bbox width and height
+[2016/01/10 20:38:20] <pentagon> [10supertux] Status for commit Enabled delete-key in console by 07Ingo Ruhnke: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/101493194
