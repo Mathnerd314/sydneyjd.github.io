@@ -42033,3 +42033,12 @@
 [2016/01/10 18:54:59] <Tobbi> hello notification (?)
 [2016/01/10 18:55:04] <Tobbi> I just pushed something.
 [2016/01/10 18:55:12] <Tobbi> oh, maybe it doesn't cover coverity_scan
+[2016/01/10 19:08:48] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13http://git.io/vupre
+[2016/01/10 19:08:50] <pentagon> [10supertux] 07tobbi 14a9d6683 Fix memory leak in get_demo_random_seed reported by cppcheck
+[2016/01/10 19:11:20] <pentagon> [10supertux] Status for commit Revert "Replace data directory with a reference to the data submodule" by 07Ingo Ruhnke: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/266
+[2016/01/10 19:11:22] <pentagon> [10supertux] Status for commit Revert "Replace data directory with a reference to the data submodule" by 07Ingo Ruhnke: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/101483988
+[2016/01/10 19:13:27] <jesusalva> Uh oh.
+[2016/01/10 19:13:53] <Tobbi> uh?
+[2016/01/10 19:14:00] <Tobbi> Oh!
+[2016/01/10 19:14:08] <Tobbi> It tries to rebuild master when I push to coverity.
+[2016/01/10 19:14:09] <Tobbi> Not good.
