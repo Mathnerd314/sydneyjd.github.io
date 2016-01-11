@@ -42215,3 +42215,11 @@
 [2016/01/11 09:59:02] @ supertux|60797 joined channel #supertux
 [2016/01/11 10:00:49] @ Quit: supertux|60797: Client Quit
 [2016/01/11 10:38:14] <maths22> grumbel: I'm also converting squirrel to ExternalProject
+[2016/01/11 10:51:31] <pentagon> [10supertux] 07maths22 pushed 1 commit to 09master 13http://git.io/vzf0x
+[2016/01/11 10:51:33] <pentagon> [10supertux] 07maths22 1470914a6 Build squirrel, tinygettext as external projects
+[2016/01/11 10:52:18] <pentagon> [10supertux] 07maths22 pushed 1 commit to 09master 13http://git.io/vzfE8
+[2016/01/11 10:52:19] <pentagon> [10supertux] 07maths22 1475eff78 Bump CMake minimum version (2.8 required for external project)
+[2016/01/11 10:54:44] <pentagon> [10supertux] Status for commit Build squirrel, tinygettext as external projects by 07Jacob Burroughs: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/273
+[2016/01/11 10:57:58] <pentagon> [10supertux] 07maths22 pushed 1 commit to 09master 13http://git.io/vzfzQ
+[2016/01/11 10:57:59] <pentagon> [10supertux] 07maths22 148010e55 Use default builder for external projects (fix Windows)
+[2016/01/11 10:58:41] <pentagon> [10supertux] Status for commit Bump CMake minimum version (2.8 required for external project) by 07Jacob Burroughs: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/274
