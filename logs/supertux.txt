@@ -42647,3 +42647,5 @@
 [2016/01/11 16:05:52] <Tobbi> And it says "Kuchen"
 [2016/01/11 16:06:20] <Tobbi> eeh "Torte"
 [2016/01/11 16:07:29] @ Quit: claymore2: Quit: Leaving
+[2016/01/11 16:23:16] <Tobbi> Now, VS didn't install successfully, so I need to repair.
+[2016/01/11 16:23:18] <Tobbi> damn this.
