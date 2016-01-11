@@ -42223,3 +42223,10 @@
 [2016/01/11 10:57:58] <pentagon> [10supertux] 07maths22 pushed 1 commit to 09master 13http://git.io/vzfzQ
 [2016/01/11 10:57:59] <pentagon> [10supertux] 07maths22 148010e55 Use default builder for external projects (fix Windows)
 [2016/01/11 10:58:41] <pentagon> [10supertux] Status for commit Bump CMake minimum version (2.8 required for external project) by 07Jacob Burroughs: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/274
+[2016/01/11 11:04:10] <pentagon> [10supertux] Status for commit Build squirrel, tinygettext as external projects by 07Jacob Burroughs: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/101616350
+[2016/01/11 11:05:35] <pentagon> [10supertux] Status for commit Use default builder for external projects (fix Windows) by 07Jacob Burroughs: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/275
+[2016/01/11 11:07:58] <maths22> grumbel: See https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/275 (Windows build error)
+[2016/01/11 11:09:50] <mt> >_>
+[2016/01/11 11:10:00] <mt> that mediawiki remote helper doesn't exist on arch
+[2016/01/11 11:10:13] <mt> and it's also not available in AUR
+[2016/01/11 11:11:04] <grumbel> https://github.com/git/git/tree/master/contrib/mw-to-git
