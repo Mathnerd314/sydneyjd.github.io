@@ -42587,3 +42587,15 @@
 [2016/01/11 15:11:58] <kneekoo> I don't know why
 [2016/01/11 15:12:49] @ polyphagia joined channel #supertux
 [2016/01/11 15:13:35] <polyphagia> ok mt the kernel upgrade fixed it! it was the damn kernel devs
+[2016/01/11 15:17:46] @ Quit: Karkus: Ping timeout: 240 seconds
+[2016/01/11 15:20:35] <Tobbi> kneekoo: What's slow about that level?
+[2016/01/11 15:22:22] <kneekoo> the whole game
+[2016/01/11 15:22:32] <kneekoo> it was OK until I started that level
+[2016/01/11 15:23:01] <Tobbi> hmm, weird.
+[2016/01/11 15:24:06] <kneekoo> something's keeping my CPU busy
+[2016/01/11 15:24:14] <Tobbi> same here...
+[2016/01/11 15:24:26] <Tobbi> but it's the VM I'm installing Visual Studio in.
+[2016/01/11 15:25:55] <kneekoo> man, my PC is crawling
+[2016/01/11 15:26:13] <kneekoo> and I quit the game
+[2016/01/11 15:27:43] <Tobbi> kneekoo: So, SuperTUx has nothing to do with it_
+[2016/01/11 15:27:44] <Tobbi> ?
