@@ -42189,3 +42189,7 @@
 [2016/01/11 07:18:46] @ Quit: pentagon: Remote host closed the connection
 [2016/01/11 07:18:55] @ pentagon joined channel #supertux
 [2016/01/11 07:28:10] @ Quit: tux|dude: Quit: Leaving
+[2016/01/11 07:46:10] @ grumbel joined channel #supertux
+[2016/01/11 07:46:10] @ Mode +o grumbel by ChanServ
+[2016/01/11 07:53:52] @ ced117 joined channel #supertux
+[2016/01/11 07:57:32] @ Quit: ced117: Remote host closed the connection
