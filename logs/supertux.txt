@@ -42410,3 +42410,43 @@
 [2016/01/11 14:14:20] <Hume2> Oops
 [2016/01/11 14:14:34] <Hume2>  /kick Hume2 Fix it now!
 [2016/01/11 14:14:57] <mt> want me to do it? ;)
+[2016/01/11 14:15:24] <Hume2> mt: I'll try to do it first.
+[2016/01/11 14:15:33] <Hume2> But thanks :)
+[2016/01/11 14:15:55] <mt> I meant the /kick :D
+[2016/01/11 14:16:12] <Hume2> :D
+[2016/01/11 14:16:28] <grumbel> mt: what is in SuperTux/wiki?
+[2016/01/11 14:16:30] <Hume2> It takes an eternity to load the AppVeyor output.
+[2016/01/11 14:16:34] <mt> / did you know you can use "/" as first character if you type // text here (don't know if your client supports that, however)
+[2016/01/11 14:17:12] <mt> grumbel: the github-wiki. I thought we could actually host a copy of it there to accept pull requests and then also push that to the github-wiki repo
+[2016/01/11 14:17:13] <Hume2> Thanks.
+[2016/01/11 14:17:18] <Tobbi> /kick mt
+[2016/01/11 14:17:21] <Tobbi> hah.
+[2016/01/11 14:17:21] <Tobbi> Works
+[2016/01/11 14:17:32] <Tobbi> mt: I usually write <space>/ if I want a slash.
+[2016/01/11 14:17:35] <Hume2> That error seems to be an error of Tinygettext though.
+[2016/01/11 14:18:08] <mt> or some clients allow you to change the command char
+[2016/01/11 14:18:33] <mt> I know someone who uses - as command char because it's where / is on a German keyboard
+[2016/01/11 14:18:52] <mt> s/German/English/
+[2016/01/11 14:18:52] <red_bot> mt meant: "I know someone who uses - as command char because it's where / is on a English keyboard"
+[2016/01/11 14:19:01] <mt> and they use a German keyboard
+[2016/01/11 14:19:26] <Tobbi> I use an English keyboard with the German layout.
+[2016/01/11 14:19:33] <Tobbi> And switch to English for programming stuff...
+[2016/01/11 14:19:39] <Tobbi> Oh, and I am downloading and installing Visual Studio.
+[2016/01/11 14:19:41] <Tobbi> I love it :D
+[2016/01/11 14:20:15] <Tobbi> If you indeed sense sarcasm in that statement, you're completely right.
+[2016/01/11 14:20:31] <Hume2> ／kick Hume2 No reason
+[2016/01/11 14:20:53] <Tobbi> huh, a widespace / ?
+[2016/01/11 14:21:13] <pentagon> [10supertux] Status for commit Digging into AmbientSound; It's now a MovingObject. by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/101659034
+[2016/01/11 14:21:17] <Hume2> Yes, it's not normal /, it's ／.
+[2016/01/11 14:22:15] <Hume2> So that was only Tinygettext error that was there before.
+[2016/01/11 14:22:51] <Hume2> At least I haven't caused any new error.
+[2016/01/11 14:24:59] <maths22> Hume2: I know-I need to make it have a lot less AppVeyor output
+[2016/01/11 14:25:09] <grumbel> mt: ok
+[2016/01/11 14:25:21] <maths22> Does tinygettext actually use UnixFileSystem.cpp ?
+[2016/01/11 14:25:31] <maths22> (Or do we use it?)
+[2016/01/11 14:28:14] <Hume2> Using widespace chars is a good way how to bypass the most of chat filters.
+[2016/01/11 14:28:17] <grumbel> maths22: it's used in the DirectoryManager for browsing the dirs
+[2016/01/11 14:29:14] <Tobbi> alisap is at it again :D
+[2016/01/11 14:29:23] <Tobbi> At translating supertux into latin :D
+[2016/01/11 14:29:33] <Hume2> :D
+[2016/01/11 14:29:52] <Hume2> How is "zeekling" in latin?
