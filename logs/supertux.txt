@@ -42599,3 +42599,30 @@
 [2016/01/11 15:26:13] <kneekoo> and I quit the game
 [2016/01/11 15:27:43] <Tobbi> kneekoo: So, SuperTUx has nothing to do with it_
 [2016/01/11 15:27:44] <Tobbi> ?
+[2016/01/11 15:30:27] @ Quit: xet7: Quit: Leaving
+[2016/01/11 15:31:43] <kneekoo> I don't know
+[2016/01/11 15:32:14] <kneekoo> maybe twitch/Flash did something exactly when I started that level
+[2016/01/11 15:32:15] <jesusalva_> ps -ef| grep supertux
+[2016/01/11 15:32:29] <jesusalva_> If it's still running, it's supertux fault.
+[2016/01/11 15:32:39] <jesusalva_> Otherwise, we have no responsability. :P
+[2016/01/11 15:33:13] <kneekoo> maybe it was the dreadful Flash plugin
+[2016/01/11 15:33:33] <kneekoo> although it was a weird coincidence for it to go nuts exactly when I started a new level
+[2016/01/11 15:33:48] <kneekoo> the moment I started it, it just went really slow
+[2016/01/11 15:34:16] <kneekoo> to be frank, I trust SuperTux way more I trust Flash
+[2016/01/11 15:34:19] <kneekoo> :))
+[2016/01/11 15:35:03] @ Karkus joined channel #supertux
+[2016/01/11 15:35:03] @ Mode +o Karkus by ChanServ
+[2016/01/11 15:35:17] <kneekoo> actually, I don't trust Flash
+[2016/01/11 15:35:41] <kneekoo> miserable hog
+[2016/01/11 15:37:07] <Tobbi> :D
+[2016/01/11 15:37:11] <Tobbi> SuperTux is open source.
+[2016/01/11 15:37:20] <Tobbi> So, you can just look at what it does.
+[2016/01/11 15:37:20] <Tobbi> :D
+[2016/01/11 15:37:23] <grumbel> What are the current plans for 0.4.1?
+[2016/01/11 15:37:35] <kneekoo> more awesomeness
+[2016/01/11 15:37:36] <Tobbi> grumbel: Check the list of bugs with milestone 0.4.1?
+[2016/01/11 15:38:04] <Tobbi> https://github.com/SuperTux/supertux/issues?q=is%3Aopen+is%3Aissue+milestone%3A0.4.1
+[2016/01/11 15:38:28] <Tobbi> Additionally, https://github.com/SuperTux/supertux/pulls?q=is%3Aopen+is%3Apr+milestone%3A0.4.1
+[2016/01/11 15:38:31] <Tobbi> grumbel: ^^
+[2016/01/11 15:43:36] @ tux|dude joined channel #supertux
+[2016/01/11 15:43:40] <jesusalva_> Argh, I'm starting to hate ReCAPTCHA.
