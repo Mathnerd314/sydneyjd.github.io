@@ -42636,3 +42636,14 @@
 [2016/01/11 15:58:11] <Tobbi> What?
 [2016/01/11 15:59:33] <jesusalva_> Tobbi: On #freedroid you need to destroy MicroSoft bots. So I got a Plasma Weapon on the game and now I want to use it to, instead of destroying MS, destroy Google (Captcha)
 [2016/01/11 15:59:42] <Tobbi> ah ok
+[2016/01/11 16:00:38] <polyphagia> jesusalva_: there's deathbycaptcha if you want to pay for sweatshop workers to solve them for you :P
+[2016/01/11 16:01:48] <jesusalva_> Oh great. Now it says "An error occurred while contacting the reCAPTCHA service." everytime I try to submit an answer.
+[2016/01/11 16:03:22] <maths22> Tobbi: I apparently can't use a cacluator
+[2016/01/11 16:03:23] <jesusalva_> Do you know what? I should just give up and search for another site. It'll be faster to check every existent site with what I want than to insist on the same website and try to solve that Captcha.
+[2016/01/11 16:03:50] <Tobbi> maths22: Sounds good. I often failed to use a calculator as well. Especially when it comes to looking things up in a dictionary.
+[2016/01/11 16:05:28] <maths22> Tobbi: Why do you use a calculator with a dictionary?
+[2016/01/11 16:05:45] <Tobbi> maths22: To find out what "Pi" is in German.
+[2016/01/11 16:05:47] <Tobbi> :D
+[2016/01/11 16:05:52] <Tobbi> And it says "Kuchen"
+[2016/01/11 16:06:20] <Tobbi> eeh "Torte"
+[2016/01/11 16:07:29] @ Quit: claymore2: Quit: Leaving
