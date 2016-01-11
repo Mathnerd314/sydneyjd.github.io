@@ -42798,3 +42798,10 @@
 [2016/01/11 18:28:36] <Karkus> Tobbi: https://github.com/Karkus476/mediawiki-markdown
 [2016/01/11 18:29:04] <Karkus> Tobbi: Okay, it's not perfect...
 [2016/01/11 18:29:11] <Tobbi> But not bad either.
+[2016/01/11 18:30:23] <Karkus> Tobbi: We can just copy and paste with a little editing straight from here to the wiki :D
+[2016/01/11 18:30:28] <Tobbi> Sure.
+[2016/01/11 18:30:29] <Karkus> But anyways gtg.
+[2016/01/11 18:30:33] @ Quit: Karkus: Quit: Division By Zero
+[2016/01/11 18:30:35] <Tobbi> Me too, soon.
+[2016/01/11 18:33:20] <grumbel> That wiki conversion kills the info boxes and navboxes
+[2016/01/11 18:33:35] <grumbel> not sure if there is even a good way to do them in Github Wiki
