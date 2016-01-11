@@ -42626,3 +42626,13 @@
 [2016/01/11 15:38:31] <Tobbi> grumbel: ^^
 [2016/01/11 15:43:36] @ tux|dude joined channel #supertux
 [2016/01/11 15:43:40] <jesusalva_> Argh, I'm starting to hate ReCAPTCHA.
+[2016/01/11 15:45:12] <jesusalva_> It just rotates rotates and rotates and never does anything. I read the whole GPL v2 license and the reCAPTCHA is still verifying if I'm a human. Do I need to have a good internet to answer re-captchas? :P
+[2016/01/11 15:45:48] <polyphagia> i hate the new identification challenges it's offering
+[2016/01/11 15:46:31] <polyphagia> also yeah i've had lots of memory leaks and CPU spinning with flash when i still used it
+[2016/01/11 15:46:31] <polyphagia> jesusalva_: the ones that ask you to identify sign posts and such for some reason reject like five times before they go through
+[2016/01/11 15:46:33] <polyphagia> i swear they're testing my patience at the expense to get humans to finish what their OCRs couldn't
+[2016/01/11 15:47:03] <polyphagia> it was different when you were digitizing books, now you're helping Google make maps to sell
+[2016/01/11 15:58:05] <jesusalva_> Now, where I left my Plasma Weapon which I used on #freedroid to vaporize MS bots? I want to vaporize Google ReCaptchas right now...
+[2016/01/11 15:58:11] <Tobbi> What?
+[2016/01/11 15:59:33] <jesusalva_> Tobbi: On #freedroid you need to destroy MicroSoft bots. So I got a Plasma Weapon on the game and now I want to use it to, instead of destroying MS, destroy Google (Captcha)
+[2016/01/11 15:59:42] <Tobbi> ah ok
