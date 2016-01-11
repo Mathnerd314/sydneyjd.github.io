@@ -42650,3 +42650,4 @@
 [2016/01/11 16:23:16] <Tobbi> Now, VS didn't install successfully, so I need to repair.
 [2016/01/11 16:23:18] <Tobbi> damn this.
 [2016/01/11 16:33:51] <polyphagia> :(
+[2016/01/11 17:14:16] <Tobbi> Let's see...
