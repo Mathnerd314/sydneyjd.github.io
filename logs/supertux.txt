@@ -42200,3 +42200,12 @@
 [2016/01/11 08:43:16] <Jesusaves> Hello!
 [2016/01/11 08:44:34] @ Quit: jesusalva: Disconnected by services
 [2016/01/11 08:44:34] @ Jesusaves is now known as jesusalva
+[2016/01/11 08:46:56] <pentagon> [10supertux] 07Grumbel commented on issue 09#302: Update SuperTux Wiki 13http://git.io/vEDWI
+[2016/01/11 08:54:37] <maths22> grumbel: I agree with using ExternalProject_Add
+[2016/01/11 08:54:50] <maths22> We will need to bump the CMake minimum version to at least 2.8
+[2016/01/11 08:55:18] <maths22> (I really want to bump it to 3.1 to eliminate that ugly c++11 finding stuff, but that might not be reasonable yet)
+[2016/01/11 08:55:32] <maths22> https://cmake.org/cmake/help/v3.1/prop_tgt/CXX_STANDARD.html#prop_tgt:CXX_STANDARD
+[2016/01/11 08:56:50] <grumbel> Ubuntu14.04 only has cmake2.8.12, that makes going higher a bit tricky
+[2016/01/11 08:57:20] <grumbel> Ubuntu16.04LTS is only a few month away, might bump things up then
+[2016/01/11 08:57:58] <maths22> Then maybe bump to 2.8, conditionally use CXX_STANDARD (if running on cmake >= 3.1), and consider increasing in the future
+[2016/01/11 08:58:55] * jesusalva refuses to update again his ubuntu as ubuntu updates are horrible and crashes everything.
