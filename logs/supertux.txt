@@ -42391,3 +42391,22 @@
 [2016/01/11 13:59:10] <Tobbi> Guys, coverity is still not completely fixed. Still tells me "The build is being analyzed"
 [2016/01/11 13:59:13] <Tobbi> I really hate them now.
 [2016/01/11 13:59:45] <Tobbi> What is going on with them? Is it just me?
+[2016/01/11 14:03:27] <pentagon> [10supertux] 07Grumbel commented on issue 09#302: Update SuperTux Wiki 13http://git.io/vEDWI
+[2016/01/11 14:03:29] <Hume2> Do you mean that lack of ifs before gets?
+[2016/01/11 14:04:33] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13http://git.io/vzJHl
+[2016/01/11 14:04:34] <pentagon> [10supertux] 07Hume2 14101474c Digging into AmbientSound; It's now a MovingObject.
+[2016/01/11 14:05:03] <Hume2> I think, I've just fixed some.
+[2016/01/11 14:05:14] @ bb010g joined channel #supertux
+[2016/01/11 14:07:49] <Tobbi> mt: Can I enable notification of "stars" on all repositories?
+[2016/01/11 14:07:56] <Tobbi> for the IRC notification, that is.
+[2016/01/11 14:08:30] <mt> don't until I implemented it in the bot
+[2016/01/11 14:08:33] <Tobbi> Okay.
+[2016/01/11 14:08:38] <mt> definitely not before tomorrow
+[2016/01/11 14:08:44] <Tobbi> Sounds good...
+[2016/01/11 14:08:50] <Tobbi> I still have a lot of things to do...
+[2016/01/11 14:08:55] <Tobbi> non-supertux related things.
+[2016/01/11 14:12:36] <mt> grumbel: can you create a new repo for the mediawiki history and remove it from the github-wiki repository. we can then check if it's worth to replace that content with the one of SuperTux/wiki and delete the old stuff. when we're done with that we can remove the current SuperTux/wiki repo and replace it with the updated mediawiki thing
+[2016/01/11 14:13:05] <pentagon> [10supertux] Status for commit Digging into AmbientSound; It's now a MovingObject. by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/284
+[2016/01/11 14:14:20] <Hume2> Oops
+[2016/01/11 14:14:34] <Hume2>  /kick Hume2 Fix it now!
+[2016/01/11 14:14:57] <mt> want me to do it? ;)
