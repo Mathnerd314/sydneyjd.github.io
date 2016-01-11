@@ -42047,3 +42047,11 @@
 [2016/01/10 19:24:13] <Tobbi> great!
 [2016/01/10 19:24:15] <Tobbi> Not even caused by m.
 [2016/01/10 19:24:17] <Tobbi> me
+[2016/01/10 19:31:05] <pentagon> [10supertux] Status for commit Fix memory leak in get_demo_random_seed reported by cppcheck by 07Tobias Markus: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/267
+[2016/01/10 19:33:49] <jesusalva> At least AppVeyor isn't against you today, Tobbi.
+[2016/01/10 19:34:19] <Tobbi> jesusalva: Since we enabled -Werror again, everything goes crazy
+[2016/01/10 19:34:32] <jesusalva> :P
+[2016/01/10 19:41:45] <Tobbi> jesusalva: If you want to have a go at fixing this, go ahead... :)
+[2016/01/10 19:41:52] <Tobbi> I am not interested in this right now.
+[2016/01/10 19:42:23] <jesusalva> Thanks, I'll pass :P
+[2016/01/10 19:43:05] <jesusalva> I don't even know who would make every warning an error. As fluzz said, some warnings are important, others are... just things which could be done on a better way.
