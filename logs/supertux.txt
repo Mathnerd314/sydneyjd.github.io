@@ -42186,3 +42186,6 @@
 [2016/01/11 04:43:54] @ datahead8888 is now known as datahead7777
 [2016/01/11 06:29:12] @ xet7 joined channel #supertux
 [2016/01/11 06:57:35] <pentagon> [10supertux] 07Grumbel commented on issue 09#275: Do not install external dependencies system-wide 13http://git.io/vEtVv
+[2016/01/11 07:18:46] @ Quit: pentagon: Remote host closed the connection
+[2016/01/11 07:18:55] @ pentagon joined channel #supertux
+[2016/01/11 07:28:10] @ Quit: tux|dude: Quit: Leaving
