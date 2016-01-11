@@ -42214,3 +42214,4 @@
 [2016/01/11 09:50:04] <jesusalva> Hello!
 [2016/01/11 09:59:02] @ supertux|60797 joined channel #supertux
 [2016/01/11 10:00:49] @ Quit: supertux|60797: Client Quit
+[2016/01/11 10:38:14] <maths22> grumbel: I'm also converting squirrel to ExternalProject
