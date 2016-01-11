@@ -42384,3 +42384,10 @@
 [2016/01/11 13:36:20] <polyphag1> a new kernel is in my update
 [2016/01/11 13:36:24] <polyphag1> so i'll upgrade first
 [2016/01/11 13:38:44] @ claymore2 joined channel #supertux
+[2016/01/11 13:45:43] @ supertux|20999 joined channel #supertux
+[2016/01/11 13:45:59] @ Quit: supertux|20999: Client Quit
+[2016/01/11 13:58:46] @ Tobbi joined channel #supertux
+[2016/01/11 13:58:47] @ Mode +o Tobbi by ChanServ
+[2016/01/11 13:59:10] <Tobbi> Guys, coverity is still not completely fixed. Still tells me "The build is being analyzed"
+[2016/01/11 13:59:13] <Tobbi> I really hate them now.
+[2016/01/11 13:59:45] <Tobbi> What is going on with them? Is it just me?
