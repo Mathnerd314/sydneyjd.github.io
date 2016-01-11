@@ -42182,3 +42182,4 @@
 [2016/01/11 02:39:14] <pentagon> [10supertux] Status for commit Fixed "conflict" in mrcandle.cpp by 07Hume2: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/101526539
 [2016/01/11 02:46:36] <pentagon> [10supertux] Status for commit Fixed "conflict" in mrcandle.cpp by 07Hume2: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/101526553
 [2016/01/11 02:47:04] <pentagon> [10supertux] Status for commit Fixed "conflict" in mrcandle.cpp by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/271
+[2016/01/11 03:06:04] <pentagon> [10supertux] Status for commit Fixed "conflict" in mrcandle.cpp by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/272
