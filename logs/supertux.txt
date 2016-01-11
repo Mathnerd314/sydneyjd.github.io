@@ -42352,3 +42352,15 @@
 [2016/01/11 13:05:19] <pentagon> [10supertux] 07Hume2 synchronized pull request 09#269: WIP Level Editor 13http://git.io/vEe13
 [2016/01/11 13:14:02] <polyphag1> :S the game just started going really slow for me
 [2016/01/11 13:14:16] <polyphag1> time to debug
+[2016/01/11 13:18:15] <pentagon> [10supertux] Status for commit Deleting layer objects by 07Hume2: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/101647632
+[2016/01/11 13:19:19] <polyphag1> very strange
+[2016/01/11 13:19:34] <polyphag1> just some movements on the world map, and a few odd levels just have frame drops
+[2016/01/11 13:26:38] <pentagon> [10supertux] Status for commit Deleting layer objects by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/282
+[2016/01/11 13:28:15] <polyphag1> i think this new kernel might be performing worse
+[2016/01/11 13:28:23] <polyphag1> i'm going to boot into another :P
+[2016/01/11 13:28:46] <mt> "it's not working, let's blame the kernel devs"
+[2016/01/11 13:29:02] <mt> oh and if the build fails
+[2016/01/11 13:29:12] <mt> we just blame the C++ inventors
+[2016/01/11 13:29:15] <polyphag1> haha yup mt
+[2016/01/11 13:29:41] <polyphag1> i'm not sure i just noticed my fan going faster than normal but my CPU activity is still low
+[2016/01/11 13:29:53] <polyphag1> yet things just aren't happening as fast
