@@ -42069,3 +42069,7 @@
 [2016/01/10 19:56:11] <Tobbi> The commit that caused it to be blazingly fast? I doubt it's a single commit.
 [2016/01/10 19:56:12] <Tobbi> :P
 [2016/01/10 20:14:58] @ Quit: Tobbi: 
+[2016/01/10 20:17:44] @ grumbel joined channel #supertux
+[2016/01/10 20:17:45] @ Mode +o grumbel by ChanServ
+[2016/01/10 20:28:51] <pentagon> [10supertux] 07Grumbel pushed 1 commit to 09master 13http://git.io/vup9B
+[2016/01/10 20:28:53] <pentagon> [10supertux] 07Grumbel 14ab4c39d Enabled delete-key in console
