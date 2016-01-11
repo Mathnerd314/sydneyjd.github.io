@@ -42266,3 +42266,28 @@
 [2016/01/11 11:44:26] <pentagon> [10supertux] 07Hume2 14c3beb15 Fixed werror 3
 [2016/01/11 11:44:31] <pentagon> [10supertux] 07Hume2 synchronized pull request 09#269: WIP Level Editor 13http://git.io/vEe13
 [2016/01/11 11:44:40] <Hume2> Werror is a good neologism.
+[2016/01/11 11:45:12] <maths22> I forgot to pass the new compiler to the ExternalProject build
+[2016/01/11 11:45:19] <kneekoo> thanks, Hume2, I'll see if I can find a newer PPA
+[2016/01/11 11:45:33] @ alketr joined channel #supertux
+[2016/01/11 11:45:47] @ alketr is now known as alket
+[2016/01/11 11:46:25] <mt> kneekoo: you should use 0.4.0 tho
+[2016/01/11 11:47:03] <mt> also someone on Twitter linked to https://launchpad.net/~ubuntuhandbook1/+archive/ubuntu/apps
+[2016/01/11 11:47:33] <mt> [Disclaimer: do never trust any PPA unless you're sure they aren't distributing malicious software]
+[2016/01/11 11:51:15] <maths22> grumbel: Can you tell me if https://transfer.sh/12sTMN/supertux-werror.diff seems acceptable?
+[2016/01/11 11:54:10] <grumbel> maths22: wrap ScriptedObject::set_pos(const Vector&) in a #ifndef SCRIPTING_API ... #endif
+[2016/01/11 11:54:42] <grumbel> As I am not sure what miniswig does when it encounters a Vector
+[2016/01/11 11:55:11] <maths22> grumbel: OK
+[2016/01/11 11:55:50] <grumbel> this multi-inheritance we are doing here is kind of evil
+[2016/01/11 11:56:02] <grumbel> and it might be a good idea to get rid of it one day
+[2016/01/11 11:56:27] <Hume2> +1
+[2016/01/11 11:56:30] <maths22> This is true, but at least we are now properly inhereting, which is what the error was about
+[2016/01/11 11:56:54] <maths22> It is in a better state than before, if still not good
+[2016/01/11 11:56:59] <maths22> OK to go ahead and commit?
+[2016/01/11 11:57:02] <kneekoo> mt: thanks, I was about to ask about http://ubuntuhandbook.org/index.php/2015/12/supertux-040-released/
+[2016/01/11 11:57:09] <pentagon> [10supertux] Status for commit Fixed werror 3 by 07Hume2: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/101628254
+[2016/01/11 11:57:11] <kneekoo> and if you knew if they can be trusted
+[2016/01/11 11:57:53] <grumbel> maths22: if it fails to work we will find out soon enough, feel free to commit it
+[2016/01/11 11:57:55] <kneekoo> I think I'll just grab the deb packages
+[2016/01/11 11:59:47] <pentagon> [10supertux] 07maths22 pushed 2 commits to 09master 13http://git.io/vzfhb
+[2016/01/11 11:59:48] <pentagon> [10supertux] 07maths22 145f810a8 Fix Clang linking
+[2016/01/11 11:59:49] <pentagon> [10supertux] 07maths22 14763cda7 Fixed WError build with proper inheritance
