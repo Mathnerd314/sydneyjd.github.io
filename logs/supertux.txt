@@ -42096,3 +42096,4 @@
 [2016/01/10 22:09:21] @ Quit: Jesusaves: Quit: Good Night. Jesus Bless You.
 [2016/01/10 22:27:20] @ Quit: grumbel: Quit: Ex-Chat
 [2016/01/10 23:24:20] @ Quit: irungentoo: Remote host closed the connection
+[2016/01/11 00:00:46] @ Quit: tux|dude: Ping timeout: 240 seconds
