@@ -42450,3 +42450,26 @@
 [2016/01/11 14:29:23] <Tobbi> At translating supertux into latin :D
 [2016/01/11 14:29:33] <Hume2> :D
 [2016/01/11 14:29:52] <Hume2> How is "zeekling" in latin?
+[2016/01/11 14:30:09] <Tobbi> Hume2: It's an arbitrary word, aka a name.
+[2016/01/11 14:30:12] <grumbel> maths22: but it's not used by SuperTux, PhysFSFileSystem is used instead
+[2016/01/11 14:30:14] <Tobbi> There is no translation.
+[2016/01/11 14:30:17] <Tobbi> Actually, let me have a look.
+[2016/01/11 14:30:34] <maths22> grumbel: What is DirectoryManager?
+[2016/01/11 14:30:49] <maths22> I don't see it anywhere
+[2016/01/11 14:30:51] <grumbel> maths22: the tinygettext class that manages all the .po files
+[2016/01/11 14:31:03] <grumbel> DictionaryManager
+[2016/01/11 14:32:22] <maths22> DictionaryManager \neq DirectoryManager - sorry
+[2016/01/11 14:32:53] <maths22> Also, that is true-we use physfs
+[2016/01/11 14:33:51] <maths22> I'm just thinking maybe we should remove it from the Windows builds-it doesn't add anything and causes build errors
+[2016/01/11 14:34:10] <maths22> (Since it needs dirent; it actually needs removal on WinRT, since dirent.h doesnt work there at all)
+[2016/01/11 14:34:14] <pentagon> [10wiki] 07Grumbel created branch 09mediawiki
+[2016/01/11 14:35:03] <maths22> grumbel: That is a really cool git plugin
+[2016/01/11 14:35:37] <pentagon> [10wiki] 07Grumbel created tag 09mediawiki-2016-01-11
+[2016/01/11 14:36:49] <leper`> maths22: There is a commit in a pull request for tinygettext that adds a FS implementation for Windows
+[2016/01/11 14:38:21] <Tobbi> grumbel: Those are all pages of the wiki? I would've expected there being many more.
+[2016/01/11 14:38:26] <maths22> leper`: My point is that, since we don't use it (and probably won't change) we should just stop building it
+[2016/01/11 14:38:34] <maths22> (In SuperTux, not upstream)
+[2016/01/11 14:39:48] @ Quit: Hume2: Quit: Page closed
+[2016/01/11 14:41:37] <Tobbi> maths22: http://pastebin.com/KJ4juxuM
+[2016/01/11 14:41:39] <Tobbi> Any idea?
+[2016/01/11 14:42:47] <leper`> maths22: seems sensible, though maybe I should check how many downstreams actually use it
