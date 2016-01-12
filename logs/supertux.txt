@@ -42877,3 +42877,6 @@
 [2016/01/12 08:56:07] <Jesusaves> Hello!
 [2016/01/12 08:56:35] <alket> hi Jesus
 [2016/01/12 08:58:15] @ Quit: jesusalva: Ping timeout: 240 seconds
+[2016/01/12 09:01:05] <Tobbi> hello guys (again)
+[2016/01/12 09:06:53] @ Jesusaves is now known as jesusalva
+[2016/01/12 09:12:42] @ tuxdev_ joined channel #supertux
