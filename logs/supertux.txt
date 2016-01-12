@@ -43297,3 +43297,5 @@
 [2016/01/12 17:13:39] @ bb010g joined channel #supertux
 [2016/01/12 17:20:45] @ Quit: tuxdev_: Ping timeout: 260 seconds
 [2016/01/12 17:47:37] @ Quit: tux|dude: Quit: Leaving
+[2016/01/12 18:06:26] @ Quit: alket: Quit: Konversation terminated!
+[2016/01/12 18:06:32] @ alket_ joined channel #supertux
