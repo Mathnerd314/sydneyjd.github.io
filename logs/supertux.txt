@@ -43257,3 +43257,5 @@
 [2016/01/12 14:13:08] <mt> to .mediawiki, because that's easy to recognize
 [2016/01/12 14:13:22] <mt> .wiki could be, tbh, everything github is able to render
 [2016/01/12 14:13:43] @ pentagon joined channel #supertux
+[2016/01/12 14:19:24] @ Quit: Hume2: Quit: Page closed
+[2016/01/12 14:21:47] @ Quit: Karkus: Ping timeout: 240 seconds
