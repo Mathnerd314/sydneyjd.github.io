@@ -42901,3 +42901,14 @@
 [2016/01/12 11:09:11] <jesusalva> Hello!
 [2016/01/12 11:15:03] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/12 11:20:54] <head8debian> maths22: https://cloud.openmailbox.org/index.php/s/yMe5BmaAHpD7BqC
+[2016/01/12 11:33:26] @ Karkus joined channel #supertux
+[2016/01/12 11:33:27] @ Mode +o Karkus by ChanServ
+[2016/01/12 11:34:53] @ alket joined channel #supertux
+[2016/01/12 11:35:58] <jesusalva> alket: Thanks, your login just showed me an error I did on a KVIrc script. ;)
+[2016/01/12 11:37:21] @ Quit: tuxdev_: Ping timeout: 255 seconds
+[2016/01/12 11:37:54] <alket> jesusalva: lol
+[2016/01/12 11:37:57] <alket> glad to help
+[2016/01/12 11:39:07] @ Hume2 joined channel #supertux
+[2016/01/12 11:39:08] @ Mode +v Hume2 by ChanServ
+[2016/01/12 11:40:50] <Hume2> Hello
+[2016/01/12 11:41:17] <Karkus> Hume2: Hello
