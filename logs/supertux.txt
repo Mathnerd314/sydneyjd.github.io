@@ -43259,3 +43259,5 @@
 [2016/01/12 14:13:43] @ pentagon joined channel #supertux
 [2016/01/12 14:19:24] @ Quit: Hume2: Quit: Page closed
 [2016/01/12 14:21:47] @ Quit: Karkus: Ping timeout: 240 seconds
+[2016/01/12 14:56:04] @ Karkus joined channel #supertux
+[2016/01/12 14:56:04] @ Mode +o Karkus by ChanServ
