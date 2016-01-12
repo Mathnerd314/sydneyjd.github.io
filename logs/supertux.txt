@@ -42866,3 +42866,4 @@
 [2016/01/12 06:00:14] <Tobbi> We're at this again:  Last Build Status: In-queue. Your build is in the queue to be analyzed. There are 113 builds ahead of it.
 [2016/01/12 06:08:43] @ polyphagia joined channel #supertux
 [2016/01/12 06:09:07] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/12 06:26:32] @ Quit: tux|dude: Quit: Leaving
