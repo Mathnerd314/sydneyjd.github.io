@@ -42857,3 +42857,8 @@
 [2016/01/12 05:24:24] @ Tobbi joined channel #supertux
 [2016/01/12 05:24:25] @ Mode +o Tobbi by ChanServ
 [2016/01/12 05:30:51] @ polyphagia joined channel #supertux
+[2016/01/12 05:51:15] @ Mode -b pentagon!*@* by Tobbi
+[2016/01/12 05:51:19] @ Mode -b pentagon!*@* by Tobbi
+[2016/01/12 05:51:21] <Tobbi> aha.
+[2016/01/12 05:51:22] <Tobbi> Okay.
+[2016/01/12 05:56:15] @ Quit: polyphagia: Ping timeout: 240 seconds
