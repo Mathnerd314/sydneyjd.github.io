@@ -42805,3 +42805,17 @@
 [2016/01/11 18:30:35] <Tobbi> Me too, soon.
 [2016/01/11 18:33:20] <grumbel> That wiki conversion kills the info boxes and navboxes
 [2016/01/11 18:33:35] <grumbel> not sure if there is even a good way to do them in Github Wiki
+[2016/01/11 18:45:08] <maths22> grumbel: I don't think that there is
+[2016/01/11 18:45:17] <maths22> Why did we give up on mediawiki anyways?
+[2016/01/11 18:45:28] <maths22> It seems to be better built for the purpose
+[2016/01/11 18:47:26] <grumbel> maths22: mediawiki is annoying to maintain, backup is also tricky
+[2016/01/11 18:47:39] <grumbel> It's good at making pretty pages, but everything else isn't fun
+[2016/01/11 18:48:31] <grumbel> but Github Wiki might indeed be a little to simplistic for a direct conversio
+[2016/01/11 18:49:23] <maths22> grumbel: What do you mean about annyoing to maintain?
+[2016/01/11 18:49:35] <maths22> Also, backups can be easily automated as a cron job
+[2016/01/11 18:50:33] <grumbel> security updates, spam protection, user management and all that stuff
+[2016/01/11 18:51:12] <grumbel> With Github wiki you don't have to worry about any of that
+[2016/01/11 18:51:19] <grumbel> and since a git repository backup is automatic
+[2016/01/11 18:51:19] <maths22> This is true
+[2016/01/11 18:51:57] <Tobbi> Plus, the whole team can contribute.
+[2016/01/11 18:52:07] <Tobbi> And doesn't have to wait for other people to create an account.
