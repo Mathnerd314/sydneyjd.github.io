@@ -43286,3 +43286,4 @@
 [2016/01/12 16:28:38] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2016/01/12 16:29:40] @ head8debian joined channel #supertux
 [2016/01/12 16:29:40] @ Mode +o head8debian by ChanServ
+[2016/01/12 16:31:05] @ Quit: claymore2: Quit: Leaving
