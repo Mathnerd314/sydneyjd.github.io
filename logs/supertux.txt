@@ -42889,3 +42889,6 @@
 [2016/01/12 09:47:14] @ Quit: jesusalva: Ping timeout: 272 seconds
 [2016/01/12 09:51:39] @ Tobbi joined channel #supertux
 [2016/01/12 09:51:40] @ Mode +o Tobbi by ChanServ
+[2016/01/12 10:22:34] <maths22> head8debian: Can you do winkey+R "winver" and give me your Windows 10 build number?
+[2016/01/12 10:24:18] <head8debian> maths22: Later i can.
+[2016/01/12 10:25:41] <maths22> Thanks!
