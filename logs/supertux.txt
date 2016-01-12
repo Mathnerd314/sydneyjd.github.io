@@ -42895,3 +42895,7 @@
 [2016/01/12 10:30:33] @ lumidify joined channel #supertux
 [2016/01/12 10:31:05] @ Quit: lumidify: Client Quit
 [2016/01/12 10:55:12] <head8debian> maths22: BUild 10240.
+[2016/01/12 11:02:09] @ Quit: alket: Quit: x
+[2016/01/12 11:04:40] <Tobbi> Same here.
+[2016/01/12 11:08:21] @ jesusalva joined channel #supertux
+[2016/01/12 11:09:11] <jesusalva> Hello!
