@@ -42975,3 +42975,35 @@
 [2016/01/12 12:13:36] <mt> as far as I can see in my backlog
 [2016/01/12 12:14:32] <Hume2> I see.
 [2016/01/12 12:14:55] <Hume2> At least it didn't blocked the chat.
+[2016/01/12 12:15:18] <maths22> grumbel: I'm blind
+[2016/01/12 12:16:55] <Tobbi> Hume2: was this https://github.com/SuperTux/supertux/commit/05a6e624d9e63361bb6c29837ff9d63f0f66d50a#diff-486551dc90ca1275db322ea652dc7cb0L60 really duplicate?
+[2016/01/12 12:17:18] <Tobbi> the if and subsequent set_action call, I mean?
+[2016/01/12 12:17:34] <Hume2> Tobbi: will look at it properly.
+[2016/01/12 12:18:46] @ Quit: Karkus: Quit: Division By Zero
+[2016/01/12 12:19:34] <Hume2> Tobbi: sprite->set_action shouldn't be in draw function.
+[2016/01/12 12:20:00] <Tobbi> Hume2: Then put it in active_update
+[2016/01/12 12:20:09] <Tobbi> but don't just remove it.
+[2016/01/12 12:20:16] <Hume2> Tobbi: It's already in I guess.
+[2016/01/12 12:20:23] <Tobbi> let me check.
+[2016/01/12 12:20:55] <Tobbi> I don't think so.
+[2016/01/12 12:21:17] <Tobbi>  -  if (get_state() == STATE_FALLING) {
+[2016/01/12 12:21:18] <Tobbi> -    sprite->set_action("down");
+[2016/01/12 12:21:18] @ Karkus joined channel #supertux
+[2016/01/12 12:21:18] @ Mode +o Karkus by ChanServ
+[2016/01/12 12:21:22] <Tobbi> That's what you removed.
+[2016/01/12 12:21:47] @ Quit: Karkus: Max SendQ exceeded
+[2016/01/12 12:22:20] <Hume2> There's still: sprite->set_action(physic.get_velocity_y() < 0 ? "normal" : "down");
+[2016/01/12 12:22:49] @ Karkus joined channel #supertux
+[2016/01/12 12:22:50] @ Mode +o Karkus by ChanServ
+[2016/01/12 12:23:06] <Tobbi> hmm...
+[2016/01/12 12:23:12] <Tobbi> Is that equivalent?
+[2016/01/12 12:23:27] <Hume2> It covers that state too.
+[2016/01/12 12:23:35] <Tobbi> I guess I'll just check it.
+[2016/01/12 12:23:42] @ Quit: Karkus: Max SendQ exceeded
+[2016/01/12 12:25:25] <Hume2> Well, it doesn't work as it worked with the STATE_FALLING.
+[2016/01/12 12:25:43] <Hume2> Yes, because it does no longer active_update.
+[2016/01/12 12:26:05] <Hume2> However, that doesn't mean that it should be reverted.
+[2016/01/12 12:26:38] <Tobbi> ok, ok.
+[2016/01/12 12:28:38] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/01/12 12:29:27] <pentagon> [10supertux] Status for commit Removed duplicate code in Fish::draw by 07Hume2: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/101888060
+[2016/01/12 12:29:49] <jesusalva> Travis CI is sad once again.
