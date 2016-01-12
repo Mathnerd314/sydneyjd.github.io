@@ -43155,3 +43155,50 @@
 [2016/01/12 13:12:55] <mt> git pull origin the supertux/wiki repo
 [2016/01/12 13:13:55] <maths22> That's fine-i just wanted to make sure it didn't get stuck somehow in the main repo
 [2016/01/12 13:14:13] <maths22> I thought you were saying the main repo hadn't shrunk back when I deleted the branch
+[2016/01/12 13:15:29] <Karkus> maths22: But now they're in the queue we have to wait... ages...
+[2016/01/12 13:15:52] <maths22> Karkus: You mean with regards to pentagon?
+[2016/01/12 13:15:57] <mt> Karkus: "The Ghost Forest is the second world in SuperTux."
+[2016/01/12 13:16:04] <mt> it's a forest world
+[2016/01/12 13:16:10] <mt> ghost forest is just a part of it
+[2016/01/12 13:16:24] <Karkus> mt:Isn't that its name
+[2016/01/12 13:16:25] <Karkus> ?
+[2016/01/12 13:16:37] <mt> Karkus: if that's re pentagon: I pkill -9'ed it, so the queue has been obviously cleaned up
+[2016/01/12 13:16:45] <Karkus> mt: Ah, good.
+[2016/01/12 13:16:54] <mt> Karkus: no, it's just "Forest" or "Forest World"
+[2016/01/12 13:17:02] <mt> or "Forest Island"
+[2016/01/12 13:17:08] <Karkus> mt: Okay, I'll change it.
+[2016/01/12 13:18:17] <maths22> mt: Sorry for the incoveience with pentagon
+[2016/01/12 13:18:37] <mt> Karkus: btw, you can force-push to wiki's master
+[2016/01/12 13:18:40] <mt> I don't mind that
+[2016/01/12 13:18:53] <mt> just not to mediawiki unless that contains all
+[2016/01/12 13:19:17] <mt> also, please check for spelling, grammar and layout in the wiki repo
+[2016/01/12 13:19:28] <mt> capitalization as well
+[2016/01/12 13:20:14] <Karkus> mt: I haven't made any spelling mistakes have I? My spelling is quite good, I think.
+[2016/01/12 13:20:50] <mt> 'Worlds Under Development'
+[2016/01/12 13:20:56] <mt> should be 'Worlds under development'
+[2016/01/12 13:21:25] <Karkus> mt: Why>
+[2016/01/12 13:21:26] <Karkus> ?
+[2016/01/12 13:21:30] <mt> it's not a name, nor are 'under' or 'development' beginnings of a sentence
+[2016/01/12 13:22:20] <Karkus> mt: Eh, it's a title
+[2016/01/12 13:22:33] <mt> is that allowed in titles?
+[2016/01/12 13:22:35] <mt> didn't know
+[2016/01/12 13:22:35] <Karkus> http://www.titlecapitalization.com/
+[2016/01/12 13:23:02] <mt> TIL
+[2016/01/12 13:23:12] <Karkus> mt: You capitalize most words in titles, excluding "of" and "and" etc.
+[2016/01/12 13:23:58] <Karkus> mt: It depends whether you consider it a title, however.
+[2016/01/12 13:24:08] <mt> according to that site also "Lowercase articles (a, an, the), coordinating conjunctions, and prepositions."
+[2016/01/12 13:25:38] <Karkus> mt: I covered that in my "etc." :D
+[2016/01/12 13:25:51] <brmbrmcar> It should be done on a case-by-case basis.
+[2016/01/12 13:26:02] <brmbrmcar> Whatever seems right.
+[2016/01/12 13:26:17] <Karkus> brmbrmcar: No, because then people will disagree
+[2016/01/12 13:26:42] <mt> Karkus: https://github.com/SuperTux/wiki/blob/master/TODO.md#graphics spot the mistake
+[2016/01/12 13:26:53] <mt> (you forgot newlines)
+[2016/01/12 13:27:19] <mt> https://github.com/SuperTux/wiki/blob/master/TODO.md#meta
+[2016/01/12 13:27:22] <Karkus> mt: And my capitalisation is all over the place.
+[2016/01/12 13:27:25] <mt> should be it's own section
+[2016/01/12 13:27:40] <mt> Meta isn't part of Milestone 2
+[2016/01/12 13:28:00] <mt> also, this should be removed to ignore milestones
+[2016/01/12 13:28:05] <mt> but rather use semver versions
+[2016/01/12 13:28:31] <mt> lines should be changed to be ~80 characters long
+[2016/01/12 13:28:39] <Karkus> mt: Go ahead and change it, I agree.
+[2016/01/12 13:29:57] <mt> "'downer' lava tiles"
