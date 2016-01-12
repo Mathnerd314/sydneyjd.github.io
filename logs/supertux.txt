@@ -42884,3 +42884,5 @@
 [2016/01/12 09:22:59] <head8debian> .
 [2016/01/12 09:23:12] <jesusalva> Gmorning head8debian
 [2016/01/12 09:23:46] <Tobbi> head8debian: Coverity builds are still stalled. This is getting annoying.
+[2016/01/12 09:37:59] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/12 09:42:39] <head8debian> Eww.
