@@ -42843,3 +42843,4 @@
 [2016/01/12 01:22:05] @ tuxdev_ joined channel #supertux
 [2016/01/12 02:46:09] @ alket joined channel #supertux
 [2016/01/12 02:52:27] @ Quit: kneekoo: Quit: Leaving
+[2016/01/12 03:13:35] @ Quit: tuxdev_: Ping timeout: 240 seconds
