@@ -43202,3 +43202,25 @@
 [2016/01/12 13:28:31] <mt> lines should be changed to be ~80 characters long
 [2016/01/12 13:28:39] <Karkus> mt: Go ahead and change it, I agree.
 [2016/01/12 13:29:57] <mt> "'downer' lava tiles"
+[2016/01/12 13:30:03] <mt> should this be "deeper" tiles?
+[2016/01/12 13:30:33] @ bb010g joined channel #supertux
+[2016/01/12 13:30:58] <Karkus> mt: Not my words...
+[2016/01/12 13:32:22] <mt> yeah
+[2016/01/12 13:32:26] <mt> but would you agree?
+[2016/01/12 13:32:37] <mt> because "downer" is definitely wrong
+[2016/01/12 13:33:29] <Karkus> mt: Where I come from, downer is a derogatory term for someone with Down's syndrome
+[2016/01/12 13:33:35] <Karkus> mt: Sure.
+[2016/01/12 13:34:44] <Karkus> mt: Are we going to change all the .mw files to .mediawiki?
+[2016/01/12 13:37:22] <mt> When grumbel is ready
+[2016/01/12 13:37:39] <mt> and then I'll look into manually copying the good parts of master to mediawiki
+[2016/01/12 13:37:46] <mt> and removing the bad parts from mediawiki
+[2016/01/12 13:38:02] <mt> then I'd like to rename mediawiki to master and trash the latter
+[2016/01/12 13:40:51] <Karkus> mt: "manually copying the good parts of master to mediawiki" into mediawiki format?
+[2016/01/12 13:41:20] <mt> no
+[2016/01/12 13:41:33] <mt> I was referring to the branches
+[2016/01/12 13:41:47] <mt> but github's wiki (gollum) supports mixed markup languages
+[2016/01/12 13:41:47] <Karkus> master is in markdown.
+[2016/01/12 13:41:54] <Karkus> mt: Do we want that?
+[2016/01/12 13:42:01] <mt> master even contains some mediawiki documents
+[2016/01/12 13:42:38] <Karkus> Okay.
+[2016/01/12 13:42:43] <mt> yes, iirc even the wysiwyg editor supports that
