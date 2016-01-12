@@ -43287,3 +43287,10 @@
 [2016/01/12 16:29:40] @ head8debian joined channel #supertux
 [2016/01/12 16:29:40] @ Mode +o head8debian by ChanServ
 [2016/01/12 16:31:05] @ Quit: claymore2: Quit: Leaving
+[2016/01/12 16:47:04] @ Karkus joined channel #supertux
+[2016/01/12 16:47:05] @ Mode +o Karkus by ChanServ
+[2016/01/12 16:48:50] @ swift110 joined channel #supertux
+[2016/01/12 16:51:08] @ Quit: swift110: Changing host
+[2016/01/12 16:51:10] @ swift110 joined channel #supertux
+[2016/01/12 16:55:49] @ Quit: Karkus: Quit: Division By Zero
+[2016/01/12 16:57:52] @ Quit: jesusalva: Quit: bbl. See you guys later, God Bless You
