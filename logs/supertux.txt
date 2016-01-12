@@ -42870,3 +42870,10 @@
 [2016/01/12 07:15:41] @ grumbel joined channel #supertux
 [2016/01/12 07:15:41] @ Mode +o grumbel by ChanServ
 [2016/01/12 07:23:05] @ Mode -b pentagon!*@* by grumbel
+[2016/01/12 08:50:29] @ Tobbi joined channel #supertux
+[2016/01/12 08:50:31] @ Mode +o Tobbi by ChanServ
+[2016/01/12 08:54:07] @ jesusalva joined channel #supertux
+[2016/01/12 08:55:09] @ Jesusaves joined channel #supertux
+[2016/01/12 08:56:07] <Jesusaves> Hello!
+[2016/01/12 08:56:35] <alket> hi Jesus
+[2016/01/12 08:58:15] @ Quit: jesusalva: Ping timeout: 240 seconds
