@@ -42892,3 +42892,5 @@
 [2016/01/12 10:22:34] <maths22> head8debian: Can you do winkey+R "winver" and give me your Windows 10 build number?
 [2016/01/12 10:24:18] <head8debian> maths22: Later i can.
 [2016/01/12 10:25:41] <maths22> Thanks!
+[2016/01/12 10:30:33] @ lumidify joined channel #supertux
+[2016/01/12 10:31:05] @ Quit: lumidify: Client Quit
