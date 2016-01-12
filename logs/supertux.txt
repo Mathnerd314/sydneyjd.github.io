@@ -42841,3 +42841,5 @@
 [2016/01/12 00:44:13] @ lumidify joined channel #supertux
 [2016/01/12 00:54:51] @ Quit: lumidify: Quit: Leaving
 [2016/01/12 01:22:05] @ tuxdev_ joined channel #supertux
+[2016/01/12 02:46:09] @ alket joined channel #supertux
+[2016/01/12 02:52:27] @ Quit: kneekoo: Quit: Leaving
