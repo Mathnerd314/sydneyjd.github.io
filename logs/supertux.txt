@@ -42828,3 +42828,13 @@
 [2016/01/11 21:48:11] @ polyphagia joined channel #supertux
 [2016/01/11 21:57:25] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/11 22:54:34] @ Quit: irungentoo: Remote host closed the connection
+[2016/01/11 23:15:01] <head8debian> maths22: Im having no success installing supertux from the windows store. it is telling me that my windows version is out of date, even though its not.
+[2016/01/11 23:16:28] <jesusalva_> head8debian: Sleep well.
+[2016/01/11 23:16:44] * jesusalva_ is only finding head8debian at very late night.
+[2016/01/11 23:17:40] <head8debian> jesusalva_: You too. Im ready for bed. :)
+[2016/01/11 23:18:04] <jesusalva_> head8debian: I was there from very early, but I worked a lot on #tmw-br today
+[2016/01/11 23:18:43] <jesusalva_> And probably will tomorrow as well. And I have some meetings tomorrow after 20:30 which i forgot to send the links. Oh well.
+[2016/01/11 23:19:08] <head8debian> :)
+[2016/01/11 23:19:47] <jesusalva_> Good night for now, head8debian.
+[2016/01/11 23:19:55] <jesusalva_> We night see each other tomorrow. ;)
+[2016/01/11 23:21:13] @ Quit: jesusalva_: Quit: Good Night, Jesus bless you.
