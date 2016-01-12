@@ -43096,3 +43096,62 @@
 [2016/01/12 12:57:41] <brmbrmcar> https://paste.kde.org/pqfcep1kg
 [2016/01/12 12:57:56] <pentagon> [10supertux] Status for commit Falling fishes now face down again by 07Hume2: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/101895911
 [2016/01/12 12:58:03] <maths22> It has been reset
+[2016/01/12 13:01:07] <mt> lol there's four Add-ons pages
+[2016/01/12 13:01:19] <mt> 3 of them redirects
+[2016/01/12 13:02:16] <mt> >images/deleted/
+[2016/01/12 13:02:23] <mt> totally the point of deleting images
+[2016/01/12 13:02:48] <mt> >https://raw.githubusercontent.com/SuperTux/wiki/mediawiki/images/deleted/4/p/d/4pdt2e7q4vo1154ju5r9u6ubu3mzyjh.png
+[2016/01/12 13:02:53] <mt> >Super Burger World
+[2016/01/12 13:04:26] <mt> maths22: in general, I'd actually prefer .mediawiki over .wiki because it's more obvious
+[2016/01/12 13:04:59] <pentagon> [10supertux] 07maths22 pushed 13484 commits to 09mediawiki 13http://git.io/vzskL
+[2016/01/12 13:05:00] <pentagon> [10supertux] 07MediaWiki default 1480fa285 *Empty MediaWiki Message*
+[2016/01/12 13:05:02] <pentagon> [10supertux] 07Sik0fewl 140d2fbb2 *Empty MediaWiki Message*
+[2016/01/12 13:05:04] <pentagon> [10supertux] 07Sik0fewl 1444295d3 *Empty MediaWiki Message*
+[2016/01/12 13:05:05] <pentagon> [10supertux] 07Sik0fewl 144222d6b *Empty MediaWiki Message*
+[2016/01/12 13:05:07] <pentagon> [10supertux] 07Sik0fewl 146dc52fe *Empty MediaWiki Message*
+[2016/01/12 13:05:08] <pentagon> [10supertux] 07Sik0fewl 142c34a37 *Empty MediaWiki Message*
+[2016/01/12 13:05:10] <pentagon> [10supertux] 07Sik0fewl 140856c01 *Empty MediaWiki Message*
+[2016/01/12 13:05:11] <pentagon> [10supertux] 07Sik0fewl 148661188 *Empty MediaWiki Message*
+[2016/01/12 13:05:13] <pentagon> [10supertux] 07Sik0fewl 145155d97 *Empty MediaWiki Message*
+[2016/01/12 13:05:14] <pentagon> [10supertux] 07Sik0fewl 14fc41bec *Empty MediaWiki Message*
+[2016/01/12 13:05:15] <mt> maths22: wtf
+[2016/01/12 13:05:16] <pentagon> [10supertux] 07Sik0fewl 142903618 *Empty MediaWiki Message*
+[2016/01/12 13:05:17] <pentagon> [10supertux] 07Sik0fewl 14bff8341 *Empty MediaWiki Message*
+[2016/01/12 13:05:18] <Hume2> Oh,
+[2016/01/12 13:05:19] <pentagon> [10supertux] 07Sik0fewl 149ae6f0c *Empty MediaWiki Message*
+[2016/01/12 13:05:19] <brmbrmcar> Ahh!
+[2016/01/12 13:05:22] <pentagon> [10supertux] 07Sik0fewl 14fbf68da *Empty MediaWiki Message*
+[2016/01/12 13:05:22] <pentagon> [10supertux] 07Sik0fewl 140c579fa *Empty MediaWiki Message*
+[2016/01/12 13:05:24] <pentagon> [10supertux] 07Sik0fewl 142e25a91 *Empty MediaWiki Message*
+[2016/01/12 13:05:25] <pentagon> [10supertux] 07Sik0fewl 14bd5d007 *Empty MediaWiki Message*
+[2016/01/12 13:05:27] <pentagon> [10supertux] 07Sik0fewl 14893081d *Empty MediaWiki Message*
+[2016/01/12 13:05:27] <Hume2> A je to v kelu.
+[2016/01/12 13:05:28] <pentagon> [10supertux] 07Sik0fewl 14ef0f08d *Empty MediaWiki Message*
+[2016/01/12 13:05:30] <pentagon> [10supertux] 07Sik0fewl 146d63e6f *Empty MediaWiki Message*
+[2016/01/12 13:05:30] <pentagon> [10supertux] 07Sik0fewl 1423c6825 *Empty MediaWiki Message*
+[2016/01/12 13:05:31] @ Mode +q *!*@unaffiliated/supermat/bot/netbot by mt
+[2016/01/12 13:05:49] <mt> pentagon: quit
+[2016/01/12 13:06:25] <mt> Jan 12 19:06:13 fornax supybot[3900]: WARNING 2016-01-12T19:06:13 Refusing to queue IrcMsg(prefix="", command="PRIVMSG", args=('#supertux', '[\x0310supertux\x03] \x0307210.55.230.17\x03 \x031448b17e5\x03 Added something.')); Irc object for freenode is a zombie.
+[2016/01/12 13:06:28] <mt> lol
+[2016/01/12 13:06:37] <mt> it's still trying to send the messages in the queue
+[2016/01/12 13:06:57] <mt> even though it seems to have marked itself as disconnected
+[2016/01/12 13:07:24] <mt> maths22: why did you push that to the supertux repository?
+[2016/01/12 13:07:29] <mt> that's totally not the point
+[2016/01/12 13:07:41] <mt> I though we'd manage the wiki in a separate repo
+[2016/01/12 13:07:54] <mt> and then we can use git remote to keep that repo and the github-wiki-repo in sync
+[2016/01/12 13:08:27] <mt> and it pollutes the supertux repo with unneccessary large history
+[2016/01/12 13:08:47] <Hume2> Indeed.
+[2016/01/12 13:08:58] <mt> to be more exact about the large history:
+[2016/01/12 13:09:01] <mt> Receiving objects: 100% (3853/3853), 222.33 MiB | 1.74 MiB/s, done.
+[2016/01/12 13:09:15] <mt> we wanted to reduce that size by separating the data/ directory
+[2016/01/12 13:09:21] <mt> not increase it
+[2016/01/12 13:10:24] @ Quit: pentagon: Ping timeout: 264 seconds
+[2016/01/12 13:10:44] <maths22> mt: I misset my remote
+[2016/01/12 13:10:51] <maths22> I deleted the branch from github though-it should be gone
+[2016/01/12 13:11:27] <mt> pentagon coming back soon
+[2016/01/12 13:11:29] @ pentagon joined channel #supertux
+[2016/01/12 13:11:56] <maths22> mt: Sorry about that
+[2016/01/12 13:12:29] <maths22> mt: How did you get the 223 mb download?
+[2016/01/12 13:12:55] <mt> git pull origin the supertux/wiki repo
+[2016/01/12 13:13:55] <maths22> That's fine-i just wanted to make sure it didn't get stuck somehow in the main repo
+[2016/01/12 13:14:13] <maths22> I thought you were saying the main repo hadn't shrunk back when I deleted the branch
