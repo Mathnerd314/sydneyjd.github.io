@@ -43244,3 +43244,16 @@
 [2016/01/12 13:54:39] <mt> GitHub supports a Markdown that supports it, but that will look ugly with standard markdown renderers
 [2016/01/12 13:57:44] <grumbel> mediawiki is now complete
 [2016/01/12 14:00:00] <mt> nice
+[2016/01/12 14:00:16] <mt> I wonder if git-mediawiki supports cloning wikipedia
+[2016/01/12 14:07:05] <Karkus> grumbel: Can't we squash all commits before a certain date?
+[2016/01/12 14:07:22] <grumbel> Karkus: no, preserving history was the whole point of this
+[2016/01/12 14:07:46] <Karkus> grumbel: And why do we wish to preserve history?
+[2016/01/12 14:08:02] <mt> because history is an important part of any project
+[2016/01/12 14:08:08] <grumbel> Karkus: you can use 'git clone --depth 1' if you don't want it
+[2016/01/12 14:08:11] <mt> and effort should be made to preserve it
+[2016/01/12 14:08:53] <mt> Karkus: http://www.archiveteam.org/index.php?title=Main_Page
+[2016/01/12 14:12:17] <Karkus> grumbel, mt: So, can we change them to file extensions that GitHub can view?
+[2016/01/12 14:12:58] <mt> I'd suggest so
+[2016/01/12 14:13:08] <mt> to .mediawiki, because that's easy to recognize
+[2016/01/12 14:13:22] <mt> .wiki could be, tbh, everything github is able to render
+[2016/01/12 14:13:43] @ pentagon joined channel #supertux
