@@ -42827,3 +42827,4 @@
 [2016/01/11 21:21:08] @ Quit: polyphagia: Ping timeout: 256 seconds
 [2016/01/11 21:48:11] @ polyphagia joined channel #supertux
 [2016/01/11 21:57:25] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/11 22:54:34] @ Quit: irungentoo: Remote host closed the connection
