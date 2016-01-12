@@ -43273,3 +43273,16 @@
 [2016/01/12 16:10:26] @ Quit: Karkus: Ping timeout: 240 seconds
 [2016/01/12 16:10:31] <Tobbi> mt: I am not sure if the other one would work as well.
 [2016/01/12 16:12:46] <Tobbi> Also, why is coverity so slow?
+[2016/01/12 16:18:55] <Tobbi> mt: Actually, can you take a look whether sed'ing the actual levels works with the translation?
+[2016/01/12 16:25:38] @ Quit: head8debian: Quit: brb
+[2016/01/12 16:25:54] @ quit (seeya)
+[2016/01/12 16:25:57] @ Log closed by * (rescan or shutdown)
+[2016/01/12 16:27:27] @ Log started by red_bot
+[2016/01/12 16:27:27] @ Joined channel #supertux
+[2016/01/12 16:27:27] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/01/12 16:27:27] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
+[2016/01/12 16:27:33] @ Mode +Cnptj 5:10 by weber.freenode.net
+[2016/01/12 16:27:44] @ Mode +o red_bot by ChanServ
+[2016/01/12 16:28:38] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/01/12 16:29:40] @ head8debian joined channel #supertux
+[2016/01/12 16:29:40] @ Mode +o head8debian by ChanServ
