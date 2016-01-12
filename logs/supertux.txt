@@ -43295,3 +43295,4 @@
 [2016/01/12 16:55:49] @ Quit: Karkus: Quit: Division By Zero
 [2016/01/12 16:57:52] @ Quit: jesusalva: Quit: bbl. See you guys later, God Bless You
 [2016/01/12 17:13:39] @ bb010g joined channel #supertux
+[2016/01/12 17:20:45] @ Quit: tuxdev_: Ping timeout: 260 seconds
