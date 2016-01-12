@@ -42934,3 +42934,44 @@
 [2016/01/12 11:58:59] <head8debian> Ah. Yes, its download version 10581...
 [2016/01/12 11:59:06] * head8debian hates Windows updates...
 [2016/01/12 11:59:50] <Tobbi> Maybe I should trash my VM and reinstall.
+[2016/01/12 12:00:24] <Hume2> It looks like pentagon no longer says the new commits.
+[2016/01/12 12:01:17] <grumbel> pentagon is saying nothing at all
+[2016/01/12 12:01:43] <grumbel> I did unban it, but that hasn't helped
+[2016/01/12 12:02:05] <Hume2> Someone has banned it?
+[2016/01/12 12:02:33] <grumbel> Hume2: we had to ban it yesterday as it got a bit spamm'y (10'000 commits due to Wiki transfer)
+[2016/01/12 12:02:55] <Hume2> Oh, I see.
+[2016/01/12 12:03:09] <grumbel> Which might happen again today, as there are some more namespaces in the Wiki I haven't imported yet
+[2016/01/12 12:04:01] <Hume2> It used to say only the number of commits when there was more that two, didn't it?
+[2016/01/12 12:04:07] <jesusalva> Hadn't you guys changed web hooks?
+[2016/01/12 12:04:23] <Tobbi> What is wrong with my VM...
+[2016/01/12 12:04:33] <jesusalva> Tobbi: It's yours. :P
+[2016/01/12 12:04:42] <Tobbi> jesusalva: Thanks, very eassuring.
+[2016/01/12 12:04:45] * jesusalva remembers this was supposed to be a joke.
+[2016/01/12 12:04:45] <Tobbi> *reassuring.
+[2016/01/12 12:04:48] <Tobbi> oh, right.
+[2016/01/12 12:05:46] <Hume2> Github says only 10,000+ commits, not the exact number.
+[2016/01/12 12:08:17] <Tobbi> [2016/01/11 14:45:45] <pentagon> [10wiki] 07Grumbel pushed 13483 commits to 09mediawiki 13http://git.io/vzUJK
+[2016/01/12 12:08:59] <Tobbi> Hume2: ^^
+[2016/01/12 12:09:12] <Hume2> hmmm...
+[2016/01/12 12:10:07] @ Mode -q pentagon!*@* by mt
+[2016/01/12 12:10:14] <mt> it's this one
+[2016/01/12 12:10:28] <Hume2> I see. It went mad.
+[2016/01/12 12:10:44] <mt> also, apparently it wanted to list all 13483 commits
+[2016/01/12 12:11:18] <Hume2> It's strange, because it never did.
+[2016/01/12 12:11:36] <Hume2> It listed only two commits.
+[2016/01/12 12:11:42] <mt> notifico had a limit on 3 (or 4 commits)
+[2016/01/12 12:12:11] <Hume2> You played with the limit, didn't you :)
+[2016/01/12 12:12:21] <Tobbi> Hume2: I blocked it before it could list them all.
+[2016/01/12 12:12:22] <maths22> grumbel: To use weak_ptr, we would need to make the other pointers smart pointers, which might be a bit involved
+[2016/01/12 12:12:38] <Hume2> Tobbi: I saw it in the log.
+[2016/01/12 12:12:41] <Tobbi> ok
+[2016/01/12 12:12:45] <mt> Hume2: pentagon is another bot, not even based on notifico
+[2016/01/12 12:12:55] <Hume2> Oh, that's it.
+[2016/01/12 12:13:08] <Hume2> But still, when I rebased the editor...
+[2016/01/12 12:13:18] <Hume2> It didn't list 77 commits.
+[2016/01/12 12:13:23] <mt> it did
+[2016/01/12 12:13:34] <grumbel> maths22: GameObjectPtr is already a std::shared_ptr
+[2016/01/12 12:13:35] <Hume2> Oh really? OK
+[2016/01/12 12:13:36] <mt> as far as I can see in my backlog
+[2016/01/12 12:14:32] <Hume2> I see.
+[2016/01/12 12:14:55] <Hume2> At least it didn't blocked the chat.
