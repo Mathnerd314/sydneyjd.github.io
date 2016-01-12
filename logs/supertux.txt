@@ -43262,3 +43262,5 @@
 [2016/01/12 14:56:04] @ Karkus joined channel #supertux
 [2016/01/12 14:56:04] @ Mode +o Karkus by ChanServ
 [2016/01/12 15:28:28] @ tuxdev_ joined channel #supertux
+[2016/01/12 15:51:42] <jesusalva> Second time KVIrc does something weird on this channel.
+[2016/01/12 15:57:21] @ tux|dude joined channel #supertux
