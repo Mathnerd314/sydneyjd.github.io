@@ -42862,3 +42862,7 @@
 [2016/01/12 05:51:21] <Tobbi> aha.
 [2016/01/12 05:51:22] <Tobbi> Okay.
 [2016/01/12 05:56:15] @ Quit: polyphagia: Ping timeout: 240 seconds
+[2016/01/12 06:00:10] <Tobbi> ah!
+[2016/01/12 06:00:14] <Tobbi> We're at this again:  Last Build Status: In-queue. Your build is in the queue to be analyzed. There are 113 builds ahead of it.
+[2016/01/12 06:08:43] @ polyphagia joined channel #supertux
+[2016/01/12 06:09:07] @ Quit: Tobbi: Remote host closed the connection
