@@ -42867,3 +42867,6 @@
 [2016/01/12 06:08:43] @ polyphagia joined channel #supertux
 [2016/01/12 06:09:07] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/12 06:26:32] @ Quit: tux|dude: Quit: Leaving
+[2016/01/12 07:15:41] @ grumbel joined channel #supertux
+[2016/01/12 07:15:41] @ Mode +o grumbel by ChanServ
+[2016/01/12 07:23:05] @ Mode -b pentagon!*@* by grumbel
