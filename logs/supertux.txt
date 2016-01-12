@@ -43299,3 +43299,11 @@
 [2016/01/12 17:47:37] @ Quit: tux|dude: Quit: Leaving
 [2016/01/12 18:06:26] @ Quit: alket: Quit: Konversation terminated!
 [2016/01/12 18:06:32] @ alket_ joined channel #supertux
+[2016/01/12 18:19:41] @ alket_ is now known as alket
+[2016/01/12 18:20:46] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/12 18:22:08] <maths22> grumbel: Could you take a look at https://transfer.sh/VFdpu/supertux-weak-ptr.diff
+[2016/01/12 18:22:55] <maths22> (I only implmented for TextObject right now, but if my approach seems reasonable, I will carry it over to the other scriptable objects as well)
+[2016/01/12 18:27:15] <grumbel> auto m_parent = ... -> auto parent = ...  the m_ is for member variables
+[2016/01/12 18:28:15] <grumbel> Not sure what happens with the scripting code when an exception is thrown from within, maybe: if (auto parent = m_parent.lock()) { ... } instead
+[2016/01/12 18:29:45] <maths22> grumbel: see http://2.1m.yt/nVhQuR8.png
+[2016/01/12 18:29:48] <grumbel> or hiding it behind a macro
