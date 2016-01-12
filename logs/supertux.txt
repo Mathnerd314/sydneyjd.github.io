@@ -43264,3 +43264,12 @@
 [2016/01/12 15:28:28] @ tuxdev_ joined channel #supertux
 [2016/01/12 15:51:42] <jesusalva> Second time KVIrc does something weird on this channel.
 [2016/01/12 15:57:21] @ tux|dude joined channel #supertux
+[2016/01/12 16:00:36] @ Quit: tux|dude: Client Quit
+[2016/01/12 16:00:51] @ tux|dude joined channel #supertux
+[2016/01/12 16:04:37] @ Tobbi joined channel #supertux
+[2016/01/12 16:04:37] @ Mode +o Tobbi by ChanServ
+[2016/01/12 16:08:46] <Tobbi> hello
+[2016/01/12 16:08:46] <red_bot> Tobbi, you have notes! [Jan-12 12:46] <mt> why are you sed -i'ing the pot, instead of the actual levels?
+[2016/01/12 16:10:26] @ Quit: Karkus: Ping timeout: 240 seconds
+[2016/01/12 16:10:31] <Tobbi> mt: I am not sure if the other one would work as well.
+[2016/01/12 16:12:46] <Tobbi> Also, why is coverity so slow?
