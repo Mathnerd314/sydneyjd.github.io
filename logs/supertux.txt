@@ -43064,3 +43064,35 @@
 [2016/01/12 12:44:08] <mt> re mediawiki file extensions: src: https://github.com/github/markup#markups
 [2016/01/12 12:44:28] <grumbel> Tobbi: proper way would be to get rid of the ReaderMapping constructor and move that into a factory function
 [2016/01/12 12:44:47] <Tobbi> sebras: The good thing is that we can be fairly positive this is a one-time change. Subsequent updates to transifex will do the \r\n -> \n conversion automatically...
+[2016/01/12 12:45:15] <Tobbi> sebras: This is the change I did yesterday: https://github.com/SuperTux/supertux/blob/master/makepot.sh#L17
+[2016/01/12 12:45:19] <sebras> Tobbi: alright, sounds. good. This is actually not too much of a hazzle.
+[2016/01/12 12:45:24] <Tobbi> :)
+[2016/01/12 12:45:44] <Tobbi> bbl, doing some sports.
+[2016/01/12 12:45:47] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/12 12:45:53] <grumbel> C++11 also allows constructor chaining, but I am not sure that would help here
+[2016/01/12 12:46:08] <pentagon> [10supertux] Status for commit Fixed werror in scripted_object.hpp by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/290
+[2016/01/12 12:46:33] <Hume2> That is still that tinygettext issue I think.
+[2016/01/12 12:46:33] <mt> ~note Tobbi why are you sed -i'ing the pot, instead of the actual levels?
+[2016/01/12 12:46:33] <red_bot> okay, mt
+[2016/01/12 12:47:33] <jesusalva> mt: Wouldn't it be to keep the old translations?
+[2016/01/12 12:49:06] <mt> I, for the future, would suggest to have a pre-commit hook sed -i'ing all the *.stls to replace \r\n with \n
+[2016/01/12 12:50:10] <mt> for supertux, I actually have a hook that scans the commit message for [ci skip] and requires me to write to a temporary file if it's not in there :D
+[2016/01/12 12:53:43] @ Karkus joined channel #supertux
+[2016/01/12 12:53:43] @ Mode +o Karkus by ChanServ
+[2016/01/12 12:54:44] <pentagon> [10supertux] 07maths22 created branch 09mediawiki
+[2016/01/12 12:55:13] <pentagon> [10supertux] 07maths22 04deleted branch 09mediawiki
+[2016/01/12 12:55:42] <pentagon> [10wiki] 07maths22 pushed 1 commit to 09mediawiki 13http://git.io/vzsvn
+[2016/01/12 12:55:43] <pentagon> [10wiki] 07maths22 14d9273a3 rename file extensions
+[2016/01/12 12:56:08] <mt> well yeah
+[2016/01/12 12:56:10] <mt> that works
+[2016/01/12 12:56:33] <mt> actually, I totally forgot that git can still display a history for it when it can track the rename
+[2016/01/12 12:56:37] <grumbel> maths22: don't mess around with the wiki yet, there is some more stuff incoming
+[2016/01/12 12:57:08] <maths22> grumbel: I'm going to revert it now-It looks awful-I just wanted to see how it seemed
+[2016/01/12 12:57:11] <mt> tell me before you force-push that
+[2016/01/12 12:57:15] <mt> grumbel: ^
+[2016/01/12 12:57:18] <maths22> mt: OK
+[2016/01/12 12:57:19] <mt> or +q pentagon
+[2016/01/12 12:57:29] <maths22> Never ming-I get it
+[2016/01/12 12:57:41] <brmbrmcar> https://paste.kde.org/pqfcep1kg
+[2016/01/12 12:57:56] <pentagon> [10supertux] Status for commit Falling fishes now face down again by 07Hume2: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/101895911
+[2016/01/12 12:58:03] <maths22> It has been reset
