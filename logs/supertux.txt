@@ -43307,3 +43307,21 @@
 [2016/01/12 18:28:15] <grumbel> Not sure what happens with the scripting code when an exception is thrown from within, maybe: if (auto parent = m_parent.lock()) { ... } instead
 [2016/01/12 18:29:45] <maths22> grumbel: see http://2.1m.yt/nVhQuR8.png
 [2016/01/12 18:29:48] <grumbel> or hiding it behind a macro
+[2016/01/12 18:30:11] <maths22> I personally think throwing an error is better than silently doing nothing
+[2016/01/12 18:31:32] <maths22> Ideally the wrapper would wrap it into a squirrel error, but the current behavior seems reasonable to me
+[2016/01/12 18:32:20] <grumbel> as long as it doesn't break the call stack of squirrel it should be ok
+[2016/01/12 18:32:31] <grumbel> might still be a good idea to hide it all away in a macro
+[2016/01/12 18:32:38] @ jesusalva_bot joined channel #supertux
+[2016/01/12 18:33:11] @ jesusalva_bot is now known as testII
+[2016/01/12 18:33:16] @ testII left channel #supertux ()
+[2016/01/12 18:33:49] <grumbel> #define BEGIN_SCRIPT auto parent = std::shared_ptr<decltype(m_parent)::element_type>(m_parent);
+[2016/01/12 18:33:52] <grumbel> or something along the lines
+[2016/01/12 18:34:16] <maths22> I agree with the hiding in a macro
+[2016/01/12 18:34:31] <maths22> Should all the script files share a header file?
+[2016/01/12 18:35:09] <grumbel> I guess
+[2016/01/12 18:35:36] <maths22> It just seems silly to duplicate that macro across all the files
+[2016/01/12 18:37:04] <grumbel> put it into scripting/util.hpp or something like that, I don't we have any header for script stuff yet
+[2016/01/12 18:37:43] <grumbel> there is scripting/squirrel_util.hpp, but that seems more related with squirrel itself, then scripting in general
+[2016/01/12 18:38:24] <maths22> Sounds reasonable to me
+[2016/01/12 18:39:28] <maths22> Why do we put a person's name in the copyright header at the top of the source files?
+[2016/01/12 18:41:20] <maths22> Stylistically, should a macro be followed by a semicolon when it is invoked?
