@@ -42844,3 +42844,6 @@
 [2016/01/12 02:46:09] @ alket joined channel #supertux
 [2016/01/12 02:52:27] @ Quit: kneekoo: Quit: Leaving
 [2016/01/12 03:13:35] @ Quit: tuxdev_: Ping timeout: 240 seconds
+[2016/01/12 03:38:38] <mt> oh lol @ pentagon
+[2016/01/12 03:39:00] <mt> tfw it actually didn't flood off
+[2016/01/12 03:43:39] <mt> I'll have to see if I can make it count the commits and exit after a few.
