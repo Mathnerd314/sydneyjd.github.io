@@ -43356,3 +43356,4 @@
 [2016/01/12 20:39:09] @ jesusalva joined channel #supertux
 [2016/01/12 20:39:29] <jesusalva> Hello!
 [2016/01/12 20:55:22] @ Quit: swift110: Ping timeout: 250 seconds
+[2016/01/12 21:09:07] @ Quit: grumbel: Quit: Ex-Chat
