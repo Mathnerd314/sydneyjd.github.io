@@ -43582,3 +43582,4 @@
 [2016/01/13 13:18:21] @ Quit: xet7: Ping timeout: 260 seconds
 [2016/01/13 13:28:28] @ Karkus joined channel #supertux
 [2016/01/13 13:28:28] @ Mode +o Karkus by ChanServ
+[2016/01/13 13:33:37] @ Quit: Tobbi: Remote host closed the connection
