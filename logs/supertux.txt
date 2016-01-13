@@ -43390,3 +43390,10 @@
 [2016/01/13 07:44:01] @ Mode +o grumbel by ChanServ
 [2016/01/13 07:52:02] @ jesusalva joined channel #supertux
 [2016/01/13 07:52:34] <jesusalva> Hello!
+[2016/01/13 08:16:40] @ Quit: jesusalva: Ping timeout: 256 seconds
+[2016/01/13 08:19:09] @ jesusalva joined channel #supertux
+[2016/01/13 08:21:05] <jesusalva> Hello!
+[2016/01/13 08:29:01] <mt> jesusalva: you do not need to say 'Hello!' every time you join
+[2016/01/13 08:29:13] <jesusalva> Haha!
+[2016/01/13 08:29:18] <jesusalva> ;)
+[2016/01/13 08:29:19] <mt> especially if you just left 3 minutes before
