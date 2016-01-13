@@ -43371,3 +43371,4 @@
 [2016/01/12 23:53:08] @ Mode +o red_bot by ChanServ
 [2016/01/12 23:53:20] @ head8debian joined channel #supertux
 [2016/01/12 23:53:20] @ Mode +o head8debian by ChanServ
+[2016/01/13 00:22:17] @ stewboy joined channel #supertux
