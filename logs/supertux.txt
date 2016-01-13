@@ -43383,3 +43383,4 @@
 [2016/01/13 04:28:52] @ Quit: stewboy: Read error: Connection reset by peer
 [2016/01/13 05:44:32] @ Tobbi joined channel #supertux
 [2016/01/13 05:44:32] @ Mode +o Tobbi by ChanServ
+[2016/01/13 06:09:24] @ Quit: xet7: Quit: Leaving
