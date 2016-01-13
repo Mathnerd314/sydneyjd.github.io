@@ -43636,3 +43636,7 @@
 [2016/01/13 16:26:16] @ brmbrmcar left channel #supertux ()
 [2016/01/13 16:34:16] @ Quit: claymore2: Quit: Leaving
 [2016/01/13 16:38:38] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/01/13 16:47:06] @ datahead8888 joined channel #supertux
+[2016/01/13 16:50:30] @ Quit: datahead7777: Ping timeout: 250 seconds
+[2016/01/13 16:59:49] @ Tobbi joined channel #supertux
+[2016/01/13 16:59:50] @ Mode +o Tobbi by ChanServ
