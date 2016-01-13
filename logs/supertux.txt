@@ -43643,3 +43643,6 @@
 [2016/01/13 17:11:02] @ Quit: datahead8888: Quit: Leaving
 [2016/01/13 17:35:54] @ tuxdev_ joined channel #supertux
 [2016/01/13 17:37:24] @ Quit: Karkus: Ping timeout: 264 seconds
+[2016/01/13 18:07:55] @ Quit: alket: Quit: Konversation terminated!
+[2016/01/13 18:08:17] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/13 18:14:46] @ irungentoo joined channel #supertux
