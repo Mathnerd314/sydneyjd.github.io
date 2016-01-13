@@ -43576,3 +43576,9 @@
 [2016/01/13 12:56:14] <Tobbi> So, if they do that, I may do that as well.
 [2016/01/13 13:04:50] @ Karkus joined channel #supertux
 [2016/01/13 13:04:50] @ Mode +o Karkus by ChanServ
+[2016/01/13 13:15:12] @ claymore2 joined channel #supertux
+[2016/01/13 13:15:17] <pentagon> [10supertux] Status for commit Mr.Tree and Snowman now kill-fall on butt-jump by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/102146340
+[2016/01/13 13:16:26] @ Quit: Karkus: Ping timeout: 256 seconds
+[2016/01/13 13:18:21] @ Quit: xet7: Ping timeout: 260 seconds
+[2016/01/13 13:28:28] @ Karkus joined channel #supertux
+[2016/01/13 13:28:28] @ Mode +o Karkus by ChanServ
