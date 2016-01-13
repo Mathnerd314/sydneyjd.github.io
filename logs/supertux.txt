@@ -43451,3 +43451,4 @@
 [2016/01/13 09:09:52] <pentagon> [10supertux] 07maxteufel edited wiki page 09TODO 13https://github.com/SuperTux/supertux/wiki/TODO
 [2016/01/13 09:13:07] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/13 09:20:58] <head8debian> So what? :D
+[2016/01/13 10:01:22] @ lumidify joined channel #supertux
