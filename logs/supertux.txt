@@ -43384,3 +43384,5 @@
 [2016/01/13 05:44:32] @ Tobbi joined channel #supertux
 [2016/01/13 05:44:32] @ Mode +o Tobbi by ChanServ
 [2016/01/13 06:09:24] @ Quit: xet7: Quit: Leaving
+[2016/01/13 06:15:03] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/13 06:23:17] @ xet7 joined channel #supertux
