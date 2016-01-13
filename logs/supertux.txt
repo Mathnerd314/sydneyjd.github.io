@@ -43501,3 +43501,22 @@
 [2016/01/13 11:58:45] <Tobbi> What's the tinygettext issue?
 [2016/01/13 11:59:04] <Hume2> There's a werror in it.
 [2016/01/13 11:59:48] <Tobbi> ah, okay.
+[2016/01/13 12:02:51] <Tobbi> mt: Did you add support for stars inside pentagon?
+[2016/01/13 12:04:37] <mt> no
+[2016/01/13 12:06:40] @ Quit: datahead7777: Ping timeout: 250 seconds
+[2016/01/13 12:07:48] <pentagon> [10supertux] 07brmbrmcar opened pull request 09#329: Fix annoying bold text in credits I caused 13https://github.com/SuperTux/supertux/pull/329
+[2016/01/13 12:08:18] <mt> Tobbi: do you have an example of what notifico wrote?
+[2016/01/13 12:08:42] <Tobbi> mt: One moment.
+[2016/01/13 12:09:16] <Tobbi> mt: [2015/12/25 16:28:23] <Not-e81f> [02supertux] 07boaglio starred 03supertux - 13http://git.io/vEV3b
+[2016/01/13 12:10:30] <Hume2> Brmbrmcar learned [ci skip], hmmmm...
+[2016/01/13 12:12:49] <mt> Tobbi: you should be able to enable the watch event now
+[2016/01/13 12:12:57] <Tobbi> Okay, let's see...
+[2016/01/13 12:13:01] <mt> that's the "starred" event in the API
+[2016/01/13 12:13:04] <Tobbi> Hume2: What? That's a first.
+[2016/01/13 12:13:04] <mt> also pls test it
+[2016/01/13 12:13:22] <Tobbi> mt: You mean starred, right?
+[2016/01/13 12:13:26] <Tobbi> Or did you mean watched?
+[2016/01/13 12:13:47] <mt> starred is "watch" in the API
+[2016/01/13 12:13:56] <Tobbi> ok.
+[2016/01/13 12:14:17] <mt> https://developer.github.com/changes/2012-09-05-watcher-api/
+[2016/01/13 12:14:57] <Tobbi> let's see...
