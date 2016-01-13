@@ -43548,3 +43548,14 @@
 [2016/01/13 12:24:11] <Hume2> Right, mt.
 [2016/01/13 12:24:16] <mt> also, probably because (bad) choices in the past
 [2016/01/13 12:27:37] @ Quit: brmbrmcar: Quit: Found terminal
+[2016/01/13 12:37:52] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/13 12:42:32] <mt> https://gnupg.org/share/traueranzeige-g10_v2015.png :D
+[2016/01/13 12:42:36] <mt> +1
+[2016/01/13 12:43:09] @ Tobbi joined channel #supertux
+[2016/01/13 12:43:09] @ Mode +o Tobbi by ChanServ
+[2016/01/13 12:43:41] <mt> Tobbi: 18:42:32 <@mt> https://gnupg.org/share/traueranzeige-g10_v2015.png :D
+[2016/01/13 12:44:02] <Tobbi> uh?
+[2016/01/13 12:44:11] <mt> I just saw that
+[2016/01/13 12:44:24] <mt> "Fernmeldegeheimnis"
+[2016/01/13 12:44:51] <Tobbi> Ah yes.
+[2016/01/13 12:44:53] <mt> It's on the bottom of gnupg.org
