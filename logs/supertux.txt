@@ -43520,3 +43520,31 @@
 [2016/01/13 12:13:56] <Tobbi> ok.
 [2016/01/13 12:14:17] <mt> https://developer.github.com/changes/2012-09-05-watcher-api/
 [2016/01/13 12:14:57] <Tobbi> let's see...
+[2016/01/13 12:15:09] <pentagon> [10supertux] 07tobbi starred 09supertux - 13https://github.com/tobbi
+[2016/01/13 12:15:14] <Tobbi> Yes!
+[2016/01/13 12:18:01] <mt> for some reason it doesn't shorten the URL
+[2016/01/13 12:18:01] <mt> but it works
+[2016/01/13 12:18:44] @ brmbrmcar joined channel #supertux
+[2016/01/13 12:19:11] <mt> actually, Tobbi, your `*.stl text` change made it fix line endings anyway
+[2016/01/13 12:19:18] <Tobbi> :D
+[2016/01/13 12:19:23] <Tobbi> mt: But only for stl files, right?
+[2016/01/13 12:19:28] <mt> yes
+[2016/01/13 12:19:34] <Tobbi> mt: Do we need other files fixed?
+[2016/01/13 12:19:43] <mt> I don't think so
+[2016/01/13 12:19:46] <mt> I wonder
+[2016/01/13 12:19:56] <mt> if you can `*.stl text diff=astextplain`
+[2016/01/13 12:19:58] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://github.com/SuperTux/supertux/compare/719d0350659e...21cf25665ea2
+[2016/01/13 12:20:04] <pentagon> [10supertux] 07brmbrmcar 1421cf256 Fix annoying bold text in credits I caused
+[2016/01/13 12:20:37] <pentagon> [10supertux] 07Hume2 commented on issue 09#329: Fix annoying bold text in credits I caused 13https://github.com/SuperTux/supertux/pull/329
+[2016/01/13 12:20:46] <pentagon> [10supertux] 07Hume2 closed pull request 09#329: Fix annoying bold text in credits I caused 13https://github.com/SuperTux/supertux/pull/329
+[2016/01/13 12:20:57] <mt> huh
+[2016/01/13 12:21:03] <mt> it stopped shortening all urls
+[2016/01/13 12:21:06] <mt> but also before
+[2016/01/13 12:21:33] <mt> Jan 13 18:20:46 fornax supybot[15833]: ERROR 2016-01-13T18:20:46 Cannot connect to git.io: list index out of range (https://github.com/SuperTux/supertux.git)
+[2016/01/13 12:21:56] <brmbrmcar> Why does it need a space before it anyway? (#329)
+[2016/01/13 12:22:32] <mt> brmbrmcar: because of the way it's being formatted
+[2016/01/13 12:23:34] <brmbrmcar> mt: Yes, but why is it formatted in that particular way? Would changing it mess it up?
+[2016/01/13 12:24:01] <mt> I think the levels also use that text formatting
+[2016/01/13 12:24:11] <Hume2> Right, mt.
+[2016/01/13 12:24:16] <mt> also, probably because (bad) choices in the past
+[2016/01/13 12:27:37] @ Quit: brmbrmcar: Quit: Found terminal
