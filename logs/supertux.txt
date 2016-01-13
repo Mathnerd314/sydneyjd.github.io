@@ -43363,3 +43363,4 @@
 [2016/01/12 22:57:14] <maths22> ~note grumbel Can you confirm that anchor_points.hpp, floating_image.hpp, functions.hpp, and level.hpp don't need changing?
 [2016/01/12 22:57:14] <red_bot> fine, maths22
 [2016/01/12 23:17:01] @ tuxdev_ joined channel #supertux
+[2016/01/12 23:36:28] @ Quit: irungentoo: Ping timeout: 256 seconds
