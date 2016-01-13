@@ -43359,3 +43359,4 @@
 [2016/01/12 21:09:07] @ Quit: grumbel: Quit: Ex-Chat
 [2016/01/12 21:51:45] @ irungentoo joined channel #supertux
 [2016/01/12 21:56:00] @ Quit: jesusalva: Quit: Good bye, God bless you.
+[2016/01/12 22:00:08] <polyphagia> i want to investigate performance
