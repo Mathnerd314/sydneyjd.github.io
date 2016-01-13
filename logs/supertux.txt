@@ -43448,3 +43448,5 @@
 [2016/01/13 08:59:00] <jesusalva> Hey, It's really close! :)
 [2016/01/13 08:59:05] <Tobbi> 13 days.
 [2016/01/13 08:59:05] <Tobbi> :D
+[2016/01/13 09:09:52] <pentagon> [10supertux] 07maxteufel edited wiki page 09TODO 13https://github.com/SuperTux/supertux/wiki/TODO
+[2016/01/13 09:13:07] @ Quit: Tobbi: Remote host closed the connection
