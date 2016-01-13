@@ -43375,3 +43375,4 @@
 [2016/01/13 01:04:16] @ ced117 joined channel #supertux
 [2016/01/13 01:20:47] @ Quit: ced117: Quit: IRC for Sailfish 0.9
 [2016/01/13 01:49:35] @ lumidify joined channel #supertux
+[2016/01/13 02:04:17] @ Quit: lumidify: Ping timeout: 276 seconds
