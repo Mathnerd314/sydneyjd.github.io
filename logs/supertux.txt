@@ -43634,3 +43634,5 @@
 [2016/01/13 16:21:12] @ Karkus joined channel #supertux
 [2016/01/13 16:21:12] @ Mode +o Karkus by ChanServ
 [2016/01/13 16:26:16] @ brmbrmcar left channel #supertux ()
+[2016/01/13 16:34:16] @ Quit: claymore2: Quit: Leaving
+[2016/01/13 16:38:38] @ Quit: bb010g: Quit: Connection closed for inactivity
