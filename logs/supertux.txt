@@ -43341,3 +43341,9 @@
 [2016/01/12 19:07:56] <maths22> grumbel: I have modified all the ones you updated today
 [2016/01/12 19:08:33] <maths22> I assume all the other scripted objects (for example Thunderstorm) also need updating?
 [2016/01/12 19:09:51] <grumbel> yep, all the ones in wrapper.interface.hpp
+[2016/01/12 19:19:55] @ Quit: alket: Quit: Konversation terminated!
+[2016/01/12 19:23:16] @ jesusalva joined channel #supertux
+[2016/01/12 19:23:28] <jesusalva> Hello!
+[2016/01/12 19:23:30] @ jesusalva is now known as testII
+[2016/01/12 19:23:46] @ testII left channel #supertux ()
+[2016/01/12 19:24:05] <maths22> ok
