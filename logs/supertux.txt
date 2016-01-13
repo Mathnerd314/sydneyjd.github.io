@@ -43647,3 +43647,5 @@
 [2016/01/13 18:08:17] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/13 18:14:46] @ irungentoo joined channel #supertux
 [2016/01/13 18:29:14] @ Quit: tuxdev_: Ping timeout: 256 seconds
+[2016/01/13 18:44:24] @ maths22_ joined channel #supertux
+[2016/01/13 18:44:25] @ Quit: maths22_: Client Quit
