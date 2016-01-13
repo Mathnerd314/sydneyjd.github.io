@@ -43347,3 +43347,8 @@
 [2016/01/12 19:23:30] @ jesusalva is now known as testII
 [2016/01/12 19:23:46] @ testII left channel #supertux ()
 [2016/01/12 19:24:05] <maths22> ok
+[2016/01/12 20:11:18] @ jesusalva joined channel #supertux
+[2016/01/12 20:11:22] <jesusalva> Hello!
+[2016/01/12 20:13:01] <head8debian> https://www.debian.org/News/2016/20160105
+[2016/01/12 20:13:44] <head8debian> Hey jesusalva.
+[2016/01/12 20:13:44] <jesusalva> Hi head8debian
