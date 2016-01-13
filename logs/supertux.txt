@@ -43397,3 +43397,31 @@
 [2016/01/13 08:29:13] <jesusalva> Haha!
 [2016/01/13 08:29:18] <jesusalva> ;)
 [2016/01/13 08:29:19] <mt> especially if you just left 3 minutes before
+[2016/01/13 08:30:14] <jesusalva> I know, but my IRC client doesn't know that. u_u
+[2016/01/13 08:31:02] <mt> that's automated?
+[2016/01/13 08:31:52] <jesusalva> It would be too boring to say 'Hello' on every channel, but I already found some implementation errors which I'm studying to fiz.
+[2016/01/13 08:31:54] <jesusalva> *fix
+[2016/01/13 08:32:04] <jesusalva> By example, that, which you pointed above,
+[2016/01/13 08:32:07] @ Tobbi joined channel #supertux
+[2016/01/13 08:32:07] @ Mode +o Tobbi by ChanServ
+[2016/01/13 08:32:30] <jesusalva> and another minor issue which I say 'Hello' twice on a certain channel and I must fix it.
+[2016/01/13 08:32:39] <mt> jesusalva: you should really disable that
+[2016/01/13 08:32:49] <mt> most channels do not like that kind of automated message
+[2016/01/13 08:33:03] <jesusalva> I know, but I'm not in most of channels.
+[2016/01/13 08:33:36] <jesusalva> As I said, I must think in a way to don't repeat it if I was on the channel on the last 15 minutes.
+[2016/01/13 08:33:48] <jesusalva> so it only covers day-by-day logins.
+[2016/01/13 08:33:50] <mt> well, I don't like it
+[2016/01/13 08:34:01] <jesusalva> mt: I noticed. >.>
+[2016/01/13 08:34:33] @ Mode -q *!*@unaffiliated/supermat/bot/netbot by mt
+[2016/01/13 08:35:53] <mt> you can do it if you make sure it doesn't spam it (probably only once every, say, 6-12 hours)
+[2016/01/13 08:36:15] <jesusalva> Yes, you're probably right
+[2016/01/13 08:36:25] <jesusalva> Except I'm still learning KVS. u_u
+[2016/01/13 08:36:32] <Tobbi> KVS?
+[2016/01/13 08:36:42] <jesusalva> I can't even disable it on channel X, so I'm doing a little more study.
+[2016/01/13 08:36:53] <jesusalva> Tobbi: KVirc Scrippting.
+[2016/01/13 08:36:56] <Tobbi> ok
+[2016/01/13 08:37:16] <jesusalva> Supposed to be an easier and more flexible language for IRC.
+[2016/01/13 08:39:03] <mt> I don't like client-specific languages
+[2016/01/13 08:39:14] <mt> they have absolutely no use for other purposes
+[2016/01/13 08:40:21] <mt> WeeChat supports scripting in Python, Perl, Ruby, TCL, Guile/Scheme, Lua, JavaScript and everything else you're able to add as a plugin
+[2016/01/13 08:40:51] <jesusalva> Well, KVS is compatible with Python and Perl, but I like KVS enough.
