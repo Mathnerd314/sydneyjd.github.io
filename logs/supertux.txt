@@ -43376,3 +43376,5 @@
 [2016/01/13 01:20:47] @ Quit: ced117: Quit: IRC for Sailfish 0.9
 [2016/01/13 01:49:35] @ lumidify joined channel #supertux
 [2016/01/13 02:04:17] @ Quit: lumidify: Ping timeout: 276 seconds
+[2016/01/13 02:49:24] @ Quit: tuxdev_: Ping timeout: 250 seconds
+[2016/01/13 02:58:39] @ Quit: bb010g: Quit: Connection closed for inactivity
