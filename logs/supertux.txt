@@ -43608,3 +43608,25 @@
 [2016/01/13 15:44:46] <maths22_> How did you guess?
 [2016/01/13 15:44:54] <polyphagia> it's your username, and i just did /version
 [2016/01/13 15:44:56] <polyphagia> :P
+[2016/01/13 15:45:42] <maths22_> I didn't know /version was a thing
+[2016/01/13 15:45:49] <polyphagia> CTCP reply from maths22_: VERSION Quassel IRC v0.12.2 (dist-9c5e6c6) (built on Jan 13 2016 15:17:26) -- http://www.quassel-irc.org
+[2016/01/13 15:45:51] <polyphagia> yeah
+[2016/01/13 15:46:09] <polyphagia> you must be on a bleeding edge distro or just built it yourself :P
+[2016/01/13 15:46:15] <maths22_> Fedora
+[2016/01/13 15:46:25] @ swift110 joined channel #supertux
+[2016/01/13 15:46:25] @ Quit: swift110: Remote host closed the connection
+[2016/01/13 15:46:27] <maths22_> Server is running on freebsd though, and it is in ports
+[2016/01/13 15:46:39] @ swift110 joined channel #supertux
+[2016/01/13 15:46:42] <polyphagia> oh cool
+[2016/01/13 15:46:46] <polyphagia> one thing i found really cool about freebsd
+[2016/01/13 15:46:54] <polyphagia> in some tools, you can send ^T
+[2016/01/13 15:47:18] <polyphagia> to get status information. like in dd for instance, while it's running ^T will trigger it to give you periodical status messages about how much it's copied
+[2016/01/13 15:47:40] <polyphagia> this can be used in quite a bit of the core utils in freebsd, but not found in GNU at all
+[2016/01/13 15:48:41] <polyphagia> yeah fedora is a cool distro too maths22_! always pushing the latest stuff well
+[2016/01/13 15:48:42] <polyphagia> like wayland
+[2016/01/13 15:48:44] <polyphagia> :D
+[2016/01/13 15:48:53] <polyphagia> i hear it's going to be default
+[2016/01/13 15:51:58] <maths22> I now have quassel running through irssi
+[2016/01/13 15:52:05] <maths22> (I have irssi set up as a proxy)
+[2016/01/13 15:52:08] @ Quit: maths22_: Quit: http://quassel-irc.org - Chat comfortably. Anywhere.
+[2016/01/13 15:56:18] @ Quit: swift110: Ping timeout: 265 seconds
