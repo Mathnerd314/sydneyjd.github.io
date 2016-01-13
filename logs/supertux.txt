@@ -43388,3 +43388,5 @@
 [2016/01/13 06:23:17] @ xet7 joined channel #supertux
 [2016/01/13 07:44:01] @ grumbel joined channel #supertux
 [2016/01/13 07:44:01] @ Mode +o grumbel by ChanServ
+[2016/01/13 07:52:02] @ jesusalva joined channel #supertux
+[2016/01/13 07:52:34] <jesusalva> Hello!
