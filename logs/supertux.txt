@@ -43338,3 +43338,6 @@
 [2016/01/12 18:54:27] <maths22> grumbel: I thought so, but wanted to check
 [2016/01/12 18:55:26] <grumbel> not sure if BEGIN_SCRIPT; or BEGIN_SCRIPT(); is better
 [2016/01/12 18:56:53] <maths22> Probably with parenthesis
+[2016/01/12 19:07:56] <maths22> grumbel: I have modified all the ones you updated today
+[2016/01/12 19:08:33] <maths22> I assume all the other scripted objects (for example Thunderstorm) also need updating?
+[2016/01/12 19:09:51] <grumbel> yep, all the ones in wrapper.interface.hpp
