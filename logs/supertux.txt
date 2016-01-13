@@ -43559,3 +43559,18 @@
 [2016/01/13 12:44:24] <mt> "Fernmeldegeheimnis"
 [2016/01/13 12:44:51] <Tobbi> Ah yes.
 [2016/01/13 12:44:53] <mt> It's on the bottom of gnupg.org
+[2016/01/13 12:45:08] <Tobbi> What happened on December 18?
+[2016/01/13 12:45:53] <mt> Vorratsdatenspeicherung-related, probably
+[2016/01/13 12:46:28] <Tobbi> Possibly.
+[2016/01/13 12:47:13] <Tobbi> haha, if someone else reads this, they might think something like "Vorratsdatenspeicherung, Vorratsdatenspeicherung, who the fuck is Vorratsdatenspeicherung"
+[2016/01/13 12:47:39] <mt> "Ein neues Gesetz zur Vorratsdatenspeicherung wurde in Deutschland im Oktober 2015 verabschiedet[10][11] und ist am 18. Dezember 2015[12] in Kraft getreten."
+[2016/01/13 12:47:47] <mt> [https://de.wikipedia.org/wiki/Vorratsdatenspeicherung]
+[2016/01/13 12:48:17] <Tobbi> mt: Oh, c'mon. I know.
+[2016/01/13 12:54:13] <head8debian> o_O
+[2016/01/13 12:54:26] <head8debian> Tobbi: You used the F word...
+[2016/01/13 12:54:50] <Tobbi> head8debian: I was quoting. In the context of art many things are allowed...
+[2016/01/13 12:55:01] <head8debian> ...
+[2016/01/13 12:55:12] * head8debian is not impressed...
+[2016/01/13 12:55:42] <Tobbi> head8debian: No wonder, you're not a newspaper..
+[2016/01/13 12:56:05] <Tobbi> head8debian: Honestly, someone must've used the word to tell you not to use it...
+[2016/01/13 12:56:14] <Tobbi> So, if they do that, I may do that as well.
