@@ -43456,3 +43456,4 @@
 [2016/01/13 10:36:26] <mt> brmbrmcar: and?
 [2016/01/13 10:39:59] <brmbrmcar> mt: Nothing.
 [2016/01/13 10:40:12] <brmbrmcar> It just missed its birthday.
+[2016/01/13 11:11:28] @ brmbrmcar left channel #supertux ()
