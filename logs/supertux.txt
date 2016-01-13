@@ -43472,3 +43472,32 @@
 [2016/01/13 11:37:59] <Karkus> Hello, Hume2
 [2016/01/13 11:42:42] <Hume2> Karkus: What do you think about this? https://github.com/SuperTux/supertux/issues/324
 [2016/01/13 11:43:34] <Karkus> Hume2: Sure, go ahead :)
+[2016/01/13 11:50:03] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://github.com/SuperTux/supertux/compare/9904f15f7f7b...4cc832aeacbf
+[2016/01/13 11:50:08] <pentagon> [10supertux] 07Hume2 144cc832a Mr.Tree and Snowman now kill-fall on butt-jump
+[2016/01/13 11:50:11] @ Quit: Karkus: Ping timeout: 246 seconds
+[2016/01/13 11:50:19] <Tobbi> :D
+[2016/01/13 11:50:33] <pentagon> [10supertux] 07Hume2 commented on issue 09#324: Butt jumping should do more damage to certain enemies 13https://github.com/SuperTux/supertux/issues/324
+[2016/01/13 11:50:36] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://github.com/SuperTux/supertux/compare/4cc832aeacbf...719d0350659e
+[2016/01/13 11:50:44] <pentagon> [10supertux] 07tobbi 14719d035 Add gitattributes file
+[2016/01/13 11:52:17] <Tobbi> I'm trying to get github to display stl files as text.
+[2016/01/13 11:52:55] <mt> btw, we could use .gitattributes to make git change \r\n to \n without user interaction
+[2016/01/13 11:53:17] <Tobbi> mt: Actually, that could work.
+[2016/01/13 11:53:21] <Tobbi> And seems easier...
+[2016/01/13 11:53:27] <Tobbi> mt: Can you do the modifications?
+[2016/01/13 11:53:52] <Tobbi> At the same time, you can remove my hack...
+[2016/01/13 11:54:03] <mt> your hack?
+[2016/01/13 11:54:17] <Tobbi> mt: My previous commit, because it doesn't work :D
+[2016/01/13 11:54:26] <Tobbi> Github still treats supertux level files as binary.
+[2016/01/13 11:54:30] <Tobbi> and tries to render them.
+[2016/01/13 11:54:58] <Tobbi> because https://en.wikipedia.org/wiki/STL_%28file_format%29
+[2016/01/13 11:55:00] <mt> ask their support to add support for that
+[2016/01/13 11:55:07] <Tobbi> mt: Maybe I should.
+[2016/01/13 11:55:10] <mt> I know about STL
+[2016/01/13 11:55:21] <Tobbi> ah okay.
+[2016/01/13 11:55:24] <Tobbi> I have never used that.
+[2016/01/13 11:56:52] <pentagon> [10supertux] Status for commit Mr.Tree and Snowman now kill-fall on butt-jump by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/291
+[2016/01/13 11:57:17] <Hume2> Still that tinygettext issue I think.
+[2016/01/13 11:57:53] <Hume2> Yeah.
+[2016/01/13 11:58:45] <Tobbi> What's the tinygettext issue?
+[2016/01/13 11:59:04] <Hume2> There's a werror in it.
+[2016/01/13 11:59:48] <Tobbi> ah, okay.
