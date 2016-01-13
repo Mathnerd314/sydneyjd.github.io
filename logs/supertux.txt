@@ -43591,3 +43591,10 @@
 [2016/01/13 15:11:12] @ datahead8888 joined channel #supertux
 [2016/01/13 15:11:24] @ datahead8888 is now known as datahead7777
 [2016/01/13 15:12:05] @ Quit: swift110: Ping timeout: 276 seconds
+[2016/01/13 15:21:38] @ maths22_ joined channel #supertux
+[2016/01/13 15:21:47] @ Quit: maths22_: Changing host
+[2016/01/13 15:21:47] @ maths22_ joined channel #supertux
+[2016/01/13 15:21:47] @ Mode +v maths22_ by ChanServ
+[2016/01/13 15:24:11] @ Quit: Karkus: Ping timeout: 264 seconds
+[2016/01/13 15:25:56] @ Karkus joined channel #supertux
+[2016/01/13 15:25:56] @ Mode +o Karkus by ChanServ
