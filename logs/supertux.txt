@@ -43585,3 +43585,6 @@
 [2016/01/13 13:33:37] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/13 13:54:02] @ swift110 joined channel #supertux
 [2016/01/13 14:20:39] @ bb010g joined channel #supertux
+[2016/01/13 14:31:53] @ Quit: Hume2: Quit: Page closed
+[2016/01/13 14:37:09] @ Quit: jesusalva: Ping timeout: 246 seconds
+[2016/01/13 14:37:35] @ alket joined channel #supertux
