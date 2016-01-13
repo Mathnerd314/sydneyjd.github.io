@@ -43452,3 +43452,7 @@
 [2016/01/13 09:13:07] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/13 09:20:58] <head8debian> So what? :D
 [2016/01/13 10:01:22] @ lumidify joined channel #supertux
+[2016/01/13 10:35:36] <brmbrmcar> This channel is now over 13 years old.
+[2016/01/13 10:36:26] <mt> brmbrmcar: and?
+[2016/01/13 10:39:59] <brmbrmcar> mt: Nothing.
+[2016/01/13 10:40:12] <brmbrmcar> It just missed its birthday.
