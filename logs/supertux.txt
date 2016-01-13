@@ -43640,3 +43640,4 @@
 [2016/01/13 16:50:30] @ Quit: datahead7777: Ping timeout: 250 seconds
 [2016/01/13 16:59:49] @ Tobbi joined channel #supertux
 [2016/01/13 16:59:50] @ Mode +o Tobbi by ChanServ
+[2016/01/13 17:11:02] @ Quit: datahead8888: Quit: Leaving
