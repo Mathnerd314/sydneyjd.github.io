@@ -43381,3 +43381,5 @@
 [2016/01/13 03:14:27] @ Quit: brmbrmcar: Ping timeout: 260 seconds
 [2016/01/13 03:16:24] @ brmbrmcar joined channel #supertux
 [2016/01/13 04:28:52] @ Quit: stewboy: Read error: Connection reset by peer
+[2016/01/13 05:44:32] @ Tobbi joined channel #supertux
+[2016/01/13 05:44:32] @ Mode +o Tobbi by ChanServ
