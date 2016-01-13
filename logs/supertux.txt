@@ -43574,3 +43574,5 @@
 [2016/01/13 12:55:42] <Tobbi> head8debian: No wonder, you're not a newspaper..
 [2016/01/13 12:56:05] <Tobbi> head8debian: Honestly, someone must've used the word to tell you not to use it...
 [2016/01/13 12:56:14] <Tobbi> So, if they do that, I may do that as well.
+[2016/01/13 13:04:50] @ Karkus joined channel #supertux
+[2016/01/13 13:04:50] @ Mode +o Karkus by ChanServ
