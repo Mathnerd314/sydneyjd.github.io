@@ -43584,3 +43584,4 @@
 [2016/01/13 13:28:28] @ Mode +o Karkus by ChanServ
 [2016/01/13 13:33:37] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/13 13:54:02] @ swift110 joined channel #supertux
+[2016/01/13 14:20:39] @ bb010g joined channel #supertux
