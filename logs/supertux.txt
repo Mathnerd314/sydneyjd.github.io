@@ -43598,3 +43598,13 @@
 [2016/01/13 15:24:11] @ Quit: Karkus: Ping timeout: 264 seconds
 [2016/01/13 15:25:56] @ Karkus joined channel #supertux
 [2016/01/13 15:25:56] @ Mode +o Karkus by ChanServ
+[2016/01/13 15:36:53] @ ced117 joined channel #supertux
+[2016/01/13 15:36:58] @ Quit: Karkus: Ping timeout: 265 seconds
+[2016/01/13 15:41:40] <maths22_> Hello!  (Testing a new client)
+[2016/01/13 15:44:26] <polyphagia> hi maths22_
+[2016/01/13 15:44:27] <polyphagia> which
+[2016/01/13 15:44:30] <polyphagia> quassel?
+[2016/01/13 15:44:42] <maths22_> polyphagia: Indeed.
+[2016/01/13 15:44:46] <maths22_> How did you guess?
+[2016/01/13 15:44:54] <polyphagia> it's your username, and i just did /version
+[2016/01/13 15:44:56] <polyphagia> :P
