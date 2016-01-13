@@ -43360,3 +43360,5 @@
 [2016/01/12 21:51:45] @ irungentoo joined channel #supertux
 [2016/01/12 21:56:00] @ Quit: jesusalva: Quit: Good bye, God bless you.
 [2016/01/12 22:00:08] <polyphagia> i want to investigate performance
+[2016/01/12 22:57:14] <maths22> ~note grumbel Can you confirm that anchor_points.hpp, floating_image.hpp, functions.hpp, and level.hpp don't need changing?
+[2016/01/12 22:57:14] <red_bot> fine, maths22
