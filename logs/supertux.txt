@@ -43325,3 +43325,16 @@
 [2016/01/12 18:38:24] <maths22> Sounds reasonable to me
 [2016/01/12 18:39:28] <maths22> Why do we put a person's name in the copyright header at the top of the source files?
 [2016/01/12 18:41:20] <maths22> Stylistically, should a macro be followed by a semicolon when it is invoked?
+[2016/01/12 18:46:54] @ jesusalva joined channel #supertux
+[2016/01/12 18:47:54] @ Jesusaves joined channel #supertux
+[2016/01/12 18:48:07] <Jesusaves> Hello!
+[2016/01/12 18:48:32] @ Quit: jesusalva: Client Quit
+[2016/01/12 18:49:29] @ Jesusaves is now known as testII
+[2016/01/12 18:50:28] <maths22> In theory, aren't all the scripted objects vulnerable?
+[2016/01/12 18:53:04] <grumbel> maths22: name at the top of the file is good to keep track about copyright when files move between projects, not so important in a single project where you have git history
+[2016/01/12 18:53:18] @ testII left channel #supertux ("See you guys later.")
+[2016/01/12 18:53:57] <maths22> Makes sense
+[2016/01/12 18:54:10] <grumbel> maths22: semicolon at the end of the macro, as otherwise auto-indention breaks
+[2016/01/12 18:54:27] <maths22> grumbel: I thought so, but wanted to check
+[2016/01/12 18:55:26] <grumbel> not sure if BEGIN_SCRIPT; or BEGIN_SCRIPT(); is better
+[2016/01/12 18:56:53] <maths22> Probably with parenthesis
