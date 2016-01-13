@@ -43641,3 +43641,5 @@
 [2016/01/13 16:59:49] @ Tobbi joined channel #supertux
 [2016/01/13 16:59:50] @ Mode +o Tobbi by ChanServ
 [2016/01/13 17:11:02] @ Quit: datahead8888: Quit: Leaving
+[2016/01/13 17:35:54] @ tuxdev_ joined channel #supertux
+[2016/01/13 17:37:24] @ Quit: Karkus: Ping timeout: 264 seconds
