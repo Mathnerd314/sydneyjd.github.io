@@ -43364,3 +43364,10 @@
 [2016/01/12 22:57:14] <red_bot> fine, maths22
 [2016/01/12 23:17:01] @ tuxdev_ joined channel #supertux
 [2016/01/12 23:36:28] @ Quit: irungentoo: Ping timeout: 256 seconds
+[2016/01/12 23:52:40] @ Joined channel #supertux
+[2016/01/12 23:52:40] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/01/12 23:52:40] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
+[2016/01/12 23:52:52] @ Mode +Cnptj 5:10 by asimov.freenode.net
+[2016/01/12 23:53:08] @ Mode +o red_bot by ChanServ
+[2016/01/12 23:53:20] @ head8debian joined channel #supertux
+[2016/01/12 23:53:20] @ Mode +o head8debian by ChanServ
