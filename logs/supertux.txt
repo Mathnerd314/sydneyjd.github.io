@@ -43425,3 +43425,26 @@
 [2016/01/13 08:39:14] <mt> they have absolutely no use for other purposes
 [2016/01/13 08:40:21] <mt> WeeChat supports scripting in Python, Perl, Ruby, TCL, Guile/Scheme, Lua, JavaScript and everything else you're able to add as a plugin
 [2016/01/13 08:40:51] <jesusalva> Well, KVS is compatible with Python and Perl, but I like KVS enough.
+[2016/01/13 08:48:40] <Tobbi> Why does coverity suck so much currently?
+[2016/01/13 08:48:59] <Tobbi> The build is still "analyzing".
+[2016/01/13 08:49:09] <mt> because they don't care about their free users anymore
+[2016/01/13 08:49:18] <Tobbi> mt: Is that so?
+[2016/01/13 08:49:45] <mt> well, I guess so if it's still "analyzing"
+[2016/01/13 08:49:58] <mt> after how many days? almost a week?
+[2016/01/13 08:50:25] <Tobbi> mt: I don't know. I think I triggered a new build in the mean time.
+[2016/01/13 08:51:09] <Tobbi> mt: Last commit on coverity scan was 3 days ago...
+[2016/01/13 08:51:14] <Tobbi> So, yeah, after 3 days.
+[2016/01/13 08:53:03] <mt> still seems way too long for it to be reliable
+[2016/01/13 08:53:06] <Tobbi> head8debian: How can you dislike google when they almost offered me a job? :P
+[2016/01/13 08:53:49] <jesusalva> Tobbi: I remember you being pessimistic about the odds of google contacting you. :P
+[2016/01/13 08:54:01] <Tobbi> jesusalva: They did contact me 7 months ago.
+[2016/01/13 08:54:13] <Tobbi> Though they didn't accept me based on my CV.
+[2016/01/13 08:54:26] <Tobbi> And I'm almost glad. But now that my masters course doesn't really fulfill me...
+[2016/01/13 08:54:30] <Tobbi> You know...
+[2016/01/13 08:58:11] <jesusalva> Tobbi: How long to you make your 6th year anniversary on IRC? (Since you registered your account)
+[2016/01/13 08:58:28] <Tobbi> jesusalva: I don't know when my account was registered.
+[2016/01/13 08:58:50] <jesusalva> Tobbi: Jan 29 23:23:18 2010
+[2016/01/13 08:58:56] <Tobbi> ok.
+[2016/01/13 08:59:00] <jesusalva> Hey, It's really close! :)
+[2016/01/13 08:59:05] <Tobbi> 13 days.
+[2016/01/13 08:59:05] <Tobbi> :D
