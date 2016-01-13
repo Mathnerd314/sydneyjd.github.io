@@ -43357,3 +43357,5 @@
 [2016/01/12 20:39:29] <jesusalva> Hello!
 [2016/01/12 20:55:22] @ Quit: swift110: Ping timeout: 250 seconds
 [2016/01/12 21:09:07] @ Quit: grumbel: Quit: Ex-Chat
+[2016/01/12 21:51:45] @ irungentoo joined channel #supertux
+[2016/01/12 21:56:00] @ Quit: jesusalva: Quit: Good bye, God bless you.
