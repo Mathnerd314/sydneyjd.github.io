@@ -43466,3 +43466,9 @@
 [2016/01/13 11:23:42] <Hume2> Hello, Tobbi
 [2016/01/13 11:25:03] <Tobbi> Hey, Hume2
 [2016/01/13 11:29:04] @ Quit: lumidify: Quit: Leaving
+[2016/01/13 11:37:41] @ Karkus joined channel #supertux
+[2016/01/13 11:37:41] @ Mode +o Karkus by ChanServ
+[2016/01/13 11:37:53] <Hume2> Hello, Karkus
+[2016/01/13 11:37:59] <Karkus> Hello, Hume2
+[2016/01/13 11:42:42] <Hume2> Karkus: What do you think about this? https://github.com/SuperTux/supertux/issues/324
+[2016/01/13 11:43:34] <Karkus> Hume2: Sure, go ahead :)
