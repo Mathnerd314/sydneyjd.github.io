@@ -43630,3 +43630,4 @@
 [2016/01/13 15:52:05] <maths22> (I have irssi set up as a proxy)
 [2016/01/13 15:52:08] @ Quit: maths22_: Quit: http://quassel-irc.org - Chat comfortably. Anywhere.
 [2016/01/13 15:56:18] @ Quit: swift110: Ping timeout: 265 seconds
+[2016/01/13 16:10:25] @ brmbrmcar joined channel #supertux
