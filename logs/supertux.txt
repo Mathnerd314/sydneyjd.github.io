@@ -43457,3 +43457,12 @@
 [2016/01/13 10:39:59] <brmbrmcar> mt: Nothing.
 [2016/01/13 10:40:12] <brmbrmcar> It just missed its birthday.
 [2016/01/13 11:11:28] @ brmbrmcar left channel #supertux ()
+[2016/01/13 11:19:52] @ Hume2 joined channel #supertux
+[2016/01/13 11:19:52] @ Mode +v Hume2 by ChanServ
+[2016/01/13 11:20:48] <pentagon> [10supertux] 07Hume2 commented on issue 09#328: xgettext warnings 13https://github.com/SuperTux/supertux/issues/328
+[2016/01/13 11:20:52] <pentagon> [10supertux] 07Hume2 reopened issue 09#328: xgettext warnings 13https://github.com/SuperTux/supertux/issues/328
+[2016/01/13 11:23:09] @ Tobbi joined channel #supertux
+[2016/01/13 11:23:10] @ Mode +o Tobbi by ChanServ
+[2016/01/13 11:23:42] <Hume2> Hello, Tobbi
+[2016/01/13 11:25:03] <Tobbi> Hey, Hume2
+[2016/01/13 11:29:04] @ Quit: lumidify: Quit: Leaving
