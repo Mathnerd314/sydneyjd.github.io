@@ -43864,3 +43864,5 @@
 [2016/01/14 16:52:37] <jesusalva> Not sure. In fact, if I needed something, it's now long forgotten, u_u
 [2016/01/14 16:53:18] <head8debian> jesusalva: lol.
 [2016/01/14 17:10:38] @ Quit: stewboy: Read error: Connection reset by peer
+[2016/01/14 17:31:21] @ Quit: Karkus: Quit: Division By Zero
+[2016/01/14 17:39:19] <pentagon> [10supertux] 07Karkus476 commented on issue 09#303: Glitch/Bug in "A fork in the road". 13https://github.com/SuperTux/supertux/issues/303
