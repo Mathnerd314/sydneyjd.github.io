@@ -43738,3 +43738,45 @@
 [2016/01/14 11:14:14] <head8debian> jesusalva: Yes. stock install is very broken.
 [2016/01/14 11:14:45] <Tobbi> Who wants to install a Stock anyway.
 [2016/01/14 11:14:59] <jesusalva> Well, I must go now to buy a cake.
+[2016/01/14 11:15:05] <Tobbi> Oh, wait that only works in German.
+[2016/01/14 11:15:17] <Tobbi> "Wer will denn schon einen Stock installieren?"
+[2016/01/14 11:15:23] <jesusalva> The only bad part is that it cannot be chocolate, so umm, let's search a bit more. u_u
+[2016/01/14 11:15:59] <Tobbi> Did someone say chocolate? :D
+[2016/01/14 11:16:11] <Tobbi> head8debian: Can't you buy chocolate at a German store and then have it sent to me?
+[2016/01/14 11:16:16] <Tobbi> :D
+[2016/01/14 11:16:19] <Tobbi> Should be cheap.
+[2016/01/14 11:16:20] <Tobbi> :D
+[2016/01/14 11:16:22] <head8debian> o_O
+[2016/01/14 11:16:34] <Tobbi> :D
+[2016/01/14 11:16:34] <head8debian> Man, my system is doing odd things lately.
+[2016/01/14 11:16:42] <Tobbi> head8debian: better than even things, anyway.
+[2016/01/14 11:16:47] <head8debian> I may have to pull out the old desktop. Oh wait, no, i cannot.
+[2016/01/14 11:17:09] <head8debian> Weird...
+[2016/01/14 11:17:18] <Tobbi> No, a desktop isn't weird, it's wired.
+[2016/01/14 11:17:35] <head8debian> No, its weird why my system is acting weird.
+[2016/01/14 11:18:09] <head8debian> Sometimes it won't shut down fully, it says my USB ports are overcurrent, windows doesn't ever show anything wrong...
+[2016/01/14 11:18:17] <head8debian> Neither did debian8.
+[2016/01/14 11:19:02] <head8debian> mt: Debian already pushed a security fix.
+[2016/01/14 11:19:15] <head8debian> :D
+[2016/01/14 11:19:25] <head8debian> I should get on updating my computers.
+[2016/01/14 11:20:25] <Tobbi> Those 1024 you have.
+[2016/01/14 11:21:10] <Tobbi> Just to have 2^8 of them.
+[2016/01/14 11:22:16] <head8debian> Tobbi: Your humor is awfull today...
+[2016/01/14 11:22:57] <Tobbi> head8debian: It can't be so aweful when you can still misspell awful.
+[2016/01/14 11:23:13] <Tobbi> haha, shit, I did too.
+[2016/01/14 11:23:19] <head8debian> Tobbi: ...
+[2016/01/14 11:23:24] <Tobbi> *cough*, haha, *damn*, I did too.
+[2016/01/14 11:23:37] <head8debian> Tobbi: Shoot is much better than shi*
+[2016/01/14 11:23:59] <head8debian> Tobbi: Do you use google chrome or firefox?
+[2016/01/14 11:24:01] <Tobbi> head8debian: Your wildcard also matches shin.
+[2016/01/14 11:24:04] <Tobbi> head8debian: Nightlz.
+[2016/01/14 11:24:08] <Tobbi> *Nightly
+[2016/01/14 11:25:06] <head8debian> ?
+[2016/01/14 11:25:37] <head8debian> jesusalva: Is Tobbi making any sense to you?
+[2016/01/14 11:25:49] <Tobbi> head8debian: Nightly.
+[2016/01/14 11:26:16] <head8debian> Tobbi: And what is that?
+[2016/01/14 11:26:24] <Tobbi> http://screencast.com/t/xr8vbPJhs
+[2016/01/14 11:26:27] <Tobbi> head8debian: ^^
+[2016/01/14 11:26:51] <head8debian> Tobbi: Ah, fun.
+[2016/01/14 11:26:56] <head8debian> Tobbi: Say Firefox nightly.
+[2016/01/14 11:27:41] <Tobbi> head8debian: No. That wouldn't have been as mystic.
