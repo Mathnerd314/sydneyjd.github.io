@@ -43854,3 +43854,4 @@
 [2016/01/14 16:03:07] @ Quit: Tobbi: 
 [2016/01/14 16:05:01] @ Quit: alket: Remote host closed the connection
 [2016/01/14 16:05:29] @ alket joined channel #supertux
+[2016/01/14 16:26:23] @ stewboy joined channel #supertux
