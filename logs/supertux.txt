@@ -43697,3 +43697,44 @@
 [2016/01/14 10:09:08] @ Quit: lumidify: Quit: Leaving
 [2016/01/14 10:28:15] @ jesusalva joined channel #supertux
 [2016/01/14 10:28:36] <jesusalva> Hello!
+[2016/01/14 11:03:06] <head8debian> jesusalva: Heyo!
+[2016/01/14 11:03:41] <jesusalva> Hi
+[2016/01/14 11:04:16] <jesusalva> Good afternoon head8debian
+[2016/01/14 11:04:23] <jesusalva> Not so late today. Congratz ;)
+[2016/01/14 11:04:28] <head8debian> jesusalva: :D
+[2016/01/14 11:04:54] <head8debian> jesusalva: What are you up to?
+[2016/01/14 11:05:55] <jesusalva> Well, various things. Right now I'm managing staff (I mean 80 persons or more) on OGame, and as soon I'm done, I should help to advertise the return of #tmw-br to the other ex-players and Brazilians. ;)
+[2016/01/14 11:06:23] <jesusalva> Today there is no event on church. The rare day I don't leave home after 19:30. u_u
+[2016/01/14 11:07:04] <head8debian> jesusalva: Wow, im almost always at home. ;)
+[2016/01/14 11:07:37] <jesusalva> I spend a good deal of time in front of my PC -- err, laptop, due to laziness. '_'
+[2016/01/14 11:08:24] <head8debian> jesusalva: I usually find something to do thats profitable, at least in my opinion. :p
+[2016/01/14 11:09:03] <jesusalva> I have what? 499 books pending to read, from academic stuff to Christian Literature? :p
+[2016/01/14 11:09:19] <head8debian> Lately ive been pushing more and more tryign to find FLOSS software.
+[2016/01/14 11:09:21] <head8debian> :D
+[2016/01/14 11:09:37] <jesusalva> :)
+[2016/01/14 11:10:09] <head8debian> My latest find is Qupzilla, a web browser, and so far i have nothing but good to say about it.
+[2016/01/14 11:10:16] <head8debian> In my case its faster than chrome.
+[2016/01/14 11:10:20] <head8debian> :D
+[2016/01/14 11:10:49] <jesusalva> :D
+[2016/01/14 11:10:53] @ Tobbi joined channel #supertux
+[2016/01/14 11:10:53] @ Mode +o Tobbi by ChanServ
+[2016/01/14 11:11:10] <jesusalva> I don't like Chrome. I use it on my cellphone because it's built-in web browser isn't any better.
+[2016/01/14 11:11:28] <jesusalva> And because I have no space left to install, say, firefox for example. U_U
+[2016/01/14 11:11:36] <head8debian> Eww.
+[2016/01/14 11:11:41] <head8debian> Stock android install?
+[2016/01/14 11:11:54] <head8debian> I hate the pre-installed apps.
+[2016/01/14 11:12:10] <head8debian> Yeah... QUpzilla hasn't been ported to android sadly.
+[2016/01/14 11:12:27] <mt> https://access.redhat.com/articles/2123781
+[2016/01/14 11:12:32] <jesusalva> I just don't want to mess with the warranty by sudo-ing my phone yet.
+[2016/01/14 11:12:48] <head8debian> jesusalva: Ah. :) Mine is rooted and unlocked.
+[2016/01/14 11:13:05] <jesusalva> :)
+[2016/01/14 11:13:16] <head8debian> mt: Ouch!
+[2016/01/14 11:13:22] <mt> hah, I've got a phone that apparently came rooted by default :D
+[2016/01/14 11:13:28] <jesusalva> If I root it, I might break it, and it's already broken enough for my taste. :P
+[2016/01/14 11:13:29] <mt> adb shell spawns a root shell
+[2016/01/14 11:13:48] <Tobbi> Hello.
+[2016/01/14 11:13:56] <jesusalva> Hi Tobbi
+[2016/01/14 11:14:09] <Tobbi> Looks like I have a lot of scrollback to read.
+[2016/01/14 11:14:14] <head8debian> jesusalva: Yes. stock install is very broken.
+[2016/01/14 11:14:45] <Tobbi> Who wants to install a Stock anyway.
+[2016/01/14 11:14:59] <jesusalva> Well, I must go now to buy a cake.
