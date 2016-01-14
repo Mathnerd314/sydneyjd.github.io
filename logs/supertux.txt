@@ -43849,3 +43849,5 @@
 [2016/01/14 15:38:39] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2016/01/14 15:44:45] @ Karkus joined channel #supertux
 [2016/01/14 15:44:45] @ Mode +o Karkus by ChanServ
+[2016/01/14 15:50:10] @ Tobbi joined channel #supertux
+[2016/01/14 15:50:10] @ Mode +o Tobbi by ChanServ
