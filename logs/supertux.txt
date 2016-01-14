@@ -43799,3 +43799,8 @@
 [2016/01/14 12:06:17] <Tobbi> polyphagia: Sehr geehrter Herr Monsieur, ich danke Ihnen herzlichst für die Beglückwünschung zu einem guten Tag. Ihr Hinterkopf hat genau die gleiche Eloquenz wie der Hinterkopf von Mona Lisa auf dem Gemälde von Leonardo DiCaprio.
 [2016/01/14 12:07:17] <polyphagia> same
 [2016/01/14 12:08:14] <Tobbi> :D
+[2016/01/14 12:16:42] @ Hume2 joined channel #supertux
+[2016/01/14 12:16:56] @ Mode +v Hume2 by ChanServ
+[2016/01/14 12:16:57] <Hume2> Hello
+[2016/01/14 12:17:51] <Tobbi> hello hume.
+[2016/01/14 12:21:04] <maths22> Hello
