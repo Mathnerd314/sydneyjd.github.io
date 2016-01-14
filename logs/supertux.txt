@@ -43790,3 +43790,4 @@
 [2016/01/14 11:38:04] <Tobbi> But that was only a sip from a beer.
 [2016/01/14 11:39:16] @ leper` joined channel #supertux
 [2016/01/14 11:39:56] <Tobbi> head8debian: Looks like I picked the wrong week to quit amphetamines, anyway.
+[2016/01/14 11:47:32] @ polyphagia joined channel #supertux
