@@ -43683,3 +43683,5 @@
 [2016/01/14 05:08:58] @ Quit: xet7: Ping timeout: 272 seconds
 [2016/01/14 05:10:35] @ xet7 joined channel #supertux
 [2016/01/14 05:32:32] @ ced117 joined channel #supertux
+[2016/01/14 06:58:22] @ Quit: nerdopolis: Ping timeout: 256 seconds
+[2016/01/14 06:58:35] @ nerdopolis joined channel #supertux
