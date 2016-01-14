@@ -43791,3 +43791,11 @@
 [2016/01/14 11:39:16] @ leper` joined channel #supertux
 [2016/01/14 11:39:56] <Tobbi> head8debian: Looks like I picked the wrong week to quit amphetamines, anyway.
 [2016/01/14 11:47:32] @ polyphagia joined channel #supertux
+[2016/01/14 12:02:57] @ Karkus joined channel #supertux
+[2016/01/14 12:02:58] @ Mode +o Karkus by ChanServ
+[2016/01/14 12:03:59] <Tobbi> hello, polyphagia, Karkus.
+[2016/01/14 12:04:55] <polyphagia> guten tag Tobbi
+[2016/01/14 12:05:23] <Karkus> hello Tobbi
+[2016/01/14 12:06:17] <Tobbi> polyphagia: Sehr geehrter Herr Monsieur, ich danke Ihnen herzlichst für die Beglückwünschung zu einem guten Tag. Ihr Hinterkopf hat genau die gleiche Eloquenz wie der Hinterkopf von Mona Lisa auf dem Gemälde von Leonardo DiCaprio.
+[2016/01/14 12:07:17] <polyphagia> same
+[2016/01/14 12:08:14] <Tobbi> :D
