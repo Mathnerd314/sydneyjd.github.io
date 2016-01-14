@@ -43653,3 +43653,4 @@
 [2016/01/13 18:51:33] @ jesusalva joined channel #supertux
 [2016/01/13 18:51:43] <jesusalva> Hello!
 [2016/01/13 18:57:46] @ xet7 joined channel #supertux
+[2016/01/13 19:03:21] @ Quit: jesusalva: Ping timeout: 265 seconds
