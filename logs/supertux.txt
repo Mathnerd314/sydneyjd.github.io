@@ -43840,3 +43840,8 @@
 [2016/01/14 14:47:22] @ Quit: alket: Read error: Connection reset by peer
 [2016/01/14 14:49:47] @ alket joined channel #supertux
 [2016/01/14 15:13:56] @ alket_ joined channel #supertux
+[2016/01/14 15:16:07] @ Quit: alket: Disconnected by services
+[2016/01/14 15:16:09] @ alket_ is now known as alket
+[2016/01/14 15:17:47] @ jesusalva joined channel #supertux
+[2016/01/14 15:18:36] <jesusalva> Hello!
+[2016/01/14 15:22:44] <jesusalva> head8debian: Are you there?
