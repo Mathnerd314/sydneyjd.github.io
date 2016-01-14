@@ -43837,3 +43837,5 @@
 [2016/01/14 14:12:19] @ claymore2 joined channel #supertux
 [2016/01/14 14:15:54] @ alket joined channel #supertux
 [2016/01/14 14:32:40] @ ced117 joined channel #supertux
+[2016/01/14 14:47:22] @ Quit: alket: Read error: Connection reset by peer
+[2016/01/14 14:49:47] @ alket joined channel #supertux
