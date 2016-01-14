@@ -43804,3 +43804,10 @@
 [2016/01/14 12:16:57] <Hume2> Hello
 [2016/01/14 12:17:51] <Tobbi> hello hume.
 [2016/01/14 12:21:04] <maths22> Hello
+[2016/01/14 12:41:49] <pentagon> [10supertux] 07Hume2 pushed 2 commits to 09master 13https://github.com/SuperTux/supertux/compare/21cf25665ea2...723aafb6d0bb
+[2016/01/14 12:41:53] <pentagon> [10supertux] 07Hume2 149b083fd Deleted /* commented */ function in profile_menu.cpp
+[2016/01/14 12:41:57] <pentagon> [10supertux] 07Hume2 14723aafb Fixed (some (Coverity warnings))
+[2016/01/14 12:42:33] @ Quit: jesusalva: Read error: Connection reset by peer
+[2016/01/14 12:43:11] <polyphagia> Hume2: how slow is reader.get
+[2016/01/14 12:43:37] @ Quit: Karkus: Ping timeout: 276 seconds
+[2016/01/14 12:44:03] <Hume2> polyphagia: It's used almost everywhere.
