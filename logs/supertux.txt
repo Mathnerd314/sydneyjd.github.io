@@ -43818,3 +43818,14 @@
 [2016/01/14 12:51:56] <Tobbi> Hume2: To be honest, I am not sure if coverity still flags what you fixed. There's currently no way to check.
 [2016/01/14 12:52:30] <Tobbi> because coverity sucks.
 [2016/01/14 12:59:21] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/14 13:00:02] @ Karkus joined channel #supertux
+[2016/01/14 13:00:02] @ Mode +o Karkus by ChanServ
+[2016/01/14 13:01:15] @ grumbel joined channel #supertux
+[2016/01/14 13:01:15] @ Mode +o grumbel by ChanServ
+[2016/01/14 13:04:46] <pentagon> [10flexlay] 07Karkus476 closed issue 09#32: No Command for Changes to Object Properties 13https://github.com/SuperTux/flexlay/issues/32
+[2016/01/14 13:04:49] <pentagon> [10flexlay] 07Karkus476 pushed 5 commits to 09develop 13https://github.com/SuperTux/flexlay/compare/36435d72196f...8e41d093e477
+[2016/01/14 13:04:54] <pentagon> [10flexlay] 07Karkus476 145cea241 Many miscellaneous changes, including an apply button
+[2016/01/14 13:04:58] <pentagon> [10flexlay] 07Karkus476 148cc1e51 User can now undo property change
+[2016/01/14 13:05:02] <pentagon> [10flexlay] 07Karkus476 14134da92 Ensure new arguments to add_int are used.
+[2016/01/14 13:05:06] <pentagon> [10flexlay] 07Karkus476 141b5e636 Change add_int to add_float in FloatProperty
+[2016/01/14 13:05:11] <pentagon> [10flexlay] 07Karkus476 148e41d09 New Level Wizard Fix
