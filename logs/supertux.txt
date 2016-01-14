@@ -43675,3 +43675,4 @@
 [2016/01/14 01:10:51] @ stewboy joined channel #supertux
 [2016/01/14 01:43:56] @ lumidify joined channel #supertux
 [2016/01/14 02:02:43] @ Quit: lumidify: Ping timeout: 276 seconds
+[2016/01/14 02:16:12] @ Quit: tuxdev_: Ping timeout: 255 seconds
