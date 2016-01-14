@@ -43658,3 +43658,4 @@
 [2016/01/13 19:25:55] @ Mode +o Tobbi by ChanServ
 [2016/01/13 20:00:05] @ Quit: grumbel: Quit: Ex-Chat
 [2016/01/13 20:11:24] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/13 21:20:56] @ swift110 joined channel #supertux
