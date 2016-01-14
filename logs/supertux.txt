@@ -43667,3 +43667,5 @@
 [2016/01/13 23:15:37] @ swift110 joined channel #supertux
 [2016/01/13 23:34:24] @ Quit: swift110: Remote host closed the connection
 [2016/01/13 23:41:11] @ Quit: polyphagia: Quit: WeeChat 1.3
+[2016/01/13 23:45:56] @ polyphagia joined channel #supertux
+[2016/01/13 23:54:52] @ Quit: polyphagia: Quit: WeeChat 1.3
