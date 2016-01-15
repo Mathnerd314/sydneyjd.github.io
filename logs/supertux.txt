@@ -44078,3 +44078,4 @@
 [2016/01/15 17:33:58] @ Quit: swift110: Ping timeout: 272 seconds
 [2016/01/15 17:42:33] @ Karkus joined channel #supertux
 [2016/01/15 17:42:33] @ Mode +o Karkus by ChanServ
+[2016/01/15 17:57:25] @ Quit: claymore2: Quit: Leaving
