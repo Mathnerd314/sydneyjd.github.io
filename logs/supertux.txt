@@ -43911,3 +43911,7 @@
 [2016/01/15 09:26:26] <Tobbi> :D
 [2016/01/15 09:26:37] <Tobbi> snadge: Glad to know you're having fun.
 [2016/01/15 09:29:46] <Tobbi> I finished that level in 18 seconds...
+[2016/01/15 09:56:53] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/15 09:59:37] <snadge> whats teh trick tothat one
+[2016/01/15 09:59:45] <snadge> i took quite a bit longer
+[2016/01/15 09:59:59] <snadge> the tree is relatively easy.. the yeti not so much
