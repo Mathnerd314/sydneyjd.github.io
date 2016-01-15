@@ -44067,3 +44067,4 @@
 [2016/01/15 16:22:50] @ swift110 joined channel #supertux
 [2016/01/15 16:25:15] @ Tobbi joined channel #supertux
 [2016/01/15 16:25:15] @ Mode +o Tobbi by ChanServ
+[2016/01/15 16:31:47] <Tobbi> hello
