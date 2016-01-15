@@ -43950,3 +43950,7 @@
 [2016/01/15 13:34:21] @ Quit: polyphagia: Quit: WeeChat 1.3
 [2016/01/15 13:35:58] @ polyphagia joined channel #supertux
 [2016/01/15 13:43:32] @ lumidify joined channel #supertux
+[2016/01/15 13:58:39] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/01/15 13:58:50] @ Quit: lumidify: Ping timeout: 250 seconds
+[2016/01/15 13:59:29] @ Hume2 joined channel #supertux
+[2016/01/15 13:59:29] @ Mode +v Hume2 by ChanServ
