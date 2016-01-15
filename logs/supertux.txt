@@ -43916,3 +43916,8 @@
 [2016/01/15 09:59:45] <snadge> i took quite a bit longer
 [2016/01/15 09:59:59] <snadge> the tree is relatively easy.. the yeti not so much
 [2016/01/15 10:22:27] @ jesusalva joined channel #supertux
+[2016/01/15 11:01:23] <maths22> I personally find the tree much harder than the yeti, but that is just because I have never beaten the tree
+[2016/01/15 11:05:32] @ Quit: jesusalva: Ping timeout: 255 seconds
+[2016/01/15 11:05:32] @ Quit: head8debian: Ping timeout: 245 seconds
+[2016/01/15 11:06:24] @ head8debian joined channel #supertux
+[2016/01/15 11:06:24] @ Mode +o head8debian by ChanServ
