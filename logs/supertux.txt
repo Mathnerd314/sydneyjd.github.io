@@ -43954,3 +43954,9 @@
 [2016/01/15 13:58:50] @ Quit: lumidify: Ping timeout: 250 seconds
 [2016/01/15 13:59:29] @ Hume2 joined channel #supertux
 [2016/01/15 13:59:29] @ Mode +v Hume2 by ChanServ
+[2016/01/15 14:00:23] @ lumidify joined channel #supertux
+[2016/01/15 14:00:26] <Hume2> Hello
+[2016/01/15 14:05:30] @ Quit: lumidify: Ping timeout: 260 seconds
+[2016/01/15 14:06:04] @ lumidify joined channel #supertux
+[2016/01/15 14:08:11] <Hume2> I've just finished all levels from TeraTux REBORN 1th edition.
+[2016/01/15 14:08:52] <Hume2> My hoovercraft is full of eels!
