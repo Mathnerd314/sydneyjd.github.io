@@ -43915,3 +43915,4 @@
 [2016/01/15 09:59:37] <snadge> whats teh trick tothat one
 [2016/01/15 09:59:45] <snadge> i took quite a bit longer
 [2016/01/15 09:59:59] <snadge> the tree is relatively easy.. the yeti not so much
+[2016/01/15 10:22:27] @ jesusalva joined channel #supertux
