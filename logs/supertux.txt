@@ -43891,3 +43891,5 @@
 [2016/01/15 02:45:32] @ Quit: tuxdev_: Ping timeout: 256 seconds
 [2016/01/15 03:42:15] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://github.com/SuperTux/supertux/compare/f00758eff22b...4430089f6326
 [2016/01/15 03:42:19] <pentagon> [10supertux] 07tobbi 144430089 Spring boards -> trampolines (as requested on tx)
+[2016/01/15 04:00:54] @ stewboy joined channel #supertux
+[2016/01/15 04:11:58] <pentagon> [10supertux] 07AdamYuan starred 09supertux - 13https://github.com/AdamYuan
