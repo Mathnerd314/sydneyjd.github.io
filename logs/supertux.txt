@@ -43896,3 +43896,5 @@
 [2016/01/15 04:17:13] @ datahead8888 is now known as datahead7777
 [2016/01/15 05:28:39] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2016/01/15 05:51:44] @ Quit: stewboy: Read error: Connection reset by peer
+[2016/01/15 06:00:13] @ Tobbi joined channel #supertux
+[2016/01/15 06:00:14] @ Mode +o Tobbi by ChanServ
