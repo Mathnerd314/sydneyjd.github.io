@@ -43938,3 +43938,6 @@
 [2016/01/15 12:27:41] <Tobbi> hrm...
 [2016/01/15 12:28:18] <leper`> you can reply with snarky comments and tell them to go submit a patch though
 [2016/01/15 12:28:28] <leper`> that makes them shut up in most cases
+[2016/01/15 12:30:23] <leper`> (you could also reply that you'd be willing to implement this, state your hourly rate, the minimum required time, and if they'd still be interested)
+[2016/01/15 12:35:16] <Tobbi> :D
+[2016/01/15 12:35:27] <Tobbi> sounds fun.
