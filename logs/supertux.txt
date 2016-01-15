@@ -43946,3 +43946,4 @@
 [2016/01/15 13:09:04] @ alket joined channel #supertux
 [2016/01/15 13:09:30] @ claymore2 joined channel #supertux
 [2016/01/15 13:10:04] @ lumidify joined channel #supertux
+[2016/01/15 13:29:44] @ Quit: lumidify: Ping timeout: 245 seconds
