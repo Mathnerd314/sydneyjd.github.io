@@ -43881,3 +43881,4 @@
 [2016/01/14 21:07:44] <jesusalva> Good Night
 [2016/01/14 21:08:07] @ Quit: jesusalva: Quit: Good bye, God bless you.
 [2016/01/14 21:39:43] @ bb010g joined channel #supertux
+[2016/01/14 21:47:52] @ tuxdev_ joined channel #supertux
