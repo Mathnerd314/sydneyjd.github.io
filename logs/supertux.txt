@@ -43906,3 +43906,5 @@
 [2016/01/15 07:32:31] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/15 08:33:12] @ Tobbi joined channel #supertux
 [2016/01/15 08:33:12] @ Mode +o Tobbi by ChanServ
+[2016/01/15 09:09:29] <snadge> grrrrrr
+[2016/01/15 09:09:39] <snadge> take your pick.. boss style
