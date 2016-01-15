@@ -44068,3 +44068,8 @@
 [2016/01/15 16:25:15] @ Tobbi joined channel #supertux
 [2016/01/15 16:25:15] @ Mode +o Tobbi by ChanServ
 [2016/01/15 16:31:47] <Tobbi> hello
+[2016/01/15 16:50:01] @ stewboy joined channel #supertux
+[2016/01/15 16:54:55] @ Quit: datahead7777: Quit: Leaving
+[2016/01/15 16:57:34] <pentagon> [10supertux] 07nlocnila starred 09supertux - 13https://github.com/nlocnila
+[2016/01/15 16:58:39] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/01/15 16:58:51] @ datahead8888 joined channel #supertux
