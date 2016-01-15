@@ -43923,3 +43923,6 @@
 [2016/01/15 11:06:24] @ Mode +o head8debian by ChanServ
 [2016/01/15 11:21:52] @ bb010g joined channel #supertux
 [2016/01/15 11:43:59] @ alket joined channel #supertux
+[2016/01/15 11:55:18] @ Tobbi joined channel #supertux
+[2016/01/15 11:55:18] @ Mode +o Tobbi by ChanServ
+[2016/01/15 11:58:39] <Tobbi> snadge: Just continue jumping on the Yeti's head.
