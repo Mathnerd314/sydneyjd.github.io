@@ -43943,3 +43943,6 @@
 [2016/01/15 12:35:27] <Tobbi> sounds fun.
 [2016/01/15 12:45:02] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/15 12:55:58] @ Quit: alket: Quit: Konversation terminated!
+[2016/01/15 13:09:04] @ alket joined channel #supertux
+[2016/01/15 13:09:30] @ claymore2 joined channel #supertux
+[2016/01/15 13:10:04] @ lumidify joined channel #supertux
