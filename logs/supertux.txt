@@ -43903,3 +43903,4 @@
 [2016/01/15 06:33:45] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/15 07:00:46] @ Tobbi joined channel #supertux
 [2016/01/15 07:00:46] @ Mode +o Tobbi by ChanServ
+[2016/01/15 07:32:31] @ Quit: Tobbi: Remote host closed the connection
