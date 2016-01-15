@@ -44060,3 +44060,5 @@
 [2016/01/15 15:45:21] @ Quit: kneekoo: Quit: Leaving
 [2016/01/15 15:56:26] @ Tobbi joined channel #supertux
 [2016/01/15 15:56:27] @ Mode +o Tobbi by ChanServ
+[2016/01/15 16:01:39] @ Quit: Hume2: Quit: Page closed
+[2016/01/15 16:13:06] @ Quit: Tobbi: Remote host closed the connection
