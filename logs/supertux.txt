@@ -43926,3 +43926,6 @@
 [2016/01/15 11:55:18] @ Tobbi joined channel #supertux
 [2016/01/15 11:55:18] @ Mode +o Tobbi by ChanServ
 [2016/01/15 11:58:39] <Tobbi> snadge: Just continue jumping on the Yeti's head.
+[2016/01/15 12:09:06] @ kneekoo joined channel #supertux
+[2016/01/15 12:13:05] <Tobbi> What the hell is wrong with people? http://forum.freegamedev.net/viewtopic.php?f=67&t=6742&sid=f97515fa3663b5535d85fd5106db783b
+[2016/01/15 12:13:36] <Tobbi> Why don't people realize that this is an OPEN SOURCE GAME with LIMITED RESOURCES... for fawkes sake...
