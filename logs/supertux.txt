@@ -44073,3 +44073,4 @@
 [2016/01/15 16:57:34] <pentagon> [10supertux] 07nlocnila starred 09supertux - 13https://github.com/nlocnila
 [2016/01/15 16:58:39] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2016/01/15 16:58:51] @ datahead8888 joined channel #supertux
+[2016/01/15 17:29:43] @ Quit: Tobbi: Remote host closed the connection
