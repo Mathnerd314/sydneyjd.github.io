@@ -43901,3 +43901,5 @@
 [2016/01/15 06:19:35] @ Quit: ced117: Ping timeout: 240 seconds
 [2016/01/15 06:33:20] @ ced117 joined channel #supertux
 [2016/01/15 06:33:45] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/15 07:00:46] @ Tobbi joined channel #supertux
+[2016/01/15 07:00:46] @ Mode +o Tobbi by ChanServ
