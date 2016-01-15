@@ -44054,3 +44054,6 @@
 [2016/01/15 14:54:22] <pentagon> [10supertux] Status for commit Fixed Ambient Sound displaying by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/294
 [2016/01/15 15:02:07] @ Quit: lumidify: Ping timeout: 250 seconds
 [2016/01/15 15:18:03] @ irungentoo joined channel #supertux
+[2016/01/15 15:34:06] <pentagon> [10supertux] Status for commit Fixed Ambient Sound displaying by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/102675018
+[2016/01/15 15:39:50] @ Quit: polyphagia: Quit: WeeChat 1.3
+[2016/01/15 15:42:46] <pentagon> [10supertux] 07knaesig starred 09supertux - 13https://github.com/knaesig
