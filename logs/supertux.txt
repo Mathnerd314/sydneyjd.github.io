@@ -43960,3 +43960,7 @@
 [2016/01/15 14:06:04] @ lumidify joined channel #supertux
 [2016/01/15 14:08:11] <Hume2> I've just finished all levels from TeraTux REBORN 1th edition.
 [2016/01/15 14:08:52] <Hume2> My hoovercraft is full of eels!
+[2016/01/15 14:22:00] @ bb010g joined channel #supertux
+[2016/01/15 14:23:28] @ tiboHD joined channel #supertux
+[2016/01/15 14:23:40] <tiboHD> hello
+[2016/01/15 14:24:20] @ Quit: tiboHD: Client Quit
