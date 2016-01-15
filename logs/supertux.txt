@@ -43886,3 +43886,5 @@
 [2016/01/14 23:33:07] @ nerdopolis joined channel #supertux
 [2016/01/14 23:40:51] <pentagon> [10supertux] 07LMH0013 commented on issue 09#303: Glitch/Bug in "A fork in the road". 13https://github.com/SuperTux/supertux/issues/303
 [2016/01/14 23:53:20] @ Quit: irungentoo: Remote host closed the connection
+[2016/01/15 01:28:56] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://github.com/SuperTux/supertux/compare/723aafb6d0bb...f00758eff22b
+[2016/01/15 01:29:00] <pentagon> [10supertux] 07Hume2 14f00758e Moved start back to the level beginning in levels
