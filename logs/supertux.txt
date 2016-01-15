@@ -43869,3 +43869,9 @@
 [2016/01/14 17:57:32] @ Quit: grumbel: Quit: Ex-Chat
 [2016/01/14 19:57:59] @ jesusalva_bot joined channel #supertux
 [2016/01/14 19:58:41] @ Quit: jesusalva_bot: Client Quit
+[2016/01/14 20:32:35] @ Quit: jesusalva: Ping timeout: 260 seconds
+[2016/01/14 20:35:02] @ jesusalva joined channel #supertux
+[2016/01/14 20:35:02] @ Quit: jesusalva: Client Quit
+[2016/01/14 20:36:09] @ jesusalva joined channel #supertux
+[2016/01/14 20:40:55] @ Jesusaves joined channel #supertux
+[2016/01/14 20:43:46] @ Quit: jesusalva: Ping timeout: 272 seconds
