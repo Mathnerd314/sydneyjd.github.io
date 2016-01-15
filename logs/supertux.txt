@@ -43888,3 +43888,4 @@
 [2016/01/14 23:53:20] @ Quit: irungentoo: Remote host closed the connection
 [2016/01/15 01:28:56] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://github.com/SuperTux/supertux/compare/723aafb6d0bb...f00758eff22b
 [2016/01/15 01:29:00] <pentagon> [10supertux] 07Hume2 14f00758e Moved start back to the level beginning in levels
+[2016/01/15 02:45:32] @ Quit: tuxdev_: Ping timeout: 256 seconds
