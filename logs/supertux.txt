@@ -43882,3 +43882,6 @@
 [2016/01/14 21:08:07] @ Quit: jesusalva: Quit: Good bye, God bless you.
 [2016/01/14 21:39:43] @ bb010g joined channel #supertux
 [2016/01/14 21:47:52] @ tuxdev_ joined channel #supertux
+[2016/01/14 23:32:23] @ Quit: nerdopolis: Ping timeout: 255 seconds
+[2016/01/14 23:33:07] @ nerdopolis joined channel #supertux
+[2016/01/14 23:40:51] <pentagon> [10supertux] 07LMH0013 commented on issue 09#303: Glitch/Bug in "A fork in the road". 13https://github.com/SuperTux/supertux/issues/303
