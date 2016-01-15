@@ -44011,3 +44011,44 @@
 [2016/01/15 14:44:51] <pentagon> [10supertux] 07Hume2 1427dc02d Reimplemented int field
 [2016/01/15 14:44:55] <pentagon> [10supertux] 07Hume2 14d06220f Menu can be no longer escaped by pressing 'P'
 [2016/01/15 14:44:59] <pentagon> [10supertux] 07Hume2 140458d90 Reimplemented numfield item
+[2016/01/15 14:45:04] <pentagon> [10supertux] 07Hume2 14043ab83 Changed author successfully
+[2016/01/15 14:45:08] <pentagon> [10supertux] 07Hume2 14d140909 Added object menus (right click doesn't work)
+[2016/01/15 14:45:13] <pentagon> [10supertux] 07Hume2 14b92c65f Left click + space now works like right click.
+[2016/01/15 14:45:17] <pentagon> [10supertux] 07Hume2 14184f8ba Small fixes in editor input center
+[2016/01/15 14:45:21] <pentagon> [10supertux] 07Hume2 1493141b0 Small fixes
+[2016/01/15 14:45:25] <pentagon> [10supertux] 07Hume2 142ced649 Deleted cmakefiles
+[2016/01/15 14:45:29] <pentagon> [10supertux] 07Hume2 146d5de2d Bonus Island 1,2 :: Extended height and added tile backgrounds
+[2016/01/15 14:45:33] <pentagon> [10supertux] 07Hume2 14123d519 Added a colorchanel menu
+[2016/01/15 14:45:38] <pentagon> [10supertux] 07Hume2 14c8eccd2 Fix
+[2016/01/15 14:45:42] <pentagon> [10supertux] 07Hume2 14823eeee Fixed stuff
+[2016/01/15 14:45:46] <pentagon> [10supertux] 07Hume2 147e1d019 Fixed werror
+[2016/01/15 14:45:50] <pentagon> [10supertux] 07Hume2 146620150 Added color display item
+[2016/01/15 14:45:55] <pentagon> [10supertux] 07Hume2 14332f543 Fixed werror 2
+[2016/01/15 14:45:59] <pentagon> [10supertux] 07Hume2 14e6e2ad4 Added color menu
+[2016/01/15 14:46:03] <pentagon> [10supertux] 07Hume2 145595f99 Added colour options to some objects
+[2016/01/15 14:46:07] <pentagon> [10supertux] 07Hume2 149b35956 Added alpha chanel to colour menu
+[2016/01/15 14:46:12] <pentagon> [10supertux] 07Hume2 145e6d2fe Fixed werror 3
+[2016/01/15 14:46:16] <pentagon> [10supertux] 07Hume2 141515fe0 Added tips for layer-objects
+[2016/01/15 14:46:20] <pentagon> [10supertux] 07Hume2 14c440a4e Added options for layer objects
+[2016/01/15 14:46:24] <pentagon> [10supertux] 07Karkus476 1415b8c25 Mouse scrolling gets faster as you get closer to the edge
+[2016/01/15 14:46:29] <pentagon> [10supertux] 07Hume2 145b1b664 Big merge - part 2
+[2016/01/15 14:46:33] <pentagon> [10supertux] 07Hume2 14623d3d9 Added inline function EditorActive()
+[2016/01/15 14:46:37] <pentagon> [10supertux] 07Hume2 147a5ff04 No more fixing old tiles in editor
+[2016/01/15 14:46:41] <pentagon> [10supertux] 07Hume2 140b395ab Spawnpoints can be now modified.
+[2016/01/15 14:46:46] <pentagon> [10supertux] 07Hume2 149ef28b4 Fixed: SpawnPointMarkers don't display
+[2016/01/15 14:46:50] <pentagon> [10supertux] 07Hume2 144b26fda Objects changing colours when set in editor: Candle, Lantern, MagicBlock
+[2016/01/15 14:46:54] <pentagon> [10supertux] 07Hume2 145a11c3e Made the editor working again
+[2016/01/15 14:46:58] <pentagon> [10supertux] 07Hume2 1416aeb1d Added missing properties for yeti
+[2016/01/15 14:47:03] <pentagon> [10supertux] 07Hume2 148a73fba Added editor methotds to mrcandle.cpp
+[2016/01/15 14:47:07] <pentagon> [10supertux] 07Hume2 14a6b83c1 Reverted accidental edit of bonus1/torfi-level1.stl
+[2016/01/15 14:47:11] <pentagon> [10supertux] 07Hume2 1476eb26f Added sector properties
+[2016/01/15 14:47:15] <pentagon> [10supertux] 07Hume2 1487994a4 Added level properties menu
+[2016/01/15 14:47:20] <pentagon> [10supertux] 07Hume2 14722417b Fixed build
+[2016/01/15 14:47:24] <pentagon> [10supertux] 07Hume2 14adc3588 Fixed "conflict" in mrcandle.cpp
+[2016/01/15 14:47:28] <pentagon> [10supertux] 07Hume2 14ff93889 Fixed werror 3
+[2016/01/15 14:47:32] <pentagon> [10supertux] 07Hume2 149cd7027 Putting layer objects now creates the icon
+[2016/01/15 14:47:37] <pentagon> [10supertux] 07Hume2 14f067d66 Deleting layer objects
+[2016/01/15 14:47:41] <pentagon> [10supertux] 07Hume2 1468d19d5 Fixed Ambient Sound displaying
+[2016/01/15 14:47:58] <pentagon> [10supertux] Status for commit Fixed Ambient Sound displaying by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/293
+[2016/01/15 14:48:27] <Hume2> That's a sighful day today.
+[2016/01/15 14:54:22] <pentagon> [10supertux] Status for commit Fixed Ambient Sound displaying by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/294
