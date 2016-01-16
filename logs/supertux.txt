@@ -44389,3 +44389,27 @@
 [2016/01/16 12:27:40] <mt> uh
 [2016/01/16 12:27:47] <mt> where's that from?
 [2016/01/16 12:29:31] @ swift110 joined channel #supertux
+[2016/01/16 12:31:16] <Tobbi> mt: What do you mean?
+[2016/01/16 12:31:25] <mt> that script
+[2016/01/16 12:31:36] <mt> it appears in index-0_4_0.nfo
+[2016/01/16 12:31:44] <mt> we wanted a python-based script, didn't we?
+[2016/01/16 12:34:05] @ tuxdev_ joined channel #supertux
+[2016/01/16 12:34:05] @ Quit: tuxdev_: Changing host
+[2016/01/16 12:34:05] @ tuxdev_ joined channel #supertux
+[2016/01/16 12:35:10] <Tobbi> mt: Yes, if you can convert that, it would be great.
+[2016/01/16 12:35:14] <pentagon> [10supertux] 07Hume2 opened pull request 09#331: Colored level titles in worldmaps 13https://github.com/SuperTux/supertux/pull/331
+[2016/01/16 12:36:07] <mt> well there already seems to be one
+[2016/01/16 12:36:21] <mt> as that name is in the comment of index-0_4_0.nfo
+[2016/01/16 12:37:14] <Tobbi> mt: Oh, right. Yes.
+[2016/01/16 12:37:24] <Tobbi> but, gah... shell scripts.
+[2016/01/16 12:39:51] @ Mode -p by mt
+[2016/01/16 12:40:04] <mt> 18:39:41 -i- ChanServ (ChanServ@services.): The MLOCK for #supertux has been set to +ntCj.
+[2016/01/16 12:40:48] <mt> btw, /msg ChanServ help topic and /msg ChanServ help topicswap
+[2016/01/16 12:41:01] <pentagon> [10supertux] Status for commit Colored level titles in worldmaps by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/299
+[2016/01/16 12:41:08] <mt> topicswap can be very useful
+[2016/01/16 12:41:31] <mt> instead of the topicsed bot
+[2016/01/16 12:41:42] <Hume2> Still that tinygettext thing...
+[2016/01/16 12:41:58] <mt> Hume2: you don't need to tell us all the time
+[2016/01/16 12:42:05] <mt> you can tell us when it's fixed
+[2016/01/16 12:42:12] <Hume2> OK
+[2016/01/16 12:42:15] <Tobbi> mt: I think last time it was me who told it :D
