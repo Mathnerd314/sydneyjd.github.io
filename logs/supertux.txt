@@ -44494,3 +44494,5 @@
 [2016/01/16 14:44:10] @ ced117 joined channel #supertux
 [2016/01/16 14:50:15] @ xnrand is now known as xrnand
 [2016/01/16 14:50:46] @ xrnand is now known as xnrand
+[2016/01/16 15:00:22] @ Hume2 joined channel #supertux
+[2016/01/16 15:00:23] @ Mode +o Hume2 by ChanServ
