@@ -44415,3 +44415,40 @@
 [2016/01/16 12:42:15] <Tobbi> mt: I think last time it was me who told it :D
 [2016/01/16 12:48:11] <pentagon> [10supertux] Status for commit Colored level titles in worldmaps by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/102811273
 [2016/01/16 12:49:49] @ datahead8888 is now known as datahead7777
+[2016/01/16 13:04:48] @ leyyin joined channel #supertux
+[2016/01/16 13:05:59] <Tobbi> leyyin: How does initializing values in the constructor initialization list compare to initializing them in the constructor body?
+[2016/01/16 13:06:15] <Tobbi> Don't forget that SuperTux needs to run on embedded devices as well.
+[2016/01/16 13:06:17] <leyyin> *insert optimization comment here*
+[2016/01/16 13:06:23] <Tobbi> *sigh*
+[2016/01/16 13:06:25] <Tobbi> okay, okay.
+[2016/01/16 13:06:35] <Tobbi> leyyin: OKay, I am OCD again.
+[2016/01/16 13:06:44] <leyyin> use dem goagles https://stackoverflow.com/questions/15679977/constructor-initialization-vs-assignment
+[2016/01/16 13:07:02] <Tobbi> leyyin: but dem leyyins is more reliable.
+[2016/01/16 13:08:53] <leyyin> also ask in #c++
+[2016/01/16 13:09:08] <Tobbi> leyyin: Okay...
+[2016/01/16 13:09:27] <leyyin> or ask me, cuz I am a C++ guru
+[2016/01/16 13:09:37] <leyyin> self proclamation is always true
+[2016/01/16 13:09:58] <Tobbi> :) definitely.
+[2016/01/16 13:10:19] <Tobbi> leyyin: Do you own a car...?
+[2016/01/16 13:10:46] <leyyin> no
+[2016/01/16 13:10:52] <leyyin> and I do not indent to
+[2016/01/16 13:10:55] <leyyin> too expensive
+[2016/01/16 13:11:06] <leyyin> upkeep too high, I do not move that much
+[2016/01/16 13:11:29] <leyyin> I live in Europe ;)
+[2016/01/16 13:11:35] <Tobbi> leyyin: Well, for upkeep, we have the TÜV...that means your car needs to get checked every two years.
+[2016/01/16 13:11:38] <Tobbi> And mine is due...now.
+[2016/01/16 13:12:03] <leyyin> also, gas, etc, parts, oil, other old 20 century tech shit
+[2016/01/16 13:12:22] <leyyin> the petrol gas is soo 20'th century :P
+[2016/01/16 13:12:27] <leyyin> *car
+[2016/01/16 13:12:41] <Tobbi> leyyin: I have to pay around 600 EUR to get my car to pass the TÜV.
+[2016/01/16 13:12:46] <Tobbi> 580, to be exact.
+[2016/01/16 13:13:00] <Tobbi> not sure if I am willing to do that...
+[2016/01/16 13:13:10] <Tobbi> Actually, I agreed...
+[2016/01/16 13:13:14] <Tobbi> So, I will do it.
+[2016/01/16 13:13:43] <leyyin> lol :D
+[2016/01/16 13:13:56] <leyyin> also, the petrol market seems rigged to me
+[2016/01/16 13:14:11] <leyyin> petrol is at a low time low, and gas prices do not get lower, even in several months
+[2016/01/16 13:14:16] <jesusalva> Here, about or over 60% of your upkeep are taxes -- after all, we have a somewhat high tax per car onwed.
+[2016/01/16 13:14:20] <leyyin> when their storage supplies run out
+[2016/01/16 13:14:28] <Tobbi> hmm...
+[2016/01/16 13:14:48] <Tobbi> leyyin: It's quite low here...
