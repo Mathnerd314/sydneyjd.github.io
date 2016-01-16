@@ -44259,3 +44259,52 @@
 [2016/01/16 10:46:10] @ Jesusaves joined channel #supertux
 [2016/01/16 10:46:23] @ Quit: jesusalva: Disconnected by services
 [2016/01/16 10:47:03] @ Jesusaves is now known as jesusalva
+[2016/01/16 11:04:33] @ Hume2 joined channel #supertux
+[2016/01/16 11:04:33] @ Mode +v Hume2 by ChanServ
+[2016/01/16 11:05:13] @ Quit: claymore2: Quit: Leaving
+[2016/01/16 11:06:21] <Hume2> Hello
+[2016/01/16 11:07:35] @ Mode +o octo by ChanServ
+[2016/01/16 11:07:48] @ Mode +o maths22 by ChanServ
+[2016/01/16 11:07:54] <Tobbi> hmm...
+[2016/01/16 11:08:12] <Tobbi> Hume2: /cycle
+[2016/01/16 11:08:19] @ Hume2 left channel #supertux ()
+[2016/01/16 11:08:19] @ Hume2 joined channel #supertux
+[2016/01/16 11:08:19] @ Mode +v Hume2 by ChanServ
+[2016/01/16 11:08:25] <Tobbi> hrm.
+[2016/01/16 11:08:33] <Tobbi> let me check.
+[2016/01/16 11:08:48] <Tobbi> Oh damn.
+[2016/01/16 11:08:55] @ Mode +o Hume2 by ChanServ
+[2016/01/16 11:09:02] <Tobbi> Okay...
+[2016/01/16 11:09:03] <Hume2> Thanks, Tobbi.
+[2016/01/16 11:09:40] <jesusalva> Tobbi: Problems with +O and +V?
+[2016/01/16 11:09:54] <Tobbi> jesusalva: No, mt just requested I give people the same access rights I have.
+[2016/01/16 11:10:08] <Tobbi> So, assuming I left, people can still manage the channel.
+[2016/01/16 11:10:10] <jesusalva> Oh. :)
+[2016/01/16 11:10:24] <jesusalva> Wouldn't it be +S flag, then?
+[2016/01/16 11:10:40] <jesusalva> Oh, no wait... +F is giby. :)
+[2016/01/16 11:10:49] <Tobbi> Also, the user named "Hume" had full founder, plus administrator rights... for around 30 seconds.
+[2016/01/16 11:10:50] <Tobbi> :D
+[2016/01/16 11:10:57] <Tobbi> By that I don|t mean Hume2.
+[2016/01/16 11:11:07] <jesusalva> :D
+[2016/01/16 11:11:08] <Tobbi> I made a mistake modifying access rights and typed hume instead of hume2.
+[2016/01/16 11:11:10] <Hume2> :D
+[2016/01/16 11:11:34] <Tobbi> actually...
+[2016/01/16 11:11:39] @ datahead8888 joined channel #supertux
+[2016/01/16 11:11:58] <Tobbi> Actually, oc_to doesn't contribute, so I will change his access right to what he had before.
+[2016/01/16 11:12:17] @ Mode -ov octo octo by ChanServ
+[2016/01/16 11:12:21] @ Mode +v octo by ChanServ
+[2016/01/16 11:12:32] <mt> ಠ_ಠ
+[2016/01/16 11:12:34] <Tobbi> Okay. good now.
+[2016/01/16 11:12:38] <Tobbi> mt: What?
+[2016/01/16 11:12:43] <mt> I didn't tell you to give everyone +RS...
+[2016/01/16 11:12:56] <Tobbi> mt: I gave it to active contributors.
+[2016/01/16 11:12:59] <Tobbi> Which should be fine now.
+[2016/01/16 11:13:02] <Tobbi> I trust them guys.
+[2016/01/16 11:13:22] <mt> well then
+[2016/01/16 11:13:32] <Tobbi> mt: If you want, you can modify the channel list yourself.
+[2016/01/16 11:13:41] <Tobbi> I don't know anything about channel lists...
+[2016/01/16 11:13:41] <mt> I know
+[2016/01/16 11:14:13] -ChanServ- mt (mteufel) enabled the VERBOSE flag
+[2016/01/16 11:14:26] <Tobbi> aha, VERBOSE flag? What's that do?
+[2016/01/16 11:14:41] <mt> it announces SET and FLAGS changes to the channel
+[2016/01/16 11:14:56] <jesusalva> ...Who is CharlieG?
