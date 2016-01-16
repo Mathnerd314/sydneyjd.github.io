@@ -44243,3 +44243,13 @@
 [2016/01/16 10:11:57] @ jesusalva joined channel #supertux
 [2016/01/16 10:14:38] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://github.com/SuperTux/supertux/compare/61033d13f43f...555065239a8e
 [2016/01/16 10:14:42] <pentagon> [10supertux] 07tobbi 145550652 Initialize members in initialization list instead of constructor body
+[2016/01/16 10:20:36] <pentagon> [10supertux] Status for commit Initialize members in initialization list instead of constructor body by 07Tobias Markus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/298
+[2016/01/16 10:22:26] <Tobbi> Where is the error in that appveyor build?
+[2016/01/16 10:22:53] @ Quit: datahead7777: Quit: Leaving
+[2016/01/16 10:24:08] <Tobbi> maths22: Why is the appveyor build complaining about a missing dirent.h_
+[2016/01/16 10:24:09] <Tobbi> ?
+[2016/01/16 10:25:01] @ Quit: Hume2: Quit: Page closed
+[2016/01/16 10:26:21] <Tobbi> Oh, because it's not shipped natively, I guess.
+[2016/01/16 10:29:01] @ Quit: jesusalva: Quit: Error 414
+[2016/01/16 10:29:22] <pentagon> [10supertux] Status for commit Initialize members in initialization list instead of constructor body by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/102793592
+[2016/01/16 10:29:50] <pentagon> [10supertux] 07onpon4 commented on issue 09#253: Integrate sprites from reTux 13https://github.com/SuperTux/supertux/issues/253
