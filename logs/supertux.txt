@@ -44253,3 +44253,6 @@
 [2016/01/16 10:29:01] @ Quit: jesusalva: Quit: Error 414
 [2016/01/16 10:29:22] <pentagon> [10supertux] Status for commit Initialize members in initialization list instead of constructor body by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/102793592
 [2016/01/16 10:29:50] <pentagon> [10supertux] 07onpon4 commented on issue 09#253: Integrate sprites from reTux 13https://github.com/SuperTux/supertux/issues/253
+[2016/01/16 10:39:41] @ jesusalva joined channel #supertux
+[2016/01/16 10:44:13] @ Quit: alket: Read error: Connection reset by peer
+[2016/01/16 10:44:29] @ alket joined channel #supertux
