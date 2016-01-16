@@ -44234,3 +44234,4 @@
 [2016/01/16 09:33:28] @ Tobbi joined channel #supertux
 [2016/01/16 09:33:29] @ Mode +o Tobbi by ChanServ
 [2016/01/16 09:42:24] @ Wuzzy joined channel #supertux
+[2016/01/16 09:52:33] @ Quit: jesusalva: Quit: Changing network.
