@@ -44201,3 +44201,5 @@
 [2016/01/16 08:11:18] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/16 08:25:48] @ Tobbi joined channel #supertux
 [2016/01/16 08:25:49] @ Mode +o Tobbi by ChanServ
+[2016/01/16 08:30:17] @ Wuzzy joined channel #supertux
+[2016/01/16 08:34:53] <head8debian> Fun fun...
