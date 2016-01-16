@@ -44475,3 +44475,6 @@
 [2016/01/16 13:26:32] @ Quit: jesusalva: Ping timeout: 272 seconds
 [2016/01/16 13:27:01] @ alket joined channel #supertux
 [2016/01/16 13:27:41] @ jesusalva joined channel #supertux
+[2016/01/16 13:46:37] @ Quit: alket: Quit: Konversation terminated!
+[2016/01/16 13:48:46] @ alket joined channel #supertux
+[2016/01/16 13:49:22] @ claymore2 joined channel #supertux
