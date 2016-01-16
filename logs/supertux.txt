@@ -44491,3 +44491,4 @@
 [2016/01/16 14:19:20] @ Quit: jesusalva: Ping timeout: 276 seconds
 [2016/01/16 14:24:37] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://github.com/SuperTux/supertux/compare/555065239a8e...c3edde698049
 [2016/01/16 14:24:41] <pentagon> [10supertux] 07tobbi 14c3edde6 Spring board -> Trampoline, missed occurrence
+[2016/01/16 14:44:10] @ ced117 joined channel #supertux
