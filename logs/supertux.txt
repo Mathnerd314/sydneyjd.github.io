@@ -44324,3 +44324,5 @@
 [2016/01/16 11:28:41] <Hume2> For example normal levels white, essencial levels yellow, bonus levels blue, boss levels red...
 [2016/01/16 11:29:04] <jesusalva> I can picture it.
 [2016/01/16 11:29:46] <Hume2> I'll try to make a PR.
+[2016/01/16 11:31:12] @ polyphagia joined channel #supertux
+[2016/01/16 11:42:39] @ Quit: ced117: Ping timeout: 256 seconds
