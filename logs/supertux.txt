@@ -44203,3 +44203,17 @@
 [2016/01/16 08:25:49] @ Mode +o Tobbi by ChanServ
 [2016/01/16 08:30:17] @ Wuzzy joined channel #supertux
 [2016/01/16 08:34:53] <head8debian> Fun fun...
+[2016/01/16 08:45:38] <Tobbi> head8debian: what is?
+[2016/01/16 08:57:29] <pentagon> [10supertux] 07Karkus476 commented on issue 09#229: Stop doors fom blacking out the screen when they aren't being used 13https://github.com/SuperTux/supertux/issues/229
+[2016/01/16 08:57:54] <pentagon> [10supertux] 07Karkus476 unassigned issue 09#184: Keyboard Layout Settings Per Profile 13https://github.com/SuperTux/supertux/issues/184
+[2016/01/16 08:57:55] <Tobbi> Karkus: How do you imagine such an animation?
+[2016/01/16 08:58:28] <Karkus> Tobbi: Tux turns around and fades as he enters the door.
+[2016/01/16 08:58:34] <Tobbi> Ah...
+[2016/01/16 08:58:40] <Tobbi> Yeah, makes sense.
+[2016/01/16 08:58:44] <Karkus> Tobbi: He shouldn't be able to run around while entering a door...
+[2016/01/16 08:58:52] <Tobbi> dang, we need a graphics artist for that one.
+[2016/01/16 08:59:15] <Tobbi> Karkus: we need one for each bonus level, don't we?
+[2016/01/16 08:59:19] <Tobbi> eeh
+[2016/01/16 08:59:24] <Karkus> Tobbi: Do you understand this: https://github.com/SuperTux/supertux/issues/326
+[2016/01/16 08:59:25] <Tobbi> I mean: Firetux, ice tux...
+[2016/01/16 08:59:45] <Karkus> Tobbi: Oh, yes... damn.
