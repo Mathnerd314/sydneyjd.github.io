@@ -44133,3 +44133,48 @@
 [2016/01/16 05:14:52] <Tobbi> Let it just run through.
 [2016/01/16 05:14:53] <pentagon> [10supertux] 07maths22 145f810a8 Fix Clang linking
 [2016/01/16 05:14:57] <pentagon> [10supertux] 07maths22 14763cda7 Fixed WError build with proper inheritance
+[2016/01/16 05:15:01] <pentagon> [10supertux] 07Grumbel 14056bce2 Marked include directories as SYSTEM so they don't trigger -Werror
+[2016/01/16 05:15:06] <pentagon> [10supertux] 07Hume2 14101474c Digging into AmbientSound; It's now a MovingObject.
+[2016/01/16 05:15:10] <pentagon> [10supertux] 07tobbi 142ab69c7 Replace \r\n with \n in source strings
+[2016/01/16 05:15:14] <pentagon> [10supertux] 07Grumbel 14f18a113 Removed multi-inheritance from AmbientSound
+[2016/01/16 05:15:18] <pentagon> [10supertux] 07Grumbel 14f0e7d56 Removed multi-inheritance from ScriptedObject
+[2016/01/16 05:15:23] <pentagon> [10supertux] 07Grumbel 14668a1d5 Removed multi-inheritance from TextObject
+[2016/01/16 05:15:27] <pentagon> [10supertux] 07Grumbel 14ab428ed Removed multi-inheritance from DisplayEffect
+[2016/01/16 05:15:31] <pentagon> [10supertux] 07Grumbel 14015ceb3 Removed multi-inheritance from WillOWisp
+[2016/01/16 05:15:35] <pentagon> [10supertux] 07Grumbel 1492d0f57 Removed multi-inheritance from Sector
+[2016/01/16 05:15:39] <pentagon> [10supertux] 07Grumbel 14771e18e Removed multi-inheritance from Player
+[2016/01/16 05:15:44] <pentagon> [10supertux] 07Grumbel 14f9d83d4 Removed unneccesary virtual destructors
+[2016/01/16 05:15:48] <pentagon> [10supertux] 07Grumbel 14e1324b4 Added some missing #ifndef SCRIPTING_API
+[2016/01/16 05:15:52] <pentagon> [10supertux] 07Grumbel 142719303 Regenerated src/scripting/wrapper.cpp
+[2016/01/16 05:15:56] <pentagon> [10supertux] 07Grumbel 14f805791 Merge branch 'feature/multi-inheritance-reduction'
+[2016/01/16 05:16:00] <pentagon> [10supertux] 07Grumbel 14e6a3562 Renamed scripting::SSector to scripting::Sector
+[2016/01/16 05:16:05] <pentagon> [10supertux] 07Grumbel 149264bd5 Removed superfluous typedef in script bindings
+[2016/01/16 05:16:09] <pentagon> [10supertux] 07Hume2 1405a6e62 Removed duplicate code in Fish::draw
+[2016/01/16 05:16:13] <pentagon> [10supertux] 07Hume2 14c8fdfa9 Falling fishes now face down again
+[2016/01/16 05:16:17] <pentagon> [10supertux] 07Hume2 1417d7ef9 Fixed werror in scripted_object.hpp
+[2016/01/16 05:16:21] <pentagon> [10supertux] 07Hume2 149904f15 fixes #328
+[2016/01/16 05:16:26] <pentagon> [10supertux] 07Hume2 144cc832a Mr.Tree and Snowman now kill-fall on butt-jump
+[2016/01/16 05:16:30] <pentagon> [10supertux] 07tobbi 14719d035 Add gitattributes file
+[2016/01/16 05:16:34] <pentagon> [10supertux] 07brmbrmcar 1421cf256 Fix annoying bold text in credits I caused
+[2016/01/16 05:16:38] <pentagon> [10supertux] 07Hume2 149b083fd Deleted /* commented */ function in profile_menu.cpp
+[2016/01/16 05:16:42] <pentagon> [10supertux] 07Hume2 14723aafb Fixed (some (Coverity warnings))
+[2016/01/16 05:16:46] <pentagon> [10supertux] 07Hume2 14f00758e Moved start back to the level beginning in levels
+[2016/01/16 05:16:51] <pentagon> [10supertux] 07tobbi 14109e739 Spring boards -> trampolines (as requested on tx)
+[2016/01/16 05:16:57] <Tobbi> phew.
+[2016/01/16 05:16:59] <Tobbi> That's it.
+[2016/01/16 05:17:52] <mt> fix it: https://github.com/ProgVal/Supybot-plugins/tree/master/GitHub
+[2016/01/16 05:19:14] <Tobbi> mt: Me? :D
+[2016/01/16 05:19:21] <mt> yes!
+[2016/01/16 05:19:43] <Tobbi> mt: I technically have no time.
+[2016/01/16 05:19:47] <Tobbi> I shouldn't even be here.
+[2016/01/16 05:20:11] <pentagon> [10supertux] Status for commit Spring boards -> trampolines (as requested on tx) by 07Tobias Markus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/295
+[2016/01/16 05:22:09] <Tobbi> mt: Somewhere around there: https://github.com/ProgVal/Supybot-plugins/blob/master/GitHub/plugin.py#L269
+[2016/01/16 05:22:35] <mt> well yeah
+[2016/01/16 05:23:00] <mt> it needs to count the commits in a push and only announce x as configured
+[2016/01/16 05:23:26] <mt> there's a silly workaround for this, actually
+[2016/01/16 05:23:28] <Tobbi> Yes.
+[2016/01/16 05:23:40] <Tobbi> But let me work on my college assignments first.
+[2016/01/16 05:24:03] <mt> if there was some database plugin I'd make the commit list call a command that counts the commits and aborts after x
+[2016/01/16 05:24:19] <Tobbi> But we do have the list of commits.
+[2016/01/16 05:24:21] <Tobbi> Don't we.
+[2016/01/16 05:24:24] <Tobbi> In announce()
