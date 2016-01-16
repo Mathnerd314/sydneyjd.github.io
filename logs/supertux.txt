@@ -44105,3 +44105,4 @@
 [2016/01/16 02:43:08] @ tux|dude joined channel #supertux
 [2016/01/16 03:08:56] @ Quit: lumidify: Quit: Leaving
 [2016/01/16 03:10:08] @ Quit: tux|dude: Read error: Connection reset by peer
+[2016/01/16 03:57:08] @ claymore2 joined channel #supertux
