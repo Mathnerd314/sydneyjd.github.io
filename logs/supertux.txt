@@ -44512,3 +44512,6 @@
 [2016/01/16 17:08:25] @ alket_ joined channel #supertux
 [2016/01/16 17:08:55] @ Quit: alket: Ping timeout: 260 seconds
 [2016/01/16 17:10:04] @ alket_ is now known as alket
+[2016/01/16 17:23:29] @ Quit: jesusalva: Quit: Changing Network
+[2016/01/16 17:24:21] @ jesusalva joined channel #supertux
+[2016/01/16 17:25:02] @ stewboy joined channel #supertux
