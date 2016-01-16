@@ -44362,3 +44362,30 @@
 [2016/01/16 12:13:55] <Tobbi> hmm...
 [2016/01/16 12:13:56] <polyphagia> and then it'd be backwards compatable, while allowing you to clean everything pu
 [2016/01/16 12:14:11] <polyphagia> you can just automatically send it as a commit
+[2016/01/16 12:15:28] <mt> Tobbi: supertuxproject.org root is pointing to a github/fastly IP, and gets mapped to the repo using the CNAME file
+[2016/01/16 12:15:33] <Tobbi> hrm.
+[2016/01/16 12:15:35] <Tobbi> okay...
+[2016/01/16 12:15:36] <Tobbi> bad.
+[2016/01/16 12:15:43] <mt> why?
+[2016/01/16 12:16:02] <mt> we can still have api.supertuxproject.org pointing to someplace else
+[2016/01/16 12:16:07] <Tobbi> mt: Right.
+[2016/01/16 12:17:04] <mt> I think...
+[2016/01/16 12:17:18] <mt> if we clone the addons repo to a webroot
+[2016/01/16 12:17:29] <mt> and then also run flask generating the nfo on that server
+[2016/01/16 12:17:38] <Tobbi> mt: Couldn't we actually make travis generate the add-on index whenever something is changed? :D
+[2016/01/16 12:17:40] <mt> and we proxy that through cloudflare
+[2016/01/16 12:17:58] <mt> Tobbi: if you want it to trigger itself
+[2016/01/16 12:18:03] <Tobbi> mt: I am not sure.
+[2016/01/16 12:18:20] <mt> [new commit -> travis commits changes -> travis sees its commit -> travis commits changes -> repeat]
+[2016/01/16 12:18:52] <mt> we could actually
+[2016/01/16 12:19:15] <mt> but we'd for the moment have to host nfo and zips at different places
+[2016/01/16 12:20:03] <Tobbi> mt: We could as well just have a special commit message tag...
+[2016/01/16 12:20:06] <Tobbi> :D
+[2016/01/16 12:20:14] <Tobbi> [gen-nfo]
+[2016/01/16 12:20:16] <Tobbi> or whatever.
+[2016/01/16 12:20:33] <mt> hm yeah
+[2016/01/16 12:21:34] <Tobbi> mt: We should automate what we can to save us some trouble. :)
+[2016/01/16 12:27:37] <mt> >build-addon-index.py
+[2016/01/16 12:27:40] <mt> uh
+[2016/01/16 12:27:47] <mt> where's that from?
+[2016/01/16 12:29:31] @ swift110 joined channel #supertux
