@@ -44308,3 +44308,19 @@
 [2016/01/16 11:14:26] <Tobbi> aha, VERBOSE flag? What's that do?
 [2016/01/16 11:14:41] <mt> it announces SET and FLAGS changes to the channel
 [2016/01/16 11:14:56] <jesusalva> ...Who is CharlieG?
+[2016/01/16 11:15:10] <Tobbi> Who's Charlie, she said, and smiled in her special way.
+[2016/01/16 11:15:16] <mt> CharlieG was the original founder
+[2016/01/16 11:15:28] <mt> not sure who exactly
+[2016/01/16 11:15:33] <Tobbi> there she goes and knows I'm dying when she says "Who is Charlie"?
+[2016/01/16 11:15:37] <mt> we got the channel transfered to us by freenode
+[2016/01/16 11:15:50] <Tobbi> Games with names that girl is playing, all she says is "Who is Charlie?"
+[2016/01/16 11:15:56] <Tobbi> Okay, I'll stop now.
+[2016/01/16 11:26:18] <Hume2> I thought a tiny feature.
+[2016/01/16 11:26:43] <Hume2> The level titles could have their own colour in worldmaps.
+[2016/01/16 11:27:09] <Hume2> Most of the levels qould be white anyway.
+[2016/01/16 11:27:21] <Hume2> s/qould/would/
+[2016/01/16 11:27:21] <red_bot> Hume2 meant: "Most of the levels would be white anyway."
+[2016/01/16 11:28:02] <Hume2> The coulour could indicate its functionality.
+[2016/01/16 11:28:41] <Hume2> For example normal levels white, essencial levels yellow, bonus levels blue, boss levels red...
+[2016/01/16 11:29:04] <jesusalva> I can picture it.
+[2016/01/16 11:29:46] <Hume2> I'll try to make a PR.
