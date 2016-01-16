@@ -44231,3 +44231,6 @@
 [2016/01/16 09:17:09] @ jesusalva joined channel #supertux
 [2016/01/16 09:22:04] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/16 09:26:48] @ Quit: Wuzzy: Quit: Wuzzy
+[2016/01/16 09:33:28] @ Tobbi joined channel #supertux
+[2016/01/16 09:33:29] @ Mode +o Tobbi by ChanServ
+[2016/01/16 09:42:24] @ Wuzzy joined channel #supertux
