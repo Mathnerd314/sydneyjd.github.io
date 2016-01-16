@@ -44517,3 +44517,4 @@
 [2016/01/16 17:25:02] @ stewboy joined channel #supertux
 [2016/01/16 17:34:44] @ Quit: alket: Read error: Connection reset by peer
 [2016/01/16 17:34:59] @ alket joined channel #supertux
+[2016/01/16 17:58:53] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
