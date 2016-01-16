@@ -44093,3 +44093,5 @@
 [2016/01/15 21:46:46] @ Quit: Jesusaves: Client Quit
 [2016/01/15 21:49:06] @ Quit: jesusalva: Ping timeout: 240 seconds
 [2016/01/15 23:41:16] @ Quit: irungentoo: Ping timeout: 256 seconds
+[2016/01/16 00:15:08] @ Quit: nerdopolis: Remote host closed the connection
+[2016/01/16 00:15:49] @ nerdopolis joined channel #supertux
