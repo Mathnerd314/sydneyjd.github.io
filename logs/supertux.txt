@@ -44095,3 +44095,7 @@
 [2016/01/15 23:41:16] @ Quit: irungentoo: Ping timeout: 256 seconds
 [2016/01/16 00:15:08] @ Quit: nerdopolis: Remote host closed the connection
 [2016/01/16 00:15:49] @ nerdopolis joined channel #supertux
+[2016/01/16 01:24:15] @ stewboy_ joined channel #supertux
+[2016/01/16 01:24:40] @ tuxdev_ joined channel #supertux
+[2016/01/16 01:25:23] @ Quit: stewboy: Ping timeout: 264 seconds
+[2016/01/16 01:25:24] @ stewboy_ is now known as stewboy
