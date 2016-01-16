@@ -44228,3 +44228,6 @@
 [2016/01/16 09:06:33] <Karkus> Tobbi: I don't know... it would probably be useful, I think
 [2016/01/16 09:07:13] <Tobbi> OKay...
 [2016/01/16 09:07:20] <Tobbi> It doesn't have a high priority anyway.
+[2016/01/16 09:17:09] @ jesusalva joined channel #supertux
+[2016/01/16 09:22:04] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/16 09:26:48] @ Quit: Wuzzy: Quit: Wuzzy
