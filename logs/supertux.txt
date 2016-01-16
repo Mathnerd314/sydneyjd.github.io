@@ -44235,3 +44235,11 @@
 [2016/01/16 09:33:29] @ Mode +o Tobbi by ChanServ
 [2016/01/16 09:42:24] @ Wuzzy joined channel #supertux
 [2016/01/16 09:52:33] @ Quit: jesusalva: Quit: Changing network.
+[2016/01/16 10:00:43] @ jesusalva_bot joined channel #supertux
+[2016/01/16 10:01:16] <Hume2> Karkus: May I close this? https://github.com/SuperTux/supertux/issues/324
+[2016/01/16 10:03:03] @ jesusalva_bot left channel #supertux ()
+[2016/01/16 10:04:44] <mt> if it works for you, yes
+[2016/01/16 10:05:42] <pentagon> [10supertux] 07Hume2 closed issue 09#324: Butt jumping should do more damage to certain enemies 13https://github.com/SuperTux/supertux/issues/324
+[2016/01/16 10:11:57] @ jesusalva joined channel #supertux
+[2016/01/16 10:14:38] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://github.com/SuperTux/supertux/compare/61033d13f43f...555065239a8e
+[2016/01/16 10:14:42] <pentagon> [10supertux] 07tobbi 145550652 Initialize members in initialization list instead of constructor body
