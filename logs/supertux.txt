@@ -44113,3 +44113,23 @@
 [2016/01/16 04:46:56] @ Mode +v Hume2 by ChanServ
 [2016/01/16 04:55:40] @ Quit: VargaD: Ping timeout: 260 seconds
 [2016/01/16 04:57:27] @ VargaD joined channel #supertux
+[2016/01/16 05:03:14] @ Tobbi joined channel #supertux
+[2016/01/16 05:03:14] @ Mode +o Tobbi by ChanServ
+[2016/01/16 05:06:34] @ Karkus joined channel #supertux
+[2016/01/16 05:06:34] @ Mode +o Karkus by ChanServ
+[2016/01/16 05:09:50] <Tobbi> The coverity build is finally through.
+[2016/01/16 05:10:56] <Tobbi> And someone did remove the rule for OS X that I created.
+[2016/01/16 05:14:16] <pentagon> [10supertux] 07tobbi pushed 37 commits to 09coverity_scan 13https://github.com/SuperTux/supertux/compare/59ede11d104c...109e739fff67
+[2016/01/16 05:14:19] <pentagon> [10supertux] 07tobbi 14a9d6683 Fix memory leak in get_demo_random_seed reported by cppcheck
+[2016/01/16 05:14:24] <pentagon> [10supertux] 07Grumbel 14ab4c39d Enabled delete-key in console
+[2016/01/16 05:14:28] <pentagon> [10supertux] 07tobbi 14d08b0fd Use convenience function for getting bbox width and height
+[2016/01/16 05:14:32] <pentagon> [10supertux] 07Grumbel 14250c76e Don't clear input buffer when hiding console, no reason to do that
+[2016/01/16 05:14:32] <Tobbi> oh no.
+[2016/01/16 05:14:36] <pentagon> [10supertux] 07Grumbel 1457fa58c Fixed the console-key getting echoed to the console when hide/show the console
+[2016/01/16 05:14:41] <pentagon> [10supertux] 07maths22 1470914a6 Build squirrel, tinygettext as external projects
+[2016/01/16 05:14:44] <pentagon> [10supertux] 07maths22 1475eff78 Bump CMake minimum version (2.8 required for external project)
+[2016/01/16 05:14:45] <Tobbi> I didn't think of that.
+[2016/01/16 05:14:49] <pentagon> [10supertux] 07maths22 148010e55 Use default builder for external projects (fix Windows)
+[2016/01/16 05:14:52] <Tobbi> Let it just run through.
+[2016/01/16 05:14:53] <pentagon> [10supertux] 07maths22 145f810a8 Fix Clang linking
+[2016/01/16 05:14:57] <pentagon> [10supertux] 07maths22 14763cda7 Fixed WError build with proper inheritance
