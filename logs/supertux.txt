@@ -44109,3 +44109,7 @@
 [2016/01/16 04:40:48] @ Quit: datahead8888: Quit: Leaving
 [2016/01/16 04:40:59] @ datahead8888 joined channel #supertux
 [2016/01/16 04:41:04] @ datahead8888 is now known as datahead7777
+[2016/01/16 04:46:44] @ Hume2 joined channel #supertux
+[2016/01/16 04:46:56] @ Mode +v Hume2 by ChanServ
+[2016/01/16 04:55:40] @ Quit: VargaD: Ping timeout: 260 seconds
+[2016/01/16 04:57:27] @ VargaD joined channel #supertux
