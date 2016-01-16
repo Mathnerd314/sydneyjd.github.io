@@ -44217,3 +44217,14 @@
 [2016/01/16 08:59:24] <Karkus> Tobbi: Do you understand this: https://github.com/SuperTux/supertux/issues/326
 [2016/01/16 08:59:25] <Tobbi> I mean: Firetux, ice tux...
 [2016/01/16 08:59:45] <Karkus> Tobbi: Oh, yes... damn.
+[2016/01/16 09:00:21] <Tobbi> Karkus: Yes, he means that even if the ACTION key is not set to CTRL, pressing CTRL will trigger ACTION neverhteless.
+[2016/01/16 09:00:43] <Karkus> Tobbi: Is that true?
+[2016/01/16 09:00:49] <Tobbi> Karkus: I have no idea...
+[2016/01/16 09:00:57] <Tobbi> Karkus: Also, I *should* be doing college stuff.
+[2016/01/16 09:00:58] * Karkus tests
+[2016/01/16 09:01:05] <Tobbi> Which I have no motivation for currently.
+[2016/01/16 09:05:14] <pentagon> [10supertux] 07Karkus476 commented on issue 09#326: ACTION key setup needs improving 13https://github.com/SuperTux/supertux/issues/326
+[2016/01/16 09:05:24] <Tobbi> Karkus: What do you think of this, anyway? https://github.com/SuperTux/supertux/issues/330
+[2016/01/16 09:06:33] <Karkus> Tobbi: I don't know... it would probably be useful, I think
+[2016/01/16 09:07:13] <Tobbi> OKay...
+[2016/01/16 09:07:20] <Tobbi> It doesn't have a high priority anyway.
