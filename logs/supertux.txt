@@ -44496,3 +44496,5 @@
 [2016/01/16 14:50:46] @ xrnand is now known as xnrand
 [2016/01/16 15:00:22] @ Hume2 joined channel #supertux
 [2016/01/16 15:00:23] @ Mode +o Hume2 by ChanServ
+[2016/01/16 15:22:14] @ pip joined channel #supertux
+[2016/01/16 15:23:53] @ Quit: claymore2: Quit: Leaving
