@@ -44508,3 +44508,7 @@
 [2016/01/16 16:21:33] @ Quit: jesusalva: Quit: Good bye, God bless you.
 [2016/01/16 16:31:36] @ jesusalva joined channel #supertux
 [2016/01/16 16:49:36] @ jesusalva_bot joined channel #supertux
+[2016/01/16 17:05:58] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/16 17:08:25] @ alket_ joined channel #supertux
+[2016/01/16 17:08:55] @ Quit: alket: Ping timeout: 260 seconds
+[2016/01/16 17:10:04] @ alket_ is now known as alket
