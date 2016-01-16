@@ -44500,3 +44500,7 @@
 [2016/01/16 15:23:53] @ Quit: claymore2: Quit: Leaving
 [2016/01/16 15:31:03] @ irungentoo joined channel #supertux
 [2016/01/16 15:43:33] <Tobbi> hello pip
+[2016/01/16 15:46:26] @ Quit: pip: Quit: Page closed
+[2016/01/16 15:50:05] <Tobbi> Oh, sorry.
+[2016/01/16 15:50:35] <Karkus> Tobbi: :D
+[2016/01/16 15:59:29] @ jesusalva joined channel #supertux
