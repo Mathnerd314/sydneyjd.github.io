@@ -44178,3 +44178,6 @@
 [2016/01/16 05:24:19] <Tobbi> But we do have the list of commits.
 [2016/01/16 05:24:21] <Tobbi> Don't we.
 [2016/01/16 05:24:24] <Tobbi> In announce()
+[2016/01/16 05:36:36] <pentagon> [10supertux] Status for commit Spring boards -> trampolines (as requested on tx) by 07Tobias Markus: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/102766832
+[2016/01/16 05:37:19] <Tobbi> Okay, so we're not down to 0.
+[2016/01/16 05:43:04] <pentagon> [10supertux] 07collinnj starred 09supertux - 13https://github.com/collinnj
