@@ -44188,3 +44188,5 @@
 [2016/01/16 06:24:02] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/16 06:50:58] @ Tobbi joined channel #supertux
 [2016/01/16 06:50:58] @ Mode +o Tobbi by ChanServ
+[2016/01/16 07:30:46] @ Quit: claymore2: Ping timeout: 265 seconds
+[2016/01/16 07:35:49] @ claymore2 joined channel #supertux
