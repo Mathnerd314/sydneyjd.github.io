@@ -44103,3 +44103,5 @@
 [2016/01/16 01:38:44] @ Quit: stewboy: Read error: Connection reset by peer
 [2016/01/16 02:28:40] @ lumidify joined channel #supertux
 [2016/01/16 02:43:08] @ tux|dude joined channel #supertux
+[2016/01/16 03:08:56] @ Quit: lumidify: Quit: Leaving
+[2016/01/16 03:10:08] @ Quit: tux|dude: Read error: Connection reset by peer
