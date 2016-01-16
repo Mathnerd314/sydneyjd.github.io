@@ -44099,3 +44099,5 @@
 [2016/01/16 01:24:40] @ tuxdev_ joined channel #supertux
 [2016/01/16 01:25:23] @ Quit: stewboy: Ping timeout: 264 seconds
 [2016/01/16 01:25:24] @ stewboy_ is now known as stewboy
+[2016/01/16 01:34:33] @ Quit: tuxdev_: Read error: Connection reset by peer
+[2016/01/16 01:38:44] @ Quit: stewboy: Read error: Connection reset by peer
