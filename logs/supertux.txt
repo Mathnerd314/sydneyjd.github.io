@@ -44087,3 +44087,5 @@
 [2016/01/15 18:30:28] @ swift110 joined channel #supertux
 [2016/01/15 18:35:44] @ Quit: swift110: Ping timeout: 250 seconds
 [2016/01/15 19:05:03] @ Quit: Karkus: Quit: Division By Zero
+[2016/01/15 20:38:39] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/01/15 20:39:31] @ jesusalva joined channel #supertux
