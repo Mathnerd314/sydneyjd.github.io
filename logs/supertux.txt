@@ -44190,3 +44190,7 @@
 [2016/01/16 06:50:58] @ Mode +o Tobbi by ChanServ
 [2016/01/16 07:30:46] @ Quit: claymore2: Ping timeout: 265 seconds
 [2016/01/16 07:35:49] @ claymore2 joined channel #supertux
+[2016/01/16 07:49:55] @ Karkus joined channel #supertux
+[2016/01/16 07:49:55] @ Mode +o Karkus by ChanServ
+[2016/01/16 07:56:03] @ alket joined channel #supertux
+[2016/01/16 07:59:42] <pentagon> [10supertux] 07tobbi opened issue 09#330: Use static class for sprite / media filenames 13https://github.com/SuperTux/supertux/issues/330
