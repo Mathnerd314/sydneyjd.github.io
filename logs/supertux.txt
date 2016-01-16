@@ -44504,3 +44504,5 @@
 [2016/01/16 15:50:05] <Tobbi> Oh, sorry.
 [2016/01/16 15:50:35] <Karkus> Tobbi: :D
 [2016/01/16 15:59:29] @ jesusalva joined channel #supertux
+[2016/01/16 16:18:50] @ Quit: Hume2: Quit: Page closed
+[2016/01/16 16:21:33] @ Quit: jesusalva: Quit: Good bye, God bless you.
