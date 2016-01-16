@@ -44194,3 +44194,8 @@
 [2016/01/16 07:49:55] @ Mode +o Karkus by ChanServ
 [2016/01/16 07:56:03] @ alket joined channel #supertux
 [2016/01/16 07:59:42] <pentagon> [10supertux] 07tobbi opened issue 09#330: Use static class for sprite / media filenames 13https://github.com/SuperTux/supertux/issues/330
+[2016/01/16 08:00:05] <pentagon> [10supertux] Status for commit Fix coverity issues by 07Tobias Markus: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/102778520
+[2016/01/16 08:00:23] <Tobbi> *sigh*
+[2016/01/16 08:02:58] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://github.com/SuperTux/supertux/compare/1e9740a6bef3...61033d13f43f
+[2016/01/16 08:03:03] <pentagon> [10supertux] 07Hume2 1461033d1 Some fixes of incubator
+[2016/01/16 08:11:18] @ Quit: Tobbi: Remote host closed the connection
