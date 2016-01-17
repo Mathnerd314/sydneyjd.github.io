@@ -44957,3 +44957,33 @@
 [2016/01/17 14:39:49] @ Quit: jesusalva: Read error: Connection reset by peer
 [2016/01/17 14:41:37] @ Tobbi joined channel #supertux
 [2016/01/17 14:41:37] @ Mode +o Tobbi by ChanServ
+[2016/01/17 14:52:32] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/17 14:52:57] @ irungentoo joined channel #supertux
+[2016/01/17 14:52:59] <head8debian> kneekoo: What fun, classic supertux. :D
+[2016/01/17 14:53:27] <head8debian> I should put a copy of it on a CD for 10 years from now...
+[2016/01/17 14:53:36] <head8debian> Or on my desktop. :p
+[2016/01/17 14:53:50] <head8debian> Well, i dont think it will become unaccessible in 10 years.
+[2016/01/17 14:53:56] <kneekoo> it will survive in the repositories
+[2016/01/17 14:54:06] <jeezy> that's all im missing here is palying supertux - > http://i.imgur.com/HiaGwIE.png
+[2016/01/17 14:54:19] <kneekoo> it's 12 years old and I can still install it :p
+[2016/01/17 14:54:58] <head8debian> :D
+[2016/01/17 14:55:22] <head8debian> jeezy: :p
+[2016/01/17 14:56:00] <kneekoo> cpu/ram?
+[2016/01/17 14:56:09] <jeezy> me?
+[2016/01/17 14:56:41] <kneekoo> yes, on that laptop/netbook
+[2016/01/17 14:56:57] <jeezy> oh
+[2016/01/17 14:57:06] <jeezy> i5-2520M/16G ram/dual SSDs in RAID0
+[2016/01/17 14:57:35] <kneekoo> and you have 1366x768?
+[2016/01/17 14:57:37] <jeezy> yes
+[2016/01/17 14:57:48] @ Tobbi joined channel #supertux
+[2016/01/17 14:57:48] @ Mode +o Tobbi by ChanServ
+[2016/01/17 14:57:53] <kneekoo> why?
+[2016/01/17 14:57:56] <jeezy> all i run is a terminal emulator and web browser
+[2016/01/17 14:58:35] <head8debian> kneekoo: Because jeezy likes to show off. :)
+[2016/01/17 14:58:36] <head8debian> ;)
+[2016/01/17 14:58:39] <kneekoo> what, no winamp?!
+[2016/01/17 14:58:42] <jeezy> suited for needs, i can use another computer/larger screen, higher resolution if needed
+[2016/01/17 14:58:45] <jeezy> kneekoo: i have xmms
+[2016/01/17 14:59:34] <kneekoo> high specs for such a small resolution
+[2016/01/17 14:59:42] <jeezy> ya
+[2016/01/17 14:59:51] <kneekoo> the web is no longer nice at that size
