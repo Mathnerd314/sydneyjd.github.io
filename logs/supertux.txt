@@ -44598,3 +44598,7 @@
 [2016/01/17 10:14:56] @ Quit: lumidify: Ping timeout: 246 seconds
 [2016/01/17 10:33:04] @ Quit: nerdopolis: Ping timeout: 245 seconds
 [2016/01/17 10:33:21] @ nerdopolis joined channel #supertux
+[2016/01/17 10:49:14] @ claymore2 joined channel #supertux
+[2016/01/17 10:54:33] <head8debian> Hrm, what to do...
+[2016/01/17 10:56:21] @ Hume2 joined channel #supertux
+[2016/01/17 10:56:21] @ Mode +o Hume2 by ChanServ
