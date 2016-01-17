@@ -44792,3 +44792,29 @@
 [2016/01/17 12:43:44] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
 [2016/01/17 12:43:49] @ Mode +Cntj 5:10 by sendak.freenode.net
 [2016/01/17 12:43:57] @ Mode +o red_bot by ChanServ
+[2016/01/17 12:46:10] <Tobbi> head8debian: What else do I need to think about?
+[2016/01/17 12:46:48] <Tobbi> Hume2: Microsoft participates / participated in Wine a little bit.
+[2016/01/17 12:49:06] <Hume2> Tobbi: I saw some Microsoft Github repositories.
+[2016/01/17 12:49:21] <Tobbi> Hume2: I know. I don't think it's strange.
+[2016/01/17 12:51:42] <head8debian> Tobbi: Ugg, im starting to hate paypal. I opened an account with them and ive been banned twice for unknown reasons.
+[2016/01/17 12:52:14] <Tobbi> head8debian: It says in their AGB that they don't trade with goats.
+[2016/01/17 12:52:33] <head8debian> Thanks for calling me a goat.
+[2016/01/17 12:52:34] <mt> US people don't know what an AGB is
+[2016/01/17 12:52:55] <mt> it's the German abbreviation for ToS
+[2016/01/17 12:53:25] <head8debian> Ah.
+[2016/01/17 12:53:31] <head8debian> I figured.
+[2016/01/17 12:53:56] <head8debian> But really, ive lost 20$ so far over this, its rediculous... now i have to wait on support again.
+[2016/01/17 12:54:19] <Tobbi> head8debian: I meant using goats as a payment.
+[2016/01/17 12:54:20] <head8debian> Tobbi: And thats why you are not gettign chocolate, paypal is taking it out of my hands and away from you.
+[2016/01/17 12:54:24] <Tobbi> I wasn't calling you a goat.
+[2016/01/17 12:54:30] <head8debian> :p
+[2016/01/17 12:54:39] <Tobbi> mt: Ah, yes...
+[2016/01/17 12:54:40] <Tobbi> :D
+[2016/01/17 12:54:54] <Tobbi> mt: That happens when you think about something else.
+[2016/01/17 12:57:41] <kneekoo> but why did they ban you?
+[2016/01/17 12:58:03] <kneekoo> I have an old account that I used to send and receive money and... no problems at all
+[2016/01/17 12:58:28] <head8debian> kneekoo: My mom has an old account as well that is fine.
+[2016/01/17 12:58:48] <head8debian> kneekoo: They said they saw some suspicious activity on a day that nobody logged in.
+[2016/01/17 12:59:28] <kneekoo> try using a nasty password
+[2016/01/17 12:59:53] <kneekoo> not as in "PayPalSucksBallz" but "oi376*&^GB&*&bg()"
+[2016/01/17 12:59:56] <head8debian> kneekoo: I used a password generator and made it as long as paypal could support.
