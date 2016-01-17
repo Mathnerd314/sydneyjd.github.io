@@ -44556,3 +44556,4 @@
 [2016/01/16 22:18:06] @ jesusalva joined channel #supertux
 [2016/01/16 22:26:08] @ Quit: jesusalva: Quit: Good Night. A Blessed Sunday for everyone.
 [2016/01/17 01:38:02] @ lumidify joined channel #supertux
+[2016/01/17 02:10:42] @ Quit: lumidify: Ping timeout: 250 seconds
