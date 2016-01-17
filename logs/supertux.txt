@@ -44540,3 +44540,5 @@
 [2016/01/16 19:19:35] <pentagon> [10supertux] 07Grumbel opened issue 09#333: Make icecube eyes blink a moment before waking up 13https://github.com/SuperTux/supertux/issues/333
 [2016/01/16 19:22:25] <pentagon> [10supertux] Status for commit Option to enter ghost mode from cheat menu by 07Karkus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/302
 [2016/01/16 19:25:51] <pentagon> [10supertux] Status for commit Allow hidding cheat menu by pressing the cheat menu button by 07Ingo Ruhnke: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/102864657
+[2016/01/16 19:38:33] <pentagon> [10supertux] Status for commit Option to enter ghost mode from cheat menu by 07Karkus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/102865143
+[2016/01/16 19:42:41] @ Quit: Karkus: Quit: Division By Zero
