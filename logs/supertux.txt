@@ -44662,3 +44662,65 @@
 [2016/01/17 11:14:43] <head8debian> mt: The one that i can get down the road is 60$/month for 40mb/s.
 [2016/01/17 11:14:47] <Tobbi> What? I pay 20 EUR for 25Mbit down.
 [2016/01/17 11:14:52] <head8debian> But is not cabled to our door.
+[2016/01/17 11:15:26] <head8debian> Yep, but if i move 10 mins away from here i can get it quite a bit cheaper. :D
+[2016/01/17 11:15:38] <Tobbi> You guys are keeping me from my documentation...
+[2016/01/17 11:15:40] <head8debian> a 2gb/s line for only(!!) 300$/month. :p
+[2016/01/17 11:15:43] <mt> Heh, you could probably get 1 GBit/s for that money ina  bigger city
+[2016/01/17 11:16:14] <head8debian> mt: Well, getting it to these rural doorsteps is a PITB.
+[2016/01/17 11:16:25] <head8debian> Oh, and i can get 4G here.
+[2016/01/17 11:16:31] <Tobbi> I can get 100 MBit/s for... 40 EUR...?
+[2016/01/17 11:16:33] * head8debian has a tower down the road.
+[2016/01/17 11:16:42] <Tobbi> *could*
+[2016/01/17 11:17:01] <Tobbi> mt: I was with Deutsche Telekom before, and they tricked me into buying their Entertainment package...
+[2016/01/17 11:17:07] <Tobbi> 50 EUR per month.
+[2016/01/17 11:17:21] <head8debian> The easiest one is the 140$ month package, and it would be the most reliable.
+[2016/01/17 11:17:39] <Tobbi> I was kind of asking for a downgrade to a cheaper package...and they tricked me.
+[2016/01/17 11:17:49] <head8debian> Tobbi: Heh.
+[2016/01/17 11:18:20] <Tobbi> head8debian: But Kabel Deutschland is the cheapest you can get here.
+[2016/01/17 11:18:36] <head8debian> mt: So, what do you think would be the best option, for me to buy some cloud storage from my email provider for 2$ a GB, or to buy a VPS for 15$/y for 50gb.
+[2016/01/17 11:18:41] <Tobbi> head8debian: By the way: We have SeagullIP
+[2016/01/17 11:18:48] <head8debian> Tobbi: Lovely.
+[2016/01/17 11:18:55] <head8debian> Tobbi: Seagulls poop everywhere.
+[2016/01/17 11:19:10] <mt> I'm with Deutsche Telekom, there's no Kabel *-ISP here
+[2016/01/17 11:19:18] <Tobbi> mt: How much do you pay?
+[2016/01/17 11:19:55] <head8debian> Im also confused if my email provider wants pay every year, since he says he does, but the  'how much time till you have to pay' has not changed...
+[2016/01/17 11:20:49] <mt> Tobbi: 34,95 € for 16 MBit/s LTE + 16 MBit/s DSL (DSL is actually only 0.5 KBit/s here); no data cap
+[2016/01/17 11:20:53] <mt> per month
+[2016/01/17 11:21:15] <Tobbi> mt: That's actually "okayish"...
+[2016/01/17 11:21:18] <mt> VoIP is also included
+[2016/01/17 11:21:34] <Tobbi> I do have telephone as well here.
+[2016/01/17 11:21:49] <Tobbi> mt: Actually, mobile internet is something I don't have...soo...
+[2016/01/17 11:22:10] <mt> well, the LTE is for my home as well
+[2016/01/17 11:22:19] <mt> because there's only slow DSL
+[2016/01/17 11:22:36] <Tobbi> mt: My father got around 60 Mbit / s and uses it for e-mail and browsing the internet.
+[2016/01/17 11:22:52] <head8debian> VOIP would suffer badly on this conection...
+[2016/01/17 11:23:09] <head8debian> Maybe i should just buy some more cloud space from my email provider.... well...
+[2016/01/17 11:23:18] <head8debian> Hmm.
+[2016/01/17 11:23:30] <Tobbi> head8debian: What's wrong with dropbox?
+[2016/01/17 11:23:35] <Tobbi> Or Microsoft thigny.
+[2016/01/17 11:23:37] <mt> they say there's going to be faster DSL
+[2016/01/17 11:23:41] <mt> in 2 weeks
+[2016/01/17 11:23:44] <head8debian> Tobbi: I don't trust them. :p
+[2016/01/17 11:24:02] <Tobbi> mt: So, probably VDSL...
+[2016/01/17 11:24:08] <head8debian> But then again, do i trust my openmailbox.org, or a VPS host?
+[2016/01/17 11:24:19] <Tobbi> head8debian: Whom do you trust?
+[2016/01/17 11:24:25] <Tobbi> How do you define trust?
+[2016/01/17 11:24:29] <head8debian> Tobbi: Nobody. :p
+[2016/01/17 11:24:32] <Tobbi> How do you dolphin trust?
+[2016/01/17 11:24:37] <Tobbi> How do you trust dolphins?
+[2016/01/17 11:24:46] <Tobbi> How do dolphins trust you?
+[2016/01/17 11:24:47] <head8debian> Yes, i do trust the filemanager called dolphin.
+[2016/01/17 11:24:51] <Tobbi> Is a dolphin even an animal?
+[2016/01/17 11:25:07] * head8debian should just buy a VPS and a super-cheap domain...
+[2016/01/17 11:25:26] <head8debian> Then i can customize it all i want.
+[2016/01/17 11:25:26] <Tobbi> head8debian.ilovepinkishkittens.tk
+[2016/01/17 11:26:12] <mt> there's a user with is.the.best.pony as vHost on freenode :D
+[2016/01/17 11:26:21] <mt> usually freenode staff doesn't do custom vHosts
+[2016/01/17 11:26:26] <Tobbi> :D
+[2016/01/17 11:26:36] <mt> but they apparently thought it was funny to do that once
+[2016/01/17 11:26:42] <Tobbi> Well, alright.
+[2016/01/17 11:27:57] <Tobbi> head8debian: cf is also free of charge.
+[2016/01/17 11:28:06] <Tobbi> -> tobbi.cf redirects to tobbi.bplaced.net
+[2016/01/17 11:28:08] <head8debian> cf?
+[2016/01/17 11:28:18] <head8debian> .cf*?
+[2016/01/17 11:28:48] <Tobbi> yes.
