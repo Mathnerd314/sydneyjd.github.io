@@ -44987,3 +44987,25 @@
 [2016/01/17 14:59:34] <kneekoo> high specs for such a small resolution
 [2016/01/17 14:59:42] <jeezy> ya
 [2016/01/17 14:59:51] <kneekoo> the web is no longer nice at that size
+[2016/01/17 15:00:11] <jeezy> it's fine for this machine
+[2016/01/17 15:00:15] <jeezy> small compact portable
+[2016/01/17 15:00:44] <kneekoo> you're pulling my leg big time
+[2016/01/17 15:00:50] <jeezy> what do you mean?
+[2016/01/17 15:01:08] <kneekoo> I mean you're kidding me
+[2016/01/17 15:01:25] <jeezy> here is a dmesg from last year http://dmesgd.nycbug.org/index.cgi?action=dmesgd&do=view&id=2783
+[2016/01/17 15:07:08] <kneekoo> ...
+[2016/01/17 15:08:54] <jeezy> kneekoo: are you trolling me or something?
+[2016/01/17 15:09:16] <jeezy> i dont appreciate it, im just here to chat and have fun like everyone else
+[2016/01/17 15:09:17] <kneekoo> no, I thought you were
+[2016/01/17 15:09:55] <kneekoo> I don't even know what to say about a quad-core on SSD RAID for terminal emulators and web browsing
+[2016/01/17 15:10:13] <jeezy> kneekoo: no i was being serious
+[2016/01/17 15:10:36] <jeezy> i have other computers or high res demands
+[2016/01/17 15:11:03] <jeezy> kneekoo: no worries then, friend; sorry for that accusation
+[2016/01/17 15:11:30] <kneekoo> yeah, no problem
+[2016/01/17 15:11:39] <kneekoo> I'm still in shock :))
+[2016/01/17 15:11:43] <jeezy> :)
+[2016/01/17 15:13:06] <Tobbi> Where is shock...
+[2016/01/17 15:13:12] <Tobbi> I'd like to travel there.
+[2016/01/17 15:13:17] <jeezy> lol
+[2016/01/17 15:13:39] <Tobbi> oh, here: https://en.wikipedia.org/wiki/Shock,_West_Virginia
+[2016/01/17 15:13:56] <jeezy> ahh
