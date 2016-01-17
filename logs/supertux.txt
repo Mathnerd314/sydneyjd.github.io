@@ -44545,3 +44545,5 @@
 [2016/01/16 20:08:35] @ Quit: swift110: Ping timeout: 260 seconds
 [2016/01/16 20:08:41] @ Quit: irungentoo: Remote host closed the connection
 [2016/01/16 21:11:45] @ swift110 joined channel #supertux
+[2016/01/16 21:31:53] @ jesusalva joined channel #supertux
+[2016/01/16 21:33:45] @ Quit: swift110: Ping timeout: 260 seconds
