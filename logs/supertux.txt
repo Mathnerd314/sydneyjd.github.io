@@ -44759,3 +44759,9 @@
 [2016/01/17 11:44:16] <mt> http://iconic.sydney/register-domain/
 [2016/01/17 11:44:30] <head8debian> I shouldn't have asked...
 [2016/01/17 11:44:34] <head8debian> lol.
+[2016/01/17 11:51:36] @ Joined channel #supertux
+[2016/01/17 11:51:36] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/01/17 11:51:36] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
+[2016/01/17 11:51:39] @ Mode +Cntj 5:10 by leguin.freenode.net
+[2016/01/17 11:51:44] <head8debian> o_O
+[2016/01/17 11:51:48] @ Mode +o red_bot by ChanServ
