@@ -45095,3 +45095,6 @@
 [2016/01/17 16:59:01] @ Mode +o Tobbi by ChanServ
 [2016/01/17 16:59:14] <Tobbi> phew.
 [2016/01/17 16:59:34] <kneekoo> connectivity issues?
+[2016/01/17 17:01:16] <kneekoo> 50%
+[2016/01/17 17:06:02] @ head8debian joined channel #supertux
+[2016/01/17 17:06:02] @ Mode +o head8debian by ChanServ
