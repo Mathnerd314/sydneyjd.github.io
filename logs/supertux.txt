@@ -44781,3 +44781,14 @@
 [2016/01/17 12:27:59] <Hume2> Are you thinking about an easter egg?
 [2016/01/17 12:29:16] <kneekoo> hello ^_^
 [2016/01/17 12:29:49] <Hume2> Hello, kneekoo
+[2016/01/17 12:32:37] <head8debian> Welcome kneekoo. :)
+[2016/01/17 12:32:47] <kneekoo> thank you :)
+[2016/01/17 12:33:10] <kneekoo> how are things going? all well?
+[2016/01/17 12:34:05] <Hume2> I think so.
+[2016/01/17 12:36:36] <mt> hm
+[2016/01/17 12:36:52] <mt> I think I'm gonna accept the Indonesian and Javanese translation requests
+[2016/01/17 12:43:44] @ Joined channel #supertux
+[2016/01/17 12:43:44] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/01/17 12:43:44] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
+[2016/01/17 12:43:49] @ Mode +Cntj 5:10 by sendak.freenode.net
+[2016/01/17 12:43:57] @ Mode +o red_bot by ChanServ
