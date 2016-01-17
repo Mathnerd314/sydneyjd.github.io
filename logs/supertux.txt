@@ -44922,3 +44922,22 @@
 [2016/01/17 13:44:02] <Tobbi> head8debian: Also, we HAVE that on the homepage.
 [2016/01/17 13:44:09] <head8debian> Oh.
 [2016/01/17 13:44:19] <Tobbi> head8debian: Check the bottom of the contact page.
+[2016/01/17 13:46:06] @ Jesusaves joined channel #supertux
+[2016/01/17 13:48:59] <head8debian> Tobbi: https://en.wikipedia.org/wiki/SuperTux
+[2016/01/17 13:49:00] <head8debian> :D
+[2016/01/17 13:49:45] <Tobbi> head8debian: cool. You should add more things and expand the article.
+[2016/01/17 13:50:10] <Tobbi> Such as SuperTux's history.
+[2016/01/17 13:51:12] <Tobbi> Do we even have a history?
+[2016/01/17 13:52:14] <Hume2> We have Git log :D
+[2016/01/17 13:52:45] <Tobbi> Hume2: That's not the same.
+[2016/01/17 13:53:03] <Hume2> I know :)
+[2016/01/17 13:53:08] <Tobbi> Hume2: Or would you rather have savsish's 10000 commits about changing individual language files show up in the wikipedia article?
+[2016/01/17 13:53:25] <Hume2> No no no no...
+[2016/01/17 13:53:32] <Hume2> :D
+[2016/01/17 13:53:50] <Tobbi> "In late 2014, Github contributor ''Savsish'' managed to include translation files into the game, something hitherto no one has managed"
+[2016/01/17 13:54:10] <Hume2> Yes, I've already noticed.
+[2016/01/17 13:54:24] @ Quit: alket: Quit: Konversation terminated!
+[2016/01/17 13:54:44] @ alket joined channel #supertux
+[2016/01/17 13:55:04] <Hume2> We have 363 stars anyway.
+[2016/01/17 13:55:14] <Hume2> That's Narre's favourite number.
+[2016/01/17 13:56:22] <Tobbi> It's slightly reddish and black.
