@@ -45068,3 +45068,5 @@
 [2016/01/17 15:53:48] <kneekoo> nope, libcurlpp-dev wasn't the one
 [2016/01/17 15:56:02] @ Quit: claymore2: Quit: Leaving
 [2016/01/17 15:57:00] <kneekoo> libcurl4-openssl-dev got me further :)
+[2016/01/17 16:01:30] <kneekoo> wow, libboost is another hog :))
+[2016/01/17 16:01:48] <kneekoo> 93.4 MB of libraries
