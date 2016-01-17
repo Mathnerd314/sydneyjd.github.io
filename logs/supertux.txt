@@ -45009,3 +45009,28 @@
 [2016/01/17 15:13:17] <jeezy> lol
 [2016/01/17 15:13:39] <Tobbi> oh, here: https://en.wikipedia.org/wiki/Shock,_West_Virginia
 [2016/01/17 15:13:56] <jeezy> ahh
+[2016/01/17 15:17:21] <kneekoo> so do I have to install libsdl2-dev to compile 0.4.0?
+[2016/01/17 15:18:13] <kneekoo> (I'm trying to compile 0.4.0 on RasPi)
+[2016/01/17 15:19:24] <Tobbi> kneekoo: I think so. Can't you simply install build-dep supertux?
+[2016/01/17 15:19:55] <kneekoo> I'm a power-user, not a power-compiler :P
+[2016/01/17 15:20:02] <kneekoo> so I have no idea :)
+[2016/01/17 15:21:05] <kneekoo> I installed cmake, which went easy, then libsdl2-dev wants 71 more packages and I asked because I don't want to burden my mSD card if I don't have to
+[2016/01/17 15:21:47] <Tobbi> Ah.
+[2016/01/17 15:21:47] <kneekoo> I just wanted to make sure it's that specific package
+[2016/01/17 15:22:04] <Tobbi> kneekoo: sudo apt-get build-dep supertux?
+[2016/01/17 15:22:32] <kneekoo> from the source?
+[2016/01/17 15:23:09] <kneekoo> I downloaded the source, unpacked it, created a "build" directory, entered inside and ran "cmake .." as instructed
+[2016/01/17 15:23:29] <kneekoo> I never played with build-dep so I don't know how to use it or what to expect :)
+[2016/01/17 15:23:40] <Tobbi> kneekoo: build-dep installs build-dependencies..
+[2016/01/17 15:24:44] <kneekoo> ok, but how does apt know the build dependencies if 0.1.3 is in the repository?
+[2016/01/17 15:25:32] <Tobbi> oh.
+[2016/01/17 15:25:35] <Tobbi> kneekoo: Is it?
+[2016/01/17 15:26:00] <kneekoo> yes, I installed it earlier and played the first level :P
+[2016/01/17 15:26:29] <kneekoo> but I want to give 0.4.0 a try on my Pi
+[2016/01/17 15:28:10] <kneekoo> oh well, I'll try it my way and see how it goes
+[2016/01/17 15:28:18] <kneekoo> wish me luck! :)
+[2016/01/17 15:28:31] <Jesusaves> Good luck!
+[2016/01/17 15:28:37] * Jesusaves hides
+[2016/01/17 15:28:41] <kneekoo> :))
+[2016/01/17 15:29:15] <kneekoo> my poor RasPi...
+[2016/01/17 15:29:35] <kneekoo> installing 72 packages for one compiler dependency
