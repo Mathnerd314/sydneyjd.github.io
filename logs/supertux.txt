@@ -44528,3 +44528,6 @@
 [2016/01/16 18:24:29] @ swift110 joined channel #supertux
 [2016/01/16 18:25:25] <pentagon> [10supertux] 07MiroslavR commented on issue 09#314: Option to enter ghost mode from cheat menu 13https://github.com/SuperTux/supertux/pull/314
 [2016/01/16 18:30:35] <pentagon> [10supertux] Status for commit Remove code that is never executed by 07MiroslavR: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/102857974
+[2016/01/16 19:05:58] @ Quit: jesusalva: Ping timeout: 276 seconds
+[2016/01/16 19:10:33] <pentagon> [10supertux] 07Grumbel pushed 1 commit to 09master 13https://github.com/SuperTux/supertux/compare/c3edde698049...316b24125119
+[2016/01/16 19:10:38] <pentagon> [10supertux] 07Grumbel 14316b241 Allow hidding cheat menu by pressing the cheat menu button
