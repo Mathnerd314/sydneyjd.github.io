@@ -45057,3 +45057,14 @@
 [2016/01/17 15:43:31] <kneekoo> I have a mSD with OpenELEC 16 and I jsut switch the Raspbian with it and play stuff
 [2016/01/17 15:43:39] <kneekoo> no, OpenELEC 6
 [2016/01/17 15:43:50] <kneekoo> Kodi is going 16 soon
+[2016/01/17 15:45:34] @ Quit: alket: Quit: Konversation terminated!
+[2016/01/17 15:47:26] <Tobbi> I always use the latest nightly.
+[2016/01/17 15:47:50] <kneekoo> as a contributer, no wonder
+[2016/01/17 15:48:24] <kneekoo> which libcurl package should I install?
+[2016/01/17 15:48:39] <kneekoo> I have versions 3 and 4 but no -dev package
+[2016/01/17 15:50:30] <kneekoo> actually, there are four -dev packages but I don't know if they are the right ones: libcurl4-gnutls-dev, libcurl4-openssl-dev, libcurl-ocaml-dev and libcurlpp-dev
+[2016/01/17 15:50:44] <kneekoo> I'm tempted to install libcurlpp-dev
+[2016/01/17 15:51:47] <kneekoo> I don't know why there isn't a libcurl-dev package, like all the others have one -dev without extra stuff
+[2016/01/17 15:53:48] <kneekoo> nope, libcurlpp-dev wasn't the one
+[2016/01/17 15:56:02] @ Quit: claymore2: Quit: Leaving
+[2016/01/17 15:57:00] <kneekoo> libcurl4-openssl-dev got me further :)
