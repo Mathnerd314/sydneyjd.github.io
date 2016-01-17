@@ -44859,3 +44859,21 @@
 [2016/01/17 13:14:18] <mt> you can, I think
 [2016/01/17 13:14:21] <kneekoo> :))
 [2016/01/17 13:14:49] <kneekoo> I won't sit on my Raspberry Pi while playing SuperTux on my PC, that's for sure
+[2016/01/17 13:15:08] <kneekoo> I never looked if there's a build for the Pi
+[2016/01/17 13:15:24] * kneekoo goes to check
+[2016/01/17 13:16:36] <mt> you can also build it yourself
+[2016/01/17 13:17:13] <head8debian> We will do a twitter post in a couple days, it hasn't been a month since the release. :p
+[2016/01/17 13:17:27] <kneekoo> it looks like it's been built and advertised in a book https://www.safaribooksonline.com/library/view/raspberry-pi-gaming/9781784399337/ch06s02.html
+[2016/01/17 13:17:38] @ Quit: xet7: Ping timeout: 246 seconds
+[2016/01/17 13:18:23] <kneekoo> aw yeah! https://m.youtube.com/watch?v=IEqZDHZtnrg
+[2016/01/17 13:21:05] <polyphagia> kneekoo: i don't know if the latest builds will be as fast
+[2016/01/17 13:21:10] <polyphagia> make sure to use the lowest resolution
+[2016/01/17 13:23:52] <Tobbi> kneekoo: By the way: Is your first name Niko? :D
+[2016/01/17 13:23:58] <Tobbi> Your nickname suggests that.
+[2016/01/17 13:23:59] <Tobbi> :D
+[2016/01/17 13:24:32] <kneekoo> almost :) but yes
+[2016/01/17 13:24:37] <Tobbi> :D
+[2016/01/17 13:25:12] <kneekoo> in my language it's "Nicu", and reading "kneekoo" in English sounds almost the same
+[2016/01/17 13:25:23] <Tobbi> Ah okay
+[2016/01/17 13:29:32] <Tobbi> Do we flog this guy? http://forum.freegamedev.net/viewtopic.php?f=67&t=6742
+[2016/01/17 13:29:32] @ venka joined channel #supertux
