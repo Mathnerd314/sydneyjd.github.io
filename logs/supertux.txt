@@ -44581,3 +44581,4 @@
 [2016/01/17 06:36:04] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://github.com/SuperTux/supertux/compare/dbcec2a72aaa...fff0fc241d82
 [2016/01/17 06:36:08] <pentagon> [10supertux] 07Hume2 14fff0fc2 Mirroring the falling badguy now uses push/pop target correctly.
 [2016/01/17 06:41:36] <pentagon> [10supertux] Status for commit Mirroring the falling badguy now uses push/pop target correctly. by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/305
+[2016/01/17 06:50:44] <pentagon> [10supertux] Status for commit Mirroring the falling badguy now uses push/pop target correctly. by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/102915263
