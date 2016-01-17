@@ -44560,3 +44560,5 @@
 [2016/01/17 02:27:15] @ lumidify joined channel #supertux
 [2016/01/17 02:37:22] @ tuxdev_ joined channel #supertux
 [2016/01/17 03:10:40] @ Quit: lumidify: Quit: Leaving
+[2016/01/17 04:09:01] @ Quit: tux|dude: Quit: Leaving
+[2016/01/17 04:11:38] @ Quit: tuxdev_: Ping timeout: 246 seconds
