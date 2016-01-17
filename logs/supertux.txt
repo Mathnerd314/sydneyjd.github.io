@@ -44548,3 +44548,8 @@
 [2016/01/16 21:31:53] @ jesusalva joined channel #supertux
 [2016/01/16 21:33:45] @ Quit: swift110: Ping timeout: 260 seconds
 [2016/01/16 21:47:42] @ Quit: Wuzzy: Quit: Wuzzy
+[2016/01/16 22:01:31] @ tux|dude joined channel #supertux
+[2016/01/16 22:02:19] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/16 22:05:24] @ Quit: jesusalva: Ping timeout: 256 seconds
+[2016/01/16 22:05:51] @ jesusalva joined channel #supertux
+[2016/01/16 22:06:39] @ Quit: jesusalva: Client Quit
