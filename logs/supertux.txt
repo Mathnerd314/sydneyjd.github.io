@@ -44531,3 +44531,12 @@
 [2016/01/16 19:05:58] @ Quit: jesusalva: Ping timeout: 276 seconds
 [2016/01/16 19:10:33] <pentagon> [10supertux] 07Grumbel pushed 1 commit to 09master 13https://github.com/SuperTux/supertux/compare/c3edde698049...316b24125119
 [2016/01/16 19:10:38] <pentagon> [10supertux] 07Grumbel 14316b241 Allow hidding cheat menu by pressing the cheat menu button
+[2016/01/16 19:15:40] <pentagon> [10supertux] 07Grumbel pushed 1 commit to 09master 13https://github.com/SuperTux/supertux/compare/316b24125119...9e0f89cd468e
+[2016/01/16 19:15:42] @ Quit: alket: Quit: Konversation terminated!
+[2016/01/16 19:15:44] <pentagon> [10supertux] 07Karkus476 149e0f89c Option to enter ghost mode from cheat menu
+[2016/01/16 19:16:05] <pentagon> [10supertux] 07Grumbel commented on issue 09#314: Option to enter ghost mode from cheat menu 13https://github.com/SuperTux/supertux/pull/314
+[2016/01/16 19:16:17] <pentagon> [10supertux] 07Grumbel closed pull request 09#314: Option to enter ghost mode from cheat menu 13https://github.com/SuperTux/supertux/pull/314
+[2016/01/16 19:16:27] <pentagon> [10supertux] Status for commit Allow hidding cheat menu by pressing the cheat menu button by 07Ingo Ruhnke: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/301
+[2016/01/16 19:19:35] <pentagon> [10supertux] 07Grumbel opened issue 09#333: Make icecube eyes blink a moment before waking up 13https://github.com/SuperTux/supertux/issues/333
+[2016/01/16 19:22:25] <pentagon> [10supertux] Status for commit Option to enter ghost mode from cheat menu by 07Karkus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/302
+[2016/01/16 19:25:51] <pentagon> [10supertux] Status for commit Allow hidding cheat menu by pressing the cheat menu button by 07Ingo Ruhnke: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/102864657
