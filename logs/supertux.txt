@@ -45098,3 +45098,10 @@
 [2016/01/17 17:01:16] <kneekoo> 50%
 [2016/01/17 17:06:02] @ head8debian joined channel #supertux
 [2016/01/17 17:06:02] @ Mode +o head8debian by ChanServ
+[2016/01/17 17:17:00] <kneekoo> 60%
+[2016/01/17 17:18:28] <Tobbi> kneekoo: No, my laptop just likes to enter sleep mode...
+[2016/01/17 17:18:39] <Tobbi> And since I'm working on multiple devices simultaneously...
+[2016/01/17 17:20:01] <kneekoo> if the devices get to sleep, they're neglected :P
+[2016/01/17 17:20:39] <pentagon> [10supertux] 07IndianaTux opened issue 09#334: Haywire bomb game crash  13https://github.com/SuperTux/supertux/issues/334
+[2016/01/17 17:25:52] <kneekoo> oooh... compiler output
+[2016/01/17 17:27:00] <kneekoo> log_debug << "Malformed utf-8 sequence beginning with " << *(reinterpret_cast<const uint32_t*>...
