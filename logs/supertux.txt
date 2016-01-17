@@ -44818,3 +44818,44 @@
 [2016/01/17 12:59:28] <kneekoo> try using a nasty password
 [2016/01/17 12:59:53] <kneekoo> not as in "PayPalSucksBallz" but "oi376*&^GB&*&bg()"
 [2016/01/17 12:59:56] <head8debian> kneekoo: I used a password generator and made it as long as paypal could support.
+[2016/01/17 13:00:05] <kneekoo> I see
+[2016/01/17 13:00:07] <head8debian> Which is suprisingly small.
+[2016/01/17 13:00:11] <kneekoo> then they are drunk
+[2016/01/17 13:00:12] <head8debian> Like 30 characters.
+[2016/01/17 13:01:03] <kneekoo> those are enough
+[2016/01/17 13:01:35] <kneekoo> I don't think PayPal doesn't have brute-force protection
+[2016/01/17 13:02:04] <mt> >as long as paypal could support
+[2016/01/17 13:02:07] <head8debian> Fun fun...
+[2016/01/17 13:02:08] <mt> >30 characters
+[2016/01/17 13:02:23] <mt> really? maximum limits on passwords?
+[2016/01/17 13:03:04] <kneekoo> yeah, some dumb-asses still have the mindset of saving clear-text passwords in the DB
+[2016/01/17 13:03:19] <kneekoo> so they limit to whatever they consider long enough
+[2016/01/17 13:03:42] <kneekoo> I want to login with my SuperTuz .tar.gz!
+[2016/01/17 13:03:52] <kneekoo> it still boils down to a hash, right? :))
+[2016/01/17 13:03:58] <kneekoo> SuperTux
+[2016/01/17 13:04:05] <mt> or, whatever they consider as safe enough that people can't flood their DBs
+[2016/01/17 13:04:37] <kneekoo> the hashes have limited length anyway
+[2016/01/17 13:04:56] * Hume2 hates all those password restrictions.
+[2016/01/17 13:05:14] <kneekoo> so a password length restriction is borderline stupid these days
+[2016/01/17 13:05:44] <kneekoo> the web pages weigh MB in size and they restrict us to 30 character-long password :))
+[2016/01/17 13:05:59] <kneekoo> there's absolute no logical reason for that
+[2016/01/17 13:06:04] <Hume2> :D
+[2016/01/17 13:06:40] <Hume2> Storing the password in literal state is unsafe though.
+[2016/01/17 13:06:59] <kneekoo> so how do we login on supertuxproject.org? :D can I choose a 128-long password?
+[2016/01/17 13:07:20] <Tobbi> I don't even remember the password to our twitter account.
+[2016/01/17 13:07:36] <Hume2> Tell me, who does.
+[2016/01/17 13:08:09] <head8debian> I do. :D
+[2016/01/17 13:08:17] <Hume2> :D
+[2016/01/17 13:08:22] <kneekoo> quick, e-mail all
+[2016/01/17 13:08:35] <head8debian> When we need to login, i will .:p
+[2016/01/17 13:09:23] <kneekoo> some updates would be really cool, at least once (screenshot of the) a month :)
+[2016/01/17 13:11:07] <kneekoo> this is it, right? https://twitter.com/supertux_team
+[2016/01/17 13:11:08] <head8debian> True, but i dont have one to post atm. lol.
+[2016/01/17 13:11:11] <head8debian> Yes.
+[2016/01/17 13:11:57] <mt> btw
+[2016/01/17 13:12:00] <mt> in the mentions
+[2016/01/17 13:12:08] <mt> there's something about SuperTux on XMir
+[2016/01/17 13:13:54] <kneekoo> can we play SuperTux on the RaspberryPi?
+[2016/01/17 13:14:18] <mt> you can, I think
+[2016/01/17 13:14:21] <kneekoo> :))
+[2016/01/17 13:14:49] <kneekoo> I won't sit on my Raspberry Pi while playing SuperTux on my PC, that's for sure
