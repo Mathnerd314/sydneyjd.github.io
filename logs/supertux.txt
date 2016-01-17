@@ -44941,3 +44941,8 @@
 [2016/01/17 13:55:04] <Hume2> We have 363 stars anyway.
 [2016/01/17 13:55:14] <Hume2> That's Narre's favourite number.
 [2016/01/17 13:56:22] <Tobbi> It's slightly reddish and black.
+[2016/01/17 14:00:56] <Hume2> :D
+[2016/01/17 14:03:10] <Hume2> It tastes like a pear.
+[2016/01/17 14:06:42] @ Quit: Hume2: Quit: Page closed
+[2016/01/17 14:09:13] @ Quit: Jesusaves: Quit: Jesusalva left the IRC.
+[2016/01/17 14:13:27] @ jesusalva joined channel #supertux
