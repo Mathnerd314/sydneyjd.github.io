@@ -44596,3 +44596,5 @@
 [2016/01/17 09:52:51] @ Mode +o Tobbi by ChanServ
 [2016/01/17 10:00:06] @ Quit: Hume2: Quit: Page closed
 [2016/01/17 10:14:56] @ Quit: lumidify: Ping timeout: 246 seconds
+[2016/01/17 10:33:04] @ Quit: nerdopolis: Ping timeout: 245 seconds
+[2016/01/17 10:33:21] @ nerdopolis joined channel #supertux
