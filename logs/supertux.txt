@@ -44724,3 +44724,38 @@
 [2016/01/17 11:28:08] <head8debian> cf?
 [2016/01/17 11:28:18] <head8debian> .cf*?
 [2016/01/17 11:28:48] <Tobbi> yes.
+[2016/01/17 11:30:23] <Tobbi> head8debian:  http://www.dot.cf/en/index.html?lang=en
+[2016/01/17 11:30:24] <head8debian> As i said, you can get them quite cheap. :D
+[2016/01/17 11:31:02] <mt> 'can I buy the "." domain plz? for, say, 10$/y?'
+[2016/01/17 11:31:21] <head8debian> :p
+[2016/01/17 11:31:41] <Tobbi> :D
+[2016/01/17 11:32:28] <mt> I wish IANA/ICANN was more open about the root zone
+[2016/01/17 11:33:45] <mt> also about new root-servers
+[2016/01/17 11:33:56] <mt> sure you need a reliable infrastructure
+[2016/01/17 11:34:17] <mt> but it's still missing a bit transparency
+[2016/01/17 11:34:47] <mt> and we're not anymore in a time where a DNS reply was that limited by size
+[2016/01/17 11:37:31] <Tobbi> I registered tobbi.cf a year ago...
+[2016/01/17 11:37:35] <Tobbi> Time passed quickly.
+[2016/01/17 11:39:06] <head8debian> Tobbi: Free for a year is not free.
+[2016/01/17 11:39:14] <Tobbi> head8debian: I renewed it...
+[2016/01/17 11:39:19] <Tobbi> head8debian: I can renew it indefinitely.
+[2016/01/17 11:39:36] <mt> freename is a bunch of idiots tho
+[2016/01/17 11:39:49] <mt> they can take away your domain for anything they'd like to
+[2016/01/17 11:39:56] <head8debian> mt: I figured.
+[2016/01/17 11:39:58] <mt> since they own it legally
+[2016/01/17 11:40:15] <head8debian> mt: Where do you recomend buying domains from?
+[2016/01/17 11:40:20] <head8debian> *real* domains. ;)
+[2016/01/17 11:40:33] <Tobbi> mt: They can take away tobbi.cf if they want.
+[2016/01/17 11:40:34] <Tobbi> I don't care.
+[2016/01/17 11:40:54] <head8debian> Tobbi: Well, i care about this more than that. :p
+[2016/01/17 11:40:55] <mt> head8debian: https://www.namecheap.com/ https://www.gandi.net/ https://www.inwx.de/
+[2016/01/17 11:41:30] <head8debian> I can register a .info for 1$ a year?!
+[2016/01/17 11:41:37] <head8debian> mt: Ok.
+[2016/01/17 11:41:50] <mt> also, if you want some exotic ccTLDs
+[2016/01/17 11:41:57] <mt> try registering with a local registrar
+[2016/01/17 11:43:12] <mt> e.g. inwx.de wants 34.9 EUR/year for .si, domene.si wants 12.9 EUR/year
+[2016/01/17 11:43:32] <head8debian> Any .sydney? :p
+[2016/01/17 11:43:51] <head8debian> :-)
+[2016/01/17 11:44:16] <mt> http://iconic.sydney/register-domain/
+[2016/01/17 11:44:30] <head8debian> I shouldn't have asked...
+[2016/01/17 11:44:34] <head8debian> lol.
