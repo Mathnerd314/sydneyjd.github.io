@@ -44948,3 +44948,12 @@
 [2016/01/17 14:13:27] @ jesusalva joined channel #supertux
 [2016/01/17 14:27:20] * kneekoo finished updating the Pi, watching how supertux installs ^_^
 [2016/01/17 14:28:31] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/17 14:33:24] <kneekoo> wow... 0.1.3
+[2016/01/17 14:34:00] <kneekoo> I just played the first level and I remember the annoyances :P
+[2016/01/17 14:34:12] <kneekoo> not being able to go back... on, man
+[2016/01/17 14:34:36] <kneekoo> and no acceleration
+[2016/01/17 14:37:09] @ leyyin joined channel #supertux
+[2016/01/17 14:37:34] @ Jesusaves joined channel #supertux
+[2016/01/17 14:39:49] @ Quit: jesusalva: Read error: Connection reset by peer
+[2016/01/17 14:41:37] @ Tobbi joined channel #supertux
+[2016/01/17 14:41:37] @ Mode +o Tobbi by ChanServ
