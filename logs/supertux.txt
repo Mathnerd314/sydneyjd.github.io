@@ -44542,3 +44542,5 @@
 [2016/01/16 19:25:51] <pentagon> [10supertux] Status for commit Allow hidding cheat menu by pressing the cheat menu button by 07Ingo Ruhnke: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/102864657
 [2016/01/16 19:38:33] <pentagon> [10supertux] Status for commit Option to enter ghost mode from cheat menu by 07Karkus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/102865143
 [2016/01/16 19:42:41] @ Quit: Karkus: Quit: Division By Zero
+[2016/01/16 20:08:35] @ Quit: swift110: Ping timeout: 260 seconds
+[2016/01/16 20:08:41] @ Quit: irungentoo: Remote host closed the connection
