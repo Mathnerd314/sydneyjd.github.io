@@ -45110,3 +45110,11 @@
 [2016/01/17 17:47:43] @ leyyin joined channel #supertux
 [2016/01/17 17:48:50] @ Quit: tuxdev_: Ping timeout: 260 seconds
 [2016/01/17 17:48:58] @ Quit: leyyin: Client Quit
+[2016/01/17 18:01:01] <kneekoo> 100% ... linking...
+[2016/01/17 18:03:43] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/17 18:04:02] <kneekoo> done
+[2016/01/17 18:06:19] <kneekoo> unplayable on the Pi
+[2016/01/17 18:06:32] @ Tobbi joined channel #supertux
+[2016/01/17 18:06:32] @ Mode +o Tobbi by ChanServ
+[2016/01/17 18:06:50] <kneekoo> even the start screen still loads (fading in)
+[2016/01/17 18:07:07] <kneekoo> and the sound skips
