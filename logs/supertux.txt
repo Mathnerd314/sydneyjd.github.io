@@ -44946,3 +44946,5 @@
 [2016/01/17 14:06:42] @ Quit: Hume2: Quit: Page closed
 [2016/01/17 14:09:13] @ Quit: Jesusaves: Quit: Jesusalva left the IRC.
 [2016/01/17 14:13:27] @ jesusalva joined channel #supertux
+[2016/01/17 14:27:20] * kneekoo finished updating the Pi, watching how supertux installs ^_^
+[2016/01/17 14:28:31] @ Quit: Tobbi: Remote host closed the connection
