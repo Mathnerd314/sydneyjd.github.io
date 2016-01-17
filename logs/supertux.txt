@@ -44602,3 +44602,63 @@
 [2016/01/17 10:54:33] <head8debian> Hrm, what to do...
 [2016/01/17 10:56:21] @ Hume2 joined channel #supertux
 [2016/01/17 10:56:21] @ Mode +o Hume2 by ChanServ
+[2016/01/17 11:04:53] <Tobbi> head8debian: Proper "downer lava tiles" :P
+[2016/01/17 11:05:04] <Tobbi> Or find out about ways to send chocolate my way without paying a fortune.
+[2016/01/17 11:05:05] <head8debian> Tobbi: :p
+[2016/01/17 11:05:16] <Tobbi> head8debian: I'd prefer the latter, actually.
+[2016/01/17 11:05:51] <head8debian> Tobbi: Im actually trying to make up my mind on weather or not to buy a VPS and do my own cloud hosting or to pay my email provider a ( i think) one time fee for it.
+[2016/01/17 11:06:01] @ alket joined channel #supertux
+[2016/01/17 11:06:03] <head8debian> Both have Pros and cons...
+[2016/01/17 11:06:31] <Tobbi> head8debian: What? You can pay for a VPS but don't want to spend some valuable money for your good ol' friend Tobbi who's suffering every day by being the interim project lead?
+[2016/01/17 11:06:40] <Tobbi> How dare you?
+[2016/01/17 11:06:41] <Tobbi> :D
+[2016/01/17 11:06:53] <head8debian> Tobbi: Not 25$ to ship 2$ worth of chocolate. :p
+[2016/01/17 11:07:11] <Tobbi> head8debian: Maybe you should maximize the value...Put more chocolate in.
+[2016/01/17 11:07:21] <Tobbi> Or buy more expensive chocolate for those shipping costs.
+[2016/01/17 11:07:29] <Tobbi> Everyone will be happier then, including me.
+[2016/01/17 11:07:31] <head8debian> I cannot afford to. :p
+[2016/01/17 11:07:48] <Tobbi> head8debian: If you can afford a VPS, you can afford sending me chocolate.
+[2016/01/17 11:07:54] <Tobbi> And what is better value for your money, huh?
+[2016/01/17 11:08:11] <Tobbi> I'd say sending me chocolate. Since that will allow you to make someone happy in the long term.
+[2016/01/17 11:08:24] <Tobbi> a VPS will make you sad because it costs electricity.
+[2016/01/17 11:08:33] <Tobbi> However, I will remember that act of kindness for years to come.
+[2016/01/17 11:08:39] <Tobbi> Thus, long term investment: check.
+[2016/01/17 11:08:55] * head8debian rolls his eyes...
+[2016/01/17 11:09:07] <Tobbi> :D
+[2016/01/17 11:09:17] * Tobbi is writing some documentation
+[2016/01/17 11:09:27] <head8debian> You fix my internet first. Im pretty much locked down to IRC. :D
+[2016/01/17 11:09:34] <head8debian> :p
+[2016/01/17 11:10:04] <Tobbi> head8debian: I will personally come over to your place and fix that internet for you.
+[2016/01/17 11:10:11] <Tobbi> That is, if you pay for travel and 5-star hotel.
+[2016/01/17 11:10:17] <Tobbi> And lodging.
+[2016/01/17 11:10:18] <head8debian> The only issue i have with going the VPS route is that i have no clue if they will go out of buisiness in a week... their website is pretty sketchy.
+[2016/01/17 11:10:28] <Tobbi> eh, wait.
+[2016/01/17 11:10:35] <head8debian> Tobbi: 5 star hotel? You sleep with a goat. :p
+[2016/01/17 11:10:46] <Tobbi> head8debian: They won't allow that in a 5-star-hotel.
+[2016/01/17 11:10:56] <Tobbi> Also, eww... I am not a goat-o-phile.
+[2016/01/17 11:11:01] <Tobbi> haha
+[2016/01/17 11:11:31] <Tobbi> Uhm, sorry, that was inappropriate.
+[2016/01/17 11:11:38] <head8debian> And i don't think you would have any succes fixing ur internet anyways, youd have to get our ISP to upgrade their whole system. :D
+[2016/01/17 11:11:38] <Tobbi> Back to my documentation.
+[2016/01/17 11:11:47] <Tobbi> head8debian: I'm gonna yell at them.
+[2016/01/17 11:11:51] <Tobbi> And that'll make them fix it.
+[2016/01/17 11:12:03] <head8debian> You can yell at them from where you are currently.
+[2016/01/17 11:12:24] <Tobbi> head8debian: They won't be able to hear me.
+[2016/01/17 11:12:29] <mt> crowdfund your own ISP
+[2016/01/17 11:12:36] <head8debian> Tobbi: But honestly Tobbi, i don't have 50$ to ship you some chocolate. :)
+[2016/01/17 11:12:49] <Tobbi> mt: He can call it GoatISP.
+[2016/01/17 11:13:03] <mt> +1
+[2016/01/17 11:13:08] <Tobbi> mt: Be happy he's not that other guy...
+[2016/01/17 11:13:15] <Tobbi> I mean *that other guy*
+[2016/01/17 11:13:20] <head8debian> mt: Heh, i wish... but we cannot get the high speed internet here with wires. There are lot of high speed ISPs around here, they just want a *ton*.
+[2016/01/17 11:13:36] <head8debian> well, high speed is about 10-40mbps.
+[2016/01/17 11:13:45] <Tobbi> head8debian: Invent GoatIP
+[2016/01/17 11:13:49] <mt> how much do they want?
+[2016/01/17 11:14:16] <Tobbi> head8debian: You just have to train a goat to carry your data (CDs, portable HDDs) and send it on its way.
+[2016/01/17 11:14:18] <head8debian> mt: the easiest one to get to my door is 140$/month for 12mb/s.
+[2016/01/17 11:14:19] <Tobbi> And make sure it doesn't get lost.
+[2016/01/17 11:14:26] <mt> head8debian: wtf
+[2016/01/17 11:14:34] <mt> what ISP is that?
+[2016/01/17 11:14:43] <head8debian> mt: The one that i can get down the road is 60$/month for 40mb/s.
+[2016/01/17 11:14:47] <Tobbi> What? I pay 20 EUR for 25Mbit down.
+[2016/01/17 11:14:52] <head8debian> But is not cabled to our door.
