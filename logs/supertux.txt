@@ -45079,3 +45079,5 @@
 [2016/01/17 16:25:00] <kneekoo> make
 [2016/01/17 16:28:07] <kneekoo> 10%
 [2016/01/17 16:29:42] @ Quit: head8debian: *.net *.split
+[2016/01/17 16:35:28] <kneekoo> 20%
+[2016/01/17 16:39:49] @ Wuzzy joined channel #supertux
