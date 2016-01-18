@@ -45142,3 +45142,6 @@
 [2016/01/18 02:18:48] @ xet7 joined channel #supertux
 [2016/01/18 02:41:34] @ Quit: lumidify: Ping timeout: 272 seconds
 [2016/01/18 03:04:45] @ Quit: tuxdev_: Ping timeout: 260 seconds
+[2016/01/18 03:30:33] @ tuxdev_ joined channel #supertux
+[2016/01/18 03:30:41] @ Betacentury joined channel #supertux
+[2016/01/18 03:36:26] @ Quit: Betacentury: Quit: Page closed
