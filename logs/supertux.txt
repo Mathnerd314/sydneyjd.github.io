@@ -45170,3 +45170,7 @@
 [2016/01/18 13:01:58] <pentagon> [10supertux] 07Karkus476 commented on issue 09#336: Haywire sound effect trigger glitch 13https://github.com/SuperTux/supertux/issues/336
 [2016/01/18 13:04:51] <mt> for some reason I have the strange feeling that github banned my server from using their URL shortener because pentagon wanted it to shorten 13xyz URLs
 [2016/01/18 13:07:27] <Karkus> mt: I don't think that's a strange feeling at all :)
+[2016/01/18 13:18:03] @ claymore2 joined channel #supertux
+[2016/01/18 13:19:21] <Hume2> Any idea what to do with this? https://github.com/SuperTux/supertux/issues/326
+[2016/01/18 13:20:06] <Hume2> It's type:brmbrmerror.
+[2016/01/18 13:22:44] @ Quit: Karkus: Ping timeout: 256 seconds
