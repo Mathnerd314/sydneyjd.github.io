@@ -45167,3 +45167,6 @@
 [2016/01/18 12:41:31] <Hume2> OK
 [2016/01/18 12:59:29] @ supertux|23033 joined channel #supertux
 [2016/01/18 12:59:51] @ supertux|23033 left channel #supertux ()
+[2016/01/18 13:01:58] <pentagon> [10supertux] 07Karkus476 commented on issue 09#336: Haywire sound effect trigger glitch 13https://github.com/SuperTux/supertux/issues/336
+[2016/01/18 13:04:51] <mt> for some reason I have the strange feeling that github banned my server from using their URL shortener because pentagon wanted it to shorten 13xyz URLs
+[2016/01/18 13:07:27] <Karkus> mt: I don't think that's a strange feeling at all :)
