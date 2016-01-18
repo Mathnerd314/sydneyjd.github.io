@@ -45179,3 +45179,4 @@
 [2016/01/18 13:35:37] @ Karkus joined channel #supertux
 [2016/01/18 13:35:37] @ Mode +o Karkus by ChanServ
 [2016/01/18 13:42:43] @ Quit: Karkus: Quit: Division By Zero
+[2016/01/18 13:53:49] @ Quit: Hume2: Quit: Page closed
