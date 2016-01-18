@@ -45123,3 +45123,5 @@
 [2016/01/17 19:07:46] <pentagon> [10supertux] 07IndianaTux opened issue 09#335: Magic block glitch 13https://github.com/SuperTux/supertux/issues/335
 [2016/01/17 19:45:19] @ jesusalva_bot joined channel #supertux
 [2016/01/17 19:51:42] @ jesusalva is now known as Jesusaves
+[2016/01/17 20:12:50] @ Jesusaves is now known as Jesusaves|SLEEP
+[2016/01/17 20:14:38] @ Quit: jesusalva_bot: Ping timeout: 260 seconds
