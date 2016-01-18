@@ -45158,3 +45158,7 @@
 [2016/01/18 10:01:36] @ tuxdev_ joined channel #supertux
 [2016/01/18 10:32:49] @ Quit: jesusalva: Quit: Good bye, God bless you.
 [2016/01/18 10:34:12] @ jesusalva joined channel #supertux
+[2016/01/18 12:09:56] @ Karkus joined channel #supertux
+[2016/01/18 12:09:56] @ Mode +o Karkus by ChanServ
+[2016/01/18 12:11:23] @ Hume2 joined channel #supertux
+[2016/01/18 12:11:23] @ Mode +o Hume2 by ChanServ
