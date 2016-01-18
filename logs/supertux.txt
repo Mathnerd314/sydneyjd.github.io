@@ -45194,3 +45194,6 @@
 [2016/01/18 16:45:08] @ paroneayea joined channel #supertux
 [2016/01/18 16:55:45] @ Quit: kneekoo: Quit: Leaving
 [2016/01/18 16:56:38] @ Quit: alket: Read error: Connection reset by peer
+[2016/01/18 17:02:13] @ Jesusaves joined channel #supertux
+[2016/01/18 17:05:30] @ Quit: jesusalva: Disconnected by services
+[2016/01/18 17:05:30] @ Jesusaves is now known as jesusalva
