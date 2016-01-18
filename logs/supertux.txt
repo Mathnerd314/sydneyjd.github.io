@@ -45152,3 +45152,5 @@
 [2016/01/18 06:43:11] <pentagon> [10supertux] 07maxteufel commented on issue 09#335: Magic block glitch 13https://github.com/SuperTux/supertux/issues/335
 [2016/01/18 06:44:07] <mt> ~note Hume2 In the future, feel free to close issues such as #335 and label them wontfix+invalid
 [2016/01/18 06:44:07] <red_bot> okay then :), mt
+[2016/01/18 08:57:43] @ supertux|81726 joined channel #supertux
+[2016/01/18 08:58:43] @ Quit: supertux|81726: Client Quit
