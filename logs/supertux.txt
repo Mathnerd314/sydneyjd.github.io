@@ -45185,3 +45185,4 @@
 [2016/01/18 15:21:22] @ Quit: swift110: Changing host
 [2016/01/18 15:21:22] @ swift110 joined channel #supertux
 [2016/01/18 15:49:03] @ Quit: claymore2: Quit: Leaving
+[2016/01/18 16:11:56] @ Quit: kneekoo: Ping timeout: 276 seconds
