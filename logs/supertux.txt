@@ -45174,3 +45174,8 @@
 [2016/01/18 13:19:21] <Hume2> Any idea what to do with this? https://github.com/SuperTux/supertux/issues/326
 [2016/01/18 13:20:06] <Hume2> It's type:brmbrmerror.
 [2016/01/18 13:22:44] @ Quit: Karkus: Ping timeout: 256 seconds
+[2016/01/18 13:31:57] <head8debian> mt: Wow, Paypal just closed my newly opened account for no apparent reason. Makes no sense, the only thing i did with it was change my password.
+[2016/01/18 13:32:46] <head8debian> So you are not the only one with strange feelings. :p
+[2016/01/18 13:35:37] @ Karkus joined channel #supertux
+[2016/01/18 13:35:37] @ Mode +o Karkus by ChanServ
+[2016/01/18 13:42:43] @ Quit: Karkus: Quit: Division By Zero
