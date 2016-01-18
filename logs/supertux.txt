@@ -45186,3 +45186,6 @@
 [2016/01/18 15:21:22] @ swift110 joined channel #supertux
 [2016/01/18 15:49:03] @ Quit: claymore2: Quit: Leaving
 [2016/01/18 16:11:56] @ Quit: kneekoo: Ping timeout: 276 seconds
+[2016/01/18 16:23:18] @ Quit: xet7: Read error: Connection reset by peer
+[2016/01/18 16:25:00] <pentagon> [10supertux] 07jpahullo starred 09supertux - 13https://github.com/jpahullo
+[2016/01/18 16:26:12] @ kneekoo joined channel #supertux
