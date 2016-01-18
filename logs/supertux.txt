@@ -45182,3 +45182,5 @@
 [2016/01/18 13:53:49] @ Quit: Hume2: Quit: Page closed
 [2016/01/18 14:00:21] @ alket joined channel #supertux
 [2016/01/18 15:10:53] @ swift110 joined channel #supertux
+[2016/01/18 15:21:22] @ Quit: swift110: Changing host
+[2016/01/18 15:21:22] @ swift110 joined channel #supertux
