@@ -45165,3 +45165,5 @@
 [2016/01/18 12:41:15] <Hume2> It's strange that always 1/3 of issues is open.
 [2016/01/18 12:41:15] <red_bot> Hume2, you have notes! [Jan-18 06:44] <mt> In the future, feel free to close issues such as #335 and label them wontfix+invalid
 [2016/01/18 12:41:31] <Hume2> OK
+[2016/01/18 12:59:29] @ supertux|23033 joined channel #supertux
+[2016/01/18 12:59:51] @ supertux|23033 left channel #supertux ()
