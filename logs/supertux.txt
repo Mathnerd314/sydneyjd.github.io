@@ -45148,3 +45148,7 @@
 [2016/01/18 03:59:45] @ Quit: tux|dude: Quit: Leaving
 [2016/01/18 04:05:14] @ Quit: tuxdev_: Ping timeout: 276 seconds
 [2016/01/18 04:19:23] @ Quit: stewboy: Read error: Connection reset by peer
+[2016/01/18 06:43:06] <pentagon> [10supertux] 07maxteufel closed issue 09#335: Magic block glitch 13https://github.com/SuperTux/supertux/issues/335
+[2016/01/18 06:43:11] <pentagon> [10supertux] 07maxteufel commented on issue 09#335: Magic block glitch 13https://github.com/SuperTux/supertux/issues/335
+[2016/01/18 06:44:07] <mt> ~note Hume2 In the future, feel free to close issues such as #335 and label them wontfix+invalid
+[2016/01/18 06:44:07] <red_bot> okay then :), mt
