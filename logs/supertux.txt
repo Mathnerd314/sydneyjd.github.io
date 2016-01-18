@@ -45191,3 +45191,6 @@
 [2016/01/18 16:26:12] @ kneekoo joined channel #supertux
 [2016/01/18 16:33:11] @ xet7 joined channel #supertux
 [2016/01/18 16:44:11] @ Quit: paroneayea: Read error: Connection reset by peer
+[2016/01/18 16:45:08] @ paroneayea joined channel #supertux
+[2016/01/18 16:55:45] @ Quit: kneekoo: Quit: Leaving
+[2016/01/18 16:56:38] @ Quit: alket: Read error: Connection reset by peer
