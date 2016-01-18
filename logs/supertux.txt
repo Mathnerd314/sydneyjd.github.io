@@ -45131,3 +45131,4 @@
 [2016/01/17 22:31:04] @ Quit: xet7: Ping timeout: 265 seconds
 [2016/01/17 22:45:54] @ Quit: Jesusaves|SLEEP: Quit: Good Night -- SLEEP. (Jesus bless you all)
 [2016/01/17 22:57:46] @ tuxdev_ joined channel #supertux
+[2016/01/18 01:17:25] <pentagon> [10supertux] 07Hume2 commented on issue 09#332: Fix a case of grown Tux having smaller height than he appears 13https://github.com/SuperTux/supertux/pull/332
