@@ -45146,3 +45146,4 @@
 [2016/01/18 03:30:41] @ Betacentury joined channel #supertux
 [2016/01/18 03:36:26] @ Quit: Betacentury: Quit: Page closed
 [2016/01/18 03:59:45] @ Quit: tux|dude: Quit: Leaving
+[2016/01/18 04:05:14] @ Quit: tuxdev_: Ping timeout: 276 seconds
