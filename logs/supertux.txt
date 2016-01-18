@@ -45197,3 +45197,5 @@
 [2016/01/18 17:02:13] @ Jesusaves joined channel #supertux
 [2016/01/18 17:05:30] @ Quit: jesusalva: Disconnected by services
 [2016/01/18 17:05:30] @ Jesusaves is now known as jesusalva
+[2016/01/18 18:17:26] @ Quit: swift110: Ping timeout: 250 seconds
+[2016/01/18 18:19:46] @ Quit: tuxdev_: Ping timeout: 240 seconds
