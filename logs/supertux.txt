@@ -45478,3 +45478,4 @@
 [2016/01/19 16:42:37] @ Quit: claymore2: Quit: Leaving
 [2016/01/19 16:43:14] @ Karkus joined channel #supertux
 [2016/01/19 16:43:14] @ Mode +o Karkus by ChanServ
+[2016/01/19 16:52:36] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
