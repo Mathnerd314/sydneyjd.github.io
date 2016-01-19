@@ -45202,3 +45202,6 @@
 [2016/01/18 18:53:15] @ Quit: jesusalva: Ping timeout: 260 seconds
 [2016/01/18 19:07:05] @ jesusalva joined channel #supertux
 [2016/01/18 19:29:32] @ irungentoo joined channel #supertux
+[2016/01/18 20:16:29] @ tux|dude joined channel #supertux
+[2016/01/18 20:17:36] @ tuxdude143 joined channel #supertux
+[2016/01/18 20:21:20] @ Quit: tux|dude: Ping timeout: 260 seconds
