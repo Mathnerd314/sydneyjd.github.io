@@ -45296,3 +45296,27 @@
 [2016/01/19 12:11:54] <Tobbi> this is gonna take some time.
 [2016/01/19 12:11:59] <Tobbi> Stupid log.
 [2016/01/19 12:13:07] <Tobbi> Karkus: http://pastebin.com/i8a2q6X9
+[2016/01/19 12:15:02] <Hume2> It looks like I got the same thing too when I tried to investigate it.
+[2016/01/19 12:15:13] <Karkus> Tobbi: Can you build?
+[2016/01/19 12:15:29] <Karkus> Last time I tried I couldn't, but I thought it was something else.
+[2016/01/19 12:15:48] <Hume2> I can build on my machine.
+[2016/01/19 12:17:51] <Karkus> Hume2: Okay, it's probably me. Let me try again, one moment
+[2016/01/19 12:18:54] <Hume2> Karkus: Are you trying Windows or Linux?
+[2016/01/19 12:20:15] <Karkus> Hume2: Linux. It's probably irrelevant, ik.
+[2016/01/19 12:20:58] <Hume2> I hoped that it's only Windows issue :P
+[2016/01/19 12:21:55] <Tobbi> Karkus: I haven't tried building on Windows in a long time.
+[2016/01/19 12:22:47] <leyyin> heresy Tobbi!!!
+[2016/01/19 12:23:10] <Tobbi> leyyin: What?
+[2016/01/19 12:23:17] <leyyin> !define heresy
+[2016/01/19 12:23:18] <pentagon> leyyin: Error: "define" is not a valid command.
+[2016/01/19 12:24:07] <Tobbi> leyyin: I know what it is, but why?
+[2016/01/19 12:24:23] <leyyin> how can you not build on windows
+[2016/01/19 12:24:51] <Tobbi> leyyin: Do you?
+[2016/01/19 12:25:01] * leyyin hides
+[2016/01/19 12:25:17] <Tobbi> leyyin: See!
+[2016/01/19 12:25:22] <Tobbi> Now, stop it.
+[2016/01/19 12:25:42] <Tobbi> leyyin: I am busy pretending to be learning...
+[2016/01/19 12:25:50] <leyyin> on IRC
+[2016/01/19 12:25:53] <leyyin> gotcha ;)
+[2016/01/19 12:26:13] <Tobbi> leyyin: Yeah...We have an oral exam about test automation tomorrow.
+[2016/01/19 12:29:59] <Hume2> I got that there is a way how to make a private repository on GitHub without paying any money.
