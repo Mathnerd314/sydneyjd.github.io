@@ -45225,3 +45225,5 @@
 [2016/01/18 23:43:48] <pentagon> [10supertux] 07n3rdopolis commented on issue 09#323: Wayland support 13https://github.com/SuperTux/supertux/issues/323
 [2016/01/18 23:50:02] <pentagon> [10supertux] 07Folkric starred 09supertux - 13https://github.com/Folkric
 [2016/01/19 01:21:39] @ tux|dude joined channel #supertux
+[2016/01/19 01:30:43] <pentagon> [10supertux] 07Hume2 opened issue 09#337: More documentation for tools 13https://github.com/SuperTux/supertux/issues/337
+[2016/01/19 01:32:34] @ stewboy joined channel #supertux
