@@ -45219,3 +45219,6 @@
 [2016/01/18 22:55:23] @ jesusalva is now known as meicchi
 [2016/01/18 22:55:27] @ Quit: irungentoo: Remote host closed the connection
 [2016/01/18 22:55:35] @ meicchi is now known as jesusalva
+[2016/01/18 23:04:26] @ Jesusaves joined channel #supertux
+[2016/01/18 23:04:28] @ Quit: Jesusaves: Client Quit
+[2016/01/18 23:05:23] @ Quit: jesusalva: Ping timeout: 255 seconds
