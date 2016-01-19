@@ -45401,3 +45401,21 @@
 [2016/01/19 15:17:06] @ Quit: jesusalva: Ping timeout: 256 seconds
 [2016/01/19 15:19:43] @ Jesusaves is now known as jesusalva
 [2016/01/19 15:19:44] @ Quit: jesusalva_bot: Read error: Connection reset by peer
+[2016/01/19 16:06:45] @ Tobbi joined channel #supertux
+[2016/01/19 16:06:46] @ Mode +o Tobbi by ChanServ
+[2016/01/19 16:09:47] <Tobbi> leyyin: I do Karate.
+[2016/01/19 16:09:55] <Tobbi> just so you know.
+[2016/01/19 16:11:13] <leyyin> oh man, you dance? :D
+[2016/01/19 16:12:54] <Tobbi> leyyin: What?
+[2016/01/19 16:12:58] <Tobbi> Karate isn't dancing.
+[2016/01/19 16:13:05] <leyyin> pff, it is :P
+[2016/01/19 16:13:22] <Tobbi> leyyin: Do you know Karate?
+[2016/01/19 16:13:27] <Tobbi> How do you know it's dancing?
+[2016/01/19 16:13:56] <leyyin> cuz it's like dancing
+[2016/01/19 16:14:07] <Tobbi> leyyin: It depends.
+[2016/01/19 16:14:15] <Tobbi> You normally don't knock people unconscious in dancing.
+[2016/01/19 16:14:19] <Tobbi> Unless you're a really terrible dancer.
+[2016/01/19 16:14:41] <leyyin> karate does not work btw
+[2016/01/19 16:14:46] <leyyin> you will get your ass kicked with karate
+[2016/01/19 16:14:55] <Tobbi> leyyin: That's why we do street fighting as well...
+[2016/01/19 16:15:00] <Tobbi> Aka, we learn how to use it.
