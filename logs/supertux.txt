@@ -45281,3 +45281,18 @@
 [2016/01/19 11:58:15] @ Mode +o Hume2 by ChanServ
 [2016/01/19 11:58:21] <Hume2> Hello
 [2016/01/19 11:58:28] <head8debian> Hume2: Hey.
+[2016/01/19 12:00:14] @ jesusalva joined channel #supertux
+[2016/01/19 12:02:25] <Karkus> Hello Hume2 :)
+[2016/01/19 12:02:38] <Hume2> Hello, Karkus :)
+[2016/01/19 12:03:54] <Tobbi> Hello guys.
+[2016/01/19 12:04:51] <Tobbi> the windows ci build started failing for whatever reason after https://github.com/SuperTux/supertux/commit/70914a6bf6481a3063a36194779a775e945e6b89
+[2016/01/19 12:04:57] <Tobbi> If anyone is willing to investigate, go ahead.
+[2016/01/19 12:05:40] @ leyyin joined channel #supertux
+[2016/01/19 12:06:00] <Hume2> hmmm...
+[2016/01/19 12:07:42] <Hume2> I thought that AppVeyor is failing.
+[2016/01/19 12:10:07] <Hume2> Well, AppVeyor is ci too, I guess. When I hear ci, I automatically think that it's Travis CI.
+[2016/01/19 12:10:28] <Karkus> Tobbi: Any error message to look at?
+[2016/01/19 12:10:36] <Tobbi> Karkus: One moment.
+[2016/01/19 12:11:54] <Tobbi> this is gonna take some time.
+[2016/01/19 12:11:59] <Tobbi> Stupid log.
+[2016/01/19 12:13:07] <Tobbi> Karkus: http://pastebin.com/i8a2q6X9
