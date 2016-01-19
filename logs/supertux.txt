@@ -45212,3 +45212,5 @@
 [2016/01/18 21:07:31] @ Quit: tux|dude: Ping timeout: 260 seconds
 [2016/01/18 21:08:29] @ Quit: tuxdude143_: Ping timeout: 245 seconds
 [2016/01/18 21:26:32] @ Quit: jesusalva: Ping timeout: 276 seconds
+[2016/01/18 21:32:52] @ Quit: tuxdude143: Quit: Leaving
+[2016/01/18 21:35:52] @ jesusalva joined channel #supertux
