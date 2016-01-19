@@ -45320,3 +45320,53 @@
 [2016/01/19 12:25:53] <leyyin> gotcha ;)
 [2016/01/19 12:26:13] <Tobbi> leyyin: Yeah...We have an oral exam about test automation tomorrow.
 [2016/01/19 12:29:59] <Hume2> I got that there is a way how to make a private repository on GitHub without paying any money.
+[2016/01/19 12:30:32] <Hume2> Well, it's not much private, but closed-source.
+[2016/01/19 12:31:15] <Tobbi> leyyin: I think you should troll the person owning the @supertux account on Twitter and trick him into deleting his account.
+[2016/01/19 12:32:17] <leyyin> hehe
+[2016/01/19 12:32:23] <leyyin> is that a challenge?
+[2016/01/19 12:32:29] <Hume2> I don't watch Twitter. Is there a troll that pretrnds to be supertux or it's we?
+[2016/01/19 12:33:52] <Tobbi> leyyin: Yes.
+[2016/01/19 12:34:06] <Tobbi> Hume2: It's not a troll. He registered the account pretty early I guess.
+[2016/01/19 12:34:23] <Hume2> Thanks, Tobbi.
+[2016/01/19 12:34:48] <leyyin> too bad I do not got any time
+[2016/01/19 12:34:49] <Tobbi> Hume2: Yeah, August 2008...
+[2016/01/19 12:34:56] <Tobbi> leyyin: What are you doing?
+[2016/01/19 12:35:05] <leyyin> learning
+[2016/01/19 12:35:21] <Hume2> Are you learning at least something useful?
+[2016/01/19 12:35:44] <leyyin> how to conquer the world? idk, seems pretty useful to me
+[2016/01/19 12:35:53] <Tobbi> leyyin: No, you're chatting on #stk how football is not an imperial system.
+[2016/01/19 12:35:59] <Hume2> hmmm...
+[2016/01/19 12:37:27] <Hume2> When I learn school stuff, I learn only the useless things.
+[2016/01/19 12:37:58] <Hume2> It's because I already know the useful stuff and I want to pass maturita somehow.
+[2016/01/19 12:38:10] <Tobbi> Hume2: I don't learn anything and still pass.
+[2016/01/19 12:38:14] <Tobbi> See, there you go.
+[2016/01/19 12:38:52] <leyyin> Highschool....
+[2016/01/19 12:39:02] <Tobbi> leyyin: Same goes for college, most of the time.
+[2016/01/19 12:39:07] <leyyin> depends
+[2016/01/19 12:39:10] <Tobbi> I don't feel like I've learned a lot...
+[2016/01/19 12:39:29] <Tobbi> leyyin: Also, I sometimes really feel like I have no idea about computers...I sometimes feel like an impostor.
+[2016/01/19 12:39:29] <leyyin> just think what would you know now if there was no school
+[2016/01/19 12:39:35] <Hume2> I fell like I've learned a lot of useless stuff.
+[2016/01/19 12:40:11] <Tobbi> leyyin: My Bachelor thesis proof-reader told me that my thesis was easier to understand than a fellow student one's.
+[2016/01/19 12:40:21] <Tobbi> leyyin: Thus, that means it's basic and bad :P
+[2016/01/19 12:40:26] <Tobbi> aka, not technical :D
+[2016/01/19 12:40:29] <leyyin> wtf?
+[2016/01/19 12:40:43] <leyyin> is he an idiot
+[2016/01/19 12:40:51] <leyyin> easy to underastand = bad ?
+[2016/01/19 12:40:57] <Hume2> It means that it's about useless facts, I guess.
+[2016/01/19 12:40:58] <Tobbi> leyyin: No, that's what I interpret.
+[2016/01/19 12:40:59] <Tobbi> :D
+[2016/01/19 12:41:05] <Tobbi> leyyin: I think she meant it as a compliment.
+[2016/01/19 12:41:30] <leyyin> oh boy, I assumed that it is a man
+[2016/01/19 12:41:38] <leyyin> social justice warriors will go after me now
+[2016/01/19 12:41:40] <Tobbi> leyyin: She studied maths in college.
+[2016/01/19 12:42:01] <Tobbi> And does maths tutoring.
+[2016/01/19 12:42:04] <Tobbi> :)
+[2016/01/19 12:42:16] <Hume2> I started to hate the maths tests as well, you know, too easy.
+[2016/01/19 12:42:35] <Tobbi> leyyin: But, anyway... I think I am bad at anything too technical. What I did in my thesis was really easy stuff.
+[2016/01/19 12:43:08] <Tobbi> But if you were to tell me about business logic...I'm just not interested in that.
+[2016/01/19 12:43:14] <Tobbi> also, ttyl.
+[2016/01/19 12:43:21] <Hume2> When i have to construct something, it takes a really long time.
+[2016/01/19 12:43:46] <Tobbi> got to go do some sports.
+[2016/01/19 12:43:49] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/19 12:44:49] <Hume2> You know, I get stuch easily because I don't have <stuff>.
