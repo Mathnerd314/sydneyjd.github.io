@@ -45419,3 +45419,58 @@
 [2016/01/19 16:14:46] <leyyin> you will get your ass kicked with karate
 [2016/01/19 16:14:55] <Tobbi> leyyin: That's why we do street fighting as well...
 [2016/01/19 16:15:00] <Tobbi> Aka, we learn how to use it.
+[2016/01/19 16:15:05] <Tobbi> That's more advanced as well.
+[2016/01/19 16:15:22] <jesusalva> karate.exe: Bug overflow. Core dumped.
+[2016/01/19 16:15:46] <Tobbi> leyyin: Have you ever tried to do Karate=
+[2016/01/19 16:15:47] <Tobbi> _
+[2016/01/19 16:15:52] <Tobbi> damn this keyboard...
+[2016/01/19 16:15:53] <Tobbi> ?
+[2016/01/19 16:15:57] <leyyin> yes
+[2016/01/19 16:16:02] <leyyin> it's dancing
+[2016/01/19 16:16:04] <Tobbi> leyyin: How far did you get?
+[2016/01/19 16:16:12] <leyyin> not far
+[2016/01/19 16:16:19] <Tobbi> leyyin: Did you do any kata?
+[2016/01/19 16:16:21] <leyyin> but it's like yoga with screaming
+[2016/01/19 16:16:33] <Tobbi> Also, what style did you do?
+[2016/01/19 16:16:39] <leyyin> idk idk
+[2016/01/19 16:16:42] <Tobbi> Goyu ryu, shotokan...
+[2016/01/19 16:16:43] <leyyin> idk what  kata is
+[2016/01/19 16:16:44] <Tobbi> wadu ryu.
+[2016/01/19 16:16:46] <Tobbi> Okay.
+[2016/01/19 16:16:51] <Tobbi> So, probably not very far.
+[2016/01/19 16:16:52] <leyyin> idk, I do not care
+[2016/01/19 16:16:55] <leyyin> they do not work ;)
+[2016/01/19 16:17:01] <Tobbi> Anyway, the main reason for me doing this is to get some sports.
+[2016/01/19 16:17:08] <Tobbi> And to meet people.
+[2016/01/19 16:17:10] <leyyin> that is good
+[2016/01/19 16:17:16] <leyyin> but do not pretend is for self defence
+[2016/01/19 16:17:31] <Tobbi> leyyin: I don't. Although I used some of it, and it worked...
+[2016/01/19 16:17:44] <Tobbi> but might've been just me.
+[2016/01/19 16:18:08] <leyyin> it is good for exercising
+[2016/01/19 16:19:08] <jesusalva> Tobbi: I remember a movie where a person tried to apply Karate to self defense. The other one just displayed a pistol and said: "Bye."
+[2016/01/19 16:19:23] <Tobbi> leyyin: In later grades, you learn how to fight with open hands and you even fight to get the brown (?) belt?
+[2016/01/19 16:19:29] <Tobbi> Or maybe the black one. I don't know.
+[2016/01/19 16:19:46] <leyyin> then I come and hit you between your manly hood and you are dead
+[2016/01/19 16:20:08] <Tobbi> leyyin: 1) I won't be dead if you kick my balls. 2) we know how to defend against that. Unless you're good.
+[2016/01/19 16:20:17] <Tobbi> And I don't think you are :D
+[2016/01/19 16:20:30] <leyyin> look at MMA
+[2016/01/19 16:20:33] <Tobbi> MMA?
+[2016/01/19 16:20:37] <leyyin> that is close to street fighting
+[2016/01/19 16:20:41] <leyyin> how real life works
+[2016/01/19 16:21:34] <Tobbi> leyyin: Probably. But as I said, this is my sports...and I don't do it for self-defence. It is somewhat challenging as well.
+[2016/01/19 16:22:10] <leyyin> yes, but the majority of people swear that is for self defense, and you become some fighing ninja or something
+[2016/01/19 16:22:13] <leyyin> which is not true
+[2016/01/19 16:23:01] <Tobbi> leyyin: It certainly isn't true. And I never really did it under that pretext...
+[2016/01/19 16:23:13] <Tobbi> leyyin: I actually did it when I was younger because a friend of mine did it as well.
+[2016/01/19 16:23:22] <Tobbi> And I've just become accustomed to that circle of people.
+[2016/01/19 16:24:17] <Tobbi> leyyin: But what I hated was when I was really bad and there was someone picking at me... and boosting his confidence by seemingly putting me down. And I couldn't stand it. I really have a problem with authoritative people.
+[2016/01/19 16:24:44] <Tobbi> leyyin: You know, I'd never talk like that to beginners. I tend to make jokes or silly remarks...
+[2016/01/19 16:24:55] <Tobbi> Just to be *not* that way.
+[2016/01/19 16:25:17] <leyyin> what are you talking about?
+[2016/01/19 16:25:30] <Tobbi> leyyin: Not having respect of beginners.
+[2016/01/19 16:25:36] <Tobbi> Or putting people down because they are bad.
+[2016/01/19 16:25:43] <Tobbi> Or thinking you're better than them.
+[2016/01/19 16:25:51] <Tobbi> I'm exactly trying not to be that way.
+[2016/01/19 16:25:55] <Tobbi> :)
+[2016/01/19 16:26:00] <Tobbi> Maybe sometimes a little too hard :P
+[2016/01/19 16:27:18] @ jesusalva_bot joined channel #supertux
