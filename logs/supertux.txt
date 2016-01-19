@@ -45474,3 +45474,7 @@
 [2016/01/19 16:25:55] <Tobbi> :)
 [2016/01/19 16:26:00] <Tobbi> Maybe sometimes a little too hard :P
 [2016/01/19 16:27:18] @ jesusalva_bot joined channel #supertux
+[2016/01/19 16:31:38] <Tobbi> leyyin: But, thing is: You learn how to properly hit things like liver, kidney, euclidian space etc.
+[2016/01/19 16:42:37] @ Quit: claymore2: Quit: Leaving
+[2016/01/19 16:43:14] @ Karkus joined channel #supertux
+[2016/01/19 16:43:14] @ Mode +o Karkus by ChanServ
