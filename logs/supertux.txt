@@ -45381,3 +45381,5 @@
 [2016/01/19 13:03:33] <Hume2> Actually, chess is a sport as well.
 [2016/01/19 13:22:38] @ Quit: tuxdev_: Ping timeout: 255 seconds
 [2016/01/19 13:41:25] <leyyin> "sport"
+[2016/01/19 13:53:42] @ claymore2 joined channel #supertux
+[2016/01/19 13:55:27] @ Quit: grumbel: Quit: Ex-Chat
