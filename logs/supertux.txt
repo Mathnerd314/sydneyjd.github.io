@@ -45277,3 +45277,7 @@
 [2016/01/19 11:37:57] @ Jesusaves joined channel #supertux
 [2016/01/19 11:38:43] @ Quit: Jesusaves: Client Quit
 [2016/01/19 11:40:34] @ Quit: jesusalva: Ping timeout: 245 seconds
+[2016/01/19 11:58:15] @ Hume2 joined channel #supertux
+[2016/01/19 11:58:15] @ Mode +o Hume2 by ChanServ
+[2016/01/19 11:58:21] <Hume2> Hello
+[2016/01/19 11:58:28] <head8debian> Hume2: Hey.
