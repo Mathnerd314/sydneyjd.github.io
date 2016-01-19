@@ -45236,3 +45236,4 @@
 [2016/01/19 03:30:06] @ Quit: tuxdev_: Ping timeout: 265 seconds
 [2016/01/19 03:40:56] @ tux|dude joined channel #supertux
 [2016/01/19 04:15:00] @ Quit: tux|dude: Quit: Leaving
+[2016/01/19 04:59:37] @ Quit: stewboy: Read error: Connection reset by peer
