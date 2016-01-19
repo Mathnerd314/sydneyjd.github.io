@@ -45265,3 +45265,8 @@
 [2016/01/19 09:50:22] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
 [2016/01/19 09:50:27] @ Mode +Cntj 5:10 by asimov.freenode.net
 [2016/01/19 09:50:35] @ Mode +o red_bot by ChanServ
+[2016/01/19 10:14:01] @ Joined channel #supertux
+[2016/01/19 10:14:01] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/01/19 10:14:01] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
+[2016/01/19 10:14:05] @ Mode +Cntj 5:10 by weber.freenode.net
+[2016/01/19 10:14:15] @ Mode +o red_bot by ChanServ
