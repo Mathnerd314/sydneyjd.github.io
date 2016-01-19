@@ -45239,3 +45239,6 @@
 [2016/01/19 04:59:37] @ Quit: stewboy: Read error: Connection reset by peer
 [2016/01/19 06:00:05] <mt> http://issuestats.com/github/SuperTux/supertux
 [2016/01/19 06:10:26] @ jesusalva_bot joined channel #supertux
+[2016/01/19 06:49:23] @ Quit: jesusalva_bot: Remote host closed the connection
+[2016/01/19 06:50:24] @ jesusalva_bot joined channel #supertux
+[2016/01/19 06:54:27] @ Quit: ced117: Quit: Quitte
