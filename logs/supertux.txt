@@ -45223,3 +45223,4 @@
 [2016/01/18 23:04:28] @ Quit: Jesusaves: Client Quit
 [2016/01/18 23:05:23] @ Quit: jesusalva: Ping timeout: 255 seconds
 [2016/01/18 23:43:48] <pentagon> [10supertux] 07n3rdopolis commented on issue 09#323: Wayland support 13https://github.com/SuperTux/supertux/issues/323
+[2016/01/18 23:50:02] <pentagon> [10supertux] 07Folkric starred 09supertux - 13https://github.com/Folkric
