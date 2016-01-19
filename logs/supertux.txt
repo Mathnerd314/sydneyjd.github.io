@@ -45243,3 +45243,17 @@
 [2016/01/19 06:50:24] @ jesusalva_bot joined channel #supertux
 [2016/01/19 06:54:27] @ Quit: ced117: Quit: Quitte
 [2016/01/19 07:06:35] @ ced117 joined channel #supertux
+[2016/01/19 08:25:52] @ Tobbi joined channel #supertux
+[2016/01/19 08:25:52] @ Mode +o Tobbi by ChanServ
+[2016/01/19 08:26:35] <Tobbi> mt: That short closing timespan is due to that guy and others filing bogus bug reports.
+[2016/01/19 08:26:45] <Tobbi> Or remember those translation stuff by savsish?
+[2016/01/19 08:26:51] <mt> Yeah
+[2016/01/19 08:27:13] <Tobbi> See...
+[2016/01/19 08:27:18] <Tobbi> mt: I'd say that's nothing to be proud of.
+[2016/01/19 08:27:35] <mt> btw, do we need the auto op in the channel?
+[2016/01/19 08:27:36] <mt> https://freenode.net/channel_guidelines.shtml
+[2016/01/19 08:27:53] <mt> "Use channel operator privileges sparingly. Each time you use them you raise the channel temperature. Users will be pleased with you, angry at you, frustrated that you used them inappropriately, envious that you have control over the discussion. None of these reactions may be conscious on the part of other users, but all of them increase the channel temperature."
+[2016/01/19 08:28:18] <Tobbi> mt: I don't know... I really don't want to worry about that, either.
+[2016/01/19 08:28:22] <Tobbi> I got other stuff to think about right now.
+[2016/01/19 08:28:33] <Tobbi> Like an oral exam.
+[2016/01/19 08:28:35] <mt> ok
