@@ -45380,3 +45380,4 @@
 [2016/01/19 13:02:25] @ Wuzzy joined channel #supertux
 [2016/01/19 13:03:33] <Hume2> Actually, chess is a sport as well.
 [2016/01/19 13:22:38] @ Quit: tuxdev_: Ping timeout: 255 seconds
+[2016/01/19 13:41:25] <leyyin> "sport"
