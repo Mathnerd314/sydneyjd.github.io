@@ -45532,3 +45532,5 @@
 [2016/01/20 03:35:56] @ stewboy_ joined channel #supertux
 [2016/01/20 03:37:47] @ Quit: stewboy: Ping timeout: 260 seconds
 [2016/01/20 03:37:48] @ stewboy_ is now known as stewboy
+[2016/01/20 04:18:29] @ Quit: tux|dude: Quit: Leaving
+[2016/01/20 04:23:56] @ lumidify joined channel #supertux
