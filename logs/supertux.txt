@@ -45541,3 +45541,5 @@
 [2016/01/20 04:48:01] @ leyyin joined channel #supertux
 [2016/01/20 05:04:25] @ Quit: stewboy: Quit:  Try HydraIRC -> http://www.hydrairc.com <-
 [2016/01/20 05:14:24] @ Quit: lumidify: Ping timeout: 255 seconds
+[2016/01/20 05:18:08] @ lumidify joined channel #supertux
+[2016/01/20 05:25:46] @ Quit: lumidify: Ping timeout: 240 seconds
