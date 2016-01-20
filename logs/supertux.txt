@@ -45523,3 +45523,4 @@
 [2016/01/19 23:18:12] @ Jesusaves is now known as jesusalva
 [2016/01/19 23:49:47] @ Quit: jesusalva: Quit: Good Night, Jesus Bless You
 [2016/01/20 01:27:43] @ tux|dude joined channel #supertux
+[2016/01/20 02:31:54] @ Quit: Tobbi_: Remote host closed the connection
