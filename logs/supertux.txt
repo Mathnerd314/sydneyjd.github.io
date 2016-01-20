@@ -45591,3 +45591,17 @@
 [2016/01/20 09:13:12] <mcmic_> :-/
 [2016/01/20 09:13:27] <mt> needs fixing in 0.4.1
 [2016/01/20 09:13:29] <mcmic_> That’s sad because the french translation packed is in really bad shape
+[2016/01/20 09:16:19] <mt> sadly there's quite a lot of bugs in the 0.4.0 release
+[2016/01/20 09:16:40] <mt> which we didn't notice because so few people reported bugs before the release :(
+[2016/01/20 09:16:54] <mcmic_> Yeah, that’s always the problem
+[2016/01/20 09:17:29] <mcmic_> What you can do next time is make an RC and press the Arch packager to package it. Arch users are used to early adopt things and report problems
+[2016/01/20 09:18:08] <mt> the thing is, Arch is only one distro
+[2016/01/20 09:18:13] <mcmic_> But same for me, I tested because it was the new release and I went and fixed a lot of things in the french translations
+[2016/01/20 09:18:29] <mt> won't notice problems specific to Windows
+[2016/01/20 09:18:41] <mcmic_> I hoped the language pack system would help :-/
+[2016/01/20 09:18:43] <mcmic_> Yeah, true
+[2016/01/20 09:18:48] <mt> and even though our development snapshots were packaged
+[2016/01/20 09:18:59] <mt> nobody really cared about supertux
+[2016/01/20 09:19:12] <mt> because people didn't think the project was really being active anymore
+[2016/01/20 09:19:20] <mcmic_> true
+[2016/01/20 09:20:59] @ Quit: jesusalva_bot: Ping timeout: 255 seconds
