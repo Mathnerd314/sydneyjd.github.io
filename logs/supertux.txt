@@ -45556,3 +45556,38 @@
 [2016/01/20 08:56:03] @ Quit: tuxdev: *.net *.split
 [2016/01/20 08:56:05] @ Quit: polyphagia: *.net *.split
 [2016/01/20 08:56:06] @ Quit: octo: *.net *.split
+[2016/01/20 09:01:23] @ mcmic_ joined channel #supertux
+[2016/01/20 09:01:28] <mcmic_> Hello
+[2016/01/20 09:01:47] <mcmic_> How can I ask the game to update language packs? (if possible at all)
+[2016/01/20 09:02:22] <mt> mcmic_: you uninstall and install them
+[2016/01/20 09:02:36] @ jesusalva_bot joined channel #supertux
+[2016/01/20 09:02:43] @ leyyin joined channel #supertux
+[2016/01/20 09:03:10] <mt> sadly, when we realized there was no way to actually upgrade them it was too late
+[2016/01/20 09:03:48] @ polyphagia joined channel #supertux
+[2016/01/20 09:04:02] @ tuxdev joined channel #supertux
+[2016/01/20 09:04:02] @ Quit: tuxdev: Changing host
+[2016/01/20 09:04:02] @ tuxdev joined channel #supertux
+[2016/01/20 09:04:13] <mcmic_> mt: ok thanks
+[2016/01/20 09:04:28] <mt> you have to 'Check online' before that
+[2016/01/20 09:04:38] <mt> so it actually realizes there's a new version
+[2016/01/20 09:04:57] <mcmic_> And is there any way to reinit the story mode? (From the game)
+[2016/01/20 09:05:21] <mt> cheat menu allows resetting worldmaps
+[2016/01/20 09:05:39] <mcmic_> I’m going to try and speedrun supertux: http://www.speedrun.com/SuperTux#Any If any of you wants to compete :-)
+[2016/01/20 09:05:48] <mt> you could also change to another profile (that will cause loss of progress of all other worlds too)
+[2016/01/20 09:06:57] <mcmic_> Hum yeah just saw that but switching profile runs the intro again this will be annoying
+[2016/01/20 09:07:15] <mcmic_> Oh I can quit the level and start right away
+[2016/01/20 09:07:41] <mcmic_> That’s a good way. But what about when I’ll have use all profiles? Can I delete them?
+[2016/01/20 09:08:43] <mt> not from the UI
+[2016/01/20 09:08:51] <mt> I think
+[2016/01/20 09:09:27] <mcmic_> ok :-/
+[2016/01/20 09:09:34] <mcmic_> Where is the cheat menu?
+[2016/01/20 09:10:11] <mt> you can enable that when you start supertux with the --developer command line option or run a debug build
+[2016/01/20 09:10:34] <mcmic_> ok
+[2016/01/20 09:11:04] <mcmic_> mt: But how do I uninstall the language pack? it seems uncheck it does nothing even after restart
+[2016/01/20 09:11:45] <mt> there's also the translations shipped with the release
+[2016/01/20 09:11:49] <mt> it will use those
+[2016/01/20 09:13:00] <mcmic_> hum
+[2016/01/20 09:13:02] <mt> whatever there might be a bug which results in supertux not using the translation packs at all, we're not too sure about this
+[2016/01/20 09:13:12] <mcmic_> :-/
+[2016/01/20 09:13:27] <mt> needs fixing in 0.4.1
+[2016/01/20 09:13:29] <mcmic_> That’s sad because the french translation packed is in really bad shape
