@@ -45698,3 +45698,7 @@
 [2016/01/20 17:44:51] @ datahead8888 joined channel #supertux
 [2016/01/20 17:50:17] @ Quit: alket: Quit: Good night!
 [2016/01/20 17:52:12] <pentagon> [10supertux] 07Elinvention commented on issue 09#323: Wayland support 13https://github.com/SuperTux/supertux/issues/323
+[2016/01/20 18:03:46] <pentagon> [10supertux] 07tobbi opened issue 09#339: Make glbinding the default OpenGL binding 13https://github.com/SuperTux/supertux/issues/339
+[2016/01/20 18:04:01] <Tobbi> What does everyone think about that?
+[2016/01/20 18:06:59] @ Quit: pentagon: Remote host closed the connection
+[2016/01/20 18:07:10] @ pentagon joined channel #supertux
