@@ -45607,3 +45607,5 @@
 [2016/01/20 09:20:59] @ Quit: jesusalva_bot: Ping timeout: 255 seconds
 [2016/01/20 09:51:10] @ Quit: lumidify: Ping timeout: 256 seconds
 [2016/01/20 09:53:09] @ jesusalva joined channel #supertux
+[2016/01/20 10:18:33] @ octo_ is now known as octo
+[2016/01/20 10:24:27] @ tuxdev_ joined channel #supertux
