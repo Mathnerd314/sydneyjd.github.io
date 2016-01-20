@@ -45605,3 +45605,5 @@
 [2016/01/20 09:19:12] <mt> because people didn't think the project was really being active anymore
 [2016/01/20 09:19:20] <mcmic_> true
 [2016/01/20 09:20:59] @ Quit: jesusalva_bot: Ping timeout: 255 seconds
+[2016/01/20 09:51:10] @ Quit: lumidify: Ping timeout: 256 seconds
+[2016/01/20 09:53:09] @ jesusalva joined channel #supertux
