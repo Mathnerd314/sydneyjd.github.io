@@ -45483,3 +45483,10 @@
 [2016/01/19 17:05:29] @ Quit: alket: Quit: Good night!
 [2016/01/19 17:14:26] @ Quit: jesusalva_bot: Ping timeout: 240 seconds
 [2016/01/19 18:55:35] @ Quit: Karkus: Ping timeout: 260 seconds
+[2016/01/19 19:05:52] @ Quit: jeezy: Remote host closed the connection
+[2016/01/19 19:09:01] @ jeexy joined channel #supertux
+[2016/01/19 19:09:03] @ Quit: jeexy: Remote host closed the connection
+[2016/01/19 19:12:20] @ jeexy joined channel #supertux
+[2016/01/19 19:13:23] @ jeexy is now known as jeezy
+[2016/01/19 19:13:24] @ Quit: jeezy: Changing host
+[2016/01/19 19:13:24] @ jeezy joined channel #supertux
