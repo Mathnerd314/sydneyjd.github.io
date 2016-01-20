@@ -45696,3 +45696,5 @@
 [2016/01/20 16:59:58] @ Mode +o Tobbi by ChanServ
 [2016/01/20 17:25:22] @ Quit: datahead8888: Ping timeout: 250 seconds
 [2016/01/20 17:44:51] @ datahead8888 joined channel #supertux
+[2016/01/20 17:50:17] @ Quit: alket: Quit: Good night!
+[2016/01/20 17:52:12] <pentagon> [10supertux] 07Elinvention commented on issue 09#323: Wayland support 13https://github.com/SuperTux/supertux/issues/323
