@@ -45497,3 +45497,5 @@
 [2016/01/19 19:31:06] @ Quit: jeezy: Changing host
 [2016/01/19 19:31:06] @ jeezy joined channel #supertux
 [2016/01/19 19:39:53] @ jesusalva joined channel #supertux
+[2016/01/19 19:50:13] @ irungentoo joined channel #supertux
+[2016/01/19 19:51:00] @ Quit: swift110: Ping timeout: 250 seconds
