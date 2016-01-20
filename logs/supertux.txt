@@ -45702,3 +45702,7 @@
 [2016/01/20 18:04:01] <Tobbi> What does everyone think about that?
 [2016/01/20 18:06:59] @ Quit: pentagon: Remote host closed the connection
 [2016/01/20 18:07:10] @ pentagon joined channel #supertux
+[2016/01/20 18:15:35] <leper`> btw https://github.com/SuperTux/supertux/issues/282 seems fixed since there is https://svnweb.freebsd.org/ports/head/games/supertux2/ now (which doesn't patch around anything like that, a revision seems to make it use the SDL iconv detection in tinygettext now)
+[2016/01/20 18:22:29] <Tobbi> I see...
+[2016/01/20 18:22:44] <Tobbi> leper`: Leave a note in the issue.
+[2016/01/20 18:22:48] <Tobbi> I have no idea about this.
