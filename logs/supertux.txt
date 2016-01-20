@@ -45545,3 +45545,4 @@
 [2016/01/20 05:25:46] @ Quit: lumidify: Ping timeout: 240 seconds
 [2016/01/20 05:30:54] @ lumidify joined channel #supertux
 [2016/01/20 05:40:34] @ Quit: alket: Ping timeout: 272 seconds
+[2016/01/20 05:54:10] @ Quit: lumidify: Quit: Leaving
