@@ -45677,3 +45677,7 @@
 [2016/01/20 14:38:43] @ Quit: alket: Quit: Good night!
 [2016/01/20 14:40:44] @ alket joined channel #supertux
 [2016/01/20 14:49:54] @ Quit: datahead7777: Quit: Leaving
+[2016/01/20 15:20:30] @ Jesusaves joined channel #supertux
+[2016/01/20 15:21:03] @ Quit: jesusalva: Disconnected by services
+[2016/01/20 15:21:19] @ Jesusaves is now known as jesusalva
+[2016/01/20 15:27:27] <brmbrmcar> GitHub has notification bugs!
