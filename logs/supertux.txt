@@ -45681,3 +45681,6 @@
 [2016/01/20 15:21:03] @ Quit: jesusalva: Disconnected by services
 [2016/01/20 15:21:19] @ Jesusaves is now known as jesusalva
 [2016/01/20 15:27:27] <brmbrmcar> GitHub has notification bugs!
+[2016/01/20 15:30:28] @ Hume2 joined channel #supertux
+[2016/01/20 15:30:28] @ Mode +o Hume2 by ChanServ
+[2016/01/20 15:31:25] @ Quit: Hume2: Client Quit
