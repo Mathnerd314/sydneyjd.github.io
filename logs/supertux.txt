@@ -45618,3 +45618,6 @@
 [2016/01/20 11:08:49] @ jesusalva joined channel #supertux
 [2016/01/20 11:27:36] <mcmic_> mt: Thanks for your answers, bye
 [2016/01/20 11:27:40] @ Quit: mcmic_: Quit: Konversation terminated!
+[2016/01/20 12:10:00] @ Hume2 joined channel #supertux
+[2016/01/20 12:10:00] @ Mode +o Hume2 by ChanServ
+[2016/01/20 12:10:27] <Hume2> Hello
