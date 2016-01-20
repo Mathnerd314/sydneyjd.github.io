@@ -45644,3 +45644,8 @@
 [2016/01/20 13:29:44] @ tuxdev joined channel #supertux
 [2016/01/20 13:29:44] @ Quit: tuxdev: Changing host
 [2016/01/20 13:29:44] @ tuxdev joined channel #supertux
+[2016/01/20 13:32:09] <Hume2> LOL, those forks...
+[2016/01/20 13:39:21] @ alket joined channel #supertux
+[2016/01/20 13:41:41] <Tobbi> Hello.
+[2016/01/20 13:44:50] <Tobbi> Hume2: By the way: Changing the github rendering system to make stl render as text is too great an issue.
+[2016/01/20 13:44:53] <Tobbi> Thus, they won't do it.
