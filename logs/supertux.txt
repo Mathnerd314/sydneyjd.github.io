@@ -45664,3 +45664,7 @@
 [2016/01/20 13:58:22] @ Quit: Hume2: Changing host
 [2016/01/20 13:58:23] @ Hume2 joined channel #supertux
 [2016/01/20 13:58:23] @ Mode +o Hume2 by weber.freenode.net
+[2016/01/20 14:02:41] @ bb010g joined channel #supertux
+[2016/01/20 14:03:11] <Hume2> You know, I can't be angry at GitHub, because it supports open-source.
+[2016/01/20 14:03:33] @ Quit: Hume2: Quit: Page closed
+[2016/01/20 14:03:45] @ Quit: Tobbi: Remote host closed the connection
