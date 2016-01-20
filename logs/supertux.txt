@@ -45621,3 +45621,6 @@
 [2016/01/20 12:10:00] @ Hume2 joined channel #supertux
 [2016/01/20 12:10:00] @ Mode +o Hume2 by ChanServ
 [2016/01/20 12:10:27] <Hume2> Hello
+[2016/01/20 12:18:40] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/01/20 12:19:46] @ Quit: leyyin: Read error: Connection reset by peer
+[2016/01/20 12:20:49] @ leyyin joined channel #supertux
