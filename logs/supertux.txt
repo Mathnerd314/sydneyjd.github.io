@@ -45631,3 +45631,16 @@
 [2016/01/20 12:54:49] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/20 13:08:58] @ Quit: tuxdev_: Ping timeout: 272 seconds
 [2016/01/20 13:14:56] @ leper`- joined channel #supertux
+[2016/01/20 13:20:02] @ brmbrmcar joined channel #supertux
+[2016/01/20 13:22:01] @ Quit: tuxdev: *.net *.split
+[2016/01/20 13:22:03] @ Quit: VargaD: *.net *.split
+[2016/01/20 13:22:03] @ Quit: leper`: *.net *.split
+[2016/01/20 13:22:05] @ leper`- is now known as leper`
+[2016/01/20 13:24:38] @ VargaD joined channel #supertux
+[2016/01/20 13:26:30] @ Tobbi joined channel #supertux
+[2016/01/20 13:26:30] @ Mode +o Tobbi by ChanServ
+[2016/01/20 13:28:53] <Hume2> This looks interresting: https://github.com/dear-github/dear-github
+[2016/01/20 13:29:29] @ claymore2 joined channel #supertux
+[2016/01/20 13:29:44] @ tuxdev joined channel #supertux
+[2016/01/20 13:29:44] @ Quit: tuxdev: Changing host
+[2016/01/20 13:29:44] @ tuxdev joined channel #supertux
