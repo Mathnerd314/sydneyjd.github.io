@@ -45509,3 +45509,4 @@
 [2016/01/19 20:31:46] @ Quit: Wuzzy: Quit: Wuzzy
 [2016/01/19 20:38:10] @ Quit: swift110: Changing host
 [2016/01/19 20:38:10] @ swift110 joined channel #supertux
+[2016/01/19 20:56:48] @ Quit: swift110: Ping timeout: 272 seconds
