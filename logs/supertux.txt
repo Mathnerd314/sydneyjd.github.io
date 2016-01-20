@@ -45615,3 +45615,4 @@
 [2016/01/20 10:46:18] <pentagon> [10supertux] 07brmbrmcar commented on issue 09#326: ACTION key setup needs improving 13https://github.com/SuperTux/supertux/issues/326
 [2016/01/20 10:50:58] @ Quit: jesusalva: Ping timeout: 250 seconds
 [2016/01/20 10:54:10] @ brmbrmcar left channel #supertux ()
+[2016/01/20 11:08:49] @ jesusalva joined channel #supertux
