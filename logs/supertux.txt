@@ -45629,3 +45629,5 @@
 [2016/01/20 12:47:59] @ Quit: leyyin: Remote host closed the connection
 [2016/01/20 12:52:34] @ leyyin joined channel #supertux
 [2016/01/20 12:54:49] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/20 13:08:58] @ Quit: tuxdev_: Ping timeout: 272 seconds
+[2016/01/20 13:14:56] @ leper`- joined channel #supertux
