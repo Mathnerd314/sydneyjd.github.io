@@ -45525,3 +45525,10 @@
 [2016/01/20 01:27:43] @ tux|dude joined channel #supertux
 [2016/01/20 02:31:54] @ Quit: Tobbi_: Remote host closed the connection
 [2016/01/20 02:48:21] @ stewboy joined channel #supertux
+[2016/01/20 03:30:07] @ Tobbi joined channel #supertux
+[2016/01/20 03:30:07] @ Mode +o Tobbi by ChanServ
+[2016/01/20 03:32:10] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/20 03:33:54] @ Quit: tuxdev_: Ping timeout: 272 seconds
+[2016/01/20 03:35:56] @ stewboy_ joined channel #supertux
+[2016/01/20 03:37:47] @ Quit: stewboy: Ping timeout: 260 seconds
+[2016/01/20 03:37:48] @ stewboy_ is now known as stewboy
