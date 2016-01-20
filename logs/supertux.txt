@@ -45624,3 +45624,5 @@
 [2016/01/20 12:18:40] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2016/01/20 12:19:46] @ Quit: leyyin: Read error: Connection reset by peer
 [2016/01/20 12:20:49] @ leyyin joined channel #supertux
+[2016/01/20 12:43:27] @ Tobbi joined channel #supertux
+[2016/01/20 12:43:27] @ Mode +o Tobbi by ChanServ
