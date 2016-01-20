@@ -45668,3 +45668,9 @@
 [2016/01/20 14:03:11] <Hume2> You know, I can't be angry at GitHub, because it supports open-source.
 [2016/01/20 14:03:33] @ Quit: Hume2: Quit: Page closed
 [2016/01/20 14:03:45] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/20 14:16:43] <pentagon> [10supertux] 07Wuzzy2 opened issue 09#338: Active checkpoint is not reset after restarting level 13https://github.com/SuperTux/supertux/issues/338
+[2016/01/20 14:17:23] @ Tobbi joined channel #supertux
+[2016/01/20 14:17:23] @ Mode +o Tobbi by ChanServ
+[2016/01/20 14:18:33] @ Wuzzy joined channel #supertux
+[2016/01/20 14:27:08] @ Quit: alket: Remote host closed the connection
+[2016/01/20 14:28:42] @ alket joined channel #supertux
