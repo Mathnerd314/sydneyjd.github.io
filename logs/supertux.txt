@@ -45649,3 +45649,18 @@
 [2016/01/20 13:41:41] <Tobbi> Hello.
 [2016/01/20 13:44:50] <Tobbi> Hume2: By the way: Changing the github rendering system to make stl render as text is too great an issue.
 [2016/01/20 13:44:53] <Tobbi> Thus, they won't do it.
+[2016/01/20 13:45:38] <Hume2> It looks like reality after i read that thing :D
+[2016/01/20 13:47:10] <Tobbi> :D
+[2016/01/20 13:47:50] <Hume2> GitHub supports open-source, but they aren't open-source themselves.
+[2016/01/20 13:49:44] <Tobbi> Hume2: First windows, now github...
+[2016/01/20 13:50:48] @ Quit: jesusalva: Ping timeout: 250 seconds
+[2016/01/20 13:52:03] <Hume2> Tobbi: Really? I think that GitHub supports open-cource as well.
+[2016/01/20 13:52:40] <Tobbi> Hume2: I mean: First you are angry at Microsoft and now at Github.
+[2016/01/20 13:52:42] <Tobbi> Choose your goal.
+[2016/01/20 13:52:56] <Hume2> I'm not angry at GitHub.
+[2016/01/20 13:53:04] <Hume2> I'm angry at Mikrosaft.
+[2016/01/20 13:53:15] @ jesusalva joined channel #supertux
+[2016/01/20 13:53:39] <Hume2> I was just wondering.
+[2016/01/20 13:58:22] @ Quit: Hume2: Changing host
+[2016/01/20 13:58:23] @ Hume2 joined channel #supertux
+[2016/01/20 13:58:23] @ Mode +o Hume2 by weber.freenode.net
