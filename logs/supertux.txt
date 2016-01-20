@@ -45517,3 +45517,6 @@
 [2016/01/19 22:51:41] @ Mode +o Tobbi_ by ChanServ
 [2016/01/19 22:53:12] @ bb010g joined channel #supertux
 [2016/01/19 22:54:41] @ Quit: Tobbi: Ping timeout: 276 seconds
+[2016/01/19 23:00:21] @ Jesusaves joined channel #supertux
+[2016/01/19 23:03:45] @ Quit: jesusalva: Ping timeout: 260 seconds
+[2016/01/19 23:11:23] @ Quit: irungentoo: Remote host closed the connection
