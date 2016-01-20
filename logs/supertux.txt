@@ -45513,3 +45513,7 @@
 [2016/01/19 21:54:01] @ tuxdev_ joined channel #supertux
 [2016/01/19 22:26:44] @ Quit: jesusalva: Ping timeout: 276 seconds
 [2016/01/19 22:32:34] @ jesusalva joined channel #supertux
+[2016/01/19 22:51:41] @ Tobbi_ joined channel #supertux
+[2016/01/19 22:51:41] @ Mode +o Tobbi_ by ChanServ
+[2016/01/19 22:53:12] @ bb010g joined channel #supertux
+[2016/01/19 22:54:41] @ Quit: Tobbi: Ping timeout: 276 seconds
