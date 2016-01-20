@@ -45690,3 +45690,7 @@
 [2016/01/20 16:26:29] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2016/01/20 16:30:49] @ datahead8888 joined channel #supertux
 [2016/01/20 16:40:21] @ Quit: jesusalva: Quit: Good bye, God bless you.
+[2016/01/20 16:45:28] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/20 16:52:51] @ swift110_ joined channel #supertux
+[2016/01/20 16:59:57] @ Tobbi joined channel #supertux
+[2016/01/20 16:59:58] @ Mode +o Tobbi by ChanServ
