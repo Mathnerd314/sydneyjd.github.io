@@ -45549,3 +45549,10 @@
 [2016/01/20 07:56:52] @ Quit: datahead7777: Read error: Connection reset by peer
 [2016/01/20 07:57:15] @ datahead7777 joined channel #supertux
 [2016/01/20 08:14:47] @ lumidify joined channel #supertux
+[2016/01/20 08:52:05] @ octo_ joined channel #supertux
+[2016/01/20 08:52:05] @ Mode +v octo_ by ChanServ
+[2016/01/20 08:56:00] @ Quit: leyyin: *.net *.split
+[2016/01/20 08:56:03] @ Quit: Not-e81f: *.net *.split
+[2016/01/20 08:56:03] @ Quit: tuxdev: *.net *.split
+[2016/01/20 08:56:05] @ Quit: polyphagia: *.net *.split
+[2016/01/20 08:56:06] @ Quit: octo: *.net *.split
