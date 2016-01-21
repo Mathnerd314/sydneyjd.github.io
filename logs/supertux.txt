@@ -45846,3 +45846,14 @@
 [2016/01/21 09:05:14] <Tobbi> 10 Euros.
 [2016/01/21 09:05:23] <leyyin> and you drive?
 [2016/01/21 09:05:32] <leyyin> that is like several years in prison here
+[2016/01/21 09:18:53] @ quit (seeya)
+[2016/01/21 09:23:27] @ Joined channel #supertux
+[2016/01/21 09:23:27] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/01/21 09:23:27] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
+[2016/01/21 09:23:32] @ Mode +Cntj 5:10 by sendak.freenode.net
+[2016/01/21 09:23:40] @ Mode +o red_bot by ChanServ
+[2016/01/21 09:25:57] <leyyin> mt, because why not?
+[2016/01/21 09:26:25] <leyyin> the biggest prime number that we know about it and can verify it
+[2016/01/21 09:26:51] <mt> all these messages on IRC: let's hash them and we'll see a hash the world has never seen!!!!!
+[2016/01/21 09:27:02] @ head8debian joined channel #supertux
+[2016/01/21 09:27:02] @ Mode +o head8debian by ChanServ
