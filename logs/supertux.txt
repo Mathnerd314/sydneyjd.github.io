@@ -46146,3 +46146,6 @@
 [2016/01/21 17:07:56] @ Quit: xet7: Quit: Leaving
 [2016/01/21 17:08:46] @ Quit: swift110: Changing host
 [2016/01/21 17:08:46] @ swift110 joined channel #supertux
+[2016/01/21 17:21:01] @ tux|dude joined channel #supertux
+[2016/01/21 17:29:31] @ Quit: claymore2: Quit: Leaving
+[2016/01/21 17:29:50] @ xet7 joined channel #supertux
