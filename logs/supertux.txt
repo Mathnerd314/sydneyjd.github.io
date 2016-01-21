@@ -45708,3 +45708,4 @@
 [2016/01/20 18:22:48] <Tobbi> I have no idea about this.
 [2016/01/20 18:40:43] @ Somelauw joined channel #supertux
 [2016/01/20 18:41:50] <Somelauw> In the incubator level "Nice ice" I see no way to go, after having used the moving platform. I'm using version supertux2 v0.4.0
+[2016/01/20 18:48:40] @ Quit: bb010g: Quit: Connection closed for inactivity
