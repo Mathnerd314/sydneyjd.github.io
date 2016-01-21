@@ -45709,3 +45709,13 @@
 [2016/01/20 18:40:43] @ Somelauw joined channel #supertux
 [2016/01/20 18:41:50] <Somelauw> In the incubator level "Nice ice" I see no way to go, after having used the moving platform. I'm using version supertux2 v0.4.0
 [2016/01/20 18:48:40] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/01/20 19:06:06] @ bb010g joined channel #supertux
+[2016/01/20 19:06:34] @ irungentoo joined channel #supertux
+[2016/01/20 19:11:54] @ Quit: swift110_: Ping timeout: 250 seconds
+[2016/01/20 19:12:05] @ jesusalva joined channel #supertux
+[2016/01/20 19:12:50] <Tobbi> Somelauw: Could it be that you need to use some flying snowballs (snowshot?)
+[2016/01/20 19:12:52] @ swift110_ joined channel #supertux
+[2016/01/20 19:12:57] <Tobbi> In any case, I am offline. ttyl.
+[2016/01/20 19:13:39] <Somelauw> then I missed two upgrade points
+[2016/01/20 19:13:48] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/20 19:14:45] <pentagon> [10supertux] 07Elinvention commented on issue 09#323: Wayland support 13https://github.com/SuperTux/supertux/issues/323
