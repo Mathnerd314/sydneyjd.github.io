@@ -45760,3 +45760,7 @@
 [2016/01/21 05:50:53] @ Mode +o Tobbi by ChanServ
 [2016/01/21 05:59:01] @ grumbel joined channel #supertux
 [2016/01/21 05:59:01] @ Mode +o grumbel by ChanServ
+[2016/01/21 06:55:32] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/21 06:56:02] @ Tobbi joined channel #supertux
+[2016/01/21 06:56:02] @ Mode +o Tobbi by ChanServ
+[2016/01/21 06:56:41] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- Wibbly Wobbly IRC
