@@ -45764,3 +45764,12 @@
 [2016/01/21 06:56:02] @ Tobbi joined channel #supertux
 [2016/01/21 06:56:02] @ Mode +o Tobbi by ChanServ
 [2016/01/21 06:56:41] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- Wibbly Wobbly IRC
+[2016/01/21 07:38:09] <head8debian> Tobbi: 'Mornin.
+[2016/01/21 07:38:20] <Tobbi> head8debian: ...has broken, like the first morning.
+[2016/01/21 07:38:27] <Tobbi> Black bird has spoken, like the first bird.
+[2016/01/21 07:38:34] <Tobbi> Praise for them singing, praise for the morning.
+[2016/01/21 07:38:37] <Tobbi> and so on.
+[2016/01/21 07:38:42] <head8debian> Tobbi: A poem?
+[2016/01/21 07:39:02] <Tobbi> head8debian: https://www.youtube.com/watch?v=h5D3LEjGF8A
+[2016/01/21 07:40:01] <head8debian> Tobbi: No videos atm...
+[2016/01/21 07:40:15] <Tobbi> head8debian: I am no ATM/
