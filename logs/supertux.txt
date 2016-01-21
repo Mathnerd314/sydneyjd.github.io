@@ -45879,3 +45879,7 @@
 [2016/01/21 11:04:39] <head8debian> mt: Looks interesting.
 [2016/01/21 11:07:37] <leyyin> indeed, first time I heard of it
 [2016/01/21 11:07:41] <leyyin> https://bintray.com/probono/AppImages
+[2016/01/21 11:20:15] @ lumidify joined channel #supertux
+[2016/01/21 11:24:39] <brmbrmcar> Jesusaves: No.
+[2016/01/21 11:25:01] <brmbrmcar> ^jususalva
+[2016/01/21 11:25:10] <brmbrmcar> I cannot type!
