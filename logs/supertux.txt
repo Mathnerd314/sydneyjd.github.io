@@ -46126,3 +46126,8 @@
 [2016/01/21 15:25:11] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
 [2016/01/21 15:25:15] @ Mode +Cntj 5:10 by tepper.freenode.net
 [2016/01/21 15:25:23] @ Mode +o red_bot by ChanServ
+[2016/01/21 15:47:00] @ Quit: jesusalva: Quit: Good bye, God bless you.
+[2016/01/21 15:50:53] @ Quit: claymore2: Quit: Leaving
+[2016/01/21 15:55:28] @ Tobbi joined channel #supertux
+[2016/01/21 15:55:28] @ Mode +o Tobbi by ChanServ
+[2016/01/21 15:59:04] <Tobbi> hrm
