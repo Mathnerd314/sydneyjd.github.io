@@ -46140,3 +46140,5 @@
 [2016/01/21 16:23:29] @ bb010g joined channel #supertux
 [2016/01/21 16:35:00] @ Quit: leyyin: Ping timeout: 272 seconds
 [2016/01/21 16:43:33] @ Quit: alket: Quit: Good night!
+[2016/01/21 16:49:58] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/21 16:50:32] @ jesusalva joined channel #supertux
