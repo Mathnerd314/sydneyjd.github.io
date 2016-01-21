@@ -45922,3 +45922,38 @@
 [2016/01/21 11:59:46] <Tobbi> mt: You need to fix your definition of pull requests then :P
 [2016/01/21 11:59:49] <mt> or - how it works on git level
 [2016/01/21 11:59:55] <Tobbi> Next time I'm gonna push to my own fork.
+[2016/01/21 12:00:05] <Tobbi> And if that gets deleted, it's your fault :P
+[2016/01/21 12:00:57] <leyyin> Tobbi, makes his own rule, cuz he is god of supertux
+[2016/01/21 12:00:58] <mt> A pull request is anything where a person wants their own branch merged into the projects main branch
+[2016/01/21 12:01:06] <Tobbi> mt: To be honest, I don't feel like squashing commits on a feature branch where everyone needs to contribute.
+[2016/01/21 12:01:13] <Tobbi> stk doesn't work that way, either.
+[2016/01/21 12:01:37] <Tobbi> leyyin: :P I don't consider myself a god
+[2016/01/21 12:01:42] <Tobbi> But thanks, anyway.
+[2016/01/21 12:02:11] <leyyin> STK needs to work that way
+[2016/01/21 12:02:14] <mt> [linux] [PULL] Fix
+[2016/01/21 12:02:16] <mt> Fixes
+[2016/01/21 12:02:19] <mt> --------------
+[2016/01/21 12:02:29] <mt> Fix F. Fix (999):
+[2016/01/21 12:02:34] <mt>     Fix
+[2016/01/21 12:02:47] <mt>     ...
+[2016/01/21 12:02:53] <Tobbi> I don't know where you're getting at.
+[2016/01/21 12:02:55] <mt> now send that to the linux mailing list
+[2016/01/21 12:03:34] <Tobbi> mt: This is a *single* feature. We can squash before we merge with the develop/ branch.
+[2016/01/21 12:03:47] <mt> Yes
+[2016/01/21 12:03:58] <Tobbi> And cleanup the commit history as well...
+[2016/01/21 12:04:01] <mt> But "Fix"
+[2016/01/21 12:04:05] <mt> well I'll stop now
+[2016/01/21 12:04:15] <Tobbi> mt: Thanks.
+[2016/01/21 12:05:03] <gynter> mt: fix http://chris.beams.io/posts/git-commit/ ;)
+[2016/01/21 12:05:20] <leyyin> see, Tobbi, what have you done
+[2016/01/21 12:05:45] <Tobbi> leyyin: Lazyness > Convention.
+[2016/01/21 12:05:57] <Tobbi> leyyin: When it matters, this is my project.
+[2016/01/21 12:05:59] <Tobbi> And currently it does matter.
+[2016/01/21 12:07:01] <brmbrmcar> Allyours.
+[2016/01/21 12:07:42] <brmbrmcar> How much did you pay for it? :D
+[2016/01/21 12:08:40] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/01/21 12:09:39] <Tobbi> brmbrmcar: I pay enough in quality contributions.
+[2016/01/21 12:10:19] <pentagon> [10flexlay] 07tobbi pushed 1 commit to 09create_addon 13https://github.com/SuperTux/flexlay/compare/fe267116049a...898b02733154
+[2016/01/21 12:10:26] <pentagon> [10flexlay] 07tobbi 14898b027 Add arrays for things we need to save in an add-on
+[2016/01/21 12:11:30] @ Quit: grumbel: Quit: Ex-Chat
+[2016/01/21 12:13:31] <Tobbi> This is gonna be a big project.
