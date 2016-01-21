@@ -46138,3 +46138,5 @@
 [2016/01/21 16:22:55] @ claymore2 joined channel #supertux
 [2016/01/21 16:23:29] @ Quit: bb010g: Changing host
 [2016/01/21 16:23:29] @ bb010g joined channel #supertux
+[2016/01/21 16:35:00] @ Quit: leyyin: Ping timeout: 272 seconds
+[2016/01/21 16:43:33] @ Quit: alket: Quit: Good night!
