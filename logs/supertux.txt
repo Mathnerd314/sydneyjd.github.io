@@ -45857,3 +45857,9 @@
 [2016/01/21 09:26:51] <mt> all these messages on IRC: let's hash them and we'll see a hash the world has never seen!!!!!
 [2016/01/21 09:27:02] @ head8debian joined channel #supertux
 [2016/01/21 09:27:02] @ Mode +o head8debian by ChanServ
+[2016/01/21 09:38:07] <Tobbi> mt: You're not the least bit excited about anything, right?
+[2016/01/21 09:38:22] <Tobbi> Considering it took a lot of computing power, why not just celebrate this achievement.
+[2016/01/21 09:42:24] <mt> I can be excited about $things
+[2016/01/21 09:42:33] <mt> However, this does seem kind of useless to me
+[2016/01/21 09:42:50] <leyyin> isn't like 90% of what you do in life useless?
+[2016/01/21 09:43:55] @ Quit: jesusalva_bot: Read error: Connection reset by peer
