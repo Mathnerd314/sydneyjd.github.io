@@ -46115,3 +46115,14 @@
 [2016/01/21 15:14:49] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
 [2016/01/21 15:14:49] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
 [2016/01/21 15:14:53] @ Mode +Cntj 5:10 by rajaniemi.freenode.net
+[2016/01/21 15:15:02] @ Mode +o red_bot by ChanServ
+[2016/01/21 15:15:25] @ head8debian joined channel #supertux
+[2016/01/21 15:15:25] @ Mode +o head8debian by ChanServ
+[2016/01/21 15:19:19] @ quit (restarting, back in 5...)
+[2016/01/21 15:19:21] @ Log closed by * (rescan or shutdown)
+[2016/01/21 15:25:11] @ Log started by red_bot
+[2016/01/21 15:25:11] @ Joined channel #supertux
+[2016/01/21 15:25:11] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/01/21 15:25:11] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
+[2016/01/21 15:25:15] @ Mode +Cntj 5:10 by tepper.freenode.net
+[2016/01/21 15:25:23] @ Mode +o red_bot by ChanServ
