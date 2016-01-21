@@ -46142,3 +46142,7 @@
 [2016/01/21 16:43:33] @ Quit: alket: Quit: Good night!
 [2016/01/21 16:49:58] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/21 16:50:32] @ jesusalva joined channel #supertux
+[2016/01/21 17:04:28] @ swift110 joined channel #supertux
+[2016/01/21 17:07:56] @ Quit: xet7: Quit: Leaving
+[2016/01/21 17:08:46] @ Quit: swift110: Changing host
+[2016/01/21 17:08:46] @ swift110 joined channel #supertux
