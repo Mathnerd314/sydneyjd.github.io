@@ -45727,3 +45727,5 @@
 [2016/01/20 20:01:34] @ datahead8888 joined channel #supertux
 [2016/01/20 20:26:53] @ Quit: datahead8888: Ping timeout: 276 seconds
 [2016/01/20 20:45:47] @ Quit: swift110_: Ping timeout: 264 seconds
+[2016/01/20 22:08:00] @ tuxdev_ joined channel #supertux
+[2016/01/20 22:13:21] @ datahead8888 joined channel #supertux
