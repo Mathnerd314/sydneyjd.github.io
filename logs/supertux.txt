@@ -45756,3 +45756,7 @@
 [2016/01/21 04:32:24] @ Mode +o Tobbi by ChanServ
 [2016/01/21 04:42:52] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/21 05:37:42] @ jesusalva_bot joined channel #supertux
+[2016/01/21 05:50:53] @ Tobbi joined channel #supertux
+[2016/01/21 05:50:53] @ Mode +o Tobbi by ChanServ
+[2016/01/21 05:59:01] @ grumbel joined channel #supertux
+[2016/01/21 05:59:01] @ Mode +o grumbel by ChanServ
