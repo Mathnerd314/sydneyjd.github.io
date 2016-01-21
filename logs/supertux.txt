@@ -46022,3 +46022,55 @@
 [2016/01/21 12:44:27] <Tobbi> I mean: Just making sure we're on the same page here.
 [2016/01/21 12:44:38] <mt> also, ~/.flexlay should be changed to follow XDG
 [2016/01/21 12:44:46] <Karkus> mt: Nor will .flexlay. I intend Flexlay to look there.
+[2016/01/21 12:45:05] <Karkus> Tobbi: Which resources aren't user-defined?
+[2016/01/21 12:45:14] <Tobbi> Karkus: The ones shipped with SuperTux :P
+[2016/01/21 12:45:21] <mt> what if a user wants to access their project's files?
+[2016/01/21 12:45:21] <Karkus> Tobbi: Yes.
+[2016/01/21 12:45:28] <Karkus> Tobbi: We are on the same page there.
+[2016/01/21 12:45:31] <Tobbi> Okay.
+[2016/01/21 12:45:31] <mt> which, to me, seems a pretty common thing
+[2016/01/21 12:45:41] <Karkus> mt: They will be able to export the project
+[2016/01/21 12:45:46] <Tobbi> Yup.
+[2016/01/21 12:45:53] <Tobbi> That's what I had in mind as well.
+[2016/01/21 12:45:59] <Karkus> mt: Unless you'd rather leave it up to them?
+[2016/01/21 12:46:20] <mt> flexlay is also supposed to keep the more advanced users in mind
+[2016/01/21 12:46:32] <mt> and what if we change something of the addon format in supertux
+[2016/01/21 12:46:42] <mt> but don't want to immediately do in flexlay
+[2016/01/21 12:47:04] <mt> sure we can have an export option
+[2016/01/21 12:47:11] <Karkus> mt: The same applies to levels.
+[2016/01/21 12:47:25] <mt> also, not storing projects in flexlay might confuse users
+[2016/01/21 12:47:33] <mt> who don't know about .directories
+[2016/01/21 12:47:35] <Karkus> mt: There will always be the option to save your project wherever you like.
+[2016/01/21 12:47:43] <mt> ah well then
+[2016/01/21 12:48:03] <Karkus> mt: I will try to give people options. :D
+[2016/01/21 12:48:42] <Tobbi> I'd prefer having the Properties|Project View tabs at the bottom, but apparently PyQT won't allow me to do that :P
+[2016/01/21 12:50:15] <Tobbi> Being able to load ZIP files should be integrated as well.
+[2016/01/21 12:50:43] <Tobbi> Actually, let's call those items Import... and Export...
+[2016/01/21 12:51:10] <Karkus> Tobbi: Yes, but then what if they try to modify the ZIP files?
+[2016/01/21 12:51:18] <Karkus> Do we create them a new project?
+[2016/01/21 12:51:41] <Tobbi> Karkus: hmm...why would one try to modify the zip files?
+[2016/01/21 12:52:30] <Karkus> Tobbi: Let's say I get angry at Hume2's levels (of course). I load them up and start to edit them...
+[2016/01/21 12:52:39] <Tobbi> Ah...
+[2016/01/21 12:53:02] <Tobbi> Karkus: okay, that's a problem... We could possibly save them over...
+[2016/01/21 12:53:05] <Karkus> Tobbi: We can either extract it all into the projects folder, or...
+[2016/01/21 12:53:18] <Karkus> Tobbi: But that could be a pain...
+[2016/01/21 12:53:30] <Tobbi> Karkus: I'd say we read from the ZIP and extract to a temporary directory.
+[2016/01/21 12:53:38] @ Quit: jesusalva: Ping timeout: 250 seconds
+[2016/01/21 12:53:44] <Karkus> Tobbi: Okay.
+[2016/01/21 12:53:46] <Tobbi> And then we can always export to ZIP...
+[2016/01/21 12:53:48] <mt> extract to memory :D
+[2016/01/21 12:54:01] <Tobbi> mt: lol
+[2016/01/21 12:54:22] <mt> well possibly python could load a ZIP to make it look like a directory in the oS
+[2016/01/21 12:54:24] <Karkus> mt: No, it's not that simple. If they want to edit many of the levels...
+[2016/01/21 12:54:26] <mt> s/oS/OS/
+[2016/01/21 12:54:26] <red_bot> mt meant: "well possibly python could load a ZIP to make it look like a directory in the OS"
+[2016/01/21 12:54:42] <Tobbi> Perhaps this could work.
+[2016/01/21 12:57:11] @ Quit: brmbrmcar: Quit: switching back to konsole
+[2016/01/21 12:57:32] @ brmbrmcar joined channel #supertux
+[2016/01/21 12:58:01] <Tobbi> Karkus: I am not *that* happy with the file tree...because it only shows what's present in the file system.
+[2016/01/21 12:58:05] <pentagon> [10flexlay] 07Karkus476 commented on issue 09#60: Improve user-friendliness of layers 13https://github.com/SuperTux/flexlay/issues/60
+[2016/01/21 12:58:34] <Karkus> Tobbi: In the project view?
+[2016/01/21 12:58:41] <Tobbi> Karkus: Yes.
+[2016/01/21 12:58:57] <Tobbi> I mean: It's somewhat nice as well...
+[2016/01/21 12:59:17] <Tobbi> but, still... we need to check those existing folders for non-emptiness before exporting to an add-on.
+[2016/01/21 12:59:27] <Tobbi> If they're empty, no need to export them.
