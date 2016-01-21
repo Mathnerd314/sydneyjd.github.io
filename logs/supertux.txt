@@ -45774,3 +45774,7 @@
 [2016/01/21 07:40:01] <head8debian> Tobbi: No videos atm...
 [2016/01/21 07:40:15] <Tobbi> head8debian: I am no ATM/
 [2016/01/21 07:53:38] <Tobbi> head8debian: My car passed the TÜV...finally...I got it from the mechanic yesterday evening.
+[2016/01/21 08:04:22] @ Quit: jesusalva_bot: Read error: Connection reset by peer
+[2016/01/21 08:08:26] @ jesusalva_bot joined channel #supertux
+[2016/01/21 08:08:45] @ lumidify joined channel #supertux
+[2016/01/21 08:14:00] @ Quit: jesusalva_bot: Ping timeout: 265 seconds
