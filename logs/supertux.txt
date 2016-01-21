@@ -45719,3 +45719,4 @@
 [2016/01/20 19:13:39] <Somelauw> then I missed two upgrade points
 [2016/01/20 19:13:48] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/20 19:14:45] <pentagon> [10supertux] 07Elinvention commented on issue 09#323: Wayland support 13https://github.com/SuperTux/supertux/issues/323
+[2016/01/20 19:16:44] @ Quit: datahead8888: Ping timeout: 250 seconds
