@@ -46131,3 +46131,10 @@
 [2016/01/21 15:55:28] @ Tobbi joined channel #supertux
 [2016/01/21 15:55:28] @ Mode +o Tobbi by ChanServ
 [2016/01/21 15:59:04] <Tobbi> hrm
+[2016/01/21 16:17:23] <pentagon> [10flexlay] 07tobbi pushed 1 commit to 09create_addon 13https://github.com/SuperTux/flexlay/compare/898b02733154...ed1f3ed07c60
+[2016/01/21 16:17:27] <pentagon> [10flexlay] 07tobbi 14ed1f3ed Properly create directories
+[2016/01/21 16:20:06] @ Quit: lumidify: Quit: Leaving
+[2016/01/21 16:20:46] @ bb010g joined channel #supertux
+[2016/01/21 16:22:55] @ claymore2 joined channel #supertux
+[2016/01/21 16:23:29] @ Quit: bb010g: Changing host
+[2016/01/21 16:23:29] @ bb010g joined channel #supertux
