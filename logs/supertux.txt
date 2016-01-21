@@ -45740,3 +45740,5 @@
 [2016/01/21 01:10:54] <pentagon> [10supertux] 07Hume2 142256d1d Added a burning sound
 [2016/01/21 01:11:05] @ Quit: xet7: Quit: Leaving
 [2016/01/21 01:12:32] <pentagon> [10supertux] Status for commit Added a burning sound by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/308
+[2016/01/21 01:20:03] @ xet7 joined channel #supertux
+[2016/01/21 01:23:32] <pentagon> [10supertux] Status for commit Added a burning sound by 07Hume2: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/103776920
