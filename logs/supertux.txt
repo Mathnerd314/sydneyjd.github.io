@@ -45887,3 +45887,38 @@
 [2016/01/21 11:37:16] <brmbrmcar> Fine, thankyou.How about you?
 [2016/01/21 11:38:03] <brmbrmcar> I wasn't around for a while because of the stupid internet service provider.
 [2016/01/21 11:39:28] @ alket joined channel #supertux
+[2016/01/21 11:53:23] <pentagon> [10flexlay] 07tobbi created branch 09create_addon
+[2016/01/21 11:53:27] <pentagon> [10flexlay] 07tobbi pushed 12 commits to 09create_addon 13https://github.com/SuperTux/flexlay/compare/04a8d88f43a0^...fe267116049a
+[2016/01/21 11:53:31] <pentagon> [10flexlay] 07tobbi 1404a8d88 Create sub-menu for creating add-ons
+[2016/01/21 11:53:35] <pentagon> [10flexlay] 07tobbi 14274b7a4 Add-on editor
+[2016/01/21 11:53:38] <Tobbi> oh.
+[2016/01/21 11:53:39] <pentagon> [10flexlay] 07tobbi 1496bea49 Don't write contact
+[2016/01/21 11:53:41] <Tobbi> not that again.
+[2016/01/21 11:53:44] <pentagon> [10flexlay] 07tobbi 146ce4a8e New add-on wizard
+[2016/01/21 11:53:48] <pentagon> [10flexlay] 07tobbi 1493e1026 Addon dialog stuff
+[2016/01/21 11:53:52] <pentagon> [10flexlay] 07tobbi 147255261 Class SaveAddonDirectory OpenAddonDirectory
+[2016/01/21 11:53:56] <pentagon> [10flexlay] 07tobbi 14964e935 Import fix
+[2016/01/21 11:54:01] <pentagon> [10flexlay] 07tobbi 14ea492bc Fix
+[2016/01/21 11:54:05] <pentagon> [10flexlay] 07tobbi 146fc3994 Add (pseudo) methods to load add-ons from zip
+[2016/01/21 11:54:09] <pentagon> [10flexlay] 07tobbi 141f9480a Add bogus project widget
+[2016/01/21 11:54:13] <pentagon> [10flexlay] 07tobbi 14445d928 Add bogus project widget
+[2016/01/21 11:54:18] <pentagon> [10flexlay] 07tobbi 14fe26711 Further fixes
+[2016/01/21 11:54:32] <Tobbi> mt: Anything you can do against that? ^^
+[2016/01/21 11:54:38] <Tobbi> Oh, right, we talked.
+[2016/01/21 11:54:41] <Tobbi> ...about it.
+[2016/01/21 11:54:47] <Tobbi> I remember.
+[2016/01/21 11:55:26] <leyyin> nice commit message "Fix"
+[2016/01/21 11:55:30] <leyyin> very descriptive :)
+[2016/01/21 11:58:08] <Tobbi> :P
+[2016/01/21 11:58:20] <Tobbi> leyyin: This is *my* feature branch :P
+[2016/01/21 11:58:26] <Tobbi> M I N E.
+[2016/01/21 11:58:28] <Tobbi> grr
+[2016/01/21 11:58:39] <mt> https://github.com/SuperTux/supertux/blob/master/CONTRIBUTING.md#pull-requests
+[2016/01/21 11:59:18] <Tobbi> mt: Good thing is: This isn't a pull request. :)
+[2016/01/21 11:59:22] <Tobbi> Owned :D
+[2016/01/21 11:59:23] <Tobbi> haha
+[2016/01/21 11:59:26] <mt> it is
+[2016/01/21 11:59:31] <mt> indirectly
+[2016/01/21 11:59:46] <Tobbi> mt: You need to fix your definition of pull requests then :P
+[2016/01/21 11:59:49] <mt> or - how it works on git level
+[2016/01/21 11:59:55] <Tobbi> Next time I'm gonna push to my own fork.
