@@ -46074,3 +46074,18 @@
 [2016/01/21 12:58:57] <Tobbi> I mean: It's somewhat nice as well...
 [2016/01/21 12:59:17] <Tobbi> but, still... we need to check those existing folders for non-emptiness before exporting to an add-on.
 [2016/01/21 12:59:27] <Tobbi> If they're empty, no need to export them.
+[2016/01/21 13:00:53] <Karkus> Tobbi: Yup. I'm going to look at fixing the Layer Selector.
+[2016/01/21 13:00:58] <Tobbi> Alright.
+[2016/01/21 13:02:27] <Tobbi> Karkus: I am thinking that during the export stage to ZIP we can apply a series of streamlining steps: Removing empty tilemaps, checking the scripts etc...
+[2016/01/21 13:02:31] <Tobbi> But that's for the future.
+[2016/01/21 13:03:18] <brmbrmcar> Is this addonauto-generation?
+[2016/01/21 13:03:47] <Tobbi> brmbrmcar: No, just packaging of add-ons.
+[2016/01/21 13:05:04] <brmbrmcar> Nice.
+[2016/01/21 13:05:34] <brmbrmcar> I honestly haveno idea how I zipped some addons previously...
+[2016/01/21 13:07:16] <Tobbi> It's not so difficult.
+[2016/01/21 13:08:33] @ claymore2 joined channel #supertux
+[2016/01/21 13:09:37] <brmbrmcar> Ah, it's just I couldn't get it all directly in.
+[2016/01/21 13:09:47] <brmbrmcar> Well, present tense.
+[2016/01/21 13:14:21] @ Hume2_ joined channel #supertux
+[2016/01/21 13:14:22] @ Mode +o Hume2_ by ChanServ
+[2016/01/21 13:14:54] <brmbrmcar> Hume2_: What happened?
