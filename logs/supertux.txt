@@ -45957,3 +45957,40 @@
 [2016/01/21 12:10:26] <pentagon> [10flexlay] 07tobbi 14898b027 Add arrays for things we need to save in an add-on
 [2016/01/21 12:11:30] @ Quit: grumbel: Quit: Ex-Chat
 [2016/01/21 12:13:31] <Tobbi> This is gonna be a big project.
+[2016/01/21 12:15:37] <pentagon> [10supertux] 07brmbrmcar opened pull request 09#340: Add ghost() command to Console 13https://github.com/SuperTux/supertux/pull/340
+[2016/01/21 12:15:48] @ Hume2 joined channel #supertux
+[2016/01/21 12:15:48] @ Mode +o Hume2 by ChanServ
+[2016/01/21 12:15:52] <Hume2> Hello
+[2016/01/21 12:16:13] <Tobbi> Hello Hume2.
+[2016/01/21 12:19:32] @ Quit: lumidify: Ping timeout: 256 seconds
+[2016/01/21 12:20:28] <Tobbi> brmbrmcar: Don't we already have ghost() in the console?
+[2016/01/21 12:21:28] <brmbrmcar> Tobbi:Idon't think so.
+[2016/01/21 12:21:35] <brmbrmcar> There is edit().
+[2016/01/21 12:21:37] <Tobbi> brmbrmcar: Did you check?
+[2016/01/21 12:21:46] <brmbrmcar> ER...
+[2016/01/21 12:22:21] <brmbrmcar> No.
+[2016/01/21 12:22:37] <Tobbi> brmbrmcar: *can* you check?
+[2016/01/21 12:22:40] <brmbrmcar> Not as of v0.4.0, anyway.
+[2016/01/21 12:22:46] <Tobbi> we don't?
+[2016/01/21 12:23:21] <brmbrmcar> No.
+[2016/01/21 12:23:33] <brmbrmcar> I checked the current one toonow.
+[2016/01/21 12:25:43] <brmbrmcar> Tobbi: Is it a "quality" contribution?
+[2016/01/21 12:26:33] <Tobbi> brmbrmcar: Yes, it is.
+[2016/01/21 12:26:42] <Tobbi> I just wonder why it won't work for you.
+[2016/01/21 12:26:56] <brmbrmcar> ghost()?
+[2016/01/21 12:27:29] <Tobbi> brmbrmcar: Yes.
+[2016/01/21 12:27:31] <brmbrmcar> Oh. ****. It does!
+[2016/01/21 12:27:44] <brmbrmcar> I checked cnsole.nut.
+[2016/01/21 12:27:46] <Tobbi> ah.
+[2016/01/21 12:27:47] @ Quit: brmbrmcar: Quit: Lost terminal
+[2016/01/21 12:27:52] <Tobbi> No need to leave.
+[2016/01/21 12:28:10] <Hume2> Tobbi: May I merge it?
+[2016/01/21 12:28:17] <leyyin> Tobbi, are you talking to yourself again?
+[2016/01/21 12:28:19] @ brmbrmcar joined channel #supertux
+[2016/01/21 12:28:20] <leyyin> get some help man
+[2016/01/21 12:28:28] <Hume2> leyyin: LOL
+[2016/01/21 12:28:43] <Hume2> There's one thing you've forgotten.
+[2016/01/21 12:28:54] <leyyin> Hume2, do you play LoL?
+[2016/01/21 12:29:15] <Hume2> leyyin: It was the brmbrmstuff.
+[2016/01/21 12:29:32] @ Karkus joined channel #supertux
+[2016/01/21 12:29:32] @ Mode +o Karkus by ChanServ
