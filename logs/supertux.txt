@@ -45724,3 +45724,4 @@
 [2016/01/20 19:32:45] @ Quit: binki: Ping timeout: 265 seconds
 [2016/01/20 19:55:54] @ Quit: Wuzzy: Remote host closed the connection
 [2016/01/20 19:57:33] @ binki joined channel #supertux
+[2016/01/20 20:01:34] @ datahead8888 joined channel #supertux
