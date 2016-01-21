@@ -45722,3 +45722,5 @@
 [2016/01/20 19:16:44] @ Quit: datahead8888: Ping timeout: 250 seconds
 [2016/01/20 19:32:30] <pentagon> [10supertux] 07Elinvention commented on issue 09#323: Wayland support 13https://github.com/SuperTux/supertux/issues/323
 [2016/01/20 19:32:45] @ Quit: binki: Ping timeout: 265 seconds
+[2016/01/20 19:55:54] @ Quit: Wuzzy: Remote host closed the connection
+[2016/01/20 19:57:33] @ binki joined channel #supertux
