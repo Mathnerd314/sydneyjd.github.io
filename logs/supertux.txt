@@ -46154,3 +46154,4 @@
 [2016/01/21 17:33:16] @ jesusalva joined channel #supertux
 [2016/01/21 17:41:18] @ head8debian joined channel #supertux
 [2016/01/21 17:41:18] @ Mode +o head8debian by ChanServ
+[2016/01/21 17:59:55] @ Quit: Karkus: Ping timeout: 240 seconds
