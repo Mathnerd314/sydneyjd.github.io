@@ -45749,3 +45749,5 @@
 [2016/01/21 01:31:35] @ stewboy joined channel #supertux
 [2016/01/21 02:07:14] @ leyyin joined channel #supertux
 [2016/01/21 02:54:42] @ Quit: tuxdev_: Ping timeout: 250 seconds
+[2016/01/21 03:20:08] @ Tobbi joined channel #supertux
+[2016/01/21 03:20:08] @ Mode +o Tobbi by ChanServ
