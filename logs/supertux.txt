@@ -46297,3 +46297,20 @@
 [2016/01/22 07:38:06] <Tobbi> Sounds like OCD.
 [2016/01/22 07:46:04] @ giby joined channel #supertux
 [2016/01/22 07:46:04] @ Mode +o giby by ChanServ
+[2016/01/22 08:03:05] <Tobbi> hello giby. Long time no see.
+[2016/01/22 08:04:11] <giby> Hi...
+[2016/01/22 08:04:16] <giby> Still some bug
+[2016/01/22 08:04:36] <Tobbi> giby: What bug?
+[2016/01/22 08:05:39] <mt> oh by the way
+[2016/01/22 08:05:41] <mt> 11:44:40 -i- ChanServ (ChanServ@services.): The SECURE flag has been set for channel #supertux.
+[2016/01/22 08:05:44] <mt> 11:45:07 -i- ChanServ (ChanServ@services.): The KEEPTOPIC flag has been set for channel #supertux.
+[2016/01/22 08:05:46] <mt> 11:45:14 -i- ChanServ (ChanServ@services.): The TOPICLOCK flag has been set for channel #supertux.
+[2016/01/22 08:06:21] <Tobbi> I heard the Topi Clock is supposed to be a good one.
+[2016/01/22 08:06:24] <mt> keeptopic + topiclock: make sure no one breaks the /topic
+[2016/01/22 08:06:28] @ Mode +o pentagon by mt
+[2016/01/22 08:06:28] @ Mode -o pentagon by ChanServ
+[2016/01/22 08:06:34] <mt> SECURE is ^^^
+[2016/01/22 08:06:54] <Tobbi> I see...
+[2016/01/22 08:07:28] <giby> Issus with computer
+[2016/01/22 08:07:56] <Tobbi> Anyone able to build an add-on out of http://forum.freegamedev.net/viewtopic.php?f=69&t=5852 ?
+[2016/01/22 08:07:58] <Tobbi> I fail to do so.
