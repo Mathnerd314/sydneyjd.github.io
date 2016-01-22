@@ -46355,3 +46355,43 @@
 [2016/01/22 12:08:57] <brmbrmcar> So, that must ebad!
 [2016/01/22 12:09:51] <head8debian> ...
 [2016/01/22 12:11:23] <brmbrmcar> You like tours of old houses?
+[2016/01/22 12:15:56] <jesusalva_> brmbrmcar: I thought you liked car tours. After all, your name is brmbrmCAR. =P
+[2016/01/22 12:16:31] @ brmbrmcar has been kicked from #supertux by Tobbi (You failed to meet our expectations. Next time, come back as brmbrmRV)
+[2016/01/22 12:16:40] <Tobbi> It's so easy :D
+[2016/01/22 12:17:26] <Tobbi> I thought he'd automatically rejoin.
+[2016/01/22 12:17:27] <Tobbi> but, yeah...
+[2016/01/22 12:18:19] <Tobbi> If there's someone who doesn't find this funny, raise your hand now.
+[2016/01/22 12:19:48] @ brmbrmrv joined channel #supertux
+[2016/01/22 12:19:53] <Tobbi> there we go.
+[2016/01/22 12:20:32] <brmbrmrv> jesusalva_: Where's it?
+[2016/01/22 12:20:32] <Tobbi> Downside to this is that leyyin's ignore will probably not work anymore.
+[2016/01/22 12:20:47] <Tobbi> Unless he's matched the hostmask.
+[2016/01/22 12:21:35] <jesusalva_> brmbrmrv: It's gone! Where could it have hidden?? :)
+[2016/01/22 12:22:07] <Tobbi> jesusalva_: What are you guys talking about?
+[2016/01/22 12:22:16] <brmbrmrv> Where is it?
+[2016/01/22 12:22:46] <jesusalva_> brmbrmrv, Tobbi: I have no idea.
+[2016/01/22 12:22:52] <Tobbi> jesusalva_: :D
+[2016/01/22 12:23:06] <Tobbi> brmbrmrv: Do you know Python?
+[2016/01/22 12:23:17] <leyyin> ffs Tobbi
+[2016/01/22 12:23:23] <Tobbi> leyyin: What?
+[2016/01/22 12:23:24] <leyyin> now I have to ignore him again
+[2016/01/22 12:23:35] <Tobbi> leyyin: Oh no. It'll ruin your precious time :D
+[2016/01/22 12:23:46] <brmbrmrv> Tobbi: Iknow what it is. Never used it.
+[2016/01/22 12:24:00] <Tobbi> leyyin: You know, my OCD dictates me to sometimes make bad puns...
+[2016/01/22 12:24:05] <Tobbi> or jokes which aren't funny.
+[2016/01/22 12:24:10] <Tobbi> brmbrmrv: Learn it.
+[2016/01/22 12:24:28] <Tobbi> a) it's easy, b) you can program the editor, c) you don't get on our nerves.
+[2016/01/22 12:25:02] <Tobbi> Same goes for you, leyyin :D
+[2016/01/22 12:25:17] <brmbrmrv> It is harder to write editors inPython!
+[2016/01/22 12:25:18] <Tobbi> I mean: You can help us program the editor as well.
+[2016/01/22 12:25:19] * head8debian raises his hand...
+[2016/01/22 12:25:26] <Tobbi> head8debian: Too late.
+[2016/01/22 12:25:31] <Tobbi> Way too late.
+[2016/01/22 12:25:49] <head8debian> Tobbi: No it wasn't. Latentcy. In my feet. :p
+[2016/01/22 12:26:20] <Tobbi> head8debian: Your internet protocol is that feet protocol?
+[2016/01/22 12:26:24] <Tobbi> Not the pidgin one?
+[2016/01/22 12:26:47] <Tobbi> head8debian: https://en.wikipedia.org/wiki/IP_over_Avian_Carriers
+[2016/01/22 12:27:31] <brmbrmrv> What is a rv anyway?
+[2016/01/22 12:27:42] <Tobbi> brmbrmrv: Recreational vehicle.
+[2016/01/22 12:27:57] <Tobbi> brmbrmrv: https://en.wikipedia.org/wiki/Recreational_vehicle
+[2016/01/22 12:29:54] <brmbrmrv> I hate those dangerous vehichles!
