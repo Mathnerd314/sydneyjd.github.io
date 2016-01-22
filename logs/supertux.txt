@@ -46288,3 +46288,10 @@
 [2016/01/22 07:22:00] <snadge> i've played every level in existence without it .. pretty much.. finished the entire game, and most of the contrib levels :p
 [2016/01/22 07:22:22] <Tobbi> snadge: I think having those really hard levels adds some variety to the game.
 [2016/01/22 07:24:54] <Tobbi> but that might be only me.
+[2016/01/22 07:34:43] <snadge> i guess if you make them optional
+[2016/01/22 07:34:56] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/01/22 07:35:08] <snadge> theres an optional level in this map that i skipped because it enraged me
+[2016/01/22 07:35:23] <snadge> but i usually cant help myself and go back and finish them after i've completed the game
+[2016/01/22 07:37:25] @ lumidify joined channel #supertux
+[2016/01/22 07:38:03] <Tobbi> :D
+[2016/01/22 07:38:06] <Tobbi> Sounds like OCD.
