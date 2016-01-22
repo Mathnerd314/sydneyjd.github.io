@@ -46684,3 +46684,14 @@
 [2016/01/22 15:46:07] @ datahead8888 joined channel #supertux
 [2016/01/22 15:47:45] <brmbrmcar> Google doodle!
 [2016/01/22 15:58:22] @ Quit: stewboy: Read error: Connection reset by peer
+[2016/01/22 16:02:06] @ Tobbi joined channel #supertux
+[2016/01/22 16:02:06] @ Mode +o Tobbi by ChanServ
+[2016/01/22 16:05:35] <Tobbi> Hello, everyone.
+[2016/01/22 16:08:08] <leyyin> Hello, everyone.
+[2016/01/22 16:10:55] <Tobbi> leyyin: Stop repeating my sentences.
+[2016/01/22 16:11:03] <leyyin> leyyin: Stop repeating my sentences.
+[2016/01/22 16:11:19] <Tobbi> I don't know anything about computers.
+[2016/01/22 16:11:21] <Tobbi> :D
+[2016/01/22 16:11:36] <leyyin> oh well
+[2016/01/22 16:11:38] <Tobbi> hah
+[2016/01/22 16:11:43] <Tobbi> I knew this would make you stop.
