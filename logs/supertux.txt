@@ -46676,3 +46676,6 @@
 [2016/01/22 15:10:56] @ brmbrmcar left channel #supertux ("test")
 [2016/01/22 15:11:13] @ brmbrmcar joined channel #supertux
 [2016/01/22 15:13:03] @ datahead8888 joined channel #supertux
+[2016/01/22 15:21:22] @ Quit: datahead8888: Ping timeout: 245 seconds
+[2016/01/22 15:24:15] @ Quit: Hume2: Quit: Page closed
+[2016/01/22 15:26:18] @ stewboy joined channel #supertux
