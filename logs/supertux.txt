@@ -46258,3 +46258,22 @@
 [2016/01/22 06:59:35] <snadge> %2F ?
 [2016/01/22 06:59:40] <mt> It appears using "Find file" and in the clone of the git repo, but 404
 [2016/01/22 06:59:52] <mt> %2F is the HTTP encoding for /
+[2016/01/22 07:00:09] <mt> because otherwise a / would be a new subdir
+[2016/01/22 07:00:57] <snadge> http://supertux.lethargik.org/wiki/Milestone_2_Design_Document/Styleguide this one ?
+[2016/01/22 07:01:07] <mt> yeah
+[2016/01/22 07:01:28] <mt> but that wiki is obsolete
+[2016/01/22 07:02:21] <mt> most of its content but mainly the hosting infrastructure
+[2016/01/22 07:03:12] <mt> I'd even be ok with not hosting all the stuff on GitHub and decentralize it a bit more
+[2016/01/22 07:03:19] <mt> But we don't have the infrastructure
+[2016/01/22 07:03:49] <snadge> lol every frustrating level i have played violates one or more of those guidelines
+[2016/01/22 07:04:00] <snadge> more than 3 enemies on the screen made me lol
+[2016/01/22 07:07:55] <snadge> seriously though.. CT should be punished, whomever that is
+[2016/01/22 07:08:09] <mt> a previous supertux contributor :P
+[2016/01/22 07:08:48] <mt> snadge: is putting that in the /topic a punishment enough? :D
+[2016/01/22 07:09:39] @ lumidify joined channel #supertux
+[2016/01/22 07:10:05] <snadge> they're in prison now? or someone bludgeoned them with a blunt object
+[2016/01/22 07:10:13] <snadge> hehe
+[2016/01/22 07:10:54] <snadge> im actually okay with incredibly difficult levels on one condition.. they post a video on youtube of them completing it
+[2016/01/22 07:12:46] <mt> ... without console or the cheat menu
+[2016/01/22 07:13:05] @ Tobbi joined channel #supertux
+[2016/01/22 07:13:05] @ Mode +o Tobbi by ChanServ
