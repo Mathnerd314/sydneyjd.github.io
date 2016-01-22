@@ -46539,3 +46539,11 @@
 [2016/01/22 14:10:57] <mt> and you were told in the kick message
 [2016/01/22 14:12:30] <brmbrmcar> 17:16:29 -!- brmbrmcar was kicked from #supertux by Tobbi [You failed to meet our expectations. Next time, come back as brmbrmRV]
 [2016/01/22 14:12:30] @ Quit: datahead8888: Ping timeout: 250 seconds
+[2016/01/22 14:15:33] <mt> that doesn't mean to loop through five different nicks in 10 minutes
+[2016/01/22 14:16:31] @ bb010g joined channel #supertux
+[2016/01/22 14:18:27] * Hume2 is reading the LOG
+[2016/01/22 14:18:39] @ Hume2 is now known as sigh
+[2016/01/22 14:18:44] * sigh *
+[2016/01/22 14:18:49] @ sigh is now known as Hume2
+[2016/01/22 14:19:03] <brmbrmcar> LOL
+[2016/01/22 14:21:45] <jesusalva_> :D
