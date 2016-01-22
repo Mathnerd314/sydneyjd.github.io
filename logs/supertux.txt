@@ -46547,3 +46547,35 @@
 [2016/01/22 14:18:49] @ sigh is now known as Hume2
 [2016/01/22 14:19:03] <brmbrmcar> LOL
 [2016/01/22 14:21:45] <jesusalva_> :D
+[2016/01/22 14:32:41] <Hume2> Hmm... sigh is occupied.
+[2016/01/22 14:32:54] <brmbrmcar> It is also registered.
+[2016/01/22 14:33:06] <Hume2> I'm wonder who occupies that!
+[2016/01/22 14:33:09] <brmbrmcar> Wait 30 seconds and you are shoved right out.
+[2016/01/22 14:33:30] <brmbrmcar> I want toput that on my account, but for 1 second.
+[2016/01/22 14:33:33] <Hume2> :D Isn't it..., you know...
+[2016/01/22 14:33:45] <Hume2> :D ...by a chance ...
+[2016/01/22 14:33:55] <brmbrmcar> I use SASL.
+[2016/01/22 14:34:24] <Hume2> I wouldn't wonder if it was Tobbi :D
+[2016/01/22 14:34:35] <jesusalva_> Hume2: You're sounding like tmw-br. There is not a single dialog line which is not precceded by an emoticon.
+[2016/01/22 14:34:59] <jesusalva_> (^_^) It's always like that.
+[2016/01/22 14:34:59] <jesusalva_> (T.T) Sometimes it get annoying.
+[2016/01/22 14:35:21] <Hume2> Well...
+[2016/01/22 14:35:27] <jesusalva_> :)
+[2016/01/22 14:35:40] <Hume2> I'm trying to be sociable :)
+[2016/01/22 14:36:52] @ irungentoo joined channel #supertux
+[2016/01/22 14:38:23] <brmbrmcar> Thenuse emoji I can't see, like ??.
+[2016/01/22 14:39:28] <Hume2> kř
+[2016/01/22 14:39:35] @ jesusalva_ left channel #supertux ("See you guys later.")
+[2016/01/22 14:39:42] <brmbrmcar> What was that?
+[2016/01/22 14:39:54] <Hume2> That was kř.
+[2016/01/22 14:40:50] <brmbrmcar> Ineed those fonts to work interminal.
+[2016/01/22 14:42:01] @ jesusalva_ joined channel #supertux
+[2016/01/22 14:42:19] <Hume2> It's not only [kř], it's also one consonat I've thought. It's velar trill.
+[2016/01/22 14:42:26] <jesusalva_> I inisit. KVIrc is acting pretty strange lately.
+[2016/01/22 14:43:34] <brmbrmcar> What is KVirc?
+[2016/01/22 14:43:44] <Hume2> It's an IRC client.
+[2016/01/22 14:43:55] <mt> WeeChat <3
+[2016/01/22 14:44:19] <mt> KVIrc's devs are uh
+[2016/01/22 14:44:36] <brmbrmcar> Irssi is the best.
+[2016/01/22 14:44:48] <Hume2> KVirc doesn't display figlet correctly.
+[2016/01/22 14:44:56] <mt> i.e. SASL: KVIrc (used) to only support SASL DH-* when built against OpenSSL
