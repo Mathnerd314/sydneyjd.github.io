@@ -46681,3 +46681,6 @@
 [2016/01/22 15:26:18] @ stewboy joined channel #supertux
 [2016/01/22 15:39:56] @ Karkus joined channel #supertux
 [2016/01/22 15:39:56] @ Mode +o Karkus by ChanServ
+[2016/01/22 15:46:07] @ datahead8888 joined channel #supertux
+[2016/01/22 15:47:45] <brmbrmcar> Google doodle!
+[2016/01/22 15:58:22] @ Quit: stewboy: Read error: Connection reset by peer
