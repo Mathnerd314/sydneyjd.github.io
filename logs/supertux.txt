@@ -46184,3 +46184,4 @@
 [2016/01/21 19:01:19] @ head8debian joined channel #supertux
 [2016/01/21 19:01:20] @ Mode +o head8debian by ChanServ
 [2016/01/21 19:07:58] @ Quit: swift110: Ping timeout: 250 seconds
+[2016/01/21 20:10:33] @ head8debian is now known as sydney
