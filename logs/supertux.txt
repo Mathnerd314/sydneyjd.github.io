@@ -46713,3 +46713,4 @@
 [2016/01/22 17:23:37] @ Mode +o Tobbi by ChanServ
 [2016/01/22 17:48:42] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2016/01/22 18:28:29] @ jesusalva joined channel #supertux
+[2016/01/22 18:37:43] @ Quit: Karkus: Remote host closed the connection
