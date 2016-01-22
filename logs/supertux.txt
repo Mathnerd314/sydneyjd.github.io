@@ -46330,3 +46330,5 @@
 [2016/01/22 10:45:54] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/22 11:05:51] @ Tobbi joined channel #supertux
 [2016/01/22 11:05:51] @ Mode +o Tobbi by ChanServ
+[2016/01/22 11:25:07] @ jesusalva joined channel #supertux
+[2016/01/22 11:25:56] @ Quit: datahead7777: Ping timeout: 240 seconds
