@@ -46579,3 +46579,54 @@
 [2016/01/22 14:44:36] <brmbrmcar> Irssi is the best.
 [2016/01/22 14:44:48] <Hume2> KVirc doesn't display figlet correctly.
 [2016/01/22 14:44:56] <mt> i.e. SASL: KVIrc (used) to only support SASL DH-* when built against OpenSSL
+[2016/01/22 14:45:11] <mt> when freenode disabled SASL DH-BLOWFISH
+[2016/01/22 14:45:20] <mt> KVIrc broke on freenode
+[2016/01/22 14:45:38] <jesusalva_> brmbrmcar: I think head8debian agree with your statement. :p
+[2016/01/22 14:45:53] <mt> Hume2: that's because you're not using a monospaced font, I guess
+[2016/01/22 14:46:02] <mt> Irssi is uh...
+[2016/01/22 14:46:11] <mt> didn't support IRCv3 until recently
+[2016/01/22 14:46:14] <Hume2> Maybe, I didn't examined it.
+[2016/01/22 14:46:23] <mt> only supports Perl scripting
+[2016/01/22 14:46:33] <brmbrmcar> Irssis great! Simple!
+[2016/01/22 14:46:35] <mt> and is ugly to theme
+[2016/01/22 14:46:39] <brmbrmcar> Small!
+[2016/01/22 14:46:46] <jesusalva_> mt is uh...
+[2016/01/22 14:46:46] <jesusalva_> didn't supported other IRC clients...
+[2016/01/22 14:46:49] <jesusalva_> :P
+[2016/01/22 14:46:59] <mt> oh and irssi doesn't have vertical bars
+[2016/01/22 14:47:02] <mt> e.g. for nicklists
+[2016/01/22 14:47:17] <mt> weechat is quite small and simple as well
+[2016/01/22 14:48:03] <brmbrmcar> Irssiis under 5000KB. Eveni canthrow around that.
+[2016/01/22 14:48:48] <mt> 1.1M /usr/bin/weechat
+[2016/01/22 14:48:53] <mt> 1.1M /usr/bin/irssi
+[2016/01/22 14:49:34] <jesusalva_> mt: What about /usr/share and etc.?
+[2016/01/22 14:49:58] <brmbrmcar> 9211KB for Weechat.
+[2016/01/22 14:50:02] <jesusalva_> We're not microsoft to crample all data on the executable. =P
+[2016/01/22 14:50:21] <mt> 592K /usr/share/irssi
+[2016/01/22 14:50:24] * jesusalva_ wonders if 'crample' is a word.
+[2016/01/22 14:50:30] <mt> /usr/share/weechat isn't a thing
+[2016/01/22 14:50:36] <mt> 40K /usr/lib/irssi
+[2016/01/22 14:50:43] <mt> 584K /usr/lib/weechat/plugins/irc.so
+[2016/01/22 14:50:48] <brmbrmcar> But irssi is way smaller on apt-get.
+[2016/01/22 14:51:00] <mt> there's other weechat plugins but they're not relevant for irc functionality
+[2016/01/22 14:52:15] <jesusalva_> mt: If IRSSI was that bad, no one would be using it. And if Weechat was *that* good, everyone would use it (and CTCP Version would always say that)
+[2016/01/22 14:52:23] <brmbrmcar> I want a proper desktop.
+[2016/01/22 14:52:24] <mt> furthermore, using addons weechat supports triggers (irssi triggers.pl equivalent)
+[2016/01/22 14:52:33] <mt> s/addons/plugins
+[2016/01/22 14:52:45] <mt> C plugins are usually faster compared to scripts
+[2016/01/22 14:52:56] <mt> well, I do know of people using irssi but not liking it
+[2016/01/22 14:53:12] <mt> and then there's people who don't know what they're doing
+[2016/01/22 14:53:22] <mt> and those who don't want to use CLI clients
+[2016/01/22 14:55:06] <brmbrmcar> I am still with irssi.
+[2016/01/22 14:55:31] <mt> just out of curiosity, why?
+[2016/01/22 14:55:40] <mt> I don't want to force you to use weechat
+[2016/01/22 14:56:09] <mt> however I can say I like WeeChat and it has some advantages (from my point of view) over irssi
+[2016/01/22 14:56:14] <brmbrmcar> I like the terminal.
+[2016/01/22 14:56:21] <brmbrmcar> It  is just so awesome.
+[2016/01/22 14:56:48] <brmbrmcar> Why don't online clients like "normal" hosts?
+[2016/01/22 14:58:52] * jesusalva_ checks that head8debian is still using IRSSI.
+[2016/01/22 14:59:08] <jesusalva_> irssi v0.8.18-beta1 - running on Linux x86_64.
+[2016/01/22 14:59:24] <mt> /ctcp #supertux VERSION
+[2016/01/22 14:59:26] <mt> :D
+[2016/01/22 14:59:46] <jesusalva_> mt: Does that work?
+[2016/01/22 14:59:54] <mt> usually it does
