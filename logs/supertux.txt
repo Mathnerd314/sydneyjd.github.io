@@ -46217,3 +46217,10 @@
 [2016/01/22 04:19:12] @ tux|dude joined channel #supertux
 [2016/01/22 04:26:51] @ Quit: tux|dude: Ping timeout: 260 seconds
 [2016/01/22 05:29:36] <pentagon> [10supertux] 07maxteufel labeled pull request 09#297: getting a null string exception when the data dir is unable to be set 13https://github.com/SuperTux/supertux/pull/297
+[2016/01/22 05:33:06] <pentagon> [10supertux] 07maxteufel commented on issue 09#282: "double iconv" causes cmake to always fail on systems that have iconv 13https://github.com/SuperTux/supertux/issues/282
+[2016/01/22 05:33:21] @ supertux|58237 joined channel #supertux
+[2016/01/22 05:33:36] @ Quit: supertux|58237: Client Quit
+[2016/01/22 05:42:24] <mt> hm
+[2016/01/22 05:42:46] <mt> I think I'm actually not banned for requesting too many shortened urls
+[2016/01/22 05:42:50] <mt> it's just https://github.com/ProgVal/Supybot-plugins/issues/294
+[2016/01/22 05:43:16] @ Quit: lumidify: Ping timeout: 260 seconds
