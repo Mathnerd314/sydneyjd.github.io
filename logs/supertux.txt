@@ -46295,3 +46295,5 @@
 [2016/01/22 07:37:25] @ lumidify joined channel #supertux
 [2016/01/22 07:38:03] <Tobbi> :D
 [2016/01/22 07:38:06] <Tobbi> Sounds like OCD.
+[2016/01/22 07:46:04] @ giby joined channel #supertux
+[2016/01/22 07:46:04] @ Mode +o giby by ChanServ
