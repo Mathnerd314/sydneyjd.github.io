@@ -46679,3 +46679,5 @@
 [2016/01/22 15:21:22] @ Quit: datahead8888: Ping timeout: 245 seconds
 [2016/01/22 15:24:15] @ Quit: Hume2: Quit: Page closed
 [2016/01/22 15:26:18] @ stewboy joined channel #supertux
+[2016/01/22 15:39:56] @ Karkus joined channel #supertux
+[2016/01/22 15:39:56] @ Mode +o Karkus by ChanServ
