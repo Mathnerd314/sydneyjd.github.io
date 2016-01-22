@@ -46630,3 +46630,49 @@
 [2016/01/22 14:59:26] <mt> :D
 [2016/01/22 14:59:46] <jesusalva_> mt: Does that work?
 [2016/01/22 14:59:54] <mt> usually it does
+[2016/01/22 15:00:13] <mt> but because +C is set every CTCP that is not CTCP ACTION (/me) gets blocked
+[2016/01/22 15:00:28] <jesusalva_> Ah, I see. =)
+[2016/01/22 15:00:29] <mt> also, sometimes freenode staffers /ctcp $$* VERSION
+[2016/01/22 15:00:34] <mt> $$* means all users
+[2016/01/22 15:00:56] <mt> right now "Current global users 90859"
+[2016/01/22 15:01:01] <jesusalva_> My KVIrc is set to refuse CTCP. =/
+[2016/01/22 15:01:33] <jesusalva_> WARNING: Incoming CTCP by mt type VERSION .
+[2016/01/22 15:01:33] <jesusalva_> [18:01:14] CTCP VERSION pedido de mt [mteufel@unaffiliated/supermat] (VERSION), ignorado
+[2016/01/22 15:01:37] <brmbrmcar> I'm not sure what happened when I ran that.
+[2016/01/22 15:01:52] <jesusalva_> s/pedido de/request from/
+[2016/01/22 15:01:52] <red_bot> jesusalva_ meant: "[18:01:14] CTCP VERSION request from mt [mteufel@unaffiliated/supermat] (VERSION), ignorado"
+[2016/01/22 15:02:05] <jesusalva_> =)
+[2016/01/22 15:02:36] <mt> also 21:02:16 -i- [jesusalva_] is away: AFK.
+[2016/01/22 15:02:50] <jesusalva_> Oops. =P
+[2016/01/22 15:02:51] @ jesusalva_ is now known as jesusalva
+[2016/01/22 15:03:00] <jesusalva> Forgot to leave AWAY mode. =P
+[2016/01/22 15:03:14] <brmbrmcar> [ctcp(#supertux)] VERSION and -!- #supertux Cannot send to channel with <@mt> right now "Current global users 90859" in between.
+[2016/01/22 15:03:36] <mt> brmbrmcar: yeah
+[2016/01/22 15:03:43] <mt> +C is set
+[2016/01/22 15:03:49] <mt> that blocks CTCP to the channel
+[2016/01/22 15:03:53] <mt> but there's a bug
+[2016/01/22 15:03:57] <jesusalva> Who set it? :)
+[2016/01/22 15:04:16] <mt> me
+[2016/01/22 15:04:32] * jesusalva had already guessed it. :P
+[2016/01/22 15:04:52] <mt> should I set +q $~a
+[2016/01/22 15:04:55] <mt> ?
+[2016/01/22 15:05:00] <mt> (quiet unregistered users)
+[2016/01/22 15:05:03] -brmbrmcar- you blocked this
+[2016/01/22 15:05:27] <brmbrmcar> I saw 20:05:01 [notice(#supertux)] you blocked this
+[2016/01/22 15:07:08] <jesusalva> ARNING: Incoming CTCP by mt type THISCTCPISVERYBADBUTDOESNTHARMYOU .
+[2016/01/22 15:07:08] <jesusalva> [18:02:16] CTCP THISCTCPISVERYBADBUTDOESNTHARMYOU pedido de mt [mteufel@unaffiliated/supermat] (THISCTCPISVERYBADBUTDOESNTHARMYOU hello jesusalva_), ignorado (não reconhecido)
+[2016/01/22 15:07:12] <brmbrmcar> mt: No.
+[2016/01/22 15:07:30] <brmbrmcar> That willstop people querying about Supertux.
+[2016/01/22 15:08:26] <jesusalva> Yes. So if the causal player comes here to ask for help no one would see it. =(
+[2016/01/22 15:08:49] <mt> brmbrmcar: I didn't block notices
+[2016/01/22 15:09:05] <mt> I don't care about them, even
+[2016/01/22 15:09:18] <brmbrmcar> What is +n then?
+[2016/01/22 15:09:19] <mt> because clients that annoy users for notices being received are broken
+[2016/01/22 15:09:34] <mt> disallow messages from users that aren't in the channel
+[2016/01/22 15:09:45] <mt> if I'd unset that you could speak here without joining
+[2016/01/22 15:09:53] <brmbrmcar> So external notices?
+[2016/01/22 15:10:04] <mt> (obviously you won't see what's being spoken in here)
+[2016/01/22 15:10:17] <jesusalva> mt: #EvolOnline does have a bot which tracks external notices for some reason =P
+[2016/01/22 15:10:56] @ brmbrmcar left channel #supertux ("test")
+[2016/01/22 15:11:13] @ brmbrmcar joined channel #supertux
+[2016/01/22 15:13:03] @ datahead8888 joined channel #supertux
