@@ -46210,3 +46210,6 @@
 [2016/01/22 01:44:59] @ leyyin joined channel #supertux
 [2016/01/22 01:52:24] @ Quit: tux|dude: Ping timeout: 264 seconds
 [2016/01/22 01:58:06] @ tuxdev_ joined channel #supertux
+[2016/01/22 02:20:00] @ Quit: head8debian: Ping timeout: 264 seconds
+[2016/01/22 02:20:10] @ head8debian joined channel #supertux
+[2016/01/22 02:20:10] @ Mode +o head8debian by ChanServ
