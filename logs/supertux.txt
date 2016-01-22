@@ -46454,3 +46454,49 @@
 [2016/01/22 12:59:50] <head8debian> This room is becoming overrun by bots...
 [2016/01/22 12:59:59] <mt> ;part #supertux
 [2016/01/22 12:59:59] @ AtemMapsItna left channel #supertux ()
+[2016/01/22 13:00:04] <mt> there
+[2016/01/22 13:00:20] <head8debian> mt: You think im going to try cracking its cridentials? :p
+[2016/01/22 13:00:44] <mt> I don't even have access to the main bot lol
+[2016/01/22 13:01:14] <head8debian> :)
+[2016/01/22 13:01:16] <jesusalva_> I didn't thought this room would be so futuristic. I mean, bots which have OP! This room might as well be ruled by some kind of super artificial intelligence...
+[2016/01/22 13:01:27] <head8debian> jesusalva_: FreedroidRPG is. :p
+[2016/01/22 13:01:34] <jesusalva_> :P
+[2016/01/22 13:01:42] <head8debian> Hehe, that game just has a feel to it that i cannot get over. :)
+[2016/01/22 13:02:10] <head8debian> It makes em want to play, yet not want to play, because these scary bots come out of nowhere with glowing eyeballs. :p
+[2016/01/22 13:02:13] <head8debian> me*
+[2016/01/22 13:02:25] * head8debian is weird he guesses...
+[2016/01/22 13:02:35] <brmbrmmicrocar> Bots deserve ops.
+[2016/01/22 13:02:51] @ Hume2 joined channel #supertux
+[2016/01/22 13:02:51] @ Mode +o Hume2 by ChanServ
+[2016/01/22 13:03:39] @ claymore2 joined channel #supertux
+[2016/01/22 13:05:49] <jesusalva_> brmbrmmicrocar: You're not brmbrmbot, so according to yourself, you don't deserve OP =P
+[2016/01/22 13:06:23] <brmbrmmicrocar> :(
+[2016/01/22 13:06:39] <brmbrmmicrocar> You know brmbrmbot?
+[2016/01/22 13:08:02] <jesusalva_> Nichts, never met it. 0.0
+[2016/01/22 13:08:19] <jesusalva_> brmbrmmicrocar: What is 'agie'²
+[2016/01/22 13:08:34] <brmbrmmicrocar> What?
+[2016/01/22 13:08:54] <jesusalva_> Your real name is: agie.agie.agie.agie =P
+[2016/01/22 13:09:10] <jesusalva_> 4=a 9=g 1=(i or l) 3=e
+[2016/01/22 13:09:15] <brmbrmmicrocar> I meant 4913.49.13.4913.
+[2016/01/22 13:09:24] <brmbrmmicrocar> MUst be your client.
+[2016/01/22 13:10:21] <jesusalva_> brmbrmmicrocar [~brmbrmcar@unaffiliated/brmbrmcar]: Channel: #supertux, Server: asimov.freenode.net, Hops: 0, Flags: H, Away: No, Real Name : 4913.4913.4913.4913
+[2016/01/22 13:10:44] <jesusalva_> =P
+[2016/01/22 13:10:56] <head8debian> jesusalva_: Good grief.
+[2016/01/22 13:11:01] @ Quit: tuxdev_: Ping timeout: 264 seconds
+[2016/01/22 13:11:08] <jesusalva_> head8debian: ?
+[2016/01/22 13:11:37] <brmbrmmicrocar> afk for 10-15 mins
+[2016/01/22 13:11:49] <mt> "Flags: H"
+[2016/01/22 13:11:54] <mt> who wrote that broken client?
+[2016/01/22 13:12:07] <jesusalva_> =P
+[2016/01/22 13:12:11] <mt> The H thing just means "Here"
+[2016/01/22 13:12:15] <mt> G means "Gone"
+[2016/01/22 13:12:16] <jesusalva_> Don't ask me. Ask '/who' =P
+[2016/01/22 13:12:35] <jesusalva_> mt: Ask Doctor /Who =P
+[2016/01/22 13:13:04] <mt> I prefer /lwhois :D
+[2016/01/22 13:13:04] <mt> 19:12:42 -i- jesusalva_ [jesusalva] (~jesusalva@187.116.178.104): jesusalva
+[2016/01/22 13:13:14] <mt> nick [account] (user@host): realname
+[2016/01/22 13:13:33] <mt> all using data that's already stored locally by the client
+[2016/01/22 13:13:55] <jesusalva_> =P
+[2016/01/22 13:14:17] <mt> lol ctcp
+[2016/01/22 13:14:34] <jesusalva_> Never used it, to be honest =P
+[2016/01/22 13:14:50] <mt> you'd use VERSION to get the name of the client
