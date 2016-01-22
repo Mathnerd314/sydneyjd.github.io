@@ -46332,3 +46332,10 @@
 [2016/01/22 11:05:51] @ Mode +o Tobbi by ChanServ
 [2016/01/22 11:25:07] @ jesusalva joined channel #supertux
 [2016/01/22 11:25:56] @ Quit: datahead7777: Ping timeout: 240 seconds
+[2016/01/22 11:31:08] @ jesusalva is now known as jesusalva_
+[2016/01/22 11:36:31] <head8debian> This is quite cool. http://www.mountvernon.org/site/virtual-tour/
+[2016/01/22 11:36:58] <head8debian> Oh wait, its only relevant to Americans. ;)
+[2016/01/22 11:37:15] <Tobbi> head8debian: That site doesn't even load on my computer...
+[2016/01/22 11:37:22] <head8debian> lol.
+[2016/01/22 11:41:29] <brmbrmcar> LOads here.
+[2016/01/22 11:42:01] <brmbrmcar> It is boring!
