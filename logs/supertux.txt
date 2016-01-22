@@ -46519,3 +46519,4 @@
 [2016/01/22 13:28:32] @ brmbrmmultipurpo is now known as brmbrmmpv
 [2016/01/22 13:28:38] <brmbrmmpv> That's better.
 [2016/01/22 13:28:51] <pentagon> [10supertux] Status for commit Fix Haywire's exploding state not being removed completely when frozen by 07MiroslavR: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/310
+[2016/01/22 13:38:26] <pentagon> [10supertux] Status for commit Fix Haywire's exploding state not being removed completely when frozen by 07MiroslavR: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/104150720
