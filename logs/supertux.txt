@@ -46234,3 +46234,8 @@
 [2016/01/22 06:27:27] <mt> omg Savsish
 [2016/01/22 06:27:37] <mt> can we get rid of that idiot?
 [2016/01/22 06:29:25] <Tobbi> What did he do this time?
+[2016/01/22 06:30:51] <mt> https://github.com/SuperTux/supertux/issues/76#issuecomment-173885083
+[2016/01/22 06:31:07] <mt> that issue's now over 6 months old
+[2016/01/22 06:38:57] @ Quit: lumidify: Ping timeout: 276 seconds
+[2016/01/22 06:41:15] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/22 06:41:55] @ lumidify joined channel #supertux
