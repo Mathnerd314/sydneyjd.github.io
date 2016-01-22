@@ -46314,3 +46314,15 @@
 [2016/01/22 08:07:28] <giby> Issus with computer
 [2016/01/22 08:07:56] <Tobbi> Anyone able to build an add-on out of http://forum.freegamedev.net/viewtopic.php?f=69&t=5852 ?
 [2016/01/22 08:07:58] <Tobbi> I fail to do so.
+[2016/01/22 09:47:48] @ Quit: head8debian: Quit: brb
+[2016/01/22 09:47:59] @ quit (okay bye)
+[2016/01/22 09:48:01] @ Log closed by * (rescan or shutdown)
+[2016/01/22 09:49:21] @ Log started by red_bot
+[2016/01/22 09:49:21] @ Joined channel #supertux
+[2016/01/22 09:49:21] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/01/22 09:49:21] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
+[2016/01/22 09:49:25] @ Mode +Cntj 5:10 by sendak.freenode.net
+[2016/01/22 09:49:33] @ Mode +o red_bot by ChanServ
+[2016/01/22 09:50:36] @ head8debian joined channel #supertux
+[2016/01/22 09:50:37] @ Mode +o head8debian by ChanServ
+[2016/01/22 09:52:36] @ Quit: lumidify: Ping timeout: 240 seconds
