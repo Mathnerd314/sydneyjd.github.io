@@ -46500,3 +46500,22 @@
 [2016/01/22 13:14:17] <mt> lol ctcp
 [2016/01/22 13:14:34] <jesusalva_> Never used it, to be honest =P
 [2016/01/22 13:14:50] <mt> you'd use VERSION to get the name of the client
+[2016/01/22 13:15:18] <jesusalva_> CTCP VERSION resposta de mt [mteufel@unaffiliated/supermat]: WeeChat 1.4-dev (git: v1.3-186-g295158d) (Dec 27 2015) via ZNC 1.7.x-git-530-b17481b - http://znc.in
+[2016/01/22 13:15:43] * jesusalva_ didn't even bothered to translate resposta de (answer from)
+[2016/01/22 13:16:02] <mt> well that makes sense out of the context
+[2016/01/22 13:16:12] <mt> no need for translations
+[2016/01/22 13:16:19] <jesusalva_> =)
+[2016/01/22 13:17:09] <mt> and I speak French and very little Spanish, so kind of similar words
+[2016/01/22 13:18:54] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/22 13:22:06] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://github.com/SuperTux/supertux/compare/2256d1dc66f7...8dc3679ec1ca
+[2016/01/22 13:22:09] <pentagon> [10supertux] 07MiroslavR 148dc3679 Fix Haywire's exploding state not being removed completely when frozen
+[2016/01/22 13:22:31] <pentagon> [10supertux] 07Hume2 commented on issue 09#341: Fix Haywire's exploding state not being removed completely when frozen 13https://github.com/SuperTux/supertux/pull/341
+[2016/01/22 13:22:42] <pentagon> [10supertux] 07Hume2 closed pull request 09#341: Fix Haywire's exploding state not being removed completely when frozen 13https://github.com/SuperTux/supertux/pull/341
+[2016/01/22 13:22:59] <mt> learn to use Close #... :)
+[2016/01/22 13:26:48] <brmbrmmicrocar> I'm back.
+[2016/01/22 13:27:09] <Hume2> brmbrmmicrocar: Why are you micro?
+[2016/01/22 13:27:54] <brmbrmmicrocar> Hume2: I don't know.
+[2016/01/22 13:28:15] @ brmbrmmicrocar is now known as brmbrmmultipurpo
+[2016/01/22 13:28:32] @ brmbrmmultipurpo is now known as brmbrmmpv
+[2016/01/22 13:28:38] <brmbrmmpv> That's better.
+[2016/01/22 13:28:51] <pentagon> [10supertux] Status for commit Fix Haywire's exploding state not being removed completely when frozen by 07MiroslavR: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/310
