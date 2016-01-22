@@ -46426,3 +46426,31 @@
 [2016/01/22 12:42:34] <Tobbi> head8debian: Have fun.
 [2016/01/22 12:42:35] <Tobbi> :D
 [2016/01/22 12:43:16] <head8debian> Tobbi: Exactly. :D
+[2016/01/22 12:45:45] @ datahead8888 joined channel #supertux
+[2016/01/22 12:49:29] <brmbrmmicrocar> So I can find out the next easy pirating trick.
+[2016/01/22 12:49:45] <brmbrmmicrocar> Apart from screen record, that is cheating.
+[2016/01/22 12:50:17] <head8debian> brmbrmmicrocar: What now?
+[2016/01/22 12:50:34] <mt> re google open source = yacy + mediagoblin
+[2016/01/22 12:55:26] <brmbrmmicrocar> head8debian:What do you mean?
+[2016/01/22 12:56:19] <head8debian> Never mind.
+[2016/01/22 12:56:35] <head8debian> My nick should be brmlargecar. :p
+[2016/01/22 12:57:04] @ AtemMapsItna joined channel #supertux
+[2016/01/22 12:57:20] <mt> meet AtemMapsItna, an anti spam bot
+[2016/01/22 12:57:31] <mt> it will report incidents :D
+[2016/01/22 12:58:38] <head8debian> mt: And what does that mean?
+[2016/01/22 12:58:43] <head8debian> AtemMapsItna: ping
+[2016/01/22 12:58:49] <mt> it's ;ping
+[2016/01/22 12:58:54] <head8debian> Doesn't even do that? :p
+[2016/01/22 12:58:58] <head8debian> AtemMapsItna: ;ping
+[2016/01/22 12:59:07] <head8debian> ;ping
+[2016/01/22 12:59:07] <AtemMapsItna> pong
+[2016/01/22 12:59:10] <mt> basically it's my test instance of a bot running on freenode
+[2016/01/22 12:59:12] <head8debian> Ugg.
+[2016/01/22 12:59:16] <head8debian> Ah.
+[2016/01/22 12:59:22] <mt> ;investigate head8debian
+[2016/01/22 12:59:24] <AtemMapsItna> I found 0 matches by nick (head8debian), 0 by user (~sydney), 0 by hostname (unaffiliated/sydney), 0 by NickServ account (sydney), 0 by gecos field (sydney), and 0 by real IP (). https://antispammeta.net/cgi-bin/secret/investigate.pl?nick=head8debian&user=~sydney&host=unaffiliated%2Fsydney&account=sydney&gecos=sydney&realip=
+[2016/01/22 12:59:31] <mt> ignore the URL
+[2016/01/22 12:59:42] <mt> it's of the actual bot
+[2016/01/22 12:59:50] <head8debian> This room is becoming overrun by bots...
+[2016/01/22 12:59:59] <mt> ;part #supertux
+[2016/01/22 12:59:59] @ AtemMapsItna left channel #supertux ()
