@@ -46239,3 +46239,22 @@
 [2016/01/22 06:38:57] @ Quit: lumidify: Ping timeout: 276 seconds
 [2016/01/22 06:41:15] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/22 06:41:55] @ lumidify joined channel #supertux
+[2016/01/22 06:48:19] @ Quit: lumidify: Ping timeout: 250 seconds
+[2016/01/22 06:53:32] <snadge> presumably its not that difficult to add translations, if you know both english AND the language you want to support
+[2016/01/22 06:53:45] <snadge> usually just string tables.. why would you moan about something like that.. sigh
+[2016/01/22 06:54:05] <snadge> who is CT anyway? :P
+[2016/01/22 06:54:20] <snadge> that waves of frogs level is evil
+[2016/01/22 06:55:35] <snadge> its levels like that.. that make me want to hack an instant fire flower button
+[2016/01/22 06:55:55] <snadge> its painful to have to go to another level.. to get the fireflower, every time you want to attempt it
+[2016/01/22 06:56:31] <snadge> you get one turtle as ammo.. and you're supposed to avoid like 50 frogs
+[2016/01/22 06:57:17] <mt> some addon levels are evil and don't follow the style guidelines
+[2016/01/22 06:57:21] <snadge> i guess if you restart before you die.. you can get the flower back
+[2016/01/22 06:57:41] <snadge> but its just remembering to do that.. instead of continuing and trying your luck
+[2016/01/22 06:58:12] <snadge> some of the insanely hard levels are what keep me playing the game though.. infuriatingly difficult
+[2016/01/22 06:58:32] <snadge> then when you beat them.. you cant help exclaim profanity and jump out of your seat ;)
+[2016/01/22 06:59:04] <mt> https://github.com/SuperTux/wiki/blob/mediawiki/Milestone_2_Design_Document%2FStyleguide.mw
+[2016/01/22 06:59:07] <mt> lol
+[2016/01/22 06:59:14] <mt> GitHub knows about this file but doesn't
+[2016/01/22 06:59:35] <snadge> %2F ?
+[2016/01/22 06:59:40] <mt> It appears using "Find file" and in the clone of the git repo, but 404
+[2016/01/22 06:59:52] <mt> %2F is the HTTP encoding for /
