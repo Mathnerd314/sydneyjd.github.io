@@ -46395,3 +46395,34 @@
 [2016/01/22 12:27:42] <Tobbi> brmbrmrv: Recreational vehicle.
 [2016/01/22 12:27:57] <Tobbi> brmbrmrv: https://en.wikipedia.org/wiki/Recreational_vehicle
 [2016/01/22 12:29:54] <brmbrmrv> I hate those dangerous vehichles!
+[2016/01/22 12:30:07] @ brmbrmrv is now known as brmbrmmicrocar
+[2016/01/22 12:30:10] <head8debian> Tobbi: No, the latency to get my feet to my computer to type. :p
+[2016/01/22 12:30:17] <brmbrmmicrocar> More mykind of thing.
+[2016/01/22 12:30:21] <leyyin> Tobbi, hehe, nope
+[2016/01/22 12:30:25] <Tobbi> head8debian: You're typing with your feet???
+[2016/01/22 12:30:35] * head8debian nm...
+[2016/01/22 12:30:36] <head8debian> NO
+[2016/01/22 12:30:39] <Tobbi> leyyin: Damn you...
+[2016/01/22 12:30:53] <head8debian> brmbrmmicrocar: What is so dangerous about them?
+[2016/01/22 12:31:23] <Tobbi> leyyin: Maybe you should ignore brmbrm* as a nickname.
+[2016/01/22 12:31:25] <Tobbi> Or the hostmask.
+[2016/01/22 12:31:27] <brmbrmmicrocar> Hangon...
+[2016/01/22 12:31:31] <Tobbi> aka unaffiliated/brmbrmcar
+[2016/01/22 12:31:41] <leyyin> yes, I did that
+[2016/01/22 12:31:51] <Tobbi> leyyin: Good thinking. :)
+[2016/01/22 12:34:37] <brmbrmmicrocar> https://www.youtube.com/watch?v=KwMNP5l8qL0
+[2016/01/22 12:34:37] <head8debian> Yay! The NSA must be cracking down on me, we actually not, i did hve 2 accounts open on this one site when i was not supposed to...
+[2016/01/22 12:35:07] <head8debian> Tobbi: Your Over Current Discharge?
+[2016/01/22 12:35:16] <Tobbi> head8debian: what?
+[2016/01/22 12:35:33] <head8debian> Tobbi: ocd. :d
+[2016/01/22 12:36:05] <Tobbi> head8debian: No, I am Ordo Carmelitarum Discalceatorum
+[2016/01/22 12:37:44] <Tobbi> brmbrmmicrocar: You know German? How the hell did you find that video?
+[2016/01/22 12:40:58] <brmbrmmicrocar> dynamictestcenter
+[2016/01/22 12:41:15] <brmbrmmicrocar> I know little German at all.
+[2016/01/22 12:41:35] <brmbrmmicrocar> But I know Wohnmobil.
+[2016/01/22 12:42:03] @ Wuzzy joined channel #supertux
+[2016/01/22 12:42:19] <head8debian> Tobbi: We need a FOSS version of google...
+[2016/01/22 12:42:32] <head8debian> Which includes youtube...
+[2016/01/22 12:42:34] <Tobbi> head8debian: Have fun.
+[2016/01/22 12:42:35] <Tobbi> :D
+[2016/01/22 12:43:16] <head8debian> Tobbi: Exactly. :D
