@@ -46181,3 +46181,6 @@
 [2016/01/21 18:56:28] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
 [2016/01/21 18:56:32] @ Mode +Cntj 5:10 by weber.freenode.net
 [2016/01/21 18:56:41] @ Mode +o red_bot by ChanServ
+[2016/01/21 19:01:19] @ head8debian joined channel #supertux
+[2016/01/21 19:01:20] @ Mode +o head8debian by ChanServ
+[2016/01/21 19:07:58] @ Quit: swift110: Ping timeout: 250 seconds
