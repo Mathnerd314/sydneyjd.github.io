@@ -46708,3 +46708,6 @@
 [2016/01/22 17:02:57] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/22 17:09:45] @ datahead8888_ is now known as datahead7777
 [2016/01/22 17:12:48] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/01/22 17:15:07] @ Quit: claymore2: Quit: Leaving
+[2016/01/22 17:23:37] @ Tobbi joined channel #supertux
+[2016/01/22 17:23:37] @ Mode +o Tobbi by ChanServ
