@@ -46327,3 +46327,4 @@
 [2016/01/22 09:50:37] @ Mode +o head8debian by ChanServ
 [2016/01/22 09:52:36] @ Quit: lumidify: Ping timeout: 240 seconds
 [2016/01/22 10:03:33] @ tuxdev_ joined channel #supertux
+[2016/01/22 10:45:54] @ Quit: Tobbi: Remote host closed the connection
