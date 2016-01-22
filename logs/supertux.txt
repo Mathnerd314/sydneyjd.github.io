@@ -46186,3 +46186,11 @@
 [2016/01/21 19:07:58] @ Quit: swift110: Ping timeout: 250 seconds
 [2016/01/21 20:10:33] @ head8debian is now known as sydney
 [2016/01/21 20:15:09] @ sydney is now known as head8debian
+[2016/01/21 21:54:18] @ Joined channel #supertux
+[2016/01/21 21:54:18] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/01/21 21:54:18] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
+[2016/01/21 21:54:23] @ Mode +Cntj 5:10 by sendak.freenode.net
+[2016/01/21 21:54:31] @ Mode +o red_bot by ChanServ
+[2016/01/21 21:55:32] @ head8debian joined channel #supertux
+[2016/01/21 21:55:32] @ Mode +o head8debian by ChanServ
+[2016/01/21 21:58:24] @ stewboy joined channel #supertux
