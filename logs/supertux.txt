@@ -46705,3 +46705,6 @@
 [2016/01/22 16:44:59] @ Quit: jesusalva: Quit: Good bye, God bless you.
 [2016/01/22 16:46:10] @ datahead8888_ joined channel #supertux
 [2016/01/22 16:50:02] @ Quit: datahead8888: Ping timeout: 260 seconds
+[2016/01/22 17:02:57] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/22 17:09:45] @ datahead8888_ is now known as datahead7777
+[2016/01/22 17:12:48] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
