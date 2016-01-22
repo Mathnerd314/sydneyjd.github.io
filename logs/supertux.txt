@@ -46224,3 +46224,5 @@
 [2016/01/22 05:42:46] <mt> I think I'm actually not banned for requesting too many shortened urls
 [2016/01/22 05:42:50] <mt> it's just https://github.com/ProgVal/Supybot-plugins/issues/294
 [2016/01/22 05:43:16] @ Quit: lumidify: Ping timeout: 260 seconds
+[2016/01/22 06:06:16] @ Quit: stewboy: Read error: Connection reset by peer
+[2016/01/22 06:14:42] @ lumidify joined channel #supertux
