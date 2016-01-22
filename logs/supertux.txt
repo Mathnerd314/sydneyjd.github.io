@@ -46208,3 +46208,5 @@
 [2016/01/22 01:29:37] <mt> Why does it even compile unix_file_system on windows?
 [2016/01/22 01:30:18] <pentagon> [10supertux] Status for commit Fix Haywire's exploding state not being removed completely when frozen by 07MiroslavR: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/104025198
 [2016/01/22 01:44:59] @ leyyin joined channel #supertux
+[2016/01/22 01:52:24] @ Quit: tux|dude: Ping timeout: 264 seconds
+[2016/01/22 01:58:06] @ tuxdev_ joined channel #supertux
