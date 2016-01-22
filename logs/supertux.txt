@@ -46277,3 +46277,14 @@
 [2016/01/22 07:12:46] <mt> ... without console or the cheat menu
 [2016/01/22 07:13:05] @ Tobbi joined channel #supertux
 [2016/01/22 07:13:05] @ Mode +o Tobbi by ChanServ
+[2016/01/22 07:15:15] <Tobbi> mt: I am not sure if there's anything we can do regarding that guy.
+[2016/01/22 07:15:23] <Tobbi> I'd say ignoring him is the best way to go about it.
+[2016/01/22 07:15:24] <mt> yes there is
+[2016/01/22 07:15:33] <Tobbi> mt: So?
+[2016/01/22 07:15:54] <mt> if (at least one/all) owner(s) of the supertux/supertux repo block him he won't be able to post an issue etc.
+[2016/01/22 07:16:42] <mt> when you open https://github.com/Savsish there's that little menu with the ! sign, there you can choose to block a user
+[2016/01/22 07:17:20] <Tobbi> hmm, okay I did that.
+[2016/01/22 07:21:31] <snadge> i dont know about the console or the cheat menu
+[2016/01/22 07:22:00] <snadge> i've played every level in existence without it .. pretty much.. finished the entire game, and most of the contrib levels :p
+[2016/01/22 07:22:22] <Tobbi> snadge: I think having those really hard levels adds some variety to the game.
+[2016/01/22 07:24:54] <Tobbi> but that might be only me.
