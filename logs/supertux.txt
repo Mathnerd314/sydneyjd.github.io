@@ -46214,3 +46214,5 @@
 [2016/01/22 02:20:10] @ head8debian joined channel #supertux
 [2016/01/22 02:20:10] @ Mode +o head8debian by ChanServ
 [2016/01/22 03:31:44] @ Quit: tuxdev_: Ping timeout: 276 seconds
+[2016/01/22 04:19:12] @ tux|dude joined channel #supertux
+[2016/01/22 04:26:51] @ Quit: tux|dude: Ping timeout: 260 seconds
