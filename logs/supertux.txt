@@ -46821,3 +46821,28 @@
 [2016/01/23 08:28:36] @ Wuzzy joined channel #supertux
 [2016/01/23 08:37:12] @ leyyin joined channel #supertux
 [2016/01/23 08:40:15] @ tuxdev_ joined channel #supertux
+[2016/01/23 08:49:09] @ Hume2_ joined channel #supertux
+[2016/01/23 08:49:10] @ Mode +o Hume2_ by ChanServ
+[2016/01/23 08:49:36] @ Hume2 has been kicked from #supertux by Hume2_ (dupe)
+[2016/01/23 08:50:05] <Hume2_>  /nick Hume2
+[2016/01/23 08:50:10] <Hume2_> Not working!
+[2016/01/23 08:50:15] <brmbrmcar> Don't kick yourself!
+[2016/01/23 08:50:27] <brmbrmcar> Hume2 hasn't timed out.
+[2016/01/23 08:50:44] <brmbrmcar> And now you made it much harder to find out when it does.
+[2016/01/23 08:50:59] <mt> Hume2_: that's because kick kicks you from the channel, not the network
+[2016/01/23 08:51:12] <Hume2_> Oh, I forgot.
+[2016/01/23 08:51:17] <mt> you'd search for /kill, which is oper-only
+[2016/01/23 08:51:37] <mt> or /ns ghost Hume2, /nick Hume2, or just /ns regain Hume2
+[2016/01/23 08:51:47] @ Hume2_ is now known as Hume2
+[2016/01/23 08:51:57] <Hume2> That works, thanks.
+[2016/01/23 08:54:09] <brmbrmcar> mt: Are you an operator?
+[2016/01/23 08:54:51] @ brmbrmcar left channel #supertux (requested by mt (I'd totally suggest you to look at my cloak, and no, I'm not an IRC Operator))
+[2016/01/23 08:55:42] <Hume2> Yes, he is.
+[2016/01/23 08:56:35] <mt> I think brmbrmcar meant IRC operator
+[2016/01/23 08:56:51] <mt> which I'm not
+[2016/01/23 08:57:56] @ brmbrmcar joined channel #supertux
+[2016/01/23 08:58:01] <brmbrmcar> You are then!
+[2016/01/23 08:58:18] @ brmbrmcar is now known as brmbrmcar_afk
+[2016/01/23 08:59:26] @ Mode +qq *_afk!*@* *_away!*@* by mt
+[2016/01/23 08:59:31] <mt> thanks for the reminder
+[2016/01/23 08:59:58] <mt> away nicks aren't considered a good practice
