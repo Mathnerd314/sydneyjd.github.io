@@ -47485,3 +47485,5 @@
 [2016/01/23 16:58:53] <Tobbi> finally, harddisk resized.
 [2016/01/23 17:00:34] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2016/01/23 17:18:41] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/01/23 17:33:03] @ Quit: giby: Quit: Quitte
+[2016/01/23 17:36:36] <Tobbi> head8debian: Maybe we should get *that car guy* commit rights to our repo.
