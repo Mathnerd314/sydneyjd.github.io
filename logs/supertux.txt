@@ -46762,3 +46762,6 @@
 [2016/01/23 04:29:09] @ Quit: Hume2: Ping timeout: 252 seconds
 [2016/01/23 04:44:29] @ Hume2 joined channel #supertux
 [2016/01/23 04:44:30] @ Mode +o Hume2 by ChanServ
+[2016/01/23 04:46:31] <brmbrmcar> Hello.
+[2016/01/23 04:57:24] @ Quit: VargaD: Ping timeout: 248 seconds
+[2016/01/23 04:58:22] @ VargaD joined channel #supertux
