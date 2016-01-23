@@ -46717,3 +46717,5 @@
 [2016/01/22 18:46:27] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/22 19:20:03] @ Quit: Wuzzy: Quit: Wuzzy
 [2016/01/22 19:29:39] @ bb010g joined channel #supertux
+[2016/01/22 19:31:20] @ Quit: datahead7777: Ping timeout: 245 seconds
+[2016/01/22 19:39:34] <pentagon> [10supertux] 07IndianaTux opened issue 09#342: Invalid Worldmap Boat Animation 13https://github.com/SuperTux/supertux/issues/342
