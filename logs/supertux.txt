@@ -46755,3 +46755,8 @@
 [2016/01/23 04:11:35] @ Hume2 joined channel #supertux
 [2016/01/23 04:11:35] @ Mode +o Hume2 by ChanServ
 [2016/01/23 04:14:05] <pentagon> [10supertux] 07Hume2 commented on issue 09#342: Invalid Worldmap Boat Animation 13https://github.com/SuperTux/supertux/issues/342
+[2016/01/23 04:15:40] @ Quit: lumidify: Ping timeout: 250 seconds
+[2016/01/23 04:17:33] <pentagon> [10supertux] 07Hume2 commented on issue 09#320: Inconsistent/crude death effects 13https://github.com/SuperTux/supertux/issues/320
+[2016/01/23 04:20:28] <Hume2> Hello
+[2016/01/23 04:21:52] @ lumidify joined channel #supertux
+[2016/01/23 04:29:09] @ Quit: Hume2: Ping timeout: 252 seconds
