@@ -46768,3 +46768,5 @@
 [2016/01/23 05:07:06] @ Quit: lumidify: Remote host closed the connection
 [2016/01/23 05:11:10] @ lumidify joined channel #supertux
 [2016/01/23 05:29:08] @ Quit: lumidify: Ping timeout: 272 seconds
+[2016/01/23 05:34:35] @ lumidify joined channel #supertux
+[2016/01/23 05:41:45] @ Quit: Hume2: Ping timeout: 252 seconds
