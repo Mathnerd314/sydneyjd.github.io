@@ -46890,3 +46890,60 @@
 [2016/01/23 10:14:41] <head8debian> So i will try to catch you later.
 [2016/01/23 10:14:55] <mt> shouldn't even need canonical partners repos
 [2016/01/23 10:14:56] <qwebirc42066> Add me on Skype: g.s.vasilev
+[2016/01/23 10:15:08] <mt> no skype here
+[2016/01/23 10:15:15] <qwebirc42066> I can share you screen.
+[2016/01/23 10:15:23] <qwebirc42066> Or wait.
+[2016/01/23 10:15:28] <mt> you can pastebin the output of your terminal
+[2016/01/23 10:15:44] <mt> whatever is more than 3 lines: please don't paste it in here
+[2016/01/23 10:15:57] <qwebirc42066> I will get Lightshot is it availble for Lubuntu Linux?
+[2016/01/23 10:16:35] <mt> google search says it's for 'Mac & Win'
+[2016/01/23 10:16:51] <qwebirc42066> I have Wine...
+[2016/01/23 10:17:21] <mt> You can take a screenshot using the PrintScreen key on your keyboard
+[2016/01/23 10:17:32] <mt> and upload it to imgur or whatever
+[2016/01/23 10:17:53] <mt> however, I do recommend you to just pastebin the error
+[2016/01/23 10:18:00] <qwebirc42066> I will upload it on Bulgarian site, OK?
+[2016/01/23 10:18:25] <mt> e.g. using https://gist.github.com/ or http://dpaste.com/
+[2016/01/23 10:18:38] <qwebirc42066> http://prikachi.com/
+[2016/01/23 10:19:04] <qwebirc42066> Is it OK?
+[2016/01/23 10:19:14] <mt> well, if it doesn't do any bad things to our browsers
+[2016/01/23 10:19:35] <qwebirc42066> It does not.
+[2016/01/23 10:19:52] <qwebirc42066> If you do not trust me I will use Google Drive.
+[2016/01/23 10:20:01] <mt> nah, you can use it
+[2016/01/23 10:20:35] <qwebirc42066> 1) I pressed Ctrl + Alt + T
+[2016/01/23 10:21:26] <mt> qwebirc42066: why can't you just use a pastebin?
+[2016/01/23 10:21:28] <mt> it's not that hard
+[2016/01/23 10:21:49] <mt> and to take a screenshot on lubuntu, you'd most likely use PrintScreen
+[2016/01/23 10:21:53] <qwebirc42066> It is quite complicated to me -_-
+[2016/01/23 10:22:12] <mt> well pastebinning an error is like
+[2016/01/23 10:22:21] <qwebirc42066> I will send you txt document.
+[2016/01/23 10:22:23] <mt> in your terminal select the text with the error
+[2016/01/23 10:22:35] <mt> right click, and Copy
+[2016/01/23 10:22:40] <mt> go to a pastebin site
+[2016/01/23 10:22:54] <qwebirc42066> What commands to follow.
+[2016/01/23 10:22:56] <mt> right-click, Paste, click paste on the paste website
+[2016/01/23 10:23:08] <qwebirc42066> I have even moved from BG server to cental.
+[2016/01/23 10:23:11] <mt> well if there's a git error you'd already have a command
+[2016/01/23 10:23:30] <qwebirc42066> Central*
+[2016/01/23 10:24:08] <qwebirc42066> I use: sudo apt-get install supertux-editor-git
+[2016/01/23 10:24:30] <qwebirc42066> Entered password.
+[2016/01/23 10:24:33] <mt> supertux-editor-git isn't a package in ubuntu
+[2016/01/23 10:24:37] @ lumidify joined channel #supertux
+[2016/01/23 10:24:45] <mt> you need to compile the editor yourself
+[2016/01/23 10:24:53] <qwebirc42066> How?
+[2016/01/23 10:25:47] <mt> we actually have different editors right now
+[2016/01/23 10:26:02] <mt> I'd suggest you to use flexlay, as that's the easiest to install right now
+[2016/01/23 10:26:19] <qwebirc42066> How to install it?
+[2016/01/23 10:26:31] <mt> installing on ubuntu based distros is documented at https://github.com/SuperTux/flexlay/wiki/Installing-the-Flexlay-SuperTux-editor
+[2016/01/23 10:27:05] <qwebirc42066> Well Ubuntu is equal  to Debian, am I right?
+[2016/01/23 10:27:35] <mt> not binary compatible
+[2016/01/23 10:27:48] <qwebirc42066> I have done that command...
+[2016/01/23 10:27:55] <mt> but the commands documented there work equally on all debian-based distros
+[2016/01/23 10:27:59] <mt> which command?
+[2016/01/23 10:28:10] <qwebirc42066> git clone https://github.com/SuperTux/flexlay.git
+[2016/01/23 10:28:21] <mt> you need to `sudo apt-get install python3 python3-pyqt4`
+[2016/01/23 10:28:38] <qwebirc42066> Програмата 'git' все още не е инсталирана. Можете да я инсталирате като напишете: sudo apt-get install git
+[2016/01/23 10:28:48] <mt> install git
+[2016/01/23 10:28:55] <mt> (using apt-get)
+[2016/01/23 10:29:06] <qwebirc42066> Well...
+[2016/01/23 10:29:50] <qwebirc42066> Sorry, a bit long:
+[2016/01/23 10:29:53] <qwebirc42066> E: Неуспех при изтеглянето на http://archive.ubuntu.com/ubuntu/pool/main/g/git/git-man_2.1.0-1_all.deb  404  Not Found [IP: 91.189.91.24 80]  E: Неуспех при изтеглянето на http://archive.ubuntu.com/ubuntu/pool/main/g/git/git_2.1.0-1_i386.deb  404  Not Found [IP: 91.189.91.24 80]  E: Неуспех при изтеглянето на някои архиви, може да изпъл
