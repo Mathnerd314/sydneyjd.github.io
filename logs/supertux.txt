@@ -46856,3 +46856,37 @@
 [2016/01/23 09:34:53] @ Mode +o Hume2 by ChanServ
 [2016/01/23 09:36:19] @ lumidify joined channel #supertux
 [2016/01/23 09:56:58] @ jesusalva joined channel #supertux
+[2016/01/23 10:05:00] @ Quit: lumidify: Ping timeout: 250 seconds
+[2016/01/23 10:06:45] @ brmbrmcar_afk left channel #supertux ()
+[2016/01/23 10:08:25] @ brmbrmcar joined channel #supertux
+[2016/01/23 10:09:07] @ qwebirc42066 joined channel #supertux
+[2016/01/23 10:09:14] <brmbrmcar> I'm afk again. What way am I supposed toshow I'm away?
+[2016/01/23 10:09:27] <qwebirc42066> Hello bros.
+[2016/01/23 10:09:50] <qwebirc42066> I need some help.
+[2016/01/23 10:09:58] <head8debian> brmbrmcar: Use /afk
+[2016/01/23 10:10:16] <head8debian> qwebirc42066: Hey. Please ask you question and we will do our best to respond. :)
+[2016/01/23 10:10:25] <qwebirc42066> I am using Lubuntu 14.04.
+[2016/01/23 10:10:44] <qwebirc42066> I want to install SuperTux Level Editor for 0.4.
+[2016/01/23 10:11:11] <qwebirc42066> I will make a story mode-like world.
+[2016/01/23 10:11:11] <head8debian> qwebirc42066: Ok, how far have you gotten so far?
+[2016/01/23 10:11:14] <mt> brmbrmcar: there's the /away command, it's not /afk
+[2016/01/23 10:11:17] <qwebirc42066> Well.
+[2016/01/23 10:11:27] <head8debian> mt: Oops. *facepalm*...
+[2016/01/23 10:11:32] <qwebirc42066> I am new in Linux but I know few commands.
+[2016/01/23 10:11:55] <qwebirc42066> I am 13 so... I know sudo, git, su etc.
+[2016/01/23 10:11:55] <head8debian> qwebirc42066: Ok, cool. So have you downloaded the level editor yet?
+[2016/01/23 10:12:03] <head8debian> :)
+[2016/01/23 10:12:22] <qwebirc42066> I started Lunux today for first time.
+[2016/01/23 10:12:32] <qwebirc42066> Pretty nice OS.
+[2016/01/23 10:12:51] <qwebirc42066> Windows sucks :D
+[2016/01/23 10:13:22] <head8debian> qwebirc42066: Well, there is alot to learn about it. ;) Read,read and read some more. ;)
+[2016/01/23 10:13:28] <qwebirc42066> So If you are able to help add me on Skype.
+[2016/01/23 10:13:35] <qwebirc42066> g.s.vasilev
+[2016/01/23 10:13:51] <qwebirc42066> I am actually Bulgarian.
+[2016/01/23 10:13:58] <head8debian> qwebirc42066: I would like to help more, and talk to you more, but my dad needs me to go outside now. :(
+[2016/01/23 10:14:20] <qwebirc42066> Git is giving me error.
+[2016/01/23 10:14:31] <mt> qwebirc42066: what error?
+[2016/01/23 10:14:36] <qwebirc42066> I have enabled Cannonical Partners.
+[2016/01/23 10:14:41] <head8debian> So i will try to catch you later.
+[2016/01/23 10:14:55] <mt> shouldn't even need canonical partners repos
+[2016/01/23 10:14:56] <qwebirc42066> Add me on Skype: g.s.vasilev
