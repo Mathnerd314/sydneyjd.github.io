@@ -47347,3 +47347,62 @@
 [2016/01/23 15:14:44] <Karkus> Tobbi: I don't have visual studio anymore, sorry.
 [2016/01/23 15:14:49] <Tobbi> No problem.
 [2016/01/23 15:14:56] <Tobbi> I'll try to get to the bottom of this.
+[2016/01/23 15:16:16] <Tobbi> So, my 1 TB HDD only has around 500 GB left...
+[2016/01/23 15:16:21] <Tobbi> Time to buy a new one :P
+[2016/01/23 15:16:44] <brmbrmcar> Only 500gb?
+[2016/01/23 15:16:55] <Tobbi> brmbrmcar: Yes.
+[2016/01/23 15:17:06] <brmbrmcar> GIVE ME 500 GB!
+[2016/01/23 15:17:31] <Karkus> Tobbi: What are you using 500GB for?
+[2016/01/23 15:17:43] <Tobbi> brmbrmcar: No, you'll wget google images about cars and save them...
+[2016/01/23 15:17:54] <Tobbi> Karkus: My system partition and all the data. And my VM...
+[2016/01/23 15:18:00] <Tobbi> Sorry, VMs.
+[2016/01/23 15:18:12] <Tobbi> Karkus: I also have an extra VM prepared for those Microsoft scammers...
+[2016/01/23 15:18:13] <Tobbi> :D
+[2016/01/23 15:18:27] <Karkus> Tobbi: Haha
+[2016/01/23 15:18:38] <brmbrmcar> I  only have 4.0 GB.
+[2016/01/23 15:18:59] <Tobbi> Karkus: Unfortunately, I don't think they call me anymore...I couldn't convince them to not know anything about computers...
+[2016/01/23 15:19:01] <brmbrmcar> Left.
+[2016/01/23 15:19:33] <Karkus> Tobbi: Surely you could...
+[2016/01/23 15:19:36] <Karkus> :P
+[2016/01/23 15:19:46] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://github.com/SuperTux/supertux/compare/e9f8b52efd6a...7c5d44239f0d
+[2016/01/23 15:19:50] <pentagon> [10supertux] 07brmbrmcar 147c5d442 Update worldmap.stwm
+[2016/01/23 15:19:54] <Tobbi> Karkus: Last time they transferred me to their manager because I couldn't understand what that lady told me...(I seriously couldn't, otherwise I would've followed through in that prepared VM)...So they transferred me to their manager. And she eventually called me stupid and hung up.
+[2016/01/23 15:20:00] <Tobbi> Maybe they've taken me off their list.
+[2016/01/23 15:20:06] <pentagon> [10supertux] 07Hume2 commented on issue 09#344: Update worldmap contact 13https://github.com/SuperTux/supertux/pull/344
+[2016/01/23 15:20:17] <pentagon> [10supertux] 07Hume2 closed pull request 09#344: Update worldmap contact 13https://github.com/SuperTux/supertux/pull/344
+[2016/01/23 15:20:26] <Karkus> Tobbi: What were they trying to get you to do?
+[2016/01/23 15:20:42] <Karkus> Tobbi: Actually I guess you don't know :P
+[2016/01/23 15:20:59] <Tobbi> Karkus: So, the scheme works like this: They let you open Windows Event Manager, then tell you all those errors and warnings are actually harmful to your PC.
+[2016/01/23 15:21:15] <Tobbi> Then they'll let you install some software (TeamViewer, the like) and connect to your PC...
+[2016/01/23 15:21:18] <Tobbi> and then I guess install malware.
+[2016/01/23 15:21:28] <Karkus> Tobbi: Wow
+[2016/01/23 15:21:33] <Tobbi> Or something...and then charge for removing the malware.
+[2016/01/23 15:22:01] <brmbrmcar> Should I just pastebin my found target times?
+[2016/01/23 15:22:09] <Karkus> Tobbi: Although I might set up a company where I scam people into installing Linux
+[2016/01/23 15:22:21] <Tobbi> Karkus: https://www.youtube.com/channel/UCnNlJNSRxa3PF8XrKHOEPug/videos There are some Microsoft videos in the queue...
+[2016/01/23 15:22:21] <brmbrmcar> Or will you eventually accept the zip?
+[2016/01/23 15:23:01] <polyphagia> lol yeah let's start a social engineering movement to trick people into ditching windows :P
+[2016/01/23 15:23:23] <polyphagia> or wait isn't that the FSF?
+[2016/01/23 15:23:25] <polyphagia> ;)
+[2016/01/23 15:23:27] <Tobbi> polyphagia: More like trick them into donating for SuperTux :P
+[2016/01/23 15:23:41] <polyphagia> that could work too
+[2016/01/23 15:24:06] <Tobbi> :P
+[2016/01/23 15:24:12] <Hume2> brmbrmcar: How many SuperTuxes do you have on your computer?
+[2016/01/23 15:25:42] <brmbrmcar> 1.
+[2016/01/23 15:25:49] <Tobbi> Karkus: Also, when you're with a scammer, don't sound overly joyful or they'll smell a rat.
+[2016/01/23 15:25:50] <brmbrmcar> And one only.
+[2016/01/23 15:25:54] <Tobbi> I tried many things with them...
+[2016/01/23 15:26:04] <Tobbi> Best thing is if you sound scared.
+[2016/01/23 15:26:04] <Tobbi> :D
+[2016/01/23 15:26:29] <Karkus> Tobbi: Did they have an Indian accent
+[2016/01/23 15:26:30] <Karkus> ?
+[2016/01/23 15:26:42] <Tobbi> Karkus: Yes, most of the time...
+[2016/01/23 15:27:03] <Tobbi> Karkus: First time they called me, I actually genuinely thought this was Microsoft (wasn't sure whether I'd given them my phone number for my Microsoft Live account)... And I believed them until they said something about my computer sending error messages...
+[2016/01/23 15:27:04] <Tobbi> :D
+[2016/01/23 15:27:46] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/01/23 15:28:19] <polyphagia> you were comfortable with the idea that microsoft had your phone number?
+[2016/01/23 15:28:43] <polyphagia> oh sorry misread
+[2016/01/23 15:28:43] <Tobbi> polyphagia: I wasn't sure whether I might've given it to them when I was younger.
+[2016/01/23 15:29:01] <Tobbi> np
+[2016/01/23 15:29:31] <Hume2> I've never taken seriously those "Enter your phone number".
+[2016/01/23 15:29:33] <Tobbi> polyphagia: I would've probably tried to fire up that-sniffer-whose-name-I-don't-remember and got their IP address.
