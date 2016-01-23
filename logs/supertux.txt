@@ -46947,3 +46947,56 @@
 [2016/01/23 10:29:06] <qwebirc42066> Well...
 [2016/01/23 10:29:50] <qwebirc42066> Sorry, a bit long:
 [2016/01/23 10:29:53] <qwebirc42066> E: Неуспех при изтеглянето на http://archive.ubuntu.com/ubuntu/pool/main/g/git/git-man_2.1.0-1_all.deb  404  Not Found [IP: 91.189.91.24 80]  E: Неуспех при изтеглянето на http://archive.ubuntu.com/ubuntu/pool/main/g/git/git_2.1.0-1_i386.deb  404  Not Found [IP: 91.189.91.24 80]  E: Неуспех при изтеглянето на някои архиви, може да изпъл
+[2016/01/23 10:30:31] <mt> we don't understand Bulgaria :D
+[2016/01/23 10:30:36] <mt> *Bulgarian
+[2016/01/23 10:30:43] <qwebirc42066> I will translate.
+[2016/01/23 10:30:47] <mt> I guess you should `sudo apt-get update`
+[2016/01/23 10:31:06] <mt> because in your index there's still old links to old versions of the packages
+[2016/01/23 10:31:26] <qwebirc42066> Неуспех при изтеглянето на - Successles download
+[2016/01/23 10:31:47] <mt> yeah figured that from the 404 not found
+[2016/01/23 10:31:49] <mt> as I said
+[2016/01/23 10:31:53] <mt> `sudo apt-get update`
+[2016/01/23 10:32:05] <qwebirc42066> Done that 10 times...
+[2016/01/23 10:32:09] <mt> `sudo apt-get install git python3 python3-pyqt4`
+[2016/01/23 10:32:18] <mt> `git clone https://github.com/SuperTux/flexlay.git`
+[2016/01/23 10:32:23] <mt> `cd flexlay`
+[2016/01/23 10:32:28] <mt> `git fetch origin`
+[2016/01/23 10:32:31] <qwebirc42066> Always tells me no internet connection.
+[2016/01/23 10:32:33] <mt> `git checkout develop`
+[2016/01/23 10:32:54] <mt> well, do you have an internet connection on that computer? >_>
+[2016/01/23 10:33:11] <qwebirc42066> How do you think I am chatting then?
+[2016/01/23 10:33:18] <mt> using another computer
+[2016/01/23 10:33:22] <qwebirc42066> No.
+[2016/01/23 10:33:32] <qwebirc42066> I am using a 6y old Toshiba.
+[2016/01/23 10:33:37] <qwebirc42066> Laptop.
+[2016/01/23 10:33:43] <mt> can you, hm
+[2016/01/23 10:34:20] <qwebirc42066> Tried restarting router, does not work.
+[2016/01/23 10:34:22] <mt> `export LANG=en_US.UTF-8`
+[2016/01/23 10:34:29] <mt> and then run the commands again
+[2016/01/23 10:34:35] <mt> it should be English now
+[2016/01/23 10:34:41] <qwebirc42066> Ok.
+[2016/01/23 10:34:49] <qwebirc42066> So you can understand?
+[2016/01/23 10:34:53] <mt> yeah
+[2016/01/23 10:35:27] <qwebirc42066> Still in Bulgarian.
+[2016/01/23 10:35:38] <qwebirc42066> Shall I use UK English?
+[2016/01/23 10:35:47] <mt> or
+[2016/01/23 10:35:52] <mt> `export LC_ALL=C`
+[2016/01/23 10:36:02] <mt> LC_ALL=C works *always*
+[2016/01/23 10:36:32] <qwebirc42066> gogo@gogo:~$ a a: \u043a\u043e\u043c\u0430\u043d\u0434\u0430\u0442\u0430 \u043d\u0435 \u0435 \u043e\u0442\u043a\u0440\u0438\u0442\u0430 gogo@gogo:~$ s s: \u043a\u043e\u043c\u0430\u043d\u0434\u0430\u0442\u0430 \u043d\u0435 \u0435 \u043e\u0442\u043a\u0440\u0438\u0442\u0430
+[2016/01/23 10:36:47] <qwebirc42066> :D
+[2016/01/23 10:36:51] <mt> what the heck
+[2016/01/23 10:36:53] <qwebirc42066> Wtf is this?
+[2016/01/23 10:37:02] <mt> Unicode characters
+[2016/01/23 10:37:33] <mt> I'd suggest asking #ubuntu about the internet connection problem
+[2016/01/23 10:37:38] <mt> can't help you with that now
+[2016/01/23 10:37:40] @ Mathnerd314 joined channel #supertux
+[2016/01/23 10:37:53] <qwebirc42066> How to fix the unicode?
+[2016/01/23 10:38:10] <mt> I'm not sure about your configuration
+[2016/01/23 10:38:23] <mt> and I'm not in the mood of explaining all things Linux right now
+[2016/01/23 10:38:42] <qwebirc42066> What do you want me to use as an info?
+[2016/01/23 10:39:09] <mt> I told you you can ask the #ubuntu channel
+[2016/01/23 10:39:16] <mt> it's also on this IRC network
+[2016/01/23 10:39:19] <qwebirc42066> Wait
+[2016/01/23 10:39:29] <mt> you can use the /join command to join a channel
+[2016/01/23 10:40:15] <qwebirc42066> Or just click on #ubuntu
+[2016/01/23 10:43:14] <mt> I'd even ask for help about the internet problem, anyway to get rid of the unicode you might just want to close the current terminal window and open a new one
