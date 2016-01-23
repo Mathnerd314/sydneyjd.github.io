@@ -47205,3 +47205,7 @@
 [2016/01/23 12:54:32] <red_bot> brmbrmcar meant: "I've seen many god-like dogs in my time."
 [2016/01/23 12:57:48] @ claymore2 joined channel #supertux
 [2016/01/23 12:58:58] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/23 13:17:10] @ lumidify joined channel #supertux
+[2016/01/23 13:24:01] @ Quit: Hume2: Quit: Page closed
+[2016/01/23 13:28:10] @ Karkus joined channel #supertux
+[2016/01/23 13:28:11] @ Mode +o Karkus by ChanServ
