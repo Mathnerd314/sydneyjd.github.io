@@ -46782,3 +46782,12 @@
 [2016/01/23 06:44:34] <mt> no
 [2016/01/23 06:44:41] <brmbrmcar> Why?
 [2016/01/23 06:44:50] <mt> wait
+[2016/01/23 06:45:17] <mt> are target times the recommended times that mark the level yellow in the worldmap if you've finished them in a shorter time
+[2016/01/23 06:45:24] <mt> or are they the time limit as in M1
+[2016/01/23 06:46:45] <brmbrmcar> THe first one. Although I never noticed them go yellow.
+[2016/01/23 06:46:57] <brmbrmcar> @sBut that is what I mean.
+[2016/01/23 06:47:26] <mt> well they're somewhat green and glow yellow in a specific time interval
+[2016/01/23 06:47:32] <mt> and yeah, you can add them
+[2016/01/23 06:48:08] <mt> I'd suggest looking at the time limits from M1, maybe they could be used to specify a target time
+[2016/01/23 06:48:13] <brmbrmcar> OK.
+[2016/01/23 06:48:28] <brmbrmcar> They are all 300 generally.
