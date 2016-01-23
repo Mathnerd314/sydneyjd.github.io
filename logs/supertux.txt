@@ -47487,3 +47487,5 @@
 [2016/01/23 17:18:41] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2016/01/23 17:33:03] @ Quit: giby: Quit: Quitte
 [2016/01/23 17:36:36] <Tobbi> head8debian: Maybe we should get *that car guy* commit rights to our repo.
+[2016/01/23 18:04:05] @ Quit: Jesusaves: Quit: Changing network.
+[2016/01/23 18:05:22] @ jesusalva joined channel #supertux
