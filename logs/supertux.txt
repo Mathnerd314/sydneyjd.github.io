@@ -46719,3 +46719,8 @@
 [2016/01/22 19:29:39] @ bb010g joined channel #supertux
 [2016/01/22 19:31:20] @ Quit: datahead7777: Ping timeout: 245 seconds
 [2016/01/22 19:39:34] <pentagon> [10supertux] 07IndianaTux opened issue 09#342: Invalid Worldmap Boat Animation 13https://github.com/SuperTux/supertux/issues/342
+[2016/01/22 20:33:55] @ Joined channel #supertux
+[2016/01/22 20:33:55] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/01/22 20:33:55] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
+[2016/01/22 20:33:58] @ Mode +Cntj 5:10 by adams.freenode.net
+[2016/01/22 20:34:08] @ Mode +o red_bot by ChanServ
