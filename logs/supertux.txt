@@ -47489,3 +47489,5 @@
 [2016/01/23 17:36:36] <Tobbi> head8debian: Maybe we should get *that car guy* commit rights to our repo.
 [2016/01/23 18:04:05] @ Quit: Jesusaves: Quit: Changing network.
 [2016/01/23 18:05:22] @ jesusalva joined channel #supertux
+[2016/01/23 18:42:28] @ Karkus joined channel #supertux
+[2016/01/23 18:42:28] @ Mode +o Karkus by ChanServ
