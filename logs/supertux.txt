@@ -47210,3 +47210,4 @@
 [2016/01/23 13:28:10] @ Karkus joined channel #supertux
 [2016/01/23 13:28:11] @ Mode +o Karkus by ChanServ
 [2016/01/23 13:36:52] @ swift110 joined channel #supertux
+[2016/01/23 13:55:06] @ Quit: DoctorVassilev: Ping timeout: 252 seconds
