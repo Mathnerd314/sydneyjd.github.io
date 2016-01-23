@@ -46851,3 +46851,7 @@
 [2016/01/23 09:18:01] <mt> I have a script that checks my tmux attached/detached status
 [2016/01/23 09:18:15] <mt> if I detach from tmux, it will set away
 [2016/01/23 09:26:23] @ Quit: lumidify: Ping timeout: 276 seconds
+[2016/01/23 09:31:52] @ claymore2 joined channel #supertux
+[2016/01/23 09:34:52] @ Hume2 joined channel #supertux
+[2016/01/23 09:34:53] @ Mode +o Hume2 by ChanServ
+[2016/01/23 09:36:19] @ lumidify joined channel #supertux
