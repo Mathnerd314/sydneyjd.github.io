@@ -47478,3 +47478,5 @@
 [2016/01/23 16:00:41] <Hume2> bye!
 [2016/01/23 16:00:44] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
 [2016/01/23 16:13:06] @ stewboy joined channel #supertux
+[2016/01/23 16:19:12] @ Quit: claymore2: Quit: Leaving
+[2016/01/23 16:28:16] @ swift110 joined channel #supertux
