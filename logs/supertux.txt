@@ -46743,3 +46743,8 @@
 [2016/01/23 01:23:47] @ lumidify joined channel #supertux
 [2016/01/23 01:54:08] @ tuxdude143 joined channel #supertux
 [2016/01/23 01:56:35] @ Quit: tux|dude: Ping timeout: 260 seconds
+[2016/01/23 02:55:58] @ Joined channel #supertux
+[2016/01/23 02:55:58] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/01/23 02:55:58] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
+[2016/01/23 02:56:03] @ Mode +Cntj 5:10 by rajaniemi.freenode.net
+[2016/01/23 02:56:11] @ Mode +o red_bot by ChanServ
