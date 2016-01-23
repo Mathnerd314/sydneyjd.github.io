@@ -47063,3 +47063,40 @@
 [2016/01/23 11:42:53] <qwebirc42066> I tried the old level editor.
 [2016/01/23 11:44:48] <qwebirc42066> It always crashed.
 [2016/01/23 11:44:56] <qwebirc42066> But I am familar to it.
+[2016/01/23 11:45:01] <qwebirc42066> Nothing hard.
+[2016/01/23 11:45:12] <qwebirc42066> How to install it in Windows?
+[2016/01/23 11:45:23] <qwebirc42066> I use Windows X at home.
+[2016/01/23 11:46:06] <qwebirc42066> BTW I want to work with you TuxTeam.
+[2016/01/23 11:46:29] <qwebirc42066> We are able to chat through IRC, Skype, ICQ.
+[2016/01/23 11:46:42] <qwebirc42066> And maybe by phone.
+[2016/01/23 11:46:46] @ Quit: ced117: Ping timeout: 240 seconds
+[2016/01/23 11:47:25] <qwebirc42066> https://www.transifex.com/arctic-games/supertux/language/bg/ -> I do not have permissions.
+[2016/01/23 11:47:40] <qwebirc42066> I can PM my IP.
+[2016/01/23 11:48:53] <brmbrmcar> Anyone want the level times?
+[2016/01/23 11:49:19] <mt> qwebirc42066: you need to sign up for transifex
+[2016/01/23 11:49:28] <qwebirc42066> Ah, ok.
+[2016/01/23 11:51:22] <brmbrmcar> I'm not saure where to upload thenew files.
+[2016/01/23 11:52:11] <qwebirc42066> I will work for free but if you get donations, please give $5 for every $100 you get.
+[2016/01/23 11:52:42] <qwebirc42066> I want to get RP in LoL.
+[2016/01/23 11:52:49] <qwebirc42066> I have Skrill and Paypal.
+[2016/01/23 11:52:56] <brmbrmcar> If you contribute over 5%.
+[2016/01/23 11:54:59] <qwebirc42066> I can try even in Russian.
+[2016/01/23 11:55:06] <qwebirc42066> My dad knows.
+[2016/01/23 11:55:14] <qwebirc42066> My friend is an Italian.
+[2016/01/23 11:55:27] <qwebirc42066> He will be learning Japanese.
+[2016/01/23 11:56:21] <qwebirc42066> How do I install that Level Creator by Windows 10?
+[2016/01/23 11:56:31] <brmbrmcar> Haven't a clue.
+[2016/01/23 11:57:02] <brmbrmcar> Try Flexlay (it isn't as good, but it works).
+[2016/01/23 11:57:14] <brmbrmcar> It is in development.
+[2016/01/23 11:57:20] <Hume2> Windows 10? Poor boy...
+[2016/01/23 11:57:42] <polyphagia> the latest intel CPUs won't support windows 7 on purpose
+[2016/01/23 11:57:58] <polyphagia> drop windows while you can
+[2016/01/23 11:58:10] <qwebirc42066> I am on Intel Pentium 4 :D
+[2016/01/23 11:58:18] <Hume2> Yeah, those silly Windows things.
+[2016/01/23 11:58:53] <qwebirc42066> I wanna ask you: Wanna make TuxOS?
+[2016/01/23 11:59:16] <Hume2> I have already metioned it as joke :D
+[2016/01/23 11:59:35] <qwebirc42066> Totally different from other OSs.
+[2016/01/23 11:59:35] <Hume2> For now, it's just a joke.
+[2016/01/23 11:59:47] <brmbrmcar> SuperTux OS.
+[2016/01/23 11:59:55] <Hume2> Exactly.
+[2016/01/23 11:59:56] <qwebirc42066> Well...
