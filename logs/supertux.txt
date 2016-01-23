@@ -46819,3 +46819,5 @@
 [2016/01/23 08:27:58] @ Hume2 joined channel #supertux
 [2016/01/23 08:27:59] @ Mode +o Hume2 by ChanServ
 [2016/01/23 08:28:36] @ Wuzzy joined channel #supertux
+[2016/01/23 08:37:12] @ leyyin joined channel #supertux
+[2016/01/23 08:40:15] @ tuxdev_ joined channel #supertux
