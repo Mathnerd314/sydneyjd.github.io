@@ -47143,3 +47143,44 @@
 [2016/01/23 12:12:36] <mt> yeah
 [2016/01/23 12:12:39] <mt> no nickspam
 [2016/01/23 12:14:18] <DoctorVassilev> Sorry.
+[2016/01/23 12:33:36] @ Tobbi joined channel #supertux
+[2016/01/23 12:33:37] @ Mode +o Tobbi by ChanServ
+[2016/01/23 12:35:50] <Tobbi> The only one who's allowed to nickspam in this channel is me.
+[2016/01/23 12:36:01] <Tobbi> Cause. I. am. the. excrement.
+[2016/01/23 12:38:22] <DoctorVassilev> Sorry a lot.
+[2016/01/23 12:38:37] <DoctorVassilev> I asked to join the Bulgarian lang translation.
+[2016/01/23 12:38:47] <DoctorVassilev> I will even make levels.
+[2016/01/23 12:39:22] <Tobbi> DoctorVassilev: Were you accepted?
+[2016/01/23 12:39:47] <Tobbi> DoctorVassilev: Also, I was kidding about me having the authority to nickspam. I sometimes play overly god-ish in this channel.
+[2016/01/23 12:39:55] <leyyin> well you are god
+[2016/01/23 12:40:15] <DoctorVassilev> You are god!
+[2016/01/23 12:40:24] <DoctorVassilev> You made that game.
+[2016/01/23 12:40:32] <DoctorVassilev> You've got so far.
+[2016/01/23 12:40:35] <Tobbi> DoctorVassilev: huh?
+[2016/01/23 12:40:49] <Tobbi> leyyin: grr...
+[2016/01/23 12:41:10] <Tobbi> DoctorVassilev: How do you know I made that game?
+[2016/01/23 12:41:14] <pentagon> [10supertux] 07LMH0013 commented on issue 09#335: Magic block glitch 13https://github.com/SuperTux/supertux/issues/335
+[2016/01/23 12:41:14] <leyyin> hehe, Tobbi you will have a cult following you :D
+[2016/01/23 12:41:17] <pentagon> [10supertux] 07LMH0013 reopened issue 09#335: Magic block glitch 13https://github.com/SuperTux/supertux/issues/335
+[2016/01/23 12:41:22] <Tobbi> (I technically didn't)
+[2016/01/23 12:41:47] <Tobbi> leyyin: Just like in Life of Brian?
+[2016/01/23 12:41:58] <leyyin> :D
+[2016/01/23 12:42:10] <Hume2> In fact, yes :)
+[2016/01/23 12:42:16] <DoctorVassilev> Hume2 told me.
+[2016/01/23 12:42:33] <Tobbi> Damn you, hume.
+[2016/01/23 12:42:39] <DoctorVassilev> I want to ask you.
+[2016/01/23 12:42:49] <Hume2> Tobbi, prepare /kićk.
+[2016/01/23 12:42:54] <DoctorVassilev> NO
+[2016/01/23 12:42:57] <DoctorVassilev> Do not.
+[2016/01/23 12:43:01] <Hume2> :D
+[2016/01/23 12:43:08] <Tobbi> Hume2: with that c, it won't even work.
+[2016/01/23 12:43:14] <DoctorVassilev> He is bro.
+[2016/01/23 12:43:25] <Tobbi> I am rather busy guys.
+[2016/01/23 12:43:29] <Tobbi> Either tell me what you want...
+[2016/01/23 12:43:40] <DoctorVassilev> I will sen our chat.
+[2016/01/23 12:43:46] <DoctorVassilev> send*
+[2016/01/23 12:43:56] <brmbrmcar> I want to show you peoples my work!
+[2016/01/23 12:44:16] <Tobbi> brmbrmcar: SuperTux is not a people.
+[2016/01/23 12:44:38] <Tobbi> never mind.
+[2016/01/23 12:44:47] <Tobbi> DoctorVassilev: Can you hold off, I have to run errands.
+[2016/01/23 12:44:53] <Tobbi> Will be back in 2 hours, okay?
