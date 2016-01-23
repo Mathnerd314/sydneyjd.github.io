@@ -46765,3 +46765,5 @@
 [2016/01/23 04:46:31] <brmbrmcar> Hello.
 [2016/01/23 04:57:24] @ Quit: VargaD: Ping timeout: 248 seconds
 [2016/01/23 04:58:22] @ VargaD joined channel #supertux
+[2016/01/23 05:07:06] @ Quit: lumidify: Remote host closed the connection
+[2016/01/23 05:11:10] @ lumidify joined channel #supertux
