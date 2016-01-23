@@ -46792,3 +46792,14 @@
 [2016/01/23 06:48:13] <brmbrmcar> OK.
 [2016/01/23 06:48:28] <brmbrmcar> They are all 300 generally.
 [2016/01/23 07:15:52] @ Quit: Tobbi: 
+[2016/01/23 08:01:50] <brmbrmcar> Where should I upload the zip with all the snow level times in?
+[2016/01/23 08:03:04] <Hume2> brmbrmcar: Ever heard about git?
+[2016/01/23 08:06:23] <brmbrmcar> *sigh*
+[2016/01/23 08:06:31] <brmbrmcar> I HATE GIT!!!
+[2016/01/23 08:07:30] @ Quit: Hume2: Ping timeout: 252 seconds
+[2016/01/23 08:11:37] @ Hume2 joined channel #supertux
+[2016/01/23 08:11:38] @ Mode +o Hume2 by ChanServ
+[2016/01/23 08:12:33] <brmbrmcar> Iassume you did not seemy response.
+[2016/01/23 08:13:22] <Hume2> No, I didn't-
+[2016/01/23 08:13:34] <Hume2> My connection fell down.
+[2016/01/23 08:13:53] <brmbrmcar> I went *sigh* and thenI HATE GIT!!!
