@@ -46738,3 +46738,4 @@
 [2016/01/22 23:41:26] @ Quit: irungentoo: Remote host closed the connection
 [2016/01/22 23:43:33] @ datahead8888 joined channel #supertux
 [2016/01/23 00:11:13] @ stewboy joined channel #supertux
+[2016/01/23 00:49:40] @ tuxdev_ joined channel #supertux
