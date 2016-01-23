@@ -47000,3 +47000,8 @@
 [2016/01/23 10:39:29] <mt> you can use the /join command to join a channel
 [2016/01/23 10:40:15] <qwebirc42066> Or just click on #ubuntu
 [2016/01/23 10:43:14] <mt> I'd even ask for help about the internet problem, anyway to get rid of the unicode you might just want to close the current terminal window and open a new one
+[2016/01/23 11:12:43] <qwebirc42066> I fixed unicode.
+[2016/01/23 11:12:52] <qwebirc42066> I am going in English.
+[2016/01/23 11:13:08] <qwebirc42066> Since Ubuntu team is Braindead.
+[2016/01/23 11:13:22] <qwebirc42066> Fine.
+[2016/01/23 11:13:40] <qwebirc42066> They stopped support of Lubuntu 14.4
