@@ -47474,3 +47474,7 @@
 [2016/01/23 15:55:34] @ Mode +o Karkus by ChanServ
 [2016/01/23 15:56:01] <Hume2> I don't know how many yers I do that.
 [2016/01/23 15:56:26] <Hume2> Just recently it started to mind me.
+[2016/01/23 16:00:32] @ irungentoo joined channel #supertux
+[2016/01/23 16:00:41] <Hume2> bye!
+[2016/01/23 16:00:44] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/01/23 16:13:06] @ stewboy joined channel #supertux
