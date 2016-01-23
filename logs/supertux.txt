@@ -46803,3 +46803,19 @@
 [2016/01/23 08:13:22] <Hume2> No, I didn't-
 [2016/01/23 08:13:34] <Hume2> My connection fell down.
 [2016/01/23 08:13:53] <brmbrmcar> I went *sigh* and thenI HATE GIT!!!
+[2016/01/23 08:15:25] @ brmbrmcar has been kicked from #supertux by Hume2 (git)
+[2016/01/23 08:16:07] @ brmbrmcar joined channel #supertux
+[2016/01/23 08:16:23] <brmbrmcar> grrr
+[2016/01/23 08:16:33] <brmbrmcar> ARGH!
+[2016/01/23 08:17:41] <brmbrmcar> You don't know what it islike to have all your 0 bytesof disk space eaten away.
+[2016/01/23 08:18:22] <Hume2> If you had bought a better comuter instead of a car...
+[2016/01/23 08:18:43] <mt> `git gc --aggressive`
+[2016/01/23 08:18:50] <mt> can reduce the size of a repo
+[2016/01/23 08:19:03] <brmbrmcar> Still.
+[2016/01/23 08:19:04] <mt> also, I'd suggest you to look into CVS if you don't like git
+[2016/01/23 08:19:10] <mt> CVS is really cool
+[2016/01/23 08:19:46] <brmbrmcar> I never bought a ***.
+[2016/01/23 08:27:52] @ Hume2 has been kicked from #supertux by Hume2 (no reason)
+[2016/01/23 08:27:58] @ Hume2 joined channel #supertux
+[2016/01/23 08:27:59] @ Mode +o Hume2 by ChanServ
+[2016/01/23 08:28:36] @ Wuzzy joined channel #supertux
