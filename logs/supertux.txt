@@ -47255,3 +47255,59 @@
 [2016/01/23 14:42:20] <Hume2> I don't know, maybe not.
 [2016/01/23 14:42:35] <pentagon> [10supertux] Status for commit Fix reset point being reactivated after restarting level (Fixes #338) by 07MiroslavR: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/104329437
 [2016/01/23 14:42:55] <Tobbi> Who knows.
+[2016/01/23 14:45:34] <pentagon> [10supertux] Status for commit Fix reset point being reactivated after restarting level (Fixes #338) by 07MiroslavR: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/312
+[2016/01/23 14:45:52] @ Quit: swift110: Remote host closed the connection
+[2016/01/23 14:46:02] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://github.com/SuperTux/supertux/compare/8dc3679ec1ca...e9f8b52efd6a
+[2016/01/23 14:46:07] <pentagon> [10supertux] 07MiroslavR 14e9f8b52 Fix reset point being reactivated after restarting level (Fixes #338)
+[2016/01/23 14:46:11] <pentagon> [10supertux] 07Hume2 closed issue 09#338: Active checkpoint is not reset after restarting level 13https://github.com/SuperTux/supertux/issues/338
+[2016/01/23 14:47:09] <Hume2> Tobbi: Merged, do you want to close the request or shall I?
+[2016/01/23 14:47:17] <Tobbi> Hume2: Go ahead.
+[2016/01/23 14:47:59] <pentagon> [10supertux] 07Hume2 commented on issue 09#343: Fix reset point being reactivated after restarting level 13https://github.com/SuperTux/supertux/pull/343
+[2016/01/23 14:48:11] <brmbrmcar> Why is there a new method of merging?
+[2016/01/23 14:48:12] <pentagon> [10supertux] 07Hume2 closed pull request 09#343: Fix reset point being reactivated after restarting level 13https://github.com/SuperTux/supertux/pull/343
+[2016/01/23 14:48:36] <Hume2> It's called cherry-pick.
+[2016/01/23 14:49:03] <Hume2> It's for getting rid of those annoying merge commits.
+[2016/01/23 14:49:11] <brmbrmcar> OK.
+[2016/01/23 14:49:30] <brmbrmcar> Why does it say commited with whoever then?
+[2016/01/23 14:49:52] <Hume2> It's safe to delete that commit in that fork though.
+[2016/01/23 14:49:52] <brmbrmcar> It looks wierd.
+[2016/01/23 14:50:27] <Hume2> Who cares?
+[2016/01/23 14:50:29] <Tobbi> brmbrmcar: You have OCD, don't you?
+[2016/01/23 14:50:37] <brmbrmcar> What?
+[2016/01/23 14:50:38] <Tobbi> The only one who's allowed to have OCD is me.
+[2016/01/23 14:50:46] <Hume2> :D
+[2016/01/23 14:50:48] <Tobbi> brmbrmcar: Obsessive compulsive disorder.
+[2016/01/23 14:51:07] <Tobbi> We should have channel rules.
+[2016/01/23 14:51:17] <Tobbi> Banned words (does not apply to Tobbi): *sigh*
+[2016/01/23 14:51:25] <Tobbi> that was 1)
+[2016/01/23 14:51:40] <Tobbi> 2) Having OCD is not allowed (does not apply to Tobbi)
+[2016/01/23 14:51:49] <brmbrmcar> Kickbans anyone for 10 minutes who does that.
+[2016/01/23 14:52:24] <Tobbi> 3) Anyone who's nickname ends in something that can be considered a vehicle is not allowed
+[2016/01/23 14:52:27] <Tobbi> *whose
+[2016/01/23 14:52:44] <polyphagia> what about zmzmplane Tobbi ??
+[2016/01/23 14:53:03] <Tobbi> polyphagia: /kick polyphagia Can still be considered a vehicle; has planes
+[2016/01/23 14:53:08] <Tobbi> eeh wheels
+[2016/01/23 14:53:09] <Hume2> Well... It's true that sometimes I don't want to step onto the gap between two tiles on the street.
+[2016/01/23 14:53:09] <Tobbi> :D
+[2016/01/23 14:53:30] <pentagon> [10supertux] Status for commit Fix reset point being reactivated after restarting level (Fixes #338) by 07MiroslavR: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/313
+[2016/01/23 14:53:37] <Tobbi> That needs to get fixed.
+[2016/01/23 14:53:46] <Tobbi> Hume2: Are you willing to look into that or shall I?
+[2016/01/23 14:53:56] <Hume2> Well...
+[2016/01/23 14:54:04] <Hume2> I've once tried to do so.
+[2016/01/23 14:54:33] <Tobbi> hmm, ok.
+[2016/01/23 14:54:59] <pentagon> [10supertux] Status for commit Fix reset point being reactivated after restarting level (Fixes #338) by 07MiroslavR: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/104330688
+[2016/01/23 14:56:06] <brmbrmcar> Tobbi: Do you own the nickname sigh?
+[2016/01/23 14:56:16] <Hume2> Anyway, why was I deopped? Did I do anything wrong?
+[2016/01/23 14:56:24] <Tobbi> brmbrmcar: That will forever stay my secret.
+[2016/01/23 14:56:32] <Tobbi> Hume2: huh? try /cycle
+[2016/01/23 14:56:37] @ Hume2 left channel #supertux ("rejoining. . .")
+[2016/01/23 14:56:38] @ Hume2 joined channel #supertux
+[2016/01/23 14:56:42] <Tobbi> Weird.
+[2016/01/23 14:58:22] <brmbrmcar> Did  you log in?
+[2016/01/23 14:58:28] <Tobbi> Hume2: Are you identified with services?
+[2016/01/23 14:58:46] <Hume2> Tobbi: No, that will be why.
+[2016/01/23 14:58:57] <brmbrmcar> I just asked that.
+[2016/01/23 14:59:01] @ Mode +o Hume2 by ChanServ
+[2016/01/23 14:59:17] <brmbrmcar> Anyway, I found something in the worldmap contacts.
+[2016/01/23 14:59:18] <Hume2> I usually don't forget.
+[2016/01/23 14:59:44] <brmbrmcar> It has an expired webpage on it.
