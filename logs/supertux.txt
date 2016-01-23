@@ -46846,3 +46846,8 @@
 [2016/01/23 08:59:26] @ Mode +qq *_afk!*@* *_away!*@* by mt
 [2016/01/23 08:59:31] <mt> thanks for the reminder
 [2016/01/23 08:59:58] <mt> away nicks aren't considered a good practice
+[2016/01/23 09:17:24] <head8debian> I don't even do away stuff... It isn't worth it IMHO.
+[2016/01/23 09:17:55] @ Quit: Hume2: Ping timeout: 252 seconds
+[2016/01/23 09:18:01] <mt> I have a script that checks my tmux attached/detached status
+[2016/01/23 09:18:15] <mt> if I detach from tmux, it will set away
+[2016/01/23 09:26:23] @ Quit: lumidify: Ping timeout: 276 seconds
