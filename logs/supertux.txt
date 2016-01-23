@@ -47005,3 +47005,4 @@
 [2016/01/23 11:13:08] <qwebirc42066> Since Ubuntu team is Braindead.
 [2016/01/23 11:13:22] <qwebirc42066> Fine.
 [2016/01/23 11:13:40] <qwebirc42066> They stopped support of Lubuntu 14.4
+[2016/01/23 11:15:19] @ Quit: xet7: Quit: Leaving
