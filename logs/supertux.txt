@@ -47237,3 +47237,21 @@
 [2016/01/23 14:28:57] <brmbrmcar> https://www.youtube.com/watch?v=2HXJ9xfNljs
 [2016/01/23 14:29:17] <Tobbi> brmbrmcar: Microsoft sam...
 [2016/01/23 14:29:18] <Tobbi> stop it.
+[2016/01/23 14:30:04] <pentagon> [10supertux] 07MiroslavR opened pull request 09#343: Fix reset point being reactivated after restarting level 13https://github.com/SuperTux/supertux/pull/343
+[2016/01/23 14:31:48] <pentagon> [10supertux] 07tobbi commented on issue 09#343: Fix reset point being reactivated after restarting level 13https://github.com/SuperTux/supertux/pull/343
+[2016/01/23 14:32:42] @ Karkus joined channel #supertux
+[2016/01/23 14:32:42] @ Mode +o Karkus by ChanServ
+[2016/01/23 14:37:59] <pentagon> [10supertux] Status for commit Fix reset point being reactivated after restarting level (Fixes #338) by 07MiroslavR: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/311
+[2016/01/23 14:38:24] <pentagon> [10supertux] 07MiroslavR synchronized pull request 09#343: Fix reset point being reactivated after restarting level 13https://github.com/SuperTux/supertux/pull/343
+[2016/01/23 14:38:59] <pentagon> [10supertux] 07MiroslavR commented on issue 09#343: Fix reset point being reactivated after restarting level 13https://github.com/SuperTux/supertux/pull/343
+[2016/01/23 14:40:08] <Hume2> I'm testing it.
+[2016/01/23 14:40:11] <Tobbi> Hume2: Is MiroslavR here in this channel?
+[2016/01/23 14:40:24] <Tobbi> Hume2: I think we should invite him here. He does good work.
+[2016/01/23 14:40:38] <Hume2> Tobbi: You're right, we should invite him.
+[2016/01/23 14:40:50] <Tobbi> Hume2: If he wants to, of course.
+[2016/01/23 14:40:59] <Hume2> of course.
+[2016/01/23 14:41:01] <Tobbi> Some people don't want to get involved any further.
+[2016/01/23 14:41:55] <Hume2> Yes, he seems like he wants to contribute for a longer time.
+[2016/01/23 14:42:20] <Hume2> I don't know, maybe not.
+[2016/01/23 14:42:35] <pentagon> [10supertux] Status for commit Fix reset point being reactivated after restarting level (Fixes #338) by 07MiroslavR: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/104329437
+[2016/01/23 14:42:55] <Tobbi> Who knows.
