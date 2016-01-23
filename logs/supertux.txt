@@ -46729,3 +46729,8 @@
 [2016/01/22 21:47:38] @ datahead7777 joined channel #supertux
 [2016/01/22 21:49:07] @ datahead8888_ joined channel #supertux
 [2016/01/22 21:53:10] @ Quit: datahead7777: Ping timeout: 272 seconds
+[2016/01/22 23:03:14] @ Jesusaves joined channel #supertux
+[2016/01/22 23:03:23] @ Quit: Jesusaves: Client Quit
+[2016/01/22 23:06:34] @ Quit: jesusalva: Ping timeout: 265 seconds
+[2016/01/22 23:12:07] @ datahead8888__ joined channel #supertux
+[2016/01/22 23:14:41] @ Quit: datahead8888_: Ping timeout: 245 seconds
