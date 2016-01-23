@@ -47311,3 +47311,39 @@
 [2016/01/23 14:59:17] <brmbrmcar> Anyway, I found something in the worldmap contacts.
 [2016/01/23 14:59:18] <Hume2> I usually don't forget.
 [2016/01/23 14:59:44] <brmbrmcar> It has an expired webpage on it.
+[2016/01/23 15:00:12] <Tobbi> brmbrmcar: what are you talking about?
+[2016/01/23 15:00:52] <brmbrmcar> I'll screenshot
+[2016/01/23 15:03:46] <brmbrmcar> http://i.cubeupload.com/yzyxMn.png
+[2016/01/23 15:03:57] <Tobbi> leyyin: I hate Visual Studio. My VM's HDD is full... And now I need to resize it with GParted (again)
+[2016/01/23 15:04:14] @ Hume2_ joined channel #supertux
+[2016/01/23 15:04:15] @ Mode +o Hume2_ by ChanServ
+[2016/01/23 15:04:36] <Tobbi> brmbrmcar: fix it and pull request.
+[2016/01/23 15:05:07] @ Hume2 is now known as Guest86827
+[2016/01/23 15:05:08] @ Hume2_ is now known as Hume2
+[2016/01/23 15:06:03] @ Quit: Guest86827: Ping timeout: 252 seconds
+[2016/01/23 15:07:56] <leyyin> Tobbi, me too, me too
+[2016/01/23 15:08:00] <brmbrmcar> Can I make it ci skip after commit without git?
+[2016/01/23 15:08:02] <pentagon> [10supertux] Status for commit Fix reset point being reactivated after restarting level (Fixes #338) by 07MiroslavR: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/104331825
+[2016/01/23 15:08:26] <Tobbi> leyyin: Let's just hope that GParted works.
+[2016/01/23 15:10:08] <Hume2> Where's the rule about torturing ci? Yes, it's the right one who says that.
+[2016/01/23 15:10:13] @ lumidify joined channel #supertux
+[2016/01/23 15:10:41] <Hume2> brmbrmcar: [ci skip] must be in the commit message.
+[2016/01/23 15:10:41] <Karkus> Tobbi: Most people say Visual Studio is great
+[2016/01/23 15:10:52] <Tobbi> brmbrmcar: Can you resurrect someone you shot by applying CPR?
+[2016/01/23 15:10:59] <Karkus> But then again, how long does it take to install?
+[2016/01/23 15:11:15] <Tobbi> Karkus: Problem is that my VM got a limited amount of virtual HDD space.
+[2016/01/23 15:11:24] <Tobbi> And, yeah, it takes some time to install.
+[2016/01/23 15:11:35] <Karkus> Tobbi: How long?
+[2016/01/23 15:11:41] <pentagon> [10supertux] 07brmbrmcar opened pull request 09#344: Update worldmap contact 13https://github.com/SuperTux/supertux/pull/344
+[2016/01/23 15:11:43] <Tobbi> Karkus: I am not sure yet...
+[2016/01/23 15:11:55] <Karkus> Tobbi: Oh
+[2016/01/23 15:11:57] <brmbrmcar> I just re-did it.
+[2016/01/23 15:12:16] <Tobbi> Karkus: Thing is: I have installed it, but my project won't work for some reason...
+[2016/01/23 15:12:22] <Tobbi> So I|m probably just reinstalling it.
+[2016/01/23 15:12:33] <Tobbi> Karkus: I have a visual studio plugin that can create Xamarin plugins.
+[2016/01/23 15:13:12] <Karkus> Tobbi: Ah.
+[2016/01/23 15:13:27] <Tobbi> Karkus: So, actually, the plugin didn't work and I am wondering why...
+[2016/01/23 15:14:16] <Tobbi> Karkus: If you have visual studio, could you try this? https://visualstudiogallery.msdn.microsoft.com/afead421-3fbf-489a-a4e8-4a244ecdbb1e
+[2016/01/23 15:14:44] <Karkus> Tobbi: I don't have visual studio anymore, sorry.
+[2016/01/23 15:14:49] <Tobbi> No problem.
+[2016/01/23 15:14:56] <Tobbi> I'll try to get to the bottom of this.
