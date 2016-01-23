@@ -46726,3 +46726,6 @@
 [2016/01/22 20:34:08] @ Mode +o red_bot by ChanServ
 [2016/01/22 20:46:03] @ datahead7777 joined channel #supertux
 [2016/01/22 21:32:55] @ Quit: datahead7777: Ping timeout: 240 seconds
+[2016/01/22 21:47:38] @ datahead7777 joined channel #supertux
+[2016/01/22 21:49:07] @ datahead8888_ joined channel #supertux
+[2016/01/22 21:53:10] @ Quit: datahead7777: Ping timeout: 272 seconds
