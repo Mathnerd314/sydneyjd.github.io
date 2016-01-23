@@ -46791,3 +46791,4 @@
 [2016/01/23 06:48:08] <mt> I'd suggest looking at the time limits from M1, maybe they could be used to specify a target time
 [2016/01/23 06:48:13] <brmbrmcar> OK.
 [2016/01/23 06:48:28] <brmbrmcar> They are all 300 generally.
+[2016/01/23 07:15:52] @ Quit: Tobbi: 
