@@ -46715,3 +46715,5 @@
 [2016/01/22 18:28:29] @ jesusalva joined channel #supertux
 [2016/01/22 18:37:43] @ Quit: Karkus: Remote host closed the connection
 [2016/01/22 18:46:27] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/22 19:20:03] @ Quit: Wuzzy: Quit: Wuzzy
+[2016/01/22 19:29:39] @ bb010g joined channel #supertux
