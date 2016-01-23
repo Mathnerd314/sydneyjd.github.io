@@ -47006,3 +47006,60 @@
 [2016/01/23 11:13:22] <qwebirc42066> Fine.
 [2016/01/23 11:13:40] <qwebirc42066> They stopped support of Lubuntu 14.4
 [2016/01/23 11:15:19] @ Quit: xet7: Quit: Leaving
+[2016/01/23 11:30:27] <brmbrmcar> I'm not away.
+[2016/01/23 11:31:53] <mt> what are you then?
+[2016/01/23 11:32:07] <brmbrmcar> I don't know.
+[2016/01/23 11:32:12] <mt> we can't implement a command for every word
+[2016/01/23 11:32:15] <brmbrmcar> What does /away do?
+[2016/01/23 11:32:19] <mt> /i-am-not-here-right-now
+[2016/01/23 11:32:29] <mt> /user-not-on-their-computer
+[2016/01/23 11:32:34] <mt> /unavailable
+[2016/01/23 11:32:37] <mt> lol
+[2016/01/23 11:32:46] <mt> brmbrmcar: it marks you as away
+[2016/01/23 11:33:13] <mt> visible in whois, who or when you PM a user who is away
+[2016/01/23 11:33:46] <qwebirc42066> Bro I have suggestions for Milestone 3.
+[2016/01/23 11:34:05] <qwebirc42066> Add better graphics.
+[2016/01/23 11:34:14] <qwebirc42066> And add blood.
+[2016/01/23 11:34:18] <qwebirc42066> Add voice.
+[2016/01/23 11:34:18] <mt> can you stop prefixing messages with 'Bro'
+[2016/01/23 11:34:32] <qwebirc42066> Okay. Then Sensei.
+[2016/01/23 11:35:15] <mt> stop prefixing messages with anything unrelated
+[2016/01/23 11:35:26] <brmbrmcar> Not visible in my whois.
+[2016/01/23 11:35:27] <mt> and generally, more constructive suggestions for improvements
+[2016/01/23 11:35:37] <mt> brmbrmcar: you have to set /away
+[2016/01/23 11:35:44] <brmbrmcar> I did.
+[2016/01/23 11:35:50] <mt> brmbrmcar: oh and just `/away` will un-set the away status
+[2016/01/23 11:35:56] <brmbrmcar> Oh.
+[2016/01/23 11:36:03] <mt> `/away I'm not here right now` should work
+[2016/01/23 11:36:04] <brmbrmcar> THat'll be why.
+[2016/01/23 11:36:26] <qwebirc42066> @mt Add these, they will make the game cooler. Make guns in the shop to be sold.
+[2016/01/23 11:36:33] <brmbrmcar> I did it multiple times because it didn't seem to do anything.
+[2016/01/23 11:36:47] <mt> >guns
+[2016/01/23 11:36:50] <brmbrmcar> Guns? Blood?
+[2016/01/23 11:36:50] <mt> excuse me
+[2016/01/23 11:36:56] <mt> this is not a shooting game
+[2016/01/23 11:37:00] <qwebirc42066> Other: Add spells.
+[2016/01/23 11:37:54] <qwebirc42066> Like this: https://www.youtube.com/watch?v=wEOAR3Uq4oE
+[2016/01/23 11:37:58] <mt> for now, let's focus on releasing 0.4.1 and adding the improvements as described in the updated M3 design document in the topic
+[2016/01/23 11:38:08] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/01/23 11:38:33] @ Hume2 joined channel #supertux
+[2016/01/23 11:38:34] @ Mode +o Hume2 by ChanServ
+[2016/01/23 11:39:08] <qwebirc42066> But make better graphics.
+[2016/01/23 11:39:16] <qwebirc42066> I can make levels for you.
+[2016/01/23 11:39:36] <qwebirc42066> And translate them in Bulgarian.
+[2016/01/23 11:39:42] <qwebirc42066> And English.
+[2016/01/23 11:39:43] <mt> what's broken with the graphics
+[2016/01/23 11:40:03] <qwebirc42066> Make Tux twice bigger.
+[2016/01/23 11:40:12] <mt> >Tux bigger
+[2016/01/23 11:40:17] <mt> that will break everything
+[2016/01/23 11:40:36] <qwebirc42066> When eats an egg - He becomes even more bigger.
+[2016/01/23 11:40:51] <mt> qwebirc42066: translation: https://www.transifex.com/arctic-games/supertux/language/bg/
+[2016/01/23 11:41:02] <brmbrmcar> Tux should reject multiple eggs.
+[2016/01/23 11:41:20] <qwebirc42066> One more.
+[2016/01/23 11:42:19] <qwebirc42066> When he gets the fire flower but before collecting it gets hit, Instead of fireballs power make it work as an egg.
+[2016/01/23 11:42:27] <Hume2> qwebirc42066: Are you experienced level maker?
+[2016/01/23 11:42:40] <qwebirc42066> No. But I will become one.
+[2016/01/23 11:42:49] @ Quit: lumidify: Ping timeout: 272 seconds
+[2016/01/23 11:42:53] <qwebirc42066> I tried the old level editor.
+[2016/01/23 11:44:48] <qwebirc42066> It always crashed.
+[2016/01/23 11:44:56] <qwebirc42066> But I am familar to it.
