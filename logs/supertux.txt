@@ -47211,3 +47211,14 @@
 [2016/01/23 13:28:11] @ Mode +o Karkus by ChanServ
 [2016/01/23 13:36:52] @ swift110 joined channel #supertux
 [2016/01/23 13:55:06] @ Quit: DoctorVassilev: Ping timeout: 252 seconds
+[2016/01/23 14:03:39] @ qwebirc77262 joined channel #supertux
+[2016/01/23 14:03:57] @ qwebirc77262 is now known as DoctorVassilev
+[2016/01/23 14:04:01] <DoctorVassilev> Back
+[2016/01/23 14:05:37] @ Hume2 joined channel #supertux
+[2016/01/23 14:06:40] <Hume2> Helou
+[2016/01/23 14:08:33] @ Quit: Karkus: Ping timeout: 250 seconds
+[2016/01/23 14:09:42] @ Tobbi joined channel #supertux
+[2016/01/23 14:09:43] @ Mode +o Tobbi by ChanServ
+[2016/01/23 14:13:37] <Tobbi> leyyin: So, I've ran errands now. There was a guy going to the tilt with two cauliflowers. Bam! He smashes them against each other. He says "Ey, you freaks, what kind of cauliflowers are these, they don't even look alike". Bam, he thumps the sales assistant
+[2016/01/23 14:14:10] @ Quit: lumidify: Ping timeout: 272 seconds
+[2016/01/23 14:14:36] <brmbrmcar> Hmm...
