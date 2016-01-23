@@ -47184,3 +47184,24 @@
 [2016/01/23 12:44:38] <Tobbi> never mind.
 [2016/01/23 12:44:47] <Tobbi> DoctorVassilev: Can you hold off, I have to run errands.
 [2016/01/23 12:44:53] <Tobbi> Will be back in 2 hours, okay?
+[2016/01/23 12:45:13] <DoctorVassilev> here is our speech of pms: http://paste.ubuntu.com/14610799/
+[2016/01/23 12:45:31] <Tobbi> phew, fine, fine.
+[2016/01/23 12:45:51] <leyyin> Tobbi, has to do god things
+[2016/01/23 12:45:52] @ Jesusaves joined channel #supertux
+[2016/01/23 12:46:13] <Tobbi> leyyin: Buying trousers and groceries is hardly god-like.
+[2016/01/23 12:46:13] <DoctorVassilev> Do you agree?
+[2016/01/23 12:47:05] <DoctorVassilev> I am not the best dev, studied a bit of C++.
+[2016/01/23 12:47:46] <Tobbi> DoctorVassilev: Unfortunately, we're low on resources (aren't we always?). Have you tried going to sourceforge.net or ask other people for help (maybe on opengameart.org or forum.freegamedev.net)
+[2016/01/23 12:47:55] <Tobbi> Anyway, bbl for real now.
+[2016/01/23 12:48:10] <brmbrmcar> be back later for real?
+[2016/01/23 12:48:21] <Tobbi> brmbrmcar: Yes.
+[2016/01/23 12:48:39] <DoctorVassilev> Then 'no' for UNreal?
+[2016/01/23 12:49:18] @ Quit: jesusalva: Ping timeout: 272 seconds
+[2016/01/23 12:51:39] <leyyin> but buying god groceries and clothes is god like :D
+[2016/01/23 12:53:14] <brmbrmcar> What if I buy dog groceries and clothes, and get them backwards, is that god-like?
+[2016/01/23 12:53:33] @ Quit: claymore2: Ping timeout: 265 seconds
+[2016/01/23 12:54:22] <brmbrmcar> I've seen any god-like dogs in my time.
+[2016/01/23 12:54:32] <brmbrmcar> s/any/many/
+[2016/01/23 12:54:32] <red_bot> brmbrmcar meant: "I've seen many god-like dogs in my time."
+[2016/01/23 12:57:48] @ claymore2 joined channel #supertux
+[2016/01/23 12:58:58] @ Quit: Tobbi: Remote host closed the connection
