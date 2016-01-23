@@ -46772,3 +46772,8 @@
 [2016/01/23 05:41:45] @ Quit: Hume2: Ping timeout: 252 seconds
 [2016/01/23 05:54:53] @ Hume2 joined channel #supertux
 [2016/01/23 05:54:53] @ Mode +o Hume2 by ChanServ
+[2016/01/23 06:07:17] @ Mode -o red_bot by ChanServ
+[2016/01/23 06:08:21] @ Tobbi joined channel #supertux
+[2016/01/23 06:08:21] @ Mode +o Tobbi by ChanServ
+[2016/01/23 06:10:23] <pentagon> [10supertux] 07tobbi commented on issue 09#342: Invalid Worldmap Boat Animation 13https://github.com/SuperTux/supertux/issues/342
+[2016/01/23 06:14:16] @ Quit: stewboy: Read error: Connection reset by peer
