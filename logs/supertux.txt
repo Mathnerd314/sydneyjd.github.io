@@ -46741,3 +46741,5 @@
 [2016/01/23 00:49:40] @ tuxdev_ joined channel #supertux
 [2016/01/23 01:03:48] @ datahead8888 is now known as datahead7777
 [2016/01/23 01:23:47] @ lumidify joined channel #supertux
+[2016/01/23 01:54:08] @ tuxdude143 joined channel #supertux
+[2016/01/23 01:56:35] @ Quit: tux|dude: Ping timeout: 260 seconds
