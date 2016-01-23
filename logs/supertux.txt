@@ -47100,3 +47100,46 @@
 [2016/01/23 11:59:47] <brmbrmcar> SuperTux OS.
 [2016/01/23 11:59:55] <Hume2> Exactly.
 [2016/01/23 11:59:56] <qwebirc42066> Well...
+[2016/01/23 12:00:04] <qwebirc42066> I have ideas.
+[2016/01/23 12:00:09] <brmbrmcar> What about...
+[2016/01/23 12:00:11] <qwebirc42066> Are you good devs?
+[2016/01/23 12:00:12] <brmbrmcar> You know...
+[2016/01/23 12:00:29] <Hume2> I do never rate myself.
+[2016/01/23 12:00:39] @ ced117 joined channel #supertux
+[2016/01/23 12:00:44] <qwebirc42066> Are you a dev of SuperTux?
+[2016/01/23 12:00:55] <qwebirc42066> If you are then you are fine.
+[2016/01/23 12:01:05] <Hume2> Thanks.
+[2016/01/23 12:01:08] <qwebirc42066> If not IDK then.
+[2016/01/23 12:01:25] <qwebirc42066> I wanna add you on Skype.
+[2016/01/23 12:01:43] <Hume2> That will be complicated, sotty.
+[2016/01/23 12:01:49] <Hume2> s/sotty/sorry/
+[2016/01/23 12:01:49] <red_bot> Hume2 meant: "That will be complicated, sorry."
+[2016/01/23 12:02:15] <qwebirc42066> I know :D
+[2016/01/23 12:02:58] <brmbrmcar> So I'm bad?
+[2016/01/23 12:03:06] <Hume2> Well...
+[2016/01/23 12:03:07] <qwebirc42066> IDK for you.
+[2016/01/23 12:03:19] <qwebirc42066> You may be good.
+[2016/01/23 12:03:40] <qwebirc42066> BTW my name is George (In Bulgarian: Georgi)
+[2016/01/23 12:03:52] <Hume2> brmbrmcar: I can't say that you would be a good developer, but you are symathic to me for some reason.
+[2016/01/23 12:04:14] <brmbrmcar> Err...
+[2016/01/23 12:06:58] <mt> qwebirc42066: there's the /nick command to change your nick, if you feel that's more appropriate
+[2016/01/23 12:07:57] @ qwebirc42066 is now known as GladiusOfTheAssa
+[2016/01/23 12:07:58] <GladiusOfTheAssa> d
+[2016/01/23 12:08:04] <GladiusOfTheAssa> :D
+[2016/01/23 12:08:21] @ GladiusOfTheAssa is now known as Aatrox
+[2016/01/23 12:08:29] <Aatrox> My fav champ in LoL.
+[2016/01/23 12:09:14] @ Aatrox is now known as DoctorVassilev
+[2016/01/23 12:09:16] <DoctorVassilev> :D
+[2016/01/23 12:09:32] <DoctorVassilev> Vassilev is my family name.
+[2016/01/23 12:09:42] <brmbrmcar> Do you wish to bekicked? It may occur, not by me.
+[2016/01/23 12:09:44] @ DoctorVassilev left channel #supertux (requested by mt (no nickchange spam, please))
+[2016/01/23 12:10:12] <brmbrmcar> mt: How do you even do that? What mode is it?
+[2016/01/23 12:10:34] <mt> brmbrmcar: it's magic
+[2016/01/23 12:10:43] <mt> it's not even a mode
+[2016/01/23 12:10:47] <brmbrmcar> magic = unexplained.
+[2016/01/23 12:10:53] @ DoctorVassilev joined channel #supertux
+[2016/01/23 12:10:53] <brmbrmcar> So yes.
+[2016/01/23 12:10:59] <DoctorVassilev> Back.
+[2016/01/23 12:12:36] <mt> yeah
+[2016/01/23 12:12:39] <mt> no nickspam
+[2016/01/23 12:14:18] <DoctorVassilev> Sorry.
