@@ -47406,3 +47406,61 @@
 [2016/01/23 15:29:01] <Tobbi> np
 [2016/01/23 15:29:31] <Hume2> I've never taken seriously those "Enter your phone number".
 [2016/01/23 15:29:33] <Tobbi> polyphagia: I would've probably tried to fire up that-sniffer-whose-name-I-don't-remember and got their IP address.
+[2016/01/23 15:30:22] <polyphagia> Hume2: you have to provide your phone number to sign up for most email services now
+[2016/01/23 15:30:24] <polyphagia> which is awful imo
+[2016/01/23 15:30:36] <Jesusaves> I agree with polyphagia
+[2016/01/23 15:30:39] <Hume2> Oh, really? Huh.
+[2016/01/23 15:30:44] <polyphagia> meh Tobbi these guys can't be stopped
+[2016/01/23 15:30:50] <polyphagia> but it's fun to screw around with them
+[2016/01/23 15:30:55] <polyphagia> there's a subreddit dedicated to wasting their time
+[2016/01/23 15:30:57] <polyphagia> lol
+[2016/01/23 15:30:58] <Jesusaves> I tried using 0000-0000 as phone number but was rejected. :P
+[2016/01/23 15:31:08] <Hume2> polyphagia: When I see it, I escape or fill in a crap.
+[2016/01/23 15:31:22] <polyphagia> even if you do enter a seemingly real number, they SMS you a confirmation
+[2016/01/23 15:31:32] <Hume2> Yeah, crappy numbers are usually rejected.
+[2016/01/23 15:31:32] <Tobbi> polyphagia: After they contacted me a couple times, I called the local police to find out whether there was something I could've done...
+[2016/01/23 15:31:38] <Tobbi> Unfortunately they told me that there wasn't.
+[2016/01/23 15:31:41] @ Quit: Karkus: Ping timeout: 276 seconds
+[2016/01/23 15:31:42] <polyphagia> yup
+[2016/01/23 15:31:44] <Tobbi> Not even they could do anything about it.
+[2016/01/23 15:31:47] <polyphagia> there's just too many and it's too profitable
+[2016/01/23 15:31:52] <polyphagia> one shuts down, they just move
+[2016/01/23 15:31:59] <polyphagia> the only solution is education
+[2016/01/23 15:32:02] <Tobbi> yeah.
+[2016/01/23 15:32:28] <Hume2> Yeah, don't fill in any number and escape.
+[2016/01/23 15:32:29] <Tobbi> polyphagia: But the good thing is: If you waste their time, they'll eventually stop calling you because it's not profitable anymore.
+[2016/01/23 15:33:19] <Hume2> You can just answer "What?" to everyhthing.
+[2016/01/23 15:33:27] <polyphagia> yeah it's a good solution for *you* but not the general public Tobbi :P
+[2016/01/23 15:33:41] <polyphagia> yeah Hume2 i don't  i'm just saying it's a shame that this is the direction things are heading
+[2016/01/23 15:33:43] <Tobbi> polyphagia: Well, is there anything else one can do?
+[2016/01/23 15:33:49] <polyphagia> i personally don't put my phone number anywhere but most people don't think twice
+[2016/01/23 15:34:08] <polyphagia> well i mean most people probably don't want to waste their own time wasting somebody else's Tobbi
+[2016/01/23 15:34:24] <Tobbi> polyphagia: That's true. I could've just hung up... :P
+[2016/01/23 15:34:36] <Tobbi> I still wonder where they got my phone number from, though.
+[2016/01/23 15:34:46] <polyphagia> auto-dialers
+[2016/01/23 15:35:01] <Hume2> Maybe.
+[2016/01/23 15:35:07] <Tobbi> polyphagia: So, they just try numbers out?
+[2016/01/23 15:35:14] <polyphagia> there are these services that call numbers, if you answer it you're added to a list
+[2016/01/23 15:35:20] <polyphagia> then people sell the lists
+[2016/01/23 15:35:37] <polyphagia> so a solution is not answering calls with weird numbers
+[2016/01/23 15:35:57] <polyphagia> Tobbi: usually a third party does and sells them
+[2016/01/23 15:36:02] <Hume2> It's not always benefical.
+[2016/01/23 15:36:03] <polyphagia> but i don't see why they couldn't themselves
+[2016/01/23 15:36:17] <Hume2> Sometimes your friend calls from another number...
+[2016/01/23 15:36:22] <Hume2> You know.
+[2016/01/23 15:36:34] <Tobbi> polyphagia: Actually, doesn't matter... :) I'll continue wasting their time...
+[2016/01/23 15:36:43] <polyphagia> Tobbi: there are lots of videos on youtube of people doing it too
+[2016/01/23 15:36:44] <polyphagia> with VMs
+[2016/01/23 15:36:52] <polyphagia> one time the east indian got so angry he deleted all the files lol
+[2016/01/23 15:36:57] <Hume2> You can even make jokes if you want.
+[2016/01/23 15:37:05] <Tobbi> polyphagia: Yeah, I know. I didn't come up with the idea of messing with them on my own.
+[2016/01/23 15:37:12] <polyphagia> :P
+[2016/01/23 15:37:43] <Hume2> I have my mobile almost always truned off though.
+[2016/01/23 15:38:43] <Hume2> Too much comunication drives me mad.
+[2016/01/23 15:39:14] <Tobbi> I have no problem with communication.
+[2016/01/23 15:40:58] <Hume2> Yes, it's true that many people complain that they can't communicate with me.
+[2016/01/23 15:42:59] @ Hume2_ joined channel #supertux
+[2016/01/23 15:42:59] @ Mode +o Hume2_ by ChanServ
+[2016/01/23 15:43:03] @ Quit: Hume2: Killed (orwell.freenode.net (Nickname regained by services))
+[2016/01/23 15:43:03] @ Hume2_ is now known as Hume2
+[2016/01/23 15:44:57] <Hume2> I personally don't have any problems with communication itself, but I do have problems with all those spammy messages.
