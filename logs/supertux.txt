@@ -46778,3 +46778,7 @@
 [2016/01/23 06:10:23] <pentagon> [10supertux] 07tobbi commented on issue 09#342: Invalid Worldmap Boat Animation 13https://github.com/SuperTux/supertux/issues/342
 [2016/01/23 06:14:16] @ Quit: stewboy: Read error: Connection reset by peer
 [2016/01/23 06:26:31] @ Quit: claymore2: Quit: Leaving
+[2016/01/23 06:42:31] <brmbrmcar> Should I start adding more target times to levels?
+[2016/01/23 06:44:34] <mt> no
+[2016/01/23 06:44:41] <brmbrmcar> Why?
+[2016/01/23 06:44:50] <mt> wait
