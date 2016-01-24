@@ -47534,3 +47534,8 @@
 [2016/01/23 19:27:47] <Karkus> Looking him up, I recognise him.
 [2016/01/23 19:28:07] <Karkus> Tobbi: I think I watched a documentry about him
 [2016/01/23 19:29:01] <Tobbi> I started reading a book about him.
+[2016/01/23 19:30:24] <Tobbi> I didn't actually finish it, though.
+[2016/01/23 19:30:53] @ swift110_ joined channel #supertux
+[2016/01/23 19:33:29] @ Quit: swift110: Read error: Connection reset by peer
+[2016/01/23 19:34:57] @ xet7 joined channel #supertux
+[2016/01/23 19:43:15] @ Quit: tuxdev_: Ping timeout: 240 seconds
