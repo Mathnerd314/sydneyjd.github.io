@@ -47752,3 +47752,8 @@
 [2016/01/24 05:57:31] <Hume2> brmbrmcar: 17,7MB
 [2016/01/24 05:58:10] <brmbrmcar> OK.
 [2016/01/24 05:58:17] <brmbrmcar> I've got it anyway.
+[2016/01/24 06:04:31] <Hume2> Tobbi: https://github.com/Hume2/level_gen
+[2016/01/24 06:04:48] @ Quit: Hume2: Quit: Page closed
+[2016/01/24 06:08:22] @ Quit: claymore2: Ping timeout: 250 seconds
+[2016/01/24 06:13:15] @ claymore2 joined channel #supertux
+[2016/01/24 06:13:22] @ lumidify joined channel #supertux
