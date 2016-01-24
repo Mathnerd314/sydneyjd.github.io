@@ -47599,3 +47599,13 @@
 [2016/01/23 21:07:47] @ Jesusaves joined channel #supertux
 [2016/01/23 21:11:23] @ Quit: jesusalva: Ping timeout: 265 seconds
 [2016/01/23 21:15:21] <swift110_> hey all
+[2016/01/23 21:32:10] <head8debian> swift110_: Hola.
+[2016/01/23 21:33:12] @ jesusalva joined channel #supertux
+[2016/01/23 21:34:10] <swift110_> hey head8debian how are you
+[2016/01/23 21:35:04] <head8debian> swift110_: Good, you?
+[2016/01/23 21:35:30] @ Quit: Jesusaves: Ping timeout: 260 seconds
+[2016/01/23 21:36:11] <swift110_> good
+[2016/01/23 21:36:18] <swift110_> what ya up too
+[2016/01/23 21:37:15] @ Quit: jesusalva: Client Quit
+[2016/01/23 21:40:17] @ jesusalva joined channel #supertux
+[2016/01/23 21:40:46] @ Quit: jesusalva: Client Quit
