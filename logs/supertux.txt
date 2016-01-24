@@ -47612,3 +47612,4 @@
 [2016/01/23 21:50:53] @ Wuzzy2 joined channel #supertux
 [2016/01/23 21:53:50] @ Quit: Wuzzy: Ping timeout: 245 seconds
 [2016/01/23 22:45:46] @ Quit: irungentoo: Remote host closed the connection
+[2016/01/23 23:32:22] @ Quit: Wuzzy2: Remote host closed the connection
