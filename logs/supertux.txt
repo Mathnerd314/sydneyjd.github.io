@@ -48159,3 +48159,7 @@
 [2016/01/24 12:27:17] <mt> then last year, head8debian, Kark_us mat_hs22 and Hume_2 again (remove the underscores)
 [2016/01/24 12:28:10] <DoctorVassilev> I shall get on the Windows 10 part, since you do not really care of it.
 [2016/01/24 12:28:49] -ChanServ- mt (mteufel) set flags -ORSfrs on LMH
+[2016/01/24 12:35:37] @ Hume2 joined channel #supertux
+[2016/01/24 12:35:38] @ Mode +v Hume2 by ChanServ
+[2016/01/24 12:36:54] @ Quit: Hume2_: Ping timeout: 252 seconds
+[2016/01/24 12:42:44] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
