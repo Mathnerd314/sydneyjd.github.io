@@ -47760,3 +47760,8 @@
 [2016/01/24 06:58:11] @ Hume2 joined channel #supertux
 [2016/01/24 06:58:12] @ Mode +o Hume2 by ChanServ
 [2016/01/24 06:58:24] <Hume2> I'm back.
+[2016/01/24 07:01:24] @ Hume2_ joined channel #supertux
+[2016/01/24 07:01:24] @ Mode +o Hume2_ by ChanServ
+[2016/01/24 07:01:56] @ Hume2 is now known as Guest31781
+[2016/01/24 07:01:57] @ Hume2_ is now known as Hume2
+[2016/01/24 07:03:03] @ Quit: Guest31781: Ping timeout: 252 seconds
