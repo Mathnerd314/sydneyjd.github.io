@@ -47609,3 +47609,5 @@
 [2016/01/23 21:37:15] @ Quit: jesusalva: Client Quit
 [2016/01/23 21:40:17] @ jesusalva joined channel #supertux
 [2016/01/23 21:40:46] @ Quit: jesusalva: Client Quit
+[2016/01/23 21:50:53] @ Wuzzy2 joined channel #supertux
+[2016/01/23 21:53:50] @ Quit: Wuzzy: Ping timeout: 245 seconds
