@@ -47491,3 +47491,4 @@
 [2016/01/23 18:05:22] @ jesusalva joined channel #supertux
 [2016/01/23 18:42:28] @ Karkus joined channel #supertux
 [2016/01/23 18:42:28] @ Mode +o Karkus by ChanServ
+[2016/01/23 18:45:38] @ tux|dude joined channel #supertux
