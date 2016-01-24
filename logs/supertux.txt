@@ -48163,3 +48163,13 @@
 [2016/01/24 12:35:38] @ Mode +v Hume2 by ChanServ
 [2016/01/24 12:36:54] @ Quit: Hume2_: Ping timeout: 252 seconds
 [2016/01/24 12:42:44] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/01/24 12:49:01] @ Quit: Hume2: Ping timeout: 252 seconds
+[2016/01/24 12:50:53] <head8debian> mt: Ive been around more than a year. I actually did more a while back. ;)
+[2016/01/24 12:51:04] <head8debian> But, close enough. ;)
+[2016/01/24 12:51:43] <mt> yeah
+[2016/01/24 12:51:49] <mt> I realized
+[2016/01/24 12:52:05] <mt> but didn't want to put a different year there because uh
+[2016/01/24 12:52:10] <mt> lazy
+[2016/01/24 12:54:17] <brmbrmcar> head8debian: When were you previously around?
+[2016/01/24 12:56:58] <mt> early 2014
+[2016/01/24 12:59:21] <brmbrmcar> OK.
