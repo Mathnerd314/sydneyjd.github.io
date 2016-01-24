@@ -47875,3 +47875,88 @@
 [2016/01/24 08:29:41] <Hume2> Is there a clever thing that ops the people only when needed?
 [2016/01/24 08:29:41] <Karkus> mt: No, the terrain generator generates the terrain, then you build upon and change that.
 [2016/01/24 08:29:43] <brmbrmcar> JUst auto-voice.
+[2016/01/24 08:30:05] <mt> Hume2: well, you can /msg ChanServ op #supertux when you need it
+[2016/01/24 08:30:26] <mt> I have a WeeChat script that does that automatically when I want to ban someone
+[2016/01/24 08:30:33] @ Mode +v Karkus by ChanServ
+[2016/01/24 08:30:41] <brmbrmcar> When you add someone to recover a channel, is that permanent?
+[2016/01/24 08:30:43] <Hume2> mt: OK, so normally when I deop myself i shouldn't loose that ability.
+[2016/01/24 08:30:45] @ Mode -o Karkus by ChanServ
+[2016/01/24 08:30:50] <Tobbi> I wonder if having op wouldn't allow newcomers to tell who to go to.
+[2016/01/24 08:30:56] <mt> Hume2: no
+[2016/01/24 08:31:04] @ Mode -o mt by mt
+[2016/01/24 08:31:06] @ Mode +v Hume2 by Hume2
+[2016/01/24 08:31:11] <Karkus> Now I'm temporarily de-opped. Yay...
+[2016/01/24 08:31:16] @ Mode +o mt by ChanServ
+[2016/01/24 08:31:18] @ Mode +q sillytestmask!*@* by mt
+[2016/01/24 08:31:22] @ Mode -o Hume2 by Hume2
+[2016/01/24 08:31:33] @ Mode -q sillytestmask!*@* by mt
+[2016/01/24 08:31:36] <mt> silly script
+[2016/01/24 08:31:38] @ Mode +v mt by mt
+[2016/01/24 08:31:40] <Karkus> mt: So how to stop auto-op?
+[2016/01/24 08:31:50] <brmbrmcar> What about that thing to automatically reverse user-set modes?
+[2016/01/24 08:31:52] @ Mode -o mt by mt
+[2016/01/24 08:31:56] @ Mode +o Hume2 by ChanServ
+[2016/01/24 08:32:00] <mt> Karkus: I can do that
+[2016/01/24 08:32:02] <brmbrmcar> Remove +O flag.
+[2016/01/24 08:32:08] <Hume2> It works, mt.
+[2016/01/24 08:32:15] <brmbrmcar> Or something like that.
+[2016/01/24 08:32:19] -ChanServ- mt (mteufel) set flags -O on Karkus
+[2016/01/24 08:32:24] -ChanServ- mt (mteufel) set flags -O on Hume2
+[2016/01/24 08:32:31] <Karkus> mt: I think it's reasonable that we should be voice unless we want to be op
+[2016/01/24 08:32:36] <mt> yeah
+[2016/01/24 08:32:38] <Hume2> So I'll now deop.
+[2016/01/24 08:32:41] @ Mode -o Hume2 by Hume2
+[2016/01/24 08:32:44] @ Karkus left channel #supertux ("In a cloud of smoke")
+[2016/01/24 08:32:50] @ Karkus joined channel #supertux
+[2016/01/24 08:32:50] @ Mode +v Karkus by ChanServ
+[2016/01/24 08:33:01] @ Mode +o Karkus by ChanServ
+[2016/01/24 08:33:05] <mt> also, demo of my cool script
+[2016/01/24 08:33:06] @ Quit: lumidify: Ping timeout: 250 seconds
+[2016/01/24 08:33:07] @ Mode -o Karkus by ChanServ
+[2016/01/24 08:33:12] @ Mode +o mt by ChanServ
+[2016/01/24 08:33:15] @ Mode +q-o sillytestmask!*@* mt by mt
+[2016/01/24 08:34:02] @ Mode +o mt by ChanServ
+[2016/01/24 08:34:04] @ Mode -qo sillytestmask!*@* mt by mt
+[2016/01/24 08:34:24] <brmbrmcar> What is going on?
+[2016/01/24 08:34:45] <mt> people testing ChanServ op, me testing/demoing my script
+[2016/01/24 08:34:53] -ChanServ- mt (mteufel) set flags -O on mteufel
+[2016/01/24 08:35:01] -ChanServ- mt (mteufel) set flags -O on Tobbi
+[2016/01/24 08:35:07] @ Tobbi left channel #supertux ()
+[2016/01/24 08:35:07] @ Tobbi joined channel #supertux
+[2016/01/24 08:35:07] @ Mode +v Tobbi by ChanServ
+[2016/01/24 08:35:08] -ChanServ- mt (mteufel) set flags -O on maths22
+[2016/01/24 08:35:16] <Tobbi> Okay, I am good now.
+[2016/01/24 08:35:20] -ChanServ- mt (mteufel) set flags -O on sydney
+[2016/01/24 08:35:20] @ Mode +v red_bot by ChanServ
+[2016/01/24 08:35:26] <Tobbi> Let's see...
+[2016/01/24 08:35:39] -ChanServ- mt (mteufel) set flags -O on grumbel
+[2016/01/24 08:35:58] @ Mode +o Tobbi by ChanServ
+[2016/01/24 08:36:01] <Tobbi> Good.
+[2016/01/24 08:36:05] @ Mode -o Tobbi by ChanServ
+[2016/01/24 08:36:13] -ChanServ- mt (mteufel) set flags -Refirst+V on CharlieG
+[2016/01/24 08:36:33] -ChanServ- mt (mteufel) used SYNC.
+[2016/01/24 08:36:45] <Tobbi> SYNC?
+[2016/01/24 08:36:46] @ Mode -oo head8debian maths22 by ChanServ
+[2016/01/24 08:36:50] -ChanServ- mt (mteufel) used SYNC.
+[2016/01/24 08:36:51] @ Mode +vv maths22 head8debian by ChanServ
+[2016/01/24 08:37:13] <mt> voices/ops people who have +V/+O when they aren't
+[2016/01/24 08:37:25] <Tobbi> ok
+[2016/01/24 08:37:45] <mt> also
+[2016/01/24 08:37:47] <mt> 14:35:25 -i- ChanServ (ChanServ@services.): You are not allowed to set -O on giby in #supertux.
+[2016/01/24 08:37:56] <brmbrmcar> I'll have to get used to this.
+[2016/01/24 08:37:57] <Tobbi> well
+[2016/01/24 08:38:08] <Tobbi> Doesn't matter. :P
+[2016/01/24 08:38:14] <brmbrmcar> Ask if you can be flagged +F.
+[2016/01/24 08:38:48] <brmbrmcar> Don't even know if it is possible though.
+[2016/01/24 08:39:11] @ Quit: Karkus: Ping timeout: 250 seconds
+[2016/01/24 08:39:18] <mt> brmbrmcar: yes it's possible, I might do that once GMS (https://github.com/freenode/gms) gets deployed on freenode
+[2016/01/24 08:39:51] * mt will make sure to request supertux/brm/brm/car as cloak for brmbrmcar then
+[2016/01/24 08:40:24] <Tobbi> mt: How long until GMS will land?
+[2016/01/24 08:40:32] <mt> soon™
+[2016/01/24 08:40:35] <brmbrmcar> Yay!
+[2016/01/24 08:41:23] <mt> entirely unofficial, but I guess somewhen in the next 6 months
+[2016/01/24 08:42:02] <Hume2> I just got that my terrain generator uses far different structures for tilemaps.
+[2016/01/24 08:44:23] @ Hume2_ joined channel #supertux
+[2016/01/24 08:44:24] @ Mode +v Hume2_ by ChanServ
+[2016/01/24 08:44:32] @ Hume2 is now known as Guest88603
+[2016/01/24 08:44:32] @ Hume2_ is now known as Hume2
