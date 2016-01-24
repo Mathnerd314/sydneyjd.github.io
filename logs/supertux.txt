@@ -48065,3 +48065,46 @@
 [2016/01/24 11:59:02] <mt> we don't provide builds for every possible configuration
 [2016/01/24 11:59:10] <DoctorVassilev> But my other PC is on 32 bit.
 [2016/01/24 11:59:10] <mt> especially, if it works otherwise
+[2016/01/24 12:00:36] @ Quit: lumidify: Ping timeout: 250 seconds
+[2016/01/24 12:02:40] <DoctorVassilev> Well.
+[2016/01/24 12:02:47] <DoctorVassilev> It does not work...
+[2016/01/24 12:02:55] <DoctorVassilev> Do not worry.
+[2016/01/24 12:03:07] <DoctorVassilev> There is a thing called Linux.
+[2016/01/24 12:03:16] <DoctorVassilev> I will make a VM.
+[2016/01/24 12:03:28] <DoctorVassilev> What Linux to use.
+[2016/01/24 12:03:40] <DoctorVassilev> I have elementryOS.
+[2016/01/24 12:04:06] <mt> This is not a general support channel, you know that
+[2016/01/24 12:04:23] <mt> And we can't support all mini questions about Linux, or even compiling
+[2016/01/24 12:04:32] <mt> It's documented well enough
+[2016/01/24 12:04:59] <DoctorVassilev> I will try.
+[2016/01/24 12:05:17] <DoctorVassilev> Should I use eOS?
+[2016/01/24 12:07:31] @ Mode +o mt by ChanServ
+[2016/01/24 12:07:34] @ DoctorVassilev has been kicked from #supertux by mt (This is not a channel for questions like 'Should I use <Linux distro>'.)
+[2016/01/24 12:07:36] @ Mode -o mt by ChanServ
+[2016/01/24 12:08:28] @ DoctorVassilev joined channel #supertux
+[2016/01/24 12:08:38] <DoctorVassilev> Why are you so aggressive?
+[2016/01/24 12:09:02] <mt> I'm not aggressive, I already told you this isn't a channel for these questions.
+[2016/01/24 12:09:09] <DoctorVassilev> Ok.
+[2016/01/24 12:09:40] @ Tobbi joined channel #supertux
+[2016/01/24 12:09:40] @ Mode +v Tobbi by ChanServ
+[2016/01/24 12:09:50] <DoctorVassilev> But I will ask about how to run the editor since I didn't find how.
+[2016/01/24 12:10:03] <DoctorVassilev> I will use that Linux.
+[2016/01/24 12:10:14] <mt> DoctorVassilev: I told you there's documentation for that. Look it up yourself before.
+[2016/01/24 12:10:36] <mt> DoctorVassilev: And again, we can't explain everyone questions like 'how do I use this command'
+[2016/01/24 12:10:56] <mt> DoctorVassilev: especially, if people can't paste errors
+[2016/01/24 12:11:26] <DoctorVassilev> Why are you acting like this, you are like the Polish Flamers in LoL.
+[2016/01/24 12:11:32] <mt> http://supertux.lethargik.org/wiki/Main_Page can be a great resource even if its obsolete
+[2016/01/24 12:11:58] <DoctorVassilev> I said that I am new to Linux.
+[2016/01/24 12:12:12] <DoctorVassilev> Yes, I read.
+[2016/01/24 12:12:28] <mt> I said we can't help you with that
+[2016/01/24 12:12:33] <DoctorVassilev> If you do not want my Questions, then fine.
+[2016/01/24 12:12:44] <DoctorVassilev> I will ask Hume.
+[2016/01/24 12:12:50] @ Mode +o mt by ChanServ
+[2016/01/24 12:12:52] @ Mode +q-o *!*@*5.104.177.174 mt by mt
+[2016/01/24 12:12:59] <mt> you've been warned
+[2016/01/24 12:13:32] <brmbrmcar> Ooh.
+[2016/01/24 12:13:48] <Tobbi> mt: What did brmbrmcar do this time?
+[2016/01/24 12:14:02] <mt> brmbrmcar? nothing
+[2016/01/24 12:14:08] <Tobbi> mt: Who did something?
+[2016/01/24 12:14:34] <mt> DoctorVassilev; asking unrelated questions after I told them we can't answer all those here
+[2016/01/24 12:14:49] <Tobbi> ah ok
