@@ -47960,3 +47960,29 @@
 [2016/01/24 08:44:24] @ Mode +v Hume2_ by ChanServ
 [2016/01/24 08:44:32] @ Hume2 is now known as Guest88603
 [2016/01/24 08:44:32] @ Hume2_ is now known as Hume2
+[2016/01/24 08:45:02] <mt> when I see Guest88603
+[2016/01/24 08:45:22] <mt> it often surprises me that users being /ns regain'ed aren't killed off the server
+[2016/01/24 08:45:28] <Hume2> My connection is falling frequently.
+[2016/01/24 08:45:41] <mt> because that usually happens when using /ns regain due to some race condition
+[2016/01/24 08:45:46] <Hume2> It's strange.
+[2016/01/24 08:45:59] <mt> but not if the users are on the same server (which webchat servers always are)
+[2016/01/24 08:46:20] @ Quit: Hume2: Client Quit
+[2016/01/24 08:46:27] @ Quit: Guest88603: Ping timeout: 252 seconds
+[2016/01/24 08:46:46] <brmbrmcar> mt: Really? I'm sure there were different servers when  was on there.
+[2016/01/24 08:47:43] <mt> webchat.freenode.net users are always on herbert.freenode.net, an internal server just for that purpose
+[2016/01/24 08:47:52] <brmbrmcar> OK.
+[2016/01/24 08:48:02] <mt> did you use kiwiirc?
+[2016/01/24 08:48:09] <brmbrmcar> I thought it wasn't.
+[2016/01/24 08:48:17] <Tobbi> herbert...
+[2016/01/24 08:48:17] <mt> because that's not freenode official and uses the chat.freenode.net rrDNS
+[2016/01/24 08:48:41] <brmbrmcar> I always used the web freenode one.
+[2016/01/24 08:49:06] <mt> Tobbi: 14:48:41 -i- - Franklin Patrick Herbert, Jr. (October 8, 1920 – February
+[2016/01/24 08:49:09] <mt> 14:48:41 -i- - 11, 1986)[4] was a critically acclaimed and commercially
+[2016/01/24 08:49:11] <mt> 14:48:41 -i- - successful American science fiction author.
+[2016/01/24 08:49:20] <Tobbi> I see...
+[2016/01/24 08:49:23] <mt> [...]
+[2016/01/24 08:49:31] <Tobbi> mt: Tepper is the name of one of my profs. But also a server.
+[2016/01/24 08:49:48] <mt> freenode servers are named after science-fiction/fantasy authors
+[2016/01/24 08:49:51] <Tobbi> No connection between those two.
+[2016/01/24 08:49:53] <Tobbi> :D
+[2016/01/24 08:58:32] @ lumidify joined channel #supertux
