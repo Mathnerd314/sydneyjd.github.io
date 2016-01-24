@@ -47492,3 +47492,6 @@
 [2016/01/23 18:42:28] @ Karkus joined channel #supertux
 [2016/01/23 18:42:28] @ Mode +o Karkus by ChanServ
 [2016/01/23 18:45:38] @ tux|dude joined channel #supertux
+[2016/01/23 19:12:57] @ bb010g joined channel #supertux
+[2016/01/23 19:14:26] <head8debian> Tobbi: Uhm, no.
+[2016/01/23 19:14:40] <Tobbi> head8debian: Are you sure?
