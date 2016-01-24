@@ -47765,3 +47765,4 @@
 [2016/01/24 07:01:56] @ Hume2 is now known as Guest31781
 [2016/01/24 07:01:57] @ Hume2_ is now known as Hume2
 [2016/01/24 07:03:03] @ Quit: Guest31781: Ping timeout: 252 seconds
+[2016/01/24 07:26:45] <brmbrmcar> What is the level generator?
