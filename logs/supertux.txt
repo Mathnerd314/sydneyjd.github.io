@@ -47766,3 +47766,43 @@
 [2016/01/24 07:01:57] @ Hume2_ is now known as Hume2
 [2016/01/24 07:03:03] @ Quit: Guest31781: Ping timeout: 252 seconds
 [2016/01/24 07:26:45] <brmbrmcar> What is the level generator?
+[2016/01/24 07:31:06] <Tobbi> Hume2: Great stuff...
+[2016/01/24 07:31:11] <Tobbi> Now convert that to Python :P
+[2016/01/24 07:31:27] <Hume2> That would be harder :P
+[2016/01/24 07:32:16] <Tobbi> Python's easy.
+[2016/01/24 07:33:14] <Tobbi> Right leyyin?
+[2016/01/24 07:33:19] <brmbrmcar> Python is horrible.
+[2016/01/24 07:33:33] <brmbrmcar> So hard to understand.
+[2016/01/24 07:33:37] <Tobbi> leyyin is the python god. He is even capable of providing feedback for my scripts
+[2016/01/24 07:33:38] <Tobbi> :P
+[2016/01/24 07:33:39] <brmbrmcar> It's just a mess.
+[2016/01/24 07:33:50] <Hume2> It's hard to brmbrmunderstand :D
+[2016/01/24 07:33:52] <Tobbi> brmbrmcar: What's so hard to understand about python?
+[2016/01/24 07:34:51] <brmbrmcar> I'm just not used to it.
+[2016/01/24 07:35:06] <brmbrmcar> I'm sure it's easy for what it is easy to do it with.
+[2016/01/24 07:35:16] <brmbrmcar> Not level editors.
+[2016/01/24 07:35:59] <brmbrmcar> It looks like it is a very badly written language.
+[2016/01/24 07:36:31] <Tobbi> brmbrmcar: What programming languages do you know?
+[2016/01/24 07:36:43] <brmbrmcar> Nothing, really.
+[2016/01/24 07:36:49] <brmbrmcar> I script an Arduino.
+[2016/01/24 07:37:21] <Tobbi> brmbrmcar: What programming language does it use?
+[2016/01/24 07:37:58] <brmbrmcar> C.
+[2016/01/24 07:38:19] <Tobbi> brmbrmcar: So you know C...Python is easy, you just need to get used to it.
+[2016/01/24 07:38:59] <brmbrmcar> I'll show you my problem.
+[2016/01/24 07:39:53] <brmbrmcar> Take objmap_sprite_object.py
+[2016/01/24 07:40:29] <brmbrmcar> It goes class ObjMapSpriteObject(ObjMapObject): Then there is no end to that.
+[2016/01/24 07:41:12] <Hume2> The change of padding serves as end.
+[2016/01/24 07:41:17] <Hume2> in python
+[2016/01/24 07:42:13] <brmbrmcar> It is terrible.
+[2016/01/24 07:42:40] <brmbrmcar> I don't even see one in that file.
+[2016/01/24 07:43:01] <Tobbi> brmbrmcar: You don't see indentation?
+[2016/01/24 07:43:05] <Tobbi> You should.
+[2016/01/24 07:43:18] <brmbrmcar> I see that.
+[2016/01/24 07:43:35] <brmbrmcar> But that is THE MOST AWFUL way of showing things.
+[2016/01/24 07:43:42] <Hume2> Tobbi: I found this: https://github.com/pybee/seasnake (didn't tested that)
+[2016/01/24 07:44:07] <Tobbi> Hume2: Sounds nice.
+[2016/01/24 07:44:11] <brmbrmcar> Indentation should be used to see the code more clearly ONLY.
+[2016/01/24 07:44:21] <brmbrmcar> Not to mess around with it!
+[2016/01/24 07:44:33] <Tobbi> brmbrmcar: It just needs some getting used to.
+[2016/01/24 07:44:57] <Hume2> It can be good, can be bad.
+[2016/01/24 07:45:00] <brmbrmcar> Tobbi:Yes, but it is one terrible language.
