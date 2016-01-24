@@ -47730,3 +47730,25 @@
 [2016/01/24 05:43:49] <brmbrmcar> Well, not that long.
 [2016/01/24 05:43:54] <brmbrmcar> Just seems like it.
 [2016/01/24 05:44:45] <Tobbi> Hume2: Create a worldmap out of them, give the levels sensible names...and then package it as an add-on.
+[2016/01/24 05:45:12] <Hume2> Tobbi: I plan it for the ultimate edition.
+[2016/01/24 05:45:36] <Hume2> Because each next edition is better, but contains totally different levels.
+[2016/01/24 05:46:20] <Tobbi> Hume2: You could have both of them as an add-on.
+[2016/01/24 05:46:53] <Hume2> I know, but that would be too much of trolling.
+[2016/01/24 05:47:01] <Tobbi> Hume2: huh? Trolling?
+[2016/01/24 05:48:12] <Tobbi> :D
+[2016/01/24 05:48:20] <Tobbi> Hume2: That's not how it works...
+[2016/01/24 05:49:04] <Tobbi> Hume2: Also +o doesn't work that way.
+[2016/01/24 05:49:04] <brmbrmcar> I'm gonna make brmbrmTux now.
+[2016/01/24 05:49:09] <Tobbi> This is still in the logs, I think.
+[2016/01/24 05:49:16] <Tobbi> brmbrmcar: Have fun.
+[2016/01/24 05:52:25] <Tobbi> mt: Oh, okay...
+[2016/01/24 05:52:48] <Tobbi> mt: So you just prepend (+o) ?
+[2016/01/24 05:53:23] <Hume2> Is there anyone curious of seeing TeraTux reborn 2nd edition?
+[2016/01/24 05:55:11] <Tobbi> Hume2: It'd be great if you could integrate that function into the python editor. I could help you with that probably.
+[2016/01/24 05:55:35] <Hume2> Tobbi: It's in C++, so it needs to rewrite.
+[2016/01/24 05:55:56] <Tobbi> Hume2: Can you at least put the code on github, no matter what state this is in?
+[2016/01/24 05:56:03] <Hume2> Tobbi: OK
+[2016/01/24 05:56:34] <brmbrmcar> How many MB is the 2nd edition?
+[2016/01/24 05:57:31] <Hume2> brmbrmcar: 17,7MB
+[2016/01/24 05:58:10] <brmbrmcar> OK.
+[2016/01/24 05:58:17] <brmbrmcar> I've got it anyway.
