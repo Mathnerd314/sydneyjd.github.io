@@ -48002,3 +48002,6 @@
 [2016/01/24 10:39:27] @ Hume2 joined channel #supertux
 [2016/01/24 10:39:27] @ Mode +v Hume2 by ChanServ
 [2016/01/24 10:39:33] @ Mathnerd314 joined channel #supertux
+[2016/01/24 10:47:26] @ Quit: leyyin: Ping timeout: 256 seconds
+[2016/01/24 10:56:58] @ alket_ joined channel #supertux
+[2016/01/24 10:57:47] @ Quit: alket: Ping timeout: 276 seconds
