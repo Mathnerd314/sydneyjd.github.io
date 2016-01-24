@@ -48174,3 +48174,6 @@
 [2016/01/24 12:56:58] <mt> early 2014
 [2016/01/24 12:59:21] <brmbrmcar> OK.
 [2016/01/24 13:11:07] @ Quit: DoctorVassilev: Quit: Page closed
+[2016/01/24 13:15:15] @ lumidify joined channel #supertux
+[2016/01/24 13:16:44] @ Quit: lumidify: Client Quit
+[2016/01/24 13:20:18] @ alket_ is now known as alket
