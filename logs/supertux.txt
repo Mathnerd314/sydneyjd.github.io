@@ -47806,3 +47806,16 @@
 [2016/01/24 07:44:33] <Tobbi> brmbrmcar: It just needs some getting used to.
 [2016/01/24 07:44:57] <Hume2> It can be good, can be bad.
 [2016/01/24 07:45:00] <brmbrmcar> Tobbi:Yes, but it is one terrible language.
+[2016/01/24 07:45:22] <Tobbi> brmbrmcar: No, it isn't.
+[2016/01/24 07:45:24] <brmbrmcar> Who made Python?
+[2016/01/24 07:45:31] <Hume2> brmbrmcar: Ever heard about basic?
+[2016/01/24 07:45:52] <brmbrmcar> What?
+[2016/01/24 07:45:55] <Tobbi> brmbrmcar: http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html python is 5th
+[2016/01/24 07:46:31] <brmbrmcar> That website was written in PHP.
+[2016/01/24 07:46:38] <brmbrmcar> I cannot take it seriously.
+[2016/01/24 07:50:14] <brmbrmcar> index.php/? Who the hell designed that website?
+[2016/01/24 07:50:21] <brmbrmcar> Is it Bad Code day?
+[2016/01/24 07:55:32] <leyyin> Python is easy
+[2016/01/24 07:55:33] <leyyin> duhhh
+[2016/01/24 07:55:36] <leyyin> captain obvious
+[2016/01/24 07:57:50] <brmbrmcar> I just can't believe that Python relies on indentation.
