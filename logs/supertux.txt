@@ -47632,3 +47632,41 @@
 [2016/01/24 04:57:18] <brmbrmcar> With the levels changed.
 [2016/01/24 04:58:38] <Hume2> I'll do something with it.
 [2016/01/24 04:59:00] <brmbrmcar> What?
+[2016/01/24 05:01:57] <Hume2> I mean put them into the levels.
+[2016/01/24 05:02:45] <brmbrmcar> OK.
+[2016/01/24 05:03:09] <brmbrmcar> I would do that, but it would end up having a load of commits.
+[2016/01/24 05:03:39] <Tobbi> brmbrmcar: Why loads of commits?
+[2016/01/24 05:03:52] <brmbrmcar> Only non-git method.
+[2016/01/24 05:04:04] <Tobbi> brmbrmcar: Learn git.
+[2016/01/24 05:04:08] <Tobbi> That's an order.
+[2016/01/24 05:04:14] <Tobbi> We should add that to the channel rules.
+[2016/01/24 05:04:18] <brmbrmcar> I know how to use git.
+[2016/01/24 05:04:24] <brmbrmcar> A bit.
+[2016/01/24 05:04:34] <Tobbi> brmbrmcar: What do you know?
+[2016/01/24 05:04:59] <brmbrmcar> git add, git clone, git push...
+[2016/01/24 05:05:31] <Tobbi> brmbrmcar: You might even know this magic tool called git commit.
+[2016/01/24 05:05:39] <brmbrmcar> I do.
+[2016/01/24 05:05:43] <Tobbi> okay...
+[2016/01/24 05:05:47] <Tobbi> brmbrmcar: So, you know the basics.
+[2016/01/24 05:05:53] <brmbrmcar> Yes.
+[2016/01/24 05:06:13] <brmbrmcar> But I don't know how to get enough space for it!
+[2016/01/24 05:06:19] <Tobbi> brmbrmcar: Bigger HDD?
+[2016/01/24 05:06:41] <brmbrmcar> THis has an SSD.
+[2016/01/24 05:06:57] <Tobbi> brmbrmcar: external HDD?
+[2016/01/24 05:07:02] <Tobbi> usb stick
+[2016/01/24 05:07:05] <Tobbi> whatever
+[2016/01/24 05:07:19] <brmbrmcar> I don't have one.
+[2016/01/24 05:07:41] <Tobbi> brmbrmcar: USB sticks are 5 EUR...
+[2016/01/24 05:07:46] <Tobbi> or w/e
+[2016/01/24 05:08:46] <brmbrmcar> I don't have 5 EUR.
+[2016/01/24 05:09:29] <Tobbi> brmbrmcar: You can afford a computer with an SSD...and you don't have 5 EUR.
+[2016/01/24 05:09:33] <Tobbi> Or GBP or whatever.
+[2016/01/24 05:10:35] <brmbrmcar> This has a 16 GB SSD.
+[2016/01/24 05:10:44] <brmbrmcar> Not a massive 128 GB one.
+[2016/01/24 05:12:02] <Tobbi> brmbrmcar: It's still an SSD.
+[2016/01/24 05:12:06] <Tobbi> Your laptop must be fairly new.
+[2016/01/24 05:13:07] <brmbrmcar> http://www.acer.com/ac/en/GB/content/model/NX.MQNEK.001
+[2016/01/24 05:13:26] <brmbrmcar> You'd never know it would run much, but it does.
+[2016/01/24 05:14:02] @ claymore2 joined channel #supertux
+[2016/01/24 05:14:12] <Tobbi> brmbrmcar: Hrm...that's not very good.
+[2016/01/24 05:14:29] <brmbrmcar> There. Told you.
