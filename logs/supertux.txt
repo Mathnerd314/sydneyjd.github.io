@@ -47986,3 +47986,5 @@
 [2016/01/24 08:49:51] <Tobbi> No connection between those two.
 [2016/01/24 08:49:53] <Tobbi> :D
 [2016/01/24 08:58:32] @ lumidify joined channel #supertux
+[2016/01/24 09:07:35] @ Karkus joined channel #supertux
+[2016/01/24 09:07:35] @ Mode +v Karkus by ChanServ
