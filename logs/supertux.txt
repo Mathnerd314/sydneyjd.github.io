@@ -47541,3 +47541,10 @@
 [2016/01/23 19:43:15] @ Quit: tuxdev_: Ping timeout: 240 seconds
 [2016/01/23 19:53:16] <pentagon> [10flexlay] 07Karkus476 commented on issue 09#71: Undo/Redo Crash 13https://github.com/SuperTux/flexlay/issues/71
 [2016/01/23 19:53:54] @ Quit: Karkus: Quit: Division By Zero
+[2016/01/23 20:33:12] <Tobbi> wooo...It looks like creating a project actually worked this time.
+[2016/01/23 20:43:49] <head8debian> Tobbi: o_O
+[2016/01/23 20:43:58] <Tobbi> head8debian: what?
+[2016/01/23 20:44:14] <head8debian> Tobbi: Nothing... thinking...
+[2016/01/23 20:44:28] <Tobbi> head8debian: thinking about what?
+[2016/01/23 20:44:40] <Tobbi> I know very well that it's 3am.
+[2016/01/23 20:44:50] <Tobbi> this time it's intended.
