@@ -48108,3 +48108,54 @@
 [2016/01/24 12:14:08] <Tobbi> mt: Who did something?
 [2016/01/24 12:14:34] <mt> DoctorVassilev; asking unrelated questions after I told them we can't answer all those here
 [2016/01/24 12:14:49] <Tobbi> ah ok
+[2016/01/24 12:15:34] <Tobbi> mt: Please let him talk again...Let's give him another chance.
+[2016/01/24 12:15:56] @ Mode +o mt by ChanServ
+[2016/01/24 12:15:59] @ Mode -qo *!*@*5.104.177.174 mt by mt
+[2016/01/24 12:16:59] @ Quit: Tobbi: 
+[2016/01/24 12:17:01] <DoctorVassilev> Thanks.
+[2016/01/24 12:17:16] <DoctorVassilev> I will stop that questions.
+[2016/01/24 12:17:24] <mt> ok then :)
+[2016/01/24 12:17:37] <DoctorVassilev> I want to ask how did SuperTux start?
+[2016/01/24 12:17:50] <DoctorVassilev> What is the story of your team?
+[2016/01/24 12:18:24] <DoctorVassilev> This is only and only a question that is exciting me to learn your story.
+[2016/01/24 12:18:39] <mt> the current team consists of people who came later, mostly
+[2016/01/24 12:18:52] <DoctorVassilev> The Bulgarian guy?
+[2016/01/24 12:19:03] <mt> which bulgarian guy?
+[2016/01/24 12:19:11] <DoctorVassilev> The other Vasilev.
+[2016/01/24 12:19:31] <DoctorVassilev> Maybe Martin (I am not sure).
+[2016/01/24 12:19:38] <mt> Vaislev? never heard of that name in context of a supertux contributor
+[2016/01/24 12:19:55] <mt> *Vasilev
+[2016/01/24 12:20:02] <DoctorVassilev> He is translator.
+[2016/01/24 12:20:29] <mt> well, we don't really know the translators, actually
+[2016/01/24 12:20:37] <mt> they usually don't show up on IRC
+[2016/01/24 12:20:43] <mt> as such, we don't know them
+[2016/01/24 12:21:03] <mt> at first, there was Bill Kendrick, the original developer of supertux
+[2016/01/24 12:21:43] <DoctorVassilev> It is Lyubomir.
+[2016/01/24 12:22:01] <DoctorVassilev> https://www.transifex.com/user/profile/lyubomirv/ -> Here.
+[2016/01/24 12:22:09] <DoctorVassilev> Is he new?
+[2016/01/24 12:22:26] <mt> Bill Kendrick was later joined by Tobias Gläßer and Ricardo Cruz as maintainers
+[2016/01/24 12:22:33] <mt> DoctorVassilev: we don't know
+[2016/01/24 12:22:54] <mt> we don't really care about the translators if they don't join IRC, or regularly report issues on GitHub
+[2016/01/24 12:23:12] <DoctorVassilev> I will join IRC.
+[2016/01/24 12:23:21] <mt> you are already on IRC
+[2016/01/24 12:23:34] <DoctorVassilev> Tobias Markus accepted me on Transifex.
+[2016/01/24 12:23:42] <mt> yeah that's Tobbi
+[2016/01/24 12:23:47] <DoctorVassilev> I know.
+[2016/01/24 12:23:54] <mt> so history lesson again?
+[2016/01/24 12:24:08] <DoctorVassilev> Yes.
+[2016/01/24 12:24:10] <DoctorVassilev> Go on.
+[2016/01/24 12:24:44] <mt> then some German developers, including grumbel, who's still active sometimes took over the project
+[2016/01/24 12:24:56] <mt> most of them were German, not all
+[2016/01/24 12:25:12] <mt> there's http://supertux.lethargik.org/wiki/Team for that
+[2016/01/24 12:25:33] <mt> after it was abandoned mostly by them
+[2016/01/24 12:25:43] <mt> LMH and ctdabomb took over
+[2016/01/24 12:25:49] <mt> and Hume2
+[2016/01/24 12:25:58] @ Hume2_ joined channel #supertux
+[2016/01/24 12:25:59] @ Mode +v Hume2_ by ChanServ
+[2016/01/24 12:26:19] <mt> later, giby and Tobbi took over most of the dev stuff
+[2016/01/24 12:26:27] @ Quit: Hume2: Ping timeout: 252 seconds
+[2016/01/24 12:26:28] <mt> I joined a bit later
+[2016/01/24 12:26:52] <DoctorVassilev> So you know a lot of the story.
+[2016/01/24 12:27:17] <mt> then last year, head8debian, Kark_us mat_hs22 and Hume_2 again (remove the underscores)
+[2016/01/24 12:28:10] <DoctorVassilev> I shall get on the Windows 10 part, since you do not really care of it.
+[2016/01/24 12:28:49] -ChanServ- mt (mteufel) set flags -ORSfrs on LMH
