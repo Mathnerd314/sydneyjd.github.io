@@ -48186,3 +48186,4 @@
 [2016/01/24 17:43:27] @ tux|dude joined channel #supertux
 [2016/01/24 17:57:18] @ Quit: tuxdev_: Ping timeout: 272 seconds
 [2016/01/24 18:10:15] @ irungentoo joined channel #supertux
+[2016/01/24 18:25:55] @ Quit: Karkus: Ping timeout: 240 seconds
