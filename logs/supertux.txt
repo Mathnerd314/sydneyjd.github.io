@@ -47824,3 +47824,54 @@
 [2016/01/24 08:12:28] @ Mode +o Karkus by ChanServ
 [2016/01/24 08:14:42] <Tobbi> Karkus: Hume2 has written something which allows him to create arbitrary (random) icy terrain in levels... https://github.com/Hume2/level_gen
 [2016/01/24 08:14:54] <Tobbi> This would be great for the editor, actually. :)
+[2016/01/24 08:15:28] <Karkus> Tobbi: Except, it's also written in czech
+[2016/01/24 08:15:45] <Tobbi> Karkus: He's looking into changing this into English...
+[2016/01/24 08:15:47] <Tobbi> So, no problem there.
+[2016/01/24 08:16:13] <Hume2> I didn't expected that this will be ever used for another thing.
+[2016/01/24 08:16:21] <Karkus> Tobbi: Okay. Hume2 already made an issue on flexlays issue page
+[2016/01/24 08:16:27] <Tobbi> Ah, okay...
+[2016/01/24 08:16:36] <Karkus> Hume2: But the concept, and the basis of the algorithm etc.
+[2016/01/24 08:17:19] <Tobbi> Hume2: If you can convert that to Python, this would be great.
+[2016/01/24 08:17:45] <Hume2> Would you like to implement only the terrain generator or whole the generator?
+[2016/01/24 08:17:54] <mt> Hume2: ಠ_ಠ ಠ_ಠ ಠ_ಠ ಠ_ಠ ಠ_ಠ .h for C++ headers
+[2016/01/24 08:18:16] <Hume2> mt: It's default in QT Creator.
+[2016/01/24 08:18:33] <mt> that confused me recently when some idiot used .cpp and .h in a standard C project
+[2016/01/24 08:18:47] <mt> actually the same idiot who's been spamming #freenode for days now
+[2016/01/24 08:19:25] <mt> actually it was .c and .h containing C++ code
+[2016/01/24 08:20:42] <Karkus> Tobbi: It's not as simple as translating to Python, because we already have sector, level and tilemap classes, and they are fine at writing to files. All we need is access through the editor, a wizard and the background generator
+[2016/01/24 08:21:00] <Tobbi> Karkus: Actually, you're right...
+[2016/01/24 08:21:01] <mt> why even translate it to python when there's a C++ version
+[2016/01/24 08:21:08] <mt> C++ should be much faster
+[2016/01/24 08:21:15] <Karkus> mt: For use in the python editor
+[2016/01/24 08:21:27] <mt> doesn't python have an API for C/C++
+[2016/01/24 08:21:39] <Tobbi> If that allows us to get the datastream...
+[2016/01/24 08:21:42] <Karkus> mt: Yes, but I don't think we want to use it.
+[2016/01/24 08:21:56] <Hume2> Good note.
+[2016/01/24 08:22:10] <Karkus> mt: That's going to harm compatability
+[2016/01/24 08:22:19] <Hume2> If you want, I can explain you my terrain generation algorithm.
+[2016/01/24 08:22:32] <Tobbi> If anyone knows anything about iphone development, go ahead and tell me.
+[2016/01/24 08:22:40] <Tobbi> I am having trouble recording to a buffer...
+[2016/01/24 08:22:46] <mt> Karkus: just make in an external module and only load it when it's available
+[2016/01/24 08:22:59] <mt> the external module can then be easily published to pypi
+[2016/01/24 08:23:43] <Karkus> mt: Do you really think that's necessary though?
+[2016/01/24 08:24:50] <Karkus> mt: Also, it's still written in Czech... and Hume2 is the only one who speaks Czech around here (and Narre I guess)
+[2016/01/24 08:25:02] <mt> Yeah that can be translated
+[2016/01/24 08:25:12] <mt> https://docs.python.org/3/extending/extending.html
+[2016/01/24 08:26:39] @ Quit: Hume2: Ping timeout: 252 seconds
+[2016/01/24 08:27:04] @ Hume2 joined channel #supertux
+[2016/01/24 08:27:05] @ Mode +o Hume2 by ChanServ
+[2016/01/24 08:27:19] <mt> by the way
+[2016/01/24 08:27:26] <mt> because many ops are here right now
+[2016/01/24 08:27:35] <mt> should we keep ops always opped
+[2016/01/24 08:27:50] <mt> or should we just voice the ops
+[2016/01/24 08:27:54] <mt> and op up when needed
+[2016/01/24 08:28:06] <Tobbi> I really don't care...
+[2016/01/24 08:28:11] <Hume2> Anyway do you need whole generator or just a part?
+[2016/01/24 08:28:47] <mt> I guess having a generator in the level editor would be a silly idea anyway
+[2016/01/24 08:29:01] <mt> Hume2: what do you think about ops being always opped?
+[2016/01/24 08:29:11] <Hume2> I'm not sure.
+[2016/01/24 08:29:13] <mt> freenode recommends channels not to do that
+[2016/01/24 08:29:35] <brmbrmcar> How about some ops auto-op, and others don't.
+[2016/01/24 08:29:41] <Hume2> Is there a clever thing that ops the people only when needed?
+[2016/01/24 08:29:41] <Karkus> mt: No, the terrain generator generates the terrain, then you build upon and change that.
+[2016/01/24 08:29:43] <brmbrmcar> JUst auto-voice.
