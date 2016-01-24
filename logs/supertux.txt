@@ -47591,3 +47591,10 @@
 [2016/01/23 20:57:34] <head8debian> Ah, fun... not.
 [2016/01/23 20:57:44] <head8debian> Heh.
 [2016/01/23 20:59:57] <Tobbi> head8debian: There are some more keys when you search for my full name https://sks-keyservers.net/pks/lookup?op=vindex&search=Tobias+Markus
+[2016/01/23 21:03:06] <head8debian> Never mind...
+[2016/01/23 21:03:58] <Tobbi> head8debian: It's okay...
+[2016/01/23 21:04:06] <Tobbi> Anyway, good night.
+[2016/01/23 21:06:24] <head8debian> Tobbi: Good night. ;)
+[2016/01/23 21:07:12] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/23 21:07:47] @ Jesusaves joined channel #supertux
+[2016/01/23 21:11:23] @ Quit: jesusalva: Ping timeout: 265 seconds
