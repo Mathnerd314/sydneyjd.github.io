@@ -48013,3 +48013,55 @@
 [2016/01/24 11:44:35] <DoctorVassilev> Hi
 [2016/01/24 11:44:40] <DoctorVassilev> Back
 [2016/01/24 11:44:54] <DoctorVassilev> Now on my Windows PC.
+[2016/01/24 11:45:15] <DoctorVassilev> Where are the levels?
+[2016/01/24 11:45:20] <DoctorVassilev> Creator...
+[2016/01/24 11:45:32] <DoctorVassilev> For Windows.
+[2016/01/24 11:47:34] <mt> flexlay doesn't support windows yet
+[2016/01/24 11:47:44] <DoctorVassilev> ...
+[2016/01/24 11:47:48] <mt> the old editor does, but no one really knows how to compile that for windows
+[2016/01/24 11:48:05] <DoctorVassilev> Can I compile the .git?
+[2016/01/24 11:48:19] <mt> which .git?
+[2016/01/24 11:48:28] <DoctorVassilev> That you gave me.
+[2016/01/24 11:49:03] <DoctorVassilev> Where is my friend Hume?
+[2016/01/24 11:49:12] <DoctorVassilev> Is he AFK?
+[2016/01/24 11:49:50] <mt> are you talking about Hume2?
+[2016/01/24 11:50:03] <mt> he was online some 30 minutes ago
+[2016/01/24 11:50:40] <mt> DoctorVassilev: which .git? I linked you to the flexlay-git install guide, flexlay doesn't yet support windows
+[2016/01/24 11:51:44] <DoctorVassilev> that is it
+[2016/01/24 11:52:00] @ leyyin joined channel #supertux
+[2016/01/24 11:52:01] <DoctorVassilev> But I saw there is one that can be used on windows.
+[2016/01/24 11:52:09] <mt> yes the old one
+[2016/01/24 11:52:20] <mt> but no one really knows how to compile that for windows
+[2016/01/24 11:52:25] <mt> already told you that
+[2016/01/24 11:52:26] <DoctorVassilev> That is included in the old version?
+[2016/01/24 11:53:00] <DoctorVassilev> I mean the Built-In milestone 1 editor?
+[2016/01/24 11:53:15] <mt> don't use milestone 1. don't use its editor
+[2016/01/24 11:53:21] <mt> http://supertux.lethargik.org/wiki/Editor_Guide#Windows
+[2016/01/24 11:53:22] <DoctorVassilev> Ok.
+[2016/01/24 11:54:06] <DoctorVassilev> I will try.
+[2016/01/24 11:54:18] <mt> the editor guide (see wiki link) has instructions for windows, but these might not work with windows 8, 8.1 or 10
+[2016/01/24 11:54:19] <DoctorVassilev> If I get it will make a tutorial.
+[2016/01/24 11:54:37] <mt> windows isn't our primary platform
+[2016/01/24 11:54:47] <DoctorVassilev> It is Linux I know.
+[2016/01/24 11:55:12] <DoctorVassilev> But make SuperTux for Freya (ElementaryOS)
+[2016/01/24 11:55:29] <DoctorVassilev> It is kinda Windows and Mac replacement.
+[2016/01/24 11:55:35] <DoctorVassilev> It is totally free.
+[2016/01/24 11:55:37] <mt> so now you're using elementaryOS? uh
+[2016/01/24 11:55:42] <DoctorVassilev> No.
+[2016/01/24 11:55:50] <DoctorVassilev> But going to use.
+[2016/01/24 11:55:59] <mt> elementaryOS is an ubuntu-based Linux distribution
+[2016/01/24 11:56:03] <DoctorVassilev> I know.
+[2016/01/24 11:56:18] <DoctorVassilev> Does this mean: sudo apt-get?
+[2016/01/24 11:56:18] @ Quit: nerdopolis_: Ping timeout: 272 seconds
+[2016/01/24 11:56:22] <mt> you might want to try our ubuntu packages
+[2016/01/24 11:56:38] <mt> or try to compile yourself if these don't work
+[2016/01/24 11:56:46] <DoctorVassilev> Make .tar.gz
+[2016/01/24 11:57:05] <DoctorVassilev> I am like a Minecraft Developer.
+[2016/01/24 11:58:20] <DoctorVassilev> You have only 32-bit?
+[2016/01/24 11:58:30] <DoctorVassilev> I am using 64-bit CPU.
+[2016/01/24 11:58:33] @ nerdopolis_ joined channel #supertux
+[2016/01/24 11:58:45] <DoctorVassilev> I know that it works.
+[2016/01/24 11:58:47] <mt> you can still use 32 bit binaries on 64 bit CPUs
+[2016/01/24 11:59:02] <mt> we don't provide builds for every possible configuration
+[2016/01/24 11:59:10] <DoctorVassilev> But my other PC is on 32 bit.
+[2016/01/24 11:59:10] <mt> especially, if it works otherwise
