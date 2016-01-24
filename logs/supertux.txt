@@ -47548,3 +47548,46 @@
 [2016/01/23 20:44:28] <Tobbi> head8debian: thinking about what?
 [2016/01/23 20:44:40] <Tobbi> I know very well that it's 3am.
 [2016/01/23 20:44:50] <Tobbi> this time it's intended.
+[2016/01/23 20:45:04] <head8debian> Tobbi: Im debating weather or not to open another paypal account under another email address.
+[2016/01/23 20:45:23] <Tobbi> head8debian: debating weather is just as bad as debating politics.
+[2016/01/23 20:45:29] <head8debian> Tobbi: True.
+[2016/01/23 20:45:29] <Tobbi> Different opinions.
+[2016/01/23 20:45:53] <Tobbi> damn.
+[2016/01/23 20:46:02] <Tobbi> Visual Studio in a VM is a pain...
+[2016/01/23 20:46:08] <head8debian> jesusalva: Why are you requesting a CTCP version from me?
+[2016/01/23 20:46:12] <head8debian> Hehe.
+[2016/01/23 20:46:16] <head8debian> Windows is a pain.
+[2016/01/23 20:46:19] <jesusalva> Who?
+[2016/01/23 20:46:23] <Tobbi> When did he do that?
+[2016/01/23 20:46:24] <head8debian> Computers are a pain.
+[2016/01/23 20:46:36] <jesusalva> head8debian: That was a few days ago, wasn't it? =P
+[2016/01/23 20:46:47] <head8debian> jesusalva: Yesterday. :D
+[2016/01/23 20:46:52] <jesusalva> And I told you, I wanted to make sure you were still on IRSSI...
+[2016/01/23 20:46:54] <jesusalva> =P
+[2016/01/23 20:47:02] * head8debian didn't know...
+[2016/01/23 20:47:11] <jesusalva> Now if you excuse, I have some mobs to kill on #tmw-br =)
+[2016/01/23 20:47:22] <head8debian> jesusalva: Hehe. Need help? ;p
+[2016/01/23 20:47:48] <Tobbi> tmw-br?
+[2016/01/23 20:47:57] <jesusalva> I'm a Game Master, so if things get ugly I'll just ask map-server to kill all mobs and done. =P
+[2016/01/23 20:48:06] <head8debian> Ah, hehe.
+[2016/01/23 20:48:09] <jesusalva> =)
+[2016/01/23 20:48:28] <head8debian> Do any of you use PGP?
+[2016/01/23 20:48:34] <head8debian> GPG* One or the other. ;p
+[2016/01/23 20:48:53] <Tobbi> head8debian: I used to... but my keys are expired, I think.
+[2016/01/23 20:49:00] <jesusalva> Tobbi: tmw-br is only in Brazilian. For a version with English and German, please see #themanaworld =)
+[2016/01/23 20:49:34] <Tobbi> i se
+[2016/01/23 20:49:34] <head8debian> Tobbi: o_O
+[2016/01/23 20:49:36] <Tobbi> e
+[2016/01/23 20:49:43] <Tobbi> head8debian: What?
+[2016/01/23 20:50:31] <head8debian> Tobbi: Good grief, if your going to use it remeber if your keys have expired. :p
+[2016/01/23 20:50:35] * head8debian check the keyservers...
+[2016/01/23 20:50:55] <Tobbi> head8debian: actually https://sks-keyservers.net/pks/lookup?op=vindex&search=tobbi
+[2016/01/23 20:52:08] * head8debian coughs...
+[2016/01/23 20:52:15] <head8debian> It seems you have more than a couple.
+[2016/01/23 20:53:17] <Tobbi> head8debian: I don't have the corresponding private keys nor the revocation certificate.
+[2016/01/23 20:53:26] <Tobbi> Or, actually, I might have...
+[2016/01/23 20:54:13] <Tobbi> head8debian: Also, only three of those e-mail addresses are mine.
+[2016/01/23 20:54:19] <Tobbi> And one of the keys is already expired.
+[2016/01/23 20:57:34] <head8debian> Ah, fun... not.
+[2016/01/23 20:57:44] <head8debian> Heh.
+[2016/01/23 20:59:57] <Tobbi> head8debian: There are some more keys when you search for my full name https://sks-keyservers.net/pks/lookup?op=vindex&search=Tobias+Markus
