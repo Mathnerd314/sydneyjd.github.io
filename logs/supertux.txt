@@ -47624,3 +47624,11 @@
 [2016/01/24 04:23:13] @ Mode +o Tobbi by ChanServ
 [2016/01/24 04:26:37] @ Hume2 joined channel #supertux
 [2016/01/24 04:26:38] @ Mode +o Hume2 by ChanServ
+[2016/01/24 04:45:27] <brmbrmcar> https://paste.kde.org/pmiypimex
+[2016/01/24 04:54:16] <Tobbi> brmbrmcar: What is that link?
+[2016/01/24 04:56:01] <Hume2> Tobbi: I think that these are the target times.
+[2016/01/24 04:56:26] <Tobbi> Ah, probablz.
+[2016/01/24 04:57:02] <brmbrmcar> I was going toupload the zip, but didn't know where to.
+[2016/01/24 04:57:18] <brmbrmcar> With the levels changed.
+[2016/01/24 04:58:38] <Hume2> I'll do something with it.
+[2016/01/24 04:59:00] <brmbrmcar> What?
