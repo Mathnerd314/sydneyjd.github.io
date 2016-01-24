@@ -47670,3 +47670,26 @@
 [2016/01/24 05:14:02] @ claymore2 joined channel #supertux
 [2016/01/24 05:14:12] <Tobbi> brmbrmcar: Hrm...that's not very good.
 [2016/01/24 05:14:29] <brmbrmcar> There. Told you.
+[2016/01/24 05:16:26] @ Quit: stewboy: Read error: Connection reset by peer
+[2016/01/24 05:20:08] <mt> >16GB
+[2016/01/24 05:20:23] <mt> aren't chromebooks supposed to be used as actual computers?
+[2016/01/24 05:20:32] <mt> oh wait there's this thing
+[2016/01/24 05:20:38] <mt> called "the cloud"
+[2016/01/24 05:20:49] <brmbrmcar> I'm on Ubuntu!
+[2016/01/24 05:21:23] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://github.com/SuperTux/supertux/compare/7c5d44239f0d...74f15c626739
+[2016/01/24 05:21:27] <pentagon> [10supertux] 07Hume2 1474f15c6 Added target times to some World1 levels on brmbrmcar's request
+[2016/01/24 05:21:56] <mt> brmbrmcar: 491M supertux
+[2016/01/24 05:22:00] <mt> not enough space for that?
+[2016/01/24 05:22:59] <mt> if I'd have less that 500 MB disk space available I'd generally run to the next store and buy me a new disk >_>
+[2016/01/24 05:23:08] <brmbrmcar> I have two different reports of space.
+[2016/01/24 05:23:26] <brmbrmcar> If i'm under 2GB according to Chrome OS, TERROR!
+[2016/01/24 05:23:30] <mt> "reports of space"?
+[2016/01/24 05:24:06] <brmbrmcar> Ubuntu says 4.0 GB, but Chrome OS says 3.2 GB.
+[2016/01/24 05:24:28] <mt> can you pastebin the output of `df -kh` on ubuntu
+[2016/01/24 05:25:07] <mt> 211M supertux is when cloned with --depth 1
+[2016/01/24 05:26:31] <brmbrmcar> https://paste.kde.org/pvkomddvb
+[2016/01/24 05:28:24] <mt> looks like chrome os uses the disk space of /dev/mapper/encstateful
+[2016/01/24 05:28:35] <mt> (encryoted partition)
+[2016/01/24 05:28:44] <mt> encrypted even
+[2016/01/24 05:28:52] <Hume2> Ready for TeraTux REBORN 2nd edition?
+[2016/01/24 05:29:28] @ Hume2 has been kicked from #supertux by mt (please don't)
