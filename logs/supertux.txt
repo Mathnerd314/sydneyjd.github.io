@@ -47598,3 +47598,4 @@
 [2016/01/23 21:07:12] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/23 21:07:47] @ Jesusaves joined channel #supertux
 [2016/01/23 21:11:23] @ Quit: jesusalva: Ping timeout: 265 seconds
+[2016/01/23 21:15:21] <swift110_> hey all
