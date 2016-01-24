@@ -47819,3 +47819,8 @@
 [2016/01/24 07:55:33] <leyyin> duhhh
 [2016/01/24 07:55:36] <leyyin> captain obvious
 [2016/01/24 07:57:50] <brmbrmcar> I just can't believe that Python relies on indentation.
+[2016/01/24 08:01:50] <Tobbi> :D
+[2016/01/24 08:12:27] @ Karkus joined channel #supertux
+[2016/01/24 08:12:28] @ Mode +o Karkus by ChanServ
+[2016/01/24 08:14:42] <Tobbi> Karkus: Hume2 has written something which allows him to create arbitrary (random) icy terrain in levels... https://github.com/Hume2/level_gen
+[2016/01/24 08:14:54] <Tobbi> This would be great for the editor, actually. :)
