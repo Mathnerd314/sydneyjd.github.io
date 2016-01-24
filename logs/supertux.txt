@@ -48179,3 +48179,4 @@
 [2016/01/24 13:20:18] @ alket_ is now known as alket
 [2016/01/24 15:03:56] @ claymore2 joined channel #supertux
 [2016/01/24 15:05:27] @ Quit: ced117: Quit: Quitte
+[2016/01/24 15:21:16] @ Quit: alket: Quit: Good night!
