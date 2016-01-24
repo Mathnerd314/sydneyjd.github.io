@@ -47539,3 +47539,5 @@
 [2016/01/23 19:33:29] @ Quit: swift110: Read error: Connection reset by peer
 [2016/01/23 19:34:57] @ xet7 joined channel #supertux
 [2016/01/23 19:43:15] @ Quit: tuxdev_: Ping timeout: 240 seconds
+[2016/01/23 19:53:16] <pentagon> [10flexlay] 07Karkus476 commented on issue 09#71: Undo/Redo Crash 13https://github.com/SuperTux/flexlay/issues/71
+[2016/01/23 19:53:54] @ Quit: Karkus: Quit: Division By Zero
