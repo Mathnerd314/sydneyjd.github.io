@@ -47693,3 +47693,40 @@
 [2016/01/24 05:28:44] <mt> encrypted even
 [2016/01/24 05:28:52] <Hume2> Ready for TeraTux REBORN 2nd edition?
 [2016/01/24 05:29:28] @ Hume2 has been kicked from #supertux by mt (please don't)
+[2016/01/24 05:30:17] @ Hume2 joined channel #supertux
+[2016/01/24 05:30:17] @ Mode +o Hume2 by ChanServ
+[2016/01/24 05:30:21] <Hume2> OK, mt.
+[2016/01/24 05:30:49] <mt> sure, let's add TeraTux REBORN to the main repo :D
+[2016/01/24 05:31:13] <Hume2> mt: I don't want that.
+[2016/01/24 05:31:31] <brmbrmcar> What is Teratux REBORN?
+[2016/01/24 05:31:48] <Hume2> I don't even want to add it anywhere to our repos.
+[2016/01/24 05:31:54] <mt> "To increase your angriness level, we recommend playing TeraTux REBORN 2nd edition twice a day."
+[2016/01/24 05:32:25] <brmbrmcar> Where is it?
+[2016/01/24 05:32:31] <Hume2> May I post the link to 1st edition?
+[2016/01/24 05:32:58] <mt> yes
+[2016/01/24 05:33:09] <Hume2> https://www.dropbox.com/s/wwsjjeys94ts4as/tt_reborn1.zip?dl=0
+[2016/01/24 05:33:18] <Hume2> It's the first edition.
+[2016/01/24 05:33:49] <mt> <sub><small>For risks and side effects, please consult your doctor or pharmacist</small></sub>
+[2016/01/24 05:34:01] <Tobbi> :D
+[2016/01/24 05:34:06] <Hume2> :D
+[2016/01/24 05:34:13] <Tobbi> not sure I even want to take a look at that link.
+[2016/01/24 05:35:26] @ leyyin joined channel #supertux
+[2016/01/24 05:35:42] <brmbrmcar> I'm playing it.
+[2016/01/24 05:36:58] <brmbrmcar> THat cost me 23MB!
+[2016/01/24 05:37:37] <Hume2> You don't have to play it whole.
+[2016/01/24 05:38:15] <mt> my great browser addon prevents me from doing the mistake of downloading it!
+[2016/01/24 05:40:57] <Tobbi> :D
+[2016/01/24 05:41:00] <Tobbi> mt: Which one is it?
+[2016/01/24 05:41:05] <Hume2> It isn't an addon.
+[2016/01/24 05:41:20] <Hume2> And never will be.
+[2016/01/24 05:41:34] <mt> Tobbi: uMatrix
+[2016/01/24 05:41:51] <Tobbi> mt: Ah, okay, I only have uBlock installed
+[2016/01/24 05:41:58] <mt> it lets you allow/disallow specific network actions
+[2016/01/24 05:42:10] <mt> by default, all non-first-party JS is blocked
+[2016/01/24 05:43:12] <Tobbi> Hume2: The first level actually isn't that bad.
+[2016/01/24 05:43:20] <Tobbi> Just taken a look at it.
+[2016/01/24 05:43:39] <brmbrmcar> It is very long.
+[2016/01/24 05:43:48] <Hume2> Tobbi: Thanks, I've played it whole and no level seems me bad though.
+[2016/01/24 05:43:49] <brmbrmcar> Well, not that long.
+[2016/01/24 05:43:54] <brmbrmcar> Just seems like it.
+[2016/01/24 05:44:45] <Tobbi> Hume2: Create a worldmap out of them, give the levels sensible names...and then package it as an add-on.
