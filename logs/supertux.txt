@@ -47757,3 +47757,6 @@
 [2016/01/24 06:08:22] @ Quit: claymore2: Ping timeout: 250 seconds
 [2016/01/24 06:13:15] @ claymore2 joined channel #supertux
 [2016/01/24 06:13:22] @ lumidify joined channel #supertux
+[2016/01/24 06:58:11] @ Hume2 joined channel #supertux
+[2016/01/24 06:58:12] @ Mode +o Hume2 by ChanServ
+[2016/01/24 06:58:24] <Hume2> I'm back.
