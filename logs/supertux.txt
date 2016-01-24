@@ -47495,3 +47495,42 @@
 [2016/01/23 19:12:57] @ bb010g joined channel #supertux
 [2016/01/23 19:14:26] <head8debian> Tobbi: Uhm, no.
 [2016/01/23 19:14:40] <Tobbi> head8debian: Are you sure?
+[2016/01/23 19:15:01] <head8debian> Tobbi: Do you really trust him with such privelages?
+[2016/01/23 19:15:08] <Tobbi> head8debian: No.
+[2016/01/23 19:15:45] <Tobbi> I was probably kidding.
+[2016/01/23 19:15:54] <head8debian> Tobbi: And it would probably be better to ask such questions with mt or Karkus or such.
+[2016/01/23 19:16:15] <Tobbi> head8debian: Yeah...But he might have the potential to get added one day...
+[2016/01/23 19:16:25] <Tobbi> If he shows serious intent...
+[2016/01/23 19:16:28] <head8debian> Maybe one day.
+[2016/01/23 19:16:49] <Tobbi> head8debian: I mean some of his contributions are...okay'ish
+[2016/01/23 19:17:55] <Karkus> Tobbi: No. Maybe I sucked at git too when I was added, I was also not stupid enough to do anything... damaging...
+[2016/01/23 19:18:14] <Tobbi> Karkus: Okay, then. :)
+[2016/01/23 19:18:24] <Tobbi> Karkus: I got Visual Studio to work, kind of...
+[2016/01/23 19:18:32] <Karkus> Tobbi: Kind of?
+[2016/01/23 19:19:04] <Karkus> Tobbi: Also, that's not to say I don't think he could be a good contributor, of course
+[2016/01/23 19:19:18] <Tobbi> Karkus: Meaning it kind of wants to create a project and doesn't fail with a cryptic error message, but with a rather verbose one which might even be making sense...
+[2016/01/23 19:19:26] <Tobbi> ...but I still don't understand why it fails. :D
+[2016/01/23 19:19:59] <Tobbi> It's telling me to install Xamarin, but last time I checked, this is already installed.
+[2016/01/23 19:20:04] <Tobbi> Maybe I should reinstall it.
+[2016/01/23 19:20:39] <Karkus> Tobbi: Why do you need to use VS?
+[2016/01/23 19:21:04] <Tobbi> Karkus: To develop a cross-platform-plugin for Xamarin. Ironic, isn't it?
+[2016/01/23 19:21:27] <Karkus> I guess :P
+[2016/01/23 19:21:45] <Tobbi> I guess reinstalling Xamarin should do the trick.
+[2016/01/23 19:21:49] <Tobbi> *sigh*
+[2016/01/23 19:22:14] <Karkus> Have you tried turning it off and on again? ;)
+[2016/01/23 19:22:52] <Tobbi> :D
+[2016/01/23 19:23:20] <Tobbi> Karkus: I tried calling 01189998819991197253 about it. They said this wasn't an emergency.
+[2016/01/23 19:23:38] <Karkus> Tobbi: Damn.
+[2016/01/23 19:23:46] <Karkus> :D
+[2016/01/23 19:24:00] <Tobbi> Karkus: I got that number remembered, by the way, for emergencies.
+[2016/01/23 19:24:02] <Tobbi> :D
+[2016/01/23 19:24:53] <Karkus> Tobbi: Maybe that's a good idea
+[2016/01/23 19:25:17] <Tobbi> Karkus: tbh, my synesthesia helps a lot when it comes to remembering pointless stuff like this one.
+[2016/01/23 19:25:26] <Tobbi> synesthesia + ocd = no good combination.
+[2016/01/23 19:25:52] <Karkus> sysesthesia? Is that associating numbers with colours?
+[2016/01/23 19:26:03] <Tobbi> Karkus: Exactly.
+[2016/01/23 19:26:43] <Karkus> I guess more useful would be associating numbers with their prime factors
+[2016/01/23 19:27:14] <Tobbi> Karkus: :D Daniel Tammet might be able to do that.
+[2016/01/23 19:27:47] <Karkus> Looking him up, I recognise him.
+[2016/01/23 19:28:07] <Karkus> Tobbi: I think I watched a documentry about him
+[2016/01/23 19:29:01] <Tobbi> I started reading a book about him.
