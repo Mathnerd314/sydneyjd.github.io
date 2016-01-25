@@ -48224,3 +48224,15 @@
 [2016/01/25 10:42:30] @ Tobbi joined channel #supertux
 [2016/01/25 10:42:31] @ Mode +v Tobbi by ChanServ
 [2016/01/25 10:44:48] <head8debian> Hola Tobbi.
+[2016/01/25 10:45:05] <Tobbi> Common cava...
+[2016/01/25 10:45:22] <Tobbi> *comment ca va.
+[2016/01/25 10:45:29] <Tobbi> I'm happy giby isn't here.
+[2016/01/25 10:45:52] <head8debian> Why?
+[2016/01/25 10:46:08] <Tobbi> head8debian: Because the above was French.
+[2016/01/25 10:46:12] <Tobbi> And it was totally wrong.
+[2016/01/25 10:47:19] <head8debian> Oh.
+[2016/01/25 10:48:13] <Tobbi> head8debian: Always remember: Whenever you say "oh", you sound like Tanner.
+[2016/01/25 10:48:19] <Tobbi> And, believe me, you don't want that.
+[2016/01/25 10:55:31] <Tobbi> head8debian: seen this? http://forum.freegamedev.net/viewtopic.php?f=68&t=6762
+[2016/01/25 10:57:35] <head8debian> Tobbi: No i havent.
+[2016/01/25 10:57:50] <Tobbi> head8debian: What do you think of this?
