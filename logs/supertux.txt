@@ -48211,3 +48211,5 @@
 [2016/01/25 06:30:55] @ xet7 joined channel #supertux
 [2016/01/25 06:44:37] @ datahead8888_ joined channel #supertux
 [2016/01/25 06:47:38] @ Quit: datahead8888: Ping timeout: 256 seconds
+[2016/01/25 07:35:30] <pentagon> [10supertux] 07tobbi commented on issue 09#343: Fix reset point being reactivated after restarting level 13https://github.com/SuperTux/supertux/pull/343
+[2016/01/25 07:36:36] <pentagon> [10supertux] 07tobbi commented on issue 09#334: Haywire bomb game crash  13https://github.com/SuperTux/supertux/issues/334
