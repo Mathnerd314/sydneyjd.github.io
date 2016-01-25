@@ -48192,3 +48192,5 @@
 [2016/01/24 21:11:42] @ Quit: datahead7777: Read error: Connection reset by peer
 [2016/01/24 21:14:16] @ datahead8888 joined channel #supertux
 [2016/01/24 21:44:14] @ datahead8888 is now known as datahead7777
+[2016/01/24 21:47:04] @ Quit: tux|dude: Quit: Leaving
+[2016/01/24 21:56:46] @ tuxdev_ joined channel #supertux
