@@ -48219,3 +48219,8 @@
 [2016/01/25 10:04:07] <head8debian> 'Mornin all.
 [2016/01/25 10:23:16] <jesusalva> Afternoon, head8debian.
 [2016/01/25 10:25:03] @ jesusalva is now known as jesusalva_
+[2016/01/25 10:34:33] <brmbrmcar> Hello.
+[2016/01/25 10:39:14] <pentagon> [10supertux] 07brmbrmcar commented on issue 09#334: Haywire bomb game crash  13https://github.com/SuperTux/supertux/issues/334
+[2016/01/25 10:42:30] @ Tobbi joined channel #supertux
+[2016/01/25 10:42:31] @ Mode +v Tobbi by ChanServ
+[2016/01/25 10:44:48] <head8debian> Hola Tobbi.
