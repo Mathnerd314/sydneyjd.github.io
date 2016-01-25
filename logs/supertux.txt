@@ -48216,3 +48216,4 @@
 [2016/01/25 08:47:16] @ jesusalva joined channel #supertux
 [2016/01/25 09:30:36] @ tuxdev_ joined channel #supertux
 [2016/01/25 09:50:02] @ Mathnerd314 joined channel #supertux
+[2016/01/25 10:04:07] <head8debian> 'Mornin all.
