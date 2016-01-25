@@ -48236,3 +48236,15 @@
 [2016/01/25 10:55:31] <Tobbi> head8debian: seen this? http://forum.freegamedev.net/viewtopic.php?f=68&t=6762
 [2016/01/25 10:57:35] <head8debian> Tobbi: No i havent.
 [2016/01/25 10:57:50] <Tobbi> head8debian: What do you think of this?
+[2016/01/25 11:02:52] <Tobbi> leyyin: Semester is almost over.
+[2016/01/25 11:02:54] <Tobbi> :)
+[2016/01/25 11:04:33] <head8debian> Tobbi: His english is not very good. ;p
+[2016/01/25 11:04:53] <Tobbi> head8debian: You want to say that my English is better than this bloke's?
+[2016/01/25 11:05:12] <head8debian> Yes. :D
+[2016/01/25 11:05:43] <head8debian> Actually, its quite a neat idea.
+[2016/01/25 11:06:01] <Tobbi> head8debian: Will you work on background music scriptability?
+[2016/01/25 11:11:05] <Tobbi> head8debian: disregard that, play_music works.
+[2016/01/25 11:14:02] <head8debian> o_O
+[2016/01/25 11:14:08] <head8debian> Im reading...
+[2016/01/25 11:14:13] <head8debian> Doing school actually.
+[2016/01/25 11:14:28] <head8debian> Wow, we have come a long way from what we were founded on.
