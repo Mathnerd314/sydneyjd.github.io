@@ -48210,3 +48210,4 @@
 [2016/01/25 06:16:37] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- *I* use it, so it must be good!
 [2016/01/25 06:30:55] @ xet7 joined channel #supertux
 [2016/01/25 06:44:37] @ datahead8888_ joined channel #supertux
+[2016/01/25 06:47:38] @ Quit: datahead8888: Ping timeout: 256 seconds
