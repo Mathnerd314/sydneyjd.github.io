@@ -48188,3 +48188,4 @@
 [2016/01/24 18:10:15] @ irungentoo joined channel #supertux
 [2016/01/24 18:25:55] @ Quit: Karkus: Ping timeout: 240 seconds
 [2016/01/24 18:38:11] @ jesusalva joined channel #supertux
+[2016/01/24 19:10:13] @ Quit: xet7: Quit: Leaving
