@@ -48317,3 +48317,20 @@
 [2016/01/25 11:31:46] <Tobbi> probably-
 [2016/01/25 11:37:25] @ alket joined channel #supertux
 [2016/01/25 11:38:02] @ jesusalva_ is now known as jesusalva
+[2016/01/25 11:45:04] <Tobbi> I didn't even know we had something like a set_gamma() function.
+[2016/01/25 11:45:47] <Tobbi> mt: What do you think of letting the player alter hue / saturation / value of tilemaps (in case we don't have that yet)?
+[2016/01/25 11:45:55] <Tobbi> via scripting I mean.
+[2016/01/25 11:46:43] <mt> s/player/level designer/, I guess then?
+[2016/01/25 11:46:43] <red_bot> mt: You did something wrong... Try s/you/me/ or tell me "help sed"
+[2016/01/25 11:47:06] <mt> red_bot: tell red_bot you are annoying
+[2016/01/25 11:47:06] <red_bot> mt: wrong 'tell' syntax
+[2016/01/25 11:47:15] <Tobbi> mt: Yes, of course.
+[2016/01/25 11:47:16] <mt> red_bot: note red_bot you are annoying
+[2016/01/25 11:47:16] <red_bot> aight, mt
+[2016/01/25 11:47:37] <mt> Sounds like an interesting idea
+[2016/01/25 11:51:50] <Tobbi> I'll probably add a bug report.
+[2016/01/25 11:52:07] <brmbrmcar> So, when red_bot doesn't sisc
+[2016/01/25 11:52:25] <brmbrmcar> disconnect and red_bot takes over, that'll be passed over.
+[2016/01/25 11:53:01] <pentagon> [10supertux] 07tobbi opened issue 09#345: Scripting support for hue / saturation / value (color) of tilemaps 13https://github.com/SuperTux/supertux/issues/345
+[2016/01/25 11:56:54] <head8debian> ~part
+[2016/01/25 11:56:55] @ Left channel #supertux ()
