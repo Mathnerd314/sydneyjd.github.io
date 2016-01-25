@@ -48201,3 +48201,5 @@
 [2016/01/25 01:25:21] @ Quit: datahead7777: Remote host closed the connection
 [2016/01/25 01:35:01] @ stewboy joined channel #supertux
 [2016/01/25 02:14:09] @ tux|dude joined channel #supertux
+[2016/01/25 02:48:26] @ datahead8888 joined channel #supertux
+[2016/01/25 02:58:54] @ Quit: Mathnerd314: Ping timeout: 250 seconds
