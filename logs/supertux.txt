@@ -48248,3 +48248,64 @@
 [2016/01/25 11:14:08] <head8debian> Im reading...
 [2016/01/25 11:14:13] <head8debian> Doing school actually.
 [2016/01/25 11:14:28] <head8debian> Wow, we have come a long way from what we were founded on.
+[2016/01/25 11:15:51] <Tobbi> head8debian: SuperTux, you mean?
+[2016/01/25 11:15:51] <leyyin> my english?
+[2016/01/25 11:16:14] <Tobbi> leyyin: Not yours. Krobonil's.
+[2016/01/25 11:16:45] <head8debian> No, the USA.
+[2016/01/25 11:16:49] <Tobbi> Ah.
+[2016/01/25 11:17:01] <Tobbi> head8debian: No, you haven't. You still have Guantanamo...
+[2016/01/25 11:17:03] <Tobbi> And waterboarding.
+[2016/01/25 11:17:09] <Tobbi> And death penalty.
+[2016/01/25 11:17:24] <head8debian> Tobbi: Ive never heard of whatever it is.
+[2016/01/25 11:17:37] <Tobbi> ...and a female president... :D
+[2016/01/25 11:17:37] <leyyin> and Donald Trump
+[2016/01/25 11:17:37] <Tobbi> haha
+[2016/01/25 11:17:37] <leyyin> and Sarah Palin
+[2016/01/25 11:17:42] <Tobbi> head8debian: You haven't heard of what?
+[2016/01/25 11:17:50] <Tobbi> which of those things I mentioned.
+[2016/01/25 11:18:28] <head8debian> Never mind.
+[2016/01/25 11:18:29] <Tobbi> leyyin: The Sarah Palin in the "Epic Rap Battles of History" was kinda hot, though :P
+[2016/01/25 11:18:37] <Tobbi> head8debian: No, I am seriously interested.
+[2016/01/25 11:18:53] <Tobbi> Which of those things I mentioned have you never heard of before?
+[2016/01/25 11:19:11] <leyyin> she is the incarnation of stupid and hypocrasy
+[2016/01/25 11:19:28] <leyyin> *hypocrisy
+[2016/01/25 11:19:42] <Tobbi> leyyin: Problem is: Anyone having enough money can become governor or president in the US.
+[2016/01/25 11:20:00] <leyyin> cuz the majority of people are stupid
+[2016/01/25 11:20:01] <Tobbi> afaik.
+[2016/01/25 11:20:12] <leyyin> we live in a society full of idiots
+[2016/01/25 11:20:24] <leyyin> just look at the top 10 most common used passwords
+[2016/01/25 11:20:24] <Tobbi> leyyin: No, the majority of people are stupid regardless of where they come from.
+[2016/01/25 11:20:41] <Tobbi> My password has 63 characters and it's a pain to type them in.
+[2016/01/25 11:21:07] <Tobbi> But, upside: Almost uncrackable, unless you want to waste the NSA computers on it...
+[2016/01/25 11:21:13] <brmbrmcar> My passwords are all about the same old thing.
+[2016/01/25 11:21:14] <Tobbi> And the NSA will get: Bugreports.
+[2016/01/25 11:21:15] <Tobbi> :D
+[2016/01/25 11:21:19] <Tobbi> brmbrmcar: which is?
+[2016/01/25 11:21:27] <brmbrmcar> Still really hard to crack.
+[2016/01/25 11:21:45] <brmbrmcar> Tobbi: Hmmm...
+[2016/01/25 11:22:03] <Tobbi> brmbrmcar: Is it "brmbrmcar" or <insert car manufacturer here>car
+[2016/01/25 11:22:06] <Tobbi> ?
+[2016/01/25 11:22:07] <mt> "I'm4brmBRMc4r"
+[2016/01/25 11:22:21] <Tobbi> mt: No, it's just "car"
+[2016/01/25 11:23:09] <mt> hah, I still remember when giby posted his NickServ password
+[2016/01/25 11:23:39] <mt> and didn't head8debian have the same one?
+[2016/01/25 11:23:55] <Tobbi> mt: Was it "supertux"?
+[2016/01/25 11:24:05] <mt> "godisgood"
+[2016/01/25 11:24:10] <Tobbi> *sigh*
+[2016/01/25 11:24:26] <brmbrmcar> REmebermine?
+[2016/01/25 11:25:53] <Tobbi> Okay, I just did /msg NickServ GHOST brmbrmcar brmbrmcar, so your password is more secure than that.
+[2016/01/25 11:25:56] <pentagon> [10supertux] 07Narre commented on issue 09#334: Haywire bomb game crash  13https://github.com/SuperTux/supertux/issues/334
+[2016/01/25 11:26:26] <mt> you know freenode staff can see all the bad_password() calls
+[2016/01/25 11:27:00] <pentagon> [10supertux] 07brmbrmcar commented on issue 09#334: Haywire bomb game crash  13https://github.com/SuperTux/supertux/issues/334
+[2016/01/25 11:27:01] <Tobbi> mt: I know, that's why I will only see that once.
+[2016/01/25 11:27:03] <Tobbi> eeh do
+[2016/01/25 11:27:41] <mt> there's even a bot that's been made to ban you from the network
+[2016/01/25 11:27:53] <mt> when you exceed a specific number of bad password attempts
+[2016/01/25 11:27:57] <Tobbi> Ah, I see...
+[2016/01/25 11:28:03] <Tobbi> mt: but only for one user, right?
+[2016/01/25 11:28:17] <Tobbi> mt: Assuming I try to ghost random people with random passwords... :D
+[2016/01/25 11:28:38] <mt> https://github.com/freenode/Sigyn
+[2016/01/25 11:28:43] <mt> check the code yourself
+[2016/01/25 11:29:24] <Tobbi> mt: okay, so once I get banned, I need you guys to vouch for me for being a good person and project leader and this project can't live without me...thingy.
+[2016/01/25 11:29:42] <mt> :D
+[2016/01/25 11:29:58] <mt> I think default K-Lines are just 1440 min anyway
