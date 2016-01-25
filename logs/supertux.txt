@@ -48309,3 +48309,11 @@
 [2016/01/25 11:29:24] <Tobbi> mt: okay, so once I get banned, I need you guys to vouch for me for being a good person and project leader and this project can't live without me...thingy.
 [2016/01/25 11:29:42] <mt> :D
 [2016/01/25 11:29:58] <mt> I think default K-Lines are just 1440 min anyway
+[2016/01/25 11:30:04] <mt> (1 day)
+[2016/01/25 11:30:07] <Tobbi> :D
+[2016/01/25 11:30:13] <Tobbi> mt: What's gonna happen in 1 day?
+[2016/01/25 11:30:35] <brmbrmcar> 1440 minutes is 1 day.
+[2016/01/25 11:30:48] <brmbrmcar> I thinkthat is what is meant.
+[2016/01/25 11:31:46] <Tobbi> probably-
+[2016/01/25 11:37:25] @ alket joined channel #supertux
+[2016/01/25 11:38:02] @ jesusalva_ is now known as jesusalva
