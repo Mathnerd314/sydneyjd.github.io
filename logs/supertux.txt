@@ -48559,3 +48559,50 @@
 [2016/01/26 11:58:16] <Hume2> It's half-opaque red lantern.
 [2016/01/26 11:58:36] <Hume2> However, half-opaque black lanterns don't work.
 [2016/01/26 11:59:52] <brmbrmcar> I want it for the gradient though.
+[2016/01/26 12:00:02] <brmbrmcar> This isn't working.
+[2016/01/26 12:00:06] <Hume2> It should be this:
+[2016/01/26 12:00:09] <Hume2> (gradient
+[2016/01/26 12:00:22] <brmbrmcar>  know.
+[2016/01/26 12:00:22] <Hume2> (top-color 1 1 1 0)
+[2016/01/26 12:00:27] <brmbrmcar> Yes.
+[2016/01/26 12:00:31] <Hume2> (bottom-color 1 1 1 1)
+[2016/01/26 12:00:38] <Hume2> (layer 200))
+[2016/01/26 12:00:56] <brmbrmcar> But I want the translucency in it. I know the rest.
+[2016/01/26 12:01:06] <brmbrmcar> I don't want to sound rude.
+[2016/01/26 12:01:21] <Hume2> This one makes a fog.
+[2016/01/26 12:01:40] <Hume2> It's densier at the bottom and clearer on the top.
+[2016/01/26 12:01:51] <brmbrmcar> OK.
+[2016/01/26 12:02:00] <brmbrmcar> I get it.
+[2016/01/26 12:02:33] <Hume2> It's used in the TeraTux Reborn 2nd edition.
+[2016/01/26 12:02:37] <brmbrmcar> Still no affect.
+[2016/01/26 12:02:50] <brmbrmcar> s/affect/effect/
+[2016/01/26 12:02:50] <red_bot> brmbrmcar meant: "Still no effect."
+[2016/01/26 12:03:02] <Hume2> Do you see white screen?
+[2016/01/26 12:03:43] <Hume2> Yeah, it's not top-color, but top_color.
+[2016/01/26 12:03:43] @ Karkus joined channel #supertux
+[2016/01/26 12:03:43] @ Mode +v Karkus by ChanServ
+[2016/01/26 12:03:47] <brmbrmcar> Yes.
+[2016/01/26 12:04:07] <brmbrmcar> Iget the gradient, but on mine still no translucency.
+[2016/01/26 12:04:31] <Hume2> Do you have four numbers in each colour value?
+[2016/01/26 12:04:35] <brmbrmcar> I put on two.
+[2016/01/26 12:04:39] <brmbrmcar> Yes.
+[2016/01/26 12:05:28] <Hume2> Do you have it at z-pos 200 or on the background?
+[2016/01/26 12:05:43] <brmbrmcar> I'll try the z-pos.
+[2016/01/26 12:06:11] <brmbrmcar> No difference.
+[2016/01/26 12:06:23] <Hume2> That's strange.
+[2016/01/26 12:06:24] <brmbrmcar> I didn't specify before.
+[2016/01/26 12:06:43] <Hume2> Do you see Tux on screen?
+[2016/01/26 12:06:43] <brmbrmcar> What do you mean by "on the background"?
+[2016/01/26 12:06:46] <brmbrmcar> Yes.
+[2016/01/26 12:06:51] <Hume2> z-pos < 50
+[2016/01/26 12:06:59] <brmbrmcar> Got that.
+[2016/01/26 12:07:34] <Hume2> Does your level has another background except the gradient?
+[2016/01/26 12:07:44] <brmbrmcar> Idon't see Tux.
+[2016/01/26 12:07:50] <brmbrmcar>  did before. Sorry.
+[2016/01/26 12:07:59] <brmbrmcar> It has no other background.
+[2016/01/26 12:08:23] <Hume2> So I assume that your screen is completely white.
+[2016/01/26 12:08:49] <Hume2> Is your screen absolutely white?
+[2016/01/26 12:08:49] <brmbrmcar> THe one you specified did blue to white.
+[2016/01/26 12:09:12] <Hume2> hmmm...
+[2016/01/26 12:09:58] <Hume2> Try setting the bottom colour to 1 1 1 0.1
+[2016/01/26 12:14:42] @ Quit: Hume2: Ping timeout: 252 seconds
