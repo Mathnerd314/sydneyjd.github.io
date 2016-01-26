@@ -48353,3 +48353,52 @@
 [2016/01/26 09:57:44] @ Mode +v Tobbi by ChanServ
 [2016/01/26 10:00:06] @ Mathnerd314 joined channel #supertux
 [2016/01/26 10:15:25] @ leyyin joined channel #supertux
+[2016/01/26 10:32:17] <brmbrmcar> You need bot?
+[2016/01/26 10:33:56] <Tobbi> haha.
+[2016/01/26 10:33:57] <Tobbi> damn.
+[2016/01/26 10:33:57] <sydney_untangle> brmbrmcar: No.
+[2016/01/26 10:34:16] <sydney_untangle> red_bot: say #supertux i'm back. :D
+[2016/01/26 10:34:16] <red_bot> sydney_untangle, you don't have 'basics::talk::do::say' permissions here
+[2016/01/26 10:34:24] <sydney_untangle> Oh, fun fun...
+[2016/01/26 10:34:27] <Tobbi> brmbrmcar: I almost tried to kick you for that comment, just to realize that I don't have auto op anymore.
+[2016/01/26 10:34:41] <sydney_untangle> Tobbi: hehe, how do we use our ops now?
+[2016/01/26 10:35:03] @ Mode +o mt by ChanServ
+[2016/01/26 10:35:06] @ Mode +q-o *!*@unaffiliated/sydney mt by mt
+[2016/01/26 10:35:09] <mt> like this
+[2016/01/26 10:35:10] @ Mode +o Tobbi by ChanServ
+[2016/01/26 10:35:17] @ brmbrmcar has been kicked from #supertux by Tobbi (like this)
+[2016/01/26 10:35:20] <Tobbi> haha.
+[2016/01/26 10:35:25] @ Mode -o Tobbi by Tobbi
+[2016/01/26 10:35:28] @ brmbrmcar joined channel #supertux
+[2016/01/26 10:35:29] <sydney_untangle> Hmm, interesting.
+[2016/01/26 10:35:31] @ Mode +o mt by ChanServ
+[2016/01/26 10:35:33] @ Mode -qo *!*@unaffiliated/sydney mt by mt
+[2016/01/26 10:35:33] <Tobbi> Indeed, it is.
+[2016/01/26 10:35:59] <sydney_untangle> red_bot: ping
+[2016/01/26 10:35:59] <red_bot> sydney_untangle: pong
+[2016/01/26 10:36:03] <sydney_untangle> red_bot: identify
+[2016/01/26 10:36:17] @ datahead8888 joined channel #supertux
+[2016/01/26 10:36:21] <brmbrmcar> sydney_untangle: How do you get permisions to your bot?
+[2016/01/26 10:36:24] <brmbrmcar> I log in.
+[2016/01/26 10:36:28] @ datahead8888 is now known as datahead7777
+[2016/01/26 10:38:57] <red_bot> test
+[2016/01/26 10:39:05] @ swift110-phone joined channel #supertux
+[2016/01/26 10:39:08] <swift110-phone> Hey
+[2016/01/26 10:39:59] <sydney_untangle> swift110-phone: Hola.
+[2016/01/26 10:40:22] <Tobbi> sydney_untangle: I got a great task for you... Create more scripting interfaces.
+[2016/01/26 10:40:38] * sydney_untangle leaves...
+[2016/01/26 10:40:41] <Tobbi> Recent commits show you how it's done...
+[2016/01/26 10:40:41] <sydney_untangle> ;p
+[2016/01/26 10:40:44] <Tobbi> Oh c'mon.
+[2016/01/26 10:41:03] <sydney_untangle> Tobbi: You know i cannot code. :)
+[2016/01/26 10:41:14] <Tobbi> sydney_untangle: All I know is that you cannot code, yet.
+[2016/01/26 10:41:19] <Tobbi> YET
+[2016/01/26 10:41:21] <Tobbi> Y E T
+[2016/01/26 10:41:25] <Tobbi> Y  E  T
+[2016/01/26 10:41:29] <Tobbi> okay, I'll stop...
+[2016/01/26 10:42:07] <Tobbi> sydney_untangle: Coding is not hard.
+[2016/01/26 10:42:13] <Tobbi> You just need the right mindset for it.
+[2016/01/26 10:44:33] <brmbrmcar> What scripting interfaces?
+[2016/01/26 10:44:52] <Tobbi> brmbrmcar: The one about scripting gradients etc.
+[2016/01/26 10:44:53] <mt> there's two parts of coding: 1) being able to abstract away the reality and find solutions to implement something as code, which you can get used to and 2) the syntax of the language, which is rather easy when you code a lot
+[2016/01/26 10:44:59] <mt> sydney_untangle: ^
