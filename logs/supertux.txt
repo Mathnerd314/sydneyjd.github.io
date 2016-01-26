@@ -48673,3 +48673,6 @@
 [2016/01/26 13:26:45] @ Quit: Guest84785: Ping timeout: 252 seconds
 [2016/01/26 13:31:42] @ Quit: Hume2: Ping timeout: 252 seconds
 [2016/01/26 13:44:02] @ Quit: Karkus: Remote host closed the connection
+[2016/01/26 13:52:04] @ claymore2 joined channel #supertux
+[2016/01/26 13:59:49] @ Hume2 joined channel #supertux
+[2016/01/26 13:59:50] @ Mode +v Hume2 by ChanServ
