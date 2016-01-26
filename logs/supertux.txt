@@ -48494,3 +48494,15 @@
 [2016/01/26 11:28:09] <jesusalva> sydney_untangle: Laughing every now and then is good for health. In fact, studies say that brmbrmcar might live longer than Tobbi. =P
 [2016/01/26 11:28:31] <Tobbi> jesusalva: He will undoubtedly live longer...He's in high school and I'm in college.
 [2016/01/26 11:28:37] <sydney_untangle> jesusalva: Hehe.
+[2016/01/26 11:30:43] @ ZenWalker joined channel #supertux
+[2016/01/26 11:37:12] <Tobbi> Hello ZenWalker
+[2016/01/26 11:38:49] <jesusalva> I refuse to comment your statement, I'll let brmbrm to correct it =P (^^^)
+[2016/01/26 11:39:41] <Tobbi> jesusalva: "And I refuse to believe that the afterlife is run by you. The universe is not so badly designed"
+[2016/01/26 11:41:50] @ Hume2 joined channel #supertux
+[2016/01/26 11:41:51] @ Mode +v Hume2 by ChanServ
+[2016/01/26 11:42:05] <Hume2> Hello
+[2016/01/26 11:42:07] <Tobbi> Hello Hume2.
+[2016/01/26 11:42:22] <Tobbi> Hume2: Please test the gradient level...Should be great now. :)
+[2016/01/26 11:42:32] <Hume2> OK
+[2016/01/26 11:44:17] <leyyin> sydney_untangle, https://youtu.be/izKHWPxxTYA
+[2016/01/26 11:44:39] <Tobbi> leyyin: http://www.dailymotion.com/video/x2d19n2_star-trek-the-next-generation-season-6-episode-15-tapestry_tv :P
