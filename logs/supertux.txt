@@ -48506,3 +48506,56 @@
 [2016/01/26 11:42:32] <Hume2> OK
 [2016/01/26 11:44:17] <leyyin> sydney_untangle, https://youtu.be/izKHWPxxTYA
 [2016/01/26 11:44:39] <Tobbi> leyyin: http://www.dailymotion.com/video/x2d19n2_star-trek-the-next-generation-season-6-episode-15-tapestry_tv :P
+[2016/01/26 11:45:05] <leyyin> really Tobbi ? :D
+[2016/01/26 11:45:07] <leyyin> what is that
+[2016/01/26 11:45:18] <Tobbi> leyyin: Star Trek Next Generation.
+[2016/01/26 11:45:29] <Tobbi> An episode called Tapestry.
+[2016/01/26 11:46:00] <Hume2> Tobbi: So you know that there can be two gradients in one level?
+[2016/01/26 11:46:09] <Hume2> s/So/Do/
+[2016/01/26 11:46:09] <red_bot> Hume2 meant: "Tobbi: Do you know that there can be two gradients in one level?"
+[2016/01/26 11:46:32] <Tobbi> Hume2: Even in one sector?
+[2016/01/26 11:46:40] <Hume2> Tobbi: Yes.
+[2016/01/26 11:46:48] <Tobbi> Hume2: What happens then?
+[2016/01/26 11:47:04] <Hume2> Tobbi: It depends on their z-poses.
+[2016/01/26 11:47:19] <Tobbi> Hume2: But one overlays the other, doesn't it?
+[2016/01/26 11:47:26] <Hume2> And one gradient can be transulent.
+[2016/01/26 11:47:39] <Tobbi> damn this.
+[2016/01/26 11:47:40] <Hume2> Then both are visible.
+[2016/01/26 11:47:50] <Tobbi> Hume2: Can you alter the scripting interface?
+[2016/01/26 11:47:53] <Tobbi> I'm too lazy.
+[2016/01/26 11:48:07] <Hume2> Will try.
+[2016/01/26 11:48:35] <brmbrmcar> How do you do translucency?
+[2016/01/26 11:49:21] <brmbrmcar> Gradient is like a tilema,right?
+[2016/01/26 11:49:41] <Hume2> The same with backgrounds.
+[2016/01/26 11:50:30] <Hume2> brmbrmcar: Try to find that out in TeraTux Reborn 2nd edition.
+[2016/01/26 11:50:47] <brmbrmcar> You just want me gone, right?
+[2016/01/26 11:51:17] <Hume2> I've already explained you the transulency, didn't I?
+[2016/01/26 11:51:59] <brmbrmcar> Huh?
+[2016/01/26 11:52:26] <Hume2> It's the same how you make transculent lanterns.
+[2016/01/26 11:52:32] <brmbrmcar> Ah.
+[2016/01/26 11:52:43] <brmbrmcar> But how doyou add it?
+[2016/01/26 11:53:20] <Hume2> The same way, via a text editor.
+[2016/01/26 11:55:04] <brmbrmcar> What was iit again?I can't find it in my leels.
+[2016/01/26 11:55:21] <jesusalva> Tobbi: Are you from the Intelligent Design Theory now? =P
+[2016/01/26 11:55:26] <jesusalva> Anyway, must to go.
+[2016/01/26 11:55:27] @ Hume2_ joined channel #supertux
+[2016/01/26 11:55:27] @ Mode +v Hume2_ by ChanServ
+[2016/01/26 11:55:28] @ Hume2 is now known as Guest71212
+[2016/01/26 11:55:29] @ Hume2_ is now known as Hume2
+[2016/01/26 11:55:38] <Tobbi> jesusalva: what?
+[2016/01/26 11:55:51] <Tobbi> jesusalva: Ah, no, just a quote.
+[2016/01/26 11:55:54] <jesusalva> =P
+[2016/01/26 11:56:14] <jesusalva> I was referring to the zero-years-old claims, anyway :P
+[2016/01/26 11:56:19] <jesusalva> Must go now. BBL.
+[2016/01/26 11:56:31] @ jesusalva left channel #supertux ("BBL.")
+[2016/01/26 11:57:00] <brmbrmcar> HUme2:Did you get my reply?
+[2016/01/26 11:57:12] <Hume2> brmbrmcar: No, I didn't.
+[2016/01/26 11:57:18] <brmbrmcar> OK.
+[2016/01/26 11:57:39] @ Quit: Guest71212: Ping timeout: 252 seconds
+[2016/01/26 11:57:43] <brmbrmcar> What was it again? Was it (light 0, 0, 0) or whatever?
+[2016/01/26 11:57:52] <brmbrmcar> I cannot find it in my levels.
+[2016/01/26 11:58:03] <Hume2> It was (light 1, 0, 0, 0.5)
+[2016/01/26 11:58:11] <brmbrmcar> OK, thanks.
+[2016/01/26 11:58:16] <Hume2> It's half-opaque red lantern.
+[2016/01/26 11:58:36] <Hume2> However, half-opaque black lanterns don't work.
+[2016/01/26 11:59:52] <brmbrmcar> I want it for the gradient though.
