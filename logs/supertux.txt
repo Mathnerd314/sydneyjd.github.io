@@ -48660,3 +48660,14 @@
 [2016/01/26 13:09:08] <mt> it should shorten URLs again now
 [2016/01/26 13:09:37] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/26 13:13:17] <pentagon> [10supertux] 07Karkus476 commented on issue 09#337: More documentation for tools 13https://git.io/vzMNe
+[2016/01/26 13:15:36] <pentagon> [10supertux] 07maxteufel commented on issue 09#337: More documentation for tools 13https://git.io/vzMNe
+[2016/01/26 13:15:47] <mt> what did I tell you?
+[2016/01/26 13:17:32] <Karkus> mt: I never suggested that... just that if we provide a utility, we should provide documentation with it.
+[2016/01/26 13:18:40] <mt> Yeah
+[2016/01/26 13:18:51] <mt> man pages to the rescue!
+[2016/01/26 13:24:06] <pentagon> [10supertux] Status for commit Refactoring by 07Tobias Markus: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/104953161
+[2016/01/26 13:25:03] @ Hume2_ joined channel #supertux
+[2016/01/26 13:25:04] @ Mode +v Hume2_ by ChanServ
+[2016/01/26 13:25:12] @ Hume2 is now known as Guest84785
+[2016/01/26 13:25:12] @ Hume2_ is now known as Hume2
+[2016/01/26 13:26:45] @ Quit: Guest84785: Ping timeout: 252 seconds
