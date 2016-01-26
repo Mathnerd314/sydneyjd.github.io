@@ -48671,3 +48671,5 @@
 [2016/01/26 13:25:12] @ Hume2 is now known as Guest84785
 [2016/01/26 13:25:12] @ Hume2_ is now known as Hume2
 [2016/01/26 13:26:45] @ Quit: Guest84785: Ping timeout: 252 seconds
+[2016/01/26 13:31:42] @ Quit: Hume2: Ping timeout: 252 seconds
+[2016/01/26 13:44:02] @ Quit: Karkus: Remote host closed the connection
