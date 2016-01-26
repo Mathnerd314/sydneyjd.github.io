@@ -48606,3 +48606,6 @@
 [2016/01/26 12:09:12] <Hume2> hmmm...
 [2016/01/26 12:09:58] <Hume2> Try setting the bottom colour to 1 1 1 0.1
 [2016/01/26 12:14:42] @ Quit: Hume2: Ping timeout: 252 seconds
+[2016/01/26 12:23:03] <brmbrmcar> Youtube has comment loading problems...
+[2016/01/26 12:28:03] <sydney_untangle> I think it is your browser/
+[2016/01/26 12:28:30] @ Quit: tomreyn: Ping timeout: 260 seconds
