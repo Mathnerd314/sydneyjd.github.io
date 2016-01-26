@@ -48334,3 +48334,8 @@
 [2016/01/25 11:53:01] <pentagon> [10supertux] 07tobbi opened issue 09#345: Scripting support for hue / saturation / value (color) of tilemaps 13https://github.com/SuperTux/supertux/issues/345
 [2016/01/25 11:56:54] <head8debian> ~part
 [2016/01/25 11:56:55] @ Left channel #supertux ()
+[2016/01/26 08:26:52] @ Joined channel #supertux
+[2016/01/26 08:26:52] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/01/26 08:26:52] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
+[2016/01/26 08:26:52] @ Mode +v red_bot by ChanServ
+[2016/01/26 08:26:53] @ Mode +Cntj 5:10 by rajaniemi.freenode.net
