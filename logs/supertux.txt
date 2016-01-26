@@ -48692,3 +48692,7 @@
 [2016/01/26 14:25:06] <pentagon> [10supertux] Status for commit Added Scripting::Gradient by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/104969165
 [2016/01/26 14:26:39] @ Quit: Hume2: Quit: Page closed
 [2016/01/26 14:57:48] @ swift110 joined channel #supertux
+[2016/01/26 15:02:23] @ Quit: swift110: Changing host
+[2016/01/26 15:02:23] @ swift110 joined channel #supertux
+[2016/01/26 15:11:10] @ swift110_ joined channel #supertux
+[2016/01/26 15:13:26] @ Quit: swift110: Ping timeout: 240 seconds
