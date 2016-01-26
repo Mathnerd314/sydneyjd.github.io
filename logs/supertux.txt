@@ -48348,3 +48348,6 @@
 [2016/01/26 09:33:07] @ sydney_untangle joined channel #supertux
 [2016/01/26 09:33:07] @ Mode +v sydney_untangle by ChanServ
 [2016/01/26 09:34:15] @ Quit: leyyin: Ping timeout: 240 seconds
+[2016/01/26 09:52:45] @ jesusalva joined channel #supertux
+[2016/01/26 09:57:44] @ Tobbi joined channel #supertux
+[2016/01/26 09:57:44] @ Mode +v Tobbi by ChanServ
