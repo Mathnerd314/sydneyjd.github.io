@@ -48457,3 +48457,40 @@
 [2016/01/26 11:14:16] <Tobbi> help!
 [2016/01/26 11:14:30] <leyyin> sydney_untangle, what year are you living in?
 [2016/01/26 11:14:55] <leyyin> 1994 is calling
+[2016/01/26 11:15:15] <Tobbi> Also, I should re-watch that Brazil-Germany match :D
+[2016/01/26 11:16:29] <sydney_untangle> leyyin: I wish it were 1800...
+[2016/01/26 11:16:42] <sydney_untangle> But sadly, im forced to use such excessive JS...
+[2016/01/26 11:16:56] <leyyin> "excessive"
+[2016/01/26 11:19:09] <sydney_untangle> Even though i much less like flash.
+[2016/01/26 11:19:33] <sydney_untangle> I'll take JS over flash any day.
+[2016/01/26 11:19:43] <Tobbi> Who uses Flash?
+[2016/01/26 11:19:50] <Tobbi> What is this Flash no one talks about, anyway?
+[2016/01/26 11:20:17] <Tobbi> Wikipedia doesn't even have an article on that one.
+[2016/01/26 11:20:18] <Tobbi> https://en.wikipedia.org/wiki/Microsoft_Flash
+[2016/01/26 11:20:20] <leyyin> I keep my firefox clean, I keep dirty chrome only for flash
+[2016/01/26 11:20:23] <leyyin> in case of emergency
+[2016/01/26 11:21:18] <Tobbi> Also, I thought Flash was still developed by Macromedia...
+[2016/01/26 11:21:21] <Tobbi> those were the days.
+[2016/01/26 11:21:26] <Tobbi> Actually, no I didn't.
+[2016/01/26 11:21:28] <brmbrmcar> sydney_untangle: That won't give me permmisions.
+[2016/01/26 11:21:57] <brmbrmcar> I did it on my bot.
+[2016/01/26 11:22:07] <brmbrmcar> I want permissions onmy bot.
+[2016/01/26 11:22:29] <sydney_untangle> Then i dont have a clue.
+[2016/01/26 11:22:44] <brmbrmcar> How do you log it into IRC?
+[2016/01/26 11:22:58] <sydney_untangle> brmbrmcar: What software is your bot running?
+[2016/01/26 11:24:03] <brmbrmcar> It's ruby bot.
+[2016/01/26 11:24:33] <brmbrmcar> Is that what you mean?
+[2016/01/26 11:25:11] <sydney_untangle> brmbrmcar: Ok, so try /msg brmbrmbot login owner <password>
+[2016/01/26 11:25:29] <sydney_untangle> brmbrmcar: And where i put <password> use the password that you gave it when you set it up.
+[2016/01/26 11:25:45] <sydney_untangle> Tobbi: Why do we have 2 bots running the exact same software?!?
+[2016/01/26 11:25:59] <Tobbi> sydney_untangle: I don't know...Which are those?
+[2016/01/26 11:26:13] <sydney_untangle> Tobbi: My bot and brmbrmbot...
+[2016/01/26 11:26:29] <Tobbi> sydney_untangle: brmbrmbot isn't in here.
+[2016/01/26 11:26:36] <Tobbi> And I couldn't convince the #stk people to ban it.
+[2016/01/26 11:26:48] <brmbrmcar> THanks!
+[2016/01/26 11:27:03] <sydney_untangle> *facepalm*...
+[2016/01/26 11:27:25] <jesusalva> sydney_untangle: Besides, if you want, I'm pretty sure brmbrmcar would suggest something like "Let's change from Ruby to Diamond" or something like that.
+[2016/01/26 11:27:25] <jesusalva> I'm going now. BBL.
+[2016/01/26 11:28:09] <jesusalva> sydney_untangle: Laughing every now and then is good for health. In fact, studies say that brmbrmcar might live longer than Tobbi. =P
+[2016/01/26 11:28:31] <Tobbi> jesusalva: He will undoubtedly live longer...He's in high school and I'm in college.
+[2016/01/26 11:28:37] <sydney_untangle> jesusalva: Hehe.
