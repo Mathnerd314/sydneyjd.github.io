@@ -48402,3 +48402,35 @@
 [2016/01/26 10:44:52] <Tobbi> brmbrmcar: The one about scripting gradients etc.
 [2016/01/26 10:44:53] <mt> there's two parts of coding: 1) being able to abstract away the reality and find solutions to implement something as code, which you can get used to and 2) the syntax of the language, which is rather easy when you code a lot
 [2016/01/26 10:44:59] <mt> sydney_untangle: ^
+[2016/01/26 10:45:09] <sydney_untangle> ~restart
+[2016/01/26 10:45:10] @ quit (restarting, back in 5...)
+[2016/01/26 10:45:11] @ Log closed by * (rescan or shutdown)
+[2016/01/26 10:45:31] @ Log started by red_bot
+[2016/01/26 10:45:31] @ Joined channel #supertux
+[2016/01/26 10:45:31] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/01/26 10:45:31] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
+[2016/01/26 10:45:35] @ Mode +Cntj 5:10 by sendak.freenode.net
+[2016/01/26 10:45:41] <sydney_untangle> o_O
+[2016/01/26 10:45:42] <mt> sydney_untangle: better make it shutup -h now
+[2016/01/26 10:45:43] @ Mode +v red_bot by ChanServ
+[2016/01/26 10:45:51] <Tobbi> mt: There's also 3) syntactical beauty...
+[2016/01/26 10:46:09] <Tobbi> If things aren't beautiful to look at (PHP) it's not fun reading the code.
+[2016/01/26 10:46:27] <brmbrmcar> PHP? Apparently its bad.
+[2016/01/26 10:46:41] <Tobbi> brmbrmcar: I would've thought you liked PHP.
+[2016/01/26 10:46:52] <mt> that reminds me
+[2016/01/26 10:47:01] <Tobbi> would've suited you. It's almost as unpredictable as you are :D
+[2016/01/26 10:47:13] <mt> there's a guy on IRC who's basically *everywhere* on all networks, in many channels
+[2016/01/26 10:47:47] <mt> he once (or still has) a quit message 'Hiring PHP developers does not increase the quota of people with disabilities' :D
+[2016/01/26 10:48:27] <mt> s/once/once had/
+[2016/01/26 10:48:27] <red_bot> mt meant: "he once had (or still has) a quit message 'Hiring PHP developers does not increase the quota of people with disabilities' :D"
+[2016/01/26 10:49:21] <brmbrmcar> sydney_untangle: What command do yourun to log your bot in.
+[2016/01/26 10:49:31] <brmbrmcar> s/./?/
+[2016/01/26 10:49:31] <red_bot> brmbrmcar meant: "?ydney_untangle: What command do yourun to log your bot in."
+[2016/01/26 10:49:49] <brmbrmcar> That didn't work.
+[2016/01/26 10:50:11] <Tobbi> H A L P
+[2016/01/26 10:58:41] <sydney_untangle> lol.
+[2016/01/26 10:58:57] <sydney_untangle> brmbrmcar: Try /msg red_bot login.
+[2016/01/26 10:59:11] <sydney_untangle> That should give you an account with red_bot.
+[2016/01/26 10:59:20] <sydney_untangle> Not sure what privelages you get with that though.
+[2016/01/26 10:59:37] <sydney_untangle> You could try it too Tobbi.
+[2016/01/26 10:59:38] <Tobbi> sydney_untangle: I just noticed: Instead of shipping me chocolate, you can as well ship me a mini-fridge.
