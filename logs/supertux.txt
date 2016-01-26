@@ -48339,3 +48339,4 @@
 [2016/01/26 08:26:52] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
 [2016/01/26 08:26:52] @ Mode +v red_bot by ChanServ
 [2016/01/26 08:26:53] @ Mode +Cntj 5:10 by rajaniemi.freenode.net
+[2016/01/26 08:36:21] <Tobbi> sydney_untangle: -> head8debian
