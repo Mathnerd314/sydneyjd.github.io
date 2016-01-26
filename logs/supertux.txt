@@ -48703,3 +48703,6 @@
 [2016/01/26 15:48:41] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2016/01/26 15:49:14] @ Tobbi joined channel #supertux
 [2016/01/26 15:49:15] @ Mode +v Tobbi by ChanServ
+[2016/01/26 16:19:37] @ Quit: tux|dude: Quit: Leaving
+[2016/01/26 16:21:09] @ Quit: claymore2: Quit: Leaving
+[2016/01/26 16:28:04] @ Quit: swift110_: Remote host closed the connection
