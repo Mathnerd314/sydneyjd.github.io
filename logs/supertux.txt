@@ -48650,3 +48650,13 @@
 [2016/01/26 12:55:20] <pentagon> [10supertux] 07tobbi 14b3b0d50 Refactoring
 [2016/01/26 12:55:25] <Tobbi> leyyin: This doesn't stop after x commits, unfortunately.
 [2016/01/26 12:58:11] @ Quit: tuxdev_: Ping timeout: 276 seconds
+[2016/01/26 13:04:05] <sydney_untangle> mt: Is all this neccessary^?
+[2016/01/26 13:04:33] <brmbrmcar> HUme2: I got it working!
+[2016/01/26 13:04:56] <Hume2> So that way it works.
+[2016/01/26 13:05:23] <brmbrmcar> I had put the translucency on the wrong one.
+[2016/01/26 13:05:37] <mt> sydney_untangle: you're welcome to implement a limit
+[2016/01/26 13:05:38] <pentagon> [10supertux] Status for commit Refactoring by 07Tobias Markus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/320
+[2016/01/26 13:05:55] @ Mode -o Tobbi by ChanServ
+[2016/01/26 13:09:08] <mt> it should shorten URLs again now
+[2016/01/26 13:09:37] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/26 13:13:17] <pentagon> [10supertux] 07Karkus476 commented on issue 09#337: More documentation for tools 13https://git.io/vzMNe
