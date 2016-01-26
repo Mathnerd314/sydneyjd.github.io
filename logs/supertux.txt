@@ -48343,3 +48343,8 @@
 [2016/01/26 08:46:25] @ leyyin joined channel #supertux
 [2016/01/26 08:54:45] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/26 09:11:42] @ tuxdev_ joined channel #supertux
+[2016/01/26 09:30:47] <sydney_untangle> What?
+[2016/01/26 09:32:42] @ Quit: sydney_untangle: Quit: brb
+[2016/01/26 09:33:07] @ sydney_untangle joined channel #supertux
+[2016/01/26 09:33:07] @ Mode +v sydney_untangle by ChanServ
+[2016/01/26 09:34:15] @ Quit: leyyin: Ping timeout: 240 seconds
