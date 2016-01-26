@@ -48691,3 +48691,4 @@
 [2016/01/26 14:22:07] <leyyin> is it me or the mac VM at travis is very slow to boot?
 [2016/01/26 14:25:06] <pentagon> [10supertux] Status for commit Added Scripting::Gradient by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/104969165
 [2016/01/26 14:26:39] @ Quit: Hume2: Quit: Page closed
+[2016/01/26 14:57:48] @ swift110 joined channel #supertux
