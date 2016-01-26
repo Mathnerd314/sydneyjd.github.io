@@ -48609,3 +48609,10 @@
 [2016/01/26 12:23:03] <brmbrmcar> Youtube has comment loading problems...
 [2016/01/26 12:28:03] <sydney_untangle> I think it is your browser/
 [2016/01/26 12:28:30] @ Quit: tomreyn: Ping timeout: 260 seconds
+[2016/01/26 12:30:16] @ Quit: xnrand: Ping timeout: 260 seconds
+[2016/01/26 12:32:37] <brmbrmcar> Really?
+[2016/01/26 12:33:02] <brmbrmcar> Google browser on Google perating systemon Google site?
+[2016/01/26 12:34:36] @ xnrand joined channel #supertux
+[2016/01/26 12:35:00] @ tomreyn joined channel #supertux
+[2016/01/26 12:38:45] <sydney_untangle> brmbrmcar: Its called random glitches. :)
+[2016/01/26 12:41:33] @ alket joined channel #supertux
