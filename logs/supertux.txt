@@ -48683,3 +48683,11 @@
 [2016/01/26 14:14:26] <brmbrmcar> Of TeraTux reborn?
 [2016/01/26 14:14:30] <Hume2> Yes.
 [2016/01/26 14:14:44] <brmbrmcar> I'll see itnoo...
+[2016/01/26 14:15:20] <brmbrmcar> Nice!
+[2016/01/26 14:15:39] <brmbrmcar> It looks a bit wierd, though.
+[2016/01/26 14:16:15] <Hume2> ~note Karkus https://gist.github.com/Hume2/0d996e7993a1abe8b14b
+[2016/01/26 14:16:15] <red_bot> alright, Hume2
+[2016/01/26 14:17:43] <brmbrmcar> I like those TeraTux levels.
+[2016/01/26 14:22:07] <leyyin> is it me or the mac VM at travis is very slow to boot?
+[2016/01/26 14:25:06] <pentagon> [10supertux] Status for commit Added Scripting::Gradient by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/104969165
+[2016/01/26 14:26:39] @ Quit: Hume2: Quit: Page closed
