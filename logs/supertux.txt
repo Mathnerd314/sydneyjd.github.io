@@ -48616,3 +48616,37 @@
 [2016/01/26 12:35:00] @ tomreyn joined channel #supertux
 [2016/01/26 12:38:45] <sydney_untangle> brmbrmcar: Its called random glitches. :)
 [2016/01/26 12:41:33] @ alket joined channel #supertux
+[2016/01/26 12:47:47] <brmbrmcar> :)
+[2016/01/26 12:48:50] @ Quit: swift110-phone: Read error: Connection reset by peer
+[2016/01/26 12:51:43] @ Hume2 joined channel #supertux
+[2016/01/26 12:51:44] @ Mode +v Hume2 by ChanServ
+[2016/01/26 12:53:38] <pentagon> [10supertux] 07tobbi pushed 24 commits to 09coverity_scan 13https://github.com/SuperTux/supertux/compare/7658e8880d07...b3b0d5069427
+[2016/01/26 12:53:42] <pentagon> [10supertux] 07maxteufel 141e9740a CONTRIBUTING: improve commit message style guide
+[2016/01/26 12:53:46] <Tobbi> no!
+[2016/01/26 12:53:46] <pentagon> [10supertux] 07Hume2 1461033d1 Some fixes of incubator
+[2016/01/26 12:53:48] <Tobbi> damn this.
+[2016/01/26 12:53:50] <pentagon> [10supertux] 07tobbi 145550652 Initialize members in initialization list instead of constructor body
+[2016/01/26 12:53:54] <pentagon> [10supertux] 07tobbi 14c3edde6 Spring board -> Trampoline, missed occurrence
+[2016/01/26 12:53:58] <pentagon> [10supertux] 07Grumbel 14316b241 Allow hidding cheat menu by pressing the cheat menu button
+[2016/01/26 12:54:03] <pentagon> [10supertux] 07Karkus476 149e0f89c Option to enter ghost mode from cheat menu
+[2016/01/26 12:54:07] <pentagon> [10supertux] 07MiroslavR 14dbcec2a Remove unnecessary code in player.cpp
+[2016/01/26 12:54:08] @ Mode +o Tobbi by ChanServ
+[2016/01/26 12:54:12] <pentagon> [10supertux] 07Hume2 14fff0fc2 Mirroring the falling badguy now uses push/pop target correctly.
+[2016/01/26 12:54:14] @ pentagon has been kicked from #supertux by Tobbi (pentagon)
+[2016/01/26 12:54:14] @ pentagon joined channel #supertux
+[2016/01/26 12:54:17] <pentagon> [10supertux] 07Hume2 144e01c8e Fixed mirroring of falling badguys
+[2016/01/26 12:54:20] <pentagon> [10supertux] 07Hume2 1415d4b20 Fixed: Iceflame doesn't rotate
+[2016/01/26 12:54:22] @ Mode +b pentagon!*@* by Tobbi
+[2016/01/26 12:54:51] @ Mode -b pentagon!*@* by Tobbi
+[2016/01/26 12:54:54] <pentagon> [10supertux] 07tobbi 143d214d9 move get_background_gradient to namespace method, add swap_gradient_colors
+[2016/01/26 12:54:58] <pentagon> [10supertux] 07tobbi 14826c781 Ability to script background image(s) and background speed
+[2016/01/26 12:55:01] <Tobbi> okay, not quite done.
+[2016/01/26 12:55:02] <pentagon> [10supertux] 07tobbi 14a4f9617 string fix in log output
+[2016/01/26 12:55:07] <pentagon> [10supertux] 07tobbi 1450d67dd Perform sanity checks inside set_background_image(s)
+[2016/01/26 12:55:11] <pentagon> [10supertux] 07tobbi 142ed6b3b Rewrite gradient direction test for new scripting abilities
+[2016/01/26 12:55:12] <leyyin> wow, spam
+[2016/01/26 12:55:15] <Tobbi> last ones are mine anyway, so it shouldn't ping anyone else.
+[2016/01/26 12:55:15] <pentagon> [10supertux] 07tobbi 1405f4ec0 Add more gradient functionalities to test level
+[2016/01/26 12:55:20] <pentagon> [10supertux] 07tobbi 14b3b0d50 Refactoring
+[2016/01/26 12:55:25] <Tobbi> leyyin: This doesn't stop after x commits, unfortunately.
+[2016/01/26 12:58:11] @ Quit: tuxdev_: Ping timeout: 276 seconds
