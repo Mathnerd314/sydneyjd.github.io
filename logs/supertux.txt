@@ -48709,3 +48709,5 @@
 [2016/01/26 16:43:17] @ Quit: alket: Read error: Connection reset by peer
 [2016/01/26 16:43:31] @ alket joined channel #supertux
 [2016/01/26 16:55:27] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/26 17:57:27] @ Quit: alket: Quit: Good night!
+[2016/01/26 17:57:46] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
