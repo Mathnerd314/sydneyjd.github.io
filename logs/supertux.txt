@@ -48700,3 +48700,6 @@
 [2016/01/26 15:22:32] @ leper` joined channel #supertux
 [2016/01/26 15:41:43] @ Quit: alket: Quit: Good night!
 [2016/01/26 15:43:40] @ alket joined channel #supertux
+[2016/01/26 15:48:41] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/01/26 15:49:14] @ Tobbi joined channel #supertux
+[2016/01/26 15:49:15] @ Mode +v Tobbi by ChanServ
