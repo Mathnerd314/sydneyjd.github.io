@@ -48897,3 +48897,6 @@
 [2016/01/27 16:25:30] @ Quit: brmbrmcar: Quit: Lost terminal
 [2016/01/27 16:26:31] @ brmbrmcar joined channel #supertux
 [2016/01/27 17:37:09] @ Quit: binki: Ping timeout: 265 seconds
+[2016/01/27 17:45:55] @ Tobbi joined channel #supertux
+[2016/01/27 17:45:55] @ Mode +v Tobbi by ChanServ
+[2016/01/27 17:50:55] @ binki joined channel #supertux
