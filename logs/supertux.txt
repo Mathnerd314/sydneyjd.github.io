@@ -48847,3 +48847,29 @@
 [2016/01/27 13:44:44] @ Quit: alket: Ping timeout: 276 seconds
 [2016/01/27 13:44:55] <Tobbi> leyyin: What about firing squad?
 [2016/01/27 13:45:01] <Tobbi> :P
+[2016/01/27 13:45:01] <leyyin> Hume2, https://youtu.be/d28NWseRua8
+[2016/01/27 13:45:07] <leyyin> what about like that ^
+[2016/01/27 13:45:17] <leyyin> SHAME :D
+[2016/01/27 13:45:56] <Tobbi> leyyin: She had to get naked and walk? And people could do what? spit on her and everything?
+[2016/01/27 13:46:03] <Tobbi> I am not a big games of thrones fan anyway...
+[2016/01/27 13:46:05] @ claymore2 joined channel #supertux
+[2016/01/27 13:46:22] <leyyin> exactly
+[2016/01/27 13:46:38] <Tobbi> I see...
+[2016/01/27 13:46:45] <Tobbi> Anyway, bbl...English games night.
+[2016/01/27 13:46:48] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/27 13:47:10] @ alket joined channel #supertux
+[2016/01/27 13:50:06] <Hume2> I wish you to edit sector.hpp and then build.
+[2016/01/27 13:52:01] @ Hume2_ joined channel #supertux
+[2016/01/27 13:52:01] @ Mode +v Hume2_ by ChanServ
+[2016/01/27 13:52:09] @ Hume2 is now known as Guest6721
+[2016/01/27 13:52:09] @ Hume2_ is now known as Hume2
+[2016/01/27 13:52:26] <mt> why can't you edit sector.hpp and build. Hume2?
+[2016/01/27 13:53:55] <Hume2> mt: Because it starts to build about a half of SuperTux.
+[2016/01/27 13:54:23] <mt> and that's a problem because...?
+[2016/01/27 13:54:38] <mt> feel free to abuse travis in a separate branch for the build
+[2016/01/27 13:54:42] @ Quit: Guest6721: Ping timeout: 252 seconds
+[2016/01/27 13:54:47] <Hume2> It's not a problem, just an annoyonce.
+[2016/01/27 13:55:05] <mt> it's required
+[2016/01/27 13:55:23] <mt> unless you'd like supertux to (not link correctly/crash)
+[2016/01/27 13:59:01] <leyyin> welcome to compiled languages :D
+[2016/01/27 13:59:50] <Hume2> I feel bad when deleting Tobbi's work.
