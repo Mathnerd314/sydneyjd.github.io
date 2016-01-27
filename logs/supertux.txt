@@ -48714,3 +48714,7 @@
 [2016/01/26 18:15:56] @ tuxdev_ joined channel #supertux
 [2016/01/26 18:59:01] @ tux|dude joined channel #supertux
 [2016/01/26 19:00:00] @ tuxdude143 joined channel #supertux
+[2016/01/26 19:04:08] @ Quit: tux|dude: Ping timeout: 276 seconds
+[2016/01/26 19:05:34] @ tuxdude143_ joined channel #supertux
+[2016/01/26 19:08:41] @ Quit: tuxdude143: Ping timeout: 276 seconds
+[2016/01/26 19:11:06] @ Quit: tuxdev_: Ping timeout: 240 seconds
