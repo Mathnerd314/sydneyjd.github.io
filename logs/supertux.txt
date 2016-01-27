@@ -48887,3 +48887,7 @@
 [2016/01/27 14:58:56] @ alket_ joined channel #supertux
 [2016/01/27 14:59:11] @ Quit: alket: Disconnected by services
 [2016/01/27 14:59:12] @ alket_ is now known as alket
+[2016/01/27 16:01:55] @ Quit: claymore2: Quit: Leaving
+[2016/01/27 16:06:38] @ alket_ joined channel #supertux
+[2016/01/27 16:07:20] @ Quit: alket: Disconnected by services
+[2016/01/27 16:07:22] @ alket_ is now known as alket
