@@ -48809,3 +48809,9 @@
 [2016/01/27 12:59:58] @ Quit: alket: Remote host closed the connection
 [2016/01/27 13:00:22] @ alket joined channel #supertux
 [2016/01/27 13:12:30] @ Quit: alket: Ping timeout: 260 seconds
+[2016/01/27 13:19:11] @ alket joined channel #supertux
+[2016/01/27 13:23:29] @ Quit: kneekoo: Quit: Leaving
+[2016/01/27 13:26:20] @ Hume2 joined channel #supertux
+[2016/01/27 13:26:20] @ Mode +v Hume2 by ChanServ
+[2016/01/27 13:26:25] <Hume2> Hello
+[2016/01/27 13:26:25] <red_bot> Hume2, you have notes! [Jan-27 07:08] <Tobbi> Now that we have a scripted Gradient class, could we replace the calls in that test level with the respective ones in the gradient class? Also, can we now remove the functions in scripting/sector.cpp now that we have the gradient ones?
