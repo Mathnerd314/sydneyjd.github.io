@@ -48754,3 +48754,6 @@
 [2016/01/27 09:49:29] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vz9t8
 [2016/01/27 09:49:32] <pentagon> [10supertux] 07tobbi 142e0a5d0 Fix stop action not being displayed
 [2016/01/27 09:53:44] * sydney_untangle has big ideas... that he gets too excited about till he tries to do them...
+[2016/01/27 10:02:14] <pentagon> [10supertux] Status for commit Fix stop action not being displayed by 07Tobias Markus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/322
+[2016/01/27 10:04:04] <Tobbi> sydney_untangle: Like for example?
+[2016/01/27 10:06:05] <pentagon> [10supertux] Status for commit Fix stop action not being displayed by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/105181207
