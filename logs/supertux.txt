@@ -48792,3 +48792,6 @@
 [2016/01/27 11:39:12] @ Hume2 joined channel #supertux
 [2016/01/27 11:39:12] @ Mode +v Hume2 by ChanServ
 [2016/01/27 11:41:41] @ kneekoo joined channel #supertux
+[2016/01/27 11:50:20] @ supertux|58854 joined channel #supertux
+[2016/01/27 11:50:38] @ Quit: supertux|58854: Client Quit
+[2016/01/27 11:57:01] @ Quit: Hume2: Ping timeout: 252 seconds
