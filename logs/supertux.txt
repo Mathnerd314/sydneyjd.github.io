@@ -48873,3 +48873,10 @@
 [2016/01/27 13:55:23] <mt> unless you'd like supertux to (not link correctly/crash)
 [2016/01/27 13:59:01] <leyyin> welcome to compiled languages :D
 [2016/01/27 13:59:50] <Hume2> I feel bad when deleting Tobbi's work.
+[2016/01/27 14:00:07] <Hume2> Altrough he told me to do so.
+[2016/01/27 14:03:10] @ Hume2_ joined channel #supertux
+[2016/01/27 14:03:10] @ Mode +v Hume2_ by ChanServ
+[2016/01/27 14:03:13] @ Quit: Hume2: Killed (sinisalo.freenode.net (Nickname regained by services))
+[2016/01/27 14:03:14] @ Hume2_ is now known as Hume2
+[2016/01/27 14:05:33] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/vzHYn
+[2016/01/27 14:05:36] <pentagon> [10supertux] 07Hume2 14782d139 Deleted gradient scripting methods from sector
