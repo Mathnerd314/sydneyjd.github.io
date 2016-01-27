@@ -48740,3 +48740,9 @@
 [2016/01/27 04:23:12] @ leyyin joined channel #supertux
 [2016/01/27 06:52:57] @ Tobbi joined channel #supertux
 [2016/01/27 06:52:58] @ Mode +v Tobbi by ChanServ
+[2016/01/27 07:03:38] <Tobbi> ~seen hume2
+[2016/01/27 07:03:38] <red_bot> Tobbi: Hume2 was last seen 16 hours, 36 minutes and 58 seconds ago, quitting IRC (Quit: Page closed) and a while before saying "note Karkus https://gist.github.com/Hume2/0d996e7993a1abe8b14b" in #supertux
+[2016/01/27 07:03:38] <red_bot> Tobbi: Hume2_ was last seen 17 hours, 38 minutes and 25 seconds ago, changing nick from Hume2_ to Hume2
+[2016/01/27 07:03:50] <Tobbi> ~thanks
+[2016/01/27 07:08:40] <Tobbi> ~note Hume2 Now that we have a scripted Gradient class, could we replace the calls in that test level with the respective ones in the gradient class? Also, can we now remove the functions in scripting/sector.cpp now that we have the gradient ones?
+[2016/01/27 07:08:40] <red_bot> okies, Tobbi
