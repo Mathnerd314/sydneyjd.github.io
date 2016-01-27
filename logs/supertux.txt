@@ -48757,3 +48757,20 @@
 [2016/01/27 10:02:14] <pentagon> [10supertux] Status for commit Fix stop action not being displayed by 07Tobias Markus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/322
 [2016/01/27 10:04:04] <Tobbi> sydney_untangle: Like for example?
 [2016/01/27 10:06:05] <pentagon> [10supertux] Status for commit Fix stop action not being displayed by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/105181207
+[2016/01/27 10:15:49] @ tuxdev_ joined channel #supertux
+[2016/01/27 10:23:30] <sydney_untangle> Tobbi: An *free* alternative to youtube...
+[2016/01/27 10:23:46] <Tobbi> sydney_untangle: I am disappointed... I thought it was something about SuperTux :P
+[2016/01/27 10:23:57] <sydney_untangle> lol.
+[2016/01/27 10:24:02] <sydney_untangle> Not quite. :p
+[2016/01/27 10:24:22] <mt> sydney_untangle: http://www.mediagoblin.org/
+[2016/01/27 10:24:49] <sydney_untangle> mt: I already saw it. :)
+[2016/01/27 10:24:52] <mt> one of the devs is even in this channel
+[2016/01/27 10:25:39] <mt> what's wrong with it?
+[2016/01/27 10:25:44] <sydney_untangle> mt: Im refering to a solution that is already hosted, not something you have to host yourself.
+[2016/01/27 10:25:52] <sydney_untangle> Nothing, it looks quite interesting.
+[2016/01/27 10:26:19] <mt> then you'd also have a problem hosting your own alternative to youtube
+[2016/01/27 10:27:37] <mt> also, https://wiki.mediagoblin.org/Live_instances lists some public registration sites
+[2016/01/27 10:27:51] <sydney_untangle> I see that.
+[2016/01/27 10:28:56] <sydney_untangle> I feel we are living in a internet age of everyone pushing for 'cover up everything, just so it works'.//
+[2016/01/27 10:28:59] <sydney_untangle> ...*
+[2016/01/27 10:29:30] <sydney_untangle> Sandstorm? THat looks interesting from what little i know of it...
