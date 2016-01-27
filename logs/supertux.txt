@@ -48884,3 +48884,6 @@
 [2016/01/27 14:21:12] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
 [2016/01/27 14:26:35] <mt> can we fix windows builds in the near future?
 [2016/01/27 14:27:38] <pentagon> [10supertux] Status for commit Deleted gradient scripting methods from sector by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/105246793
+[2016/01/27 14:58:56] @ alket_ joined channel #supertux
+[2016/01/27 14:59:11] @ Quit: alket: Disconnected by services
+[2016/01/27 14:59:12] @ alket_ is now known as alket
