@@ -48751,3 +48751,6 @@
 [2016/01/27 08:34:26] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/27 09:39:11] @ Tobbi joined channel #supertux
 [2016/01/27 09:39:11] @ Mode +v Tobbi by ChanServ
+[2016/01/27 09:49:29] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vz9t8
+[2016/01/27 09:49:32] <pentagon> [10supertux] 07tobbi 142e0a5d0 Fix stop action not being displayed
+[2016/01/27 09:53:44] * sydney_untangle has big ideas... that he gets too excited about till he tries to do them...
