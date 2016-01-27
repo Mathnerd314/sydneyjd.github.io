@@ -48748,3 +48748,4 @@
 [2016/01/27 07:08:40] <red_bot> okies, Tobbi
 [2016/01/27 08:13:10] @ Mathnerd314 joined channel #supertux
 [2016/01/27 08:27:07] @ Quit: Mathnerd314: Ping timeout: 265 seconds
+[2016/01/27 08:34:26] @ Quit: Tobbi: Remote host closed the connection
