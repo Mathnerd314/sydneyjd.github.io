@@ -48726,3 +48726,4 @@
 [2016/01/27 00:02:02] @ Quit: tuxdev_: Changing host
 [2016/01/27 00:02:02] @ tuxdev_ joined channel #supertux
 [2016/01/27 00:03:50] @ Quit: Mathnerd314: Ping timeout: 250 seconds
+[2016/01/27 00:46:51] @ tux|dude joined channel #supertux
