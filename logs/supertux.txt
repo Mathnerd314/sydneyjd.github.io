@@ -48777,3 +48777,11 @@
 [2016/01/27 10:30:02] <sydney_untangle> Why do people have to chose names like MediaGoblin? :D
 [2016/01/27 10:30:05] <sydney_untangle> hehe.
 [2016/01/27 10:44:45] <sydney_untangle> Wow, why did i never know about libre.fm?!
+[2016/01/27 10:46:01] <brmbrmcar> What is libe.fm?
+[2016/01/27 10:46:15] <brmbrmcar> s/libe.fm/libre.fm/
+[2016/01/27 10:46:15] <red_bot> brmbrmcar meant: "What is libre.fm?"
+[2016/01/27 10:47:19] <sydney_untangle> Well, im still lookign into it, but its an music site.
+[2016/01/27 10:58:23] <sydney_untangle> Quite an interesting one TBH.
+[2016/01/27 10:58:44] <brmbrmcar> OK.
+[2016/01/27 10:58:59] <brmbrmcar> I'll take a look.
+[2016/01/27 10:59:55] <brmbrmcar> Errrrrrrrr
