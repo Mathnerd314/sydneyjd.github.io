@@ -48712,3 +48712,5 @@
 [2016/01/26 17:57:27] @ Quit: alket: Quit: Good night!
 [2016/01/26 17:57:46] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2016/01/26 18:15:56] @ tuxdev_ joined channel #supertux
+[2016/01/26 18:59:01] @ tux|dude joined channel #supertux
+[2016/01/26 19:00:00] @ tuxdude143 joined channel #supertux
