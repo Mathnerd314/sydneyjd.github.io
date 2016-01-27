@@ -48738,3 +48738,5 @@
 [2016/01/27 04:07:26] @ Quit: polyphagia: Client Quit
 [2016/01/27 04:10:07] <pentagon> [10supertux] 07echancrure starred 09supertux - 13https://git.io/vzSqs
 [2016/01/27 04:23:12] @ leyyin joined channel #supertux
+[2016/01/27 06:52:57] @ Tobbi joined channel #supertux
+[2016/01/27 06:52:58] @ Mode +v Tobbi by ChanServ
