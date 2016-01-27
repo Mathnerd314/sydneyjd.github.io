@@ -48787,3 +48787,5 @@
 [2016/01/27 10:59:55] <brmbrmcar> Errrrrrrrr
 [2016/01/27 11:06:09] <pentagon> [10supertux] 07MiroslavR opened pull request 09#346: Fix tiles with images larger than 32x32px not being visible 13https://git.io/vz9EZ
 [2016/01/27 11:09:07] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/27 11:19:29] <pentagon> [10supertux] Status for commit Fix tiles with images larger than 32x32px not being visible (Fixes #317) by 07MiroslavR: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/323
+[2016/01/27 11:24:20] <pentagon> [10supertux] Status for commit Fix tiles with images larger than 32x32px not being visible (Fixes #317) by 07MiroslavR: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/105199577
