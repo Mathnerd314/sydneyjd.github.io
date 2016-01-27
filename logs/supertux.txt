@@ -48734,3 +48734,6 @@
 [2016/01/27 02:38:58] @ Quit: tux|dude: Ping timeout: 250 seconds
 [2016/01/27 03:05:42] @ Quit: tuxdev_: Ping timeout: 265 seconds
 [2016/01/27 03:38:45] @ Quit: tuxdude143: Read error: Connection reset by peer
+[2016/01/27 04:04:48] @ polyphagia joined channel #supertux
+[2016/01/27 04:07:26] @ Quit: polyphagia: Client Quit
+[2016/01/27 04:10:07] <pentagon> [10supertux] 07echancrure starred 09supertux - 13https://git.io/vzSqs
