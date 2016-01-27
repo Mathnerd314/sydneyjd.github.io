@@ -48901,3 +48901,4 @@
 [2016/01/27 17:45:55] @ Mode +v Tobbi by ChanServ
 [2016/01/27 17:50:55] @ binki joined channel #supertux
 [2016/01/27 18:00:07] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/27 18:20:33] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
