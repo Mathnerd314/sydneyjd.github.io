@@ -48805,3 +48805,5 @@
 [2016/01/27 12:18:41] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2016/01/27 12:36:36] @ Quit: Hume2: Ping timeout: 252 seconds
 [2016/01/27 12:38:42] @ Quit: tuxdev_: Ping timeout: 272 seconds
+[2016/01/27 12:53:57] @ alket joined channel #supertux
+[2016/01/27 12:59:58] @ Quit: alket: Remote host closed the connection
