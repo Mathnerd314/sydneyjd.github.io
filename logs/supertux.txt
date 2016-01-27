@@ -48902,3 +48902,8 @@
 [2016/01/27 17:50:55] @ binki joined channel #supertux
 [2016/01/27 18:00:07] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/27 18:20:33] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/01/27 18:31:54] @ Somelauw joined channel #supertux
+[2016/01/27 18:32:41] <Somelauw> The level "Nice Ice" seems uncompletable. Version supertux2 v0.4.0
+[2016/01/27 18:35:07] @ Tobbi joined channel #supertux
+[2016/01/27 18:35:08] @ Mode +v Tobbi by ChanServ
+[2016/01/27 18:36:04] @ irungentoo joined channel #supertux
