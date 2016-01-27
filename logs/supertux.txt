@@ -48732,3 +48732,4 @@
 [2016/01/27 02:21:20] @ leper`- is now known as leper`
 [2016/01/27 02:37:07] @ tuxdude143 joined channel #supertux
 [2016/01/27 02:38:58] @ Quit: tux|dude: Ping timeout: 250 seconds
+[2016/01/27 03:05:42] @ Quit: tuxdev_: Ping timeout: 265 seconds
