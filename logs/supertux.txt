@@ -48815,3 +48815,35 @@
 [2016/01/27 13:26:20] @ Mode +v Hume2 by ChanServ
 [2016/01/27 13:26:25] <Hume2> Hello
 [2016/01/27 13:26:25] <red_bot> Hume2, you have notes! [Jan-27 07:08] <Tobbi> Now that we have a scripted Gradient class, could we replace the calls in that test level with the respective ones in the gradient class? Also, can we now remove the functions in scripting/sector.cpp now that we have the gradient ones?
+[2016/01/27 13:31:03] @ Quit: Hume2: Ping timeout: 252 seconds
+[2016/01/27 13:32:12] @ Tobbi joined channel #supertux
+[2016/01/27 13:32:12] @ Mode +v Tobbi by ChanServ
+[2016/01/27 13:36:40] @ Hume2 joined channel #supertux
+[2016/01/27 13:36:40] @ Mode +v Hume2 by ChanServ
+[2016/01/27 13:36:51] <Hume2> I hate that weak connection.
+[2016/01/27 13:37:51] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/vzHTz
+[2016/01/27 13:37:54] <pentagon> [10supertux] 07Hume2 144e85139 Changed the scripting methods in test/gradient_dir.stl
+[2016/01/27 13:38:21] <Hume2> Tobbi: I just didn't want to destroy your work.
+[2016/01/27 13:38:35] <Tobbi> Hume2: Ah. Okay. No problem.
+[2016/01/27 13:38:42] <Tobbi> This is what open source lives from.
+[2016/01/27 13:38:49] <Tobbi> Destroying other people's work.
+[2016/01/27 13:39:18] <Tobbi> Ah, so that's how you do it :D
+[2016/01/27 13:39:45] <Hume2> OK, so I'll do it though.
+[2016/01/27 13:41:29] <Tobbi> Hume2: Previously, I didn't understand the expose and unexpose things...
+[2016/01/27 13:41:31] <Tobbi> But now I do.
+[2016/01/27 13:42:20] <Hume2> I didn't understand it too, I just copied that from wind.cpp.
+[2016/01/27 13:42:51] <leyyin> you copied code :O
+[2016/01/27 13:42:53] <leyyin> sinner :D
+[2016/01/27 13:42:59] <Tobbi> :D
+[2016/01/27 13:43:01] <Tobbi> Oh noes.
+[2016/01/27 13:43:07] <Tobbi> What do we do with him, leyyin?
+[2016/01/27 13:43:25] <leyyin> what is Tobbi thinking no, "oh no, the programmer nazi is here"
+[2016/01/27 13:43:32] <leyyin> *now
+[2016/01/27 13:43:46] <Tobbi> "We even have OCD about thinking that word"
+[2016/01/27 13:43:53] <Tobbi> eeh, without quotes, anyway.
+[2016/01/27 13:44:07] <leyyin> Tobbi, feed him to Microsoft ;)
+[2016/01/27 13:44:16] <Tobbi> leyyin: Too benign, still.
+[2016/01/27 13:44:34] <Hume2> Yes, I'm quite lazy to write, so I usually cpy it from somewhere else and edit it.
+[2016/01/27 13:44:44] @ Quit: alket: Ping timeout: 276 seconds
+[2016/01/27 13:44:55] <Tobbi> leyyin: What about firing squad?
+[2016/01/27 13:45:01] <Tobbi> :P
