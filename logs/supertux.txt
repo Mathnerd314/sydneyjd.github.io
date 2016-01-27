@@ -48807,3 +48807,5 @@
 [2016/01/27 12:38:42] @ Quit: tuxdev_: Ping timeout: 272 seconds
 [2016/01/27 12:53:57] @ alket joined channel #supertux
 [2016/01/27 12:59:58] @ Quit: alket: Remote host closed the connection
+[2016/01/27 13:00:22] @ alket joined channel #supertux
+[2016/01/27 13:12:30] @ Quit: alket: Ping timeout: 260 seconds
