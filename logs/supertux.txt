@@ -48746,3 +48746,4 @@
 [2016/01/27 07:03:50] <Tobbi> ~thanks
 [2016/01/27 07:08:40] <Tobbi> ~note Hume2 Now that we have a scripted Gradient class, could we replace the calls in that test level with the respective ones in the gradient class? Also, can we now remove the functions in scripting/sector.cpp now that we have the gradient ones?
 [2016/01/27 07:08:40] <red_bot> okies, Tobbi
+[2016/01/27 08:13:10] @ Mathnerd314 joined channel #supertux
