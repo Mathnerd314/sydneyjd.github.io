@@ -49031,3 +49031,5 @@
 [2016/01/28 13:54:03] @ Quit: Hume2: Ping timeout: 252 seconds
 [2016/01/28 13:54:31] @ Hume2 joined channel #supertux
 [2016/01/28 13:54:32] @ Mode +v Hume2 by ChanServ
+[2016/01/28 14:02:18] @ jesusalva joined channel #supertux
+[2016/01/28 14:07:56] @ Quit: ZenWalker: Read error: Connection reset by peer
