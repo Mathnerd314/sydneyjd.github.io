@@ -49033,3 +49033,7 @@
 [2016/01/28 13:54:32] @ Mode +v Hume2 by ChanServ
 [2016/01/28 14:02:18] @ jesusalva joined channel #supertux
 [2016/01/28 14:07:56] @ Quit: ZenWalker: Read error: Connection reset by peer
+[2016/01/28 14:16:36] @ Quit: Hume2: Ping timeout: 252 seconds
+[2016/01/28 14:21:47] @ Hume2 joined channel #supertux
+[2016/01/28 14:21:48] @ Mode +v Hume2 by ChanServ
+[2016/01/28 14:23:00] @ jesusalva is now known as testII
