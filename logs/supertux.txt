@@ -49047,3 +49047,6 @@
 [2016/01/28 16:06:34] <Tobbi> hello.
 [2016/01/28 16:14:34] @ Quit: chdorb: Remote host closed the connection
 [2016/01/28 16:25:47] @ stewboy joined channel #supertux
+[2016/01/28 16:31:04] @ irungentoo joined channel #supertux
+[2016/01/28 16:31:10] @ Quit: Tobbi: 
+[2016/01/28 16:41:14] @ Natureshadow left channel #supertux ("http://quassel-irc.org - Chat comfortably. Anywhere.")
