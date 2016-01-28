@@ -48990,3 +48990,8 @@
 [2016/01/28 12:48:13] <Hume2> Makes a snowy tile background.
 [2016/01/28 12:48:19] <brmbrmcar> NIce.
 [2016/01/28 12:49:19] @ Quit: Karkus: Quit: Division By Zero
+[2016/01/28 13:03:47] @ Quit: tuxdev_: Ping timeout: 264 seconds
+[2016/01/28 13:04:19] @ claymore2 joined channel #supertux
+[2016/01/28 13:12:28] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/28 13:13:43] @ Karkus joined channel #supertux
+[2016/01/28 13:13:43] @ Mode +v Karkus by ChanServ
