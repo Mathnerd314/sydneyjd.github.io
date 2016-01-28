@@ -49028,3 +49028,6 @@
 [2016/01/28 13:41:08] <mt> you might want to try https://software.opensuse.org/download.html?project=home%3Amaths22%3ASuperTux&package=supertux2 if you want it immediately and without building
 [2016/01/28 13:41:25] <mt> however, I still advice you to consult with the Fedora maintainers about this problem
 [2016/01/28 13:43:08] <chdorb> yes
+[2016/01/28 13:54:03] @ Quit: Hume2: Ping timeout: 252 seconds
+[2016/01/28 13:54:31] @ Hume2 joined channel #supertux
+[2016/01/28 13:54:32] @ Mode +v Hume2 by ChanServ
