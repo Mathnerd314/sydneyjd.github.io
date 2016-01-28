@@ -48938,3 +48938,4 @@
 [2016/01/28 03:26:06] @ Quit: tuxdev_: Ping timeout: 240 seconds
 [2016/01/28 03:27:20] @ Tobbi joined channel #supertux
 [2016/01/28 03:27:21] @ Mode +v Tobbi by ChanServ
+[2016/01/28 03:44:12] @ Quit: Tobbi: Remote host closed the connection
