@@ -49050,3 +49050,8 @@
 [2016/01/28 16:31:04] @ irungentoo joined channel #supertux
 [2016/01/28 16:31:10] @ Quit: Tobbi: 
 [2016/01/28 16:41:14] @ Natureshadow left channel #supertux ("http://quassel-irc.org - Chat comfortably. Anywhere.")
+[2016/01/28 17:04:10] @ stewboy_ joined channel #supertux
+[2016/01/28 17:05:46] @ Quit: stewboy: Ping timeout: 240 seconds
+[2016/01/28 17:05:46] @ stewboy_ is now known as stewboy
+[2016/01/28 17:07:49] @ tux|dude joined channel #supertux
+[2016/01/28 17:12:22] @ Quit: Karkus: Ping timeout: 256 seconds
