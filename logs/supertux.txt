@@ -49042,3 +49042,5 @@
 [2016/01/28 14:46:37] <pentagon> [10supertux] Status for commit Moved Squirel background methods away from sector by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/325
 [2016/01/28 14:58:51] <pentagon> [10supertux] Status for commit Moved Squirel background methods away from sector by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/105499655
 [2016/01/28 15:22:11] @ Quit: Hume2: Quit: Page closed
+[2016/01/28 15:59:53] @ Tobbi joined channel #supertux
+[2016/01/28 15:59:53] @ Mode +v Tobbi by ChanServ
