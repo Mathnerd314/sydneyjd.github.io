@@ -49046,3 +49046,4 @@
 [2016/01/28 15:59:53] @ Mode +v Tobbi by ChanServ
 [2016/01/28 16:06:34] <Tobbi> hello.
 [2016/01/28 16:14:34] @ Quit: chdorb: Remote host closed the connection
+[2016/01/28 16:25:47] @ stewboy joined channel #supertux
