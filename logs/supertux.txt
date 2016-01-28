@@ -48995,3 +48995,23 @@
 [2016/01/28 13:12:28] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/28 13:13:43] @ Karkus joined channel #supertux
 [2016/01/28 13:13:43] @ Mode +v Karkus by ChanServ
+[2016/01/28 13:17:17] @ Tobbi joined channel #supertux
+[2016/01/28 13:17:17] @ Mode +v Tobbi by ChanServ
+[2016/01/28 13:19:22] @ chdorb joined channel #supertux
+[2016/01/28 13:19:40] <chdorb> hi everybody !
+[2016/01/28 13:20:02] <chdorb> I have a little question…
+[2016/01/28 13:20:25] <chdorb> do you know how to save progression on supertux v 0.4 ?
+[2016/01/28 13:21:37] <chdorb> when I quit the first world after some levels, when I come back I am on the beginning…
+[2016/01/28 13:23:15] <Hume2> That is a bug.
+[2016/01/28 13:23:27] <chdorb> a known bug ?
+[2016/01/28 13:23:27] <Hume2> chdorb: What OS do you use?
+[2016/01/28 13:23:43] <chdorb> Fedora 22
+[2016/01/28 13:23:46] <Hume2> That bug hasn't been reported so far.
+[2016/01/28 13:24:42] <chdorb> ok
+[2016/01/28 13:26:20] <chdorb> where is the place to report it ?
+[2016/01/28 13:26:23] <chdorb> github ?
+[2016/01/28 13:29:04] <chdorb> I found
+[2016/01/28 13:29:19] <chdorb> I will try to build it from source
+[2016/01/28 13:29:36] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/28 13:29:40] <chdorb> maybe a fedora package like this issue https://github.com/SuperTux/supertux/issues/318
+[2016/01/28 13:29:43] <chdorb> thank you
