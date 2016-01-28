@@ -48907,3 +48907,6 @@
 [2016/01/27 18:35:07] @ Tobbi joined channel #supertux
 [2016/01/27 18:35:08] @ Mode +v Tobbi by ChanServ
 [2016/01/27 18:36:04] @ irungentoo joined channel #supertux
+[2016/01/27 18:47:29] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/27 18:48:37] @ Quit: alket: Quit: Good night!
+[2016/01/27 18:54:16] <Somelauw> the level "Mountain climbing" is a mindfuck, but not in a good way. It has too many dead ends.
