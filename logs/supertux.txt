@@ -48947,3 +48947,4 @@
 [2016/01/28 04:36:53] @ Quit: paroneayea: Read error: Connection reset by peer
 [2016/01/28 04:37:46] @ paroneayea joined channel #supertux
 [2016/01/28 05:34:01] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/28 06:45:07] @ lumidify joined channel #supertux
