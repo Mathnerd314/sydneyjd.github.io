@@ -48930,3 +48930,4 @@
 [2016/01/28 00:22:28] @ maths22 joined channel #supertux
 [2016/01/28 00:22:28] @ Mode +v maths22 by ChanServ
 [2016/01/28 00:45:22] @ lumidify joined channel #supertux
+[2016/01/28 01:07:55] @ Quit: lumidify: Ping timeout: 240 seconds
