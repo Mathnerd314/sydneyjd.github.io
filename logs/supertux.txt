@@ -48925,3 +48925,7 @@
 [2016/01/27 23:07:48] @ Quit: Somelauw: Quit: WeeChat 1.0.1
 [2016/01/27 23:33:50] @ Quit: brmbrmcar: Ping timeout: 256 seconds
 [2016/01/27 23:35:38] @ brmbrmcar joined channel #supertux
+[2016/01/28 00:22:28] @ maths22 joined channel #supertux
+[2016/01/28 00:22:28] @ Quit: maths22: Changing host
+[2016/01/28 00:22:28] @ maths22 joined channel #supertux
+[2016/01/28 00:22:28] @ Mode +v maths22 by ChanServ
