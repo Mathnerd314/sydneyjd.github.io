@@ -48910,3 +48910,5 @@
 [2016/01/27 18:47:29] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/27 18:48:37] @ Quit: alket: Quit: Good night!
 [2016/01/27 18:54:16] <Somelauw> the level "Mountain climbing" is a mindfuck, but not in a good way. It has too many dead ends.
+[2016/01/27 20:16:09] @ tux|dude joined channel #supertux
+[2016/01/27 20:26:19] @ tuxdev_ joined channel #supertux
