@@ -48962,3 +48962,5 @@
 [2016/01/28 09:48:04] @ tuxdev_ joined channel #supertux
 [2016/01/28 10:39:49] @ Mathnerd314 joined channel #supertux
 [2016/01/28 10:54:09] <sydney_untangle> Lol, im reading about David Hume. :D
+[2016/01/28 12:11:45] @ Tobbi joined channel #supertux
+[2016/01/28 12:11:46] @ Mode +v Tobbi by ChanServ
