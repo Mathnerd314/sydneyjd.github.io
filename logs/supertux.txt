@@ -48983,3 +48983,10 @@
 [2016/01/28 12:41:43] <Karkus> Hume2: Cool, I added it to the terrain generator issue
 [2016/01/28 12:42:06] <Hume2> I've just seen it there.
 [2016/01/28 12:43:06] @ Quit: Guest61182: Ping timeout: 252 seconds
+[2016/01/28 12:47:37] <Hume2> Anyway I already use a generator for tile backgrounds, even for normal levels.
+[2016/01/28 12:47:59] <brmbrmcar> What does this gerator do exactly?
+[2016/01/28 12:48:13] <brmbrmcar> s/gerator/generator/
+[2016/01/28 12:48:13] <red_bot> brmbrmcar meant: "What does this generator do exactly?"
+[2016/01/28 12:48:13] <Hume2> Makes a snowy tile background.
+[2016/01/28 12:48:19] <brmbrmcar> NIce.
+[2016/01/28 12:49:19] @ Quit: Karkus: Quit: Division By Zero
