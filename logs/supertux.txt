@@ -48944,3 +48944,5 @@
 [2016/01/28 04:11:01] @ leyyin joined channel #supertux
 [2016/01/28 04:11:03] @ Tobbi joined channel #supertux
 [2016/01/28 04:11:03] @ Mode +v Tobbi by ChanServ
+[2016/01/28 04:36:53] @ Quit: paroneayea: Read error: Connection reset by peer
+[2016/01/28 04:37:46] @ paroneayea joined channel #supertux
