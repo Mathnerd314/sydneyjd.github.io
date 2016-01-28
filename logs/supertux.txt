@@ -48961,3 +48961,4 @@
 [2016/01/28 08:55:00] @ Quit: lumidify: Ping timeout: 265 seconds
 [2016/01/28 09:48:04] @ tuxdev_ joined channel #supertux
 [2016/01/28 10:39:49] @ Mathnerd314 joined channel #supertux
+[2016/01/28 10:54:09] <sydney_untangle> Lol, im reading about David Hume. :D
