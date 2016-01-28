@@ -48965,3 +48965,21 @@
 [2016/01/28 12:11:45] @ Tobbi joined channel #supertux
 [2016/01/28 12:11:46] @ Mode +v Tobbi by ChanServ
 [2016/01/28 12:27:57] @ alket joined channel #supertux
+[2016/01/28 12:33:18] @ Hume2 joined channel #supertux
+[2016/01/28 12:33:18] @ Mode +v Hume2 by ChanServ
+[2016/01/28 12:33:27] <Hume2> Hello
+[2016/01/28 12:34:13] @ Karkus joined channel #supertux
+[2016/01/28 12:34:14] @ Mode +v Karkus by ChanServ
+[2016/01/28 12:35:09] <Hume2> Hello, Karkus
+[2016/01/28 12:35:19] <Karkus> Hello, Hume2
+[2016/01/28 12:35:19] <red_bot> Karkus, you have notes! [Jan-26 14:16] <Hume2> https://gist.github.com/Hume2/0d996e7993a1abe8b14b
+[2016/01/28 12:37:26] <Karkus> Hume2: Ah, thanks. (even better: https://gist.github.com/Karkus476/b9139afa5ff5e13fe9b0)
+[2016/01/28 12:38:23] <Hume2> So that way it works...
+[2016/01/28 12:41:21] @ Hume2_ joined channel #supertux
+[2016/01/28 12:41:22] @ Mode +v Hume2_ by ChanServ
+[2016/01/28 12:41:30] @ Hume2 is now known as Guest61182
+[2016/01/28 12:41:30] @ Hume2_ is now known as Hume2
+[2016/01/28 12:41:33] <pentagon> [10flexlay] 07Karkus476 commented on issue 09#45: Terrain Generator 13https://git.io/vRS8S
+[2016/01/28 12:41:43] <Karkus> Hume2: Cool, I added it to the terrain generator issue
+[2016/01/28 12:42:06] <Hume2> I've just seen it there.
+[2016/01/28 12:43:06] @ Quit: Guest61182: Ping timeout: 252 seconds
