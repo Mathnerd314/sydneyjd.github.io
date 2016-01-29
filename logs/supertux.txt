@@ -49538,3 +49538,4 @@
 [2016/01/29 17:18:24] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2016/01/29 17:40:14] @ Quit: claymore2: Quit: Leaving
 [2016/01/29 17:42:54] @ datahead8888 joined channel #supertux
+[2016/01/29 17:59:34] @ Quit: Mathnerd314: Ping timeout: 272 seconds
