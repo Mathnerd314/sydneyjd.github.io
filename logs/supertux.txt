@@ -49503,3 +49503,4 @@
 [2016/01/29 13:10:05] <Tobbi> Anyway, ttyl.
 [2016/01/29 13:10:15] <Tobbi> sports time.
 [2016/01/29 13:10:17] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/29 13:23:06] @ Quit: tuxdev_: Ping timeout: 240 seconds
