@@ -49524,3 +49524,4 @@
 [2016/01/29 14:31:44] @ irungentoo joined channel #supertux
 [2016/01/29 14:32:55] @ Quit: datahead7777: Ping timeout: 260 seconds
 [2016/01/29 14:35:46] @ lumidify joined channel #supertux
+[2016/01/29 14:53:57] @ Quit: Hume2: Quit: Page closed
