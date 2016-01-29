@@ -49251,3 +49251,29 @@
 [2016/01/29 08:37:39] @ nerdopolis joined channel #supertux
 [2016/01/29 09:01:31] @ Mathnerd314 joined channel #supertux
 [2016/01/29 09:26:17] @ tuxdev_ joined channel #supertux
+[2016/01/29 09:34:21] @ Quit: Hume2: Ping timeout: 252 seconds
+[2016/01/29 09:36:10] @ Tobbi joined channel #supertux
+[2016/01/29 09:36:11] @ Mode +v Tobbi by ChanServ
+[2016/01/29 09:36:24] <leyyin> Tobbi, 1
+[2016/01/29 09:36:31] <Tobbi> leyyin: What?
+[2016/01/29 09:36:42] <leyyin> do you really prefer 2?
+[2016/01/29 09:37:05] <leyyin> no one chooses 2, sigh
+[2016/01/29 09:37:17] <Tobbi> reminds me.
+[2016/01/29 09:37:41] <Tobbi> leyyin: For some reason, this reminded me of http://bash.org/?171987
+[2016/01/29 09:38:06] <leyyin> rofl
+[2016/01/29 09:39:08] <Tobbi> leyyin: So, anyway, what's with 1 and 2?
+[2016/01/29 09:39:19] <Tobbi> 1 is white, while 2 is greenish.
+[2016/01/29 09:39:36] <Tobbi> 2 actually has a very weird colour.
+[2016/01/29 09:40:30] <leyyin> or you are weird and you choose 3
+[2016/01/29 09:40:31] <leyyin> hmm
+[2016/01/29 09:40:45] <Tobbi> leyyin: No, I'd rather choose 2...3 is way too bossy and 1 is too plain.
+[2016/01/29 09:40:53] <leyyin> -1 is edgy thought
+[2016/01/29 09:41:05] <Tobbi> 2 combines elegance with beauty.
+[2016/01/29 09:41:14] <Tobbi> leyyin: -1 is double-edgy if you square that.
+[2016/01/29 09:41:18] <Tobbi> eeh, square root that.
+[2016/01/29 09:41:31] <Tobbi> gah *take the square root of that.
+[2016/01/29 09:41:33] <leyyin> yes, complex
+[2016/01/29 09:42:24] <Tobbi> leyyin: I believe all women are complex numbers.
+[2016/01/29 09:42:25] <Tobbi> :P
+[2016/01/29 09:44:20] <leyyin> sqrt(-1)/0
+[2016/01/29 09:44:30] <Tobbi> leyyin: urgh...
