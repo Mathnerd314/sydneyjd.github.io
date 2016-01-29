@@ -49094,3 +49094,4 @@
 [2016/01/28 23:48:38] @ tux|dude joined channel #supertux
 [2016/01/29 00:10:18] @ Quit: tux|dude: Quit: Leaving
 [2016/01/29 00:35:49] @ stewboy joined channel #supertux
+[2016/01/29 00:58:32] @ Quit: Mathnerd314: Ping timeout: 276 seconds
