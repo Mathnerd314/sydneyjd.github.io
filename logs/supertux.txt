@@ -49068,3 +49068,4 @@
 [2016/01/28 18:50:01] @ Quit: datahead8888: Client Quit
 [2016/01/28 18:50:13] @ datahead8888 joined channel #supertux
 [2016/01/28 18:50:38] @ datahead8888 is now known as datahead7777
+[2016/01/28 20:04:25] @ jesusalva joined channel #supertux
