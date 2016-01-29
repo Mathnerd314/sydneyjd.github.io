@@ -49104,3 +49104,92 @@
 [2016/01/29 02:54:36] <pentagon> [10supertux] 07Hume2 144478c74 Fixed typo in scripting/sector.cpp
 [2016/01/29 03:00:57] <pentagon> [10supertux] Status for commit Fixed typo in scripting/sector.cpp by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/326
 [2016/01/29 03:09:18] <pentagon> [10supertux] Status for commit Fixed typo in scripting/sector.cpp by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/105619729
+[2016/01/29 03:25:35] <pentagon> [10supertux] 07Hume2 synchronized pull request 09#269: WIP Level Editor 13https://git.io/vEe13
+[2016/01/29 03:25:40] <pentagon> [10supertux] 07Hume2 04force-pushed 81 commits to 09editor 13https://git.io/vzbYK
+[2016/01/29 03:25:43] <pentagon> [10supertux] 07Hume2 147f5e2c3 Save level method
+[2016/01/29 03:25:46] <pentagon> [10supertux] 07Hume2 1472ee5e9 Editor select level menu
+[2016/01/29 03:25:49] <pentagon> [10supertux] 07Hume2 1480d08aa Level editor can load a level.
+[2016/01/29 03:25:52] <pentagon> [10supertux] 07Hume2 14bd2219d Added editor level scrolling by arrow keys.
+[2016/01/29 03:25:55] <brmbrmcar> Uh oh!
+[2016/01/29 03:25:55] <pentagon> [10supertux] 07Hume2 1453d0c10 Fixed bug causing crash when choosing level/sets by arrows.
+[2016/01/29 03:25:58] <pentagon> [10supertux] 07Hume2 144d93ae9 Added editor menu (press Esc in editor)
+[2016/01/29 03:26:01] <pentagon> [10supertux] 07Hume2 146b932da Cursor is now visible in the editor.
+[2016/01/29 03:26:04] <pentagon> [10supertux] 07Hume2 14c748226 Editor now displays tilegroups.
+[2016/01/29 03:26:07] <pentagon> [10supertux] 07Hume2 14a0c6019 Added scrolling tilegroups
+[2016/01/29 03:26:10] <pentagon> [10supertux] 07Hume2 1497767a7 Editor shows editor-images (not in tilemap, bug?)
+[2016/01/29 03:26:12] <pentagon> [10supertux] 07Hume2 14c2d3390 Objects now render correctly.
+[2016/01/29 03:26:15] <pentagon> [10supertux] 07Hume2 146e7a423 Added objects menu
+[2016/01/29 03:26:18] <pentagon> [10supertux] 07Hume2 143960035 Bonus blocks now render correctly.
+[2016/01/29 03:26:21] <Hume2> Let's see whether it will stop sometimes.
+[2016/01/29 03:26:21] <pentagon> [10supertux] 07Hume2 148c2fe87 Added menu to change current sector.
+[2016/01/29 03:26:24] <pentagon> [10supertux] 07Hume2 14de8fab4 Layer objects now display in the bottom toolbar.
+[2016/01/29 03:26:27] <pentagon> [10supertux] 07Hume2 14a71baf5 Fixed scrren resizing bug.
+[2016/01/29 03:26:30] <pentagon> [10supertux] 07Hume2 14845578a Dynamic tiles no longer create objects; turning the bonusblock sprite to its previous state.
+[2016/01/29 03:26:33] <pentagon> [10supertux] 07Hume2 1402f3482 Various fixes
+[2016/01/29 03:26:36] <pentagon> [10supertux] 07Hume2 14c2d117e Object system init moved to separate file.
+[2016/01/29 03:26:39] <pentagon> [10supertux] 07Hume2 14e43d707 Fixed particle system displaying
+[2016/01/29 03:26:41] <pentagon> [10supertux] 07Hume2 14c0aab2c Tyding up
+[2016/01/29 03:26:44] <brmbrmcar> Luckily noone is around, really.
+[2016/01/29 03:26:44] <pentagon> [10supertux] 07Hume2 1450ee7db Added tilemap switching
+[2016/01/29 03:26:47] <pentagon> [10supertux] 07Hume2 14e552592 Still no input... Tiles now display on the position they are going to be put.
+[2016/01/29 03:26:50] <pentagon> [10supertux] 07Hume2 14da39ecf Changed "}else{" to "} else {"
+[2016/01/29 03:26:53] <pentagon> [10supertux] 07Hume2 143284b75 Added the ability to parse objects and tiles
+[2016/01/29 03:26:56] <pentagon> [10supertux] 07Hume2 1447e4dea Dragging support
+[2016/01/29 03:26:59] <pentagon> [10supertux] 07Hume2 148809ad2 Added tools (Only tile-rubber works)
+[2016/01/29 03:27:02] <pentagon> [10supertux] 07Hume2 14c797846 Rectangle and fill mode
+[2016/01/29 03:27:05] <pentagon> [10supertux] 07Hume2 14f3095b4 Rubber works for objects.
+[2016/01/29 03:27:08] <Hume2> That's why I do it these times.
+[2016/01/29 03:27:08] <pentagon> [10supertux] 07Hume2 14c5d1bd8 Objects can be moved.
+[2016/01/29 03:27:10] <pentagon> [10supertux] 07Hume2 147dfd038 No more collisions in editor
+[2016/01/29 03:27:13] <pentagon> [10supertux] 07Hume2 140b60e47 Added object tips
+[2016/01/29 03:27:16] <pentagon> [10supertux] 07Hume2 14f52ec0b Added tips for badguys.
+[2016/01/29 03:27:19] <pentagon> [10supertux] 07Hume2 14aaf467e Objects (not triggers) are now known objects
+[2016/01/29 03:27:22] <pentagon> [10supertux] 07Hume2 144dfd0ca get_class method for saving is now const
+[2016/01/29 03:27:25] <pentagon> [10supertux] 07Hume2 149038241 Layer gui now uses dynamic_cast instead of get_class
+[2016/01/29 03:27:27] <pentagon> [10supertux] 07Hume2 1455decf4 Updated scrolling
+[2016/01/29 03:27:30] <pentagon> [10supertux] 07Hume2 140a6480d Updated moving mechanism
+[2016/01/29 03:27:33] <pentagon> [10supertux] 07Hume2 14b8ac153 Reimplemented textfield
+[2016/01/29 03:27:36] <pentagon> [10supertux] 07Hume2 14f455236 Wind is no longer called Scripted Object.
+[2016/01/29 03:27:39] <pentagon> [10supertux] 07Hume2 14b383320 Reimplemented int field
+[2016/01/29 03:27:42] <pentagon> [10supertux] 07Hume2 148eae3d7 Menu can be no longer escaped by pressing 'P'
+[2016/01/29 03:27:42] <brmbrmcar> Going afk for several hours.
+[2016/01/29 03:27:44] <pentagon> [10supertux] 07Hume2 14769b0a9 Reimplemented numfield item
+[2016/01/29 03:27:47] <pentagon> [10supertux] 07Hume2 14a453ee1 Changed author successfully
+[2016/01/29 03:27:50] <pentagon> [10supertux] 07Hume2 14160b916 Added object menus (right click doesn't work)
+[2016/01/29 03:27:53] <pentagon> [10supertux] 07Hume2 148f2792f Left click + space now works like right click.
+[2016/01/29 03:27:56] <pentagon> [10supertux] 07Hume2 14cfce487 Small fixes in editor input center
+[2016/01/29 03:27:58] <Hume2> I'll too.
+[2016/01/29 03:27:59] <pentagon> [10supertux] 07Hume2 14f0da0b8 Small fixes
+[2016/01/29 03:28:02] <pentagon> [10supertux] 07Hume2 14f9eaf2f Deleted cmakefiles
+[2016/01/29 03:28:05] <pentagon> [10supertux] 07Hume2 143f58b85 Bonus Island 1,2 :: Extended height and added tile backgrounds
+[2016/01/29 03:28:08] <pentagon> [10supertux] 07Hume2 14d6fb1a0 Added a colorchanel menu
+[2016/01/29 03:28:11] <pentagon> [10supertux] 07Hume2 14c66c17d Fix
+[2016/01/29 03:28:14] <pentagon> [10supertux] 07Hume2 141fb6348 Fixed stuff
+[2016/01/29 03:28:17] <pentagon> [10supertux] 07Hume2 14370ec0c Fixed werror
+[2016/01/29 03:28:20] <pentagon> [10supertux] 07Hume2 1425e930d Added color display item
+[2016/01/29 03:28:22] <pentagon> [10supertux] 07Hume2 14c4966df Fixed werror 2
+[2016/01/29 03:28:25] <pentagon> [10supertux] 07Hume2 149c756ee Added color menu
+[2016/01/29 03:28:28] <pentagon> [10supertux] 07Hume2 1476e743f Added colour options to some objects
+[2016/01/29 03:28:31] <pentagon> [10supertux] 07Hume2 148e4622d Added alpha chanel to colour menu
+[2016/01/29 03:28:34] <pentagon> [10supertux] 07Hume2 149b36a0c Fixed werror 3
+[2016/01/29 03:28:37] <pentagon> [10supertux] 07Hume2 14dec4155 Added tips for layer-objects
+[2016/01/29 03:28:40] <pentagon> [10supertux] 07Hume2 1498e21b6 Added options for layer objects
+[2016/01/29 03:28:43] <pentagon> [10supertux] 07Karkus476 14aa3c2b9 Mouse scrolling gets faster as you get closer to the edge
+[2016/01/29 03:28:46] <pentagon> [10supertux] 07Hume2 14b6fb397 Big merge - part 2
+[2016/01/29 03:28:49] <pentagon> [10supertux] 07Hume2 1476678b2 Added inline function EditorActive()
+[2016/01/29 03:28:51] <pentagon> [10supertux] 07Hume2 141510d9f No more fixing old tiles in editor
+[2016/01/29 03:28:54] <pentagon> [10supertux] 07Hume2 1408ea3e2 Spawnpoints can be now modified.
+[2016/01/29 03:28:57] <pentagon> [10supertux] 07Hume2 14c288128 Fixed: SpawnPointMarkers don't display
+[2016/01/29 03:29:00] <pentagon> [10supertux] 07Hume2 14c1b9e8a Objects changing colours when set in editor: Candle, Lantern, MagicBlock
+[2016/01/29 03:29:04] <pentagon> [10supertux] 07Hume2 14db6d023 Made the editor working again
+[2016/01/29 03:29:06] <pentagon> [10supertux] 07Hume2 14a97b8b2 Added missing properties for yeti
+[2016/01/29 03:29:09] <pentagon> [10supertux] 07Hume2 14e33e1ce Added editor methotds to mrcandle.cpp
+[2016/01/29 03:29:12] <pentagon> [10supertux] 07Hume2 14afcedbc Reverted accidental edit of bonus1/torfi-level1.stl
+[2016/01/29 03:29:15] <pentagon> [10supertux] 07Hume2 14d78933d Added sector properties
+[2016/01/29 03:29:18] <pentagon> [10supertux] 07Hume2 14edb600e Added level properties menu
+[2016/01/29 03:29:21] <pentagon> [10supertux] 07Hume2 14c400d71 Fixed build
+[2016/01/29 03:29:24] <pentagon> [10supertux] 07Hume2 14467efb8 Fixed "conflict" in mrcandle.cpp
+[2016/01/29 03:29:26] <pentagon> [10supertux] 07Hume2 142056d6a Fixed werror 3
+[2016/01/29 03:29:29] <pentagon> [10supertux] 07Hume2 146679782 Putting layer objects now creates the icon
+[2016/01/29 03:29:32] <pentagon> [10supertux] 07Hume2 1405f2133 Deleting layer objects
+[2016/01/29 03:29:35] <pentagon> [10supertux] 07Hume2 140857a97 Fixed Ambient Sound displaying
