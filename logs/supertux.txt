@@ -49088,3 +49088,5 @@
 [2016/01/28 22:01:48] <sydney_untangle> jesusalva: The farm is a very dedicated and life-intertwined lifestyle. ;)
 [2016/01/28 22:11:16] @ tuxdude143_ joined channel #supertux
 [2016/01/28 22:13:59] @ Quit: tuxdude143: Ping timeout: 264 seconds
+[2016/01/28 22:46:30] @ Quit: jesusalva: Quit: Good bye, God bless you.
+[2016/01/28 22:52:14] @ Quit: tuxdude143_: Quit: Leaving
