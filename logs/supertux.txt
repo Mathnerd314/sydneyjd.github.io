@@ -49070,3 +49070,16 @@
 [2016/01/28 18:50:38] @ datahead8888 is now known as datahead7777
 [2016/01/28 20:04:25] @ jesusalva joined channel #supertux
 [2016/01/28 20:28:35] @ tux|dude joined channel #supertux
+[2016/01/28 21:55:04] <sydney_untangle> Hola jesusalva
+[2016/01/28 21:55:24] <jesusalva> Wie bitte?
+[2016/01/28 21:55:39] <jesusalva> sydney_untangle: It's already 01:00 AM. Why are you awake so late??
+[2016/01/28 21:55:54] <jesusalva> Oh and... ¡Hola, sydney_untangle! Bien?
+[2016/01/28 21:56:02] <jesusalva> *?Bien?
+[2016/01/28 21:56:03] @ tuxdude143 joined channel #supertux
+[2016/01/28 21:56:23] <jesusalva> Because I don't have the inverted '?' mark on my keyboard.
+[2016/01/28 21:56:27] <sydney_untangle> jesusalva: Its 22:00 here.
+[2016/01/28 21:56:55] <sydney_untangle> Bed time for me. ;)
+[2016/01/28 21:57:11] <jesusalva> So go sleep, boy. ;)
+[2016/01/28 21:58:50] <sydney_untangle> jesusalva: I think you should. ;)
+[2016/01/28 21:58:59] @ Quit: tux|dude: Ping timeout: 264 seconds
+[2016/01/28 21:59:10] <jesusalva> sydney_untangle: Me? No, of course not. I'm on vacations.
