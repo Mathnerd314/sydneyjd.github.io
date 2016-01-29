@@ -49091,3 +49091,4 @@
 [2016/01/28 22:46:30] @ Quit: jesusalva: Quit: Good bye, God bless you.
 [2016/01/28 22:52:14] @ Quit: tuxdude143_: Quit: Leaving
 [2016/01/28 23:23:00] @ Quit: irungentoo: Ping timeout: 245 seconds
+[2016/01/28 23:48:38] @ tux|dude joined channel #supertux
