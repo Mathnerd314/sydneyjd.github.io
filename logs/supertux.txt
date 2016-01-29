@@ -49444,3 +49444,5 @@
 [2016/01/29 11:58:04] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2016/01/29 11:58:27] @ Quit: Hume2: Ping timeout: 252 seconds
 [2016/01/29 11:58:28] @ leyyin joined channel #supertux
+[2016/01/29 12:26:04] @ Karkus joined channel #supertux
+[2016/01/29 12:26:04] @ Mode +v Karkus by ChanServ
