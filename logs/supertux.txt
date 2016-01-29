@@ -49244,3 +49244,8 @@
 [2016/01/29 08:11:18] @ Quit: Hume2: Ping timeout: 252 seconds
 [2016/01/29 08:15:23] @ Hume2 joined channel #supertux
 [2016/01/29 08:15:23] @ Mode +v Hume2 by ChanServ
+[2016/01/29 08:31:26] @ Quit: nerdopolis_: Read error: Connection reset by peer
+[2016/01/29 08:32:12] @ nerdopolis joined channel #supertux
+[2016/01/29 08:36:07] @ jesusalva joined channel #supertux
+[2016/01/29 08:36:43] @ Quit: nerdopolis: Client Quit
+[2016/01/29 08:37:39] @ nerdopolis joined channel #supertux
