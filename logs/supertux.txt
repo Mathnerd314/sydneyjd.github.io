@@ -49541,3 +49541,5 @@
 [2016/01/29 17:59:34] @ Quit: Mathnerd314: Ping timeout: 272 seconds
 [2016/01/29 18:07:24] @ Quit: datahead8888: Ping timeout: 264 seconds
 [2016/01/29 18:23:59] @ datahead8888 joined channel #supertux
+[2016/01/29 18:34:32] @ Tobbi joined channel #supertux
+[2016/01/29 18:34:32] @ Mode +v Tobbi by ChanServ
