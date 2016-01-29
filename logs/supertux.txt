@@ -49234,3 +49234,7 @@
 [2016/01/29 07:22:06] <Tobbi> Who's Hume2, she said, and tried to look the other way, her eyes gave her away... :P
 [2016/01/29 07:22:43] <Tobbi> :P
 [2016/01/29 07:22:45] <Tobbi> never mind.
+[2016/01/29 07:39:51] @ Hume3 joined channel #supertux
+[2016/01/29 07:40:18] @ Mode +v Hume3 by ChanServ
+[2016/01/29 07:40:18] @ Hume3 is now known as Hume2
+[2016/01/29 07:40:21] @ leyyin joined channel #supertux
