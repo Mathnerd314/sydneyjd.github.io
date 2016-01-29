@@ -49441,3 +49441,6 @@
 [2016/01/29 11:09:59] <Tobbi> "We are bread. Resistance is futile" :D
 [2016/01/29 11:10:19] @ lumidify joined channel #supertux
 [2016/01/29 11:40:56] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/01/29 11:58:04] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/01/29 11:58:27] @ Quit: Hume2: Ping timeout: 252 seconds
+[2016/01/29 11:58:28] @ leyyin joined channel #supertux
