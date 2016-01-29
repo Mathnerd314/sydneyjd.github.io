@@ -49343,3 +49343,87 @@
 [2016/01/29 10:42:36] <pentagon> [10supertux] 07brmbrmcar commented on issue 09#347: Music from "picnic with penny" overlaps with the music tux dances to 13https://git.io/vzbE3
 [2016/01/29 10:44:16] * Hume2 is reading the log.
 [2016/01/29 10:44:52] <mt> and re log (IRC colors): 0 should be indeed white
+[2016/01/29 10:45:18] <mt> however, if your terminal emulator/client is set to display white as black, it will be black
+[2016/01/29 10:45:24] <Tobbi> mt: We were talking about synesthesia.
+[2016/01/29 10:45:28] <Tobbi> doesn't matter.
+[2016/01/29 10:46:01] <mt> ok then
+[2016/01/29 10:46:17] <Tobbi> Actually, I was...not sure about the others.
+[2016/01/29 10:46:30] <Hume2> 0 tastes like water.
+[2016/01/29 10:46:40] <Tobbi> I don't know anything about that.
+[2016/01/29 10:46:53] <Tobbi> mt: I was wondering about probably monitoring the forums with a bot?
+[2016/01/29 10:47:01] <Tobbi> And then posting in this channel on updates.
+[2016/01/29 10:47:13] <Tobbi> Good idea? Bad idea?
+[2016/01/29 10:47:19] <mt> Good idea
+[2016/01/29 10:47:31] <Hume2> Yes, good idea.
+[2016/01/29 10:47:33] <mt> you might wanna talk with the freegamedev admins about this
+[2016/01/29 10:47:52] <mt> pentagon's RSS is buggy, so we'd want a webhook solution
+[2016/01/29 10:47:56] <jesusalva> mt: Please don't assume everyone is so old and mature as you. If I weren't introverted, two or three years ago, I probably would be like brmbrmcar. =P
+[2016/01/29 10:48:02] @ brmbrmcar joined channel #supertux
+[2016/01/29 10:48:06] <brmbrmcar> I USED AWAY!
+[2016/01/29 10:48:35] <brmbrmcar> grrr
+[2016/01/29 10:48:35] <Tobbi>  /kick brmbrmcar We told you to not use capslock.
+[2016/01/29 10:48:43] <brmbrmcar> I didn't!
+[2016/01/29 10:48:48] <brmbrmcar> I used shift!
+[2016/01/29 10:48:52] <Hume2> :D
+[2016/01/29 10:48:57] <Tobbi> damn.
+[2016/01/29 10:49:01] <Hume2> now i use capslock :d
+[2016/01/29 10:49:01] <brmbrmcar> I can't even use a caps lockkey!
+[2016/01/29 10:49:11] <jesusalva> brmbrmcar: No one likes you. No one who haves +o, at least. =P
+[2016/01/29 10:49:20] <Tobbi> jesusalva: I wouldn't say that...
+[2016/01/29 10:49:22] <Hume2> I like him :P
+[2016/01/29 10:49:40] <Tobbi> jesusalva: I am just having trouble with people who are unpredictable...
+[2016/01/29 10:49:41] <jesusalva> Tobbi: I'm using a Fermi Generalization. XP
+[2016/01/29 10:49:48] <mt> Hume2: you're not voiced, so you don't have +o as well
+[2016/01/29 10:49:54] <mt> :>
+[2016/01/29 10:50:03] <brmbrmcar>  /away doesn't do anything here.
+[2016/01/29 10:50:12] @ Mode +v Hume2 by ChanServ
+[2016/01/29 10:50:14] <jesusalva> brmbrmcar: There was a command to change nickname.
+[2016/01/29 10:50:16] <mt> brmbrmcar: 16:32:58 <brmbrmcar> I'm back. <-- isn't /away
+[2016/01/29 10:50:29] <jesusalva> By example, when I'm away, it changes my nick to 'jesusalva_'.
+[2016/01/29 10:50:32] <mt> at least plain IRC /away (or AWAY on protocol level)
+[2016/01/29 10:50:35] <brmbrmcar> jesusalva: That is on +q
+[2016/01/29 10:50:48] <brmbrmcar> mt: It isn't working! I even used it then!
+[2016/01/29 10:50:52] <Tobbi> :> = The face Bernd das Brot makes when he's delighted.
+[2016/01/29 10:51:20] <Hume2> <:
+[2016/01/29 10:51:20] <mt> brmbrmcar: AWAY works pretty well, I'm not aware of any bugs in ircd-seven
+[2016/01/29 10:51:39] <mt> brmbrmcar: however, if you'd like to report a bug, use the ircd-seven issue tracker
+[2016/01/29 10:51:48] <brmbrmcar> ircd-seven?
+[2016/01/29 10:51:54] <brmbrmcar> Never heard of it.
+[2016/01/29 10:51:56] <mt> brmbrmcar: before, make sure you really know what AWAY is supposed to do
+[2016/01/29 10:52:01] <mt> brmbrmcar: the irc server software
+[2016/01/29 10:52:19] <brmbrmcar> Am I showing as way now?
+[2016/01/29 10:52:25] <jesusalva> It was... /option boolChangeNickAway and /option stringCustomAwayNick, wasn't it?
+[2016/01/29 10:52:28] <brmbrmcar> s/way/away/
+[2016/01/29 10:52:28] <red_bot> brmbrmcar meant: "Am I showing as away now?"
+[2016/01/29 10:52:37] <mt> brmbrmcar: no
+[2016/01/29 10:52:52] <jesusalva> If you speak, it might remove the away mode.
+[2016/01/29 10:52:56] <mt> brmbrmcar: fwiw, https://tools.ietf.org/html/rfc1459#section-5.1
+[2016/01/29 10:52:56] <jesusalva> >.>
+[2016/01/29 10:53:10] <brmbrmcar> Now am I away?
+[2016/01/29 10:53:21] <mt> no
+[2016/01/29 10:53:39] <mt> can you try `/quote AWAY :Not here right now.`?
+[2016/01/29 10:54:24] <brmbrmcar> Spparently I did it.
+[2016/01/29 10:54:37] <mt> 16:54:27 -i- [brmbrmcar] is away: Not here right now.
+[2016/01/29 10:54:38] @ jesusalva is now known as jesusalva_
+[2016/01/29 10:54:59] <mt> brmbrmcar: appears when I whois you (remote whois)
+[2016/01/29 10:55:16] <jesusalva_> mt. This irc nickname change doesn't annoys you, do it? >.>
+[2016/01/29 10:55:28] <brmbrmcar> So how do I say I'm back?
+[2016/01/29 10:55:37] @ Mode +o mt by ChanServ
+[2016/01/29 10:55:40] @ Mode +q-o jesusalva_!*@* mt by mt
+[2016/01/29 10:55:48] <mt> jesusalva_: now try to change it back :D
+[2016/01/29 10:55:57] <mt> brmbrmcar: `/quote AWAY`
+[2016/01/29 10:56:11] @ jesusalva_ left channel #supertux ()
+[2016/01/29 10:56:37] <brmbrmcar> Worked?
+[2016/01/29 10:56:44] <brmbrmcar> ^mt
+[2016/01/29 10:56:48] <mt> yes
+[2016/01/29 10:56:54] @ Mode +o mt by ChanServ
+[2016/01/29 10:56:57] @ Mode -qo jesusalva_!*@* mt by mt
+[2016/01/29 10:57:02] @ Mode +o mt by ChanServ
+[2016/01/29 10:57:15] <brmbrmcar> Does just /quote away work?
+[2016/01/29 10:57:23] @ Mode -o mt by mt
+[2016/01/29 10:57:49] <mt> brmbrmcar: to do what?
+[2016/01/29 10:57:58] <brmbrmcar> Tomark me as away.
+[2016/01/29 10:58:04] <mt> no
+[2016/01/29 10:58:14] <mt> without parameters it sets you as being back
+[2016/01/29 10:58:27] <brmbrmcar> Also, this isn't very clear, unless you /whois me.
+[2016/01/29 10:58:55] <mt> brmbrmcar: it will show when I /msg you and you're away
