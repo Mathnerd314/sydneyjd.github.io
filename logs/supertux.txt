@@ -49322,3 +49322,6 @@
 [2016/01/29 10:07:13] <sydney_untangle> lol.
 [2016/01/29 10:07:29] <sydney_untangle> Tobbi: You do too. :p
 [2016/01/29 10:07:43] <Tobbi> sydney_untangle: I failed. Thus, next resort is you.
+[2016/01/29 10:15:26] @ Hume2 joined channel #supertux
+[2016/01/29 10:15:26] @ Mode +v Hume2 by ChanServ
+[2016/01/29 10:20:00] @ Quit: Hume2: Ping timeout: 252 seconds
