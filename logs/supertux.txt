@@ -49427,3 +49427,16 @@
 [2016/01/29 10:58:14] <mt> without parameters it sets you as being back
 [2016/01/29 10:58:27] <brmbrmcar> Also, this isn't very clear, unless you /whois me.
 [2016/01/29 10:58:55] <mt> brmbrmcar: it will show when I /msg you and you're away
+[2016/01/29 11:00:05] <brmbrmcar> Why do you make me leave when I say I'm going or I'm back?
+[2016/01/29 11:00:41] <brmbrmcar> You expect people to keep running /whois or messaging me?
+[2016/01/29 11:01:48] <mt> with the ircd upgrade that will probably happen on freenode soon, away-notify will be supported
+[2016/01/29 11:02:18] <brmbrmcar> But now?
+[2016/01/29 11:02:37] <Tobbi> I should probably install a bouncer on my rbpi.
+[2016/01/29 11:02:39] <brmbrmcar> That leave just shows how unwelcoming this channel is.
+[2016/01/29 11:02:42] @ brmbrmcar left channel #supertux ()
+[2016/01/29 11:05:11] <Tobbi> *sigh*
+[2016/01/29 11:07:00] <Hume2> It's strange, but I didn't sighed today.
+[2016/01/29 11:07:44] <Hume2> Altrough Fridays are usually the most sighful days for me.
+[2016/01/29 11:09:42] <Tobbi> https://youtu.be/0osX2hVyUmc?t=35s
+[2016/01/29 11:09:59] <Tobbi> "We are bread. Resistance is futile" :D
+[2016/01/29 11:10:19] @ lumidify joined channel #supertux
