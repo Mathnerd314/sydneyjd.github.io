@@ -49520,3 +49520,4 @@
 [2016/01/29 13:55:43] @ Hume2 is now known as Guest34197
 [2016/01/29 13:55:43] @ Hume3 is now known as Hume2
 [2016/01/29 13:57:48] @ Quit: Guest34197: Ping timeout: 252 seconds
+[2016/01/29 14:17:25] @ claymore2 joined channel #supertux
