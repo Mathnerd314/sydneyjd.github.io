@@ -49506,3 +49506,17 @@
 [2016/01/29 13:23:06] @ Quit: tuxdev_: Ping timeout: 240 seconds
 [2016/01/29 13:41:53] @ Hume2 joined channel #supertux
 [2016/01/29 13:41:53] @ Mode +v Hume2 by ChanServ
+[2016/01/29 13:50:27] <Hume2> leyyin: http://necyklopedie.wikia.com/wiki/%C4%8Ctvrt%C3%A1_%C5%99%C3%AD%C5%A1e
+[2016/01/29 13:51:40] @ Hume2_ joined channel #supertux
+[2016/01/29 13:51:40] @ Mode +v Hume2_ by ChanServ
+[2016/01/29 13:51:49] @ Hume2 is now known as Guest18065
+[2016/01/29 13:51:49] @ Hume2_ is now known as Hume2
+[2016/01/29 13:52:33] <leyyin> wtf Hume2 ?
+[2016/01/29 13:52:59] <Hume2> leyyin: If you used a translator, it's quite lollious.
+[2016/01/29 13:53:14] <Hume2> Didn't you speak about this?
+[2016/01/29 13:55:03] @ Quit: Guest18065: Ping timeout: 252 seconds
+[2016/01/29 13:55:32] @ Hume3 joined channel #supertux
+[2016/01/29 13:55:43] @ Mode +v Hume3 by ChanServ
+[2016/01/29 13:55:43] @ Hume2 is now known as Guest34197
+[2016/01/29 13:55:43] @ Hume3 is now known as Hume2
+[2016/01/29 13:57:48] @ Quit: Guest34197: Ping timeout: 252 seconds
