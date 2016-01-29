@@ -49539,3 +49539,4 @@
 [2016/01/29 17:40:14] @ Quit: claymore2: Quit: Leaving
 [2016/01/29 17:42:54] @ datahead8888 joined channel #supertux
 [2016/01/29 17:59:34] @ Quit: Mathnerd314: Ping timeout: 272 seconds
+[2016/01/29 18:07:24] @ Quit: datahead8888: Ping timeout: 264 seconds
