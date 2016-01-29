@@ -49440,3 +49440,4 @@
 [2016/01/29 11:09:42] <Tobbi> https://youtu.be/0osX2hVyUmc?t=35s
 [2016/01/29 11:09:59] <Tobbi> "We are bread. Resistance is futile" :D
 [2016/01/29 11:10:19] @ lumidify joined channel #supertux
+[2016/01/29 11:40:56] @ Quit: lumidify: Ping timeout: 240 seconds
