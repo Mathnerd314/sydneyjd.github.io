@@ -49219,3 +49219,14 @@
 [2016/01/29 06:35:56] @ Quit: lumidify: Ping timeout: 250 seconds
 [2016/01/29 06:36:59] @ Quit: stewboy: Read error: Connection reset by peer
 [2016/01/29 06:40:38] <pentagon> [10supertux] 07tobbi commented on issue 09#347: Music from "picnic with penny" overlaps with the music tux dances to 13https://git.io/vzbE3
+[2016/01/29 06:45:07] @ Tobbi joined channel #supertux
+[2016/01/29 06:45:07] @ Mode +v Tobbi by ChanServ
+[2016/01/29 06:47:40] <pentagon> [10supertux] 07Hume2 commented on issue 09#347: Music from "picnic with penny" overlaps with the music tux dances to 13https://git.io/vzbE3
+[2016/01/29 06:48:02] <Hume2> Hello, Tobbi
+[2016/01/29 06:48:10] <Tobbi> Hello, me.
+[2016/01/29 06:51:20] @ Hume2_ joined channel #supertux
+[2016/01/29 06:51:20] @ Mode +v Hume2_ by ChanServ
+[2016/01/29 06:51:49] @ Hume2 is now known as Guest30590
+[2016/01/29 06:51:49] @ Hume2_ is now known as Hume2
+[2016/01/29 06:52:01] <Hume2> Hate those connection errors.
+[2016/01/29 06:52:39] @ Quit: Guest30590: Ping timeout: 252 seconds
