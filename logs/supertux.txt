@@ -49325,3 +49325,21 @@
 [2016/01/29 10:15:26] @ Hume2 joined channel #supertux
 [2016/01/29 10:15:26] @ Mode +v Hume2 by ChanServ
 [2016/01/29 10:20:00] @ Quit: Hume2: Ping timeout: 252 seconds
+[2016/01/29 10:32:59] <brmbrmcar> I'm back.
+[2016/01/29 10:34:46] @ Mode +o mt by ChanServ
+[2016/01/29 10:34:49] @ brmbrmcar left channel #supertux (requested by mt (you've been told multiple times to use /away))
+[2016/01/29 10:34:51] @ Mode -o mt by ChanServ
+[2016/01/29 10:38:55] <Tobbi> mt: LOL
+[2016/01/29 10:39:06] <Tobbi> Oh!
+[2016/01/29 10:39:18] <Tobbi> I thought that was a manual back message.
+[2016/01/29 10:39:59] <jesusalva> Nobody likes Chris-- I meant, brmbrmcar >.>
+[2016/01/29 10:40:08] @ Hume2 joined channel #supertux
+[2016/01/29 10:40:09] <mt> I don't care if it's manual or automated, it's annoying, and there was no important discussion where away/back messages would be important
+[2016/01/29 10:41:31] <jesusalva> mt: You guys kicking brmbrmcar every day is way more annoying than his messages imo >.>
+[2016/01/29 10:41:36] <jesusalva> *imo -> iho
+[2016/01/29 10:41:44] <jesusalva> In His Opinion
+[2016/01/29 10:42:00] <pentagon> [10supertux] 07brmbrmcar commented on issue 09#347: Music from "picnic with penny" overlaps with the music tux dances to 13https://git.io/vzbE3
+[2016/01/29 10:42:25] <mt> for some reason, I don't really want to ban him permanently, but warn him
+[2016/01/29 10:42:36] <pentagon> [10supertux] 07brmbrmcar commented on issue 09#347: Music from "picnic with penny" overlaps with the music tux dances to 13https://git.io/vzbE3
+[2016/01/29 10:44:16] * Hume2 is reading the log.
+[2016/01/29 10:44:52] <mt> and re log (IRC colors): 0 should be indeed white
