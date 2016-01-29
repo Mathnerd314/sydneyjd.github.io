@@ -49063,3 +49063,8 @@
 [2016/01/28 18:02:40] @ Quit: testII: Ping timeout: 260 seconds
 [2016/01/28 18:06:54] @ Quit: stewboy: Read error: Connection reset by peer
 [2016/01/28 18:08:33] @ Quit: alket: Quit: Good night!
+[2016/01/28 18:48:02] @ Quit: datahead7777: Quit: Leaving
+[2016/01/28 18:48:14] @ datahead8888 joined channel #supertux
+[2016/01/28 18:50:01] @ Quit: datahead8888: Client Quit
+[2016/01/28 18:50:13] @ datahead8888 joined channel #supertux
+[2016/01/28 18:50:38] @ datahead8888 is now known as datahead7777
