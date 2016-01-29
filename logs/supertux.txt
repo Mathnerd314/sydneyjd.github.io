@@ -49242,3 +49242,5 @@
 [2016/01/29 07:45:32] <pentagon> [10supertux] 07Hume2 14f93a847 Fixed typos in iceblock sprites
 [2016/01/29 08:06:31] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/29 08:11:18] @ Quit: Hume2: Ping timeout: 252 seconds
+[2016/01/29 08:15:23] @ Hume2 joined channel #supertux
+[2016/01/29 08:15:23] @ Mode +v Hume2 by ChanServ
