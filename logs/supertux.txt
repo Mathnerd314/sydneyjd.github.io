@@ -49543,3 +49543,6 @@
 [2016/01/29 18:23:59] @ datahead8888 joined channel #supertux
 [2016/01/29 18:34:32] @ Tobbi joined channel #supertux
 [2016/01/29 18:34:32] @ Mode +v Tobbi by ChanServ
+[2016/01/29 18:48:53] @ Quit: nerdopolis: Quit: No Ping reply in 180 seconds.
+[2016/01/29 18:49:39] @ nerdopolis_ joined channel #supertux
+[2016/01/29 18:49:50] @ Quit: Tobbi: Remote host closed the connection
