@@ -49665,3 +49665,6 @@
 [2016/01/30 08:56:15] <pentagon> [10flexlay] 07maxteufel 146c386da supertux: don't throw errors when config.binary is None
 [2016/01/30 09:05:11] <sydney_untangle> mt: Every sort of Android knockoff seems to run some sort of binary blobs, but i guess that can be expected.
 [2016/01/30 09:05:59] <mt> sydney_untangle: what do you think about reformatting the code?
+[2016/01/30 09:22:07] <sydney_untangle> mt: What do you mean by that?
+[2016/01/30 09:25:48] @ Quit: lumidify: Ping timeout: 256 seconds
+[2016/01/30 09:27:08] @ Quit: Hume2: Ping timeout: 252 seconds
