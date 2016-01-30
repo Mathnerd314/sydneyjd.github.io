@@ -49546,3 +49546,5 @@
 [2016/01/29 18:48:53] @ Quit: nerdopolis: Quit: No Ping reply in 180 seconds.
 [2016/01/29 18:49:39] @ nerdopolis_ joined channel #supertux
 [2016/01/29 18:49:50] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/29 19:01:00] @ Quit: nerdopolis_: Ping timeout: 272 seconds
+[2016/01/29 19:03:21] @ nerdopolis_ joined channel #supertux
