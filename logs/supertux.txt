@@ -49638,3 +49638,4 @@
 [2016/01/30 06:21:43] <mt> hooks have to be installed manually
 [2016/01/30 06:22:02] <Tobbi> Ah, okay.
 [2016/01/30 06:24:19] @ Quit: stewboy: Read error: Connection reset by peer
+[2016/01/30 07:09:03] @ lumidify joined channel #supertux
