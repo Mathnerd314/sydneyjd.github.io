@@ -49669,3 +49669,6 @@
 [2016/01/30 09:25:48] @ Quit: lumidify: Ping timeout: 256 seconds
 [2016/01/30 09:27:08] @ Quit: Hume2: Ping timeout: 252 seconds
 [2016/01/30 09:30:59] <mt> See what I wrote some hours ago
+[2016/01/30 09:46:11] @ lumidify joined channel #supertux
+[2016/01/30 09:48:28] @ Quit: Karkus: Ping timeout: 256 seconds
+[2016/01/30 09:54:04] @ irungentoo joined channel #supertux
