@@ -49597,3 +49597,6 @@
 [2016/01/30 02:16:40] <mt> sydney_untangle: (oh and if you're only concerned about the proprietary google apps (play store, gmail, ...), a clean AOSP build won't ship those)
 [2016/01/30 02:52:56] @ Quit: lumidify: Ping timeout: 240 seconds
 [2016/01/30 02:53:25] @ lumidify joined channel #supertux
+[2016/01/30 03:05:05] @ Quit: tuxdev_: Ping timeout: 245 seconds
+[2016/01/30 03:05:06] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/01/30 03:09:20] @ lumidify joined channel #supertux
