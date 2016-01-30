@@ -49692,3 +49692,18 @@
 [2016/01/30 13:49:32] @ leyyin joined channel #supertux
 [2016/01/30 14:28:41] @ Hume2 joined channel #supertux
 [2016/01/30 14:28:41] @ Mode +v Hume2 by ChanServ
+[2016/01/30 14:30:32] <Hume2> ~note sydney_untangle Could you archive the logs? I think it's getting laggy.
+[2016/01/30 14:30:32] <red_bot> alright, Hume2
+[2016/01/30 14:35:58] <mt> archive?
+[2016/01/30 14:37:28] <Hume2> ~note sydney_untangle Never mind, you don't do it anyway.
+[2016/01/30 14:37:28] <red_bot> can do, Hume2
+[2016/01/30 14:38:00] <Hume2> mt: I thought removing the beginning of the log and putting it to an archive.
+[2016/01/30 14:38:15] <mt> well it's monthly
+[2016/01/30 14:38:53] <mt> it would be probably possible to have it make daily separate files but that's silly when you want to follow a discussion happening over midnight
+[2016/01/30 14:39:28] <Hume2> mt: There is only November and December.
+[2016/01/30 14:39:41] <Hume2> There's one month missing.
+[2016/01/30 14:39:51] <mt> what?
+[2016/01/30 14:40:25] <mt> oh
+[2016/01/30 14:40:28] <mt> indeed
+[2016/01/30 14:40:34] <mt> the current log doesn't get rotated
+[2016/01/30 14:40:40] <Hume2> Plus whole the November 6 - December 2 is in the current log.
