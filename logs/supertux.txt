@@ -49683,3 +49683,4 @@
 [2016/01/30 11:21:31] @ Mode +v Tobbi by ChanServ
 [2016/01/30 11:26:05] @ sydney_untangle joined channel #supertux
 [2016/01/30 11:26:05] @ Mode +v sydney_untangle by ChanServ
+[2016/01/30 11:43:15] @ Quit: Tobbi: Remote host closed the connection
