@@ -49628,3 +49628,13 @@
 [2016/01/30 06:12:04] <mt> voiced people: request for comments: re-format source code with clang-format
 [2016/01/30 06:13:13] <mt> pros: consistent formatting of the code, cons: will cause problems with forks and development branches
 [2016/01/30 06:14:41] <Tobbi> mt: Why will that cause problems?
+[2016/01/30 06:15:06] <Tobbi> people just have to fix merge conflicts.
+[2016/01/30 06:15:14] <Tobbi> If I understand correctly.
+[2016/01/30 06:16:55] <mt> yes, that
+[2016/01/30 06:17:27] <mt> or people run clang-format with the same options on their branch before requesting the merge
+[2016/01/30 06:20:46] <Tobbi> hmm...
+[2016/01/30 06:21:01] <Tobbi> mt: ...or we run clang format as a hook... :P
+[2016/01/30 06:21:20] <Tobbi> Actually, we can do that regardless.
+[2016/01/30 06:21:43] <mt> hooks have to be installed manually
+[2016/01/30 06:22:02] <Tobbi> Ah, okay.
+[2016/01/30 06:24:19] @ Quit: stewboy: Read error: Connection reset by peer
