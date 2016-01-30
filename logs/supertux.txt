@@ -49610,3 +49610,6 @@
 [2016/01/30 04:32:00] @ lumidify joined channel #supertux
 [2016/01/30 04:33:11] @ Hume2 joined channel #supertux
 [2016/01/30 04:33:11] @ Mode +v Hume2 by ChanServ
+[2016/01/30 04:56:10] @ Quit: VargaD: Ping timeout: 250 seconds
+[2016/01/30 04:57:36] @ Quit: Hume2: Ping timeout: 252 seconds
+[2016/01/30 04:58:29] @ VargaD joined channel #supertux
