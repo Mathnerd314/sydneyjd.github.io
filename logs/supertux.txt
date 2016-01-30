@@ -49570,3 +49570,4 @@
 [2016/01/29 22:07:57] <sydney_untangle> I'm stuck on my texting app though...
 [2016/01/29 22:09:57] @ datahead8888 joined channel #supertux
 [2016/01/29 22:10:57] @ Quit: datahead8888: Client Quit
+[2016/01/29 22:32:51] <sydney_untangle> Oh yay... Tobbi, do you want to respond to the emailer?
