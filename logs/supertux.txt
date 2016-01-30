@@ -49728,3 +49728,5 @@
 [2016/01/30 18:10:45] @ Quit: pentagon: Ping timeout: 240 seconds
 [2016/01/30 18:10:46] @ Quit: paroneayea: Ping timeout: 240 seconds
 [2016/01/30 18:10:46] @ Quit: leyyin: Ping timeout: 240 seconds
+[2016/01/30 18:19:24] @ leyyin joined channel #supertux
+[2016/01/30 18:27:22] @ paroneay` is now known as paroneayea
