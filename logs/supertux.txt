@@ -49550,3 +49550,9 @@
 [2016/01/29 19:03:21] @ nerdopolis_ joined channel #supertux
 [2016/01/29 19:56:30] @ paroneay` joined channel #supertux
 [2016/01/29 19:59:32] @ apostrophe joined channel #supertux
+[2016/01/29 20:01:48] @ pentagon` joined channel #supertux
+[2016/01/29 20:04:04] @ Quit: paroneayea: *.net *.split
+[2016/01/29 20:04:05] @ Quit: binki: *.net *.split
+[2016/01/29 20:04:08] @ Quit: pentagon: *.net *.split
+[2016/01/29 20:04:11] @ Quit: jeezy: *.net *.split
+[2016/01/29 20:10:00] @ jeexy joined channel #supertux
