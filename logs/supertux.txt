@@ -49578,3 +49578,5 @@
 [2016/01/30 00:30:54] @ Mathnerd314 joined channel #supertux
 [2016/01/30 00:43:23] @ tuxdev_ joined channel #supertux
 [2016/01/30 00:43:55] @ stewboy_ joined channel #supertux
+[2016/01/30 00:45:26] @ Quit: stewboy: Ping timeout: 240 seconds
+[2016/01/30 00:45:26] @ stewboy_ is now known as stewboy
