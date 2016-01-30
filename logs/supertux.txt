@@ -49687,3 +49687,4 @@
 [2016/01/30 11:48:17] @ Karkus joined channel #supertux
 [2016/01/30 11:48:17] @ Mode +v Karkus by ChanServ
 [2016/01/30 11:54:01] @ Quit: lumidify: Ping timeout: 265 seconds
+[2016/01/30 12:36:14] @ lumidify joined channel #supertux
