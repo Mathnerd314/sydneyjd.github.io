@@ -49589,3 +49589,8 @@
 [2016/01/30 01:31:09] @ lumidify joined channel #supertux
 [2016/01/30 01:41:50] @ Quit: lumidify: Ping timeout: 276 seconds
 [2016/01/30 01:42:16] @ lumidify joined channel #supertux
+[2016/01/30 02:02:23] <mt> sydney_untangle: there's http://www.replicant.us/, which is an android fork without binary blobs - however, if you don't trust google that won't work
+[2016/01/30 02:03:06] <mt> sydney_untangle: you might want to look into firefox os or ubuntu touch (or whatever that's called now) - but I'm almost sure these ship binary blobs as well
+[2016/01/30 02:04:01] <mt> sydney_untangle: the only thing that you might trust and might not ship (untrustworthy) binary blobs is OpenBSD - however it's hard to get that running on a phone
+[2016/01/30 02:04:30] <mt> pentagon`: ircquote ns regain pentagon
+[2016/01/30 02:05:26] @ pentagon` is now known as pentagon
