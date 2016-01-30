@@ -49646,3 +49646,4 @@
 [2016/01/30 08:05:37] @ Hume2 joined channel #supertux
 [2016/01/30 08:05:38] @ Mode +v Hume2 by ChanServ
 [2016/01/30 08:05:56] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/01/30 08:16:23] @ lumidify joined channel #supertux
