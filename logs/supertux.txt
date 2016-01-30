@@ -49617,3 +49617,8 @@
 [2016/01/30 05:19:35] @ Mode +v Tobbi by ChanServ
 [2016/01/30 05:23:40] <Tobbi> sydney_untangle: Yes, please respond to that e-mailer...
 [2016/01/30 05:28:40] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/30 05:54:16] @ Karkus joined channel #supertux
+[2016/01/30 05:54:17] @ Mode +v Karkus by ChanServ
+[2016/01/30 05:56:29] @ Hume2 joined channel #supertux
+[2016/01/30 05:56:29] @ Mode +v Hume2 by ChanServ
+[2016/01/30 05:59:50] @ Quit: lumidify: Ping timeout: 260 seconds
