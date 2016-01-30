@@ -49581,3 +49581,8 @@
 [2016/01/30 00:45:26] @ Quit: stewboy: Ping timeout: 240 seconds
 [2016/01/30 00:45:26] @ stewboy_ is now known as stewboy
 [2016/01/30 01:03:00] @ Quit: stewboy: Ping timeout: 245 seconds
+[2016/01/30 01:15:36] @ Quit: Mathnerd314: Ping timeout: 240 seconds
+[2016/01/30 01:16:38] @ stewboy joined channel #supertux
+[2016/01/30 01:21:45] @ Quit: jeexy: Changing host
+[2016/01/30 01:21:45] @ jeexy joined channel #supertux
+[2016/01/30 01:21:48] @ jeexy is now known as jeezy
