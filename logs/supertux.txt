@@ -49562,3 +49562,6 @@
 [2016/01/29 21:30:31] @ datahead8888_ joined channel #supertux
 [2016/01/29 21:34:38] @ Quit: datahead8888: Ping timeout: 256 seconds
 [2016/01/29 21:35:46] @ Quit: datahead8888_: Ping timeout: 256 seconds
+[2016/01/29 21:52:10] <sydney_untangle> mt: So, quick question. I'm looking into a FLOSS operationg system for my smartphone, but can you recomend any to me? Cynanogenmod is decent, but it does have non-free binaries and such, and im sure googel has some backdoors hidden in the source code as well.
+[2016/01/29 21:52:33] <sydney_untangle> You are quite knowledgable when it comes to FLOSS related things. :)
+[2016/01/29 21:56:54] <sydney_untangle> Im trying to push more for FLOSS, and learn more... but it takes time...
