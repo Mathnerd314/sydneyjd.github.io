@@ -49707,3 +49707,9 @@
 [2016/01/30 14:40:28] <mt> indeed
 [2016/01/30 14:40:34] <mt> the current log doesn't get rotated
 [2016/01/30 14:40:40] <Hume2> Plus whole the November 6 - December 2 is in the current log.
+[2016/01/30 14:46:38] @ Hume2_ joined channel #supertux
+[2016/01/30 14:46:39] @ Mode +v Hume2_ by ChanServ
+[2016/01/30 14:47:24] @ Hume2 is now known as Guest40233
+[2016/01/30 14:47:24] @ Hume2_ is now known as Hume2
+[2016/01/30 14:47:46] @ Quit: Guest40233: Ping timeout: 252 seconds
+[2016/01/30 14:52:10] @ Quit: Hume2: Ping timeout: 252 seconds
