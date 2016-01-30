@@ -49649,3 +49649,17 @@
 [2016/01/30 08:16:23] @ lumidify joined channel #supertux
 [2016/01/30 08:34:15] @ Quit: lumidify: Ping timeout: 245 seconds
 [2016/01/30 08:39:55] @ lumidify joined channel #supertux
+[2016/01/30 08:45:36] <lumidify> Hi, shouldn't flexlay/supertux/supertux.py, line 66 be changed from "if not os.path.isfile(config.binary):" to "if not config.binary or not os.path.isfile(config.binary):", so that it doesn't throw an error when config.binary is None?
+[2016/01/30 08:46:28] <mt> lumidify: I guess yeah
+[2016/01/30 08:46:50] <mt> lumidify: do you want to submit a Pull Request or want me to change it?
+[2016/01/30 08:47:20] <lumidify> I would appreciate it if you just changed it, since it's such a small error.
+[2016/01/30 08:48:25] <mt> actually
+[2016/01/30 08:50:11] <mt> hm
+[2016/01/30 08:50:37] <mt> can the QFileDialog.getOpenFileName thing return None
+[2016/01/30 08:51:04] <mt> because inside that if condition there's another one checking if not config.binary
+[2016/01/30 08:52:09] <lumidify> For me what happened was that the check for os.path.isfile(config.binary) threw an error in os.stat because config.binary was None at that point.
+[2016/01/30 08:53:03] <mt> yeah I see
+[2016/01/30 08:53:21] <mt> it should be what you suggested, that's already above for the datadir
+[2016/01/30 08:53:29] <lumidify> Yeah
+[2016/01/30 08:56:12] <pentagon> [10flexlay] 07maxteufel pushed 1 commit to 09develop 13https://git.io/vzh4P
+[2016/01/30 08:56:15] <pentagon> [10flexlay] 07maxteufel 146c386da supertux: don't throw errors when config.binary is None
