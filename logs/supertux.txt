@@ -49605,3 +49605,5 @@
 [2016/01/30 03:47:48] @ paroneay` is now known as paroneayea
 [2016/01/30 04:01:14] @ Quit: lumidify: Ping timeout: 272 seconds
 [2016/01/30 04:14:04] @ claymore2 joined channel #supertux
+[2016/01/30 04:22:53] @ lumidify joined channel #supertux
+[2016/01/30 04:28:28] @ Quit: lumidify: Ping timeout: 272 seconds
