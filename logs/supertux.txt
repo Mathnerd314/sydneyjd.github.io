@@ -49663,3 +49663,5 @@
 [2016/01/30 08:53:29] <lumidify> Yeah
 [2016/01/30 08:56:12] <pentagon> [10flexlay] 07maxteufel pushed 1 commit to 09develop 13https://git.io/vzh4P
 [2016/01/30 08:56:15] <pentagon> [10flexlay] 07maxteufel 146c386da supertux: don't throw errors when config.binary is None
+[2016/01/30 09:05:11] <sydney_untangle> mt: Every sort of Android knockoff seems to run some sort of binary blobs, but i guess that can be expected.
+[2016/01/30 09:05:59] <mt> sydney_untangle: what do you think about reformatting the code?
