@@ -49595,3 +49595,5 @@
 [2016/01/30 02:04:30] <mt> pentagon`: ircquote ns regain pentagon
 [2016/01/30 02:05:26] @ pentagon` is now known as pentagon
 [2016/01/30 02:16:40] <mt> sydney_untangle: (oh and if you're only concerned about the proprietary google apps (play store, gmail, ...), a clean AOSP build won't ship those)
+[2016/01/30 02:52:56] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/01/30 02:53:25] @ lumidify joined channel #supertux
