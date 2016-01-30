@@ -49690,3 +49690,5 @@
 [2016/01/30 12:36:14] @ lumidify joined channel #supertux
 [2016/01/30 12:54:48] @ Quit: Karkus: Ping timeout: 264 seconds
 [2016/01/30 13:49:32] @ leyyin joined channel #supertux
+[2016/01/30 14:28:41] @ Hume2 joined channel #supertux
+[2016/01/30 14:28:41] @ Mode +v Hume2 by ChanServ
