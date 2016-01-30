@@ -49600,3 +49600,4 @@
 [2016/01/30 03:05:05] @ Quit: tuxdev_: Ping timeout: 245 seconds
 [2016/01/30 03:05:06] @ Quit: lumidify: Ping timeout: 240 seconds
 [2016/01/30 03:09:20] @ lumidify joined channel #supertux
+[2016/01/30 03:20:06] @ Quit: lumidify: Ping timeout: 240 seconds
