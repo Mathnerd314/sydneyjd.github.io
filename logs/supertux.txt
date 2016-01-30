@@ -49559,3 +49559,6 @@
 [2016/01/29 20:26:49] @ datahead8888 is now known as datahead7777
 [2016/01/29 21:27:18] @ Quit: datahead7777: Ping timeout: 250 seconds
 [2016/01/29 21:29:54] @ datahead8888 joined channel #supertux
+[2016/01/29 21:30:31] @ datahead8888_ joined channel #supertux
+[2016/01/29 21:34:38] @ Quit: datahead8888: Ping timeout: 256 seconds
+[2016/01/29 21:35:46] @ Quit: datahead8888_: Ping timeout: 256 seconds
