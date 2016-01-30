@@ -49622,3 +49622,9 @@
 [2016/01/30 05:56:29] @ Hume2 joined channel #supertux
 [2016/01/30 05:56:29] @ Mode +v Hume2 by ChanServ
 [2016/01/30 05:59:50] @ Quit: lumidify: Ping timeout: 260 seconds
+[2016/01/30 06:03:22] @ Tobbi joined channel #supertux
+[2016/01/30 06:03:22] @ Mode +v Tobbi by ChanServ
+[2016/01/30 06:11:51] @ Quit: Hume2: Ping timeout: 252 seconds
+[2016/01/30 06:12:04] <mt> voiced people: request for comments: re-format source code with clang-format
+[2016/01/30 06:13:13] <mt> pros: consistent formatting of the code, cons: will cause problems with forks and development branches
+[2016/01/30 06:14:41] <Tobbi> mt: Why will that cause problems?
