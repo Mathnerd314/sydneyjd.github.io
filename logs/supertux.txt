@@ -49714,3 +49714,5 @@
 [2016/01/30 14:47:46] @ Quit: Guest40233: Ping timeout: 252 seconds
 [2016/01/30 14:52:10] @ Quit: Hume2: Ping timeout: 252 seconds
 [2016/01/30 15:24:56] @ Quit: lumidify: Quit: Leaving
+[2016/01/30 15:30:57] <sydney_untangle> Hehe, yes, i need to fix the logs.
+[2016/01/30 15:30:57] <red_bot> sydney_untangle, you have notes! [Jan-30 14:30] <Hume2> Could you archive the logs? I think it's getting laggy. [Jan-30 14:37] <Hume2> Never mind, you don't do it anyway.
