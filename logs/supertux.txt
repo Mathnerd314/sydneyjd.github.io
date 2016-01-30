@@ -49713,3 +49713,4 @@
 [2016/01/30 14:47:24] @ Hume2_ is now known as Hume2
 [2016/01/30 14:47:46] @ Quit: Guest40233: Ping timeout: 252 seconds
 [2016/01/30 14:52:10] @ Quit: Hume2: Ping timeout: 252 seconds
+[2016/01/30 15:24:56] @ Quit: lumidify: Quit: Leaving
