@@ -49557,3 +49557,5 @@
 [2016/01/29 20:04:11] @ Quit: jeezy: *.net *.split
 [2016/01/29 20:10:00] @ jeexy joined channel #supertux
 [2016/01/29 20:26:49] @ datahead8888 is now known as datahead7777
+[2016/01/29 21:27:18] @ Quit: datahead7777: Ping timeout: 250 seconds
+[2016/01/29 21:29:54] @ datahead8888 joined channel #supertux
