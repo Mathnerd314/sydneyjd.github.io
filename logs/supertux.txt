@@ -49639,3 +49639,6 @@
 [2016/01/30 06:22:02] <Tobbi> Ah, okay.
 [2016/01/30 06:24:19] @ Quit: stewboy: Read error: Connection reset by peer
 [2016/01/30 07:09:03] @ lumidify joined channel #supertux
+[2016/01/30 07:39:16] @ Hume2 joined channel #supertux
+[2016/01/30 07:39:17] @ Mode +v Hume2 by ChanServ
+[2016/01/30 07:39:23] <Hume2> Hello
