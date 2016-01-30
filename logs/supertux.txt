@@ -49684,3 +49684,6 @@
 [2016/01/30 11:26:05] @ sydney_untangle joined channel #supertux
 [2016/01/30 11:26:05] @ Mode +v sydney_untangle by ChanServ
 [2016/01/30 11:43:15] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/30 11:48:17] @ Karkus joined channel #supertux
+[2016/01/30 11:48:17] @ Mode +v Karkus by ChanServ
+[2016/01/30 11:54:01] @ Quit: lumidify: Ping timeout: 265 seconds
