@@ -49674,3 +49674,12 @@
 [2016/01/30 09:54:04] @ irungentoo joined channel #supertux
 [2016/01/30 10:08:43] @ tuxdev_ joined channel #supertux
 [2016/01/30 11:11:07] @ quit (okay bye)
+[2016/01/30 11:21:01] @ Joined channel #supertux
+[2016/01/30 11:21:01] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/01/30 11:21:01] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
+[2016/01/30 11:21:05] @ Mode +Cntj 5:10 by leguin.freenode.net
+[2016/01/30 11:21:14] @ Mode +v red_bot by ChanServ
+[2016/01/30 11:21:30] @ Tobbi joined channel #supertux
+[2016/01/30 11:21:31] @ Mode +v Tobbi by ChanServ
+[2016/01/30 11:26:05] @ sydney_untangle joined channel #supertux
+[2016/01/30 11:26:05] @ Mode +v sydney_untangle by ChanServ
