@@ -50203,3 +50203,39 @@
 [2016/01/31 09:24:22] <Hume2> :D
 [2016/01/31 09:25:41] <Tobbi> :D
 [2016/01/31 09:28:49] * brmbrmcar has given up
+[2016/01/31 09:30:22] <Hume2> Ever headr about taming cars?
+[2016/01/31 09:30:31] <Hume2> s/headr/heard/
+[2016/01/31 09:30:31] <red_bot> Hume2 meant: "Ever heard about taming cars?"
+[2016/01/31 09:30:31] <brmbrmcar> What?
+[2016/01/31 09:30:38] <brmbrmcar> No.
+[2016/01/31 09:30:40] <Hume2> :P
+[2016/01/31 09:30:41] <Tobbi> Hume2: Don't tempt him...
+[2016/01/31 09:30:48] <Hume2> OK
+[2016/01/31 09:30:54] <brmbrmcar> What is it?
+[2016/01/31 09:32:24] <brmbrmcar> Come on...
+[2016/01/31 09:33:38] @ Quit: lumidify: Ping timeout: 256 seconds
+[2016/01/31 09:33:40] * brmbrmcar opens DuckDuckGo
+[2016/01/31 09:34:21] <Hume2> You can tame the car and you kick it instead.
+[2016/01/31 09:34:47] <brmbrmcar> I can't find it on DuckDuckGo or Google!
+[2016/01/31 09:35:19] <brmbrmcar> I can kick mybot, but that's mean.
+[2016/01/31 09:36:00] <Hume2> I wasn't speaking about your bot anyway.
+[2016/01/31 09:36:50] <brmbrmcar> I kick car222
+[2016/01/31 09:37:03] @ irungentoo joined channel #supertux
+[2016/01/31 09:37:56] @ Quit: nerdopolis_: Ping timeout: 240 seconds
+[2016/01/31 09:38:05] <brmbrmcar> Do you mean like https://paste.kde.org/pg4vslyzs ?
+[2016/01/31 09:38:10] <Hume2> As I hear those complaintments about car computers, I think that "tame a car" is a challenge IRL.
+[2016/01/31 09:38:35] <Hume2> :D
+[2016/01/31 09:39:52] <brmbrmcar> I would like on-board computers, if they were powerful and had the ability to boot another OS.
+[2016/01/31 09:39:59] @ nerdopolis joined channel #supertux
+[2016/01/31 09:40:15] <Hume2> :D That will be useful.
+[2016/01/31 09:40:47] <Hume2> Do you know what our on-board computer did when the battery was broken?
+[2016/01/31 09:40:53] <brmbrmcar> I want a driverless one.
+[2016/01/31 09:40:58] <brmbrmcar> What did it do?
+[2016/01/31 09:41:21] <Hume2> It signalized everything, airbags, ABS, errors those noone understand...
+[2016/01/31 09:41:38] <Hume2> And then it stopped riding.
+[2016/01/31 09:42:27] <Hume2> That way, taming a car is really a challenge.
+[2016/01/31 09:42:46] <Hume2> :
+[2016/01/31 09:42:49] <Hume2> D
+[2016/01/31 09:43:09] <Hume2> s/D/:D/
+[2016/01/31 09:43:09] <red_bot> Hume2 meant: ":D"
+[2016/01/31 09:44:33] <Hume2> It can be even harder than taming a normal computer, because you can't reinstall it.
