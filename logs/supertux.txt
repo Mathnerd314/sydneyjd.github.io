@@ -49883,3 +49883,32 @@
 [2016/01/31 04:58:25] <mt> Having few translations with higher quality content and more than x% translated is better than having many translations
 [2016/01/31 04:58:30] <Hume2> Oh, quality and quantity.
 [2016/01/31 04:58:59] <Hume2> Got it.
+[2016/01/31 05:00:56] @ Hume5 joined channel #supertux
+[2016/01/31 05:00:57] @ Mode +v Hume5 by ChanServ
+[2016/01/31 05:00:58] @ Hume2 is now known as Guest1330
+[2016/01/31 05:00:59] @ Hume5 is now known as Hume2
+[2016/01/31 05:02:18] <Hume2> There's also Esperanto.
+[2016/01/31 05:03:01] <Hume2> At least we don't have those language variations.
+[2016/01/31 05:03:33] @ Quit: Guest1330: Ping timeout: 252 seconds
+[2016/01/31 05:06:16] <Hume2> Wait, we have some of them.
+[2016/01/31 05:06:59] <Hume2> 5 kinds of Spanish
+[2016/01/31 05:07:02] <mt> Hindi (India), mostly
+[2016/01/31 05:07:26] <mt> where are 5 kinds of Spanish
+[2016/01/31 05:07:33] @ brmbrmcar joined channel #supertux
+[2016/01/31 05:07:43] <Hume2> mt: https://www.transifex.com/otf/torproject/
+[2016/01/31 05:08:05] <mt> We don't have them
+[2016/01/31 05:08:17] <Hume2> I hope that it's a fake.
+[2016/01/31 05:08:36] <Hume2> Yes, it's another thing.
+[2016/01/31 05:09:20] @ claymore2 joined channel #supertux
+[2016/01/31 05:09:31] <Hume2> Do we really have exactly 1000 strings or it's a fake?
+[2016/01/31 05:09:44] <mt> Hume2: do you have transifex?
+[2016/01/31 05:09:54] <mt> I guess I can add you to the maintainers then
+[2016/01/31 05:09:58] <Hume2> Hume2: I have transifex.
+[2016/01/31 05:10:13] <mt> what's your username?
+[2016/01/31 05:10:27] <Hume2> Hume
+[2016/01/31 05:10:53] <mt> "Invitations sent successfully."
+[2016/01/31 05:13:43] <mt> meh
+[2016/01/31 05:13:44] <Hume2> It looks like I'm the admin now, thanks.
+[2016/01/31 05:13:51] <mt> should I remove the 0% langs?
+[2016/01/31 05:14:33] <mt> I'd suggest a policy:
+[2016/01/31 05:14:46] <Hume2> go on
