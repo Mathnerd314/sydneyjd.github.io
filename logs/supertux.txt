@@ -49737,3 +49737,4 @@
 [2016/01/30 21:21:53] @ datahead8888 joined channel #supertux
 [2016/01/30 21:23:47] @ Tobbi joined channel #supertux
 [2016/01/30 21:23:47] @ Mode +v Tobbi by ChanServ
+[2016/01/30 21:34:47] @ Quit: Tobbi: Remote host closed the connection
