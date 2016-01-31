@@ -49820,3 +49820,15 @@
 [2016/01/31 03:57:30] <Hume2> mt: I've blocked him. So he's now blocked in the SuperTux organization, isn't he?
 [2016/01/31 03:57:39] <mt> I think/hope so
 [2016/01/31 03:59:44] <Hume2> If he got banned in Cecflit too, I wouldn't mind.
+[2016/01/31 04:00:31] <mt> >_>
+[2016/01/31 04:00:36] @ Hume2_ joined channel #supertux
+[2016/01/31 04:00:36] @ Mode +v Hume2_ by ChanServ
+[2016/01/31 04:00:36] <mt> Why not in English?
+[2016/01/31 04:00:42] @ Hume2 is now known as Guest2404
+[2016/01/31 04:00:42] @ Hume2_ is now known as Hume2
+[2016/01/31 04:00:55] <Hume2> I hate those connection errors.
+[2016/01/31 04:07:48] @ Joined channel #supertux
+[2016/01/31 04:07:48] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/01/31 04:07:48] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
+[2016/01/31 04:07:52] @ Mode +Cntj 5:10 by adams.freenode.net
+[2016/01/31 04:08:01] @ Mode +v red_bot by ChanServ
