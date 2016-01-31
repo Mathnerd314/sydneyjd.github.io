@@ -50045,3 +50045,59 @@
 [2016/01/31 07:41:46] @ Mode +v Hume2 by ChanServ
 [2016/01/31 07:42:20] <Tobbi> Hello.
 [2016/01/31 07:42:29] <Tobbi> A lot of scrollback from yesterday...
+[2016/01/31 07:45:25] <Tobbi> Hume2: Is what happened yesterday sign of *sigh* for me?
+[2016/01/31 07:45:42] <Tobbi> I mean: Should I say *sigh* because of what happened yesterday?
+[2016/01/31 07:46:03] <Hume2> What happened? You know, my memory.
+[2016/01/31 07:46:35] <Tobbi> Hume2: Actually, nothing...just a lot of scrollback and discussing people like Savsish and brmbrmcar.
+[2016/01/31 07:46:53] <Tobbi> I'm still on it, reading that scrollback.
+[2016/01/31 07:46:57] <Hume2> That sounds sighful.
+[2016/01/31 07:47:12] <mt> Tobbi: btw, see #350 and #351 when you're done reading backlog
+[2016/01/31 07:47:23] <Tobbi> Hume2: See!
+[2016/01/31 07:47:25] <Tobbi> mt: I am on it...
+[2016/01/31 07:49:01] <Tobbi> mt: The thing is the following: We don't want ALL the strings in ALL the contrib levels to be translated. I mean: We do, but it's not a high priority...
+[2016/01/31 07:49:23] <Tobbi> mt: So, for me it suffices, when Menu principale, world1 and 2 and probably the bonus islands are translated.
+[2016/01/31 07:49:27] <Tobbi> The rest just doesn't matter.
+[2016/01/31 07:49:38] <Tobbi> So, I guess you can't put a certain percentage there.
+[2016/01/31 07:49:42] <mt> not probably for the bonus island
+[2016/01/31 07:49:45] <mt> s
+[2016/01/31 07:49:47] <mt> ok then
+[2016/01/31 07:50:08] <mt> I wonder
+[2016/01/31 07:50:20] <Tobbi> mt: Am I wrong with what I am saying? Or rather: Is there something I haven't considered yet...?
+[2016/01/31 07:50:22] <mt> should add-on translations be managed separately
+[2016/01/31 07:50:41] <mt> since they're actually unofficial
+[2016/01/31 07:50:51] <Tobbi> mt: Separately...meaning?
+[2016/01/31 07:51:30] <mt> like, we don't care about translations
+[2016/01/31 07:51:37] <mt> and the author has to care about them
+[2016/01/31 07:52:07] <Tobbi> mt: Hmm...that would make sense, but the author probably doesn't care enough.
+[2016/01/31 07:52:20] <Tobbi> And eventually, es fällt alles auf uns zurück, because, our game.
+[2016/01/31 07:53:14] <Tobbi> mt: Also, check #stk around the 13:30 mark (WTF???)
+[2016/01/31 07:54:13] <Tobbi> He can be glad I don't have any power in #stk...
+[2016/01/31 07:54:28] <mt> ikr
+[2016/01/31 07:54:58] <mt> I'm surprised it didn't result in an endless loop
+[2016/01/31 07:55:24] <Tobbi> The #stk guys are too nice. On the other hand, if they weren't I would've probably been banned because talking about things like women giving me a massage.
+[2016/01/31 07:56:28] <Tobbi> mt: Anyway, back to topic: Transifex has most of the translators...
+[2016/01/31 07:56:39] <Tobbi> And it's the best resource we have...
+[2016/01/31 07:56:48] <Tobbi> And since add-on makers won't care...
+[2016/01/31 07:56:51] <mt> Personally, I'd trash Transifex
+[2016/01/31 07:57:02] <mt> and go on using poedit
+[2016/01/31 07:57:06] <Tobbi> mt: ...and replace it with what?
+[2016/01/31 07:57:08] <Tobbi> ah.
+[2016/01/31 07:57:15] <Tobbi> mt: But that's not a website, is it?
+[2016/01/31 07:57:44] <mt> no
+[2016/01/31 07:57:49] <mt> websites are boring
+[2016/01/31 07:57:56] <Tobbi> So, how will we ever get people interested in providing translations when it's too difficult?
+[2016/01/31 07:58:10] <mt> >too difficult
+[2016/01/31 07:58:13] <Tobbi> mt: poedit is difficult for things like crowd-sourcing...
+[2016/01/31 07:58:19] <Tobbi> eeh, crowd...whatever.
+[2016/01/31 07:58:21] <Tobbi> you know what I mean.
+[2016/01/31 07:58:33] <mt> these days, people just expect everything to be a button away
+[2016/01/31 07:58:42] <mt> people don't really want to work
+[2016/01/31 07:58:57] <Tobbi> mt: It's an open source project, the easier we can make it, the better.
+[2016/01/31 07:59:00] <mt> it is easy, using git
+[2016/01/31 07:59:18] <mt> and personally, I'd also replace github
+[2016/01/31 07:59:19] <Tobbi> Translators don't necessarily know a lot about computers.
+[2016/01/31 07:59:24] <Tobbi> Github is nice.
+[2016/01/31 07:59:29] <mt> with something like phabricator or even more distributed
+[2016/01/31 07:59:40] <mt> GitHub is broken when it comes to collaboration
+[2016/01/31 07:59:47] <Tobbi> hmm...
+[2016/01/31 07:59:51] <Tobbi> mt: In what way?
