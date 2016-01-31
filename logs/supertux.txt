@@ -49912,3 +49912,36 @@
 [2016/01/31 05:13:51] <mt> should I remove the 0% langs?
 [2016/01/31 05:14:33] <mt> I'd suggest a policy:
 [2016/01/31 05:14:46] <Hume2> go on
+[2016/01/31 05:15:15] <mt> "New languages will only be accepted when a .po file with at least 90% strings of the translations is provided to the team"
+[2016/01/31 05:15:34] <brmbrmcar> 90% seems high.
+[2016/01/31 05:15:46] <mt> brmbrmcar: it ensures high quality
+[2016/01/31 05:16:00] <Hume2> Maybe 90% of the high priority resources?
+[2016/01/31 05:16:02] <brmbrmcar> I sawthat discussion.
+[2016/01/31 05:16:11] <mt> Hume2: no, of everything
+[2016/01/31 05:16:33] <mt> if you have serious intents of translating, you're able to provide such a translation
+[2016/01/31 05:17:23] <Hume2> hmmm... That means 900 strings. It is possible, yes.
+[2016/01/31 05:17:48] <mt> or 80%
+[2016/01/31 05:17:54] <mt> but not really less
+[2016/01/31 05:18:13] <mt> and you can always put up the .po on github to allow others to contribute
+[2016/01/31 05:18:17] <brmbrmcar> Then what is the vpoint in notgoing for 100%?
+[2016/01/31 05:18:26] <Hume2> If it was 90%, only 10 languages wouldn't get deleted.
+[2016/01/31 05:18:45] <mt> Hume2: new languages
+[2016/01/31 05:18:54] <Hume2> That's true that people can work together on that.
+[2016/01/31 05:19:04] <Hume2> I was considering that too.
+[2016/01/31 05:19:13] <Hume2> Yeah, only new languages.
+[2016/01/31 05:19:31] <mt> for old languages
+[2016/01/31 05:19:41] <mt> remove those where no serious intent to translate is showed
+[2016/01/31 05:20:00] <Hume2> That seems reasonable.
+[2016/01/31 05:20:18] <mt> old translations can still be in an archive git repo
+[2016/01/31 05:20:26] <Hume2> Agreed.
+[2016/01/31 05:20:44] <brmbrmcar> Is there an advantage to the user?
+[2016/01/31 05:21:00] <Hume2> I think it should also depend somehow on the resource priority.
+[2016/01/31 05:21:10] <mt> brmbrmcar: yes, users won't see incomplete and low quality translations
+[2016/01/31 05:21:22] <mt> brmbrmcar: and for us, it's easier to manage
+[2016/01/31 05:21:41] <brmbrmcar> Hmmm...
+[2016/01/31 05:21:46] <brmbrmcar> Seems alright.
+[2016/01/31 05:25:55] <Hume2> mt: The rule could be also like 100% of the main resources and 70% of other resources.
+[2016/01/31 05:26:30] <brmbrmcar> What is "low quality" then? Any guideline?
+[2016/01/31 05:26:42] <brmbrmcar> For old ones.
+[2016/01/31 05:27:14] <Hume2> I guess those are the translations those have less than 10% and no interrest of translating.
+[2016/01/31 05:28:47] <brmbrmcar> Should there be an inactivity period for translations under 50% or whatever?
