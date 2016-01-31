@@ -49987,3 +49987,6 @@
 [2016/01/31 05:50:01] <mt> the way it's handled in the code
 [2016/01/31 05:53:21] <pentagon> [10supertux] 07maxteufel opened issue 09#351: [RFC] Localization policies 13https://git.io/vzj6j
 [2016/01/31 06:10:57] @ Quit: stewboy: Read error: Connection reset by peer
+[2016/01/31 06:55:27] @ lumidify joined channel #supertux
+[2016/01/31 06:57:19] @ Tobbi joined channel #supertux
+[2016/01/31 06:57:19] @ Mode +v Tobbi by ChanServ
