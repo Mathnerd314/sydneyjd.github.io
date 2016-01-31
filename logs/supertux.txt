@@ -50239,3 +50239,10 @@
 [2016/01/31 09:43:09] <Hume2> s/D/:D/
 [2016/01/31 09:43:09] <red_bot> Hume2 meant: ":D"
 [2016/01/31 09:44:33] <Hume2> It can be even harder than taming a normal computer, because you can't reinstall it.
+[2016/01/31 09:45:09] <Tobbi> Guys, please.
+[2016/01/31 09:45:22] <Tobbi> For my sanity. I'm not in a good mood, so please stop talking about irrelevant things.
+[2016/01/31 09:46:51] <brmbrmcar> Nice!
+[2016/01/31 09:47:11] * brmbrmcar runs
+[2016/01/31 09:47:19] @ brmbrmcar left channel #supertux ("Broken terminal")
+[2016/01/31 09:49:20] <Tobbi> FInally.
+[2016/01/31 09:59:15] @ tuxdev_ joined channel #supertux
