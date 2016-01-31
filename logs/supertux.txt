@@ -50119,3 +50119,11 @@
 [2016/01/31 08:26:01] @ Tobbi joined channel #supertux
 [2016/01/31 08:26:02] @ Mode +v Tobbi by ChanServ
 [2016/01/31 08:26:31] <Tobbi> finally.
+[2016/01/31 08:30:13] <brmbrmcar> I've found an issue in the GitHub wiki, but not sure what I should write instead.
+[2016/01/31 08:30:32] <brmbrmcar> Normal users cannot upload .txt files onan issue on GitHub.
+[2016/01/31 08:41:40] @ Quit: lumidify: Ping timeout: 260 seconds
+[2016/01/31 08:41:43] @ Hume3 joined channel #supertux
+[2016/01/31 08:41:43] @ Mode +v Hume3 by ChanServ
+[2016/01/31 08:41:43] @ Hume2 is now known as Guest55009
+[2016/01/31 08:41:43] @ Hume3 is now known as Hume2
+[2016/01/31 08:43:00] @ Quit: Guest55009: Ping timeout: 252 seconds
