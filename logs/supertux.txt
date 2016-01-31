@@ -49945,3 +49945,35 @@
 [2016/01/31 05:26:42] <brmbrmcar> For old ones.
 [2016/01/31 05:27:14] <Hume2> I guess those are the translations those have less than 10% and no interrest of translating.
 [2016/01/31 05:28:47] <brmbrmcar> Should there be an inactivity period for translations under 50% or whatever?
+[2016/01/31 05:33:14] <mt> Hume2: agreed for 100/70
+[2016/01/31 05:33:26] <Hume2> OK
+[2016/01/31 05:33:42] <mt> for the older translations, I guess less than 50% (75%? not sure) and not active for 3 months or so
+[2016/01/31 05:34:41] <brmbrmcar> Create a specific amount for each amount.
+[2016/01/31 05:34:57] <mt> what?
+[2016/01/31 05:35:27] <mt> or actually, for old translations, less than 90% of main resources and 50% of others
+[2016/01/31 05:35:41] <mt> main resources should always be translated
+[2016/01/31 05:36:37] <brmbrmcar> s/a specific amount/a specific time/
+[2016/01/31 05:36:37] <red_bot> brmbrmcar meant: "Create a specific time for each amount."
+[2016/01/31 05:36:42] <Hume2> Could be, but only inactive translations should be deleted.
+[2016/01/31 05:36:57] @ Wuzzy joined channel #supertux
+[2016/01/31 05:37:03] <mt> yeah that 90/50 and the 3 months
+[2016/01/31 05:38:59] <Hume2> OK
+[2016/01/31 05:39:42] <Hume2> When I want to add a new resource, I just add a .po file with empty translations?
+[2016/01/31 05:40:01] <mt> I don't know that much about Transifex
+[2016/01/31 05:40:19] <mt> giby is the expert, Tobbi also knows some stuff
+[2016/01/31 05:40:26] <Hume2> I'll rather ask Tobbi.
+[2016/01/31 05:43:18] <brmbrmcar> Where are the templates for the new translations?
+[2016/01/31 05:43:26] @ Hume6 joined channel #supertux
+[2016/01/31 05:43:26] @ Mode +v Hume6 by ChanServ
+[2016/01/31 05:43:26] @ Hume2 is now known as Guest95611
+[2016/01/31 05:43:27] @ Hume6 is now known as Hume2
+[2016/01/31 05:43:28] <mt> in the translations repo
+[2016/01/31 05:43:36] <mt> and there's a makepot script
+[2016/01/31 05:43:47] <mt> I believe this should be used for transifex
+[2016/01/31 05:43:54] <Hume2> I was errored for a while.
+[2016/01/31 05:44:12] <mt> Hume2: that was for brmbrmcar
+[2016/01/31 05:44:24] <brmbrmcar> OK.
+[2016/01/31 05:44:24] <Hume2> OK, never mind.
+[2016/01/31 05:44:33] <brmbrmcar> Hume6?
+[2016/01/31 05:44:48] @ Quit: Guest95611: Ping timeout: 252 seconds
+[2016/01/31 05:44:53] <pentagon> [10supertux] 07maxteufel opened issue 09#350: [RFC] Reformat code (using clang-format) 13https://git.io/vzj6K
