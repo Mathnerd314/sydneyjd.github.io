@@ -49767,3 +49767,38 @@
 [2016/01/31 03:29:12] <pentagon> [10supertux] 07maxteufel commented on issue 09#348: Add translations for help messages in  13https://git.io/vzjlq
 [2016/01/31 03:29:41] <Hume2> l10n is translations, isn't it?
 [2016/01/31 03:29:43] <mt> also "locked and limited conversation to collaborators"
+[2016/01/31 03:30:10] <Hume2> That's a good sollution.
+[2016/01/31 03:30:14] <mt> yes, it mean l + 10 characters (ocalizatio) + n
+[2016/01/31 03:30:36] <mt> *means
+[2016/01/31 03:31:32] <mt> Hume2: I'd suggest you to block that idiot as well (https://github.com/Savsish -> (!) Sign -> User actions -> Block user)
+[2016/01/31 03:32:09] <mt> (why: https://github.com/SuperTux/supertux/pull/89)
+[2016/01/31 03:32:11] <Hume2> mt: OK, but what are the reasons? I'd figure it myself, but just want to know it.
+[2016/01/31 03:32:21] <Hume2> Oh, that.
+[2016/01/31 03:32:34] <mt> and serveral other bullshit about 0.4.x vs 0.3.6
+[2016/01/31 03:33:17] <Hume2> I don't know.
+[2016/01/31 03:33:33] <Hume2> We didn't blocked brmbrmcar, did we?
+[2016/01/31 03:33:53] <mt> did he bullshit about silly things
+[2016/01/31 03:34:11] <Hume2> No, he didn't, I think.
+[2016/01/31 03:35:31] <mt> oh wow thanks, my DE just notified me that I have less than 500 MB on my /home
+[2016/01/31 03:36:49] <Hume2> So you start having the brmbrmtrouble, don't you?
+[2016/01/31 03:36:53] <Hume2> :D
+[2016/01/31 03:37:31] <Hume2> Anyway I don't like banning anyone just for being an idiot.
+[2016/01/31 03:37:58] <mt> you know how Savsish was being annoying?
+[2016/01/31 03:38:16] <Hume2> Fortunatelly I don't.
+[2016/01/31 03:38:20] <mt> he opened like 10 issues complaining about our decision to make 0.4 the next release
+[2016/01/31 03:38:36] <Hume2> Oh, really?
+[2016/01/31 03:38:44] <Hume2> When was it?
+[2016/01/31 03:39:16] <mt> https://github.com/supertux/supertux/issues?utf8=%E2%9C%93&q=author%3ASavsish
+[2016/01/31 03:40:35] <Hume2> I can see some dupe reports.
+[2016/01/31 03:40:48] <Hume2> That isn't good.
+[2016/01/31 03:41:44] <Hume2> This was really weird: https://github.com/SuperTux/supertux/issues/90
+[2016/01/31 03:42:24] @ Hume2_ joined channel #supertux
+[2016/01/31 03:42:25] @ Mode +v Hume2_ by ChanServ
+[2016/01/31 03:42:41] @ Hume2 is now known as Guest93333
+[2016/01/31 03:42:41] @ Hume2_ is now known as Hume2
+[2016/01/31 03:43:26] <Hume2> Yeah, almost all of his contributions are silly bug reports.
+[2016/01/31 03:43:50] <mt> can you even call it contributions?
+[2016/01/31 03:44:02] <Hume2> :D GitHub can.
+[2016/01/31 03:44:21] <Hume2> However, they aren't so frequent.
+[2016/01/31 03:44:43] <Hume2> If it was each day, then I would be sure to ban him.
+[2016/01/31 03:44:45] <mt> also, holy shit: 3 weeks ago, my ~/Videos folder was about 95 GB in size. Now it's 170 GB.
