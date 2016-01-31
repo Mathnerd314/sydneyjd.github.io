@@ -50268,3 +50268,12 @@
 [2016/01/31 11:12:07] @ Mode +v Tobbi by ChanServ
 [2016/01/31 11:13:43] @ Hume2 joined channel #supertux
 [2016/01/31 11:13:44] @ Mode +v Hume2 by ChanServ
+[2016/01/31 11:16:25] @ Quit: claymore2: Quit: Leaving
+[2016/01/31 11:25:54] <Tobbi> Hume2: Is there a reason we have to have this ugly dispenser sprite?
+[2016/01/31 11:26:03] <Tobbi> Can't we have a dispenser area?
+[2016/01/31 11:26:26] <Tobbi> Like, you know, secret area trigger...-> dispenser...
+[2016/01/31 11:26:36] <Tobbi> am I making any sense here`
+[2016/01/31 11:26:37] <Tobbi> ?
+[2016/01/31 11:27:06] <Tobbi> sydney_untangle: What happened to head8debian?
+[2016/01/31 11:28:12] <Hume2> Tobbi: good idea.
+[2016/01/31 11:28:40] <Tobbi> Hume2: This should, however, be additional to the old one...because we'd be breaking levels, otherwise.
