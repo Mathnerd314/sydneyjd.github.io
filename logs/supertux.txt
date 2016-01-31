@@ -4,3 +4,10 @@
 [2016/01/31 11:45:33] <mt> almost as silly as the 'This user' user in freenode
 [2016/01/31 11:45:43] <mt> *#freenode
 [2016/01/31 11:45:54] <sydney_untangle> :)
+[2016/01/31 18:06:51] @ Log started by red_bot
+[2016/01/31 18:06:51] @ Joined channel #supertux
+[2016/01/31 18:06:51] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/01/31 18:06:51] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
+[2016/01/31 18:06:56] @ Mode +Cntj 5:10 by holmes.freenode.net
+[2016/01/31 18:07:04] @ Mode +v red_bot by ChanServ
+[2016/01/31 18:07:31] <sydney_untangle> Hrm.
