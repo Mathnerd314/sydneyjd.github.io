@@ -49844,3 +49844,42 @@
 [2016/01/31 04:44:01] <Hume2> I think that this isn't a bad idea.
 [2016/01/31 04:44:23] <Hume2> :D
 [2016/01/31 04:44:37] <Hume2> just got what you meant. :P
+[2016/01/31 04:45:29] <Hume2> Maybe put "(translation needed)" after all untranslated strings?
+[2016/01/31 04:45:41] <mt> uh no
+[2016/01/31 04:45:47] <mt> that looks ugly
+[2016/01/31 04:45:58] <mt> we'll implement it as brmbrmcar wants it
+[2016/01/31 04:46:08] <mt> but it'll be a big warning filling the entire screen
+[2016/01/31 04:46:18] <mt> and to close it, you have to press 99 buttoms
+[2016/01/31 04:46:20] <mt> *buttons
+[2016/01/31 04:46:27] <mt> all saying "brmbrm"
+[2016/01/31 04:46:28] <Hume2> :D
+[2016/01/31 04:47:07] <Hume2> Assuming that this will take ages to translate it in those foreign languages...
+[2016/01/31 04:47:27] <mt> it's just one string, so...
+[2016/01/31 04:47:37] <mt> and it can be brmbrm in all languages anyway
+[2016/01/31 04:47:49] <Hume2> I mean those languages with 1% - 3% translated strings.
+[2016/01/31 04:49:11] <Hume2> брмбрм :D
+[2016/01/31 04:51:09] @ Hume4 joined channel #supertux
+[2016/01/31 04:51:10] @ Mode +v Hume4 by ChanServ
+[2016/01/31 04:51:11] @ Hume2 is now known as Guest50247
+[2016/01/31 04:51:11] @ Hume4 is now known as Hume2
+[2016/01/31 04:51:15] <mt> >Hume4
+[2016/01/31 04:51:29] <Hume2> It blocks the nicks, so I'll increment :D
+[2016/01/31 04:51:35] <mt> brmbrm = 2
+[2016/01/31 04:51:38] <mt> Humebrmbrm
+[2016/01/31 04:52:04] <Hume2> :D
+[2016/01/31 04:52:46] <mt> or should it be brmbrmHume?
+[2016/01/31 04:53:06] <Hume2> IDK.
+[2016/01/31 04:53:40] @ Quit: Guest50247: Ping timeout: 252 seconds
+[2016/01/31 04:54:11] <Hume2> What about adding a "Please upload your translation at Transifex" to all untranslated strings?
+[2016/01/31 04:54:35] <mt> that's as ugly as (translation needed)
+[2016/01/31 04:54:55] <mt> if you mean to display that in game
+[2016/01/31 04:55:14] <Hume2> Yes, it isn't a good idea though.
+[2016/01/31 04:55:30] <Hume2> It will just say that we don't have enough translators.
+[2016/01/31 04:56:17] <mt> I don't get why we keep all the translations
+[2016/01/31 04:56:33] <Hume2> I don't get it too.
+[2016/01/31 04:56:43] <mt> Quality translations > Translation quantity
+[2016/01/31 04:57:20] <Hume2> ?
+[2016/01/31 04:57:32] <Hume2> I don't get that word order thing.
+[2016/01/31 04:58:25] <mt> Having few translations with higher quality content and more than x% translated is better than having many translations
+[2016/01/31 04:58:30] <Hume2> Oh, quality and quantity.
+[2016/01/31 04:58:59] <Hume2> Got it.
