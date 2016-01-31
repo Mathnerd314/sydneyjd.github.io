@@ -49991,3 +49991,27 @@
 [2016/01/31 06:57:19] @ Tobbi joined channel #supertux
 [2016/01/31 06:57:19] @ Mode +v Tobbi by ChanServ
 [2016/01/31 07:05:14] @ Quit: Hume2: Quit: Page closed
+[2016/01/31 07:24:47] @ Quit: paroneayea: *.net *.split
+[2016/01/31 07:24:50] @ Quit: gynter: *.net *.split
+[2016/01/31 07:24:51] @ Quit: sydney_untangle: *.net *.split
+[2016/01/31 07:24:52] @ Quit: jeezy: *.net *.split
+[2016/01/31 07:24:52] @ Quit: Wuzzy: *.net *.split
+[2016/01/31 07:24:54] @ Quit: tomreyn: *.net *.split
+[2016/01/31 07:24:55] @ Quit: brmbrmcar: *.net *.split
+[2016/01/31 07:24:56] @ Quit: apostrophe: *.net *.split
+[2016/01/31 07:24:57] @ Quit: tuxdev: *.net *.split
+[2016/01/31 07:25:01] @ Quit: octo: *.net *.split
+[2016/01/31 07:25:06] @ Quit: nerdopolis_: *.net *.split
+[2016/01/31 07:25:06] @ Quit: Tobbi: *.net *.split
+[2016/01/31 07:25:07] @ Quit: leper`: *.net *.split
+[2016/01/31 07:25:07] @ Quit: xnrand: *.net *.split
+[2016/01/31 07:25:10] @ Quit: Xjs|moonshine: *.net *.split
+[2016/01/31 07:25:11] @ Quit: Yaiyan: *.net *.split
+[2016/01/31 07:25:11] @ Quit: ChanServ: *.net *.split
+[2016/01/31 07:25:20] @ Quit: snadge: *.net *.split
+[2016/01/31 07:25:20] @ Quit: claymore2: *.net *.split
+[2016/01/31 07:25:22] @ Quit: maths22: *.net *.split
+[2016/01/31 07:25:24] @ Quit: lumidify: *.net *.split
+[2016/01/31 07:25:26] @ Quit: datahead8888: *.net *.split
+[2016/01/31 07:25:26] @ Quit: VargaD: *.net *.split
+[2016/01/31 07:25:32] @ Quit: mt: *.net *.split
