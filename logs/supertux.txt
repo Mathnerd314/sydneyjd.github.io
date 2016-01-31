@@ -49990,3 +49990,4 @@
 [2016/01/31 06:55:27] @ lumidify joined channel #supertux
 [2016/01/31 06:57:19] @ Tobbi joined channel #supertux
 [2016/01/31 06:57:19] @ Mode +v Tobbi by ChanServ
+[2016/01/31 07:05:14] @ Quit: Hume2: Quit: Page closed
