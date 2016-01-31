@@ -50252,3 +50252,7 @@
 [2016/01/31 10:13:41] @ Hume2 is now known as Guest49266
 [2016/01/31 10:13:41] @ Hume2_ is now known as Hume2
 [2016/01/31 10:14:18] @ Quit: Guest49266: Ping timeout: 252 seconds
+[2016/01/31 10:31:21] @ Quit: Tobbi: Remote host closed the connection
+[2016/01/31 10:32:59] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/vzjbM
+[2016/01/31 10:33:01] <pentagon> [10supertux] 07Hume2 14ecc98c1 Updated ground melting sprites
+[2016/01/31 10:33:09] @ Quit: Mathnerd314: Ping timeout: 265 seconds
