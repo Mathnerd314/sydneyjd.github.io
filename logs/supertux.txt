@@ -49977,3 +49977,12 @@
 [2016/01/31 05:44:33] <brmbrmcar> Hume6?
 [2016/01/31 05:44:48] @ Quit: Guest95611: Ping timeout: 252 seconds
 [2016/01/31 05:44:53] <pentagon> [10supertux] 07maxteufel opened issue 09#350: [RFC] Reformat code (using clang-format) 13https://git.io/vzj6K
+[2016/01/31 05:45:01] <Hume2> I'm incrementing.
+[2016/01/31 05:46:38] <brmbrmcar> I don't even understand the files that well.
+[2016/01/31 05:48:33] <brmbrmcar> Credits are just one big string?
+[2016/01/31 05:48:41] <mt> yes
+[2016/01/31 05:48:46] <mt> I think so
+[2016/01/31 05:49:42] <brmbrmcar> Why?
+[2016/01/31 05:49:50] <mt> because
+[2016/01/31 05:50:01] <mt> the way it's handled in the code
+[2016/01/31 05:53:21] <pentagon> [10supertux] 07maxteufel opened issue 09#351: [RFC] Localization policies 13https://git.io/vzj6j
