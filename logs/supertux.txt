@@ -50015,3 +50015,33 @@
 [2016/01/31 07:25:26] @ Quit: datahead8888: *.net *.split
 [2016/01/31 07:25:26] @ Quit: VargaD: *.net *.split
 [2016/01/31 07:25:32] @ Quit: mt: *.net *.split
+[2016/01/31 07:30:17] @ maths22 joined channel #supertux
+[2016/01/31 07:30:17] @ claymore2 joined channel #supertux
+[2016/01/31 07:30:17] @ mt joined channel #supertux
+[2016/01/31 07:30:17] @ VargaD joined channel #supertux
+[2016/01/31 07:30:17] @ datahead8888 joined channel #supertux
+[2016/01/31 07:30:17] @ lumidify joined channel #supertux
+[2016/01/31 07:30:17] @ gynter joined channel #supertux
+[2016/01/31 07:30:17] @ paroneayea joined channel #supertux
+[2016/01/31 07:30:17] @ xnrand joined channel #supertux
+[2016/01/31 07:30:17] @ Tobbi joined channel #supertux
+[2016/01/31 07:30:17] @ Wuzzy joined channel #supertux
+[2016/01/31 07:30:17] @ brmbrmcar joined channel #supertux
+[2016/01/31 07:30:17] @ nerdopolis_ joined channel #supertux
+[2016/01/31 07:30:17] @ sydney_untangle joined channel #supertux
+[2016/01/31 07:30:17] @ Mode +vvvv maths22 mt Tobbi sydney_untangle by adams.freenode.net
+[2016/01/31 07:30:17] @ jeezy joined channel #supertux
+[2016/01/31 07:30:17] @ apostrophe joined channel #supertux
+[2016/01/31 07:30:17] @ leper` joined channel #supertux
+[2016/01/31 07:30:17] @ tomreyn joined channel #supertux
+[2016/01/31 07:30:17] @ tuxdev joined channel #supertux
+[2016/01/31 07:30:17] @ octo joined channel #supertux
+[2016/01/31 07:30:17] @ Xjs|moonshine joined channel #supertux
+[2016/01/31 07:30:17] @ Yaiyan joined channel #supertux
+[2016/01/31 07:30:17] @ ChanServ joined channel #supertux
+[2016/01/31 07:30:17] @ Mode +vo octo ChanServ by adams.freenode.net
+[2016/01/31 07:31:39] @ snadge joined channel #supertux
+[2016/01/31 07:41:46] @ Hume2 joined channel #supertux
+[2016/01/31 07:41:46] @ Mode +v Hume2 by ChanServ
+[2016/01/31 07:42:20] <Tobbi> Hello.
+[2016/01/31 07:42:29] <Tobbi> A lot of scrollback from yesterday...
