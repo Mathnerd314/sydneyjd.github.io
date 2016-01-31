@@ -49832,3 +49832,10 @@
 [2016/01/31 04:07:48] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
 [2016/01/31 04:07:52] @ Mode +Cntj 5:10 by adams.freenode.net
 [2016/01/31 04:08:01] @ Mode +v red_bot by ChanServ
+[2016/01/31 04:15:36] <mt> ikr
+[2016/01/31 04:20:02] <Hume2> That worldmap contest wasn't a good idea as I thought before.
+[2016/01/31 04:23:05] @ Hume3 joined channel #supertux
+[2016/01/31 04:23:14] @ Mode +v Hume3 by ChanServ
+[2016/01/31 04:23:15] @ Hume2 is now known as Guest43122
+[2016/01/31 04:23:15] @ Hume3 is now known as Hume2
+[2016/01/31 04:24:31] @ Quit: Guest43122: Ping timeout: 252 seconds
