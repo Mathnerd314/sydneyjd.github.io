@@ -11,3 +11,4 @@
 [2016/01/31 18:06:56] @ Mode +Cntj 5:10 by holmes.freenode.net
 [2016/01/31 18:07:04] @ Mode +v red_bot by ChanServ
 [2016/01/31 18:07:31] <sydney_untangle> Hrm.
+[2016/01/31 18:08:41] <sydney_untangle> There.
