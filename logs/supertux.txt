@@ -49740,3 +49740,5 @@
 [2016/01/30 21:34:47] @ Quit: Tobbi: Remote host closed the connection
 [2016/01/30 21:52:47] @ Quit: stewboy: Ping timeout: 276 seconds
 [2016/01/30 22:18:03] @ stewboy joined channel #supertux
+[2016/01/30 23:18:01] @ Quit: irungentoo: Ping timeout: 245 seconds
+[2016/01/30 23:25:34] <pentagon`> [10supertux] 07Savsish opened issue 09#348: Add translations for help messages in  13https://git.io/vzjlq
