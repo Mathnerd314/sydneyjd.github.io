@@ -49747,3 +49747,23 @@
 [2016/01/31 02:44:33] @ Quit: pentagon`: Quit: Supybot 0.83.4.1+limnoria 2016.01.09
 [2016/01/31 02:46:20] @ pentagon joined channel #supertux
 [2016/01/31 03:08:35] @ Quit: Mathnerd314: Ping timeout: 264 seconds
+[2016/01/31 03:22:58] @ Hume2 joined channel #supertux
+[2016/01/31 03:22:59] @ Mode +v Hume2 by ChanServ
+[2016/01/31 03:23:24] <Hume2> Hello
+[2016/01/31 03:24:21] <mt> Hi
+[2016/01/31 03:25:42] <Hume2> mt: This deserves a hit from me, doesn't it? https://github.com/SuperTux/supertux/issues/348
+[2016/01/31 03:26:29] <mt> what help messages even
+[2016/01/31 03:26:53] <mt> also, better show text in English than not to show anything at all
+[2016/01/31 03:26:56] <Hume2> He thinks those reworded messages.
+[2016/01/31 03:27:05] <Hume2> Yes, that's right.
+[2016/01/31 03:27:05] <mt> reworded messages?
+[2016/01/31 03:27:18] <Hume2> You know, Tobbi has reworded some messages.
+[2016/01/31 03:27:34] <mt> oh those in the menu?
+[2016/01/31 03:27:43] <mt> where we hoped it would be a fuzzy matching?
+[2016/01/31 03:27:44] <Hume2> Not only.
+[2016/01/31 03:27:53] <Hume2> I thought so.
+[2016/01/31 03:28:56] <Hume2> Transifex doesn't match it automatically, but the previous text is among the suggestions.
+[2016/01/31 03:29:10] <pentagon> [10supertux] 07maxteufel closed issue 09#348: Add translations for help messages in  13https://git.io/vzjlq
+[2016/01/31 03:29:12] <pentagon> [10supertux] 07maxteufel commented on issue 09#348: Add translations for help messages in  13https://git.io/vzjlq
+[2016/01/31 03:29:41] <Hume2> l10n is translations, isn't it?
+[2016/01/31 03:29:43] <mt> also "locked and limited conversation to collaborators"
