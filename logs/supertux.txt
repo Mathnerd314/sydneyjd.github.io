@@ -1,0 +1,6 @@
+[2016/01/31 11:43:34] <sydney_untangle> sydney_untangle: He went back to being his old self.
+[2016/01/31 11:45:05] <mt> sydney_untangle: you're talking to yourself
+[2016/01/31 11:45:31] <pentagon> [10supertux] 07brmbrmcar commented on issue 09#353: Hitbox bug - Flip and climb 13https://git.io/vzjA4
+[2016/01/31 11:45:33] <mt> almost as silly as the 'This user' user in freenode
+[2016/01/31 11:45:43] <mt> *#freenode
+[2016/01/31 11:45:54] <sydney_untangle> :)
