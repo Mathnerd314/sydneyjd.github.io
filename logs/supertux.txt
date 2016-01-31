@@ -49802,3 +49802,21 @@
 [2016/01/31 03:44:21] <Hume2> However, they aren't so frequent.
 [2016/01/31 03:44:43] <Hume2> If it was each day, then I would be sure to ban him.
 [2016/01/31 03:44:45] <mt> also, holy shit: 3 weeks ago, my ~/Videos folder was about 95 GB in size. Now it's 170 GB.
+[2016/01/31 03:45:34] <Hume2> :D
+[2016/01/31 03:46:01] @ Quit: Guest93333: Ping timeout: 252 seconds
+[2016/01/31 03:47:35] <Hume2> mt: Also we don't know how many potential SuperTux contributors he knows.
+[2016/01/31 03:48:15] <mt> I'd rather focus on getting quality contributors, instead of wannabe contributors
+[2016/01/31 03:48:28] <Hume2> That's true.
+[2016/01/31 03:49:23] <Hume2> However I'd like to warn him first.
+[2016/01/31 03:49:34] <Hume2> Then ban.
+[2016/01/31 03:50:01] <mt> Warn him? I've warned him enough times
+[2016/01/31 03:50:26] <Hume2> Oh really? Then I'll ban him.
+[2016/01/31 03:51:22] <mt> Also, for my disk space problem, I probably need to write a script to merge the duplicate videos (mp4 (german) + mp4 (french) -> mkv (german + french))
+[2016/01/31 03:52:09] <Hume2> This will safe some space.
+[2016/01/31 03:56:28] @ Quit: Hume2: Ping timeout: 252 seconds
+[2016/01/31 03:56:32] @ Hume3 joined channel #supertux
+[2016/01/31 03:56:32] @ Mode +v Hume3 by ChanServ
+[2016/01/31 03:56:36] @ Hume3 is now known as Hume2
+[2016/01/31 03:57:30] <Hume2> mt: I've blocked him. So he's now blocked in the SuperTux organization, isn't he?
+[2016/01/31 03:57:39] <mt> I think/hope so
+[2016/01/31 03:59:44] <Hume2> If he got banned in Cecflit too, I wouldn't mind.
