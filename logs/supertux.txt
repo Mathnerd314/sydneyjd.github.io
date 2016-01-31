@@ -50246,3 +50246,9 @@
 [2016/01/31 09:47:19] @ brmbrmcar left channel #supertux ("Broken terminal")
 [2016/01/31 09:49:20] <Tobbi> FInally.
 [2016/01/31 09:59:15] @ tuxdev_ joined channel #supertux
+[2016/01/31 10:02:36] @ Mathnerd314 joined channel #supertux
+[2016/01/31 10:13:35] @ Hume2_ joined channel #supertux
+[2016/01/31 10:13:36] @ Mode +v Hume2_ by ChanServ
+[2016/01/31 10:13:41] @ Hume2 is now known as Guest49266
+[2016/01/31 10:13:41] @ Hume2_ is now known as Hume2
+[2016/01/31 10:14:18] @ Quit: Guest49266: Ping timeout: 252 seconds
