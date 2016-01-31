@@ -50145,3 +50145,31 @@
 [2016/01/31 08:59:30] @ Mode +v Hume5 by ChanServ
 [2016/01/31 08:59:30] @ Hume2 is now known as Guest75268
 [2016/01/31 08:59:30] @ Hume5 is now known as Hume2
+[2016/01/31 09:02:15] @ Quit: Guest75268: Ping timeout: 252 seconds
+[2016/01/31 09:04:10] <Hume2> The worldmap contest is dead, it wasn't as good idea.
+[2016/01/31 09:04:33] <Hume2> Maybe we should do it ourselves.
+[2016/01/31 09:05:01] <Hume2> And now seriously, we still have other stuff to do.
+[2016/01/31 09:06:54] <Tobbi> Hume2: Yes.
+[2016/01/31 09:07:07] <Tobbi> Hume2: But do people even want to contribute to SuperTux?
+[2016/01/31 09:07:15] <Tobbi> From what I can tell, no.
+[2016/01/31 09:07:16] @ Hume3 joined channel #supertux
+[2016/01/31 09:07:16] @ Mode +v Hume3 by ChanServ
+[2016/01/31 09:07:16] @ Hume2 is now known as Guest60434
+[2016/01/31 09:07:16] @ Hume3 is now known as Hume2
+[2016/01/31 09:07:37] <Tobbi> People just. want. to. play. the. game.
+[2016/01/31 09:07:52] <Hume2> Indeed.
+[2016/01/31 09:09:04] <Tobbi> Hume2: I guess I should take a break...
+[2016/01/31 09:09:08] <Tobbi> This is not great.
+[2016/01/31 09:09:10] @ Quit: lumidify: Changing host
+[2016/01/31 09:09:10] @ lumidify joined channel #supertux
+[2016/01/31 09:09:24] @ Quit: Guest60434: Ping timeout: 252 seconds
+[2016/01/31 09:09:35] <Hume2> Yes, take a break.
+[2016/01/31 09:09:44] @ leyyin joined channel #supertux
+[2016/01/31 09:10:02] <Tobbi> Oh, hello leyyin, kind of the leyyins.
+[2016/01/31 09:10:06] <Tobbi> Or whatever.
+[2016/01/31 09:11:09] <Tobbi> *king
+[2016/01/31 09:12:18] <leyyin> sigh
+[2016/01/31 09:12:23] <brmbrmcar> Should I make a worldmao for the contest of non-existence?
+[2016/01/31 09:14:00] <Tobbi> leyyin: I am the only one who's allowed to say *sigh*
+[2016/01/31 09:14:42] <Hume2> brmbrmcar: You can, but don't expect that you'll win the first prize even if you was the only one who contributed.
+[2016/01/31 09:14:44] <leyyin> kick me then
