@@ -50101,3 +50101,13 @@
 [2016/01/31 07:59:40] <mt> GitHub is broken when it comes to collaboration
 [2016/01/31 07:59:47] <Tobbi> hmm...
 [2016/01/31 07:59:51] <Tobbi> mt: In what way?
+[2016/01/31 08:00:46] <mt> 1) it doesn't encourage using git as it's intended to 2) it requires you to use the web UI for some tasks
+[2016/01/31 08:00:56] <mt> 3) silly defaults, sometimes not configurable
+[2016/01/31 08:01:05] <mt> 4) way too centralized
+[2016/01/31 08:01:38] <Tobbi> hmm...
+[2016/01/31 08:02:42] <Tobbi> be back in a bit, restarting...
+[2016/01/31 08:02:48] @ Quit: Tobbi: 
+[2016/01/31 08:13:58] @ Hume2_ joined channel #supertux
+[2016/01/31 08:13:59] @ Mode +v Hume2_ by ChanServ
+[2016/01/31 08:14:04] @ Hume2 is now known as Guest93001
+[2016/01/31 08:14:04] @ Hume2_ is now known as Hume2
