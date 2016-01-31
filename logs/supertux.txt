@@ -49839,3 +49839,8 @@
 [2016/01/31 04:23:15] @ Hume2 is now known as Guest43122
 [2016/01/31 04:23:15] @ Hume3 is now known as Hume2
 [2016/01/31 04:24:31] @ Quit: Guest43122: Ping timeout: 252 seconds
+[2016/01/31 04:41:20] <pentagon> [10supertux] 07brmbrmcar opened issue 09#349: Warn user when a localization is incomplete 13https://git.io/vzjro
+[2016/01/31 04:43:00] <mt> Instead of discussing bullshit, could we like, rather be productive and actually localize the game
+[2016/01/31 04:44:01] <Hume2> I think that this isn't a bad idea.
+[2016/01/31 04:44:23] <Hume2> :D
+[2016/01/31 04:44:37] <Hume2> just got what you meant. :P
