@@ -50256,3 +50256,15 @@
 [2016/01/31 10:32:59] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/vzjbM
 [2016/01/31 10:33:01] <pentagon> [10supertux] 07Hume2 14ecc98c1 Updated ground melting sprites
 [2016/01/31 10:33:09] @ Quit: Mathnerd314: Ping timeout: 265 seconds
+[2016/01/31 11:00:22] <pentagon> [10supertux] 07Narre opened issue 09#352: Hitbox bug - Flip and climb 13https://git.io/vzjAW
+[2016/01/31 11:01:06] <pentagon> [10supertux] 07Narre opened issue 09#353: Hitbox bug - Flip and climb 13https://git.io/vzjA4
+[2016/01/31 11:02:30] <pentagon> [10supertux] 07Narre commented on issue 09#352: Hitbox bug - Flip and climb 13https://git.io/vzjAW
+[2016/01/31 11:02:38] <pentagon> [10supertux] 07Narre closed issue 09#352: Hitbox bug - Flip and climb 13https://git.io/vzjAW
+[2016/01/31 11:03:25] @ Quit: Hume2: Quit: Page closed
+[2016/01/31 11:07:20] <pentagon> [10supertux] 07maxteufel pushed 1 commit to 09master 13https://git.io/vzjAM
+[2016/01/31 11:07:21] <pentagon> [10supertux] 07maxteufel 144e1a451 CONTRIBUTING: inform users of the ability to edit issues
+[2016/01/31 11:08:52] <pentagon> [10supertux] 07maxteufel commented on issue 09#352: Hitbox bug - Flip and climb 13https://git.io/vzjAW
+[2016/01/31 11:12:05] @ Tobbi joined channel #supertux
+[2016/01/31 11:12:07] @ Mode +v Tobbi by ChanServ
+[2016/01/31 11:13:43] @ Hume2 joined channel #supertux
+[2016/01/31 11:13:44] @ Mode +v Hume2 by ChanServ
