@@ -411,3 +411,4 @@
 [2016/02/01 16:33:57] @ brmbrmcar left channel #supertux ("The part broke off again")
 [2016/02/01 16:43:15] <pentagon> [10supertux] 07Narre opened issue 09#357: Deactivated Tux can use levers - Bug 13https://git.io/vgJS2
 [2016/02/01 17:14:34] @ Quit: alket: Quit: Good night!
+[2016/02/01 17:22:42] @ Quit: Tobbi: Remote host closed the connection
