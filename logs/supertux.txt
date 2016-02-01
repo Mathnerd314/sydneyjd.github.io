@@ -179,3 +179,4 @@
 [2016/02/01 04:24:13] @ Quit: stewboy: Ping timeout: 265 seconds
 [2016/02/01 04:24:14] @ stewboy_ is now known as stewboy
 [2016/02/01 04:30:42] <snadge> oh no!
+[2016/02/01 04:50:24] @ Quit: tuxdev_: Ping timeout: 272 seconds
