@@ -366,3 +366,4 @@
 [2016/02/01 15:33:34] <Tobbi> It's okay. :P
 [2016/02/01 15:33:38] <brmbrmcar> It won't fail for this.
 [2016/02/01 15:33:58] <brmbrmcar> It already failed elsewhere.
+[2016/02/01 15:39:29] <pentagon> [10supertux] Status for commit Added scriptable tint to TileMap by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/106309500
