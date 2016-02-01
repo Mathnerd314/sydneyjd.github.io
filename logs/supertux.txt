@@ -46,3 +46,4 @@
 [2016/02/01 02:00:50] @ lumidify joined channel #supertux
 [2016/02/01 02:09:55] @ Hume2 joined channel #supertux
 [2016/02/01 02:09:56] @ Mode +v Hume2 by ChanServ
+[2016/02/01 02:18:32] <pentagon> [10supertux] 07Hume2 assigned issue 09#355: BonusBlock with script bug (buttjumping) 13https://git.io/vzjjJ
