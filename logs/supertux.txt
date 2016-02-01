@@ -188,3 +188,4 @@
 [2016/02/01 05:25:51] @ maths22 joined channel #supertux
 [2016/02/01 05:25:51] @ Mode +v maths22 by ChanServ
 [2016/02/01 05:32:33] <pentagon> [10supertux] Status for commit The worldmap Tux sprite now saves. by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/106177074
+[2016/02/01 05:39:23] @ Quit: claymore2: Quit: Leaving
