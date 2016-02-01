@@ -175,3 +175,6 @@
 [2016/02/01 04:00:38] <Hume2> Ap Vejor bild fejt
 [2016/02/01 04:02:21] <pentagon> [10supertux] Status for commit Added trigger object menus by 07Hume2: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/106163643
 [2016/02/01 04:15:33] <pentagon> [10supertux] Status for commit Added trigger object menus by 07Hume2: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/106163653
+[2016/02/01 04:22:32] @ stewboy_ joined channel #supertux
+[2016/02/01 04:24:13] @ Quit: stewboy: Ping timeout: 265 seconds
+[2016/02/01 04:24:14] @ stewboy_ is now known as stewboy
