@@ -395,3 +395,9 @@
 [2016/02/01 16:04:02] <Hume2> Indeed.
 [2016/02/01 16:04:52] <brmbrmcar> I'll look in the trees.
 [2016/02/01 16:05:01] <Tobbi> Hume2: Is there anything else needed for #345?
+[2016/02/01 16:05:02] @ Quit: claymore2: Ping timeout: 252 seconds
+[2016/02/01 16:05:07] <brmbrmcar> Konsole doesnot support those characters.
+[2016/02/01 16:05:53] <Hume2> Tobbi: No, it isn't.
+[2016/02/01 16:06:54] <Hume2> brmbrmcar: It's now in the log, you can read it.
+[2016/02/01 16:07:25] @ Quit: lumidify: Quit: Leaving
+[2016/02/01 16:08:02] <brmbrmcar> OK.
