@@ -193,3 +193,19 @@
 [2016/02/01 06:02:45] @ Mode +v Tobbi by ChanServ
 [2016/02/01 06:05:15] <Tobbi> maths22: Hey, if you get a chance, please fix the windows builds, I am not knowledgeable enough...
 [2016/02/01 06:06:52] <Tobbi> Hume2: What's remaining for #342 ?
+[2016/02/01 06:12:39] <snadge> i know this is offtopic.. but i just installed extreme tuxracer
+[2016/02/01 06:12:51] <Tobbi> snadge: ...and?
+[2016/02/01 06:13:01] <snadge> i cant help but feel that it sucks
+[2016/02/01 06:13:07] <snadge> lol
+[2016/02/01 06:13:23] <Tobbi> :D
+[2016/02/01 06:13:30] <snadge> i've got hours of longevity out of supertux
+[2016/02/01 06:13:45] <Tobbi> Oh, 0.7.0 was just release.
+[2016/02/01 06:13:48] <Tobbi> d
+[2016/02/01 06:13:50] <snadge> its challenging.. fun.. frustrating.. all of these things.. the contributed stuff can be very clever / creative
+[2016/02/01 06:13:51] <Tobbi> of extreme tux racer.
+[2016/02/01 06:14:09] <snadge> but extreme tux racer.. hmm.. i cant help but feel the mechanics of that game sucks
+[2016/02/01 06:14:18] <snadge> and initial impressions are.. there is nothing fun about it
+[2016/02/01 06:14:26] <Tobbi> :P Okay, I do get it...
+[2016/02/01 06:14:35] <Tobbi> snadge: But SuperTux and the racer are completely different games.
+[2016/02/01 06:14:51] <snadge> yeah.. i think i need to see a guide to etracer to see if im playing it wrong or something
+[2016/02/01 06:14:56] <snadge> but i just find it very dorky to control
