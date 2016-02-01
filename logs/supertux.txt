@@ -29,3 +29,4 @@
 [2016/01/31 20:38:20] @ Quit: Wuzzy: Remote host closed the connection
 [2016/01/31 21:04:41] @ swift110 joined channel #supertux
 [2016/01/31 21:42:52] @ Quit: swift110: Remote host closed the connection
+[2016/01/31 22:27:17] @ tuxdev_ joined channel #supertux
