@@ -385,3 +385,13 @@
 [2016/02/01 15:57:13] <brmbrmcar> *s*gh*
 [2016/02/01 15:57:18] <brmbrmcar> I CAN'T
 [2016/02/01 15:57:51] <brmbrmcar> Iwillin 2032.
+[2016/02/01 16:00:52] <Hume2> I pronounce it like [sɪgɦ]. I know that it's not correct, but it's cool.
+[2016/02/01 16:02:30] <Tobbi> :D
+[2016/02/01 16:03:06] <brmbrmcar> s?g?
+[2016/02/01 16:03:07] <Tobbi> But, disco tilemap is cool.
+[2016/02/01 16:03:25] <Hume2> Thanks.
+[2016/02/01 16:03:41] <Hume2> brmbrmcar: Those are IPA symbols.
+[2016/02/01 16:03:52] <Tobbi> This needs editor support, though.
+[2016/02/01 16:04:02] <Hume2> Indeed.
+[2016/02/01 16:04:52] <brmbrmcar> I'll look in the trees.
+[2016/02/01 16:05:01] <Tobbi> Hume2: Is there anything else needed for #345?
