@@ -401,3 +401,8 @@
 [2016/02/01 16:06:54] <Hume2> brmbrmcar: It's now in the log, you can read it.
 [2016/02/01 16:07:25] @ Quit: lumidify: Quit: Leaving
 [2016/02/01 16:08:02] <brmbrmcar> OK.
+[2016/02/01 16:10:03] <brmbrmcar> I don'tunderstand it though.
+[2016/02/01 16:10:10] <brmbrmcar> ButIwouldn't.
+[2016/02/01 16:10:52] <Hume2> It's International Phonetic Alphabet https://en.wikipedia.org/wiki/International_Phonetic_Alphabet
+[2016/02/01 16:12:03] <Hume2> There's a table at the middle.
+[2016/02/01 16:13:49] <brmbrmcar> Still clueless.
