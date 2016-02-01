@@ -305,3 +305,5 @@
 [2016/02/01 12:39:03] <brmbrmcar> :D
 [2016/02/01 12:59:18] @ claymore2 joined channel #supertux
 [2016/02/01 13:12:49] @ Quit: tuxdev_: Ping timeout: 246 seconds
+[2016/02/01 14:09:42] @ Hume2 joined channel #supertux
+[2016/02/01 14:09:43] @ Mode +v Hume2 by ChanServ
