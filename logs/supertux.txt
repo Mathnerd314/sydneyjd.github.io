@@ -322,3 +322,15 @@
 [2016/02/01 14:57:51] @ Quit: brmbrmcar: Quit: restarting computer
 [2016/02/01 14:59:48] @ brmbrmcar joined channel #supertux
 [2016/02/01 15:01:31] <Tobbi> Hello.
+[2016/02/01 15:16:31] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/vgJ0Z
+[2016/02/01 15:16:34] <pentagon> [10supertux] 07Hume2 14b180cbf Added scriptable tint to TileMap
+[2016/02/01 15:17:09] <pentagon> [10supertux] 07Hume2 commented on issue 09#345: Scripting support for hue / saturation / value (color) of tilemaps 13https://git.io/vgvP5
+[2016/02/01 15:17:21] <Tobbi> Hume2: Please, space after commas.
+[2016/02/01 15:17:39] <Hume2> I usually do.
+[2016/02/01 15:18:18] <Hume2> Oh, that thing.
+[2016/02/01 15:18:23] <Tobbi> Yes.
+[2016/02/01 15:18:31] <Tobbi> Let's be consistent.
+[2016/02/01 15:19:18] <Tobbi> Hume2: Also, chanel -> channel.
+[2016/02/01 15:19:21] <Tobbi> It's not perfume.
+[2016/02/01 15:19:23] <Tobbi> :P
+[2016/02/01 15:19:28] <Hume2> OK
