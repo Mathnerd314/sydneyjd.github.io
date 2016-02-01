@@ -370,3 +370,13 @@
 [2016/02/01 15:46:24] <pentagon> [10supertux] Status for commit Added scriptable tint to TileMap by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/340
 [2016/02/01 15:47:12] <brmbrmcar> What has happened to AppVeyor?
 [2016/02/01 15:49:13] <Hume2> There's a bug that noone know how to solve.
+[2016/02/01 15:50:32] <brmbrmcar> OK.
+[2016/02/01 15:50:39] <brmbrmcar> Poor AppVeyor.
+[2016/02/01 15:51:01] <Hume2> Now you can create DiscoTux :D
+[2016/02/01 15:51:22] <brmbrmcar> If I had the facilities and disk space to build SuperTux.
+[2016/02/01 15:51:44] <Hume2> You have spotlights, ambient light, gradients, colorful tilemaps, etc.
+[2016/02/01 15:52:04] <Hume2> :D
+[2016/02/01 15:52:09] <Hume2> :P
+[2016/02/01 15:52:45] <brmbrmcar> Nice.
+[2016/02/01 15:53:02] <brmbrmcar> I want a proper PPA. :(
+[2016/02/01 15:53:05] * brmbrmcar cries
