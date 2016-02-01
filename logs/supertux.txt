@@ -43,3 +43,4 @@
 [2016/02/01 00:49:35] @ VargaD_ is now known as VargaD
 [2016/02/01 01:38:04] @ stewboy joined channel #supertux
 [2016/02/01 01:48:12] @ datahead8888_ is now known as datahead7777
+[2016/02/01 02:00:50] @ lumidify joined channel #supertux
