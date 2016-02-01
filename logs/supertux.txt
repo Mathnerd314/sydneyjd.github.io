@@ -62,3 +62,4 @@
 [2016/02/01 02:47:46] @ Hume2 is now known as Guest91461
 [2016/02/01 02:47:47] @ Hume2_ is now known as Hume2
 [2016/02/01 02:49:15] @ Quit: Guest91461: Ping timeout: 252 seconds
+[2016/02/01 02:51:07] <pentagon> [10supertux] Status for commit fixes #355 by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/334
