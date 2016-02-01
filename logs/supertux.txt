@@ -213,3 +213,6 @@
 [2016/02/01 06:19:02] <Tobbi> Maybe I should contribute to that instead.
 [2016/02/01 06:19:07] <Tobbi> It needs more work than we do.
 [2016/02/01 06:19:56] <snadge> a 3d supertux would be better imho
+[2016/02/01 06:20:09] <Tobbi> snadge: There is one...Supertux 3D on sourceforge.
+[2016/02/01 06:20:09] <snadge> kinda like the 3d mario on the nintendo ds
+[2016/02/01 06:20:21] <Tobbi> not maintained by us anyway.
