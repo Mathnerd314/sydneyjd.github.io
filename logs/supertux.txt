@@ -346,3 +346,12 @@
 [2016/02/01 15:24:00] <Hume2> How is it then? Suffix?
 [2016/02/01 15:24:30] <brmbrmcar> Yes.
 [2016/02/01 15:24:37] <brmbrmcar> I think.
+[2016/02/01 15:25:15] <Tobbi> :P
+[2016/02/01 15:26:22] <Hume2> Can this be a [ci skip]? I'm not sure.
+[2016/02/01 15:26:29] <brmbrmcar> Wht be?
+[2016/02/01 15:26:49] <Hume2> That grammar and formating fix.
+[2016/02/01 15:27:06] <brmbrmcar> Is it in /src?
+[2016/02/01 15:27:26] <Hume2> Yes, it is.
+[2016/02/01 15:27:31] <brmbrmcar> I'd be onthe safe side.
+[2016/02/01 15:28:13] <Hume2> I think so. Eventually the next build will test it.
+[2016/02/01 15:29:22] <Tobbi> Hume2: It can. Just make sure it compiles locally.
