@@ -299,3 +299,7 @@
 [2016/02/01 12:28:49] <brmbrmcar> mt: Why?
 [2016/02/01 12:28:57] <brmbrmcar> What for?
 [2016/02/01 12:32:19] <mt> because you were annoying enough with your logging to make me toggle a little switch
+[2016/02/01 12:37:42] <brmbrmcar> What?
+[2016/02/01 12:38:41] <mt> pentagon: config help supybot.defaultIgnore | echo brmbrmcar:
+[2016/02/01 12:38:41] <pentagon> brmbrmcar: Determines whether the bot will ignore unidentified users by default. Of course, that'll make it particularly hard for those users to register or identify with the bot without adding their hostmasks, but that's your problem to solve.  (Current value: True)
+[2016/02/01 12:39:03] <brmbrmcar> :D
