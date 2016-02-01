@@ -234,3 +234,4 @@
 [2016/02/01 09:11:37] @ alket joined channel #supertux
 [2016/02/01 09:40:35] @ Tobbi joined channel #supertux
 [2016/02/01 09:40:36] @ Mode +v Tobbi by ChanServ
+[2016/02/01 09:52:59] @ Quit: claymore2: Quit: Leaving
