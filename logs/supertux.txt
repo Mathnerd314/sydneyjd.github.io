@@ -310,3 +310,5 @@
 [2016/02/01 14:10:45] <Hume2> Hello
 [2016/02/01 14:12:44] <pentagon> [10supertux] 07Hume2 commented on commit 995f7133 13https://git.io/vgJYY
 [2016/02/01 14:14:34] <sydney_untangle> Hume2: Hey.
+[2016/02/01 14:16:00] <brmbrmcar> I have got the world's worst tripod.
+[2016/02/01 14:17:49] <brmbrmcar> At least it's taller now.
