@@ -238,3 +238,6 @@
 [2016/02/01 10:03:18] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/01 10:39:58] @ brmbrmcar joined channel #supertux
 [2016/02/01 10:50:19] @ tuxdev_ joined channel #supertux
+[2016/02/01 11:06:55] <pentagon> [10supertux] 07MiroslavR commented on commit 995f7133 13https://git.io/vgfEv
+[2016/02/01 11:07:38] @ Tobbi joined channel #supertux
+[2016/02/01 11:07:38] @ Mode +v Tobbi by ChanServ
