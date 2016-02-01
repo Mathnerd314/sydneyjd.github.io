@@ -355,3 +355,14 @@
 [2016/02/01 15:27:31] <brmbrmcar> I'd be onthe safe side.
 [2016/02/01 15:28:13] <Hume2> I think so. Eventually the next build will test it.
 [2016/02/01 15:29:22] <Tobbi> Hume2: It can. Just make sure it compiles locally.
+[2016/02/01 15:30:15] <Tobbi> It can be expected that whatever compiled before will also compile afterwards.
+[2016/02/01 15:31:02] * brmbrmcar takes shelter
+[2016/02/01 15:31:40] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/vgJg0
+[2016/02/01 15:31:42] <pentagon> [10supertux] 07Hume2 147ff3a6c Formating and grammar fix in tilemap.cpp
+[2016/02/01 15:32:47] <Tobbi> brmbrmcar: Why do you take shelter?
+[2016/02/01 15:33:10] <Tobbi> Looks good.
+[2016/02/01 15:33:25] <brmbrmcar> Tobbi: The threat of explosion. :D
+[2016/02/01 15:33:29] <brmbrmcar> I was joking.
+[2016/02/01 15:33:34] <Tobbi> It's okay. :P
+[2016/02/01 15:33:38] <brmbrmcar> It won't fail for this.
+[2016/02/01 15:33:58] <brmbrmcar> It already failed elsewhere.
