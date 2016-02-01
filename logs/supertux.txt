@@ -153,3 +153,8 @@
 [2016/02/01 03:02:07] <pentagon> [10supertux] 07Hume2 142346cdd Invisible objects are now visible in Editor
 [2016/02/01 03:02:10] <pentagon> [10supertux] 07Hume2 14a60a30d Levelloaded flag setting on before level load
 [2016/02/01 03:03:46] <Hume2> End :D
+[2016/02/01 03:05:01] <brmbrmcar> pentagon: version
+[2016/02/01 03:05:03] <pentagon> brmbrmcar: The current (running) version of this Supybot is 0.83.4.1+limnoria 2016.01.09, running on Python 3.5.1 (default, Dec  7 2015, 12:58:09)  [GCC 5.2.0].  The newest versions available online are 2016.01.05 (in master), 2016.01.31 (in testing).
+[2016/02/01 03:06:51] <brmbrmcar> pentagon: update
+[2016/02/01 03:06:51] <pentagon> brmbrmcar: Error: "update" is not a valid command.
+[2016/02/01 03:09:56] <brmbrmcar> Why did Notifico go?
