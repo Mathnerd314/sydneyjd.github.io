@@ -16,3 +16,6 @@
 [2016/01/31 18:22:59] @ Quit: tux|dude: Quit: Leaving
 [2016/01/31 18:53:05] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vgeoK
 [2016/01/31 18:53:07] <pentagon> [10supertux] 07tobbi 14b65c2ed Const correctness stuff in object/
+[2016/01/31 18:58:23] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vgeo5
+[2016/01/31 18:58:26] <pentagon> [10supertux] 07tobbi 14ce150fe Mark is_hampering() const
+[2016/01/31 18:59:12] @ datahead8888 joined channel #supertux
