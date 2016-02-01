@@ -256,3 +256,29 @@
 [2016/02/01 12:04:49] <mt> however, it's very easy to prevent flood
 [2016/02/01 12:04:54] <brmbrmcar> JUst keep giving itnotes.
 [2016/02/01 12:04:58] <brmbrmcar> OK.
+[2016/02/01 12:05:03] <mt> by setting a limit on how many notes a user can send it per time
+[2016/02/01 12:05:10] <brmbrmcar> What happened to Notifico?
+[2016/02/01 12:05:17] <mt> it's been replaced
+[2016/02/01 12:05:18] <mt> with pentagon
+[2016/02/01 12:05:19] <Tobbi> mt: Or by saying if ( author == brmbrmcar ) discard;
+[2016/02/01 12:05:34] <mt> Tobbi: or by saying if ( author != mt ) discard;
+[2016/02/01 12:05:38] <Tobbi> :D
+[2016/02/01 12:05:40] <Tobbi> Sounds fun.
+[2016/02/01 12:05:58] <mt> if author not in ('mt', 'github'):
+[2016/02/01 12:06:01] <mt>     discard
+[2016/02/01 12:06:02] <brmbrmcar> So Notifico doesn't exist?
+[2016/02/01 12:06:04] <mt> that sounds better
+[2016/02/01 12:06:12] <Tobbi> :D
+[2016/02/01 12:06:15] <mt> brmbrmcar: why should it?
+[2016/02/01 12:06:18] <Tobbi> brmbrmcar: Do any of us exist?
+[2016/02/01 12:06:49] <brmbrmcar> mt: It stopped after 5 commits and went "and 999 more" or something.
+[2016/02/01 12:07:02] <brmbrmcar> This just goes on forever.
+[2016/02/01 12:07:04] <mt> brmbrmcar: yes, I know that
+[2016/02/01 12:07:17] <brmbrmcar> Will it be changed?
+[2016/02/01 12:07:28] <mt> when you happen to change the code, yes
+[2016/02/01 12:07:38] <brmbrmcar> OK.
+[2016/02/01 12:07:50] <mt> https://github.com/ProgVal/Supybot-plugins/tree/master/GitHub
+[2016/02/01 12:09:04] <brmbrmcar> Argh,Python.
+[2016/02/01 12:09:33] <mt> Python <3
+[2016/02/01 12:09:40] <mt> what's wrong with it?
+[2016/02/01 12:09:50] <brmbrmcar> I just don't like it.
