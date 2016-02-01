@@ -243,3 +243,6 @@
 [2016/02/01 11:07:38] @ Mode +v Tobbi by ChanServ
 [2016/02/01 11:22:35] <sydney_untangle> Hola Tobbi.
 [2016/02/01 11:22:43] <Tobbi> Good morning, sydney_untangle
+[2016/02/01 11:28:19] <sydney_untangle> Tobbi: What are you up to?
+[2016/02/01 11:28:26] <Tobbi> sydney_untangle: Nothing much...relaxing.
+[2016/02/01 11:28:43] <sydney_untangle> hehe. :)
