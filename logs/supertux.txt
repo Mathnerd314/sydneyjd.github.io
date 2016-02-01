@@ -312,3 +312,6 @@
 [2016/02/01 14:14:34] <sydney_untangle> Hume2: Hey.
 [2016/02/01 14:16:00] <brmbrmcar> I have got the world's worst tripod.
 [2016/02/01 14:17:49] <brmbrmcar> At least it's taller now.
+[2016/02/01 14:32:15] @ lumidify joined channel #supertux
+[2016/02/01 14:32:15] @ Quit: lumidify: Changing host
+[2016/02/01 14:32:15] @ lumidify joined channel #supertux
