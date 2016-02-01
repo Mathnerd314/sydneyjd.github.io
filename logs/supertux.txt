@@ -22,3 +22,5 @@
 [2016/01/31 19:06:08] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2016/01/31 19:09:55] @ datahead8888 is now known as datahead7777
 [2016/01/31 19:16:17] <pentagon> [10supertux] Status for commit Const correctness stuff in object/ by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/106109568
+[2016/01/31 19:20:37] <pentagon> [10supertux] Status for commit Const correctness stuff in object/ by 07Tobias Markus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/332
+[2016/01/31 19:24:19] <pentagon> [10supertux] Status for commit Mark is_hampering() const by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/106110028
