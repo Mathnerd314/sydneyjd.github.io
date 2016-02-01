@@ -166,3 +166,6 @@
 [2016/02/01 03:26:27] @ brmbrmcar left channel #supertux ("This 6th of my terminal has broken off")
 [2016/02/01 03:27:03] <pentagon> [10supertux] Status for commit Levelloaded flag setting on before level load by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/335
 [2016/02/01 03:33:47] @ Quit: maths22: Ping timeout: 276 seconds
+[2016/02/01 03:48:36] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09editor 13https://git.io/vgv30
+[2016/02/01 03:48:39] <pentagon> [10supertux] 07Hume2 143ec72b6 Added trigger object menus
+[2016/02/01 03:48:47] <pentagon> [10supertux] 07Hume2 synchronized pull request 09#269: WIP Level Editor 13https://git.io/vEe13
