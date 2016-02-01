@@ -63,3 +63,47 @@
 [2016/02/01 02:47:47] @ Hume2_ is now known as Hume2
 [2016/02/01 02:49:15] @ Quit: Guest91461: Ping timeout: 252 seconds
 [2016/02/01 02:51:07] <pentagon> [10supertux] Status for commit fixes #355 by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/334
+[2016/02/01 02:56:24] @ Quit: Hume2: Ping timeout: 252 seconds
+[2016/02/01 02:58:06] <pentagon> [10supertux] 07Hume2 synchronized pull request 09#269: WIP Level Editor 13https://git.io/vEe13
+[2016/02/01 02:58:07] <pentagon> [10supertux] 07Hume2 04force-pushed 83 commits to 09editor 13https://git.io/vgvIu
+[2016/02/01 02:58:10] <pentagon> [10supertux] 07Hume2 14ca9425c Save level method
+[2016/02/01 02:58:14] <pentagon> [10supertux] 07Hume2 1450cb6f6 Editor select level menu
+[2016/02/01 02:58:16] <pentagon> [10supertux] 07Hume2 1492fceba Level editor can load a level.
+[2016/02/01 02:58:20] <pentagon> [10supertux] 07Hume2 14ae70340 Added editor level scrolling by arrow keys.
+[2016/02/01 02:58:23] <pentagon> [10supertux] 07Hume2 1445e11d4 Fixed bug causing crash when choosing level/sets by arrows.
+[2016/02/01 02:58:26] <pentagon> [10supertux] 07Hume2 146fb6b0b Added editor menu (press Esc in editor)
+[2016/02/01 02:58:29] <pentagon> [10supertux] 07Hume2 142d62a11 Cursor is now visible in the editor.
+[2016/02/01 02:58:31] <pentagon> [10supertux] 07Hume2 14e3aab15 Editor now displays tilegroups.
+[2016/02/01 02:58:34] <pentagon> [10supertux] 07Hume2 1453172a6 Added scrolling tilegroups
+[2016/02/01 02:58:37] <pentagon> [10supertux] 07Hume2 141567489 Editor shows editor-images (not in tilemap, bug?)
+[2016/02/01 02:58:40] <pentagon> [10supertux] 07Hume2 144e0e238 Objects now render correctly.
+[2016/02/01 02:58:43] <pentagon> [10supertux] 07Hume2 14b486109 Added objects menu
+[2016/02/01 02:58:43] @ Hume2 joined channel #supertux
+[2016/02/01 02:58:43] @ Mode +v Hume2 by ChanServ
+[2016/02/01 02:58:45] <pentagon> [10supertux] 07Hume2 1421c9c62 Bonus blocks now render correctly.
+[2016/02/01 02:58:48] <pentagon> [10supertux] 07Hume2 1404c526c Added menu to change current sector.
+[2016/02/01 02:58:51] <pentagon> [10supertux] 07Hume2 14097015a Layer objects now display in the bottom toolbar.
+[2016/02/01 02:58:54] <pentagon> [10supertux] 07Hume2 1484b48f8 Fixed scrren resizing bug.
+[2016/02/01 02:58:57] <pentagon> [10supertux] 07Hume2 1440106a7 Dynamic tiles no longer create objects; turning the bonusblock sprite to its previous state.
+[2016/02/01 02:59:00] <pentagon> [10supertux] 07Hume2 14a15cf44 Various fixes
+[2016/02/01 02:59:03] <pentagon> [10supertux] 07Hume2 14c2118d9 Object system init moved to separate file.
+[2016/02/01 02:59:06] <pentagon> [10supertux] 07Hume2 141b9e1ab Fixed particle system displaying
+[2016/02/01 02:59:09] <pentagon> [10supertux] 07Hume2 1450555d0 Tyding up
+[2016/02/01 02:59:11] <pentagon> [10supertux] 07Hume2 14b9ee5f6 Added tilemap switching
+[2016/02/01 02:59:15] <pentagon> [10supertux] 07Hume2 14663e738 Still no input... Tiles now display on the position they are going to be put.
+[2016/02/01 02:59:17] <pentagon> [10supertux] 07Hume2 141984fa1 Changed "}else{" to "} else {"
+[2016/02/01 02:59:20] <pentagon> [10supertux] 07Hume2 1466d7d34 Added the ability to parse objects and tiles
+[2016/02/01 02:59:23] <pentagon> [10supertux] 07Hume2 14d096696 Dragging support
+[2016/02/01 02:59:26] <pentagon> [10supertux] 07Hume2 1439a1a11 Added tools (Only tile-rubber works)
+[2016/02/01 02:59:28] <pentagon> [10supertux] 07Hume2 148773967 Rectangle and fill mode
+[2016/02/01 02:59:32] <pentagon> [10supertux] 07Hume2 14578a9d5 Rubber works for objects.
+[2016/02/01 02:59:34] <pentagon> [10supertux] 07Hume2 14e4c45dc Objects can be moved.
+[2016/02/01 02:59:37] <pentagon> [10supertux] 07Hume2 1405da8b5 No more collisions in editor
+[2016/02/01 02:59:40] <pentagon> [10supertux] 07Hume2 1480e1b67 Added object tips
+[2016/02/01 02:59:43] <pentagon> [10supertux] 07Hume2 14a8159b8 Added tips for badguys.
+[2016/02/01 02:59:46] <pentagon> [10supertux] 07Hume2 1479108b8 Objects (not triggers) are now known objects
+[2016/02/01 02:59:49] <pentagon> [10supertux] 07Hume2 143696774 get_class method for saving is now const
+[2016/02/01 02:59:52] <pentagon> [10supertux] 07Hume2 144fe082a Layer gui now uses dynamic_cast instead of get_class
+[2016/02/01 02:59:54] <pentagon> [10supertux] 07Hume2 1401b7058 Updated scrolling
+[2016/02/01 02:59:57] <pentagon> [10supertux] 07Hume2 149e29abf Updated moving mechanism
+[2016/02/01 03:00:00] <pentagon> [10supertux] 07Hume2 143b74178 Reimplemented textfield
