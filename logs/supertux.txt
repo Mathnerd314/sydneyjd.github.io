@@ -36,3 +36,8 @@
 [2016/02/01 00:40:21] @ datahead8888_ joined channel #supertux
 [2016/02/01 00:42:33] @ mteufel joined channel #supertux
 [2016/02/01 00:42:33] @ Mode +v mteufel by ChanServ
+[2016/02/01 00:48:16] @ VargaD_ joined channel #supertux
+[2016/02/01 00:49:31] @ Quit: datahead7777: *.net *.split
+[2016/02/01 00:49:31] @ Quit: VargaD: *.net *.split
+[2016/02/01 00:49:35] @ Quit: mt: *.net *.split
+[2016/02/01 00:49:35] @ VargaD_ is now known as VargaD
