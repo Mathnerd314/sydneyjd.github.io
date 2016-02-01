@@ -174,3 +174,4 @@
 [2016/02/01 03:57:51] <pentagon> [10supertux] Status for commit Added trigger object menus by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/338
 [2016/02/01 04:00:38] <Hume2> Ap Vejor bild fejt
 [2016/02/01 04:02:21] <pentagon> [10supertux] Status for commit Added trigger object menus by 07Hume2: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/106163643
+[2016/02/01 04:15:33] <pentagon> [10supertux] Status for commit Added trigger object menus by 07Hume2: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/106163653
