@@ -406,3 +406,5 @@
 [2016/02/01 16:10:52] <Hume2> It's International Phonetic Alphabet https://en.wikipedia.org/wiki/International_Phonetic_Alphabet
 [2016/02/01 16:12:03] <Hume2> There's a table at the middle.
 [2016/02/01 16:13:49] <brmbrmcar> Still clueless.
+[2016/02/01 16:28:34] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/01 16:28:49] <Tobbi> *sigh*
