@@ -303,3 +303,4 @@
 [2016/02/01 12:38:41] <mt> pentagon: config help supybot.defaultIgnore | echo brmbrmcar:
 [2016/02/01 12:38:41] <pentagon> brmbrmcar: Determines whether the bot will ignore unidentified users by default. Of course, that'll make it particularly hard for those users to register or identify with the bot without adding their hostmasks, but that's your problem to solve.  (Current value: True)
 [2016/02/01 12:39:03] <brmbrmcar> :D
+[2016/02/01 12:59:18] @ claymore2 joined channel #supertux
