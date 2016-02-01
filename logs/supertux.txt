@@ -107,3 +107,49 @@
 [2016/02/01 02:59:54] <pentagon> [10supertux] 07Hume2 1401b7058 Updated scrolling
 [2016/02/01 02:59:57] <pentagon> [10supertux] 07Hume2 149e29abf Updated moving mechanism
 [2016/02/01 03:00:00] <pentagon> [10supertux] 07Hume2 143b74178 Reimplemented textfield
+[2016/02/01 03:00:04] <pentagon> [10supertux] 07Hume2 14ed7e63f Wind is no longer called Scripted Object.
+[2016/02/01 03:00:08] <pentagon> [10supertux] 07Hume2 141db65db Reimplemented int field
+[2016/02/01 03:00:11] <pentagon> [10supertux] 07Hume2 1425c0b71 Menu can be no longer escaped by pressing 'P'
+[2016/02/01 03:00:14] <pentagon> [10supertux] 07Hume2 14e21a624 Reimplemented numfield item
+[2016/02/01 03:00:17] <pentagon> [10supertux] 07Hume2 14b6592e6 Changed author successfully
+[2016/02/01 03:00:20] <pentagon> [10supertux] 07Hume2 14c495226 Added object menus (right click doesn't work)
+[2016/02/01 03:00:22] <pentagon> [10supertux] 07Hume2 14680905a Left click + space now works like right click.
+[2016/02/01 03:00:25] <pentagon> [10supertux] 07Hume2 14c872ced Small fixes in editor input center
+[2016/02/01 03:00:28] <pentagon> [10supertux] 07Hume2 146435fb4 Small fixes
+[2016/02/01 03:00:31] <pentagon> [10supertux] 07Hume2 1480eb165 Deleted cmakefiles
+[2016/02/01 03:00:34] <pentagon> [10supertux] 07Hume2 1447a1117 Bonus Island 1,2 :: Extended height and added tile backgrounds
+[2016/02/01 03:00:37] <pentagon> [10supertux] 07Hume2 144348232 Added a colorchanel menu
+[2016/02/01 03:00:40] <pentagon> [10supertux] 07Hume2 14625eeb4 Fix
+[2016/02/01 03:00:42] <pentagon> [10supertux] 07Hume2 14b49483a Fixed stuff
+[2016/02/01 03:00:45] <pentagon> [10supertux] 07Hume2 145d37901 Fixed werror
+[2016/02/01 03:00:48] <pentagon> [10supertux] 07Hume2 14c1e76da Added color display item
+[2016/02/01 03:00:48] <brmbrmcar> Argh. +q the thing.
+[2016/02/01 03:00:51] <pentagon> [10supertux] 07Hume2 146fb5187 Fixed werror 2
+[2016/02/01 03:00:54] <pentagon> [10supertux] 07Hume2 142cf458d Added color menu
+[2016/02/01 03:00:56] <pentagon> [10supertux] 07Hume2 14f5e07f4 Added colour options to some objects
+[2016/02/01 03:00:59] <pentagon> [10supertux] 07Hume2 14350a54f Added alpha chanel to colour menu
+[2016/02/01 03:01:03] <pentagon> [10supertux] 07Hume2 147fcadde Fixed werror 3
+[2016/02/01 03:01:06] <pentagon> [10supertux] 07Hume2 1415f58a4 Added tips for layer-objects
+[2016/02/01 03:01:08] <pentagon> [10supertux] 07Hume2 14427a87d Added options for layer objects
+[2016/02/01 03:01:11] <pentagon> [10supertux] 07Karkus476 14e2aec57 Mouse scrolling gets faster as you get closer to the edge
+[2016/02/01 03:01:14] <pentagon> [10supertux] 07Hume2 14157b234 Big merge - part 2
+[2016/02/01 03:01:17] <pentagon> [10supertux] 07Hume2 14061e77b Added inline function EditorActive()
+[2016/02/01 03:01:20] <pentagon> [10supertux] 07Hume2 144afe1f2 No more fixing old tiles in editor
+[2016/02/01 03:01:23] <pentagon> [10supertux] 07Hume2 140a8ca1e Spawnpoints can be now modified.
+[2016/02/01 03:01:26] <pentagon> [10supertux] 07Hume2 14775848c Fixed: SpawnPointMarkers don't display
+[2016/02/01 03:01:29] <pentagon> [10supertux] 07Hume2 143a01de2 Objects changing colours when set in editor: Candle, Lantern, MagicBlock
+[2016/02/01 03:01:32] <pentagon> [10supertux] 07Hume2 1467a7211 Made the editor working again
+[2016/02/01 03:01:35] <pentagon> [10supertux] 07Hume2 14de5a72e Added missing properties for yeti
+[2016/02/01 03:01:37] <pentagon> [10supertux] 07Hume2 14d2e48f7 Added editor methotds to mrcandle.cpp
+[2016/02/01 03:01:40] <pentagon> [10supertux] 07Hume2 14171ae2a Reverted accidental edit of bonus1/torfi-level1.stl
+[2016/02/01 03:01:43] <pentagon> [10supertux] 07Hume2 149506ee6 Added sector properties
+[2016/02/01 03:01:46] <pentagon> [10supertux] 07Hume2 140a6f26d Added level properties menu
+[2016/02/01 03:01:49] <pentagon> [10supertux] 07Hume2 14355911e Fixed build
+[2016/02/01 03:01:52] <pentagon> [10supertux] 07Hume2 143223a88 Fixed "conflict" in mrcandle.cpp
+[2016/02/01 03:01:55] <pentagon> [10supertux] 07Hume2 14a2aa790 Fixed werror 3
+[2016/02/01 03:01:58] <pentagon> [10supertux] 07Hume2 14b979c4f Putting layer objects now creates the icon
+[2016/02/01 03:02:02] <pentagon> [10supertux] 07Hume2 1459d7bfa Deleting layer objects
+[2016/02/01 03:02:04] <pentagon> [10supertux] 07Hume2 143603026 Fixed Ambient Sound displaying
+[2016/02/01 03:02:07] <pentagon> [10supertux] 07Hume2 142346cdd Invisible objects are now visible in Editor
+[2016/02/01 03:02:10] <pentagon> [10supertux] 07Hume2 14a60a30d Levelloaded flag setting on before level load
+[2016/02/01 03:03:46] <Hume2> End :D
