@@ -315,3 +315,7 @@
 [2016/02/01 14:32:15] @ lumidify joined channel #supertux
 [2016/02/01 14:32:15] @ Quit: lumidify: Changing host
 [2016/02/01 14:32:15] @ lumidify joined channel #supertux
+[2016/02/01 14:47:22] @ swift110 joined channel #supertux
+[2016/02/01 14:48:34] @ Quit: swift110: Changing host
+[2016/02/01 14:48:34] @ swift110 joined channel #supertux
+[2016/02/01 14:48:36] @ tux|dude joined channel #supertux
