@@ -298,3 +298,4 @@
 [2016/02/01 12:19:02] <mt> brmbrmcar: btw, feel free to try to use pentagon now
 [2016/02/01 12:28:49] <brmbrmcar> mt: Why?
 [2016/02/01 12:28:57] <brmbrmcar> What for?
+[2016/02/01 12:32:19] <mt> because you were annoying enough with your logging to make me toggle a little switch
