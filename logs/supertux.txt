@@ -282,3 +282,15 @@
 [2016/02/01 12:09:33] <mt> Python <3
 [2016/02/01 12:09:40] <mt> what's wrong with it?
 [2016/02/01 12:09:50] <brmbrmcar> I just don't like it.
+[2016/02/01 12:10:02] <mt> there has to be a reason for that
+[2016/02/01 12:10:04] <brmbrmcar> It sounds and looks awful.
+[2016/02/01 12:10:18] <brmbrmcar> It relies on indentation.
+[2016/02/01 12:10:50] <mt> proper indentation > everything else :D
+[2016/02/01 12:11:00] <mt> >it looks awful
+[2016/02/01 12:11:06] <mt> have you seen decorators
+[2016/02/01 12:11:07] <brmbrmcar> Yes, butit shouldn't affect code.
+[2016/02/01 12:11:35] <mt> it should, because improper indentation will sooner or later lead to a bug because developers won't understand their code
+[2016/02/01 12:12:20] <brmbrmcar> I often change indentation to what seems best.
+[2016/02/01 12:13:04] <mt> 4 characters wide, spaces; what Python uses and what is best for everything
+[2016/02/01 12:14:48] <Tobbi> brmbrmcar: I suggest to you: Brainfuck.
+[2016/02/01 12:14:50] <Tobbi> It*s nice.
