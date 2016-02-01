@@ -162,3 +162,6 @@
 [2016/02/01 03:22:27] @ stewboy_ joined channel #supertux
 [2016/02/01 03:23:35] @ Quit: stewboy: Ping timeout: 240 seconds
 [2016/02/01 03:23:36] @ stewboy_ is now known as stewboy
+[2016/02/01 03:25:34] <pentagon> [10supertux] Status for commit Levelloaded flag setting on before level load by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/106157398
+[2016/02/01 03:26:27] @ brmbrmcar left channel #supertux ("This 6th of my terminal has broken off")
+[2016/02/01 03:27:03] <pentagon> [10supertux] Status for commit Levelloaded flag setting on before level load by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/335
