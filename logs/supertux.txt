@@ -44,3 +44,5 @@
 [2016/02/01 01:38:04] @ stewboy joined channel #supertux
 [2016/02/01 01:48:12] @ datahead8888_ is now known as datahead7777
 [2016/02/01 02:00:50] @ lumidify joined channel #supertux
+[2016/02/01 02:09:55] @ Hume2 joined channel #supertux
+[2016/02/01 02:09:56] @ Mode +v Hume2 by ChanServ
