@@ -307,3 +307,6 @@
 [2016/02/01 13:12:49] @ Quit: tuxdev_: Ping timeout: 246 seconds
 [2016/02/01 14:09:42] @ Hume2 joined channel #supertux
 [2016/02/01 14:09:43] @ Mode +v Hume2 by ChanServ
+[2016/02/01 14:10:45] <Hume2> Hello
+[2016/02/01 14:12:44] <pentagon> [10supertux] 07Hume2 commented on commit 995f7133 13https://git.io/vgJYY
+[2016/02/01 14:14:34] <sydney_untangle> Hume2: Hey.
