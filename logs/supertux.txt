@@ -409,3 +409,4 @@
 [2016/02/01 16:28:34] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
 [2016/02/01 16:28:49] <Tobbi> *sigh*
 [2016/02/01 16:33:57] @ brmbrmcar left channel #supertux ("The part broke off again")
+[2016/02/01 16:43:15] <pentagon> [10supertux] 07Narre opened issue 09#357: Deactivated Tux can use levers - Bug 13https://git.io/vgJS2
