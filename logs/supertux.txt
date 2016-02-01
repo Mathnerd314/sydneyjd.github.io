@@ -319,3 +319,5 @@
 [2016/02/01 14:48:34] @ Quit: swift110: Changing host
 [2016/02/01 14:48:34] @ swift110 joined channel #supertux
 [2016/02/01 14:48:36] @ tux|dude joined channel #supertux
+[2016/02/01 14:57:51] @ Quit: brmbrmcar: Quit: restarting computer
+[2016/02/01 14:59:48] @ brmbrmcar joined channel #supertux
