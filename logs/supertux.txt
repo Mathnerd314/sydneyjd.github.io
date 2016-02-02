@@ -918,3 +918,16 @@
 [2016/02/02 13:09:46] <Hume2> :P
 [2016/02/02 13:09:49] <mt> <on-topic>
 [2016/02/02 13:09:54] @ Mode -mzo mt by mt
+[2016/02/02 13:10:35] <brmbrmcar> What is +mz?
+[2016/02/02 13:10:42] <brmbrmcar> Moderated something.
+[2016/02/02 13:11:32] <mt> brmbrmcar: please have a look at https://freenode.net/using_the_network.shtml to see what modes do on freenode
+[2016/02/02 13:12:44] <mt> (+ aliased :D)
+[2016/02/02 13:13:14] <Tobbi> mt: Why did you never tell me about +c ?
+[2016/02/02 13:13:34] @ Mode +o Tobbi by ChanServ
+[2016/02/02 13:13:36] @ Mode +c by Tobbi
+[2016/02/02 13:13:38] <mt> I even set that once
+[2016/02/02 13:13:48] @ Quit: tuxdev_: Ping timeout: 265 seconds
+[2016/02/02 13:13:50] <mt> but it ruins pentagon (and before it ruined Notifico)
+[2016/02/02 13:14:07] <mt> s/set that/asked giby to set it/
+[2016/02/02 13:14:07] <red_bot> mt: You did something wrong... Try s/you/me/ or tell me "help sed"
+[2016/02/02 13:14:40] @ Mode -o Tobbi by ChanServ
