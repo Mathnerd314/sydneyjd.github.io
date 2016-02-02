@@ -871,3 +871,25 @@
 [2016/02/02 12:59:46] <Hume2> Tell me, who isnt :P
 [2016/02/02 12:59:53] <Tobbi> mt: I am not.
 [2016/02/02 12:59:53] <mt> why are we talking about this silly stuff anyway
+[2016/02/02 13:00:03] <Tobbi> mt: Because that silly guy came up with it.
+[2016/02/02 13:00:23] <Hume2> Doues this display correctly? ᑎ̲
+[2016/02/02 13:00:42] <Hume2> It should be an underlined inverted U.
+[2016/02/02 13:00:50] <mt> /cs topicappend #supertux Discussing the stupidity and the effects of money is explicitly on-topic
+[2016/02/02 13:01:04] <Hume2> :D
+[2016/02/02 13:01:13] @ datahead8888 joined channel #supertux
+[2016/02/02 13:01:29] <brmbrmcar> Which ??
+[2016/02/02 13:01:37] <Hume2> ᑎ̲
+[2016/02/02 13:01:40] <mt> Hume2: https://urandom.eu.org/i/tjwiCc0i.png
+[2016/02/02 13:02:20] <Hume2> The underline should be under the ᑎ, but at least you have something.
+[2016/02/02 13:02:32] <Tobbi> Failure to comply with this process will result in a cataclysmic system crash...
+[2016/02/02 13:02:52] <Hume2> It's Unicode.
+[2016/02/02 13:02:58] <Tobbi> Your mum is unicode.
+[2016/02/02 13:03:00] <Tobbi> :P
+[2016/02/02 13:03:04] <Hume2> :D
+[2016/02/02 13:03:23] <mt> hello Hume2 this should be underlined text on IRC this should be normal bold italic
+[2016/02/02 13:03:39] <brmbrmcar> italic failed :D
+[2016/02/02 13:03:43] <Hume2> I used the Unicode underline.
+[2016/02/02 13:04:10] <mt> brmbrmcar: (italic doesn't display as well here, it's probably because there's no italic fontface of this family)
+[2016/02/02 13:04:17] <brmbrmcar> OK
+[2016/02/02 13:04:25] <Hume2> If you copy it to an editor with a proportional charset, it should display correctly.
+[2016/02/02 13:05:01] <mt> no, because terminal emulators don't copy-paste rich text attributes
