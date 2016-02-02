@@ -825,3 +825,24 @@
 [2016/02/02 12:49:31] <Hume2> cancer :D
 [2016/02/02 12:49:49] <brmbrmcar> Teleporting is impossible.
 [2016/02/02 12:50:01] <Hume2> It's like 3D printer :D
+[2016/02/02 12:50:06] <brmbrmcar> JUst moving too quickly for systems to pickup movement.
+[2016/02/02 12:51:07] <Hume2> If we teleported the signal across the computer, we could have faster computers.
+[2016/02/02 12:51:49] <brmbrmcar> What is this teleporting rubbish?
+[2016/02/02 12:52:14] <brmbrmcar> Do I have a different definition of teleport?
+[2016/02/02 12:52:41] <Tobbi> brmbrmcar: Teleport != Airport you see on TV.
+[2016/02/02 12:52:44] * sydney_untangle cries...
+[2016/02/02 12:52:53] * Hume2 teleports
+[2016/02/02 12:53:05] <mt> Hume2: I wonder why no one has yet created network interfaces using quantum technology
+[2016/02/02 12:53:26] <Hume2> It's too expensive I think.
+[2016/02/02 12:53:31] <mt> like I mean this thing that specifies that if you change something with one particle, the other will react too, faster than light
+[2016/02/02 12:53:40] <Tobbi> Yup.
+[2016/02/02 12:53:45] <mt> That would allow us to have a global maximum latency of 0 ms
+[2016/02/02 12:54:10] <Hume2> I think that Microsoft needs such speed :P
+[2016/02/02 12:54:23] <Tobbi> mt: How far are we art implementing that? Is there a proposal?
+[2016/02/02 12:54:31] <Tobbi> s/art/with
+[2016/02/02 12:54:32] <Tobbi> s/art/with/
+[2016/02/02 12:54:32] <red_bot> Tobbi meant: "s/with/with"
+[2016/02/02 12:54:36] <mt> no
+[2016/02/02 12:54:46] <Tobbi> hmm...
+[2016/02/02 12:54:47] <brmbrmcar> These quantum technologies are VERY far into the future.
+[2016/02/02 12:54:53] <Tobbi> who knows...
