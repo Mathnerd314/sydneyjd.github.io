@@ -1382,3 +1382,9 @@
 [2016/02/02 17:54:31] <pentagon> [supertux] Status for commit Mark a couple more methods const by Tobias Markus: AppVeyor build failed https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/350
 [2016/02/02 18:09:46] @ Quit: Karkus: Ping timeout: 240 seconds
 [2016/02/02 18:10:54] @ Quit: alket: Quit: Good night!
+[2016/02/02 18:17:58] @ Joined channel #supertux
+[2016/02/02 18:17:58] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/02/02 18:17:58] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
+[2016/02/02 18:18:02] @ Mode +Ccntj 5:10 by rajaniemi.freenode.net
+[2016/02/02 18:18:11] @ Mode +v red_bot by ChanServ
+[2016/02/02 18:19:26] @ Quit: swift110_: Ping timeout: 240 seconds
