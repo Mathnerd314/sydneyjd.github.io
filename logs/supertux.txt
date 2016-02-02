@@ -604,3 +604,4 @@
 [2016/02/02 08:17:24] <pentagon> [10supertux] 07Grumbel commented on issue 09#327: Scripting interface is not safe from memory access violations 13https://git.io/vupF0
 [2016/02/02 08:17:27] <pentagon> [10supertux] 07Grumbel reopened issue 09#327: Scripting interface is not safe from memory access violations 13https://git.io/vupF0
 [2016/02/02 08:19:09] <pentagon> [10supertux] 07tobbi commented on issue 09#327: Scripting interface is not safe from memory access violations 13https://git.io/vupF0
+[2016/02/02 08:22:09] <pentagon> [10supertux] 07TheBlinded starred 09supertux - 13https://git.io/vgTDg
