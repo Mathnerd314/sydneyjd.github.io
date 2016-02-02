@@ -1033,3 +1033,23 @@
 [2016/02/02 13:41:45] <brmbrmcar> ?? looks like a toilet.
 [2016/02/02 13:41:59] @ Quit: brmbrmcar: Quit: Lost terminal
 [2016/02/02 13:44:59] @ brmbrmcar joined channel #supertux
+[2016/02/02 13:45:08] <brmbrmcar> Another crash
+[2016/02/02 13:45:54] <brmbrmcar> Did you say anything?
+[2016/02/02 13:46:24] <Hume2> No, I didn't.
+[2016/02/02 13:46:46] <brmbrmcar> Good.
+[2016/02/02 13:47:03] <Hume2> It has printed it quite well.
+[2016/02/02 13:47:13] <brmbrmcar> What did?
+[2016/02/02 13:47:27] <Hume2> The 40×40 chessboard.
+[2016/02/02 13:47:31] <brmbrmcar> OK.
+[2016/02/02 13:47:32] <brmbrmcar> :D
+[2016/02/02 13:47:45] <Hume2> Well, some parts are printed a bit diagonally, vut still useable.
+[2016/02/02 13:47:50] <Hume2> :D
+[2016/02/02 13:47:53] <Hume2> *but
+[2016/02/02 13:47:59] <brmbrmcar> I HATE the new update.
+[2016/02/02 13:48:15] <brmbrmcar> How big is each square?
+[2016/02/02 13:48:36] @ Quit: datahead8888: Ping timeout: 265 seconds
+[2016/02/02 13:48:37] <Hume2> 2.5 cm each
+[2016/02/02 13:48:58] <Hume2> There's a 8×10 on each page.
+[2016/02/02 13:49:30] <brmbrmcar> How many pages?
+[2016/02/02 13:49:44] <brmbrmcar> Oh.
+[2016/02/02 13:49:46] <Hume2> 20 pages.
