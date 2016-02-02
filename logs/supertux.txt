@@ -582,3 +582,7 @@
 [2016/02/02 06:57:12] <Tobbi> Oh!
 [2016/02/02 06:57:14] <Tobbi> I got it.
 [2016/02/02 07:06:06] <Tobbi> I probably fixed it.
+[2016/02/02 07:18:19] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vgTw4
+[2016/02/02 07:18:22] <pentagon> [10supertux] 07tobbi 14510d6de Add null check to miniswig wrapper, should fix #327
+[2016/02/02 07:18:25] <pentagon> [10supertux] 07tobbi closed issue 09#327: Scripting interface is not safe from memory access violations 13https://git.io/vupF0
+[2016/02/02 07:19:08] @ Quit: Tobbi: Remote host closed the connection
