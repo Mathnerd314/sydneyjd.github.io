@@ -669,3 +669,8 @@
 [2016/02/02 10:22:04] <Tobbi> Oh, yeah, a VM might work.
 [2016/02/02 10:24:14] <sydney_untangle> Tobbi: What else do you want my server to do? :p Im thinking of installing owncloud on it, but it won't be of much use if i cannot access it from outside of my home network...
 [2016/02/02 10:24:41] <Tobbi> sydney_untangle: That's true. I tried installing OwnCloud on my rbpi...performance was...urgh.
+[2016/02/02 10:25:17] <sydney_untangle> Tobbi: hehe.
+[2016/02/02 10:25:24] <sydney_untangle> This has a little more resources. ;)
+[2016/02/02 10:25:54] <sydney_untangle> Tobbi: I'd also like to install PFSense, except its BSD. o_O
+[2016/02/02 10:26:01] <Tobbi> PFSense_
+[2016/02/02 10:28:12] <Tobbi> sydney_untangle: What's PFSense?
