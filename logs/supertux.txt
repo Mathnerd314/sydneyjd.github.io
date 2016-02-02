@@ -1329,3 +1329,14 @@
 [2016/02/02 16:06:34] <brmbrmcar> What is Add-0mmmm?
 [2016/02/02 16:09:40] <sydney_untangle> brmbrmcar: A app you can code for me.
 [2016/02/02 16:09:40] <Tobbi> You guys don't want to know.
+[2016/02/02 16:10:15] <Tobbi> Hume2, brmbrmcar, sydney_untangle: https://addons.mozilla.org/en-US/firefox/addon/addommmm/?src=search
+[2016/02/02 16:11:23] <Hume2> :D I'll try it.
+[2016/02/02 16:11:30] <Tobbi> Hume2: Doesn't work on recent firefox versions.
+[2016/02/02 16:11:36] <Tobbi> I should update it.
+[2016/02/02 16:12:12] <Hume2> That's a shame.
+[2016/02/02 16:12:44] <Tobbi> Hume2: If you want, study the code and update it. It should be on my github.
+[2016/02/02 16:13:11] <Tobbi> Hume2: https://github.com/tobbi/AddOmmmm
+[2016/02/02 16:14:29] <Hume2> It was quite fast to make it, wasn't it?
+[2016/02/02 16:14:37] <Tobbi> Hume2: I don't remember.
+[2016/02/02 16:14:42] <Tobbi> I was just doing this for the fun value of it.
+[2016/02/02 16:14:54] <Hume2> I see.
