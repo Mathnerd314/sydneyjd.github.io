@@ -779,3 +779,21 @@
 [2016/02/02 12:34:07] <brmbrmcar> sydney_untangle:I can get a GPS with my solution.
 [2016/02/02 12:34:23] <brmbrmcar> GoogleMaps location.:D
 [2016/02/02 12:34:41] <mt> and I'd like something that one can host easily
+[2016/02/02 12:35:06] <mt> hm, still have an almost-idle server in US-LAX
+[2016/02/02 12:35:14] @ datahead8888 joined channel #supertux
+[2016/02/02 12:36:12] @ Mathnerd314 joined channel #supertux
+[2016/02/02 12:36:40] <brmbrmcar> sydney_untangle: How do your logs work?
+[2016/02/02 12:36:58] <mt> irssi + cronjob calling git, I guess
+[2016/02/02 12:37:14] <mt> on that US-LAX server
+[2016/02/02 12:37:24] <mt> I could probably host daily txt logs
+[2016/02/02 12:37:24] <Tobbi> mt: How much do you pay for your servers anyway?
+[2016/02/02 12:37:27] <mt> or monthly
+[2016/02/02 12:37:31] <sydney_untangle> A cronjob copying the logs to a specified folder then uploading to github with git.
+[2016/02/02 12:37:58] <brmbrmcar> irssi isn't involved.
+[2016/02/02 12:38:09] <brmbrmcar> red_bot does it.
+[2016/02/02 12:38:09] <sydney_untangle> Nope.
+[2016/02/02 12:38:22] <sydney_untangle> red_bot does the logging itself.
+[2016/02/02 12:38:31] <mt> Tobbi: 10 USD/month for my server in UK-LON (1 GB RAM, KVM), 0 USD/month for the US-LAX server (128 MB RAM, OpenVZ)
+[2016/02/02 12:38:36] <sydney_untangle> Tobbi: So this is how people make those crappy apps. http://mashable.com/2013/12/03/build-mobile-apps/
+[2016/02/02 12:39:15] <mt> for the latter server, I however have access to an admin webfrontend that lets me create more containers on the same host machine
+[2016/02/02 12:39:42] <Tobbi> :)
