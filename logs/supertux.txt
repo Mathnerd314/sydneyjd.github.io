@@ -1366,3 +1366,4 @@
 [2016/02/02 16:37:10] @ Quit: brmbrmcar: Ping timeout: 250 seconds
 [2016/02/02 16:37:44] @ brmbrmcar joined channel #supertux
 [2016/02/02 16:38:22] @ brmbrmcar left channel #supertux ()
+[2016/02/02 16:40:38] @ Quit: swift110_: Remote host closed the connection
