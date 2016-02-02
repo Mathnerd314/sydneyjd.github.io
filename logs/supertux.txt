@@ -1061,3 +1061,5 @@
 [2016/02/02 13:52:23] <brmbrmcar> :D
 [2016/02/02 13:53:09] @ datahead8888 joined channel #supertux
 [2016/02/02 14:06:41] @ claymore2 joined channel #supertux
+[2016/02/02 14:11:19] @ Quit: datahead8888: Ping timeout: 250 seconds
+[2016/02/02 14:14:03] <Hume2> All those black and white squares make me feel a bit dizzy :S
