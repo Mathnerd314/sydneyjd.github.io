@@ -536,3 +536,5 @@
 [2016/02/02 04:36:52] <pentagon> [10supertux] 07Hume2 14b058d66 Added trigger object menus
 [2016/02/02 04:36:55] <pentagon> [10supertux] 07Hume2 14f845a22 Rebased onto master, fixed werrors and stuff
 [2016/02/02 04:37:59] <Hume2> Where are the old 0.1.3 times?
+[2016/02/02 04:41:17] @ Quit: paroneayea: Read error: Connection reset by peer
+[2016/02/02 04:42:23] @ paroneayea joined channel #supertux
