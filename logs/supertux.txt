@@ -547,3 +547,4 @@
 [2016/02/02 05:38:24] @ Quit: stewboy: Read error: Connection reset by peer
 [2016/02/02 05:42:23] <pentagon> [10supertux] Status for commit Rebased onto master, fixed werrors and stuff by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/344
 [2016/02/02 05:43:48] <Hume2> It can't find sdl, that can't be my fault.
+[2016/02/02 05:46:44] <pentagon> [10supertux] Status for commit Rebased onto master, fixed werrors and stuff by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/106428771
