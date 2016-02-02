@@ -607,3 +607,4 @@
 [2016/02/02 08:22:09] <pentagon> [10supertux] 07TheBlinded starred 09supertux - 13https://git.io/vgTDg
 [2016/02/02 08:26:30] <pentagon> [10supertux] Status for commit Magicblocks test only the solidity of central 18×18 square to become solid. by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/347
 [2016/02/02 09:02:13] <pentagon> [10supertux] Status for commit Tux can no longer activate triggers when deactivated by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/348
+[2016/02/02 09:16:23] @ irungentoo joined channel #supertux
