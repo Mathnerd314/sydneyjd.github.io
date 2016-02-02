@@ -496,3 +496,43 @@
 [2016/02/02 04:34:55] <pentagon> [10supertux] 07Hume2 14024ebfe Reimplemented numfield item
 [2016/02/02 04:34:58] <pentagon> [10supertux] 07Hume2 1495053ca Changed author successfully
 [2016/02/02 04:35:01] <pentagon> [10supertux] 07Hume2 14d350656 Added object menus (right click doesn't work)
+[2016/02/02 04:35:04] <pentagon> [10supertux] 07Hume2 1497bf0de Left click + space now works like right click.
+[2016/02/02 04:35:07] <pentagon> [10supertux] 07Hume2 1465fb4a0 Small fixes in editor input center
+[2016/02/02 04:35:10] <pentagon> [10supertux] 07Hume2 14a67f46a Small fixes
+[2016/02/02 04:35:13] <pentagon> [10supertux] 07Hume2 14ee52fd5 Deleted cmakefiles
+[2016/02/02 04:35:16] <pentagon> [10supertux] 07Hume2 146d950db Bonus Island 1,2 :: Extended height and added tile backgrounds
+[2016/02/02 04:35:19] <pentagon> [10supertux] 07Hume2 14ca6bffe Added a colorchanel menu
+[2016/02/02 04:35:22] <pentagon> [10supertux] 07Hume2 14c422fa1 Fix
+[2016/02/02 04:35:25] <pentagon> [10supertux] 07Hume2 14071584e Fixed stuff
+[2016/02/02 04:35:28] <pentagon> [10supertux] 07Hume2 140f248c8 Fixed werror
+[2016/02/02 04:35:30] <pentagon> [10supertux] 07Hume2 14b18a5b1 Added color display item
+[2016/02/02 04:35:33] <pentagon> [10supertux] 07Hume2 14cf4153e Fixed werror 2
+[2016/02/02 04:35:36] <pentagon> [10supertux] 07Hume2 14de7ce15 Added color menu
+[2016/02/02 04:35:39] <pentagon> [10supertux] 07Hume2 14b8ef48a Added colour options to some objects
+[2016/02/02 04:35:42] <pentagon> [10supertux] 07Hume2 141380246 Added alpha chanel to colour menu
+[2016/02/02 04:35:45] <pentagon> [10supertux] 07Hume2 1472ccdd3 Fixed werror 3
+[2016/02/02 04:35:48] <pentagon> [10supertux] 07Hume2 149c7e371 Added tips for layer-objects
+[2016/02/02 04:35:51] <pentagon> [10supertux] 07Hume2 14f57f067 Added options for layer objects
+[2016/02/02 04:35:54] <pentagon> [10supertux] 07Karkus476 149a08c2d Mouse scrolling gets faster as you get closer to the edge
+[2016/02/02 04:35:57] <pentagon> [10supertux] 07Hume2 149acd2d6 Big merge - part 2
+[2016/02/02 04:35:59] <pentagon> [10supertux] 07Hume2 14e9a9571 Added inline function EditorActive()
+[2016/02/02 04:36:03] <pentagon> [10supertux] 07Hume2 14cf5b08a No more fixing old tiles in editor
+[2016/02/02 04:36:06] <pentagon> [10supertux] 07Hume2 146f9087f Spawnpoints can be now modified.
+[2016/02/02 04:36:08] <pentagon> [10supertux] 07Hume2 1480bbb46 Fixed: SpawnPointMarkers don't display
+[2016/02/02 04:36:11] <pentagon> [10supertux] 07Hume2 14c334119 Objects changing colours when set in editor: Candle, Lantern, MagicBlock
+[2016/02/02 04:36:14] <pentagon> [10supertux] 07Hume2 14972a3f6 Made the editor working again
+[2016/02/02 04:36:17] <pentagon> [10supertux] 07Hume2 14e491214 Added missing properties for yeti
+[2016/02/02 04:36:20] <pentagon> [10supertux] 07Hume2 145e97557 Added editor methotds to mrcandle.cpp
+[2016/02/02 04:36:23] <pentagon> [10supertux] 07Hume2 14e0ec4cc Added sector properties
+[2016/02/02 04:36:26] <pentagon> [10supertux] 07Hume2 149ddc57d Added level properties menu
+[2016/02/02 04:36:29] <pentagon> [10supertux] 07Hume2 141135563 Fixed build
+[2016/02/02 04:36:32] <pentagon> [10supertux] 07Hume2 147526fa4 Fixed "conflict" in mrcandle.cpp
+[2016/02/02 04:36:35] <pentagon> [10supertux] 07Hume2 14cabeb25 Fixed werror 3
+[2016/02/02 04:36:38] <pentagon> [10supertux] 07Hume2 146299a54 Putting layer objects now creates the icon
+[2016/02/02 04:36:41] <pentagon> [10supertux] 07Hume2 149accb48 Deleting layer objects
+[2016/02/02 04:36:44] <pentagon> [10supertux] 07Hume2 145d5601f Fixed Ambient Sound displaying
+[2016/02/02 04:36:46] <pentagon> [10supertux] 07Hume2 14b81e2b9 Invisible objects are now visible in Editor
+[2016/02/02 04:36:49] <pentagon> [10supertux] 07Hume2 1488ad146 Levelloaded flag setting on before level load
+[2016/02/02 04:36:52] <pentagon> [10supertux] 07Hume2 14b058d66 Added trigger object menus
+[2016/02/02 04:36:55] <pentagon> [10supertux] 07Hume2 14f845a22 Rebased onto master, fixed werrors and stuff
+[2016/02/02 04:37:59] <Hume2> Where are the old 0.1.3 times?
