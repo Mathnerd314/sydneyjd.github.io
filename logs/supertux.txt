@@ -538,3 +538,4 @@
 [2016/02/02 04:37:59] <Hume2> Where are the old 0.1.3 times?
 [2016/02/02 04:41:17] @ Quit: paroneayea: Read error: Connection reset by peer
 [2016/02/02 04:42:23] @ paroneayea joined channel #supertux
+[2016/02/02 05:03:32] <pentagon> [10supertux] Status for commit Rebased onto master, fixed werrors and stuff by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/343
