@@ -600,3 +600,7 @@
 [2016/02/02 08:02:01] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/vgTP9
 [2016/02/02 08:02:04] <pentagon> [10supertux] 07Hume2 140db19ec Tux can no longer activate triggers when deactivated
 [2016/02/02 08:02:08] <pentagon> [10supertux] 07Hume2 closed issue 09#357: Deactivated Tux can use levers - Bug 13https://git.io/vgJS2
+[2016/02/02 08:16:30] <pentagon> [10supertux] Status for commit Tux can no longer activate triggers when deactivated by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/106463509
+[2016/02/02 08:17:24] <pentagon> [10supertux] 07Grumbel commented on issue 09#327: Scripting interface is not safe from memory access violations 13https://git.io/vupF0
+[2016/02/02 08:17:27] <pentagon> [10supertux] 07Grumbel reopened issue 09#327: Scripting interface is not safe from memory access violations 13https://git.io/vupF0
+[2016/02/02 08:19:09] <pentagon> [10supertux] 07tobbi commented on issue 09#327: Scripting interface is not safe from memory access violations 13https://git.io/vupF0
