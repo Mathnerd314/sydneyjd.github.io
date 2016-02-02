@@ -649,3 +649,20 @@
 [2016/02/02 10:14:48] <Tobbi> Also, you can, if the power supply is strong enough, I guess.
 [2016/02/02 10:14:54] <sydney_untangle> Tobbi: I use my server for backups and such.
 [2016/02/02 10:14:57] <Tobbi> I see...
+[2016/02/02 10:15:19] <sydney_untangle> Tobbi: I do the backups for #secretchronicles and my grandparents and our computers.
+[2016/02/02 10:15:28] <sydney_untangle> All on this one server.
+[2016/02/02 10:15:34] <Tobbi> sydney_untangle: Your grandparents are #secretchronicles?
+[2016/02/02 10:15:36] <Tobbi> :P
+[2016/02/02 10:15:39] <sydney_untangle> :p
+[2016/02/02 10:16:03] <sydney_untangle> It is also my computer for converting tapes to digital.
+[2016/02/02 10:16:15] <sydney_untangle> My PCI tuner card is massive.
+[2016/02/02 10:16:38] <Tobbi> sydney_untangle: oh god.
+[2016/02/02 10:16:42] <sydney_untangle> And it is my IRC client, my logger and red_bot's host.
+[2016/02/02 10:16:56] <Tobbi> Okay, I will probably dump my SD card content to disk.
+[2016/02/02 10:17:08] <sydney_untangle> Tobbi: lol.
+[2016/02/02 10:17:16] <sydney_untangle> Yeah, this thing is not being replaced...
+[2016/02/02 10:17:31] <Tobbi> sydney_untangle: I want to try out botbot without jeopardizing my system.
+[2016/02/02 10:17:37] <sydney_untangle> I'd buy a router with USB support before a RPI.
+[2016/02/02 10:17:45] <sydney_untangle> Use a VM or something?
+[2016/02/02 10:19:37] <sydney_untangle> Hrm... what else do i do with my server, oh yes, i use it as a NAS as well.
+[2016/02/02 10:19:55] @ Quit: datahead7777: Ping timeout: 240 seconds
