@@ -1363,3 +1363,6 @@
 [2016/02/02 16:31:19] <Tobbi> Hume2: No, I didn't.
 [2016/02/02 16:33:51] <Hume2> I'll go to bed, bye!
 [2016/02/02 16:33:55] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/02 16:37:10] @ Quit: brmbrmcar: Ping timeout: 250 seconds
+[2016/02/02 16:37:44] @ brmbrmcar joined channel #supertux
+[2016/02/02 16:38:22] @ brmbrmcar left channel #supertux ()
