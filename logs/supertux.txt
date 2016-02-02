@@ -579,3 +579,5 @@
 [2016/02/02 06:54:04] <Tobbi> But I need to think this through.
 [2016/02/02 06:54:37] <Tobbi> Hume2: We need to change create_wrapper.cpp and add NULL checks.
 [2016/02/02 06:54:49] <Hume2> I'll look
+[2016/02/02 06:57:12] <Tobbi> Oh!
+[2016/02/02 06:57:14] <Tobbi> I got it.
