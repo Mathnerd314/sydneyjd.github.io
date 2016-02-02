@@ -1074,3 +1074,12 @@
 [2016/02/02 14:33:39] <Hume2> Finally done.
 [2016/02/02 14:34:07] <Hume2> When it's 8×10, the dpi doesn't matter.
 [2016/02/02 14:34:54] <brmbrmcar> No.
+[2016/02/02 14:36:08] <Hume2> It's just a couople of black and white squares.
+[2016/02/02 14:36:30] <Hume2> When ecah square was 1px, the result would be the same.
+[2016/02/02 14:36:49] <brmbrmcar> Yes.
+[2016/02/02 14:37:46] <brmbrmcar> What did you jus do?
+[2016/02/02 14:38:21] <Hume2> The chessboard.
+[2016/02/02 14:39:00] <brmbrmcar> It took a long time then.
+[2016/02/02 14:39:09] <Hume2> Indeed.
+[2016/02/02 14:39:22] <brmbrmcar> Our laser is very qick.
+[2016/02/02 14:39:31] <brmbrmcar> Never used it myself.
