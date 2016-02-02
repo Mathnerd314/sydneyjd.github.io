@@ -1265,3 +1265,12 @@
 [2016/02/02 15:39:28] <Hume2> That's weird.
 [2016/02/02 15:39:30] <brmbrmcar> Irt still doesn't make sense
 [2016/02/02 15:39:57] <Hume2> And 8 Pounds 64p was incorrect, I guess.
+[2016/02/02 15:40:18] <brmbrmcar> THe answer would work if it was 6kWh rated, and it didn't say tat.
+[2016/02/02 15:40:53] <brmbrmcar> I ened up with a crazy answer.
+[2016/02/02 15:41:07] <Hume2> Yes, it's a crazy question.
+[2016/02/02 15:42:01] <brmbrmcar> And they give out these books with even crazier stuff.
+[2016/02/02 15:42:16] <Hume2> Yeah, no wonder.
+[2016/02/02 15:43:18] <brmbrmcar> They cost money!
+[2016/02/02 15:43:54] <Hume2> Yes, but the content is almost the same as in the older books.
+[2016/02/02 15:44:43] <brmbrmcar> Yes.
+[2016/02/02 15:44:55] <brmbrmcar> JUst updated for the new test things.
