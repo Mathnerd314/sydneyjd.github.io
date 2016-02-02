@@ -1369,3 +1369,5 @@
 [2016/02/02 16:40:38] @ Quit: swift110_: Remote host closed the connection
 [2016/02/02 17:18:23] @ Quit: Mathnerd314: Ping timeout: 276 seconds
 [2016/02/02 17:19:33] @ Quit: claymore2: Quit: Leaving
+[2016/02/02 17:23:43] <pentagon> [supertux] tobbi pushed 1 commit to master https://git.io/vgLLt
+[2016/02/02 17:23:45] <pentagon> [supertux] tobbi 8cb1c39 Mark a couple more methods const
