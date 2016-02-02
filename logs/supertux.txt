@@ -572,3 +572,10 @@
 [2016/02/02 06:46:51] <Tobbi> Oh, wait!
 [2016/02/02 06:46:53] <Tobbi> Can we?
 [2016/02/02 06:46:56] <Tobbi> I don't know.
+[2016/02/02 06:53:23] <Tobbi> Hume2: What do we do about this scripting interface thing...?
+[2016/02/02 06:53:33] <Tobbi> Scripting interface is not safe from memory access violations.
+[2016/02/02 06:53:45] <Hume2> Hmmm...
+[2016/02/02 06:54:00] <Tobbi> I kind of have an idea...
+[2016/02/02 06:54:04] <Tobbi> But I need to think this through.
+[2016/02/02 06:54:37] <Tobbi> Hume2: We need to change create_wrapper.cpp and add NULL checks.
+[2016/02/02 06:54:49] <Hume2> I'll look
