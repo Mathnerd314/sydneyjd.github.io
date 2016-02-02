@@ -1347,3 +1347,10 @@
 [2016/02/02 16:16:08] <Tobbi> Hume2: you got it! :D
 [2016/02/02 16:18:53] <brmbrmcar> I don't get it.
 [2016/02/02 16:19:15] <Tobbi> brmbrmcar: What don't you get?
+[2016/02/02 16:20:47] <brmbrmcar> A horse making noise with the picture.
+[2016/02/02 16:21:06] <brmbrmcar> Is the horse eating the food.
+[2016/02/02 16:21:08] <brmbrmcar> ?
+[2016/02/02 16:21:25] <Tobbi> brmbrmcar: *sigh* I should really update the source.
+[2016/02/02 16:23:59] <brmbrmcar> :(
+[2016/02/02 16:24:29] <Hume2> brmbrmcar: No, I think. I think that the horse doesn't display anyway.
+[2016/02/02 16:24:57] <Tobbi> brmbrmcar, Hume2: It's only the lasagna that shows. And while showing it, you can hear a horse sound.
