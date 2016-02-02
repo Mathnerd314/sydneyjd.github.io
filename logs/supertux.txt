@@ -1377,3 +1377,4 @@
 [2016/02/02 17:34:22] @ Quit: Karkus: Max SendQ exceeded
 [2016/02/02 17:34:47] @ Karkus joined channel #supertux
 [2016/02/02 17:34:47] @ Mode +v Karkus by ChanServ
+[2016/02/02 17:35:26] @ Mathnerd314 joined channel #supertux
