@@ -444,3 +444,5 @@
 [2016/02/02 03:29:34] <pentagon> [10supertux] 07Hume2 commented on issue 09#345: Scripting support for hue / saturation / value (color) of tilemaps 13https://git.io/vgvP5
 [2016/02/02 03:29:37] <pentagon> [10supertux] 07Hume2 closed issue 09#345: Scripting support for hue / saturation / value (color) of tilemaps 13https://git.io/vgvP5
 [2016/02/02 03:29:41] @ brmbrmcar left channel #supertux ("I thought this was actual superglue")
+[2016/02/02 03:31:20] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/vgUp5
+[2016/02/02 03:31:24] <pentagon> [10supertux] 07Hume2 14a6b6065 Moved functions in Color to the .cpp
