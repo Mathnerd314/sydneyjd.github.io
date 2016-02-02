@@ -706,3 +706,5 @@
 [2016/02/02 10:42:33] <sydney_untangle> red_bot: ping
 [2016/02/02 10:42:33] <red_bot> sydney_untangle: pong
 [2016/02/02 10:43:15] @ brmbrmcar joined channel #supertux
+[2016/02/02 10:49:01] <Tobbi> This will take some time...
+[2016/02/02 10:49:05] <Tobbi> downloading the image etc.
