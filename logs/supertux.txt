@@ -614,3 +614,4 @@
 [2016/02/02 09:47:47] @ Tobbi joined channel #supertux
 [2016/02/02 09:47:47] @ Mode +v Tobbi by ChanServ
 [2016/02/02 09:51:36] <Tobbi> sydney_untangle: ping
+[2016/02/02 09:56:57] <pentagon> [10supertux] 07tobbi opened issue 09#358: Review improved graphics from ReTux 13https://git.io/vgkUZ
