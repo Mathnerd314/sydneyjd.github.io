@@ -1388,3 +1388,4 @@
 [2016/02/02 18:18:02] @ Mode +Ccntj 5:10 by rajaniemi.freenode.net
 [2016/02/02 18:18:11] @ Mode +v red_bot by ChanServ
 [2016/02/02 18:19:26] @ Quit: swift110_: Ping timeout: 240 seconds
+[2016/02/02 18:20:01] <Tobbi> I guess maths22_ is fairly busy...
