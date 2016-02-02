@@ -1066,3 +1066,6 @@
 [2016/02/02 14:16:21] <brmbrmcar> Does it look good?
 [2016/02/02 14:16:31] <brmbrmcar> Is it high quality?
 [2016/02/02 14:17:36] <Hume2> Yes, it is.
+[2016/02/02 14:22:06] <brmbrmcar> Nice.
+[2016/02/02 14:22:10] <brmbrmcar> What dpcm?
+[2016/02/02 14:24:02] @ datahead8888 joined channel #supertux
