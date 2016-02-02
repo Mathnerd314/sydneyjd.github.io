@@ -422,3 +422,4 @@
 [2016/02/01 21:56:12] <sydney_untangle> I never realized that thr generic linux kernel has nonfree stuff in it. o_O
 [2016/02/01 21:56:44] <sydney_untangle> Oh, looks like pacman -Qm does wonders...
 [2016/02/01 22:09:12] @ Quit: tux|dude: Quit: Leaving
+[2016/02/01 22:43:15] @ tux|dude joined channel #supertux
