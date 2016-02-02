@@ -581,3 +581,4 @@
 [2016/02/02 06:54:49] <Hume2> I'll look
 [2016/02/02 06:57:12] <Tobbi> Oh!
 [2016/02/02 06:57:14] <Tobbi> I got it.
+[2016/02/02 07:06:06] <Tobbi> I probably fixed it.
