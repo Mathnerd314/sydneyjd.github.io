@@ -726,3 +726,7 @@
 [2016/02/02 12:05:46] @ Quit: Karkus: Ping timeout: 240 seconds
 [2016/02/02 12:08:05] @ Karkus joined channel #supertux
 [2016/02/02 12:08:05] @ Mode +v Karkus by ChanServ
+[2016/02/02 12:15:45] @ Quit: paroneayea: Read error: Connection reset by peer
+[2016/02/02 12:17:21] <Hume2> Karkus: What do you think about this? https://github.com/SuperTux/supertux/issues/354
+[2016/02/02 12:17:59] <Karkus> Hume2: The cannon sprite is fine, which one is he talking about?
+[2016/02/02 12:18:09] <Hume2> The dropper.
