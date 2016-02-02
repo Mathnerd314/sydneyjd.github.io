@@ -425,3 +425,5 @@
 [2016/02/01 22:43:15] @ tux|dude joined channel #supertux
 [2016/02/01 23:09:38] @ Quit: irungentoo: Remote host closed the connection
 [2016/02/02 00:32:58] @ swift110 joined channel #supertux
+[2016/02/02 00:56:34] @ lumidify joined channel #supertux
+[2016/02/02 00:58:30] @ tuxdev_ joined channel #supertux
