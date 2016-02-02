@@ -893,3 +893,28 @@
 [2016/02/02 13:04:17] <brmbrmcar> OK
 [2016/02/02 13:04:25] <Hume2> If you copy it to an editor with a proportional charset, it should display correctly.
 [2016/02/02 13:05:01] <mt> no, because terminal emulators don't copy-paste rich text attributes
+[2016/02/02 13:05:13] <mt> (usually)
+[2016/02/02 13:05:18] <Hume2> This is not any attribute.
+[2016/02/02 13:05:46] <brmbrmcar> Cansomeone do a special character?
+[2016/02/02 13:05:47] <mt> oh you're talking about the Unicode thing
+[2016/02/02 13:06:23] <mt> ƀr₥ƀr₥çår
+[2016/02/02 13:06:46] <brmbrmcar> Not working.
+[2016/02/02 13:07:14] @ brmbrmcar is now known as Guest73366
+[2016/02/02 13:07:14] @ Quit: Guest73366: Killed (adams.freenode.net (Nickname regained by services))
+[2016/02/02 13:07:29] @ brmbrmcar joined channel #supertux
+[2016/02/02 13:07:35] @ brmbrmca1 joined channel #supertux
+[2016/02/02 13:07:45] @ Quit: brmbrmca1: Client Quit
+[2016/02/02 13:08:04] <brmbrmcar> NOw canyou retry it?
+[2016/02/02 13:08:16] <Hume2> ᑎ̲
+[2016/02/02 13:08:32] <brmbrmcar> Nope.
+[2016/02/02 13:08:36] * brmbrmcar cries
+[2016/02/02 13:09:01] <Hume2> This symbol (ᑎ̲) means: "It's a crap"
+[2016/02/02 13:09:16] <Hume2> I've invented that.
+[2016/02/02 13:09:21] <mt> now we're discussing unicode
+[2016/02/02 13:09:23] <mt> >_>
+[2016/02/02 13:09:35] @ Mode +o mt by ChanServ
+[2016/02/02 13:09:38] @ Mode +mz by mt
+[2016/02/02 13:09:42] <mt> :D
+[2016/02/02 13:09:46] <Hume2> :P
+[2016/02/02 13:09:49] <mt> <on-topic>
+[2016/02/02 13:09:54] @ Mode -mzo mt by mt
