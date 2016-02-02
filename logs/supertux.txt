@@ -621,3 +621,31 @@
 [2016/02/02 10:09:09] <sydney_untangle> Tobbi: You can?
 [2016/02/02 10:09:23] <Tobbi> sydney_untangle: Yes, check this out: https://media.readthedocs.org/pdf/botbot/latest/botbot.pdf
 [2016/02/02 10:09:53] <Tobbi> I think this might be easier than using the text file approach.
+[2016/02/02 10:10:03] <sydney_untangle> Hrm.
+[2016/02/02 10:10:09] <sydney_untangle> Well, you can do it. :)
+[2016/02/02 10:10:29] <Tobbi> sydney_untangle: If I had a spare SD card, I could do it on my rbpi-
+[2016/02/02 10:10:32] <Tobbi> But I don't have one.
+[2016/02/02 10:10:45] <Tobbi> I could technically shutdown my rbpi, dump the sd card contents to my HDD...and then try it.
+[2016/02/02 10:10:59] <Tobbi> But that wouldn't be a permanent solution.
+[2016/02/02 10:11:39] <sydney_untangle> Tobbi: I just don't want something uploading to github constantly.
+[2016/02/02 10:11:45] <sydney_untangle> 5 mins it more often than i like.
+[2016/02/02 10:11:58] <Tobbi> sydney_untangle: Hrm...you're right. It's actually not that much of a good solution.
+[2016/02/02 10:12:08] <Tobbi> sydney_untangle: So, there we know what you can send me: A rbpi.
+[2016/02/02 10:12:11] <Tobbi> (a second one)
+[2016/02/02 10:12:13] <Tobbi> With SD card...
+[2016/02/02 10:12:20] <sydney_untangle> Hehe.
+[2016/02/02 10:12:32] <Tobbi> Currently, mine runs openelec.
+[2016/02/02 10:12:38] <Tobbi> Although I don't use that very often.
+[2016/02/02 10:12:41] <sydney_untangle> I dont have one myself, so why would i get you a second one? :p
+[2016/02/02 10:13:05] <sydney_untangle> I have a beast of an old desktop that you can have if you will pay shipping. :D
+[2016/02/02 10:13:21] <Tobbi> sydney_untangle: Sorry, have that myself. What does your logger run on?
+[2016/02/02 10:13:38] <sydney_untangle> Tobbi: Another beast of an old desktop. ;)
+[2016/02/02 10:13:43] <Tobbi> I see...
+[2016/02/02 10:13:57] <Tobbi> sydney_untangle: rbpi would probably be less resource-wasting...
+[2016/02/02 10:14:04] <sydney_untangle> Not the nicest to the electric bill... but...
+[2016/02/02 10:14:08] <sydney_untangle> Meh. :p
+[2016/02/02 10:14:21] <sydney_untangle> Tobbi: But i cannot hook 4 HDDs to a RPI.
+[2016/02/02 10:14:39] <Tobbi> sydney_untangle: Why would you want to do that, anyway?
+[2016/02/02 10:14:48] <Tobbi> Also, you can, if the power supply is strong enough, I guess.
+[2016/02/02 10:14:54] <sydney_untangle> Tobbi: I use my server for backups and such.
+[2016/02/02 10:14:57] <Tobbi> I see...
