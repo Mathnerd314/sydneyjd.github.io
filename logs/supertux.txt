@@ -436,3 +436,5 @@
 [2016/02/02 02:32:49] @ Quit: tux|dude: Read error: Connection reset by peer
 [2016/02/02 02:48:05] @ Quit: lumidify: Ping timeout: 260 seconds
 [2016/02/02 02:49:28] @ stewboy joined channel #supertux
+[2016/02/02 02:55:58] @ Quit: tuxdev_: Ping timeout: 272 seconds
+[2016/02/02 02:58:40] @ brmbrmcar joined channel #supertux
