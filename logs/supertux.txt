@@ -611,3 +611,5 @@
 [2016/02/02 09:28:42] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
 [2016/02/02 09:33:55] @ Hume2 joined channel #supertux
 [2016/02/02 09:33:56] @ Mode +v Hume2 by ChanServ
+[2016/02/02 09:47:47] @ Tobbi joined channel #supertux
+[2016/02/02 09:47:47] @ Mode +v Tobbi by ChanServ
