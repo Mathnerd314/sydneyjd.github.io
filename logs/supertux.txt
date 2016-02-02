@@ -1371,3 +1371,9 @@
 [2016/02/02 17:19:33] @ Quit: claymore2: Quit: Leaving
 [2016/02/02 17:23:43] <pentagon> [supertux] tobbi pushed 1 commit to master https://git.io/vgLLt
 [2016/02/02 17:23:45] <pentagon> [supertux] tobbi 8cb1c39 Mark a couple more methods const
+[2016/02/02 17:30:30] @ swift110_ joined channel #supertux
+[2016/02/02 17:33:46] @ Karkus joined channel #supertux
+[2016/02/02 17:33:46] @ Mode +v Karkus by ChanServ
+[2016/02/02 17:34:22] @ Quit: Karkus: Max SendQ exceeded
+[2016/02/02 17:34:47] @ Karkus joined channel #supertux
+[2016/02/02 17:34:47] @ Mode +v Karkus by ChanServ
