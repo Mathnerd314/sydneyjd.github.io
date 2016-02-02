@@ -723,3 +723,6 @@
 [2016/02/02 11:55:44] @ Mode +v Karkus by ChanServ
 [2016/02/02 11:56:18] @ datahead8888 joined channel #supertux
 [2016/02/02 12:01:50] @ Quit: datahead8888: Ping timeout: 276 seconds
+[2016/02/02 12:05:46] @ Quit: Karkus: Ping timeout: 240 seconds
+[2016/02/02 12:08:05] @ Karkus joined channel #supertux
+[2016/02/02 12:08:05] @ Mode +v Karkus by ChanServ
