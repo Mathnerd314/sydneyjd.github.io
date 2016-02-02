@@ -931,3 +931,35 @@
 [2016/02/02 13:14:07] <mt> s/set that/asked giby to set it/
 [2016/02/02 13:14:07] <red_bot> mt: You did something wrong... Try s/you/me/ or tell me "help sed"
 [2016/02/02 13:14:40] @ Mode -o Tobbi by ChanServ
+[2016/02/02 13:15:06] <mt> well, we can keep it
+[2016/02/02 13:15:11] <mt> but colors D:
+[2016/02/02 13:15:17] <brmbrmcar> mt: I know.
+[2016/02/02 13:15:23] <brmbrmcar> I just forgot +z.
+[2016/02/02 13:16:01] <mt> also +c/+C is slightly broken on ircd-seven, as it doesn't affect some messages
+[2016/02/02 13:16:02] <brmbrmcar> SSL only? Mean!
+[2016/02/02 13:16:20] <mt> brmbrmcar: (reduced moderation)
+[2016/02/02 13:16:24] <Karkus> zdjsigjsrgi
+[2016/02/02 13:16:33] <brmbrmcar> This would be yellow, but it isn't.
+[2016/02/02 13:16:45] <Tobbi> I should probably do some sports.
+[2016/02/02 13:16:51] <mt> brmbrmcar: what you saw is +b $z, which bans SSL users
+[2016/02/02 13:16:54] <mt> however
+[2016/02/02 13:17:02] <mt> I'd generally suggest +S (SSL-only)
+[2016/02/02 13:17:07] <Tobbi> talk to you guys later.
+[2016/02/02 13:17:14] <brmbrmcar> How do you use SSL?
+[2016/02/02 13:17:17] <mt> SSL-only because http://www.charybdis.io/2016/01/30/charybdis-and-ircv3-3-sts.html
+[2016/02/02 13:17:32] <mt> brmbrmcar: you configure your client to use it, duh
+[2016/02/02 13:17:45] <mt> you *should* use it
+[2016/02/02 13:17:58] <mt> because it will be phased out and dropped entirely
+[2016/02/02 13:17:59] <brmbrmcar> mt: But Itried, and it wouldn't connect!
+[2016/02/02 13:18:04] <brmbrmcar> duh
+[2016/02/02 13:18:05] <mt> plain-text I mean
+[2016/02/02 13:18:24] <brmbrmcar> You  just enable SSL?
+[2016/02/02 13:18:29] <mt> brmbrmcar: https://freenode.net/irc_servers.shtml#ssl
+[2016/02/02 13:19:05] <brmbrmcar> How do I automate that.
+[2016/02/02 13:19:07] <brmbrmcar> ?
+[2016/02/02 13:19:19] <mt> automate?
+[2016/02/02 13:19:27] <mt> if you /save in irssi
+[2016/02/02 13:19:33] <mt> it will keep the configuration
+[2016/02/02 13:19:38] <mt> after restarts
+[2016/02/02 13:19:46] <brmbrmcar> And that will replace the old one?
+[2016/02/02 13:19:55] <mt> what old one?
