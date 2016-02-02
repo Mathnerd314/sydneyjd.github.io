@@ -1007,3 +1007,15 @@
 [2016/02/02 13:27:59] <mt> that's Linux as well
 [2016/02/02 13:28:05] <mt> Gentoo, to be exact
 [2016/02/02 13:28:15] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/02 13:31:22] <brmbrmcar> Yes.
+[2016/02/02 13:31:25] <brmbrmcar> I am.
+[2016/02/02 13:31:35] <brmbrmcar> But I'm on Ubuntu here.
+[2016/02/02 13:31:46] <brmbrmcar> One keystroke away.
+[2016/02/02 13:32:14] <brmbrmcar> I meant the rm rf command,anyway.
+[2016/02/02 13:32:19] <mt> well, depends actually if the chromebooks are using UEFI
+[2016/02/02 13:32:29] <Hume2> Maybe I should do some ᑎ̲ too.
+[2016/02/02 13:32:37] <mt> if they aren't you won't even have /sys/firmware/efi
+[2016/02/02 13:33:02] <Hume2> However I can't think any ᑎ̲.
+[2016/02/02 13:33:04] <brmbrmcar> I can't change much of Chrome OS from Ubuntu.
+[2016/02/02 13:34:14] @ Quit: Karkus: Ping timeout: 252 seconds
+[2016/02/02 13:34:44] <Hume2> /kick Hume2 ᑎ̲
