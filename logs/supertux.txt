@@ -544,3 +544,4 @@
 [2016/02/02 05:27:10] <pentagon> [10supertux] Status for commit Moved functions in Color to the .cpp by 07Hume2: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/106417867
 [2016/02/02 05:28:13] <pentagon> [10supertux] Status for commit Moved changing Worldmap::Tux's prite into a separate function by 07Hume2: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/106414990
 [2016/02/02 05:32:40] <pentagon> [10supertux] Status for commit Rebased onto master, fixed werrors and stuff by 07Hume2: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/106428744
+[2016/02/02 05:38:24] @ Quit: stewboy: Read error: Connection reset by peer
