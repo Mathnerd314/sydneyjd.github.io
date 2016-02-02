@@ -433,3 +433,4 @@
 [2016/02/02 02:08:43] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2016/02/02 02:25:50] @ Hume2 joined channel #supertux
 [2016/02/02 02:25:51] @ Mode +v Hume2 by ChanServ
+[2016/02/02 02:32:49] @ Quit: tux|dude: Read error: Connection reset by peer
