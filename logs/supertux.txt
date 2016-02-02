@@ -710,3 +710,4 @@
 [2016/02/02 10:49:05] <Tobbi> downloading the image etc.
 [2016/02/02 10:58:46] <pentagon> [10supertux] Status for commit Add null check to miniswig wrapper, should fix #327 by 07Tobias Markus: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/106497401
 [2016/02/02 11:02:35] <sydney_untangle> heh.
+[2016/02/02 11:06:38] @ Quit: Tobbi: Remote host closed the connection
