@@ -559,3 +559,12 @@
 [2016/02/02 06:29:10] <Tobbi> Hume2: By the way: If a member function calls the exact same member function of the base class, it is obsolete, isn't it?
 [2016/02/02 06:36:25] <Hume2> Tobbi: Indeed, it is.
 [2016/02/02 06:36:43] <Tobbi> Hume2: Let me look through the code for any occurrences...
+[2016/02/02 06:41:27] <Tobbi> Hume2: I wonder whether we should have a const version of the collision_* functions...
+[2016/02/02 06:41:59] <Hume2> Tobbi: It has something to do with the objects.
+[2016/02/02 06:42:18] <Hume2> For example there the on_ground flag is updated.
+[2016/02/02 06:43:14] <Hume2> The const is only for functions those don't modify the object variables, right?
+[2016/02/02 06:43:20] <Tobbi> Hume2: Exactly.
+[2016/02/02 06:43:35] <Hume2> So they can't be const, I think.
+[2016/02/02 06:44:04] <Tobbi> Hume2: If they only return FORCE_MOVE; they can.
+[2016/02/02 06:44:10] <Tobbi> (some do that)
+[2016/02/02 06:44:45] <Hume2> Yes, but is that possible, even when the function in the parent calss isn't const?
