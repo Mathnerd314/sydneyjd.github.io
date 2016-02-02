@@ -568,3 +568,7 @@
 [2016/02/02 06:44:04] <Tobbi> Hume2: If they only return FORCE_MOVE; they can.
 [2016/02/02 06:44:10] <Tobbi> (some do that)
 [2016/02/02 06:44:45] <Hume2> Yes, but is that possible, even when the function in the parent calss isn't const?
+[2016/02/02 06:46:18] <Tobbi> Hume2: You know that you can have "collision_solid()" and "collision_solid() const" both in the same class.
+[2016/02/02 06:46:51] <Tobbi> Oh, wait!
+[2016/02/02 06:46:53] <Tobbi> Can we?
+[2016/02/02 06:46:56] <Tobbi> I don't know.
