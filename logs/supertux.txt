@@ -730,3 +730,12 @@
 [2016/02/02 12:17:21] <Hume2> Karkus: What do you think about this? https://github.com/SuperTux/supertux/issues/354
 [2016/02/02 12:17:59] <Karkus> Hume2: The cannon sprite is fine, which one is he talking about?
 [2016/02/02 12:18:09] <Hume2> The dropper.
+[2016/02/02 12:22:10] @ Tobbi joined channel #supertux
+[2016/02/02 12:22:10] @ Mode +v Tobbi by ChanServ
+[2016/02/02 12:22:53] <brmbrmcar> I think the cannon one is worst.
+[2016/02/02 12:23:00] @ paroneayea joined channel #supertux
+[2016/02/02 12:23:02] <Tobbi> Yes, "he" is talking about the dropper.
+[2016/02/02 12:24:04] <sydney_untangle> Tobbi: Want to code me an open source version of this? :D https://play.google.com/store/apps/details?id=com.agri_info_design.AgriBusNavi
+[2016/02/02 12:24:45] <Tobbi> sydney_untangle: lol no_
+[2016/02/02 12:24:46] <Tobbi> ?
+[2016/02/02 12:24:56] <pentagon> [10supertux] 07Hume2 commented on issue 09#354: Get rid of old and ugly dispenser 13https://git.io/vzjpC
