@@ -416,3 +416,5 @@
 [2016/02/01 17:40:07] @ Mode +v Tobbi by ChanServ
 [2016/02/01 17:55:51] @ irungentoo joined channel #supertux
 [2016/02/01 19:26:04] @ bb010g joined channel #supertux
+[2016/02/01 20:55:35] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/01 20:56:23] @ Quit: swift110: Ping timeout: 276 seconds
