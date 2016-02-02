@@ -1354,3 +1354,8 @@
 [2016/02/02 16:23:59] <brmbrmcar> :(
 [2016/02/02 16:24:29] <Hume2> brmbrmcar: No, I think. I think that the horse doesn't display anyway.
 [2016/02/02 16:24:57] <Tobbi> brmbrmcar, Hume2: It's only the lasagna that shows. And while showing it, you can hear a horse sound.
+[2016/02/02 16:25:24] <Hume2> I thought so.
+[2016/02/02 16:26:27] <brmbrmcar> Yes.
+[2016/02/02 16:26:40] <brmbrmcar> I thoughr so too.
+[2016/02/02 16:28:27] <sydney_untangle> Cool! https://openrct2.org/
+[2016/02/02 16:28:51] <Tobbi> I never played that.
