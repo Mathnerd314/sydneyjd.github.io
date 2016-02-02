@@ -1389,3 +1389,9 @@
 [2016/02/02 18:18:11] @ Mode +v red_bot by ChanServ
 [2016/02/02 18:19:26] @ Quit: swift110_: Ping timeout: 240 seconds
 [2016/02/02 18:20:01] <Tobbi> I guess maths22_ is fairly busy...
+[2016/02/02 18:40:48] @ Joined channel #supertux
+[2016/02/02 18:40:48] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/02/02 18:40:48] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
+[2016/02/02 18:40:52] @ Mode +Ccntj 5:10 by hitchcock.freenode.net
+[2016/02/02 18:41:01] @ Mode +v red_bot by ChanServ
+[2016/02/02 18:43:13] <sydney_untangle> Uhm, storm blowing through...
