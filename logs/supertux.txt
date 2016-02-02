@@ -596,3 +596,7 @@
 [2016/02/02 07:57:50] @ maths22_ joined channel #supertux
 [2016/02/02 07:57:51] @ Mode +v maths22_ by ChanServ
 [2016/02/02 07:59:46] @ Quit: maths22: Ping timeout: 240 seconds
+[2016/02/02 08:00:26] <pentagon> [10supertux] 07Hume2 assigned issue 09#357: Deactivated Tux can use levers - Bug 13https://git.io/vgJS2
+[2016/02/02 08:02:01] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/vgTP9
+[2016/02/02 08:02:04] <pentagon> [10supertux] 07Hume2 140db19ec Tux can no longer activate triggers when deactivated
+[2016/02/02 08:02:08] <pentagon> [10supertux] 07Hume2 closed issue 09#357: Deactivated Tux can use levers - Bug 13https://git.io/vgJS2
