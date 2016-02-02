@@ -1250,3 +1250,18 @@
 [2016/02/02 15:34:28] <Hume2> Yes, even when the excuses don't make it any better.
 [2016/02/02 15:34:52] <Hume2> Usually.
 [2016/02/02 15:34:53] <brmbrmcar> :D
+[2016/02/02 15:35:54] <brmbrmcar> And in the last test there was one seriously bad question.
+[2016/02/02 15:36:14] <Hume2> go on
+[2016/02/02 15:37:01] <brmbrmcar> THere was a radiator.
+[2016/02/02 15:37:29] <brmbrmcar> It was rated lets say 6 kW (I can't remember)
+[2016/02/02 15:37:54] <brmbrmcar> Energy costs 12p or whatever perkWh.
+[2016/02/02 15:38:14] <brmbrmcar> How much does it cost for 12 hours?
+[2016/02/02 15:38:31] <Hume2> Oh, these questions.
+[2016/02/02 15:38:55] <brmbrmcar> Seems alright, but the answer was apparently 864 kWh.
+[2016/02/02 15:39:08] <Hume2> LOL
+[2016/02/02 15:39:10] <brmbrmcar> Ah, 862p.
+[2016/02/02 15:39:14] <brmbrmcar> 864.
+[2016/02/02 15:39:19] <brmbrmcar> Sorry.
+[2016/02/02 15:39:28] <Hume2> That's weird.
+[2016/02/02 15:39:30] <brmbrmcar> Irt still doesn't make sense
+[2016/02/02 15:39:57] <Hume2> And 8 Pounds 64p was incorrect, I guess.
