@@ -553,3 +553,6 @@
 [2016/02/02 05:59:59] <pentagon> [10supertux] Status for commit Spotlight is now a moving object. by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/106434946
 [2016/02/02 06:00:21] <Tobbi> Oh, hello there.
 [2016/02/02 06:00:35] <Hume2> Hi, Tobbi.
+[2016/02/02 06:15:07] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/vgTRE
+[2016/02/02 06:15:10] <pentagon> [10supertux] 07Hume2 140feadb1 Removed useless stuff in spotlight.hpp
+[2016/02/02 06:16:44] <pentagon> [10supertux] Status for commit Spotlight is now a moving object. by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/345
