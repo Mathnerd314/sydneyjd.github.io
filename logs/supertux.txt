@@ -963,3 +963,30 @@
 [2016/02/02 13:19:38] <mt> after restarts
 [2016/02/02 13:19:46] <brmbrmcar> And that will replace the old one?
 [2016/02/02 13:19:55] <mt> what old one?
+[2016/02/02 13:20:02] <brmbrmcar> THeone I have on now.
+[2016/02/02 13:20:09] <mt> what is the one?
+[2016/02/02 13:20:11] <brmbrmcar> But I saved it differently.
+[2016/02/02 13:20:21] <brmbrmcar> THe auto-conection.
+[2016/02/02 13:20:43] <mt> brmbrmcar: the ssl options also work for /server
+[2016/02/02 13:20:49] <mt> which is, after /save, permanent
+[2016/02/02 13:20:56] <sydney_untangle> So, here is a question. My grandma has a laptop with UEFI, but i would like to wipe it and install debian on it, but im wondering if its that simple. I have secure boot turned off.
+[2016/02/02 13:20:56] <brmbrmcar> Shall I just run it?
+[2016/02/02 13:21:02] <mt> and
+[2016/02/02 13:21:04] <mt> 19:20     When using the ADD parameter on a server that already exists, the
+[2016/02/02 13:21:07] <mt> 19:20     configuration will be merged with each other.
+[2016/02/02 13:21:10] <mt> see /help server
+[2016/02/02 13:21:28] <mt> you obviously then need to reconnect to make the change effective
+[2016/02/02 13:22:01] <brmbrmcar> I did that, just runs freenode2.
+[2016/02/02 13:22:14] <brmbrmcar> No SASL even
+[2016/02/02 13:22:44] <brmbrmcar> Nothing.
+[2016/02/02 13:22:45] <sydney_untangle> Do any of you have one of these machines with UEFI?
+[2016/02/02 13:23:30] @ Quit: brmbrmcar: Quit: restart
+[2016/02/02 13:23:47] <mt> I have an UEFI mainboard, don't know if it's a proper implementation though
+[2016/02/02 13:23:57] @ brmbrmcar joined channel #supertux
+[2016/02/02 13:24:19] <mt> proper implementation = rm -rf /sys/firmare/efi is recoverable
+[2016/02/02 13:24:26] <sydney_untangle> Not fun... I like the good old bios.
+[2016/02/02 13:24:33] <mt> UEFI <3
+[2016/02/02 13:24:38] <mt> if properly implemented
+[2016/02/02 13:24:41] <mt> I mean heh
+[2016/02/02 13:24:42] <sydney_untangle> True.
+[2016/02/02 13:24:47] <mt> you can boot without bootloader
