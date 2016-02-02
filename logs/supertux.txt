@@ -1378,3 +1378,5 @@
 [2016/02/02 17:34:47] @ Karkus joined channel #supertux
 [2016/02/02 17:34:47] @ Mode +v Karkus by ChanServ
 [2016/02/02 17:35:26] @ Mathnerd314 joined channel #supertux
+[2016/02/02 17:50:45] <pentagon> [supertux] Status for commit Mark a couple more methods const by Tobias Markus: The Travis CI build passed https://travis-ci.org/SuperTux/supertux/builds/106594946
+[2016/02/02 17:54:31] <pentagon> [supertux] Status for commit Mark a couple more methods const by Tobias Markus: AppVeyor build failed https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/350
