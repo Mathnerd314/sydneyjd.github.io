@@ -751,3 +751,31 @@
 [2016/02/02 12:29:18] <Tobbi> mt: Többi is even more ridiculous than my normal nickname.
 [2016/02/02 12:29:32] <Tobbi> Röbbi, Többi und das Fliewaatüüüt.
 [2016/02/02 12:29:43] <mt> I didn't want to annoy you with a highlight :P
+[2016/02/02 12:30:10] <brmbrmcar> Is that meantto be a ??
+[2016/02/02 12:30:18] <Hume2> o-umlaut
+[2016/02/02 12:30:20] <sydney_untangle> Tobbi: If you code the app for me i will get you 3 RPIs. :D
+[2016/02/02 12:30:41] <Tobbi> sydney_untangle: LOL, I could buy myself 300 from the salary I'd get from a potential investor.
+[2016/02/02 12:30:47] <brmbrmcar> Fine.
+[2016/02/02 12:31:11] <brmbrmcar> I'vegot mysolution.
+[2016/02/02 12:31:12] <mt> brmbrmcar: fix your terminal
+[2016/02/02 12:31:18] <brmbrmcar> mt:How?
+[2016/02/02 12:31:26] <brmbrmcar> I looked itup.
+[2016/02/02 12:31:47] <Tobbi> mt: Would you be willing to host botbot instead of me?
+[2016/02/02 12:31:56] <Tobbi> Botbot is actually better than this damn text file...
+[2016/02/02 12:32:21] <brmbrmcar> A new botis coming?
+[2016/02/02 12:32:28] <Tobbi> brmbrmcar: No.
+[2016/02/02 12:32:35] <sydney_untangle> Tobbi: ;D
+[2016/02/02 12:32:44] <brmbrmcar> :(
+[2016/02/02 12:32:52] <mt> brmbrmcar: or rather ¡fïx ÿøúr ŧèr₥ïñäł¡
+[2016/02/02 12:32:57] <Tobbi> haha
+[2016/02/02 12:33:01] <Hume2> :D
+[2016/02/02 12:33:15] <Tobbi> mt: Try again, this time more Danish.
+[2016/02/02 12:33:21] <mt> >botbot
+[2016/02/02 12:33:26] <mt> can't you request that?
+[2016/02/02 12:33:30] <brmbrmcar> ?f?x ???r ??r??????
+[2016/02/02 12:33:33] <sydney_untangle> Still, no one has coded a good app...
+[2016/02/02 12:33:35] <Tobbi> mt: I tried. They didn't reply...
+[2016/02/02 12:33:59] <mt> I'd like something that you can reset, in case someone really wants to
+[2016/02/02 12:34:07] <brmbrmcar> sydney_untangle:I can get a GPS with my solution.
+[2016/02/02 12:34:23] <brmbrmcar> GoogleMaps location.:D
+[2016/02/02 12:34:41] <mt> and I'd like something that one can host easily
