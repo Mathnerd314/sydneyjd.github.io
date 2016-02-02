@@ -674,3 +674,30 @@
 [2016/02/02 10:25:54] <sydney_untangle> Tobbi: I'd also like to install PFSense, except its BSD. o_O
 [2016/02/02 10:26:01] <Tobbi> PFSense_
 [2016/02/02 10:28:12] <Tobbi> sydney_untangle: What's PFSense?
+[2016/02/02 10:36:06] @ Joined channel #supertux
+[2016/02/02 10:36:06] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/02/02 10:36:06] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
+[2016/02/02 10:36:08] <pentagon> [10supertux] 07tobbi 142e0a5d0 Fix stop action not being displayed
+[2016/02/02 10:36:11] @ Mode +Cntj 5:10 by verne.freenode.net
+[2016/02/02 10:36:11] <Tobbi> oh no.
+[2016/02/02 10:36:12] <pentagon> [10supertux] 07Hume2 144e85139 Changed the scripting methods in test/gradient_dir.stl
+[2016/02/02 10:36:14] <pentagon> [10supertux] 07Hume2 14782d139 Deleted gradient scripting methods from sector
+[2016/02/02 10:36:17] <pentagon> [10supertux] 07Hume2 1442a7ba0 Moved Squirel background methods away from sector
+[2016/02/02 10:36:19] @ Mode +v red_bot by ChanServ
+[2016/02/02 10:36:20] <pentagon> [10supertux] 07Hume2 144478c74 Fixed typo in scripting/sector.cpp
+[2016/02/02 10:36:23] <pentagon> [10supertux] 07Hume2 14f93a847 Fixed typos in iceblock sprites
+[2016/02/02 10:36:23] <Tobbi> Let's just sit through it.
+[2016/02/02 10:36:26] <pentagon> [10supertux] 07Hume2 14ecc98c1 Updated ground melting sprites
+[2016/02/02 10:36:29] <pentagon> [10supertux] 07maxteufel 144e1a451 CONTRIBUTING: inform users of the ability to edit issues
+[2016/02/02 10:36:32] <pentagon> [10supertux] 07Hume2 14d018a8d fixes #353 Tux stands up when starting climbing
+[2016/02/02 10:36:35] <pentagon> [10supertux] 07tobbi 14b65c2ed Const correctness stuff in object/
+[2016/02/02 10:36:38] <pentagon> [10supertux] 07tobbi 14ce150fe Mark is_hampering() const
+[2016/02/02 10:36:41] <pentagon> [10supertux] 07Hume2 14b05f290 fixes #355
+[2016/02/02 10:36:44] <pentagon> [10supertux] 07Hume2 1495f7133 The worldmap Tux sprite now saves.
+[2016/02/02 10:36:47] <pentagon> [10supertux] 07Hume2 14b180cbf Added scriptable tint to TileMap
+[2016/02/02 10:36:49] <pentagon> [10supertux] 07Hume2 147ff3a6c Formating and grammar fix in tilemap.cpp
+[2016/02/02 10:36:52] <pentagon> [10supertux] 07Hume2 148aa82a9 Moved changing Worldmap::Tux's prite into a separate function
+[2016/02/02 10:36:55] <pentagon> [10supertux] 07Hume2 14a6b6065 Moved functions in Color to the .cpp
+[2016/02/02 10:36:58] <pentagon> [10supertux] 07Hume2 14a7f7545 Spotlight is now a moving object.
+[2016/02/02 10:37:01] <pentagon> [10supertux] 07Hume2 140feadb1 Removed useless stuff in spotlight.hpp
+[2016/02/02 10:37:04] <pentagon> [10supertux] 07tobbi 14510d6de Add null check to miniswig wrapper, should fix #327
