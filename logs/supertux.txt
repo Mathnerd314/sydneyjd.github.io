@@ -440,3 +440,7 @@
 [2016/02/02 02:58:40] @ brmbrmcar joined channel #supertux
 [2016/02/02 03:09:22] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/vgUAO
 [2016/02/02 03:09:25] <pentagon> [10supertux] 07Hume2 148aa82a9 Moved changing Worldmap::Tux's prite into a separate function
+[2016/02/02 03:27:47] @ Quit: swift110: Remote host closed the connection
+[2016/02/02 03:29:34] <pentagon> [10supertux] 07Hume2 commented on issue 09#345: Scripting support for hue / saturation / value (color) of tilemaps 13https://git.io/vgvP5
+[2016/02/02 03:29:37] <pentagon> [10supertux] 07Hume2 closed issue 09#345: Scripting support for hue / saturation / value (color) of tilemaps 13https://git.io/vgvP5
+[2016/02/02 03:29:41] @ brmbrmcar left channel #supertux ("I thought this was actual superglue")
