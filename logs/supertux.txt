@@ -990,3 +990,20 @@
 [2016/02/02 13:24:41] <mt> I mean heh
 [2016/02/02 13:24:42] <sydney_untangle> True.
 [2016/02/02 13:24:47] <mt> you can boot without bootloader
+[2016/02/02 13:25:04] <mt> folks, DON'T RUN THAT RM COMMAND ABOVE
+[2016/02/02 13:25:22] <sydney_untangle> lol. ;)
+[2016/02/02 13:25:23] <mt> unless you want to risk permanently bricking your hardware
+[2016/02/02 13:25:42] <mt> anyway
+[2016/02/02 13:25:43] <mt> ┘ grep efi /etc/mtab
+[2016/02/02 13:25:46] <mt> efivarfs /sys/firmware/efi/efivars efivarfs ro,nosuid,nodev,noexec,relatime 0 0
+[2016/02/02 13:25:59] <sydney_untangle> Im just having issues wraping my head around how it works.
+[2016/02/02 13:26:00] <mt> (the 'ro' is important)
+[2016/02/02 13:26:17] <Hume2> Installing Windows is a better risk :D
+[2016/02/02 13:26:25] <brmbrmcar> Can't be that bad.
+[2016/02/02 13:26:26] <mt> (hint: it's not 'rw' unlike the systemd default)
+[2016/02/02 13:26:41] <brmbrmcar> Would give you 1000 warnings otherwise.
+[2016/02/02 13:27:03] <brmbrmcar> This froma non-LInux system?
+[2016/02/02 13:27:54] <mt> aren't you using Chrome OS?
+[2016/02/02 13:27:59] <mt> that's Linux as well
+[2016/02/02 13:28:05] <mt> Gentoo, to be exact
+[2016/02/02 13:28:15] @ Quit: Tobbi: Remote host closed the connection
