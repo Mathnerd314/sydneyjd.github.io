@@ -431,3 +431,5 @@
 [2016/02/02 01:51:29] @ Quit: Mathnerd314: Ping timeout: 276 seconds
 [2016/02/02 02:07:10] @ lumidify joined channel #supertux
 [2016/02/02 02:08:43] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/02/02 02:25:50] @ Hume2 joined channel #supertux
+[2016/02/02 02:25:51] @ Mode +v Hume2 by ChanServ
