@@ -1027,3 +1027,9 @@
 [2016/02/02 13:38:51] <Hume2> I'll make a 40×40 chessboard. Really ᑎ̲ ᑎ̲ ᑎ̲ ᑎ̲ ᑎ̲ ᑎ̲.
 [2016/02/02 13:39:06] @ Karkus joined channel #supertux
 [2016/02/02 13:39:06] @ Mode +v Karkus by ChanServ
+[2016/02/02 13:40:28] <brmbrmcar> ?? ?? ?? ?? ?? ??
+[2016/02/02 13:40:50] <Hume2> Yes, each ?? stands for one ᑎ̲.
+[2016/02/02 13:41:16] <Hume2> So I'll print it on the most ᑎ̲ paper I have…
+[2016/02/02 13:41:45] <brmbrmcar> ?? looks like a toilet.
+[2016/02/02 13:41:59] @ Quit: brmbrmcar: Quit: Lost terminal
+[2016/02/02 13:44:59] @ brmbrmcar joined channel #supertux
