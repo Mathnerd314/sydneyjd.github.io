@@ -1069,3 +1069,8 @@
 [2016/02/02 14:22:06] <brmbrmcar> Nice.
 [2016/02/02 14:22:10] <brmbrmcar> What dpcm?
 [2016/02/02 14:24:02] @ datahead8888 joined channel #supertux
+[2016/02/02 14:30:02] @ Quit: datahead8888: Ping timeout: 276 seconds
+[2016/02/02 14:30:29] @ Quit: irungentoo: Remote host closed the connection
+[2016/02/02 14:33:39] <Hume2> Finally done.
+[2016/02/02 14:34:07] <Hume2> When it's 8×10, the dpi doesn't matter.
+[2016/02/02 14:34:54] <brmbrmcar> No.
