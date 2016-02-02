@@ -807,3 +807,21 @@
 [2016/02/02 12:43:19] <sydney_untangle> Tobbi: Will you have that app coded? :D
 [2016/02/02 12:43:31] <Tobbi> sydney_untangle: Probably not, but I'd pretend I do.
 [2016/02/02 12:43:40] <sydney_untangle> ...
+[2016/02/02 12:45:48] <sydney_untangle> Tobbi: Aparently im not the first person to want this...
+[2016/02/02 12:46:02] @ Quit: datahead8888: Ping timeout: 276 seconds
+[2016/02/02 12:46:49] <Tobbi> sydney_untangle: I am not the first person who wants to be able to have beaming technology or warp technology, either. Yet, no one has invented stuff in that aspect.
+[2016/02/02 12:48:00] <sydney_untangle> Tobbi: This isn't so complicated. :p
+[2016/02/02 12:48:06] <Tobbi> sydney_untangle: Who knows...
+[2016/02/02 12:48:12] <mt> In theory you can teleport objects over a maximum distance of ~144 km
+[2016/02/02 12:48:24] <Hume2> For flat terrain it's not as hard.
+[2016/02/02 12:48:34] <mt> However, you need very much energy
+[2016/02/02 12:48:38] <Hume2> However, tell me which field is totally flat.
+[2016/02/02 12:48:50] <Tobbi> mt: And if we teleport humans, they'd likely be dead then, won't they?
+[2016/02/02 12:49:04] <mt> most likely
+[2016/02/02 12:49:13] <brmbrmcar> To much FORCE
+[2016/02/02 12:49:14] <mt> if we made progress, they'd only have cancer
+[2016/02/02 12:49:20] <brmbrmcar> s/To/Too/
+[2016/02/02 12:49:20] <red_bot> brmbrmcar meant: "Too much FORCE"
+[2016/02/02 12:49:31] <Hume2> cancer :D
+[2016/02/02 12:49:49] <brmbrmcar> Teleporting is impossible.
+[2016/02/02 12:50:01] <Hume2> It's like 3D printer :D
