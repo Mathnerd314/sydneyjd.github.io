@@ -797,3 +797,13 @@
 [2016/02/02 12:38:36] <sydney_untangle> Tobbi: So this is how people make those crappy apps. http://mashable.com/2013/12/03/build-mobile-apps/
 [2016/02/02 12:39:15] <mt> for the latter server, I however have access to an admin webfrontend that lets me create more containers on the same host machine
 [2016/02/02 12:39:42] <Tobbi> :)
+[2016/02/02 12:40:39] <sydney_untangle> mt: What is US-LAX?
+[2016/02/02 12:40:55] <Tobbi> sydney_untangle: That is a US american who is lactose-intolerant.
+[2016/02/02 12:41:03] <mt> https://en.wikipedia.org/wiki/UN/LOCODE for Los Angeles, CA
+[2016/02/02 12:41:22] <sydney_untangle> Tobbi: ...
+[2016/02/02 12:41:59] <Tobbi> sydney_untangle: You should visit Hamburg someday...
+[2016/02/02 12:42:03] <Tobbi> We can meet up :P
+[2016/02/02 12:42:25] <Tobbi> ...and you can bring the raspberry pis you promised me :P
+[2016/02/02 12:43:19] <sydney_untangle> Tobbi: Will you have that app coded? :D
+[2016/02/02 12:43:31] <Tobbi> sydney_untangle: Probably not, but I'd pretend I do.
+[2016/02/02 12:43:40] <sydney_untangle> ...
