@@ -739,3 +739,15 @@
 [2016/02/02 12:24:45] <Tobbi> sydney_untangle: lol no_
 [2016/02/02 12:24:46] <Tobbi> ?
 [2016/02/02 12:24:56] <pentagon> [10supertux] 07Hume2 commented on issue 09#354: Get rid of old and ugly dispenser 13https://git.io/vzjpC
+[2016/02/02 12:25:05] @ bb010g joined channel #supertux
+[2016/02/02 12:26:18] <sydney_untangle> Tobbi: Oh comon... ;)
+[2016/02/02 12:27:00] <sydney_untangle> Tobbi: But, if you did code a app that did the job well, you could make quite some money since actual farm GPS systems are 1000+ dollars a piece. ;)
+[2016/02/02 12:27:18] <Tobbi> sydney_untangle: I guess google would then hire me for sure.
+[2016/02/02 12:28:04] * sydney_untangle gives up...
+[2016/02/02 12:28:30] <brmbrmcar> A GPS isn't that much aroundhere.
+[2016/02/02 12:28:30] <Tobbi> sydney_untangle: What about giving me a new raspberry pi instead of "up"?
+[2016/02/02 12:28:48] <Hume2> :D
+[2016/02/02 12:28:54] <mt> 16:25:54 <+sydney_untangle> Többi: I'd also like to install PFSense, except its BSD. o_O <-- BSD is actually pretty cool
+[2016/02/02 12:29:18] <Tobbi> mt: Többi is even more ridiculous than my normal nickname.
+[2016/02/02 12:29:32] <Tobbi> Röbbi, Többi und das Fliewaatüüüt.
+[2016/02/02 12:29:43] <mt> I didn't want to annoy you with a highlight :P
