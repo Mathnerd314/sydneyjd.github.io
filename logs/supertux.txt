@@ -1019,3 +1019,11 @@
 [2016/02/02 13:33:04] <brmbrmcar> I can't change much of Chrome OS from Ubuntu.
 [2016/02/02 13:34:14] @ Quit: Karkus: Ping timeout: 252 seconds
 [2016/02/02 13:34:44] <Hume2> /kick Hume2 ᑎ̲
+[2016/02/02 13:35:44] <brmbrmcar> ??
+[2016/02/02 13:36:16] <brmbrmcar>  /kick Hume2 Nae special characters!
+[2016/02/02 13:37:23] <Hume2> brmbrmcar: It's that inverted underlined U.
+[2016/02/02 13:37:29] <brmbrmcar> Yes.
+[2016/02/02 13:37:58] <brmbrmcar> Everything keeps crashing!
+[2016/02/02 13:38:51] <Hume2> I'll make a 40×40 chessboard. Really ᑎ̲ ᑎ̲ ᑎ̲ ᑎ̲ ᑎ̲ ᑎ̲.
+[2016/02/02 13:39:06] @ Karkus joined channel #supertux
+[2016/02/02 13:39:06] @ Mode +v Karkus by ChanServ
