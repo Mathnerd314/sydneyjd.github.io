@@ -591,3 +591,4 @@
 [2016/02/02 07:39:52] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/vgTKc
 [2016/02/02 07:39:54] <pentagon> [10supertux] 07Hume2 148263429 Magicblocks test only the solidity of central 18×18 square to become solid.
 [2016/02/02 07:39:57] <pentagon> [10supertux] 07Hume2 closed issue 09#335: Carried objects can be released through solid magic blocks 13https://git.io/vzjfj
+[2016/02/02 07:49:54] <pentagon> [10supertux] Status for commit Add null check to miniswig wrapper, should fix #327 by 07Tobias Markus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/346
