@@ -1504,3 +1504,4 @@
 [2016/02/03 04:11:02] <pentagon> [supertux] Status for commit Rebased onto master, fixing conflicts in spotlight.cpp by Hume2: The Travis CI build passed https://travis-ci.org/SuperTux/supertux/builds/106684269
 [2016/02/03 04:24:20] <pentagon> [supertux] Status for commit Rebased onto master, fixing conflicts in spotlight.cpp by Hume2: The Travis CI build passed https://travis-ci.org/SuperTux/supertux/builds/106684285
 [2016/02/03 04:25:42] <pentagon> [supertux] Status for commit Rebased onto master, fixing conflicts in spotlight.cpp by Hume2: AppVeyor build failed https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/351
+[2016/02/03 04:55:14] <pentagon> [supertux] Status for commit Rebased onto master, fixing conflicts in spotlight.cpp by Hume2: AppVeyor build failed https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/352
