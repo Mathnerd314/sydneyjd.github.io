@@ -1775,3 +1775,11 @@
 [2016/02/03 16:55:54] @ Tobbi joined channel #supertux
 [2016/02/03 16:55:55] @ Mode +v Tobbi by ChanServ
 [2016/02/03 17:12:56] @ Quit: claymore2: Quit: Leaving
+[2016/02/03 18:27:08] @ Quit: alket: Quit: Good night!
+[2016/02/03 18:27:15] <sydney_untangle> Tobbi: Whewph...
+[2016/02/03 18:27:51] <sydney_untangle> Tobbi: What havey ou been up to?
+[2016/02/03 18:27:56] <sydney_untangle> have you*
+[2016/02/03 18:28:32] <Tobbi> sydney_untangle: Not much. I watched videos of "The Hoax Hotel" (scamming scammers). And I just watched a short clip from Pulp Fiction.
+[2016/02/03 18:29:25] <sydney_untangle> Tobbi: Hrm.
+[2016/02/03 18:29:34] <Tobbi> sydney_untangle: Do you know Pulp Fiction?
+[2016/02/03 18:29:44] <Tobbi> actually, how old are you?
