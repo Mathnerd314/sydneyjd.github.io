@@ -1765,3 +1765,6 @@
 [2016/02/03 15:07:27] @ alket joined channel #supertux
 [2016/02/03 15:35:55] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/03 15:43:17] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/03 15:52:57] @ Quit: alket: Read error: Connection reset by peer
+[2016/02/03 15:53:15] @ alket joined channel #supertux
+[2016/02/03 15:54:26] @ Quit: alket: Client Quit
