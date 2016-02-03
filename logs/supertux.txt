@@ -1657,3 +1657,4 @@
 [2016/02/03 13:02:57] @ Mode +v Tobbi by ChanServ
 [2016/02/03 13:05:06] @ Quit: sistemx: Quit: Page closed
 [2016/02/03 13:06:53] <Tobbi> Okay, guys.
+[2016/02/03 13:11:46] @ Quit: tuxdev_: Ping timeout: 240 seconds
