@@ -1660,3 +1660,5 @@
 [2016/02/03 13:11:46] @ Quit: tuxdev_: Ping timeout: 240 seconds
 [2016/02/03 13:20:45] @ Karkus joined channel #supertux
 [2016/02/03 13:20:46] @ Mode +v Karkus by ChanServ
+[2016/02/03 13:36:09] @ Quit: alket: Quit: Good night!
+[2016/02/03 13:37:28] @ alket joined channel #supertux
