@@ -1527,3 +1527,6 @@
 [2016/02/03 09:01:05] <mt> pentagon: later tell Hume2 when you force push your editor branch, couldn't you op up, quiet pentagon and set +z, when you see it's done unquiet it again and set -z?
 [2016/02/03 09:01:06] <pentagon> mt: The operation succeeded.
 [2016/02/03 09:13:49] @ MCMic joined channel #supertux
+[2016/02/03 09:20:13] @ Quit: MCMic: Quit: Konversation terminated!
+[2016/02/03 09:21:56] @ Quit: nerdopolis: Ping timeout: 248 seconds
+[2016/02/03 09:22:09] @ nerdopolis_ joined channel #supertux
