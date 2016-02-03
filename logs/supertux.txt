@@ -1662,3 +1662,10 @@
 [2016/02/03 13:20:46] @ Mode +v Karkus by ChanServ
 [2016/02/03 13:36:09] @ Quit: alket: Quit: Good night!
 [2016/02/03 13:37:28] @ alket joined channel #supertux
+[2016/02/03 14:01:43] @ claymore2 joined channel #supertux
+[2016/02/03 14:02:39] <Hume2> Okej.
+[2016/02/03 14:02:55] <Hume2> *Oukej
+[2016/02/03 14:04:12] <Tobbi> Karkus: jsyk, I have a better place to put babies than in the dishwasher: The microwave...
+[2016/02/03 14:04:22] <Tobbi> Also, you could have Schroedinger's Microwave Baby...
+[2016/02/03 14:04:29] <Hume2> :D
+[2016/02/03 14:04:39] <Tobbi> Unless you look (or it makes this "ding" sound) the baby might or might not be alive.
