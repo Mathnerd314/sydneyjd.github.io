@@ -1542,3 +1542,11 @@
 [2016/02/03 10:35:19] @ Mode +v Tobbi by ChanServ
 [2016/02/03 10:36:40] <Tobbi> sydney_untangle: What's wrong with the hello world program, or where does it crash?
 [2016/02/03 10:36:44] <Tobbi> Stacktrace would be best.
+[2016/02/03 10:50:41] <sydney_untangle> Tobbi: Never mind... :p ive given up.
+[2016/02/03 10:50:50] <Tobbi> sydney_untangle: That was fast.
+[2016/02/03 10:51:29] <sydney_untangle> :-)
+[2016/02/03 10:51:47] <sydney_untangle> Tobbi: I have school to do, thats why. D:
+[2016/02/03 10:51:54] <Tobbi> hmm, ok
+[2016/02/03 10:53:04] <sydney_untangle> Tobbi: And i don't really want to learn how to code...
+[2016/02/03 10:53:38] <sydney_untangle> I didn't realize that Android programs are Java. o_O
+[2016/02/03 10:53:42] <Tobbi> k
