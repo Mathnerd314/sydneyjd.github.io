@@ -1761,3 +1761,5 @@
 [2016/02/03 15:00:50] <Hume2> Yes.
 [2016/02/03 15:02:02] <Hume2> In Czech we have a special word for connecting Austria to Germany, "anšlusovat".
 [2016/02/03 15:04:56] @ Quit: Karkus: Ping timeout: 245 seconds
+[2016/02/03 15:07:17] @ Quit: alket: Read error: Connection reset by peer
+[2016/02/03 15:07:27] @ alket joined channel #supertux
