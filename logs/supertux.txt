@@ -1774,3 +1774,4 @@
 [2016/02/03 16:28:43] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2016/02/03 16:55:54] @ Tobbi joined channel #supertux
 [2016/02/03 16:55:55] @ Mode +v Tobbi by ChanServ
+[2016/02/03 17:12:56] @ Quit: claymore2: Quit: Leaving
