@@ -1530,3 +1530,4 @@
 [2016/02/03 09:20:13] @ Quit: MCMic: Quit: Konversation terminated!
 [2016/02/03 09:21:56] @ Quit: nerdopolis: Ping timeout: 248 seconds
 [2016/02/03 09:22:09] @ nerdopolis_ joined channel #supertux
+[2016/02/03 09:39:32] @ Quit: Tobbi: Remote host closed the connection
