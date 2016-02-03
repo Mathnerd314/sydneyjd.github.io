@@ -1538,3 +1538,7 @@
 [2016/02/03 10:18:43] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2016/02/03 10:33:46] <brmbrmcar> hello-world?
 [2016/02/03 10:34:01] <brmbrmcar> Try again.
+[2016/02/03 10:35:19] @ Tobbi joined channel #supertux
+[2016/02/03 10:35:19] @ Mode +v Tobbi by ChanServ
+[2016/02/03 10:36:40] <Tobbi> sydney_untangle: What's wrong with the hello world program, or where does it crash?
+[2016/02/03 10:36:44] <Tobbi> Stacktrace would be best.
