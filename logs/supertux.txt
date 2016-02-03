@@ -1400,3 +1400,4 @@
 [2016/02/02 19:00:17] <Tobbi> Merry january everyone
 [2016/02/02 19:15:37] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/02 19:16:42] <sydney_untangle> o_O
+[2016/02/02 21:08:18] @ bb010g joined channel #supertux
