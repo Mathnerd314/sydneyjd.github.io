@@ -1653,3 +1653,5 @@
 [2016/02/03 12:47:41] <mt> then we'll have a mess of addons we're not sure about licensing
 [2016/02/03 12:47:57] <Hume2> I responsed like this because I wanted to know whether he really needs to know the license.
 [2016/02/03 12:49:02] <Hume2> I knew that this was created just because he wanted to complain.
+[2016/02/03 13:02:57] @ Tobbi joined channel #supertux
+[2016/02/03 13:02:57] @ Mode +v Tobbi by ChanServ
