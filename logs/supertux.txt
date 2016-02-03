@@ -1554,3 +1554,7 @@
 [2016/02/03 11:00:54] <sydney_untangle> brmbrmcar: Oracle Java is evil.
 [2016/02/03 11:03:13] <mt> you can also use non-Java code on android
 [2016/02/03 11:03:14] <mt> https://developer.android.com/tools/sdk/ndk/index.html
+[2016/02/03 11:07:29] <Tobbi> mt: I tell you: Just: Don't! NDK reminds me of my project. I don't want to be remembered.
+[2016/02/03 11:08:06] <Tobbi> Also, sydney_untangle: What's wrong with Java?
+[2016/02/03 11:09:05] <mt> Java is just full of security problems
+[2016/02/03 11:09:55] <brmbrmcar> sydney_untangle: What's the difference?
