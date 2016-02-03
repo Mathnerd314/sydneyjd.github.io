@@ -1580,3 +1580,18 @@
 [2016/02/03 12:04:29] <mt> Hume2: 15:01:05 <+mt> pentagon: later tell Hume2 when you force push your editor branch, couldn't you op up, quiet pentagon and set +z, when you see it's done unquiet it again and set -z?
 [2016/02/03 12:04:48] <mt> doesn't work since ignoring everyone by default ignores you for that too
 [2016/02/03 12:05:00] <mt> (didn't realize before)
+[2016/02/03 12:05:03] <Hume2> OK
+[2016/02/03 12:05:24] <mt> brmbrmcar: please don't
+[2016/02/03 12:05:42] <brmbrmcar> mt: Don't what?
+[2016/02/03 12:05:45] <brmbrmcar> Use colours?
+[2016/02/03 12:05:47] <mt> abuse colors
+[2016/02/03 12:05:56] <brmbrmcar> I won't.
+[2016/02/03 12:06:02] <brmbrmcar> I tested it.
+[2016/02/03 12:06:03] <mt> you did
+[2016/02/03 12:06:27] <brmbrmcar> I know!
+[2016/02/03 12:06:35] <mt> that wasn't testing, since -c is actually -c; if that wouldn't work it would've been discovered before
+[2016/02/03 12:06:48] <mt> you did abuse it, that's what I was referring to
+[2016/02/03 12:06:48] <brmbrmcar> I know.
+[2016/02/03 12:07:08] <mt> consider that as a warning
+[2016/02/03 12:07:15] <brmbrmcar> I checked it for reasons of wierdness.
+[2016/02/03 12:07:19] @ brmbrmcar left channel #supertux ("grr")
