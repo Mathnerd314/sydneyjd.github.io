@@ -1501,3 +1501,4 @@
 [2016/02/03 04:00:31] <pentagon> [supertux] Hume2 1d9e886 Added trigger object menus
 [2016/02/03 04:00:33] <pentagon> [supertux] Hume2 b27b423 Rebased onto master, fixed werrors and stuff
 [2016/02/03 04:00:36] <pentagon> [supertux] Hume2 544bd92 Rebased onto master, fixing conflicts in spotlight.cpp
+[2016/02/03 04:11:02] <pentagon> [supertux] Status for commit Rebased onto master, fixing conflicts in spotlight.cpp by Hume2: The Travis CI build passed https://travis-ci.org/SuperTux/supertux/builds/106684269
