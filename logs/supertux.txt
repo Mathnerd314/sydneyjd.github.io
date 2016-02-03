@@ -1677,3 +1677,21 @@
 [2016/02/03 14:21:46] <Hume2> The price is excluding those wooden parts: http://vignette2.wikia.nocookie.net/necyklopedie/images/6/61/Mezery_v_plotu.jpg/revision/latest?cb=20091220130747
 [2016/02/03 14:29:24] <Karkus> Tobbi: Surely the baby can observe itself? :D
 [2016/02/03 14:29:41] <Tobbi> Karkus: Well, the cat can observe itself as well.
+[2016/02/03 14:30:07] <Tobbi> :P
+[2016/02/03 14:30:12] <Hume2> Yes, but the wave fuction would collapse for us after we open the microwave.
+[2016/02/03 14:30:14] <Karkus> Tobbi: Hmmm. I don't understand schrodinger's cat...
+[2016/02/03 14:30:27] <Tobbi> Karkus: It's just about the person being outside not being able to observer.
+[2016/02/03 14:30:30] <Tobbi> *observe
+[2016/02/03 14:30:42] <Tobbi> Also, I forgot quite a lot about this anyway...
+[2016/02/03 14:31:50] <Hume2> It's also hard to get it, I think.
+[2016/02/03 14:32:25] <Hume2> And it's not much useful if you aren't going to construct quantum computers.
+[2016/02/03 14:32:36] <Karkus> Tobbi: But surely whether the person can observe or not doesn't matter :D
+[2016/02/03 14:33:04] <Tobbi> Karkus: But, you need an actual observer to make a finite decision about whether the baby is alive or not.
+[2016/02/03 14:33:36] <Karkus> Tobbi: What about God :P :D
+[2016/02/03 14:33:38] <Karkus> ?
+[2016/02/03 14:34:00] <Karkus> Tobbi: Way too philosophical for me.
+[2016/02/03 14:34:10] <Hume2> Don't you think Chuck Norris?
+[2016/02/03 14:34:13] <Hume2> :P
+[2016/02/03 14:34:19] <Tobbi> Oh god... :D Well, he'd know...same for someone who'd observe the baby's cries vanish...
+[2016/02/03 14:34:34] <Tobbi> Karkus: It's actually a physics analogy.
+[2016/02/03 14:34:54] <Karkus> Tobbi: Is it something to do with Quantum Superpositions?
