@@ -1793,3 +1793,7 @@
 [2016/02/03 18:35:18] <sydney_untangle> Tobbi: Watch some pink panther instead...
 [2016/02/03 18:35:28] <Tobbi> sydney_untangle: Not at the moment...
 [2016/02/03 18:35:46] <sydney_untangle> Heh. :)
+[2016/02/03 18:46:23] <Tobbi> sydney_untangle: You just reminded me: I let Microsoft Sam read out this PDF some time ago: http://www.catholiclabor.org/gen-art/cafod-computers.pdf
+[2016/02/03 18:46:42] <Tobbi> I still remember it saying "Clean up your computer - Working conditions in the electronic sector"
+[2016/02/03 18:46:54] <Tobbi> *electronics
+[2016/02/03 18:48:10] <sydney_untangle> Tobbi: Heh.
