@@ -1604,3 +1604,18 @@
 [2016/02/03 12:33:38] <Hume2> I don't know about the other, but I wouldn't blame you even if you used it incorrectly.
 [2016/02/03 12:33:59] <mt> note that these simplifications are just for easier understanding
 [2016/02/03 12:34:28] <mt> for the full legal implications, consult with a lawyer and ask them about the actual license content
+[2016/02/03 12:35:50] <sistemx> I am talking about supertux
+[2016/02/03 12:36:00] <mt> yes
+[2016/02/03 12:36:21] <mt> most of supertux would fall under the licenses mentioned
+[2016/02/03 12:36:25] <sistemx> I see, so it is not easy as I  thought :(
+[2016/02/03 12:36:58] <Hume2> If you want to make some profit, then it's not easy.
+[2016/02/03 12:37:19] <sistemx> I   thought, if some thing is "open source" you can use it as I can. But looks too difficult
+[2016/02/03 12:37:48] <Hume2> Not really, there's some kind of law jungle arround it.
+[2016/02/03 12:37:51] <sistemx> profit is not priority for me now, I am beginer and I want help to Ubuntu touch
+[2016/02/03 12:38:05] <mt> it's still copyrighted and you've still got some restrictions
+[2016/02/03 12:38:06] <sistemx> So I want make some games
+[2016/02/03 12:38:15] <Hume2> Then you just mention the authors of the resources.
+[2016/02/03 12:38:25] <Hume2> This should be enough, I hope.
+[2016/02/03 12:39:10] <mt> I think even GPL and CC-BY-SA allow commercial redistribution in at least some cases, but DISCLAIMER: I AM NOT A LAWYER
+[2016/02/03 12:39:32] <Hume2> I am not a lawyer too.
+[2016/02/03 12:39:40] <sistemx> So you mean that I will check contact from supertux web site and ask them? Or check names and ask directly to each person?
