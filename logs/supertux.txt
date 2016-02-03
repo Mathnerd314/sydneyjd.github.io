@@ -1395,3 +1395,4 @@
 [2016/02/02 18:40:52] @ Mode +Ccntj 5:10 by hitchcock.freenode.net
 [2016/02/02 18:41:01] @ Mode +v red_bot by ChanServ
 [2016/02/02 18:43:13] <sydney_untangle> Uhm, storm blowing through...
+[2016/02/02 19:00:00] <Tobbi> storm is blowing, all around me, children playing, having fun.
