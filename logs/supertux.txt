@@ -1550,3 +1550,4 @@
 [2016/02/03 10:53:04] <sydney_untangle> Tobbi: And i don't really want to learn how to code...
 [2016/02/03 10:53:38] <sydney_untangle> I didn't realize that Android programs are Java. o_O
 [2016/02/03 10:53:42] <Tobbi> k
+[2016/02/03 10:59:35] <brmbrmcar> Java is evil.
