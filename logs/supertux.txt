@@ -1517,3 +1517,6 @@
 [2016/02/03 07:18:22] <MCMic> Do not hesitate to join the fun and run with us :-)
 [2016/02/03 07:18:39] <Hume2> :)
 [2016/02/03 07:18:53] <MCMic> I intend to post on ST forums but wanted to clarify the rules first, the current first did not follow them which is kind of sad…
+[2016/02/03 07:37:34] @ Quit: MCMic: Quit: Konversation terminated!
+[2016/02/03 07:37:55] @ Tobbi joined channel #supertux
+[2016/02/03 07:37:55] @ Mode +v Tobbi by ChanServ
