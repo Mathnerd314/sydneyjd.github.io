@@ -1598,3 +1598,9 @@
 [2016/02/03 12:20:47] @ sistemx joined channel #supertux
 [2016/02/03 12:23:20] <sistemx> Hello, I want ask, if I can use sound and sprites and characters ets to my game. I am beginer and I don't undestand licence fully. Do sombody know?
 [2016/02/03 12:29:43] <mt> the best thing you can do is consulting a lawyer
+[2016/02/03 12:30:58] <Hume2> Yes, but don't ask two lawyers, because you wouldn't get the same thing :D
+[2016/02/03 12:32:34] <Hume2> In short, you can use it even without asking, but uder some kind of termas. I don't remember it much.
+[2016/02/03 12:33:21] <mt> most would fall under https://tldrlegal.com/license/gnu-general-public-license-v3-%28gpl-3%29 or https://creativecommons.org/licenses/by-sa/3.0/
+[2016/02/03 12:33:38] <Hume2> I don't know about the other, but I wouldn't blame you even if you used it incorrectly.
+[2016/02/03 12:33:59] <mt> note that these simplifications are just for easier understanding
+[2016/02/03 12:34:28] <mt> for the full legal implications, consult with a lawyer and ask them about the actual license content
