@@ -1531,3 +1531,4 @@
 [2016/02/03 09:21:56] @ Quit: nerdopolis: Ping timeout: 248 seconds
 [2016/02/03 09:22:09] @ nerdopolis_ joined channel #supertux
 [2016/02/03 09:39:32] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/03 09:51:21] @ Mathnerd314 joined channel #supertux
