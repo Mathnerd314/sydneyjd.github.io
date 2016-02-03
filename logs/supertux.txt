@@ -1763,3 +1763,4 @@
 [2016/02/03 15:04:56] @ Quit: Karkus: Ping timeout: 245 seconds
 [2016/02/03 15:07:17] @ Quit: alket: Read error: Connection reset by peer
 [2016/02/03 15:07:27] @ alket joined channel #supertux
+[2016/02/03 15:35:55] @ Quit: Tobbi: Remote host closed the connection
