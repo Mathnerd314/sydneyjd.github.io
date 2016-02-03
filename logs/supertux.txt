@@ -1524,3 +1524,5 @@
 [2016/02/03 07:55:00] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/03 08:30:16] @ Tobbi joined channel #supertux
 [2016/02/03 08:30:16] @ Mode +v Tobbi by ChanServ
+[2016/02/03 09:01:05] <mt> pentagon: later tell Hume2 when you force push your editor branch, couldn't you op up, quiet pentagon and set +z, when you see it's done unquiet it again and set -z?
+[2016/02/03 09:01:06] <pentagon> mt: The operation succeeded.
