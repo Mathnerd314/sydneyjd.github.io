@@ -1619,3 +1619,23 @@
 [2016/02/03 12:39:10] <mt> I think even GPL and CC-BY-SA allow commercial redistribution in at least some cases, but DISCLAIMER: I AM NOT A LAWYER
 [2016/02/03 12:39:32] <Hume2> I am not a lawyer too.
 [2016/02/03 12:39:40] <sistemx> So you mean that I will check contact from supertux web site and ask them? Or check names and ask directly to each person?
+[2016/02/03 12:40:09] <Hume2> You don't have to ask, I hope.
+[2016/02/03 12:40:22] <mt> you don't usually even need to ask, just put their name somewhere in your game (e.g. in the credits)
+[2016/02/03 12:40:35] <mt> for most open source licenses
+[2016/02/03 12:40:50] <sistemx> Something like this I read before
+[2016/02/03 12:41:07] <mt> also, be sure to check the files included in the repos if a file you're going to use is not under the usual license
+[2016/02/03 12:41:28] <sistemx> But I just worry, play with license is not fun :(
+[2016/02/03 12:41:42] <mt> e.g. there's a soundtrack included in the game that we're only allowed to use due to permission from the original author
+[2016/02/03 12:42:05] <sistemx> I see
+[2016/02/03 12:42:21] <Hume2> Yes, the GPL says that it should be distributed under the same license.
+[2016/02/03 12:42:31] <sistemx> So maybe better way find open source game from one owner
+[2016/02/03 12:42:55] <sistemx> it is too complicate :)
+[2016/02/03 12:42:56] <mt> most open source projects have multiple authors
+[2016/02/03 12:42:58] <sistemx> :(
+[2016/02/03 12:43:01] <mt> that's the entire point of it
+[2016/02/03 12:43:20] <mt> also http://opengameart.org/ for more art (but check the license too)
+[2016/02/03 12:43:37] <mt> oh and what's important to mention:
+[2016/02/03 12:43:48] <Hume2> I think that this my mad response speaks for everything: https://github.com/SuperTux/addons/issues/9
+[2016/02/03 12:44:04] <mt> we might be exaggerating about this
+[2016/02/03 12:44:19] <mt> but we don't want to be liable for stuff you do
+[2016/02/03 12:44:20] <sistemx> This site I know, But best is find all together. on this website I can not find all together..
