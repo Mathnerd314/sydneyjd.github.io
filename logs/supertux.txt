@@ -1639,3 +1639,17 @@
 [2016/02/03 12:44:04] <mt> we might be exaggerating about this
 [2016/02/03 12:44:19] <mt> but we don't want to be liable for stuff you do
 [2016/02/03 12:44:20] <sistemx> This site I know, But best is find all together. on this website I can not find all together..
+[2016/02/03 12:45:37] <sistemx> Anyway, thanks for help..
+[2016/02/03 12:45:45] <mt> Hume2: (that's still open)
+[2016/02/03 12:45:54] <Hume2> damn
+[2016/02/03 12:46:12] <Hume2> Anyway, do you know why I put there that response?
+[2016/02/03 12:46:41] <mt> Hume2: (also in the level files you seem to have specified GPL 2+/CC-BY-SA 3.0 even if you don't care, so something public domain-ish would be appropriate)
+[2016/02/03 12:46:49] @ Quit: alket: Quit: Good night!
+[2016/02/03 12:46:50] <mt> Hume2: I know very well
+[2016/02/03 12:46:52] <mt> but ffs
+[2016/02/03 12:47:05] <mt> if we don't specify in the source place
+[2016/02/03 12:47:17] <mt> we'll have a problem when we want to move away from github oslt
+[2016/02/03 12:47:23] @ alket joined channel #supertux
+[2016/02/03 12:47:41] <mt> then we'll have a mess of addons we're not sure about licensing
+[2016/02/03 12:47:57] <Hume2> I responsed like this because I wanted to know whether he really needs to know the license.
+[2016/02/03 12:49:02] <Hume2> I knew that this was created just because he wanted to complain.
