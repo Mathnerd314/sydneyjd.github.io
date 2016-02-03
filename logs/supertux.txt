@@ -1505,3 +1505,15 @@
 [2016/02/03 04:24:20] <pentagon> [supertux] Status for commit Rebased onto master, fixing conflicts in spotlight.cpp by Hume2: The Travis CI build passed https://travis-ci.org/SuperTux/supertux/builds/106684285
 [2016/02/03 04:25:42] <pentagon> [supertux] Status for commit Rebased onto master, fixing conflicts in spotlight.cpp by Hume2: AppVeyor build failed https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/351
 [2016/02/03 04:55:14] <pentagon> [supertux] Status for commit Rebased onto master, fixing conflicts in spotlight.cpp by Hume2: AppVeyor build failed https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/352
+[2016/02/03 07:15:05] @ MCMic joined channel #supertux
+[2016/02/03 07:15:38] <MCMic> Hello, can you tell me what is the windows equivalent for folder «~/.supertux/» ?
+[2016/02/03 07:15:54] <MCMic> I meant «~/.supertux2/»
+[2016/02/03 07:16:00] <Hume2> It should be %appdata%/.supertux2
+[2016/02/03 07:16:24] <MCMic> hum, and %appdata% is something people can find easily?
+[2016/02/03 07:16:54] <Hume2> I guess you can just type it to the Windows explorer and it opens.
+[2016/02/03 07:17:02] <MCMic> ok
+[2016/02/03 07:17:30] <MCMic> Thanks
+[2016/02/03 07:18:02] <MCMic> I’m speedrunning supertux and needed to explain people how to get a fresh profile: http://www.speedrun.com/SuperTux/guide/n1uyf
+[2016/02/03 07:18:22] <MCMic> Do not hesitate to join the fun and run with us :-)
+[2016/02/03 07:18:39] <Hume2> :)
+[2016/02/03 07:18:53] <MCMic> I intend to post on ST forums but wanted to clarify the rules first, the current first did not follow them which is kind of sad…
