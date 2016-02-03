@@ -1521,3 +1521,4 @@
 [2016/02/03 07:37:55] @ Tobbi joined channel #supertux
 [2016/02/03 07:37:55] @ Mode +v Tobbi by ChanServ
 [2016/02/03 07:48:25] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/03 07:55:00] @ Quit: Tobbi: Remote host closed the connection
