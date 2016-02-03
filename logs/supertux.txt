@@ -1673,3 +1673,5 @@
 [2016/02/03 14:06:14] @ bb010g joined channel #supertux
 [2016/02/03 14:06:31] <Tobbi> :D
 [2016/02/03 14:19:57] <Hume2> Would you like to buy some gaps for fences?
+[2016/02/03 14:20:39] <Hume2> They cost only 59 CZK.
+[2016/02/03 14:21:46] <Hume2> The price is excluding those wooden parts: http://vignette2.wikia.nocookie.net/necyklopedie/images/6/61/Mezery_v_plotu.jpg/revision/latest?cb=20091220130747
