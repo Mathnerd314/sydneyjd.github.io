@@ -1768,3 +1768,5 @@
 [2016/02/03 15:52:57] @ Quit: alket: Read error: Connection reset by peer
 [2016/02/03 15:53:15] @ alket joined channel #supertux
 [2016/02/03 15:54:26] @ Quit: alket: Client Quit
+[2016/02/03 15:55:25] @ alket joined channel #supertux
+[2016/02/03 15:58:06] @ Quit: alket: Client Quit
