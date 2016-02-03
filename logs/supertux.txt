@@ -1535,3 +1535,4 @@
 [2016/02/03 10:02:05] <sydney_untangle> Odd, the android studio hello-world program crashes on my phone. o_O
 [2016/02/03 10:09:30] <sydney_untangle> Ugg, i cannot do this...
 [2016/02/03 10:11:03] @ tuxdev_ joined channel #supertux
+[2016/02/03 10:18:43] @ Quit: bb010g: Quit: Connection closed for inactivity
