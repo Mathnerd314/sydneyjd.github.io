@@ -1567,3 +1567,16 @@
 [2016/02/03 11:59:05] @ Hume2 joined channel #supertux
 [2016/02/03 11:59:06] @ Mode +v Hume2 by ChanServ
 [2016/02/03 11:59:13] <Hume2> Hello
+[2016/02/03 12:01:51] <pentagon> [supertux] brmbrmcar commented on issue #288: Allow addons to be manually installed easily again https://git.io/vEZUT
+[2016/02/03 12:01:54] <pentagon> [supertux] brmbrmcar closed issue #288: Allow addons to be manually installed easily again https://git.io/vEZUT
+[2016/02/03 12:03:38] @ Mode +o mt by ChanServ
+[2016/02/03 12:03:41] @ Mode -co mt by mt
+[2016/02/03 12:03:50] <mt> it looks ugly without colors
+[2016/02/03 12:03:52] <sydney_untangle> Hume2: Hey,
+[2016/02/03 12:03:58] <sydney_untangle> mt: True.
+[2016/02/03 12:04:03] <brmbrmcar> 8test
+[2016/02/03 12:04:12] <Hume2> It's yeallow.
+[2016/02/03 12:04:24] <brmbrmcar> Good.
+[2016/02/03 12:04:29] <mt> Hume2: 15:01:05 <+mt> pentagon: later tell Hume2 when you force push your editor branch, couldn't you op up, quiet pentagon and set +z, when you see it's done unquiet it again and set -z?
+[2016/02/03 12:04:48] <mt> doesn't work since ignoring everyone by default ignores you for that too
+[2016/02/03 12:05:00] <mt> (didn't realize before)
