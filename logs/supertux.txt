@@ -1597,3 +1597,4 @@
 [2016/02/03 12:07:19] @ brmbrmcar left channel #supertux ("grr")
 [2016/02/03 12:20:47] @ sistemx joined channel #supertux
 [2016/02/03 12:23:20] <sistemx> Hello, I want ask, if I can use sound and sprites and characters ets to my game. I am beginer and I don't undestand licence fully. Do sombody know?
+[2016/02/03 12:29:43] <mt> the best thing you can do is consulting a lawyer
