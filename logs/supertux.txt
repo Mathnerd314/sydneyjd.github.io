@@ -1562,3 +1562,4 @@
 [2016/02/03 11:12:11] <brmbrmcar> grandparents computers = bad security
 [2016/02/03 11:12:26] <brmbrmcar> Oracle knoes that well.
 [2016/02/03 11:14:35] <brmbrmcar> Do they give back data to gain that?
+[2016/02/03 11:19:00] @ Quit: Tobbi: Remote host closed the connection
