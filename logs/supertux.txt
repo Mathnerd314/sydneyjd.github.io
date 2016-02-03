@@ -1669,3 +1669,6 @@
 [2016/02/03 14:04:22] <Tobbi> Also, you could have Schroedinger's Microwave Baby...
 [2016/02/03 14:04:29] <Hume2> :D
 [2016/02/03 14:04:39] <Tobbi> Unless you look (or it makes this "ding" sound) the baby might or might not be alive.
+[2016/02/03 14:06:09] <Hume2> If the baby was smaller than the wavelength, it would stay alive.
+[2016/02/03 14:06:14] @ bb010g joined channel #supertux
+[2016/02/03 14:06:31] <Tobbi> :D
