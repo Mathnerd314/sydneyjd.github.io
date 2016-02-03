@@ -1402,3 +1402,5 @@
 [2016/02/02 19:16:42] <sydney_untangle> o_O
 [2016/02/02 21:08:18] @ bb010g joined channel #supertux
 [2016/02/02 21:18:02] @ tux|dude joined channel #supertux
+[2016/02/02 21:44:34] @ Quit: nerdopolis: Quit: No Ping reply in 180 seconds.
+[2016/02/02 21:44:49] @ nerdopolis joined channel #supertux
