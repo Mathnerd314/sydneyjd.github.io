@@ -1533,3 +1533,4 @@
 [2016/02/03 09:39:32] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/03 09:51:21] @ Mathnerd314 joined channel #supertux
 [2016/02/03 10:02:05] <sydney_untangle> Odd, the android studio hello-world program crashes on my phone. o_O
+[2016/02/03 10:09:30] <sydney_untangle> Ugg, i cannot do this...
