@@ -1655,3 +1655,5 @@
 [2016/02/03 12:49:02] <Hume2> I knew that this was created just because he wanted to complain.
 [2016/02/03 13:02:57] @ Tobbi joined channel #supertux
 [2016/02/03 13:02:57] @ Mode +v Tobbi by ChanServ
+[2016/02/03 13:05:06] @ Quit: sistemx: Quit: Page closed
+[2016/02/03 13:06:53] <Tobbi> Okay, guys.
