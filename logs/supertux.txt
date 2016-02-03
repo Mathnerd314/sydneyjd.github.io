@@ -1411,3 +1411,6 @@
 [2016/02/03 01:44:33] @ brmbrmcar joined channel #supertux
 [2016/02/03 02:25:17] @ datahead8888 joined channel #supertux
 [2016/02/03 02:56:52] @ Quit: tuxdev_: Ping timeout: 250 seconds
+[2016/02/03 03:25:38] @ Hume2 joined channel #supertux
+[2016/02/03 03:25:38] @ Mode +v Hume2 by ChanServ
+[2016/02/03 03:25:48] @ Quit: tux|dude: Quit: Leaving
