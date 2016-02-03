@@ -1558,3 +1558,7 @@
 [2016/02/03 11:08:06] <Tobbi> Also, sydney_untangle: What's wrong with Java?
 [2016/02/03 11:09:05] <mt> Java is just full of security problems
 [2016/02/03 11:09:55] <brmbrmcar> sydney_untangle: What's the difference?
+[2016/02/03 11:11:13] <sydney_untangle> Well, security holes, and the installer provided by oracle likes to install junkware IE bars on grandparents computers...
+[2016/02/03 11:12:11] <brmbrmcar> grandparents computers = bad security
+[2016/02/03 11:12:26] <brmbrmcar> Oracle knoes that well.
+[2016/02/03 11:14:35] <brmbrmcar> Do they give back data to gain that?
