@@ -1398,3 +1398,5 @@
 [2016/02/02 19:00:00] <Tobbi> storm is blowing, all around me, children playing, having fun.
 [2016/02/02 19:00:07] <Tobbi> It's the season of love and understanding.
 [2016/02/02 19:00:17] <Tobbi> Merry january everyone
+[2016/02/02 19:15:37] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/02 19:16:42] <sydney_untangle> o_O
