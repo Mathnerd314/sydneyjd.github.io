@@ -1716,3 +1716,20 @@
 [2016/02/03 14:39:41] <Karkus> ~excuse
 [2016/02/03 14:39:41] <red_bot> Karkus: It's not plugged in.
 [2016/02/03 14:39:48] <Tobbi> Flexlay is not plugged in?
+[2016/02/03 14:40:09] <Karkus> Tobbi: No, I'm trying to get a suitable excuse for not committing for a while...
+[2016/02/03 14:40:21] <Tobbi> Karkus: oh, don't worry. Neither have I...
+[2016/02/03 14:40:24] <Karkus> Tobbi: I've been more busy than usual lately...
+[2016/02/03 14:40:36] <Karkus> I will get round to it, soon as I can.
+[2016/02/03 14:40:39] <Karkus> ~excuse
+[2016/02/03 14:40:39] <red_bot> Karkus: routing problems on the neural net
+[2016/02/03 14:40:48] <Tobbi> Karkus: Again, don't worry about it... I have been busy with stuff as well... college...
+[2016/02/03 14:41:34] <Karkus> Tobbi, Hume2: Anyways, gtg afk now, bye :D
+[2016/02/03 14:41:42] <Tobbi> See you.
+[2016/02/03 14:41:49] <Hume2> Bye!
+[2016/02/03 14:42:46] <Hume2> Narre has a special subject for numeric technologies.
+[2016/02/03 14:43:31] <Hume2> He says that all students except him and one more, fail it properly.
+[2016/02/03 14:44:20] <Hume2> And the tests are only transfering numbers from hexadecimary to binary, to decimal etc.
+[2016/02/03 14:44:25] <Tobbi> The stuff we do in college is boooring...
+[2016/02/03 14:44:39] <Tobbi> And by boring I mean: I cannot just think fastly...
+[2016/02/03 14:44:50] <Tobbi> *fast
+[2016/02/03 14:44:57] <Hume2> That makes sense.
