@@ -1875,3 +1875,4 @@
 [2016/02/04 07:41:53] <Tobbi> It's a shame no one here knows anything about AppVeyor.
 [2016/02/04 07:53:56] @ Quit: Yaiyan: Ping timeout: 240 seconds
 [2016/02/04 07:54:13] @ Yaiyan joined channel #supertux
+[2016/02/04 08:24:20] @ ced117 joined channel #supertux
