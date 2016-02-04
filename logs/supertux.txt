@@ -1959,3 +1959,15 @@
 [2016/02/04 11:47:40] <Tobbi> and appveyor is still running.
 [2016/02/04 11:59:26] <pentagon> [10supertux] Status for commit Fix build (for sure now) by 07Tobias Markus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/358
 [2016/02/04 11:59:27] @ alket joined channel #supertux
+[2016/02/04 12:01:02] <pentagon> [10addons] 07tobbi pushed 1 commit to 09master 13https://git.io/vgs1D
+[2016/02/04 12:01:05] <pentagon> [10addons] 07tobbi 1469d374f Added Serano islands to index
+[2016/02/04 12:01:29] <Tobbi> Okay, I am out of ideas for that appveyor build.
+[2016/02/04 12:01:37] <Tobbi> But at least we're now at the latest upstream.
+[2016/02/04 12:03:29] <Tobbi> mt, sydney_untangle, Karkus: What do you guys think about having symbols for levelset / worldmap in the game instead of writing it in the add-ons manager?
+[2016/02/04 12:03:42] <Tobbi> That way, the list takes up way less space than before.
+[2016/02/04 12:03:59] <Tobbi> If we have an icon there...
+[2016/02/04 12:04:05] <Karkus> Tobbi: Symbols?
+[2016/02/04 12:04:12] <mt> if we have TTF
+[2016/02/04 12:04:20] <mt> we could easily add that as character
+[2016/02/04 12:04:29] <Tobbi> Karkus: For example: You have one symbol for levelset, I don't know, make something up, and one symbol for worldmap.
+[2016/02/04 12:04:45] <Tobbi> Yup, but adding an icon shouldn't be too difficult.
