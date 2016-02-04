@@ -1877,3 +1877,4 @@
 [2016/02/04 07:54:13] @ Yaiyan joined channel #supertux
 [2016/02/04 08:24:20] @ ced117 joined channel #supertux
 [2016/02/04 08:28:09] <mt> is it an AppVeyor, or a Windows problem?
+[2016/02/04 09:04:50] @ Quit: Tobbi: Remote host closed the connection
