@@ -2035,3 +2035,4 @@
 [2016/02/04 16:40:40] @ Quit: stewboy: Ping timeout: 252 seconds
 [2016/02/04 16:40:40] @ stewboy_ is now known as stewboy
 [2016/02/04 16:45:56] @ Quit: Wuzzy: Ping timeout: 240 seconds
+[2016/02/04 16:50:14] @ Wuzzy joined channel #supertux
