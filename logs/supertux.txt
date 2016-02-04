@@ -1939,3 +1939,4 @@
 [2016/02/04 11:14:25] <mt> Because in master, history shouldn't be rewritten
 [2016/02/04 11:14:41] <Tobbi> mt: So, I thought it fetches the source from external/tinygettext, but it doesn't...
 [2016/02/04 11:14:51] <Tobbi> It creates a different directory, and reuses the source.
+[2016/02/04 11:15:03] <Tobbi> And, yes, I am sorry about this.
