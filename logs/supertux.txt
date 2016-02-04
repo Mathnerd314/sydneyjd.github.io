@@ -1928,3 +1928,14 @@
 [2016/02/04 11:05:07] <Tobbi> Let's see if #358 works...
 [2016/02/04 11:07:49] <pentagon> [10supertux] Status for commit Fix build, hopefully by 07Tobias Markus: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/107020409
 [2016/02/04 11:08:32] <Tobbi> Yeah, that one's expected.
+[2016/02/04 11:12:06] <mt> ewww
+[2016/02/04 11:12:18] <mt> could you *please* test things in a *test* branch
+[2016/02/04 11:13:12] <Tobbi> mt: I have an upstream branch now, which is the test branch.
+[2016/02/04 11:13:32] <Tobbi> mt: And, yes, I did manage to restore things to normal and enable branch protection...
+[2016/02/04 11:13:41] <Tobbi> for that tinygettext master branch.
+[2016/02/04 11:13:58] <mt> I'm talking about the supertux master branch
+[2016/02/04 11:14:08] <mt> You shouldn't abuse it as a sandbox to play with
+[2016/02/04 11:14:19] <Tobbi> mt: I did test things locally, not knowing that it doesn't fetch the tinygettext source from a different directory.
+[2016/02/04 11:14:25] <mt> Because in master, history shouldn't be rewritten
+[2016/02/04 11:14:41] <Tobbi> mt: So, I thought it fetches the source from external/tinygettext, but it doesn't...
+[2016/02/04 11:14:51] <Tobbi> It creates a different directory, and reuses the source.
