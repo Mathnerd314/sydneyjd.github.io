@@ -1852,3 +1852,8 @@
 [2016/02/04 05:22:28] @ stewboy_ joined channel #supertux
 [2016/02/04 05:23:25] @ Quit: stewboy: Ping timeout: 245 seconds
 [2016/02/04 05:23:26] @ stewboy_ is now known as stewboy
+[2016/02/04 06:21:19] @ Tobbi joined channel #supertux
+[2016/02/04 06:21:20] @ Mode +v Tobbi by ChanServ
+[2016/02/04 06:22:34] @ stewboy_ joined channel #supertux
+[2016/02/04 06:23:35] @ Quit: stewboy: Ping timeout: 240 seconds
+[2016/02/04 06:23:36] @ stewboy_ is now known as stewboy
