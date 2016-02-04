@@ -1873,3 +1873,5 @@
 [2016/02/04 07:36:52] @ Tobbi joined channel #supertux
 [2016/02/04 07:36:52] @ Mode +v Tobbi by ChanServ
 [2016/02/04 07:41:53] <Tobbi> It's a shame no one here knows anything about AppVeyor.
+[2016/02/04 07:53:56] @ Quit: Yaiyan: Ping timeout: 240 seconds
+[2016/02/04 07:54:13] @ Yaiyan joined channel #supertux
