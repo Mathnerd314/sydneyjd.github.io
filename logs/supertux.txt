@@ -1951,3 +1951,7 @@
 [2016/02/04 11:36:05] @ datahead8888 is now known as datahead7777
 [2016/02/04 11:39:27] <Tobbi> sydney_untangle: See, it is fixed.
 [2016/02/04 11:39:28] <Tobbi> :P
+[2016/02/04 11:42:05] <sydney_untangle> Tobbi: I said you would fix it. :D
+[2016/02/04 11:42:15] <Tobbi> sydney_untangle: I did even before you said so :D
+[2016/02/04 11:43:31] <Tobbi> coverity is getting on my nerves as well.
+[2016/02/04 11:43:49] <sydney_untangle> Heh.
