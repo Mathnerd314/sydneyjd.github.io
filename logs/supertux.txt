@@ -1806,3 +1806,13 @@
 [2016/02/03 21:08:44] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/03 21:25:29] @ bb010g joined channel #supertux
 [2016/02/03 22:20:26] @ Quit: irungentoo: Remote host closed the connection
+[2016/02/03 22:29:44] @ quit (seeya)
+[2016/02/03 22:29:46] @ Log closed by * (rescan or shutdown)
+[2016/02/03 22:31:12] @ Log started by red_bot
+[2016/02/03 22:31:12] @ Joined channel #supertux
+[2016/02/03 22:31:12] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/02/03 22:31:12] @ Topic set by mt!mteufel@unaffiliated/supermat on 2016-01-09 12:34:37 -0500
+[2016/02/03 22:31:16] @ Mode +Cntj 5:10 by orwell.freenode.net
+[2016/02/03 22:31:25] @ Mode +v red_bot by ChanServ
+[2016/02/03 22:31:49] @ sydney_untangle joined channel #supertux
+[2016/02/03 22:31:57] @ Mode +v sydney_untangle by ChanServ
