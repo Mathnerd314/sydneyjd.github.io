@@ -1999,3 +1999,13 @@
 [2016/02/04 14:12:31] <Karkus> Hume2: test levels?
 [2016/02/04 14:13:06] <Hume2> So are we speking about addon manager or about  contrib level menu?
 [2016/02/04 14:14:32] <Karkus> Idk it was Tobbi's idea. I guess probably addon manager in which case you are correct
+[2016/02/04 14:15:16] <Hume2> Karkus: So currently we have only worldmap addons.
+[2016/02/04 14:15:37] <Karkus> Hume2: Then maybe this isn't needed?
+[2016/02/04 14:15:47] <Hume2> And I think we should also start considering the quality of the new addons.
+[2016/02/04 14:16:09] <Hume2> That way we won't have any levelsets among addons.
+[2016/02/04 14:16:35] <Karkus> Hume2: Do you think it would be possible to add the ability to specify a level directory, and the levels appear? e.g. supertux2 ~
+[2016/02/04 14:17:09] <Hume2> I'm not sure what are you talking about.
+[2016/02/04 14:17:24] <Hume2> Don't you mean supertux2/levels ?
+[2016/02/04 14:18:37] <Hume2> Karkus: also: The good levels from levelsets could be included in bonus islands.
+[2016/02/04 14:19:39] <Karkus> Hume2: It's an idea. You specify a directory, instead of a single level, and the .stl & .stwm files are displayed so you can play them
+[2016/02/04 14:19:57] <Karkus> Hume2: I think we have way too many levels in the bonus islands tbh
