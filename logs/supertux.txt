@@ -2009,3 +2009,7 @@
 [2016/02/04 14:18:37] <Hume2> Karkus: also: The good levels from levelsets could be included in bonus islands.
 [2016/02/04 14:19:39] <Karkus> Hume2: It's an idea. You specify a directory, instead of a single level, and the .stl & .stwm files are displayed so you can play them
 [2016/02/04 14:19:57] <Karkus> Hume2: I think we have way too many levels in the bonus islands tbh
+[2016/02/04 14:20:09] <Hume2> Karkus: got what you mean.
+[2016/02/04 14:21:11] <Hume2> Anything < 30 levels is just a little thingy :D
+[2016/02/04 14:21:20] <Hume2> Bye!
+[2016/02/04 14:21:23] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
