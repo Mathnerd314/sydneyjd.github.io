@@ -1821,3 +1821,5 @@
 [2016/02/03 23:19:08] @ Quit: Yaiyan: Ping timeout: 260 seconds
 [2016/02/03 23:19:45] @ Quit: nerdopolis_: Ping timeout: 260 seconds
 [2016/02/03 23:19:49] @ nerdopolis__ joined channel #supertux
+[2016/02/03 23:20:25] @ tuxdev_ joined channel #supertux
+[2016/02/03 23:20:59] @ Yaiyan joined channel #supertux
