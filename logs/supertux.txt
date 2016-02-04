@@ -1897,3 +1897,7 @@
 [2016/02/04 10:23:22] <sydney_untangle> Tobbi mt https://cloud.openmailbox.org/index.php/s/rnDHIBflqDYHSrF :D
 [2016/02/04 10:23:42] <sydney_untangle> I took the fsf.org version and made it fit a widescreen.
 [2016/02/04 10:26:58] <Tobbi> Let me see if that tinygettext error was resolved upstream.
+[2016/02/04 10:35:27] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vgsCH
+[2016/02/04 10:35:30] <pentagon> [10supertux] 07tobbi 14a3c4a38 Update to upstream tinygettext (test)
+[2016/02/04 10:35:57] @ Hume2 joined channel #supertux
+[2016/02/04 10:35:58] @ Mode +v Hume2 by ChanServ
