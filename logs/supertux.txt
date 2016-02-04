@@ -1955,3 +1955,5 @@
 [2016/02/04 11:42:15] <Tobbi> sydney_untangle: I did even before you said so :D
 [2016/02/04 11:43:31] <Tobbi> coverity is getting on my nerves as well.
 [2016/02/04 11:43:49] <sydney_untangle> Heh.
+[2016/02/04 11:47:35] <Tobbi> hrm...
+[2016/02/04 11:47:40] <Tobbi> and appveyor is still running.
