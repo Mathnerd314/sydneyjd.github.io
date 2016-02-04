@@ -1886,3 +1886,7 @@
 [2016/02/04 09:59:32] @ Mathnerd314 joined channel #supertux
 [2016/02/04 10:01:48] @ datahead8888 joined channel #supertux
 [2016/02/04 10:04:50] @ tuxdev_ joined channel #supertux
+[2016/02/04 10:08:24] <Tobbi> yikes.
+[2016/02/04 10:09:38] <Tobbi> Okay, what I did was not good.
+[2016/02/04 10:09:48] <Tobbi> Force-pushing tinygettext because I tried to integrate upstream changes.
+[2016/02/04 10:09:49] <Tobbi> gargh
