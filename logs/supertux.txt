@@ -1798,3 +1798,4 @@
 [2016/02/03 18:46:54] <Tobbi> *electronics
 [2016/02/03 18:48:10] <sydney_untangle> Tobbi: Heh.
 [2016/02/03 18:52:01] @ tux|dude joined channel #supertux
+[2016/02/03 19:37:18] @ irungentoo joined channel #supertux
