@@ -1903,3 +1903,7 @@
 [2016/02/04 10:35:58] @ Mode +v Hume2 by ChanServ
 [2016/02/04 10:43:30] @ Quit: Tobbi: Ping timeout: 250 seconds
 [2016/02/04 10:44:59] <pentagon> [10supertux] Status for commit Update to upstream tinygettext (test) by 07Tobias Markus: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/107015440
+[2016/02/04 10:46:45] @ Tobbi joined channel #supertux
+[2016/02/04 10:46:57] @ Mode +v Tobbi by ChanServ
+[2016/02/04 10:48:59] <Tobbi> It will *probably* fail...
+[2016/02/04 10:49:06] <Tobbi> but we'll see...
