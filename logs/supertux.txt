@@ -1849,3 +1849,6 @@
 [2016/02/04 04:23:36] @ stewboy_ is now known as stewboy
 [2016/02/04 04:28:56] <pentagon> [10supertux] Status for commit Pass LIB_SUFFIX to subprojects by 07Constantin Baranov: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/353
 [2016/02/04 04:49:54] <mt> maths22_: could you please fix AppVeyor, when you have time (or, could you at least tell us when that would be)?
+[2016/02/04 05:22:28] @ stewboy_ joined channel #supertux
+[2016/02/04 05:23:25] @ Quit: stewboy: Ping timeout: 245 seconds
+[2016/02/04 05:23:26] @ stewboy_ is now known as stewboy
