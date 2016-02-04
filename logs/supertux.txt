@@ -1940,3 +1940,7 @@
 [2016/02/04 11:14:41] <Tobbi> mt: So, I thought it fetches the source from external/tinygettext, but it doesn't...
 [2016/02/04 11:14:51] <Tobbi> It creates a different directory, and reuses the source.
 [2016/02/04 11:15:03] <Tobbi> And, yes, I am sorry about this.
+[2016/02/04 11:23:41] <pentagon> [10supertux] Status for commit Fix build, hopefully by 07Tobias Markus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/357
+[2016/02/04 11:24:16] <sydney_untangle> Tobbi broke it, Tobbi fix it. :-)
+[2016/02/04 11:24:32] <Tobbi> sydney_untangle: That's the old one.
+[2016/02/04 11:24:50] <sydney_untangle> :-)
