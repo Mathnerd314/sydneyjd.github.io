@@ -1944,3 +1944,5 @@
 [2016/02/04 11:24:16] <sydney_untangle> Tobbi broke it, Tobbi fix it. :-)
 [2016/02/04 11:24:32] <Tobbi> sydney_untangle: That's the old one.
 [2016/02/04 11:24:50] <sydney_untangle> :-)
+[2016/02/04 11:25:02] <pentagon> [10supertux] Status for commit Fix build (for sure now) by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/107022057
+[2016/02/04 11:29:43] <Tobbi> So, travis is fixed.
