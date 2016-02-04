@@ -2017,3 +2017,5 @@
 [2016/02/04 15:01:58] @ Quit: lumidify: Changing host
 [2016/02/04 15:01:58] @ lumidify joined channel #supertux
 [2016/02/04 15:29:36] @ swift110 joined channel #supertux
+[2016/02/04 15:30:39] @ Quit: swift110: Changing host
+[2016/02/04 15:30:39] @ swift110 joined channel #supertux
