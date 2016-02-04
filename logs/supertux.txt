@@ -1883,3 +1883,4 @@
 [2016/02/04 09:40:48] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vgsLQ
 [2016/02/04 09:40:52] <pentagon> [10supertux] 07tobbi 14472c0d8 Updated Tatar fonts
 [2016/02/04 09:41:05] <Tobbi> mt: It's a Windows problem as in: It can't find an include file.
+[2016/02/04 09:59:32] @ Mathnerd314 joined channel #supertux
