@@ -1823,3 +1823,5 @@
 [2016/02/03 23:19:49] @ nerdopolis__ joined channel #supertux
 [2016/02/03 23:20:25] @ tuxdev_ joined channel #supertux
 [2016/02/03 23:20:59] @ Yaiyan joined channel #supertux
+[2016/02/04 01:32:04] @ Quit: Mathnerd314: Ping timeout: 252 seconds
+[2016/02/04 01:33:04] @ Quit: swift110: Remote host closed the connection
