@@ -1817,3 +1817,7 @@
 [2016/02/03 22:31:49] @ sydney_untangle joined channel #supertux
 [2016/02/03 22:31:57] @ Mode +v sydney_untangle by ChanServ
 [2016/02/03 23:13:23] @ Quit: Xjs|moonshine: Ping timeout: 260 seconds
+[2016/02/03 23:18:32] @ Xjs|moonshine joined channel #supertux
+[2016/02/03 23:19:08] @ Quit: Yaiyan: Ping timeout: 260 seconds
+[2016/02/03 23:19:45] @ Quit: nerdopolis_: Ping timeout: 260 seconds
+[2016/02/03 23:19:49] @ nerdopolis__ joined channel #supertux
