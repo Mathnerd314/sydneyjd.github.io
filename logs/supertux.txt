@@ -1840,3 +1840,4 @@
 [2016/02/04 03:22:13] @ stewboy_ joined channel #supertux
 [2016/02/04 03:24:06] @ Quit: stewboy: Ping timeout: 250 seconds
 [2016/02/04 03:24:06] @ stewboy_ is now known as stewboy
+[2016/02/04 03:48:44] @ Quit: bb010g: Quit: Connection closed for inactivity
