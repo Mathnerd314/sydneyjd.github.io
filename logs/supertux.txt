@@ -2019,3 +2019,6 @@
 [2016/02/04 15:29:36] @ swift110 joined channel #supertux
 [2016/02/04 15:30:39] @ Quit: swift110: Changing host
 [2016/02/04 15:30:39] @ swift110 joined channel #supertux
+[2016/02/04 15:44:16] @ Quit: Karkus: Ping timeout: 250 seconds
+[2016/02/04 15:44:37] @ Karkus joined channel #supertux
+[2016/02/04 15:44:37] @ Mode +v Karkus by ChanServ
