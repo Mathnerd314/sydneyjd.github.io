@@ -2046,3 +2046,4 @@
 [2016/02/04 17:41:09] @ Quit: supertux|15022: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
 [2016/02/04 17:47:32] @ irungentoo joined channel #supertux
 [2016/02/04 17:49:56] @ Quit: swift110: Ping timeout: 250 seconds
+[2016/02/04 18:19:59] @ Quit: Tobbi: Remote host closed the connection
