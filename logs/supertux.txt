@@ -1957,3 +1957,5 @@
 [2016/02/04 11:43:49] <sydney_untangle> Heh.
 [2016/02/04 11:47:35] <Tobbi> hrm...
 [2016/02/04 11:47:40] <Tobbi> and appveyor is still running.
+[2016/02/04 11:59:26] <pentagon> [10supertux] Status for commit Fix build (for sure now) by 07Tobias Markus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/358
+[2016/02/04 11:59:27] @ alket joined channel #supertux
