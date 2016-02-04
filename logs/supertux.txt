@@ -1835,3 +1835,5 @@
 [2016/02/04 02:43:36] @ stewboy joined channel #supertux
 [2016/02/04 02:46:08] @ Quit: tuxdev_: Ping timeout: 252 seconds
 [2016/02/04 02:48:47] @ Quit: lumidify: Ping timeout: 264 seconds
+[2016/02/04 03:05:54] @ Hume2 joined channel #supertux
+[2016/02/04 03:05:54] @ Mode +v Hume2 by ChanServ
