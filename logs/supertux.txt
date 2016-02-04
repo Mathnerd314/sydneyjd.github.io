@@ -1991,3 +1991,11 @@
 [2016/02/04 13:45:28] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/04 13:52:39] @ claymore2 joined channel #supertux
 [2016/02/04 14:09:34] <Hume2> Karkus: Any idea how those icons could look like?
+[2016/02/04 14:10:14] <Karkus> Hume2: I guess worldmap could be a small island, and levelset a list?
+[2016/02/04 14:10:22] <Karkus> icon of a list
+[2016/02/04 14:10:33] <Hume2> Icon of a list, hmmm...
+[2016/02/04 14:11:18] <Hume2> A moment...
+[2016/02/04 14:12:19] <Hume2> Karkus: Currently we have only worlds.
+[2016/02/04 14:12:31] <Karkus> Hume2: test levels?
+[2016/02/04 14:13:06] <Hume2> So are we speking about addon manager or about  contrib level menu?
+[2016/02/04 14:14:32] <Karkus> Idk it was Tobbi's idea. I guess probably addon manager in which case you are correct
