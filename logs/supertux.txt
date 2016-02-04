@@ -2022,3 +2022,7 @@
 [2016/02/04 15:44:16] @ Quit: Karkus: Ping timeout: 250 seconds
 [2016/02/04 15:44:37] @ Karkus joined channel #supertux
 [2016/02/04 15:44:37] @ Mode +v Karkus by ChanServ
+[2016/02/04 15:47:07] @ Quit: alket: Quit: Good night!
+[2016/02/04 15:47:49] @ Quit: pentagon: *.net *.split
+[2016/02/04 15:48:53] @ alket joined channel #supertux
+[2016/02/04 15:49:38] @ pentagon joined channel #supertux
