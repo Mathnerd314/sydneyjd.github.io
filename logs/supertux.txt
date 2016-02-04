@@ -1805,3 +1805,4 @@
 [2016/02/03 20:32:49] @ swift110 joined channel #supertux
 [2016/02/03 21:08:44] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/03 21:25:29] @ bb010g joined channel #supertux
+[2016/02/03 22:20:26] @ Quit: irungentoo: Remote host closed the connection
