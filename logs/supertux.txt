@@ -1842,3 +1842,4 @@
 [2016/02/04 03:24:06] @ stewboy_ is now known as stewboy
 [2016/02/04 03:48:44] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2016/02/04 03:56:37] <pentagon> [10supertux] 07const86 opened pull request 09#359: Pass LIB_SUFFIX to subprojects 13https://git.io/vg3I2
+[2016/02/04 04:00:21] @ Quit: tux|dude: Quit: Leaving
