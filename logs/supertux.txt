@@ -1990,3 +1990,4 @@
 [2016/02/04 13:31:05] <pentagon> [10addons] 07tobbi 14647d6bf Update worldmap name to Serano's islands
 [2016/02/04 13:45:28] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/04 13:52:39] @ claymore2 joined channel #supertux
+[2016/02/04 14:09:34] <Hume2> Karkus: Any idea how those icons could look like?
