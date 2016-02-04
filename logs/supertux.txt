@@ -2029,3 +2029,4 @@
 [2016/02/04 15:51:24] @ Tobbi joined channel #supertux
 [2016/02/04 15:51:24] @ Mode +v Tobbi by ChanServ
 [2016/02/04 15:51:47] @ Quit: Karkus: Ping timeout: 264 seconds
+[2016/02/04 16:01:25] @ stewboy joined channel #supertux
