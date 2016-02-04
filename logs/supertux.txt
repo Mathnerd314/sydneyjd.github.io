@@ -2048,3 +2048,5 @@
 [2016/02/04 17:49:56] @ Quit: swift110: Ping timeout: 250 seconds
 [2016/02/04 18:19:59] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/04 18:39:12] @ stewboy_ joined channel #supertux
+[2016/02/04 18:40:26] @ Quit: stewboy: Ping timeout: 240 seconds
+[2016/02/04 18:40:26] @ stewboy_ is now known as stewboy
