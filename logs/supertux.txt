@@ -1863,3 +1863,6 @@
 [2016/02/04 06:31:00] <pentagon> [10addons] 07Hume2 closed issue 09#8: Hume's rainbow cave: Overworld is covered by forest when playing again 13https://git.io/vuPL8
 [2016/02/04 06:43:13] <pentagon> [10supertux] Status for commit The worldmap in that Tux ended is now stored in the savegame. by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/106965330
 [2016/02/04 06:45:47] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/04 06:50:57] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- \o/
+[2016/02/04 06:51:26] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vg36K
+[2016/02/04 06:51:29] <pentagon> [10supertux] 07tobbi 14534e4d3 Shorter solution to previous code change
