@@ -1880,3 +1880,6 @@
 [2016/02/04 09:04:50] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/04 09:35:24] @ Tobbi joined channel #supertux
 [2016/02/04 09:35:24] @ Mode +v Tobbi by ChanServ
+[2016/02/04 09:40:48] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vgsLQ
+[2016/02/04 09:40:52] <pentagon> [10supertux] 07tobbi 14472c0d8 Updated Tatar fonts
+[2016/02/04 09:41:05] <Tobbi> mt: It's a Windows problem as in: It can't find an include file.
