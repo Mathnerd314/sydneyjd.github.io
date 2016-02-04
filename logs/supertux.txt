@@ -2013,3 +2013,6 @@
 [2016/02/04 14:21:11] <Hume2> Anything < 30 levels is just a little thingy :D
 [2016/02/04 14:21:20] <Hume2> Bye!
 [2016/02/04 14:21:23] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/04 15:01:57] @ lumidify joined channel #supertux
+[2016/02/04 15:01:58] @ Quit: lumidify: Changing host
+[2016/02/04 15:01:58] @ lumidify joined channel #supertux
