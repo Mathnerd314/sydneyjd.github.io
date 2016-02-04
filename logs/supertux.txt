@@ -1973,3 +1973,4 @@
 [2016/02/04 12:04:45] <Tobbi> Yup, but adding an icon shouldn't be too difficult.
 [2016/02/04 12:05:02] <Karkus> Tobbi: That way you know which is which? Sounds good
 [2016/02/04 12:06:28] <Tobbi> Karkus: Exactly.
+[2016/02/04 12:18:00] @ Quit: Tobbi: Ping timeout: 245 seconds
