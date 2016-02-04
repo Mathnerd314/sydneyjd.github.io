@@ -1917,3 +1917,11 @@
 [2016/02/04 10:58:07] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vgsR9
 [2016/02/04 10:58:10] <pentagon> [10supertux] 07tobbi 141d38aa5 Fix build, hopefully
 [2016/02/04 10:58:13] <Tobbi> Okay, fixed it, probably.
+[2016/02/04 11:01:35] <Tobbi> Damn.
+[2016/02/04 11:01:38] <Tobbi> Okay, now I know why.
+[2016/02/04 11:02:41] <sydney_untangle> Tobbi: Google keeps shooting themself...
+[2016/02/04 11:02:48] <Tobbi> I see...
+[2016/02/04 11:02:53] <Tobbi> Sorry, I am busy fixing stuff.
+[2016/02/04 11:03:05] <sydney_untangle> Won't even support their own OS...
+[2016/02/04 11:04:38] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vgsEV
+[2016/02/04 11:04:41] <pentagon> [10supertux] 07tobbi 14cacd32b Fix build (for sure now)
