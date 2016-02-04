@@ -2039,3 +2039,5 @@
 [2016/02/04 17:14:02] @ Quit: alket: Quit: Good night!
 [2016/02/04 17:24:22] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2016/02/04 17:34:58] @ supertux|15022 joined channel #supertux
+[2016/02/04 17:37:20] @ Quit: claymore2: Quit: Leaving
+[2016/02/04 17:39:05] @ stewboy_ joined channel #supertux
