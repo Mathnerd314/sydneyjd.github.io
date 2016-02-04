@@ -1869,3 +1869,6 @@
 [2016/02/04 06:58:21] <pentagon> [10supertux] Status for commit The worldmap in that Tux ended is now stored in the savegame. by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/354
 [2016/02/04 07:03:49] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/04 07:07:54] <pentagon> [10supertux] Status for commit Shorter solution to previous code change by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/106969304
+[2016/02/04 07:36:24] <pentagon> [10supertux] Status for commit Shorter solution to previous code change by 07Tobias Markus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/355
+[2016/02/04 07:36:52] @ Tobbi joined channel #supertux
+[2016/02/04 07:36:52] @ Mode +v Tobbi by ChanServ
