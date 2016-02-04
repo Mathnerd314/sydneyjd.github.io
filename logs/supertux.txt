@@ -1816,3 +1816,4 @@
 [2016/02/03 22:31:25] @ Mode +v red_bot by ChanServ
 [2016/02/03 22:31:49] @ sydney_untangle joined channel #supertux
 [2016/02/03 22:31:57] @ Mode +v sydney_untangle by ChanServ
+[2016/02/03 23:13:23] @ Quit: Xjs|moonshine: Ping timeout: 260 seconds
