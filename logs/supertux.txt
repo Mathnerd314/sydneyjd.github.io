@@ -1896,3 +1896,4 @@
 [2016/02/04 10:14:30] @ nerdopolis_ joined channel #supertux
 [2016/02/04 10:23:22] <sydney_untangle> Tobbi mt https://cloud.openmailbox.org/index.php/s/rnDHIBflqDYHSrF :D
 [2016/02/04 10:23:42] <sydney_untangle> I took the fsf.org version and made it fit a widescreen.
+[2016/02/04 10:26:58] <Tobbi> Let me see if that tinygettext error was resolved upstream.
