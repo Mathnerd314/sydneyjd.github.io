@@ -2270,3 +2270,4 @@
 [2016/02/05 14:21:22] <Hume2> ~excuse
 [2016/02/05 14:21:22] <red_bot> Hume2: Not enough interrupts
 [2016/02/05 14:24:37] @ Quit: lumidify: Quit: Leaving
+[2016/02/05 14:26:11] @ claymore2 joined channel #supertux
