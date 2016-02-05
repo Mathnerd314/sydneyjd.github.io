@@ -2280,3 +2280,8 @@
 [2016/02/05 15:38:57] @ alket_ joined channel #supertux
 [2016/02/05 15:39:56] @ Quit: alket: Disconnected by services
 [2016/02/05 15:39:58] @ alket_ is now known as alket
+[2016/02/05 15:46:11] <sydney_untangle> ~excuse
+[2016/02/05 15:46:11] <red_bot> sydney_untangle: tachyon emissions overloading the system
+[2016/02/05 15:46:15] <sydney_untangle> ~excuse
+[2016/02/05 15:46:15] <red_bot> sydney_untangle: Someone thought The Big Red Button was a light switch.
+[2016/02/05 15:46:31] <sydney_untangle> o_O
