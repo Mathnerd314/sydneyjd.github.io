@@ -2157,3 +2157,5 @@
 [2016/02/05 07:19:12] @ Quit: maths22: Ping timeout: 252 seconds
 [2016/02/05 07:20:44] @ Quit: stewboy: Read error: Connection reset by peer
 [2016/02/05 07:39:57] @ grumbel joined channel #supertux
+[2016/02/05 07:41:45] @ Tobbi joined channel #supertux
+[2016/02/05 07:41:45] @ Mode +v Tobbi by ChanServ
