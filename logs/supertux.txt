@@ -2097,3 +2097,8 @@
 [2016/02/05 02:27:28] @ lumidify joined channel #supertux
 [2016/02/05 02:37:12] @ Quit: tuxdev_: Ping timeout: 256 seconds
 [2016/02/05 02:39:04] @ Quit: lumidify: Quit: Leaving
+[2016/02/05 02:45:21] @ Quit: maths22_: Ping timeout: 245 seconds
+[2016/02/05 02:46:25] @ maths22 joined channel #supertux
+[2016/02/05 02:46:25] @ Quit: maths22: Changing host
+[2016/02/05 02:46:25] @ maths22 joined channel #supertux
+[2016/02/05 02:46:25] @ Mode +v maths22 by ChanServ
