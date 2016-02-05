@@ -2195,3 +2195,5 @@
 [2016/02/05 09:55:02] @ Quit: nerdopolis_: Ping timeout: 252 seconds
 [2016/02/05 09:57:24] @ tuxdev_ joined channel #supertux
 [2016/02/05 10:02:33] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/05 10:12:30] <sydney_untangle> mt: Wow, im suprised, but my mom is quiting her social media sites and stopping video blogging because of these sites TOS... I never thought she would do this, but im actually glad she came to the realization of what they actualy do with her data.
+[2016/02/05 10:12:57] <sydney_untangle> It's just suprising how serious she is taking it...
