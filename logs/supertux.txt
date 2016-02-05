@@ -2276,3 +2276,7 @@
 [2016/02/05 14:48:56] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
 [2016/02/05 14:57:44] @ lumidify joined channel #supertux
 [2016/02/05 15:26:58] @ swift110_ joined channel #supertux
+[2016/02/05 15:38:28] @ Quit: lumidify: Ping timeout: 248 seconds
+[2016/02/05 15:38:57] @ alket_ joined channel #supertux
+[2016/02/05 15:39:56] @ Quit: alket: Disconnected by services
+[2016/02/05 15:39:58] @ alket_ is now known as alket
