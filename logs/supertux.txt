@@ -2062,3 +2062,5 @@
 [2016/02/04 20:03:19] <Tobbi> That is, until they found Hume's levels.
 [2016/02/04 20:13:01] @ tux|dude joined channel #supertux
 [2016/02/04 20:39:23] @ stewboy_ joined channel #supertux
+[2016/02/04 20:40:38] @ Quit: stewboy: Ping timeout: 250 seconds
+[2016/02/04 20:40:38] @ stewboy_ is now known as stewboy
