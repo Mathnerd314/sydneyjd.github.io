@@ -2164,3 +2164,4 @@
 [2016/02/05 08:07:23] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/05 08:24:51] @ maths22 joined channel #supertux
 [2016/02/05 08:24:51] @ Mode +v maths22 by ChanServ
+[2016/02/05 08:30:26] @ Quit: maths22: Ping timeout: 240 seconds
