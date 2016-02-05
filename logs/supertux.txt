@@ -2138,3 +2138,9 @@
 [2016/02/05 06:31:16] @ Quit: maths22: Ping timeout: 248 seconds
 [2016/02/05 06:42:45] @ maths22 joined channel #supertux
 [2016/02/05 06:42:45] @ Mode +v maths22 by ChanServ
+[2016/02/05 06:45:52] <Tobbi> Hume2: I should inform you that there are German let's players who play your levels and they are not amused.
+[2016/02/05 06:45:53] <Tobbi> :P
+[2016/02/05 06:46:18] <Hume2> damn it
+[2016/02/05 06:46:36] <Tobbi> :D
+[2016/02/05 06:46:44] <Tobbi> anyway, bbl,
+[2016/02/05 06:46:47] <Tobbi> food etc.
