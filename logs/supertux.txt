@@ -2232,3 +2232,8 @@
 [2016/02/05 12:17:02] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/05 12:19:37] @ maths22 joined channel #supertux
 [2016/02/05 12:19:37] @ Mode +v maths22 by ChanServ
+[2016/02/05 12:21:40] @ Wuzzy joined channel #supertux
+[2016/02/05 12:23:56] @ Quit: maths22: Ping timeout: 240 seconds
+[2016/02/05 12:24:24] * Hume2 has jojined
+[2016/02/05 12:24:31] * Hume2 has qujit
+[2016/02/05 12:24:33] <Hume2> :D
