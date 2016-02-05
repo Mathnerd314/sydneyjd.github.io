@@ -2237,3 +2237,6 @@
 [2016/02/05 12:24:24] * Hume2 has jojined
 [2016/02/05 12:24:31] * Hume2 has qujit
 [2016/02/05 12:24:33] <Hume2> :D
+[2016/02/05 12:25:31] @ maths22 joined channel #supertux
+[2016/02/05 12:25:31] @ Mode +v maths22 by ChanServ
+[2016/02/05 12:29:46] @ Quit: maths22: Ping timeout: 240 seconds
