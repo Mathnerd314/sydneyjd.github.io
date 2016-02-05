@@ -2299,3 +2299,5 @@
 [2016/02/05 17:23:18] @ nerdopolis_ joined channel #supertux
 [2016/02/05 17:30:10] @ Quit: swift110_: Ping timeout: 240 seconds
 [2016/02/05 17:32:25] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/02/05 17:42:01] @ Quit: nerdopolis_: Ping timeout: 245 seconds
+[2016/02/05 17:42:31] @ nerdopolis joined channel #supertux
