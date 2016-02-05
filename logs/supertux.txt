@@ -2288,3 +2288,5 @@
 [2016/02/05 15:57:19] @ Tobbi joined channel #supertux
 [2016/02/05 15:57:20] @ Mode +v Tobbi by ChanServ
 [2016/02/05 15:58:27] <Tobbi> *sigh*
+[2016/02/05 16:13:08] @ Karkus joined channel #supertux
+[2016/02/05 16:13:08] @ Mode +v Karkus by ChanServ
