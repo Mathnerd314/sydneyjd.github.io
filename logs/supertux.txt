@@ -2175,3 +2175,13 @@
 [2016/02/05 09:21:12] @ Mode +v maths22 by ChanServ
 [2016/02/05 09:23:09] <Tobbi> Hello maths22 (?)
 [2016/02/05 09:24:25] <mt> it's an unstable connection
+[2016/02/05 09:25:14] <Tobbi> hrm.
+[2016/02/05 09:25:31] <mt> I actually have this useful feature in my script
+[2016/02/05 09:25:52] <mt> if I ban-forward someone to ##fix-your-connection
+[2016/02/05 09:26:09] <mt> it will/should automatically unban that after some (12?) hours
+[2016/02/05 09:26:56] <mt> s/##fix-your-connection/##fix_your_connection/
+[2016/02/05 09:26:56] <red_bot> mt: You did something wrong... Try s/you/me/ or tell me "help sed"
+[2016/02/05 09:27:02] @ Quit: maths22: Ping timeout: 276 seconds
+[2016/02/05 09:29:16] <Tobbi> Didn't know that existed.
+[2016/02/05 09:29:35] <Tobbi> mt: How do you ban-forward guys anyway?
+[2016/02/05 09:29:48] <mt> magic
