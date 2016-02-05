@@ -2131,3 +2131,5 @@
 [2016/02/05 06:08:52] @ Tobbi joined channel #supertux
 [2016/02/05 06:08:52] @ Mode +v Tobbi by ChanServ
 [2016/02/05 06:12:12] @ Quit: ced117: Ping timeout: 264 seconds
+[2016/02/05 06:21:02] @ Quit: maths22: Ping timeout: 256 seconds
+[2016/02/05 06:25:01] @ ced117 joined channel #supertux
