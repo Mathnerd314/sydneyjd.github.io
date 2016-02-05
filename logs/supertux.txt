@@ -2285,3 +2285,6 @@
 [2016/02/05 15:46:15] <sydney_untangle> ~excuse
 [2016/02/05 15:46:15] <red_bot> sydney_untangle: Someone thought The Big Red Button was a light switch.
 [2016/02/05 15:46:31] <sydney_untangle> o_O
+[2016/02/05 15:57:19] @ Tobbi joined channel #supertux
+[2016/02/05 15:57:20] @ Mode +v Tobbi by ChanServ
+[2016/02/05 15:58:27] <Tobbi> *sigh*
