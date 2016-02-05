@@ -2275,3 +2275,4 @@
 [2016/02/05 14:48:44] <red_bot> Hume2: Server depressed, needs Prozac
 [2016/02/05 14:48:56] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
 [2016/02/05 14:57:44] @ lumidify joined channel #supertux
+[2016/02/05 15:26:58] @ swift110_ joined channel #supertux
