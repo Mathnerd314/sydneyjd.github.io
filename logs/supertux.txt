@@ -2267,3 +2267,6 @@
 [2016/02/05 13:21:56] @ Quit: tuxdev_: Ping timeout: 248 seconds
 [2016/02/05 13:23:15] @ Quit: lumidify: Ping timeout: 240 seconds
 [2016/02/05 13:27:17] @ lumidify joined channel #supertux
+[2016/02/05 14:21:22] <Hume2> ~excuse
+[2016/02/05 14:21:22] <red_bot> Hume2: Not enough interrupts
+[2016/02/05 14:24:37] @ Quit: lumidify: Quit: Leaving
