@@ -2192,3 +2192,5 @@
 [2016/02/05 09:31:29] <Tobbi> I will note that.
 [2016/02/05 09:31:38] <mt> per-ban forwards have a higher priority than +f
 [2016/02/05 09:32:37] <mt> obligatory-alias-usage: please have a look at https://freenode.net/using_the_network.shtml to see what modes do on freenode
+[2016/02/05 09:55:02] @ Quit: nerdopolis_: Ping timeout: 252 seconds
+[2016/02/05 09:57:24] @ tuxdev_ joined channel #supertux
