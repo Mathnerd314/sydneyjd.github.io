@@ -2197,3 +2197,9 @@
 [2016/02/05 10:02:33] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/05 10:12:30] <sydney_untangle> mt: Wow, im suprised, but my mom is quiting her social media sites and stopping video blogging because of these sites TOS... I never thought she would do this, but im actually glad she came to the realization of what they actualy do with her data.
 [2016/02/05 10:12:57] <sydney_untangle> It's just suprising how serious she is taking it...
+[2016/02/05 10:17:43] <mt> sydney_untangle: why are you highlighting me?
+[2016/02/05 10:18:06] <sydney_untangle> mt: good question... must have not looked when i typed. Oops.
+[2016/02/05 10:18:27] <sydney_untangle> mt: Please excuse my mistake.
+[2016/02/05 10:19:00] @ maths22 joined channel #supertux
+[2016/02/05 10:19:00] @ Mode +v maths22 by ChanServ
+[2016/02/05 10:19:10] <mt> I don't care that much about highlights, just wondered :P
