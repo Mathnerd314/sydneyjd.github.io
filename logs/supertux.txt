@@ -2296,3 +2296,4 @@
 [2016/02/05 17:06:33] @ Quit: stewboy: Ping timeout: 240 seconds
 [2016/02/05 17:06:34] @ stewboy_ is now known as stewboy
 [2016/02/05 17:12:09] @ Quit: alket: Ping timeout: 240 seconds
+[2016/02/05 17:23:18] @ nerdopolis_ joined channel #supertux
