@@ -2194,3 +2194,4 @@
 [2016/02/05 09:32:37] <mt> obligatory-alias-usage: please have a look at https://freenode.net/using_the_network.shtml to see what modes do on freenode
 [2016/02/05 09:55:02] @ Quit: nerdopolis_: Ping timeout: 252 seconds
 [2016/02/05 09:57:24] @ tuxdev_ joined channel #supertux
+[2016/02/05 10:02:33] @ Quit: Tobbi: Remote host closed the connection
