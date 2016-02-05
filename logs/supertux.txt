@@ -2261,3 +2261,6 @@
 [2016/02/05 13:13:06] * Hume2 ragequit
 [2016/02/05 13:13:11] * Hume2 ragejoin
 [2016/02/05 13:13:42] <Hume2> Yeah, it's no longer funny.
+[2016/02/05 13:19:06] @ Quit: maths22: Ping timeout: 240 seconds
+[2016/02/05 13:19:37] @ maths22 joined channel #supertux
+[2016/02/05 13:19:37] @ Mode +v maths22 by ChanServ
