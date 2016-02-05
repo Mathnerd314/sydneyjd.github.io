@@ -2185,3 +2185,10 @@
 [2016/02/05 09:29:16] <Tobbi> Didn't know that existed.
 [2016/02/05 09:29:35] <Tobbi> mt: How do you ban-forward guys anyway?
 [2016/02/05 09:29:48] <mt> magic
+[2016/02/05 09:30:08] <Tobbi> mt: You're not capable of using humor, so stop trying.
+[2016/02/05 09:30:51] <mt> /mode #channel1 +b $a:Tobbi$#channel2
+[2016/02/05 09:31:15] <mt> or globally, matching all bans, invites, etc...: /mode #channel1 +f #channel2
+[2016/02/05 09:31:26] <Tobbi> Ah, nice
+[2016/02/05 09:31:29] <Tobbi> I will note that.
+[2016/02/05 09:31:38] <mt> per-ban forwards have a higher priority than +f
+[2016/02/05 09:32:37] <mt> obligatory-alias-usage: please have a look at https://freenode.net/using_the_network.shtml to see what modes do on freenode
