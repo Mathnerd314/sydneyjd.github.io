@@ -2229,3 +2229,6 @@
 [2016/02/05 11:39:32] @ lumidify joined channel #supertux
 [2016/02/05 12:00:47] @ Quit: lumidify: Ping timeout: 264 seconds
 [2016/02/05 12:04:59] @ Quit: alket: Quit: Good night!
+[2016/02/05 12:17:02] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/05 12:19:37] @ maths22 joined channel #supertux
+[2016/02/05 12:19:37] @ Mode +v maths22 by ChanServ
