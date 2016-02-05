@@ -2254,3 +2254,10 @@
 [2016/02/05 12:51:24] <Tobbi> Hume2: You fail at producing seemingly random join / quit messages.
 [2016/02/05 12:52:09] <Tobbi> jsyk
 [2016/02/05 12:57:29] @ lumidify joined channel #supertux
+[2016/02/05 13:11:08] <Hume2> :D
+[2016/02/05 13:11:41] <Hume2> Those are not join/quit messages, but jojin/qujit messages :D
+[2016/02/05 13:12:34] <Hume2> I've just finished all the levels from TeraTux Reborn 2nd edition.
+[2016/02/05 13:12:42] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/05 13:13:06] * Hume2 ragequit
+[2016/02/05 13:13:11] * Hume2 ragejoin
+[2016/02/05 13:13:42] <Hume2> Yeah, it's no longer funny.
