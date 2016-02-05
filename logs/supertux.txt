@@ -2165,3 +2165,5 @@
 [2016/02/05 08:24:51] @ maths22 joined channel #supertux
 [2016/02/05 08:24:51] @ Mode +v maths22 by ChanServ
 [2016/02/05 08:30:26] @ Quit: maths22: Ping timeout: 240 seconds
+[2016/02/05 08:38:27] <sydney_untangle> Hehe, i will be SSH'ing in from outside my home tonight and tommorow. I never get to do that. :)
+[2016/02/05 08:39:24] <sydney_untangle> I'm excited for tonight and tommorow. Our church is having a big event.
