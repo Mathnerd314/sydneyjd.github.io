@@ -2271,3 +2271,6 @@
 [2016/02/05 14:21:22] <red_bot> Hume2: Not enough interrupts
 [2016/02/05 14:24:37] @ Quit: lumidify: Quit: Leaving
 [2016/02/05 14:26:11] @ claymore2 joined channel #supertux
+[2016/02/05 14:48:44] <Hume2> ~excuse
+[2016/02/05 14:48:44] <red_bot> Hume2: Server depressed, needs Prozac
+[2016/02/05 14:48:56] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
