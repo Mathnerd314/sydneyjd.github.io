@@ -2135,3 +2135,4 @@
 [2016/02/05 06:25:01] @ ced117 joined channel #supertux
 [2016/02/05 06:27:03] @ maths22 joined channel #supertux
 [2016/02/05 06:27:03] @ Mode +v maths22 by ChanServ
+[2016/02/05 06:31:16] @ Quit: maths22: Ping timeout: 248 seconds
