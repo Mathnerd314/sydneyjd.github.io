@@ -2056,3 +2056,7 @@
 [2016/02/04 19:39:21] @ stewboy_ joined channel #supertux
 [2016/02/04 19:40:21] @ Quit: stewboy: Ping timeout: 245 seconds
 [2016/02/04 19:40:22] @ stewboy_ is now known as stewboy
+[2016/02/04 20:02:57] <Tobbi> There are German guys doing Let's plays of SuperTux 0.3.4?
+[2016/02/04 20:03:11] <Tobbi> And they were always going "CT!!!?"
+[2016/02/04 20:03:12] <Tobbi> :D
+[2016/02/04 20:03:19] <Tobbi> That is, until they found Hume's levels.
