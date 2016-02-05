@@ -2146,3 +2146,7 @@
 [2016/02/05 06:46:47] <Tobbi> food etc.
 [2016/02/05 06:52:59] @ Quit: maths22: Ping timeout: 276 seconds
 [2016/02/05 06:57:04] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/05 07:06:04] @ maths22 joined channel #supertux
+[2016/02/05 07:06:04] @ Quit: maths22: Changing host
+[2016/02/05 07:06:04] @ maths22 joined channel #supertux
+[2016/02/05 07:06:04] @ Mode +v maths22 by ChanServ
