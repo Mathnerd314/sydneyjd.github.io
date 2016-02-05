@@ -2205,3 +2205,4 @@
 [2016/02/05 10:19:10] <mt> I don't care that much about highlights, just wondered :P
 [2016/02/05 10:22:11] <mt> also, I finally got around writing a nice irc^Wnotreallyirc library: https://github.com/maxteufel/node-notreallyirc (in node.js)
 [2016/02/05 10:23:16] @ Quit: maths22: Ping timeout: 245 seconds
+[2016/02/05 10:27:19] @ Mathnerd314 joined channel #supertux
