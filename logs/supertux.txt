@@ -2118,3 +2118,5 @@
 [2016/02/05 04:31:16] @ Quit: maths22: Ping timeout: 250 seconds
 [2016/02/05 04:44:27] @ maths22 joined channel #supertux
 [2016/02/05 04:44:27] @ Mode +v maths22 by ChanServ
+[2016/02/05 04:50:46] @ Quit: maths22: Ping timeout: 240 seconds
+[2016/02/05 04:52:54] @ Quit: tux|dude: Read error: Connection reset by peer
