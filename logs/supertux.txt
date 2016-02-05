@@ -2153,3 +2153,5 @@
 [2016/02/05 07:12:09] @ Quit: maths22: Ping timeout: 240 seconds
 [2016/02/05 07:13:22] @ maths22 joined channel #supertux
 [2016/02/05 07:13:22] @ Mode +v maths22 by ChanServ
+[2016/02/05 07:17:16] <mt> maths22: fix your connection?
+[2016/02/05 07:19:12] @ Quit: maths22: Ping timeout: 252 seconds
