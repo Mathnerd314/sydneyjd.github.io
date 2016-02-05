@@ -2072,3 +2072,7 @@
 [2016/02/04 21:15:06] @ Quit: tux|dude: Quit: Leaving
 [2016/02/04 21:18:15] @ bb010g joined channel #supertux
 [2016/02/04 21:49:13] @ jeexy joined channel #supertux
+[2016/02/04 21:50:05] @ Quit: jeezy: Disconnected by services
+[2016/02/04 21:50:35] @ jeexy is now known as jeezy
+[2016/02/04 21:50:35] @ Quit: jeezy: Changing host
+[2016/02/04 21:50:36] @ jeezy joined channel #supertux
