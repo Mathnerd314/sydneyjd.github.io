@@ -2216,3 +2216,4 @@
 [2016/02/05 10:50:32] @ Quit: maths22: Changing host
 [2016/02/05 10:50:32] @ maths22 joined channel #supertux
 [2016/02/05 10:50:32] @ Mode +v maths22 by ChanServ
+[2016/02/05 10:56:02] @ Quit: maths22: Ping timeout: 250 seconds
