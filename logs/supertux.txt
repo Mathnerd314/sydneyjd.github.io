@@ -2079,3 +2079,4 @@
 [2016/02/04 21:59:01] @ tuxdev_ joined channel #supertux
 [2016/02/04 22:15:57] @ tux|dude joined channel #supertux
 [2016/02/04 22:33:47] <pentagon> [10supertux] 07MiroslavR opened issue 09#360: Use separate text domains for translation of worlds 13https://git.io/vgZHL
+[2016/02/04 23:49:31] @ Quit: irungentoo: Remote host closed the connection
