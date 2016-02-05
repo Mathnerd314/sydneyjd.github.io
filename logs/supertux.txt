@@ -2069,3 +2069,5 @@
 [2016/02/04 20:49:08] <Tobbi> That guy?
 [2016/02/04 21:00:13] <sydney_untangle> Tobbi: Ah. :)
 [2016/02/04 21:11:46] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/04 21:15:06] @ Quit: tux|dude: Quit: Leaving
+[2016/02/04 21:18:15] @ bb010g joined channel #supertux
