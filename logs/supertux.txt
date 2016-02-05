@@ -2159,3 +2159,5 @@
 [2016/02/05 07:39:57] @ grumbel joined channel #supertux
 [2016/02/05 07:41:45] @ Tobbi joined channel #supertux
 [2016/02/05 07:41:45] @ Mode +v Tobbi by ChanServ
+[2016/02/05 07:59:20] @ supertux|63325 joined channel #supertux
+[2016/02/05 07:59:29] @ Quit: supertux|63325: Client Quit
