@@ -2162,3 +2162,5 @@
 [2016/02/05 07:59:20] @ supertux|63325 joined channel #supertux
 [2016/02/05 07:59:29] @ Quit: supertux|63325: Client Quit
 [2016/02/05 08:07:23] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/05 08:24:51] @ maths22 joined channel #supertux
+[2016/02/05 08:24:51] @ Mode +v maths22 by ChanServ
