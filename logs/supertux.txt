@@ -2053,3 +2053,4 @@
 [2016/02/04 19:11:11] @ Quit: Wuzzy: Remote host closed the connection
 [2016/02/04 19:28:41] @ Tobbi joined channel #supertux
 [2016/02/04 19:28:42] @ Mode +v Tobbi by ChanServ
+[2016/02/04 19:39:21] @ stewboy_ joined channel #supertux
