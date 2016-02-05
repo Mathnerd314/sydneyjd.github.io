@@ -2249,3 +2249,7 @@
 [2016/02/05 12:42:46] @ Tobbi joined channel #supertux
 [2016/02/05 12:42:46] @ Mode +v Tobbi by ChanServ
 [2016/02/05 12:45:14] @ Quit: maths22: Ping timeout: 256 seconds
+[2016/02/05 12:50:40] @ maths22 joined channel #supertux
+[2016/02/05 12:50:40] @ Mode +v maths22 by ChanServ
+[2016/02/05 12:51:24] <Tobbi> Hume2: You fail at producing seemingly random join / quit messages.
+[2016/02/05 12:52:09] <Tobbi> jsyk
