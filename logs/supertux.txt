@@ -2401,3 +2401,5 @@
 [2016/02/06 14:23:51] @ Quit: claymore2: Quit: Leaving
 [2016/02/06 14:39:44] @ lumidify joined channel #supertux
 [2016/02/06 14:44:06] <Hume2> And I've just made another level.
+[2016/02/06 14:51:49] @ leyyin joined channel #supertux
+[2016/02/06 14:53:10] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
