@@ -2384,3 +2384,5 @@
 [2016/02/06 11:33:03] @ Quit: claymore2: Quit: Leaving
 [2016/02/06 11:50:02] <pentagon> [10flexlay] 07MaximeCheramy opened issue 09#73: Improve camera 13https://git.io/vglsg
 [2016/02/06 12:03:07] <Hume2> Hume2 opened issue #666: Delete all silly bug reports https://git.io/brmbr
+[2016/02/06 12:07:37] <mt> /cskick Hume2 pentagon impersonation
+[2016/02/06 12:07:48] <Hume2> :D
