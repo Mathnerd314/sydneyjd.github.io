@@ -2382,3 +2382,4 @@
 [2016/02/06 11:26:37] @ nerdopolis_ joined channel #supertux
 [2016/02/06 11:27:27] @ lumidify joined channel #supertux
 [2016/02/06 11:33:03] @ Quit: claymore2: Quit: Leaving
+[2016/02/06 11:50:02] <pentagon> [10flexlay] 07MaximeCheramy opened issue 09#73: Improve camera 13https://git.io/vglsg
