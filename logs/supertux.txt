@@ -2405,3 +2405,4 @@
 [2016/02/06 14:53:10] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
 [2016/02/06 15:06:26] @ swift110_ joined channel #supertux
 [2016/02/06 15:18:00] @ Quit: lumidify: Ping timeout: 245 seconds
+[2016/02/06 15:21:12] @ lumidify joined channel #supertux
