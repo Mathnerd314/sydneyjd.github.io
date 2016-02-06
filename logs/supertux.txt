@@ -2349,3 +2349,4 @@
 [2016/02/06 06:19:04] @ Quit: Karkus: Remote host closed the connection
 [2016/02/06 06:21:48] @ Quit: leyyin_: Quit: So Long, and Thanks for All the Fish
 [2016/02/06 06:24:05] @ alket joined channel #supertux
+[2016/02/06 06:46:53] @ Quit: lumidify: Ping timeout: 276 seconds
