@@ -2341,3 +2341,5 @@
 [2016/02/06 05:25:49] @ lumidify joined channel #supertux
 [2016/02/06 05:25:49] @ Quit: lumidify: Changing host
 [2016/02/06 05:25:49] @ lumidify joined channel #supertux
+[2016/02/06 05:31:04] @ Quit: alket: Quit: Good night!
+[2016/02/06 05:33:27] @ leyyin_ joined channel #supertux
