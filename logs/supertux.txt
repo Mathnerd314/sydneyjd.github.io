@@ -2317,3 +2317,4 @@
 [2016/02/06 00:58:44] @ tuxdev_ joined channel #supertux
 [2016/02/06 01:32:16] @ Quit: Mathnerd314: Ping timeout: 250 seconds
 [2016/02/06 02:17:21] @ leyyin joined channel #supertux
+[2016/02/06 02:44:28] @ Quit: tux|dude: Quit: Leaving
