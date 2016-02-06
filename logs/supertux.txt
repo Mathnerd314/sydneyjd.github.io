@@ -2323,3 +2323,4 @@
 [2016/02/06 03:06:35] <mcmic> Hello
 [2016/02/06 03:07:00] <mcmic> The wiki is still saying «newest version:SuperTux 0.3.5 (Changelog) »
 [2016/02/06 03:14:59] <mt> https://github.com/SuperTux/supertux/wiki is the wiki you want
+[2016/02/06 03:16:35] <mt> the old wiki's history has been imported to https://github.com/SuperTux/wiki/tree/mediawiki and will hopefully be converted to be Gollum-compatible and merged with the current Gollum wiki
