@@ -2410,3 +2410,5 @@
 [2016/02/06 15:28:25] @ Quit: lumidify: Ping timeout: 245 seconds
 [2016/02/06 16:14:10] @ stewboy joined channel #supertux
 [2016/02/06 16:28:43] @ Quit: irungentoo: Remote host closed the connection
+[2016/02/06 16:33:22] @ Tobbi joined channel #supertux
+[2016/02/06 16:33:22] @ Mode +v Tobbi by ChanServ
