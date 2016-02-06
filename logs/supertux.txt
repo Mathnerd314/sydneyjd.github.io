@@ -2418,3 +2418,5 @@
 [2016/02/06 17:20:53] @ tux|dude joined channel #supertux
 [2016/02/06 17:23:57] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/06 17:35:55] @ Quit: datahead7777: Ping timeout: 240 seconds
+[2016/02/06 17:47:22] @ Quit: nerdopolis_: Ping timeout: 240 seconds
+[2016/02/06 17:47:43] @ nerdopolis joined channel #supertux
