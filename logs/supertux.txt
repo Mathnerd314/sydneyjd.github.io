@@ -2363,3 +2363,5 @@
 [2016/02/06 07:39:45] <sydney_untangle> Tobbi: 'mornin. Im off to church again...
 [2016/02/06 07:40:08] <sydney_untangle> So if you hear from me in the next 10 hours, it will be over a very slow ssh conection. :p
 [2016/02/06 07:43:22] <Tobbi> ok?
+[2016/02/06 07:50:03] <mt> why not over a fast TCP connection to the IRC server?
+[2016/02/06 07:52:00] <mt> also, https://mosh.mit.edu/
