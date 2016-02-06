@@ -2331,3 +2331,5 @@
 [2016/02/06 03:38:09] <mcmic> ^^
 [2016/02/06 03:59:30] @ claymore2 joined channel #supertux
 [2016/02/06 04:04:24] @ Quit: lumidify: Ping timeout: 252 seconds
+[2016/02/06 04:07:42] @ Hume2 joined channel #supertux
+[2016/02/06 04:07:42] @ Mode +v Hume2 by ChanServ
