@@ -2359,3 +2359,5 @@
 [2016/02/06 07:25:53] @ alket_ is now known as alket
 [2016/02/06 07:33:09] @ Tobbi joined channel #supertux
 [2016/02/06 07:33:09] @ Mode +v Tobbi by ChanServ
+[2016/02/06 07:36:26] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/02/06 07:39:45] <sydney_untangle> Tobbi: 'mornin. Im off to church again...
