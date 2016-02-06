@@ -2390,3 +2390,6 @@
 [2016/02/06 12:22:46] <Hume2> I made 5 levels in last two days, that is dangerous.
 [2016/02/06 12:23:34] <Hume2> However I wasn't making any levels before that for a long time.
 [2016/02/06 12:23:56] <Hume2> Excluding TeraTux Reborn :D
+[2016/02/06 13:11:20] @ lumidify joined channel #supertux
+[2016/02/06 13:11:20] @ Quit: lumidify: Changing host
+[2016/02/06 13:11:20] @ lumidify joined channel #supertux
