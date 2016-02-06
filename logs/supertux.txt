@@ -2365,3 +2365,4 @@
 [2016/02/06 07:43:22] <Tobbi> ok?
 [2016/02/06 07:50:03] <mt> why not over a fast TCP connection to the IRC server?
 [2016/02/06 07:52:00] <mt> also, https://mosh.mit.edu/
+[2016/02/06 08:15:39] @ Quit: claymore2: Quit: Leaving
