@@ -2313,3 +2313,4 @@
 [2016/02/05 21:02:00] @ Quit: jesusalva_bot: Read error: Connection reset by peer
 [2016/02/05 23:38:43] @ Quit: irungentoo: Remote host closed the connection
 [2016/02/06 00:26:34] @ tux|dude joined channel #supertux
+[2016/02/06 00:38:43] @ Quit: bb010g: Quit: Connection closed for inactivity
