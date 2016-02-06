@@ -2376,3 +2376,4 @@
 [2016/02/06 09:55:45] @ Quit: nerdopolis: Read error: Connection reset by peer
 [2016/02/06 09:56:33] @ nerdopolis joined channel #supertux
 [2016/02/06 09:59:37] @ irungentoo joined channel #supertux
+[2016/02/06 10:17:46] @ lumidify joined channel #supertux
