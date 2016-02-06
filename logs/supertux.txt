@@ -2373,3 +2373,6 @@
 [2016/02/06 09:14:27] @ Quit: mcmic: Quit: Konversation terminated!
 [2016/02/06 09:30:31] @ claymore2 joined channel #supertux
 [2016/02/06 09:50:08] @ Mathnerd314 joined channel #supertux
+[2016/02/06 09:55:45] @ Quit: nerdopolis: Read error: Connection reset by peer
+[2016/02/06 09:56:33] @ nerdopolis joined channel #supertux
+[2016/02/06 09:59:37] @ irungentoo joined channel #supertux
