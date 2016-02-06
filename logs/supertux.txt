@@ -2368,3 +2368,5 @@
 [2016/02/06 08:15:39] @ Quit: claymore2: Quit: Leaving
 [2016/02/06 08:24:54] @ Quit: Tobbi: 
 [2016/02/06 08:25:46] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/06 08:45:18] @ Hume2 joined channel #supertux
+[2016/02/06 08:45:18] @ Mode +v Hume2 by ChanServ
