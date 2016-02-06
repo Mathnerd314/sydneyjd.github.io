@@ -2361,3 +2361,5 @@
 [2016/02/06 07:33:09] @ Mode +v Tobbi by ChanServ
 [2016/02/06 07:36:26] @ Quit: lumidify: Ping timeout: 240 seconds
 [2016/02/06 07:39:45] <sydney_untangle> Tobbi: 'mornin. Im off to church again...
+[2016/02/06 07:40:08] <sydney_untangle> So if you hear from me in the next 10 hours, it will be over a very slow ssh conection. :p
+[2016/02/06 07:43:22] <Tobbi> ok?
