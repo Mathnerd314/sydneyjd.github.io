@@ -2322,3 +2322,4 @@
 [2016/02/06 03:06:28] @ mcmic joined channel #supertux
 [2016/02/06 03:06:35] <mcmic> Hello
 [2016/02/06 03:07:00] <mcmic> The wiki is still saying «newest version:SuperTux 0.3.5 (Changelog) »
+[2016/02/06 03:14:59] <mt> https://github.com/SuperTux/supertux/wiki is the wiki you want
