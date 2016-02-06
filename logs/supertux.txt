@@ -2327,3 +2327,4 @@
 [2016/02/06 03:23:17] <mcmic> hum ok
 [2016/02/06 03:23:31] <mcmic> It should be more clear on the old wiki that it’s obsolete
 [2016/02/06 03:24:55] <mt> open an issue on github
+[2016/02/06 03:25:16] <mt> that will annoy all the responsible people via email
