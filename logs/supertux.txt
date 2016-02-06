@@ -2386,3 +2386,7 @@
 [2016/02/06 12:03:07] <Hume2> Hume2 opened issue #666: Delete all silly bug reports https://git.io/brmbr
 [2016/02/06 12:07:37] <mt> /cskick Hume2 pentagon impersonation
 [2016/02/06 12:07:48] <Hume2> :D
+[2016/02/06 12:20:10] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/02/06 12:22:46] <Hume2> I made 5 levels in last two days, that is dangerous.
+[2016/02/06 12:23:34] <Hume2> However I wasn't making any levels before that for a long time.
+[2016/02/06 12:23:56] <Hume2> Excluding TeraTux Reborn :D
