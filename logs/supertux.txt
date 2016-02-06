@@ -2408,3 +2408,4 @@
 [2016/02/06 15:21:12] @ lumidify joined channel #supertux
 [2016/02/06 15:27:46] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/06 15:28:25] @ Quit: lumidify: Ping timeout: 245 seconds
+[2016/02/06 16:14:10] @ stewboy joined channel #supertux
