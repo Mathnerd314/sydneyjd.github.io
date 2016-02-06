@@ -2412,3 +2412,4 @@
 [2016/02/06 16:28:43] @ Quit: irungentoo: Remote host closed the connection
 [2016/02/06 16:33:22] @ Tobbi joined channel #supertux
 [2016/02/06 16:33:22] @ Mode +v Tobbi by ChanServ
+[2016/02/06 16:48:20] @ Quit: leyyin: Remote host closed the connection
