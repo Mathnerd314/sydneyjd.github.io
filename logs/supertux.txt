@@ -2370,3 +2370,4 @@
 [2016/02/06 08:25:46] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
 [2016/02/06 08:45:18] @ Hume2 joined channel #supertux
 [2016/02/06 08:45:18] @ Mode +v Hume2 by ChanServ
+[2016/02/06 09:14:27] @ Quit: mcmic: Quit: Konversation terminated!
