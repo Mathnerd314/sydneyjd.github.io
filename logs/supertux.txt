@@ -2350,3 +2350,7 @@
 [2016/02/06 06:21:48] @ Quit: leyyin_: Quit: So Long, and Thanks for All the Fish
 [2016/02/06 06:24:05] @ alket joined channel #supertux
 [2016/02/06 06:46:53] @ Quit: lumidify: Ping timeout: 276 seconds
+[2016/02/06 06:51:33] @ lumidify joined channel #supertux
+[2016/02/06 06:51:33] @ Quit: lumidify: Changing host
+[2016/02/06 06:51:33] @ lumidify joined channel #supertux
+[2016/02/06 06:52:16] @ Quit: stewboy: Read error: Connection reset by peer
