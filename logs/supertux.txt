@@ -2367,3 +2367,4 @@
 [2016/02/06 07:52:00] <mt> also, https://mosh.mit.edu/
 [2016/02/06 08:15:39] @ Quit: claymore2: Quit: Leaving
 [2016/02/06 08:24:54] @ Quit: Tobbi: 
+[2016/02/06 08:25:46] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
