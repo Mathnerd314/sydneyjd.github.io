@@ -2397,3 +2397,4 @@
 [2016/02/06 13:25:59] @ Mode +v Tobbi by ChanServ
 [2016/02/06 13:26:14] <Tobbi> Guys, be civil.
 [2016/02/06 13:36:00] @ claymore2 joined channel #supertux
+[2016/02/06 14:16:00] @ Quit: lumidify: Ping timeout: 252 seconds
