@@ -2337,3 +2337,4 @@
 [2016/02/06 04:56:20] @ Quit: VargaD: Ping timeout: 250 seconds
 [2016/02/06 04:58:58] @ VargaD joined channel #supertux
 [2016/02/06 05:02:52] @ lumidify joined channel #supertux
+[2016/02/06 05:23:25] @ Quit: lumidify: Ping timeout: 245 seconds
