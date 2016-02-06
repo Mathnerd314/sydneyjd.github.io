@@ -2393,3 +2393,6 @@
 [2016/02/06 13:11:20] @ lumidify joined channel #supertux
 [2016/02/06 13:11:20] @ Quit: lumidify: Changing host
 [2016/02/06 13:11:20] @ lumidify joined channel #supertux
+[2016/02/06 13:25:59] @ Tobbi joined channel #supertux
+[2016/02/06 13:25:59] @ Mode +v Tobbi by ChanServ
+[2016/02/06 13:26:14] <Tobbi> Guys, be civil.
