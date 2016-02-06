@@ -2357,3 +2357,5 @@
 [2016/02/06 07:24:45] @ alket_ joined channel #supertux
 [2016/02/06 07:25:49] @ Quit: alket: Disconnected by services
 [2016/02/06 07:25:53] @ alket_ is now known as alket
+[2016/02/06 07:33:09] @ Tobbi joined channel #supertux
+[2016/02/06 07:33:09] @ Mode +v Tobbi by ChanServ
