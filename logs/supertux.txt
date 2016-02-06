@@ -2378,3 +2378,6 @@
 [2016/02/06 09:59:37] @ irungentoo joined channel #supertux
 [2016/02/06 10:17:46] @ lumidify joined channel #supertux
 [2016/02/06 10:58:46] @ Quit: nerdopolis: Remote host closed the connection
+[2016/02/06 11:26:23] @ Quit: lumidify: Ping timeout: 276 seconds
+[2016/02/06 11:26:37] @ nerdopolis_ joined channel #supertux
+[2016/02/06 11:27:27] @ lumidify joined channel #supertux
