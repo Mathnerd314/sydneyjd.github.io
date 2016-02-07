@@ -3172,3 +3172,7 @@
 [2016/02/07 16:18:57] <Tobbi> sydney_untangle: Your best illustration is fail.
 [2016/02/07 16:19:58] <sydney_untangle> Tobbi: thanks...
 [2016/02/07 16:20:13] <Tobbi> :P
+[2016/02/07 16:25:33] <Tobbi> Okay, coverity is running a build..
+[2016/02/07 16:26:49] <pentagon> [10supertux] Status for commit Ship dirent.h with tinygettext by 07Tobias Markus: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/107645869
+[2016/02/07 16:26:58] <Tobbi> oh!
+[2016/02/07 16:27:10] <Tobbi> We're back at green.
