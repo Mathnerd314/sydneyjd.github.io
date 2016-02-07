@@ -3129,3 +3129,27 @@
 [2016/02/07 16:09:51] <Tobbi> let's see...
 [2016/02/07 16:09:53] <sydney_untangle> But i want my car to sell!
 [2016/02/07 16:09:55] <Tobbi> today seems to be my lucky day.
+[2016/02/07 16:10:32] <pentagon> [10supertux] 07tobbi pushed 23 commits to 09coverity_scan 13https://git.io/vg4IC
+[2016/02/07 16:10:35] <pentagon> [10supertux] 07Hume2 148263429 Magicblocks test only the solidity of central 18×18 square to become solid.
+[2016/02/07 16:10:38] <pentagon> [10supertux] 07Hume2 140db19ec Tux can no longer activate triggers when deactivated
+[2016/02/07 16:10:41] <Tobbi> oh no.
+[2016/02/07 16:10:41] <pentagon> [10supertux] 07tobbi 148cb1c39 Mark a couple more methods const
+[2016/02/07 16:10:44] <pentagon> [10supertux] 07Hume2 1416e661d The worldmap in that Tux ended is now stored in the savegame.
+[2016/02/07 16:10:46] @ Quit: pentagon: *.net *.split
+[2016/02/07 16:11:09] @ pentagon joined channel #supertux
+[2016/02/07 16:11:09] <pentagon> [10supertux] 07tobbi 1476fd4d1 Change author information
+[2016/02/07 16:11:09] <pentagon> [10supertux] 07brmbrmcar 14896b297 Fix typo in A Fork in the Road
+[2016/02/07 16:11:10] <Tobbi> well, that works as well.
+[2016/02/07 16:11:18] @ Mode +o Tobbi by ChanServ
+[2016/02/07 16:11:19] <pentagon> [10supertux] 07MiroslavR 149dcb6a2 Fix tiles with images larger than 32x32px not being visible (Fixes #317)
+[2016/02/07 16:11:20] <pentagon> [10supertux] 07tobbi 14b0ca66a Scriptable particle system: particle system's enabled property is now scriptable
+[2016/02/07 16:11:21] <pentagon> [10supertux] 07tobbi 1467a90d2 move zpos parsing to particle system's parse method
+[2016/02/07 16:11:22] <pentagon> [10supertux] 07tobbi 145f365f2 Add missing include
+[2016/02/07 16:11:23] <pentagon> [10supertux] 07maxteufel 143a0d00f external/tinygettext: update submodule
+[2016/02/07 16:11:25] <pentagon> [10supertux] 07Hume2 147323a67 Fixed Tobbi's werror
+[2016/02/07 16:11:28] <pentagon> [10supertux] 07maths22 149f11f92 Improved main menu logo handling
+[2016/02/07 16:11:30] @ Mode +q pentagon!*@* by Tobbi
+[2016/02/07 16:11:36] <Tobbi> eh, wait.
+[2016/02/07 16:11:40] @ Mode -q pentagon!*@* by Tobbi
+[2016/02/07 16:11:51] <Tobbi> okay, it's over nevertheless.
+[2016/02/07 16:11:57] @ Quit: claymore2: Quit: Leaving
