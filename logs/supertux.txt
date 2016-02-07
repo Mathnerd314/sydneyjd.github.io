@@ -2572,3 +2572,22 @@
 [2016/02/07 09:13:56] <Tobbi> damn this.
 [2016/02/07 09:14:03] <Tobbi> actually, that's not fair.
 [2016/02/07 09:14:09] <Tobbi> Hume2: We can split evenly, if you want
+[2016/02/07 09:15:10] <Tobbi> Hume2: I know I often joke about getting money to pay for various things in my life, but honestly, I would probably not feel happy with keeping the money...
+[2016/02/07 09:15:32] <Hume2> I thought so.
+[2016/02/07 09:15:36] <mt> "* Mentors should expect to spend at least 10 hours a week for each student."
+[2016/02/07 09:15:52] <mt> (http://write.flossmanuals.net/gsoc-mentoring/about-this-manual/)
+[2016/02/07 09:16:07] <Tobbi> That sounds good. I can do that...
+[2016/02/07 09:16:12] <Tobbi> I spend 10 hours a week anyway.
+[2016/02/07 09:16:24] <Tobbi> Actually, be back in a bit getting something to eat.
+[2016/02/07 09:17:02] <pentagon> [10supertux] 07brmbrmcar commented on issue 09#258: Ice, air and earth Christmas hats 13https://git.io/vRAYt
+[2016/02/07 09:17:04] <mt> Yeah, we're probably even having more than 10 hours a week discussing silly topics in here
+[2016/02/07 09:17:13] <mt> Would be nice to fill that with something useful
+[2016/02/07 09:17:22] <leyyin> like politics
+[2016/02/07 09:17:23] * leyyin runs
+[2016/02/07 09:17:46] <Hume2> :D
+[2016/02/07 09:18:23] <Tobbi> leyyin: Who do you want to win the presidential elections? :P
+[2016/02/07 09:19:16] <mt> that's off-topic and since there's an on-topic discussion right now this discussion shouldn't take place in here :D
+[2016/02/07 09:19:35] <leyyin> mt, kick me then :P
+[2016/02/07 09:19:42] <mt> so, I could probably be a "backup mentor"
+[2016/02/07 09:19:49] <Hume2> OK, do they need any personal info?
+[2016/02/07 09:19:52] <Tobbi> :P
