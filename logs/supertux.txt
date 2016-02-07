@@ -3002,3 +3002,12 @@
 [2016/02/07 12:09:53] <Tobbi> mt: It's for the christmas level...
 [2016/02/07 12:09:58] <Tobbi> eeh intro thingz.
 [2016/02/07 12:09:59] <Tobbi> thingy.
+[2016/02/07 12:10:38] <mt> can we schedule a meeting for tomorrow, 17:00 UTC+1? to discuss the GSoC things?
+[2016/02/07 12:11:47] <Tobbi> We *can* kind of.
+[2016/02/07 12:11:52] <Tobbi> I hope I won't be busy during this time.
+[2016/02/07 12:12:03] <Tobbi> Who needs to participate?
+[2016/02/07 12:12:37] * sydney_untangle is tired...
+[2016/02/07 12:13:50] <mt> best would be Tobbi, Hume2, sydney_untangle, Karkus and me
+[2016/02/07 12:14:00] <Tobbi> Hopefully, Karkus will be around.
+[2016/02/07 12:14:21] <mt> well, I'm also available earlier or later
+[2016/02/07 12:14:35] <mt> would you prefer some other time?
