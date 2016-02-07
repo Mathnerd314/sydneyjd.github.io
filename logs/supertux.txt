@@ -3185,3 +3185,5 @@
 [2016/02/07 17:00:55] @ Quit: swift110: Ping timeout: 240 seconds
 [2016/02/07 17:08:16] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vg4m3
 [2016/02/07 17:08:19] <pentagon> [10supertux] 07tobbi 14efbe6fb Mark ParticleSystem::parse as virtual, remove unnecessary implementations from subclasses
+[2016/02/07 17:12:37] <pentagon> [10supertux] Status for commit Ship dirent.h with tinygettext by 07Tobias Markus: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/368
+[2016/02/07 17:14:19] <pentagon> [10supertux] Status for commit Revert "Fix tiles with images larger than 32x32px not being visible (Fixes #317)" by 07Tobias Markus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/369
