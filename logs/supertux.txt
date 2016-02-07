@@ -3048,3 +3048,10 @@
 [2016/02/07 13:29:42] <pentagon> [10supertux] 07tobbi closed pull request 09#238: Improved main menu logo handling 13https://git.io/vBGPg
 [2016/02/07 13:30:36] <Tobbi> So, this should be it.
 [2016/02/07 13:38:25] <pentagon> [10supertux] 07tobbi commented on issue 09#190: Improved ghosttree sprite 13https://git.io/vCFAI
+[2016/02/07 13:40:12] <pentagon> [10supertux] Status for commit Add settings.set_music(...) by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/107621994
+[2016/02/07 13:41:18] @ lumidify joined channel #supertux
+[2016/02/07 13:41:18] @ Quit: lumidify: Changing host
+[2016/02/07 13:41:18] @ lumidify joined channel #supertux
+[2016/02/07 13:42:25] <pentagon> [10supertux] Status for commit Add missing include by 07Tobias Markus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/363
+[2016/02/07 13:43:38] @ Quit: alket_: Remote host closed the connection
+[2016/02/07 13:44:11] @ alket_ joined channel #supertux
