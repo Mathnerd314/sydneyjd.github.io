@@ -3011,3 +3011,14 @@
 [2016/02/07 12:14:00] <Tobbi> Hopefully, Karkus will be around.
 [2016/02/07 12:14:21] <mt> well, I'm also available earlier or later
 [2016/02/07 12:14:35] <mt> would you prefer some other time?
+[2016/02/07 12:15:14] <sydney_untangle> I could probably be there, what time does that translate to EST?
+[2016/02/07 12:15:30] <mt> 16:00 UTC
+[2016/02/07 12:15:35] <Hume2> 17:00 UTC+1 OK
+[2016/02/07 12:16:04] <Tobbi> mt: No, it's fine.
+[2016/02/07 12:16:50] <Hume2> 17:00 UTC+1 is OK.
+[2016/02/07 12:17:03] <Hume2> It's the same as 16:00 UTC, isn't it?
+[2016/02/07 12:17:05] <sydney_untangle> I might be here or might not, not sure.
+[2016/02/07 12:17:06] <mt> sydney_untangle: EST is UTC-5, so 11:00 EST
+[2016/02/07 12:17:12] <mt> Hume2: yes
+[2016/02/07 12:17:30] <sydney_untangle> BUt i will probably be here, as if it matters...
+[2016/02/07 12:17:40] <pentagon> [10supertux] Status for commit Fixed Tobbi's werror by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/107608496
