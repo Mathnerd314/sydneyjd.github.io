@@ -3117,3 +3117,15 @@
 [2016/02/07 16:00:19] <leper`> (you're downstream :P)
 [2016/02/07 16:01:17] <Tobbi> Ah, yes.
 [2016/02/07 16:03:30] @ Quit: tux|dude: Ping timeout: 276 seconds
+[2016/02/07 16:06:17] @ Quit: tuxdude143: Ping timeout: 276 seconds
+[2016/02/07 16:06:22] <Tobbi> I think it's quite weird that this build took 1 hour to complete.
+[2016/02/07 16:06:26] @ tux|dude joined channel #supertux
+[2016/02/07 16:07:13] * sydney_untangle cries...
+[2016/02/07 16:07:19] <Tobbi> sydney_untangle: What?
+[2016/02/07 16:09:11] <pentagon> [10supertux] Status for commit Ship dirent.h with tinygettext by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/107634418
+[2016/02/07 16:09:23] <Tobbi> So, travis passed, appveyor passed, what more do we want?
+[2016/02/07 16:09:44] <sydney_untangle> Tobbi: Nothing, im glad for you. ;)
+[2016/02/07 16:09:49] <Tobbi> Oh, yeah, coverity passing might be fun.
+[2016/02/07 16:09:51] <Tobbi> let's see...
+[2016/02/07 16:09:53] <sydney_untangle> But i want my car to sell!
+[2016/02/07 16:09:55] <Tobbi> today seems to be my lucky day.
