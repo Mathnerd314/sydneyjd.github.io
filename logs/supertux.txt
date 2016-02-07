@@ -3198,3 +3198,8 @@
 [2016/02/07 17:46:41] @ swift110 joined channel #supertux
 [2016/02/07 17:52:39] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vg43F
 [2016/02/07 17:52:42] <pentagon> [10supertux] 07tobbi 144e8b337 Add particle scripting test level [ci skip]
+[2016/02/07 18:10:55] @ Quit: tuxdev_: Ping timeout: 240 seconds
+[2016/02/07 18:12:30] <pentagon> [10supertux] 07tobbi closed pull request 09#359: Pass LIB_SUFFIX to subprojects 13https://git.io/vg3I2
+[2016/02/07 18:12:32] <pentagon> [10supertux] 07tobbi pushed 2 commits to 09master 13https://git.io/vg4Gt
+[2016/02/07 18:12:35] <pentagon> [10supertux] 07const86 1435a3996 Pass LIB_SUFFIX to subprojects
+[2016/02/07 18:12:38] <pentagon> [10supertux] 07tobbi 149621bcc Merge pull request #359 from const86/master
