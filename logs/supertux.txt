@@ -2736,3 +2736,25 @@
 [2016/02/07 10:49:12] <Tobbi> Hume2: I believe most of the things GSOC students can work on would be for 0.5.0 or 0.6.0.
 [2016/02/07 10:49:23] <Tobbi> Hume2: We want the project to be interesting.
 [2016/02/07 10:49:52] <Hume2> So we can start with 0.5.0 and then 0.6.0.
+[2016/02/07 10:50:20] <Tobbi> I really am not sure which is which.
+[2016/02/07 10:50:23] <Hume2> OK, so what's for 0.5.0?
+[2016/02/07 10:50:28] <Tobbi> Just saying that we should consider bigger projects.
+[2016/02/07 10:50:41] <Tobbi> It doesn't matter if one of them is scheduled for 0.6, because we can reschedule any time.
+[2016/02/07 10:50:48] <Hume2> Editor ? :P
+[2016/02/07 10:51:09] <Hume2> I didn't want to tell that on the first place.
+[2016/02/07 10:51:09] <Tobbi> Hume2: Actually! Flexlay...
+[2016/02/07 10:51:24] <Tobbi> That might be a fun project to work on...Problem is: Who mentors that?
+[2016/02/07 10:51:35] <Hume2> Karkus, I hope.
+[2016/02/07 10:51:44] <Tobbi> Hume2: Does he know enough about the editor?
+[2016/02/07 10:51:50] <Tobbi> Also, can he make the time commitment?
+[2016/02/07 10:51:56] <Tobbi> I doubt that.
+[2016/02/07 10:52:03] <Hume2> I'm not sure.
+[2016/02/07 10:52:28] <Hume2> I'd like to mentor the in-game editor or the game mechanism.
+[2016/02/07 10:52:44] <Tobbi> Okay, in-game editor can be fun!!! :)
+[2016/02/07 10:52:51] @ Quit: leyyin: Ping timeout: 245 seconds
+[2016/02/07 10:52:55] <Tobbi> That might be good project...also, that's self-contained.
+[2016/02/07 10:52:58] <Tobbi> more or less.
+[2016/02/07 10:54:06] <Hume2> The slope sliding could be good too.
+[2016/02/07 10:54:30] <Tobbi> Slope sliding?
+[2016/02/07 10:54:49] <Tobbi> sydney_untangle: Do you have anything to contribute?
+[2016/02/07 10:55:00] <Hume2> It was decided that this will be implemented.
