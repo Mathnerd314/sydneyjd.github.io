@@ -2465,3 +2465,15 @@
 [2016/02/07 08:19:06] <pentagon> [10supertux] 07maxteufel pushed 1 commit to 09master 13https://git.io/vg8ab
 [2016/02/07 08:19:09] <pentagon> [10supertux] 07brmbrmcar 14896b297 Fix typo in A Fork in the Road
 [2016/02/07 08:19:17] <pentagon> [10supertux] 07maxteufel closed pull request 09#361: Fix typo in A Fork in the Road 13https://git.io/vg8at
+[2016/02/07 08:35:24] <Hume2> mt: I think we should consider two discussion-needed issues.
+[2016/02/07 08:35:47] <Hume2> #258 and #319.
+[2016/02/07 08:36:36] <mt> what's to be discussed at https://github.com/SuperTux/supertux/issues/319?
+[2016/02/07 08:37:17] <Hume2> I guess just whether it's an issue or not.
+[2016/02/07 08:37:27] <mt> https://github.com/SuperTux/supertux/issues/258 - sho8uld be oriented more at the colors of the current hats
+[2016/02/07 08:37:51] <Hume2> How do you think that?
+[2016/02/07 08:38:15] <mt> well, just use approximately the same color as in the actual hat
+[2016/02/07 08:38:39] <Hume2> Yes, that would make sense.
+[2016/02/07 08:38:58] <Hume2> So it's a needs-work then.
+[2016/02/07 08:39:28] <mt> oh and I'd like .xfc, .psd, .kra or some other kind of source file
+[2016/02/07 08:39:49] <mt> want to comment or should I do that?
+[2016/02/07 08:39:57] <Hume2> OK, I'll response on it.
