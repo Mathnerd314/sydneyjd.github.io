@@ -2962,3 +2962,28 @@
 [2016/02/07 11:59:37] <pentagon> [10supertux] 07Hume2 147323a67 Fixed Tobbi's werror
 [2016/02/07 11:59:44] <Tobbi> Thanks, Hume2.
 [2016/02/07 12:00:00] <mt> you can mention people in commit messages btw
+[2016/02/07 12:00:11] <mt> so 'Fixed @tobbi's werror'
+[2016/02/07 12:00:17] <Hume2> Travis complains even when the parameter shadows but still can distinguish those variables.
+[2016/02/07 12:00:18] <mt> should mention tobbi on github
+[2016/02/07 12:00:37] <Tobbi> That's weird. It doesn't shadow, since I prefixed one with this->
+[2016/02/07 12:00:40] <Tobbi> but, hey, who cares.
+[2016/02/07 12:00:55] <Hume2> Tobbi: Travis would complain anyway.
+[2016/02/07 12:01:12] <pentagon> [10supertux] Status for commit move zpos parsing to particle system's parse method by 07Tobias Markus: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/107606813
+[2016/02/07 12:01:54] <mt> can I cancel the 'Add missing include' build?
+[2016/02/07 12:02:01] <mt> it will  -Werror anyway, I guess
+[2016/02/07 12:02:13] <mt> And also my update submodule
+[2016/02/07 12:02:23] <Hume2> And mute pentagon for a while.
+[2016/02/07 12:02:23] <Tobbi> mt: Yes, you can.
+[2016/02/07 12:02:46] <pentagon> [10supertux] Status for commit Add missing include by 07Tobias Markus: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/107607122
+[2016/02/07 12:02:49] <pentagon> [10supertux] Status for commit Add missing include by 07Tobias Markus: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/107607122
+[2016/02/07 12:02:52] <pentagon> [10supertux] Status for commit Add missing include by 07Tobias Markus: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/107607122
+[2016/02/07 12:02:55] <pentagon> [10supertux] Status for commit Add missing include by 07Tobias Markus: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/107607122
+[2016/02/07 12:02:56] <Hume2> See?
+[2016/02/07 12:02:58] <pentagon> [10supertux] Status for commit Add missing include by 07Tobias Markus: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/107607122
+[2016/02/07 12:03:01] <pentagon> [10supertux] Status for commit Add missing include by 07Tobias Markus: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/107607122
+[2016/02/07 12:03:04] <pentagon> [10supertux] Status for commit Add missing include by 07Tobias Markus: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/107607122
+[2016/02/07 12:03:07] <pentagon> [10supertux] Status for commit Add missing include by 07Tobias Markus: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/107607122
+[2016/02/07 12:03:08] @ Mode +q *!*@unaffiliated/supermat/bot/netbot by ChanServ
+[2016/02/07 12:03:40] <mt> Hume2: that was me cancelling the build
+[2016/02/07 12:03:45] @ Mode +o mt by ChanServ
+[2016/02/07 12:03:47] @ Mode +z by mt
