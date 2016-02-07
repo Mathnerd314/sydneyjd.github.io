@@ -2777,3 +2777,29 @@
 [2016/02/07 10:59:34] <mt> we can always assign two mentors to one student
 [2016/02/07 10:59:39] <Tobbi> oh, sure.
 [2016/02/07 10:59:54] <sydney_untangle> two player would be cool, but i don' see the use of it for this game tbh.
+[2016/02/07 11:00:06] <Tobbi> It's a much wanted feature...
+[2016/02/07 11:00:19] <mt> sydney_untangle: have you seen multiplayer in the Wii (U) mario games?
+[2016/02/07 11:00:35] <mt> it would work
+[2016/02/07 11:00:36] <Hume2> *mršidlo
+[2016/02/07 11:00:54] <Hume2> We are not mario, are we?
+[2016/02/07 11:01:17] <mt> So,
+[2016/02/07 11:01:33] <Tobbi> No, we aren't, but this is a universal feature. Hell, if I had any friends, I'd love to play SuperTux with them.
+[2016/02/07 11:01:34] <mt> multiplayer: good idea, but it might be too much
+[2016/02/07 11:01:40] <Tobbi> probably...
+[2016/02/07 11:01:42] <Tobbi> I am not sure.
+[2016/02/07 11:01:54] <mt> in-game editor: Hume2 is already working on this
+[2016/02/07 11:02:05] <Hume2> mt: well well…
+[2016/02/07 11:02:09] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/02/07 11:02:17] <mt> flexlay: great idea, but might be too easy? since large parts of flexlay already work
+[2016/02/07 11:02:57] <mt> but yeah, I guess the font thing, in-game-editor, or multiplayer would be nice ideas
+[2016/02/07 11:03:18] <mt> and ideas will also develop when students submit more proposals
+[2016/02/07 11:03:29] <Hume2> We shouldn't also think too many features.
+[2016/02/07 11:03:37] <mt> yeah
+[2016/02/07 11:03:45] <Hume2> I think we should pick the best ones.
+[2016/02/07 11:03:47] <mt> I guess two students would be enough
+[2016/02/07 11:03:56] <mt> since we need enough mentors
+[2016/02/07 11:04:03] <Hume2> Do you think that we'll get more?
+[2016/02/07 11:04:07] <Tobbi> mt: Flexlay isn't too easy, not the way we think about it anyway. We have terrain generator, and the add-on packaging thing.
+[2016/02/07 11:04:19] <mt> Tobbi: okay
+[2016/02/07 11:04:22] <Tobbi> We could delete or export my add-on packaging branch and let them start from scratch...
+[2016/02/07 11:04:25] <Tobbi> Not sure.
