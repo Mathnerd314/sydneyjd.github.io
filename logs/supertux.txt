@@ -2502,3 +2502,14 @@
 [2016/02/07 08:47:29] <mt> or whatever
 [2016/02/07 08:47:38] <Hume2> Well…
 [2016/02/07 08:48:26] <mt> ping leyyin - do you want to tell us more about GSoC?
+[2016/02/07 08:52:23] <mt> Hume2: hmm
+[2016/02/07 08:52:31] <mt> it would be something to consider fast
+[2016/02/07 08:52:38] <Hume2> mt: I didn't get it.
+[2016/02/07 08:52:44] <mt> since the mentor organization application window starts tomorrow
+[2016/02/07 08:52:52] <mt> it's open until February 19th
+[2016/02/07 08:53:01] <Hume2> So do we have to be on the top positions to get some mentors?
+[2016/02/07 08:53:04] <mt> https://developers.google.com/open-source/gsoc/
+[2016/02/07 08:53:15] <mt> nah, the mentors would be us
+[2016/02/07 08:53:30] <Hume2> ah
+[2016/02/07 08:53:46] <mt> https://developers.google.com/open-source/gsoc/
+[2016/02/07 08:54:05] <Hume2> LOL, translation error:      Domovská stránka Resources History Rules
