@@ -2428,3 +2428,4 @@
 [2016/02/06 19:33:52] @ Mode +v Tobbi by ChanServ
 [2016/02/06 20:19:49] @ datahead8888 joined channel #supertux
 [2016/02/06 21:08:27] @ Quit: tux|dude: Quit: Leaving
+[2016/02/06 22:19:19] @ Quit: Tobbi: Remote host closed the connection
