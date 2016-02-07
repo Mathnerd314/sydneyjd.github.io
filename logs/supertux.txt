@@ -2427,3 +2427,4 @@
 [2016/02/06 19:33:52] @ Tobbi joined channel #supertux
 [2016/02/06 19:33:52] @ Mode +v Tobbi by ChanServ
 [2016/02/06 20:19:49] @ datahead8888 joined channel #supertux
+[2016/02/06 21:08:27] @ Quit: tux|dude: Quit: Leaving
