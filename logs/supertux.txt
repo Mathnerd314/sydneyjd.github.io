@@ -2450,3 +2450,7 @@
 [2016/02/07 05:51:44] @ Tobbi joined channel #supertux
 [2016/02/07 05:51:44] @ Mode +v Tobbi by ChanServ
 [2016/02/07 06:04:56] @ Quit: lumidify: Ping timeout: 252 seconds
+[2016/02/07 06:11:50] @ lumidify joined channel #supertux
+[2016/02/07 06:11:50] @ Quit: lumidify: Changing host
+[2016/02/07 06:11:50] @ lumidify joined channel #supertux
+[2016/02/07 06:14:10] @ Quit: stewboy: Read error: Connection reset by peer
