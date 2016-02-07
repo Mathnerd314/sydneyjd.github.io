@@ -2803,3 +2803,23 @@
 [2016/02/07 11:04:19] <mt> Tobbi: okay
 [2016/02/07 11:04:22] <Tobbi> We could delete or export my add-on packaging branch and let them start from scratch...
 [2016/02/07 11:04:25] <Tobbi> Not sure.
+[2016/02/07 11:05:33] <mt> Hume2: if we get accepted as a project we'll get a lot more students applications than two. I think STK had like, a lot more than 10 applications, but only accepted 3 students
+[2016/02/07 11:06:05] <mt> however, students usually do some easy tasks before the actual work, to get to know the project
+[2016/02/07 11:06:13] <Hume2> mt: So we only need to be accepted, right?
+[2016/02/07 11:06:23] <Tobbi> Students will probably like SuperTux until they start working on the code base :D
+[2016/02/07 11:06:28] <Hume2> :D
+[2016/02/07 11:06:36] <mt> Hume2: yes, I think so
+[2016/02/07 11:06:44] <Tobbi> So, actually, we should reconsider not applying :D
+[2016/02/07 11:06:53] <mt> however, we should probably spread the word of our GSoC participation
+[2016/02/07 11:06:59] <mt> D:
+[2016/02/07 11:07:13] <mt> (if we get chosen to be a mentor organization)
+[2016/02/07 11:07:29] <Hume2> (I hope so)
+[2016/02/07 11:07:48] <Hume2> mt: spreading the world?
+[2016/02/07 11:08:15] <Tobbi> Like, on twitter or something.
+[2016/02/07 11:08:17] <Tobbi> the forums etc.
+[2016/02/07 11:08:56] <Hume2> I could make a TeraTux Reborn walktrough :D
+[2016/02/07 11:09:20] <Hume2> Or any other walktrough.
+[2016/02/07 11:09:40] <mt> Tobbi: possibly also ask other open-source game projects, maybe there's someone interested
+[2016/02/07 11:09:45] <Tobbi> Sure.
+[2016/02/07 11:09:46] <mt> I mean heh
+[2016/02/07 11:09:50] <mt> the students get paid
