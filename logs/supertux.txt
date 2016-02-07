@@ -2823,3 +2823,15 @@
 [2016/02/07 11:09:45] <Tobbi> Sure.
 [2016/02/07 11:09:46] <mt> I mean heh
 [2016/02/07 11:09:50] <mt> the students get paid
+[2016/02/07 11:10:45] <Hume2> And who controls the students that they really work?
+[2016/02/07 11:10:54] <mt> the mentors
+[2016/02/07 11:11:01] <mt> who will also write an evaluation
+[2016/02/07 11:11:02] <sydney_untangle> mt: Yes i have, but only in maryo racing
+[2016/02/07 11:11:19] <mt> sydney_untangle: of the more supertux-like games
+[2016/02/07 11:11:38] <sydney_untangle> No i haven't.
+[2016/02/07 11:11:41] <sydney_untangle> Im not much of a gamer.
+[2016/02/07 11:11:56] <mt> sydney_untangle: then look on youtube oslt
+[2016/02/07 11:13:56] <Hume2> We also have to decide how many mentors we will have.
+[2016/02/07 11:14:28] <Hume2> Of course that everyone could do that work, but I guess that Google needs to know that.
+[2016/02/07 11:14:36] <mt> for flexlay: preferrably Karkus
+[2016/02/07 11:14:46] <mt> for the core: preferrably Tobbi or Hume2
