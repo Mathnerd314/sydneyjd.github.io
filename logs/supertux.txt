@@ -3098,3 +3098,18 @@
 [2016/02/07 15:53:48] <Tobbi> mt: ^^
 [2016/02/07 15:54:01] @ Quit: swift110: Changing host
 [2016/02/07 15:54:01] @ swift110 joined channel #supertux
+[2016/02/07 15:55:09] <Tobbi> Let's see if restarting that other build brings it back.
+[2016/02/07 15:55:17] <Tobbi> the travis one, I mean.
+[2016/02/07 15:56:20] <Tobbi> sydney_untangle: But, windows build is fixed! :)
+[2016/02/07 15:56:33] <sydney_untangle> Tobbi: yay...
+[2016/02/07 15:56:51] <Tobbi> sydney_untangle: Actually, I didn't fix it, but I worked around the issue.
+[2016/02/07 15:56:55] <leper`> Tobbi: mt: There's a commit in the only open pull request for tinygettext that has a win32 implemenation of the file handling code
+[2016/02/07 15:57:07] <Tobbi> oh.
+[2016/02/07 15:57:23] <leper`> which should work, but since the one who proposed that doesn't seem to be interested in fixing up the rest of it...
+[2016/02/07 15:57:49] <Tobbi> hrm.
+[2016/02/07 15:57:52] <Tobbi> Damn this.
+[2016/02/07 15:59:01] <leper`> for your fix I do have a similar change in a branch of mine which is what we (0ad) use
+[2016/02/07 15:59:06] @ tuxdude143 joined channel #supertux
+[2016/02/07 15:59:40] <Tobbi> leper`: If you want, you can do a PR...
+[2016/02/07 15:59:46] <Tobbi> We can look into it.
+[2016/02/07 15:59:49] <Tobbi> (or should I say I can)
