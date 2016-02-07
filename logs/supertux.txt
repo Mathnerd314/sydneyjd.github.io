@@ -2666,3 +2666,9 @@
 [2016/02/07 09:33:54] <mt> it runs the test suite for my IRC library multiple times: https://ci.appveyor.com/project/maxteufel/node-notreallyirc/build/11
 [2016/02/07 09:34:43] <mt> (it says 153 tests passed, in reality it's just 31 tests)
 [2016/02/07 09:35:00] <Hume2> So it's an AppVeyor's problem, OK.
+[2016/02/07 09:36:13] <mt> nah
+[2016/02/07 09:36:21] <mt> it's a windows problem, I guess
+[2016/02/07 09:36:37] <Hume2> That's more likely.
+[2016/02/07 09:37:38] <Hume2> Windows forces the computer to operate with ones, zeros and errors :D
+[2016/02/07 09:38:03] <leyyin> microsoft software TM
+[2016/02/07 09:38:56] <Hume2> *mikrosaft
