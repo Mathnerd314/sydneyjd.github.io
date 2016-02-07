@@ -3065,3 +3065,7 @@
 [2016/02/07 14:32:32] <pentagon> [10supertux] 07Hume2 commented on issue 09#362: Bug with moving tilemaps 13https://git.io/vg8HR
 [2016/02/07 14:37:42] <Tobbi> I probably know how to workaround the windows build error.
 [2016/02/07 14:38:08] <Hume2> You can try it.
+[2016/02/07 14:41:25] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/07 14:42:30] <mt> if so, try to make it work with the upstream branch of our tinygettext fork
+[2016/02/07 14:42:45] <mt> "external/tinygettext: update submodule" is useless, I guess
+[2016/02/07 14:43:03] <mt> (feel free to revert that one then)
