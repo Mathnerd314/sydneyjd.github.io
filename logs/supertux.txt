@@ -2687,3 +2687,4 @@
 [2016/02/07 09:53:55] @ tuxdev_ joined channel #supertux
 [2016/02/07 09:55:00] <Hume2> being back in about 30 minutes.
 [2016/02/07 09:55:03] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/07 10:02:34] @ lumidify joined channel #supertux
