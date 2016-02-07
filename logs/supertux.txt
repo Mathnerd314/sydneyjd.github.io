@@ -2477,3 +2477,12 @@
 [2016/02/07 08:39:28] <mt> oh and I'd like .xfc, .psd, .kra or some other kind of source file
 [2016/02/07 08:39:49] <mt> want to comment or should I do that?
 [2016/02/07 08:39:57] <Hume2> OK, I'll response on it.
+[2016/02/07 08:40:47] <mt> btw
+[2016/02/07 08:40:56] <mt> did we ever consider GSoC?
+[2016/02/07 08:41:02] <pentagon> [10supertux] 07Hume2 commented on issue 09#258: Ice, air and earth Christmas hats 13https://git.io/vRAYt
+[2016/02/07 08:41:11] <Hume2> What is GSoc?
+[2016/02/07 08:41:25] <mt> https://en.wikipedia.org/wiki/Google_Summer_of_Code
+[2016/02/07 08:41:47] * Hume2 is reading that
+[2016/02/07 08:42:17] <mt> The STK folks participated in that, and I think there were quite a few contributors
+[2016/02/07 08:44:41] <Hume2> Well, contest are always won by someone else. :D
+[2016/02/07 08:44:53] <mt> what?
