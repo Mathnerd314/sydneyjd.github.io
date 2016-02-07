@@ -3036,3 +3036,13 @@
 [2016/02/07 13:20:10] @ alket_ joined channel #supertux
 [2016/02/07 13:22:26] @ Quit: alket: Ping timeout: 256 seconds
 [2016/02/07 13:24:06] <pentagon> [10supertux] 07Hume2 commented on issue 09#362: Bug with moving tilemaps 13https://git.io/vg8HR
+[2016/02/07 13:25:50] <pentagon> [10supertux] 07tobbi pushed 3 commits to 09master 13https://git.io/vg8dk
+[2016/02/07 13:25:53] <pentagon> [10supertux] 07maths22 149f11f92 Improved main menu logo handling
+[2016/02/07 13:25:56] <pentagon> [10supertux] 07tobbi 14a107fd8 Add new capabilities to menu level
+[2016/02/07 13:25:59] <pentagon> [10supertux] 07tobbi 1469214c2 Add settings.set_music(...)
+[2016/02/07 13:28:46] <pentagon> [10supertux] 07tobbi commented on issue 09#239: Background and Particles should be scriptable 13https://git.io/vBZNf
+[2016/02/07 13:28:57] <pentagon> [10supertux] 07tobbi assigned issue 09#239: Background and Particles should be scriptable 13https://git.io/vBZNf
+[2016/02/07 13:29:00] <pentagon> [10supertux] 07tobbi unassigned issue 09#239: Background and Particles should be scriptable 13https://git.io/vBZNf
+[2016/02/07 13:29:04] <pentagon> [10supertux] 07tobbi closed issue 09#239: Background and Particles should be scriptable 13https://git.io/vBZNf
+[2016/02/07 13:29:34] <pentagon> [10supertux] 07tobbi commented on issue 09#238: Improved main menu logo handling 13https://git.io/vBGPg
+[2016/02/07 13:29:42] <pentagon> [10supertux] 07tobbi closed pull request 09#238: Improved main menu logo handling 13https://git.io/vBGPg
