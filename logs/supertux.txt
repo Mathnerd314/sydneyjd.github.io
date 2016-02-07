@@ -2458,3 +2458,4 @@
 [2016/02/07 07:04:49] <pentagon> [10supertux] 07tobbi commented on issue 09#346: Fix tiles with images larger than 32x32px not being visible 13https://git.io/vz9EZ
 [2016/02/07 07:07:49] <pentagon> [10supertux] 07Hume2 commented on issue 09#346: Fix tiles with images larger than 32x32px not being visible 13https://git.io/vz9EZ
 [2016/02/07 07:09:07] <pentagon> [10supertux] 07Hume2 labeled pull request 09#356: Create info_block.sprite 13https://git.io/vgetW
+[2016/02/07 07:10:40] @ Quit: lumidify: Ping timeout: 250 seconds
