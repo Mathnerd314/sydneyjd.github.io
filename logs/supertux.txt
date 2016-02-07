@@ -2443,3 +2443,7 @@
 [2016/02/07 04:25:15] @ alket joined channel #supertux
 [2016/02/07 04:38:34] @ Hume2 joined channel #supertux
 [2016/02/07 04:38:34] @ Mode +v Hume2 by ChanServ
+[2016/02/07 05:47:07] @ lumidify joined channel #supertux
+[2016/02/07 05:47:28] @ Jaxer joined channel #supertux
+[2016/02/07 05:48:02] <Jaxer> Hello guys.
+[2016/02/07 05:49:17] @ Quit: Jaxer: Client Quit
