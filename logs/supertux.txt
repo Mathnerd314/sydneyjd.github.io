@@ -2691,3 +2691,7 @@
 [2016/02/07 10:09:07] <pentagon> [10supertux] Status for commit Fix tiles with images larger than 32x32px not being visible (Fixes #317) by 07MiroslavR: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/107592144
 [2016/02/07 10:13:16] <Tobbi> leyyin: Do you have any idea about windows compilation, cmake or anything else that might get us further at fixing appveyor?
 [2016/02/07 10:21:49] <pentagon> [10supertux] Status for commit Fix tiles with images larger than 32x32px not being visible (Fixes #317) by 07MiroslavR: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/360
+[2016/02/07 10:27:46] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/02/07 10:28:13] <Tobbi> Okay, I am back.
+[2016/02/07 10:28:16] <Tobbi> Let's wait for hume...
+[2016/02/07 10:29:28] <pentagon> [10supertux] 07tobbi unlabeled pull request 09#346: Fix tiles with images larger than 32x32px not being visible 13https://git.io/vz9EZ
