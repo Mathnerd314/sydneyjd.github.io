@@ -2441,3 +2441,5 @@
 [2016/02/07 03:36:50] @ Quit: lumidify: Ping timeout: 276 seconds
 [2016/02/07 03:49:18] @ Vorpal joined channel #supertux
 [2016/02/07 04:25:15] @ alket joined channel #supertux
+[2016/02/07 04:38:34] @ Hume2 joined channel #supertux
+[2016/02/07 04:38:34] @ Mode +v Hume2 by ChanServ
