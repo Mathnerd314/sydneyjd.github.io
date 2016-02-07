@@ -2619,3 +2619,33 @@
 [2016/02/07 09:24:18] <Tobbi> Also, döner is healthy fast food
 [2016/02/07 09:24:25] <leyyin> " healthy fast food"
 [2016/02/07 09:24:41] <Tobbi> leyyin: There's actual vegetables in there...
+[2016/02/07 09:25:03] <Tobbi> So, the more vegetables, the healthier...
+[2016/02/07 09:25:04] <leyyin> the salad at MC has 500 Kcal
+[2016/02/07 09:25:05] @ Mode +o mt by ChanServ
+[2016/02/07 09:25:10] <leyyin> oh boy
+[2016/02/07 09:25:26] <mt> /mode #supertux +mz-v Tobbi
+[2016/02/07 09:25:29] <Hume2> It's very expensive.
+[2016/02/07 09:25:39] <mt> guys
+[2016/02/07 09:25:52] <mt> can we stop talking about $useless-thing
+[2016/02/07 09:25:52] <Tobbi> mt: We concluded the GsoC talks, saying that we want to participate...
+[2016/02/07 09:26:01] @ Mode -o mt by mt
+[2016/02/07 09:26:03] <mt> okay
+[2016/02/07 09:26:21] <mt> so, we'll look into what's required for applying tomorrow?
+[2016/02/07 09:26:24] <Tobbi> Yes.
+[2016/02/07 09:26:34] <Hume2> The students choose between the projects freely, right?
+[2016/02/07 09:26:36] <Tobbi> If they need a bank account, I will apply myself...
+[2016/02/07 09:26:37] * sydney_untangle yawns...
+[2016/02/07 09:26:45] <mt> we should also look at some issues we'd like to get done
+[2016/02/07 09:26:45] <Tobbi> Good afternoon sydney_untangle
+[2016/02/07 09:27:16] <Tobbi> mt: By the way: I don't think that dashes are allowed in variables, so $useless-thing is likely a useless thing.
+[2016/02/07 09:27:41] <leyyin> Tobbi, did you try perl?
+[2016/02/07 09:27:45] <sydney_untangle> Tobbi: hola.
+[2016/02/07 09:27:54] <leyyin> I am pretty sure perl is a monster and allows everything :D
+[2016/02/07 09:27:56] <Tobbi> leyyin: I did try it once, and had a hangover for several years.
+[2016/02/07 09:28:40] <sydney_untangle> leyyin: JS is a monster and allows everything as well, anyways, in websites...
+[2016/02/07 09:28:49] <Tobbi> sydney_untangle: JS is beautiful, perl isn't.
+[2016/02/07 09:29:06] <mt> node.js <3
+[2016/02/07 09:29:14] <Tobbi> Perl is the ugliest thing, right after <insert non-appropriate yo mamma joke here>
+[2016/02/07 09:29:43] <Tobbi> I'll probably get a Döner now...or something else from the bakery...
+[2016/02/07 09:29:54] <Tobbi> So, you can continue talking about on-topic things.
+[2016/02/07 09:29:55] <mt> but heh, JS actually allows Unicode for variables
