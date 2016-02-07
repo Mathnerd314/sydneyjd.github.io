@@ -2695,3 +2695,4 @@
 [2016/02/07 10:28:13] <Tobbi> Okay, I am back.
 [2016/02/07 10:28:16] <Tobbi> Let's wait for hume...
 [2016/02/07 10:29:28] <pentagon> [10supertux] 07tobbi unlabeled pull request 09#346: Fix tiles with images larger than 32x32px not being visible 13https://git.io/vz9EZ
+[2016/02/07 10:39:01] @ Mathnerd314 joined channel #supertux
