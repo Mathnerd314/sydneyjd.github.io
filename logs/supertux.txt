@@ -3203,3 +3203,4 @@
 [2016/02/07 18:12:32] <pentagon> [10supertux] 07tobbi pushed 2 commits to 09master 13https://git.io/vg4Gt
 [2016/02/07 18:12:35] <pentagon> [10supertux] 07const86 1435a3996 Pass LIB_SUFFIX to subprojects
 [2016/02/07 18:12:38] <pentagon> [10supertux] 07tobbi 149621bcc Merge pull request #359 from const86/master
+[2016/02/07 18:23:58] @ Quit: Tobbi: Remote host closed the connection
