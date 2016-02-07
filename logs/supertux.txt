@@ -2460,3 +2460,5 @@
 [2016/02/07 07:09:07] <pentagon> [10supertux] 07Hume2 labeled pull request 09#356: Create info_block.sprite 13https://git.io/vgetW
 [2016/02/07 07:10:40] @ Quit: lumidify: Ping timeout: 250 seconds
 [2016/02/07 07:16:19] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/07 08:06:30] @ leyyin joined channel #supertux
+[2016/02/07 08:07:14] <pentagon> [10supertux] 07brmbrmcar opened pull request 09#361: Fix typo in A Fork in the Road 13https://git.io/vg8at
