@@ -3033,3 +3033,6 @@
 [2016/02/07 13:10:46] @ Mode +v Hume2 by ChanServ
 [2016/02/07 13:15:13] @ Vorpal is now known as Vorpal_
 [2016/02/07 13:15:21] @ Vorpal_ is now known as Vorpal
+[2016/02/07 13:20:10] @ alket_ joined channel #supertux
+[2016/02/07 13:22:26] @ Quit: alket: Ping timeout: 256 seconds
+[2016/02/07 13:24:06] <pentagon> [10supertux] 07Hume2 commented on issue 09#362: Bug with moving tilemaps 13https://git.io/vg8HR
