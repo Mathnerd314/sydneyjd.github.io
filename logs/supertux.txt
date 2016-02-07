@@ -3046,3 +3046,4 @@
 [2016/02/07 13:29:04] <pentagon> [10supertux] 07tobbi closed issue 09#239: Background and Particles should be scriptable 13https://git.io/vBZNf
 [2016/02/07 13:29:34] <pentagon> [10supertux] 07tobbi commented on issue 09#238: Improved main menu logo handling 13https://git.io/vBGPg
 [2016/02/07 13:29:42] <pentagon> [10supertux] 07tobbi closed pull request 09#238: Improved main menu logo handling 13https://git.io/vBGPg
+[2016/02/07 13:30:36] <Tobbi> So, this should be it.
