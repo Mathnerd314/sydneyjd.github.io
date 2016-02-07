@@ -2672,3 +2672,7 @@
 [2016/02/07 09:37:38] <Hume2> Windows forces the computer to operate with ones, zeros and errors :D
 [2016/02/07 09:38:03] <leyyin> microsoft software TM
 [2016/02/07 09:38:56] <Hume2> *mikrosaft
+[2016/02/07 09:40:44] <pentagon> [10supertux] 07MiroslavR synchronized pull request 09#346: Fix tiles with images larger than 32x32px not being visible 13https://git.io/vz9EZ
+[2016/02/07 09:42:29] <Hume2> I will wanish for about 30 minutes in 16:00.
+[2016/02/07 09:42:56] <Hume2> You don't have to wait for me.
+[2016/02/07 09:43:48] <pentagon> [10supertux] Status for commit Fix tiles with images larger than 32x32px not being visible (Fixes #317) by 07MiroslavR: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/359
