@@ -3113,3 +3113,7 @@
 [2016/02/07 15:59:40] <Tobbi> leper`: If you want, you can do a PR...
 [2016/02/07 15:59:46] <Tobbi> We can look into it.
 [2016/02/07 15:59:49] <Tobbi> (or should I say I can)
+[2016/02/07 16:00:10] <leper`> just telling you what there is :P
+[2016/02/07 16:00:19] <leper`> (you're downstream :P)
+[2016/02/07 16:01:17] <Tobbi> Ah, yes.
+[2016/02/07 16:03:30] @ Quit: tux|dude: Ping timeout: 276 seconds
