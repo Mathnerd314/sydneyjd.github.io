@@ -2521,3 +2521,4 @@
 [2016/02/07 08:58:39] <mt> we will mentor computer science students - explain the SuperTux's codebase, and yes they can code some features
 [2016/02/07 08:58:52] <mt> and Google pays them
 [2016/02/07 08:59:18] <mt> https://developers.google.com/open-source/gsoc/faq
+[2016/02/07 09:01:52] <Hume2> I start getting it…
