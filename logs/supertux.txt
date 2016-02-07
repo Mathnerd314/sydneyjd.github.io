@@ -2887,3 +2887,22 @@
 [2016/02/07 11:34:44] <mt> I like how this is in our project
 [2016/02/07 11:34:56] <Hume2> I wouldn't like that.
 [2016/02/07 11:35:01] <mt> I mean, not every project includes code written by the US government
+[2016/02/07 11:35:21] @ leyyin joined channel #supertux
+[2016/02/07 11:35:36] <Tobbi> huh?
+[2016/02/07 11:35:51] <Hume2> You know how I hate the © thing.
+[2016/02/07 11:36:10] <mt> Tobbi: external/tinygettext/CMake/CompilerFlags.cmake
+[2016/02/07 11:36:15] <Tobbi> Oh, I see.
+[2016/02/07 11:36:18] <mt> probably taken from BRL-CAD
+[2016/02/07 11:36:25] <Tobbi> Who knows...
+[2016/02/07 11:36:46] <leyyin> ©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©©© © © © ©
+[2016/02/07 11:37:03] <Hume2> The mentor guide is just a big mess. I can't orient in it.
+[2016/02/07 11:37:13] <Tobbi> Nor can you occident in it.
+[2016/02/07 11:37:16] <Tobbi> :P
+[2016/02/07 11:37:16] <leyyin> mentors are a big mess :P
+[2016/02/07 11:37:26] <Tobbi> leyyin: Depends on the gender :P
+[2016/02/07 11:37:29] <Tobbi> uh, nvm
+[2016/02/07 11:37:36] <leyyin> damnnnnn
+[2016/02/07 11:38:15] <mt> I think https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/275 is the first broken commit
+[2016/02/07 11:38:24] <mt> well, broken due to that problem
+[2016/02/07 11:38:48] <mt> there's https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/273 and https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/274
+[2016/02/07 11:39:29] <Tobbi> mt: Exactly! That's what I figured out as well, if I remember correctly.
