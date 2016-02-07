@@ -2447,3 +2447,5 @@
 [2016/02/07 05:47:28] @ Jaxer joined channel #supertux
 [2016/02/07 05:48:02] <Jaxer> Hello guys.
 [2016/02/07 05:49:17] @ Quit: Jaxer: Client Quit
+[2016/02/07 05:51:44] @ Tobbi joined channel #supertux
+[2016/02/07 05:51:44] @ Mode +v Tobbi by ChanServ
