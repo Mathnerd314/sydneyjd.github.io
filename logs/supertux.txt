@@ -3031,3 +3031,5 @@
 [2016/02/07 13:07:23] <pentagon> [10supertux] Status for commit move zpos parsing to particle system's parse method by 07Tobias Markus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/362
 [2016/02/07 13:10:46] @ Hume2 joined channel #supertux
 [2016/02/07 13:10:46] @ Mode +v Hume2 by ChanServ
+[2016/02/07 13:15:13] @ Vorpal is now known as Vorpal_
+[2016/02/07 13:15:21] @ Vorpal_ is now known as Vorpal
