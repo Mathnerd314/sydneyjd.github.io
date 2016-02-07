@@ -2422,3 +2422,5 @@
 [2016/02/06 17:47:43] @ nerdopolis joined channel #supertux
 [2016/02/06 17:54:12] @ irungentoo joined channel #supertux
 [2016/02/06 18:07:35] @ Quit: swift110_: Ping timeout: 240 seconds
+[2016/02/06 19:22:02] @ Quit: grumbel: Ping timeout: 240 seconds
+[2016/02/06 19:22:13] @ grumbel joined channel #supertux
