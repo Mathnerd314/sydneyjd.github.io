@@ -2714,3 +2714,25 @@
 [2016/02/07 10:44:49] <Hume2> Yes, indeed.
 [2016/02/07 10:44:52] <Tobbi> :D
 [2016/02/07 10:44:59] <Tobbi> I am not sure if I can mentor.
+[2016/02/07 10:45:08] <Tobbi> I mean 1) I need to make the time commitment...
+[2016/02/07 10:45:19] <Tobbi> and 2) Do I actually know enough about the code base?
+[2016/02/07 10:45:27] <Hume2> I know that.
+[2016/02/07 10:46:00] <Hume2> Therefore I suggest that we all could be mentors.
+[2016/02/07 10:46:08] <Tobbi> Mentoring together might work, really.
+[2016/02/07 10:46:30] <Hume2> Each mentor could be for another part of SuperTux.
+[2016/02/07 10:46:47] <Tobbi> I suggest we should discuss what we want to achieve first
+[2016/02/07 10:46:50] <Tobbi> And then we can see...
+[2016/02/07 10:47:02] <Hume2> Yes, that'd be better.
+[2016/02/07 10:47:12] <Tobbi> I would suggest we do a) 2-player mode.
+[2016/02/07 10:47:18] <Tobbi> and b) maybe font engine improvements_
+[2016/02/07 10:47:19] <Tobbi> ?
+[2016/02/07 10:47:26] <Tobbi> right? wrong?
+[2016/02/07 10:47:27] <Hume2> hmmm…
+[2016/02/07 10:47:28] <Tobbi> :P
+[2016/02/07 10:47:34] <Tobbi> mt: Sorry, meeting started.
+[2016/02/07 10:47:37] <Tobbi> Ideas?
+[2016/02/07 10:47:47] <Hume2> 2-player mode was postponed to 0.6.0, wasn't it?
+[2016/02/07 10:48:10] <Hume2> Font improvements could be good.
+[2016/02/07 10:49:12] <Tobbi> Hume2: I believe most of the things GSOC students can work on would be for 0.5.0 or 0.6.0.
+[2016/02/07 10:49:23] <Tobbi> Hume2: We want the project to be interesting.
+[2016/02/07 10:49:52] <Hume2> So we can start with 0.5.0 and then 0.6.0.
