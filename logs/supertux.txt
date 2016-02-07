@@ -2591,3 +2591,31 @@
 [2016/02/07 09:19:42] <mt> so, I could probably be a "backup mentor"
 [2016/02/07 09:19:49] <Hume2> OK, do they need any personal info?
 [2016/02/07 09:19:52] <Tobbi> :P
+[2016/02/07 09:20:09] <leyyin> Hume2, your blood type
+[2016/02/07 09:20:10] <mt> Hume2: google already has that anyway :D
+[2016/02/07 09:20:24] <Hume2> mt: No, they don't :P
+[2016/02/07 09:20:33] <leyyin> Tobbi, Donald Trump, so that I can watch the world burn
+[2016/02/07 09:20:36] <Tobbi> :D
+[2016/02/07 09:20:38] <Tobbi> leyyin: Great.
+[2016/02/07 09:20:58] <mt> /cskick Tobbi,leyyin Off-topic discussion
+[2016/02/07 09:20:59] <Hume2> My Google name is "TeraTux DevelTeam".
+[2016/02/07 09:21:04] <Tobbi> leyyin: Also, blood type is actually pretty important in case you keep hitting your head against your desk and get a head wound and lose blood...
+[2016/02/07 09:21:18] <leyyin> or you are a vampire and need food
+[2016/02/07 09:21:35] <mt> Hume2: why not "Hume the Second"
+[2016/02/07 09:21:49] <Hume2> mt: Because TeraTux was first.
+[2016/02/07 09:21:56] <Tobbi> I'm Hume, the second I am, HUme the second, I am I am, I got married to the widow next door.
+[2016/02/07 09:22:01] <Tobbi> She's been married 7 times before.
+[2016/02/07 09:22:05] <Hume2> Yes and I'm 116 years old on Google :D
+[2016/02/07 09:22:28] <leyyin> Hume2, believe me, google know everything about you
+[2016/02/07 09:22:43] <Hume2> Hmmm…
+[2016/02/07 09:23:08] <Hume2> Maybe the IP-detect? crap
+[2016/02/07 09:23:17] <mt> oh right, some STK GSoC students work(ed) at Google, so you know that
+[2016/02/07 09:23:30] <Tobbi> leyyin: Can you believe that I wanted to get a Doner yesterday at 11:40pm and they didn't have any?
+[2016/02/07 09:23:43] <Tobbi> I was so furious...
+[2016/02/07 09:23:47] <Tobbi> Well, actually, not really.
+[2016/02/07 09:24:00] <leyyin> eating fast food at night
+[2016/02/07 09:24:05] <leyyin> were you drunk?
+[2016/02/07 09:24:13] <Tobbi> leyyin: No, just hungry.
+[2016/02/07 09:24:18] <Tobbi> Also, döner is healthy fast food
+[2016/02/07 09:24:25] <leyyin> " healthy fast food"
+[2016/02/07 09:24:41] <Tobbi> leyyin: There's actual vegetables in there...
