@@ -2649,3 +2649,20 @@
 [2016/02/07 09:29:43] <Tobbi> I'll probably get a Döner now...or something else from the bakery...
 [2016/02/07 09:29:54] <Tobbi> So, you can continue talking about on-topic things.
 [2016/02/07 09:29:55] <mt> but heh, JS actually allows Unicode for variables
+[2016/02/07 09:30:07] <Tobbi> var döner = {}
+[2016/02/07 09:30:09] <Tobbi> :D
+[2016/02/07 09:30:19] <Hume2> :D
+[2016/02/07 09:30:32] <mt> var döner = new Food('döner');
+[2016/02/07 09:30:36] <leyyin> https://i.imgur.com/6Vuf2Ws.gifv
+[2016/02/07 09:30:50] <Tobbi> lol.
+[2016/02/07 09:31:17] <Tobbi> Guys, can we discuss what we're gonna let the GsoC students work on once I get back and am fed?
+[2016/02/07 09:31:24] <mt> sure
+[2016/02/07 09:31:30] <Tobbi> So, probably 30-45 minutes.
+[2016/02/07 09:31:33] <Tobbi> See you later.
+[2016/02/07 09:31:54] <Hume2> OK.
+[2016/02/07 09:32:06] <Hume2> I think they could fix that AppVeyor error :D
+[2016/02/07 09:32:21] <mt> in that time, sydney_untangle can read the log and tell us what he thinks about GSoC
+[2016/02/07 09:33:15] <mt> AppVeyor is silly for some reason
+[2016/02/07 09:33:54] <mt> it runs the test suite for my IRC library multiple times: https://ci.appveyor.com/project/maxteufel/node-notreallyirc/build/11
+[2016/02/07 09:34:43] <mt> (it says 153 tests passed, in reality it's just 31 tests)
+[2016/02/07 09:35:00] <Hume2> So it's an AppVeyor's problem, OK.
