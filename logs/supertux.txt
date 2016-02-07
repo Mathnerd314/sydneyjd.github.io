@@ -2867,3 +2867,14 @@
 [2016/02/07 11:24:51] <mt> SYNOPSIS
 [2016/02/07 11:24:54] <mt>        #include <dirent.h>
 [2016/02/07 11:24:56] <mt> haha
+[2016/02/07 11:25:49] <Tobbi> mt: I think I have a regression range, or had one for that matter.
+[2016/02/07 11:25:51] <Tobbi> :D
+[2016/02/07 11:25:59] <mt> https://stackoverflow.com/questions/5530933/dirent-h-in-visual-studio-2010-or-2008
+[2016/02/07 11:26:00] <Tobbi> But I am working on scripting particle syste.
+[2016/02/07 11:26:29] <Hume2> Dico weather!
+[2016/02/07 11:26:41] <Hume2> *disco
+[2016/02/07 11:26:57] <Hume2> It's SuperTux, not SuperDisco :P
+[2016/02/07 11:27:33] <Hume2> OK, should the mentors register anywhere?
+[2016/02/07 11:28:48] <mt> I don't get it
+[2016/02/07 11:29:19] <mt> this line hasn't been added recently
+[2016/02/07 11:29:21] <Hume2> Can just someone say that he's the mentor or he needs to tell it to Google first?
