@@ -2522,3 +2522,23 @@
 [2016/02/07 08:58:52] <mt> and Google pays them
 [2016/02/07 08:59:18] <mt> https://developers.google.com/open-source/gsoc/faq
 [2016/02/07 09:01:52] <Hume2> I start getting it…
+[2016/02/07 09:05:35] <leyyin> mt, what do you want to know?
+[2016/02/07 09:05:42] <mt> everything
+[2016/02/07 09:05:45] <leyyin> pff
+[2016/02/07 09:05:49] <leyyin> kinda vague
+[2016/02/07 09:06:22] <leyyin> the website or wikipedia explains it better imho
+[2016/02/07 09:06:31] <leyyin> if you have specific questions
+[2016/02/07 09:07:06] <mt> did STK have any specific goals before the mentor organization application?
+[2016/02/07 09:07:12] <leyyin> yes
+[2016/02/07 09:07:25] <mt> do you need them at that time?
+[2016/02/07 09:07:31] <leyyin> they have some ideas
+[2016/02/07 09:07:32] <Hume2> Imagine Tobbi as a mentor :D
+[2016/02/07 09:07:32] @ Tobbi joined channel #supertux
+[2016/02/07 09:07:32] @ Mode +v Tobbi by ChanServ
+[2016/02/07 09:07:39] <leyyin> I do not think it matters
+[2016/02/07 09:08:44] <leyyin> when students apply it would be nice to have the ideas there
+[2016/02/07 09:09:00] <leyyin> some general ideas of projects they can do
+[2016/02/07 09:09:07] <mt> what would mentors do exactly? Answer the student's questions?
+[2016/02/07 09:09:28] <leyyin> mentor him, show him when he is stuck
+[2016/02/07 09:09:34] <leyyin> answer questions, etc
+[2016/02/07 09:09:48] <Hume2> And say words beginning on * and ending on * :D
