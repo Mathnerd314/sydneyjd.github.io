@@ -2917,3 +2917,30 @@
 [2016/02/07 11:47:18] <mt> and it doesn't seem to fix the windows issue
 [2016/02/07 11:47:34] <Hume2> When I compare the AppVeyor outputs, it doesn't seem to help.
 [2016/02/07 11:48:15] <Hume2> 13413 lines of output in master, 13370 of output after that change.
+[2016/02/07 11:50:17] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vg8D5
+[2016/02/07 11:50:20] <pentagon> [10supertux] 07tobbi 1467a90d2 move zpos parsing to particle system's parse method
+[2016/02/07 11:50:50] <Tobbi> shit!
+[2016/02/07 11:50:53] <Tobbi> uhm, sorry.
+[2016/02/07 11:51:43] <Tobbi> I managed to break the build.
+[2016/02/07 11:51:47] <Tobbi> Yes, shame on me.
+[2016/02/07 11:51:52] <mt> >_>
+[2016/02/07 11:51:52] <Hume2> Never mind.
+[2016/02/07 11:52:17] <Tobbi> I'll fix it momentarily.
+[2016/02/07 11:52:41] <mt> I just wanted to push a commit to get tinygettext to the latest commit (it hasn't been updated, and was also changed on the day windows broke)
+[2016/02/07 11:52:42] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vg8Dh
+[2016/02/07 11:52:45] <pentagon> [10supertux] 07tobbi 145f365f2 Add missing include
+[2016/02/07 11:52:51] <pentagon> [10supertux] Status for commit Scriptable particle system: particle system's enabled property is now scriptable by 07Tobias Markus: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/107605930
+[2016/02/07 11:53:16] <mt> Tobbi: should it build fine now?
+[2016/02/07 11:53:26] <Hume2> werror
+[2016/02/07 11:53:26] <Tobbi> mt: Yes, it will build fine.
+[2016/02/07 11:53:41] <Tobbi> mt: In case you were talking about the master branch.
+[2016/02/07 11:53:43] <Tobbi> not tinygettext.
+[2016/02/07 11:53:46] <pentagon> [10supertux] 07maxteufel pushed 1 commit to 09master 13https://git.io/vg8yJ
+[2016/02/07 11:53:49] <pentagon> [10supertux] 07maxteufel 143a0d00f external/tinygettext: update submodule
+[2016/02/07 11:53:49] <mt> yeah
+[2016/02/07 11:54:01] <mt> let's see if this unbreaks windows
+[2016/02/07 11:54:18] <Hume2> Tobbi: You shouldn't hesitate.
+[2016/02/07 11:54:18] <Tobbi> mt: What I did to tinygettext was: Include the latest upstream changes in the upstream branch.
+[2016/02/07 11:54:22] <Tobbi> And point to that.
+[2016/02/07 11:54:35] <Tobbi> Did you change anything in tinygettext's master_
+[2016/02/07 11:54:36] <Tobbi> ?
