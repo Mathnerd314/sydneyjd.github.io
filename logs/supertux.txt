@@ -3059,3 +3059,4 @@
 [2016/02/07 14:20:26] <pentagon> [10supertux] Status for commit external/tinygettext: update submodule by 07Max Teufel: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/364
 [2016/02/07 14:24:49] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vg8AW
 [2016/02/07 14:24:50] <pentagon> [10supertux] 07tobbi 1432f40ed const correctness stuff in yeti_stalactite
+[2016/02/07 14:25:50] <Tobbi> Actually...
