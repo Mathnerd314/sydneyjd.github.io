@@ -2944,3 +2944,21 @@
 [2016/02/07 11:54:22] <Tobbi> And point to that.
 [2016/02/07 11:54:35] <Tobbi> Did you change anything in tinygettext's master_
 [2016/02/07 11:54:36] <Tobbi> ?
+[2016/02/07 11:55:13] <mt> I told git to use tinygettext/master
+[2016/02/07 11:55:18] <Tobbi> Okay.
+[2016/02/07 11:55:26] <Tobbi> Shouldn't fix the build, but might be a necessary thing.
+[2016/02/07 11:55:28] <mt> meh
+[2016/02/07 11:55:45] <mt> well, the SuperTux/tinygettext master
+[2016/02/07 11:56:08] <mt> but since it was broken before you changed it to upstream
+[2016/02/07 11:56:12] <mt> it's probably useless
+[2016/02/07 11:57:14] <Tobbi> That's what I meant.
+[2016/02/07 11:57:58] <mt> however
+[2016/02/07 11:58:07] <mt> "Fix build" and "Fix build (again)"
+[2016/02/07 11:58:10] <mt> interesting
+[2016/02/07 11:58:22] <mt> these aren't in the master branch
+[2016/02/07 11:58:26] <mt> but it still builds fine
+[2016/02/07 11:59:23] <Tobbi> mt: Those are things I didn't spot during rebasing with upstream tinygettext.
+[2016/02/07 11:59:35] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/vg8yo
+[2016/02/07 11:59:37] <pentagon> [10supertux] 07Hume2 147323a67 Fixed Tobbi's werror
+[2016/02/07 11:59:44] <Tobbi> Thanks, Hume2.
+[2016/02/07 12:00:00] <mt> you can mention people in commit messages btw
