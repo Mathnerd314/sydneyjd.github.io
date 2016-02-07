@@ -3196,3 +3196,5 @@
 [2016/02/07 17:38:26] <pentagon> [10supertux] Status for commit Move parse() function to ParticleSystem_Interactive by 07Tobias Markus: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/107659985
 [2016/02/07 17:46:41] @ Quit: swift110: Changing host
 [2016/02/07 17:46:41] @ swift110 joined channel #supertux
+[2016/02/07 17:52:39] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vg43F
+[2016/02/07 17:52:42] <pentagon> [10supertux] 07tobbi 144e8b337 Add particle scripting test level [ci skip]
