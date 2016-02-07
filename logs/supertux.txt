@@ -3205,3 +3205,5 @@
 [2016/02/07 18:12:38] <pentagon> [10supertux] 07tobbi 149621bcc Merge pull request #359 from const86/master
 [2016/02/07 18:23:58] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/07 18:27:37] <pentagon> [10supertux] Status for commit Merge pull request #359 from const86/master by 07Tobias Markus: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/107668783
+[2016/02/07 18:42:39] @ Tobbi joined channel #supertux
+[2016/02/07 18:42:39] @ Mode +v Tobbi by ChanServ
