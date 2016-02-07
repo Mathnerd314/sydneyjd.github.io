@@ -2835,3 +2835,22 @@
 [2016/02/07 11:14:28] <Hume2> Of course that everyone could do that work, but I guess that Google needs to know that.
 [2016/02/07 11:14:36] <mt> for flexlay: preferrably Karkus
 [2016/02/07 11:14:46] <mt> for the core: preferrably Tobbi or Hume2
+[2016/02/07 11:15:02] <Tobbi> Oh dman.
+[2016/02/07 11:15:06] <Tobbi> We need to write evaluations_
+[2016/02/07 11:15:06] <mt> I could be backup mentor; sydney_untangle probably too
+[2016/02/07 11:15:07] <Tobbi> ?
+[2016/02/07 11:15:13] <Tobbi> I am not that good at this.
+[2016/02/07 11:15:16] <mt> yes
+[2016/02/07 11:15:46] <mt> http://write.flossmanuals.net/gsoc-mentoring/evaluations/
+[2016/02/07 11:15:50] <sydney_untangle> I'm no good with the code, but i know a couple things. mt would be better in my opinion for backup though.
+[2016/02/07 11:16:08] <mt> sydney_untangle: but at least you can point people to the right things
+[2016/02/07 11:16:27] <mt> possibly for core or backup mentors: old contributors
+[2016/02/07 11:16:48] <mt> and I don't know what about maths22, haven't seen him talking in here for a long time
+[2016/02/07 11:16:55] <sydney_untangle> Yes, i think im capable of that.
+[2016/02/07 11:17:11] <Tobbi> mt: I assume he's busy with college.
+[2016/02/07 11:17:19] <Tobbi> I don't think he'd leave the project like this.
+[2016/02/07 11:17:26] <Tobbi> or high school or whatever.
+[2016/02/07 11:18:30] <mt> oh good idea
+[2016/02/07 11:18:40] <mt> we should fix the windows build
+[2016/02/07 11:18:51] <mt> because I think there's many people using Windows
+[2016/02/07 11:19:55] <Tobbi> mt: It's got something to do with an include file that is missing for some reason.
