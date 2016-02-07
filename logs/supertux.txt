@@ -3088,3 +3088,6 @@
 [2016/02/07 15:36:01] <Tobbi> YES!
 [2016/02/07 15:40:42] <Tobbi> Problem is that the nightly build website is offlie.
 [2016/02/07 15:40:44] <Tobbi> offline.
+[2016/02/07 15:47:30] <sydney_untangle> Man, i wish people would stick to their word...
+[2016/02/07 15:48:56] @ swift110 joined channel #supertux
+[2016/02/07 15:49:56] @ Quit: lumidify: Ping timeout: 245 seconds
