@@ -2542,3 +2542,33 @@
 [2016/02/07 09:09:28] <leyyin> mentor him, show him when he is stuck
 [2016/02/07 09:09:34] <leyyin> answer questions, etc
 [2016/02/07 09:09:48] <Hume2> And say words beginning on * and ending on * :D
+[2016/02/07 09:10:12] @ irungentoo joined channel #supertux
+[2016/02/07 09:10:18] <Hume2> Yeah, I should stop.
+[2016/02/07 09:10:36] <leyyin> Tobbi, you are a mentor, congrats
+[2016/02/07 09:10:44] <Tobbi> leyyin: WHAT?
+[2016/02/07 09:10:45] <pentagon> Tobbi: Sent 15 minutes ago: <mt> hi, we should consider participating as GSoC mentor organization - https://developers.google.com/open-source/gsoc/ (we'd have to decide fast, organizations can apply from 2016-02-08 to 2016-02-19)
+[2016/02/07 09:10:51] <Tobbi> Oh!
+[2016/02/07 09:11:05] <Tobbi> Something tells me there's gonna be a lot of scrollback.
+[2016/02/07 09:11:12] <Tobbi> leyyin: Problem is: As a mentor, I cannot get money, can I?
+[2016/02/07 09:11:41] <Tobbi> Hume2: Oh, yes, and saying *sigh* is one of the key features of being a mentor
+[2016/02/07 09:11:49] <Tobbi> Finally I can say that without fear of retribution.
+[2016/02/07 09:11:55] <leyyin> you get 500$
+[2016/02/07 09:12:02] <Tobbi> leyyin: As a mentor, I do?
+[2016/02/07 09:12:05] <leyyin> yes
+[2016/02/07 09:12:12] <Tobbi> mt: Apply immediately!
+[2016/02/07 09:12:13] <leyyin> or hmm, the organization
+[2016/02/07 09:12:16] <leyyin> which is you :D
+[2016/02/07 09:12:22] <Tobbi> leyyin: My point exactly.
+[2016/02/07 09:12:25] <Tobbi> haha
+[2016/02/07 09:12:29] <Hume2> And do I have to provide my personal info to get the money?
+[2016/02/07 09:12:33] <mt> Tobbi: we can't until tomorrow
+[2016/02/07 09:12:36] <Tobbi> Hume2: You?
+[2016/02/07 09:12:44] <Tobbi> Why would you be getting any money? :D
+[2016/02/07 09:12:52] <Hume2> :D
+[2016/02/07 09:13:16] <mt> 500 USD/$number_of_mentors
+[2016/02/07 09:13:40] <Hume2> What about this, Tobbi: You'll be the official mentor and I'll be mentoring :D
+[2016/02/07 09:13:51] <Tobbi> Hume2: Meaning, I'll get the money? :D
+[2016/02/07 09:13:56] <Hume2> Yes.
+[2016/02/07 09:13:56] <Tobbi> damn this.
+[2016/02/07 09:14:03] <Tobbi> actually, that's not fair.
+[2016/02/07 09:14:09] <Tobbi> Hume2: We can split evenly, if you want
