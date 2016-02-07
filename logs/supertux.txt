@@ -2455,3 +2455,4 @@
 [2016/02/07 06:11:50] @ lumidify joined channel #supertux
 [2016/02/07 06:14:10] @ Quit: stewboy: Read error: Connection reset by peer
 [2016/02/07 06:59:52] <pentagon> [10supertux] 07brmbrmcar commented on issue 09#165: Animations loop if you pause and then unpause game 13https://git.io/vcso0
+[2016/02/07 07:04:49] <pentagon> [10supertux] 07tobbi commented on issue 09#346: Fix tiles with images larger than 32x32px not being visible 13https://git.io/vz9EZ
