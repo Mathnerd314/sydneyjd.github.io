@@ -2678,3 +2678,11 @@
 [2016/02/07 09:43:48] <pentagon> [10supertux] Status for commit Fix tiles with images larger than 32x32px not being visible (Fixes #317) by 07MiroslavR: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/359
 [2016/02/07 09:45:02] <pentagon> [10supertux] 07MiroslavR commented on issue 09#346: Fix tiles with images larger than 32x32px not being visible 13https://git.io/vz9EZ
 [2016/02/07 09:46:45] <pentagon> [10supertux] 07Hume2 commented on issue 09#346: Fix tiles with images larger than 32x32px not being visible 13https://git.io/vz9EZ
+[2016/02/07 09:52:21] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/vg8K5
+[2016/02/07 09:52:23] <pentagon> [10supertux] 07MiroslavR 149dcb6a2 Fix tiles with images larger than 32x32px not being visible (Fixes #317)
+[2016/02/07 09:52:26] <pentagon> [10supertux] 07Hume2 closed issue 09#317: Igloo becomes invisible when Tux is a couple of tiles below it 13https://git.io/vuegt
+[2016/02/07 09:53:09] <pentagon> [10supertux] 07Hume2 commented on issue 09#346: Fix tiles with images larger than 32x32px not being visible 13https://git.io/vz9EZ
+[2016/02/07 09:53:16] <pentagon> [10supertux] 07Hume2 closed pull request 09#346: Fix tiles with images larger than 32x32px not being visible 13https://git.io/vz9EZ
+[2016/02/07 09:53:20] <pentagon> [10supertux] Status for commit Fix tiles with images larger than 32x32px not being visible (Fixes #317) by 07MiroslavR: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/107590843
+[2016/02/07 09:53:55] @ tuxdev_ joined channel #supertux
+[2016/02/07 09:55:00] <Hume2> being back in about 30 minutes.
