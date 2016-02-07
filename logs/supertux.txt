@@ -3183,3 +3183,5 @@
 [2016/02/07 16:49:55] <pentagon> [10supertux] 07tobbi reopened issue 09#317: Igloo becomes invisible when Tux is a couple of tiles below it 13https://git.io/vuegt
 [2016/02/07 16:54:54] <pentagon> [10supertux] Status for commit Revert "Fix tiles with images larger than 32x32px not being visible (Fixes #317)" by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/107650149
 [2016/02/07 17:00:55] @ Quit: swift110: Ping timeout: 240 seconds
+[2016/02/07 17:08:16] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vg4m3
+[2016/02/07 17:08:19] <pentagon> [10supertux] 07tobbi 14efbe6fb Mark ParticleSystem::parse as virtual, remove unnecessary implementations from subclasses
