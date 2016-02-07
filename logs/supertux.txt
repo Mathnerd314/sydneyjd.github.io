@@ -2431,3 +2431,4 @@
 [2016/02/06 22:19:19] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/06 22:30:42] @ Mathnerd314_ joined channel #supertux
 [2016/02/06 22:33:40] @ Quit: Mathnerd314: Ping timeout: 250 seconds
+[2016/02/06 23:14:15] @ Quit: irungentoo: Ping timeout: 245 seconds
