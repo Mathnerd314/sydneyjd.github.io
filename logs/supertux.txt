@@ -2913,3 +2913,7 @@
 [2016/02/07 11:43:37] <Hume2> Don't you know anything about this by a chance? https://github.com/SuperTux/supertux/pull/359
 [2016/02/07 11:43:54] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vg8D6
 [2016/02/07 11:43:57] <pentagon> [10supertux] 07tobbi 14b0ca66a Scriptable particle system: particle system's enabled property is now scriptable
+[2016/02/07 11:46:57] <mt> Hume2: I don't even know what that is useful for
+[2016/02/07 11:47:18] <mt> and it doesn't seem to fix the windows issue
+[2016/02/07 11:47:34] <Hume2> When I compare the AppVeyor outputs, it doesn't seem to help.
+[2016/02/07 11:48:15] <Hume2> 13413 lines of output in master, 13370 of output after that change.
