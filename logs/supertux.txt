@@ -3084,3 +3084,4 @@
 [2016/02/07 15:06:39] <pentagon> [10supertux] Status for commit Ship dirent.h with tinygettext by 07Tobias Markus: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/107634418
 [2016/02/07 15:09:17] <Tobbi> For whatever reason that error'ed.
 [2016/02/07 15:09:41] @ bb010g joined channel #supertux
+[2016/02/07 15:20:10] @ tux|dude joined channel #supertux
