@@ -2758,3 +2758,22 @@
 [2016/02/07 10:54:30] <Tobbi> Slope sliding?
 [2016/02/07 10:54:49] <Tobbi> sydney_untangle: Do you have anything to contribute?
 [2016/02/07 10:55:00] <Hume2> It was decided that this will be implemented.
+[2016/02/07 10:55:23] <sydney_untangle> Tobbi: Can you give me a rough overview of what we are talking about?
+[2016/02/07 10:55:32] <Tobbi> sydney_untangle: Google summer of code.
+[2016/02/07 10:55:38] <sydney_untangle> Oh.
+[2016/02/07 10:55:49] <sydney_untangle> And what about it?
+[2016/02/07 10:55:50] <Tobbi> Hume2: Oh, you mean the belly slide, right? :D
+[2016/02/07 10:56:00] <Hume2> Tobbi: Yes, exactly.
+[2016/02/07 10:56:06] <Tobbi> sydney_untangle: We'd like to participate and wonder what projects the students can work on.
+[2016/02/07 10:57:17] @ lumidify joined channel #supertux
+[2016/02/07 10:57:37] <sydney_untangle> Tobbi: Oh.
+[2016/02/07 10:57:40] <sydney_untangle> Tobbi: Everything? :D
+[2016/02/07 10:57:53] <Tobbi> sydney_untangle: Everything is not a good description to get people interested.
+[2016/02/07 10:58:46] <sydney_untangle> Maybe that Puffin bird, tux swimming, tux belly diving? Not sure what else.
+[2016/02/07 10:59:07] <Hume2> Just that.
+[2016/02/07 10:59:18] <Hume2> https://github.com/SuperTux/supertux/issues/292
+[2016/02/07 10:59:24] <mt> re time commitment
+[2016/02/07 10:59:26] <Tobbi> sydney_untangle: So, we have talked about the font thing...migrating to freetype or sdl_ttf, 2-player thing...
+[2016/02/07 10:59:34] <mt> we can always assign two mentors to one student
+[2016/02/07 10:59:39] <Tobbi> oh, sure.
+[2016/02/07 10:59:54] <sydney_untangle> two player would be cool, but i don' see the use of it for this game tbh.
