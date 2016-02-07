@@ -2987,3 +2987,18 @@
 [2016/02/07 12:03:40] <mt> Hume2: that was me cancelling the build
 [2016/02/07 12:03:45] @ Mode +o mt by ChanServ
 [2016/02/07 12:03:47] @ Mode +z by mt
+[2016/02/07 12:05:03] @ lumidify joined channel #supertux
+[2016/02/07 12:05:07] @ Mode -o mt by ChanServ
+[2016/02/07 12:05:17] @ Mode -q *!*@unaffiliated/supermat/bot/netbot by ChanServ
+[2016/02/07 12:08:09] <Tobbi> hrm...
+[2016/02/07 12:08:16] <Tobbi> I guess we need level music to be scriptable as well.
+[2016/02/07 12:08:53] <mt> Level.music.make_user_deaf();
+[2016/02/07 12:08:58] <Hume2> We have already play_music, don't we?
+[2016/02/07 12:09:26] <Tobbi> Hume2: Actually, I think so...
+[2016/02/07 12:09:33] <Hume2> I've never tested that though.
+[2016/02/07 12:09:37] <Tobbi> Does that allow to set repeating music?
+[2016/02/07 12:09:38] @ Quit: lumidify: Ping timeout: 250 seconds
+[2016/02/07 12:09:40] <Tobbi> We'll have to see...
+[2016/02/07 12:09:53] <Tobbi> mt: It's for the christmas level...
+[2016/02/07 12:09:58] <Tobbi> eeh intro thingz.
+[2016/02/07 12:09:59] <Tobbi> thingy.
