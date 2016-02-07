@@ -3176,3 +3176,4 @@
 [2016/02/07 16:26:49] <pentagon> [10supertux] Status for commit Ship dirent.h with tinygettext by 07Tobias Markus: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/107645869
 [2016/02/07 16:26:58] <Tobbi> oh!
 [2016/02/07 16:27:10] <Tobbi> We're back at green.
+[2016/02/07 16:39:52] <pentagon> [10supertux] 07tobbi commented on issue 09#346: Fix tiles with images larger than 32x32px not being visible 13https://git.io/vz9EZ
