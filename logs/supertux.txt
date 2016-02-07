@@ -2513,3 +2513,11 @@
 [2016/02/07 08:53:30] <Hume2> ah
 [2016/02/07 08:53:46] <mt> https://developers.google.com/open-source/gsoc/
 [2016/02/07 08:54:05] <Hume2> LOL, translation error:      Domovská stránka Resources History Rules
+[2016/02/07 08:55:31] <mt> pentagon: later tell Tobbi hi, we should consider participating as GSoC mentor organization - https://developers.google.com/open-source/gsoc/ (we'd have to decide fast, organizations can apply from 2016-02-08 to 2016-02-19)
+[2016/02/07 08:55:31] <pentagon> mt: The operation succeeded.
+[2016/02/07 08:57:16] <Hume2> I'm getting lost.
+[2016/02/07 08:57:21] <mt> why?
+[2016/02/07 08:57:58] <Hume2> I can't get it. So we will tech some studetnst to program SuperTux and they will program it? Or what?
+[2016/02/07 08:58:39] <mt> we will mentor computer science students - explain the SuperTux's codebase, and yes they can code some features
+[2016/02/07 08:58:52] <mt> and Google pays them
+[2016/02/07 08:59:18] <mt> https://developers.google.com/open-source/gsoc/faq
