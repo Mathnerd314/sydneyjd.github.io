@@ -2486,3 +2486,19 @@
 [2016/02/07 08:42:17] <mt> The STK folks participated in that, and I think there were quite a few contributors
 [2016/02/07 08:44:41] <Hume2> Well, contest are always won by someone else. :D
 [2016/02/07 08:44:53] <mt> what?
+[2016/02/07 08:45:03] <Hume2> Win that kind of contest is quite hard, you know.
+[2016/02/07 08:45:37] <Hume2> If we want to win that, we should get who sponsors it first.
+[2016/02/07 08:45:37] <mt> you mean getting the project accepted?
+[2016/02/07 08:45:51] <Hume2> Yes, I guess.
+[2016/02/07 08:46:10] <Hume2> Or get a good position.
+[2016/02/07 08:46:15] <mt> Well, it's not really about winning I think
+[2016/02/07 08:46:31] <Hume2> hmmm…
+[2016/02/07 08:46:31] <mt> It's more, you get your project accepted
+[2016/02/07 08:46:40] <mt> Look for students you can mentor
+[2016/02/07 08:46:58] <Hume2> I didn't read it whole.
+[2016/02/07 08:47:02] <mt> They'll write you an application and you decide who you'd consider mentoring
+[2016/02/07 08:47:14] <mt> Google then says 'you get to mentor x people'
+[2016/02/07 08:47:21] <mt> And they'll code for you
+[2016/02/07 08:47:29] <mt> or whatever
+[2016/02/07 08:47:38] <Hume2> Well…
+[2016/02/07 08:48:26] <mt> ping leyyin - do you want to tell us more about GSoC?
