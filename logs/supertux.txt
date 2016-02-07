@@ -3069,3 +3069,6 @@
 [2016/02/07 14:42:30] <mt> if so, try to make it work with the upstream branch of our tinygettext fork
 [2016/02/07 14:42:45] <mt> "external/tinygettext: update submodule" is useless, I guess
 [2016/02/07 14:43:03] <mt> (feel free to revert that one then)
+[2016/02/07 14:46:38] @ alket_ is now known as alket
+[2016/02/07 14:47:07] <pentagon> [10supertux] 07brmbrmcar commented on issue 09#362: Bug with moving tilemaps 13https://git.io/vg8HR
+[2016/02/07 14:47:55] <Tobbi> Okay...
