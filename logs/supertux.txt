@@ -3060,3 +3060,6 @@
 [2016/02/07 14:24:49] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vg8AW
 [2016/02/07 14:24:50] <pentagon> [10supertux] 07tobbi 1432f40ed const correctness stuff in yeti_stalactite
 [2016/02/07 14:25:50] <Tobbi> Actually...
+[2016/02/07 14:31:03] <pentagon> [10supertux] 07brmbrmcar commented on issue 09#362: Bug with moving tilemaps 13https://git.io/vg8HR
+[2016/02/07 14:31:33] <Hume2> type:brmbrmerror
+[2016/02/07 14:32:32] <pentagon> [10supertux] 07Hume2 commented on issue 09#362: Bug with moving tilemaps 13https://git.io/vg8HR
