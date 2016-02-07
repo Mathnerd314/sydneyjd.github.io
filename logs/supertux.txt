@@ -2906,3 +2906,10 @@
 [2016/02/07 11:38:24] <mt> well, broken due to that problem
 [2016/02/07 11:38:48] <mt> there's https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/273 and https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/274
 [2016/02/07 11:39:29] <Tobbi> mt: Exactly! That's what I figured out as well, if I remember correctly.
+[2016/02/07 11:40:08] <leyyin> I can't understand anything from the windows log
+[2016/02/07 11:40:16] <Tobbi> hrm...
+[2016/02/07 11:40:25] <leyyin> just a big pile of output....
+[2016/02/07 11:40:49] <Hume2> It sees warnings even in Windows packages.
+[2016/02/07 11:43:37] <Hume2> Don't you know anything about this by a chance? https://github.com/SuperTux/supertux/pull/359
+[2016/02/07 11:43:54] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vg8D6
+[2016/02/07 11:43:57] <pentagon> [10supertux] 07tobbi 14b0ca66a Scriptable particle system: particle system's enabled property is now scriptable
