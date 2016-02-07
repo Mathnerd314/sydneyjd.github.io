@@ -3091,3 +3091,10 @@
 [2016/02/07 15:47:30] <sydney_untangle> Man, i wish people would stick to their word...
 [2016/02/07 15:48:56] @ swift110 joined channel #supertux
 [2016/02/07 15:49:56] @ Quit: lumidify: Ping timeout: 245 seconds
+[2016/02/07 15:50:38] <Tobbi> sydney_untangle: Who are you referring to?
+[2016/02/07 15:53:24] <sydney_untangle> Tobbi: Im trying to sell a car, and people keep saying they are going to stop in and buy it, and no one has...
+[2016/02/07 15:53:31] <Tobbi> well...
+[2016/02/07 15:53:35] <pentagon> [10supertux] Status for commit Ship dirent.h with tinygettext by 07Tobias Markus: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/367
+[2016/02/07 15:53:48] <Tobbi> mt: ^^
+[2016/02/07 15:54:01] @ Quit: swift110: Changing host
+[2016/02/07 15:54:01] @ swift110 joined channel #supertux
