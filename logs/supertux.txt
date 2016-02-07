@@ -2854,3 +2854,16 @@
 [2016/02/07 11:18:40] <mt> we should fix the windows build
 [2016/02/07 11:18:51] <mt> because I think there's many people using Windows
 [2016/02/07 11:19:55] <Tobbi> mt: It's got something to do with an include file that is missing for some reason.
+[2016/02/07 11:20:16] <mt> can we easily disable tinygettext?
+[2016/02/07 11:20:29] <Tobbi> I am not sure.
+[2016/02/07 11:20:31] <mt> so that we have a working, english-only build?
+[2016/02/07 11:20:40] <Tobbi> I don't think we can.
+[2016/02/07 11:20:57] <mt> would possibly need a fallback _() call that just returns the given arguments
+[2016/02/07 11:21:17] <mt> and those called in the language menu
+[2016/02/07 11:23:16] <Tobbi> yup.
+[2016/02/07 11:23:35] <mt> let's debug appveyor
+[2016/02/07 11:23:46] <mt> since when has this been happening? (what commit)
+[2016/02/07 11:24:12] <Hume2> It's a longer time.
+[2016/02/07 11:24:51] <mt> SYNOPSIS
+[2016/02/07 11:24:54] <mt>        #include <dirent.h>
+[2016/02/07 11:24:56] <mt> haha
