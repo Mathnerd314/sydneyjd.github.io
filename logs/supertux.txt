@@ -3177,3 +3177,6 @@
 [2016/02/07 16:26:58] <Tobbi> oh!
 [2016/02/07 16:27:10] <Tobbi> We're back at green.
 [2016/02/07 16:39:52] <pentagon> [10supertux] 07tobbi commented on issue 09#346: Fix tiles with images larger than 32x32px not being visible 13https://git.io/vz9EZ
+[2016/02/07 16:40:45] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vg4tt
+[2016/02/07 16:40:46] <pentagon> [10supertux] 07tobbi 1420a3b8b Revert "Fix tiles with images larger than 32x32px not being visible (Fixes #317)"
+[2016/02/07 16:41:17] <pentagon> [10supertux] 07tobbi commented on issue 09#317: Igloo becomes invisible when Tux is a couple of tiles below it 13https://git.io/vuegt
