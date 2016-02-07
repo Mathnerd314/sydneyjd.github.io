@@ -2688,3 +2688,4 @@
 [2016/02/07 09:55:00] <Hume2> being back in about 30 minutes.
 [2016/02/07 09:55:03] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
 [2016/02/07 10:02:34] @ lumidify joined channel #supertux
+[2016/02/07 10:09:07] <pentagon> [10supertux] Status for commit Fix tiles with images larger than 32x32px not being visible (Fixes #317) by 07MiroslavR: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/107592144
