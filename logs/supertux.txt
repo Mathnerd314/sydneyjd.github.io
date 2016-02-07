@@ -2696,3 +2696,21 @@
 [2016/02/07 10:28:16] <Tobbi> Let's wait for hume...
 [2016/02/07 10:29:28] <pentagon> [10supertux] 07tobbi unlabeled pull request 09#346: Fix tiles with images larger than 32x32px not being visible 13https://git.io/vz9EZ
 [2016/02/07 10:39:01] @ Mathnerd314 joined channel #supertux
+[2016/02/07 10:41:34] @ Hume2 joined channel #supertux
+[2016/02/07 10:41:35] @ Mode +v Hume2 by ChanServ
+[2016/02/07 10:41:45] <Hume2> Well, it was a bit more.
+[2016/02/07 10:41:50] <Tobbi> No problem.
+[2016/02/07 10:42:00] <Tobbi> Who wants to participate_
+[2016/02/07 10:42:02] <Tobbi> ?
+[2016/02/07 10:42:08] <Tobbi> I mean: In this discussion...
+[2016/02/07 10:42:10] <Hume2> I told you to not wait for me.
+[2016/02/07 10:42:13] <Hume2> OK
+[2016/02/07 10:42:14] <Tobbi> I know.
+[2016/02/07 10:43:27] <Hume2> So if anyone wants to be a mentor, then please don't behave like Bernd das Brot.
+[2016/02/07 10:43:46] <Hume2> In that case tell someone else to do it instead.
+[2016/02/07 10:44:23] <Tobbi> >D
+[2016/02/07 10:44:24] <Tobbi> :D
+[2016/02/07 10:44:41] <Tobbi> Hume2: You know Bernd das Brot? :D Was I the one who introduced you to that one?
+[2016/02/07 10:44:49] <Hume2> Yes, indeed.
+[2016/02/07 10:44:52] <Tobbi> :D
+[2016/02/07 10:44:59] <Tobbi> I am not sure if I can mentor.
