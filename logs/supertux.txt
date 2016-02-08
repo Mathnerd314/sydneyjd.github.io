@@ -3389,3 +3389,21 @@
 [2016/02/08 11:14:47] <ElementW> PSA: the current repo clone size is 320.73 MiB
 [2016/02/08 11:14:48] <uwjesq> Tobbi: I still think it is a better option than keep the main repository broken.
 [2016/02/08 11:14:51] <mt> Tobbi: (these people told us they've been rewriting the entire history of their project to remove their data dir)
+[2016/02/08 11:15:03] <uwjesq> Tobbi: But I am speaking for myself.
+[2016/02/08 11:15:04] <Tobbi> mt: Ouch, that's not a good solution.
+[2016/02/08 11:15:20] <Tobbi> Actually, didn't we want to talk about GSoC?
+[2016/02/08 11:15:28] @ uwjesq left channel #supertux ()
+[2016/02/08 11:15:37] <mt> ElementW: the size of my clone (`du -h --total`) is 490 MB, didn't run git-gc recently
+[2016/02/08 11:16:07] <mt> Tobbi: 17:01:22 <+mt> 30 minutes ago I couldn't sign up as an org
+[2016/02/08 11:16:20] <Tobbi> mt: As an org for GSOC?
+[2016/02/08 11:16:23] <mt> yes
+[2016/02/08 11:16:40] <mt> https://summerofcode.withgoogle.com/get-started/ if you want to try
+[2016/02/08 11:16:50] <Tobbi> oh
+[2016/02/08 11:17:02] <Tobbi> unless...
+[2016/02/08 11:18:36] <Tobbi> Hrm...
+[2016/02/08 11:19:10] <Tobbi> mt: Can I actually apply as a student for GSoC and work on SuperTux? :P
+[2016/02/08 11:19:24] <Tobbi> They'd never find out :D
+[2016/02/08 11:19:29] <Hume2> It's broken!
+[2016/02/08 11:19:43] <Tobbi> Morning has broken, like the first morning.
+[2016/02/08 11:19:54] <mt> Tobbi: Well, when supertux gets accepted
+[2016/02/08 11:20:00] <Tobbi> mt: *if
