@@ -3296,3 +3296,21 @@
 [2016/02/08 10:44:18] <ElementW> So I wanted to ask
 [2016/02/08 10:44:37] <ElementW> has anyone worked on a GL(ES) 2.0 renderer for ST so far?
 [2016/02/08 10:44:55] @ uwjesq joined channel #supertux
+[2016/02/08 10:45:16] <sydney_untangle> Hello uwjesq, welcome to the channel.
+[2016/02/08 10:45:26] <uwjesq> sydney_untangle: Hello
+[2016/02/08 10:45:39] <uwjesq> How are you doing?
+[2016/02/08 10:46:11] <mt> ElementW: Until just right now I didn't know what that is so I guess no
+[2016/02/08 10:46:14] <sydney_untangle> uwjesq: Good, you?
+[2016/02/08 10:46:37] <mt> /* contributions are always welcome */
+[2016/02/08 10:46:40] <uwjesq> sydney_untangle: Great.
+[2016/02/08 10:46:55] <ElementW> Prepare for PR impact someday then :D
+[2016/02/08 10:47:09] @ lumidify joined channel #supertux
+[2016/02/08 10:47:09] @ Quit: lumidify: Changing host
+[2016/02/08 10:47:09] @ lumidify joined channel #supertux
+[2016/02/08 10:47:15] <mt> out of curiosity, how did you find this channel?
+[2016/02/08 10:48:02] <ElementW> DDG "supertux" -> github -> wiki -> contact
+[2016/02/08 10:48:09] <ElementW> Also common sense for FLOSS projects.
+[2016/02/08 10:48:45] <mt> and how did you find supertux?
+[2016/02/08 10:49:12] <ElementW> Knew about it long ago, forgot, go to university in the meantime, friend plays it for the lulz
+[2016/02/08 10:49:27] <ElementW> That's the story so far.
+[2016/02/08 10:49:51] <mt> speaking of university: you might be interested in the fact that we're considering applying as a GSoC mentoring organization this year
