@@ -3269,3 +3269,5 @@
 [2016/02/08 09:43:04] @ Mathnerd314 joined channel #supertux
 [2016/02/08 09:59:25] @ Tobbi joined channel #supertux
 [2016/02/08 09:59:25] @ Mode +v Tobbi by ChanServ
+[2016/02/08 10:15:34] @ lumidify joined channel #supertux
+[2016/02/08 10:19:55] @ Quit: lumidify: Ping timeout: 240 seconds
