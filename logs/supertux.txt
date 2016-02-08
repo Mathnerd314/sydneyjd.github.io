@@ -3354,3 +3354,11 @@
 [2016/02/08 10:59:52] <mt> uwjesq: I realize it shouldn't have affected the build system
 [2016/02/08 10:59:55] <ElementW> Hi Hume2
 [2016/02/08 10:59:57] <mt> But I don't know anymore
+[2016/02/08 11:00:03] <ElementW> mt: IIRC it didn't
+[2016/02/08 11:00:07] <ElementW> I was in charge of doing it
+[2016/02/08 11:00:13] <ElementW> and nothing was broken
+[2016/02/08 11:00:31] <mt> also, rewriting the history that far back is something I don't want
+[2016/02/08 11:00:38] <Hume2> Excuse me please now, I should eat something.
+[2016/02/08 11:00:54] <Hume2> I didn't plan that, discuss without me.
+[2016/02/08 11:01:10] <mt> Hume2: I'm not sure we'll talk about GSoC now anyway
+[2016/02/08 11:01:23] <mt> 30 minutes ago I couldn't sign up as an org
