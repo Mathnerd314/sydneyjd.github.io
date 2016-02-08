@@ -3275,3 +3275,5 @@
 [2016/02/08 10:29:03] <Tobbi> sydney_untangle: Oh, yes.
 [2016/02/08 10:29:10] <Tobbi> I'd almost forgotten.
 [2016/02/08 10:29:32] <Tobbi> phew, I need a break.
+[2016/02/08 10:31:35] <sydney_untangle> Heh.
+[2016/02/08 10:33:56] <pentagon> [10supertux] 07MiroslavR opened pull request 09#363: Fix assertion failures introduced by PR #346 13https://git.io/vgBNW
