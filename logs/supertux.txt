@@ -3894,3 +3894,22 @@
 [2016/02/08 13:44:03] <ElementW> mt: officially no BSD support yes, but it's still fairly portable
 [2016/02/08 13:44:24] <ElementW> Wayland itself only relies on POSIX shm and UNIX sockets
 [2016/02/08 13:44:28] <mt> I've seen in 2013 there was some patches, but they weren't tested apparently
+[2016/02/08 13:45:26] <Tobbi> What does Canonical have against Wayland?
+[2016/02/08 13:45:31] <mt> Well, if it's not systemd-like: 'We're not interested in *BSD stuff even if you write it for us' it's okay. But I don't know much about Wayland.
+[2016/02/08 13:46:03] <mt> Canonical also disliked systemd and used upstart until Debian shipped systemd
+[2016/02/08 13:46:15] <mt> Canonical dislikes everything
+[2016/02/08 13:46:23] <Tobbi> *sigh*
+[2016/02/08 13:46:39] @ brmbrmca1 is now known as brmbrmcar
+[2016/02/08 13:46:43] <mt> (also GNOME and Unity)
+[2016/02/08 13:47:10] <ElementW> mt: Wayland's intent is to kill all the legacy that X is and bears
+[2016/02/08 13:47:22] <ElementW> That includes the many dependencies on, today, Linux
+[2016/02/08 13:47:37] <mt> Well, would they accept patches to make it support *BSD?
+[2016/02/08 13:48:09] <ElementW> depends on who is "they"
+[2016/02/08 13:48:14] <mt> Wayland
+[2016/02/08 13:48:19] <ElementW> Wayland is a (non-networked) protocl
+[2016/02/08 13:48:20] <ElementW> procol
+[2016/02/08 13:48:23] <ElementW> no more no less
+[2016/02/08 13:48:32] <mt> The team writing the reference implementation
+[2016/02/08 13:48:44] <ElementW> then you're talking about the Weston guys
+[2016/02/08 13:49:29] <ElementW> But if you're ready to make patches and test them for *BSD
+[2016/02/08 13:49:37] <ElementW> I don't see why they'll reject them
