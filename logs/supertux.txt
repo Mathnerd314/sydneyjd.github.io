@@ -3446,3 +3446,24 @@
 [2016/02/08 11:29:39] <Tobbi> leyyin: We both know I could've gotten that job at Google if I really put effort into it... :P
 [2016/02/08 11:29:47] <Tobbi> Kabel Badenwuerttemberg, oh mein Gott.
 [2016/02/08 11:29:51] <uwjesq> The new videos look great.
+[2016/02/08 11:30:11] <Tobbi> :P
+[2016/02/08 11:30:57] <Hume2> Shall we discuss then?
+[2016/02/08 11:31:11] <Hume2> When we know that it will be opened in 20:00?
+[2016/02/08 11:31:19] <Hume2> *think
+[2016/02/08 11:31:23] @ uwjesq left channel #supertux ()
+[2016/02/08 11:31:31] <mt> Hume2: did someone in #gsoc tell you?
+[2016/02/08 11:31:45] <Hume2> mt: He told it to Tobbi.
+[2016/02/08 11:31:53] <mt> well
+[2016/02/08 11:32:09] <Hume2> He said 19:00 UTC.
+[2016/02/08 11:32:12] <mt> okay
+[2016/02/08 11:32:22] <mt> sydney_untangle: can you be there 19:00 UTC?
+[2016/02/08 11:32:35] <Tobbi> ( in 2.5 hours )
+[2016/02/08 11:32:40] <leyyin> he is busy making MERICA GREAT AGAIN
+[2016/02/08 11:32:43] * leyyin goes away
+[2016/02/08 11:33:04] <Hume2> So we'll discuss in 20:00, not before that, right?
+[2016/02/08 11:33:06] <Tobbi> leyyin: Stop. The only one who's busy making MERICA GREAT is Donald Trump. And we both know that.
+[2016/02/08 11:33:09] * Tobbi runs..
+[2016/02/08 11:34:43] <Hume2> And Windows.
+[2016/02/08 11:34:44] <mt> Tobbi: did you know that Trump's grandparents emigrated from Germany?
+[2016/02/08 11:34:46] * Hume2 runs
+[2016/02/08 11:34:52] @ alket joined channel #supertux
