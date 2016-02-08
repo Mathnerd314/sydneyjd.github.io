@@ -3242,3 +3242,5 @@
 [2016/02/08 02:03:31] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/vg4i1
 [2016/02/08 02:03:34] <pentagon> [10supertux] 07Hume2 14f409fad Reduced size of some Bonus Island 1 levels
 [2016/02/08 02:26:31] <pentagon> [10supertux] 07brmbrmcar commented on issue 09#362: Bug with moving tilemaps 13https://git.io/vg8HR
+[2016/02/08 02:38:12] <mt> at least appveyor doesn't complain now
+[2016/02/08 02:38:34] <mt> but why did it work without dirent.h before?
