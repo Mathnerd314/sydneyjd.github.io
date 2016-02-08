@@ -3725,3 +3725,23 @@
 [2016/02/08 12:16:08] <Tobbi> hmm...
 [2016/02/08 12:16:09] <Tobbi> true
 [2016/02/08 12:18:44] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/02/08 12:20:11] <sydney_untangle> leyyin: netflix in USA = crap.
+[2016/02/08 12:20:26] @ Karkus joined channel #supertux
+[2016/02/08 12:20:26] @ Mode +v Karkus by ChanServ
+[2016/02/08 12:20:51] <sydney_untangle> Ive used it a couple times...
+[2016/02/08 12:21:13] <sydney_untangle> Unless they fixed a bunch of stuff and added a bunch more titles in the past year...
+[2016/02/08 12:21:19] <sydney_untangle> Welcome Karkus.
+[2016/02/08 12:21:25] <Tobbi> Hello Karkus.
+[2016/02/08 12:21:27] <Tobbi> You're on time.
+[2016/02/08 12:21:29] <Tobbi> actually...
+[2016/02/08 12:21:34] <Karkus> Hello, Tobbi, sydney_untangle
+[2016/02/08 12:21:44] <Tobbi> Karkus: So, we were thinking about applying for GSoC
+[2016/02/08 12:21:55] <Tobbi> Applications open in 1 hour and 30 minutes approx.
+[2016/02/08 12:22:10] <Karkus> Tobbi: Google Summer of Code?
+[2016/02/08 12:22:15] <Tobbi> Karkus: Correct.
+[2016/02/08 12:22:35] <Karkus> Tobbi: What would that involve?
+[2016/02/08 12:22:58] <Tobbi> Karkus: Uhm, we need projects for the students to work on, we'd need to write evaluations...
+[2016/02/08 12:23:20] <Tobbi> Anything else...Uh?
+[2016/02/08 12:23:27] <Tobbi> mt: Anything else we need to do?
+[2016/02/08 12:24:02] <sydney_untangle> mt: A couple days ago i was talking to a friend, and he was trying to tell me that even though this certian company says in their privacy policy that they can do pretty much what they want if you install their program, that they won't do anything at all...
+[2016/02/08 12:24:27] <sydney_untangle> That was quite the convo, to say the least.
