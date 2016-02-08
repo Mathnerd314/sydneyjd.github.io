@@ -3407,3 +3407,20 @@
 [2016/02/08 11:19:43] <Tobbi> Morning has broken, like the first morning.
 [2016/02/08 11:19:54] <mt> Tobbi: Well, when supertux gets accepted
 [2016/02/08 11:20:00] <Tobbi> mt: *if
+[2016/02/08 11:20:57] <Hume2> I hope that it's a Google issue and will get fixed shortly.
+[2016/02/08 11:21:13] <Tobbi> mt: So, we reschedule the meeting or what do we do?
+[2016/02/08 11:22:21] <Tobbi> I wonder why I am still a module owner / peer of Mozilla stuff...
+[2016/02/08 11:22:23] <Tobbi> I shouldn't be.
+[2016/02/08 11:22:58] <mt> https://summerofcode.withgoogle.com/org-signup/
+[2016/02/08 11:23:03] <mt> found in the source code
+[2016/02/08 11:23:23] <Tobbi> Good.
+[2016/02/08 11:23:36] <Tobbi> mt: So, do you register or shall I?
+[2016/02/08 11:23:48] <sydney_untangle> None of you have gotten anywhere?
+[2016/02/08 11:23:48] <mt> you
+[2016/02/08 11:23:59] <Tobbi> fine...
+[2016/02/08 11:24:32] <Tobbi> Damn.
+[2016/02/08 11:24:36] <Tobbi> I'm getting a 403 error.
+[2016/02/08 11:24:39] <Tobbi> Let's try again.
+[2016/02/08 11:24:42] <Hume2> For me it lagged.
+[2016/02/08 11:24:52] <Hume2> I was just curious.
+[2016/02/08 11:24:59] <sydney_untangle> Hrm.
