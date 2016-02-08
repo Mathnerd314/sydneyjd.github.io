@@ -3835,3 +3835,7 @@
 [2016/02/08 13:24:29] <Tobbi> /kick brmbrmca1 Sorry, this is a serious discussion
 [2016/02/08 13:24:58] <pentagon> [10wiki] 07maxteufel pushed 1 commit to 09master 13https://git.io/vgR6S
 [2016/02/08 13:25:00] <leyyin> "serious"
+[2016/02/08 13:25:02] <pentagon> [10wiki] 07maxteufel 1453e8a64 New GSoC 2016 Ideas page
+[2016/02/08 13:25:05] <pentagon> [10supertux] 07maxteufel created wiki page 09GSoC 2016 Ideas 13https://git.io/vgR67
+[2016/02/08 13:26:09] <Tobbi> leyyin: Every discussion is serious when brmbrmcar is present.
+[2016/02/08 13:28:59] <Tobbi> mt: So, what ideas did we have?
