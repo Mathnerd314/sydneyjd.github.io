@@ -3566,3 +3566,33 @@
 [2016/02/08 11:49:24] <sydney_untangle> Tobbi: So what, its still a life, if they want to commit suicide later in life thats their choice, but when they are a baby...
 [2016/02/08 11:49:34] <sydney_untangle> Tobbi leyyin YES!
 [2016/02/08 11:49:55] <leyyin> you are contradicting yourself
+[2016/02/08 11:50:05] <leyyin> discussion ends here for me
+[2016/02/08 11:50:10] <Tobbi> sydney_untangle: At which point does life start for you. I mean: Ovum and sperm cells were alive before that...
+[2016/02/08 11:50:22] <sydney_untangle> We should ban TVs and make everyone register TVs because they kill more people by falling that guns do...
+[2016/02/08 11:50:33] <Tobbi> *sigh*
+[2016/02/08 11:50:43] <Tobbi> And, yes, this time: *sigh* is appropriate.
+[2016/02/08 11:50:43] <sydney_untangle> Tobbi: Its true though.
+[2016/02/08 11:50:57] <Tobbi> Can this get merged? https://github.com/SuperTux/supertux/pull/363
+[2016/02/08 11:51:02] <Tobbi> Can anyone test this?
+[2016/02/08 11:51:29] * sydney_untangle is thinking...
+[2016/02/08 11:51:33] <Tobbi> Okay, since no one volunteers, I will...
+[2016/02/08 11:51:56] <leyyin> sydney_untangle, https://youtu.be/vZijLQGH1v0 :P
+[2016/02/08 11:51:59] <leyyin> kinda NSFW
+[2016/02/08 11:52:13] <sydney_untangle> Tobbi: I consider it to be a child at conception...
+[2016/02/08 11:52:21] <sydney_untangle> leyyin: No youtube videos.
+[2016/02/08 11:52:44] <sydney_untangle> leyyin: Haven't i told you i don't like google as it is, and you are still forcing youtube upon me.
+[2016/02/08 11:52:45] <Tobbi> sydney_untangle: What makes the connection of sperm and ovum so different than the parts alone.
+[2016/02/08 11:52:52] <Tobbi> ?
+[2016/02/08 11:53:17] <leyyin> sydney_untangle, I do not care really :P
+[2016/02/08 11:53:24] <mt> oh my god the pro-life idiots
+[2016/02/08 11:53:39] <leyyin> mt, heathen :P
+[2016/02/08 11:53:42] <Tobbi> :D
+[2016/02/08 11:53:45] <Tobbi> haha...
+[2016/02/08 11:53:45] <sydney_untangle> Good grief, this is going no where...
+[2016/02/08 11:53:53] <sydney_untangle> mt: Thanks for calling me an idiot.
+[2016/02/08 11:54:00] <Tobbi> sydney_untangle: I just asked you a question...Answer it?
+[2016/02/08 11:54:23] <sydney_untangle> Tobbi: No, because we have been over this before.
+[2016/02/08 11:54:32] <Tobbi> sydney_untangle: *sigh* Okay, okay.
+[2016/02/08 11:54:48] <leyyin> no one will change their minds on this topic
+[2016/02/08 11:54:50] <leyyin> soo move along
+[2016/02/08 11:55:00] <Tobbi> leyyin: It's the same with the refugee crisis...
