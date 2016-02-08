@@ -4090,3 +4090,6 @@
 [2016/02/08 16:14:22] @ Quit: claymore2: Quit: Leaving
 [2016/02/08 16:25:14] <Tobbi> never mind this.
 [2016/02/08 16:30:24] <Tobbi> We can continue with the application tomorrow.
+[2016/02/08 16:43:47] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/08 16:44:29] @ Karkus joined channel #supertux
+[2016/02/08 16:44:29] @ Mode +v Karkus by ChanServ
