@@ -3967,3 +3967,32 @@
 [2016/02/08 14:03:38] <mt> That stipend for the mentor summit is kinda useless for people who live in the SF Bay area (if Google's campus is referring to that in Mountain View, CA, US)
 [2016/02/08 14:03:43] <mt> just "SuperTux"
 [2016/02/08 14:03:45] <Tobbi> ok
+[2016/02/08 14:05:19] <Tobbi> OKay, now...
+[2016/02/08 14:05:27] <Tobbi> http://screencast.com/t/6VbHfuyeX3E
+[2016/02/08 14:05:31] <Tobbi> Guys...?
+[2016/02/08 14:06:02] <Tobbi> mt: ^^
+[2016/02/08 14:06:18] <mt> last question: "No"
+[2016/02/08 14:06:41] <Tobbi> I know that.
+[2016/02/08 14:06:51] @ Hume2 joined channel #supertux
+[2016/02/08 14:06:52] @ Mode +v Hume2 by ChanServ
+[2016/02/08 14:07:02] <Hume2> I'm here.
+[2016/02/08 14:07:06] <mt> Hume2: 20:05:27 <+Tobbi> http://screencast.com/t/6VbHfuyeX3E
+[2016/02/08 14:07:26] <Tobbi> I put down 1-5 members...
+[2016/02/08 14:07:31] <mt> Tobbi: are keywords enough or do you want us to write 1000 words of blablabla (or is that 1 characters)
+[2016/02/08 14:07:33] <Tobbi> Because the other one would be 5-10 members.
+[2016/02/08 14:07:39] <mt> s/1 /1000 /
+[2016/02/08 14:07:39] <red_bot> mt meant: "Tobbi: are keywords enough or do you want us to write 1000 words of blablabla (or is that 1000 characters)"
+[2016/02/08 14:07:44] <Tobbi> I think writing a text would be great.
+[2016/02/08 14:08:09] <mt> actually, 1000 words seems a bit too much, right?
+[2016/02/08 14:08:13] <Tobbi> I am not sure if I would be a good member...
+[2016/02/08 14:08:18] <Tobbi> Yes, 1000 words is excessive.
+[2016/02/08 14:08:25] <Tobbi> s/member/mentor/
+[2016/02/08 14:08:25] <red_bot> Tobbi: You did something wrong... Try s/you/me/ or tell me "help sed"
+[2016/02/08 14:08:29] <Tobbi> ffs.
+[2016/02/08 14:08:36] <Tobbi> I am not sure if I would be a good mentor.
+[2016/02/08 14:09:09] <Hume2> So I could be a mentor voluntarily.
+[2016/02/08 14:09:16] <Tobbi> Hume2: Oh, sure you could.
+[2016/02/08 14:09:41] <Tobbi> mt: It's 1000 characters :D
+[2016/02/08 14:09:44] <Hume2> Is it like 1000 chars maximum or minimum?
+[2016/02/08 14:09:49] <Tobbi> maximum.
+[2016/02/08 14:09:54] <Hume2> At least.
