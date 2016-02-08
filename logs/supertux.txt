@@ -3224,3 +3224,4 @@
 [2016/02/07 20:50:01] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/07 20:50:06] @ Quit: swift110: Changing host
 [2016/02/07 20:50:06] @ swift110 joined channel #supertux
+[2016/02/07 21:04:14] @ Quit: swift110: Remote host closed the connection
