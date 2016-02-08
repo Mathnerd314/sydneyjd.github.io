@@ -3232,3 +3232,4 @@
 [2016/02/07 23:38:47] @ Quit: tux|dude: Ping timeout: 276 seconds
 [2016/02/08 01:25:26] @ stewboy joined channel #supertux
 [2016/02/08 01:28:46] @ Quit: jeezy: Read error: Connection reset by peer
+[2016/02/08 01:39:11] <pentagon> [10supertux] 07Hume2 commented on issue 09#362: Bug with moving tilemaps 13https://git.io/vg8HR
