@@ -3362,3 +3362,10 @@
 [2016/02/08 11:00:54] <Hume2> I didn't plan that, discuss without me.
 [2016/02/08 11:01:10] <mt> Hume2: I'm not sure we'll talk about GSoC now anyway
 [2016/02/08 11:01:23] <mt> 30 minutes ago I couldn't sign up as an org
+[2016/02/08 11:08:51] <mt> https://github.com/SuperTux/data/issues/2 is the problem why the change was reverted. However, since the data repo has been deleted, the issue isn't there anymore
+[2016/02/08 11:09:07] <mt> ElementW, uwjesq: ^
+[2016/02/08 11:09:12] <ElementW> saw that
+[2016/02/08 11:09:23] <ElementW> 288 MiB and counting more
+[2016/02/08 11:09:23] <mt> you might want to ask Tobbi when he's back
+[2016/02/08 11:09:50] @ Tobbi joined channel #supertux
+[2016/02/08 11:09:50] @ Mode +v Tobbi by ChanServ
