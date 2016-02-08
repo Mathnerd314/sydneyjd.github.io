@@ -3839,3 +3839,7 @@
 [2016/02/08 13:25:05] <pentagon> [10supertux] 07maxteufel created wiki page 09GSoC 2016 Ideas 13https://git.io/vgR67
 [2016/02/08 13:26:09] <Tobbi> leyyin: Every discussion is serious when brmbrmcar is present.
 [2016/02/08 13:28:59] <Tobbi> mt: So, what ideas did we have?
+[2016/02/08 13:32:11] <mt> multiplayer
+[2016/02/08 13:32:38] <Tobbi> Okay...
+[2016/02/08 13:32:51] <mt> font improvements (TTF, ...)
+[2016/02/08 13:34:45] <mt> Earlier today ElementW asked if OpenGL ES was supported. I don't think it is, so that could be a project too.
