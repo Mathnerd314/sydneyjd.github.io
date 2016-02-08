@@ -3682,3 +3682,37 @@
 [2016/02/08 12:09:52] <leyyin> the others, linux, mac are in the range 100-200 ratio
 [2016/02/08 12:09:54] <Tobbi> high downstream != high upstream.
 [2016/02/08 12:09:58] <sydney_untangle> mt: What a waste.
+[2016/02/08 12:10:02] <mt> Tobbi: they have both
+[2016/02/08 12:10:05] <Tobbi> ok.
+[2016/02/08 12:10:26] <sydney_untangle> mt: are they trying to DDoS someone?
+[2016/02/08 12:10:27] <Tobbi> Guys, do we want this? https://github.com/SuperTux/supertux/issues/349
+[2016/02/08 12:10:33] <mt> sydney_untangle: no
+[2016/02/08 12:10:47] <mt> they just wanted to see if/when cloudflare blocks them
+[2016/02/08 12:10:55] * sydney_untangle looks back at his measly download speeds...
+[2016/02/08 12:11:00] <leyyin> sucks to live in Germany :/
+[2016/02/08 12:11:00] <mt> some employees apparently told them they could continue
+[2016/02/08 12:11:03] <leyyin> torrents are my life
+[2016/02/08 12:11:17] <mt> but then the website serving the content got blocked
+[2016/02/08 12:11:57] <lumidify> I don't need illegal torrents - I use FLOSS!!!
+[2016/02/08 12:12:00] <sydney_untangle> leyyin: If i can legally download a file as a torrent, i will, thats the way i view it. I think seeding is cool.
+[2016/02/08 12:12:13] <sydney_untangle> Hehe, same here.
+[2016/02/08 12:12:16] <leyyin> lumidify, FLOSS movie?
+[2016/02/08 12:12:35] <sydney_untangle> WHo watches movies? :p
+[2016/02/08 12:12:37] <leyyin> or FLOSS music?
+[2016/02/08 12:12:37] <lumidify> Programmers don't have a life, so they don't need movies.
+[2016/02/08 12:12:48] <lumidify> *REAL programmers
+[2016/02/08 12:12:53] <mt> You don't have a life then, apparently
+[2016/02/08 12:13:00] * sydney_untangle hasn't watched a movie in a long time...
+[2016/02/08 12:13:04] <leyyin> or books....
+[2016/02/08 12:13:11] * sydney_untangle hasn't looked at a tv in a long time...
+[2016/02/08 12:13:13] <leyyin> freaking DRM amazon, no thanks
+[2016/02/08 12:13:16] * sydney_untangle likes books...
+[2016/02/08 12:13:25] <mt> 162G ~/Videos/
+[2016/02/08 12:13:33] <leyyin> omg :D
+[2016/02/08 12:13:46] <sydney_untangle> leyyin: At $1.29 a song, that is outrageous...
+[2016/02/08 12:14:02] <leyyin> sydney_untangle, especially for eastern european salaries
+[2016/02/08 12:14:09] <leyyin> the prices are not adapted for the local market
+[2016/02/08 12:14:20] <sydney_untangle> And does me buying a song even support the band?
+[2016/02/08 12:14:22] * sydney_untangle nods...
+[2016/02/08 12:14:44] <leyyin> media companies still wonder why people pirate, because pirating is easy than legally doing it
+[2016/02/08 12:14:53] <leyyin> when they make legally doing it more easier, I will do it
