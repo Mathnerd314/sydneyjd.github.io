@@ -3314,3 +3314,22 @@
 [2016/02/08 10:49:12] <ElementW> Knew about it long ago, forgot, go to university in the meantime, friend plays it for the lulz
 [2016/02/08 10:49:27] <ElementW> That's the story so far.
 [2016/02/08 10:49:51] <mt> speaking of university: you might be interested in the fact that we're considering applying as a GSoC mentoring organization this year
+[2016/02/08 10:50:33] <uwjesq> ElementW: This looks much better https://www.youtube.com/watch?v=lvmWz0ou_sc
+[2016/02/08 10:50:59] <ElementW> uwjesq: indeed this is waaaaaaay more up to date
+[2016/02/08 10:51:27] <mt> oh you didn't know about the new stable release?
+[2016/02/08 10:51:47] <ElementW> Not even
+[2016/02/08 10:52:01] <mt> the new release 0.4.0 is quite different compared to 0.1.3
+[2016/02/08 10:52:31] <pentagon> [10supertux] Status for commit Fix tiles with images larger than 32x32px not being visible (Fixes #317) by 07MiroslavR: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/107798411
+[2016/02/08 10:52:44] <ElementW> "Receiving objects:  13% (11549/84593), 77.18 MiB | 207.00 KiB/s "
+[2016/02/08 10:52:49] <mt> http://supertuxproject.org/screenshots.html for screenshots of the different version
+[2016/02/08 10:52:49] <ElementW> Who packs that much in a source repo?
+[2016/02/08 10:53:06] <uwjesq> Oops.
+[2016/02/08 10:53:19] <ElementW> >:D uwjesq
+[2016/02/08 10:53:20] <mt> ElementW: it a) contains all the images and music and b) contains all the change history since 2000
+[2016/02/08 10:53:57] <ElementW> You should've split code and data
+[2016/02/08 10:54:16] <ElementW> So you do a full source clone but only a shallow data clone
+[2016/02/08 10:54:21] <mt> in fact, some months ago we've tried splitting of the data directory
+[2016/02/08 10:54:34] <ElementW> this way you get source history but not always past assets you might not need
+[2016/02/08 10:54:43] <mt> but for some reason, it didn't work out and the change was reverted
+[2016/02/08 10:54:54] <ElementW> uwjesq: Talk about your experience
+[2016/02/08 10:55:00] <ElementW> How I destructed your repo :P
