@@ -3790,3 +3790,12 @@
 [2016/02/08 13:07:28] <Tobbi> Karkus: http://www.google-melange.com/gsoc/projects/list/google/gsoc2015
 [2016/02/08 13:09:09] <Tobbi> Karkus: Actually, people can propose something as well.
 [2016/02/08 13:09:42] <Karkus> Tobbi: http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2015/help_page#1._How_does_a_mentoring_organization
+[2016/02/08 13:10:17] <Tobbi> Oh.
+[2016/02/08 13:10:18] <Tobbi> Ideas list.
+[2016/02/08 13:10:20] <Tobbi> damn.
+[2016/02/08 13:11:16] <Tobbi> Karkus: Okay, so, let's have an etherpad?
+[2016/02/08 13:11:36] <Karkus> Tobbi: K
+[2016/02/08 13:11:56] <Tobbi> mt, sydney_untangle: You there?
+[2016/02/08 13:12:30] <Tobbi> Where did we open one last time?
+[2016/02/08 13:13:48] <Tobbi> We can actually have a Github Wiki thing.
+[2016/02/08 13:14:59] <Karkus> Tobbi: What's a Github wiki thing?
