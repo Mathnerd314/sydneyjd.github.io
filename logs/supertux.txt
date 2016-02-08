@@ -3758,3 +3758,7 @@
 [2016/02/08 12:28:52] <Tobbi> :P
 [2016/02/08 12:28:55] <Tobbi> anyway, be back in a bit.
 [2016/02/08 12:30:12] @ Quit: lumidify: Ping timeout: 248 seconds
+[2016/02/08 12:36:42] <pentagon> [10flexlay] 07Karkus476 commented on issue 09#73: Improve camera 13https://git.io/vglsg
+[2016/02/08 12:37:22] @ Quit: tuxdev_: Ping timeout: 250 seconds
+[2016/02/08 12:38:41] @ uwjesq joined channel #supertux
+[2016/02/08 12:38:59] @ Quit: Tobbi: Remote host closed the connection
