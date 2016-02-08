@@ -4084,3 +4084,5 @@
 [2016/02/08 16:00:30] @ Quit: lumidify: Quit: Leaving
 [2016/02/08 16:00:41] @ Quit: lumidify1: Quit: Leaving
 [2016/02/08 16:04:08] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/08 16:06:48] <Tobbi> Is there ANYONE else here...?
+[2016/02/08 16:07:21] <Tobbi> Someone who can help me with the application, just some more.
