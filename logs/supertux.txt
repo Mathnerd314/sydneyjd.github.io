@@ -3787,3 +3787,6 @@
 [2016/02/08 13:03:03] <Tobbi> We'll have to see that once they are open.
 [2016/02/08 13:03:25] <Karkus> Tobbi: Surely we can look at last years then plan what we're going to put?
 [2016/02/08 13:03:31] <Tobbi> Oh, yeah.
+[2016/02/08 13:07:28] <Tobbi> Karkus: http://www.google-melange.com/gsoc/projects/list/google/gsoc2015
+[2016/02/08 13:09:09] <Tobbi> Karkus: Actually, people can propose something as well.
+[2016/02/08 13:09:42] <Karkus> Tobbi: http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2015/help_page#1._How_does_a_mentoring_organization
