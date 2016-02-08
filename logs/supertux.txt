@@ -4048,3 +4048,5 @@
 [2016/02/08 14:40:19] @ Quit: alket: Disconnected by services
 [2016/02/08 14:40:20] @ alket_ is now known as alket
 [2016/02/08 14:44:58] <pentagon> [10supertux] 07makeamericagreatagain commented on issue 09#43: SuperTux Death sound is too jaring 13https://git.io/v3FpQ
+[2016/02/08 14:45:17] <Tobbi> uh?
+[2016/02/08 14:47:41] <pentagon> [10flexlay] 07MaximeCheramy commented on issue 09#73: Improve camera 13https://git.io/vglsg
