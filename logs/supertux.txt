@@ -4080,3 +4080,4 @@
 [2016/02/08 15:19:22] @ lumidify1 is now known as lumidify
 [2016/02/08 15:19:42] @ lumidify1 joined channel #supertux
 [2016/02/08 15:39:32] @ Quit: ElementW: Ping timeout: 248 seconds
+[2016/02/08 15:42:14] @ Quit: Karkus: Ping timeout: 272 seconds
