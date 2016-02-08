@@ -3333,3 +3333,24 @@
 [2016/02/08 10:54:43] <mt> but for some reason, it didn't work out and the change was reverted
 [2016/02/08 10:54:54] <ElementW> uwjesq: Talk about your experience
 [2016/02/08 10:55:00] <ElementW> How I destructed your repo :P
+[2016/02/08 10:55:06] <uwjesq> mt: What was the problem?
+[2016/02/08 10:55:17] <mt> uwjesq: I don't know
+[2016/02/08 10:55:24] <mt> I think it was related to the build system
+[2016/02/08 10:55:29] <uwjesq> mt: We did the same thing and cloning finaly is fun again.
+[2016/02/08 10:55:44] <uwjesq> mt: How did you try to link the data? By submodules?
+[2016/02/08 10:55:52] <mt> Yeah using a submodule
+[2016/02/08 10:56:59] <ElementW> 132 MiB and counting...
+[2016/02/08 10:57:15] <mt> afc26e0 introduced the change, 59ede11 reverted it
+[2016/02/08 10:57:16] <uwjesq> mt: Submodule is the way to go.
+[2016/02/08 10:58:03] <sydney_untangle> ElementW: It is quite large. IIRC its pushing 200MB.
+[2016/02/08 10:58:09] <uwjesq> mt: The build system should not be affected since to it it makes no difference.
+[2016/02/08 10:58:20] <ElementW> uwjesq and I went full idiot (but effective) and rewrote the whole history so the source repo "data" directory never happened.
+[2016/02/08 10:58:37] <uwjesq> ElementW: Good times.
+[2016/02/08 10:58:50] <uwjesq> mt: We removed binary data from the history, too.
+[2016/02/08 10:59:26] <sydney_untangle> o-O
+[2016/02/08 10:59:39] @ Hume2 joined channel #supertux
+[2016/02/08 10:59:39] @ Mode +v Hume2 by ChanServ
+[2016/02/08 10:59:49] <Hume2> Hello.
+[2016/02/08 10:59:52] <mt> uwjesq: I realize it shouldn't have affected the build system
+[2016/02/08 10:59:55] <ElementW> Hi Hume2
+[2016/02/08 10:59:57] <mt> But I don't know anymore
