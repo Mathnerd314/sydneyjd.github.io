@@ -4050,3 +4050,14 @@
 [2016/02/08 14:44:58] <pentagon> [10supertux] 07makeamericagreatagain commented on issue 09#43: SuperTux Death sound is too jaring 13https://git.io/v3FpQ
 [2016/02/08 14:45:17] <Tobbi> uh?
 [2016/02/08 14:47:41] <pentagon> [10flexlay] 07MaximeCheramy commented on issue 09#73: Improve camera 13https://git.io/vglsg
+[2016/02/08 14:50:26] <mt> Tobbi: did someone actually write a comment?
+[2016/02/08 14:50:33] <pentagon> [10flexlay] 07MaximeCheramy closed issue 09#73: Improve camera 13https://git.io/vglsg
+[2016/02/08 14:50:50] <Tobbi> maxime did.
+[2016/02/08 14:50:52] <Tobbi> actually...
+[2016/02/08 14:50:53] <Tobbi> not sure.
+[2016/02/08 14:51:04] <mt> I mean `makeamericagreatagain`
+[2016/02/08 14:51:14] <mt> can you look in the webhook history?
+[2016/02/08 14:51:41] <Tobbi> let me check.
+[2016/02/08 14:53:51] <Tobbi> mt: http://screencast.com/t/YwmhEsKxAfuv
+[2016/02/08 14:54:42] <mt> wtf
+[2016/02/08 14:54:58] <Hume2> You found an easter egg.
