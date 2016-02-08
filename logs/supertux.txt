@@ -4028,3 +4028,16 @@
 [2016/02/08 14:28:50] <mt> Also, the normal comment <-> doxygen comment rule
 [2016/02/08 14:29:32] <Tobbi> Hume2: Also, re "Wir schließen sie an": This is not the matrix we're talking about here.
 [2016/02/08 14:29:45] <Hume2> I know.
+[2016/02/08 14:30:22] <Tobbi> :P okay...
+[2016/02/08 14:30:24] <mt> I first read something different
+[2016/02/08 14:30:32] <Tobbi> mt: Which is?
+[2016/02/08 14:30:42] <mt> leave out the l
+[2016/02/08 14:30:45] <Tobbi> hah.
+[2016/02/08 14:30:48] <Tobbi> mt: Sounds good...
+[2016/02/08 14:30:50] <Tobbi> :D
+[2016/02/08 14:32:14] @ brmbrmcar left channel #supertux ()
+[2016/02/08 14:32:27] @ Karkus joined channel #supertux
+[2016/02/08 14:32:27] @ Mode +v Karkus by ChanServ
+[2016/02/08 14:32:37] <mt> I'd also like to hear some input from sydney_untangle and Karkus - oh hello :)
+[2016/02/08 14:32:45] <mt> Karkus: https://public.etherpad-mozilla.org/p/GSOC_supertux
+[2016/02/08 14:32:55] <mt> questions we have to answer: http://screencast.com/t/6VbHfuyeX3E
