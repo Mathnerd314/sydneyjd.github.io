@@ -3249,3 +3249,4 @@
 [2016/02/08 02:41:12] <mt> actual verbosity:
 [2016/02/08 02:41:16] <mt> too verbose
 [2016/02/08 02:53:55] @ Quit: tuxdev_: Ping timeout: 240 seconds
+[2016/02/08 03:04:09] @ Quit: lumidify: Ping timeout: 240 seconds
