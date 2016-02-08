@@ -3424,3 +3424,25 @@
 [2016/02/08 11:24:42] <Hume2> For me it lagged.
 [2016/02/08 11:24:52] <Hume2> I was just curious.
 [2016/02/08 11:24:59] <sydney_untangle> Hrm.
+[2016/02/08 11:25:29] <Hume2> I hope that we don't have to contact Google.
+[2016/02/08 11:25:51] <Tobbi> Okay, no matter what I do I am getting a 403 error.
+[2016/02/08 11:26:19] <Tobbi> I tried registering with two different e-mail addresses.
+[2016/02/08 11:26:31] <Tobbi> Hopefully, that doesn't mean I won't be able to register with those again...
+[2016/02/08 11:26:46] <mt> maybe we should wait
+[2016/02/08 11:26:55] <mt> or, iirc, there's #gsoc
+[2016/02/08 11:27:35] <Hume2> mt: Shall we join it?
+[2016/02/08 11:27:49] <mt> dunno
+[2016/02/08 11:27:49] <Tobbi> I just did.
+[2016/02/08 11:27:54] <mt> also https://summerofcode.withgoogle.com/rules/
+[2016/02/08 11:28:17] <leyyin> Tobbi, google does not like you :P
+[2016/02/08 11:28:29] <sydney_untangle> leyyin: I don't liek google. :D
+[2016/02/08 11:28:41] <sydney_untangle> like*
+[2016/02/08 11:28:41] <Hume2> So 20:00.
+[2016/02/08 11:28:47] <lumidify> https://stallman.org/google.html
+[2016/02/08 11:28:52] <Tobbi> leyyin: If they didn't, they wouldn't have sent me that e-mail...
+[2016/02/08 11:29:07] <mt> >Stallman
+[2016/02/08 11:29:26] @ uwjesq joined channel #supertux
+[2016/02/08 11:29:35] <uwjesq> Nice progress.
+[2016/02/08 11:29:39] <Tobbi> leyyin: We both know I could've gotten that job at Google if I really put effort into it... :P
+[2016/02/08 11:29:47] <Tobbi> Kabel Badenwuerttemberg, oh mein Gott.
+[2016/02/08 11:29:51] <uwjesq> The new videos look great.
