@@ -4013,3 +4013,6 @@
 [2016/02/08 14:15:27] <Tobbi> And the other one's probably sydney_untangle
 [2016/02/08 14:15:38] <Tobbi> mt: Because no one else would set the name to "spy"
 [2016/02/08 14:16:56] <Hume2> :DDD
+[2016/02/08 14:20:06] @ Quit: Karkus: Ping timeout: 240 seconds
+[2016/02/08 14:20:54] @ Quit: lumidify: Ping timeout: 250 seconds
+[2016/02/08 14:21:18] <mt> oh wait that's Hume2 writing the German thing
