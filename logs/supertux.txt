@@ -3214,3 +3214,5 @@
 [2016/02/07 19:33:04] @ swift110 joined channel #supertux
 [2016/02/07 19:35:20] @ Quit: swift110: Changing host
 [2016/02/07 19:35:20] @ swift110 joined channel #supertux
+[2016/02/07 20:14:22] <pentagon> [10supertux] Status for commit Merge pull request #359 from const86/master by 07Tobias Markus: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/107668783
+[2016/02/07 20:14:44] <pentagon> [10addons] 07tobbi closed issue 09#5: Update add-ons for 0.4.0 13https://git.io/vg48z
