@@ -3248,3 +3248,4 @@
 [2016/02/08 02:41:06] <mt> that's literally what our appveyor.yml says
 [2016/02/08 02:41:12] <mt> actual verbosity:
 [2016/02/08 02:41:16] <mt> too verbose
+[2016/02/08 02:53:55] @ Quit: tuxdev_: Ping timeout: 240 seconds
