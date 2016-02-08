@@ -3369,3 +3369,23 @@
 [2016/02/08 11:09:23] <mt> you might want to ask Tobbi when he's back
 [2016/02/08 11:09:50] @ Tobbi joined channel #supertux
 [2016/02/08 11:09:50] @ Mode +v Tobbi by ChanServ
+[2016/02/08 11:10:04] <Tobbi> Hey, sorry about that.
+[2016/02/08 11:10:07] <pentagon> [10supertux] Status for commit Fix tiles with images larger than 32x32px not being visible (Fixes #317) by 07MiroslavR: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/372
+[2016/02/08 11:10:21] <mt> Tobbi: why has the data submodule been removed?
+[2016/02/08 11:10:28] <mt> We've been wondering about that right now
+[2016/02/08 11:10:42] <Tobbi> mt: Because someone (I think it was grumbel) claimed that the history won't be kept intact.
+[2016/02/08 11:10:55] <Tobbi> So, since we want that history, it's been revrted.
+[2016/02/08 11:10:59] <uwjesq> ElementW: Big improvments in graphics, sound and animation here https://www.youtube.com/watch?v=nFy2SNA3zVA
+[2016/02/08 11:11:58] <mt> Tobbi: also, re dirent.h: I'd rather make that work without adding dirent.h, as that worked before as well
+[2016/02/08 11:12:00] <Tobbi> Who are ElementW and uwjesq?
+[2016/02/08 11:12:07] <ElementW> Tobbi: new guys
+[2016/02/08 11:12:15] <ElementW> Coming from ##glportal
+[2016/02/08 11:12:21] <Tobbi> mt: I *know*, but in order to get a working windows build, this was necessary...
+[2016/02/08 11:12:31] <Tobbi> Feel free to fix the underlying issue. I don't know how.
+[2016/02/08 11:12:41] <Tobbi> ElementW, uwjesq: Welcome. :)
+[2016/02/08 11:13:24] <uwjesq> Thanks.
+[2016/02/08 11:14:07] <uwjesq> Tobbi: Yes. You ruin your history and have to keep a seperate repository to keep your old tags intact.
+[2016/02/08 11:14:25] <Tobbi> Yeah, so, let's keep it...
+[2016/02/08 11:14:47] <ElementW> PSA: the current repo clone size is 320.73 MiB
+[2016/02/08 11:14:48] <uwjesq> Tobbi: I still think it is a better option than keep the main repository broken.
+[2016/02/08 11:14:51] <mt> Tobbi: (these people told us they've been rewriting the entire history of their project to remove their data dir)
