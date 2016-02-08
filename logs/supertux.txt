@@ -4100,3 +4100,5 @@
 [2016/02/08 17:13:26] @ swift110_ joined channel #supertux
 [2016/02/08 17:13:55] @ Quit: alket: Quit: ?v=Hg_gZRRLHSc
 [2016/02/08 17:14:19] @ alket joined channel #supertux
+[2016/02/08 17:20:06] @ nerdopolis joined channel #supertux
+[2016/02/08 17:20:24] @ Quit: nerdopolis_: Ping timeout: 272 seconds
