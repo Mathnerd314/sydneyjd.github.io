@@ -3996,3 +3996,12 @@
 [2016/02/08 14:09:44] <Hume2> Is it like 1000 chars maximum or minimum?
 [2016/02/08 14:09:49] <Tobbi> maximum.
 [2016/02/08 14:09:54] <Hume2> At least.
+[2016/02/08 14:11:00] <mt> can we have an etherpad for this?
+[2016/02/08 14:11:04] <Hume2> Well, what questions should be filled truly?
+[2016/02/08 14:11:42] <Tobbi> I put down:sure.
+[2016/02/08 14:11:45] <Tobbi> eh, wait.
+[2016/02/08 14:12:17] <Tobbi> Hume2, mt: https://public.etherpad-mozilla.org/p/GSOC_supertux
+[2016/02/08 14:13:11] <Hume2> I'm not good at this.
+[2016/02/08 14:13:40] <Hume2> So if I write anything wrong, feel free to correct it.
+[2016/02/08 14:14:36] <mt> lol who's these unnamed people?
+[2016/02/08 14:14:43] <Tobbi> Spies.
