@@ -3271,3 +3271,7 @@
 [2016/02/08 09:59:25] @ Mode +v Tobbi by ChanServ
 [2016/02/08 10:15:34] @ lumidify joined channel #supertux
 [2016/02/08 10:19:55] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/02/08 10:28:56] <sydney_untangle> Tobbi: Meeting soon?
+[2016/02/08 10:29:03] <Tobbi> sydney_untangle: Oh, yes.
+[2016/02/08 10:29:10] <Tobbi> I'd almost forgotten.
+[2016/02/08 10:29:32] <Tobbi> phew, I need a break.
