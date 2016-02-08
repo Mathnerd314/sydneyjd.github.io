@@ -3913,3 +3913,28 @@
 [2016/02/08 13:48:44] <ElementW> then you're talking about the Weston guys
 [2016/02/08 13:49:29] <ElementW> But if you're ready to make patches and test them for *BSD
 [2016/02/08 13:49:37] <ElementW> I don't see why they'll reject them
+[2016/02/08 13:50:08] <Tobbi> Guys, back to topic...
+[2016/02/08 13:50:12] <mt> some freedesktop.org projects (e.g. systemd) don't seem to want *BSD support
+[2016/02/08 13:50:16] <Tobbi> mt: Is there anything else for GSoC?
+[2016/02/08 13:50:27] <mt> For ideas?
+[2016/02/08 13:50:37] <ElementW> Was gonna say "graphics" but graphics != code
+[2016/02/08 13:50:42] <Tobbi> mt: Yes.
+[2016/02/08 13:50:52] <mt> I guess, as I wrote on the page, we'll let students also propose own ideas
+[2016/02/08 13:50:57] <Tobbi> Sure...
+[2016/02/08 13:51:08] <Tobbi> Just wondering whether there's something we want done. Also, please review my scribblings.
+[2016/02/08 13:51:31] <mt> But no my-idea-is-completely-ridiculous-but-Im-the-best-gsoc-student-that-will-apply ideas
+[2016/02/08 13:52:08] <Tobbi> mt: Maybe to prevent that, I should apply myself :P
+[2016/02/08 13:52:24] <Tobbi> I would get money for being a student and money for being the mentoring organization.
+[2016/02/08 13:52:32] <Tobbi> Also, does Google specifically not say that anywhere?
+[2016/02/08 13:52:44] <Tobbi> I mean: Say that you're not allowed to do that?
+[2016/02/08 13:52:56] <mt> You can't apply as student when you're organization admin or mentor
+[2016/02/08 13:53:11] <Tobbi> hrm.
+[2016/02/08 13:53:13] <Tobbi> damn...
+[2016/02/08 13:53:19] <ElementW> That'd be too easy
+[2016/02/08 13:53:25] <Tobbi> mt: But I could apply for other projects, couldn't I? :P
+[2016/02/08 13:53:32] <mt> I'm not sure
+[2016/02/08 13:53:35] <leper`> wasn't there something about being able to work on it as a student, but you need someone else to mentor?
+[2016/02/08 13:53:36] <Tobbi> oh, okay.
+[2016/02/08 13:53:36] <mt> read the /rules/
+[2016/02/08 13:54:37] @ Quit: lumidify: Quit: Leaving
+[2016/02/08 13:54:51] <mt> https://summerofcode.withgoogle.com/rules/ 6.1.a.iii: "not be an Organization Administrator or Mentor in the Program."
