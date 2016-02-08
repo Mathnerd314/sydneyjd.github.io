@@ -4094,3 +4094,6 @@
 [2016/02/08 16:44:29] @ Karkus joined channel #supertux
 [2016/02/08 16:44:29] @ Mode +v Karkus by ChanServ
 [2016/02/08 16:58:42] @ jesusalva joined channel #supertux
+[2016/02/08 17:05:10] @ Quit: Karkus: Quit: Division By Zero
+[2016/02/08 17:06:54] @ Tobbi joined channel #supertux
+[2016/02/08 17:06:55] @ Mode +v Tobbi by ChanServ
