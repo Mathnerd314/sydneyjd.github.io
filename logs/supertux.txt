@@ -3799,3 +3799,21 @@
 [2016/02/08 13:12:30] <Tobbi> Where did we open one last time?
 [2016/02/08 13:13:48] <Tobbi> We can actually have a Github Wiki thing.
 [2016/02/08 13:14:59] <Karkus> Tobbi: What's a Github wiki thing?
+[2016/02/08 13:15:08] <Tobbi> Karkus: https://github.com/SuperTux/supertux/wiki/_new
+[2016/02/08 13:15:54] <Tobbi> Karkus: https://github.com/SuperTux/supertux/wiki/GSoC-ideas-2016
+[2016/02/08 13:16:01] <pentagon> [10supertux] 07tobbi created wiki page 09GSoC ideas 2016 13https://git.io/vgRVd
+[2016/02/08 13:16:13] <Karkus> Tobbi: Okay
+[2016/02/08 13:16:23] <Tobbi> Not exactly an etherpad...
+[2016/02/08 13:16:25] <Tobbi> but who cares.
+[2016/02/08 13:16:45] <mt> nononono
+[2016/02/08 13:16:53] <mt> don't create a wiki page in the github wiki
+[2016/02/08 13:17:21] <Tobbi> ok
+[2016/02/08 13:17:36] <mt> use https://github.com/supertux/wiki and push to that's origin/master and to https://github.com/SuperTux/supertux.wiki.git
+[2016/02/08 13:17:48] <Tobbi> I'm gonna delete the page then.
+[2016/02/08 13:18:00] <mt> that will also write git history
+[2016/02/08 13:18:08] <mt> it will be overwritten by a force push
+[2016/02/08 13:18:14] <mt> so create the file in the wiki repo
+[2016/02/08 13:18:27] <mt> and also push it to the supertux.wiki repo
+[2016/02/08 13:19:25] <Tobbi> mt: Actually, you can do it.
+[2016/02/08 13:19:50] <mt> so now you deleted it?
+[2016/02/08 13:19:56] <mt> did you have anything on that page?
