@@ -3778,3 +3778,12 @@
 [2016/02/08 12:57:51] <mt> Karkus: do you have any ideas for students?
 [2016/02/08 12:58:04] <mt> I guess it should be kinda challenging, but not too hard
 [2016/02/08 12:59:16] <Karkus> Maybe something to do with scripting? Or the menus (which are a bit ugly atm)?
+[2016/02/08 13:01:31] <Tobbi> Refreshing the GUI is fun.
+[2016/02/08 13:01:41] <Tobbi> or sure sounds like it
+[2016/02/08 13:02:11] <Tobbi> 1 hour until registration opens.
+[2016/02/08 13:02:49] <Karkus> Tobbi: What do we need to have in the application
+[2016/02/08 13:02:51] <Karkus> ?
+[2016/02/08 13:02:55] <Tobbi> Karkus: Not sure yet.
+[2016/02/08 13:03:03] <Tobbi> We'll have to see that once they are open.
+[2016/02/08 13:03:25] <Karkus> Tobbi: Surely we can look at last years then plan what we're going to put?
+[2016/02/08 13:03:31] <Tobbi> Oh, yeah.
