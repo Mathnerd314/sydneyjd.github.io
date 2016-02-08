@@ -4068,3 +4068,6 @@
 [2016/02/08 14:57:10] <Tobbi> eeh, might be leyyin camouflaging as that user.
 [2016/02/08 14:57:39] <mt> might be some github bot just leaving random comments and deleting them
 [2016/02/08 14:57:58] <Tobbi> mt: See comment on the etherpad.
+[2016/02/08 15:14:08] @ lumidify1 joined channel #supertux
+[2016/02/08 15:14:08] @ lumidify joined channel #supertux
+[2016/02/08 15:14:41] @ Quit: ced117: Quit: Quitte
