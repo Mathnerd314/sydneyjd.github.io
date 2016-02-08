@@ -3745,3 +3745,15 @@
 [2016/02/08 12:23:27] <Tobbi> mt: Anything else we need to do?
 [2016/02/08 12:24:02] <sydney_untangle> mt: A couple days ago i was talking to a friend, and he was trying to tell me that even though this certian company says in their privacy policy that they can do pretty much what they want if you install their program, that they won't do anything at all...
 [2016/02/08 12:24:27] <sydney_untangle> That was quite the convo, to say the least.
+[2016/02/08 12:25:03] <sydney_untangle> Tobbi: We need to actually document what needs to be done? ;p we have never done that before. ;p
+[2016/02/08 12:25:21] <Tobbi> sydney_untangle: I think it would make sense. We can have a look once the registrations are open.
+[2016/02/08 12:25:34] <sydney_untangle> Yes, it does make sense
+[2016/02/08 12:25:50] <Tobbi> Let's have a look at what's required...
+[2016/02/08 12:27:47] <Tobbi> Okay, guys, I will go buy some groceries and some guns... and then I'll be back...
+[2016/02/08 12:28:09] <Tobbi> Oh, did I say guns, I meant something completely different...
+[2016/02/08 12:28:10] <Tobbi> :P
+[2016/02/08 12:28:35] <Karkus> Tobbi: You're not in America, are you?
+[2016/02/08 12:28:42] <pentagon> [10supertux] Status for commit Merge pull request #363 from MiroslavR/fix-317 by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/107819985
+[2016/02/08 12:28:48] <Tobbi> Karkus: Not currently, no.
+[2016/02/08 12:28:52] <Tobbi> :P
+[2016/02/08 12:28:55] <Tobbi> anyway, be back in a bit.
