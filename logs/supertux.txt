@@ -3277,3 +3277,10 @@
 [2016/02/08 10:29:32] <Tobbi> phew, I need a break.
 [2016/02/08 10:31:35] <sydney_untangle> Heh.
 [2016/02/08 10:33:56] <pentagon> [10supertux] 07MiroslavR opened pull request 09#363: Fix assertion failures introduced by PR #346 13https://git.io/vgBNW
+[2016/02/08 10:35:13] <pentagon> [10supertux] 07MiroslavR commented on issue 09#346: Fix tiles with images larger than 32x32px not being visible 13https://git.io/vz9EZ
+[2016/02/08 10:37:16] <mt> we'll probably delay the meeting, I still can't click the organization signup buttom
+[2016/02/08 10:38:33] @ ElementW joined channel #supertux
+[2016/02/08 10:38:50] @ uwjesq joined channel #supertux
+[2016/02/08 10:39:00] <uwjesq> Quite a following still.
+[2016/02/08 10:39:13] <uwjesq> Have not expected such a crowd.
+[2016/02/08 10:39:34] @ Quit: Tobbi: Remote host closed the connection
