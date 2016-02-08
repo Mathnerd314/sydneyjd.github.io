@@ -3877,3 +3877,20 @@
 [2016/02/08 13:39:40] <Tobbi> right?
 [2016/02/08 13:39:48] <ElementW> don't know GLBinding
 [2016/02/08 13:39:57] <Tobbi> ElementW: What else is there?
+[2016/02/08 13:40:07] <ElementW> libepoxy
+[2016/02/08 13:40:31] <ElementW> EGL support is what you're aiming for max "portability" here
+[2016/02/08 13:40:31] @ Wuzzy joined channel #supertux
+[2016/02/08 13:40:33] <ElementW> GLX is X only
+[2016/02/08 13:40:39] <ElementW> WGL is windows only
+[2016/02/08 13:40:42] <ElementW> EGL is cross platform
+[2016/02/08 13:40:45] <Tobbi> This is GLbinding https://github.com/cginternals/glbinding
+[2016/02/08 13:41:34] <ElementW> Oh that is pretty cool
+[2016/02/08 13:41:37] <ElementW> sure you can use that
+[2016/02/08 13:42:55] <Tobbi> ElementW: This is not you, is it? https://github.com/SuperTux/supertux/issues/323
+[2016/02/08 13:43:17] <ElementW> Tobbi: nah, but I saw this issue
+[2016/02/08 13:43:19] <mt> Wayland... I like that someone finally wants to replace the decades-old X11 stuff. What annoys me with it is that they don't seem to be willing to add *BSD support :(
+[2016/02/08 13:43:20] <Tobbi> ok.
+[2016/02/08 13:43:51] <Tobbi> oh! I never heard about wayland before.
+[2016/02/08 13:44:03] <ElementW> mt: officially no BSD support yes, but it's still fairly portable
+[2016/02/08 13:44:24] <ElementW> Wayland itself only relies on POSIX shm and UNIX sockets
+[2016/02/08 13:44:28] <mt> I've seen in 2013 there was some patches, but they weren't tested apparently
