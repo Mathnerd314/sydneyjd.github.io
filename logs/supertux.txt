@@ -3843,3 +3843,37 @@
 [2016/02/08 13:32:38] <Tobbi> Okay...
 [2016/02/08 13:32:51] <mt> font improvements (TTF, ...)
 [2016/02/08 13:34:45] <mt> Earlier today ElementW asked if OpenGL ES was supported. I don't think it is, so that could be a project too.
+[2016/02/08 13:35:04] <ElementW> GL(ES) 2.0 especially
+[2016/02/08 13:35:13] <ElementW> Because fixed pipeline is the bane of my existence
+[2016/02/08 13:35:40] <Tobbi> GL(ES)? GL for embedded systems?
+[2016/02/08 13:35:44] <Tobbi> What would that include_
+[2016/02/08 13:35:47] <Tobbi> ?
+[2016/02/08 13:36:10] <ElementW> The ES part is mainly to target low-profile GPUs
+[2016/02/08 13:36:14] <ElementW> if you support GL ES 2
+[2016/02/08 13:36:20] <ElementW> you support GL 2
+[2016/02/08 13:36:22] <Tobbi> ah ok
+[2016/02/08 13:36:32] <ElementW> (with some changes between the 2)
+[2016/02/08 13:36:42] <ElementW> (mainly shader preprocessor source)
+[2016/02/08 13:36:51] <mt> well, a standard OpenGL renderer is already available (see the --renderer option)
+[2016/02/08 13:37:00] <mt> would it be hard to then add GL ES?
+[2016/02/08 13:37:07] <ElementW> Nope
+[2016/02/08 13:37:25] <ElementW> But the current GL renderer is a fixed-pipeline GL 1.0 renderer
+[2016/02/08 13:37:31] <ElementW> and GL 1.0 is slow as f!ck
+[2016/02/08 13:37:36] <ElementW> (relatively)
+[2016/02/08 13:37:47] <Tobbi> Our GL renderer is using opengl 1.0?
+[2016/02/08 13:37:56] <ElementW> Yes.
+[2016/02/08 13:37:59] <ElementW> Immediate mode calls
+[2016/02/08 13:38:04] <ElementW> you pass vertex info 1 by 1
+[2016/02/08 13:38:07] <Tobbi> Okay, so that should be changed, right?
+[2016/02/08 13:38:12] <ElementW> Yes.
+[2016/02/08 13:38:26] <ElementW> you can keep the legacy GL 1.0 backend though
+[2016/02/08 13:38:43] <ElementW> just start the new one with a copypasta of GL 1.0, edit to make GL(ES) 2.0
+[2016/02/08 13:38:56] <pentagon> [10wiki] 07tobbi pushed 1 commit to 09master 13https://git.io/vgRXp
+[2016/02/08 13:38:59] <pentagon> [10wiki] 07tobbi 1448270b3 Add ideas
+[2016/02/08 13:39:18] <ElementW> Oh in the same vein of ideas and statements, Wayland support isn't coming for you if you stick to GLEW.
+[2016/02/08 13:39:20] <Tobbi> Someone else can format that or add stuff...
+[2016/02/08 13:39:30] <Tobbi> Oh.
+[2016/02/08 13:39:37] <Tobbi> So we *should* switch to GLbinding.
+[2016/02/08 13:39:40] <Tobbi> right?
+[2016/02/08 13:39:48] <ElementW> don't know GLBinding
+[2016/02/08 13:39:57] <Tobbi> ElementW: What else is there?
