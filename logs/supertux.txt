@@ -4089,3 +4089,4 @@
 [2016/02/08 16:10:48] <Tobbi> sydney_untangle: ping?
 [2016/02/08 16:14:22] @ Quit: claymore2: Quit: Leaving
 [2016/02/08 16:25:14] <Tobbi> never mind this.
+[2016/02/08 16:30:24] <Tobbi> We can continue with the application tomorrow.
