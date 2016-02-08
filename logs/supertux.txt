@@ -3817,3 +3817,21 @@
 [2016/02/08 13:19:25] <Tobbi> mt: Actually, you can do it.
 [2016/02/08 13:19:50] <mt> so now you deleted it?
 [2016/02/08 13:19:56] <mt> did you have anything on that page?
+[2016/02/08 13:20:32] <leyyin> what, github wiki can e connected to another repo? :D
+[2016/02/08 13:20:38] <leyyin> TIL
+[2016/02/08 13:20:41] <Tobbi> mt: No, I don't.
+[2016/02/08 13:20:49] <mt> leyyin: the github wiki is a git repo
+[2016/02/08 13:20:54] <mt> and because we don't want spam
+[2016/02/08 13:21:07] <leyyin> you can edit the wiki directly there?
+[2016/02/08 13:21:08] <mt> but still allow others to contribute, we manage the wiki in a separate repo
+[2016/02/08 13:21:19] <mt> where people can pull request
+[2016/02/08 13:21:37] <mt> and once there are changes, they will also be pushed to the hidden github wiki repo
+[2016/02/08 13:21:52] <Karkus> mt: Automatically?
+[2016/02/08 13:21:57] <mt> no
+[2016/02/08 13:22:04] <mt> using a git push
+[2016/02/08 13:22:16] <Karkus> mt: K
+[2016/02/08 13:22:29] @ lumidify joined channel #supertux
+[2016/02/08 13:23:56] @ brmbrmca1 joined channel #supertux
+[2016/02/08 13:24:29] <Tobbi> /kick brmbrmca1 Sorry, this is a serious discussion
+[2016/02/08 13:24:58] <pentagon> [10wiki] 07maxteufel pushed 1 commit to 09master 13https://git.io/vgR6S
+[2016/02/08 13:25:00] <leyyin> "serious"
