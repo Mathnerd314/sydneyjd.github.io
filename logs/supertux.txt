@@ -4041,3 +4041,6 @@
 [2016/02/08 14:32:37] <mt> I'd also like to hear some input from sydney_untangle and Karkus - oh hello :)
 [2016/02/08 14:32:45] <mt> Karkus: https://public.etherpad-mozilla.org/p/GSOC_supertux
 [2016/02/08 14:32:55] <mt> questions we have to answer: http://screencast.com/t/6VbHfuyeX3E
+[2016/02/08 14:35:43] <mt> was that brmbrmspy?
+[2016/02/08 14:35:51] <mt> deleting the not?
+[2016/02/08 14:38:54] @ Quit: datahead7777: Ping timeout: 252 seconds
