@@ -3641,3 +3641,44 @@
 [2016/02/08 12:04:17] <Tobbi> Even smart people do stupid things.
 [2016/02/08 12:04:52] <mt> well, freedom only can be freedom as long as it doesn't hurt other's freedom
 [2016/02/08 12:05:00] <mt> if people still do stupid things then
+[2016/02/08 12:05:05] <mt> that's their problem
+[2016/02/08 12:05:05] <leyyin> soo, anarchy? :D
+[2016/02/08 12:05:26] <mt> leyyin: no, that doesn't imply that
+[2016/02/08 12:05:46] <sydney_untangle> *facepalm*, what have i started...
+[2016/02/08 12:05:58] <mt> oh welcome back sydney_untangle
+[2016/02/08 12:06:12] <mt> also re stallmans opionion on FOSS
+[2016/02/08 12:06:19] <mt> I don't even agree with him on that
+[2016/02/08 12:06:29] <sydney_untangle> Tobbi: I cannot seed anything on my internet speed, eh? Ive seeded 30GB over the past week.
+[2016/02/08 12:06:38] <mt> BSD is real software freedom
+[2016/02/08 12:06:40] <leyyin> do you want something seeded Tobbi ?
+[2016/02/08 12:06:48] <Tobbi> leyyin: No? :D
+[2016/02/08 12:06:56] <mt> >torrents
+[2016/02/08 12:07:05] <mt> nope, thanks. at least here in Germany
+[2016/02/08 12:07:18] <leyyin> I seed STK like crazy, I have the windows torrent ratio at 842 :D
+[2016/02/08 12:07:22] <mt> (unless you want to receive an Abmahnung)
+[2016/02/08 12:07:33] <leyyin> mt, you can't use torrents in germany?
+[2016/02/08 12:07:34] <sydney_untangle> mt: I do agree with him to an extent, but he does push it a little too far.
+[2016/02/08 12:07:46] <Tobbi> mt: Depends on what you seed.
+[2016/02/08 12:07:54] <mt> leyyin: well for open source stuff it works
+[2016/02/08 12:08:19] <sydney_untangle> leyyin: 842 times? o_O
+[2016/02/08 12:08:26] <mt> but as soon as someone else sees you downloading illegal stuff they're allowed to ask a lawyer to send you an Abmahnung
+[2016/02/08 12:08:29] <leyyin> sydney_untangle, that is low
+[2016/02/08 12:08:45] <sydney_untangle> leyyin: Ive seeded it 9 times, and that seems like alot for me. whopee. :p
+[2016/02/08 12:08:48] <pentagon> [10supertux] 07tobbi pushed 2 commits to 09master 13https://git.io/vgRZR
+[2016/02/08 12:08:51] <pentagon> [10supertux] 07MiroslavR 14bd7bdb4 Fix tiles with images larger than 32x32px not being visible (Fixes #317)
+[2016/02/08 12:08:54] <pentagon> [10supertux] 07tobbi 14238b937 Merge pull request #363 from MiroslavR/fix-317
+[2016/02/08 12:09:02] <pentagon> [10supertux] 07tobbi closed pull request 09#363: Fix assertion failures introduced by PR #346 13https://git.io/vgBNW
+[2016/02/08 12:09:03] <sydney_untangle> mt: Good grief...
+[2016/02/08 12:09:05] <pentagon> [10supertux] 07tobbi closed issue 09#317: Igloo becomes invisible when Tux is a couple of tiles below it 13https://git.io/vuegt
+[2016/02/08 12:09:08] <leyyin> 334 GB in total
+[2016/02/08 12:09:16] <pentagon> [10supertux] 07tobbi commented on issue 09#363: Fix assertion failures introduced by PR #346 13https://git.io/vgBNW
+[2016/02/08 12:09:18] <Tobbi> Kabel Deutschland will likely kick me butt.
+[2016/02/08 12:09:22] <Tobbi> if I did that.
+[2016/02/08 12:09:28] <sydney_untangle> lol.
+[2016/02/08 12:09:31] <mt> I should ask $people_who_downloaded_2PB_in_1_month_from_CloudFlare to seed free software
+[2016/02/08 12:09:44] <mt> Indeed. 2PB in 1 month.
+[2016/02/08 12:09:49] <mt> All piped to /dev/null
+[2016/02/08 12:09:52] <sydney_untangle> mt: Good land...
+[2016/02/08 12:09:52] <leyyin> the others, linux, mac are in the range 100-200 ratio
+[2016/02/08 12:09:54] <Tobbi> high downstream != high upstream.
+[2016/02/08 12:09:58] <sydney_untangle> mt: What a waste.
