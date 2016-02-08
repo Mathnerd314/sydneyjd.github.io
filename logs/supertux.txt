@@ -3762,3 +3762,8 @@
 [2016/02/08 12:37:22] @ Quit: tuxdev_: Ping timeout: 250 seconds
 [2016/02/08 12:38:41] @ uwjesq joined channel #supertux
 [2016/02/08 12:38:59] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/08 12:40:25] @ uwjesq left channel #supertux ()
+[2016/02/08 12:40:47] <mt> oh by the way Karkus: would you be able to mentor flexlay?
+[2016/02/08 12:41:04] <mt> we also thought of including that in the ideas
+[2016/02/08 12:41:47] <Karkus> mt: Err, well, yeah I guess. I think we should stick to the game for now, it might be better to introduce them to something more stable.
+[2016/02/08 12:42:55] <Karkus> mt: I will help with the organisation of the projects, of course.
