@@ -3767,3 +3767,4 @@
 [2016/02/08 12:41:04] <mt> we also thought of including that in the ideas
 [2016/02/08 12:41:47] <Karkus> mt: Err, well, yeah I guess. I think we should stick to the game for now, it might be better to introduce them to something more stable.
 [2016/02/08 12:42:55] <Karkus> mt: I will help with the organisation of the projects, of course.
+[2016/02/08 12:45:44] <pentagon> [10supertux] Status for commit Merge pull request #363 from MiroslavR/fix-317 by 07Tobias Markus: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/373
