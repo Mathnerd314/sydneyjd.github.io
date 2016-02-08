@@ -4097,3 +4097,6 @@
 [2016/02/08 17:05:10] @ Quit: Karkus: Quit: Division By Zero
 [2016/02/08 17:06:54] @ Tobbi joined channel #supertux
 [2016/02/08 17:06:55] @ Mode +v Tobbi by ChanServ
+[2016/02/08 17:13:26] @ swift110_ joined channel #supertux
+[2016/02/08 17:13:55] @ Quit: alket: Quit: ?v=Hg_gZRRLHSc
+[2016/02/08 17:14:19] @ alket joined channel #supertux
