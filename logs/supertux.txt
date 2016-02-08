@@ -4044,3 +4044,7 @@
 [2016/02/08 14:35:43] <mt> was that brmbrmspy?
 [2016/02/08 14:35:51] <mt> deleting the not?
 [2016/02/08 14:38:54] @ Quit: datahead7777: Ping timeout: 252 seconds
+[2016/02/08 14:40:05] @ alket_ joined channel #supertux
+[2016/02/08 14:40:19] @ Quit: alket: Disconnected by services
+[2016/02/08 14:40:20] @ alket_ is now known as alket
+[2016/02/08 14:44:58] <pentagon> [10supertux] 07makeamericagreatagain commented on issue 09#43: SuperTux Death sound is too jaring 13https://git.io/v3FpQ
