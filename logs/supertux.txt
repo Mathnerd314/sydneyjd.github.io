@@ -3938,3 +3938,20 @@
 [2016/02/08 13:53:36] <mt> read the /rules/
 [2016/02/08 13:54:37] @ Quit: lumidify: Quit: Leaving
 [2016/02/08 13:54:51] <mt> https://summerofcode.withgoogle.com/rules/ 6.1.a.iii: "not be an Organization Administrator or Mentor in the Program."
+[2016/02/08 13:55:56] <Tobbi> heh, okay...
+[2016/02/08 13:56:29] <ElementW> Here lies Tobbi's hopes.
+[2016/02/08 13:56:35] <Tobbi> yeah, damn it.
+[2016/02/08 13:56:47] <mt> "At the end of the Program, Organizations may receive (i) a $500 USD stipend per Student mentored, and (ii) subject to Sections 7.1(e)(vi) and (vii), a $2,200 USD stipend to send up to two (2) Members to the Mentor Summit, by making a request through the form provided by Google by August 22, 2016. Google is not required to pay for amounts requested after this date."
+[2016/02/08 13:57:12] <mt> "GET TOBBI ALL THE MONEY"
+[2016/02/08 13:57:12] <brmbrmcar> Why do the students get $5500 but the organisation just $500?
+[2016/02/08 13:57:29] <mt> brmbrmcar: because the students do the hard work, not the organizations
+[2016/02/08 13:57:31] <Tobbi> What? A mentor summit? :D
+[2016/02/08 13:57:40] <Tobbi> haha
+[2016/02/08 13:57:44] <Tobbi> I will totally be there.
+[2016/02/08 13:57:45] <Tobbi> :D
+[2016/02/08 13:57:45] <brmbrmcar> I guess that's alright.
+[2016/02/08 13:57:48] <Tobbi> Who else?
+[2016/02/08 13:58:08] @ lumidify joined channel #supertux
+[2016/02/08 13:59:41] <Tobbi> mt: Will you be joining the mentor summit with me? :D
+[2016/02/08 13:59:47] <Tobbi> Or sydney_untangle
+[2016/02/08 13:59:58] <Tobbi> or eeh...Karkus
