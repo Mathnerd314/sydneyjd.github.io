@@ -4061,3 +4061,10 @@
 [2016/02/08 14:53:51] <Tobbi> mt: http://screencast.com/t/YwmhEsKxAfuv
 [2016/02/08 14:54:42] <mt> wtf
 [2016/02/08 14:54:58] <Hume2> You found an easter egg.
+[2016/02/08 14:55:46] <Tobbi> Hume2: how so?
+[2016/02/08 14:56:03] <Hume2> You know a secret bonus.
+[2016/02/08 14:56:36] <mt> '"Make America Great Again" is a common campaign slogan used by American politicians. It was first used by Ronald Reagan during his 1980 presidential campaign.' TIL
+[2016/02/08 14:56:58] <Tobbi> Might be someone camouflaging as leyyin.
+[2016/02/08 14:57:10] <Tobbi> eeh, might be leyyin camouflaging as that user.
+[2016/02/08 14:57:39] <mt> might be some github bot just leaving random comments and deleting them
+[2016/02/08 14:57:58] <Tobbi> mt: See comment on the etherpad.
