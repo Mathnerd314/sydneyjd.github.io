@@ -3236,3 +3236,6 @@
 [2016/02/08 01:50:21] @ lumidify joined channel #supertux
 [2016/02/08 01:54:15] @ Quit: Mathnerd314: Ping timeout: 245 seconds
 [2016/02/08 01:54:41] @ jeexy joined channel #supertux
+[2016/02/08 01:55:16] @ jeexy is now known as jeezy
+[2016/02/08 01:55:18] @ Quit: jeezy: Changing host
+[2016/02/08 01:55:18] @ jeezy joined channel #supertux
