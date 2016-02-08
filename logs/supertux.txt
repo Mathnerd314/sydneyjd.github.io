@@ -3955,3 +3955,15 @@
 [2016/02/08 13:59:41] <Tobbi> mt: Will you be joining the mentor summit with me? :D
 [2016/02/08 13:59:47] <Tobbi> Or sydney_untangle
 [2016/02/08 13:59:58] <Tobbi> or eeh...Karkus
+[2016/02/08 14:00:05] <Tobbi> or who else? ;D
+[2016/02/08 14:00:27] <Tobbi> Okay, I can now apply...
+[2016/02/08 14:01:04] <mt> Just make all the people mentors and invite the to the mentor summit!!!1
+[2016/02/08 14:01:12] <Tobbi> mt: Maximum is 2...
+[2016/02/08 14:01:14] <Tobbi> :D
+[2016/02/08 14:01:22] <mt> Well, only 2 receive money I think
+[2016/02/08 14:02:05] <mt> The others would probably still get invited, but have to pay travel costs
+[2016/02/08 14:03:12] <Tobbi> Ah, okay...
+[2016/02/08 14:03:29] <Tobbi> mt: Our organization name is "SuperTux Team" or just "SuperTux"?
+[2016/02/08 14:03:38] <mt> That stipend for the mentor summit is kinda useless for people who live in the SF Bay area (if Google's campus is referring to that in Mountain View, CA, US)
+[2016/02/08 14:03:43] <mt> just "SuperTux"
+[2016/02/08 14:03:45] <Tobbi> ok
