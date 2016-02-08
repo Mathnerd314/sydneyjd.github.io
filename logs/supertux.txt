@@ -3252,3 +3252,5 @@
 [2016/02/08 03:04:09] @ Quit: lumidify: Ping timeout: 240 seconds
 [2016/02/08 03:49:45] @ lumidify joined channel #supertux
 [2016/02/08 03:55:15] @ Quit: tuxdude143: Quit: Leaving
+[2016/02/08 04:56:11] @ Quit: lumidify: Ping timeout: 245 seconds
+[2016/02/08 04:59:09] @ lumidify joined channel #supertux
