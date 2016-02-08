@@ -3261,3 +3261,5 @@
 [2016/02/08 08:17:24] @ Quit: lumidify: Ping timeout: 240 seconds
 [2016/02/08 08:30:38] @ Tobbi joined channel #supertux
 [2016/02/08 08:30:38] @ Mode +v Tobbi by ChanServ
+[2016/02/08 09:01:55] @ nerdopolis_ joined channel #supertux
+[2016/02/08 09:02:14] @ Quit: nerdopolis: Ping timeout: 276 seconds
