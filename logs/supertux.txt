@@ -3771,3 +3771,10 @@
 [2016/02/08 12:51:30] @ Tobbi joined channel #supertux
 [2016/02/08 12:51:30] @ Mode +v Tobbi by ChanServ
 [2016/02/08 12:54:23] <Tobbi> Karkus: I was just thinking time-wise whether you'd be capable.
+[2016/02/08 12:56:06] <Karkus> Tobbi: I am willing to help you out, but I don't think I'd like to be a mentor for Flexlay when its at this stage, and I don't have enough experience with SuperTux itself.
+[2016/02/08 12:56:43] <Tobbi> Karkus: No problem. We'll just not do flexlay then.
+[2016/02/08 12:57:28] <mt> Yeah
+[2016/02/08 12:57:32] <mt> Sounds okay as well
+[2016/02/08 12:57:51] <mt> Karkus: do you have any ideas for students?
+[2016/02/08 12:58:04] <mt> I guess it should be kinda challenging, but not too hard
+[2016/02/08 12:59:16] <Karkus> Maybe something to do with scripting? Or the menus (which are a bit ugly atm)?
