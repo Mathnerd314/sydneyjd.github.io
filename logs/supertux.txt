@@ -4669,3 +4669,13 @@
 [2016/02/09 12:43:40] <Hume2> I've already send that.
 [2016/02/09 12:44:15] <Hume2> So I'm in.
 [2016/02/09 12:44:52] <Hume2> Thanks, mt, very much :)
+[2016/02/09 12:45:02] <mt> Hume2: btw, you're listed on https://github.com/SuperTux/supertux/wiki/GSoC-2016-Ideas#in-game-level-editor as possible mentor
+[2016/02/09 12:46:08] <Hume2> I can be an admin and a mentor at once, can't I?
+[2016/02/09 12:46:42] <mt> yes
+[2016/02/09 12:46:51] <Hume2> OK.
+[2016/02/09 12:46:59] <mt> wouldn't make sense if you couldn't
+[2016/02/09 12:47:10] <Hume2> I'll look on the GSoC web what to do.
+[2016/02/09 12:49:26] <Mathnerd314> Hume2: but if you use a fake address, how will you get your t-shirt?
+[2016/02/09 12:49:39] <Hume2> I refused that.
+[2016/02/09 12:49:58] <sydney_untangle> He can send the shirt to my address. :D
+[2016/02/09 12:49:58] <red_bot> sydney_untangle, you have notes! [Feb- 9 12:27] <Hume2> Cloud you please strip this conversation out of the logs? I don't want anyone to see that.
