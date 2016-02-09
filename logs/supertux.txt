@@ -4848,3 +4848,4 @@
 [2016/02/09 16:03:35] <Tobbi> Mathnerd314: What did you actually change about the application?
 [2016/02/09 16:36:49] @ Quit: claymore2: Quit: Leaving
 [2016/02/09 16:39:38] @ claymore2 joined channel #supertux
+[2016/02/09 16:50:44] <Mathnerd314> Tobbi: I took out the sending an email part of the proposal, a few spelling fixes, I think that's it
