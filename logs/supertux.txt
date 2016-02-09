@@ -4772,3 +4772,6 @@
 [2016/02/09 13:47:31] <mt> Want me to post some tweet about us considering to apply for GSoC? (https://twitter.com/supertux_team if you haven't seen that yet)
 [2016/02/09 13:48:37] <Mathnerd314> sure, link to the ideas page
 [2016/02/09 13:55:03] <mt> https://twitter.com/supertux_team/status/697130736105746433
+[2016/02/09 14:03:43] <Mathnerd314> alright, try #1 for the wiki
+[2016/02/09 14:03:54] <pentagon> [10wiki] 07Mathnerd314 pushed 1 commit to 09master 13https://git.io/vgzMw
+[2016/02/09 14:03:58] <pentagon> [10wiki] 07Mathnerd314 1452550fc Travis script
