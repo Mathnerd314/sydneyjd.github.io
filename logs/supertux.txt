@@ -4158,3 +4158,16 @@
 [2016/02/09 07:18:03] @ lumidify joined channel #supertux
 [2016/02/09 07:43:52] <MCMic> Is there any easy way to display tux speed on screen?
 [2016/02/09 07:48:06] <mt> Tux speed?
+[2016/02/09 07:50:02] <MCMic> mt: yes
+[2016/02/09 07:50:21] <MCMic> With some scripting or whatever.
+[2016/02/09 07:50:33] <MCMic> The same way I can display fps
+[2016/02/09 07:50:59] <mt> what unit would you even use for that?
+[2016/02/09 07:51:07] <mt> px/s or tiles/s
+[2016/02/09 07:51:53] <mt> or x*10**y px/min or tiles/min
+[2016/02/09 07:51:57] <MCMic> I don’t really care, I just want to see when I’m slowed down or not
+[2016/02/09 07:52:12] <MCMic> I’m only interested in x speed
+[2016/02/09 07:52:33] <mt> I'm 99.999% sure it's not possible with the current scripting API
+[2016/02/09 07:52:47] <mt> Shouldn't be that hard though
+[2016/02/09 07:52:51] <mt> (to implement)
+[2016/02/09 07:53:10] <MCMic> I’m trying to do some kind of «Tool Assisted Speedrun» (but I’m lacking the mentioned tools, I just edit a supertux demo file by hand and play it)
+[2016/02/09 07:53:35] <MCMic> ok :-/
