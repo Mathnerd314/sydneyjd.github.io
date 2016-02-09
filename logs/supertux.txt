@@ -4144,3 +4144,6 @@
 [2016/02/09 03:50:45] @ Quit: tux|dude: Quit: Leaving
 [2016/02/09 04:16:05] @ MCMic joined channel #supertux
 [2016/02/09 05:58:04] @ leyyin joined channel #supertux
+[2016/02/09 06:43:49] @ lumidify joined channel #supertux
+[2016/02/09 06:43:49] @ Quit: lumidify: Changing host
+[2016/02/09 06:43:49] @ lumidify joined channel #supertux
