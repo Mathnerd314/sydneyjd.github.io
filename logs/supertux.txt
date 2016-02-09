@@ -4590,3 +4590,16 @@
 [2016/02/09 12:13:50] <mt> also, mentors can be 17 when they have consent of their parents, it's just the org admins
 [2016/02/09 12:14:37] @ uwjesq joined channel #supertux
 [2016/02/09 12:14:48] <Hume2> What kind of consent by my parents they need?
+[2016/02/09 12:15:12] <mt> "between the Minimum Age to age seventeen (17) and have the consent of a parent or legal guardian to participate as evidenced by his or her signing of the Mentor Parental Consent. As part of the registration process, the Mentor must submit the signed Parental Consent to Google at gsoc-support@google.com."
+[2016/02/09 12:15:52] <Hume2> And what happens when I fill in a fake date of birth?
+[2016/02/09 12:16:14] <Hume2> If I filled 26th January 1998?
+[2016/02/09 12:16:31] <mt> re web app project: would we leave the language/database used open to the student?
+[2016/02/09 12:17:12] <mt> Hume2: aren't you 116 for google anyway?
+[2016/02/09 12:17:23] <Hume2> mt: True.
+[2016/02/09 12:17:38] <Hume2> I just want to know that for one reason.
+[2016/02/09 12:17:51] <Hume2> Tobbi: What all personal data I have to fill in?
+[2016/02/09 12:18:06] <Tobbi> Hume2: Everything they tell you to fill in.
+[2016/02/09 12:18:25] <mt> they might find out when you'll visit the mentor summit; and they might ban you from participating in the future
+[2016/02/09 12:19:28] <Hume2> What is mentor summit?
+[2016/02/09 12:19:39] <mt> a meeting where mentors will be invited to
+[2016/02/09 12:19:52] <mt> it says at the google campus (so probably in Mountain View, CA, US)
