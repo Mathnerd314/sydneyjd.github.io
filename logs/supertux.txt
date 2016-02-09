@@ -4427,3 +4427,39 @@
 [2016/02/09 10:04:34] <Tobbi> leyyin: Be an org admin. Google requirement.
 [2016/02/09 10:04:44] <leyyin> and why can't you be? Tobbi
 [2016/02/09 10:05:00] <Tobbi> leyyin: There need to be at least two people.
+[2016/02/09 10:05:06] <Tobbi> I am already one.
+[2016/02/09 10:05:09] <leyyin> and mt?
+[2016/02/09 10:05:15] <mt> don't want to
+[2016/02/09 10:05:18] <mt> >_>
+[2016/02/09 10:05:19] <Tobbi> doesn't want to for undisclosed reasons.
+[2016/02/09 10:05:19] <leyyin> why not?
+[2016/02/09 10:05:28] <leyyin> maths22, ?
+[2016/02/09 10:05:32] <Tobbi> not around.
+[2016/02/09 10:05:41] <leyyin> I am not that involved with supertux :P
+[2016/02/09 10:05:49] <mt> we should ask all the possible people via email, I already said that
+[2016/02/09 10:05:52] <Tobbi> leyyin: Neither am I :P
+[2016/02/09 10:06:10] <Tobbi> mt: No, we'll make it easy: If leyyin doesn't want to, we'll ask brmbrmcar.
+[2016/02/09 10:06:18] <mt> maybe giby or maths22 have time
+[2016/02/09 10:06:27] <leyyin> I will do it, if no one else wants to
+[2016/02/09 10:06:33] <Tobbi> We can see...
+[2016/02/09 10:06:47] <Tobbi> mt: Send an e-mail...and we can see...
+[2016/02/09 10:06:59] <mt> leyyin wants to save the project from brmbrmcar's insanity? :D
+[2016/02/09 10:07:36] <mt> I'll write one, you'll send it from the supertuxteam account?
+[2016/02/09 10:07:41] <Tobbi> Okay, fine.
+[2016/02/09 10:07:46] <Tobbi> To whom actually?
+[2016/02/09 10:07:52] <mt> giby and maths22
+[2016/02/09 10:07:52] <Tobbi> Do we have all their e-mail addresses?
+[2016/02/09 10:07:55] <Tobbi> Okay, fine.
+[2016/02/09 10:07:56] <mt> in git
+[2016/02/09 10:08:00] <Tobbi> mt: And Karkus?
+[2016/02/09 10:08:06] <Tobbi> Maybe he's above 18.
+[2016/02/09 10:08:08] @ Mathnerd314 joined channel #supertux
+[2016/02/09 10:08:15] <Tobbi> Actually...
+[2016/02/09 10:08:28] <Tobbi> Mathnerd314: Would you be willing to be a mentor for SuperTux during GSoC?
+[2016/02/09 10:08:29] <mt> Karkus, will probably be here later
+[2016/02/09 10:08:49] <mt> (and org admin)
+[2016/02/09 10:08:53] <Tobbi> eh, yes.
+[2016/02/09 10:08:59] <Tobbi> org admin was what I meant.
+[2016/02/09 10:09:06] <mt> but more mentors would be good as well, I guess
+[2016/02/09 10:09:21] <Mathnerd314> Tobbi: maybe. I think SuperTux is unlikely to get in though
+[2016/02/09 10:09:27] <Tobbi> Mathnerd314: Why?
