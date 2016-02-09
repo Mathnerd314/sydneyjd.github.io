@@ -4524,3 +4524,5 @@
 [2016/02/09 10:49:48] <mt> doesn't the patch tool accept all kinds of diffs?
 [2016/02/09 10:52:27] <Mathnerd314> with coaxing
 [2016/02/09 10:54:07] <Mathnerd314> looks like SuperTux would work with https://wiki.gnome.org/Wiican and the config in https://github.com/haxney/wiimote-mupen64, it doesn't look like it would take a summer
+[2016/02/09 10:56:55] <Tobbi> bbl, gonna go for a walk.
+[2016/02/09 10:58:42] <mt> well, SuperTuxKart has some nice UI for configuring a Wiimote (including pairing with it) and setting up different buttons
