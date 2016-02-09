@@ -4760,3 +4760,12 @@
 [2016/02/09 13:39:04] <mt> because in a repo I manage and have Travis enabled, there's no deploy key by default
 [2016/02/09 13:39:06] <Mathnerd314> oh, it's only automatically added for private repos
 [2016/02/09 13:39:36] <mt> it just needs read access to the supertux/wiki repo
+[2016/02/09 13:40:04] <mt> so it would be good to only add it to the supertux/supertux repo
+[2016/02/09 13:40:10] <mt> where it's needed to push
+[2016/02/09 13:41:16] @ Quit: mcmic: Quit: Konversation terminated!
+[2016/02/09 13:41:40] <Mathnerd314> and apparently github disallows using deploy keys on multiple repos
+[2016/02/09 13:41:55] <mt> ah right
+[2016/02/09 13:42:13] <mt> I noticed that as well when we still had the main repo hosted on Google Code
+[2016/02/09 13:42:15] <Mathnerd314> I'll generate a keypair and add it as an encrypted file to the wiki repo, that should work
+[2016/02/09 13:42:19] <mt> And I had a mirroring cronjob
+[2016/02/09 13:44:24] <Mathnerd314> I can't imagine that Github restricts wiki access, that would be weird
