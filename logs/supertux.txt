@@ -4753,3 +4753,5 @@
 [2016/02/09 13:24:23] <mt> you can add a deploy key
 [2016/02/09 13:24:44] <mt> and store that, encrypted with AES-256-whatever in the repo
 [2016/02/09 13:24:56] <mt> and then use a secret travis variable to decrypt the key
+[2016/02/09 13:25:45] <mt> however, I'm not sure if deploy keys support pushing to wikis
+[2016/02/09 13:26:12] <mt> otherwise, create an account 'supertux-bot' and give it limited access to the supertux/supertux repo
