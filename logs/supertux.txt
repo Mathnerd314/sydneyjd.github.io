@@ -4210,3 +4210,16 @@
 [2016/02/09 08:44:42] <Tobbi> Hello.
 [2016/02/09 08:44:46] <Tobbi> mt: You there?
 [2016/02/09 08:49:50] <Tobbi> mt: In any case, we need to decide on criteria for the students and how they should apply with us...
+[2016/02/09 08:51:20] <sydney_untangle> Tobbi: Well, that they know how to code, thats a big one.
+[2016/02/09 08:51:32] <Tobbi> sydney_untangle: But people won't apply if they don't know how to code.
+[2016/02/09 08:51:38] <Tobbi> It's called "Google Summer of code" afterall.
+[2016/02/09 08:51:41] <sydney_untangle> Who knows. :)
+[2016/02/09 08:51:44] <Tobbi> I do.
+[2016/02/09 08:52:03] <sydney_untangle> nm...
+[2016/02/09 08:52:23] <mt> pentagon: later tell MCMic as in the git master, Player.get_velocity_?() doesn't exist, I added it and will soon push it to a separate branch: https://urandom.eu.org/i/9YkaGO7T.png
+[2016/02/09 08:52:23] <pentagon> mt: The operation succeeded.
+[2016/02/09 08:52:51] <mt> I coded^Wcopy-pasta'ed that right now
+[2016/02/09 08:53:44] <mt> Tobbi: have you submitted the application yet?
+[2016/02/09 08:53:50] <Tobbi> mt: Not yet.
+[2016/02/09 08:54:35] <Tobbi> mt: Actually, not sure if I did... I have to complete the supertux profile first before we're being considered.
+[2016/02/09 08:54:41] <Tobbi> So, that's why we need the rules...
