@@ -4850,3 +4850,6 @@
 [2016/02/09 16:39:38] @ claymore2 joined channel #supertux
 [2016/02/09 16:50:44] <Mathnerd314> Tobbi: I took out the sending an email part of the proposal, a few spelling fixes, I think that's it
 [2016/02/09 16:58:30] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/09 17:11:58] @ Tobbi joined channel #supertux
+[2016/02/09 17:11:58] @ Mode +v Tobbi by ChanServ
+[2016/02/09 17:13:48] @ Quit: brmbrmcar: Ping timeout: 250 seconds
