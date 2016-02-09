@@ -4188,3 +4188,4 @@
 [2016/02/09 08:00:38] <pentagon> mt: The operation succeeded.
 [2016/02/09 08:03:46] <mt> right now I wonder
 [2016/02/09 08:04:09] <mt> if it would be possible to unit test using recorded levels
+[2016/02/09 08:05:10] @ Quit: lumidify: Ping timeout: 250 seconds
