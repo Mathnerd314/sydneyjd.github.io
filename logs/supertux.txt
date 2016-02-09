@@ -4769,3 +4769,5 @@
 [2016/02/09 13:42:15] <Mathnerd314> I'll generate a keypair and add it as an encrypted file to the wiki repo, that should work
 [2016/02/09 13:42:19] <mt> And I had a mirroring cronjob
 [2016/02/09 13:44:24] <Mathnerd314> I can't imagine that Github restricts wiki access, that would be weird
+[2016/02/09 13:47:31] <mt> Want me to post some tweet about us considering to apply for GSoC? (https://twitter.com/supertux_team if you haven't seen that yet)
+[2016/02/09 13:48:37] <Mathnerd314> sure, link to the ideas page
