@@ -4155,3 +4155,4 @@
 [2016/02/09 07:09:03] <leyyin> :D
 [2016/02/09 07:10:34] @ Quit: lumidify: Ping timeout: 250 seconds
 [2016/02/09 07:14:00] <leyyin> that would catch their attention
+[2016/02/09 07:18:03] @ lumidify joined channel #supertux
