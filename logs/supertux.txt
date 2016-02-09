@@ -4653,3 +4653,19 @@
 [2016/02/09 12:38:43] <Hume2> So my phone number is +420 511 333 819.
 [2016/02/09 12:39:11] <Mathnerd314> lol "Tux rap in the intro: must not make its way into Milestone2" <- grumbel 10 years ago
 [2016/02/09 12:39:25] <mt> What the hell is blood type "O+"? In Germany we have A, B, AB and 0 but not O
+[2016/02/09 12:40:29] <Mathnerd314> mt: there are 3 markers, A, B, Rh, for a total of 8 combinations. O+ has no A, no B, but some Rh
+[2016/02/09 12:40:57] <Hume2> OK
+[2016/02/09 12:41:04] <mt> yes the US people apparently write "O" (upper("o")) instead of "0" (int(0))
+[2016/02/09 12:41:58] <mt> Also, why is the Tux rap bad? :D
+[2016/02/09 12:42:22] <Hume2> Should I opt In to Mentor List?
+[2016/02/09 12:42:39] <pentagon> [10wiki] 07maxteufel pushed 1 commit to 09master 13https://git.io/vgzlp
+[2016/02/09 12:42:42] <pentagon> [10wiki] 07maxteufel 14b7bd985 GSoC 2016 Ideas: add web application project idea
+[2016/02/09 12:42:43] <mt> Hume2: I guess so
+[2016/02/09 12:42:45] <pentagon> [10supertux] 07maxteufel edited wiki page 09GSoC 2016 Ideas 13https://git.io/vgR67
+[2016/02/09 12:42:53] <Mathnerd314> Hume2: depends on how much email you want to read
+[2016/02/09 12:43:21] <Hume2> I don't read it much.
+[2016/02/09 12:43:30] <mt> https://github.com/SuperTux/supertux/wiki/GSoC-2016-Ideas#web-application should probably define a language, if we want to restrict that
+[2016/02/09 12:43:31] <Mathnerd314> mt: wikipedia says "Blood group O (or blood group zero in some countries)". so Germany is in the minority
+[2016/02/09 12:43:40] <Hume2> I've already send that.
+[2016/02/09 12:44:15] <Hume2> So I'm in.
+[2016/02/09 12:44:52] <Hume2> Thanks, mt, very much :)
