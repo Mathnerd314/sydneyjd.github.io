@@ -4115,3 +4115,4 @@
 [2016/02/08 19:48:05] @ Mode +v Tobbi by ChanServ
 [2016/02/08 19:49:18] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/08 19:51:30] @ Quit: jesusalva: Quit: Good Night, Jesus bless you all.
+[2016/02/08 20:21:38] @ tuxdev_ joined channel #supertux
