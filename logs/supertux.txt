@@ -4491,3 +4491,20 @@
 [2016/02/09 10:27:35] <Tobbi> I hope it won't be too stressful...
 [2016/02/09 10:28:37] <Mathnerd314> hmm. we already have multi-player mode, the supertux-coop patch is easily resurrected
 [2016/02/09 10:29:11] <Tobbi> really?
+[2016/02/09 10:30:01] <Tobbi> Mathnerd314: But that's not split-screen, is it?
+[2016/02/09 10:30:14] <Tobbi> Maybe we should adapt that to say co-operative multiplayer.
+[2016/02/09 10:30:18] <Tobbi> So, both get the same level...
+[2016/02/09 10:30:23] <Tobbi> and have a splitscreen.
+[2016/02/09 10:30:32] <Mathnerd314> no, it isn't split-screen. so I guess there would be some work involved
+[2016/02/09 10:30:53] <mt> why split screen?
+[2016/02/09 10:31:17] @ brmbrmcar joined channel #supertux
+[2016/02/09 10:31:28] <Tobbi> mt: I don't know.
+[2016/02/09 10:31:32] <Tobbi> Just thought it might be fun.
+[2016/02/09 10:31:55] <mt> also, where's that patch? I remember there might have been a branch but that doesn't seem to be there anymore?
+[2016/02/09 10:32:02] <Mathnerd314> https://github.com/SuperTux/supertux/blob/master/contrib/supertux-coop.diff
+[2016/02/09 10:32:05] <Tobbi> in contrib, isn't it?
+[2016/02/09 10:32:42] <Mathnerd314> the split-screen is useful for if there's a faraway switch, I'd like it for some of our cutscenes too
+[2016/02/09 10:33:06] <mt> ok
+[2016/02/09 10:33:41] <Mathnerd314> but that patch handles the input and multiple player instances, so a student wouldn't have much to do
+[2016/02/09 10:34:04] <mt> what about Wiimotes or similar input methods?
+[2016/02/09 10:34:37] <brmbrmcar> Wiimotes need proprietary stuff, right?
