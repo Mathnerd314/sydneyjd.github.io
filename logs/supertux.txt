@@ -4679,3 +4679,28 @@
 [2016/02/09 12:49:39] <Hume2> I refused that.
 [2016/02/09 12:49:58] <sydney_untangle> He can send the shirt to my address. :D
 [2016/02/09 12:49:58] <red_bot> sydney_untangle, you have notes! [Feb- 9 12:27] <Hume2> Cloud you please strip this conversation out of the logs? I don't want anyone to see that.
+[2016/02/09 12:50:12] <mt> 18:49:16 -i- ChanServ (ChanServ@services.): Channel #supertux does not have Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document:GSoC Project Ideas: https in its topic.
+[2016/02/09 12:50:15] <mt> >_>
+[2016/02/09 12:50:26] @ Quit: tuxdev_: Ping timeout: 240 seconds
+[2016/02/09 12:50:54] <mt> but I know, implementing an actual regex-based topicsed would be a high security risk
+[2016/02/09 12:51:33] @ ChanServ set topic "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | GSoC Project Ideas: https://github.com/SuperTux/supertux/wiki/GSoC-2016-Ideas"
+[2016/02/09 12:51:51] <Tobbi> The web application should output lisp, anyway.
+[2016/02/09 12:51:58] <Hume2> Are the admins automatically marked as mentors or they need to specify it somehow?
+[2016/02/09 12:52:18] <mt> Everyone who's interested in mentoring and is a contributor, please add you as a possible mentor
+[2016/02/09 12:52:35] <Tobbi> I suggest sydney_untangle as a mentor for graphics design.
+[2016/02/09 12:52:38] <Mathnerd314> Hume2: I think first we need to get accepted, then we get a new interface to add/remove mentors
+[2016/02/09 12:52:49] <Hume2> OK
+[2016/02/09 12:53:01] <mt> Tobbi: feel free to edit it on the wiki
+[2016/02/09 12:53:13] <mt> also, do we want to restrict it to a specific language?
+[2016/02/09 12:53:21] <Hume2> Just a note: water physics != swimming
+[2016/02/09 12:53:31] <Tobbi> mt: I was kidding. sydney isn't good at that.
+[2016/02/09 12:53:43] <mt> Tobbi: that was re web app output
+[2016/02/09 12:53:55] <Tobbi> ah...
+[2016/02/09 12:53:58] <Tobbi> No, it's fine.
+[2016/02/09 12:54:04] <Tobbi> Details can be defined whenever.
+[2016/02/09 12:54:22] <mt> in the end we'll get a web app written in lisp :D
+[2016/02/09 12:54:38] <pentagon> [10wiki] 07Mathnerd314 pushed 1 commit to 09master 13https://git.io/vgzRC
+[2016/02/09 12:54:41] <pentagon> [10wiki] 07Mathnerd314 14bf07f32 ideas i'll mentor
+[2016/02/09 12:54:47] <mt> or some obscure old language, like fortran or prolog
+[2016/02/09 12:54:54] <Tobbi> sydney_untangle: Is this you? https://twitter.com/sydneydurae98
+[2016/02/09 12:55:00] <Tobbi> If so, I have to say: nice girls :P
