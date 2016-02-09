@@ -4829,3 +4829,4 @@
 [2016/02/09 15:22:37] <mt> "builds"
 [2016/02/09 15:23:28] <mt> I wonder if a `git fetch --unshallow` would make sense?
 [2016/02/09 15:24:53] <mt> Mathnerd314: ugh, also, wouldn't this also push pull requests to master of supertux.wiki?
+[2016/02/09 15:25:06] <mt> like, the current config
