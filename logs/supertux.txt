@@ -4482,3 +4482,12 @@
 [2016/02/09 10:21:47] <Tobbi> ah...
 [2016/02/09 10:23:45] <Mathnerd314> done
 [2016/02/09 10:24:34] <Tobbi> Good, so we're now at 100%
+[2016/02/09 10:25:18] <Tobbi> I guess that's it.
+[2016/02/09 10:25:29] <Mathnerd314> well, I might edit the application a bit
+[2016/02/09 10:25:59] <Tobbi> sure.
+[2016/02/09 10:26:04] <Tobbi> Do whatever you want.
+[2016/02/09 10:26:12] <mt> we should also have an ack from Hume2, Karkus and sydney_untangle
+[2016/02/09 10:26:16] <Tobbi> Yes.
+[2016/02/09 10:27:35] <Tobbi> I hope it won't be too stressful...
+[2016/02/09 10:28:37] <Mathnerd314> hmm. we already have multi-player mode, the supertux-coop patch is easily resurrected
+[2016/02/09 10:29:11] <Tobbi> really?
