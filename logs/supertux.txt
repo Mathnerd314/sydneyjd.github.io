@@ -4270,3 +4270,16 @@
 [2016/02/09 09:09:42] <Tobbi> * What programming skills do you have?
 [2016/02/09 09:09:44] <Tobbi> * Do you have experience with UNIX / POSIX operating systems?
 [2016/02/09 09:09:49] <Tobbi> sydney_untangle: I have it regularly in my TB
+[2016/02/09 09:10:34] <sydney_untangle> Ah.
+[2016/02/09 09:11:43] <Tobbi> mt: Are the above things okay and well-phrased?
+[2016/02/09 09:11:58] <mt> http://write.flossmanuals.net/gsoc-mentoring/notes-for-first-year-organizations/
+[2016/02/09 09:12:07] <mt> "* Make all communication public. If it didn’t happen in public, it didn’t happen."
+[2016/02/09 09:13:07] <Tobbi> mt: Let's get back to the application... Are the questions above okay? and correctly phrased, grammar-wise?
+[2016/02/09 09:13:34] <mt> I suggest we all read that manual to make sure we're doing the right things
+[2016/02/09 09:13:47] <Tobbi> yes
+[2016/02/09 09:13:48] <mt> especially http://write.flossmanuals.net/gsoc-mentoring/making-your-ideas-page/
+[2016/02/09 09:13:56] <mt> and the following pages
+[2016/02/09 09:13:56] <Tobbi> I will... before we submit.
+[2016/02/09 09:14:43] <Tobbi> Okay, next up on the list:  Enter tags that students can select (one) from and apply to their own proposals to help organize them. Examples: New Feature, Optimization. You can also use these to designate "sub-organizations" if you are an umbrella organization.
+[2016/02/09 09:14:46] <mt> "Keep in mind that this page is often the first view of your organization by Google and potential student applicants."
+[2016/02/09 09:14:52] <mt> re Ideas page
