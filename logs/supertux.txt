@@ -4340,3 +4340,24 @@
 [2016/02/09 09:49:14] <Tobbi> but looks good.
 [2016/02/09 09:49:27] <Tobbi> I believe it's also fairly diverse.
 [2016/02/09 09:49:57] <pentagon> [10wiki] 07maxteufel pushed 1 commit to 09master 13https://git.io/vguK6
+[2016/02/09 09:50:01] <pentagon> [10wiki] 07maxteufel 14d007fa4 GSoC 2016 Ideas: fix typos
+[2016/02/09 09:50:03] <pentagon> [10supertux] 07maxteufel edited wiki page 09GSoC 2016 Ideas 13https://git.io/vgR67
+[2016/02/09 09:50:47] <mt> what do you think about trigraphs? :D
+[2016/02/09 09:51:38] <Tobbi> Trigraphs?
+[2016/02/09 09:51:42] <Tobbi> What is that?
+[2016/02/09 09:52:02] <mt> int main(void){ ... } becomes int main(void)??< ... ??>
+[2016/02/09 09:52:13] <Tobbi> ah :D
+[2016/02/09 09:52:17] <Tobbi> Yes, fun!
+[2016/02/09 09:52:17] <mt> int arr[1] = {1}; becomes int arr??(1??) = ??<1??>;
+[2016/02/09 09:52:52] <Tobbi> Only thing missing now is us needing at least two org admins.
+[2016/02/09 09:53:15] <mt> "I don't have enough money to buy me a new keyboard, so I'll continue using trigraphs"
+[2016/02/09 09:53:38] <Tobbi> mt: I actually invited hume as org admin. Problem is you have to be 18 or older.
+[2016/02/09 09:53:52] <Tobbi> A requirement he doesn't meet.
+[2016/02/09 09:53:54] <mt> we should ask giby or gr_umbel
+[2016/02/09 09:54:01] <Tobbi> mt: You're not 18, are you?
+[2016/02/09 09:54:16] <mt> I don't want to be org admin
+[2016/02/09 09:54:20] <Tobbi> *sigh*
+[2016/02/09 09:54:23] <Tobbi> mt: Why not?
+[2016/02/09 09:54:29] <mt> because
+[2016/02/09 09:54:45] <Tobbi> giby likely won't be around much...
+[2016/02/09 09:54:57] <Tobbi> And gr.umbel...not sure if he's interested.
