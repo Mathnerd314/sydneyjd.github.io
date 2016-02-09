@@ -4537,3 +4537,6 @@
 [2016/02/09 11:19:45] <Mathnerd314> http://ceu-lang.org/
 [2016/02/09 11:19:46] <mt> rather seems to be a library
 [2016/02/09 11:19:56] <mt> well that pingus repo contains mostly C++ code
+[2016/02/09 11:21:22] <mt> hey mcmic I pushed a commit adding support for what you requested to https://github.com/supertux/supertux/tree/feature/scripting-player-get-velocity
+[2016/02/09 11:21:53] <mt> probably needs some comments before being pushed to master
+[2016/02/09 11:23:18] @ lumidify joined channel #supertux
