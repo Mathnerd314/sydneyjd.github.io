@@ -4796,3 +4796,13 @@
 [2016/02/09 14:25:55] <sydney_untangle> Hehe.
 [2016/02/09 14:29:17] <pentagon> [10wiki] 07Mathnerd314 04force-pushed 1 commit to 09master 13https://git.io/vgz7R
 [2016/02/09 14:29:21] <pentagon> [10wiki] 07Mathnerd314 141e6bb91 Travis script
+[2016/02/09 14:30:22] <Mathnerd314> aha, travis was using an old git version.
+[2016/02/09 14:30:38] <Mathnerd314> sydney_untangle: yes, I don't like cluttering up version history with CI fixes
+[2016/02/09 14:32:14] <brmbrmcar> Isn't force-push scary?
+[2016/02/09 14:33:01] <pentagon> [10wiki] 07Mathnerd314 04force-pushed 1 commit to 09master 13https://git.io/vgz50
+[2016/02/09 14:33:05] <pentagon> [10wiki] 07Mathnerd314 14fec9f1c Travis script
+[2016/02/09 14:33:19] <Mathnerd314> brmbrmcar:  no, all it means is that you have to force-pull if you pulled before
+[2016/02/09 14:33:30] <brmbrmcar> Ah, OK.
+[2016/02/09 14:33:58] <brmbrmcar> It's just that they say it's bad to use on the main repository.
+[2016/02/09 14:34:07] <brmbrmcar> But I don't know.
+[2016/02/09 14:34:39] <Mathnerd314> it is, in general. if you're reckless then the whole history can get deleted
