@@ -4747,3 +4747,9 @@
 [2016/02/09 13:18:35] <Mathnerd314> I guess I would not mind so much if the wiki was smaller. but it is 90MB, insane
 [2016/02/09 13:18:54] <mt> it's because grumbel imported the mediawiki history in a branch there
 [2016/02/09 13:19:13] <mt> https://github.com/SuperTux/wiki/tree/mediawiki
+[2016/02/09 13:20:50] <Mathnerd314> actually, travis-ci can do networked scripts. easy enough to add a little hook
+[2016/02/09 13:23:43] <mt> you mean 'script: true' and 'after_success: run-a-shell-script-that-decrypts-some-ssh-key-and-uses-it-to-push-to-github.sh'
+[2016/02/09 13:23:54] <Mathnerd314> yeah, the only problen is authentication
+[2016/02/09 13:24:23] <mt> you can add a deploy key
+[2016/02/09 13:24:44] <mt> and store that, encrypted with AES-256-whatever in the repo
+[2016/02/09 13:24:56] <mt> and then use a secret travis variable to decrypt the key
