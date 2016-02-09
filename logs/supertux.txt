@@ -4717,3 +4717,8 @@
 [2016/02/09 12:58:49] <Mathnerd314> https://github.com/SuperTux/wiki/settings/hooks
 [2016/02/09 12:58:49] <Hume2> And didn't we decide that we won't have any water physics?
 [2016/02/09 12:59:13] <Hume2> Because it's too complitated and would reveal our rectangular hitboxes?
+[2016/02/09 13:00:12] <Mathnerd314> hmm, I should mention that it requires rewriting the collision detection
+[2016/02/09 13:00:14] <mt> Mathnerd314: right, you'd need some server listening on github's webhook notifications
+[2016/02/09 13:00:46] <Mathnerd314> mt: and there is, http://fornax.urandom.eu.org/github
+[2016/02/09 13:01:35] <Mathnerd314> but I don't know who runs that
+[2016/02/09 13:04:54] <sydney_untangle> Tobbi: Im not on Twitter.
