@@ -4830,3 +4830,5 @@
 [2016/02/09 15:23:28] <mt> I wonder if a `git fetch --unshallow` would make sense?
 [2016/02/09 15:24:53] <mt> Mathnerd314: ugh, also, wouldn't this also push pull requests to master of supertux.wiki?
 [2016/02/09 15:25:06] <mt> like, the current config
+[2016/02/09 15:37:33] <sydney_untangle> ~note Tobbi if you get any unmarked spam emails on the supertux openmailbox email address please forward them the support@openmailbox.org and say that they never got marked as spam. There has been a wave of un-marked spam lately.
+[2016/02/09 15:37:33] <red_bot> alright, sydney_untangle
