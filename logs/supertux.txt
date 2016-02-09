@@ -4508,3 +4508,9 @@
 [2016/02/09 10:33:41] <Mathnerd314> but that patch handles the input and multiple player instances, so a student wouldn't have much to do
 [2016/02/09 10:34:04] <mt> what about Wiimotes or similar input methods?
 [2016/02/09 10:34:37] <brmbrmcar> Wiimotes need proprietary stuff, right?
+[2016/02/09 10:35:30] <Mathnerd314> those would be handled in SDL, not in SuperTux
+[2016/02/09 10:36:28] <mt> what about network multiplayer?
+[2016/02/09 10:36:49] <mt> or generally, some kind of network integration
+[2016/02/09 10:37:26] <mt> the add-on system (especially the currently non-existent API) would need some rework
+[2016/02/09 10:38:45] <mt> RESTful API returning S-exp responses :D
+[2016/02/09 10:39:04] <Mathnerd314> I guess we could turn the addon system into a Mario Maker clone
