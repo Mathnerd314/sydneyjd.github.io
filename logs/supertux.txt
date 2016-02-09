@@ -4549,3 +4549,6 @@
 [2016/02/09 11:35:46] <pentagon> [10wiki] 07Mathnerd314 pushed 1 commit to 09master 13https://git.io/vgzTH
 [2016/02/09 11:35:50] <pentagon> [10wiki] 07Mathnerd314 143d168ee More ideas, more information on the others
 [2016/02/09 11:49:42] @ alket joined channel #supertux
+[2016/02/09 11:50:56] @ Quit: alket: Client Quit
+[2016/02/09 11:53:11] @ Tobbi joined channel #supertux
+[2016/02/09 11:53:11] @ Mode +v Tobbi by ChanServ
