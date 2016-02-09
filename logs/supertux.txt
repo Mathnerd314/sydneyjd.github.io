@@ -4295,3 +4295,14 @@
 [2016/02/09 09:19:28] <mt> editor only if we'll include that
 [2016/02/09 09:19:47] <Tobbi> We can.
 [2016/02/09 09:19:52] <Tobbi> Since we did write "Python" as well.
+[2016/02/09 09:20:06] <mt> also, graphics
+[2016/02/09 09:20:10] <mt> (i.e. rendering)
+[2016/02/09 09:20:23] <mt> and UI
+[2016/02/09 09:20:38] <pentagon> [10supertux] Status for commit src/scripting: Player: add get_velocity_x and _y functions by 07Max Teufel: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/108030067
+[2016/02/09 09:21:04] <Tobbi> mt: http://screencast.com/t/qSoFT6iIm33
+[2016/02/09 09:21:05] <Tobbi> first part.
+[2016/02/09 09:21:07] <Tobbi> okay?
+[2016/02/09 09:22:40] <Tobbi> second part: http://screencast.com/t/AJr9AzmPg05Q
+[2016/02/09 09:23:47] <Tobbi> third part: http://screencast.com/t/FQ5QoclP9
+[2016/02/09 09:24:23] <Tobbi> last part: http://screencast.com/t/z4O2bNeLfznz
+[2016/02/09 09:24:34] <Tobbi> improvements / additions / changes?
