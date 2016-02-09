@@ -4205,3 +4205,7 @@
 [2016/02/09 08:37:17] <sydney_untangle> I agree with Stallman to an extent, but i also think he over-does it quite a bit.
 [2016/02/09 08:37:37] * sydney_untangle flosses his teeth...
 [2016/02/09 08:37:38] <sydney_untangle> ;p
+[2016/02/09 08:44:19] @ Tobbi joined channel #supertux
+[2016/02/09 08:44:19] @ Mode +v Tobbi by ChanServ
+[2016/02/09 08:44:42] <Tobbi> Hello.
+[2016/02/09 08:44:46] <Tobbi> mt: You there?
