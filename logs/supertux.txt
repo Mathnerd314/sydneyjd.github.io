@@ -4528,3 +4528,12 @@
 [2016/02/09 10:58:42] <mt> well, SuperTuxKart has some nice UI for configuring a Wiimote (including pairing with it) and setting up different buttons
 [2016/02/09 11:07:11] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/09 11:09:27] <Mathnerd314> yeah, I guess we could implement support for wiiuse
+[2016/02/09 11:16:26] <Mathnerd314> amazing, there was already a SuperTux GSOC last year: http://www.google-melange.com/gsoc/project/details/google/gsoc2015/tkachov/5707702298738688
+[2016/02/09 11:17:03] <mt> Céu? what's that
+[2016/02/09 11:17:20] @ mcmic joined channel #supertux
+[2016/02/09 11:17:58] <Mathnerd314> oh, it ended up being pingus: https://github.com/Tkachov/ceu_pingus
+[2016/02/09 11:19:03] <Mathnerd314> ceu is some kind of experimental reactive programming language
+[2016/02/09 11:19:31] <mt> how is it a programming language when it's C++ code
+[2016/02/09 11:19:45] <Mathnerd314> http://ceu-lang.org/
+[2016/02/09 11:19:46] <mt> rather seems to be a library
+[2016/02/09 11:19:56] <mt> well that pingus repo contains mostly C++ code
