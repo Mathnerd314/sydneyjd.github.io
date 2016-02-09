@@ -4181,3 +4181,10 @@
 [2016/02/09 07:59:00] <MCMic> mt: I need to go, but I’ll come back :-)
 [2016/02/09 07:59:21] <MCMic> Is it easy to add a script to an existing level? Or a specific game session?
 [2016/02/09 07:59:59] <mt> if it works now, in a script 'Tux.get_velocity_x()' or in the console 'sector.Tux.get_velocity_x()'
+[2016/02/09 08:00:17] <MCMic> ok I’ll try that
+[2016/02/09 08:00:21] <MCMic> see you
+[2016/02/09 08:00:27] @ Quit: MCMic: Quit: Konversation terminated!
+[2016/02/09 08:00:37] <mt> pentagon: later tell MCMic if it doesn't work now, I'll make that possible
+[2016/02/09 08:00:38] <pentagon> mt: The operation succeeded.
+[2016/02/09 08:03:46] <mt> right now I wonder
+[2016/02/09 08:04:09] <mt> if it would be possible to unit test using recorded levels
