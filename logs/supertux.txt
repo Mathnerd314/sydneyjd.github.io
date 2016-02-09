@@ -4603,3 +4603,15 @@
 [2016/02/09 12:19:28] <Hume2> What is mentor summit?
 [2016/02/09 12:19:39] <mt> a meeting where mentors will be invited to
 [2016/02/09 12:19:52] <mt> it says at the google campus (so probably in Mountain View, CA, US)
+[2016/02/09 12:20:06] <Mathnerd314> at the end of GSOC (+ a month or so) they let everyone fly in and discuss the results
+[2016/02/09 12:20:07] <mt> two mentors of the organization can get money to pay the costs
+[2016/02/09 12:20:40] <Hume2> So if I refused the money, am I safe then?
+[2016/02/09 12:22:06] <Tobbi> :D
+[2016/02/09 12:22:12] <Tobbi> mt: So, all of the costs?
+[2016/02/09 12:22:18] <Tobbi> I could get a limo from here to Hamburg? :P
+[2016/02/09 12:22:55] <Hume2> So I'll try to fill in that date, any complaints?
+[2016/02/09 12:23:06] <Tobbi> no.
+[2016/02/09 12:23:09] <Tobbi> Not from me anyway.
+[2016/02/09 12:23:13] <Hume2> OK
+[2016/02/09 12:24:22] <Hume2> Name, oh.
+[2016/02/09 12:24:41] <Hume2> And phone number.
