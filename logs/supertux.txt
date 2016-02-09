@@ -4317,3 +4317,10 @@
 [2016/02/09 09:31:22] <Tobbi> mt: Yes.
 [2016/02/09 09:31:22] <mt> (yes you are)
 [2016/02/09 09:31:26] <Tobbi> :D
+[2016/02/09 09:37:06] <mt> Probably also for font rendering and OpenGL ES?
+[2016/02/09 09:37:15] <mt> I'll add Hume2 for the in-game level editor
+[2016/02/09 09:37:43] <Tobbi> mt: I am not sure about font rendering or opengl...I'm not very knowledgeable about this.
+[2016/02/09 09:37:46] <Tobbi> Can't anyone co-mentor?
+[2016/02/09 09:39:23] <mt> giby did some SDL2 work
+[2016/02/09 09:39:27] <mt> maybe ask him?
+[2016/02/09 09:39:30] <mt> (via email)
