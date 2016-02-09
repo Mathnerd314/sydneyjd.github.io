@@ -4526,3 +4526,5 @@
 [2016/02/09 10:54:07] <Mathnerd314> looks like SuperTux would work with https://wiki.gnome.org/Wiican and the config in https://github.com/haxney/wiimote-mupen64, it doesn't look like it would take a summer
 [2016/02/09 10:56:55] <Tobbi> bbl, gonna go for a walk.
 [2016/02/09 10:58:42] <mt> well, SuperTuxKart has some nice UI for configuring a Wiimote (including pairing with it) and setting up different buttons
+[2016/02/09 11:07:11] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/09 11:09:27] <Mathnerd314> yeah, I guess we could implement support for wiiuse
