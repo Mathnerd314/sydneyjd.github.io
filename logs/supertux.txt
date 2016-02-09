@@ -4552,3 +4552,15 @@
 [2016/02/09 11:50:56] @ Quit: alket: Client Quit
 [2016/02/09 11:53:11] @ Tobbi joined channel #supertux
 [2016/02/09 11:53:11] @ Mode +v Tobbi by ChanServ
+[2016/02/09 12:01:00] <mt> fwiw, I usually watch out to keep lines in the wiki at about 80 characters
+[2016/02/09 12:01:08] <mt> so it displays properly on smaller terminals
+[2016/02/09 12:01:24] <mt> (just like PEP8 wants it)
+[2016/02/09 12:01:43] <Mathnerd314> eh, I really wish I could care, but nobody I've met uses 80-char terminals
+[2016/02/09 12:02:20] <mt> well, when I want a smaller terminal window I have a 90 char wide one
+[2016/02/09 12:02:26] <Mathnerd314> and it's text, any decent editor has line wrapping
+[2016/02/09 12:02:34] <mt> but usually I also have my IRC client half of the screen
+[2016/02/09 12:02:51] <mt> (which is in a terminal)
+[2016/02/09 12:03:07] <Mathnerd314> Tobbi: about the proposals. The GSOC website has its own submission system, do you really need them to also email it?
+[2016/02/09 12:03:28] <Tobbi> Mathnerd314: I don't know...It's the form that asked...
+[2016/02/09 12:04:22] <Mathnerd314> the form is so you can add extra instructions, like "meet with us on IRC before you submit your proposal so we can discuss it"
+[2016/02/09 12:04:35] <Tobbi> Mathnerd314: Sounds fun, go ahead and add it.
