@@ -4189,3 +4189,15 @@
 [2016/02/09 08:03:46] <mt> right now I wonder
 [2016/02/09 08:04:09] <mt> if it would be possible to unit test using recorded levels
 [2016/02/09 08:05:10] @ Quit: lumidify: Ping timeout: 250 seconds
+[2016/02/09 08:30:18] <mt> is it possible to use a float as string in squirrel?
+[2016/02/09 08:30:22] <sydney_untangle> mt: Is'nt supertux also a FLOSS project?
+[2016/02/09 08:30:33] * sydney_untangle is reading through that etherpad link...
+[2016/02/09 08:31:38] <mt> ugh stallman terms for describing open source software
+[2016/02/09 08:32:12] <mt> is it me, or is squirrel's classes syntax *very* similar to ES6's?
+[2016/02/09 08:32:22] <sydney_untangle> mt: Ok, FOSS? ;)
+[2016/02/09 08:32:34] <mt> "an open source project"
+[2016/02/09 08:32:39] <mt> in the first answer
+[2016/02/09 08:32:51] <mt> isn't that enough
+[2016/02/09 08:32:56] * sydney_untangle is thinking...
+[2016/02/09 08:33:08] <sydney_untangle> Yes, i guess it is...
+[2016/02/09 08:33:46] <sydney_untangle> Cool, i did not know about Etherpad.
