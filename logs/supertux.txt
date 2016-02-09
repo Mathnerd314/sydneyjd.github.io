@@ -4722,3 +4722,18 @@
 [2016/02/09 13:00:46] <Mathnerd314> mt: and there is, http://fornax.urandom.eu.org/github
 [2016/02/09 13:01:35] <Mathnerd314> but I don't know who runs that
 [2016/02/09 13:04:54] <sydney_untangle> Tobbi: Im not on Twitter.
+[2016/02/09 13:05:10] <sydney_untangle> Tobbi: You can find me on Diaspora though.
+[2016/02/09 13:05:19] <Tobbi> sydney_untangle: I think Twitter would break from your weight anyway.
+[2016/02/09 13:05:22] <Tobbi> It's rather fragile.
+[2016/02/09 13:05:34] <Tobbi> Oh, right, re those nice girls.
+[2016/02/09 13:05:51] <sydney_untangle> Tobbi: o_O
+[2016/02/09 13:06:13] <Tobbi> sydney_untangle: They are nice girls.
+[2016/02/09 13:06:22] <Tobbi> Actually, *cough*
+[2016/02/09 13:06:22] <Tobbi> Sorry.
+[2016/02/09 13:06:24] <pentagon> [10wiki] 07Mathnerd314 pushed 1 commit to 09master 13https://git.io/vgzuf
+[2016/02/09 13:06:27] <pentagon> [10wiki] 07Mathnerd314 142264aeb physics = collision detection
+[2016/02/09 13:06:33] @ uwjesq left channel #supertux ()
+[2016/02/09 13:07:20] <sydney_untangle> ugg...
+[2016/02/09 13:08:08] <Tobbi> sydney_untangle: I am sorry, sometimes I tend to say things which are not appropriate.
+[2016/02/09 13:08:10] <Tobbi> I know that mysefl.
+[2016/02/09 13:08:21] @ Quit: Tobbi: Remote host closed the connection
