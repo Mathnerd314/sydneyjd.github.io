@@ -4131,3 +4131,4 @@
 [2016/02/08 22:35:36] @ datahead8888 joined channel #supertux
 [2016/02/08 22:35:53] @ datahead8888 is now known as datahead7777
 [2016/02/08 23:15:01] @ tux|dude joined channel #supertux
+[2016/02/09 00:18:33] @ Quit: tux|dude: Quit: Leaving
