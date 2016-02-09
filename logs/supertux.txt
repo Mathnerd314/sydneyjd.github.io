@@ -4806,3 +4806,6 @@
 [2016/02/09 14:33:58] <brmbrmcar> It's just that they say it's bad to use on the main repository.
 [2016/02/09 14:34:07] <brmbrmcar> But I don't know.
 [2016/02/09 14:34:39] <Mathnerd314> it is, in general. if you're reckless then the whole history can get deleted
+[2016/02/09 14:35:23] <Mathnerd314> lol: https://travis-ci.org/SuperTux/wiki/builds/108107459. whoever wrote that clearly didn't like CI scripts
+[2016/02/09 14:36:25] <pentagon> [10wiki] 07Mathnerd314 04force-pushed 1 commit to 09master 13https://git.io/vgzdD
+[2016/02/09 14:36:28] <pentagon> [10wiki] 07Mathnerd314 148c742d0 Travis script
