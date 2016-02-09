@@ -4108,3 +4108,5 @@
 [2016/02/08 19:00:27] @ Tobbi joined channel #supertux
 [2016/02/08 19:00:27] @ Mode +v Tobbi by ChanServ
 [2016/02/08 19:00:31] @ Quit: Mathnerd314: Quit: No Ping reply in 180 seconds.
+[2016/02/08 19:08:29] @ Quit: alket: Quit: ?v=Hg_gZRRLHSc
+[2016/02/08 19:08:38] @ Mathnerd314 joined channel #supertux
