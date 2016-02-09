@@ -4519,3 +4519,6 @@
 [2016/02/09 10:44:30] <mt> could be two separate projects, I think
 [2016/02/09 10:44:40] <Tobbi> mt: Oh, yeah, backend website.
 [2016/02/09 10:44:42] <Tobbi> That's a good idea.
+[2016/02/09 10:46:07] <mt> re coop patch: wouldn't it make sense to move that to a devel branch?
+[2016/02/09 10:49:07] <Mathnerd314> yeah, but it was written back when SuperTux was using SVN (or even CVS, I'm not sure)
+[2016/02/09 10:49:48] <mt> doesn't the patch tool accept all kinds of diffs?
