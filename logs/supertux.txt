@@ -4388,3 +4388,42 @@
 [2016/02/09 09:59:55] <Tobbi> I can cancel that.
 [2016/02/09 09:59:56] <mt> because otherwise, Google will ask him to be a special guest
 [2016/02/09 10:00:00] <mt> :D
+[2016/02/09 10:00:11] <mt> because he's the oldest GSoC org admin :>
+[2016/02/09 10:00:16] <Tobbi> :D
+[2016/02/09 10:00:25] <sydney_untangle> heh.
+[2016/02/09 10:00:54] <Tobbi> sydney_untangle: Ask your grandma to be an org admin for supertux?
+[2016/02/09 10:01:00] <Tobbi> Just tell her she'll get candy and save the goats.
+[2016/02/09 10:01:04] <mt> 15:54 -- We would like to take this moment to remind you that we accept absolutely no liability for the insanity you're about to endure.
+[2016/02/09 10:01:06] <Tobbi> That will make her agree.
+[2016/02/09 10:01:14] <mt> we should add this as an entry message for this channel
+[2016/02/09 10:01:20] <Tobbi> :D
+[2016/02/09 10:01:26] <Tobbi> With brmbrmcar, certainly.
+[2016/02/09 10:01:32] <sydney_untangle> Tobbi: Her house is full of candy as it is and she doesn't like it when i bring my goats into her house. ;p
+[2016/02/09 10:01:34] <Tobbi> *with brmbrmcar present.
+[2016/02/09 10:01:46] <Tobbi> sydney_untangle: Okay, then tell her she'll get a goat and save the candy.
+[2016/02/09 10:01:56] <Tobbi> She'll get a live chocolate goat.
+[2016/02/09 10:02:26] <sydney_untangle> No. NO.
+[2016/02/09 10:02:38] <sydney_untangle> ;)
+[2016/02/09 10:02:58] <Tobbi> Okay, who else can be an org admin.
+[2016/02/09 10:03:02] <Tobbi> leyyin can.
+[2016/02/09 10:03:11] <Tobbi> He knows a lot about this community.
+[2016/02/09 10:03:15] <Tobbi> At least he knows who to avoid.
+[2016/02/09 10:03:21] <sydney_untangle> leyyin: You have automatically been OPed to be an admin. :D
+[2016/02/09 10:03:35] @ Mode -o leyyin by ChanServ
+[2016/02/09 10:03:37] <Tobbi> He's away.
+[2016/02/09 10:03:40] <sydney_untangle> lol. ;)
+[2016/02/09 10:03:40] <mt> :(
+[2016/02/09 10:03:48] <Tobbi> mt: Was that you? :D
+[2016/02/09 10:03:51] <mt> yeah
+[2016/02/09 10:03:51] <leyyin> why?
+[2016/02/09 10:03:53] <leyyin> what?
+[2016/02/09 10:03:56] <Tobbi> oh, he's awake.
+[2016/02/09 10:04:05] <Tobbi> leyyin: We need another person besides me who is above 18 years old.
+[2016/02/09 10:04:08] * sydney_untangle is afk...
+[2016/02/09 10:04:15] <Tobbi> for gsoc.
+[2016/02/09 10:04:16] <leyyin> for?
+[2016/02/09 10:04:24] <Tobbi> gsoc.
+[2016/02/09 10:04:26] <leyyin> to do what?
+[2016/02/09 10:04:34] <Tobbi> leyyin: Be an org admin. Google requirement.
+[2016/02/09 10:04:44] <leyyin> and why can't you be? Tobbi
+[2016/02/09 10:05:00] <Tobbi> leyyin: There need to be at least two people.
