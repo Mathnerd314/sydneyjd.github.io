@@ -4615,3 +4615,15 @@
 [2016/02/09 12:23:13] <Hume2> OK
 [2016/02/09 12:24:22] <Hume2> Name, oh.
 [2016/02/09 12:24:41] <Hume2> And phone number.
+[2016/02/09 12:25:11] <Hume2> Does it have to be real name? Oh.
+[2016/02/09 12:26:17] <mt> (you might want to ask sydney_untangle to strip this conversation out of the logs)
+[2016/02/09 12:26:32] <Hume2> I'll ask him.
+[2016/02/09 12:27:26] <Hume2> ~note sydney_untangle Cloud you please strip this conversation out of the logs? I don't want anyone to see that.
+[2016/02/09 12:27:26] <red_bot> aight, Hume2
+[2016/02/09 12:27:30] -ChanServ- mt (mteufel) set flags +AVeiotv on Mathnerd314
+[2016/02/09 12:27:30] @ Mode +v Mathnerd314 by ChanServ
+[2016/02/09 12:28:10] <Mathnerd314> ops? \O/
+[2016/02/09 12:28:14] <Hume2> Don't you know what they need the name for?
+[2016/02/09 12:28:15] <mt> yeah
+[2016/02/09 12:29:22] <Hume2> I can use pseudonyme.
+[2016/02/09 12:29:41] <brmbrmcar> Cloud you?
