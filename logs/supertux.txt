@@ -4846,3 +4846,5 @@
 [2016/02/09 16:00:25] <Tobbi> What have you guys been up to?
 [2016/02/09 16:02:49] <Tobbi> Also, do we have someone who can vouch for us?
 [2016/02/09 16:03:35] <Tobbi> Mathnerd314: What did you actually change about the application?
+[2016/02/09 16:36:49] @ Quit: claymore2: Quit: Leaving
+[2016/02/09 16:39:38] @ claymore2 joined channel #supertux
