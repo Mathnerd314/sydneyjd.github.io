@@ -4105,3 +4105,6 @@
 [2016/02/08 17:53:03] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/08 18:28:56] @ irungentoo joined channel #supertux
 [2016/02/08 18:43:29] @ Quit: Wuzzy: Quit: Wuzzy
+[2016/02/08 19:00:27] @ Tobbi joined channel #supertux
+[2016/02/08 19:00:27] @ Mode +v Tobbi by ChanServ
+[2016/02/08 19:00:31] @ Quit: Mathnerd314: Quit: No Ping reply in 180 seconds.
