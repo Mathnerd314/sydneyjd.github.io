@@ -4576,3 +4576,17 @@
 [2016/02/09 12:08:09] <Mathnerd314> mt: proposals are secret unless accepted, and even then only the abstracts are public. IMO a good thing since they often have valuable information such as name/address
 [2016/02/09 12:08:18] <Hume2> Let's say that I'm at least 18.
 [2016/02/09 12:08:59] <Hume2> So if anyone asked, I am.
+[2016/02/09 12:10:03] <Tobbi> Hume2: Not sure if that would be a wise thing to do.
+[2016/02/09 12:10:19] <Hume2> It needs to know my date of birth.
+[2016/02/09 12:10:28] <mt> Ah well, I think I've seen students talk about their proposals on SuperTuxKart's mailing list when they were a mentor organization - but that might have been optional
+[2016/02/09 12:10:57] <Hume2> Well, could it be mt instead?
+[2016/02/09 12:11:21] <Tobbi> He doesn't. want to.
+[2016/02/09 12:11:48] <Hume2> Eventually I can wait until I'll be 18. How long can it wait?
+[2016/02/09 12:12:34] <Hume2> Or is the date of birth verified somehow?
+[2016/02/09 12:12:43] <mt> Organizations can apply until Feb 19th
+[2016/02/09 12:13:00] <Hume2> Two days!
+[2016/02/09 12:13:06] <Hume2> Not enough time.
+[2016/02/09 12:13:41] <Hume2> I can fill in a fake date, but ….
+[2016/02/09 12:13:50] <mt> also, mentors can be 17 when they have consent of their parents, it's just the org admins
+[2016/02/09 12:14:37] @ uwjesq joined channel #supertux
+[2016/02/09 12:14:48] <Hume2> What kind of consent by my parents they need?
