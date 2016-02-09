@@ -4755,3 +4755,8 @@
 [2016/02/09 13:24:56] <mt> and then use a secret travis variable to decrypt the key
 [2016/02/09 13:25:45] <mt> however, I'm not sure if deploy keys support pushing to wikis
 [2016/02/09 13:26:12] <mt> otherwise, create an account 'supertux-bot' and give it limited access to the supertux/supertux repo
+[2016/02/09 13:37:03] <Mathnerd314> hmm, travis already adds a deploy key for the main repo. I wonder if I can copy it so it accesses both
+[2016/02/09 13:38:42] <mt> are you sure that this deploy key might not just have been added by maths22?
+[2016/02/09 13:39:04] <mt> because in a repo I manage and have Travis enabled, there's no deploy key by default
+[2016/02/09 13:39:06] <Mathnerd314> oh, it's only automatically added for private repos
+[2016/02/09 13:39:36] <mt> it just needs read access to the supertux/wiki repo
