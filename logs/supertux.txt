@@ -4209,3 +4209,4 @@
 [2016/02/09 08:44:19] @ Mode +v Tobbi by ChanServ
 [2016/02/09 08:44:42] <Tobbi> Hello.
 [2016/02/09 08:44:46] <Tobbi> mt: You there?
+[2016/02/09 08:49:50] <Tobbi> mt: In any case, we need to decide on criteria for the students and how they should apply with us...
