@@ -4820,3 +4820,7 @@
 [2016/02/09 14:47:48] @ Quit: Karkus: Ping timeout: 256 seconds
 [2016/02/09 14:48:00] <pentagon> [10supertux] 07Mathnerd314 edited wiki page 09GSoC 2016 Ideas 13https://git.io/vgR67
 [2016/02/09 14:48:15] <Mathnerd314> ok. it's a little slow, but good enough
+[2016/02/09 15:10:43] @ claymore2 joined channel #supertux
+[2016/02/09 15:12:26] @ lumidify joined channel #supertux
+[2016/02/09 15:12:26] @ Quit: lumidify: Changing host
+[2016/02/09 15:12:26] @ lumidify joined channel #supertux
