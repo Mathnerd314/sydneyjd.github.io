@@ -4252,3 +4252,21 @@
 [2016/02/09 09:04:18] <mt> I guess so
 [2016/02/09 09:04:24] <mt> unless someone else objects
 [2016/02/09 09:04:55] <Tobbi> mt: What information do we want from potential candidates?
+[2016/02/09 09:05:22] <pentagon> [10supertux] 07maxteufel created branch 09feature/scripting-player-get-velocity
+[2016/02/09 09:05:25] <pentagon> [10supertux] 07maxteufel pushed 1 commit to 09feature/scripting-player-get-velocity 13https://git.io/vguEW
+[2016/02/09 09:05:28] <pentagon> [10supertux] 07maxteufel 144e1c5be src/scripting: Player: add get_velocity_x and _y functions
+[2016/02/09 09:06:16] <Tobbi> mt: For the sake of const correctness, please mark those functions in scripting/ as const.
+[2016/02/09 09:06:24] <mt> university, what they're studying, previous open source contributions? GSoC participation in the past? other non-SuperTux related programming skills; did they have experience with UNIX/POSIX OSes before?
+[2016/02/09 09:07:15] <pentagon> [10supertux] Status for commit src/scripting: Player: add get_velocity_x and _y functions by 07Max Teufel: 04Error starting AppVeyor build 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/1.0.374
+[2016/02/09 09:08:02] <mt> wat
+[2016/02/09 09:09:01] <Tobbi> Doesn't matter.
+[2016/02/09 09:09:25] <sydney_untangle> Has anyone ever checked our openmailbox.org email?
+[2016/02/09 09:09:35] <Tobbi> So, I put this:
+[2016/02/09 09:09:37] <mt> I think we should read http://write.flossmanuals.net/gsoc-mentoring/about-this-manual/
+[2016/02/09 09:09:38] <Tobbi> Please send your application to supertuxteam@openmailbox.org. It should include the following information:
+[2016/02/09 09:09:38] <Tobbi> * What university do you attend?
+[2016/02/09 09:09:38] <Tobbi> * What do you study?
+[2016/02/09 09:09:40] <Tobbi> * Have you contributed to open-source projects before participating in GSoC?
+[2016/02/09 09:09:42] <Tobbi> * What programming skills do you have?
+[2016/02/09 09:09:44] <Tobbi> * Do you have experience with UNIX / POSIX operating systems?
+[2016/02/09 09:09:49] <Tobbi> sydney_untangle: I have it regularly in my TB
