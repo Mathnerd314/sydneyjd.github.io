@@ -4514,3 +4514,8 @@
 [2016/02/09 10:37:26] <mt> the add-on system (especially the currently non-existent API) would need some rework
 [2016/02/09 10:38:45] <mt> RESTful API returning S-exp responses :D
 [2016/02/09 10:39:04] <Mathnerd314> I guess we could turn the addon system into a Mario Maker clone
+[2016/02/09 10:41:22] <mt> integration with the in-game editor?
+[2016/02/09 10:44:13] <Mathnerd314> yeah, in-game editor and a backend website for level-sharing
+[2016/02/09 10:44:30] <mt> could be two separate projects, I think
+[2016/02/09 10:44:40] <Tobbi> mt: Oh, yeah, backend website.
+[2016/02/09 10:44:42] <Tobbi> That's a good idea.
