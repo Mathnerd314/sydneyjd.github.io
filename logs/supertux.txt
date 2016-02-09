@@ -4243,3 +4243,12 @@
 [2016/02/09 08:59:33] <mt> also, do applications need to be open?
 [2016/02/09 08:59:43] <Tobbi> It only says Guidance for students on how to apply to your organization. Should include any prerequisites or requirements. You may wish to include a template or tips for their proposals. May include limited Markdown.
 [2016/02/09 08:59:47] <Tobbi> I will check the rules.
+[2016/02/09 09:01:26] <Tobbi> Oh god, the student has to submit an evaluation of the mentors as well :D
+[2016/02/09 09:01:52] <mt> sydney_untangle: you might want to forward mails to that address to mteufel@urandom.eu.org
+[2016/02/09 09:03:31] <Tobbi> mt: So, do I put down supertuxteam@ openmailbox and I can agree to forward all mails to admins?
+[2016/02/09 09:03:53] <mt> where?
+[2016/02/09 09:04:05] <mt> for the official recommendations for the place to apply, yes
+[2016/02/09 09:04:13] <Tobbi> Okay.
+[2016/02/09 09:04:18] <mt> I guess so
+[2016/02/09 09:04:24] <mt> unless someone else objects
+[2016/02/09 09:04:55] <Tobbi> mt: What information do we want from potential candidates?
