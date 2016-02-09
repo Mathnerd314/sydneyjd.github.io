@@ -4837,3 +4837,9 @@
 [2016/02/09 15:50:18] @ lumidify joined channel #supertux
 [2016/02/09 15:50:18] @ Quit: lumidify: Changing host
 [2016/02/09 15:50:18] @ lumidify joined channel #supertux
+[2016/02/09 15:55:21] @ Tobbi joined channel #supertux
+[2016/02/09 15:55:21] @ Mode +v Tobbi by ChanServ
+[2016/02/09 15:56:46] <Tobbi> hello.
+[2016/02/09 15:56:46] <red_bot> Tobbi, you have notes! [Feb- 9 15:37] <sydney_untangle> if you get any unmarked spam emails on the supertux openmailbox email address please forward them the support@openmailbox.org and say that they never got marked as spam. There has been a wave of un-marked spam lately.
+[2016/02/09 15:56:50] <Tobbi> ok.
+[2016/02/09 15:59:27] @ Quit: lumidify: Quit: Leaving
