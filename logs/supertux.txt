@@ -4825,3 +4825,7 @@
 [2016/02/09 15:12:26] @ Quit: lumidify: Changing host
 [2016/02/09 15:12:26] @ lumidify joined channel #supertux
 [2016/02/09 15:18:56] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/02/09 15:22:25] <mt> if you enable it in the webhook settings, you can also make pentagon announce successful/failed travis builds for the wiki
+[2016/02/09 15:22:37] <mt> "builds"
+[2016/02/09 15:23:28] <mt> I wonder if a `git fetch --unshallow` would make sense?
+[2016/02/09 15:24:53] <mt> Mathnerd314: ugh, also, wouldn't this also push pull requests to master of supertux.wiki?
