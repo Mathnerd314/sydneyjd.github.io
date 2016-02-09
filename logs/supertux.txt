@@ -4157,3 +4157,4 @@
 [2016/02/09 07:14:00] <leyyin> that would catch their attention
 [2016/02/09 07:18:03] @ lumidify joined channel #supertux
 [2016/02/09 07:43:52] <MCMic> Is there any easy way to display tux speed on screen?
+[2016/02/09 07:48:06] <mt> Tux speed?
