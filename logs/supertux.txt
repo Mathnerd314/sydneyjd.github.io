@@ -4832,3 +4832,5 @@
 [2016/02/09 15:25:06] <mt> like, the current config
 [2016/02/09 15:37:33] <sydney_untangle> ~note Tobbi if you get any unmarked spam emails on the supertux openmailbox email address please forward them the support@openmailbox.org and say that they never got marked as spam. There has been a wave of un-marked spam lately.
 [2016/02/09 15:37:33] <red_bot> alright, sydney_untangle
+[2016/02/09 15:40:10] @ Quit: tux|dude: Quit: Leaving
+[2016/02/09 15:42:55] <Mathnerd314> mt: I disabled it in the travis UI. I should probably add a hook in the script too, but whatever
