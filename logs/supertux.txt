@@ -4627,3 +4627,16 @@
 [2016/02/09 12:28:15] <mt> yeah
 [2016/02/09 12:29:22] <Hume2> I can use pseudonyme.
 [2016/02/09 12:29:41] <brmbrmcar> Cloud you?
+[2016/02/09 12:30:02] <Hume2> Oh, they need adress.
+[2016/02/09 12:30:08] <Hume2> Can't do this, sorry.
+[2016/02/09 12:30:08] <mt> "Prof. Dr. Hue M. E. Tera"
+[2016/02/09 12:30:51] <brmbrmcar> Are you creating a Google account or what?
+[2016/02/09 12:30:57] <mt> Hume2: https://www.fakenamegenerator.com/
+[2016/02/09 12:31:06] <mt> also includes a fake location
+[2016/02/09 12:31:22] <Hume2> mt: Yes, but I need also fake adress and fake phone number.
+[2016/02/09 12:31:33] <Hume2> Oh, there.
+[2016/02/09 12:31:39] <mt> fake address you can extract that from location
+[2016/02/09 12:31:51] <mt> phone no is also generated
+[2016/02/09 12:33:07] <Hume2> My name will be "Prokop Okno".
+[2016/02/09 12:33:38] <Hume2> Phone: 513-783-3037
+[2016/02/09 12:34:16] <Hume2> And now address.
