@@ -4120,3 +4120,11 @@
 [2016/02/08 20:51:05] @ bb010g joined channel #supertux
 [2016/02/08 21:13:23] @ Quit: tuxdev_: Ping timeout: 264 seconds
 [2016/02/08 21:26:39] @ Quit: irungentoo: Remote host closed the connection
+[2016/02/08 21:35:48] <jeezy> sydney_untangle: http://i.imgur.com/hft1I5c.jpg
+[2016/02/08 21:35:52] <jeezy> working on the linux DAW
+[2016/02/08 21:38:24] <sydney_untangle> jeezy: DAW?
+[2016/02/08 21:38:43] <jeezy> digital audio workstation
+[2016/02/08 21:38:51] <sydney_untangle> jeezy: Ah, looks cool. :)
+[2016/02/08 21:38:57] * sydney_untangle is going back to bed...
+[2016/02/08 21:39:02] <sydney_untangle> Goodnight jeezy. ;)
+[2016/02/08 21:39:13] <jeezy> gnight
