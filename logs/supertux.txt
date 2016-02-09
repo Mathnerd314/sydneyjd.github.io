@@ -4153,3 +4153,5 @@
 [2016/02/09 07:07:30] <mt> https://public.etherpad-mozilla.org/p/GSOC_supertux
 [2016/02/09 07:08:44] <mt> alternative answer why we want to apply: Let's make GSoC great again!
 [2016/02/09 07:09:03] <leyyin> :D
+[2016/02/09 07:10:34] @ Quit: lumidify: Ping timeout: 250 seconds
+[2016/02/09 07:14:00] <leyyin> that would catch their attention
