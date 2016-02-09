@@ -4809,3 +4809,9 @@
 [2016/02/09 14:35:23] <Mathnerd314> lol: https://travis-ci.org/SuperTux/wiki/builds/108107459. whoever wrote that clearly didn't like CI scripts
 [2016/02/09 14:36:25] <pentagon> [10wiki] 07Mathnerd314 04force-pushed 1 commit to 09master 13https://git.io/vgzdD
 [2016/02/09 14:36:28] <pentagon> [10wiki] 07Mathnerd314 148c742d0 Travis script
+[2016/02/09 14:41:12] <pentagon> [10wiki] 07Karkus476 pushed 1 commit to 09master 13https://git.io/vgzAT
+[2016/02/09 14:41:15] <pentagon> [10wiki] 07Karkus476 14a0c9544 Make Multiplayer more open
+[2016/02/09 14:42:26] <pentagon> [10supertux] 07Karkus476 edited wiki page 09GSoC 2016 Ideas 13https://git.io/vgR67
+[2016/02/09 14:42:33] <Mathnerd314> it works!
+[2016/02/09 14:42:47] <Karkus> Mathnerd314: Yay!
+[2016/02/09 14:44:46] @ tux|dude joined channel #supertux
