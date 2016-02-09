@@ -4540,3 +4540,9 @@
 [2016/02/09 11:21:22] <mt> hey mcmic I pushed a commit adding support for what you requested to https://github.com/supertux/supertux/tree/feature/scripting-player-get-velocity
 [2016/02/09 11:21:53] <mt> probably needs some comments before being pushed to master
 [2016/02/09 11:23:18] @ lumidify joined channel #supertux
+[2016/02/09 11:32:19] <mcmic> mt: hey
+[2016/02/09 11:32:20] <pentagon> mcmic: Sent 3 hours and 31 minutes ago: <mt> if it doesn't work now, I'll make that possible
+[2016/02/09 11:32:21] <pentagon> mcmic: Sent 2 hours and 39 minutes ago: <mt> as in the git master, Player.get_velocity_?() doesn't exist, I added it and will soon push it to a separate branch: https://urandom.eu.org/i/9YkaGO7T.png
+[2016/02/09 11:33:09] <mcmic> mt: thanks
+[2016/02/09 11:34:05] @ Quit: lumidify: Ping timeout: 276 seconds
+[2016/02/09 11:34:12] <mcmic> mt: I’ll try to build it then. I want the final result to be played on v0.4.0 but I can use an other version with better tools to help me built it.
