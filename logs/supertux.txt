@@ -4138,3 +4138,4 @@
 [2016/02/09 02:53:55] @ Quit: lumidify: Ping timeout: 260 seconds
 [2016/02/09 03:03:55] @ Tobbi joined channel #supertux
 [2016/02/09 03:03:55] @ Mode +v Tobbi by ChanServ
+[2016/02/09 03:13:24] @ Quit: Tobbi: Remote host closed the connection
