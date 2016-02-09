@@ -4778,3 +4778,16 @@
 [2016/02/09 14:05:13] <Mathnerd314> failed: https://travis-ci.org/SuperTux/wiki/builds/108101088
 [2016/02/09 14:06:54] <Mathnerd314> so deploy keys do not write to the wiki :-(
 [2016/02/09 14:14:38] <Mathnerd314> well, time for supertux-bot I guess
+[2016/02/09 14:20:51] @ Karkus joined channel #supertux
+[2016/02/09 14:20:51] @ Mode +v Karkus by ChanServ
+[2016/02/09 14:21:19] <sydney_untangle> Hello Karkus.
+[2016/02/09 14:21:36] <Karkus> Hello sydney_untangle
+[2016/02/09 14:21:53] <Karkus> sydney_untangle: Hey what happened to head8debian? :P
+[2016/02/09 14:22:32] <sydney_untangle> Karkus: \o/ i decided to change my nick back so i wasn't advertising an OS, even though i do like advertising it. ;)
+[2016/02/09 14:22:52] <sydney_untangle> And it was a little close to datahead7777's normal nick...
+[2016/02/09 14:23:04] <Karkus> sydney_untangle: Why are you untangled?
+[2016/02/09 14:23:41] <sydney_untangle> Karkus: Good question. :p Just chose something really random...
+[2016/02/09 14:24:10] <Karkus> sydney_untangle: It feels somewhat hypocritical coming from me :D
+[2016/02/09 14:24:38] <sydney_untangle> Karkus: What?
+[2016/02/09 14:24:44] <pentagon> [10wiki] 07Mathnerd314 04force-pushed 1 commit to 09master 13https://git.io/vgzQq
+[2016/02/09 14:24:47] <pentagon> [10wiki] 07Mathnerd314 149a09c48 Travis script
