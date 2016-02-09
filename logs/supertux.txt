@@ -4640,3 +4640,16 @@
 [2016/02/09 12:33:07] <Hume2> My name will be "Prokop Okno".
 [2016/02/09 12:33:38] <Hume2> Phone: 513-783-3037
 [2016/02/09 12:34:16] <Hume2> And now address.
+[2016/02/09 12:35:12] <Hume2> The address might be: 3403 Round Table Drive
+[2016/02/09 12:35:12] <Hume2> Dayton, OH 45402
+[2016/02/09 12:35:26] <Hume2> I'm not sure what is what.
+[2016/02/09 12:36:06] <mt> no address in CZ?
+[2016/02/09 12:36:44] <Hume2> The phone number has +1, not +420.
+[2016/02/09 12:36:53] <Hume2> That might be weird.
+[2016/02/09 12:37:31] <mt> when you choose Country: 'Czech Republic'
+[2016/02/09 12:37:45] <mt> it will give you a +420 phone number
+[2016/02/09 12:37:55] <Hume2> Thanks.
+[2016/02/09 12:38:01] <Hume2> I've missed that.
+[2016/02/09 12:38:43] <Hume2> So my phone number is +420 511 333 819.
+[2016/02/09 12:39:11] <Mathnerd314> lol "Tux rap in the intro: must not make its way into Milestone2" <- grumbel 10 years ago
+[2016/02/09 12:39:25] <mt> What the hell is blood type "O+"? In Germany we have A, B, AB and 0 but not O
