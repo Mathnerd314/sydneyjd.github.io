@@ -4477,3 +4477,8 @@
 [2016/02/09 10:12:49] <mt> I think there was around ~150-175 organizations in the years before
 [2016/02/09 10:14:29] <mt> ref: https://summerofcode.withgoogle.com/ (wikipedia still lists the old website on google-melange)
 [2016/02/09 10:18:24] <Mathnerd314> well, the 500+ might just be how many applied. but who knows
+[2016/02/09 10:21:11] <Tobbi> Mathnerd314: Can you please accept the e-mail?
+[2016/02/09 10:21:41] <Mathnerd314> I'm filling it out, it's slow. I have to figure out which t-shirt size...
+[2016/02/09 10:21:47] <Tobbi> ah...
+[2016/02/09 10:23:45] <Mathnerd314> done
+[2016/02/09 10:24:34] <Tobbi> Good, so we're now at 100%
