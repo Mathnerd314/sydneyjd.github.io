@@ -4775,3 +4775,5 @@
 [2016/02/09 14:03:43] <Mathnerd314> alright, try #1 for the wiki
 [2016/02/09 14:03:54] <pentagon> [10wiki] 07Mathnerd314 pushed 1 commit to 09master 13https://git.io/vgzMw
 [2016/02/09 14:03:58] <pentagon> [10wiki] 07Mathnerd314 1452550fc Travis script
+[2016/02/09 14:05:13] <Mathnerd314> failed: https://travis-ci.org/SuperTux/wiki/builds/108101088
+[2016/02/09 14:06:54] <Mathnerd314> so deploy keys do not write to the wiki :-(
