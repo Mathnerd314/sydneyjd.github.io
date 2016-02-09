@@ -4704,3 +4704,16 @@
 [2016/02/09 12:54:47] <mt> or some obscure old language, like fortran or prolog
 [2016/02/09 12:54:54] <Tobbi> sydney_untangle: Is this you? https://twitter.com/sydneydurae98
 [2016/02/09 12:55:00] <Tobbi> If so, I have to say: nice girls :P
+[2016/02/09 12:55:18] <pentagon> [10supertux] 07Mathnerd314 edited wiki page 09GSoC 2016 Ideas 13https://git.io/vgR67
+[2016/02/09 12:55:40] <mt> Mathnerd314: I've got https://github.com/SuperTux/supertux.wiki.git as a separate git remote and also push it to that one
+[2016/02/09 12:55:58] <mt> that way, the content will end up being displayed in the project wiki for supertux/supertux
+[2016/02/09 12:56:43] <mt> it's being managed like this because we don't want random people to add random content to the wiki, but still allow people who seriously want to change something to submit a pull request
+[2016/02/09 12:56:54] <Mathnerd314> ah. I'm just using the web interface, maybe there's some way to add a post-commit hook
+[2016/02/09 12:57:21] <mt> you can't have commits on github's remotes, afaik
+[2016/02/09 12:57:27] <mt> s/commits/hooks/
+[2016/02/09 12:57:27] <red_bot> mt meant: "you can't have hooks on github's remotes, afaik"
+[2016/02/09 12:57:40] <mt> at least not the shell script hooks
+[2016/02/09 12:58:44] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/02/09 12:58:49] <Mathnerd314> https://github.com/SuperTux/wiki/settings/hooks
+[2016/02/09 12:58:49] <Hume2> And didn't we decide that we won't have any water physics?
+[2016/02/09 12:59:13] <Hume2> Because it's too complitated and would reveal our rectangular hitboxes?
