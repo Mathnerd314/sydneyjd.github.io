@@ -4771,3 +4771,4 @@
 [2016/02/09 13:44:24] <Mathnerd314> I can't imagine that Github restricts wiki access, that would be weird
 [2016/02/09 13:47:31] <mt> Want me to post some tweet about us considering to apply for GSoC? (https://twitter.com/supertux_team if you haven't seen that yet)
 [2016/02/09 13:48:37] <Mathnerd314> sure, link to the ideas page
+[2016/02/09 13:55:03] <mt> https://twitter.com/supertux_team/status/697130736105746433
