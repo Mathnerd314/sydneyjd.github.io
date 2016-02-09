@@ -4548,3 +4548,4 @@
 [2016/02/09 11:34:12] <mcmic> mt: I’ll try to build it then. I want the final result to be played on v0.4.0 but I can use an other version with better tools to help me built it.
 [2016/02/09 11:35:46] <pentagon> [10wiki] 07Mathnerd314 pushed 1 commit to 09master 13https://git.io/vgzTH
 [2016/02/09 11:35:50] <pentagon> [10wiki] 07Mathnerd314 143d168ee More ideas, more information on the others
+[2016/02/09 11:49:42] @ alket joined channel #supertux
