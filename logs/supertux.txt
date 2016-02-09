@@ -4855,3 +4855,4 @@
 [2016/02/09 17:13:48] @ Quit: brmbrmcar: Ping timeout: 250 seconds
 [2016/02/09 17:18:32] @ Quit: claymore2: Quit: Leaving
 [2016/02/09 17:19:49] @ brmbrmcar joined channel #supertux
+[2016/02/09 17:24:06] @ Quit: brmbrmcar: Ping timeout: 245 seconds
