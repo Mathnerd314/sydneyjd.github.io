@@ -4834,3 +4834,6 @@
 [2016/02/09 15:37:33] <red_bot> alright, sydney_untangle
 [2016/02/09 15:40:10] @ Quit: tux|dude: Quit: Leaving
 [2016/02/09 15:42:55] <Mathnerd314> mt: I disabled it in the travis UI. I should probably add a hook in the script too, but whatever
+[2016/02/09 15:50:18] @ lumidify joined channel #supertux
+[2016/02/09 15:50:18] @ Quit: lumidify: Changing host
+[2016/02/09 15:50:18] @ lumidify joined channel #supertux
