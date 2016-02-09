@@ -4843,3 +4843,6 @@
 [2016/02/09 15:56:46] <red_bot> Tobbi, you have notes! [Feb- 9 15:37] <sydney_untangle> if you get any unmarked spam emails on the supertux openmailbox email address please forward them the support@openmailbox.org and say that they never got marked as spam. There has been a wave of un-marked spam lately.
 [2016/02/09 15:56:50] <Tobbi> ok.
 [2016/02/09 15:59:27] @ Quit: lumidify: Quit: Leaving
+[2016/02/09 16:00:25] <Tobbi> What have you guys been up to?
+[2016/02/09 16:02:49] <Tobbi> Also, do we have someone who can vouch for us?
+[2016/02/09 16:03:35] <Tobbi> Mathnerd314: What did you actually change about the application?
