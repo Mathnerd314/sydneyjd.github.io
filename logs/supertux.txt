@@ -4737,3 +4737,9 @@
 [2016/02/09 13:08:08] <Tobbi> sydney_untangle: I am sorry, sometimes I tend to say things which are not appropriate.
 [2016/02/09 13:08:10] <Tobbi> I know that mysefl.
 [2016/02/09 13:08:21] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/09 13:11:17] <mt> Mathnerd314: http://fornax.urandom.eu.org/github is for pentagon; I'm running that
+[2016/02/09 13:12:20] <Mathnerd314> hmm. so can you add a hook to push the wiki? is the code somewhere?
+[2016/02/09 13:12:54] <mt> (in fact, it is http://fornax.urandom.eu.org:33399/github, because reverse-proxying it through nginx didn't work)
+[2016/02/09 13:13:19] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/09 13:13:23] <mt> Mathnerd314: https://github.com/ProgVal/Supybot-plugins/tree/master/GitHub
+[2016/02/09 13:14:03] <mt> I could actually make it trigger some script to run for supertux/wiki commits, but I'd rather not load the shell module
