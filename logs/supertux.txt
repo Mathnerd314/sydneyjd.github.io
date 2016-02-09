@@ -4522,3 +4522,5 @@
 [2016/02/09 10:46:07] <mt> re coop patch: wouldn't it make sense to move that to a devel branch?
 [2016/02/09 10:49:07] <Mathnerd314> yeah, but it was written back when SuperTux was using SVN (or even CVS, I'm not sure)
 [2016/02/09 10:49:48] <mt> doesn't the patch tool accept all kinds of diffs?
+[2016/02/09 10:52:27] <Mathnerd314> with coaxing
+[2016/02/09 10:54:07] <Mathnerd314> looks like SuperTux would work with https://wiki.gnome.org/Wiican and the config in https://github.com/haxney/wiimote-mupen64, it doesn't look like it would take a summer
