@@ -4283,3 +4283,15 @@
 [2016/02/09 09:14:43] <Tobbi> Okay, next up on the list:  Enter tags that students can select (one) from and apply to their own proposals to help organize them. Examples: New Feature, Optimization. You can also use these to designate "sub-organizations" if you are an umbrella organization.
 [2016/02/09 09:14:46] <mt> "Keep in mind that this page is often the first view of your organization by Google and potential student applicants."
 [2016/02/09 09:14:52] <mt> re Ideas page
+[2016/02/09 09:15:03] <Tobbi> yes, we can rework that.
+[2016/02/09 09:15:44] <Tobbi> woo, supertux portable 0.4.0 was released.
+[2016/02/09 09:17:46] <pentagon> [10supertux] 07tobbi commented on issue 09#243: 0.4.0 RELEASE TODO LIST 13https://git.io/vRv98
+[2016/02/09 09:17:50] <Tobbi> mt: What about tags?
+[2016/02/09 09:17:56] <mt> tags?
+[2016/02/09 09:18:02] <Tobbi> mt: See the above?
+[2016/02/09 09:18:08] <Tobbi> Enter tags that students can select (one) from and apply to their own proposals to help organize them. Examples: New Feature, Optimization. You can also use these to designate "sub-organizations" if you are an umbrella organization.
+[2016/02/09 09:19:19] <mt> editor, functionality, performance, scripting (taken from github labels), addons
+[2016/02/09 09:19:24] <Tobbi> ok
+[2016/02/09 09:19:28] <mt> editor only if we'll include that
+[2016/02/09 09:19:47] <Tobbi> We can.
+[2016/02/09 09:19:52] <Tobbi> Since we did write "Python" as well.
