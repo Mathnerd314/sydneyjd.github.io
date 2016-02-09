@@ -4743,3 +4743,7 @@
 [2016/02/09 13:13:19] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
 [2016/02/09 13:13:23] <mt> Mathnerd314: https://github.com/ProgVal/Supybot-plugins/tree/master/GitHub
 [2016/02/09 13:14:03] <mt> I could actually make it trigger some script to run for supertux/wiki commits, but I'd rather not load the shell module
+[2016/02/09 13:16:37] <pentagon> [10supertux] 07Mathnerd314 edited wiki page 09GSoC 2016 Ideas 13https://git.io/vgR67
+[2016/02/09 13:18:35] <Mathnerd314> I guess I would not mind so much if the wiki was smaller. but it is 90MB, insane
+[2016/02/09 13:18:54] <mt> it's because grumbel imported the mediawiki history in a branch there
+[2016/02/09 13:19:13] <mt> https://github.com/SuperTux/wiki/tree/mediawiki
