@@ -4564,3 +4564,15 @@
 [2016/02/09 12:03:28] <Tobbi> Mathnerd314: I don't know...It's the form that asked...
 [2016/02/09 12:04:22] <Mathnerd314> the form is so you can add extra instructions, like "meet with us on IRC before you submit your proposal so we can discuss it"
 [2016/02/09 12:04:35] <Tobbi> Mathnerd314: Sounds fun, go ahead and add it.
+[2016/02/09 12:05:33] <mt> I guess it would still be nice if we had the proposals available for everyone in some way
+[2016/02/09 12:06:29] @ Hume2 joined channel #supertux
+[2016/02/09 12:06:29] @ Mode +v Hume2 by ChanServ
+[2016/02/09 12:06:41] <Hume2> Hello
+[2016/02/09 12:06:55] <Tobbi> Hello Hume2.
+[2016/02/09 12:07:33] <Hume2> Tobbi: Did I missed anything?
+[2016/02/09 12:07:46] <Tobbi> Hume2: I sent an org admin request to your e-mail.
+[2016/02/09 12:07:57] <Tobbi> But since I noticed you have to be 18 to be an org admin, you might as well ignore it.
+[2016/02/09 12:08:00] <Hume2> I'll check.
+[2016/02/09 12:08:09] <Mathnerd314> mt: proposals are secret unless accepted, and even then only the abstracts are public. IMO a good thing since they often have valuable information such as name/address
+[2016/02/09 12:08:18] <Hume2> Let's say that I'm at least 18.
+[2016/02/09 12:08:59] <Hume2> So if anyone asked, I am.
