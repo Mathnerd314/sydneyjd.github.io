@@ -4463,3 +4463,16 @@
 [2016/02/09 10:09:06] <mt> but more mentors would be good as well, I guess
 [2016/02/09 10:09:21] <Mathnerd314> Tobbi: maybe. I think SuperTux is unlikely to get in though
 [2016/02/09 10:09:27] <Tobbi> Mathnerd314: Why?
+[2016/02/09 10:11:04] <Mathnerd314> they've been scaling down the program, last year was mostly core infrastructure like GNU and research projects in NLP / machine learning
+[2016/02/09 10:11:12] <Tobbi> oh...
+[2016/02/09 10:11:16] <Tobbi> Anyway, doesn
+[2016/02/09 10:11:18] <mt> eh
+[2016/02/09 10:11:19] <Tobbi> 't hurt to try.
+[2016/02/09 10:11:33] <mt> I think this year they'll accept more projects than they ever did before, math
+[2016/02/09 10:11:43] <mt> s/math/Mathnerd314/
+[2016/02/09 10:11:43] <red_bot> mt meant: "I think this year they'll accept more projects than they ever did before, Mathnerd314"
+[2016/02/09 10:12:05] <leyyin> well it's math :D
+[2016/02/09 10:12:20] <mt> "500+ open source organizations"
+[2016/02/09 10:12:28] <Tobbi> Mathnerd314: If you can PM me your e-mail address, I will send you an invitation.
+[2016/02/09 10:12:49] <mt> I think there was around ~150-175 organizations in the years before
+[2016/02/09 10:14:29] <mt> ref: https://summerofcode.withgoogle.com/ (wikipedia still lists the old website on google-melange)
