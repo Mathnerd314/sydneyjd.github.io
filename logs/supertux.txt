@@ -5028,3 +5028,11 @@
 [2016/02/10 17:10:50] @ stewboy joined channel #supertux
 [2016/02/10 17:10:54] @ Karkus joined channel #supertux
 [2016/02/10 17:10:54] @ Mode +v Karkus by ChanServ
+[2016/02/10 17:21:50] @ grumbel_ joined channel #supertux
+[2016/02/10 17:22:10] @ stewboy_ joined channel #supertux
+[2016/02/10 17:22:45] @ Karkus_ joined channel #supertux
+[2016/02/10 17:22:45] @ Mode +v Karkus_ by ChanServ
+[2016/02/10 17:22:58] @ Quit: grumbel: Ping timeout: 240 seconds
+[2016/02/10 17:22:58] @ Quit: stewboy: Ping timeout: 240 seconds
+[2016/02/10 17:22:59] @ Quit: Karkus: Ping timeout: 240 seconds
+[2016/02/10 17:23:00] @ stewboy_ is now known as stewboy
