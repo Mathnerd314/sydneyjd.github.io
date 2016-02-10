@@ -5012,3 +5012,10 @@
 [2016/02/10 16:39:20] @ Quit: tux|dude: Quit: Leaving
 [2016/02/10 16:41:34] @ Wuzzy joined channel #supertux
 [2016/02/10 16:44:20] @ paroneay` joined channel #supertux
+[2016/02/10 16:45:39] @ Tobbi joined channel #supertux
+[2016/02/10 16:45:39] @ Mode +v Tobbi by ChanServ
+[2016/02/10 16:47:11] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/10 16:48:32] @ Quit: Vorpal: *.net *.split
+[2016/02/10 16:48:32] @ Quit: grumbel: *.net *.split
+[2016/02/10 16:48:34] @ Quit: paroneayea: *.net *.split
+[2016/02/10 16:48:38] @ Quit: tomreyn: *.net *.split
