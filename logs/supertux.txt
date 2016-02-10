@@ -5050,3 +5050,4 @@
 [2016/02/10 18:22:43] @ Quit: swift110: Changing host
 [2016/02/10 18:22:43] @ swift110 joined channel #supertux
 [2016/02/10 18:33:32] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/10 18:51:34] @ tux|dude joined channel #supertux
