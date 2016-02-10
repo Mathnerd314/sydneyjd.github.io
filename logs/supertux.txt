@@ -4930,3 +4930,5 @@
 [2016/02/10 10:12:42] @ tuxdev_ joined channel #supertux
 [2016/02/10 10:54:02] @ Mathnerd314 joined channel #supertux
 [2016/02/10 10:54:02] @ Mode +v Mathnerd314 by ChanServ
+[2016/02/10 10:59:08] @ Tobbi joined channel #supertux
+[2016/02/10 10:59:08] @ Mode +v Tobbi by ChanServ
