@@ -4992,3 +4992,6 @@
 [2016/02/10 12:44:30] @ Tobbi joined channel #supertux
 [2016/02/10 12:44:30] @ Mode +v Tobbi by ChanServ
 [2016/02/10 13:27:58] @ Quit: Karkus: Ping timeout: 250 seconds
+[2016/02/10 13:37:00] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/10 13:37:29] @ Tobbi joined channel #supertux
+[2016/02/10 13:37:29] @ Mode +v Tobbi by ChanServ
