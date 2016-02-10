@@ -4942,3 +4942,5 @@
 [2016/02/10 11:33:17] @ Mode +v Hume2 by ChanServ
 [2016/02/10 11:33:23] <Hume2> Hello
 [2016/02/10 11:34:05] <Hume2> SuperTux-bot?
+[2016/02/10 11:35:08] <Hume2> Actually the morphology of the word "robot" is usually desinterpreted.
+[2016/02/10 11:35:26] <Hume2> "rob" is root and "ot" is suffix.
