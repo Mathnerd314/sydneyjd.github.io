@@ -4964,3 +4964,11 @@
 [2016/02/10 12:03:27] <mt> "User accounts are intended for humans, but you can give one to a robot, such as a continuous integration bot, if necessary." (https://help.github.com/articles/what-s-the-difference-between-user-and-organization-accounts/#personal-user-accounts)
 [2016/02/10 12:04:38] <Hume2> Yeah, you know, my reading skills are bad.
 [2016/02/10 12:04:56] @ Quit: tuxdev_: Ping timeout: 240 seconds
+[2016/02/10 12:06:06] <brmbrmcar> Do you want a reading bot? :D
+[2016/02/10 12:08:03] <Hume2> :D
+[2016/02/10 12:08:34] <Hume2> My hearing skills are sometimes even worse :P
+[2016/02/10 12:08:43] @ Quit: mcmic_: Quit: Konversation terminated!
+[2016/02/10 12:08:44] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/02/10 12:09:11] <brmbrmcar> Do you need one that transfers into your mind directly?
+[2016/02/10 12:09:21] <Hume2> Yeah.
+[2016/02/10 12:10:01] <brmbrmcar> OK.
