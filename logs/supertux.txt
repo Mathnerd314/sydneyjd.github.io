@@ -4925,3 +4925,5 @@
 [2016/02/10 08:48:10] @ Mode +v Tobbi by ChanServ
 [2016/02/10 08:49:11] <sydney_untangle> mt: Yes, you have told me in the past. ;)
 [2016/02/10 08:49:25] <Tobbi> oh hello everyone.
+[2016/02/10 10:08:49] <sydney_untangle> Tobbi: Hello.
+[2016/02/10 10:08:50] @ Quit: Tobbi: Remote host closed the connection
