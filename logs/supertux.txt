@@ -4949,3 +4949,5 @@
 [2016/02/10 11:44:40] <mt> whatever
 [2016/02/10 11:45:32] <Hume2> Is the robot a human at least partially?
 [2016/02/10 11:45:48] <Hume2> The SuperTux-bot?
+[2016/02/10 11:51:36] <mt> It's used for making Travis deploy SuperTux/wiki to the GitHub wiki
+[2016/02/10 11:53:14] <Tobbi> Hello, IT. Have you tried turning it off and on again?
