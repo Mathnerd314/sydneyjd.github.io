@@ -4985,3 +4985,7 @@
 [2016/02/10 12:13:40] <brmbrmcar> But it would only be availbable closed-source if it was difficult to make.
 [2016/02/10 12:13:51] <brmbrmcar> LIke if it is revolutionary.
 [2016/02/10 12:14:40] <Hume2> Indeed.
+[2016/02/10 12:36:27] @ bb010g joined channel #supertux
+[2016/02/10 12:36:59] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/10 12:39:51] @ Karkus joined channel #supertux
+[2016/02/10 12:39:51] @ Mode +v Karkus by ChanServ
