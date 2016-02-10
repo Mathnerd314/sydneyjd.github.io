@@ -4938,3 +4938,7 @@
 [2016/02/10 11:10:15] <mt> ok
 [2016/02/10 11:10:53] <Tobbi> I love the new TWRP.
 [2016/02/10 11:29:41] @ lumidify joined channel #supertux
+[2016/02/10 11:33:16] @ Hume2 joined channel #supertux
+[2016/02/10 11:33:17] @ Mode +v Hume2 by ChanServ
+[2016/02/10 11:33:23] <Hume2> Hello
+[2016/02/10 11:34:05] <Hume2> SuperTux-bot?
