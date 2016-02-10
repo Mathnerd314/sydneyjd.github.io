@@ -4879,3 +4879,6 @@
 [2016/02/10 00:47:44] @ Quit: MCMiic: Ping timeout: 272 seconds
 [2016/02/10 00:55:41] @ Quit: swift110: Remote host closed the connection
 [2016/02/10 01:02:19] @ tuxdev joined channel #supertux
+[2016/02/10 01:07:14] @ lumidify joined channel #supertux
+[2016/02/10 01:07:14] @ Quit: lumidify: Changing host
+[2016/02/10 01:07:14] @ lumidify joined channel #supertux
