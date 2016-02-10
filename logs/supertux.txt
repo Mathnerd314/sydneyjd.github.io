@@ -5019,3 +5019,7 @@
 [2016/02/10 16:48:32] @ Quit: grumbel: *.net *.split
 [2016/02/10 16:48:34] @ Quit: paroneayea: *.net *.split
 [2016/02/10 16:48:38] @ Quit: tomreyn: *.net *.split
+[2016/02/10 16:50:45] @ tomreyn joined channel #supertux
+[2016/02/10 16:51:24] @ Vorpal joined channel #supertux
+[2016/02/10 16:51:54] @ paroneay` is now known as paroneayea
+[2016/02/10 16:52:44] @ Quit: paroneayea: Read error: Connection reset by peer
