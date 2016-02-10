@@ -4863,3 +4863,5 @@
 [2016/02/09 21:11:08] @ irungentoo joined channel #supertux
 [2016/02/09 21:47:35] @ MCMic joined channel #supertux
 [2016/02/09 22:29:13] @ tuxdev_ joined channel #supertux
+[2016/02/09 23:41:45] @ Quit: irungentoo: Ping timeout: 245 seconds
+[2016/02/09 23:43:02] @ swift110 joined channel #supertux
