@@ -4882,3 +4882,4 @@
 [2016/02/10 01:07:14] @ lumidify joined channel #supertux
 [2016/02/10 01:07:14] @ Quit: lumidify: Changing host
 [2016/02/10 01:07:14] @ lumidify joined channel #supertux
+[2016/02/10 01:26:31] @ tux|dude joined channel #supertux
