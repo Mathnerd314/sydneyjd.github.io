@@ -5010,3 +5010,5 @@
 [2016/02/10 16:08:25] @ brmbrmcar joined channel #supertux
 [2016/02/10 16:34:10] @ Quit: claymore2: Quit: Leaving
 [2016/02/10 16:39:20] @ Quit: tux|dude: Quit: Leaving
+[2016/02/10 16:41:34] @ Wuzzy joined channel #supertux
+[2016/02/10 16:44:20] @ paroneay` joined channel #supertux
