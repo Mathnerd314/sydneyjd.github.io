@@ -5002,3 +5002,4 @@
 [2016/02/10 14:41:46] @ claymore2 joined channel #supertux
 [2016/02/10 14:58:44] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2016/02/10 15:14:52] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/10 15:29:50] @ Quit: brmbrmcar: Disconnected by services
