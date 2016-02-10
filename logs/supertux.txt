@@ -5037,3 +5037,4 @@
 [2016/02/10 17:22:59] @ Quit: Karkus: Ping timeout: 240 seconds
 [2016/02/10 17:23:00] @ stewboy_ is now known as stewboy
 [2016/02/10 17:31:44] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/02/10 17:51:04] @ Quit: Karkus_: Quit: Division By Zero
