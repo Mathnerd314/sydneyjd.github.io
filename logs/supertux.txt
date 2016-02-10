@@ -4905,3 +4905,4 @@
 [2016/02/10 06:12:07] <leyyin> you can't open a bank account because your name is not on the mail box? wth?
 [2016/02/10 06:12:16] <leyyin> you have proof you live there
 [2016/02/10 06:14:26] <mt> Deutsche Post apparently insists on that from what I've heard.
+[2016/02/10 06:19:17] <mt> Apparently there is a law from 1871 that requires that your name must be on the mailbox
