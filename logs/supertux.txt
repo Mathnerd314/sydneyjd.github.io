@@ -4909,3 +4909,4 @@
 [2016/02/10 06:26:00] <leyyin> if you have a family of 10, your mailbox must have 10 names :D
 [2016/02/10 06:26:06] <leyyin> where those all those names fit
 [2016/02/10 06:26:24] <mt> then you write "Family $Lastname"
+[2016/02/10 06:41:44] @ Quit: MCMiiic: Quit: Konversation terminated!
