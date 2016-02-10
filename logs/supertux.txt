@@ -4927,3 +4927,4 @@
 [2016/02/10 08:49:25] <Tobbi> oh hello everyone.
 [2016/02/10 10:08:49] <sydney_untangle> Tobbi: Hello.
 [2016/02/10 10:08:50] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/10 10:12:42] @ tuxdev_ joined channel #supertux
