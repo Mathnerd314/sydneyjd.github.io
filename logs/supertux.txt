@@ -4944,3 +4944,6 @@
 [2016/02/10 11:34:05] <Hume2> SuperTux-bot?
 [2016/02/10 11:35:08] <Hume2> Actually the morphology of the word "robot" is usually desinterpreted.
 [2016/02/10 11:35:26] <Hume2> "rob" is root and "ot" is suffix.
+[2016/02/10 11:41:38] @ Quit: lumidify: Ping timeout: 276 seconds
+[2016/02/10 11:44:36] <mt> it's common to call automated things 'bot', as in IRC bot, build bot
+[2016/02/10 11:44:40] <mt> whatever
