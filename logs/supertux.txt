@@ -5025,3 +5025,6 @@
 [2016/02/10 16:52:44] @ Quit: paroneayea: Read error: Connection reset by peer
 [2016/02/10 16:57:05] @ grumbel joined channel #supertux
 [2016/02/10 17:02:38] @ paroneayea joined channel #supertux
+[2016/02/10 17:10:50] @ stewboy joined channel #supertux
+[2016/02/10 17:10:54] @ Karkus joined channel #supertux
+[2016/02/10 17:10:54] @ Mode +v Karkus by ChanServ
