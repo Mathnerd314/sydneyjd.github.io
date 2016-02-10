@@ -4996,3 +4996,6 @@
 [2016/02/10 13:37:29] @ Tobbi joined channel #supertux
 [2016/02/10 13:37:29] @ Mode +v Tobbi by ChanServ
 [2016/02/10 13:43:13] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/10 14:37:36] @ lumidify joined channel #supertux
+[2016/02/10 14:37:36] @ Quit: lumidify: Changing host
+[2016/02/10 14:37:36] @ lumidify joined channel #supertux
