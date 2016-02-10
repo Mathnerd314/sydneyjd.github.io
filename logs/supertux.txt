@@ -4947,3 +4947,5 @@
 [2016/02/10 11:41:38] @ Quit: lumidify: Ping timeout: 276 seconds
 [2016/02/10 11:44:36] <mt> it's common to call automated things 'bot', as in IRC bot, build bot
 [2016/02/10 11:44:40] <mt> whatever
+[2016/02/10 11:45:32] <Hume2> Is the robot a human at least partially?
+[2016/02/10 11:45:48] <Hume2> The SuperTux-bot?
