@@ -5024,3 +5024,4 @@
 [2016/02/10 16:51:54] @ paroneay` is now known as paroneayea
 [2016/02/10 16:52:44] @ Quit: paroneayea: Read error: Connection reset by peer
 [2016/02/10 16:57:05] @ grumbel joined channel #supertux
+[2016/02/10 17:02:38] @ paroneayea joined channel #supertux
