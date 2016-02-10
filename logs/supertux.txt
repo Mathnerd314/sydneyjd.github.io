@@ -4895,3 +4895,4 @@
 [2016/02/10 02:57:56] @ Quit: tuxdev_: Ping timeout: 248 seconds
 [2016/02/10 03:11:05] @ Quit: tux|dude: Quit: Leaving
 [2016/02/10 03:20:22] @ Quit: lumidify: Ping timeout: 272 seconds
+[2016/02/10 04:46:08] @ leyyin joined channel #supertux
