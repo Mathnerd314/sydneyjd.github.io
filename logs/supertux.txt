@@ -4917,3 +4917,6 @@
 [2016/02/10 07:52:23] <mcmic_> Basically I create a record for each level and then edit it by hand to make it perfect (as fast as possible). And I make a version with an option to play all these records as if it was playing the game, with the worldmap and all
 [2016/02/10 07:53:39] <mt> can't you extend the existing --*-demo options?
 [2016/02/10 07:54:46] <mcmic_> mt: Maybe, but it would be fairly more complicated. It would need to support any world map, etc…
+[2016/02/10 07:55:17] <mcmic_> mt: I use the record-demo option to create the record and the play-demo to test it of course
+[2016/02/10 07:58:46] <mt> why would it be more complicated to integrate it into the existing options than to implement it as new options?
+[2016/02/10 07:59:10] <mcmic_> mt: It depends what you mean by integrating it with the new options
