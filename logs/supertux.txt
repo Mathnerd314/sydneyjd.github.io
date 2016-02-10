@@ -4954,3 +4954,13 @@
 [2016/02/10 11:58:08] <Hume2> Do you know that it's in terms of GitHub that the user must be human?
 [2016/02/10 11:58:13] <Hume2> No offense.
 [2016/02/10 11:58:54] <Hume2> Actually I don't know who wants to control that.
+[2016/02/10 12:00:48] <mt> "Accounts registered by "bots" or other automated methods are not permitted."
+[2016/02/10 12:00:59] <mt> "registered *by*"
+[2016/02/10 12:01:11] <mt> it means they don't want automated registrations
+[2016/02/10 12:01:18] <brmbrmcar> I don't think they'd really care anyway.
+[2016/02/10 12:01:22] <Hume2> Oh, I forgot.
+[2016/02/10 12:01:55] <Hume2> I really can't read.
+[2016/02/10 12:03:11] <mt> They even explicitly allow CI bots or similar
+[2016/02/10 12:03:27] <mt> "User accounts are intended for humans, but you can give one to a robot, such as a continuous integration bot, if necessary." (https://help.github.com/articles/what-s-the-difference-between-user-and-organization-accounts/#personal-user-accounts)
+[2016/02/10 12:04:38] <Hume2> Yeah, you know, my reading skills are bad.
+[2016/02/10 12:04:56] @ Quit: tuxdev_: Ping timeout: 240 seconds
