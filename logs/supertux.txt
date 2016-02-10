@@ -5038,3 +5038,6 @@
 [2016/02/10 17:23:00] @ stewboy_ is now known as stewboy
 [2016/02/10 17:31:44] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2016/02/10 17:51:04] @ Quit: Karkus_: Quit: Division By Zero
+[2016/02/10 18:06:39] @ Tobbi joined channel #supertux
+[2016/02/10 18:06:39] @ Mode +v Tobbi by ChanServ
+[2016/02/10 18:06:54] @ Quit: Wuzzy: Remote host closed the connection
