@@ -4972,3 +4972,16 @@
 [2016/02/10 12:09:11] <brmbrmcar> Do you need one that transfers into your mind directly?
 [2016/02/10 12:09:21] <Hume2> Yeah.
 [2016/02/10 12:10:01] <brmbrmcar> OK.
+[2016/02/10 12:10:02] <mt> `hearingd --output /dev/brain0 &`
+[2016/02/10 12:10:15] <brmbrmcar> OPen source?
+[2016/02/10 12:11:04] <Hume2> I'd like a bot that will study a text and then I'd just ask him and he will answer.
+[2016/02/10 12:11:37] <brmbrmcar> Awesome
+[2016/02/10 12:11:50] <brmbrmcar> They might come around soon.
+[2016/02/10 12:12:10] <brmbrmcar> Closed-source though, undoubtably, to start.
+[2016/02/10 12:12:13] <brmbrmcar> :(
+[2016/02/10 12:12:21] <Hume2> That's a shame.
+[2016/02/10 12:12:53] <Hume2> It could study all the laws and find the holes in it :D
+[2016/02/10 12:13:09] <brmbrmcar> I guess.
+[2016/02/10 12:13:40] <brmbrmcar> But it would only be availbable closed-source if it was difficult to make.
+[2016/02/10 12:13:51] <brmbrmcar> LIke if it is revolutionary.
+[2016/02/10 12:14:40] <Hume2> Indeed.
