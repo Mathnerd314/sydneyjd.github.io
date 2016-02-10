@@ -4937,3 +4937,4 @@
 [2016/02/10 11:10:02] <Tobbi> mt: There's no submitting of the application. complete applications will be considered, at least that's what I remember having read.
 [2016/02/10 11:10:15] <mt> ok
 [2016/02/10 11:10:53] <Tobbi> I love the new TWRP.
+[2016/02/10 11:29:41] @ lumidify joined channel #supertux
