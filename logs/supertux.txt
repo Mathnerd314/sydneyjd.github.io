@@ -4920,3 +4920,4 @@
 [2016/02/10 07:55:17] <mcmic_> mt: I use the record-demo option to create the record and the play-demo to test it of course
 [2016/02/10 07:58:46] <mt> why would it be more complicated to integrate it into the existing options than to implement it as new options?
 [2016/02/10 07:59:10] <mcmic_> mt: It depends what you mean by integrating it with the new options
+[2016/02/10 08:00:05] <mcmic_> If you mean being able to record/play demo of the whole game, it seems more complicated than just adding hardcoded menu choices in the code.
