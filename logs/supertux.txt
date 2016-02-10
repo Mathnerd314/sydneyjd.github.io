@@ -5008,3 +5008,4 @@
 [2016/02/10 15:49:05] @ tux|dude joined channel #supertux
 [2016/02/10 16:08:15] @ Quit: brmbrmcar: Disconnected by services
 [2016/02/10 16:08:25] @ brmbrmcar joined channel #supertux
+[2016/02/10 16:34:10] @ Quit: claymore2: Quit: Leaving
