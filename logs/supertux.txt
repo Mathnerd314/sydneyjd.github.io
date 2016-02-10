@@ -4951,3 +4951,6 @@
 [2016/02/10 11:45:48] <Hume2> The SuperTux-bot?
 [2016/02/10 11:51:36] <mt> It's used for making Travis deploy SuperTux/wiki to the GitHub wiki
 [2016/02/10 11:53:14] <Tobbi> Hello, IT. Have you tried turning it off and on again?
+[2016/02/10 11:58:08] <Hume2> Do you know that it's in terms of GitHub that the user must be human?
+[2016/02/10 11:58:13] <Hume2> No offense.
+[2016/02/10 11:58:54] <Hume2> Actually I don't know who wants to control that.
