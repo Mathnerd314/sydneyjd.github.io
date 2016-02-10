@@ -4911,3 +4911,9 @@
 [2016/02/10 06:26:24] <mt> then you write "Family $Lastname"
 [2016/02/10 06:41:44] @ Quit: MCMiiic: Quit: Konversation terminated!
 [2016/02/10 07:19:49] @ mcmic_ joined channel #supertux
+[2016/02/10 07:50:20] <mcmic_> https://github.com/MCMic/supertux/commits/release/0.4 started to work on supertux TAS
+[2016/02/10 07:50:53] <mt> TAS?
+[2016/02/10 07:51:06] <mcmic_> Tool assisted speedrun
+[2016/02/10 07:52:23] <mcmic_> Basically I create a record for each level and then edit it by hand to make it perfect (as fast as possible). And I make a version with an option to play all these records as if it was playing the game, with the worldmap and all
+[2016/02/10 07:53:39] <mt> can't you extend the existing --*-demo options?
+[2016/02/10 07:54:46] <mcmic_> mt: Maybe, but it would be fairly more complicated. It would need to support any world map, etc…
