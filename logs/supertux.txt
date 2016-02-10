@@ -4932,3 +4932,4 @@
 [2016/02/10 10:54:02] @ Mode +v Mathnerd314 by ChanServ
 [2016/02/10 10:59:08] @ Tobbi joined channel #supertux
 [2016/02/10 10:59:08] @ Mode +v Tobbi by ChanServ
+[2016/02/10 11:09:36] <mt> Tobbi, Mathnerd314: so, did you already submit the application?
