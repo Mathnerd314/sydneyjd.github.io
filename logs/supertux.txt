@@ -5004,3 +5004,5 @@
 [2016/02/10 15:14:52] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
 [2016/02/10 15:29:50] @ Quit: brmbrmcar: Disconnected by services
 [2016/02/10 15:31:10] @ brmbrmcar joined channel #supertux
+[2016/02/10 15:45:16] @ Quit: lumidify: Quit: Leaving
+[2016/02/10 15:49:05] @ tux|dude joined channel #supertux
