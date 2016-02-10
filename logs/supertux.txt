@@ -5044,3 +5044,8 @@
 [2016/02/10 18:11:37] @ swift110 joined channel #supertux
 [2016/02/10 18:11:56] @ Quit: swift110: Changing host
 [2016/02/10 18:11:56] @ swift110 joined channel #supertux
+[2016/02/10 18:20:10] @ swift110_ joined channel #supertux
+[2016/02/10 18:20:54] @ Quit: swift110: Ping timeout: 250 seconds
+[2016/02/10 18:22:39] @ swift110_ is now known as swift110
+[2016/02/10 18:22:43] @ Quit: swift110: Changing host
+[2016/02/10 18:22:43] @ swift110 joined channel #supertux
