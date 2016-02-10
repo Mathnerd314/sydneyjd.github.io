@@ -4910,3 +4910,4 @@
 [2016/02/10 06:26:06] <leyyin> where those all those names fit
 [2016/02/10 06:26:24] <mt> then you write "Family $Lastname"
 [2016/02/10 06:41:44] @ Quit: MCMiiic: Quit: Konversation terminated!
+[2016/02/10 07:19:49] @ mcmic_ joined channel #supertux
