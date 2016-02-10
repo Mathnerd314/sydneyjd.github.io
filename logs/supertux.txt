@@ -4928,3 +4928,5 @@
 [2016/02/10 10:08:49] <sydney_untangle> Tobbi: Hello.
 [2016/02/10 10:08:50] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/10 10:12:42] @ tuxdev_ joined channel #supertux
+[2016/02/10 10:54:02] @ Mathnerd314 joined channel #supertux
+[2016/02/10 10:54:02] @ Mode +v Mathnerd314 by ChanServ
