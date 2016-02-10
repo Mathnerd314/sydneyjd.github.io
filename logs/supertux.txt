@@ -5000,3 +5000,4 @@
 [2016/02/10 14:37:36] @ Quit: lumidify: Changing host
 [2016/02/10 14:37:36] @ lumidify joined channel #supertux
 [2016/02/10 14:41:46] @ claymore2 joined channel #supertux
+[2016/02/10 14:58:44] @ Quit: bb010g: Quit: Connection closed for inactivity
