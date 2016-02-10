@@ -4893,3 +4893,4 @@
 [2016/02/10 02:46:39] @ brmbrmcar joined channel #supertux
 [2016/02/10 02:51:15] @ lumidify joined channel #supertux
 [2016/02/10 02:57:56] @ Quit: tuxdev_: Ping timeout: 248 seconds
+[2016/02/10 03:11:05] @ Quit: tux|dude: Quit: Leaving
