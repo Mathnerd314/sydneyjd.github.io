@@ -5041,3 +5041,6 @@
 [2016/02/10 18:06:39] @ Tobbi joined channel #supertux
 [2016/02/10 18:06:39] @ Mode +v Tobbi by ChanServ
 [2016/02/10 18:06:54] @ Quit: Wuzzy: Remote host closed the connection
+[2016/02/10 18:11:37] @ swift110 joined channel #supertux
+[2016/02/10 18:11:56] @ Quit: swift110: Changing host
+[2016/02/10 18:11:56] @ swift110 joined channel #supertux
