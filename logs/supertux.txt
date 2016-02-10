@@ -4869,3 +4869,5 @@
 [2016/02/10 00:05:36] @ Quit: tuxdev: Read error: Connection reset by peer
 [2016/02/10 00:18:49] @ MCMiic joined channel #supertux
 [2016/02/10 00:18:52] @ Quit: MCMic: Ping timeout: 252 seconds
+[2016/02/10 00:20:14] @ tuxdev joined channel #supertux
+[2016/02/10 00:23:27] @ Quit: tuxdev: Read error: Connection reset by peer
