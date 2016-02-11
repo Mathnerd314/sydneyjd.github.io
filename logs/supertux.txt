@@ -5053,3 +5053,5 @@
 [2016/02/10 18:51:34] @ tux|dude joined channel #supertux
 [2016/02/10 19:00:33] @ Quit: swift110: Ping timeout: 240 seconds
 [2016/02/10 19:05:00] @ swift110 joined channel #supertux
+[2016/02/10 19:17:27] @ irungentoo joined channel #supertux
+[2016/02/10 19:20:00] @ Quit: swift110: Ping timeout: 260 seconds
