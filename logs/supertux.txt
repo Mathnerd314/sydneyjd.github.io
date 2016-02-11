@@ -5132,3 +5132,4 @@
 [2016/02/11 11:23:35] <Tobbi> It's been some time.
 [2016/02/11 11:38:01] @ Quit: datahead7777: Quit: Leaving
 [2016/02/11 11:41:08] @ Quit: leper`: Ping timeout: 248 seconds
+[2016/02/11 11:47:16] @ leper` joined channel #supertux
