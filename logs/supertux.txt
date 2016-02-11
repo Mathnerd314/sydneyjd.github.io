@@ -5078,3 +5078,8 @@
 [2016/02/11 02:41:25] @ Quit: lumidify: Quit: Leaving
 [2016/02/11 03:24:45] @ Quit: swift110: Remote host closed the connection
 [2016/02/11 03:29:15] @ Quit: tuxdev_: Ping timeout: 240 seconds
+[2016/02/11 03:50:39] @ Quit: tux|dude: Quit: Leaving
+[2016/02/11 03:52:30] @ Quit: tuxdev: *.net *.split
+[2016/02/11 03:52:34] @ Tobbi joined channel #supertux
+[2016/02/11 03:52:35] @ Mode +v Tobbi by ChanServ
+[2016/02/11 03:53:45] @ Quit: Tobbi: Remote host closed the connection
