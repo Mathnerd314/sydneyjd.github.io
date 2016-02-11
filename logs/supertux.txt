@@ -5113,3 +5113,4 @@
 [2016/02/11 10:30:27] <maths22> By the way, if you want to see a really good getting started/ideas/etc page, see http://brlcad.org/wiki/Google_Summer_of_Code
 [2016/02/11 10:30:49] <maths22> They have participated most years since 2008, so their process is nice and polished
 [2016/02/11 10:31:16] <maths22> In particular http://brlcad.org/wiki/Summer_of_Code/Checklist
+[2016/02/11 10:49:04] <mt> Probably only useful if we get accepted.
