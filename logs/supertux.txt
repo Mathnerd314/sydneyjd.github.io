@@ -5075,3 +5075,6 @@
 [2016/02/11 13:51:22] @ Quit: tuxdev_: Ping timeout: 240 seconds
 [2016/02/11 14:08:02] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/vg6d6
 [2016/02/11 14:08:05] <pentagon> [10supertux] 07Hume2 140b1a41d Tilemaps can be now edited ny scripts
+[2016/02/11 14:11:09] @ brmbrmcar joined channel #supertux
+[2016/02/11 14:12:46] <Hume2> Hello, brmbrmcar
+[2016/02/11 14:13:11] <Hume2> I've just added a function for editing tilemaps via scripting.
