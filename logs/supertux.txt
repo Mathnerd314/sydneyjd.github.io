@@ -5114,3 +5114,5 @@
 [2016/02/11 10:30:49] <maths22> They have participated most years since 2008, so their process is nice and polished
 [2016/02/11 10:31:16] <maths22> In particular http://brlcad.org/wiki/Summer_of_Code/Checklist
 [2016/02/11 10:49:04] <mt> Probably only useful if we get accepted.
+[2016/02/11 10:50:46] @ Quit: tomreyn: Ping timeout: 245 seconds
+[2016/02/11 10:54:27] <maths22> mt: I just didn't know what you have to providewith the applicaiton
