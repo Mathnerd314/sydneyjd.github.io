@@ -5167,3 +5167,5 @@
 [2016/02/11 18:14:17] @ Quit: tux|dude: Quit: Leaving
 [2016/02/11 18:20:35] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2016/02/11 18:27:55] @ tux|dude joined channel #supertux
+[2016/02/11 18:38:52] @ datahead8888 joined channel #supertux
+[2016/02/11 18:39:01] @ datahead8888 is now known as datahead7777
