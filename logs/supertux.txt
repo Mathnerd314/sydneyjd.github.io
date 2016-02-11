@@ -5092,3 +5092,4 @@
 [2016/02/11 08:02:56] @ Quit: datahead7777: Ping timeout: 250 seconds
 [2016/02/11 09:10:45] @ datahead8888 joined channel #supertux
 [2016/02/11 09:16:40] @ Quit: datahead8888: Ping timeout: 252 seconds
+[2016/02/11 09:42:24] <maths22> I'm excited to see SuperTux is applying to GSOC
