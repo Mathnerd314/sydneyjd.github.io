@@ -5112,3 +5112,8 @@
 [2016/02/11 14:31:43] <Hume2> It's a brown block with a cross. What is it?
 [2016/02/11 14:33:36] <mt> can you screenshot?
 [2016/02/11 14:34:17] <Hume2> mt: It's a brick :D
+[2016/02/11 14:35:45] <Hume2> Once someone has asked me what was the brown block is SuperTux with a cross and I didn't know what was that supposed to be.
+[2016/02/11 14:36:37] <Hume2> s/is SuperTux with a cross/with a cross in SuperTux/
+[2016/02/11 14:36:37] <red_bot> Hume2 meant: "Once someone has asked me what was the brown block with a cross in SuperTux and I didn't know what was that supposed to be."
+[2016/02/11 14:36:37] @ Quit: lumidify: Quit: Leaving
+[2016/02/11 14:37:39] <Hume2> I thought that there's nothing like this in SuperTux and then I got it.
