@@ -5041,3 +5041,16 @@
 [2016/02/11 12:49:30] <Tobbi> And third, there should be different dictionaries.
 [2016/02/11 12:49:52] <maths22> What do you mean different dictionaries?
 [2016/02/11 12:49:58] <maths22> sydney_untangle: OK
+[2016/02/11 12:50:21] <Tobbi> maths22: What I mean is: Translations for strings in worlds should be preferred over translations for generic strings in worlds...
+[2016/02/11 12:50:34] <Tobbi> Actually, that's probably unnecessary...
+[2016/02/11 12:51:05] <maths22> Tobbi: The same string should translate the same across the applicaiton (unless there is some funny case I can't think of)
+[2016/02/11 12:51:16] <Tobbi> Hmm, probably right.
+[2016/02/11 12:51:30] <Tobbi> maths22: But actually, we should check the translation files for duplicates and remove them.
+[2016/02/11 12:51:35] <Tobbi> That's something that should be done.
+[2016/02/11 12:51:43] <Tobbi> During makepot.sh
+[2016/02/11 12:52:38] <mt> is thet translation preference thing an issue on the tracker?
+[2016/02/11 12:52:58] <mt> could be a task for a GSoC student when they want to write a first patch
+[2016/02/11 12:53:25] <Tobbi> mt: You mean that strings from langpacks should be preferred?
+[2016/02/11 12:53:29] <mt> yes
+[2016/02/11 12:53:55] <Tobbi> I think there is.
+[2016/02/11 12:54:32] <Tobbi> mt: https://github.com/SuperTux/supertux/issues/309
