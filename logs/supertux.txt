@@ -5073,3 +5073,5 @@
 [2016/02/11 13:41:43] <Tobbi> bbl.
 [2016/02/11 13:41:48] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/11 13:51:22] @ Quit: tuxdev_: Ping timeout: 240 seconds
+[2016/02/11 14:08:02] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/vg6d6
+[2016/02/11 14:08:05] <pentagon> [10supertux] 07Hume2 140b1a41d Tilemaps can be now edited ny scripts
