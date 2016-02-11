@@ -5106,3 +5106,9 @@
 [2016/02/11 14:24:17] <pentagon> [10supertux] 07maxteufel pushed 1 commit to 09master 13https://git.io/vg6j5
 [2016/02/11 14:24:20] <pentagon> [10supertux] 07maxteufel 14c15c1fd src/scripting: Player: add get_velocity_x and _y functions
 [2016/02/11 14:24:29] <pentagon> [10supertux] 07maxteufel 04deleted branch 09feature/scripting-player-get-velocity
+[2016/02/11 14:31:04] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/vgiU3
+[2016/02/11 14:31:07] <pentagon> [10supertux] 07Hume2 14f2b0248 PathWalker::goto_node no longer works for unordered paths already running
+[2016/02/11 14:31:09] <pentagon> [10supertux] Status for commit Tilemaps can be now edited ny scripts by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/108614722
+[2016/02/11 14:31:43] <Hume2> It's a brown block with a cross. What is it?
+[2016/02/11 14:33:36] <mt> can you screenshot?
+[2016/02/11 14:34:17] <Hume2> mt: It's a brick :D
