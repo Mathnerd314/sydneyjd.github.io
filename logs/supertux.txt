@@ -5069,3 +5069,4 @@
 [2016/02/11 13:25:51] <Hume2> Tobbi: Yes, but today I'm working on putting tiles via scripting.
 [2016/02/11 13:25:57] <Tobbi> oh sure
 [2016/02/11 13:30:15] @ lumidify joined channel #supertux
+[2016/02/11 13:35:47] @ Quit: brmbrmcar: Ping timeout: 276 seconds
