@@ -5090,3 +5090,4 @@
 [2016/02/11 06:57:35] @ Quit: pentagon: Remote host closed the connection
 [2016/02/11 06:58:32] @ Quit: MCMiic: Quit: Konversation terminated!
 [2016/02/11 08:02:56] @ Quit: datahead7777: Ping timeout: 250 seconds
+[2016/02/11 09:10:45] @ datahead8888 joined channel #supertux
