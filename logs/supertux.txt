@@ -5123,3 +5123,5 @@
 [2016/02/11 14:47:21] <Hume2> When you have a yellow lantern in a dark level and no magic blocks arround, I noticed one thing.
 [2016/02/11 14:48:12] <Hume2> The yellow lantern looks almost the same as a white lantern if you can't compare them.
 [2016/02/11 14:48:54] <Hume2> Magic blocks arround don't mind when they are another colour.
+[2016/02/11 14:51:03] <Hume2> Exceptionally in the forest levels, those are tited to red/green.
+[2016/02/11 14:53:13] <pentagon> [10supertux] Status for commit src/scripting: Player: add get_velocity_x and _y functions by 07Max Teufel: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/108618242
