@@ -5064,3 +5064,4 @@
 [2016/02/11 13:15:50] @ Mode +v Hume2 by ChanServ
 [2016/02/11 13:15:59] <Hume2> Hello
 [2016/02/11 13:16:05] <Tobbi> Hello Hume2.
+[2016/02/11 13:24:50] <Tobbi> Hume2: Can you work on replacing the bonus blocks in Yeti's Revenge (currently decals) with bonus blocks of type "script"?
