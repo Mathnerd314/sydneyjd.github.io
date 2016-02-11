@@ -5104,3 +5104,4 @@
 [2016/02/11 09:59:41] <mt> maths22: for the wiki edits: you should change the files in supertux/wiki, they'll be deployed to the github wiki using travis :)
 [2016/02/11 10:00:17] <mt> this one shouldn't cause any problems, since git is able to fast-forward
 [2016/02/11 10:01:58] @ tuxdev_ joined channel #supertux
+[2016/02/11 10:09:44] @ Quit: datahead8888: Ping timeout: 276 seconds
