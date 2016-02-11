@@ -5093,3 +5093,7 @@
 [2016/02/11 09:10:45] @ datahead8888 joined channel #supertux
 [2016/02/11 09:16:40] @ Quit: datahead8888: Ping timeout: 252 seconds
 [2016/02/11 09:42:24] <maths22> I'm excited to see SuperTux is applying to GSOC
+[2016/02/11 09:51:10] @ datahead8888 joined channel #supertux
+[2016/02/11 09:54:36] @ Mathnerd314 joined channel #supertux
+[2016/02/11 09:54:37] @ Mode +v Mathnerd314 by ChanServ
+[2016/02/11 09:54:42] @ pentagon joined channel #supertux
