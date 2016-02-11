@@ -5156,3 +5156,6 @@
 [2016/02/11 16:59:40] <Tobbi> :P
 [2016/02/11 16:59:53] <Tobbi> Not sure about them.
 [2016/02/11 17:00:36] @ Quit: claymore2: Quit: Leaving
+[2016/02/11 17:11:16] @ stewboy_ joined channel #supertux
+[2016/02/11 17:13:24] @ Quit: stewboy: Ping timeout: 272 seconds
+[2016/02/11 17:13:25] @ stewboy_ is now known as stewboy
