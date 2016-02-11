@@ -5067,3 +5067,4 @@
 [2016/02/10 23:46:26] @ Quit: irungentoo: Remote host closed the connection
 [2016/02/10 23:58:46] @ tuxdev joined channel #supertux
 [2016/02/11 00:38:44] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/02/11 00:46:27] @ swift110 joined channel #supertux
