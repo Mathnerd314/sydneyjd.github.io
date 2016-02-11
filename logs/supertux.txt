@@ -5057,3 +5057,4 @@
 [2016/02/11 12:57:00] <maths22> I just deleted all nightly builds that were more than a week old
 [2016/02/11 12:59:36] <mt> sounds like a good idea; if not already done you should set up a systemd timer/cronjob/... to do that
 [2016/02/11 12:59:59] @ Quit: Vorpal: Quit: ZNC - http://znc.sourceforge.net
+[2016/02/11 13:02:16] <maths22> mt: I keep meaning to, and then I forget
