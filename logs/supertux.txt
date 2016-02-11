@@ -5068,3 +5068,4 @@
 [2016/02/11 13:25:20] <Tobbi> The sprite property can even be changed.
 [2016/02/11 13:25:51] <Hume2> Tobbi: Yes, but today I'm working on putting tiles via scripting.
 [2016/02/11 13:25:57] <Tobbi> oh sure
+[2016/02/11 13:30:15] @ lumidify joined channel #supertux
