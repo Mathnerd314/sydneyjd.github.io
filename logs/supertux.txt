@@ -5090,3 +5090,19 @@
 [2016/02/11 14:19:26] <mt> there's a few comments missing and I'm too lazy to add those :D
 [2016/02/11 14:19:35] <mt> otherwise it's ok
 [2016/02/11 14:19:38] <Hume2> Then I think you can merge it.
+[2016/02/11 14:20:03] <brmbrmcar> Tilemaps via scripting?
+[2016/02/11 14:20:08] <Hume2> I think that get_velocity_x/y doesn't need any comment IMO.
+[2016/02/11 14:20:08] <brmbrmcar> AWESOME
+[2016/02/11 14:20:56] <Hume2> 48 is the brown block, I tested that on this one.
+[2016/02/11 14:21:21] <mt> I'll add comments anyway, for doxygen completeness
+[2016/02/11 14:21:45] <Hume2> Yeah, that could be better :D
+[2016/02/11 14:22:12] <Hume2> I don't know why, but I still remember some tile IDs.
+[2016/02/11 14:22:34] <mt> on the other hand
+[2016/02/11 14:22:49] <mt> src/scripting/scripted_object.hpp also doesn't have comments for that
+[2016/02/11 14:23:14] <Hume2> True.
+[2016/02/11 14:23:28] <Hume2> How the doxygen works by the way?
+[2016/02/11 14:23:56] <Hume2> I guess it scans the code and looks for comments, doesn't it?
+[2016/02/11 14:24:15] <mt> yes
+[2016/02/11 14:24:17] <pentagon> [10supertux] 07maxteufel pushed 1 commit to 09master 13https://git.io/vg6j5
+[2016/02/11 14:24:20] <pentagon> [10supertux] 07maxteufel 14c15c1fd src/scripting: Player: add get_velocity_x and _y functions
+[2016/02/11 14:24:29] <pentagon> [10supertux] 07maxteufel 04deleted branch 09feature/scripting-player-get-velocity
