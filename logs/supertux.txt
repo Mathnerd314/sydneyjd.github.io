@@ -5110,3 +5110,6 @@
 [2016/02/11 10:28:04] <maths22> I don't think so-We should allow the student to choose something they are comfortable with
 [2016/02/11 10:28:42] <mt> Indeed
 [2016/02/11 10:29:18] <maths22> I will think, however, if there are any suggestions we should make (i.e. Would suggest x, but feel free to suggest something else with a good explanation of why it is better)
+[2016/02/11 10:30:27] <maths22> By the way, if you want to see a really good getting started/ideas/etc page, see http://brlcad.org/wiki/Google_Summer_of_Code
+[2016/02/11 10:30:49] <maths22> They have participated most years since 2008, so their process is nice and polished
+[2016/02/11 10:31:16] <maths22> In particular http://brlcad.org/wiki/Summer_of_Code/Checklist
