@@ -5151,3 +5151,7 @@
 [2016/02/11 16:13:41] @ swift110 joined channel #supertux
 [2016/02/11 16:26:08] @ irungentoo joined channel #supertux
 [2016/02/11 16:31:38] @ stewboy joined channel #supertux
+[2016/02/11 16:59:23] <leyyin> Tobbi, do not ask nicely, get out the whip
+[2016/02/11 16:59:40] <Tobbi> leyyin: I am not into that, really..
+[2016/02/11 16:59:40] <Tobbi> :P
+[2016/02/11 16:59:53] <Tobbi> Not sure about them.
