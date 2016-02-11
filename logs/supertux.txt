@@ -5127,3 +5127,6 @@
 [2016/02/11 14:53:13] <pentagon> [10supertux] Status for commit src/scripting: Player: add get_velocity_x and _y functions by 07Max Teufel: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/108618242
 [2016/02/11 15:08:03] @ claymore2 joined channel #supertux
 [2016/02/11 15:11:38] <pentagon> [10supertux] Status for commit PathWalker::goto_node no longer works for unordered paths already running by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/108619509
+[2016/02/11 15:18:05] <pentagon> [10supertux] Status for commit src/scripting: Player: add get_velocity_x and _y functions by 07Max Teufel: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/376
+[2016/02/11 15:18:59] <sydney_untangle> My siblings have started playing a ton of supertux. o_O
+[2016/02/11 15:19:49] <Hume2> o.O
