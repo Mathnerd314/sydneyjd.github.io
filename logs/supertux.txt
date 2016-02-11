@@ -5116,3 +5116,12 @@
 [2016/02/11 10:49:04] <mt> Probably only useful if we get accepted.
 [2016/02/11 10:50:46] @ Quit: tomreyn: Ping timeout: 245 seconds
 [2016/02/11 10:54:27] <maths22> mt: I just didn't know what you have to providewith the applicaiton
+[2016/02/11 10:55:24] <maths22> s/providewith/provide with/
+[2016/02/11 10:55:24] <red_bot> maths22 meant: "mt: I just didn't know what you have to provide with the applicaiton"
+[2016/02/11 10:55:40] @ Quit: sydney_untangle: Ping timeout: 252 seconds
+[2016/02/11 10:56:25] @ sydney_untangle joined channel #supertux
+[2016/02/11 10:56:25] @ Mode +v sydney_untangle by ChanServ
+[2016/02/11 10:56:25] @ datahead8888 joined channel #supertux
+[2016/02/11 10:57:04] <mt> maths22: Hm? We've defined some things we want to students to tell us, should be in the irc log
+[2016/02/11 10:57:39] <maths22> I know we had, I just figured more reference material's couldn't hurt, even if they also won't help
+[2016/02/11 10:58:10] @ tomreyn joined channel #supertux
