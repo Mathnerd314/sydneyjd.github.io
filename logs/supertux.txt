@@ -5161,3 +5161,7 @@
 [2016/02/11 17:13:25] @ stewboy_ is now known as stewboy
 [2016/02/11 17:42:45] @ tux|dude joined channel #supertux
 [2016/02/11 17:59:10] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/11 18:11:22] @ stewboy_ joined channel #supertux
+[2016/02/11 18:12:26] @ Quit: stewboy: Ping timeout: 240 seconds
+[2016/02/11 18:12:26] @ stewboy_ is now known as stewboy
+[2016/02/11 18:14:17] @ Quit: tux|dude: Quit: Leaving
