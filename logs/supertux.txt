@@ -5146,3 +5146,6 @@
 [2016/02/11 16:05:32] <Tobbi> mt: Can you constify those get_velocity functions?
 [2016/02/11 16:05:40] <Tobbi> They should be const.
 [2016/02/11 16:09:10] @ Vorpal joined channel #supertux
+[2016/02/11 16:11:37] @ swift110 joined channel #supertux
+[2016/02/11 16:13:41] @ Quit: swift110: Changing host
+[2016/02/11 16:13:41] @ swift110 joined channel #supertux
