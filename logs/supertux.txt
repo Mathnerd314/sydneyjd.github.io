@@ -5064,3 +5064,4 @@
 [2016/02/10 20:41:53] @ tuxdev_ joined channel #supertux
 [2016/02/10 22:34:11] @ tux|dude joined channel #supertux
 [2016/02/10 23:41:27] @ Quit: tuxdev: Read error: Connection reset by peer
+[2016/02/10 23:46:26] @ Quit: irungentoo: Remote host closed the connection
