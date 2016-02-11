@@ -5070,3 +5070,5 @@
 [2016/02/11 13:25:57] <Tobbi> oh sure
 [2016/02/11 13:30:15] @ lumidify joined channel #supertux
 [2016/02/11 13:35:47] @ Quit: brmbrmcar: Ping timeout: 276 seconds
+[2016/02/11 13:41:43] <Tobbi> bbl.
+[2016/02/11 13:41:48] @ Quit: Tobbi: Remote host closed the connection
