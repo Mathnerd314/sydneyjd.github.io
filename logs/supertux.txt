@@ -5126,3 +5126,7 @@
 [2016/02/11 10:57:39] <maths22> I know we had, I just figured more reference material's couldn't hurt, even if they also won't help
 [2016/02/11 10:58:10] @ tomreyn joined channel #supertux
 [2016/02/11 11:06:43] @ datahead8888 is now known as datahead7777
+[2016/02/11 11:21:47] @ Tobbi joined channel #supertux
+[2016/02/11 11:21:47] @ Mode +v Tobbi by ChanServ
+[2016/02/11 11:23:32] <Tobbi> maths22: Hello!
+[2016/02/11 11:23:35] <Tobbi> It's been some time.
