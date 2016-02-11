@@ -5126,3 +5126,4 @@
 [2016/02/11 14:51:03] <Hume2> Exceptionally in the forest levels, those are tited to red/green.
 [2016/02/11 14:53:13] <pentagon> [10supertux] Status for commit src/scripting: Player: add get_velocity_x and _y functions by 07Max Teufel: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/108618242
 [2016/02/11 15:08:03] @ claymore2 joined channel #supertux
+[2016/02/11 15:11:38] <pentagon> [10supertux] Status for commit PathWalker::goto_node no longer works for unordered paths already running by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/108619509
