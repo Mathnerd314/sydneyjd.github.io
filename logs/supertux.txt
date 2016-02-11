@@ -5097,3 +5097,8 @@
 [2016/02/11 09:54:36] @ Mathnerd314 joined channel #supertux
 [2016/02/11 09:54:37] @ Mode +v Mathnerd314 by ChanServ
 [2016/02/11 09:54:42] @ pentagon joined channel #supertux
+[2016/02/11 09:56:19] <mt> looks like I forgot to restart pentagon, had some memory problems on my VPS a few hours ago (my IRC client probably has/had a memory leak)
+[2016/02/11 09:56:51] <mt> also, hi maths22, haven't seem you talking for some time
+[2016/02/11 09:58:52] <pentagon> [10wiki] 07maxteufel pushed 1 commit to 09master 13https://git.io/vgK8L
+[2016/02/11 09:58:55] <pentagon> [10wiki] 07maths22 14b93d654 Updated GSoC 2016 Ideas (markdown)
+[2016/02/11 09:59:41] <mt> maths22: for the wiki edits: you should change the files in supertux/wiki, they'll be deployed to the github wiki using travis :)
