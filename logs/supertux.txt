@@ -5166,3 +5166,4 @@
 [2016/02/11 18:12:26] @ stewboy_ is now known as stewboy
 [2016/02/11 18:14:17] @ Quit: tux|dude: Quit: Leaving
 [2016/02/11 18:20:35] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/02/11 18:27:55] @ tux|dude joined channel #supertux
