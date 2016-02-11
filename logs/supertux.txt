@@ -5133,3 +5133,4 @@
 [2016/02/11 15:21:15] @ lumidify joined channel #supertux
 [2016/02/11 15:25:01] @ Quit: Vorpal: Quit: ZNC - http://znc.sourceforge.net
 [2016/02/11 15:38:45] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/02/11 15:40:32] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
