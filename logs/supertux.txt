@@ -5133,3 +5133,5 @@
 [2016/02/11 11:38:01] @ Quit: datahead7777: Quit: Leaving
 [2016/02/11 11:41:08] @ Quit: leper`: Ping timeout: 248 seconds
 [2016/02/11 11:47:16] @ leper` joined channel #supertux
+[2016/02/11 11:52:46] <leyyin> time is relative
+[2016/02/11 11:52:48] <leyyin> we are absolute
