@@ -5125,3 +5125,4 @@
 [2016/02/11 10:57:04] <mt> maths22: Hm? We've defined some things we want to students to tell us, should be in the irc log
 [2016/02/11 10:57:39] <maths22> I know we had, I just figured more reference material's couldn't hurt, even if they also won't help
 [2016/02/11 10:58:10] @ tomreyn joined channel #supertux
+[2016/02/11 11:06:43] @ datahead8888 is now known as datahead7777
