@@ -5078,3 +5078,15 @@
 [2016/02/11 14:11:09] @ brmbrmcar joined channel #supertux
 [2016/02/11 14:12:46] <Hume2> Hello, brmbrmcar
 [2016/02/11 14:13:11] <Hume2> I've just added a function for editing tilemaps via scripting.
+[2016/02/11 14:17:08] <mt> (unless you're talking to brmbrmcar: pentagon announced that commit, so we know that)
+[2016/02/11 14:17:24] <Hume2> :)7
+[2016/02/11 14:17:51] <mt> Hume2: by the way, have you see https://github.com/SuperTux/supertux/tree/feature/scripting-player-get-velocity
+[2016/02/11 14:18:03] <mt> s/see/seen/
+[2016/02/11 14:18:03] <red_bot> mt meant: "Hume2: by the way, have you seen https://github.com/SuperTux/supertux/tree/feature/scripting-player-get-velocity"
+[2016/02/11 14:18:39] <brmbrmcar> hi
+[2016/02/11 14:18:59] <Hume2> mt: This must work, I think you can merge it.
+[2016/02/11 14:19:09] <Hume2> Or doesn't it?
+[2016/02/11 14:19:13] <mt> yes, it does work I tested it
+[2016/02/11 14:19:26] <mt> there's a few comments missing and I'm too lazy to add those :D
+[2016/02/11 14:19:35] <mt> otherwise it's ok
+[2016/02/11 14:19:38] <Hume2> Then I think you can merge it.
