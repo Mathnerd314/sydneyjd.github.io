@@ -5106,3 +5106,4 @@
 [2016/02/11 10:01:58] @ tuxdev_ joined channel #supertux
 [2016/02/11 10:09:44] @ Quit: datahead8888: Ping timeout: 276 seconds
 [2016/02/11 10:14:33] <maths22> mt: Good to know.  Thanks
+[2016/02/11 10:20:13] <mt> maths22: since you're apparently interested in mentoring the web thing, should we restrict that to any specific language(s)?
