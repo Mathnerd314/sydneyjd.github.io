@@ -5138,3 +5138,4 @@
 [2016/02/11 11:56:13] <Tobbi> leyyin: ...
 [2016/02/11 11:56:34] <Tobbi> leyyin: It's been some time = Welcome back! Now fix this damn appveyor thingy properly.
 [2016/02/11 11:59:51] <Tobbi> I am trying to be a nice project lead.
+[2016/02/11 12:04:25] <leyyin> but the universe is eternal
