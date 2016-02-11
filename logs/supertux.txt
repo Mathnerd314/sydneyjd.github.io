@@ -5087,3 +5087,5 @@
 [2016/02/11 04:23:12] @ MCMiic joined channel #supertux
 [2016/02/11 04:39:00] @ leyyin joined channel #supertux
 [2016/02/11 06:25:32] @ Quit: stewboy: Read error: Connection reset by peer
+[2016/02/11 06:57:35] @ Quit: pentagon: Remote host closed the connection
+[2016/02/11 06:58:32] @ Quit: MCMiic: Quit: Konversation terminated!
