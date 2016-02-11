@@ -5058,3 +5058,5 @@
 [2016/02/11 12:59:36] <mt> sounds like a good idea; if not already done you should set up a systemd timer/cronjob/... to do that
 [2016/02/11 12:59:59] @ Quit: Vorpal: Quit: ZNC - http://znc.sourceforge.net
 [2016/02/11 13:02:16] <maths22> mt: I keep meaning to, and then I forget
+[2016/02/11 13:11:31] @ bb010g joined channel #supertux
+[2016/02/11 13:12:46] <Tobbi> We should change the bonus blocks in the Yeti's Revenge levels with appropriate bonus blocks type "script"
