@@ -5072,3 +5072,4 @@
 [2016/02/11 13:35:47] @ Quit: brmbrmcar: Ping timeout: 276 seconds
 [2016/02/11 13:41:43] <Tobbi> bbl.
 [2016/02/11 13:41:48] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/11 13:51:22] @ Quit: tuxdev_: Ping timeout: 240 seconds
