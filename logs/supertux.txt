@@ -5143,3 +5143,6 @@
 [2016/02/11 16:03:57] <Tobbi> sydney_untangle: you have siblings?
 [2016/02/11 16:04:53] <Tobbi> Also, we should check the functions in scripting/ for const correctness.
 [2016/02/11 16:04:57] <Tobbi> I know, my thing.
+[2016/02/11 16:05:32] <Tobbi> mt: Can you constify those get_velocity functions?
+[2016/02/11 16:05:40] <Tobbi> They should be const.
+[2016/02/11 16:09:10] @ Vorpal joined channel #supertux
