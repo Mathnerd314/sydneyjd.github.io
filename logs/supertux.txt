@@ -5251,3 +5251,4 @@
 [2016/02/12 09:23:04] <Tobbi> mt: Actually, if you want, you can go through all of the scripting/ functions and check whether they are marked const.
 [2016/02/12 09:23:37] <mt> so basically for all get_ functions?
 [2016/02/12 09:24:51] <Tobbi> mt: Basically yes. However, I have seen getter functions which change the state of the object.
+[2016/02/12 09:25:21] <Tobbi> ...in the SuperTux codebase even.
