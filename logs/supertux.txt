@@ -5174,3 +5174,8 @@
 [2016/02/11 19:14:24] @ Vorpal_ joined channel #supertux
 [2016/02/11 19:14:34] @ sydney_u1tangle joined channel #supertux
 [2016/02/11 19:14:34] @ Mode +v sydney_u1tangle by ChanServ
+[2016/02/11 19:15:08] @ Quit: Vorpal: Ping timeout: 240 seconds
+[2016/02/11 19:15:08] @ Quit: leper`: Ping timeout: 240 seconds
+[2016/02/11 19:15:08] @ Quit: sydney_untangle: Ping timeout: 240 seconds
+[2016/02/11 19:15:10] @ leper`- is now known as leper`
+[2016/02/11 19:18:32] @ stewboy joined channel #supertux
