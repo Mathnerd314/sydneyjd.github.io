@@ -5408,3 +5408,10 @@
 [2016/02/12 15:49:26] @ Quit: Karkus: Ping timeout: 240 seconds
 [2016/02/12 15:53:43] @ Tobbi joined channel #supertux
 [2016/02/12 15:53:44] @ Mode +v Tobbi by ChanServ
+[2016/02/12 15:55:25] <Tobbi> *sigh*
+[2016/02/12 15:56:10] <Tobbi> mt: Coverity is mostly mistaken when it comes to these errors.
+[2016/02/12 15:56:42] <Tobbi> I mean: They're in include files...
+[2016/02/12 15:56:44] <Tobbi> so I don't care.
+[2016/02/12 15:57:20] <mt> lol wat https://travis-ci.org/SuperTux/supertux/jobs/108813162#L1779
+[2016/02/12 15:57:28] <mt> make: *** No targets specified and no makefile found.  Stop.
+[2016/02/12 15:58:40] <Tobbi> Yeah, no idea.
