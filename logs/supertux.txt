@@ -5333,3 +5333,4 @@
 [2016/02/12 10:09:17] <Tobbi> 35 minutes...that's okay, I guess.
 [2016/02/12 10:09:37] <mt> wait AppVeyor finished before Travis
 [2016/02/12 10:09:46] <mt> doesn't happen often
+[2016/02/12 10:10:15] <mt> Looks like travis is still not building
