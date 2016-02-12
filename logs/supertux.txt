@@ -5400,3 +5400,4 @@
 [2016/02/12 14:40:27] @ Quit: tux|dude: Quit: Leaving
 [2016/02/12 15:11:11] @ Tobbi joined channel #supertux
 [2016/02/12 15:11:11] @ Mode +v Tobbi by ChanServ
+[2016/02/12 15:16:04] @ Quit: Tobbi: Ping timeout: 248 seconds
