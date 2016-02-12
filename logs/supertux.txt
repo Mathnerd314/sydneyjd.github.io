@@ -5280,3 +5280,22 @@
 [2016/02/12 09:39:44] <Tobbi> And it allocates memory for the method code and for all the properties...
 [2016/02/12 09:39:45] <leyyin> depends if on the heap or the stack
 [2016/02/12 09:39:54] <Tobbi> Hrm, right.
+[2016/02/12 09:40:34] <leyyin> https://stackoverflow.com/questions/12378271/what-does-an-object-look-like-in-memory
+[2016/02/12 09:40:38] <leyyin> https://stackoverflow.com/questions/1632600/memory-layout-c-objects
+[2016/02/12 09:40:40] <Tobbi> leyyin: What I mean is: namespace methods are shared across the program, thus only allocated once...and methods of classes you instantiate (on the heap for example) are allocated once for each instance?
+[2016/02/12 09:40:42] <Tobbi> hrm, okay.
+[2016/02/12 09:41:07] <Tobbi> Ah!
+[2016/02/12 09:41:13] <pentagon> [10supertux] 07maxteufel pushed 1 commit to 09master 13https://git.io/vgX5e
+[2016/02/12 09:41:15] <Tobbi> leyyin: Thanks, that answers my question :D
+[2016/02/12 09:41:16] <pentagon> [10supertux] 07maxteufel 144fba0e1 src/scripting: ScriptedObject: fix const correctness
+[2016/02/12 09:41:27] <leyyin> why do you need to duplicate the methods?
+[2016/02/12 09:41:32] <leyyin> inefficient
+[2016/02/12 09:41:46] <leyyin> once in memory and you can have a zillion instances
+[2016/02/12 09:41:49] <Tobbi> leyyin: I know...In my mind it was like: New object = new method.
+[2016/02/12 09:42:20] <sydney_u1tangle> mt: #kdenlive is kinda quiet. ;)
+[2016/02/12 09:42:30] @ sydney_u1tangle is now known as sydney_untangle
+[2016/02/12 09:42:45] <leyyin> I should go there and start trolling
+[2016/02/12 09:44:07] <sydney_untangle> leyyin: Maybe you would actually help...
+[2016/02/12 09:44:37] <leyyin> nahh, I received the "Founding Father" achievement for killing some american natives
+[2016/02/12 09:44:42] <leyyin> damn this gamn is brutal real :D
+[2016/02/12 09:44:55] <Tobbi> Okay, now: What do we need to do to make supertux more efficient?
