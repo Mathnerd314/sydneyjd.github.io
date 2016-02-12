@@ -5427,3 +5427,4 @@
 [2016/02/12 18:04:23] @ tux|dude joined channel #supertux
 [2016/02/12 18:05:23] @ tuxdude143 joined channel #supertux
 [2016/02/12 18:09:11] @ Quit: tux|dude: Ping timeout: 276 seconds
+[2016/02/12 18:10:45] @ Quit: Karkus: Remote host closed the connection
