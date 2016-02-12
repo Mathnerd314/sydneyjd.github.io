@@ -5368,3 +5368,4 @@
 [2016/02/12 10:47:24] @ Mode +q pentagon!*@* by Tobbi
 [2016/02/12 10:47:33] <Tobbi> grr.
 [2016/02/12 10:47:51] <Tobbi> Let's get it over with.
+[2016/02/12 11:03:27] @ quit (okay bye)
