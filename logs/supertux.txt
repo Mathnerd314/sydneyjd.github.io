@@ -5204,3 +5204,4 @@
 [2016/02/12 00:09:55] @ Quit: paroneayea: Read error: Connection reset by peer
 [2016/02/12 00:10:28] @ paroneayea joined channel #supertux
 [2016/02/12 00:11:31] @ stewboy joined channel #supertux
+[2016/02/12 00:25:43] @ tux|dude joined channel #supertux
