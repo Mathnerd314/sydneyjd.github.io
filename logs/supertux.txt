@@ -5384,3 +5384,4 @@
 [2016/02/12 11:32:05] <Tobbi> finally.
 [2016/02/12 11:56:51] <pentagon> [10supertux] Status for commit src/scripting: ScriptedObject: fix const correctness by 07Max Teufel: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/108797917
 [2016/02/12 12:09:26] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/02/12 12:53:43] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
