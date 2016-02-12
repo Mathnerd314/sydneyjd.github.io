@@ -5199,3 +5199,4 @@
 [2016/02/11 23:26:37] @ Mode +v Mathnerd314_ by ChanServ
 [2016/02/11 23:29:35] @ Quit: Mathnerd314: Ping timeout: 264 seconds
 [2016/02/11 23:38:23] @ Quit: irungentoo: Ping timeout: 246 seconds
+[2016/02/12 00:00:20] @ Quit: tux|dude: Ping timeout: 248 seconds
