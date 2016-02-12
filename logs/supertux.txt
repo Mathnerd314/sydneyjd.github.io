@@ -5396,3 +5396,4 @@
 [2016/02/12 13:45:16] @ claymore2 joined channel #supertux
 [2016/02/12 14:11:14] @ tux|dude joined channel #supertux
 [2016/02/12 14:11:49] <pentagon> [10supertux] Status for commit src/scripting: ScriptedObject: actually fix const correctness in headers by 07Max Teufel: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/108813161
+[2016/02/12 14:15:44] <mt> coverity problems! great!
