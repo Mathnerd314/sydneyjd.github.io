@@ -5398,3 +5398,5 @@
 [2016/02/12 14:11:49] <pentagon> [10supertux] Status for commit src/scripting: ScriptedObject: actually fix const correctness in headers by 07Max Teufel: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/108813161
 [2016/02/12 14:15:44] <mt> coverity problems! great!
 [2016/02/12 14:40:27] @ Quit: tux|dude: Quit: Leaving
+[2016/02/12 15:11:11] @ Tobbi joined channel #supertux
+[2016/02/12 15:11:11] @ Mode +v Tobbi by ChanServ
