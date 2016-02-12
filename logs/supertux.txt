@@ -5181,3 +5181,6 @@
 [2016/02/11 19:18:32] @ stewboy joined channel #supertux
 [2016/02/11 19:27:56] @ Quit: tux|dude: Quit: Leaving
 [2016/02/11 20:00:03] @ Quit: swift110: Remote host closed the connection
+[2016/02/11 20:11:39] @ stewboy_ joined channel #supertux
+[2016/02/11 20:13:16] @ Quit: stewboy: Ping timeout: 272 seconds
+[2016/02/11 20:13:16] @ stewboy_ is now known as stewboy
