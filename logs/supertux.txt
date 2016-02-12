@@ -5339,3 +5339,5 @@
 [2016/02/12 10:16:58] @ lumidify joined channel #supertux
 [2016/02/12 10:19:38] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/12 10:19:48] <mt> https://urandom.eu.org/i/tPZYeYwn.png this should be written on all places where MD5 is used
+[2016/02/12 10:24:11] @ Mathnerd314 joined channel #supertux
+[2016/02/12 10:24:11] @ Mode +v Mathnerd314 by ChanServ
