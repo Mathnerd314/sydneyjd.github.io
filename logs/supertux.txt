@@ -5323,3 +5323,13 @@
 [2016/02/12 09:50:34] <Tobbi> :P
 [2016/02/12 09:58:39] @ dodi joined channel #supertux
 [2016/02/12 09:58:44] @ Quit: dodi: Client Quit
+[2016/02/12 10:05:11] <pentagon> [10supertux] 07maxteufel pushed 2 commits to 09master 13https://git.io/vgXxs
+[2016/02/12 10:05:14] <pentagon> [10supertux] 07maxteufel 14c9966f0 src/scripting: LevelTime: fix const correctness
+[2016/02/12 10:05:17] <pentagon> [10supertux] 07maxteufel 148359ab8 src/scripting: Tilemap: fix const correctness
+[2016/02/12 10:05:50] <mt> Tobbi: src/scripting should be all fixed now
+[2016/02/12 10:06:08] <Tobbi> mt: Thanks, looks good.
+[2016/02/12 10:06:53] <Tobbi> const correctness is something you do when there's nothing else to do.
+[2016/02/12 10:08:44] <pentagon> [10supertux] Status for commit src/scripting: Player: constify get_velocity functions by 07Max Teufel: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/378
+[2016/02/12 10:09:17] <Tobbi> 35 minutes...that's okay, I guess.
+[2016/02/12 10:09:37] <mt> wait AppVeyor finished before Travis
+[2016/02/12 10:09:46] <mt> doesn't happen often
