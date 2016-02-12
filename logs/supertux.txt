@@ -5299,3 +5299,22 @@
 [2016/02/12 09:44:37] <leyyin> nahh, I received the "Founding Father" achievement for killing some american natives
 [2016/02/12 09:44:42] <leyyin> damn this gamn is brutal real :D
 [2016/02/12 09:44:55] <Tobbi> Okay, now: What do we need to do to make supertux more efficient?
+[2016/02/12 09:45:03] <pentagon> [10supertux] 07maxteufel pushed 1 commit to 09master 13https://git.io/vgX5b
+[2016/02/12 09:45:06] <pentagon> [10supertux] 07maxteufel 14473ff9f src/scripting: ScriptedObject: actually fix const correctness in headers
+[2016/02/12 09:45:22] <leyyin> it is not efficient?
+[2016/02/12 09:45:42] <Tobbi> leyyin: Loading takes quite some time.
+[2016/02/12 09:45:54] <Tobbi> like, the initial program load.
+[2016/02/12 09:46:08] <mt> "tell users to use SSDs"
+[2016/02/12 09:46:08] <leyyin> profile and see where is the bottleneck
+[2016/02/12 09:46:52] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vgXdq
+[2016/02/12 09:46:54] <Tobbi> Yeah, probably.
+[2016/02/12 09:46:55] <pentagon> [10supertux] 07tobbi 14fae2480 Statistics::completed const correctness
+[2016/02/12 09:47:22] <Tobbi> leyyin: It's probably difficult things... Plus we create a bazillion instances for the font files...
+[2016/02/12 09:47:28] <Tobbi> for whatever reason.
+[2016/02/12 09:47:34] <Tobbi> I don't understand the font code well enough.
+[2016/02/12 09:47:45] <mt> TTF rendering!
+[2016/02/12 09:48:19] <Tobbi> mt: Yeah, indeed. I'm looking forward to that if we get accepted
+[2016/02/12 09:48:32] <leyyin> or tell Benau to do it :P
+[2016/02/12 09:49:21] <Tobbi> leyyin: GSoC might make more sense. Besides, the ST code is much different from the STK code...
+[2016/02/12 09:49:37] <Tobbi> I don't want to trouble Benau with learning a different code base.
+[2016/02/12 09:49:53] <leyyin> Tobbi, https://thedisorderofthings.files.wordpress.com/2013/08/nicholas-cage-you-dont-say.jpg?w=540&h=305
