@@ -5179,3 +5179,4 @@
 [2016/02/11 19:15:08] @ Quit: sydney_untangle: Ping timeout: 240 seconds
 [2016/02/11 19:15:10] @ leper`- is now known as leper`
 [2016/02/11 19:18:32] @ stewboy joined channel #supertux
+[2016/02/11 19:27:56] @ Quit: tux|dude: Quit: Leaving
