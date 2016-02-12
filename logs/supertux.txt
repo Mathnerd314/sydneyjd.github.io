@@ -5202,3 +5202,5 @@
 [2016/02/12 00:00:20] @ Quit: tux|dude: Ping timeout: 248 seconds
 [2016/02/12 00:09:15] @ Quit: stewboy: Read error: Connection reset by peer
 [2016/02/12 00:09:55] @ Quit: paroneayea: Read error: Connection reset by peer
+[2016/02/12 00:10:28] @ paroneayea joined channel #supertux
+[2016/02/12 00:11:31] @ stewboy joined channel #supertux
