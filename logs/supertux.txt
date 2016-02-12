@@ -5252,3 +5252,10 @@
 [2016/02/12 09:23:37] <mt> so basically for all get_ functions?
 [2016/02/12 09:24:51] <Tobbi> mt: Basically yes. However, I have seen getter functions which change the state of the object.
 [2016/02/12 09:25:21] <Tobbi> ...in the SuperTux codebase even.
+[2016/02/12 09:31:02] <pentagon> [10supertux] 07maxteufel pushed 1 commit to 09master 13https://git.io/vgXQv
+[2016/02/12 09:31:05] <pentagon> [10supertux] 07maxteufel 1421d70b6 src/scripting: Player: constify get_velocity functions
+[2016/02/12 09:32:23] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vgXQm
+[2016/02/12 09:32:26] <pentagon> [10supertux] 07tobbi 145faeb20 More work on const correctness in trigger/ [ci skip]
+[2016/02/12 09:33:57] <Tobbi> mt: Oh, also, only class methods can be const...
+[2016/02/12 09:34:03] <Tobbi> If you have namespace methods, they can't be const.
+[2016/02/12 09:34:09] <Tobbi> Actually, that's self-explanatory.
