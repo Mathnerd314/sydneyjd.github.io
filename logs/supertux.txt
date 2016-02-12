@@ -5417,3 +5417,4 @@
 [2016/02/12 15:58:40] <Tobbi> Yeah, no idea.
 [2016/02/12 16:15:51] @ stewboy joined channel #supertux
 [2016/02/12 16:34:18] @ Quit: Tobbi: 
+[2016/02/12 16:36:39] @ Quit: claymore2: Quit: Leaving
