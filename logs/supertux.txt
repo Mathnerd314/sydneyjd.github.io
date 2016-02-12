@@ -5224,3 +5224,5 @@
 [2016/02/12 06:21:13] @ Quit: lumidify: Changing host
 [2016/02/12 06:21:13] @ lumidify joined channel #supertux
 [2016/02/12 06:39:11] @ Quit: lumidify: Ping timeout: 264 seconds
+[2016/02/12 08:35:13] @ Tobbi joined channel #supertux
+[2016/02/12 08:35:13] @ Mode +v Tobbi by ChanServ
