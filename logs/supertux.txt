@@ -5226,3 +5226,8 @@
 [2016/02/12 06:39:11] @ Quit: lumidify: Ping timeout: 264 seconds
 [2016/02/12 08:35:13] @ Tobbi joined channel #supertux
 [2016/02/12 08:35:13] @ Mode +v Tobbi by ChanServ
+[2016/02/12 08:55:49] <Tobbi> hello.
+[2016/02/12 08:59:27] <sydney_u1tangle> Tobbi: Hola.
+[2016/02/12 08:59:36] <sydney_u1tangle> Tobbi: You can fix my kdenlive install. :p
+[2016/02/12 08:59:42] <Tobbi> sydney_u1tangle: You can fix my life.
+[2016/02/12 08:59:56] <sydney_u1tangle> yay...
