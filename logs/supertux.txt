@@ -5213,3 +5213,7 @@
 [2016/02/12 02:22:00] @ Quit: tux|dude: Quit: Leaving
 [2016/02/12 02:35:25] @ Quit: tuxdev_: Ping timeout: 260 seconds
 [2016/02/12 02:42:25] @ Quit: lumidify: Ping timeout: 260 seconds
+[2016/02/12 03:17:39] @ tux|dude joined channel #supertux
+[2016/02/12 03:18:35] @ lumidify joined channel #supertux
+[2016/02/12 03:18:35] @ Quit: lumidify: Changing host
+[2016/02/12 03:18:35] @ lumidify joined channel #supertux
