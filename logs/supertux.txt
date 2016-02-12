@@ -5208,3 +5208,5 @@
 [2016/02/12 00:55:05] @ lumidify joined channel #supertux
 [2016/02/12 00:55:18] @ Quit: stewboy: Read error: Connection reset by peer
 [2016/02/12 01:09:55] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/02/12 01:57:15] @ Quit: Mathnerd314_: Ping timeout: 240 seconds
+[2016/02/12 01:58:32] @ lumidify joined channel #supertux
