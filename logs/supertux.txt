@@ -5421,3 +5421,4 @@
 [2016/02/12 16:42:27] <pentagon> [10supertux] Status for commit src/scripting: ScriptedObject: actually fix const correctness in headers by 07Max Teufel: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/108813161
 [2016/02/12 16:49:25] @ irungentoo joined channel #supertux
 [2016/02/12 17:28:32] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- Would you like to know more?
+[2016/02/12 17:49:57] @ Quit: leper`: Quit: ZNC - http://znc.in
