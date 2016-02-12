@@ -5169,3 +5169,8 @@
 [2016/02/11 18:27:55] @ tux|dude joined channel #supertux
 [2016/02/11 18:38:52] @ datahead8888 joined channel #supertux
 [2016/02/11 18:39:01] @ datahead8888 is now known as datahead7777
+[2016/02/11 19:12:44] @ leper`- joined channel #supertux
+[2016/02/11 19:13:06] @ Quit: stewboy: Ping timeout: 272 seconds
+[2016/02/11 19:14:24] @ Vorpal_ joined channel #supertux
+[2016/02/11 19:14:34] @ sydney_u1tangle joined channel #supertux
+[2016/02/11 19:14:34] @ Mode +v sydney_u1tangle by ChanServ
