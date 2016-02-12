@@ -5415,3 +5415,4 @@
 [2016/02/12 15:57:20] <mt> lol wat https://travis-ci.org/SuperTux/supertux/jobs/108813162#L1779
 [2016/02/12 15:57:28] <mt> make: *** No targets specified and no makefile found.  Stop.
 [2016/02/12 15:58:40] <Tobbi> Yeah, no idea.
+[2016/02/12 16:15:51] @ stewboy joined channel #supertux
