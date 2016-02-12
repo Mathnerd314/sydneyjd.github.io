@@ -5334,3 +5334,8 @@
 [2016/02/12 10:09:37] <mt> wait AppVeyor finished before Travis
 [2016/02/12 10:09:46] <mt> doesn't happen often
 [2016/02/12 10:10:15] <mt> Looks like travis is still not building
+[2016/02/12 10:16:54] @ lumidify joined channel #supertux
+[2016/02/12 10:16:58] @ Quit: lumidify: Changing host
+[2016/02/12 10:16:58] @ lumidify joined channel #supertux
+[2016/02/12 10:19:38] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/12 10:19:48] <mt> https://urandom.eu.org/i/tPZYeYwn.png this should be written on all places where MD5 is used
