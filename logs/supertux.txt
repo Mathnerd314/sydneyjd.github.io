@@ -5393,3 +5393,4 @@
 [2016/02/12 13:10:37] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/12 13:30:20] @ Quit: claymore2: Ping timeout: 276 seconds
 [2016/02/12 13:35:17] @ bb010g joined channel #supertux
+[2016/02/12 13:45:16] @ claymore2 joined channel #supertux
