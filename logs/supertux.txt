@@ -5180,3 +5180,4 @@
 [2016/02/11 19:15:10] @ leper`- is now known as leper`
 [2016/02/11 19:18:32] @ stewboy joined channel #supertux
 [2016/02/11 19:27:56] @ Quit: tux|dude: Quit: Leaving
+[2016/02/11 20:00:03] @ Quit: swift110: Remote host closed the connection
