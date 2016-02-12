@@ -5342,3 +5342,8 @@
 [2016/02/12 10:24:11] @ Mathnerd314 joined channel #supertux
 [2016/02/12 10:24:11] @ Mode +v Mathnerd314 by ChanServ
 [2016/02/12 10:26:35] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/02/12 10:30:51] @ Tobbi joined channel #supertux
+[2016/02/12 10:30:52] @ Mode +v Tobbi by ChanServ
+[2016/02/12 10:32:47] * sydney_untangle arg...
+[2016/02/12 10:34:30] <mt> sydney_untangle: ?
+[2016/02/12 10:34:35] * Tobbi org
