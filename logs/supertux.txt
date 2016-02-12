@@ -5259,3 +5259,24 @@
 [2016/02/12 09:33:57] <Tobbi> mt: Oh, also, only class methods can be const...
 [2016/02/12 09:34:03] <Tobbi> If you have namespace methods, they can't be const.
 [2016/02/12 09:34:09] <Tobbi> Actually, that's self-explanatory.
+[2016/02/12 09:35:15] <mt> so, namespaces serve no other purpose than code readability?
+[2016/02/12 09:35:59] <Tobbi> mt: I *believe* namespace methods are more general convenience methods... since they're only declared once, and are not specific to the object.
+[2016/02/12 09:36:06] <Tobbi> leyyin: Correct? not correct?
+[2016/02/12 09:36:41] <mt> yeah well namespaces have nothing to write into, like class methods have _this, right?
+[2016/02/12 09:37:03] <Tobbi> mt: Well, I think you can declare namespace variables, if I am not mistaken?
+[2016/02/12 09:37:03] <leyyin> namespaces have not other purpose than code maintainability
+[2016/02/12 09:37:07] <Tobbi> Okay, good.
+[2016/02/12 09:37:20] <mt> okay, so what I assumed
+[2016/02/12 09:37:25] <leyyin> Tobbi::print and leyyin::print
+[2016/02/12 09:37:28] <leyyin> my print is better :P
+[2016/02/12 09:37:43] <Tobbi> leyyin: But, still, if I create an instance of an object it also creates an instance of all the methods, right?
+[2016/02/12 09:37:57] <leyyin> huh?
+[2016/02/12 09:38:08] <leyyin> instance of all the methods?
+[2016/02/12 09:38:12] <leyyin> what is that
+[2016/02/12 09:38:25] <Tobbi> leyyin: You know, if I say "auto i = new Tobbi();" and class Tobbi has method "print"...
+[2016/02/12 09:38:58] <leyyin> you have a new object, you can call any methods of that class
+[2016/02/12 09:39:06] <leyyin> I do not understand your question
+[2016/02/12 09:39:33] <Tobbi> leyyin: When I instantiate a new class, it allocates memory, right?
+[2016/02/12 09:39:44] <Tobbi> And it allocates memory for the method code and for all the properties...
+[2016/02/12 09:39:45] <leyyin> depends if on the heap or the stack
+[2016/02/12 09:39:54] <Tobbi> Hrm, right.
