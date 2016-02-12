@@ -5429,3 +5429,4 @@
 [2016/02/12 18:09:11] @ Quit: tux|dude: Ping timeout: 276 seconds
 [2016/02/12 18:10:45] @ Quit: Karkus: Remote host closed the connection
 [2016/02/12 18:23:42] @ swift110 joined channel #supertux
+[2016/02/12 18:44:39] @ Quit: tuxdude143: Quit: Leaving
