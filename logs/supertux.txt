@@ -5232,3 +5232,10 @@
 [2016/02/12 08:59:42] <Tobbi> sydney_u1tangle: You can fix my life.
 [2016/02/12 08:59:56] <sydney_u1tangle> yay...
 [2016/02/12 09:00:01] <Tobbi> hah
+[2016/02/12 09:15:58] <mt> sydney_u1tangle: I guess this is not the right channel for that question
+[2016/02/12 09:16:33] <mt> try searching for a better channel with /msg alis help list
+[2016/02/12 09:17:42] <mt> (already tried http://www.lwks.com/? looks cool)
+[2016/02/12 09:19:08] <Tobbi> mt: I guess this is not the right channel for that question
+[2016/02/12 09:19:17] <Tobbi> try searching for a better channel with /msg alis help list
+[2016/02/12 09:19:18] <Tobbi> hah
+[2016/02/12 09:19:46] <Tobbi> Sorry, I just couldn't resist there.
