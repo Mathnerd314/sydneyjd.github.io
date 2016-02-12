@@ -5424,3 +5424,4 @@
 [2016/02/12 17:49:57] @ Quit: leper`: Quit: ZNC - http://znc.in
 [2016/02/12 17:56:53] @ Karkus joined channel #supertux
 [2016/02/12 17:56:53] @ Mode +v Karkus by ChanServ
+[2016/02/12 18:04:23] @ tux|dude joined channel #supertux
