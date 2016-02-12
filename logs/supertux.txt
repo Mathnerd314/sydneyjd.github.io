@@ -5390,3 +5390,4 @@
 [2016/02/12 13:06:14] @ Quit: grumbel_: Quit: Leaving
 [2016/02/12 13:09:27] @ Karkus joined channel #supertux
 [2016/02/12 13:09:27] @ Mode +v Karkus by ChanServ
+[2016/02/12 13:10:37] @ Quit: Tobbi: Remote host closed the connection
