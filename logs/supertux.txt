@@ -5668,3 +5668,4 @@
 [2016/02/13 10:20:16] <pentagon> [10supertux] 07tobbi opened pull request 09#365: WIP (DON'T MERGE YET): Display localized name instead of English translation 13https://git.io/vgD6p
 [2016/02/13 10:20:22] <Tobbi> There we go.
 [2016/02/13 10:26:32] @ tuxdev_ joined channel #supertux
+[2016/02/13 10:33:14] <pentagon> [10supertux] Status for commit WIP: Display localized name instead of English translation by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/109015035
