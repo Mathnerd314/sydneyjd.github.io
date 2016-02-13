@@ -5443,3 +5443,4 @@
 [2016/02/13 01:35:36] @ tux|dude joined channel #supertux
 [2016/02/13 01:59:14] @ Mathnerd314 joined channel #supertux
 [2016/02/13 01:59:14] @ Mode +v Mathnerd314 by ChanServ
+[2016/02/13 02:21:46] @ Quit: Mathnerd314: Ping timeout: 240 seconds
