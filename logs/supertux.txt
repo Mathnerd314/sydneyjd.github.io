@@ -5669,3 +5669,9 @@
 [2016/02/13 10:20:22] <Tobbi> There we go.
 [2016/02/13 10:26:32] @ tuxdev_ joined channel #supertux
 [2016/02/13 10:33:14] <pentagon> [10supertux] Status for commit WIP: Display localized name instead of English translation by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/109015035
+[2016/02/13 10:36:32] @ Quit: claymore2: Quit: Leaving
+[2016/02/13 10:37:48] <pentagon> [10supertux] 07Hume2 labeled pull request 09#365: WIP (DON'T MERGE YET): Display localized name instead of English translation 13https://git.io/vgD6p
+[2016/02/13 10:37:54] <pentagon> [10supertux] 07Hume2 labeled pull request 09#365: WIP (DON'T MERGE YET): Display localized name instead of English translation 13https://git.io/vgD6p
+[2016/02/13 10:39:21] <Hume2> Tobbi: You know, I'm not a good painter, so this should be more likely a possible future task.
+[2016/02/13 10:39:33] <Tobbi> Hume2: no problem.
+[2016/02/13 10:39:35] <mt> Ask grumbel for graphics
