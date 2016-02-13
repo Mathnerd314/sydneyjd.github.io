@@ -5571,3 +5571,4 @@
 [2016/02/13 09:18:53] <Tobbi> But the name of the country in brackets.
 [2016/02/13 09:19:04] <Hume2> (Česká Republika)
 [2016/02/13 09:19:07] <Tobbi> ok
+[2016/02/13 09:22:45] <pentagon> [10supertux] Status for commit Colored level titles in worldmaps by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/109005265
