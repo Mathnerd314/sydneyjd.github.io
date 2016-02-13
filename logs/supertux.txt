@@ -5634,3 +5634,17 @@
 [2016/02/13 09:34:44] <mt> and MODEs are something different than ChanServ flags
 [2016/02/13 09:34:49] <Tobbi> Okay...
 [2016/02/13 09:35:00] <mt> Hume2: is 15:34:23 <pentagon> [supertux] Hume2 79e9556 Rebased onto master, fixing conflicts in spotlight.cpp the last commit?
+[2016/02/13 09:35:24] <Hume2> mt: It didn't built without it.
+[2016/02/13 09:35:38] <Hume2> Shall I build after each conflict fix?
+[2016/02/13 09:35:41] <mt> I asked if that was the last commit in that push
+[2016/02/13 09:35:53] <Hume2> Yes, it was.
+[2016/02/13 09:36:02] @ Mode -qo *!*@unaffiliated/supermat/bot/netbot mt by mt
+[2016/02/13 09:37:35] <Tobbi> Hume2: https://github.com/SuperTux/tinygettext/pull/3/files
+[2016/02/13 09:37:38] <Tobbi> This is what I'm attempting.
+[2016/02/13 09:37:49] <Tobbi> Or mt as well. ^^
+[2016/02/13 09:38:41] <mt> now, what's the correct spelling: https://github.com/SuperTux/tinygettext/pull/3/files#diff-57795d1e0c19cf1fa874baebcff1ef52R136
+[2016/02/13 09:38:45] <mt> and the line below
+[2016/02/13 09:39:08] <pentagon> [10supertux] Status for commit Colored level titles in worldmaps by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/382
+[2016/02/13 09:39:10] <Tobbi> mt: I don't know. But I am not responsible for that.
+[2016/02/13 09:39:41] <Tobbi> Maybe this could help: http://www.omniglot.com/language/names.htm
+[2016/02/13 09:39:58] <mt> for French: "Français"
