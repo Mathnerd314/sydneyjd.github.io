@@ -5675,3 +5675,6 @@
 [2016/02/13 10:39:21] <Hume2> Tobbi: You know, I'm not a good painter, so this should be more likely a possible future task.
 [2016/02/13 10:39:33] <Tobbi> Hume2: no problem.
 [2016/02/13 10:39:35] <mt> Ask grumbel for graphics
+[2016/02/13 10:40:01] <mt> He once said graphics would be the smallest problem if we needed some
+[2016/02/13 10:40:51] <Hume2> Maybe he could redo the forest jumpy sprite.
+[2016/02/13 10:41:11] <Tobbi> mt: Walter Ulbricht once said "Niemand hat die Absicht, eine Mauer zu errichten"
