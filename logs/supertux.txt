@@ -5558,3 +5558,4 @@
 [2016/02/13 08:49:39] <Hume2> and 2015.
 [2016/02/13 08:50:16] <Hume2> I'm not even speaking about commits, I'm speaking about any feedback.
 [2016/02/13 08:51:04] <Tobbi> Yup.
+[2016/02/13 09:08:42] <pentagon> [10supertux] 07Hume2 synchronized pull request 09#331: Colored level titles in worldmaps 13https://git.io/vgDVY
