@@ -5534,3 +5534,17 @@
 [2016/02/13 08:37:57] <Hume2> I was just about to ask the others.
 [2016/02/13 08:38:24] <mt> from what I can see on the added/changed files of the pull request, I have the same opinion as Tobbi
 [2016/02/13 08:39:08] <Hume2> Thanks, mt.
+[2016/02/13 08:40:19] @ lumidify joined channel #supertux
+[2016/02/13 08:40:19] @ Quit: lumidify: Changing host
+[2016/02/13 08:40:19] @ lumidify joined channel #supertux
+[2016/02/13 08:40:46] <mt> I wonder why the old developer team doesn't comment on any issues :/
+[2016/02/13 08:41:07] <mt> Those that are in the organization are subscribed to all the issues and pull requests
+[2016/02/13 08:41:41] <Hume2> I'd say that they have no time.
+[2016/02/13 08:41:50] <Hume2> That is acceptable.
+[2016/02/13 08:42:05] <mt> Sure
+[2016/02/13 08:42:16] <Hume2> However, it's strange that we don't have any feedback from them.
+[2016/02/13 08:42:48] <Hume2> At least some: "Hello, nice job" or whatever.
+[2016/02/13 08:43:34] <Hume2> It seems like they have forgotten that any SuperTux exists.
+[2016/02/13 08:44:37] <Tobbi> mt: I wonder whether they really care.
+[2016/02/13 08:44:49] <mt> maybe you have better things to do when you work at large tech companies or research in "Vehicular networking"
+[2016/02/13 08:44:51] <Tobbi> I mean: If I participated in a game 10 years ago...
