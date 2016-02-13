@@ -5437,3 +5437,4 @@
 [2016/02/12 22:28:45] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2016/02/12 23:28:06] @ stewboy joined channel #supertux
 [2016/02/12 23:38:16] @ Quit: irungentoo: Remote host closed the connection
+[2016/02/13 00:44:33] @ tuxdev_ joined channel #supertux
