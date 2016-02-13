@@ -5712,3 +5712,5 @@
 [2016/02/13 13:05:31] @ lumidify1 joined channel #supertux
 [2016/02/13 13:05:37] @ Quit: lumidify: Read error: Connection reset by peer
 [2016/02/13 13:06:07] @ lumidify1 is now known as lumidify
+[2016/02/13 13:10:30] @ Quit: lumidify: Ping timeout: 256 seconds
+[2016/02/13 13:12:22] @ lumidify joined channel #supertux
