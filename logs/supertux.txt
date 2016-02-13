@@ -5474,3 +5474,5 @@
 [2016/02/13 05:10:29] @ claymore2 joined channel #supertux
 [2016/02/13 05:26:06] @ Quit: lumidify: Ping timeout: 240 seconds
 [2016/02/13 06:46:05] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- Would you like to know more?
+[2016/02/13 06:58:54] @ Tobbi joined channel #supertux
+[2016/02/13 06:58:54] @ Mode +v Tobbi by ChanServ
