@@ -5559,3 +5559,15 @@
 [2016/02/13 08:50:16] <Hume2> I'm not even speaking about commits, I'm speaking about any feedback.
 [2016/02/13 08:51:04] <Tobbi> Yup.
 [2016/02/13 09:08:42] <pentagon> [10supertux] 07Hume2 synchronized pull request 09#331: Colored level titles in worldmaps 13https://git.io/vgDVY
+[2016/02/13 09:16:11] <Tobbi> Hume2: What is "Czech (Czech Republic)" in Czech?
+[2016/02/13 09:17:16] <Hume2> Tobbi: Do you mean the name of the language or the name of the country?
+[2016/02/13 09:17:30] <Tobbi> Hume2: The literal translation for the above string.
+[2016/02/13 09:17:37] <Hume2> It depends.
+[2016/02/13 09:17:45] <Tobbi> Hume2: I am working on adding name_localized to tinygettext.
+[2016/02/13 09:17:58] <Hume2> So it's the name of the language.
+[2016/02/13 09:18:02] <Hume2> right?
+[2016/02/13 09:18:44] <Tobbi> Hume2: Yes.
+[2016/02/13 09:18:50] <Hume2> Then it's: Čeština
+[2016/02/13 09:18:53] <Tobbi> But the name of the country in brackets.
+[2016/02/13 09:19:04] <Hume2> (Česká Republika)
+[2016/02/13 09:19:07] <Tobbi> ok
