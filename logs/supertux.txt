@@ -5488,3 +5488,4 @@
 [2016/02/13 07:13:38] <Hume2> You know, you didn't noticed that jumpies and spikys are made of snow.
 [2016/02/13 07:13:54] <Tobbi> Hume2: That's because they are wearing something.
 [2016/02/13 07:13:57] <Tobbi> In any case...
+[2016/02/13 07:24:16] @ Quit: Tobbi: Remote host closed the connection
