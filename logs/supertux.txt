@@ -5648,3 +5648,8 @@
 [2016/02/13 09:39:10] <Tobbi> mt: I don't know. But I am not responsible for that.
 [2016/02/13 09:39:41] <Tobbi> Maybe this could help: http://www.omniglot.com/language/names.htm
 [2016/02/13 09:39:58] <mt> for French: "Français"
+[2016/02/13 09:41:20] <mt> _CA "(Canada)" _CH "(Suisse)" _FR "(France)" _LU "(Luxembourg)"
+[2016/02/13 09:41:50] <Tobbi> Okay...
+[2016/02/13 09:43:05] <mt> "Estonian (Ethopia)" what? ...
+[2016/02/13 09:43:10] <Tobbi> :D
+[2016/02/13 09:44:08] <pentagon> [10supertux] Status for commit Rebased onto master, fixing conflicts in spotlight.cpp by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/109007910
