@@ -5452,3 +5452,4 @@
 [2016/02/13 03:34:44] @ Quit: tuxdev_: Ping timeout: 248 seconds
 [2016/02/13 03:42:14] @ claymore2 joined channel #supertux
 [2016/02/13 03:49:27] @ leyyin joined channel #supertux
+[2016/02/13 03:59:59] @ lumidify joined channel #supertux
