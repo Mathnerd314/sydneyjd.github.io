@@ -5707,3 +5707,4 @@
 [2016/02/13 11:30:23] <mt> please, [ci skip] into the commit message's body, not header (https://github.com/SuperTux/supertux/blob/master/CONTRIBUTING.md#pull-requests)
 [2016/02/13 11:34:31] <Tobbi> mt: fine.
 [2016/02/13 11:52:05] @ Quit: Tobbi: 
+[2016/02/13 12:39:20] @ Quit: lumidify: Ping timeout: 250 seconds
