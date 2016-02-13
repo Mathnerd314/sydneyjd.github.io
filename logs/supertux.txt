@@ -5471,3 +5471,4 @@
 [2016/02/13 04:54:51] <snadge> ended up just using finish()
 [2016/02/13 04:56:50] @ Quit: VargaD: Ping timeout: 260 seconds
 [2016/02/13 05:00:23] @ VargaD joined channel #supertux
+[2016/02/13 05:10:29] @ claymore2 joined channel #supertux
