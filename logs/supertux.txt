@@ -5463,3 +5463,7 @@
 [2016/02/13 04:31:59] @ Mode +v Mathnerd314 by ChanServ
 [2016/02/13 04:34:44] <snadge> https://github.com/SuperTux/translations/blob/master/narre-land.pot
 [2016/02/13 04:34:49] <snadge> the only reference i've really fond to it
+[2016/02/13 04:36:08] <Hume2> Yeah, this level.
+[2016/02/13 04:37:04] @ Quit: claymore2: Quit: Leaving
+[2016/02/13 04:37:05] <Hume2> I cheated that.
+[2016/02/13 04:37:48] <Hume2> Narre doesn't want to update his addon anymore, so deal with that somehow.
