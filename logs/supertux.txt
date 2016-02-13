@@ -5493,3 +5493,4 @@
 [2016/02/13 07:43:35] @ Karkus joined channel #supertux
 [2016/02/13 07:43:35] @ Mode +v Karkus by ChanServ
 [2016/02/13 07:43:38] @ Quit: Karkus: Remote host closed the connection
+[2016/02/13 07:50:54] <pentagon> [10supertux] 07Hume2 opened pull request 09#364: New badguy: leafshot 13https://git.io/vgDug
