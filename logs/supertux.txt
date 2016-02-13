@@ -5476,3 +5476,9 @@
 [2016/02/13 06:46:05] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- Would you like to know more?
 [2016/02/13 06:58:54] @ Tobbi joined channel #supertux
 [2016/02/13 06:58:54] @ Mode +v Tobbi by ChanServ
+[2016/02/13 07:06:11] <leyyin> right
+[2016/02/13 07:06:33] <Tobbi> indeed.
+[2016/02/13 07:06:41] <Tobbi> I have no idea what you guys are talking about, anyway.
+[2016/02/13 07:07:33] <leyyin> :( http://www.theguardian.com/world/2016/feb/13/150000-penguins-killed-after-giant-iceberg-renders-colony-landlocked
+[2016/02/13 07:08:04] <leyyin> no, tuxxxxx
+[2016/02/13 07:08:54] <Tobbi> hrm.
