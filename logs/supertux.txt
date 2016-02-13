@@ -5457,3 +5457,9 @@
 [2016/02/13 04:03:37] @ brmbrmcar joined channel #supertux
 [2016/02/13 04:08:22] @ Hume2 joined channel #supertux
 [2016/02/13 04:08:23] @ Mode +v Hume2 by ChanServ
+[2016/02/13 04:30:29] <snadge> how do you finish above the jungle in narre land :p
+[2016/02/13 04:31:50] <mt> ask Narre, nobody else knows (probably)
+[2016/02/13 04:31:59] @ Mathnerd314 joined channel #supertux
+[2016/02/13 04:31:59] @ Mode +v Mathnerd314 by ChanServ
+[2016/02/13 04:34:44] <snadge> https://github.com/SuperTux/translations/blob/master/narre-land.pot
+[2016/02/13 04:34:49] <snadge> the only reference i've really fond to it
