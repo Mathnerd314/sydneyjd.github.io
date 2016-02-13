@@ -5680,3 +5680,19 @@
 [2016/02/13 10:41:11] <Tobbi> mt: Walter Ulbricht once said "Niemand hat die Absicht, eine Mauer zu errichten"
 [2016/02/13 10:46:43] <pentagon> [10supertux] Status for commit Rebased onto master, fixing conflicts in spotlight.cpp by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/384
 [2016/02/13 10:47:27] <Tobbi> Works well...
+[2016/02/13 11:01:42] <Tobbi> mt: I've been thinking: We should add "Improve localization system" to GSoC ideas, I think. Thing is: It'd be great if it could auto-create langpacks in defined intervals by pulling from transifex.
+[2016/02/13 11:02:03] <mt> Needs infrastructure
+[2016/02/13 11:02:08] <mt> (well, web thing does too)
+[2016/02/13 11:02:43] <mt> could Travis pull from Transifex?
+[2016/02/13 11:02:54] <Tobbi> I am not sure.
+[2016/02/13 11:03:04] <Tobbi> Could be.
+[2016/02/13 11:03:07] <mt> like, let's say we have a branch deploy/langpacks
+[2016/02/13 11:03:12] <mt> when you push to that
+[2016/02/13 11:03:19] <mt> (latest master)
+[2016/02/13 11:03:43] <mt> it pulls Transifex translations, packages them and uploads them to someplace
+[2016/02/13 11:03:51] <mt> e.g. download.supertuxproject.org
+[2016/02/13 11:04:08] <mt> or, for the web app project
+[2016/02/13 11:04:14] <mt> there could be a simple button
+[2016/02/13 11:04:19] <mt> 'rebuild language pack'
+[2016/02/13 11:04:35] <Tobbi> mt: And then we could also have rebuild translation template.
+[2016/02/13 11:04:51] <mt> feel free to add it as a separate idea; however I think that's not enough work for the students
