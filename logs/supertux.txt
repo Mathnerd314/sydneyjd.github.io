@@ -5653,3 +5653,8 @@
 [2016/02/13 09:43:05] <mt> "Estonian (Ethopia)" what? ...
 [2016/02/13 09:43:10] <Tobbi> :D
 [2016/02/13 09:44:08] <pentagon> [10supertux] Status for commit Rebased onto master, fixing conflicts in spotlight.cpp by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/109007910
+[2016/02/13 09:47:21] <Tobbi> mt: Problem is that some of the languages are just...bad...the glyphs won't display in ST.
+[2016/02/13 09:47:29] <Tobbi> Unless we get that TTF support working.
+[2016/02/13 09:48:03] <Hume2> Indeed.
+[2016/02/13 09:48:48] <mt> Next Language: "Emoji"
+[2016/02/13 09:49:55] <Tobbi> :D
