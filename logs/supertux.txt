@@ -5502,3 +5502,16 @@
 [2016/02/13 08:04:31] <Tobbi> While we're at correcting people. :P
 [2016/02/13 08:05:33] <Tobbi> But nice badguy, Hume2.
 [2016/02/13 08:06:11] @ claymore2 joined channel #supertux
+[2016/02/13 08:15:25] <mt> oh right
+[2016/02/13 08:15:47] <mt> I think we may be able to get supertux/ cloaks before freenode's group management system
+[2016/02/13 08:16:21] <mt> Depends if we're actually already a group
+[2016/02/13 08:16:33] <mt> If so, most likely giby has to ask a staffer
+[2016/02/13 08:17:22] <Tobbi> *sigh*
+[2016/02/13 08:17:29] <Tobbi> mt: But don't we all have founder status?
+[2016/02/13 08:17:34] <Tobbi> Or don't I?
+[2016/02/13 08:17:35] <mt> no, we don't have +F
+[2016/02/13 08:17:37] <Tobbi> ok
+[2016/02/13 08:17:49] <mt> and if so, we'd not be group contacts automatically
+[2016/02/13 08:17:57] <mt> however, what we could do is
+[2016/02/13 08:18:18] <mt> say that one of us would like to get founder status
+[2016/02/13 08:18:34] <mt> because we haven't seen giby in a very long time ;)
