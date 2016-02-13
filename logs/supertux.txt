@@ -5469,3 +5469,4 @@
 [2016/02/13 04:37:48] <Hume2> Narre doesn't want to update his addon anymore, so deal with that somehow.
 [2016/02/13 04:43:00] @ Quit: tux|dude: Quit: Leaving
 [2016/02/13 04:54:51] <snadge> ended up just using finish()
+[2016/02/13 04:56:50] @ Quit: VargaD: Ping timeout: 260 seconds
