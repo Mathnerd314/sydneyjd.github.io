@@ -5450,3 +5450,4 @@
 [2016/02/13 03:17:34] @ Mode +v red_bot by ChanServ
 [2016/02/13 03:17:36] @ Mode +Cntzj 5:10 by leguin.freenode.net
 [2016/02/13 03:34:44] @ Quit: tuxdev_: Ping timeout: 248 seconds
+[2016/02/13 03:42:14] @ claymore2 joined channel #supertux
