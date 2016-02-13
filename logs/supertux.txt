@@ -5528,3 +5528,9 @@
 [2016/02/13 08:32:38] <Tobbi> sure.
 [2016/02/13 08:32:39] <Tobbi> No problem.
 [2016/02/13 08:33:08] <mt> can we trash ./configure?
+[2016/02/13 08:37:09] <Hume2> Tobbi: OK, thanks for your opinion.
+[2016/02/13 08:37:29] <Tobbi> Hume2: Huh? Since when are you so nice? :P
+[2016/02/13 08:37:39] <Tobbi> Hume2: Remember: My opinion doesn't count anything.
+[2016/02/13 08:37:57] <Hume2> I was just about to ask the others.
+[2016/02/13 08:38:24] <mt> from what I can see on the added/changed files of the pull request, I have the same opinion as Tobbi
+[2016/02/13 08:39:08] <Hume2> Thanks, mt.
