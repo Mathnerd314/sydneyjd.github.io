@@ -5495,3 +5495,8 @@
 [2016/02/13 07:43:38] @ Quit: Karkus: Remote host closed the connection
 [2016/02/13 07:50:54] <pentagon> [10supertux] 07Hume2 opened pull request 09#364: New badguy: leafshot 13https://git.io/vgDug
 [2016/02/13 07:55:53] <mt> Hume2: feel free to have development branches in SuperTux/supertux - oh right, pentagon might spam if it's too much commits?
+[2016/02/13 08:02:15] @ Tobbi joined channel #supertux
+[2016/02/13 08:02:15] @ Mode +v Tobbi by ChanServ
+[2016/02/13 08:04:06] <pentagon> [10supertux] Status for commit New badguy: leafshot by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/108996083
+[2016/02/13 08:04:12] <Tobbi> mt: s/much/many :P
+[2016/02/13 08:04:31] <Tobbi> While we're at correcting people. :P
