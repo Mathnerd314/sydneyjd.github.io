@@ -5728,3 +5728,4 @@
 [2016/02/13 17:01:56] @ Quit: claymore2: Quit: Leaving
 [2016/02/13 17:19:53] @ tux|dude joined channel #supertux
 [2016/02/13 17:39:08] @ Quit: stewboy: Ping timeout: 272 seconds
+[2016/02/13 18:37:28] @ stewboy joined channel #supertux
