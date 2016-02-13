@@ -5523,3 +5523,8 @@
 [2016/02/13 08:27:18] <mt> yeah
 [2016/02/13 08:27:41] <Tobbi> mt: Is that something you can fix?
 [2016/02/13 08:29:58] <mt> probably
+[2016/02/13 08:30:10] <mt> but I'd like to test it and not rely on AppVeyor
+[2016/02/13 08:30:14] <mt> takes too much time
+[2016/02/13 08:32:38] <Tobbi> sure.
+[2016/02/13 08:32:39] <Tobbi> No problem.
+[2016/02/13 08:33:08] <mt> can we trash ./configure?
