@@ -5556,3 +5556,5 @@
 [2016/02/13 08:48:15] <Tobbi> probably...
 [2016/02/13 08:49:34] <Hume2> It looks like WolfgangB hasn't forgotten, he even commited 8 times between 2013
 [2016/02/13 08:49:39] <Hume2> and 2015.
+[2016/02/13 08:50:16] <Hume2> I'm not even speaking about commits, I'm speaking about any feedback.
+[2016/02/13 08:51:04] <Tobbi> Yup.
