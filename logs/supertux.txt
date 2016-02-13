@@ -5572,3 +5572,65 @@
 [2016/02/13 09:19:04] <Hume2> (Česká Republika)
 [2016/02/13 09:19:07] <Tobbi> ok
 [2016/02/13 09:22:45] <pentagon> [10supertux] Status for commit Colored level titles in worldmaps by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/109005265
+[2016/02/13 09:30:13] <pentagon> [10supertux] 07Hume2 synchronized pull request 09#269: WIP Level Editor 13https://git.io/vEe13
+[2016/02/13 09:30:14] <pentagon> [10supertux] 07Hume2 04force-pushed 84 commits to 09editor 13https://git.io/vgDwt
+[2016/02/13 09:30:22] <pentagon> [10supertux] 07Hume2 143fcc4e1 Save level method
+[2016/02/13 09:30:26] <pentagon> [10supertux] 07Hume2 1468aa14e Editor select level menu
+[2016/02/13 09:30:29] <pentagon> [10supertux] 07Hume2 1478b9111 Level editor can load a level.
+[2016/02/13 09:30:32] <pentagon> [10supertux] 07Hume2 149299d26 Added editor level scrolling by arrow keys.
+[2016/02/13 09:30:35] <pentagon> [10supertux] 07Hume2 14f1fc6fe Fixed bug causing crash when choosing level/sets by arrows.
+[2016/02/13 09:30:38] <pentagon> [10supertux] 07Hume2 1426db994 Added editor menu (press Esc in editor)
+[2016/02/13 09:30:41] <pentagon> [10supertux] 07Hume2 140a44227 Cursor is now visible in the editor.
+[2016/02/13 09:30:43] <pentagon> [10supertux] 07Hume2 1431e7587 Editor now displays tilegroups.
+[2016/02/13 09:30:46] <pentagon> [10supertux] 07Hume2 14b2fff52 Added scrolling tilegroups
+[2016/02/13 09:30:49] <pentagon> [10supertux] 07Hume2 14103a700 Editor shows editor-images (not in tilemap, bug?)
+[2016/02/13 09:30:52] <pentagon> [10supertux] 07Hume2 1455c69bb Objects now render correctly.
+[2016/02/13 09:30:55] <pentagon> [10supertux] 07Hume2 1472f9d8d Added objects menu
+[2016/02/13 09:30:58] <pentagon> [10supertux] 07Hume2 1492fda2c Bonus blocks now render correctly.
+[2016/02/13 09:31:01] <pentagon> [10supertux] 07Hume2 1449a55ad Added menu to change current sector.
+[2016/02/13 09:31:04] <pentagon> [10supertux] 07Hume2 144fab6ca Layer objects now display in the bottom toolbar.
+[2016/02/13 09:31:07] <pentagon> [10supertux] 07Hume2 14c5721af Fixed scrren resizing bug.
+[2016/02/13 09:31:10] <pentagon> [10supertux] 07Hume2 14407ba6d Dynamic tiles no longer create objects; turning the bonusblock sprite to its previous state.
+[2016/02/13 09:31:13] <pentagon> [10supertux] 07Hume2 14aba1550 Various fixes
+[2016/02/13 09:31:15] <pentagon> [10supertux] 07Hume2 148bd4912 Object system init moved to separate file.
+[2016/02/13 09:31:18] <pentagon> [10supertux] 07Hume2 143b15810 Fixed particle system displaying
+[2016/02/13 09:31:21] <pentagon> [10supertux] 07Hume2 14d041f8b Tyding up
+[2016/02/13 09:31:24] <pentagon> [10supertux] 07Hume2 14714fdf6 Added tilemap switching
+[2016/02/13 09:31:27] <pentagon> [10supertux] 07Hume2 14f8ed3dc Still no input... Tiles now display on the position they are going to be put.
+[2016/02/13 09:31:30] <pentagon> [10supertux] 07Hume2 144dbc997 Changed "}else{" to "} else {"
+[2016/02/13 09:31:33] <pentagon> [10supertux] 07Hume2 14af4bead Added the ability to parse objects and tiles
+[2016/02/13 09:31:36] <pentagon> [10supertux] 07Hume2 14fd47345 Dragging support
+[2016/02/13 09:31:38] <pentagon> [10supertux] 07Hume2 14558b44d Added tools (Only tile-rubber works)
+[2016/02/13 09:31:41] <pentagon> [10supertux] 07Hume2 14c5b6380 Rectangle and fill mode
+[2016/02/13 09:31:44] <pentagon> [10supertux] 07Hume2 1474968db Rubber works for objects.
+[2016/02/13 09:31:44] <Hume2> I can't mute it.
+[2016/02/13 09:31:47] <pentagon> [10supertux] 07Hume2 148585bb0 Objects can be moved.
+[2016/02/13 09:31:50] <pentagon> [10supertux] 07Hume2 1409fb4a2 No more collisions in editor
+[2016/02/13 09:31:53] <pentagon> [10supertux] 07Hume2 14db94a94 Added object tips
+[2016/02/13 09:31:55] <pentagon> [10supertux] 07Hume2 14fa409c5 Added tips for badguys.
+[2016/02/13 09:31:56] <Hume2> is it correct? /msg ChanServ flags #supertux pentagon +q
+[2016/02/13 09:31:58] <pentagon> [10supertux] 07Hume2 14bf60c00 Objects (not triggers) are now known objects
+[2016/02/13 09:32:01] <pentagon> [10supertux] 07Hume2 14b0b5a71 get_class method for saving is now const
+[2016/02/13 09:32:04] <pentagon> [10supertux] 07Hume2 1465ff863 Layer gui now uses dynamic_cast instead of get_class
+[2016/02/13 09:32:07] <pentagon> [10supertux] 07Hume2 14bf66f20 Updated scrolling
+[2016/02/13 09:32:10] <pentagon> [10supertux] 07Hume2 143d92a17 Updated moving mechanism
+[2016/02/13 09:32:11] <Hume2> Apparently not.
+[2016/02/13 09:32:14] <pentagon> [10supertux] 07Hume2 143830eb2 Reimplemented textfield
+[2016/02/13 09:32:15] <pentagon> [10supertux] 07Hume2 1477de5a0 Wind is no longer called Scripted Object.
+[2016/02/13 09:32:18] <pentagon> [10supertux] 07Hume2 14da8d234 Reimplemented int field
+[2016/02/13 09:32:22] <pentagon> [10supertux] 07Hume2 14a756dd0 Menu can be no longer escaped by pressing 'P'
+[2016/02/13 09:32:24] <pentagon> [10supertux] 07Hume2 146ffa063 Reimplemented numfield item
+[2016/02/13 09:32:28] <pentagon> [10supertux] 07Hume2 14d6b35a5 Changed author successfully
+[2016/02/13 09:32:31] <pentagon> [10supertux] 07Hume2 148652d07 Added object menus (right click doesn't work)
+[2016/02/13 09:32:33] @ Mode +q *!*@unaffiliated/supermat/bot/netbot by ChanServ
+[2016/02/13 09:32:37] @ Mode +o mt by ChanServ
+[2016/02/13 09:32:55] <Hume2> For some reason I can't /msg ChanServ flags #supertux Hume2 +o
+[2016/02/13 09:33:11] <mt> Hume2: /msg ChanServ help quiet is what you'd want for pentagon
+[2016/02/13 09:33:24] <mt> Hume2: and to get ops, /msg ChanServ help op
+[2016/02/13 09:33:38] <Hume2> Thanks, mt.
+[2016/02/13 09:34:06] <mt> Hume2: /msg ChanServ help flags for what you tried - it's the permanently stored (as long as the channel is registered) ACL
+[2016/02/13 09:34:19] <mt> Hume2: flags can be set on NickServ accounts or on hostmasks
+[2016/02/13 09:34:28] <Hume2> Oh, got it.
+[2016/02/13 09:34:44] <mt> and MODEs are something different than ChanServ flags
+[2016/02/13 09:34:49] <Tobbi> Okay...
+[2016/02/13 09:35:00] <mt> Hume2: is 15:34:23 <pentagon> [supertux] Hume2 79e9556 Rebased onto master, fixing conflicts in spotlight.cpp the last commit?
