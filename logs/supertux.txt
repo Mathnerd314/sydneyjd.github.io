@@ -5434,3 +5434,4 @@
 [2016/02/12 21:20:17] @ nerdopolis__ joined channel #supertux
 [2016/02/12 21:20:22] @ Quit: nerdopolis: Ping timeout: 252 seconds
 [2016/02/12 22:20:08] @ Quit: tux|dude: Quit: Leaving
+[2016/02/12 22:28:45] @ Quit: bb010g: Quit: Connection closed for inactivity
