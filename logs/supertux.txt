@@ -5494,3 +5494,4 @@
 [2016/02/13 07:43:35] @ Mode +v Karkus by ChanServ
 [2016/02/13 07:43:38] @ Quit: Karkus: Remote host closed the connection
 [2016/02/13 07:50:54] <pentagon> [10supertux] 07Hume2 opened pull request 09#364: New badguy: leafshot 13https://git.io/vgDug
+[2016/02/13 07:55:53] <mt> Hume2: feel free to have development branches in SuperTux/supertux - oh right, pentagon might spam if it's too much commits?
