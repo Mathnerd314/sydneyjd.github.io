@@ -5548,3 +5548,11 @@
 [2016/02/13 08:44:37] <Tobbi> mt: I wonder whether they really care.
 [2016/02/13 08:44:49] <mt> maybe you have better things to do when you work at large tech companies or research in "Vehicular networking"
 [2016/02/13 08:44:51] <Tobbi> I mean: If I participated in a game 10 years ago...
+[2016/02/13 08:45:03] <Tobbi> I would probably not want to check up on that.
+[2016/02/13 08:45:23] <Tobbi> I'd say we're doing a great job.
+[2016/02/13 08:45:51] <mt> Tobbi: well, they didn't only "participate", they wrote a lot of the Milestone 2 codebase (which was, basically, rewritten)
+[2016/02/13 08:46:04] <Tobbi> mt: But still...long time ago.
+[2016/02/13 08:46:59] <Hume2> I know, but I'd then expect at least some minor feedback. This seems me like they have forgotten.
+[2016/02/13 08:48:15] <Tobbi> probably...
+[2016/02/13 08:49:34] <Hume2> It looks like WolfgangB hasn't forgotten, he even commited 8 times between 2013
+[2016/02/13 08:49:39] <Hume2> and 2015.
