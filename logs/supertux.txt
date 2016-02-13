@@ -5515,3 +5515,7 @@
 [2016/02/13 08:17:57] <mt> however, what we could do is
 [2016/02/13 08:18:18] <mt> say that one of us would like to get founder status
 [2016/02/13 08:18:34] <mt> because we haven't seen giby in a very long time ;)
+[2016/02/13 08:20:01] <Tobbi> ~seen giby
+[2016/02/13 08:20:01] <red_bot> Tobbi: giby was last seen 20 days, 14 hours, 46 minutes and 57 seconds ago, quitting IRC (Quit: Quitte)
+[2016/02/13 08:20:04] <Tobbi> yup.
+[2016/02/13 08:22:46] <pentagon> [10supertux] Status for commit New badguy: leafshot by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/381
