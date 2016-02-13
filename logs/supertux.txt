@@ -5500,3 +5500,5 @@
 [2016/02/13 08:04:06] <pentagon> [10supertux] Status for commit New badguy: leafshot by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/108996083
 [2016/02/13 08:04:12] <Tobbi> mt: s/much/many :P
 [2016/02/13 08:04:31] <Tobbi> While we're at correcting people. :P
+[2016/02/13 08:05:33] <Tobbi> But nice badguy, Hume2.
+[2016/02/13 08:06:11] @ claymore2 joined channel #supertux
