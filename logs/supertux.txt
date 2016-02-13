@@ -5431,3 +5431,5 @@
 [2016/02/12 18:23:42] @ swift110 joined channel #supertux
 [2016/02/12 18:44:39] @ Quit: tuxdude143: Quit: Leaving
 [2016/02/12 20:25:06] @ tux|dude joined channel #supertux
+[2016/02/12 21:20:17] @ nerdopolis__ joined channel #supertux
+[2016/02/12 21:20:22] @ Quit: nerdopolis: Ping timeout: 252 seconds
