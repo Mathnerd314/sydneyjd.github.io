@@ -5700,3 +5700,4 @@
 [2016/02/13 11:05:43] <Tobbi> No, it's fine. once the webapp is in place (in case it is) we can add it.
 [2016/02/13 11:07:12] @ Quit: lumidify: Ping timeout: 252 seconds
 [2016/02/13 11:09:34] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/02/13 11:12:05] @ lumidify joined channel #supertux
