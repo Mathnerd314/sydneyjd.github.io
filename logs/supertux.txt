@@ -5791,3 +5791,5 @@
 [2016/02/14 10:34:40] <Tobbi> You just shamed all us Germans.
 [2016/02/14 10:34:51] <Tobbi> *ashamed
 [2016/02/14 10:34:55] <Tobbi> or whatever.
+[2016/02/14 10:35:39] <Tobbi> Also -18 degrees Celsius.
+[2016/02/14 10:39:59] @ irungentoo joined channel #supertux
