@@ -6012,3 +6012,7 @@
 [2016/02/14 12:09:36] <Tobbi> You can safe the .supertux2 folder.
 [2016/02/14 12:09:39] <Tobbi> *save
 [2016/02/14 12:09:40] <Tobbi> damn this.
+[2016/02/14 12:10:29] <mt> Upgrading from 0.1.3 to 0.3+ will render the old savegames unusable, I think
+[2016/02/14 12:10:45] <mt> At least unless you move the old savegames to the new location
+[2016/02/14 12:11:09] <mt> [just so you know]
+[2016/02/14 12:11:52] <mt> And usually, package managers don't remove user configuration
