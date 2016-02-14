@@ -6027,3 +6027,6 @@
 [2016/02/14 13:08:19] @ Mode +v Hume2 by ChanServ
 [2016/02/14 13:08:32] <Hume2> Hello
 [2016/02/14 13:08:47] <Tobbi> hello Hume2.
+[2016/02/14 13:18:22] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/14 13:18:40] @ Hume2 joined channel #supertux
+[2016/02/14 13:18:40] @ Mode +v Hume2 by ChanServ
