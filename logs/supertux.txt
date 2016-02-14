@@ -5831,3 +5831,37 @@
 [2016/02/14 10:53:56] <Tobbi> leyyin: oh, 600 EUR / month is what an ex-fellow student got when he was still in collage.
 [2016/02/14 10:54:01] <Tobbi> *college
 [2016/02/14 10:54:06] <Tobbi> My spelling is deteriorating.
+[2016/02/14 11:00:02] <sydney_untangle> leyyin: Well, as a farm we handle nearly a half million gross, but make about $20,000 net... and the govornment wants to tax us on gross... not fun.
+[2016/02/14 11:00:20] <leyyin> huh?
+[2016/02/14 11:00:27] <leyyin> sydney_untangle, do you know that gross and net is?
+[2016/02/14 11:00:44] <leyyin> on is after taxes and one is before taxes
+[2016/02/14 11:00:47] <leyyin> *one
+[2016/02/14 11:00:52] <Tobbi> gross != synonym for goat.
+[2016/02/14 11:01:01] <Tobbi> although goats can be gross sometimes.
+[2016/02/14 11:01:01] * sydney_untangle blinks at Tobbi...
+[2016/02/14 11:01:06] <Tobbi> haha
+[2016/02/14 11:01:07] <Tobbi> sorry.
+[2016/02/14 11:01:22] <sydney_untangle> leyyin: to me gross is before payments and net is what we are left with...
+[2016/02/14 11:01:42] <leyyin> I do not think it is that way
+[2016/02/14 11:01:50] <Tobbi> sydney_untangle: Of course the government taxes you on gross, net is what you're left with after taxes have been deduced.
+[2016/02/14 11:02:01] <sydney_untangle> \o/ well, you get my point. ;0
+[2016/02/14 11:02:03] <sydney_untangle> )*
+[2016/02/14 11:02:16] <leyyin> sydney_untangle, Net (or Nett) refers to the amount left over after all deductions are made. Once the net value is attained, nothing further is subtracted. The net value is not allowed to be made lower.
+[2016/02/14 11:02:29] <sydney_untangle> leyyin: Precisely.
+[2016/02/14 11:02:53] <Tobbi> sydney_untangle: Your government deduces 480k from 500k?
+[2016/02/14 11:03:05] <Tobbi> I don't get it.
+[2016/02/14 11:03:06] <mt> sydney_untangle: the 0.5 M/20 K is per year or per month?
+[2016/02/14 11:03:08] <sydney_untangle> Tobbi: I'm sure they would like to. ;)
+[2016/02/14 11:03:19] <sydney_untangle> mt: Per year.
+[2016/02/14 11:03:30] <Tobbi> sydney_untangle: I don't get your point... You make half a million per year and are only left with 20k ?
+[2016/02/14 11:03:35] <leyyin> that kind of farmer will be a millionare here
+[2016/02/14 11:03:51] <sydney_untangle> I'm just saying that people seem to think that we float on a pool of cash, when actually most of it goes back into cows and maintainance.
+[2016/02/14 11:03:51] <Tobbi> But I guess not all of it is deductions...but also stuff like electricity etc.
+[2016/02/14 11:03:59] <Tobbi> *sigh*
+[2016/02/14 11:04:04] <Tobbi> Okay, now I get your point.
+[2016/02/14 11:04:25] <sydney_untangle> And there is *alot* of maintainance...
+[2016/02/14 11:04:33] <leyyin> robots
+[2016/02/14 11:04:37] <leyyin> problem solved
+[2016/02/14 11:04:39] <leyyin> THE FUTURE
+[2016/02/14 11:04:48] <sydney_untangle> leyyin: They still are not cost efficient.
+[2016/02/14 11:04:50] <Tobbi> leyyin: So, anyway, 2 people independently told me that they earn 3k gross...so it seems to be some standard for B. Sc. people.
