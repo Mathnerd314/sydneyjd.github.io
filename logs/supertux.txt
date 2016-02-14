@@ -5732,3 +5732,4 @@
 [2016/02/13 20:40:52] @ Quit: tuxdev_: Ping timeout: 248 seconds
 [2016/02/13 21:27:11] @ Wuzzy2 joined channel #supertux
 [2016/02/13 21:30:18] @ Quit: Wuzzy: Ping timeout: 256 seconds
+[2016/02/13 21:41:06] @ Quit: Wuzzy2: Quit: Wuzzy2
