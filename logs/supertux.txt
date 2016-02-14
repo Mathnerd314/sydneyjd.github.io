@@ -5774,3 +5774,4 @@
 [2016/02/14 10:18:50] <leyyin> gulag wants you Tobbi
 [2016/02/14 10:18:58] <Tobbi> gulasch wants me.
 [2016/02/14 10:19:38] @ Vorpal joined channel #supertux
+[2016/02/14 10:22:54] @ lumidify joined channel #supertux
