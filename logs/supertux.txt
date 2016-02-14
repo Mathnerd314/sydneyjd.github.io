@@ -5775,3 +5775,9 @@
 [2016/02/14 10:18:58] <Tobbi> gulasch wants me.
 [2016/02/14 10:19:38] @ Vorpal joined channel #supertux
 [2016/02/14 10:22:54] @ lumidify joined channel #supertux
+[2016/02/14 10:27:35] <Tobbi> leyyin: I am having a cold but figured sitting in front of my computer is better than being in bed.
+[2016/02/14 10:27:53] <leyyin> so no gulag :(
+[2016/02/14 10:28:03] <Tobbi> Nope, no gulasch.
+[2016/02/14 10:28:45] <Tobbi> leyyin: tbh, I suck at history...
+[2016/02/14 10:28:53] <Tobbi> I didn't know gulag until you mentioned it.
+[2016/02/14 10:29:58] @ tuxdev_ joined channel #supertux
