@@ -5740,3 +5740,4 @@
 [2016/02/14 01:45:46] @ lumidify joined channel #supertux
 [2016/02/14 01:52:18] @ brmbrmcar left channel #supertux ()
 [2016/02/14 02:38:12] @ Quit: lumidify: Ping timeout: 248 seconds
+[2016/02/14 02:52:40] @ Quit: Mathnerd314: Ping timeout: 272 seconds
