@@ -5781,3 +5781,13 @@
 [2016/02/14 10:28:45] <Tobbi> leyyin: tbh, I suck at history...
 [2016/02/14 10:28:53] <Tobbi> I didn't know gulag until you mentioned it.
 [2016/02/14 10:29:58] @ tuxdev_ joined channel #supertux
+[2016/02/14 10:31:21] <Tobbi> I sucked at everything in school.
+[2016/02/14 10:32:53] * sydney_untangle yawns...
+[2016/02/14 10:32:56] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/02/14 10:33:13] <sydney_untangle> Brr, what a cold morning. -1 ferenheight.
+[2016/02/14 10:33:24] <Tobbi> sydney_untangle: A ferry is normally much higher than -1
+[2016/02/14 10:33:33] <leyyin> yanks...
+[2016/02/14 10:33:50] <Tobbi> sydney_untangle: It's Fahrenheit. That guy was German...dammit.
+[2016/02/14 10:34:40] <Tobbi> You just shamed all us Germans.
+[2016/02/14 10:34:51] <Tobbi> *ashamed
+[2016/02/14 10:34:55] <Tobbi> or whatever.
