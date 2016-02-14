@@ -5735,3 +5735,6 @@
 [2016/02/13 21:41:06] @ Quit: Wuzzy2: Quit: Wuzzy2
 [2016/02/14 00:13:52] @ Quit: irungentoo: Remote host closed the connection
 [2016/02/14 00:51:31] @ tuxdev_ joined channel #supertux
+[2016/02/14 01:45:45] @ lumidify joined channel #supertux
+[2016/02/14 01:45:46] @ Quit: lumidify: Changing host
+[2016/02/14 01:45:46] @ lumidify joined channel #supertux
