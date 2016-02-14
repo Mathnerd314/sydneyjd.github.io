@@ -6000,3 +6000,9 @@
 [2016/02/14 11:43:56] <leyyin> yes
 [2016/02/14 11:44:15] <leyyin> and ISIS kid will chop your head off
 [2016/02/14 11:44:26] <Tobbi> hmm...
+[2016/02/14 11:45:03] <leyyin> if they grew in the slums with gangs
+[2016/02/14 11:45:15] <leyyin> they are higher prone to react violently
+[2016/02/14 11:46:19] <leyyin> if your enviromenet is violent, there is a high chance you will be too
+[2016/02/14 11:46:30] <leyyin> now I am an expert in sociology? Tobbi
+[2016/02/14 11:46:43] <sydney_untangle> datahead7777: You may want to try uninstalling all the versions of supertux that you have installed, then go to the supertux website and re-download the latest version.
+[2016/02/14 11:47:05] <Tobbi> leyyin: probably.
