@@ -6016,3 +6016,4 @@
 [2016/02/14 12:10:45] <mt> At least unless you move the old savegames to the new location
 [2016/02/14 12:11:09] <mt> [just so you know]
 [2016/02/14 12:11:52] <mt> And usually, package managers don't remove user configuration
+[2016/02/14 12:23:04] <datahead7777> So I'd need to backup the .supertux2 folder and then move over the saves games within it manually, afterwards
