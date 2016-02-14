@@ -6048,3 +6048,4 @@
 [2016/02/14 14:50:27] @ Quit: Hume2: Client Quit
 [2016/02/14 14:57:31] @ tux|dude joined channel #supertux
 [2016/02/14 15:02:37] @ claymore2 joined channel #supertux
+[2016/02/14 15:12:30] @ Quit: lumidify: Ping timeout: 260 seconds
