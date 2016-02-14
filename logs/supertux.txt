@@ -6021,3 +6021,9 @@
 [2016/02/14 12:29:53] <mt> I don't know what version you're using
 [2016/02/14 12:30:12] <mt> with 0.3+, it should be safe to leave the .supertux2 folder as-is
 [2016/02/14 12:59:43] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/14 13:07:03] @ Tobbi joined channel #supertux
+[2016/02/14 13:07:03] @ Mode +v Tobbi by ChanServ
+[2016/02/14 13:08:19] @ Hume2 joined channel #supertux
+[2016/02/14 13:08:19] @ Mode +v Hume2 by ChanServ
+[2016/02/14 13:08:32] <Hume2> Hello
+[2016/02/14 13:08:47] <Tobbi> hello Hume2.
