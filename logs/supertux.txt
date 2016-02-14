@@ -5744,3 +5744,5 @@
 [2016/02/14 03:27:18] @ Quit: tuxdev_: Ping timeout: 256 seconds
 [2016/02/14 04:01:36] @ Quit: tux|dude: Quit: Leaving
 [2016/02/14 04:43:37] @ leyyin joined channel #supertux
+[2016/02/14 04:50:09] @ Hume2 joined channel #supertux
+[2016/02/14 04:50:09] @ Mode +v Hume2 by ChanServ
