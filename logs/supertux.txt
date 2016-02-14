@@ -6049,3 +6049,6 @@
 [2016/02/14 14:57:31] @ tux|dude joined channel #supertux
 [2016/02/14 15:02:37] @ claymore2 joined channel #supertux
 [2016/02/14 15:12:30] @ Quit: lumidify: Ping timeout: 260 seconds
+[2016/02/14 15:17:39] @ lumidify joined channel #supertux
+[2016/02/14 15:17:39] @ Quit: lumidify: Changing host
+[2016/02/14 15:17:39] @ lumidify joined channel #supertux
