@@ -5973,3 +5973,18 @@
 [2016/02/14 11:23:44] <leyyin> sigh
 [2016/02/14 11:24:26] <leyyin> Tobbi, http://ci.memecdn.com/15/4948015.jpg
 [2016/02/14 11:24:29] <Tobbi> leyyin: That's my word.
+[2016/02/14 11:25:08] <sydney_untangle> sigh, thats is a very good word...
+[2016/02/14 11:25:19] <sydney_untangle> We sit here tearing eachother appart. ;)
+[2016/02/14 11:25:40] <leyyin> sydney_untangle, ever tasted east european food?
+[2016/02/14 11:26:29] <sydney_untangle> leyyin: Probably, not sure though. Not specifically.
+[2016/02/14 11:26:49] <Tobbi> sydney_untangle: We're not tearing each other apart.
+[2016/02/14 11:27:14] <leyyin> you should taste it, most of the traditional food was invented in times of famine :D
+[2016/02/14 11:27:26] <leyyin> good times
+[2016/02/14 11:28:08] <leyyin> I do not know what is with food and invetions, when they get starving they invent something new
+[2016/02/14 11:28:31] <leyyin> if I starve myself, maybe I will be a genius
+[2016/02/14 11:28:40] <sydney_untangle> LOL, maybe...
+[2016/02/14 11:28:55] <leyyin> BIG MAYBE
+[2016/02/14 11:29:01] <leyyin> how is GSOC?
+[2016/02/14 11:29:10] <leyyin> did you apply yet?
+[2016/02/14 11:29:49] <Tobbi> <Tobbi> macrobat: I wonder whether there's a difference between nationalities when it comes to readiness for violence.
+[2016/02/14 11:29:49] <Tobbi> <macrobat>Tobbi: here, it is considered racist to wonder about such things
