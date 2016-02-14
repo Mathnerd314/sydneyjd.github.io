@@ -6041,3 +6041,4 @@
 [2016/02/14 14:01:25] @ lumidify joined channel #supertux
 [2016/02/14 14:04:46] @ Quit: Tobbi: 
 [2016/02/14 14:29:08] @ Quit: lumidify: Ping timeout: 248 seconds
+[2016/02/14 14:34:49] @ lumidify joined channel #supertux
