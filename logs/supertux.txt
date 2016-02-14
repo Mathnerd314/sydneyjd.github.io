@@ -5764,3 +5764,4 @@
 [2016/02/14 09:13:23] @ Quit: lumidify: Ping timeout: 264 seconds
 [2016/02/14 09:22:43] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/14 09:34:39] @ lumidify joined channel #supertux
+[2016/02/14 10:14:26] @ Quit: Vorpal: Ping timeout: 240 seconds
