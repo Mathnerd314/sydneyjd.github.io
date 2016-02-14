@@ -5753,3 +5753,6 @@
 [2016/02/14 06:44:41] @ claymore2 joined channel #supertux
 [2016/02/14 08:24:32] @ lumidify joined channel #supertux
 [2016/02/14 08:24:48] @ Quit: lumidify: Remote host closed the connection
+[2016/02/14 08:25:06] @ lumidify joined channel #supertux
+[2016/02/14 08:25:06] @ Quit: lumidify: Changing host
+[2016/02/14 08:25:06] @ lumidify joined channel #supertux
