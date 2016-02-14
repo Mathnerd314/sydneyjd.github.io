@@ -5751,3 +5751,5 @@
 [2016/02/14 05:34:37] @ Quit: stewboy: Read error: Connection reset by peer
 [2016/02/14 06:35:13] @ Wuzzy joined channel #supertux
 [2016/02/14 06:44:41] @ claymore2 joined channel #supertux
+[2016/02/14 08:24:32] @ lumidify joined channel #supertux
+[2016/02/14 08:24:48] @ Quit: lumidify: Remote host closed the connection
