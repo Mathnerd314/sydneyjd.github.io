@@ -5925,3 +5925,26 @@
 [2016/02/14 11:14:48] <leyyin> yes we do
 [2016/02/14 11:14:48] <Tobbi> leyyin: Okay, that's cheap...
 [2016/02/14 11:14:56] <leyyin> can you ban forward?
+[2016/02/14 11:15:03] <leyyin> is that a thing you can do?
+[2016/02/14 11:15:11] <sydney_untangle> leyyin: Are you living with relatives? If not, why is your rent so cheap?
+[2016/02/14 11:15:26] <sydney_untangle> $600/ month is bottom of the line here.
+[2016/02/14 11:15:27] <leyyin> rent is 200, I live with a friend in a 2 bedroom apartment
+[2016/02/14 11:15:34] <mt> leyyin: please have a look at https://freenode.net/using_the_network.shtml to see what modes do on freenode
+[2016/02/14 11:15:43] <mt> and yes, you can banforward
+[2016/02/14 11:15:54] <Tobbi> leyyin: I live in a house...and I can afford it...But I don't spend money on useless things.
+[2016/02/14 11:16:11] <leyyin> but now I am at my parents house
+[2016/02/14 11:16:28] <leyyin> school break
+[2016/02/14 11:16:43] <Tobbi> leyyin: Me, too. But we still have regular project meetings.
+[2016/02/14 11:17:17] <leyyin> sydney_untangle, Eastern Europe
+[2016/02/14 11:17:25] <leyyin> do you want for our rents to be higher?
+[2016/02/14 11:17:43] <sydney_untangle> leyyin: No, its fine, im just rather suprised.
+[2016/02/14 11:17:48] <leyyin> we earn like a quarter of what you earn
+[2016/02/14 11:17:58] <leyyin> a quarter or less
+[2016/02/14 11:18:08] <sydney_untangle> Inflation... ;)
+[2016/02/14 11:18:37] <leyyin> it's harder for us to buy electronics, because they are soo expensive compared to our wages
+[2016/02/14 11:18:50] <sydney_untangle> So i've heard.
+[2016/02/14 11:19:04] <leyyin> an iphone costs 1000$ here
+[2016/02/14 11:19:08] <leyyin> you got to be crazy
+[2016/02/14 11:19:35] <leyyin> second hand android phone FTW
+[2016/02/14 11:19:47] <leyyin> 1/4 of the price :P
+[2016/02/14 11:19:47] <sydney_untangle> leyyin: And most Americans go into debt to buy christmas presents...
