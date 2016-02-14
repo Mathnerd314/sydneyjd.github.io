@@ -6060,3 +6060,4 @@
 [2016/02/14 17:11:27] @ brmbrmcar joined channel #supertux
 [2016/02/14 17:39:12] @ tux|dude joined channel #supertux
 [2016/02/14 18:29:40] @ Quit: tux|dude: Quit: Leaving
+[2016/02/14 18:37:10] @ tux|dude joined channel #supertux
