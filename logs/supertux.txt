@@ -6045,3 +6045,4 @@
 [2016/02/14 14:36:15] @ Quit: datahead7777: Ping timeout: 240 seconds
 [2016/02/14 14:49:46] @ Hume2 joined channel #supertux
 [2016/02/14 14:49:46] @ Mode +v Hume2 by ChanServ
+[2016/02/14 14:50:27] @ Quit: Hume2: Client Quit
