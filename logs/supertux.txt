@@ -6032,3 +6032,5 @@
 [2016/02/14 13:18:40] @ Mode +v Hume2 by ChanServ
 [2016/02/14 13:33:31] <Hume2> Money is a really weird thing.
 [2016/02/14 13:34:11] <Hume2> It's a couple of numbers.
+[2016/02/14 13:35:15] <Hume2> It's like: I'll increment your number and youl'll give me <something>.
+[2016/02/14 13:36:06] <Hume2> This seems as something unstable.
