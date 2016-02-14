@@ -5765,3 +5765,12 @@
 [2016/02/14 09:22:43] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/14 09:34:39] @ lumidify joined channel #supertux
 [2016/02/14 10:14:26] @ Quit: Vorpal: Ping timeout: 240 seconds
+[2016/02/14 10:15:21] @ Tobbi joined channel #supertux
+[2016/02/14 10:15:21] @ Mode +v Tobbi by ChanServ
+[2016/02/14 10:16:00] <leyyin> who wants to hear some communist jokes?
+[2016/02/14 10:16:26] @ Quit: lumidify: Ping timeout: 256 seconds
+[2016/02/14 10:17:44] <leyyin> Tobbi, you're welcome https://gist.github.com/leyyin/6b1920406f8fef016492, more here :P https://redd.it/45o5p5
+[2016/02/14 10:18:41] <Tobbi> leyyin: I didn't ask for this.
+[2016/02/14 10:18:50] <leyyin> gulag wants you Tobbi
+[2016/02/14 10:18:58] <Tobbi> gulasch wants me.
+[2016/02/14 10:19:38] @ Vorpal joined channel #supertux
