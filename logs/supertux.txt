@@ -6006,3 +6006,9 @@
 [2016/02/14 11:46:30] <leyyin> now I am an expert in sociology? Tobbi
 [2016/02/14 11:46:43] <sydney_untangle> datahead7777: You may want to try uninstalling all the versions of supertux that you have installed, then go to the supertux website and re-download the latest version.
 [2016/02/14 11:47:05] <Tobbi> leyyin: probably.
+[2016/02/14 12:07:27] <datahead7777> Will uninstalling wipe out my saved games?
+[2016/02/14 12:09:27] <Tobbi> datahead7777: Better be save than sorry...
+[2016/02/14 12:09:29] <Tobbi> *safe
+[2016/02/14 12:09:36] <Tobbi> You can safe the .supertux2 folder.
+[2016/02/14 12:09:39] <Tobbi> *save
+[2016/02/14 12:09:40] <Tobbi> damn this.
