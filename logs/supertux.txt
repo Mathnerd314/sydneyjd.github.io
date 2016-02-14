@@ -6036,3 +6036,7 @@
 [2016/02/14 13:36:06] <Hume2> This seems as something unstable.
 [2016/02/14 13:44:52] <Hume2> Almost all states are in debt, maybe it's that thing.
 [2016/02/14 13:58:43] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/14 14:01:24] @ lumidify joined channel #supertux
+[2016/02/14 14:01:25] @ Quit: lumidify: Changing host
+[2016/02/14 14:01:25] @ lumidify joined channel #supertux
+[2016/02/14 14:04:46] @ Quit: Tobbi: 
