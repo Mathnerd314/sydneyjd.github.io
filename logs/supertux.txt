@@ -5757,3 +5757,4 @@
 [2016/02/14 08:25:06] @ Quit: lumidify: Changing host
 [2016/02/14 08:25:06] @ lumidify joined channel #supertux
 [2016/02/14 08:39:17] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/14 08:40:45] @ Quit: Wuzzy: Remote host closed the connection
