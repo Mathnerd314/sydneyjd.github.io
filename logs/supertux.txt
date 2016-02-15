@@ -6070,3 +6070,6 @@
 [2016/02/15 00:58:26] @ Quit: lumidify: Changing host
 [2016/02/15 00:58:26] @ lumidify joined channel #supertux
 [2016/02/15 01:07:30] @ Quit: lumidify: Ping timeout: 252 seconds
+[2016/02/15 01:50:37] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09editor 13https://git.io/vgShC
+[2016/02/15 01:50:41] <pentagon> [10supertux] 07Hume2 14297a54c Added a tilemap menu
+[2016/02/15 01:50:48] <pentagon> [10supertux] 07Hume2 synchronized pull request 09#269: WIP Level Editor 13https://git.io/vEe13
