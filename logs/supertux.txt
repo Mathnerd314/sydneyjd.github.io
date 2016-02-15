@@ -6317,3 +6317,10 @@
 [2016/02/15 14:53:25] @ lumidify joined channel #supertux
 [2016/02/15 14:55:16] @ Wuzzy joined channel #supertux
 [2016/02/15 14:55:36] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/02/15 15:01:04] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/vgHjm
+[2016/02/15 15:01:07] <pentagon> [10supertux] 07Hume2 140111a10 New badguy: leafshot
+[2016/02/15 15:01:41] <pentagon> [10supertux] 07Hume2 commented on issue 09#364: New badguy: leafshot 13https://git.io/vgDug
+[2016/02/15 15:01:49] <pentagon> [10supertux] 07Hume2 closed pull request 09#364: New badguy: leafshot 13https://git.io/vgDug
+[2016/02/15 15:01:52] <pentagon> [10supertux] Status for commit New badguy: leafshot by 07Hume2: 04AppVeyor build cancelled 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/390
+[2016/02/15 15:03:14] @ Tobbi joined channel #supertux
+[2016/02/15 15:03:14] @ Mode +v Tobbi by ChanServ
