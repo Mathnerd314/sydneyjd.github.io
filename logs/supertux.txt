@@ -6238,3 +6238,14 @@
 [2016/02/15 12:48:23] <Hume2> :D
 [2016/02/15 12:49:45] <mt> I mean, I might get ultra-violet ink and paper optimized for that kind of ink, but displays are a bit harder
 [2016/02/15 12:50:00] <Hume2> That was from a very secret resource: Hume2 grumbles.
+[2016/02/15 12:50:38] <Hume2> You eat a flower and a hat appears on your head. That makes very sense.
+[2016/02/15 12:51:04] <mt> (re ink: I know people in the publishing and printing industry)
+[2016/02/15 12:51:19] <Hume2> hmmm...
+[2016/02/15 12:52:06] <Hume2> Don't worry, the majority of Hume2 grumbles is not meant seriously.
+[2016/02/15 12:52:15] <mt> :D
+[2016/02/15 12:52:35] <Hume2> I mean everyhing except the rule for suggesting worlds.
+[2016/02/15 12:52:35] <mt> Hume2 hue2ms
+[2016/02/15 12:52:41] <Hume2> :D
+[2016/02/15 12:54:12] <Hume2> Just if you want to take a look: https://github.com/Hume2/supertux/wiki/Hume2-home
+[2016/02/15 12:54:23] <Hume2> bbl
+[2016/02/15 12:54:27] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
