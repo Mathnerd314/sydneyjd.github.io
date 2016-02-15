@@ -6145,3 +6145,12 @@
 [2016/02/15 12:08:02] @ Hume2 joined channel #supertux
 [2016/02/15 12:08:02] @ Mode +v Hume2 by ChanServ
 [2016/02/15 12:08:08] <Hume2> Hello
+[2016/02/15 12:11:34] <mt> hi
+[2016/02/15 12:12:00] <mt> >https://github.com/SuperTux/supertux/pull/364#issuecomment-184160393
+[2016/02/15 12:12:06] <mt> 'please do $thing'
+[2016/02/15 12:12:18] <mt> how often have we told that guy to drop it
+[2016/02/15 12:12:44] <mt> anyway, to block someone from an organization, as I have found out
+[2016/02/15 12:12:54] <mt> an owner has to request the block use github's contact form
+[2016/02/15 12:13:03] <mt> s/use/using/
+[2016/02/15 12:13:03] <red_bot> mt meant: "an owner has to request the block using github's contact form"
+[2016/02/15 12:13:17] <Hume2> ah
