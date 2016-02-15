@@ -6063,3 +6063,4 @@
 [2016/02/14 18:37:10] @ tux|dude joined channel #supertux
 [2016/02/14 19:30:12] @ Quit: tux|dude: Quit: Leaving
 [2016/02/14 19:35:00] @ tux|dude joined channel #supertux
+[2016/02/14 20:28:47] @ Quit: tux|dude: Quit: Leaving
