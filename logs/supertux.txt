@@ -6346,3 +6346,4 @@
 [2016/02/15 16:30:05] @ swift110 joined channel #supertux
 [2016/02/15 16:39:59] @ Quit: tux|dude: Quit: Leaving
 [2016/02/15 16:52:51] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- The professional IRC Client :D
+[2016/02/15 16:58:37] @ Quit: Tobbi: Remote host closed the connection
