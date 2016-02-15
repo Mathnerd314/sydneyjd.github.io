@@ -6308,3 +6308,5 @@
 [2016/02/15 14:25:30] <Tobbi> ah okay.
 [2016/02/15 14:31:37] <Hume2> I'm not sure. Cimrman did many things, not just stuff arround politics.
 [2016/02/15 14:32:03] <Hume2> They are similar in a way though.
+[2016/02/15 14:44:41] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/15 14:44:52] @ swift110 joined channel #supertux
