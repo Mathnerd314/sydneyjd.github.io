@@ -6348,3 +6348,4 @@
 [2016/02/15 16:52:51] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- The professional IRC Client :D
 [2016/02/15 16:58:37] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/15 17:05:20] @ Quit: swift110: Ping timeout: 260 seconds
+[2016/02/15 17:18:07] @ swift110 joined channel #supertux
