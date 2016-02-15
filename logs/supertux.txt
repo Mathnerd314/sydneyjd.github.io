@@ -6249,3 +6249,4 @@
 [2016/02/15 12:54:12] <Hume2> Just if you want to take a look: https://github.com/Hume2/supertux/wiki/Hume2-home
 [2016/02/15 12:54:23] <Hume2> bbl
 [2016/02/15 12:54:27] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/15 13:08:56] @ Quit: datahead8888: Quit: Leaving
