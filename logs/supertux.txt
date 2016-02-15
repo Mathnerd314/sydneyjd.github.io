@@ -6096,3 +6096,5 @@
 [2016/02/15 03:02:09] @ stewboy_ joined channel #supertux
 [2016/02/15 03:03:46] @ Quit: stewboy: Ping timeout: 240 seconds
 [2016/02/15 03:03:46] @ stewboy_ is now known as stewboy
+[2016/02/15 03:07:31] <brmbrmcar> :D
+[2016/02/15 03:07:49] <brmbrmcar> I dunno
