@@ -6315,3 +6315,5 @@
 [2016/02/15 14:51:58] <pentagon> [10supertux] 07Hume2 synchronized pull request 09#364: New badguy: leafshot 13https://git.io/vgDug
 [2016/02/15 14:52:18] @ Quit: lumidify: Ping timeout: 250 seconds
 [2016/02/15 14:53:25] @ lumidify joined channel #supertux
+[2016/02/15 14:55:16] @ Wuzzy joined channel #supertux
+[2016/02/15 14:55:36] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
