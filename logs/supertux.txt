@@ -6336,3 +6336,4 @@
 [2016/02/15 15:51:20] <pentagon> [10supertux] Status for commit New badguy: leafshot by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/391
 [2016/02/15 15:53:16] @ Quit: lumidify: Quit: Leaving
 [2016/02/15 15:54:25] @ tux|dude joined channel #supertux
+[2016/02/15 16:02:21] @ Quit: Wuzzy: Remote host closed the connection
