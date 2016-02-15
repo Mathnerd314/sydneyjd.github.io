@@ -6137,3 +6137,5 @@
 [2016/02/15 09:28:08] <Tobbi> yup.
 [2016/02/15 10:25:12] @ tuxdev_ joined channel #supertux
 [2016/02/15 10:27:08] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/15 10:41:45] @ Tobbi joined channel #supertux
+[2016/02/15 10:41:45] @ Mode +v Tobbi by ChanServ
