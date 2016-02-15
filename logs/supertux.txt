@@ -6105,3 +6105,4 @@
 [2016/02/15 05:39:07] <pentagon> [10supertux] 07Savsish commented on issue 09#364: New badguy: leafshot 13https://git.io/vgDug
 [2016/02/15 06:37:40] @ Quit: tuxdev_: Ping timeout: 248 seconds
 [2016/02/15 06:44:45] @ lumidify joined channel #supertux
+[2016/02/15 07:10:10] @ Quit: lumidify: Ping timeout: 240 seconds
