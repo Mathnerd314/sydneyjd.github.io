@@ -6088,3 +6088,4 @@
 [2016/02/15 02:28:58] <pentagon> [10supertux] Status for commit Deleted abundant file by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/109283906
 [2016/02/15 02:32:40] @ Quit: Mathnerd314: Ping timeout: 260 seconds
 [2016/02/15 02:41:12] <pentagon> [10supertux] Status for commit Deleted abundant file by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/109283920
+[2016/02/15 02:46:26] @ Quit: lumidify: Ping timeout: 240 seconds
