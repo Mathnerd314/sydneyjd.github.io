@@ -6089,3 +6089,5 @@
 [2016/02/15 02:32:40] @ Quit: Mathnerd314: Ping timeout: 260 seconds
 [2016/02/15 02:41:12] <pentagon> [10supertux] Status for commit Deleted abundant file by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/109283920
 [2016/02/15 02:46:26] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/02/15 02:52:54] @ leyyin joined channel #supertux
+[2016/02/15 02:54:38] <pentagon> [10supertux] Status for commit Added a tilemap menu by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/387
