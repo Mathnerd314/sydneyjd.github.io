@@ -6257,3 +6257,12 @@
 [2016/02/15 13:29:46] @ Quit: Karkus: Remote host closed the connection
 [2016/02/15 13:49:44] @ Hume2 joined channel #supertux
 [2016/02/15 13:49:45] @ Mode +v Hume2 by ChanServ
+[2016/02/15 13:50:58] <Hume2> Hello again
+[2016/02/15 13:52:09] <mt> Hume2: "The IDs of worldmap tiles are messed up properly." what? messed up properly :D
+[2016/02/15 13:52:30] <mt> anyway, hi!
+[2016/02/15 13:52:40] <Hume2> mt: You know, these IDs, are messed up.
+[2016/02/15 13:52:49] <Hume2> There are many ignored tile IDs.
+[2016/02/15 13:52:55] <mt> ikr
+[2016/02/15 13:53:06] <mt> but, that's not done properly then
+[2016/02/15 13:53:10] <Hume2> However, I'm going to fill those gaps :P
+[2016/02/15 13:53:37] <mt> who is "Jára Cimrman"
