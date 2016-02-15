@@ -6340,3 +6340,4 @@
 [2016/02/15 16:06:51] @ stewboy_ joined channel #supertux
 [2016/02/15 16:08:26] @ Quit: stewboy: Ping timeout: 250 seconds
 [2016/02/15 16:08:27] @ stewboy_ is now known as stewboy
+[2016/02/15 16:14:56] @ Quit: swift110: Ping timeout: 250 seconds
