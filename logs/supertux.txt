@@ -6106,3 +6106,5 @@
 [2016/02/15 06:37:40] @ Quit: tuxdev_: Ping timeout: 248 seconds
 [2016/02/15 06:44:45] @ lumidify joined channel #supertux
 [2016/02/15 07:10:10] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/02/15 08:42:41] @ Tobbi joined channel #supertux
+[2016/02/15 08:42:41] @ Mode +v Tobbi by ChanServ
