@@ -6172,3 +6172,14 @@
 [2016/02/15 12:18:29] <mt> actually a really good quote :D
 [2016/02/15 12:19:04] <Hume2> Some things are obsolette, but many things still aren't.
 [2016/02/15 12:19:47] <Hume2> And this is really weird: http://supertux.lethargik.org/wiki/File:Howtonotdesignlevels.jpg
+[2016/02/15 12:20:12] <mt> why is it weird?
+[2016/02/15 12:20:46] <Hume2> I figured out that it is really possible to get hurt from the spike on the top.
+[2016/02/15 12:21:23] <Hume2> However, a sane player wouldn't.
+[2016/02/15 12:21:45] <mt> "i am saying that this scheme needs to provide proper guidance to clients to make them properly implement this functionality without getting someone killed" <--- I like this discussion on some IRC channel
+[2016/02/15 12:22:08] <mt> Hume2: also depends on the value of g in the level
+[2016/02/15 12:22:28] <Hume2> Yes, I suppose it's normal gravity. = 10
+[2016/02/15 12:22:54] <Hume2> :D
+[2016/02/15 12:23:02] <mt> is Tux's size actually affecting behavior?
+[2016/02/15 12:23:16] <Hume2> He's higher then.
+[2016/02/15 12:23:35] <Hume2> However the jump and run velocity is the same.
+[2016/02/15 12:24:13] <Hume2> Yes and he can make butt-jump.
