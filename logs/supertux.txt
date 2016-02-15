@@ -6344,3 +6344,4 @@
 [2016/02/15 16:23:56] @ swift110 joined channel #supertux
 [2016/02/15 16:30:05] @ Quit: swift110: Changing host
 [2016/02/15 16:30:05] @ swift110 joined channel #supertux
+[2016/02/15 16:39:59] @ Quit: tux|dude: Quit: Leaving
