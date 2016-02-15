@@ -6337,3 +6337,6 @@
 [2016/02/15 15:53:16] @ Quit: lumidify: Quit: Leaving
 [2016/02/15 15:54:25] @ tux|dude joined channel #supertux
 [2016/02/15 16:02:21] @ Quit: Wuzzy: Remote host closed the connection
+[2016/02/15 16:06:51] @ stewboy_ joined channel #supertux
+[2016/02/15 16:08:26] @ Quit: stewboy: Ping timeout: 250 seconds
+[2016/02/15 16:08:27] @ stewboy_ is now known as stewboy
