@@ -6183,3 +6183,9 @@
 [2016/02/15 12:23:16] <Hume2> He's higher then.
 [2016/02/15 12:23:35] <Hume2> However the jump and run velocity is the same.
 [2016/02/15 12:24:13] <Hume2> Yes and he can make butt-jump.
+[2016/02/15 12:25:18] <mt> I mean that related to gravity
+[2016/02/15 12:25:41] <mt> oh well, it doesn't really make any difference
+[2016/02/15 12:25:43] <Hume2> The tux's height doesn't change gravity.
+[2016/02/15 12:28:37] <Hume2> I just realized that I have tendency to make too hard levels.
+[2016/02/15 12:28:53] <Hume2> Narre was unable to pass them through.
+[2016/02/15 12:29:40] <mt> "i've lost all future interest in [...] because it's filled with people who are so security clueless they will get someone killed" :D this is actually a discussion about the IRC protocol
