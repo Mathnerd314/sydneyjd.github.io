@@ -6108,3 +6108,7 @@
 [2016/02/15 07:10:10] @ Quit: lumidify: Ping timeout: 240 seconds
 [2016/02/15 08:42:41] @ Tobbi joined channel #supertux
 [2016/02/15 08:42:41] @ Mode +v Tobbi by ChanServ
+[2016/02/15 09:08:20] <leyyin> Tobbi, https://news.ycombinator.com/item?id=11100271
+[2016/02/15 09:08:40] <Tobbi> :D
+[2016/02/15 09:08:43] <Tobbi> leyyin: Same here.
+[2016/02/15 09:08:43] <Tobbi> :D
