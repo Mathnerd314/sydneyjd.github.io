@@ -6142,3 +6142,6 @@
 [2016/02/15 11:17:57] @ Mathnerd314 joined channel #supertux
 [2016/02/15 11:17:57] @ Mode +v Mathnerd314 by ChanServ
 [2016/02/15 11:54:05] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/15 12:08:02] @ Hume2 joined channel #supertux
+[2016/02/15 12:08:02] @ Mode +v Hume2 by ChanServ
+[2016/02/15 12:08:08] <Hume2> Hello
