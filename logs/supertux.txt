@@ -6100,3 +6100,4 @@
 [2016/02/15 03:07:49] <brmbrmcar> I dunno
 [2016/02/15 03:25:57] <pentagon> [10supertux] Status for commit Deleted abundant file by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/388
 [2016/02/15 03:57:10] <pentagon> [10supertux] Status for commit Deleted abundant file by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/389
+[2016/02/15 04:07:04] @ Quit: tux|dude: Quit: Leaving
