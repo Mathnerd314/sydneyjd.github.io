@@ -6327,3 +6327,4 @@
 [2016/02/15 15:06:42] <pentagon> [10supertux] Status for commit New badguy: leafshot by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/109437142
 [2016/02/15 15:07:46] @ Quit: lumidify: Ping timeout: 240 seconds
 [2016/02/15 15:07:52] @ Quit: claymore2: Quit: Leaving
+[2016/02/15 15:15:38] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
