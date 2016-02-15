@@ -6093,3 +6093,6 @@
 [2016/02/15 02:54:38] <pentagon> [10supertux] Status for commit Added a tilemap menu by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/387
 [2016/02/15 02:55:29] <snadge> im running out of contrib levels
 [2016/02/15 02:55:33] <snadge> is there a secret stash of them? :P
+[2016/02/15 03:02:09] @ stewboy_ joined channel #supertux
+[2016/02/15 03:03:46] @ Quit: stewboy: Ping timeout: 240 seconds
+[2016/02/15 03:03:46] @ stewboy_ is now known as stewboy
