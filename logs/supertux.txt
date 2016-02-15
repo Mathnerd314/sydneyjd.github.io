@@ -6189,3 +6189,19 @@
 [2016/02/15 12:28:37] <Hume2> I just realized that I have tendency to make too hard levels.
 [2016/02/15 12:28:53] <Hume2> Narre was unable to pass them through.
 [2016/02/15 12:29:40] <mt> "i've lost all future interest in [...] because it's filled with people who are so security clueless they will get someone killed" :D this is actually a discussion about the IRC protocol
+[2016/02/15 12:30:04] <Hume2> :D
+[2016/02/15 12:30:42] <Hume2> At least we don't have suggestions like:
+[2016/02/15 12:30:45] <mt> they're talking about activists (and similar people) getting killed
+[2016/02/15 12:30:56] <Hume2> The same as <existing thing here>, but bigger
+[2016/02/15 12:31:08] <mt> that would be
+[2016/02/15 12:31:13] <mt> horrible suggestion
+[2016/02/15 12:31:16] <mt> D:
+[2016/02/15 12:31:20] <Hume2> or: The same as <existing thing here>, but another color
+[2016/02/15 12:31:49] <Hume2> Yeah, I hate those copypastas.
+[2016/02/15 12:32:19] <Hume2> The "The same as <existing thing here>, but bigger" is usually a boss suggestion.
+[2016/02/15 12:33:10] <mt> Hume2: s/bigger/<positive adjective>/
+[2016/02/15 12:33:18] <Hume2> :D
+[2016/02/15 12:34:01] <Hume2> And also those super modern things as suggestions :P
+[2016/02/15 12:34:15] <Hume2> Add cars to SuperTux! :D
+[2016/02/15 12:34:33] <mt> one thing I don't really understand: early days of mobile phones: too big. make them smaller. early smartphone era: yay phones are smaller. now: our smartphones are still way too small
+[2016/02/15 12:34:48] <Hume2> :D
