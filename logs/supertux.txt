@@ -6085,3 +6085,4 @@
 [2016/02/15 02:04:38] @ xnrand joined channel #supertux
 [2016/02/15 02:17:19] <pentagon> [10supertux] Status for commit Added a tilemap menu by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/109282908
 [2016/02/15 02:23:00] <pentagon> [10supertux] Status for commit Added a tilemap menu by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/386
+[2016/02/15 02:28:58] <pentagon> [10supertux] Status for commit Deleted abundant file by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/109283906
