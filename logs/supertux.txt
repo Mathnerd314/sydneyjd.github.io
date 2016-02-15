@@ -6312,3 +6312,6 @@
 [2016/02/15 14:44:52] @ swift110 joined channel #supertux
 [2016/02/15 14:45:24] @ Quit: swift110: Changing host
 [2016/02/15 14:45:24] @ swift110 joined channel #supertux
+[2016/02/15 14:51:58] <pentagon> [10supertux] 07Hume2 synchronized pull request 09#364: New badguy: leafshot 13https://git.io/vgDug
+[2016/02/15 14:52:18] @ Quit: lumidify: Ping timeout: 250 seconds
+[2016/02/15 14:53:25] @ lumidify joined channel #supertux
