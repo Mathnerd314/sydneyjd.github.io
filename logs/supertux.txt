@@ -6324,3 +6324,6 @@
 [2016/02/15 15:01:52] <pentagon> [10supertux] Status for commit New badguy: leafshot by 07Hume2: 04AppVeyor build cancelled 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/390
 [2016/02/15 15:03:14] @ Tobbi joined channel #supertux
 [2016/02/15 15:03:14] @ Mode +v Tobbi by ChanServ
+[2016/02/15 15:06:42] <pentagon> [10supertux] Status for commit New badguy: leafshot by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/109437142
+[2016/02/15 15:07:46] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/02/15 15:07:52] @ Quit: claymore2: Quit: Leaving
