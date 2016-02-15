@@ -6255,3 +6255,5 @@
 [2016/02/15 13:29:17] @ Karkus joined channel #supertux
 [2016/02/15 13:29:17] @ Mode +v Karkus by ChanServ
 [2016/02/15 13:29:46] @ Quit: Karkus: Remote host closed the connection
+[2016/02/15 13:49:44] @ Hume2 joined channel #supertux
+[2016/02/15 13:49:45] @ Mode +v Hume2 by ChanServ
