@@ -6154,3 +6154,21 @@
 [2016/02/15 12:13:03] <mt> s/use/using/
 [2016/02/15 12:13:03] <red_bot> mt meant: "an owner has to request the block using github's contact form"
 [2016/02/15 12:13:17] <Hume2> ah
+[2016/02/15 12:15:09] <Hume2> Anyway I could merge it then.
+[2016/02/15 12:15:09] <mt> if you want to do that, you've got my ok; you might want to ask others
+[2016/02/15 12:15:30] <mt> I'm not saying the Mr Rocket idea is entirely bad
+[2016/02/15 12:15:34] <mt> I like it actually
+[2016/02/15 12:15:41] <mt> however this guy has been so annoying
+[2016/02/15 12:15:49] <Hume2> Yeah.
+[2016/02/15 12:15:54] <mt> please do x, please do y
+[2016/02/15 12:16:11] <mt> I still don't like the way it's not, after x and y are done
+[2016/02/15 12:16:26] <mt> s/not/now/
+[2016/02/15 12:16:26] <red_bot> mt meant: "I still don't like the way it's now, after x and y are done"
+[2016/02/15 12:16:34] <Hume2> Anyway, the mr. rocket is in "grumbel glumbles"
+[2016/02/15 12:16:44] <mt> link?
+[2016/02/15 12:17:14] <Hume2> And yeah, please do x IS annoying.
+[2016/02/15 12:17:32] <Hume2> http://supertux.lethargik.org/wiki/Grumbel_grumbles
+[2016/02/15 12:17:52] <Hume2> citation: Rockets being sqished? Never heard of that.
+[2016/02/15 12:18:29] <mt> actually a really good quote :D
+[2016/02/15 12:19:04] <Hume2> Some things are obsolette, but many things still aren't.
+[2016/02/15 12:19:47] <Hume2> And this is really weird: http://supertux.lethargik.org/wiki/File:Howtonotdesignlevels.jpg
