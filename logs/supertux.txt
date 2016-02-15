@@ -6217,3 +6217,9 @@
 [2016/02/15 12:38:35] <mt> consistency is important
 [2016/02/15 12:38:35] <Hume2> I should change it.
 [2016/02/15 12:39:56] <Hume2> citation: Animation? None found. SuperTux, the game as a whole, not just the sprite, looks horrible, all static, with no fun animations around, boring.
+[2016/02/15 12:40:15] <Hume2> Don't you know what is meant by the animation there?
+[2016/02/15 12:40:32] <Hume2> Maybe the cutscenes, isn't it?
+[2016/02/15 12:40:46] <mt> from grumbel grumbles?
+[2016/02/15 12:40:54] <mt> ask grumbel when he's here
+[2016/02/15 12:41:27] <Hume2> I'll ask him.
+[2016/02/15 12:43:58] <Hume2> Penguins are tetrachromatic, so why do we have trichromatic lighting?
