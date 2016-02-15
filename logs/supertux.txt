@@ -6129,3 +6129,9 @@
 [2016/02/15 09:22:54] <Tobbi> :D
 [2016/02/15 09:23:18] <Tobbi> leyyin: My uni loves changing stuff. So they never make it on time...
 [2016/02/15 09:23:49] <Tobbi> Even though most of the time it's the same process over and over again...
+[2016/02/15 09:26:00] <Tobbi> This term, they unified login processes.
+[2016/02/15 09:26:07] <Tobbi> So, maybe that's a pseudo-excuse.
+[2016/02/15 09:26:14] <Tobbi> However, they had so long to do it.
+[2016/02/15 09:26:32] <leyyin> university teaches X they do Y
+[2016/02/15 09:26:40] <leyyin> they do not even do what they preach
+[2016/02/15 09:28:08] <Tobbi> yup.
