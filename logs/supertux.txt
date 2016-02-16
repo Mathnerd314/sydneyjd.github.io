@@ -6440,3 +6440,6 @@
 [2016/02/16 14:57:19] @ Quit: swift110: Changing host
 [2016/02/16 14:57:19] @ swift110 joined channel #supertux
 [2016/02/16 15:19:34] @ Quit: datahead7777: Ping timeout: 250 seconds
+[2016/02/16 15:21:23] @ lumidify joined channel #supertux
+[2016/02/16 15:21:23] @ Quit: lumidify: Changing host
+[2016/02/16 15:21:23] @ lumidify joined channel #supertux
