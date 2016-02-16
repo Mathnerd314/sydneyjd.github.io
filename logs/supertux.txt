@@ -6381,3 +6381,5 @@
 [2016/02/16 02:44:36] @ Quit: Vorpal: Ping timeout: 256 seconds
 [2016/02/16 02:49:12] <pentagon> [10flexlay] 07Hume2 starred 09flexlay - 13https://git.io/vYwyL
 [2016/02/16 02:49:22] @ Vorpal joined channel #supertux
+[2016/02/16 02:50:02] @ Not-121e joined channel #supertux
+[2016/02/16 02:50:02] <Not-121e> [02supertux-editor] 07Hume2 starred 03supertux-editor - 13https://github.com/Hume2
