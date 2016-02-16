@@ -6435,3 +6435,4 @@
 [2016/02/16 13:24:44] @ Quit: lumidify: Ping timeout: 250 seconds
 [2016/02/16 13:46:00] @ leyyin joined channel #supertux
 [2016/02/16 13:53:38] @ claymore2 joined channel #supertux
+[2016/02/16 14:41:21] @ tux|dude joined channel #supertux
