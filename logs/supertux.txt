@@ -6362,3 +6362,4 @@
 [2016/02/15 19:51:01] @ irungentoo joined channel #supertux
 [2016/02/15 19:53:54] @ Quit: nerdopolis__: Ping timeout: 250 seconds
 [2016/02/15 19:53:54] @ nerdopolis_ joined channel #supertux
+[2016/02/15 20:16:21] @ tux|dude joined channel #supertux
