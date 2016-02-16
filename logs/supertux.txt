@@ -6430,3 +6430,5 @@
 [2016/02/16 13:05:40] @ Quit: paroneayea: Ping timeout: 250 seconds
 [2016/02/16 13:06:43] @ Quit: Tobbi: Remote host closed the connection
 [2016/02/16 13:10:30] @ Quit: tuxdev_: Ping timeout: 260 seconds
+[2016/02/16 13:18:32] @ Quit: lumidify: Ping timeout: 250 seconds
+[2016/02/16 13:19:04] @ lumidify joined channel #supertux
