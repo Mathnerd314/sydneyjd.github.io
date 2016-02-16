@@ -6472,3 +6472,4 @@
 [2016/02/16 18:37:03] @ Quit: tuxdev: *.net *.split
 [2016/02/16 18:37:04] @ Quit: jeezy: *.net *.split
 [2016/02/16 18:37:04] @ Quit: mt: *.net *.split
+[2016/02/16 18:44:41] @ tuxdev joined channel #supertux
