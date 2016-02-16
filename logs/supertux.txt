@@ -6449,3 +6449,6 @@
 [2016/02/16 15:59:53] @ Quit: lumidify: Quit: Leaving
 [2016/02/16 16:36:45] @ Quit: claymore2: Quit: Leaving
 [2016/02/16 16:37:33] <pentagon> [10supertux] 07tobbi commented on commit 98a240df 13https://git.io/vgdFV
+[2016/02/16 17:01:30] @ Quit: brmbrmcar: Ping timeout: 260 seconds
+[2016/02/16 17:02:08] @ brmbrmcar joined channel #supertux
+[2016/02/16 17:04:16] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
