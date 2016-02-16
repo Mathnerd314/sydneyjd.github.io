@@ -6444,3 +6444,5 @@
 [2016/02/16 15:21:23] @ Quit: lumidify: Changing host
 [2016/02/16 15:21:23] @ lumidify joined channel #supertux
 [2016/02/16 15:41:07] @ Quit: tux|dude: Quit: Leaving
+[2016/02/16 15:52:01] @ Tobbi joined channel #supertux
+[2016/02/16 15:52:01] @ Mode +v Tobbi by ChanServ
