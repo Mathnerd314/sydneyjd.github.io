@@ -6385,3 +6385,5 @@
 [2016/02/16 02:50:02] <Not-121e> [02supertux-editor] 07Hume2 starred 03supertux-editor - 13https://github.com/Hume2
 [2016/02/16 02:59:45] <brmbrmcar> Notifico!
 [2016/02/16 03:03:31] @ stewboy_ joined channel #supertux
+[2016/02/16 03:05:24] @ Quit: stewboy: Ping timeout: 248 seconds
+[2016/02/16 03:05:24] @ stewboy_ is now known as stewboy
