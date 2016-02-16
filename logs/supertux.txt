@@ -6454,3 +6454,4 @@
 [2016/02/16 17:04:16] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2016/02/16 17:06:24] @ Quit: swift110: Remote host closed the connection
 [2016/02/16 17:10:06] @ swift110 joined channel #supertux
+[2016/02/16 17:20:06] @ Quit: Tobbi: Remote host closed the connection
