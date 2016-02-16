@@ -6466,3 +6466,9 @@
 [2016/02/16 18:30:26] @ swift110 joined channel #supertux
 [2016/02/16 18:32:09] @ apostrophe joined channel #supertux
 [2016/02/16 18:33:39] @ tuxdude143 joined channel #supertux
+[2016/02/16 18:37:00] @ Quit: tux|dude: *.net *.split
+[2016/02/16 18:37:01] @ Quit: Not-121e: *.net *.split
+[2016/02/16 18:37:02] @ Quit: binki: *.net *.split
+[2016/02/16 18:37:03] @ Quit: tuxdev: *.net *.split
+[2016/02/16 18:37:04] @ Quit: jeezy: *.net *.split
+[2016/02/16 18:37:04] @ Quit: mt: *.net *.split
