@@ -6413,3 +6413,4 @@
 [2016/02/16 06:44:14] @ Mode +v Tobbi by ChanServ
 [2016/02/16 06:56:30] @ Quit: brmbrmcar: Quit: Lost terminal
 [2016/02/16 06:57:19] @ brmbrmcar joined channel #supertux
+[2016/02/16 07:46:08] @ Quit: brmbrmcar: Quit: Lost terminal
