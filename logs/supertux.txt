@@ -6406,3 +6406,5 @@
 [2016/02/16 05:11:17] @ Mode +v Tobbi_ by ChanServ
 [2016/02/16 05:11:21] @ Quit: Tobbi: Read error: Connection reset by peer
 [2016/02/16 05:21:16] @ Quit: Tobbi_: Remote host closed the connection
+[2016/02/16 06:07:54] @ Quit: brmbrmcar: Quit: Lost terminal
+[2016/02/16 06:08:52] @ brmbrmcar joined channel #supertux
