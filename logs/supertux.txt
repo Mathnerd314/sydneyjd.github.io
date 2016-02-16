@@ -6436,3 +6436,6 @@
 [2016/02/16 13:46:00] @ leyyin joined channel #supertux
 [2016/02/16 13:53:38] @ claymore2 joined channel #supertux
 [2016/02/16 14:41:21] @ tux|dude joined channel #supertux
+[2016/02/16 14:56:21] @ swift110 joined channel #supertux
+[2016/02/16 14:57:19] @ Quit: swift110: Changing host
+[2016/02/16 14:57:19] @ swift110 joined channel #supertux
