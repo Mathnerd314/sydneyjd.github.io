@@ -6415,3 +6415,5 @@
 [2016/02/16 06:57:19] @ brmbrmcar joined channel #supertux
 [2016/02/16 07:46:08] @ Quit: brmbrmcar: Quit: Lost terminal
 [2016/02/16 08:08:55] @ brmbrmcar joined channel #supertux
+[2016/02/16 08:24:36] @ Mathnerd314 joined channel #supertux
+[2016/02/16 08:24:36] @ Mode +v Mathnerd314 by ChanServ
