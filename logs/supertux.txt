@@ -6411,3 +6411,5 @@
 [2016/02/16 06:35:18] @ Quit: MCMic: Quit: Konversation terminated!
 [2016/02/16 06:44:13] @ Tobbi joined channel #supertux
 [2016/02/16 06:44:14] @ Mode +v Tobbi by ChanServ
+[2016/02/16 06:56:30] @ Quit: brmbrmcar: Quit: Lost terminal
+[2016/02/16 06:57:19] @ brmbrmcar joined channel #supertux
