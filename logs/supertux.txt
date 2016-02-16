@@ -6447,3 +6447,5 @@
 [2016/02/16 15:52:01] @ Tobbi joined channel #supertux
 [2016/02/16 15:52:01] @ Mode +v Tobbi by ChanServ
 [2016/02/16 15:59:53] @ Quit: lumidify: Quit: Leaving
+[2016/02/16 16:36:45] @ Quit: claymore2: Quit: Leaving
+[2016/02/16 16:37:33] <pentagon> [10supertux] 07tobbi commented on commit 98a240df 13https://git.io/vgdFV
