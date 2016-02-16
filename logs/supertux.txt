@@ -6424,3 +6424,4 @@
 [2016/02/16 11:27:17] @ brmbrmcar is now known as Guest78696
 [2016/02/16 11:27:18] @ Quit: Guest78696: Killed (sendak.freenode.net (Nickname regained by services))
 [2016/02/16 11:27:18] @ brmbrmca1 is now known as brmbrmcar
+[2016/02/16 12:57:01] @ lumidify joined channel #supertux
