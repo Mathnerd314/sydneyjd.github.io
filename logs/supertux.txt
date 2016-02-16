@@ -6393,3 +6393,5 @@
 [2016/02/16 03:44:53] @ tuxdude143 joined channel #supertux
 [2016/02/16 03:45:07] <Tobbi> Nathan der Weise.
 [2016/02/16 03:47:30] @ Quit: tux|dude: Ping timeout: 256 seconds
+[2016/02/16 03:50:23] @ Quit: tuxdude143: Quit: Leaving
+[2016/02/16 03:50:38] @ Quit: tuxdev_: Ping timeout: 265 seconds
