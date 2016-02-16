@@ -6368,3 +6368,6 @@
 [2016/02/15 21:38:25] @ tux|dude joined channel #supertux
 [2016/02/16 00:02:53] @ stewboy joined channel #supertux
 [2016/02/16 00:08:00] @ Quit: irungentoo: Remote host closed the connection
+[2016/02/16 00:36:13] @ lumidify joined channel #supertux
+[2016/02/16 00:36:13] @ Quit: lumidify: Changing host
+[2016/02/16 00:36:13] @ lumidify joined channel #supertux
