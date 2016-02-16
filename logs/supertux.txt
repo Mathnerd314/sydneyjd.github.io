@@ -6462,3 +6462,7 @@
 [2016/02/16 18:29:20] @ Quit: tuxdude143: Client Quit
 [2016/02/16 18:29:34] @ mteufel joined channel #supertux
 [2016/02/16 18:29:34] @ Mode +v mteufel by ChanServ
+[2016/02/16 18:30:25] @ Quit: swift110: Changing host
+[2016/02/16 18:30:26] @ swift110 joined channel #supertux
+[2016/02/16 18:32:09] @ apostrophe joined channel #supertux
+[2016/02/16 18:33:39] @ tuxdude143 joined channel #supertux
