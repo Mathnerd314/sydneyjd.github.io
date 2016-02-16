@@ -6390,3 +6390,4 @@
 [2016/02/16 03:15:24] @ MCMic joined channel #supertux
 [2016/02/16 03:22:40] @ Tobbi joined channel #supertux
 [2016/02/16 03:22:40] @ Mode +v Tobbi by ChanServ
+[2016/02/16 03:44:53] @ tuxdude143 joined channel #supertux
