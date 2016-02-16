@@ -6357,3 +6357,4 @@
 [2016/02/15 18:30:11] @ Quit: tux|dude: Quit: Leaving
 [2016/02/15 18:39:05] @ tux|dude joined channel #supertux
 [2016/02/15 18:55:10] <pentagon> [10supertux] 07StarTheWorld starred 09supertux - 13https://git.io/vgQgp
+[2016/02/15 19:16:58] @ Quit: tux|dude: Ping timeout: 240 seconds
