@@ -6395,3 +6395,4 @@
 [2016/02/16 03:47:30] @ Quit: tux|dude: Ping timeout: 256 seconds
 [2016/02/16 03:50:23] @ Quit: tuxdude143: Quit: Leaving
 [2016/02/16 03:50:38] @ Quit: tuxdev_: Ping timeout: 265 seconds
+[2016/02/16 04:15:35] @ Quit: Tobbi: Remote host closed the connection
