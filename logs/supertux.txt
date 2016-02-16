@@ -6400,3 +6400,8 @@
 [2016/02/16 04:38:56] @ Mode +v Tobbi by ChanServ
 [2016/02/16 04:50:41] @ Quit: stewboy: Read error: Connection reset by peer
 [2016/02/16 05:09:44] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/16 05:10:19] @ Tobbi joined channel #supertux
+[2016/02/16 05:10:19] @ Mode +v Tobbi by ChanServ
+[2016/02/16 05:11:17] @ Tobbi_ joined channel #supertux
+[2016/02/16 05:11:17] @ Mode +v Tobbi_ by ChanServ
+[2016/02/16 05:11:21] @ Quit: Tobbi: Read error: Connection reset by peer
