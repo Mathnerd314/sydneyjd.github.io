@@ -6427,3 +6427,5 @@
 [2016/02/16 12:57:01] @ lumidify joined channel #supertux
 [2016/02/16 13:00:42] @ Tobbi joined channel #supertux
 [2016/02/16 13:00:42] @ Mode +v Tobbi by ChanServ
+[2016/02/16 13:05:40] @ Quit: paroneayea: Ping timeout: 250 seconds
+[2016/02/16 13:06:43] @ Quit: Tobbi: Remote host closed the connection
