@@ -6399,3 +6399,4 @@
 [2016/02/16 04:38:56] @ Tobbi joined channel #supertux
 [2016/02/16 04:38:56] @ Mode +v Tobbi by ChanServ
 [2016/02/16 04:50:41] @ Quit: stewboy: Read error: Connection reset by peer
+[2016/02/16 05:09:44] @ Quit: Tobbi: Remote host closed the connection
