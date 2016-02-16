@@ -6452,3 +6452,4 @@
 [2016/02/16 17:01:30] @ Quit: brmbrmcar: Ping timeout: 260 seconds
 [2016/02/16 17:02:08] @ brmbrmcar joined channel #supertux
 [2016/02/16 17:04:16] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/02/16 17:06:24] @ Quit: swift110: Remote host closed the connection
