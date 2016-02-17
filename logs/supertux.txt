@@ -6868,3 +6868,22 @@
 [2016/02/17 13:48:50] <Tobbi> Hume2: We could run the provided file server-side and check whether it results in the provided highscore.
 [2016/02/17 13:49:06] <Tobbi> leyyin: The code sanity check thingy won't run under wine.
 [2016/02/17 13:49:58] <leyyin> use champagne
+[2016/02/17 13:50:43] <Tobbi> leyyin: I googled, wondering whether it might be a fork of wine. Don't do this to me.
+[2016/02/17 13:50:53] <leyyin> :D
+[2016/02/17 13:51:02] <leyyin> Tobbi, did you see deadpool?
+[2016/02/17 13:51:10] <Tobbi> I'm setting up ZNC on my rbpi.
+[2016/02/17 13:51:14] <Tobbi> And no, I don't know deadpool.
+[2016/02/17 13:51:16] <Tobbi> What is it
+[2016/02/17 13:51:18] <Tobbi> ?
+[2016/02/17 13:51:21] <leyyin> GO AND SEE IT
+[2016/02/17 13:51:24] <leyyin> RIGHT NOW
+[2016/02/17 13:51:46] <Tobbi> leyyin: Not running right now. Runs in 30 minutes.
+[2016/02/17 13:52:14] <Tobbi> Plus, I am actually configuring ZNC.
+[2016/02/17 13:52:15] <Tobbi> So...
+[2016/02/17 13:52:27] <leyyin> rasberry pi :P
+[2016/02/17 13:52:28] <leyyin> sigh
+[2016/02/17 13:52:49] <Tobbi> leyyin: If you say sigh once more, I will kick you. This is my word.
+[2016/02/17 13:52:53] <Tobbi> :P
+[2016/02/17 13:53:09] <leyyin> you are bluffing
+[2016/02/17 13:53:12] <leyyin> sigh
+[2016/02/17 13:53:48] <leyyin> COME ON
