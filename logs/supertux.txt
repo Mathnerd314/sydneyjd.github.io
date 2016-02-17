@@ -6610,3 +6610,6 @@
 [2016/02/17 09:07:13] @ Quit: datahead8888_: Ping timeout: 240 seconds
 [2016/02/17 09:32:59] @ Tobbi joined channel #supertux
 [2016/02/17 09:32:59] @ Mode +v Tobbi by ChanServ
+[2016/02/17 09:50:23] <sydney_untangle> Tobbi: No you never netsplit.
+[2016/02/17 09:50:29] <Tobbi> Good thing.
+[2016/02/17 09:50:33] <Tobbi> Might make it happen again.
