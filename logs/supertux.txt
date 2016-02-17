@@ -6492,3 +6492,8 @@
 [2016/02/16 23:22:26] @ Quit: datahead7777: Ping timeout: 252 seconds
 [2016/02/16 23:22:59] @ irungentoo joined channel #supertux
 [2016/02/16 23:28:41] @ datahead8888 joined channel #supertux
+[2016/02/16 23:34:05] @ Quit: pentagon: Remote host closed the connection
+[2016/02/16 23:34:09] @ Quit: mteufel: Quit: ZNC 1.7.x-git-483-69b031c - http://znc.in
+[2016/02/16 23:34:14] @ pentagon joined channel #supertux
+[2016/02/16 23:34:22] @ mt joined channel #supertux
+[2016/02/16 23:34:22] @ Mode +v mt by ChanServ
