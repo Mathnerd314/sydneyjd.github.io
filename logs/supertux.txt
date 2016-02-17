@@ -7042,3 +7042,8 @@
 [2016/02/17 14:51:00] <Tobbi> Oh, let me check.
 [2016/02/17 14:54:27] <Tobbi> Okay, I didn't.
 [2016/02/17 14:54:33] <Tobbi> Yet, our sliding mechanics are annoying.
+[2016/02/17 14:55:33] <Hume2> By the way, hasn't mt said anything about cherry-picking to a 0.4.1 branch?
+[2016/02/17 14:57:31] <Tobbi> Yes, but that can be done afterwards.
+[2016/02/17 14:58:57] <Hume2> We are now 288 commits ahead from 0.4.0.
+[2016/02/17 14:59:28] <Tobbi> Hume2: Most of it is the improved parser
+[2016/02/17 14:59:49] <Hume2> That's possible.
