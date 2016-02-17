@@ -6602,3 +6602,4 @@
 [2016/02/17 07:58:54] @ Mode +v Karkus by ChanServ
 [2016/02/17 07:59:06] @ Quit: Karkus: Client Quit
 [2016/02/17 08:28:40] @ Vorpal joined channel #supertux
+[2016/02/17 08:46:39] @ Quit: Tobbi: Remote host closed the connection
