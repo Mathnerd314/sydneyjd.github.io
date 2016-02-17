@@ -6550,3 +6550,5 @@
 [2016/02/17 06:50:24] @ Quit: sydney_untangle: *.net *.split
 [2016/02/17 06:50:46] @ Yaiyan joined channel #supertux
 [2016/02/17 06:51:02] @ xnrand joined channel #supertux
+[2016/02/17 06:57:37] @ sydney_untangle joined channel #supertux
+[2016/02/17 06:57:37] @ Mode +v sydney_untangle by ChanServ
