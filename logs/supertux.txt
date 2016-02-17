@@ -7056,3 +7056,5 @@
 [2016/02/17 15:05:29] <brmbrmcar> ok
 [2016/02/17 15:06:07] <Hume2> Many addons have currently a better story than we have D:
 [2016/02/17 15:06:22] <Hume2> OK, some addons.
+[2016/02/17 15:13:41] <Tobbi> brmbrmcar: Anyone who knows how to use dict.cc will laugh at it as well.
+[2016/02/17 15:13:56] <Tobbi> Not all of them, no.
