@@ -6990,3 +6990,9 @@
 [2016/02/17 14:21:43] <brmbrmcar> To save time
 [2016/02/17 14:23:31] <brmbrmcar> It is crazily hard, but possible
 [2016/02/17 14:24:20] <brmbrmcar> Except anither part!
+[2016/02/17 14:26:31] <Tobbi> brmbrmcar: can you make the jump here? http://screencast.com/t/g0ot9ekQ
+[2016/02/17 14:26:33] <Hume2> That is impossible, isn't it?
+[2016/02/17 14:26:50] <Hume2> Tobbi: He's just fixed it.
+[2016/02/17 14:26:51] <Tobbi> I know that I can't.
+[2016/02/17 14:26:52] <Tobbi> ah.
+[2016/02/17 14:27:11] <Tobbi> Wait, no, the last paste still shows that error.
