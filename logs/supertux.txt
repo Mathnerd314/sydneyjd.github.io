@@ -6675,3 +6675,12 @@
 [2016/02/17 10:34:19] <mt> well, GSoC
 [2016/02/17 10:34:26] <Tobbi> Ah, okay.
 [2016/02/17 10:34:37] <mt> Someone might have changed things
+[2016/02/17 10:35:11] <mt> And better we suggest changes now instead of very-last-minute on Friday
+[2016/02/17 10:35:37] <Tobbi> Ah, you weren't talking about the SuperTux application, but the GSoC application. :D
+[2016/02/17 10:35:59] <mt> >_>
+[2016/02/17 10:36:00] <mt> yeah
+[2016/02/17 10:37:15] <Tobbi> http://screencast.com/t/dpMKSl2QXhiS
+[2016/02/17 10:37:43] <Tobbi> http://screencast.com/t/bEpGnD8i
+[2016/02/17 10:38:26] <Tobbi> http://screencast.com/t/KOV2W1N2Al
+[2016/02/17 10:39:14] <Tobbi> http://screencast.com/t/wELZrORBEvQ
+[2016/02/17 10:39:55] <Tobbi> http://screencast.com/t/WP4vHmuu
