@@ -6483,3 +6483,4 @@
 [2016/02/16 19:47:07] @ tomreyn joined channel #supertux
 [2016/02/16 19:52:55] @ Quit: tux|dude: Quit: Leaving
 [2016/02/16 20:31:03] @ tux|dude joined channel #supertux
+[2016/02/16 20:42:15] @ Quit: swift110: Ping timeout: 240 seconds
