@@ -6528,3 +6528,5 @@
 [2016/02/17 05:49:49] @ Quit: maths22: Changing host
 [2016/02/17 05:49:49] @ maths22 joined channel #supertux
 [2016/02/17 05:49:49] @ Mode +v maths22 by ChanServ
+[2016/02/17 05:51:02] @ 17WABTMJC joined channel #supertux
+[2016/02/17 05:51:02] @ Mode +v 17WABTMJC by ChanServ
