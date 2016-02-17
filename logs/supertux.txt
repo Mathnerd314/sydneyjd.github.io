@@ -6500,3 +6500,4 @@
 [2016/02/17 00:17:28] @ Quit: apostrophe: Ping timeout: 272 seconds
 [2016/02/17 00:24:21] @ binki joined channel #supertux
 [2016/02/17 00:29:39] @ Quit: irungentoo: Remote host closed the connection
+[2016/02/17 00:59:14] @ Quit: binki: Ping timeout: 250 seconds
