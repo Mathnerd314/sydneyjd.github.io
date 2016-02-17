@@ -7121,3 +7121,5 @@
 [2016/02/17 17:09:04] @ Karkus joined channel #supertux
 [2016/02/17 17:09:05] @ Mode +v Karkus by ChanServ
 [2016/02/17 17:09:15] @ Quit: Karkus: Remote host closed the connection
+[2016/02/17 17:14:05] <sydney_untangle> OperationGT_: :)
+[2016/02/17 17:14:45] * OperationGT_ :)
