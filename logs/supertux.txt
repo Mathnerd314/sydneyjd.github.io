@@ -7052,3 +7052,7 @@
 [2016/02/17 15:04:51] <brmbrmcar> s/tory/story/
 [2016/02/17 15:04:51] <red_bot> brmbrmcar meant: "What story?"
 [2016/02/17 15:04:56] <Hume2> The story of SuperTux.
+[2016/02/17 15:05:10] <brmbrmcar> Anyone from the UK will have lauhed at what I just wrote!
+[2016/02/17 15:05:29] <brmbrmcar> ok
+[2016/02/17 15:06:07] <Hume2> Many addons have currently a better story than we have D:
+[2016/02/17 15:06:22] <Hume2> OK, some addons.
