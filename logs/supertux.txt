@@ -6818,3 +6818,29 @@
 [2016/02/17 13:34:44] <leyyin> nope, just display this month high score or all time high scores
 [2016/02/17 13:34:49] <Tobbi> leyyin: Okay, fine.
 [2016/02/17 13:34:57] <Tobbi> Why not, sounds like a good idea.
+[2016/02/17 13:35:11] <leyyin> and give a probability for each map how fast and how many points you can get
+[2016/02/17 13:35:13] <Tobbi> We could have a combined add-on / highscore website.
+[2016/02/17 13:35:21] <Tobbi> yup.
+[2016/02/17 13:35:27] <leyyin> so that they do not go over that limit
+[2016/02/17 13:35:30] <Hume2> And what if the demo was too long? Is there any danger?
+[2016/02/17 13:36:00] <Tobbi> leyyin: We could, technically, upload a file that contains the movements...
+[2016/02/17 13:36:07] <Tobbi> eeh, I meant: Hume2
+[2016/02/17 13:36:30] <Hume2> The calculation would be too hard I guess.
+[2016/02/17 13:36:31] <mt> well, isn't that what the demo recording does?
+[2016/02/17 13:36:51] <mt> to prevent spamming the server, ratelimiting and limiting upload size is always good
+[2016/02/17 13:36:53] <Tobbi> mt: Exactly..
+[2016/02/17 13:37:01] <Hume2> Tobbi: Also the hacker could take the highscore and try similar times.
+[2016/02/17 13:37:15] <mt> that algorithm shouldn't be too hard
+[2016/02/17 13:37:26] <mt> (to write)
+[2016/02/17 13:37:38] <Tobbi> And I think it would make everything more fun.
+[2016/02/17 13:37:46] <Tobbi> When you play against the world :)
+[2016/02/17 13:37:54] <Hume2> Yeah, like limit the demot to 10 minutes or so.
+[2016/02/17 13:37:56] <mt> basically some simple sanity checks, checking velocities, maybe some hidden checkpoint lines in the levels
+[2016/02/17 13:38:15] <mt> Hume2: it's not about time; it's about file size
+[2016/02/17 13:38:35] <Hume2> You're right.
+[2016/02/17 13:38:45] <mt> and ratelimiting
+[2016/02/17 13:38:56] <leyyin> Hume2, do you like hummus?
+[2016/02/17 13:39:02] <mt> anonymous uploads shouldn't be allowed, tbh
+[2016/02/17 13:39:11] <Hume2> leyyin: No, I don't.
+[2016/02/17 13:39:20] <Hume2> It's the class enemy.
+[2016/02/17 13:39:34] <Hume2> Or shall I say classroom enemy?
