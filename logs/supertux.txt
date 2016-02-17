@@ -6946,3 +6946,23 @@
 [2016/02/17 14:06:48] <Hume2> I eat such universal food, bread.
 [2016/02/17 14:06:57] <Hume2> Not Bernd :D
 [2016/02/17 14:07:33] <Hume2> Not beacuse I can't have anything else, but my imagination is poor.
+[2016/02/17 14:10:53] <Tobbi> brmbrmcar: Your level is crazy hard.
+[2016/02/17 14:11:14] <Hume2> It's crazy impossible, I guess :D
+[2016/02/17 14:11:23] <brmbrmcar> :D
+[2016/02/17 14:11:43] <brmbrmcar> Ithink it is possible...
+[2016/02/17 14:11:48] <Hume2> 7-tiles jump is impossible in gravity 10.
+[2016/02/17 14:11:59] <brmbrmcar> OK
+[2016/02/17 14:12:07] <Hume2> Like upwards.
+[2016/02/17 14:12:41] <Hume2> Sideways it's 13 tiles, without any speed modifiers such as wind or ice.
+[2016/02/17 14:13:13] <Hume2> Assuming that 13-tiles horizontal jump is hard, but possible.
+[2016/02/17 14:13:16] <Tobbi> brmbrmcar: You *think*?
+[2016/02/17 14:13:21] <Tobbi> You haven't tried the level yourself?
+[2016/02/17 14:13:35] <brmbrmcar> it is impossible, but i fixed
+[2016/02/17 14:13:43] <brmbrmcar> mhold on
+[2016/02/17 14:13:52] <Tobbi> brmbrmcar: Create your own worldmap.
+[2016/02/17 14:13:53] <Tobbi> :D
+[2016/02/17 14:14:04] <Hume2> Hold "on" of 5 secounds:D
+[2016/02/17 14:14:19] <Hume2> This will turn off your computer.
+[2016/02/17 14:14:36] <Hume2> s/of/for/
+[2016/02/17 14:14:36] <red_bot> Hume2 meant: "This will turn forf your computer."
+[2016/02/17 14:14:43] <Tobbi> :D
