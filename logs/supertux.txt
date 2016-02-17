@@ -6537,3 +6537,7 @@
 [2016/02/17 06:04:33] @ datahead8888 joined channel #supertux
 [2016/02/17 06:04:33] @ Mode +Cntzj 5:10 by asimov.freenode.net
 [2016/02/17 06:04:42] @ Mode +v red_bot by ChanServ
+[2016/02/17 06:05:06] @ Tobbi joined channel #supertux
+[2016/02/17 06:05:07] @ Mode +v Tobbi by ChanServ
+[2016/02/17 06:07:04] @ pentagon joined channel #supertux
+[2016/02/17 06:08:28] @ Xjs|moonshine joined channel #supertux
