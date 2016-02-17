@@ -6498,3 +6498,4 @@
 [2016/02/16 23:34:22] @ mt joined channel #supertux
 [2016/02/16 23:34:22] @ Mode +v mt by ChanServ
 [2016/02/17 00:17:28] @ Quit: apostrophe: Ping timeout: 272 seconds
+[2016/02/17 00:24:21] @ binki joined channel #supertux
