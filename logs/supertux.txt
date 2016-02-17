@@ -6624,3 +6624,22 @@
 [2016/02/17 10:14:03] <Tobbi> I'm downloading libreoffice core...
 [2016/02/17 10:14:04] <Tobbi> :P
 [2016/02/17 10:14:10] <Tobbi> Quite an extensive package.
+[2016/02/17 10:15:48] <sydney_untangle> Tobbi: Yes is it quite extensive.
+[2016/02/17 10:15:58] <Tobbi> sydney_untangle: Ever downloaded it?
+[2016/02/17 10:16:09] <sydney_untangle> Tobbi: I use it on a day to day basis.
+[2016/02/17 10:16:19] <Tobbi> sydney_untangle: I am talking about the source code.
+[2016/02/17 10:16:29] <sydney_untangle> Tobbi: Not the source.
+[2016/02/17 10:16:37] <Tobbi> The source is around 2 GB.
+[2016/02/17 10:16:43] <sydney_untangle> THe main package is quite large as well.
+[2016/02/17 10:16:52] <Tobbi> That I don't care about.
+[2016/02/17 10:16:57] <Tobbi> I want to probably submit a patch.
+[2016/02/17 10:18:27] <Tobbi> hah, damn.
+[2016/02/17 10:18:35] <Tobbi> Only 264 MB available.
+[2016/02/17 10:18:35] <Tobbi> :D
+[2016/02/17 10:18:44] <Tobbi> Okay, I guess I'll use another VM for that.
+[2016/02/17 10:18:46] <sydney_untangle> Error performing TLS handshake: An unexpected TLS packet was received.
+[2016/02/17 10:18:48] <sydney_untangle> Yay...
+[2016/02/17 10:19:00] <sydney_untangle> Tobbi: :)
+[2016/02/17 10:19:14] <sydney_untangle> Tobbi: Be glad you aren't downloading 2gb on my speed. ;)
+[2016/02/17 10:19:29] <Tobbi> sydney_untangle: Your speed is greater than with this pidgin protocol thingy.
+[2016/02/17 10:19:33] <Tobbi> IP over Avian Carriers.
