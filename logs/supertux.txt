@@ -6844,3 +6844,11 @@
 [2016/02/17 13:39:11] <Hume2> leyyin: No, I don't.
 [2016/02/17 13:39:20] <Hume2> It's the class enemy.
 [2016/02/17 13:39:34] <Hume2> Or shall I say classroom enemy?
+[2016/02/17 13:42:44] <Hume2> OK, on topic.
+[2016/02/17 13:43:04] <Hume2> I didn't want to kill it with that.
+[2016/02/17 13:43:32] <Tobbi> So, we could actually sanity-check the movements...
+[2016/02/17 13:43:34] <Tobbi> That would work.
+[2016/02/17 13:43:55] <Tobbi> Oh, problem is that recordings only work before changing spawnpoint.
+[2016/02/17 13:44:15] <Tobbi> longstanding bug.
+[2016/02/17 13:44:30] <Hume2> I still can't get how the sanity checks could be provided.
+[2016/02/17 13:44:51] <Hume2> Like how to calculate the best possible time.
