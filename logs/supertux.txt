@@ -6598,3 +6598,6 @@
 [2016/02/17 07:54:06] <gynter> if a hub drops then it's kind of bad netsplit :P
 [2016/02/17 07:54:24] <Tobbi> According to MOTD, I'm on Cameron...
 [2016/02/17 07:54:28] <Tobbi> So, yeah, let's wait for that.
+[2016/02/17 07:58:54] @ Karkus joined channel #supertux
+[2016/02/17 07:58:54] @ Mode +v Karkus by ChanServ
+[2016/02/17 07:59:06] @ Quit: Karkus: Client Quit
