@@ -6584,3 +6584,17 @@
 [2016/02/17 07:38:29] @ jeezy joined channel #supertux
 [2016/02/17 07:49:22] <Tobbi> How comes I am not affected by these netsplits?
 [2016/02/17 07:49:35] <gynter> you are
+[2016/02/17 07:50:11] <gynter> other users see you splitting :)
+[2016/02/17 07:50:20] <Tobbi> Ah, okay.
+[2016/02/17 07:51:05] <gynter> netsplit occurs when node drops from the network
+[2016/02/17 07:51:49] <Tobbi> gynter: I see... According to the notice, they're apparently restarting the servers due to upgrade day.
+[2016/02/17 07:51:55] <Tobbi> So I should be disconnecting, shouldn't I?
+[2016/02/17 07:52:48] <gynter> if they restart the server node to which you are connected then yes
+[2016/02/17 07:52:54] <gynter> irc network consists of multiple server nodes
+[2016/02/17 07:53:04] <gynter> basically like high availibility thing
+[2016/02/17 07:53:14] <Tobbi> Yup, I got that.
+[2016/02/17 07:53:48] <Tobbi> They probably scheduled the update to cameron later that day.
+[2016/02/17 07:53:56] <gynter> basically it consists of nodes (servers) and hubs (a set of nodes connected together)
+[2016/02/17 07:54:06] <gynter> if a hub drops then it's kind of bad netsplit :P
+[2016/02/17 07:54:24] <Tobbi> According to MOTD, I'm on Cameron...
+[2016/02/17 07:54:28] <Tobbi> So, yeah, let's wait for that.
