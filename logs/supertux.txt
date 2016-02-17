@@ -6489,3 +6489,5 @@
 [2016/02/16 21:25:24] @ tux|dude joined channel #supertux
 [2016/02/16 21:55:54] @ tuxdev_ joined channel #supertux
 [2016/02/16 22:38:50] @ polyphagia joined channel #supertux
+[2016/02/16 23:22:26] @ Quit: datahead7777: Ping timeout: 252 seconds
+[2016/02/16 23:22:59] @ irungentoo joined channel #supertux
