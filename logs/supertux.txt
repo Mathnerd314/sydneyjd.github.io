@@ -6487,3 +6487,4 @@
 [2016/02/16 20:53:52] @ datahead7777 joined channel #supertux
 [2016/02/16 20:57:57] @ Quit: tux|dude: Quit: Leaving
 [2016/02/16 21:25:24] @ tux|dude joined channel #supertux
+[2016/02/16 21:55:54] @ tuxdev_ joined channel #supertux
