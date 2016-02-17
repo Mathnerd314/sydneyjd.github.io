@@ -7129,3 +7129,7 @@
 [2016/02/17 17:24:56] @ Quit: OperationGT_: Quit: Leaving
 [2016/02/17 17:32:28] @ Tobbi_ joined channel #supertux
 [2016/02/17 17:32:28] @ Mode +v Tobbi_ by ChanServ
+[2016/02/17 17:45:04] @ Quit: Tobbi: Quit: ZNC - http://znc.in
+[2016/02/17 17:45:51] @ Tobbi joined channel #supertux
+[2016/02/17 17:46:02] @ Quit: Tobbi: Client Quit
+[2016/02/17 17:47:21] @ Tobbi joined channel #supertux
