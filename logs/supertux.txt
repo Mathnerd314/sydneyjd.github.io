@@ -7141,3 +7141,7 @@
 [2016/02/17 18:01:36] @ Mode +v Tobbi by ChanServ
 [2016/02/17 18:03:07] @ Quit: Tobbi_: 
 [2016/02/17 18:07:37] @ tux|dude joined channel #supertux
+[2016/02/17 18:15:25] @ test__ joined channel #supertux
+[2016/02/17 18:15:32] <test__> this is a test (tobbi)
+[2016/02/17 18:15:37] @ test__ left channel #supertux ()
+[2016/02/17 18:16:10] <Tobbi> yeah, that works as well.
