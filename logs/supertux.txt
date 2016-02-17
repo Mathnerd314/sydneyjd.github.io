@@ -7070,3 +7070,7 @@
 [2016/02/17 15:21:45] <brmbrmcar> Biggest pull request ever!
 [2016/02/17 15:21:59] <Tobbi> Hume2: We won't. We need a better way to design worldmaps, though.
 [2016/02/17 15:22:57] <Hume2> I'll need some forest cave levels and ghostforest levels, so if you made any, you are welcome.
+[2016/02/17 15:29:28] <sydney_untangle> Tobbi: Unless you are using screen or something, if you dissconnect from a running ssh session, yes the programs will quit IIRC.
+[2016/02/17 15:29:40] <Tobbi> sydney_untangle: Okay.
+[2016/02/17 15:29:47] <sydney_untangle> Tobbi: I use screen all the time for that sort of thing. Im talking to you through screen.
+[2016/02/17 15:30:01] <Tobbi> sydney_untangle: Yeah, whatever. I'm setting up whatever this is.
