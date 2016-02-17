@@ -7127,3 +7127,5 @@
 [2016/02/17 17:15:45] <Tobbi> Suddenly, it reconnected me.
 [2016/02/17 17:16:18] <Tobbi> let's see...
 [2016/02/17 17:24:56] @ Quit: OperationGT_: Quit: Leaving
+[2016/02/17 17:32:28] @ Tobbi_ joined channel #supertux
+[2016/02/17 17:32:28] @ Mode +v Tobbi_ by ChanServ
