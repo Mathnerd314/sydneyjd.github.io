@@ -7108,3 +7108,10 @@
 [2016/02/17 16:38:30] @ Tobbi_ joined channel #supertux
 [2016/02/17 16:38:30] @ Mode +v Tobbi_ by ChanServ
 [2016/02/17 16:39:17] @ Quit: Tobbi_: Client Quit
+[2016/02/17 16:40:15] @ Quit: tux|dude: Quit: Leaving
+[2016/02/17 16:41:01] @ Quit: claymore2: Quit: Leaving
+[2016/02/17 16:42:30] @ stewboy joined channel #supertux
+[2016/02/17 16:44:04] @ Tobbi_ joined channel #supertux
+[2016/02/17 16:44:04] @ Mode +v Tobbi_ by ChanServ
+[2016/02/17 16:44:05] @ Quit: Tobbi_: Client Quit
+[2016/02/17 16:44:08] * OperationGT_ is playing supertux
