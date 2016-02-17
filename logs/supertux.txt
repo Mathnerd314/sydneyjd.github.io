@@ -6616,3 +6616,11 @@
 [2016/02/17 10:02:59] <mt> if you're wondering why the netsplits happened: glibc upgrade day (don't forget to do that, if you haven't done yet)
 [2016/02/17 10:07:28] <sydney_untangle> mt: Already done.
 [2016/02/17 10:08:37] <Tobbi> I don't know anything about glibc.
+[2016/02/17 10:10:03] <mt> It's GNU's C standard library :>
+[2016/02/17 10:10:16] <Tobbi> mt: That much I do know.
+[2016/02/17 10:10:22] <mt> I'd hope you know what a C standard library is
+[2016/02/17 10:10:56] <Tobbi> mt: Yeah, it comes right after the A and B standard libs.
+[2016/02/17 10:11:19] <mt> so basically it's a pretty normal C standard library, but with all of Stallman's insecure and sillyly licensed code
+[2016/02/17 10:14:03] <Tobbi> I'm downloading libreoffice core...
+[2016/02/17 10:14:04] <Tobbi> :P
+[2016/02/17 10:14:10] <Tobbi> Quite an extensive package.
