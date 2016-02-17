@@ -6654,3 +6654,5 @@
 [2016/02/17 10:24:15] <Tobbi> :P
 [2016/02/17 10:24:23] <sydney_untangle> I've got some wild pidgins in our barn i can give you. They poop everywhere. :p
 [2016/02/17 10:24:31] <Tobbi> Uhm, no thanks.
+[2016/02/17 10:29:09] <mt> would have to be a drive with a very big capacity to be actually faster than the internet
+[2016/02/17 10:29:53] <mt> undersea cables usually are multiple Tbit/s
