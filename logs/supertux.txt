@@ -7047,3 +7047,8 @@
 [2016/02/17 14:58:57] <Hume2> We are now 288 commits ahead from 0.4.0.
 [2016/02/17 14:59:28] <Tobbi> Hume2: Most of it is the improved parser
 [2016/02/17 14:59:49] <Hume2> That's possible.
+[2016/02/17 15:04:11] <Hume2> OK, who all here want's to participate in designing the story?
+[2016/02/17 15:04:41] <brmbrmcar> What tory?
+[2016/02/17 15:04:51] <brmbrmcar> s/tory/story/
+[2016/02/17 15:04:51] <red_bot> brmbrmcar meant: "What story?"
+[2016/02/17 15:04:56] <Hume2> The story of SuperTux.
