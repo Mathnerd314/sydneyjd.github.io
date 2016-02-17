@@ -6603,3 +6603,6 @@
 [2016/02/17 07:59:06] @ Quit: Karkus: Client Quit
 [2016/02/17 08:28:40] @ Vorpal joined channel #supertux
 [2016/02/17 08:46:39] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/17 08:50:34] @ Quit: VargaD: *.net *.split
+[2016/02/17 08:51:32] @ Quit: snadge: Quit: ZNC - http://znc.in
+[2016/02/17 08:51:59] @ snadge joined channel #supertux
