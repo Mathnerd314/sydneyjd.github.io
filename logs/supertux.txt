@@ -6719,3 +6719,4 @@
 [2016/02/17 11:08:06] <Tobbi> Because, mentoring is a huge time commitment.
 [2016/02/17 11:08:59] @ Quit: datahead8888: Quit: Leaving
 [2016/02/17 11:09:45] <mt> then don't be a mentor?
+[2016/02/17 11:10:03] <Tobbi> mt: No, it's fine. I will mentor...I like to see SuperTux improve.
