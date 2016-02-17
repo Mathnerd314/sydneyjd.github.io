@@ -6804,3 +6804,17 @@
 [2016/02/17 13:29:37] <leyyin> I am soo liked
 [2016/02/17 13:29:43] <Tobbi> :D
 [2016/02/17 13:29:44] <Tobbi> haha
+[2016/02/17 13:30:28] <Hume2> Maybe if it sent a demo to the server, it could work.
+[2016/02/17 13:30:46] <Hume2> Then the server would try the demo and look whether it works.
+[2016/02/17 13:32:28] <Hume2> OK, so if a studant had enough nerves to do that…
+[2016/02/17 13:32:39] <Hume2> *student
+[2016/02/17 13:32:50] <Tobbi> We could also clear the stats after each month.
+[2016/02/17 13:32:59] <Hume2> +1
+[2016/02/17 13:33:04] <Tobbi> Because it just gets boring when you don't have a chance to beat the highscore.
+[2016/02/17 13:33:12] <Hume2> Yeah.
+[2016/02/17 13:33:28] <Tobbi> mt, leyyin: ^^ ?
+[2016/02/17 13:33:40] <Hume2> Try to beat 9.20s in Owls' revenge. :P
+[2016/02/17 13:34:31] <leyyin> clear the highscores every month?
+[2016/02/17 13:34:44] <leyyin> nope, just display this month high score or all time high scores
+[2016/02/17 13:34:49] <Tobbi> leyyin: Okay, fine.
+[2016/02/17 13:34:57] <Tobbi> Why not, sounds like a good idea.
