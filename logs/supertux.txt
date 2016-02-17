@@ -6482,3 +6482,4 @@
 [2016/02/16 19:45:09] @ Quit: tomreyn: Quit: $Famous_last_words
 [2016/02/16 19:47:07] @ tomreyn joined channel #supertux
 [2016/02/16 19:52:55] @ Quit: tux|dude: Quit: Leaving
+[2016/02/16 20:31:03] @ tux|dude joined channel #supertux
