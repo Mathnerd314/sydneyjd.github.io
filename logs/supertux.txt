@@ -6713,3 +6713,5 @@
 [2016/02/17 10:53:38] @ Quit: xnrand: Max SendQ exceeded
 [2016/02/17 10:53:51] @ xnrand joined channel #supertux
 [2016/02/17 10:56:09] @ datahead8888 joined channel #supertux
+[2016/02/17 11:03:54] @ Mathnerd314 joined channel #supertux
+[2016/02/17 11:03:54] @ Mode +v Mathnerd314 by ChanServ
