@@ -6996,3 +6996,14 @@
 [2016/02/17 14:26:51] <Tobbi> I know that I can't.
 [2016/02/17 14:26:52] <Tobbi> ah.
 [2016/02/17 14:27:11] <Tobbi> Wait, no, the last paste still shows that error.
+[2016/02/17 14:31:53] <Hume2> brmbrmcar: The jump at the end is still impossible.
+[2016/02/17 14:32:01] <brmbrmcar> I thought so
+[2016/02/17 14:32:08] <Hume2> Tobbi: Do you really have https://paste.kde.org/paicamy7q ?
+[2016/02/17 14:32:23] <Tobbi> Hume2: maybe not.
+[2016/02/17 14:32:56] <Tobbi> No, I probably saved under the wrong name.
+[2016/02/17 14:32:56] @ lumidify joined channel #supertux
+[2016/02/17 14:32:56] @ Quit: lumidify: Changing host
+[2016/02/17 14:32:56] @ lumidify joined channel #supertux
+[2016/02/17 14:33:45] <Hume2> Narre tried to play my levels for my proposed addon and he couldn't pass a single level. It looks like It'll be a hard addon.
+[2016/02/17 14:34:53] <brmbrmcar> ok
+[2016/02/17 14:34:54] <brmbrmcar> :D
