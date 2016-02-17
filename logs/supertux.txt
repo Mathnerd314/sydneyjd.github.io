@@ -7082,3 +7082,7 @@
 [2016/02/17 15:45:04] @ tux|dude joined channel #supertux
 [2016/02/17 15:45:53] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vgA1q
 [2016/02/17 15:45:55] <pentagon> [10supertux] 07tobbi 14c8250ab Add switch to display player's position
+[2016/02/17 15:50:42] <brmbrmcar> Since when did the default keys become qsad?
+[2016/02/17 15:50:50] * brmbrmcar is not impressed
+[2016/02/17 15:52:08] @ tobbi_ joined channel #supertux
+[2016/02/17 15:53:00] <Tobbi> Ah!
