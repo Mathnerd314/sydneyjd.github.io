@@ -6720,3 +6720,7 @@
 [2016/02/17 11:08:59] @ Quit: datahead8888: Quit: Leaving
 [2016/02/17 11:09:45] <mt> then don't be a mentor?
 [2016/02/17 11:10:03] <Tobbi> mt: No, it's fine. I will mentor...I like to see SuperTux improve.
+[2016/02/17 11:22:19] <Tobbi> I haven't seen brmbrmcar in a while.
+[2016/02/17 11:24:48] <Tobbi> Also, he did this: https://www.youtube.com/watch?v=5QI0or2Crs8 :D
+[2016/02/17 11:24:49] <sydney_untangle> Tobbi: Do you want to? :)
+[2016/02/17 11:24:57] <Tobbi> sydney_untangle: His level is interesting.
