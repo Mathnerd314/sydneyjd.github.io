@@ -6966,3 +6966,18 @@
 [2016/02/17 14:14:36] <Hume2> s/of/for/
 [2016/02/17 14:14:36] <red_bot> Hume2 meant: "This will turn forf your computer."
 [2016/02/17 14:14:43] <Tobbi> :D
+[2016/02/17 14:15:04] <brmbrmcar> https://paste.kde.org/psiksuotc
+[2016/02/17 14:15:25] <brmbrmcar> Possible now?
+[2016/02/17 14:15:35] * Hume2 tries
+[2016/02/17 14:17:14] <Tobbi> I have no idea how to make that other jump.
+[2016/02/17 14:17:22] <Hume2> The same here.
+[2016/02/17 14:17:29] <brmbrmcar> Which one?
+[2016/02/17 14:17:37] <Hume2> That overhang.
+[2016/02/17 14:17:52] <Tobbi> yup.
+[2016/02/17 14:17:58] <brmbrmcar> OK
+[2016/02/17 14:18:15] <Tobbi> Hume2: We don't have a way to display Tux's position, do we?
+[2016/02/17 14:18:23] <Tobbi> We should have a way.
+[2016/02/17 14:18:26] <Hume2> whereami()
+[2016/02/17 14:18:32] <Tobbi> Ah, okay.
+[2016/02/17 14:19:28] @ Quit: lumidify: Ping timeout: 255 seconds
+[2016/02/17 14:19:58] <Hume2> It looks like it doesn't work for me though.
