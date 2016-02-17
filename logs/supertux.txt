@@ -6541,3 +6541,4 @@
 [2016/02/17 06:05:07] @ Mode +v Tobbi by ChanServ
 [2016/02/17 06:07:04] @ pentagon joined channel #supertux
 [2016/02/17 06:08:28] @ Xjs|moonshine joined channel #supertux
+[2016/02/17 06:12:20] @ Quit: snadge: *.net *.split
