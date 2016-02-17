@@ -7007,3 +7007,15 @@
 [2016/02/17 14:33:45] <Hume2> Narre tried to play my levels for my proposed addon and he couldn't pass a single level. It looks like It'll be a hard addon.
 [2016/02/17 14:34:53] <brmbrmcar> ok
 [2016/02/17 14:34:54] <brmbrmcar> :D
+[2016/02/17 14:35:20] <Hume2> Well, he managed to pass one jungle level.
+[2016/02/17 14:36:19] <brmbrmcar> https://paste.kde.org/pn0yvoplv
+[2016/02/17 14:36:23] <brmbrmcar> POssible!
+[2016/02/17 14:36:26] <brmbrmcar> woohoo!
+[2016/02/17 14:36:45] * Hume2 tries
+[2016/02/17 14:38:01] @ Quit: Tobbi: Ping timeout: 240 seconds
+[2016/02/17 14:38:31] @ Tobbi joined channel #supertux
+[2016/02/17 14:38:32] @ Mode +v Tobbi by ChanServ
+[2016/02/17 14:38:40] <Hume2> Achievement get: Make a finishable level.
+[2016/02/17 14:39:20] <brmbrmcar> Yay!
+[2016/02/17 14:39:32] <Hume2> Tobbi: I assume that we still accept any finishable levels for addons.
+[2016/02/17 14:39:52] <Tobbi> My mac just restarted.
