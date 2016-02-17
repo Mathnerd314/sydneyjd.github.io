@@ -6656,3 +6656,22 @@
 [2016/02/17 10:24:31] <Tobbi> Uhm, no thanks.
 [2016/02/17 10:29:09] <mt> would have to be a drive with a very big capacity to be actually faster than the internet
 [2016/02/17 10:29:53] <mt> undersea cables usually are multiple Tbit/s
+[2016/02/17 10:30:02] <Tobbi> mt: He was talking about his internet.
+[2016/02/17 10:30:31] <Tobbi> Also, only TBit/s? I thought, we'd be at PBit/s by now.
+[2016/02/17 10:31:13] <sydney_untangle> Tobbi: Who knows...
+[2016/02/17 10:31:27] <Tobbi> sydney_untangle: mt does, he knows everything.
+[2016/02/17 10:31:37] * sydney_untangle ...
+[2016/02/17 10:32:03] <sydney_untangle> Tobbi: What my siblings have tested so far of M2 seems good, no bugs yet. :)
+[2016/02/17 10:32:19] <sydney_untangle> And they have played a ton of supertux recently.
+[2016/02/17 10:32:30] <mt> we have many bugs in 0.4
+[2016/02/17 10:32:37] <mt> we need to release 0.4.1
+[2016/02/17 10:32:44] <mt> esp. the windows bugs
+[2016/02/17 10:33:14] <mt> oh, now would be the time to revise our GSoC data
+[2016/02/17 10:33:18] <sydney_untangle> Well, maybe on windows, im just not seeing many on linux.
+[2016/02/17 10:33:37] <mt> Tobbi: can you post a screenshot with the current application content?
+[2016/02/17 10:33:49] <Tobbi> mt: Application content?
+[2016/02/17 10:34:12] <Tobbi> of SuperTux?
+[2016/02/17 10:34:14] <Tobbi> Also, what for?
+[2016/02/17 10:34:19] <mt> well, GSoC
+[2016/02/17 10:34:26] <Tobbi> Ah, okay.
+[2016/02/17 10:34:37] <mt> Someone might have changed things
