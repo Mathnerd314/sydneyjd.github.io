@@ -6613,3 +6613,4 @@
 [2016/02/17 09:50:23] <sydney_untangle> Tobbi: No you never netsplit.
 [2016/02/17 09:50:29] <Tobbi> Good thing.
 [2016/02/17 09:50:33] <Tobbi> Might make it happen again.
+[2016/02/17 10:02:59] <mt> if you're wondering why the netsplits happened: glibc upgrade day (don't forget to do that, if you haven't done yet)
