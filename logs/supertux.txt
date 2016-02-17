@@ -6521,3 +6521,4 @@
 [2016/02/17 05:03:40] @ Quit: jeezy: *.net *.split
 [2016/02/17 05:04:02] @ paroneayea joined channel #supertux
 [2016/02/17 05:05:15] @ jeexy joined channel #supertux
+[2016/02/17 05:20:35] @ Quit: Tobbi: Remote host closed the connection
