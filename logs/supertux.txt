@@ -7065,3 +7065,8 @@
 [2016/02/17 15:19:35] <Tobbi> Hume2: Do what suits you mosty.
 [2016/02/17 15:19:36] @ lumidify joined channel #supertux
 [2016/02/17 15:19:38] <Tobbi> *most
+[2016/02/17 15:20:45] <Hume2> That way I could remake the forest world and make a PR.
+[2016/02/17 15:21:38] <Hume2> And please don't complain that the only contributor would be me if anyone else was willing to contribute.
+[2016/02/17 15:21:45] <brmbrmcar> Biggest pull request ever!
+[2016/02/17 15:21:59] <Tobbi> Hume2: We won't. We need a better way to design worldmaps, though.
+[2016/02/17 15:22:57] <Hume2> I'll need some forest cave levels and ghostforest levels, so if you made any, you are welcome.
