@@ -6981,3 +6981,12 @@
 [2016/02/17 14:18:32] <Tobbi> Ah, okay.
 [2016/02/17 14:19:28] @ Quit: lumidify: Ping timeout: 255 seconds
 [2016/02/17 14:19:58] <Hume2> It looks like it doesn't work for me though.
+[2016/02/17 14:20:02] <brmbrmcar> Argh!
+[2016/02/17 14:20:05] <brmbrmcar> I know!
+[2016/02/17 14:20:12] <Tobbi> Hume2: not from the console.
+[2016/02/17 14:20:40] <Hume2> Yeah, maybe that's it.
+[2016/02/17 14:21:26] <brmbrmcar> Here! https://paste.kde.org/paicamy7q
+[2016/02/17 14:21:39] <brmbrmcar> Now I'll try ghosting myself again.
+[2016/02/17 14:21:43] <brmbrmcar> To save time
+[2016/02/17 14:23:31] <brmbrmcar> It is crazily hard, but possible
+[2016/02/17 14:24:20] <brmbrmcar> Except anither part!
