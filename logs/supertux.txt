@@ -6715,3 +6715,7 @@
 [2016/02/17 10:56:09] @ datahead8888 joined channel #supertux
 [2016/02/17 11:03:54] @ Mathnerd314 joined channel #supertux
 [2016/02/17 11:03:54] @ Mode +v Mathnerd314 by ChanServ
+[2016/02/17 11:07:36] <Tobbi> mt: A part of me hopes we don't get accepted.
+[2016/02/17 11:08:06] <Tobbi> Because, mentoring is a huge time commitment.
+[2016/02/17 11:08:59] @ Quit: datahead8888: Quit: Leaving
+[2016/02/17 11:09:45] <mt> then don't be a mentor?
