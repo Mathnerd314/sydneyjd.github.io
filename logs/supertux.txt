@@ -7126,3 +7126,4 @@
 [2016/02/17 17:15:40] <Tobbi> Uhm.
 [2016/02/17 17:15:45] <Tobbi> Suddenly, it reconnected me.
 [2016/02/17 17:16:18] <Tobbi> let's see...
+[2016/02/17 17:24:56] @ Quit: OperationGT_: Quit: Leaving
