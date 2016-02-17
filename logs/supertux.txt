@@ -6545,3 +6545,8 @@
 [2016/02/17 06:39:55] @ Quit: 17WABTMJC: *.net *.split
 [2016/02/17 06:40:59] @ octo_ joined channel #supertux
 [2016/02/17 06:40:59] @ Mode +v octo_ by ChanServ
+[2016/02/17 06:50:21] @ Quit: Yaiyan: *.net *.split
+[2016/02/17 06:50:24] @ Quit: xnrand: *.net *.split
+[2016/02/17 06:50:24] @ Quit: sydney_untangle: *.net *.split
+[2016/02/17 06:50:46] @ Yaiyan joined channel #supertux
+[2016/02/17 06:51:02] @ xnrand joined channel #supertux
