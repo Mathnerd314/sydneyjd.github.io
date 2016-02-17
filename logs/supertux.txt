@@ -7101,3 +7101,10 @@
 [2016/02/17 16:31:46] <Tobbi> Seems to be fine.
 [2016/02/17 16:31:58] <Tobbi> Except that it doesn't voice me automatically.
 [2016/02/17 16:33:51] <pentagon> [10supertux] Status for commit Add switch to display player's position by 07Tobias Markus: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/392
+[2016/02/17 16:37:04] @ Quit: Tobbi: Changing host
+[2016/02/17 16:37:05] @ Tobbi joined channel #supertux
+[2016/02/17 16:37:05] @ Mode +v Tobbi by ChanServ
+[2016/02/17 16:37:05] <Tobbi> Ah.
+[2016/02/17 16:38:30] @ Tobbi_ joined channel #supertux
+[2016/02/17 16:38:30] @ Mode +v Tobbi_ by ChanServ
+[2016/02/17 16:39:17] @ Quit: Tobbi_: Client Quit
