@@ -6752,3 +6752,7 @@
 [2016/02/17 12:39:24] @ Mode +v mt by ChanServ
 [2016/02/17 12:40:06] @ xnrand joined channel #supertux
 [2016/02/17 13:07:05] <Hume2> Hello
+[2016/02/17 13:10:29] <Tobbi> Hello, Hume2.
+[2016/02/17 13:12:38] <brmbrmcar> How is a fading tilemap scripted?
+[2016/02/17 13:14:55] <Tobbi> brmbrmcar: phew. I don't know. Check the docs.
+[2016/02/17 13:14:58] <Hume2> brmbrmcar: fade(<new_alpha>,<time>)
