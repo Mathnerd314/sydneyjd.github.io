@@ -6769,3 +6769,11 @@
 [2016/02/17 13:18:55] <Tobbi> :D
 [2016/02/17 13:19:13] <Tobbi> Hume2: You shouldn't have told him. It's dangerous knowledge in the hands of brmbrmcar.
 [2016/02/17 13:19:49] <Hume2> :D
+[2016/02/17 13:20:21] <Hume2> Tobbi: What could happen? Disco levels?
+[2016/02/17 13:20:46] <Tobbi> Hume2: Don't ask me, ask him... :D
+[2016/02/17 13:23:30] <Hume2> My best time in the level "Owls' revenge" is 9.20s.
+[2016/02/17 13:23:56] <Hume2> Narre's best time is 9.21s :P
+[2016/02/17 13:24:35] <Tobbi> mt: Should we add a "highscore server" idea to GSoC projects_
+[2016/02/17 13:24:36] <Tobbi> ?
+[2016/02/17 13:24:48] <Tobbi> We could share highscores on a server for others to beat.
+[2016/02/17 13:25:01] <Hume2> Heckers welcome!
