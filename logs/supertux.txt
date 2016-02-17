@@ -6582,3 +6582,5 @@
 [2016/02/17 07:38:28] @ jeexy is now known as jeezy
 [2016/02/17 07:38:29] @ Quit: jeezy: Changing host
 [2016/02/17 07:38:29] @ jeezy joined channel #supertux
+[2016/02/17 07:49:22] <Tobbi> How comes I am not affected by these netsplits?
+[2016/02/17 07:49:35] <gynter> you are
