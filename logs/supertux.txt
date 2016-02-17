@@ -6517,3 +6517,6 @@
 [2016/02/17 04:07:18] @ leyyin joined channel #supertux
 [2016/02/17 04:08:50] @ Tobbi joined channel #supertux
 [2016/02/17 04:08:50] @ Mode +v Tobbi by ChanServ
+[2016/02/17 05:03:38] @ Quit: paroneayea: *.net *.split
+[2016/02/17 05:03:40] @ Quit: jeezy: *.net *.split
+[2016/02/17 05:04:02] @ paroneayea joined channel #supertux
