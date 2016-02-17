@@ -7136,3 +7136,7 @@
 [2016/02/17 17:58:44] @ Quit: Tobbi: Quit: ZNC - http://znc.in
 [2016/02/17 17:58:58] @ Tobbi joined channel #supertux
 [2016/02/17 17:58:58] @ Mode +v Tobbi by ChanServ
+[2016/02/17 18:01:24] @ Quit: Tobbi: Client Quit
+[2016/02/17 18:01:36] @ Tobbi joined channel #supertux
+[2016/02/17 18:01:36] @ Mode +v Tobbi by ChanServ
+[2016/02/17 18:03:07] @ Quit: Tobbi_: 
