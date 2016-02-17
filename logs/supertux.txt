@@ -6478,3 +6478,4 @@
 [2016/02/16 18:48:17] @ jeezy joined channel #supertux
 [2016/02/16 19:20:39] @ paroneayea joined channel #supertux
 [2016/02/16 19:29:34] @ Quit: tuxdude143: Quit: Leaving
+[2016/02/16 19:44:27] @ tux|dude joined channel #supertux
