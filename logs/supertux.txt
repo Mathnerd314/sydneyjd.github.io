@@ -7115,3 +7115,5 @@
 [2016/02/17 16:44:04] @ Mode +v Tobbi_ by ChanServ
 [2016/02/17 16:44:05] @ Quit: Tobbi_: Client Quit
 [2016/02/17 16:44:08] * OperationGT_ is playing supertux
+[2016/02/17 16:56:00] @ tux|dude joined channel #supertux
+[2016/02/17 16:58:43] @ Quit: tux|dude: Read error: Connection reset by peer
