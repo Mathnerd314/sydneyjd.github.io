@@ -7094,3 +7094,5 @@
 [2016/02/17 16:16:23] @ tobbi_ is now known as tobbi
 [2016/02/17 16:17:14] @ Quit: OperationGT: Ping timeout: 265 seconds
 [2016/02/17 16:21:57] @ tobbi is now known as Tobbi
+[2016/02/17 16:27:06] @ Tobbi left channel #supertux ("Leaving...")
+[2016/02/17 16:27:06] @ Tobbi joined channel #supertux
