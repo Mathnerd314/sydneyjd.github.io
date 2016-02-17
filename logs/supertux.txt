@@ -6567,3 +6567,14 @@
 [2016/02/17 07:25:42] @ tuxdev joined channel #supertux
 [2016/02/17 07:25:46] @ polyphagia joined channel #supertux
 [2016/02/17 07:27:16] @ pentagon joined channel #supertux
+[2016/02/17 07:32:06] @ mteufel joined channel #supertux
+[2016/02/17 07:32:06] @ Mode +v mteufel by ChanServ
+[2016/02/17 07:32:12] @ Quit: Xjs|moonshine: *.net *.split
+[2016/02/17 07:32:15] @ Quit: datahead8888: *.net *.split
+[2016/02/17 07:32:25] @ Quit: brmbrmcar: *.net *.split
+[2016/02/17 07:32:26] @ Quit: mt: *.net *.split
+[2016/02/17 07:32:40] @ Quit: mteufel: Excess Flood
+[2016/02/17 07:32:41] @ datahead8888_ joined channel #supertux
+[2016/02/17 07:33:13] @ mt joined channel #supertux
+[2016/02/17 07:33:13] @ Mode +v mt by ChanServ
+[2016/02/17 07:33:37] @ Xjs|moonshine joined channel #supertux
