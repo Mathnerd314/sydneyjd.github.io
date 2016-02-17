@@ -6522,3 +6522,9 @@
 [2016/02/17 05:04:02] @ paroneayea joined channel #supertux
 [2016/02/17 05:05:15] @ jeexy joined channel #supertux
 [2016/02/17 05:20:35] @ Quit: Tobbi: Remote host closed the connection
+[2016/02/17 05:49:31] @ Quit: maths22: *.net *.split
+[2016/02/17 05:49:32] @ Quit: octo: *.net *.split
+[2016/02/17 05:49:49] @ maths22 joined channel #supertux
+[2016/02/17 05:49:49] @ Quit: maths22: Changing host
+[2016/02/17 05:49:49] @ maths22 joined channel #supertux
+[2016/02/17 05:49:49] @ Mode +v maths22 by ChanServ
