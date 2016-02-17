@@ -6747,3 +6747,6 @@
 [2016/02/17 12:01:08] @ Mode +v Hume2 by ChanServ
 [2016/02/17 12:05:45] @ Quit: tuxdev_: Ping timeout: 244 seconds
 [2016/02/17 12:34:08] @ Quit: mt: Quit: ZNC 1.7.x-git-483-69b031c - http://znc.in
+[2016/02/17 12:36:01] @ Quit: xnrand: Ping timeout: 240 seconds
+[2016/02/17 12:39:24] @ mt joined channel #supertux
+[2016/02/17 12:39:24] @ Mode +v mt by ChanServ
