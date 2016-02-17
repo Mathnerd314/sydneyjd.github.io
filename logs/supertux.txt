@@ -6709,3 +6709,6 @@
 [2016/02/17 10:49:28] <Tobbi> mt: Was just thinking that it might improve our chances...
 [2016/02/17 10:49:33] <Tobbi> Since it's Google.
 [2016/02/17 10:49:47] <mt> Don't think that makes a big difference
+[2016/02/17 10:50:46] <Tobbi> ok
+[2016/02/17 10:53:38] @ Quit: xnrand: Max SendQ exceeded
+[2016/02/17 10:53:51] @ xnrand joined channel #supertux
