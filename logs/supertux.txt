@@ -6684,3 +6684,16 @@
 [2016/02/17 10:38:26] <Tobbi> http://screencast.com/t/KOV2W1N2Al
 [2016/02/17 10:39:14] <Tobbi> http://screencast.com/t/wELZrORBEvQ
 [2016/02/17 10:39:55] <Tobbi> http://screencast.com/t/WP4vHmuu
+[2016/02/17 10:40:29] <Tobbi> http://screencast.com/t/9NwO3XOIA
+[2016/02/17 10:40:55] <Tobbi> http://screencast.com/t/9NwO3XOIA
+[2016/02/17 10:40:59] <Tobbi> http://screencast.com/t/GjMBQ1cBnMi7
+[2016/02/17 10:41:09] <Tobbi> So, that|s it.
+[2016/02/17 10:42:11] <mt> might want to add something about the web thing to tags
+[2016/02/17 10:42:26] <mt> (proposal tags)
+[2016/02/17 10:42:49] <Tobbi> mt: Yeah, though no idea.
+[2016/02/17 10:43:11] <mt> "web application" oslt
+[2016/02/17 10:43:54] <Tobbi> mt: Only max 5 technology tags are allowed.
+[2016/02/17 10:43:58] <mt> or "online integration"
+[2016/02/17 10:44:04] <mt> *proposal* tags
+[2016/02/17 10:44:11] <Tobbi> Or did you mean topic tags?
+[2016/02/17 10:44:46] <Tobbi> I can swap some of those topics.
