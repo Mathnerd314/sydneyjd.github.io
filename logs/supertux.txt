@@ -6511,3 +6511,4 @@
 [2016/02/17 02:49:32] @ lumidify joined channel #supertux
 [2016/02/17 03:21:47] @ Quit: lumidify: Ping timeout: 264 seconds
 [2016/02/17 03:34:05] @ Quit: brmbrmcar: Remote host closed the connection
+[2016/02/17 03:35:35] @ brmbrmcar joined channel #supertux
