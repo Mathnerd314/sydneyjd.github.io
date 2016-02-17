@@ -6777,3 +6777,30 @@
 [2016/02/17 13:24:36] <Tobbi> ?
 [2016/02/17 13:24:48] <Tobbi> We could share highscores on a server for others to beat.
 [2016/02/17 13:25:01] <Hume2> Heckers welcome!
+[2016/02/17 13:25:04] <mt> needs some algo to calculate the plausibility of a highscore
+[2016/02/17 13:25:10] <Tobbi> Oh, right.
+[2016/02/17 13:25:22] <Tobbi> mt: But that would be a fun project, wouldn't it?
+[2016/02/17 13:25:41] <mt> yes
+[2016/02/17 13:26:00] <Tobbi> So, let's add it :)
+[2016/02/17 13:26:11] <leyyin> I will be first place anyway :P
+[2016/02/17 13:26:21] <Hume2> The detector of level finishability :)
+[2016/02/17 13:26:36] <leyyin> Tobbi, did you ever try http://www.viva64.com/en/pvs-studio/ ?
+[2016/02/17 13:26:43] <leyyin> I heard it is quite good
+[2016/02/17 13:26:54] <Tobbi> oh.
+[2016/02/17 13:27:00] <Tobbi> leyyin: No, I didn't.
+[2016/02/17 13:27:13] <Tobbi> leyyin: Does it look like I want to spend money on something like this?
+[2016/02/17 13:27:40] <leyyin> has a free trial
+[2016/02/17 13:27:43] <mt> the problem is always: even if we use an algorithm to detect if it's faked data, others can just look at the source code to see how to make it look like real data
+[2016/02/17 13:27:49] <leyyin> and cough, the sea mates
+[2016/02/17 13:28:22] <mt> even a replay/demo recording could be faked
+[2016/02/17 13:28:23] <Hume2> Free trial, like trial for free, all lawyers included? :D
+[2016/02/17 13:28:47] <Tobbi> mt: Can't we create a hash based on current time?
+[2016/02/17 13:28:54] <Tobbi> And stuff like that...to make it hard?
+[2016/02/17 13:29:01] <leyyin> Tobbi, not hard for me :P
+[2016/02/17 13:29:07] <Tobbi> leyyin: stfu.
+[2016/02/17 13:29:12] <leyyin> security by obfuscation is not security
+[2016/02/17 13:29:25] <Tobbi> leyyin: Other suggestions then?
+[2016/02/17 13:29:34] <leyyin> Tobbi, someone told me "stfu" just 2 minutes ago :D
+[2016/02/17 13:29:37] <leyyin> I am soo liked
+[2016/02/17 13:29:43] <Tobbi> :D
+[2016/02/17 13:29:44] <Tobbi> haha
