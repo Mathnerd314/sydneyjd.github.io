@@ -7145,3 +7145,4 @@
 [2016/02/17 18:15:32] <test__> this is a test (tobbi)
 [2016/02/17 18:15:37] @ test__ left channel #supertux ()
 [2016/02/17 18:16:10] <Tobbi> yeah, that works as well.
+[2016/02/17 18:22:29] @ Quit: tux|dude: Quit: Leaving
