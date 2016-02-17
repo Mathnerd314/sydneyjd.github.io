@@ -7076,3 +7076,4 @@
 [2016/02/17 15:30:01] <Tobbi> sydney_untangle: Yeah, whatever. I'm setting up whatever this is.
 [2016/02/17 15:30:04] <Tobbi> eeh, ZNC.
 [2016/02/17 15:32:22] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/02/17 15:39:24] @ Quit: tux|dude: Quit: Leaving
