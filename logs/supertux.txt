@@ -7058,3 +7058,10 @@
 [2016/02/17 15:06:22] <Hume2> OK, some addons.
 [2016/02/17 15:13:41] <Tobbi> brmbrmcar: Anyone who knows how to use dict.cc will laugh at it as well.
 [2016/02/17 15:13:56] <Tobbi> Not all of them, no.
+[2016/02/17 15:17:28] <Hume2> So assuming that I have a lot of SuperTux-related work…
+[2016/02/17 15:17:35] <Hume2> And limited time…
+[2016/02/17 15:18:20] <Hume2> I think I could temporarily leave editor and do something else instead.
+[2016/02/17 15:18:53] <Hume2> It will be for GSoc, I hope.
+[2016/02/17 15:19:35] <Tobbi> Hume2: Do what suits you mosty.
+[2016/02/17 15:19:36] @ lumidify joined channel #supertux
+[2016/02/17 15:19:38] <Tobbi> *most
