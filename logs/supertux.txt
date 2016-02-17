@@ -6607,3 +6607,4 @@
 [2016/02/17 08:51:32] @ Quit: snadge: Quit: ZNC - http://znc.in
 [2016/02/17 08:51:59] @ snadge joined channel #supertux
 [2016/02/17 08:56:23] @ VargaD joined channel #supertux
+[2016/02/17 09:07:13] @ Quit: datahead8888_: Ping timeout: 240 seconds
