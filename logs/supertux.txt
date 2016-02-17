@@ -7090,3 +7090,6 @@
 [2016/02/17 16:02:15] @ Quit: lumidify: Quit: Leaving
 [2016/02/17 16:13:59] @ OperationGT_ joined channel #supertux
 [2016/02/17 16:14:40] <tobbi_> So, this worked.
+[2016/02/17 16:15:30] @ Quit: Tobbi: 
+[2016/02/17 16:16:23] @ tobbi_ is now known as tobbi
+[2016/02/17 16:17:14] @ Quit: OperationGT: Ping timeout: 265 seconds
