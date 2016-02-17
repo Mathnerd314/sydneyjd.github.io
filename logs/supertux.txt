@@ -6852,3 +6852,19 @@
 [2016/02/17 13:44:15] <Tobbi> longstanding bug.
 [2016/02/17 13:44:30] <Hume2> I still can't get how the sanity checks could be provided.
 [2016/02/17 13:44:51] <Hume2> Like how to calculate the best possible time.
+[2016/02/17 13:45:19] <Tobbi> Hume2: We could have a reference of one of our players and then reduce it by a certain percentage.
+[2016/02/17 13:45:24] <Tobbi> I mean: By one of the team.
+[2016/02/17 13:45:24] <Hume2> Actually, that will have to figure out the student :P
+[2016/02/17 13:45:31] <Tobbi> No, that's not good.
+[2016/02/17 13:45:36] <Tobbi> Isn't it?
+[2016/02/17 13:45:49] <Hume2> I'm not sure.
+[2016/02/17 13:46:14] <Hume2> What if someone really managed to do the highscore?
+[2016/02/17 13:46:52] <Hume2> And still, the hacker could take the actual highscore and reduce it a bit.
+[2016/02/17 13:47:44] <Tobbi> Hume2: No, he couldn't. We'd double-check that.
+[2016/02/17 13:48:07] <Hume2> Like we'll try to get that record too?
+[2016/02/17 13:48:23] <Hume2> s/record/highscore/
+[2016/02/17 13:48:23] <red_bot> Hume2 meant: "Like we'll try to get that highscore too?"
+[2016/02/17 13:48:46] <brmbrmcar> You won't believe how awfulthis is https://paste.kde.org/pbacldbvv
+[2016/02/17 13:48:50] <Tobbi> Hume2: We could run the provided file server-side and check whether it results in the provided highscore.
+[2016/02/17 13:49:06] <Tobbi> leyyin: The code sanity check thingy won't run under wine.
+[2016/02/17 13:49:58] <leyyin> use champagne
