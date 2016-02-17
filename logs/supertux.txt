@@ -6743,3 +6743,5 @@
 [2016/02/17 11:29:27] <Tobbi> :D
 [2016/02/17 11:29:43] <Tobbi> You can express an orange.
 [2016/02/17 11:39:34] @ tuxdev_ joined channel #supertux
+[2016/02/17 12:01:08] @ Hume2 joined channel #supertux
+[2016/02/17 12:01:08] @ Mode +v Hume2 by ChanServ
