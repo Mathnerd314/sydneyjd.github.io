@@ -7037,3 +7037,8 @@
 [2016/02/17 14:46:22] @ Quit: lumidify: Ping timeout: 265 seconds
 [2016/02/17 14:47:08] <Tobbi> mt: When I disconnect from an SSH session due to shutdown, does it cancel running processes started by the SSH session?
 [2016/02/17 14:47:50] <Tobbi> I mean, like, in that terminal session.
+[2016/02/17 14:50:34] <Tobbi> Hume2: I can't seem to finish brmbrmcar's level.
+[2016/02/17 14:50:53] <Hume2> Tobbi: Did you activated both two levers?
+[2016/02/17 14:51:00] <Tobbi> Oh, let me check.
+[2016/02/17 14:54:27] <Tobbi> Okay, I didn't.
+[2016/02/17 14:54:33] <Tobbi> Yet, our sliding mechanics are annoying.
