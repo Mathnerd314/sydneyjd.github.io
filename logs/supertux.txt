@@ -6887,3 +6887,16 @@
 [2016/02/17 13:53:09] <leyyin> you are bluffing
 [2016/02/17 13:53:12] <leyyin> sigh
 [2016/02/17 13:53:48] <leyyin> COME ON
+[2016/02/17 13:55:38] <Tobbi>  /kick leyyin you said sigh
+[2016/02/17 13:55:51] <Tobbi> Also, I am eating lettuce right now.
+[2016/02/17 13:56:03] <leyyin> are you a goat Tobbi ?
+[2016/02/17 13:56:14] <Tobbi> leyyin: No, sydney_untangle doesn't own me.
+[2016/02/17 13:56:28] <Tobbi> leyyin: I like to pretend I am actually eating healthy stuff once in a while.
+[2016/02/17 13:57:12] <Hume2> brmbrmcar: I can't finish your level.
+[2016/02/17 13:58:12] <Tobbi> leyyin: If you'd said rabbit, I would've agreed with you, probably.
+[2016/02/17 13:58:14] <Tobbi> Or maybe not.
+[2016/02/17 13:58:26] <brmbrmcar> Hume2: No surprise.
+[2016/02/17 13:58:35] <brmbrmcar> It may bev impossible.
+[2016/02/17 13:59:19] @ claymore2 joined channel #supertux
+[2016/02/17 13:59:30] <Hume2> brmbrmcar: Do you know that the levels should be finishable? :P
+[2016/02/17 13:59:37] <brmbrmcar> Yes. :P
