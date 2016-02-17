@@ -6697,3 +6697,15 @@
 [2016/02/17 10:44:04] <mt> *proposal* tags
 [2016/02/17 10:44:11] <Tobbi> Or did you mean topic tags?
 [2016/02/17 10:44:46] <Tobbi> I can swap some of those topics.
+[2016/02/17 10:46:16] <mt> http://screencast.com/t/9NwO3XOIA at the bottom
+[2016/02/17 10:46:40] <Tobbi> ah.
+[2016/02/17 10:46:42] <Tobbi> yup.
+[2016/02/17 10:47:25] <Tobbi> I added both online integration and web application...
+[2016/02/17 10:47:52] <mt> "web application" might be too general
+[2016/02/17 10:48:09] <Tobbi> Ok.
+[2016/02/17 10:48:15] <Tobbi> Then only online integration.
+[2016/02/17 10:48:52] <Tobbi> mt: Do we create a page on G+?
+[2016/02/17 10:49:12] <mt> no
+[2016/02/17 10:49:28] <Tobbi> mt: Was just thinking that it might improve our chances...
+[2016/02/17 10:49:33] <Tobbi> Since it's Google.
+[2016/02/17 10:49:47] <mt> Don't think that makes a big difference
