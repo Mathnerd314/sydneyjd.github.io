@@ -7034,3 +7034,6 @@
 [2016/02/17 14:43:21] <Hume2> Cecflit can wait.
 [2016/02/17 14:44:18] <Hume2> So the icefloe that is needed to travel to the forest island.
 [2016/02/17 14:45:00] <Hume2> Let's use a placeholder for now, the boat could be fine as placeholder.
+[2016/02/17 14:46:22] @ Quit: lumidify: Ping timeout: 265 seconds
+[2016/02/17 14:47:08] <Tobbi> mt: When I disconnect from an SSH session due to shutdown, does it cancel running processes started by the SSH session?
+[2016/02/17 14:47:50] <Tobbi> I mean, like, in that terminal session.
