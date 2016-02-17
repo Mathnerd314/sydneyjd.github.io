@@ -6559,3 +6559,4 @@
 [2016/02/17 07:01:59] @ Mode +v red_bot by ChanServ
 [2016/02/17 07:05:11] @ snadge joined channel #supertux
 [2016/02/17 07:06:10] @ Quit: Vorpal: Ping timeout: 260 seconds
+[2016/02/17 07:24:55] @ Quit: pentagon: *.net *.split
