@@ -7086,3 +7086,4 @@
 [2016/02/17 15:50:50] * brmbrmcar is not impressed
 [2016/02/17 15:52:08] @ tobbi_ joined channel #supertux
 [2016/02/17 15:53:00] <Tobbi> Ah!
+[2016/02/17 15:55:47] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
