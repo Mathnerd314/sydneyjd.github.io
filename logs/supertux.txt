@@ -6900,3 +6900,40 @@
 [2016/02/17 13:59:19] @ claymore2 joined channel #supertux
 [2016/02/17 13:59:30] <Hume2> brmbrmcar: Do you know that the levels should be finishable? :P
 [2016/02/17 13:59:37] <brmbrmcar> Yes. :P
+[2016/02/17 14:00:15] <Tobbi> rbpi is actually a very bad device when it comes to building stuff.
+[2016/02/17 14:00:23] <brmbrmcar> I decided to link i here before I fully checked it.
+[2016/02/17 14:00:38] <Tobbi> brmbrmcar: Where is his level?
+[2016/02/17 14:00:41] <Tobbi> eeh...
+[2016/02/17 14:00:41] <Hume2> Well, Narre used to say that Overunderground Tower is impossible.
+[2016/02/17 14:00:47] <Tobbi> *your level
+[2016/02/17 14:00:51] <brmbrmcar> I may be ghosted!
+[2016/02/17 14:00:52] <Hume2> Tobbi: It was that link.
+[2016/02/17 14:01:01] <Tobbi> Hume2: It is not. There are people out there who have finished it.
+[2016/02/17 14:01:01] <brmbrmcar> By OperationGT.
+[2016/02/17 14:01:04] @ Quit: brmbrmcar: Disconnected by services
+[2016/02/17 14:01:08] <Tobbi> what?
+[2016/02/17 14:01:18] <Tobbi> How did that happen?
+[2016/02/17 14:01:33] <Hume2> I know, Narre managed that to do it himself as well.
+[2016/02/17 14:01:42] <Tobbi> leyyin: Are you still ignoring brmbrmcar, by the way?
+[2016/02/17 14:01:43] @ brmbrmcar joined channel #supertux
+[2016/02/17 14:01:52] <leyyin> who?
+[2016/02/17 14:02:03] <Tobbi> okay, that's a yes. :P
+[2016/02/17 14:02:03] <Tobbi> haha
+[2016/02/17 14:02:15] <Hume2> It's very car and such brmbrm :D
+[2016/02/17 14:02:31] <Tobbi> Also, I hate all salad dressings besides caesar dressings.
+[2016/02/17 14:02:36] <Tobbi> And I can't find that anywhere in stores.
+[2016/02/17 14:02:42] <Tobbi> So I might have to make it myself.
+[2016/02/17 14:02:53] <leyyin> do you get murdered when you eat salad?
+[2016/02/17 14:03:00] <Tobbi> leyyin: Uh, no?
+[2016/02/17 14:03:01] <Tobbi> Why?
+[2016/02/17 14:03:05] <leyyin> caesar dressing
+[2016/02/17 14:03:09] <Tobbi> haha
+[2016/02/17 14:03:19] <Hume2> Tobbi: After you'll rule the world, you can order them to sell it :D
+[2016/02/17 14:03:21] <leyyin> stupid name
+[2016/02/17 14:03:28] <Tobbi> leyyin: You, too, my son, Salad?
+[2016/02/17 14:03:37] <Tobbi> "Et tu, Salade"?
+[2016/02/17 14:03:39] <Tobbi> :D
+[2016/02/17 14:04:05] <Tobbi> Hume2: s/sell it/salad
+[2016/02/17 14:04:13] <Hume2> :D
+[2016/02/17 14:04:45] <Tobbi> leyyin: You don't eat salad?
+[2016/02/17 14:04:53] <Tobbi> Hume2: Which link was it?
