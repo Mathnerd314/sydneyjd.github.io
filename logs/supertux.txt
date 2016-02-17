@@ -7140,3 +7140,4 @@
 [2016/02/17 18:01:36] @ Tobbi joined channel #supertux
 [2016/02/17 18:01:36] @ Mode +v Tobbi by ChanServ
 [2016/02/17 18:03:07] @ Quit: Tobbi_: 
+[2016/02/17 18:07:37] @ tux|dude joined channel #supertux
