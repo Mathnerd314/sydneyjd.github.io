@@ -6486,3 +6486,4 @@
 [2016/02/16 20:42:15] @ Quit: swift110: Ping timeout: 240 seconds
 [2016/02/16 20:53:52] @ datahead7777 joined channel #supertux
 [2016/02/16 20:57:57] @ Quit: tux|dude: Quit: Leaving
+[2016/02/16 21:25:24] @ tux|dude joined channel #supertux
