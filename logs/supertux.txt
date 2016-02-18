@@ -7288,3 +7288,6 @@
 [2016/02/18 09:10:26] @ jesusalva_bot joined channel #supertux
 [2016/02/18 09:37:34] @ Quit: jesusalva_bot: Ping timeout: 240 seconds
 [2016/02/18 09:40:04] @ jesusalva_bot joined channel #supertux
+[2016/02/18 09:46:56] @ tuxdev_ joined channel #supertux
+[2016/02/18 09:46:58] @ Quit: tuxdev_: Changing host
+[2016/02/18 09:46:58] @ tuxdev_ joined channel #supertux
