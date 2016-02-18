@@ -7467,3 +7467,5 @@
 [2016/02/18 13:58:29] @ Quit: lumidify: Ping timeout: 240 seconds
 [2016/02/18 14:14:40] @ lumidify joined channel #supertux
 [2016/02/18 14:43:24] @ datahead8888 joined channel #supertux
+[2016/02/18 15:02:10] <pentagon> [10supertux] 07Hume2 opened pull request 09#367: New badguy: HangingBall 13https://git.io/vgjXC
+[2016/02/18 15:03:26] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
