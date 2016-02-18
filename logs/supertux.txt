@@ -7236,3 +7236,10 @@
 [2016/02/18 04:55:58] <brmbrmcar> Minor change https://paste.kde.org/pardnjynu
 [2016/02/18 05:05:19] @ Quit: brmbrmcar: Ping timeout: 250 seconds
 [2016/02/18 06:11:05] @ brmbrmcar joined channel #supertux
+[2016/02/18 06:28:04] <OperationGT> does anyone know how to compile the latest editor?
+[2016/02/18 06:28:23] <Tobbi> OperationGT: There's a makefile in there, isn't there?
+[2016/02/18 06:28:34] <OperationGT> what, in mono?
+[2016/02/18 06:29:08] <Tobbi> OperationGT: No, in the editor repo.
+[2016/02/18 06:29:13] <Tobbi> or whatever tarball you downloaded.
+[2016/02/18 06:29:29] <OperationGT> i have no clue what that means..
+[2016/02/18 06:29:46] <brmbrmcar> He hasn't got it1
