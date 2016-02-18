@@ -7286,3 +7286,4 @@
 [2016/02/18 08:46:33] @ leyyin joined channel #supertux
 [2016/02/18 09:10:19] @ Quit: jesusalva_bot: Read error: Connection reset by peer
 [2016/02/18 09:10:26] @ jesusalva_bot joined channel #supertux
+[2016/02/18 09:37:34] @ Quit: jesusalva_bot: Ping timeout: 240 seconds
