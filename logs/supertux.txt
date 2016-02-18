@@ -7412,3 +7412,7 @@
 [2016/02/18 12:45:35] <brmbrmcar> is flexlay able to run from windows 10?
 [2016/02/18 12:46:07] <Tobbi> brmbrmcar: Yes, as long as you have python installed and all the packages.
 [2016/02/18 12:46:22] <brmbrmcar> ok
+[2016/02/18 12:57:16] <pentagon> [10supertux] 07Hume2 pushed 2 commits to 09master 13https://git.io/vgj3l
+[2016/02/18 12:57:20] <pentagon> [10supertux] 07Hume2 14d73c0bf Updated data/AUTHORS
+[2016/02/18 12:57:23] <pentagon> [10supertux] 07Hume2 14f18c874 Reduced file size of Bonus Island I
+[2016/02/18 12:59:15] <brmbrmcar> In Windows 10, does the comand to start supertux-editor change?
