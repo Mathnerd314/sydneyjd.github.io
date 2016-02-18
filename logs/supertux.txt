@@ -7258,3 +7258,8 @@
 [2016/02/18 06:33:41] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- s0 d4Mn l33t |t'z 5c4rY!
 [2016/02/18 06:42:26] <Tobbi> brmbrmcar: What about https://github.com/SuperTux/supertux/issues/362 ?
 [2016/02/18 06:42:28] <Tobbi> Can it be closed?
+[2016/02/18 06:46:46] <brmbrmcar> No
+[2016/02/18 06:46:49] @ lumidify joined channel #supertux
+[2016/02/18 06:46:51] <brmbrmcar> it still a bug
+[2016/02/18 06:46:58] @ Quit: lumidify: Changing host
+[2016/02/18 06:46:58] @ lumidify joined channel #supertux
