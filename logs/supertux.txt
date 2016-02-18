@@ -7490,3 +7490,5 @@
 [2016/02/18 15:58:28] <Tobbi> sydney_untangle: *evening
 [2016/02/18 16:20:56] @ Quit: tux|dude: Ping timeout: 244 seconds
 [2016/02/18 16:34:50] @ tux|dude joined channel #supertux
+[2016/02/18 16:40:49] <pentagon> [10supertux] 07StarsEverywhere starred 09supertux - 13https://git.io/v2evz
+[2016/02/18 16:43:46] <Tobbi> (sigh?)
