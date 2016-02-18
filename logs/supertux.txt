@@ -7292,3 +7292,4 @@
 [2016/02/18 09:46:58] @ Quit: tuxdev_: Changing host
 [2016/02/18 09:46:58] @ tuxdev_ joined channel #supertux
 [2016/02/18 09:50:45] @ brmbrmcar joined channel #supertux
+[2016/02/18 09:56:39] @ Quit: jesusalva_bot: Read error: Connection reset by peer
