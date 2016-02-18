@@ -7216,3 +7216,11 @@
 [2016/02/18 04:29:18] <brmbrmcar> for the editor
 [2016/02/18 04:29:54] <Tobbi> brmbrmcar: iirc, it's called supertux-editor and might be in bin/Debug (?)
 [2016/02/18 04:30:00] <brmbrmcar> ok
+[2016/02/18 04:30:19] <brmbrmcar> Does it need external files?
+[2016/02/18 04:30:27] <Tobbi> Mono, GTK#
+[2016/02/18 04:30:27] <brmbrmcar> Or will the zip work?
+[2016/02/18 04:30:30] <Tobbi> and not sure about other dependencies.
+[2016/02/18 04:30:39] <Tobbi> brmbrmcar: I don't know. How did you create that last level?
+[2016/02/18 04:30:54] <brmbrmcar> I'm helping OperationGT.
+[2016/02/18 04:31:03] <brmbrmcar> I'm on Ubuntu, and usedv PPA
+[2016/02/18 04:31:13] <Tobbi> ah okay, I don't know anything about that.
