@@ -7462,3 +7462,5 @@
 [2016/02/18 13:25:11] <mt> and I don't know, with GMS you'll at least not be able to register primary channels without staff approval anymore
 [2016/02/18 13:25:28] <mt> I don't think off-topic primary channels will be purged though
 [2016/02/18 13:28:41] @ lumidify joined channel #supertux
+[2016/02/18 13:48:06] @ claymore2 joined channel #supertux
+[2016/02/18 13:49:37] <Hume2> What about this? https://github.com/SuperTux/supertux/pull/331
