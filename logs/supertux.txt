@@ -7303,3 +7303,6 @@
 [2016/02/18 10:43:22] <pentagon> [10supertux] 07tobbi 144342fb3 Mark Igel::can_see const
 [2016/02/18 10:46:38] <leyyin> weird, I can't see const
 [2016/02/18 10:49:20] <Tobbi> leyyin: I told you: Don't do this to me...I was on the verge of checking whether I made a mistake.
+[2016/02/18 10:50:50] <Tobbi> You know that I am OCD.
+[2016/02/18 10:52:13] <Tobbi> leyyin: But, my bouncer works just fine :)
+[2016/02/18 10:53:51] <leyyin> naughty
