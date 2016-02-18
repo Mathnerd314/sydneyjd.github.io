@@ -7199,3 +7199,8 @@
 [2016/02/18 04:18:23] <Tobbi> OperationGT: You can try the C# one. Flexlay doesn't have enough features...
 [2016/02/18 04:18:27] <Tobbi> (yet)
 [2016/02/18 04:18:46] <OperationGT> ok
+[2016/02/18 04:20:03] <Tobbi> OperationGT: Actually, if you want, you can help develop it? Would be up for it?
+[2016/02/18 04:20:53] <OperationGT> two seconds...
+[2016/02/18 04:21:31] <Tobbi> sure
+[2016/02/18 04:22:40] <OperationGT> i would, but it's difficult for me to download an editor
+[2016/02/18 04:24:30] <Tobbi> OperationGT: What are you having trouble with?
