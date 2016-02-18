@@ -7313,3 +7313,16 @@
 [2016/02/18 11:04:12] <leyyin> dataaaa http://www.pewglobal.org/2011/11/17/the-american-western-european-values-gap/
 [2016/02/18 11:04:44] <Tobbi> leyyin: Oh, yes.
 [2016/02/18 11:04:57] <Tobbi> Sums up everything I observed in the US perfectly...
+[2016/02/18 11:05:04] <leyyin> sterotype confirmed by real data :D
+[2016/02/18 11:05:18] <Tobbi> yup.
+[2016/02/18 11:07:51] <Tobbi> leyyin: The "our culture is superior to others" is surprising.
+[2016/02/18 11:08:01] <leyyin> they feel superior :P
+[2016/02/18 11:08:01] <Tobbi> Maybe this is a German thing after all...
+[2016/02/18 11:08:09] <leyyin> but they are not :D
+[2016/02/18 11:08:13] <leyyin> germans you are :P
+[2016/02/18 11:08:22] <leyyin> *joke*
+[2016/02/18 11:08:45] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vghS6
+[2016/02/18 11:08:48] <pentagon> [10supertux] 07tobbi 14ce445ab Mark get_repository_addon and get_installed_addon const
+[2016/02/18 11:08:55] <leyyin> ah, OCD :D
+[2016/02/18 11:09:42] <Tobbi> :D
+[2016/02/18 11:09:46] <Tobbi> sorry, I could not resist.
