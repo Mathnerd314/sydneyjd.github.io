@@ -7501,3 +7501,6 @@
 [2016/02/18 16:59:45] <brmbrmcar> it's just me
 [2016/02/18 17:14:01] <sydney_untangle> Tobbi: *SIGH+*...
 [2016/02/18 17:14:05] <sydney_untangle> :p
+[2016/02/18 17:15:19] <sydney_untangle> Did we just update some of our addons?
+[2016/02/18 17:18:49] <sydney_untangle> nm...
+[2016/02/18 17:19:48] @ Quit: brmbrmcar: Quit: restarting computer
