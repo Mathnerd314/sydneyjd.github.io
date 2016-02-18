@@ -7408,3 +7408,4 @@
 [2016/02/18 12:38:20] <pentagon> [10supertux] 07Hume2 commented on issue 09#320: Inconsistent/crude death effects 13https://git.io/vu0f6
 [2016/02/18 12:38:20] <Tobbi> Hello, Hume2.
 [2016/02/18 12:38:56] <pentagon> [10supertux] 07tobbi commented on issue 09#320: Inconsistent/crude death effects 13https://git.io/vu0f6
+[2016/02/18 12:40:49] @ bb010g joined channel #supertux
