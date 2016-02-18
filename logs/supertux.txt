@@ -7153,3 +7153,4 @@
 [2016/02/17 20:49:53] @ datahead8888 joined channel #supertux
 [2016/02/17 20:56:38] <sydney_untangle> Tobbi: Whats wrong?
 [2016/02/17 21:08:29] @ Quit: datahead8888: Ping timeout: 240 seconds
+[2016/02/17 21:15:05] @ Quit: tux|dude: Quit: Leaving
