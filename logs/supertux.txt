@@ -7182,3 +7182,5 @@
 [2016/02/18 02:46:58] @ Quit: lumidify: Changing host
 [2016/02/18 02:46:58] @ lumidify joined channel #supertux
 [2016/02/18 02:54:27] @ Quit: lumidify: Ping timeout: 250 seconds
+[2016/02/18 03:26:27] @ Quit: datahead7777: Read error: Connection reset by peer
+[2016/02/18 03:29:11] @ datahead8888 joined channel #supertux
