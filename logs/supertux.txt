@@ -7397,3 +7397,4 @@
 [2016/02/18 11:35:09] <Tobbi> Also, I can see clearly now the rain is gone.
 [2016/02/18 11:42:29] @ Quit: lumidify: Ping timeout: 240 seconds
 [2016/02/18 11:42:51] <leyyin> mt, like always ;)
+[2016/02/18 11:48:54] <pentagon> [10supertux] Status for commit Mark get_repository_addon and get_installed_addon const by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/110161558
