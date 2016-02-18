@@ -7226,3 +7226,7 @@
 [2016/02/18 04:31:13] <Tobbi> ah okay, I don't know anything about that.
 [2016/02/18 04:41:39] @ octo_ is now known as octo
 [2016/02/18 04:49:14] <brmbrmcar> Ijust got past my ownlevel
+[2016/02/18 04:53:13] <Tobbi> :D
+[2016/02/18 04:53:24] <Tobbi> brmbrmcar: You never tested it before now?
+[2016/02/18 04:53:57] @ jesusalva_bot joined channel #supertux
+[2016/02/18 04:54:58] @ jesusalva_bot left channel #supertux ()
