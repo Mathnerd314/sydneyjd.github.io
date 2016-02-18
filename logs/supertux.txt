@@ -7470,3 +7470,8 @@
 [2016/02/18 15:02:10] <pentagon> [10supertux] 07Hume2 opened pull request 09#367: New badguy: HangingBall 13https://git.io/vgjXC
 [2016/02/18 15:03:26] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
 [2016/02/18 15:08:46] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/02/18 15:10:41] @ Quit: datahead8888: Quit: Leaving
+[2016/02/18 15:12:03] @ Quit: xnrand: Ping timeout: 255 seconds
+[2016/02/18 15:12:04] @ Quit: lumidify: Ping timeout: 255 seconds
+[2016/02/18 15:12:15] @ xnrand joined channel #supertux
+[2016/02/18 15:12:32] @ lumidify joined channel #supertux
