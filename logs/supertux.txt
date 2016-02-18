@@ -7299,3 +7299,5 @@
 [2016/02/18 10:28:48] <Tobbi> Why was I kicked out of #brmbrmbus ?
 [2016/02/18 10:31:48] <Tobbi> Doesn't matter.
 [2016/02/18 10:35:27] <Tobbi> brmbrmcar: I am not amused.
+[2016/02/18 10:43:18] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vghV5
+[2016/02/18 10:43:22] <pentagon> [10supertux] 07tobbi 144342fb3 Mark Igel::can_see const
