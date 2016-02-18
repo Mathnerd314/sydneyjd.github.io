@@ -7196,3 +7196,6 @@
 [2016/02/18 04:10:19] <Tobbi> brmbrmcar: Okay, that's true.
 [2016/02/18 04:13:33] @ OperationGT joined channel #supertux
 [2016/02/18 04:14:07] <OperationGT> do you know what the best supertux editor is for windows 10?
+[2016/02/18 04:18:23] <Tobbi> OperationGT: You can try the C# one. Flexlay doesn't have enough features...
+[2016/02/18 04:18:27] <Tobbi> (yet)
+[2016/02/18 04:18:46] <OperationGT> ok
