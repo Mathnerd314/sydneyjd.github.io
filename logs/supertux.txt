@@ -7492,3 +7492,7 @@
 [2016/02/18 16:34:50] @ tux|dude joined channel #supertux
 [2016/02/18 16:40:49] <pentagon> [10supertux] 07StarsEverywhere starred 09supertux - 13https://git.io/v2evz
 [2016/02/18 16:43:46] <Tobbi> (sigh?)
+[2016/02/18 16:45:10] <Tobbi> Now, someone needs to say sigh+
+[2016/02/18 16:45:11] <Tobbi> :P
+[2016/02/18 16:45:37] <brmbrmcar> sigh+
+[2016/02/18 16:47:28] @ tuxdude143 joined channel #supertux
