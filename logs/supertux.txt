@@ -7488,3 +7488,4 @@
 [2016/02/18 15:57:55] @ Quit: tux|dude: Read error: Connection reset by peer
 [2016/02/18 15:58:22] @ tux|dude joined channel #supertux
 [2016/02/18 15:58:28] <Tobbi> sydney_untangle: *evening
+[2016/02/18 16:20:56] @ Quit: tux|dude: Ping timeout: 244 seconds
