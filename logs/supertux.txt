@@ -7505,3 +7505,4 @@
 [2016/02/18 17:18:49] <sydney_untangle> nm...
 [2016/02/18 17:19:48] @ Quit: brmbrmcar: Quit: restarting computer
 [2016/02/18 17:21:47] @ brmbrmcar joined channel #supertux
+[2016/02/18 17:34:41] @ Quit: stewboy: Read error: Connection reset by peer
