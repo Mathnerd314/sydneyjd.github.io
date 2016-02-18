@@ -7475,3 +7475,4 @@
 [2016/02/18 15:12:04] @ Quit: lumidify: Ping timeout: 255 seconds
 [2016/02/18 15:12:15] @ xnrand joined channel #supertux
 [2016/02/18 15:12:32] @ lumidify joined channel #supertux
+[2016/02/18 15:28:12] @ Quit: lumidify: Read error: Connection reset by peer
