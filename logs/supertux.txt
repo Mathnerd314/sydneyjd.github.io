@@ -7423,3 +7423,9 @@
 [2016/02/18 13:08:12] <brmbrmcar> huh?
 [2016/02/18 13:08:34] <brmbrmcar> How doyouinstall pyqr4?
 [2016/02/18 13:08:50] <Tobbi> mt: Wait, which editor are we talking about?
+[2016/02/18 13:10:49] @ Quit: tuxdev_: Ping timeout: 240 seconds
+[2016/02/18 13:12:47] <Tobbi> We could actually need a lot more people.
+[2016/02/18 13:12:51] <Tobbi> working on flexlay.
+[2016/02/18 13:14:21] <brmbrmcar> What is a proper download for pyqt?
+[2016/02/18 13:14:27] <brmbrmcar> windows
+[2016/02/18 13:14:49] <brmbrmcar> without nsi
