@@ -7230,3 +7230,7 @@
 [2016/02/18 04:53:24] <Tobbi> brmbrmcar: You never tested it before now?
 [2016/02/18 04:53:57] @ jesusalva_bot joined channel #supertux
 [2016/02/18 04:54:58] @ jesusalva_bot left channel #supertux ()
+[2016/02/18 04:55:05] <brmbrmcar> I did a bit.
+[2016/02/18 04:55:11] <brmbrmcar> Butnot all at once
+[2016/02/18 04:55:16] <brmbrmcar> It was too annoying
+[2016/02/18 04:55:58] <brmbrmcar> Minor change https://paste.kde.org/pardnjynu
