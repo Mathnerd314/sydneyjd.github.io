@@ -7429,3 +7429,15 @@
 [2016/02/18 13:14:21] <brmbrmcar> What is a proper download for pyqt?
 [2016/02/18 13:14:27] <brmbrmcar> windows
 [2016/02/18 13:14:49] <brmbrmcar> without nsi
+[2016/02/18 13:16:18] <mt> http://www.riverbankcomputing.com/software/pyqt/intro according to my package manager
+[2016/02/18 13:16:26] <mt> Windows binaries are available there
+[2016/02/18 13:16:36] <mt> I think you'd want PyQt4
+[2016/02/18 13:17:00] <mt> Tobbi: about flexlay; you don't need python for the other one
+[2016/02/18 13:17:06] <Tobbi> Yes, right.
+[2016/02/18 13:17:07] <mt> pyqt is needed for the GUI
+[2016/02/18 13:17:23] <Tobbi> But we should prefer the old editor until flexlay is in a usable state.
+[2016/02/18 13:17:30] <Tobbi> It's currently just a pain in the butt...
+[2016/02/18 13:18:18] <mt> brmbrmcar asked about *flexlay*, so we're giving him advice about flexlay
+[2016/02/18 13:19:11] <mt> people use flexlay -> people get annoyed by the lack of features -> people contribute to flexlay -> :D
+[2016/02/18 13:19:35] <brmbrmcar> hmmm... maybe not OperationGT
+[2016/02/18 13:19:57] <brmbrmcar> He will just ask me to add stuff!
