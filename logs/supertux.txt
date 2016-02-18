@@ -7192,3 +7192,7 @@
 [2016/02/18 04:07:46] <brmbrmcar> You just get the "standard" one.
 [2016/02/18 04:09:46] <Tobbi> brmbrmcar: You can specify what badguys get dispensed.
 [2016/02/18 04:09:58] <brmbrmcar> I know.
+[2016/02/18 04:10:11] <brmbrmcar> But you can't set sprite, death-script etc.
+[2016/02/18 04:10:19] <Tobbi> brmbrmcar: Okay, that's true.
+[2016/02/18 04:13:33] @ OperationGT joined channel #supertux
+[2016/02/18 04:14:07] <OperationGT> do you know what the best supertux editor is for windows 10?
