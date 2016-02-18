@@ -7235,3 +7235,4 @@
 [2016/02/18 04:55:16] <brmbrmcar> It was too annoying
 [2016/02/18 04:55:58] <brmbrmcar> Minor change https://paste.kde.org/pardnjynu
 [2016/02/18 05:05:19] @ Quit: brmbrmcar: Ping timeout: 250 seconds
+[2016/02/18 06:11:05] @ brmbrmcar joined channel #supertux
