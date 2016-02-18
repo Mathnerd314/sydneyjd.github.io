@@ -7204,3 +7204,15 @@
 [2016/02/18 04:21:31] <Tobbi> sure
 [2016/02/18 04:22:40] <OperationGT> i would, but it's difficult for me to download an editor
 [2016/02/18 04:24:30] <Tobbi> OperationGT: What are you having trouble with?
+[2016/02/18 04:25:24] <OperationGT> downloading an editor, but my friend has found me one, and it'll take around an hour to complete
+[2016/02/18 04:25:32] <Tobbi> ok
+[2016/02/18 04:25:36] <OperationGT> mono
+[2016/02/18 04:26:52] <Tobbi> Mono might be a challenge to get working.
+[2016/02/18 04:26:56] <Tobbi> We'll have to see...
+[2016/02/18 04:27:14] <OperationGT> yeah, i've heard of something similar about mono
+[2016/02/18 04:27:26] <Tobbi> I meant the editor, not mono itself.
+[2016/02/18 04:28:20] <OperationGT> yeah, i know
+[2016/02/18 04:29:08] <brmbrmcar> Where is the mono executable anyway?
+[2016/02/18 04:29:18] <brmbrmcar> for the editor
+[2016/02/18 04:29:54] <Tobbi> brmbrmcar: iirc, it's called supertux-editor and might be in bin/Debug (?)
+[2016/02/18 04:30:00] <brmbrmcar> ok
