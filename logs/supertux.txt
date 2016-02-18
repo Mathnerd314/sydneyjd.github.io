@@ -7173,3 +7173,7 @@
 [2016/02/18 01:50:33] @ lumidify joined channel #supertux
 [2016/02/18 02:09:03] @ Quit: lumidify: Ping timeout: 276 seconds
 [2016/02/18 02:18:48] @ lumidify joined channel #supertux
+[2016/02/18 02:21:22] @ tuxdude143_ joined channel #supertux
+[2016/02/18 02:23:16] <Tobbi> sydney_untangle: Nothing is wrong at all.
+[2016/02/18 02:24:07] <Tobbi> All works fine. :)
+[2016/02/18 02:24:58] @ Quit: tuxdude143: Ping timeout: 244 seconds
