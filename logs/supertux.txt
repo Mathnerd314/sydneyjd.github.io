@@ -7263,3 +7263,4 @@
 [2016/02/18 06:46:51] <brmbrmcar> it still a bug
 [2016/02/18 06:46:58] @ Quit: lumidify: Changing host
 [2016/02/18 06:46:58] @ lumidify joined channel #supertux
+[2016/02/18 06:54:51] <Tobbi> ok.
