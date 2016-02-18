@@ -7224,3 +7224,4 @@
 [2016/02/18 04:30:54] <brmbrmcar> I'm helping OperationGT.
 [2016/02/18 04:31:03] <brmbrmcar> I'm on Ubuntu, and usedv PPA
 [2016/02/18 04:31:13] <Tobbi> ah okay, I don't know anything about that.
+[2016/02/18 04:41:39] @ octo_ is now known as octo
