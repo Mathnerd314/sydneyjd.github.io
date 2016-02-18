@@ -7482,3 +7482,9 @@
 [2016/02/18 15:43:13] @ stewboy joined channel #supertux
 [2016/02/18 15:52:16] @ Quit: claymore2: Quit: Leaving
 [2016/02/18 15:53:02] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/02/18 15:56:48] <Tobbi> Hello.
+[2016/02/18 15:56:54] <sydney_untangle> Good afternoon all...
+[2016/02/18 15:56:59] <sydney_untangle> Oh, lol.
+[2016/02/18 15:57:55] @ Quit: tux|dude: Read error: Connection reset by peer
+[2016/02/18 15:58:22] @ tux|dude joined channel #supertux
+[2016/02/18 15:58:28] <Tobbi> sydney_untangle: *evening
