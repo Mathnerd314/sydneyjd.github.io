@@ -7156,3 +7156,6 @@
 [2016/02/17 21:15:05] @ Quit: tux|dude: Quit: Leaving
 [2016/02/17 21:29:09] @ irungentoo joined channel #supertux
 [2016/02/17 21:52:16] @ datahead8888 joined channel #supertux
+[2016/02/17 21:55:13] @ tux|dude joined channel #supertux
+[2016/02/17 21:55:41] @ datahead8888 is now known as datahead7777\
+[2016/02/17 21:55:45] @ datahead7777\ is now known as datahead7777
