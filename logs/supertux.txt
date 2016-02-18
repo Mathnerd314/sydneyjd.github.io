@@ -7282,3 +7282,4 @@
 [2016/02/18 07:44:34] @ Quit: brmbrmcar: Ping timeout: 240 seconds
 [2016/02/18 08:01:19] @ Quit: lumidify: Ping timeout: 244 seconds
 [2016/02/18 08:34:41] @ jesusalva_bot joined channel #supertux
+[2016/02/18 08:44:00] @ Quit: OperationGT: Quit: Leaving
