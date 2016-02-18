@@ -7496,3 +7496,4 @@
 [2016/02/18 16:45:11] <Tobbi> :P
 [2016/02/18 16:45:37] <brmbrmcar> sigh+
 [2016/02/18 16:47:28] @ tuxdude143 joined channel #supertux
+[2016/02/18 16:50:25] @ Quit: tux|dude: Ping timeout: 240 seconds
