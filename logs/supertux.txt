@@ -7268,3 +7268,7 @@
 [2016/02/18 06:57:21] <pentagon> [10supertux] 07tobbi commented on issue 09#320: Inconsistent/crude death effects 13https://git.io/vu0f6
 [2016/02/18 07:00:19] <brmbrmcar> you didn't do gtk-sharp, probably
 [2016/02/18 07:03:58] @ Quit: datahead8888: Ping timeout: 244 seconds
+[2016/02/18 07:05:04] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/vgpH6
+[2016/02/18 07:05:07] <pentagon> [10supertux] 07tobbi 143815e90 Don't let rocks (and derived objects) nudge explosions to the side
+[2016/02/18 07:05:10] <pentagon> [10supertux] 07tobbi closed issue 09#322: Game objects move explosions 13https://git.io/vu0mm
+[2016/02/18 07:05:30] <pentagon> [10supertux] 07tobbi commented on issue 09#322: Game objects move explosions 13https://git.io/vu0mm
