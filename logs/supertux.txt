@@ -7459,3 +7459,6 @@
 [2016/02/18 13:23:50] <mt> freenode-staff also happened to this channel, iirc
 [2016/02/18 13:23:58] <brmbrmcar> really?
 [2016/02/18 13:23:58] <mt> but we're an on-topic project, so :D
+[2016/02/18 13:25:11] <mt> and I don't know, with GMS you'll at least not be able to register primary channels without staff approval anymore
+[2016/02/18 13:25:28] <mt> I don't think off-topic primary channels will be purged though
+[2016/02/18 13:28:41] @ lumidify joined channel #supertux
