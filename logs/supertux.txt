@@ -7416,3 +7416,10 @@
 [2016/02/18 12:57:20] <pentagon> [10supertux] 07Hume2 14d73c0bf Updated data/AUTHORS
 [2016/02/18 12:57:23] <pentagon> [10supertux] 07Hume2 14f18c874 Reduced file size of Bonus Island I
 [2016/02/18 12:59:15] <brmbrmcar> In Windows 10, does the comand to start supertux-editor change?
+[2016/02/18 13:06:35] <pentagon> [10flexlay] 07tobbi pushed 1 commit to 09create_addon 13https://git.io/vgjGn
+[2016/02/18 13:06:38] <pentagon> [10flexlay] 07tobbi 14ff461f0 Create info file for add-ons
+[2016/02/18 13:06:41] <mt> you'd python.exe (or whatever is your python3 executable) the supertux-editor executable
+[2016/02/18 13:06:51] <mt> make sure you've got PyQt installed
+[2016/02/18 13:08:12] <brmbrmcar> huh?
+[2016/02/18 13:08:34] <brmbrmcar> How doyouinstall pyqr4?
+[2016/02/18 13:08:50] <Tobbi> mt: Wait, which editor are we talking about?
