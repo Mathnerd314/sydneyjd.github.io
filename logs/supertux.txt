@@ -7478,3 +7478,5 @@
 [2016/02/18 15:28:12] @ Quit: lumidify: Read error: Connection reset by peer
 [2016/02/18 15:34:23] <pentagon> [10supertux] Status for commit New badguy: HangingBall by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/110214225
 [2016/02/18 15:34:50] <pentagon> [10supertux] Status for commit New badguy: HangingBall by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/395
+[2016/02/18 15:43:03] @ tux|dude joined channel #supertux
+[2016/02/18 15:43:13] @ stewboy joined channel #supertux
