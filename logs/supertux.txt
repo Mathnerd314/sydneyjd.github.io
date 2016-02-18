@@ -7279,3 +7279,4 @@
 [2016/02/18 07:20:33] <Tobbi> Is this related to my change?
 [2016/02/18 07:21:25] <Tobbi> I actually have no idea...
 [2016/02/18 07:22:11] <pentagon> [10supertux] Status for commit Don't let rocks (and derived objects) nudge explosions to the side by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/110106973
+[2016/02/18 07:44:34] @ Quit: brmbrmcar: Ping timeout: 240 seconds
