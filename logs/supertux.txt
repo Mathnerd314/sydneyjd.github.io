@@ -7409,3 +7409,6 @@
 [2016/02/18 12:38:20] <Tobbi> Hello, Hume2.
 [2016/02/18 12:38:56] <pentagon> [10supertux] 07tobbi commented on issue 09#320: Inconsistent/crude death effects 13https://git.io/vu0f6
 [2016/02/18 12:40:49] @ bb010g joined channel #supertux
+[2016/02/18 12:45:35] <brmbrmcar> is flexlay able to run from windows 10?
+[2016/02/18 12:46:07] <Tobbi> brmbrmcar: Yes, as long as you have python installed and all the packages.
+[2016/02/18 12:46:22] <brmbrmcar> ok
