@@ -7147,3 +7147,4 @@
 [2016/02/17 18:16:10] <Tobbi> yeah, that works as well.
 [2016/02/17 18:22:29] @ Quit: tux|dude: Quit: Leaving
 [2016/02/17 18:38:14] @ tux|dude joined channel #supertux
+[2016/02/17 19:03:48] @ bb010g joined channel #supertux
