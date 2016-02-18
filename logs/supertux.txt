@@ -7308,3 +7308,8 @@
 [2016/02/18 10:53:51] <leyyin> naughty
 [2016/02/18 10:55:06] <Tobbi> leyyin: Why naughty?
 [2016/02/18 10:55:21] <leyyin> idk
+[2016/02/18 11:00:44] <Tobbi> I'm actually not happy with the supertux code.
+[2016/02/18 11:00:49] <Tobbi> But that might be just my OCD.
+[2016/02/18 11:04:12] <leyyin> dataaaa http://www.pewglobal.org/2011/11/17/the-american-western-european-values-gap/
+[2016/02/18 11:04:44] <Tobbi> leyyin: Oh, yes.
+[2016/02/18 11:04:57] <Tobbi> Sums up everything I observed in the US perfectly...
