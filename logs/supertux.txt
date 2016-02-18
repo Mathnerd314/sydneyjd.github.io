@@ -7187,3 +7187,4 @@
 [2016/02/18 03:45:34] @ Quit: tuxdev_: Ping timeout: 240 seconds
 [2016/02/18 03:55:41] <pentagon> [10supertux] 07tobbi opened issue 09#366: Scripting badguys 13https://git.io/vgpZY
 [2016/02/18 03:55:46] @ Quit: tuxdude143_: Quit: Leaving
+[2016/02/18 04:01:55] <Tobbi> brmbrmcar: Hey. What exactly do you mean by scripts being able to run for dispensed badguys?
