@@ -7497,3 +7497,5 @@
 [2016/02/18 16:45:37] <brmbrmcar> sigh+
 [2016/02/18 16:47:28] @ tuxdude143 joined channel #supertux
 [2016/02/18 16:50:25] @ Quit: tux|dude: Ping timeout: 240 seconds
+[2016/02/18 16:59:24] <brmbrmcar> Is it just me or is Youtube playing up all of a sudden?
+[2016/02/18 16:59:45] <brmbrmcar> it's just me
