@@ -7509,3 +7509,4 @@
 [2016/02/18 18:04:02] <Tobbi> sydney_untangle: What? Update add-ons?
 [2016/02/18 18:20:12] @ Quit: tuxdude143: Quit: Leaving
 [2016/02/18 18:28:37] @ tux|dude joined channel #supertux
+[2016/02/18 18:35:13] @ stewboy joined channel #supertux
