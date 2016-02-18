@@ -7296,3 +7296,4 @@
 [2016/02/18 10:18:23] @ lumidify joined channel #supertux
 [2016/02/18 10:19:13] @ Mathnerd314 joined channel #supertux
 [2016/02/18 10:19:13] @ Mode +v Mathnerd314 by ChanServ
+[2016/02/18 10:28:48] <Tobbi> Why was I kicked out of #brmbrmbus ?
