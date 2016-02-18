@@ -7188,3 +7188,7 @@
 [2016/02/18 03:55:41] <pentagon> [10supertux] 07tobbi opened issue 09#366: Scripting badguys 13https://git.io/vgpZY
 [2016/02/18 03:55:46] @ Quit: tuxdude143_: Quit: Leaving
 [2016/02/18 04:01:55] <Tobbi> brmbrmcar: Hey. What exactly do you mean by scripts being able to run for dispensed badguys?
+[2016/02/18 04:07:33] <brmbrmcar> I mean, currently you can't really change much about dispensed badguys.
+[2016/02/18 04:07:46] <brmbrmcar> You just get the "standard" one.
+[2016/02/18 04:09:46] <Tobbi> brmbrmcar: You can specify what badguys get dispensed.
+[2016/02/18 04:09:58] <brmbrmcar> I know.
