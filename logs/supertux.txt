@@ -7393,3 +7393,5 @@
 [2016/02/18 11:33:34] @ Quit: lumidify: Ping timeout: 240 seconds
 [2016/02/18 11:33:47] <mt> I see today's topic is very on-topic.
 [2016/02/18 11:34:53] @ lumidify joined channel #supertux
+[2016/02/18 11:35:02] <Tobbi> mt: I see you complaining about things.
+[2016/02/18 11:35:09] <Tobbi> Also, I can see clearly now the rain is gone.
