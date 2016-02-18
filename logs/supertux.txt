@@ -7465,3 +7465,4 @@
 [2016/02/18 13:48:06] @ claymore2 joined channel #supertux
 [2016/02/18 13:49:37] <Hume2> What about this? https://github.com/SuperTux/supertux/pull/331
 [2016/02/18 13:58:29] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/02/18 14:14:40] @ lumidify joined channel #supertux
