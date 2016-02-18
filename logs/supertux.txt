@@ -7441,3 +7441,21 @@
 [2016/02/18 13:19:11] <mt> people use flexlay -> people get annoyed by the lack of features -> people contribute to flexlay -> :D
 [2016/02/18 13:19:35] <brmbrmcar> hmmm... maybe not OperationGT
 [2016/02/18 13:19:57] <brmbrmcar> He will just ask me to add stuff!
+[2016/02/18 13:20:04] <Tobbi> mt: No, no one contributes to flexlay :P
+[2016/02/18 13:20:18] <Tobbi> brmbrmcar: Why did he kick me from that channel, anyway?
+[2016/02/18 13:20:29] <brmbrmcar> dunno
+[2016/02/18 13:20:42] <mt> >#brmbrmbus
+[2016/02/18 13:21:02] <Hume2> :D
+[2016/02/18 13:21:25] <mt> brmbrmcar: are you involved in a project that's on-topic by freenode's policies? otherwise you should actually move to ##brmbrmbus
+[2016/02/18 13:22:05] <brmbrmcar> ok
+[2016/02/18 13:22:16] <brmbrmcar> who cares?
+[2016/02/18 13:22:27] <mt> in the end, you do
+[2016/02/18 13:22:34] <brmbrmcar> ok
+[2016/02/18 13:23:08] <mt> because if your nick gets dropped for some (silly) reason, regardless of actual succession rules the channel will be transferred over to the `freenode-staff` account
+[2016/02/18 13:23:16] <brmbrmcar> ok
+[2016/02/18 13:23:23] <mt> and then, you have to be an on-topic project to regain access
+[2016/02/18 13:23:33] <mt> see https://blog.freenode.net/2008/04/registering-a-channel-on-freenode/ and https://freenode.net/policy.shtml#channelnaming
+[2016/02/18 13:23:36] <brmbrmcar> it happened with #oswars, I think
+[2016/02/18 13:23:50] <mt> freenode-staff also happened to this channel, iirc
+[2016/02/18 13:23:58] <brmbrmcar> really?
+[2016/02/18 13:23:58] <mt> but we're an on-topic project, so :D
