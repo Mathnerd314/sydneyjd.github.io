@@ -7264,3 +7264,5 @@
 [2016/02/18 06:46:58] @ Quit: lumidify: Changing host
 [2016/02/18 06:46:58] @ lumidify joined channel #supertux
 [2016/02/18 06:54:51] <Tobbi> ok.
+[2016/02/18 06:56:03] <OperationGT> http://i.cubeupload.com/Li8UJB.png
+[2016/02/18 06:57:21] <pentagon> [10supertux] 07tobbi commented on issue 09#320: Inconsistent/crude death effects 13https://git.io/vu0f6
