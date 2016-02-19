@@ -7520,3 +7520,5 @@
 [2016/02/18 20:55:56] @ bb010g joined channel #supertux
 [2016/02/18 21:14:25] @ Quit: tux|dude: Quit: Leaving
 [2016/02/18 21:23:46] @ tuxdev_ joined channel #supertux
+[2016/02/18 21:32:57] @ datahead8888 joined channel #supertux
+[2016/02/18 21:34:25] @ Quit: datahead8888: Read error: Connection reset by peer
