@@ -7561,3 +7561,4 @@
 [2016/02/19 10:02:58] @ lumidify joined channel #supertux
 [2016/02/19 10:05:29] @ irungentoo joined channel #supertux
 [2016/02/19 10:08:53] <sydney_untangle> Tobbi: ugg...
+[2016/02/19 10:10:06] <Tobbi> sydney_untangle: :P
