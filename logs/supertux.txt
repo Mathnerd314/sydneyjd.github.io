@@ -7580,3 +7580,5 @@
 [2016/02/19 11:34:33] <mt> 16:51:37 <+sydney_untangle> Where in the world are all those old websites stored?! o_O <-- on hard drives, you know?
 [2016/02/19 11:34:55] <mt> archive.org at least has some DC suite
 [2016/02/19 11:38:46] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/02/19 11:43:45] <Tobbi> There are people out there with an AC/DC suite.
+[2016/02/19 11:43:47] <Tobbi> :P
