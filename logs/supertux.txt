@@ -7558,3 +7558,4 @@
 [2016/02/19 09:42:55] <brmbrmcar> Anyone know how to get the python3 command working on Windows?
 [2016/02/19 09:43:02] <brmbrmcar> I tried to look it up.
 [2016/02/19 09:43:17] <brmbrmcar> It seemed to be all for python 2
+[2016/02/19 10:02:58] @ lumidify joined channel #supertux
