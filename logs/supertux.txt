@@ -7583,3 +7583,7 @@
 [2016/02/19 11:43:45] <Tobbi> There are people out there with an AC/DC suite.
 [2016/02/19 11:43:47] <Tobbi> :P
 [2016/02/19 12:24:31] @ datahead8888 is now known as datahead7777
+[2016/02/19 12:31:22] @ Quit: Vorpal: Quit: ZNC - http://znc.sourceforge.net
+[2016/02/19 12:33:58] @ Vorpal joined channel #supertux
+[2016/02/19 12:33:58] @ Quit: Vorpal: Changing host
+[2016/02/19 12:33:58] @ Vorpal joined channel #supertux
