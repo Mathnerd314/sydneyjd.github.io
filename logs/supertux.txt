@@ -7543,3 +7543,9 @@
 [2016/02/19 04:22:36] <Tobbi> I mean: For the application.
 [2016/02/19 04:22:40] <Tobbi> I guess we're good to go.
 [2016/02/19 04:42:02] @ Quit: tux|dude: Quit: Leaving
+[2016/02/19 06:25:29] @ Karkus joined channel #supertux
+[2016/02/19 06:25:29] @ Mode +v Karkus by ChanServ
+[2016/02/19 06:26:56] @ Quit: Karkus: Client Quit
+[2016/02/19 06:29:57] @ lumidify joined channel #supertux
+[2016/02/19 06:29:57] @ Quit: lumidify: Changing host
+[2016/02/19 06:29:57] @ lumidify joined channel #supertux
