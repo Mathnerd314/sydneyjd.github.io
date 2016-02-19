@@ -7565,3 +7565,4 @@
 [2016/02/19 10:28:10] @ Quit: lumidify: Ping timeout: 255 seconds
 [2016/02/19 10:50:43] <sydney_untangle> Tobbi:  :) https://web.archive.org/web/20070123201802/http://supertux.lethargik.org/
 [2016/02/19 10:51:37] <sydney_untangle> Where in the world are all those old websites stored?! o_O
+[2016/02/19 10:58:25] @ lumidify joined channel #supertux
