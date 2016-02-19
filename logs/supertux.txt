@@ -7640,3 +7640,5 @@
 [2016/02/19 13:27:25] @ Quit: binki: *.net *.split
 [2016/02/19 13:27:32] @ binki joined channel #supertux
 [2016/02/19 13:48:14] @ lumidify joined channel #supertux
+[2016/02/19 13:58:46] @ Quit: lumidify: Ping timeout: 255 seconds
+[2016/02/19 13:58:56] @ claymore2 joined channel #supertux
