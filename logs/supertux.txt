@@ -7559,3 +7559,5 @@
 [2016/02/19 09:43:02] <brmbrmcar> I tried to look it up.
 [2016/02/19 09:43:17] <brmbrmcar> It seemed to be all for python 2
 [2016/02/19 10:02:58] @ lumidify joined channel #supertux
+[2016/02/19 10:05:29] @ irungentoo joined channel #supertux
+[2016/02/19 10:08:53] <sydney_untangle> Tobbi: ugg...
