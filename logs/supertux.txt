@@ -7667,3 +7667,5 @@
 [2016/02/19 16:22:37] <Tobbi> damn.
 [2016/02/19 16:22:53] <Tobbi> I was just trying to record a speedrun, just to notice that Jing only records 5 minutes.
 [2016/02/19 16:24:10] <pentagon> [10supertux] 07tobbi commented on issue 09#349: Warn user when a localization is incomplete 13https://git.io/vzjro
+[2016/02/19 16:26:20] <pentagon> [10supertux] 07tobbi opened issue 09#368: Travis should manage transifex source file management and language add-on uploading 13https://git.io/v2UT0
+[2016/02/19 16:27:17] <pentagon> [10supertux] 07tobbi commented on issue 09#319: Magic blocks do not respond to some light elements 13https://git.io/vuRB6
