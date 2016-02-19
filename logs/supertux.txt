@@ -7597,3 +7597,21 @@
 [2016/02/19 12:59:47] <Tobbi> leyyin: real life wallpaper...
 [2016/02/19 12:59:51] <Tobbi> As in: Tapete.
 [2016/02/19 12:59:54] <leyyin> oh, hire a gimp :D
+[2016/02/19 13:00:04] <Tobbi> leyyin: ...
+[2016/02/19 13:00:19] <Tobbi> leyyin: You'll invoke sydney_untangle to google that...
+[2016/02/19 13:00:24] <leyyin> good
+[2016/02/19 13:00:33] <leyyin> it was used in murica, the term gimp for persons
+[2016/02/19 13:00:45] <Tobbi> leyyin: uh?
+[2016/02/19 13:00:55] <leyyin> a gimp person
+[2016/02/19 13:01:10] <Tobbi> Ah, that.
+[2016/02/19 13:01:33] <leyyin> also http://harmful.cat-v.org/software/c++/linus
+[2016/02/19 13:01:41] <Tobbi> leyyin: Anyway, I hate mold...Somehow, my shower basin is leaking somewhere...
+[2016/02/19 13:01:42] <leyyin> C++ is to C as Lung Cancer is to Lung
+[2016/02/19 13:04:06] <Tobbi> leyyin: SuperTux is written in C++, so is STK iirc.
+[2016/02/19 13:04:08] <Tobbi> right?
+[2016/02/19 13:04:15] <leyyin> yes
+[2016/02/19 13:04:22] <Tobbi> so?
+[2016/02/19 13:04:25] <leyyin> http://harmful.cat-v.org/software/java
+[2016/02/19 13:04:27] <Tobbi> linus likes to bitch around.
+[2016/02/19 13:04:30] <leyyin> http://harmful.cat-v.org/software/_java/problem-factory.jpg
+[2016/02/19 13:04:47] <leyyin> Tobbi, but its funny :D
