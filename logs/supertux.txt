@@ -7551,3 +7551,4 @@
 [2016/02/19 06:29:57] @ lumidify joined channel #supertux
 [2016/02/19 06:37:33] @ Quit: lumidify: Ping timeout: 240 seconds
 [2016/02/19 06:47:52] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- *I* use it, so it must be good!
+[2016/02/19 07:22:05] <Tobbi> sydney_untangle: This is totally me: http://files.explosm.net/comics/Dave/STABBINGSTABBINGSTABBITYSTABSTABSTAB.png
