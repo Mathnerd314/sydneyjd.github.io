@@ -7663,3 +7663,7 @@
 [2016/02/19 16:09:54] @ tux|dude joined channel #supertux
 [2016/02/19 16:11:24] @ stewboy joined channel #supertux
 [2016/02/19 16:15:31] @ Wuzzy joined channel #supertux
+[2016/02/19 16:20:19] @ leyyin joined channel #supertux
+[2016/02/19 16:22:37] <Tobbi> damn.
+[2016/02/19 16:22:53] <Tobbi> I was just trying to record a speedrun, just to notice that Jing only records 5 minutes.
+[2016/02/19 16:24:10] <pentagon> [10supertux] 07tobbi commented on issue 09#349: Warn user when a localization is incomplete 13https://git.io/vzjro
