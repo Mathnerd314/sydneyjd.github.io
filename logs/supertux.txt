@@ -7632,3 +7632,10 @@
 [2016/02/19 13:15:51] <Tobbi> Oh, also, I am afk, Karate.
 [2016/02/19 13:15:54] <Tobbi> later.
 [2016/02/19 13:24:04] @ Quit: tuxdev_: Ping timeout: 248 seconds
+[2016/02/19 13:25:40] @ Quit: maths22: *.net *.split
+[2016/02/19 13:25:53] @ maths22 joined channel #supertux
+[2016/02/19 13:25:53] @ Quit: maths22: Changing host
+[2016/02/19 13:25:53] @ maths22 joined channel #supertux
+[2016/02/19 13:25:53] @ Mode +v maths22 by ChanServ
+[2016/02/19 13:27:25] @ Quit: binki: *.net *.split
+[2016/02/19 13:27:32] @ binki joined channel #supertux
