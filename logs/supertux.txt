@@ -7615,3 +7615,15 @@
 [2016/02/19 13:04:27] <Tobbi> linus likes to bitch around.
 [2016/02/19 13:04:30] <leyyin> http://harmful.cat-v.org/software/_java/problem-factory.jpg
 [2016/02/19 13:04:47] <leyyin> Tobbi, but its funny :D
+[2016/02/19 13:05:03] <Tobbi> Haha ProblemFactory...
+[2016/02/19 13:05:10] <Tobbi> What is it with those factories anyway?
+[2016/02/19 13:05:26] <leyyin> factories create stuff :D
+[2016/02/19 13:05:33] <leyyin> design patterns, aka overengineering
+[2016/02/19 13:05:39] <Tobbi> That I know. *sigh*
+[2016/02/19 13:05:43] <Tobbi> And yes, that deserves a *sigh*
+[2016/02/19 13:05:48] <leyyin> I know you know
+[2016/02/19 13:06:06] <Tobbi> leyyin: Other than writing my Bachelor thesis in Java, I am not really fond of it.
+[2016/02/19 13:06:30] <Tobbi> Still, I am stupid.
+[2016/02/19 13:07:37] <leyyin> Tobbi, “Object-oriented programming is an exceptionally bad idea which could only have originated in California.” – Edsger Dijkstra
+[2016/02/19 13:07:43] <leyyin> I laughed so hard :D
+[2016/02/19 13:08:04] <leyyin> I should go now, as I am offtopic :P
