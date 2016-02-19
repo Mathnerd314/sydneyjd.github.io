@@ -7542,3 +7542,4 @@
 [2016/02/19 04:22:29] <Tobbi> So, today's the last day for GSoC...
 [2016/02/19 04:22:36] <Tobbi> I mean: For the application.
 [2016/02/19 04:22:40] <Tobbi> I guess we're good to go.
+[2016/02/19 04:42:02] @ Quit: tux|dude: Quit: Leaving
