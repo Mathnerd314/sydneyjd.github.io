@@ -7567,3 +7567,7 @@
 [2016/02/19 10:51:37] <sydney_untangle> Where in the world are all those old websites stored?! o_O
 [2016/02/19 10:58:25] @ lumidify joined channel #supertux
 [2016/02/19 11:07:33] <brmbrmcar> :D
+[2016/02/19 11:15:03] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/02/19 11:16:15] @ lumidify joined channel #supertux
+[2016/02/19 11:16:15] @ Quit: lumidify: Changing host
+[2016/02/19 11:16:15] @ lumidify joined channel #supertux
