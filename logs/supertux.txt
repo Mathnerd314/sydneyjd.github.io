@@ -7522,3 +7522,4 @@
 [2016/02/18 21:23:46] @ tuxdev_ joined channel #supertux
 [2016/02/18 21:32:57] @ datahead8888 joined channel #supertux
 [2016/02/18 21:34:25] @ Quit: datahead8888: Read error: Connection reset by peer
+[2016/02/18 21:36:27] @ Quit: datahead_airport: Ping timeout: 276 seconds
