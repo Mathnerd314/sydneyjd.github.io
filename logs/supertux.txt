@@ -7524,3 +7524,4 @@
 [2016/02/18 21:34:25] @ Quit: datahead8888: Read error: Connection reset by peer
 [2016/02/18 21:36:27] @ Quit: datahead_airport: Ping timeout: 276 seconds
 [2016/02/18 21:49:56] @ Quit: nerdopolis_: Quit: No Ping reply in 180 seconds.
+[2016/02/18 21:51:18] @ nerdopolis joined channel #supertux
