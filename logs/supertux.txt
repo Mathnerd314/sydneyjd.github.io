@@ -7677,3 +7677,4 @@
 [2016/02/19 18:23:48] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2016/02/19 18:25:53] @ tux|dude joined channel #supertux
 [2016/02/19 18:26:53] @ tuxdude143 joined channel #supertux
+[2016/02/19 18:30:40] @ Quit: tux|dude: Ping timeout: 252 seconds
