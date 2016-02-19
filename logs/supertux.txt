@@ -7678,3 +7678,4 @@
 [2016/02/19 18:25:53] @ tux|dude joined channel #supertux
 [2016/02/19 18:26:53] @ tuxdude143 joined channel #supertux
 [2016/02/19 18:30:40] @ Quit: tux|dude: Ping timeout: 252 seconds
+[2016/02/19 18:37:39] @ Quit: claymore2: Quit: Leaving
