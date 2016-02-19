@@ -7575,3 +7575,7 @@
 [2016/02/19 11:28:13] @ lumidify joined channel #supertux
 [2016/02/19 11:28:13] @ Quit: lumidify: Changing host
 [2016/02/19 11:28:13] @ lumidify joined channel #supertux
+[2016/02/19 11:32:29] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/02/19 11:33:21] <Tobbi> sydney_untangle: That old website is better than the new one.
+[2016/02/19 11:34:33] <mt> 16:51:37 <+sydney_untangle> Where in the world are all those old websites stored?! o_O <-- on hard drives, you know?
+[2016/02/19 11:34:55] <mt> archive.org at least has some DC suite
