@@ -7554,3 +7554,7 @@
 [2016/02/19 07:22:05] <Tobbi> sydney_untangle: This is totally me: http://files.explosm.net/comics/Dave/STABBINGSTABBINGSTABBITYSTABSTABSTAB.png
 [2016/02/19 09:16:07] @ Mathnerd314 joined channel #supertux
 [2016/02/19 09:16:07] @ Mode +v Mathnerd314 by ChanServ
+[2016/02/19 09:42:38] @ tuxdev_ joined channel #supertux
+[2016/02/19 09:42:55] <brmbrmcar> Anyone know how to get the python3 command working on Windows?
+[2016/02/19 09:43:02] <brmbrmcar> I tried to look it up.
+[2016/02/19 09:43:17] <brmbrmcar> It seemed to be all for python 2
