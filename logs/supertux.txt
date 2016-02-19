@@ -7588,3 +7588,12 @@
 [2016/02/19 12:33:58] @ Quit: Vorpal: Changing host
 [2016/02/19 12:33:58] @ Vorpal joined channel #supertux
 [2016/02/19 12:51:54] @ leyyin joined channel #supertux
+[2016/02/19 12:55:59] <pentagon> [10supertux] 07MiroslavR commented on issue 09#342: Invalid Worldmap Boat Animation 13https://git.io/v2Jch
+[2016/02/19 12:56:03] @ Quit: datahead8888_: Quit: Leaving
+[2016/02/19 12:56:15] <leyyin> Tobbi, https://defaultnamehere.tumblr.com/post/139351766005/graphing-when-your-facebook-friends-are-awake
+[2016/02/19 12:59:27] <Tobbi> leyyin: I am actually very busy removing mold from my wallpaper...
+[2016/02/19 12:59:37] <Tobbi> And that involves nasty substances.
+[2016/02/19 12:59:38] <leyyin> use gimp
+[2016/02/19 12:59:47] <Tobbi> leyyin: real life wallpaper...
+[2016/02/19 12:59:51] <Tobbi> As in: Tapete.
+[2016/02/19 12:59:54] <leyyin> oh, hire a gimp :D
