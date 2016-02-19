@@ -7512,3 +7512,4 @@
 [2016/02/18 18:35:13] @ stewboy joined channel #supertux
 [2016/02/18 18:56:52] <sydney_untangle> Tobbi: Nothing, it was siblings doing... ;)
 [2016/02/18 19:02:04] @ irungentoo joined channel #supertux
+[2016/02/18 19:24:30] @ Quit: tux|dude: Quit: Leaving
