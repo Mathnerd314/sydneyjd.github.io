@@ -8199,3 +8199,9 @@
 [2016/02/20 14:09:24] <Tobbi> later.
 [2016/02/20 14:09:33] <brmbrmcar> d?ner
 [2016/02/20 14:44:33] <mt> /kick brmbrmcar ???????????????????????????????????????????????
+[2016/02/20 14:45:51] <brmbrmcar> that was / marks
+[2016/02/20 14:45:57] <brmbrmcar> s///?/
+[2016/02/20 14:45:57] <red_bot> brmbrmcar: You did something wrong... Try s/you/me/ or tell me "help sed"
+[2016/02/20 14:48:33] @ lumidify joined channel #supertux
+[2016/02/20 14:48:33] @ Quit: lumidify: Changing host
+[2016/02/20 14:48:33] @ lumidify joined channel #supertux
