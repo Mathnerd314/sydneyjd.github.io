@@ -7701,3 +7701,4 @@
 [2016/02/20 03:26:31] @ lumidify joined channel #supertux
 [2016/02/20 03:26:31] @ Quit: lumidify: Changing host
 [2016/02/20 03:26:31] @ lumidify joined channel #supertux
+[2016/02/20 03:59:27] @ Quit: tux|dude: Quit: Leaving
