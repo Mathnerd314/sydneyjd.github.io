@@ -7973,3 +7973,18 @@
 [2016/02/20 12:24:06] <mt> Could you ask them to ask their lawyer?
 [2016/02/20 12:24:38] <Hume2> Yes, but don't ask two lawyers :P
 [2016/02/20 12:24:50] <Hume2> Else you would be only more confused.
+[2016/02/20 12:25:04] <mt> or we could ask this project providing lawyers for open source communities
+[2016/02/20 12:25:11] <mt> I don't remember the name anymore
+[2016/02/20 12:26:52] <mt> Well fact is
+[2016/02/20 12:27:03] <mt> they can do anything that's allowed by GPL/CC-BY-SA
+[2016/02/20 12:27:16] <Tobbi> mt: I just asked the Wikipedia law experts...
+[2016/02/20 12:27:21] <Tobbi> Well, we could ask a lawyer, yes.
+[2016/02/20 12:27:45] <Tobbi> mt: They probably want confirmation... I wonder whether I could just sign it.
+[2016/02/20 12:27:52] <mt> but they should pay attention to parts that we are allowed to redistribute but don't have fyll copyright on
+[2016/02/20 12:28:09] <mt> in fact, they shouldn't need us to sign anything
+[2016/02/20 12:28:59] <Tobbi> mt: The thing is: They probably expect a reply from "mailing list address" which we can't give :D
+[2016/02/20 12:29:00] <mt> everything all authors are okay with is in the license
+[2016/02/20 12:29:23] <mt> if not, they'd have to ask all authors involved
+[2016/02/20 12:29:38] <mt> *they* have to do that, not *us*
+[2016/02/20 12:29:45] <Tobbi> Right.
+[2016/02/20 12:30:00] <Tobbi> mt: However, they'll probably fear the legal implications...
