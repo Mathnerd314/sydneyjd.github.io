@@ -8014,3 +8014,11 @@
 [2016/02/20 12:38:56] <mt> that's going a bit too far, heh
 [2016/02/20 12:39:08] <Tobbi> mt: Merchandising?
 [2016/02/20 12:39:26] <brmbrmcar> huh?
+[2016/02/20 12:40:03] <mt> like, t-shirts with supertux and KiKa logo?
+[2016/02/20 12:40:10] <brmbrmcar> :D
+[2016/02/20 12:40:18] <Tobbi> mt: Why would they want to do that?
+[2016/02/20 12:40:34] <mt> "and for all non-broadcasting purposes (e.g. DVD, CD, online, including ondemand and livestreaming – with and without download, public screening, print, merchandising)"
+[2016/02/20 12:40:38] <mt> don't ask me
+[2016/02/20 12:40:55] <Tobbi> *sigh*
+[2016/02/20 12:41:02] <Tobbi> This is extremely difficult.
+[2016/02/20 12:44:38] <Tobbi> mt: What are those open source lawyers?
