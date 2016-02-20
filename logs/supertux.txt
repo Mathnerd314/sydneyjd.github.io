@@ -7707,3 +7707,7 @@
 [2016/02/20 04:13:56] <tomreyn> i don't know whether that's still so.
 [2016/02/20 04:14:03] <tomreyn> there is also archive.is
 [2016/02/20 04:22:23] @ lumidify joined channel #supertux
+[2016/02/20 04:26:41] <mt> archive.is is web content only
+[2016/02/20 04:26:58] <mt> archive.org also has other stuff
+[2016/02/20 04:27:15] <mt> (books, music, videos, maps, ...)
+[2016/02/20 04:29:07] @ Quit: lumidify: Ping timeout: 248 seconds
