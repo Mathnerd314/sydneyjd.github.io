@@ -8124,3 +8124,14 @@
 [2016/02/20 13:29:30] <mt> Tobbi: re http://lists.lethargik.org/pipermail/supertux-devel-lethargik.org/2016-February/000052.html (and the thread): could you reply that debian (don't know about ubuntu) packages/packaged supertux 0.4 for all supported platforms
 [2016/02/20 13:29:40] <Tobbi> mt: Soon.
 [2016/02/20 13:29:46] <Tobbi> Let me just forward that e-mail to the stk mailing list.
+[2016/02/20 13:30:08] <mt> https://buildd.debian.org/status/package.php?p=supertux&suite=sid
+[2016/02/20 13:31:04] <Tobbi> hiker hasn't been seen in a while, either.
+[2016/02/20 13:32:04] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/02/20 13:32:27] <Hume2> He's running a join/quit contest :D
+[2016/02/20 13:32:50] <mt> who? lumidify?
+[2016/02/20 13:32:56] <Hume2> Yes.
+[2016/02/20 13:33:20] <brmbrmcar> Want me to take part?
+[2016/02/20 13:33:30] <Hume2> No, please.
+[2016/02/20 13:33:53] <Hume2> We don't need more jojin/qujit messages.
+[2016/02/20 13:34:09] <brmbrmcar> :(
+[2016/02/20 13:35:00] <Hume2> Are you speaking about that join/quit contest, son't you?
