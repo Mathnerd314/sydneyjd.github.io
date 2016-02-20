@@ -7689,3 +7689,8 @@
 [2016/02/19 23:54:13] @ Quit: irungentoo: Remote host closed the connection
 [2016/02/20 01:06:43] @ tuxdev_ joined channel #supertux
 [2016/02/20 01:23:42] @ Quit: Mathnerd314: Ping timeout: 276 seconds
+[2016/02/20 02:00:21] <mt> sydney_untangle: I don't know about the exact way archive.org is supported, but I guess it's people who understand the value of archives (libraries, archives, universities, other scientific institutions and organizations)
+[2016/02/20 02:01:24] <mt> "Founded by Brewster Kahle in 1996, the Archive is a 501(c)(3) nonprofit operating in the United States. It has an annual budget of $10 million, derived from a variety of sources: revenue from its Web crawling services, various partnerships, grants, donations, and the Kahle-Austin Foundation."
+[2016/02/20 02:02:38] <mt> (also, data storage is relatively cheap these days. I remember, back ten years ago, you'd have to pay like 120 EUR for an 8 GB USB Stick, or even more for just a 120 GB IDE hard drive)
+[2016/02/20 02:03:49] <mt> and then there's http://www.archiveteam.org/index.php?title=Main_Page
+[2016/02/20 02:04:06] <mt> who help collecting data
