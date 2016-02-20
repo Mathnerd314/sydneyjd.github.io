@@ -8243,3 +8243,34 @@
 [2016/02/20 15:18:43] <Hume2> We can pretend that we are working on something important :P
 [2016/02/20 15:19:27] <Tobbi> Hume2: We have done that way too often.
 [2016/02/20 15:19:39] <Hume2> That's true.
+[2016/02/20 15:20:08] <Hume2> Then we pretend that we are waiting :D
+[2016/02/20 15:20:09] <mt> we should be working on 0.4.1
+[2016/02/20 15:20:17] <Hume2> Indeed.
+[2016/02/20 15:20:24] <Tobbi> I have fixed many bugs already.
+[2016/02/20 15:20:49] <brmbrmcar> How un-buggy does it need to be?
+[2016/02/20 15:20:51] <mt> we need to cherry-pick over the most important commits to the release/0.4 branch
+[2016/02/20 15:20:53] <Tobbi> Can anyone test my fix for https://github.com/SuperTux/supertux/issues/322 ?
+[2016/02/20 15:21:18] <mt> generally, if we don't fix a bug in 0.4.1
+[2016/02/20 15:21:24] <mt> we could simply release 0.4.2
+[2016/02/20 15:21:46] <Tobbi> Yeah, that's true.
+[2016/02/20 15:22:09] <Tobbi> Also, does this need to be in 0.4.1? https://github.com/SuperTux/supertux/issues/333
+[2016/02/20 15:22:13] <mt> might be annoying if some distros don't want to backport these patches or use the new versions
+[2016/02/20 15:22:39] <mt> Tobbi: well, if you'd like to, we can release what's been fixed as 0.4.1
+[2016/02/20 15:22:45] <mt> and move the other parts to 0.4.2
+[2016/02/20 15:22:48] <Tobbi> brmbrmcar: I assign you to https://github.com/SuperTux/supertux/issues/319 ?
+[2016/02/20 15:23:03] <Tobbi> mt: I am uncertain about this. I'd rather fix most of the urgent things first, like Windows.
+[2016/02/20 15:23:24] <brmbrmcar> :(
+[2016/02/20 15:23:29] <mt> I'd like to as well
+[2016/02/20 15:23:34] <mt> but think about it this way
+[2016/02/20 15:23:36] <brmbrmcar> what would i knw?
+[2016/02/20 15:23:42] <mt> if we release 0.4.1 with fixes now
+[2016/02/20 15:23:54] <mt> at least some part of the userbase will profit from the fixes
+[2016/02/20 15:24:00] <Tobbi> That's true.
+[2016/02/20 15:24:17] <Tobbi> brmbrmcar: You would gain knowledge in how to do git bisect.
+[2016/02/20 15:24:35] <brmbrmcar> I'd suggest 0.4.0a if it wasn't for what hapened last time...
+[2016/02/20 15:24:42] <brmbrmcar> git bisect?
+[2016/02/20 15:24:45] <brmbrmcar> Oh no.
+[2016/02/20 15:24:45] <Tobbi> mt: Can you cherry-pick the changes...?
+[2016/02/20 15:24:53] <mt> not now
+[2016/02/20 15:24:54] <Tobbi> brmbrmcar: And NO! No .a please.
+[2016/02/20 15:24:56] <mt> tomowrrow maybe
