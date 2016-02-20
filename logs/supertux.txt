@@ -7680,3 +7680,4 @@
 [2016/02/19 18:30:40] @ Quit: tux|dude: Ping timeout: 252 seconds
 [2016/02/19 18:37:39] @ Quit: claymore2: Quit: Leaving
 [2016/02/19 19:28:31] @ Quit: tuxdude143: Quit: Leaving
+[2016/02/19 19:30:32] <sydney_untangle> mt: I know they are stored on hard drives, but that is *alot* of data, and im still wondering who pays for it all. data storage is not free...
