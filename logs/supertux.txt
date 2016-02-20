@@ -7772,3 +7772,8 @@
 [2016/02/20 08:09:39] <Tobbi> Why do people quit when I say hello?
 [2016/02/20 08:09:42] <Tobbi> I should stop that.
 [2016/02/20 08:09:53] <Hume2> It's strange.
+[2016/02/20 08:10:01] <Hume2> I guess they'd quit anyway.
+[2016/02/20 08:10:01] <Tobbi> No, it isn't.
+[2016/02/20 08:10:27] <Hume2> It's the join/quit contest :D
+[2016/02/20 08:11:47] <Hume2> It looks like the secret tilemaps are a big waste of space.
+[2016/02/20 08:13:42] <Hume2> I'll try to do something with the filesize of world1.
