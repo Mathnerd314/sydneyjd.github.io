@@ -7694,3 +7694,4 @@
 [2016/02/20 02:02:38] <mt> (also, data storage is relatively cheap these days. I remember, back ten years ago, you'd have to pay like 120 EUR for an 8 GB USB Stick, or even more for just a 120 GB IDE hard drive)
 [2016/02/20 02:03:49] <mt> and then there's http://www.archiveteam.org/index.php?title=Main_Page
 [2016/02/20 02:04:06] <mt> who help collecting data
+[2016/02/20 02:08:48] @ Quit: bb010g: Quit: Connection closed for inactivity
