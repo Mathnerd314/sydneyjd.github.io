@@ -7783,3 +7783,5 @@
 [2016/02/20 08:17:50] <Tobbi> Sorry, misread.
 [2016/02/20 08:18:04] <Tobbi> bbl.
 [2016/02/20 08:23:27] @ claymore2 joined channel #supertux
+[2016/02/20 09:00:39] @ Quit: claymore2: Quit: Leaving
+[2016/02/20 09:04:57] <snadge> yeti's revenge is evil
