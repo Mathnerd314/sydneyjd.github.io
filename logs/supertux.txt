@@ -7782,3 +7782,4 @@
 [2016/02/20 08:17:48] <Tobbi> Ah, waste of space.
 [2016/02/20 08:17:50] <Tobbi> Sorry, misread.
 [2016/02/20 08:18:04] <Tobbi> bbl.
+[2016/02/20 08:23:27] @ claymore2 joined channel #supertux
