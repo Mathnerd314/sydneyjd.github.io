@@ -7836,3 +7836,31 @@
 [2016/02/20 09:43:49] <Tobbi> Hume2: So, why did you add (color 1 1 1) to the worldmap?
 [2016/02/20 09:44:02] <Hume2> Because the editor sucks.
 [2016/02/20 09:45:23] <Tobbi> Ok.
+[2016/02/20 09:55:29] <sydney_untangle> mt: Im stuck behind NAT that my ISP reinforces.
+[2016/02/20 09:56:19] <Tobbi> sydney_untangle: NAT = the sound a duck makes.
+[2016/02/20 10:00:54] <mt> sydney_untangle: well, you could also just squash the entire log repo to one commit, and then just git commit --amend --date=now instead of git commit -m 'message' so it stays one commit
+[2016/02/20 10:01:25] <mt> and maybe only update the logs every 6 hours or so
+[2016/02/20 10:03:25] <Tobbi> If I could only get this log server working.
+[2016/02/20 10:03:39] <Tobbi> But the problems is that it exceeds the capacity of my 4 GB SD card.
+[2016/02/20 10:03:41] <Tobbi> Or is it only 2 GB
+[2016/02/20 10:03:42] <mt> which log server?
+[2016/02/20 10:03:55] <Tobbi> mt: I tried to compile a log server which is used by...eeh...
+[2016/02/20 10:03:57] <Tobbi> one moment.
+[2016/02/20 10:04:31] <Tobbi> mt: botbot.me is open source.
+[2016/02/20 10:04:46] <Tobbi> I tried to compile it but ran out of space on my rbpi.
+[2016/02/20 10:05:06] <mt> what I'd like is a log that you can edit
+[2016/02/20 10:05:39] <Tobbi> mt: not sure about it, but I tried https://github.com/BotBotMe/botbot-bot
+[2016/02/20 10:06:19] <mt> well
+[2016/02/20 10:06:42] <mt> if you could run a client for the logs on that RPi, https://gist.github.com/maxteufel/5cb5a2345b53fa2dafc4
+[2016/02/20 10:06:51] <mt> also works without ZNC
+[2016/02/20 10:07:09] <mt> you'd just have to change the path
+[2016/02/20 10:07:21] <Tobbi> hrm, yeah, but that's not really as user-friendly.
+[2016/02/20 10:07:41] <Tobbi> Also, I don't actually want to open ports on my router.
+[2016/02/20 10:07:48] <mt> it does its job
+[2016/02/20 10:08:05] <mt> you could also put a list with possible paths on the main page
+[2016/02/20 10:08:45] <Tobbi> Hrm, yeah, not sure.
+[2016/02/20 10:08:54] <Tobbi> Now that I have my bouncer, I don't need logs.
+[2016/02/20 10:08:57] <Tobbi> I'm online anyway.
+[2016/02/20 10:13:28] <sydney_untangle> Arg, i cannot seem to get html5 video to play...
+[2016/02/20 10:13:36] <sydney_untangle> that im hosting myself.
+[2016/02/20 10:13:54] <mt> sydney_untangle: do you serve the correct MIME type?
