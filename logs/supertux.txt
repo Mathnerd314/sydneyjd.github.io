@@ -8288,3 +8288,12 @@
 [2016/02/20 15:26:48] <Hume2> OK
 [2016/02/20 15:27:10] <Tobbi> Commits since 0.4.0: https://github.com/SuperTux/supertux/compare/v0.4.0...master
 [2016/02/20 15:27:10] <mt> e.g. if something was in another branch, you should tell me
+[2016/02/20 15:31:10] <Tobbi> The list is quite hug.
+[2016/02/20 15:31:11] <Tobbi> *huge
+[2016/02/20 15:31:21] <Tobbi> 300 something commits.
+[2016/02/20 15:31:26] @ Guest84220 is now known as OperationGT
+[2016/02/20 15:31:52] <mt> 302, according to git describe --tags
+[2016/02/20 15:32:13] <mt> I guess all const correctness fixes can be moved
+[2016/02/20 15:32:33] <mt> as well as Hume2's level size reducements
+[2016/02/20 15:34:09] <Hume2> Yeah, those should be safe.
+[2016/02/20 15:34:41] <mt> unless limited tilemaps depend on something that's new in master
