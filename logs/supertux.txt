@@ -7806,3 +7806,21 @@
 [2016/02/20 09:33:18] <Hume2> Do we have more world1 folders?
 [2016/02/20 09:33:51] <mt> not that I know of, but it's always good to make it clear what's mean
 [2016/02/20 09:33:52] <mt> t
+[2016/02/20 09:35:22] <mt> https://urandom.eu.org/i/2nCwuUA7.png is why missing empty lines suck
+[2016/02/20 09:35:45] <sydney_untangle> mt: Hmm, interesting, then yes, they should be able to maintain themself... and i do value archives.
+[2016/02/20 09:37:12] <pentagon> [10supertux] 07Hume2 04force-pushed 4 commits to 09forest 13https://git.io/v2Tw9
+[2016/02/20 09:37:14] <pentagon> [10supertux] 07Hume2 14e82d9f2 Renamed world2/level1.stl to world2/roots_woody_roots.stl
+[2016/02/20 09:37:17] <pentagon> [10supertux] 07Hume2 14941229c Updated world2/Going_Underground.stl
+[2016/02/20 09:37:20] <pentagon> [10supertux] 07Hume2 14e8a3597 Updated world2/two_towers.stl
+[2016/02/20 09:37:23] <pentagon> [10supertux] 07Hume2 14009d0f9 Combined two main worldmaps
+[2016/02/20 09:37:56] * sydney_untangle nods...
+[2016/02/20 09:38:02] <sydney_untangle> oops... :p
+[2016/02/20 09:38:26] <sydney_untangle> Boy, we need to figure out a diferent way of doing the logs, this is a PITB for me...
+[2016/02/20 09:38:40] <sydney_untangle> well, if i want to edit the website myself. :)
+[2016/02/20 09:38:53] <sydney_untangle> Actually...
+[2016/02/20 09:39:30] <mt> couldn't you host it on a local webserver
+[2016/02/20 09:39:33] <mt> behind cloudflare
+[2016/02/20 09:39:49] <mt> I mean on the machine that's logging
+[2016/02/20 09:39:54] <pentagon> [10supertux] 07Hume2 pushed 3 commits to 09master 13https://git.io/v2TrT
+[2016/02/20 09:39:57] <pentagon> [10supertux] 07Hume2 1476020cd Renamed world2/level1.stl to world2/roots_woody_roots.stl
+[2016/02/20 09:40:00] <pentagon> [10supertux] 07Hume2 14845378a Updated world2/Going_Underground.stl
