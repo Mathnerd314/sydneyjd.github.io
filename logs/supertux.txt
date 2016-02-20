@@ -7702,3 +7702,7 @@
 [2016/02/20 03:26:31] @ Quit: lumidify: Changing host
 [2016/02/20 03:26:31] @ lumidify joined channel #supertux
 [2016/02/20 03:59:27] @ Quit: tux|dude: Quit: Leaving
+[2016/02/20 04:13:22] @ Quit: lumidify: Ping timeout: 244 seconds
+[2016/02/20 04:13:32] <tomreyn> archive.org was initially funded primarily by alexa.com
+[2016/02/20 04:13:56] <tomreyn> i don't know whether that's still so.
+[2016/02/20 04:14:03] <tomreyn> there is also archive.is
