@@ -7930,3 +7930,4 @@
 [2016/02/20 11:02:41] <mt> can you also keep normal git-managed files in a git-annex repo?
 [2016/02/20 11:03:05] <tomreyn> it stores references to large files in git, and manegs them at their original location
 [2016/02/20 11:03:33] <tomreyn> you can have multiple storage backends, using different protocols
+[2016/02/20 11:05:05] <mt> sounds interesting
