@@ -7777,3 +7777,8 @@
 [2016/02/20 08:10:27] <Hume2> It's the join/quit contest :D
 [2016/02/20 08:11:47] <Hume2> It looks like the secret tilemaps are a big waste of space.
 [2016/02/20 08:13:42] <Hume2> I'll try to do something with the filesize of world1.
+[2016/02/20 08:17:08] <Tobbi> Hume2: Secret tilemaps being a waste of speed?
+[2016/02/20 08:17:12] <Tobbi> How so?
+[2016/02/20 08:17:48] <Tobbi> Ah, waste of space.
+[2016/02/20 08:17:50] <Tobbi> Sorry, misread.
+[2016/02/20 08:18:04] <Tobbi> bbl.
