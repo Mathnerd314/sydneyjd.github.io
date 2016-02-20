@@ -8149,3 +8149,11 @@
 [2016/02/20 13:39:23] <mt> what for
 [2016/02/20 13:39:34] <Tobbi> eeh.
 [2016/02/20 13:39:43] <Tobbi> I meant to https://www.softwarefreedom.org/about/team/
+[2016/02/20 13:41:41] <mt> you know my opinion on this is that they should (waste) their own (or actually that of Germans who pay Rundfunkgebuehren -> most, I guess) money on this
+[2016/02/20 13:42:29] <Tobbi> hmm...
+[2016/02/20 13:42:51] <Tobbi> mt: But actually, that means that we'll be getting something back from them.
+[2016/02/20 13:42:54] <Tobbi> Well, the project wil.
+[2016/02/20 13:42:56] <Tobbi> *will
+[2016/02/20 13:43:08] <Tobbi> recognition.
+[2016/02/20 13:43:42] <mt> I know it might be nice to have some publicity on TV
+[2016/02/20 13:44:55] <Tobbi> mt: Besides, Teletubbies are worse than SuperTux :P
