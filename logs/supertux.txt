@@ -8135,3 +8135,17 @@
 [2016/02/20 13:33:53] <Hume2> We don't need more jojin/qujit messages.
 [2016/02/20 13:34:09] <brmbrmcar> :(
 [2016/02/20 13:35:00] <Hume2> Are you speaking about that join/quit contest, son't you?
+[2016/02/20 13:35:10] <brmbrmcar> Yes
+[2016/02/20 13:35:12] <mt> Sure I'll make a vendor prefixed IRCv3 capability for my IRC library where JOIN and QUIT on protocol level are assumed to be JOJIN/QUJIT :D
+[2016/02/20 13:35:25] <Hume2> :D
+[2016/02/20 13:35:43] <Hume2> bbl
+[2016/02/20 13:35:46] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/20 13:35:51] <mt> capability name: hume2.supertuxproject.org/jojin-qujit-v00
+[2016/02/20 13:36:13] <brmbrmcar> add it :D
+[2016/02/20 13:37:42] <mt> would probably be a less than 10 lines patch
+[2016/02/20 13:37:56] <Tobbi> *sigh*
+[2016/02/20 13:38:23] <mt> I need to make sure it knows about the capability (so it can request it), and then just rewrite JOJIN and QUJIN to JOIN and QUIT
+[2016/02/20 13:39:12] <Tobbi> Can anyone draft an e-mail re. legal advice?
+[2016/02/20 13:39:23] <mt> what for
+[2016/02/20 13:39:34] <Tobbi> eeh.
+[2016/02/20 13:39:43] <Tobbi> I meant to https://www.softwarefreedom.org/about/team/
