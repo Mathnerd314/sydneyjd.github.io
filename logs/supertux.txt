@@ -7962,3 +7962,14 @@
 [2016/02/20 12:19:00] <Tobbi> I really like this, in theory.
 [2016/02/20 12:19:10] <Hume2> OK, I like this too.
 [2016/02/20 12:19:47] <brmbrmcar> What?
+[2016/02/20 12:20:03] <Tobbi> brmbrmcar: German television wants to feature SuperTux.
+[2016/02/20 12:20:11] <Tobbi> German children television, that is :)
+[2016/02/20 12:20:46] <brmbrmcar> :D
+[2016/02/20 12:21:01] <brmbrmcar> I like that.
+[2016/02/20 12:23:08] <Tobbi> brmbrmcar: Problem is: I need to ask whether there are legal difficulties involved...
+[2016/02/20 12:23:22] <brmbrmcar> hmmm
+[2016/02/20 12:23:32] <brmbrmcar> I wouldn't think so myself.
+[2016/02/20 12:23:38] <brmbrmcar> But I'm no lawyer
+[2016/02/20 12:24:06] <mt> Could you ask them to ask their lawyer?
+[2016/02/20 12:24:38] <Hume2> Yes, but don't ask two lawyers :P
+[2016/02/20 12:24:50] <Hume2> Else you would be only more confused.
