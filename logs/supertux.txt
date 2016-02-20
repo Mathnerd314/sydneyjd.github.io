@@ -8216,3 +8216,23 @@
 [2016/02/20 15:01:31] <Hume2> wait.
 [2016/02/20 15:01:34] <Hume2> :Ď
 [2016/02/20 15:09:56] <Hume2> After we'll have the server for uploading levels, someone will have to check whether there isn't any useless thing.
+[2016/02/20 15:10:29] <Hume2> You know, the secret tilemaps.
+[2016/02/20 15:10:48] <Tobbi> Hume2: Some of these checks can be automatic.
+[2016/02/20 15:11:08] <mt> indeed, just like code style checkers
+[2016/02/20 15:11:17] <Hume2> Yeah, like checking for empty tilemaps etc..
+[2016/02/20 15:11:54] <Hume2> And how to ensure that the level is finishable?
+[2016/02/20 15:12:27] <Tobbi> Hume2: That's probably best left to automatic checks.
+[2016/02/20 15:12:33] <Tobbi> eeh to manual ones.
+[2016/02/20 15:12:38] <Hume2> The only sollution I can think is being able to upload the level only after finishing it.
+[2016/02/20 15:12:54] <Tobbi> Hume2: We don't have any way to check that.
+[2016/02/20 15:13:02] <mt> there should also be a web interface to upload it
+[2016/02/20 15:13:11] <Tobbi> Also, brmbrmcar is by nature exempt from submitting levels :P
+[2016/02/20 15:13:12] <Hume2> Yeah, I know.
+[2016/02/20 15:13:19] <Hume2> :D
+[2016/02/20 15:13:24] <mt> I'd generally suggest approving users manually
+[2016/02/20 15:13:46] <mt> And if they still abuse level uploading, remove them and their levels
+[2016/02/20 15:13:46] <Tobbi> Yup.
+[2016/02/20 15:14:07] <Hume2> That's a possible sollution.
+[2016/02/20 15:14:13] <Tobbi> But wait, we're a few steps ahead of ourselves...
+[2016/02/20 15:14:21] <Tobbi> First we need to be accepted to GSoC.
+[2016/02/20 15:14:26] <Hume2> Or approve levels/levelsets one by one.
