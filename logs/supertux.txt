@@ -7933,3 +7933,5 @@
 [2016/02/20 11:05:05] <mt> sounds interesting
 [2016/02/20 11:13:22] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/v2TSy
 [2016/02/20 11:13:25] <pentagon> [10supertux] 07Hume2 1493b2ff9 data/levels/bonus1/torfi-*.stl: variated backgrounds
+[2016/02/20 11:35:15] @ Quit: lumidify: Ping timeout: 250 seconds
+[2016/02/20 11:36:34] <brmbrmcar> I need not use git for non-text stuff noo. :D
