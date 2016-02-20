@@ -8112,3 +8112,15 @@
 [2016/02/20 13:21:51] <Tobbi> Since I sent it from supertuxteam@...
 [2016/02/20 13:22:04] <Tobbi> Better send it from tobbi@
 [2016/02/20 13:24:52] <Tobbi> mt: Can I send reply-to to supertuxteam@ ?
+[2016/02/20 13:25:14] <mt> yeah, I guess; also why can't you send it from supertuxteam@
+[2016/02/20 13:25:38] <Tobbi> mt: Not to the mailing list, because sender email requires approval.
+[2016/02/20 13:25:52] <mt> and you don't have admin access?
+[2016/02/20 13:26:21] <Tobbi> mt: No.
+[2016/02/20 13:26:22] <Tobbi> :D
+[2016/02/20 13:26:27] <mt> ok then
+[2016/02/20 13:26:37] <Tobbi> I'll also add a note regarding SuperTux Kart.
+[2016/02/20 13:29:03] <Tobbi> Okay.
+[2016/02/20 13:29:07] <Tobbi> So, that's settled.
+[2016/02/20 13:29:30] <mt> Tobbi: re http://lists.lethargik.org/pipermail/supertux-devel-lethargik.org/2016-February/000052.html (and the thread): could you reply that debian (don't know about ubuntu) packages/packaged supertux 0.4 for all supported platforms
+[2016/02/20 13:29:40] <Tobbi> mt: Soon.
+[2016/02/20 13:29:46] <Tobbi> Let me just forward that e-mail to the stk mailing list.
