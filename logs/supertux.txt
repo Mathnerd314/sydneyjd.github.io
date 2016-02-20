@@ -7945,3 +7945,13 @@
 [2016/02/20 12:09:36] <Tobbi> Hume2: Yes, this is important.
 [2016/02/20 12:09:51] <Hume2> OK, what shall we do?
 [2016/02/20 12:09:53] <Tobbi> Hume2: Problem is: They want someone to sign an agreement...
+[2016/02/20 12:10:03] <Tobbi> I am not sure if it's in compliance with the GPL v2.
+[2016/02/20 12:10:18] <Tobbi> I don't think the past authors of ST will have anything against it, though.
+[2016/02/20 12:10:29] <Hume2> I think so.
+[2016/02/20 12:10:52] <Tobbi> Hume2: http://pastebin.com/cqMkdWjE
+[2016/02/20 12:12:23] <Tobbi> I don't have the right to sign this agreement.
+[2016/02/20 12:12:24] <Hume2> I think they could use it even without the signature.
+[2016/02/20 12:12:29] <Tobbi> I think so.
+[2016/02/20 12:12:36] <Tobbi> Let me check up on that.
+[2016/02/20 12:14:17] <Hume2> KiKA? Like Bernd das Brod plays SuperTux? :P
+[2016/02/20 12:14:29] <Tobbi> Hume2: Bernd das Brot is indeed on KIKA :D
