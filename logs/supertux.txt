@@ -8001,3 +8001,16 @@
 [2016/02/20 12:31:51] <Tobbi> jsyk.
 [2016/02/20 12:33:42] <mt> let's see how much time it takes them to answer
 [2016/02/20 12:34:12] <Tobbi> Yeah...
+[2016/02/20 12:36:01] <mt> I wonder
+[2016/02/20 12:36:11] <mt> why that email is from a GMail address
+[2016/02/20 12:36:25] <Tobbi> true.
+[2016/02/20 12:36:40] <mt> shouldn't there be something like urheberrechte@(whatever).de
+[2016/02/20 12:37:19] <mt> on the other hand
+[2016/02/20 12:37:37] <Tobbi> mt: She might be a junior employee not getting her own e-mail address.
+[2016/02/20 12:37:41] <mt> that document they want us to sign wouldn't allow any third-party to bypass licensing
+[2016/02/20 12:37:56] <mt> any third-party that's not German TV
+[2016/02/20 12:38:11] <Tobbi> We also need to forward the STK email to the right folks.
+[2016/02/20 12:38:43] <mt> >merchandising
+[2016/02/20 12:38:56] <mt> that's going a bit too far, heh
+[2016/02/20 12:39:08] <Tobbi> mt: Merchandising?
+[2016/02/20 12:39:26] <brmbrmcar> huh?
