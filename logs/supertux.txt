@@ -7747,3 +7747,14 @@
 [2016/02/20 07:38:10] @ Quit: lumidify: Changing host
 [2016/02/20 07:38:10] @ lumidify joined channel #supertux
 [2016/02/20 07:49:16] @ Quit: lumidify: Ping timeout: 252 seconds
+[2016/02/20 08:02:37] * Hume2 has jojined
+[2016/02/20 08:02:40] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09forest 13https://git.io/v2TZ3
+[2016/02/20 08:02:43] <pentagon> [10supertux] 07Hume2 14f359413 Combined two main worldmaps
+[2016/02/20 08:02:43] * Hume2 has qujit
+[2016/02/20 08:02:49] * Hume2 has jojined
+[2016/02/20 08:02:58] <Hume2> :D
+[2016/02/20 08:03:50] <Tobbi> Hume2: fail.
+[2016/02/20 08:04:16] <Hume2> Tobbi: What kind of fail?
+[2016/02/20 08:04:28] <Tobbi> Hume2: Fail to produce proper quit messages
+[2016/02/20 08:04:32] <Hume2> :D
+[2016/02/20 08:04:38] <Tobbi> Ask <that guy> how it's done.
