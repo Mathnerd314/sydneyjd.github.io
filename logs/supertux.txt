@@ -8297,3 +8297,6 @@
 [2016/02/20 15:32:33] <mt> as well as Hume2's level size reducements
 [2016/02/20 15:34:09] <Hume2> Yeah, those should be safe.
 [2016/02/20 15:34:41] <mt> unless limited tilemaps depend on something that's new in master
+[2016/02/20 15:37:07] <Tobbi> I don't think so.
+[2016/02/20 15:37:29] <Tobbi> I guess the buildsystem fixes can be moved as well.
+[2016/02/20 15:39:56] @ OperationGT is now known as Guest31727
