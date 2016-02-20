@@ -7876,3 +7876,18 @@
 [2016/02/20 10:19:34] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/v2T6y
 [2016/02/20 10:19:37] <pentagon> [10supertux] 07Hume2 14961ccc8 data/levels/world2: limit size of secret tilemaps
 [2016/02/20 10:19:53] <sydney_untangle> AHHA!
+[2016/02/20 10:20:09] <sydney_untangle> I forgot a word... *facepalm.
+[2016/02/20 10:20:12] <Tobbi> Hume2: Are you using a script for reducing tilemaps or doing them by hand?
+[2016/02/20 10:20:23] <Hume2> Tobbi: I do it hard.
+[2016/02/20 10:20:33] <Tobbi> Hrm.
+[2016/02/20 10:20:40] <Tobbi> ok
+[2016/02/20 10:21:50] <Tobbi> Hume2: What about other tilemaps?
+[2016/02/20 10:22:10] <Hume2> I didn't focused on them so far.
+[2016/02/20 10:22:17] <Hume2> Well, only on some of them.
+[2016/02/20 10:22:31] <Hume2> When there were more than 3.
+[2016/02/20 10:24:06] <Tobbi> Okay...
+[2016/02/20 10:24:13] <Tobbi> It's not that important anyway.
+[2016/02/20 10:24:36] <sydney_untangle> Tobbi: Will github yell at me for hosting large videos? ;p
+[2016/02/20 10:24:43] <Tobbi> sydney_untangle: No.
+[2016/02/20 10:24:51] <Tobbi> They'll close your account without a moment's notice.
+[2016/02/20 10:24:55] <sydney_untangle> Heh.
