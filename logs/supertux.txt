@@ -8022,3 +8022,6 @@
 [2016/02/20 12:40:55] <Tobbi> *sigh*
 [2016/02/20 12:41:02] <Tobbi> This is extremely difficult.
 [2016/02/20 12:44:38] <Tobbi> mt: What are those open source lawyers?
+[2016/02/20 12:45:47] <Tobbi> mt: I found https://www.softwarefreedom.org/about/contact/
+[2016/02/20 12:45:51] <Tobbi> Maybe that's it.
+[2016/02/20 12:46:28] <mt> possible
