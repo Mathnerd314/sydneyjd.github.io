@@ -7715,3 +7715,10 @@
 [2016/02/20 04:44:17] <Tobbi> mt: See, your extensive desire to tell others about your knowledge made lumidify ping timeout.
 [2016/02/20 04:44:30] <Tobbi> I dare you: Don't do it again!
 [2016/02/20 04:44:47] <Tobbi> :P
+[2016/02/20 04:45:45] <mt> what do we need to do now, now that we can't change anything more about our GSoC application?
+[2016/02/20 04:45:52] <Tobbi> mt: I guess wait for the results...
+[2016/02/20 04:46:08] <Tobbi> They'll have decided upon that in like 10 days or so?
+[2016/02/20 04:46:18] <mt> yeah
+[2016/02/20 04:46:22] <mt> 29th I think
+[2016/02/20 04:46:25] <Tobbi> Topic: GSoC Orgs will be announced on Feb 29th!  https://g.co/gsoc
+[2016/02/20 04:46:28] <Tobbi> Yup.
