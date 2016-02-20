@@ -8209,3 +8209,9 @@
 [2016/02/20 14:56:19] @ Mode +v Hume2 by ChanServ
 [2016/02/20 14:59:30] <Hume2> ȟěľľǒ ǎǧǎǐň
 [2016/02/20 14:59:41] <brmbrmcar> oh no...
+[2016/02/20 15:01:02] <mt> I should write a script that replaces the characters with unicode ones
+[2016/02/20 15:01:06] <Tobbi> It's quite surprising that brmbrmcar spielt Moralapostel.
+[2016/02/20 15:01:10] <mt> so brmbrmcar can't read what I write
+[2016/02/20 15:01:25] <Hume2> :D
+[2016/02/20 15:01:31] <Hume2> wait.
+[2016/02/20 15:01:34] <Hume2> :Ď
