@@ -8274,3 +8274,17 @@
 [2016/02/20 15:24:53] <mt> not now
 [2016/02/20 15:24:54] <Tobbi> brmbrmcar: And NO! No .a please.
 [2016/02/20 15:24:56] <mt> tomowrrow maybe
+[2016/02/20 15:25:01] <Tobbi> mt: Tomorrow's fine.
+[2016/02/20 15:25:02] <mt> s/w//
+[2016/02/20 15:25:02] <red_bot> mt meant: "tomorrow maybe"
+[2016/02/20 15:25:20] <mt> it will be quite a few fixes
+[2016/02/20 15:25:28] <brmbrmcar> I know
+[2016/02/20 15:25:33] <brmbrmcar> no .a
+[2016/02/20 15:26:02] <Hume2> How big part of our commits will be in 0.4.1?
+[2016/02/20 15:26:11] <Tobbi> We'll have to see..
+[2016/02/20 15:26:26] <mt> Hume2, Tobbi, sydney_untangle: tell me (just leave a message here, I'll read it in the backlog anyway) if you'd like some non-obvious or larger bugfixes cherry-picked as well
+[2016/02/20 15:26:38] <Tobbi> phew, I'll go through them.
+[2016/02/20 15:26:40] <mt> otherwise I'll only cherry-pick small commits that don't seem dangerous
+[2016/02/20 15:26:48] <Hume2> OK
+[2016/02/20 15:27:10] <Tobbi> Commits since 0.4.0: https://github.com/SuperTux/supertux/compare/v0.4.0...master
+[2016/02/20 15:27:10] <mt> e.g. if something was in another branch, you should tell me
