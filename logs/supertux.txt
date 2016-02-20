@@ -8057,3 +8057,23 @@
 [2016/02/20 13:04:19] @ lumidify joined channel #supertux
 [2016/02/20 13:04:20] @ Quit: lumidify: Changing host
 [2016/02/20 13:04:20] @ lumidify joined channel #supertux
+[2016/02/20 13:05:24] <Hume2> If they used it illegally, who is the damaged one?
+[2016/02/20 13:05:52] <mt> most likely the artist(s)
+[2016/02/20 13:06:06] <mt> showing code running isn't really violating copyright, I guess
+[2016/02/20 13:06:11] <Tobbi> It is *extremely* difficult.
+[2016/02/20 13:06:30] <brmbrmcar> What dothey want to do excatly?
+[2016/02/20 13:06:35] <Hume2> Well, I ask another way.
+[2016/02/20 13:06:45] <mt> but anyway, in Germany you could just ask a lawyer to send them an Abmahnung when they violate copyright, even if you don't own that
+[2016/02/20 13:06:57] <Hume2> If they used it illegally, who is willing to complain?
+[2016/02/20 13:07:17] <mt> everyone in Germany could, to put it that way
+[2016/02/20 13:07:28] <Hume2> Like who has a reason to complain?
+[2016/02/20 13:07:42] <mt> every German resident who sees them violating German law
+[2016/02/20 13:08:17] <Hume2> And do everyone see on firs sight in Germany that it's violating the law?
+[2016/02/20 13:08:30] <Hume2> s/firs/first/
+[2016/02/20 13:08:30] <red_bot> Hume2 meant: "And do everyone see on first sight in Germany that it's violating the law?"
+[2016/02/20 13:08:35] <mt> most people probably wouldn't care
+[2016/02/20 13:08:48] <Hume2> Well, I ask who could care.
+[2016/02/20 13:09:01] <mt> but I mean, heh, Tobbi is German, many of the old team members are Germans, I'm German.
+[2016/02/20 13:09:17] <Tobbi> mt: I think most of the old team members would consider it an honor.
+[2016/02/20 13:09:34] <mt> Yes, probably
+[2016/02/20 13:09:50] <Hume2> OK, mt, do you watch TV and look for each illegality that is broadcasted?
