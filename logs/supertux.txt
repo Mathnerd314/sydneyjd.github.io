@@ -8215,3 +8215,4 @@
 [2016/02/20 15:01:25] <Hume2> :D
 [2016/02/20 15:01:31] <Hume2> wait.
 [2016/02/20 15:01:34] <Hume2> :Ď
+[2016/02/20 15:09:56] <Hume2> After we'll have the server for uploading levels, someone will have to check whether there isn't any useless thing.
