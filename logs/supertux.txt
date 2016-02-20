@@ -7903,3 +7903,10 @@
 [2016/02/20 10:28:12] <sydney_untangle> Anyways.
 [2016/02/20 10:28:16] <mt> sydney_untangle: https://git-lfs.github.com/
 [2016/02/20 10:34:45] <tomreyn> that's a recipe for vendor lock in more or less
+[2016/02/20 10:36:02] <tomreyn> yes the client is open source, but the server component is not well documented, on purpose one might assume. i'd recommend git-annex instead.
+[2016/02/20 10:36:07] <sydney_untangle> Here is another question, i need to generate countdown videos with a physical countdown being shown, any clue on how to do that without having to go through every frame in gimp or such?
+[2016/02/20 10:36:13] <sydney_untangle> :)
+[2016/02/20 10:36:32] * sydney_untangle coughs...
+[2016/02/20 10:38:33] <sydney_untangle> why in the world wont this work. o_O
+[2016/02/20 10:38:51] @ Mathnerd314 joined channel #supertux
+[2016/02/20 10:38:51] @ Mode +v Mathnerd314 by ChanServ
