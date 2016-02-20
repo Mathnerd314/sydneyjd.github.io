@@ -7864,3 +7864,15 @@
 [2016/02/20 10:13:28] <sydney_untangle> Arg, i cannot seem to get html5 video to play...
 [2016/02/20 10:13:36] <sydney_untangle> that im hosting myself.
 [2016/02/20 10:13:54] <mt> sydney_untangle: do you serve the correct MIME type?
+[2016/02/20 10:15:02] <sydney_untangle> mt: Example?
+[2016/02/20 10:15:10] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/02/20 10:15:21] <mt> depends on your video container
+[2016/02/20 10:15:36] <sydney_untangle> If i open the video directly in the browser it plays fine.
+[2016/02/20 10:15:45] <sydney_untangle> .mp4.
+[2016/02/20 10:15:50] <mt> https://en.wikipedia.org/wiki/Media_type
+[2016/02/20 10:18:33] <sydney_untangle> Yes, i have that set propperly.
+[2016/02/20 10:19:05] <mt> what's the html5 video tag
+[2016/02/20 10:19:11] <mt> and what does the browser say?
+[2016/02/20 10:19:34] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/v2T6y
+[2016/02/20 10:19:37] <pentagon> [10supertux] 07Hume2 14961ccc8 data/levels/world2: limit size of secret tilemaps
+[2016/02/20 10:19:53] <sydney_untangle> AHHA!
