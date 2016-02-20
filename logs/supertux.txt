@@ -7785,3 +7785,9 @@
 [2016/02/20 08:23:27] @ claymore2 joined channel #supertux
 [2016/02/20 09:00:39] @ Quit: claymore2: Quit: Leaving
 [2016/02/20 09:04:57] <snadge> yeti's revenge is evil
+[2016/02/20 09:05:11] <Tobbi> snadge: Yeti's Revenge is the best add-on there is.
+[2016/02/20 09:05:32] <snadge> yeah but.. some of these levels are just rooted
+[2016/02/20 09:05:49] <snadge> i've had to cheat past 2 of them now
+[2016/02/20 09:06:07] <Tobbi> snadge: Which ones?
+[2016/02/20 09:06:43] <snadge> spooky way of life.. and
+[2016/02/20 09:08:50] <snadge> i cant remember the other one
