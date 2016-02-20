@@ -8077,3 +8077,21 @@
 [2016/02/20 13:09:17] <Tobbi> mt: I think most of the old team members would consider it an honor.
 [2016/02/20 13:09:34] <mt> Yes, probably
 [2016/02/20 13:09:50] <Hume2> OK, mt, do you watch TV and look for each illegality that is broadcasted?
+[2016/02/20 13:10:12] <mt> Hume2: no, but I could if it's about SuperTux
+[2016/02/20 13:10:34] <mt> also, they're most likely putting it online later on
+[2016/02/20 13:10:40] <Hume2> OK, have you ever complained about an illegality in TV?
+[2016/02/20 13:10:43] <mt> no
+[2016/02/20 13:10:54] <Hume2> Do you know anyone who has?
+[2016/02/20 13:10:55] <mt> because there was nothing that I'd care about
+[2016/02/20 13:10:56] <brmbrmcar> I never complain, but I like looking
+[2016/02/20 13:11:16] <mt> you realize, SuperTux might be something I care more about than other things?
+[2016/02/20 13:11:49] <Hume2> Yeah, I know, I just wanted to consider it that way.
+[2016/02/20 13:12:02] <mt> I don't really care (and can't verify) if they're illegaly using a soundtrack, a logo, whatever of someone I don't know
+[2016/02/20 13:13:10] <Hume2> It's far easier to tell all ST developers that it's OK and to not complain.
+[2016/02/20 13:13:27] <Hume2> You know, the jungle of laws.
+[2016/02/20 13:14:15] <Hume2> I think that we can sign it to them and
+[2016/02/20 13:14:17] <mt> I *think* they also make the one signing responsible for legal actions they might face
+[2016/02/20 13:14:31] <mt> So if $some_old_contributor realizes that, is angry and sues them
+[2016/02/20 13:14:32] <Hume2> Well...
+[2016/02/20 13:14:47] <mt> The person signing it (is there a noun for that?) has a problem
+[2016/02/20 13:15:00] <Hume2> That's right.
