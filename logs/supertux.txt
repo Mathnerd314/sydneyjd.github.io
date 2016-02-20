@@ -8311,3 +8311,17 @@
 [2016/02/20 15:42:19] <Tobbi> that depends on that.
 [2016/02/20 15:42:26] <Tobbi> No, mt should :P
 [2016/02/20 15:42:39] <Hume2> :D
+[2016/02/20 15:47:14] <Tobbi> Guys, do we replace the freenode chat frame with a kiwiirc one?
+[2016/02/20 15:47:19] <Tobbi> I actually like kiwiirc more.
+[2016/02/20 15:48:17] <brmbrmcar> Nae captcha!
+[2016/02/20 15:48:24] <Tobbi> brmbrmcar: What?
+[2016/02/20 15:48:48] <brmbrmcar> There isn't a captcga there
+[2016/02/20 15:48:56] <brmbrmcar> it causees probkems.
+[2016/02/20 15:49:01] <brmbrmcar> When framed.
+[2016/02/20 15:49:03] @ Tobbi_ joined channel #supertux
+[2016/02/20 15:49:14] <Tobbi_> This does actually look great.
+[2016/02/20 15:49:18] @ Quit: Hume2: Ping timeout: 252 seconds
+[2016/02/20 15:49:25] <Tobbi> brmbrmcar: Really?
+[2016/02/20 15:49:26] <Tobbi> Let me check.
+[2016/02/20 15:49:39] <brmbrmcar> If it asks for question
+[2016/02/20 15:49:48] @ Quit: Tobbi_: Client Quit
