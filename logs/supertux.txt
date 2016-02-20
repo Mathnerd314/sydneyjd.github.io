@@ -7902,3 +7902,4 @@
 [2016/02/20 10:28:07] @ lumidify joined channel #supertux
 [2016/02/20 10:28:12] <sydney_untangle> Anyways.
 [2016/02/20 10:28:16] <mt> sydney_untangle: https://git-lfs.github.com/
+[2016/02/20 10:34:45] <tomreyn> that's a recipe for vendor lock in more or less
