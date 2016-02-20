@@ -8104,3 +8104,11 @@
 [2016/02/20 13:19:25] <Hume2> It sounds well.
 [2016/02/20 13:19:44] <Tobbi> Wait, auf Sie -> "auf Ihr Anliegen"
 [2016/02/20 13:19:46] <mt> sounds good
+[2016/02/20 13:20:28] <Tobbi> I'll send it from the supertuxteam@ address.
+[2016/02/20 13:21:19] <mt> don't forget to actually CC: them
+[2016/02/20 13:21:30] <Tobbi> Oh no.
+[2016/02/20 13:21:32] <mt> they probably didn't subscribe to the mailing list
+[2016/02/20 13:21:43] <Tobbi> mt: Yeah, also it's now in the queue...
+[2016/02/20 13:21:51] <Tobbi> Since I sent it from supertuxteam@...
+[2016/02/20 13:22:04] <Tobbi> Better send it from tobbi@
+[2016/02/20 13:24:52] <Tobbi> mt: Can I send reply-to to supertuxteam@ ?
