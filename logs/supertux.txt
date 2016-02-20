@@ -8300,3 +8300,14 @@
 [2016/02/20 15:37:07] <Tobbi> I don't think so.
 [2016/02/20 15:37:29] <Tobbi> I guess the buildsystem fixes can be moved as well.
 [2016/02/20 15:39:56] @ OperationGT is now known as Guest31727
+[2016/02/20 15:40:01] <Hume2> Is my new badguy leafshot stable enough?
+[2016/02/20 15:40:24] <Hume2> In fact, it's a bugfix too.
+[2016/02/20 15:40:30] <Tobbi> Hume2: No, it's a new feature...iirc.
+[2016/02/20 15:40:47] <Tobbi> new content is always a new feature.
+[2016/02/20 15:41:03] <Tobbi> Actually, it is stable enough.
+[2016/02/20 15:42:01] <Hume2> If you decide not to put it there, then don't put there also the other edits of the level "levels/world2/Two_Towers.stl".
+[2016/02/20 15:42:13] <Tobbi> Oh, right.
+[2016/02/20 15:42:16] <Hume2> You should be able to distinguish it well.
+[2016/02/20 15:42:19] <Tobbi> that depends on that.
+[2016/02/20 15:42:26] <Tobbi> No, mt should :P
+[2016/02/20 15:42:39] <Hume2> :D
