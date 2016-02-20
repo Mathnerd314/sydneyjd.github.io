@@ -7988,3 +7988,16 @@
 [2016/02/20 12:29:38] <mt> *they* have to do that, not *us*
 [2016/02/20 12:29:45] <Tobbi> Right.
 [2016/02/20 12:30:00] <Tobbi> mt: However, they'll probably fear the legal implications...
+[2016/02/20 12:30:02] <mt> and because they probably won't do that
+[2016/02/20 12:30:05] <Tobbi> Yeah.
+[2016/02/20 12:30:11] <mt> they should get a lawyer understanding the licenses
+[2016/02/20 12:30:25] <Tobbi> mt: But I think getting featured on TV is great...problem is we can't make exceptions, can we?
+[2016/02/20 12:30:35] <mt> if they can't, they shouldn't be doing this anyway
+[2016/02/20 12:30:37] @ OperationGT joined channel #supertux
+[2016/02/20 12:30:45] <mt> you can only make exceptions for your code
+[2016/02/20 12:30:54] <Tobbi> *sigh*
+[2016/02/20 12:31:10] <mt> they have to realize that we as an open source project can't afford a lawyer for such a question
+[2016/02/20 12:31:49] <Tobbi> mt: https://de.wikipedia.org/wiki/Wikipedia:Urheberrechtsfragen#TV-Vorf.C3.BChrung_von_GPLv3-Software
+[2016/02/20 12:31:51] <Tobbi> jsyk.
+[2016/02/20 12:33:42] <mt> let's see how much time it takes them to answer
+[2016/02/20 12:34:12] <Tobbi> Yeah...
