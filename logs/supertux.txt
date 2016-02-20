@@ -7910,3 +7910,5 @@
 [2016/02/20 10:38:33] <sydney_untangle> why in the world wont this work. o_O
 [2016/02/20 10:38:51] @ Mathnerd314 joined channel #supertux
 [2016/02/20 10:38:51] @ Mode +v Mathnerd314 by ChanServ
+[2016/02/20 10:54:08] <mt> tomreyn: well, gitlab now supports git-lfs too
+[2016/02/20 10:54:38] <tomreyn> mt: as a server component?
