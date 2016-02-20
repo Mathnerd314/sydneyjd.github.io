@@ -8157,3 +8157,18 @@
 [2016/02/20 13:43:08] <Tobbi> recognition.
 [2016/02/20 13:43:42] <mt> I know it might be nice to have some publicity on TV
 [2016/02/20 13:44:55] <Tobbi> mt: Besides, Teletubbies are worse than SuperTux :P
+[2016/02/20 13:45:15] <mt> :D
+[2016/02/20 13:45:36] <brmbrmcar> Teletubbies!
+[2016/02/20 13:45:41] <mt> let's just make them stream SuperTux all the time?!
+[2016/02/20 13:45:59] <Tobbi> mt: Definitely adds value.
+[2016/02/20 13:46:47] <Tobbi> mt: SuperTux makes them want to learn more about penguins and their natural habitats, about the different aggregates of snow, and a LOT more.
+[2016/02/20 13:47:18] <mt> SuperTux makes people interested in physics! (Hume2 calculating mass of items...)
+[2016/02/20 13:47:45] <Tobbi> :D
+[2016/02/20 13:47:46] <Tobbi> haha
+[2016/02/20 13:48:20] <mt> Speaking of that, where's our implementation of gravitational waves????
+[2016/02/20 13:48:38] <Tobbi> SuperTux's? :D
+[2016/02/20 13:48:40] <Tobbi> o.O
+[2016/02/20 13:48:44] <Tobbi> This is gonna be complicated.
+[2016/02/20 13:49:20] <mt> Or to be serious, I won't write an email to these software lawyers whatever people, at least not any time soon
+[2016/02/20 13:49:26] <mt> If someone else wants, sure
+[2016/02/20 13:49:44] <Tobbi> mt: I guess I'll do it.
