@@ -7931,3 +7931,5 @@
 [2016/02/20 11:03:05] <tomreyn> it stores references to large files in git, and manegs them at their original location
 [2016/02/20 11:03:33] <tomreyn> you can have multiple storage backends, using different protocols
 [2016/02/20 11:05:05] <mt> sounds interesting
+[2016/02/20 11:13:22] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/v2TSy
+[2016/02/20 11:13:25] <pentagon> [10supertux] 07Hume2 1493b2ff9 data/levels/bonus1/torfi-*.stl: variated backgrounds
