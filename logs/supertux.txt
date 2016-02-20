@@ -7791,3 +7791,7 @@
 [2016/02/20 09:06:07] <Tobbi> snadge: Which ones?
 [2016/02/20 09:06:43] <snadge> spooky way of life.. and
 [2016/02/20 09:08:50] <snadge> i cant remember the other one
+[2016/02/20 09:10:43] @ Quit: lumidify: Ping timeout: 248 seconds
+[2016/02/20 09:13:00] <Tobbi> Okay...
+[2016/02/20 09:13:19] <Tobbi> snadge: Spooky Way of life is easy. I am having trouble finding the missing secret in shaft racing.
+[2016/02/20 09:14:54] @ tuxdev_ joined channel #supertux
