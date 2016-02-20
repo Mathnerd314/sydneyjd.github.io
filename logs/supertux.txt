@@ -8236,3 +8236,10 @@
 [2016/02/20 15:14:13] <Tobbi> But wait, we're a few steps ahead of ourselves...
 [2016/02/20 15:14:21] <Tobbi> First we need to be accepted to GSoC.
 [2016/02/20 15:14:26] <Hume2> Or approve levels/levelsets one by one.
+[2016/02/20 15:15:12] <Hume2> Yeah, being accepted by GSoC is more important now.
+[2016/02/20 15:15:31] <mt> there's nothing we can do now
+[2016/02/20 15:15:38] <mt> except for waiting?
+[2016/02/20 15:17:37] <Tobbi> Yes.
+[2016/02/20 15:18:43] <Hume2> We can pretend that we are working on something important :P
+[2016/02/20 15:19:27] <Tobbi> Hume2: We have done that way too often.
+[2016/02/20 15:19:39] <Hume2> That's true.
