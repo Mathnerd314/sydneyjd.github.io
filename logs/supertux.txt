@@ -7824,3 +7824,15 @@
 [2016/02/20 09:39:54] <pentagon> [10supertux] 07Hume2 pushed 3 commits to 09master 13https://git.io/v2TrT
 [2016/02/20 09:39:57] <pentagon> [10supertux] 07Hume2 1476020cd Renamed world2/level1.stl to world2/roots_woody_roots.stl
 [2016/02/20 09:40:00] <pentagon> [10supertux] 07Hume2 14845378a Updated world2/Going_Underground.stl
+[2016/02/20 09:40:03] <pentagon> [10supertux] 07Hume2 1441da157 Updated world2/two_towers.stl
+[2016/02/20 09:40:59] <pentagon> [10supertux] 07Hume2 04force-pushed 1 commit to 09forest 13https://git.io/v2Trq
+[2016/02/20 09:41:02] <pentagon> [10supertux] 07Hume2 14b20056c Combined two main worldmaps
+[2016/02/20 09:41:22] <Hume2> Wow, it worked.
+[2016/02/20 09:42:53] <Tobbi> Hume2: Isn't the default for worldmap color white anyway?
+[2016/02/20 09:43:25] <Hume2> Tobbi: Do you think the level titles I proposed?
+[2016/02/20 09:43:31] <Hume2> that my PR?
+[2016/02/20 09:43:33] <Tobbi> Hume2: yes.
+[2016/02/20 09:43:38] <Hume2> Yes, it is.
+[2016/02/20 09:43:49] <Tobbi> Hume2: So, why did you add (color 1 1 1) to the worldmap?
+[2016/02/20 09:44:02] <Hume2> Because the editor sucks.
+[2016/02/20 09:45:23] <Tobbi> Ok.

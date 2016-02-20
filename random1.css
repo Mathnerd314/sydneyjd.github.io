@@ -3,6 +3,7 @@ body {
   font-family: sans-serif;
   color: black;
   margin: 0px;
+  text-align: center;
 }
 #header a {
   width: 100%;
