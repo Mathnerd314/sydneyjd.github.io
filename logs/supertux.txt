@@ -8025,3 +8025,5 @@
 [2016/02/20 12:45:47] <Tobbi> mt: I found https://www.softwarefreedom.org/about/contact/
 [2016/02/20 12:45:51] <Tobbi> Maybe that's it.
 [2016/02/20 12:46:28] <mt> possible
+[2016/02/20 12:54:01] @ Quit: claymore2: Read error: Connection reset by peer
+[2016/02/20 12:54:32] @ claymore2 joined channel #supertux
