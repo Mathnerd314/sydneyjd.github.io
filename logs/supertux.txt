@@ -8325,3 +8325,10 @@
 [2016/02/20 15:49:26] <Tobbi> Let me check.
 [2016/02/20 15:49:39] <brmbrmcar> If it asks for question
 [2016/02/20 15:49:48] @ Quit: Tobbi_: Client Quit
+[2016/02/20 15:50:59] @ supertuxer|40422 joined channel #supertux
+[2016/02/20 15:51:06] <supertuxer|40422> hmm...
+[2016/02/20 15:51:54] <supertuxer|40422> We can try this, though.
+[2016/02/20 15:52:03] @ supertuxer|40422 left channel #supertux ()
+[2016/02/20 15:53:04] <Tobbi> Also, there's a mini theme.
+[2016/02/20 15:53:08] @ supertuxer|94221 joined channel #supertux
+[2016/02/20 15:53:10] @ Quit: supertuxer|94221: Client Quit
