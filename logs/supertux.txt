@@ -7912,3 +7912,15 @@
 [2016/02/20 10:38:51] @ Mode +v Mathnerd314 by ChanServ
 [2016/02/20 10:54:08] <mt> tomreyn: well, gitlab now supports git-lfs too
 [2016/02/20 10:54:38] <tomreyn> mt: as a server component?
+[2016/02/20 10:55:48] <tomreyn> oh looks like it, okay that's great
+[2016/02/20 10:56:24] <mt> yeah
+[2016/02/20 10:56:30] <mt> https://about.gitlab.com/2015/11/23/announcing-git-lfs-support-in-gitlab/
+[2016/02/20 10:56:57] <mt> I thought it was a more recent addition tbh
+[2016/02/20 10:57:31] <pentagon> [10supertux] 07Hume2 04force-pushed 2 commits to 09forest 13https://git.io/v2TDe
+[2016/02/20 10:57:34] <pentagon> [10supertux] 07Hume2 14f9981e0 Combined two main worldmaps
+[2016/02/20 10:57:37] <pentagon> [10supertux] 07Hume2 141685db8 Deleted levels from data/levels/world2 without any perspective
+[2016/02/20 10:58:53] <pentagon> [10supertux] 07Hume2 04force-pushed 1 commit to 09forest 13https://git.io/v2TDC
+[2016/02/20 10:58:56] <pentagon> [10supertux] 07Hume2 142de6eda Deleted levels from data/levels/world2 without any perspective
+[2016/02/20 10:58:58] <tomreyn> When SSH is set as a remote, Git LFS objects still go through HTTPS
+[2016/02/20 10:59:00] <tomreyn> http://doc.gitlab.com/ce/workflow/lfs/manage_large_binaries_with_git_lfs.html
+[2016/02/20 10:59:09] <tomreyn> not so great, but it's young
