@@ -7711,3 +7711,7 @@
 [2016/02/20 04:26:58] <mt> archive.org also has other stuff
 [2016/02/20 04:27:15] <mt> (books, music, videos, maps, ...)
 [2016/02/20 04:29:07] @ Quit: lumidify: Ping timeout: 248 seconds
+[2016/02/20 04:43:58] <Tobbi> *sigh*
+[2016/02/20 04:44:17] <Tobbi> mt: See, your extensive desire to tell others about your knowledge made lumidify ping timeout.
+[2016/02/20 04:44:30] <Tobbi> I dare you: Don't do it again!
+[2016/02/20 04:44:47] <Tobbi> :P
