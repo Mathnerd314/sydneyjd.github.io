@@ -7936,3 +7936,12 @@
 [2016/02/20 11:35:15] @ Quit: lumidify: Ping timeout: 250 seconds
 [2016/02/20 11:36:34] <brmbrmcar> I need not use git for non-text stuff noo. :D
 [2016/02/20 11:43:12] @ claymore2 joined channel #supertux
+[2016/02/20 12:05:35] <Tobbi> haha.
+[2016/02/20 12:05:37] <Tobbi> Damn this.
+[2016/02/20 12:07:50] <Tobbi> mt: ping.
+[2016/02/20 12:08:32] <Tobbi> yikes...this is difficult...
+[2016/02/20 12:09:01] <Tobbi> Hume2: German TV (Kinderkanal) wants to check out SuperTux.
+[2016/02/20 12:09:23] <Hume2> Wichtig?
+[2016/02/20 12:09:36] <Tobbi> Hume2: Yes, this is important.
+[2016/02/20 12:09:51] <Hume2> OK, what shall we do?
+[2016/02/20 12:09:53] <Tobbi> Hume2: Problem is: They want someone to sign an agreement...
