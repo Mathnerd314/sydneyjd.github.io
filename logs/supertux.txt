@@ -8027,3 +8027,20 @@
 [2016/02/20 12:46:28] <mt> possible
 [2016/02/20 12:54:01] @ Quit: claymore2: Read error: Connection reset by peer
 [2016/02/20 12:54:32] @ claymore2 joined channel #supertux
+[2016/02/20 12:56:06] <Tobbi> mt: And giby got ahead of himself.
+[2016/02/20 12:56:08] <Tobbi> shit.
+[2016/02/20 12:56:32] <Tobbi> Uh, sorry for the expletive...
+[2016/02/20 12:57:14] <mt> well
+[2016/02/20 12:57:21] <mt> nothing that can be considered a signature
+[2016/02/20 12:57:28] <Tobbi> Sure, that's right...
+[2016/02/20 12:57:48] <mt> and even if that'd be the case, others aren't contractual partners
+[2016/02/20 12:57:55] <Tobbi> mt: Anyway, I'll probably send a message saying that we'll ask for legal advice on our own...?
+[2016/02/20 12:58:00] <mt> that means that they could actually take legal actions
+[2016/02/20 12:58:00] <Tobbi> Sound good?
+[2016/02/20 12:58:06] <mt> yes
+[2016/02/20 12:58:14] <Tobbi> I can assume she doesn't know anything about open source projects..
+[2016/02/20 12:58:18] <mt> on the other hand
+[2016/02/20 12:58:28] <mt> they should read the license(s)
+[2016/02/20 12:58:34] <mt> and follow them
+[2016/02/20 12:58:38] <mt> and if they don't
+[2016/02/20 12:58:52] <mt> it's not my problem when someone's taking legal action
