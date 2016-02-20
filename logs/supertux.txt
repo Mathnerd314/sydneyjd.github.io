@@ -8339,3 +8339,4 @@
 [2016/02/20 16:14:22] @ OperationGT is now known as Guest8332
 [2016/02/20 16:19:30] @ Quit: Guest8332: Quit: Leaving
 [2016/02/20 16:20:07] @ OperationGT_ joined channel #supertux
+[2016/02/20 16:30:52] @ Quit: lumidify: Quit: Leaving
