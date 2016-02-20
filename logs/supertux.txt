@@ -7795,3 +7795,7 @@
 [2016/02/20 09:13:00] <Tobbi> Okay...
 [2016/02/20 09:13:19] <Tobbi> snadge: Spooky Way of life is easy. I am having trouble finding the missing secret in shaft racing.
 [2016/02/20 09:14:54] @ tuxdev_ joined channel #supertux
+[2016/02/20 09:27:51] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/v2T2D
+[2016/02/20 09:27:54] <pentagon> [10supertux] 07Hume2 14881de13 Reduced file size of world1
+[2016/02/20 09:28:07] <Hume2> Some secret tilemaps were already limited.
+[2016/02/20 09:28:20] <Hume2> world1: 6,0Mb -> 5,8Mb
