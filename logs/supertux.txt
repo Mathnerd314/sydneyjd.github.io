@@ -8332,3 +8332,5 @@
 [2016/02/20 15:53:04] <Tobbi> Also, there's a mini theme.
 [2016/02/20 15:53:08] @ supertuxer|94221 joined channel #supertux
 [2016/02/20 15:53:10] @ Quit: supertuxer|94221: Client Quit
+[2016/02/20 15:55:12] @ Guest31727 is now known as OperationGT
+[2016/02/20 15:59:12] @ OperationGT is now known as Guest70843
