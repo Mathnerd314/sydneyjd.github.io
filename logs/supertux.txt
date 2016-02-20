@@ -8172,3 +8172,19 @@
 [2016/02/20 13:49:20] <mt> Or to be serious, I won't write an email to these software lawyers whatever people, at least not any time soon
 [2016/02/20 13:49:26] <mt> If someone else wants, sure
 [2016/02/20 13:49:44] <Tobbi> mt: I guess I'll do it.
+[2016/02/20 13:50:02] <Tobbi> I like the matter...Legal stuff is interesting.
+[2016/02/20 13:50:04] <mt> I doubt signing this would be possible
+[2016/02/20 13:50:13] <Tobbi> Who knows...
+[2016/02/20 13:50:17] <mt> at least not as a single person
+[2016/02/20 13:51:00] <Tobbi> mt: If it's already permitted under the GPLv3 to publicly broadcast SuperTux, then I can as well sign it.
+[2016/02/20 13:51:04] <Tobbi> Wouldn't make much of a difference
+[2016/02/20 13:51:36] <mt> I'd especially read the last paragraph very carefully
+[2016/02/20 13:51:44] <mt> I don't like what that one says
+[2016/02/20 13:51:46] <Tobbi> Oh, yes.
+[2016/02/20 13:52:01] <Tobbi> Okay...
+[2016/02/20 13:52:02] <Tobbi> no.
+[2016/02/20 13:52:06] <Tobbi> I am not prepared to do that.
+[2016/02/20 13:52:32] <Tobbi> I'll ask the open source lawyers.
+[2016/02/20 13:53:50] <Tobbi> But, before that, I'll get some food...
+[2016/02/20 13:54:02] <Tobbi> Döner FTW
+[2016/02/20 13:54:50] <Tobbi> mt: Also, her German is not the yellow from the egg.
