@@ -7924,3 +7924,9 @@
 [2016/02/20 10:58:58] <tomreyn> When SSH is set as a remote, Git LFS objects still go through HTTPS
 [2016/02/20 10:59:00] <tomreyn> http://doc.gitlab.com/ce/workflow/lfs/manage_large_binaries_with_git_lfs.html
 [2016/02/20 10:59:09] <tomreyn> not so great, but it's young
+[2016/02/20 11:00:05] <Hume2> I managed to reduce the size of world 2 to 7,0MB, by this: https://github.com/SuperTux/supertux/commit/2de6edabc9f65a5c8a4eafabdf367a41053a1bf2
+[2016/02/20 11:00:12] <Hume2> It's not in master though.
+[2016/02/20 11:01:45] <mt> tomreyn: how does -annex work? never really looked at it
+[2016/02/20 11:02:41] <mt> can you also keep normal git-managed files in a git-annex repo?
+[2016/02/20 11:03:05] <tomreyn> it stores references to large files in git, and manegs them at their original location
+[2016/02/20 11:03:33] <tomreyn> you can have multiple storage backends, using different protocols
