@@ -7799,3 +7799,10 @@
 [2016/02/20 09:27:54] <pentagon> [10supertux] 07Hume2 14881de13 Reduced file size of world1
 [2016/02/20 09:28:07] <Hume2> Some secret tilemaps were already limited.
 [2016/02/20 09:28:20] <Hume2> world1: 6,0Mb -> 5,8Mb
+[2016/02/20 09:30:52] <mt> Hume2: you're reading CONTRIBUTING.md not hard enough
+[2016/02/20 09:31:19] <mt> "- An empty line, separating message subject and body"
+[2016/02/20 09:32:45] <Hume2> I hate empty lines :D , but OK.
+[2016/02/20 09:32:48] <mt> also, "data/levels/world1: limit size of secret tilemaps" would be a much more descriptive commit message subject
+[2016/02/20 09:33:18] <Hume2> Do we have more world1 folders?
+[2016/02/20 09:33:51] <mt> not that I know of, but it's always good to make it clear what's mean
+[2016/02/20 09:33:52] <mt> t
