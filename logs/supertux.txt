@@ -7891,3 +7891,14 @@
 [2016/02/20 10:24:43] <Tobbi> sydney_untangle: No.
 [2016/02/20 10:24:51] <Tobbi> They'll close your account without a moment's notice.
 [2016/02/20 10:24:55] <sydney_untangle> Heh.
+[2016/02/20 10:25:15] <Tobbi> sydney_untangle: How do you define large?
+[2016/02/20 10:25:52] <sydney_untangle> A gig altogether at max. :)
+[2016/02/20 10:25:57] <sydney_untangle> lol.
+[2016/02/20 10:26:43] <mt> a repo shouldn't be larger than 1 GB
+[2016/02/20 10:26:52] <mt> there's a hard limit at some point, iirc
+[2016/02/20 10:27:30] <Tobbi> hmm, ok.
+[2016/02/20 10:28:07] @ lumidify joined channel #supertux
+[2016/02/20 10:28:07] @ Quit: lumidify: Changing host
+[2016/02/20 10:28:07] @ lumidify joined channel #supertux
+[2016/02/20 10:28:12] <sydney_untangle> Anyways.
+[2016/02/20 10:28:16] <mt> sydney_untangle: https://git-lfs.github.com/
