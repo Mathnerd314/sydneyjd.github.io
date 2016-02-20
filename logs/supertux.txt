@@ -7696,3 +7696,4 @@
 [2016/02/20 02:04:06] <mt> who help collecting data
 [2016/02/20 02:08:48] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2016/02/20 02:31:57] @ Quit: tuxdev_: Ping timeout: 276 seconds
+[2016/02/20 02:57:10] @ lumidify joined channel #supertux
