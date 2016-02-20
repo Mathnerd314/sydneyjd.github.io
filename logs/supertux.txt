@@ -7683,3 +7683,4 @@
 [2016/02/19 19:30:32] <sydney_untangle> mt: I know they are stored on hard drives, but that is *alot* of data, and im still wondering who pays for it all. data storage is not free...
 [2016/02/19 20:18:25] @ bb010g joined channel #supertux
 [2016/02/19 21:21:59] @ Quit: Wuzzy: Ping timeout: 240 seconds
+[2016/02/19 21:28:49] @ Wuzzy joined channel #supertux
