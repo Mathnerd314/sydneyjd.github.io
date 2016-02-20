@@ -7722,3 +7722,5 @@
 [2016/02/20 04:46:22] <mt> 29th I think
 [2016/02/20 04:46:25] <Tobbi> Topic: GSoC Orgs will be announced on Feb 29th!  https://g.co/gsoc
 [2016/02/20 04:46:28] <Tobbi> Yup.
+[2016/02/20 04:58:28] @ Quit: VargaD: Ping timeout: 248 seconds
+[2016/02/20 04:59:33] @ VargaD joined channel #supertux
