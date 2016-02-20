@@ -8205,3 +8205,7 @@
 [2016/02/20 14:48:33] @ lumidify joined channel #supertux
 [2016/02/20 14:48:33] @ Quit: lumidify: Changing host
 [2016/02/20 14:48:33] @ lumidify joined channel #supertux
+[2016/02/20 14:56:19] @ Hume2 joined channel #supertux
+[2016/02/20 14:56:19] @ Mode +v Hume2 by ChanServ
+[2016/02/20 14:59:30] <Hume2> ȟěľľǒ ǎǧǎǐň
+[2016/02/20 14:59:41] <brmbrmcar> oh no...
