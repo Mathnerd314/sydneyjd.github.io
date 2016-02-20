@@ -7686,3 +7686,4 @@
 [2016/02/19 21:28:49] @ Wuzzy joined channel #supertux
 [2016/02/19 21:53:19] @ Quit: Wuzzy: Remote host closed the connection
 [2016/02/19 22:40:48] @ tux|dude joined channel #supertux
+[2016/02/19 23:54:13] @ Quit: irungentoo: Remote host closed the connection
