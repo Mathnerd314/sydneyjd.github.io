@@ -7697,3 +7697,4 @@
 [2016/02/20 02:08:48] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2016/02/20 02:31:57] @ Quit: tuxdev_: Ping timeout: 276 seconds
 [2016/02/20 02:57:10] @ lumidify joined channel #supertux
+[2016/02/20 03:09:04] @ Quit: lumidify: Ping timeout: 240 seconds
