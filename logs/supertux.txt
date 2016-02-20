@@ -8044,3 +8044,16 @@
 [2016/02/20 12:58:34] <mt> and follow them
 [2016/02/20 12:58:38] <mt> and if they don't
 [2016/02/20 12:58:52] <mt> it's not my problem when someone's taking legal action
+[2016/02/20 13:00:04] <Tobbi> mt: True, but they're likely not going to do that.
+[2016/02/20 13:00:05] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/v2kJG
+[2016/02/20 13:00:08] <pentagon> [10supertux] 07Hume2 14a0a7da9 data/levels/bonus3: limited additional tilemaps
+[2016/02/20 13:00:18] <Hume2> 6,4MB -> 5,5MB
+[2016/02/20 13:00:44] <mt> they have lawyers and they have money
+[2016/02/20 13:00:52] <mt> sure they can let these lawyers read the licenses
+[2016/02/20 13:02:14] <Tobbi> mt: They only have limited time. And Grit is only a small employee...
+[2016/02/20 13:03:16] <mt> I'm actually unsure if the signature would make the person signing this responsible for others taking legal action
+[2016/02/20 13:03:21] <mt> So I'd not sign that
+[2016/02/20 13:03:45] <mt> really, what giby said is actually true
+[2016/02/20 13:04:19] @ lumidify joined channel #supertux
+[2016/02/20 13:04:20] @ Quit: lumidify: Changing host
+[2016/02/20 13:04:20] @ lumidify joined channel #supertux
