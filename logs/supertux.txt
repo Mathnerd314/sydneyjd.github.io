@@ -8605,3 +8605,5 @@
 [2016/02/21 07:22:13] <mt> who else?
 [2016/02/21 07:22:17] <mt> grumbel?
 [2016/02/21 07:24:41] <Tobbi> possibly.
+[2016/02/21 07:25:12] <Tobbi> Okay, we could as well just only keep the changesets that don't interfere...
+[2016/02/21 07:28:39] <Tobbi> *squirrel as a subprojct* *sigh*
