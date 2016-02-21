@@ -8692,3 +8692,13 @@
 [2016/02/21 09:54:40] <Hume2> I don't know.
 [2016/02/21 09:54:45] <Tobbi> hrm, okay...
 [2016/02/21 09:56:34] <pentagon> [10supertux] Status for commit Looping sounds now stop when changing sector. by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/396
+[2016/02/21 10:00:26] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09develop 13https://git.io/v2IdQ
+[2016/02/21 10:00:28] <pentagon> [10supertux] 07Hume2 14c3c943a Added an invisible dispenser type
+[2016/02/21 10:02:45] @ tuxdev_ joined channel #supertux
+[2016/02/21 10:02:57] <pentagon> [10supertux] 07Hume2 pushed 2 commits to 09master 13https://git.io/v2IbM
+[2016/02/21 10:03:00] <pentagon> [10supertux] 07Hume2 147848dfc Looping sounds now stop when changing sector.
+[2016/02/21 10:03:03] <pentagon> [10supertux] 07Hume2 14717483b Added an invisible dispenser type
+[2016/02/21 10:03:07] <pentagon> [10supertux] 07Hume2 closed issue 09#336: Haywire sound effect trigger glitch 13https://git.io/v2IzT
+[2016/02/21 10:03:11] <pentagon> [10supertux] 07Hume2 closed issue 09#354: Get rid of old and ugly dispenser 13https://git.io/vzjpC
+[2016/02/21 10:14:04] <pentagon> [10supertux] Status for commit Added an invisible dispenser type by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/110766002
+[2016/02/21 10:14:29] <pentagon> [10supertux] 07Hume2 04deleted branch 09develop
