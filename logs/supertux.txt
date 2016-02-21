@@ -8607,3 +8607,4 @@
 [2016/02/21 07:24:41] <Tobbi> possibly.
 [2016/02/21 07:25:12] <Tobbi> Okay, we could as well just only keep the changesets that don't interfere...
 [2016/02/21 07:28:39] <Tobbi> *squirrel as a subprojct* *sigh*
+[2016/02/21 07:32:51] <Tobbi> Also, *sigh* https://de.wikipedia.org/wiki/Wikipedia:Urheberrechtsfragen#TV-Vorf.C3.BChrung_von_GPLv3-Software
