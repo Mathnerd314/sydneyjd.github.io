@@ -8702,3 +8702,23 @@
 [2016/02/21 10:03:11] <pentagon> [10supertux] 07Hume2 closed issue 09#354: Get rid of old and ugly dispenser 13https://git.io/vzjpC
 [2016/02/21 10:14:04] <pentagon> [10supertux] Status for commit Added an invisible dispenser type by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/110766002
 [2016/02/21 10:14:29] <pentagon> [10supertux] 07Hume2 04deleted branch 09develop
+[2016/02/21 10:16:56] <Tobbi> Hume2: Please do add if statements to the play code as well.
+[2016/02/21 10:17:06] <Tobbi> aka, even in play() check if sound source is actually not null.
+[2016/02/21 10:17:27] <Tobbi> Eh, sorry, in stop()
+[2016/02/21 10:17:35] <Hume2> OK.
+[2016/02/21 10:17:53] <Tobbi> I got a crash because of this.
+[2016/02/21 10:20:04] <mt> Hume2: did you amend these commits you pushed to master or why do they have different commit hashes
+[2016/02/21 10:20:17] <mt> if you cherry-pick, you could as well do a fast-forward merge
+[2016/02/21 10:20:19] <Hume2> mt: I didn't.
+[2016/02/21 10:20:33] <Hume2> I cherry-picked.
+[2016/02/21 10:20:46] <mt> git checkout master && git merge --ff-only develop
+[2016/02/21 10:20:56] <Hume2> OK
+[2016/02/21 10:21:14] <mt> cherry-pick changes commit date
+[2016/02/21 10:25:06] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/v2Ij1
+[2016/02/21 10:25:09] <pentagon> [10supertux] 07Hume2 14389e8ea Added null checks to GameObject::stop_looping_sounds()
+[2016/02/21 10:27:00] <Tobbi> Yeah *okay*...
+[2016/02/21 10:27:30] <pentagon> [10supertux] Status for commit Added an invisible dispenser type by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/110766376
+[2016/02/21 10:28:59] <Tobbi> I'm not happy about one of the changes, but anyway.
+[2016/02/21 10:29:25] <Hume2> What change don't you like?
+[2016/02/21 10:29:49] <Tobbi> Hume2: You said if (ticking && grunting)...
+[2016/02/21 10:29:58] <Tobbi> Technically, only one of the sounds can be played.
