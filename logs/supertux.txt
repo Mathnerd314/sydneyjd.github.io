@@ -8851,3 +8851,46 @@
 [2016/02/21 12:28:46] <Tobbi> mt: Why not?
 [2016/02/21 12:28:56] <Tobbi> It's the biggest event here in Europe, isn't it?
 [2016/02/21 12:29:53] <Hume2> Hmmm, that hated city...
+[2016/02/21 12:30:28] <mt> we're already known enough in the open source community, I guess
+[2016/02/21 12:30:44] <mt> why not some actual game conferences?
+[2016/02/21 12:30:53] <Hume2> Anyway I'm not riding there.
+[2016/02/21 12:31:01] <Tobbi> mt: Such as?
+[2016/02/21 12:31:20] <mt> dunno, GDC?
+[2016/02/21 12:31:33] <mt> https://en.wikipedia.org/wiki/Game_Developers_Conference
+[2016/02/21 12:32:48] <Tobbi> mt: That's expensive.
+[2016/02/21 12:32:52] <Tobbi> We couldn't afford that.
+[2016/02/21 12:33:01] <Tobbi> http://www.gdconf.com/attend/passes.html
+[2016/02/21 12:33:47] <mt> we should sell SuperTux on Steam
+[2016/02/21 12:34:00] <mt> maybe get some better name for it
+[2016/02/21 12:34:10] <Hume2> :D Seriously?
+[2016/02/21 12:34:22] <mt> Hume2: why not?
+[2016/02/21 12:34:45] <Hume2> Because we aren't moneyvorous.
+[2016/02/21 12:34:58] <Tobbi> not yet.
+[2016/02/21 12:35:02] <Tobbi> But money rules the world.
+[2016/02/21 12:35:38] <Hume2> Can't you get a normal job?
+[2016/02/21 12:35:56] <Tobbi> No.
+[2016/02/21 12:36:16] <Hume2> Selling an open source game is really...
+[2016/02/21 12:36:47] <Tobbi> We wouldn't have a financial home anyway.
+[2016/02/21 12:37:05] <Tobbi> And I wouldn't want to be the owner of the SuperTux bank account...
+[2016/02/21 12:37:23] <mt> Hume2: it's actually allowed
+[2016/02/21 12:37:36] <Hume2> I know, but still... :D
+[2016/02/21 12:37:46] <mt> and people can still use git
+[2016/02/21 12:37:58] <Hume2> I think so.
+[2016/02/21 12:37:58] <mt> but no moar binaries
+[2016/02/21 12:38:51] <Tobbi> selling SuperTux...hrm.
+[2016/02/21 12:38:57] <Hume2> I just know one think about selling games:
+[2016/02/21 12:38:57] <Tobbi> We don't actually have any need for money.
+[2016/02/21 12:39:01] <Tobbi> Other than attending conferences.
+[2016/02/21 12:39:25] <mt> if we have too much of it we can still donate it
+[2016/02/21 12:39:37] <Hume2> Game consts money? if (is_crack_available) { download_cracked(); } else { choose_another_game(); }
+[2016/02/21 12:39:37] <Tobbi> hmm...
+[2016/02/21 12:39:45] <Tobbi> Donate it to me? :P
+[2016/02/21 12:39:54] <Hume2> *costs
+[2016/02/21 12:39:57] <Tobbi> Hume2: We don't do drugs
+[2016/02/21 12:40:14] <Tobbi> "is_crack_available"
+[2016/02/21 12:40:18] <mt> Donate it to "Help Tobbi e.V."? :D
+[2016/02/21 12:40:31] <Tobbi> mt: Exactly! :)
+[2016/02/21 12:40:32] <Tobbi> :P
+[2016/02/21 12:40:36] <Hume2> :D
+[2016/02/21 12:42:46] <Hume2> Narre made today another level for his WIP addon, I thought that he won't make any today.
+[2016/02/21 12:43:07] <Hume2> And he managed to not make a merge commit :D
