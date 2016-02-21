@@ -8594,3 +8594,14 @@
 [2016/02/21 07:16:57] <Tobbi> mt: Yes, that one changeset needs to be dropped. It has a ReaderMapping&...
 [2016/02/21 07:17:12] <Tobbi> d190b35 Marked TileSetParser::parse_tile_images() as const
 [2016/02/21 07:18:02] <Tobbi> Okay, I'll look at the failed changes in more detail.
+[2016/02/21 07:20:25] <mt> Tobbi: basically that's what skipping does
+[2016/02/21 07:20:33] <Tobbi> Yeah...
+[2016/02/21 07:20:43] <Tobbi> mt: Yeah, just making sure that it doesn't interfere...
+[2016/02/21 07:21:24] <mt> we'd need to fix up the conflicts
+[2016/02/21 07:21:36] <mt> look at the command I've provided if you want to look into it
+[2016/02/21 07:21:56] <Tobbi> *sigh*
+[2016/02/21 07:22:01] @ lumidify joined channel #supertux
+[2016/02/21 07:22:02] <Tobbi> Not sure if I am the best person to do this.
+[2016/02/21 07:22:13] <mt> who else?
+[2016/02/21 07:22:17] <mt> grumbel?
+[2016/02/21 07:24:41] <Tobbi> possibly.
