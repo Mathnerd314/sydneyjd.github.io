@@ -8623,3 +8623,10 @@
 [2016/02/21 07:39:26] <Tobbi> I'll try.
 [2016/02/21 07:39:34] <mt> to whom now
 [2016/02/21 07:39:48] @ Quit: lumidify: Ping timeout: 276 seconds
+[2016/02/21 07:40:03] <Tobbi> mt: To the MDR-Rechtsabteilung.
+[2016/02/21 07:40:39] <mt> To this employeed, I'd just ask: 'Due to the different legal nature of open source software, and us not having resources for legal assistance, could we talk about this to your legal department'
+[2016/02/21 07:40:42] <mt> or something similar
+[2016/02/21 07:42:11] <Tobbi> Hmm, yeah, I can do that...
+[2016/02/21 07:42:38] <Tobbi> I think by now she's wondering what she's gotten herself into :D
+[2016/02/21 07:42:55] @ lumidify joined channel #supertux
+[2016/02/21 07:44:45] @ Wuzzy joined channel #supertux
