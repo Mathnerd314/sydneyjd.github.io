@@ -8674,3 +8674,4 @@
 [2016/02/21 08:36:08] @ leyyin joined channel #supertux
 [2016/02/21 08:38:31] @ Mathnerd314 joined channel #supertux
 [2016/02/21 08:38:31] @ Mode +v Mathnerd314 by ChanServ
+[2016/02/21 09:12:19] @ Quit: lumidify: Ping timeout: 248 seconds
