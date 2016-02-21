@@ -8560,3 +8560,25 @@
 [2016/02/21 06:52:35] <mt> weechat has a nice smartfilter for joins/quits and some other message
 [2016/02/21 06:53:06] <mt> +s; if the source of the message hasn't spoken for x (configurable) minutes, don't show them
 [2016/02/21 07:03:45] <pentagon> [10supertux] 07Hume2 assigned issue 09#336: Haywire sound effect trigger glitch 13https://git.io/v2IzT
+[2016/02/21 07:10:05] <Tobbi> This is awesome: http://forum.freegamedev.net/viewtopic.php?f=69&t=6793&sid=a37fe950224f0ed9c051577043acae71
+[2016/02/21 07:11:05] <mt> oooh
+[2016/02/21 07:11:14] <mt> this actually looks like guideline-compliant levels
+[2016/02/21 07:11:27] <mt> and they look really nice
+[2016/02/21 07:11:31] <Hume2> Addon with 5 levels, that is quite small.
+[2016/02/21 07:11:51] <Tobbi> Hume2: He says he's trying to experiment more.
+[2016/02/21 07:11:55] <mt> maybe they could go in to the next release as special levels in-between islands
+[2016/02/21 07:11:59] <Hume2> Yeah.
+[2016/02/21 07:12:05] <Hume2> bbl
+[2016/02/21 07:12:11] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/21 07:12:14] <mt> "like the fading out tiles in Jonathan's level"
+[2016/02/21 07:12:17] <mt> who is Jonathan
+[2016/02/21 07:12:33] <Tobbi> mt: http://forum.freegamedev.net/viewtopic.php?f=69&t=6621
+[2016/02/21 07:12:48] <Tobbi> It's in the add-ons as well.
+[2016/02/21 07:12:51] <mt> ok
+[2016/02/21 07:13:05] <mt> by the way
+[2016/02/21 07:13:12] <mt> since we were speaking about licenses
+[2016/02/21 07:13:22] <mt> I wonder if we could move levels to CC-BY-SA 4
+[2016/02/21 07:13:48] <mt> at least new ones
+[2016/02/21 07:14:46] <Tobbi> mt: Don't we need to get confirmation from the authors?
+[2016/02/21 07:14:52] <Tobbi> Oh, new ones...
+[2016/02/21 07:14:59] <Tobbi> Difference between 3?
