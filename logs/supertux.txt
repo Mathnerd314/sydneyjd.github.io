@@ -8631,3 +8631,16 @@
 [2016/02/21 07:42:55] @ lumidify joined channel #supertux
 [2016/02/21 07:44:45] @ Wuzzy joined channel #supertux
 [2016/02/21 07:47:55] <mt> maybe, maybe not
+[2016/02/21 07:50:12] <mt> they shouldn't wonder actually
+[2016/02/21 07:50:39] <mt> I can imagine many game publishers very well wanting to have different contract terms
+[2016/02/21 07:52:16] <Tobbi> mt: I still stand by my word that SuperTux will benefit from being featured. Since the likelihood of repercussions is miniscule, I'd totally sign that contract. But I'm not intitled.
+[2016/02/21 07:52:21] <Tobbi> *entitled
+[2016/02/21 07:52:30] @ Hume2 joined channel #supertux
+[2016/02/21 07:52:31] @ Mode +v Hume2 by ChanServ
+[2016/02/21 07:53:01] <mt> I. know. we. can. benefit.
+[2016/02/21 07:53:25] <mt> but that doesn't change the fact that this is, legally seen, difficult
+[2016/02/21 07:53:45] <Tobbi> Sorry.
+[2016/02/21 07:53:48] <mt> and I don't want to get anyone, neither you, nor MDR, in legal difficulties
+[2016/02/21 07:53:52] <Tobbi> i'm just excited :P
+[2016/02/21 07:53:57] <Tobbi> kind of.
+[2016/02/21 07:54:18] <Tobbi> And this excitement makes me rather passionate about the matter :P
