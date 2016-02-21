@@ -8547,3 +8547,5 @@
 [2016/02/21 05:55:35] @ Quit: stewboy: Read error: Connection reset by peer
 [2016/02/21 05:58:55] <Hume2> If I wanted to commit something, then I push it to master and...
 [2016/02/21 05:59:07] <Hume2> then to the 0.4.1 branch if appropriate?
+[2016/02/21 06:01:31] <Hume2> bbl
+[2016/02/21 06:01:32] @ Wuzzy joined channel #supertux
