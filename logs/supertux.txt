@@ -8517,3 +8517,5 @@
 [2016/02/21 05:31:23] <mt> then this is getting interesting
 [2016/02/21 05:31:38] @ brmbrmcar left channel #supertux ("yeah")
 [2016/02/21 05:32:25] <mt> okay then
+[2016/02/21 05:42:48] <Tobbi> *sigh*
+[2016/02/21 05:44:42] @ OperationGT_ joined channel #supertux
