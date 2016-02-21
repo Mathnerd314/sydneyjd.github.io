@@ -8748,3 +8748,24 @@
 [2016/02/21 10:43:13] <Tobbi> Oh, forgot to close the relevant issue.
 [2016/02/21 10:44:09] <pentagon> [10supertux] 07tobbi closed issue 09#276: Looping sounds don't stop when pausing the game 13https://git.io/vEt1k
 [2016/02/21 10:44:13] <pentagon> [10supertux] 07tobbi commented on issue 09#276: Looping sounds don't stop when pausing the game 13https://git.io/vEt1k
+[2016/02/21 10:49:05] <Tobbi> Hume2: Can I merge https://github.com/SuperTux/supertux/pull/331
+[2016/02/21 10:49:09] <Tobbi> ?
+[2016/02/21 10:49:49] <Hume2> Tobbi: Yes, you can.
+[2016/02/21 10:50:04] <Tobbi> good.
+[2016/02/21 10:50:10] <pentagon> [10supertux] 07tobbi closed pull request 09#331: Colored level titles in worldmaps 13https://git.io/vgDVY
+[2016/02/21 10:50:13] <pentagon> [10supertux] 07tobbi pushed 2 commits to 09master 13https://git.io/v2Lfs
+[2016/02/21 10:50:16] <pentagon> [10supertux] 07Hume2 143501b05 Colored level titles in worldmaps
+[2016/02/21 10:50:19] <pentagon> [10supertux] 07tobbi 144de2c24 Merge pull request #331 from Hume2/levelcolor
+[2016/02/21 10:51:19] <Tobbi> What about this? https://github.com/SuperTux/supertux/pull/280
+[2016/02/21 10:52:43] <mt> what's INT_MAX
+[2016/02/21 10:53:02] <mt> (where's it defined and what value does it have?)
+[2016/02/21 10:54:12] <Hume2> INT_MAX is the maximum value of int. It doesn't have to be defined AFAIK.
+[2016/02/21 10:54:34] <pentagon> [10supertux] Status for commit src/badguy/haywire.cpp: split if(ticking && grunting) exception by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/110769942
+[2016/02/21 10:54:43] <Hume2> I'd put there a sane number instead.
+[2016/02/21 10:54:57] <Hume2> What about 999 999 999?
+[2016/02/21 10:55:26] <Hume2> It's closest to INT_MAX, that seems sane enough.
+[2016/02/21 10:55:49] <mt> "doesn't have to be defined"
+[2016/02/21 10:55:53] <mt> well it has to be
+[2016/02/21 10:56:03] <mt> at least by the compiler
+[2016/02/21 10:56:22] <Hume2> Maybe, but still, I'd put there a sane number instead.
+[2016/02/21 10:59:10] <Hume2> 10000 coins = 45 lives
