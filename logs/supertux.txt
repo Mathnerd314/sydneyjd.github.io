@@ -8722,3 +8722,29 @@
 [2016/02/21 10:29:25] <Hume2> What change don't you like?
 [2016/02/21 10:29:49] <Tobbi> Hume2: You said if (ticking && grunting)...
 [2016/02/21 10:29:58] <Tobbi> Technically, only one of the sounds can be played.
+[2016/02/21 10:30:05] <Hume2> I'll correct it.
+[2016/02/21 10:30:10] <Tobbi> Thanks :)
+[2016/02/21 10:32:15] <Tobbi> Actually, I am great at telling other people what to do.
+[2016/02/21 10:32:17] <Tobbi> :)
+[2016/02/21 10:33:31] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/v2Ler
+[2016/02/21 10:33:33] <Hume2> There it is :)
+[2016/02/21 10:33:33] <pentagon> [10supertux] 07Hume2 1460b15fc src/badguy/haywire.cpp: split if(ticking && grunting) exception
+[2016/02/21 10:34:09] <pentagon> [10supertux] Status for commit Added an invisible dispenser type by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/397
+[2016/02/21 10:34:20] <Tobbi> Thanks.
+[2016/02/21 10:34:22] <Tobbi> :)
+[2016/02/21 10:34:54] <sydney_untangle> Ouch. O_O
+[2016/02/21 10:35:05] <sydney_untangle> openmailbox.org is being DDoSed...
+[2016/02/21 10:36:16] <Tobbi> sydney_untangle: oh no.
+[2016/02/21 10:36:18] <Tobbi> How comes?
+[2016/02/21 10:36:43] <sydney_untangle> Tobbi: Good question. :) 60Gbps according to the owner. o_O
+[2016/02/21 10:37:03] <Tobbi> sydney_untangle: What about 60 gbps?
+[2016/02/21 10:37:48] <sydney_untangle> Tobbi: That was the DDoS load...
+[2016/02/21 10:38:59] <Tobbi> wow.
+[2016/02/21 10:39:35] <sydney_untangle> Yeah.
+[2016/02/21 10:40:16] <Tobbi> That is weird...
+[2016/02/21 10:40:33] <pentagon> [10supertux] Status for commit Added null checks to GameObject::stop_looping_sounds() by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/110768964
+[2016/02/21 10:43:00] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/v2Lvo
+[2016/02/21 10:43:03] <pentagon> [10supertux] 07tobbi 14f6e0226 Stop looping sounds when pause menu is shown
+[2016/02/21 10:43:13] <Tobbi> Oh, forgot to close the relevant issue.
+[2016/02/21 10:44:09] <pentagon> [10supertux] 07tobbi closed issue 09#276: Looping sounds don't stop when pausing the game 13https://git.io/vEt1k
+[2016/02/21 10:44:13] <pentagon> [10supertux] 07tobbi commented on issue 09#276: Looping sounds don't stop when pausing the game 13https://git.io/vEt1k
