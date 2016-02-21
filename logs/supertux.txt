@@ -8582,3 +8582,15 @@
 [2016/02/21 07:14:46] <Tobbi> mt: Don't we need to get confirmation from the authors?
 [2016/02/21 07:14:52] <Tobbi> Oh, new ones...
 [2016/02/21 07:14:59] <Tobbi> Difference between 3?
+[2016/02/21 07:15:11] <mt> dunno
+[2016/02/21 07:15:14] <mt> just seems saner
+[2016/02/21 07:15:21] <Tobbi> mt: Sure, why not.
+[2016/02/21 07:15:27] <mt> as the current levels are, I think, dual licensed
+[2016/02/21 07:15:30] <Tobbi> mt: Also, what's the failed diff for the first change set?
+[2016/02/21 07:15:33] <mt> GPL 2+/CC-BY-SA 3
+[2016/02/21 07:15:48] <mt> don't have it there
+[2016/02/21 07:16:02] <Tobbi> ok.
+[2016/02/21 07:16:55] <mt> you could `git checkout release/0.4 && git checkout -b release/0.4-test && git submodule update --init #required to sync them to the old version && # fix up unstaged changes without committing them && git rebase -i v0.4.0`
+[2016/02/21 07:16:57] <Tobbi> mt: Yes, that one changeset needs to be dropped. It has a ReaderMapping&...
+[2016/02/21 07:17:12] <Tobbi> d190b35 Marked TileSetParser::parse_tile_images() as const
+[2016/02/21 07:18:02] <Tobbi> Okay, I'll look at the failed changes in more detail.
