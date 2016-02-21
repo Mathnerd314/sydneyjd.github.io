@@ -8371,3 +8371,5 @@
 [2016/02/21 01:02:07] @ tux|dude joined channel #supertux
 [2016/02/21 01:12:22] @ lumidify joined channel #supertux
 [2016/02/21 01:22:09] @ Quit: Mathnerd314: Ping timeout: 276 seconds
+[2016/02/21 02:44:05] <mt> Tobbi, sydney_untangle: I'd be in favor of using kiwiirc, it's modern
+[2016/02/21 02:44:28] <mt> In case of problems with spam, we can temporarily quiet it
