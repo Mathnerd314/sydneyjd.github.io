@@ -8999,3 +8999,5 @@
 [2016/02/21 15:25:20] @ claymore2_ joined channel #supertux
 [2016/02/21 15:25:34] @ Quit: claymore2: Ping timeout: 240 seconds
 [2016/02/21 15:57:56] @ Quit: lumidify: Quit: Leaving
+[2016/02/21 16:23:30] @ Quit: claymore2_: Quit: Leaving
+[2016/02/21 16:26:00] <pentagon> [10supertux] 07Karkus476 commented on issue 09#327: Scripting interface is not safe from memory access violations 13https://git.io/vupF0
