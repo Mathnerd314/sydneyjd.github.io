@@ -8798,3 +8798,12 @@
 [2016/02/21 11:42:09] <Hume2> It's still possible that we'll have to increase the coin limit though.
 [2016/02/21 11:42:16] <Hume2> Because of the shops.
 [2016/02/21 11:43:01] <Hume2> Is that shop vision still valid?
+[2016/02/21 11:46:04] <Tobbi> Maybe_
+[2016/02/21 11:46:17] <Tobbi> I do not actually care that much about a shop.
+[2016/02/21 11:46:30] <Tobbi> I'm neither for nor against the idea.
+[2016/02/21 11:46:59] <pentagon> [10supertux] Status for commit Added null checks to GameObject::stop_looping_sounds() by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/399
+[2016/02/21 11:47:45] <Tobbi> In any case: GSoC timeline: https://developers.google.com/open-source/gsoc/timeline
+[2016/02/21 11:52:19] <Hume2> So let's hope that we'll get accepted.
+[2016/02/21 11:54:09] <Tobbi> Google Mentor Summit is October 29 / October 30.
+[2016/02/21 11:54:13] <mt> sydney_untangle is not going to like this but: sacrifice a goat && pray # from http://exherbo.org/docs/install-guide.html
+[2016/02/21 11:54:47] <Tobbi> Poor god.
