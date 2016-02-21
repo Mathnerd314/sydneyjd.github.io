@@ -8684,3 +8684,11 @@
 [2016/02/21 09:32:52] @ leyyin joined channel #supertux
 [2016/02/21 09:34:57] <Hume2> I created this branch because I didn't want to interrupt your work.
 [2016/02/21 09:39:28] <pentagon> [10supertux] Status for commit Looping sounds now stop when changing sector. by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/110761153
+[2016/02/21 09:50:09] <mt> you can push to master, actually
+[2016/02/21 09:53:18] <Tobbi> Hume2: What about having this stop_looping_sounds() as part of a class inside audio/
+[2016/02/21 09:53:29] <Tobbi> ?
+[2016/02/21 09:53:29] <Tobbi> Not sure if that's possible.
+[2016/02/21 09:54:28] <Hume2> Tobbi: This is called by Sector.
+[2016/02/21 09:54:40] <Hume2> I don't know.
+[2016/02/21 09:54:45] <Tobbi> hrm, okay...
+[2016/02/21 09:56:34] <pentagon> [10supertux] Status for commit Looping sounds now stop when changing sector. by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/396
