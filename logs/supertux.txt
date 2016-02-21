@@ -8470,3 +8470,8 @@
 [2016/02/21 04:31:50] <mt> I can use https://public.etherpad-mozilla.org/, right?
 [2016/02/21 04:32:09] <Tobbi> yes.
 [2016/02/21 04:32:11] <Tobbi> I guess so.
+[2016/02/21 04:35:07] <Tobbi> mt: I have the output of git log here: https://public.etherpad-mozilla.org/p/SuperTux_changes_since_0.4
+[2016/02/21 04:35:39] <Tobbi> If you want git shortlog, I can do that.
+[2016/02/21 04:35:47] <mt> I'll put a pad with a git-rebase-todo there
+[2016/02/21 04:36:09] <Tobbi> ok.
+[2016/02/21 04:37:58] <mt> https://public.etherpad-mozilla.org/p/FZGCOjc3KF
