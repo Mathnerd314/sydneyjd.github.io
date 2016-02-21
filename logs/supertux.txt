@@ -8668,3 +8668,5 @@
 [2016/02/21 08:17:55] @ Quit: lumidify: Ping timeout: 248 seconds
 [2016/02/21 08:18:28] @ lumidify joined channel #supertux
 [2016/02/21 08:24:52] <Hume2> It's strange, but always about one third of issues is open.
+[2016/02/21 08:29:41] <Tobbi> Hume2: That's hume's law
+[2016/02/21 08:29:59] <Hume2> :D
