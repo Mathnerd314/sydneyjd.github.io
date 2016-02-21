@@ -9017,3 +9017,4 @@
 [2016/02/21 18:25:55] @ Mode +Cntzj 5:10 by hitchcock.freenode.net
 [2016/02/21 18:26:03] @ Mode +v red_bot by ChanServ
 [2016/02/21 18:27:55] @ Quit: tux|dude: Quit: Leaving
+[2016/02/21 18:35:16] @ tux|dude joined channel #supertux
