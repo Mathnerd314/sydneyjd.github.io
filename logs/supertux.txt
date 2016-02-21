@@ -9010,3 +9010,4 @@
 [2016/02/21 17:22:31] @ xnrand joined channel #supertux
 [2016/02/21 17:24:16] @ Quit: tux|dude: Quit: Leaving
 [2016/02/21 17:31:35] @ tux|dude joined channel #supertux
+[2016/02/21 17:48:06] @ Quit: tuxdev_: Ping timeout: 244 seconds
