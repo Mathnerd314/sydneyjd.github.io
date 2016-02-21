@@ -8665,3 +8665,5 @@
 [2016/02/21 08:01:55] @ Quit: Wuzzy: Ping timeout: 248 seconds
 [2016/02/21 08:03:57] <Tobbi> right, never mind.
 [2016/02/21 08:04:01] @ Wuzzy joined channel #supertux
+[2016/02/21 08:17:55] @ Quit: lumidify: Ping timeout: 248 seconds
+[2016/02/21 08:18:28] @ lumidify joined channel #supertux
