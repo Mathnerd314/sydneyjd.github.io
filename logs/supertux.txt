@@ -8358,3 +8358,4 @@
 [2016/02/20 20:14:25] @ Quit: stewboy: Read error: Connection reset by peer
 [2016/02/20 20:44:19] <sydney_untangle> Tobbi: :)
 [2016/02/20 21:11:58] <snadge> oh man.. this level has like flashing epileptic seizure inducing colours
+[2016/02/20 21:21:40] <sydney_untangle> snadge: Hehe, i know what level that is.
