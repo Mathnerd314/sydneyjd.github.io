@@ -8490,3 +8490,5 @@
 [2016/02/21 05:13:56] <mt> oh we'd also need to /kick red_spy for that to be effective
 [2016/02/21 05:14:16] <Tobbi> oh, yeah.
 [2016/02/21 05:16:37] @ stewboy joined channel #supertux
+[2016/02/21 05:22:14] <Hume2> Sorry for being inactive for a while.
+[2016/02/21 05:24:45] <Tobbi> Hume2: Don't worry.
