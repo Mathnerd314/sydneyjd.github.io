@@ -42,3 +42,7 @@ a:hover {
 a:active {
   color: orange;
 }
+.videos {
+  max-width: 640px;
+  max-height: 480px;
+}
