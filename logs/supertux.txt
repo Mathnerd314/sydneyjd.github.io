@@ -8519,3 +8519,10 @@
 [2016/02/21 05:32:25] <mt> okay then
 [2016/02/21 05:42:48] <Tobbi> *sigh*
 [2016/02/21 05:44:42] @ OperationGT_ joined channel #supertux
+[2016/02/21 05:47:11] <Hume2> Do we have a due date for 0.4.1? It's not on github so far.
+[2016/02/21 05:48:05] <Tobbi> No, we don't.
+[2016/02/21 05:48:25] @ OperationGT_ left channel #supertux ("Leaving")
+[2016/02/21 05:48:44] @ OperationGT_ joined channel #supertux
+[2016/02/21 05:49:16] <Hume2> I'll look to the issues we have.
+[2016/02/21 05:49:19] <Tobbi> Okay.
+[2016/02/21 05:49:20] @ OperationGT_ left channel #supertux ("Leaving")
