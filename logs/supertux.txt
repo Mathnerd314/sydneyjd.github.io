@@ -8815,3 +8815,39 @@
 [2016/02/21 12:12:15] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/v2Lq4
 [2016/02/21 12:12:18] <pentagon> [10supertux] 07tobbi 14124604b Change old C++ syntax.
 [2016/02/21 12:14:34] <mt> now if we actually got 0.4.1 prepared
+[2016/02/21 12:15:06] <Hume2> https://github.com/SuperTux/supertux/milestones/0.4.1
+[2016/02/21 12:15:14] <mt> what are grumbel's changes actually for
+[2016/02/21 12:15:19] <Tobbi> mt: Lisp parsing.
+[2016/02/21 12:15:26] <mt> is that a new feature?
+[2016/02/21 12:15:35] <mt> if not, it can be considered performance fix
+[2016/02/21 12:15:35] <Tobbi> mt: It is a new parser.
+[2016/02/21 12:15:38] <Tobbi> And a bigger change.
+[2016/02/21 12:15:52] <Hume2> I don't know, but whole development since 0.4.0 depends on it.
+[2016/02/21 12:16:04] <Tobbi> We could as well get that in...
+[2016/02/21 12:16:07] <Tobbi> Seems to be stable.
+[2016/02/21 12:16:13] <Tobbi> BUt, still...bigger project.
+[2016/02/21 12:16:18] <mt> why does everything depend on it
+[2016/02/21 12:16:39] <Hume2> Because Reader -> ReaderMapping
+[2016/02/21 12:16:58] <mt> is it compatible?
+[2016/02/21 12:17:13] <mt> because then sed -i 's/ReaderMapping/Reader/g' src/*/*.cpp
+[2016/02/21 12:17:33] <Tobbi> Urgh...
+[2016/02/21 12:17:33] <pentagon> [10supertux] Status for commit src/badguy/haywire.cpp: split if(ticking && grunting) exception by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/400
+[2016/02/21 12:17:37] <Hume2> Mainly yes, but it differs in the SectorParser etc. very much.
+[2016/02/21 12:18:25] <mt> I wonder how many conflicts there actually are
+[2016/02/21 12:19:05] <Hume2> I'd add it to 0.4.1 as well. At least we'll get what all bugs are in that.
+[2016/02/21 12:19:12] <pentagon> [10supertux] Status for commit fixes #321 :Crushing a burning badguy resets the sprite by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/110783880
+[2016/02/21 12:20:08] @ Quit: polyphagia: Read error: Connection reset by peer
+[2016/02/21 12:20:24] @ polyphagia joined channel #supertux
+[2016/02/21 12:20:35] @ Quit: lumidify: Ping timeout: 248 seconds
+[2016/02/21 12:25:38] <Tobbi> Hume2: We should actually be applying at FOSDEM :D
+[2016/02/21 12:25:42] <Tobbi> For next year.
+[2016/02/21 12:25:51] <Tobbi> We just need someone to pay for travel and accomodation.
+[2016/02/21 12:26:21] <mt> maybe ask debian or redhat
+[2016/02/21 12:26:32] <mt> possibly they have special funds for such purposes
+[2016/02/21 12:27:12] <Tobbi> I am not sure.
+[2016/02/21 12:27:22] <Tobbi> Does anyone want to manage the booth?
+[2016/02/21 12:27:57] <Tobbi> I'd not want to do this alone.
+[2016/02/21 12:28:31] <mt> otoh why FOSDEM?
+[2016/02/21 12:28:46] <Tobbi> mt: Why not?
+[2016/02/21 12:28:56] <Tobbi> It's the biggest event here in Europe, isn't it?
+[2016/02/21 12:29:53] <Hume2> Hmmm, that hated city...
