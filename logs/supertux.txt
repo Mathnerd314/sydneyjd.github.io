@@ -8478,3 +8478,14 @@
 [2016/02/21 04:58:57] @ Quit: claymore2: Quit: Leaving
 [2016/02/21 05:09:33] @ Hume2 joined channel #supertux
 [2016/02/21 05:09:33] @ Mode +v Hume2 by ChanServ
+[2016/02/21 05:10:50] <Tobbi> Hume2: Good that you're here.
+[2016/02/21 05:11:05] <Tobbi> Hume2: We're trying to backport fixes for 0.4.1 from master...
+[2016/02/21 05:11:15] <Tobbi> Check out this: https://public.etherpad-mozilla.org/p/FZGCOjc3KF
+[2016/02/21 05:11:21] * Hume2 checks
+[2016/02/21 05:11:36] <Tobbi> We're trying to decide what's a bugfix and what isn't.
+[2016/02/21 05:11:50] <Hume2> OK
+[2016/02/21 05:12:12] <Tobbi> It's rather difficult distinguishing the lisp parser commits from the rest.
+[2016/02/21 05:12:22] <Tobbi> spy3...
+[2016/02/21 05:13:31] <mt> /kick brmbrmspy ???
+[2016/02/21 05:13:56] <mt> oh we'd also need to /kick red_spy for that to be effective
+[2016/02/21 05:14:16] <Tobbi> oh, yeah.
