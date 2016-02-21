@@ -9001,3 +9001,6 @@
 [2016/02/21 15:57:56] @ Quit: lumidify: Quit: Leaving
 [2016/02/21 16:23:30] @ Quit: claymore2_: Quit: Leaving
 [2016/02/21 16:26:00] <pentagon> [10supertux] 07Karkus476 commented on issue 09#327: Scripting interface is not safe from memory access violations 13https://git.io/vupF0
+[2016/02/21 16:48:53] <pentagon> [10supertux] 07tobbi commented on issue 09#327: Scripting interface is not safe from memory access violations 13https://git.io/vupF0
+[2016/02/21 16:55:54] <pentagon> [10supertux] 07Grumbel commented on issue 09#327: Scripting interface is not safe from memory access violations 13https://git.io/vupF0
+[2016/02/21 16:56:22] <Tobbi> grrr
