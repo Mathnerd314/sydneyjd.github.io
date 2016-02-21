@@ -8361,3 +8361,7 @@
 [2016/02/20 21:21:40] <sydney_untangle> snadge: Hehe, i know what level that is.
 [2016/02/20 21:46:01] <sydney_untangle> Tobbi: I am going to remove the supertux irc logs entry in my menu on my website, so others looking at my website wont see the logs.
 [2016/02/20 21:46:23] <sydney_untangle> Just the menu though.
+[2016/02/20 23:02:14] <snadge> i like that addon.. but i think it needs a little bit more work
+[2016/02/20 23:02:31] <snadge> a couple of those levels were just painful
+[2016/02/20 23:03:22] <snadge> and i think with that.. i've finished every addon there is for supertux :(
+[2016/02/20 23:03:58] <snadge> okay.. so i haven't found every secret, and collected every coin etc.. but honestly, i think i would go mad trying to do that
