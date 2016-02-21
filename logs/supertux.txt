@@ -8414,3 +8414,27 @@
 [2016/02/21 04:16:04] <mt> thanks
 [2016/02/21 04:16:06] <Tobbi> I won't.
 [2016/02/21 04:17:46] <mt> do we want leafshot?
+[2016/02/21 04:20:59] <mt> >_>
+[2016/02/21 04:21:02] <Tobbi> mt: Technically, it's a new feature, isn't it?
+[2016/02/21 04:21:11] <mt> git rebase -i doesn't show useful information
+[2016/02/21 04:21:17] <mt> yes it's a new feature
+[2016/02/21 04:21:32] <Tobbi> mt: However, we could take it in.
+[2016/02/21 04:21:36] <Tobbi> Doesn't hurt.
+[2016/02/21 04:21:37] <mt> and no way I'm going to cherry-pick every useful commit
+[2016/02/21 04:21:48] <mt> I'd rather want to strip out the non-fixes
+[2016/02/21 04:22:07] <Tobbi> mt: Which commit doesn't show useful information?
+[2016/02/21 04:22:25] <mt> well
+[2016/02/21 04:22:39] <mt> I actually fast-forwarded origin/master to release/0.4
+[2016/02/21 04:22:53] <mt> now I want to rebase -i and just remove the commits we *don't* want
+[2016/02/21 04:23:02] <Tobbi> mt: Sounds fine with me.
+[2016/02/21 04:23:10] <mt> which is easier than looking at every commit, copying its hash and cherry-picking it
+[2016/02/21 04:23:16] <Tobbi> right
+[2016/02/21 04:23:32] <mt> the problem is that git-rebase-todo only includes hash and commit message
+[2016/02/21 04:23:39] <Tobbi> ah...
+[2016/02/21 04:24:16] <Tobbi> mt: Couldn't you git log <hash> in another console tab?
+[2016/02/21 04:24:23] <Tobbi> If you want the complete commit msg.
+[2016/02/21 04:24:26] <Tobbi> or something else.
+[2016/02/21 04:24:28] <Tobbi> idk
+[2016/02/21 04:24:34] <mt> git-show would be what I'd use
+[2016/02/21 04:24:41] <mt> but then I'd do that for every commit as well
+[2016/02/21 04:24:51] <Tobbi> hmm...
