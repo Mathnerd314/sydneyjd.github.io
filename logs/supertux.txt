@@ -8681,3 +8681,6 @@
 [2016/02/21 09:26:09] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09develop 13https://git.io/v2IyM
 [2016/02/21 09:26:12] <pentagon> [10supertux] 07Hume2 14b633b44 Looping sounds now stop when changing sector.
 [2016/02/21 09:27:56] <mt> better feature/<whatever>
+[2016/02/21 09:32:52] @ leyyin joined channel #supertux
+[2016/02/21 09:34:57] <Hume2> I created this branch because I didn't want to interrupt your work.
+[2016/02/21 09:39:28] <pentagon> [10supertux] Status for commit Looping sounds now stop when changing sector. by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/110761153
