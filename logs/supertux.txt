@@ -8526,3 +8526,21 @@
 [2016/02/21 05:49:16] <Hume2> I'll look to the issues we have.
 [2016/02/21 05:49:19] <Tobbi> Okay.
 [2016/02/21 05:49:20] @ OperationGT_ left channel #supertux ("Leaving")
+[2016/02/21 05:50:10] <Hume2> I think that this could be a wontfix: https://github.com/SuperTux/supertux/issues/362
+[2016/02/21 05:50:35] <Tobbi> Not sure.
+[2016/02/21 05:50:47] <mt> Hume2: I think we should release 0.4.1 when we're done pushing fixes to release/0.4
+[2016/02/21 05:50:55] <Tobbi> Ah, okay.
+[2016/02/21 05:51:06] <Tobbi> mt: What about the windows issues we have? Are those fixed?
+[2016/02/21 05:51:08] <Hume2> OK. I'm now trying to figure out what it is.
+[2016/02/21 05:51:15] <mt> Tobbi: I don't think so
+[2016/02/21 05:51:20] <mt> but I already told you
+[2016/02/21 05:51:33] <mt> users affected by only the issues fixed will be happy
+[2016/02/21 05:51:36] <Tobbi> mt: Sorry, Alzheimer's Disease.
+[2016/02/21 05:51:41] <mt> otherwise they'd have to wait
+[2016/02/21 05:51:48] <Tobbi> right.
+[2016/02/21 05:51:57] <Tobbi> Actually: Frequent releases increase momentum.
+[2016/02/21 05:52:02] <Tobbi> So we can certainly release 0.4.1
+[2016/02/21 05:52:15] <Hume2> Tobbi: I think that that bug with tilemaps is happening because it's faster than 32px per update.
+[2016/02/21 05:52:18] <mt> users having unfixed problems will have to wait anyway
+[2016/02/21 05:52:22] <Tobbi> right.
+[2016/02/21 05:53:14] <pentagon> [10supertux] 07Hume2 commented on issue 09#362: Bug with moving tilemaps 13https://git.io/vg8HR
