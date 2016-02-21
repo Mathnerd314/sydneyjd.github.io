@@ -8979,3 +8979,8 @@
 [2016/02/21 13:36:38] <Hume2> And we need to centralize the leveltime.
 [2016/02/21 13:37:00] <Hume2> Because the leveltime is a sector object, not a global property.
 [2016/02/21 13:37:25] <Hume2> That way, you can have another leveltime in each sector.
+[2016/02/21 13:48:58] @ lumidify joined channel #supertux
+[2016/02/21 13:49:10] <Hume2> By the way, it would affect one existing level in Narreland :P
+[2016/02/21 13:49:28] <Hume2> damn it.
+[2016/02/21 13:57:40] <Hume2> Bye!
+[2016/02/21 13:57:43] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
