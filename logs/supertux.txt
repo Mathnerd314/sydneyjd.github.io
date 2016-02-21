@@ -9011,3 +9011,9 @@
 [2016/02/21 17:24:16] @ Quit: tux|dude: Quit: Leaving
 [2016/02/21 17:31:35] @ tux|dude joined channel #supertux
 [2016/02/21 17:48:06] @ Quit: tuxdev_: Ping timeout: 244 seconds
+[2016/02/21 18:25:50] @ Joined channel #supertux
+[2016/02/21 18:25:50] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | GSoC Project Ideas: https://github.com/SuperTux/supertux/wiki/GSoC-2016-Ideas"
+[2016/02/21 18:25:50] @ Topic set by mt on 2016-02-09 12:51:33 -0500
+[2016/02/21 18:25:55] @ Mode +Cntzj 5:10 by hitchcock.freenode.net
+[2016/02/21 18:26:03] @ Mode +v red_bot by ChanServ
+[2016/02/21 18:27:55] @ Quit: tux|dude: Quit: Leaving
