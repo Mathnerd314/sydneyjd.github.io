@@ -8993,3 +8993,8 @@
 [2016/02/21 15:02:39] @ claymore2 joined channel #supertux
 [2016/02/21 15:11:00] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2016/02/21 15:13:34] @ Quit: lumidify: Ping timeout: 252 seconds
+[2016/02/21 15:16:04] @ lumidify joined channel #supertux
+[2016/02/21 15:16:04] @ Quit: lumidify: Changing host
+[2016/02/21 15:16:04] @ lumidify joined channel #supertux
+[2016/02/21 15:25:20] @ claymore2_ joined channel #supertux
+[2016/02/21 15:25:34] @ Quit: claymore2: Ping timeout: 240 seconds
