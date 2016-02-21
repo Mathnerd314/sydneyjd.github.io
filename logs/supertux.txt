@@ -8661,3 +8661,7 @@
 [2016/02/21 07:58:55] <mt> if it's a fix we'd just have to rebase again, now only adding one commit
 [2016/02/21 07:59:51] <Hume2> It could be even rebased a bit later. For now, a part of 302 commits should be rebased.
 [2016/02/21 07:59:53] <Tobbi> mt: Rebasing worked?
+[2016/02/21 08:01:40] <mt> no?
+[2016/02/21 08:01:55] @ Quit: Wuzzy: Ping timeout: 248 seconds
+[2016/02/21 08:03:57] <Tobbi> right, never mind.
+[2016/02/21 08:04:01] @ Wuzzy joined channel #supertux
