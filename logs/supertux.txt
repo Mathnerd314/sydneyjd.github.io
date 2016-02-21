@@ -8489,3 +8489,4 @@
 [2016/02/21 05:13:31] <mt> /kick brmbrmspy ???
 [2016/02/21 05:13:56] <mt> oh we'd also need to /kick red_spy for that to be effective
 [2016/02/21 05:14:16] <Tobbi> oh, yeah.
+[2016/02/21 05:16:37] @ stewboy joined channel #supertux
