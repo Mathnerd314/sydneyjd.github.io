@@ -8359,3 +8359,5 @@
 [2016/02/20 20:44:19] <sydney_untangle> Tobbi: :)
 [2016/02/20 21:11:58] <snadge> oh man.. this level has like flashing epileptic seizure inducing colours
 [2016/02/20 21:21:40] <sydney_untangle> snadge: Hehe, i know what level that is.
+[2016/02/20 21:46:01] <sydney_untangle> Tobbi: I am going to remove the supertux irc logs entry in my menu on my website, so others looking at my website wont see the logs.
+[2016/02/20 21:46:23] <sydney_untangle> Just the menu though.
