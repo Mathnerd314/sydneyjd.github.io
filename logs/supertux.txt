@@ -8388,3 +8388,22 @@
 [2016/02/21 03:48:08] <mt> hm interesting
 [2016/02/21 03:48:17] <mt> so this isn't supposed to be used as a submodule
 [2016/02/21 04:04:43] <Tobbi> mt: If you want, I can try to replace the freenode client with the kiwiirc one.
+[2016/02/21 04:10:08] <Tobbi> mt: Also, it doesn't hurt to have these commits there, does it?
+[2016/02/21 04:10:23] <Tobbi> If there are commits not touching data/, that's fine with me.
+[2016/02/21 04:10:30] <Tobbi> The other way round would be worse.
+[2016/02/21 04:10:35] <mt> I'd rather not want commit pollution
+[2016/02/21 04:10:46] <mt> especially not if I have no idea why it happens
+[2016/02/21 04:11:26] @ claymore2 joined channel #supertux
+[2016/02/21 04:11:32] <Tobbi> mt: Is there a better solution than git subtree?
+[2016/02/21 04:11:53] <mt> For now, I'll just leave it
+[2016/02/21 04:12:09] <Tobbi> ok.
+[2016/02/21 04:12:11] <mt> and now
+[2016/02/21 04:12:20] <mt> there's some unstaged changes that I didn't make
+[2016/02/21 04:12:35] <Tobbi> hmm...
+[2016/02/21 04:12:44] <mt> heck, they even appear in a new clone
+[2016/02/21 04:13:22] <mt> If I remove the two actual lines in .gitattributes they disappear
+[2016/02/21 04:13:39] <Tobbi> :D
+[2016/02/21 04:13:56] <Tobbi> Sounds like a problem I had but never solved.
+[2016/02/21 04:13:57] <mt> now I added them again
+[2016/02/21 04:14:07] <mt> and there are no unstaged changes anymore
+[2016/02/21 04:14:27] <Tobbi> mt: Re German TV: Hiker is getting in touch with them for STK...I've asked him to tell us what he agreed upon.
