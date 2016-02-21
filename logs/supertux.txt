@@ -8544,3 +8544,6 @@
 [2016/02/21 05:52:18] <mt> users having unfixed problems will have to wait anyway
 [2016/02/21 05:52:22] <Tobbi> right.
 [2016/02/21 05:53:14] <pentagon> [10supertux] 07Hume2 commented on issue 09#362: Bug with moving tilemaps 13https://git.io/vg8HR
+[2016/02/21 05:55:35] @ Quit: stewboy: Read error: Connection reset by peer
+[2016/02/21 05:58:55] <Hume2> If I wanted to commit something, then I push it to master and...
+[2016/02/21 05:59:07] <Hume2> then to the 0.4.1 branch if appropriate?
