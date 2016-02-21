@@ -8807,3 +8807,11 @@
 [2016/02/21 11:54:09] <Tobbi> Google Mentor Summit is October 29 / October 30.
 [2016/02/21 11:54:13] <mt> sydney_untangle is not going to like this but: sacrifice a goat && pray # from http://exherbo.org/docs/install-guide.html
 [2016/02/21 11:54:47] <Tobbi> Poor god.
+[2016/02/21 12:03:44] <pentagon> [10supertux] 07Hume2 assigned issue 09#321: Crushing a burning badguy resets the sprite 13https://git.io/vu0qg
+[2016/02/21 12:04:50] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09master 13https://git.io/v2Lth
+[2016/02/21 12:04:53] <pentagon> [10supertux] 07Hume2 146c40a4e fixes #321 :Crushing a burning badguy resets the sprite
+[2016/02/21 12:04:57] <pentagon> [10supertux] 07Hume2 closed issue 09#321: Crushing a burning badguy resets the sprite 13https://git.io/vu0qg
+[2016/02/21 12:08:35] <Hume2> So today we've fixed 4 bugs for 0.4.1.
+[2016/02/21 12:12:15] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/v2Lq4
+[2016/02/21 12:12:18] <pentagon> [10supertux] 07tobbi 14124604b Change old C++ syntax.
+[2016/02/21 12:14:34] <mt> now if we actually got 0.4.1 prepared
