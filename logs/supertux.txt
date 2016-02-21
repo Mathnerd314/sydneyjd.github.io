@@ -8769,3 +8769,21 @@
 [2016/02/21 10:56:03] <mt> at least by the compiler
 [2016/02/21 10:56:22] <Hume2> Maybe, but still, I'd put there a sane number instead.
 [2016/02/21 10:59:10] <Hume2> 10000 coins = 45 lives
+[2016/02/21 11:00:23] <Hume2> 1 000 000 000 coins = 154 lives
+[2016/02/21 11:01:16] <mt> why don't we leave it?
+[2016/02/21 11:01:26] <mt> 45 lives is enough, isn't it?
+[2016/02/21 11:01:30] <mt> well, 44
+[2016/02/21 11:01:32] <Hume2> 2 953 633 coins = 99 lives
+[2016/02/21 11:02:01] <Hume2> It should be enough, but what about the shop?
+[2016/02/21 11:02:12] <Hume2> How much should the items cost?
+[2016/02/21 11:03:49] <Hume2> INT_MAX coins = 161 lives
+[2016/02/21 11:04:53] <Hume2> bbl
+[2016/02/21 11:06:25] <pentagon> [10supertux] Status for commit Stop looping sounds when pause menu is shown by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/110771142
+[2016/02/21 11:06:50] <mt> can I do 'std::cout << "INT_MAX: " << INT_MAX << std::endl;'
+[2016/02/21 11:07:07] <mt> because that results in intmax.cpp:6:33: error: use of undeclared identifier 'INT_MAX'
+[2016/02/21 11:08:39] <Tobbi> mt: INT_MAX = 2147483647
+[2016/02/21 11:08:53] <Tobbi> Also, you could've found that out yourself by using Google.
+[2016/02/21 11:09:25] <mt> sometimes those are different on different platforms
+[2016/02/21 11:09:37] <mt> at least several integer types in C
+[2016/02/21 11:10:22] <mt> and apparently it's in limits.h
+[2016/02/21 11:12:15] <pentagon> [10supertux] Status for commit Added an invisible dispenser type by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/398
