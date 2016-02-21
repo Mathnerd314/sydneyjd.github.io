@@ -8987,3 +8987,4 @@
 [2016/02/21 14:04:30] <pentagon> [10supertux] Status for commit fixes #321 :Crushing a burning badguy resets the sprite by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/403
 [2016/02/21 14:13:19] <pentagon> [10supertux] 07LMH0013 commented on issue 09#322: Game objects move explosions 13https://git.io/vu0mm
 [2016/02/21 14:14:12] @ Quit: lumidify: Ping timeout: 244 seconds
+[2016/02/21 14:19:28] <pentagon> [10supertux] 07tobbi commented on issue 09#322: Game objects move explosions 13https://git.io/vu0mm
