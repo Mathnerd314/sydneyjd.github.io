@@ -8894,3 +8894,28 @@
 [2016/02/21 12:40:36] <Hume2> :D
 [2016/02/21 12:42:46] <Hume2> Narre made today another level for his WIP addon, I thought that he won't make any today.
 [2016/02/21 12:43:07] <Hume2> And he managed to not make a merge commit :D
+[2016/02/21 12:45:01] <Hume2> I know that two WIP addons in one git repository is a crap, but at least he'll learng git.
+[2016/02/21 12:45:30] <Tobbi> Hume2: Is it available somewhere?
+[2016/02/21 12:45:42] <Hume2> https://github.com/Cecflit/levels
+[2016/02/21 12:46:05] <Tobbi> Oh, let's see...
+[2016/02/21 12:46:46] <Hume2> It looks like Narre has never seen a canyon :P)
+[2016/02/21 12:47:34] <Tobbi> I tried running canyonpattern.stl.
+[2016/02/21 12:47:35] <Tobbi> fail.
+[2016/02/21 12:47:49] <Hume2> He uses his own resources.
+[2016/02/21 12:50:15] <Tobbi> The levels are "okay"
+[2016/02/21 12:50:34] <Hume2> How do you mean "okay"?
+[2016/02/21 12:50:51] <Tobbi> Hume2: Design-wise they're good.
+[2016/02/21 12:50:59] <Tobbi> Just not very special. :P
+[2016/02/21 12:51:12] <Tobbi> Actually, I only tried one level so far.
+[2016/02/21 12:51:25] <Hume2> You know, he's going to make 400 levels for his addon.
+[2016/02/21 12:52:03] <Hume2> We are now realistic about level making.
+[2016/02/21 12:53:09] <Hume2> Yeah, my addon will contain only 73 levels.
+[2016/02/21 12:53:56] <Hume2> I made a level where the signs show the longest possible way :P
+[2016/02/21 12:54:04] <pentagon> [10supertux] Status for commit Stop looping sounds when pause menu is shown by 07Tobias Markus: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/401
+[2016/02/21 12:56:51] <Tobbi> wow.
+[2016/02/21 12:57:03] <Tobbi> 400 levels?
+[2016/02/21 12:57:06] <mt> why doesn't he use your magic software to create the levels?
+[2016/02/21 12:57:06] <Tobbi> Why not make good ones.
+[2016/02/21 12:59:17] <Hume2> It's because our fantasy is limited.
+[2016/02/21 12:59:24] <Tobbi>   hmm...
+[2016/02/21 12:59:26] <Tobbi> I know that feeling.
