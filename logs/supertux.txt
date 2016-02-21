@@ -8492,3 +8492,22 @@
 [2016/02/21 05:16:37] @ stewboy joined channel #supertux
 [2016/02/21 05:22:14] <Hume2> Sorry for being inactive for a while.
 [2016/02/21 05:24:45] <Tobbi> Hume2: Don't worry.
+[2016/02/21 05:25:15] @ Mode +o mt by ChanServ
+[2016/02/21 05:25:17] @ Mode +b-o *!*@unaffiliated/brmbrmcar/bot/* mt by mt
+[2016/02/21 05:26:12] <Tobbi> Sounds reasonable.
+[2016/02/21 05:26:34] <brmbrmcar> :D
+[2016/02/21 05:26:58] <mt> brmbrmcar: I'd not put other bots into this channel in the future
+[2016/02/21 05:27:07] <brmbrmcar> What bots?
+[2016/02/21 05:27:13] <mt> it's against freenode's rules to do that without asking
+[2016/02/21 05:27:20] <mt> 11:22:49 -i- [OperationGT] (~brmbrmcar@unaffiliated/brmbrmcar/bot/brmbrmbot) was Ruby bot brmbrmbot
+[2016/02/21 05:27:32] <brmbrmcar> Hold on...
+[2016/02/21 05:27:42] <brmbrmcar> yeah
+[2016/02/21 05:28:00] <brmbrmcar> it shouldn't occur
+[2016/02/21 05:28:04] <brmbrmcar> I'll see logs
+[2016/02/21 05:28:26] <brmbrmcar> i don't see it
+[2016/02/21 05:28:39] <mt> oh and who was OperationGT then?
+[2016/02/21 05:28:47] <mt> the person asking about the editor?
+[2016/02/21 05:28:51] <brmbrmcar> yes
+[2016/02/21 05:29:00] <brmbrmcar> He probabky logged in as my bot
+[2016/02/21 05:29:08] <Tobbi> How the hell can he do that?
+[2016/02/21 05:29:11] <mt> no, it's a separate account
