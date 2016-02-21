@@ -8379,3 +8379,4 @@
 [2016/02/21 03:21:08] @ Quit: tuxdev_: Ping timeout: 244 seconds
 [2016/02/21 03:25:33] @ Quit: lumidify: Ping timeout: 240 seconds
 [2016/02/21 03:28:56] @ lumidify joined channel #supertux
+[2016/02/21 03:34:33] @ Quit: lumidify: Ping timeout: 240 seconds
