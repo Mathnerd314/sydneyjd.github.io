@@ -9006,3 +9006,6 @@
 [2016/02/21 16:56:22] <Tobbi> grrr
 [2016/02/21 17:04:55] @ Quit: tux|dude: Quit: Leaving
 [2016/02/21 17:09:01] @ tux|dude joined channel #supertux
+[2016/02/21 17:22:16] @ Quit: xnrand: Max SendQ exceeded
+[2016/02/21 17:22:31] @ xnrand joined channel #supertux
+[2016/02/21 17:24:16] @ Quit: tux|dude: Quit: Leaving
