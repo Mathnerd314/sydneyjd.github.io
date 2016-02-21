@@ -8644,3 +8644,20 @@
 [2016/02/21 07:53:52] <Tobbi> i'm just excited :P
 [2016/02/21 07:53:57] <Tobbi> kind of.
 [2016/02/21 07:54:18] <Tobbi> And this excitement makes me rather passionate about the matter :P
+[2016/02/21 07:55:11] <Hume2> Anything I should know?
+[2016/02/21 07:55:31] <Tobbi> Hume2: No, just talking about the KiKa thing from yesterday.
+[2016/02/21 07:55:42] <Tobbi> And me being passionate about it and being frustrated that it's so difficult.
+[2016/02/21 07:55:57] <Hume2> Yeah. Has anything happend with that rebase?
+[2016/02/21 07:56:14] <Tobbi> Hume2: I am on correcting the stuff.
+[2016/02/21 07:56:21] <Hume2> OK
+[2016/02/21 07:57:26] <Hume2> Tobbi: Is it now OK to push changes to master?
+[2016/02/21 07:57:39] <Tobbi> Hume2: What changes?
+[2016/02/21 07:57:56] <Hume2> Tobbi: Any changes, like commits.
+[2016/02/21 07:58:06] <Tobbi> Hume2: Not sure, ask mt.
+[2016/02/21 07:58:26] <Tobbi> Also, stupid G+ asks whether I knew myself.
+[2016/02/21 07:58:31] <Hume2> OK, mt, Is it now OK to push commits to master?
+[2016/02/21 07:58:41] <mt> I think it works, actually
+[2016/02/21 07:58:47] <Hume2> Thanks for info.
+[2016/02/21 07:58:55] <mt> if it's a fix we'd just have to rebase again, now only adding one commit
+[2016/02/21 07:59:51] <Hume2> It could be even rebased a bit later. For now, a part of 302 commits should be rebased.
+[2016/02/21 07:59:53] <Tobbi> mt: Rebasing worked?
