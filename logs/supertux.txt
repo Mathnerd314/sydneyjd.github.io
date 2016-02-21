@@ -8931,3 +8931,40 @@
 [2016/02/21 13:09:40] <Tobbi> mt: That's a great threat you can use to motivate google to accept us.
 [2016/02/21 13:12:02] @ Quit: binki: Ping timeout: 252 seconds
 [2016/02/21 13:13:28] @ binki joined channel #supertux
+[2016/02/21 13:15:30] <Tobbi> mt: I actually think the levels have improved.
+[2016/02/21 13:15:36] <Tobbi> eeeh, I meant Hume2
+[2016/02/21 13:16:11] <Hume2> Thanks, Tobbi :)
+[2016/02/21 13:16:35] <Hume2> The levels we were making before were really crappy.
+[2016/02/21 13:16:50] <Hume2> You know, Hume's Islands and Narreland.
+[2016/02/21 13:17:44] <Hume2> Hume's Rainbow Cave is far better, but still they could be better.
+[2016/02/21 13:19:41] <Tobbi> Hume2: Yes. I wonder whether it has something to do with missing graphics.
+[2016/02/21 13:19:44] <mt> just follow grumbel's styleguide
+[2016/02/21 13:19:54] <mt> that results in nice levels
+[2016/02/21 13:20:21] <Hume2> I think that it's not all though.
+[2016/02/21 13:20:40] <Hume2> Actually, I don't know.
+[2016/02/21 13:21:03] <Hume2> Tobbi: What missing graphics?
+[2016/02/21 13:21:24] <Tobbi> Hume2: I wonder whether we need to add more graphics in order for people to be able to create quality levels.
+[2016/02/21 13:21:39] <mt> grumbel says we should fix the code
+[2016/02/21 13:21:41] <mt> first
+[2016/02/21 13:21:47] <Hume2> Tobbi: I don't think so.
+[2016/02/21 13:21:50] <Tobbi> ok
+[2016/02/21 13:22:08] <Tobbi> mt: What code?
+[2016/02/21 13:22:08] <Hume2> Tobbi: See that Overunderground.
+[2016/02/21 13:22:14] <Tobbi> okay, let me check.
+[2016/02/21 13:22:17] <mt> wtf is Overunderground
+[2016/02/21 13:22:18] <Hume2> I use only implemented graphics.
+[2016/02/21 13:22:52] <Hume2> In the center you'll have to defeat the Overunderground Tower after collecting four keys.
+[2016/02/21 13:23:24] <Tobbi> Hume2: Can you make an add-on out of Narre's latest master?
+[2016/02/21 13:23:30] <Tobbi> for me to try out?
+[2016/02/21 13:23:47] <Hume2> Tobbi: Clone the repository into ./supertux2
+[2016/02/21 13:23:54] <Tobbi> hrm.
+[2016/02/21 13:24:03] <Tobbi> I don't want to mess with my profile.
+[2016/02/21 13:24:13] <Hume2> Therefore you'll have it in the folder .supertux2/levels/narre2
+[2016/02/21 13:24:57] <Hume2> I use it like this.
+[2016/02/21 13:25:14] <Tobbi> ok
+[2016/02/21 13:26:17] <Hume2> After that you can launch the levels directly from SuperTux.
+[2016/02/21 13:26:39] <Hume2> mt: http://i.imgur.com/YSjjvRh.png
+[2016/02/21 13:28:16] <mt> are these your styleguides?
+[2016/02/21 13:28:28] <Hume2> Kind of.
+[2016/02/21 13:28:36] <Tobbi> works.
+[2016/02/21 13:28:50] <mt> those points are also okay
