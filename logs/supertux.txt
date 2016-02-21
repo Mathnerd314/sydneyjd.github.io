@@ -8349,3 +8349,9 @@
 [2016/02/20 17:55:56] @ stewboy_ joined channel #supertux
 [2016/02/20 17:57:07] @ Quit: stewboy: Ping timeout: 248 seconds
 [2016/02/20 17:57:08] @ stewboy_ is now known as stewboy
+[2016/02/20 19:23:02] <sydney_untangle> Tobbi: I'd say no to that.
+[2016/02/20 19:23:11] <Tobbi> sydney_untangle: Why?
+[2016/02/20 19:23:29] <sydney_untangle> \o/. Its not the official chat client.
+[2016/02/20 19:23:57] <Tobbi> sydney_untangle: Ah, I thought you were talking about us getting featured on German television.
+[2016/02/20 19:24:35] <Tobbi> s/us/SuperTux/
+[2016/02/20 19:24:35] <red_bot> Tobbi meant: "sydney_untangle: Ah, I thought you were talking about SuperTux getting featured on German television."
