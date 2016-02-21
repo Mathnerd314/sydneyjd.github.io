@@ -8387,3 +8387,4 @@
 [2016/02/21 03:45:09] @ Quit: tux|dude: Quit: Leaving
 [2016/02/21 03:48:08] <mt> hm interesting
 [2016/02/21 03:48:17] <mt> so this isn't supposed to be used as a submodule
+[2016/02/21 04:04:43] <Tobbi> mt: If you want, I can try to replace the freenode client with the kiwiirc one.
