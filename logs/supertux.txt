@@ -8377,3 +8377,5 @@
 [2016/02/21 02:45:33] <mt> s/suo/sup/
 [2016/02/21 02:45:33] <red_bot> mt meant: "In the future, freenode might even allow us to ban unidentified webchat users, with an extended ban that supports logical and/or"
 [2016/02/21 03:21:08] @ Quit: tuxdev_: Ping timeout: 244 seconds
+[2016/02/21 03:25:33] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/02/21 03:28:56] @ lumidify joined channel #supertux
