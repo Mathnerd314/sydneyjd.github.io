@@ -8366,3 +8366,5 @@
 [2016/02/20 23:03:22] <snadge> and i think with that.. i've finished every addon there is for supertux :(
 [2016/02/20 23:03:58] <snadge> okay.. so i haven't found every secret, and collected every coin etc.. but honestly, i think i would go mad trying to do that
 [2016/02/21 00:15:08] @ Quit: binki: Ping timeout: 244 seconds
+[2016/02/21 00:57:10] @ binki joined channel #supertux
+[2016/02/21 00:58:36] @ Quit: tux|dude: Quit: Leaving
