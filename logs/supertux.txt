@@ -8919,3 +8919,15 @@
 [2016/02/21 12:59:17] <Hume2> It's because our fantasy is limited.
 [2016/02/21 12:59:24] <Tobbi>   hmm...
 [2016/02/21 12:59:26] <Tobbi> I know that feeling.
+[2016/02/21 13:00:46] <Hume2> Narre says that it's better to make the level first and then think it a name.
+[2016/02/21 13:01:22] <Hume2> I say that when it's a name that can be any level, it can be thought even before.
+[2016/02/21 13:02:58] <Hume2> Narre uses my thingy, but only limited to create tile backgrounds.
+[2016/02/21 13:03:38] <Hume2> I use it the same way for ma addon. TeraTux Reborn deserves to be a separate thing.
+[2016/02/21 13:03:53] <Hume2> s/ma/my/
+[2016/02/21 13:03:53] <red_bot> Hume2 meant: "I use it the same way for my addon. TeraTux Reborn deserves to be a separate thing."
+[2016/02/21 13:05:32] <mt> no we're gonna include it in the main game
+[2016/02/21 13:05:39] <mt> :D
+[2016/02/21 13:05:57] <Hume2> :D
+[2016/02/21 13:09:40] <Tobbi> mt: That's a great threat you can use to motivate google to accept us.
+[2016/02/21 13:12:02] @ Quit: binki: Ping timeout: 252 seconds
+[2016/02/21 13:13:28] @ binki joined channel #supertux
