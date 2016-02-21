@@ -8667,3 +8667,4 @@
 [2016/02/21 08:04:01] @ Wuzzy joined channel #supertux
 [2016/02/21 08:17:55] @ Quit: lumidify: Ping timeout: 248 seconds
 [2016/02/21 08:18:28] @ lumidify joined channel #supertux
+[2016/02/21 08:24:52] <Hume2> It's strange, but always about one third of issues is open.
