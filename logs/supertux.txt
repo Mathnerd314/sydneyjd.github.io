@@ -8675,3 +8675,9 @@
 [2016/02/21 08:38:31] @ Mathnerd314 joined channel #supertux
 [2016/02/21 08:38:31] @ Mode +v Mathnerd314 by ChanServ
 [2016/02/21 09:12:19] @ Quit: lumidify: Ping timeout: 248 seconds
+[2016/02/21 09:16:07] @ lumidify joined channel #supertux
+[2016/02/21 09:20:29] @ Quit: leyyin: Ping timeout: 240 seconds
+[2016/02/21 09:26:06] <pentagon> [10supertux] 07Hume2 created branch 09develop
+[2016/02/21 09:26:09] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09develop 13https://git.io/v2IyM
+[2016/02/21 09:26:12] <pentagon> [10supertux] 07Hume2 14b633b44 Looping sounds now stop when changing sector.
+[2016/02/21 09:27:56] <mt> better feature/<whatever>
