@@ -8368,3 +8368,4 @@
 [2016/02/21 00:15:08] @ Quit: binki: Ping timeout: 244 seconds
 [2016/02/21 00:57:10] @ binki joined channel #supertux
 [2016/02/21 00:58:36] @ Quit: tux|dude: Quit: Leaving
+[2016/02/21 01:02:07] @ tux|dude joined channel #supertux
