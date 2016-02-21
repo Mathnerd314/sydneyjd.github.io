@@ -8407,3 +8407,10 @@
 [2016/02/21 04:13:57] <mt> now I added them again
 [2016/02/21 04:14:07] <mt> and there are no unstaged changes anymore
 [2016/02/21 04:14:27] <Tobbi> mt: Re German TV: Hiker is getting in touch with them for STK...I've asked him to tell us what he agreed upon.
+[2016/02/21 04:15:40] <mt> ## release/0.4...origin/release/0.4 [ahead 302]
+[2016/02/21 04:15:53] <mt> I'll now remove the commits we don't want in 0.4.1
+[2016/02/21 04:15:56] <Tobbi> ok
+[2016/02/21 04:16:02] <mt> please don't push to master for now
+[2016/02/21 04:16:04] <mt> thanks
+[2016/02/21 04:16:06] <Tobbi> I won't.
+[2016/02/21 04:17:46] <mt> do we want leafshot?
