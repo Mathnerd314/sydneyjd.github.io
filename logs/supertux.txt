@@ -8553,3 +8553,4 @@
 [2016/02/21 06:09:06] @ Quit: lumidify: Changing host
 [2016/02/21 06:09:06] @ lumidify joined channel #supertux
 [2016/02/21 06:24:50] @ claymore2 joined channel #supertux
+[2016/02/21 06:29:58] @ Quit: lumidify: Ping timeout: 252 seconds
