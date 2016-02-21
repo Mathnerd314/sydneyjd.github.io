@@ -8608,3 +8608,18 @@
 [2016/02/21 07:25:12] <Tobbi> Okay, we could as well just only keep the changesets that don't interfere...
 [2016/02/21 07:28:39] <Tobbi> *squirrel as a subprojct* *sigh*
 [2016/02/21 07:32:51] <Tobbi> Also, *sigh* https://de.wikipedia.org/wiki/Wikipedia:Urheberrechtsfragen#TV-Vorf.C3.BChrung_von_GPLv3-Software
+[2016/02/21 07:36:34] @ Quit: Wuzzy: Ping timeout: 240 seconds
+[2016/02/21 07:36:38] <mt> Indeed, why can't we ask them to ask their legal department
+[2016/02/21 07:36:47] <mt> that shouldn't be a problem for them, really
+[2016/02/21 07:36:48] <Tobbi> We definitely could.
+[2016/02/21 07:37:06] <Tobbi> However, we don't have an email address.
+[2016/02/21 07:37:19] <mt> They can forward that internally
+[2016/02/21 07:37:30] <mt> And I think that would actually be the better solution
+[2016/02/21 07:37:40] <Tobbi> Alright, let's do it.
+[2016/02/21 07:37:48] <mt> Since I don't know if these Software Law Center lawyers know about German law
+[2016/02/21 07:38:05] <mt> and especially German and US copyright law is *really* different
+[2016/02/21 07:38:47] <mt> we don't have copyright, public domain or fair use; we might have things that are similar but pretty different
+[2016/02/21 07:39:24] <Tobbi> I don't know how to draft an e-mail to them...
+[2016/02/21 07:39:26] <Tobbi> I'll try.
+[2016/02/21 07:39:34] <mt> to whom now
+[2016/02/21 07:39:48] @ Quit: lumidify: Ping timeout: 276 seconds
