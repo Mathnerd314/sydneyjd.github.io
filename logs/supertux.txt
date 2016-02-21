@@ -8356,3 +8356,4 @@
 [2016/02/20 19:24:35] <Tobbi> s/us/SuperTux/
 [2016/02/20 19:24:35] <red_bot> Tobbi meant: "sydney_untangle: Ah, I thought you were talking about SuperTux getting featured on German television."
 [2016/02/20 20:14:25] @ Quit: stewboy: Read error: Connection reset by peer
+[2016/02/20 20:44:19] <sydney_untangle> Tobbi: :)
