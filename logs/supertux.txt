@@ -8461,3 +8461,12 @@
 [2016/02/21 04:29:18] <mt> due to grumbel's develop branches
 [2016/02/21 04:29:27] <mt> that've been merged into each other
 [2016/02/21 04:29:34] <Tobbi> yes, that's true.
+[2016/02/21 04:30:06] <Tobbi> uh oh, a lot depends on those, right?
+[2016/02/21 04:30:12] <Tobbi> I mean: We'd have to backport a lot, right?
+[2016/02/21 04:30:14] <mt> I don't know
+[2016/02/21 04:30:43] <Tobbi> ok
+[2016/02/21 04:31:21] <mt> the public etherpad idea is good tho
+[2016/02/21 04:31:35] <Tobbi> Okay, let's see...
+[2016/02/21 04:31:50] <mt> I can use https://public.etherpad-mozilla.org/, right?
+[2016/02/21 04:32:09] <Tobbi> yes.
+[2016/02/21 04:32:11] <Tobbi> I guess so.
