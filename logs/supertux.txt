@@ -8555,3 +8555,4 @@
 [2016/02/21 06:24:50] @ claymore2 joined channel #supertux
 [2016/02/21 06:29:58] @ Quit: lumidify: Ping timeout: 252 seconds
 [2016/02/21 06:34:58] <Hume2> Oh, god the jojin/qujit contest is here again.
+[2016/02/21 06:37:51] <Tobbi> We should hide join / quits
