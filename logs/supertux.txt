@@ -8384,3 +8384,6 @@
 [2016/02/21 03:42:00] <mt> I tried to split away the data directory using git-subtree
 [2016/02/21 03:42:16] <mt> however in the split repo, there are now commits that don't touch data/
 [2016/02/21 03:42:30] <mt> even though I only have data/ content in the actual tree
+[2016/02/21 03:45:09] @ Quit: tux|dude: Quit: Leaving
+[2016/02/21 03:48:08] <mt> hm interesting
+[2016/02/21 03:48:17] <mt> so this isn't supposed to be used as a submodule
