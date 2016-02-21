@@ -8670,3 +8670,7 @@
 [2016/02/21 08:24:52] <Hume2> It's strange, but always about one third of issues is open.
 [2016/02/21 08:29:41] <Tobbi> Hume2: That's hume's law
 [2016/02/21 08:29:59] <Hume2> :D
+[2016/02/21 08:31:48] @ Quit: claymore2: Quit: Leaving
+[2016/02/21 08:36:08] @ leyyin joined channel #supertux
+[2016/02/21 08:38:31] @ Mathnerd314 joined channel #supertux
+[2016/02/21 08:38:31] @ Mode +v Mathnerd314 by ChanServ
