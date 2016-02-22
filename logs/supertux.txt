@@ -9029,3 +9029,7 @@
 [2016/02/21 23:23:12] @ tuxdude143 joined channel #supertux
 [2016/02/21 23:26:31] @ Quit: tux|dude: Ping timeout: 244 seconds
 [2016/02/21 23:39:12] @ Quit: irungentoo: Ping timeout: 276 seconds
+[2016/02/22 00:56:44] @ lumidify joined channel #supertux
+[2016/02/22 00:56:44] @ Quit: lumidify: Changing host
+[2016/02/22 00:56:44] @ lumidify joined channel #supertux
+[2016/02/22 00:59:13] @ stewboy joined channel #supertux
