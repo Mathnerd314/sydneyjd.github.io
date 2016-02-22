@@ -9033,3 +9033,4 @@
 [2016/02/22 00:56:44] @ Quit: lumidify: Changing host
 [2016/02/22 00:56:44] @ lumidify joined channel #supertux
 [2016/02/22 00:59:13] @ stewboy joined channel #supertux
+[2016/02/22 01:29:59] @ Quit: lumidify: Ping timeout: 240 seconds
