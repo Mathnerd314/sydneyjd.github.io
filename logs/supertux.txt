@@ -9074,3 +9074,10 @@
 [2016/02/22 12:19:22] @ lumidify joined channel #supertux
 [2016/02/22 12:23:43] @ Quit: lumidify: Ping timeout: 250 seconds
 [2016/02/22 12:25:30] <Tobbi> Hello Hume2.
+[2016/02/22 12:30:42] <Hume2> So we need:
+[2016/02/22 12:30:55] <Hume2> 3 forest levels and 7 dark forest levels.
+[2016/02/22 12:31:39] <Hume2> Yes.
+[2016/02/22 12:33:16] <mt> why specifically?
+[2016/02/22 12:34:45] <mt> key?.stl are the actual keys?
+[2016/02/22 12:34:58] <mt> or some leftover?
+[2016/02/22 12:35:26] <mt> also, do you have a screenshot of the reorganized worldmap?
