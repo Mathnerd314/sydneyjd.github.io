@@ -9061,3 +9061,4 @@
 [2016/02/22 09:59:14] @ tuxdev_ joined channel #supertux
 [2016/02/22 10:13:56] @ Mathnerd314 joined channel #supertux
 [2016/02/22 10:13:56] @ Mode +v Mathnerd314 by ChanServ
+[2016/02/22 11:13:40] @ lumidify joined channel #supertux
