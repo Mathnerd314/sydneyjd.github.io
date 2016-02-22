@@ -9097,3 +9097,26 @@
 [2016/02/22 12:57:24] <Tobbi> Narre is Hume2's friend.
 [2016/02/22 12:58:38] <Hume2> And Narreland is not Narre's Multiworld.
 [2016/02/22 12:59:45] <Tobbi> I'm at level 33 / 49.
+[2016/02/22 13:00:27] <Hume2> The level number is not final though. He's going to fill levels in-middle.
+[2016/02/22 13:00:35] <Tobbi> Hopefully.
+[2016/02/22 13:00:41] <Tobbi> And hopefully good ones.
+[2016/02/22 13:00:42] <sydney_untangle> Hume2: Ah, well, say hi to your friend for me. ;)
+[2016/02/22 13:01:02] <Hume2> sydney_untangle: Will do.
+[2016/02/22 13:01:09] <Hume2> :)
+[2016/02/22 13:04:55] @ lumidify joined channel #supertux
+[2016/02/22 13:06:54] <mt> why isn't he on IRC as often as you are?
+[2016/02/22 13:07:08] <Hume2> mt: He's very shy.
+[2016/02/22 13:07:52] <Hume2> I tell him that he doesn't have to care about grammar, but still.
+[2016/02/22 13:08:39] <Hume2> And please don't thell him that I've told you something about him, he could ragequit.
+[2016/02/22 13:09:20] <mt> There's that log, you know?
+[2016/02/22 13:09:43] <Hume2> mt: I know, but Narre doesn't specate it :P
+[2016/02/22 13:09:55] <mt> ok
+[2016/02/22 13:10:47] <Hume2> ~seen Narre
+[2016/02/22 13:10:47] <red_bot> Hume2: Narre was last seen 22 days, 18 minutes and 4 seconds ago, quitting IRC (Quit: Page closed) and a while before saying "So I know variables, methods, classes. But that's all. I don't even know how to use arrays and other things." in #supertux
+[2016/02/22 13:11:20] <Hume2> As I expected.
+[2016/02/22 13:11:52] <Tobbi> *sigh*
+[2016/02/22 13:12:21] <Tobbi> Hume2: Tell him I don't know anything about computers
+[2016/02/22 13:12:25] <Tobbi> Might cheer him up.
+[2016/02/22 13:12:35] <Hume2> OK, will do.
+[2016/02/22 13:12:39] <Tobbi> :D
+[2016/02/22 13:14:44] <Tobbi> mt: I haven't heard back from MDR. Not sure if they forwarded that mail or not...
