@@ -9202,3 +9202,7 @@
 [2016/02/22 14:08:10] @ lumidify joined channel #supertux
 [2016/02/22 14:13:18] <pentagon> [10supertux] 07patric-r starred 09supertux - 13https://git.io/v2YnF
 [2016/02/22 14:14:04] <Tobbi> yay
+[2016/02/22 14:34:06] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/22 14:36:28] @ leper` joined channel #supertux
+[2016/02/22 14:38:48] @ Quit: lumidify: Ping timeout: 276 seconds
+[2016/02/22 14:43:19] @ lumidify joined channel #supertux
