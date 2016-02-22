@@ -9120,3 +9120,42 @@
 [2016/02/22 13:12:35] <Hume2> OK, will do.
 [2016/02/22 13:12:39] <Tobbi> :D
 [2016/02/22 13:14:44] <Tobbi> mt: I haven't heard back from MDR. Not sure if they forwarded that mail or not...
+[2016/02/22 13:15:05] <Tobbi> But regarding SFLC, I had to reply "I understand", so I should be in their queue.
+[2016/02/22 13:15:26] <Hume2> I've once tried to learn Narre the Squirel and he hoped that he'd learn programming in school :P
+[2016/02/22 13:15:52] <Tobbi> Squirrel is a weird language.
+[2016/02/22 13:15:56] <Tobbi> I don't know it.
+[2016/02/22 13:16:06] <Tobbi> Actually, I probably know the basics...
+[2016/02/22 13:16:09] <Tobbi> but still...
+[2016/02/22 13:16:10] <Hume2> Now it's obvious that the highschool isn't capable to learn programming :D
+[2016/02/22 13:16:19] <Tobbi> Hume2: You mean teach?
+[2016/02/22 13:16:24] <Hume2> Yeah.
+[2016/02/22 13:16:33] <Tobbi> Hume2: We learned Delphi in school.
+[2016/02/22 13:16:40] <Tobbi> Or should I say, I was one of the few who did.
+[2016/02/22 13:16:50] <Hume2> We haven't learned any so far.
+[2016/02/22 13:16:53] <lumidify> That's why there's this: https://github.com/open-source-society/computer-science
+[2016/02/22 13:17:19] <Hume2> Narre's highschool: first half of years they teached Java.
+[2016/02/22 13:17:53] <Hume2> Just a few students got what's the difference between int and string :P
+[2016/02/22 13:18:07] <Hume2> Now they teach PHP.
+[2016/02/22 13:18:18] <Tobbi> PHP is ugly.
+[2016/02/22 13:18:21] <Tobbi> I don't touch that.
+[2016/02/22 13:18:38] <Hume2> I don't know PHP much.
+[2016/02/22 13:18:52] <lumidify> Go Python!
+[2016/02/22 13:18:58] <Tobbi> Python is nice.
+[2016/02/22 13:20:54] <Hume2> What do you thing? Should programming should be teached in basic school?
+[2016/02/22 13:22:00] <Tobbi> Hume2: *taught (check your irregular verbs) and, I am not sure
+[2016/02/22 13:22:08] <Tobbi> It's not that useful.
+[2016/02/22 13:22:19] <Tobbi> Unless you want to pursue a career in computer science,
+[2016/02/22 13:22:33] <mt> "not that useful"
+[2016/02/22 13:22:51] <mt> school's for teaching students stuff to know what's going on in their lives
+[2016/02/22 13:23:02] <Tobbi> mt: C'mon... It's not necessary to live a happy life.
+[2016/02/22 13:23:03] <mt> else people who want to write books wouldn't need maths
+[2016/02/22 13:23:18] <mt> people who want to pursue a career in science might not need languages
+[2016/02/22 13:23:43] <Tobbi> They might need English though.
+[2016/02/22 13:23:49] <Tobbi> Most papers are written in English.
+[2016/02/22 13:23:59] <Hume2> I know that it might be mad, but it could partially prevent those people-logic errors.
+[2016/02/22 13:24:16] <Hume2> Well, not really.
+[2016/02/22 13:24:47] <Hume2> They'd teach it a weird way, so it would have no effect in many cases.
+[2016/02/22 13:27:23] <Tobbi> Indeed.
+[2016/02/22 13:27:56] <Tobbi> Hume2: I have gone through extensive lessons regarding computer science, and you can tell I don't know anything about computers...So, there: Fault of the German highschool / college system.
+[2016/02/22 13:28:31] <Hume2> Tobbi: You know, computer knowledge != programming skills
+[2016/02/22 13:28:46] <Tobbi> That's true.
