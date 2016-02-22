@@ -9211,3 +9211,7 @@
 [2016/02/22 14:54:06] <pentagon> [10supertux] 07tobbi 141df7d90 Mark Worldmap::clamp_camera_position const
 [2016/02/22 14:54:21] @ tux|dude joined channel #supertux
 [2016/02/22 14:54:31] @ Quit: datahead7777: Ping timeout: 250 seconds
+[2016/02/22 15:03:31] @ lumidify joined channel #supertux
+[2016/02/22 15:03:31] @ Quit: lumidify: Changing host
+[2016/02/22 15:03:31] @ lumidify joined channel #supertux
+[2016/02/22 15:12:55] @ Quit: lumidify: Ping timeout: 252 seconds
