@@ -9231,3 +9231,5 @@
 [2016/02/22 16:34:47] @ Quit: swift110: Changing host
 [2016/02/22 16:34:47] @ swift110 joined channel #supertux
 [2016/02/22 17:05:05] @ Quit: tux|dude: Quit: Leaving
+[2016/02/22 17:17:28] @ Quit: leper`: Quit: ZNC - http://znc.in
+[2016/02/22 17:19:46] @ leper` joined channel #supertux
