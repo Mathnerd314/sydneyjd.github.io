@@ -9063,3 +9063,4 @@
 [2016/02/22 10:13:56] @ Mode +v Mathnerd314 by ChanServ
 [2016/02/22 11:13:40] @ lumidify joined channel #supertux
 [2016/02/22 11:26:41] @ mteufel is now known as mt
+[2016/02/22 11:42:39] @ Quit: lumidify: Ping timeout: 276 seconds
