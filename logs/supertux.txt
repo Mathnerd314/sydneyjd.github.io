@@ -9020,3 +9020,4 @@
 [2016/02/21 18:35:16] @ tux|dude joined channel #supertux
 [2016/02/21 19:30:28] @ Quit: tux|dude: Quit: Leaving
 [2016/02/21 19:39:22] @ tux|dude joined channel #supertux
+[2016/02/21 20:09:12] @ Quit: tux|dude: Quit: Leaving
