@@ -9224,3 +9224,4 @@
 [2016/02/22 15:34:21] <pentagon> [10supertux] Status for commit Mark Worldmap::clamp_camera_position const by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/111043964
 [2016/02/22 15:34:52] <pentagon> [10supertux] Status for commit Mark Worldmap::clamp_camera_position const by 07Tobias Markus: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/404
 [2016/02/22 15:40:55] @ Quit: lumidify: Ping timeout: 255 seconds
+[2016/02/22 15:49:40] @ Quit: claymore2: Quit: Leaving
