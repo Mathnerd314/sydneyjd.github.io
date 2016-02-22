@@ -9215,3 +9215,9 @@
 [2016/02/22 15:03:31] @ Quit: lumidify: Changing host
 [2016/02/22 15:03:31] @ lumidify joined channel #supertux
 [2016/02/22 15:12:55] @ Quit: lumidify: Ping timeout: 252 seconds
+[2016/02/22 15:20:52] @ Quit: gynter: *.net *.split
+[2016/02/22 15:22:04] @ gynter joined channel #supertux
+[2016/02/22 15:23:35] @ Wuzzy joined channel #supertux
+[2016/02/22 15:26:44] @ lumidify joined channel #supertux
+[2016/02/22 15:26:44] @ Quit: lumidify: Changing host
+[2016/02/22 15:26:44] @ lumidify joined channel #supertux
