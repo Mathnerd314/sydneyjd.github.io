@@ -9190,3 +9190,12 @@
 [2016/02/22 13:39:20] <Tobbi> Besides, haven't heard back from them.
 [2016/02/22 13:42:45] <Hume2> Tobbi: That paper is interresting.
 [2016/02/22 13:43:08] <Tobbi> told ya.
+[2016/02/22 13:46:54] <sydney_untangle> Hrm.
+[2016/02/22 13:48:35] <Tobbi> sydney_untangle: The MDR haven't replied back to me, though.
+[2016/02/22 13:48:43] <Tobbi> The TV station this originated from.
+[2016/02/22 13:49:59] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/02/22 13:51:39] @ claymore2 joined channel #supertux
+[2016/02/22 13:52:40] <mt> maybe it was a fake?
+[2016/02/22 13:52:56] <mt> on the other hand I don't see a reason for a fake
+[2016/02/22 13:55:50] <Tobbi> mt: No, I guess they either forwarded it, or thought I was spamming them.
+[2016/02/22 13:55:55] <Tobbi> Because they didn't understand it.
