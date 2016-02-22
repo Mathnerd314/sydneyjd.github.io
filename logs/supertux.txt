@@ -9159,3 +9159,34 @@
 [2016/02/22 13:27:56] <Tobbi> Hume2: I have gone through extensive lessons regarding computer science, and you can tell I don't know anything about computers...So, there: Fault of the German highschool / college system.
 [2016/02/22 13:28:31] <Hume2> Tobbi: You know, computer knowledge != programming skills
 [2016/02/22 13:28:46] <Tobbi> That's true.
+[2016/02/22 13:30:13] <Hume2> You know, the people-logic errors, they are so annying.
+[2016/02/22 13:30:41] <Hume2> *annoying
+[2016/02/22 13:31:16] <mt> what do you consider "people-logic errors"?
+[2016/02/22 13:32:02] <Hume2> mt: You know, when someone hat two or more opinions at once.
+[2016/02/22 13:32:20] <mt> opinions that conflict?
+[2016/02/22 13:32:31] <Hume2> Like very different opinions, those are in conflict.
+[2016/02/22 13:32:40] <Hume2> Yes.
+[2016/02/22 13:33:14] <Hume2> Well, those people usually don't know that they have two opinions at once.
+[2016/02/22 13:34:22] <Tobbi> Hume2: Programming can't help there.
+[2016/02/22 13:34:35] <Tobbi> Programming is just an excercise. Also, people either know how to do it or they don't.
+[2016/02/22 13:34:46] <Hume2> That's true.
+[2016/02/22 13:35:03] <mt> Logical thinking can be learned
+[2016/02/22 13:35:18] <Tobbi> mt: It's not about logic. It's about abstract thinking.
+[2016/02/22 13:35:23] <mt> Yes
+[2016/02/22 13:35:26] <Tobbi> Also, there was a paper published...
+[2016/02/22 13:35:45] <Tobbi> This: http://www.eis.mdx.ac.uk/research/PhDArea/saeed/paper1.pdf
+[2016/02/22 13:35:50] <mt> Many people seem to think they can get through maths/physics/computer science without knowing that :/
+[2016/02/22 13:36:00] <Tobbi> Oh, it's the 10 year anniversary of that paper today.
+[2016/02/22 13:36:20] <Hume2> Indeed.
+[2016/02/22 13:36:56] <Hume2> The people-logic error could be also something a bit different.
+[2016/02/22 13:37:18] <Hume2> Once I've asked how to get somewhere.
+[2016/02/22 13:37:20] <Tobbi> Hume2: Even though I am a fairly good programmer, I am still indecisive in some areas.
+[2016/02/22 13:37:31] <Hume2> ikr
+[2016/02/22 13:38:09] <Hume2> He said that I'll ride two stations by bus 183 and while I'm riding the bus 125...
+[2016/02/22 13:38:31] <Hume2> See?
+[2016/02/22 13:38:41] <sydney_untangle> Tobbi: You are going to contact some lawyers?
+[2016/02/22 13:38:51] <Tobbi> sydney_untangle: I already did. SFLC
+[2016/02/22 13:39:10] <Tobbi> sydney_untangle: I had to confirm that there is no confidential information in the request.
+[2016/02/22 13:39:20] <Tobbi> Besides, haven't heard back from them.
+[2016/02/22 13:42:45] <Hume2> Tobbi: That paper is interresting.
+[2016/02/22 13:43:08] <Tobbi> told ya.
