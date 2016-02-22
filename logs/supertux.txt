@@ -9071,3 +9071,6 @@
 [2016/02/22 12:09:48] <pentagon> [10supertux] 07Hume2 14148cdf7 Combined two main worldmaps
 [2016/02/22 12:09:48] <pentagon> [10supertux] 07Hume2 14f1d8ee9 Deleted levels from data/levels/world2 without any perspective
 [2016/02/22 12:09:48] <pentagon> [10supertux] 07Hume2 1487a87b9 Reorganized forest worldmap
+[2016/02/22 12:19:22] @ lumidify joined channel #supertux
+[2016/02/22 12:23:43] @ Quit: lumidify: Ping timeout: 250 seconds
+[2016/02/22 12:25:30] <Tobbi> Hello Hume2.
