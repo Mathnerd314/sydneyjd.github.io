@@ -9227,3 +9227,6 @@
 [2016/02/22 15:49:40] @ Quit: claymore2: Quit: Leaving
 [2016/02/22 16:21:39] @ Quit: tux|dude: Ping timeout: 248 seconds
 [2016/02/22 16:25:58] @ tux|dude joined channel #supertux
+[2016/02/22 16:34:22] @ swift110 joined channel #supertux
+[2016/02/22 16:34:47] @ Quit: swift110: Changing host
+[2016/02/22 16:34:47] @ swift110 joined channel #supertux
