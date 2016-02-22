@@ -9034,3 +9034,5 @@
 [2016/02/22 00:56:44] @ lumidify joined channel #supertux
 [2016/02/22 00:59:13] @ stewboy joined channel #supertux
 [2016/02/22 01:29:59] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/02/22 01:39:29] <pentagon> [10supertux] 07Hume2 commented on issue 09#280: Changed maximum coins to INT_MAX 13https://git.io/vEmF4
+[2016/02/22 01:39:36] <pentagon> [10supertux] 07Hume2 closed pull request 09#280: Changed maximum coins to INT_MAX 13https://git.io/vEmF4
