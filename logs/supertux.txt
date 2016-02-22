@@ -9028,3 +9028,4 @@
 [2016/02/21 22:33:29] @ tuxdev_ joined channel #supertux
 [2016/02/21 23:23:12] @ tuxdude143 joined channel #supertux
 [2016/02/21 23:26:31] @ Quit: tux|dude: Ping timeout: 244 seconds
+[2016/02/21 23:39:12] @ Quit: irungentoo: Ping timeout: 276 seconds
