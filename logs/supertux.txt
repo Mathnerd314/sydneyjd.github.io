@@ -9081,3 +9081,19 @@
 [2016/02/22 12:34:45] <mt> key?.stl are the actual keys?
 [2016/02/22 12:34:58] <mt> or some leftover?
 [2016/02/22 12:35:26] <mt> also, do you have a screenshot of the reorganized worldmap?
+[2016/02/22 12:46:28] <Hume2> mt: http://i.imgur.com/povg4dc.png
+[2016/02/22 12:46:58] <Hume2> key[n].stl were just example usages of keys.
+[2016/02/22 12:47:08] <Hume2> They were not actual levels.
+[2016/02/22 12:50:49] @ Quit: tuxdev_: Ping timeout: 255 seconds
+[2016/02/22 12:55:03] <Tobbi> I'm still playing Narre's levels...
+[2016/02/22 12:55:34] <Tobbi> I think you should improve the layout, still.
+[2016/02/22 12:55:44] <Tobbi> Add more elements, make them more pleasing.
+[2016/02/22 12:55:47] <Tobbi> Or rather, he should.
+[2016/02/22 12:55:59] <sydney_untangle> Tobbi: I still haven't beat the first level.
+[2016/02/22 12:56:05] <sydney_untangle> Thanks Hume2. :p
+[2016/02/22 12:56:31] <sydney_untangle> Tobbi: Uh, hume is narre, right?
+[2016/02/22 12:56:44] <Hume2> No, I'm not Narre.
+[2016/02/22 12:57:20] <Tobbi> sydney_untangle: No, he isn't.
+[2016/02/22 12:57:24] <Tobbi> Narre is Hume2's friend.
+[2016/02/22 12:58:38] <Hume2> And Narreland is not Narre's Multiworld.
+[2016/02/22 12:59:45] <Tobbi> I'm at level 33 / 49.
