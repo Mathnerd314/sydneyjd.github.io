@@ -9049,3 +9049,4 @@
 [2016/02/22 05:36:08] @ lumidify joined channel #supertux
 [2016/02/22 05:43:45] @ Quit: lumidify: Ping timeout: 250 seconds
 [2016/02/22 05:53:04] <Tobbi> Didn't hear back from MDR nor from SFLC
+[2016/02/22 06:00:30] @ Quit: stewboy: Read error: Connection reset by peer
