@@ -9280,3 +9280,6 @@
 [2016/02/23 09:16:15] * sydney_untangle cries...
 [2016/02/23 10:07:54] @ Quit: polyphagia: Ping timeout: 240 seconds
 [2016/02/23 10:07:58] @ polyphagia joined channel #supertux
+[2016/02/23 10:17:09] <sydney_untangle> Tobbi: Want to write me a small song? ;p
+[2016/02/23 10:25:55] @ Mathnerd314 joined channel #supertux
+[2016/02/23 10:25:55] @ Mode +v Mathnerd314 by ChanServ
