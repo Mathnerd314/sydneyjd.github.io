@@ -9288,3 +9288,4 @@
 [2016/02/23 11:19:15] @ Mode +v Hume2 by ChanServ
 [2016/02/23 11:19:26] <Hume2> Hello
 [2016/02/23 11:22:35] <Tobbi> Hello Hume2
+[2016/02/23 12:57:35] @ claymore2 joined channel #supertux
