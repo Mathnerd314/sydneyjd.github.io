@@ -9293,3 +9293,11 @@
 [2016/02/23 13:19:43] @ swift110 joined channel #supertux
 [2016/02/23 13:20:55] @ Quit: lumidify: Ping timeout: 244 seconds
 [2016/02/23 13:29:35] @ Quit: Tobbi: Quit: ZNC - http://znc.in
+[2016/02/23 13:31:18] @ Tobbi joined channel #supertux
+[2016/02/23 13:31:18] @ Mode +v Tobbi by ChanServ
+[2016/02/23 13:42:09] <Tobbi> ZNC quit?
+[2016/02/23 13:43:07] <mt> because you sent SIGTERM or told it to quit?
+[2016/02/23 13:43:56] <mt> iirc if it'd segfault it tries to gracefully disconnect from IRC and includes the reason in the quit message
+[2016/02/23 13:44:09] <Tobbi> mt: I didn't.
+[2016/02/23 13:44:20] <Tobbi> ... do either.
+[2016/02/23 13:44:51] <mt> what does your log say?
