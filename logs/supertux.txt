@@ -9428,3 +9428,9 @@
 [2016/02/23 18:11:03] <Some_Person> I mean, that's a lot of languages for SuperTux to be supporting
 [2016/02/23 18:11:26] <Tobbi> Oh, yes.
 [2016/02/23 18:11:33] <Tobbi> We still have problems with certain fonts.
+[2016/02/23 18:16:00] @ Quit: Xjs|moonshine: Read error: Connection timed out
+[2016/02/23 18:20:00] @ Xjs|moonshine joined channel #supertux
+[2016/02/23 18:25:03] <Tobbi> lol "Over the past twelve months, 37 developers contributed new code to SuperTux. This is one of the largest open-source teams in the world, and is in the top 2% of all project teams on Open Hub."
+[2016/02/23 18:25:33] <sydney_untangle> Tobbi: What in the world?
+[2016/02/23 18:25:48] <Tobbi> https://www.openhub.net/p/supertux/factoids
+[2016/02/23 18:25:54] <Tobbi> sydney_untangle: check that out.
