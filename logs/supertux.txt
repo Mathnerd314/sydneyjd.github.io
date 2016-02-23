@@ -9318,3 +9318,6 @@
 [2016/02/23 13:59:18] @ claymore2 joined channel #supertux
 [2016/02/23 14:22:43] <pentagon> [10supertux] 07michelboutros starred 09supertux - 13https://git.io/v2ZJJ
 [2016/02/23 14:25:49] @ tux|dude joined channel #supertux
+[2016/02/23 14:46:39] @ Quit: swift110: Ping timeout: 244 seconds
+[2016/02/23 14:53:48] <Tobbi> brmbrmcaaar! https://www.youtube.com/watch?v=svPVEKjy0_4
+[2016/02/23 14:53:48] <Tobbi> grr
