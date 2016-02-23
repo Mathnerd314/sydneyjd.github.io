@@ -9236,3 +9236,4 @@
 [2016/02/22 17:31:28] @ tux|dude joined channel #supertux
 [2016/02/22 17:33:27] @ Some_Person joined channel #supertux
 [2016/02/22 18:29:17] @ Quit: tux|dude: Read error: Connection reset by peer
+[2016/02/22 19:09:20] @ Quit: Wuzzy: Quit: Wuzzy
