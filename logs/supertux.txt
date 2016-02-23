@@ -9323,3 +9323,6 @@
 [2016/02/23 14:53:48] <Tobbi> grr
 [2016/02/23 15:14:25] @ Quit: Mathnerd314: Ping timeout: 250 seconds
 [2016/02/23 15:22:18] @ lumidify joined channel #supertux
+[2016/02/23 15:33:51] @ Mathnerd314 joined channel #supertux
+[2016/02/23 15:33:51] @ Mode +v Mathnerd314 by ChanServ
+[2016/02/23 15:37:58] @ Quit: tux|dude: Quit: Leaving
