@@ -9267,3 +9267,5 @@
 [2016/02/23 03:50:53] @ tuxdude143 joined channel #supertux
 [2016/02/23 03:53:06] @ Quit: tuxdude143: Client Quit
 [2016/02/23 03:53:55] @ Quit: tux|dude: Ping timeout: 248 seconds
+[2016/02/23 05:52:54] <Tobbi> Hmm, they forwarded that e-mail to the law dept.
+[2016/02/23 05:52:56] <Tobbi> MDR did.
