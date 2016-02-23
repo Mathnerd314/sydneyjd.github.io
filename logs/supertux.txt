@@ -9348,3 +9348,45 @@
 [2016/02/23 17:41:35] <Tobbi> But I am glad about it as well.
 [2016/02/23 17:41:43] <Tobbi> It's gotten much better to manage everything.
 [2016/02/23 17:43:07] <Tobbi> Plus, much better exposure to the rest of the open source world.
+[2016/02/23 17:46:08] <Some_Person> it does look like there's been a lot of development. I'm glad to see it :)
+[2016/02/23 17:46:24] <Tobbi> Some_Person: Have you tried out 0.4.0? You should :)
+[2016/02/23 17:46:49] <Some_Person> I think I'll have to tonight!
+[2016/02/23 17:46:56] <Tobbi> Sounds good.
+[2016/02/23 17:47:12] <Tobbi> Some_Person: In case you want to get in the loop again: We could always use contributors.
+[2016/02/23 17:48:09] <Some_Person> Unfortunately, I don't have a lot of free time these days (working full time and close to getting my degree; pretty sure I was in high school the last time I was here), but I won't say never
+[2016/02/23 17:49:25] <Tobbi> Some_Person: Sounds fun.
+[2016/02/23 17:53:26] <Some_Person> there's a lot of questions I feel like asking, but it'll be easier if I just wait to play the thing (I'm actually still at work right now)
+[2016/02/23 17:53:59] <Tobbi> Some_Person: I am also in college so I know how you feel.
+[2016/02/23 17:54:52] <Some_Person> Oh nice, 0.4.0 is actually considered stable
+[2016/02/23 17:55:21] <Tobbi> Some_Person: The worst mistake we ever did.
+[2016/02/23 17:55:28] <Tobbi> :P
+[2016/02/23 17:56:06] <Some_Person> To be honest, it always seemed pretty damn stable to me
+[2016/02/23 17:56:27] <Tobbi> Some_Person: To me as well...
+[2016/02/23 17:56:31] <Tobbi> But some people were having problems.
+[2016/02/23 17:56:44] <Tobbi> Some_Person: My main reason for doing a release was to just get this thing on the road.
+[2016/02/23 17:56:54] <Tobbi> It's been a long time since the last stable.
+[2016/02/23 17:57:13] <Some_Person> I hear ya. I remember when I was advocating strongly just for the 0.3.4 development release
+[2016/02/23 17:57:39] <Tobbi> Oh, that's also been some time.
+[2016/02/23 17:58:12] @ Quit: VargaD: *.net *.split
+[2016/02/23 17:58:12] @ Quit: maths22: *.net *.split
+[2016/02/23 17:58:49] @ Quit: Tobbi: *.net *.split
+[2016/02/23 17:58:52] @ Quit: xnrand: *.net *.split
+[2016/02/23 17:58:52] @ Quit: datahead8888: *.net *.split
+[2016/02/23 17:58:54] @ Quit: polyphagia: *.net *.split
+[2016/02/23 17:58:54] @ Quit: mt: *.net *.split
+[2016/02/23 17:58:54] @ Quit: Xjs|moonshine: *.net *.split
+[2016/02/23 17:58:54] @ Quit: Some_Person: *.net *.split
+[2016/02/23 17:58:54] @ Quit: snadge: *.net *.split
+[2016/02/23 17:58:55] @ Quit: leper`: *.net *.split
+[2016/02/23 17:58:55] @ Quit: gynter: *.net *.split
+[2016/02/23 17:58:55] @ Quit: Vorpal: *.net *.split
+[2016/02/23 17:58:55] @ Quit: tuxdev: *.net *.split
+[2016/02/23 17:58:55] @ Quit: paroneayea: *.net *.split
+[2016/02/23 17:58:55] @ Quit: nerdopolis: *.net *.split
+[2016/02/23 17:58:55] @ Quit: binki: *.net *.split
+[2016/02/23 17:58:55] @ Quit: Yaiyan: *.net *.split
+[2016/02/23 17:58:55] @ Quit: octo: *.net *.split
+[2016/02/23 17:58:55] @ Quit: pentagon: *.net *.split
+[2016/02/23 17:58:55] @ Quit: sydney_untangle: *.net *.split
+[2016/02/23 17:58:55] @ Quit: jeezy: *.net *.split
+[2016/02/23 17:58:55] @ Quit: ChanServ: *.net *.split
