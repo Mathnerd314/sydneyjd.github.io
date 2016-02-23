@@ -9283,3 +9283,4 @@
 [2016/02/23 10:17:09] <sydney_untangle> Tobbi: Want to write me a small song? ;p
 [2016/02/23 10:25:55] @ Mathnerd314 joined channel #supertux
 [2016/02/23 10:25:55] @ Mode +v Mathnerd314 by ChanServ
+[2016/02/23 10:59:42] <Tobbi> sydney_untangle: No.
