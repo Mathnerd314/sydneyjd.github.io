@@ -9329,3 +9329,9 @@
 [2016/02/23 16:18:13] @ Quit: lumidify: Quit: Leaving
 [2016/02/23 16:40:11] <sydney_untangle> Tobbi: What did he do now?
 [2016/02/23 16:42:09] <Tobbi> sydney_untangle: Created a SuperTux level where a car crashes into Tux.
+[2016/02/23 16:48:20] <sydney_untangle> Tobbi: *facepalm*.
+[2016/02/23 16:48:28] <Tobbi> See.
+[2016/02/23 16:48:35] <Tobbi> told you.
+[2016/02/23 16:50:00] <sydney_untangle> :-)
+[2016/02/23 16:50:06] @ Quit: claymore2: Quit: Leaving
+[2016/02/23 16:53:06] @ Quit: Mathnerd314: Ping timeout: 276 seconds
