@@ -9301,3 +9301,18 @@
 [2016/02/23 13:44:09] <Tobbi> mt: I didn't.
 [2016/02/23 13:44:20] <Tobbi> ... do either.
 [2016/02/23 13:44:51] <mt> what does your log say?
+[2016/02/23 13:45:17] <Tobbi> I'll check.
+[2016/02/23 13:45:22] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/23 13:46:15] <mt> also, you didn't restart the host?
+[2016/02/23 13:46:30] <Tobbi> mt: I didn't.
+[2016/02/23 13:47:07] <mt> pretty strange
+[2016/02/23 13:47:26] <Tobbi> mt: Where can I find the logs?
+[2016/02/23 13:47:38] <mt> I just realized ZNC doesn't log
+[2016/02/23 13:48:00] <Tobbi> mt: My Fritz.Box restarted itself.
+[2016/02/23 13:48:16] @ Quit: claymore2: Ping timeout: 244 seconds
+[2016/02/23 13:48:18] <Tobbi> And it sent an error report.
+[2016/02/23 13:48:22] <mt> yes, and that probably resulted in a new IP
+[2016/02/23 13:48:53] <Tobbi> mt: Most likely.
+[2016/02/23 13:56:18] @ Quit: tuxdev_: Ping timeout: 276 seconds
+[2016/02/23 13:58:47] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/02/23 13:59:18] @ claymore2 joined channel #supertux
