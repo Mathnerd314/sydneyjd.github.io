@@ -9253,3 +9253,5 @@
 [2016/02/23 01:10:15] @ nerdopolis joined channel #supertux
 [2016/02/23 01:31:30] @ stewboy joined channel #supertux
 [2016/02/23 01:42:12] @ lumidify joined channel #supertux
+[2016/02/23 01:45:04] @ Quit: nerdopolis: Ping timeout: 240 seconds
+[2016/02/23 01:45:56] @ nerdopolis_ joined channel #supertux
