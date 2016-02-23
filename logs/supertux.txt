@@ -9284,3 +9284,7 @@
 [2016/02/23 10:25:55] @ Mathnerd314 joined channel #supertux
 [2016/02/23 10:25:55] @ Mode +v Mathnerd314 by ChanServ
 [2016/02/23 10:59:42] <Tobbi> sydney_untangle: No.
+[2016/02/23 11:19:14] @ Hume2 joined channel #supertux
+[2016/02/23 11:19:15] @ Mode +v Hume2 by ChanServ
+[2016/02/23 11:19:26] <Hume2> Hello
+[2016/02/23 11:22:35] <Tobbi> Hello Hume2
