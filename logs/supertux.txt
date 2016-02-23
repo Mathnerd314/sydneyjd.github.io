@@ -9257,3 +9257,5 @@
 [2016/02/23 01:45:56] @ nerdopolis_ joined channel #supertux
 [2016/02/23 02:07:46] @ Quit: nerdopolis_: Ping timeout: 255 seconds
 [2016/02/23 02:09:22] @ 17WAAC871 joined channel #supertux
+[2016/02/23 02:25:46] @ Quit: 17WAAC871: Ping timeout: 255 seconds
+[2016/02/23 02:28:17] @ Quit: lumidify: Ping timeout: 250 seconds
