@@ -9390,3 +9390,41 @@
 [2016/02/23 17:58:55] @ Quit: sydney_untangle: *.net *.split
 [2016/02/23 17:58:55] @ Quit: jeezy: *.net *.split
 [2016/02/23 17:58:55] @ Quit: ChanServ: *.net *.split
+[2016/02/23 18:02:24] @ VargaD joined channel #supertux
+[2016/02/23 18:02:24] @ Some_Person joined channel #supertux
+[2016/02/23 18:02:24] @ Xjs|moonshine joined channel #supertux
+[2016/02/23 18:02:24] @ mt joined channel #supertux
+[2016/02/23 18:02:24] @ polyphagia joined channel #supertux
+[2016/02/23 18:02:24] @ snadge joined channel #supertux
+[2016/02/23 18:02:24] @ Vorpal joined channel #supertux
+[2016/02/23 18:02:24] @ gynter joined channel #supertux
+[2016/02/23 18:02:24] @ leper` joined channel #supertux
+[2016/02/23 18:02:24] @ jeezy joined channel #supertux
+[2016/02/23 18:02:24] @ sydney_untangle joined channel #supertux
+[2016/02/23 18:02:24] @ pentagon joined channel #supertux
+[2016/02/23 18:02:24] @ xnrand joined channel #supertux
+[2016/02/23 18:02:24] @ Tobbi joined channel #supertux
+[2016/02/23 18:02:24] @ datahead8888 joined channel #supertux
+[2016/02/23 18:02:24] @ paroneayea joined channel #supertux
+[2016/02/23 18:02:24] @ tuxdev joined channel #supertux
+[2016/02/23 18:02:24] @ Mode +vvv mt sydney_untangle Tobbi by hitchcock.freenode.net
+[2016/02/23 18:03:21] @ Quit: Xjs|moonshine: Max SendQ exceeded
+[2016/02/23 18:03:21] @ maths22 joined channel #supertux
+[2016/02/23 18:03:21] @ Mode +v maths22 by hitchcock.freenode.net
+[2016/02/23 18:04:19] @ nerdopolis joined channel #supertux
+[2016/02/23 18:04:19] @ binki joined channel #supertux
+[2016/02/23 18:04:19] @ Yaiyan joined channel #supertux
+[2016/02/23 18:04:19] @ octo joined channel #supertux
+[2016/02/23 18:04:19] @ Mode +v octo by hitchcock.freenode.net
+[2016/02/23 18:06:32] @ ChanServ joined channel #supertux
+[2016/02/23 18:06:32] @ Mode +o ChanServ by hitchcock.freenode.net
+[2016/02/23 18:06:39] @ Quit: Some_Person: Changing host
+[2016/02/23 18:06:39] @ Some_Person joined channel #supertux
+[2016/02/23 18:08:35] <Tobbi> Some_Person: Yeah, forest world is a contrib level.
+[2016/02/23 18:08:38] <Tobbi> eeh worldmap
+[2016/02/23 18:09:57] <Some_Person> http://supertuxproject.org/images/0_4_0_8.png -- that's a lot of languages
+[2016/02/23 18:09:58] @ Xjs|moonshine joined channel #supertux
+[2016/02/23 18:10:39] <Tobbi> Some_Person: One for each supported language.
+[2016/02/23 18:11:03] <Some_Person> I mean, that's a lot of languages for SuperTux to be supporting
+[2016/02/23 18:11:26] <Tobbi> Oh, yes.
+[2016/02/23 18:11:33] <Tobbi> We still have problems with certain fonts.
