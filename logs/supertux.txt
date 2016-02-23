@@ -9335,3 +9335,16 @@
 [2016/02/23 16:50:00] <sydney_untangle> :-)
 [2016/02/23 16:50:06] @ Quit: claymore2: Quit: Leaving
 [2016/02/23 16:53:06] @ Quit: Mathnerd314: Ping timeout: 276 seconds
+[2016/02/23 17:37:51] <Some_Person> I need to try this game again, it's been years since I've played it or kept up with anything going on
+[2016/02/23 17:38:15] <Tobbi> Some_Person: SuperTux has improved a lot over "a few years ago"
+[2016/02/23 17:38:33] <Some_Person> I wonder if any of the crappy sound effects I made are still in it :P
+[2016/02/23 17:38:50] <Tobbi> Some_Person: Which ones?
+[2016/02/23 17:38:54] * Tobbi checks
+[2016/02/23 17:39:29] <Tobbi> Some_Person: https://github.com/SuperTux/supertux/blob/master/data/AUTHORS still lists your name in a couple places.
+[2016/02/23 17:39:39] <Tobbi> however, feel free to create better ones if you feel up to it.
+[2016/02/23 17:41:04] <Some_Person> nice to see that y'all are using github now :)
+[2016/02/23 17:41:28] <Some_Person> it was all svn last time I was here
+[2016/02/23 17:41:31] <Tobbi> Some_Person: We were forced to use github because of the google code shutdown
+[2016/02/23 17:41:35] <Tobbi> But I am glad about it as well.
+[2016/02/23 17:41:43] <Tobbi> It's gotten much better to manage everything.
+[2016/02/23 17:43:07] <Tobbi> Plus, much better exposure to the rest of the open source world.
