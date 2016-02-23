@@ -9434,3 +9434,11 @@
 [2016/02/23 18:25:33] <sydney_untangle> Tobbi: What in the world?
 [2016/02/23 18:25:48] <Tobbi> https://www.openhub.net/p/supertux/factoids
 [2016/02/23 18:25:54] <Tobbi> sydney_untangle: check that out.
+[2016/02/23 18:30:43] <sydney_untangle> Tobbi: Good grief.
+[2016/02/23 18:31:48] <Tobbi> sydney_untangle: We actually *are* awesomr.
+[2016/02/23 18:31:50] <Tobbi> *awesome
+[2016/02/23 18:32:03] <sydney_untangle> :-)
+[2016/02/23 18:32:34] @ tux|dude joined channel #supertux
+[2016/02/23 18:38:25] <Tobbi> sydney_untangle: Also, when you type supertux into google, it shows a lot of our pages there.
+[2016/02/23 18:38:29] <Tobbi> our homepage, our git repo
+[2016/02/23 18:38:33] <Tobbi> I guess we're good to go.
