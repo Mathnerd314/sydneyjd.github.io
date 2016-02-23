@@ -9246,3 +9246,4 @@
 [2016/02/22 21:16:36] @ Quit: leper`: Ping timeout: 276 seconds
 [2016/02/22 21:22:19] @ leper` joined channel #supertux
 [2016/02/22 21:23:00] @ datahead8888 joined channel #supertux
+[2016/02/22 22:00:01] @ tux|dude joined channel #supertux
