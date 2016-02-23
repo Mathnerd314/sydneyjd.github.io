@@ -9242,3 +9242,7 @@
 [2016/02/22 19:55:31] @ Quit: datahead8888: Ping timeout: 248 seconds
 [2016/02/22 20:15:41] @ tux|dude joined channel #supertux
 [2016/02/22 20:47:29] @ Quit: swift110: Ping timeout: 240 seconds
+[2016/02/22 21:15:22] @ Quit: tux|dude: Quit: Leaving
+[2016/02/22 21:16:36] @ Quit: leper`: Ping timeout: 276 seconds
+[2016/02/22 21:22:19] @ leper` joined channel #supertux
+[2016/02/22 21:23:00] @ datahead8888 joined channel #supertux
