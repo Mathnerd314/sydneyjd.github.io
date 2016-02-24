@@ -10038,3 +10038,6 @@
 [2016/02/24 14:29:43] <Some_Person> But yeah, if someone would be willing to extend "Under Construction" or implement something else entirely, feel free to trash my stupid level
 [2016/02/24 14:33:25] @ Quit: paroneayea: Ping timeout: 268 seconds
 [2016/02/24 14:39:31] @ tux|dude joined channel #supertux
+[2016/02/24 14:47:25] @ Wuzzy joined channel #supertux
+[2016/02/24 14:53:09] @ Quit: lumidify: Ping timeout: 250 seconds
+[2016/02/24 14:53:33] @ lumidify joined channel #supertux
