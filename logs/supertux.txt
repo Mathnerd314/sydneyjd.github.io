@@ -9967,3 +9967,14 @@
 [2016/02/24 13:42:43] <brmbrmcar> It is still quite different.
 [2016/02/24 13:43:53] <Hume2> Narre lolled when I shew him that.
 [2016/02/24 13:44:10] <brmbrmcar> lel
+[2016/02/24 13:50:18] <Some_Person> I played SuperTux last night for the first time in years. Seems like a lot of nice little touches have been added over the years :)
+[2016/02/24 13:52:30] <Some_Person> only played a few levels so I haven't seen much, but it looks like there's a lot more parallax scrolling, more concepts that used to pretty much be exclusive to the forest world in icyisland, and I like the newer music I heard
+[2016/02/24 13:52:46] <Some_Person> Also really like the melting effect on the badguys, that's an awesome little touch
+[2016/02/24 13:53:25] <brmbrmcar> :D
+[2016/02/24 13:54:30] <Some_Person> I was a bit surprised to see that the silly tux rap is still around though :P
+[2016/02/24 13:54:55] <Some_Person> ISTR someone saying that it should /never/ make it in a stable release
+[2016/02/24 13:55:25] <Some_Person> and not only is it still there, but tux has dance moves now :P
+[2016/02/24 13:58:49] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/02/24 13:59:26] <mt> yes I think we saw this rap thing in the grumbel grumbles document recently
+[2016/02/24 13:59:40] <mt> no one cared to remove it
+[2016/02/24 13:59:52] <mt> we didn't know about it being bad? (is it still?)
