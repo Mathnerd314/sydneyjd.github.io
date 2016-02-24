@@ -9475,3 +9475,10 @@
 [2016/02/24 08:31:17] <Tobbi> Can anyone do better?
 [2016/02/24 08:49:06] <sydney_untangle> Tobbi: :p
 [2016/02/24 08:49:14] <sydney_untangle> Tobbi: 3 hours upgrading windows? :p
+[2016/02/24 09:01:50] <mt> Some_Person: if you feel like building from source, there's the 'forest' branch in the main repository with a few changes by Hume2
+[2016/02/24 09:02:17] @ Quit: jeezy: Ping timeout: 264 seconds
+[2016/02/24 09:02:22] <mt> unused and broken levels have been removed, the world has been restructured and apparently merged with world1 again
+[2016/02/24 09:04:13] @ jeexy joined channel #supertux
+[2016/02/24 09:05:08] @ jeexy is now known as jeezy
+[2016/02/24 09:05:08] @ Quit: jeezy: Changing host
+[2016/02/24 09:05:09] @ jeezy joined channel #supertux
