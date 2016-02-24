@@ -9473,3 +9473,5 @@
 [2016/02/24 06:23:17] @ Quit: stewboy: Read error: Connection reset by peer
 [2016/02/24 08:31:13] <Tobbi> Woo, 41 minutes with a Microsoft scammer.
 [2016/02/24 08:31:17] <Tobbi> Can anyone do better?
+[2016/02/24 08:49:06] <sydney_untangle> Tobbi: :p
+[2016/02/24 08:49:14] <sydney_untangle> Tobbi: 3 hours upgrading windows? :p
