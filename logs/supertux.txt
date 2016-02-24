@@ -9467,3 +9467,4 @@
 [2016/02/24 03:14:47] @ Quit: lumidify: Ping timeout: 244 seconds
 [2016/02/24 03:45:13] @ Quit: tuxdev_: Ping timeout: 252 seconds
 [2016/02/24 03:45:33] @ Quit: tux|dude: Read error: Connection reset by peer
+[2016/02/24 04:39:10] <Tobbi> 5 days until gsoc orgs are announced. :)
