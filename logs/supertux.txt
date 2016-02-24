@@ -292,7 +292,7 @@
 [2016/02/01 12:11:35] <mt> it should, because improper indentation will sooner or later lead to a bug because developers won't understand their code
 [2016/02/01 12:12:20] <brmbrmcar> I often change indentation to what seems best.
 [2016/02/01 12:13:04] <mt> 4 characters wide, spaces; what Python uses and what is best for everything
-[2016/02/01 12:14:48] <Tobbi> brmbrmcar: I suggest to you: Brainfuck.
+[2016/02/01 12:14:48] <Tobbi> brmbrmcar: I suggest to you: Brain****.
 [2016/02/01 12:14:50] <Tobbi> It*s nice.
 [2016/02/01 12:16:05] <mt> +1
 [2016/02/01 12:19:02] <mt> brmbrmcar: btw, feel free to try to use pentagon now
@@ -5800,7 +5800,7 @@
 [2016/02/14 10:45:44] <leyyin> you earn more than a programmer in Romania
 [2016/02/14 10:46:04] <Tobbi> leyyin: Yes, but everything is less expensive in Romania.
 [2016/02/14 10:46:40] <Tobbi> leyyin: So, I was told we start off with 3000 gross pay as a B. Sc.
-[2016/02/14 10:47:15] <Tobbi> But I'd rather go for a M. Sc. and then fuck up completely :P
+[2016/02/14 10:47:15] <Tobbi> But I'd rather go for a M. Sc. and then **** up completely :P
 [2016/02/14 10:47:52] <leyyin> you earn 3000 euro per month in germany? as a beginner???
 [2016/02/14 10:48:04] <Tobbi> leyyin: gross, not net.
 [2016/02/14 10:48:10] <leyyin> still a lot
@@ -9852,13 +9852,64 @@
 [2016/02/24 13:12:58] <leyyin> did you not get the memo?
 [2016/02/24 13:13:20] <Tobbi> leyyin: I know. But especially when working at Mozilla.
 [2016/02/24 13:13:29] <Tobbi> Not doing any good to the community.
-[2016/02/24 13:13:57] <Tobbi> Anyway, I was against brendan as a CEO, because fuck him. How hypocritical can someone get.
-[2016/02/24 13:14:12] <Tobbi> Being CEO of a community that welcomes people across the races.
-[2016/02/24 13:14:18] <leyyin> indeed https://i.imgur.com/tfpDIlX.jpg
-[2016/02/24 13:14:19] <Tobbi> And genders and sexual orientation.
-[2016/02/24 13:14:24] <Tobbi> :D
-[2016/02/24 13:14:30] <Tobbi> leyyin: fuck you.
-[2016/02/24 13:14:38] <Tobbi> uhm, *sorry*
-[2016/02/24 13:14:48] <leyyin> you are the second person to say that to me today
-[2016/02/24 13:14:51] <leyyin> damn, I'm loved
-[2016/02/24 13:14:55] * leyyin feels the love
+
+[2016/02/24 13:16:27] <Tobbi> hrm, okay.
+[2016/02/24 13:16:38] <sydney_untangle> Can you guys please keep the language out of this channel? Move it to a PM.
+[2016/02/24 13:16:42] <leyyin> US logic. Go to war = 18 Buy a beer = 21
+[2016/02/24 13:16:44] <leyyin> indeed
+[2016/02/24 13:17:41] <Tobbi> sydney_untangle: Without language, there can be no communication.
+[2016/02/24 13:19:28] @ Log started by red_bot
+[2016/02/24 13:19:28] @ Joined channel #supertux
+[2016/02/24 13:19:28] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | GSoC Project Ideas: https://github.com/SuperTux/supertux/wiki/GSoC-2016-Ideas"
+[2016/02/24 13:19:28] @ Topic set by mt on 2016-02-09 12:51:33 -0500
+[2016/02/24 13:19:30] <leyyin> ~restart
+[2016/02/24 13:19:30] <red_bot> leyyin, you don't have 'basics::quit::restart' permissions here
+[2016/02/24 13:19:33] @ Mode +Cntzj 5:10 by hitchcock.freenode.net
+[2016/02/24 13:19:41] @ Mode +v red_bot by ChanServ
+[2016/02/24 13:20:02] <Tobbi> 📻
+[2016/02/24 13:20:09] <Tobbi> leyyin: See, it worked!
+[2016/02/24 13:20:10] <Tobbi> :D
+[2016/02/24 13:20:15] <sydney_untangle> Tobbi: I don't need more of those broken boxes...
+[2016/02/24 13:20:28] <Tobbi> sydney_untangle: The radio works perfectly.
+[2016/02/24 13:20:42] <leper`> sydney_untangle: that's not broken, that's a built in filter for some things :D
+[2016/02/24 13:20:46] <sydney_untangle> Not here. :D
+[2016/02/24 13:21:12] <leper`> (or just for people who don't care about some of those pointless additions)
+[2016/02/24 13:21:37] <Tobbi> Why did they add emoji to Unicode anyway, to cater to teenage girls.
+[2016/02/24 13:21:46] <leyyin> 10 hours late red_bot
+[2016/02/24 13:21:56] <leyyin> ~restart
+[2016/02/24 13:21:56] <red_bot> leyyin, you don't have 'basics::quit::restart' permissions here
+[2016/02/24 13:22:04] <Tobbi> leyyin: Now you can estimate head8debian's uplink.
+[2016/02/24 13:22:06] <leper`> dunno, but it must sure be important given that they had to do han unification to make space for it
+[2016/02/24 13:22:46] <Tobbi> yup, possibly.
+[2016/02/24 13:22:52] <leyyin> Tobbi, did you solve the TV license thing?
+[2016/02/24 13:22:59] <Tobbi> Soon, books will only consist of emojis.
+[2016/02/24 13:23:06] <Hume2> :D
+[2016/02/24 13:23:13] <Tobbi> leyyin: Neither MDR nor SFLC have gotten back to me.
+[2016/02/24 13:23:28] <Tobbi> leyyin: I shouldn't have scared them away mentioning a lawyer.
+[2016/02/24 13:23:34] <Tobbi> I'm kicking myself for doing that.
+[2016/02/24 13:23:42] <Hume2> Are they actively ignoring you?
+[2016/02/24 13:23:47] <Tobbi> Hume2: I assume so.
+[2016/02/24 13:24:00] <Hume2> I know that feeling.
+[2016/02/24 13:24:26] <Hume2> Maybe you haven't payed them enough money :P
+[2016/02/24 13:24:36] <Tobbi> Hume2: Wait, who are we talking about?
+[2016/02/24 13:24:59] @ brmbrmcar joined channel #supertux
+[2016/02/24 13:25:03] <leyyin> about brmbrmcar
+[2016/02/24 13:25:06] <Hume2> I'm talking about the lawyers you're trying to contact.
+[2016/02/24 13:25:41] <Hume2> Sorry if this was a misunderstantment.
+[2016/02/24 13:26:10] <Tobbi> Hume2: Oh, I don|t think they're actively ignoring me. Maybe their workload is just too high.
+[2016/02/24 13:26:18] <Tobbi> leyyin: I thought you had ignored that guy?
+[2016/02/24 13:26:54] <leyyin> what guy?
+[2016/02/24 13:27:01] <Hume2> So they pretend that they work too much, so they can't even asnwer you.
+[2016/02/24 13:27:04] <leyyin> who? :D
+[2016/02/24 13:27:16] <Hume2> The Doctor :D
+[2016/02/24 13:27:35] <Tobbi> leyyin: brmbrmcar of course.
+[2016/02/24 13:27:50] <Tobbi> Hume2: No, they just didn|t reply. Maybe the question was too difficult for them.
+[2016/02/24 13:28:05] <leyyin> | == '
+[2016/02/24 13:28:07] <leyyin> for Tobbi
+[2016/02/24 13:28:20] <Tobbi> leyyin: Depends on the keyboard lazout.
+[2016/02/24 13:28:34] <Hume2> I've once put a Doctor Who easter egg into one of my levels.
+[2016/02/24 13:28:35] <Tobbi> I'm actively switching between German and English layouts.
+[2016/02/24 13:28:35] <leyyin> Lasagne, hmm
+[2016/02/24 13:28:43] <Tobbi> leyyin: Lasagne reminds me.
+[2016/02/24 13:28:52] <Hume2> :D
+[2016/02/24 13:29:05] <leyyin> ăășșșăăățțțîîî
