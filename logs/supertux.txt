@@ -9459,3 +9459,5 @@
 [2016/02/24 01:00:24] @ lumidify joined channel #supertux
 [2016/02/24 01:06:29] @ Quit: lumidify: Ping timeout: 240 seconds
 [2016/02/24 01:06:51] @ lumidify joined channel #supertux
+[2016/02/24 02:10:48] @ Quit: lumidify: Ping timeout: 276 seconds
+[2016/02/24 02:11:43] @ Quit: Mathnerd314: Ping timeout: 252 seconds
