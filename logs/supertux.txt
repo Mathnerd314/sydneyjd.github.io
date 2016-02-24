@@ -9471,3 +9471,5 @@
 [2016/02/24 05:48:25] @ Quit: maths22: Ping timeout: 252 seconds
 [2016/02/24 05:57:15] @ stewboy joined channel #supertux
 [2016/02/24 06:23:17] @ Quit: stewboy: Read error: Connection reset by peer
+[2016/02/24 08:31:13] <Tobbi> Woo, 41 minutes with a Microsoft scammer.
+[2016/02/24 08:31:17] <Tobbi> Can anyone do better?
