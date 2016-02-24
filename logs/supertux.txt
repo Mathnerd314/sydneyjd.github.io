@@ -9717,3 +9717,25 @@
 [2016/02/24 11:59:29] <Tobbi> My phone is jacked up to the cable modem.
 [2016/02/24 11:59:30] <sydney_untangle> Tobbi: You can get mobile phone service for as low as 10$/month around here, so thats one of the reasons people prefer it. ;)
 [2016/02/24 11:59:45] <sydney_untangle> Tobbi: Then it probably is VOIP.
+[2016/02/24 12:00:02] <sydney_untangle> I have neighbors that are VOIP, simplifies the system quite a bit.
+[2016/02/24 12:00:18] <mt> most VoIP-only VoIP providers in Germany are using per-minute billing systems
+[2016/02/24 12:00:43] <sydney_untangle> mt: Ah, over here most pay a month-per-month flat fee.
+[2016/02/24 12:01:02] <sydney_untangle> For almost everything.
+[2016/02/24 12:01:33] <Tobbi> How do I find out whether it's voip?
+[2016/02/24 12:01:52] <mt> Tobbi: what provider are you with?
+[2016/02/24 12:01:58] <Tobbi> mt: Kabel Deutschland.
+[2016/02/24 12:02:05] <sydney_untangle> Tobbi: Do they feed to your cable modem with just a ethernet wire?
+[2016/02/24 12:02:07] <mt> hm, dunno about them
+[2016/02/24 12:02:14] * Tobbi checks.
+[2016/02/24 12:02:19] <mt> maybe just look into your modem/router's settings?
+[2016/02/24 12:02:37] <sydney_untangle> and your phone and computer both plug into your modem/router thingy?
+[2016/02/24 12:02:40] <Tobbi> It's a coaxial cable.
+[2016/02/24 12:02:48] <sydney_untangle> Hrm.
+[2016/02/24 12:02:56] <sydney_untangle> Thats a strange cable imho.
+[2016/02/24 12:03:08] <mt> that's not strange for cable internet at all
+[2016/02/24 12:03:50] <mt> also, well it's not landline in the original sense, I guess
+[2016/02/24 12:03:57] <sydney_untangle> Anyways, ive never seen it over here, im used to either DSL or (mainly) ethernet wire being fed right to a router.
+[2016/02/24 12:05:02] <mt> you also don't live in a bigger city, do you?
+[2016/02/24 12:05:19] <Tobbi> I used to have internet via Deutsche Telekom, but they were way too expensive.
+[2016/02/24 12:06:25] <Tobbi> Not sure I can even check my cable modem's config page.
+[2016/02/24 12:06:35] <Tobbi> For all I know, I checked the direct gateway setting.
