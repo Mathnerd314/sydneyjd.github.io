@@ -9999,3 +9999,40 @@
 [2016/02/24 14:14:22] <mt> you might be interested in that one
 [2016/02/24 14:14:42] <mt> also, https://github.com/SuperTux/supertux/wiki/GSoC-2016-Ideas
 [2016/02/24 14:14:58] @ lumidify joined channel #supertux
+[2016/02/24 14:15:02] <Hume2> I began with redesigning the forest world, because noone here was about to do that.
+[2016/02/24 14:15:12] <Hume2> It's the forest branch.
+[2016/02/24 14:15:19] <Some_Person> IIRC, there was a level at one point called "Under Construction" that did the key thing in a nicer way, but it only implemented 3 of them
+[2016/02/24 14:15:58] <mt> I also liked that better
+[2016/02/24 14:15:58] <Hume2> ikr
+[2016/02/24 14:16:38] <Hume2> Indeed.
+[2016/02/24 14:16:55] <Hume2> The level is still there, just not used.
+[2016/02/24 14:17:02] <mt> Hume2: what I'd like to see would be somehow merging the content of two different worldmaps on runtime
+[2016/02/24 14:17:20] <Some_Person> merging the worldmaps?
+[2016/02/24 14:17:31] <mt> like, so they appear as one worldmap
+[2016/02/24 14:17:43] <mt> but being in different files, and without using teleporters
+[2016/02/24 14:17:55] <Hume2> Well, that would produce a huge worldmap.
+[2016/02/24 14:18:00] <mt> because with teleporters they look like two different worldmaps
+[2016/02/24 14:18:18] <mt> Hume2: that's what we kind of want for the redesign I think
+[2016/02/24 14:18:24] <Some_Person> I know icyisland and the forest world used to be connected, but I'm pretty sure it used teleporters (though it had an animation of tux riding in a boat IIRC)
+[2016/02/24 14:18:38] <Hume2> mt: It also increases the loading time.
+[2016/02/24 14:18:49] <Hume2> And it's teddious to edit it.
+[2016/02/24 14:19:04] <mt> Hume2: that's why it would be *two* different files
+[2016/02/24 14:19:10] <mt> (re: editing)
+[2016/02/24 14:19:20] <Hume2> Oh, like that.
+[2016/02/24 14:19:35] <Hume2> That shouldn't be a problem.
+[2016/02/24 14:19:39] <mt> I want them to look like *one* but actually be *two*
+[2016/02/24 14:19:55] <mt> Because the boat-teleporter-boat thing doesn't look nice
+[2016/02/24 14:20:16] <mt> (imho)
+[2016/02/24 14:20:16] <Hume2> It was an invisible teleporter.
+[2016/02/24 14:20:33] <mt> it still turned the screen black, and then showed the other worldmap
+[2016/02/24 14:20:59] <mt> and you couldn't see the other island when being in a different worldmap
+[2016/02/24 14:21:03] <Hume2> Maybe because it wasn't loaded?
+[2016/02/24 14:21:27] <Hume2> Oh, that way you mean that.
+[2016/02/24 14:21:35] <Hume2> That would be harder.
+[2016/02/24 14:22:40] <Hume2> See you tomorrow.
+[2016/02/24 14:22:43] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/24 14:23:22] <Tobbi> I'm really having trouble to see the spaces etc.
+[2016/02/24 14:23:32] @ claymore2 joined channel #supertux
+[2016/02/24 14:24:58] <Some_Person> I feel like the boat teleporter thing is probably good enough
+[2016/02/24 14:25:50] <Tobbi> Oh, by spaces I mean the spaces in https://github.com/SuperTux/tinygettext/pull/3/files in my editor.
+[2016/02/24 14:29:43] <Some_Person> But yeah, if someone would be willing to extend "Under Construction" or implement something else entirely, feel free to trash my stupid level
