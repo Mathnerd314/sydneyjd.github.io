@@ -9451,3 +9451,4 @@
 [2016/02/23 23:08:07] @ stewboy_ joined channel #supertux
 [2016/02/23 23:09:53] @ Quit: stewboy: Ping timeout: 244 seconds
 [2016/02/23 23:09:53] @ stewboy_ is now known as stewboy
+[2016/02/23 23:39:23] @ Quit: irungentoo: Remote host closed the connection
