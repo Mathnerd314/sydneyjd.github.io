@@ -9482,3 +9482,12 @@
 [2016/02/24 09:05:08] @ jeexy is now known as jeezy
 [2016/02/24 09:05:08] @ Quit: jeezy: Changing host
 [2016/02/24 09:05:09] @ jeezy joined channel #supertux
+[2016/02/24 09:24:44] <Tobbi> sydney_untangle: huh? Upgrading windows?
+[2016/02/24 09:25:21] <Tobbi> sydney_untangle: The thing is: I stopped before he could gain access, because I wasn't sure whether the VM I have been doing this in was safe.
+[2016/02/24 09:25:49] <Tobbi> But, it was probably safe.
+[2016/02/24 09:26:07] <Tobbi> I mean: Safe from the rest of my computer.
+[2016/02/24 09:26:32] <mt> what's these microsoft scamming all about? are windows users really such idiots to let others access their computers?
+[2016/02/24 09:26:59] <Tobbi> mt: The thing is: You could assume that anyone speaking enough English to talk with them would be knowledgeable enough.
+[2016/02/24 09:27:55] <Tobbi> But, he was on the verge of disconnecting me anyway. So, he said "He had to talk to other people as well"...
+[2016/02/24 09:28:05] <Tobbi> So, I blew it, and said "Well, the thing is: I know this is a scam" :P
+[2016/02/24 09:29:02] <Tobbi> mt: But, there really have to be enough people who fall for it, given it's still going strong.
