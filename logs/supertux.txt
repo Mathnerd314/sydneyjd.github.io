@@ -9563,3 +9563,54 @@
 [2016/02/24 09:52:01] @ Mode +v Mathnerd314 by ChanServ
 [2016/02/24 09:52:57] <Tobbi> Anyway, let's see when they'll call again, they don't seem to be able to stop.
 [2016/02/24 09:56:17] @ tuxdev_ joined channel #supertux
+[2016/02/24 10:32:37] <sydney_untangle> Also, almost nobody has a landline over here, we are one of the oddballs with one yet. ;)
+[2016/02/24 10:33:33] <Tobbi> sydney_untangle: I guess Germany is just behind... but how else do people get called? Mobile?
+[2016/02/24 10:33:52] <sydney_untangle> Tobbi: Yes, everyone in america has a mobile phone now...
+[2016/02/24 10:33:58] <Tobbi> gosh
+[2016/02/24 10:34:14] * sydney_untangle nods...
+[2016/02/24 10:36:01] <leyyin> Tobbi, Romania > Germany
+[2016/02/24 10:36:13] <Tobbi> leyyin: Depends.
+[2016/02/24 10:36:15] <Tobbi> I'd say no.
+[2016/02/24 10:36:43] <Tobbi> On the other hand, you did say you had fast broadband, right?
+[2016/02/24 10:36:46] <Tobbi> *fast and cheap
+[2016/02/24 10:37:01] <leyyin> the fastest and cheapest in the world
+[2016/02/24 10:37:09] <Tobbi> hrm...okay.
+[2016/02/24 10:37:14] <leyyin> and not stupid internet laws
+[2016/02/24 10:37:46] <Tobbi> leyyin: Problem with German internet is that it needs to be failsafe... You know, German quality products...? So, in case internet goes wrong, we need to resort to that pidgin protocol.
+[2016/02/24 10:37:58] <Tobbi> That's what makes it more expensive.
+[2016/02/24 10:38:31] <Tobbi> Pidgins need love too.
+[2016/02/24 10:38:53] <leyyin> This video is not available in your country
+[2016/02/24 10:39:01] <leyyin> *goes to piratebay*
+[2016/02/24 10:39:07] <sydney_untangle> o_O
+[2016/02/24 10:39:10] <leyyin> *police knocks on your door*
+[2016/02/24 10:39:12] <leyyin> what the....
+[2016/02/24 10:39:18] <Tobbi> leyyin: you mean: This video is not avia-lable... :P
+[2016/02/24 10:39:24] <Tobbi> Meaning: pidgins can't carry that package.
+[2016/02/24 10:39:29] <leyyin> how can I obtain that legally?
+[2016/02/24 10:39:30] <leyyin> you can't
+[2016/02/24 10:39:31] <leyyin> sigh
+[2016/02/24 10:39:39] <Tobbi> leyyin: What video?
+[2016/02/24 10:39:56] <leyyin> idk, just thinking of media you can't legally buy in germany
+[2016/02/24 10:39:59] <leyyin> I am sure there is
+[2016/02/24 10:40:04] <leyyin> but you can't pirate it either
+[2016/02/24 10:40:05] <leyyin> cuz cops
+[2016/02/24 10:40:37] <Tobbi> leyyin: You can't legally buy pot "media".
+[2016/02/24 10:40:39] <Tobbi> :P
+[2016/02/24 10:40:47] <sydney_untangle> leyyin: You should try it and see if any cops show up. ;p
+[2016/02/24 10:41:12] <leyyin> sydney_untangle, they would have to arrest the whole population here
+[2016/02/24 10:41:21] <sydney_untangle> I doubt they would have much success with many people in america, since almost everyone rips stuff off youtube and such illegally.
+[2016/02/24 10:41:24] <leyyin> even the cops would have to arrest themselfs
+[2016/02/24 10:41:26] <sydney_untangle> :_)
+[2016/02/24 10:41:33] <Tobbi> leyyin: *sigh*
+[2016/02/24 10:41:41] <Tobbi> I don't do anything illegal...except...
+[2016/02/24 10:41:45] <Tobbi> well, maybe I do.
+[2016/02/24 10:41:45] <Tobbi> :D
+[2016/02/24 10:42:03] <leyyin> Tobbi, if your shit is harder to get it ilegally than legally, I wonder what path I choose....
+[2016/02/24 10:42:12] <sydney_untangle> I rip videos off youtube, but thats about it.
+[2016/02/24 10:42:13] <leyyin> the reverse :P
+[2016/02/24 10:42:28] <Tobbi> leyyin: My shit cannot be considered an illegal drug.
+[2016/02/24 10:42:35] <sydney_untangle> I need them for things, since i don't find people selling music videos on amazon.
+[2016/02/24 10:43:02] <sydney_untangle> maybe i should start selling music videos on amazon. :p
+[2016/02/24 10:43:06] * Tobbi checks whether he can call back scammers.
+[2016/02/24 10:44:56] * sydney_untangle calls Tobbi and scams him...
+[2016/02/24 10:44:57] <sydney_untangle> :p
