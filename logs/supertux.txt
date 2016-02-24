@@ -10074,3 +10074,4 @@
 [2016/02/24 18:00:50] @ Mode +v red_bot by ChanServ
 [2016/02/24 18:02:56] @ sydney_untangle joined channel #supertux
 [2016/02/24 18:02:56] @ Mode +v sydney_untangle by ChanServ
+[2016/02/24 18:22:25] @ quit (seeya)
