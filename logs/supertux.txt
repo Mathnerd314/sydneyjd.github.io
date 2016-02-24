@@ -10060,3 +10060,6 @@
 [2016/02/24 16:15:14] @ sydney_untangle joined channel #supertux
 [2016/02/24 16:15:14] @ Mode +v sydney_untangle by ChanServ
 [2016/02/24 16:26:55] @ Quit: sydney_untangle: Remote host closed the connection
+[2016/02/24 17:38:41] @ Joined channel #supertux
+[2016/02/24 17:38:41] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | GSoC Project Ideas: https://github.com/SuperTux/supertux/wiki/GSoC-2016-Ideas"
+[2016/02/24 17:38:41] @ Topic set by mt on 2016-02-09 12:51:33 -0500
