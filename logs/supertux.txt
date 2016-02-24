@@ -10057,3 +10057,6 @@
 [2016/02/24 16:11:29] @ Mode +v red_bot by ChanServ
 [2016/02/24 16:11:29] @ Mode +Cntzj 5:10 by cameron.freenode.net
 [2016/02/24 16:14:40] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/02/24 16:15:14] @ sydney_untangle joined channel #supertux
+[2016/02/24 16:15:14] @ Mode +v sydney_untangle by ChanServ
+[2016/02/24 16:26:55] @ Quit: sydney_untangle: Remote host closed the connection
