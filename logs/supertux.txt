@@ -9702,3 +9702,18 @@
 [2016/02/24 11:42:05] <Tobbi> WHAT?
 [2016/02/24 11:42:06] <Tobbi> No way.
 [2016/02/24 11:42:27] <Tobbi> I'm paying 19.95 EUR for telephone and internet.
+[2016/02/24 11:55:27] <sydney_untangle> Tobbi: Exactly.
+[2016/02/24 11:55:41] <sydney_untangle> Tobbi: your home phone is not VOIP?
+[2016/02/24 11:55:52] <Tobbi> sydney_untangle: No, it isn't.
+[2016/02/24 11:55:56] <Tobbi> At least I don't think it is.
+[2016/02/24 11:55:57] <sydney_untangle> Tobbi: You cannot get internet alone over here for less than 35$/month.
+[2016/02/24 11:56:03] <Tobbi> wow.
+[2016/02/24 11:56:25] <sydney_untangle> My 3mb conection would be 50$/month if i paid for it.
+[2016/02/24 11:56:50] <sydney_untangle> Because im a mile from a DSL conection...
+[2016/02/24 11:57:02] <mt> fwiw, Deutsche Telekom started switching landline to VoIP (but with landline numbers, still; so indistinguishable) but usually landline is the same price
+[2016/02/24 11:58:23] <sydney_untangle> I can get a VOIP phone for like 15$/ month, but i don't trust our internet with that.
+[2016/02/24 11:58:45] <Tobbi> Okay.
+[2016/02/24 11:59:15] <Tobbi> Actually, it could be voip.
+[2016/02/24 11:59:29] <Tobbi> My phone is jacked up to the cable modem.
+[2016/02/24 11:59:30] <sydney_untangle> Tobbi: You can get mobile phone service for as low as 10$/month around here, so thats one of the reasons people prefer it. ;)
+[2016/02/24 11:59:45] <sydney_untangle> Tobbi: Then it probably is VOIP.
