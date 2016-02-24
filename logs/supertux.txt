@@ -9978,3 +9978,24 @@
 [2016/02/24 13:59:26] <mt> yes I think we saw this rap thing in the grumbel grumbles document recently
 [2016/02/24 13:59:40] <mt> no one cared to remove it
 [2016/02/24 13:59:52] <mt> we didn't know about it being bad? (is it still?)
+[2016/02/24 14:00:02] <mt> so it got into the release
+[2016/02/24 14:00:18] <Some_Person> I think it's kinda cute to be honest :)
+[2016/02/24 14:03:21] <Hume2> Some_Person: Weren't you a SuperTux developer?
+[2016/02/24 14:03:45] <Some_Person> Hume2: No, I wasn't really a dev, but I made some tiny contributions
+[2016/02/24 14:04:12] <Hume2> I knew that I know you from somewhere.
+[2016/02/24 14:04:19] <Hume2> Nice to meet you.
+[2016/02/24 14:04:26] <Some_Person> Nice to meet you too :)
+[2016/02/24 14:05:35] <mt> I recognized your realname from the git commit logs or someplace when you joined (if anyone's wondering - yes I've got some magic that displays realnames/accountnames in join messages)
+[2016/02/24 14:06:45] <mt> or was it the castle level author in forest world?
+[2016/02/24 14:09:03] <Some_Person> I don't recall ever making a whole level
+[2016/02/24 14:10:52] <mt> data/levels/world2/Castle_Entrance.stl
+[2016/02/24 14:10:54] <mt> 4:  (author "Sam Townsend")
+[2016/02/24 14:11:10] <Hume2> Yeah, that level.
+[2016/02/24 14:12:01] <Some_Person> Oh, right, I do vaguely remember that. But that's not much of a level, just kinda a way to make the keys work IIRC, right?
+[2016/02/24 14:12:40] <mt> indeed
+[2016/02/24 14:13:50] <Hume2> Won't you mind if this was removed?
+[2016/02/24 14:14:10] <Some_Person> Nah, it's pretty much a placeholder.
+[2016/02/24 14:14:14] <mt> Some_Person: fwiw, we've got some updated ideas for the next release: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document
+[2016/02/24 14:14:22] <mt> you might be interested in that one
+[2016/02/24 14:14:42] <mt> also, https://github.com/SuperTux/supertux/wiki/GSoC-2016-Ideas
+[2016/02/24 14:14:58] @ lumidify joined channel #supertux
