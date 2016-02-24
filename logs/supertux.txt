@@ -9442,3 +9442,5 @@
 [2016/02/23 18:38:25] <Tobbi> sydney_untangle: Also, when you type supertux into google, it shows a lot of our pages there.
 [2016/02/23 18:38:29] <Tobbi> our homepage, our git repo
 [2016/02/23 18:38:33] <Tobbi> I guess we're good to go.
+[2016/02/23 20:03:50] @ Mathnerd314 joined channel #supertux
+[2016/02/23 20:03:50] @ Mode +v Mathnerd314 by ChanServ
