@@ -9552,3 +9552,14 @@
 [2016/02/24 09:44:42] <leyyin> that is very weird
 [2016/02/24 09:44:48] <leyyin> only old people have landlines here
 [2016/02/24 09:44:54] <leyyin> *very old
+[2016/02/24 09:45:20] <mt> we even still have these public telephone thing
+[2016/02/24 09:45:30] <leyyin> :O
+[2016/02/24 09:45:33] <Tobbi> phone boxes
+[2016/02/24 09:45:34] <mt> where you insert coins to call somebody
+[2016/02/24 09:47:38] <mt> Additionally, in larger companies, they even have internal phone system
+[2016/02/24 09:47:40] <mt> s
+[2016/02/24 09:47:55] <mt> And often infrastructure just for that
+[2016/02/24 09:52:01] @ Mathnerd314 joined channel #supertux
+[2016/02/24 09:52:01] @ Mode +v Mathnerd314 by ChanServ
+[2016/02/24 09:52:57] <Tobbi> Anyway, let's see when they'll call again, they don't seem to be able to stop.
+[2016/02/24 09:56:17] @ tuxdev_ joined channel #supertux
