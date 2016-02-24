@@ -9695,3 +9695,10 @@
 [2016/02/24 11:29:45] <Tobbi> sydney_untangle: Try planting it instead of seeding it.
 [2016/02/24 11:29:55] <Tobbi> It just needs some water, and sun...and stuff like that.
 [2016/02/24 11:29:57] <sydney_untangle> leyyin: I think debian is surviving on donations.
+[2016/02/24 11:30:04] <sydney_untangle> Tobbi: planting is seeding...
+[2016/02/24 11:30:05] <Tobbi> And eventually you'll have a full-grown tree, eeh package.
+[2016/02/24 11:30:18] <sydney_untangle> At least in the american language...
+[2016/02/24 11:41:59] <sydney_untangle> Tobbi: Landline phones are also rediculously expensive as well... 60-100$/month.
+[2016/02/24 11:42:05] <Tobbi> WHAT?
+[2016/02/24 11:42:06] <Tobbi> No way.
+[2016/02/24 11:42:27] <Tobbi> I'm paying 19.95 EUR for telephone and internet.
