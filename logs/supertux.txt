@@ -9491,3 +9491,64 @@
 [2016/02/24 09:27:55] <Tobbi> But, he was on the verge of disconnecting me anyway. So, he said "He had to talk to other people as well"...
 [2016/02/24 09:28:05] <Tobbi> So, I blew it, and said "Well, the thing is: I know this is a scam" :P
 [2016/02/24 09:29:02] <Tobbi> mt: But, there really have to be enough people who fall for it, given it's still going strong.
+[2016/02/24 09:32:07] @ leyyin joined channel #supertux
+[2016/02/24 09:33:11] <pentagon> [10supertux] 07tobbi commented on issue 09#367: New badguy: HangingBall 13https://git.io/vgjXC
+[2016/02/24 09:33:38] <Tobbi> Also, I thought these idiots would have learned to take me off their calling list by now.
+[2016/02/24 09:33:50] <Tobbi> But apparently not.
+[2016/02/24 09:34:02] * leyyin calls Tobbi 
+[2016/02/24 09:34:13] <mt> you should totally scam the scammers
+[2016/02/24 09:34:21] <Tobbi> leyyin: Calling about microsoft scammers...
+[2016/02/24 09:34:30] <Tobbi> I managed to keep the call going for 45 minutes straight.
+[2016/02/24 09:34:54] <Tobbi> mt: I did, by not following the instructions...And I will go even further once I know my VM is safe and they cannot delete any important files.
+[2016/02/24 09:35:49] <Tobbi> It looks safe from the outside (it is not linked to any microsoft account, does not have access to shared files, etc.)
+[2016/02/24 09:36:04] <Tobbi> Also, chit-chatting also helps making the call longer.
+[2016/02/24 09:36:17] <Tobbi> This guy seriously told me he sang in a band, as a soprano :D
+[2016/02/24 09:36:23] <leyyin> :D
+[2016/02/24 09:36:29] <leyyin> you enjoy life Tobbi
+[2016/02/24 09:36:42] <Tobbi> leyyin: I enjoy making other people's lives miserable.
+[2016/02/24 09:36:55] <leyyin> you should create a youtube channel with those recordings
+[2016/02/24 09:37:06] <Tobbi> leyyin: There's TheHoaxHotel already.
+[2016/02/24 09:37:10] <Tobbi> Also, I don't like my voice.
+[2016/02/24 09:37:21] <leyyin> you could make $
+[2016/02/24 09:37:25] <Tobbi> Also, how do I record an actual phone?
+[2016/02/24 09:37:32] <Tobbi> It's not VoIP
+[2016/02/24 09:37:34] <leyyin> sanity app, etc
+[2016/02/24 09:37:36] <leyyin> there are apps
+[2016/02/24 09:37:38] <leyyin> on the phone
+[2016/02/24 09:37:43] <Tobbi> leyyin: Landline phone.
+[2016/02/24 09:37:45] <Tobbi> Not smartphone
+[2016/02/24 09:37:56] <leyyin> you have a landline?
+[2016/02/24 09:38:00] <Tobbi> leyyin: Sure I do.
+[2016/02/24 09:38:11] <leyyin> https://i.lvme.me/kiafu9t.jpg
+[2016/02/24 09:38:35] <Tobbi> leyyin: huh? Landline numbers are common...
+[2016/02/24 09:38:39] <Tobbi> They don't call my smartphone.
+[2016/02/24 09:38:49] <leyyin> I do not think landlines are common
+[2016/02/24 09:39:02] <Tobbi> mt: Tell him otherwise.
+[2016/02/24 09:39:07] <leyyin> not in Romania at least
+[2016/02/24 09:39:18] <leyyin> I do not know of any business with a landline
+[2016/02/24 09:39:21] <leyyin> all have mobile numbers
+[2016/02/24 09:39:25] <Tobbi> I see...
+[2016/02/24 09:39:36] <leyyin> do you have friends with a landline?
+[2016/02/24 09:39:40] <leyyin> I have none...
+[2016/02/24 09:39:44] <Tobbi> leyyin: I don't have any friends.
+[2016/02/24 09:39:48] <leyyin> right
+[2016/02/24 09:39:53] <leyyin> forever alone Tobbi
+[2016/02/24 09:40:10] <sydney_untangle> You guys, really?
+[2016/02/24 09:40:11] <Tobbi> leyyin: Anyway, what I really want is for them to take me off their list. But apparently wasting their time is not enough.
+[2016/02/24 09:40:16] <Tobbi> I thought it would be.
+[2016/02/24 09:40:31] <leyyin> sydney_untangle, I am not a guy
+[2016/02/24 09:41:10] <Tobbi> Also, they're getting smarter: They remember my name once I said it.
+[2016/02/24 09:41:12] <Tobbi> :D
+[2016/02/24 09:41:40] <leyyin> progress
+[2016/02/24 09:42:05] <Tobbi> leyyin: But I should actually check my VM.
+[2016/02/24 09:42:16] <Tobbi> Whether it's safe.
+[2016/02/24 09:42:20] <Tobbi> And then, I'll troll them.
+[2016/02/24 09:42:25] <Tobbi> They can do whatever they want with that VM.
+[2016/02/24 09:42:53] <Tobbi> Anyway https://www.youtube.com/channel/UCnNlJNSRxa3PF8XrKHOEPug
+[2016/02/24 09:43:05] <Tobbi> leyyin: ^^
+[2016/02/24 09:43:38] <leyyin> look, Tobbi has a youtube channel
+[2016/02/24 09:43:42] <Tobbi> Not mine.
+[2016/02/24 09:44:08] <mt> leyyin: well, in Germany, I don't know anyone without a landline phone
+[2016/02/24 09:44:42] <leyyin> that is very weird
+[2016/02/24 09:44:48] <leyyin> only old people have landlines here
+[2016/02/24 09:44:54] <leyyin> *very old
