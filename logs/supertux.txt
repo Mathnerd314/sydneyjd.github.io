@@ -9652,3 +9652,34 @@
 [2016/02/24 10:55:49] <leyyin> I did not watch any of them
 [2016/02/24 10:55:58] <Tobbi> Good thing.
 [2016/02/24 10:58:35] @ Quit: tuxdev_: Remote host closed the connection
+[2016/02/24 11:02:33] @ tuxdev_ joined channel #supertux
+[2016/02/24 11:02:33] @ Quit: tuxdev_: Changing host
+[2016/02/24 11:02:33] @ tuxdev_ joined channel #supertux
+[2016/02/24 11:03:10] <sydney_untangle> Tobbi: Why do you like the IT Crowd? o_O
+[2016/02/24 11:03:21] <Tobbi> sydney_untangle: You don't like the IT Crowd?
+[2016/02/24 11:03:57] <sydney_untangle> Tobbi: A couple of the clips are funny, but in not going to sit and watch it.
+[2016/02/24 11:04:17] <Tobbi> sydney_untangle: But you have seen some clips.
+[2016/02/24 11:04:58] <sydney_untangle> Tobbi: And thats all i saw funny... that was a while ago. you should play freedroidrpg. :D
+[2016/02/24 11:05:08] <Tobbi> freedroidrpg...never heard of that.
+[2016/02/24 11:05:16] <Tobbi> eeh, I meant "I don't know anything about freedroidrpg"
+[2016/02/24 11:05:36] <sydney_untangle> Tobbi: Good, then play it. ;D
+[2016/02/24 11:05:47] <sydney_untangle> You would find it interesting. :)
+[2016/02/24 11:06:59] <Tobbi> sydney_untangle: What is it?
+[2016/02/24 11:07:31] <sydney_untangle> Tobbi: Its an RPG, where robots take over the "world", and you have to beat them and bring everything back to the way it was(somewhat).
+[2016/02/24 11:08:19] <sydney_untangle> Its a good time waster. :p
+[2016/02/24 11:08:49] <leyyin> I usually drop my time in the trashcan
+[2016/02/24 11:08:53] <leyyin> I do not waste time
+[2016/02/24 11:08:59] <leyyin> I recycle it
+[2016/02/24 11:09:24] <sydney_untangle> leyyin: You drop it in the toilet?
+[2016/02/24 11:09:27] <sydney_untangle> ;p
+[2016/02/24 11:10:25] <Tobbi> Since when do you recycle your poo?
+[2016/02/24 11:10:40] <leyyin> you don't Tobbi? :O
+[2016/02/24 11:10:48] <Tobbi> :D
+[2016/02/24 11:10:50] <leyyin> YOU MONSTER
+[2016/02/24 11:10:55] <Tobbi> What?
+[2016/02/24 11:11:48] <sydney_untangle> Tobbi: It should fertalize your lawn, at least thats what most ruralish homes do...
+[2016/02/24 11:12:05] <Tobbi> sydney_untangle: My lawn doesn't need any more fertilization.
+[2016/02/24 11:12:24] <leyyin> I hope you protect your lawn rain forest
+[2016/02/24 11:14:11] <Tobbi> :D
+[2016/02/24 11:14:20] <Tobbi> leyyin: I do, but my neighbors disprove of it.
+[2016/02/24 11:14:40] <leyyin> you should call the police, they want to burn the rain forest!!!!
