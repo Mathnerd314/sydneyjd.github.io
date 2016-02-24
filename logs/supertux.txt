@@ -9739,3 +9739,21 @@
 [2016/02/24 12:05:19] <Tobbi> I used to have internet via Deutsche Telekom, but they were way too expensive.
 [2016/02/24 12:06:25] <Tobbi> Not sure I can even check my cable modem's config page.
 [2016/02/24 12:06:35] <Tobbi> For all I know, I checked the direct gateway setting.
+[2016/02/24 12:19:04] @ Quit: tuxdev_: Ping timeout: 240 seconds
+[2016/02/24 12:22:55] @ Hume2 joined channel #supertux
+[2016/02/24 12:22:56] @ Mode +v Hume2 by ChanServ
+[2016/02/24 12:23:44] <pentagon> [10supertux] 07Hume2 commented on issue 09#367: New badguy: HangingBall 13https://git.io/vgjXC
+[2016/02/24 12:23:47] <Hume2> Hello
+[2016/02/24 12:24:24] <Tobbi> Hume2: Uh? What do you mean by that?
+[2016/02/24 12:24:30] <Tobbi> You're having trouble hearing?
+[2016/02/24 12:24:42] <Hume2> Well, sometimes.
+[2016/02/24 12:24:57] <Hume2> I really don't understand the sounds.
+[2016/02/24 12:25:50] <Tobbi> Hume2: I kept a Microsoft scammer on the phone for 45 minutes. That's gotta be a big achievement right there.
+[2016/02/24 12:26:37] <Hume2> Yeah, it is.
+[2016/02/24 12:27:18] <Hume2> You know, I hear, but I don't know anything about music.
+[2016/02/24 12:28:17] <Hume2> I don't hear even the obvious things about music, like consonancy.
+[2016/02/24 12:28:38] <Hume2> For me all teo tones are consonant :P
+[2016/02/24 12:28:52] <Hume2> *two
+[2016/02/24 12:29:19] <Tobbi> uh?
+[2016/02/24 12:29:21] <Tobbi> Weird.
+[2016/02/24 12:29:28] <sydney_untangle> :)
