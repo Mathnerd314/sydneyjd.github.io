@@ -9683,3 +9683,15 @@
 [2016/02/24 11:14:11] <Tobbi> :D
 [2016/02/24 11:14:20] <Tobbi> leyyin: I do, but my neighbors disprove of it.
 [2016/02/24 11:14:40] <leyyin> you should call the police, they want to burn the rain forest!!!!
+[2016/02/24 11:20:09] @ Quit: datahead8888: Quit: Leaving
+[2016/02/24 11:22:29] <Tobbi> leyyin: and scam people.
+[2016/02/24 11:24:46] <sydney_untangle> Tobbi: It's lovely when there is no one else seeding a debian package for you to download...
+[2016/02/24 11:25:10] <sydney_untangle> Ive had these torrents going for days, and only recieved 80mb from one of the .iso files. o_O
+[2016/02/24 11:26:02] <leyyin> you should buy debian
+[2016/02/24 11:28:08] <Tobbi> sydney_untangle: Why don't you simply get the debian package off somewhere else?
+[2016/02/24 11:28:15] <Tobbi> I don't know anything about Debian.
+[2016/02/24 11:29:09] <sydney_untangle> lol.
+[2016/02/24 11:29:27] <sydney_untangle> Tobbi: Im downloading it to seed, but its hard to seed when i cannot download it. :D
+[2016/02/24 11:29:45] <Tobbi> sydney_untangle: Try planting it instead of seeding it.
+[2016/02/24 11:29:55] <Tobbi> It just needs some water, and sun...and stuff like that.
+[2016/02/24 11:29:57] <sydney_untangle> leyyin: I think debian is surviving on donations.
