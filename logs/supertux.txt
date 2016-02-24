@@ -10036,3 +10036,5 @@
 [2016/02/24 14:24:58] <Some_Person> I feel like the boat teleporter thing is probably good enough
 [2016/02/24 14:25:50] <Tobbi> Oh, by spaces I mean the spaces in https://github.com/SuperTux/tinygettext/pull/3/files in my editor.
 [2016/02/24 14:29:43] <Some_Person> But yeah, if someone would be willing to extend "Under Construction" or implement something else entirely, feel free to trash my stupid level
+[2016/02/24 14:33:25] @ Quit: paroneayea: Ping timeout: 268 seconds
+[2016/02/24 14:39:31] @ tux|dude joined channel #supertux
