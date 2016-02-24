@@ -9913,3 +9913,57 @@
 [2016/02/24 13:28:43] <Tobbi> leyyin: Lasagne reminds me.
 [2016/02/24 13:28:52] <Hume2> :D
 [2016/02/24 13:29:05] <leyyin> ăășșșăăățțțîîî
+[2016/02/24 13:30:08] <Tobbi> leyyin: http://www.imdb.com/title/tt0080339/quotes?item=qt0484146
+[2016/02/24 13:30:31] <leyyin> random quote passing by....
+[2016/02/24 13:31:23] <Tobbi> leyyin: Don't you know Airplane?
+[2016/02/24 13:31:31] <leyyin> :(
+[2016/02/24 13:31:49] <Tobbi> huh?
+[2016/02/24 13:31:54] <leyyin> no, I don't
+[2016/02/24 13:32:00] <leyyin> should I feel sad?
+[2016/02/24 13:32:11] <Tobbi> leyyin: Probably not.
+[2016/02/24 13:32:22] <leyyin> I am legally downloading it now
+[2016/02/24 13:32:39] <Hume2> Legally? LOL
+[2016/02/24 13:32:40] <Tobbi> leyyin: Where?
+[2016/02/24 13:32:46] <Tobbi> And, are you serious?
+[2016/02/24 13:32:50] <leyyin> only romanians are allowed
+[2016/02/24 13:32:59] <Hume2> Who downloads films legally?
+[2016/02/24 13:33:06] <Tobbi> of course.
+[2016/02/24 13:33:14] <Tobbi> Hume2: I do. For a very narrow definition of legal.
+[2016/02/24 13:33:16] <leyyin> Hume2, me
+[2016/02/24 13:33:31] <Hume2> :D
+[2016/02/24 13:34:07] <Hume2> Do you know Doctor Who series 19?
+[2016/02/24 13:34:26] <leyyin> I feel like I am a different race of geek
+[2016/02/24 13:34:27] <brmbrmcar> Who is Series 19? :D
+[2016/02/24 13:34:29] <leyyin> no, I don't
+[2016/02/24 13:34:43] <Tobbi> leyyin: Don't mind. I am not a geek, either.
+[2016/02/24 13:34:44] <Hume2> brmbrmcar: That's classic.
+[2016/02/24 13:34:50] <Tobbi> I have no interest in all these geek things...
+[2016/02/24 13:34:56] <brmbrmcar> :(
+[2016/02/24 13:35:15] * brmbrmcar hate classic!
+[2016/02/24 13:35:30] <Hume2> brmbrmcar: It was broadcasted in the year 1982.
+[2016/02/24 13:35:32] <Tobbi> That was a classic brmbrmcar line.
+[2016/02/24 13:36:01] <Hume2> I personally like the series 18-21.
+[2016/02/24 13:36:08] <brmbrmcar> I only briefly know the early ones.
+[2016/02/24 13:36:34] <Hume2> There is TARDIS is SuperTux o.O
+[2016/02/24 13:36:49] <brmbrmcar> Huh?
+[2016/02/24 13:37:13] <Hume2> However, that appearance of TARDIS is only in those series.
+[2016/02/24 13:37:28] <Hume2> It's the Master's TARDIS.
+[2016/02/24 13:38:06] <brmbrmcar> Is supertux?
+[2016/02/24 13:38:27] <brmbrmcar> ?
+[2016/02/24 13:38:34] <Hume2> Yes, it is in SuperTux. However, you must know that TARDIS.
+[2016/02/24 13:38:57] <brmbrmcar> Where?
+[2016/02/24 13:39:39] <Hume2> I mean this Master's TARDIS: http://www.figures.com/forums/attachment.php?attachmentid=28662&d=1340650374
+[2016/02/24 13:39:43] <brmbrmcar> ok
+[2016/02/24 13:40:02] <brmbrmcar> But in SuperTux?
+[2016/02/24 13:40:25] <Hume2> Well, it's a bit different, but yes.
+[2016/02/24 13:40:33] <brmbrmcar> ok
+[2016/02/24 13:40:39] <brmbrmcar> Where is it?
+[2016/02/24 13:40:44] <brmbrmcar> In SuperTux?
+[2016/02/24 13:41:14] <Tobbi> brmbrmcar: It only works once you spin around 360 degrees, then yell "SuperTux" at the top of your voice.
+[2016/02/24 13:41:27] <brmbrmcar> :D
+[2016/02/24 13:41:41] <brmbrmcar> It seems like it would work.
+[2016/02/24 13:42:15] <Hume2> brmbrmcar: https://github.com/SuperTux/supertux/blob/master/data/images/tiles/castle/column.png
+[2016/02/24 13:42:31] <brmbrmcar> Oh yes.
+[2016/02/24 13:42:43] <brmbrmcar> It is still quite different.
+[2016/02/24 13:43:53] <Hume2> Narre lolled when I shew him that.
+[2016/02/24 13:44:10] <brmbrmcar> lel
