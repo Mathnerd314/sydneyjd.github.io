@@ -9795,3 +9795,70 @@
 [2016/02/24 12:58:30] <leyyin> c卍卍l
 [2016/02/24 12:59:38] <Tobbi> leyyin: That is *not* called for.
 [2016/02/24 13:00:01] <leyyin> you have not sense of humour
+[2016/02/24 13:00:06] <leyyin> *no
+[2016/02/24 13:00:24] <Hume2> Leyyin uses Chineese alphabet :D
+[2016/02/24 13:00:33] <Tobbi> leyyin: We do. We just tend to keep it in the basement.
+[2016/02/24 13:00:46] <leyyin> like stalin, cool
+[2016/02/24 13:01:22] <Hume2> leyyin: Can you speak Chineese?
+[2016/02/24 13:01:43] @ Quit: Mathnerd314: Ping timeout: 244 seconds
+[2016/02/24 13:01:48] <leyyin> If I have an internet connection, I can speak anything
+[2016/02/24 13:02:00] <Tobbi> >D
+[2016/02/24 13:02:00] <Tobbi> :D
+[2016/02/24 13:02:10] <Tobbi> What has the world come to?
+[2016/02/24 13:02:22] <Hume2> leyyin: What does hakenkreuz mean in Chineese?
+[2016/02/24 13:02:32] <Hume2> It is a Chineese word IIRC.
+[2016/02/24 13:02:39] <leyyin> no, it is not
+[2016/02/24 13:02:52] <Hume2> Well, it is Chineese symbol.
+[2016/02/24 13:02:59] <leyyin> it's indian
+[2016/02/24 13:03:05] <Hume2> I forgot.
+[2016/02/24 13:03:33] <Hume2> I'll try Google translator :D
+[2016/02/24 13:03:57] <leyyin> Tobbi, the world is dooomed
+[2016/02/24 13:04:02] <leyyin> new doom game is awesome :D
+[2016/02/24 13:04:14] <Hume2> It means swastika. That would make sense.
+[2016/02/24 13:04:17] <Tobbi> leyyin: I know that modarchod is a swear word in Indian.
+[2016/02/24 13:04:18] <Tobbi> :D
+[2016/02/24 13:04:30] <Tobbi> or is it madarchod.
+[2016/02/24 13:04:35] <Tobbi> I am not sure, actually.
+[2016/02/24 13:08:05] <Tobbi> leyyin: What, would you guess, is the most translated article on Wikipedia_
+[2016/02/24 13:08:06] <Tobbi> ?
+[2016/02/24 13:08:34] <leyyin> Obama?
+[2016/02/24 13:08:39] <Hume2> Main page?
+[2016/02/24 13:08:48] <leyyin> article
+[2016/02/24 13:08:59] <Hume2> Hitler?
+[2016/02/24 13:09:08] <leyyin> sigh, Hume2
+[2016/02/24 13:09:09] <Tobbi> Actually, main page... :D
+[2016/02/24 13:09:13] <Tobbi> Why did I never check that.
+[2016/02/24 13:09:21] <Tobbi> I actually googled it. And it said Jesus Christ :D
+[2016/02/24 13:09:26] <leyyin> jesus
+[2016/02/24 13:09:35] <Tobbi> leyyin: Did you mean cheese-us?
+[2016/02/24 13:09:50] <leyyin> I should stop with the craziness
+[2016/02/24 13:09:54] <Hume2> Why it isn't Allah?
+[2016/02/24 13:10:06] <Tobbi> leyyin: For a long time, I pranked a Christian Mozilla employee who was getting annoying...
+[2016/02/24 13:10:18] <Tobbi> And I called Jesus "cheese-us"
+[2016/02/24 13:11:09] <leper`> Tobbi: Did you do it for the grater good?
+[2016/02/24 13:11:12] <leyyin> https://redd.it/46qq9n
+[2016/02/24 13:11:14] <Tobbi> :D
+[2016/02/24 13:11:17] <Tobbi> haha
+[2016/02/24 13:11:29] <leyyin> leper`, are you healed?
+[2016/02/24 13:11:34] <leyyin> lepresy is kinda hard on you?
+[2016/02/24 13:11:47] <Hume2> :D
+[2016/02/24 13:11:49] <Tobbi> Did anyone put down "SuperTux" there?
+[2016/02/24 13:12:08] <leper`> leyyin: I can walk!
+[2016/02/24 13:12:17] <Tobbi> leyyin: Have you heard about the Brendan Eich controversy, you sure must have...
+[2016/02/24 13:12:25] <Tobbi> That guy who was CEO for about a week or so?
+[2016/02/24 13:12:29] <Tobbi> But donated to Prop 8.
+[2016/02/24 13:12:39] <leyyin> yes I heard
+[2016/02/24 13:12:53] <leyyin> Tobbi, sillicon valley CEO's must be liberals :P
+[2016/02/24 13:12:58] <leyyin> did you not get the memo?
+[2016/02/24 13:13:20] <Tobbi> leyyin: I know. But especially when working at Mozilla.
+[2016/02/24 13:13:29] <Tobbi> Not doing any good to the community.
+[2016/02/24 13:13:57] <Tobbi> Anyway, I was against brendan as a CEO, because fuck him. How hypocritical can someone get.
+[2016/02/24 13:14:12] <Tobbi> Being CEO of a community that welcomes people across the races.
+[2016/02/24 13:14:18] <leyyin> indeed https://i.imgur.com/tfpDIlX.jpg
+[2016/02/24 13:14:19] <Tobbi> And genders and sexual orientation.
+[2016/02/24 13:14:24] <Tobbi> :D
+[2016/02/24 13:14:30] <Tobbi> leyyin: fuck you.
+[2016/02/24 13:14:38] <Tobbi> uhm, *sorry*
+[2016/02/24 13:14:48] <leyyin> you are the second person to say that to me today
+[2016/02/24 13:14:51] <leyyin> damn, I'm loved
+[2016/02/24 13:14:55] * leyyin feels the love
