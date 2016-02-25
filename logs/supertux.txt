@@ -10158,3 +10158,9 @@
 [2016/02/25 11:11:20] <mt> use debootstrap
 [2016/02/25 11:11:37] <sydney_untangle> I have nothing but issues with the GUI installer, but besides this UEFI issue, the "normal" installer works great.
 [2016/02/25 11:13:17] <sydney_untangle> You'd think that for being such a stable OS that their installer would be better. ;)
+[2016/02/25 11:15:40] <mt> it installs a lot of bullshit
+[2016/02/25 11:16:19] <sydney_untangle> To an extent that is true.
+[2016/02/25 11:16:32] <sydney_untangle> Not as bad as ubuntu though. ;)
+[2016/02/25 11:17:35] <mt> ubuntu installs the same bullshit
+[2016/02/25 11:17:43] <mt> not more or less than debian
+[2016/02/25 11:17:57] <mt> as does linux mint
