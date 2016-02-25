@@ -10080,3 +10080,6 @@
 [2016/02/24 22:27:01] @ Topic set by mt on 2016-02-09 12:51:33 -0500
 [2016/02/24 22:27:05] @ Mode +Cntzj 5:10 by tepper.freenode.net
 [2016/02/24 22:27:14] @ Mode +v red_bot by ChanServ
+[2016/02/24 22:45:18] @ sydney_untangle joined channel #supertux
+[2016/02/24 22:45:18] @ Mode +v sydney_untangle by ChanServ
+[2016/02/24 22:59:33] @ irungentoo joined channel #supertux
