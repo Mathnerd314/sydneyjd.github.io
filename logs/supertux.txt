@@ -10123,3 +10123,4 @@
 [2016/02/25 04:27:44] <Necrosporus> Also supertux eats cpu time while being paused
 [2016/02/25 04:29:29] <Necrosporus> Also if non-english keyboard is active, supertux keybinding break
 [2016/02/25 04:29:33] <Necrosporus> layout
+[2016/02/25 04:54:00] @ lumidify joined channel #supertux
