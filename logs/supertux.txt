@@ -10207,3 +10207,4 @@
 [2016/02/25 16:58:46] @ Quit: claymore2: Quit: Leaving
 [2016/02/25 17:29:33] @ Quit: leyyin: Ping timeout: 250 seconds
 [2016/02/25 17:39:42] @ irungentoo joined channel #supertux
+[2016/02/25 18:01:02] @ tux|dude joined channel #supertux
