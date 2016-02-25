@@ -10107,3 +10107,8 @@
 [2016/02/25 03:04:36] @ tuxdude143 joined channel #supertux
 [2016/02/25 03:05:38] @ Quit: tuxdude143: Read error: Connection reset by peer
 [2016/02/25 03:07:49] @ Quit: tux|dude: Ping timeout: 248 seconds
+[2016/02/25 03:47:42] @ lumidify joined channel #supertux
+[2016/02/25 03:53:54] @ Quit: lumidify: Ping timeout: 276 seconds
+[2016/02/25 03:58:05] @ Necrosporus joined channel #supertux
+[2016/02/25 03:59:15] <Necrosporus> There is some problems with SuperTux game mechanics I think
+[2016/02/25 03:59:46] <Necrosporus> For example if there is a level starting with a big pile of coins, you can get infinite coins by grabbing them and stepping into a pit repeatedly
