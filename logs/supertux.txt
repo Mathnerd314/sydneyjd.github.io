@@ -10130,3 +10130,6 @@
 [2016/02/25 06:07:39] @ test joined channel #supertux
 [2016/02/25 06:08:04] @ test is now known as Guest12858
 [2016/02/25 06:08:04] @ Quit: Guest12858: Client Quit
+[2016/02/25 06:55:34] @ lumidify joined channel #supertux
+[2016/02/25 06:55:34] @ Quit: lumidify: Changing host
+[2016/02/25 06:55:34] @ lumidify joined channel #supertux
