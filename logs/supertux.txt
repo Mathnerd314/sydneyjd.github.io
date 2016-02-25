@@ -10189,3 +10189,7 @@
 [2016/02/25 14:17:19] @ lumidify joined channel #supertux
 [2016/02/25 14:17:19] @ Quit: lumidify: Changing host
 [2016/02/25 14:17:19] @ lumidify joined channel #supertux
+[2016/02/25 15:02:43] @ Quit: lumidify: Quit: Leaving
+[2016/02/25 15:07:17] @ Quit: brmbrmcar: Quit: Restarting computer
+[2016/02/25 15:07:24] @ claymore2 joined channel #supertux
+[2016/02/25 15:07:55] @ brmbrmcar joined channel #supertux
