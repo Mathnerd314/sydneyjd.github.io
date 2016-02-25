@@ -10147,3 +10147,14 @@
 [2016/02/25 10:38:34] @ Quit: Necrosporus: Ping timeout: 240 seconds
 [2016/02/25 10:39:29] <brmbrmcar> Honestly.
 [2016/02/25 10:47:58] <Tobbi> brmbrmcar: What "honestly"?
+[2016/02/25 11:02:33] <brmbrmcar> From 7 hours ago
+[2016/02/25 11:04:57] @ lumidify joined channel #supertux
+[2016/02/25 11:08:43] <sydney_untangle> Tobbi: Arg, the way debian implements UEFI detection is buggy and unreliable. o_O
+[2016/02/25 11:08:47] <sydney_untangle> :D
+[2016/02/25 11:09:35] <sydney_untangle> Good thing for CSM. :D
+[2016/02/25 11:10:10] <mt> that's why no sane person would install debian using debian-installer
+[2016/02/25 11:10:51] <sydney_untangle> mt: WHy?
+[2016/02/25 11:11:00] <sydney_untangle> Or, should i ask, how would you do it?
+[2016/02/25 11:11:20] <mt> use debootstrap
+[2016/02/25 11:11:37] <sydney_untangle> I have nothing but issues with the GUI installer, but besides this UEFI issue, the "normal" installer works great.
+[2016/02/25 11:13:17] <sydney_untangle> You'd think that for being such a stable OS that their installer would be better. ;)
