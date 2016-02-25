@@ -10166,3 +10166,10 @@
 [2016/02/25 11:17:57] <mt> as does linux mint
 [2016/02/25 11:32:59] @ Quit: lumidify: Ping timeout: 240 seconds
 [2016/02/25 11:57:20] <Tobbi> sydney_untangle: Why are you telling me that?
+[2016/02/25 12:07:03] @ Quit: brmbrmcar: Remote host closed the connection
+[2016/02/25 12:07:23] @ brmbrmcar joined channel #supertux
+[2016/02/25 12:07:30] <leper`> Tobbi: so that you can learn something about computers
+[2016/02/25 12:07:44] <Tobbi> leper`: I don't know anything about learning strategies
+[2016/02/25 12:10:11] <sydney_untangle> :p
+[2016/02/25 12:15:00] @ Hume2 joined channel #supertux
+[2016/02/25 12:15:00] @ Mode +v Hume2 by ChanServ
