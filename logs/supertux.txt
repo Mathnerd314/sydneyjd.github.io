@@ -10103,3 +10103,4 @@
 [2016/02/25 02:31:07] @ Mode +Cntzj 5:10 by wilhelm.freenode.net
 [2016/02/25 02:31:15] @ Mode +v red_bot by ChanServ
 [2016/02/25 02:44:15] @ Quit: tuxdev_: Ping timeout: 240 seconds
+[2016/02/25 02:48:04] @ Quit: lumidify: Ping timeout: 240 seconds
