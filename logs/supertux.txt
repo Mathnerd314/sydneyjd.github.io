@@ -10193,3 +10193,4 @@
 [2016/02/25 15:07:17] @ Quit: brmbrmcar: Quit: Restarting computer
 [2016/02/25 15:07:24] @ claymore2 joined channel #supertux
 [2016/02/25 15:07:55] @ brmbrmcar joined channel #supertux
+[2016/02/25 15:22:57] <pentagon> [10supertux] 07IndianaTux commented on issue 09#334: Haywire bomb game crash  13https://git.io/v2Rgy
