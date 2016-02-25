@@ -10183,3 +10183,5 @@
 [2016/02/25 13:33:06] @ Mode +v red_bot by ChanServ
 [2016/02/25 13:34:47] @ sydney_untangle joined channel #supertux
 [2016/02/25 13:34:47] @ Mode +v sydney_untangle by ChanServ
+[2016/02/25 13:49:14] @ Quit: lumidify: Ping timeout: 244 seconds
+[2016/02/25 13:58:24] @ lumidify joined channel #supertux
