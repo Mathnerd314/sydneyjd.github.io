@@ -10165,3 +10165,4 @@
 [2016/02/25 11:17:43] <mt> not more or less than debian
 [2016/02/25 11:17:57] <mt> as does linux mint
 [2016/02/25 11:32:59] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/02/25 11:57:20] <Tobbi> sydney_untangle: Why are you telling me that?
