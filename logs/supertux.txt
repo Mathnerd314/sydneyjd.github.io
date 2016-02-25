@@ -10146,3 +10146,4 @@
 [2016/02/25 10:35:12] @ Necrosporus_ joined channel #supertux
 [2016/02/25 10:38:34] @ Quit: Necrosporus: Ping timeout: 240 seconds
 [2016/02/25 10:39:29] <brmbrmcar> Honestly.
+[2016/02/25 10:47:58] <Tobbi> brmbrmcar: What "honestly"?
