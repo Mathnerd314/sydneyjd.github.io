@@ -10205,3 +10205,4 @@
 [2016/02/25 16:04:28] @ Necrosporus_ is now known as Necrosporus
 [2016/02/25 16:44:24] @ Quit: tux|dude: Quit: Leaving
 [2016/02/25 16:58:46] @ Quit: claymore2: Quit: Leaving
+[2016/02/25 17:29:33] @ Quit: leyyin: Ping timeout: 250 seconds
