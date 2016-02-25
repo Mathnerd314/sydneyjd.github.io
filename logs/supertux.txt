@@ -10112,3 +10112,11 @@
 [2016/02/25 03:58:05] @ Necrosporus joined channel #supertux
 [2016/02/25 03:59:15] <Necrosporus> There is some problems with SuperTux game mechanics I think
 [2016/02/25 03:59:46] <Necrosporus> For example if there is a level starting with a big pile of coins, you can get infinite coins by grabbing them and stepping into a pit repeatedly
+[2016/02/25 04:00:29] <Necrosporus> Also if you fall into a bottomless pit, you lose your bonus after restart, but if you happen to smash "restart level" fast enough you retain your helmet
+[2016/02/25 04:01:05] <Necrosporus> If you do it after you fall into pit while tux is still falling
+[2016/02/25 04:03:27] <Necrosporus> Also what is the use of backflip jump? Most of time you could do same thing with regular jump, but you often do backflip when you really want to hit a brick with your rear
+[2016/02/25 04:03:54] @ stewboy joined channel #supertux
+[2016/02/25 04:04:55] <Necrosporus> That's my notes taken from playing supertux through first world. How many areas are there? I mean, you go though a plain, then into cave, then...
+[2016/02/25 04:05:58] <Necrosporus> About multiplayer. I guess, that actually maybe two players should play on separate computers
+[2016/02/25 04:06:29] <Necrosporus> Then each sees area around one of them
+[2016/02/25 04:10:57] <Necrosporus> Also game happen to be a little slow on my computer in certain areas
