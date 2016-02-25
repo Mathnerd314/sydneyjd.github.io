@@ -10173,3 +10173,5 @@
 [2016/02/25 12:10:11] <sydney_untangle> :p
 [2016/02/25 12:15:00] @ Hume2 joined channel #supertux
 [2016/02/25 12:15:00] @ Mode +v Hume2 by ChanServ
+[2016/02/25 12:48:49] <Hume2> Hello
+[2016/02/25 12:48:54] <brmbrmcar> hi
