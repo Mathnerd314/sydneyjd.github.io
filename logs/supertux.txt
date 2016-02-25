@@ -10104,3 +10104,6 @@
 [2016/02/25 02:31:15] @ Mode +v red_bot by ChanServ
 [2016/02/25 02:44:15] @ Quit: tuxdev_: Ping timeout: 240 seconds
 [2016/02/25 02:48:04] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/02/25 03:04:36] @ tuxdude143 joined channel #supertux
+[2016/02/25 03:05:38] @ Quit: tuxdude143: Read error: Connection reset by peer
+[2016/02/25 03:07:49] @ Quit: tux|dude: Ping timeout: 248 seconds
