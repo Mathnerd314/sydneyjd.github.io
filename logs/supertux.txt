@@ -10176,3 +10176,10 @@
 [2016/02/25 12:48:49] <Hume2> Hello
 [2016/02/25 12:48:54] <brmbrmcar> hi
 [2016/02/25 13:15:35] @ quit (okay bye)
+[2016/02/25 13:32:53] @ Joined channel #supertux
+[2016/02/25 13:32:53] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | GSoC Project Ideas: https://github.com/SuperTux/supertux/wiki/GSoC-2016-Ideas"
+[2016/02/25 13:32:53] @ Topic set by mt on 2016-02-09 12:51:33 -0500
+[2016/02/25 13:32:58] @ Mode +Cntzj 5:10 by wilhelm.freenode.net
+[2016/02/25 13:33:06] @ Mode +v red_bot by ChanServ
+[2016/02/25 13:34:47] @ sydney_untangle joined channel #supertux
+[2016/02/25 13:34:47] @ Mode +v sydney_untangle by ChanServ
