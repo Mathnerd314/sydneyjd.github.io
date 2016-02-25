@@ -10120,3 +10120,6 @@
 [2016/02/25 04:05:58] <Necrosporus> About multiplayer. I guess, that actually maybe two players should play on separate computers
 [2016/02/25 04:06:29] <Necrosporus> Then each sees area around one of them
 [2016/02/25 04:10:57] <Necrosporus> Also game happen to be a little slow on my computer in certain areas
+[2016/02/25 04:27:44] <Necrosporus> Also supertux eats cpu time while being paused
+[2016/02/25 04:29:29] <Necrosporus> Also if non-english keyboard is active, supertux keybinding break
+[2016/02/25 04:29:33] <Necrosporus> layout
