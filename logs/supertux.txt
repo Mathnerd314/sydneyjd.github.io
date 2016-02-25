@@ -10142,3 +10142,4 @@
 [2016/02/25 09:45:55] @ tuxdev_ joined channel #supertux
 [2016/02/25 10:04:50] @ Mathnerd314 joined channel #supertux
 [2016/02/25 10:04:50] @ Mode +v Mathnerd314 by ChanServ
+[2016/02/25 10:17:04] @ Quit: jesusalva_bot: Ping timeout: 240 seconds
