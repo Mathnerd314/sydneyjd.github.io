@@ -10194,3 +10194,10 @@
 [2016/02/25 15:07:24] @ claymore2 joined channel #supertux
 [2016/02/25 15:07:55] @ brmbrmcar joined channel #supertux
 [2016/02/25 15:22:57] <pentagon> [10supertux] 07IndianaTux commented on issue 09#334: Haywire bomb game crash  13https://git.io/v2Rgy
+[2016/02/25 15:39:19] * Hume2 has qujit
+[2016/02/25 15:39:25] * Hume2 has jojined
+[2016/02/25 15:39:31] <Hume2> :D
+[2016/02/25 15:39:47] @ tux|dude joined channel #supertux
+[2016/02/25 15:39:49] <Hume2> I know that it's old, but still funny :D
+[2016/02/25 15:40:12] * Hume2 failed to spam with jojin and qujit messages
+[2016/02/25 15:43:06] <brmbrmcar> :D
