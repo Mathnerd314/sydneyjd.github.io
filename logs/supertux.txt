@@ -10140,3 +10140,5 @@
 [2016/02/25 09:31:12] @ Quit: nerdopolis: Quit: No Ping reply in 180 seconds.
 [2016/02/25 09:31:56] @ nerdopolis joined channel #supertux
 [2016/02/25 09:45:55] @ tuxdev_ joined channel #supertux
+[2016/02/25 10:04:50] @ Mathnerd314 joined channel #supertux
+[2016/02/25 10:04:50] @ Mode +v Mathnerd314 by ChanServ
