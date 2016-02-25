@@ -10203,3 +10203,4 @@
 [2016/02/25 15:43:06] <brmbrmcar> :D
 [2016/02/25 16:01:08] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
 [2016/02/25 16:04:28] @ Necrosporus_ is now known as Necrosporus
+[2016/02/25 16:44:24] @ Quit: tux|dude: Quit: Leaving
