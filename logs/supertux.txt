@@ -10264,3 +10264,5 @@
 [2016/02/26 08:48:41] <sydney_untangle> Tobbi: Finaly. :D
 [2016/02/26 09:27:11] @ tuxdev_ joined channel #supertux
 [2016/02/26 09:42:00] @ Quit: claymore2: Quit: Leaving
+[2016/02/26 10:14:49] @ Hume2 joined channel #supertux
+[2016/02/26 10:14:50] @ Mode +v Hume2 by ChanServ
