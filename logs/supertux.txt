@@ -10285,3 +10285,7 @@
 [2016/02/26 11:00:49] * sydney_untangle yawns...
 [2016/02/26 11:06:25] <sydney_untangle> Yawn yawn yawn... ;p
 [2016/02/26 11:07:11] <mt> hi sydney_untangle
+[2016/02/26 11:25:34] @ Quit: lumidify: Ping timeout: 244 seconds
+[2016/02/26 11:27:11] @ lumidify joined channel #supertux
+[2016/02/26 11:27:11] @ Quit: lumidify: Changing host
+[2016/02/26 11:27:11] @ lumidify joined channel #supertux
