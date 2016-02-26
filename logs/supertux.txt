@@ -10245,3 +10245,5 @@
 [2016/02/26 03:16:18] <Tobbi> I have one installed on my rbpi.
 [2016/02/26 03:16:50] @ lumidify joined channel #supertux
 [2016/02/26 03:39:31] @ Quit: lumidify: Ping timeout: 248 seconds
+[2016/02/26 03:48:36] @ tuxdude143 joined channel #supertux
+[2016/02/26 03:51:47] @ Quit: tux|dude: Ping timeout: 248 seconds
