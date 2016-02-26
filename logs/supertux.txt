@@ -10234,3 +10234,4 @@
 [2016/02/25 23:01:33] @ Quit: datahead8888: Ping timeout: 240 seconds
 [2016/02/25 23:43:11] @ datahead8888 joined channel #supertux
 [2016/02/26 00:09:13] @ Quit: irungentoo: Remote host closed the connection
+[2016/02/26 00:49:01] @ stewboy joined channel #supertux
