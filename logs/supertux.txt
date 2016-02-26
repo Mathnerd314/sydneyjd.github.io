@@ -10222,3 +10222,4 @@
 [2016/02/25 20:09:37] @ tux|dude joined channel #supertux
 [2016/02/25 20:19:39] @ swift110_ joined channel #supertux
 [2016/02/25 20:32:03] @ Quit: swift110_: Remote host closed the connection
+[2016/02/25 20:46:59] @ Quit: datahead8888: Ping timeout: 240 seconds
