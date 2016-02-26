@@ -10250,3 +10250,4 @@
 [2016/02/26 04:12:13] @ Quit: tuxdude143: Quit: Leaving
 [2016/02/26 04:27:16] @ claymore2 joined channel #supertux
 [2016/02/26 05:48:46] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- Would you like to know more?
+[2016/02/26 06:11:57] @ Quit: claymore2: Quit: Leaving
