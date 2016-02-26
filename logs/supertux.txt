@@ -10210,3 +10210,4 @@
 [2016/02/25 18:01:02] @ tux|dude joined channel #supertux
 [2016/02/25 18:18:56] @ Quit: tux|dude: Quit: Leaving
 [2016/02/25 18:28:04] @ tux|dude joined channel #supertux
+[2016/02/25 19:25:01] @ Quit: tux|dude: Quit: Leaving
