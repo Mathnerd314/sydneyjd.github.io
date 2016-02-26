@@ -10241,3 +10241,6 @@
 [2016/02/26 01:54:51] @ lumidify joined channel #supertux
 [2016/02/26 02:13:11] @ Quit: tuxdev_: Ping timeout: 244 seconds
 [2016/02/26 02:48:20] @ Quit: lumidify: Ping timeout: 244 seconds
+[2016/02/26 03:15:58] <Tobbi> sydney_untangle: There's a nice little thing called a bouncer.
+[2016/02/26 03:16:18] <Tobbi> I have one installed on my rbpi.
+[2016/02/26 03:16:50] @ lumidify joined channel #supertux
