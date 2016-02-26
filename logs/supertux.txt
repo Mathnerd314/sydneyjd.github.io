@@ -10266,3 +10266,6 @@
 [2016/02/26 09:42:00] @ Quit: claymore2: Quit: Leaving
 [2016/02/26 10:14:49] @ Hume2 joined channel #supertux
 [2016/02/26 10:14:50] @ Mode +v Hume2 by ChanServ
+[2016/02/26 10:15:18] <Hume2> Hello
+[2016/02/26 10:20:50] <red_bot> Hume2 Hola. :D
+[2016/02/26 10:29:49] <brmbrmcar> red_bot: You were remotely told to say that.
