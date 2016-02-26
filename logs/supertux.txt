@@ -10257,3 +10257,5 @@
 [2016/02/26 07:07:31] @ lumidify joined channel #supertux
 [2016/02/26 07:07:31] @ Quit: lumidify: Changing host
 [2016/02/26 07:07:31] @ lumidify joined channel #supertux
+[2016/02/26 07:16:01] @ Wuzzy joined channel #supertux
+[2016/02/26 07:24:09] @ Quit: lumidify: Ping timeout: 250 seconds
