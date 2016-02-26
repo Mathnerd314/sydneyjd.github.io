@@ -10220,3 +10220,4 @@
 [2016/02/25 19:42:22] @ Mode +Cntzj 5:10 by tepper.freenode.net
 [2016/02/25 19:42:31] @ Mode +v red_bot by ChanServ
 [2016/02/25 20:09:37] @ tux|dude joined channel #supertux
+[2016/02/25 20:19:39] @ swift110_ joined channel #supertux
