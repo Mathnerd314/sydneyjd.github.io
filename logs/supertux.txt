@@ -10269,3 +10269,11 @@
 [2016/02/26 10:15:18] <Hume2> Hello
 [2016/02/26 10:20:50] <red_bot> Hume2 Hola. :D
 [2016/02/26 10:29:49] <brmbrmcar> red_bot: You were remotely told to say that.
+[2016/02/26 10:34:46] @ Quit: brmbrmcar: Quit: restating computer
+[2016/02/26 10:35:15] @ Necrosporus_ joined channel #supertux
+[2016/02/26 10:36:12] @ brmbrmcar joined channel #supertux
+[2016/02/26 10:37:57] @ lumidify joined channel #supertux
+[2016/02/26 10:38:44] @ Quit: Necrosporus: Ping timeout: 248 seconds
+[2016/02/26 10:41:20] * Hume2 has ragequjit
+[2016/02/26 10:41:26] * Hume2 has ragejojined
+[2016/02/26 10:41:39] <Hume2> :D
