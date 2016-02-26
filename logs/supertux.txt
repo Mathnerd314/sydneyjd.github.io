@@ -10347,3 +10347,207 @@
 [2016/02/26 13:59:12] <brmbrmcar> +1
 [2016/02/26 13:59:20] <Hume2> Because it's already done.
 [2016/02/26 13:59:29] <Hume2> It's not a TODO.
+[2016/02/26 14:00:21] <mt> https://github.com/git/git/blob/master/Documentation/SubmittingPatches#L112
+[2016/02/26 14:01:46] <mt> also, https://github.com/git/git/blob/master/Documentation/SubmittingPatches#L88 -> updated, redesigned isn't well described
+[2016/02/26 14:01:54] <brmbrmcar> Rules, rules.
+[2016/02/26 14:02:18] <mt> second one could've been data/levels/world2/diagonal_chasm.stl: rename, add to worldmap
+[2016/02/26 14:05:20] <Hume2> It doesn't make any sense at all, but OK.
+[2016/02/26 14:07:17] <brmbrmcar> It is incorrect grammatically to do that anyway.
+[2016/02/26 14:07:34] <brmbrmcar> It has to be like a request for that...
+[2016/02/26 14:07:44] <brmbrmcar> Who wrote the rules?
+[2016/02/26 14:08:09] <Hume2> I think so.
+[2016/02/26 14:08:50] <Hume2> That line was last edited by: https://github.com/gitster
+[2016/02/26 14:10:14] <brmbrmcar> It should be fixed
+[2016/02/26 14:10:24] <brmbrmcar> That rule is so stupid.
+[2016/02/26 14:10:51] <brmbrmcar> "You must be gramatically incorrect"
+[2016/02/26 14:11:12] <Hume2> Indeed.
+[2016/02/26 14:11:17] <brmbrmcar> :D
+[2016/02/26 14:12:51] <Hume2> In my opinion, it should be like a description what has been changed.
+[2016/02/26 14:12:58] <brmbrmcar> yes
+[2016/02/26 14:13:10] <Hume2> Like if you had to tell it someone.
+[2016/02/26 14:13:18] <brmbrmcar> Indeed.
+[2016/02/26 14:13:41] <brmbrmcar> I think I just hit something...
+[2016/02/26 14:13:46] <brmbrmcar> It was fine
+[2016/02/26 14:13:59] <brmbrmcar> Just made a noise I'd never heard
+[2016/02/26 14:14:58] <Hume2> Was it at least as loud as some people in the parlament?
+[2016/02/26 14:15:05] <Hume2> :D
+[2016/02/26 14:15:15] <brmbrmcar> No
+[2016/02/26 14:15:25] <brmbrmcar> It just creeped me out
+[2016/02/26 14:15:44] <brmbrmcar> and made the cursor on top thing and taskbar go onto loading.
+[2016/02/26 14:15:44] <Hume2> Yeah.
+[2016/02/26 14:16:00] <brmbrmcar> Like in parliament?
+[2016/02/26 14:16:07] <Hume2> Yes.
+[2016/02/26 14:16:12] <brmbrmcar> WE WILL KILL brmbrmcar!
+[2016/02/26 14:16:23] <Hume2> :D
+[2016/02/26 14:16:42] <brmbrmcar> THey imply that, I sometimes feel
+[2016/02/26 14:16:48] <Hume2> Once it was in the TV, how loud who was in the parliament.
+[2016/02/26 14:17:13] <brmbrmcar> :D
+[2016/02/26 14:17:27] <Hume2> Someone was 120Db loud, my record is 115Db I think.
+[2016/02/26 14:18:12] <brmbrmcar> OK
+[2016/02/26 14:18:19] <brmbrmcar> I'm quite loud
+[2016/02/26 14:18:32] <brmbrmcar> I think I've got a bit quieter though.
+[2016/02/26 14:19:00] <Hume2> I'm too. People tell me quite usually that I should speak more quiet.
+[2016/02/26 14:19:28] <brmbrmcar> Yes.
+[2016/02/26 14:19:40] <brmbrmcar> It canget annoying having a loud voice
+[2016/02/26 14:19:49] <brmbrmcar> Particualrlyin school.
+[2016/02/26 14:19:56] <Hume2> Indeed.
+[2016/02/26 14:20:12] <Hume2> They hear how I
+[2016/02/26 14:20:22] <brmbrmcar> yeah...
+[2016/02/26 14:20:25] <Hume2> 'm going to trick the teachers :P
+[2016/02/26 14:20:59] <brmbrmcar> :D
+[2016/02/26 14:24:08] <Hume2> It's quite funny to trick in PE lessons.)
+[2016/02/26 14:24:24] <Hume2> I usually hide behind the pillars :P
+[2016/02/26 14:25:03] <Hume2> Going back in the queue is quite funny too.
+[2016/02/26 14:25:08] <brmbrmcar> :D
+[2016/02/26 14:25:29] <brmbrmcar> Do you getinto trouble?
+[2016/02/26 14:25:41] <mt> Hume2: why would it be gramatically incorrect
+[2016/02/26 14:25:53] <Hume2> brmbrmcar: No, they usually don't note it.
+[2016/02/26 14:25:59] <mt> "as if you are giving orders to the codebase to change its behaviour"
+[2016/02/26 14:26:12] <brmbrmcar> ok
+[2016/02/26 14:26:34] <brmbrmcar> Taking to a codebase?
+[2016/02/26 14:26:40] <Hume2> mt: Well, why give orders to the codebase?
+[2016/02/26 14:26:43] <brmbrmcar> s/Taking/Talking/
+[2016/02/26 14:26:43] <red_bot> brmbrmcar meant: "Talking to a codebase?"
+[2016/02/26 14:26:57] <Hume2> Codebase is silly and can't change itself.
+[2016/02/26 14:27:04] <brmbrmcar> Codebase: Fix yourself!
+[2016/02/26 14:27:09] <Hume2> Wow, it would be scary.
+[2016/02/26 14:27:35] <mt> You can also read that as 'giving orders to Git'
+[2016/02/26 14:27:35] <mt> Git, change abc to xyz
+[2016/02/26 14:28:04] <Hume2> Well... makes a bit more sense.
+[2016/02/26 14:28:11] <mt> And it's generally preferred to do it that way
+[2016/02/26 14:28:15] <brmbrmcar> Codebase: @!"#^ &@#! %(*!
+[2016/02/26 14:28:23] <Hume2> :D
+[2016/02/26 14:28:28] <mt> (by the larger community)
+[2016/02/26 14:29:02] <Hume2> git change --update "data/levels/world2" --worldmap-change :D
+[2016/02/26 14:29:16] <brmbrmcar> :D
+[2016/02/26 14:29:21] <Tobbi> what?
+[2016/02/26 14:29:22] <Tobbi> :D
+[2016/02/26 14:29:24] <Tobbi> What the hell?
+[2016/02/26 14:29:44] <Hume2> I'm giving commands to git to change the resources :P
+[2016/02/26 14:30:07] <Hume2> Anyway why to give anyone a command when I've already done it?
+[2016/02/26 14:30:28] <Tobbi> Oh, guys...
+[2016/02/26 14:30:58] <brmbrmcar> What?
+[2016/02/26 14:31:34] <Tobbi> silly.
+[2016/02/26 14:31:36] <Tobbi> That talk is.
+[2016/02/26 14:33:12] <Hume2> Also git/codebase doesn't read it at all, the community reads it. As I say, it doesn't make sense.
+[2016/02/26 14:34:55] <mt> that might be because the name git describes its inventor, Linus Torvalds, who himself said he's a https://en.wikipedia.org/wiki/Git_%28slang%29
+[2016/02/26 14:36:58] <Hume2> That makes sense.
+[2016/02/26 14:38:29] <mt> also, would you say 'Commit 1234567 changes ...' or 'Commit 1234567 changed ...' just after pushing it out?
+[2016/02/26 14:38:43] <Hume2> b)
+[2016/02/26 14:39:08] <Hume2> Well, both could be.
+[2016/02/26 14:39:27] <mt> anyway
+[2016/02/26 14:39:32] <mt> this discussion is pointless
+[2016/02/26 14:43:33] <Hume2> Actually, I didn't mean it as past, but as passive.
+[2016/02/26 14:47:17] <Hume2> OK, another topic.
+[2016/02/26 14:49:16] <Tobbi> Let's talk about shoelaces.
+[2016/02/26 14:49:56] <brmbrmcar> I hate them.
+[2016/02/26 14:49:59] <Hume2> I have recently broke one.
+[2016/02/26 14:50:31] <Hume2> I knew that must happen with that shoes.
+[2016/02/26 14:50:57] <brmbrmcar> They are a stupid invention.
+[2016/02/26 14:51:14] <Hume2> And noone has noticed that it's broken for two weeks.
+[2016/02/26 14:51:24] <Hume2> Then I made a node.
+[2016/02/26 14:51:30] <brmbrmcar> node?
+[2016/02/26 14:51:51] <Hume2> Yes, I bound the two parts together.
+[2016/02/26 14:51:57] <Tobbi> Your shoelace is broke? Maybe, a better investment might fix it.
+[2016/02/26 14:52:12] <Hume2> Node works as well.
+[2016/02/26 14:53:43] <Hume2> Actually, I usually don't touch the shoelace when I put the shoe on.
+[2016/02/26 14:53:50] <brmbrmcar> :D
+[2016/02/26 14:53:57] <brmbrmcar> I can't tie them
+[2016/02/26 14:54:10] <Hume2> I can, but it's boring.
+[2016/02/26 14:54:20] <brmbrmcar> :D
+[2016/02/26 14:54:35] <brmbrmcar> I think I've got a solution
+[2016/02/26 14:55:17] <Hume2> My shoelaces are always tied.
+[2016/02/26 14:55:20] <Tobbi> Oh, great, I got a base.
+[2016/02/26 14:55:55] <Hume2> Even when I have another shoes on my feet.
+[2016/02/26 14:57:27] <brmbrmcar> http://www.howcast.com/videos/355675-how-to-do-the-self-tying-shoelace-trick/
+[2016/02/26 14:58:19] <Hume2> LOADING...
+[2016/02/26 14:58:28] <brmbrmcar> Huh?
+[2016/02/26 14:59:06] <mt> /cs topicappend #supertux Welcome to the most on-topic discussion about SuperTux, now: shoelaces
+[2016/02/26 14:59:28] <Hume2> :D
+[2016/02/26 14:59:31] <brmbrmcar> Shall I make a shoelaces level? :D
+[2016/02/26 14:59:40] <Hume2> You can.
+[2016/02/26 14:59:43] <Hume2> :D
+[2016/02/26 14:59:44] <mt> /ns vhost Hume2 on supertux/shoelace/Hume2
+[2016/02/26 14:59:56] <Tobbi> mt: C'mon: What do penguins need to not get cold feet? Shoes.
+[2016/02/26 15:00:06] <Hume2> :D
+[2016/02/26 15:00:07] <Tobbi> And what do they need to tie these shoes: Shoelaces.
+[2016/02/26 15:00:09] <brmbrmcar> I hate shoes!
+[2016/02/26 15:00:21] <brmbrmcar> But I really hate shoelaces!
+[2016/02/26 15:00:27] <Tobbi> *sigh*
+[2016/02/26 15:00:37] <Tobbi> brmbrmcar: Will you stop being quasi-autistic?
+[2016/02/26 15:00:41] <Hume2> Do you know what is worse than shoes and shoelaces together?
+[2016/02/26 15:01:11] <Hume2> My grandma picking shoues for hours!
+[2016/02/26 15:01:21] <brmbrmcar> :D
+[2016/02/26 15:02:13] <Hume2> I was so tired, so I couldn't even sigh properly.
+[2016/02/26 15:03:38] <Hume2> Yes it IS possible, Tobbi :D
+[2016/02/26 15:04:26] <brmbrmcar> :D
+[2016/02/26 15:05:50] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/02/26 15:10:41] <brmbrmcar> So, https://youtu.be/NQr6UXAIQmM
+[2016/02/26 15:10:46] <brmbrmcar> Bad idea#
+[2016/02/26 15:14:24] <Hume2> LOL
+[2016/02/26 15:14:55] <brmbrmcar> :D
+[2016/02/26 15:16:51] <Hume2> Tie the evil shoes and get Penny back!
+[2016/02/26 15:16:57] <brmbrmcar> :D
+[2016/02/26 15:17:04] <Hume2> It could be a good add-on story :D
+[2016/02/26 15:17:15] <brmbrmcar> The comeback is coming soon...
+[2016/02/26 15:17:39] <brmbrmcar> To a poor sound and video quality cinema!
+[2016/02/26 15:17:49] <Hume2> The secound shoe has caputured Penny again!
+[2016/02/26 15:17:58] <brmbrmcar> Oh no!
+[2016/02/26 15:18:04] <Hume2> Super Tux Shoes 2!
+[2016/02/26 15:18:13] <brmbrmcar> I'll make it
+[2016/02/26 15:18:33] <Hume2> Super Tux Ties Back!
+[2016/02/26 15:19:00] <Hume2> Like SuperTux Strikes Back, but with that shoe thingy.
+[2016/02/26 15:19:56] <Hume2> I just must see your video again and again.
+[2016/02/26 15:23:00] <brmbrmcar> ok
+[2016/02/26 15:23:30] <Hume2> Maybe I should try to make some SuperTux related videos too.
+[2016/02/26 15:26:13] <Hume2> https://www.youtube.com/watch?v=MfUZZBGcbQk
+[2016/02/26 15:28:03] <brmbrmcar> I've seen that
+[2016/02/26 15:34:00] <Hume2> I could make an insane long level and then broadcast it.
+[2016/02/26 15:34:20] <Hume2> SuperTux Marathon :D
+[2016/02/26 15:34:44] <Hume2> Like really 40km = 100 000 blocks
+[2016/02/26 15:35:23] <Hume2> Well, even 10 000 blocks long level lags properly.
+[2016/02/26 15:35:47] <Hume2> Maybe it's also because it was only one sector.
+[2016/02/26 15:36:08] <brmbrmcar> https://youtu.be/y9D0aTPHoGU
+[2016/02/26 15:36:21] <brmbrmcar> not processed yet
+[2016/02/26 15:36:31] <Hume2> I see.
+[2016/02/26 15:36:33] <brmbrmcar> is now]
+[2016/02/26 15:36:38] <brmbrmcar> low quality
+[2016/02/26 15:37:51] <Hume2> :DDDDDD
+[2016/02/26 15:38:24] <brmbrmcar> Like it?
+[2016/02/26 15:38:37] <brmbrmcar> You do not want to see my othr videos
+[2016/02/26 15:39:17] <brmbrmcar> 3 likes!
+[2016/02/26 15:39:20] <brmbrmcar> woohoo
+[2016/02/26 15:40:13] @ lumidify joined channel #supertux
+[2016/02/26 15:40:13] @ Quit: lumidify: Changing host
+[2016/02/26 15:40:13] @ lumidify joined channel #supertux
+[2016/02/26 15:41:26] <Hume2> This is cool: https://www.youtube.com/watch?v=FJZ2zsujsnk
+[2016/02/26 15:41:47] <brmbrmcar> :D
+[2016/02/26 15:42:03] <brmbrmcar> I don't see the point in subscribing to stuff :D
+[2016/02/26 15:42:09] <brmbrmcar> So I hust do that
+[2016/02/26 15:44:50] @ tux|dude joined channel #supertux
+[2016/02/26 15:45:38] <Hume2> I have better time in Owls' Revenge than you :D
+[2016/02/26 15:45:48] <Hume2> My record is 9.20s :D
+[2016/02/26 15:46:03] <brmbrmcar> I know
+[2016/02/26 15:46:11] <brmbrmcar> I've done it faster
+[2016/02/26 15:46:13] <brmbrmcar> Sorry
+[2016/02/26 15:46:20] <brmbrmcar> That was just my latest onde
+[2016/02/26 15:46:28] <Hume2> What's your record?
+[2016/02/26 15:46:42] <brmbrmcar> And I must have powerwashed, destroyed this machine about 100 times
+[2016/02/26 15:46:55] <brmbrmcar> It was 9.1sometjing
+[2016/02/26 15:47:00] <Hume2> That makes sense.
+[2016/02/26 15:47:06] <Hume2> 9.19?
+[2016/02/26 15:47:10] <brmbrmcar> Maybe
+[2016/02/26 15:47:31] <Hume2> Narre's record is 9.21.
+[2016/02/26 15:47:43] <brmbrmcar> :D
+[2016/02/26 15:47:56] <brmbrmcar> I just attempted it once on screen record
+[2016/02/26 15:48:05] <brmbrmcar> And it came out that way
+[2016/02/26 15:49:18] <Hume2> I don't know how it's possible that I have 12 subscribers.
+[2016/02/26 15:49:25] <Hume2> It's really weird.
+[2016/02/26 15:49:26] <brmbrmcar> Over time
+[2016/02/26 15:51:57] <Hume2> LOL https://www.youtube.com/user/TeraTux/discussion
+[2016/02/26 15:52:35] <brmbrmcar> Stunfisk is better than Lucario
+[2016/02/26 15:52:42] <brmbrmcar> Tht reminds me of that
+[2016/02/26 15:53:19] <Hume2> I've just mentioned TeraTux REBORN here.
+[2016/02/26 15:53:28] <brmbrmcar> Oh no!
+[2016/02/26 15:53:54] @ Quit: tux|dude: Ping timeout: 260 seconds
+[2016/02/26 15:59:24] <brmbrmcar> See my crashes? They are the DREAD
