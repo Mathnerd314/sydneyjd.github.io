@@ -10292,3 +10292,58 @@
 [2016/02/26 11:41:34] @ Quit: Wuzzy: Quit: Wuzzy
 [2016/02/26 11:43:03] @ leyyin joined channel #supertux
 [2016/02/26 11:45:53] @ Quit: lumidify: Ping timeout: 250 seconds
+[2016/02/26 12:02:21] @ Log started by red_bot
+[2016/02/26 12:02:21] @ Joined channel #supertux
+[2016/02/26 12:02:21] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | GSoC Project Ideas: https://github.com/SuperTux/supertux/wiki/GSoC-2016-Ideas"
+[2016/02/26 12:02:21] @ Topic set by mt on 2016-02-09 12:51:33 -0500
+[2016/02/26 12:02:25] @ Mode +Cntzj 5:10 by asimov.freenode.net
+[2016/02/26 12:02:27] @ Quit: sydney_untangle: Read error: No route to host
+[2016/02/26 12:02:33] @ Mode +v red_bot by ChanServ
+[2016/02/26 12:06:44] @ Wuzzy joined channel #supertux
+[2016/02/26 12:07:10] @ sydney_untangle joined channel #supertux
+[2016/02/26 12:07:11] @ Mode +v sydney_untangle by ChanServ
+[2016/02/26 12:08:48] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/02/26 12:13:44] @ brmbrmca1 joined channel #supertux
+[2016/02/26 12:13:59] @ Quit: brmbrmcar: Killed (hitchcock.freenode.net (Nickname regained by services))
+[2016/02/26 12:14:00] @ brmbrmca1 is now known as brmbrmcar
+[2016/02/26 12:15:52] @ octo__ joined channel #supertux
+[2016/02/26 12:15:53] @ Mode +v octo__ by ChanServ
+[2016/02/26 12:16:00] @ apostrophe joined channel #supertux
+[2016/02/26 12:20:38] @ Quit: binki: *.net *.split
+[2016/02/26 12:20:39] @ Quit: Yaiyan: *.net *.split
+[2016/02/26 12:20:39] @ Quit: octo: *.net *.split
+[2016/02/26 12:23:06] @ Yaiyan joined channel #supertux
+[2016/02/26 12:30:40] @ Quit: tuxdev_: Ping timeout: 244 seconds
+[2016/02/26 12:39:00] @ Mathnerd314 joined channel #supertux
+[2016/02/26 12:39:00] @ Mode +v Mathnerd314 by ChanServ
+[2016/02/26 12:42:52] <Hume2> LOL, I have a screen full of join/quit messages o.O
+[2016/02/26 12:44:18] <mt> there was a netsplit
+[2016/02/26 12:45:22] @ claymore2 joined channel #supertux
+[2016/02/26 12:45:26] <brmbrmcar> I just timed out
+[2016/02/26 12:45:42] <brmbrmcar> I made a terrible song about Netsplit
+[2016/02/26 12:48:10] <Hume2> :D
+[2016/02/26 12:48:27] <Hume2> My songs are just surrealistic craps.
+[2016/02/26 12:50:54] <brmbrmcar> :D
+[2016/02/26 12:54:06] <Hume2> I was just recording random sounds and put a lots of effects to that.
+[2016/02/26 12:54:14] <brmbrmcar> :D
+[2016/02/26 12:54:48] <Hume2> Sometimes I even tried to add my speech to it.
+[2016/02/26 12:54:58] <Hume2> It's terrible, I know.
+[2016/02/26 12:55:01] <brmbrmcar> lel
+[2016/02/26 12:55:23] <brmbrmcar> I never tried
+[2016/02/26 12:55:45] <brmbrmcar> I can't record sounds without getting my camera ad converting them.
+[2016/02/26 13:57:24] <pentagon> [10supertux] 07Hume2 pushed 2 commits to 09forest 13https://git.io/v2znT
+[2016/02/26 13:57:27] <pentagon> [10supertux] 07Hume2 146dc33c8 Redesigned data/levels/world2/level6.stl
+[2016/02/26 13:57:30] <pentagon> [10supertux] 07Hume2 146b7b9dc Updated data/levels/world2/
+[2016/02/26 13:57:58] <mt> "Redesigned"
+[2016/02/26 13:57:59] <mt> "Updated"
+[2016/02/26 13:58:06] <mt> this is still a bit unclear
+[2016/02/26 13:58:25] <Hume2> It's explained bellow.
+[2016/02/26 13:58:29] <mt> also, rather use imperative in commit messages
+[2016/02/26 13:58:34] <mt> "Redesign ..."
+[2016/02/26 13:58:42] <Hume2> OK
+[2016/02/26 13:58:46] <mt> "Update ..."
+[2016/02/26 13:58:46] <mt> "Fix ..."
+[2016/02/26 13:59:06] <Hume2> But why? It doesn't make any sense.
+[2016/02/26 13:59:12] <brmbrmcar> +1
+[2016/02/26 13:59:20] <Hume2> Because it's already done.
+[2016/02/26 13:59:29] <Hume2> It's not a TODO.
