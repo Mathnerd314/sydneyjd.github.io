@@ -10277,3 +10277,8 @@
 [2016/02/26 10:41:20] * Hume2 has ragequjit
 [2016/02/26 10:41:26] * Hume2 has ragejojined
 [2016/02/26 10:41:39] <Hume2> :D
+[2016/02/26 10:45:17] <brmbrmcar> You in rage?
+[2016/02/26 10:48:09] <pentagon> [10supertux] 07maxteufel opened issue 09#369: Documentation on debugging 13https://git.io/v2uny
+[2016/02/26 10:49:59] * mt has kijicked Hume2 (Stop the silly messages)
+[2016/02/26 10:50:37] <Hume2> brmbrmcar: No, I'm just joking.
+[2016/02/26 10:51:25] <brmbrmcar> :D
