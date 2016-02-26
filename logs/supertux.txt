@@ -10262,3 +10262,4 @@
 [2016/02/26 08:24:25] @ gwater joined channel #supertux
 [2016/02/26 08:44:06] @ Quit: gwater: Ping timeout: 252 seconds
 [2016/02/26 08:48:41] <sydney_untangle> Tobbi: Finaly. :D
+[2016/02/26 09:27:11] @ tuxdev_ joined channel #supertux
