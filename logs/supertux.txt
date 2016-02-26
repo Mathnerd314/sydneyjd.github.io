@@ -10226,3 +10226,4 @@
 [2016/02/25 21:02:26] @ Quit: tux|dude: Quit: Leaving
 [2016/02/25 21:03:43] @ Quit: leper`: Quit: ZNC - http://znc.in
 [2016/02/25 21:06:04] @ leper` joined channel #supertux
+[2016/02/25 21:41:06] @ tux|dude joined channel #supertux
