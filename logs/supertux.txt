@@ -10223,3 +10223,6 @@
 [2016/02/25 20:19:39] @ swift110_ joined channel #supertux
 [2016/02/25 20:32:03] @ Quit: swift110_: Remote host closed the connection
 [2016/02/25 20:46:59] @ Quit: datahead8888: Ping timeout: 240 seconds
+[2016/02/25 21:02:26] @ Quit: tux|dude: Quit: Leaving
+[2016/02/25 21:03:43] @ Quit: leper`: Quit: ZNC - http://znc.in
+[2016/02/25 21:06:04] @ leper` joined channel #supertux
