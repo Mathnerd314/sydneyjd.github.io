@@ -10260,3 +10260,4 @@
 [2016/02/26 07:16:01] @ Wuzzy joined channel #supertux
 [2016/02/26 07:24:09] @ Quit: lumidify: Ping timeout: 250 seconds
 [2016/02/26 08:24:25] @ gwater joined channel #supertux
+[2016/02/26 08:44:06] @ Quit: gwater: Ping timeout: 252 seconds
