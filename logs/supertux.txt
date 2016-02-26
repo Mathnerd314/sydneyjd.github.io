@@ -10236,3 +10236,5 @@
 [2016/02/26 00:09:13] @ Quit: irungentoo: Remote host closed the connection
 [2016/02/26 00:49:01] @ stewboy joined channel #supertux
 [2016/02/26 01:02:25] @ Quit: Mathnerd314: Ping timeout: 244 seconds
+[2016/02/26 01:38:17] @ leyyin joined channel #supertux
+[2016/02/26 01:42:25] @ Quit: leyyin: Client Quit
