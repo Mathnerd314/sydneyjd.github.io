@@ -10931,3 +10931,105 @@
 [2016/02/27 13:54:33] <Tobbi> Quite fun, however, many recurring elements.
 [2016/02/27 13:54:42] <brmbrmcar> TeraTux deed.
 [2016/02/27 13:59:05] <Hume2> https://youtu.be/QDmGWbSwfJw
+[2016/02/27 14:00:49] <brmbrmcar> :D
+[2016/02/27 14:02:31] <Tobbi> Hume2: You're approximating your levels to brmbrmcar's standard.
+[2016/02/27 14:02:45] <Tobbi> And that is not supposed to be a compliment.
+[2016/02/27 14:03:05] <Hume2> This had to be just fun.
+[2016/02/27 14:03:59] <Hume2> Don't worry, these are no future add-ons.
+[2016/02/27 14:04:10] <Tobbi> Hume2: No problem :)
+[2016/02/27 14:06:27] <Tobbi> Hume2: Also, I like your forest world.
+[2016/02/27 14:06:37] <Hume2> Thanks :)
+[2016/02/27 14:07:10] <Tobbi> Hume2: Can we decrease the delay when switching worlds?
+[2016/02/27 14:07:59] <brmbrmcar> Where is this cforest world?
+[2016/02/27 14:08:08] <Tobbi> brmbrmcar: forest branch
+[2016/02/27 14:08:14] @ claymore2 joined channel #supertux
+[2016/02/27 14:09:08] @ Quit: Wuzzy: Remote host closed the connection
+[2016/02/27 14:09:20] <brmbrmcar> ok
+[2016/02/27 14:19:48] <Tobbi> That's gonna be noisy now.
+[2016/02/27 14:19:50] <pentagon> [10flexlay] 07tobbi 04force-pushed 20 commits to 09create_addon 13https://git.io/v221O
+[2016/02/27 14:19:53] <pentagon> [10flexlay] 07tobbi 145ba8e6a Create sub-menu for creating add-ons
+[2016/02/27 14:19:56] <pentagon> [10flexlay] 07tobbi 142c9006e Add-on editor
+[2016/02/27 14:19:58] <pentagon> [10flexlay] 07tobbi 14e4c1538 Don't write contact
+[2016/02/27 14:20:01] <pentagon> [10flexlay] 07tobbi 14649e7b0 New add-on wizard
+[2016/02/27 14:20:05] <pentagon> [10flexlay] 07tobbi 14a64fcd9 Addon dialog stuff
+[2016/02/27 14:20:08] <pentagon> [10flexlay] 07tobbi 14b62f71b Class SaveAddonDirectory OpenAddonDirectory
+[2016/02/27 14:20:10] <pentagon> [10flexlay] 07tobbi 140e21cd4 Import fix
+[2016/02/27 14:20:13] <pentagon> [10flexlay] 07tobbi 142244639 Fix
+[2016/02/27 14:20:16] <pentagon> [10flexlay] 07tobbi 14f84cd7b Add (pseudo) methods to load add-ons from zip
+[2016/02/27 14:20:19] <pentagon> [10flexlay] 07tobbi 1487b6748 Add bogus project widget
+[2016/02/27 14:20:22] <pentagon> [10flexlay] 07tobbi 142189841 Add bogus project widget
+[2016/02/27 14:20:25] <pentagon> [10flexlay] 07tobbi 1462b784b Further fixes
+[2016/02/27 14:20:28] <pentagon> [10flexlay] 07tobbi 1497d6c0f Add arrays for things we need to save in an add-on
+[2016/02/27 14:20:29] <Hume2> ᑎ̲ has 6 views...
+[2016/02/27 14:20:30] <pentagon> [10flexlay] 07tobbi 14438b296 Properly create directories
+[2016/02/27 14:20:33] <pentagon> [10flexlay] 07tobbi 142f3a765 Create info file for add-ons
+[2016/02/27 14:20:36] <pentagon> [10flexlay] 07tobbi 140e68ba4 Add icon bar above project window
+[2016/02/27 14:20:39] <pentagon> [10flexlay] 07tobbi 1419c3aec Project widget should have reference to add-on
+[2016/02/27 14:20:42] <pentagon> [10flexlay] 07tobbi 14bceed91 Set add-on for real
+[2016/02/27 14:20:45] <pentagon> [10flexlay] 07tobbi 140462602 Add project dir setting
+[2016/02/27 14:20:48] <pentagon> [10flexlay] 07tobbi 14bc9966f Add text when no add-on was selected
+[2016/02/27 14:20:54] <Tobbi> done.
+[2016/02/27 14:21:04] <brmbrmcar> ?? has 6 views...
+[2016/02/27 14:21:09] <Tobbi> Yes.
+[2016/02/27 14:21:53] <Hume2> It's the https://www.youtube.com/watch?v=tfDkfOQquuc
+[2016/02/27 14:22:21] <Tobbi> I am one of those.
+[2016/02/27 14:22:32] <Hume2> Apparently yes.
+[2016/02/27 14:23:11] @ Quit: lumidify: Ping timeout: 244 seconds
+[2016/02/27 14:23:42] <brmbrmcar> I k-now
+[2016/02/27 14:24:00] <Hume2> The name of that video is also my nick in agar.io.
+[2016/02/27 14:24:28] <Tobbi> What is that?
+[2016/02/27 14:24:37] <Hume2> It's a web game.
+[2016/02/27 14:24:46] <brmbrmcar> agar.io
+[2016/02/27 14:24:51] <brmbrmcar> I know that
+[2016/02/27 14:25:02] <brmbrmcar> I played it a couple of times.
+[2016/02/27 14:25:27] <Hume2> Yeah, you eat the smaller cells and try to not be eaten by a bigger cell.
+[2016/02/27 14:25:53] <brmbrmcar> https://youtu.be/XZwSIQidaLw
+[2016/02/27 14:26:06] <brmbrmcar> I know that. It isn't that fun.
+[2016/02/27 14:26:30] <Hume2> :D
+[2016/02/27 14:27:25] <Tobbi> brmbrmcar: Why not create proper levels?
+[2016/02/27 14:27:48] <brmbrmcar> It takes too long.
+[2016/02/27 14:27:55] <brmbrmcar> And I'm terrible at it.
+[2016/02/27 14:27:57] <brmbrmcar> :(
+[2016/02/27 14:28:10] <Tobbi> brmbrmcar: Help me develop flexlay? :P
+[2016/02/27 14:28:15] <Tobbi> We can make this better.
+[2016/02/27 14:28:31] <brmbrmcar> In Python?
+[2016/02/27 14:28:37] <brmbrmcar> Oh no!
+[2016/02/27 14:29:33] <Tobbi> brmbrmcar: Why?
+[2016/02/27 14:30:43] <brmbrmcar> It is so terrible, and I have told you why.
+[2016/02/27 14:30:52] <brmbrmcar> You wantme to remind you?
+[2016/02/27 14:31:38] <Tobbi> No, it's fine.
+[2016/02/27 14:31:41] <Tobbi> I'ma fk.
+[2016/02/27 14:31:44] <Tobbi> *afk
+[2016/02/27 14:33:55] <brmbrmcar> It's epic getting Youtube to preview stabalising SuperTux videos. :D
+[2016/02/27 14:44:36] <Hume2> Indeed :D
+[2016/02/27 14:45:28] @ polyphagia joined channel #supertux
+[2016/02/27 14:47:04] <sydney_untangle> lol.
+[2016/02/27 14:47:24] <sydney_untangle> But i find youtube stabalizing to ruin quite a few things.
+[2016/02/27 14:48:56] <brmbrmcar> What Tux.walk speed is maximum?
+[2016/02/27 14:50:47] <Hume2> I have no idea.
+[2016/02/27 14:50:53] <Hume2> I think that it's unlimited.
+[2016/02/27 14:50:54] <brmbrmcar> Imeanfor normal gameplay.
+[2016/02/27 14:51:05] <Hume2> No idea too.
+[2016/02/27 14:51:08] <brmbrmcar> ok
+[2016/02/27 14:51:21] <brmbrmcar> I'll try and see in the menu thing
+[2016/02/27 14:54:21] <brmbrmcar> Where are Tux's movements scripted?
+[2016/02/27 14:54:44] <brmbrmcar> for main menu
+[2016/02/27 14:55:01] <Hume2> It's in the SuperTux source code.
+[2016/02/27 14:55:25] <Hume2> Any level played by the menu is played automatically.
+[2016/02/27 14:55:31] <brmbrmcar> Yes...
+[2016/02/27 14:55:37] <brmbrmcar> I looked in there.
+[2016/02/27 14:55:41] <brmbrmcar> :(
+[2016/02/27 14:55:50] <brmbrmcar> Nothing looks right.
+[2016/02/27 14:56:11] <Hume2> The menu level is in slower motion though.
+[2016/02/27 14:57:03] <brmbrmcar> ok
+[2016/02/27 15:08:24] <brmbrmcar> I'm trying something out
+[2016/02/27 15:11:52] <brmbrmcar> I'm having diificulty
+[2016/02/27 15:22:47] <brmbrmcar> I give up!
+[2016/02/27 15:26:52] @ Quit: claymore2: Quit: Leaving
+[2016/02/27 15:28:15] <brmbrmcar> How is aloop done?
+[2016/02/27 15:32:58] <brmbrmcar> :(
+[2016/02/27 15:36:30] * brmbrmcar cries
+[2016/02/27 15:37:00] <sydney_untangle> *facepalm*...
+[2016/02/27 15:38:22] <brmbrmcar> Or how doI just change Tux's speed?
+[2016/02/27 15:41:18] <brmbrmcar> ok, nevermind.
+[2016/02/27 15:49:32] @ stewboy joined channel #supertux
