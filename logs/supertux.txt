@@ -11033,3 +11033,71 @@
 [2016/02/27 15:38:22] <brmbrmcar> Or how doI just change Tux's speed?
 [2016/02/27 15:41:18] <brmbrmcar> ok, nevermind.
 [2016/02/27 15:49:32] @ stewboy joined channel #supertux
+[2016/02/27 16:15:37] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/27 16:27:16] @ Quit: alket: Read error: error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number
+[2016/02/27 16:27:41] @ alket joined channel #supertux
+[2016/02/27 16:42:54] @ Joined channel #supertux
+[2016/02/27 16:42:54] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | GSoC Project Ideas: https://github.com/SuperTux/supertux/wiki/GSoC-2016-Ideas"
+[2016/02/27 16:42:54] @ Topic set by mt on 2016-02-09 12:51:33 -0500
+[2016/02/27 16:42:54] @ Mode +v red_bot by ChanServ
+[2016/02/27 16:42:57] @ Mode +Cntzj 5:10 by orwell.freenode.net
+[2016/02/27 16:44:11] @ binki joined channel #supertux
+[2016/02/27 16:44:48] @ Quit: sydney_untangle: *.net *.split
+[2016/02/27 16:44:50] @ Quit: snadge: *.net *.split
+[2016/02/27 16:44:50] @ Quit: octo__: *.net *.split
+[2016/02/27 16:44:52] @ Quit: gynter: *.net *.split
+[2016/02/27 16:44:53] @ Quit: Vorpal: *.net *.split
+[2016/02/27 16:48:37] @ Yaiyan_ joined channel #supertux
+[2016/02/27 16:48:46] @ Quit: datahead8888: *.net *.split
+[2016/02/27 16:48:47] @ Quit: Xjs|moonshine: *.net *.split
+[2016/02/27 16:48:47] @ Quit: Yaiyan: *.net *.split
+[2016/02/27 16:48:47] @ Quit: apostrophe: *.net *.split
+[2016/02/27 16:48:50] @ Quit: mt: *.net *.split
+[2016/02/27 16:49:00] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- Now with extra fish!
+[2016/02/27 16:49:34] @ snadge joined channel #supertux
+[2016/02/27 16:49:36] @ octo__ joined channel #supertux
+[2016/02/27 16:49:36] @ gynter joined channel #supertux
+[2016/02/27 16:49:36] @ Vorpal joined channel #supertux
+[2016/02/27 16:49:36] @ Mode +v octo__ by orwell.freenode.net
+[2016/02/27 16:49:47] @ sydney_untangle joined channel #supertux
+[2016/02/27 16:49:47] @ Mode +v sydney_untangle by orwell.freenode.net
+[2016/02/27 17:07:29] @ tux|dude joined channel #supertux
+[2016/02/27 17:07:43] @ Quit: leper`: Ping timeout: 276 seconds
+[2016/02/27 17:07:43] @ Quit: Tobbi: Ping timeout: 276 seconds
+[2016/02/27 17:08:21] @ Quit: paroneay`: Ping timeout: 276 seconds
+[2016/02/27 17:08:22] @ Quit: xnrand: Ping timeout: 276 seconds
+[2016/02/27 17:08:33] @ xnrand joined channel #supertux
+[2016/02/27 17:08:40] @ Tobbi joined channel #supertux
+[2016/02/27 17:08:40] @ Mode +v Tobbi by ChanServ
+[2016/02/27 17:16:52] @ Quit: Yaiyan_: Excess Flood
+[2016/02/27 17:17:24] @ Quit: xnrand: Excess Flood
+[2016/02/27 17:18:24] @ Quit: sydney_untangle: Ping timeout: 252 seconds
+[2016/02/27 17:19:52] @ datahead8888 joined channel #supertux
+[2016/02/27 17:20:45] @ leper` joined channel #supertux
+[2016/02/27 17:21:22] @ xnrand joined channel #supertux
+[2016/02/27 17:22:04] @ Quit: Mathnerd314: Ping timeout: 264 seconds
+[2016/02/27 17:22:43] @ Yaiyan joined channel #supertux
+[2016/02/27 17:24:48] @ Quit: Necrosporus_: *.net *.split
+[2016/02/27 17:24:51] @ Quit: tomreyn: *.net *.split
+[2016/02/27 17:26:50] @ kyberkits joined channel #supertux
+[2016/02/27 17:27:34] @ Quit: octo__: Ping timeout: 240 seconds
+[2016/02/27 17:27:41] @ Quit: alket: Excess Flood
+[2016/02/27 17:28:07] @ Quit: gynter: Ping timeout: 240 seconds
+[2016/02/27 17:28:08] @ Quit: Vorpal: Ping timeout: 240 seconds
+[2016/02/27 17:28:10] @ alket joined channel #supertux
+[2016/02/27 17:28:16] @ Xjs|moonshine joined channel #supertux
+[2016/02/27 17:28:48] @ Quit: Xjs|moonshine: Max SendQ exceeded
+[2016/02/27 17:29:26] @ octo_ joined channel #supertux
+[2016/02/27 17:29:26] @ Mode +v octo_ by ChanServ
+[2016/02/27 17:31:34] @ tomreyn joined channel #supertux
+[2016/02/27 17:34:37] @ Xjs|moonshine joined channel #supertux
+[2016/02/27 17:34:45] @ Vorpal joined channel #supertux
+[2016/02/27 17:44:59] @ Quit: tuxdev: Ping timeout: 268 seconds
+[2016/02/27 17:49:15] @ tuxdev joined channel #supertux
+[2016/02/27 17:49:15] @ Quit: tuxdev: Changing host
+[2016/02/27 17:49:15] @ tuxdev joined channel #supertux
+[2016/02/27 17:51:07] @ Quit: Xjs|moonshine: Ping timeout: 268 seconds
+[2016/02/27 17:58:48] @ Tobbi_ joined channel #supertux
+[2016/02/27 17:58:48] @ Mode +v Tobbi_ by ChanServ
+[2016/02/27 17:59:28] @ Quit: Tobbi: Quit: ZNC - http://znc.in
+[2016/02/27 17:59:28] @ Tobbi_ is now known as Tobbi
