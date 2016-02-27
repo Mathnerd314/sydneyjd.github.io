@@ -10590,3 +10590,14 @@
 [2016/02/26 20:44:38] @ Xjs|moonshine joined channel #supertux
 [2016/02/26 21:14:03] @ Quit: Wuzzy: Ping timeout: 244 seconds
 [2016/02/26 21:22:10] @ Wuzzy joined channel #supertux
+[2016/02/26 22:11:32] @ irungentoo joined channel #supertux
+[2016/02/26 22:13:42] @ Quit: Wuzzy: Remote host closed the connection
+[2016/02/26 22:16:38] @ Quit: datahead8888: Quit: Leaving
+[2016/02/26 23:20:18] @ Quit: irungentoo: Remote host closed the connection
+[2016/02/27 00:41:06] @ tuxdev_ joined channel #supertux
+[2016/02/27 01:50:16] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09forest 13https://git.io/v2ghm
+[2016/02/27 01:50:19] <pentagon> [10supertux] 07Hume2 147555305 data/levels/world2/light+magic.stl: change theme to ghost forest
+[2016/02/27 01:51:02] @ bb010g joined channel #supertux
+[2016/02/27 01:51:16] @ lumidify joined channel #supertux
+[2016/02/27 01:52:28] @ Quit: Mathnerd314: Ping timeout: 255 seconds
+[2016/02/27 01:57:27] * mt should test the forest branch
