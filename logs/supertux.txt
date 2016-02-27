@@ -10813,3 +10813,121 @@
 [2016/02/27 11:55:51] <Hume2> IKR
 [2016/02/27 11:55:52] <Tobbi> Ah, okay.
 [2016/02/27 11:56:02] <Hume2> That's true.
+[2016/02/27 12:01:46] <Tobbi> Hume2: You should start learning Python.
+[2016/02/27 12:02:55] <brmbrmcar> I can't get my tilemap to fade anymore.
+[2016/02/27 12:04:15] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/27 12:04:26] @ Hume2 joined channel #supertux
+[2016/02/27 12:04:27] @ Mode +v Hume2 by ChanServ
+[2016/02/27 12:05:52] <brmbrmcar> Why don't coins fade on a fading tilemap?
+[2016/02/27 12:06:40] @ lumidify joined channel #supertux
+[2016/02/27 12:07:15] <Hume2> brmbrmcar: It's because they aren't tiles.
+[2016/02/27 12:07:22] <Hume2> They are objects.
+[2016/02/27 12:07:23] <brmbrmcar> :(
+[2016/02/27 12:07:30] <brmbrmcar> How do you get them to fade?
+[2016/02/27 12:07:42] <Hume2> It's not possible.
+[2016/02/27 12:07:56] * brmbrmcar cries
+[2016/02/27 12:08:02] <brmbrmcar> Whyever not?
+[2016/02/27 12:08:05] <Hume2> If you made an angrystone tile, it wouldn't fade as well.
+[2016/02/27 12:08:08] <brmbrmcar> It isn't unreasonable.
+[2016/02/27 12:08:26] <brmbrmcar> Angrystone tiles?
+[2016/02/27 12:08:27] <brmbrmcar> Huh?
+[2016/02/27 12:09:24] <Hume2> It is possible to make them, altrough they aren't in the default tileset.
+[2016/02/27 12:09:25] <brmbrmcar> Is set_solid real?
+[2016/02/27 12:09:28] <brmbrmcar> ok
+[2016/02/27 12:09:49] <Hume2> set_solid is a boolean.
+[2016/02/27 12:09:56] <Hume2> It's true or false.
+[2016/02/27 12:14:03] @ Quit: lumidify: Ping timeout: 244 seconds
+[2016/02/27 12:23:52] <pentagon> [10flexlay] 07tobbi pushed 1 commit to 09create_addon 13https://git.io/v22V8
+[2016/02/27 12:23:55] <pentagon> [10flexlay] 07tobbi 142924085 Add icon bar above project window
+[2016/02/27 12:25:52] <Tobbi> eeh, s/window/widget
+[2016/02/27 12:26:02] <Tobbi> also s/above/at the top of
+[2016/02/27 12:27:27] <brmbrmcar> ok
+[2016/02/27 12:28:37] <brmbrmcar> set_solid does not exist.
+[2016/02/27 12:29:00] <Hume2> Maybe not.
+[2016/02/27 12:29:13] <brmbrmcar> What could void the coins?
+[2016/02/27 12:30:44] <Hume2> Nothing.
+[2016/02/27 12:30:49] <brmbrmcar> :(
+[2016/02/27 12:30:59] * brmbrmcar cries
+[2016/02/27 12:31:06] <brmbrmcar> It could still work...
+[2016/02/27 12:31:12] <Hume2> Well, a tilemap can hide it.
+[2016/02/27 12:31:33] <brmbrmcar> ok
+[2016/02/27 12:31:40] <Hume2> That way you can't collect it but the coin still exists.
+[2016/02/27 12:31:41] <brmbrmcar> Don't worry
+[2016/02/27 12:34:02] <Tobbi> Guys, what other functions, except for "Package add-on..." and "Add media..." do we need in the Project window?
+[2016/02/27 12:34:05] <Tobbi> or widget
+[2016/02/27 12:34:54] <Hume2> What project window?
+[2016/02/27 12:35:22] <Tobbi> Hume2: In flexlay...
+[2016/02/27 12:35:28] <Tobbi> It's a widget that displays the files etc.
+[2016/02/27 12:35:44] <Hume2> Oh, you're talking about Flexlay.
+[2016/02/27 12:35:54] <Tobbi> yes.
+[2016/02/27 12:47:47] <brmbrmcar> https://www.youtube.com/watch?v=sdUwPgjIJ-Q
+[2016/02/27 12:50:25] <brmbrmcar> Still high quality not processed :(
+[2016/02/27 12:52:16] <Hume2> :D
+[2016/02/27 12:52:47] <brmbrmcar> What is it with YouTube today?
+[2016/02/27 12:53:14] <Hume2> I have no idea.
+[2016/02/27 12:53:38] <brmbrmcar> Only 360p? After a million years? :P
+[2016/02/27 12:54:08] <brmbrmcar> It was like it since this afternoon.
+[2016/02/27 12:54:36] <pentagon> [10flexlay] 07tobbi pushed 1 commit to 09create_addon 13https://git.io/v22rn
+[2016/02/27 12:54:39] <pentagon> [10flexlay] 07tobbi 14f3b33f0 Project widget should have reference to add-on
+[2016/02/27 12:56:16] <Tobbi> ouch
+[2016/02/27 12:57:02] <pentagon> [10flexlay] 07tobbi pushed 1 commit to 09create_addon 13https://git.io/v22rg
+[2016/02/27 12:57:05] <pentagon> [10flexlay] 07tobbi 14a4de9b2 Set add-on for real
+[2016/02/27 13:00:20] <pentagon> [10supertux] 07LMH0013 commented on issue 09#322: Game objects move explosions 13https://git.io/vu0mm
+[2016/02/27 13:05:01] @ brmbrmcar is now known as Guest41411
+[2016/02/27 13:05:06] @ brmbrmcar joined channel #supertux
+[2016/02/27 13:08:07] @ Quit: Guest41411: Ping timeout: 260 seconds
+[2016/02/27 13:09:17] <pentagon> [10flexlay] 07tobbi pushed 1 commit to 09create_addon 13https://git.io/v22o8
+[2016/02/27 13:09:20] <pentagon> [10flexlay] 07tobbi 14ac40e6c Add project dir setting
+[2016/02/27 13:19:10] @ lumidify joined channel #supertux
+[2016/02/27 13:19:10] @ Quit: lumidify: Changing host
+[2016/02/27 13:19:10] @ lumidify joined channel #supertux
+[2016/02/27 13:25:11] <Hume2> https://www.youtube.com/watch?v=tfDkfOQquuc
+[2016/02/27 13:26:20] <brmbrmcar> You can get HD processed!
+[2016/02/27 13:26:23] <brmbrmcar> Not fair.
+[2016/02/27 13:26:25] <brmbrmcar> :(
+[2016/02/27 13:26:59] @ Quit: polyphagia: Ping timeout: 240 seconds
+[2016/02/27 13:27:23] <brmbrmcar> Can't you set those yeti icons now?
+[2016/02/27 13:29:01] <Some_Person> I'm a little confused about where to find the current version of the editor
+[2016/02/27 13:29:25] <brmbrmcar> It wasn't updated for ages.
+[2016/02/27 13:29:28] <brmbrmcar> 2014
+[2016/02/27 13:29:38] <Tobbi> Hume2: You changed the sprite file of a yeti? :D
+[2016/02/27 13:30:06] <Hume2> Yes, I did :D
+[2016/02/27 13:30:07] <brmbrmcar> It's old.
+[2016/02/27 13:30:12] <brmbrmcar> The idea.
+[2016/02/27 13:30:18] <Tobbi> Some_Person: Current editor we have in development is flexlay.
+[2016/02/27 13:30:25] <Tobbi> Also, where is Karkus, by the way?
+[2016/02/27 13:30:27] <brmbrmcar> Can't you set hudlife?
+[2016/02/27 13:30:32] <Tobbi> I haven't seen him in a long time.
+[2016/02/27 13:30:52] <Tobbi> ~seen Karku
+[2016/02/27 13:30:52] <red_bot> Tobbi: KArkus____efjesi was last seen 4 months, 2 days, 20 hours, 51 minutes and 12 seconds ago, quitting IRC (Client Quit) and a moment before saying "that opens a personal chat with someone" in #supertux
+[2016/02/27 13:30:52] <red_bot> Tobbi: Karkus was last seen 8 days, 7 hours, 3 minutes and 56 seconds ago, quitting IRC (Client Quit)
+[2016/02/27 13:30:52] <red_bot> Tobbi: Karkus476 was last seen 3 months, 27 days, 1 hour, 24 minutes and 25 seconds ago, quitting IRC (Client Quit)
+[2016/02/27 13:30:55] <Tobbi> ~seen Karkus
+[2016/02/27 13:30:55] <red_bot> Tobbi: Karkus was last seen 8 days, 7 hours, 3 minutes and 59 seconds ago, quitting IRC (Client Quit)
+[2016/02/27 13:31:01] <Tobbi> Oh, 8 days.
+[2016/02/27 13:31:02] <Tobbi> Okay.
+[2016/02/27 13:34:56] <brmbrmcar> grrargh
+[2016/02/27 13:34:58] <brmbrmcar> youtube
+[2016/02/27 13:35:04] <brmbrmcar> Ieven re-uploaded
+[2016/02/27 13:35:08] <brmbrmcar> I HATE IT!
+[2016/02/27 13:37:32] <pentagon> [10flexlay] 07tobbi pushed 1 commit to 09create_addon 13https://git.io/v22iv
+[2016/02/27 13:37:35] <pentagon> [10flexlay] 07tobbi 1452931b7 Add text when no add-on was selected
+[2016/02/27 13:38:58] <Tobbi> The editor will need a lot of cleanup once this is done.
+[2016/02/27 13:39:17] <brmbrmcar> 720p https://www.youtube.com/watch?v=8Lx69wdXFS4
+[2016/02/27 13:40:25] <Hume2> :D
+[2016/02/27 13:40:42] <brmbrmcar> I lost a video with over 20 views :(
+[2016/02/27 13:40:48] <brmbrmcar> I had to.
+[2016/02/27 13:40:53] * brmbrmcar cries
+[2016/02/27 13:41:40] <Tobbi> * S I G H *
+[2016/02/27 13:41:45] <mt> brmbrmsad
+[2016/02/27 13:43:31] <Tobbi> tobtobsigh
+[2016/02/27 13:44:06] <mt> I suggest to rename GNU/Linux to SIGH/Tobbi
+[2016/02/27 13:44:12] <Tobbi> :D
+[2016/02/27 13:44:21] <Tobbi> mt: This wouldn't honor me at all.
+[2016/02/27 13:45:52] <mt> cd ~/src/kernel/linux; for i in $(find .); do sed -i 's/Linux/Tobbi/g' ${i}; done
+[2016/02/27 13:45:59] <Tobbi> :D
+[2016/02/27 13:46:02] <Tobbi> sounds fun.
+[2016/02/27 13:54:27] <Tobbi> TeraTux reborn...
+[2016/02/27 13:54:33] <Tobbi> Quite fun, however, many recurring elements.
+[2016/02/27 13:54:42] <brmbrmcar> TeraTux deed.
+[2016/02/27 13:59:05] <Hume2> https://youtu.be/QDmGWbSwfJw
