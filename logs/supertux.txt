@@ -10601,3 +10601,10 @@
 [2016/02/27 01:51:16] @ lumidify joined channel #supertux
 [2016/02/27 01:52:28] @ Quit: Mathnerd314: Ping timeout: 255 seconds
 [2016/02/27 01:57:27] * mt should test the forest branch
+[2016/02/27 02:13:31] @ tux|dude joined channel #supertux
+[2016/02/27 02:28:30] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/02/27 02:34:54] @ Quit: tuxdev_: Ping timeout: 244 seconds
+[2016/02/27 02:59:54] @ lumidify joined channel #supertux
+[2016/02/27 03:07:37] @ Quit: tux|dude: Read error: Connection reset by peer
+[2016/02/27 03:29:17] @ leyyin joined channel #supertux
+[2016/02/27 03:57:32] @ Quit: lumidify: Ping timeout: 244 seconds
