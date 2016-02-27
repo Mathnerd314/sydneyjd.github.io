@@ -10586,3 +10586,7 @@
 [2016/02/26 17:05:00] @ stewboy_ is now known as stewboy
 [2016/02/26 19:20:01] @ Quit: datahead8888: Ping timeout: 250 seconds
 [2016/02/26 19:23:30] @ datahead8888 joined channel #supertux
+[2016/02/26 20:40:11] @ Quit: Xjs|moonshine: Ping timeout: 250 seconds
+[2016/02/26 20:44:38] @ Xjs|moonshine joined channel #supertux
+[2016/02/26 21:14:03] @ Quit: Wuzzy: Ping timeout: 244 seconds
+[2016/02/26 21:22:10] @ Wuzzy joined channel #supertux
