@@ -10608,3 +10608,130 @@
 [2016/02/27 03:07:37] @ Quit: tux|dude: Read error: Connection reset by peer
 [2016/02/27 03:29:17] @ leyyin joined channel #supertux
 [2016/02/27 03:57:32] @ Quit: lumidify: Ping timeout: 244 seconds
+[2016/02/27 04:04:53] @ brmbrmcar is now known as Guest87442
+[2016/02/27 04:05:37] @ Guest87442 is now known as brmbrmcar_
+[2016/02/27 04:06:07] @ lumidify joined channel #supertux
+[2016/02/27 04:06:39] @ brmbrmcar_ is now known as brmbrmcar
+[2016/02/27 04:08:48] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/02/27 04:18:59] @ Quit: lumidify: Ping timeout: 248 seconds
+[2016/02/27 04:29:41] @ lumidify joined channel #supertux
+[2016/02/27 04:35:22] <Tobbi> Hello.
+[2016/02/27 04:36:20] @ claymore2 joined channel #supertux
+[2016/02/27 04:39:01] @ Hume2 joined channel #supertux
+[2016/02/27 04:39:01] @ Mode +v Hume2 by ChanServ
+[2016/02/27 04:39:35] <Hume2> Hello
+[2016/02/27 04:39:38] <Tobbi> Hume2: Every level in TeraTux Reborn contains a lot of varying slopes, and a lot of recurring elements (given these are created by scripts, that's to be expected), still, it would make much more sense if there could be some altered elements in the levels.
+[2016/02/27 04:39:50] <Tobbi> Also, hey
+[2016/02/27 04:40:21] <Hume2> I still develop it.
+[2016/02/27 04:40:24] <Tobbi> Alright.
+[2016/02/27 04:40:33] <Hume2> Now it can generate even secret areas.
+[2016/02/27 04:40:48] <Tobbi> Sounds great. Can those be considered secret then?
+[2016/02/27 04:41:04] <Hume2> Not always, but yes.
+[2016/02/27 04:41:44] <Tobbi> ah ok
+[2016/02/27 04:42:50] <mt> Generating secret areas (size unspecified)... (this can take a long time)
+[2016/02/27 04:43:18] <brmbrmcar> How is the Terrain Generator used?
+[2016/02/27 04:43:23] <Tobbi> :D What?
+[2016/02/27 04:43:36] <Tobbi> brmbrmcar: It can be used to be included into flexlay.
+[2016/02/27 04:43:50] <mt> Tobbi: Generating DH parameters ;)
+[2016/02/27 04:43:58] <mt> (can also take a long time)
+[2016/02/27 04:44:16] <Tobbi> mt: DH?
+[2016/02/27 04:44:29] <mt> https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange
+[2016/02/27 04:44:30] <brmbrmcar> ok
+[2016/02/27 04:44:33] <Tobbi> Ah.
+[2016/02/27 04:44:34] <Tobbi> That one.
+[2016/02/27 04:44:43] <Tobbi> mt: http://abkuerzungen.de/result.php?searchterm=DH&language=de :D
+[2016/02/27 04:45:17] <Tobbi> That's what I was first looking at.
+[2016/02/27 04:45:26] <mt> Hume2: what entropy source does the terrain generator use?
+[2016/02/27 04:45:43] <mt> or how does it randomnize the output?
+[2016/02/27 04:45:50] <Tobbi> mt: I assume it's galactic background noise.
+[2016/02/27 04:46:09] <mt> heh, I tried to record that once
+[2016/02/27 04:46:12] <brmbrmcar> I wouldn't think so.
+[2016/02/27 04:46:17] <mt> I've got an SDR device
+[2016/02/27 04:46:18] <Hume2> I don't know how is that algorithm called, I invented it myself.
+[2016/02/27 04:46:37] <brmbrmcar> That requires either internet or a special device.
+[2016/02/27 04:46:49] <mt> a friend is using a geiger counter :D
+[2016/02/27 04:46:53] <brmbrmcar> So it isn't really that random?
+[2016/02/27 04:47:15] <Tobbi> mt: Tell me: What haven't you got? You must be wealthy as f...
+[2016/02/27 04:47:40] <Tobbi> :D
+[2016/02/27 04:47:40] <mt> This SDR device is just an USB DVB-T receiver
+[2016/02/27 04:47:47] <mt> I got it for like, 20 EUR
+[2016/02/27 04:47:53] <Tobbi> hah, okay, so I have that as well :D
+[2016/02/27 04:48:11] <mt> I mostly use it to receive ADS-B traffic
+[2016/02/27 04:48:18] <mt> (airplanes)
+[2016/02/27 04:48:42] <Tobbi> sounds interesting.
+[2016/02/27 04:49:55] <Tobbi> Also: only 2 days until GSoC projects are announced :)
+[2016/02/27 04:50:12] <brmbrmcar> 2 WHOLE days?
+[2016/02/27 04:50:24] <Tobbi> brmbrmcar: No, 2 sliced days.
+[2016/02/27 04:50:47] <brmbrmcar> I thought it was more than 2 whole ones.
+[2016/02/27 04:51:00] <mt> Tobbi: https://urandom.eu.org/i/5H3Ib4tT.png
+[2016/02/27 04:51:45] <Tobbi> mt: How far does that reach?
+[2016/02/27 04:52:05] <mt> distance is in nautical miles
+[2016/02/27 04:52:16] <mt> with a good antenna you can reach 400 nm I think
+[2016/02/27 04:52:27] <Tobbi> Hume2: What were you thinking by the way? https://www.youtube.com/watch?v=MfUZZBGcbQk
+[2016/02/27 04:52:34] <mt> that is limited by the earth's rounding and thei height of the airplane
+[2016/02/27 04:52:58] <Tobbi> Hume2: And how the hell did you even script that?
+[2016/02/27 04:53:05] <Tobbi> I see...
+[2016/02/27 04:58:15] <Hume2> Tobbi: It's bad quality, there are bazilion rocks in one tile.
+[2016/02/27 04:58:22] <Tobbi> Hume2: Ah, I see...
+[2016/02/27 04:58:52] <Hume2> I must go, bye!
+[2016/02/27 04:58:55] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/27 04:59:36] @ VargaD_ joined channel #supertux
+[2016/02/27 04:59:42] @ Quit: VargaD: Ping timeout: 276 seconds
+[2016/02/27 04:59:51] <Tobbi> mt / brmbrmcar: Do we have a scripting API to spawn arbitrary game objects?
+[2016/02/27 05:00:03] @ VargaD_ is now known as VargaD
+[2016/02/27 05:00:13] <Tobbi> Not sure if we should add that, but might be fun.
+[2016/02/27 05:01:34] <brmbrmcar> Don't think so.
+[2016/02/27 05:01:52] <brmbrmcar> I would have used it otherwise.
+[2016/02/27 05:02:34] @ Quit: lumidify: Ping timeout: 260 seconds
+[2016/02/27 05:02:58] <Tobbi> :D
+[2016/02/27 05:03:07] <Tobbi> Is it necessary?
+[2016/02/27 05:03:13] <Tobbi> Do we want that?
+[2016/02/27 05:04:10] <brmbrmcar> Yes.
+[2016/02/27 05:04:11] <brmbrmcar> :D
+[2016/02/27 05:04:28] <Tobbi> mt: I need an opinion by someone who is more serious-minded than this guy above.
+[2016/02/27 05:04:45] <brmbrmcar> :(
+[2016/02/27 05:05:15] <Tobbi> Anyway, bbl.
+[2016/02/27 05:05:59] <Tobbi> brmbrmcar: You'd abuse such a feature :D
+[2016/02/27 05:06:16] <Tobbi> brmbrmcar: You would transform a potential disco level into a disco hell with unicorns.
+[2016/02/27 05:06:21] <mt> No
+[2016/02/27 05:06:22] <Tobbi> Unicorns from hell.
+[2016/02/27 05:06:31] <mt> it would, indeed, be used for abuse, most likely
+[2016/02/27 05:06:31] <Tobbi> Okay, we don't. Good.
+[2016/02/27 05:07:21] <brmbrmcar> I don't use unicorns.
+[2016/02/27 05:07:42] <Tobbi> brmbrmcar: Did I say unicorns? I meant unicars.
+[2016/02/27 05:08:05] <brmbrmcar> :D
+[2016/02/27 05:08:22] <brmbrmcar> Oh no, OperationGT is uploading SuperTux videos.
+[2016/02/27 05:08:28] <brmbrmcar> That is only trouble...
+[2016/02/27 05:08:38] <Tobbi> brmbrmcar: How would you know?
+[2016/02/27 05:08:43] <Tobbi> Do you know that person?
+[2016/02/27 05:08:58] <mt> if 'License' on youtube isn't the creative commons one
+[2016/02/27 05:09:03] <mt> we could probably report abuse
+[2016/02/27 05:09:04] <brmbrmcar> He told me.
+[2016/02/27 05:09:22] <Tobbi> :D
+[2016/02/27 05:09:47] <Tobbi> brmbrmcar: Who is OperationGT? I have only seen him in here sometimes.
+[2016/02/27 05:09:56] <brmbrmcar> My friend.
+[2016/02/27 05:10:09] <Tobbi> Also, why is it so cold outside? -1.1C
+[2016/02/27 05:10:21] <brmbrmcar> Aw. It's to warm out here.
+[2016/02/27 05:10:32] <Tobbi> brmbrmcar: What do you consider warm?
+[2016/02/27 05:11:07] <brmbrmcar> 0C
+[2016/02/27 05:11:29] <brmbrmcar> for winter
+[2016/02/27 05:11:30] <Tobbi> brmbrmcar: You know what I want to reply to that.
+[2016/02/27 05:11:37] <Tobbi> * S I G H *
+[2016/02/27 05:11:43] <brmbrmcar> :D
+[2016/02/27 05:11:46] <Tobbi> I should totally have that as my NickServ password.
+[2016/02/27 05:12:02] <mt> I'll implement SighServ for the next atheme release
+[2016/02/27 05:12:08] <Tobbi> :D
+[2016/02/27 05:12:17] <Tobbi> mt: With voice recognition of me sighing.
+[2016/02/27 05:12:25] <Tobbi> So it'll know it's me.
+[2016/02/27 05:13:10] <mt> /notice $** [Global Notice] Please /msg Tobbi SIGH
+[2016/02/27 05:13:17] <Tobbi> :D
+[2016/02/27 05:13:25] <Tobbi> genau.
+[2016/02/27 05:13:27] <Tobbi> So sieht das aus.
+[2016/02/27 05:47:09] @ Quit: stewboy: Read error: Connection reset by peer
+[2016/02/27 05:55:49] @ brmbrmca1 joined channel #supertux
+[2016/02/27 05:56:12] @ brmbrmcar is now known as Guest24224
+[2016/02/27 05:56:12] @ Quit: Guest24224: Killed (weber.freenode.net (Nickname regained by services))
+[2016/02/27 05:56:12] @ brmbrmca1 is now known as brmbrmcar
+[2016/02/27 05:56:32] @ brmbrmca1 joined channel #supertux
+[2016/02/27 05:57:04] @ Quit: brmbrmcar: Client Quit
+[2016/02/27 05:57:27] @ brmbrmca1 is now known as brmbrmcar
