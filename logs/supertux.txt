@@ -10735,3 +10735,10 @@
 [2016/02/27 05:56:32] @ brmbrmca1 joined channel #supertux
 [2016/02/27 05:57:04] @ Quit: brmbrmcar: Client Quit
 [2016/02/27 05:57:27] @ brmbrmca1 is now known as brmbrmcar
+[2016/02/27 06:14:46] @ lumidify joined channel #supertux
+[2016/02/27 06:14:46] @ Quit: lumidify: Changing host
+[2016/02/27 06:14:46] @ lumidify joined channel #supertux
+[2016/02/27 07:10:29] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/02/27 07:11:02] @ lumidify joined channel #supertux
+[2016/02/27 07:31:50] @ Necrosporus_ is now known as Necrosporus
+[2016/02/27 07:48:43] <brmbrmcar> Shoe comeback 2...
