@@ -10787,3 +10787,29 @@
 [2016/02/27 09:43:15] @ tuxdev_ joined channel #supertux
 [2016/02/27 09:57:14] @ Mathnerd314 joined channel #supertux
 [2016/02/27 09:57:14] @ Mode +v Mathnerd314 by ChanServ
+[2016/02/27 10:35:03] @ datahead8888 joined channel #supertux
+[2016/02/27 10:35:14] @ Necrosporus_ joined channel #supertux
+[2016/02/27 10:38:29] @ Quit: Necrosporus: Ping timeout: 240 seconds
+[2016/02/27 11:30:55] @ Quit: leyyin: Remote host closed the connection
+[2016/02/27 11:38:22] @ lumidify joined channel #supertux
+[2016/02/27 11:44:13] @ Wuzzy joined channel #supertux
+[2016/02/27 11:47:21] @ Hume2 joined channel #supertux
+[2016/02/27 11:47:21] @ Mode +v Hume2 by ChanServ
+[2016/02/27 11:47:29] <Hume2> Hello again
+[2016/02/27 11:48:31] @ gwater joined channel #supertux
+[2016/02/27 11:49:42] @ Quit: gwater: Client Quit
+[2016/02/27 11:50:21] <brmbrmcar> Shoe comeback 3 coming soon...
+[2016/02/27 11:50:32] <Hume2> :D
+[2016/02/27 11:51:07] <Tobbi> Hello.
+[2016/02/27 11:51:09] <Tobbi> gwater?
+[2016/02/27 11:51:15] <Tobbi> What is groundwater doing here?
+[2016/02/27 11:52:19] <Hume2> I don't know, Maybe he has accidentally joined.
+[2016/02/27 11:53:08] <mt> that was a person who contributed to supertux a long time ago, duh
+[2016/02/27 11:53:45] <mt> (well, most likely it was that person)
+[2016/02/27 11:53:49] @ Quit: lumidify: Ping timeout: 260 seconds
+[2016/02/27 11:55:09] <Tobbi> mt: I know...
+[2016/02/27 11:55:38] <mt> I was talking to Hume2
+[2016/02/27 11:55:51] <mt> Previous contributors most likely don't join accidentally
+[2016/02/27 11:55:51] <Hume2> IKR
+[2016/02/27 11:55:52] <Tobbi> Ah, okay.
+[2016/02/27 11:56:02] <Hume2> That's true.
