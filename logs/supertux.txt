@@ -11330,3 +11330,47 @@
 [2016/02/28 07:59:02] <Tobbi> Hume2: But what you mentioned regarding speaking too loudly sometimes: I notice that myself as well.
 [2016/02/28 07:59:44] <Hume2> It's that I speak loud without knowing that.
 [2016/02/28 08:00:00] <Tobbi> Hume2: Same here.
+[2016/02/28 08:00:02] <Tobbi> Sometimes.
+[2016/02/28 08:00:18] @ Quit: mt: Remote host closed the connection
+[2016/02/28 08:00:49] <Hume2> I've just eaten a piece of dirt, thinking that it's chocolate.
+[2016/02/28 08:01:22] <Tobbi> urgh.
+[2016/02/28 08:05:43] @ mteufel joined channel #supertux
+[2016/02/28 08:05:43] @ Mode +v mteufel by ChanServ
+[2016/02/28 08:11:21] <Tobbi> Hume2: okay please stop. Some things are not suitable for this chnanel.
+[2016/02/28 08:11:48] <Hume2> OK, I'll try to not eat dirt anymore.
+[2016/02/28 08:13:51] @ Quit: datahead8888: Ping timeout: 268 seconds
+[2016/02/28 08:14:27] @ Quit: mteufel: Ping timeout: 268 seconds
+[2016/02/28 08:17:00] <Tobbi> Hume2: Are you actually serious?
+[2016/02/28 08:17:04] <Tobbi> You got issues, man.
+[2016/02/28 08:17:21] @ datahead8888 joined channel #supertux
+[2016/02/28 08:17:38] <Tobbi> I sound like leyyin.
+[2016/02/28 08:17:50] <Hume2> 14:00:49 was serious, but 14:11:47 wasn't.
+[2016/02/28 08:18:16] <Tobbi> *sigh*
+[2016/02/28 08:22:11] <pentagon`> [10supertux] 07Hume2 commented on issue 09#362: Bug with moving tilemaps 13https://git.io/vg8HR
+[2016/02/28 08:56:33] @ sydney_untangle joined channel #supertux
+[2016/02/28 08:56:33] @ Mode +v sydney_untangle by ChanServ
+[2016/02/28 08:58:55] @ mt joined channel #supertux
+[2016/02/28 08:58:55] @ Mode +v mt by ChanServ
+[2016/02/28 09:10:15] <Tobbi> Whohoo, shut up & join for me.
+[2016/02/28 09:10:25] <Tobbi> This IRC's my destiny...
+[2016/02/28 09:11:53] <mt> Tobbi: freenode's getting DDoS'ed, so everything's a bit unstable (if you're talking about the connectivity issues)
+[2016/02/28 09:12:00] <Tobbi> mt: I see...
+[2016/02/28 09:12:07] <Tobbi> Since when does this occur?
+[2016/02/28 09:12:22] <Tobbi> Is it responsible for me quitting and rejoining 15 hours ago?
+[2016/02/28 09:13:05] <mt> Since 16 hours
+[2016/02/28 09:13:07] <mt> https://urandom.eu.org/i/49crUuOF.png
+[2016/02/28 09:13:22] <mt> ZNC probably detects too much lag and disconnects you
+[2016/02/28 09:15:04] <Tobbi> mt: I am glad it is that way. I thought my rbpi's SD card was full.
+[2016/02/28 09:15:10] <Tobbi> *had thought
+[2016/02/28 09:16:03] <mt> `df -kh`
+[2016/02/28 09:23:00] <Tobbi> mt: http://pastebin.com/4MGrMydu
+[2016/02/28 09:24:52] <mt> well, it might be actually almost full
+[2016/02/28 09:25:13] <mt> ("/dev/root       1.3G 1014M  178M  86% /")
+[2016/02/28 09:38:01] @ lumidify joined channel #supertux
+[2016/02/28 09:51:57] @ Quit: lumidify: Ping timeout: 244 seconds
+[2016/02/28 09:52:43] @ Quit: mt: Changing host
+[2016/02/28 09:52:43] @ mt joined channel #supertux
+[2016/02/28 09:52:43] @ Mode +v mt by orwell.freenode.net
+[2016/02/28 09:55:33] @ alket_ is now known as alket
+[2016/02/28 09:55:43] @ Quit: alket: Changing host
+[2016/02/28 09:55:43] @ alket joined channel #supertux
