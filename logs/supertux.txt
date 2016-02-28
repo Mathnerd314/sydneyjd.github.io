@@ -11206,3 +11206,127 @@
 [2016/02/28 05:55:18] <mt> because every distro ships different versions of libraries
 [2016/02/28 05:55:23] <Tobbi> I guess we should tell him to compile it himself.
 [2016/02/28 05:55:30] <mt> you'd have to link the entire OS statically
+[2016/02/28 06:30:57] @ Quit: Hume2: Ping timeout: 244 seconds
+[2016/02/28 06:41:05] @ Hume2 joined channel #supertux
+[2016/02/28 06:41:06] @ Mode +v Hume2 by ChanServ
+[2016/02/28 06:44:23] @ Quit: Some_Person: Ping timeout: 246 seconds
+[2016/02/28 06:46:00] @ Some_Person joined channel #supertux
+[2016/02/28 06:46:00] @ Quit: Some_Person: Changing host
+[2016/02/28 06:46:00] @ Some_Person joined channel #supertux
+[2016/02/28 06:50:45] @ claymore2 joined channel #supertux
+[2016/02/28 07:02:11] <pentagon> [10supertux] 07Hume2 pushed 2 commits to 09forest 13https://git.io/v2agp
+[2016/02/28 07:02:14] <pentagon> [10supertux] 07Hume2 149737ab0 data/levels/world2/level5.stl: restaure the level
+[2016/02/28 07:02:17] <pentagon> [10supertux] 07Hume2 1494113d7 data/levels/world2: update worldmap
+[2016/02/28 07:03:45] <mt> Hume2: fwiw, it'd be "restore" in English
+[2016/02/28 07:03:58] <Hume2> sihg
+[2016/02/28 07:04:16] <Hume2> I knew that you'd complain.
+[2016/02/28 07:04:35] <mt> I'm not complaining tbh
+[2016/02/28 07:04:40] <Hume2> It's a new neologism :)
+[2016/02/28 07:05:03] <mt> should I complain now?
+[2016/02/28 07:05:31] <Hume2> Well, I thought that you did tbh.
+[2016/02/28 07:07:02] <Hume2> I like that neologism.
+[2016/02/28 07:07:08] <Hume2> :)
+[2016/02/28 07:07:12] <mt> How is it a neologism
+[2016/02/28 07:07:48] <mt> https://en.wiktionary.org/wiki/restore#Etymology
+[2016/02/28 07:08:27] <mt> if you prefer the au, there's to restaurate
+[2016/02/28 07:09:19] <Hume2> Ok, this will be better.
+[2016/02/28 07:10:39] <pentagon> [10supertux] 07Hume2 04force-pushed 2 commits to 09forest 13https://git.io/v2a2y
+[2016/02/28 07:10:41] <pentagon> [10supertux] 07Hume2 141ea680d data/levels/world2/level5.stl: restaurate the level
+[2016/02/28 07:10:44] <pentagon> [10supertux] 07Hume2 14e9d728f data/levels/world2: update worldmap
+[2016/02/28 07:10:58] <mt> I told you I didn't complain
+[2016/02/28 07:11:10] <mt> so unless you just changed something else as well
+[2016/02/28 07:11:21] <mt> I wouldn't really care what the commit message says
+[2016/02/28 07:11:37] <Hume2> I want you feel happy :)
+[2016/02/28 07:12:05] <mt> I don't feel any more or less happy about that commit message
+[2016/02/28 07:12:21] <Hume2> OK
+[2016/02/28 07:12:22] <mt> I just wanted to tell you that you'd learn
+[2016/02/28 07:12:54] <Hume2> That's true, you've learned me very much, thanks.
+[2016/02/28 07:16:35] <Tobbi> Hume2: You aren't permitted to say *sigh* in this channel.
+[2016/02/28 07:16:45] <Tobbi> The only one who's allowed to sig is me.
+[2016/02/28 07:16:48] <Hume2> Tobbi: That was sihg!
+[2016/02/28 07:16:52] <Tobbi> *grr*
+[2016/02/28 07:17:00] <Hume2> I knew that.
+[2016/02/28 07:17:43] <Hume2> So I've now run out of the unused levels in world2.
+[2016/02/28 07:18:01] <Hume2> And I think we still need more.
+[2016/02/28 07:18:13] <Hume2> That's no problem for me.
+[2016/02/28 07:18:19] @ lumidify joined channel #supertux
+[2016/02/28 07:19:11] <Tobbi> Hume2: Please, proper levels...some that are designed well.
+[2016/02/28 07:19:26] <Hume2> OK, I'll try.
+[2016/02/28 07:26:21] @ Quit: lumidify: Ping timeout: 268 seconds
+[2016/02/28 07:30:05] <Tobbi> ~lart Tobbi Everybody looks up to tobbi because he is awesome. Also, no one knows how Tobbi looks like, since it's in the 10 tobbi commandments to not create yourself an image of tobbi
+[2016/02/28 07:30:05] * red_bot counts "1, 2, 5... er... 3!" and hurls the Holy Handgrenade Of Antioch at Tobbi Everybody looks up to tobbi because he is awesome. Also, no one knows how Tobbi looks like, since it's in the 10 tobbi commandments to not create yourself an image of tobbi
+[2016/02/28 07:30:16] <Tobbi> haha
+[2016/02/28 07:30:21] <Tobbi> what the...
+[2016/02/28 07:34:51] <Hume2> :D
+[2016/02/28 07:35:57] <mt> so Hume2
+[2016/02/28 07:36:04] <mt> I played the forest branch
+[2016/02/28 07:36:16] <mt> there's this level 'Green Hills'
+[2016/02/28 07:36:19] <Hume2> ~lart mt played the forest branch.
+[2016/02/28 07:36:19] * red_bot fills mt played the forest branch.'s ketchup bottle with Dave's Insanity sauce
+[2016/02/28 07:36:26] <mt> could you make it use the newer water?
+[2016/02/28 07:36:36] <Hume2> Will do.
+[2016/02/28 07:36:53] <mt> also, 'Shocking' and 'Kneep-deep ...' should probably be in Ghost Forest
+[2016/02/28 07:37:29] <mt> generally use the new water
+[2016/02/28 07:37:34] <mt> I think it looks better
+[2016/02/28 07:37:48] <mt> and as long as Tux can't swim
+[2016/02/28 07:37:50] <mt> avoid water
+[2016/02/28 07:41:27] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09forest 13https://git.io/v2aV6
+[2016/02/28 07:41:30] <pentagon> [10supertux] 07Hume2 14a02176e data/levels/world2/green_hills.stl: replace the old water by the new water.
+[2016/02/28 07:43:29] <Hume2> We don't have enough levels to put keys to the ghost forest.
+[2016/02/28 07:44:25] @ Quit: claymore2: Quit: Leaving
+[2016/02/28 07:45:35] <mt> then we need some more
+[2016/02/28 07:46:12] <Hume2> Any idea where to get those levels without the use of t...
+[2016/02/28 07:47:00] <Hume2> ?
+[2016/02/28 07:47:49] <Hume2> If those levels didn't have to be any special, It wouldn't be such problem.
+[2016/02/28 07:48:32] @ Raphi joined channel #supertux
+[2016/02/28 07:49:00] <Tobbi> Hello Raphi.
+[2016/02/28 07:49:11] <Hume2> Hello Raphi.
+[2016/02/28 07:49:28] @ alket_ joined channel #supertux
+[2016/02/28 07:49:57] <Hume2> s/Hello/Hello,/
+[2016/02/28 07:49:57] <red_bot> Hume2 meant: "Hello, Raphi."
+[2016/02/28 07:50:27] @ Quit: alket: Ping timeout: 260 seconds
+[2016/02/28 07:50:51] <Hume2> Creating normal levels (without t...) isn't so bad.
+[2016/02/28 07:51:06] <Tobbi> Oh.
+[2016/02/28 07:51:16] <Tobbi> Raphi: Bonjour, monsieur!
+[2016/02/28 07:51:25] <Tobbi> I guess that's better.
+[2016/02/28 07:51:46] <Hume2> Do you know what is t... ? :D
+[2016/02/28 07:51:52] <Tobbi> Hume2: What's so bad about transifex?
+[2016/02/28 07:51:53] <Tobbi> Zes.
+[2016/02/28 07:51:54] <Tobbi> Yes
+[2016/02/28 07:52:07] <Hume2> It's not transifex. :D
+[2016/02/28 07:52:15] <Tobbi> eeh, transifex? :D
+[2016/02/28 07:52:17] <Tobbi> I fail.
+[2016/02/28 07:52:21] <Hume2> It's tera...
+[2016/02/28 07:52:33] <Tobbi> Ah.
+[2016/02/28 07:52:38] <Tobbi> Hume2: But that algorithm is great.
+[2016/02/28 07:52:40] @ Quit: pentagon: Ping timeout: 264 seconds
+[2016/02/28 07:52:44] <Tobbi> We just need to incorporate it.
+[2016/02/28 07:52:50] @ pentagon` joined channel #supertux
+[2016/02/28 07:52:56] @ Quit: Raphi: Ping timeout: 252 seconds
+[2016/02/28 07:53:02] <Tobbi> See! I told you!
+[2016/02/28 07:53:10] <Tobbi> I told you he's gonna leave.
+[2016/02/28 07:53:12] @ mteufel joined channel #supertux
+[2016/02/28 07:53:12] @ Mode +v mteufel by ChanServ
+[2016/02/28 07:53:23] <Hume2> I thought so.
+[2016/02/28 07:53:31] <Tobbi> Oh, no, the devil is back.
+[2016/02/28 07:53:43] <Tobbi> mteufel: Have you ever been bullied about your last name, by the way?
+[2016/02/28 07:53:47] <Tobbi> I can assume so.
+[2016/02/28 07:53:52] @ Quit: sydney_untangle: Ping timeout: 264 seconds
+[2016/02/28 07:54:14] <mteufel> nope
+[2016/02/28 07:54:18] @ mt is now known as Guest75643
+[2016/02/28 07:54:19] @ Quit: Guest75643: Killed (leguin.freenode.net (Nickname regained by services))
+[2016/02/28 07:54:19] @ mteufel is now known as mt
+[2016/02/28 07:55:02] <Tobbi> mt: Oh, great.
+[2016/02/28 07:55:30] <Hume2> Tobbi: Was it sometimes recently?
+[2016/02/28 07:55:43] <Tobbi> Hume2: What do you mean?
+[2016/02/28 07:56:12] <Hume2> That bullying, if I can ask so.
+[2016/02/28 07:57:07] <Tobbi> Hume2: I got bullied some time ago, yes.
+[2016/02/28 07:57:13] <Tobbi> But not anymore. We're all grown ups.
+[2016/02/28 07:57:23] <Tobbi> But in school, sure.
+[2016/02/28 07:57:42] <Hume2> At least not now.
+[2016/02/28 07:58:15] <Tobbi> Hume2: Are you bullied? You'll notice that at some point you won't be anymore.
+[2016/02/28 07:58:37] <Hume2> No, I'm not bullied anymore as well.
+[2016/02/28 07:58:46] <Tobbi> good
+[2016/02/28 07:59:02] <Tobbi> Hume2: But what you mentioned regarding speaking too loudly sometimes: I notice that myself as well.
+[2016/02/28 07:59:44] <Hume2> It's that I speak loud without knowing that.
+[2016/02/28 08:00:00] <Tobbi> Hume2: Same here.
