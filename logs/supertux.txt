@@ -11460,3 +11460,28 @@
 [2016/02/28 13:06:32] @ Quit: jesusalva_bot: Disconnected by services
 [2016/02/28 13:47:23] @ claymore2 joined channel #supertux
 [2016/02/28 13:49:49] @ lumidify joined channel #supertux
+[2016/02/28 14:13:54] @ Quit: lumidify: Ping timeout: 276 seconds
+[2016/02/28 14:31:34] @ Quit: mt: Ping timeout: 260 seconds
+[2016/02/28 14:33:41] @ mt joined channel #supertux
+[2016/02/28 14:33:41] @ Mode +v mt by ChanServ
+[2016/02/28 14:34:19] @ Quit: claymore2: Ping timeout: 268 seconds
+[2016/02/28 14:37:18] @ claymore2 joined channel #supertux
+[2016/02/28 14:52:21] <sydney_untangle> Tobbi: And that is why you are getting no chocolate, amazon has upped their free shipping minimum. :D
+[2016/02/28 14:53:25] <sydney_untangle> Heh.
+[2016/02/28 14:54:12] @ Quit: Hume2: Ping timeout: 244 seconds
+[2016/02/28 14:56:57] <pentagon> [10supertux] 07bartbart2003 starred 09supertux - 13https://git.io/vBKfT
+[2016/02/28 14:59:41] @ Quit: pentagon: Read error: Connection reset by peer
+[2016/02/28 14:59:47] @ pentagon` joined channel #supertux
+[2016/02/28 15:03:20] @ Hume2 joined channel #supertux
+[2016/02/28 15:03:20] @ Mode +v Hume2 by ChanServ
+[2016/02/28 15:03:57] @ Quit: alket: Ping timeout: 276 seconds
+[2016/02/28 15:04:51] @ alket joined channel #supertux
+[2016/02/28 15:14:54] @ lumidify joined channel #supertux
+[2016/02/28 15:14:54] @ Quit: lumidify: Changing host
+[2016/02/28 15:14:54] @ lumidify joined channel #supertux
+[2016/02/28 15:23:40] @ tux|dude joined channel #supertux
+[2016/02/28 15:24:46] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/28 15:34:40] @ Quit: tux|dude: Quit: Leaving
+[2016/02/28 15:36:13] @ irungentoo joined channel #supertux
+[2016/02/28 15:38:41] @ Quit: lumidify: Quit: Leaving
+[2016/02/28 15:46:00] @ tux|dude joined channel #supertux
