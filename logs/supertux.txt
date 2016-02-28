@@ -11155,3 +11155,54 @@
 [2016/02/28 02:25:01] @ Quit: tuxdev_: Ping timeout: 244 seconds
 [2016/02/28 02:34:01] @ datahead8888 joined channel #supertux
 [2016/02/28 03:08:08] @ kyberkits is now known as gynter
+[2016/02/28 04:12:32] @ Hume2 joined channel #supertux
+[2016/02/28 04:12:33] @ Mode +v Hume2 by ChanServ
+[2016/02/28 04:12:41] <Hume2> Hello
+[2016/02/28 04:33:41] @ Quit: polyphagia: Ping timeout: 244 seconds
+[2016/02/28 04:48:20] @ polyphagia joined channel #supertux
+[2016/02/28 05:07:48] @ Quit: alket: Changing host
+[2016/02/28 05:07:49] @ alket joined channel #supertux
+[2016/02/28 05:09:31] <pentagon> [10supertux] 07brmbrmcar commented on issue 09#362: Bug with moving tilemaps 13https://git.io/vg8HR
+[2016/02/28 05:10:40] <pentagon> [10supertux] 07Hume2 commented on issue 09#362: Bug with moving tilemaps 13https://git.io/vg8HR
+[2016/02/28 05:12:24] <pentagon> [10supertux] 07brmbrmcar commented on issue 09#362: Bug with moving tilemaps 13https://git.io/vg8HR
+[2016/02/28 05:13:57] <brmbrmcar> That's Shoe comeback 5 done...
+[2016/02/28 05:14:22] <Hume2> :D
+[2016/02/28 05:15:35] <brmbrmcar> I don't know when t stop
+[2016/02/28 05:19:34] <mt> brmbrmcar: drop the shoe bullshit. now.
+[2016/02/28 05:23:01] @ Quit: tux|dude: Read error: Connection reset by peer
+[2016/02/28 05:24:42] @ brmbrmcar left channel #supertux ("For god's sake.")
+[2016/02/28 05:26:15] <Tobbi> hmm...
+[2016/02/28 05:26:17] <Tobbi> wow, mt is using swearwords.
+[2016/02/28 05:26:55] <mt> should I rather /kick everyone?
+[2016/02/28 05:27:05] <Tobbi> That looks like the fucking shit I often use when I am angry.
+[2016/02/28 05:27:08] <Tobbi> mt: Also, why everyone?
+[2016/02/28 05:27:21] <mt> you know what I mean
+[2016/02/28 05:27:22] <mt> t
+[2016/02/28 05:27:41] <Tobbi> Yes.
+[2016/02/28 05:28:04] <Tobbi> mt: I am not sure but I think brmbrmcar is slightly autistic.
+[2016/02/28 05:28:13] <Tobbi> That's why he uses so many strange things.
+[2016/02/28 05:29:03] <mt> What you assume is irrelevant
+[2016/02/28 05:29:33] <Tobbi> mt: Woow, we're in a rather bad mood today, aren't we?
+[2016/02/28 05:29:37] <mt> And I'd rather not judge people by neuroatypicality or disability
+[2016/02/28 05:29:55] <Tobbi> mt: Any reason for you being in a bad mood?
+[2016/02/28 05:30:08] <mt> I'm not being in a bad mood at all :)
+[2016/02/28 05:30:27] <Tobbi> Ah, okay.
+[2016/02/28 05:30:38] <Tobbi> So, maybe you should get into a bad mood, so you'll calm down? I am not sure :P
+[2016/02/28 05:31:30] <Tobbi> mt: Thing is: I've learned to accept brmbrmcar like he is, he's sometimes annoying, but this is not a very frequented channel, so I am okay with that for now.
+[2016/02/28 05:52:53] <Tobbi> Hume2: ping
+[2016/02/28 05:53:08] <Hume2> Tobbi: pong
+[2016/02/28 05:53:23] <Tobbi> Hume2: Can you release nightly builds of the editor branch?
+[2016/02/28 05:53:28] <Tobbi> Or at least regular development builds?
+[2016/02/28 05:53:34] <Tobbi> Someone has been asking for it on the forums.
+[2016/02/28 05:53:57] <Tobbi> http://forum.freegamedev.net/viewtopic.php?f=67&t=6533#p67711
+[2016/02/28 05:54:10] <Tobbi> Okay, he's been asking about updates, but I figured we might as well let him check it out.
+[2016/02/28 05:54:27] <Hume2> I don't know anything about the nightly builds.
+[2016/02/28 05:54:44] <Tobbi> :D
+[2016/02/28 05:54:53] <Tobbi> Hume2: Okay, we might as well tell him to compile it himself.
+[2016/02/28 05:54:53] <mt> building for Linux is a pain
+[2016/02/28 05:55:05] <Tobbi> mt: Why?
+[2016/02/28 05:55:06] <mt> if you want to make it compatible with everything
+[2016/02/28 05:55:11] <Tobbi> ah, yes.
+[2016/02/28 05:55:18] <mt> because every distro ships different versions of libraries
+[2016/02/28 05:55:23] <Tobbi> I guess we should tell him to compile it himself.
+[2016/02/28 05:55:30] <mt> you'd have to link the entire OS statically
