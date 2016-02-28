@@ -11152,3 +11152,6 @@
 [2016/02/28 00:38:49] @ Quit: bb010g: Quit: Connection closed for inactivity
 [2016/02/28 00:45:56] @ mteufel is now known as mt
 [2016/02/28 01:46:23] @ Quit: datahead8888: Quit: Leaving
+[2016/02/28 02:25:01] @ Quit: tuxdev_: Ping timeout: 244 seconds
+[2016/02/28 02:34:01] @ datahead8888 joined channel #supertux
+[2016/02/28 03:08:08] @ kyberkits is now known as gynter
