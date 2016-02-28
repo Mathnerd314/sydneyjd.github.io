@@ -11132,3 +11132,23 @@
 [2016/02/27 19:21:32] <sydney_untangle> Tobbi: The weather over here has not helped our internet much either.
 [2016/02/27 20:06:39] @ paroneayea joined channel #supertux
 [2016/02/27 20:10:26] @ Quit: tuxdev_: Ping timeout: 244 seconds
+[2016/02/27 22:12:58] @ bb010g joined channel #supertux
+[2016/02/27 22:24:18] @ Quit: bb010g: Ping timeout: 268 seconds
+[2016/02/27 22:27:25] @ bb010g joined channel #supertux
+[2016/02/27 22:39:47] @ Quit: datahead8888: Read error: Connection reset by peer
+[2016/02/27 22:43:25] @ datahead8888 joined channel #supertux
+[2016/02/27 22:47:45] @ Quit: bb010g: Ping timeout: 268 seconds
+[2016/02/27 22:53:26] @ bb010g joined channel #supertux
+[2016/02/27 23:13:24] @ Quit: xnrand: Ping timeout: 260 seconds
+[2016/02/27 23:16:03] @ xnrand joined channel #supertux
+[2016/02/27 23:16:11] @ Quit: bb010g: Ping timeout: 268 seconds
+[2016/02/27 23:19:51] @ bb010g joined channel #supertux
+[2016/02/27 23:37:04] @ Quit: bb010g: Ping timeout: 268 seconds
+[2016/02/27 23:42:27] @ bb010g joined channel #supertux
+[2016/02/28 00:14:06] @ Quit: irungentoo: Ping timeout: 276 seconds
+[2016/02/28 00:23:44] @ tuxdev_ joined channel #supertux
+[2016/02/28 00:28:53] @ Quit: datahead8888: Ping timeout: 268 seconds
+[2016/02/28 00:36:30] @ datahead8888 joined channel #supertux
+[2016/02/28 00:38:49] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/02/28 00:45:56] @ mteufel is now known as mt
+[2016/02/28 01:46:23] @ Quit: datahead8888: Quit: Leaving
