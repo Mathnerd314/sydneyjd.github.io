@@ -11404,3 +11404,59 @@
 [2016/02/28 11:43:09] @ Quit: claymore2: Quit: Leaving
 [2016/02/28 11:49:20] <pentagon> [10supertux] 07tobbi commented on issue 09#330: Suggestion: Use static class for sprite / media filenames 13https://git.io/v2a71
 [2016/02/28 11:49:22] <pentagon> [10supertux] 07tobbi closed issue 09#330: Suggestion: Use static class for sprite / media filenames 13https://git.io/v2a71
+[2016/02/28 12:19:11] @ Quit: Hume2: Ping timeout: 244 seconds
+[2016/02/28 12:21:38] <Tobbi> I hate phoning other people.
+[2016/02/28 12:21:43] <Tobbi> HATE HATE HATE
+[2016/02/28 12:23:02] @ Hume2 joined channel #supertux
+[2016/02/28 12:23:03] @ Mode +v Hume2 by ChanServ
+[2016/02/28 12:23:27] <Tobbi> Hume2: Do you know telephoning phobia? tbh, I hate talking to other people over the phone.
+[2016/02/28 12:24:24] <Hume2> Tobbi: No, I don't know it.
+[2016/02/28 12:24:37] <Tobbi> Hume2: Alright. Still, I do have this slightly...
+[2016/02/28 12:25:08] <Hume2> I believe that this may exist.
+[2016/02/28 12:25:58] <Tobbi> Hume2: Is sociophobia.
+[2016/02/28 12:26:05] <Tobbi> *It's.
+[2016/02/28 12:26:09] <Tobbi> I'm sociophobe.
+[2016/02/28 12:26:19] <mt> https://en.wikipedia.org/wiki/Telephone_phobia
+[2016/02/28 12:26:42] <Tobbi> mt: Depends on who I talk to.
+[2016/02/28 12:26:50] <Tobbi> But, yes.
+[2016/02/28 12:29:05] <Tobbi> It's actually fear that these people think bad of me.
+[2016/02/28 12:32:34] @ Quit: lumidify: Ping timeout: 260 seconds
+[2016/02/28 12:41:55] <Hume2> When I hear about a disease, I usually start to think that I have it. :D
+[2016/02/28 12:42:10] <Tobbi> Hume2: haha, I can so sympathize.
+[2016/02/28 12:49:22] <mt> okay then
+[2016/02/28 12:49:29] <mt> do you know what gephyrophobia is?
+[2016/02/28 12:49:57] <mt> maybe you'll start to think you have it
+[2016/02/28 12:52:22] <Tobbi> mt: I do have it. But it's a general fear of heights.
+[2016/02/28 12:52:23] <Tobbi> :D
+[2016/02/28 12:53:31] <Tobbi> mt: Sometimes I think you only *act* as a Moralapostel, but are not necessarily one yourself. :) You're just trying, but not trying hard enough.
+[2016/02/28 12:53:32] <Tobbi> :D
+[2016/02/28 12:54:03] <Tobbi> anyway, bbl.
+[2016/02/28 12:54:13] <mt> if I tried to enforce certain rules here
+[2016/02/28 12:54:20] @ jesusalva_bot joined channel #supertux
+[2016/02/28 12:54:20] <mt> most people would've been kickbanned by now
+[2016/02/28 12:54:51] <Tobbi> mt: And luckily, it's not up to you to enforce those rules.
+[2016/02/28 12:55:04] @ jesusalva joined channel #supertux
+[2016/02/28 12:55:05] <Tobbi> mt: Why does it need to be you who enforces the rules?
+[2016/02/28 12:55:32] <mt> feel free to enforce the
+[2016/02/28 12:55:34] <mt> m
+[2016/02/28 12:55:52] <Tobbi> mt: I don't intend to. I am just wondering what you gain from enforcing the rules?
+[2016/02/28 12:55:59] <Tobbi> Security? :P
+[2016/02/28 12:56:13] <mt> security?
+[2016/02/28 12:56:21] <mt> how would this be secure?
+[2016/02/28 12:56:28] @ jesusalva left channel #supertux ()
+[2016/02/28 12:56:35] <Tobbi> mt: Sometimes I feel like you're feeling insecure.
+[2016/02/28 12:56:37] <mt> a friendlier environment for everyone
+[2016/02/28 12:56:46] <Tobbi> And that enforcing rules gives you personal security.
+[2016/02/28 12:56:58] <Tobbi> s/feel like/think that
+[2016/02/28 12:57:00] <Tobbi> s/feel like/think that/
+[2016/02/28 12:57:00] <red_bot> Tobbi meant: "s/think that/think that"
+[2016/02/28 12:57:06] <Tobbi> eh, whatever.
+[2016/02/28 12:57:19] <mt> Again, what you assume is irrelevant
+[2016/02/28 12:57:43] <Tobbi> mt: I know :)
+[2016/02/28 12:57:55] <Tobbi> mt: As I said, I am just making mental models of the people around me.
+[2016/02/28 12:58:02] <Tobbi> Or actually, I never said that. I do.
+[2016/02/28 12:58:23] <Tobbi> Analyzing the people around me is interesting.
+[2016/02/28 12:58:27] <Tobbi> even if they're only online.
+[2016/02/28 13:06:32] @ Quit: jesusalva_bot: Disconnected by services
+[2016/02/28 13:47:23] @ claymore2 joined channel #supertux
+[2016/02/28 13:49:49] @ lumidify joined channel #supertux
