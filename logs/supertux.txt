@@ -11101,3 +11101,32 @@
 [2016/02/27 17:58:48] @ Mode +v Tobbi_ by ChanServ
 [2016/02/27 17:59:28] @ Quit: Tobbi: Quit: ZNC - http://znc.in
 [2016/02/27 17:59:28] @ Tobbi_ is now known as Tobbi
+[2016/02/27 18:01:13] @ Xjs|moonshine joined channel #supertux
+[2016/02/27 18:01:14] <Tobbi> ffs
+[2016/02/27 18:02:13] @ Quit: Vorpal: Ping timeout: 268 seconds
+[2016/02/27 18:03:28] @ Quit: Tobbi: Client Quit
+[2016/02/27 18:03:49] @ Tobbi joined channel #supertux
+[2016/02/27 18:03:49] @ Mode +v Tobbi by ChanServ
+[2016/02/27 18:05:09] <Tobbi> I am fairly annoyed.
+[2016/02/27 18:05:18] @ Vorpal joined channel #supertux
+[2016/02/27 18:06:32] @ Quit: leper`: Ping timeout: 268 seconds
+[2016/02/27 18:09:27] @ Quit: Tobbi: Quit: ZNC - http://znc.in
+[2016/02/27 18:10:09] @ Tobbi joined channel #supertux
+[2016/02/27 18:10:09] @ Mode +v Tobbi by ChanServ
+[2016/02/27 18:13:19] @ Quit: tomreyn: Ping timeout: 268 seconds
+[2016/02/27 18:15:09] <Tobbi> Is anyone else having connection issues or am I the only one?
+[2016/02/27 18:18:34] @ tomreyn joined channel #supertux
+[2016/02/27 18:18:38] @ Quit: tomreyn: Changing host
+[2016/02/27 18:18:38] @ tomreyn joined channel #supertux
+[2016/02/27 18:21:32] @ sydney_untangle joined channel #supertux
+[2016/02/27 18:21:32] @ Mode +v sydney_untangle by ChanServ
+[2016/02/27 18:22:16] <Tobbi> hmm...
+[2016/02/27 18:22:24] <Tobbi> sydney_untangle: Did you quit recently?
+[2016/02/27 18:22:33] <Tobbi> Because normally you're always on...
+[2016/02/27 18:22:39] <Tobbi> Might be a network problem.
+[2016/02/27 18:29:05] @ leper` joined channel #supertux
+[2016/02/27 18:35:28] @ Quit: xnrand: Quit: ರ_ರ
+[2016/02/27 18:36:04] @ xnrand joined channel #supertux
+[2016/02/27 18:44:37] @ irungentoo joined channel #supertux
+[2016/02/27 19:20:57] <sydney_untangle> Tobbi: Network issues. Well, actually a netsplit.
+[2016/02/27 19:21:32] <sydney_untangle> Tobbi: The weather over here has not helped our internet much either.
