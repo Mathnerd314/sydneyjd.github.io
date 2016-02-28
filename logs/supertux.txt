@@ -11374,3 +11374,33 @@
 [2016/02/28 09:55:33] @ alket_ is now known as alket
 [2016/02/28 09:55:43] @ Quit: alket: Changing host
 [2016/02/28 09:55:43] @ alket joined channel #supertux
+[2016/02/28 10:02:22] @ Quit: pentagon`: Remote host closed the connection
+[2016/02/28 10:02:40] @ Karkus joined channel #supertux
+[2016/02/28 10:02:40] @ Mode +v Karkus by ChanServ
+[2016/02/28 10:02:41] @ Quit: Karkus: Remote host closed the connection
+[2016/02/28 10:02:58] @ pentagon joined channel #supertux
+[2016/02/28 10:05:56] @ lumidify joined channel #supertux
+[2016/02/28 10:05:56] @ Quit: lumidify: Changing host
+[2016/02/28 10:05:56] @ lumidify joined channel #supertux
+[2016/02/28 10:13:18] @ tuxdev_ joined channel #supertux
+[2016/02/28 10:54:13] <pentagon> [10supertux] 07brmbrmcar commented on issue 09#362: Bug with moving tilemaps 13https://git.io/vg8HR
+[2016/02/28 10:57:17] <pentagon> [10supertux] 07Hume2 commented on issue 09#362: Bug with moving tilemaps 13https://git.io/vg8HR
+[2016/02/28 11:00:28] @ claymore2 joined channel #supertux
+[2016/02/28 11:18:57] <Hume2> [supertux] Hume2 commented on issue #666: Delete all silly bug reports https://git.io/brmbr
+[2016/02/28 11:20:27] <mt> Hume2: y u no colors
+[2016/02/28 11:25:36] <Tobbi> mt: y u no British spelling of "colours"?
+[2016/02/28 11:27:13] <mt> colou?rs
+[2016/02/28 11:27:17] <mt> is that better?
+[2016/02/28 11:27:32] <Tobbi> mt: y u no proper regex?
+[2016/02/28 11:27:33] <Tobbi> :D
+[2016/02/28 11:27:54] <mt> how is that not proper?
+[2016/02/28 11:28:09] <Tobbi> mt: Missing the beginning and end / :O
+[2016/02/28 11:28:10] <Tobbi> :P
+[2016/02/28 11:28:26] <Tobbi> I'm not the one who started nitpicking, just let me remind you :D
+[2016/02/28 11:29:24] <mt> there's no specification that, when regexes are used in human languages, the / must exist
+[2016/02/28 11:30:09] <Tobbi> mt: There's no specification regarding regular expressions in human languages, thus, our discourse regarding it is most likely false.
+[2016/02/28 11:31:17] <mt> and as useless as most discussions in here
+[2016/02/28 11:32:25] <Tobbi> mt: But at least you're participating, which means that, when you make remarks regarding its uselessness, you're actually also including a misbehaviour on your side into that.
+[2016/02/28 11:43:09] @ Quit: claymore2: Quit: Leaving
+[2016/02/28 11:49:20] <pentagon> [10supertux] 07tobbi commented on issue 09#330: Suggestion: Use static class for sprite / media filenames 13https://git.io/v2a71
+[2016/02/28 11:49:22] <pentagon> [10supertux] 07tobbi closed issue 09#330: Suggestion: Use static class for sprite / media filenames 13https://git.io/v2a71
