@@ -11130,3 +11130,5 @@
 [2016/02/27 18:44:37] @ irungentoo joined channel #supertux
 [2016/02/27 19:20:57] <sydney_untangle> Tobbi: Network issues. Well, actually a netsplit.
 [2016/02/27 19:21:32] <sydney_untangle> Tobbi: The weather over here has not helped our internet much either.
+[2016/02/27 20:06:39] @ paroneayea joined channel #supertux
+[2016/02/27 20:10:26] @ Quit: tuxdev_: Ping timeout: 244 seconds
