@@ -11534,3 +11534,8 @@
 [2016/02/28 23:42:00] @ Quit: irungentoo: Ping timeout: 276 seconds
 [2016/02/29 01:22:03] <pentagon`> [10supertux] 07Hume2 commented on issue 09#370: Add ISSUE_TEMPLATE file 13https://git.io/v2VB5
 [2016/02/29 01:38:35] @ lumidify joined channel #supertux
+[2016/02/29 02:45:59] @ Quit: lumidify: Ping timeout: 260 seconds
+[2016/02/29 02:46:25] <pentagon`> [10supertux] 07brmbrmcar commented on issue 09#370: Add ISSUE_TEMPLATE file 13https://git.io/v2VB5
+[2016/02/29 03:06:34] @ datahead8888_ joined channel #supertux
+[2016/02/29 03:10:21] @ Quit: datahead7777: Ping timeout: 268 seconds
+[2016/02/29 03:20:03] @ Quit: tuxdev_: Ping timeout: 246 seconds
