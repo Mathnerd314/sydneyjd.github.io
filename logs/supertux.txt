@@ -11628,3 +11628,273 @@
 [2016/02/29 09:54:15] <sydney_untangle> Tobbi: Interesting blog post, and i do agree with you, but i'm not going to stop supporting mozilla for those reasons. :)
 [2016/02/29 09:54:55] <sydney_untangle> Sure, they may not be doing everything perfect to everyones specs, but its the only real browser out there that still respects the user.
 [2016/02/29 09:57:05] <sydney_untangle> THen again, who can please everyone? Nobody.
+[2016/02/29 10:01:18] @ Hume2 joined channel #supertux
+[2016/02/29 10:01:18] @ Mode +v Hume2 by ChanServ
+[2016/02/29 10:01:25] <Hume2> Hello
+[2016/02/29 10:04:29] <sydney_untangle> Hume2: Welcome.
+[2016/02/29 10:15:09] <Tobbi> sydney_untangle: I still support them by using a nightly build.
+[2016/02/29 10:16:49] <Tobbi> but not as an active member in their community.
+[2016/02/29 10:17:17] <Tobbi> Hume2: Only a few hours before the GSoC orgs are announced :)
+[2016/02/29 10:17:22] <Tobbi> Let's see if we made it.
+[2016/02/29 10:17:31] <Hume2> I'm thrilled.
+[2016/02/29 10:17:41] <Tobbi> I'm a little excited as well.
+[2016/02/29 10:18:36] <Hume2> Anyway do you know what the shortcut "GSoC" resembles me?
+[2016/02/29 10:18:46] <Tobbi> Hume2: Hopefully, in case we get accepted, there will always be enough people around.
+[2016/02/29 10:18:50] <Tobbi> Hume2: what?
+[2016/02/29 10:19:07] <Hume2> Like Google - SoC.
+[2016/02/29 10:19:12] <Hume2> You know, socialism.
+[2016/02/29 10:19:12] <Tobbi> Ah.
+[2016/02/29 10:21:02] <Tobbi> Hume2: Do we have enough people to cover this? What if people drop by on IRC and no one from the team is present?
+[2016/02/29 10:22:00] <Hume2> Tobbi: I've just seen the Bernd das Brot episode with that Bernd-bot.
+[2016/02/29 10:22:09] <Tobbi> Hume2: which one?
+[2016/02/29 10:22:22] <Hume2> Series 1, episode 17.
+[2016/02/29 10:22:49] <Hume2> Maybe this could help :D
+[2016/02/29 10:22:59] <Hume2> And now seriously.
+[2016/02/29 10:24:37] <Hume2> Do we have to be connected all the time?
+[2016/02/29 10:25:04] <Tobbi> Hume2: Don't think so, but we should add to the topic that people can mail at supertuxteam@ if they want.
+[2016/02/29 10:25:17] <Hume2> Yes, we can.
+[2016/02/29 10:26:20] <Tobbi> Hume2: You cannot receive mail to that, can you?
+[2016/02/29 10:26:54] <Hume2> I can, someone gave me access.
+[2016/02/29 10:26:57] <Tobbi> Ah, okay.
+[2016/02/29 10:27:07] <Hume2> Actually, I don't specate it much.
+[2016/02/29 10:27:18] <Tobbi> Hume2: But still, it's fine.
+[2016/02/29 10:27:42] <Tobbi> sydney_untangle: Actually, everyone is getting all the mail sent to that address right?
+[2016/02/29 10:32:38] <pentagon`> [10supertux] 07Hume2 04force-pushed 9 commits to 09forest 13https://git.io/v2rmS
+[2016/02/29 10:32:41] <pentagon`> [10supertux] 07Hume2 14963bdbe Combined two main worldmaps
+[2016/02/29 10:32:44] <pentagon`> [10supertux] 07Hume2 148167a29 Deleted levels from data/levels/world2 without any perspective
+[2016/02/29 10:32:47] <pentagon`> [10supertux] 07Hume2 147037dc7 Reorganized forest worldmap
+[2016/02/29 10:32:50] <pentagon`> [10supertux] 07Hume2 1421e78c4 Redesigned data/levels/world2/level6.stl
+[2016/02/29 10:32:52] <Hume2> ~seen Karkus
+[2016/02/29 10:32:52] <red_bot> Hume2: Karkus was last seen 1 day, 30 minutes and 10 seconds ago, quitting IRC (Remote host closed the connection)
+[2016/02/29 10:32:53] <pentagon`> [10supertux] 07Hume2 14cf69485 Updated data/levels/world2/
+[2016/02/29 10:32:56] <pentagon`> [10supertux] 07Hume2 1491bf669 data/levels/world2/light+magic.stl: change theme to ghost forest
+[2016/02/29 10:32:59] <pentagon`> [10supertux] 07Hume2 147747c59 data/levels/world2/level5.stl: restaurate the level
+[2016/02/29 10:33:02] <pentagon`> [10supertux] 07Hume2 149f1e9bd data/levels/world2: update worldmap
+[2016/02/29 10:33:05] <pentagon`> [10supertux] 07Hume2 140bda890 data/levels/world2/green_hills.stl: replace the old water by the new water.
+[2016/02/29 10:33:27] <Tobbi> What?
+[2016/02/29 10:33:33] <Tobbi> I haven't seen him yesterday.
+[2016/02/29 10:33:48] <Hume2> He joined and quit.
+[2016/02/29 10:33:56] <Hume2> Without saying anything.
+[2016/02/29 10:34:00] <Tobbi> ah ok.
+[2016/02/29 10:34:05] <Tobbi> So, he's probably busy.
+[2016/02/29 10:34:21] <Hume2> Apparently yes.
+[2016/02/29 10:35:57] <Hume2> I've once seen a screenshot of IQ test with note: "IQ 124, That way I'm not the stupid one there."
+[2016/02/29 10:36:06] <Hume2> :D
+[2016/02/29 10:38:11] <sydney_untangle> Tobbi: What?
+[2016/02/29 10:38:40] <Tobbi> sydney_untangle: What I mean is: Does everyone who has access to supertuxteam@ via IMAP get the same messages?
+[2016/02/29 10:38:49] <sydney_untangle> Tobbi: Nobody gets the mail sent to the openmailbox address except the person who logs into that email account and looks at it.
+[2016/02/29 10:38:53] <Tobbi> Ah.
+[2016/02/29 10:39:02] <Tobbi> sydney_untangle: Because I have it connected via IMAP in TB
+[2016/02/29 10:39:15] <sydney_untangle> :-)
+[2016/02/29 10:40:45] <Tobbi> sydney_untangle, Hume2: I'm uploading a video of SmartTiles™ in action right now :P
+[2016/02/29 10:41:12] <sydney_untangle> heh.
+[2016/02/29 10:41:17] <Hume2> Smart tiles?
+[2016/02/29 10:41:30] <Hume2> Do you mean bonus blocks etc?
+[2016/02/29 10:41:39] <Tobbi> Hume2, sydney_untangle: http://screencast.com/t/VDiqRy0wvik
+[2016/02/29 10:41:40] <Tobbi> :D
+[2016/02/29 10:41:50] <sydney_untangle> Tobbi: I also have the supertuxteam email account set up in my TB instalation.
+[2016/02/29 10:42:06] <Tobbi> Hume2: No, instead of tiles, you select the relevant object.
+[2016/02/29 10:42:41] <sydney_untangle> Tobbi: When was our last twitter post? You could do a post about your smart tiles.
+[2016/02/29 10:42:46] <Tobbi> sydney_untangle: No, it's a development feature.
+[2016/02/29 10:42:58] <Tobbi> It's not by any means complete.
+[2016/02/29 10:43:04] <sydney_untangle> Or something...
+[2016/02/29 10:43:18] <sydney_untangle> When was our last twitter post?
+[2016/02/29 10:43:41] <Tobbi> sydney_untangle: I'd rather do the GSoC post.
+[2016/02/29 10:43:48] <Tobbi> idk, probably about the meeting.
+[2016/02/29 10:43:49] <Hume2> Tobbi: nice
+[2016/02/29 10:44:08] <sydney_untangle> Tobbi: Looking good.
+[2016/02/29 10:44:10] <Tobbi> sydney_untangle: Anyway, what I mean is: When you view messages, they don't get deleted / downloaded from the inbox, aka I can read them too right?
+[2016/02/29 10:45:29] <Tobbi> sydney_untangle: Our last post was 20 days ago.
+[2016/02/29 10:45:53] <sydney_untangle> Tobbi: The inbox is synced, nothing gets deleted unless you delete it specifically, but if you view an email than it shows that you viewed it, if i said that correctly...
+[2016/02/29 10:46:30] <Tobbi> sydney_untangle: Okay, makes sense.
+[2016/02/29 10:46:32] <Tobbi> So, this is good.
+[2016/02/29 10:46:47] <Tobbi> sydney_untangle: Does mt have access to that e-mail account?
+[2016/02/29 10:46:56] <Tobbi> If not, you should give him access.
+[2016/02/29 10:47:22] <Tobbi> Hume2: Anyway, next order of business is making the stuff resizable.
+[2016/02/29 10:47:31] <Tobbi> Aka, that you can create smaller and bigger trees.
+[2016/02/29 10:47:38] <Hume2> Yeah.
+[2016/02/29 10:47:52] <Tobbi> Problem is: how do I store this data-structure wise?
+[2016/02/29 10:48:10] <Tobbi> Currently, it's in a CSV file, but CSV is difficult to store these kind of things.
+[2016/02/29 10:48:21] <Tobbi> You know: Some tile IDs can be repeated.
+[2016/02/29 10:49:52] <sydney_untangle> Tobbi: mt should have access, if not he can PM me and i can give him the log in info.
+[2016/02/29 10:49:58] <Tobbi> Alright.
+[2016/02/29 10:50:39] <Hume2> I'm not sure, Tobbi. Lisp wouldn't be any better AFAIK.
+[2016/02/29 10:50:50] <Tobbi> Hume2: Hmm, okay...
+[2016/02/29 10:51:09] <Tobbi> I could have a special marker regarding which tiles can be repeated.
+[2016/02/29 10:51:16] <Tobbi> Aka, special format string.
+[2016/02/29 10:51:30] <Hume2> I have just thought something.
+[2016/02/29 10:51:41] <Tobbi> yes?
+[2016/02/29 10:51:52] @ lumidify joined channel #supertux
+[2016/02/29 10:51:52] @ Quit: lumidify: Changing host
+[2016/02/29 10:51:52] @ lumidify joined channel #supertux
+[2016/02/29 10:52:23] <Hume2> Maybe make 9 tables for miscelaneous stuff.
+[2016/02/29 10:52:38] <Hume2> 1) The tiles those are in the top left corner.
+[2016/02/29 10:53:02] <Hume2> 2) Top edge period, must be the same height as the (1).
+[2016/02/29 10:53:29] <Hume2> 3) The tiles those are in the top right corner, must be the same height as (1).
+[2016/02/29 10:53:49] <Hume2> 4) Left edge period, must be same width as (1).
+[2016/02/29 10:54:00] <Hume2> 5) Middle period
+[2016/02/29 10:54:17] <Hume2> 6) Right edge period, must be the same width as (3).
+[2016/02/29 10:54:44] <Hume2> 7) The tiles those are in the bottom left corner, must be the same width as (1).
+[2016/02/29 10:55:00] <Hume2> 8) bottom edge period, must be the same height as (7).
+[2016/02/29 10:55:32] <Hume2> 9) The tiles those are in the bottom right corner, must be the same height as (7) ans the same width as (3).
+[2016/02/29 10:56:04] <Hume2> Did you get it, Tobbi?
+[2016/02/29 10:56:11] <Tobbi> It seems complicated.
+[2016/02/29 10:56:44] <Hume2> My thoughts are complicated, that's not new for me :)
+[2016/02/29 10:57:20] <Tobbi> Hume2: Probably a sign of your intelligence. :)
+[2016/02/29 10:57:47] <Hume2> :) 1,3,7 and 9 are just plain unmodifiable sets of tiles.
+[2016/02/29 10:58:12] <Hume2> 4 and 6 can repeat downwards.
+[2016/02/29 10:58:27] <Hume2> 2 and 8 can repeat sidewards.
+[2016/02/29 10:58:32] <Tobbi> I see...
+[2016/02/29 10:58:39] <Tobbi> Hmm, I'd rather have it all in one row or something.
+[2016/02/29 10:58:58] <Tobbi> Hume2: Currently, it looks like this: 10, Right sign,2,2,141
+[2016/02/29 10:59:15] <Tobbi> ID, name, number of tiles x, number of tiles y, start ID
+[2016/02/29 10:59:22] <Tobbi> Currently, only consecutive tiles are supported.
+[2016/02/29 10:59:31] <Hume2> I see.
+[2016/02/29 10:59:32] <Tobbi> but supporting the others shouldn't be too hard.
+[2016/02/29 11:01:34] <Hume2> Maybe there could be a list of IDs, with possibilities like "Tile A, Tile B, (10 tiles, starting by Tile C), Tile D".
+[2016/02/29 11:01:57] <Tobbi> Possibly.
+[2016/02/29 11:01:58] <Hume2> You know, instead of naming all the tiles, it could be shorted.
+[2016/02/29 11:02:22] <Tobbi> What I was thinking is: Maybe I should have sublists...
+[2016/02/29 11:02:46] <Hume2> This could help.
+[2016/02/29 11:03:25] <Hume2> Any idea when the GSoC thing will be known?
+[2016/02/29 11:03:55] <Hume2> I'll make a forest level while waiting.
+[2016/02/29 11:04:10] <Tobbi> Hume2: Today at 8pm my time.
+[2016/02/29 11:04:18] <Tobbi> 7pm GMT
+[2016/02/29 11:04:26] <Tobbi> So, 3 more hours to go.
+[2016/02/29 11:04:37] <Hume2> Yeah, my time is the same.
+[2016/02/29 11:06:48] <Tobbi> Hume2: I'm excited... :D
+[2016/02/29 11:06:59] <Tobbi> I'm already thinking of visiting MV again.
+[2016/02/29 11:07:00] <Tobbi> :D
+[2016/02/29 11:08:09] <mt> did we get accepted for GSoC yet? :D
+[2016/02/29 11:08:17] <mt> (not a serious question)
+[2016/02/29 11:08:37] <Tobbi> mt: *grr*
+[2016/02/29 11:08:55] <mt> sydney_untangle: no I don't have access to that account but I don't need access anyway
+[2016/02/29 11:09:11] <mt> sydney_untangle: if you want, forward a copy to mteufel@urandom.eu.org
+[2016/02/29 11:09:21] <mt> a copy of incoming mail, even
+[2016/02/29 11:09:29] <Tobbi> mt: You know, sometimes it's really hard to know whether you're serious or not...
+[2016/02/29 11:09:53] <Tobbi> One time you're joking, the other time you're mad at us for breaking channel rules.
+[2016/02/29 11:13:03] <Hume2> Tobbi: What is MV?
+[2016/02/29 11:13:10] <Tobbi> Hume2: Mountain View.
+[2016/02/29 11:13:17] <Hume2> OK
+[2016/02/29 11:14:15] <Hume2> If we got accepted, can we afford a spamming party?
+[2016/02/29 11:14:26] <Tobbi> Hume2: spamming party?
+[2016/02/29 11:14:49] <Hume2> Yes, it's that you write nonsense strings like confetti.
+[2016/02/29 11:14:59] <Tobbi> Hume2: We should invite brmbrmcar.
+[2016/02/29 11:15:12] <Hume2> Indeed :P
+[2016/02/29 11:17:48] <Tobbi> Some_Person: You're in a lot of places all at once. I saw you talking on #csharp
+[2016/02/29 11:17:54] <Tobbi> sorry, ##csharp
+[2016/02/29 11:17:56] <mt> brmbrmcar as GSoC mentor
+[2016/02/29 11:18:07] <mt> make SuperTux GSoC GREAT AGAIN
+[2016/02/29 11:18:23] <Tobbi> mt: He'd propose brmbrmtux.
+[2016/02/29 11:18:34] <mt> wait I forgot
+[2016/02/29 11:18:45] <mt> brmbrmcar as brmbrmtux brmbrmmaintainer
+[2016/02/29 11:18:58] <Hume2> :D
+[2016/02/29 11:19:10] <Tobbi> He'd be great as a mentor.
+[2016/02/29 11:19:25] <Tobbi> For some other project, we want to see vanished from Open Source landscape.
+[2016/02/29 11:20:41] <Tobbi> mt: By the way: Did freenode group stuff land already?
+[2016/02/29 11:23:03] <mt> nope
+[2016/02/29 11:23:11] <mt> but you might be able to ask
+[2016/02/29 11:23:16] <mt> in #freenode
+[2016/02/29 11:23:24] <mt> in order to become group contact
+[2016/02/29 11:23:54] <mt> I have a shiny atheme/ cloak now :) (tho, atheme's been a group on freenode for a long time)
+[2016/02/29 11:23:55] <Tobbi> I guess I should just wait.
+[2016/02/29 11:28:12] <mt> well
+[2016/02/29 11:28:25] <Tobbi> fountain
+[2016/02/29 11:28:26] <mt> I've heard from certain people that you can now get project cloaks
+[2016/02/29 11:28:40] <mt> even if you haven't registered before
+[2016/02/29 11:28:56] <mt> you might just want to ask a staffer
+[2016/02/29 11:29:16] <mt> active ones are usually on '/stats p'
+[2016/02/29 11:29:58] <Tobbi> ok
+[2016/02/29 11:32:12] <sydney_untangle> Are our nightlys still maintained/
+[2016/02/29 11:32:17] <sydney_untangle> nightlies*
+[2016/02/29 11:32:21] <Tobbi> sydney_untangle: They're automatic.
+[2016/02/29 11:32:29] <Tobbi> mt: People in #gsoc praise SuperTux :D
+[2016/02/29 11:32:34] <mt> huh?
+[2016/02/29 11:32:40] <mt> maybe I should join there
+[2016/02/29 11:33:08] <sydney_untangle> Tobbi: Oh, ok.
+[2016/02/29 11:33:20] <sydney_untangle> Im not joining #gsoc. :p
+[2016/02/29 11:33:26] <Tobbi> sydney_untangle: why not?
+[2016/02/29 11:33:51] <mt> sydney_untangle: they should be up-to-date
+[2016/02/29 11:33:53] <sydney_untangle> Because im not a part of it, you are.
+[2016/02/29 11:34:04] <mt> OS X and Windows are at 0.4.0.312
+[2016/02/29 11:34:05] <Tobbi> sydney_untangle: Relax, it's just an IRC channel.
+[2016/02/29 11:34:11] <mt> git master is at 0.4.0.313
+[2016/02/29 11:34:23] <mt> sydney_untangle: you're still a valuable part of the project
+[2016/02/29 11:34:25] <Tobbi> Yes, because the build failed.
+[2016/02/29 11:34:28] <Tobbi> Indeed.
+[2016/02/29 11:34:36] <mt> and can represent the project to the outside as well
+[2016/02/29 11:34:40] <sydney_untangle> mt: They look like they are. I wonder where the maintainer went from the IRC channel.
+[2016/02/29 11:34:47] @ Quit: lumidify: Ping timeout: 268 seconds
+[2016/02/29 11:34:58] <sydney_untangle> Ok, i will spy on #gsoc. :p
+[2016/02/29 11:35:03] <mt> maths22 might just be busy
+[2016/02/29 11:35:15] <mt> he was on here a few weeks ago
+[2016/02/29 11:35:19] <sydney_untangle> GOod greif, 350 people.
+[2016/02/29 11:35:25] <Tobbi> mt: same for Karkus.
+[2016/02/29 11:35:26] <Tobbi> I guess.
+[2016/02/29 11:35:27] <sydney_untangle> ~seen maths22
+[2016/02/29 11:35:27] <red_bot> sydney_untangle: maths22 was last seen 5 days, 5 hours, 47 minutes and 2 seconds ago, quitting IRC (Ping timeout: 252 seconds)
+[2016/02/29 11:35:33] <sydney_untangle> Oh.
+[2016/02/29 11:35:41] <mt> sydney_untangle: you know, I'm not maintaining atheme
+[2016/02/29 11:35:45] <Tobbi> mt: I don't think he'd leave us hanging like this.
+[2016/02/29 11:35:48] <sydney_untangle> ~seen Karkus
+[2016/02/29 11:35:48] <red_bot> sydney_untangle: Karkus was last seen 1 day, 1 hour, 33 minutes and 6 seconds ago, quitting IRC (Remote host closed the connection)
+[2016/02/29 11:35:52] <mt> that's the software behind NickServ
+[2016/02/29 11:36:06] <mt> on freenode, there's 217826 registered users
+[2016/02/29 11:36:15] <mt> 350 people is nothing
+[2016/02/29 11:36:28] <sydney_untangle> I know, but it is a larger channel.
+[2016/02/29 11:36:46] <sydney_untangle> mt: If 350 people is nothing then why do we only have 25? :p
+[2016/02/29 11:37:00] <mt> I dunno
+[2016/02/29 11:37:02] <Tobbi> sydney_untangle: Because people don't know there is an IRC channel.
+[2016/02/29 11:37:03] <Tobbi> Probably.
+[2016/02/29 11:37:07] <mt> well, okay 350 is quite large
+[2016/02/29 11:37:08] <Tobbi> And because we're not as known
+[2016/02/29 11:37:20] <mt> but I mean, compared to the 217000 users registered on freenode
+[2016/02/29 11:37:36] <mt> the users I'm kind of responsible for now
+[2016/02/29 11:37:37] <Tobbi> This is a big city right there.
+[2016/02/29 11:38:04] <mt> well, I'm responsible for providing them a nice environment for IRCing
+[2016/02/29 11:40:06] <sydney_untangle> GO_OgLe. :p
+[2016/02/29 11:40:18] <Hume2> :D
+[2016/02/29 11:40:20] <mt> 17:32:28 <+Tobbi> mt: People in #gsoc praise SuperTux :D <-- well, how did they praise it?
+[2016/02/29 11:40:51] <Tobbi> mt: For example: That SuperTux game looks cool :-)
+[2016/02/29 11:41:03] <Hume2> Sometimes I think that Bernd das Brot is about me or Tobbi.
+[2016/02/29 11:41:13] <Tobbi> Hume2: Bernd das Brot is not about me.
+[2016/02/29 11:41:21] <Tobbi> I don't drink flour soup.
+[2016/02/29 11:41:25] <sydney_untangle> Tobbi: Most games look cool...
+[2016/02/29 11:41:38] * sydney_untangle spits at the idea...
+[2016/02/29 11:41:39] <mt> you know, I almost thought they'd be saying "SuperTux is holy we'll all follow the BrmGods and accept SuperTux"
+[2016/02/29 11:41:42] <Tobbi> grr.
+[2016/02/29 11:41:56] <Hume2> ü
+[2016/02/29 11:41:58] <Tobbi> mt: They didn't say the last part about accepting SuperTux.
+[2016/02/29 11:42:01] <Tobbi> ü?
+[2016/02/29 11:42:03] <mt> :(
+[2016/02/29 11:42:19] <Hume2> ü for BrmGods.
+[2016/02/29 11:42:21] <Tobbi> mt: But I assume they might have said the part about following the brmGods.
+[2016/02/29 11:42:26] <Tobbi> haha.
+[2016/02/29 11:42:31] <Tobbi> one moment.
+[2016/02/29 11:43:50] <Tobbi> Hume2: https://youtu.be/0osX2hVyUmc?t=10m20s
+[2016/02/29 11:44:22] <Hume2> Tobbi: I know that, I's quite Lolliois :D
+[2016/02/29 11:44:32] <Hume2> *lollious
+[2016/02/29 11:44:32] <Tobbi> Hume2: Do you even understand it?
+[2016/02/29 11:44:53] <Hume2> Tobbi: A bit, I've seen a version with English subtitles.
+[2016/02/29 11:44:57] <Tobbi> ah.
+[2016/02/29 11:45:00] <Tobbi> yeah.
+[2016/02/29 11:45:13] <Hume2> You know, I don't understand much when they are speaking too fast.
+[2016/02/29 11:45:31] <Hume2> I understand quite well those slower parts.
+[2016/02/29 11:46:24] <Tobbi> Hume2: https://www.youtube.com/watch?v=4lhB2tBTqyM
+[2016/02/29 11:46:26] <Tobbi> :D
+[2016/02/29 11:46:53] <Hume2> This is cool too :D
+[2016/02/29 11:48:15] <Hume2> Bernd das Brot uses your private word :P
+[2016/02/29 11:48:33] <Tobbi> Hume2: No, he just *sighs*
+[2016/02/29 11:48:38] <Tobbi> He doesn't say *sigh*
+[2016/02/29 11:48:52] <Hume2> That's true.
+[2016/02/29 11:54:13] @ Hume2 is now known as Bernd_bot
+[2016/02/29 11:54:24] <Bernd_bot> Errr... Mist!
+[2016/02/29 11:54:28] <Bernd_bot> Errr... Mist!
+[2016/02/29 11:54:33] @ Bernd_bot is now known as Hume2
+[2016/02/29 11:54:54] <Tobbi> 2 hours.
+[2016/02/29 11:54:55] <Hume2> This could be a good backup mentor :D
+[2016/02/29 11:54:55] <Tobbi> ...
+[2016/02/29 11:55:00] <Tobbi> Bernd das Brot, yes.
+[2016/02/29 11:55:04] <Tobbi> He'd just say Mist.
+[2016/02/29 11:56:05] <Hume2> Tobbi: https://www.youtube.com/watch?v=uyuXZx78emk
+[2016/02/29 11:58:23] <pentagon`> [10supertux] 07apurvapriyadarshi starred 09supertux - 13https://git.io/v2rVi
