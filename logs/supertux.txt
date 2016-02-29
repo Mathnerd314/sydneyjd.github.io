@@ -11497,3 +11497,16 @@
 [2016/02/28 17:21:54] @ Quit: tuxdev_: Ping timeout: 260 seconds
 [2016/02/28 17:21:57] @ Quit: claymore2: Quit: Leaving
 [2016/02/28 17:34:50] @ tux|dude joined channel #supertux
+[2016/02/28 18:29:47] @ Quit: tux|dude: Quit: Leaving
+[2016/02/28 18:35:56] <pentagon`> [10supertux] 07tobbi opened issue 09#370: Add ISSUE_TEMPLATE file 13https://git.io/v2VB5
+[2016/02/28 18:37:26] @ tux|dude joined channel #supertux
+[2016/02/28 19:34:32] @ Quit: tux|dude: Quit: Leaving
+[2016/02/28 19:42:31] @ tux|dude joined channel #supertux
+[2016/02/28 19:46:10] @ datahead8888 joined channel #supertux
+[2016/02/28 19:46:24] @ Quit: datahead8888: Remote host closed the connection
+[2016/02/28 19:46:35] @ datahead8888 joined channel #supertux
+[2016/02/28 19:54:14] @ Quit: tux|dude: Quit: Leaving
+[2016/02/28 19:55:11] <pentagon`> [10flexlay] 07tobbi created branch 09smart_tiles
+[2016/02/28 19:55:14] <pentagon`> [10flexlay] 07tobbi pushed 2 commits to 09smart_tiles 13https://git.io/v2Vgn
+[2016/02/28 19:55:16] <pentagon`> [10flexlay] 07tobbi 1408e7d1e Add basic interface for Smart tiles
+[2016/02/28 19:55:18] <pentagon`> [10flexlay] 07tobbi 140705cb2 Add smart tile selector (WIP)
