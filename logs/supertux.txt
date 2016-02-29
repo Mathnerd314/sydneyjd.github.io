@@ -11898,3 +11898,377 @@
 [2016/02/29 11:55:04] <Tobbi> He'd just say Mist.
 [2016/02/29 11:56:05] <Hume2> Tobbi: https://www.youtube.com/watch?v=uyuXZx78emk
 [2016/02/29 11:58:23] <pentagon`> [10supertux] 07apurvapriyadarshi starred 09supertux - 13https://git.io/v2rVi
+[2016/02/29 12:00:27] <Tobbi> Hume2: https://www.youtube.com/watch?v=IwSNghBpqP8&list=PL2FD12EDAEFA0CCC6&index=3
+[2016/02/29 12:02:56] <Hume2> :D
+[2016/02/29 12:03:13] <mt> do we all watch KiKa now?
+[2016/02/29 12:03:57] <Tobbi> mt: I don't know what you're doing...
+[2016/02/29 12:04:00] <Tobbi> :D
+[2016/02/29 12:04:07] <Tobbi> mt: Bernd das Brot ist Kult.
+[2016/02/29 12:05:15] <Hume2> We still don't have "Bernd das Brot spielt SuperTux" :D
+[2016/02/29 12:05:56] <Tobbi> mt: Even Umbridge likes Bernd das Brot: https://youtu.be/ulzjYNrxPpw?t=5m
+[2016/02/29 12:06:23] <Tobbi> Oh, no music.
+[2016/02/29 12:06:25] <Tobbi> damn this.
+[2016/02/29 12:08:16] <mt> Bernd das Brot is so annoying
+[2016/02/29 12:08:34] <Tobbi> mt: Bernd das Brot ist Kult!
+[2016/02/29 12:08:35] <Tobbi> :D
+[2016/02/29 12:09:03] <mt> /cs quiet #supertux $x:*Bernd*Brot*
+[2016/02/29 12:09:05] <Hume2> I like Bernd das Brot. :D
+[2016/02/29 12:09:36] <Hume2> mt: Vergis es :DDDD
+[2016/02/29 12:09:54] <Tobbi> *Vergiss
+[2016/02/29 12:09:59] <Hume2> Yeah.
+[2016/02/29 12:10:20] <mt> okay
+[2016/02/29 12:10:27] <mt> I'll add another GSoC topic
+[2016/02/29 12:10:33] <mt> make it possible to play
+[2016/02/29 12:10:37] <mt> as Bernd the Brot
+[2016/02/29 12:10:41] <Tobbi> mt: Great idea.
+[2016/02/29 12:10:44] <Tobbi> Nice gimmick...
+[2016/02/29 12:10:45] <Tobbi> :D
+[2016/02/29 12:10:53] <Hume2> :D
+[2016/02/29 12:10:55] <Tobbi> Problem is: KIKA will probably sue us.
+[2016/02/29 12:10:56] <mt> `supertux2 --bernd-das-brot`
+[2016/02/29 12:11:09] <Hume2> :D
+[2016/02/29 12:11:27] <mt> or cmake ~/src/supertux -DENABLE_BERND=ON
+[2016/02/29 12:11:34] <Hume2> :D
+[2016/02/29 12:11:50] <mt> Tobbi: then we'll just make our own sprite
+[2016/02/29 12:11:54] <mt> and call it similar
+[2016/02/29 12:11:56] <mt> but different
+[2016/02/29 12:12:13] <Hume2> "Tux das Brot" or "Bernd das Tux"?
+[2016/02/29 12:12:13] <Tobbi> Sounds good.
+[2016/02/29 12:12:17] <mt> or, under US law
+[2016/02/29 12:12:24] <mt> parodies could fall into fair use
+[2016/02/29 12:12:36] <mt> (maybe, ask a lawyer if you want to be sure)
+[2016/02/29 12:12:42] <Hume2> :D
+[2016/02/29 12:12:44] <Tobbi> Nah, it's fine.
+[2016/02/29 12:13:07] <mt> wait
+[2016/02/29 12:13:11] <mt> I've got a better idea
+[2016/02/29 12:13:16] <mt> Gnampf the GNU
+[2016/02/29 12:13:22] <Tobbi> :D
+[2016/02/29 12:13:23] <Tobbi> haha
+[2016/02/29 12:13:25] <Hume2> :D
+[2016/02/29 12:13:30] <Tobbi> mt: You know Gnampf? :D
+[2016/02/29 12:13:55] <Tobbi> Gnampf is a great name for a GNU.
+[2016/02/29 12:14:02] <Hume2> I don't know what it is, but I know that Bernd das Brot was saying this.
+[2016/02/29 12:14:19] <Tobbi> Hume2: It doesn't have any meaning.
+[2016/02/29 12:14:22] <Tobbi> It's an arbitrary word.
+[2016/02/29 12:14:25] <Hume2> *Gnampf is Not Unix.
+[2016/02/29 12:14:40] <Hume2> Tobbi: I guessed so.
+[2016/02/29 12:14:43] <mt> okay
+[2016/02/29 12:14:50] <mt> `supertux2 --gnampf-the-gnu`
+[2016/02/29 12:14:57] <mt> sounds good
+[2016/02/29 12:15:05] <Hume2> Yeah.
+[2016/02/29 12:15:11] <mt> I'll make sure to open an issue at some point
+[2016/02/29 12:15:15] <Tobbi> :D
+[2016/02/29 12:15:30] <Tobbi> 1 hour, 45 minutes.
+[2016/02/29 12:28:38] <Tobbi> Also, why? https://en.wikipedia.org/w/index.php?title=Tram_accident&type=revision&diff=703503541&oldid=695725230
+[2016/02/29 12:29:54] @ Quit: tuxdev_: Ping timeout: 246 seconds
+[2016/02/29 12:31:49] <Hume2> Tobbi: It makes sense, AFAIK.
+[2016/02/29 12:32:13] <Tobbi> Hume2: Yes, it does. But brmbrmcar exclusively edits topics regarding trams and cars and car crashes and supertux :D
+[2016/02/29 12:32:43] <Hume2> Yeah :D
+[2016/02/29 12:33:07] <Hume2> That's very brmbrmsenseful :D
+[2016/02/29 12:33:15] <Tobbi> It's brmbrm..brmbrm.
+[2016/02/29 12:33:35] <Hume2> Agreed.
+[2016/02/29 12:33:58] <Tobbi> Hume2: Actually, saying brmbrm is easier than saying mtmt.
+[2016/02/29 12:34:07] <Tobbi> Given the letters themselves.
+[2016/02/29 12:34:21] <Hume2> That's true.
+[2016/02/29 12:34:56] <Hume2> [brmbrm] is easier to pronounce than [mtmt].
+[2016/02/29 12:35:34] <Hume2> [mət mət] is slightly easier.
+[2016/02/29 12:38:49] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/02/29 12:41:27] @ leyyin joined channel #supertux
+[2016/02/29 12:46:03] <mt> Tobbi: by the way
+[2016/02/29 12:46:08] <mt> did you ask a staffer
+[2016/02/29 12:46:14] <mt> about groups
+[2016/02/29 12:46:32] <mt> what I know is: GMS is coming real soon(TM) now
+[2016/02/29 12:47:02] <mt> https://gms-test.freenode.net/ and ircs://testnet.freenode.net:9003
+[2016/02/29 12:47:25] <Tobbi> hmm, okay...
+[2016/02/29 12:47:40] <mt> soon enough for staffers to do other stuff
+[2016/02/29 12:47:46] <mt> like focusing on Tor-SASL
+[2016/02/29 12:49:13] <mt> Tobbi: you didn't answer my question (yet)
+[2016/02/29 12:49:23] <Tobbi> mt: Which one?
+[2016/02/29 12:49:33] <mt> if you've asked staff yet
+[2016/02/29 12:49:38] <Tobbi> mt: Oh, no, I forgot.
+[2016/02/29 12:49:43] <leyyin> #MakingSupertuxGreatAgain
+[2016/02/29 12:49:55] @ lumidify joined channel #supertux
+[2016/02/29 12:49:55] @ Quit: lumidify: Changing host
+[2016/02/29 12:49:55] @ lumidify joined channel #supertux
+[2016/02/29 12:50:25] <mt> There's groups that registered 6 months after giby got +F* here having cloaks
+[2016/02/29 12:50:31] <mt> so this shouldn't be a problem
+[2016/02/29 12:50:32] <Tobbi> leyyin: I didn't know you joined!
+[2016/02/29 12:50:47] <Tobbi> leyyin: Also, did you check the logs or how do you know our slogan?
+[2016/02/29 12:51:03] <leyyin> I made it up
+[2016/02/29 12:51:17] <mt> leyyin: you know the sane part of the IRC community is currently working on MAKING IRC GREAT AGAIN
+[2016/02/29 12:51:31] <leyyin> BIGGER AND GREATER
+[2016/02/29 12:51:35] <Hume2> :D
+[2016/02/29 12:51:42] <mt> now featuring, @INTENT=PONY and TORCOINS!!!!!111oneoneone
+[2016/02/29 12:51:46] <Tobbi> [2016/02/29 11:17:56] <mt> brmbrmcar as GSoC mentor
+[2016/02/29 12:51:46] <Tobbi> [2016/02/29 11:18:07] <mt> make SuperTux GSoC GREAT AGAIN
+[2016/02/29 12:52:11] <Tobbi> leyyin: ^^
+[2016/02/29 12:52:30] <Tobbi> one hour until gsoc announcements :P
+[2016/02/29 12:52:31] <leyyin> I should quit IRC and continue studying...
+[2016/02/29 12:52:44] <mt> you probably should, indeed
+[2016/02/29 12:52:54] <leyyin> 1 HOUR
+[2016/02/29 12:52:58] <Tobbi> leyyin: No, in case we get accepted for GSOC, you should celebrate with us.
+[2016/02/29 12:53:01] <mt> unless you want to talk about brmbrmcar making SuperTux GSoC great again
+[2016/02/29 12:53:12] <mt> or about Bernd das Brot and Gnampf the GNU
+[2016/02/29 12:53:12] @ quit (restarting, back in 5...)
+[2016/02/29 12:53:15] @ Log closed by * (rescan or shutdown)
+[2016/02/29 13:03:41] @ Log started by red_bot
+[2016/02/29 13:03:41] @ Joined channel #supertux
+[2016/02/29 13:03:41] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | GSoC Project Ideas: https://github.com/SuperTux/supertux/wiki/GSoC-2016-Ideas"
+[2016/02/29 13:03:41] @ Topic set by mt on 2016-02-09 12:51:33 -0500
+[2016/02/29 13:03:46] @ Mode +Cntzj 5:10 by orwell.freenode.net
+[2016/02/29 13:03:54] @ Mode +v red_bot by ChanServ
+[2016/02/29 13:06:59] <mt> hello, red_bot, would you mind telling us where your owner is?
+[2016/02/29 13:06:59] <red_bot> good afternoon, mt :)
+[2016/02/29 13:07:00] @ Quit: ced117: Ping timeout: 248 seconds
+[2016/02/29 13:07:18] <mt> red_bot: you didn't tell me where your owner is yet?
+[2016/02/29 13:07:18] <Tobbi> haha
+[2016/02/29 13:07:26] <Tobbi> mt is breaking his own rules.
+[2016/02/29 13:07:35] <mt> what rule
+[2016/02/29 13:07:37] <leyyin> red_bot, your mama is fat
+[2016/02/29 13:07:51] <Tobbi> red_bot, your mama is red.
+[2016/02/29 13:07:52] <leyyin> apparently the bot does not have feelings
+[2016/02/29 13:08:01] <Tobbi> leyyin: You don't have feelings.
+[2016/02/29 13:08:13] <leyyin> true
+[2016/02/29 13:09:04] @ pentagon` is now known as pentagon
+[2016/02/29 13:09:20] <Tobbi> leyyin: Do you know anything re. whether STK will participate in GSOC maybe next year?
+[2016/02/29 13:09:23] <Tobbi> I could probably apply as a student.
+[2016/02/29 13:09:36] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09forest 13https://git.io/v2r5c
+[2016/02/29 13:09:37] <mt> why did STK not apply this year?
+[2016/02/29 13:09:39] <pentagon> [10supertux] 07Hume2 14b3150d0 data/levels/world2: new level: Don't get blown away!
+[2016/02/29 13:09:49] <leyyin> not enough mentors
+[2016/02/29 13:09:59] <mt> >not enough mentors
+[2016/02/29 13:10:02] <Hume2> 3, actually.
+[2016/02/29 13:10:06] <Hume2> I think.
+[2016/02/29 13:10:09] <mt> I mean, even we found some mentors
+[2016/02/29 13:10:14] <Tobbi> new level?
+[2016/02/29 13:10:26] <Hume2> Tobbi: Yes, a forest level.
+[2016/02/29 13:11:17] <Hume2> I know that this one is a bit weaker, but still the wind can be quite funny.
+[2016/02/29 13:11:29] <Tobbi> I|ll check it out.
+[2016/02/29 13:12:10] <Hume2> I'll try to not be a de-mentor :D
+[2016/02/29 13:12:39] <Tobbi> Hume2: Don't worry, I'll do "expecto patronum" if necessary
+[2016/02/29 13:14:38] <Hume2> What will happen when the mentor doesn't pass his evaluations?
+[2016/02/29 13:14:56] <Tobbi> Hume2: We'll be in bad standing and won't get accepted agian.
+[2016/02/29 13:15:01] <leyyin> the student becomes feral
+[2016/02/29 13:15:29] <Hume2> One more reason why to not become a de-mentor.
+[2016/02/29 13:15:36] <Tobbi> leyyin: He becomes a vicious animal, such as a marten?
+[2016/02/29 13:16:25] <Hume2> I'm still wonder why Google does this action.
+[2016/02/29 13:16:47] <Hume2> It's good that they do that, but I'm wonder why.
+[2016/02/29 13:17:46] <leyyin> support open source
+[2016/02/29 13:17:52] <leyyin> and when you become an intern
+[2016/02/29 13:17:58] <leyyin> you can't contribute to open source
+[2016/02/29 13:18:05] <leyyin> without their approval
+[2016/02/29 13:18:07] <leyyin> logic :D
+[2016/02/29 13:18:30] <Hume2> That seems scary.
+[2016/02/29 13:18:39] <leyyin> it is
+[2016/02/29 13:19:06] <Hume2> ...but how can they forbide me to contribute to open source?
+[2016/02/29 13:19:35] <leyyin> you must submit your patch to them, before allowing you to send the patch to the public repo
+[2016/02/29 13:19:49] <leyyin> and after some time, if you commit to the same project you will have a free pass
+[2016/02/29 13:20:09] <leyyin> censorship commission
+[2016/02/29 13:20:09] @ ced117 joined channel #supertux
+[2016/02/29 13:20:14] <leyyin> communism anyone?
+[2016/02/29 13:20:54] <Hume2> I think that totality still exists in those countries.
+[2016/02/29 13:21:33] <Hume2> Well, it's just my opinion.
+[2016/02/29 13:21:35] <mt> Hume2: did you happen to break something
+[2016/02/29 13:21:39] <mt> [WARNING] /home/mteufel/src/games/Tux/supertux/src/supertux/sector.cpp:172 Error running script: Squirrel error: Couldn't start script (the index 'add_key' does not exist)
+[2016/02/29 13:21:56] <Tobbi> mt: Someone in #gsoc said that we should probably have some kind of coding challenge for students.
+[2016/02/29 13:21:57] <Hume2> mt: I'll look into it.
+[2016/02/29 13:22:12] <mt> Tobbi: like something very hard
+[2016/02/29 13:22:17] <mt> or like, a competition
+[2016/02/29 13:22:31] <Tobbi> mt: Something that verifies the student is fit for the stuff.
+[2016/02/29 13:22:36] <Hume2> Well, make the editor working, that is a challenge.
+[2016/02/29 13:22:50] <Tobbi> Hume2: Something smaller that doesn't take all eternity.
+[2016/02/29 13:22:56] <Tobbi> First filter for students.
+[2016/02/29 13:23:19] <Tobbi> 37 minutes.
+[2016/02/29 13:23:36] <Hume2> I'm getting more and more thrilled…
+[2016/02/29 13:23:53] <Tobbi> Hume2: Maybe we won't get accepted.
+[2016/02/29 13:24:04] <Tobbi> Someone said that games are a more competitive field in GSoC
+[2016/02/29 13:24:14] <Tobbi> I have a feeling we probably won't.
+[2016/02/29 13:24:21] <Tobbi> And I'd be okay with that.
+[2016/02/29 13:24:25] <Hume2> OK, that thrills me more.
+[2016/02/29 13:24:25] <Tobbi> Less stuff to mentor for me.
+[2016/02/29 13:24:30] <Tobbi> Hume2: Why?
+[2016/02/29 13:24:38] <Tobbi> Not getting excepted is not thrilling.
+[2016/02/29 13:24:44] <Tobbi> Everything will stay as it is.
+[2016/02/29 13:24:54] <Hume2> It's comming, I feel that.
+[2016/02/29 13:25:05] <Tobbi> :D
+[2016/02/29 13:25:11] <Hume2> 35 minutes…
+[2016/02/29 13:25:28] <Tobbi> Hume2: I am more excited about the mentor meeting. In case we get accepted, I might be able to make a good impression so that Google hires me :D
+[2016/02/29 13:25:33] <leyyin> .wakemeup 35 minutes
+[2016/02/29 13:25:45] <Hume2> Mentor meeting?
+[2016/02/29 13:25:56] <Tobbi> Hume2: You know: The mentor meeting in MV I told you about.
+[2016/02/29 13:26:02] <leper`> leyyin: Command understood
+[2016/02/29 13:26:14] <leyyin> even lepers are becoming bots!
+[2016/02/29 13:26:20] <Tobbi> leper`: You have an awful latency.
+[2016/02/29 13:26:24] <Hume2> Tobbi: Is the mouth needed for that?
+[2016/02/29 13:26:24] <leyyin> what has the world become
+[2016/02/29 13:26:43] <leper`> Tobbi: Donate to improve this bot!
+[2016/02/29 13:26:55] <Tobbi> Hume2: A mouth? For a meeting?
+[2016/02/29 13:27:03] @ sydney_untangle joined channel #supertux
+[2016/02/29 13:27:03] @ Mode +v sydney_untangle by ChanServ
+[2016/02/29 13:27:17] <leyyin> congrats sydney_untangle
+[2016/02/29 13:27:20] <Hume2> Tobbi: There are two ways for comunicating: Keyboard and mouth.
+[2016/02/29 13:27:38] <Tobbi> leyyin: What are you congratulating him for?
+[2016/02/29 13:27:46] <leyyin> congrats Tobbi
+[2016/02/29 13:27:48] <Tobbi> Hume2: Communicating in the Mentor summit? Both.
+[2016/02/29 13:27:53] <Tobbi> leyyin: Stop.
+[2016/02/29 13:27:58] <Hume2> Mist!
+[2016/02/29 13:28:04] <mt> Tobbi: didn't they already want you to apply for a job at them?
+[2016/02/29 13:28:22] <mt> (re Google hiring you)
+[2016/02/29 13:28:28] <Tobbi> mt: Yes, but I didn't get accepted.
+[2016/02/29 13:28:40] <Tobbi> Because I probably just listed my skills, not my problem solving abilities.
+[2016/02/29 13:28:44] <Tobbi> At least that's what I expect.
+[2016/02/29 13:28:47] <Hume2> Why the hell do they need me speaking? Can't they just read what I write?
+[2016/02/29 13:28:49] <Tobbi> *suspect.
+[2016/02/29 13:28:49] <leyyin> google is not that great
+[2016/02/29 13:28:52] <leyyin> just another big company
+[2016/02/29 13:28:57] <Tobbi> I imagine.
+[2016/02/29 13:29:09] <Tobbi> I am really uncertain whether working at Google is really what I want.
+[2016/02/29 13:29:19] <Tobbi> It'd be prestigious, but apart from that...
+[2016/02/29 13:29:47] <leyyin> not if you work in Sillicon Valley
+[2016/02/29 13:30:01] <leyyin> ah, you work at Google, cool, I work at NASA
+[2016/02/29 13:30:11] <Tobbi> leyyin: Yeah, probably not.
+[2016/02/29 13:30:25] <leyyin> everyone has 200k $ salaries down there
+[2016/02/29 13:30:29] <leyyin> no one is impressed anymore
+[2016/02/29 13:30:31] <Tobbi> leyyin: Actually, more stress in my life is the least I want.
+[2016/02/29 13:30:36] <Tobbi> I want to chill out.
+[2016/02/29 13:30:48] <Tobbi> So, after my masters degree, I want to take it easy, maybe do something different for a while.
+[2016/02/29 13:30:59] <Tobbi> I am currently fairly fed up with stuff.
+[2016/02/29 13:31:19] <Hume2> 29 minutes …
+[2016/02/29 13:31:34] <Tobbi> Hume2: ... stop
+[2016/02/29 13:31:40] <Hume2> OK
+[2016/02/29 13:31:44] <mt> Tobbi: go to africa and teach some children how to code
+[2016/02/29 13:31:44] <Tobbi> I am excited as well...but not *as* excited.
+[2016/02/29 13:31:52] <leyyin> Tobbi, has 2 commands, sigh and STOP
+[2016/02/29 13:31:54] <leyyin> Tobbi, fetch
+[2016/02/29 13:31:57] <Hume2> :D
+[2016/02/29 13:32:10] * Tobbi brings back piece of the Bernsteinzimmer to leyyin.
+[2016/02/29 13:32:28] <leyyin> https://en.wikipedia.org/wiki/Amber_Room
+[2016/02/29 13:33:33] <Tobbi> leyyin: Yes, that.
+[2016/02/29 13:34:19] <leyyin> Tobbi, pull
+[2016/02/29 13:34:24] <Hume2> :D
+[2016/02/29 13:34:42] <Tobbi> leyyin: Already up-to-date
+[2016/02/29 13:34:47] <Hume2> :D
+[2016/02/29 13:34:56] <leper`> leyyin: WAKE UP NOW!
+[2016/02/29 13:35:02] <mt> Tobbi, echo :D
+[2016/02/29 13:35:17] <Hume2> LOL
+[2016/02/29 13:35:23] <Tobbi> mt: Tobbi, obbi, obbi, bbi, bbi..echo, echo, eeecho, cho, cho, cho.
+[2016/02/29 13:35:27] <leyyin> leper`, you count seconds different than the rest of the universe?
+[2016/02/29 13:35:31] <leper`> yes
+[2016/02/29 13:35:35] <Hume2> :D
+[2016/02/29 13:35:55] <leper`> or I count offsets and my local clock is a few mins fast
+[2016/02/29 13:36:07] <Tobbi> Hume2: So much for excitement: 24 minutes,
+[2016/02/29 13:36:15] <Hume2> Yeah.
+[2016/02/29 13:36:18] <leper`> (and I certainly do not have the motivation to actually wake you when you want me to :D(
+[2016/02/29 13:36:21] <leyyin> Tobbi, status
+[2016/02/29 13:36:40] <Tobbi> leyyin: Up and running since 27 years, 4 days, 19 hours and 36 minutes.
+[2016/02/29 13:36:47] <leyyin> :D
+[2016/02/29 13:36:50] <Hume2> :DDD
+[2016/02/29 13:37:22] <leyyin> we live in day that does not exist :P
+[2016/02/29 13:37:33] <leper`> Tobbi: uptime
+[2016/02/29 13:37:40] <leyyin> well it exists, but we just stash it for 4 years
+[2016/02/29 13:37:47] <leyyin> today was stash pop
+[2016/02/29 13:37:50] <leyyin> feb 29
+[2016/02/29 13:37:51] <Hume2> It's an error in the wibbly wobbly timey wimey stuff :P
+[2016/02/29 13:38:15] <Tobbi> leper`: uptime is: "How do I tell? I'm living in the Matrix."
+[2016/02/29 13:38:45] <leyyin> leper`, 0 AD, GSOC?
+[2016/02/29 13:38:45] <Hume2> leyyin: Won't you mind celebrating the new years' eve on Kepler-79b?
+[2016/02/29 13:39:06] <Hume2> Kepler-79b orbits once per 8 hours :D
+[2016/02/29 13:39:20] <leyyin> lol
+[2016/02/29 13:39:42] <Tobbi> Hume2: What about new years eve on a blazar?
+[2016/02/29 13:39:58] <Hume2> :DDDDDD
+[2016/02/29 13:39:59] <leper`> Tobbi: who'd do that?
+[2016/02/29 13:40:09] <leper`> s/Tobbi/leyyin/
+[2016/02/29 13:40:09] <red_bot> leper` meant: "leyyin: who'd do that?"
+[2016/02/29 13:40:10] <leper`> gah
+[2016/02/29 13:40:37] <leyyin> who would mentor?
+[2016/02/29 13:40:59] <Hume2> Possibly me, Tobbi and Mathnerd.
+[2016/02/29 13:41:16] <leper`> yep
+[2016/02/29 13:41:30] <Tobbi> Hume2: I believe, they're talking about 0 AD.
+[2016/02/29 13:41:49] <Hume2> How do you know that?
+[2016/02/29 13:42:08] <leyyin> Hume2, he can read minds, he is a robot
+[2016/02/29 13:42:18] <Tobbi> leyyin: robots don't read minds.
+[2016/02/29 13:42:20] <leper`> He's in our matrix
+[2016/02/29 13:42:21] <Tobbi> I know that.
+[2016/02/29 13:42:36] <leyyin> Tobbi, you are trying to deceive us
+[2016/02/29 13:42:41] <leyyin> leper`, you would mentor :D
+[2016/02/29 13:43:09] <Tobbi> leyyin: Who am I to do such a thing.
+[2016/02/29 13:44:09] <Hume2> GSoC, doesn't it resemble you anything, leyyin?
+[2016/02/29 13:44:14] <leper`> leyyin: given current lack of motivation to even complain about commits...
+[2016/02/29 13:44:22] <leper`> (and no time when that would be needed for that)
+[2016/02/29 13:44:51] <sydney_untangle> Any news on GSoC yet?
+[2016/02/29 13:44:56] <Tobbi> sydney_untangle: STFU.
+[2016/02/29 13:44:57] <Tobbi> ffs.
+[2016/02/29 13:44:59] <leyyin> Hume2, resemble, what?
+[2016/02/29 13:45:00] <Hume2> 15 minutes …
+[2016/02/29 13:45:02] <Tobbi> 15 more minutes.
+[2016/02/29 13:45:08] <Hume2> leyyin: Just say it.
+[2016/02/29 13:45:16] <leyyin> say what
+[2016/02/29 13:45:26] <Tobbi> sydney_untangle: Honestly, we have been talking about GSOC for the past 2-3 hours.
+[2016/02/29 13:45:33] <Hume2> leyyin: The word that is most similar to it.
+[2016/02/29 13:45:44] <leyyin> GHCQ?
+[2016/02/29 13:45:47] <sydney_untangle> :D
+[2016/02/29 13:46:08] <leyyin> GCHQ
+[2016/02/29 13:46:09] <Hume2> Achievement get: Don't metion politics :D
+[2016/02/29 13:46:19] <sydney_untangle> So, while everyone is being social, what should i do with this antique desktop of mine that costs me 100$/y to run?
+[2016/02/29 13:46:27] <sydney_untangle> :D
+[2016/02/29 13:46:31] <mt> *sigh*
+[2016/02/29 13:46:37] <Tobbi> /kick mt
+[2016/02/29 13:46:41] <sydney_untangle> lol, exactly.
+[2016/02/29 13:46:47] <Hume2> mt: You must say: *sign*
+[2016/02/29 13:46:50] <leyyin> it costs you 100$/year to run a computer, what?
+[2016/02/29 13:47:16] <leper`> leyyin: not everyone runs an extension cord to the neighbours
+[2016/02/29 13:47:27] <mt> sydney_untangle: donate it to the author of vim
+[2016/02/29 13:47:37] <leyyin> leper`, we steal it from the grid directly, on the street
+[2016/02/29 13:47:42] <mt> he'll happily forward it to poor children in Uganda
+[2016/02/29 13:48:07] <Tobbi> They can use it to store their squirrels.
+[2016/02/29 13:48:18] @ Quit: lumidify: Ping timeout: 246 seconds
+[2016/02/29 13:48:24] <sydney_untangle> Maybe i will keep it so we can look at it in 20 years... hopefully the HDD still spins then.
+[2016/02/29 13:48:29] <Hume2> Childern storage o.O
+[2016/02/29 13:48:48] <leyyin> sydney_untangle, if you run it daily, doubtful
+[2016/02/29 13:48:53] <sydney_untangle> I stopped using it for day-to-day use about 4 months ago. :D
+[2016/02/29 13:49:00] <sydney_untangle> Now it sits in my closet...
+[2016/02/29 13:49:16] <sydney_untangle> leyyin: It would probably work for all 20 years if i let it run 24/7 the whole time...
+[2016/02/29 13:49:36] <mt> I've got so many computers I don't use anymore
+[2016/02/29 13:49:47] <mt> but they're too loud to run them as servers
+[2016/02/29 13:49:59] <sydney_untangle> mt: Care to donate a few? I have a server i should replace...
+[2016/02/29 13:50:01] <sydney_untangle> :p
+[2016/02/29 13:50:09] <Tobbi> 10 minutes!
+[2016/02/29 13:50:16] <Tobbi> sydney_untangle: Why not use a rbpi?
+[2016/02/29 13:50:22] <Tobbi> Much less energy...
+[2016/02/29 13:50:31] <sydney_untangle> That one only costs me 40$/year, but it holds my backups, so im satisfied.
+[2016/02/29 13:50:34] <mt> sydney_untangle: e.g. that old PowerMac G4 (don't worry, you can use OpenBSD or Gentoo on it)
+[2016/02/29 13:50:59] <mt> when it starts up, it plays the mac startup sound
+[2016/02/29 13:51:00] <sydney_untangle> mt: Cool. Ive yet to touch a macintosh system with linux...
+[2016/02/29 13:51:08] <mt> so loud that you can wake up an entire house
+[2016/02/29 13:51:11] <sydney_untangle> Ugg, i hate that. the newer macs still do. ;p
+[2016/02/29 13:51:19] <mt> and then, the fans turn on
+[2016/02/29 13:51:28] <mt> almost as loud as that startup sound
+[2016/02/29 13:51:43] <mt> sydney_untangle: I actually like it
+[2016/02/29 13:51:48] <sydney_untangle> :-)
+[2016/02/29 13:51:56] <mt> it's like, your computer says "Good morning, how can I help you?"
+[2016/02/29 13:52:23] <Hume2> Definitely more polite than Windows :D
+[2016/02/29 13:52:31] <sydney_untangle> Tobbi: An RPI cannot hold 3 HDDs. If you buy me a new HDD that can store all that info, i'd love to switch.
+[2016/02/29 13:52:37] <Hume2> Windows forces you to welcome it :P
+[2016/02/29 13:52:55] <sydney_untangle> mt: Tell your linux box to play a sound when you start it. ;p
+[2016/02/29 13:52:59] <Tobbi> sydney_untangle: It can. You just need to name your child "A RPI" and wait for it to grow p.
+[2016/02/29 13:53:02] <Tobbi> up
+[2016/02/29 13:53:30] <sydney_untangle> If you buy this old computer for 50$ i shall buy an RPI. :D
+[2016/02/29 13:53:31] @ claymore2 joined channel #supertux
+[2016/02/29 13:54:13] <mt> you can get an RPi zero
+[2016/02/29 13:54:17] <mt> for 5 USD
+[2016/02/29 13:54:46] <sydney_untangle> mt: A what?
+[2016/02/29 13:55:00] <Hume2> 5 minutes …
+[2016/02/29 13:55:18] <mt> https://www.raspberrypi.org/products/pi-zero/
+[2016/02/29 13:55:21] <mt> sydney_untangle: ^
+[2016/02/29 13:56:21] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/02/29 13:56:37] <leper`> that has no network though
+[2016/02/29 13:56:48] <Tobbi> Why did Hume leave just before the pivotal moment?
+[2016/02/29 13:57:56] <sydney_untangle> Tobbi: \o/
+[2016/02/29 13:58:02] <mt> leper`: you can attach a USB network device
+[2016/02/29 13:58:17] <mt> there's also Ethernet-USB NICs
+[2016/02/29 13:59:18] <mt> less than a MINUTE!!
+[2016/02/29 13:59:32] <leyyin> HYPE TRAIN
+[2016/02/29 13:59:35] <leyyin> ALL ABOARD
+[2016/02/29 13:59:55] <Tobbi> leyyin: STOP.
+[2016/02/29 13:59:56] <mt> 5 s
+[2016/02/29 14:00:00] <leper`> true, but then you have to factor the cost of that in too
