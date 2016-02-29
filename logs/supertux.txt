@@ -11545,3 +11545,21 @@
 [2016/02/29 05:51:48] <Tobbi> sydney_untangle: Smart tile = Smart tile templates. For example, select "Medium tree" and it will add a medium tree to your selection.
 [2016/02/29 05:52:13] <Tobbi> I came up with "Smart tile", but the name should be changed in the final thing.
 [2016/02/29 05:52:18] <Tobbi> Just wanted to give it a unique name.
+[2016/02/29 06:03:44] <Tobbi> And in the final installment of it, you're also supposed to select the length of the object.
+[2016/02/29 06:04:10] <Tobbi> I just need to find a good notation regarding that.
+[2016/02/29 06:14:06] <pentagon`> [10flexlay] 07tobbi pushed 1 commit to 09smart_tiles 13https://git.io/v2wRs
+[2016/02/29 06:14:08] <pentagon`> [10flexlay] 07tobbi 14d4d80f7 Add ID to smart tiles
+[2016/02/29 06:28:23] @ Quit: stewboy: Read error: Connection reset by peer
+[2016/02/29 07:38:49] <pentagon`> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/v2wKg
+[2016/02/29 07:38:51] <pentagon`> [10supertux] 07tobbi 143702e60 Add function to move to main spawnpoint
+[2016/02/29 07:43:48] <sydney_untangle> Tobbi: Ah, good idea.
+[2016/02/29 07:43:55] <Tobbi> :)
+[2016/02/29 07:44:12] <Tobbi> sydney_untangle: I just got tired of going all the way back when I just wanted to move to a certain level.
+[2016/02/29 07:44:22] <sydney_untangle> :)
+[2016/02/29 07:44:24] <Tobbi> eeh, move to the start.
+[2016/02/29 07:44:35] <Tobbi> We should also have a function to spawn to a certain level.
+[2016/02/29 07:44:47] <Tobbi> Aka, select the level and then spawn.
+[2016/02/29 07:44:57] <Tobbi> sydney_untangle: Also, GSoc announcements are made today in a few hours.
+[2016/02/29 07:45:00] <Tobbi> Around 6, I think.
+[2016/02/29 07:57:55] <pentagon`> [10supertux] Status for commit Add function to move to main spawnpoint by 07Tobias Markus: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/112575098
+[2016/02/29 07:59:56] <Tobbi> WHAT NOW?
