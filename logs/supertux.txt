@@ -11521,3 +11521,16 @@
 [2016/02/28 21:45:56] <pentagon`> [10flexlay] 07tobbi pushed 1 commit to 09smart_tiles 13https://git.io/v2V6T
 [2016/02/28 21:45:59] <pentagon`> [10flexlay] 07tobbi 148a285a9 Add more smart tiles
 [2016/02/28 21:46:41] <sydney_untangle> Tobbi: What is a smart tile?
+[2016/02/28 22:02:33] @ Quit: ced117: Ping timeout: 276 seconds
+[2016/02/28 22:14:44] @ ced117 joined channel #supertux
+[2016/02/28 22:23:51] @ tuxdev_ joined channel #supertux
+[2016/02/28 22:40:39] @ datahead8888 joined channel #supertux
+[2016/02/28 22:40:55] @ datahead8888 is now known as datahead7777
+[2016/02/28 22:57:40] @ Joined channel #supertux
+[2016/02/28 22:57:40] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | GSoC Project Ideas: https://github.com/SuperTux/supertux/wiki/GSoC-2016-Ideas"
+[2016/02/28 22:57:40] @ Topic set by mt on 2016-02-09 12:51:33 -0500
+[2016/02/28 22:57:44] @ Mode +Cntzj 5:10 by wolfe.freenode.net
+[2016/02/28 22:57:52] @ Mode +v red_bot by ChanServ
+[2016/02/28 23:42:00] @ Quit: irungentoo: Ping timeout: 276 seconds
+[2016/02/29 01:22:03] <pentagon`> [10supertux] 07Hume2 commented on issue 09#370: Add ISSUE_TEMPLATE file 13https://git.io/v2VB5
+[2016/02/29 01:38:35] @ lumidify joined channel #supertux
