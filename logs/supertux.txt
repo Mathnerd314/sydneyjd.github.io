@@ -11563,3 +11563,68 @@
 [2016/02/29 07:45:00] <Tobbi> Around 6, I think.
 [2016/02/29 07:57:55] <pentagon`> [10supertux] Status for commit Add function to move to main spawnpoint by 07Tobias Markus: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/112575098
 [2016/02/29 07:59:56] <Tobbi> WHAT NOW?
+[2016/02/29 08:00:19] <Tobbi> oh no, 2 builds failed.
+[2016/02/29 08:00:35] <Tobbi> That is obviously a reason for announcing the whole run failed.
+[2016/02/29 08:13:26] @ Quit: Xjs|moonshine: Ping timeout: 250 seconds
+[2016/02/29 08:14:56] <pentagon`> [10supertux] Status for commit Add function to move to main spawnpoint by 07Tobias Markus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/405
+[2016/02/29 08:17:21] @ Xjs|moonshine joined channel #supertux
+[2016/02/29 08:24:00] <sydney_untangle> Tobbi: Ah, so you are excited? :D 5 hours roughly?
+[2016/02/29 08:40:16] @ claymore2 joined channel #supertux
+[2016/02/29 09:07:31] @ Quit: polyphagia: Ping timeout: 248 seconds
+[2016/02/29 09:20:18] @ tuxdev_ joined channel #supertux
+[2016/02/29 09:23:16] <Tobbi> sydney_untangle: I am a bit excited.
+[2016/02/29 09:23:52] <Tobbi> But not that much.
+[2016/02/29 09:24:01] <Tobbi> Because, if we don't get accepted, it doesn't matter to me.
+[2016/02/29 09:24:59] <sydney_untangle> Tobbi: heh.
+[2016/02/29 09:25:11] <sydney_untangle> Tobbi: A new RPI came out.
+[2016/02/29 09:25:27] <Tobbi> AGAIN?
+[2016/02/29 09:27:38] <Tobbi> wow.
+[2016/02/29 09:27:43] <Tobbi> And it's getting better and btter.
+[2016/02/29 09:28:10] <sydney_untangle> Tobbi: Did you read the specs?
+[2016/02/29 09:28:19] <Tobbi> I am reading the announcement currently.
+[2016/02/29 09:28:22] <sydney_untangle> They need to upgrade the amount of ram...
+[2016/02/29 09:28:42] <sydney_untangle> I was hoping they would, but the addition of wifi and bluetooth is nice.
+[2016/02/29 09:28:56] <sydney_untangle> I still haven't bought a RPI. :p
+[2016/02/29 09:29:05] <Tobbi> How do I find out which model I have, anyway?
+[2016/02/29 09:29:56] <sydney_untangle> Tobbi: How much ram does it have?
+[2016/02/29 09:29:56] <sydney_untangle> Tobbi: Also, i think it should show it on the RPI itself, but ive no clue.
+[2016/02/29 09:30:34] <Tobbi> hmm...
+[2016/02/29 09:30:36] <Tobbi> I'll check.
+[2016/02/29 09:33:05] <Tobbi> Apparently, I have '000e' => 'Model B Revision 2.0 512MB', (Sony)
+[2016/02/29 09:33:27] <Tobbi> Also, I doubt SFLC will get back to me.
+[2016/02/29 09:34:19] <sydney_untangle> Tobbi: So it would be model B, at 512mb it looks like, that means that you are 2 revisions behind.
+[2016/02/29 09:34:45] <sydney_untangle> I also hear that the new RPI is a power hog, probably the wifi and bluetooth modules faults.
+[2016/02/29 09:34:54] <Tobbi> sydney_untangle: You mean: B -> B2 -> B3
+[2016/02/29 09:34:59] <Tobbi> hmm...
+[2016/02/29 09:37:02] <sydney_untangle> Tobbi: Kind of.
+[2016/02/29 09:37:03] <sydney_untangle> Tobbi: What are you using as an IRC bouncer?
+[2016/02/29 09:37:03] <sydney_untangle> ~ping
+[2016/02/29 09:37:03] <red_bot> sydney_untangle: pong
+[2016/02/29 09:37:05] <sydney_untangle> Aug, i lost my freenode connection.
+[2016/02/29 09:37:09] <Tobbi> sydney_untangle: ZNC
+[2016/02/29 09:38:02] <sydney_untangle> Tobbi: Hmm.
+[2016/02/29 09:38:09] <sydney_untangle> Tobbi: Why not just use SSH?
+[2016/02/29 09:38:16] <Tobbi> sydney_untangle: SSH? For what?
+[2016/02/29 09:38:45] <sydney_untangle> Tobbi: Run a command line IRC client on your RPI and connect to it over SSH. ;)
+[2016/02/29 09:38:56] <Tobbi> sydney_untangle: Why?
+[2016/02/29 09:39:05] <Tobbi> It works fine the way it is now.
+[2016/02/29 09:39:16] <sydney_untangle> \o/
+[2016/02/29 09:39:43] <sydney_untangle> Never mind then. Use what works. ;)
+[2016/02/29 09:40:01] <Tobbi> sydney_untangle: I am also connected to Moznet to spy on my former community members.
+[2016/02/29 09:40:06] <Tobbi> Some seem to have given up.
+[2016/02/29 09:41:54] <sydney_untangle> Tobbi: :-)
+[2016/02/29 09:42:15] <sydney_untangle> Tobbi: Maybe i should join... would give me something good to do. :p
+[2016/02/29 09:42:26] <Tobbi> sydney_untangle: Join what?
+[2016/02/29 09:43:10] <sydney_untangle> Tobbi: Your Mozilla comunity. :p
+[2016/02/29 09:43:20] <Tobbi> sydney_untangle: I am no longer a member of mozilla.
+[2016/02/29 09:43:31] <Tobbi> for good reasons.
+[2016/02/29 09:43:35] * sydney_untangle nods...
+[2016/02/29 09:44:58] <sydney_untangle> Tobbi: Was mozilla that bad to work with?
+[2016/02/29 09:45:26] <Tobbi> sydney_untangle: https://mozillatobbi.wordpress.com/2013/08/27/new-mozilla-or-community-2-0/
+[2016/02/29 09:46:42] <Tobbi> bbl
+[2016/02/29 09:47:05] <sydney_untangle> Yay, Tobbi has a blog! :p
+[2016/02/29 09:47:18] <Tobbi> *had
+[2016/02/29 09:47:39] @ Quit: claymore2: Quit: Leaving
+[2016/02/29 09:54:15] <sydney_untangle> Tobbi: Interesting blog post, and i do agree with you, but i'm not going to stop supporting mozilla for those reasons. :)
+[2016/02/29 09:54:55] <sydney_untangle> Sure, they may not be doing everything perfect to everyones specs, but its the only real browser out there that still respects the user.
+[2016/02/29 09:57:05] <sydney_untangle> THen again, who can please everyone? Nobody.
