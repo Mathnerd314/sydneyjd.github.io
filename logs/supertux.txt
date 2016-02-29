@@ -11510,3 +11510,14 @@
 [2016/02/28 19:55:14] <pentagon`> [10flexlay] 07tobbi pushed 2 commits to 09smart_tiles 13https://git.io/v2Vgn
 [2016/02/28 19:55:16] <pentagon`> [10flexlay] 07tobbi 1408e7d1e Add basic interface for Smart tiles
 [2016/02/28 19:55:18] <pentagon`> [10flexlay] 07tobbi 140705cb2 Add smart tile selector (WIP)
+[2016/02/28 20:08:13] @ tux|dude joined channel #supertux
+[2016/02/28 20:52:55] @ Quit: tux|dude: Quit: Leaving
+[2016/02/28 20:57:50] <pentagon`> [10flexlay] 07tobbi pushed 1 commit to 09smart_tiles 13https://git.io/v2Vwz
+[2016/02/28 20:57:53] <pentagon`> [10flexlay] 07tobbi 146547ac0 Add a few brush examples
+[2016/02/28 21:18:38] @ Quit: datahead8888: Remote host closed the connection
+[2016/02/28 21:24:43] <pentagon`> [10flexlay] 07tobbi pushed 1 commit to 09smart_tiles 13https://git.io/v2Vo7
+[2016/02/28 21:24:46] <pentagon`> [10flexlay] 07tobbi 1491a2af7 Move smarttiles to csv file
+[2016/02/28 21:32:46] @ tux|dude joined channel #supertux
+[2016/02/28 21:45:56] <pentagon`> [10flexlay] 07tobbi pushed 1 commit to 09smart_tiles 13https://git.io/v2V6T
+[2016/02/28 21:45:59] <pentagon`> [10flexlay] 07tobbi 148a285a9 Add more smart tiles
+[2016/02/28 21:46:41] <sydney_untangle> Tobbi: What is a smart tile?
