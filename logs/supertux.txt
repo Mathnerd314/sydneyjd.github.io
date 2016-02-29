@@ -12380,3 +12380,24 @@
 [2016/02/29 15:55:01] @ Quit: swift110_: Remote host closed the connection
 [2016/02/29 15:55:53] @ lumidify joined channel #supertux
 [2016/02/29 15:57:17] @ tux|dude joined channel #supertux
+[2016/02/29 16:01:56] @ Quit: lumidify: Quit: Leaving
+[2016/02/29 16:34:19] @ polyphagia joined channel #supertux
+[2016/02/29 16:38:49] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/02/29 16:39:28] @ Quit: tux|dude: Quit: Leaving
+[2016/02/29 16:44:53] @ stewboy joined channel #supertux
+[2016/02/29 16:44:55] <Tobbi> Yup, I got the e-mail from Google re. acceptance.
+[2016/02/29 16:46:06] <sydney_untangle> Tobbi: No acceptance?
+[2016/02/29 16:46:13] <Tobbi> sydney_untangle: Yup.
+[2016/02/29 16:46:16] <Tobbi> We weren't considered.
+[2016/02/29 16:46:18] <Tobbi> So, great.
+[2016/02/29 16:46:31] <sydney_untangle> Heh.
+[2016/02/29 17:02:40] @ Quit: Anupkumar: Quit: Connection closed for inactivity
+[2016/02/29 17:18:01] <Tobbi> Yes, goodbye there.
+[2016/02/29 17:18:06] <Tobbi> I need a break. I really do.
+[2016/02/29 17:19:40] @ stewboy_ joined channel #supertux
+[2016/02/29 17:21:11] @ Quit: stewboy: Ping timeout: 250 seconds
+[2016/02/29 17:21:11] @ stewboy_ is now known as stewboy
+[2016/02/29 17:30:21] @ tux|dude joined channel #supertux
+[2016/02/29 17:46:25] @ Quit: alket: Quit: Tung
+[2016/02/29 17:56:38] @ tuxdude143 joined channel #supertux
+[2016/02/29 17:59:42] @ Quit: tux|dude: Ping timeout: 260 seconds
