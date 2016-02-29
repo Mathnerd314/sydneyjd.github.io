@@ -12272,3 +12272,111 @@
 [2016/02/29 13:59:55] <Tobbi> leyyin: STOP.
 [2016/02/29 13:59:56] <mt> 5 s
 [2016/02/29 14:00:00] <leper`> true, but then you have to factor the cost of that in too
+[2016/02/29 14:00:16] <leper`> (and depending on what you want to do something else might be the better choice)
+[2016/02/29 14:00:19] <mt> The app has moved to the next phase -> REFRESH
+[2016/02/29 14:00:49] <sydney_untangle> Settle down. o_O
+[2016/02/29 14:00:57] <leyyin> lol, new website
+[2016/02/29 14:00:59] <Tobbi> mt: White page, yes.
+[2016/02/29 14:01:01] <Tobbi> Great website.
+[2016/02/29 14:01:28] <leyyin> I can't find supertux :(
+[2016/02/29 14:01:39] <sydney_untangle> Should i install debian and give it to my neighbors so they can run it way beyond their support period? :p
+[2016/02/29 14:01:43] <Tobbi> leyyin: Where is the list?
+[2016/02/29 14:01:48] <leyyin> https://summerofcode.withgoogle.com/organizations/
+[2016/02/29 14:02:16] @ ChanServ set topic "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/"
+[2016/02/29 14:02:25] <sydney_untangle> mt: You can suposably get an orange pi for 15$...
+[2016/02/29 14:02:26] <Tobbi> leyyin: So, that's that.
+[2016/02/29 14:02:28] <leper`> https://i.imgur.com/7drHiqr.gif
+[2016/02/29 14:02:32] <sydney_untangle> Not sure on reliability.
+[2016/02/29 14:03:09] <leyyin> Tobbi, log in to your account
+[2016/02/29 14:03:13] <leyyin> what does it tell you?
+[2016/02/29 14:03:22] <sydney_untangle> Uhm, i don't see supertux listed...
+[2016/02/29 14:03:26] <Tobbi> I'll check.
+[2016/02/29 14:03:31] @ Anupkumar joined channel #supertux
+[2016/02/29 14:03:31] <leyyin> [21:03:17] <apps> its 2015 list i think so plz let me know
+[2016/02/29 14:04:07] <Tobbi> ah!
+[2016/02/29 14:04:09] @ lumidify joined channel #supertux
+[2016/02/29 14:04:09] @ Quit: lumidify: Changing host
+[2016/02/29 14:04:09] @ lumidify joined channel #supertux
+[2016/02/29 14:04:54] <mt> Even Google makes mistakes?!
+[2016/02/29 14:04:55] <Tobbi> leyyin: I won't give you preference
+[2016/02/29 14:04:56] <Tobbi> eh.
+[2016/02/29 14:04:58] <Tobbi> wait.
+[2016/02/29 14:05:04] <Tobbi> http://screencast.com/t/ZcHg5zqk
+[2016/02/29 14:05:06] <Tobbi> That one.
+[2016/02/29 14:05:31] <leyyin> wait for mail from gsoc
+[2016/02/29 14:05:38] <leyyin> ffs, read in #gsoc
+[2016/02/29 14:05:39] <Tobbi> ok.
+[2016/02/29 14:06:50] <Tobbi> leyyin: So, I guess we're not in.
+[2016/02/29 14:07:18] @ bb010g joined channel #supertux
+[2016/02/29 14:08:12] <sydney_untangle> Tobbi: Thunk.
+[2016/02/29 14:08:24] <Tobbi> sydney_untangle: It's fine.
+[2016/02/29 14:08:28] <Tobbi> Means more freetime for me.
+[2016/02/29 14:08:38] <Anupkumar> hehehe
+[2016/02/29 14:09:02] <Tobbi> Anupkumar is someone who wants to help regardless, anyway.
+[2016/02/29 14:09:04] <Tobbi> :)
+[2016/02/29 14:09:17] <Anupkumar> happy to help
+[2016/02/29 14:09:59] <sydney_untangle> :-)
+[2016/02/29 14:10:32] <Tobbi> *sigh*
+[2016/02/29 14:10:46] <Tobbi> Okay, guys, let's all calm down.
+[2016/02/29 14:11:30] <sydney_untangle> mt: The raspberry pi idea is fine, but i would have to buy a 2tb HDD if i wanted to give up on my server.
+[2016/02/29 14:11:40] <sydney_untangle> So not as affordable.
+[2016/02/29 14:12:04] <sydney_untangle> Plus all of the stuff to power the RPI...
+[2016/02/29 14:12:20] <leyyin> hahaha "People who work or have worked for Microsoft should probably not participate" https://wiki.winehq.org/Summer_Of_Code#Beware_of_Legal_Requirements
+[2016/02/29 14:13:06] <Tobbi> leyyin: Because people could assume they reverse-engineered or misused code?
+[2016/02/29 14:13:21] @ Quit: claymore2: Quit: Leaving
+[2016/02/29 14:13:37] <sydney_untangle> I'm still using an IDE HDD.
+[2016/02/29 14:13:41] * sydney_untangle cringes...
+[2016/02/29 14:14:02] <leyyin> sydney_untangle, still using PATA
+[2016/02/29 14:14:15] <Tobbi> sydney_untangle: Actually, you can take a look at our GSOC ideas list...
+[2016/02/29 14:14:19] <Tobbi> eeh, not you
+[2016/02/29 14:14:24] <Tobbi> I meant Anupkumar
+[2016/02/29 14:14:52] <sydney_untangle> leyyin: PATA, IDE same thing.
+[2016/02/29 14:14:57] <Tobbi> Anupkumar: https://github.com/SuperTux/supertux/wiki/GSoC-2016-Ideas
+[2016/02/29 14:14:59] <Tobbi> If you want...
+[2016/02/29 14:15:03] <Anupkumar> Tobbi: sure,
+[2016/02/29 14:15:23] <Tobbi> Anupkumar: https://github.com/SuperTux/supertux source code.
+[2016/02/29 14:15:30] <Tobbi> *sigh* I am actually tired of this.
+[2016/02/29 14:16:39] <sydney_untangle> Tobbi: Go to sleep. ;)
+[2016/02/29 14:16:46] <Tobbi> If anyone else wants to help out Anupkumar getting up and running with supertux development...
+[2016/02/29 14:16:46] <Tobbi> sydney_untangle: at 8pm?
+[2016/02/29 14:16:56] <leyyin> good godm gentoo
+[2016/02/29 14:17:03] <Tobbi> leyyin: what about it?
+[2016/02/29 14:17:12] <leyyin> got accepted
+[2016/02/29 14:17:26] <Anupkumar> Tobbi: if you don't mind, can i do it tomorrow, it is almost 1AM here
+[2016/02/29 14:17:34] <Tobbi> Anupkumar: Sure, no problem.
+[2016/02/29 14:17:42] <leyyin> Anupkumar, india? :P
+[2016/02/29 14:17:47] <sydney_untangle> Anupkumar: Wow, its 2PM here. :)
+[2016/02/29 14:17:50] <Anupkumar> leyyin: yeah
+[2016/02/29 14:18:58] <Tobbi> I could technically apply as a student.
+[2016/02/29 14:18:59] <Tobbi> :D
+[2016/02/29 14:19:07] <Tobbi> Now that we didn't get selected.
+[2016/02/29 14:19:56] @ VargaD joined channel #supertux
+[2016/02/29 14:20:24] <leyyin> sigh
+[2016/02/29 14:20:51] <Tobbi> leyyin: stop sigh'ing.
+[2016/02/29 14:21:01] <Tobbi> As I said: That one is fairly copyrighted by me.
+[2016/02/29 14:21:43] <leyyin> Wayland and Xorg got accepted :D
+[2016/02/29 14:22:07] <leyyin> Xorg idea, replace with wayland :D
+[2016/02/29 14:22:08] <Tobbi> Are there any games accepted?
+[2016/02/29 14:22:12] <leyyin> tuxkids
+[2016/02/29 14:22:38] <Tobbi> I'm happy that wine got accepted.
+[2016/02/29 14:22:51] <Tobbi> Oh, wait, we talked about that :D
+[2016/02/29 14:23:08] <leyyin> https://docs.google.com/document/d/122e6yOXdZzus-XLLJivGIiarCKFPW752CwRilKGH7mo/edit
+[2016/02/29 14:23:52] <leyyin> SuperTuxKart racetrack generator based on OSM2World
+[2016/02/29 14:23:58] <leyyin> lolwhat
+[2016/02/29 14:23:59] <leyyin> https://wiki.openstreetmap.org/wiki/Google_Summer_of_Code/2016/Project_Ideas
+[2016/02/29 14:24:56] <Tobbi> :D
+[2016/02/29 14:25:40] @ datahead8888_ is now known as datahead7777
+[2016/02/29 14:30:44] <leyyin> https://twitter.com/andadapt/status/704042192394919936
+[2016/02/29 14:33:06] <Tobbi> *sigh*
+[2016/02/29 14:39:39] @ tux|dude joined channel #supertux
+[2016/02/29 14:51:16] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/02/29 15:16:12] @ alket_ joined channel #supertux
+[2016/02/29 15:18:43] @ Quit: alket: Ping timeout: 248 seconds
+[2016/02/29 15:23:03] @ swift110_ joined channel #supertux
+[2016/02/29 15:23:41] @ alket_ is now known as alket
+[2016/02/29 15:29:26] <pentagon> [10supertux] 07brmbrmcar commented on issue 09#258: Ice, air and earth Christmas hats 13https://git.io/vRAYt
+[2016/02/29 15:39:27] @ Quit: tux|dude: Quit: Leaving
+[2016/02/29 15:54:29] @ Quit: lumidify: Read error: Connection reset by peer
+[2016/02/29 15:55:01] @ Quit: swift110_: Remote host closed the connection
+[2016/02/29 15:55:53] @ lumidify joined channel #supertux
+[2016/02/29 15:57:17] @ tux|dude joined channel #supertux
