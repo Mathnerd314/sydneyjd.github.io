@@ -11539,3 +11539,9 @@
 [2016/02/29 03:06:34] @ datahead8888_ joined channel #supertux
 [2016/02/29 03:10:21] @ Quit: datahead7777: Ping timeout: 268 seconds
 [2016/02/29 03:20:03] @ Quit: tuxdev_: Ping timeout: 246 seconds
+[2016/02/29 04:52:57] @ lumidify joined channel #supertux
+[2016/02/29 04:56:13] @ Quit: tux|dude: Quit: Leaving
+[2016/02/29 05:05:23] @ Quit: lumidify: Ping timeout: 248 seconds
+[2016/02/29 05:51:48] <Tobbi> sydney_untangle: Smart tile = Smart tile templates. For example, select "Medium tree" and it will add a medium tree to your selection.
+[2016/02/29 05:52:13] <Tobbi> I came up with "Smart tile", but the name should be changed in the final thing.
+[2016/02/29 05:52:18] <Tobbi> Just wanted to give it a unique name.
