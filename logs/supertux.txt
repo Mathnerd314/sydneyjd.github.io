@@ -12490,3 +12490,28 @@
 [2016/03/01 09:21:18] @ Quit: datahead7777: Quit: Leaving
 [2016/03/01 09:33:13] @ irungentoo joined channel #supertux
 [2016/03/01 09:48:50] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/03/01 10:12:49] @ tuxdev_ joined channel #supertux
+[2016/03/01 10:36:23] @ Necrosporus_ joined channel #supertux
+[2016/03/01 10:39:47] @ Quit: Necrosporus: Ping timeout: 248 seconds
+[2016/03/01 11:38:38] @ alket joined channel #supertux
+[2016/03/01 11:44:45] @ Hume2 joined channel #supertux
+[2016/03/01 11:44:46] @ Mode +v Hume2 by ChanServ
+[2016/03/01 11:44:51] <Hume2> Hello
+[2016/03/01 11:45:34] <Hume2> The electricity was turned off when it was 19:55.
+[2016/03/01 11:45:59] <Hume2> That's why I wasn't there when we received that we haven't succeeded.
+[2016/03/01 11:51:50] <Hume2> I saw juat a strong light from the window for a moment and everything shutting down.
+[2016/03/01 11:53:05] <sydney_untangle> Hume2: Ouch.
+[2016/03/01 11:53:21] <sydney_untangle> Hume2: Thunder storm? Or did a transformer explode?
+[2016/03/01 11:53:44] <Hume2> sydney_untangle: It was snowing strongly.
+[2016/03/01 11:54:01] <Hume2> It was quite weird.
+[2016/03/01 11:54:19] <Hume2> It started with a rain, then it turned to snow.
+[2016/03/01 11:54:46] <Tobbi> hello.
+[2016/03/01 11:55:00] <Tobbi> And then it turned into kugelblitz?
+[2016/03/01 11:55:17] <Hume2> I'm not sure what exactly happened.
+[2016/03/01 11:55:56] <Hume2> I just saw the light everywhere in the window.
+[2016/03/01 11:56:01] <pentagon> [10flexlay] 07tobbi pushed 1 commit to 09smart_tiles 13https://git.io/v2ipF
+[2016/03/01 11:56:05] <pentagon> [10flexlay] 07tobbi 14cacbbc8 Add blue pipe
+[2016/03/01 11:56:26] <Hume2> It made a noise like a flash, but I didn't see any other flash.
+[2016/03/01 11:58:00] <Tobbi> Hume2: Better flash than fleshlight.
+[2016/03/01 11:58:04] <Tobbi> eeh, nvm that.
+[2016/03/01 11:58:53] <Tobbi> Hume2: if you want, you can participate to the smart tiles thing. You know the syntax by now.
