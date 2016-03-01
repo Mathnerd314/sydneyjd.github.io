@@ -12487,3 +12487,6 @@
 [2016/03/01 07:27:44] @ lumidify joined channel #supertux
 [2016/03/01 07:40:49] @ Necrosporus joined channel #supertux
 [2016/03/01 07:41:58] @ Quit: lumidify: Read error: Connection reset by peer
+[2016/03/01 09:21:18] @ Quit: datahead7777: Quit: Leaving
+[2016/03/01 09:33:13] @ irungentoo joined channel #supertux
+[2016/03/01 09:48:50] @ Quit: bb010g: Quit: Connection closed for inactivity
