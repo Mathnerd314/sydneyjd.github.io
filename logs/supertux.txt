@@ -12515,3 +12515,74 @@
 [2016/03/01 11:58:00] <Tobbi> Hume2: Better flash than fleshlight.
 [2016/03/01 11:58:04] <Tobbi> eeh, nvm that.
 [2016/03/01 11:58:53] <Tobbi> Hume2: if you want, you can participate to the smart tiles thing. You know the syntax by now.
+[2016/03/01 12:00:20] <Hume2> Tobbi: That suggests me that I could finally start to study the flexlay code :P
+[2016/03/01 12:00:46] <Tobbi> Hume2: It's not hard, you just need to know python....and need to be a magician.
+[2016/03/01 12:00:53] <sydney_untangle> Hume2: Ah, well it is snowing very strongly now.
+[2016/03/01 12:01:50] <Tobbi> sydney_untangle: Snow is falling all around me, children playing, having fun, it's the season for love and understnading, happy March everyone.
+[2016/03/01 12:02:51] <sydney_untangle> Tobbi: o_O
+[2016/03/01 12:03:03] <Tobbi> sydney_untangle: no, there's no snow falling here in Germanz.
+[2016/03/01 12:03:04] <Tobbi> Germany
+[2016/03/01 12:06:23] <Hume2> Achievement get: Run Flexlay :P
+[2016/03/01 12:08:00] <Tobbi> Hume2: Which branch?
+[2016/03/01 12:08:11] <Hume2> Tobbi: master
+[2016/03/01 12:08:16] <Tobbi> Hume2: *sigh*
+[2016/03/01 12:08:20] <Tobbi> Hume2: Try develop
+[2016/03/01 12:08:22] <Tobbi> Master is so outdated.
+[2016/03/01 12:08:24] <Hume2> OK
+[2016/03/01 12:10:52] <Hume2> Sorry, I was on develop.
+[2016/03/01 12:11:48] <Tobbi> Ah, okay, so it's fine.
+[2016/03/01 12:12:35] <Tobbi> Hume2: So, what do you want to get started on? :P You can check out my smart_tiles branch.
+[2016/03/01 12:12:39] <Tobbi> check the diff, one moment.
+[2016/03/01 12:12:57] <Hume2> Tobbi: Could you rebase?
+[2016/03/01 12:13:06] <Tobbi> Hume2: Against latest master, sure.
+[2016/03/01 12:13:10] <Tobbi> eeh, against develop, I mean.
+[2016/03/01 12:13:14] <Hume2> on develop?
+[2016/03/01 12:14:03] <Hume2> nvm
+[2016/03/01 12:14:07] <Tobbi> I have done so.
+[2016/03/01 12:14:07] <pentagon> [10flexlay] 07tobbi 04force-pushed 7 commits to 09smart_tiles 13https://git.io/v2PfK
+[2016/03/01 12:14:10] <pentagon> [10flexlay] 07tobbi 14aac5d31 Add basic interface for Smart tiles
+[2016/03/01 12:14:13] <pentagon> [10flexlay] 07tobbi 14a03e147 Add smart tile selector (WIP)
+[2016/03/01 12:14:15] <pentagon> [10flexlay] 07tobbi 14150b932 Add a few brush examples
+[2016/03/01 12:14:15] <Tobbi> It'll be over soon.
+[2016/03/01 12:14:18] <pentagon> [10flexlay] 07tobbi 14b55ad94 Move smarttiles to csv file
+[2016/03/01 12:14:20] <Hume2> Thanks.
+[2016/03/01 12:14:21] <pentagon> [10flexlay] 07tobbi 14e14b902 Add more smart tiles
+[2016/03/01 12:14:24] <pentagon> [10flexlay] 07tobbi 14ee53750 Add ID to smart tiles
+[2016/03/01 12:14:27] <pentagon> [10flexlay] 07tobbi 1426017f2 Add blue pipe
+[2016/03/01 12:15:02] <Tobbi> Hume2: So, the way I imagine it is the following: People select "blue pipe" from the list, then a basic blue pipe appears. And you can use the scroll wheel to make the pipe bigger or smaller.
+[2016/03/01 12:15:07] <Tobbi> And clicking will add it to the sector
+[2016/03/01 12:15:33] <Hume2> OK, I have to study the code first.
+[2016/03/01 12:15:40] <Tobbi> ok
+[2016/03/01 12:15:44] <Tobbi> no problem.
+[2016/03/01 12:15:52] <Tobbi> Much of it is PyQT stuff.
+[2016/03/01 12:16:01] <Tobbi> if you want, join #pyqt
+[2016/03/01 12:30:59] <Tobbi> Hume2: Progress on understanding the code?
+[2016/03/01 12:34:16] <Hume2> Tobbi: I was now afk.
+[2016/03/01 12:34:22] <Tobbi> Ah okay.
+[2016/03/01 12:44:50] <Hume2> The code doesn't seem hard at all.
+[2016/03/01 12:48:47] <Hume2> Tobbi: I know that I'd possibly figure it myself, but could you get me familiar with that code a bit?
+[2016/03/01 12:49:13] <Tobbi> Hume2: Uhm, sure. I just don't know where to start :D
+[2016/03/01 12:49:21] <Tobbi> Normally I just look for where something is defined.
+[2016/03/01 12:49:52] <Hume2> I know. Let's start with the main gui.
+[2016/03/01 12:50:34] <Hume2> Tobbi: Isn't it the editor_map_widget by the chance?
+[2016/03/01 12:50:56] <Tobbi> Hume2: editor_map_widget is the overview widget on the bottom right
+[2016/03/01 12:51:21] <Hume2> oops
+[2016/03/01 12:51:58] <Hume2> Tobbi: Where are the clicks proccessed?
+[2016/03/01 12:52:35] <Tobbi> Hume2: In the individual widget codes.
+[2016/03/01 12:52:43] <Tobbi> Hume2: Which clicks are we talking about,.
+[2016/03/01 12:52:44] <Tobbi> ?
+[2016/03/01 12:53:13] <Hume2> Tobbi: When I click the mouse, where is it proccessed first?
+[2016/03/01 12:53:26] <Tobbi> Hume2: That depends on the widget you click on.
+[2016/03/01 12:53:42] <Hume2> OK.
+[2016/03/01 12:53:58] <Hume2> And in which widget is the tilemap shown?
+[2016/03/01 12:54:26] <Tobbi> Hume2: You mean the tile selection?
+[2016/03/01 12:54:37] <Hume2> No, I mean the level.
+[2016/03/01 12:54:47] <Tobbi> Ah, one moment.
+[2016/03/01 12:54:56] <Tobbi> Oh, that might actually be editor_map_widget.
+[2016/03/01 12:55:26] <Tobbi> https://github.com/SuperTux/flexlay/blob/develop/flexlay/editor_map.py
+[2016/03/01 12:56:39] <Hume2> It seems reasonable.
+[2016/03/01 13:26:52] @ Quit: jeezy: Ping timeout: 264 seconds
+[2016/03/01 13:37:29] @ jeexy joined channel #supertux
+[2016/03/01 13:47:28] @ Wuzzy joined channel #supertux
+[2016/03/01 13:52:42] <Hume2> I'll look into it later, bye!
+[2016/03/01 13:52:45] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
