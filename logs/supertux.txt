@@ -12401,3 +12401,30 @@
 [2016/02/29 17:46:25] @ Quit: alket: Quit: Tung
 [2016/02/29 17:56:38] @ tuxdude143 joined channel #supertux
 [2016/02/29 17:59:42] @ Quit: tux|dude: Ping timeout: 260 seconds
+[2016/02/29 18:08:52] @ Quit: tuxdude143: Quit: Leaving
+[2016/02/29 18:09:25] @ tux|dude joined channel #supertux
+[2016/02/29 18:09:52] @ Quit: tux|dude: Read error: Connection reset by peer
+[2016/02/29 18:11:13] @ tux|dude joined channel #supertux
+[2016/02/29 18:11:55] @ Quit: tux|dude: Client Quit
+[2016/02/29 18:12:08] @ tux|dude joined channel #supertux
+[2016/02/29 18:12:43] @ Quit: tux|dude: Read error: Connection reset by peer
+[2016/02/29 18:12:52] @ tux|dude joined channel #supertux
+[2016/02/29 18:29:18] @ Quit: tux|dude: Quit: Leaving
+[2016/02/29 18:34:52] @ tux|dude joined channel #supertux
+[2016/02/29 18:43:49] @ Quit: Vorpal: Ping timeout: 260 seconds
+[2016/02/29 18:46:57] @ Vorpal joined channel #supertux
+[2016/02/29 18:47:20] @ Quit: tux|dude: Quit: Leaving
+[2016/02/29 18:50:03] @ irungentoo joined channel #supertux
+[2016/02/29 19:41:40] @ Joined channel #supertux
+[2016/02/29 19:41:40] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/"
+[2016/02/29 19:41:40] @ Topic set by mt on 2016-02-29 14:02:16 -0500
+[2016/02/29 19:41:44] @ Mode +Cntzj 5:10 by weber.freenode.net
+[2016/02/29 19:41:53] @ Mode +v red_bot by ChanServ
+[2016/02/29 19:53:09] @ tobiasmarkus joined channel #supertux
+[2016/02/29 19:53:15] <tobiasmarkus> ah.
+[2016/02/29 19:53:24] <tobiasmarkus> Not what I expected.
+[2016/02/29 19:53:26] @ tobiasmarkus left channel #supertux ()
+[2016/02/29 19:58:06] <Tobbi> okay...
+[2016/02/29 19:58:22] <Tobbi> I
+[2016/02/29 19:58:27] <Tobbi> m testing out irssi
+[2016/02/29 19:58:32] <Tobbi> So far it seems to be working.
