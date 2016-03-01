@@ -12428,3 +12428,15 @@
 [2016/02/29 19:58:22] <Tobbi> I
 [2016/02/29 19:58:27] <Tobbi> m testing out irssi
 [2016/02/29 19:58:32] <Tobbi> So far it seems to be working.
+[2016/02/29 20:02:18] <Tobbi> ¡
+[2016/02/29 20:02:20] <Tobbi> heh
+[2016/02/29 20:03:46] @ tux|dude joined channel #supertux
+[2016/02/29 20:04:33] <Tobbi> Also, I just found out that I can split console windows, by accident.
+[2016/02/29 20:17:49] @ bb010g joined channel #supertux
+[2016/02/29 20:44:06] <Tobbi> ~seen giby
+[2016/02/29 20:44:06] <red_bot> Tobbi: giby was last seen 1 month, 7 days, 3 hours, 11 minutes and 2 seconds ago, quitting IRC (Quit: Quitte)
+[2016/02/29 20:44:14] <Tobbi> hmm...
+[2016/02/29 20:45:00] <Tobbi> In any case...
+[2016/02/29 21:01:14] @ Quit: tux|dude: Quit: Leaving
+[2016/02/29 21:53:48] @ paroneay` joined channel #supertux
+[2016/02/29 21:54:02] @ Quit: paroneayea: Read error: Connection reset by peer
