@@ -12597,3 +12597,21 @@
 [2016/03/01 15:40:01] @ Quit: tux|dude: Quit: Leaving
 [2016/03/01 15:41:22] @ datahead8888 joined channel #supertux
 [2016/03/01 15:41:58] @ datahead8888 is now known as datahead7777
+[2016/03/01 16:04:04] @ giby joined channel #supertux
+[2016/03/01 16:04:04] @ Mode +o giby by ChanServ
+[2016/03/01 16:07:54] <Tobbi> Hello giby.
+[2016/03/01 16:07:56] <Tobbi> Long time no see.
+[2016/03/01 16:08:44] <giby> Hi Tobbi, yes I'm overbooked
+[2016/03/01 16:08:50] <Tobbi> giby: No problem.
+[2016/03/01 16:08:51] @ tux|dude joined channel #supertux
+[2016/03/01 16:09:04] <giby> any news?
+[2016/03/01 16:09:32] <Tobbi> giby: Well, we didn't get accepted for google summer of code.
+[2016/03/01 16:09:39] <Tobbi> But development is going steadily.
+[2016/03/01 16:14:09] <giby> Ok
+[2016/03/01 16:25:18] @ Quit: claymore2: Quit: Leaving
+[2016/03/01 16:39:21] @ Quit: tux|dude: Quit: Leaving
+[2016/03/01 17:13:00] @ stewboy joined channel #supertux
+[2016/03/01 17:20:37] @ Quit: Wuzzy: Quit: Wuzzy
+[2016/03/01 17:34:52] @ tux|dude joined channel #supertux
+[2016/03/01 17:39:08] @ Quit: alket: Quit: Tung
+[2016/03/01 17:52:41] @ Quit: Anupkumar: Quit: Connection closed for inactivity
