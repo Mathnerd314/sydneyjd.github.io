@@ -12469,3 +12469,21 @@
 [2016/03/01 05:20:36] @ Quit: lumidify: Changing host
 [2016/03/01 05:20:36] @ lumidify joined channel #supertux
 [2016/03/01 05:30:55] @ Quit: lumidify: Ping timeout: 250 seconds
+[2016/03/01 06:10:36] @ leyyin joined channel #supertux
+[2016/03/01 06:25:46] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/03/01 06:32:40] @ Joined channel #supertux
+[2016/03/01 06:32:40] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/"
+[2016/03/01 06:32:40] @ Topic set by mt on 2016-02-29 14:02:16 -0500
+[2016/03/01 06:32:43] @ Mode +Cntzj 5:10 by cameron.freenode.net
+[2016/03/01 06:32:52] @ Mode +v red_bot by ChanServ
+[2016/03/01 06:35:32] @ Anupkumar joined channel #supertux
+[2016/03/01 06:47:08] @ lumidify joined channel #supertux
+[2016/03/01 06:47:08] @ Quit: lumidify: Changing host
+[2016/03/01 06:47:08] @ lumidify joined channel #supertux
+[2016/03/01 07:20:46] @ Quit: MCMiic: Remote host closed the connection
+[2016/03/01 07:24:35] @ Quit: lumidify: Ping timeout: 248 seconds
+[2016/03/01 07:25:45] <Tobbi> Anupkumar: If you want, you can try to build supertux. Try git clone <git repo url> && cmake . && make
+[2016/03/01 07:25:49] <Tobbi> I'll bbl.
+[2016/03/01 07:27:44] @ lumidify joined channel #supertux
+[2016/03/01 07:40:49] @ Necrosporus joined channel #supertux
+[2016/03/01 07:41:58] @ Quit: lumidify: Read error: Connection reset by peer
