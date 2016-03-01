@@ -12586,3 +12586,14 @@
 [2016/03/01 13:47:28] @ Wuzzy joined channel #supertux
 [2016/03/01 13:52:42] <Hume2> I'll look into it later, bye!
 [2016/03/01 13:52:45] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/03/01 14:01:10] @ Quit: paroneayea: Ping timeout: 252 seconds
+[2016/03/01 14:06:33] @ jeexy is now known as jeezy
+[2016/03/01 14:06:34] @ Quit: jeezy: Changing host
+[2016/03/01 14:06:34] @ jeezy joined channel #supertux
+[2016/03/01 14:07:06] @ claymore2 joined channel #supertux
+[2016/03/01 14:25:40] @ Quit: jeezy: *.net *.split
+[2016/03/01 14:31:27] @ jeezy joined channel #supertux
+[2016/03/01 14:39:16] @ tux|dude joined channel #supertux
+[2016/03/01 15:40:01] @ Quit: tux|dude: Quit: Leaving
+[2016/03/01 15:41:22] @ datahead8888 joined channel #supertux
+[2016/03/01 15:41:58] @ datahead8888 is now known as datahead7777
