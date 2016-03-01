@@ -12440,3 +12440,14 @@
 [2016/02/29 21:01:14] @ Quit: tux|dude: Quit: Leaving
 [2016/02/29 21:53:48] @ paroneay` joined channel #supertux
 [2016/02/29 21:54:02] @ Quit: paroneayea: Read error: Connection reset by peer
+[2016/02/29 22:13:43] @ paroneay` is now known as paroneayea
+[2016/02/29 23:12:03] @ tux|dude joined channel #supertux
+[2016/02/29 23:33:57] @ Quit: irungentoo: Ping timeout: 276 seconds
+[2016/03/01 00:26:54] @ lumidify joined channel #supertux
+[2016/03/01 00:26:54] @ Quit: lumidify: Changing host
+[2016/03/01 00:26:54] @ lumidify joined channel #supertux
+[2016/03/01 01:03:42] @ Quit: lumidify: Ping timeout: 248 seconds
+[2016/03/01 01:47:39] @ MCMiic joined channel #supertux
+[2016/03/01 01:50:30] @ tuxdude143 joined channel #supertux
+[2016/03/01 01:51:45] @ Quit: tux|dude: Ping timeout: 246 seconds
+[2016/03/01 01:56:37] @ lumidify joined channel #supertux
