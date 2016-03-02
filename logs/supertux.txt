@@ -12650,3 +12650,21 @@
 [2016/03/02 07:58:40] <pentagon> [10flexlay] 07tobbi 14ebc812a TODO: FIX THIS (Uncommented code that was causing an exception at start)
 [2016/03/02 07:58:42] <pentagon> [10flexlay] 07tobbi 14fd05cbb Fix error for window geometry
 [2016/03/02 07:58:45] <pentagon> [10flexlay] 07tobbi 1424b1904 Pass pos and data to super ctor
+[2016/03/02 08:06:52] <pentagon> [10flexlay] 07tobbi pushed 2 commits to 09pyqt5 13https://git.io/v2Mca
+[2016/03/02 08:06:55] <pentagon> [10flexlay] 07tobbi 145d76751 Revert "TODO: FIX THIS (Uncommented code that was causing an exception at start)"
+[2016/03/02 08:06:58] <pentagon> [10flexlay] 07tobbi 14557a590 Fix crash
+[2016/03/02 08:11:16] <pentagon> [10flexlay] 07tobbi 04force-pushed 1 commit to 09pyqt5 13https://git.io/v2MCG
+[2016/03/02 08:11:19] <pentagon> [10flexlay] 07tobbi 14c9c348d PyQt4 -> PyQt5: Change imports
+[2016/03/02 08:12:27] <pentagon> [10flexlay] 07tobbi 04force-pushed 1 commit to 09pyqt5 13https://git.io/v2MCg
+[2016/03/02 08:12:29] <pentagon> [10flexlay] 07tobbi 1485c5381 Update from PyQt4 to PyQt5
+[2016/03/02 08:16:04] <pentagon> [10flexlay] 07tobbi 04force-pushed 1 commit to 09pyqt5 13https://git.io/v2MCh
+[2016/03/02 08:16:11] <pentagon> [10flexlay] 07tobbi 14bea1be9 Update from PyQt4 to PyQt5
+[2016/03/02 08:19:52] <pentagon> [10flexlay] 07tobbi opened pull request 09#75: Update from PyQt4 to PyQt5 13https://git.io/v2MWr
+[2016/03/02 08:21:18] <pentagon> [10flexlay] 07tobbi commented on issue 09#75: Update from PyQt4 to PyQt5 13https://git.io/v2MWr
+[2016/03/02 08:38:04] <pentagon> [10flexlay] 07tobbi pushed 1 commit to 09pyqt5 13https://git.io/v2M4g
+[2016/03/02 08:38:07] <pentagon> [10flexlay] 07tobbi 14ae4ca1e Further changes for PyQt5
+[2016/03/02 08:38:14] <pentagon> [10flexlay] 07tobbi synchronized pull request 09#75: Update from PyQt4 to PyQt5 13https://git.io/v2MWr
+[2016/03/02 08:47:03] <pentagon> [10flexlay] 07tobbi pushed 1 commit to 09pyqt5 13https://git.io/v2MRt
+[2016/03/02 08:47:06] <pentagon> [10flexlay] 07tobbi 144592318 Fix selecting tiles
+[2016/03/02 08:47:13] <pentagon> [10flexlay] 07tobbi synchronized pull request 09#75: Update from PyQt4 to PyQt5 13https://git.io/v2MWr
+[2016/03/02 09:19:21] @ Quit: giby: Ping timeout: 276 seconds
