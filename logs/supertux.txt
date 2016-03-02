@@ -12668,3 +12668,126 @@
 [2016/03/02 08:47:06] <pentagon> [10flexlay] 07tobbi 144592318 Fix selecting tiles
 [2016/03/02 08:47:13] <pentagon> [10flexlay] 07tobbi synchronized pull request 09#75: Update from PyQt4 to PyQt5 13https://git.io/v2MWr
 [2016/03/02 09:19:21] @ Quit: giby: Ping timeout: 276 seconds
+[2016/03/02 10:27:10] @ tuxdev_ joined channel #supertux
+[2016/03/02 10:29:44] <Tobbi> hrm.
+[2016/03/02 10:29:49] <Tobbi> It'd be nice if hume joined.
+[2016/03/02 10:32:26] @ giby joined channel #supertux
+[2016/03/02 10:32:26] @ Mode +o giby by ChanServ
+[2016/03/02 10:36:50] @ fr_rrr joined channel #supertux
+[2016/03/02 10:40:17] @ Quit: Necrosporus_: Ping timeout: 250 seconds
+[2016/03/02 10:41:39] <Tobbi> giby: Morning. Have you ever managed to get flexlay running?
+[2016/03/02 10:42:18] <giby> running, yes, working: no
+[2016/03/02 10:42:52] <Tobbi> giby: What's that supposed to mean?
+[2016/03/02 10:44:52] <giby> Last time I tried, I could run the program, it opened etc, but was not responding
+[2016/03/02 10:47:29] <Tobbi> Ah, okay.
+[2016/03/02 10:51:49] <sydney_untangle> Hah. :)
+[2016/03/02 10:53:00] <Tobbi> sydney_untangle: What about you?
+[2016/03/02 11:05:08] <pentagon> [10flexlay] 07tobbi pushed 1 commit to 09develop 13https://git.io/v2Mji
+[2016/03/02 11:05:11] <pentagon> [10flexlay] 07tobbi 145dd0529 set_callback -> add_callback
+[2016/03/02 11:05:54] <pentagon> [10flexlay] 07tobbi synchronized pull request 09#75: (WIP) Update from PyQt4 to PyQt5 13https://git.io/v2MWr
+[2016/03/02 11:05:57] <pentagon> [10flexlay] 07tobbi 04force-pushed 3 commits to 09pyqt5 13https://git.io/v2Mjb
+[2016/03/02 11:05:59] <pentagon> [10flexlay] 07tobbi 14537dea1 Update from PyQt4 to PyQt5
+[2016/03/02 11:06:02] <pentagon> [10flexlay] 07tobbi 145b8a203 Further changes for PyQt5
+[2016/03/02 11:06:05] <pentagon> [10flexlay] 07tobbi 14d87e790 Fix selecting tiles
+[2016/03/02 11:14:38] <sydney_untangle> Tobbi: I can build and run the old editor, whichever one that was.
+[2016/03/02 11:14:50] <Tobbi> sydney_untangle: What about the new one? :P
+[2016/03/02 11:15:03] <pentagon> [10supertux] 07Savsish opened issue 09#371: SuperTux Milestone 3 (0.5.0) will be more complete and stable than Milestone 2 0.4.0 13https://git.io/v2DJl
+[2016/03/02 11:15:27] <Tobbi> WHAAAT?
+[2016/03/02 11:15:58] <Tobbi> And I thought he'd given it up.
+[2016/03/02 11:18:48] <Tobbi> Anupkumar: If you want something to do, do you know Python?
+[2016/03/02 11:19:14] @ lumidify joined channel #supertux
+[2016/03/02 11:22:36] @ leyyin joined channel #supertux
+[2016/03/02 11:24:05] <Tobbi> Oh, look, a wild leyyin appears.
+[2016/03/02 11:24:22] <sydney_untangle> Tobbi: Ugg, savsish...
+[2016/03/02 11:24:30] <leyyin> SUPER TUX
+[2016/03/02 11:24:30] <Tobbi> sydney_untangle: Yes, exactly what I meant.
+[2016/03/02 11:24:37] <Tobbi> sydney_untangle: What is with this guy?
+[2016/03/02 11:25:10] <Tobbi> leyyin: Do I ban this guy? https://github.com/SuperTux/supertux/issues/371
+[2016/03/02 11:25:17] <Tobbi> Can I even ban him?
+[2016/03/02 11:25:24] <sydney_untangle> I wish.
+[2016/03/02 11:25:46] <Tobbi> sydney_untangle: Not sure if I can...
+[2016/03/02 11:26:09] <leyyin> what is his issue?
+[2016/03/02 11:26:10] <Tobbi> haha.
+[2016/03/02 11:26:15] <leyyin> close, wontfix
+[2016/03/02 11:26:25] <Tobbi> leyyin: He's been pretty annoying...
+[2016/03/02 11:26:31] <Tobbi> All of his issues are like this.
+[2016/03/02 11:27:23] <Tobbi> https://github.com/SuperTux/supertux/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+author%3ASavsish
+[2016/03/02 11:27:48] <pentagon> [10supertux] 07tobbi closed issue 09#371: SuperTux Milestone 3 (0.5.0) will be more complete and stable than Milestone 2 (0.4.0) 13https://git.io/v2DJl
+[2016/03/02 11:28:21] <leyyin> SUPER TUX
+[2016/03/02 11:28:33] <Tobbi> leyyin: Stop.
+[2016/03/02 11:28:41] <leyyin> TUX
+[2016/03/02 11:28:42] <Tobbi> I should add a factoid for that.
+[2016/03/02 11:28:47] <leyyin> https://en.wikipedia.org/wiki/Superhot
+[2016/03/02 11:28:49] <Tobbi> ~stop is leyyin: Stop!
+[2016/03/02 11:28:53] <Tobbi> no, that didn't work.
+[2016/03/02 11:28:55] <Tobbi> damn.
+[2016/03/02 11:30:16] <sydney_untangle> Tobbi: Wait for him to open another issue... :p
+[2016/03/02 11:30:24] <Tobbi> sydney_untangle: Stephen Groundwater said "Also - hey Dev team, nice job on the latest release !" on the mailing list :)
+[2016/03/02 11:30:25] <Tobbi> Praise.
+[2016/03/02 11:30:26] <Tobbi> :)
+[2016/03/02 11:30:59] <sydney_untangle> Tobbi: I know... i can read. :D
+[2016/03/02 11:31:12] <pentagon> [10supertux] 07Savsish commented on issue 09#316: Burning Should Be a Particle Effect 13https://git.io/vEhTQ
+[2016/03/02 11:31:14] <Tobbi> haha.
+[2016/03/02 11:31:21] <Tobbi> oh, I thought he opened another issue.
+[2016/03/02 11:31:29] <sydney_untangle> Whewph.
+[2016/03/02 11:31:48] <Tobbi> sydney_untangle: He's bashing me.
+[2016/03/02 11:31:55] <Tobbi> Somewhat.
+[2016/03/02 11:32:42] <Tobbi> leyyin: Is there a way to block a user from an org so that he can't add new issues etc.?
+[2016/03/02 11:33:07] <leyyin> yes, go to his house
+[2016/03/02 11:33:09] <leyyin> smack him
+[2016/03/02 11:33:21] <Tobbi> leyyin: That's not blocking. Also, I am not an organization.
+[2016/03/02 11:34:06] @ Quit: lumidify: Ping timeout: 248 seconds
+[2016/03/02 11:34:33] <Tobbi> Someone asked me whether we should put SuperTux on steam.
+[2016/03/02 11:34:36] <Tobbi> I don't know who it was.
+[2016/03/02 11:34:43] @ Quit: tuxdev_: Ping timeout: 248 seconds
+[2016/03/02 11:34:57] <Tobbi> Oh, yeah, it was samuncle.
+[2016/03/02 11:35:23] <Tobbi> Objections?
+[2016/03/02 11:35:52] <sydney_untangle> I object! For no reason!
+[2016/03/02 11:35:53] <leyyin> see #stk
+[2016/03/02 11:36:26] <Tobbi> sydney_untangle: Why do you object?
+[2016/03/02 11:36:38] <Tobbi> For no reason is not good enough.
+[2016/03/02 11:42:31] @ alket joined channel #supertux
+[2016/03/02 11:45:16] @ Hume2 joined channel #supertux
+[2016/03/02 11:45:17] @ Mode +v Hume2 by ChanServ
+[2016/03/02 11:45:23] <Hume2> Hello
+[2016/03/02 11:46:29] <leyyin> ahoy
+[2016/03/02 11:46:58] <Hume2> Why not ahoj? :D
+[2016/03/02 11:47:56] <Hume2> Someone made a lollious bug report :D https://github.com/SuperTux/supertux/issues/371
+[2016/03/02 11:48:33] <Tobbi> Hello, Hume2.
+[2016/03/02 11:48:43] <Tobbi> Hume2: I saw that.
+[2016/03/02 11:48:57] <Hume2> I'll lock the conversation.
+[2016/03/02 11:49:03] <Tobbi> Hume2: Do you have PyQt5 installed? Can you test my branch?
+[2016/03/02 11:49:16] <Hume2> Tobbi: I'll test it.
+[2016/03/02 11:49:20] <Tobbi> ok
+[2016/03/02 11:49:28] <Tobbi> So far I haven't actually found any bugs...
+[2016/03/02 11:49:36] <Tobbi> or rather, I have fixed those I could fine.
+[2016/03/02 11:49:37] <Tobbi> find
+[2016/03/02 11:49:49] <Tobbi> Exept for one: It shows the quit dialog twice sometimes.
+[2016/03/02 11:50:17] <pentagon> [10supertux] 07maxteufel commented on issue 09#371: SuperTux Milestone 3 (0.5.0) will be more complete and stable than Milestone 2 (0.4.0) 13https://git.io/v2DJl
+[2016/03/02 11:50:17] <Tobbi> *Except.
+[2016/03/02 11:50:40] <Tobbi> Look, mt is awake.
+[2016/03/02 11:50:45] <Tobbi> :D
+[2016/03/02 11:50:50] <mt> did we get any further in preparing 0.4.1
+[2016/03/02 11:51:03] <Tobbi> mt: nope, unfortunately not.
+[2016/03/02 11:51:07] <Tobbi> Not from my side. I'm working on different things.
+[2016/03/02 11:51:14] <mt> btw, if people want to get done with the freenode group thing
+[2016/03/02 11:51:21] <mt> feel free to annoy giby now
+[2016/03/02 11:51:36] <mt> esp. those who want a supertux/ cloak
+[2016/03/02 11:51:39] <Tobbi> mt: So, group registration is open now?
+[2016/03/02 11:51:45] <Tobbi> giby: *annoy*
+[2016/03/02 11:52:04] <mt> GMS isn't open
+[2016/03/02 11:52:23] <mt> but, inofficially, people can apparently ask staff for project cloaks of projects registered after the old group registration was closed
+[2016/03/02 11:52:39] <Tobbi> Sounds good.
+[2016/03/02 11:52:51] <Tobbi> But it has to be a channel founder, right?
+[2016/03/02 11:53:38] <mt> I don't really know
+[2016/03/02 11:54:10] <mt> Maybe being someone who's affiliated very closely with the project works too
+[2016/03/02 11:54:10] <Tobbi> So, we should ask.
+[2016/03/02 11:54:10] <mt> But that's already been proven for the channel founder
+[2016/03/02 11:58:18] <mt> (Tobbi: I'd actually ask a staffer on '/stats p')
+[2016/03/02 11:58:18] <Hume2> Tobbi: Scaling by wheel doesn't work.
+[2016/03/02 11:58:18] <Tobbi> mt: using PM?
+[2016/03/02 11:58:18] <mt> yes
+[2016/03/02 11:58:22] <Tobbi> alright.
+[2016/03/02 11:58:42] <mt> because I've actually seen some project cloaks of projects
+[2016/03/02 11:58:54] <mt> that registered after GRF (group registration form) closed
+[2016/03/02 11:58:59] <Tobbi> I see...
