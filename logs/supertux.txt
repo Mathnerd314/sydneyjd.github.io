@@ -12638,3 +12638,15 @@
 [2016/03/02 03:40:42] @ Quit: tuxdev_: Ping timeout: 276 seconds
 [2016/03/02 03:46:11] @ Quit: tux|dude: Quit: Leaving
 [2016/03/02 05:45:53] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- In tests, 0x09 out of 0x0A l33t h4x0rz prefer it :)
+[2016/03/02 06:53:37] <pentagon> [10flexlay] 07tobbi opened issue 09#74: Smart tiles data format 13https://git.io/v2MLD
+[2016/03/02 06:56:21] @ Quit: nerdopolis: Ping timeout: 276 seconds
+[2016/03/02 06:57:44] @ nerdopolis_ joined channel #supertux
+[2016/03/02 07:27:54] <pentagon> [10flexlay] 07tobbi created branch 09pyqt5
+[2016/03/02 07:27:57] <pentagon> [10flexlay] 07tobbi pushed 2 commits to 09pyqt5 13https://git.io/v2MOb
+[2016/03/02 07:27:59] <pentagon> [10flexlay] 07tobbi 1458a83d3 PyQt4 -> PyQt5: Change imports
+[2016/03/02 07:28:04] <pentagon> [10flexlay] 07tobbi 148155088 Adapt imports to new PyQt5
+[2016/03/02 07:28:45] <Tobbi> *sigh*
+[2016/03/02 07:58:38] <pentagon> [10flexlay] 07tobbi pushed 3 commits to 09pyqt5 13https://git.io/v2Mn4
+[2016/03/02 07:58:40] <pentagon> [10flexlay] 07tobbi 14ebc812a TODO: FIX THIS (Uncommented code that was causing an exception at start)
+[2016/03/02 07:58:42] <pentagon> [10flexlay] 07tobbi 14fd05cbb Fix error for window geometry
+[2016/03/02 07:58:45] <pentagon> [10flexlay] 07tobbi 1424b1904 Pass pos and data to super ctor
