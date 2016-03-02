@@ -12637,3 +12637,4 @@
 [2016/03/02 03:12:13] @ Quit: lumidify: Ping timeout: 250 seconds
 [2016/03/02 03:40:42] @ Quit: tuxdev_: Ping timeout: 276 seconds
 [2016/03/02 03:46:11] @ Quit: tux|dude: Quit: Leaving
+[2016/03/02 05:45:53] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- In tests, 0x09 out of 0x0A l33t h4x0rz prefer it :)
