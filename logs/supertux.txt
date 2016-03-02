@@ -12985,3 +12985,89 @@
 [2016/03/02 13:55:07] <Tobbi> ~seen maths22
 [2016/03/02 13:55:07] <red_bot> Tobbi: maths22 was last seen 7 days, 8 hours, 6 minutes and 42 seconds ago, quitting IRC (Ping timeout: 252 seconds)
 [2016/03/02 13:55:11] <Tobbi> hrm.
+[2016/03/02 14:08:41] @ Mode +o Hume2 by ChanServ
+[2016/03/02 14:09:09] <pentagon> [10supertux] 07Hume2 synchronized pull request 09#269: WIP Level Editor 13https://git.io/vEe13
+[2016/03/02 14:09:11] <pentagon> [10supertux] 07Hume2 04force-pushed 87 commits to 09editor 13https://git.io/v2D99
+[2016/03/02 14:09:14] <pentagon> [10supertux] 07Hume2 14d652cf3 Save level method
+[2016/03/02 14:09:17] <pentagon> [10supertux] 07Hume2 14e847a19 Editor select level menu
+[2016/03/02 14:09:20] <pentagon> [10supertux] 07Hume2 14b791064 Level editor can load a level.
+[2016/03/02 14:09:23] <pentagon> [10supertux] 07Hume2 14209cf2e Added editor level scrolling by arrow keys.
+[2016/03/02 14:09:24] @ Mode +q *!*@unaffiliated/supermat/bot/netbot by ChanServ
+[2016/03/02 14:09:55] <Hume2> WTF?
+[2016/03/02 14:10:17] <Hume2> /msg ChanServ quiet #supertux pentagon
+[2016/03/02 14:10:31] <Hume2> How is it possible?
+[2016/03/02 14:10:50] <Hume2> Like he's muted and speaks anyway.
+[2016/03/02 14:10:54] <Tobbi> Hume2: How is what possible?
+[2016/03/02 14:11:09] <Tobbi> Hume2: He speaks to people with +o or something.
+[2016/03/02 14:11:17] <Hume2> I see.
+[2016/03/02 14:11:23] <Tobbi> Hume2: Wait, no, he speaks for you.
+[2016/03/02 14:11:31] <Tobbi> I don't see anything after your +q
+[2016/03/02 14:11:35] <Hume2> Thanks.
+[2016/03/02 14:12:52] <mt> hm
+[2016/03/02 14:12:58] <mt> so as a temporary fix
+[2016/03/02 14:13:12] <mt> I could actually make it not announce any commits if there's more than x
+[2016/03/02 14:14:10] <Hume2> Oh, I forgot to build.
+[2016/03/02 14:14:19] <Hume2> /msg ChanServ dequiet #supertux pentagon
+[2016/03/02 14:14:37] <mt> it's unquiet
+[2016/03/02 14:14:39] <Tobbi> mt: Yes, you could.
+[2016/03/02 14:14:42] @ Mode -q *!*@unaffiliated/supermat/bot/netbot by ChanServ
+[2016/03/02 14:14:53] @ Mode -o Hume2 by ChanServ
+[2016/03/02 14:14:58] <Hume2> Thanks, mt.
+[2016/03/02 14:15:02] <Tobbi> mt: Also, add a message "and x more commits"
+[2016/03/02 14:15:21] <Tobbi> Hume2: How hard would implementing a color circle be for your editor? :P
+[2016/03/02 14:15:45] <Hume2> Tobbi: What should it serve for?
+[2016/03/02 14:15:46] <mt> Tobbi: no
+[2016/03/02 14:15:57] <Tobbi> mt: No to adding a message?
+[2016/03/02 14:15:58] <mt> Tobbi: I mean, don't announce ANY commits of that push
+[2016/03/02 14:16:03] <Tobbi> Ah.
+[2016/03/02 14:16:17] <mt> because I can't store a variable that's limited to a certain push
+[2016/03/02 14:16:22] <Tobbi> Hume2: I think it might be more comfortable than specifying each channel separately.
+[2016/03/02 14:16:28] <Tobbi> hrm.
+[2016/03/02 14:16:54] <Hume2> Tobbi: That would be quite hard.
+[2016/03/02 14:17:04] <Tobbi> ok
+[2016/03/02 14:17:11] <Tobbi> Hume2: http://screencast.com/t/9yTEx4ORvp
+[2016/03/02 14:17:52] <Hume2> I'll look into it.
+[2016/03/02 14:18:08] @ claymore2 joined channel #supertux
+[2016/03/02 14:18:09] <Tobbi> We're a nice open source project and we're OCD about code quality.
+[2016/03/02 14:18:12] <Tobbi> At least I am.
+[2016/03/02 14:18:16] <Tobbi> And I am, too.
+[2016/03/02 14:19:57] <Tobbi> Also, we do have a Google+ page?
+[2016/03/02 14:20:11] <mt> Is Google+ a serious suggestion?
+[2016/03/02 14:22:09] <Hume2> Yeah, and we don't have <social site> page.
+[2016/03/02 14:22:15] <Tobbi> mt: We already have a google+ page.
+[2016/03/02 14:22:22] <Tobbi> I just received mail that someone followed us.
+[2016/03/02 14:26:17] <Tobbi> mt: https://plus.google.com/116671247563139347867
+[2016/03/02 14:26:20] <Tobbi> I don't know the password.
+[2016/03/02 14:26:24] <Tobbi> Or maybe I do.
+[2016/03/02 14:26:33] <Tobbi> hah, we could've used that for our gsoc application.
+[2016/03/02 14:26:39] <Tobbi> Although it might not have made any difference.
+[2016/03/02 14:27:44] <Hume2> It's nearly empty.
+[2016/03/02 14:30:28] <Tobbi> And I can't login because Google Plus has a great way to detect signins from different countries.
+[2016/03/02 14:30:39] <Tobbi> And they say: No, this can't be one person.
+[2016/03/02 14:30:39] <Tobbi> Because it isn't.
+[2016/03/02 14:32:11] <Hume2> Google, what'd you expect?
+[2016/03/02 14:33:00] <Hume2> And where's Google Minus by the way? :P
+[2016/03/02 14:33:25] <Tobbi> Hume2: Google / 0
+[2016/03/02 14:33:56] <Hume2> There is only Google Minus, Google Plus is like Google Minus Minus where the two minuses are crossed :D
+[2016/03/02 14:36:52] <Tobbi> Hume2: square-root of -Google
+[2016/03/02 14:37:13] <Hume2> It's iGoogle :D
+[2016/03/02 14:37:36] <Tobbi> :D
+[2016/03/02 14:47:30] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/03/02 14:48:04] <pentagon> [10supertux] Status for commit Fixed bug with saving the level by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/407
+[2016/03/02 14:49:40] <giby> I'm back
+[2016/03/02 14:50:17] <Tobbi> giby: Please check what uptime wrote you.
+[2016/03/02 14:50:24] <Tobbi> Re. setting up a group registration.
+[2016/03/02 14:50:52] <giby> I answered him
+[2016/03/02 14:50:56] <Tobbi> good.
+[2016/03/02 14:52:41] @ Quit: Anupkumar: Quit: Connection closed for inactivity
+[2016/03/02 14:53:34] <Tobbi> giby: But I didn't get your reasoning in PM why you don't want to give anyone else founder status...
+[2016/03/02 14:57:51] @ leyyin left channel #supertux ("So Long, and Thanks for All the Fish")
+[2016/03/02 14:59:21] @ Anupkumar joined channel #supertux
+[2016/03/02 15:02:43] @ Quit: lumidify: Ping timeout: 248 seconds
+[2016/03/02 15:05:05] <pentagon> [10supertux] Status for commit Fixed bug with saving the level by 07Hume2: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/113197781
+[2016/03/02 15:05:59] @ datahead8888_ joined channel #supertux
+[2016/03/02 15:09:02] @ Quit: datahead7777: Ping timeout: 248 seconds
+[2016/03/02 15:14:22] @ lumidify joined channel #supertux
+[2016/03/02 15:31:11] <pentagon> [10supertux] Status for commit Fixed bug with saving the level by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/408
+[2016/03/02 15:41:57] @ tux|dude joined channel #supertux
+[2016/03/02 15:55:03] @ Quit: lumidify: Quit: Leaving
