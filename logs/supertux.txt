@@ -12791,3 +12791,197 @@
 [2016/03/02 11:58:42] <mt> because I've actually seen some project cloaks of projects
 [2016/03/02 11:58:54] <mt> that registered after GRF (group registration form) closed
 [2016/03/02 11:58:59] <Tobbi> I see...
+[2016/03/02 12:00:01] <Hume2> Tobbi: Using fill tool can't be undone.
+[2016/03/02 12:00:17] <Tobbi> Hume2: Not a bug with the PyQT4->5 thing.
+[2016/03/02 12:00:47] <Hume2> Also:
+[2016/03/02 12:00:56] <Hume2> Traceback (most recent call last):
+[2016/03/02 12:00:57] <Hume2>   File "/home/ok1asw/st-vyvoj/flexlay/flexlay/gui/editor_map_widget.py", line 80, in wheelEvent
+[2016/03/02 12:00:58] <Hume2>     if num_degrees > 0:
+[2016/03/02 12:00:58] <Hume2> TypeError: unorderable types: QPoint() > int()
+[2016/03/02 12:00:58] <Hume2> Traceback (most recent call last):
+[2016/03/02 12:00:58] <Hume2>   File "/home/ok1asw/st-vyvoj/flexlay/flexlay/gui/editor_map_widget.py", line 80, in wheelEvent
+[2016/03/02 12:00:58] <Hume2>     if num_degrees > 0:
+[2016/03/02 12:00:59] <Hume2> TypeError: unorderable types: QPoint() > int()
+[2016/03/02 12:00:59] <Hume2> Traceback (most recent call last):
+[2016/03/02 12:01:00] <Hume2>   File "/home/ok1asw/st-vyvoj/flexlay/flexlay/gui/editor_map_widget.py", line 80, in wheelEvent
+[2016/03/02 12:01:00] <Hume2>     if num_degrees > 0:
+[2016/03/02 12:01:00] <Hume2> TypeError: unorderable types: QPoint() > int()
+[2016/03/02 12:01:00] <Hume2> nvm
+[2016/03/02 12:01:05] <Tobbi> oh.
+[2016/03/02 12:01:08] <Tobbi> Yeah, that is a bug.
+[2016/03/02 12:02:29] <giby> I can be annoyed but, is that mine to apply to anything?
+[2016/03/02 12:02:32] <Tobbi> mt: I asked a staffer in PM, he's currently absent.
+[2016/03/02 12:02:45] <Hume2> Tobbi: What does the Tux object do?
+[2016/03/02 12:02:48] <mt> wait a few minutes
+[2016/03/02 12:02:48] <Tobbi> giby: I am currently trying to get a cloak without your help.
+[2016/03/02 12:02:54] <Tobbi> Yes, I will.
+[2016/03/02 12:03:13] <giby> I guess you'll do better without me
+[2016/03/02 12:03:27] <Tobbi> giby: What do you mean?
+[2016/03/02 12:03:44] <Hume2> Tobbi: Or another question: What is it supposed to do?
+[2016/03/02 12:03:44] <Tobbi> Hume2: I don't know yet.
+[2016/03/02 12:03:44] <mt> giby: well, that's why we asked you to give one of us founder status here
+[2016/03/02 12:03:49] <mt> so we can manage that more easily
+[2016/03/02 12:04:44] <giby> I'm just the founder of the irc channel... nothing else :p
+[2016/03/02 12:05:15] <leyyin> I see only one solution
+[2016/03/02 12:05:20] <leyyin> revolt and detrone giby
+[2016/03/02 12:06:01] <Tobbi> *sigh*
+[2016/03/02 12:07:01] <Tobbi> And yes, that deserves a sigh.
+[2016/03/02 12:07:01] <giby> I'm not on the throne, actually Tobbi has got about as many admin rights that I have :p
+[2016/03/02 12:07:01] <Tobbi> Except for the founder status.
+[2016/03/02 12:07:40] <giby> Foudre status just allows me to give a founder stats and close the channel
+[2016/03/02 12:08:03] <mt> and it makes you the person actually responsible for communication with freenode staff
+[2016/03/02 12:08:04] <leyyin> I say do not give that kind of power to Tobbi
+[2016/03/02 12:08:08] <leyyin> he will close the channel :P
+[2016/03/02 12:08:57] <giby> Yes, but as if we need to communicate with them,  it would be after a meeting, so...
+[2016/03/02 12:09:53] <giby> and in case something turns wrong with me, Tobbi will inheritate the founder status anyway
+[2016/03/02 12:10:01] <Hume2> Also you can use … instead of three dots :P
+[2016/03/02 12:10:16] <giby>  ?
+[2016/03/02 12:10:17] <mt> giby: nope, freenode-staff will inherit the channel
+[2016/03/02 12:10:28] <mt> giby: successor status is ignored for single-# channels on freenode
+[2016/03/02 12:10:46] <giby> Oh?
+[2016/03/02 12:11:00] <mt> giby: and no, sometimes it makes sense to make a small decision that still requires talking with staff
+[2016/03/02 12:11:29] <mt> where it's not really practical to summon all people, even if they're not on IRC that often
+[2016/03/02 12:12:09] <giby> If tobbi needs to make a simple stuff, he can send me a message
+[2016/03/02 12:12:30] <mt> send you a message, when?
+[2016/03/02 12:12:36] <mt> You're not on IRC that often
+[2016/03/02 12:12:37] <pentagon> [10flexlay] 07tobbi synchronized pull request 09#75: (WIP) Update from PyQt4 to PyQt5 13https://git.io/v2MWr
+[2016/03/02 12:12:39] <pentagon> [10flexlay] 07tobbi pushed 1 commit to 09pyqt5 13https://git.io/v2Dnc
+[2016/03/02 12:12:46] <pentagon> [10flexlay] 07tobbi 142ba88ca Make mouse-wheel work again
+[2016/03/02 12:12:56] <Tobbi> Hume2: Please re-test.
+[2016/03/02 12:13:43] <giby> On my mail
+[2016/03/02 12:14:52] <Hume2> giby: ýóú ťóó? Wé ȟávě Áľřěáďý šóḿéóňě éľšé fóř ňóť šéěíňǧ šṕěčíáľ čȟářáčťěřš :Ď
+[2016/03/02 12:15:18] <Tobbi> Hume2: What? stop it.
+[2016/03/02 12:15:28] <Hume2> OK
+[2016/03/02 12:15:46] <giby>  tell him to set UTF8 in his irc software
+[2016/03/02 12:16:11] <Tobbi> It...does...not...matter.
+[2016/03/02 12:16:38] <Hume2> Tobbi: It works.
+[2016/03/02 12:16:45] <Tobbi> Hume2: Great.
+[2016/03/02 12:17:33] <Tobbi> giby: I honestly don't see *why* you don't want to give us or at least one of us founder status. This IRC channel is not your domain. It is to support the project. And the people who actively contribute to this project and are around most often is currently, me, hume, and mt.
+[2016/03/02 12:18:12] <Tobbi> It's not like owning an IRC channel is any kind of prestige...
+[2016/03/02 12:29:42] <Tobbi> Hume2: If you find anything else, do report it.
+[2016/03/02 12:29:49] <Tobbi> In the PyQt5 thing.
+[2016/03/02 12:30:01] <Hume2> OK
+[2016/03/02 12:30:39] <mt> Tobbi: if that staffer you messaged responds, keep us up-to-date
+[2016/03/02 12:30:50] <mt> (who did you msg btw?)
+[2016/03/02 12:30:54] <Tobbi> mt: He didn't, so far. I checked his away status...
+[2016/03/02 12:31:05] <Tobbi> I thought away for 10 minutes means he's just taking a small break.
+[2016/03/02 12:31:11] <mt> "my idle time is a lie"
+[2016/03/02 12:31:11] <Tobbi> I /msg'ed tinyhippo
+[2016/03/02 12:31:32] <mt> they indeed seem to have removed their +H status (on /stats p) now
+[2016/03/02 12:31:50] <Tobbi> oh.
+[2016/03/02 12:32:08] <Tobbi> mt: tinyhippo is not on /stats p anymore, it seems.
+[2016/03/02 12:32:15] <Tobbi> So, maybe I should ask someone else.
+[2016/03/02 12:32:17] <mt> that's what I said, basically
+[2016/03/02 12:32:24] <Tobbi> okay, so another one.
+[2016/03/02 12:32:44] <mt> (tell the others that you attempted to ask someone else before, might be better)
+[2016/03/02 12:33:16] <Tobbi> I asked uptime now.
+[2016/03/02 12:37:15] @ uptime joined channel #supertux
+[2016/03/02 12:37:26] <Tobbi> :)
+[2016/03/02 12:50:26] <pentagon> [10supertux] 07maxteufel commented on issue 09#370: Add ISSUE_TEMPLATE file 13https://git.io/v2VB5
+[2016/03/02 12:54:47] <pentagon> [10supertux] 07maxteufel commented on issue 09#366: Scripting badguys 13https://git.io/vgpZY
+[2016/03/02 13:15:39] <Tobbi> Hume2: What platform are you running the editor on?
+[2016/03/02 13:15:43] <Hume2> Hello, uptime.
+[2016/03/02 13:15:50] <Tobbi> Linux?
+[2016/03/02 13:15:52] <Hume2> Tobbi: Ubuntu 14.04.
+[2016/03/02 13:16:11] <Tobbi> Hume2: When you close it via right-clicking the context menu, do you get the prompt to save the current level twice?
+[2016/03/02 13:16:13] <uptime> Hume2: Hello!
+[2016/03/02 13:16:36] <Hume2> Tobbi: I'll test
+[2016/03/02 13:18:29] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/03/02 13:19:31] @ Hume2 joined channel #supertux
+[2016/03/02 13:19:31] @ Mode +v Hume2 by ChanServ
+[2016/03/02 13:20:16] <Hume2> Tobbi: The save dialog opens only once.
+[2016/03/02 13:20:30] <Tobbi> Hume2: Okay, so it's an OS X specific issue.
+[2016/03/02 13:20:45] <Tobbi> Aka, not our fault. Likely PyQt's fault.
+[2016/03/02 13:25:36] @ lumidify joined channel #supertux
+[2016/03/02 13:25:36] @ Quit: lumidify: Changing host
+[2016/03/02 13:25:36] @ lumidify joined channel #supertux
+[2016/03/02 13:30:26] <Hume2> By the way, I finally got how to fix the issue with the in-game editor with the saving issue.
+[2016/03/02 13:30:39] <Hume2> Sorry for doing other SuperTux stuff.
+[2016/03/02 13:30:52] <leyyin> Hume2, we do not forgive you
+[2016/03/02 13:30:54] <Tobbi> Hume2: Can you commit?
+[2016/03/02 13:31:00] <Tobbi> We are leyyonimous.
+[2016/03/02 13:31:05] <Tobbi> We do not forget. We do not forgive.
+[2016/03/02 13:31:09] <leyyin> :D
+[2016/03/02 13:31:21] <Hume2> :D
+[2016/03/02 13:31:51] <pentagon> [10supertux] Status for commit Fixed bug with saving the level by 07Hume2: 04AppVeyor was unable to build non-mergeable pull request 13
+[2016/03/02 13:31:54] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09editor 13https://git.io/v2DKA
+[2016/03/02 13:31:55] <pentagon> [10supertux] 07Hume2 14f7397c2 Fixed bug with saving the level
+[2016/03/02 13:31:58] <Hume2> I can't think properly when I'm tired.
+[2016/03/02 13:32:06] <pentagon> [10supertux] 07Hume2 synchronized pull request 09#269: WIP Level Editor 13https://git.io/vEe13
+[2016/03/02 13:32:29] <Tobbi> Hume2: You have a logic error. If(retry) doesn't actually retry.
+[2016/03/02 13:32:30] <Hume2> Unfortunately, it's quite often nowadays.
+[2016/03/02 13:32:34] <Tobbi> Did you intend it to be this way?
+[2016/03/02 13:33:01] <Hume2> Well, it worked.
+[2016/03/02 13:33:24] <Hume2> I didn't worked before, because it found the directory in the datadit.
+[2016/03/02 13:33:42] <Hume2> However, it saves to the userdir.
+[2016/03/02 13:33:42] <Tobbi> Ah.
+[2016/03/02 13:33:47] <Tobbi> Hume2: I get your reasoning now.
+[2016/03/02 13:33:50] <Tobbi> Still weird.
+[2016/03/02 13:33:57] <Tobbi> But okay.
+[2016/03/02 13:34:00] <Tobbi> Keep it if it works.
+[2016/03/02 13:35:04] <Tobbi> Hume2: Isn't that good? We want the levels in the userdir so that the data dir only contains proper levels.
+[2016/03/02 13:35:08] <Tobbi> Aka, team levels.
+[2016/03/02 13:35:17] <Hume2> I think so.
+[2016/03/02 13:35:24] <Tobbi> So, it's fine.
+[2016/03/02 13:36:20] <Hume2> The issue was that it was making the directory only when it wassn't neither in the datadir or in the userdir.
+[2016/03/02 13:36:42] <Hume2> When it was in only the datadir, it didn't create the direstory.
+[2016/03/02 13:37:02] <Tobbi> Weird?
+[2016/03/02 13:37:15] <Hume2> So now it tries creating the directory by any circumstances and retries.
+[2016/03/02 13:37:26] <Tobbi> ok
+[2016/03/02 13:37:31] <Tobbi> Sounds good.
+[2016/03/02 13:37:31] <mt> Do we still need editor guide and editor FAQ on the GitHub wiki?
+[2016/03/02 13:38:04] <mt> They might be a bit outdated, looking at flexlay and in-game editor progress
+[2016/03/02 13:38:23] <mt> and there's still http://dcjtech.info/topic/gaming/#supertux
+[2016/03/02 13:38:24] <Hume2> I think we no longer need them.
+[2016/03/02 13:38:44] <Hume2> I'd just put some links to the editors' wikis instead.
+[2016/03/02 13:38:59] <Tobbi> mt: I'd still like to keep them.
+[2016/03/02 13:39:08] <Tobbi> mt: I guess there are a lot of people who use it as a ref.
+[2016/03/02 13:39:40] <Hume2> Well, still better outdated stuff than nothing.
+[2016/03/02 13:40:16] <Tobbi> I'm very excited about the in game editor, by the way: This is gonna be awesome for 0.5
+[2016/03/02 13:41:49] <mt> Indeed, no more having to spend hours explaining people how to install the editor
+[2016/03/02 13:42:55] <Tobbi> :)
+[2016/03/02 13:43:12] <Tobbi> Will be fun for novice users...and for more advanced things there's always flexlay.
+[2016/03/02 13:43:34] <Hume2> mt: I've never considered that, but it's true :)
+[2016/03/02 13:44:05] <Tobbi> Hume2: I guess implementing a scripting console is out of scope for the ingame editor, right?
+[2016/03/02 13:44:19] <Tobbi> I mean: A script editor thing.
+[2016/03/02 13:44:37] <Hume2> Tobbi: It's one of the less-important stuff.
+[2016/03/02 13:45:05] <Tobbi> Hume2: Yeah, doesn't matter for now.
+[2016/03/02 13:45:41] <Hume2> I have something in https://github.com/SuperTux/supertux/pull/269
+[2016/03/02 13:46:43] <Tobbi> We can also probably take another .x release to straighten things out and add more features.
+[2016/03/02 13:47:16] <Hume2> That's true.
+[2016/03/02 13:47:45] <Hume2> Shall we do also some prereleases?
+[2016/03/02 13:48:11] <Tobbi> Hume2: Might be good to get some traction.
+[2016/03/02 13:48:14] <mt> for bugfix releases not
+[2016/03/02 13:48:32] <mt> for new feature releases, yes
+[2016/03/02 13:48:32] <Hume2> Yeah, I mean only for the mayor releases.
+[2016/03/02 13:48:36] <mt> like, some release candidates
+[2016/03/02 13:48:50] <Tobbi> Hume2: We can certainly have release candidates for the editor branch.
+[2016/03/02 13:49:09] <Hume2> I think we aren't capable of making candidates.
+[2016/03/02 13:49:15] <Tobbi> tbh, I think our GUI interface is too clunky...We need to add some work there as well.
+[2016/03/02 13:49:48] <Hume2> I know, the scrolling is terrible.
+[2016/03/02 13:49:49] <Tobbi> I know that it might take quite some time...but if we're going to have an ingame editor that looks nice, we should add some work there.
+[2016/03/02 13:51:10] <Hume2> For the mayor releases, I think we should include as many features as we can.
+[2016/03/02 13:51:37] <Hume2> Like all features those are currently finished.
+[2016/03/02 13:51:59] <mt> for the editor branch
+[2016/03/02 13:52:05] <mt> I'd actually call it alpha release
+[2016/03/02 13:52:11] <Tobbi> Yeah.
+[2016/03/02 13:52:14] <mt> or 'development snapshot'
+[2016/03/02 13:52:15] <Tobbi> Makes sense.
+[2016/03/02 13:52:20] <Hume2> That could be.
+[2016/03/02 13:52:50] <Hume2> Like 0.4.0-editor_test?
+[2016/03/02 13:53:11] <mt> well, github releases would need a tag
+[2016/03/02 13:53:15] <mt> which kind of sucks
+[2016/03/02 13:53:23] <mt> because tags are set on a specific commit
+[2016/03/02 13:53:29] <mt> they'll be lost when rebasing
+[2016/03/02 13:54:34] @ Hume2_ joined channel #supertux
+[2016/03/02 13:54:35] @ Mode +v Hume2_ by ChanServ
+[2016/03/02 13:54:35] <mt> Windows and OS X builds would be actually easy, just run them through appveyor and travis
+[2016/03/02 13:54:39] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/03/02 13:54:40] @ Hume2_ is now known as Hume2
+[2016/03/02 13:54:52] <Tobbi> if that works properly.
+[2016/03/02 13:54:56] <Tobbi> But, actually, it does.
+[2016/03/02 13:55:01] <Tobbi> now that we fixed that issue.
+[2016/03/02 13:55:05] <mt> even though it needs some special config because only master is deployed to maths22's servers
+[2016/03/02 13:55:07] <Tobbi> ~seen maths22
+[2016/03/02 13:55:07] <red_bot> Tobbi: maths22 was last seen 7 days, 8 hours, 6 minutes and 42 seconds ago, quitting IRC (Ping timeout: 252 seconds)
+[2016/03/02 13:55:11] <Tobbi> hrm.
