@@ -13071,3 +13071,36 @@
 [2016/03/02 15:31:11] <pentagon> [10supertux] Status for commit Fixed bug with saving the level by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/408
 [2016/03/02 15:41:57] @ tux|dude joined channel #supertux
 [2016/03/02 15:55:03] @ Quit: lumidify: Quit: Leaving
+[2016/03/02 16:06:12] <pentagon> [10supertux] Status for commit Fixed bug with saving the level by 07Hume2: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/113206429
+[2016/03/02 16:15:39] @ stewboy joined channel #supertux
+[2016/03/02 16:30:17] @ Quit: claymore2: Quit: Leaving
+[2016/03/02 17:00:02] @ stewboy_ joined channel #supertux
+[2016/03/02 17:02:06] @ Quit: stewboy: Ping timeout: 248 seconds
+[2016/03/02 17:02:06] @ stewboy_ is now known as stewboy
+[2016/03/02 17:19:05] @ Quit: alket: Quit: Tung
+[2016/03/02 17:25:58] @ fr_rrr is now known as Necrosporus
+[2016/03/02 17:26:39] <Necrosporus> I have a question. Have I finished the story mode if I killed the yetty?
+[2016/03/02 17:27:04] <Necrosporus> What should I do next after killing the yetty?
+[2016/03/02 17:28:15] <Necrosporus> I guess I should somehow go to forest, but how to get there?
+[2016/03/02 17:30:26] @ Quit: tux|dude: Quit: Leaving
+[2016/03/02 17:44:23] <pentagon> [10supertux] Status for commit Fixed bug with saving the level by 07Hume2: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/113206458
+[2016/03/02 17:49:18] <Tobbi> Necrosporus: It's in the contrib levels.
+[2016/03/02 17:51:42] @ tux|dude joined channel #supertux
+[2016/03/02 17:52:22] @ Quit: tux|dude: Client Quit
+[2016/03/02 17:53:10] <Necrosporus> Tobbi, but can I do anything else after I defeat Yeti?
+[2016/03/02 17:53:26] <Tobbi> Necrosporus: Not in that level. Did you find the bonus level?
+[2016/03/02 17:53:36] <Necrosporus> There should also be a secret somewhere, but how to get to it I have no idea
+[2016/03/02 17:53:39] <Necrosporus> yes
+[2016/03/02 17:53:58] <Necrosporus> Though I didn't finish with giant hole in that level
+[2016/03/02 17:54:04] <Necrosporus> There were four rooms
+[2016/03/02 17:54:26] <Tobbi> I don't remember that one.
+[2016/03/02 17:54:33] <Necrosporus> Tobbi, in bonus level
+[2016/03/02 17:54:38] <Tobbi> Ah...
+[2016/03/02 17:54:42] <Tobbi> yeah, but that's boring.
+[2016/03/02 17:54:52] <Tobbi> Necrosporus: In that case: Continue with the bonus levels.
+[2016/03/02 17:55:09] <Necrosporus> You mean contrib stuff?
+[2016/03/02 17:55:30] <Tobbi> Necrosporus: yes.
+[2016/03/02 17:55:34] <Tobbi> Also, you have Add-ons.
+[2016/03/02 17:55:38] <Tobbi> You can download them.
+[2016/03/02 17:56:07] <Necrosporus> There also should be cheats
+[2016/03/02 17:56:39] <Tobbi> There are. In developer mode.
