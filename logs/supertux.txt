@@ -13104,3 +13104,91 @@
 [2016/03/02 17:55:38] <Tobbi> You can download them.
 [2016/03/02 17:56:07] <Necrosporus> There also should be cheats
 [2016/03/02 17:56:39] <Tobbi> There are. In developer mode.
+[2016/03/02 18:05:30] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- \o/
+[2016/03/02 18:06:56] <Necrosporus> Tobbi, what is earth mode for?
+[2016/03/02 18:07:11] <Tobbi> Necrosporus: Not yet used very often.
+[2016/03/02 18:07:14] <Necrosporus> And where is the secret in yeti level?
+[2016/03/02 18:07:15] <Tobbi> Where did you find it?
+[2016/03/02 18:07:20] <Necrosporus> In cheat menu
+[2016/03/02 18:07:43] <Tobbi> Necrosporus: It's a fairly new powerup.
+[2016/03/02 18:07:47] <Tobbi> I have to look up what it does.
+[2016/03/02 18:07:47] <Necrosporus> There is also air, which seem to enchance jumping
+[2016/03/02 18:08:00] <Tobbi> Necrosporus: Also, not gonna tell you the yeti secret :P
+[2016/03/02 18:08:28] <Necrosporus> Well, but I have tried jumping up to the platform
+[2016/03/02 18:08:34] <Necrosporus> It still doesn't help
+[2016/03/02 18:08:44] <Tobbi> what platform?
+[2016/03/02 18:08:55] <Necrosporus> Two ones where yeti stands
+[2016/03/02 18:09:03] <Necrosporus> On both sides
+[2016/03/02 18:10:29] <Necrosporus> Also killing it is quite easy once you learn how to do it. Just stand in the middle, when ice pikes fall, move away, let them fall and go back, then jump on the yeti while it walks through the middle, this way it's fairly easy
+[2016/03/02 18:10:44] <Necrosporus> Though it's sad that fire and Ice does nothing to it
+[2016/03/02 18:12:54] <Necrosporus> Is there a way to enable permanent star mode?
+[2016/03/02 18:13:05] <giby> we would like a star on the yeti :p
+[2016/03/02 18:14:34] @ swift110 joined channel #supertux
+[2016/03/02 18:17:36] @ Quit: swift110: Changing host
+[2016/03/02 18:17:40] @ swift110 joined channel #supertux
+[2016/03/02 18:20:32] @ tux|dude joined channel #supertux
+[2016/03/02 18:20:58] <Necrosporus> Tobbi, ok, I have looked into yeti level source... Well, I still doubt that it's possible to get to that secret without Air, and is there a single air bonus in story levels?
+[2016/03/02 18:21:29] <Tobbi> Necrosporus: You need to stay on the yeti's head.
+[2016/03/02 18:21:38] <Necrosporus> Yeah, I see
+[2016/03/02 18:21:46] <Tobbi> Necrosporus: No, air bonus isn't yet in the main levels. it's a fairly recent addition to the source.
+[2016/03/02 18:22:06] <Necrosporus> I was able to get to the secret with the air bonus
+[2016/03/02 18:22:53] <Necrosporus> Also I found a non-advertised feature that an ice pike could freeze enemies
+[2016/03/02 18:23:03] <Necrosporus> Though what to do with them after freezing?
+[2016/03/02 18:26:21] @ Quit: giby: Ping timeout: 244 seconds
+[2016/03/02 18:27:09] @ giby joined channel #supertux
+[2016/03/02 18:27:10] @ Mode +o giby by ChanServ
+[2016/03/02 18:31:13] <Tobbi> idk.
+[2016/03/02 18:33:48] <sydney_untangle> Necrosporus: Jump on them.
+[2016/03/02 18:34:07] <sydney_untangle> Necrosporus: Well, it matters on what they are. Probably don't touch them.
+[2016/03/02 18:35:51] <Necrosporus> Seems that iceballs give same effect
+[2016/03/02 18:36:14] <Necrosporus> Though there's probably still no way to get ice bonus in story levels without cheating
+[2016/03/02 18:36:32] @ Quit: tux|dude: Quit: Leaving
+[2016/03/02 18:36:44] <Necrosporus> sydney_untangle, grab them and drop into a pit
+[2016/03/02 18:37:13] <Necrosporus> or put a frozen bomb next to some enemy and jump on it
+[2016/03/02 18:37:15] <Tobbi> Why do you need ice bonus in story levels?
+[2016/03/02 18:37:38] <Necrosporus> To freeze rolling suns
+[2016/03/02 18:37:54] <Necrosporus> There seem no other way to destroy them
+[2016/03/02 18:38:36] @ irungentoo joined channel #supertux
+[2016/03/02 18:42:14] <Necrosporus> Tobbi, is it a bug that if you drop an ice cube into a pit one cell wide, it will destroy itself?
+[2016/03/02 18:42:29] <Tobbi> Sounds like intended behaviour.
+[2016/03/02 18:42:38] <Necrosporus> It's possible to do in the castle, at the very beginning
+[2016/03/02 18:44:25] <Necrosporus> Tobbi, but in the story mode you can't save Penny
+[2016/03/02 18:44:29] <Necrosporus> can you?
+[2016/03/02 18:44:39] <Tobbi> Necrosporus: Oh, no you can't.
+[2016/03/02 18:44:53] <Necrosporus> Can you do it at all?
+[2016/03/02 18:44:55] <Tobbi> In the early days we had a continuous storyline.
+[2016/03/02 18:45:12] <Necrosporus> I'm playing 0.4.0
+[2016/03/02 18:47:26] <Tobbi> With a note that tux finds in the castle.
+[2016/03/02 18:47:27] <Tobbi> Somehow this was dropped.
+[2016/03/02 18:47:27] <Tobbi> sydney_untangle: Should we reinstate that? ^^
+[2016/03/02 18:47:27] <giby> Necrosporus, please notice it is still in dev so Penny isn't there out of the intro
+[2016/03/02 18:47:27] <Necrosporus> giby, isn't 0.4.0 stable
+[2016/03/02 18:47:27] <Necrosporus> I though it's next stable version after 0.1.3
+[2016/03/02 18:47:27] <Tobbi> Necrosporus: https://github.com/SuperTux/supertux/blob/master/src/badguy/walking_badguy.cpp#L205 re badguys falling.
+[2016/03/02 18:47:27] <Tobbi> Necrosporus: 0.4.0 is "fairly stable".
+[2016/03/02 18:47:27] <Tobbi> You sound like Savsish.
+[2016/03/02 18:47:27] <Tobbi> "Why release 0.4.0 when there are still untranslated strings in common languages like occitan"
+[2016/03/02 18:47:56] <Necrosporus> occitan?
+[2016/03/02 18:47:56] <Tobbi> You don't know it? How can you not know it?
+[2016/03/02 18:51:08] <Tobbi> It's spoken by...idk, let me check.
+[2016/03/02 18:51:08] <Necrosporus> Actually I doubt that translation is useful
+[2016/03/02 18:51:08] <Tobbi> 100k to 800k people.
+[2016/03/02 18:51:08] <Tobbi> Necrosporus: What do you mean?
+[2016/03/02 18:51:08] <Necrosporus> I mean, I doubt that translations are useful
+[2016/03/02 18:51:08] <Necrosporus> There is almost no text
+[2016/03/02 18:51:08] <Tobbi> Necrosporus: There is menu text...
+[2016/03/02 18:51:08] <Tobbi> And dialog.
+[2016/03/02 18:51:08] <Tobbi> And level names.
+[2016/03/02 18:51:08] <Necrosporus> And words like "Start", "Pause" and stuff are not that hard to learn even if you do not know english
+[2016/03/02 18:51:08] <Tobbi> *sigh*
+[2016/03/02 18:51:08] <Necrosporus> Well, OK, translations might be useful for certain people
+[2016/03/02 18:51:39] <Tobbi> I'm off...good night.
+[2016/03/02 18:52:01] <giby> Necrosporus, it is stable, but still incomplete :p you'll see Penny in 1.0.0 :p
+[2016/03/02 19:05:23] @ quit (seeya)
+[2016/03/02 19:33:56] @ Joined channel #supertux
+[2016/03/02 19:33:56] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/"
+[2016/03/02 19:33:56] @ Topic set by mt on 2016-02-29 14:02:16 -0500
+[2016/03/02 19:34:01] @ Mode +Cntzj 5:10 by sendak.freenode.net
+[2016/03/02 19:34:10] @ Mode +v red_bot by ChanServ
+[2016/03/02 19:34:37] @ sydney_untangle joined channel #supertux
+[2016/03/02 19:34:37] @ Mode +v sydney_untangle by ChanServ
