@@ -13258,3 +13258,48 @@
 [2016/03/03 05:20:01] @ giby_the_kid joined channel #supertux
 [2016/03/03 05:20:02] @ Mode +o giby_the_kid by ChanServ
 [2016/03/03 05:21:27] @ Quit: giby: Ping timeout: 268 seconds
+[2016/03/03 06:10:44] @ Quit: Tobbi: Changing host
+[2016/03/03 06:10:44] @ Tobbi joined channel #supertux
+[2016/03/03 06:10:44] @ Mode +v Tobbi by sendak.freenode.net
+[2016/03/03 06:11:04] @ Tobbi left channel #supertux ("Leaving...")
+[2016/03/03 06:11:04] @ Tobbi joined channel #supertux
+[2016/03/03 06:11:04] @ Mode +v Tobbi by ChanServ
+[2016/03/03 06:11:12] <Tobbi> Sounds good.
+[2016/03/03 06:34:59] @ uptime is now known as daytime
+[2016/03/03 06:36:47] @ daytime is now known as uptime
+[2016/03/03 07:10:06] @ Quit: MCMic: Quit: Konversation terminated!
+[2016/03/03 07:11:20] <giby_the_kid> Hi Tobbi
+[2016/03/03 07:11:29] <Tobbi> Hey, Tobbi.
+[2016/03/03 07:11:30] <giby_the_kid> It works
+[2016/03/03 07:11:40] <Tobbi> giby_the_kid: I can see that, indeed. We should ask the rest of the team whether they want a cloak.
+[2016/03/03 07:11:46] <Tobbi> I'll do that in the afternoon.
+[2016/03/03 07:12:09] <giby_the_kid> so I just use a stupid one to test if it works
+[2016/03/03 07:16:06] <mt> hi
+[2016/03/03 07:16:18] <mt> I see you've got cloaks now
+[2016/03/03 07:16:32] <mt> For now, I probably don't want one
+[2016/03/03 07:16:54] <Tobbi> mt: Alright! I'll ask the rest of the team later in the afternoon.
+[2016/03/03 07:17:06] <Tobbi> But if you change your mind, just let me know.
+[2016/03/03 07:17:38] <mt> Even though I actually could get atheme/supertux.mteufel or supertux/atheme.mteufel if whoever's group contact now approves
+[2016/03/03 07:17:58] <mt> (still read this as a 'no' for now)
+[2016/03/03 07:18:45] <mt> >supertux/Guru/ :D
+[2016/03/03 07:18:51] @ giby joined channel #supertux
+[2016/03/03 07:18:51] @ Mode +o giby by ChanServ
+[2016/03/03 07:19:35] <giby_the_kid> mt: It is just to test
+[2016/03/03 07:19:54] <giby_the_kid> we should maybe discuss what is legit
+[2016/03/03 07:20:06] <mt> staffer's aren't all too happy about people constantly changing cloaks
+[2016/03/03 07:20:31] <mt> what I personally think is that it shouldn't be restricted like 'there's only two cloaks'
+[2016/03/03 07:21:25] <mt> supertux/<name on github, irc, or elsewhere> and supertux/<role>/<name on github, irc, or elsewhere> looks okay and isn't that insane
+[2016/03/03 07:22:26] <mt> also, giby, since freenode advises channel ops to not use ops permanently, it would be nice if you removed your auto-op flag
+[2016/03/03 07:22:54] <mt> auto-voice is still okay so people can see your affiliation with the project
+[2016/03/03 07:24:03] @ ChanServ set topic "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/03/03 07:34:12] @ Quit: jeexy: Ping timeout: 246 seconds
+[2016/03/03 07:35:17] @ jeexy joined channel #supertux
+[2016/03/03 07:38:14] -ChanServ- giby_the_kid (giby) set flags +F on Tobbi
+[2016/03/03 07:39:12] <mt> giby_the_kid: see my comment re auto-op
+[2016/03/03 07:40:28] <giby_the_kid> seen it
+[2016/03/03 07:41:11] <mt> giby_the_kid: what do you think?
+[2016/03/03 07:41:39] <mt> (see /msg ChanServ help flags, or /msg ChanServ flags #supertux giby -O)
+[2016/03/03 07:43:23] <giby_the_kid> mt: what's wrong with you?
+[2016/03/03 07:43:46] <mt> is something wrong with me?
+[2016/03/03 07:44:18] <mt> We decided to disable auto-op some weeks ago
+[2016/03/03 07:44:32] <mt> And that's why I suggest you to do that as well
