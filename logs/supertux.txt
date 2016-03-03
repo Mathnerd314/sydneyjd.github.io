@@ -13240,3 +13240,21 @@
 [2016/03/03 03:34:19] @ giby joined channel #supertux
 [2016/03/03 03:34:19] @ Mode +o giby by ChanServ
 [2016/03/03 03:45:18] @ Quit: tuxdev_: Ping timeout: 246 seconds
+[2016/03/03 04:38:16] @ Quit: giby: Changing host
+[2016/03/03 04:38:16] @ giby joined channel #supertux
+[2016/03/03 04:38:16] @ Mode +o giby by sendak.freenode.net
+[2016/03/03 04:39:42] @ Quit: giby: Quit: Quitte
+[2016/03/03 04:39:56] @ giby joined channel #supertux
+[2016/03/03 04:39:56] @ Quit: giby: Changing host
+[2016/03/03 04:39:56] @ giby joined channel #supertux
+[2016/03/03 04:39:56] @ Mode +o giby by ChanServ
+[2016/03/03 04:45:21] @ Quit: giby: Quit: Quitte
+[2016/03/03 05:02:39] @ Quit: jeexy: Ping timeout: 246 seconds
+[2016/03/03 05:03:10] @ jeexy joined channel #supertux
+[2016/03/03 05:06:02] @ giby joined channel #supertux
+[2016/03/03 05:06:02] @ Quit: giby: Changing host
+[2016/03/03 05:06:02] @ giby joined channel #supertux
+[2016/03/03 05:06:02] @ Mode +o giby by ChanServ
+[2016/03/03 05:20:01] @ giby_the_kid joined channel #supertux
+[2016/03/03 05:20:02] @ Mode +o giby_the_kid by ChanServ
+[2016/03/03 05:21:27] @ Quit: giby: Ping timeout: 268 seconds
