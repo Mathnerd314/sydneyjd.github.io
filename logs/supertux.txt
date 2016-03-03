@@ -13223,3 +13223,20 @@
 [2016/03/03 01:21:22] <pentagon> [10supertux] Status for commit Fixed werror 4 by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/113324829
 [2016/03/03 01:40:52] <pentagon> [10supertux] Status for commit Fixed werror 4 by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/409
 [2016/03/03 01:47:43] <pentagon> [10supertux] Status for commit Fixed werror 4 by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/113324840
+[2016/03/03 02:11:47] @ MCMic joined channel #supertux
+[2016/03/03 02:13:45] @ Anupkumar joined channel #supertux
+[2016/03/03 02:17:54] @ lumidify joined channel #supertux
+[2016/03/03 02:23:56] <pentagon> [10supertux] Status for commit Fixed werror 4 by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/410
+[2016/03/03 02:27:03] <pentagon> [10supertux] 07sergiparrar starred 09supertux - 13https://git.io/v2SX8
+[2016/03/03 02:30:03] @ Quit: jeezy: Ping timeout: 246 seconds
+[2016/03/03 02:31:06] @ jeexy joined channel #supertux
+[2016/03/03 02:35:39] @ Quit: lumidify: Ping timeout: 246 seconds
+[2016/03/03 02:39:12] @ lumidify joined channel #supertux
+[2016/03/03 02:46:11] @ Quit: lumidify: Ping timeout: 250 seconds
+[2016/03/03 02:51:47] @ lumidify joined channel #supertux
+[2016/03/03 02:51:47] @ Quit: lumidify: Changing host
+[2016/03/03 02:51:47] @ lumidify joined channel #supertux
+[2016/03/03 03:05:52] @ Quit: lumidify: Ping timeout: 264 seconds
+[2016/03/03 03:34:19] @ giby joined channel #supertux
+[2016/03/03 03:34:19] @ Mode +o giby by ChanServ
+[2016/03/03 03:45:18] @ Quit: tuxdev_: Ping timeout: 246 seconds
