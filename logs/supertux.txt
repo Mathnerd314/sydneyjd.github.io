@@ -13192,3 +13192,11 @@
 [2016/03/02 19:34:10] @ Mode +v red_bot by ChanServ
 [2016/03/02 19:34:37] @ sydney_untangle joined channel #supertux
 [2016/03/02 19:34:37] @ Mode +v sydney_untangle by ChanServ
+[2016/03/02 20:09:22] @ nerdopolis__ joined channel #supertux
+[2016/03/02 20:09:50] @ Quit: nerdopolis_: Ping timeout: 248 seconds
+[2016/03/02 20:15:54] @ Quit: giby: Ping timeout: 244 seconds
+[2016/03/02 20:38:12] @ tux|dude joined channel #supertux
+[2016/03/02 20:45:01] @ tuxdev_ joined channel #supertux
+[2016/03/02 21:03:57] @ Quit: swift110: Ping timeout: 276 seconds
+[2016/03/02 21:36:28] <sydney_untangle> Tobbi: Probably wouldn't hurt. right now we dont stick to our story well.
+[2016/03/02 21:42:00] @ Quit: tux|dude: Quit: Leaving
