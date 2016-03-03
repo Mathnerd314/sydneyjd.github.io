@@ -13662,3 +13662,87 @@
 [2016/03/03 11:54:45] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09freetype 13https://git.io/v2HV3
 [2016/03/03 11:54:48] <pentagon> [10supertux] 07tobbi 140095dc9 Create surface from file
 [2016/03/03 11:55:01] <Tobbi> bbiab
+[2016/03/03 12:01:59] <pentagon> [10supertux] Status for commit Add function to move to main spawnpoint by 07Tobias Markus: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/416
+[2016/03/03 12:18:54] @ leyyin joined channel #supertux
+[2016/03/03 12:40:30] <Ispy> [10supertux] Status for commit Fixed bug with object menus by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/113410656
+[2016/03/03 12:42:00] <Ispy> [10supertux] Status for commit Add sdl_ttf to CMakeLists.txt by 07Tobias Markus: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/417
+[2016/03/03 12:47:29] <leyyin> sigh http://www.business-review.eu/sidebar-featured/bernie-sanders-its-unacceptable-that-bucharest-has-more-faster-internet-than-most-of-the-us-99845
+[2016/03/03 12:47:48] <leyyin> I am still waiting that kick
+[2016/03/03 12:48:55] @ alket joined channel #supertux
+[2016/03/03 12:50:22] <Tobbi> leyyin: Not now. I am in a good mood; I have a supertux cloak now.
+[2016/03/03 12:50:22] <Tobbi> :D
+[2016/03/03 12:50:32] <leyyin> cool
+[2016/03/03 12:50:49] <Tobbi> leyyin: With that cloak I can play Tux Potter, for example.
+[2016/03/03 12:50:57] <Tobbi> And bewitch penny...
+[2016/03/03 12:50:58] <Tobbi> :D
+[2016/03/03 12:51:01] <Tobbi> or something.
+[2016/03/03 13:03:57] <leyyin> something + None = 1
+[2016/03/03 13:11:03] @ pentagon left channel #supertux ("Supybot 0.83.4.1+limnoria 2016.02.09")
+[2016/03/03 13:14:09] <Tobbi> leyyin: Make addition GREAT AGAIN!
+[2016/03/03 13:14:54] <Ispy> [10supertux] Status for commit Create surface from file by 07Tobias Markus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/418
+[2016/03/03 13:20:05] <leyyin> https://www.ispyconnect.com/
+[2016/03/03 13:22:21] <Tobbi> leyyin: no. iSpy is an object in SuperTux.
+[2016/03/03 13:25:43] <Tobbi> leyyin: But honestly: I think the world will be worse off with Trump as president than with Hillary Clinton.
+[2016/03/03 13:26:53] <Tobbi> tbh, I'd also wish the presidential elections weren't show-off's.
+[2016/03/03 13:27:47] <leyyin> politics is acting
+[2016/03/03 13:27:48] <mt> yeah
+[2016/03/03 13:28:14] <Tobbi> leyyin: True...but more so in the US than in Germany...
+[2016/03/03 13:28:42] <Tobbi> Trump resonates with a lot of people who are angry with the current situation.
+[2016/03/03 13:28:45] <mt> and I guess (I don't know it since I don't live there) it's also a bit unfair - those candidates who can afford to speak at shows, tour around the US, etc have better chances to be president
+[2016/03/03 13:28:56] <Tobbi> mt: Of course.
+[2016/03/03 13:29:06] <leyyin> https://www.youtube.com/watch?v=2de3LhPxpZU
+[2016/03/03 13:29:19] <Tobbi> leyyin: You know: In Germany, a lot of people resonate with AfD.
+[2016/03/03 13:29:24] <Tobbi> (Alternative for Germany)
+[2016/03/03 13:29:33] <mt> (well, I can't really say it's better in Germany - about the money)
+[2016/03/03 13:29:38] <Tobbi> Which is a right-wing party...
+[2016/03/03 13:29:46] <mt> NPD 2.0
+[2016/03/03 13:29:49] <Tobbi> mt: true...
+[2016/03/03 13:30:27] <Tobbi> mt: NPD with the difference that they hate foreigners for "a reason".
+[2016/03/03 13:30:37] <Tobbi> And that reason, based on fear, resonates with a lot of people.
+[2016/03/03 13:30:40] @ claymore2 joined channel #supertux
+[2016/03/03 13:30:48] <mt> sadly
+[2016/03/03 13:31:02] <mt> Haven't we learned enough after two world wars?
+[2016/03/03 13:31:27] <Tobbi> mt: I think it's deeply embedded into the German culture. Many people fear that what they've built up will be destroyed...
+[2016/03/03 13:31:47] <Tobbi> I mean: Refugees introduce an unstable element into the situation.
+[2016/03/03 13:31:57] <Tobbi> A situation that was otherwise built on security and fail-safeness...
+[2016/03/03 13:32:13] <Tobbi> And many people are afraid it'll crash the whole construct.
+[2016/03/03 13:32:13] <Tobbi> That's how I see it.
+[2016/03/03 13:32:21] <mt> yet it's not a reason for xenophobia
+[2016/03/03 13:32:37] <Tobbi> mt: These people don't see themselves as xenophobes.
+[2016/03/03 13:32:48] <Tobbi> They see refugees as inferior... I think.
+[2016/03/03 13:32:50] <mt> Yes, but they *are*
+[2016/03/03 13:33:04] <Tobbi> mt: Unfortunately, you cannot talk with these people.
+[2016/03/03 13:33:10] <Tobbi> mt: Unless you're maybe their age.
+[2016/03/03 13:33:21] <mt> It's the same thing as with Trump, just due to a different cause
+[2016/03/03 13:33:39] <Tobbi> Most of them are from the elder generation and they don't want "anyone younger who doesn't know how the world really works" to reason with them.
+[2016/03/03 13:33:52] <Tobbi> AfD is the protest part of the elderly.
+[2016/03/03 13:34:07] <Tobbi> Oh no, change? We don't want that.
+[2016/03/03 13:34:14] <Tobbi> Change is dangerous.
+[2016/03/03 13:34:21] <Tobbi> Refugees might potentially mean change.
+[2016/03/03 13:34:41] <Tobbi> This is how I see the situation right now.
+[2016/03/03 13:34:53] <mt> what I think is silly is that the reason they keep naming is 'cultural values'
+[2016/03/03 13:35:11] <mt> Oh, so your christianity isn't about being welcome & nice to people?
+[2016/03/03 13:35:19] <Tobbi> mt: hehe, so true.
+[2016/03/03 13:35:33] <Ispy> [10supertux] Status for commit Add function to move to main spawnpoint by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/113415516
+[2016/03/03 13:35:47] <Tobbi> mt: But they see christianity as a set of rules and guidelines these other people don't have.
+[2016/03/03 13:35:49] <Tobbi> :D
+[2016/03/03 13:35:56] <mt> are all the builds finally finished?
+[2016/03/03 13:36:02] <Tobbi> They see Islam as a potentially dangerous religion.
+[2016/03/03 13:36:13] <Tobbi> mt: On the other hand: Can you blame them for seeing Islam as dangerous?
+[2016/03/03 13:36:20] <Tobbi> It was portrayed as being dangerous by the media?
+[2016/03/03 13:36:29] <Tobbi> You know: terrorists etc.
+[2016/03/03 13:37:00] <mt> Media (well, serious media) didn't picture all muslims as terrorists
+[2016/03/03 13:37:11] <mt> If you make that up, that's a problem
+[2016/03/03 13:37:13] <Tobbi> mt: I know...but people get the impression, don't they?
+[2016/03/03 13:37:27] <Tobbi> There
+[2016/03/03 13:37:28] <Tobbi> s a youtube video...
+[2016/03/03 13:37:37] <Tobbi> "I'm a muslim but not a terrorist"
+[2016/03/03 13:37:43] <Tobbi> So, people seem to think that.
+[2016/03/03 13:38:06] <Tobbi> actually, I don't know for sure.
+[2016/03/03 13:39:16] <mt> "Erst kürzlich haben wir herausgefunden, dass in Deutschland mehr als 82 Millionen versteckte Terroristen wohnen."
+[2016/03/03 13:39:24] <Tobbi> this: https://www.youtube.com/watch?v=E_IJLkGMsUs
+[2016/03/03 13:39:24] <mt> https://www.youtube.com/watch?v=SGD2q2vewzQ
+[2016/03/03 13:39:28] <Tobbi> Oh, yeah, I know that one.
+[2016/03/03 13:40:52] @ Quit: datahead8888_: Quit: Leaving
+[2016/03/03 13:54:17] @ Quit: tuxdev_: Ping timeout: 260 seconds
+[2016/03/03 13:59:33] @ Quit: claymore2: Ping timeout: 240 seconds
