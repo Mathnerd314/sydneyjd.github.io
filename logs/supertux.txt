@@ -13951,3 +13951,55 @@
 [2016/03/03 15:52:50] @ tux|dude joined channel #supertux
 [2016/03/03 15:54:01] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
 [2016/03/03 15:59:34] <Ispy> [10supertux] Status for commit Add libsdl2-ttf to travis by 07Tobias Markus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/419
+[2016/03/03 16:02:08] @ Quit: claymore2: Quit: Leaving
+[2016/03/03 16:03:08] @ datahead8888 joined channel #supertux
+[2016/03/03 16:11:57] @ Quit: alket__: Read error: error:1408F119:SSL routines:SSL3_GET_RECORD:decryption failed or bad record mac
+[2016/03/03 16:12:32] @ alket__ joined channel #supertux
+[2016/03/03 16:14:00] @ Quit: leyyin: Remote host closed the connection
+[2016/03/03 16:14:49] @ alket__ is now known as alket
+[2016/03/03 16:34:40] <Ispy> [10supertux] Status for commit Add libsdl2-ttf to travis by 07Tobias Markus: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/113497044
+[2016/03/03 16:35:51] <Tobbi> great.
+[2016/03/03 16:38:13] <Ispy> github: Error: "gh.pushinfo" is not a valid command.
+[2016/03/03 16:38:16] <Ispy> [10supertux] 07tobbi 14d199438 Install sdl2ttf for OS X using brew
+[2016/03/03 16:45:14] @ Quit: tux|dude: Quit: Leaving
+[2016/03/03 16:50:03] <Tobbi> sydney_u1tangle: ping
+[2016/03/03 16:59:01] @ stewboy joined channel #supertux
+[2016/03/03 17:11:44] <Ispy> [10supertux] Status for commit Install sdl2ttf for OS X using brew by 07Tobias Markus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/420
+[2016/03/03 17:14:43] @ tux|dude joined channel #supertux
+[2016/03/03 17:28:15] @ Quit: Ispy: Read error: Connection reset by peer
+[2016/03/03 17:28:20] @ Ispy` joined channel #supertux
+[2016/03/03 17:28:52] <sydney_u1tangle> Tobbi: Pon
+[2016/03/03 17:28:54] <sydney_u1tangle> g
+[2016/03/03 17:29:41] <Tobbi> sydney_u1tangle: Do you want a supertux cloak?
+[2016/03/03 17:34:28] <sydney_u1tangle> Tobbi: I don't think i am worthy of it. :)
+[2016/03/03 17:34:39] @ Yaiyan_ is now known as Yaiyan
+[2016/03/03 17:34:47] <sydney_u1tangle> But if you are willing to hand them out, sure.
+[2016/03/03 17:36:00] <Tobbi> sydney_u1tangle: I am not sure.
+[2016/03/03 17:37:13] <Tobbi> sydney_u1tangle: You do have ops in this channel right?
+[2016/03/03 17:37:27] <Tobbi> Also, giving you a cloak might motivate you to continue contributing...
+[2016/03/03 17:37:30] <sydney_u1tangle> Tobbi: I think so, just like you IIRC.
+[2016/03/03 17:37:40] <sydney_u1tangle> Uh, i doubt it. :)
+[2016/03/03 17:39:08] <Tobbi> sydney_u1tangle: whoat?
+[2016/03/03 17:39:47] <sydney_u1tangle> Tobbi: Im pretty sure i have ops, not sure how to 'op' myself though.
+[2016/03/03 17:40:03] <Tobbi> ok.
+[2016/03/03 17:40:38] @ Mode +o sydney_u1tangle by ChanServ
+[2016/03/03 17:40:43] <sydney_u1tangle> :D
+[2016/03/03 17:40:51] @ sydney_u1tangle is now known as sydney_untangle
+[2016/03/03 17:41:20] <Tobbi> See.
+[2016/03/03 17:41:21] <Tobbi> Works.
+[2016/03/03 17:41:22] @ Mode -o sydney_untangle by ChanServ
+[2016/03/03 17:41:34] * sydney_untangle nods...
+[2016/03/03 17:46:49] <Ispy`> [10supertux] Status for commit Install sdl2ttf for OS X using brew by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/113513366
+[2016/03/03 17:47:29] <Tobbi> wo.
+[2016/03/03 17:47:30] <Tobbi> wow.
+[2016/03/03 17:48:18] <sydney_untangle> :D
+[2016/03/03 17:56:31] <uptime> Did I smell another cloak request?
+[2016/03/03 17:57:24] <Tobbi> sydney_untangle: Your chance. Do you want one or not?
+[2016/03/03 17:58:40] <sydney_untangle> Tobbi: I said i will take one if you are handing them out? you are confusing.
+[2016/03/03 17:58:44] <sydney_untangle> ;)
+[2016/03/03 17:59:06] <Tobbi> uptime: Okay, another cloak for sydney_untangle
+[2016/03/03 17:59:14] <Tobbi> So we got that settled.
+[2016/03/03 17:59:25] <uptime> In what form, cap'n
+[2016/03/03 17:59:39] <uptime> supertux/sydney?
+[2016/03/03 17:59:49] <sydney_untangle> uptime: Can you keep my name out of it?
+[2016/03/03 17:59:57] * sydney_untangle thinks

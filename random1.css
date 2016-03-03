@@ -31,13 +31,13 @@ background-color: black;
   border-radius: 3px;
 }
 a:link {
-  color:white;
+  color:green;
 }
 a:visited {
 color: orange;
 }
 a:hover {
-  color:white;
+  color:orange;
 }
 a:active {
   color: orange;
