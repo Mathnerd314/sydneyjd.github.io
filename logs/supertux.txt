@@ -13627,3 +13627,38 @@
 [2016/03/03 09:58:19] <mt> https://superuser.com/questions/96390/difference-between-otf-open-type-or-ttf-true-type-font-formats
 [2016/03/03 09:58:30] <Tobbi> I see...
 [2016/03/03 09:59:00] <Tobbi> hmm...
+[2016/03/03 10:00:31] <Tobbi> mt: Problem is: It needs to be easy to output to an SDL surface.
+[2016/03/03 10:01:13] <mt> isn't the flexibility of freetype worth it?
+[2016/03/03 10:01:25] <mt> we can simply switch between ttf and otf
+[2016/03/03 10:01:41] <Tobbi> I'll check...
+[2016/03/03 10:01:54] <mt> also, don't forget to annoy Benau
+[2016/03/03 10:02:26] <Tobbi> Yeah, I'll.
+[2016/03/03 10:07:37] <Tobbi> mt: Maybe we should just resort to just using TTF.
+[2016/03/03 10:08:29] <Tobbi> I do actually not want to trouble myself with rendering OTF with some arbitrary lib like freetype.
+[2016/03/03 10:09:07] <mt> okay
+[2016/03/03 10:09:33] <mt> I guess, with sdl_ttf being part of the sdl ecosystem
+[2016/03/03 10:09:40] <mt> it's quite easy to integrate it
+[2016/03/03 10:09:41] <Tobbi> mt: According to someone in #SDL, SDL does allow OTF
+[2016/03/03 10:09:52] <mt> interesting
+[2016/03/03 10:14:42] <pentagon> [10supertux] Status for commit WIP: Display localized name instead of English translation by 07Tobias Markus: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/413
+[2016/03/03 10:16:12] <mt> uh what
+[2016/03/03 10:16:21] <mt> https://travis-ci.org/SuperTux/supertux/jobs/113405529#L6601-L6603
+[2016/03/03 10:16:45] <mt> oh git fetch --unshallow
+[2016/03/03 10:32:26] <pentagon> [10supertux] Status for commit WIP: Display localized name instead of English translation by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/113405520
+[2016/03/03 10:37:12] @ Necrosporus_ joined channel #supertux
+[2016/03/03 10:41:00] @ Quit: Necrosporus: Ping timeout: 276 seconds
+[2016/03/03 10:41:38] <pentagon> [10supertux] Status for commit WIP: Display localized name instead of English translation by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/113406224
+[2016/03/03 10:46:55] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09freetype 13https://git.io/v2HGW
+[2016/03/03 10:46:58] <pentagon> [10supertux] 07tobbi 14f64eea7 Add sdl_ttf to CMakeLists.txt
+[2016/03/03 10:47:06] <Tobbi> Let the fun begin!
+[2016/03/03 10:47:46] <mt> :D
+[2016/03/03 10:48:03] <Tobbi> This is only the dependency itself. No further code changes.
+[2016/03/03 10:48:59] <pentagon> [10supertux] Status for commit Fixed bug with object menus by 07Hume2: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/414
+[2016/03/03 10:49:41] <Tobbi> This took an awfully long time.
+[2016/03/03 11:29:28] <pentagon> [10supertux] Status for commit Fixed bug with object menus by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/415
+[2016/03/03 11:43:52] <pentagon> [10supertux] Status for commit Fixed bug with object menus by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/113410636
+[2016/03/03 11:44:53] <Tobbi> sydney_u1tangle: are you there by any chance?
+[2016/03/03 11:52:49] @ Ispy joined channel #supertux
+[2016/03/03 11:54:45] <pentagon> [10supertux] 07tobbi pushed 1 commit to 09freetype 13https://git.io/v2HV3
+[2016/03/03 11:54:48] <pentagon> [10supertux] 07tobbi 140095dc9 Create surface from file
+[2016/03/03 11:55:01] <Tobbi> bbiab
