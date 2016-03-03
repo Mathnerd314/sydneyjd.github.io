@@ -13200,3 +13200,26 @@
 [2016/03/02 21:03:57] @ Quit: swift110: Ping timeout: 276 seconds
 [2016/03/02 21:36:28] <sydney_untangle> Tobbi: Probably wouldn't hurt. right now we dont stick to our story well.
 [2016/03/02 21:42:00] @ Quit: tux|dude: Quit: Leaving
+[2016/03/02 22:18:09] @ Quit: jeezy: Quit: ZNC - http://znc.in
+[2016/03/02 22:23:42] @ jeexy joined channel #supertux
+[2016/03/02 22:24:22] @ jeexy is now known as jeezy
+[2016/03/02 22:26:14] @ Yaiyan_ joined channel #supertux
+[2016/03/02 22:26:18] @ sydney_u1tangle joined channel #supertux
+[2016/03/02 22:26:18] @ Mode +v sydney_u1tangle by ChanServ
+[2016/03/02 22:26:22] @ Quit: jeezy: Changing host
+[2016/03/02 22:26:22] @ jeezy joined channel #supertux
+[2016/03/02 22:26:29] @ Quit: Yaiyan: Ping timeout: 260 seconds
+[2016/03/02 22:26:30] @ Quit: sydney_untangle: Ping timeout: 260 seconds
+[2016/03/02 23:27:24] @ Mathnerd314 joined channel #supertux
+[2016/03/02 23:27:24] @ Mode +v Mathnerd314 by ChanServ
+[2016/03/02 23:54:10] @ tux|dude joined channel #supertux
+[2016/03/02 23:57:26] @ Quit: irungentoo: Remote host closed the connection
+[2016/03/02 23:58:49] @ Quit: tux|dude: Client Quit
+[2016/03/03 00:19:43] @ Quit: Mathnerd314: Ping timeout: 250 seconds
+[2016/03/03 00:22:41] @ Quit: Anupkumar: Quit: Connection closed for inactivity
+[2016/03/03 01:04:20] <pentagon> [10supertux] 07Hume2 pushed 1 commit to 09editor 13https://git.io/v2SVy
+[2016/03/03 01:04:23] <pentagon> [10supertux] 07Hume2 14fe36b5a Fixed werror 4
+[2016/03/03 01:04:31] <pentagon> [10supertux] 07Hume2 synchronized pull request 09#269: WIP Level Editor 13https://git.io/vEe13
+[2016/03/03 01:21:22] <pentagon> [10supertux] Status for commit Fixed werror 4 by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/113324829
+[2016/03/03 01:40:52] <pentagon> [10supertux] Status for commit Fixed werror 4 by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/409
+[2016/03/03 01:47:43] <pentagon> [10supertux] Status for commit Fixed werror 4 by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/113324840
