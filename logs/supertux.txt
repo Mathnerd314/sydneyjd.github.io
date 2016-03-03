@@ -13746,3 +13746,208 @@
 [2016/03/03 13:40:52] @ Quit: datahead8888_: Quit: Leaving
 [2016/03/03 13:54:17] @ Quit: tuxdev_: Ping timeout: 260 seconds
 [2016/03/03 13:59:33] @ Quit: claymore2: Ping timeout: 240 seconds
+[2016/03/03 14:08:12] @ claymore2 joined channel #supertux
+[2016/03/03 14:28:34] @ farooghkz joined channel #supertux
+[2016/03/03 14:33:40] <Tobbi> Hello, farooghkz
+[2016/03/03 14:33:55] <farooghkz> why tux doesnt have a child?
+[2016/03/03 14:34:07] <farooghkz> hi tobbi
+[2016/03/03 14:34:22] <Tobbi> farooghkz: That's a nice storyline addition :D
+[2016/03/03 14:34:48] <Hume2> Because Tux was about to have some, when Nolok stole him Penny.
+[2016/03/03 14:34:59] <leyyin> SUPER TUX
+[2016/03/03 14:35:04] <leyyin> he does not need children
+[2016/03/03 14:35:18] <farooghkz> its a good idea that tux rescues his children
+[2016/03/03 14:36:13] <farooghkz> !help
+[2016/03/03 14:36:16] <Hume2> Hmmm... maybe, but first he has to regain his penny.
+[2016/03/03 14:36:19] <farooghkz> .help
+[2016/03/03 14:36:30] <farooghkz> yes
+[2016/03/03 14:37:49] <mt> Do we need that 'Everyone should have children'/pro-"family" bullshit?
+[2016/03/03 14:38:41] <Hume2> I think we need it more than some other nations.
+[2016/03/03 14:39:18] <Ispy> [10supertux] Status for commit Add sdl_ttf to CMakeLists.txt by 07Tobias Markus: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/113432366
+[2016/03/03 14:39:27] <mt> nobody needs that bullshit, actually
+[2016/03/03 14:39:35] <mt> and we have more important stuff to focus on
+[2016/03/03 14:42:50] <farooghkz> what are test collections?
+[2016/03/03 14:43:18] <Hume2> It's just a crap for testing various crap.
+[2016/03/03 14:43:27] <mt> mostly for testing new features
+[2016/03/03 14:43:32] <mt> very short levels
+[2016/03/03 14:44:01] <mt> stuff that could actually be useful for unit tests of gameplay features
+[2016/03/03 14:44:18] <farooghkz> i installed dev version of supertux
+[2016/03/03 14:44:34] <mt> yes, they're included in the development builds
+[2016/03/03 14:45:11] <farooghkz> now i should test them and find bugs?
+[2016/03/03 14:45:21] <mt> probably not
+[2016/03/03 14:45:47] <farooghkz> i'd like to find bugs
+[2016/03/03 14:45:58] <farooghkz> during playing
+[2016/03/03 14:46:04] <mt> then just play the game as much as you can
+[2016/03/03 14:46:15] <mt> test recent changes
+[2016/03/03 14:46:16] <Tobbi> Yeah, good idea.
+[2016/03/03 14:46:32] <mt> Test levels are too limited to find complex issues
+[2016/03/03 14:46:38] <farooghkz> but till now i didnt find anything wrong
+[2016/03/03 14:46:40] <Tobbi> Hume2: I suggest to have different versions of SuperTux: One with 2 Tux's, one with 2 Pennys etc.
+[2016/03/03 14:47:23] <Hume2> Tobbi: I think that we should let that decision to a meeting.
+[2016/03/03 14:47:32] <Tobbi> Hume2: I am kidding.
+[2016/03/03 14:47:38] <Hume2> :D
+[2016/03/03 14:48:11] <farooghkz> everyone here are developers of dis game?
+[2016/03/03 14:48:34] <Tobbi> Not everyone.
+[2016/03/03 14:49:12] <Tobbi> farooghkz: The people with +o or +v are developers. Most of them.
+[2016/03/03 14:49:21] <Tobbi> Feel free to help us out in any way.
+[2016/03/03 14:49:24] <farooghkz> so most people r developer?
+[2016/03/03 14:49:35] <Tobbi> sydney_u1tangle: Do you want a cloak?
+[2016/03/03 14:49:36] <farooghkz> ok
+[2016/03/03 14:49:41] <Tobbi> farooghkz: Yes.
+[2016/03/03 14:49:49] <Hume2> Well, a big part of the active ones :P
+[2016/03/03 14:50:13] <farooghkz> lol
+[2016/03/03 14:50:38] <Tobbi> And the good thing is: Only a minority of the active developers doesn't know anything about computers.
+[2016/03/03 14:50:57] <farooghkz> i think i can help supertux by playing dev ver.
+[2016/03/03 14:51:11] <Hume2> Tobbi: :D
+[2016/03/03 14:51:13] <Tobbi> Sur.
+[2016/03/03 14:51:14] <Tobbi> e
+[2016/03/03 14:51:47] <farooghkz> am i right?
+[2016/03/03 14:51:58] <Tobbi> farooghkz: Sure. If you want to report back, please do so in this channel.
+[2016/03/03 14:52:20] <farooghkz> ok
+[2016/03/03 14:52:57] <Tobbi> farooghkz: Actually, do you have a github account?
+[2016/03/03 14:53:06] <farooghkz> yes
+[2016/03/03 14:53:27] <farooghkz> but im not a good programmer
+[2016/03/03 14:53:35] <Tobbi> farooghkz: Okay, make sure you're able to compile supertux yourself...
+[2016/03/03 14:53:47] <Tobbi> Then you can help us.
+[2016/03/03 14:53:56] <Tobbi> And it would be good if you could stay in this channel.
+[2016/03/03 14:54:55] <farooghkz> y compiling supertux by myself?
+[2016/03/03 14:55:13] <Tobbi> farooghkz: Actually, it's not needed, but if you want to test the latest version, it's preferred-
+[2016/03/03 14:55:19] <Tobbi> We do offer nightly builds, though.
+[2016/03/03 14:55:22] <Tobbi> see the topic.
+[2016/03/03 14:55:58] <farooghkz> nightlies?
+[2016/03/03 14:56:27] <Tobbi> farooghkz: http://download.supertuxproject.org/download/
+[2016/03/03 14:56:38] <Tobbi> Download the appropriate version for your OS.
+[2016/03/03 14:56:46] <farooghkz> what are those?
+[2016/03/03 14:57:06] <farooghkz> are they bin builds?
+[2016/03/03 14:57:16] <Tobbi> farooghkz: These are recent versions of the game.
+[2016/03/03 14:57:19] <Tobbi> Very recent.
+[2016/03/03 14:57:46] <Tobbi> Whenever someone changes something about the code, a nightly is being built.
+[2016/03/03 14:57:47] <Tobbi> Most of the time.
+[2016/03/03 14:57:55] <farooghkz> they are src code or bin build?
+[2016/03/03 14:58:27] <Tobbi> binary builds.
+[2016/03/03 14:58:57] <farooghkz> well id have tools to compile supertux myself
+[2016/03/03 14:59:18] <Tobbi> it's up to you.
+[2016/03/03 14:59:30] <farooghkz> ok
+[2016/03/03 15:00:16] <farooghkz> i can help by playing recent builds of supertux.right?
+[2016/03/03 15:00:40] <Tobbi> yes, certainly.
+[2016/03/03 15:00:53] <Tobbi> If you want, you can also create levels yourself.
+[2016/03/03 15:00:57] <Tobbi> Not sure if you're into that.
+[2016/03/03 15:01:26] <farooghkz> im not programmer
+[2016/03/03 15:01:34] <farooghkz> no i am
+[2016/03/03 15:01:47] <farooghkz> but im a noob
+[2016/03/03 15:02:05] <Tobbi> Okay.
+[2016/03/03 15:02:26] <farooghkz> so what can i do?
+[2016/03/03 15:02:39] <farooghkz> just playing?
+[2016/03/03 15:03:34] <Tobbi> farooghkz: Sure.
+[2016/03/03 15:03:37] <Tobbi> :)
+[2016/03/03 15:03:41] <Tobbi> Just stay around.
+[2016/03/03 15:03:43] <Tobbi> Participate in discussions.
+[2016/03/03 15:04:01] <farooghkz> lol ok
+[2016/03/03 15:04:34] <farooghkz> supertux is written in which language?c++?
+[2016/03/03 15:05:04] <Tobbi> farooghkz: For the most part, yes.
+[2016/03/03 15:05:18] <Tobbi> We also use python (for the editor), lisp as a definition file.
+[2016/03/03 15:05:19] <Tobbi> squirrel.
+[2016/03/03 15:05:23] <farooghkz> and other parts?
+[2016/03/03 15:05:39] <farooghkz> editor?
+[2016/03/03 15:05:40] <Tobbi> https://github.com/SuperTux/supertux
+[2016/03/03 15:05:48] <Tobbi> farooghkz: We have several editors.
+[2016/03/03 15:05:54] <Tobbi> Using C# on the most popular one.
+[2016/03/03 15:06:03] <Tobbi> And Python for the one we want to get most popular.
+[2016/03/03 15:06:31] <farooghkz> level editor?
+[2016/03/03 15:07:21] <Tobbi> farooghkz: Yeah, external programs for creating levels.
+[2016/03/03 15:08:15] <farooghkz> how someone can create levels by those tools?do u have api?
+[2016/03/03 15:08:41] <Tobbi> farooghkz: We don't have an API but documentation available.
+[2016/03/03 15:08:56] <Tobbi> *sigh*
+[2016/03/03 15:09:26] <farooghkz> (sry for asking too much questions)
+[2016/03/03 15:10:22] <Tobbi> No, it's fine.
+[2016/03/03 15:10:37] <Tobbi> farooghkz: What do you mean by API, anyway?
+[2016/03/03 15:10:50] <Tobbi> You can take a look at the syntax of a level...
+[2016/03/03 15:11:06] <Tobbi> But it's not actually necessary since the level editor does everything for you.
+[2016/03/03 15:12:03] <farooghkz> ok
+[2016/03/03 15:12:38] <Hume2> (except the hidden features those just a few people know about :D)
+[2016/03/03 15:12:56] <farooghkz> ?!
+[2016/03/03 15:13:00] <farooghkz> lol
+[2016/03/03 15:13:16] <Tobbi> Hume2: ssh
+[2016/03/03 15:13:21] <Tobbi> shh!!!
+[2016/03/03 15:13:29] <Hume2> OK
+[2016/03/03 15:13:37] <Tobbi> Nobody has the intention of building hidden features into SuperTux.
+[2016/03/03 15:13:41] <Hume2> There are no hidden features in SuperTux.
+[2016/03/03 15:13:54] <Tobbi> Hume2: Well, some things are not currently built into editors.
+[2016/03/03 15:13:55] <Hume2> I was just joking :P
+[2016/03/03 15:14:05] <Tobbi> Hume2: horizontal gradients for example.
+[2016/03/03 15:14:13] <Hume2> That's true.
+[2016/03/03 15:15:15] <Tobbi> Hume2: But anyway, what is a good format for smart tiles, something that is not so lengthy and maybe fits into one line?
+[2016/03/03 15:15:50] <Hume2> Well, it's still better than it was before AFAIK.
+[2016/03/03 15:16:05] <Tobbi> I know...
+[2016/03/03 15:16:14] <Tobbi> but I want to have smart tiles resizable.
+[2016/03/03 15:16:37] <Hume2> Oh, you're speaking about the flexlay.
+[2016/03/03 15:16:41] <farooghkz> another question.im a noob python,c,cpp programer.can i do anything with that ability?
+[2016/03/03 15:17:03] <Tobbi> farooghkz: How much do you know about those languages?
+[2016/03/03 15:18:01] <farooghkz> well i know syntax of those
+[2016/03/03 15:18:56] @ alket_ joined channel #supertux
+[2016/03/03 15:19:02] <Tobbi> farooghkz: You can take a look at the code of SuperTux and try to make sense of it.
+[2016/03/03 15:19:28] <farooghkz> idk sdl,pygame,pysdl
+[2016/03/03 15:19:47] @ Quit: alket: Ping timeout: 248 seconds
+[2016/03/03 15:19:50] <farooghkz> also opengl,openal
+[2016/03/03 15:19:51] <Tobbi> SDL is great. SuperTux is written in SDL.
+[2016/03/03 15:20:26] <Hume2> In fact, you don't have to know much about sdl/opengl to program SuperTux.
+[2016/03/03 15:20:38] <Tobbi> OpenGL / OpenAL is great. SuperTux is also making use of that.
+[2016/03/03 15:20:45] <farooghkz> ik
+[2016/03/03 15:20:57] <Ispy> [10supertux] Status for commit Create surface from file by 07Tobias Markus: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/113452283
+[2016/03/03 15:20:57] <Hume2> It's because it has its own libraries to operate with opengl.
+[2016/03/03 15:21:20] <Tobbi> What is going on with Travis?
+[2016/03/03 15:21:49] <Tobbi> Right!
+[2016/03/03 15:21:55] <Tobbi> Travis doesn't have SDL_ttf.
+[2016/03/03 15:21:59] <Tobbi> I need to fix that.
+[2016/03/03 15:22:16] <farooghkz> i just know about main cpp libs
+[2016/03/03 15:22:36] <Hume2> That's not bad at all.
+[2016/03/03 15:22:55] <farooghkz> also samething about py and c
+[2016/03/03 15:23:44] <Ispy> github: Error: "gh.pushinfo" is not a valid command.
+[2016/03/03 15:23:47] <Ispy> [10supertux] 07tobbi 142865293 Add libsdl2-ttf to travis
+[2016/03/03 15:23:48] <farooghkz> at all i cant do anything about developing or programming
+[2016/03/03 15:24:20] <Tobbi> eh, great.
+[2016/03/03 15:24:37] <farooghkz> lmao
+[2016/03/03 15:24:37] <Tobbi> farooghkz: But, you said you know some languages. Just try some things out. smaller things.
+[2016/03/03 15:24:55] <farooghkz> like what?
+[2016/03/03 15:25:21] <Hume2> You can study just a part of code, without the need of kowing the rest.
+[2016/03/03 15:25:30] <Hume2> *knowing
+[2016/03/03 15:25:46] <Tobbi> Hume2: Do we have smaller tasks?
+[2016/03/03 15:25:50] <Tobbi> Or have I implemented those all?
+[2016/03/03 15:26:14] <Hume2> Well, not rwally sure about that.
+[2016/03/03 15:26:19] <Hume2> *really
+[2016/03/03 15:26:53] <Tobbi> I'll find something.
+[2016/03/03 15:26:56] <Hume2> farooghkz: You can start with getting how the badguys work.
+[2016/03/03 15:27:11] <Tobbi> farooghkz: If you want to, that is. If you want to do quality assurance, I am totally fine with that.
+[2016/03/03 15:28:04] <farooghkz> i should download src code right?
+[2016/03/03 15:28:11] @ alket__ joined channel #supertux
+[2016/03/03 15:28:18] <Hume2> Do you know git?
+[2016/03/03 15:28:19] <Tobbi> farooghkz: If you want. Do git clone
+[2016/03/03 15:28:37] <farooghkz> i cant
+[2016/03/03 15:29:00] <farooghkz> i dont have internet on my computer
+[2016/03/03 15:29:37] @ Quit: alket_: Ping timeout: 244 seconds
+[2016/03/03 15:30:14] <Tobbi> farooghkz: Okay, so I guess you should do quality assurance, aka testing SuperTux.
+[2016/03/03 15:30:16] <giby_the_kid> Hi
+[2016/03/03 15:30:30] <farooghkz> yes
+[2016/03/03 15:30:43] <farooghkz> i must go
+[2016/03/03 15:30:50] <farooghkz> thx :)
+[2016/03/03 15:30:51] <Hume2> Bye.
+[2016/03/03 15:31:04] <Tobbi> Okay, see you.
+[2016/03/03 15:31:09] <farooghkz> oh a moment
+[2016/03/03 15:31:41] <Tobbi> yes?
+[2016/03/03 15:31:54] <farooghkz> what tools i need to compile supertux?other than g++
+[2016/03/03 15:32:03] <Tobbi> farooghkz: one moment.
+[2016/03/03 15:32:41] <Tobbi> farooghkz: https://github.com/SuperTux/supertux/blob/master/INSTALL.md#requirements
+[2016/03/03 15:32:43] <farooghkz> tobbi, memoserv it pls
+[2016/03/03 15:32:56] <Tobbi> uh, how do I do that again?
+[2016/03/03 15:33:30] <farooghkz>  /msg memoserv farooghkz ur msg
+[2016/03/03 15:33:46] <Tobbi> Done.
+[2016/03/03 15:33:56] <farooghkz> thx :)
+[2016/03/03 15:34:32] <farooghkz> thx
+[2016/03/03 15:34:37] <farooghkz> bye all
+[2016/03/03 15:34:42] @ farooghkz left channel #supertux ()
+[2016/03/03 15:41:15] @ alket_ joined channel #supertux
+[2016/03/03 15:42:47] @ Quit: alket__: Ping timeout: 260 seconds
+[2016/03/03 15:49:21] @ alket__ joined channel #supertux
+[2016/03/03 15:50:09] @ Quit: alket_: Ping timeout: 260 seconds
+[2016/03/03 15:52:50] @ tux|dude joined channel #supertux
+[2016/03/03 15:54:01] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/03/03 15:59:34] <Ispy> [10supertux] Status for commit Add libsdl2-ttf to travis by 07Tobias Markus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/419
