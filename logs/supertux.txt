@@ -14086,3 +14086,17 @@
 [2016/03/04 03:33:34] <Necrosporus> With opengl it's worse
 [2016/03/04 03:33:51] <Necrosporus> With sdl it's quite smooth
 [2016/03/04 03:37:14] <mt> :)
+[2016/03/04 04:02:56] @ leyyin joined channel #supertux
+[2016/03/04 04:14:51] @ alket joined channel #supertux
+[2016/03/04 04:41:08] <Tobbi> mt: Hey. Yes, we should ask grumbel. Yes, I sent a memo using MemoServ correctly (I msg MemoServ help), 3) Having Tux rescue Tux and Penny rescue Penny?
+[2016/03/04 04:44:11] <Tobbi> I am not so sure if that's gonna work.
+[2016/03/04 05:46:56] <mt> choose different names, maybe
+[2016/03/04 05:47:09] <mt> but that's something of less priority anyway
+[2016/03/04 05:53:51] <mt> Tobbi: I guess we should try an organization-wide webhook for the commit notifications
+[2016/03/04 05:54:32] <mt> You need to be an owner to do that, not just an admin for all repos
+[2016/03/04 05:54:47] <mt> See https://urandom.eu.org/i/KHGCinMl.png
+[2016/03/04 05:55:34] <mt> The payload URL should be https://urandom.eu.org/ircbots/Ispy/github, content type application/json
+[2016/03/04 05:55:56] <mt> events: https://urandom.eu.org/i/0XpRxcjT.png
+[2016/03/04 05:56:13] <mt> SSL verification on
+[2016/03/04 05:56:21] <mt> I'll PM you a secret
+[2016/03/04 05:56:30] <mt> otherwise Ispy rejects the payload
