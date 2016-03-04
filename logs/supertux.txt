@@ -14244,3 +14244,164 @@
 [2016/03/04 09:56:19] <Tobbi> This last coverity error is a pain in the ass...
 [2016/03/04 09:56:57] @ Mathnerd314 joined channel #supertux
 [2016/03/04 09:56:57] @ Mode +v Mathnerd314 by ChanServ
+[2016/03/04 10:02:43] <Tobbi> Oh wow.
+[2016/03/04 10:02:47] <Tobbi> We're back at 0.
+[2016/03/04 10:02:50] <Tobbi> on coverity.
+[2016/03/04 10:02:54] <Tobbi> So the issue might have been a mistake.
+[2016/03/04 10:06:25] <Tobbi> mt: We don't use boost's smart_ptr header any longer, do we?
+[2016/03/04 10:06:51] <mt> I have no idea
+[2016/03/04 10:07:10] <Tobbi> A quick search shows that we don't, I think.
+[2016/03/04 10:08:28] <Tobbi> I should update the docs in that aspect.
+[2016/03/04 10:08:49] <Ispy> [10supertux] Status for commit Add function to move to main spawnpoint by 07Tobias Markus: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/421
+[2016/03/04 10:13:54] <Ispy> [10supertux] Status for commit Add function to move to main spawnpoint by 07Tobias Markus: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/113672426
+[2016/03/04 10:14:55] <Tobbi> I hate you, travis.
+[2016/03/04 10:20:47] @ leyyin joined channel #supertux
+[2016/03/04 10:21:21] <Tobbi> A wild leyyin appears.
+[2016/03/04 10:22:32] @ irungentoo joined channel #supertux
+[2016/03/04 10:36:58] @ Necrosporus_ joined channel #supertux
+[2016/03/04 10:40:13] @ Quit: Necrosporus: Ping timeout: 248 seconds
+[2016/03/04 10:47:30] <sydney_untangle> Tobbi: He apparently never appeared. :)
+[2016/03/04 10:47:40] <Tobbi> sydney_untangle: he did.
+[2016/03/04 10:48:00] <sydney_untangle> Tobbi: his IRC conenct did, *he* never did...
+[2016/03/04 10:48:20] <Tobbi> oh right.
+[2016/03/04 10:54:50] <Tobbi> sydney_untangle: Last night, around 3 o'clock, my neighbor unexpectedly rang my doorbell. I almost dropped the electric drill.
+[2016/03/04 10:58:09] <Ispy> [10supertux] 07tobbi closed issue 09#291: Language names should be displayed in their language instead of in English 13https://git.io/vEWOX
+[2016/03/04 10:58:16] <Ispy> [10supertux] 07tobbi closed pull request 09#365: Display localized name instead of English translation 13https://git.io/vgD6p
+[2016/03/04 10:58:19] <Ispy> [10supertux] 07tobbi pushed 2 commits to 09master 13https://git.io/v2dok
+[2016/03/04 10:58:22] <Ispy> [10supertux] 07tobbi 143876b0d WIP: Display localized name instead of English translation
+[2016/03/04 10:58:25] <Ispy> [10supertux] 07tobbi 147bd11ef Merge pull request #365 from tobbi/langmenu_localized_name
+[2016/03/04 10:58:26] <Tobbi> oops, 2 commits?
+[2016/03/04 10:58:28] <Tobbi> Ah.
+[2016/03/04 10:58:29] <Tobbi> right
+[2016/03/04 10:58:32] <Ispy> [10supertux] 07tobbi commented on issue 09#365: Display localized name instead of English translation 13https://git.io/vgD6p
+[2016/03/04 11:02:24] <mt> I wonder if we can get our custom tinygettext code merged to upstream
+[2016/03/04 11:02:49] <Tobbi> I don't know. Does grumbel even care?
+[2016/03/04 11:03:08] <Tobbi> Are our modification even worth it?
+[2016/03/04 11:03:42] <Tobbi> mt: ^^
+[2016/03/04 11:04:08] <mt> leper` seems to have push access as well
+[2016/03/04 11:05:14] <Tobbi> Okay...
+[2016/03/04 11:05:15] <Tobbi> So...
+[2016/03/04 11:05:20] <mt> can we at least keep one of our branches even with tinygettext master
+[2016/03/04 11:05:42] <mt> and then rebase the branch with the custom modifications
+[2016/03/04 11:05:57] <Tobbi> mt: I guess upstream is even.
+[2016/03/04 11:06:23] <mt> `upstream` in supertux/tinygettext contains our custom modifications that are up-to-date
+[2016/03/04 11:06:25] <Tobbi> Actually, no, it isn't.
+[2016/03/04 11:06:28] <Tobbi> right
+[2016/03/04 11:06:32] <mt> `master` contains some of maths22's changes
+[2016/03/04 11:06:51] <Tobbi> Does upstream contain those?
+[2016/03/04 11:06:56] <mt> yes
+[2016/03/04 11:07:00] <mt> at least some
+[2016/03/04 11:07:04] <mt> I haven't checked
+[2016/03/04 11:07:06] <Tobbi> Zes.
+[2016/03/04 11:07:07] <Tobbi> Yes
+[2016/03/04 11:07:42] <Tobbi> mt: So, do I merge upstream with master now, and then reset upstream to tinygettext/master?
+[2016/03/04 11:08:20] <mt> I'd keep master even with tinygettext/tinygettext
+[2016/03/04 11:08:27] <mt> as that's the usual fork procedure
+[2016/03/04 11:08:35] <Tobbi> Okay, i can do that.
+[2016/03/04 11:08:39] <mt> then have a branch supertux-modifications
+[2016/03/04 11:08:43] <mt> with our modifications
+[2016/03/04 11:09:13] <mt> however, I think that our changes seem to actually be worth merging in tinygettext/tinygettext
+[2016/03/04 11:09:14] <Tobbi> mt: So I guess I'll rename the upstream branch to supertux-modifications.
+[2016/03/04 11:09:25] <mt> Tobbi: yeah
+[2016/03/04 11:09:31] <Tobbi> one moment.
+[2016/03/04 11:11:45] <Ispy> [10tinygettext] 07tobbi created branch 09supertux-modifications
+[2016/03/04 11:11:48] <Ispy> [10tinygettext] 07tobbi pushed 09supertux-modifications 13https://git.io/v2di2
+[2016/03/04 11:12:53] <Ispy> [10tinygettext] 07tobbi 04deleted branch 09upstream
+[2016/03/04 11:15:08] <Tobbi> mt: Okay, so I am gonna disable branch protection now for the master branch of tinygettext, then reset it to upstream/master
+[2016/03/04 11:15:40] <Tobbi> Afterwards, I am gonna reenable that.
+[2016/03/04 11:16:08] <Ispy> [10tinygettext] 07tobbi 04force-pushed 09master from 141c04561 to 147f1a7bd 13https://git.io/v2dPz
+[2016/03/04 11:16:27] <Tobbi> There we go.
+[2016/03/04 11:20:35] <Ispy> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/v2dXF
+[2016/03/04 11:20:38] <Ispy> [10supertux] 07tobbi 1475b06ed Update tinygettext to latest supertux-changes branch HEAD
+[2016/03/04 11:20:51] <leper`> mt: yes, am maintaining tinygettext
+[2016/03/04 11:21:39] <Tobbi> leper`: There are some changes in our fork that might be worth considering.
+[2016/03/04 11:21:51] <leper`> anything specific?
+[2016/03/04 11:22:19] * Tobbi checks.
+[2016/03/04 11:22:41] <Tobbi> mt: Which one of those changes would you want to get merged_
+[2016/03/04 11:22:42] <Tobbi> ?
+[2016/03/04 11:23:10] <leper`> those N commits "Fix build", "Fix build (again)" seem strange since it builds everywhere as far as I can tell :P
+[2016/03/04 11:23:25] <Tobbi> leper`: Yeah, I know...I was testing around, I guess.
+[2016/03/04 11:23:46] <mt> Best would be all
+[2016/03/04 11:23:57] <leper`> "Reduce log spam (uncomment collision warnings)" -> just don't specify a logging function for that
+[2016/03/04 11:24:01] <mt> I think our changes are quite useful for everyone
+[2016/03/04 11:24:11] <leper`> (maybe a point could be made that the logging level should be another one, but well)
+[2016/03/04 11:24:14] <Tobbi> mt: I don't think so, the branch contains a lot of testing around.
+[2016/03/04 11:24:28] <Tobbi> I'll check something.
+[2016/03/04 11:24:34] <mt> Tobbi: would it, if the fix commits are squashed?
+[2016/03/04 11:24:47] <Tobbi> I'll have to check.
+[2016/03/04 11:25:23] <Tobbi> mt: Problem is that this changes the API: https://github.com/tinygettext/tinygettext/commit/78898853f28a406adcc4e009a562c29da8011bb5
+[2016/03/04 11:25:34] <Tobbi> aka, function signature to accomodate supertux.
+[2016/03/04 11:25:34] <leper`> for the dirent.h change -> there is a nicer solution in the open pull request, but that is in a commit that changes a few things that aren't useful
+[2016/03/04 11:25:59] <Tobbi> *sigh*
+[2016/03/04 11:26:08] <Tobbi> Yeah, that was just to make appveyor happy.
+[2016/03/04 11:28:52] <leper`> (I'm happy to merge clean and useful (for some project using tinygettext) changes, but that requires someone to actually submit them)
+[2016/03/04 11:29:09] <Tobbi> leper`: I will probably separate the fixes into branches...
+[2016/03/04 11:29:15] <Tobbi> And then we can merge them separately.
+[2016/03/04 11:29:21] <leper`> sure :-)
+[2016/03/04 11:29:21] <Tobbi> mt: Happy with that?
+[2016/03/04 11:35:45] <mt> Yeah
+[2016/03/04 11:36:08] <Ispy> [10supertux] Status for commit Merge pull request #365 from tobbi/langmenu_localized_name by 07Tobias Markus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/422
+[2016/03/04 11:36:21] <Tobbi> *sigh*
+[2016/03/04 11:39:08] <Ispy> [10tinygettext] 07tobbi created branch 09remove_path_from_searchpath
+[2016/03/04 11:39:11] <Ispy> [10tinygettext] 07tobbi pushed 1 commit to 09remove_path_from_searchpath 13https://git.io/v2dSa
+[2016/03/04 11:39:14] <Ispy> [10tinygettext] 07tobbi 148a93774 Add function to remove path from search path
+[2016/03/04 11:41:24] <Ispy> [10supertux] Status for commit Merge pull request #365 from tobbi/langmenu_localized_name by 07Tobias Markus: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/113693939
+[2016/03/04 11:41:27] <Tobbi> mt: What else is worth getting merged?
+[2016/03/04 11:41:40] <mt> your localized name thing
+[2016/03/04 11:41:44] <Tobbi> mt: It's not complete.
+[2016/03/04 11:41:53] <Tobbi> Just complete enough for SuperTux.
+[2016/03/04 11:41:55] <mt> and maths22's fixes for external projects
+[2016/03/04 11:42:32] <leyyin> SUPER TUX
+[2016/03/04 11:42:45] <Tobbi> leyyin: We
+[2016/03/04 11:42:47] <Tobbi> are
+[2016/03/04 11:42:54] <Tobbi> awesome
+[2016/03/04 11:42:57] <Tobbi> Or something like that.
+[2016/03/04 11:43:01] <leyyin> SUPERRRRRR
+[2016/03/04 11:43:02] <Tobbi> I forgot what I wanted to write.
+[2016/03/04 11:43:20] <Tobbi> leyyin: We are MAKING TINYGETTEXT GREAT AGAIN
+[2016/03/04 11:43:22] <mt> make open source awesome again?
+[2016/03/04 11:44:23] <Tobbi> Yeah, that too.
+[2016/03/04 11:44:29] <mt> supertux/MAKES-EVERYTHING-GREAT-AGAIN/Tobbi
+[2016/03/04 11:44:35] <Tobbi> haha.
+[2016/03/04 11:44:40] <Tobbi> No, I am more humble than that.
+[2016/03/04 11:44:45] <Tobbi> Or so...
+[2016/03/04 11:45:45] <leper`> supertux/TobbiTheGreat
+[2016/03/04 11:45:50] <Tobbi> leper`: Will you accept incomplete commits, like the one with the native language?
+[2016/03/04 11:45:55] <leper`> dunno
+[2016/03/04 11:46:04] <Tobbi> leper`: you are the project leader of tinygettext :D
+[2016/03/04 11:46:06] <leper`> I'm not really sure if I like that table at all
+[2016/03/04 11:46:16] <Tobbi> *sigh*
+[2016/03/04 11:46:49] <leper`> then again if someone actually using that part makes a case for it
+[2016/03/04 11:47:22] <Tobbi> leper`: At least merge this: https://github.com/tinygettext/tinygettext/pull/16
+[2016/03/04 11:47:27] <Tobbi> Should be rock-solid, for once.
+[2016/03/04 11:47:48] <leper`> if (
+[2016/03/04 11:48:09] <leper`> also std::
+[2016/03/04 11:48:10] <Tobbi> leper`: space betwen if and ( ?
+[2016/03/04 11:48:16] <Tobbi> *sigh* okay, okay.
+[2016/03/04 11:50:00] <Tobbi> leper`: What do you mean by std:: ?
+[2016/03/04 11:50:10] <Tobbi> I have prefixed everything with std::
+[2016/03/04 11:50:10] <leper`> find
+[2016/03/04 11:50:35] <Tobbi> Ah
+[2016/03/04 11:52:25] <Ispy> [10tinygettext] 07tobbi 04force-pushed 1 commit to 09remove_path_from_searchpath 13https://git.io/v2dQu
+[2016/03/04 11:52:28] <Ispy> [10tinygettext] 07tobbi 145f81d6a Add function to remove path from search path
+[2016/03/04 11:52:47] <Tobbi> leper`: There you go.
+[2016/03/04 11:53:31] <Tobbi> mt: So after leper` has merged my modifications, I will rebase it with latest upstream, remove the other commit that did that and force-push supertux-changes, right?
+[2016/03/04 11:54:17] <mt> force pushing changes commit IDs and a such you should then also update the submodule
+[2016/03/04 11:54:37] <mt> I'd wait for all the changes to be accepted/rejected to force-push
+[2016/03/04 11:54:41] <Tobbi> mt: I can do that...just making sure this is the right way to do it.
+[2016/03/04 11:54:46] <Tobbi> okay, fine.
+[2016/03/04 11:54:47] <mt> Also, rebase on latest upstream master
+[2016/03/04 11:55:05] <leper`> (just checking if we should keep the order of the search path, else we could just swap the found one with back and pop_back)
+[2016/03/04 11:55:25] <Tobbi> leper`: If you want to write a better method, feel free to do so and close the search path.
+[2016/03/04 11:55:34] <Tobbi> eeh, pull request.
+[2016/03/04 11:55:35] <Tobbi> argh
+[2016/03/04 11:57:20] <leyyin> damn C++ is ugly
+[2016/03/04 11:57:47] <Tobbi> leyyin: Your mum is C++?
+[2016/03/04 11:57:48] <leyyin> why it is my main language then, sigh
+[2016/03/04 11:58:05] <Tobbi> And don't complain; you asked for it.
+[2016/03/04 11:58:15] <leyyin> Tobbi, your mama is fat
+[2016/03/04 11:58:19] <Tobbi> leyyin: nope.
+[2016/03/04 11:58:24] <leyyin> fatter than visual studio
+[2016/03/04 11:58:39] <Tobbi> wow, now we're definitely crossing a line.
+[2016/03/04 11:58:57] <leyyin> I hope you have good borders :P
+[2016/03/04 11:59:08] <Tobbi> :D
