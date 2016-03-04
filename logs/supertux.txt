@@ -14055,3 +14055,13 @@
 [2016/03/03 21:44:49] <sydney_untangle> Necrosporus: I have the same issue, even though its not too bad since i upgraded my GPU somewhat. Now my gpu is only 7 years old vs 10. ;p
 [2016/03/03 21:45:20] @ tux|dude joined channel #supertux
 [2016/03/03 21:57:05] @ Quit: tux|dude: Quit: Leaving
+[2016/03/03 23:27:22] @ datahead8888 is now known as datahead7777
+[2016/03/03 23:31:25] @ benjamin__ joined channel #supertux
+[2016/03/03 23:33:34] @ Quit: giby: Ping timeout: 268 seconds
+[2016/03/04 00:16:45] @ Quit: irungentoo: Ping timeout: 276 seconds
+[2016/03/04 01:10:51] @ farooghkz joined channel #supertux
+[2016/03/04 01:37:05] @ Quit: farooghkz: Quit: used jmIrc
+[2016/03/04 01:43:14] <mt> Ispy`: ircquote NS REGAIN Ispy
+[2016/03/04 01:43:15] @ Ispy` is now known as Ispy
+[2016/03/04 01:45:37] <mt> looks like I missed moving over some of the code used for push notifications, fixed
+[2016/03/04 01:59:12] <mt> 00:05:42 <+Tobbi> Or did we forget anyone, except for Karkus and maths22... <-- we should ask grumbel too, when he's here
