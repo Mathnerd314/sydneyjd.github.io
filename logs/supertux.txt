@@ -14100,3 +14100,33 @@
 [2016/03/04 05:56:13] <mt> SSL verification on
 [2016/03/04 05:56:21] <mt> I'll PM you a secret
 [2016/03/04 05:56:30] <mt> otherwise Ispy rejects the payload
+[2016/03/04 06:09:49] @ Quit: alket: Ping timeout: 248 seconds
+[2016/03/04 06:10:20] @ alket joined channel #supertux
+[2016/03/04 06:10:39] @ Quit: alket: Read error: error:1408F119:SSL routines:SSL3_GET_RECORD:decryption failed or bad record mac
+[2016/03/04 06:11:05] @ alket joined channel #supertux
+[2016/03/04 06:11:10] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- *I* use it, so it must be good!
+[2016/03/04 06:20:27] <mt> (Tobbi: also, the core team doesn't have access to all of the repos in the organization - e.g. the forks, physfs, ...)
+[2016/03/04 06:21:41] <Tobbi> mt: Hold on.
+[2016/03/04 06:21:46] <mt> (and for the cloak requests, we also forgot about LMH)
+[2016/03/04 06:35:13] @ 6A4AABZW2 joined channel #supertux
+[2016/03/04 06:35:14] @ 14WAADTPH joined channel #supertux
+[2016/03/04 06:49:45] <Tobbi> damn them.
+[2016/03/04 06:50:08] <Tobbi> I had a perfectly fine Microsoft Scam call, I should've not repeatedly asked for the time in London.
+[2016/03/04 06:50:11] <Tobbi> They hung up on me.
+[2016/03/04 06:50:19] <Tobbi> And I was just booting up my VM.
+[2016/03/04 06:50:39] <Tobbi> So I had to reinstall Windows.
+[2016/03/04 06:58:51] <Tobbi> gargh
+[2016/03/04 06:58:59] <Tobbi> They called me again, but hung up.
+[2016/03/04 06:59:04] <Tobbi> ffs.
+[2016/03/04 06:59:10] <Tobbi> I want to scam them for longer than just 20 minutes.
+[2016/03/04 06:59:15] <Tobbi> When I am finally ready, they disconnect.
+[2016/03/04 07:06:04] <Tobbi> Okay, I'll stop.
+[2016/03/04 07:06:25] <Tobbi> Time to set up this repo stuff.
+[2016/03/04 07:12:27] <Tobbi> mt: Done.
+[2016/03/04 07:12:54] <Tobbi> (I think)
+[2016/03/04 07:16:03] <mt> we should see on the next commit/event
+[2016/03/04 07:16:14] <mt> for the supertux/supertux repo two notifications should appear
+[2016/03/04 07:16:22] <mt> (until I remove the other hook)
+[2016/03/04 07:19:33] <Tobbi> ok
+[2016/03/04 07:34:26] @ bb010g joined channel #supertux
+[2016/03/04 07:43:51] @ Quit: leyyin: Remote host closed the connection
