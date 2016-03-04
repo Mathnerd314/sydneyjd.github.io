@@ -14130,3 +14130,117 @@
 [2016/03/04 07:19:33] <Tobbi> ok
 [2016/03/04 07:34:26] @ bb010g joined channel #supertux
 [2016/03/04 07:43:51] @ Quit: leyyin: Remote host closed the connection
+[2016/03/04 08:02:40] @ Quit: 6A4AABZW2: Quit: This computer has gone to sleep
+[2016/03/04 08:02:41] @ Quit: 14WAADTPH: Quit: This computer has gone to sleep
+[2016/03/04 08:05:02] @ farooghkz joined channel #supertux
+[2016/03/04 08:06:48] <Tobbi> Hello again, farooghkz
+[2016/03/04 08:06:54] <farooghkz> hi
+[2016/03/04 08:07:27] <farooghkz> i got err 522 when i wanted to open nightlies
+[2016/03/04 08:08:02] <Tobbi> farooghkz: What operating system?
+[2016/03/04 08:08:12] <farooghkz> i have ubuntu
+[2016/03/04 08:08:17] <Tobbi> Okay...
+[2016/03/04 08:08:18] <Tobbi> one moment.
+[2016/03/04 08:08:25] <Tobbi> farooghkz: Did you install from a ppa?
+[2016/03/04 08:08:33] <farooghkz> no
+[2016/03/04 08:08:34] <farooghkz> no
+[2016/03/04 08:08:47] <Tobbi> How did you install, then?
+[2016/03/04 08:08:58] <farooghkz>  when i wanted to open this link in my browser i got 522
+[2016/03/04 08:09:04] <Tobbi> farooghkz: Oh, right.
+[2016/03/04 08:09:09] <farooghkz> http://download.supertuxproject.org/download/
+[2016/03/04 08:09:14] <Tobbi> Yes, same here.
+[2016/03/04 08:09:18] <Tobbi> One moment, I'll try something.
+[2016/03/04 08:10:51] <Tobbi> farooghkz: http://webcache.googleusercontent.com/search?q=cache:4QEnrp-zrtEJ:download.supertuxproject.org/download/+&cd=3&hl=de&ct=clnk&gl=de
+[2016/03/04 08:10:55] <Tobbi> (cached version)
+[2016/03/04 08:11:28] <farooghkz> ok thx
+[2016/03/04 08:32:07] @ Quit: farooghkz: Quit: Leaving
+[2016/03/04 08:42:24] @ farooghkz joined channel #supertux
+[2016/03/04 08:57:24] @ Quit: farooghkz: Ping timeout: 246 seconds
+[2016/03/04 09:04:01] @ farooghkz joined channel #supertux
+[2016/03/04 09:12:15] <sydney_untangle> Tobbi: Is something broken?
+[2016/03/04 09:12:29] <Tobbi> sydney_untangle: What would be broken?
+[2016/03/04 09:12:57] <Tobbi> sydney_untangle: the nightly download server connection drops out intermittently.
+[2016/03/04 09:14:58] @ giby joined channel #supertux
+[2016/03/04 09:14:58] @ Mode +o giby by ChanServ
+[2016/03/04 09:15:07] @ giby_the_kid joined channel #supertux
+[2016/03/04 09:15:07] @ Mode +o giby_the_kid by ChanServ
+[2016/03/04 09:20:58] <farooghkz> why giby and his kid both join?
+[2016/03/04 09:21:04] <farooghkz> together?
+[2016/03/04 09:22:37] <uptime> farooghkz: I suspect it is possibly him on two different devices, if it's intentional
+[2016/03/04 09:28:32] <farooghkz> uptime, i think i met u in another chan
+[2016/03/04 09:28:45] <uptime> Very possible :)
+[2016/03/04 09:28:57] <Tobbi> :D
+[2016/03/04 09:29:24] <farooghkz> but i cant remember in which chan
+[2016/03/04 09:29:43] <Tobbi> farooghkz: He's part of freenode staff, so probably #freenode ?
+[2016/03/04 09:30:08] <farooghkz> yes
+[2016/03/04 09:30:20] <Ispy> [10supertux] 07tobbi pushed 27 commits to 09coverity_scan 13https://git.io/v2dG0
+[2016/03/04 09:30:32] <Tobbi> Hmm...
+[2016/03/04 09:30:52] <Tobbi> mt: Did you remove the other hook already?
+[2016/03/04 09:31:07] <Tobbi> Because as you can see, there's only one notification here.
+[2016/03/04 09:32:20] @ tuxdev_ joined channel #supertux
+[2016/03/04 09:35:34] <mt> Tobbi: no
+[2016/03/04 09:35:45] <Tobbi> mt: Okay, then there's something wrong.
+[2016/03/04 09:36:48] <mt> the webhook in supertux/supertux says service timeout
+[2016/03/04 09:37:21] <Tobbi> I see...
+[2016/03/04 09:37:22] <Tobbi> Alright.
+[2016/03/04 09:37:27] <Tobbi> So it's all working.
+[2016/03/04 09:37:53] <mt> well, what does the webhook in the organization say for that push?
+[2016/03/04 09:38:31] <Tobbi> I'll check.
+[2016/03/04 09:39:14] <Tobbi> mt: Service timeout as well.
+[2016/03/04 09:39:25] <Tobbi> One of them must have been sent.
+[2016/03/04 09:40:09] <mt> Tobbi: I deleted the webhook in the repo
+[2016/03/04 09:40:17] <Tobbi> Okay...
+[2016/03/04 09:40:20] <Tobbi> Want me to resend it?
+[2016/03/04 09:40:24] <mt> yeah
+[2016/03/04 09:40:27] <Tobbi> ok, one moment.
+[2016/03/04 09:40:58] <Tobbi> That seems to have worked according to github.
+[2016/03/04 09:41:32] <mt> Mar 04 15:40:45 fornax supybot[30222]: INFO 2016-03-04T15:40:45 utilities ignore called on #supertux by "github!github@github".
+[2016/03/04 09:41:41] <Tobbi> huh?
+[2016/03/04 09:41:41] <mt> was it a build status one?
+[2016/03/04 09:41:46] <Tobbi> Let me check.
+[2016/03/04 09:41:46] <Tobbi> might be.
+[2016/03/04 09:41:50] <mt> because pending status is ignored
+[2016/03/04 09:41:56] <Tobbi> This might be the actual one.
+[2016/03/04 09:42:31] <Tobbi> What about the last one?
+[2016/03/04 09:42:36] <mt> utilities ignore
+[2016/03/04 09:42:58] <Tobbi> That is werid.
+[2016/03/04 09:43:08] <mt> the 27 commit thing should spam my log with 27 recent utilities ignores instead of just one
+[2016/03/04 09:43:10] <Tobbi> Those are the only 2 that match.
+[2016/03/04 09:43:28] <mt> Tobbi: well, there's usually one AppVeyor and one Travis "Build pending"
+[2016/03/04 09:43:34] <Tobbi> hmm...
+[2016/03/04 09:43:36] @ Quit: farooghkz: Ping timeout: 246 seconds
+[2016/03/04 09:43:55] <Tobbi> I just redelivered another one.
+[2016/03/04 09:44:03] <Tobbi> From 2 hours ago.
+[2016/03/04 09:44:24] <mt> Mar 04 15:43:43 fornax supybot[30222]: INFO 2016-03-04T15:43:43 Got ping event from GitHub.
+[2016/03/04 09:44:31] <Tobbi> hmm...
+[2016/03/04 09:44:36] <Tobbi> oh, that was a ping event.
+[2016/03/04 09:44:39] <Tobbi> *sigh*
+[2016/03/04 09:44:56] <Tobbi> werid.
+[2016/03/04 09:44:58] <Tobbi> *weird
+[2016/03/04 09:45:07] <mt> can you make me owner?
+[2016/03/04 09:45:10] <mt> at least temporarily?
+[2016/03/04 09:45:31] <Tobbi> Yes, let me check.
+[2016/03/04 09:46:47] <Tobbi> Should be done.
+[2016/03/04 09:47:51] <mt> Tobbi: https://urandom.eu.org/i/eAQLW8Jj.png
+[2016/03/04 09:47:57] <Tobbi> hah
+[2016/03/04 09:47:57] <mt> that's not enabled
+[2016/03/04 09:47:58] <Tobbi> :D
+[2016/03/04 09:47:59] <Tobbi> I fail.
+[2016/03/04 09:48:00] <Tobbi> Okay.
+[2016/03/04 09:48:20] <Tobbi> I must've missed it.
+[2016/03/04 09:48:22] <mt> done with the owner things
+[2016/03/04 09:48:30] <Tobbi> Okay. Did you demote yourself?
+[2016/03/04 09:48:57] <mt> don't know how
+[2016/03/04 09:49:08] <Tobbi> Okay, I'll demote you then.
+[2016/03/04 09:49:18] <mt> I can't do it for myself, but for other owners
+[2016/03/04 09:49:48] <Tobbi> There you go.
+[2016/03/04 09:49:56] <Tobbi> You're now a member.
+[2016/03/04 09:50:17] <Tobbi> ~seen grumbel
+[2016/03/04 09:50:17] <red_bot> Tobbi: grumbel was last seen 22 days, 16 hours, 27 minutes and 19 seconds ago, quitting IRC (Ping timeout: 240 seconds)
+[2016/03/04 09:50:21] <Tobbi> Okay...
+[2016/03/04 09:50:29] <mt> Also, you give the Core team permission to admin/write to the newer repos
+[2016/03/04 09:50:36] <mt> e.g. physfs, the forks, ...
+[2016/03/04 09:50:48] <mt> *you should
+[2016/03/04 09:54:45] <Tobbi> Should be done.
+[2016/03/04 09:56:19] <Tobbi> This last coverity error is a pain in the ass...
+[2016/03/04 09:56:57] @ Mathnerd314 joined channel #supertux
+[2016/03/04 09:56:57] @ Mode +v Mathnerd314 by ChanServ
