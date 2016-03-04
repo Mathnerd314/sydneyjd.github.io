@@ -14065,3 +14065,24 @@
 [2016/03/04 01:43:15] @ Ispy` is now known as Ispy
 [2016/03/04 01:45:37] <mt> looks like I missed moving over some of the code used for push notifications, fixed
 [2016/03/04 01:59:12] <mt> 00:05:42 <+Tobbi> Or did we forget anyone, except for Karkus and maths22... <-- we should ask grumbel too, when he's here
+[2016/03/04 02:00:26] <mt> 21:33:30 <farooghkz>  /msg memoserv farooghkz ur msg <-- well, this is not how memoserv works (they forgot that you need to SEND the message)
+[2016/03/04 02:03:03] <mt> 20:47:32 <+Tobbi> Hume2: I am kidding. <-- why that? It's just a few config switches and if/switch checks
+[2016/03/04 02:13:59] @ Quit: benjamin__: Quit: This computer has gone to sleep
+[2016/03/04 02:14:00] @ Quit: giby_the_kid: Quit: This computer has gone to sleep
+[2016/03/04 02:36:03] @ Quit: tuxdev_: Ping timeout: 240 seconds
+[2016/03/04 02:48:09] @ Quit: Mathnerd314: Ping timeout: 246 seconds
+[2016/03/04 02:52:14] @ stewboy joined channel #supertux
+[2016/03/04 03:03:09] @ giby_the_kid joined channel #supertux
+[2016/03/04 03:03:09] @ giby joined channel #supertux
+[2016/03/04 03:03:09] @ Mode +o giby by ChanServ
+[2016/03/04 03:03:09] @ Mode +o giby_the_kid by ChanServ
+[2016/03/04 03:15:19] @ Quit: giby_the_kid: Quit: This computer has gone to sleep
+[2016/03/04 03:15:19] @ Quit: giby: Quit: This computer has gone to sleep
+[2016/03/04 03:21:54] <Necrosporus> sydney_untangle, I have intel x3100 GPU
+[2016/03/04 03:21:58] <Necrosporus> it's not that bad
+[2016/03/04 03:25:18] <mt> Necrosporus: try using a different renderer (using the --renderer command line option)
+[2016/03/04 03:25:34] <mt> Necrosporus: if possible, opengl, as it's hardware accelerated
+[2016/03/04 03:33:24] <Necrosporus> Actually changing renderer to sdl helps
+[2016/03/04 03:33:34] <Necrosporus> With opengl it's worse
+[2016/03/04 03:33:51] <Necrosporus> With sdl it's quite smooth
+[2016/03/04 03:37:14] <mt> :)
