@@ -14047,3 +14047,11 @@
 [2016/03/03 19:56:42] @ Necrosporus_ is now known as Necrosporus
 [2016/03/03 19:57:16] <Necrosporus> sydney_untangle, what can I do if supertux is terribly slow in light and magic from forest world?
 [2016/03/03 19:57:36] <Necrosporus> Where you have several lamps which activate squares to jump
+[2016/03/03 20:06:54] @ az__ joined channel #supertux
+[2016/03/03 20:07:33] @ Quit: az__: Client Quit
+[2016/03/03 21:01:34] @ Quit: swift110: Ping timeout: 240 seconds
+[2016/03/03 21:30:29] @ tuxdev_ joined channel #supertux
+[2016/03/03 21:43:55] <sydney_untangle> Necrosporus: There is not much you can do, it is your GPU.
+[2016/03/03 21:44:49] <sydney_untangle> Necrosporus: I have the same issue, even though its not too bad since i upgraded my GPU somewhat. Now my gpu is only 7 years old vs 10. ;p
+[2016/03/03 21:45:20] @ tux|dude joined channel #supertux
+[2016/03/03 21:57:05] @ Quit: tux|dude: Quit: Leaving
