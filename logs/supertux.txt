@@ -14405,3 +14405,168 @@
 [2016/03/04 11:58:39] <Tobbi> wow, now we're definitely crossing a line.
 [2016/03/04 11:58:57] <leyyin> I hope you have good borders :P
 [2016/03/04 11:59:08] <Tobbi> :D
+[2016/03/04 12:04:49] <leper`> ah well, DictionaryManager::get_dictionary depends on the order
+[2016/03/04 12:06:52] <leper`> Tobbi: also fix that { placement
+[2016/03/04 12:07:04] <Tobbi> okay.
+[2016/03/04 12:07:25] <leyyin> why are you using indent of 4 spaces?
+[2016/03/04 12:07:49] <leyyin> why are there 2 indent types in that file? :D
+[2016/03/04 12:08:15] <Tobbi> leyyin: Stop it.
+[2016/03/04 12:08:21] <Tobbi> I am performing a crucial and complicated operation.
+[2016/03/04 12:08:23] <leyyin> leper`, started
+[2016/03/04 12:08:24] <Tobbi> Editing with vim.
+[2016/03/04 12:08:29] <leper`> leyyin: because the ugly code is from STK
+[2016/03/04 12:08:37] <Tobbi> haha, owned.
+[2016/03/04 12:08:50] @ Quit: bb010g: Quit: Connection closed for inactivity
+[2016/03/04 12:08:52] <leyyin> why is it in tinygettext/tinygettext then?
+[2016/03/04 12:08:54] <leper`> I could probably drop that function since only you guys are using it and you are using your own fork
+[2016/03/04 12:08:57] <leyyin> someone approved it
+[2016/03/04 12:09:21] <leper`> because at some point someone thought you might want to use a non-forked version of some dependency
+[2016/03/04 12:09:37] <leper`> yes, grumbel
+[2016/03/04 12:10:23] <Ispy> [10tinygettext] 07tobbi 04force-pushed 1 commit to 09remove_path_from_searchpath 13https://git.io/v2ddp
+[2016/03/04 12:10:26] <Ispy> [10tinygettext] 07tobbi 14ff49863 Add function to remove path from search path
+[2016/03/04 12:10:58] <leyyin> half the file 2 spaces
+[2016/03/04 12:11:02] <leyyin> 2 methods 4 spaces
+[2016/03/04 12:11:07] <leyyin> so what is the correct one?
+[2016/03/04 12:11:14] <leper`> 2
+[2016/03/04 12:11:28] <leper`> see the clang-format branch if you want to do something about it
+[2016/03/04 12:11:58] <leyyin> what repo is that?
+[2016/03/04 12:12:06] <leyyin> https://github.com/tinygettext/tinygettext/branches is only one
+[2016/03/04 12:12:08] <leper`> I should probably continue with that now since there's a newer version of that now
+[2016/03/04 12:12:16] <leper`> mine most likely
+[2016/03/04 12:12:44] * mt doesn't understand why people use 2 spaces, or tabs
+[2016/03/04 12:12:54] <leyyin> me neither
+[2016/03/04 12:13:00] <mt> 4 spaces, no tabs is readable and consistent
+[2016/03/04 12:13:04] <leyyin> but I usually respect the repo convention
+[2016/03/04 12:13:10] <leper`> because one char instead of 2 or 4 is wasteful and bogus
+[2016/03/04 12:13:25] <leper`> and forcing everyone to use the same width when you can do things dynamically is stupid
+[2016/03/04 12:13:26] <Tobbi> leper`: So, do I change the indentation to 2 spaces or what?
+[2016/03/04 12:13:31] <leper`> yeah
+[2016/03/04 12:13:35] <Tobbi> okay.
+[2016/03/04 12:13:45] <mt> leyyin: I usually also respect that
+[2016/03/04 12:13:59] <leyyin> I thought you were some rebel :P
+[2016/03/04 12:14:04] <leyyin> or a openssh contributor :P
+[2016/03/04 12:14:11] <mt> also, I don't just convert a fork using a format tool
+[2016/03/04 12:14:15] <mt> I did that once
+[2016/03/04 12:14:17] <leper`> leyyin: openssl?
+[2016/03/04 12:14:43] <mt> but then upstream did push some commits and it was a pain to manually fix the conflicts
+[2016/03/04 12:15:06] <leper`> mt: yes, but since "upstream" isn't consistent in this case and I sort of am "upstream" changing it once would be nice
+[2016/03/04 12:15:09] <leyyin> yes, openssl
+[2016/03/04 12:15:31] <leyyin> well change it leper` ;)
+[2016/03/04 12:16:07] <Ispy> [10tinygettext] 07tobbi 04force-pushed 1 commit to 09remove_path_from_searchpath 13https://git.io/v2db2
+[2016/03/04 12:16:10] <Ispy> [10tinygettext] 07tobbi 14e182927 Add function to remove path from search path
+[2016/03/04 12:16:17] <Tobbi> there we go.
+[2016/03/04 12:16:17] <leper`> I will, but I'll have to check if clang-format supports a few things now that make the change less invasive
+[2016/03/04 12:16:56] <mt> openbsd wants first indentation 8 char tab, all other indentation 4 spaces, which is kind of strange
+[2016/03/04 12:17:16] <mt> but otherwise, I really like openbsd's code style guide
+[2016/03/04 12:17:29] <Tobbi> mt: I guess after merging I can just git rebase and specify d for delete on the commit that does the same thing, right?
+[2016/03/04 12:17:46] <Tobbi> in git rebase --interactive
+[2016/03/04 12:17:51] <mt> to do what?
+[2016/03/04 12:18:06] <leper`> just rebase without anything, then on the conflict (if there is one actually) git rebase --skip
+[2016/03/04 12:18:13] <Tobbi> leper`: Might make sense yes.
+[2016/03/04 12:18:29] <leper`> or just delete the line in the interactive rebase
+[2016/03/04 12:18:33] <Tobbi> I can do that.
+[2016/03/04 12:18:48] <leper`> (but for something like this you don't really need the interactive rebase
+[2016/03/04 12:18:49] <Tobbi> iirc, specifying d on that commit is the same as deleting the line.
+[2016/03/04 12:18:49] <leper`> )
+[2016/03/04 12:19:41] <Tobbi> anyway, doesn't matter.
+[2016/03/04 12:22:56] <Tobbi> travis is slow today...
+[2016/03/04 12:25:02] <leper`> care to add yourself to LICENSE.md?
+[2016/03/04 12:25:11] <leper`> (and update the year while you're there?)
+[2016/03/04 12:25:44] <Tobbi> Sure.
+[2016/03/04 12:25:46] <Tobbi> one moment.
+[2016/03/04 12:27:35] <Ispy> [10tinygettext] 07tobbi pushed 1 commit to 09remove_path_from_searchpath 13https://git.io/v2dxq
+[2016/03/04 12:27:38] <Ispy> [10tinygettext] 07tobbi 14a01780c Add myself to LICENSE.md and update year
+[2016/03/04 12:30:19] <leper`> Tobbi: thanks
+[2016/03/04 12:30:30] <Tobbi> Alright, now, let's rebase our supertux-changes branch.
+[2016/03/04 12:33:49] <mt> wait
+[2016/03/04 12:34:14] <Tobbi> yes
+[2016/03/04 12:34:15] <Tobbi> okay?
+[2016/03/04 12:34:24] <mt> I suggest you to do that when everything we want to have upstreamed is merged to upstream
+[2016/03/04 12:34:32] <Tobbi> Can do.
+[2016/03/04 12:34:42] <mt> because otherwise we'll pollute supertux/supertux repo with submodule update commits
+[2016/03/04 12:34:54] <mt> submodule depends on a commit hash, not on a branch
+[2016/03/04 12:35:23] <Ispy> [10tinygettext] 07tobbi 04deleted branch 09remove_path_from_searchpath
+[2016/03/04 12:35:38] <Tobbi> I know.
+[2016/03/04 12:36:51] <leyyin> why I am not surprised http://www.theguardian.com/technology/2016/mar/04/microsoft-monopolise-pc-games-development-epic-games-gears-of-war
+[2016/03/04 12:37:24] <Tobbi> mt: I guess next we can safely add the "sort source files to get reproducible linking order" commit.
+[2016/03/04 12:38:24] <mt> yeah
+[2016/03/04 12:38:47] <mt> the cmake-related changes look okay for upstream as well
+[2016/03/04 12:39:06] <Tobbi> So I can probably cherry-pick those first.
+[2016/03/04 12:39:15] @ Quit: datahead7777: Quit: Leaving
+[2016/03/04 12:40:03] <mt> now what do you want to cherry-pick where to
+[2016/03/04 12:40:10] <mt> to a separate branch?
+[2016/03/04 12:47:21] <Tobbi> mt: Yes.
+[2016/03/04 12:50:08] <Ispy> [10tinygettext] 07tobbi created branch 09cmake_changes
+[2016/03/04 12:50:11] <Tobbi> Just those first.
+[2016/03/04 12:50:11] <Ispy> [10tinygettext] 07tobbi pushed 8 commits to 09cmake_changes 13https://git.io/v2Fez
+[2016/03/04 12:52:02] <Ispy> [10tinygettext] 07tobbi pushed 1 commit to 09cmake_changes 13https://git.io/v2FvI
+[2016/03/04 12:52:05] <Ispy> [10tinygettext] 07tobbi 14e711672 Add tinygettext_Export.h to gitignore
+[2016/03/04 12:52:56] <Tobbi> I'm sorry, this is gonna be spammy.
+[2016/03/04 12:53:10] @ Quit: alket: Quit: Tung
+[2016/03/04 12:53:28] <Ispy> [10tinygettext] 07tobbi pushed 1 commit to 09cmake_changes 13https://git.io/v2Fvn
+[2016/03/04 12:53:29] <Tobbi> Okay, done.
+[2016/03/04 12:53:31] <Ispy> [10tinygettext] 07reinerh 14dbc914f Sort source files to get reproducible linking order
+[2016/03/04 12:55:22] <Tobbi> leper`: Not sure if you're willing to look through those :D
+[2016/03/04 12:59:29] <leper`> quite some of those don't seem really useful
+[2016/03/04 12:59:54] <leper`> and nearly all of them have some indentation issues which makes looking at the changes harder than it has to be
+[2016/03/04 13:00:09] <Tobbi> leper`: Okay, I will have to rebase them, then.
+[2016/03/04 13:00:14] <leper`> and for those that could be useful the commit messages do not seem to have much to do with what the commit does
+[2016/03/04 13:00:29] <Tobbi> leper`: alright, which of those do you want?
+[2016/03/04 13:00:32] <leper`> also splitting things based on what they do would be nice
+[2016/03/04 13:01:02] <Tobbi> Probably. Okay, one moment.
+[2016/03/04 13:02:19] <Tobbi> leper`: the first commit is actually the one everything afterwards depends on.
+[2016/03/04 13:02:24] <Tobbi> So can I do this alone?
+[2016/03/04 13:04:07] <leper`> that one is the one with the big issue :P
+[2016/03/04 13:04:16] <Tobbi> *sigh*
+[2016/03/04 13:05:17] <leper`> (not that I care a lot about the cmake build files but that commit is just a mess)
+[2016/03/04 13:06:22] <Tobbi> I will deal with it later.
+[2016/03/04 13:06:22] <Ispy> [10tinygettext] 07tobbi pushed 2 commits to 09master 13https://git.io/v2FJS
+[2016/03/04 13:06:25] <Ispy> [10tinygettext] 07tobbi 14e182927 Add function to remove path from search path
+[2016/03/04 13:06:27] <Ispy> [10tinygettext] 07tobbi 14a01780c Add myself to LICENSE.md and update year
+[2016/03/04 13:06:33] <Tobbi> just keeping master up-to-date
+[2016/03/04 13:08:36] <Tobbi> leper`: So, what do you want me to change about that commit?
+[2016/03/04 13:08:47] <Tobbi> I don't actually know anything. I don't quite understand cmake.
+[2016/03/04 13:09:23] <leper`> indentation for one, likely more but that thing is just unreadable
+[2016/03/04 13:09:38] <leper`> possibly easier to just define having iconv in that one case
+[2016/03/04 13:11:02] <Tobbi> Mathnerd314: https://github.com/tinygettext/tinygettext/commit/0a686cbddfad24a55516d50f0f8a8f8bd08d020e was your commit. Can you make it ready for inclusion in upstream?
+[2016/03/04 13:11:06] <Tobbi> See issues above.
+[2016/03/04 13:11:35] <Tobbi> once ready, push it to a new feature branch, aka iconv_fixes in the supertux repo.
+[2016/03/04 13:11:47] <Tobbi> leper`: See, delegated that task to someone else -> fixed on my side.
+[2016/03/04 13:11:57] <leper`> it's also not really clear what that commit tries to do
+[2016/03/04 13:12:06] <Tobbi> Mathnerd314: After fixing, please do a pull request against upstream.
+[2016/03/04 13:12:22] <leper`> I guess it has something to do with you wanting to use SDL's iconv, but dunno
+[2016/03/04 13:12:37] <Tobbi> leper`: I guess we had issues with double iconv or something.
+[2016/03/04 13:12:41] @ Quit: Anupkumar: Quit: Connection closed for inactivity
+[2016/03/04 13:13:14] <Tobbi> No probably not.
+[2016/03/04 13:14:10] <Tobbi> Okay, I'm off, doing some sports.
+[2016/03/04 13:14:15] <Tobbi> See you later, everyone.
+[2016/03/04 13:14:21] <leper`> "sports"
+[2016/03/04 13:14:31] <Tobbi> leper`: Real sports.
+[2016/03/04 13:14:45] <leper`> Drinking on Friday night isn't a real sport
+[2016/03/04 13:14:55] <Tobbi> leper`: *sigh*, Karate.
+[2016/03/04 13:15:13] <leper`> getting into bar fights also isn't
+[2016/03/04 13:15:15] @ Anupkumar joined channel #supertux
+[2016/03/04 13:15:20] <Tobbi> :D
+[2016/03/04 13:15:54] @ claymore2 joined channel #supertux
+[2016/03/04 13:16:03] <Mathnerd314> Tobbi, leper`: what's wrong with it? indentation?
+[2016/03/04 13:16:21] <Tobbi> Mathnerd314: I'm about to head out.
+[2016/03/04 13:16:25] <leper`> that, I'm not sure what that commit tries to accomplish, or why it does that
+[2016/03/04 13:17:16] <leper`> and possibly more, but given that reading it is hard due to it not being formatted properly doesn't help
+[2016/03/04 13:17:20] <Mathnerd314> well, there's an iconv error, and it fixes it
+[2016/03/04 13:17:29] <leper`> sounds vague
+[2016/03/04 13:18:08] <Mathnerd314> yeah. but it stayed in, so it must have worked
+[2016/03/04 13:19:10] <leper`> so did "Fix build" and "Fix build (again)"
+[2016/03/04 13:19:21] @ Quit: ced117: Ping timeout: 276 seconds
+[2016/03/04 13:19:55] <leper`> (and merging something that fixes some undisclosed error without being able to specify which one or how to verify that the fix works and is correct is not something I'm going to do)
+[2016/03/04 13:20:52] @ ced117 joined channel #supertux
+[2016/03/04 13:21:01] <Mathnerd314> well, before tinygettext was split out from SuperTux, it used SDL_iconv. but that broke. so I fixed it
+[2016/03/04 13:21:30] <Mathnerd314> so now SuperTux sets HAVE_SDL and it uses SDL_iconv again
+[2016/03/04 13:21:32] <mt> in *what way* did it break
+[2016/03/04 13:22:12] <Mathnerd314> cmake didn't compile it with -DHAVE_SDL anymore, because it was a separate project
+[2016/03/04 13:23:07] <Mathnerd314> CMake is poorly documented, there's not much point in describing it further
+[2016/03/04 13:24:37] <mt> leper`: ^
+[2016/03/04 13:31:27] <leper`> and why don't you just pass in an include dir for iconv, and if that is empty do the iconv required part that already is in there
+[2016/03/04 13:31:34] @ Quit: tuxdev_: Ping timeout: 260 seconds
+[2016/03/04 13:31:53] <leper`> would be a one line addition instead of rewriting half the file
+[2016/03/04 13:34:22] <Mathnerd314> because that would be more work... this way other projects that use SDL will also use SDL_iconv
+[2016/03/04 13:55:51] @ ToBeCloud joined channel #supertux
