@@ -14003,3 +14003,47 @@
 [2016/03/03 17:59:39] <uptime> supertux/sydney?
 [2016/03/03 17:59:49] <sydney_untangle> uptime: Can you keep my name out of it?
 [2016/03/03 17:59:57] * sydney_untangle thinks
+[2016/03/03 18:00:43] <uptime> It's basically whatever the GC asks — but generally the intention is to show it off, and for it to be known you're a contributor of the said project, so the whole sort of point is to have your name in it :)
+[2016/03/03 18:00:46] <sydney_untangle> Tobbi: Any ideas? i dont want my name in it much...
+[2016/03/03 18:01:07] <sydney_untangle> Heh, true.
+[2016/03/03 18:01:13] <sydney_untangle> uptime: Sure, might as well...
+[2016/03/03 18:01:25] <sydney_untangle> At least it is not my last name. o_O
+[2016/03/03 18:01:30] <Tobbi> sydney_untangle: Why not head8something.
+[2016/03/03 18:01:40] <sydney_untangle> Tobbi: Im not datahead8888...
+[2016/03/03 18:01:47] <sydney_untangle> :)
+[2016/03/03 18:01:50] <Tobbi> sydney_untangle: You did have head8debian at some point.
+[2016/03/03 18:01:59] * sydney_untangle nods... :D
+[2016/03/03 18:02:45] <sydney_untangle> Also, welcome to the channel uptime. :-)
+[2016/03/03 18:04:41] <sydney_untangle> uptime: Sure, just go with supertux/sydney, thats fine.
+[2016/03/03 18:04:43] <uptime> sydney_untangle: Thanks! I have quite enjoyed my stay so far. :)
+[2016/03/03 18:04:57] @ Quit: sydney_untangle: Changing host
+[2016/03/03 18:04:57] @ sydney_untangle joined channel #supertux
+[2016/03/03 18:04:57] @ Mode +v sydney_untangle by sendak.freenode.net
+[2016/03/03 18:05:12] <uptime> All done!
+[2016/03/03 18:05:35] <Tobbi> sydney_untangle: I guess now everyone from the core team has a cloak, right?
+[2016/03/03 18:05:43] <Tobbi> Or did we forget anyone, except for Karkus and maths22...
+[2016/03/03 18:05:46] <sydney_untangle> Tobbi: I guess.
+[2016/03/03 18:05:49] <Tobbi> But they're not around...
+[2016/03/03 18:05:53] <Tobbi> Not currently, at least.
+[2016/03/03 18:06:00] <sydney_untangle> Tobbi: Im maintaining logs, so i guess that counts somewhat. ;p
+[2016/03/03 18:06:08] <Tobbi> Indeed :)
+[2016/03/03 18:07:24] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- *I* use it, so it must be good!
+[2016/03/03 18:17:18] <Tobbi> sydney_untangle: I am talking to my former Mozilla contributors again :D
+[2016/03/03 18:18:18] <Tobbi> If you want to join, connect to irc.mozilla.org, channel #sumo and advertise SuperTux :D
+[2016/03/03 18:19:04] @ Quit: tux|dude: Ping timeout: 244 seconds
+[2016/03/03 18:23:00] @ tux|dude joined channel #supertux
+[2016/03/03 18:25:02] @ sydney_untangle is now known as mozilla
+[2016/03/03 18:27:55] <mozilla> lol.
+[2016/03/03 18:27:56] <mozilla> oops.
+[2016/03/03 18:28:03] @ mozilla is now known as sydney_untangle
+[2016/03/03 18:30:00] <datahead8888> sydney_untangle, head8's are cool :P
+[2016/03/03 18:32:38] <datahead8888> Mmmm...I'm getting good retro vibes from my own Unity game, now that I've introduced tile maps
+[2016/03/03 19:02:06] @ Quit: alket: Quit: Tung
+[2016/03/03 19:23:05] @ Quit: tux|dude: Quit: Leaving
+[2016/03/03 19:38:19] @ polyphagia joined channel #supertux
+[2016/03/03 19:49:35] @ swift110 joined channel #supertux
+[2016/03/03 19:51:43] @ Quit: swift110: Changing host
+[2016/03/03 19:51:43] @ swift110 joined channel #supertux
+[2016/03/03 19:56:42] @ Necrosporus_ is now known as Necrosporus
+[2016/03/03 19:57:16] <Necrosporus> sydney_untangle, what can I do if supertux is terribly slow in light and magic from forest world?
+[2016/03/03 19:57:36] <Necrosporus> Where you have several lamps which activate squares to jump
