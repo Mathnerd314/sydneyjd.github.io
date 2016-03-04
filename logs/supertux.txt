@@ -14570,3 +14570,13 @@
 [2016/03/04 13:31:53] <leper`> would be a one line addition instead of rewriting half the file
 [2016/03/04 13:34:22] <Mathnerd314> because that would be more work... this way other projects that use SDL will also use SDL_iconv
 [2016/03/04 13:55:51] @ ToBeCloud joined channel #supertux
+[2016/03/04 14:50:02] @ datahead8888 joined channel #supertux
+[2016/03/04 14:50:22] @ datahead8888 is now known as datahead7777
+[2016/03/04 14:55:40] @ farooghkz joined channel #supertux
+[2016/03/04 14:57:16] @ Quit: farooghkz: Remote host closed the connection
+[2016/03/04 14:57:41] @ farooghkz joined channel #supertux
+[2016/03/04 14:58:45] @ lolo_ joined channel #supertux
+[2016/03/04 14:59:05] @ Quit: lolo_: Client Quit
+[2016/03/04 15:04:36] @ Quit: leyyin: Remote host closed the connection
+[2016/03/04 15:34:03] @ Quit: farooghkz: Quit: used jmIrc
+[2016/03/04 15:55:29] <Tobbi> leper`: So, did you get this settled?
