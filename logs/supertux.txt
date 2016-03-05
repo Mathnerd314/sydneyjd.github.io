@@ -14607,3 +14607,5 @@
 [2016/03/04 18:00:41] <Tobbi> leper`: I guess we should wait for Mathnerd314, whenever he's available again to settle this.
 [2016/03/04 18:12:56] @ Quit: claymore2: Quit: Leaving
 [2016/03/04 18:43:04] @ Quit: tuxdev_: Ping timeout: 264 seconds
+[2016/03/04 20:30:53] @ tux|dude joined channel #supertux
+[2016/03/04 21:22:42] @ Quit: Anupkumar: Quit: Connection closed for inactivity
