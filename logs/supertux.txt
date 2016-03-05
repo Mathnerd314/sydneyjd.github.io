@@ -14644,3 +14644,18 @@
 [2016/03/05 05:19:22] <Ispy> [10supertux] 07tobbi commented on issue 09#372: Cave backgrounds cause poor fps 13https://git.io/v2bNh
 [2016/03/05 05:20:49] <Ispy> [10supertux] 07brmbrmcar commented on issue 09#372: Cave backgrounds cause poor fps 13https://git.io/v2bNh
 [2016/03/05 05:30:50] <Ispy> [10supertux] 07tobbi opened issue 09#373: Tux dies when jumping on top of gap between block and terrain 13https://git.io/v2bpc
+[2016/03/05 06:17:01] <Ispy> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/v2bjM
+[2016/03/05 06:17:04] <Ispy> [10supertux] 07tobbi 1488f798a Mark to_logical const
+[2016/03/05 06:30:48] <Ispy> [10supertux] Status for commit Mark to_logical const by 07Tobias Markus: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/113875495
+[2016/03/05 06:34:46] <Tobbi> What is this?
+[2016/03/05 06:35:25] <leper`> an error
+[2016/03/05 06:42:50] <Tobbi> leper`: *sigh*
+[2016/03/05 06:43:32] <Tobbi> It just failed to deploy.
+[2016/03/05 06:43:36] <Tobbi> That's not an error.
+[2016/03/05 06:44:01] <leper`> true
+[2016/03/05 06:50:54] <Ispy> [10supertux] Status for commit Mark to_logical const by 07Tobias Markus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/423
+[2016/03/05 06:52:00] <Tobbi> I assume that failed for the same reasons.
+[2016/03/05 06:56:14] <Tobbi> Cannot connect SFTP server: Channel was closed.
+[2016/03/05 06:56:18] <Tobbi> yup.
+[2016/03/05 07:17:16] @ farooghkz joined channel #supertux
+[2016/03/05 07:37:28] @ Quit: farooghkz: Quit: used jmIrc
