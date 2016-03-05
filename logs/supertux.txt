@@ -15618,3 +15618,141 @@
 [2016/03/05 13:51:01] <mt> credits for specific worlds as extro
 [2016/03/05 13:51:32] <Tobbi> Yeah, why not.
 [2016/03/05 13:56:55] <ToBeFree> was that Matrix question in any way related to the music statement? lol
+[2016/03/05 14:00:06] <Tobbi> ToBeFree: No, it was related to mt saying something going bye-bye.
+[2016/03/05 14:00:30] <Tobbi> ToBeFree: https://www.youtube.com/watch?v=0-JJuHpfN5g
+[2016/03/05 14:11:23] <ToBeFree> ah, I saw all three movies, but in German
+[2016/03/05 14:11:32] <ToBeFree> I don't remember that scene
+[2016/03/05 14:12:23] <Tobbi> ToBeFree: I saw them in both German and English :)
+[2016/03/05 14:12:30] <ToBeFree> ^^
+[2016/03/05 14:12:36] <Tobbi> I prefer movies in the original language...
+[2016/03/05 14:12:46] <Tobbi> As long as that is English.
+[2016/03/05 14:12:49] <ToBeFree> English + English subtitles is okay for me
+[2016/03/05 14:12:52] <ToBeFree> haha
+[2016/03/05 14:13:08] <ToBeFree> or German + English subtitles to see what the translation misses
+[2016/03/05 14:13:11] <Tobbi> ToBeFree: Are you a high school or college student?
+[2016/03/05 14:13:15] <ToBeFree> did that for Star Wars
+[2016/03/05 14:13:28] <ToBeFree> University... "College" I guess
+[2016/03/05 14:13:37] <Tobbi> Ah, alright.
+[2016/03/05 14:13:44] <Tobbi> ToBeFree: What are you studying?
+[2016/03/05 14:13:48] <ToBeFree> Electrical Engineering
+[2016/03/05 14:13:49] <ToBeFree> :)
+[2016/03/05 14:14:08] <Tobbi> Ah... Nice. Bachelor, I assume?
+[2016/03/05 14:14:24] <ToBeFree> yeah :D [did I mention anywhere being a student, by the way? heh]
+[2016/03/05 14:14:45] <Tobbi> You didn't.
+[2016/03/05 14:14:46] <Tobbi> :D
+[2016/03/05 14:14:49] <ToBeFree> pff =P
+[2016/03/05 14:14:59] <Tobbi> Ich habe hellseherische Fähigkeiten
+[2016/03/05 14:15:23] <ToBeFree> first semester nearly done, just an informatics exam left next friday
+[2016/03/05 14:16:15] <Tobbi> ToBeFree: I came across this: http://praktikum.freiwuppertal.de/uniwuppertal.htm thus deducing you're a student :)
+[2016/03/05 14:16:34] <ToBeFree> ah, you had a look at freiwuppertal.de :D
+[2016/03/05 14:16:38] <Tobbi> Yes :D
+[2016/03/05 14:16:49] <Tobbi> I am studying towards a masters degree in IT...
+[2016/03/05 14:16:50] <ToBeFree> yet praktikum.freiwuppertal.de was... when I was in class 8 at school. Or 9
+[2016/03/05 14:16:54] <Tobbi> hah :D
+[2016/03/05 14:17:11] <ToBeFree> oh :)
+[2016/03/05 14:17:22] <ToBeFree> so you had some electrical engineering too :D
+[2016/03/05 14:17:27] <Tobbi> Not at all...
+[2016/03/05 14:17:32] <Tobbi> We had physics and I failed physics.
+[2016/03/05 14:17:36] <ToBeFree> Before I started, I was sure Informatics and IT is the same
+[2016/03/05 14:17:42] <ToBeFree> now I know IT is Informatics + ET
+[2016/03/05 14:17:50] <ToBeFree> oh :/
+[2016/03/05 14:17:58] <Tobbi> okay, actually, it's Informatics.
+[2016/03/05 14:18:02] <ToBeFree> ah :D
+[2016/03/05 14:18:05] <Tobbi> I wasn't aware of the difference.
+[2016/03/05 14:18:14] <ToBeFree> see, I wasn't either xD
+[2016/03/05 14:18:24] <Tobbi> We also had maths and I almost failed that as well.
+[2016/03/05 14:18:31] <Tobbi> Well, no, I was confused...
+[2016/03/05 14:18:40] <Tobbi> Throughout writing the exam.
+[2016/03/05 14:18:41] <ToBeFree> Oh, I thought Informatics is ... very mathematical
+[2016/03/05 14:18:55] <Tobbi> Not at our college...You know the Akademikermangel...
+[2016/03/05 14:18:55] <Tobbi> :D
+[2016/03/05 14:18:56] <ToBeFree> a different kind of mathematics
+[2016/03/05 14:19:01] <ToBeFree> hmm
+[2016/03/05 14:19:04] <Tobbi> We had group theory...
+[2016/03/05 14:19:21] <Tobbi> And all school math, just explained way more complicated.
+[2016/03/05 14:19:46] <ToBeFree> which university is that? :/
+[2016/03/05 14:20:06] <ToBeFree> (I might have a wrong image of informatics though)
+[2016/03/05 14:20:28] <ToBeFree> I thought it's all algorithms and mathematics ;D
+[2016/03/05 14:20:34] <Tobbi> ToBeFree: Fachhochschule Flensburg
+[2016/03/05 14:20:39] <ToBeFree> ah :)
+[2016/03/05 14:20:47] <Tobbi> So, now you know where I am from.
+[2016/03/05 14:21:05] <ToBeFree> hehe, your country stores my clean driving record :]
+[2016/03/05 14:21:09] <ToBeFree> country---
+[2016/03/05 14:21:11] <ToBeFree> city. lol
+[2016/03/05 14:21:14] <Tobbi> :D
+[2016/03/05 14:21:24] <ToBeFree> was thinking about countys
+[2016/03/05 14:21:25] <Tobbi> Yeah, mine as well.
+[2016/03/05 14:21:39] <Tobbi> No accidents in 6 years almost.
+[2016/03/05 14:22:34] <Tobbi> Oh, even more than 6 years.
+[2016/03/05 14:22:46] <ToBeFree> I rarely drive :3
+[2016/03/05 14:23:01] <ToBeFree> the university is near enough for me to go by foot
+[2016/03/05 14:23:12] <ToBeFree> or take a bus when I am lazy
+[2016/03/05 14:23:48] <Tobbi> ToBeFree: Same here, I still take the car each time.
+[2016/03/05 14:23:58] <Tobbi> What is near for you?
+[2016/03/05 14:24:42] <ToBeFree> 15 minutes of walking
+[2016/03/05 14:24:56] <Tobbi> Okay, that is near...
+[2016/03/05 14:24:57] <Tobbi> :D
+[2016/03/05 14:24:57] <ToBeFree> or 7 minutes of walking plus 1 minute of bus driving
+[2016/03/05 14:24:58] <ToBeFree> :D
+[2016/03/05 14:25:10] <Tobbi> I'd have to walk for 45 minutes or so.
+[2016/03/05 14:25:19] <ToBeFree> oh, that's a difference
+[2016/03/05 14:25:51] <Tobbi> So, yeah, I normally take the car.
+[2016/03/05 14:25:55] <Tobbi> And be there in 8 minutes.
+[2016/03/05 14:36:11] <Ispy> [10flexlay] 07tobbi pushed 1 commit to 09smart_tiles 13https://git.io/v2NzT
+[2016/03/05 14:36:14] <Ispy> [10flexlay] 07tobbi 14b1daa6b Add reverse to all columns
+[2016/03/05 14:36:29] <Tobbi> There we go.
+[2016/03/05 14:37:24] <sydney_untangle> Tobbi: I'd have to walk all day to get to church and all day to get to back, when i can drive there in 20 mins. :D
+[2016/03/05 14:38:23] <Tobbi> sydney_untangle: nice.
+[2016/03/05 14:38:28] <mt> I think you meant "polluting the environment with a shitty, cheap american car"
+[2016/03/05 14:39:33] <Tobbi> weird.
+[2016/03/05 14:40:13] <Tobbi> I guess I have to revert that commit.
+[2016/03/05 14:41:43] <Tobbi> *sigh*
+[2016/03/05 14:41:45] <Ispy> [10flexlay] 07tobbi pushed 1 commit to 09smart_tiles 13https://git.io/v2Nzn
+[2016/03/05 14:41:48] <Ispy> [10flexlay] 07tobbi 143d6a197 Revert "Add reverse to all columns"
+[2016/03/05 14:42:32] <Tobbi> We should really create our own definition language. CSV is not a good choice.
+[2016/03/05 14:43:13] <mt> s-exp?
+[2016/03/05 14:43:18] <mt> json?
+[2016/03/05 14:43:19] <Tobbi> hmmm...
+[2016/03/05 14:43:38] <mt> xml?
+[2016/03/05 14:43:47] <Tobbi> Probably...? I am more concerned about the "how we store this notation-wise"?
+[2016/03/05 14:44:02] <Tobbi> mt: What I tried to explain to leyyin a few hours ago.
+[2016/03/05 14:44:13] <mt> I didn't really read that
+[2016/03/05 14:44:16] <Tobbi> We have rows of IDs that can repeat, we have columns of IDs that can repeat.
+[2016/03/05 14:44:27] @ claymore2 joined channel #supertux
+[2016/03/05 14:44:30] <Tobbi> And sometimes we have 2 rows of IDs that need to repeat.
+[2016/03/05 14:45:09] <Tobbi> For example: a tree has a certain set of tiles, a higher tree has repetitions in the tile IDs somewhere.
+[2016/03/05 14:45:20] <Tobbi> But sometimes tiles repeat horizontally as well as vertically.
+[2016/03/05 14:45:28] <Tobbi> And sometimes you need to repeat 2 rows instead of one.
+[2016/03/05 14:46:03] <Tobbi> or two columns instead of one.
+[2016/03/05 14:46:36] <Tobbi> mt: So, if you can come up with a good notation for that, feel free...
+[2016/03/05 14:47:39] <Tobbi> We could certainly define sub-tilesets.
+[2016/03/05 14:51:12] <ToBeFree> I had a look at "Shocking", but I think it needs a dark, yet fast melody and probably different instruments than my piano
+[2016/03/05 14:51:34] <ToBeFree> I had an idea, but I lack time to create it in MuseScore, I guess
+[2016/03/05 14:51:47] <ToBeFree> will show you a crappy phone recording
+[2016/03/05 14:51:55] <Tobbi> No prob.
+[2016/03/05 15:07:51] <ToBeCloud> wow, I have so many tabs open that I have to navigate through them using Ctrl+(Shift+)Tab
+[2016/03/05 15:08:20] <ToBeCloud> https://usercontent.irccloud-cdn.com/file/YHQNMonr/shocking-tobefree-supertux-idea.ogg
+[2016/03/05 15:09:12] <ToBeCloud> Luckily, my keyboard's recording storage was large enough and I could record it there, then connect the recording to Audacity
+[2016/03/05 15:09:36] <ToBeCloud> doesn't work for larger songs, and my keyboard disables audio output when "headphones" are connected
+[2016/03/05 15:09:59] <ToBeCloud> not sure if this fits into the Shocking atmosphere
+[2016/03/05 15:10:04] <ToBeCloud> it changes it completely, of course
+[2016/03/05 15:10:24] <ToBeCloud> I'll modify my git build to see
+[2016/03/05 15:12:23] <ToBeCloud> oh, haha, cave is non-looping already
+[2016/03/05 15:12:32] <ToBeCloud> I didn't even notice
+[2016/03/05 15:13:00] <ToBeCloud> (ah, the beginning of the file is the beginning of the loop. It does loop)
+[2016/03/05 15:13:39] <Tobbi> mt: ^^
+[2016/03/05 15:16:19] <mt> I'm not sure if that entirely-piano fits in shocking's atmosphere
+[2016/03/05 15:16:35] <mt> it also seems to be a bit too "happy"
+[2016/03/05 15:16:54] <mt> I mean
+[2016/03/05 15:17:08] <mt> there's this danger due to the electricity and the thunderstorm
+[2016/03/05 15:17:19] <mt> I can't hear that, in that concept
+[2016/03/05 15:17:24] <ToBeCloud> yeah
+[2016/03/05 15:17:44] <ToBeCloud> also, the level just managed to frustrate me in a way the song does not reflect :P
+[2016/03/05 15:29:02] <ToBeCloud> oops. It is possible to finish "knee-deep in the depth" without taking the key
+[2016/03/05 15:36:57] <Tobbi> ToBeCloud: I guess you can't.
+[2016/03/05 15:43:45] <ToBeCloud> Tobbi: yes it is possible because there's a goal behind the key
+[2016/03/05 15:43:59] <Tobbi> Ah, okay.
+[2016/03/05 15:44:03] <ToBeCloud> which is unneeded anyway, as the key ends the level
+[2016/03/05 15:44:22] <ToBeCloud> might be a bug, I'll open an issue if it hasn't been reported
+[2016/03/05 15:48:23] <Tobbi> ToBeCloud: Does it still work if you remove that, aka, does it still show an end sequence?
+[2016/03/05 15:59:26] @ tux|dude joined channel #supertux
