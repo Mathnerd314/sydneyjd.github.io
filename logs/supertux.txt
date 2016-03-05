@@ -14603,3 +14603,7 @@
 [2016/03/04 17:22:26] @ tuxdev_ joined channel #supertux
 [2016/03/04 17:33:39] <Ispy> [10supertux] Status for commit Merge pull request #365 from tobbi/langmenu_localized_name by 07Tobias Markus: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/113693939
 [2016/03/04 17:33:57] <Tobbi> OK.
+[2016/03/04 18:00:17] <leper`> Tobbi: dunno
+[2016/03/04 18:00:41] <Tobbi> leper`: I guess we should wait for Mathnerd314, whenever he's available again to settle this.
+[2016/03/04 18:12:56] @ Quit: claymore2: Quit: Leaving
+[2016/03/04 18:43:04] @ Quit: tuxdev_: Ping timeout: 264 seconds
