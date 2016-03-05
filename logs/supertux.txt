@@ -15084,3 +15084,537 @@
 [2016/03/05 11:49:54] <mt> a photo of you holding a poster saying 'Doesn't know anything about anything'
 [2016/03/05 11:50:33] <Tobbi> mt: Not yet, but good idea.
 [2016/03/05 11:59:37] <Tobbi> mt: Can I merge the PyQT5 branch? Or did you observe any other issues with it?
+[2016/03/05 12:00:06] <mt> I didn't test it any more
+[2016/03/05 12:00:29] <mt> Maybe you can ask Hume2 to update a few forest things with the pyqt5 version
+[2016/03/05 12:00:39] <Tobbi> Sure.
+[2016/03/05 12:00:50] <Tobbi> Yeah, that makes sense.
+[2016/03/05 12:09:36] <Ispy> [10supertux] 07tobbi commented on issue 09#334: Haywire bomb game crash  13https://git.io/v2Rgy
+[2016/03/05 12:16:59] <mt> Tobbi: did you already ask github to ban Savsish from the organization?
+[2016/03/05 12:17:05] <Tobbi> mt: I did.
+[2016/03/05 12:17:34] <mt> :)
+[2016/03/05 12:17:54] <mt> that guy is just :/
+[2016/03/05 12:18:02] <Tobbi> mt: I am not sure if he's deliberately being annoying or whether he has issues...
+[2016/03/05 12:18:18] <Tobbi> Maybe he doesn't understand that we don't need his advice.
+[2016/03/05 12:19:05] <mt> If that's not clear yet for him, after all the closed issues?
+[2016/03/05 12:19:21] <Tobbi> mt: I don't know.
+[2016/03/05 12:19:22] <mt> Like, even then, you'd realize you're being annoying
+[2016/03/05 12:19:41] <Tobbi> Even brmbrmcar realized that (big plus)
+[2016/03/05 12:19:43] <Tobbi> :D
+[2016/03/05 12:19:58] <mt> ~seen brmbrmcar
+[2016/03/05 12:19:58] <red_bot> mt: brmbrmcar was last seen 6 days, 4 hours, 51 minutes and 12 seconds ago, changing nick from brmbrmcar to brmbrmbot
+[2016/03/05 12:20:06] <mt> ~seen brmbrmbot
+[2016/03/05 12:20:06] <red_bot> mt: brmbrmbot was last seen 7 hours, 56 minutes and 28 seconds ago, joining #stk
+[2016/03/05 12:20:17] <mt> what a long time
+[2016/03/05 12:20:35] <Tobbi> mt: I don't think he joins here...
+[2016/03/05 12:21:24] <mt> 18:20:59 -i- brmbrmbot [brmbrmbot] (~brmbrmcar@unaffiliated/brmbrmcar/bot/brmbrmbot) in #stk: Ruby bot brmbrmbot
+[2016/03/05 12:21:27] <mt> 18:20:59 -i- [brmbrm*!*@*] End of local WHO list.
+[2016/03/05 12:21:33] <Tobbi> See.
+[2016/03/05 12:21:53] <mt> that's searching all channels I'm in on freenode
+[2016/03/05 12:29:10] <leyyin> run Forest, run!!
+[2016/03/05 12:32:49] <Tobbi> leyyin: What would be the best way to store something like the following in a data structure: I have tiles with IDs that fit together (aka, blocks of numbers), and some of these tiles can be repeated within these things.
+[2016/03/05 12:33:01] <Tobbi> I am not making any sense, I realize that now.
+[2016/03/05 12:33:33] <leyyin> map from id to tile
+[2016/03/05 12:33:43] <Tobbi> leyyin: We have that. What I mean is...argh, let me pastebin.
+[2016/03/05 12:34:03] <leyyin> and if you want to reuse in a map you just store the id of that tile at x, y
+[2016/03/05 12:34:20] <leyyin> you know what tile to use based on ID obviously
+[2016/03/05 12:34:33] <leyyin> you want a graph structure? :P
+[2016/03/05 12:35:03] <Tobbi> leyyin: I actually don't. Let's just assume I have a block of numbers.
+[2016/03/05 12:35:06] <Ispy> [10supertux] 07ToBeFree opened pull request 09#376: Add forest theme by Wansti and ToBeFree 13https://git.io/v2NWW
+[2016/03/05 12:35:07] <ToBeFree> done \o/
+[2016/03/05 12:35:16] <ToBeFree> found two typos, one by testing
+[2016/03/05 12:35:30] <ToBeFree> now I wonder which additional songs might be interesting for SuperTux
+[2016/03/05 12:35:47] <Tobbi> leyyin: This block of numbers for example are the tiles of the tree.
+[2016/03/05 12:35:47] <mt> We'd need new music for "Shocking"
+[2016/03/05 12:36:00] <Tobbi> leyyin: Some of these IDs can be repeated to create higher trees.
+[2016/03/05 12:36:03] * ToBeFree has a look at "Shocking". It's on the ice island, right?
+[2016/03/05 12:36:10] <Tobbi> ToBeFree: No, forest.
+[2016/03/05 12:36:14] <ToBeFree> oh!
+[2016/03/05 12:36:23] <ToBeFree> how could I forget any level from that beautiful thing
+[2016/03/05 12:36:28] <Tobbi> :D
+[2016/03/05 12:36:33] <mt> you need the [ci skip] in all commits
+[2016/03/05 12:36:45] <ToBeFree> oh noooo
+[2016/03/05 12:36:46] <Tobbi> mt: If ToBeFree finds the forest world beautiful, do we still want to revamp it? :D
+[2016/03/05 12:36:48] <mt> also https://github.com/SuperTux/supertux/blob/master/CONTRIBUTING.md
+[2016/03/05 12:36:51] <leyyin> Tobbi, it is kinda hard to visualize
+[2016/03/05 12:36:52] <mt> Tobbi: yes
+[2016/03/05 12:36:59] <Tobbi> leyyin: One moment.
+[2016/03/05 12:37:08] <ToBeFree> I loved it as child. Doesn't mean it can't be improved
+[2016/03/05 12:37:22] <ToBeFree> been quite a long time since I played it the last time
+[2016/03/05 12:37:22] <mt> "Please squash commits that belong together. If you forget initially, it's okay to force push to your own fork to fix it."
+[2016/03/05 12:37:31] <mt> "No merge commits inside pull requests. Use git-rebase to keep your branch up-to-date."
+[2016/03/05 12:37:33] <leper`> shouldn't that [ci skip] be replaced by some heuristic on the part of the ci software (if files ending in *.foo are the only change do not rebuild)?
+[2016/03/05 12:37:50] <leyyin> leper`, automation, yuck :P
+[2016/03/05 12:37:56] <leyyin> we are programmers after all
+[2016/03/05 12:37:59] <leyyin> wait a minute
+[2016/03/05 12:38:00] <leyyin> damn
+[2016/03/05 12:38:08] <mt> leper`: does travis support that?
+[2016/03/05 12:38:12] <leper`> dunno
+[2016/03/05 12:38:23] <ToBeFree> mt, these two quotes were directed at me, right?
+[2016/03/05 12:38:27] <mt> we'd probably be using it if they supported it
+[2016/03/05 12:38:29] <leper`> it should, but that is something else
+[2016/03/05 12:38:32] <mt> ToBeFree: yeah
+[2016/03/05 12:38:46] <ToBeFree> About the typo and the addition + deletion of the image, I guess
+[2016/03/05 12:38:47] <mt> ToBeFree: they're from https://github.com/SuperTux/supertux/blob/master/CONTRIBUTING.md#pull-requests :)
+[2016/03/05 12:39:09] <mt> in general, you could do this in one commit
+[2016/03/05 12:39:24] <ToBeFree> yeah, I have even seen that - yet I have no idea how to do it and probably overread it because of this :(
+[2016/03/05 12:39:24] <mt> it's not like the *.music file is important enough for a separate commit
+[2016/03/05 12:39:41] <ToBeFree> ah right, I know how I could do it
+[2016/03/05 12:39:43] <ToBeFree> lol
+[2016/03/05 12:39:50] <ToBeFree> I did use git on the command line a few times
+[2016/03/05 12:40:02] <ToBeFree> these have only been created using GitHub's web interface
+[2016/03/05 12:40:04] <mt> if you want, I'll fix up those manually
+[2016/03/05 12:40:22] <ToBeFree> only if that's really easy for you. Because what I'd do is doing the work again :D
+[2016/03/05 12:40:27] <ToBeFree> this time on the desktop
+[2016/03/05 12:40:41] <mt> then it's easier for me :)
+[2016/03/05 12:41:01] <ToBeFree> aaah, I know, I could copy the current patch-branch of my repository over a git-clone of the original SuperTux
+[2016/03/05 12:41:11] <ToBeFree> and then do a pull request, right?
+[2016/03/05 12:41:17] <mt> no, no
+[2016/03/05 12:41:21] <ToBeFree> :/
+[2016/03/05 12:41:26] <mt> you'd use git rebase --interactive
+[2016/03/05 12:41:40] <ToBeFree> I should probably learn this anyway. /me tries
+[2016/03/05 12:41:49] <mt> it allows you to modify history (e.g. order, merge multiple commits into one, delete commits)
+[2016/03/05 12:41:56] <ToBeFree> Oh!
+[2016/03/05 12:42:07] <Tobbi> leyyin: You have two tiles, one is https://github.com/SuperTux/supertux/blob/master/data/images/tiles/goal/goal1-1.png with an ID of 1, and https://github.com/SuperTux/supertux/blob/master/data/images/tiles/goal/goal2-1.png with an ID of 2. Now, to create a template for an exit pole, you'd do something like (1 | 2) in vertical order, of course.
+[2016/03/05 12:42:08] <mt> merge multiple commits into one = squash
+[2016/03/05 12:42:14] <leyyin> mt, tbh those requirements to rebase and no merge commits are kinda too much for a beginner
+[2016/03/05 12:42:33] <ToBeFree> I should remove the "build" folder from my current work folder, I assume
+[2016/03/05 12:42:52] <ToBeFree> oh, it's in the .gitignore
+[2016/03/05 12:42:56] <mt> leyyin: why does no one complain about the requirements for submitting a patch to linux/git itself then?
+[2016/03/05 12:43:14] <leyyin> you are comparing apples to oranges
+[2016/03/05 12:43:16] <leyyin> not the same thing
+[2016/03/05 12:43:17] <mt> leyyin: also, I'd have done this, but apparently ToBeFree wants to learn something
+[2016/03/05 12:43:21] <ToBeFree> \o/
+[2016/03/05 12:43:27] <mt> leyyin: why do people say that even
+[2016/03/05 12:43:39] <leyyin> you can't compare linux to supertux
+[2016/03/05 12:43:42] <mt> if I can't compare apples to oranges, to what should I compare them then?
+[2016/03/05 12:43:43] <ToBeFree> I have unstaged changes and might want to use "stash". Do I?
+[2016/03/05 12:43:45] <Tobbi> mt: I'd say that SuperTux as a project is more fun to beginners than Linux is.
+[2016/03/05 12:43:50] <leper`> leyyin: one has super and the other one not?
+[2016/03/05 12:44:04] <Tobbi> Beginners are more likely to start hacking on supertux than they are on Linux.
+[2016/03/05 12:44:04] * ToBeFree commits instead. Seems to be the thing to do here
+[2016/03/05 12:44:07] <leyyin> mt, red apples to green apples
+[2016/03/05 12:44:34] <mt> but what if I want to make a difference between apples and oranges?
+[2016/03/05 12:44:40] <leyyin> anyways, back to Tobbi
+[2016/03/05 12:44:43] <Tobbi> :D
+[2016/03/05 12:45:07] <mt> ToBeFree: the build directory should actually be in .gitignore (most likely)
+[2016/03/05 12:45:12] <Tobbi> leyyin: Let me illustrate something like this for the simple example...
+[2016/03/05 12:45:15] <leyyin> mt, that is a metaphore to underline that you are comparing two disjoint things
+[2016/03/05 12:45:24] <leper`> leyyin: food and food
+[2016/03/05 12:45:24] <ToBeFree> yeah, I just checked
+[2016/03/05 12:45:32] <leper`> of course you can compare that :P
+[2016/03/05 12:45:45] <leyyin> sigh, do not take anything literal
+[2016/03/05 12:45:48] <Tobbi> leyyin: http://pastebin.com/Sq5WGS2w So, this would be a template for a very small exit pole :P
+[2016/03/05 12:45:54] <mt> ToBeFree: usually, you'd use git diff about the unstaged changes
+[2016/03/05 12:46:08] <leper`> leyyin: that's quite hard to do
+[2016/03/05 12:46:13] <Tobbi> Tile with ID 2 over tile with id 1, with tiles of iD 0 (means: Nothing) surrounding it.
+[2016/03/05 12:46:44] <leyyin> ok, so what is your issue? :P
+[2016/03/05 12:47:04] <Tobbi> leyyin: So, you can create bigger poles by adding more tiles with ID 2 at the bottom.
+[2016/03/05 12:47:11] <Tobbi> I want to have resizable tile templates.
+[2016/03/05 12:47:15] <leyyin> ok, I was wrong, it is an idiom https://en.wikipedia.org/wiki/Apples_and_oranges
+[2016/03/05 12:47:18] <Tobbi> templates for resizable objects.
+[2016/03/05 12:47:25] <ToBeFree> ok, I knew what the change was. I changed it locally, built it, noticed it was good and changed it on the web interface too. Now I've done "git add *" and "git commit" with the same commit message
+[2016/03/05 12:47:27] <Tobbi> I am not making myself clear here :D
+[2016/03/05 12:47:37] <ToBeFree> trying the rebase command now
+[2016/03/05 12:48:08] <leyyin> Tobbi, just add more 2?
+[2016/03/05 12:48:12] <leyyin> and 1
+[2016/03/05 12:48:22] <Ispy> [10supertux] Status for commit Fix typo found by testing! ^.^ by 07Tobias Frei: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/113920063
+[2016/03/05 12:48:24] <leyyin> I am not sure I even understand the problem :D
+[2016/03/05 12:48:26] <mt> ToBeFree: a simple rebase just rebases (replays) the commits on top of another branch
+[2016/03/05 12:48:43] <ToBeFree> rebase --interactive
+[2016/03/05 12:48:43] <Tobbi> leyyin: I know, but I want the user to make the pole bigger and smaller from the editor, thus I need to mark what tiles can be repeated in x and y direction.
+[2016/03/05 12:48:49] <Tobbi> I wonder how to best do that.
+[2016/03/05 12:48:52] <ToBeFree> sadly that lists only the local change I did
+[2016/03/05 12:48:59] <mt> to modify history, you need to use `git rebase -i HEAD~<number of commits to go backwards>`
+[2016/03/05 12:49:06] <ToBeFree> ah
+[2016/03/05 12:49:08] <mt> or --interactive instead of -i
+[2016/03/05 12:49:11] <mt> whatever
+[2016/03/05 12:49:36] <mt> e.g. if you want to modify commits in the range of the last 10 commits, you'd `git rebase -i HEAD~10`
+[2016/03/05 12:49:51] <Tobbi> leyyin: This is our template definition: https://github.com/SuperTux/flexlay/blob/smart_tiles/data/supertux/smarttiles.csv (smart tile id, name, horizontal tiles, vertical tiles, start ID).
+[2016/03/05 12:50:09] <Tobbi> But there's no way to mark what should be repeating and what shouldn't.
+[2016/03/05 12:50:17] <Tobbi> I am really thinking of a good data structure here.
+[2016/03/05 12:50:39] <ToBeFree> added "s" in front of every line except the first. Didn't work. Retrying *after* the lines
+[2016/03/05 12:51:02] <ToBeFree> oh. :D I have to remove "pick" from the others
+[2016/03/05 12:51:28] <leyyin> Tobbi, I do not get it, so you map is a matrix of numbers, just put at x, y object with ID?
+[2016/03/05 12:51:39] <leyyin> if you want to make it bigger
+[2016/03/05 12:51:41] <leyyin> or smaller
+[2016/03/05 12:51:50] <leyyin> scale on the matrix
+[2016/03/05 12:52:11] <Tobbi> leyyin: I give up. My issue is too hard to explain.
+[2016/03/05 12:52:30] <Tobbi> mt: Do you know what I want to achieve?
+[2016/03/05 12:53:01] <Ispy> [10supertux] 07ToBeFree synchronized pull request 09#376: Add forest theme by Wansti and ToBeFree 13https://git.io/v2NWW
+[2016/03/05 12:53:21] <ToBeFree> yikes
+[2016/03/05 12:53:36] <ToBeFree> :(
+[2016/03/05 12:53:38] <Tobbi> Wow, 10 commits, and they don't even contain the music file.
+[2016/03/05 12:53:40] <Tobbi> :D
+[2016/03/05 12:53:43] <ToBeFree> fuuuuck :D
+[2016/03/05 12:53:48] <leyyin> beginners and git
+[2016/03/05 12:53:59] <ToBeFree> I did git pull and push, I believe that broke my efforts
+[2016/03/05 12:54:08] <leyyin> do not sweat it, ToBeFree, it happened to all of us
+[2016/03/05 12:54:08] @ Quit: tuxdev_: Ping timeout: 260 seconds
+[2016/03/05 12:54:11] <ToBeFree> :D
+[2016/03/05 12:55:08] <Tobbi> leyyin: So, assuming that I have a horizontal pole that is composed of the IDs "1 2 3". To make it larger, I could have the IDs "1 2 2 3". So, as a template I could have "1 2* 3" to show that tile 2 can be repeated.
+[2016/03/05 12:55:12] <leyyin> Tobbi, why can't you place the same id on the left or right?
+[2016/03/05 12:55:26] <leyyin> ah right template
+[2016/03/05 12:55:35] <Tobbi> leyyin: Every ID means a 16x16 square. The graphics likely won't fit.
+[2016/03/05 12:55:58] <Tobbi> leyyin: But I really want to have a way to mark tile regions (aka, rows or columns) resizable.
+[2016/03/05 12:56:04] <Tobbi> or should I say repeatable.
+[2016/03/05 12:56:04] <leyyin> why do you need a special data structure?
+[2016/03/05 12:56:16] <Tobbi> leyyin: Not data structure. I am just not sure how to save this as a file format.
+[2016/03/05 12:56:17] <leyyin> you have the map
+[2016/03/05 12:56:25] <leyyin> and template
+[2016/03/05 12:56:25] <Tobbi> The map is built into SuperTux.
+[2016/03/05 12:56:34] <Tobbi> leyyin: I am wondering about the template format for that.
+[2016/03/05 12:56:48] <leyyin> so you are asking us how to write 2* in the template? :D
+[2016/03/05 12:57:15] <Tobbi> leyyin: Somewhat...Writing 2* works but only if it's a 1x2 template.
+[2016/03/05 12:57:31] <leyyin> *2* :D
+[2016/03/05 12:57:41] <leyyin> first * is horizontal
+[2016/03/05 12:57:47] <leyyin> second * is vertical
+[2016/03/05 12:57:55] <Tobbi> haha.
+[2016/03/05 12:57:57] <Tobbi> Wait a second.
+[2016/03/05 12:58:15] <leyyin>  do you want arbitrary numbers for scaling?
+[2016/03/05 12:58:18] <Tobbi> That could actually work...
+[2016/03/05 12:58:25] <leyyin> like tile 10 can scale vertical at most 5 times?
+[2016/03/05 12:58:29] <Tobbi> not for what I currently have, but that's beside the point.
+[2016/03/05 12:58:40] <Tobbi> leyyin: We don't have maximums for that.
+[2016/03/05 12:59:06] <Tobbi> leyyin: Problem is: Sometimes, it's not 1 tile but a group of tiles that can repeat.
+[2016/03/05 12:59:10] <leyyin> what does stop anyone currently to scale any tile infinitely?
+[2016/03/05 12:59:29] <Tobbi> leyyin: Nothing, except sometimes repeating only 1 tile can look horrible.
+[2016/03/05 12:59:39] <leyyin> right, so a group
+[2016/03/05 12:59:54] <leyyin> mark the group repeatable, somehow in the template
+[2016/03/05 13:00:20] <leyyin> why are u even asking me this :P, I do not know the codebase
+[2016/03/05 13:00:27] <leper`> because of that
+[2016/03/05 13:00:27] <leyyin> I am just a random guy on the internet
+[2016/03/05 13:00:28] <Tobbi> leyyin: My current format is https://raw.githubusercontent.com/SuperTux/flexlay/smart_tiles/data/supertux/smarttiles.csv
+[2016/03/05 13:00:37] <Tobbi> leyyin: You know everything :P
+[2016/03/05 13:01:01] <leyyin> leper`, u need advice for 0 AD? :P
+[2016/03/05 13:01:06] <leyyin> 10$/hour
+[2016/03/05 13:01:19] <Tobbi> So, it's template ID, description, width of template, height of template and start ID.
+[2016/03/05 13:01:27] <leyyin> already told me this :D
+[2016/03/05 13:01:30] <Tobbi> oh, right.
+[2016/03/05 13:01:30] <Tobbi> Sorry.
+[2016/03/05 13:01:45] <leper`> leyyin: Do you do enforcement too?
+[2016/03/05 13:01:50] <leyyin> We can make this file beautiful and searchable if this error is corrected: It looks like row 2 should actually have 5 columns, instead of 6.
+[2016/03/05 13:01:56] <Tobbi> leyyin: shut up.
+[2016/03/05 13:01:59] <leyyin> https://github.com/SuperTux/flexlay/blob/smart_tiles/data/supertux/smarttiles.csv
+[2016/03/05 13:02:09] <Tobbi> I am a minimalist. Adding False to each row just limits my productivity.
+[2016/03/05 13:02:36] <leyyin> leper`, depends on your definition of enforcement
+[2016/03/05 13:02:45] <leper`> well you are a vampire, right?
+[2016/03/05 13:02:50] <leyyin> yup
+[2016/03/05 13:02:55] <Tobbi> Everyone is where he's from.
+[2016/03/05 13:03:10] <ToBeFree> Sorry to interrupt you again :D
+[2016/03/05 13:03:16] <leper`> can you suck out enough blood to cause near death experiences while still keeping them alive?
+[2016/03/05 13:03:23] <mt> ToBeFree: yes?
+[2016/03/05 13:03:40] <leyyin> yes
+[2016/03/05 13:03:43] <ToBeFree> tobefree@tbf-linux:/tmp/newtry/supertux$ git rebase --interactive HEAD~2
+[2016/03/05 13:03:43] <ToBeFree> error: Could not apply 1c238f2... (Create forest_theme.music)
+[2016/03/05 13:03:43] <ToBeFree> 
+[2016/03/05 13:03:57] <leyyin> leper`, vampire addicts love it
+[2016/03/05 13:04:06] <mt> ToBeFree: I'd just delete all the commits that haven't been fetched from the remote
+[2016/03/05 13:04:19] <leyyin> Tobbi, add another column to the csv, x repeatable, y repeatable, and mark true or false?
+[2016/03/05 13:04:30] <mt> i.e. just leave the commit you squashed
+[2016/03/05 13:04:33] <ToBeFree> I'll pastebin the content of the interactive file- ah - well, in this folder, *all* commits have been remotely fetched
+[2016/03/05 13:04:36] <mt> and remove all others
+[2016/03/05 13:04:44] <Tobbi> leyyin: No, how would I know what subsets of the actual tiles is repeatable.
+[2016/03/05 13:04:45] <leper`> leyyin: In that case I could offer you that blood in exchange for me not visiting you with garlic
+[2016/03/05 13:04:54] <leyyin> Tobbi, ALL OF IT :D
+[2016/03/05 13:04:59] <Tobbi> leyyin: grr
+[2016/03/05 13:05:07] <ToBeFree> I just cloned the current patch-1 branch from my fork from GitHub
+[2016/03/05 13:05:13] <ToBeFree> which contains the weird 10 commits
+[2016/03/05 13:05:14] <leyyin> MAKING TEMPLATES GREAT AGAIN
+[2016/03/05 13:05:35] <mt> ToBeFree: this is the commit you created by squashing: https://github.com/ToBeFree/supertux/commit/f35b1cd6a8bf284682adaecac9faad9ddd3a333a, right?
+[2016/03/05 13:06:04] <Ispy> [10supertux] Status for commit Merge branch 'ToBeFree-patch-1' of https://github.com/ToBeFree/supertux into ToBeFree-patch-1 by 07Tobias Frei: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/113922890
+[2016/03/05 13:06:06] <ToBeFree> oh cool, yes
+[2016/03/05 13:06:10] <mt> right
+[2016/03/05 13:06:17] <leyyin> another Tobias
+[2016/03/05 13:06:19] <mt> now `git rebase -i HEAD~11` or w/e
+[2016/03/05 13:06:26] <ToBeFree> ELEVEN? :D
+[2016/03/05 13:06:30] <ToBeFree> one moment
+[2016/03/05 13:06:36] <leper`> yes, that's one more than 10
+[2016/03/05 13:06:49] <mt> yeah, I always use more commits than I want to edit
+[2016/03/05 13:06:52] <leyyin> leper`, 11 is one more than 10? :O
+[2016/03/05 13:06:54] <ToBeFree> the problem is
+[2016/03/05 13:07:01] <leper`> leyyin: You clearly never sold amplifiers
+[2016/03/05 13:07:10] <leyyin> what, rofl
+[2016/03/05 13:07:23] <mt> if you pick and don't change the order, a commit won't be affected
+[2016/03/05 13:07:24] <leper`> go watch Spinal Tap now
+[2016/03/05 13:07:33] <ToBeFree> http://paste.debian.net/hidden/5bb8b5db/
+[2016/03/05 13:07:38] <ToBeFree> these are HEAD~11
+[2016/03/05 13:07:54] <ToBeFree> I see all of mine and none else if I use HEAD~2
+[2016/03/05 13:08:06] <ToBeFree> did that, replaced all the "picks" except the first one by "s"
+[2016/03/05 13:08:11] <ToBeFree> now I get the error message
+[2016/03/05 13:08:17] <mt> oh might be due to the merge commit
+[2016/03/05 13:08:20] <mt> well
+[2016/03/05 13:08:34] <mt> leave all those commits you didn't make with pick and at their place in history
+[2016/03/05 13:08:35] <leyyin> Tobbi, can't green pipe (vertical) only scale vertically?
+[2016/03/05 13:08:41] <mt> also, leave pick f35b1cd Add forest theme by Wansti and ToBeFre where it is
+[2016/03/05 13:08:51] <Tobbi> leyyin: That is true. But there are other things which can scale on both axis.
+[2016/03/05 13:08:52] <mt> the lines below that should be save to remove
+[2016/03/05 13:08:57] <ToBeFree> ah, ok
+[2016/03/05 13:09:03] <Tobbi> Or should I say: Parts of some templates can scale on both axis.
+[2016/03/05 13:09:19] <Tobbi> *axes
+[2016/03/05 13:09:24] <leyyin> Tobbi, an example?
+[2016/03/05 13:09:25] <mt> ToBeFree: then, force push to the same branch
+[2016/03/05 13:09:34] <mt> without a git pull before
+[2016/03/05 13:09:35] @ Quit: farooghkz: Quit: Leaving
+[2016/03/05 13:09:45] <Tobbi> one moment.
+[2016/03/05 13:10:08] <mt> the great thing about git is
+[2016/03/05 13:10:13] <ToBeFree> the last cherry-pick is now empty, perhaps because of a conflict resolution. Should I use git commit --empty?
+[2016/03/05 13:10:17] <mt> once you know it, it won't happen again
+[2016/03/05 13:10:21] <Tobbi> leyyin: https://github.com/SuperTux/supertux/blob/master/data/images/tiles/forest/hole.png
+[2016/03/05 13:10:33] <mt> ToBeFree: which commit is that?
+[2016/03/05 13:10:34] <ToBeFree> haha, yes, probably
+[2016/03/05 13:10:36] <Tobbi> leyyin: You can make it wider as well as higher.
+[2016/03/05 13:10:44] <leyyin> where is that in the template?
+[2016/03/05 13:10:56] <Tobbi> leyyin: There is no template for it yet.
+[2016/03/05 13:11:02] <Tobbi> But I intend to add one eventually.
+[2016/03/05 13:11:08] <Tobbi> Maybe my template format just sucks.
+[2016/03/05 13:11:15] <leyyin> I see that templates are just the same item multiple times
+[2016/03/05 13:11:32] <leyyin> wait, is "0, Green pipe (vertical),2,2,57" a template, right?
+[2016/03/05 13:11:33] <ToBeFree> mt, it's the - oh - http://paste.debian.net/hidden/ae5b43d0/   sorry for German
+[2016/03/05 13:11:46] <Tobbi> leyyin: Yes, but as I said, my template format sucks. I was looking for a better one.
+[2016/03/05 13:11:51] <ToBeFree> I can try translating it, but I assume that you know git well enough to see what is happening
+[2016/03/05 13:11:55] <Tobbi> I probably might end up listing each ID seperately.
+[2016/03/05 13:12:17] <mt> ToBeFree: that commit shouldn't be in the list of commits to apply anyway
+[2016/03/05 13:12:35] <mt> you want `pick f35b1cd Add forest theme by Wansti and ToBeFree`
+[2016/03/05 13:12:42] <mt> and not `pick ea818a8 Add forest theme by Wansti and ToBeFree`
+[2016/03/05 13:12:43] <Ispy> [10supertux] Status for commit Fix typo found by testing! ^.^ by 07Tobias Frei: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/425
+[2016/03/05 13:12:47] <mt> they're different commits
+[2016/03/05 13:12:48] <ToBeFree> aaaaah
+[2016/03/05 13:12:50] <leyyin> Tobbi, why do you use csv anyways?
+[2016/03/05 13:12:57] <leyyin> json anyone :P
+[2016/03/05 13:13:03] <ToBeFree> I was sure I had chosen the one you mentioned
+[2016/03/05 13:13:09] <mt> (also, a lot people here speak German ;)
+[2016/03/05 13:13:15] <Tobbi> leyyin: Does Python have a JSON parser built in? We used csv for other things. So I thought I might not break anything.
+[2016/03/05 13:13:17] <mt> s/a lot/many/
+[2016/03/05 13:13:17] <red_bot> mt meant: "(also, many people here speak German ;)"
+[2016/03/05 13:13:20] <leyyin> Tobbi, yes
+[2016/03/05 13:13:40] <Tobbi> leyyin: I might look into it. I could actually just specify which rows / columns can be repeated (by index)
+[2016/03/05 13:13:46] <leyyin> https://docs.python.org/3/library/json.html
+[2016/03/05 13:13:55] <leyyin> I hope you use python 3 :P
+[2016/03/05 13:14:05] <Tobbi> leyyin: I believe so.
+[2016/03/05 13:14:10] <Tobbi> We even just updated to PyQT5
+[2016/03/05 13:14:15] <leyyin> great!
+[2016/03/05 13:14:21] <mt> I'd have trashed flexlay to /dev/null if it wouldn't use python 3
+[2016/03/05 13:14:27] <Tobbi> :D
+[2016/03/05 13:14:33] <mt> btw
+[2016/03/05 13:14:35] <leyyin> good mt good :D
+[2016/03/05 13:14:40] <mt> `from __future__ import braces`
+[2016/03/05 13:14:44] <leyyin> arghh
+[2016/03/05 13:14:53] <leyyin> that is what makes pythons nice
+[2016/03/05 13:14:54] <leyyin> no braces
+[2016/03/05 13:14:57] <Tobbi> I don't know anything about python, but the syntax.
+[2016/03/05 13:15:01] <mt> have you tried it, leyyin :D
+[2016/03/05 13:15:14] <ToBeFree> Oh, haha, mt, I changed the "pick" to "r" for "remove", which it isn't. I just need to delete the lines. And I did read the interactive help... It just didn't appear on my screen because of the large commit list and I didn't check it again
+[2016/03/05 13:15:25] <Tobbi> >D
+[2016/03/05 13:15:26] <Tobbi> :D
+[2016/03/05 13:15:33] <Tobbi> I tried to do the same thing with d
+[2016/03/05 13:15:46] <ToBeFree> Tobbi, at least you got an error message for using d =P
+[2016/03/05 13:15:52] <Tobbi> I probably did.
+[2016/03/05 13:16:01] <ToBeFree> wow, that worked
+[2016/03/05 13:16:04] <mt> well, I think you've learned enough git when you're done
+[2016/03/05 13:16:13] <ToBeFree> :D
+[2016/03/05 13:16:16] <leyyin> enough git for today
+[2016/03/05 13:16:18] <leyyin> grab a drink
+[2016/03/05 13:16:21] <leyyin> you deserved it
+[2016/03/05 13:16:24] <Tobbi> :D
+[2016/03/05 13:16:32] <Tobbi> There's no such thing as enough git.
+[2016/03/05 13:16:42] <mt> I recently discovered git's octopus merges: https://github.com/maxteufel/test/commit/ee9161b2f66229271f629a5c43f4fafa861f8fb9 :D (really nice feature, if you need it)
+[2016/03/05 13:17:11] <leyyin> something I hope I will never encounter :P
+[2016/03/05 13:17:26] <Tobbi> I deny the existence of that.
+[2016/03/05 13:17:36] <leyyin> 4 parents b21bec2 + 8025404 + 2c1374a + 6d73ad3
+[2016/03/05 13:17:41] <mt> leyyin: anyway, from __future__ import braces raises SyntaxError: not a chance
+[2016/03/05 13:17:41] <leyyin> damn, what a beach :P
+[2016/03/05 13:17:59] <Tobbi> a beach_
+[2016/03/05 13:17:59] <Tobbi> ?
+[2016/03/05 13:18:06] <leyyin> you will get it, one day
+[2016/03/05 13:18:07] <Tobbi> I'd love to be on a beach right now.
+[2016/03/05 13:18:10] <leyyin> one day Tobbi
+[2016/03/05 13:18:32] <ToBeFree> mt, "forcing" the push avoids this one? " ! [rejected]        ToBeFree-patch-1 -> ToBeFree-patch-1 (non-fast-forward)"
+[2016/03/05 13:18:35] <Tobbi> leyyin: *sigh*
+[2016/03/05 13:18:37] <mt> leyyin: that's nothing compared to commits with more than 60 parents in the linux repo
+[2016/03/05 13:18:43] <Tobbi> ToBeFree: You will need to force push yes.
+[2016/03/05 13:18:44] <mt> ToBeFree: `git push -f`
+[2016/03/05 13:18:47] <ToBeFree> ok
+[2016/03/05 13:18:54] <mt> so yeah, that's a force push then
+[2016/03/05 13:19:06] <Tobbi> mt: Are you, by any chance, a git masochist?
+[2016/03/05 13:19:19] <Tobbi> Even Linus Torvalds would rather fry a penguin than doing that.
+[2016/03/05 13:19:19] <ToBeFree> I would have tried, but I was afraid of breaking it again :D
+[2016/03/05 13:19:44] <leyyin> use the force ToBeFree
+[2016/03/05 13:19:59] <mt> Tobbi: I don't even have committed to linux once, how should I have created a commit with 60 parents there
+[2016/03/05 13:20:06] <Tobbi> :D
+[2016/03/05 13:20:14] <ToBeFree> Remember, with great power comes great current squared times resistance
+[2016/03/05 13:20:18] <leyyin> 3 parents :D https://github.com/torvalds/linux/commit/bfc6b97d528def357adcbdadf71b21c8e5f7dbc4
+[2016/03/05 13:20:18] <Tobbi> One does not simply git into supertux.
+[2016/03/05 13:20:35] <ToBeFree> lol
+[2016/03/05 13:20:52] <Tobbi> OKay, stop.
+[2016/03/05 13:20:58] <Tobbi> For our own collective safety.
+[2016/03/05 13:20:58] <Tobbi> Stop.
+[2016/03/05 13:21:08] <leyyin> or what Tobbi, or what?
+[2016/03/05 13:21:15] <Tobbi> leyyin: You know what.
+[2016/03/05 13:21:24] <leyyin> you are bluffing
+[2016/03/05 13:21:25] <Ispy> [10supertux] 07ToBeFree synchronized pull request 09#376: Add forest theme by Wansti and ToBeFree 13https://git.io/v2NWW
+[2016/03/05 13:21:37] <Tobbi> Wow only 9 commits.
+[2016/03/05 13:21:41] <Tobbi> ToBeFree: Rebase.
+[2016/03/05 13:21:53] <Tobbi> ToBeFree: git pull --rebase origin
+[2016/03/05 13:21:57] <Tobbi> git push -f
+[2016/03/05 13:22:05] <Tobbi> uh, actually...
+[2016/03/05 13:22:06] <Tobbi> WAIT
+[2016/03/05 13:22:15] <leyyin> standing by....
+[2016/03/05 13:22:23] <Tobbi> not you, leyyin.
+[2016/03/05 13:22:26] <ToBeFree> is [already?] the latest version
+[2016/03/05 13:22:28] <leyyin> ABORT
+[2016/03/05 13:22:48] <ToBeFree> ehh?
+[2016/03/05 13:22:57] <mt> can I just fix it up myself?
+[2016/03/05 13:22:57] <Tobbi> ToBeFree: Can you do git reset --hard origin/master ?
+[2016/03/05 13:23:03] <mt> NO!
+[2016/03/05 13:23:03] <ToBeFree> I only executed git pull --rebase origin
+[2016/03/05 13:23:05] <mt> NO
+[2016/03/05 13:23:08] <ToBeFree> lol what
+[2016/03/05 13:23:09] <Tobbi> mt: Yes, we can cherry-pick.
+[2016/03/05 13:23:34] <ToBeFree> mt, of course you can. I seem to fail :D Yet I'd continue trying
+[2016/03/05 13:23:51] <ToBeFree> the NO is about the git reset command, right? Didn't run
+[2016/03/05 13:24:01] <Tobbi> mt: If he reset to master, then git cherry-pick ee72926, this should work.
+[2016/03/05 13:24:10] <Tobbi> mt: Am I right or am I right?
+[2016/03/05 13:24:24] <Tobbi> Then force-push and we're good to go.
+[2016/03/05 13:24:41] <Tobbi> leyyin: Say something in my favour.
+[2016/03/05 13:24:44] <mt> but then ee72926 would disappear
+[2016/03/05 13:24:55] <Tobbi> mt: It is still in the cache of git.
+[2016/03/05 13:24:59] <Tobbi> Git keeps those things.
+[2016/03/05 13:25:00] <mt> leyyin, Tobbi: https://github.com/torvalds/linux/commit/2cde51fbd0f310c8a2c5f977e665c0ac3945b46d
+[2016/03/05 13:25:05] <mt> 66 parents
+[2016/03/05 13:25:09] <leper`> if you don't run git gc nothing disappears
+[2016/03/05 13:25:18] <mt> well
+[2016/03/05 13:25:22] <mt> then reset to master
+[2016/03/05 13:25:23] <ToBeFree> the hell--
+[2016/03/05 13:25:23] <Tobbi> see!
+[2016/03/05 13:25:23] <ToBeFree> :D
+[2016/03/05 13:25:24] <mt> yeah
+[2016/03/05 13:25:37] <Tobbi> ToBeFree: git reset --hard origin/master
+[2016/03/05 13:25:52] <ToBeFree> ...ok... you could as well tell me to rm -rf :D
+[2016/03/05 13:25:58] <leyyin> mt, holy cow
+[2016/03/05 13:25:59] <mt> (source of the 66 parents commit, `git rev-list --parents --min-parents=60 master`)
+[2016/03/05 13:26:10] <mt> (in my linux clone)
+[2016/03/05 13:26:15] <Tobbi> ToBeFree: After that, do git cherry-pick ee72926
+[2016/03/05 13:26:20] <ToBeFree> There... is a problem...
+[2016/03/05 13:26:25] <ToBeFree> I did the first changes to master itself
+[2016/03/05 13:26:26] <Tobbi> What?
+[2016/03/05 13:26:35] <ToBeFree> then created the branch off it
+[2016/03/05 13:26:40] <ToBeFree> and made more changes to the branch
+[2016/03/05 13:26:42] <mt> origin/master should be our main repo's master branch
+[2016/03/05 13:26:46] <Tobbi> yes.
+[2016/03/05 13:26:48] <ToBeFree> ah ok
+[2016/03/05 13:26:58] <mt> by what github recommends, upstream/master
+[2016/03/05 13:27:13] <ToBeFree> ("HEAD is now add 263c44a Add tobefree.jpg (own work)"
+[2016/03/05 13:27:15] <ToBeFree> that's okay?
+[2016/03/05 13:27:17] <mt> no
+[2016/03/05 13:27:21] <Tobbi> Ah. origin is your fork.
+[2016/03/05 13:27:34] <mt> `git remote add upstream https://github.com/supertux/supertux.git`
+[2016/03/05 13:27:38] <mt> `git fetch --all`
+[2016/03/05 13:27:40] <ToBeFree> ah ok
+[2016/03/05 13:27:45] <mt> `git reset --hard upstream/master`
+[2016/03/05 13:27:46] <Tobbi> mt beat me to it.
+[2016/03/05 13:27:50] <leyyin> later
+[2016/03/05 13:27:56] <mt> `git cherry-pick ee72926`
+[2016/03/05 13:27:59] <Tobbi> see you later, leyyin.
+[2016/03/05 13:28:04] <ToBeFree> cu :)
+[2016/03/05 13:28:12] <leyyin> adevărat
+[2016/03/05 13:28:20] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/03/05 13:28:30] <ToBeFree> HEAD is finally at 88f798a Mark to_logical const
+[2016/03/05 13:28:34] <Tobbi> Good!
+[2016/03/05 13:28:39] <ToBeFree> now cherry-pick?
+[2016/03/05 13:28:42] <Tobbi> Exactly.
+[2016/03/05 13:29:29] <ToBeFree> you're sure that ee72926 is the way to go, not f35b1cd? Because the latter is what I was supposed to keep at "pick" before
+[2016/03/05 13:29:48] <Tobbi> ToBeFree: You want this commit right? https://github.com/ToBeFree/supertux/commit/ee729268dcf647c71c7d28f1e076a431fecc7d4e
+[2016/03/05 13:29:51] <mt> you can try f35.. as well
+[2016/03/05 13:30:08] <mt> Tobbi: they should be the same diff, but different dates, and parents
+[2016/03/05 13:30:12] <ToBeFree> ok, right, should be the same
+[2016/03/05 13:30:15] <Tobbi> They are the same: https://github.com/ToBeFree/supertux/commit/f35b1cd
+[2016/03/05 13:30:18] <mt> as such the commit id is different
+[2016/03/05 13:30:42] <ToBeFree> I think it worked :D Now I've got to commit and push?
+[2016/03/05 13:30:50] <ToBeFree> (force push?)
+[2016/03/05 13:30:52] <Tobbi> ToBeFree: yes, force-push.
+[2016/03/05 13:30:53] <mt> cherry-pick should commit automatically
+[2016/03/05 13:30:56] <mt> then force-push
+[2016/03/05 13:30:57] <Tobbi> Oh, yes.
+[2016/03/05 13:30:58] <Tobbi> :D
+[2016/03/05 13:31:26] <ToBeFree> I really have to use SSH keys. Password auth becomes boring with a random one I have to copy all the time
+[2016/03/05 13:31:49] <Tobbi> :D
+[2016/03/05 13:32:18] <Ispy> [10supertux] 07ToBeFree synchronized pull request 09#376: Add forest theme by Wansti and ToBeFree 13https://git.io/v2NWW
+[2016/03/05 13:32:28] <Tobbi> Yes.
+[2016/03/05 13:32:30] <Tobbi> That worked!
+[2016/03/05 13:32:31] <ToBeFree> holy- it seems to have worked
+[2016/03/05 13:32:44] <ToBeFree> I forgot the [ci ignore] thing
+[2016/03/05 13:32:56] <Tobbi> Doesn't matter.
+[2016/03/05 13:33:00] <ToBeFree> skip*
+[2016/03/05 13:33:01] <ToBeFree> ok^^
+[2016/03/05 13:33:03] <Tobbi> Unless...
+[2016/03/05 13:33:15] <Tobbi> ToBeFree: Can you git commit --amend, then add that.
+[2016/03/05 13:33:17] <mt> I'm gonna abort all pending travis builds now
+[2016/03/05 13:33:17] <ToBeFree> Unless I broke the build
+[2016/03/05 13:33:25] <ToBeFree> ok
+[2016/03/05 13:33:35] <Tobbi> ToBeFree: You know how to use that vim editor thingy, right?
+[2016/03/05 13:33:36] <mt> oh I'll leave it
+[2016/03/05 13:33:41] <mt> there's just two still running
+[2016/03/05 13:33:43] <ToBeFree> it uses nano <3
+[2016/03/05 13:33:45] * ToBeFree ducks
+[2016/03/05 13:33:51] <mt> neovim <3
+[2016/03/05 13:34:05] <Tobbi> I don't know anything about either of those.
+[2016/03/05 13:34:33] <mt> neovim is vim but with sane defaults and without backwards compatibility for C89
+[2016/03/05 13:34:39] <ToBeFree> -.-
+[2016/03/05 13:34:44] <Ispy> [10supertux] Status for commit Add forest theme by Wansti and ToBeFree by 07Tobias Frei: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/113926480
+[2016/03/05 13:34:46] <ToBeFree> force push again, right? Push didn'- huh
+[2016/03/05 13:34:55] <ToBeFree> ah, that was not caused by me
+[2016/03/05 13:35:08] <mt> Tobbi: read the code in http://geoff.greer.fm/vim/, then you'll know why I don't like vim
+[2016/03/05 13:35:15] <Tobbi> ToBeFree: Yes, you need to force-push again.
+[2016/03/05 13:35:20] <Tobbi> After changing the commit msg.
+[2016/03/05 13:36:38] <leper`> mt: that isn't C89, that is pre-ANSI C
+[2016/03/05 13:36:56] <Ispy> [10supertux] 07ToBeFree synchronized pull request 09#376: Add forest theme by Wansti and ToBeFree 13https://git.io/v2NWW
+[2016/03/05 13:37:08] <mt> you know what I meant
+[2016/03/05 13:37:11] <ToBeFree> I think it's time to party
+[2016/03/05 13:37:12] <ToBeFree> lol
+[2016/03/05 13:37:14] <ToBeFree> thank you so much
+[2016/03/05 13:37:18] <Tobbi> Great.
+[2016/03/05 13:37:20] <Tobbi> We got there.
+[2016/03/05 13:37:26] <Tobbi> ToBeFree: Schwere Geburt.
+[2016/03/05 13:37:27] <Tobbi> :D
+[2016/03/05 13:37:37] <ToBeFree> Today I learned that one doesn't have to delete the repository to undo changes
+[2016/03/05 13:37:40] <ToBeFree> :DD
+[2016/03/05 13:37:48] <Tobbi> mt: Can I merge or is there anything you'd like to do?
+[2016/03/05 13:38:01] <mt> merge it in the command line, with --ff-only
+[2016/03/05 13:38:06] <mt> so that no merge commit is created
+[2016/03/05 13:38:12] <mt> as it's fast forward
+[2016/03/05 13:38:14] <Tobbi> mt: If you want.
+[2016/03/05 13:38:41] <Tobbi> I can as well cherry-pick the commit.
+[2016/03/05 13:38:51] <mt> no
+[2016/03/05 13:38:56] <mt> that changes it's commit id
+[2016/03/05 13:39:06] <mt> then you'll have to add closes #3..
+[2016/03/05 13:39:18] <mt> otherwise github will detect the fast-forward merge
+[2016/03/05 13:39:21] <Tobbi> I see...
+[2016/03/05 13:40:44] <Tobbi> We'll see...
+[2016/03/05 13:40:57] <Ispy> [10supertux] 07tobbi pushed 1 commit to 09master 13https://git.io/v2NBH
+[2016/03/05 13:40:59] <Ispy> [10supertux] 07ToBeFree 140afe886 Add forest theme by Wansti and ToBeFree
+[2016/03/05 13:41:07] <ToBeFree> \o/ <4
+[2016/03/05 13:41:07] <Ispy> [10supertux] 07tobbi closed pull request 09#376: Add forest theme by Wansti and ToBeFree 13https://git.io/v2NWW
+[2016/03/05 13:41:10] <Ispy> [10supertux] Status for commit Merge branch 'ToBeFree-patch-1' of https://github.com/ToBeFree/supertux into ToBeFree-patch-1 by 07Tobias Frei: 04AppVeyor build cancelled 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/426
+[2016/03/05 13:41:11] <ToBeFree> <3*
+[2016/03/05 13:41:12] <Ispy> [10supertux] Status for commit Add forest theme by Wansti and ToBeFree by 07Tobias Frei: 04AppVeyor build cancelled 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/427
+[2016/03/05 13:41:15] <Ispy> [10supertux] Status for commit Add forest theme by Wansti and ToBeFree by 07Tobias Frei: 04AppVeyor build cancelled 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/428
+[2016/03/05 13:41:24] <Tobbi> What now? AppVeyor, stop it.
+[2016/03/05 13:42:16] <Tobbi> Ah, seems to have stopped.
+[2016/03/05 13:44:24] <Ispy> [10supertux] Status for commit Add forest theme by Wansti and ToBeFree by 07Tobias Frei: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/113927802
+[2016/03/05 13:44:52] <ToBeFree> but I did build this! I currently do again and want to manipulate a level file to play the music
+[2016/03/05 13:45:25] <Tobbi> :)
+[2016/03/05 13:45:59] <mt> it's most likely because the build couldn't be uploaded to our nightlies server
+[2016/03/05 13:46:11] <mt> actually no
+[2016/03/05 13:46:59] <mt> it's because the pull request's pr branch went bye-bye
+[2016/03/05 13:47:13] <Tobbi> Right.
+[2016/03/05 13:47:31] <Tobbi> Watched too much Matrix, haven't you?
+[2016/03/05 13:48:03] <Tobbi> The speed of the music is actually a nice change compared to our other songs.
+[2016/03/05 13:49:24] <Tobbi> mt: Do we actually want to use that song as the new credits music? I think it fits the general style of the game way better than the other song.
+[2016/03/05 13:49:32] <Tobbi> So, for game credits.
+[2016/03/05 13:49:38] <Tobbi> Instead of just forest credits.
+[2016/03/05 13:50:27] <mt> We can also make a separate forest credits section
+[2016/03/05 13:50:36] <mt> maybe make it like this
+[2016/03/05 13:50:46] <mt> general credits in main menu
+[2016/03/05 13:51:01] <mt> credits for specific worlds as extro
+[2016/03/05 13:51:32] <Tobbi> Yeah, why not.
+[2016/03/05 13:56:55] <ToBeFree> was that Matrix question in any way related to the music statement? lol
