@@ -14874,3 +14874,213 @@
 [2016/03/05 09:57:06] <Tobbi> mt: Neither do I
 [2016/03/05 09:57:15] <leper`> (but since I don't expect that API to be stable (why would they do that, all the other engines don't do that either)...)
 [2016/03/05 09:57:43] <leper`> physfs is just union mounting
+[2016/03/05 10:00:14] <mt> Tobbi: also, I don't really understand low-level languages
+[2016/03/05 10:00:22] <mt> memory things :/
+[2016/03/05 10:00:32] <Tobbi> mt: You don't need to.
+[2016/03/05 10:00:40] <Tobbi> SuperTux is not low-level.
+[2016/03/05 10:00:51] <leyyin> needs more assembly?
+[2016/03/05 10:00:55] <mt> C++ is very much low-level
+[2016/03/05 10:01:15] <mt> and low-level languages don't like it when you're doing bad stuff with memory
+[2016/03/05 10:01:21] <mt> and then they crash
+[2016/03/05 10:02:07] <leper`> just don't allocate things, then you're good
+[2016/03/05 10:02:07] <Tobbi> mt: And then you figure out how to fix it...
+[2016/03/05 10:02:11] <Tobbi> :D
+[2016/03/05 10:02:19] <Tobbi> And then you know something about low-level languages.
+[2016/03/05 10:02:23] <Tobbi> Perfect opportunity.
+[2016/03/05 10:02:39] <mt> "Fix it" is most likely trying until it works
+[2016/03/05 10:02:50] <mt> and then I don't know anything more
+[2016/03/05 10:02:59] <leyyin> or use rust :P
+[2016/03/05 10:03:08] <leyyin> programming low level with memory and safe
+[2016/03/05 10:03:19] <Tobbi> ugly!
+[2016/03/05 10:03:27] <leyyin> safe!
+[2016/03/05 10:03:36] <Tobbi> leyyin: Also, stop it! I don't want to have to do anything with Mozilla.
+[2016/03/05 10:04:05] <leyyin> my keyboard just electrocuted me
+[2016/03/05 10:04:11] <sydney_untangle> Tobbi: I do. :D I'd rather deal with them than google.
+[2016/03/05 10:04:17] <sydney_untangle> leyyin: Exciting.
+[2016/03/05 10:04:24] <Tobbi> sydney_untangle: You don't know anything about Mozilla.
+[2016/03/05 10:04:29] <sydney_untangle> leyyin: You can buy me a new one when you get a new one.
+[2016/03/05 10:04:33] <sydney_untangle> Tobbi: Or google...
+[2016/03/05 10:04:40] <Tobbi> true.
+[2016/03/05 10:05:00] <mt> actually I once started reading https://doc.rust-lang.org/book/the-stack-and-the-heap.html and it seemed like a quite good introduction on low-level memory things
+[2016/03/05 10:06:20] <Tobbi> mt: Don't do that! You'll end up like me: "I don't know anything about computers"
+[2016/03/05 10:06:55] <mt> Why?
+[2016/03/05 10:07:20] <Tobbi> mt: You know: I have OCD and const-correct everything!
+[2016/03/05 10:07:25] <Tobbi> This is not good.
+[2016/03/05 10:07:31] <leyyin> Tobbi, that is good for google
+[2016/03/05 10:07:34] <Tobbi> I wish I never knew about const-correctness.
+[2016/03/05 10:07:39] <leyyin> everyone is OCD and const correctness there
+[2016/03/05 10:07:44] <Tobbi> leyyin: Really? :D
+[2016/03/05 10:07:53] <leyyin> true code nazis
+[2016/03/05 10:07:58] <mt> how does that imply that you don't know anything about computers?
+[2016/03/05 10:08:22] <Tobbi> mt: I get overwhelmed and I end up seeing colours instead of code.
+[2016/03/05 10:08:39] <Tobbi> Woow, this if statement is really green!
+[2016/03/05 10:08:52] <leyyin> oh boy
+[2016/03/05 10:08:57] <Tobbi> leyyin: When I am OCD, I am not exactly happy.
+[2016/03/05 10:09:12] <Tobbi> So, it's better that I am not working for them.
+[2016/03/05 10:10:44] <Tobbi> leyyin: What else is there I can optimize?
+[2016/03/05 10:10:59] <leyyin> your life
+[2016/03/05 10:11:27] <Tobbi> leyyin: Serious!
+[2016/03/05 10:11:35] <leyyin> your real life!
+[2016/03/05 10:11:44] <Tobbi> /kick leyyin stfu
+[2016/03/05 10:12:07] <Tobbi> leyyin: At least you don't motivate my OCD.
+[2016/03/05 10:12:10] <leyyin> how can you type / as the first char
+[2016/03/05 10:12:15] <Tobbi> leyyin: magic.
+[2016/03/05 10:12:34] <Tobbi> leyyin: You either write <space>/ or //
+[2016/03/05 10:12:57] <leyyin> / lol
+[2016/03/05 10:13:03] <Tobbi> See, worked.
+[2016/03/05 10:13:15] <Tobbi> //
+[2016/03/05 10:13:17] <Tobbi> bam!
+[2016/03/05 10:13:21] <leyyin> /////////////
+[2016/03/05 10:13:44] <Tobbi> /*
+[2016/03/05 10:13:49] <Ispy> [10supertux] 07ToBeFree starred 09supertux - 13https://git.io/lZbSZQ
+[2016/03/05 10:13:54] <Tobbi> */
+[2016/03/05 10:14:00] <Tobbi> See: Block comment.
+[2016/03/05 10:14:17] <ToBeFree> there is also /say /
+[2016/03/05 10:14:22] <ToBeFree> in some clients
+[2016/03/05 10:14:32] <Tobbi> Not working here.
+[2016/03/05 10:14:33] <ToBeFree> or /quote PRIVMSG #channel :"/blah"
+[2016/03/05 10:14:34] <ToBeFree> :D
+[2016/03/05 10:14:48] <Tobbi> leyyin: jsyk, this channel is being overrun by Germans.
+[2016/03/05 10:14:56] <Tobbi> I deliberately didn't say invaded.
+[2016/03/05 10:14:59] <ToBeFree> /blah. Ah, without the ""
+[2016/03/05 10:16:29] <leper`> /quit
+[2016/03/05 10:16:29] @ GermanInvader joined channel #supertux
+[2016/03/05 10:17:19] <GermanInvader> My name is Inigo Montoya
+[2016/03/05 10:17:21] @ Quit: GermanInvader: Client Quit
+[2016/03/05 10:17:35] <Tobbi> That is not a proper German name.
+[2016/03/05 10:17:55] <leper`> he also didn't tell us to prepare
+[2016/03/05 10:17:55] <Tobbi> Wuppertal.
+[2016/03/05 10:18:07] <Tobbi> Was that you, ToBeFree?
+[2016/03/05 10:18:16] <ToBeCloud> hmmm :D
+[2016/03/05 10:18:17] <Tobbi> Wuppertal is just like Bielefeld.
+[2016/03/05 10:18:22] <Tobbi> It doesn't exist.
+[2016/03/05 10:18:34] <ToBeCloud> wait, can you locate the IP that closely? Using which service?
+[2016/03/05 10:18:55] <ToBeCloud> I know there are paid databases for this, but I've never seen a free service being able to point to the city
+[2016/03/05 10:19:05] <Tobbi> ToBeCloud: infosniper.net
+[2016/03/05 10:19:13] <mt> ┌ cepheus ~
+[2016/03/05 10:19:15] <mt> ┘ geoiplookup 37.201.228.246
+[2016/03/05 10:19:17] <mt> GeoIP Country Edition: DE, Germany
+[2016/03/05 10:19:20] <mt> GeoIP City Edition, Rev 1: DE, 07, Nordrhein-Westfalen, Wuppertal, 42287, 51.243198, 7.206600, 0, 0
+[2016/03/05 10:20:10] <ToBeFree> oh, that's relatively close
+[2016/03/05 10:20:27] <ToBeFree> 1.7km
+[2016/03/05 10:20:40] <Tobbi> wow.
+[2016/03/05 10:21:01] <ToBeFree> (note that I do not live in the middle of the city and the marker happened to point there)
+[2016/03/05 10:21:12] <ToBeFree> (which would be less amazing)
+[2016/03/05 10:21:16] <ToBeFree> ^^
+[2016/03/05 10:21:30] <mt> my IP, 87.135.57.124, is at the internet's standard German geolocation (51 degN, 9 degE) :D
+[2016/03/05 10:21:35] <ToBeFree> mt, is that the paid thing?
+[2016/03/05 10:21:46] <mt> ToBeFree: no, it's a free version
+[2016/03/05 10:21:57] <ToBeFree> The city edition? oh
+[2016/03/05 10:22:10] <ToBeFree> they do have more accurate databases that must be bought, right?
+[2016/03/05 10:22:21] <mt> https://dev.maxmind.com/geoip/legacy/install/city/
+[2016/03/05 10:23:31] <mt> 16:14:33 <ToBeFree> or /quote PRIVMSG #channel :"/blah" <-- what ugly client is that, requiring you to quote after the :
+[2016/03/05 10:23:41] <Tobbi> geoiplookup doesn't work on my mac.
+[2016/03/05 10:23:45] <Tobbi> It doesn't output anything.
+[2016/03/05 10:23:45] <ToBeFree> none, none. It's not even client specific
+[2016/03/05 10:23:49] <mt> WeeChat allows //message here
+[2016/03/05 10:23:52] <ToBeFree> I just mistyped that
+[2016/03/05 10:24:13] <mt> ToBeFree: it should just be PRIVMSG #channel :/blah
+[2016/03/05 10:24:17] <ToBeFree> if that is required anywhere, the server has a weird syntax. Yeah
+[2016/03/05 10:24:37] <mt> Tobbi: because you need to install a database, probably
+[2016/03/05 10:24:43] <Tobbi> Ah, probably.
+[2016/03/05 10:28:16] <Tobbi> I'll give up.
+[2016/03/05 10:29:50] <ToBeFree> I think I'll make a fork and pull request on GitHub for the music
+[2016/03/05 10:30:03] <ToBeFree> loop-at has to be "-1" for non-looping songs? The theme uses that
+[2016/03/05 10:30:26] <Tobbi> ToBeCloud: Go ahead.
+[2016/03/05 10:30:36] @ Mathnerd314 joined channel #supertux
+[2016/03/05 10:30:36] @ Mode +v Mathnerd314 by ChanServ
+[2016/03/05 10:30:42] <ToBeFree> I can also add other non-looping music, but there's probably no real use for it. I'm happy there's use for at least one non-looping music as a second title theme seems to be needed
+[2016/03/05 10:31:28] <ToBeFree> http://www.freiwuppertal.de/freemusic-1/03-ilikeyou-tobefree-sheet.ogg This one might be useful for a short story introduction
+[2016/03/05 10:32:05] <ToBeFree> http://www.freiwuppertal.de/freemusic-1/10-dreamingoffriendship-tobefree-sheet.ogg if this would loop, it might fit for some levels
+[2016/03/05 10:34:15] <ToBeFree> http://www.freiwuppertal.de/freemusic-1/14-fadingdreams-tobefree-sheet.ogg this one too
+[2016/03/05 10:34:30] <ToBeFree> I can try looping them, but I'm afraid they're too short to produce a loop that does not become annoying
+[2016/03/05 10:35:25] <ToBeFree> although when playing SuperTux, music that might otherwise become annoying after some time will be okay, it seems
+[2016/03/05 10:36:29] <Tobbi> We need more variety in level design.
+[2016/03/05 10:36:52] <ToBeFree> http://www.freiwuppertal.de/freemusic-1/16-roadtosuccess-tobefree-sheet.ogg  The name "Road To Success" might be interesting for a new level that uses this music. I don't know. I've listened to my own songs so many times that I'm now unable to judge what is nice and what is annoying. After a while, they all become annoying a bit xD
+[2016/03/05 10:37:12] <ToBeFree> Tobbi, about level design, the forest world seems to be a wonderful example how to add variety
+[2016/03/05 10:37:22] <Tobbi> That's true...
+[2016/03/05 10:44:31] <ToBeFree> mt, I currently wonder about licensing
+[2016/03/05 10:44:55] <mt> of...? what I mentioned before?
+[2016/03/05 10:46:06] <ToBeFree> About the music - for my own music, it's not a problem at all, I'll just give that to the SuperTux project under any license you like. For the Wansti remix you liked, it's probably not a problem as Wansti created music for SuperTux and I'm remixing that music. My remix also contains songs by Wansti that have not been written for SuperTux, though
+[2016/03/05 10:46:42] <Tobbi> ToBeFree: Wansti's Music is licensed under CC as well, isn't it?
+[2016/03/05 10:46:47] <ToBeFree> correct
+[2016/03/05 10:46:55] <ToBeFree> by-sa
+[2016/03/05 10:47:19] <Tobbi> So? We just add that to credits and be fine with it...
+[2016/03/05 10:47:57] <ToBeFree> ok :) I was afraid it needs to be GPLv3
+[2016/03/05 10:48:14] <mt> why that?
+[2016/03/05 10:48:14] <ToBeFree> although I've just checked and CC:by-sa works can be licensed as GPLv3 (compatible)
+[2016/03/05 10:48:27] <ToBeFree> hmm, because it's a part of a GPLv3 program, I thought. :D
+[2016/03/05 10:48:31] <Tobbi> GPL is a horrible license for artistic works.
+[2016/03/05 10:48:56] <mt> I'm actually thinking about relicensing SuperTux
+[2016/03/05 10:49:07] <ToBeFree> oh, as?
+[2016/03/05 10:49:10] <mt> *GPL is brain cancer
+[2016/03/05 10:49:32] <mt> I prefer MIT/ISC/BSD/NCSA/zlib-style licenses
+[2016/03/05 10:49:37] <Tobbi> mt: you cannot relicense SuperTux without our all permission.
+[2016/03/05 10:49:43] <mt> right
+[2016/03/05 10:50:09] <mt> but we can require new files/classes to be licensed under the new license
+[2016/03/05 10:50:31] <mt> and we can ask old contributors for permission
+[2016/03/05 10:51:10] @ claymore2 joined channel #supertux
+[2016/03/05 10:52:39] <ToBeFree> mt, I could add the (95 KB, nothing compared to 2-3MB .ogg) sheet music as pdf file as easter egg to the same (data/music) folder
+[2016/03/05 10:52:58] <mt> ToBeFree: adding it to the media repo would be better
+[2016/03/05 10:53:00] <ToBeFree> ah!
+[2016/03/05 10:53:25] <mt> also a mid and the musescore source
+[2016/03/05 10:53:30] <ToBeFree> didn't see that. Will do :)
+[2016/03/05 11:02:25] <Ispy> [10supertux] 07ToBeFree opened pull request 09#375: Add forest theme by Wansti and ToBeFree 13https://git.io/v2N3M
+[2016/03/05 11:03:09] <Tobbi> ToBeFree: Add your name to data/AUTHORS and to data/credits.txt
+[2016/03/05 11:03:29] <ToBeFree> Will do when merged unless you refuse to merge before I did this ;)
+[2016/03/05 11:03:39] <ToBeFree> currently uploading the source to the media repository
+[2016/03/05 11:03:43] <Tobbi> Ah, right.
+[2016/03/05 11:03:59] <ToBeFree> (I would have forgotten this though, thanks :D)
+[2016/03/05 11:04:13] <Tobbi> mt: Do we want these commits to be squashed or is two single commits fine?
+[2016/03/05 11:04:39] <ToBeFree> feel free to wait, I'll put it into one commit then ^.^
+[2016/03/05 11:04:45] <ToBeFree> just preparing the media sources
+[2016/03/05 11:05:00] <Tobbi> I am not sure what
+[2016/03/05 11:05:01] <Tobbi> 's best.
+[2016/03/05 11:05:47] <mt> Can be squashed
+[2016/03/05 11:06:07] <Tobbi> okay.
+[2016/03/05 11:06:15] <Tobbi> ToBeFree: ^^
+[2016/03/05 11:06:54] <ToBeFree> just a minute :)
+[2016/03/05 11:09:59] <ToBeFree> mt: Should I upload the .ogg file that becomes a part of the normal SuperTux repository to the media repository too, or should I only upload additional files there?
+[2016/03/05 11:10:15] <ToBeFree> there are some oggs, but not all
+[2016/03/05 11:12:12] @ Quit: claymore2: Quit: Leaving
+[2016/03/05 11:13:12] <Ispy> [10supertux] 07ToBeFree commented on issue 09#375: Add forest theme by Wansti and ToBeFree 13https://git.io/v2N3M
+[2016/03/05 11:13:20] <Ispy> [10supertux] 07ToBeFree closed pull request 09#375: Add forest theme by Wansti and ToBeFree 13https://git.io/v2N3M
+[2016/03/05 11:13:22] <Ispy> [10supertux] Status for commit Create forest_theme.music by 07Tobias Frei: 04AppVeyor build cancelled 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/424
+[2016/03/05 11:15:23] <Tobbi> *sigh*
+[2016/03/05 11:15:28] <Tobbi> You could've squashed.
+[2016/03/05 11:15:32] <Tobbi> but, okay.
+[2016/03/05 11:15:41] <Tobbi> s/squashed/rebased
+[2016/03/05 11:15:51] <Ispy> [10supertux] Status for commit Create forest_theme.music by 07Tobias Frei: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/113907166
+[2016/03/05 11:18:36] <ToBeFree> squashed? Oh, that's a thing
+[2016/03/05 11:18:47] <ToBeFree> Sorry, I know nearly nothing about git :D
+[2016/03/05 11:19:14] <mt> git <3
+[2016/03/05 11:19:18] <mt> when you know how it works
+[2016/03/05 11:19:38] <ToBeFree> I do like git! :D However, https://xkcd.com/1597/
+[2016/03/05 11:21:22] <Tobbi> ToBeFree: You did it wrong! It's "I don't know anything about git"
+[2016/03/05 11:21:38] <ToBeFree> :(
+[2016/03/05 11:21:54] <Tobbi> ToBeFree: I don't know anything about computers.
+[2016/03/05 11:21:57] <mt> Tobbi doesn't know anything about anything
+[2016/03/05 11:21:57] <ToBeFree> lol
+[2016/03/05 11:22:05] <Tobbi> :D
+[2016/03/05 11:22:52] <leper`> mt: He does know that he knows nothing about anything
+[2016/03/05 11:25:19] <Tobbi> leper`: nope.
+[2016/03/05 11:29:07] <Ispy> [10supertux] 07brmbrmcar commented on issue 09#375: Add forest theme by Wansti and ToBeFree 13https://git.io/v2N3M
+[2016/03/05 11:30:52] <mt> ToBeFree: I can also re-open that PR
+[2016/03/05 11:30:57] <ToBeFree> no no :D
+[2016/03/05 11:31:01] <mt> yes yes
+[2016/03/05 11:31:07] <ToBeFree> no no no please :D
+[2016/03/05 11:31:16] <ToBeFree> nearly finished
+[2016/03/05 11:31:27] <mt> and DO NOT use master for pull request changes
+[2016/03/05 11:31:32] <ToBeFree> :s
+[2016/03/05 11:32:05] <mt> https://github.com/SuperTux/supertux/wiki/Git-guide,-TODO-'n'-notTODO
+[2016/03/05 11:32:19] <mt> whoever created that page
+[2016/03/05 11:32:21] <ToBeFree> github would have created patch-1 for me if there had been any changes- oh, a guide!
+[2016/03/05 11:32:23] <mt> not a good name
+[2016/03/05 11:34:29] <ToBeFree> another question: When I saw the photos, I quickly created one for me using GIMP and a penguin photo (own work) - now I'm editing credits and see that photos are probably only meant for the main contributors
+[2016/03/05 11:34:50] <ToBeFree> will remove the photo again unless you want me to start changing this :D
+[2016/03/05 11:35:24] <Tobbi> mt: YOu can see that it was hume who created the page.
+[2016/03/05 11:35:43] <Tobbi> I should create a photo of myself with a frame.
+[2016/03/05 11:43:38] <Tobbi> Searching for my full name on github is like a walk down memory lane.
+[2016/03/05 11:49:54] <mt> a photo of you holding a poster saying 'Doesn't know anything about anything'
+[2016/03/05 11:50:33] <Tobbi> mt: Not yet, but good idea.
+[2016/03/05 11:59:37] <Tobbi> mt: Can I merge the PyQT5 branch? Or did you observe any other issues with it?
