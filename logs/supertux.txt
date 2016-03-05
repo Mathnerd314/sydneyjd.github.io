@@ -14659,3 +14659,218 @@
 [2016/03/05 06:56:18] <Tobbi> yup.
 [2016/03/05 07:17:16] @ farooghkz joined channel #supertux
 [2016/03/05 07:37:28] @ Quit: farooghkz: Quit: used jmIrc
+[2016/03/05 08:18:29] <leyyin> someone close the channel :/
+[2016/03/05 08:19:25] <mt> /msg ChanServ close #supertux on ;)
+[2016/03/05 08:20:01] <Tobbi> leyyin: Why close the channel?
+[2016/03/05 08:20:07] <Tobbi> I don't get it.
+[2016/03/05 08:21:25] <mt> a reference to the SSH/SFTP error message
+[2016/03/05 08:21:41] <Tobbi> ah ok
+[2016/03/05 08:22:22] <Tobbi> mt: maths22 self-hosts supertuxproject.org, right?
+[2016/03/05 08:23:09] <mt> it's on brlcad.org, I guess
+[2016/03/05 08:23:24] <Ispy> [10supertux] 07Savsish opened issue 09#374: re: SuperTux 0.5.0 will be more complete and stable than current stable release (0.4.0) 13https://git.io/v2Nke
+[2016/03/05 08:23:27] <mt> to which he probably has shell acces
+[2016/03/05 08:23:29] <mt> s
+[2016/03/05 08:23:37] <Tobbi> FFS!
+[2016/03/05 08:24:08] <Tobbi> Can't we block this guy?
+[2016/03/05 08:24:28] <Ispy> [10supertux] 07maxteufel commented on issue 09#374: re: SuperTux 0.5.0 will be more complete and stable than current stable release (0.4.0) 13https://git.io/v2Nke
+[2016/03/05 08:24:31] <Ispy> [10supertux] 07maxteufel closed issue 09#374: re: SuperTux 0.5.0 will be more complete and stable than current stable release (0.4.0) 13https://git.io/v2Nke
+[2016/03/05 08:24:37] <mt> Tobbi: actually yes
+[2016/03/05 08:24:46] <mt> as an organization owner, you have to ask github staff
+[2016/03/05 08:25:01] <Tobbi> ah ok
+[2016/03/05 08:25:41] <mt> (please do so)
+[2016/03/05 08:26:31] <mt> >"crash bug that does not even happen in 0.3.5a"
+[2016/03/05 08:26:43] <mt> well, we changed code, mistakes can always happen
+[2016/03/05 08:28:36] @ ToBeCloud joined channel #supertux
+[2016/03/05 08:29:41] <Tobbi> Done.
+[2016/03/05 08:29:44] <Tobbi> Hello ToBeCloud
+[2016/03/05 08:30:24] <ToBeCloud> Hey :)
+[2016/03/05 08:32:58] <ToBeCloud> I love this game. When I was... 14? I started trying to learn Wansti's melodies on the piano by ear, later I found his website and showed him my work. At the beginning of this year, I've released an album that contains a remixed piano song by Wansti and me :D
+[2016/03/05 08:34:05] <ToBeCloud> Together with friends, we created a "SuperTux speedruns" page and competed in finishing the vanilla levels as quickly as possible. Sometimes with "perfect" times, as horizontal movement never stopped
+[2016/03/05 08:34:48] <Tobbi> Great :D
+[2016/03/05 08:35:19] <ToBeCloud> What I like most is the forest world. Maybe for the music, maybe because of the atmosphere
+[2016/03/05 08:35:57] <ToBeCloud> And the unique search for keys is a wonderful gimmick. I have to admit that when I was younger and failed ten-thirty times at hard levels, I manipulated the savegame to be able to continue with the rest
+[2016/03/05 08:36:31] <Tobbi> :D
+[2016/03/05 08:36:37] <Tobbi> Now it's built in :D
+[2016/03/05 08:36:42] <Tobbi> a cheat console, I mean.
+[2016/03/05 08:36:49] <ToBeCloud> Oh? :D
+[2016/03/05 08:37:16] <ToBeCloud> Ah, there was something. I think I failed at using it when it was introduced :D
+[2016/03/05 08:37:20] <Tobbi> :D
+[2016/03/05 08:37:35] <ToBeCloud> Must be years ago already though
+[2016/03/05 08:37:38] <Tobbi> ToBeCloud: Start SuperTux with --developer, then press F2 or so?
+[2016/03/05 08:37:48] <ToBeCloud> Ah :D Will try
+[2016/03/05 08:37:49] <Tobbi> Oh, no, then it's not the one I am talking about.
+[2016/03/05 08:37:54] <Tobbi> ToBeCloud: Install 0.4.0
+[2016/03/05 08:38:03] <Tobbi> That's the latest stable release.
+[2016/03/05 08:38:10] <ToBeCloud> Did yesterday :) It's really cool
+[2016/03/05 08:38:11] <mt> cheat menu is there since the Halloween addon has been released
+[2016/03/05 08:38:23] <mt> (well, about that time)
+[2016/03/05 08:38:33] <mt> that was in October 2014
+[2016/03/05 08:38:48] <ToBeCloud> Well no, then the cheat console you mean is newer than what I thought I had failed at using
+[2016/03/05 08:39:04] <Tobbi> There's a regular console as well.
+[2016/03/05 08:39:12] <mt> the debug console exists since years tho
+[2016/03/05 08:40:36] <Tobbi> yes
+[2016/03/05 08:41:07] * mt points at http://forum.freegamedev.net/viewtopic.php?f=67&t=6687#p67206
+[2016/03/05 08:41:33] <Tobbi> what about it?
+[2016/03/05 08:41:51] <mt> composing music
+[2016/03/05 08:42:03] @ tuxdev_ joined channel #supertux
+[2016/03/05 08:42:21] <Tobbi> ah yes.
+[2016/03/05 08:42:34] <Tobbi> bbl, shopping for groceries.
+[2016/03/05 08:48:42] <ToBeCloud> http://www.freiwuppertal.de/freemusic-1/18-forestprophecyreeducated-tobefree-sheet.ogg
+[2016/03/05 08:49:52] @ ToBeFree joined channel #supertux
+[2016/03/05 08:54:01] <mt> nice :)
+[2016/03/05 08:54:24] <mt> you can still recognize some parts
+[2016/03/05 09:00:42] <leper`> nice one!
+[2016/03/05 09:07:01] @ alket joined channel #supertux
+[2016/03/05 09:16:24] <mt> ToBeCloud: so if you have any ideas for new music and want to compose some, contributions are always welcome
+[2016/03/05 09:16:49] <mt> "Shocking" in the forest world needs better music, imho
+[2016/03/05 09:24:20] <Tobbi> ToBeCloud: I just saw that the amount of people with the first name Tobias is now at a total of 2 :D
+[2016/03/05 09:24:25] <Tobbi> In this channel I mean.
+[2016/03/05 09:24:35] <ToBeFree> heh
+[2016/03/05 09:24:43] <ToBeFree> (same person here)
+[2016/03/05 09:25:10] <Ispy> [10supertux] 07brmbrmcar commented on issue 09#373: Tux dies when jumping on top of gap between block and terrain 13https://git.io/v2bpc
+[2016/03/05 09:25:25] <Tobbi> *sigh*
+[2016/03/05 09:25:43] <Tobbi> ToBeFree: If you want to help develop supertux, feel free to grab the source code.
+[2016/03/05 09:25:49] <ToBeFree> mt, I sadly have no experience with creating looping songs
+[2016/03/05 09:26:23] <ToBeFree> oh, I just learned the basics of C :D I believe coding is not what I could improve SuperTux with
+[2016/03/05 09:26:43] <Tobbi> ToBeFree: Actually, composers are needed as well.
+[2016/03/05 09:26:45] <mt> ToBeFree: yes I know very off-topic here, but has https://github.com/zohlai/zohlai/pull/4 been upstreamed to atheme? If not, could you prepare a pull request for the atheme/atheme repo with a more descriptive commit message (e.g. issue detailed in the commit message)? (atheme development is resuming now)
+[2016/03/05 09:27:04] <ToBeFree> wait what
+[2016/03/05 09:27:07] <Tobbi> mt: We are *always* off-topic here...
+[2016/03/05 09:27:10] <ToBeFree> Atheme development is resuming? :D
+[2016/03/05 09:27:20] <mt> ToBeFree: yeah
+[2016/03/05 09:27:21] <ToBeFree> *cough* unexpected *cough*
+[2016/03/05 09:27:32] * ToBeFree has a look
+[2016/03/05 09:27:34] <leper`> Tobbi: We were somewhat on-topic yesterday
+[2016/03/05 09:27:36] <Tobbi> *cough* Nahrungsergänzungsmittel *cough*
+[2016/03/05 09:27:40] <leper`> (though not about SuperTux)
+[2016/03/05 09:27:44] <Tobbi> leper`: But only because mt forced us :D
+[2016/03/05 09:27:53] <mt> I did?
+[2016/03/05 09:27:56] <ToBeFree> Oh, mt, I have a nice description for that:
+[2016/03/05 09:28:18] <Tobbi> mt: You did.
+[2016/03/05 09:28:19] <Tobbi> :P
+[2016/03/05 09:31:05] <Tobbi> mt: Couldn't we use that forest theme remix for the forest credits page, if there is one?
+[2016/03/05 09:31:39] <mt> Interesting idea
+[2016/03/05 09:31:49] <Tobbi> I like the tune and it would fit perfect.
+[2016/03/05 09:32:44] @ farooghkz joined channel #supertux
+[2016/03/05 09:32:59] <Tobbi> Welcome back, farooghkz
+[2016/03/05 09:33:14] <farooghkz> thx :)
+[2016/03/05 09:33:41] <Tobbi> farooghkz: You did download a nightly build successfully, didn't you?
+[2016/03/05 09:33:44] <ToBeFree> it's licensed CreativeCommons: by-sa 4.0 or any previous version if you like. Credit could go to Wansti (of course :D) and Tobias "ToBeFree" Frei
+[2016/03/05 09:34:47] <Tobbi> Möge D-Dur mit euch sein!
+[2016/03/05 09:35:00] <ToBeFree> Moll.
+[2016/03/05 09:35:01] <ToBeFree> :P
+[2016/03/05 09:35:01] <Tobbi> Oh, and a switch from D-Dur to E-Dur.
+[2016/03/05 09:35:03] <Tobbi> Moll?
+[2016/03/05 09:35:06] <ToBeFree> All in Moll
+[2016/03/05 09:35:20] <Tobbi> Damn, I don't know anything about composing.
+[2016/03/05 09:35:23] <ToBeFree> :D
+[2016/03/05 09:35:26] <farooghkz> tobbi, i couldnt
+[2016/03/05 09:35:27] <mt> (it's not dur/moll in english)
+[2016/03/05 09:35:34] <ToBeFree> major/minor, yeah
+[2016/03/05 09:35:37] <ToBeFree> this is all minor :)
+[2016/03/05 09:35:38] <Tobbi> haha
+[2016/03/05 09:35:47] <Tobbi> farooghkz: This was Linux, right?
+[2016/03/05 09:35:47] <leper`> So hurr durr is German?
+[2016/03/05 09:36:01] <ToBeFree> (minor is clearly superior, making the name weird :P)
+[2016/03/05 09:36:07] <farooghkz> tobbi, yes ubuntu
+[2016/03/05 09:36:59] <Tobbi> ToBeFree: I always thought Kreuze = Dur and bs = Moll, no?
+[2016/03/05 09:37:02] <Tobbi> farooghkz: One moment.
+[2016/03/05 09:37:13] <ToBeFree> oh, Tobbi, both is both :)
+[2016/03/05 09:37:34] <ToBeFree> Any number of Kreuze or bs can always be either Moll or Dur
+[2016/03/05 09:37:39] <Tobbi> ToBeFree: Oh, wait, is the distance between the note important?
+[2016/03/05 09:37:43] <Tobbi> Dur-Dreiklang, Moll-Dreiklang
+[2016/03/05 09:37:47] <ToBeFree> hmm
+[2016/03/05 09:38:02] <Tobbi> Damn this.
+[2016/03/05 09:38:06] <ToBeFree> well yes, the distance is important :D
+[2016/03/05 09:38:08] <Tobbi> I should've paid attention in school.
+[2016/03/05 09:38:18] <farooghkz> tobbi, there isnt anything wrong with ur servers,softwares,etc.
+[2016/03/05 09:38:28] <Tobbi> ToBeFree: So, it was Kleine Terz, Große Terz = Dur, the other way round, moll.
+[2016/03/05 09:38:34] <Tobbi> something like that.
+[2016/03/05 09:38:44] <Tobbi> farooghkz: What issue did you have installing?
+[2016/03/05 09:38:52] <farooghkz> tobbi, i didnt have time yesterday to do that
+[2016/03/05 09:38:58] <Tobbi> farooghkz: Ah, no problem.
+[2016/03/05 09:39:13] <ToBeFree> https://archive.org/download/tobefree-freemusic-1/20-forest-education-remastered.ogg  <--- Wansti used a professional piano font to remix the song. It probably sounds better on better speakers and worse on bad speakers [I own only cheap speakers and phone speakers]
+[2016/03/05 09:39:27] <Tobbi> I give up learning how to compose.
+[2016/03/05 09:39:41] <ToBeFree> Tobbi, I honestly don't know :)
+[2016/03/05 09:39:47] <Tobbi> :D
+[2016/03/05 09:39:51] <ToBeFree> I'm just playing xD
+[2016/03/05 09:40:05] <Tobbi> ToBeFree: So, you're playing and recording it using a MIDI-Keyboard?
+[2016/03/05 09:40:07] <ToBeFree> (well, there is sheet music http://www.freiwuppertal.de/freemusic-1/18-forestprophecyreeducated-tobefree-sheet.pdf )
+[2016/03/05 09:40:09] <farooghkz> tobbi, i also have school
+[2016/03/05 09:40:25] <Tobbi> farooghkz: Okay, in that case, we can talk later, if you want.
+[2016/03/05 09:40:27] <ToBeFree> nah, I did that before, but I'm using MuseScore now, create sheet music and let it automatically be converted to a sound file
+[2016/03/05 09:40:28] <mt> I wonder about the licensing when a professional soundfont is used
+[2016/03/05 09:41:03] * mt also suggests http://lilypond.org/
+[2016/03/05 09:41:15] <ToBeFree> I used the public domain Fluid R3 GM soundfont, Wansti... hmmm... I'm quite sure that bought soundfonts may be used in commercially used music without stating which soundfont was used...
+[2016/03/05 09:41:16] <Tobbi> MuseScore is superior afaik.
+[2016/03/05 09:41:21] @ Quit: farooghkz: Quit: used jmIrc
+[2016/03/05 09:41:33] <ToBeFree> oh, lilypond, like LaTeX vs OpenOffice
+[2016/03/05 09:41:50] <Tobbi> I don't use MuseScore that often.
+[2016/03/05 09:42:11] <Tobbi> Oh, Lilypond is different from MuseScor.
+[2016/03/05 09:42:12] <Tobbi> e
+[2016/03/05 09:42:28] <mt> only that Lilypond is kept more up-to-date, while LaTeX is still stuck in the last century
+[2016/03/05 09:42:58] <Tobbi> but I like that remix.
+[2016/03/05 09:43:00] <Tobbi> :D
+[2016/03/05 09:43:09] <Tobbi> I am listening to it on repeat :D
+[2016/03/05 09:43:17] <mt> LaTeX is like, yeah it's really awful and no one wants to use it, but still everyone does because there's nothing better
+[2016/03/05 09:43:29] <leper`> Tobbi: I'm kinda glad I'm not alone :D
+[2016/03/05 09:43:35] <Tobbi> leper`: :D
+[2016/03/05 09:43:40] <Tobbi> leper`: Seriously_
+[2016/03/05 09:43:40] <Tobbi> ?
+[2016/03/05 09:43:57] <leper`> yep, though I also listened to some other things on that website
+[2016/03/05 09:44:16] @ farooghkz joined channel #supertux
+[2016/03/05 09:44:39] <Tobbi> :D
+[2016/03/05 09:45:10] <Tobbi> leper`: I guess since Mathnerd314 probably doesn't want to rewrite that commit, we'll end up doing it probably.
+[2016/03/05 09:45:19] <Tobbi> But I guess I understand even less than he did about CMake.
+[2016/03/05 09:45:29] <Tobbi> s/did/does/
+[2016/03/05 09:45:29] <red_bot> Tobbi meant: "But I guess I understand even less than he does about CMake."
+[2016/03/05 09:45:52] <leper`> s/we/Tobbi/
+[2016/03/05 09:45:52] <red_bot> leper` meant: "yep, though I also listened to some other things on that Tobbibsite"
+[2016/03/05 09:45:58] <leper`> lol
+[2016/03/05 09:46:15] <Tobbi> lol?
+[2016/03/05 09:46:45] <Tobbi> leper`: Yeah, true, I will end up doing that.
+[2016/03/05 09:46:56] <Tobbi> And then, rebase...*sigh*
+[2016/03/05 09:47:02] <leper`> heh
+[2016/03/05 09:47:20] <leper`> try rebasing things with newer library versions sometime
+[2016/03/05 09:47:30] <leper`> (where that library alone is huge)
+[2016/03/05 09:47:53] <Tobbi> leper`: No, thanks.
+[2016/03/05 09:48:08] <Tobbi> leper`: actually, we did for Squirrel. But it broke. And I couldn't fix it.
+[2016/03/05 09:48:14] <leper`> I did suspect you didn't want to do anything with moz code again :P
+[2016/03/05 09:48:42] <Tobbi> leper`: I never did anything on the Mozilla code in the first place.
+[2016/03/05 09:48:44] <Tobbi> It's a mess.
+[2016/03/05 09:48:55] <leper`> (I probably should look into finishing that thing sometime but meh)
+[2016/03/05 09:50:51] <Tobbi> leper`: What do you want to finish?
+[2016/03/05 09:51:08] <leper`> updating the bundled spidermonkey for 0ad
+[2016/03/05 09:51:32] <leper`> (from 31 to 38; actually finished for normal usage, but it breaks debug builds and some small other issues)
+[2016/03/05 09:51:57] <Tobbi> leper`: ugly! Ask Archaopteryx for help :D
+[2016/03/05 09:52:03] <Tobbi> No, probably not.
+[2016/03/05 09:52:40] <Tobbi> I should learn how to use lilypond
+[2016/03/05 09:53:04] <mt> spidermonkey? isn't that a javascript thing?
+[2016/03/05 09:53:12] <mt> why would you use it in a game?
+[2016/03/05 09:53:16] <Tobbi> mt: It's called JavaScript engine
+[2016/03/05 09:53:25] <Tobbi> And for scripting support, probably?
+[2016/03/05 09:53:34] <leper`> well, I should write a small testcase for the breakage (which is deep in spidermonkey) and tell upstream to fix it and use the release version for debug builds
+[2016/03/05 09:53:45] <leper`> mt: JS engine for the scripting part
+[2016/03/05 09:54:07] <Tobbi> leper`: Also, I tried 0 A.D. yesterday but was defeated by the AI in no time...
+[2016/03/05 09:54:17] <leper`> it does that to new players :D
+[2016/03/05 09:54:20] <mt> the cool people now use microsoft's open sourced JS engine from MS Edge </notreally>
+[2016/03/05 09:54:21] <Tobbi> :D
+[2016/03/05 09:54:40] <Tobbi> mt: You forgot to open that <notreally> tag :P
+[2016/03/05 09:54:46] <Tobbi> Unless you meant <notreally />
+[2016/03/05 09:54:54] <Tobbi> haha
+[2016/03/05 09:54:58] <Tobbi> XML is weird.
+[2016/03/05 09:55:17] <leper`> (old players just know the few tricks to make the AI do stupid things
+[2016/03/05 09:55:18] <leper`> )
+[2016/03/05 09:55:26] <mt> no, I forgot to put it in class NotReally extends String { ... }
+[2016/03/05 09:55:31] <leper`> Tobbi: Yes, mt totally forgot that </sarcasm>
+[2016/03/05 09:55:36] <Tobbi> grr
+[2016/03/05 09:56:02] <Tobbi> mt: NotReally implements SarcasticComment
+[2016/03/05 09:56:25] <Tobbi> mt: If you know so much about development, why don't you help coding supertux, actually?
+[2016/03/05 09:56:28] <leper`> mt: actually Chakra Core seems to have relatively nice (didn't look very long) APIs, but that thing isn't portable yet
+[2016/03/05 09:56:30] <Tobbi> You could be a great help.
+[2016/03/05 09:56:52] <mt> Tobbi: because I don't know anything about graphics code
+[2016/03/05 09:57:01] <mt> and SDL and physfs
+[2016/03/05 09:57:01] <Tobbi> haha :D
+[2016/03/05 09:57:06] <Tobbi> mt: Neither do I
+[2016/03/05 09:57:15] <leper`> (but since I don't expect that API to be stable (why would they do that, all the other engines don't do that either)...)
+[2016/03/05 09:57:43] <leper`> physfs is just union mounting
