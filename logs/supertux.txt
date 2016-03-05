@@ -14628,3 +14628,19 @@
 [2016/03/05 03:22:05] <mt> oh that breaks that
 [2016/03/05 03:22:09] -ChanServ- mt (mteufel) set flags -AVv on *!*@supertux/*
 [2016/03/05 03:22:09] @ Mode -v Ispy by ChanServ
+[2016/03/05 04:07:04] @ Quit: leyyin: Ping timeout: 264 seconds
+[2016/03/05 04:18:55] @ Quit: tux|dude: Quit: Leaving
+[2016/03/05 04:19:44] <Tobbi> Hello.
+[2016/03/05 04:24:55] @ leyyin joined channel #supertux
+[2016/03/05 04:32:23] <Tobbi> C'mon join the joyride...
+[2016/03/05 04:32:27] <Tobbi> Join the joyride.
+[2016/03/05 04:32:29] <Tobbi> :D
+[2016/03/05 04:53:48] <Ispy> [10supertux] 07brmbrmcar opened issue 09#372: Cave backgrounds cause poor fps 13https://git.io/v2bNh
+[2016/03/05 04:58:40] @ Quit: VargaD: Ping timeout: 244 seconds
+[2016/03/05 05:00:20] @ VargaD joined channel #supertux
+[2016/03/05 05:12:13] <Ispy> [10supertux] 07tobbi commented on issue 09#372: Cave backgrounds cause poor fps 13https://git.io/v2bNh
+[2016/03/05 05:12:32] <Ispy> [10supertux] 07brmbrmcar commented on issue 09#372: Cave backgrounds cause poor fps 13https://git.io/v2bNh
+[2016/03/05 05:14:52] <Ispy> [10supertux] 07brmbrmcar commented on issue 09#372: Cave backgrounds cause poor fps 13https://git.io/v2bNh
+[2016/03/05 05:19:22] <Ispy> [10supertux] 07tobbi commented on issue 09#372: Cave backgrounds cause poor fps 13https://git.io/v2bNh
+[2016/03/05 05:20:49] <Ispy> [10supertux] 07brmbrmcar commented on issue 09#372: Cave backgrounds cause poor fps 13https://git.io/v2bNh
+[2016/03/05 05:30:50] <Ispy> [10supertux] 07tobbi opened issue 09#373: Tux dies when jumping on top of gap between block and terrain 13https://git.io/v2bpc
