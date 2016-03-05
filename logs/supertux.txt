@@ -14621,3 +14621,10 @@
 [2016/03/05 01:39:05] @ tux|dude joined channel #supertux
 [2016/03/05 01:44:15] @ Quit: ToBeCloud: Quit: Connection closed for inactivity
 [2016/03/05 01:50:49] @ Quit: Mathnerd314: Ping timeout: 240 seconds
+[2016/03/05 02:00:10] @ leyyin joined channel #supertux
+[2016/03/05 02:23:15] @ Quit: tuxdev_: Ping timeout: 276 seconds
+[2016/03/05 03:21:53] -ChanServ- mt (mteufel) set flags +AVv on *!*@supertux/*
+[2016/03/05 03:21:53] @ Mode +v Ispy by ChanServ
+[2016/03/05 03:22:05] <mt> oh that breaks that
+[2016/03/05 03:22:09] -ChanServ- mt (mteufel) set flags -AVv on *!*@supertux/*
+[2016/03/05 03:22:09] @ Mode -v Ispy by ChanServ
