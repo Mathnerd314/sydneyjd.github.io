@@ -14609,3 +14609,15 @@
 [2016/03/04 18:43:04] @ Quit: tuxdev_: Ping timeout: 264 seconds
 [2016/03/04 20:30:53] @ tux|dude joined channel #supertux
 [2016/03/04 21:22:42] @ Quit: Anupkumar: Quit: Connection closed for inactivity
+[2016/03/04 22:08:39] @ Quit: irungentoo: Remote host closed the connection
+[2016/03/04 22:21:04] @ PixelMonkey joined channel #supertux
+[2016/03/04 22:48:11] @ Quit: PixelMonkey: Quit: Page closed
+[2016/03/04 22:57:28] @ Quit: tux|dude: Quit: Leaving
+[2016/03/05 00:32:03] @ Quit: Necrosporus_: Quit: Leaving
+[2016/03/05 00:50:52] @ tuxdev_ joined channel #supertux
+[2016/03/05 01:19:06] @ Quit: Mathnerd314: Ping timeout: 244 seconds
+[2016/03/05 01:22:21] @ Mathnerd314 joined channel #supertux
+[2016/03/05 01:22:21] @ Mode +v Mathnerd314 by ChanServ
+[2016/03/05 01:39:05] @ tux|dude joined channel #supertux
+[2016/03/05 01:44:15] @ Quit: ToBeCloud: Quit: Connection closed for inactivity
+[2016/03/05 01:50:49] @ Quit: Mathnerd314: Ping timeout: 240 seconds
