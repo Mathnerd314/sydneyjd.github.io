@@ -15776,3 +15776,14 @@
 [2016/03/05 19:03:04] @ alket_ joined channel #supertux
 [2016/03/05 19:05:52] @ Quit: alket: Ping timeout: 264 seconds
 [2016/03/05 19:43:43] @ irungentoo joined channel #supertux
+[2016/03/05 23:14:22] @ tuxdude143 joined channel #supertux
+[2016/03/05 23:17:37] @ Quit: tux|dude: Ping timeout: 244 seconds
+[2016/03/05 23:26:33] @ Quit: tuxdude143: Ping timeout: 240 seconds
+[2016/03/05 23:31:51] @ tux|dude joined channel #supertux
+[2016/03/05 23:36:06] @ Quit: irungentoo: Remote host closed the connection
+[2016/03/06 00:04:15] @ Quit: ToBeCloud: Quit: Connection closed for inactivity
+[2016/03/06 00:22:31] @ tuxdude143 joined channel #supertux
+[2016/03/06 00:23:37] @ Quit: tux|dude: Ping timeout: 240 seconds
+[2016/03/06 01:22:57] @ stewboy joined channel #supertux
+[2016/03/06 01:31:03] <Ispy> [10supertux] 07hokching starred 09supertux - 13https://git.io/v2AtB
+[2016/03/06 01:40:31] @ tuxdev_ joined channel #supertux
