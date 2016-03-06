@@ -15815,3 +15815,7 @@
 [2016/03/06 03:53:58] <Ispy> [10supertux] 07maxteufel labeled pull request 09#378: Fix #377 13https://git.io/v2AsK
 [2016/03/06 03:55:23] <mt> nope, that's not supposed to be visible
 [2016/03/06 03:57:32] <mt> either this is new, or it never happened here before
+[2016/03/06 04:24:50] @ Quit: tuxdude143: Quit: Leaving
+[2016/03/06 04:32:15] @ alket_ is now known as alket
+[2016/03/06 04:50:52] @ Quit: tuxdev_: Ping timeout: 264 seconds
+[2016/03/06 05:23:55] <Tobbi> Hello.
