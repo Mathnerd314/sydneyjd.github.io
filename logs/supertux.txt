@@ -16124,3 +16124,11 @@
 [2016/03/06 15:21:50] @ Quit: lumidify: Quit: Leaving
 [2016/03/06 15:38:54] @ Quit: tux|dude: Quit: Leaving
 [2016/03/06 15:43:16] @ tux|dude joined channel #supertux
+[2016/03/06 16:06:10] @ stewboy joined channel #supertux
+[2016/03/06 16:39:36] @ Quit: tux|dude: Quit: Leaving
+[2016/03/06 16:42:42] @ Quit: Anupkumar: Quit: Connection closed for inactivity
+[2016/03/06 17:00:03] @ Quit: swift110: Ping timeout: 248 seconds
+[2016/03/06 17:27:41] @ ToBeCloud joined channel #supertux
+[2016/03/06 17:31:33] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/03/06 17:34:59] @ tux|dude joined channel #supertux
+[2016/03/06 17:59:46] @ Quit: alket: Quit: Tung
