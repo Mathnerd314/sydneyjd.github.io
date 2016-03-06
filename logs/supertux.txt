@@ -15787,3 +15787,31 @@
 [2016/03/06 01:22:57] @ stewboy joined channel #supertux
 [2016/03/06 01:31:03] <Ispy> [10supertux] 07hokching starred 09supertux - 13https://git.io/v2AtB
 [2016/03/06 01:40:31] @ tuxdev_ joined channel #supertux
+[2016/03/06 02:42:12] @ mcmic joined channel #supertux
+[2016/03/06 02:43:04] <mcmic> Hello, I want to explain to someone under windows how to use the --record-demo option
+[2016/03/06 02:43:28] <mcmic> Is the windows console still called cmd.exe nowadays? Can it be found easily in the menus?
+[2016/03/06 02:43:39] <mcmic> What is the supertux command? supertux.exe?
+[2016/03/06 02:43:48] @ Quit: Mathnerd314: Ping timeout: 244 seconds
+[2016/03/06 02:43:53] <mcmic> And where are the data stored under windows ?
+[2016/03/06 02:45:53] <mt> it's still cmd, yeah
+[2016/03/06 02:46:09] <mt> (there's also PowerShell, but that's slightly different)
+[2016/03/06 02:46:25] <mt> The installer offers an option where the data will be stored iirc
+[2016/03/06 02:46:40] <mt> most likely in C:\Program Files
+[2016/03/06 02:46:51] <mt> \SuperTux
+[2016/03/06 02:50:44] <mcmic> mt: and what is the command?
+[2016/03/06 02:51:29] <mt> there's probably only one exe in that directory
+[2016/03/06 02:51:55] <mt> most likely supertux.exe, supertux2.exe or differently cased variants of those two
+[2016/03/06 02:52:10] <mt> (not sure if NTFS is case-sensitive)
+[2016/03/06 02:53:10] <mcmic> ok
+[2016/03/06 02:53:38] <mcmic> Oh so he needs to go in supertux directory first? supertux2.exe for instance won’t work anywhere?
+[2016/03/06 02:54:10] <mt> I don't think the separate directories in program files are in a global path on windows
+[2016/03/06 02:54:27] <mcmic> hum :-/
+[2016/03/06 02:54:43] <mcmic> Well I send a beginning of answer I’ll see of far he goes with this.
+[2016/03/06 02:56:17] <mcmic> mt: thanks
+[2016/03/06 03:49:41] <Ispy> [10supertux] 07brmbrmcar opened pull request 09#378: Fix #377 13https://git.io/v2AsK
+[2016/03/06 03:53:17] <Ispy> [10supertux] 07maxteufel commented on issue 09#378: Fix #377 13https://git.io/v2AsK
+[2016/03/06 03:53:44] <Ispy> [10supertux] 07maxteufel labeled pull request 09#378: Fix #377 13https://git.io/v2AsK
+[2016/03/06 03:53:51] <Ispy> [10supertux] 07maxteufel labeled pull request 09#378: Fix #377 13https://git.io/v2AsK
+[2016/03/06 03:53:58] <Ispy> [10supertux] 07maxteufel labeled pull request 09#378: Fix #377 13https://git.io/v2AsK
+[2016/03/06 03:55:23] <mt> nope, that's not supposed to be visible
+[2016/03/06 03:57:32] <mt> either this is new, or it never happened here before
