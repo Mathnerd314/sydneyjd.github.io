@@ -15819,3 +15819,13 @@
 [2016/03/06 04:32:15] @ alket_ is now known as alket
 [2016/03/06 04:50:52] @ Quit: tuxdev_: Ping timeout: 264 seconds
 [2016/03/06 05:23:55] <Tobbi> Hello.
+[2016/03/06 06:08:36] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- In tests, 0x09 out of 0x0A l33t h4x0rz prefer it :)
+[2016/03/06 07:11:53] @ Quit: mcmic: Quit: Konversation terminated!
+[2016/03/06 07:15:00] @ claymore2 joined channel #supertux
+[2016/03/06 07:29:39] @ leyyin joined channel #supertux
+[2016/03/06 07:34:09] <leyyin> SUPER TUX
+[2016/03/06 07:34:35] <Ispy> [10supertux] 07Savsish opened issue 09#379: Remove all pre exiting po files and replace them with language packs 13https://git.io/v2Az4
+[2016/03/06 07:34:39] @ Wuzzy joined channel #supertux
+[2016/03/06 07:44:46] @ Quit: claymore2: Quit: Leaving
+[2016/03/06 07:47:49] @ djdeedahx0 joined channel #supertux
+[2016/03/06 07:48:03] @ djdeedahx0 left channel #supertux ("user has /parted this channel")
