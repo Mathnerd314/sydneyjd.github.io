@@ -15761,3 +15761,18 @@
 [2016/03/05 16:50:12] @ stewboy joined channel #supertux
 [2016/03/05 17:31:02] @ Quit: stewboy: Quit:  I love my HydraIRC -> http://www.hydrairc.com <-
 [2016/03/05 17:45:28] @ Quit: claymore2: Quit: Leaving
+[2016/03/05 18:00:41] <ToBeFree> Tobbi, the goal is not needed to end the level, the other key levels have no goal
+[2016/03/05 18:00:53] <ToBeFree> when touching a key, Tux always ends the level, doing a backflip
+[2016/03/05 18:04:56] <Ispy> [10supertux] 07ToBeFree opened issue 09#377: It is possible to finish "knee-deep in the depth" without taking the key 13https://git.io/v2N9K
+[2016/03/05 18:07:01] <ToBeFree> Does SuperTux have a low/high-gravity level yet?
+[2016/03/05 18:07:17] <ToBeFree> I just had a look at http://supertux.lethargik.org/wiki/Editor_Guide and one of the most basic settings is the gravity of the level
+[2016/03/05 18:07:38] <ToBeFree> might be a nice gimmick. There's an air flower now, but lower gravity might be even more fun
+[2016/03/05 18:16:26] <ToBeFree> Meh
+[2016/03/05 18:16:55] <ToBeFree> the game teases me with a blue level on a small island with a mountain on it in world 1 that can not be reached... can it?
+[2016/03/05 18:22:27] <ToBeFree> woha!
+[2016/03/05 18:22:35] <ToBeFree> I found it :D
+[2016/03/05 18:23:39] @ Quit: nerdopolis__: Ping timeout: 244 seconds
+[2016/03/05 18:23:51] @ nerdopolis joined channel #supertux
+[2016/03/05 19:03:04] @ alket_ joined channel #supertux
+[2016/03/05 19:05:52] @ Quit: alket: Ping timeout: 264 seconds
+[2016/03/05 19:43:43] @ irungentoo joined channel #supertux
