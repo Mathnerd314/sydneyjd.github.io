@@ -16023,3 +16023,104 @@
 [2016/03/06 13:49:30] <Tobbi> Through public / private key?
 [2016/03/06 13:50:29] <Tobbi> So, I want the travis build to run makepot.sh and check in the updated translation files into the translation directory...
 [2016/03/06 13:50:32] <Tobbi> Is that possible?
+[2016/03/06 14:09:04] <leyyin> travis would need push access I guess
+[2016/03/06 14:13:20] @ farooghkz joined channel #supertux
+[2016/03/06 14:15:10] <farooghkz> tobbi, main part of st is written in cpp not py.y?
+[2016/03/06 14:20:49] <Tobbi> farooghkz: main part is written in C++.
+[2016/03/06 14:21:01] <Tobbi> Main part of the *external* editor is written in Python.
+[2016/03/06 14:21:13] <Tobbi> Hume is developing an internal editor...
+[2016/03/06 14:21:13] <farooghkz> yes
+[2016/03/06 14:21:30] <Tobbi> leyyin: Yeah, but travis is not actually a user...
+[2016/03/06 14:21:32] <Tobbi> unless...
+[2016/03/06 14:21:34] <farooghkz> internal level editor?
+[2016/03/06 14:21:37] <Tobbi> We could actually make that a user.
+[2016/03/06 14:21:45] <Tobbi> farooghkz: A feature planned for 0.5 or 0.6
+[2016/03/06 14:22:33] <farooghkz> tobbi, my question was that y st is written in cpp?
+[2016/03/06 14:22:51] <farooghkz> py is easier2use
+[2016/03/06 14:23:00] <Tobbi> farooghkz: Py needs Python installed.
+[2016/03/06 14:23:21] <farooghkz> np
+[2016/03/06 14:23:46] <farooghkz> on all distros its installed
+[2016/03/06 14:24:04] <Tobbi> farooghkz: Not on Windows.
+[2016/03/06 14:24:09] <Tobbi> Not sure about Mac.
+[2016/03/06 14:24:12] <leyyin> oython is good for scripting
+[2016/03/06 14:24:16] <leyyin> not so much for games
+[2016/03/06 14:24:16] <farooghkz> for win. users u can install py with st
+[2016/03/06 14:24:23] <leyyin> and when you need performance
+[2016/03/06 14:24:32] <farooghkz> oh k
+[2016/03/06 14:24:43] <farooghkz> but its easier
+[2016/03/06 14:24:45] <Tobbi> farooghkz: No.
+[2016/03/06 14:24:56] <farooghkz> and takes less time
+[2016/03/06 14:24:59] <Tobbi> No, it is not easier. I am used to C++ and I am not that used to Python.
+[2016/03/06 14:25:16] <leyyin> farooghkz, so you use Python everywhere because it is "easier" ?
+[2016/03/06 14:25:43] <farooghkz> well i dont do anything with py
+[2016/03/06 14:25:57] <farooghkz> just simple scripts
+[2016/03/06 14:26:08] <farooghkz> oh
+[2016/03/06 14:26:43] <farooghkz> Py shouldnt be used everywhere. right?
+[2016/03/06 14:27:15] <lumidify> I love Python, but most good libraries are made in C or C++.
+[2016/03/06 14:27:52] <Tobbi> A good part of the supertux ecosystem consists of Python.
+[2016/03/06 14:27:55] <Tobbi> Just not the actual game.
+[2016/03/06 14:28:55] <farooghkz> lol
+[2016/03/06 14:29:02] <Tobbi> I am serious.
+[2016/03/06 14:29:10] <farooghkz> i was going the wrong way
+[2016/03/06 14:29:25] <farooghkz> tobbi not u
+[2016/03/06 14:29:34] <Tobbi> ah ok
+[2016/03/06 14:29:43] <farooghkz> also i lol @ anything
+[2016/03/06 14:29:57] <Tobbi> Not good.
+[2016/03/06 14:29:57] <farooghkz> lol
+[2016/03/06 14:30:45] <farooghkz> idk that i shouldnt use py everywhere!
+[2016/03/06 14:30:50] <farooghkz> lol
+[2016/03/06 14:31:19] <farooghkz> ok i have to learn c and cpp again
+[2016/03/06 14:32:05] <farooghkz> i think cpp is good for gd because of its performance.am i right?
+[2016/03/06 14:32:35] <farooghkz> (sry for these noob questions)
+[2016/03/06 14:34:03] <Tobbi> farooghkz: If you want to, you can only just test the game.
+[2016/03/06 14:34:13] <Tobbi> You don't need to use C++
+[2016/03/06 14:35:05] <farooghkz> im going to be a good programmer not a potato!
+[2016/03/06 14:35:23] <leper`> with c++?
+[2016/03/06 14:35:30] <leper`> allocate a few years of time for taht
+[2016/03/06 14:35:37] <leper`> *that
+[2016/03/06 14:35:53] <lumidify> https://github.com/open-source-society/computer-science
+[2016/03/06 14:36:09] <farooghkz> yes with cpp and other
+[2016/03/06 14:36:30] <farooghkz> np i have lots of time :)
+[2016/03/06 14:36:58] <Tobbi> farooghkz: Just study the SuperTux source code.
+[2016/03/06 14:37:15] <Tobbi> And when you have questions, ask me, or, preferably, ask ##c++
+[2016/03/06 14:37:49] <leper`> (or read the standard and docs)
+[2016/03/06 14:37:52] <farooghkz> tobbi, idk sdl, openal, opengl,etc.then just study source code?
+[2016/03/06 14:38:08] <Tobbi> farooghkz: I don't know SDL or OpenAL / OpenGL.
+[2016/03/06 14:38:14] <Tobbi> When I change that code, I just read docs.
+[2016/03/06 14:38:20] <Tobbi> So, don't worry.
+[2016/03/06 14:38:37] <farooghkz> O.o
+[2016/03/06 14:38:57] <farooghkz> code have docs?
+[2016/03/06 14:39:07] <Tobbi> *sigh*
+[2016/03/06 14:39:21] <Tobbi> leper`: Take over, but don't overtake yourself :P
+[2016/03/06 14:39:29] <leper`> but food is ready
+[2016/03/06 14:39:34] <Tobbi> okay, then not.
+[2016/03/06 14:39:35] <farooghkz> supertux code is documented?
+[2016/03/06 14:39:50] <Tobbi> farooghkz: No, the components we use are documented.
+[2016/03/06 14:40:08] <Tobbi> There is documentation for SDL / OpenGL, all the other components.
+[2016/03/06 14:40:28] <leper`> I guess there are also some comments in the SuperTux code, no?
+[2016/03/06 14:40:38] <Tobbi> leper`: Depends.
+[2016/03/06 14:40:47] <Tobbi> leper`: Most of the source code is pretty self-explanatory.
+[2016/03/06 14:41:16] <leper`> well good names are better than outdated docs
+[2016/03/06 14:41:19] <farooghkz> ok
+[2016/03/06 14:42:00] <farooghkz> (sry for trolling,noobing,potatoing,etc)
+[2016/03/06 14:42:33] <Tobbi> farooghkz: I don't mind.
+[2016/03/06 14:42:37] <Tobbi> Not yet, at least.
+[2016/03/06 14:43:39] <farooghkz> (also for fooling)
+[2016/03/06 14:45:01] <Tobbi> farooghkz: Believe me, it is fine. We all start off somewhere.
+[2016/03/06 14:45:40] <farooghkz> ok i try :)
+[2016/03/06 14:46:13] <farooghkz> night late
+[2016/03/06 14:46:13] <farooghkz> slp
+[2016/03/06 14:47:36] @ tux|dude joined channel #supertux
+[2016/03/06 14:52:37] @ farooghkz is now known as farooqkz
+[2016/03/06 14:54:03] @ Quit: lumidify: Ping timeout: 240 seconds
+[2016/03/06 14:54:38] @ farooqkz is now known as faruqkz
+[2016/03/06 15:08:07] @ lumidify joined channel #supertux
+[2016/03/06 15:08:24] <faruqkz> bye
+[2016/03/06 15:08:30] @ faruqkz left channel #supertux ()
+[2016/03/06 15:09:08] @ swift110 joined channel #supertux
+[2016/03/06 15:13:13] @ Quit: ced117: Quit: Quitte
+[2016/03/06 15:16:08] @ Quit: swift110: Changing host
+[2016/03/06 15:16:09] @ swift110 joined channel #supertux
+[2016/03/06 15:21:50] @ Quit: lumidify: Quit: Leaving
+[2016/03/06 15:38:54] @ Quit: tux|dude: Quit: Leaving
+[2016/03/06 15:43:16] @ tux|dude joined channel #supertux
