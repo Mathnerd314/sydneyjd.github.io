@@ -15859,3 +15859,107 @@
 [2016/03/06 09:30:22] <mt> but probably not if you're STUPID LEYYIN
 [2016/03/06 09:36:26] @ claymore2 joined channel #supertux
 [2016/03/06 09:49:27] @ farooghkz joined channel #supertux
+[2016/03/06 10:05:57] @ damascene joined channel #supertux
+[2016/03/06 10:06:10] @ damascene left channel #supertux ("Leaving")
+[2016/03/06 10:13:20] <sydney_untangle> mt: That was unnecessary.
+[2016/03/06 10:13:38] <mt> sydney_untangle: what?
+[2016/03/06 10:16:11] @ Mathnerd314 joined channel #supertux
+[2016/03/06 10:16:11] @ Mode +v Mathnerd314 by ChanServ
+[2016/03/06 10:25:22] <sydney_untangle> mt: calling leyyin stupid.
+[2016/03/06 10:27:35] <leyyin> sigh
+[2016/03/06 10:32:12] <leper`> *STUPID
+[2016/03/06 10:46:23] <Tobbi> sydney_untangle: Be glad that I didn't see this earlier...
+[2016/03/06 10:46:29] <Tobbi> eeh, I meant leyyin
+[2016/03/06 11:03:16] @ Hume2 joined channel #supertux
+[2016/03/06 11:03:16] @ Mode +v Hume2 by ChanServ
+[2016/03/06 11:08:20] <Hume2> Hello
+[2016/03/06 11:20:50] @ lumidify joined channel #supertux
+[2016/03/06 11:20:57] <Ispy> [10supertux] 07Savsish opened pull request 09#381: Added Dutch translation for bonus1 and world1 13https://git.io/v2AQE
+[2016/03/06 11:27:10] <Ispy> [10supertux] 07maxteufel commented on issue 09#381: Added Dutch translation for bonus1 and world1 13https://git.io/v2AQE
+[2016/03/06 11:27:17] <Ispy> [10supertux] 07maxteufel closed pull request 09#381: Added Dutch translation for bonus1 and world1 13https://git.io/v2AQE
+[2016/03/06 11:27:20] <Ispy> [10supertux] Status for commit Added partial Dutch translation for bonus1 by 07Savsish: 04AppVeyor build cancelled 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/429
+[2016/03/06 11:27:56] <Tobbi> Hello Hume2
+[2016/03/06 11:28:32] <mt> Is what we're saying so hard to understand for that idiot?
+[2016/03/06 11:28:50] <Tobbi> I don't know.
+[2016/03/06 11:29:11] <mt> And we'll probably have to wait until tomorrow for GitHub's team to block him
+[2016/03/06 11:29:27] <Tobbi> Yeah.
+[2016/03/06 11:29:41] <farooghkz> whats going on mt?
+[2016/03/06 11:30:17] <Tobbi> Hume2: Have you ever played 0 A.D.
+[2016/03/06 11:30:34] <Hume2> Tobbi: I don't know 0 A.D.
+[2016/03/06 11:30:42] <Tobbi> Hume2: Age of Empires open Source.
+[2016/03/06 11:30:46] <Tobbi> I fail at it.
+[2016/03/06 11:30:48] <mt> farooghkz: https://github.com/SuperTux/supertux/issues?utf8=%E2%9C%93&q=author%3ASavsish
+[2016/03/06 11:31:15] <mt> farooghkz: basically an idiot constantly posting unconstructive and unwelcome issues or pull requests
+[2016/03/06 11:31:25] <farooghkz> mt, cant c links
+[2016/03/06 11:31:38] <Hume2> Tobbi: Say your favourite word to: https://github.com/SuperTux/supertux/issues/380
+[2016/03/06 11:31:39] <Hume2> :D
+[2016/03/06 11:31:53] <Tobbi> Hume2: You mean *sigh* ?
+[2016/03/06 11:32:01] <Hume2> Yes, exactly  :D
+[2016/03/06 11:32:46] <Ispy> [10supertux] 07tobbi closed issue 09#380: Update all language packs 13https://git.io/v2AVP
+[2016/03/06 11:32:49] <Ispy> [10supertux] 07tobbi commented on issue 09#380: Update all language packs 13https://git.io/v2AVP
+[2016/03/06 11:33:10] <mt> farooghkz: Warum verwenden alle so unverständliche Abkürzungen? Das ist vor allem unvorteilhaft gegenüber denen, die eventuell Google Übersetzer verwenden wollen. (use Google Translate if you want to know what I mean)
+[2016/03/06 11:33:25] <Tobbi> I locked #368 as well.
+[2016/03/06 11:33:34] <Tobbi> Just to make sure Savsish doesn't continue there.
+[2016/03/06 11:33:35] <Hume2> That's good.
+[2016/03/06 11:34:14] <Ispy> [10supertux] Status for commit Added partial Dutch translation for bonus1 by 07Savsish: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/114065604
+[2016/03/06 11:34:18] <Tobbi> mt: Have you ever tried 0. A.D?
+[2016/03/06 11:34:40] <mt> no
+[2016/03/06 11:34:44] <farooghkz> tobbi, ?!
+[2016/03/06 11:34:49] <Tobbi> farooghkz: What?
+[2016/03/06 11:35:00] <Hume2> Google Translator is very bad for translating when both languages are different than English.
+[2016/03/06 11:35:12] <mt> Hume2: it does it's job
+[2016/03/06 11:35:25] <farooghkz> tobbi, have you ever tried supertux?
+[2016/03/06 11:35:27] <Hume2> Because it translates firt to English and then to the target language.
+[2016/03/06 11:35:31] <Hume2> *first
+[2016/03/06 11:35:32] <Tobbi> farooghkz: ...
+[2016/03/06 11:35:33] <mt> and I don't understand why people can't press two more keys on their keyboard, instead of using "c" or "u"
+[2016/03/06 11:36:21] <Tobbi> farooghkz: I am sorry, but I am not in a good mood today...this savsish guy has been annoying the whole day.
+[2016/03/06 11:36:43] <Hume2> Oh really? Poor guys.
+[2016/03/06 11:37:03] <Hume2> I'll help you blocking him :)
+[2016/03/06 11:37:13] <Tobbi> Hume2: I already contacted github staff.
+[2016/03/06 11:37:21] <Hume2> That's good.
+[2016/03/06 11:37:29] <farooghkz> hume2, also its bad when one of languages are eng
+[2016/03/06 11:37:51] <Hume2> I know :)
+[2016/03/06 11:38:06] <Hume2> Sometimes it misses to translate a word.
+[2016/03/06 11:38:28] <farooghkz> mt, typing with nokia112 is harder than u think!
+[2016/03/06 11:38:40] <Tobbi> Only 33 commits until i surpassed Matze B...
+[2016/03/06 11:38:48] <Tobbi> In commit count, I mean.
+[2016/03/06 11:38:49] <Tobbi> :D
+[2016/03/06 11:39:12] <mt> this one: https://www.microsoft.com/en-in/mobile/phone/nokia-112/specifications/?
+[2016/03/06 11:39:26] <mt> the hell people use this for IRC?
+[2016/03/06 11:39:36] <Tobbi> Oh god.
+[2016/03/06 11:42:16] <Hume2> English->Czech translation is really terrible :D
+[2016/03/06 11:42:34] <mt> I'm quite surprised Iran even allows IRC access
+[2016/03/06 11:43:01] <Hume2> :D
+[2016/03/06 11:44:02] <mt> They block Google and AWS, limit SSH to 5 KB/s, MITM some sites' TLS certs with a cert issued by a Chinese CA
+[2016/03/06 11:44:24] <farooghkz> mt, why iran would not?
+[2016/03/06 11:45:13] <farooghkz> mt, google isnt block
+[2016/03/06 11:45:22] <mt> farooghkz: because as the government that already blocks things, I'd want to prevent users from communicating with people that don't like the government
+[2016/03/06 11:45:29] <Tobbi> I guess I need a less complex game than 0 A.D
+[2016/03/06 11:46:39] <mt> farooghkz: I'd be interested if it's possible to connect to freenode with an encrypted connection (same server, port 6697, 7000, or 7070, obviously with SSL/TLS enabled)
+[2016/03/06 11:46:46] <farooghkz> tobbi, using linux?
+[2016/03/06 11:46:54] <Tobbi> farooghkz: No, why would I?
+[2016/03/06 11:47:49] <lumidify> Tobbi, have you played Xonotic?
+[2016/03/06 11:47:59] <Tobbi> Nope, don't know that.
+[2016/03/06 11:48:15] <Tobbi> lumidify: Ah, not much into shooters.
+[2016/03/06 11:48:25] <lumidify> It has cool graphics though
+[2016/03/06 11:53:05] <leyyin> Tobbi, because linux is life!
+[2016/03/06 11:53:15] <Ispy> [10supertux] 07Hume2 pushed 1 commit to 09editor 13https://git.io/v2AdI
+[2016/03/06 11:53:18] <Ispy> [10supertux] 07Hume2 14ccec993 Editor now reactivates when the level is saved.
+[2016/03/06 11:53:25] <Ispy> [10supertux] 07Hume2 synchronized pull request 09#269: WIP Level Editor 13https://git.io/vEe13
+[2016/03/06 11:53:42] <Tobbi> leyyin: I got defeated in no time on the second game.
+[2016/03/06 11:53:55] <Tobbi> I built a second city center or what it was quite early in the game.
+[2016/03/06 11:53:58] <leyyin> practice makes perfect
+[2016/03/06 11:54:01] <Tobbi> I don't get how the AI has so many units.
+[2016/03/06 11:54:06] <farooghkz> leyyin, yes also linux is fun
+[2016/03/06 11:54:08] <Tobbi> So early in the game, I mena.
+[2016/03/06 11:54:09] <Tobbi> *mean
+[2016/03/06 11:54:18] <leyyin> you are slow in building resources
+[2016/03/06 11:54:21] <leyyin> most likely
+[2016/03/06 11:54:42] <Tobbi> leyyin: Probably, but what else should I do: I am recruiting units as fast as I can.
+[2016/03/06 11:54:55] <Tobbi> And then assigning the females to food, and the male to wood / stone / metal.
+[2016/03/06 11:55:07] <leyyin> damn 0 AD is sexist
+[2016/03/06 11:55:18] <Tobbi> leyyin: stop it.
+[2016/03/06 11:55:18] <leyyin> better go on a twitter tumblr rampage
+[2016/03/06 11:55:55] <Tobbi> leyyin: So, I wanted to explore some new territory, and built a city center to get that big stone to harvest that.
+[2016/03/06 11:56:07] <Tobbi> Should've probably not done that.
