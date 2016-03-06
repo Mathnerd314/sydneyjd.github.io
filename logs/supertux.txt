@@ -15829,3 +15829,33 @@
 [2016/03/06 07:44:46] @ Quit: claymore2: Quit: Leaving
 [2016/03/06 07:47:49] @ djdeedahx0 joined channel #supertux
 [2016/03/06 07:48:03] @ djdeedahx0 left channel #supertux ("user has /parted this channel")
+[2016/03/06 08:00:55] <Tobbi> leyyin: I'm playing 0. A.D and the AI has a shitload of defence towers. What do I do?
+[2016/03/06 08:01:24] <leyyin> I do not remember if 0 AD had siege
+[2016/03/06 08:01:27] <leyyin> weapons
+[2016/03/06 08:02:09] <Ispy> [10supertux] 07tobbi commented on issue 09#379: Remove all pre exiting po files and replace them with language packs 13https://git.io/v2Az4
+[2016/03/06 08:02:12] <Ispy> [10supertux] 07tobbi closed issue 09#379: Remove all pre exiting po files and replace them with language packs 13https://git.io/v2Az4
+[2016/03/06 08:02:12] <Tobbi> I'll check.
+[2016/03/06 08:07:26] <Ispy> [10supertux] 07Savsish commented on issue 09#379: Remove all pre exiting po files and replace them with language packs 13https://git.io/v2Az4
+[2016/03/06 08:08:00] <mt> didn't we already do that in git?
+[2016/03/06 08:08:22] <mt> or did we say we'll add the change to gitattributes and then just wait until the levels are updated anyway?
+[2016/03/06 08:10:11] <Ispy> [10supertux] 07maxteufel commented on issue 09#379: Remove all pre exiting po files and replace them with language packs 13https://git.io/v2Az4
+[2016/03/06 08:18:54] <Ispy> [10supertux] 07Savsish opened issue 09#380: Update all language packs 13https://git.io/v2AVP
+[2016/03/06 08:22:24] <mt> now what's the issue in this issue?
+[2016/03/06 08:22:27] <mt> is it the \r\n
+[2016/03/06 08:22:38] <mt> is it the incompleteness of translations?
+[2016/03/06 08:22:48] <mt> is it the outdated-ness of the language packs?
+[2016/03/06 08:52:31] @ tuxdev_ joined channel #supertux
+[2016/03/06 09:11:54] @ Anupkumar joined channel #supertux
+[2016/03/06 09:16:13] @ irungentoo joined channel #supertux
+[2016/03/06 09:28:08] <leyyin> Tobbi, you are playing other games other than SUPER TUX?
+[2016/03/06 09:28:12] <leyyin> :O heresy
+[2016/03/06 09:28:18] <Tobbi> leyyin: Yeah.
+[2016/03/06 09:28:18] <Tobbi> :D
+[2016/03/06 09:28:27] <Tobbi> leyyin: And I survived quite long.
+[2016/03/06 09:28:34] <mt> leyyin: yes, we all play STUPID LEYYIN
+[2016/03/06 09:28:59] <leyyin> I want to play STUPID LEYYIN
+[2016/03/06 09:29:09] <leyyin> is it any good?
+[2016/03/06 09:30:08] <mt> of course
+[2016/03/06 09:30:22] <mt> but probably not if you're STUPID LEYYIN
+[2016/03/06 09:36:26] @ claymore2 joined channel #supertux
+[2016/03/06 09:49:27] @ farooghkz joined channel #supertux
