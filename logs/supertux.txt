@@ -15963,3 +15963,63 @@
 [2016/03/06 11:55:18] <leyyin> better go on a twitter tumblr rampage
 [2016/03/06 11:55:55] <Tobbi> leyyin: So, I wanted to explore some new territory, and built a city center to get that big stone to harvest that.
 [2016/03/06 11:56:07] <Tobbi> Should've probably not done that.
+[2016/03/06 12:00:18] <farooghkz> tobbi, also try ecity
+[2016/03/06 12:00:38] <leyyin> Tobbi, multiplayer?: P
+[2016/03/06 12:00:44] <Tobbi> leyyin: No way.
+[2016/03/06 12:01:05] <leyyin> I do not know how to play 0 AD
+[2016/03/06 12:01:09] <leyyin> I am a noob
+[2016/03/06 12:01:11] <Tobbi> leyyin: Yes, you do.
+[2016/03/06 12:01:15] <leyyin> maybe even more than you
+[2016/03/06 12:01:18] <leyyin> I played other RTS games
+[2016/03/06 12:01:24] <Tobbi> leyyin: See, I did not.
+[2016/03/06 12:02:00] <Tobbi> leyyin: I don't know anything about RTS
+[2016/03/06 12:02:34] <leyyin> I will go easy :P
+[2016/03/06 12:02:39] <Tobbi> leyyin: Maybe if I get better one day, we can play...
+[2016/03/06 12:02:42] <Tobbi> but not today.
+[2016/03/06 12:02:56] <Tobbi> leyyin: Seriously, I was defeated by an Easy AI in 10 minutes.
+[2016/03/06 12:02:58] <Tobbi> :D
+[2016/03/06 12:03:03] <Tobbi> I suck at this game.
+[2016/03/06 12:05:22] @ Quit: lumidify: Ping timeout: 260 seconds
+[2016/03/06 12:06:08] <Tobbi> leyyin: I guess I'll watch some more tutorials regarding how to play.
+[2016/03/06 12:07:40] <Ispy> [10supertux] Status for commit Editor now reactivates when the level is saved. by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/114069617
+[2016/03/06 12:18:47] @ alket_ joined channel #supertux
+[2016/03/06 12:19:48] <Hume2> Savsish hasn't been annoying for a longer time o.O
+[2016/03/06 12:20:25] @ Quit: alket: Ping timeout: 240 seconds
+[2016/03/06 12:21:22] <Ispy> [10supertux] Status for commit Editor now reactivates when the level is saved. by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/114069629
+[2016/03/06 12:25:03] <Hume2> Isn't he banned now by the way?
+[2016/03/06 12:25:26] <leyyin> you can't ban the future
+[2016/03/06 12:25:43] <Hume2> How do you think that?
+[2016/03/06 12:26:16] <leyyin> http://science.howstuffworks.com/life/inside-the-mind/human-brain/brain.htm
+[2016/03/06 12:27:54] <mt> Hume2: well, we contacted github staff, but they probably answer tomorrow, since now it's weekend
+[2016/03/06 12:28:45] <Hume2> mt: I know, maybe it just looks like it stopped entertaining him.
+[2016/03/06 12:29:32] <Ispy> [10supertux] Status for commit Editor now reactivates when the level is saved. by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/430
+[2016/03/06 12:32:58] @ alket_ is now known as alket
+[2016/03/06 12:43:36] @ Quit: claymore2: Quit: Leaving
+[2016/03/06 13:07:50] <Ispy> [10supertux] Status for commit Editor now reactivates when the level is saved. by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/431
+[2016/03/06 13:15:54] <farooghkz> y st is written in cpp y not py?
+[2016/03/06 13:19:53] <Tobbi> farooghkz: Internal editor.
+[2016/03/06 13:20:06] <Tobbi> Will be merged for 0.5.0 or so.
+[2016/03/06 13:20:14] <Tobbi> if it's ready by then.
+[2016/03/06 13:24:41] <farooghkz> internal editor?
+[2016/03/06 13:24:59] <Tobbi> farooghkz: You know: Integrated into SuperTux
+[2016/03/06 13:25:23] @ lumidify joined channel #supertux
+[2016/03/06 13:28:52] <farooghkz> bbl
+[2016/03/06 13:29:11] <farooghkz> tobbi, explain that when i back
+[2016/03/06 13:29:22] <Tobbi> What is there to explain? :D
+[2016/03/06 13:29:33] @ Quit: farooghkz: Quit: used jmIrc
+[2016/03/06 13:31:13] <leyyin> Tobbi, https://forum.transmissionbt.com/viewtopic.php?f=4&t=17834
+[2016/03/06 13:31:30] <leyyin> I hope you do not use transmission :P
+[2016/03/06 13:31:46] <Tobbi> leyyin: I don't. What is that?
+[2016/03/06 13:32:05] <Tobbi> Ah.
+[2016/03/06 13:32:11] <Tobbi> leyyin: I don't know anything about BitTorrent.
+[2016/03/06 13:32:25] <leyyin> right, german user
+[2016/03/06 13:32:45] <Tobbi> leyyin: What's that got to do with anything?
+[2016/03/06 13:33:00] <leyyin> you will go to jail if you use torrents
+[2016/03/06 13:33:06] <Tobbi> Probably.
+[2016/03/06 13:33:07] <Tobbi> Dunno.
+[2016/03/06 13:41:45] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/03/06 13:48:54] <Tobbi> mt: ping
+[2016/03/06 13:49:24] <Tobbi> mt: Is there any way we could let the travis build machines checkin updated translation files?
+[2016/03/06 13:49:30] <Tobbi> Through public / private key?
+[2016/03/06 13:50:29] <Tobbi> So, I want the travis build to run makepot.sh and check in the updated translation files into the translation directory...
+[2016/03/06 13:50:32] <Tobbi> Is that possible?
