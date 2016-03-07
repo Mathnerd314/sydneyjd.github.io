@@ -16491,3 +16491,167 @@
 [2016/03/07 13:58:31] @ farooghkz joined channel #supertux
 [2016/03/07 13:58:43] <Hume2> You can make a chaos in voting system, so everyone will accidentally vote you :D
 [2016/03/07 13:59:28] <mt> I'd rather like too see actual consequences against NPD members (and anyone else breaking the law), instead of 'lets ban that party, it will solve all the problems'
+[2016/03/07 14:00:06] <Tobbi> mt: True that, but at least we get rid of their financial foundation first...non-parties won't get any subsidies...
+[2016/03/07 14:00:41] <Tobbi> mt: But I have to admit, for now we have to fear the AfD people more than the NPD ones.
+[2016/03/07 14:01:06] <mt> even worse than those members choosing NPD might be that we can't control them anymore. because we know the NPD exists, we might not know about other small criminal extremist-terrorist organizations that might be created after the NPD is banned
+[2016/03/07 14:01:22] <mt> and yes, I'd say AfD is more of a threat then NPD
+[2016/03/07 14:01:59] <Hume2> A politics party being banned, it resembles me something …
+[2016/03/07 14:02:26] <Tobbi> Hume2: *reminds me of something :P
+[2016/03/07 14:02:33] <mt> Hume2: it's very complicated actually, not really dangerous for serious parties
+[2016/03/07 14:02:41] <Tobbi> Hume2: What does it remind you of?
+[2016/03/07 14:02:49] <Hume2> You know, totality :P
+[2016/03/07 14:03:05] <mt> It's got to be decided by Germany's "supreme court", and there's already been attempts to ban the NPD
+[2016/03/07 14:03:10] <mt> but those failed
+[2016/03/07 14:03:30] <Tobbi> Because there were people from the government (V-Leute) who played an important role in the NPD.
+[2016/03/07 14:04:00] <Tobbi> But this is not the case this time.
+[2016/03/07 14:04:13] <mt> And because of ^^, they also don't want to release investigative documents
+[2016/03/07 14:04:48] <Hume2> Isn't that the sense of politics by the way?
+[2016/03/07 14:05:10] <Tobbi> Hume2: What is?
+[2016/03/07 14:05:28] <Hume2> You know, the mess all arround.
+[2016/03/07 14:05:53] <Tobbi> Hume2: Parties which go against the German constitution are not allowed here.
+[2016/03/07 14:06:06] <Tobbi> And that they go against the constitution has to be proven.
+[2016/03/07 14:06:06] <Hume2> Got it.
+[2016/03/07 14:07:23] <Tobbi> mt: "Ein zweites Verbot von NPD ist bei Bundesregierungsgericht eingerichtet worden. Die Chefs von Bundesländern, sie haben sich nochmal getroffen, und haben nach neuen Gründen gesucht, warum man den Partei verbieten muss. Dabei, es fiel ihnen auf, dass bei erstes Antrag, sie haben vergessen zu schreiben, dass NPD gegen Ausländer ist"
+[2016/03/07 14:07:54] <Tobbi> "Jetzt bei dem zweiten Antrag sie haben es reingeschrieben und sie haben auch geschrieben, dass die Mitglieders von NPD sehr dumm und hässlich sind"
+[2016/03/07 14:08:00] <mt> ffs
+[2016/03/07 14:08:03] <Tobbi> "Damit sie werden wahrscheinlich Klage gewinnen" :D
+[2016/03/07 14:08:11] <mt> Germany's got very competent politicians
+[2016/03/07 14:08:24] <Tobbi> mt: never mind. I am quoting from some non-serious news.
+[2016/03/07 14:08:34] <Tobbi> Actually, one moment.
+[2016/03/07 14:08:46] <Hume2> I've read an article saying that our "politics" is not really politcics. Is it valid in Germany as well?
+[2016/03/07 14:08:56] <Hume2> It's about changing the constants.
+[2016/03/07 14:09:29] <Hume2> And investigating whether <something> was done the best way.
+[2016/03/07 14:09:39] <Tobbi> mt: https://youtu.be/5I53JkzLLp4?t=32s
+[2016/03/07 14:09:40] <Tobbi> This is what I am talking about.
+[2016/03/07 14:10:13] <Tobbi> Might not be your humor.
+[2016/03/07 14:11:19] <mt> oh finally http://www.heise.de/newsticker/meldung/Atomkraftwerk-Fessenheim-soll-Ende-2016-geschlossen-werden-3129460.html (and that's indeed serious news)
+[2016/03/07 14:11:19] @ claymore2 joined channel #supertux
+[2016/03/07 14:11:24] @ Quit: tuxdev_: Ping timeout: 246 seconds
+[2016/03/07 14:11:55] <Ispy> [10supertux] Status for commit Fix: Loading a level in editor after playing a level causes crash by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/114312228
+[2016/03/07 14:12:35] <mt> I mean, it probably wouldn't affect you if something bad happened there; but I probably live in the area that would be evacuated
+[2016/03/07 14:12:56] @ lumidify joined channel #supertux
+[2016/03/07 14:13:08] <Tobbi> mt: Good thing, indeed.
+[2016/03/07 14:13:37] <Hume2> Does the nuclear energy freak you out?
+[2016/03/07 14:13:48] <mt> Turkish politicans are really silly about nuclear power plants
+[2016/03/07 14:14:21] <Hume2> What do they do?
+[2016/03/07 14:14:21] <Tobbi> Currently, there are not that many nuclear power plants near Flensburg.
+[2016/03/07 14:14:23] <mt> We'll open the first one in our country in 2017 or whatever, and decide now that we'll shut them down in 2071
+[2016/03/07 14:14:44] <mt> Hume2: ^^
+[2016/03/07 14:15:06] <Tobbi> :D
+[2016/03/07 14:15:15] <Tobbi> Great planning.
+[2016/03/07 14:16:08] <mt> Hume2: and yeah, in Germany the government decided to shut down all nuclear powerplants by 2022 (or was it 21, 23, or 24) due to the safety issues
+[2016/03/07 14:16:32] <mt> mostly because many were shocked after Fukushima
+[2016/03/07 14:17:25] <Hume2> I've already seen those signs in Autria, even before :P
+[2016/03/07 14:18:15] <mt> In Austria? Actually, they built a nuclear power plant in 1981 or so but before the government decided to give the operator the permission to start it up, they decided they'd not want nuclear power
+[2016/03/07 14:18:32] <mt> The operator of course wasn't all too happy about this
+[2016/03/07 14:19:17] <Tobbi> That's normal when he was overloaded. Sometimes, C++ is a jerk.
+[2016/03/07 14:20:37] <Hume2> mt: I meant those signs on the streets those say that nuclear energy is dangerous.
+[2016/03/07 14:20:47] <mt> ah yeah
+[2016/03/07 14:21:00] <mt> Hume2: what about CZ?
+[2016/03/07 14:21:25] <Tobbi> mt: Electricity in CZ is driven by people riding a bike 24-7.
+[2016/03/07 14:21:29] <Hume2> They say that it's safe and they aren't going to stop.
+[2016/03/07 14:21:32] <Tobbi> It's like a callcenter, except a bike center.
+[2016/03/07 14:21:40] <Tobbi> Hume2: *sigh*, seriously?
+[2016/03/07 14:21:55] <Hume2> Tobbi: Yes, they do.
+[2016/03/07 14:22:10] <Tobbi> Hume2: not a good sign...
+[2016/03/07 14:22:44] <Tobbi> brb, gonna get myself some milk.
+[2016/03/07 14:22:58] <Hume2> Tobbi: This sign? http://i.idnes.cz/07/122/maxi/ITU1fb7ea_temelin.jpg
+[2016/03/07 14:23:22] <Tobbi> Radio Oberösterreich!!!
+[2016/03/07 14:23:30] <Tobbi> Radio Oberösterreich FTW.
+[2016/03/07 14:23:34] <Tobbi> They have quite a good programme.
+[2016/03/07 14:23:37] <Tobbi> I actually don't know.
+[2016/03/07 14:23:41] <Tobbi> so, brb.
+[2016/03/07 14:24:54] <Hume2> Actually, I meant the white sign :P
+[2016/03/07 14:25:10] <Hume2> It says: Temelín is dangerous.
+[2016/03/07 14:25:40] <Hume2> Temelín is one of the two Czech nuclear power plants.
+[2016/03/07 14:30:19] <Ispy> [10supertux] Status for commit Fix bug with level loading by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/436
+[2016/03/07 14:30:27] <leyyin> Tobbi, http://www.ghacks.net/2016/03/07/whats-going-on-at-mozilla/
+[2016/03/07 14:31:18] @ irungentoo joined channel #supertux
+[2016/03/07 14:31:41] <Ispy> [10supertux] Status for commit Fix: Loading a level in editor after playing a level causes crash by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/114312255
+[2016/03/07 14:34:20] <Hume2> Just now I noticed that the notifico is called Ispy.
+[2016/03/07 14:35:54] @ Quit: lumidify: Ping timeout: 260 seconds
+[2016/03/07 14:38:08] <Tobbi> leyyin: huh?
+[2016/03/07 14:38:08] @ farooghkz left channel #supertux ()
+[2016/03/07 14:38:22] <Tobbi> leyyin: Mozilla stopped sponsored tiles.
+[2016/03/07 14:39:00] <leyyin> really? because I am running latest firefox and I can enable it
+[2016/03/07 14:39:08] <Tobbi> leyyin: oh?
+[2016/03/07 14:39:09] <Tobbi> One moment.
+[2016/03/07 14:39:21] <leyyin> Show your top sites
+[2016/03/07 14:39:21] <leyyin> Include suggested sites
+[2016/03/07 14:39:38] <Tobbi> https://blog.mozilla.org/advancingcontent/2015/12/04/advancing-content/
+[2016/03/07 14:40:46] <Tobbi> Right, I have that as well..But maybe they will stop...
+[2016/03/07 14:41:16] <Tobbi> Hume2: By the way: Is Polish in any way similar to Czech?
+[2016/03/07 14:41:33] <Hume2> Tobbi: It is similar.
+[2016/03/07 14:41:49] <Tobbi> Ah, cool.
+[2016/03/07 14:41:51] <Tobbi> Always wondered that.
+[2016/03/07 14:42:29] @ lumidify joined channel #supertux
+[2016/03/07 14:43:22] <Hume2> I unerstand a little Polish.
+[2016/03/07 14:43:37] <Tobbi> I understand the tram announcements.
+[2016/03/07 14:43:54] <Tobbi> :D
+[2016/03/07 14:44:14] <Hume2> Do you mean that "Next station is <station name>"?
+[2016/03/07 14:44:29] <Tobbi> Hume2: Yes.
+[2016/03/07 14:44:32] <Hume2> :D
+[2016/03/07 14:45:31] <Tobbi> Hume2: So, I was in Warsaw in 2012 for a Mozilla Camp...
+[2016/03/07 14:45:35] <Tobbi> And we had to go by tram.
+[2016/03/07 14:46:25] <Hume2> I wan in Waszawa too, but in 2014.
+[2016/03/07 14:46:33] <Hume2> *Warszawa
+[2016/03/07 14:46:34] <Tobbi> Ah, okay.
+[2016/03/07 14:47:03] <Tobbi> Whohoo, shut up and tram with me.
+[2016/03/07 14:47:09] <Hume2> :D
+[2016/03/07 14:47:25] <Tobbi> This announcement is my destiny.
+[2016/03/07 14:47:43] <Tobbi> Or should I say "This 'nouncement is my destiny" so that it fits?
+[2016/03/07 14:48:27] <Hume2> Say "Dys enaunsment is maj destyny" :D
+[2016/03/07 14:48:53] <Tobbi> :D
+[2016/03/07 14:49:11] <Tobbi> Hume2: You know "Shut up and dance" don't you?
+[2016/03/07 14:49:23] <Hume2> No, I don't.
+[2016/03/07 14:49:49] <Tobbi> https://www.youtube.com/watch?v=nbcCG7PkI18
+[2016/03/07 14:49:54] <Tobbi> How can you not know that? :D
+[2016/03/07 14:50:28] <Hume2> I'm usually not interresed in songs, you know.
+[2016/03/07 14:50:52] <Tobbi> :D
+[2016/03/07 14:50:56] <Tobbi> How can you not be interested in songs.
+[2016/03/07 14:51:03] <Tobbi> Songs are awesome as long as they are awesome.
+[2016/03/07 14:51:35] <Hume2> Maybe because I hate English songs? No offense.
+[2016/03/07 14:51:53] <Tobbi> I don't mind.
+[2016/03/07 14:52:26] <Tobbi> As long as they have a nice tune.
+[2016/03/07 14:52:40] <Hume2> I haven't figured out why, maybe because of the tons of [e]?
+[2016/03/07 14:52:50] <Tobbi> [e] ?
+[2016/03/07 14:53:00] <Tobbi> You are highly sensitive...and a little bit autistic, I assume :D
+[2016/03/07 14:53:27] <Tobbi> Okay, maybe not .
+[2016/03/07 14:53:29] <Tobbi> I don't know.
+[2016/03/07 14:53:32] <Hume2> I'm not sensitive to tones, but I'm quite sensitive to vocals.
+[2016/03/07 14:53:46] <Hume2> I preffer [ɛ] :P
+[2016/03/07 14:54:25] <Tobbi> I prefer ø
+[2016/03/07 14:54:41] <Tobbi> ø, ø, ø ø ø, ø ø ø, ø
+[2016/03/07 14:54:45] <Hume2> :D
+[2016/03/07 14:55:26] <Tobbi> I don't know anything about danish letters.
+[2016/03/07 14:55:49] <Hume2> Tobbi: I guess, you like [y] too :)
+[2016/03/07 14:55:58] <Tobbi> I don't know [y] ?
+[2016/03/07 14:56:13] <Hume2> It's [[ü]] in German.
+[2016/03/07 14:56:26] <Hume2> https://en.wikipedia.org/wiki/Close_front_rounded_vowel
+[2016/03/07 14:57:00] <Tobbi> That is weird listening to that.
+[2016/03/07 14:57:11] <Tobbi> One might think I don't have a life.
+[2016/03/07 14:58:34] <Hume2> Wait, it was [ʏ].
+[2016/03/07 14:58:48] <Hume2> https://en.wikipedia.org/wiki/Near-close_near-front_rounded_vowel
+[2016/03/07 15:01:41] <Tobbi> ö
+[2016/03/07 15:03:03] <Hume2> It's [œ̞̈]
+[2016/03/07 15:03:35] @ Quit: lumidify: Ping timeout: 250 seconds
+[2016/03/07 15:05:30] <Hume2> Or also [ø], I don't know.
+[2016/03/07 15:05:53] @ lumidify joined channel #supertux
+[2016/03/07 15:06:30] <Hume2> Yeah, [œ] is short, [ø:] is long I guess.
+[2016/03/07 15:10:52] <Tobbi> okay, enough.
+[2016/03/07 15:11:00] <Tobbi> I'm tired of talking about languages.
+[2016/03/07 15:14:06] <Ispy> [10supertux] Status for commit Fix: Loading a level in editor after playing a level causes crash by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/437
+[2016/03/07 15:14:51] <Tobbi>  /kick Ispy Don't get on my nerves
+[2016/03/07 15:20:18] <Tobbi> /kick Hume2 Don't get on my nerves
+[2016/03/07 15:20:26] <Tobbi> /kick Savsish Don't get on my nerves.
+[2016/03/07 15:20:26] <Tobbi> :D
+[2016/03/07 15:20:29] <Tobbi> Okay, nvm
+[2016/03/07 15:20:31] <Hume2> LOL?
+[2016/03/07 15:34:35] <Tobbi> Hume2: LOL+
+[2016/03/07 15:51:08] @ Quit: lumidify: Ping timeout: 244 seconds
+[2016/03/07 15:54:00] @ lumidify joined channel #supertux
+[2016/03/07 15:54:00] @ Quit: lumidify: Changing host
+[2016/03/07 15:54:00] @ lumidify joined channel #supertux
+[2016/03/07 15:54:45] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/03/07 15:56:22] <Ispy> [10supertux] Status for commit Fix: Loading a level in editor after playing a level causes crash by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/438
+[2016/03/07 15:58:37] @ Quit: lumidify: Client Quit
