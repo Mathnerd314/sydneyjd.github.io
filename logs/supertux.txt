@@ -16212,3 +16212,38 @@
 [2016/03/07 09:51:22] @ tuxdev_ joined channel #supertux
 [2016/03/07 09:53:34] @ Quit: lumidify: Ping timeout: 260 seconds
 [2016/03/07 09:56:38] @ lumidify joined channel #supertux
+[2016/03/07 10:01:58] @ Quit: leper`: Quit: ZNC - http://znc.in
+[2016/03/07 10:03:03] @ leper` joined channel #supertux
+[2016/03/07 10:05:00] @ Quit: lumidify: Ping timeout: 246 seconds
+[2016/03/07 10:09:41] @ lumidify joined channel #supertux
+[2016/03/07 10:09:41] @ Quit: lumidify: Changing host
+[2016/03/07 10:09:41] @ lumidify joined channel #supertux
+[2016/03/07 10:15:34] @ Mathnerd314 joined channel #supertux
+[2016/03/07 10:15:35] @ Mode +v Mathnerd314 by ChanServ
+[2016/03/07 10:17:44] @ Quit: lumidify: Ping timeout: 268 seconds
+[2016/03/07 10:20:15] <Ispy> [10supertux] 07Savsish opened pull request 09#383: Added back "Up we go..." as default message whenever climbing 13https://git.io/v2h0R
+[2016/03/07 10:22:16] @ lumidify joined channel #supertux
+[2016/03/07 10:30:42] @ farooghkz joined channel #supertux
+[2016/03/07 10:40:00] @ Quit: lumidify: Ping timeout: 276 seconds
+[2016/03/07 10:47:20] <Ispy> [10supertux] Status for commit Added back "Up we go..." as default message whenever climbing by 07Savsish: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/114264040
+[2016/03/07 10:55:14] <Tobbi> Of course it failed.
+[2016/03/07 10:55:18] <Tobbi> ffs...Why
+[2016/03/07 10:59:38] <Ispy> [10supertux] Status for commit Added back "Up we go..." as default message whenever climbing by 07Savsish: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/434
+[2016/03/07 11:09:55] <mt> how's that supposed to work even?
+[2016/03/07 11:10:04] <mt> call a string variable
+[2016/03/07 11:11:11] <mt> Tobbi: did github answer already?
+[2016/03/07 11:11:30] <Tobbi> mt: No, they didn't. But I assume they get tons of requests every day.
+[2016/03/07 11:11:50] <mt> they're usually pretty good at answering requests
+[2016/03/07 11:12:08] <Ispy> [10supertux] 07tobbi commented on issue 09#383: Added back "Up we go..." as default message whenever climbing 13https://git.io/v2h0R
+[2016/03/07 11:12:15] <Tobbi> mt: oh, okay.
+[2016/03/07 11:12:16] <Ispy> [10supertux] 07tobbi closed pull request 09#383: Added back "Up we go..." as default message whenever climbing 13https://git.io/v2h0R
+[2016/03/07 11:12:18] <mt> I already contacted them two times, took them less than 12 hours to reply
+[2016/03/07 11:12:37] <Tobbi> mt: Until they do get in contact with me, I will close and lock every single issue / PR of this guy.
+[2016/03/07 11:12:41] <Tobbi> I don't have time for this tomfoolery.
+[2016/03/07 11:18:22] <Ispy> [10supertux] 07brmbrmcar opened issue 09#384: Make sprites go to default when the sprite file is not found 13https://git.io/v2hD0
+[2016/03/07 11:19:08] <Tobbi> He took my nerves, I do know how it happened. He took the code and he said: "Oh, don't you dare close this. Just keep your eyes on it. I said: You're holding back, he said: Shut up and merge for me. This pull request's my destiny.
+[2016/03/07 11:19:14] <Tobbi> he said: Whohoo, shut up and merge for me.
+[2016/03/07 11:21:50] @ Quit: farooghkz: Ping timeout: 248 seconds
+[2016/03/07 11:23:20] @ leyyin joined channel #supertux
+[2016/03/07 11:24:06] <Tobbi> Deep in his eyes, I think I see annoyance, I realize, this is his last chance.
+[2016/03/07 11:41:03] @ Wuzzy joined channel #supertux
