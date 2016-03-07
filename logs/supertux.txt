@@ -16655,3 +16655,8 @@
 [2016/03/07 15:54:45] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
 [2016/03/07 15:56:22] <Ispy> [10supertux] Status for commit Fix: Loading a level in editor after playing a level causes crash by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/438
 [2016/03/07 15:58:37] @ Quit: lumidify: Client Quit
+[2016/03/07 16:11:59] <Tobbi> nerv
+[2016/03/07 16:23:00] @ stewboy joined channel #supertux
+[2016/03/07 16:52:06] @ Quit: claymore2: Quit: Leaving
+[2016/03/07 17:00:06] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/03/07 17:32:42] @ Quit: Anupkumar: Quit: Connection closed for inactivity
