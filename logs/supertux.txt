@@ -16180,3 +16180,24 @@
 [2016/03/07 03:54:58] @ Quit: tuxdude143: Quit: Leaving
 [2016/03/07 03:56:11] @ leyyin joined channel #supertux
 [2016/03/07 05:58:07] @ Quit: MCMiic: Remote host closed the connection
+[2016/03/07 06:20:16] @ MCMiic joined channel #supertux
+[2016/03/07 06:37:47] @ Quit: stewboy: Read error: Connection reset by peer
+[2016/03/07 06:44:42] @ fadi_ joined channel #supertux
+[2016/03/07 06:45:37] <fadi_> hey guys
+[2016/03/07 06:46:06] @ Quit: MCMiic: Ping timeout: 248 seconds
+[2016/03/07 06:48:02] <Ispy> [10supertux] 07RyanSwann1 starred 09supertux - 13https://git.io/v2pSm
+[2016/03/07 06:48:54] @ MCMiic joined channel #supertux
+[2016/03/07 06:50:17] <fadi_> anyone there?
+[2016/03/07 06:50:52] @ lumidify joined channel #supertux
+[2016/03/07 06:50:52] @ Quit: lumidify: Changing host
+[2016/03/07 06:50:52] @ lumidify joined channel #supertux
+[2016/03/07 06:51:05] <fadi_> guys not talk today?
+[2016/03/07 06:51:08] <fadi_> So sad
+[2016/03/07 06:51:19] <fadi_> SAAADDDDD
+[2016/03/07 06:51:30] <fadi_> :(
+[2016/03/07 06:52:59] @ fadi_ left channel #supertux ()
+[2016/03/07 06:53:42] <Tobbi> Hello.
+[2016/03/07 06:55:08] @ Quit: MCMiic: Quit: Konversation terminated!
+[2016/03/07 06:55:12] <Ispy> [10supertux] 07tobbi commented on issue 09#334: Haywire bomb game crash  13https://git.io/v2Rgy
+[2016/03/07 06:55:14] <Ispy> [10supertux] 07tobbi closed issue 09#334: Haywire bomb game crash  13https://git.io/v2Rgy
+[2016/03/07 07:10:03] @ Quit: lumidify: Ping timeout: 264 seconds
