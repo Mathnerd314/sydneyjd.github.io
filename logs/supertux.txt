@@ -16132,3 +16132,13 @@
 [2016/03/06 17:31:33] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
 [2016/03/06 17:34:59] @ tux|dude joined channel #supertux
 [2016/03/06 17:59:46] @ Quit: alket: Quit: Tung
+[2016/03/06 18:24:39] @ Quit: tux|dude: Ping timeout: 244 seconds
+[2016/03/06 18:40:40] @ Joined channel #supertux
+[2016/03/06 18:40:40] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/03/06 18:40:40] @ Topic set by mt on 2016-03-03 07:24:03 -0500
+[2016/03/06 18:40:45] @ Mode +Cntzj 5:10 by sinisalo.freenode.net
+[2016/03/06 18:40:54] @ Mode +v red_bot by ChanServ
+[2016/03/06 19:00:26] @ tux|dude joined channel #supertux
+[2016/03/06 19:20:13] @ Quit: Mathnerd314: Ping timeout: 252 seconds
+[2016/03/06 19:26:00] <Ispy> [10supertux] 07IndianaTux commented on issue 09#334: Haywire bomb game crash  13https://git.io/v2Rgy
+[2016/03/06 19:29:35] @ Quit: tux|dude: Quit: Leaving
