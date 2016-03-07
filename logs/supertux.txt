@@ -16201,3 +16201,14 @@
 [2016/03/07 06:55:12] <Ispy> [10supertux] 07tobbi commented on issue 09#334: Haywire bomb game crash  13https://git.io/v2Rgy
 [2016/03/07 06:55:14] <Ispy> [10supertux] 07tobbi closed issue 09#334: Haywire bomb game crash  13https://git.io/v2Rgy
 [2016/03/07 07:10:03] @ Quit: lumidify: Ping timeout: 264 seconds
+[2016/03/07 08:12:27] @ octo_ is now known as octo
+[2016/03/07 08:21:55] <Ispy> [10supertux] 07tobbi commented on issue 09#382: I can't kill some badguys with fireball? 13https://git.io/v2xPa
+[2016/03/07 08:21:57] <Ispy> [10supertux] 07tobbi closed issue 09#382: I can't kill some badguys with fireball? 13https://git.io/v2xPa
+[2016/03/07 08:22:40] <Tobbi> Annoying, annoying...
+[2016/03/07 08:32:25] @ Quit: leyyin: Ping timeout: 240 seconds
+[2016/03/07 08:47:51] @ swift110 joined channel #supertux
+[2016/03/07 09:09:03] @ Quit: swift110: Ping timeout: 240 seconds
+[2016/03/07 09:14:27] @ lumidify joined channel #supertux
+[2016/03/07 09:51:22] @ tuxdev_ joined channel #supertux
+[2016/03/07 09:53:34] @ Quit: lumidify: Ping timeout: 260 seconds
+[2016/03/07 09:56:38] @ lumidify joined channel #supertux
