@@ -16147,3 +16147,12 @@
 [2016/03/06 21:06:42] @ Quit: Wuzzy: Ping timeout: 260 seconds
 [2016/03/06 21:07:55] @ Wuzzy joined channel #supertux
 [2016/03/06 21:48:25] @ tux|dude joined channel #supertux
+[2016/03/06 22:10:54] @ Quit: tux|dude: Ping timeout: 248 seconds
+[2016/03/06 22:13:05] @ tux|dude joined channel #supertux
+[2016/03/06 22:24:45] <Ispy> [10supertux] 07Savsish opened issue 09#382: I can't kill some badguys with fireball? 13https://git.io/v2xPa
+[2016/03/06 22:59:18] @ Quit: irungentoo: Ping timeout: 276 seconds
+[2016/03/06 23:14:15] @ Quit: ToBeCloud: Quit: Connection closed for inactivity
+[2016/03/07 00:18:40] @ Quit: Wuzzy: Remote host closed the connection
+[2016/03/07 00:52:25] @ Anupkumar joined channel #supertux
+[2016/03/07 01:35:10] @ Quit: tux|dude: Ping timeout: 248 seconds
+[2016/03/07 01:58:42] @ tux|dude joined channel #supertux
