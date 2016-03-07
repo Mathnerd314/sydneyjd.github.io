@@ -16247,3 +16247,247 @@
 [2016/03/07 11:23:20] @ leyyin joined channel #supertux
 [2016/03/07 11:24:06] <Tobbi> Deep in his eyes, I think I see annoyance, I realize, this is his last chance.
 [2016/03/07 11:41:03] @ Wuzzy joined channel #supertux
+[2016/03/07 12:01:55] @ Hume2 joined channel #supertux
+[2016/03/07 12:01:55] @ Mode +v Hume2 by ChanServ
+[2016/03/07 12:02:03] <Hume2> Hello
+[2016/03/07 12:02:46] <Hume2> Has that sausuge guy got a banana finally?
+[2016/03/07 12:07:27] <Ispy> [10supertux] 07Hume2 commented on issue 09#384: Make sprites go to default when the sprite file is not found 13https://git.io/v2hD0
+[2016/03/07 12:10:20] <mt> Hume2: apparently not yet
+[2016/03/07 12:10:29] <Hume2> I see.
+[2016/03/07 12:10:40] <mt> did you see his last PR?
+[2016/03/07 12:10:52] <Hume2> Yes, that was lollious.
+[2016/03/07 12:10:55] <mt> he called a string variable like test("hello")
+[2016/03/07 12:11:11] <Hume2> I haven't seen that.
+[2016/03/07 12:11:16] <Hume2> *me looks
+[2016/03/07 12:11:20] * Hume2 looks
+[2016/03/07 12:13:00] <Hume2> mt: I can't find it.
+[2016/03/07 12:13:14] <mt> https://github.com/SuperTux/supertux/pull/383/files
+[2016/03/07 12:13:15] <Hume2> Maybe better, don't bother.
+[2016/03/07 12:13:46] <Hume2> mt: I found that, but I didn't see the "hello" thing.
+[2016/03/07 12:13:55] <mt> it was an example
+[2016/03/07 12:14:04] <mt> because I couldn't remember the exact thing
+[2016/03/07 12:14:16] <mt> anyway, why would you call a string?
+[2016/03/07 12:14:20] <Hume2> I can imagine it.
+[2016/03/07 12:14:34] <Hume2> He needs a banana.
+[2016/03/07 12:15:45] <mt> Hume2: https://urandom.eu.org/i/wWGN1UYy.png
+[2016/03/07 12:16:08] <Hume2> :D
+[2016/03/07 12:18:09] <Hume2> mt: Is it safe to edit the wiki via the web gui?
+[2016/03/07 12:18:37] <mt> at https://github.com/SuperTux/supertux/wiki/Home/_edit, no
+[2016/03/07 12:19:00] <mt> https://github.com/SuperTux/wiki/edit/master/Home.md is fine
+[2016/03/07 12:19:11] <mt> (same for any other page)
+[2016/03/07 12:19:17] <Hume2> Thanks.
+[2016/03/07 12:19:33] <mt> make sure to use an appropriate commit message
+[2016/03/07 12:19:47] <mt> and yeah
+[2016/03/07 12:20:02] <mt> edits to SuperTux/wiki notify travis
+[2016/03/07 12:20:15] <mt> which then force pushes that repo to SuperTux.wiki
+[2016/03/07 12:20:27] <mt> not even force push
+[2016/03/07 12:20:38] <mt> so editing SuperTux.wiki would break SuperTux/wiki
+[2016/03/07 12:20:44] <mt> https://github.com/SuperTux/wiki/blob/master/.travis.yml#L27
+[2016/03/07 12:21:40] <Hume2> So pushing to the SuperTux/wiki repository should update the SuperTux/supertux wiki, right?
+[2016/03/07 12:21:41] <Some_Person> Are there builds of the level editor for Windows available?
+[2016/03/07 12:22:23] @ alket joined channel #supertux
+[2016/03/07 12:22:55] <mt> Some_Person: the C# one? no, some old ones might still be available on that site linked to in the wiki, if it's still online
+[2016/03/07 12:23:05] <mt> flexlay, you don't need to compile that
+[2016/03/07 12:23:12] <mt> the in-game one, nope
+[2016/03/07 12:23:27] <Some_Person> oh wow, didn't realize there were 3 editors
+[2016/03/07 12:23:54] <Some_Person> which one is recommended for use right now?
+[2016/03/07 12:25:26] <Some_Person> I'm willing to compile something myself if necessary
+[2016/03/07 12:26:21] <Hume2> Well, I use the mono C# editor, because it still seems better in some things than flexlay.
+[2016/03/07 12:26:50] <Hume2> However, it's no longer in development, so some stuff can be outdated.
+[2016/03/07 12:27:18] <Hume2> The flexlay editor is in development, but still has some bugs.
+[2016/03/07 12:27:44] <Ispy> [10supertux] 07brmbrmcar commented on issue 09#384: Make sprites go to default when the sprite file is not found 13https://git.io/v2hD0
+[2016/03/07 12:27:56] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/03/07 12:28:07] @ Hume2 joined channel #supertux
+[2016/03/07 12:28:08] @ Mode +v Hume2 by ChanServ
+[2016/03/07 12:28:30] <Hume2> The ingame editor has still some bugs and is not appropriate for pro level editing.
+[2016/03/07 12:29:15] <Hume2> It's supposed to be for the beginners.
+[2016/03/07 12:29:17] <mt> if you want to contribute to a pro level editor, use flexlay ;)
+[2016/03/07 12:29:35] <mt> if you want to contribute to a beginner level editor, use the in-game-one
+[2016/03/07 12:29:35] <Hume2> pro :D
+[2016/03/07 12:29:49] <mt> if you don't want to contribute, use the C# one
+[2016/03/07 12:30:58] <mt> >_> I hate licenses. There's tons of MIT/X11/BSD/ISC-style licenses
+[2016/03/07 12:31:13] <mt> and I have to choose one for this one C file
+[2016/03/07 12:32:37] <mt> the project's usual new license is a custom one using the ISC grant with THE BSD LIABILITY DISCLAIMER
+[2016/03/07 12:32:45] <Some_Person> Just to give you an idea of what I want to do, I want to overhaul that crappy level I left in the game years back
+[2016/03/07 12:33:08] <mt> Some_Person: I guess the C# one is still the best idea for level editing right now
+[2016/03/07 12:33:22] <Hume2> I think so.
+[2016/03/07 12:33:28] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/03/07 12:33:35] <Some_Person> I might steal parts of Under Construction to do it
+[2016/03/07 12:33:43] <mt> there was some czech site where outdated binaries were hosted for it
+[2016/03/07 12:33:45] @ Hume2 joined channel #supertux
+[2016/03/07 12:33:46] @ Mode +v Hume2 by ChanServ
+[2016/03/07 12:33:49] <mt> there should be a link in the old wiki
+[2016/03/07 12:33:59] <mt> but I don't know if that's still up
+[2016/03/07 12:34:13] <mt> Hume2: why are you constantly disconnecting?
+[2016/03/07 12:34:26] <Hume2> mt: Weak connection I guess.
+[2016/03/07 12:34:37] <mt> it's clean QUITs, actually
+[2016/03/07 12:34:47] <mt> 18:33:28 <-- Hume2 (55474867@supertux/Hume2) has quit (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+[2016/03/07 12:35:01] <Hume2> I have no idea why this happens.
+[2016/03/07 12:35:38] <Some_Person> I think I'll give flexlay a try at least. Thanks for explaining the state of things!
+[2016/03/07 12:52:31] <sydney_untangle> Hume2: Try a different client? :D
+[2016/03/07 12:53:23] <Hume2> This is a different client :P
+[2016/03/07 12:53:36] <sydney_untangle> Hrm. ;)
+[2016/03/07 12:53:43] <mt> use a non-web client
+[2016/03/07 12:54:00] <mt> or one that doesn't disconnect you (e.g. irccloud)
+[2016/03/07 12:54:13] <Hume2> I like web clients, because they don't block my conzole.
+[2016/03/07 12:54:29] <mt> open a second console?
+[2016/03/07 12:54:35] <mt> use a GUI client?
+[2016/03/07 12:54:55] <Hume2> I can open two, but then I have to choose between them both every time I want to use a conzole.
+[2016/03/07 12:55:16] <mt> what even is a "conzole" (z?)
+[2016/03/07 12:56:22] <Hume2> I forgot that it's written with s.
+[2016/03/07 12:56:43] <mt> what terminal emulator do you use?
+[2016/03/07 12:56:52] <mt> don't tell me you're using actual ttys
+[2016/03/07 12:57:02] <Hume2> I use the normal terminal.
+[2016/03/07 12:57:11] <mt> "the normal terminal"
+[2016/03/07 12:57:31] <mt> I can also use urxvt on KDE and call that my normal terminal
+[2016/03/07 12:57:49] <mt> or gnome-terminal with dwm
+[2016/03/07 12:58:35] <Hume2> I think that it is that gnome terminal, I don't care.
+[2016/03/07 12:59:02] <mt> well, what's so difficult with choosing one or another window
+[2016/03/07 12:59:04] <mt> or a tab
+[2016/03/07 12:59:50] <Hume2> You know, for me it's just [kɔnzɔlɛ] :D
+[2016/03/07 13:00:31] <sydney_untangle> Hume2: You don't need to use an terminal IRC client, they do make GUI ones...
+[2016/03/07 13:00:39] <mt> So right now I have 8 different terminal windows on my desktop
+[2016/03/07 13:00:47] <mt> and choosing between them is still only one click
+[2016/03/07 13:02:34] <sydney_untangle> mt: Very true. Or even less than one click. :D
+[2016/03/07 13:02:50] <sydney_untangle> I hop between mine using the keyboard.
+[2016/03/07 13:03:25] <Hume2> For me it's two clicks, even when I have only 2 terminals open at once.
+[2016/03/07 13:03:47] <sydney_untangle> Hume2: Thats not hard, is it?
+[2016/03/07 13:04:00] <Hume2> Yes, but annoying :P
+[2016/03/07 13:08:10] <Ispy> [10supertux] 07Hume2 pushed 1 commit to 09editor 13https://git.io/v2jOU
+[2016/03/07 13:08:13] <Ispy> [10supertux] 07Hume2 14d219aa0 Fix bug with level loading
+[2016/03/07 13:08:20] <Ispy> [10supertux] 07Hume2 synchronized pull request 09#269: WIP Level Editor 13https://git.io/vEe13
+[2016/03/07 13:13:00] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/03/07 13:13:16] @ Hume2 joined channel #supertux
+[2016/03/07 13:13:16] @ Mode +v Hume2 by ChanServ
+[2016/03/07 13:15:09] <mt> "Fix bug with x y z action"
+[2016/03/07 13:15:18] <mt> I expect commit messages to be more descriptive
+[2016/03/07 13:15:24] <mt> yes, it's possible in 72 chars
+[2016/03/07 13:22:24] <Hume2> mt: The description of that bug is bellow.
+[2016/03/07 13:22:36] <Hume2> Oh, wait, a forgot the empty line.
+[2016/03/07 13:23:11] <mt> in the first line
+[2016/03/07 13:23:31] <mt> maybe you shouldn't waste characters saying it's a bug
+[2016/03/07 13:23:34] <mt> but say what you actually do
+[2016/03/07 13:25:16] <mt> Hume2: btw, I'm not completely sure if it works but
+[2016/03/07 13:25:25] <Hume2> I found a better formulation.
+[2016/03/07 13:25:50] <mt> could we license newly created files/classes under a license that's not Stallman-infected
+[2016/03/07 13:25:54] <Ispy> [10supertux] 07Hume2 04force-pushed 1 commit to 09editor 13https://git.io/v2jGo
+[2016/03/07 13:25:57] <Ispy> [10supertux] 07Hume2 1417c84d7 Fix: Loading a level in editor after playing a level causes crash
+[2016/03/07 13:26:00] <mt> GPL is brain cancer
+[2016/03/07 13:26:05] <Ispy> [10supertux] 07Hume2 synchronized pull request 09#269: WIP Level Editor 13https://git.io/vEe13
+[2016/03/07 13:26:49] <Hume2> They are licenced, aren't they?
+[2016/03/07 13:27:10] <mt> Hume2: I actually meant describing what you did to the code, e.g. Handle player status depending on the editor being active or not (or whatever)
+[2016/03/07 13:27:57] <Hume2> Yes, what shall I do then?
+[2016/03/07 13:28:10] <mt> Hume2: the current code, and also the files you added, are currently under GPL
+[2016/03/07 13:28:15] <mt> GPL is brain cancer
+[2016/03/07 13:28:20] <mt> forget about the commit thing btw
+[2016/03/07 13:28:25] <Ispy> [10supertux] Status for commit Fix bug with level loading by 07Hume2: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/114307369
+[2016/03/07 13:28:42] <mt> I'd prefer if we could slowly start to relicense the game under a saner license
+[2016/03/07 13:28:59] <Hume2> OK, we can.
+[2016/03/07 13:29:15] <Hume2> CC0?
+[2016/03/07 13:29:19] <mt> nah
+[2016/03/07 13:31:04] <mt> Apache License should work, but is quite long; BSD looks okay, MIT/ISC as well, zlib too, as does NCSA
+[2016/03/07 13:31:14] <mt> those are permissive licenses
+[2016/03/07 13:31:26] <Hume2> What does that mean?
+[2016/03/07 13:31:54] <mt> e.g. they basically allow you to do anything with the code as long as you keep to original copyright statement and don't hold the author, contributors or copyright holder liable for damages
+[2016/03/07 13:32:47] <mt> https://en.wikipedia.org/wiki/Permissive_free_software_licence
+[2016/03/07 13:33:52] <mt> I *think* (not sure, as such this is not legal advice), it should be fine to make new files and classes available under a different, GPL compatible license
+[2016/03/07 13:34:54] <Hume2> I think we need a licence with that we could manipulate as we need.
+[2016/03/07 13:35:16] <mt> (and really, try to read the GPL, and you'll soon understand why it's brain cancer (e.g. before you've actually started reading), read the MIT license and you're done in two minutes)
+[2016/03/07 13:35:36] <Tobbi> Wow, github answered.
+[2016/03/07 13:35:37] <mt> (and you do understand the MIT license without being a lawyer)
+[2016/03/07 13:35:39] <Tobbi> let's see...
+[2016/03/07 13:35:48] <Tobbi> Please guys, scrollback...
+[2016/03/07 13:35:57] <mt> what scrollback?
+[2016/03/07 13:36:09] <Tobbi> mt: In any case: Savsish was blocked now.
+[2016/03/07 13:36:12] <Hume2> I've once tried to read the GPL licence and I didn't understand anything.
+[2016/03/07 13:36:15] <Tobbi> And: This scrollback.
+[2016/03/07 13:36:20] <mt> Hume2: in what way?
+[2016/03/07 13:37:15] <mt> I think what you mean is a CLA that transfers rights to us in order to allow us to re-license later on)
+[2016/03/07 13:37:27] <Hume2> mt: I didn't understand the law terms IIRC.
+[2016/03/07 13:37:52] <mt> Hume2: in the GPL? sure
+[2016/03/07 13:39:05] <mt> I mean hey, you've got to be an idiot not to understand https://github.com/maxteufel/code/blob/master/LICENSE.md
+[2016/03/07 13:40:18] <Tobbi> This is the person who replied to me: https://github.com/ElizabethN :D
+[2016/03/07 13:40:22] <Hume2> That is a good license, +1
+[2016/03/07 13:40:25] <Tobbi> I'd rather not say anything.
+[2016/03/07 13:40:39] <Tobbi> Otherwise, you'll block me :P
+[2016/03/07 13:40:53] <Tobbi> mt: tbh, WTFPL is easier.
+[2016/03/07 13:40:57] <Tobbi> ...to understand.
+[2016/03/07 13:40:58] <mt> Tobbi: why would we block you
+[2016/03/07 13:41:02] <Tobbi> mt: I don't know...
+[2016/03/07 13:41:04] <Tobbi> :D
+[2016/03/07 13:41:11] <Tobbi> mt: But, Elizabeth is hot :P
+[2016/03/07 13:41:13] <mt> Tobbi: but WTFPL doesn't add the attribution requirements
+[2016/03/07 13:41:15] <Tobbi> Now, block me?
+[2016/03/07 13:41:42] <mt> and I'd still like to be attributed if someone uses my code, tbh
+[2016/03/07 13:41:55] <Tobbi> mt: I prefer for people who use my code to bow to me.
+[2016/03/07 13:42:07] <mt> BLOCKED!
+[2016/03/07 13:42:32] <Hume2> :?
+[2016/03/07 13:42:51] <Tobbi> And say: Oh, thy, holy Tobbi, I am most grateful that you allowed me, thy faithful servant, to be using this dear programming code, an artist's work.
+[2016/03/07 13:43:17] <Hume2> Oh, thy, holy Tobbi, I am most grateful that you allowed me, thy faithful servant, to be using this dear programming code, an artist's work.
+[2016/03/07 13:43:19] <Hume2> :D
+[2016/03/07 13:43:23] <Tobbi> :D
+[2016/03/07 13:43:33] <Tobbi> Hume2: Thanks. And you totally copy & pasted it
+[2016/03/07 13:43:34] <mt> We'll use the Tobbi License
+[2016/03/07 13:43:47] <Tobbi> Hume2: That's like recording my voice, replaying it and expecting me to accept that as a praise.
+[2016/03/07 13:43:54] <Tobbi> It's not even close to a proper praising.
+[2016/03/07 13:43:58] <Hume2> Exactly :P
+[2016/03/07 13:44:27] <Tobbi> mt: I'd totally be for it.
+[2016/03/07 13:44:27] <Tobbi> :D
+[2016/03/07 13:44:43] <mt> 0. Redistributions of this work must contain: "Oh thy, holy <copyright holder>, I am most grateful that you allowed me, thy faithful servant, to be using this dear programming code, an artist's work."
+[2016/03/07 13:44:54] <Tobbi> :D
+[2016/03/07 13:45:08] <Tobbi> I would totally love that.
+[2016/03/07 13:45:30] <Hume2> Teokracy :D
+[2016/03/07 13:45:35] <Tobbi> mt: Actually, the first thy has to be thee.
+[2016/03/07 13:46:04] <Tobbi> I fail at ancient English.
+[2016/03/07 13:46:25] <Ispy> [10supertux] Status for commit Fix bug with level loading by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/435
+[2016/03/07 13:46:43] <Tobbi> Shutup and succeed with me.
+[2016/03/07 13:46:44] <Hume2> Ancient England no longer exists, so don't worry.
+[2016/03/07 13:46:57] <Tobbi> Thus build status is my destiny, it said whowhoo, AppVeyor build succeeded.
+[2016/03/07 13:46:59] <Tobbi> Or something.
+[2016/03/07 13:47:08] <Tobbi> *This
+[2016/03/07 13:47:50] <Hume2> *EpVejor
+[2016/03/07 13:47:55] <Tobbi> Hume2: I love adapting Shutup and dance with me to arbitrary reasons. For Savsish I had "He took my nerves, I do know how it happened. He took the code and he said: "Oh, don't you dare close this. Just keep your eyes on it. I said: You're holding back, he said: Shut up and merge for me. This pull request's my destiny. "
+[2016/03/07 13:48:22] <Tobbi> he said: Whohoo, shut up and merge for me.
+[2016/03/07 13:48:31] <Tobbi> Deep in his eyes, I think I see annoyance, I realize, this is his last chance.
+[2016/03/07 13:48:35] <Hume2> :D
+[2016/03/07 13:48:38] <Tobbi> Ironically, this is the truth.
+[2016/03/07 13:48:45] <Tobbi> It was his last chance :D
+[2016/03/07 13:48:55] <Tobbi> Afterwards, he was blocked by Github staff.
+[2016/03/07 13:48:56] <Tobbi> :D
+[2016/03/07 13:49:04] <Hume2> Finally!
+[2016/03/07 13:49:13] <Hume2> He got a banana :D
+[2016/03/07 13:49:30] <Tobbi> Hume2: Is that a euphemism for something?
+[2016/03/07 13:49:35] <Tobbi> Or rather eeh...
+[2016/03/07 13:49:37] <Tobbi> innuendo?
+[2016/03/07 13:49:38] <Hume2> ban-ana
+[2016/03/07 13:49:53] <Hume2> Or ban-an-ed?)
+[2016/03/07 13:49:58] <mt> a ban-an-noying
+[2016/03/07 13:50:01] <Tobbi> Hume2: Stop. No minions allowed hre.
+[2016/03/07 13:50:26] <Tobbi> http://de.webfail.com/6e47edde239
+[2016/03/07 13:50:37] <Tobbi> mt, Hume2 ^^
+[2016/03/07 13:50:44] <Hume2> :D
+[2016/03/07 13:52:08] <mt> Yes this is good
+[2016/03/07 13:52:54] <mt> I think this BA-NA-NA party would be better than all the silly parties here
+[2016/03/07 13:53:28] <Hume2> :D There must be some truth in it.
+[2016/03/07 13:53:33] <Tobbi> mt: Nichts gegen "Partei bibeltreuer Christen"
+[2016/03/07 13:53:47] <Tobbi> Do they still exist, by the way?
+[2016/03/07 13:53:56] <mt> "Die Violetten"
+[2016/03/07 13:54:34] <Ispy> [10supertux] Status for commit Fix bug with level loading by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/114307381
+[2016/03/07 13:54:51] <Tobbi> Oh gott.
+[2016/03/07 13:55:39] <Tobbi> I will found DTP.
+[2016/03/07 13:55:43] <Tobbi> Die Tobbi Partei.
+[2016/03/07 13:55:44] <Tobbi> >D
+[2016/03/07 13:55:45] <Tobbi> :D
+[2016/03/07 13:55:48] <Hume2> :DDDDD
+[2016/03/07 13:56:05] <Tobbi> Or, even better, I will found my own religion.
+[2016/03/07 13:56:13] <Tobbi> A religion that only exists to support my weird world views.
+[2016/03/07 13:56:22] <mt> https://de.wikipedia.org/wiki/Liste_der_politischen_Parteien_in_Deutschland
+[2016/03/07 13:56:38] <Tobbi> And don|t tell me it'll have no chance, because Scientology anone?
+[2016/03/07 13:57:19] <Hume2> Too much christians :G
+[2016/03/07 13:57:29] <Tobbi> mt: What do you think? Will the NPD-Verbotsverfahren be successful?
+[2016/03/07 13:57:51] <Tobbi> And don|t tell me that it'll not have any effect because the people will then choose a different party.
+[2016/03/07 13:58:07] <mt> Tobbi: you'll write Tobbi-netics
+[2016/03/07 13:58:18] <Tobbi> :D
+[2016/03/07 13:58:31] @ farooghkz joined channel #supertux
+[2016/03/07 13:58:43] <Hume2> You can make a chaos in voting system, so everyone will accidentally vote you :D
+[2016/03/07 13:59:28] <mt> I'd rather like too see actual consequences against NPD members (and anyone else breaking the law), instead of 'lets ban that party, it will solve all the problems'
