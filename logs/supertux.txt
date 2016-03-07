@@ -16142,3 +16142,8 @@
 [2016/03/06 19:20:13] @ Quit: Mathnerd314: Ping timeout: 252 seconds
 [2016/03/06 19:26:00] <Ispy> [10supertux] 07IndianaTux commented on issue 09#334: Haywire bomb game crash  13https://git.io/v2Rgy
 [2016/03/06 19:29:35] @ Quit: tux|dude: Quit: Leaving
+[2016/03/06 20:55:41] @ Mathnerd314 joined channel #supertux
+[2016/03/06 20:55:42] @ Mode +v Mathnerd314 by ChanServ
+[2016/03/06 21:06:42] @ Quit: Wuzzy: Ping timeout: 260 seconds
+[2016/03/06 21:07:55] @ Wuzzy joined channel #supertux
+[2016/03/06 21:48:25] @ tux|dude joined channel #supertux
