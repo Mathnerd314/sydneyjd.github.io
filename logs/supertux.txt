@@ -16156,3 +16156,26 @@
 [2016/03/07 00:52:25] @ Anupkumar joined channel #supertux
 [2016/03/07 01:35:10] @ Quit: tux|dude: Ping timeout: 248 seconds
 [2016/03/07 01:58:42] @ tux|dude joined channel #supertux
+[2016/03/07 02:03:24] @ Quit: tux|dude: Ping timeout: 246 seconds
+[2016/03/07 02:06:19] <Ispy> [10supertux] 07Hume2 pushed 1 commit to 09editor 13https://git.io/v2xhC
+[2016/03/07 02:06:22] <Ispy> [10supertux] 07Hume2 140bd3196 Added a test level button
+[2016/03/07 02:06:32] <Ispy> [10supertux] 07Hume2 synchronized pull request 09#269: WIP Level Editor 13https://git.io/vEe13
+[2016/03/07 02:13:41] @ tux|dude joined channel #supertux
+[2016/03/07 02:18:25] @ Quit: tux|dude: Ping timeout: 240 seconds
+[2016/03/07 02:18:27] @ lumidify joined channel #supertux
+[2016/03/07 02:18:38] @ Quit: lumidify: Changing host
+[2016/03/07 02:18:38] @ lumidify joined channel #supertux
+[2016/03/07 02:20:52] <Ispy> [10supertux] Status for commit Added a test level button by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/114174017
+[2016/03/07 02:22:30] @ tux|dude joined channel #supertux
+[2016/03/07 02:29:46] @ Quit: Mathnerd314: Ping timeout: 252 seconds
+[2016/03/07 02:31:02] @ Quit: tuxdev_: Ping timeout: 260 seconds
+[2016/03/07 02:33:09] @ tuxdude143 joined channel #supertux
+[2016/03/07 02:33:50] @ Quit: tux|dude: Ping timeout: 248 seconds
+[2016/03/07 02:36:08] <Ispy> [10supertux] Status for commit Added a test level button by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/114174027
+[2016/03/07 02:45:59] <Ispy> [10supertux] Status for commit Added a test level button by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/432
+[2016/03/07 02:46:50] <Ispy> [10supertux] 07brmbrmcar commented on issue 09#382: I can't kill some badguys with fireball? 13https://git.io/v2xPa
+[2016/03/07 02:46:58] @ Quit: lumidify: Read error: Connection reset by peer
+[2016/03/07 03:25:08] <Ispy> [10supertux] Status for commit Added a test level button by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/433
+[2016/03/07 03:34:11] @ MCMiic joined channel #supertux
+[2016/03/07 03:54:58] @ Quit: tuxdude143: Quit: Leaving
+[2016/03/07 03:56:11] @ leyyin joined channel #supertux
