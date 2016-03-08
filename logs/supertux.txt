@@ -16897,3 +16897,108 @@
 [2016/03/08 13:46:41] @ sydney_untangle joined channel #supertux
 [2016/03/08 13:46:41] @ Mode +v sydney_untangle by ChanServ
 [2016/03/08 13:59:12] <Ispy> [10supertux] Status for commit Fix: crash after testing the level twice by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/114571786
+[2016/03/08 14:03:17] @ lumidify joined channel #supertux
+[2016/03/08 14:18:51] @ claymore2 joined channel #supertux
+[2016/03/08 14:19:07] @ Quit: lumidify: Ping timeout: 244 seconds
+[2016/03/08 14:19:35] @ lumidify joined channel #supertux
+[2016/03/08 14:25:18] @ Quit: lumidify: Ping timeout: 276 seconds
+[2016/03/08 14:29:31] @ Quit: Hume2: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[2016/03/08 14:35:07] @ lumidify joined channel #supertux
+[2016/03/08 14:35:07] @ Quit: lumidify: Changing host
+[2016/03/08 14:35:07] @ lumidify joined channel #supertux
+[2016/03/08 14:42:46] @ tux|dude joined channel #supertux
+[2016/03/08 14:43:24] @ ToBeCloud joined channel #supertux
+[2016/03/08 14:55:27] <leyyin> https://www.phoronix.com/scan.php?page=news_item&px=Google-Servo-Perf-Comparison
+[2016/03/08 14:57:12] <Ispy> [10supertux] Status for commit Fix: crash after testing the level twice by 07Hume2: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/114571808
+[2016/03/08 14:59:30] <Tobbi> leyyin: Awesome stuff.
+[2016/03/08 14:59:42] <leyyin> yup, rust is the new C
+[2016/03/08 15:02:10] <Tobbi> leyyin: I hate SDL_ttf...It generates around 60 SDL surfaces per second...for a single text.
+[2016/03/08 15:02:20] <Tobbi> It slows down SuperTux a bit.
+[2016/03/08 15:03:57] <leyyin> wth?
+[2016/03/08 15:04:58] <Tobbi> leyyin: SDL_ttf generates SDL surfaces...I'd have to store these surfaces in a map, which I don't want.
+[2016/03/08 15:06:06] <leyyin> hmm
+[2016/03/08 15:06:54] @ Quit: lumidify: Ping timeout: 276 seconds
+[2016/03/08 15:07:52] <leyyin> watch first 2 minutes, crazy https://www.youtube.com/watch?v=erfnCaeLxSI
+[2016/03/08 15:11:08] <Tobbi> leyyin: And the good thing is: It'll eventually land in Firefox :D
+[2016/03/08 15:12:32] <Tobbi> So, you won't even have to wait seconds...
+[2016/03/08 15:12:33] <Tobbi> :D
+[2016/03/08 15:20:42] <Tobbi> I'll try to compile that now.
+[2016/03/08 15:20:43] <Tobbi> Let's see...
+[2016/03/08 15:25:43] <leyyin> in a couple of years I hope it will be the engine of firefox
+[2016/03/08 15:26:23] <Tobbi> leyyin: Maybe even sooner?
+[2016/03/08 15:26:34] <Tobbi> I mean: That demo is capable of rendering web pages...what else could we expect?
+[2016/03/08 15:26:47] <leyyin> crashes a lot
+[2016/03/08 15:26:50] <Tobbi> Ah.
+[2016/03/08 15:26:51] <Tobbi> ok.
+[2016/03/08 15:26:58] <leyyin> have to implement the whole spec
+[2016/03/08 15:27:02] <leyyin> all cases
+[2016/03/08 15:27:22] <leyyin> the old engines are from the late '90
+[2016/03/08 15:27:24] <Tobbi> leyyin: I think it might give Firefox a huge headstart again.
+[2016/03/08 15:27:26] <leyyin> they have millions of lines of code
+[2016/03/08 15:27:33] <Tobbi> Once it's there...
+[2016/03/08 15:27:44] <leyyin> firefox will be the fast one now :P
+[2016/03/08 15:27:47] <Tobbi> I mean: most people use chrome because it's faster.
+[2016/03/08 15:27:51] <leyyin> bye bye chrome
+[2016/03/08 15:27:51] <Tobbi> yup
+[2016/03/08 15:27:58] <Tobbi> :D
+[2016/03/08 15:28:04] <leyyin> I am waiting for the separated process thing in firefox
+[2016/03/08 15:28:12] <leyyin> I do not want a tab to kill my whole browser...
+[2016/03/08 15:28:21] <Tobbi> Electrolysis isn't yet in?
+[2016/03/08 15:28:23] <Tobbi> I thought it was.
+[2016/03/08 15:28:26] <leyyin> nope!
+[2016/03/08 15:28:41] <leyyin> you dream a lot about mozilla :P
+[2016/03/08 15:28:52] <leyyin> they did not remove ads and they did not ship Electrolysis
+[2016/03/08 15:29:01] <Tobbi> leyyin: *sigh*
+[2016/03/08 15:29:43] <Tobbi> leyyin: You can set browser.tabs.remote.autostart to true.
+[2016/03/08 15:29:44] <Tobbi> So...
+[2016/03/08 15:29:53] <leyyin> huh?
+[2016/03/08 15:30:33] <Tobbi> leyyin: Or in Preferences.
+[2016/03/08 15:30:35] <Tobbi> Enable Multi-Process Nightly.
+[2016/03/08 15:30:37] <Tobbi> Check that.
+[2016/03/08 15:30:39] <leyyin> where?
+[2016/03/08 15:30:43] <leyyin> dude
+[2016/03/08 15:30:55] <leyyin> do you check what you say?
+[2016/03/08 15:32:28] <Tobbi> leyyin: Do you have Firefox or Nightly?
+[2016/03/08 15:32:35] <leyyin> I have firefox stable
+[2016/03/08 15:32:40] <Tobbi> *sigh*
+[2016/03/08 15:32:44] <Tobbi> Who uses that anymore?
+[2016/03/08 15:32:54] <Tobbi> It's in the nightly builds.
+[2016/03/08 15:32:58] <leyyin> I prefer stable shit for my main browser
+[2016/03/08 15:32:59] <Tobbi> I am only running the nightly builds.
+[2016/03/08 15:33:04] <leyyin> what does  browser.tabs.remote.autostart do?
+[2016/03/08 15:33:16] <Tobbi> leyyin: Enable multiprocess stuff.
+[2016/03/08 15:33:19] <Tobbi> I don\t know more.
+[2016/03/08 15:33:23] <leyyin> does not make any sense
+[2016/03/08 15:33:26] <Tobbi> I am not Mozilla anymore.
+[2016/03/08 15:33:44] <leyyin>  browser.tabs.remote.autostart?? what the heck does that name has to do with multiprocess stuff?
+[2016/03/08 15:34:07] <Tobbi> browser.tabs.remote = tabs are remote.
+[2016/03/08 15:34:25] <Tobbi> That is when one of your tabs is from Afghanistan, the other is from Tazmania etc.
+[2016/03/08 15:35:37] <leyyin> I think I found a bug in firefox, after some time, I can't open any page, not even my router page, it just keeps loading, and one core is 100%
+[2016/03/08 15:35:48] <leyyin> I have to kill firefox then it works fine again
+[2016/03/08 15:35:54] <leyyin> it happens from time to time
+[2016/03/08 15:37:21] <Tobbi> leyyin: If this was a security bug, you'd get $$$
+[2016/03/08 15:37:22] <Tobbi> :P
+[2016/03/08 15:39:52] <Tobbi> Also, I just noticed that it was me who translated the Servo Wikipedia article into German.
+[2016/03/08 15:39:55] <leyyin> The uploader has not made this video available in your country.
+[2016/03/08 15:40:03] <Tobbi> what?
+[2016/03/08 15:40:06] <Tobbi> Which video?
+[2016/03/08 15:40:09] <leyyin> https://www.youtube.com/watch?v=NThdX6459vE
+[2016/03/08 15:40:11] @ Quit: tux|dude: Quit: Leaving
+[2016/03/08 15:40:20] <leyyin> I hate geoblocking
+[2016/03/08 15:40:46] <Tobbi> Okay...nice.
+[2016/03/08 15:40:48] <Tobbi> not really
+[2016/03/08 15:42:17] <leyyin> it is your fault Tobbi
+[2016/03/08 15:42:29] <Tobbi> leyyin: Why?
+[2016/03/08 15:42:42] <leyyin> idk, u must explain yourself
+[2016/03/08 15:43:13] <Tobbi> :D
+[2016/03/08 15:47:24] <leyyin> idk why does it appear on my subscription feed, if I can't watch it
+[2016/03/08 15:47:26] <leyyin> youtube logic
+[2016/03/08 15:48:08] <Tobbi> :D
+[2016/03/08 15:51:17] <Tobbi> Wow, compiling servo takes a long time.
+[2016/03/08 15:52:16] <leyyin> macs :P
+[2016/03/08 15:57:43] @ tobbot joined channel #supertux
+[2016/03/08 15:57:51] <Tobbi> I'm impressed.
+[2016/03/08 15:57:54] <Tobbi> This worked.
+[2016/03/08 15:58:04] <leyyin> a mac works?
+[2016/03/08 15:58:15] <Tobbi> leyyin: No, this is a bot hosted on my raspberry pi.
+[2016/03/08 15:59:05] @ Quit: tobbot: Remote host closed the connection
