@@ -16756,3 +16756,26 @@
 [2016/03/08 07:43:41] <Ispy> [10supertux] 07tobbi 143997483 Remove SDL_ttf code from font.cpp
 [2016/03/08 07:43:44] <Ispy> [10supertux] 07tobbi 14d96680b Move TTF font to Resources, fix crash
 [2016/03/08 07:43:58] @ Quit: lumidify: Quit: Leaving
+[2016/03/08 08:00:13] <Ispy> [10supertux] 07tobbi pushed 1 commit to 09freetype 13https://git.io/vafsW
+[2016/03/08 08:00:16] <Ispy> [10supertux] 07tobbi 1455e95ac Change load_font signature, add different font
+[2016/03/08 08:03:35] <Tobbi> damn.
+[2016/03/08 08:05:08] <Ispy> [10supertux] 07IndianaTux commented on issue 09#385: Adding support for GIF images for level backgrounds 13https://git.io/vaeND
+[2016/03/08 08:08:44] <Ispy> [10supertux] 07tobbi 04force-pushed 1 commit to 09freetype 13https://git.io/vafZm
+[2016/03/08 08:08:47] <Ispy> [10supertux] 07tobbi 143aa815e Change load_font signature, add different font
+[2016/03/08 08:15:03] <Ispy> [10supertux] 07tobbi 04force-pushed 10 commits to 09freetype 13https://git.io/vafnn
+[2016/03/08 08:25:34] <Ispy> [10supertux] Status for commit Remove SDL_ttf code from font.cpp by 07Tobias Markus: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/114504799
+[2016/03/08 08:25:37] <Ispy> [10supertux] 07tobbi pushed 1 commit to 09freetype 13https://git.io/vafCo
+[2016/03/08 08:25:40] <Ispy> [10supertux] 07tobbi 14090034a Fix positioning of center text
+[2016/03/08 08:36:49] <Ispy> [10supertux] 07tobbi pushed 1 commit to 09freetype 13https://git.io/vafl2
+[2016/03/08 08:36:52] <Ispy> [10supertux] 07tobbi 149c0afda Reset texture after painting
+[2016/03/08 09:01:11] <Ispy> [10supertux] Status for commit Remove SDL_ttf code from font.cpp by 07Tobias Markus: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/114511744
+[2016/03/08 09:17:09] @ tuxdev_ joined channel #supertux
+[2016/03/08 09:23:16] <Ispy> [10supertux] 07tobbi pushed 1 commit to 09freetype 13https://git.io/vafaq
+[2016/03/08 09:23:19] <Ispy> [10supertux] 07tobbi 147a757d5 Add SourceCodePro-* for console
+[2016/03/08 09:42:35] @ leyyin joined channel #supertux
+[2016/03/08 09:54:08] @ Joined channel #supertux
+[2016/03/08 09:54:08] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/03/08 09:54:08] @ Topic set by mt on 2016-03-03 07:24:03 -0500
+[2016/03/08 09:54:13] @ Mode +Cntzj 5:10 by weber.freenode.net
+[2016/03/08 09:54:22] @ Mode +v red_bot by ChanServ
+[2016/03/08 09:54:34] <leyyin> germans and beeer
