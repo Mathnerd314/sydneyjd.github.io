@@ -16665,3 +16665,9 @@
 [2016/03/07 19:15:42] @ Quit: ToBeCloud: Excess Flood
 [2016/03/07 19:16:01] @ ToBeCloud joined channel #supertux
 [2016/03/07 19:41:24] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <-
+[2016/03/07 20:13:34] @ Quit: datahead7777: Ping timeout: 248 seconds
+[2016/03/07 21:02:13] @ Wuzzy2 joined channel #supertux
+[2016/03/07 21:05:18] @ Quit: Wuzzy: Ping timeout: 248 seconds
+[2016/03/07 21:10:30] @ datahead7777 joined channel #supertux
+[2016/03/07 21:46:09] @ Quit: datahead7777: Ping timeout: 250 seconds
+[2016/03/07 21:48:01] <Ispy> [10supertux] 07IndianaTux opened issue 09#385: Adding support for GIF images for level backgrounds 13https://git.io/vaeND
