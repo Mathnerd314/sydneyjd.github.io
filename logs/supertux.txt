@@ -16689,3 +16689,24 @@
 [2016/03/08 01:29:16] @ Quit: lumidify: Ping timeout: 244 seconds
 [2016/03/08 01:40:41] @ tuxdev_ joined channel #supertux
 [2016/03/08 01:54:12] @ lumidify joined channel #supertux
+[2016/03/08 02:03:16] @ Quit: Mathnerd314: Ping timeout: 252 seconds
+[2016/03/08 02:04:31] <Ispy> [10supertux] 07Hume2 synchronized pull request 09#269: WIP Level Editor 13https://git.io/vEe13
+[2016/03/08 02:04:34] <Ispy> [10supertux] 07Hume2 pushed 1 commit to 09editor 13https://git.io/vavGt
+[2016/03/08 02:04:36] <Ispy> [10supertux] 07Hume2 14a403dc1 Fix: Crash after exiting tested level
+[2016/03/08 02:16:04] <Ispy> [10supertux] 07Hume2 pushed 1 commit to 09editor 13https://git.io/vavZm
+[2016/03/08 02:16:07] <Ispy> [10supertux] 07Hume2 14f943377 Do not launch init script in Editor
+[2016/03/08 02:16:16] <Ispy> [10supertux] 07Hume2 synchronized pull request 09#269: WIP Level Editor 13https://git.io/vEe13
+[2016/03/08 02:29:32] <Ispy> [10supertux] 07brmbrmcar commented on issue 09#385: Adding support for GIF images for level backgrounds 13https://git.io/vaeND
+[2016/03/08 02:34:19] @ Quit: lumidify: Ping timeout: 250 seconds
+[2016/03/08 02:41:21] <Ispy> [10supertux] Status for commit Fix: Crash after exiting tested level by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/439
+[2016/03/08 02:52:52] @ Quit: tuxdev_: Ping timeout: 260 seconds
+[2016/03/08 02:53:05] <Ispy> [10supertux] 07Hume2 pushed 1 commit to 09editor 13https://git.io/vavle
+[2016/03/08 02:53:08] <Ispy> [10supertux] 07Hume2 148ced0a5 Add Leafshot to editor
+[2016/03/08 02:53:17] <Ispy> [10supertux] 07Hume2 synchronized pull request 09#269: WIP Level Editor 13https://git.io/vEe13
+[2016/03/08 02:56:12] <Ispy> [10supertux] Status for commit Fix: Crash after exiting tested level by 07Hume2: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/114448477
+[2016/03/08 03:15:38] @ tuxdude143 joined channel #supertux
+[2016/03/08 03:16:05] <Ispy> [10supertux] Status for commit Fix: Crash after exiting tested level by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/440
+[2016/03/08 03:18:48] @ Quit: tux|dude: Ping timeout: 244 seconds
+[2016/03/08 03:21:59] <Ispy> [10supertux] Status for commit Fix: Crash after exiting tested level by 07Hume2: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/114448493
+[2016/03/08 03:46:06] <Ispy> [10supertux] Status for commit Do not launch init script in Editor by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/114449824
+[2016/03/08 03:54:12] <Ispy> [10supertux] Status for commit Do not launch init script in Editor by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/441
