@@ -16710,3 +16710,22 @@
 [2016/03/08 03:21:59] <Ispy> [10supertux] Status for commit Fix: Crash after exiting tested level by 07Hume2: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/114448493
 [2016/03/08 03:46:06] <Ispy> [10supertux] Status for commit Do not launch init script in Editor by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/114449824
 [2016/03/08 03:54:12] <Ispy> [10supertux] Status for commit Do not launch init script in Editor by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/441
+[2016/03/08 04:13:53] @ Quit: tuxdude143: Quit: Leaving
+[2016/03/08 04:19:04] <Ispy> [10supertux] Status for commit Do not launch init script in Editor by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/114449834
+[2016/03/08 04:31:07] <Ispy> [10supertux] Status for commit Do not launch init script in Editor by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/442
+[2016/03/08 04:33:23] <Tobbi> Hello everyone (again)
+[2016/03/08 04:43:03] <Ispy> [10supertux] Status for commit Add Leafshot to editor by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/114453969
+[2016/03/08 05:08:35] <Ispy> [10supertux] Status for commit Add Leafshot to editor by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/444
+[2016/03/08 05:14:11] <Ispy> [10supertux] 07tobbi pushed 5 commits to 09freetype 13https://git.io/vavMs
+[2016/03/08 05:14:13] <Ispy> [10supertux] 07tobbi 140c69a8b WIP: Display localized name instead of English translation
+[2016/03/08 05:14:16] <Ispy> [10supertux] 07tobbi 14fcc403b Update tinygettext to latest supertux-changes branch HEAD
+[2016/03/08 05:14:19] <Tobbi> uh oh.
+[2016/03/08 05:14:19] <Ispy> [10supertux] 07tobbi 14a411537 Mark to_logical const
+[2016/03/08 05:14:22] <Ispy> [10supertux] 07ToBeFree 14c1d7ab1 Add forest theme by Wansti and ToBeFree
+[2016/03/08 05:14:25] <Ispy> [10supertux] 07tobbi 14c61d472 Move font loading into its own file font_functions.hpp
+[2016/03/08 05:14:33] <Tobbi> Ah, b/c of syncronizing.
+[2016/03/08 05:14:34] <Tobbi> *sigh*
+[2016/03/08 05:15:05] <Ispy> [10supertux] Status for commit Add Leafshot to editor by 07Hume2: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/114453979
+[2016/03/08 05:22:08] <Ispy> [10supertux] 07tobbi pushed 1 commit to 09freetype 13https://git.io/vavDc
+[2016/03/08 05:22:11] <Ispy> [10supertux] 07tobbi 14ca740a8 Add unimplemented methods to both renderers
+[2016/03/08 05:46:49] <Ispy> [10supertux] Status for commit Add Leafshot to editor by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/443
