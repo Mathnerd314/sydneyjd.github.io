@@ -16779,3 +16779,42 @@
 [2016/03/08 09:54:13] @ Mode +Cntzj 5:10 by weber.freenode.net
 [2016/03/08 09:54:22] @ Mode +v red_bot by ChanServ
 [2016/03/08 09:54:34] <leyyin> germans and beeer
+[2016/03/08 10:05:38] <Ispy> [10supertux] 07tobbi pushed 1 commit to 09freetype 13https://git.io/vaf1I
+[2016/03/08 10:05:39] <Ispy> [10supertux] 07tobbi 14157ac65 Add shadow
+[2016/03/08 10:07:58] <Tobbi> leyyin: Stop. I am trying out SDL_ttf.
+[2016/03/08 10:08:00] <Tobbi> So far it works.
+[2016/03/08 10:16:34] <leyyin> Tobbi, https://i.imgur.com/m991Gv1.gifv
+[2016/03/08 10:16:45] <leyyin> I am gonna stop now
+[2016/03/08 10:16:53] <Tobbi> :D
+[2016/03/08 10:22:23] <Ispy> [10supertux] 07tobbi pushed 1 commit to 09freetype 13https://git.io/vafS3
+[2016/03/08 10:22:25] <Ispy> [10supertux] 07tobbi 140a42337 Properly de-init TTF subsystem
+[2016/03/08 10:34:36] <Ispy> [10supertux] 07tobbi pushed 1 commit to 09freetype 13https://git.io/vafdu
+[2016/03/08 10:34:39] <Ispy> [10supertux] 07tobbi 145bb905d Render text as UTF-8
+[2016/03/08 10:36:23] <Ispy> [10supertux] 07reddit-is-fun starred 09supertux - 13https://git.io/vafFq
+[2016/03/08 10:44:13] <Ispy> [10supertux] 07brmbrmcar commented on issue 09#385: Adding support for GIF images for level backgrounds 13https://git.io/vaeND
+[2016/03/08 10:52:42] <mt> who in world created #385?
+[2016/03/08 10:53:16] @ Mathnerd314 joined channel #supertux
+[2016/03/08 10:53:16] @ Mode +v Mathnerd314 by ChanServ
+[2016/03/08 10:53:25] <mt> I'd prefer implementing support for Ogg Theora/WebM backgrounds instead of GIFs, lol
+[2016/03/08 10:53:34] @ Quit: datahead8888: Ping timeout: 248 seconds
+[2016/03/08 10:57:24] <Tobbi> mt: http://screencast.com/t/4zilueU9WPD
+[2016/03/08 11:01:22] <mt> nice, I'll have a look at it later or tomorrow
+[2016/03/08 11:02:25] <Tobbi> Only works with SDL.
+[2016/03/08 11:02:26] <Tobbi> So far.
+[2016/03/08 11:02:31] <Tobbi> OpenGL renderer incoming.
+[2016/03/08 11:06:42] <mt> did you try with an actual OTF font?
+[2016/03/08 11:08:28] <mt> ah indeed
+[2016/03/08 11:08:50] <mt> might want to rename that branch
+[2016/03/08 11:09:23] <mt> also, fonts should be placed directly into data/fonts
+[2016/03/08 11:09:47] <mt> the old ones should be removed when everything works
+[2016/03/08 11:10:15] <mt> as I said, you might want to prepare new files/classes you wrote for a more permissive license
+[2016/03/08 11:10:30] <mt> bbl
+[2016/03/08 11:42:48] @ Hume2 joined channel #supertux
+[2016/03/08 11:42:48] @ Mode +v Hume2 by ChanServ
+[2016/03/08 11:43:43] <Hume2> Hello
+[2016/03/08 11:46:13] <Tobbi> Hello Hume2.
+[2016/03/08 11:46:45] <Tobbi> Hume2: First shot at SDL_ttf: http://screencast.com/t/4zilueU9WPD
+[2016/03/08 11:47:43] <Hume2> Tobbi: Looks good.
+[2016/03/08 11:47:53] <Tobbi> Hume2: No, it doesn't look good, yet.
+[2016/03/08 11:47:55] <Tobbi> But it seems possible.
+[2016/03/08 11:56:06] @ alket joined channel #supertux
