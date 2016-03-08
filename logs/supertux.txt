@@ -16671,3 +16671,21 @@
 [2016/03/07 21:10:30] @ datahead7777 joined channel #supertux
 [2016/03/07 21:46:09] @ Quit: datahead7777: Ping timeout: 250 seconds
 [2016/03/07 21:48:01] <Ispy> [10supertux] 07IndianaTux opened issue 09#385: Adding support for GIF images for level backgrounds 13https://git.io/vaeND
+[2016/03/07 22:00:14] @ Wuzzy3 joined channel #supertux
+[2016/03/07 22:02:30] @ Quit: Wuzzy2: Ping timeout: 246 seconds
+[2016/03/07 22:14:19] @ tux|dude joined channel #supertux
+[2016/03/07 22:58:07] @ datahead8888 joined channel #supertux
+[2016/03/07 23:17:10] @ Quit: datahead8888: Ping timeout: 252 seconds
+[2016/03/07 23:29:50] @ Quit: Wuzzy3: Quit: Wuzzy3
+[2016/03/07 23:49:45] @ Quit: irungentoo: Ping timeout: 276 seconds
+[2016/03/08 00:02:28] @ Quit: tux|dude: Ping timeout: 244 seconds
+[2016/03/08 00:18:25] @ tux|dude joined channel #supertux
+[2016/03/08 00:22:20] @ datahead8888 joined channel #supertux
+[2016/03/08 00:53:12] @ Anupkumar joined channel #supertux
+[2016/03/08 00:54:15] @ Quit: ToBeCloud: Quit: Connection closed for inactivity
+[2016/03/08 00:59:34] @ lumidify joined channel #supertux
+[2016/03/08 01:09:42] @ Quit: lumidify: Ping timeout: 276 seconds
+[2016/03/08 01:22:53] @ lumidify joined channel #supertux
+[2016/03/08 01:29:16] @ Quit: lumidify: Ping timeout: 244 seconds
+[2016/03/08 01:40:41] @ tuxdev_ joined channel #supertux
+[2016/03/08 01:54:12] @ lumidify joined channel #supertux
