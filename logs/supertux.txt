@@ -16729,3 +16729,30 @@
 [2016/03/08 05:22:08] <Ispy> [10supertux] 07tobbi pushed 1 commit to 09freetype 13https://git.io/vavDc
 [2016/03/08 05:22:11] <Ispy> [10supertux] 07tobbi 14ca740a8 Add unimplemented methods to both renderers
 [2016/03/08 05:46:49] <Ispy> [10supertux] Status for commit Add Leafshot to editor by 07Hume2: 08AppVeyor build succeeded 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/443
+[2016/03/08 06:07:15] <Ispy> [10supertux] Status for commit Move font loading into its own file font_functions.hpp by 07Tobias Markus: 08The Travis CI build passed 13https://travis-ci.org/SuperTux/supertux/builds/114477357
+[2016/03/08 06:18:35] <Ispy> [10supertux] 07ZCherish starred 09supertux - 13https://git.io/vavj8
+[2016/03/08 06:19:27] <Ispy> [10supertux] Status for commit Move font loading into its own file font_functions.hpp by 07Tobias Markus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/445
+[2016/03/08 06:32:43] <Ispy> [10supertux] 07tobbi pushed 1 commit to 09freetype 13https://git.io/vafvg
+[2016/03/08 06:32:46] <Ispy> [10supertux] 07tobbi 1438bb733 This kind of works
+[2016/03/08 06:33:15] <Tobbi> I hope mt doesn't give me shit about meaningful commit messages.
+[2016/03/08 06:34:24] <Tobbi> :P
+[2016/03/08 06:34:32] <Tobbi> Because, this is going to get squashed anyway.
+[2016/03/08 06:35:59] <Ispy> [10supertux] Status for commit This kind of works by 07Tobias Markus: 04AppVeyor build failed 13https://ci.appveyor.com/project/maths22/supertux-9ml4d/build/446
+[2016/03/08 06:46:38] @ lumidify joined channel #supertux
+[2016/03/08 06:50:12] <Tobbi> mt: In any case: SDL_ttf does allow for OTF fonts as well.
+[2016/03/08 06:50:17] <Tobbi> It works, I just tried that.
+[2016/03/08 06:52:37] @ Quit: lumidify: Ping timeout: 260 seconds
+[2016/03/08 06:54:15] @ lumidify joined channel #supertux
+[2016/03/08 07:12:49] @ Quit: lumidify: Ping timeout: 260 seconds
+[2016/03/08 07:18:14] @ lumidify joined channel #supertux
+[2016/03/08 07:18:14] @ Quit: lumidify: Changing host
+[2016/03/08 07:18:14] @ lumidify joined channel #supertux
+[2016/03/08 07:23:08] <Ispy> [10supertux] Status for commit This kind of works by 07Tobias Markus: 04The Travis CI build failed 13https://travis-ci.org/SuperTux/supertux/builds/114492514
+[2016/03/08 07:32:27] @ Quit: lumidify: Ping timeout: 250 seconds
+[2016/03/08 07:37:50] @ lumidify joined channel #supertux
+[2016/03/08 07:37:50] @ Quit: lumidify: Changing host
+[2016/03/08 07:37:50] @ lumidify joined channel #supertux
+[2016/03/08 07:43:38] <Ispy> [10supertux] 07tobbi pushed 2 commits to 09freetype 13https://git.io/vafY8
+[2016/03/08 07:43:41] <Ispy> [10supertux] 07tobbi 143997483 Remove SDL_ttf code from font.cpp
+[2016/03/08 07:43:44] <Ispy> [10supertux] 07tobbi 14d96680b Move TTF font to Resources, fix crash
+[2016/03/08 07:43:58] @ Quit: lumidify: Quit: Leaving
