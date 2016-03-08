@@ -17002,3 +17002,72 @@
 [2016/03/08 15:58:04] <leyyin> a mac works?
 [2016/03/08 15:58:15] <Tobbi> leyyin: No, this is a bot hosted on my raspberry pi.
 [2016/03/08 15:59:05] @ Quit: tobbot: Remote host closed the connection
+[2016/03/08 16:06:07] @ tobbot joined channel #supertux
+[2016/03/08 16:06:10] <Tobbi> test
+[2016/03/08 16:06:11] <tobbot> Hello, Tobbi. This works!
+[2016/03/08 16:06:23] <Tobbi> very good.
+[2016/03/08 16:06:23] <tobbot> Hello, Tobbi. This works!
+[2016/03/08 16:06:26] @ Quit: tobbot: Remote host closed the connection
+[2016/03/08 16:12:48] @ Quit: leyyin: Quit: So Long, and Thanks for All the Fish
+[2016/03/08 16:14:47] @ tobbot joined channel #supertux
+[2016/03/08 16:17:20] <Ispy> [10supertux] 07tobbi pushed 5 commits to 09coverity_scan 13https://git.io/vaUCm
+[2016/03/08 16:17:23] <Ispy> [10supertux] 07tobbi 143876b0d WIP: Display localized name instead of English translation
+[2016/03/08 16:17:26] <Ispy> [10supertux] 07tobbi 147bd11ef Merge pull request #365 from tobbi/langmenu_localized_name
+[2016/03/08 16:17:29] <Ispy> [10supertux] 07tobbi 1475b06ed Update tinygettext to latest supertux-changes branch HEAD
+[2016/03/08 16:17:32] <Ispy> [10supertux] 07tobbi 1488f798a Mark to_logical const
+[2016/03/08 16:17:35] <Ispy> [10supertux] 07ToBeFree 140afe886 Add forest theme by Wansti and ToBeFree
+[2016/03/08 16:17:44] @ Quit: tobbot: Remote host closed the connection
+[2016/03/08 16:21:21] @ tobbot joined channel #supertux
+[2016/03/08 16:21:24] <Tobbi> test
+[2016/03/08 16:21:34] <Tobbi> [supertux] tobbi pushed 5 commits to coverity_scan https://git.io/vaUCm
+[2016/03/08 16:21:47] <Tobbi> Oh, well...
+[2016/03/08 16:23:42] @ Quit: tobbot: Remote host closed the connection
+[2016/03/08 16:45:34] @ Quit: claymore2: Quit: Leaving
+[2016/03/08 17:30:57] @ tux|dude joined channel #supertux
+[2016/03/08 17:32:53] @ tobbot joined channel #supertux
+[2016/03/08 17:32:57] @ Quit: tobbot: Remote host closed the connection
+[2016/03/08 17:34:06] @ tobbot joined channel #supertux
+[2016/03/08 17:35:49] @ Quit: alket: Read error: error:1408F119:SSL routines:SSL3_GET_RECORD:decryption failed or bad record mac
+[2016/03/08 17:36:17] @ alket joined channel #supertux
+[2016/03/08 17:36:46] @ Quit: tobbot: Remote host closed the connection
+[2016/03/08 17:37:41] @ tobbot joined channel #supertux
+[2016/03/08 17:37:47] <tobbot> [FreeGameDev] Update: Project Showcase &amp; Collaboration • Re: Castlevania Clone (working title, demo for now)
+[2016/03/08 17:37:47] <tobbot> http://forum.freegamedev.net/viewtopic.php?t=6776&p=67899#p67899
+[2016/03/08 17:37:47] <tobbot> [FreeGameDev] Update: General • Re: Thinking about an open source [re-]release
+[2016/03/08 17:37:48] <tobbot> http://forum.freegamedev.net/viewtopic.php?t=6792&p=67898#p67898
+[2016/03/08 17:37:48] <tobbot> [FreeGameDev] Update: STK Assets • Re: About STK music and Youtube copyright notice
+[2016/03/08 17:37:48] @ Quit: tobbot: Excess Flood
+[2016/03/08 17:37:55] @ tobbot joined channel #supertux
+[2016/03/08 17:38:02] <tobbot> [FreeGameDev] Update: Project Showcase &amp; Collaboration • Re: Castlevania Clone (working title, demo for now)
+[2016/03/08 17:38:02] <tobbot> http://forum.freegamedev.net/viewtopic.php?t=6776&p=67899#p67899
+[2016/03/08 17:38:02] <tobbot> [FreeGameDev] Update: General • Re: Thinking about an open source [re-]release
+[2016/03/08 17:38:03] <tobbot> http://forum.freegamedev.net/viewtopic.php?t=6792&p=67898#p67898
+[2016/03/08 17:38:03] <tobbot> [FreeGameDev] Update: STK Assets • Re: About STK music and Youtube copyright notice
+[2016/03/08 17:38:03] @ Quit: tobbot: Excess Flood
+[2016/03/08 17:38:08] <Tobbi> Okay, that failed.
+[2016/03/08 17:50:38] @ tobbot joined channel #supertux
+[2016/03/08 17:50:38] <tobbot> [FreeGameDev] Update: Project Showcase &amp; Collaboration • Re: Castlevania Clone (working title, demo for now)
+[2016/03/08 17:50:39] <tobbot> http://forum.freegamedev.net/viewtopic.php?t=6776&p=67899#p67899
+[2016/03/08 17:51:09] <sydney_untangle> Tobbi: Really?
+[2016/03/08 17:51:18] <tobbot> [FreeGameDev] Update: OD Code • Re: [DONE] OD Windows binaries
+[2016/03/08 17:51:18] <tobbot> http://forum.freegamedev.net/viewtopic.php?t=4765&p=67900#p67900
+[2016/03/08 17:51:20] <Tobbi> sydney_untangle: What do you mean by "really"?
+[2016/03/08 17:51:27] <sydney_untangle> Tobbi: tobbot
+[2016/03/08 17:51:31] <Tobbi> sydney_untangle: Indeed.
+[2016/03/08 17:51:32] <Tobbi> :D
+[2016/03/08 17:52:06] <Tobbi> I want it to only monitor SuperTux channels, though.
+[2016/03/08 17:52:09] <sydney_untangle> Tobbi: Is he here to spam the channel as well?
+[2016/03/08 17:52:21] <sydney_untangle> Tobbi: Does that mean i don't need a logbot anymore? :D
+[2016/03/08 17:52:24] <Tobbi> sydney_untangle: No, just to say when someone replied on freegamedev.
+[2016/03/08 17:52:32] <Tobbi> sydney_untangle: And, you still do need a logbot.
+[2016/03/08 17:52:52] <sydney_untangle> Ah, cool.
+[2016/03/08 17:52:55] <sydney_untangle> :D
+[2016/03/08 17:53:10] @ Quit: tobbot: Remote host closed the connection
+[2016/03/08 17:53:34] <sydney_untangle> Tobbi: Maybe leave him connected so he is not spamming the channel with joins and quits?
+[2016/03/08 17:54:01] <sydney_untangle> And DDoSing freenode by connecting and disconecting so much. ;p
+[2016/03/08 17:54:05] <Tobbi> Yeah, I am trying.
+[2016/03/08 17:54:06] <sydney_untangle> bad joke...
+[2016/03/08 17:58:12] @ tobbot joined channel #supertux
+[2016/03/08 17:58:19] <Tobbi> I'll test it now.
+[2016/03/08 17:59:33] <Tobbi> It should pick it up within 15 seconds.
+[2016/03/08 17:59:42] <Tobbi> Assuming the feed updates successfully.
