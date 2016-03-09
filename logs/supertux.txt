@@ -17165,3 +17165,13 @@
 [2016/03/09 03:11:00] @ Quit: tuxdev_: Ping timeout: 276 seconds
 [2016/03/09 03:20:11] <Ispy> [10supertux] 07DeliciousGarfield starred 09supertux - 13https://git.io/vaT7W
 [2016/03/09 03:21:19] @ Quit: lumidify: Ping timeout: 244 seconds
+[2016/03/09 04:16:22] @ Quit: tux|dude: Quit: Leaving
+[2016/03/09 04:35:45] @ Quit: TobboT: Remote host closed the connection
+[2016/03/09 04:36:00] @ TobboT joined channel #supertux
+[2016/03/09 04:36:00] <TobboT>  [FreeGameDev] ST General • Re: Speedrunning SuperTux by brmbrmcar
+[2016/03/09 04:36:00] <TobboT> http://forum.freegamedev.net/viewtopic.php?t=6774&p=67894#p67894
+[2016/03/09 04:36:05] <Tobbi> ~
+[2016/03/09 04:36:05] <TobboT> *sigh*
+[2016/03/09 04:36:10] <Tobbi> Good, that works as well.
+[2016/03/09 05:12:55] @ Quit: nerdopolis: Ping timeout: 244 seconds
+[2016/03/09 05:12:56] @ nerdopolis___ joined channel #supertux
