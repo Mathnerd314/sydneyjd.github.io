@@ -17130,3 +17130,21 @@
 [2016/03/08 19:03:31] <TobboT> http://forum.freegamedev.net/viewtopic.php?t=6774&p=67894#p67894
 [2016/03/08 19:30:31] @ Quit: tux|dude: Quit: Leaving
 [2016/03/08 19:34:15] @ Quit: ToBeCloud: Quit: Connection closed for inactivity
+[2016/03/08 20:21:22] @ GitGud joined channel #supertux
+[2016/03/08 20:21:28] * GitGud sage
+[2016/03/08 20:23:06] @ tux|dude joined channel #supertux
+[2016/03/08 20:40:00] @ irungentoo joined channel #supertux
+[2016/03/08 21:12:36] @ ToBeCloud joined channel #supertux
+[2016/03/08 21:15:55] @ Quit: tux|dude: Quit: Leaving
+[2016/03/08 21:18:10] @ datahead8888 joined channel #supertux
+[2016/03/08 21:19:33] @ tux|dude joined channel #supertux
+[2016/03/08 21:22:55] @ tuxdev_ joined channel #supertux
+[2016/03/08 21:31:34] @ Quit: GitGud: Remote host closed the connection
+[2016/03/08 21:32:52] @ GitGud joined channel #supertux
+[2016/03/08 21:34:18] @ Quit: GitGud: Remote host closed the connection
+[2016/03/08 21:35:16] @ GitGud joined channel #supertux
+[2016/03/08 21:43:46] @ Joined channel #supertux
+[2016/03/08 21:43:46] @ Topic is "https://github.com/SuperTux | Stable: 0.4.0 | Logs at http://sydneyjd.github.io/logs/ | Nightlies: http://download.supertuxproject.org/download/ | Ideas: https://github.com/SuperTux/supertux/wiki/Milestone-3-Design-Document"
+[2016/03/08 21:43:46] @ Topic set by mt on 2016-03-03 07:24:03 -0500
+[2016/03/08 21:43:51] @ Mode +Cntzj 5:10 by verne.freenode.net
+[2016/03/08 21:43:59] @ Mode +v red_bot by ChanServ
