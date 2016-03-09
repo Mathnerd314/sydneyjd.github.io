@@ -17175,3 +17175,20 @@
 [2016/03/09 04:36:10] <Tobbi> Good, that works as well.
 [2016/03/09 05:12:55] @ Quit: nerdopolis: Ping timeout: 244 seconds
 [2016/03/09 05:12:56] @ nerdopolis___ joined channel #supertux
+[2016/03/09 06:03:44] @ ToBeCloud joined channel #supertux
+[2016/03/09 06:05:38] <Tobbi> ~
+[2016/03/09 06:05:38] <TobboT> *sigh*
+[2016/03/09 06:20:50] @ Quit: TobboT: Remote host closed the connection
+[2016/03/09 06:22:59] @ TobboT joined channel #supertux
+[2016/03/09 06:23:00] <TobboT>  [FreeGameDev] ST General • Re: Speedrunning SuperTux by brmbrmcar
+[2016/03/09 06:23:00] <TobboT> http://forum.freegamedev.net/viewtopic.php?t=6774&p=67894#p67894
+[2016/03/09 06:23:08] <Tobbi> good.
+[2016/03/09 06:23:12] <Tobbi> __sigh
+[2016/03/09 06:23:12] <TobboT> Oh don't you dare sigh back, just keep your eyes on me. I said you're holding back, she said "Shut up and sigh with me."This sighing is my destiny. She said. Whohoo, shut up and sigh with me!
+[2016/03/09 06:24:23] @ Quit: TobboT: Remote host closed the connection
+[2016/03/09 06:24:38] @ TobboT joined channel #supertux
+[2016/03/09 06:24:39] <TobboT>  [FreeGameDev] ST General • Re: Speedrunning SuperTux by brmbrmcar
+[2016/03/09 06:24:39] <TobboT> http://forum.freegamedev.net/viewtopic.php?t=6774&p=67894#p67894
+[2016/03/09 06:24:43] <Tobbi> __sigh
+[2016/03/09 06:24:43] <TobboT> Oh don't you dare sigh back, just keep your eyes on me. I said you're holding back, she said "Shut up and sigh with me!". This sighing is my destiny. She said "Whohoo, shut up and sigh with me!"
+[2016/03/09 06:45:36] @ Quit: stewboy: Quit:  HydraIRC -> http://www.hydrairc.com <- IRC with a difference
