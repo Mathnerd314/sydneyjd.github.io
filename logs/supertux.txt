@@ -17148,3 +17148,11 @@
 [2016/03/08 21:43:46] @ Topic set by mt on 2016-03-03 07:24:03 -0500
 [2016/03/08 21:43:51] @ Mode +Cntzj 5:10 by verne.freenode.net
 [2016/03/08 21:43:59] @ Mode +v red_bot by ChanServ
+[2016/03/08 22:44:47] @ Quit: tux|dude: Quit: Leaving
+[2016/03/08 23:02:39] @ Quit: nerdopolis: Quit: No Ping reply in 180 seconds.
+[2016/03/08 23:03:32] @ nerdopolis joined channel #supertux
+[2016/03/08 23:09:12] @ Quit: irungentoo: Ping timeout: 276 seconds
+[2016/03/08 23:15:29] @ tux|dude joined channel #supertux
+[2016/03/08 23:34:16] @ Quit: ToBeCloud: Quit: Connection closed for inactivity
+[2016/03/09 00:28:03] @ Anupkumar joined channel #supertux
+[2016/03/09 01:14:56] @ lumidify joined channel #supertux
