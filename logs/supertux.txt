@@ -17071,3 +17071,62 @@
 [2016/03/08 17:58:19] <Tobbi> I'll test it now.
 [2016/03/08 17:59:33] <Tobbi> It should pick it up within 15 seconds.
 [2016/03/08 17:59:42] <Tobbi> Assuming the feed updates successfully.
+[2016/03/08 18:00:28] @ Quit: tobbot: Read error: Connection reset by peer
+[2016/03/08 18:01:20] @ tobbot joined channel #supertux
+[2016/03/08 18:01:20] <tobbot> [FreeGameDev]Tobbi on ST General • Test
+[2016/03/08 18:01:20] <tobbot> http://forum.freegamedev.net/viewtopic.php?t=6818&p=67901#p67901
+[2016/03/08 18:01:31] <Tobbi> hmm...
+[2016/03/08 18:01:55] <Tobbi> NOt what I expected.
+[2016/03/08 18:01:57] @ Quit: tobbot: Remote host closed the connection
+[2016/03/08 18:03:00] <Ispy> [10supertux] Status for commit Mark to_logical const by 07Tobias Markus: 04The Travis CI build could not complete due to an error 13https://travis-ci.org/SuperTux/supertux/builds/114627074
+[2016/03/08 18:03:15] @ tobbot joined channel #supertux
+[2016/03/08 18:03:15] @ Quit: tobbot: Remote host closed the connection
+[2016/03/08 18:04:13] @ tobbot joined channel #supertux
+[2016/03/08 18:04:13] @ Quit: tobbot: Remote host closed the connection
+[2016/03/08 18:05:12] @ tobbot joined channel #supertux
+[2016/03/08 18:05:13] @ Quit: tobbot: Remote host closed the connection
+[2016/03/08 18:05:50] <Tobbi> hrm.
+[2016/03/08 18:05:52] <Tobbi> Okay, maybe not a good diea.
+[2016/03/08 18:05:54] <Tobbi> odea
+[2016/03/08 18:05:55] <Tobbi> idea
+[2016/03/08 18:06:21] <Tobbi> sydney_untangle: Also, #stk forwarded to #supertuxkart
+[2016/03/08 18:08:26] @ Quit: alket: Quit: Tung
+[2016/03/08 18:08:33] @ tobbot joined channel #supertux
+[2016/03/08 18:08:33] @ Quit: tobbot: Remote host closed the connection
+[2016/03/08 18:10:12] @ TobboT joined channel #supertux
+[2016/03/08 18:10:12] @ Quit: TobboT: Remote host closed the connection
+[2016/03/08 18:12:18] @ TobboT joined channel #supertux
+[2016/03/08 18:12:18] @ Quit: TobboT: Remote host closed the connection
+[2016/03/08 18:12:42] @ Quit: Anupkumar: Quit: Connection closed for inactivity
+[2016/03/08 18:21:20] @ TobboT joined channel #supertux
+[2016/03/08 18:21:20] <TobboT> [FreeGameDev]OD Code • Re: [DONE] OD Windows binaries
+[2016/03/08 18:21:20] <TobboT> http://forum.freegamedev.net/viewtopic.php?t=4765&p=67900#p67900
+[2016/03/08 18:21:35] @ Quit: TobboT: Remote host closed the connection
+[2016/03/08 18:23:33] @ Quit: tux|dude: Quit: Leaving
+[2016/03/08 18:34:10] @ tux|dude joined channel #supertux
+[2016/03/08 18:36:05] @ TobboT joined channel #supertux
+[2016/03/08 18:37:39] <Tobbi> This should've worked.
+[2016/03/08 18:38:00] @ Quit: TobboT: Remote host closed the connection
+[2016/03/08 18:39:17] @ TobboT joined channel #supertux
+[2016/03/08 18:39:18] <TobboT>  [FreeGameDev]ST General • Test
+[2016/03/08 18:39:18] <TobboT> http://forum.freegamedev.net/viewtopic.php?t=6819&p=67902#p67902
+[2016/03/08 18:39:41] <Tobbi> Great.
+[2016/03/08 18:39:46] @ Quit: TobboT: Remote host closed the connection
+[2016/03/08 18:41:21] @ TobboT joined channel #supertux
+[2016/03/08 18:41:22] <TobboT>  [FreeGameDev] ST General • Test by Tobbi
+[2016/03/08 18:41:22] <TobboT> http://forum.freegamedev.net/viewtopic.php?t=6819&p=67902#p67902
+[2016/03/08 18:42:42] @ Quit: TobboT: Remote host closed the connection
+[2016/03/08 18:50:10] <Tobbi> Okay, this should be it
+[2016/03/08 18:50:18] @ TobboT joined channel #supertux
+[2016/03/08 18:50:19] <TobboT>  [FreeGameDev] STK Assets • Re: About STK music and Youtube copyright notice by ChemBroTron
+[2016/03/08 18:50:19] <TobboT> http://forum.freegamedev.net/viewtopic.php?t=6814&p=67897#p67897
+[2016/03/08 18:51:48] <Tobbi> Okay, doesn't matter.
+[2016/03/08 18:52:12] <TobboT>  [FreeGameDev] ST General • Test by Tobbi
+[2016/03/08 18:52:12] <TobboT> http://forum.freegamedev.net/viewtopic.php?t=6820&p=67903#p67903
+[2016/03/08 18:52:18] <Tobbi> that works.
+[2016/03/08 19:02:14] @ Quit: TobboT: Remote host closed the connection
+[2016/03/08 19:03:31] @ TobboT joined channel #supertux
+[2016/03/08 19:03:31] <TobboT>  [FreeGameDev] ST General • Re: Speedrunning SuperTux by brmbrmcar
+[2016/03/08 19:03:31] <TobboT> http://forum.freegamedev.net/viewtopic.php?t=6774&p=67894#p67894
+[2016/03/08 19:30:31] @ Quit: tux|dude: Quit: Leaving
+[2016/03/08 19:34:15] @ Quit: ToBeCloud: Quit: Connection closed for inactivity
